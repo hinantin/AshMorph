@@ -1,0 +1,250 @@
+       #--------------------------------------------------------#
+       # delete all tags and special chars in surface forms     #
+       #--------------------------------------------------------#
+       define Cleanup1  [["@EP"|"@PRONLEN@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@PRONLEN@"]];
+       define Cleanup [Cleanup2];
+
+      define Vowels [a|e|i|o|u|á|é|í|ó|ú];
+      define Cons [b|c|d|f|g|h|j|k|l|m|n|ñ|p|q|r|s|t|v|w|y|z];
+
+      #--------------------------------#
+      # allow upper/lower case letters #
+      #--------------------------------#
+
+      define Lowercase [A (->) a, B (->) b, C (->) c,D (->) d,E (->) e,F (->) f,G (->) g,H (->) h,I (->) i,J (->) j,K (->) k,L (->) l,M (->) m,N (->) n,O (->) o,P (->) p,Q (->) q,R (->) r,S (->) s,T (->) t,U (->) u,V (->) v,W (->) w,X (->) x,Y (->) y,Z (->) z,Ñ (->) ñ];
+
+      define UpperCase [ a (->) A,b (->) B,c (->) C,d (->) D,e (->) E,f (->) F,g (->) G,h (->) H,i (->) I,j (->) J,k (->) K,l (->) L,m (->) M,n (->) N,o (->) O,p (->) P,q (->) Q,r (->) R,s (->) S,t (->) T,u (->) U,v (->) V,w (->) W,x (->) X,y (->) Y,z (->) Z,ñ (->) Ñ];
+
+      ##########################
+      #        Ortography      #
+      # Normalization Patterns #
+      #                        #
+      ##########################
+
+      define QUIReplacement [ {ky} (->) {qui} || _ [a|á] ];
+      define QUReplacement [ {k} (->) {qu} || _ [e|i|é|í] ,, {k} (->) {qü} || _ [e|i|é|í] ];
+      define CReplacement [ {k} (->) {c} || _ [a|o|u|á|é|í] ];
+
+      define JReplacement [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
+
+      define BReplacement [ {v} (->) {b} || _ Vowels ];
+      define WReplacement [ {v} (->) {w} || _ Vowels ];
+
+      define PIReplacement [ {py} (->) {pi} || _ [a|á] ];
+      define KIReplacement [ {ky} (->) {ki} || _ [a|á] ,, {ky} (->) {qy} || _ [a|á] ]; 
+      define RIReplacement [ {ry} (->) {ri} || _ [a|á] ];
+
+      define TIReplacement [ {ty} (->) {ti} || _ [e|é] ];
+
+      define THReplacement [ {ts} (->) {th} || _ [a|á] ];
+
+      define NYReplacement [ {ny} (->) {ñ} || _ Vowels ];
+      define VowelsWithAccent [ {a} (->) {á}, {e} (->) {é}, {i} (->) {í},{o} (->) {ó}, {u} (->) {ú}];
+
+      define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement .o. JReplacement .o. BReplacement .o. WReplacement 
+.o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent ];
+
+      ##########################
+      #                        #
+      #          Verbs         #
+      #                        #
+      ##########################
+      source v-p-1.foma
+      source v-p-2.foma
+
+      define Pref [(P=1) (P=2)] ;
+
+      ##########################
+      #                        #
+      #        Epenthesis      #
+      #                        #
+      ##########################
+      define AEpenthesisRule1 [ "@EP" (->) {a}"@EP" || t _ v ]; 
+      define AEpenthesisRule2 [ "@EP" (->) {a}"@EP" || r _ y ]; 
+
+      define AEpenthesisRule3 [ "@EP" (->) {a}"@EP" || s _ r ]; # pinkatsari
+      define AEpenthesisRule4 [ "@EP" (->) {a}"@EP" || k _ m ]; # notoncamento
+      define AEpenthesisRule5 [ "@EP" (->) {a}"@EP" || t _ m ]; # itotamento
+      define AEpenthesisRule6 [ "@EP" (->) {a}"@EP" || k _ n ]; # notyoonkantsi
+      define AEpenthesisRule7 [ "@EP" (->) {a}"@EP" || k _ v ]; # pokabaetantsi
+      define AEpenthesisRule8 [ "@EP" (->) {a}"@EP" || p _ v ]; # Pabaetantsi
+      define AEpenthesisRule9 [ "@EP" (->) {a}"@EP" || v _ v ]; # Obabaetantsi
+      define AEpenthesisRule10 [ "@EP" (->) {a}"@EP" || r _ v ]; # irabaetantsi
+      define AEpenthesisRule11 [ "@EP" (->) {a}"@EP" || m _ v ]; # timabaetantsi
+
+      define TEpenthesisRule1 [ "@EP" (->) {t}"@EP" || i _ i ]; 
+      define TEpenthesisRule2 [ "@EP" (->) {t}"@EP" || a _ a ]; 
+      define TEpenthesisRule3 [ "@EP" (->) {t}"@EP" || e _ a ]; 
+      define TEpenthesisRule4 [ "@EP" (->) {t}"@EP" || a _ e ]; 
+      define TEpenthesisRule5 [ "@EP" (->) {t}"@EP" || o _ a ]; # Amitakotaantsi
+      define TEpenthesisRule6 [ "@EP" (->) {t}"@EP" || i _ a ]; # Antabaitantsi
+      define TEpenthesisRule7 [ "@EP" (->) {t}"@EP" || e _ i ]; # Raniwaeti
+      define TEpenthesisRule8 [ "@EP" (->) {t}"@EP" || o _ e ]; # aminakotero
+																															# This rule is not working for this entry: Ikinkishiriaka 
+																															# but for Ikinkishiritaka, for this reason we apply an optional rule
+
+      define TZEpenthesisRule1 [ "@EP" (->) {tz}"@EP" || e _ i ]; # ^EP IRREALIS ; 
+      define TZEpenthesisRule2 [ "@EP" (->) {tz}"@EP" || a _ i ]; 
+      define TZEpenthesisRule3 [ t"@EP" (->) {tz}"@EP" || n _ i ]; # kant@EPi -> ocantzi
+
+      define TSEpenthesisRule1 [ "@EP" (->) {ts}"@EP" || i _ i ];  # ts allophone to tz
+                                                                 # n-amatawits-i-mi
+      define TSEpenthesisRule2 [ "@EP" (->) {ts}"@EP" || o _ a ];  # potsotsaantsi
+
+      
+      define CleanUpEpenthesisRule6 [ "" (->) "@EP" || i _ {antsi} ]; # kinkishiriantsi
+
+      define Epenthesis [ AEpenthesisRule1 .o. AEpenthesisRule2 .o. AEpenthesisRule3 .o. AEpenthesisRule4 .o. AEpenthesisRule5 .o. AEpenthesisRule6 
+.o. AEpenthesisRule7 .o. AEpenthesisRule8 .o. AEpenthesisRule9 .o. AEpenthesisRule10 .o. AEpenthesisRule11 
+.o. TEpenthesisRule1 .o. TEpenthesisRule2 .o. TEpenthesisRule3 .o. TEpenthesisRule4 .o. TEpenthesisRule5 .o. TEpenthesisRule6 .o. TEpenthesisRule7 .o. TEpenthesisRule8 
+.o. TZEpenthesisRule1 .o. TZEpenthesisRule2 .o. TZEpenthesisRule3 
+.o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
+.o. CleanUpEpenthesisRule6 ];
+
+      ##########################
+      #                        #
+      #        Transitive      #
+      #                        #
+      ##########################
+#       define TransSubj1 [ "[1SG.A+]" <- "[1SG.S+]" || _ ?* "[+1SG.O]"];
+#       define TransSubj2 [ "[2SG.A+]" <- "[2SG.S+]" || _ ?* "[+2SG.O]"];
+#       define TransSubj3 [ "[3SGm.A+]" <- "[3SGm.S+]" || _ ?* "[+3SGm.O]"];
+#       define TransSubj4 [ "[3SGnm.A+]" <- "[3SGnm.S+]" || _ ?* "[+3SGnm.O]"];
+#       define TransSubj5 [ "[1PL.A+]" <- "[1PL.S+]" || _ ?* "[+1PL.O]"];
+#      define VerbRules TransSubj1 .o. TransSubj2 .o. TransSubj3 .o. TransSubj4 .o. TransSubj5 ;
+
+      source v-s-1.foma
+      source v-s-2.foma
+      source v-s-3.foma
+      source v-s-4.foma
+#      source v-s-5.foma
+#      source v-s-6.foma
+#      source v-s-7.foma
+      source verb.suffix.prq.script
+      source verb.transitions.prq.script
+
+#      define S [ (V=S=1) (V=S=2) (V=S=3) (V=S=4) ]; #(V=S=3) (S=4) (S=5) (S=6) (S=7)] ;
+      define Suff [S] ;
+
+      ##########################
+      #   Subject / Object     #
+      #     Restricctions      #
+      #                        #
+      ##########################
+      # not accepting the incorrect combinations S .. O
+      define TransSubjRestr1 [~$["[1SG.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
+      define TransSubjRestr2 [~$["[2SG.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
+      define TransSubjRestr3 [~$["[3SGm.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
+      define TransSubjRestr4 [~$["[3SGnm.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
+      define TransSubjRestr5 [~$["[1PL.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
+      define MINSUFFIX  [~$[ ?*"--"?* ] ]; 
+
+#      define TransSubjRestr6 [~$[["[VRoot"]?*".O]"]];
+#      define FeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. TransSubjRestr6] ;
+      define FeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. MINSUFFIX ] ;
+#      define FeatRestr [ TransSubjRestr3 ] ;
+
+      source vroot.prq.foma
+      source vroot.es.foma
+        define VRootPRQ [VRootPRQin|VRootEsin];
+      
+#      define Verb FeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
+      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis .o. FeatRestr ;
+
+      ##########################
+      #                        #
+      #          Nouns         #
+      #                        #
+      ##########################
+      source n-p-1.foma
+      define NPref [(N=P=1)] ;
+
+      source n-s-1.foma
+      source n-s-2.foma
+      source n-s-3.foma
+      source noun.suffix.prq.script
+      source noun.transitions.prq.script
+
+      define NSuff [ N ]; #(N=S=1) (N=S=2) (N=S=3)] ;
+
+      ###################################
+      #          Lenition Rules         #
+      ###################################
+
+      define PWLenitionRule1 [ "@PRONLEN@"p -> "@PRONLEN@"v || [{o}] _ [{i}|{a}] ]; 
+                                                                            # nopito (in our lexicon) -> no@PRONLEN@pito -> no@PRONLEN@vito -> novito 
+      define KJLenitionRule1 [ "@PRONLEN@"k -> "@PRONLEN@"y || _ [{o}|{a}] ]; 
+      
+      define KLenitionRule2 [ "@PRONLEN@"k -> "@PRONLEN@" || [{o}] _ [{i}] ]; 
+                                                                            # nokitzi (in our lexicon) -> no@PRONLEN@kitzi -> no@PRONLEN@itzi -> noitzi
+      define KLenitionRule3 [ "@PRONLEN@"k -> "@PRONLEN@" || [{i}] _ [{i}] ]; 
+                                                                            # ikishi (in our lexicon) -> i@PRONLEN@kishi -> i@PRONLEN@ishi -> iishi 
+      define Lenition [ PWLenitionRule1 .o. KJLenitionRule1 .o. 
+KLenitionRule2 .o. KLenitionRule3 ];
+
+      #########################################
+      #          Vowel Deletion Rules         #
+      #########################################
+      # noirani (in our lexicon) -> no@PRONLEN@irani -> n@PRONLEN@irani -> nirani 
+#      define VowelLossRule1 [ o"@PRONLEN@" -> "@PRONLEN@" || n _ [{i}|{o}|{a}] ]; 
+#      define VowelLossRule2 [ i"@PRONLEN@" -> "@PRONLEN@" || p _ [{i}|{o}|{a}] ]; 
+      
+#      define VowelLoss [ VowelLossRule1 .o. VowelLossRule2 ];
+      
+      source nroot.prq.foma
+      source aroot.prq.foma
+      source nroot.es.foma
+      source pronoun.prq.foma
+        define NRootPRQ [NRootPRQin|ARootPRQin|PronounPRQin|NRootESin];
+      define Noun [ (NPref) [NRootPRQ] (NSuff) ] .o. Lenition ; #.o. VowelLoss ;
+      
+      ##########################
+      #                        #
+      #         Adverb         #
+      #                        #
+      ##########################
+      source advroot.prq.foma
+        define AdvRootPRQ AdvRootPRQin;
+      define Adverb [ [AdvRootPRQ] ];
+
+      ##########################
+      #                        #
+      #          Other         #
+      #                        #
+      ##########################
+      source oroot.prq.foma
+        define ORootPRQ ORootPRQin;
+      define Other [ [ORootPRQ] ];
+
+      ##########################
+      #                        #
+      #        Negator         #
+      #                        #
+      ##########################
+      source neg.prq.foma
+        define NegPRQ NegPRQin;
+      define Negator [ [NegPRQ] ];
+
+      ##########################
+      #                        #
+      # Interrogative Pronoun  #
+      #                        #
+      ##########################
+      source interrogative.prq.foma
+        define WhPRQ WhPRQin;
+      define Interrogative [ [WhPRQ] ];
+
+      ##########################
+      #                        #
+      #       Interjection     #
+      #                        #
+      ##########################
+      source interjection.prq.foma
+        define InterjPRQ InterjPRQin;
+      define Interjection [ [InterjPRQ] ];
+
+      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Interjection] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+
+      save stack asheninka.bin
+
