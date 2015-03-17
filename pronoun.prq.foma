@@ -1,0 +1,14 @@
+define PronounPRQin [
+  "[PronounPRQ][=you.C.F][=avintsi]" : {avintsi}
+| "[PronounPRQ][=you][=aviroka]" : {aviroka}
+| "[PronounPRQ][=he.FOC][=irintsi]" : {irintsi}
+| "[PronounPRQ][=he][=iriro]" : {iriro}
+| "[PronounPRQ][=he][=irirori]" : {irirori}
+| "[PronounPRQ][=he.FOC][=irirori]" : {irirori}
+| "[PronounPRQ][=she][=iroo]" : {iroo}
+| "[PronounPRQ][=3PL.n.m.][=irooite]" : {irooite}
+| "[PronounPRQ][=they.n.m][=iroori]" : {iroori}
+| "[PronounPRQ][=she][=iroori]" : {iroori}
+| "[PronounPRQ][=she.FOC][=iroori]" : {iroori}
+| "[PronounPRQ][=I][=naaka]" : {naaka}
+];

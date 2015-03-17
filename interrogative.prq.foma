@@ -1,0 +1,13 @@
+define WhPRQin [
+  "[WhPRQ][=when][=arika]" : {arika}
+| "[WhPRQ][=when/if][=arika]" : {arika}
+| "[WhPRQ][=when][=aririka]" : {aririka}
+| "[WhPRQ][=who][=ninka]" : {ninka}
+| "[WhPRQ][=whoever][=ninkarika]" : {ninkarika}
+| "[WhPRQ][=WH][=paita]" : {paita}
+| "[WhPRQ][=WH][=tsika]" : {tsika}
+| "[WhPRQ][=where][=tsika]" : {tsika}
+| "[WhPRQ][=what][=tsika]" : {tsika}
+| "[WhPRQ][=WH][=tsika.paita]" : {tsika.paita}
+| "[WhPRQ][=WH.COND][=tsikarika]" : {tsikarika}
+];

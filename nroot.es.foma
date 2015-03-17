@@ -1,0 +1,15 @@
+define NRootESin [
+  "[NRootEs][=company][=compañia]" : {compañia}
+| "[NRootEs][=contract][=contrato]" : {contrato}
+| "[NRootEs][=exercise][=ejercicio]" : {ejercicio}
+| "[NRootEs][=school][=escuela]" : {escuela}
+| "[NRootEs][=school][=escuela]" : {eskuera}
+| "[NRootEs][=state][=estado]" : {estado}
+| "[NRootEs][=engineer][=ingeniero]" : {ingeniero}
+| "[NRootEs][=person’s.name][=juan.santos.atahualpa]" : {juan.santos.atahualpa}
+| "[NRootEs][=math][=matematika]" : {matematika}
+| "[NRootEs][=table][=mesa]" : {mesa}
+| "[NRootEs][=mission][=misión]" : {misión}
+| "[NRootEs][=soldier][=soraro]" : {soraro}
+| "[NRootEs][=bag][=volsa]" : {volsa}
+];

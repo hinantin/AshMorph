@@ -1,0 +1,108 @@
+      define N=S=poss [
+       "[--][+poss]" : [{te}|{ni}|{ri}]
+      ];
+      
+      define N=S=DEM [
+       "[--][+DEM]" : [{ka}|{nta}|{ra}]
+      ];
+      
+      define N=S=PL [
+       "[--][+PL]" : [{paye}|{payeni}|{payeeni}|{paeni}|{pe}]
+      ];
+      
+      define N=S=DIM [
+       "[--][+DIM]" : [{patsaini}|{ini}|{ni}|{aniki}]
+      ];
+      
+      define N=S=LOC [
+       "[--][+LOC]" : [{ki}]
+      ];
+      
+      define N=S=ABS [
+       "[--][+ABS]" : [{tsi}|{rentsi}|{ntsi}|{rintsi}|{rontsi}]
+      ];
+      
+      define N=S=CL [
+       "[--][+CL]" : [{tsa}]
+      ];
+      
+      define N=S=smallpartDIM [
+       "[--][+small.part.DIM]" : [{patsaini}]
+      ];
+      
+      define N=S=noun [
+       "[--][+noun]" : [{poroki}|{shi}|{patsa}|{panki}|{konta}|{chaari}|{satzi}|{tsapya}]
+      ];
+      
+      define N=S=ADV [
+       "[--][+ADV]" : [{nta}]
+      ];
+      
+      define N=S=EXCL [
+       "[--][+EXCL]" : [{ve}]
+      ];
+      
+      define N=S=ADVP [
+       "[--][+ADV.P]" : [{ranki}]
+      ];
+      
+      define N=S=AUG [
+       "[--][+AUG]" : [{ni}|{ite}|{pero}]
+      ];
+      
+      define N=S=deceased [
+       "[--][+deceased]" : [{ni}]
+      ];
+      
+      define N=S=leaf [
+       "[--][+leaf]" : [{shi}|{tsipana}]
+      ];
+      
+      define N=S=EMPH [
+       "[--][+EMPH]" : [{kya}|{ka}|{ha}]
+      ];
+      
+      define N=S=smallpart [
+       "[--][+small.part]" : [{patsa}]
+      ];
+      
+      define N=S=Q [
+       "[--][+Q]" : [{ka}]
+      ];
+      
+      define N=S=DISTREL [
+       "[--][+DIST.REL]" : [{tsori}]
+      ];
+      
+      define N=S=DUB [
+       "[--][+DUB]" : [{taima}|{ma}]
+      ];
+      
+      define N=S=ADVT [
+       "[--][+ADV.T]" : [{ranki}]
+      ];
+      
+      define N=S=this [
+       "[--][+this]" : [{ka}]
+      ];
+      
+      define N=S=CNTR [
+       "[--][+CNTR]" : [{ha}|{maha}]
+      ];
+      
+      define N=S=wide [
+       "[--][+wide]" : [{tsantsana}]
+      ];
+      
+      define N=S=NMZ [
+       "[--][+NMZ]" : [{nka}|{ri}]
+      ];
+      
+      define N=S=PROG [
+       "[--][+PROG]" : [{atz}]
+      ];
+      
+      define N=S=REAL [
+       "[--][+REAL]" : [{i}]
+      ];
+      

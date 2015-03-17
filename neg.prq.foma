@@ -1,0 +1,16 @@
+define NegPRQin [
+  "[NegPRQ][=NEG.IRR][=airo]" : {airo}
+| "[NegPRQ][=NEG.IRR.COND][=airorika]" : {airorika}
+| "[NegPRQ][=NEG.IRR][=airo]" : {eero}
+| "[NegPRQ][=NEG.IRR][=airo]" : {eiro}
+| "[NegPRQ][=NEG.IRR][=airo]" : {ero}
+| "[NegPRQ][=NEG.COP][=kaari]" : {kaari}
+| "[NegPRQ][=NEG.C][=kaari]" : {kaari}
+| "[NegPRQ][=NEG.P][=kaari]" : {kaari}
+| "[NegPRQ][=NEG.W][=taan]" : {taan}
+| "[NegPRQ][=NEG.REAL][=te]" : {te}
+| "[NegPRQ][=NEG][=te]" : {te}
+| "[NegPRQ][=NEG.REAL][=te]" : {tee}
+| "[NegPRQ][=NEG.EXIST][=tekatsi]" : {tekatsi}
+| "[NegPRQ][=NEG.COND][=terika]" : {terika}
+];
