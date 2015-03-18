@@ -125,7 +125,7 @@ define NRootPRQin [
 | "[NRoot][=riddle][=kompita]" : {kompita}
 | "[NRoot][=elbow][=konaki]" : {konaki}
 | "[NRoot][=father.in.law.of.a.man][=konki]" : {konki}
-| "[NRoot][=tortoise,turtle,motelo.turtle,land.turtle.sp.][=konoya]" : {konoya}
+| "[NRoot][=tortoise, turtle, motelo, turtle, land.turtle.sp.][=konoya]" : {konoya}
 | "[NRoot][=sole][=konta]" : {konta}
 | "[NRoot][=woman][=kooya]" : {kooya}
 | "[NRoot][=corral.n.m.][=korarintsi]" : {korarintsi}
@@ -164,8 +164,7 @@ define NRootPRQin [
 | "[NRoot][=water,river][=nihaa]" : [{nihaa}|{niha}]
 | "[NRoot][=breast][=nii]" : {nii}
 | "[NRoot][=mother][=niro]" : {niro}
-| "[NRoot][=word,language][=nyaa]" : {nyaa}
-| "[NRoot][=word][=nyaantsi]" : {nyaantsi}
+| "[NRoot][=word, language][=nyaa]" : {nyaa}
 | "[NRoot][=shore][=ochera]" : [{ochera}|{ocheraa}]
 | "[NRoot][=branch][=ochevo]" : {ochevo}
 | "[NRoot][=lamb][=oisha]" : {oisha}
