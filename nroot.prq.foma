@@ -40,7 +40,7 @@ define NRootPRQin [
 | "[NRoot][=sister][=chooki]" : {chooki}
 | "[NRoot][=red.and.black.seed][=chovankeriki]" : {chovankeriki}
 | "[NRoot][=huayruro][=chovankiri]" : {chovankiri}
-| "[NRoot][=child][=eentsi]" : {eentsi}
+| "[NRoot][=child][=eentsi]" : [{eentsi}|{entsi}]
 | "[NRoot][=river][=eni]" : {eni}
 | "[NRoot][=young.man][=evankari]" : {evankari}
 | "[NRoot][=child][=hananeki]" : {hananeki}
@@ -70,8 +70,7 @@ define NRootPRQin [
 | "[NRoot][=this.side.of.the.river][=intatzikironta]" : {intatzikironta}
 | "[NRoot][=inside][=intsompoi]" : {intsompoi}
 | "[NRoot][=other.side][=intyatzini]" : {intyatzini}
-| "[NRoot][=blood][=ira]" : {ira}
-| "[NRoot][=blood][=iraa]" : {iraa}
+| "[NRoot][=blood][=iraa]" : [{iraa}|{ira}]
 | "[NRoot][=father][=iri]" : {iri}
 | "[NRoot][=milk][=irichi]" : {irichi}
 | "[NRoot][=poney][=iriiki]" : {iriiki}
@@ -217,7 +216,7 @@ define NRootPRQin [
 | "[NRoot][=ground][=ponkitzi]" : {ponkitzi}
 | "[NRoot][=leg][=pori]" : {pori}
 | "[NRoot][=thigh][=pori]" : {pori}
-| "[NRoot][=face][=poro]" : {poro}
+| "[NRoot][=face][=poro]" : [{poro}|{poo}|{voro}]
 | "[NRoot][=bunch][=poroki]" : {poroki}
 | "[NRoot][=annatto][=potsotzi]" : {potsotzi}
 | "[NRoot][=bow][=pyaameni]" : {pyaameni}
@@ -249,11 +248,11 @@ define NRootPRQin [
 | "[NRoot][=fish][=shima]" : {shima}
 | "[NRoot][=fish.sp.][=shima]" : {shima}
 | "[NRoot][=week][=shimaana]" : {shimaana}
-| "[NRoot][=fish.trap][=shimperi]" : {shimperi}
 | "[NRoot][=eyelash][=shimpityoki]" : {shimpityoki}
 | "[NRoot][=horsefly][=shimpoki]" : {shimpoki}
 | "[NRoot][=kapok.tree][=shina]" : {shina}
 | "[NRoot][=corn][=shinki]" : [{shinki}|{zinki}|{sinki}]
+| "[NRoot][=fish.trap, fishing.trap][=shimperi]" : [{shimperi}|{simpiri}]
 | "[NRoot][=daughter][=shinto]" : {shinto}
 | "[NRoot][=raft][=shintsipaa]" : {shintsipaa}
 | "[NRoot][=man][=shirampari]" : {shirampari}
@@ -273,7 +272,7 @@ define NRootPRQin [
 | "[NRoot][=corral][=tantotsi]" : {tantotsi}
 | "[NRoot][=power][=tasorinka]" : {tasorinka}
 | "[NRoot][=blessing][=tasorinka]" : {tasorinka}
-| "[NRoot][=god, saint, sacred][=tasorintsi]" : [{tasorintsi}|{tajorentsi}|{tasorentsi}|{tazorentzi}]
+| "[NRoot][=god, saint, sacred][=tasorintsi]" : [{tasorintsi}|{tajorentsi}|{tasorentsi}|{tazorentzi}|{tsorentsi}|{tsorintsi}]
 | "[NRoot][=none][=tekatsi]" : {tekatsi}
 | "[NRoot][=buttock][=tete]" : {tete}
 | "[NRoot][=weaver][=tihatsi]" : {tihatsi}
@@ -323,7 +322,6 @@ define NRootPRQin [
 | "[NRoot][=fat.m][=vatsantzi]" : {vatsantzi}
 | "[NRoot][=person’s.name][=vela]" : {vela}
 | "[NRoot][=outsider][=virakocha]" : {virakocha}
-| "[NRoot][=face][=voro]" : {voro}
 | "[NRoot][=brother][=yari]" : {yari}
 | "[NRoot][=fat][=yenka]" : {yenka}
 | "[NRoot][=ear][=yempita]" : {yempita}
