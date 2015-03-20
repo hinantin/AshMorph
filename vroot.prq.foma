@@ -22,14 +22,14 @@ define VRootPRQin [
 | "[VRoot][=see, look, look.for, look.after, take.care.of][=amin]" : [{amin}|{amen}]
 | "[VRoot][=be.accustomed][=amit]" : {amit}
 | "[VRoot][=help][=amitako]" : {amitako}
-| "[VRoot][=repeat][=ampi]" : {ampi}
-| "[VRoot][=roll.up][=ampinaik]" : {ampinaik}
-| "[VRoot][=be.wrinkled][=ampitsa]" : {ampitsa}
-| "[VRoot][=wrap][=amponat]" : {amponat}
 | "[VRoot][=win,gain][=anaako]" : {anaako}
 | "[VRoot][=cross][=anankori]" : {anankori}
 | "[VRoot][=go, walk, go.down][=anii]" : [{anii}|{ani}]
+| "[VRoot][=repeat][=ampi]" : {ampi}
 | "[VRoot][=repeat][=anpi]" : {anpi}
+| "[VRoot][=roll.up][=ampinaik]" : {ampinaik}
+| "[VRoot][=be.wrinkled][=ampitsa]" : {ampitsa}
+| "[VRoot][=wrap][=amponat]" : {amponat}
 | "[VRoot][=beat, build, do, hit, make, work][=ant]" : {ant}
 | "[VRoot][=go.up][=antai]" : {antai}
 | "[VRoot][=fight][=antant]" : {antant}
@@ -83,8 +83,8 @@ define VRootPRQin [
 | "[VRoot][=plead][=kamet]" : {kamet}
 | "[VRoot][=be.good][=kametsa]" : {kametsa}
 | "[VRoot][=buy][=kamitant]" : {kamitant}
-| "[VRoot][=buy][=kampitant]" : {kampitant}
 | "[VRoot][=manioc][=kaniri]" : {kaniri}
+| "[VRoot][=buy][=kampitant]" : {kampitant}
 | "[VRoot][=say][=kant]" : {kant}
 | "[VRoot][=do][=kant]" : {kant}
 | "[VRoot][=happen][=kant]" : {kant}
@@ -231,6 +231,7 @@ define VRootPRQin [
 | "[VRoot][=fall][=pary]" : {pary}
 | "[VRoot][=crush][=pas]" : {pas}
 | "[VRoot][=punish][=pasat]" : {pasat}
+| "[VRoot][=cover][=pashika]" : [{pashika}|{pashka}]
 | "[VRoot][=blanket][=pashikaro]" : {pashikaro}
 | "[VRoot][=be.embarrassed][=pashivent]" : {pashivent}
 | "[VRoot][=embarrass][=pashivent]" : {pashivent}
@@ -273,9 +274,9 @@ define VRootPRQin [
 | "[VRoot][=sit][=saik]" : {saik}
 | "[VRoot][=live][=saik]" : [{saik}|{saek}]
 | "[VRoot][=get.upset.with][=sam]" : {sam}
+| "[VRoot][=write, draw][=sankina]" : [{sankina}|{sankena}|{jankena}|{jankina}]
 | "[VRoot][=ask][=sampi]" : {sampi}
 | "[VRoot][=research][=sampita]" : {sampita}
-| "[VRoot][=write, draw][=sankina]" : [{sankina}|{sankena}|{jankena}|{jankina}]
 | "[VRoot][=grow.big][=santsa]" : {santsa}
 | "[VRoot][=stick][=sat]" : {sat}
 | "[VRoot][=wear.a.cap.on.the.head][=savoina]" : {savoina}
@@ -297,6 +298,7 @@ define VRootPRQin [
 | "[VRoot][=beard][=shipatona]" : {shipatona}
 | "[VRoot][=believe][=shiri]" : {shiri}
 | "[VRoot][=think][=shiri]" : {shiri}
+| "[VRoot][=tie][=shirik]" : {shirik}
 | "[VRoot][=grow][=shirinka]" : {shirinka}
 | "[VRoot][=laugh][=shironts]" : {shironts}
 | "[VRoot][=get.well][=shitako]" : {shitako}

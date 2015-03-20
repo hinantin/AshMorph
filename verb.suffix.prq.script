@@ -10,7 +10,7 @@
          "[--][+1SG.O]" : "@EP"{na}
        | "[--][+2SG.O]" : "@EP"{mi}
        | "[--][+3SGm.O]" : "@EP"{ri}
-       | "[--][+3SGnm.O]" : "@EP"{ro}
+       | "[--][+3SGnm.O]" : "@EP"[{ro}|{vo}]
        | "[--][+1PL.O]" : "@EP"{ai}
       ];
       
@@ -43,7 +43,8 @@
       ];
       
       define V=S=REAL [
-       "[--][+REAL]" : "@EP"[{e}|{i}|{a}|{t}|{ri}|{tzi}|{ia}|{ya}]
+       "[--][+REAL]" : "@EP"[{e}|{i}|{a}|{t}|{ri}|{tzi}] |
+       "[--][+REAL]" : "@EP"[{ia}|{ya}|{yaa}]
       ];
       
       define V=S=AUG [
@@ -151,6 +152,7 @@
       ];
       
       define V=S=NMZ [
+       "[--][+NMZ]" : "@EP"[{rontsi}|{vontsi}] |
        "[--][+NMZ]" : "@EP"[{rintsi}|{rentsi}|{renti}] |
        "[--][+NMZ]" : "@EP"[{aantsi}|{antsi}] |
        "[--][+NMZ]" : "@EP"[{nka}|{ri}|{nk}|{ntsi}|{mento}]

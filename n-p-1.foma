@@ -1,18 +1,19 @@
 # noun preffixes slot 1
 
 define N=P=1 [
-  "[1SG.poss+][=no][--]" : {no}"@PRONLEN@"
-| "[1SG.poss+][=no][--]" : {n}"@PRONLEN@"
-!| "[1SG.poss+][=Ø][--]" : "@PRONLEN@"
-| "[2SG.poss+][=p][--]" : {p}"@PRONLEN@"
-!| "[2SG.poss+][=Ø][--]" : "@PRONLEN@"
-| "[2SG.poss+][=pi][--]" : {pi}"@PRONLEN@"
-| "[3SGm.poss+][=i][--]" : {i}"@PRONLEN@"
-| "[3SGm.poss+][=i][--]" : {y}"@PRONLEN@"
-| "[3SGm.poss+][=i][--]" : {ir}"@PRONLEN@"
-| "[3SGnm.poss+][=o][--]" : {o}"@PRONLEN@"
-| "[3SGnm.poss+][=Ø][--]" : "@PRONLEN@"
-| "[1PL.poss+][=a][--]" : {a}"@PRONLEN@"
-| "[1PL.poss+][=Ø][--]" : "@PRONLEN@"
+  "[1SG.poss+][no=][--]" : {no}"@PRONLEN@"
+| "[1SG.poss+][n=][--]" : {n}"@PRONLEN@"
+!| "[1SG.poss+][Ø=][--]" : "@PRONLEN@"
+| "[2poss+][p=][--]" : {p}"@PRONLEN@"
+!| "[2poss+][Ø=][--]" : "@PRONLEN@"
+| "[2poss+][pi=][--]" : {pi}"@PRONLEN@"
+| "[3m.poss+][i=][--]" : {i}"@PRONLEN@"
+| "[3m.poss+][y=][--]" : {y}"@PRONLEN@"
+| "[3m.poss+][ir=][--]" : {ir}"@PRONLEN@"
+| "[3m.poss+][r=][--]" : {r}"@PRONLEN@" # rotsitsite -> his dog
+| "[3n.m.poss+][o=][--]" : {o}"@PRONLEN@"
+!| "[3n.m.poss+][Ø=][--]" : "@PRONLEN@"
+| "[1PL.poss+][a=][--]" : {a}"@PRONLEN@"
+!| "[1PL.poss+][Ø=][--]" : "@PRONLEN@"
 ];
 

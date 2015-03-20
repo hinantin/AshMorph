@@ -8,6 +8,7 @@ define N [
  (N=S=poss) (N=S=PL) | 
  (N=S=poss) (N=S=LOC) | 
  (N=S=ABS) | 
+ (N=S=ABS) (N=S=PL) | 
  (N=S=2poss) | 
  (N=S=2poss) (N=S=poss) | 
  (N=S=ABS) (N=S=poss) | 

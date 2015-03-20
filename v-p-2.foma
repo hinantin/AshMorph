@@ -1,7 +1,10 @@
 # preffixes slot 2
 
 define P=2 [
-  "[IRR+][=N][--]" : [{n}|{m}]
-| "[M.CAUS+][--]" : {mi}
-| "[AGT.CAUS+][--]" : [{o}|{oi}|{v}|{vi}]
+  "[IRR+][N=][--]" : [{n}|{m}]
+| "[M.CAUS+][mi=][--]" : {mi}
+| "[AGT.CAUS+][o=][--]" : {o}
+| "[AGT.CAUS+][oi=][--]" : {oi}
+| "[AGT.CAUS+][v=][--]" : {v}
+| "[AGT.CAUS+][vi=][--]" : {vi}
 ];
