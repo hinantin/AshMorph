@@ -26,7 +26,8 @@
       define QUReplacement [ {k} (->) {qu} || _ [e|i|é|í] ,, {k} (->) {qü} || _ [e|i|é|í] ];
       define CReplacement [ {k} (->) {c} || _ [a|o|u|á|é|í] ];
 
-      define JReplacement [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
+      define JReplacement1 [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
+      define JReplacement2 [ {h} (->) {j} || .#. _ Vowels ]; # changing ja -> ha at the beginning of a word
 
       define BReplacement [ {v} (->) {b} || _ Vowels ];
       define WReplacement [ {v} (->) {w} || _ Vowels ];
@@ -42,7 +43,9 @@
       define NYReplacement [ {ny} (->) {ñ} || _ Vowels ];
       define VowelsWithAccent [ {a} (->) {á}, {e} (->) {é}, {i} (->) {í},{o} (->) {ó}, {u} (->) {ú}];
 
-      define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement .o. JReplacement .o. BReplacement .o. WReplacement 
+      define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement 
+.o. JReplacement1 .o. JReplacement2 
+.o. BReplacement .o. WReplacement 
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent ];
 
       ##########################
@@ -114,10 +117,10 @@
 #       define TransSubj5 [ "[1PL.A+]" <- "[1PL.S+]" || _ ?* "[+1PL.O]"];
 #      define VerbRules TransSubj1 .o. TransSubj2 .o. TransSubj3 .o. TransSubj4 .o. TransSubj5 ;
 
-      source v-s-1.foma
-      source v-s-2.foma
-      source v-s-3.foma
-      source v-s-4.foma
+#      source v-s-1.foma
+#      source v-s-2.foma
+#      source v-s-3.foma
+#      source v-s-4.foma
 #      source v-s-5.foma
 #      source v-s-6.foma
 #      source v-s-7.foma
@@ -160,9 +163,9 @@
       source n-p-1.foma
       define NPref [(N=P=1)] ;
 
-      source n-s-1.foma
-      source n-s-2.foma
-      source n-s-3.foma
+#      source n-s-1.foma
+#      source n-s-2.foma
+#      source n-s-3.foma
       source noun.suffix.prq.script
       source noun.transitions.prq.script
 

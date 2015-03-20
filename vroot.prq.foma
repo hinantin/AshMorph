@@ -67,6 +67,7 @@ define VRootPRQin [
 | "[VRoot][=drink][=ir]" : {ir}
 | "[VRoot][=cry][=ira]" : [{ira}|{irag}|{irah}]
 | "[VRoot][=identify.as.a.witch][=itamatzi]" : {itamatzi}
+| "[VRoot][=go][=iyaa]" : {iyaa}
 | "[VRoot][=pour][=kaa]" : {kaa}
 | "[VRoot][=bathe][=kaa]" : {kaa}
 | "[VRoot][=NEG.COP][=kaari]" : {kaari}
@@ -268,11 +269,7 @@ define VRootPRQin [
 | "[VRoot][=heat][=saava]" : {saava}
 | "[VRoot][=pour][=sai]" : {sai}
 | "[VRoot][=empty][=sai]" : {sai}
-| "[VRoot][=be][=saik]" : {saik}
-| "[VRoot][=be.at][=saik]" : {saik}
-| "[VRoot][=be.in][=saik]" : {saik}
-| "[VRoot][=sit][=saik]" : {saik}
-| "[VRoot][=live][=saik]" : [{saik}|{saek}]
+| "[VRoot][=be, be.at, be.in, sit, live][=saik]" : [{saik}|{saek}]
 | "[VRoot][=get.upset.with][=sam]" : {sam}
 | "[VRoot][=write, draw][=sankina]" : [{sankina}|{sankena}|{jankena}|{jankina}]
 | "[VRoot][=ask][=sampi]" : {sampi}
@@ -371,6 +368,7 @@ define VRootPRQin [
 | "[VRoot][=get.fat, gain.weight][=vatsa]" : {vatsa}
 | "[VRoot][=be.warrior][=vayeri]" : {vayeri}
 | "[VRoot][=fade][=veha]" : {veha}
+| "[VRoot][=advance][=vira]" : {vira}
 | "[VRoot][=visit][=vitsa]" : {vitsa}
 | "[VRoot][=greet][=vitsa]" : {vitsa}
 | "[VRoot][=fix, make, create, build][=vitsik]" : [{vitsik}|{vetsik}]
