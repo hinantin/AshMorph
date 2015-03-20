@@ -1,3 +1,8 @@
+Ashaninka Morph
+===============
+
+[![Hinantin](http://hinantin.com/home2/images/joomlaplates/jp-blog.png)](http://hinantin.com)
+
 Compiling with the Foma Toolkit
 ===============================
 
