@@ -1,5 +1,7 @@
       define N=S=poss [
-       "[--][+poss]" : [{te}|{ni}|{ri}]
+       "[--][+poss][-te]" : {te} |
+       "[--][+poss][-ni]" : {ni} |
+       "[--][+poss][-ri]" : [{ri}|{re}]
       ];
       
       define N=S=DEM [
@@ -7,7 +9,9 @@
       ];
       
       define N=S=PL [
-       "[--][+PL]" : [{paye}|{payeni}|{payeeni}|{paeni}|{pe}]
+       "[--][+PL][-paye]" : {paye} |
+       "[--][+PL][-payeni]" : [{payeni}|{payeeni}|{paeni}] |
+       "[--][+PL][-pe]" : {pe}
       ];
       
       define N=S=DIM [
@@ -104,5 +108,17 @@
       
       define N=S=REAL [
        "[--][+REAL]" : [{i}]
+      ];
+      
+      define N=S=IRR [
+       "[--][+IRR]" : [{ya}]
+      ];
+      
+      define N=S=RCG [
+       "[--][+RCG]" : [{ranki}]
+      ];
+      
+      define N=S=DEMNOM [
+       "[--][+DEM.NOM]" : [{ra}]
       ];
       

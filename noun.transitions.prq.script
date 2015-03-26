@@ -63,5 +63,13 @@ define N [
  (N=S=CL) (N=S=poss) (N=S=LOC) | 
  (N=S=AUG) (N=S=NMZ) | 
  (N=S=PROG) (N=S=REAL) | 
- (N=S=ABS) (N=S=LOC) (N=S=DEM)  
+ (N=S=ABS) (N=S=PL) | 
+ (N=S=ABS) (N=S=LOC) (N=S=DEM) | 
+ (N=S=ABS) (N=S=LOC) | 
+ (N=S=IRR) (N=S=NMZ) | 
+ (N=S=RCG) | 
+ (N=S=DIM) (N=S=DEM) | 
+ (N=S=poss) (N=S=PL) (N=S=DEM) | 
+ (N=S=DEMNOM) | 
+ (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM)  
 ];

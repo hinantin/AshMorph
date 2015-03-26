@@ -9,8 +9,8 @@
       define V=S=PRNO [
          "[--][+1SG.O]" : "@EP"{na}
        | "[--][+2SG.O]" : "@EP"{mi}
-       | "[--][+3SGm.O]" : "@EP"{ri}
-       | "[--][+3SGnm.O]" : "@EP"[{ro}|{vo}]
+       | "[--][+3m.O]" : "@EP"{ri}
+       | "[--][+3n.m.O]" : "@EP"[{ro}|{vo}]
        | "[--][+1PL.O]" : "@EP"{ai}
       ];
       
@@ -55,6 +55,10 @@
        "[--][+DUR]" : "@EP"[{vai}|{vae}]
       ];
       
+      define V=S=3O [
+       "[--][+3O]" : "@EP"[{ni}]
+      ];
+      
       define V=S=BEN [
        "[--][+BEN]" : "@EP"[{vint}]
       ];
@@ -69,6 +73,10 @@
       
       define V=S=ADV [
        "[--][+ADV]" : "@EP"[{ra}|{ka}|{nta}|{ranki}|{paite}|{ni}]
+      ];
+      
+      define V=S=2O [
+       "[--][+2O]" : "@EP"[{mi}]
       ];
       
       define V=S=APPR [
@@ -124,7 +132,7 @@
       ];
       
       define V=S=ABS [
-       "[--][+ABS]" : "@EP"[{tsi}]
+       "[--][+ABS]" : "@EP"[{tsi}|{ntsi}]
       ];
       
       define V=S=noun [
@@ -291,7 +299,7 @@
       ];
       
       define V=S=ADJ [
-       "[--][+ADJ]" : "@EP"[{tsinkari}]
+       "[--][+ADJ]" : "@EP"[{tsinkari}|{ri}]
       ];
       
       define V=S=DIMDEGR [
@@ -348,5 +356,49 @@
       
       define V=S=almost [
        "[--][+almost]" : "@EP"[{tya}]
+      ];
+      
+      define V=S=STATIPRF [
+       "[--][+STAT.IPRF]" : "@EP"[{aintsi}|{atsi}]
+      ];
+      
+      define V=S=STATPRF [
+       "[--][+STAT.PRF]" : "@EP"[{aintsi}]
+      ];
+      
+      define V=S=RPST [
+       "[--][+R.PST]" : "@EP"[{ni}]
+      ];
+      
+      define V=S=STATIPFV [
+       "[--][+STAT.IPFV]" : "@EP"[{atsi}]
+      ];
+      
+      define V=S=ADVDEM [
+       "[--][+ADV.DEM]" : "@EP"[{nta}|{ka}]
+      ];
+      
+      define V=S=neck [
+       "[--][+neck]" : "@EP"[{kintsi}]
+      ];
+      
+      define V=S=SUB [
+       "[--][+SUB]" : "@EP"[{ra}|{nta}]
+      ];
+      
+      define V=S=NEG [
+       "[--][+NEG]" : "@EP"[{tsi}]
+      ];
+      
+      define V=S=real [
+       "[--][+real]" : "@EP"[{a}]
+      ];
+      
+      define V=S=RELIRR [
+       "[--][+REL.IRR]" : "@EP"[{ni}]
+      ];
+      
+      define V=S=DEMNOM [
+       "[--][+DEM.NOM]" : "@EP"[{ra}]
       ];
       

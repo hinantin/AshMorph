@@ -479,5 +479,25 @@ define S [
  (V=S=3SGmIRR) (V=S=APPLREAS) (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=REL) | 
  (V=S=DUR) (V=S=APPLINT) (V=S=STAT) (V=S=REAL) (V=S=REL) | 
  (V=S=IRR) (V=S=REP) (V=S=ICPL) (V=S=IRR) (V=S=ADV) | 
- (V=S=DIR) (V=S=CAUS) (V=S=DIR) (V=S=PRF) (V=S=REAL)  
+ (V=S=DIR) (V=S=CAUS) (V=S=DIR) (V=S=PRF) (V=S=REAL) | 
+ (V=S=IRR) (V=S=REV) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
+ (V=S=DUR) (V=S=STATIPRF) | 
+ (V=S=STATPRF) (V=S=REL) | 
+ (V=S=REAL) (V=S=PRNO) (V=S=RPST) | 
+ (V=S=PRNO) (V=S=NMZ) | 
+ (V=S=IRR) (V=S=REAL) (V=S=PRNO) | 
+ (V=S=ADJ) (V=S=AUG) | 
+ (V=S=STATIPFV) (V=S=REL) (V=S=ADVDEM) | 
+ (V=S=neck) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADVDEM) | 
+ (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) | 
+ (V=S=DIR) (V=S=IMPP) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) | 
+ (V=S=CUST) (V=S=REAL) | 
+ (V=S=REAL) (V=S=SUB) | 
+ (V=S=2S) (V=S=DUR) (V=S=REAL) (V=S=PRNO) (V=S=NEG) (V=S=DEM) | 
+ (V=S=2S) (V=S=IRR) (V=S=DEM) | 
+ (V=S=real) (V=S=Q) | 
+ (V=S=IRR) (V=S=PRNO) (V=S=RELIRR) (V=S=DEMNOM) | 
+ (V=S=IRR) (V=S=CAUSSOC) (V=S=PRF) (V=S=PRNO) | 
+ (V=S=STATIPRF) (V=S=NMZ) (V=S=DEM) | 
+ (V=S=1SGposs) (V=S=DIST)  
 ];

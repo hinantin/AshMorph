@@ -1,0 +1,13 @@
+# person pronouns
+
+define PrnPersPRQin [
+  "[=PrnPers][+1SG]" : {naaka}
+| "[=PrnPers][+2SG]" : {aviroka}
+| "[=PrnPers][+3SG.m.]" : [{iri}|{iriro}]
+| "[=PrnPers][+3SG.n.m.]" : {iroo}
+| "[=PrnPers][+1PL.INCL]" : [{aroka}|{arokaite}|{arorite}]
+| "[=PrnPers][+1PL.EXCL]" : {naakaite}
+| "[=PrnPers][+2PL]" : {avirokaite}
+| "[=PrnPers][+3PL.m.]" : [{iriroite}|{iririroite}]
+| "[=PrnPers][+3PL.n.m.]" : {iroo}
+];

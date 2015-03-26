@@ -139,6 +139,7 @@ define VRootPRQin [
 | "[VRoot][=want][=kokov]" : {kokov}
 | "[VRoot][=appear][=konyaa]" : {konyaa}
 | "[VRoot][=approach][=koraki]" : {koraki}
+| "[VRoot][=approach][=koraki]" : [{koraki}|{korake}|{kovake}]
 | "[VRoot][=kidnap][=koshi]" : {koshi}
 | "[VRoot][=steal][=koshi]" : {koshi}
 | "[VRoot][=cook][=kotsi]" : {kotsi}
@@ -261,7 +262,7 @@ define VRootPRQin [
 | "[VRoot][=cook][=posa]" : {posa}
 | "[VRoot][=hit][=posh]" : {posh}
 | "[VRoot][=dye,paint,rub.annatto][=potso]" : {potso}
-| "[VRoot][=convert, transform][=py]" : {py}
+| "[VRoot][=convert, transform][=py]" : [{py}|{pi}|{piy}|{pe}|{pey}]
 | "[VRoot][=watch][=riro]" : {riro}
 | "[VRoot][=bathe][=saa]" : {saa}
 | "[VRoot][=bathe.in.hot.water][=saa]" : {saa}

@@ -90,6 +90,7 @@
       define TZEpenthesisRule1 [ "@EP" (->) {tz}"@EP" || e _ i ]; # ^EP IRREALIS ; 
       define TZEpenthesisRule2 [ "@EP" (->) {tz}"@EP" || a _ i ]; 
       define TZEpenthesisRule3 [ t"@EP" (->) {tz}"@EP" || n _ i ]; # kant@EPi -> ocantzi
+      define TZEpenthesisRule4 [ t"@EP" (->) {tz}"@EP" || i _ i ]; # p^atziri(tz)-imo(t)~an-ac—e-ri
 
       define TSEpenthesisRule1 [ "@EP" (->) {ts}"@EP" || i _ i ];  # ts allophone to tz
                                                                  # n-amatawits-i-mi
@@ -101,7 +102,7 @@
       define Epenthesis [ AEpenthesisRule1 .o. AEpenthesisRule2 .o. AEpenthesisRule3 .o. AEpenthesisRule4 .o. AEpenthesisRule5 .o. AEpenthesisRule6 
 .o. AEpenthesisRule7 .o. AEpenthesisRule8 .o. AEpenthesisRule9 .o. AEpenthesisRule10 .o. AEpenthesisRule11 
 .o. TEpenthesisRule1 .o. TEpenthesisRule2 .o. TEpenthesisRule3 .o. TEpenthesisRule4 .o. TEpenthesisRule5 .o. TEpenthesisRule6 .o. TEpenthesisRule7 .o. TEpenthesisRule8 
-.o. TZEpenthesisRule1 .o. TZEpenthesisRule2 .o. TZEpenthesisRule3 
+.o. TZEpenthesisRule1 .o. TZEpenthesisRule2 .o. TZEpenthesisRule3 .o. TZEpenthesisRule4 
 .o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
 .o. CleanUpEpenthesisRule6 ];
 
@@ -198,8 +199,9 @@ KLenitionRule2 .o. KLenitionRule3 ];
       source nroot.prq.foma
       source aroot.prq.foma
       source nroot.es.foma
-      source pronoun.prq.foma
-        define NRootPRQ [NRootPRQin|ARootPRQin|PronounPRQin|NRootESin];
+#      source pronoun.prq.foma
+#        define NRootPRQ [NRootPRQin|ARootPRQin|PronounPRQin|NRootESin];
+        define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
       define Noun [ (NPref) [NRootPRQ] (NSuff) ] .o. Lenition ; #.o. VowelLoss ;
       
       ##########################
@@ -240,6 +242,15 @@ KLenitionRule2 .o. KLenitionRule3 ];
 
       ##########################
       #                        #
+      #    Personal Pronoun    #
+      #                        #
+      ##########################
+      source prnpers.prq.foma
+        define PrnPersPRQ PrnPersPRQin;
+      define Personal [ [PrnPersPRQ] ];
+
+      ##########################
+      #                        #
       #       Interjection     #
       #                        #
       ##########################
@@ -247,7 +258,7 @@ KLenitionRule2 .o. KLenitionRule3 ];
         define InterjPRQ InterjPRQin;
       define Interjection [ [InterjPRQ] ];
 
-      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Interjection] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Interjection] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
 
       save stack asheninka.bin
 
