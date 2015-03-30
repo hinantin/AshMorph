@@ -60,9 +60,11 @@
 
       ##########################
       #                        #
-      #        Epenthesis      #
+      #   'Empty Morph' is a   #
+      #   sort of epenthesis   #
       #                        #
       ##########################
+
       define AEpenthesisRule1 [ "@EP" (->) {a}"@EP" || t _ v ]; 
       define AEpenthesisRule2 [ "@EP" (->) {a}"@EP" || r _ y ]; 
 
@@ -132,10 +134,12 @@
       define Suff [S] ;
 
       ##########################
+      #                        #
       #   Subject / Object     #
       #     Restricctions      #
       #                        #
       ##########################
+
       # not accepting the incorrect combinations S .. O
       define TransSubjRestr1 [~$["[1SG.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
       define TransSubjRestr2 [~$["[2SG.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];

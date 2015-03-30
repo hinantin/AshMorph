@@ -76,7 +76,7 @@
       ];
       
       define V=S=2O [
-       "[--][+2O]" : "@EP"[{mi}]
+       "[--][+2O]" : "@EP"[{mi}|{mpi}]
       ];
       
       define V=S=APPR [
