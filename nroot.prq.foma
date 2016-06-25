@@ -42,7 +42,8 @@ define NRootPRQin [
 | "[NRoot][=huayruro][=chovankiri]" : {chovankiri}
 | "[NRoot][=child][=eentsi]" : [{eentsi}|{entsi}]
 | "[NRoot][=river][=eni]" : {eni}
-| "[NRoot][=young.man][=evankari]" : {evankari}
+| "[NRoot][=young.man, adolescent.m][=evankari]" : {evankari}
+| "[NRoot][=young.woman, adolescent.n.m.][=evankaro]" : {evankaro}
 | "[NRoot][=child][=hananeki]" : {hananeki}
 | "[NRoot][=top][=henoki]" : {henoki}
 | "[NRoot][=arm][=hempeki]" : {hempeki}
