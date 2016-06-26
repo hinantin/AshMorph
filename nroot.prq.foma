@@ -56,12 +56,8 @@ define NRootPRQin [
 | "[NRoot][=mother][=ina]" : {ina}
 | "[NRoot][=wife][=ina]" : {ina}
 | "[NRoot][=plant][=incha]" : {incha}
-| "[NRoot][=tree][=incha]" : {incha}
 | "[NRoot][=stick][=inchakii]" : {inchakii}
 | "[NRoot][=spatula][=inchapataki]" : {inchapataki}
-| "[NRoot][=herb][=inchashi]" : {inchashi}
-| "[NRoot][=grass][=inchashi]" : {inchashi}
-| "[NRoot][=tree][=inchato]" : {inchato}
 | "[NRoot][=scrub][=inchatomashi]" : {inchatomashi}
 | "[NRoot][=lake][=inkaari]" : {inkaari}
 | "[NRoot][=sky][=inkite]" : {inkite}
@@ -110,7 +106,7 @@ define NRootPRQin [
 | "[NRoot][=down.river][=kirinka]" : {kirinka}
 | "[NRoot][=black.person][=kisaakiri]" : {kisaakiri}
 | "[NRoot][=hair][=kishi]" : {kishi}
-| "[NRoot][=pajonalino][=kishii]" : {kishii}
+| "[NRoot][=mountainous.grassland][=kishii]" : [{kishii}|{keshii}]
 | "[NRoot][=peccary][=kitairiki]" : {kitairiki}
 | "[NRoot][=day][=kitaiteri]" : {kitaiteri}
 | "[NRoot][=dress][=kitsa]" : {kitsa}

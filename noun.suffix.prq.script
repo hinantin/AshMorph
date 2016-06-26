@@ -1,7 +1,7 @@
       define N=S=poss [
-       "[--][+poss][-te]" : {te} |
-       "[--][+poss][-ni]" : {ni} |
-       "[--][+poss][-ri]" : [{ri}|{re}]
+       "[--][-te][Cas][+Ag]" : {te} |
+       "[--][-ni][Cas][+Ag]" : [{ni}|{ne}] |
+       "[--][-ri][Cas][+Ag]" : [{ri}|{re}]
       ];
       
       define N=S=DEM [
@@ -35,7 +35,12 @@
       ];
       
       define N=S=noun [
-       "[--][+noun]" : [{poroki}|{shi}|{patsa}|{panki}|{konta}|{chaari}|{satzi}|{tsapya}]
+       "[--][+CL]" : [{patsa}|{panki}|{konta}|{chaari}|{tsapya}] | 
+       "[--][-shi][+CL:lstff][=leaf;small,thin,flexible,flat]" : {shi} |
+       "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} | 
+       "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} | 
+       "[--][-to][+CL:tree][=tree,trunk]" : {to} | 
+       "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} 
       ];
       
       define N=S=ADV [
@@ -59,7 +64,7 @@
       ];
       
       define N=S=leaf [
-       "[--][+leaf]" : [{shi}|{tsipana}]
+       "[--][+leaf]" : {tsipana}
       ];
       
       define N=S=EMPH [

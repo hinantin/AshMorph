@@ -12,4 +12,8 @@ define NRootESin [
 | "[NRootEs][=mission][=misión]" : {misión}
 | "[NRootEs][=soldier][=soraro]" : {soraro}
 | "[NRootEs][=bag][=volsa]" : {volsa}
+| "[NRootEs][=bag][=volsa]" : {volsa}
+| "[NRootEs][=Tambo][=Tambo]" : {Tampo}
+| "[NRootEs][=Ene][=Ene]" : {Ene}
+| "[NRootEs][=Apurimac][=Apurimac]" : {Apurimac}
 ];

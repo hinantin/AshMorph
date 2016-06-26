@@ -136,7 +136,7 @@
       ];
       
       define V=S=noun [
-       "[--][+noun]" : "@EP"[{vatsa}|{pori}|{ani}|{atziri}|{poroki}]
+       "[--][+noun]" : "@EP"[{vatsa}|{pori}|{ani}|{atziri}]
       ];
       
       define V=S=COND [
@@ -152,7 +152,7 @@
       ];
       
       define V=S=CL [
-       "[--][+CL]" : "@EP"[{}]
+       "[--][+CL:quantity][=group,bunch]" : "@EP"[{poroki}|{pooki}]
       ];
       
       define V=S=3mposs [
