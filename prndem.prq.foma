@@ -1,0 +1,24 @@
+define PrnRootPRQin [
+  "[PrnRoot][=here][=aka]" : {aka}
+| "[PrnRoot][=there][=anta]" : {anta}
+| "[PrnRoot][=here][=haka]" : {haka}
+| "[PrnRoot][=there][=hiri]" : {hiri}
+| "[PrnRoot][=there.he.is][=hiri]" : {hiri}
+| "[PrnRoot][=here.it.is][=hirika]" : {hirika}
+| "[PrnRoot][=here.it.is][=hiro]" : {hiro}
+| "[PrnRoot][=here.it.is][=hiroka]" : {hiroka}
+| "[PrnRoot][=this.m][=irika]" : {irika}
+| "[PrnRoot][=this][=iro]" : {iro}
+| "[PrnRoot][=DEM.n.m.][=iroka]" : {iroka}
+| "[PrnRoot][=DEM.n.m.][=irora]" : {irora}
+| "[PrnRoot][=DEM][=iyoka]" : {iyoka}
+| "[PrnRoot][=DEM][=iyora]" : {iyora}
+| "[PrnRoot][=DEM][=oka]" : {oka}
+| "[PrnRoot][=DEM.n.m.][=oka]" : {oka}
+| "[PrnRoot][=that.n.m.][=ora]" : {ora}
+| "[PrnRoot][=this.m][=yoka]" : {yoka}
+| "[PrnRoot][=DEM.m][=yoka]" : {yoka}
+| "[PrnRoot][=that][=yonta]" : {yonta}
+| "[PrnRoot][=DEM][=yora]" : {yora}
+];
+
