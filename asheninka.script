@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@PRONLEN@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@PRONLEN@"]];
+       define Cleanup1  [["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"]];
        define Cleanup [Cleanup2];
 
       define Vowels [a|e|i|o|u|á|é|í|ó|ú];
@@ -133,32 +133,35 @@
 #      define S [ (V=S=1) (V=S=2) (V=S=3) (V=S=4) ]; #(V=S=3) (S=4) (S=5) (S=6) (S=7)] ;
       define Suff [S] ;
 
-      ##########################
-      #                        #
-      #   Subject / Object     #
-      #     Restricctions      #
-      #                        #
-      ##########################
-
+      ####################################
+      #                                  #
+      #   Subject / Agent ... Object     #
+      #     Restricctions                #
+      #                                  #
+      ####################################
+      # S .. is accepted
+      
       # not accepting the incorrect combinations S .. O
-      define TransSubjRestr1 [~$["[1SG.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
-      define TransSubjRestr2 [~$["[2SG.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
-      define TransSubjRestr3 [~$["[3SGm.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
-      define TransSubjRestr4 [~$["[3SGnm.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
-      define TransSubjRestr5 [~$["[1PL.S+]"?*["[+1SG.O]"|"[+2SG.O]"|"[+3SGm.O]"|"[+3SGnm.O]"|"[+1PL.O]"]]];
-      define MINSUFFIX  [~$[ ?*"--"?* ] ]; 
-
-#      define TransSubjRestr6 [~$[["[VRoot"]?*".O]"]];
-#      define FeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. TransSubjRestr6] ;
-      define FeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. MINSUFFIX ] ;
-#      define FeatRestr [ TransSubjRestr3 ] ;
+      define TransSubjRestr1 [~$["@1SG.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
+      define TransSubjRestr2 [~$["@2S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
+      define TransSubjRestr3 [~$["@3m.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
+      define TransSubjRestr4 [~$["@3n.m.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
+      define TransSubjRestr5 [~$["@1PL.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
+     #define MINSUFFIX  [~$[ ?*"--"?* ] ]; 
+      define PrnSubject ["@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"];
+      define PrnAgent ["@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"];
+      define PrnObject ["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"];
+      define TransAgentWithoutObject ~[[PrnAgent ?*] & [?* PrnObject]];
+      define TransSubjectWithObject ~[[PrnSubject ?*] & [?* PrnObject]];
+     #define FeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5] ;
+      define FeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. TransAgentWithoutObject .o. TransSubjectWithObject] ;
 
       source vroot.prq.foma
       source vroot.es.foma
         define VRootPRQ [VRootPRQin|VRootEsin];
       
 #      define Verb FeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
-      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis .o. FeatRestr ;
+      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis .o. FeatRestr;
 
       ##########################
       #                        #
