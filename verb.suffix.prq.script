@@ -1,5 +1,6 @@
       define V=S=PROG [
-       "[--][+PROG]" : "@EP"[{aty}|{atz}|{atsi}]
+       "[--][+PROG]" : "@EP"[{atz}|{atsi}] | 
+       "[--][+PROG]" : "@EP"[{aty}|{ati}]
       ];
       
       define V=S=IRR [
@@ -9,8 +10,8 @@
       define V=S=PRNO [
          "[--][+1SG.O]" : "@EP"{na}
        | "[--][+2SG.O]" : "@EP"{mi}
-       | "[--][+3m.O]" : "@EP"{ri}
-       | "[--][+3n.m.O]" : "@EP"[{ro}|{vo}]
+       | "[--][+3m.O]" : "@3m.O"{ri}
+       | "[--][+3n.m.O]" : "@3n.m.O"[{ro}|{vo}]
        | "[--][+1PL.O]" : "@EP"{ai}
       ];
       
@@ -120,7 +121,7 @@
       ];
       
       define V=S=STAT [
-       "[--][+STAT]" : "@EP"[{atsi}|{ni}|{ach}|{acha}|{aintsi}]
+       "[--][+STAT]" : "@EP"[{atsi}|{ni}|{ach}|{acha}|{aintsi}|{aentsi}]
       ];
       
       define V=S=Q [
@@ -163,11 +164,14 @@
        "[--][+NMZ]" : "@EP"[{rontsi}|{vontsi}] |
        "[--][+NMZ]" : "@EP"[{rintsi}|{rentsi}|{renti}] |
        "[--][+NMZ]" : "@EP"[{aantsi}|{antsi}] |
-       "[--][+NMZ]" : "@EP"[{nka}|{ri}|{nk}|{ntsi}|{mento}]
+       "[--][+NMZ]" : "@EP"[{nka}|{ri}|{nk}|{ntsi}] |
+       "[--][NMZ][+CONCR]" : "@EP"[{mento}]
       ];
       
       define V=S=ADJm [
-       "[--][+ADJ.m.]" : "@EP"[{ri}|{ntzi}|{tsinkari}]
+       "[--][NMZ][+ADJ.m.]" : "@EP"[{ri}|{re}] | 
+       "[--][NMZ][+ADJ.m.]" : "@EP"[{tsinkari}] | 
+       "[--][NMZ][+ADJ.m.]" : "@EP"[{ntzi}|{ntsi}|{nti}] 
       ];
       
       define V=S=CAUSSOC [
@@ -251,7 +255,8 @@
       ];
       
       define V=S=ADJnm [
-       "[--][+ADJ.n.m.]" : "@EP"[{nto}|{ro}|{tsinkaro}]
+       "[--][NS][+ADJ.n.m.]" : "@EP"[{nto}] | 
+       "[--][NS][+ADJ.n.m.]" : "@EP"[{ro}|{tsinkaro}] 
       ];
       
       define V=S=DUB [
