@@ -25,27 +25,31 @@ define NRootPRQin [
 | "[=antami][NRoot][=forest]" : {antami}
 | "[=antoko][NRoot][=person's.name]" : {antoko}
 | "[=apa][NRoot][=father]" : {apa}
-| "[NRoot][=one][=aparo]" : {aparo}
-| "[NRoot][=somebody][=aparoni]" : {aparoni}
-| "[NRoot][=person's.name][=apiinka]" : {apiinka}
-| "[NRoot][=thigh][=aporivatsa]" : {aporivatsa}
-| "[NRoot][=steel][=ashiro]" : {ashiro}
-| "[NRoot][=ankle][=ashonki]" : {ashonki}
-| "[NRoot][=armadillo][=ashoshi]" : {ashoshi}
-| "[NRoot][=cheek][=asorina]" : {asorina}
-| "[NRoot][=person,individual,human][=atziri]" : [{atziri}|{atiri}|{atsiri}]
-| "[NRoot][=road][=avotsi]" : {avotsi}
-| "[NRoot][=dark.water][=chaari]" : {chaari}
-| "[NRoot][=arrow][=chakopi]" : {chakopi}
-| "[NRoot][=arrow][=chekopi]" : {chekopi}
-| "[NRoot][=arrow][=chikopi]" : {chikopi}
-| "[NRoot][=the.other.day][=chapinki]" : {chapinki}
-| "[NRoot][=grandpa][=charine]" : {charine}
-| "[NRoot][=grandfather][=charine]" : {charine}
-| "[NRoot][=grandpa][=charini]" : {charini}
-| "[NRoot][=grandparents][=charini]" : {charini}
-| "[NRoot][=trousers][=chenko]" : {chenko}
-| "[NRoot][=pants][=chenko]" : {chenko}
+| "[=aparo][NRoot][=one]" : {aparo}
+| "[=aparoni][NRoot][=somebody]" : {aparoni}
+| "[=apiinka][NRoot][=person's.name]" : {apiinka}
+| "[=aporivatsa][NRoot][=thigh]" : {aporivatsa}
+| "[=ashiro][NRoot][=steel]" : {ashiro}
+| "[=ashonki][NRoot][=ankle]" : {ashonki}
+| "[=ashoshi][NRoot][=armadillo]" : {ashoshi}
+| "[=asorina][NRoot][=cheek]" : {asorina}
+! person, individual, human
+| "[=atziri][NRoot][=person, individual, human]" : {atziri}
+| "[=atiri][NRoot][=person, individual, human]" : {atiri}
+| "[=atsiri][NRoot][=person, individual, human]" : {atsiri}
+!
+| "[=avotsi][NRoot][=road]" : {avotsi}
+| "[=chaari][NRoot][=dark.water]" : {chaari}
+| "[=chakopi][NRoot][=arrow]" : {chakopi}
+| "[=chekopi][NRoot][=arrow]" : {chekopi}
+| "[=chikopi][NRoot][=arrow]" : {chikopi}
+| "[=chapinki][NRoot][=the.other.day]" : {chapinki}
+! grandpa, grandfather, grandparents
+| "[=charine][NRoot][=grandpa, grandfather, grandparents]" : {charine}
+| "[=charini][NRoot][=grandpa, grandfather, grandparents]" : {charini}
+! trousers, pants
+| "[NRoot][=trousers, pants][=chenko]" : {chenko}
+! 
 | "[NRoot][=lip][=chera]" : {chera}
 | "[NRoot][=branch][=chevo]" : {chevo}
 | "[NRoot][=sister][=chooki]" : {chooki}
@@ -115,7 +119,7 @@ define NRootPRQin [
 | "[NRoot][=patridge.sp][=kintsori]" : {kintsori}
 | "[NRoot][=ground,mud,earth][=kipatsi]" : {kipatsi}
 ! palm tree species
-| "[NRoot][=palm.tree.sp.][=kiri]" : {kiri}
+| "[NRoot][=palm.tree.sp. (pijuayo)][=kiri]" : {kiri}
 | "[NRoot][=money][=kiriiki]" : [{kiriiki}|{kireeki}]
 | "[NRoot][=nose][=kirimashi]" : {kirimashi}
 | "[NRoot][=down.river][=kirinka]" : {kirinka}
@@ -212,6 +216,9 @@ define NRootPRQin [
 | "[NRoot][=fire][=paamari]" : {paamari}
 | "[NRoot][=bird.species][=paampatzi]" : {paampatzi}
 | "[NRoot][=pumpkin][=pachaka]" : {pachaka}
+! 
+| "[NRoot][=tree.sp. (chimicua)][=pamaki]" : {pamaki}
+! 
 | "[NRoot][=forehead][=pankaina]" : {pankaina}
 | "[NRoot][=plank][=panki]" : {panki}
 | "[NRoot][=house][=panko]" : {panko}
@@ -259,34 +266,39 @@ define NRootPRQin [
 | "[NRoot][=firewood][=saimpiki]" : {saimpiki}
 | "[NRoot][=paca][=samani]" : {samani}
 ! ash
-| "[NRoot][=ash][=samampo]" : {samampo}
-| "[NRoot][=ash][=hamampo]" : {hamampo}
+| "[=samampo][NRoot][=ash]" : {samampo}
+| "[=hamampo][NRoot][=ash]" : {hamampo}
 !
-| "[NRoot][=wasp][=sani]" : {sani}
+| "[=sani][NRoot][=wasp]" : {sani}
 ! flute like instrument
-| "[NRoot][=antara (flute.like.instr.)][=sonkari+n.m.]" : {sonkari}
-| "[NRoot][=antara (flute.like.instr.)][=honkari]" : {honkari}
+| "[=sonkari+n.m.][NRoot][=antara (flute.like.instr.)]" : {sonkari}
+| "[=honkari+n.m.][NRoot][=antara (flute.like.instr.)]" : {honkari}
 !
-| "[NRoot][=torch][=sampi]" : {sampi}
-| "[NRoot][=cedar.tree][=santari]" : {santari}
-| "[NRoot][=grandma][=sari]" : {sari}
-| "[NRoot][=provenance][=satzi]" : {satzi}
-| "[NRoot][=namesake][=shamitzi]" : {shamitzi}
-| "[NRoot][=agouti][=sharo]" : {sharo}
-| "[NRoot][=shoulder][=shempa]" : {shempa}
-| "[NRoot][=charapa.turtle,terrapin.sp.][=shempiri]" : {shempiri}
-| "[NRoot][=shaman][=sheripyari]" : [{sheripyari}|{sheripiare}|{sheripiari}]
-| "[NRoot][=fingernail][=shetaki]" : {shetaki}
-| "[NRoot][=afternoon][=shetene]" : {shetene}
-| "[NRoot][=afternoon][=sheteni]" : {sheteni}
-| "[NRoot][=day][=sheteni]" : {sheteni}
-| "[NRoot][=leaf][=shi]" : {shi}
-| "[NRoot][=plantain.sp.][=shiira]" : {shiira}
-| "[NRoot][=fish][=shima]" : {shima}
-| "[NRoot][=fish.sp.][=shima]" : {shima}
-| "[NRoot][=week][=shimaana]" : {shimaana}
-| "[NRoot][=kapok.tree][=shina]" : {shina}
-| "[NRoot][=corn][=shinki]" : [{shinki}|{zinki}|{sinki}]
+| "[=sampi][NRoot][=torch]" : {sampi}
+| "[=santari][NRoot][=cedar.tree]" : {santari}
+| "[=sari][NRoot][=grandma]" : {sari}
+| "[=satzi][NRoot][=provenance]" : {satzi}
+| "[=shamitzi][NRoot][=namesake]" : {shamitzi}
+| "[=sharo][NRoot][=agouti]" : {sharo}
+| "[=shempa][NRoot][=shoulder]" : {shempa}
+| "[=shempiri][NRoot][=charapa.turtle, terrapin.sp.]" : {shempiri}
+| "[=sheripyari][NRoot][=shaman]" : [{sheripyari}|{sheripiare}|{sheripiari}]
+| "[=shetaki][NRoot][=fingernail]" : {shetaki}
+! afternoon
+| "[=shetene][NRoot][=afternoon]" : {shetene}
+| "[=sheteni][NRoot][=afternoon]" : {sheteni}
+| "[=sheteni][NRoot][=day]" : {sheteni}
+! 
+| "[=shi][NRoot][=leaf]" : {shi}
+| "[=shiira][NRoot][=plantain.sp.]" : {shiira}
+| "[=shima][NRoot][=fish]" : {shima}
+| "[=shima][NRoot][=fish.sp.]" : {shima}
+| "[=shimaana][NRoot][=week]" : {shimaana}
+| "[=shina][NRoot][=kapok.tree]" : {shina}
+!
+| "[=shinki][NRoot][=corn]" : {shinki}
+| "[=zinki][NRoot][=corn]" : {zinki}
+| "[=sinki][NRoot][=corn]" : {sinki}
 ! fish trap, fishing trap
 | "[=shimperi][NRoot][=fish.trap, fishing.trap]" : {shimperi}
 | "[=simpiri][NRoot][=fish.trap, fishing.trap]" : {simpiri}
@@ -329,8 +341,8 @@ define NRootPRQin [
 ! 
 | "[NRoot][=god, saint, sacred][=tasorintsi]" : [{tasorintsi}|{tajorentsi}|{tasorentsi}|{tazorentzi}|{tsorentsi}|{tsorintsi}]
 ! 
-| "[=tekatsi][NRoot][=none]" : {tekatsi}
-| "[=tekaatsi][NRoot][=none]" : {tekaatsi}
+| "[=tekatsi][NRoot][=none, empty, zero, null]" : {tekatsi}
+| "[=tekaatsi][NRoot][=none, empty, zero, null]" : {tekaatsi}
 ! 
 | "[=tete][NRoot][=buttock]" : {tete}
 | "[=tihatsi][NRoot][=weaver]" : {tihatsi}
