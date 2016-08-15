@@ -7,13 +7,14 @@ define NRootESin [
 | "[NRootEs][=state][=estado]" : {estado}
 | "[NRootEs][=engineer][=ingeniero]" : {ingeniero}
 | "[NRootEs][=person’s.name][=juan.santos.atahualpa]" : {juan.santos.atahualpa}
-| "[NRootEs][=math][=matematika]" : {matematika}
+| "[NRootEs][=math][=matemática]" : {matematika}
 | "[NRootEs][=table][=mesa]" : {mesa}
 | "[NRootEs][=mission][=misión]" : {misión}
-| "[NRootEs][=soldier][=soraro]" : {soraro}
-| "[NRootEs][=bag][=volsa]" : {volsa}
-| "[NRootEs][=bag][=volsa]" : {volsa}
+| "[NRootEs][=soldier][=soldado]" : {soraro}
+| "[NRootEs][=bag][=bolsa]" : {volsa}
+| "[NRootEs][=bag][=bolsa]" : {volsa}
 | "[NRootEs][=Tambo][=Tambo]" : {Tampo}
 | "[NRootEs][=Ene][=Ene]" : {Ene}
 | "[NRootEs][=Apurimac][=Apurimac]" : {Apurimac}
+| "[NRootEs][=cow][=vaca]" : {vaaka}
 ];
