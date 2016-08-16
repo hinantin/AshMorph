@@ -140,145 +140,175 @@ define NRootPRQin [
 | "[=kishii][NRoot][=mountainous.grassland]" : {kishii}
 | "[=keshii][NRoot][=mountainous.grassland]" : {keshii}
 ! 
-| "[NRoot][=peccary][=kitairiki]" : {kitairiki}
-| "[NRoot][=day][=kitaiteri]" : {kitaiteri}
-| "[NRoot][=dress][=kitsa]" : {kitsa}
-| "[NRoot][=needle.m][=kitsapi]" : {kitsapi}
-| "[NRoot][=round.thing][=kitsoi]" : {kitsoi}
-| "[NRoot][=egg][=kitsoki]" : {kitsoki}
-| "[NRoot][=leg][=kitzi]" : {kitzi}
-| "[NRoot][=coca][=koka]" : {koka}
-| "[NRoot][=father][=koki]" : {koki}
-| "[NRoot][=elbow][=konaki]" : {konaki}
-| "[NRoot][=father.in.law.of.a.man][=konki]" : {konki}
-| "[NRoot][=tortoise, turtle, motelo, turtle, land.turtle.sp.][=konoya]" : {konoya}
-| "[NRoot][=second.father][=kompatsiri]" : {kompatsiri}
-| "[NRoot][=palm.tree.sp.][=kompiro]" : {kompiro}
-| "[NRoot][=yarina][=kompiroshi]" : {kompiroshi}
-| "[NRoot][=riddle][=kompita]" : {kompita}
-| "[NRoot][=sole][=konta]" : {konta}
-| "[NRoot][=woman][=kooya]" : {kooya}
-| "[NRoot][=corral.n.m.][=korarintsi]" : {korarintsi}
-| "[NRoot][=crocodile.m][=kosaniri]" : {kosaniri}
-| "[NRoot][=pit.viper.sp.,jergón][=koshipirinke]" : {koshipirinke}
-| "[NRoot][=monkey][=koshiri]" : {koshiri}
-| "[NRoot][=clay.pot][=kovitsi]" : [{kovitsi}|{koviti}|{kovitzi}]
-| "[NRoot][=machete][=kotsiro]" : {kotsiro}
-| "[NRoot][=machine][=maakina]" : {maakina}
-| "[NRoot][=beans][=machaki]" : {machaki}
-| "[NRoot][=Matsigenka][=machiyenka]" : {machiyenka}
-| "[NRoot][=bear][=maini]" : {maini}
-| "[NRoot][=macaque][=makako]" : {makako}
-| "[NRoot][=owl][=mamaro]" : [{mamaro}|{mamavo}]
-| "[NRoot][=bullet.ant][=manii]" : {manii}
-| "[NRoot][=deer][=maniro]" : {maniro}
-| "[NRoot][=tiger][=manitzi]" : [{manitzi}|{maniti}]
-| "[NRoot][=cushma][=mantsaki]" : {mantsaki}
-| "[NRoot][=stone][=mapi]" : {mapi}
-| "[NRoot][=papaya][=mapocha]" : {mapocha}
-| "[NRoot][=name.of.village][=marankiaro]" : {marankiaro}
-| "[NRoot][=womanizer][=mayempiri]" : {mayempiri}
-| "[NRoot][=name][=meantarini]" : {meantarini}
-| "[NRoot][=village's.name][=metaro]" : {metaro}
-| "[NRoot][=cloud][=minkori]" : {minkori}
-| "[NRoot][=navel][=moito]" : {moito}
-| "[NRoot][=hole][=moo]" : {moo}
-| "[NRoot][=hole][=morona]" : {morona}
-| "[NRoot][=cave][=morona]" : {morona}
-| "[NRoot][=tummy][=motsi]" : {motsi}
-| "[NRoot][=stomach][=motya]" : {motya}
-| "[NRoot][=village, place, country][=nampi]" : {nampi}
-| "[NRoot][=person's.name][=navireri]" : {navireri}
-| "[NRoot][=person's.name][=naviriri]" : {naviriri}
-| "[NRoot][=chest][=nehi]" : {nehi}
-| "[NRoot][=water,river][=nihaa]" : [{nihaa}|{niha}]
-| "[NRoot][=breast][=nii]" : {nii}
-| "[NRoot][=mother][=niro]" : {niro}
-| "[NRoot][=word, language][=nyaa]" : [{nyaa}|{nya}]
-| "[NRoot][=shore][=ochera]" : [{ochera}|{ocheraa}]
-| "[NRoot][=branch][=ochevo]" : {ochevo}
-| "[NRoot][=lamb][=oisha]" : {oisha}
-| "[NRoot][=sheep][=oisha]" : {oisha}
+| "[=kitairiki][NRoot][=peccary]" : {kitairiki}
+| "[=kitaiteri][NRoot][=day]" : {kitaiteri}
+| "[=kitsa][NRoot][=dress]" : {kitsa}
+| "[=kitsapi][NRoot][=needle.m.]" : {kitsapi}
+| "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
+| "[=kitsoki][NRoot][=egg]" : {kitsoki}
+| "[=kitzi][NRoot][=leg]" : {kitzi}
+| "[=koka][NRoot][=coca]" : {koka}
+| "[=koki][NRoot][=father]" : {koki}
+| "[=konaki][NRoot][=elbow]" : {konaki}
+| "[=konki][NRoot][=father.in.law.of.a.man]" : {konki}
+| "[=konoya][NRoot][=tortoise, turtle, motelo, turtle, land.turtle.sp.]" : {konoya}
+| "[=kompatsiri][NRoot][=second.father]" : {kompatsiri}
+| "[=kompiro][NRoot][=palm.tree.sp.]" : {kompiro}
+| "[=kompiroshi][NRoot][=yarina]" : {kompiroshi}
+| "[=kompita][NRoot][=riddle]" : {kompita}
+| "[=konta][NRoot][=sole]" : {konta}
+| "[=kooya][NRoot][=woman]" : {kooya}
+| "[=korarintsi][NRoot][=corral.n.m.]" : {korarintsi}
+| "[=kosaniri][NRoot][=crocodile.m.]" : {kosaniri}
+| "[=koshipirinke][NRoot][=pit.viper.sp., jergón]" : {koshipirinke}
+| "[=koshiri][NRoot][=monkey]" : {koshiri}
+| "[=kovitsi][NRoot][=clay.pot]" : [{kovitsi}|{koviti}|{kovitzi}]
+| "[=kotsiro][NRoot][=machete]" : {kotsiro}
+| "[=machaki][NRoot][=beans]" : {machaki}
+| "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
+| "[=maini][NRoot][=bear]" : {maini}
+| "[=makako][NRoot][=macaque]" : {makako}
+| "[=mamaro][NRoot][=owl]" : [{mamaro}|{mamavo}]
+| "[=manii][NRoot][=bullet.ant]" : {manii}
+| "[=maniro][NRoot][=deer]" : {maniro}
+! 
+| "[NRoot][=tiger][=manitzi]" : {manitzi}
+| "[NRoot][=tiger][=maniti]" : {maniti}
+! 
+| "[=mantsaki][NRoot][=cushma]" : {mantsaki}
+| "[=mapi][NRoot][=stone]" : {mapi}
+| "[=mapocha][NRoot][=papaya]" : {mapocha}
+| "[=marankiaro][NRoot][=name.of.village]" : {marankiaro}
+| "[=mayempiri][NRoot][=womanizer]" : {mayempiri}
+| "[=meantarini][NRoot][=name]" : {meantarini}
+| "[=metaro][NRoot][=village's.name]" : {metaro}
+| "[=minkori][NRoot][=cloud]" : {minkori}
+| "[=moito][NRoot][=navel]" : {moito}
+| "[=moo][NRoot][=hole]" : {moo}
+| "[=morona][NRoot][=hole]" : {morona}
+| "[=morona][NRoot][=cave]" : {morona}
+| "[=motsi][NRoot][=tummy]" : {motsi}
+| "[=motya][NRoot][=stomach]" : {motya}
+| "[=nampi][NRoot][=village, place, country]" : {nampi}
+! 
+| "[=navireri][NRoot][=person's.name]" : {navireri}
+| "[=naviriri][NRoot][=person's.name]" : {naviriri}
+! 
+| "[=nehi][NRoot][=chest]" : {nehi}
+! 
+| "[=nihaa][NRoot][=water, river]" : {nihaa}
+| "[=niha][NRoot][=water, river]" : {niha}
+! 
+| "[=nii][NRoot][=breast]" : {nii}
+| "[=niro][NRoot][=mother]" : {niro}
+! 
+| "[NRoot][=word, language][=nyaa]" : {nyaa}
+| "[NRoot][=word, language][=nya]" : {nya}
+! 
+| "[=ochera][NRoot][=shore]" : {ochera}
+| "[=ocheraa][NRoot][=shore]" : {ocheraa}
+! 
+| "[=ochevo][NRoot][=branch]" : {ochevo}
+! 
+| "[=oisha][NRoot][=lamb, sheep]" : {oisha}
+! 
 | "[NRoot][=eye][=oki]" : {oki}
-| "[NRoot][=seed][=okitsoki]" : [{okitsoki}|{okitoki}]
+! 
+| "[=okitsoki][NRoot][=seed]" : {okitsoki}
+| "[=okitoki][NRoot][=seed]" : {okitoki}
+! 
 ! sun 
 | "[NRoot][=sun][=ooryaatsiri]" : {ooryaatsiri}
 | "[NRoot][=sun][=oorya]" : {oorya}
-| "[NRoot][=bird.species][=oovero]" : {oovero}
-| "[NRoot][=hawk.sp., hawk][=oovero]" : {oovero}
-| "[NRoot][=toucan][=opempe]" : {opempe}
-| "[NRoot][=year][=osarentsi]" : {osarentsi}
+! 
+| "[=oovero][NRoot][=bird.species]" : {oovero}
+| "[=oovero][NRoot][=hawk.sp., hawk]" : {oovero}
+! 
+| "[=opempe][NRoot][=toucan]" : {opempe}
+| "[=osarentsi][NRoot][=year]" : {osarentsi}
 ! monkey species
-| "[NRoot][=monkey.sp.][=osheto]" : {osheto}
+| "[=osheto][NRoot][=monkey.sp.]" : {osheto}
 !
-| "[NRoot][=hospital][=osipitari]" : {osipitari}
-| "[NRoot][=cliff][=otaapiki]" : {otaapiki}
-| "[NRoot][=chin,jaw][=otapinoma]" : {otapinoma}
-| "[NRoot][=rocky.place][=otenkanaki]" : {otenkanaki}
-| "[NRoot][=dog][=otsitzi]" : [{otsitzi}|{otsiti}|{otsitsi}]
-| "[NRoot][=hill][=otzishi]" : {otzishi}
-| "[NRoot][=plot.of.land][=ovantsi]" : {ovantsi}
-| "[NRoot][=guerrilla][=ovayeri]" : {ovayeri}
+| "[=osipitari][NRoot][=hospital]" : {osipitari}
+| "[=otaapiki][NRoot][=cliff]" : {otaapiki}
+| "[=otapinoma][NRoot][=chin, jaw]" : {otapinoma}
+| "[=otenkanaki][NRoot][=rocky.place]" : {otenkanaki}
+! 
+| "[NRoot][=dog][=otsitzi]" : {otsitzi}
+| "[NRoot][=dog][=otsiti]" : {otsiti}
+| "[NRoot][=dog][=otsitsi]" : {otsitsi}
+! 
+| "[=otzishi][NRoot][=hill]" : {otzishi}
+| "[=ovayeri][NRoot][=guerrilla]" : {ovayeri}
 ! sown field. ova/ovaa ó va/vaa, garden?
-| "[NRoot][=sown.field, sown.plot.of.land][=va]" : {va}
-| "[NRoot][=sown.field, sown.plot.of.land][=vaa]" : {vaa}
-| "[NRoot][=sown.field, sown.plot.of.land][=oa]" : {oa}
-| "[NRoot][=sown.field, sown.plot.of.land][=ova]" : {ova}
-| "[NRoot][=sown.field, sown.plot.of.land][=ovaa]" : {ovaa}
-| "[NRoot][=pot][=oya]" : {oya}
-| "[NRoot][=her.food][=oyari]" : {oyari}
-| "[NRoot][=fire][=paamari]" : {paamari}
-| "[NRoot][=bird.species][=paampatzi]" : {paampatzi}
-| "[NRoot][=pumpkin][=pachaka]" : {pachaka}
+| "[=ovantsi][NRoot][=sown.field, sown.plot.of.land]" : {ovantsi}
+| "[=va][NRoot][=sown.field, sown.plot.of.land]" : {va}
+| "[=vaa][NRoot][=sown.field, sown.plot.of.land]" : {vaa}
+| "[=oa][NRoot][=sown.field, sown.plot.of.land]" : {oa}
+| "[=ova][NRoot][=sown.field, sown.plot.of.land]" : {ova}
+| "[=ovaa][NRoot][=sown.field, sown.plot.of.land]" : {ovaa}
+| "[=oya][NRoot][=pot]" : {oya}
+| "[=oyari][NRoot][=her.food]" : {oyari}
+| "[=paamari][NRoot][=fire]" : {paamari}
+| "[=paampatzi][NRoot][=bird.species]" : {paampatzi}
+| "[=pachaka][NRoot][=pumpkin]" : {pachaka}
 ! 
-| "[NRoot][=tree.sp. (chimicua)][=pamaki]" : {pamaki}
+| "[=pamaki][NRoot][=tree.sp. (chimicua)]" : {pamaki}
 ! 
-| "[NRoot][=forehead][=pankaina]" : {pankaina}
-| "[NRoot][=plank][=panki]" : {panki}
-| "[NRoot][=house][=panko]" : {panko}
-| "[NRoot][=house][=pankotsi]" : {pankotsi}
-| "[NRoot][=mouth][=pante]" : [{pante}|{paante}]
+| "[=pankaina][NRoot][=forehead]" : {pankaina}
+| "[=panki][NRoot][=plank]" : {panki}
+! 
+| "[=panko][NRoot][=house]" : {panko}
+| "[=pankotsi][NRoot][=house]" : {pankotsi}
+! 
+| "[=pante][NRoot][=mouth]" : [{pante}|{paante}]
 ! otter
-| "[NRoot][=otter][=parari]" : {parari}
+| "[=parari][NRoot][=otter]" : {parari}
 !
-| "[NRoot][=river][=pareni]" : {pareni}
+| "[=pareni][NRoot][=river]" : {pareni}
 ! banana tree, plantain
-| "[NRoot][=plantain; banana (fruit)][=parenti]" : {parenti}
-| "[NRoot][=plantain; banana (fruit)][=parentzi]" : {parentzi}
-| "[NRoot][=plantain; banana (fruit)][=payanti]" : {payanti}
-| "[NRoot][=plantain; banana (fruit)][=parianti]" : {parianti}
-| "[NRoot][=plantain; banana (fruit)][=paryantsi]" : {paryantsi}
+| "[=parenti][NRoot][=plantain; banana (fruit)]" : {parenti}
+| "[=parentzi][NRoot][=plantain; banana (fruit)]" : {parentzi}
+| "[=payanti][NRoot][=plantain; banana (fruit)]" : {payanti}
+| "[=parianti][NRoot][=plantain; banana (fruit)]" : {parianti}
+| "[=paryantsi][NRoot][=plantain; banana (fruit)]" : {paryantsi}
 ! 
-| "[NRoot][=root][=paritsa]" : {paritsa}
-| "[NRoot][=part][=patsa]" : {patsa}
-| "[NRoot][=top.branch][=patsishi]" : {patsishi}
-| "[NRoot][=tree.bark][=patsitaroki]" : {patsitaroki}
-| "[NRoot][=river's.name][=paukartambo]" : {paukartambo}
-| "[NRoot][=solar.deity][=pava]" : {pava}
+| "[=paritsa][NRoot][=root]" : {paritsa}
+| "[=patsa][NRoot][=part]" : {patsa}
+| "[=patsishi][NRoot][=top.branch]" : {patsishi}
+| "[=patsitaroki][NRoot][=tree.bark]" : {patsitaroki}
+| "[=paukartambo][NRoot][=river's.name]" : {paukartambo}
+! 
+| "[=pava][NRoot][=solar.deity]" : {pava}
 | "[NRoot][=god][=pava]" : {pava}
-| "[NRoot][=NP][=perú]" : {perú}
-| "[NRoot][=Pichanaki][=pichanaki]" : {pichanaki}
-| "[NRoot][=animal][=piratsi]" : {piratsi}
-| "[NRoot][=name][=pito]" : {pito}
-| "[NRoot][=canoe][=pito]" : {pito}
-| "[NRoot][=sister.of.a.male][=pitsiro]" : {pitsiro}
-| "[NRoot][=clay][=pitsitsari]" : {pitsitsari}
-| "[NRoot][=dream][=pochoki]" : {pochoki}
-| "[NRoot][=bejuco][=ponkaro]" : {ponkaro}
-| "[NRoot][=ground][=ponkitzi]" : {ponkitzi}
-| "[NRoot][=leg][=pori]" : {pori}
-| "[NRoot][=thigh][=pori]" : {pori}
-| "[NRoot][=face][=poro]" : [{poro}|{poo}|{voro}]
-| "[NRoot][=bunch][=poroki]" : {poroki}
-| "[NRoot][=annatto][=potsotzi]" : {potsotzi}
-| "[NRoot][=bow][=pyaameni]" : {pyaameni}
-| "[NRoot][=manioc.beer][=pyarentsi]" : {pyarentsi}
-| "[NRoot][=person's.name][=rasaro]" : {rasaro}
-| "[NRoot][=sister][=rento]" : {rento}
-| "[NRoot][=watch][=riro]" : {riro}
-| "[NRoot][=opossum][=saari]" : {saari}
-| "[NRoot][=firewood][=saimpiki]" : {saimpiki}
-| "[NRoot][=paca][=samani]" : {samani}
+! 
+| "[=perú][NRoot][=NP]" : {perú}
+| "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
+| "[=piratsi][NRoot][=animal]" : {piratsi}
+| "[=pito][NRoot][=name]" : {pito}
+| "[=pito][NRoot][=canoe]" : {pito}
+| "[=pitsiro][NRoot][=sister.of.a.male]" : {pitsiro}
+| "[=pitsitsari][NRoot][=clay]" : {pitsitsari}
+| "[=pochoki][NRoot][=dream]" : {pochoki}
+| "[=ponkaro][NRoot][=bejuco]" : {ponkaro}
+| "[=ponkitzi][NRoot][=ground]" : {ponkitzi}
+| "[=pori][NRoot][=leg]" : {pori}
+| "[=pori][NRoot][=thigh]" : {pori}
+! 
+| "[=poro][NRoot][=face]" : {poro}
+| "[=poo][NRoot][=face]" : {poo}
+| "[=voro][NRoot][=face]" : {voro}
+! 
+| "[=poroki][NRoot][=bunch]" : {poroki}
+| "[=potsotzi][NRoot][=annatto]" : {potsotzi}
+| "[=pyaameni][NRoot][=bow]" : {pyaameni}
+| "[=pyarentsi][NRoot][=manioc.beer]" : {pyarentsi}
+| "[=rasaro][NRoot][=person's.name]" : {rasaro}
+| "[=rento][NRoot][=sister]" : {rento}
+| "[=riro][NRoot][=watch]" : {riro}
+| "[=saari][NRoot][=opossum]" : {saari}
+| "[=saimpiki][NRoot][=firewood]" : {saimpiki}
+| "[=samani][NRoot][=paca]" : {samani}
 ! ash
 | "[=samampo][NRoot][=ash]" : {samampo}
 | "[=hamampo][NRoot][=ash]" : {hamampo}
@@ -413,7 +443,6 @@ define NRootPRQin [
 | "[=tzivi][NRoot][=salt]" : {tzivi}
 | "[=tivi][NRoot][=salt]" : {tivi}
 ! 
-| "[=vaaka][NRoot][=cow]" : {vaaka}
 | "[=vaanyo][NRoot][=scarf]" : {vaanyo}
 ! name
 | "[=vairo][NRoot][=name]" : {vairo}
