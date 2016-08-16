@@ -383,7 +383,12 @@ define NRootPRQin [
 | "[=tasorinka][NRoot][=power]" : {tasorinka}
 | "[=tasorinka][NRoot][=blessing]" : {tasorinka}
 ! 
-| "[NRoot][=god, saint, sacred][=tasorintsi]" : [{tasorintsi}|{tajorentsi}|{tasorentsi}|{tazorentzi}|{tsorentsi}|{tsorintsi}]
+| "[NRoot][=god, saint, sacred][=tasorintsi]" : {tasorintsi}
+| "[NRoot][=god, saint, sacred][=tajorentsi]" : {tajorentsi}
+| "[NRoot][=god, saint, sacred][=tasorentsi]" : {tasorentsi}
+| "[NRoot][=god, saint, sacred][=tazorentzi]" : {tazorentzi}
+| "[NRoot][=god, saint, sacred][=tsorentsi]" : {tsorentsi}
+| "[NRoot][=god, saint, sacred][=tsorintsi]" : {tsorintsi}
 ! 
 | "[=tekatsi][NRoot][=none, empty, zero, null]" : {tekatsi}
 | "[=tekaatsi][NRoot][=none, empty, zero, null]" : {tekaatsi}
@@ -448,10 +453,10 @@ define NRootPRQin [
 | "[=vairo][NRoot][=name]" : {vairo}
 | "[=vaero][NRoot][=name]" : {vaero}
 ! 
-!| "[=vani][NRoot][=garden]" : {vani}
-!| "[=vani][NRoot][=land]" : {vani}
-!| "[=vani][NRoot][=plot.of.land]" : {vani}
-!| "[=vani][NRoot][=plot]" : {vani}
+!| "[=garden][=vani][NRoot]" : {vani}
+!| "[=land][=vani][NRoot]" : {vani}
+!| "[=plot.of.land][=vani][NRoot]" : {vani}
+!| "[=plot][=vani][NRoot]" : {vani}
 | "[=vanki][NRoot][=seedling]" : {vanki}
 | "[=vapee][NRoot][=paper]" : {vapee}
 | "[=vari][NRoot][=food]" : {vari}
