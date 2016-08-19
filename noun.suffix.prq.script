@@ -65,10 +65,6 @@ define N=S=LOC [
        "[--][-ki][+CL:S.R.H][=small,round;hard]" : [{ki}|{kii}] 
       ];
       
-!define N=S=ADV [
-! "[--][+ADV]" : [{nta}]
-!];
-      
 define N=S=EXCL [
  "[--][-ve][+EXCL]" : {ve}
 ];
