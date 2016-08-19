@@ -1,7 +1,8 @@
+      ! alienable possession?
       define N=S=poss [
-       "[--][-te][Cas][+Ag]" : {te} |
-       "[--][-ni][Cas][+Ag]" : [{ni}|{ne}] |
-       "[--][-ri][Cas][+Ag]" : [{ri}|{re}]
+       [ "[--][-" {te} "][Gen][+poss]" ] : {te} |
+       [ "[--][-" {ni} "][Gen][+poss]" ] : [{ni}|{ne}] |
+       [ "[--][-" {ri} "][Gen][+poss]" ] : [{ri}|{re}]
       ];
       
       define N=S=DEM [
@@ -11,7 +12,8 @@
       define N=S=PL [
        "[--][+PL][-paye]" : {paye} |
        "[--][+PL][-payeni]" : [{payeni}|{payeeni}|{paeni}] |
-       "[--][+PL][-pe]" : {pe}
+       "[--][+PL][-pe]" : {pe} |
+       "[--][+PL][-pee]" : {pee}
       ];
       
       define N=S=DIM [
@@ -23,7 +25,9 @@
       ];
       
       define N=S=ABS [
-       "[--][+ABS]" : [{tsi}|{rentsi}|{ntsi}|{rintsi}|{rontsi}]
+       "[--][+ABS]" : [{rentsi}|{rintsi}|{rontsi}] | 
+       [ "[--][-" {tsi} "][Gen][+nposs]" ] : {tsi} | 
+       [ "[--][-" {ntsi} "][Gen][+nposs]" ] : {ntsi} 
       ];
       
       define N=S=CL [
@@ -35,12 +39,22 @@
       ];
       
       define N=S=noun [
-       "[--][+CL]" : [{patsa}|{panki}|{konta}|{chaari}|{tsapya}] | 
-       "[--][-shi][+CL:lstff][=leaf;small,thin,flexible,flat]" : {shi} |
+       "[--][+CL]" : [{patsa}|{konta}|{chaari}|{tsapya}] | 
+       ! Plant-based parts in compounds
+       "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat]" : {shi} | 
+       "[--][-panki][+CL:plank][=plank;to.grow]" : [{panki}|{panke}] | 
+       "[--][-tyaki][+CL:flower][=flower]" : [{tyaki}|{teyaki}|{teaki}|{tyaaki}] | 
+       "[--][-tiya][+CL:flower][=flower]" : [{teya}|{tiya}] |
+       "[--][-tonki][+CL:long.tree.segment][=long tree segment]" : [{tonki}|{tyonki}] | 
+       "[--][-kota][+CL:piece][=piece]" : {kota} | 
+       ! .. 
        "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} | 
        "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} | 
        "[--][-to][+CL:tree][=tree,trunk]" : {to} | 
-       "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} 
+       "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} | 
+       "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} | 
+       "[--][-na][+CL:long.hollow][=long,hollow]" : {na} | 
+       "[--][-ki][+CL:S.R.H][=small,round;hard]" : [{ki}|{kii}] 
       ];
       
       define N=S=ADV [
@@ -56,7 +70,9 @@
       ];
       
       define N=S=AUG [
-       "[--][+AUG]" : [{ni}|{ite}|{pero}]
+       "[--][+AUG]" : [{ni}|{ite}|{pero}] |
+       "[--][+AUG]" : [{mashi}] |
+       "[--][+AUG]" : [{sante}]
       ];
       
       define N=S=deceased [
