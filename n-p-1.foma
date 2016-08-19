@@ -11,6 +11,7 @@ define N=P=1 [
 | "[y-][NPers][3m.poss+][--]" : {y}"@PRONLEN@"
 | "[ir-][NPers][3m.poss+][--]" : {ir}"@PRONLEN@"
 | "[r-][NPers][3m.poss+][--]" : {r}"@PRONLEN@" # rotsitsite -> his dog
+| "[ro-][NPers][3m.poss+][--]" : {ro}"@PRONLEN@" # robaneki -> en su chacra (de él)
 | "[o-][NPers][3n.m.poss+][--]" : {o}"@PRONLEN@"
 !| "[Ø=][NPers][3n.m.poss+][--]" : "@PRONLEN@"
 | "[a-][NPers][1PL.poss+][--]" : {a}"@PRONLEN@"
