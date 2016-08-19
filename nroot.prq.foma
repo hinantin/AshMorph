@@ -92,7 +92,6 @@ define NRootPRQin [
 ! 
 | "[=iri][NRoot][=father]" : {iri}
 | "[=irichi][NRoot][=milk]" : {irichi}
-| "[=iriiki][NRoot][=poney]" : {iriiki}
 | "[=irimashi][NRoot][=Lima]" : {irimashi}
 | "[=irina][NRoot][=Irina]" : {irina}
 | "[=iritsiro][NRoot][=his.sister]" : {iritsiro}
@@ -119,7 +118,11 @@ define NRootPRQin [
 | "[=kami][NRoot][=rotten.leaf]" : {kami}
 | "[=kaminka][NRoot][=dead]" : {kaminka}
 | "[=kanai][NRoot][=tree.sp]" : {kanai}
-| "[=kaniri][NRoot][=manioc, yucca]" : [{kaniri}|{kainiri}]
+! 
+| "[=kaniri][NRoot][=manioc, yucca]" : {kaniri}
+| "[=kaniri+nposs][NRoot][=manioc, yucca]" : {kanire}
+| "[=kainiri][NRoot][=manioc, yucca]" : {kainiri}
+! 
 | "[=kashiri][NRoot][=moon]" : {kashiri}
 | "[=katari][NRoot][=wild.duck]" : {katari}
 | "[=katonko][NRoot][=up.river]" : {katonko}
@@ -131,7 +134,10 @@ define NRootPRQin [
 | "[=kipatsi][NRoot][=ground, mud, earth]" : {kipatsi}
 ! palm tree species
 | "[=kiri][NRoot][=palm.tree.sp. (pijuayo)]" : {kiri}
-| "[=kiriiki][NRoot][=money]" : [{kiriiki}|{kireeki}]
+! 
+| "[=kiriiki][NRoot][=money]" : {kiriiki}
+| "[=kireeki][NRoot][=money]" : {kireeki}
+! 
 | "[=kirimashi][NRoot][=nose]" : {kirimashi}
 | "[=kirinka][NRoot][=down.river]" : {kirinka}
 | "[=kisaakiri][NRoot][=black.person]" : {kisaakiri}
@@ -315,8 +321,9 @@ define NRootPRQin [
 !
 | "[=sani][NRoot][=wasp]" : {sani}
 ! flute like instrument
-| "[=sonkari+n.m.][NRoot][=antara (flute.like.instr.)]" : {sonkari}
-| "[=honkari+n.m.][NRoot][=antara (flute.like.instr.)]" : {honkari}
+| "[=sonkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkare}
+| "[=sonkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkari}
+| "[=honkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {honkari}
 !
 | "[=sampi][NRoot][=torch]" : {sampi}
 | "[=santari][NRoot][=cedar.tree]" : {santari}
@@ -383,7 +390,7 @@ define NRootPRQin [
 | "[=tasorinka][NRoot][=power]" : {tasorinka}
 | "[=tasorinka][NRoot][=blessing]" : {tasorinka}
 ! 
-| "[NRoot][=god, saint, sacred][=tasorintsi]" : {tasorintsi}
+| "[NRoot][=god, saint, sacred][=tasorintsi]" : {tasorintsi} 
 | "[NRoot][=god, saint, sacred][=tajorentsi]" : {tajorentsi}
 | "[NRoot][=god, saint, sacred][=tasorentsi]" : {tasorentsi}
 | "[NRoot][=god, saint, sacred][=tazorentzi]" : {tazorentzi}
@@ -433,7 +440,7 @@ define NRootPRQin [
 | "[=tsomonte][NRoot][=bulge]" : {tsomonte}
 | "[=tsonkiri][NRoot][=hummingbird]" : {tsonkiri}
 | "[=tya][NRoot][=fabric]" : {tya}
-! hen
+! hen 
 | "[=tyaapa+n.m.][NRoot][=hen]" : {tyaapa}
 | "[=teapa+n.m.][NRoot][=hen]" : {teapa}
 ! 
