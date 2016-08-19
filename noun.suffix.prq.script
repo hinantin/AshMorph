@@ -10,9 +10,9 @@ define N=S=poss [
 ];
       
 define N=S=DEM [
- "[--][-ka+proximal][+DEM]" : {ra} | 
- "[--][-ra+medial][+DEM]" : {ra} | 
- "[--][-nta+distal][+DEM]" : {nta} 
+ "[--][-ka+proximal][Adv][+DEM]" : {ra} | 
+ "[--][-ra+medial][Adv][+DEM]" : {ra} | 
+ "[--][-nta+distal][Adv][+DEM]" : {nta} 
 ];
       
 define N=S=PL [
@@ -65,13 +65,13 @@ define N=S=LOC [
        "[--][-ki][+CL:S.R.H][=small,round;hard]" : [{ki}|{kii}] 
       ];
       
-      define N=S=ADV [
-       "[--][+ADV]" : [{nta}]
-      ];
+!define N=S=ADV [
+! "[--][+ADV]" : [{nta}]
+!];
       
-      define N=S=EXCL [
-       "[--][+EXCL]" : [{ve}]
-      ];
+define N=S=EXCL [
+ "[--][-ve][+EXCL]" : {ve}
+];
       
       define N=S=ADVP [
        "[--][+ADV.P]" : [{ranki}]

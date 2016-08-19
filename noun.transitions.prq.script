@@ -19,7 +19,7 @@ define N [
  (N=S=noun) (N=S=DEM) | 
  (N=S=noun) (N=S=noun) (N=S=DIM) | 
  (N=S=noun) | 
- (N=S=LOC) (N=S=poss) (N=S=ADV) (N=S=EXCL) | 
+ (N=S=poss) (N=S=LOC) (N=S=DEM) (N=S=EXCL) | 
  (N=S=ADVP) | 
  (N=S=2poss) (N=S=noun) (N=S=poss) | 
  (N=S=2poss) (N=S=DEM) | 
@@ -30,8 +30,8 @@ define N [
  (N=S=LOC) (N=S=DEM) | 
  (N=S=leaf) | 
  (N=S=DIM) | 
- (N=S=LOC) (N=S=ADV) | 
- (N=S=ADV) | 
+ (N=S=LOC) (N=S=DEM) | 
+ (N=S=DEM) | 
  (N=S=CL) (N=S=DEM) | 
  (N=S=EMPH) | 
  (N=S=EMPH) (N=S=EMPH) | 
