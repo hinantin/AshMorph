@@ -1,28 +1,36 @@
-      ! alienable possession?
-      define N=S=poss [
-       [ "[--][-" {te} "][Gen][+poss]" ] : {te} |
-       [ "[--][-" {ni} "][Gen][+poss]" ] : [{ni}|{ne}] |
-       [ "[--][-" {ri} "][Gen][+poss]" ] : [{ri}|{re}]
-      ];
+! alienable possession?
+define N=S=poss [
+ [ "[--][-te][Gen][+poss]" ] : {te} |
+ ! 
+ [ "[--][-ni][Gen][+poss]" ] : {ni} |
+ [ "[--][-ne][Gen][+poss]" ] : {ne} |
+ ! 
+ [ "[--][-ri][Gen][+poss]" ] : {ri}
+ [ "[--][-re][Gen][+poss]" ] : {re}
+];
       
-      define N=S=DEM [
-       "[--][+DEM]" : [{ka}|{nta}|{ra}]
-      ];
+define N=S=DEM [
+ "[--][-ka+proximal][+DEM]" : {ra} | 
+ "[--][-ra+medial][+DEM]" : {ra} | 
+ "[--][-nta+distal][+DEM]" : {nta} 
+];
       
-      define N=S=PL [
-       "[--][+PL][-paye]" : {paye} |
-       "[--][+PL][-payeni]" : [{payeni}|{payeeni}|{paeni}] |
-       "[--][+PL][-pe]" : {pe} |
-       "[--][+PL][-pee]" : {pee}
-      ];
+define N=S=PL [
+ "[--][-paye][Num][+PL]" : {paye} |
+ "[--][-payeni][Num][+PL]" : {payeni} |
+ "[--][-payeeni][Num][+PL]" : {payeeni} |
+ "[--][-paeni][Num][+PL]" : {paeni} |
+ "[--][-pe][Num][+PL]" : {pe} |
+ "[--][-pee][Num][+PL]" : {pee} 
+];
       
       define N=S=DIM [
        "[--][+DIM]" : [{patsaini}|{ini}|{ni}|{aniki}]
       ];
       
-      define N=S=LOC [
-       "[--][+LOC]" : [{ki}]
-      ];
+define N=S=LOC [
+ "[--][-ki][Cas][+LOC]" : [{ki}]
+];
       
       define N=S=ABS [
        "[--][+ABS]" : [{rentsi}|{rintsi}|{rontsi}] | 
