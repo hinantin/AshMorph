@@ -19,7 +19,7 @@ define N [
  (N=S=noun) (N=S=DEM) | 
  (N=S=noun) (N=S=noun) (N=S=DIM) | 
  (N=S=noun) | 
- (N=S=LOC) (N=S=ADV) (N=S=EXCL) | 
+ (N=S=LOC) (N=S=poss) (N=S=ADV) (N=S=EXCL) | 
  (N=S=ADVP) | 
  (N=S=2poss) (N=S=noun) (N=S=poss) | 
  (N=S=2poss) (N=S=DEM) | 
