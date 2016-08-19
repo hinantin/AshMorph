@@ -10,7 +10,7 @@ define N=S=poss [
 ];
       
 define N=S=DEM [
- "[--][-ka+proximal][Adv][+DEM]" : {ra} | 
+ "[--][-ka+proximal][Adv][+DEM]" : {ka} | 
  "[--][-ra+medial][Adv][+DEM]" : {ra} | 
  "[--][-nta+distal][Adv][+DEM]" : {nta} 
 ];
