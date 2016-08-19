@@ -3,9 +3,9 @@ define AdvRootPRQin [
 | "[AdvRoot][=soon][=apaata]" : {apaata}
 | "[AdvRoot][=later][=apaatatziro]" : {apaatatziro}
 | "[AdvRoot][=once][=aparohatzini]" : {aparohatzini}
-| "[AdvRoot][=one day][=aparohatzini]" : {aparohatzini}
-| "[AdvRoot][=the other day][=chapinki]" : {chapinki}
-| "[AdvRoot][=the other day][=chapinkiranki]" : {chapinkiranki}
+| "[AdvRoot][=one.day][=aparohatzini]" : {aparohatzini}
+| "[AdvRoot][=the.other.day][=chapinki]" : {chapinki}
+| "[AdvRoot][=the.other.day][=chapinkiranki]" : {chapinkiranki}
 | "[AdvRoot][=CONN][=ikanta]" : {ikanta}
 | "[AdvRoot][=meanwhile][=ikanta]" : {ikanta}
 | "[AdvRoot][=meanwhile][=ikanta]" : {ikantya}
@@ -15,14 +15,14 @@ define AdvRootPRQin [
 | "[AdvRoot][=afterwards][=imponyashitakya]" : {imponyashitakya}
 | "[AdvRoot][=afterwards][=iponya]" : {iponya}
 | "[AdvRoot][=afterwards][=iponyashitanaka]" : {iponyashitanaka}
-| "[AdvRoot][=until,when][=irohatzi]" : {irohatsi}
-| "[AdvRoot][=until,when][=irohatzi]" : {irohatzi}
+| "[AdvRoot][=until, when][=irohatzi]" : {irohatsi}
+| "[AdvRoot][=until, when][=irohatzi]" : {irohatzi}
 | "[AdvRoot][=now][=ironya]" : {ironya}
 | "[AdvRoot][=now][=ironyaaka]" : {ironyaaka}
 | "[AdvRoot][=now][=ironyaka]" : {ironyaka}
-| "[AdvRoot][=early morning][=kapichekitaite]" : {kapichekitaite}
-| "[AdvRoot][=early morning][=kapichekitaiteni]" : {kapichekitaiteni}
-| "[AdvRoot][=in the future][=koramani]" : {koramani}
+| "[AdvRoot][=early.morning][=kapichekitaite]" : {kapichekitaite}
+| "[AdvRoot][=early.morning][=kapichekitaiteni]" : {kapichekitaiteni}
+| "[AdvRoot][=in.the.future][=koramani]" : {koramani}
 | "[AdvRoot][=now][=meeka]" : {meeka}
 | "[AdvRoot][=CONN][=okanta]" : {okanta}
 | "[AdvRoot][=meanwhile][=okanta]" : {okanta}
@@ -32,10 +32,10 @@ define AdvRootPRQin [
 | "[AdvRoot][=then][=oponya]" : {oponyaa}
 | "[AdvRoot][=tomorrow][=osaikera]" : {osaikera}
 | "[AdvRoot][=tomorrow][=osaitekera]" : {osaitekera}
-| "[AdvRoot][=some time later][=osamani]" : {osamani}
+| "[AdvRoot][=some.time.later][=osamani]" : {osamani}
 | "[AdvRoot][=late][=osamani]" : {osamani}
-| "[AdvRoot][=a while][=osamani]" : {osamani}
-| "[AdvRoot][=a while ago][=osamani]" : {osamani}
+| "[AdvRoot][=a.while][=osamani]" : {osamani}
+| "[AdvRoot][=a.while.ago][=osamani]" : {osamani}
 | "[AdvRoot][=recently][=ovakera]" : {ovakera}
 | "[AdvRoot][=when][=ovakera]" : {ovakera}
 | "[AdvRoot][=ago][=ovakera]" : {ovakera}
@@ -50,8 +50,11 @@ define AdvRootPRQin [
 | "[AdvRoot][=afterwards][=ponyashita]" : {ponyashita}
 | "[AdvRoot][=afterwards][=ponyashitaka]" : {ponyashitaka}
 | "[AdvRoot][=then][=ponyashitaka]" : {ponyashitaka}
-| "[AdvRoot][=in the afternoon][=sheteni]" : {sheteni}
+| "[AdvRoot][=in.the.afternoon][=sheteni]" : {sheteni}
 | "[AdvRoot][=yesterday][=sheteniranki]" : {sheteniranki}
 | "[AdvRoot][=at.night][=tsiteni]" : {tsiteni}
-| "[AdvRoot][=last night][=tsiteniranki]" : {tsiteniranki}
+| "[AdvRoot][=last.night][=tsiteniranki]" : {tsiteniranki}
+! word set:
+| "[niyanki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {niyanki}
+| "[nianki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {nianki}
 ];
