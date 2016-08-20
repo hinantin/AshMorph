@@ -16,6 +16,10 @@ define PrnDemPRQin [
 | "[=hiri+m.][PrnDem][=there.he.is]" : {hiri}
 | "[=hirika+m.+proximal][PrnDem][=here.it.is]" : {hirika}
 | "[=nirika+m.+proximal][PrnDem][=here.it.is]" : {nirika}
+| "[=hirira+m.+medial][PrnDem][=~]" : {hirira}
+| "[=nirira+m.+medial][PrnDem][=~]" : {nirira}
+| "[=hirinta+m.+distal][PrnDem][=~]" : {hirinta}
+| "[=nirinta+m.+distal][PrnDem][=~]" : {nirinta}
 ! 
 | "[=hiro+n.m.][PrnDem][=here.it.is]" : {hiro}
 | "[=hiroka+n.m.+proximal][PrnDem][=here.it.is]" : {hiroka}
