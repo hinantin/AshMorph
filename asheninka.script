@@ -56,7 +56,7 @@
       source v-p-1.foma
       source v-p-2.foma
 
-      define Pref [(P=1) (P=2)] ;
+      define Pref [[P=1 P=2] | ([P=1])] ;
 
       ##########################
       #                        #
@@ -259,6 +259,15 @@ KLenitionRule2 .o. KLenitionRule3 ];
         define PrnPersPRQ PrnPersPRQin;
       define Personal [ [PrnPersPRQ] ];
 
+      ###############################
+      #                             #
+      #    Demonstrative Pronoun    #
+      #                             #
+      ###############################
+      source prndem.prq.foma
+        define PrnDemPRQ PrnDemPRQin;
+      define Demonstrative [ [PrnDemPRQ] ];
+
       ##########################
       #                        #
       #       Interjection     #
@@ -268,7 +277,7 @@ KLenitionRule2 .o. KLenitionRule3 ];
         define InterjPRQ InterjPRQin;
       define Interjection [ [InterjPRQ] ];
 
-      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Interjection] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Demonstrative|Interjection] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
 
       save stack asheninka.bin
 

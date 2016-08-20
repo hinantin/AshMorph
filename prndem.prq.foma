@@ -1,23 +1,32 @@
-define PrnRootPRQin [
-  "[PrnRoot][=here][=aka]" : {aka}
-| "[PrnRoot][=there][=anta]" : {anta}
-| "[PrnRoot][=here][=haka]" : {haka}
-| "[PrnRoot][=there][=hiri]" : {hiri}
-| "[PrnRoot][=there.he.is][=hiri]" : {hiri}
-| "[PrnRoot][=here.it.is][=hirika]" : {hirika}
-| "[PrnRoot][=here.it.is][=hiro]" : {hiro}
-| "[PrnRoot][=here.it.is][=hiroka]" : {hiroka}
-| "[PrnRoot][=this.m][=irika]" : {irika}
-| "[PrnRoot][=this][=iro]" : {iro}
-| "[PrnRoot][=DEM.n.m.][=iroka]" : {iroka}
-| "[PrnRoot][=DEM.n.m.][=irora]" : {irora}
-| "[PrnRoot][=DEM][=iyoka]" : {iyoka}
-| "[PrnRoot][=DEM][=iyora]" : {iyora}
-| "[PrnRoot][=DEM.n.m.][=oka]" : {oka}
-| "[PrnRoot][=that.n.m.][=ora]" : {ora}
-| "[PrnRoot][=this.m][=yoka]" : {yoka}
-| "[PrnRoot][=DEM.m][=yoka]" : {yoka}
-| "[PrnRoot][=that][=yonta]" : {yonta}
-| "[PrnRoot][=DEM][=yora]" : {yora}
+define PrnDemPRQin [
+  "[=aka][PrnDem][=here]" : {aka}
+| "[=haka][PrnDem][=here]" : {haka}
+| "[=anta][PrnDem][=there]" : {anta}
+| "[=hiri][PrnDem][=there]" : {hiri}
+| "[=hiri][PrnDem][=there.he.is]" : {hiri}
+| "[=hirika][PrnDem][=here.it.is]" : {hirika}
+| "[=hiro][PrnDem][=here.it.is]" : {hiro}
+| "[=hiroka][PrnDem][=here.it.is]" : {hiroka}
+! 
+| "[=irika+m.+proximal][PrnDem][=this]" : {irika}
+| "[=iirika+m.+proximal][PrnDem][=this]" : {iirika}
+!
+| "[=iro][PrnDem][=this]" : {iro}
+| "[=iroka+n.m.+proximal][PrnDem][=DEM]" : {iroka}
+| "[=irora+n.m.+medial][PrnDem][=DEM]" : {irora}
+| "[=ironta+n.m.+distal][PrnDem][=DEM]" : {ironta}
+! 
+| "[=iyoka+m.+proximal][PrnDem][=DEM]" : {iyoka}
+! 
+| "[=iyora+m.+medial][PrnDem][=DEM]" : {iyora}
+| "[=yora+m.+medial][PrnDem][=DEM]" : {yora}
+! 
+| "[=oka+n.m.+proximal][PrnDem][=DEM]" : {oka}
+| "[=ora+n.m.][PrnDem][=that]" : {ora}
+| "[=yoka+m.][PrnDem][=this]" : {yoka}
+| "[=yoka+m.][PrnDem][=DEM]" : {yoka}
+! 
+| "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
+| "[=yonta+m.+distal][PrnDem][=that]" : {yonta}
 ];
 
