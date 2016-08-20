@@ -23,6 +23,11 @@ define PrnDemPRQin [
 ! 
 | "[=hiro+n.m.][PrnDem][=here.it.is]" : {hiro}
 | "[=hiroka+n.m.+proximal][PrnDem][=here.it.is]" : {hiroka}
+| "[=niroka+n.m.+proximal][PrnDem][=~]" : {niroka}
+| "[=hirora+n.m.+medial][PrnDem][=~]" : {hirora}
+| "[=nirora+n.m.+medial][PrnDem][=~]" : {nirora}
+| "[=hironta+n.m.+distal][PrnDem][=~]" : {hironta}
+| "[=nironta+n.m.+distal][PrnDem][=~]" : {nironta}
 ! 
 | "[=irika+m.+proximal][PrnDem][=this]" : {irika}
 | "[=iirika+m.+proximal][PrnDem][=this]" : {iirika}
