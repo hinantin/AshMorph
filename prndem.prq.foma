@@ -1,12 +1,22 @@
 define PrnDemPRQin [
-  "[=aka][PrnDem][=here]" : {aka}
-| "[=haka][PrnDem][=here]" : {haka}
-| "[=anta][PrnDem][=there]" : {anta}
+! Demonstrative adverbs 
+  "[=aka+proximal.b.][PrnDem][=here]" : {aka}
+| "[=haka+proximal.b.][PrnDem][=here]" : {haka}
+! 
+| "[=ara+medial.b.][PrnDem][=there]" : {ara}
+| "[=hara+medial.b.][PrnDem][=there]" : {hara}
+! 
+| "[=anta+distal.b.][PrnDem][=there]" : {anta}
+| "[=hanta+distal.b.][PrnDem][=there]" : {hanta}
+! 
+| "[=anto+distal.unb.][PrnDem][=there]" : {anto}
+| "[=hanto+distal.unb.][PrnDem][=there]" : {hanto}
+! 
 | "[=hiri][PrnDem][=there]" : {hiri}
 | "[=hiri][PrnDem][=there.he.is]" : {hiri}
-| "[=hirika][PrnDem][=here.it.is]" : {hirika}
+| "[=hirika+m.+proximal][PrnDem][=here.it.is]" : {hirika}
 | "[=hiro][PrnDem][=here.it.is]" : {hiro}
-| "[=hiroka][PrnDem][=here.it.is]" : {hiroka}
+| "[=hiroka+n.m.+proximal][PrnDem][=here.it.is]" : {hiroka}
 ! 
 | "[=irika+m.+proximal][PrnDem][=this]" : {irika}
 | "[=iirika+m.+proximal][PrnDem][=this]" : {iirika}
@@ -22,9 +32,11 @@ define PrnDemPRQin [
 | "[=yora+m.+medial][PrnDem][=DEM]" : {yora}
 ! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM]" : {oka}
-| "[=ora+n.m.][PrnDem][=that]" : {ora}
-| "[=yoka+m.][PrnDem][=this]" : {yoka}
-| "[=yoka+m.][PrnDem][=DEM]" : {yoka}
+| "[=ora+n.m.+medial][PrnDem][=that]" : {ora}
+! 
+| "[=iyoka+m.+proximal][PrnDem][=DEM]" : {yoka}
+| "[=yoka+m.+proximal][PrnDem][=this]" : {yoka}
+| "[=yoka+m.+proximal][PrnDem][=DEM]" : {yoka}
 ! 
 | "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
 | "[=yonta+m.+distal][PrnDem][=that]" : {yonta}
