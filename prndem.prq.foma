@@ -1,26 +1,28 @@
 define PrnDemPRQin [
 ! Demonstrative adverbs 
-  "[=aka+proximal.b.][PrnDem][=here]" : {aka}
-| "[=haka+proximal.b.][PrnDem][=here]" : {haka}
+  "[=aka+proximal.b.][PrnDem][=here, close.to.the.speaker]" : {aka}
+| "[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]" : {haka}
 ! 
-| "[=ara+medial.b.][PrnDem][=there]" : {ara}
-| "[=hara+medial.b.][PrnDem][=there]" : {hara}
+| "[=ara+medial.b.][PrnDem][=not.here, not.in.the.speaker's.interactional.space]" : {ara}
+| "[=hara+medial.b.][PrnDem][=not.here, not.in.the.speaker's.interactional.space]" : {hara}
 ! 
-| "[=anta+distal.b.][PrnDem][=there]" : {anta}
-| "[=hanta+distal.b.][PrnDem][=there]" : {hanta}
+| "[=anta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded)]" : {anta}
+| "[=hanta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded)]" : {hanta}
 ! 
-| "[=anto+distal.unb.][PrnDem][=there]" : {anto}
-| "[=hanto+distal.unb.][PrnDem][=there]" : {hanto}
+| "[=anto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded)]" : {anto}
+| "[=hanto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded)]" : {hanto}
 ! 
-| "[=hiri][PrnDem][=there]" : {hiri}
-| "[=hiri][PrnDem][=there.he.is]" : {hiri}
+| "[=hiri+m.][PrnDem][=there]" : {hiri}
+| "[=hiri+m.][PrnDem][=there.he.is]" : {hiri}
 | "[=hirika+m.+proximal][PrnDem][=here.it.is]" : {hirika}
-| "[=hiro][PrnDem][=here.it.is]" : {hiro}
+| "[=nirika+m.+proximal][PrnDem][=here.it.is]" : {nirika}
+! 
+| "[=hiro+n.m.][PrnDem][=here.it.is]" : {hiro}
 | "[=hiroka+n.m.+proximal][PrnDem][=here.it.is]" : {hiroka}
 ! 
 | "[=irika+m.+proximal][PrnDem][=this]" : {irika}
 | "[=iirika+m.+proximal][PrnDem][=this]" : {iirika}
-!
+! 
 | "[=iro][PrnDem][=this]" : {iro}
 | "[=iroka+n.m.+proximal][PrnDem][=DEM]" : {iroka}
 | "[=irora+n.m.+medial][PrnDem][=DEM]" : {irora}
