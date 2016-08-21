@@ -37,6 +37,8 @@ define PrnDemPRQin [
 | "[=irora+n.m.+medial][PrnDem][=DEM]" : {irora}
 | "[=ironta+n.m.+distal][PrnDem][=DEM]" : {ironta}
 ! 
+| "[=ironto+n.m.+distal.unb.][PrnDem][=~]" : {ironto}
+! 
 | "[=iyoka+m.+proximal][PrnDem][=DEM]" : {iyoka}
 ! 
 | "[=iyora+m.+medial][PrnDem][=DEM]" : {iyora}
