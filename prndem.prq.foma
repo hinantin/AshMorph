@@ -16,18 +16,20 @@ define PrnDemPRQin [
 | "[=hiri+m.][PrnDem][=there.he.is]" : {hiri}
 | "[=hirika+m.+proximal][PrnDem][=here.it.is]" : {hirika}
 | "[=nirika+m.+proximal][PrnDem][=here.it.is]" : {nirika}
-| "[=hirira+m.+medial][PrnDem][=~]" : {hirira}
+| "[=hirira+m.+medial][PrnDem][=(over).there (close), near]" : {hirira}
 | "[=nirira+m.+medial][PrnDem][=~]" : {nirira}
-| "[=hirinta+m.+distal][PrnDem][=~]" : {hirinta}
+| "[=hirinta+m.+distal][PrnDem][=(over).there (far), half.distant]" : {hirinta}
 | "[=nirinta+m.+distal][PrnDem][=~]" : {nirinta}
+| "[=hirinto+m.+distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hirinta}
 ! 
 | "[=hiro+n.m.][PrnDem][=here.it.is]" : {hiro}
 | "[=hiroka+n.m.+proximal][PrnDem][=here.it.is]" : {hiroka}
 | "[=niroka+n.m.+proximal][PrnDem][=~]" : {niroka}
-| "[=hirora+n.m.+medial][PrnDem][=~]" : {hirora}
+| "[=hirora+n.m.+medial][PrnDem][=(over).there (close), near]" : {hirora}
 | "[=nirora+n.m.+medial][PrnDem][=~]" : {nirora}
-| "[=hironta+n.m.+distal][PrnDem][=~]" : {hironta}
+| "[=hironta+n.m.+distal][PrnDem][=(over).there (far), half.distant]" : {hironta}
 | "[=nironta+n.m.+distal][PrnDem][=~]" : {nironta}
+| "[=hironto+n.m.+distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hironto}
 ! 
 | "[=irika+m.+proximal][PrnDem][=this]" : {irika}
 | "[=iirika+m.+proximal][PrnDem][=this]" : {iirika}
@@ -36,7 +38,6 @@ define PrnDemPRQin [
 | "[=iroka+n.m.+proximal][PrnDem][=DEM]" : {iroka}
 | "[=irora+n.m.+medial][PrnDem][=DEM]" : {irora}
 | "[=ironta+n.m.+distal][PrnDem][=DEM]" : {ironta}
-! 
 | "[=ironto+n.m.+distal.unb.][PrnDem][=~]" : {ironto}
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=DEM]" : {iyoka}
