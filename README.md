@@ -8,10 +8,22 @@ Compiling with the Foma Toolkit
 $ foma -f asheninka.script
 $ echo "ashaninka" | flookup asheninka.bin
 
-ashaninka	[1PL.poss+][NRoot--our.fellowman]
-ashaninka	[3SGnm.poss+][NRoot--our.fellowman]
-ashaninka	[1PL.poss+][NRoot--fellowman]
-ashaninka	[NRoot--our.fellowman]
+ashaninka	[1PL.A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+1SG.poss]n[--][+DEM]ka
+ashaninka	[1PL.A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+IRR]n[--][+ADV]ka
+ashaninka	[1PL.A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+IRR]n[--][+DEM]ka
+ashaninka	[1PL.A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+IRR]n[--][+Q]ka
+ashaninka	[1PL.A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+IRR]n[--][+REL]ka
+ashaninka	[1PL.A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+IRR]a
+ashaninka	[1PL.A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+REAL]a
+ashaninka	[1PL.A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nka
+ashaninka	[1PL.S+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+1SG.poss]n[--][+DEM]ka
+ashaninka	[1PL.S+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+IRR]n[--][+ADV]ka
+ashaninka	[1PL.S+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+IRR]n[--][+DEM]ka
+ashaninka	[1PL.S+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+IRR]n[--][+Q]ka
+ashaninka	[1PL.S+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+IRR]n[--][+REL]ka
+ashaninka	[1PL.S+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+IRR]a
+ashaninka	[1PL.S+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+REAL]a
+ashaninka	[1PL.S+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nka
 ```
 
 For more information
