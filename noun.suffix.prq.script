@@ -32,11 +32,11 @@ define N=S=LOC [
  "[--][-ki][Cas][+LOC]" : [{ki}]
 ];
       
-      define N=S=ABS [
-       "[--][+ABS]" : [{rentsi}|{rintsi}|{rontsi}] | 
-       [ "[--][-" {tsi} "][Gen][+nposs]" ] : {tsi} | 
-       [ "[--][-" {ntsi} "][Gen][+nposs]" ] : {ntsi} 
-      ];
+define N=S=ABS [
+ "[--][+ABS]" : [{rentsi}|{rintsi}|{rontsi}] | 
+ "[--][-tsi][Gen][+nposs]" : {tsi} | 
+ "[--][-ntsi][Gen][+nposs]" : {ntsi} 
+];
       
       define N=S=CL [
        "[--][+CL]" : [{tsa}]
