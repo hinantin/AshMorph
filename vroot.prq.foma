@@ -160,6 +160,7 @@ define VRootPRQin [
 ! to believe, to think
 | "[=kinkishiri][VRoot][=to.believe, to.think]" : {kinkishiri}
 | "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
+| "[=kenkishire][VRoot][=to.believe, to.think]" : {kenkishiri}
 !
 | "[=kinkitsa][VRoot][=to.talk, to.tell]" : [{kinkitsa}|{kenkitsa}]
 | "[=kinkivarotzi][VRoot][=to.be.old]" : {kinkivarotzi}
@@ -461,7 +462,10 @@ define VRootPRQin [
 | "[=tsop][VRoot][=to.pull.out]" : {tsop}
 | "[=ty][VRoot][=to.fell]" : {ty}
 | "[=tyaki][VRoot][=to.blossom]" : [{tyaki}|{teyaki}]
+! word set:
 | "[=tyank][VRoot][=to.send]" : {tyank}
+| "[=tiank][VRoot][=to.send]" : {tiank}
+!
 | "[=tyerov][VRoot][=to.kneel.down]" : {tyerov}
 | "[=tyoonk][VRoot][=to.bathe]" : {tyoonk}
 | "[=tyoonk][VRoot][=to.bathe.in.steam]" : {tyoonk}
