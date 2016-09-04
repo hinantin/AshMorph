@@ -21,8 +21,10 @@ define NRootPRQin [
 | "[=ampehi][NRoot][=cotton]" : {ampehi}
 !
 | "[=amporetsa][NRoot][=intestine]" : {amporetsa}
-| "[=antami][NRoot][=woods]" : {antami}
-| "[=antami][NRoot][=forest]" : {antami}
+! 
+| "[=antami][NRoot][=woods, forest]" : {antami}
+| "[=ãtame][NRoot][=woods, forest]" : {ãtame}
+! 
 | "[=antoko][NRoot][=person's.name]" : {antoko}
 | "[=apa][NRoot][=father]" : {apa}
 | "[=aparo][NRoot][=one]" : {aparo}
@@ -132,6 +134,9 @@ define NRootPRQin [
 | "[=kentsi][NRoot][=neck]" : {kentsi}
 | "[=kintsori][NRoot][=patridge.sp]" : {kintsori}
 | "[=kipatsi][NRoot][=ground, mud, earth]" : {kipatsi}
+! word set:
+| "[=kipishiri][NRoot][=bitter]" : {kipishiri}
+| "[=kepishiri][NRoot][=bitter]" : {kepishiri}
 ! palm tree species
 | "[=kiri][NRoot][=palm.tree.sp. (pijuayo)]" : {kiri}
 ! 
@@ -331,6 +336,9 @@ define NRootPRQin [
 | "[=satzi][NRoot][=provenance]" : {satzi}
 | "[=shamitzi][NRoot][=namesake]" : {shamitzi}
 | "[=sharo][NRoot][=agouti]" : {sharo}
+! 
+| "[=shaveta][NRoot][=butterfly]" : {shaveta}
+! 
 | "[=shempa][NRoot][=shoulder]" : {shempa}
 | "[=shempiri][NRoot][=charapa.turtle, terrapin.sp.]" : {shempiri}
 | "[=sheripyari][NRoot][=shaman]" : [{sheripyari}|{sheripiare}|{sheripiari}]
@@ -477,4 +485,7 @@ define NRootPRQin [
 | "[=yempita][NRoot][=ear]" : {yempita}
 | "[=yerito][NRoot][=knee]" : {yerito}
 | "[=yompari][NRoot][=friend]" : {yompari}
+! word set:
+| "[niyanki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {niyanki}
+| "[nianki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {nianki}
 ];
