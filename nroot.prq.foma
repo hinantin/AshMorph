@@ -491,8 +491,8 @@ define NRootPRQin [
 | "[=yerito][NRoot][=knee]" : {yerito}
 | "[=yompari][NRoot][=friend]" : {yompari}
 ! word set: wisdom
-| "[=yorenka+Inal][NRoot][=wisdom]" : {yorenka}
-| "[=yorêka+Inal][NRoot][=wisdom]" : {yorêka}
+| "[=yorenka+inal.][NRoot][=wisdom]" : {yorenka}
+| "[=yorêka+inal.][NRoot][=wisdom]" : {yorêka}
 ! word set:
 | "[niyanki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {niyanki}
 | "[nianki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {nianki}
