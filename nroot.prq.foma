@@ -73,6 +73,10 @@ define NRootPRQin [
 ! 
 | "[NRoot][=husband][=ime]" : {ime}
 | "[NRoot][=husband][=imi]" : {imi}
+!
+| "[=iNpooto+m.][NRoot][=worm.sp.]" : {impooto}
+| "[=iNporoto+m.][NRoot][=worm.sp.]" : {imporoto}
+| "[=îpoto+m.][NRoot][=worm.sp.]" : {îpoto}
 ! 
 | "[NRoot][=mother, wife][=ina]" : {ina}
 ! 
@@ -398,12 +402,12 @@ define NRootPRQin [
 | "[=tasorinka][NRoot][=power]" : {tasorinka}
 | "[=tasorinka][NRoot][=blessing]" : {tasorinka}
 ! 
-| "[NRoot][=god, saint, sacred][=tasorintsi]" : {tasorintsi} 
-| "[NRoot][=god, saint, sacred][=tajorentsi]" : {tajorentsi}
-| "[NRoot][=god, saint, sacred][=tasorentsi]" : {tasorentsi}
-| "[NRoot][=god, saint, sacred][=tazorentzi]" : {tazorentzi}
-| "[NRoot][=god, saint, sacred][=tsorentsi]" : {tsorentsi}
-| "[NRoot][=god, saint, sacred][=tsorintsi]" : {tsorintsi}
+| "[=tasorintsi][NRoot][=god, saint, sacred]" : {tasorintsi} 
+| "[=tajorentsi][NRoot][=god, saint, sacred]" : {tajorentsi}
+| "[=tasorentsi][NRoot][=god, saint, sacred]" : {tasorentsi}
+| "[=tazorentzi][NRoot][=god, saint, sacred]" : {tazorentzi}
+| "[=tsorentsi][NRoot][=god, saint, sacred]" : {tsorentsi}
+| "[=tsorintsi][NRoot][=god, saint, sacred]" : {tsorintsi}
 ! 
 | "[=tekatsi][NRoot][=none, empty, zero, null]" : {tekatsi}
 | "[=tekaatsi][NRoot][=none, empty, zero, null]" : {tekaatsi}
@@ -486,6 +490,9 @@ define NRootPRQin [
 | "[=yempita][NRoot][=ear]" : {yempita}
 | "[=yerito][NRoot][=knee]" : {yerito}
 | "[=yompari][NRoot][=friend]" : {yompari}
+! word set: wisdom
+| "[=yorenka+Inal][NRoot][=wisdom]" : {yorenka}
+| "[=yorêka+Inal][NRoot][=wisdom]" : {yorêka}
 ! word set:
 | "[niyanki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {niyanki}
 | "[nianki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {nianki}
