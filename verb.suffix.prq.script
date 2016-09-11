@@ -8,11 +8,11 @@
       ];
       
       define V=S=PRNO [
-         "[--][+1SG.O]" : "@EP"{na}
-       | "[--][+2SG.O]" : "@EP"{mi}
-       | "[--][+3m.O]" : "@3m.O"{ri}
+         "[--][+1SG.O]" : "@EP"[{na}]
+       | "[--][+2SG.O]" : "@EP"[{mi}]
+       | "[--][+3m.O]" : "@3m.O"[{ri}]
        | "[--][+3n.m.O]" : "@3n.m.O"[{ro}|{vo}]
-       | "[--][+1PL.O]" : "@EP"{ai}
+       | "[--][+1PL.O]" : "@EP"[{ai}]
       ];
       
       define V=S=DIST [
@@ -20,7 +20,9 @@
       ];
       
       define V=S=DIR [
-       "[--][+DIR]" : "@EP"[{av}|{an}|{ap}]
+       "[--][-av+object.oriented][+Amb][+DIR]" : "@EP"[{av}] |
+       "[--][-an+source][+Amb][+DIR]" : "@EP"[{an}] |
+       "[--][-ap+goal][+Amb][+DIR]" : "@EP"[{ap}]
       ];
       
       define V=S=PRF [
@@ -97,7 +99,7 @@
       ];
       
       define V=S=FRUS [
-       "[--][+FRUS]" : "@EP"[{ve}|{vi}|{macheve}|{vit}]
+       "[--][+FRUS]" : "@EP"[{ve}|{vee}|{vi}|{macheve}|{vit}]
       ];
       
       define V=S=APPLREAS [
@@ -105,7 +107,9 @@
       ];
       
       define V=S=CUST [
-       "[--][+CUST]" : "@EP"[{apint}|{ant}]
+       "[--][+CUST]" : "@EP"[{apint}] |
+       "[--][+CUST]" : "@EP"[{ant}] |
+       "[--][+CUST]" : "@EP"[{apinin}]
       ];
       
       define V=S=IMPP [
@@ -288,7 +292,9 @@
       ];
       
       define V=S=HAB [
-       "[--][+HAB]" : "@EP"[{apint}]
+       "[--][+HAB]" : "@EP"[{apin}] |
+       "[--][+HAB]" : "@EP"[{apiin}] |
+       "[--][+HAB]" : "@EP"[{apini}]
       ];
       
       define V=S=1SGposs [
