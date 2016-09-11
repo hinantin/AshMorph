@@ -416,7 +416,9 @@ define VRootPRQin [
 | "[=tash][VRoot][=to.be.hungry]" : {tash}
 ! to roast with coal
 | "[=tashi][VRoot][=to.roast.with.coal]" : {tashi}
-| "[=tasonk][VRoot][=to.blow]" : {tasonk}
+! 
+| "[=tasonk][VRoot][=to.blow, to.fan]" : {tasonk}
+! 
 | "[=teh][VRoot][=to.weave]" : {teh}
 ! there is/are not
 | "[=tekatsi][VRoot][=there.is.not, there.are.not]" : {tekatsi}
