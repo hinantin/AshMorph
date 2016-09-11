@@ -2,8 +2,8 @@ define NRootPRQin [
   "[=aani][NRoot][=grandseer]" : {aani}
 | "[=aavintarontsi][NRoot][=medicine]" : {aavintarontsi}
 | "[=aiki][NRoot][=tooth]" : {aiki}
-| "[=ako+n.m.][NRoot][=arm]" : {ako}
-| "[=ako+n.m.][NRoot][=hand]" : {ako}
+| "[=ako+n.m.+inal.][NRoot][=arm]" : {ako}
+| "[=ako+n.m.+inal.][NRoot][=hand]" : {ako}
 | "[=akonta][NRoot][=heel]" : {akonta}
 | "[=akopero][NRoot][=wrist]" : {akopero}
 ! anaconda
@@ -65,7 +65,10 @@ define NRootPRQin [
 | "[=evankari+m.][NRoot][=young.man, adolescent.m.]" : {evankari}
 | "[=evankaro+n.m.][NRoot][=young.woman, adolescent.n.m.]" : {evankaro}
 | "[=hananeki][NRoot][=child]" : {hananeki}
+! 
 | "[=henoki][NRoot][=top]" : {henoki}
+| "[=henokê][NRoot][=top]" : {henokê}
+! 
 | "[=hempeki][NRoot][=arm]" : {hempeki}
 | "[=heto][NRoot][=spider]" : {heto}
 | "[=iitsi][NRoot][=foot]" : {iitsi}
@@ -204,7 +207,8 @@ define NRootPRQin [
 | "[=morona][NRoot][=cave]" : {morona}
 | "[=motsi][NRoot][=tummy]" : {motsi}
 | "[=motya][NRoot][=stomach]" : {motya}
-| "[=nampi][NRoot][=village, place, country]" : {nampi}
+! 
+| "[=nampi+n.m.+inal.][NRoot][=village, place, country]" : {nampi}
 ! 
 | "[=navireri][NRoot][=person's.name]" : {navireri}
 | "[=naviriri][NRoot][=person's.name]" : {naviriri}
@@ -359,6 +363,8 @@ define NRootPRQin [
 | "[=shimaana][NRoot][=week]" : {shimaana}
 | "[=shina][NRoot][=kapok.tree]" : {shina}
 !
+| "[=shire+n.m.+inal.][NRoot][=spirit]" : {shire}
+!
 | "[=shinki][NRoot][=corn]" : {shinki}
 | "[=zinki][NRoot][=corn]" : {zinki}
 | "[=sinki][NRoot][=corn]" : {sinki}
@@ -491,8 +497,8 @@ define NRootPRQin [
 | "[=yerito][NRoot][=knee]" : {yerito}
 | "[=yompari][NRoot][=friend]" : {yompari}
 ! word set: wisdom
-| "[=yorenka+inal.][NRoot][=wisdom]" : {yorenka}
-| "[=yorêka+inal.][NRoot][=wisdom]" : {yorêka}
+| "[=yorenka+inal.][NRoot][=wisdom, knowledge]" : {yorenka}
+| "[=yorêka+inal.][NRoot][=wisdom, knowledge]" : {yorêka}
 ! word set:
 | "[niyanki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {niyanki}
 | "[nianki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {nianki}
