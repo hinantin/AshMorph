@@ -52,6 +52,7 @@ define VRootPRQin [
 ! to meet, to gather, to get together
 | "[=apoto][VRoot][=to.gather, to.meet, to.get.together]" : {apoto}
 | "[=apato][VRoot][=to.gather, to.meet, to.get.together]" : {apato}
+| "[=apoto][VRoot][=to.gather, to.meet, to.get.together][--][N=][IRR+]" : {ampoto}
 ! 
 | "[=ar][VRoot][=to.fly]" : {ar}
 ! 
@@ -66,7 +67,11 @@ define VRootPRQin [
 | "[=ashi][VRoot][=to.enclose]" : {ashi}
 | "[=atai][VRoot][=to.go.up, to.climb]" : {atai}
 | "[=atsik][VRoot][=to.bite]" : {atsik}
-! 
+!
+| "[=atso][VRoot][=to.suck]" : {atso}
+| "[=atso][VRoot][=to.suck][--][N=][IRR+]" : {antso}
+| "[=tho][VRoot][=to.suck]" : {tho}
+!
 | "[=avis][VRoot][=to.pass]" : {avis}
 | "[=avish][VRoot][=to.pass]" : {avish}
 ! 

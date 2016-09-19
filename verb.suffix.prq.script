@@ -38,7 +38,7 @@
       ];
       
       define V=S=REGR [
-       "[--][+REGR]" : "@EP"[{a}|{ah}]
+       "[--][Cas][+REGR_TERM]" : "@EP"[{a}|{ah}]
       ];
       
       define V=S=CNTF [
