@@ -318,8 +318,9 @@ define VRootPRQin [
 | "[=pitziry][VRoot][=to.peel]" : {pitziry}
 | "[=piy][VRoot][=to.return, to.come.back]" : {piy}
 | "[=piyatsa][VRoot][=to.disobey]" : {piyatsa}
-| "[=pok][VRoot][=to.come]" : {pok}
-| "[=pok][VRoot][=to.arrive]" : {pok}
+! 
+| "[=pok][VRoot][=to.come, to.arrive]" : {pok}
+! 
 | "[=pony][VRoot][=to.come.from]" : {pony}
 | "[=pos][VRoot][=to.hit]" : {pos}
 | "[=pos][VRoot][=to.beat]" : {pos}
@@ -521,7 +522,7 @@ define VRootPRQin [
 ! -----------------
 ! Verbalized nouns
 ! -----------------
-| "[=atziri][NRoot][=person]" : {atziri}
+| "[=atziri+m.][NRoot][=person, individual, human]" : {atziri}
 | "[=charini][NRoot][=grandfather]" : {charini}
 | "[=eentsi][NRoot][=child]" : {eentsi}
 | "[VRoot][=manioc][=kaniri]" : {kaniri}

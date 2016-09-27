@@ -36,9 +36,9 @@ define NRootPRQin [
 | "[=ashoshi][NRoot][=armadillo]" : {ashoshi}
 | "[=asorina][NRoot][=cheek]" : {asorina}
 ! person, individual, human
-| "[=atziri][NRoot][=person, individual, human]" : {atziri}
-| "[=atiri][NRoot][=person, individual, human]" : {atiri}
-| "[=atsiri][NRoot][=person, individual, human]" : {atsiri}
+| "[=atzirii+m.][NRoot][=person, individual, human]" : {atziri}
+| "[=atiri+m.][NRoot][=person, individual, human]" : {atiri}
+| "[=atsiri+m.][NRoot][=person, individual, human]" : {atsiri}
 !
 | "[=avotsi][NRoot][=road]" : {avotsi}
 | "[=chaari][NRoot][=dark.water]" : {chaari}
@@ -81,7 +81,8 @@ define NRootPRQin [
 | "[=iNporoto+m.][NRoot][=worm.sp.]" : {imporoto}
 | "[=îpoto+m.][NRoot][=worm.sp.]" : {îpoto}
 ! 
-| "[NRoot][=mother, wife][=ina]" : {ina}
+| "[=ina][NRoot][=mother, wife]" : {ina}
+| "[=hina][NRoot][=mother, wife]" : {hina}
 ! 
 | "[=incha][NRoot][=plant]" : {incha}
 | "[=inchapataki][NRoot][=spatula]" : {inchapataki}
@@ -160,6 +161,13 @@ define NRootPRQin [
 ! 
 | "[=kitairiki][NRoot][=peccary]" : {kitairiki}
 | "[=kitaiteri][NRoot][=day]" : {kitaiteri}
+! 
+| "[=kitamaro+m.][NRoot][=white]" : {kitamaro}
+| "[=kitamaaro+m.][NRoot][=white]" : {kitamaaro}
+| "[=kitamari+n.m.][NRoot][=white]" : {kitamari}
+| "[=kitamaari+n.m.][NRoot][=white]" : {kitamaari}
+| "[=kitamarori][NRoot][=white]" : {kitamarori}
+! 
 | "[=kitsa][NRoot][=dress]" : {kitsa}
 | "[=kitsapi][NRoot][=needle.m.]" : {kitsapi}
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
@@ -343,6 +351,9 @@ define NRootPRQin [
 | "[=sari][NRoot][=grandma]" : {sari}
 | "[=satzi][NRoot][=provenance]" : {satzi}
 | "[=shamitzi][NRoot][=namesake]" : {shamitzi}
+! 
+| "[=shani+m.][NRoot][=anteater]" : {shani}
+! 
 | "[=sharo][NRoot][=agouti]" : {sharo}
 ! 
 | "[=shaveta][NRoot][=butterfly]" : {shaveta}
@@ -438,10 +449,10 @@ define NRootPRQin [
 | "[=tsimiri][NRoot][=bird, little.bird]" : {tsimiri}
 | "[=tsimeri][NRoot][=bird, little.bird]" : {tsimeri}
 ! female, woman
-| "[=tsinani][NRoot][=female, woman]" : {tsinani}
-| "[=tsinane][NRoot][=female, woman]" : {tsinane}
-| "[=tzinani][NRoot][=female, woman]" : {tzinani}
-| "[=tsinãni][NRoot][=female, woman]" : {tsinãni}
+| "[=tsinani+n.m.][NRoot][=female, woman]" : {tsinani}
+| "[=tsinane+n.m.][NRoot][=female, woman]" : {tsinane}
+| "[=tzinani+n.m.][NRoot][=female, woman]" : {tzinani}
+| "[=tsinãni+n.m.][NRoot][=female, woman]" : {tsinãni}
 ! 
 | "[=tsipana][NRoot][=leaf]" : {tsipana}
 ! 
@@ -502,4 +513,15 @@ define NRootPRQin [
 ! word set:
 | "[niyanki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {niyanki}
 | "[nianki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {nianki}
+! word set: medicinal plants
+| "[=taeri][NRoot][=amasisa, tree.sp.]" : {taeri}
+| "[=kanae][NRoot][=tangarana, tree.sp.]" : {kanae}
+| "[=tsirokitsa][NRoot][=renaquilla, parasitic.plant.sp.]" : {tsirokitsa}
+| "[=mesha][NRoot][=capirona, tree.sp.]" : {mesha}
+| "[=kove][NRoot][=copaiba, tree.sp.]" : {kove}
+| "[=pashavo][NRoot][=punga, tree.sp.]" : {pashavo}
+| "[=ikoha][NRoot][=tree.sp.]" : {ikoha}
+| "[=potoo][NRoot][=ojé, tree.sp.]" : {potoo}
+| "[=potoo.kitamari][NRoot][=ojé.blanco, tree.sp.]" : {potoo.kitamari}
+| "[=kavana][NRoot][=catahua, tree.sp.]" : {kavana}
 ];
