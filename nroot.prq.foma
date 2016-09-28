@@ -162,10 +162,11 @@ define NRootPRQin [
 | "[=kitairiki][NRoot][=peccary]" : {kitairiki}
 | "[=kitaiteri][NRoot][=day]" : {kitaiteri}
 ! 
-| "[=kitamaro+m.][NRoot][=white]" : {kitamaro}
-| "[=kitamaaro+m.][NRoot][=white]" : {kitamaaro}
-| "[=kitamari+n.m.][NRoot][=white]" : {kitamari}
-| "[=kitamaari+n.m.][NRoot][=white]" : {kitamaari}
+| "[=kitamaro+n.m.][NRoot][=white]" : {kitamaro}
+| "[=kitamaaro+n.m.][NRoot][=white]" : {kitamaaro}
+| "[=kitamaavo+n.m.][NRoot][=white]" : {kitamaavo}
+| "[=kitamari+m.][NRoot][=white]" : {kitamari}
+| "[=kitamaari+m.][NRoot][=white]" : {kitamaari}
 | "[=kitamarori][NRoot][=white]" : {kitamarori}
 ! 
 | "[=kitsa][NRoot][=dress]" : {kitsa}
@@ -521,7 +522,6 @@ define NRootPRQin [
 | "[=kove][NRoot][=copaiba, tree.sp.]" : {kove}
 | "[=pashavo][NRoot][=punga, tree.sp.]" : {pashavo}
 | "[=ikoha][NRoot][=tree.sp.]" : {ikoha}
-| "[=potoo][NRoot][=ojé, tree.sp.]" : {potoo}
-| "[=potoo.kitamari][NRoot][=ojé.blanco, tree.sp.]" : {potoo.kitamari}
+| "[=potoo+n.m.][NRoot][=ojé, tree.sp.]" : {potoo}
 | "[=kavana][NRoot][=catahua, tree.sp.]" : {kavana}
 ];
