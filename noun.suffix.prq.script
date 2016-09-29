@@ -5,7 +5,7 @@ define N=S=poss [
  [ "[--][-ni][Gen][+poss]" ] : {ni} |
  [ "[--][-ne][Gen][+poss]" ] : {ne} |
  ! 
- [ "[--][-ri][Gen][+poss]" ] : {ri}
+ [ "[--][-ri][Gen][+poss]" ] : {ri} |
  [ "[--][-re][Gen][+poss]" ] : {re}
 ];
       
@@ -38,15 +38,15 @@ define N=S=ABS [
  "[--][-ntsi][Gen][+nposs]" : {ntsi} 
 ];
       
-      define N=S=CL [
-       "[--][+CL]" : [{tsa}]
-      ];
+!      define N=S=CL [
+!       "[--][+CL]" : [{tsa}]
+!      ];
       
       define N=S=smallpartDIM [
        "[--][+small.part.DIM]" : [{patsaini}]
       ];
       
-      define N=S=noun [
+      define N=S=CL [
        "[--][+CL]" : [{patsa}|{konta}|{chaari}|{tsapya}] | 
        ! Plant-based parts in compounds
        "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat]" : {shi} | 
@@ -62,7 +62,9 @@ define N=S=ABS [
        "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} | 
        "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} | 
        "[--][-na][+CL:long.hollow][=long,hollow]" : {na} | 
-       "[--][-ki][+CL:S.R.H][=small,round;hard]" : [{ki}|{kii}] 
+       "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} | 
+       "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} | 
+       "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin]" : {tsa}
       ];
       
 define N=S=EXCL [
