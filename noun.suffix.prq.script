@@ -38,16 +38,17 @@ define N=S=ABS [
  "[--][-ntsi][Gen][+nposs]" : {ntsi} 
 ];
       
-!      define N=S=CL [
-!       "[--][+CL]" : [{tsa}]
-!      ];
-      
       define N=S=smallpartDIM [
        "[--][+small.part.DIM]" : [{patsaini}]
       ];
       
       define N=S=CL [
-       "[--][+CL]" : [{patsa}|{konta}|{chaari}|{tsapya}] | 
+       "[--][-chaari][=dark water]" : {chaari} | 
+       "[--][-tsapya][=bank, side.of.river]" : {tsapya} | 
+       ! Size related classifier ?
+       "[--][-patsa][=small part]" : {patsa} | 
+       ! ?
+       "[--][=konta+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} | 
        ! Plant-based parts in compounds
        "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat]" : {shi} | 
        "[--][-panki][+CL:plank][=plank;to.grow]" : [{panki}|{panke}] | 

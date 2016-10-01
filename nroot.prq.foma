@@ -31,7 +31,7 @@ define NRootPRQin [
 | "[=aparoni][NRoot][=somebody]" : {aparoni}
 | "[=apiinka][NRoot][=person's.name]" : {apiinka}
 | "[=aporivatsa][NRoot][=thigh]" : {aporivatsa}
-| "[=ashiro][NRoot][=steel]" : {ashiro}
+| "[=ashiro][NRoot][=steel, iron]" : {ashiro}
 | "[=ashonki][NRoot][=ankle]" : {ashonki}
 | "[=ashoshi][NRoot][=armadillo]" : {ashoshi}
 | "[=asorina][NRoot][=cheek]" : {asorina}
@@ -334,8 +334,8 @@ define NRootPRQin [
 | "[=rasaro][NRoot][=person's.name]" : {rasaro}
 | "[=rento][NRoot][=sister]" : {rento}
 | "[=riro][NRoot][=watch]" : {riro}
-| "[=saari][NRoot][=opossum]" : {saari}
-| "[=saimpiki][NRoot][=firewood]" : {saimpiki}
+| "[=saari+m.][NRoot][=opossum]" : {saari}
+| "[=saimpiki][NRoot][=firewood, dry.twigs]" : {saimpiki}
 | "[=samani][NRoot][=paca]" : {samani}
 ! ash
 | "[=samampo][NRoot][=ash]" : {samampo}
