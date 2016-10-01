@@ -13,8 +13,8 @@ define N [
  (N=S=2poss) (N=S=poss) | 
  (N=S=ABS) (N=S=poss) | 
  (N=S=2poss) (N=S=ABS) (N=S=poss) | 
- (N=S=CL) (N=S=poss) (N=S=smallpartDIM) | 
- (N=S=LOC) (N=S=smallpartDIM) | 
+ (N=S=CL) (N=S=poss) (N=S=DIM) | 
+ (N=S=LOC) (N=S=DIM) | 
  (N=S=CL) (N=S=LOC) | 
  (N=S=CL) (N=S=DEM) | 
  (N=S=CL) (N=S=CL) (N=S=DIM) | 
