@@ -286,8 +286,7 @@ define NRootPRQin [
 | "[=pankaina][NRoot][=forehead]" : {pankaina}
 | "[=panki][NRoot][=plank]" : {panki}
 ! 
-| "[=panko][NRoot][=house]" : {panko}
-| "[=pankotsi][NRoot][=house]" : {pankotsi}
+| "[=panko+inal.][NRoot][=house]" : {panko}
 ! 
 | "[=pante][NRoot][=mouth]" : [{pante}|{paante}]
 ! otter
