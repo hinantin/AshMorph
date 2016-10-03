@@ -142,6 +142,9 @@ define NRootPRQin [
 | "[=katsariki][NRoot][=testicle]" : {katsariki}
 | "[=katsimaropa][NRoot][=plantain.sp.]" : {katsimaropa}
 | "[=kempita][NRoot][=ear]" : {kempita}
+! 
+| "[=kemari][NRoot][=tapir, pig.like.animal]" : {kemari}
+! 
 | "[=kentsi][NRoot][=neck]" : {kentsi}
 | "[=kintsori][NRoot][=patridge.sp]" : {kintsori}
 | "[=kipatsi][NRoot][=ground, mud, earth]" : {kipatsi}
@@ -202,8 +205,8 @@ define NRootPRQin [
 | "[=manii][NRoot][=bullet.ant]" : {manii}
 | "[=maniro][NRoot][=deer]" : {maniro}
 ! 
-| "[NRoot][=tiger][=manitzi]" : {manitzi}
-| "[NRoot][=tiger][=maniti]" : {maniti}
+| "[=manitzi][NRoot][=tiger]" : {manitzi}
+| "[=maniti][NRoot][=tiger]" : {maniti}
 ! 
 | "[=mantsaki][NRoot][=cushma]" : {mantsaki}
 | "[=mapi][NRoot][=stone]" : {mapi}
@@ -211,6 +214,9 @@ define NRootPRQin [
 | "[=marankiaro][NRoot][=name.of.village]" : {marankiaro}
 | "[=mayempiri][NRoot][=womanizer]" : {mayempiri}
 | "[=meantarini][NRoot][=name]" : {meantarini}
+! 
+| "[=meanto][NRoot][=macaw, parrot.sp.]" : {meanto}
+! 
 | "[=metaro][NRoot][=village's.name]" : {metaro}
 | "[=minkori][NRoot][=cloud]" : {minkori}
 | "[=moito][NRoot][=navel]" : {moito}
