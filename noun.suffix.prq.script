@@ -70,7 +70,15 @@ define N=S=EXCL [
 ];
       
       define N=S=ADVP [
-       "[--][-ranki+fused.t.][Adv][+ADV.P]" : [{ranki}]
+       "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}]
+      ];
+      
+!      define N=S=ADVT [
+!       "[--][+ADV.T]" : [{ranki}]
+!      ];
+      
+      define N=S=ADV [
+       "[--][-paite+during][+ADV]" : [{paite}]
       ];
       
       define N=S=AUG [
@@ -106,10 +114,7 @@ define N=S=EXCL [
       define N=S=DUB [
        "[--][+DUB]" : [{taima}|{ma}]
       ];
-      
-      define N=S=ADVT [
-       "[--][+ADV.T]" : [{ranki}]
-      ];
+
       
       define N=S=this [
        "[--][+this]" : [{ka}]

@@ -79,7 +79,8 @@
        "[--][+medial][+ADV]" : "@EP"[{ra}] | 
        "[--][+distal][+ADV]" : "@EP"[{nta}] | 
        "[--][+fused.t.][+ADV.P]" : "@EP"[{ranki}] | 
-       "[--][+ADV]" : "@EP"[{paite}|{ni}] 
+       "[--][+during][+ADV]" : "@EP"[{paite}] | 
+       "[--][+ADV]" : "@EP"[{ni}] 
       ];
       
       define V=S=2O [
