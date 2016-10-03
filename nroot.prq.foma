@@ -249,8 +249,7 @@ define NRootPRQin [
 | "[NRoot][=sun][=ooryaatsiri]" : {ooryaatsiri}
 | "[NRoot][=sun][=oorya]" : {oorya}
 ! 
-| "[=oovero][NRoot][=bird.species]" : {oovero}
-| "[=oovero][NRoot][=hawk.sp., hawk]" : {oovero}
+| "[=oovero][NRoot][=hawk.sp., hawk, bird.sp.]" : {oovero}
 ! 
 | "[=opempe][NRoot][=toucan]" : {opempe}
 | "[=osarentsi][NRoot][=year]" : {osarentsi}
