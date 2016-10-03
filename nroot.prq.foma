@@ -322,6 +322,10 @@ define NRootPRQin [
 ! 
 | "[=perú][NRoot][=NP]" : {perú}
 | "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
+! 
+| "[=pinkatsari+voc.][NRoot][=chief]" : {pinkatsari}
+| "[=pinkatsari+voc.][NRoot][=chief]" : {pinkatsare}
+! 
 | "[=piratsi][NRoot][=animal]" : {piratsi}
 | "[=pito][NRoot][=name]" : {pito}
 | "[=pito][NRoot][=canoe]" : {pito}

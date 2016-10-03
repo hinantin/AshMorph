@@ -187,15 +187,16 @@
                                                                             # nopito (in our lexicon) -> no@PRONLEN@pito -> no@PRONLEN@vito -> novito 
       define PWLenitionRule2 [ "@PRONLEN@"p (->) "@PRONLEN@"v || [{i}] _ [{a}] ]; 
                                                                             # ipanko (in our lexicon) -> i@PRONLEN@panko -> i@PRONLEN@vanko -> ivanko 
-
+      define PWLenitionRule3 [ "@PRONLEN@"p -> "@PRONLEN@"v || [{a}] _ [{i}] ]; 
+                                                                            # apinkatsarite (in our lexicon) -> a@PRONLEN@pinkatsarite -> a@PRONLEN@vinkatsarite -> avinkatsarite 
       define KJLenitionRule1 [ "@PRONLEN@"k -> "@PRONLEN@"y || _ [{o}|{a}|{e}] ]; 
       
       define KLenitionRule2 [ "@PRONLEN@"k -> "@PRONLEN@" || [{o}] _ [{i}] ]; 
                                                                             # nokitzi (in our lexicon) -> no@PRONLEN@kitzi -> no@PRONLEN@itzi -> noitzi
       define KLenitionRule3 [ "@PRONLEN@"k -> "@PRONLEN@" || [{i}] _ [{i}] ]; 
                                                                             # ikishi (in our lexicon) -> i@PRONLEN@kishi -> i@PRONLEN@ishi -> iishi 
-      define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. KJLenitionRule1 .o. 
-KLenitionRule2 .o. KLenitionRule3 ];
+      define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 .o. 
+KJLenitionRule1 .o. KLenitionRule2 .o. KLenitionRule3 ];
 
       #########################################
       #          Vowel Deletion Rules         #
