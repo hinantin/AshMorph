@@ -141,10 +141,13 @@ define NRootPRQin [
 | "[=katonko][NRoot][=up.river]" : {katonko}
 | "[=katsariki][NRoot][=testicle]" : {katsariki}
 | "[=katsimaropa][NRoot][=plantain.sp.]" : {katsimaropa}
-| "[=kempita][NRoot][=ear]" : {kempita}
 ! 
 | "[=kemari][NRoot][=tapir, pig.like.animal]" : {kemari}
 ! 
+| "[=kemito][NRoot][=cacao, cacao.plant]" : {kemito}
+| "[=kimito][NRoot][=cacao, cacao.plant]" : {kimito}
+! 
+| "[=kempita][NRoot][=ear]" : {kempita}
 | "[=kentsi][NRoot][=neck]" : {kentsi}
 | "[=kintsori][NRoot][=patridge.sp]" : {kintsori}
 | "[=kipatsi][NRoot][=ground, mud, earth]" : {kipatsi}
@@ -382,7 +385,7 @@ define NRootPRQin [
 | "[=shimaana][NRoot][=week]" : {shimaana}
 | "[=shina][NRoot][=kapok.tree]" : {shina}
 !
-| "[=shire+n.m.+inal.][NRoot][=spirit]" : {shire}
+| "[=shire+n.m.+inal.][NRoot][=spirit, soul]" : {shire}
 !
 | "[=shinki][NRoot][=corn]" : {shinki}
 | "[=zinki][NRoot][=corn]" : {zinki}
