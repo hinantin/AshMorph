@@ -70,12 +70,16 @@
        "[--][+CAUS]" : "@EP"[{ak}|{aka}|{v}|{oi}|{ov}|{o}]
       ];
       
-      define V=S=ADVP [
-       "[--][+ADV.P]" : "@EP"[{ranki}]
-      ];
+!      define V=S=ADVP [
+!       "[--][+ADV.P]" : "@EP"[{ranki}]
+!      ];
       
       define V=S=ADV [
-       "[--][+ADV]" : "@EP"[{ra}|{ka}|{nta}|{ranki}|{paite}|{ni}]
+       "[--][+proximal][+ADV]" : "@EP"[{ka}] | 
+       "[--][+medial][+ADV]" : "@EP"[{ra}] | 
+       "[--][+distal][+ADV]" : "@EP"[{nta}] | 
+       "[--][+fused.t.][+ADV.P]" : "@EP"[{ranki}] | 
+       "[--][+ADV]" : "@EP"[{paite}|{ni}] 
       ];
       
       define V=S=2O [
