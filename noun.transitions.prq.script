@@ -20,7 +20,7 @@ define N [
  (N=S=CL) (N=S=CL) (N=S=DIM) | 
  (N=S=CL) | 
  (N=S=poss) (N=S=LOC) (N=S=DEM) (N=S=EXCL) | 
- (N=S=ADVP) | 
+ (N=S=poss) (N=S=ADVP) | 
  (N=S=2poss) (N=S=CL) (N=S=poss) | 
  (N=S=2poss) (N=S=DEM) | 
  (N=S=ABS) (N=S=CL) (N=S=AUG) | 

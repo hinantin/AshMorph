@@ -70,7 +70,7 @@ define N=S=EXCL [
 ];
       
       define N=S=ADVP [
-       "[--][+ADV.P]" : [{ranki}]
+       "[--][-ranki+fused.t.][Adv][+ADV.P]" : [{ranki}]
       ];
       
       define N=S=AUG [
