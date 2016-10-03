@@ -268,12 +268,12 @@ define NRootPRQin [
 | "[=otzishi][NRoot][=hill]" : {otzishi}
 | "[=ovayeri][NRoot][=guerrilla]" : {ovayeri}
 ! sown field. ova/ovaa ó va/vaa, garden?
-| "[=ovantsi][NRoot][=sown.field, sown.plot.of.land]" : {ovantsi}
 | "[=va][NRoot][=sown.field, sown.plot.of.land]" : {va}
 | "[=vaa][NRoot][=sown.field, sown.plot.of.land]" : {vaa}
-| "[=oa][NRoot][=sown.field, sown.plot.of.land]" : {oa}
-| "[=ova][NRoot][=sown.field, sown.plot.of.land]" : {ova}
-| "[=ovaa][NRoot][=sown.field, sown.plot.of.land]" : {ovaa}
+| "[=oa+inal.][NRoot][=sown.field, sown.plot.of.land]" : {oa}
+| "[=ova+inal.][NRoot][=sown.field, sown.plot.of.land]" : {ova}
+| "[=ovaa+inal.][NRoot][=sown.field, sown.plot.of.land]" : {ovaa}
+! 
 | "[=oya][NRoot][=pot]" : {oya}
 | "[=oyari][NRoot][=her.food]" : {oyari}
 | "[=paamari][NRoot][=fire]" : {paamari}
