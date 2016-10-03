@@ -430,8 +430,9 @@ define VRootPRQin [
 | "[=tekatsi][VRoot][=there.is.not, there.are.not]" : {tekatsi}
 | "[=tekaatsi][VRoot][=there.is.not, there.are.not]" : {tekaatsi}
 ! 
-| "[=tena][VRoot][=to.weigh]" : {tena}
-| "[=tena][VRoot][=to.be.heavy]" : {tena}
+| "[=tena][VRoot][=to.weigh, to.be.heavy]" : {tena}
+!| "[=tena][VRoot][=to.be.heavy]" : {tena}
+!| "[=tenari][VRoot][=be.heavy.ADJ]" : {tenari}
 ! 
 | "[=tet][VRoot][=to.fill]" : {tet}
 | "[=tina][VRoot][=to.lift]" : {tina}
@@ -529,7 +530,6 @@ define VRootPRQin [
 | "[VRoot][=to.be.much][=osheki]" : [{osheki}|{osheke}]
 | "[=tziri][VRoot][=to.be.person]" : {tziri}
 | "[=tomint][VRoot][=to.be.son.of]" : {tomint}
-| "[=tenari][VRoot][=be.heavy.ADJ]" : {tenari}
 | "[=pirapira][VRoot][=2S.cry]" : {pirapira}
 | "[=kaari][VRoot][=NEG.COP]" : {kaari}
 ! copula of capacity cop.c
