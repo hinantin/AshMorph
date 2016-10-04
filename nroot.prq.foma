@@ -507,8 +507,8 @@ define NRootPRQin [
 ! 
 | "[=vaanyo][NRoot][=scarf]" : {vaanyo}
 ! name
-| "[=vairo][NRoot][=name]" : {vairo}
-| "[=vaero][NRoot][=name]" : {vaero}
+| "[=vairo+inal.][NRoot][=name]" : {vairo}
+| "[=vaero+inal.][NRoot][=name]" : {vaero}
 ! 
 !| "[=garden][=vani][NRoot]" : {vani}
 !| "[=land][=vani][NRoot]" : {vani}
