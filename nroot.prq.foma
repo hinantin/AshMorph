@@ -72,7 +72,8 @@ define NRootPRQin [
 | "[=hempeki][NRoot][=arm]" : {hempeki}
 | "[=heto][NRoot][=spider]" : {heto}
 | "[=iitsi][NRoot][=foot]" : {iitsi}
-| "[=ikentsi][NRoot][=neck]" : {ikentsi}
+! 
+| "[=kentsi+inal.][NRoot][=neck, nape]" : {kentsi}
 ! 
 | "[NRoot][=husband][=ime]" : {ime}
 | "[NRoot][=husband][=imi]" : {imi}
