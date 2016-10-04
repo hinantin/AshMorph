@@ -72,9 +72,6 @@ define NRootPRQin [
 | "[=hempeki][NRoot][=arm]" : {hempeki}
 | "[=heto][NRoot][=spider]" : {heto}
 | "[=iitsi][NRoot][=foot]" : {iitsi}
-! 
-| "[=kentsi+inal.][NRoot][=neck, nape]" : {kentsi}
-! 
 | "[NRoot][=husband][=ime]" : {ime}
 | "[NRoot][=husband][=imi]" : {imi}
 !
@@ -149,7 +146,9 @@ define NRootPRQin [
 | "[=kimito][NRoot][=cacao, cacao.plant]" : {kimito}
 ! 
 | "[=kempita][NRoot][=ear]" : {kempita}
-| "[=kentsi][NRoot][=neck]" : {kentsi}
+! 
+| "[=kentsi+inal.][NRoot][=neck, nape]" : {kentsi}
+! 
 | "[=kintsori][NRoot][=patridge.sp]" : {kintsori}
 | "[=kipatsi][NRoot][=ground, mud, earth]" : {kipatsi}
 ! word set:

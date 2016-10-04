@@ -30,7 +30,8 @@ define N=S=DIM [
 ];
       
 define N=S=LOC [
- "[--][-ki][Cas][+LOC]" : [{ki}]
+ "[--][-ki][Cas][+LOC]" : [{ki}] | 
+ "[--][-ke][Cas][+LOC]" : [{ke}]
 ];
       
 define N=S=ABS [
