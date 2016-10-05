@@ -175,6 +175,9 @@ define VRootPRQin [
 | "[=kirik][VRoot][=to.weave]" : {kirik}
 | "[=kis][VRoot][=to.be.angry,get.upset]" : {kis}
 | "[=kisaa][VRoot][=to.be.black]" : {kisaa}
+! 
+| "[=kishi][VRoot][=to.comb.sth., to.pull.comb.through.sb's.hair]" : {kishi}
+! 
 | "[=kiso][VRoot][=to.be.hard]" : {kiso}
 | "[=kita][VRoot][=to.bury]" : {kita}
 ! word set:
@@ -298,10 +301,14 @@ define VRootPRQin [
 | "[=pait][VRoot][=to.be.called]" : {pait}
 ! to plant, to sow
 | "[=panki][VRoot][=to.plant, to.sow]" : {panki}
+! 
 | "[=pari][VRoot][=to.fall]" : {pari}
 | "[=pary][VRoot][=to.fall]" : {pary}
+| "[=vary][VRoot][=to.make.fall]" : {vary}
+! 
 | "[=pas][VRoot][=to.crush]" : {pas}
 | "[=pasat][VRoot][=to.punish]" : {pasat}
+! 
 | "[=pashika][VRoot][=to.cover]" : [{pashika}|{pashka}]
 | "[=pashikaro][VRoot][=blanket]" : {pashikaro}
 | "[=pashivent][VRoot][=to.be.embarrassed]" : {pashivent}
@@ -493,8 +500,8 @@ define VRootPRQin [
 | "[=tzin][VRoot][=to.get.up]" : {tzin}
 ! 
 | "[=v][VRoot][=to.put]" : {v}
-| "[=to.place][=v][VRoot]" : {v}
-| "[=to.kill][=v][VRoot]" : {v}
+| "[=v][=to.place][VRoot]" : {v}
+| "[=v][=to.kill][VRoot]" : {v}
 | "[=vashire][VRoot][=to.get.sad]" : {vashire}
 | "[=vatsa][VRoot][=to.get.fat, to.gain.weight]" : {vatsa}
 | "[=vayeri][VRoot][=to.be.warrior]" : {vayeri}

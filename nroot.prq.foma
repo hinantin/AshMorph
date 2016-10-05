@@ -522,7 +522,10 @@ define NRootPRQin [
 | "[=vatsa][NRoot][=meat, mass, flesh, body]" : {vatsa}
 | "[=vela][NRoot][=person's.name]" : {vela}
 | "[=virakocha][NRoot][=outsider]" : {virakocha}
+! 
 | "[=yari][NRoot][=brother]" : {yari}
+| "[=yaari][NRoot][=brother]" : {yaari}
+! 
 | "[=yenka][NRoot][=fat]" : {yenka}
 | "[=yempita][NRoot][=ear]" : {yempita}
 | "[=yerito][NRoot][=knee]" : {yerito}

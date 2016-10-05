@@ -172,7 +172,7 @@
       define V=S=NMZ [
        "[--][+NMZ]" : "@EP"[{rontsi}|{vontsi}] |
        "[--][+NMZ]" : "@EP"[{rintsi}|{rentsi}|{renti}] |
-       "[--][+NMZ]" : "@EP"[{aantsi}|{antsi}] |
+       "[--][NS][+INF]" : "@EP"[{aantsi}|{antsi}] |
        "[--][+NMZ]" : "@EP"[{nka}|{ri}|{nk}|{ntsi}] |
        "[--][NMZ][+CONCR]" : "@EP"[{mento}]
       ];
