@@ -34,7 +34,14 @@
       ];
       
       define V=S=PL [
-       "[--][+PL]" : "@EP"[{he}|{paye}|{ni}|{aiy}|{het}|{ite}]
+       "[--][+PL]" : "@EP"[{he}|{ni}|{aiy}|{het}|{ite}] |
+       !  
+       "[--][-paye][Num][+PL]" : {paye} |
+       "[--][-payeni][Num][+PL]" : {payeni} |
+       "[--][-payeeni][Num][+PL]" : {payeeni} |
+       "[--][-paeni][Num][+PL]" : {paeni} |
+       "[--][-pe][Num][+PL]" : {pe} |
+       "[--][-pee][Num][+PL]" : {pee} 
       ];
       
       define V=S=REGR [

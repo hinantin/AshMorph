@@ -25,7 +25,8 @@ define N=S=PL [
 ];
       
 define N=S=DIM [
- "[--][+small.part.DIM]" : {patsaini} | 
+ "[--][-patsaini][+small.part.DIM]" : {patsaini} | 
+ "[--][-peta][+DIM]" : {peta} | 
  "[--][+DIM]" : [{ini}|{ni}|{aniki}]
 ];
       
@@ -84,8 +85,9 @@ define N=S=EXCL [
       
       define N=S=AUG [
        "[--][+AUG]" : [{ni}|{ite}|{pero}] |
-       "[--][+AUG]" : [{mashi}] |
-       "[--][+AUG]" : [{sante}]
+       "[--][=mashi][+AUG]" : [{mashi}] |
+       "[--][=santsa][+AUG]" : [{santsa}] |
+       "[--][=sante][+AUG]" : [{sante}]
       ];
       
       define N=S=deceased [

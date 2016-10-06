@@ -243,8 +243,8 @@ define NRootPRQin [
 | "[=nii][NRoot][=breast]" : {nii}
 | "[=niro][NRoot][=mother]" : {niro}
 ! 
-| "[NRoot][=word, language][=nyaa]" : {nyaa}
-| "[NRoot][=word, language][=nya]" : {nya}
+| "[=nyaa+inal.][NRoot][=word, language]" : {nyaa}
+| "[=nya+inal.][NRoot][=word, language]" : {nya}
 ! 
 | "[=ochera][NRoot][=shore]" : {ochera}
 | "[=ocheraa][NRoot][=shore]" : {ocheraa}
