@@ -1,7 +1,11 @@
 # person pronouns
 
 define PrnPersPRQin [
-! SET 1
+! SET 1: +cont.d.top. (continuous discourse topic)
+! SET 2: +cntr.add.l. (contrastive additive listing)
+! SET 3: +cntr.exh.l. (contrastive exhaustive listing)
+! SET 4: +cntr.d.top. (contrastive discourse topic)
+! 
   "[=naaka+cont.d.top.][=PrnPers][+1SG]" : {naaka}
 | "[=aviroka+cont.d.top.][=PrnPers][+2SG]" : {aviroka}
 ! 
@@ -19,4 +23,21 @@ define PrnPersPRQin [
 | "[=iriroite][=PrnPers][+3PL.m.EXCL.]" : {iriroite}
 | "[=iririroite][=PrnPers][+3PL.m.EXCL.]" : {iririroite}
 | "[=iroite][=PrnPers][+3PL.n.m.EXCL]" : {iroite}
+! 
+| "[=naari+cntr.add.l.][=PrnPers][+1SG]" : {naari}
+| "[=avirori+cntr.add.l.][=PrnPers][+2SG]" : {avirori}
+| "[=irirori+cntr.add.l.][=PrnPers][+3SG.m.]" : {irirori}
+| "[=iroori+cntr.add.l.][=PrnPers][+3SG.n.m.]" : {iroori}
+| "[=arori+cntr.add.l.][=PrnPers][+1PL]" : {arori}
+! 
+| "[=naakataki+cntr.exh.l.][=PrnPers][+1SG]" : {naakataki}
+| "[=avirotaki+cntr.exh.l.][=PrnPers][+2SG]" : {avirotaki}
+| "[=iritaki+cntr.exh.l.][=PrnPers][+3SG.m.]" : {iritaki}
+| "[=irotaki+cntr.exh.l.][=PrnPers][+3SG.n.m.]" : {irotaki}
+| "[=arotaki+cntr.exh.l.][=PrnPers][+1PL]" : {arotaki}
+! 
+| "[=naintsi+cntr.d.top.][=PrnPers][+1SG]" : {naintsi}
+| "[=avintsi+cntr.d.top.][=PrnPers][+2SG]" : {avintsi}
+| "[=irintsi+cntr.d.top.][=PrnPers][+3SG.m.]" : {irintsi}
+| "[=irontsi+cntr.d.top.][=PrnPers][+3SG.n.m.]" : {irontsi}
 ];
