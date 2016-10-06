@@ -15,7 +15,8 @@ define PrnPersPRQin [
 | "[=arorite][=PrnPers][+1PL.INCL]" : {arorite}
 ! 
 | "[=][=PrnPers][+1PL.EXCL]" : {naakaite}
-| "[=][=PrnPers][+2PL]" : {avirokaite}
-| "[=][=PrnPers][+3PL.m.]" : [{iriroite}|{iririroite}]
-| "[=][=PrnPers][+3PL.n.m.]" : {iroo}
+| "[=][=PrnPers][+2PL.EXCL]" : {avirokaite}
+| "[=][=PrnPers][+3PL.m.EXCL.]" : {iriroite}
+| "[=][=PrnPers][+3PL.m.EXCL.]" : {iririroite}
+| "[=][=PrnPers][+3PL.n.m.]" : {iroite}
 ];
