@@ -11,9 +11,6 @@ define ORootPRQin [
 | "[OtherRoot][=if][=arika]" : {arika}
 | "[OtherRoot][=if][=aririka]" : {aririka}
 | "[OtherRoot][=PP][=aritaki]" : {aritaki}
-| "[OtherRoot][=hers][=ashi]" : {ashi}
-| "[OtherRoot][=her][=ashi]" : {ashi}
-| "[OtherRoot][=its][=ashi]" : {ashi}
 | "[OtherRoot][=also,and][=eehatzi]" : {eehati}
 | "[OtherRoot][=also,and][=eehatzi]" : {eehatzi}
 | "[OtherRoot][=aha][=ha]" : {ha}
@@ -26,7 +23,6 @@ define ORootPRQin [
 | "[OtherRoot][=other.side][=intatzikero]" : {intatzikero}
 | "[OtherRoot][=well][=intsitya]" : {intsitya}
 | "[OtherRoot][=inside][=intsompoi]" : {intsompoi}
-| "[OtherRoot][=his][=irashi]" : {irashi}
 | "[OtherRoot][=but][=iro]" : {iro}
 | "[OtherRoot][=in.conrast][=iroma]" : {iroma}
 | "[OtherRoot][=CONN][=ironyaaka]" : {ironyaaka}
