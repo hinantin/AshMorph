@@ -263,6 +263,15 @@
         define PrnPersPRQ PrnPersPRQin;
       define Personal [ [PrnPersPRQ] ];
 
+      #################################
+      #                               #
+      #    Free Possessive Pronoun    #
+      #                               #
+      #################################
+      source prnposs.prq.foma
+        define PrnPossPRQ PrnPossPRQin;
+      define Possessive [ [PrnPossPRQ] ];
+
       ###############################
       #                             #
       #    Demonstrative Pronoun    #
@@ -281,7 +290,7 @@
         define InterjPRQ InterjPRQin;
       define Interjection [ [InterjPRQ] ];
 
-      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Demonstrative|Interjection] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
 
       save stack asheninka.bin
 
