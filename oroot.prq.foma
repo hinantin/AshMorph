@@ -27,14 +27,12 @@ define ORootPRQin [
 | "[OtherRoot][=well][=intsitya]" : {intsitya}
 | "[OtherRoot][=inside][=intsompoi]" : {intsompoi}
 | "[OtherRoot][=his][=irashi]" : {irashi}
-| "[OtherRoot][=FOC][=iritaki]" : {iritaki}
 | "[OtherRoot][=but][=iro]" : {iro}
 | "[OtherRoot][=in.conrast][=iroma]" : {iroma}
 | "[OtherRoot][=CONN][=ironyaaka]" : {ironyaaka}
 | "[OtherRoot][=then][=ironyaaka]" : {ironyaaka}
 | "[OtherRoot][=until][=irosatzi]" : {irosati}
 | "[OtherRoot][=until][=irosatzi]" : {irosatzi}
-| "[OtherRoot][=FOC][=irotaki]" : {irotaki}
 | "[OtherRoot][=head][=ito]" : {ito}
 | "[OtherRoot][=because][=kama]" : {kama}
 | "[OtherRoot][=well][=kameetsa]" : {kameetsa}
@@ -72,4 +70,7 @@ define ORootPRQin [
 | "[OtherRoot][=EXIST][=tzimatsi]" : {tzimatsi}
 | "[OtherRoot][=EXIST][=tzimtsi]" : {tzimtsi}
 | "[OtherRoot][=eat][=ya]" : {ya}
+! 
+| "[=irotaki][FOC][=that's.why]" : {irotaki} 
+| "[=iritaki][FOC][=that's.why]" : {irotaki} 
 ];
