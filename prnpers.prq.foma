@@ -1,13 +1,21 @@
 # person pronouns
 
 define PrnPersPRQin [
-  "[=PrnPers][+1SG]" : {naaka}
-| "[=PrnPers][+2SG]" : {aviroka}
-| "[=PrnPers][+3SG.m.]" : [{iri}|{iriro}|{irio}]
-| "[=PrnPers][+3SG.n.m.]" : {iroo}
-| "[=PrnPers][+1PL.INCL]" : [{aroka}|{arokaite}|{arorite}]
-| "[=PrnPers][+1PL.EXCL]" : {naakaite}
-| "[=PrnPers][+2PL]" : {avirokaite}
-| "[=PrnPers][+3PL.m.]" : [{iriroite}|{iririroite}]
-| "[=PrnPers][+3PL.n.m.]" : {iroo}
+! SET 1
+  "[=naaka+cont.d.top.][=PrnPers][+1SG]" : {naaka}
+| "[=aviroka+cont.d.top.][=PrnPers][+2SG]" : {aviroka}
+! 
+| "[=iri+cont.d.top.][=PrnPers][+3SG.m.]" : {iri}
+| "[=iriro+cont.d.top.][=PrnPers][+3SG.m.]" : {iriro}
+| "[=irio+cont.d.top.][=PrnPers][+3SG.m.]" : {irio}
+! 
+| "[=iroo+cont.d.top.][=PrnPers][+3SG.n.m.]" : {iroo}
+| "[=aroka+cont.d.top.][=PrnPers][+1PL.INCL]" : {aroka}
+| "[=arokaite][=PrnPers][+1PL.INCL]" : {arokaite}
+| "[=arorite][=PrnPers][+1PL.INCL]" : {arorite}
+! 
+| "[=][=PrnPers][+1PL.EXCL]" : {naakaite}
+| "[=][=PrnPers][+2PL]" : {avirokaite}
+| "[=][=PrnPers][+3PL.m.]" : [{iriroite}|{iririroite}]
+| "[=][=PrnPers][+3PL.n.m.]" : {iroo}
 ];

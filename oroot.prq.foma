@@ -64,10 +64,12 @@ define ORootPRQin [
 | "[OtherRoot][=maybe][=tema]" : {tema}
 | "[OtherRoot][=or][=terika]" : {terika}
 | "[OtherRoot][=maybe][=terika]" : {terika}
+! 
 | "[OtherRoot][=EXIST][=tzimatsi]" : {timatsi}
 | "[OtherRoot][=exist][=tzim]" : {tzim}
 | "[OtherRoot][=EXIST][=tzimatsi]" : {tzimatsi}
 | "[OtherRoot][=EXIST][=tzimtsi]" : {tzimtsi}
+! 
 | "[OtherRoot][=eat][=ya]" : {ya}
 ! 
 | "[=irotaki][FOC][=that's.why]" : {irotaki} 
