@@ -62,7 +62,8 @@
       ];
       
       define V=S=DUR [
-       "[--][+DUR]" : "@EP"[{vai}|{vae}]
+       "[--][+DUR]" : "@EP"[{vai}|{vae}] |
+       "[--][+DUR]" : "@EP"[{vee}]
       ];
       
       define V=S=3O [
@@ -111,7 +112,7 @@
       ];
       
       define V=S=FRUS [
-       "[--][+FRUS]" : "@EP"[{ve}|{vee}|{vi}|{macheve}|{vit}]
+       "[--][+FRUS]" : "@EP"[{ve}|{vi}|{macheve}|{vit}]
       ];
       
       define V=S=APPLREAS [

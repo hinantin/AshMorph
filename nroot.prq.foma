@@ -207,7 +207,8 @@ define NRootPRQin [
 | "[=makako][NRoot][=macaque]" : {makako}
 | "[=mamaro][NRoot][=owl]" : [{mamaro}|{mamavo}]
 | "[=manii][NRoot][=bullet.ant]" : {manii}
-| "[=maniro][NRoot][=deer]" : {maniro}
+! 
+| "[=maniro+m.][NRoot][=deer]" : {maniro}
 ! 
 | "[=manitzi][NRoot][=tiger]" : {manitzi}
 | "[=maniti][NRoot][=tiger]" : {maniti}
