@@ -535,8 +535,10 @@ define VRootPRQin [
 | "[=atziri+m.][NRoot][=person, individual, human]" : {atziri}
 | "[=charini][NRoot][=grandfather]" : {charini}
 | "[=eentsi][NRoot][=child]" : {eentsi}
-| "[VRoot][=manioc][=kaniri]" : {kaniri}
-| "[VRoot][=to.be.much][=osheki]" : [{osheki}|{osheke}]
+| "[=shirampari][NRoot][=man]" : {shirampari}
+!
+| "[=kaniri][VRoot][=manioc]" : {kaniri}
+| "[=osheki][VRoot][=to.be.much]" : [{osheki}|{osheke}]
 | "[=tziri][VRoot][=to.be.person]" : {tziri}
 | "[=tomint][VRoot][=to.be.son.of]" : {tomint}
 | "[=pirapira][VRoot][=2S.cry]" : {pirapira}
