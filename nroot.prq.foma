@@ -497,7 +497,9 @@ define NRootPRQin [
 ! hen 
 | "[=tyaapa+n.m.][NRoot][=hen]" : {tyaapa}
 | "[=teapa+n.m.][NRoot][=hen]" : {teapa}
-! 
+! rooster 
+| "[=tyoopi+m.][NRoot][=rooster]" : {tyoopi}
+!
 | "[=tziivito][NRoot][=Beetle]" : {tziivito}
 | "[=tzina][NRoot][=pifayo]" : {tzina}
 | "[=tzina][NRoot][=camonilla]" : {tzina}
