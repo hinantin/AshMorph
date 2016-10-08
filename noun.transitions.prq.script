@@ -46,7 +46,7 @@ define N [
  (N=S=DEM) (N=S=EMPH) | 
  (N=S=ADVP) | 
  (N=S=ADV) | 
- (N=S=this) | 
+ (N=S=DEM) | 
  (N=S=CL) (N=S=smallpart) (N=S=DIM) | 
  (N=S=ABS) (N=S=EXCL) | 
  (N=S=EXCL) | 

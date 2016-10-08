@@ -10,7 +10,7 @@ define N=S=poss [
 ];
       
 define N=S=DEM [
- "[--][-ka+proximal][Adv][+DEM]" : {ka} | 
+ "[--][-ka+proximal][Adv][+DEM]" : {ka} | ! this
  "[--][-ra+medial][Adv][+DEM]" : {ra} | 
  "[--][-nta+distal][Adv][+DEM]" : {nta} 
 ];
@@ -118,11 +118,6 @@ define N=S=EXCL [
       
       define N=S=DUB [
        "[--][+DUB]" : [{taima}|{ma}]
-      ];
-
-      
-      define N=S=this [
-       "[--][+this]" : [{ka}]
       ];
       
       define N=S=CNTR [
