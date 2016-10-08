@@ -6,38 +6,39 @@ define PrnPersPRQin [
 ! SET 3: +cntr.exh.l. (contrastive exhaustive listing)
 ! SET 4: +cntr.d.top. (contrastive discourse topic)
 ! 
-  "[=naaka+cont.d.top.][=PrnPers][+1SG]" : {naaka}
-| "[=aviroka+cont.d.top.][=PrnPers][+2SG]" : {aviroka}
+  "[=naaka+cont.d.top.][PrnPers][+1SG]" : {naaka}
+| "[=aviroka+cont.d.top.][PrnPers][+2SG]" : {aviroka}
 ! 
-| "[=iri+cont.d.top.][=PrnPers][+3SG.m.]" : {iri}
-| "[=iriro+cont.d.top.][=PrnPers][+3SG.m.]" : {iriro}
-| "[=irio+cont.d.top.][=PrnPers][+3SG.m.]" : {irio}
+| "[=iri+cont.d.top.][PrnPers][+3SG.m.]" : {iri}
+| "[=iriro+cont.d.top.][PrnPers][+3SG.m.]" : {iriro}
+| "[=irio+cont.d.top.][PrnPers][+3SG.m.]" : {irio}
 ! 
-| "[=iroo+cont.d.top.][=PrnPers][+3SG.n.m.]" : {iroo}
-| "[=aroka+cont.d.top.][=PrnPers][+1PL.INCL]" : {aroka}
-| "[=arokaite][=PrnPers][+1PL.INCL]" : {arokaite}
-| "[=arorite][=PrnPers][+1PL.INCL]" : {arorite}
+| "[=iroo+cont.d.top.][PrnPers][+3SG.n.m.]" : {iroo}
+| "[=aroka+cont.d.top.][PrnPers][+1PL.INCL]" : {aroka}
+| "[=arokaite][PrnPers][+1PL.INCL]" : {arokaite}
+| "[=arorite][PrnPers][+1PL.INCL]" : {arorite}
 ! 
-| "[=naakaite][=PrnPers][+1PL.EXCL]" : {naakaite}
-| "[=avirokaite][=PrnPers][+2PL.EXCL]" : {avirokaite}
-| "[=iriroite][=PrnPers][+3PL.m.EXCL.]" : {iriroite}
-| "[=iririroite][=PrnPers][+3PL.m.EXCL.]" : {iririroite}
-| "[=iroite][=PrnPers][+3PL.n.m.EXCL]" : {iroite}
+| "[=naakaite][PrnPers][+1PL.EXCL]" : {naakaite}
+| "[=avirokaite][PrnPers][+2PL.EXCL]" : {avirokaite}
+| "[=iriroite][PrnPers][+3PL.m.EXCL.]" : {iriroite}
+| "[=iririroite][PrnPers][+3PL.m.EXCL.]" : {iririroite}
+| "[=iroite][PrnPers][+3PL.n.m.EXCL]" : {iroite}
 ! 
-| "[=naari+cntr.add.l.][=PrnPers][+1SG]" : {naari}
-| "[=avirori+cntr.add.l.][=PrnPers][+2SG]" : {avirori}
-| "[=irirori+cntr.add.l.][=PrnPers][+3SG.m.]" : {irirori}
-| "[=iroori+cntr.add.l.][=PrnPers][+3SG.n.m.]" : {iroori}
-| "[=arori+cntr.add.l.][=PrnPers][+1PL]" : {arori}
+| "[=naari+cntr.add.l.+foc.][PrnPers][+1SG]" : {naari} ! FOC "I" 
+| "[=avirori+cntr.add.l.+foc.][PrnPers][+2SG]" : {avirori} ! FOC 
+| "[=irirori+cntr.add.l.][PrnPers][+3SG.m.]" : {irirori}
+| "[=iroori+cntr.add.l.][PrnPers][+3SG.n.m.]" : {iroori}
+| "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
 ! 
-| "[=naakataki+cntr.exh.l.][=PrnPers][+1SG]" : {naakataki}
-| "[=avirotaki+cntr.exh.l.][=PrnPers][+2SG]" : {avirotaki}
-| "[=iritaki+cntr.exh.l.][=PrnPers][+3SG.m.]" : {iritaki}
-| "[=irotaki+cntr.exh.l.][=PrnPers][+3SG.n.m.]" : {irotaki}
-| "[=arotaki+cntr.exh.l.][=PrnPers][+1PL]" : {arotaki}
+| "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG]" : {naakataki} ! FOC 
+| "[=avirotaki+cntr.exh.l.][PrnPers][+2SG]" : {avirotaki}
+| "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.]" : {iritaki} ! FOC "that's.why" (set 1)
+| "[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.]" : {iritake} ! FOC "that's.why" (set 1)
+| "[=irotaki+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.]" : {irotaki} ! FOC "that's.why" 
+| "[=arotaki+cntr.exh.l.][PrnPers][+1PL]" : {arotaki}
 ! 
-| "[=naintsi+cntr.d.top.][=PrnPers][+1SG]" : {naintsi}
-| "[=avintsi+cntr.d.top.][=PrnPers][+2SG]" : {avintsi}
-| "[=irintsi+cntr.d.top.][=PrnPers][+3SG.m.]" : {irintsi}
-| "[=irontsi+cntr.d.top.][=PrnPers][+3SG.n.m.]" : {irontsi}
+| "[=naintsi+cntr.d.top.][PrnPers][+1SG]" : {naintsi}
+| "[=avintsi+cntr.d.top.][PrnPers][+2SG]" : {avintsi}
+| "[=irintsi+cntr.d.top.][PrnPers][+3SG.m.]" : {irintsi}
+| "[=irontsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {irontsi}
 ];
