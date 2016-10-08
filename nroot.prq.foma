@@ -61,6 +61,9 @@ define NRootPRQin [
 | "[=chovankeriki][NRoot][=red.and.black.seed]" : {chovankeriki}
 | "[=chovankiri][NRoot][=huayruro]" : {chovankiri}
 ! 
+| "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
+| "[=enchaniki][NRoot][=child]" : {enchaniki}
+! 
 | "[=eentsi][NRoot][=child]" : {eentsi}
 | "[=entsi][NRoot][=child]" : {entsi}
 ! 
@@ -222,6 +225,10 @@ define NRootPRQin [
 | "[=mantsaki][NRoot][=cushma]" : {mantsaki}
 | "[=mapi][NRoot][=stone]" : {mapi}
 | "[=mapocha][NRoot][=papaya]" : {mapocha}
+! 
+| "[=maranki][NRoot][=snake.sp.]" : {maranki}
+| "[=maranke][NRoot][=snake.sp.]" : {maranke}
+! 
 | "[=marankiaro][NRoot][=name.of.village]" : {marankiaro}
 | "[=mayempiri][NRoot][=womanizer]" : {mayempiri}
 | "[=meantarini][NRoot][=name]" : {meantarini}
