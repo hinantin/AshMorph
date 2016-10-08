@@ -71,6 +71,6 @@ define N [
  (N=S=RCG) | 
  (N=S=DIM) (N=S=DEM) | 
  (N=S=poss) (N=S=PL) (N=S=DEM) | 
- (N=S=DEMNOM) | 
+ (N=S=DEM) | 
  (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM)  
 ];

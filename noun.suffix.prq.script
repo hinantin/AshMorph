@@ -9,6 +9,7 @@ define N=S=poss [
  [ "[--][-re][Gen][+poss]" ] : {re}
 ];
       
+! DEM.NOM: Nominal demonstrative
 define N=S=DEM [
  "[--][-ka+proximal][Adv][+DEM]" : {ka} | ! this
  "[--][-ra+medial][Adv][+DEM]" : {ra} | 
@@ -146,9 +147,5 @@ define N=S=EXCL [
       
       define N=S=RCG [
        "[--][+RCG]" : [{ranki}]
-      ];
-      
-      define N=S=DEMNOM [
-       "[--][+DEM.NOM]" : [{ra}]
       ];
       
