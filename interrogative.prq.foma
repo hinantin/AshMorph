@@ -2,9 +2,13 @@ define WhPRQin [
   "[=arika][WhPrn][=when, if]" : {arika}
 | "[=aririka][WhPrn][=when]" : {aririka}
 | "[=ninka][WhPrn][=who]" : {ninka}
-| "[=ninkarika][WhPrn][=whoever]" : {ninkarika}
 | "[=paita][WhPrn][=WH]" : {paita}
 | "[=tsika][WhPrn][=where, what]" : {tsika}
 | "[=tsika.paita][WhPrn][=WH]" : {tsika.paita}
 | "[=tsikarika][WhPrn][=WH.COND]" : {tsikarika}
+! indefinite forms
+| "[=ninkarika][IndfPrn][=whoever, everybody, somebody]" : {ninkarika}
+| "[=maaroni][IndfPrn][=all, everyone]" : {maaroni}
+| "[=aparoni][IndfPrn][=somebody]" : {aparoni}
+| "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
 ];
