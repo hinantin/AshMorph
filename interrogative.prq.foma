@@ -1,13 +1,19 @@
 define WhPRQin [
+! Wh: interrogative
+! Indf: indefinite 
   "[=arika][WhPrn][=when, if]" : {arika}
 | "[=aririka][WhPrn][=when]" : {aririka}
-| "[=ninka][WhPrn][=who]" : {ninka}
-| "[=paita][WhPrn][=WH]" : {paita}
-| "[=tsika][WhPrn][=where, what]" : {tsika}
-| "[=tsika.paita][WhPrn][=WH]" : {tsika.paita}
+| "[=tsikapaita][WhPrn][=how, why, what]" : {tsikapaita}
+| "[=paita][WhPrn][=how, why, what]" : {paita}
+| "[=ninka][WhPrn][=who, whom]" : {ninka}
+! 
+| "[=tsika][WhPrn][=where, what, which]" : {tsika}
 | "[=tsikarika][WhPrn][=WH.COND]" : {tsikarika}
 ! indefinite forms
 | "[=ninkarika][IndfPrn][=whoever, everybody, somebody]" : {ninkarika}
+| "[=paitarika][IndfPrn][=whatever, something]" : {paitarika}
+| "[=tsipaita][IndfPrn][=whatever, something]" : {tsipaita}
+! 
 | "[=maaroni][IndfPrn][=all, everyone]" : {maaroni}
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
 | "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
