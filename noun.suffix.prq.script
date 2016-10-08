@@ -65,7 +65,14 @@ define N=S=ABS [
        "[--][-na][+CL:long.hollow][=long,hollow]" : {na} | 
        "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} | 
        "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} | 
-       "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin]" : {tsa}
+       "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin]" : {tsa} | 
+       ! .. 
+       "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi} | 
+                                                       ! chakopi 'arrow'
+       "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like]" : {pa} | 
+                                                       ! akapa 'avocado'
+       "[--][-menta][+CL:flat,triangular][=flat,triangular]" : {menta} 
+                                                       ! inchamenta 'hiding place in the form of a triangle, formed by the tree roots'
       ];
       
 define N=S=EXCL [
