@@ -74,7 +74,10 @@ define NRootPRQin [
 | "[=iitsi][NRoot][=foot]" : {iitsi}
 | "[NRoot][=husband][=ime]" : {ime}
 | "[NRoot][=husband][=imi]" : {imi}
-!
+! 
+| "[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impaneki}
+| "[=iNpanaki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impanaki}
+! 
 | "[=iNpooto+m.][NRoot][=worm.sp.]" : {impooto}
 | "[=iNporoto+m.][NRoot][=worm.sp.]" : {imporoto}
 | "[=îpoto+m.][NRoot][=worm.sp.]" : {îpoto}
