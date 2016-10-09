@@ -27,7 +27,8 @@ define PrnPersPRQin [
 | "[=naari+cntr.add.l.+foc.][PrnPers][+1SG]" : {naari} ! FOC "I" 
 | "[=avirori+cntr.add.l.+foc.][PrnPers][+2SG]" : {avirori} ! FOC 
 | "[=irirori+cntr.add.l.][PrnPers][+3SG.m.]" : {irirori}
-| "[=iroori+cntr.add.l.][PrnPers][+3SG.n.m.]" : {iroori}
+| "[=iroori+cntr.add.l.][PrnPers][+3SG.n.m.]" : {iroori} ! FOC
+| "[=irori+cntr.add.l.][PrnPers][+3SG.n.m.]" : {irori} ! FOC
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
 ! 
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG]" : {naakataki} ! FOC 
@@ -42,3 +43,4 @@ define PrnPersPRQin [
 | "[=irintsi+cntr.d.top.][PrnPers][+3SG.m.]" : {irintsi}
 | "[=irontsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {irontsi}
 ];
+
