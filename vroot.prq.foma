@@ -311,8 +311,7 @@ define VRootPRQin [
 ! 
 | "[=pashika][VRoot][=to.cover]" : [{pashika}|{pashka}]
 | "[=pashikaro][VRoot][=blanket]" : {pashikaro}
-| "[=pashivent][VRoot][=to.be.embarrassed]" : {pashivent}
-| "[=pashivent][VRoot][=to.embarrass]" : {pashivent}
+| "[=pashivent][VRoot][=to.embarrass, to.be.embarrassed]" : {pashivent}
 ! 
 | "[=patsa][VRoot][=to.have.a.skin.sore, to.have.a.wound; to.rot]" : {patsa}
 ! 
