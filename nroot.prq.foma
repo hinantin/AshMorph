@@ -366,7 +366,10 @@ define NRootPRQin [
 ! 
 | "[=poroki][NRoot][=bunch]" : {poroki}
 | "[=potsotzi][NRoot][=annatto]" : {potsotzi}
-| "[=pyaameni][NRoot][=bow]" : {pyaameni}
+! 
+| "[=pyaameni+n.m.][NRoot][=bow]" : {pyaameni}
+| "[=piameni+n.m.][NRoot][=bow]" : {piameni}
+! 
 | "[=pyarentsi][NRoot][=manioc.beer]" : {pyarentsi}
 | "[=rasaro][NRoot][=person's.name]" : {rasaro}
 | "[=rento][NRoot][=sister]" : {rento}
@@ -544,6 +547,10 @@ define NRootPRQin [
 | "[=varipa+m.][NRoot][=chicken]" : {varipa}
 | "[=varipa+m.][NRoot][=rooster]" : {varipa}
 | "[=vatsa][NRoot][=meat, mass, flesh, body]" : {vatsa}
+! 
+| "[=veane+inal.][NRoot][=bow, weapon.for.shooting.arrows]" : {veane}
+| "[=viane+inal.][NRoot][=bow, weapon.for.shooting.arrows]" : {viane}
+! 
 | "[=vela][NRoot][=person's.name]" : {vela}
 | "[=virakocha][NRoot][=outsider]" : {virakocha}
 ! 
