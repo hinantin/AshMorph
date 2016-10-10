@@ -38,8 +38,8 @@ define N=S=LOC [
       
 define N=S=ABS [
  "[--][+ABS]" : [{rentsi}|{rintsi}|{rontsi}] | 
- "[--][-tsi][Gen][+nposs]" : {tsi} | 
- "[--][-ntsi][Gen][+nposs]" : {ntsi} 
+ "[--][-tsi][Gen][+nposs]" : "@NPOSS"[{tsi}] | 
+ "[--][-ntsi][Gen][+nposs]" : "@NPOSS"[{ntsi}] 
 ];
       
       define N=S=CL [

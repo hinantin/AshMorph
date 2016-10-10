@@ -127,7 +127,9 @@ define NRootPRQin [
 ! 
 | "[=iteki][NRoot][=wasp.honeycomb]" : {iteki}
 ! 
-| "[=ito][NRoot][=head]" : {ito}
+| "[=ito+inal.][NRoot][=head]" : {ito}
+| "[=iito+inal.][NRoot][=head]" : {iito}
+! 
 | "[=itsa][NRoot][=cushma]" : {itsa}
 ! 
 | "[=itzi][NRoot][=foot]" : {itzi}

@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"]];
+       define Cleanup1  [["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"]];
        define Cleanup [Cleanup2];
 
       define Vowels [a|e|i|o|u|á|é|í|ó|ú];
@@ -210,13 +210,23 @@
       
 #      define VowelLoss [ VowelLossRule1 .o. VowelLossRule2 ];
       
+      ####################################
+      #                                  #
+      #          Noun                    #
+      #     Restricctions                #
+      #                                  #
+      ####################################
+      define PossPlusInalRestr1 [~$["@PRONLEN@"?*"@NPOSS"]];
+      
+      define NounFeatRestr [PossPlusInalRestr1];
+      
       source nroot.prq.foma
       source aroot.prq.foma
       source nroot.es.foma
 #      source pronoun.prq.foma
 #        define NRootPRQ [NRootPRQin|ARootPRQin|PronounPRQin|NRootESin];
         define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
-      define Noun [ (NPref) [NRootPRQ] (NSuff) ] .o. Lenition ; #.o. VowelLoss ;
+      define Noun [ (NPref) [NRootPRQ] (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
       ##########################
       #                        #
