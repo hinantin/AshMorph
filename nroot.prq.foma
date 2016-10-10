@@ -57,7 +57,8 @@ define NRootPRQin [
 | "[=charine][NRoot][=grandpa, grandfather, grandparents]" : {charine}
 | "[=charini][NRoot][=grandpa, grandfather, grandparents]" : {charini}
 ! trousers, pants
-| "[=chenko][NRoot][=trousers, pants]" : {chenko}
+| "[=chenko+inal.][NRoot][=trousers, pants]" : {chenko}
+| "[=tsenko+inal.][NRoot][=trousers, pants]" : {tsenko}
 ! 
 | "[=chera][NRoot][=lip]" : {chera}
 | "[=chevo][NRoot][=branch]" : {chevo}
@@ -514,7 +515,9 @@ define NRootPRQin [
 | "[=tsitsi][NRoot][=firewood]" : {tsitsi}
 | "[=tsitsiri][NRoot][=cricket]" : {tsitsiri}
 | "[=tsiyaki][NRoot][=anus]" : {tsiyaki}
-| "[=tsomi][NRoot][=breast]" : {tsomi}
+! 
+| "[=tsomi+inal.][NRoot][=breast]" : {tsomi}
+! 
 | "[=tsomonte][NRoot][=belly]" : {tsomonte}
 | "[=tsomonte][NRoot][=bulge]" : {tsomonte}
 | "[=tsonkiri][NRoot][=hummingbird]" : {tsonkiri}
