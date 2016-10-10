@@ -51,6 +51,7 @@ define N [
  (N=S=ABS) (N=S=EXCL) | 
  (N=S=EXCL) | 
  (N=S=CL) | 
+ (N=S=CL) (N=S=PL) | 
  (N=S=CNTR) | 
  (N=S=leaf) (N=S=smallpart) (N=S=DIM) | 
  (N=S=CL) (N=S=LOC) | 

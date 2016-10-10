@@ -540,6 +540,7 @@ define NRootPRQin [
 ! name
 | "[=vairo+inal.][NRoot][=name]" : {vairo}
 | "[=vaero+inal.][NRoot][=name]" : {vaero}
+| "[=vahiro+inal.][NRoot][=name]" : {vahiro}
 ! 
 !| "[=garden][=vani][NRoot]" : {vani}
 !| "[=land][=vani][NRoot]" : {vani}
