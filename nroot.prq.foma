@@ -124,6 +124,9 @@ define NRootPRQin [
 | "[=ironyaa][NRoot][=now]" : [{ironyaa}|{ironya}]
 !| "[=irora][NRoot][=whachamacallit]" : {irora}
 | "[=isha][NRoot][=grandma]" : {isha}
+! 
+| "[=iteki][NRoot][=wasp.honeycomb]" : {iteki}
+! 
 | "[=ito][NRoot][=head]" : {ito}
 | "[=itsa][NRoot][=cushma]" : {itsa}
 ! 
@@ -283,8 +286,8 @@ define NRootPRQin [
 | "[=okitoki][NRoot][=seed]" : {okitoki}
 ! 
 ! sun 
-| "[NRoot][=sun][=ooryaatsiri]" : {ooryaatsiri}
-| "[NRoot][=sun][=oorya]" : {oorya}
+| "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri}
+| "[=oorya][NRoot][=sun]" : {oorya}
 ! 
 | "[=oovero][NRoot][=hawk.sp., hawk, bird.sp.]" : {oovero}
 ! 
