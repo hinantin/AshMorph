@@ -398,9 +398,9 @@
        "[--][+STAT.IPFV]" : "@EP"[{atsi}]
       ];
       
-      define V=S=ADVDEM [
-       "[--][+ADV.DEM]" : "@EP"[{nta}|{ka}]
-      ];
+!      define V=S=ADVDEM [
+!       "[--][+ADV.DEM]" : "@EP"[{nta}|{ka}]
+!      ];
       
       define V=S=neck [
        "[--][+neck]" : "@EP"[{kintsi}]

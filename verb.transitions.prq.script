@@ -487,8 +487,8 @@ define S [
  (V=S=PRNO) (V=S=NMZ) | 
  (V=S=IRR) (V=S=REAL) (V=S=PRNO) | 
  (V=S=ADJ) (V=S=AUG) | 
- (V=S=STATIPFV) (V=S=REL) (V=S=ADVDEM) | 
- (V=S=neck) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADVDEM) | 
+ (V=S=STATIPFV) (V=S=REL) (V=S=ADV) | 
+ (V=S=neck) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADV) | 
  (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) | 
  (V=S=DIR) (V=S=IMPP) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) | 
  (V=S=CUST) (V=S=REAL) | 
