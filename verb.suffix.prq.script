@@ -180,7 +180,7 @@
       define V=S=NMZ [
        "[--][+NMZ]" : "@EP"[{rontsi}|{vontsi}] |
        "[--][+NMZ]" : "@EP"[{rintsi}|{rentsi}|{renti}] |
-       "[--][NS][+INF]" : "@EP"[{aantsi}|{antsi}] |
+       "[--][NMZ][+INF]" : "@EP"[{aantsi}|{antsi}] |
        "[--][+NMZ]" : "@EP"[{nka}|{ri}|{nk}|{ntsi}] |
        "[--][NMZ][+CONCR]" : "@EP"[{mento}]
       ];
@@ -189,8 +189,8 @@
        "[--][+m.][NMZ][+ADJ]" : "@EP"[{ri}|{re}] | 
        "[--][+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] | 
        "[--][+m.][NMZ][+ADJ]" : "@EP"[{ntzi}|{ntsi}|{nti}] | 
-       "[--][+n.m.][NS][+ADJ]" : "@EP"[{nto}] | 
-       "[--][+n.m.][NS][+ADJ]" : "@EP"[{ro}|{tsinkaro}] 
+       "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{nto}] | 
+       "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{ro}|{tsinkaro}] 
       ];
       
       define V=S=CAUSSOC [
