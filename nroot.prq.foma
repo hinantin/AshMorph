@@ -226,7 +226,13 @@ define NRootPRQin [
 | "[=kompita][NRoot][=riddle]" : {kompita}
 | "[=konta+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta}
 | "[=kooya][NRoot][=woman]" : {kooya}
-| "[=korarintsi][NRoot][=corral.n.m.]" : {korarintsi}
+| "[=korarintsi+n.m.][NRoot][=corral]" : {korarintsi}
+! 
+| "[=koriti+n.m.][NRoot][=sweet.potato]" : {koriti} ! ?
+| "[=kori+n.m.+inal.][NRoot][=sweet.potato]" : {kori} ! noyorite 'my sweet potato'
+| "[=koricha+n.m.][NRoot][=sweet.potato]" : {koricha}
+| "[=koritya+n.m.][NRoot][=sweet.potato]" : {koritya}
+! 
 | "[=kosaniri][NRoot][=crocodile.m.]" : {kosaniri}
 | "[=koshipirinke][NRoot][=pit.viper.sp., jergón]" : {koshipirinke}
 | "[=koshiri][NRoot][=monkey]" : {koshiri}
