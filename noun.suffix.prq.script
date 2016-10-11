@@ -74,8 +74,9 @@ define N=S=ABS [
                                                        ! akapa 'avocado'
        "[--][-menta][+CL:flat,triangular][=flat,triangular]" : {menta} | 
                                                        ! inchamenta 'hiding place in the form of a triangle, formed by the tree roots'
-       "[--][-nari][+CL:animal][=nari]" : {nari} 
+       "[--][-nari][+CL:animal][=animal]" : {nari} | 
                                                        ! covitzinari 
+       "[--][-moko][+CL:spherical,small][=spherical,small]" : {moko} 
       ];
       
 define N=S=EXCL [
