@@ -1,5 +1,6 @@
 define NRootESin [
-  "[=compañia][NRootEs][=company]" : {compañia}
+  "[=acero][NRootEs][=steel]" : {ashiro}
+| "[=compañia][NRootEs][=company]" : {compañia}
 | "[=contrato][NRootEs][=contract]" : {contrato}
 | "[=ejercicio][NRootEs][=exercise]" : {ejercicio}
 | "[=escuela][NRootEs][=school]" : {escuela}
