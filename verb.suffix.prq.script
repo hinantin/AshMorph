@@ -257,10 +257,6 @@
        "[--][+APPL.SEP]" : "@EP"[{pitsa}]
       ];
       
-      define V=S=DEM [
-       "[--][+DEM]" : "@EP"[{ra}|{ka}]
-      ];
-      
       define V=S=RCP [
        "[--][+RCP]" : "@EP"[{av}]
       ];
