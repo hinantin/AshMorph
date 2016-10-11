@@ -182,7 +182,7 @@ define NRootPRQin [
 | "[=kintsi+inal.][NRoot][=neck, nape]" : {kintsi}
 ! 
 | "[=kintsori][NRoot][=patridge.sp]" : {kintsori}
-| "[=kipatsi][NRoot][=ground, mud, earth]" : {kipatsi}
+| "[=kipatsi+n.m.][NRoot][=ground, mud, earth]" : {kipatsi}
 ! word set:
 | "[=kipishiri][NRoot][=bitter]" : {kipishiri}
 | "[=kepishiri][NRoot][=bitter]" : {kepishiri}
@@ -195,7 +195,7 @@ define NRootPRQin [
 | "[=kirimashi][NRoot][=nose]" : {kirimashi}
 | "[=kirinka][NRoot][=down.river]" : {kirinka}
 | "[=kisaakiri][NRoot][=black.person]" : {kisaakiri}
-| "[=kishi][NRoot][=hair]" : {kishi}
+| "[=kishi+inal.][NRoot][=hair]" : {kishi}
 ! 
 | "[=kishii][NRoot][=mountainous.grassland]" : {kishii}
 | "[=keshii][NRoot][=mountainous.grassland]" : {keshii}
@@ -429,10 +429,11 @@ define NRootPRQin [
 | "[=sheteni][NRoot][=afternoon]" : {sheteni}
 | "[=sheteni][NRoot][=day]" : {sheteni}
 ! 
-| "[=shi][NRoot][=leaf]" : {shi}
+!| "[=shi][NRoot][=leaf]" : {shi} ! oishi = leaf?
 | "[=shiira][NRoot][=plantain.sp.]" : {shiira}
-| "[=shima][NRoot][=fish]" : {shima}
-| "[=shima][NRoot][=fish.sp.]" : {shima}
+! 
+| "[=shima][NRoot][=fish; fish.sp., boquichico]" : {shima}
+! 
 | "[=shimaana][NRoot][=week]" : {shimaana}
 ! 
 | "[=shimiri+inal.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}

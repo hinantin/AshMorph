@@ -72,8 +72,10 @@ define N=S=ABS [
                                                        ! chakopi 'arrow'
        "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like]" : {pa} | 
                                                        ! akapa 'avocado'
-       "[--][-menta][+CL:flat,triangular][=flat,triangular]" : {menta} 
+       "[--][-menta][+CL:flat,triangular][=flat,triangular]" : {menta} | 
                                                        ! inchamenta 'hiding place in the form of a triangle, formed by the tree roots'
+       "[--][-nari][+CL:animal][=nari]" : {nari} 
+                                                       ! covitzinari 
       ];
       
 define N=S=EXCL [
