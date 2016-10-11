@@ -435,8 +435,8 @@ define NRootPRQin [
 | "[=shima][NRoot][=fish.sp.]" : {shima}
 | "[=shimaana][NRoot][=week]" : {shimaana}
 ! 
-| "[=shimirintsi][NRoot][=name.of.ethnic.group, Piro]" : {shimirintsi}
-| "[=shimirinchi][NRoot][=name.of.ethnic.group, Piro]" : {shimirinchi}
+| "[=shimiri+inal.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
+| "[=shimirinchi][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimirinchi} ! misspelled?
 ! 
 | "[=shina][NRoot][=kapok.tree]" : {shina}
 !
