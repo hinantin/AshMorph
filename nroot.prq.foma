@@ -75,7 +75,9 @@ define NRootPRQin [
 ! 
 | "[=eni][NRoot][=river]" : {eni}
 ! 
-| "[=eroti][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {eroti}
+| "[=eroti+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {eroti}
+| "[=erotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {erotzi}
+| "[=irotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {irotzi}
 ! 
 | "[=evankari+m.][NRoot][=young.man, adolescent.m.]" : {evankari}
 | "[=evankaro+n.m.][NRoot][=young.woman, adolescent.n.m.]" : {evankaro}
