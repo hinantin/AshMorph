@@ -107,7 +107,7 @@ define S [
  (V=S=IRR) (V=S=APPLPRES) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
  (V=S=APPL) (V=S=ICPL) (V=S=REAL) (V=S=PRNO) | 
  (V=S=APPLSEP) (V=S=PROG) (V=S=IRR) (V=S=PRNO) | 
- (V=S=ADJ) (V=S=DEM) | 
+ (V=S=ADJ) (V=S=ADV) | 
  (V=S=APPLINST) (V=S=REAL) (V=S=PRNO) (V=S=REL) | 
  (V=S=CUST) (V=S=IRR) | 
  (V=S=RCP) (V=S=PRF) (V=S=PROG) (V=S=REAL) | 
@@ -449,7 +449,7 @@ define S [
  (V=S=DIR) (V=S=REAL) (V=S=REL) | 
  (V=S=REP) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REP) (V=S=DIR) (V=S=PRF) (V=S=REAL) | 
- (V=S=1SGposs) (V=S=DEM) | 
+ (V=S=1SGposs) (V=S=ADV) | 
  (V=S=REP) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADV) | 
  (V=S=REP) (V=S=REAL) (V=S=ADV) | 
  (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=2O) | 
@@ -493,11 +493,11 @@ define S [
  (V=S=DIR) (V=S=IMPP) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) | 
  (V=S=CUST) (V=S=REAL) | 
  (V=S=REAL) (V=S=SUB) | 
- (V=S=2S) (V=S=DUR) (V=S=REAL) (V=S=PRNO) (V=S=NEG) (V=S=DEM) | 
- (V=S=2S) (V=S=IRR) (V=S=DEM) | 
+ (V=S=2S) (V=S=DUR) (V=S=REAL) (V=S=PRNO) (V=S=NEG) (V=S=ADV) | 
+ (V=S=2S) (V=S=IRR) (V=S=ADV) | 
  (V=S=real) (V=S=Q) | 
- (V=S=IRR) (V=S=PRNO) (V=S=RELIRR) (V=S=DEM) | 
+ (V=S=IRR) (V=S=PRNO) (V=S=RELIRR) (V=S=ADV) | 
  (V=S=IRR) (V=S=CAUSSOC) (V=S=PRF) (V=S=PRNO) | 
- (V=S=STATIPRF) (V=S=NMZ) (V=S=DEM) | 
+ (V=S=STATIPRF) (V=S=NMZ) (V=S=ADV) | 
  (V=S=1SGposs) (V=S=DIST)  
 ];
