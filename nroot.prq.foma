@@ -90,7 +90,10 @@ define NRootPRQin [
 | "[=henokê][NRoot][=top]" : {henokê}
 ! 
 | "[=hempeki][NRoot][=arm]" : {hempeki}
-| "[=heto][NRoot][=spider]" : {heto}
+! 
+| "[=heto+m.][NRoot][=spider]" : {heto}
+| "[=hito+m.][NRoot][=spider]" : {hito}
+! 
 | "[=iitsi][NRoot][=foot]" : {iitsi}
 | "[NRoot][=husband][=ime]" : {ime}
 | "[NRoot][=husband][=imi]" : {imi}
