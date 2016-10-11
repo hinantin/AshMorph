@@ -236,7 +236,11 @@ define NRootPRQin [
 | "[=kosaniri][NRoot][=crocodile.m.]" : {kosaniri}
 | "[=koshipirinke][NRoot][=pit.viper.sp., jergón]" : {koshipirinke}
 | "[=koshiri][NRoot][=monkey]" : {koshiri}
-| "[=kovitsi][NRoot][=clay.pot]" : [{kovitsi}|{koviti}|{kovitzi}]
+! 
+| "[=kovitsi][NRoot][=clay.pot]" : {kovitsi}
+| "[=koviti][NRoot][=clay.pot]" : {koviti}
+| "[=kovitzi][NRoot][=clay.pot]" : {kovitzi}
+! 
 | "[=kotsiro][NRoot][=machete]" : {kotsiro}
 | "[=machaki][NRoot][=beans]" : {machaki}
 | "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
