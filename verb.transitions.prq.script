@@ -496,7 +496,7 @@ define S [
  (V=S=2S) (V=S=DUR) (V=S=REAL) (V=S=PRNO) (V=S=NEG) (V=S=DEM) | 
  (V=S=2S) (V=S=IRR) (V=S=DEM) | 
  (V=S=real) (V=S=Q) | 
- (V=S=IRR) (V=S=PRNO) (V=S=RELIRR) (V=S=DEMNOM) | 
+ (V=S=IRR) (V=S=PRNO) (V=S=RELIRR) (V=S=DEM) | 
  (V=S=IRR) (V=S=CAUSSOC) (V=S=PRF) (V=S=PRNO) | 
  (V=S=STATIPRF) (V=S=NMZ) (V=S=DEM) | 
  (V=S=1SGposs) (V=S=DIST)  
