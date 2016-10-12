@@ -36,13 +36,13 @@ define PrnDemPRQin [
 ! 
 | "[=iro][PrnDem][=this]" : {iro}
 | "[=iroka+n.m.+proximal][PrnDem][=this]" : {iroka} ! DEM
-| "[=irora+n.m.+medial][PrnDem][=DEM]" : {irora} ! whachamacallit
-| "[=ironta+n.m.+distal][PrnDem][=DEM]" : {ironta}
+| "[=irora+n.m.+medial][PrnDem][=that]" : {irora} ! whachamacallit DEM
+| "[=ironta+n.m.+distal][PrnDem][=that.over.there]" : {ironta} ! DEM 
 | "[=ironto+n.m.+distal.unb.][PrnDem][=~]" : {ironto}
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=this]" : {iyoka} ! DEM
 ! 
-| "[=iyora+m.+medial][PrnDem][=DEM]" : {iyora}
+| "[=iyora+m.+medial][PrnDem][=that]" : {iyora} ! DEM
 | "[=yora+m.+medial][PrnDem][=DEM]" : {yora}
 ! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM]" : {oka}
@@ -53,6 +53,6 @@ define PrnDemPRQin [
 | "[=yoka+m.+proximal][PrnDem][=DEM]" : {yoka}
 ! 
 | "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
-| "[=yonta+m.+distal][PrnDem][=that]" : {yonta}
+| "[=yonta+m.+distal][PrnDem][=that, that.over.there]" : {yonta}
 ];
 
