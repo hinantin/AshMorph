@@ -7,6 +7,7 @@ define PrnPersPRQin [
 ! SET 4: +cntr.d.top. (contrastive discourse topic)
 ! 
   "[=naaka+cont.d.top.][PrnPers][+1SG][=I]" : {naaka}
+| "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro} ! to be checked
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
 ! 
 | "[=iri+cont.d.top.][PrnPers][+3SG.m.]" : {iri}
