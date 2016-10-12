@@ -24,18 +24,18 @@ define PrnPersPRQin [
 | "[=iririroite][PrnPers][+3PL.m.EXCL.]" : {iririroite}
 | "[=iroite][PrnPers][+3PL.n.m.EXCL]" : {iroite}
 ! 
-| "[=naari+cntr.add.l.+foc.][PrnPers][+1SG]" : {naari} ! FOC "I" 
+| "[=naari+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {naari} ! FOC "I" 
 | "[=avirori+cntr.add.l.+foc.][PrnPers][+2SG]" : {avirori} ! FOC 
-| "[=irirori+cntr.add.l.][PrnPers][+3SG.m.]" : {irirori}
-| "[=iroori+cntr.add.l.][PrnPers][+3SG.n.m.]" : {iroori} ! FOC
-| "[=irori+cntr.add.l.][PrnPers][+3SG.n.m.]" : {irori} ! FOC
+| "[=irirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {irirori} ! FOC "He" 
+| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {iroori} ! FOC 
+| "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {irori} ! FOC 
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
 ! 
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG]" : {naakataki} ! FOC 
 | "[=avirotaki+cntr.exh.l.][PrnPers][+2SG]" : {avirotaki}
-| "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.]" : {iritaki} ! FOC "that's.why" (set 1)
-| "[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.]" : {iritake} ! FOC "that's.why" (set 1)
-| "[=irotaki+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.]" : {irotaki} ! FOC "that's.why" 
+| "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritaki} ! FOC "that's.why" (set 1)
+| "[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritake} ! FOC "that's.why" (set 1)
+| "[=irotaki+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why]" : {irotaki} ! FOC "that's.why" 
 | "[=arotaki+cntr.exh.l.][PrnPers][+1PL]" : {arotaki}
 ! 
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG]" : {naintsi}
