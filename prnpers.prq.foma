@@ -37,6 +37,7 @@ define PrnPersPRQin [
 | "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritaki} ! FOC "that's.why" (set 1)
 | "[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritake} ! FOC "that's.why" (set 1)
 | "[=irotaki+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why]" : {irotaki} ! FOC "that's.why" 
+| "[=irotake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she]" : {irotake} ! FOC "that's.why" , "she"
 | "[=arotaki+cntr.exh.l.][PrnPers][+1PL]" : {arotaki}
 ! 
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG]" : {naintsi}
