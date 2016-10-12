@@ -35,12 +35,12 @@ define PrnDemPRQin [
 | "[=iirika+m.+proximal][PrnDem][=this]" : {iirika}
 ! 
 | "[=iro][PrnDem][=this]" : {iro}
-| "[=iroka+n.m.+proximal][PrnDem][=DEM]" : {iroka}
+| "[=iroka+n.m.+proximal][PrnDem][=this]" : {iroka} ! DEM
 | "[=irora+n.m.+medial][PrnDem][=DEM]" : {irora} ! whachamacallit
 | "[=ironta+n.m.+distal][PrnDem][=DEM]" : {ironta}
 | "[=ironto+n.m.+distal.unb.][PrnDem][=~]" : {ironto}
 ! 
-| "[=iyoka+m.+proximal][PrnDem][=DEM]" : {iyoka}
+| "[=iyoka+m.+proximal][PrnDem][=this]" : {iyoka} ! DEM
 ! 
 | "[=iyora+m.+medial][PrnDem][=DEM]" : {iyora}
 | "[=yora+m.+medial][PrnDem][=DEM]" : {yora}
