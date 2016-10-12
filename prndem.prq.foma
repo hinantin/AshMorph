@@ -3,13 +3,13 @@ define PrnDemPRQin [
   "[=aka+proximal.b.][PrnDem][=here, close.to.the.speaker]" : {aka}
 | "[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]" : {haka}
 ! 
-| "[=ara+medial.b.][PrnDem][=not.here, not.in.the.speaker's.interactional.space]" : {ara}
-| "[=hara+medial.b.][PrnDem][=not.here, not.in.the.speaker's.interactional.space]" : {hara}
+| "[=ara+medial.b.][PrnDem][=not.here, there, not.in.the.speaker's.interactional.space]" : {ara}
+| "[=hara+medial.b.][PrnDem][=not.here, there, not.in.the.speaker's.interactional.space]" : {hara}
 ! 
 | "[=anta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded)]" : {anta}
 | "[=hanta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded)]" : {hanta}
 ! 
-| "[=anto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded)]" : {anto}
+| "[=anto+distal.unb.][PrnDem][=there, over.there, far.from.the.speaker (unbounded)]" : {anto}
 | "[=hanto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded)]" : {hanto}
 ! 
 | "[=hiri+m.][PrnDem][=there]" : {hiri}
