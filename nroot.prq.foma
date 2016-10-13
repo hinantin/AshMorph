@@ -315,11 +315,12 @@ define NRootPRQin [
 ! 
 | "[=oisha][NRoot][=lamb, sheep]" : {oisha}
 ! 
-| "[NRoot][=eye][=oki]" : {oki}
+| "[=oki][NRoot][=eye]" : {oki}
 ! 
 | "[=okitsoki][NRoot][=seed]" : {okitsoki}
 | "[=okitoki][NRoot][=seed]" : {okitoki}
 ! 
+| "[=oNkiro+m.][NRoot][=big.mouse]" : {onkiro}
 ! sun 
 | "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri}
 | "[=oorya][NRoot][=sun]" : {oorya}
@@ -336,9 +337,9 @@ define NRootPRQin [
 | "[=otapinoma][NRoot][=chin, jaw]" : {otapinoma}
 | "[=otenkanaki][NRoot][=rocky.place]" : {otenkanaki}
 ! 
-| "[NRoot][=dog][=otsitzi]" : {otsitzi}
-| "[NRoot][=dog][=otsiti]" : {otsiti}
-| "[NRoot][=dog][=otsitsi]" : {otsitsi}
+| "[=otsitzi][NRoot][=dog]" : {otsitzi}
+| "[=otsiti][NRoot][=dog]" : {otsiti}
+| "[=otsitsi][NRoot][=dog]" : {otsitsi}
 ! 
 | "[=otzishi][NRoot][=hill]" : {otzishi}
 | "[=ovayeri][NRoot][=guerrilla]" : {ovayeri}
