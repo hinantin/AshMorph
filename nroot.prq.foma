@@ -145,8 +145,6 @@ define NRootPRQin [
 | "[=ito+inal.][NRoot][=head]" : {ito}
 | "[=iito+inal.][NRoot][=head]" : {iito}
 ! 
-| "[=itsa][NRoot][=cushma]" : {itsa}
-! 
 | "[=itzi][NRoot][=foot]" : {itzi}
 | "[=iiti][NRoot][=foot]" : {iiti}
 ! 
@@ -219,10 +217,10 @@ define NRootPRQin [
 | "[=kitamaari+m.][NRoot][=white]" : {kitamaari}
 | "[=kitamarori][NRoot][=white]" : {kitamarori}
 ! 
-| "[=kitsare+n.m.+inal.][NRoot][=dress]" : {kitsare} ! kitsa: to.dress
-| "[=kitsari+n.m.+inal.][NRoot][=dress]" : {kitsari} 
-| "[=kitsaare+n.m.+inal.][NRoot][=dress]" : {kitsaare} 
-| "[=kitsaari+n.m.+inal.][NRoot][=dress]" : {kitsaari} 
+| "[=kitsare+n.m.+inal.][NRoot][=dress, cushma]" : {kitsare} ! kitsa: to.dress
+| "[=kitsari+n.m.+inal.][NRoot][=dress, cushma]" : {kitsari} 
+| "[=kitsaare+n.m.+inal.][NRoot][=dress, cushma]" : {kitsaare} 
+| "[=kitsaari+n.m.+inal.][NRoot][=dress, cushma]" : {kitsaari} 
 ! 
 | "[=kitsapi+m.][NRoot][=needle]" : {kitsapi}
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
