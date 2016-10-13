@@ -219,7 +219,11 @@ define NRootPRQin [
 | "[=kitamaari+m.][NRoot][=white]" : {kitamaari}
 | "[=kitamarori][NRoot][=white]" : {kitamarori}
 ! 
-| "[=kitsa][NRoot][=dress]" : {kitsa}
+| "[=kitsare+n.m.+inal.][NRoot][=dress]" : {kitsare} ! kitsa: to.dress
+| "[=kitsari+n.m.+inal.][NRoot][=dress]" : {kitsari} 
+| "[=kitsaare+n.m.+inal.][NRoot][=dress]" : {kitsaare} 
+| "[=kitsaari+n.m.+inal.][NRoot][=dress]" : {kitsaari} 
+! 
 | "[=kitsapi+m.][NRoot][=needle]" : {kitsapi}
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
 | "[=kitsoki][NRoot][=egg]" : {kitsoki}
@@ -321,6 +325,7 @@ define NRootPRQin [
 | "[=okitoki][NRoot][=seed]" : {okitoki}
 ! 
 | "[=oNkiro+m.][NRoot][=big.mouse]" : {onkiro}
+| "[=oNkicha][NRoot][=small.mouse]" : {onkicha}
 ! sun 
 | "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri}
 | "[=oorya][NRoot][=sun]" : {oorya}
