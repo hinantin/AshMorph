@@ -90,12 +90,16 @@ define NRootPRQin [
 ! 
 | "[=hempeki][NRoot][=arm]" : {hempeki}
 ! 
+| "[=himee+inal.][NRoot][=husband]" : {himee}
+| "[=hime+inal.][NRoot][=husband]" : {hime}
+! 
+| "[=ime+voc.][NRoot][=husband]" : {ime}
+| "[=imi+voc.][NRoot][=husband]" : {imi}
+! 
 | "[=heto+m.][NRoot][=spider]" : {heto}
 | "[=hito+m.][NRoot][=spider]" : {hito}
 ! 
-| "[=iitsi][NRoot][=foot]" : {iitsi}
-| "[NRoot][=husband][=ime]" : {ime}
-| "[NRoot][=husband][=imi]" : {imi}
+| "[=foot][=iitsi][NRoot]" : {iitsi}
 ! 
 | "[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impaneki}
 | "[=iNpanaki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impanaki}
