@@ -46,6 +46,11 @@ define VRootPRQin [
 | "[=amponat][VRoot][=to.wrap]" : {amponat}
 | "[=ant][VRoot][=to.beat, to.build, to.do, to.hit, to.make]" : {ant}
 | "[=antai][VRoot][=to.go.up]" : {antai}
+! 
+| "[=antaki][VRoot][=to.ripen]" : {antaki}
+| "[=antaiki][VRoot][=to.ripen]" : {antaiki}
+| "[=antava][VRoot][=to.ripen]" : {antava}
+! 
 | "[=antant][VRoot][=to.fight]" : {antant}
 | "[=any][VRoot][=to.live]" : {any}
 | "[=apaata][VRoot][=to.wait]" : {apaata}
