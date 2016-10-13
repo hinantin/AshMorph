@@ -372,10 +372,12 @@ define NRootPRQin [
 | "[=patsitaroki][NRoot][=tree.bark]" : {patsitaroki}
 | "[=paukartambo][NRoot][=river's.name]" : {paukartambo}
 ! 
-| "[=pava][NRoot][=solar.deity]" : {pava}
-| "[NRoot][=god][=pava]" : {pava}
+| "[=pava][NRoot][=solar.deity, god]" : {pava}
 ! 
 | "[=perú][NRoot][=NP]" : {perú}
+! 
+| "[=peyari+m.][NRoot][=ghost]" : {peyari}
+! 
 | "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
 ! 
 | "[=pinkatsari+voc.][NRoot][=chief]" : {pinkatsari}
@@ -456,6 +458,7 @@ define NRootPRQin [
 | "[=shina][NRoot][=kapok.tree]" : {shina}
 !
 | "[=shire+n.m.+inal.][NRoot][=spirit, soul]" : {shire}
+| "[=shiree+n.m.+inal.][NRoot][=spirit, soul]" : {shiree}
 ! 
 | "[=shiri][NRoot][=tobacco.leaf; tobacco]" : {shiri}
 | "[=sheri][NRoot][=tobacco.leaf; tobacco]" : {sheri}
