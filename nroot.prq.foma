@@ -276,6 +276,9 @@ define NRootPRQin [
 ! 
 | "[=metaro][NRoot][=village's.name]" : {metaro}
 | "[=minkori][NRoot][=cloud]" : {minkori}
+! 
+| "[=minka+inal.][NRoot][=trunk]" : {minka}
+! 
 | "[=moito][NRoot][=navel]" : {moito}
 | "[=moo][NRoot][=hole]" : {moo}
 | "[=morona][NRoot][=hole]" : {morona}
@@ -390,7 +393,9 @@ define NRootPRQin [
 | "[=pitsitsari][NRoot][=clay]" : {pitsitsari}
 | "[=pochoki][NRoot][=dream]" : {pochoki}
 | "[=ponkaro][NRoot][=bejuco]" : {ponkaro}
-| "[=ponkitzi][NRoot][=ground]" : {ponkitzi}
+! 
+| "[=ponkitzi+inal.][NRoot][=ground; trunk]" : {ponkitzi}
+! 
 | "[=pori][NRoot][=leg]" : {pori}
 | "[=pori][NRoot][=thigh]" : {pori}
 ! 
