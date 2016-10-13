@@ -108,8 +108,9 @@ define NRootPRQin [
 | "[=iNporoto+m.][NRoot][=worm.sp.]" : {imporoto}
 | "[=îpoto+m.][NRoot][=worm.sp.]" : {îpoto}
 ! 
-| "[=ina][NRoot][=mother, wife]" : {ina}
-| "[=hina+inal.][NRoot][=mother, wife]" : {hina}
+| "[=ina+n.m.+voc.][NRoot][=mother; wife]" : {ina} ! non-possesive form?
+| "[=iina+n.m.+inal.][NRoot][=mother; wife]" : {iina}
+| "[=hina+n.m.+inal.][NRoot][=mother; wife]" : {hina}
 ! 
 | "[=incha][NRoot][=plant]" : {incha}
 | "[=inchapataki][NRoot][=spatula]" : {inchapataki}
