@@ -138,7 +138,10 @@ define NRootPRQin [
 | "[=iritsiro][NRoot][=his.sister]" : {iritsiro}
 | "[=ironyaa][NRoot][=now]" : [{ironyaa}|{ironya}]
 !| "[=irora][NRoot][=whachamacallit]" : {irora}
-| "[=isha][NRoot][=grandma]" : {isha}
+! 
+| "[=isha+m.+voc.][NRoot][=grandma]" : {isha}
+| "[=ishaa+m.+voc.][NRoot][=grandma]" : {ishaa}
+| "[=sari][NRoot][=grandma]" : {sari}
 ! 
 | "[=iteki][NRoot][=wasp.honeycomb]" : {iteki}
 ! 
@@ -438,7 +441,6 @@ define NRootPRQin [
 !
 | "[=sampi][NRoot][=torch]" : {sampi}
 | "[=santari][NRoot][=cedar.tree]" : {santari}
-| "[=sari][NRoot][=grandma]" : {sari}
 | "[=satzi][NRoot][=provenance]" : {satzi}
 | "[=shamitzi][NRoot][=namesake]" : {shamitzi}
 ! 
