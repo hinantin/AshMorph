@@ -46,6 +46,7 @@ define S [
  (V=S=PRF) (V=S=REAL) | 
  (V=S=2A) (V=S=APPL) (V=S=REAL) (V=S=PRNO) | 
  (V=S=ABS) | 
+ (V=S=noun) (V=S=NMZ) | 
  (V=S=noun) (V=S=noun) (V=S=DIR) (V=S=REGR) (V=S=REAL) | 
  (V=S=FRUS) (V=S=IRR) (V=S=OPT) | 
  (V=S=DIST) (V=S=REAL) | 

@@ -155,7 +155,8 @@
       ];
       
       define V=S=noun [
-       "[--][+noun]" : "@EP"[{vatsa}|{pori}|{ani}|{atziri}]
+       "[--][+noun][=child]" : "@EP"[{ani}] | 
+       "[--][+noun]" : "@EP"[{vatsa}|{pori}|{atziri}]
       ];
       
       define V=S=COND [
