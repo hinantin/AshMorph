@@ -72,8 +72,9 @@ define NRootPRQin [
 | "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
 | "[=enchaniki][NRoot][=child]" : {enchaniki}
 ! 
-| "[=eentsi][NRoot][=child]" : {eentsi}
-| "[=entsi][NRoot][=child]" : {entsi}
+| "[=eentsi+n./m.][NRoot][=child]" : {eentsi}
+| "[=iintsi+n./m.][NRoot][=child]" : {iintsi}
+| "[=entsi+n./m.][NRoot][=child]" : {entsi}
 ! 
 | "[=eni][NRoot][=river]" : {eni}
 ! 
