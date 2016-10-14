@@ -221,10 +221,8 @@ define NRootPRQin [
 | "[=kitamaari+m.][NRoot][=white]" : {kitamaari}
 | "[=kitamarori][NRoot][=white]" : {kitamarori}
 ! 
-| "[=kitsare+n.m.+inal.][NRoot][=dress, cushma, cloth]" : {kitsare} ! kitsa-ri to.dress-nmz
-| "[=kitsari+n.m.+inal.][NRoot][=dress, cushma, cloth]" : {kitsari} 
-| "[=kitsaare+n.m.+inal.][NRoot][=dress, cushma, cloth]" : {kitsaare} 
-| "[=kitsaari+n.m.+inal.][NRoot][=dress, cushma, cloth]" : {kitsaari} 
+| "[=kitsa+n.m.+inal.][NRoot][=dress, cushma, cloth]" : {kitsa} ! kitsa-ri to.dress-nmz
+| "[=kitsaa+n.m.+inal.][NRoot][=dress, cushma, cloth]" : {kitsaa} 
 ! 
 | "[=kitsapi+m.][NRoot][=needle]" : {kitsapi}
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
