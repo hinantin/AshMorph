@@ -364,7 +364,10 @@ define NRootPRQin [
 ! 
 | "[=oya][NRoot][=pot]" : {oya}
 | "[=oyari][NRoot][=her.food]" : {oyari}
-| "[=paamari][NRoot][=fire]" : {paamari}
+! 
+| "[=paamari+n.m.][NRoot][=fire]" : {paamari}
+| "[=paampari+n.m.][NRoot][=fire]" : {paampari}
+! 
 | "[=paampatzi][NRoot][=bird.species]" : {paampatzi}
 | "[=pachaka][NRoot][=pumpkin]" : {pachaka}
 ! 
