@@ -21,8 +21,8 @@
       
       define V=S=DIR [
        "[--][-av+object.oriented][+Amb][+DIR]" : "@EP"[{av}] |
-       "[--][-an+source][+Amb][+DIR]" : "@EP"[{an}] |
-       "[--][-ap+goal][+Amb][+DIR]" : "@EP"[{ap}]
+       "[--][-an+source+leaving][+Amb][+DIR]" : "@EP"[{an}] |
+       "[--][-ap+goal+arriving][+Amb][+DIR]" : "@EP"[{ap}]
       ];
       
       define V=S=PRF [
