@@ -20,9 +20,9 @@
       ];
       
       define V=S=DIR [
-       "[--][-av+object.oriented][+Amb][+DIR]" : "@EP"[{av}] |
-       "[--][-an+source+leaving][+Amb][+DIR]" : "@EP"[{an}] |
-       "[--][-ap+goal+arriving][+Amb][+DIR]" : "@EP"[{ap}]
+       "[--][-av+object.oriented][Adv][+DIR]" : "@EP"[{av}] |
+       "[--][-an+source+leaving][Adv][+DIR]" : "@EP"[{an}] |
+       "[--][-ap+goal+arriving][Adv][+DIR]" : "@EP"[{ap}]
       ];
       
       define V=S=PRF [
