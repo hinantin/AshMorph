@@ -42,7 +42,9 @@ define N=S=ABS [
  "[--][-rontsi][Gen][+nposs]" : "@NPOSS"[{rontsi}] | 
  "[--][-tsi][Gen][+nposs]" : "@NPOSS"[{tsi}] | 
  "[--][-tzi][Gen][+nposs]" : "@NPOSS"[{tzi}] | 
- "[--][-ntsi][Gen][+nposs]" : "@NPOSS"[{ntsi}] 
+ "[--][-ntsi][Gen][+nposs]" : "@NPOSS"[{ntsi}] | 
+ "[--][-ntzi][Gen][+nposs]" : "@NPOSS"[{ntzi}] | 
+ "[--][-nti][Gen][+nposs]" : "@NPOSS"[{nti}] 
 ];
       
       define N=S=CL [
