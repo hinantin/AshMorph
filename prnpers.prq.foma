@@ -9,12 +9,16 @@ define PrnPersPRQin [
   "[=naaka+cont.d.top.][PrnPers][+1SG][=I]" : {naaka}
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro} ! to be checked
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
-! 
+!
 | "[=iri+cont.d.top.][PrnPers][+3SG.m.]" : {iri}
 | "[=iriro+cont.d.top.][PrnPers][+3SG.m.]" : {iriro}
 | "[=irio+cont.d.top.][PrnPers][+3SG.m.]" : {irio}
 ! 
 | "[=iroo+cont.d.top.][PrnPers][+3SG.n.m.]" : {iroo}
+! 
+| "[=aaka][PrnPers][+1PL][=we]" : {aaka} 
+| "[=aro][PrnPers][+1PL][=we]" : {aro} 
+! 
 | "[=aroka+cont.d.top.][PrnPers][+1PL.INCL]" : {aroka}
 | "[=arokaite][PrnPers][+1PL.INCL]" : {arokaite}
 | "[=arorite][PrnPers][+1PL.INCL]" : {arorite}
