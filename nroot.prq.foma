@@ -516,7 +516,9 @@ define NRootPRQin [
 ! 
 | "[=shimpityoki][NRoot][=eyelash]" : {shimpityoki}
 | "[=shimpoki][NRoot][=horsefly]" : {shimpoki}
-| "[=shinto][NRoot][=daughter]" : {shinto}
+! 
+| "[=shinto+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {shinto}
+! 
 | "[=shintsipaa][NRoot][=raft]" : {shintsipaa}
 | "[=shirampari][NRoot][=man]" : {shirampari}
 | "[=shiringa][NRoot][=rubber.tree]" : {shiringa}
