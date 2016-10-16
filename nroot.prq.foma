@@ -16,7 +16,9 @@ define NRootPRQin [
 ! anaconda
 | "[=amaaro][NRoot][=anaconda, snake]" : {amaaro}
 !
-| "[=amempori][NRoot][=vulture]" : {amempori}
+| "[=amempori+m.][NRoot][=vulture, condor]" : {amempori}
+| "[=amimpori+m.][NRoot][=vulture, condor]" : {amimpori}
+! 
 | "[=ana][NRoot][=genipap, huito, jagua]" : {ana}
 | "[=ani][NRoot][=grandpa]" : {ani}
 | "[=ani][NRoot][=brother.in.law]" : {ani}
