@@ -143,8 +143,8 @@ define NRootPRQin [
 | "[=ironyaa][NRoot][=now]" : [{ironyaa}|{ironya}]
 !| "[=irora][NRoot][=whachamacallit]" : {irora}
 ! 
-| "[=isha+m.+voc.][NRoot][=grandma, grandmother (of.a.fe/male)]" : {isha}
-| "[=ishaa+m.+voc.][NRoot][=grandma, grandmother (of.a.fe/male)]" : {ishaa}
+| "[=isha+m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {isha}
+| "[=ishaa+m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {ishaa}
 ! 
 | "[=iishi+n.m.+inal.][NRoot][=hair]" : {iishi}
 | "[=ishi+n.m.+inal.][NRoot][=hair]" : {ishi}
@@ -238,7 +238,7 @@ define NRootPRQin [
 | "[=koka][NRoot][=coca]" : {koka}
 | "[=koki][NRoot][=father]" : {koki}
 | "[=konaki][NRoot][=elbow]" : {konaki}
-| "[=konki][NRoot][=father.in.law (of.a.man)]" : {konki}
+| "[=konki][NRoot][=father.in.law (kin.of.a.male)]" : {konki}
 | "[=konoya][NRoot][=tortoise, turtle, motelo, turtle, land.turtle.sp.]" : {konoya}
 | "[=kompatsiri][NRoot][=second.father]" : {kompatsiri}
 | "[=kompiro][NRoot][=palm.tree.sp.]" : {kompiro}
@@ -424,7 +424,7 @@ define NRootPRQin [
 | "[=piratsi][NRoot][=animal]" : {piratsi}
 | "[=pito][NRoot][=name]" : {pito}
 | "[=pito][NRoot][=canoe]" : {pito}
-| "[=pitsiro][NRoot][=sister.of.a.male]" : {pitsiro}
+| "[=pitsiro][NRoot][=sister (kin.of.a.male)]" : {pitsiro}
 | "[=pitsitsari][NRoot][=clay]" : {pitsitsari}
 | "[=pochoki][NRoot][=dream]" : {pochoki}
 | "[=ponkaro][NRoot][=bejuco]" : {ponkaro}
