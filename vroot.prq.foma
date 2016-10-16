@@ -497,8 +497,10 @@ define VRootPRQin [
 | "[=tsatsink][VRoot][=to.behead]" : {tsatsink}
 ! to lie
 | "[=tsay][VRoot][=to.lie]" : {tsay}
+| "[=tsaiy][VRoot][=to.lie]" : {tsaiy}
 | "[=tsey][VRoot][=to.lie]" : {tsey}
 | "[=tseey][VRoot][=to.lie]" : {tseey}
+| "[=tsiiy][VRoot][=to.lie]" : {tsiiy}
 !
 | "[=tsikana][VRoot][=pepper]" : {tsikana}
 | "[=tsint][VRoot][=to.urinate]" : {tsint}
