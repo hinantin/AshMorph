@@ -68,7 +68,9 @@ define NRootPRQin [
 ! 
 | "[=chevo][NRoot][=branch]" : {chevo}
 | "[=chochoki][NRoot][=sweet.fruit]" : {chochoki}
-| "[=chooki][NRoot][=sister]" : {chooki}
+! 
+| "[=chooki+n.m.+voc.][NRoot][=sister (kin.of.a.male)]" : {chooki}
+! 
 | "[=chovankeriki][NRoot][=red.and.black.seed]" : {chovankeriki}
 | "[=chovankiri][NRoot][=huayruro]" : {chovankiri}
 ! 
