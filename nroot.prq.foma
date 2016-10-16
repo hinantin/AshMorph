@@ -566,7 +566,8 @@ define NRootPRQin [
 ! 
 | "[=tete][NRoot][=buttock]" : {tete}
 | "[=tihatsi][NRoot][=weaver]" : {tihatsi}
-| "[=tomi][NRoot][=son]" : {tomi}
+! 
+| "[=tomi+m.+inal.][NRoot][=son]" : {tomi}
 ! 
 | "[=nini+inal.][NRoot][=tongue]" : {nini}
 | "[=nene+inal.][NRoot][=tongue]" : {nene}
