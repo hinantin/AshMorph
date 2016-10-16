@@ -53,7 +53,7 @@ define N=S=ABS [
        ! Size related classifier ?
        "[--][-patsa][=small part]" : {patsa} | 
        ! ?
-       "[--][=konta+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} | 
+       "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} | 
        ! Plant-based parts in compounds
        "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat]" : {shi} | 
        "[--][-panki][+CL:plank][=plank;to.grow]" : [{panki}|{panke}] | 
