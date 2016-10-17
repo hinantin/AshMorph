@@ -61,6 +61,7 @@ define NRootPRQin [
 | "[=chapinki][NRoot][=the.other.day]" : {chapinki}
 ! grandpa, grandfather, grandparents
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine}
+| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine}
 | "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini}
 ! trousers, pants
 | "[=chenko+inal.][NRoot][=trousers, pants]" : {chenko}
@@ -153,7 +154,7 @@ define NRootPRQin [
 | "[=iishi+n.m.+inal.][NRoot][=hair]" : {iishi}
 | "[=ishi+n.m.+inal.][NRoot][=hair]" : {ishi}
 ! 
-| "[=sari][NRoot][=grandma]" : {sari}
+| "[=sari+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {sari}
 ! 
 | "[=iteki][NRoot][=wasp.honeycomb]" : {iteki}
 ! 
