@@ -168,6 +168,12 @@ define NRootPRQin [
 | "[=iiti][NRoot][=foot]" : {iiti}
 ! 
 | "[=ivayetziri][NRoot][=warriors]" : {ivayetziri}
+! 
+| "[=iye+m.][NRoot][=brother (kin.of.a.male)]" : {iye}
+| "[=iyenti+m.][NRoot][=brother (kin.of.a.male)]" : {iyenti}
+| "[=iyeki+m.][NRoot][=brother (kin.of.a.male)]" : {iyeki}
+| "[=nirentzi+m.][NRoot][=brother (kin.of.a.male)]" : {nirentzi}
+! 
 | "[=kaaro][NRoot][=car]" : {kaaro}
 | "[=kahai][NRoot][=coffee]" : {kahai}
 | "[=kahankari][NRoot][=perfume]" : {kahankari}
