@@ -112,11 +112,11 @@ define NRootPRQin [
 ! 
 | "[=hempeki][NRoot][=arm]" : {hempeki}
 ! 
-| "[=himee+inal.][NRoot][=husband]" : {himee}
-| "[=hime+inal.][NRoot][=husband]" : {hime}
+| "[=himee+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {himee}
+| "[=hime+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {hime}
 ! 
-| "[=ime+voc.][NRoot][=husband]" : {ime}
-| "[=imi+voc.][NRoot][=husband]" : {imi}
+| "[=ime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {ime}
+| "[=imi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {imi}
 ! 
 | "[=heto+m.][NRoot][=spider]" : {heto}
 | "[=hito+m.][NRoot][=spider]" : {hito}
@@ -131,8 +131,8 @@ define NRootPRQin [
 | "[=îpoto+m.][NRoot][=worm.sp.]" : {îpoto}
 ! 
 | "[=ina+n.m.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ina} ! non-possesive form?
-| "[=iina+n.m.+inal.][NRoot][=mother; wife]" : {iina}
-| "[=hina+n.m.+inal.][NRoot][=mother; wife]" : {hina}
+| "[=iina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {iina}
+| "[=hina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {hina}
 ! 
 | "[=incha][NRoot][=plant]" : {incha}
 | "[=inchapataki][NRoot][=spatula]" : {inchapataki}
