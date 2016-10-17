@@ -54,11 +54,11 @@ define N=S=ABS [
        "[--][-patsa][=small part]" : {patsa} | 
        ! ?
        "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} | 
-       ! Plant-based parts in compounds
+       ! Plant-based parts in compounds 
        "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat]" : {shi} | 
        "[--][-panki][+CL:plank][=plank;to.grow]" : [{panki}|{panke}] | 
        "[--][-tyaki][+CL:flower][=flower]" : [{tyaki}|{teyaki}|{teaki}|{tyaaki}] | 
-       "[--][-tiya][+CL:flower][=flower]" : [{teya}|{tiya}] |
+       "[--][-tiya][+CL:flower][=flower]" : [{teya}|{tiya}] | 
        "[--][-tonki][+CL:long.tree.segment][=long tree segment]" : [{tonki}|{tyonki}] | 
        "[--][-kota][+CL:piece][=piece]" : {kota} | 
        ! .. 
