@@ -10,6 +10,7 @@ define N=P=1 [
 | "[i-][NPers][3m.poss+][--]" : {i}"@PRONLEN@"
 | "[y-][NPers][3m.poss+][--]" : {y}"@PRONLEN@"
 | "[ir-][NPers][3m.poss+][--]" : {ir}"@PRONLEN@"
+| "[iri-][NPers][3m.poss+][--]" : {iri}"@PRONLEN@" # iriniro -> his mother
 | "[r-][NPers][3m.poss+][--]" : {r}"@PRONLEN@" # rotsitsite -> his dog
 | "[ro-][NPers][3m.poss+][--]" : {ro}"@PRONLEN@" # robaneki -> en su chacra (de él)
 | "[o-][NPers][3n.m.poss+][--]" : {o}"@PRONLEN@"

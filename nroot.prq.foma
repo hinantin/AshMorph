@@ -301,8 +301,8 @@ define NRootPRQin [
 | "[=mapi][NRoot][=stone]" : {mapi}
 | "[=mapocha][NRoot][=papaya]" : {mapocha}
 ! 
-| "[=maranki][NRoot][=snake.sp.]" : {maranki}
-| "[=maranke][NRoot][=snake.sp.]" : {maranke}
+| "[=maranki+m.][NRoot][=snake.sp.]" : {maranki}
+| "[=maranke+m.][NRoot][=snake.sp.]" : {maranke}
 ! 
 | "[=marankiaro][NRoot][=name.of.village]" : {marankiaro}
 ! 
