@@ -1,5 +1,7 @@
 define NRootPRQin [
-  "[=aani][NRoot][=grandseer]" : {aani}
+  "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani}
+| "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane}
+! 
 | "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi}
 | "[=aavintarontsi][NRoot][=medicine]" : {aavintarontsi}
 | "[=aiki][NRoot][=tooth]" : {aiki}
