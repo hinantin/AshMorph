@@ -39,7 +39,7 @@ define NRootPRQin [
 ! 
 | "[=antoko][NRoot][=person's.name]" : {antoko}
 ! 
-| "[=apa][NRoot][=father (kin.of.a.fe/male)]" : {apa}
+| "[=apa+m.][NRoot][=father (kin.of.a.fe/male)]" : {apa}
 ! 
 | "[=aparo][NRoot][=one]" : {aparo}
 | "[=aparoni][NRoot][=somebody]" : {aparoni}
@@ -120,7 +120,7 @@ define NRootPRQin [
 | "[=iNporoto+m.][NRoot][=worm.sp.]" : {imporoto}
 | "[=îpoto+m.][NRoot][=worm.sp.]" : {îpoto}
 ! 
-| "[=ina+n.m.+voc.][NRoot][=mother; wife]" : {ina} ! non-possesive form?
+| "[=ina+n.m.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ina} ! non-possesive form?
 | "[=iina+n.m.+inal.][NRoot][=mother; wife]" : {iina}
 | "[=hina+n.m.+inal.][NRoot][=mother; wife]" : {hina}
 ! 
@@ -143,7 +143,7 @@ define NRootPRQin [
 | "[=iraa][NRoot][=blood]" : {iraa}
 | "[=ira][NRoot][=blood]" : {ira}
 ! 
-| "[=iri][NRoot][=father]" : {iri}
+| "[=iri+m.][NRoot][=father (kin.of.a.fe/male)]" : {iri}
 | "[=irichi][NRoot][=milk]" : {irichi}
 | "[=irimashi][NRoot][=Lima]" : {irimashi}
 | "[=irina][NRoot][=Irina]" : {irina}
@@ -327,7 +327,7 @@ define NRootPRQin [
 | "[=niha][NRoot][=water, river]" : {niha}
 ! 
 | "[=nii][NRoot][=breast]" : {nii}
-| "[=niro][NRoot][=mother]" : {niro}
+| "[=niro+n.m.][NRoot][=mother (kin.of.a.fe/male)]" : {niro}
 ! 
 | "[=nyaa+inal.][NRoot][=word, language]" : {nyaa}
 | "[=nya+inal.][NRoot][=word, language]" : {nya}
