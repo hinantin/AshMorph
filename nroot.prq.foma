@@ -13,6 +13,9 @@ define NRootPRQin [
 | "[=aiki][NRoot][=tooth]" : {aiki}
 ! 
 | "[=airi][NRoot][=black.bee.sp.]" : {airi} 
+! 
+| "[=atyo][NRoot][=sister.in.law (kin.of.a.female)]" : {atyo} 
+! 
 | "[=eeri][NRoot][=black.bee.sp.]" : {eeri} 
 | "[=aeri][NRoot][=black.bee.sp.]" : {aeri} 
 ! 
@@ -29,7 +32,9 @@ define NRootPRQin [
 | "[=amimpori+m.][NRoot][=vulture, condor]" : {amimpori}
 ! 
 | "[=ana][NRoot][=genipap, huito, jagua]" : {ana}
-| "[=ani][NRoot][=brother.in.law]" : {ani}
+! 
+| "[=ani+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {ani}
+| "[=anii+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
 ! cotton
 | "[=ampee][NRoot][=cotton]" : {ampee}
 | "[=ampe][NRoot][=cotton]" : {ampe}
