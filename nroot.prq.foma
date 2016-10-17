@@ -1,5 +1,6 @@
 define NRootPRQin [
-  "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani}
+  "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani}
+| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani}
 | "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane}
 ! 
 | "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi}
@@ -23,7 +24,6 @@ define NRootPRQin [
 | "[=amimpori+m.][NRoot][=vulture, condor]" : {amimpori}
 ! 
 | "[=ana][NRoot][=genipap, huito, jagua]" : {ana}
-| "[=ani][NRoot][=grandpa]" : {ani}
 | "[=ani][NRoot][=brother.in.law]" : {ani}
 ! cotton
 | "[=ampee][NRoot][=cotton]" : {ampee}
@@ -683,8 +683,8 @@ define NRootPRQin [
 | "[=viti+n.m.+inal.][NRoot][=outsider]" : {viti}
 | "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
 ! 
-| "[=yari][NRoot][=brother]" : {yari}
-| "[=yaari][NRoot][=brother]" : {yaari}
+| "[=yari+m.][NRoot][=brother (kin.of.a.female)]" : {yari}
+| "[=yaari+m.][NRoot][=brother (kin.of.a.female)]" : {yaari}
 ! 
 | "[=yenka][NRoot][=fat]" : {yenka}
 | "[=yempita][NRoot][=ear]" : {yempita}
