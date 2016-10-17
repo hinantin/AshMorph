@@ -176,8 +176,9 @@ define NRootPRQin [
 | "[=ito+n.m.+inal.][NRoot][=head]" : {ito}
 | "[=iito+n.m.+inal.][NRoot][=head]" : {iito}
 ! 
-| "[=itzi][NRoot][=foot]" : {itzi}
-| "[=iiti][NRoot][=foot]" : {iiti}
+| "[=itzi+n.m.+inal.][NRoot][=foot]" : {itzi}
+| "[=iitzi+n.m.+inal.][NRoot][=foot]" : {iitzi}
+| "[=iiti+n.m.+inal.][NRoot][=foot]" : {iiti}
 ! 
 | "[=ivayetziri][NRoot][=warriors]" : {ivayetziri}
 ! 
