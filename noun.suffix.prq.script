@@ -130,7 +130,7 @@ define N=S=EXCL [
       ];
       
       define N=S=DISTREL [
-       "[--][+DIST.REL]" : [{tsori}]
+       "[--][-tsori+surrogate.kin][+DIST.REL]" : [{tsori}]
       ];
       
       define N=S=DUB [
