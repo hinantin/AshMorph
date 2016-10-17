@@ -33,6 +33,7 @@ define N [
  (N=S=LOC) (N=S=DEM) | 
  (N=S=DEM) | 
  (N=S=CL) (N=S=DEM) | 
+ (N=S=CL) (N=S=ABS) | 
  (N=S=EMPH) | 
  (N=S=EMPH) (N=S=EMPH) | 
  (N=S=DIM) (N=S=smallpart) (N=S=DIM) | 

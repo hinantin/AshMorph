@@ -35,7 +35,9 @@ define NRootPRQin [
 | "[=ãtame][NRoot][=woods, forest]" : {ãtame}
 ! 
 | "[=antoko][NRoot][=person's.name]" : {antoko}
-| "[=apa][NRoot][=father]" : {apa}
+! 
+| "[=apa][NRoot][=father (kin.of.a.fe/male)]" : {apa}
+! 
 | "[=aparo][NRoot][=one]" : {aparo}
 | "[=aparoni][NRoot][=somebody]" : {aparoni}
 | "[=apiinka][NRoot][=person's.name]" : {apiinka}
@@ -58,8 +60,8 @@ define NRootPRQin [
 | "[=chikopi][NRoot][=arrow]" : {chikopi}
 | "[=chapinki][NRoot][=the.other.day]" : {chapinki}
 ! grandpa, grandfather, grandparents
-| "[=charine][NRoot][=grandpa, grandfather, grandparents]" : {charine}
-| "[=charini][NRoot][=grandpa, grandfather, grandparents]" : {charini}
+| "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine}
+| "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini}
 ! trousers, pants
 | "[=chenko+inal.][NRoot][=trousers, pants]" : {chenko}
 | "[=tsenko+inal.][NRoot][=trousers, pants]" : {tsenko}
@@ -236,7 +238,7 @@ define NRootPRQin [
 | "[=kitsapi+m.][NRoot][=needle]" : {kitsapi}
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
 | "[=kitsoki][NRoot][=egg]" : {kitsoki}
-| "[=kitzi][NRoot][=leg]" : {kitzi}
+| "[=kitzi+n.m.+inal.][NRoot][=leg]" : {kitzi}
 | "[=koka][NRoot][=coca]" : {koka}
 | "[=koki][NRoot][=father]" : {koki}
 | "[=konaki][NRoot][=elbow]" : {konaki}
