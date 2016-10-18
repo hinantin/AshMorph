@@ -144,7 +144,11 @@ define NRootPRQin [
 ! 
 | "[=inkaari][NRoot][=lake]" : {inkaari}
 | "[=inkite][NRoot][=sky]" : {inkite}
-| "[=inki][NRoot][=peanut]" : {inki}
+! 
+| "[=inki+n.m.][NRoot][=peanut]" : {inki}
+! 
+| "[=inkiri+m.][NRoot][=fish.sp.]" : {inkiri}
+! 
 | "[=impereta][NRoot][=rock]" : {impereta}
 | "[=intakantarori][NRoot][=ancestor]" : {intakantarori}
 | "[=intakiro][NRoot][=outside]" : {intakiro}
