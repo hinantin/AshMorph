@@ -415,7 +415,9 @@ define NRootPRQin [
 ! 
 | "[=panko+n.m.+inal.][NRoot][=house]" : {panko}
 ! 
-| "[=pante][NRoot][=mouth]" : [{pante}|{paante}]
+| "[=pante+n.m.+inal.][NRoot][=mouth]" : {pante}
+| "[=pante+n.m.+inal.][NRoot][=mouth]" : {paante}
+| "[=panti+n.m.+inal.][NRoot][=mouth]" : {panti}
 ! otter
 | "[=parari][NRoot][=otter]" : {parari}
 !
