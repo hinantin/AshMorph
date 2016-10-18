@@ -1,12 +1,12 @@
 ! alienable possession?
 define N=S=poss [
- [ "[--][-te][Gen][+poss]" ] : {te} |
+ "[--][-te][Gen][+poss]" : {te} |
  ! 
- [ "[--][-ni][Gen][+poss]" ] : {ni} |
- [ "[--][-ne][Gen][+poss]" ] : {ne} |
+ "[--][-ni][Gen][+poss]" : {ni} |
+ "[--][-ne][Gen][+poss]" : {ne} |
  ! 
- [ "[--][-ri][Gen][+poss]" ] : {ri} |
- [ "[--][-re][Gen][+poss]" ] : {re}
+ "[--][-ri][Gen][+poss]" : {ri} |
+ "[--][-re][Gen][+poss]" : {re}
 ];
       
 ! DEM.NOM: Nominal demonstrative
