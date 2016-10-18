@@ -108,7 +108,7 @@ define N=S=EXCL [
       ];
       
       define N=S=deceased [
-       "[--][+deceased]" : [{ni}]
+       "[--][-ni][+ceased.existence]" : [{ni}]
       ];
       
       define N=S=leaf [
