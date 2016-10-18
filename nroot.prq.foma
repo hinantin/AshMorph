@@ -203,11 +203,11 @@ define NRootPRQin [
 | "[=kaminka][NRoot][=dead]" : {kaminka}
 | "[=kanai][NRoot][=tree.sp]" : {kanai}
 ! 
-| "[=kaniri][NRoot][=manioc, yucca]" : {kaniri}
-| "[=kaniri+nposs][NRoot][=manioc, yucca]" : {kanire}
-| "[=kainiri][NRoot][=manioc, yucca]" : {kainiri}
+| "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca]" : {kaniri}
+| "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca]" : {kanire}
+| "[=kainiri+n.m.][NRoot][=manioc, yucca]" : {kainiri}
 ! 
-| "[=kashiri][NRoot][=moon]" : {kashiri}
+| "[=kashiri+m.][NRoot][=moon; month]" : {kashiri}
 | "[=katari][NRoot][=wild.duck]" : {katari}
 | "[=katonko][NRoot][=up.river]" : {katonko}
 | "[=katsariki][NRoot][=testicle]" : {katsariki}
@@ -416,7 +416,7 @@ define NRootPRQin [
 | "[=panko+n.m.+inal.][NRoot][=house]" : {panko}
 ! 
 | "[=pante+n.m.+inal.][NRoot][=mouth]" : {pante}
-| "[=pante+n.m.+inal.][NRoot][=mouth]" : {paante}
+| "[=paante+n.m.+inal.][NRoot][=mouth]" : {paante}
 | "[=panti+n.m.+inal.][NRoot][=mouth]" : {panti}
 ! otter
 | "[=parari][NRoot][=otter]" : {parari}
