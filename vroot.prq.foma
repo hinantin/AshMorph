@@ -12,7 +12,10 @@ define VRootPRQin [
 | "[=airik][VRoot][=to.hang]" : {airik}
 | "[=akipa][VRoot][=to.wrap]" : {akipa}
 | "[=am][VRoot][=to.bring]" : {am}
-| "[=ama][VRoot][=to.swim]" : [{ama}|{amaa}]
+| "[=ama][VRoot][=to.swim]" : {ama}
+| "[=amaa][VRoot][=to.swim]" : {amaa}
+! 
+| "[=aman][VRoot][=to.ask.for; to.pray]" : {aman}
 ! 
 | "[=amanant][VRoot][=to.buy]" : {amanant}
 | "[=amant][VRoot][=to.buy]" : {amant}
@@ -186,7 +189,10 @@ define VRootPRQin [
 !
 | "[=kinkitsa][VRoot][=to.talk, to.tell]" : [{kinkitsa}|{kenkitsa}]
 | "[=kinkivarotzi][VRoot][=to.be.old]" : {kinkivarotzi}
-| "[=kint][VRoot][=to.pierce.with.arrows, to.shoot.arrows, to.sting]" : [{kint}|{kent}]
+! 
+| "[=kint][VRoot][=to.pierce.with.arrows, to.shoot.arrows, to.sting]" : {kint}
+| "[=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows, to.sting]" : {kent}
+! 
 | "[=kipatsi][VRoot][=to.get.soiled]" : {kipatsi}
 | "[=kirik][VRoot][=to.weave]" : {kirik}
 | "[=kis][VRoot][=to.be.angry,get.upset]" : {kis}

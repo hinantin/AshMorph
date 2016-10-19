@@ -195,8 +195,8 @@ define NRootPRQin [
 | "[=kahai][NRoot][=coffee]" : {kahai}
 | "[=kahankari][NRoot][=perfume]" : {kahankari}
 ! 
-| "[=kamaari][NRoot][=deamon, shaman]" : {kamaari}
-| "[=kamari][NRoot][=deamon, shaman]" : {kamari}
+| "[=kamaari+m.][NRoot][=deamon, shaman]" : {kamaari}
+| "[=kamari+m.][NRoot][=deamon, shaman]" : {kamari}
 | "[=kamaaro][NRoot][=devil]" : {kamaaro}
 ! 
 | "[=kamantsi+n./m.][NRoot][=flu; snot; having.a.cold]" : {kamantsi} ! +n.m. +m. both genders?
@@ -231,6 +231,9 @@ define NRootPRQin [
 | "[=kimito][NRoot][=cacao, cacao.plant]" : {kimito}
 ! 
 | "[=kempita][NRoot][=ear]" : {kempita}
+! 
+| "[=kintaro+m.][NRoot][=parrot.sp.]" : {kintaro}
+| "[=kintavo+m.][NRoot][=parrot.sp.]" : {kintavo}
 ! 
 | "[=kentsi+inal.][NRoot][=neck, nape]" : {kentsi}
 | "[=kintsi+inal.][NRoot][=neck, nape]" : {kintsi}
@@ -512,6 +515,9 @@ define NRootPRQin [
 | "[=hamampo][NRoot][=ash; grey, ashen, having.colour.of.smoke/ashes]" : {hamampo}
 !
 | "[=sani][NRoot][=wasp]" : {sani}
+! 
+| "[=sankati][NRoot][=red-necked.gallinacean.bird, andean.guan (puka.kunka)]" : {sankati}
+! 
 ! flute like instrument
 | "[=sonkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkare}
 | "[=sonkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkari}
@@ -637,7 +643,8 @@ define NRootPRQin [
 !
 | "[=tonkari][NRoot][=hill.top,above]" : [{tonkari}|{tonkaari}]
 | "[=tot][NRoot][=cut]" : {tot}
-| "[=tsamiri][NRoot][=curassow]" : {tsamiri}
+! 
+| "[=tsamiri+m.][NRoot][=curassow.sp.]" : {tsamiri}
 ! 
 | "[=tsano+inal.][NRoot][=neck]" : {tsano}
 ! 
