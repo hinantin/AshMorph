@@ -307,7 +307,10 @@ define NRootPRQin [
 | "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
 | "[=maini][NRoot][=bear]" : {maini}
 | "[=makako][NRoot][=macaque]" : {makako}
-| "[=mamaro][NRoot][=owl]" : [{mamaro}|{mamavo}]
+! 
+| "[=mamaro+m.][NRoot][=owl, demonic.bird]" : {mamaro}
+| "[=mamavo+m.][NRoot][=owl, demonic.bird]" : {mamavo}
+! 
 | "[=manii][NRoot][=bullet.ant]" : {manii}
 ! 
 | "[=maninkari+m.][NRoot][=invisible.person.who.live.in.highlands]" : {maninkari}
