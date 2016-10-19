@@ -1,16 +1,16 @@
 define NegPRQin [
   "[=airo][Neg][=NEG.IRR]" : {airo}
 | "[=airorika][Neg][=NEG.IRR.COND]" : {airorika}
-| "[=airo][Neg][=NEG.IRR]" : {eero}
-| "[=airo][Neg][=NEG.IRR]" : {eiro}
-| "[=airo][Neg][=NEG.IRR]" : {ero}
+| "[=eero][Neg][=NEG.IRR]" : {eero}
+| "[=eiro][Neg][=NEG.IRR]" : {eiro}
+| "[=ero][Neg][=NEG.IRR]" : {ero}
 | "[=kaari][Neg][=NEG.COP]" : {kaari}
 | "[=kaari][Neg][=NEG.C]" : {kaari}
 | "[=kaari][Neg][=NEG.P]" : {kaari}
 | "[=taan][Neg][=NEG.W]" : {taan}
 | "[=te][Neg][=NEG.REAL]" : {te}
 | "[=te][Neg][=NEG]" : {te}
-| "[=te][Neg][=NEG.REAL]" : {tee}
+| "[=tee][Neg][=NEG.REAL]" : {tee}
 | "[=tekatsi][Neg][=NEG.EXIST]" : {tekatsi}
 | "[=terika][Neg][=NEG.COND]" : {terika}
 ];

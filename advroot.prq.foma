@@ -43,10 +43,11 @@ define AdvRootPRQin [
 | "[=ovakera][AdvRoot][=when]" : {ovakera}
 | "[=ovakera][AdvRoot][=ago]" : {ovakera}
 | "[=ovakerari][AdvRoot][=new]" : {ovakerari}
-| "[=pairani][AdvRoot][=since]" : {pairani}
-| "[=pairani][AdvRoot][=before]" : {pairani}
-| "[=pairani][AdvRoot][=long.ago]" : {pairani}
-| "[=pairani][AdvRoot][=long.ago]" : {peerani}
+! 
+| "[=pairani][AdvRoot][=since; before; long.ago]" : {pairani}
+| "[=paerani][AdvRoot][=since; before; long.ago]" : {paerani}
+| "[=peerani][AdvRoot][=since; before; long.ago]" : {peerani}
+! 
 | "[=ponya][AdvRoot][=then]" : {ponya}
 | "[=ponya][AdvRoot][=later]" : {ponya}
 | "[=ponyaka][AdvRoot][=afterwards]" : {ponyaka}
