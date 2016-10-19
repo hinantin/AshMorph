@@ -114,8 +114,10 @@ define NRootPRQin [
 ! 
 | "[=hempeki][NRoot][=arm]" : {hempeki}
 ! 
+| "[=Hakoovo+m.][NRoot][=Jacob]" : {hakoovo}
 | "[=Hesokirishito+m.][NRoot][=Jesus.Christ]" : {hesokirishito}
 | "[=Hesoshi+m.][NRoot][=Jesus]" : {hesoshi}
+| "[=Hosee+m.][NRoot][=Joseph]" : {hosee}
 ! 
 | "[=himee+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {himee}
 | "[=hime+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {hime}
@@ -341,7 +343,8 @@ define NRootPRQin [
 ! 
 | "[=marankiaro][NRoot][=name.of.village]" : {marankiaro}
 ! 
-| "[=Mariiya][NRoot][=Mary]" : {mariiya}
+| "[=Mariiya+n.m.][NRoot][=Mary]" : {mariiya}
+| "[=Mateeyo+m.][NRoot][=Matthew]" : {mateeyo}
 ! 
 | "[=mavona+n.m.][NRoot][=potato.sp., edible.tuber (sach'a.papa)]" : {mavona}
 | "[=maona+n.m.][NRoot][=potato.sp., edible.tuber (sach'a.papa)]" : {maona}
@@ -640,6 +643,8 @@ define NRootPRQin [
 ! 
 | "[=tete][NRoot][=buttock]" : {tete}
 | "[=tihatsi][NRoot][=weaver]" : {tihatsi}
+! 
+| "[=Temoteeyo][NRoot][=Timothy]" : {temoteeyo}
 ! 
 | "[=tomi+m.+inal.][NRoot][=son (kin.of.male)]" : {tomi}
 ! 

@@ -11,6 +11,7 @@ define ORootPRQin [
 ! 
 | "[=aihatzi][ConnRoot][=also]" : {aihatzi}
 | "[=ahatzi][ConnRoot][=also]" : {ahatzi}
+| "[=ehati][ConnRoot][=also, and]" : {ehati}
 | "[=eehati][ConnRoot][=also, and]" : {eehati}
 | "[=eehatzi][ConnRoot][=also, and]" : {eehatzi}
 | "[=iihatzi][ConnRoot][=also]" : {iihatzi}
@@ -58,8 +59,10 @@ define ORootPRQin [
 !| "[OtherRoot][=be.strong][=shintsi]" : {shintsi}
 !| "[OtherRoot][=quickly][=shintsini]" : {shintsini}
 | "[OtherRoot][=EXIST][=tekatsi]" : {tekatsi}
-| "[OtherRoot][=yet][=tekira]" : {tekira}
-| "[OtherRoot][=not.yet][=tekira]" : {tekira}
+! 
+| "[=tekira][OtherRoot][=yet, not.yet]" : {tekira}
+| "[=tekera][OtherRoot][=yet, not.yet]" : {tekera}
+! 
 | "[OtherRoot][=because][=tema]" : {tema}
 | "[OtherRoot][=maybe][=tema]" : {tema}
 | "[OtherRoot][=or][=terika]" : {terika}
