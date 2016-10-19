@@ -302,7 +302,15 @@
         define InterjPRQ InterjPRQin;
       define Interjection [ [InterjPRQ] ];
 
-      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      ##########################
+      #                        #
+      #       Punctuation      #
+      #                        #
+      ##########################
+      source punctuation.foma
+        define PunctuationMarks Punctuation;
+
+      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
 
       save stack asheninka.bin
 
