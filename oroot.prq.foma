@@ -9,13 +9,16 @@ define ORootPRQin [
 | "[OtherRoot][=if][=aririka]" : {aririka}
 | "[OtherRoot][=PP][=aritaki]" : {aritaki}
 ! 
-| "[=ahatzi][OtherRoot][=also]" : {ahatzi}
-| "[=eehati][OtherRoot][=also, and]" : {eehati}
-| "[=eehatzi][OtherRoot][=also, and]" : {eehatzi}
-| "[=aisati][OtherRoot][=also]" : {aisati}
-| "[=aisatzi][OtherRoot][=also]" : {aisatzi}
-| "[=irosatzi][OtherRoot][=also]" : {irosatzi}
-| "[=roohatzi][OtherRoot][=also]" : {roohatzi}
+| "[=aihatzi][ConnRoot][=also]" : {aihatzi}
+| "[=ahatzi][ConnRoot][=also]" : {ahatzi}
+| "[=eehati][ConnRoot][=also, and]" : {eehati}
+| "[=eehatzi][ConnRoot][=also, and]" : {eehatzi}
+| "[=iihatzi][ConnRoot][=also]" : {iihatzi}
+| "[=aisati][ConnRoot][=also]" : {aisati}
+| "[=aisatzi][ConnRoot][=also]" : {aisatzi}
+| "[=irosatzi][ConnRoot][=also; until]" : {irosatzi}
+| "[=irosati][ConnRoot][=until]" : {irosati}
+| "[=roohatzi][ConnRoot][=also]" : {roohatzi}
 ! 
 | "[OtherRoot][=aha][=ha]" : {ha}
 | "[OtherRoot][=yes][=he]" : {he}
@@ -31,8 +34,6 @@ define ORootPRQin [
 | "[OtherRoot][=in.conrast][=iroma]" : {iroma}
 | "[OtherRoot][=CONN][=ironyaaka]" : {ironyaaka}
 | "[OtherRoot][=then][=ironyaaka]" : {ironyaaka}
-| "[OtherRoot][=until][=irosatzi]" : {irosati}
-| "[OtherRoot][=until][=irosatzi]" : {irosatzi}
 | "[OtherRoot][=head][=ito]" : {ito}
 | "[OtherRoot][=because][=kama]" : {kama}
 | "[OtherRoot][=well][=kameetsa]" : {kameetsa}
