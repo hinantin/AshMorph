@@ -65,6 +65,7 @@ define N [
  (N=S=DUB) (N=S=EMPH) | 
  (N=S=CL) (N=S=poss) (N=S=LOC) | 
  (N=S=AUG) (N=S=NMZ) | 
+ (N=S=AUG) (N=S=deceased) | 
  (N=S=PROG) (N=S=REAL) | 
  (N=S=ABS) (N=S=PL) | 
  (N=S=ABS) (N=S=LOC) (N=S=DEM) | 
