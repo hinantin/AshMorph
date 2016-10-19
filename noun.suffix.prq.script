@@ -90,7 +90,8 @@ define N=S=ABS [
        "[--][-nari][+CL:animal][=animal]" : {nari} | 
                                                        ! covitzinari 
        "[--][-moko][+CL:spherical,small][=spherical,small]" : {moko} | 
-       "[--][-ponkitzi][+CL:ground-level.part.of.tree.trunk][=ground-level.part.of.tree.trunk]" : {ponkitzi} 
+       "[--][-ponkitzi][+CL:ground-level.part.of.tree.trunk][=ground-level.part.of.tree.trunk]" : {ponkitzi} | 
+       "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions]" : {niro} 
       ];
       
 define N=S=EXCL [
