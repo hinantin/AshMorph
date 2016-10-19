@@ -111,10 +111,12 @@ define N=S=EXCL [
       ];
       
       define N=S=AUG [
-       "[--][+AUG]" : [{ni}|{ite}|{pero}] |
-       "[--][=mashi][+AUG]" : [{mashi}] |
-       "[--][=santsa][+AUG]" : [{santsa}] |
-       "[--][=sante][+AUG]" : [{sante}]
+       "[--][-ni][+AUG]" : [{ni}] |
+       "[--][-ite][+AUG]" : [{ite}] |
+       "[--][-pero][+AUG]" : [{pero}] |
+       "[--][-mashi][+AUG]" : [{mashi}] |
+       "[--][-santsa][+AUG]" : [{santsa}] |
+       "[--][-sante][+AUG]" : [{sante}]
       ];
       
       define N=S=deceased [

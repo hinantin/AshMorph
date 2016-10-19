@@ -318,6 +318,10 @@ define VRootPRQin [
 | "[=ooya][VRoot][=to.wait]" : {ooya}
 | "[=ov][VRoot][=to.eat]" : [{ov}|{oy}]
 | "[=ovayeri][VRoot][=to.fight]" : {ovayeri}
+! 
+| "[=ovavisaako][VRoot][=to.rescue, to.save]" : {ovavisaako}
+| "[=ovavihaako][VRoot][=to.rescue, to.save]" : {ovavihaako}
+! 
 | "[=oya][VRoot][=to.follow]" : {oya}
 | "[=p][VRoot][=to.give]" : {p}
 | "[=pai][VRoot][=to.be.called]" : {pai}
