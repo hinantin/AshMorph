@@ -1,18 +1,22 @@
 define ORootPRQin [
   "[OtherRoot][=humph][=aa]" : {aa}
-| "[OtherRoot][=also][=ahatzi]" : {ahatzi}
 | "[OtherRoot][=still][=aikiro]" : {aikiro}
 | "[OtherRoot][=or][=airorika]" : {airorika}
-| "[OtherRoot][=also][=aisatzi]" : {aisati}
-| "[OtherRoot][=also][=aisatzi]" : {aisatzi}
 | "[OtherRoot][=ouch][=akaya]" : {akaya}
 | "[OtherRoot][=solely][=apaniroini]" : {apaniroini}
 | "[OtherRoot][=PP, there, so, thus, thereby, just.like.that][=ari]" : {ari}
 | "[OtherRoot][=if][=arika]" : {arika}
 | "[OtherRoot][=if][=aririka]" : {aririka}
 | "[OtherRoot][=PP][=aritaki]" : {aritaki}
-| "[OtherRoot][=also,and][=eehatzi]" : {eehati}
-| "[OtherRoot][=also,and][=eehatzi]" : {eehatzi}
+! 
+| "[=ahatzi][OtherRoot][=also]" : {ahatzi}
+| "[=eehati][OtherRoot][=also, and]" : {eehati}
+| "[=eehatzi][OtherRoot][=also, and]" : {eehatzi}
+| "[=aisati][OtherRoot][=also]" : {aisati}
+| "[=aisatzi][OtherRoot][=also]" : {aisatzi}
+| "[=irosatzi][OtherRoot][=also]" : {irosatzi}
+| "[=roohatzi][OtherRoot][=also]" : {roohatzi}
+! 
 | "[OtherRoot][=aha][=ha]" : {ha}
 | "[OtherRoot][=yes][=he]" : {he}
 | "[OtherRoot][=only][=intaani]" : {intaani}
