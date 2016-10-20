@@ -409,9 +409,9 @@ define NRootPRQin [
 ! 
 | "[=opempe][NRoot][=toucan]" : {opempe}
 ! 
-| "[=sarintsi+m.][NRoot][=year]" : {sarintsi}
-| "[=harentsi+m.][NRoot][=year]" : {harentsi}
-| "[=sarentsi+m.][NRoot][=year]" : {sarentsi}
+| "[=sarintsi+m.][NRoot][=year; summer]" : {sarintsi}
+| "[=harentsi+m.][NRoot][=year; summer]" : {harentsi}
+| "[=sarentsi+m.][NRoot][=year; summer]" : {sarentsi}
 ! 
 ! monkey species
 | "[=osheto][NRoot][=monkey.sp.]" : {osheto}
