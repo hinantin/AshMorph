@@ -28,14 +28,17 @@ define PrnPersPRQin [
 | "[=iriroite][PrnPers][+3PL.m.EXCL.][=they]" : {iriroite}
 | "[=iririroite][PrnPers][+3PL.m.EXCL.]" : {iririroite}
 | "[=iroite][PrnPers][+3PL.n.m.EXCL][=they]" : {iroite}
-! 
+! -------------------------------------------------------------------
 | "[=naari+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {naari} ! FOC "I" 
 | "[=avirori+cntr.add.l.+foc.][PrnPers][+2SG][=you]" : {avirori} ! FOC 
+! 
 | "[=irirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {irirori} ! FOC "He" 
+| "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {iriori} ! FOC 
+! 
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {iroori} ! FOC 
 | "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {irori} ! FOC 
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
-! 
+! -------------------------------------------------------------------
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG]" : {naakataki} ! FOC 
 | "[=avirotaki+cntr.exh.l.][PrnPers][+2SG]" : {avirotaki}
 | "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritaki} ! FOC "that's.why" (set 1)
