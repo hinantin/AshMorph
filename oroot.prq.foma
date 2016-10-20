@@ -63,8 +63,10 @@ define ORootPRQin [
 | "[=tekira][OtherRoot][=yet, not.yet]" : {tekira}
 | "[=tekera][OtherRoot][=yet, not.yet]" : {tekera}
 ! 
-| "[OtherRoot][=because][=tema]" : {tema}
-| "[OtherRoot][=maybe][=tema]" : {tema}
+| "[OtherRoot][=because; maybe][=tema]" : {tema}
+| "[OtherRoot][=because; maybe][=tempa]" : {tempa}
+| "[OtherRoot][=because; maybe][=tima]" : {tima}
+! 
 | "[OtherRoot][=or][=terika]" : {terika}
 | "[OtherRoot][=maybe][=terika]" : {terika}
 ! 
