@@ -35,6 +35,7 @@
       
       define V=S=PL [
        "[--][Num][+PL]" : "@EP"[{he}] |
+       "[--][Num][+PL]" : "@EP"[{hei}] |
        "[--][Num][+PL]" : "@EP"[{hee}] |
        "[--][+PL]" : "@EP"[{ni}|{aiy}|{ite}] |
        !  

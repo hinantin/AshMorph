@@ -408,7 +408,11 @@ define NRootPRQin [
 | "[=oovero][NRoot][=hawk.sp., hawk, bird.sp.]" : {oovero}
 ! 
 | "[=opempe][NRoot][=toucan]" : {opempe}
-| "[=osarentsi][NRoot][=year]" : {osarentsi}
+! 
+| "[=sarintsi+m.][NRoot][=year]" : {sarintsi}
+| "[=harentsi+m.][NRoot][=year]" : {harentsi}
+| "[=sarentsi+m.][NRoot][=year]" : {sarentsi}
+! 
 ! monkey species
 | "[=osheto][NRoot][=monkey.sp.]" : {osheto}
 !
