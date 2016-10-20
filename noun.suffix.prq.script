@@ -91,7 +91,8 @@ define N=S=ABS [
                                                        ! covitzinari 
        "[--][-moko][+CL:spherical,small][=spherical,small]" : {moko} | 
        "[--][-ponkitzi][+CL:ground-level.part.of.tree.trunk][=ground-level.part.of.tree.trunk]" : {ponkitzi} | 
-       "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions]" : {niro} 
+       "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions]" : {niro} | 
+       "[--][-kona][+CL:curved][=curved]" : {kona} 
       ];
       
 define N=S=EXCL [
