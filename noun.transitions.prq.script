@@ -25,7 +25,12 @@ define N [
  (N=S=2poss) (N=S=DEM) | 
  (N=S=ABS) (N=S=CL) (N=S=AUG) | 
  (N=S=ABS) (N=S=DEM) | 
+
+! Dialect variations?
  (N=S=LOC) (N=S=PL) | 
+ (N=S=PL) (N=S=LOC) | 
+! 
+
  (N=S=deceased) | 
  (N=S=LOC) (N=S=DEM) | 
  (N=S=leaf) | 
