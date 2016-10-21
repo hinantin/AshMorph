@@ -29,6 +29,7 @@ define N [
 ! Dialect variations?
  (N=S=LOC) (N=S=PL) | 
  (N=S=PL) (N=S=LOC) | 
+ (N=S=ABS) (N=S=PL) (N=S=LOC) | 
 ! 
 
  (N=S=deceased) | 
