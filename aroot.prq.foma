@@ -9,24 +9,19 @@ define ARootPRQin [
 | "[=mava][AdjRoot][=three]" : {mava}
 ! 
 | "[=iyaani][AdjRoot][=small]" : {iyaani}
-| "[=kapichee][AdjRoot][=small]" : {kapichee}
-| "[=kapichee][AdjRoot][=little]" : {kapichee}
-| "[=kapichii][AdjRoot][=little]" : {kapichii}
-| "[=kapichii][AdjRoot][=small]" : {kapichii}
+! 
+| "[=kapichee][AdjRoot][=little, small]" : {kapichee}
+| "[=kapichii][AdjRoot][=little, small]" : {kapichii}
+! 
 | "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari}
 | "[=kinkivaro+n.m.][AdjRoot][=old]" : {kinkivaro}
-| "[=maaro][AdjRoot][=everybody]" : {maaro}
-| "[=maaro][AdjRoot][=all]" : {maaro}
-| "[=maaroni][AdjRoot][=all]" : {maaroni}
-| "[=maaroni][AdjRoot][=everybody]" : {maaroni}
-| "[=maaroni][AdjRoot][=entire]" : {maaroni}
-| "[=maaroni][AdjRoot][=all,everybody,entire]" : {maroni}
-| "[=osheki][AdjRoot][=many]" : {osheki}
-| "[=osheki][AdjRoot][=much]" : {osheki}
-| "[=osheki][AdjRoot][=a.lot]" : {osheki}
-| "[=pashine][AdjRoot][=other]" : {pashine}
-| "[=pashini][AdjRoot][=another]" : {pashini}
-| "[=pashini][AdjRoot][=other]" : {pashini}
-| "[=pashini][AdjRoot][=few]" : {pashini}
-| "[=pasini][AdjRoot][=other]" : {pasini}
+! 
+| "[=maaro][AdjRoot][=everybody, all]" : {maaro}
+| "[=maaroni][AdjRoot][=everybody, all, entire]" : {maaroni}
+| "[=maroni][AdjRoot][=everybody, all, entire]" : {maroni}
+! 
+| "[=osheki][AdjRoot][=many, much, a.lot]" : {osheki}
+| "[=pashine][AdjRoot][=other, another]" : {pashine}
+| "[=pashini][AdjRoot][=other, another, few]" : {pashini}
+| "[=pasini][AdjRoot][=other, another]" : {pasini}
 ];
