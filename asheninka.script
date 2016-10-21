@@ -79,6 +79,7 @@
       define AEpenthesisRule11 [ "@EP" (->) {a}"@EP" || m _ v ]; # timabaetantsi
       define AEpenthesisRule12 [ "@EP" (->) {a}"@EP" || k _ h ]; # i-vitsik-a-jee-tz-i-ri
       define AEpenthesisRule13 [ "@EP" (->) {a}"@EP" || p _ a ]; # i-kant-ap-a-ak-e
+      define AEpenthesisRule14 [ "@EP" (->) {a}"@EP" || t _ h ]; # y-ant-a-jeí-t-ak-e
 
       define TEpenthesisRule1 [ "@EP" (->) {t}"@EP" || i _ i ]; 
       define TEpenthesisRule2 [ "@EP" (->) {t}"@EP" || a _ a ]; 
@@ -104,7 +105,7 @@
       define CleanUpEpenthesisRule6 [ "" (->) "@EP" || i _ {antsi} ]; # kinkishiriantsi
 
       define Epenthesis [ AEpenthesisRule1 .o. AEpenthesisRule2 .o. AEpenthesisRule3 .o. AEpenthesisRule4 .o. AEpenthesisRule5 .o. AEpenthesisRule6 
-.o. AEpenthesisRule7 .o. AEpenthesisRule8 .o. AEpenthesisRule9 .o. AEpenthesisRule10 .o. AEpenthesisRule11 .o. AEpenthesisRule12 .o. AEpenthesisRule13 
+.o. AEpenthesisRule7 .o. AEpenthesisRule8 .o. AEpenthesisRule9 .o. AEpenthesisRule10 .o. AEpenthesisRule11 .o. AEpenthesisRule12 .o. AEpenthesisRule13 .o. AEpenthesisRule14 
 .o. TEpenthesisRule1 .o. TEpenthesisRule2 .o. TEpenthesisRule3 .o. TEpenthesisRule4 .o. TEpenthesisRule5 .o. TEpenthesisRule6 .o. TEpenthesisRule7 .o. TEpenthesisRule8 
 .o. TZEpenthesisRule1 .o. TZEpenthesisRule2 .o. TZEpenthesisRule3 .o. TZEpenthesisRule4 
 .o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
