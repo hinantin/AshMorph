@@ -10,9 +10,9 @@ define NRootPRQin [
 | "[=haihi+m.][NRoot][=brother (kin.of.a.female)]" : {haihi}
 ! 
 | "[=aavintarontsi][NRoot][=medicine]" : {aavintarontsi}
-| "[=aiki][NRoot][=tooth]" : {aiki}
+| "[=aiki+n.m.+inal.][NRoot][=tooth]" : {aiki}
 ! 
-| "[=airi][NRoot][=black.bee.sp.]" : {airi} 
+| "[=airi+m.][NRoot][=black.bee.sp.]" : {airi} 
 ! 
 | "[=atyo+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {atyo} 
 ! 
@@ -234,8 +234,8 @@ define NRootPRQin [
 ! 
 | "[=kemari][NRoot][=tapir, pig.like.animal]" : {kemari}
 ! 
-| "[=kemi][NRoot][=pumpkin.sp.]" : {kemi}
-| "[=kimi][NRoot][=pumpkin.sp.]" : {kimi}
+| "[=kemi+n.m.][NRoot][=pumpkin.sp.]" : {kemi}
+| "[=kimi+n.m.][NRoot][=pumpkin.sp.]" : {kimi}
 ! 
 | "[=kemito][NRoot][=cacao, cacao.plant]" : {kemito}
 | "[=kimito][NRoot][=cacao, cacao.plant]" : {kimito}
