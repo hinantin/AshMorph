@@ -45,7 +45,6 @@ define ORootPRQin [
 | "[OtherRoot][=early][=kapichikitaite]" : {kapichikitaite}
 | "[OtherRoot][=ant][=koye]" : {koye}
 | "[OtherRoot][=1PL.EXCL][=naakaite]" : {naakaite}
-| "[OtherRoot][=I][=naari]" : {naari}
 | "[OtherRoot][=I.C.F][=naintsi]" : {naintsi}
 | "[OtherRoot][=mine][=nashi]" : {nashi}
 | "[OtherRoot][=or][=o]" : {o}
@@ -79,6 +78,5 @@ define ORootPRQin [
 ! 
 ! | "[=irotaki][FOC][=that's.why]" : {irotaki}
 ! | "[=iritaki][FOC][=that's.why]" : {iritaki}
-! | "[=naari][FOC][=I]" : {naari}
 ! | "[=naakataki][FOC][=...]" : {naakataki}
 ];
