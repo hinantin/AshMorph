@@ -47,9 +47,12 @@ define PrnPersPRQin [
 | "[=irotake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she]" : {irotake} ! FOC "that's.why" , "she"
 | "[=arotaki+cntr.exh.l.][PrnPers][+1PL]" : {arotaki}
 ! 
-| "[=naintsi+cntr.d.top.][PrnPers][+1SG]" : {naintsi}
+| "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL]" : {naintsi}
+| "[=aintsi+cntr.d.top.][PrnPers][+1SG.INCL]" : {aintsi}
 | "[=avintsi+cntr.d.top.][PrnPers][+2SG]" : {avintsi}
 | "[=irintsi+cntr.d.top.][PrnPers][+3SG.m.]" : {irintsi}
+| "[=ariintsi+cntr.d.top.][PrnPers][+3SG.m.]" : {ariintsi}
 | "[=irontsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {irontsi}
+| "[=aronintsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {aronintsi}
 ];
 
