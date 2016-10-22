@@ -104,9 +104,9 @@
        "[--][+APPR]" : "@EP"[{kari}]
       ];
       
-      define V=S=2A [
-       "[--][+2A]" : "@EP"[{pi}|{p}]
-      ];
+!      define V=S=2A [
+!       "[--][+2A]" : "@EP"[{pi}|{p}]
+!      ];
       
       define V=S=ICPL [
        "[--][+ICPL]" : "@EP"[{it}|{itz}]
