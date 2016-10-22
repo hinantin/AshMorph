@@ -93,6 +93,7 @@ define N=S=ABS [
        "[--][-ponkitzi][+CL:ground-level.part.of.tree.trunk][=ground-level.part.of.tree.trunk]" : {ponkitzi} | 
        "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions]" : {niro} | 
        "[--][-kona][+CL:curved][=curved]" : {kona} | 
+       "[--][-empeki][+CL:small.branch][=small.branch]" : {empeki} | 
        "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} | 
        "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} 
       ];
