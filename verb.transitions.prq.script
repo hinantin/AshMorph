@@ -198,6 +198,7 @@ define S [
  (V=S=IRR) (V=S=REGR) (V=S=IRR) | 
  (V=S=IRR) (V=S=Q) | 
  (V=S=INCH) (V=S=PRF) (V=S=IRR) | 
+ (V=S=INCH) (V=S=ICPL) (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=PRNO) (V=S=REL) | 
  (V=S=FRUS) (V=S=PRF) (V=S=REAL) | 
  (V=S=IMPP) (V=S=REAL) (V=S=PRNO) (V=S=Q) | 
  (V=S=APPLREAS) (V=S=STAT) (V=S=REL) | 
