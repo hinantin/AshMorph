@@ -88,6 +88,8 @@ define NRootPRQin [
 ! 
 | "[=chooki+n.m.+voc.][NRoot][=sister (kin.of.a.male)]" : {chooki}
 ! 
+| "[=choriti+m.][NRoot][=small.swallow.sp.]" : {choriti}
+! 
 | "[=chorito+m.][NRoot][=parrot.sp., parakeet.sp., small.macaw.sp.]" : {chorito}
 ! 
 | "[=chovankeriki][NRoot][=red.and.black.seed]" : {chovankeriki}
@@ -106,9 +108,9 @@ define NRootPRQin [
 | "[=erotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {erotzi}
 | "[=irotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {irotzi}
 ! 
-| "[=etso+m.][NRoot][=swallow.sp. (lives.in.the.rocks)]" : {etso}
-| "[=etsoni+m.][NRoot][=swallow.sp. (lives.in.the.rocks)]" : {etsoni}
-| "[=itso+m.][NRoot][=swallow.sp. (lives.in.the.rocks)]" : {itso}
+| "[=etso+m.][NRoot][=swallow.sp. (inhabits.the.rocks)]" : {etso}
+| "[=etsoni+m.][NRoot][=swallow.sp. (inhabits.the.rocks)]" : {etsoni}
+| "[=itso+m.][NRoot][=swallow.sp. (inhabits.the.rocks)]" : {itso}
 ! 
 | "[=evankari+m.][NRoot][=young.man, adolescent]" : {evankari}
 | "[=evankaro+n.m.][NRoot][=young.woman, adolescent]" : {evankaro}
