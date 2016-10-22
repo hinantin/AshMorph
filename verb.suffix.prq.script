@@ -313,9 +313,9 @@
        "[--][+1SG.poss]" : "@EP"[{no}|{n}]
       ];
       
-      define V=S=3SGmIRR [
-       "[--][+3SG.m.IRR]" : "@EP"[{ir}|{iri}]
-      ];
+!      define V=S=3SGmIRR [
+!       "[--][+3SG.m.IRR]" : "@EP"[{ir}|{iri}]
+!      ];
       
       define V=S=INCH [
        "[--][+INCH]" : "@EP"[{ima}|{imai}|{amaint}]
