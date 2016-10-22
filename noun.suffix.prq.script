@@ -68,7 +68,9 @@ define N=S=ABS [
        "[--][-teya][+CL:flower][=flower]" : {teya} | 
        "[--][-tiya][+CL:flower][=flower]" : {tiya} | 
 
-       "[--][-tonki][+CL:long.tree.segment][=long tree segment]" : [{tonki}|{tyonki}] | 
+       "[--][-tonki][+CL:long.tree.segment][=long tree segment]" : {tonki} | 
+       "[--][-tyonki][+CL:long.tree.segment][=long tree segment]" : {tyonki} | 
+
        "[--][-kota][+CL:piece][=piece]" : {kota} | 
        ! .. 
        "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} | 

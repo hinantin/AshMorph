@@ -82,7 +82,8 @@ define NRootPRQin [
 ! 
 | "[=chera+n.m.+inal.][NRoot][=lip, thick.lip]" : {chera}
 ! 
-| "[=chevo][NRoot][=branch]" : {chevo}
+| "[=chevo+inal.][NRoot][=branch]" : {chevo}
+! 
 | "[=chochoki][NRoot][=sweet.fruit]" : {chochoki}
 ! 
 | "[=chooki+n.m.+voc.][NRoot][=sister (kin.of.a.male)]" : {chooki}
@@ -104,6 +105,9 @@ define NRootPRQin [
 | "[=eroti+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {eroti}
 | "[=erotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {erotzi}
 | "[=irotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {irotzi}
+! 
+| "[=etso+m.][NRoot][=swallow.sp. (lives.in.the.rocks)]" : {etso}
+| "[=itso+m.][NRoot][=swallow.sp. (lives.in.the.rocks)]" : {itso}
 ! 
 | "[=evankari+m.][NRoot][=young.man, adolescent]" : {evankari}
 | "[=evankaro+n.m.][NRoot][=young.woman, adolescent]" : {evankaro}
@@ -393,8 +397,6 @@ define NRootPRQin [
 ! 
 | "[=ochera][NRoot][=shore]" : {ochera}
 | "[=ocheraa][NRoot][=shore]" : {ocheraa}
-! 
-| "[=ochevo][NRoot][=branch]" : {ochevo}
 ! 
 | "[=oisha][NRoot][=lamb, sheep]" : {oisha}
 ! 
