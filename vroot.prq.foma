@@ -267,7 +267,10 @@ define VRootPRQin [
 | "[=mit][VRoot][=to.be.accustomed]" : {mit}
 | "[=mitsaink][VRoot][=to.be.in.line]" : {mitsaink}
 | "[=mok][VRoot][=to.make.holes]" : {mok}
-| "[=monkara][VRoot][=to.measure]" : {monkara}
+! 
+| "[=monkaa][VRoot][=to.measure, to.fulfill]" : {monkaa}
+| "[=monkara][VRoot][=to.measure, to.fulfill]" : {monkara}
+! 
 | "[=monts][VRoot][=to.find, to.meet]" : {monts}
 | "[=monty][VRoot][=to.cross.river]" : {monty}
 | "[=morek][VRoot][=to.burn]" : {morek}
