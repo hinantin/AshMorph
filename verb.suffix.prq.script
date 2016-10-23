@@ -109,7 +109,7 @@
 !      ];
       
       define V=S=ICPL [
-       "[--][+ICPL]" : "@EP"[{it}|{itz}]
+       "[--][+speed][+ICPL]" : "@EP"[{it}|{itz}]
       ];
       
       define V=S=REL [
