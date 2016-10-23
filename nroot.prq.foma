@@ -132,8 +132,8 @@ define NRootPRQin [
 | "[=Hosee+m.][NRoot][=Joseph]" : {hosee}
 | "[=horio+m.][NRoot][=jewish]" : {horio}
 ! 
-| "[=herina][NRoot][=nettle.sp.]" : {herina}
-| "[=hirina][NRoot][=nettle.sp.]" : {hirina}
+| "[=herina][NRoot][=nettle.sp.with.big.thorns (ishanga)]" : {herina}
+| "[=hirina][NRoot][=nettle.sp.with.big.thorns (ishanga)]" : {hirina}
 ! 
 | "[=himee+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {himee}
 | "[=hime+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {hime}
@@ -524,6 +524,9 @@ define NRootPRQin [
 | "[=pitsiro][NRoot][=sister (kin.of.a.male)]" : {pitsiro}
 | "[=pitsitsari][NRoot][=clay]" : {pitsitsari}
 | "[=pochoki][NRoot][=dream]" : {pochoki}
+! 
+| "[=poonkito][NRoot][=nettle.sp.with.small.thorns (ishanga)]" : {poonkito}
+! 
 | "[=ponkaro][NRoot][=bejuco]" : {ponkaro}
 ! 
 | "[=ponkitzi+inal.][NRoot][=ground; trunk]" : {ponkitzi}
