@@ -5,6 +5,7 @@ define PrnPersPRQin [
 ! SET 2: +cntr.add.l. (contrastive additive listing)
 ! SET 3: +cntr.exh.l. (contrastive exhaustive listing)
 ! SET 4: +cntr.d.top. (contrastive discourse topic)
+! +cntr.cnt.assert.top. (contrastive counter assertive topic)
 ! 
   "[=naaka+cont.d.top.][PrnPers][+1SG][=I]" : {naaka}
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro} ! to be checked
