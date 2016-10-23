@@ -450,7 +450,9 @@ define VRootPRQin [
 ! 
 | "[=shintsa][VRoot][=string]" : {shintsa}
 | "[=shintsi][VRoot][=to.be.strong]" : {shintsi}
-| "[=shintsi][VRoot][=to.be.quick]" : {shintsi}
+! 
+| "[=shintsi][VRoot][=to.be.quick, to.be.fast]" : {shintsi}
+! 
 | "[=shipatona][VRoot][=beard]" : {shipatona}
 | "[=shiri][VRoot][=to.believe]" : {shiri}
 | "[=shiri][VRoot][=to.think]" : {shiri}
