@@ -23,6 +23,7 @@ For more information
 Richard Castro Mamani
 
 E-mail: richard.castro.mamani@gmail.com
+
 Skype: richardtk_1
 
 
