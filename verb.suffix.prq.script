@@ -398,7 +398,8 @@
       ];
       
       define V=S=NEG [
-       "[--][+NEG]" : "@EP"[{tsi}]
+       "[--][+NEG]" : "@EP"[{tsi}] | 
+       "[--][+NEG]" : "@EP"[{hi}]
       ];
       
       define V=S=real [
