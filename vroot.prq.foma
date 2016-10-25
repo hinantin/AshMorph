@@ -177,7 +177,10 @@ define VRootPRQin [
 | "[=kem][VRoot][=to.hear, to.listen]" : {kem}
 ! 
 | "[=kimi][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like]" : {kimi}
-| "[=kimisant][VRoot][=to.pay.attention]" : {kimisant}
+! 
+| "[=kimisan][VRoot][=to.pay.attention; to.believe; to.obey]" : {kimisan}
+| "[=kemisan][VRoot][=to.pay.attention; to.believe; to.obey]" : {kemisan}
+! 
 ! to be long, to grow
 | "[=kimo][VRoot][=to.be.long, to.grow]" : {kimo}
 ! 
@@ -626,3 +629,4 @@ define VRootPRQin [
 ! -------------------
 | "[VRoot][=to.wash.a.lot][=kivakiva]" : {kivakiva}
 ];
+

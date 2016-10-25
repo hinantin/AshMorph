@@ -501,6 +501,8 @@ define S [
  (V=S=IRR) (V=S=PRNO) (V=S=RELIRR) (V=S=ADV) | 
  (V=S=IRR) (V=S=CAUSSOC) (V=S=PRF) (V=S=PRNO) | 
  (V=S=STATIPRF) (V=S=NMZ) (V=S=ADV) | 
- (V=S=PL) (V=S=STAT) (V=S=REL) 
+ (V=S=PL) (V=S=STAT) (V=S=REL) | 
+ (V=S=DEXT) (V=S=PRF) (V=S=REAL) | 
+ (V=S=DEXT) (V=S=PRF) (V=S=IRR) 
 ! (V=S=1SGposs) (V=S=DIST)  
 ];

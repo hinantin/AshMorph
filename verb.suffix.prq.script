@@ -411,4 +411,8 @@
        "[--][+REL.IRR]" : "@EP"[{ni}]
       ];
       
+      ! desirable extremal 
+      define V=S=DEXT [
+       "[--][+DEXT]" : "@EP"[{asano}]
+      ];
       
