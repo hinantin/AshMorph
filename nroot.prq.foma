@@ -69,6 +69,10 @@ define NRootPRQin [
 ! 
 | "[=chaari][NRoot][=dark.water]" : {chaari}
 | "[=chakopi][NRoot][=arrow]" : {chakopi}
+! 
+| "[=chee+m.+inal.][NRoot][=horn, thorn]" : {chee}
+| "[=chii+m.+inal.][NRoot][=horn, thorn]" : {chii}
+! 
 | "[=chekopi][NRoot][=arrow]" : {chekopi}
 | "[=chikopi][NRoot][=arrow]" : {chikopi}
 | "[=chapinki][NRoot][=the.other.day]" : {chapinki}
@@ -710,6 +714,8 @@ define NRootPRQin [
 !
 | "[=tonkari][NRoot][=hill.top,above]" : [{tonkari}|{tonkaari}]
 | "[=tot][NRoot][=cut]" : {tot}
+! 
+| "[=totseeki][NRoot][=thorn]" : {totseeki}
 ! 
 | "[=tsamiri+m.][NRoot][=curassow.sp.]" : {tsamiri}
 ! 
