@@ -230,7 +230,7 @@ define S [
  (V=S=BEN) (V=S=REAL) (V=S=PRNO) (V=S=REL) | 
  (V=S=IRR) (V=S=APPL) (V=S=IRR) (V=S=PRNO) | 
  (V=S=STATT) (V=S=REL) (V=S=ADV) | 
- (V=S=IRR) (V=S=PL) (V=S=PROG) (V=S=IRR) (V=S=PRNO) | 
+ (V=S=PL) (V=S=PROG) (V=S=IRR) (V=S=PRNO) | 
  (V=S=DIM) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=REL) | 
  (V=S=DUR) (V=S=REP) (V=S=DIST) (V=S=STAT) (V=S=REL) | 
  (V=S=CAUS) (V=S=APPL) (V=S=REGR) (V=S=PRNO) (V=S=REL) | 
@@ -500,6 +500,7 @@ define S [
  (V=S=real) (V=S=Q) | 
  (V=S=IRR) (V=S=PRNO) (V=S=RELIRR) (V=S=ADV) | 
  (V=S=IRR) (V=S=CAUSSOC) (V=S=PRF) (V=S=PRNO) | 
- (V=S=STATIPRF) (V=S=NMZ) (V=S=ADV) ! | 
+ (V=S=STATIPRF) (V=S=NMZ) (V=S=ADV) | 
+ (V=S=PL) (V=S=STAT) (V=S=REL) 
 ! (V=S=1SGposs) (V=S=DIST)  
 ];

@@ -134,9 +134,10 @@ define N=S=EXCL [
       ];
       
       define N=S=EMPH [
-       "[--][+EMPH]" : [{kya}] |
-       "[--][+EMPH]" : [{ka}] |
-       "[--][+EMPH]" : [{ha}]
+       "[--][-kya][+EMPH]" : [{kya}] |
+       "[--][-kea][+EMPH]" : [{kea}] |
+       "[--][-ka][+EMPH]" : [{ka}] |
+       "[--][-ha][+EMPH]" : [{ha}]
       ];
       
       define N=S=smallpart [
