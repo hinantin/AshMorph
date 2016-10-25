@@ -224,7 +224,8 @@
       ];
       
       define V=S=OFOC [
-       "[--][+O.FOC]" : "@EP"[{kya}]
+       "[--][+O.FOC]" : "@EP"[{kya}] | 
+       "[--][+O.FOC]" : "@EP"[{kea}]
       ];
       
       define V=S=REP [
