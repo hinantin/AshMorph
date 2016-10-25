@@ -276,7 +276,7 @@
       ##########################
       source prnpers.prq.foma
         define PrnPersPRQ PrnPersPRQin;
-      define Personal [ [PrnPersPRQ] ];
+      define Personal [ [PrnPersPRQ] (V=S=OFOC) ];
 
       #################################
       #                               #

@@ -57,6 +57,8 @@ define PrnPersPRQin [
 | "[=aronintsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {aronintsi}
 ! 
 | "[=nainti][PrnPers][+1SG][=I]" : {nainti}
+| "[=ainti][PrnPers][+1SG][=I]" : {ainti}
+| "[=avinti][PrnPers][+2SG][=you]" : {avinti}
 | "[=irointi+cnt.assert.][PrnPers][+3SG.n.m.]" : {irointi}
 | "[=irinti+cnt.assert.][PrnPers][+3SG.m.]" : {irinti}
 ];
