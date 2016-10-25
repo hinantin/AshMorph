@@ -4,7 +4,7 @@
       ];
       
       define V=S=IRR [
-       "[--][+IRR]" : "@EP"[{e}|{ia}|{ya}|{ye}|{a}|{i}|{yaa}]
+       "[--][+IRR]" : "@EP"[{e}|{ee}|{ia}|{ya}|{ye}|{a}|{i}|{yaa}]
       ];
       
       define V=S=PRNO [
@@ -56,7 +56,7 @@
       ];
       
       define V=S=REAL [
-       "[--][+REAL]" : "@EP"[{e}|{i}|{a}|{t}|{ri}|{tzi}] |
+       "[--][+REAL]" : "@EP"[{e}|{ee}|{i}|{a}|{t}|{ri}|{tzi}] |
        "[--][+REAL]" : "@EP"[{ia}|{ya}|{yaa}]
       ];
       

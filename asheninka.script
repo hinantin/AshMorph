@@ -87,12 +87,13 @@
       define TEpenthesisRule3 [ "@EP" (->) {t}"@EP" || e _ a ]; 
       define TEpenthesisRule4 [ "@EP" (->) {t}"@EP" || a _ e ]; 
       define TEpenthesisRule5 [ "@EP" (->) {t}"@EP" || o _ a ]; # Amitakotaantsi
-      define TEpenthesisRule6 [ "@EP" (->) {t}"@EP" || i _ a ]; # Antabaitantsi
+      define TEpenthesisRule6 [ "@EP" (->) {t}"@EP" || i _ [a|e] ]; # Antabaitantsi
       define TEpenthesisRule7 [ "@EP" (->) {t}"@EP" || e _ i ]; # Raniwaeti
       define TEpenthesisRule8 [ "@EP" (->) {t}"@EP" || o _ e ]; # aminakotero
       define TEpenthesisRule9 [ "@EP" (->) {t}"@EP" || a _ i ]; # o-kametsa-t-i
       define TEpenthesisRule10 [ "@EP" (->) {t}"@EP" || e _ y ]; # no-ñatsa-bae-t-ya
       define TEpenthesisRule11 [ "@EP" (->) {t}"@EP" || n _ a ]; # quemisan-t-atsi-ri
+      define TEpenthesisRule12 [ "@EP" (->) {t}"@EP" || o _ i ]; # i-cameetsa-t-asano-t-i
 																															# This rule is not working for this entry: Ikinkishiriaka 
 																															# but for Ikinkishiritaka, for this reason we apply an optional rule
 
@@ -110,7 +111,7 @@
 
       define Epenthesis [ AEpenthesisRule1 .o. AEpenthesisRule2 .o. AEpenthesisRule3 .o. AEpenthesisRule4 .o. AEpenthesisRule5 .o. AEpenthesisRule6 
 .o. AEpenthesisRule7 .o. AEpenthesisRule8 .o. AEpenthesisRule9 .o. AEpenthesisRule10 .o. AEpenthesisRule11 .o. AEpenthesisRule12 .o. AEpenthesisRule13 .o. AEpenthesisRule14 .o. AEpenthesisRule15 
-.o. TEpenthesisRule1 .o. TEpenthesisRule2 .o. TEpenthesisRule3 .o. TEpenthesisRule4 .o. TEpenthesisRule5 .o. TEpenthesisRule6 .o. TEpenthesisRule7 .o. TEpenthesisRule8 .o. TEpenthesisRule9 .o. TEpenthesisRule10 .o. TEpenthesisRule11 
+.o. TEpenthesisRule1 .o. TEpenthesisRule2 .o. TEpenthesisRule3 .o. TEpenthesisRule4 .o. TEpenthesisRule5 .o. TEpenthesisRule6 .o. TEpenthesisRule7 .o. TEpenthesisRule8 .o. TEpenthesisRule9 .o. TEpenthesisRule10 .o. TEpenthesisRule11 .o. TEpenthesisRule12 
 .o. TZEpenthesisRule1 .o. TZEpenthesisRule2 .o. TZEpenthesisRule3 .o. TZEpenthesisRule4 
 .o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
 .o. CleanUpEpenthesisRule6 ];
