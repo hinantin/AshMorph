@@ -712,7 +712,11 @@ define NRootPRQin [
 ! palm species
 | "[=toniro][NRoot][=palm.tree.sp. (aguaje)]" : {toniro}
 !
-| "[=tonkari][NRoot][=hill.top,above]" : [{tonkari}|{tonkaari}]
+| "[=tonkari][NRoot][=hill.top,above]" : {tonkari}
+| "[=tonkaari][NRoot][=hill.top,above]" : {tonkaari}
+! 
+| "[=tonkitsi+n.m.][NRoot][=bone]" : {tonkitsi}
+! 
 | "[=tot][NRoot][=cut]" : {tot}
 ! 
 | "[=totseeki][NRoot][=thorn]" : {totseeki}
