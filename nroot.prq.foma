@@ -221,6 +221,10 @@ define NRootPRQin [
 | "[=nirentzi+m.][NRoot][=brother (kin.of.a.male)]" : {nirentzi}
 ! 
 | "[=kaaro][NRoot][=car]" : {kaaro}
+! 
+| "[=kachaari+n.m.+inal.][NRoot][=smoke]" : {kachaari}
+| "[=kachaare+n.m.+inal.][NRoot][=smoke]" : {kachaare}
+! 
 | "[=kahai][NRoot][=coffee]" : {kahai}
 | "[=kahankari][NRoot][=perfume]" : {kahankari}
 ! 
@@ -715,7 +719,7 @@ define NRootPRQin [
 | "[=tonkari][NRoot][=hill.top,above]" : {tonkari}
 | "[=tonkaari][NRoot][=hill.top,above]" : {tonkaari}
 ! 
-| "[=tonkitsi+n.m.][NRoot][=bone]" : {tonkitsi}
+| "[=tonki+n.m.+inal.][NRoot][=bone]" : {tonki}
 ! 
 | "[=tot][NRoot][=cut]" : {tot}
 ! 
