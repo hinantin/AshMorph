@@ -8,8 +8,6 @@
       ];
       
       define V=S=PRNO [
-         "[--][+1SG.O]" : "@EP"[{na}]
-       | "[--][+2SG.O]" : "@EP"[{mi}]
        | "[--][+3m.O]" : "@3m.O"[{ri}]
        | "[--][+3n.m.O]" : "@3n.m.O"[{ro}|{vo}]
        | "[--][+1PL.O]" : "@EP"[{ai}]
@@ -96,8 +94,9 @@
        "[--][AS][+ADV]" : "@EP"[{ni}] 
       ];
       
-      define V=S=2O [
-       "[--][+2O]" : "@EP"[{mi}|{mpi}]
+      define V=S=O [
+       "[--][+1O]" : "@EP"[{na}] | 
+       "[--][+2O]" : "@EP"[{mi}|{mpi}] 
       ];
       
       define V=S=APPR [

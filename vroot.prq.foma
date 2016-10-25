@@ -132,8 +132,10 @@ define VRootPRQin [
 | "[=kaim][VRoot][=to.call]" : {kaim}
 ! 
 | "[=kam][VRoot][=to.die]" : {kam}
-| "[=kamant][VRoot][=to.inform]" : {kamant}
-| "[=kamant][VRoot][=to.advise]" : {kamant}
+! 
+| "[=kaman][VRoot][=to.inform]" : {kamant}
+| "[=kaman][VRoot][=to.advise]" : {kamant}
+! 
 | "[=kamarank][VRoot][=to.vomit]" : {kamarank}
 | "[=kamatsa][VRoot][=to.crawl]" : {kamatsa}
 ! 
