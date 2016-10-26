@@ -297,7 +297,7 @@
       ###############################
       source prndem.prq.foma
         define PrnDemPRQ PrnDemPRQin;
-      define Demonstrative [ [PrnDemPRQ] ];
+      define Demonstrative [ [PrnDemPRQ] [(N=S=PL)] ];
 
       ##########################
       #                        #
