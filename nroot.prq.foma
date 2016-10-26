@@ -464,8 +464,8 @@ define NRootPRQin [
 !
 | "[=osipitari][NRoot][=hospital]" : {osipitari}
 ! 
-| "[=otapiki][NRoot][=cliff]" : {otapiki}
-| "[=otaapiki][NRoot][=cliff]" : {otaapiki}
+| "[=otapiki][NRoot][=cliff; rugged]" : {otapiki}
+| "[=otaapiki][NRoot][=cliff; rugged]" : {otaapiki}
 ! 
 | "[=otapinoma][NRoot][=chin, jaw]" : {otapinoma}
 | "[=otenkanaki][NRoot][=rocky.place]" : {otenkanaki}
