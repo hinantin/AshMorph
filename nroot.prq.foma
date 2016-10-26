@@ -654,7 +654,11 @@ define NRootPRQin [
 ! 
 | "[=shinto+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {shinto}
 ! 
-| "[=shintsipaa][NRoot][=raft]" : {shintsipaa}
+| "[=shintsipaa+n.m.][NRoot][=raft]" : {shintsipaa}
+| "[=shintzipa+n.m.][NRoot][=raft]" : {shintzipa}
+| "[=shintzipaa+n.m.][NRoot][=raft]" : {shintzipaa}
+| "[=shintipa+n.m.][NRoot][=raft]" : {shintipa}
+! 
 | "[=shirampari][NRoot][=man]" : {shirampari}
 | "[=shiringa][NRoot][=rubber.tree]" : {shiringa}
 | "[=shitashintsi][NRoot][=mat]" : {shitashintsi}
