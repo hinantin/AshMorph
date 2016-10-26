@@ -422,9 +422,9 @@ define NRootPRQin [
 | "[=nii][NRoot][=breast]" : {nii}
 | "[=niro+n.m.][NRoot][=mother (kin.of.a.fe/male)]" : {niro}
 ! 
-| "[=nyaa+inal.][NRoot][=word, language]" : {nyaa}
-| "[=nya+inal.][NRoot][=word, language]" : {nya}
-| "[=nea+inal.][NRoot][=word, language]" : {nea}
+| "[=nyaa+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nyaa}
+| "[=nya+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nya}
+| "[=nea+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nea}
 ! 
 | "[=ochera][NRoot][=shore]" : {ochera}
 | "[=ocheraa][NRoot][=shore]" : {ocheraa}
