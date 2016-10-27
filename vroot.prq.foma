@@ -588,11 +588,15 @@ define VRootPRQin [
 | "[=tzin][VRoot][=to.get.up]" : {tzin}
 ! 
 | "[=v][VRoot][=to.put]" : {v}
-| "[=v][=to.place][VRoot]" : {v}
-| "[=v][=to.kill][VRoot]" : {v}
+| "[=v][VRoot][=to.place]" : {v}
+| "[=v][VRoot][=to.kill]" : {v}
 | "[=vashire][VRoot][=to.get.sad]" : {vashire}
 | "[=vatsa][VRoot][=to.get.fat, to.gain.weight]" : {vatsa}
 | "[=vayeri][VRoot][=to.be.warrior]" : {vayeri}
+! 
+| "[=vavahe][VRoot][=to.translate]" : {vavahe}
+| "[=vaavahe][VRoot][=to.translate]" : {vaavahe}
+! 
 | "[=veha][VRoot][=to.fade]" : {veha}
 | "[=vira][VRoot][=to.advance]" : {vira}
 ! 
