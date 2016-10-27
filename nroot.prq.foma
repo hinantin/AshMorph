@@ -392,6 +392,8 @@ define NRootPRQin [
 | "[=mapi+n.m.][NRoot][=stone]" : {mapi}
 | "[=mapocha+n.m.][NRoot][=papaya]" : {mapocha}
 ! 
+| "[=matori][NRoot][=nocturnal.butterfly.sp.]" : {matori}
+! 
 | "[=maranki+m.][NRoot][=snake.sp.]" : {maranki}
 | "[=maranke+m.][NRoot][=snake.sp.]" : {maranke}
 ! 
@@ -627,7 +629,7 @@ define NRootPRQin [
 ! 
 | "[=sharo][NRoot][=agouti]" : {sharo}
 ! 
-| "[=shaveta+m.][NRoot][=butterfly.sp.]" : {shaveta}
+| "[=shaveta+m.][NRoot][=daytime/diurnal.butterfly.sp.]" : {shaveta}
 ! 
 | "[=shempa+n.m.+inal.][NRoot][=shoulder]" : {shempa}
 | "[=sempa+n.m.+inal.][NRoot][=shoulder]" : {sempa}
