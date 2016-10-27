@@ -54,5 +54,8 @@ define PrnDemPRQin [
 ! 
 | "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
 | "[=yonta+m.+distal][PrnDem][=that, that.over.there]" : {yonta}
+! Demonstrative identifier 
+| "[=heri+m.][PrnDem][=DEM.ID.][=here.you.are]" : {heri}
+| "[=hero+n.m.][PrnDem][=DEM.ID.][=here.you.are]" : {hero}
 ];
 
