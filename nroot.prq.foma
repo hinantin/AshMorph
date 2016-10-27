@@ -339,6 +339,9 @@ define NRootPRQin [
 | "[=kompiro][NRoot][=palm.tree.sp.]" : {kompiro}
 | "[=kompiroshi][NRoot][=yarina]" : {kompiroshi}
 | "[=kompita][NRoot][=riddle]" : {kompita}
+! 
+| "[=konori][NRoot][=rubber]" : {konori}
+! 
 | "[=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta}
 | "[=kooya][NRoot][=woman]" : {kooya}
 | "[=korarintsi+n.m.][NRoot][=corral]" : {korarintsi}
@@ -608,6 +611,8 @@ define NRootPRQin [
 | "[=sampi][NRoot][=torch]" : {sampi}
 | "[=santari][NRoot][=cedar.tree]" : {santari}
 ! 
+| "[=santonka][NRoot][=rubber]" : {santonka}
+! 
 | "[=saro+n.m.][NRoot][=grandmother (kin.of.a.fe/male)]" : {saro}
 ! 
 | "[=satzi][NRoot][=provenance]" : {satzi}
@@ -676,7 +681,10 @@ define NRootPRQin [
 | "[=shintipa+n.m.][NRoot][=raft]" : {shintipa}
 ! 
 | "[=shirampari][NRoot][=man]" : {shirampari}
+! 
 | "[=shiringa][NRoot][=rubber.tree; rubber]" : {shiringa}
+| "[=shirinka][NRoot][=rubber]" : {shirinka}
+! 
 | "[=shitashintsi][NRoot][=mat]" : {shitashintsi}
 ! 
 | "[=shiteki+n.m.+inal.][NRoot][=bagasse, dry.pulpy.residue]" : {shiteki}
