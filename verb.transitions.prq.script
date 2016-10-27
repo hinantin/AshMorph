@@ -505,6 +505,7 @@ define S [
  (V=S=DEXT) (V=S=PL) (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) (V=S=REL) | 
  (V=S=DEXT) (V=S=PL) (V=S=PRF) (V=S=IRR) (V=S=O) (V=S=PRNO) (V=S=REL) | 
  (V=S=DEXT) (V=S=STAT) (V=S=PRNO) (V=S=REL) | 
- (V=S=DIST) (V=S=NEG) 
-! (V=S=1SGposs) (V=S=DIST)  
+ (V=S=DIST) (V=S=REAL) (V=S=O) (V=S=NEG) | 
+ (V=S=DIST) (V=S=IRR) (V=S=O) (V=S=NEG) 
+! (V=S=1SGposs) (V=S=DIST) 
 ];

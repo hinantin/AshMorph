@@ -399,6 +399,7 @@
       
       define V=S=NEG [
        "[--][+NEG]" : "@EP"[{tsi}] | 
+       "[--][+NEG]" : "@EP"[{he}] | 
        "[--][+NEG]" : "@EP"[{hi}]
       ];
       
