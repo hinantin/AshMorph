@@ -5,6 +5,12 @@ define P=2 [
 | "[mi=][M.CAUS+][--]" : {mi}
 | "[o=][AGT.CAUS+][--]" : {o}
 | "[oi=][AGT.CAUS+][--]" : {oi}
+| "[om=][AGT.CAUS+][--]" : {om}
+| "[oim=][AGT.CAUS+][--]" : {oim}
+| "[oimin=][AGT.CAUS+][--]" : {oimin}
+| "[omin=][AGT.CAUS+][--]" : {omin}
+| "[oimi=][AGT.CAUS+][--]" : {oimi}
+| "[omi=][AGT.CAUS+][--]" : {omi}
 | "[v=][AGT.CAUS+][--]" : {v}
 | "[vi=][AGT.CAUS+][--]" : {vi}
 ];
