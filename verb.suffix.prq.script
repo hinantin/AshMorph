@@ -416,3 +416,9 @@
        "[--][+DEXT]" : "@EP"[{asano}]
       ];
       
+      ! opposite, reverse
+      define V=S=OPP [
+       "[--][+OPP]" : "@EP"[{re}] | 
+       "[--][+OPP]" : "@EP"[{ri}]
+      ];
+      
