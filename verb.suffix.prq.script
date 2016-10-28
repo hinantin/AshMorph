@@ -256,7 +256,7 @@
       ];
       
       define V=S=APPLPRES [
-       "[--][+APPL.PRES]" : "@EP"[{imo}]
+       "[--][+company][+APPL.PRES]" : "@EP"[{imo}]
       ];
       
       define V=S=APPLSEP [
@@ -420,5 +420,11 @@
       define V=S=CNTRST [
        "[--][+CNTRST]" : "@EP"[{re}] | 
        "[--][+CNTRST]" : "@EP"[{ri}]
+      ];
+      
+      ! position
+      define V=S=POSN [
+       "[--][+air.suspended][+POSN]" : "@EP"[{atink}] | 
+       "[--][+in.circles][+POSN]" : "@EP"[{ampe}]
       ];
       
