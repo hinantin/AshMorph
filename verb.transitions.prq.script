@@ -510,6 +510,8 @@ define S [
  (V=S=CNTRST) (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) (V=S=REL) | 
  (V=S=CNTRST) (V=S=PRF) (V=S=IRR) (V=S=O) (V=S=PRNO) (V=S=REL) | 
  (V=S=POSN) (V=S=DIR) (V=S=PRF) (V=S=REAL) | 
- (V=S=POSN) (V=S=DIR) (V=S=PRF) (V=S=IRR) 
+ (V=S=POSN) (V=S=DIR) (V=S=PRF) (V=S=IRR) | 
+ (V=S=CNTRST) (V=S=STAT) (V=S=PRNO) (V=S=REL) | 
+ (V=S=CNTRST) (V=S=APPLBEN) (V=S=PL) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) 
 ! (V=S=1SGposs) (V=S=DIST) 
 ];
