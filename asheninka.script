@@ -193,7 +193,7 @@
 
       define PWLenitionRule1 [ "@PRONLEN@"p (->) "@PRONLEN@"v || [{o}] _ [{i}|{a}] ]; 
                                                                             # nopito (in our lexicon) -> no@PRONLEN@pito -> no@PRONLEN@vito -> novito 
-      define PWLenitionRule2 [ "@PRONLEN@"p (->) "@PRONLEN@"v || [{i}] _ [{a}] ]; 
+      define PWLenitionRule2 [ "@PRONLEN@"p (->) "@PRONLEN@"v || [{i}] _ [{i}|{a}] ]; 
                                                                             # ipanko (in our lexicon) -> i@PRONLEN@panko -> i@PRONLEN@vanko -> ivanko 
       define PWLenitionRule3 [ "@PRONLEN@"p -> "@PRONLEN@"v || [{a}] _ [{i}] ]; 
                                                                             # apinkatsarite (in our lexicon) -> a@PRONLEN@pinkatsarite -> a@PRONLEN@vinkatsarite -> avinkatsarite 
