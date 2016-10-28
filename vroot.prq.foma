@@ -203,7 +203,10 @@ define VRootPRQin [
 | "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
 | "[=kenkishire][VRoot][=to.believe, to.think]" : {kenkishiri}
 !
-| "[=kinkitsa][VRoot][=to.talk, to.tell]" : [{kinkitsa}|{kenkitsa}]
+| "[=kinkitsa][VRoot][=to.talk, to.tell]" : {kinkitsa}
+| "[=kenkitsa][VRoot][=to.talk, to.tell]" : {kenkitsa}
+| "[=kenketsa][VRoot][=to.talk, to.tell]" : {kenketsa}
+! 
 | "[=kinkivarotzi][VRoot][=to.be.old]" : {kinkivarotzi}
 ! 
 | "[=kint][VRoot][=to.pierce.with.arrows, to.shoot.arrows, to.sting]" : {kint}
