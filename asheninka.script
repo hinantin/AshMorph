@@ -169,7 +169,7 @@
         define VRootPRQ [VRootPRQin|VRootEsin];
       
 #      define Verb FeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
-      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis .o. FeatRestr;
+      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis ; #.o. FeatRestr;
 
       ##########################
       #                        #
