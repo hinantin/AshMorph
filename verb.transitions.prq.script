@@ -261,7 +261,7 @@ define S [
  (V=S=APPL) (V=S=REAL) (V=S=PRNO) (V=S=REL) | 
  (V=S=AUG) (V=S=IRR) (V=S=PRNO) | 
  (V=S=IRR) (V=S=EMPH) | 
- (V=S=REP) (V=S=PL) (V=S=PRF) (V=S=PRNO) | 
+ (V=S=REP) (V=S=PL) (V=S=PRF) (V=S=PRNO) (V=S=REL) | 
  (V=S=DUR) (V=S=PL) (V=S=STAT) (V=S=REL) | 
  (V=S=PL) (V=S=PL) (V=S=REAL) (V=S=PL) | 
  (V=S=PRF) (V=S=REAL) (V=S=EMPH) | 
@@ -276,7 +276,7 @@ define S [
  (V=S=FRUS) (V=S=REAL) (V=S=OPT) | 
  (V=S=APPLSEP) (V=S=IRR) (V=S=PRNO) (V=S=CNTF) | 
  (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=CNTF) | 
- (V=S=APPL) (V=S=REP) (V=S=PL) (V=S=IRR) (V=S=PRNO) | 
+ (V=S=APPL) (V=S=REP) (V=S=PL) (V=S=IRR) (V=S=PRNO) (V=S=REL) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=COND) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) | 
  (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) | 
