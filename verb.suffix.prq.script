@@ -417,8 +417,8 @@
       ];
       
       ! opposite, reverse
-      define V=S=OPP [
-       "[--][+OPP]" : "@EP"[{re}] | 
-       "[--][+OPP]" : "@EP"[{ri}]
+      define V=S=CNTRST [
+       "[--][+CNTRST]" : "@EP"[{re}] | 
+       "[--][+CNTRST]" : "@EP"[{ri}]
       ];
       

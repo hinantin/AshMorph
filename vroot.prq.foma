@@ -505,6 +505,9 @@ define VRootPRQin [
 | "[=sonka][VRoot][=to.play.antara]" : {sonka}
 ! 
 | "[=ta][VRoot][=to.burn]" : {ta}
+! 
+| "[=tata][VRoot][=to.cover]" : {tata}
+! 
 | "[=tampatsika][VRoot][=to.be.noon]" : {tampatsika}
 | "[=tary][VRoot][=to.open.legs]" : {tary}
 | "[=tash][VRoot][=to.be.hungry]" : {tash}
@@ -581,8 +584,8 @@ define VRootPRQin [
 | "[=tim][VRoot][=to.have]" : {tim}
 | "[=tsim][VRoot][=to.have]" : {tsim}
 ! 
-| "[VRoot][=to.be.born][=tzim]" : {tzim}
-| "[VRoot][=to.give.birth][=tzimant]" : {tzimant}
+| "[=tzim][VRoot][=to.be.born]" : {tzim}
+| "[=tzimant][VRoot][=to.give.birth]" : {tzimant}
 ! 
 | "[=tzin][VRoot][=to.rise]" : {tzin}
 | "[=tzin][VRoot][=to.get.up]" : {tzin}
