@@ -554,8 +554,8 @@ define NRootPRQin [
 ! 
 | "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
 ! 
-| "[=pinkatsari+voc.][NRoot][=chief]" : {pinkatsari}
-| "[=pinkatsari+voc.][NRoot][=chief]" : {pinkatsare}
+| "[=pinkatsari+voc.+poss@te.][NRoot][=chief]" : {pinkatsari}
+| "[=pinkatsari+voc.+poss@te.][NRoot][=chief]" : {pinkatsare}
 ! 
 | "[=piratsi][NRoot][=animal]" : {piratsi}
 | "[=pito][NRoot][=name]" : {pito}
