@@ -25,7 +25,7 @@
       ];
       
       define V=S=PRF [
-       "[--][+PRF]" : "@EP"[{ak}|{aka}]
+       "[--][+PRF]" : "@EP"[{ak}]
       ];
       
       define V=S=OPT [
@@ -38,12 +38,12 @@
        "[--][Num][+PL]" : "@EP"[{hee}] |
        "[--][+PL]" : "@EP"[{ni}|{aiy}|{ite}] |
        !  
-       "[--][-paye][Num][+PL]" : {paye} |
-       "[--][-payeni][Num][+PL]" : {payeni} |
-       "[--][-payeeni][Num][+PL]" : {payeeni} |
-       "[--][-paeni][Num][+PL]" : {paeni} |
-       "[--][-pe][Num][+PL]" : {pe} |
-       "[--][-pee][Num][+PL]" : {pee} 
+!       "[--][-paye][Num][+PL]" : {paye} |
+!       "[--][-payeni][Num][+PL]" : {payeni} |
+!       "[--][-payeeni][Num][+PL]" : {payeeni} |
+!       "[--][-paeni][Num][+PL]" : {paeni} |
+!       "[--][-pe][Num][+PL]" : {pe} |
+!       "[--][-pee][Num][+PL]" : {pee} 
       ];
       
       define V=S=REGR [

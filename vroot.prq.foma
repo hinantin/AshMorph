@@ -196,12 +196,15 @@ define VRootPRQin [
 | "[=kimoshiri][VRoot][=to.be.joyous]" : {kimoshiri}
 | "[=kimoshiri][VRoot][=to.be.happy]" : {kimoshiri}
 ! word set: to hunt, to poach, to prey on sb/sth
-| "[=ken][VRoot][=to.hunt, to.poach, to prey.on.sb./sth.]" : {ken}
-| "[=kin][VRoot][=to.hunt, to.poach, to prey.on.sb./sth.]" : {kin}
+| "[=ken][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {ken}
+| "[=kin][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kin}
 !
 | "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : [{kin}|{ken}]
 ! to believe, to think
 | "[=kinkishiri][VRoot][=to.believe, to.think]" : {kinkishiri}
+! 
+| "[=kempe][VRoot][=to.be.similar.to.sb/sth, to.imitate]" : {kempe}
+! 
 | "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
 | "[=kenkishire][VRoot][=to.believe, to.think]" : {kenkishiri}
 !
