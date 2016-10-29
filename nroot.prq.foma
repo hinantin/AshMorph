@@ -421,7 +421,10 @@ define NRootPRQin [
 | "[=minka+inal.][NRoot][=trunk]" : {minka}
 ! 
 | "[=moito][NRoot][=navel]" : {moito}
-| "[=moo][NRoot][=hole]" : {moo}
+! 
+| "[=moo+n.m.+inal.][NRoot][=hole]" : {moo}
+| "[=moro+n.m.+inal.][NRoot][=hole]" : {moro}
+! 
 | "[=morona][NRoot][=hole]" : {morona}
 | "[=morona][NRoot][=cave]" : {morona}
 | "[=motsi][NRoot][=tummy]" : {motsi}

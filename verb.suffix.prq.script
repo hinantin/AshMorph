@@ -277,7 +277,9 @@
       ];
       
       define V=S=DUB [
-       "[--][+DUB]" : "@EP"[{ma}|{taima}]
+       "[--][+DUB]" : "@EP"[{ma}] | 
+       "[--][+DUB]" : "@EP"[{mpa}] | 
+       "[--][+DUB]" : "@EP"[{taima}] 
       ];
       
       define V=S=before [
