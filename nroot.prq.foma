@@ -208,6 +208,9 @@ define NRootPRQin [
 | "[=iishi+n.m.+inal.][NRoot][=hair]" : {iishi}
 | "[=ishi+n.m.+inal.][NRoot][=hair]" : {ishi}
 ! 
+| "[=ivenki+n.m.][NRoot][=magic.plant (of.a.male)]" : {ivenki}
+| "[=ovenki+n.m.][NRoot][=magic.plant (of.a.female)]" : {ovenki}
+! 
 | "[=sari+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {sari}
 ! 
 | "[=iteki][NRoot][=wasp.honeycomb]" : {iteki}
@@ -375,6 +378,8 @@ define NRootPRQin [
 | "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
 | "[=maini][NRoot][=bear]" : {maini}
 | "[=makako][NRoot][=macaque]" : {makako}
+! 
+| "[=mamori+m.][NRoot][=fish.sp., sabalo]" : {mamori}
 ! 
 | "[=mamaro+m.][NRoot][=owl, demonic.bird]" : {mamaro}
 | "[=mamavo+m.][NRoot][=owl, demonic.bird]" : {mamavo}
@@ -594,8 +599,8 @@ define NRootPRQin [
 | "[=poroki][NRoot][=bunch]" : {poroki}
 | "[=potsotzi][NRoot][=annatto]" : {potsotzi}
 ! 
-| "[=pyaameni+n.m.][NRoot][=bow]" : {pyaameni}
-| "[=piameni+n.m.][NRoot][=bow]" : {piameni}
+| "[=pyaameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {pyaameni}
+| "[=piameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {piameni}
 ! 
 | "[=pyarentsi][NRoot][=manioc.beer (masato)]" : {pyarentsi}
 | "[=rasaro][NRoot][=person's.name]" : {rasaro}

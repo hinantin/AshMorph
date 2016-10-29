@@ -98,7 +98,9 @@ define N=S=ABS [
        "[--][-kona][+CL:curved][=curved]" : {kona} | 
        "[--][-empeki][+CL:small.branch][=small.branch]" : {empeki} | 
        "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} | 
-       "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} 
+       "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} | 
+       "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} | 
+       "[--][-tsori][+CL:distant.kinship][=distant.kinship]" : {tsori} 
       ];
       
 define N=S=EXCL [
