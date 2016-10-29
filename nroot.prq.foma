@@ -599,7 +599,20 @@ define NRootPRQin [
 ! 
 | "[=pyarentsi][NRoot][=manioc.beer (masato)]" : {pyarentsi}
 | "[=rasaro][NRoot][=person's.name]" : {rasaro}
-| "[=rento][NRoot][=sister]" : {rento}
+! 
+| "[=renti][NRoot][=brother (kin.of.a.male)]" : {renti}
+| "[=reenti][NRoot][=brother (kin.of.a.male)]" : {reenti}
+| "[=rentzi][NRoot][=brother (kin.of.a.male)]" : {rentzi}
+| "[=rintzi][NRoot][=brother (kin.of.a.male)]" : {rintzi}
+| "[=irenti][NRoot][=brother (kin.of.a.male)]" : {irenti}
+| "[=irentzi][NRoot][=brother (kin.of.a.male)]" : {irentzi}
+| "[=irintzi][NRoot][=brother (kin.of.a.male)]" : {irintzi}
+! 
+| "[=rento+n.m.+inal.][NRoot][=sister (kin.of.a.female)]" : {rento}
+| "[=reento+n.m.+inal.][NRoot][=sister (kin.of.a.female)]" : {reento}
+| "[=irento+n.m.][NRoot][=sister (kin.of.a.female)]" : {irento}
+| "[=irinto+n.m.][NRoot][=sister (kin.of.a.female)]" : {irinto}
+! 
 | "[=riro][NRoot][=watch]" : {riro}
 | "[=saari+m.][NRoot][=opossum]" : {saari}
 | "[=saimpiki][NRoot][=firewood, dry.twigs]" : {saimpiki}

@@ -28,7 +28,8 @@ define N=S=PL [
 define N=S=DIM [
  "[--][-patsaini][+small.part.DIM]" : {patsaini} | 
  "[--][-peta][+DIM]" : {peta} | 
- "[--][+DIM]" : [{ini}|{ni}|{aniki}]
+ "[--][+DIM]" : [{ini}|{ni}|{aniki}] | 
+ "[--][-haniki][+DIM]" : [{haniki}] 
 ];
       
 define N=S=LOC [
