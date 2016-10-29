@@ -36,7 +36,7 @@
        "[--][Num][+PL]" : "@EP"[{he}] |
        "[--][Num][+PL]" : "@EP"[{hei}] |
        "[--][Num][+PL]" : "@EP"[{hee}] |
-       "[--][+PL]" : "@EP"[{ni}|{aiy}|{ite}] |
+       "[--][+PL]" : "@EP"[{ni}|{aiy}|{ite}] 
        !  
 !       "[--][-paye][Num][+PL]" : {paye} |
 !       "[--][-payeni][Num][+PL]" : {payeni} |
@@ -194,7 +194,8 @@
       define V=S=ADJ [
        "[--][+m.][NMZ][+ADJ]" : "@EP"[{ri}|{re}] | 
        "[--][+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] | 
-       "[--][+m.][NMZ][+ADJ]" : "@EP"[{ntzi}|{ntsi}|{nti}] | 
+       "[--][+m.][NMZ][+ADJ]" : "@EP"[{ntzi}|{ntsi}] | 
+       "[--][+m.][NMZ][+ADJ]" : "@EP"[{nti}] | 
        "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{nto}] | 
        "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{ro}|{tsinkaro}] 
       ];
