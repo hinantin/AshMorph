@@ -482,9 +482,9 @@ define NRootPRQin [
 | "[=otapinoma][NRoot][=chin, jaw]" : {otapinoma}
 | "[=otenkanaki][NRoot][=rocky.place]" : {otenkanaki}
 ! 
-| "[=otsitzi+m.][NRoot][=dog]" : {otsitzi}
-| "[=otsiti+m.][NRoot][=dog]" : {otsiti}
-| "[=otsitsi+m.][NRoot][=dog]" : {otsitsi}
+| "[=otsitzi+m.+poss@te.][NRoot][=dog]" : {otsitzi}
+| "[=otsiti+m.+poss@te.][NRoot][=dog]" : {otsiti}
+| "[=otsitsi+m.+poss@te.][NRoot][=dog]" : {otsitsi}
 ! 
 | "[=otzishi][NRoot][=hill]" : {otzishi}
 | "[=ovayeri][NRoot][=guerrilla]" : {ovayeri}
