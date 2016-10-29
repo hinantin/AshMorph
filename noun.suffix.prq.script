@@ -151,9 +151,9 @@ define N=S=EXCL [
        "[--][+Q]" : [{ka}]
       ];
       
-      define N=S=DISTREL [
-       "[--][-tsori+surrogate.kin][+DIST.REL]" : [{tsori}]
-      ];
+!      define N=S=DISTREL [
+!       "[--][-tsori+surrogate.kin][+DIST.REL]" : [{tsori}]
+!      ];
       
       define N=S=DUB [
        "[--][+DUB]" : [{ma}] | 

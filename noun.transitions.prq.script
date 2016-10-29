@@ -46,7 +46,6 @@ define N [
  (N=S=DIM) (N=S=smallpart) (N=S=DIM) | 
  (N=S=2poss) (N=S=LOC) | 
  (N=S=Q) | 
- (N=S=DISTREL) | 
  (N=S=2poss) (N=S=poss) (N=S=PL) | 
  (N=S=DUB) | 
  (N=S=deceased) (N=S=EXCL) | 
@@ -82,5 +81,6 @@ define N [
  (N=S=DIM) (N=S=DEM) | 
  (N=S=poss) (N=S=PL) (N=S=DEM) | 
  (N=S=DEM) | 
- (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM)  
+ (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM) | 
+ (N=S=AUG) (N=S=LOC) 
 ];

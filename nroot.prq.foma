@@ -146,6 +146,9 @@ define NRootPRQin [
 | "[=himee+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {himee}
 | "[=hime+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {hime}
 ! 
+| "[=sompo+inal.][NRoot][=tumor]" : {sompo}
+| "[=hompo+inal.][NRoot][=tumor]" : {hompo}
+! 
 | "[=ime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {ime}
 | "[=iime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {ime}
 | "[=imi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {imi}
@@ -589,8 +592,7 @@ define NRootPRQin [
 ! 
 | "[=pooki+n.m.+inal.][NRoot][=bagasse]" : {pooki}
 ! 
-| "[=pori][NRoot][=leg]" : {pori}
-| "[=pori][NRoot][=thigh]" : {pori}
+| "[=pori+n.m.+inal.][NRoot][=leg; thigh]" : {pori}
 ! 
 | "[=poro][NRoot][=face]" : {poro}
 | "[=poo][NRoot][=face]" : {poo}
@@ -821,7 +823,7 @@ define NRootPRQin [
 | "[=tzinani+n.m.][NRoot][=female, woman]" : {tzinani}
 | "[=tsinãni+n.m.][NRoot][=female, woman]" : {tsinãni}
 ! 
-| "[=tsipana][NRoot][=leaf]" : {tsipana}
+| "[=tsipana+n.m.][NRoot][=plant.sp. (bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana}
 ! 
 | "[=tsirikana][NRoot][=chili.pepper, pepper]" : {tsirikana}
 | "[=tsirigana][NRoot][=chili.pepper, pepper]" : {tsirigana}
