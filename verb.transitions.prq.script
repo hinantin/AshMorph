@@ -276,7 +276,7 @@ define S [
  (V=S=FRUS) (V=S=REAL) (V=S=OPT) | 
  (V=S=APPLSEP) (V=S=IRR) (V=S=PRNO) (V=S=CNTF) | 
  (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=CNTF) | 
- (V=S=APPL) (V=S=REP) (V=S=PL) (V=S=IRR) (V=S=PRNO) (V=S=REL) | 
+ (V=S=APPL) (V=S=REP) (V=S=PL) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=COND) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) | 
  (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) | 
