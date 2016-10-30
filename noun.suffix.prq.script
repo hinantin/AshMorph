@@ -103,7 +103,9 @@ define N=S=ABS [
        "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} | 
        "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} | 
        "[--][-vatsa][+CL:mass][=mass]" : {vatsa} | 
-       "[--][-nki][+CL:snake][=snake]" : {nki} 
+       ! .. 
+       "[--][-nki][+CL:snake][=snake]" : {nki} | 
+       "[--][-nke][+CL:snake][=snake]" : {nke} 
       ];
       
 define N=S=EXCL [
