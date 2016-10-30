@@ -615,7 +615,11 @@ define NRootPRQin [
 | "[=pyaameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {pyaameni}
 | "[=piameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {piameni}
 ! 
-| "[=pyarentsi][NRoot][=manioc.beer (masato)]" : {pyarentsi}
+| "[=piari+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {piari}
+| "[=pyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {pyare}
+| "[=piyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {piyare}
+| "[=peare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {peare}
+! 
 | "[=rasaro][NRoot][=person's.name]" : {rasaro}
 ! 
 | "[=renti][NRoot][=brother (kin.of.a.male)]" : {renti}
