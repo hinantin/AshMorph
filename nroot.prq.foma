@@ -202,6 +202,9 @@ define NRootPRQin [
 | "[=irimashi][NRoot][=Lima]" : {irimashi}
 | "[=irina][NRoot][=Irina]" : {irina}
 | "[=iritsiro][NRoot][=his.sister]" : {iritsiro}
+! 
+| "[=iroamere+m.][NRoot][=student, disciple, pupil]" : {iroamere}
+! 
 | "[=ironyaa][NRoot][=now]" : [{ironyaa}|{ironya}]
 !| "[=irora][NRoot][=whachamacallit]" : {irora}
 ! 
@@ -223,6 +226,8 @@ define NRootPRQin [
 ! 
 | "[=ito+n.m.+inal.][NRoot][=head]" : {ito}
 | "[=iito+n.m.+inal.][NRoot][=head]" : {iito}
+! 
+| "[=tsipa+n.m.][NRoot][=wife]" : {tsipa}
 ! 
 | "[=itzi+n.m.+inal.][NRoot][=foot]" : {itzi}
 | "[=iitzi+n.m.+inal.][NRoot][=foot]" : {iitzi}
