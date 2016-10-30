@@ -51,8 +51,8 @@ define N=S=ABS [
       define N=S=CL [
        "[--][-chaari][=dark water]" : {chaari} | 
        "[--][-tsapya][=bank, side.of.river]" : {tsapya} | 
-       ! Size related classifier ?
-       "[--][-patsa][=small part]" : {patsa} | 
+       ! Size related classifier 
+       "[--][-patsa][+CL:tiny.piece][=small.part]" : {patsa} | 
        ! ?
        "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} | 
        ! Plant-based parts in compounds 
@@ -100,7 +100,8 @@ define N=S=ABS [
        "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} | 
        "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} | 
        "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} | 
-       "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} 
+       "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} | 
+       "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} 
       ];
       
 define N=S=EXCL [
