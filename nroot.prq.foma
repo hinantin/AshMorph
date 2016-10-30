@@ -374,10 +374,11 @@ define NRootPRQin [
 ! 
 | "[=koshiri+m.][NRoot][=monkey.sp., white.monkey.sp.]" : {koshiri}
 | "[=koshire+m.][NRoot][=monkey.sp., white.monkey.sp.]" : {koshire}
-! 
-| "[=kovitsi][NRoot][=clay.pot]" : {kovitsi}
-| "[=koviti][NRoot][=clay.pot]" : {koviti}
-| "[=kovitzi][NRoot][=clay.pot]" : {kovitzi}
+! +inal.?
+| "[=kovitsi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovitsi}
+| "[=koviti+n.m.+poss@te.][NRoot][=clay.pot]" : {koviti}
+| "[=kovitzi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovitzi}
+| "[=kovi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovi}
 ! 
 | "[=kotsiro][NRoot][=machete]" : {kotsiro}
 | "[=machaki][NRoot][=beans]" : {machaki}
