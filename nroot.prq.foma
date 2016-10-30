@@ -400,8 +400,9 @@ define NRootPRQin [
 | "[=manitzi][NRoot][=tiger]" : {manitzi}
 | "[=maniti][NRoot][=tiger]" : {maniti}
 ! 
-| "[=maanki+m.][NRoot][=serpent]" : {maanki}
-| "[=maanke+m.][NRoot][=serpent]" : {maanke}
+| "[=maanki+m.][NRoot][=snake, serpent]" : {maanki}
+| "[=maanke+m.][NRoot][=snake, serpent]" : {maanke}
+| "[=maranke+m.][NRoot][=snake, serpent]" : {maranke}
 ! 
 | "[=mantsaki+inal.][NRoot][=cushma]" : {mantsaki}
 ! 
