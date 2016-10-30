@@ -86,7 +86,7 @@ define N=S=ABS [
        ! .. 
        "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi} | 
                                                        ! chakopi 'arrow'
-       "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like]" : {pa} | 
+       "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like, banana]" : {pa} | 
                                                        ! akapa 'avocado'
        "[--][-menta][+CL:flat,triangular][=flat,triangular]" : {menta} | 
                                                        ! inchamenta 'hiding place in the form of a triangle, formed by the tree roots'
@@ -102,7 +102,8 @@ define N=S=ABS [
        "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} | 
        "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} | 
        "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} | 
-       "[--][-vatsa][+CL:mass][=mass]" : {vatsa} 
+       "[--][-vatsa][+CL:mass][=mass]" : {vatsa} | 
+       "[--][-nki][+CL:snake][=snake]" : {nki} 
       ];
       
 define N=S=EXCL [
