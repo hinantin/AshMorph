@@ -52,7 +52,7 @@ define N=S=ABS [
        "[--][-chaari][=dark water]" : {chaari} | 
        "[--][-tsapya][=bank, side.of.river]" : {tsapya} | 
        ! Size related classifier 
-       "[--][-patsa][+CL:tiny.piece][=small.part]" : {patsa} | 
+       "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} | 
        ! ?
        "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} | 
        ! Plant-based parts in compounds 
