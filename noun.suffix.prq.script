@@ -100,7 +100,7 @@ define N=S=ABS [
        "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} | 
        "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} | 
        "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} | 
-       "[--][-tsori][+CL:distant.kinship][=distant.kinship]" : {tsori} 
+       "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} 
       ];
       
 define N=S=EXCL [
