@@ -101,7 +101,8 @@ define N=S=ABS [
        "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} | 
        "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} | 
        "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} | 
-       "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} 
+       "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} | 
+       "[--][-vatsa][+CL:mass][=mass]" : {vatsa} 
       ];
       
 define N=S=EXCL [
