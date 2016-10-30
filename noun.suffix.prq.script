@@ -105,7 +105,10 @@ define N=S=ABS [
        "[--][-vatsa][+CL:mass][=mass]" : {vatsa} | 
        ! .. 
        "[--][-nki][+CL:snake][=snake]" : {nki} | 
-       "[--][-nke][+CL:snake][=snake]" : {nke} 
+       "[--][-nke][+CL:snake][=snake]" : {nke} | 
+       #-----------------------------------------------
+       "[--][-ato][+CL:deriving.location.names][=deriving.location.names]" : {ato} | 
+       "[--][-sato][+CL:deriving.location.names][=deriving.location.names]" : {sato} 
       ];
       
 define N=S=EXCL [
