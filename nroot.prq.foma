@@ -917,7 +917,11 @@ define NRootPRQin [
 | "[=yenka][NRoot][=fat]" : {yenka}
 | "[=yempita][NRoot][=ear]" : {yempita}
 | "[=yerito][NRoot][=knee]" : {yerito}
-| "[=yompari][NRoot][=friend]" : {yompari}
+! 
+| "[=yompari+m.+inal.][NRoot][=friend]" : {yompari}
+| "[=iyompari+m.][NRoot][=friend]" : {iyompari} ! possesive form
+| "[=iyompare+m.+inal.][NRoot][=friend]" : {iyompare}
+
 ! word set: wisdom
 | "[=yorenka+inal.][NRoot][=wisdom, knowledge]" : {yorenka}
 | "[=yorêka+inal.][NRoot][=wisdom, knowledge]" : {yorêka}
