@@ -114,7 +114,7 @@
       ];
       
       define V=S=REL [
-       "[--][+REL]" : "@EP"[{ri}|{ni}|{ka}]
+       "[--][+REL]" : "@EP"[{ri}|{ni}]
       ];
       
       define V=S=FRUS [
