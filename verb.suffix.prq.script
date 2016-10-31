@@ -274,8 +274,11 @@
        "[--][+REAL.RFL]" : "@EP"[{a}]
       ];
       
+      ! opposite, reverse REV/CNTRST 
       define V=S=REV [
-       "[--][+REV]" : "@EP"[{ry}]
+       "[--][+REV]" : "@EP"[{ry}] | 
+       "[--][+REV]" : "@EP"[{ri}] | 
+       "[--][+REV]" : "@EP"[{re}]
       ];
       
       define V=S=DUB [
@@ -420,12 +423,6 @@
       ! desirable extremal 
       define V=S=DEXT [
        "[--][+DEXT]" : "@EP"[{asano}]
-      ];
-      
-      ! opposite, reverse
-      define V=S=CNTRST [
-       "[--][+CNTRST]" : "@EP"[{re}] | 
-       "[--][+CNTRST]" : "@EP"[{ri}]
       ];
       
       ! position
