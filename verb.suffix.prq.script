@@ -55,7 +55,7 @@
       ];
       
       define V=S=REAL [
-       "[--][+REAL]" : "@EP"[{e}|{ee}|{i}|{a}|{t}|{ri}|{tzi}] |
+       "[--][+REAL]" : "@EP"[{e}|{ee}|{i}|{a}|{t}|{tzi}] |
        "[--][+REAL]" : "@EP"[{ia}|{ya}|{yaa}]
       ];
       
@@ -86,10 +86,11 @@
 !       "[--][+ADV.P]" : "@EP"[{ranki}]
 !      ];
       
+      # subordinator 
       define V=S=ADV [
-       "[--][+proximal][+ADV]" : "@EP"[{ka}] | 
-       "[--][+medial][+ADV]" : "@EP"[{ra}] | 
-       "[--][+distal][+ADV]" : "@EP"[{nta}] | 
+       "[--][+proximal.loc.][+ADV][=where]" : "@EP"[{ka}] | 
+       "[--][+medial.loc.][+ADV][=where]" : "@EP"[{ra}] | 
+       "[--][+distal.loc.][+ADV][=where]" : "@EP"[{nta}] | 
        "[--][+fused.t.][+ADV.P]" : "@EP"[{ranki}] | 
        "[--][+during][+ADV]" : "@EP"[{paite}] | 
        "[--][AS][+ADV]" : "@EP"[{ni}] 
@@ -397,8 +398,9 @@
        "[--][+neck]" : "@EP"[{kintsi}]
       ];
       
+      # subordinator 
       define V=S=SUB [
-       "[--][+SUB]" : "@EP"[{ra}|{nta}]
+       "[--][+temporal][+SUB][=where]" : "@EP"[{ra}]
       ];
       
       define V=S=NEG [

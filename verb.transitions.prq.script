@@ -115,7 +115,8 @@ define S [
  (V=S=PRF) (V=S=REALRFL) | 
  (V=S=PRF) (V=S=REAL) (V=S=3O) (V=S=PRNO) | 
  (V=S=REAL) (V=S=PRNO) (V=S=REL) | 
- (V=S=APPLREAS) (V=S=REAL) (V=S=O) (V=S=REL) | 
+ (V=S=APPLREAS) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
+ (V=S=APPLREAS) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=NEG) | 
  (V=S=FRUS) (V=S=REAL) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) | 
  (V=S=REV) (V=S=APPL) (V=S=ICPL) (V=S=REGR) (V=S=REAL) (V=S=PRNO) (V=S=PRNO) | 
