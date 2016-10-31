@@ -443,7 +443,9 @@ define VRootPRQin [
 | "[=saek][VRoot][=to.be, to.be.at, to.be.in, to.sit, to.live]" : {saek}
 | "[=haek][VRoot][=to.be, to.be.at, to.be.in, to.sit, to.live]" : {haek}
 ! 
-| "[VRoot][=to.get.upset.with][=sam]" : {sam}
+| "[=sam][VRoot][=to.get.upset.with]" : {sam}
+! 
+| "[=same][VRoot][=to.have.a.bad.taste.in.the.mouth]" : {same}
 ! 
 | "[=sankina][VRoot][=to.write, to.draw]" : {sankina}
 | "[=sankena][VRoot][=to.write, to.draw]" : {sankena}

@@ -647,7 +647,18 @@ define NRootPRQin [
 ! ash
 | "[=samampo][NRoot][=ash; grey, ashen, having.colour.of.smoke/ashes]" : {samampo}
 | "[=hamampo][NRoot][=ash; grey, ashen, having.colour.of.smoke/ashes]" : {hamampo}
-!
+! 
+| "[=sameti+m.][NRoot][=godfather]" : {sameti}
+| "[=shameti+m.][NRoot][=godfather]" : {shameti}
+| "[=shametzi+m.][NRoot][=godfather]" : {shametzi}
+| "[=shamitzi+m.][NRoot][=godfather]" : {shamitzi}
+! 
+| "[=sameto+n.m.][NRoot][=godmother]" : {sameto}
+| "[=samito+n.m.][NRoot][=godmother]" : {samito}
+| "[=shameto+n.m.][NRoot][=godmother]" : {shameto}
+| "[=shametyo+n.m.][NRoot][=godmother]" : {shametyo}
+| "[=shamityo+n.m.][NRoot][=godmother]" : {shamityo}
+! 
 | "[=sani][NRoot][=wasp]" : {sani}
 ! 
 | "[=sankati][NRoot][=red-necked.gallinacean.bird, andean.guan (puka.kunka)]" : {sankati}
