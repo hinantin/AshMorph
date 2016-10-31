@@ -8,6 +8,8 @@ define ORootPRQin [
 | "[OtherRoot][=if][=arika]" : {arika}
 | "[OtherRoot][=if][=aririka]" : {aririka}
 | "[OtherRoot][=PP][=aritaki]" : {aritaki}
+# copulative conjunction 
+| "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
 | "[=aihatzi][ConnRoot][=also]" : {aihatzi}
 | "[=ahatzi][ConnRoot][=also]" : {ahatzi}
