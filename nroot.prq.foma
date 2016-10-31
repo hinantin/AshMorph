@@ -659,7 +659,8 @@ define NRootPRQin [
 | "[=shametyo+n.m.][NRoot][=godmother]" : {shametyo}
 | "[=shamityo+n.m.][NRoot][=godmother]" : {shamityo}
 ! 
-| "[=sani][NRoot][=wasp]" : {sani}
+| "[=sani+m.][NRoot][=wasp]" : {sani}
+| "[=sanii+m.][NRoot][=wasp]" : {sanii}
 ! 
 | "[=sankati][NRoot][=red-necked.gallinacean.bird, andean.guan (puka.kunka)]" : {sankati}
 ! 
@@ -867,6 +868,8 @@ define NRootPRQin [
 ! 
 | "[=tsitsi][NRoot][=firewood]" : {tsitsi}
 | "[=tsitsiri][NRoot][=cricket]" : {tsitsiri}
+! 
+| "[=tsiveta+m.][NRoot][=ray.fish.sp.]" : {tsiveta}
 ! 
 | "[=tsiyaki][NRoot][=anus]" : {tsiyaki}
 ! 

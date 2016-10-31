@@ -104,11 +104,14 @@ define N=S=ABS [
        "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} | 
        "[--][-vatsa][+CL:mass][=mass]" : {vatsa} | 
        ! .. 
-       "[--][-nki][+CL:snake][=snake]" : {nki} | 
-       "[--][-nke][+CL:snake][=snake]" : {nke} | 
+       "[--][-nki][+CL:snake][=snake.sp.]" : {nki} | 
+       "[--][-nke][+CL:snake][=snake.sp.]" : {nke} | 
        #-----------------------------------------------
        "[--][-ato][+CL:deriving.location.names][=deriving.location.names]" : {ato} | 
-       "[--][-sato][+CL:deriving.location.names][=deriving.location.names]" : {sato} 
+       "[--][-sato][+CL:deriving.location.names][=deriving.location.names]" : {sato} | 
+       #-----------------------------------------------
+       "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} | 
+       "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} 
       ];
       
 define N=S=EXCL [
