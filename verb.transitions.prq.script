@@ -61,7 +61,7 @@ define S [
  (V=S=REGR) (V=S=PROG) (V=S=IRR) (V=S=ADV) | 
 ! (V=S=3mposs) (V=S=NMZ) | 
  (V=S=ADJ) | 
- (V=S=PL) (V=S=DIR) (V=S=PRF) (V=S=REAL) | 
+ (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=CAUS) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
  (V=S=CAUS) (V=S=REGR) (V=S=IRR) (V=S=PRNO) | 
  (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
