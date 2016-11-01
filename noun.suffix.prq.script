@@ -111,7 +111,9 @@ define N=S=ABS [
        "[--][-sato][+CL:deriving.location.names][=deriving.location.names]" : {sato} | 
        #-----------------------------------------------
        "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} | 
-       "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} 
+       "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} | 
+       #-----------------------------------------------
+       "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori} 
       ];
       
 define N=S=EXCL [
