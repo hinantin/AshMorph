@@ -82,5 +82,7 @@ define N [
  (N=S=poss) (N=S=PL) (N=S=DEM) | 
  (N=S=DEM) | 
  (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM) | 
- (N=S=AUG) (N=S=LOC) 
+ (N=S=AUG) (N=S=LOC) | 
+ # unknown suffix 
+ (N=S=poss) (N=S=UNK1) (N=S=PL) 
 ];

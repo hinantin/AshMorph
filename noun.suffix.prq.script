@@ -200,3 +200,7 @@ define N=S=EXCL [
        "[--][+RCG]" : [{ranki}]
       ];
       
+      define N=S=UNK1 [
+       "[--][+UNK1]" : [{rinte}]
+      ];
+      
