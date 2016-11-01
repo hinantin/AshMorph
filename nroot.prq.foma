@@ -158,6 +158,9 @@ define NRootPRQin [
 | "[=himee+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {himee}
 | "[=hime+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {hime}
 ! 
+| "[=hinya+n.m.+poss@te.][NRoot][=water]" : {hinya}
+| "[=hinyaa+n.m.+poss@te.][NRoot][=water]" : {hinyaa}
+! 
 | "[=sompo+inal.][NRoot][=tumor]" : {sompo}
 | "[=hompo+inal.][NRoot][=tumor]" : {hompo}
 ! 
@@ -198,6 +201,9 @@ define NRootPRQin [
 | "[=inki+n.m.][NRoot][=peanut]" : {inki}
 ! 
 | "[=inkiri+m.][NRoot][=fish.sp.]" : {inkiri}
+! 
+| "[=inkorato][NRoot][=nocturnal.butterfly.worm.sp., edible.worm.sp.]" : {inkorato}
+| "[=korea][NRoot][=nocturnal.butterfly.worm.sp., edible.worm.sp.]" : {korea}
 ! 
 | "[=impereta][NRoot][=rock]" : {impereta}
 | "[=intakantarori][NRoot][=ancestor]" : {intakantarori}
@@ -661,6 +667,11 @@ define NRootPRQin [
 | "[=hamampo][NRoot][=ash; grey, ashen, having.colour.of.smoke/ashes]" : {hamampo}
 ! 
 | "[=sameti+m.][NRoot][=godfather]" : {sameti}
+! 
+| "[=shavo][NRoot][=rodent.sp. (añuje, agutí)]" : {shavo}
+| "[=sharo][NRoot][=rodent.sp. (añuje, agutí)]" : {sharo}
+| "[=sharoni][NRoot][=rodent.sp. (añuje, agutí)]" : {sharoni}
+! 
 | "[=shameti+m.][NRoot][=godfather]" : {shameti}
 | "[=shametzi+m.][NRoot][=godfather]" : {shametzi}
 | "[=shamitzi+m.][NRoot][=godfather]" : {shamitzi}

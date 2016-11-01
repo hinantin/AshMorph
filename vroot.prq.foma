@@ -49,6 +49,8 @@ define VRootPRQin [
 ! 
 | "[=ampi][VRoot][=to.repeat]" : {ampi}
 | "[=anpi][VRoot][=to.repeat]" : {anpi}
+| "[=apii][VRoot][=to.repeat]" : {apii}
+| "[=api][VRoot][=to.repeat]" : {api}
 ! 
 | "[=ampinaik][VRoot][=to.roll.up]" : {ampinaik}
 | "[=ampitsa][VRoot][=to.be.wrinkled]" : {ampitsa}
@@ -272,7 +274,12 @@ define VRootPRQin [
 | "[=ma][VRoot][=to.sleep]" : {ma}
 | "[=machok][VRoot][=to.close.eyes]" : {machok}
 | "[=maisant][VRoot][=to.forget]" : {maisant}
-| "[=makot][VRoot][=tire]" : {makot}
+! 
+| "[=mako][VRoot][=to.tire; to.rest]" : {mako}
+| "[=makore][VRoot][=to.tire; to.rest]" : {makore}
+| "[=makory][VRoot][=to.tire; to.rest]" : {makory}
+| "[=makori][VRoot][=to.tire; to.rest]" : {makori}
+! 
 | "[=man][VRoot][=to.hide]" : {man}
 | "[=mana][VRoot][=to.fight]" : {mana}
 ! 
