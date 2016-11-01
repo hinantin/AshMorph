@@ -21,6 +21,10 @@ define NRootPRQin [
 | "[=eeri][NRoot][=black.bee.sp.]" : {eeri} 
 | "[=aeri][NRoot][=black.bee.sp.]" : {aeri} 
 ! 
+| "[=asankane+n.m.+inal.][NRoot][=heart]" : {asankane} 
+| "[=asankani+n.m.+inal.][NRoot][=heart]" : {asankani} 
+| "[=ahankane+n.m.+inal.][NRoot][=heart]" : {ahankane} 
+! 
 | "[=akapa][NRoot][=avocado]" : {akapa} ! -pa
 ! 
 | "[=ako+n.m.+inal.][NRoot][=arm]" : {ako}
@@ -134,6 +138,7 @@ define NRootPRQin [
 ! 
 | "[=Hakoovo+m.][NRoot][=Jacob]" : {hakoovo}
 | "[=Hesokirishito+m.][NRoot][=Jesus.Christ]" : {hesokirishito}
+| "[=Kirishito+m.][NRoot][=Christ]" : {kirishito}
 | "[=Hesoshi+m.][NRoot][=Jesus]" : {hesoshi}
 | "[=Hosee+m.][NRoot][=Joseph]" : {hosee}
 | "[=horio+m.][NRoot][=jewish]" : {horio}
