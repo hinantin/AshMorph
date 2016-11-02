@@ -279,7 +279,7 @@
       ##########################
       source prnpers.prq.foma
         define PrnPersPRQ PrnPersPRQin;
-      define Personal [ [PrnPersPRQ] [(N=S=EMPH)|(N=S=PL)] ];
+      define Personal [ [PrnPersPRQ] [(N=S=EMPH)|(N=S=PL)|(V=S=COND)] ];
 
       #################################
       #                               #
