@@ -266,8 +266,8 @@ define NRootPRQin [
 | "[=kahai][NRoot][=coffee]" : {kahai}
 | "[=kahankari][NRoot][=perfume]" : {kahankari}
 ! 
-| "[=kamaari+m.][NRoot][=deamon, shaman]" : {kamaari}
-| "[=kamari+m.][NRoot][=deamon, shaman]" : {kamari}
+| "[=kamaari+m.][NRoot][=deamon; shaman]" : {kamaari}
+| "[=kamari+m.][NRoot][=deamon; shaman]" : {kamari}
 | "[=kamaaro][NRoot][=devil]" : {kamaaro}
 ! 
 | "[=kamantsi+n./m.][NRoot][=flu; snot; having.a.cold]" : {kamantsi} ! +n.m. +m. both genders?
@@ -595,7 +595,8 @@ define NRootPRQin [
 ! 
 | "[=perú][NRoot][=NP]" : {perú}
 ! 
-| "[=peyari+m.][NRoot][=ghost]" : {peyari}
+| "[=peyari+m.][NRoot][=ghost; demon]" : {peyari}
+| "[=piyari+m.][NRoot][=ghost; demon]" : {piyari}
 ! 
 | "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
 ! 
