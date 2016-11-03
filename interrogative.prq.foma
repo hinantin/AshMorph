@@ -8,8 +8,9 @@ define WhPRQin [
 | "[=ninka][WhPrn][=who, whom]" : {ninka}
 ! 
 | "[=tsika][WhPrn][=where, what, which]" : {tsika}
-| "[=haoka][WhPrn][=which, when]" : {haoka}
 | "[=tsikarika][WhPrn][=WH.COND]" : {tsikarika}
+| "[=haoka][WhPrn][=which, when]" : {haoka}
+| "[=haokarika][WhPrn][=WH.COND][=wherever]" : {haokarika}
 ! indefinite forms
 | "[=ninkarika][IndfPrn][=whoever, everybody, somebody]" : {ninkarika}
 | "[=paitarika][IndfPrn][=whatever, something]" : {paitarika}
