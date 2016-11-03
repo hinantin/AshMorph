@@ -262,7 +262,7 @@ define S [
  (V=S=APPL) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=AUG) (V=S=IRR) (V=S=PRNO) | 
  (V=S=IRR) (V=S=EMPH) | 
- (V=S=REP) (V=S=PL) (V=S=PRF) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=REP) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DUR) (V=S=PL) (V=S=STAT) (V=S=REL) (V=S=Q) | 
  (V=S=PL) (V=S=PL) (V=S=REAL) (V=S=PLcircumfixing) | 
  (V=S=PRF) (V=S=REAL) (V=S=EMPH) | 
