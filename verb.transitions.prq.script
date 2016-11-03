@@ -80,8 +80,8 @@ define S [
  (V=S=PL) (V=S=REAL) (V=S=REL) (V=S=Q) | 
  (V=S=IMPP) (V=S=REAL) (V=S=PRNO) (V=S=ADV) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) | 
- (V=S=PL) (V=S=REAL) (V=S=PL) | 
- (V=S=PL) (V=S=REGR) (V=S=REAL) (V=S=PL) | 
+ (V=S=PL) (V=S=REAL) (V=S=PLcircumfixing) | 
+ (V=S=PL) (V=S=REGR) (V=S=REAL) (V=S=PLcircumfixing) | 
  (V=S=IRR) (V=S=PRNO) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) (V=S=OPT) | 
  (V=S=noun) (V=S=REAL) (V=S=PRNO) | 
@@ -147,7 +147,7 @@ define S [
  (V=S=AUG) | 
  (V=S=INST) (V=S=REAL) (V=S=PRNO) | 
  (V=S=ADJ) (V=S=smallpart) (V=S=DIM) | 
- (V=S=DIR) (V=S=PRF) (V=S=PL) (V=S=REAL) (V=S=PL) | 
+ (V=S=DIR) (V=S=PRF) (V=S=PL) (V=S=REAL) (V=S=PLcircumfixing) | 
  (V=S=DEGR) (V=S=IRR) | 
  (V=S=once) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REV) (V=S=APPL) (V=S=PRF) (V=S=REAL) | 
@@ -257,14 +257,14 @@ define S [
  (V=S=CAUS) (V=S=REAL) (V=S=PRNO) | 
  (V=S=APPLSOC) (V=S=APPLREAS) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPLREAS) (V=S=HAB) (V=S=REAL) (V=S=REL) (V=S=Q) | 
- (V=S=APPLREAS) (V=S=HAB) (V=S=REAL) (V=S=REL) (V=S=PL) | 
+ (V=S=APPLREAS) (V=S=HAB) (V=S=REAL) (V=S=REL) (V=S=PLcircumfixing) | 
  (V=S=PRF) (V=S=REGR) (V=S=IRR) (V=S=PRNO) | 
  (V=S=APPL) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=AUG) (V=S=IRR) (V=S=PRNO) | 
  (V=S=IRR) (V=S=EMPH) | 
  (V=S=REP) (V=S=PL) (V=S=PRF) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DUR) (V=S=PL) (V=S=STAT) (V=S=REL) (V=S=Q) | 
- (V=S=PL) (V=S=PL) (V=S=REAL) (V=S=PL) | 
+ (V=S=PL) (V=S=PL) (V=S=REAL) (V=S=PLcircumfixing) | 
  (V=S=PRF) (V=S=REAL) (V=S=EMPH) | 
  (V=S=ICPL) (V=S=PROG) (V=S=REAL) (V=S=AUG) | 
  (V=S=AUG) (V=S=REAL) | 
@@ -321,7 +321,7 @@ define S [
  (V=S=REP) (V=S=PROG) (V=S=IRR) (V=S=PRNO) | 
  (V=S=APPLREAS) (V=S=REGR) (V=S=IRR) | 
  (V=S=APPLREAS) (V=S=REGR) (V=S=REAL) | 
- (V=S=DUR) (V=S=PL) (V=S=REAL) (V=S=PL) | 
+ (V=S=DUR) (V=S=PL) (V=S=REAL) (V=S=PLcircumfixing) | 
  (V=S=APPLREAS) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=REL) (V=S=Q) | 
  (V=S=APPLREAS) (V=S=PRF) (V=S=IRR) | 
  (V=S=PL) (V=S=REAL) (V=S=PRNO) | 

@@ -36,15 +36,14 @@
        "[--][Num][+PL]" : "@EP"[{he}] |
        "[--][Num][+PL]" : "@EP"[{hei}] |
        "[--][Num][+PL]" : "@EP"[{hee}] |
-       "[--][+PL]" : "@EP"[{ni}|{aiy}|{ite}] 
-       !  
-!       "[--][-paye][Num][+PL]" : {paye} |
-!       "[--][-payeni][Num][+PL]" : {payeni} |
-!       "[--][-payeeni][Num][+PL]" : {payeeni} |
-!       "[--][-paeni][Num][+PL]" : {paeni} |
-!       "[--][-pe][Num][+PL]" : {pe} |
-!       "[--][-pee][Num][+PL]" : {pee} 
+       # -ite only appears in nominalized verb structures 
+       "[--][+PL]" : "@EP"[{aiy}] 
       ];
+
+      define V=S=PLcircumfixing [
+       "[--][+PL]" : "@EP"[{ni}]
+      ];
+
       
       define V=S=REGR [
        "[--][Cas][+REGR_TERM]" : "@EP"[{a}|{ah}]
