@@ -70,9 +70,9 @@
        "[--][+DUR]" : "@EP"[{vei}]
       ];
       
-      define V=S=3O [
-       "[--][+3O]" : "@EP"[{ni}]
-      ];
+!      define V=S=3O [
+!       "[--][+3O]" : "@EP"[{ni}]
+!      ];
       
       define V=S=BEN [
        "[--][+BEN]" : "@EP"[{vint}]
@@ -98,7 +98,8 @@
       
       define V=S=O [
        "[--][+1O]" : "@EP"[{na}] | 
-       "[--][+2O]" : "@EP"[{mi}|{mpi}] 
+       "[--][+2O]" : "@EP"[{mi}|{mpi}] | 
+       "[--][+3O]" : "@EP"[{ni}] 
       ];
       
       define V=S=APPR [
