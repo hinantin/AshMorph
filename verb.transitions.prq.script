@@ -498,7 +498,7 @@ define S [
  (V=S=REAL) (V=S=SUB) | 
  (V=S=DUR) (V=S=REAL) (V=S=PRNO) (V=S=NEG) (V=S=ADV) | 
  (V=S=IRR) (V=S=ADV) | 
- (V=S=real) (V=S=Q) | 
+ (V=S=REAL) (V=S=Q) | 
  (V=S=IRR) (V=S=PRNO) (V=S=RELIRR) (V=S=ADV) | 
  (V=S=IRR) (V=S=CAUSSOC) (V=S=PRF) (V=S=PRNO) | 
  (V=S=STATIPRF) (V=S=NMZ) (V=S=ADV) | 

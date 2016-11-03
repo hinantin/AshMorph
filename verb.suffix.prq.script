@@ -412,9 +412,9 @@
        "[--][+NEG]" : "@EP"[{hi}]
       ];
       
-      define V=S=real [
-       "[--][+real]" : "@EP"[{a}]
-      ];
+!      define V=S=real [
+!       "[--][+real]" : "@EP"[{a}]
+!      ];
       
       define V=S=RELIRR [
        "[--][+REL.IRR]" : "@EP"[{ni}]
