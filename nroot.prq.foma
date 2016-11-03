@@ -85,6 +85,7 @@ define NRootPRQin [
 ! 
 | "[=chee+m.+inal.][NRoot][=horn, thorn]" : {chee}
 | "[=chii+m.+inal.][NRoot][=horn, thorn]" : {chii}
+| "[=tsee+m.+inal.][NRoot][=horn, thorn]" : {tsee}
 ! 
 | "[=chekopi][NRoot][=arrow]" : {chekopi}
 | "[=chikopi][NRoot][=arrow]" : {chikopi}
@@ -407,7 +408,8 @@ define NRootPRQin [
 | "[=kovitzi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovitzi}
 | "[=kovi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovi}
 ! 
-| "[=kotsiro][NRoot][=machete]" : {kotsiro}
+| "[=kotsiro][NRoot][=machete, knife]" : {kotsiro}
+! 
 | "[=machaki][NRoot][=beans]" : {machaki}
 | "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
 | "[=maini][NRoot][=bear]" : {maini}

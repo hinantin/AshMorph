@@ -6,16 +6,21 @@ define PrnPersPRQin [
 ! SET 3: +cntr.exh.l. (contrastive exhaustive listing)
 ! SET 4: +cntr.d.top. (contrastive discourse topic)
 ! +cntr.cnt.assert.top. (contrastive counter assertive topic)
-! 
+! -------------------------------------------------------------------
   "[=naaka+cont.d.top.][PrnPers][+1SG][=I]" : {naaka}
+| "[=naka+cont.d.top.][PrnPers][+1SG][=I]" : {naka}
+! 
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro} ! to be checked
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
+| "[=eroka][PrnPers][+2SG][=you]" : {eroka}
 !
 | "[=iri+cont.d.top.][PrnPers][+3SG.m.]" : {iri}
 | "[=iriro+cont.d.top.][PrnPers][+3SG.m.]" : {iriro}
 | "[=irio+cont.d.top.][PrnPers][+3SG.m.]" : {irio}
 ! 
 | "[=iroo+cont.d.top.][PrnPers][+3SG.n.m.]" : {iroo}
+! 
+| "[=hirova][PrnPers][+3SG][=it (animal.or.object)]" : {hirova}
 ! 
 | "[=aaka][PrnPers][+1PL][=we]" : {aaka} 
 | "[=aro][PrnPers][+1PL][=we]" : {aro} 
