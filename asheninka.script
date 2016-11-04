@@ -236,6 +236,8 @@
         define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
       define Noun [ (NPref) [NRootPRQ] (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
+      define NominalizedVerb [ (NPref) [VRootPRQ] V=S=NMZ NSuff ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
+      
       ##########################
       #                        #
       #         Adverb         #
@@ -316,7 +318,7 @@
       source punctuation.foma
         define PunctuationMarks Punctuation;
 
-      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|NominalizedVerb|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
 
       save stack asheninka.bin
 

@@ -71,7 +71,6 @@ define S [
  (V=S=APPLINT) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
 ! (V=S=3mposs) (V=S=NMZ) (V=S=LOC) (V=S=DIM) | 
  (V=S=PL) (V=S=PRF) (V=S=REAL) | 
- (V=S=NMZ) (V=S=LOC) (V=S=PL) | 
  (V=S=REAL) (V=S=ADV) | 
  (V=S=REAL) (V=S=REL) (V=S=ADV) | 
  (V=S=DIST) (V=S=REAL) (V=S=REL) (V=S=Q) | 
