@@ -193,12 +193,18 @@
       ];
       
       define V=S=ADJ [
-       "[--][+m.][NMZ][+ADJ]" : "@EP"[{ri}|{re}] | 
+       # ----------------------------------
+       "[--][+m.][NMZ][+ADJ]" : "@EP"[{ri}] | 
+       "[--][+m.][NMZ][+ADJ]" : "@EP"[{re}] | 
+       "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{ro}] | 
+       # ----------------------------------
        "[--][+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] | 
-       "[--][+m.][NMZ][+ADJ]" : "@EP"[{ntzi}|{ntsi}] | 
+       "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] | 
+       # ----------------------------------
+       "[--][+m.][NMZ][+ADJ]" : "@EP"[{ntzi}] | 
+       "[--][+m.][NMZ][+ADJ]" : "@EP"[{ntsi}] | 
        "[--][+m.][NMZ][+ADJ]" : "@EP"[{nti}] | 
-       "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{nto}] | 
-       "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{ro}|{tsinkaro}] 
+       "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{nto}] 
       ];
       
       define V=S=CAUSSOC [

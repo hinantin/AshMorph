@@ -9,7 +9,7 @@ define VRootPRQin [
 | "[=aani][VRoot][=grandpa]" : {aani}
 | "[=aapi][VRoot][=elder]" : {aapi}
 | "[=aavint][VRoot][=to.cure]" : {aavint}
-| "[=airik][VRoot][=to.hang]" : {airik}
+| "[=airik][VRoot][=to.hang; to.snatch]" : {airik}
 ! 
 | "[=ak][VRoot][=to.answer.back]" : {ak}
 ! 
@@ -516,12 +516,10 @@ define VRootPRQin [
 | "[=shitov][VRoot][=to.escape]" : {shitov}
 | "[=shitov][VRoot][=to.grow]" : {shitov}
 | "[=shitzik][VRoot][=to.weave]" : {shitzik}
-| "[=shiy][VRoot][=to.run]" : {shiy}
 ! 
-| "[=shiy][VRoot][=to.be.similar]" : {shiy}
-| "[=shiy][VRoot][=to.be.like]" : {shiy}
+| "[=shiy][VRoot][=to.be.like, to.be.similar, to.resemble]" : {shiy}
 ! 
-| "[=shiy][VRoot][=to.escape]" : {shiy}
+| "[=shiy][VRoot][=to.escape, to.run]" : {shiy}
 | "[=shiya][VRoot][=to.escape]" : {shiya}
 ! 
 | "[=shiyakant][VRoot][=to.think]" : {shiyakant}
@@ -595,6 +593,8 @@ define VRootPRQin [
 | "[=tseenk][VRoot][=to.reduce, to.lessen]" : {tseenk}
 ! 
 | "[=tsika][NRoot][=to.adopt]" : {tsika} 
+! 
+| "[=tsikaa][NRoot][=to.sieve, to.sift.sth.]" : {tsikaa} 
 ! 
 | "[=tsikana][VRoot][=pepper]" : {tsikana}
 | "[=tsint][VRoot][=to.urinate]" : {tsint}

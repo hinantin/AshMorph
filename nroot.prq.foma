@@ -170,10 +170,14 @@ define NRootPRQin [
 | "[=imi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {imi}
 | "[=iimi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {imi}
 ! 
+| "[=iipatsa+inal.][NRoot][=brain; brains]" : {iipatsa}
+| "[=inapatsa+inal.][NRoot][=brain; brains]" : {inapatsa}
+| "[=iinapatsa+inal.][NRoot][=brain; brains]" : {iinapatsa}
+! 
 | "[=heto+m.][NRoot][=spider]" : {heto}
 | "[=hito+m.][NRoot][=spider]" : {hito}
 ! 
-| "[=foot][=iitsi][NRoot]" : {iitsi}
+| "[=iitsi][NRoot][=foot]" : {iitsi}
 ! 
 | "[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impaneki}
 | "[=iNpanaki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impanaki}
