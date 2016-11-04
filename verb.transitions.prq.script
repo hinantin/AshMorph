@@ -97,9 +97,9 @@ define S [
  (V=S=IRR) (V=S=O) (V=S=APPR) | 
  (V=S=REAL) (V=S=EMPH) (V=S=Q) | 
  (V=S=MCAUS) (V=S=REAL) (V=S=PRNO) | 
- (V=S=CAUSAGT) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
- (V=S=CAUSAGT) (V=S=APPL) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=CAUSAGT) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
+ (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
+ (V=S=APPL) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
  (V=S=DUR) (V=S=CAUSSOC) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
  (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPLPRES) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 

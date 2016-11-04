@@ -78,7 +78,7 @@
       ];
       
       define V=S=CAUS [
-       "[--][+CAUS]" : "@EP"[{ak}|{aka}|{v}|{oi}|{ov}|{o}]
+       "[--][+CAUS]" : "@EP"[{ak}|{aka}]
       ];
       
 !      define V=S=ADVP [
@@ -250,9 +250,9 @@
        "[--][+M.CAUS]" : "@EP"[{mi}]
       ];
       
-      define V=S=CAUSAGT [
-       "[--][+CAUS.AGT]" : "@EP"[{v}]
-      ];
+!      define V=S=CAUSAGT [
+!       "[--][+CAUS.AGT]" : "@EP"[{v}]
+!      ];
       
       define V=S=APPLBEN [
        "[--][+APPL.BEN]" : "@EP"[{vent}]
