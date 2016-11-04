@@ -14,7 +14,7 @@ define S [
  (V=S=PRF) (V=S=IRR) (V=S=O) (V=S=PRNO) | 
  (V=S=IRR) (V=S=O) (V=S=PRNO) | 
  (V=S=BEN) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
- (V=S=CAUS) (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) | 
+ (V=S=CAUS) (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADV) | 
  (V=S=IRR) (V=S=ADV) | 
  (V=S=REAL) (V=S=O) (V=S=APPR) | 
