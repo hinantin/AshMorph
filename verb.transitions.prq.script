@@ -45,7 +45,6 @@ define S [
  (V=S=STAT) (V=S=REL) (V=S=Q) | 
  (V=S=PRF) (V=S=REAL) | 
  (V=S=APPL) (V=S=REAL) (V=S=PRNO) | 
- (V=S=ABS) | 
  (V=S=noun) (V=S=NMZ) | 
  (V=S=noun) (V=S=noun) (V=S=DIR) (V=S=REGR) (V=S=REAL) | 
  (V=S=FRUS) (V=S=IRR) (V=S=OPT) | 
@@ -408,7 +407,6 @@ define S [
  (V=S=ICPL) (V=S=before) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
  (V=S=REAL) (V=S=PRNO) (V=S=ADV) | 
  (V=S=APPL) (V=S=REGR) (V=S=REAL) (V=S=PRNO) | 
- (V=S=NMZ) (V=S=ABS) | 
  (V=S=IRR) (V=S=O) | 
  (V=S=ICPL) (V=S=REAL) (V=S=ADV) | 
  (V=S=REP) (V=S=ICPL) (V=S=REAL) | 

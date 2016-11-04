@@ -146,7 +146,7 @@ analyze.file:
 	@cp -R -u -p failures.sorted failures.old.sorted
 	@cat mycorpus.txt | perl $(TOKENIZERPATH)/tokenize.pl | flookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
-	@gedit failures.sorted
+#	@gedit failures.sorted
 
 #analyze.file:
 #	@rm -f mycorpus.txt
