@@ -12,6 +12,7 @@ ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]n
 ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+REAL]a
 ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nka
 ashaninka	[a-][NPers][1PL.poss+][--][=shani+m.][NRoot][=anteater][--][+NMZ]
+ashaninka	[a-][NPers][1PL.poss+][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nka
 ```
 
 For more information
