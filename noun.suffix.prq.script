@@ -113,7 +113,9 @@ define N=S=ABS [
        "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} | 
        "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} | 
        #-----------------------------------------------
-       "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori} 
+       "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori} | 
+       #-----------------------------------------------
+       "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} 
       ];
       
 define N=S=EXCL [
