@@ -81,7 +81,9 @@ define VRootPRQin [
 | "[=arii][VRoot][=to.achieve]" : {arii}
 | "[=aritapaki][VRoot][=to.be.enough]" : {aritapaki}
 | "[=asank][VRoot][=to.smell]" : {asank}
-| "[=ashi][VRoot][=to.have]" : {ashi}
+! 
+| "[=ashi][VRoot][=to.have, to.own]" : {ashi}
+! 
 | "[=ashi][VRoot][=to.enclose]" : {ashi}
 | "[=atai][VRoot][=to.go.up, to.climb]" : {atai}
 | "[=atsik][VRoot][=to.bite]" : {atsik}

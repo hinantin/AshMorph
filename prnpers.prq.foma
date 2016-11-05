@@ -12,7 +12,7 @@ define PrnPersPRQin [
 | "[=naka+cont.d.top.][PrnPers][+1SG][=I]" : {naka}
 | "[=naro+cont.d.top.][PrnPers][+1SG][=I]" : {naro}
 ! 
-| "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro} ! to be checked
+| "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro}
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
 | "[=eroka][PrnPers][+2SG][=you]" : {eroka}
 !
@@ -40,6 +40,7 @@ define PrnPersPRQin [
 # -------------------------------------------------------------------
 | "[=naari+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {naari} ! FOC "I" 
 | "[=narori+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {narori}
+! 
 | "[=avirori+cntr.add.l.+foc.][PrnPers][+2SG][=you]" : {avirori} ! FOC 
 ! 
 | "[=irirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {irirori} ! FOC "He" 
@@ -47,16 +48,23 @@ define PrnPersPRQin [
 ! 
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {iroori} ! FOC 
 | "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {irori} ! FOC 
+!  
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
 # -------------------------------------------------------------------
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG]" : {naakataki} ! FOC 
+| "[=narotake+cntr.exh.l.+foc.][PrnPers][+1SG]" : {narotake}
+! 
 | "[=avirotaki+cntr.exh.l.][PrnPers][+2SG]" : {avirotaki}
+! 
 | "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritaki} ! FOC "that's.why" (set 1)
 | "[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritake} ! FOC "that's.why" (set 1)
+| "[=iriotake][PrnPers][+3SG.m.]" : {iriotake}
+! 
 | "[=irotaki+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why]" : {irotaki} ! FOC "that's.why" 
 | "[=irotake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she]" : {irotake} ! FOC "that's.why" , "she"
+! 
 | "[=arotaki+cntr.exh.l.][PrnPers][+1PL]" : {arotaki}
-| "[=iriotake][PrnPers][+3SG.m.]" : {iriotake}
+| "[=arotake+cntr.exh.l.][PrnPers][+1PL]" : {arotake}
 # -------------------------------------------------------------------
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL]" : {naintsi}
 | "[=aintsi+cntr.d.top.][PrnPers][+1SG.INCL]" : {aintsi}
