@@ -54,7 +54,7 @@
       ];
       
       define V=S=REAL [
-       "[--][+REAL]" : "@EP"[{e}|{ee}|{i}|{a}|{t}|{tzi}] |
+       "[--][+REAL]" : "@EP"[{e}|{ee}|{i}|{a}] |
        "[--][+REAL]" : "@EP"[{ia}|{ya}|{yaa}]
       ];
       
