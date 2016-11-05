@@ -364,7 +364,7 @@ define S [
  (V=S=APPLINT) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
  (V=S=APPLREAS) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REP) (V=S=IRR) (V=S=PRNO) | 
- (V=S=REC) (V=S=PRF) (V=S=APPLREAS) (V=S=HAB) (V=S=REAL) (V=S=REL) (V=S=Q) | 
+ (V=S=RCP) (V=S=PRF) (V=S=APPLREAS) (V=S=HAB) (V=S=REAL) (V=S=REL) (V=S=Q) | 
  (V=S=IRR) (V=S=APPR) | 
  (V=S=APPL) (V=S=IRR) (V=S=PRNO) (V=S=APPR) | 
  (V=S=REGR) (V=S=REAL) (V=S=APPR) | 
@@ -419,8 +419,8 @@ define S [
  (V=S=IMPP) (V=S=REAL) (V=S=O) (V=S=PRNO) | 
 ! (V=S=1SGposs) (V=S=noun) (V=S=poss) | 
  (V=S=HAB) (V=S=REAL) | 
- (V=S=REC) (V=S=PRF) (V=S=REGR) (V=S=IRR) | 
- (V=S=RCP) (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=HAB) (V=S=REAL) (V=S=REL) (V=S=Q) | 
+ (V=S=RCP) (V=S=PRF) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=RCP) (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=HAB) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REGR) (V=S=ICPL) (V=S=IRR) (V=S=EMPH) (V=S=CNTF) | 
  (V=S=APPL) (V=S=DIR) (V=S=REAL) | 
  (V=S=PRF) (V=S=IRR) (V=S=COND) | 

@@ -41,6 +41,8 @@ define NRootPRQin [
 ! 
 | "[=ani+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {ani}
 | "[=anii+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
+| "[=aninko+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aninko} ! to be checked 
+| "[=aniinko+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aniinko} ! to be checked 
 ! cotton
 | "[=ampee][NRoot][=cotton]" : {ampee}
 | "[=ampe][NRoot][=cotton]" : {ampe}
@@ -117,6 +119,9 @@ define NRootPRQin [
 ! 
 | "[=chovankeriki][NRoot][=red.and.black.seed]" : {chovankeriki}
 | "[=chovankiri][NRoot][=huayruro]" : {chovankiri}
+! 
+| "[=eemeeni][NRoot][=brother.in.law (kin.of.a.female)]" : {eemeeni}
+| "[=iimiini][NRoot][=brother.in.law (kin.of.a.female)]" : {iimiini}
 ! 
 | "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
 | "[=enchaniki][NRoot][=child]" : {enchaniki}

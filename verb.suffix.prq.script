@@ -359,10 +359,6 @@
        "[--][+REAL.EMPH]" : "@EP"[{tzitzi}]
       ];
       
-      define V=S=REC [
-       "[--][+REC]" : "@EP"[{av}]
-      ];
-      
 !      define V=S=2S [
 !       "[--][+2S]" : "@EP"[{pi}|{p}]
 !      ];
