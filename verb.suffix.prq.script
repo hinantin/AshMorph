@@ -15,7 +15,7 @@
       ];
       
       define V=S=DIST [
-       "[--][+DIST]" : "@EP"[{ye}|{t}|{yi}]
+       "[--][+DIST]" : "@EP"[{ye}|{yi}]
       ];
       
       define V=S=DIR [
