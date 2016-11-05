@@ -375,10 +375,7 @@ define VRootPRQin [
 ! 
 | "[=oya][VRoot][=to.follow]" : {oya}
 | "[=p][VRoot][=to.give]" : {p}
-| "[=pai][VRoot][=to.be.called]" : {pai}
-| "[=pai][VRoot][=to.call]" : {pai}
-| "[=pait][VRoot][=to.get.white.hair]" : {pait}
-| "[=pait][VRoot][=to.be.called]" : {pait}
+| "[=pai][VRoot][=to.be.called; to.call; to.get.white.hair]" : {pai}
 ! to plant, to sow
 | "[=panki][VRoot][=to.plant, to.sow]" : {panki}
 ! 
