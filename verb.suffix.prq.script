@@ -307,10 +307,6 @@
        "[--][+deceased]" : "@EP"[{ni}]
       ];
       
-      define V=S=INST [
-       "[--][+INST]" : "@EP"[{ant}]
-      ];
-      
       define V=S=smallpart [
        "[--][+small.part]" : "@EP"[{patsa}]
       ];
@@ -357,10 +353,6 @@
       
       define V=S=forawhile [
        "[--][+for.a.while]" : "@EP"[{apaint}]
-      ];
-      
-      define V=S=INS [
-       "[--][+INS]" : "@EP"[{ant}]
       ];
       
       define V=S=REALEMPH [
