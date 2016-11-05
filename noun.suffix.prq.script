@@ -115,8 +115,10 @@ define N=S=ABS [
        #-----------------------------------------------
        "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori} | 
        #-----------------------------------------------
-       "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} 
-       "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
+       "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} | 
+       "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} | 
+       #-----------------------------------------------
+       "[--][-taro][+CL:dual][=dual]" : {taro} 
       ];
       
 define N=S=EXCL [
