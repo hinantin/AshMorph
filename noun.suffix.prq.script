@@ -154,7 +154,9 @@ define N=S=EXCL [
        "[--][+leaf]" : {tsipana}
       ];
       
+      # assert
       define N=S=EMPH [
+       "[--][-kia][+EMPH]" : [{kia}] |
        "[--][-kya][+EMPH]" : [{kya}] |
        "[--][-kea][+EMPH]" : [{kea}] |
        "[--][-ka][+EMPH]" : [{ka}] |
