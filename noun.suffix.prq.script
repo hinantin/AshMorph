@@ -48,78 +48,77 @@ define N=S=ABS [
  "[--][-nti][Gen][+nposs]" : "@NPOSS"[{nti}] 
 ];
       
-      define N=S=CL [
-       "[--][-chaari][=dark water]" : {chaari} | 
-       "[--][-tsapya][=bank, side.of.river]" : {tsapya} | 
-       ! Size related classifier 
-       "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} | 
-       ! ?
-       "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} | 
-       ! Plant-based parts in compounds 
-       "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat]" : {shi} | 
+define N=S=CL [
+  "[--][-chaari][=dark water]" : {chaari} 
+| "[--][-tsapya][=bank, side.of.river]" : {tsapya} 
+! Size related classifier 
+| "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} 
+! ?
+| "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} 
+! Plant-based parts in compounds 
+| "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat]" : {shi} 
+# --------------------------------------------------
+| "[--][-panki][+CL:plank][=plank;to.grow]" : {panki} 
+| "[--][-panke][+CL:plank][=plank;to.grow]" : {panke} 
 
-       "[--][-panki][+CL:plank][=plank;to.grow]" : {panki} | 
-       "[--][-panke][+CL:plank][=plank;to.grow]" : {panke} | 
+| "[--][-tyaki][+CL:flower][=flower]" : {tyaki}  
+| "[--][-teyaki][+CL:flower][=flower]" : {teyaki} 
+| "[--][-teaki][+CL:flower][=flower]" : {teaki} 
+| "[--][-tyaaki][+CL:flower][=flower]" : {tyaaki} 
 
-       "[--][-tyaki][+CL:flower][=flower]" : {tyaki} | 
-       "[--][-teyaki][+CL:flower][=flower]" : {teyaki} | 
-       "[--][-teaki][+CL:flower][=flower]" : {teaki} | 
-       "[--][-tyaaki][+CL:flower][=flower]" : {tyaaki} | 
+| "[--][-teya][+CL:flower][=flower]" : {teya} 
+| "[--][-tiya][+CL:flower][=flower]" : {tiya} 
 
-       "[--][-teya][+CL:flower][=flower]" : {teya} | 
-       "[--][-tiya][+CL:flower][=flower]" : {tiya} | 
+| "[--][-tonki][+CL:long.tree.segment][=long tree segment]" : {tonki} 
+| "[--][-tyonki][+CL:long.tree.segment][=long tree segment]" : {tyonki} 
 
-       "[--][-tonki][+CL:long.tree.segment][=long tree segment]" : {tonki} | 
-       "[--][-tyonki][+CL:long.tree.segment][=long tree segment]" : {tyonki} | 
-
-       "[--][-kota][+CL:piece][=piece]" : {kota} | 
+| "[--][-kota][+CL:piece][=piece]" : {kota} 
        ! .. 
-       "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} | 
-       "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} | 
-       "[--][-to][+CL:tree][=tree,trunk]" : {to} | 
-       "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} | 
-       "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} | 
-       "[--][-na][+CL:long.hollow][=long,hollow]" : {na} | 
-       "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} | 
-       "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} | 
-       "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin]" : {tsa} | 
-       ! .. 
-       "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi} | 
-                                                       ! chakopi 'arrow'
-       "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like, banana]" : {pa} | 
-                                                       ! akapa 'avocado'
-       "[--][-menta][+CL:flat,triangular][=flat,triangular]" : {menta} | 
-                                                       ! inchamenta 'hiding place in the form of a triangle, formed by the tree roots'
-       "[--][-nari][+CL:animal][=animal]" : {nari} | 
-                                                       ! covitzinari 
-       "[--][-moko][+CL:spherical,small][=spherical,small]" : {moko} | 
-       "[--][-ponkitzi][+CL:ground-level.part.of.tree.trunk][=ground-level.part.of.tree.trunk]" : {ponkitzi} | 
-       "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions; simulative]" : {niro} | 
-       "[--][-kona][+CL:curved][=curved]" : {kona} | 
-       "[--][-empeki][+CL:small.branch][=small.branch]" : {empeki} | 
-       "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} | 
-       "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} | 
-       "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} | 
-       "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} | 
-       "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} | 
-       "[--][-vatsa][+CL:mass][=mass]" : {vatsa} | 
-       ! .. 
-       "[--][-nki][+CL:snake][=snake.sp.]" : {nki} | 
-       "[--][-nke][+CL:snake][=snake.sp.]" : {nke} | 
-       #-----------------------------------------------
-       "[--][-ato][+CL:deriving.location.names][=deriving.location.names]" : {ato} | 
-       "[--][-sato][+CL:deriving.location.names][=deriving.location.names]" : {sato} | 
-       #-----------------------------------------------
-       "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} | 
-       "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} | 
-       #-----------------------------------------------
-       "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori} | 
-       #-----------------------------------------------
-       "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} | 
-       "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} | 
-       #-----------------------------------------------
-       "[--][-taro][+CL:dual][=dual]" : {taro} 
-      ];
+| "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} 
+| "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} 
+| "[--][-to][+CL:tree][=tree,trunk]" : {to} 
+| "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} 
+| "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} 
+| "[--][-na][+CL:long.hollow][=long,hollow]" : {na} 
+| "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} 
+| "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} 
+| "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin]" : {tsa} 
+! .. 
+! "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi}  # chakopi 'arrow'
+! "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like, banana]" : {pa} # akapa 'avocado'
+| "[--][-menta][+CL:flat,triangular][=flat,triangular]" : {menta} # inchamenta 'hiding place in the form of a triangle, formed by the tree roots'
+| "[--][-nari][+CL:animal][=animal]" : {nari} # covitzinari 
+| "[--][-moko][+CL:spherical,small][=spherical,small]" : {moko} 
+| "[--][-ponkitzi][+CL:ground-level.part.of.tree.trunk][=ground-level.part.of.tree.trunk]" : {ponkitzi} 
+| "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions; simulative]" : {niro} 
+| "[--][-kona][+CL:curved][=curved]" : {kona} 
+| "[--][-empeki][+CL:small.branch][=small.branch]" : {empeki} 
+| "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} 
+| "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} 
+| "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} 
+
+| "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} 
+| "[--][-chori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {chori} 
+
+| "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} 
+| "[--][-vatsa][+CL:mass][=mass]" : {vatsa} 
+! .. 
+| "[--][-nki][+CL:snake][=snake.sp.]" : {nki} 
+| "[--][-nke][+CL:snake][=snake.sp.]" : {nke} 
+#-----------------------------------------------
+| "[--][-ato][+CL:deriving.location.names][=deriving.location.names]" : {ato} 
+| "[--][-sato][+CL:deriving.location.names][=deriving.location.names]" : {sato} 
+#-----------------------------------------------
+| "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} 
+| "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} 
+#-----------------------------------------------
+| "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori} 
+#-----------------------------------------------
+| "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} 
+| "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
+#-----------------------------------------------
+| "[--][-taro][+CL:dual][=dual]" : {taro} 
+];
       
 define N=S=EXCL [
  "[--][-ve][+EXCL]" : {ve}
