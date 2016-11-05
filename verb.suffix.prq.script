@@ -125,10 +125,11 @@
        "[--][+APPL.REAS]" : "@EP"[{ant}|{anta}]
       ];
       
-      define V=S=CUST [
-       "[--][+CUST]" : "@EP"[{apint}] |
-       "[--][+CUST]" : "@EP"[{ant}] |
-       "[--][+CUST]" : "@EP"[{apinin}]
+      define V=S=HAB [
+       "[--][+HAB_CUST]" : "@EP"[{apin}] |
+       "[--][+HAB_CUST]" : "@EP"[{apiin}] |
+       "[--][+HAB_CUST]" : "@EP"[{apinin}] |
+       "[--][+HAB_CUST]" : "@EP"[{apini}]
       ];
       
       define V=S=IMPP [
@@ -320,12 +321,6 @@
       
       define V=S=small [
        "[--][+small]" : "@EP"[{kapichi}]
-      ];
-      
-      define V=S=HAB [
-       "[--][+HAB]" : "@EP"[{apin}] |
-       "[--][+HAB]" : "@EP"[{apiin}] |
-       "[--][+HAB]" : "@EP"[{apini}]
       ];
       
       define V=S=1SGposs [

@@ -32,12 +32,12 @@ define S [
  (V=S=PROG) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REAL) (V=S=AUG) | 
  (V=S=APPLREAS) (V=S=IRR) (V=S=REL) (V=S=Q) | 
- (V=S=CUST) (V=S=IRR) (V=S=PRNO) | 
- (V=S=CUST) (V=S=IRR) (V=S=REL) (V=S=Q) | 
+ (V=S=HAB) (V=S=IRR) (V=S=PRNO) | 
+ (V=S=HAB) (V=S=IRR) (V=S=REL) (V=S=Q) | 
  (V=S=IRR) (V=S=PRNO) | 
  (V=S=DIR) (V=S=PRF) (V=S=REAL) | 
  (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
- (V=S=IMPP) (V=S=REAL) (V=S=PRNO) | 
+ (V=S=IMPP) (V=S=REAL) (V=S=O) (V=S=PRNO) (V=S=NEG) | 
  (V=S=quickly) (V=S=PRF) (V=S=REAL) | 
  (V=S=ADV) (V=S=EXCL) | 
  (V=S=CAUS) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
@@ -106,7 +106,7 @@ define S [
  (V=S=APPLSEP) (V=S=PROG) (V=S=IRR) (V=S=PRNO) | 
  (V=S=ADJ) (V=S=ADV) | 
  (V=S=APPLINST) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=CUST) (V=S=IRR) | 
+ (V=S=HAB) (V=S=IRR) | 
  (V=S=RCP) (V=S=PRF) (V=S=PROG) (V=S=REAL) | 
  (V=S=PRF) (V=S=REALRFL) | 
  (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) | 
@@ -213,7 +213,7 @@ define S [
  (V=S=APPL) (V=S=ICPL) (V=S=REAL) (V=S=REL) (V=S=Q) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) (V=S=OPT) | 
  (V=S=REP) (V=S=INST) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=CUST) (V=S=DUR) (V=S=REAL) | 
+ (V=S=HAB) (V=S=DUR) (V=S=REAL) | 
  (V=S=REL) (V=S=Q) | 
  (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=REL) (V=S=Q) | 
  (V=S=CAUS) (V=S=DIR) (V=S=REGR) (V=S=REAL) (V=S=PRNO) | 
@@ -484,7 +484,7 @@ define S [
  (V=S=neck) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADV) | 
  (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) | 
  (V=S=DIR) (V=S=IMPP) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) | 
- (V=S=CUST) (V=S=REAL) | 
+ (V=S=HAB) (V=S=REAL) | 
  (V=S=REAL) (V=S=SUB) | 
  (V=S=DUR) (V=S=REAL) (V=S=PRNO) (V=S=NEG) (V=S=ADV) | 
  (V=S=IRR) (V=S=ADV) | 
