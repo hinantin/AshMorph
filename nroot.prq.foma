@@ -479,7 +479,8 @@ define NRootPRQin [
 | "[=morona][NRoot][=hole]" : {morona}
 | "[=morona][NRoot][=cave]" : {morona}
 | "[=motsi][NRoot][=tummy]" : {motsi}
-| "[=motya][NRoot][=stomach]" : {motya}
+! 
+| "[=motya][NRoot][=stomach, belly]" : {motya}
 ! 
 | "[=nampi+n.m.+inal.][NRoot][=village, place, country]" : {nampi}
 ! 
