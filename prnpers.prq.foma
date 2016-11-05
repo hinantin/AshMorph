@@ -2,28 +2,31 @@
 
 define PrnPersPRQin [
 ! SET 1: +cont.d.top. (continuous discourse topic)
-! SET 2: +cntr.add.l. (contrastive additive listing)
-! SET 3: +cntr.exh.l. (contrastive exhaustive listing)
-! SET 4: +cntr.d.top. (contrastive discourse topic)
-! +cntr.cnt.assert.top. (contrastive counter assertive topic)
-! -------------------------------------------------------------------
+! SET 2: +cntr.add.l. (-ri: contrastive additive listing, +focus)
+! SET 3: +cntr.exh.l. (-taki~-take: contrastive exhaustive listing, +focus)
+! SET 4: +cntr.d.top. (-intsi: contrastive discourse topic)
+! +cntr.cnt.assert.top. (-inti: contrastive counter-assertive topic)
+! SET 5: +rflx.intsf. (-sati: reflexing intensifying)
+# -------------------------------------------------------------------
   "[=naaka+cont.d.top.][PrnPers][+1SG][=I]" : {naaka}
 | "[=naka+cont.d.top.][PrnPers][+1SG][=I]" : {naka}
+| "[=naro+cont.d.top.][PrnPers][+1SG][=I]" : {naro}
 ! 
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro} ! to be checked
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
 | "[=eroka][PrnPers][+2SG][=you]" : {eroka}
 !
-| "[=iri+cont.d.top.][PrnPers][+3SG.m.]" : {iri}
+| "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iri}
 | "[=iriro+cont.d.top.][PrnPers][+3SG.m.]" : {iriro}
 | "[=irio+cont.d.top.][PrnPers][+3SG.m.]" : {irio}
 ! 
-| "[=iroo+cont.d.top.][PrnPers][+3SG.n.m.]" : {iroo}
+| "[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it]" : {iro}
+| "[=iroo+cont.d.top.][PrnPers][+3SG.n.m.][=she, it]" : {iroo}
 ! 
 | "[=hirova][PrnPers][+3SG][=it (animal.or.object)]" : {hirova}
 ! 
 | "[=aaka][PrnPers][+1PL][=we]" : {aaka} 
-| "[=aro][PrnPers][+1PL][=we]" : {aro} 
+| "[=aro][PrnPers][+1PL.INCL][=we]" : {aro} 
 ! 
 | "[=aroka+cont.d.top.][PrnPers][+1PL.INCL]" : {aroka}
 | "[=arokaite][PrnPers][+1PL.INCL]" : {arokaite}
@@ -34,8 +37,9 @@ define PrnPersPRQin [
 | "[=iriroite][PrnPers][+3PL.m.EXCL.][=they]" : {iriroite}
 | "[=iririroite][PrnPers][+3PL.m.EXCL.]" : {iririroite}
 | "[=iroite][PrnPers][+3PL.n.m.EXCL][=they]" : {iroite}
-! -------------------------------------------------------------------
+# -------------------------------------------------------------------
 | "[=naari+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {naari} ! FOC "I" 
+| "[=narori+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {narori}
 | "[=avirori+cntr.add.l.+foc.][PrnPers][+2SG][=you]" : {avirori} ! FOC 
 ! 
 | "[=irirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {irirori} ! FOC "He" 
@@ -44,7 +48,7 @@ define PrnPersPRQin [
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {iroori} ! FOC 
 | "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {irori} ! FOC 
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
-! -------------------------------------------------------------------
+# -------------------------------------------------------------------
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG]" : {naakataki} ! FOC 
 | "[=avirotaki+cntr.exh.l.][PrnPers][+2SG]" : {avirotaki}
 | "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritaki} ! FOC "that's.why" (set 1)
@@ -53,7 +57,7 @@ define PrnPersPRQin [
 | "[=irotake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she]" : {irotake} ! FOC "that's.why" , "she"
 | "[=arotaki+cntr.exh.l.][PrnPers][+1PL]" : {arotaki}
 | "[=iriotake][PrnPers][+3SG.m.]" : {iriotake}
-! -------------------------------------------------------------------
+# -------------------------------------------------------------------
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL]" : {naintsi}
 | "[=aintsi+cntr.d.top.][PrnPers][+1SG.INCL]" : {aintsi}
 | "[=avintsi+cntr.d.top.][PrnPers][+2SG]" : {avintsi}
@@ -62,10 +66,12 @@ define PrnPersPRQin [
 | "[=irontsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {irontsi}
 | "[=aronintsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {aronintsi}
 ! 
-| "[=nainti][PrnPers][+1SG][=I]" : {nainti}
-| "[=ainti][PrnPers][+1SG][=I]" : {ainti}
-| "[=avinti][PrnPers][+2SG][=you]" : {avinti}
-| "[=irointi+cnt.assert.][PrnPers][+3SG.n.m.]" : {irointi}
-| "[=irinti+cnt.assert.][PrnPers][+3SG.m.]" : {irinti}
+| "[=nainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {nainti}
+| "[=ainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {ainti}
+| "[=avinti+cntr.cnt.assert.top.][PrnPers][+2SG][=you]" : {avinti}
+| "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.]" : {irointi}
+| "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.]" : {irinti}
+# -------------------------------------------------------------------
+| "[=narosati+rflx.intsf.][PrnPers][+1SG][=me.too]" : {narosati}
 ];
 
