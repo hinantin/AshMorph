@@ -72,6 +72,8 @@ define N=S=CL [
 | "[--][-tonki][+CL:long.tree.segment][=long tree segment]" : {tonki} 
 | "[--][-tyonki][+CL:long.tree.segment][=long tree segment]" : {tyonki} 
 
+| "[--][-pari][+CL:root][=root]" : {pari} 
+
 | "[--][-kota][+CL:piece][=piece]" : {kota} 
        ! .. 
 | "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} 
