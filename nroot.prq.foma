@@ -511,6 +511,8 @@ define NRootPRQin [
 | "[=noonki+m.][NRoot][=boa]" : {noonki}
 | "[=noonke+m.][NRoot][=boa]" : {noonke}
 ! 
+| "[=nonatoto][NRoot][=sister.in.law (kin.of.female)]" : {nonatoto}
+! 
 | "[=ochera][NRoot][=shore]" : {ochera}
 | "[=ocheraa][NRoot][=shore]" : {ocheraa}
 ! 
@@ -520,6 +522,9 @@ define NRootPRQin [
 ! 
 | "[=okitsoki][NRoot][=seed]" : {okitsoki}
 | "[=okitoki][NRoot][=seed]" : {okitoki}
+! 
+| "[=omititsa+n.m.][NRoot][=wavy.summit.of.hill]" : {omititsa}
+| "[=omitzitsa+n.m.][NRoot][=wavy.summit.of.hill]" : {omitzitsa}
 ! 
 | "[=oNkiro+m.][NRoot][=big.mouse]" : {onkiro}
 | "[=oNkicha][NRoot][=small.mouse]" : {onkicha}
