@@ -803,6 +803,8 @@ define NRootPRQin [
 | "[=shimpoki][NRoot][=horsefly]" : {shimpoki}
 ! 
 | "[=shinto+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {shinto}
+| "[=ishinto+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishinto} # nishinto
+| "[=ishintyo+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishintyo} # nishintyo
 ! 
 | "[=shintsipaa+n.m.][NRoot][=raft]" : {shintsipaa}
 | "[=shintzipa+n.m.][NRoot][=raft]" : {shintzipa}
