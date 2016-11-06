@@ -473,6 +473,12 @@ define NRootPRQin [
 ! 
 | "[=meanto][NRoot][=macaw, parrot.sp.]" : {meanto}
 ! 
+| "[=miitsi+m.][NRoot][=cat]" : {miitsi}
+| "[=misho+m.][NRoot][=cat]" : {misho}
+| "[=miisho+m.][NRoot][=cat]" : {miisho}
+| "[=miishito+m.][NRoot][=cat]" : {miishito}
+| "[=miichi+m.][NRoot][=cat]" : {miichi}
+! 
 | "[=metaro][NRoot][=village's.name]" : {metaro}
 | "[=minkori][NRoot][=cloud]" : {minkori}
 ! 
@@ -1033,3 +1039,4 @@ define NRootPRQin [
 ! Nouns with classifiers
 
 ];
+
