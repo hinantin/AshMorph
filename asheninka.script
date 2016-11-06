@@ -200,8 +200,9 @@
                                                                             # apinkatsarite (in our lexicon) -> a@PRONLEN@pinkatsarite -> a@PRONLEN@vinkatsarite -> avinkatsarite 
       define KJLenitionRule1 [ "@PRONLEN@"k (->) "@PRONLEN@"y || _ [{o}|{a}|{e}] ]; 
                                                                             # optional rule: noyokani, ikentsike  
-      define KLenitionRule2 [ "@PRONLEN@"k (->) "@PRONLEN@" || [{o}] _ [{i}] ]; 
+      define KLenitionRule2 [ "@PRONLEN@"k (->) "@PRONLEN@" || [{o}] _ [{i}|{a}] ]; 
                                                                             # nokitzi (in our lexicon) -> no@PRONLEN@kitzi -> no@PRONLEN@itzi -> noitzi
+                                                                            # noanire (in our lexicon) -> no@PRONLEN@kanire -> no@PRONLEN@anire -> noanire
       define KLenitionRule3 [ "@PRONLEN@"k (->) "@PRONLEN@" || [{i}] _ [{i}] ]; 
                                                                             # ikishi (in our lexicon) -> i@PRONLEN@kishi -> i@PRONLEN@ishi -> iishi 
       define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 
