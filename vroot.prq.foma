@@ -181,6 +181,8 @@ define VRootPRQin [
 ! 
 | "[=kavintsa][VRoot][=to.do.good]" : {kavintsa}
 ! 
+| "[=kay][VRoot][=to.thresh]" : {kay}
+! 
 | "[=keario][VRoot][=to.be.factual, to.be.truth]" : {keario}
 ! 
 | "[=keken][VRoot][=to.walk]" : {keken}
@@ -571,7 +573,10 @@ define VRootPRQin [
 | "[=tova][VRoot][=to.cut]" : {tova}
 | "[=tsa][VRoot][=to.tie]" : {tsa}
 | "[=tsak][VRoot][=to.dye]" : {tsak}
-| "[=tsamai][VRoot][=to.cut.grass]" : {tsamai}
+! 
+| "[=tsamai][VRoot][=to.cut.grass, to.clean.a.sown.field.with.a.shovel]" : {tsamai}
+| "[=tsamae][VRoot][=to.cut.grass, to.clean.a.sown.field.with.a.shovel]" : {tsamae}
+! 
 | "[=tsame][VRoot][=come.on]" : {tsame}
 | "[=tsan][VRoot][=to.hang]" : {tsan}
 | "[=tsani][VRoot][=to.prevent]" : {tsani}
