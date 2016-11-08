@@ -88,7 +88,7 @@ define S [
  (V=S=REAL) (V=S=PRNO) | 
  (V=S=PL) (V=S=REAL) (V=S=EXCL) | 
  (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=O) (V=S=PRNO) | 
- (V=S=APPLREAS) (V=S=DIST) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=CAUS) (V=S=APPLREAS) (V=S=DIST) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=IRR) (V=S=CNTF) | 
  (V=S=CAUS) (V=S=APPLREAS) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPLREAS) (V=S=REAL) (V=S=NMZ) | 
