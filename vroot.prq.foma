@@ -355,6 +355,11 @@ define VRootPRQin [
 | "[=nyatsa][VRoot][=to.play]" : {nyatsa}
 ! 
 | "[=nyaavai][VRoot][=to.speak]" : {nyaavai}
+! 
+| "[=nyapinkatsa][VRoot][=to.honor]" : {nyapinkatsa}
+| "[=nyaapinkatsa][VRoot][=to.honor]" : {nyaapinkatsa}
+| "[=neapinkatsa][VRoot][=to.honor]" : {neapinkatsa}
+! 
 | "[=nyashirink][VRoot][=to.annoy]" : {nyashirink}
 | "[=oihamintsat][VRoot][=to.annoy]" : {oihamintsat}
 | "[=okaaki][VRoot][=to.be.close]" : {okaaki}
