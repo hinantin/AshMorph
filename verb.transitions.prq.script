@@ -380,7 +380,8 @@ define S [
  (V=S=ICPL) (V=S=IMPP) (V=S=REAL) (V=S=PRNO) | 
  (V=S=IRR) (V=S=COND) | 
  (V=S=IRR) (V=S=ADV) | 
- (V=S=HAB) (V=S=REAL) (V=S=REL) (V=S=Q) | 
+ (V=S=HAB) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=HAB) (V=S=APPLINST) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPLREAS) (V=S=DIR) (V=S=ICPL) (V=S=IRR) (V=S=REL) (V=S=Q) | 
  (V=S=CAUS) (V=S=PL) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DIR) (V=S=REAL) | 
