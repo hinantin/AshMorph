@@ -997,8 +997,8 @@ define NRootPRQin [
 | "[=tzivana+n.m.][NRoot][=pineapple]" : {tzivana}
 | "[=tivana+n.m.][NRoot][=pineapple]" : {tivana}
 ! salt
-| "[=tzivi][NRoot][=salt]" : {tzivi}
-| "[=tivi][NRoot][=salt]" : {tivi}
+| "[=tzivi+n.m.+poss@ni.][NRoot][=salt]" : {tzivi}
+| "[=tivi+n.m.+poss@ni.][NRoot][=salt]" : {tivi}
 ! 
 | "[=vaanyo][NRoot][=scarf]" : {vaanyo}
 ! name

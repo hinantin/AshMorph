@@ -396,7 +396,7 @@ define S [
  (V=S=AUG) (V=S=APPLREAS) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=AUG) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPLINT) (V=S=DUR) (V=S=REAL) | 
- (V=S=FRUS) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
+ (V=S=FRUS) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DUR) (V=S=REAL) | 
  (V=S=APPLINT) (V=S=IRR) | 
  (V=S=IRR) (V=S=CAUS) (V=S=PRF) (V=S=PRNO) | 
