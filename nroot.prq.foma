@@ -263,6 +263,9 @@ define NRootPRQin [
 | "[=iitzi+n.m.+inal.][NRoot][=foot]" : {iitzi}
 | "[=iiti+n.m.+inal.][NRoot][=foot]" : {iiti}
 ! 
+| "[=iraka][NRoot][=ripe]" : {iraka}
+| "[=irakaa][NRoot][=ripe]" : {irakaa}
+! 
 | "[=ivayetziri][NRoot][=warriors]" : {ivayetziri}
 ! 
 | "[=iye+m.][NRoot][=brother (kin.of.a.male)]" : {iye}
@@ -603,11 +606,13 @@ define NRootPRQin [
 !
 | "[=pareni][NRoot][=river]" : {pareni}
 ! banana tree, plantain
-| "[=parenti][NRoot][=plantain; banana (fruit)]" : {parenti}
-| "[=parentzi][NRoot][=plantain; banana (fruit)]" : {parentzi}
-| "[=payanti][NRoot][=plantain; banana (fruit)]" : {payanti}
-| "[=parianti][NRoot][=plantain; banana (fruit)]" : {parianti}
-| "[=paryantsi][NRoot][=plantain; banana (fruit)]" : {paryantsi}
+| "[=parenti+n.m.][NRoot][=plantain; banana (fruit)]" : {parenti}
+| "[=parentzi+n.m.][NRoot][=plantain; banana (fruit)]" : {parentzi}
+| "[=payanti+n.m.][NRoot][=plantain; banana (fruit)]" : {payanti}
+| "[=payantzi+n.m.][NRoot][=plantain; banana (fruit)]" : {payantzi}
+| "[=parianti+n.m.][NRoot][=plantain; banana (fruit)]" : {parianti}
+| "[=paryantsi+n.m.][NRoot][=plantain; banana (fruit)]" : {paryantsi}
+| "[=paryantZi+n.m.][NRoot][=plantain; banana (fruit)]" : {paryantZi}
 ! 
 | "[=paritsa+n.m.+inal.][NRoot][=tree.root]" : {paritsa} ! pari-tsa root-stem
 | "[=patsa][NRoot][=part]" : {patsa}
