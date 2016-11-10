@@ -120,6 +120,9 @@ define N=S=CL [
 | "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
 #-----------------------------------------------
 | "[--][-taro][+CL:dual][=dual]" : {taro} 
+#-----------------------------------------------
+| "[--][-pooshi][+CL:abandoned][=abandoned]" : {pooshi} 
+| "[--][-poshi][+CL:abandoned][=abandoned]" : {poshi} 
 ];
       
 define N=S=EXCL [
