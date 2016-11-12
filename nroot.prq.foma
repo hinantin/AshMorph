@@ -703,6 +703,9 @@ define NRootPRQin [
 | "[=irinto+n.m.][NRoot][=sister (kin.of.a.female)]" : {irinto}
 ! 
 | "[=riro][NRoot][=watch]" : {riro}
+! 
+| "[=rishi+m.+inal.][NRoot][=tail]" : {rishi} ! to be checked 
+! 
 | "[=saari+m.][NRoot][=opossum]" : {saari}
 | "[=saimpiki][NRoot][=firewood, dry.twigs]" : {saimpiki}
 | "[=samani][NRoot][=paca]" : {samani}
@@ -1003,7 +1006,9 @@ define NRootPRQin [
 | "[=tziivito][NRoot][=Beetle]" : {tziivito}
 | "[=tzina][NRoot][=pifayo]" : {tzina}
 | "[=tzina][NRoot][=camonilla]" : {tzina}
-| "[=tzinko][NRoot][=tail]" : {tzinko}
+! 
+| "[=tinko+n.m.+inal.][NRoot][=tail]" : {tinko}
+| "[=tzinko+n.m.+inal.][NRoot][=tail]" : {tzinko}
 ! pineapple
 | "[=tzivana+n.m.][NRoot][=pineapple]" : {tzivana}
 | "[=tivana+n.m.][NRoot][=pineapple]" : {tivana}
