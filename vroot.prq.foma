@@ -407,6 +407,7 @@ define VRootPRQin [
 | "[=pavani][VRoot][=to.idolize]" : {pavani}
 ! 
 | "[=per][VRoot][=to.be.idle, to.laze.around; to.bum.around]" : {per}
+| "[=pera][VRoot][=to.be.idle, to.laze.around; to.bum.around]" : {pera}
 ! 
 | "[=pes][VRoot][=to.hack.with.a.machete]" : {pes}
 ! 
@@ -498,7 +499,10 @@ define VRootPRQin [
 | "[=sheva][VRoot][=to.move]" : {sheva}
 | "[=shima][VRoot][=to.fish]" : {shima}
 | "[=shima][VRoot][=to.catch.fish]" : {shima}
+! 
 | "[=shini][VRoot][=to.allow]" : {shini}
+| "[=shine][VRoot][=to.allow]" : {shine}
+! 
 | "[=shinka][VRoot][=to.cry.a.lot]" : {shinka}
 | "[=shinki][VRoot][=to.get.drunk]" : {shinki}
 ! 
