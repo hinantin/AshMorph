@@ -85,17 +85,20 @@
 !       "[--][+ADV.P]" : "@EP"[{ranki}]
 !      ];
       
+# ---------------------------------------------------------------
 # subordinator 
+# adverbializer: subordinating conjunction links a subordinate clause to a main clause, and
+# indicates that the subordinate clause has an "adverbial" or interpropositional relation to the main clause, indicating
+# purpose, condition, time, and location. (SIL) 
 define V=S=ADV [
   "[--][+proximal.loc.][+ADV][=where]" : "@EP"[{ka}] 
 | "[--][+medial.loc.][+ADV][=where]" : "@EP"[{ra}] 
 | "[--][+distal.loc.][+ADV][=where]" : "@EP"[{nta}] 
+# ---------------------------------------------------------------
 | "[--][+fused.t.][+ADV.P]" : "@EP"[{ranki}] 
+# ---------------------------------------------------------------
 | "[--][+during][+ADV]" : "@EP"[{paite}] 
 # ---------------------------------------------------------------
-# adverbializer: subordinating conjunction links a subordinate clause to a main clause, and
-# indicates that the subordinate clause has an "adverbial" or interpropositional relation to the main clause, indicating
-# purpose, condition, time, and location. (SIL) 
 | "[--][AS][+ADV]" : "@EP"[{ni}] 
 | "[--][AS][+ADV]" : "@EP"[{ini}] 
 ];
