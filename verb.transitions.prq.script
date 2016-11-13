@@ -499,8 +499,7 @@ define S [
  (V=S=DEXT) (V=S=STAT) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DIST) (V=S=REAL) (V=S=O) (V=S=NEG) | 
  (V=S=DIST) (V=S=IRR) (V=S=O) (V=S=NEG) | 
- (V=S=REV) (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=REV) (V=S=PRF) (V=S=IRR) (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=REV) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=POSN) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REV) (V=S=STAT) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REV) (V=S=APPL) (V=S=APPLBEN) (V=S=PL) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
