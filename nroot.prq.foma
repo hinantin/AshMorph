@@ -91,7 +91,9 @@ define NRootPRQin [
 ! 
 | "[=chekopi][NRoot][=arrow]" : {chekopi}
 | "[=chikopi][NRoot][=arrow]" : {chikopi}
-| "[=chapinki][NRoot][=the.other.day]" : {chapinki}
+! 
+| "[=chapinki][NRoot][=the.other.day, yesterday]" : {chapinki}
+! 
 ! grandpa, grandfather, grandparents
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine}
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine}
