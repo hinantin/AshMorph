@@ -188,6 +188,8 @@ define VRootPRQin [
 ! word set:
 | "[=katsit][VRoot][=to.be.in.pain]" : {katsit}
 | "[=katsit][VRoot][=to.feel.pain]" : {katsit}
+! 
+| "[=katsova][VRoot][=to.drip, to.leak.from.roof]" : {katsova}
 ! word set:
 | "[=katziy][VRoot][=to.stand]" : {katziy}
 | "[=katziy][VRoot][=to.stand.guard]" : {katziy}
