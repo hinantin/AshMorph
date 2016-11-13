@@ -4,6 +4,7 @@ define NegPRQin [
 | "[=eero][Neg][=NEG.IRR]" : {eero}
 | "[=eiro][Neg][=NEG.IRR]" : {eiro}
 | "[=ero][Neg][=NEG.IRR]" : {ero}
+| "[=iiro+past.neg.][Neg][=NEG.IRR]" : {iiro}
 # contional negative irrealis 
 | "[=airorika][Neg][=NEG.IRR.COND]" : {airorika}
 | "[=eerorika][Neg][=NEG.IRR.COND]" : {eerorika}
@@ -15,6 +16,7 @@ define NegPRQin [
 | "[=kaari][Neg][=NEG.P]" : {kaari}
 | "[=taan][Neg][=NEG.W]" : {taan}
 # negative realis 
+| "[=ti+future.neg.][Neg][=NEG/.REAL]" : {ti}
 | "[=te][Neg][=NEG/.REAL]" : {te}
 | "[=tee][Neg][=NEG.REAL]" : {tee}
 # conditional negative realis
