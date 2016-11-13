@@ -4,8 +4,10 @@ define AdvRootPRQin [
 | "[=apaatatziro][AdvRoot][=later]" : {apaatatziro}
 | "[=aparohatzini][AdvRoot][=once]" : {aparohatzini}
 | "[=aparohatzini][AdvRoot][=one.day]" : {aparohatzini}
-| "[=chapinki][AdvRoot][=the.other.day]" : {chapinki}
+! 
+| "[=chapinki][AdvRoot][=the.other.day, yesterday]" : {chapinki}
 | "[=chapinkiranki][AdvRoot][=the.other.day]" : {chapinkiranki}
+! 
 | "[=ikanta][AdvRoot][=CONN]" : {ikanta}
 | "[=ikanta][AdvRoot][=meanwhile]" : {ikanta}
 | "[=ikanta][AdvRoot][=meanwhile]" : {ikantya}
