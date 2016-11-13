@@ -104,6 +104,9 @@ define NRootPRQin [
 ! 
 | "[=chevo+inal.][NRoot][=branch]" : {chevo}
 ! 
+| "[=choeni+n.m.][NRoot][=sister (kin.of.a.male)]" : {choeni}
+| "[=choini+n.m.][NRoot][=sister (kin.of.a.male)]" : {choini}
+! 
 | "[=chokari+m.][NRoot][=red.bird.sp.]" : {chokari}
 ! 
 | "[=chochoki][NRoot][=sweet.fruit]" : {chochoki}
@@ -668,7 +671,9 @@ define NRootPRQin [
 ! 
 | "[=pitsi+m.][NRoot][=beehive]" : {pitsi}
 ! 
-| "[=pitsiro][NRoot][=sister (kin.of.a.male)]" : {pitsiro}
+| "[=tsio][NRoot][=sister (kin.of.a.male)]" : {tsio}
+| "[=tsiro][NRoot][=sister (kin.of.a.male)]" : {tsiro}
+! 
 | "[=pitsitsari][NRoot][=clay]" : {pitsitsari}
 ! 
 | "[=piviro+m.][NRoot][=toad.sp.]" : {piviro}
