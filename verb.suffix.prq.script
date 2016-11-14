@@ -424,7 +424,7 @@ define V=S=ADV [
       
       ! desirable extremal 
       define V=S=DEXT [
-       "[--][+DEXT]" : "@EP"[{asano}]
+       "[--][+degree][+DEXT]" : "@EP"[{asano}]
       ];
       
       ! position
@@ -438,6 +438,11 @@ define V=S=S [
   "[--][+sensory][+S]" : "@EP"[{nin}] 
 | "[--][+sensory][+S]" : "@EP"[{nen}] 
 | "[--][+sensory][+S]" : "@EP"[{neen}] 
+];
+      
+! referencial applicative 
+define V=S=APPLREF [
+  "[--][+APPL.REF]" : "@EP"[{imen}] 
 ];
       
 
