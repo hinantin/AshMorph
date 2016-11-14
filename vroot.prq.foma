@@ -166,12 +166,16 @@ define VRootPRQin [
 | "[=kamet][VRoot][=to.plead]" : {kamet}
 | "[=kamitant][VRoot][=to.buy]" : {kamitant}
 | "[=kampitant][VRoot][=to.buy]" : {kampitant}
+! 
 | "[=kant][VRoot][=to.say]" : {kant}
+| "[=kãt][VRoot][=to.say]" : {kãt}
+! 
 | "[=kant][VRoot][=to.do]" : {kant}
 | "[=kant][VRoot][=to.happen]" : {kant}
 | "[=kant][VRoot][=to.be]" : {kant}
 | "[=kant][VRoot][=to.be.able]" : {kant}
 | "[=kant][VRoot][=to.call]" : {kant}
+! 
 | "[=kantzima][VRoot][=to.speak.badly]" : {kantzima}
 | "[=kantzimanint][VRoot][=to.speak.badly]" : {kantzimanint}
 | "[=kar][VRoot][=to.break]" : {kar}
