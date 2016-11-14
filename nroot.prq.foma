@@ -91,6 +91,7 @@ define NRootPRQin [
 ! 
 | "[=chekopi][NRoot][=arrow]" : {chekopi}
 | "[=chikopi][NRoot][=arrow]" : {chikopi}
+| "[=txekopi][NRoot][=arrow]" : {txekopi}
 ! 
 | "[=chapinki][NRoot][=the.other.day, yesterday]" : {chapinki}
 ! 
@@ -969,6 +970,7 @@ define NRootPRQin [
 | "[=tonkaari][NRoot][=hill.top,above]" : {tonkaari}
 ! 
 | "[=tonki+n.m.+inal.][NRoot][=bone]" : {tonki}
+| "[=tõki+n.m.+inal.][NRoot][=bone]" : {tõki}
 ! 
 | "[=tot][NRoot][=cut]" : {tot}
 ! 
