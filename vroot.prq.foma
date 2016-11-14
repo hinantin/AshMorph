@@ -264,7 +264,9 @@ define VRootPRQin [
 | "[=kitsa][VRoot][=to.dress]" : {kitsa}
 | "[=kitsa][VRoot][=to.catch.fish.with.a.net]" : {kitsa}
 | "[=kityonka][VRoot][=to.be.red]" : {kityonka}
-| "[=kiv][VRoot][=to.wash]" : {kiv}
+! 
+| "[=kiv+redup.][VRoot][=to.wash]" : {kiv}
+! 
 | "[=kivanont][VRoot][=to.wash]" : {kivanont}
 | "[=kivant][VRoot][=to.visit]" : {kivant}
 | "[=kiy][VRoot][=to.dig]" : {kiy}
