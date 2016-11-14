@@ -1,4 +1,11 @@
 define InterjPRQin [
-  "[InterjPRQ][=thanks][=pasonki]" : {pasonki}
+  "[=pasonki][InterjPRQ][=thanks]" : {pasonki}
+| "[=paasonki][InterjPRQ][=thanks]" : {paasonki}
+| "[=paasoonki][InterjPRQ][=thanks]" : {paasoonki}
+| "[=paasoonke][InterjPRQ][=thanks]" : {paasoonke}
+! 
+| "[=ataama][InterjPRQ][=thanks]" : {ataama}
+| "[=atãma][InterjPRQ][=thanks]" : {atãma}
+! 
 | "[InterjPRQ][=EXCL][=ve]" : {ve}
 ];
