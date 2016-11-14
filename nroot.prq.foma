@@ -60,6 +60,9 @@ define NRootPRQin [
 | "[=apa+m.][NRoot][=father (kin.of.a.fe/male)]" : {apa}
 ! 
 | "[=aparo][NRoot][=one]" : {aparo}
+| "[=apani][NRoot][=one]" : {apani}
+| "[=apaani][NRoot][=one]" : {apaani}
+! 
 | "[=aparoni][NRoot][=somebody]" : {aparoni}
 | "[=apiinka][NRoot][=person's.name]" : {apiinka}
 | "[=aporivatsa][NRoot][=thigh]" : {aporivatsa}
@@ -618,6 +621,7 @@ define NRootPRQin [
 | "[=panki][NRoot][=plank, long.narrow.flat.piece.of.wood]" : {panki}
 ! 
 | "[=panko+n.m.+inal.][NRoot][=house]" : {panko}
+| "[=pãko+n.m.+inal.][NRoot][=house]" : {pãko}
 ! 
 | "[=pante+n.m.+inal.][NRoot][=mouth]" : {pante}
 | "[=paante+n.m.+inal.][NRoot][=mouth]" : {paante}
