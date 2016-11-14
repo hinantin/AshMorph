@@ -87,7 +87,7 @@
       
 # ---------------------------------------------------------------
 # subordinator 
-# adverbializer: subordinating conjunction links a subordinate clause to a main clause, and
+# adverbializer: subordinating conjunction that links a subordinate clause to a main clause, and
 # indicates that the subordinate clause has an "adverbial" or interpropositional relation to the main clause, indicating
 # purpose, condition, time, and location. (SIL) 
 define V=S=ADV [
@@ -433,3 +433,11 @@ define V=S=ADV [
        "[--][+in.circles][+POSN]" : "@EP"[{ampe}]
       ];
       
+! sensory
+define V=S=S [
+  "[--][+sensory][+S]" : "@EP"[{nin}] 
+| "[--][+sensory][+S]" : "@EP"[{nen}] 
+| "[--][+sensory][+S]" : "@EP"[{neen}] 
+];
+      
+
