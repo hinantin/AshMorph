@@ -636,13 +636,13 @@ define NRootPRQin [
 !
 | "[=pareni][NRoot][=river]" : {pareni}
 ! banana tree, plantain
-| "[=parenti+n.m.][NRoot][=plantain; banana (fruit)]" : {parenti}
-| "[=parentzi+n.m.][NRoot][=plantain; banana (fruit)]" : {parentzi}
-| "[=payanti+n.m.][NRoot][=plantain; banana (fruit)]" : {payanti}
-| "[=payantzi+n.m.][NRoot][=plantain; banana (fruit)]" : {payantzi}
-| "[=parianti+n.m.][NRoot][=plantain; banana (fruit)]" : {parianti}
-| "[=paryantsi+n.m.][NRoot][=plantain; banana (fruit)]" : {paryantsi}
-| "[=paryantZi+n.m.][NRoot][=plantain; banana (fruit)]" : {paryantZi}
+| "[=parenti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {parenti}
+| "[=parentzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {parentzi}
+| "[=payanti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {payanti}
+| "[=payantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {payantzi}
+| "[=parianti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {parianti}
+| "[=paryantsi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {paryantsi}
+| "[=paryantZi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {paryantZi}
 ! 
 | "[=paritsa+n.m.+inal.][NRoot][=tree.root]" : {paritsa} ! pari-tsa root-stem
 | "[=patsa][NRoot][=part]" : {patsa}
@@ -827,7 +827,7 @@ define NRootPRQin [
 | "[=shetero+n.m.][NRoot][=one-eyed, blind.in.one.eye]" : {shetero}
 ! 
 !| "[=shi][NRoot][=leaf]" : {shi} ! oishi = leaf?
-| "[=shiira][NRoot][=plantain.sp.]" : {shiira}
+| "[=shiira][NRoot][=plantain.sp. (banana.like.fruit.that.needs.cooking)]" : {shiira}
 ! 
 | "[=shima][NRoot][=fish; fish.sp., boquichico]" : {shima}
 ! 
