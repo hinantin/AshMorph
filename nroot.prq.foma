@@ -33,6 +33,11 @@ define NRootPRQin [
 | "[=akopero][NRoot][=wrist]" : {akopero}
 ! anaconda
 | "[=amaaro][NRoot][=anaconda, snake]" : {amaaro}
+! 
+| "[=amatsaere+n.m.+inal.][NRoot][=crown; cap; hat]" : {amatsaere}
+| "[=amatsaire+n.m.+inal.][NRoot][=crown; cap; hat]" : {amatsaire}
+| "[=amatsairi+n.m.+inal.][NRoot][=crown; cap; hat]" : {amatsairi}
+| "[=amatseere+n.m.+inal.][NRoot][=crown; cap; hat]" : {amatseere}
 !
 | "[=amempori+m.][NRoot][=vulture, condor]" : {amempori}
 | "[=amimpori+m.][NRoot][=vulture, condor]" : {amimpori}
@@ -704,6 +709,8 @@ define NRootPRQin [
 ! 
 | "[=pooki+n.m.+inal.][NRoot][=bagasse]" : {pooki}
 ! 
+| "[=porenti][NRoot][=firefly]" : {porenti}
+! 
 | "[=pori+n.m.+inal.][NRoot][=leg; thigh]" : {pori}
 ! 
 | "[=poro][NRoot][=face]" : {poro}
@@ -948,6 +955,7 @@ define NRootPRQin [
 ! 
 | "[=tekatsi][NRoot][=none, empty, zero, null]" : {tekatsi}
 | "[=tekaatsi][NRoot][=none, empty, zero, null]" : {tekaatsi}
+| "[=teekatsi][NRoot][=none, empty, zero, null]" : {teekatsi}
 ! 
 | "[=tete][NRoot][=buttock]" : {tete}
 | "[=tihatsi][NRoot][=weaver]" : {tihatsi}

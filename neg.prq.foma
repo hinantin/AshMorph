@@ -24,4 +24,5 @@ define NegPRQin [
 | "[=teerika][Neg][=NEG.COND]" : {teerika}
 # negative existencial 
 | "[=tekatsi][Neg][=NEG.EXIST]" : {tekatsi}
+| "[=teekatsi][Neg][=NEG.EXIST]" : {teekatsi}
 ];

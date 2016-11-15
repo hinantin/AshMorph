@@ -29,6 +29,10 @@ define VRootPRQin [
 | "[=amatavi][VRoot][=to.deceive]" : {amatavi}
 | "[=amatavits][VRoot][=to.deceive]" : {amatavits}
 ! 
+| "[=amatsae][VRoot][=to.crown.sb.]" : {amatsae}
+| "[=amatsee][VRoot][=to.crown.sb.]" : {amatsee}
+| "[=amatsai][VRoot][=to.crown.sb.]" : {amatsai}
+! 
 | "[=amet][VRoot][=to.be.accustomed]" : {amet}
 | "[=amit][VRoot][=to.be.accustomed]" : {amit}
 ! 
@@ -590,6 +594,7 @@ define VRootPRQin [
 ! there is/are not
 | "[=tekatsi][VRoot][=there.is.not, there.are.not]" : {tekatsi}
 | "[=tekaatsi][VRoot][=there.is.not, there.are.not]" : {tekaatsi}
+| "[=teekatsi][VRoot][=there.is.not, there.are.not]" : {teekatsi}
 ! 
 | "[=tena][VRoot][=to.weigh, to.be.heavy]" : {tena}
 !| "[=tena][VRoot][=to.be.heavy]" : {tena}

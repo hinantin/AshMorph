@@ -65,7 +65,8 @@ define ORootPRQin [
 | "[OtherRoot][=dog][=otsitzi]" : {otsitzi}
 !| "[OtherRoot][=be.strong][=shintsi]" : {shintsi}
 !| "[OtherRoot][=quickly][=shintsini]" : {shintsini}
-| "[OtherRoot][=EXIST][=tekatsi]" : {tekatsi}
+| "[=tekatsi][OtherRoot][=EXIST]" : {tekatsi}
+| "[=teekatsi][OtherRoot][=EXIST]" : {teekatsi}
 ! 
 | "[=tekira][OtherRoot][=yet, not.yet]" : {tekira}
 | "[=tekera][OtherRoot][=yet, not.yet]" : {tekera}
