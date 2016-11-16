@@ -146,6 +146,9 @@ define NRootPRQin [
 ! 
 | "[=eni][NRoot][=river]" : {eni}
 ! 
+| "[=ereki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {ereki}
+| "[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {eereki}
+! 
 | "[=eroti+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {eroti}
 | "[=erotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {erotzi}
 | "[=irotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.]" : {irotzi}
@@ -398,6 +401,8 @@ define NRootPRQin [
 | "[=kitamari+m.][NRoot][=white]" : {kitamari}
 | "[=kitamaari+m.][NRoot][=white]" : {kitamaari}
 | "[=kitamarori][NRoot][=white]" : {kitamarori}
+! 
+| "[=kiteri][NRoot][=yellow]" : {kiteri}
 ! 
 | "[=kitoche+n.m.][NRoot][=thorn]" : {kitoche}
 | "[=kitochee+n.m.][NRoot][=thorn]" : {kitochee}
@@ -937,11 +942,11 @@ define NRootPRQin [
 !
 | "[=tamako][NRoot][=eyebrow]" : {tamako}
 ! wind 
-| "[=tampyaa][NRoot][=wind]" : {tampyaa}
-| "[=tampia][NRoot][=wind]" : {tampia}
-| "[=tampiya][NRoot][=wind]" : {tampiya}
-| "[=tampea][NRoot][=wind]" : {tampea}
-| "[=tampya][NRoot][=wind]" : {tampya}
+| "[=tampyaa+n.m.][NRoot][=wind]" : {tampyaa}
+| "[=tampia+n.m.][NRoot][=wind]" : {tampia}
+| "[=tampiya+n.m.][NRoot][=wind]" : {tampiya}
+| "[=tampea+n.m.][NRoot][=wind]" : {tampea}
+| "[=tampya+n.m.][NRoot][=wind]" : {tampya}
 ! 
 | "[=tantaa][NRoot][=bread]" : {tantaa} !?
 | "[=tantotsi][NRoot][=corral]" : {tantotsi}
