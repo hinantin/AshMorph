@@ -43,16 +43,21 @@
       define NYReplacement [ {ny} (->) {ñ} || _ Vowels ];
       define VowelsWithAccent [ {a} (->) {á}, {e} (->) {é}, {i} (->) {í},{o} (->) {ó}, {u} (->) {ú}];
 
-      define ATildeReplacement [ {an} (->) {ã} || _ [k|t|p] ];
-      define ETildeReplacement [ {en} (->) {ẽ} || _ [k|t|p] ];
-      define ITildeReplacement [ {in} (->) {ĩ} || _ [k|t|p] ];
-      define OTildeReplacement [ {on} (->) {õ} || _ [k|t|p] ];
+      define ATildeReplacement1 [ {an} (->) {ã} || _ [k|t] ];
+      define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
+      define ETildeReplacement1 [ {en} (->) {ẽ} || _ [k|t] ];
+      define ETildeReplacement2 [ {em} (->) {ẽ} || _ [p] ];
+      define ITildeReplacement1 [ {in} (->) {ĩ} || _ [k|t] ];
+      define ITildeReplacement2 [ {im} (->) {ĩ} || _ [p] ];
+      define OTildeReplacement1 [ {on} (->) {õ} || _ [k|t] ];
+      define OTildeReplacement2 [ {om} (->) {õ} || _ [p] ];
+
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement 
 .o. JReplacement1 .o. JReplacement2 
 .o. BReplacement .o. WReplacement 
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
-.o. ATildeReplacement .o. ETildeReplacement .o. ITildeReplacement .o. OTildeReplacement ]; 
+.o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 ]; 
 
       ##########################
       #                        #
