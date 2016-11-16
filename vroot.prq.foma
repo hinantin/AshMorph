@@ -393,11 +393,10 @@ define VRootPRQin [
 | "[=okaaki][VRoot][=to.be.close]" : {okaaki}
 | "[=ontzimatye][VRoot][=to.be.necessary]" : {ontzimatye}
 ! 
-| "[=ook][VRoot][=to.abandon]" : {ook}
-| "[=ook][VRoot][=to.leave]" : {ook}
-| "[=ook][VRoot][=to.throw.away]" : {ook}
-| "[=ook][VRoot][=to.throw]" : {ook}
-| "[=ooka][VRoot][=to.throw.away]" : {ooka}
+| "[=ok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away]" : {ok}
+| "[=ook][VRoot][=to.abandon; to.leave; to.throw; to.throw.away]" : {ook}
+| "[=ooka][VRoot][=to.abandon; to.leave; to.throw; to.throw.away]" : {ooka}
+| "[=hok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away]" : {hok}
 ! 
 | "[=ooko][VRoot][=identify]" : {ooko}
 ! 
