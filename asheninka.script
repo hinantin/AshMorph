@@ -43,10 +43,16 @@
       define NYReplacement [ {ny} (->) {ñ} || _ Vowels ];
       define VowelsWithAccent [ {a} (->) {á}, {e} (->) {é}, {i} (->) {í},{o} (->) {ó}, {u} (->) {ú}];
 
+      define ATildeReplacement [ {an} (->) {ã} || _ [k|t|p] ];
+      define ETildeReplacement [ {en} (->) {ẽ} || _ [k|t|p] ];
+      define ITildeReplacement [ {in} (->) {ĩ} || _ [k|t|p] ];
+      define OTildeReplacement [ {on} (->) {õ} || _ [k|t|p] ];
+
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement 
 .o. JReplacement1 .o. JReplacement2 
 .o. BReplacement .o. WReplacement 
-.o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent ];
+.o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
+.o. ATildeReplacement .o. ETildeReplacement .o. ITildeReplacement .o. OTildeReplacement ]; 
 
       ##########################
       #                        #
@@ -68,7 +74,7 @@
       define AEpenthesisRule1 [ "@EP" (->) {a}"@EP" || t _ v ]; 
       define AEpenthesisRule2 [ "@EP" (->) {a}"@EP" || r _ y ]; 
 
-      define AEpenthesisRule3 [ "@EP" (->) {a}"@EP" || s _ r ]; # pinkatsari
+      define AEpenthesisRule3 [ "@EP" (->) {a}"@EP" || s _ [r|v] ]; # pinkatsari
       define AEpenthesisRule4 [ "@EP" (->) {a}"@EP" || k _ m ]; # notoncamento
       define AEpenthesisRule5 [ "@EP" (->) {a}"@EP" || t _ m ]; # itotamento
       define AEpenthesisRule6 [ "@EP" (->) {a}"@EP" || k _ n ]; # notyoonkantsi

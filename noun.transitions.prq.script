@@ -33,6 +33,7 @@ define N [
  (N=S=ABS) (N=S=PL) (N=S=LOC) | 
 ! 
 
+ (N=S=poss) (N=S=deceased) | 
  (N=S=deceased) | 
  (N=S=LOC) (N=S=DEM) | 
  (N=S=leaf) | 
