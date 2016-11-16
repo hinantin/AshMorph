@@ -1109,10 +1109,10 @@ define NRootPRQin [
 | "[=yerito+n.m.+inal.][NRoot][=knee]" : {yerito}
 ! 
 | "[=yompari+m.+inal.][NRoot][=friend]" : {yompari}
-!| "[=yoNpari+m.+inal.][NRoot][=friend]" : {yõpari}
+| "[=yoNpari+m.+inal.][NRoot][=friend]" : {yõpari}
 | "[=iyompari+m.][NRoot][=friend]" : {iyompari} ! possesive form
 | "[=iyompare+m.+inal.][NRoot][=friend]" : {iyompare}
-!| "[=yoNpare+m.+inal.][NRoot][=friend]" : {yõpare}
+| "[=yoNpare+m.+inal.][NRoot][=friend]" : {yõpare}
 | "[=yompare+m.+inal.][NRoot][=friend]" : {yompare}
 ! word set: wisdom
 | "[=yorenka+inal.][NRoot][=wisdom, knowledge]" : {yorenka}
