@@ -670,7 +670,7 @@ define NRootPRQin [
 | "[=payantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {payantzi}
 | "[=parianti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {parianti}
 | "[=paryantsi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {paryantsi}
-| "[=paryantZi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {paryantZi}
+| "[=paryantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {paryantzi}
 ! 
 | "[=paritsa+n.m.+inal.][NRoot][=tree.root]" : {paritsa} ! pari-tsa root-stem
 | "[=patsa][NRoot][=part]" : {patsa}
@@ -852,6 +852,7 @@ define NRootPRQin [
 | "[=shetene][NRoot][=afternoon]" : {shetene}
 | "[=sheteni][NRoot][=afternoon]" : {sheteni}
 | "[=sheteni][NRoot][=day]" : {sheteni}
+| "[=sheeteni][NRoot][=day]" : {sheeteni}
 ! 
 | "[=sheteri+m.][NRoot][=one-eyed, blind.in.one.eye]" : {sheteri}
 | "[=shetero+n.m.][NRoot][=one-eyed, blind.in.one.eye]" : {shetero}
