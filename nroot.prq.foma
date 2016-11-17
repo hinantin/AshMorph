@@ -199,9 +199,10 @@ define NRootPRQin [
 | "[=hompo+inal.][NRoot][=tumor]" : {hompo}
 ! 
 | "[=ime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {ime}
-| "[=iime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {ime}
+| "[=iime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {iime}
 | "[=imi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {imi}
-| "[=iimi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {imi}
+| "[=iimi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {iimi}
+| "[=emi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {emi}
 ! 
 | "[=iipatsa+inal.][NRoot][=brain; brains]" : {iipatsa}
 | "[=inapatsa+inal.][NRoot][=brain; brains]" : {inapatsa}

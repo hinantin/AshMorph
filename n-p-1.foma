@@ -2,6 +2,7 @@
 
 define N=P=1 [
   "[no-][NPers][1SG.poss+][--]" : {no}"@PRONLEN@"
+| "[nõ-][NPers][1SG.poss+][--]" : {nõ}"@PRONLEN@"
 | "[n-][NPers][1SG.poss+][--]" : {n}"@PRONLEN@"
 !| "[Ø-][NPers][1SG.poss+][--]" : "@PRONLEN@"
 | "[p-][NPers][2poss+][--]" : {p}"@PRONLEN@"
@@ -15,6 +16,7 @@ define N=P=1 [
 | "[r-][NPers][3m.poss+][--]" : {r}"@PRONLEN@" # rotsitsite -> his dog
 | "[ro-][NPers][3m.poss+][--]" : {ro}"@PRONLEN@" # robaneki -> en su chacra (de él)
 | "[o-][NPers][3n.m.poss+][--]" : {o}"@PRONLEN@"
+| "[õ-][NPers][3n.m.poss+][--]" : {õ}"@PRONLEN@"
 !| "[Ø=][NPers][3n.m.poss+][--]" : "@PRONLEN@"
 | "[a-][NPers][1PL.poss+][--]" : {a}"@PRONLEN@"
 !| "[Ø-][NPers][1PL.poss+][--]" : "@PRONLEN@"
