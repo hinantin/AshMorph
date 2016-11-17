@@ -417,7 +417,8 @@ define VRootPRQin [
 | "[=ooy][VRoot][=to.wait]" : {ooy}
 | "[=ooya][VRoot][=to.expect]" : {ooya}
 | "[=ooya][VRoot][=to.wait]" : {ooya}
-| "[=ov][VRoot][=to.eat]" : [{ov}|{oy}]
+| "[=ov][VRoot][=to.eat]" : {ov}
+| "[=oy][VRoot][=to.eat]" : {oy}
 | "[=ovayeri][VRoot][=to.fight]" : {ovayeri}
 ! 
 | "[=otey][VRoot][=to.take.sth., to.catch.sth.]" : {otey}
