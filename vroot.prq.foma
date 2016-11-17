@@ -714,7 +714,10 @@ define VRootPRQin [
 | "[=v][VRoot][=to.put]" : {v}
 | "[=v][VRoot][=to.place]" : {v}
 | "[=v][VRoot][=to.kill]" : {v}
-| "[=vashire][VRoot][=to.get.sad]" : {vashire}
+! 
+| "[=vashire][VRoot][=to.get.sad, to.be.sad]" : {vashire}
+| "[=vashiri][VRoot][=to.get.sad, to.be.sad]" : {vashiri}
+! 
 | "[=vatsa][VRoot][=to.get.fat, to.gain.weight]" : {vatsa}
 | "[=vayeri][VRoot][=to.be.warrior]" : {vayeri}
 ! 
