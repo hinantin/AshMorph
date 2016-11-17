@@ -581,6 +581,11 @@ define NRootPRQin [
 | "[=ochera][NRoot][=shore]" : {ochera}
 | "[=ocheraa][NRoot][=shore]" : {ocheraa}
 ! 
+| "[=ohaviki][NRoot][=floor, first.floor]" : {ohaviki}
+| "[=ohaaviki][NRoot][=floor, first.floor]" : {ohaaviki}
+| "[=osaviki][NRoot][=floor, first.floor]" : {osaviki}
+| "[=osaaviki][NRoot][=floor, first.floor]" : {osaaviki}
+! 
 | "[=oisha][NRoot][=lamb, sheep]" : {oisha}
 ! 
 | "[=oki+n.m.+inal.][NRoot][=eye]" : {oki}
