@@ -125,6 +125,9 @@ define N=S=CL [
 | "[--][-pooshi][+CL:abandoned][=abandoned]" : {pooshi} 
 | "[--][-poshi][+CL:abandoned][=abandoned]" : {poshi} 
 | "[--][-po][+CL:abandoned][=abandoned]" : {po} 
+#-----------------------------------------------
+| "[--][-tsara][+CL:fabric][=fabric]" : {tsara} 
+| "[--][-tsaraa][+CL:fabric][=fabric]" : {tsaraa} 
 ];
       
 define N=S=EXCL [

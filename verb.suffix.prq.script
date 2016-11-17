@@ -234,7 +234,7 @@ define V=S=ADV [
       ];
       
       define V=S=APPLINT [
-       "[--][+APPL.INT]" : "@EP"[{ashi}|{shi}|{tz}]
+       "[--][+APPL.INT]" : "@EP"[{ashi}|{shi}]
       ];
       
       define V=S=LOC [

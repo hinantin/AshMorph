@@ -468,6 +468,9 @@ define NRootPRQin [
 ! 
 | "[=kotsiro][NRoot][=machete, knife]" : {kotsiro}
 ! 
+| "[=ma][NRoot][=clothes]" : {ma}
+| "[=maa][NRoot][=clothes]" : {maa}
+! 
 | "[=machaki][NRoot][=beans]" : {machaki}
 | "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
 | "[=maini][NRoot][=bear]" : {maini}
@@ -491,6 +494,10 @@ define NRootPRQin [
 | "[=maanki+m.][NRoot][=snake, serpent]" : {maanki}
 | "[=maanke+m.][NRoot][=snake, serpent]" : {maanke}
 | "[=maranke+m.][NRoot][=snake, serpent]" : {maranke}
+! 
+| "[=mare+n.m.+inal.][NRoot][=wristband]" : {mare}
+| "[=omare+n.m.+inal.][NRoot][=wristband]" : {omare}
+| "[=mari+n.m.+inal.][NRoot][=wristband]" : {mari}
 ! 
 | "[=mantsaki+inal.][NRoot][=cushma]" : {mantsaki}
 ! 
