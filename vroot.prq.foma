@@ -70,7 +70,7 @@ define VRootPRQin [
 | "[=antava][VRoot][=to.ripen]" : {antava}
 ! 
 | "[=antant][VRoot][=to.fight]" : {antant}
-| "[=any][VRoot][=to.live]" : {any}
+! 
 | "[=apaata][VRoot][=to.wait]" : {apaata}
 ! to meet, to gather, to get together
 | "[=apoto][VRoot][=to.gather, to.meet, to.get.together]" : {apoto}
@@ -123,6 +123,7 @@ define VRootPRQin [
 ! 
 | "[=ha][VRoot][=to.go]" : {ha}
 ! 
+| "[=hek][VRoot][=to.live, to.dwell, to.inhabit, to.be]" : {hek}
 | "[=heek][VRoot][=to.live, to.dwell, to.inhabit, to.be]" : {heek}
 ! 
 | "[=heva][VRoot][=to.lead]" : {heva}
