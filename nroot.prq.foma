@@ -146,7 +146,7 @@ define NRootPRQin [
 | "[=iintsi+n./m.][NRoot][=child]" : {iintsi}
 | "[=entsi+n./m.][NRoot][=child]" : {entsi}
 ! 
-| "[=eni][NRoot][=river]" : {eni}
+| "[=Eni][NP][=river (Ene.river)]" : {eni}
 ! 
 | "[=ereki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {ereki}
 | "[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {eereki}
