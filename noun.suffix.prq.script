@@ -128,6 +128,8 @@ define N=S=CL [
 #-----------------------------------------------
 | "[--][-tsara][+CL:fabric][=fabric]" : {tsara} 
 | "[--][-tsaraa][+CL:fabric][=fabric]" : {tsaraa} 
+#-----------------------------------------------
+| "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni} 
 ];
       
 define N=S=EXCL [
