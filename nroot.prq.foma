@@ -487,7 +487,10 @@ define NRootPRQin [
 ! 
 | "[=machaki][NRoot][=beans]" : {machaki}
 | "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
-| "[=maini][NRoot][=bear]" : {maini}
+! 
+| "[=maini+m.][NRoot][=bear.sp.]" : {maini}
+| "[=maeni+m.][NRoot][=bear.sp.]" : {maeni}
+! 
 | "[=makako][NRoot][=macaque]" : {makako}
 ! 
 | "[=mamori+m.][NRoot][=fish.sp., sabalo]" : {mamori}
