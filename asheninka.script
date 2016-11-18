@@ -93,6 +93,7 @@
       define AEpenthesisRule14 [ "@EP" (->) {a}"@EP" || t _ h ]; # y-ant-a-jeí-t-ak-e
       define AEpenthesisRule15 [ "@EP" (->) {a}"@EP" || m _ [h|a] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e
       define AEpenthesisRule16 [ "@EP" (->) {a}"@EP" || y _ [a|y|v] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri
+      define AEpenthesisRule17 [ "@EP" (->) {a}"@EP" || n _ [v] ]; # i-kin-a-bae-t-i 
 
       define TEpenthesisRule1 [ "@EP" (->) {t}"@EP" || i _ i ]; 
       define TEpenthesisRule2 [ "@EP" (->) {t}"@EP" || a _ a ]; 
@@ -123,6 +124,7 @@
 
       define Epenthesis [ AEpenthesisRule1 .o. AEpenthesisRule2 .o. AEpenthesisRule3 .o. AEpenthesisRule4 .o. AEpenthesisRule5 .o. AEpenthesisRule6 
 .o. AEpenthesisRule7 .o. AEpenthesisRule8 .o. AEpenthesisRule9 .o. AEpenthesisRule10 .o. AEpenthesisRule11 .o. AEpenthesisRule12 .o. AEpenthesisRule13 .o. AEpenthesisRule14 .o. AEpenthesisRule15 .o. AEpenthesisRule16 
+.o. AEpenthesisRule17 
 .o. TEpenthesisRule1 .o. TEpenthesisRule2 .o. TEpenthesisRule3 .o. TEpenthesisRule4 .o. TEpenthesisRule5 .o. TEpenthesisRule6 .o. TEpenthesisRule7 .o. TEpenthesisRule8 .o. TEpenthesisRule9 .o. TEpenthesisRule10 .o. TEpenthesisRule11 .o. TEpenthesisRule12 
 .o. TZEpenthesisRule1 .o. TZEpenthesisRule2 .o. TZEpenthesisRule3 .o. TZEpenthesisRule4 
 .o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
