@@ -632,6 +632,11 @@ define VRootPRQin [
 ! 
 | "[=tet][VRoot][=to.fill]" : {tet}
 | "[=tina][VRoot][=to.lift]" : {tina}
+! 
+| "[=tiri][VRoot][=to.rub, to.anoint]" : {tiri}
+| "[=tziri][VRoot][=to.rub, to.anoint]" : {tziri}
+| "[=otziri][VRoot][=to.rub, to.anoint]" : {otziri}
+! 
 | "[=tonk][VRoot][=to.shoot]" : {tonk}
 | "[=tonka][VRoot][=to.ascend]" : {tonka}
 | "[=tot][VRoot][=to.cut]" : {tot}
