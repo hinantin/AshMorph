@@ -155,8 +155,10 @@ define VRootPRQin [
 | "[=kaa][VRoot][=to.pour]" : {kaa}
 | "[=kaa][VRoot][=to.bathe]" : {kaa}
 ! 
-| "[=kacha][VRoot][=io.fish.with.a.line.and.a.hook, to.angle]" : {kacha}
-| "[=kachaa][VRoot][=io.fish.with.a.line.and.a.hook, to.angle]" : {kachaa}
+| "[=kacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle]" : {kacha}
+| "[=kachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle]" : {kachaa}
+| "[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle]" : {akacha}
+| "[=akachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle]" : {akachaa}
 ! 
 | "[=kaem][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)]" : {kaem}
 | "[=kaim][VRoot][=to.call]" : {kaim}
@@ -564,6 +566,7 @@ define VRootPRQin [
 ! 
 | "[=shet][VRoot][=to.clean]" : {shet}
 | "[=sheva][VRoot][=to.move]" : {sheva}
+! 
 | "[=shima][VRoot][=to.fish]" : {shima}
 | "[=shima][VRoot][=to.catch.fish]" : {shima}
 ! 
