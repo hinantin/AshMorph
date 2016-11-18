@@ -318,7 +318,7 @@ define VRootPRQin [
 | "[=koye][VRoot][=to.gather]" : {koye}
 ! 
 | "[=kya][VRoot][=to.carry.load]" : {kya}
-| "[=ma][VRoot][=to.sleep]" : {ma}
+! 
 | "[=machok][VRoot][=to.close.eyes]" : {machok}
 | "[=maisant][VRoot][=to.forget]" : {maisant}
 ! 
@@ -345,7 +345,10 @@ define VRootPRQin [
 ! 
 | "[=matzi][VRoot][=to.cast.spell]" : {matzi}
 | "[=mavoshi][VRoot][=nest]" : {mavoshi}
+! 
+| "[=ma][VRoot][=to.sleep]" : {ma}
 | "[=may][VRoot][=to.sleep]" : {may}
+| "[=maey][VRoot][=to.sleep]" : {maey}
 ! 
 | "[=mi][VRoot][=to.jump]" : {mi}
 ! 
