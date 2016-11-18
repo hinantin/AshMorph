@@ -139,6 +139,7 @@ define VRootPRQin [
 | "[=inchakota][VRoot][=to.split]" : {inchakota}
 | "[=int][VRoot][=to.begin]" : {int}
 | "[=ir][VRoot][=to.cry]" : {ir}
+! 
 | "[=ir][VRoot][=to.drink]" : {ir}
 ! 
 | "[=ira][VRoot][=to.cry]" : {ira}
@@ -276,9 +277,12 @@ define VRootPRQin [
 ! 
 | "[=kita][VRoot][=to.bury]" : {kita}
 ! word set:
-| "[=kitai][VRoot][=to.be.morning]" : {kitai}
-| "[=kitait][VRoot][=to.be.morning]" : {kitait}
-| "[=kitaite][VRoot][=to.be.morning]" : {kitaite}
+| "[=kitai][VRoot][=to.be.morning; to.dawn; to.get.up.early]" : {kitai}
+| "[=kitait][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kitait}
+| "[=kitaite][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kitaite}
+| "[=kitehi][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kitehi}
+| "[=kiteeshe][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kiteeshe}
+| "[=kitiihyi][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kitiihyi}
 ! 
 | "[=kitamarotzi][VRoot][=to.be.white]" : {kitamarotzi}
 | "[=kitsa][VRoot][=to.dress]" : {kitsa}
