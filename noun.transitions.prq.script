@@ -37,7 +37,7 @@ define N [
  (N=S=deceased) | 
  (N=S=LOC) (N=S=DEM) | 
  (N=S=leaf) | 
- (N=S=DIM) | 
+ (N=S=DIM) (N=S=DIM) | 
  (N=S=LOC) (N=S=DEM) | 
  (N=S=DEM) | 
  (N=S=CL) (N=S=DEM) | 

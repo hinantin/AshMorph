@@ -28,10 +28,11 @@ define N=S=PL [
 define N=S=DIM [
   "[--][-patsaini][+small.part.DIM]" : {patsaini} 
 | "[--][-peta][+DIM]" : {peta} 
-| "[--][+DIM]" : {ini} 
-| "[--][+DIM]" : {ni}] 
-| "[--][+DIM]" : {aniki} 
-| "[--][+DIM]" : {niki} 
+| "[--][-ini][+DIM]" : {ini} 
+| "[--][-ni][+DIM]" : {ni}] 
+| "[--][-aniki][+DIM]" : {aniki} 
+| "[--][-aaniki][+DIM]" : {aaniki} 
+| "[--][-niki][+DIM]" : {niki} 
 | "[--][-haniki][+DIM]" : {haniki} 
 ];
       
