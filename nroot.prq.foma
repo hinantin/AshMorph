@@ -647,6 +647,13 @@ define NRootPRQin [
 !
 | "[=osipitari][NRoot][=hospital]" : {osipitari}
 ! 
+| "[=ota][NRoot][=wick (prbly.candle)]" : {ota}
+| "[=otsa][NRoot][=wick (prbly.candle)]" : {otsa}
+! 
+| "[=otamentotsi][NRoot][=lighter, kerosene.lamp, paraffin.lamp]" : {otamentotsi}
+| "[=ootamentotsi][NRoot][=lighter, kerosene.lamp, paraffin.lamp]" : {ootamentotsi}
+| "[=ootametotsi][NRoot][=lighter, kerosene.lamp, paraffin.lamp]" : {ootametotsi}
+! 
 | "[=otapiki][NRoot][=cliff; rugged]" : {otapiki}
 | "[=otaapiki][NRoot][=cliff; rugged]" : {otaapiki}
 ! 

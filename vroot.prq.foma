@@ -442,10 +442,10 @@ define VRootPRQin [
 | "[=ooko][VRoot][=identify]" : {ooko}
 ! 
 | "[=oot][VRoot][=to.light]" : {oot}
-| "[=ooy][VRoot][=to.expect]" : {ooy}
-| "[=ooy][VRoot][=to.wait]" : {ooy}
-| "[=ooya][VRoot][=to.expect]" : {ooya}
-| "[=ooya][VRoot][=to.wait]" : {ooya}
+! 
+| "[=ooy][VRoot][=to.expect, to.wait]" : {ooy}
+| "[=ooya][VRoot][=to.expect, to.wait]" : {ooya}
+! 
 | "[=ov][VRoot][=to.eat]" : {ov}
 | "[=oy][VRoot][=to.eat]" : {oy}
 | "[=ovayeri][VRoot][=to.fight]" : {ovayeri}
