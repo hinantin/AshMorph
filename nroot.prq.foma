@@ -314,9 +314,9 @@ define NRootPRQin [
 | "[=kahai][NRoot][=coffee]" : {kahai}
 | "[=kahankari][NRoot][=perfume]" : {kahankari}
 ! 
-| "[=kamaari+m.][NRoot][=deamon; shaman]" : {kamaari}
-| "[=kamari+m.][NRoot][=deamon; shaman]" : {kamari}
-| "[=kaamari+m.][NRoot][=deamon; shaman]" : {kaamari}
+| "[=kamaari+m.][NRoot][=deamon, evil.spirit; shaman]" : {kamaari}
+| "[=kamari+m.][NRoot][=deamon, evil.spirit; shaman]" : {kamari}
+| "[=kaamari+m.][NRoot][=deamon, evil.spirit; shaman]" : {kaamari}
 | "[=kamaaro][NRoot][=devil]" : {kamaaro}
 ! 
 | "[=kamantsi+n./m.][NRoot][=flu; snot; having.a.cold]" : {kamantsi} ! +n.m. +m. both genders?
