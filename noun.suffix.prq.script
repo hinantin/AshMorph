@@ -29,7 +29,7 @@ define N=S=DIM [
   "[--][-patsaini][+small.part.DIM]" : {patsaini} 
 | "[--][-peta][+DIM]" : {peta} 
 | "[--][-ini][+DIM]" : {ini} 
-| "[--][-ni][+DIM]" : {ni}] 
+| "[--][-ni][+DIM]" : {ni} 
 | "[--][-aniki][+DIM]" : {aniki} 
 | "[--][-aaniki][+DIM]" : {aaniki} 
 | "[--][-niki][+DIM]" : {niki} 
