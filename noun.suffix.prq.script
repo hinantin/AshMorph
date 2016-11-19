@@ -148,9 +148,11 @@ define N=S=EXCL [
 !       "[--][+ADV.T]" : [{ranki}]
 !      ];
       
-      define N=S=ADV [
-       "[--][-paite+during][+ADV]" : [{paite}]
-      ];
+define N=S=ADV [
+  "[--][-paite+during][+ADV]" : [{paite}]
+| "[--][+ADV]" : [{eni}]
+| "[--][+ADV]" : [{ini}]
+];
       
       define N=S=AUG [
        "[--][-ni][+AUG]" : [{ni}] |
@@ -228,3 +230,4 @@ define N=S=EXCL [
        "[--][+UNK1]" : [{rinte}]
       ];
       
+
