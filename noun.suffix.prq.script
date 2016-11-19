@@ -26,10 +26,13 @@ define N=S=PL [
 ];
       
 define N=S=DIM [
- "[--][-patsaini][+small.part.DIM]" : {patsaini} | 
- "[--][-peta][+DIM]" : {peta} | 
- "[--][+DIM]" : [{ini}|{ni}|{aniki}] | 
- "[--][-haniki][+DIM]" : [{haniki}] 
+  "[--][-patsaini][+small.part.DIM]" : {patsaini} 
+| "[--][-peta][+DIM]" : {peta} 
+| "[--][+DIM]" : {ini} 
+| "[--][+DIM]" : {ni}] 
+| "[--][+DIM]" : {aniki} 
+| "[--][+DIM]" : {niki} 
+| "[--][-haniki][+DIM]" : {haniki} 
 ];
       
 define N=S=LOC [
