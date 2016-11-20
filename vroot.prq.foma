@@ -63,7 +63,6 @@ define VRootPRQin [
 | "[=ampitsa][VRoot][=to.be.wrinkled]" : {ampitsa}
 | "[=amponat][VRoot][=to.wrap]" : {amponat}
 | "[=ant][VRoot][=to.beat, to.build, to.do, to.hit, to.make]" : {ant}
-| "[=antai][VRoot][=to.go.up]" : {antai}
 ! 
 | "[=antaki][VRoot][=to.ripen]" : {antaki}
 | "[=antaiki][VRoot][=to.ripen]" : {antaiki}
@@ -99,6 +98,7 @@ define VRootPRQin [
 ! 
 | "[=ashe][VRoot][=to.wet.sth.]" : {ashe}
 ! 
+| "[=antai][VRoot][=to.go.up]" : {antai} ! to be checked maybe irrealis incorporated
 | "[=atae][VRoot][=to.go.up, to.climb]" : {atae}
 | "[=atai][VRoot][=to.go.up, to.climb]" : {atai}
 ! 
