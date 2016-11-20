@@ -174,9 +174,11 @@ define V=S=ADV [
        "[--][+noun]" : "@EP"[{vatsa}|{pori}|{atziri}]
       ];
       
-      define V=S=COND [
-       "[--][+COND]" : "@EP"[{rika}]
-      ];
+define V=S=COND [
+  "[--][+COND]" : "@EP"[{rika}] 
+# This suffix indicates, for good/bad, an action or idea wasn't fulfilled.
+| "[--][+SUBJ]" : "@EP"[{me}] 
+];
       
       define V=S=disheveledhead [
        "[--][+disheveled.head]" : "@EP"[{menkotzi}]
