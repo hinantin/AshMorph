@@ -167,7 +167,7 @@ define VRootPRQin [
 | "[=itamatzi][VRoot][=to.identify.as.a.witch]" : {itamatzi}
 ! 
 | "[=iyaa][VRoot][=to.go]" : {iyaa}
-| "[=oyaa][VRoot][=to.go]" : {oyaa}
+| "[=oyaa][VRoot][=to.go]" : {oyaa} ! to be revised 
 ! 
 | "[=kaa][VRoot][=to.pour]" : {kaa}
 | "[=kaa][VRoot][=to.bathe]" : {kaa}
@@ -478,6 +478,8 @@ define VRootPRQin [
 | "[=ovavihaako][VRoot][=to.rescue, to.save]" : {ovavihaako}
 ! 
 | "[=oya][VRoot][=to.follow]" : {oya}
+| "[=oyaa][VRoot][=to.follow]" : {oyaa}
+! 
 | "[=p][VRoot][=to.give]" : {p}
 | "[=pai][VRoot][=to.be.called; to.call; to.get.white.hair]" : {pai}
 ! to plant, to sow
