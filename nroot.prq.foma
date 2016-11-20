@@ -674,7 +674,9 @@ define NRootPRQin [
 | "[=otsiti+m.+poss@te.][NRoot][=dog]" : {otsiti}
 | "[=otsitsi+m.+poss@te.][NRoot][=dog]" : {otsitsi}
 ! 
-| "[=otzishi][NRoot][=hill]" : {otzishi}
+| "[=otzishi+n.m.][NRoot][=row; hill]" : {otzishi}
+| "[=otishi+n.m.][NRoot][=row; hill]" : {otishi}
+! 
 | "[=ovayeri][NRoot][=guerrilla]" : {ovayeri}
 ! sown field. ova/ovaa ó va/vaa, garden?
 | "[=va+n.m.][NRoot][=sown.field, sown.plot.of.land]" : {va}
