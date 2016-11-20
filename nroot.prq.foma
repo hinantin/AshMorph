@@ -62,9 +62,9 @@ define NRootPRQin [
 ! 
 | "[=antoko][NRoot][=person's.name]" : {antoko}
 ! 
-| "[=antyashipari+m.][NRoot][=elderly.man]" : {antyashipari}
-| "[=antyashiparo+n.m.][NRoot][=elderly.woman]" : {antyashiparo}
-| "[=antyashipavo+n.m.][NRoot][=elderly.woman]" : {antyashipavo}
+| "[=antyashipari+m.][NRoot][=elderly.man, old.man]" : {antyashipari}
+| "[=antyashiparo+n.m.][NRoot][=elderly.woman, old.woman]" : {antyashiparo}
+| "[=antyashipavo+n.m.][NRoot][=elderly.woman, old.woman]" : {antyashipavo}
 ! 
 | "[=apa+m.][NRoot][=father (kin.of.a.fe/male)]" : {apa}
 ! 
