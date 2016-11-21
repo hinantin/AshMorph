@@ -510,7 +510,8 @@ define VRootPRQin [
 ! 
 | "[=pea][VRoot][=to.get.lost; to.lose]" : {pea}
 | "[=pia][VRoot][=to.get.lost; to.lose]" : {pia}
-| "[=pey][VRoot][=to.get.lost; to.lose]" : {pey}
+| "[=pey][VRoot][=to.get.lost; to.lose; to.disappear]" : {pey}
+| "[=piy][VRoot][=to.get.lost; to.lose; to.disappear]" : {piy}
 ! 
 | "[=per][VRoot][=to.be.idle, to.laze.around; to.bum.around]" : {per}
 | "[=pera][VRoot][=to.be.idle, to.laze.around; to.bum.around]" : {pera}
