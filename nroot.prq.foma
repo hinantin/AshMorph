@@ -1196,7 +1196,10 @@ define NRootPRQin [
 | "[=yari+m.][NRoot][=brother (kin.of.a.female)]" : {yari}
 | "[=yaari+m.][NRoot][=brother (kin.of.a.female)]" : {yaari}
 ! 
-| "[=yenka][NRoot][=fat]" : {yenka}
+| "[=yenka+n.m.+inal.][NRoot][=fat]" : {yenka}
+| "[=yeenka+n.m.+inal.][NRoot][=fat]" : {yeenka}
+| "[=yiinka+n.m.+inal.][NRoot][=fat]" : {yiinka}
+! 
 | "[=yempita][NRoot][=ear]" : {yempita}
 ! 
 | "[=yereto+n.m.+inal.][NRoot][=knee]" : {yereto}
