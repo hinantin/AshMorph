@@ -504,6 +504,7 @@ define S [
  (V=S=REV) (V=S=STAT) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REV) (V=S=APPL) (V=S=APPLBEN) (V=S=PL) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPLREF) (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=S) (V=S=NMZ) 
+ (V=S=S) (V=S=NMZ) | 
 ! (V=S=1SGposs) (V=S=DIST) 
+ (V=S=UNK1) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 ];

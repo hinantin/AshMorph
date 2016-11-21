@@ -449,4 +449,9 @@ define V=S=APPLREF [
   "[--][+APPL.REF]" : "@EP"[{imen}] 
 ];
       
+define V=S=UNK1 [
+  "[--][+when][+UNK1]" : "@EP"[{aheempi}] 
+| "[--][+when][+UNK1]" : "@EP"[{ahempi}] 
+];
 
+      
