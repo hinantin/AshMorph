@@ -19,4 +19,6 @@ define WhPRQin [
 | "[=maaroni][IndfPrn][=all, everyone]" : {maaroni}
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
 | "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
+! 
+| "[=hempe][IndfSpecif][=where]" : {hempe}
 ];
