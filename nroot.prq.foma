@@ -600,6 +600,9 @@ define NRootPRQin [
 ! 
 | "[=motya][NRoot][=stomach, belly]" : {motya}
 ! 
+| "[=nana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {nana}
+| "[=naana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {naana}
+! 
 | "[=nampi+n.m.+inal.][NRoot][=village, place, country]" : {nampi}
 ! 
 | "[=navireri][NRoot][=person's.name]" : {navireri}
