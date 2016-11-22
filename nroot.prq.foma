@@ -86,10 +86,10 @@ define NRootPRQin [
 | "[=ashoshi][NRoot][=armadillo]" : {ashoshi}
 | "[=asorina][NRoot][=cheek]" : {asorina}
 ! person, individual, human
-| "[=atzirii+m.][NRoot][=person, individual, human]" : {atziri} ! N@->V
-| "[=atiri+m.][NRoot][=person, individual, human]" : {atiri} ! N@->V
-| "[=atsiri+m.][NRoot][=person, individual, human]" : {atsiri} ! N@->V
-!
+| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V
+| "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V
+| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V
+! 
 | "[=avo+n.m.+inal.][NRoot][=road, trail]" : {avo}
 | "[=ao+n.m.+inal.][NRoot][=road, trail]" : {ao}
 | "[=aa+n.m.+inal.][NRoot][=road, trail]" : {aa}
