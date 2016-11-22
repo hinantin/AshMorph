@@ -300,12 +300,13 @@ define V=S=ADJ [
        "[--][+REAL.RFL]" : "@EP"[{a}]
       ];
       
-      ! opposite, reverse REV/CNTRST 
-      define V=S=REV [
-       "[--][+REV]" : "@EP"[{ry}] | 
-       "[--][+REV]" : "@EP"[{ri}] | 
-       "[--][+REV]" : "@EP"[{re}]
-      ];
+! opposite, reverse REV/CNTRST 
+define V=S=REV [
+  "[--][+REV]" : "@EP"[{ry}] 
+| "[--][+REV]" : "@EP"[{ri}] 
+| "[--][+REV]" : "@EP"[{re}] 
+| "[--][+REV]" : "@EP"[{ree}]
+];
       
       define V=S=DUB [
        "[--][+DUB]" : "@EP"[{ma}] | 

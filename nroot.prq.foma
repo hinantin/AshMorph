@@ -128,8 +128,8 @@ define NRootPRQin [
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
 | "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V
 ! trousers, pants
-| "[=chenko+inal.][NRoot][=trousers, pants]" : {chenko}
-| "[=tsenko+inal.][NRoot][=trousers, pants]" : {tsenko}
+| "[=chenko+inal.][NRoot][=trousers, pants]" : {chenko} ! N@->V
+| "[=tsenko+inal.][NRoot][=trousers, pants]" : {tsenko} ! N@->V
 ! 
 | "[=chera+n.m.+inal.][NRoot][=lip, thick.lip]" : {chera}
 ! 
