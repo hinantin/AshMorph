@@ -833,6 +833,9 @@ define VRootPRQin [
 | "[=eentsi][NRoot][=child]" : {eentsi}
 | "[=shirampari][NRoot][=man]" : {sirampari}
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi}
+# ------------------------------------------
+| "[=moo+n.m.+inal.][NRoot][=hole]" : {moo}
+| "[=moro+n.m.+inal.][NRoot][=hole]" : {moro}
 ! 
 | "[=kaniri][VRoot][=manioc]" : {kaniri}
 | "[=osheki][VRoot][=to.be.much]" : [{osheki}|{osheke}]
