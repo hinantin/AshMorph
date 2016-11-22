@@ -32,13 +32,15 @@
        "[--][+OPT]" : "@EP"[{ta}]
       ];
       
-      define V=S=PL [
-       "[--][Num][+PL]" : "@EP"[{he}] |
-       "[--][Num][+PL]" : "@EP"[{hei}] |
-       "[--][Num][+PL]" : "@EP"[{hee}] |
-       # -ite only appears in nominalized verb structures 
-       "[--][+PL]" : "@EP"[{aiy}] 
-      ];
+define V=S=PL [
+  "[--][Num][+PL]" : "@EP"[{he}] 
+| "[--][Num][+PL]" : "@EP"[{hei}] 
+| "[--][Num][+PL]" : "@EP"[{hee}] 
+# -ite only appears in nominalized verb structures 
+# ---------------------------------------
+| "[--][+PL]" : "@EP"[{aiy}] 
+| "[--][+PL]" : "@EP"[{aey}] 
+];
 
       define V=S=PLcircumfixing [
        "[--][+PL]" : "@EP"[{ni}]
