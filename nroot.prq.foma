@@ -86,9 +86,9 @@ define NRootPRQin [
 | "[=ashoshi][NRoot][=armadillo]" : {ashoshi}
 | "[=asorina][NRoot][=cheek]" : {asorina}
 ! person, individual, human
-| "[=atzirii+m.][NRoot][=person, individual, human]" : {atziri}
-| "[=atiri+m.][NRoot][=person, individual, human]" : {atiri}
-| "[=atsiri+m.][NRoot][=person, individual, human]" : {atsiri}
+| "[=atzirii+m.][NRoot][=person, individual, human]" : {atziri} ! N@->V
+| "[=atiri+m.][NRoot][=person, individual, human]" : {atiri} ! N@->V
+| "[=atsiri+m.][NRoot][=person, individual, human]" : {atsiri} ! N@->V
 !
 | "[=avo+n.m.+inal.][NRoot][=road, trail]" : {avo}
 | "[=ao+n.m.+inal.][NRoot][=road, trail]" : {ao}
@@ -121,9 +121,9 @@ define NRootPRQin [
 | "[=charava][NRoot][=fish.sp. (súngaro)]" : {charava}
 ! 
 ! grandpa, grandfather, grandparents
-| "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine}
-| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine}
-| "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini}
+| "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine} ! N@->V
+| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
+| "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V
 ! trousers, pants
 | "[=chenko+inal.][NRoot][=trousers, pants]" : {chenko}
 | "[=tsenko+inal.][NRoot][=trousers, pants]" : {tsenko}
@@ -159,9 +159,9 @@ define NRootPRQin [
 | "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
 | "[=enchaniki][NRoot][=child]" : {enchaniki}
 ! 
-| "[=eentsi+n./m.][NRoot][=child]" : {eentsi}
-| "[=iintsi+n./m.][NRoot][=child]" : {iintsi}
-| "[=entsi+n./m.][NRoot][=child]" : {entsi}
+| "[=eentsi+n./m.][NRoot][=child]" : {eentsi} ! N@->V
+| "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
+| "[=entsi+n./m.][NRoot][=child]" : {entsi} ! N@->V
 ! 
 | "[=Eni][NP][=river (Ene.river)]" : {eni}
 ! 
@@ -362,7 +362,7 @@ define NRootPRQin [
 ! 
 | "[=kashekari+m.][NRoot][=jaguar; tiger]" : {kashekari}
 ! 
-| "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi}
+| "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
 ! 
 | "[=kashiri+m.][NRoot][=moon; month]" : {kashiri}
 | "[=katari][NRoot][=wild.duck]" : {katari}
@@ -782,7 +782,7 @@ define NRootPRQin [
 ! 
 | "[=pitsi+m.][NRoot][=beehive]" : {pitsi}
 ! 
-| "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare}
+| "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare} ! N@->V
 ! 
 | "[=tsina][NRoot][=palm.tree.sp. (huasaí)]" : {tsina}
 | "[=tsire+n.m.+inal.][NRoot][=palm.tree.sp. (huasaí, chonta)]" : {tsire}
@@ -990,7 +990,7 @@ define NRootPRQin [
 ! 
 | "[=shipatona+n.m.+inal.][NRoot][=beard, moustache]" : {shipatona}
 ! 
-| "[=shirampari+m.][NRoot][=man; male]" : {shirampari}
+| "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
 ! 
 | "[=shiringa][NRoot][=rubber.tree; rubber]" : {shiringa}
 | "[=shirinka][NRoot][=rubber]" : {shirinka}
