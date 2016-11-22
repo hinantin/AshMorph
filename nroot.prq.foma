@@ -118,6 +118,8 @@ define NRootPRQin [
 ! 
 | "[=chapiti][NRoot][=worm.sp.]" : {chapiti}
 ! 
+| "[=charava][NRoot][=fish.sp. (súngaro)]" : {charava}
+! 
 ! grandpa, grandfather, grandparents
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine}
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine}
@@ -779,6 +781,8 @@ define NRootPRQin [
 | "[=pito][NRoot][=canoe]" : {pito}
 ! 
 | "[=pitsi+m.][NRoot][=beehive]" : {pitsi}
+! 
+| "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare}
 ! 
 | "[=tsina][NRoot][=palm.tree.sp. (huasaí)]" : {tsina}
 | "[=tsire+n.m.+inal.][NRoot][=palm.tree.sp. (huasaí, chonta)]" : {tsire}
