@@ -1,0 +1,17 @@
+# -----------------
+# Verbalized nouns
+# -----------------
+define NounToVerbPRQin [
+  "[=atzirii+m.][NRoot][=person, individual, human]" : {atziri} ! N@->V
+| "[=atiri+m.][NRoot][=person, individual, human]" : {atiri} ! N@->V
+| "[=atsiri+m.][NRoot][=person, individual, human]" : {atsiri} ! N@->V
+| "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine} ! N@->V
+| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
+| "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V
+| "[=eentsi+n./m.][NRoot][=child]" : {eentsi} ! N@->V
+| "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
+| "[=entsi+n./m.][NRoot][=child]" : {entsi} ! N@->V
+| "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
+| "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare} ! N@->V
+| "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
+];

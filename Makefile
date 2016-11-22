@@ -2,6 +2,7 @@ DROPBOXPATH=/home/richard/Descargas/RCastroq/dropbox/Dropbox/05_Ashaninca/05_Mor
 TOKENIZERPATH=/home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions
 
 compile:
+	@rm -f n-vroot.prq.foma; cat nroot.prq.foma | perl extractEntries.pl
 	@rm -f asheninka.bin
 	@foma -f asheninka.script
 

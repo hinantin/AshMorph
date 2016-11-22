@@ -180,7 +180,8 @@
 
       source vroot.prq.foma
       source vroot.es.foma
-        define VRootPRQ [VRootPRQin|VRootEsin];
+      source n-vroot.prq.foma 
+        define VRootPRQ [VRootPRQin|VRootEsin|NounToVerbPRQin];
       
 #      define Verb FeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
       define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis ; #.o. FeatRestr;
