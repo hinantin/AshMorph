@@ -42,6 +42,8 @@ define ORootPRQin [
 # iro kantaincha 'but' 
 | "[=iro][ConnRoot][=but]" : {iro}
 | "[=kantaincha][ConnRoot][=but]" : {kantaincha}
+# 
+| "[=kantimaitacha][ConnRoot][=but]" : {kantimaitacha}
 ! 
 | "[OtherRoot][=in.conrast][=iroma]" : {iroma}
 | "[OtherRoot][=CONN][=ironyaaka]" : {ironyaaka}
