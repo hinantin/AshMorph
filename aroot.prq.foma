@@ -5,9 +5,9 @@ define ARootPRQin [
 | "[=antavo+n.m.][AdjRoot][=big]" : {antavo} ! N@->V
 | "[=antaro+n.m.][AdjRoot][=mature]" : {antaro} ! N@->V
 ! 
-| "[=aparoni][AdjRoot][=one]" : {aparoni}
-| "[=apite][AdjRoot][=two]" : {apite}
-| "[=mava][AdjRoot][=three]" : {mava}
+| "[=aparoni][AdjRoot][=one]" : {aparoni} ! N@->V
+| "[=apite][AdjRoot][=two]" : {apite} ! N@->V
+| "[=mava][AdjRoot][=three]" : {mava} ! N@->V
 ! 
 | "[=iyaani][AdjRoot][=small]" : {iyaani}
 ! 

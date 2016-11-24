@@ -22,4 +22,7 @@ define NounToVerbPRQin [
 | "[=antaro+n.m.][AdjRoot][=big]" : {antaro} ! N@->V
 | "[=antavo+n.m.][AdjRoot][=big]" : {antavo} ! N@->V
 | "[=antaro+n.m.][AdjRoot][=mature]" : {antaro} ! N@->V
+| "[=aparoni][AdjRoot][=one]" : {aparoni} ! N@->V
+| "[=apite][AdjRoot][=two]" : {apite} ! N@->V
+| "[=mava][AdjRoot][=three]" : {mava} ! N@->V
 ];
