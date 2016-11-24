@@ -17,4 +17,9 @@ define NounToVerbPRQin [
 | "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare} ! N@->V
 | "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
 | "[=shitamenko+inal.][NRoot][=dais]" : {shitamenko} ! N@->V 
+| "[=antari+m.][AdjRoot][=big]" : {antari} ! N@->V
+| "[=antari+m.][AdjRoot][=mature]" : {antari} ! N@->V
+| "[=antaro+n.m.][AdjRoot][=big]" : {antaro} ! N@->V
+| "[=antavo+n.m.][AdjRoot][=big]" : {antavo} ! N@->V
+| "[=antaro+n.m.][AdjRoot][=mature]" : {antaro} ! N@->V
 ];

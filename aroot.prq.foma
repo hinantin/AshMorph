@@ -1,9 +1,9 @@
 define ARootPRQin [
-  "[=antari+m.][AdjRoot][=big]" : {antari}
-| "[=antari+m.][AdjRoot][=mature]" : {antari}
-| "[=antaro+n.m.][AdjRoot][=big]" : {antaro}
-| "[=antavo+n.m.][AdjRoot][=big]" : {antavo}
-| "[=antaro+n.m.][AdjRoot][=mature]" : {antaro}
+  "[=antari+m.][AdjRoot][=big]" : {antari} ! N@->V
+| "[=antari+m.][AdjRoot][=mature]" : {antari} ! N@->V
+| "[=antaro+n.m.][AdjRoot][=big]" : {antaro} ! N@->V
+| "[=antavo+n.m.][AdjRoot][=big]" : {antavo} ! N@->V
+| "[=antaro+n.m.][AdjRoot][=mature]" : {antaro} ! N@->V
 ! 
 | "[=aparoni][AdjRoot][=one]" : {aparoni}
 | "[=apite][AdjRoot][=two]" : {apite}
