@@ -200,7 +200,7 @@ define V=S=COND [
       
 define V=S=NMZ [
 # ----------------------------------
-| "[--][+NMZ]" : "@EP"[{rontsi}|{vontsi}] 
+  "[--][+NMZ]" : "@EP"[{rontsi}|{vontsi}] 
 | "[--][+NMZ]" : "@EP"[{rintsi}|{rentsi}|{renti}] 
 # ----------------------------------
 | "[--][NMZ][+INF]" : "@EP"[{aantsi}|{antsi}] 
