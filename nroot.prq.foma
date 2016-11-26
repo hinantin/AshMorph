@@ -904,6 +904,9 @@ define NRootPRQin [
 ! 
 | "[=saro+n.m.][NRoot][=grandmother (kin.of.a.fe/male)]" : {saro}
 ! 
+| "[=saro+n.m.][NRoot][=granddaughter]" : {saro}
+| "[=shavo+n.m.][NRoot][=granddaughter]" : {shavo}
+! 
 | "[=saserote][NRoot][=priest]" : {saserote}
 ! 
 | "[=satzi][NRoot][=provenance]" : {satzi}
