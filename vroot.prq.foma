@@ -5,7 +5,9 @@ define VRootPRQin [
 ! 
 | "[=a][VRoot][=to.choose]" : {a}
 | "[=a][VRoot][=to.pick]" : {a}
-| "[=aam][VRoot][=to.watch.out.for]" : {aam}
+! 
+| "[=aam][VRoot][=to.watch.out.for.sth/sb., to.beware.of.sth/sb.]" : {aam}
+! 
 | "[=aani][VRoot][=grandpa]" : {aani}
 | "[=aapi][VRoot][=elder]" : {aapi}
 | "[=aavint][VRoot][=to.cure]" : {aavint}
@@ -275,7 +277,7 @@ define VRootPRQin [
 | "[=kin][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kin}
 | "[=kẽ][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kẽ}
 !
-| "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : ken}
+| "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {ken}
 | "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {kin}
 ! to believe, to think
 | "[=kinkishiri][VRoot][=to.believe, to.think]" : {kinkishiri}
@@ -548,7 +550,7 @@ define VRootPRQin [
 | "[=piink][VRoot][=to.have.a.thing.about.sth., to.disgust, to.put.sb.off.sth.]" : {piink}
 ! 
 ! to respect sb., to honor sb.
-| "[=pinkatsa][VRoot][=to.respect.sth/sb., to.honor.sth/sb]" : {pinkatsa}
+| "[=pinkatsa][VRoot][=to.respect.sth/sb., to.honor.sth/sb.]" : {pinkatsa}
 | "[=pinki][VRoot][=to.drown]" : {pinki}
 | "[=pintsa][VRoot][=to.decide]" : {pintsa}
 | "[=pishi][VRoot][=to.sweep]" : {pishi}
