@@ -275,7 +275,8 @@ define VRootPRQin [
 | "[=kin][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kin}
 | "[=kẽ][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kẽ}
 !
-| "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : [{kin}|{ken}]
+| "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : ken}
+| "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {kin}
 ! to believe, to think
 | "[=kinkishiri][VRoot][=to.believe, to.think]" : {kinkishiri}
 ! 
@@ -344,6 +345,9 @@ define VRootPRQin [
 | "[=koraki][VRoot][=to.approach, to.get.closer]" : {koraki}
 | "[=korake][VRoot][=to.approach, to.get.closer]" : {korake}
 | "[=kovake][VRoot][=to.approach, to.get.closer]" : {kovake}
+| "[=kaaki][VRoot][=to.approach, to.get.closer]" : {kaaki}
+| "[=okaaki][VRoot][=to.approach, to.get.closer]" : {okaaki}
+| "[=okakihi][VRoot][=to.approach, to.get.closer]" : {okakihi}
 ! word set:
 | "[=koshi][VRoot][=to.kidnap]" : {koshi}
 | "[=koshi][VRoot][=to.steal]" : {koshi}
