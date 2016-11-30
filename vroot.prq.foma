@@ -44,8 +44,8 @@ define VRootPRQin [
 ! 
 | "[=amin][VRoot][=to.treat]" : {amin}
 | "[=amin][VRoot][=to.examine]" : {amin}
-| "[=amin][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amin}
-| "[=amen][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amen}
+| "[=amin+redup.][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amin}
+| "[=amen+redup.][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amen}
 ! 
 | "[=amitako][VRoot][=to.help]" : {amitako}
 | "[=anaako][VRoot][=to.win, to.gain]" : {anaako}
