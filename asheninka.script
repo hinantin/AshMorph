@@ -100,7 +100,7 @@
       define TEpenthesisRule3 [ "@EP" (->) {t}"@EP" || e _ a ]; 
       define TEpenthesisRule4 [ "@EP" (->) {t}"@EP" || a _ e ]; 
       define TEpenthesisRule5 [ "@EP" (->) {t}"@EP" || o _ a ]; # Amitakotaantsi
-      define TEpenthesisRule6 [ "@EP" (->) {t}"@EP" || i _ [a|e] ]; # Antabaitantsi
+      define TEpenthesisRule6 [ "@EP" (->) {t}"@EP" || i _ [a|e|y] ]; # Antabaitantsi, i-ñ-a-ashi-t-ya-ro-kia
       define TEpenthesisRule7 [ "@EP" (->) {t}"@EP" || e _ i ]; # Raniwaeti
       define TEpenthesisRule8 [ "@EP" (->) {t}"@EP" || o _ e ]; # aminakotero
       define TEpenthesisRule9 [ "@EP" (->) {t}"@EP" || a _ i ]; # o-kametsa-t-i

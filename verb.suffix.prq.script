@@ -253,10 +253,11 @@ define V=S=ADJ [
        "[--][+N.C.FOC]" : "@EP"[{tya}]
       ];
       
-      define V=S=OFOC [
-       "[--][+O.FOC]" : "@EP"[{kya}] | 
-       "[--][+O.FOC]" : "@EP"[{kea}]
-      ];
+define V=S=OFOC [
+  "[--][+O.FOC]" : "@EP"[{kya}] 
+| "[--][+O.FOC]" : "@EP"[{kia}] 
+| "[--][+O.FOC]" : "@EP"[{kea}] 
+];
       
       define V=S=REP [
        "[--][+REP]" : "@EP"[{a}]
