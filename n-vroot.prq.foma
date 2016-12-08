@@ -13,6 +13,7 @@ define NounToVerbPRQin [
 | "[=eentsi+n./m.][NRoot][=child]" : {eentsi} ! N@->V
 | "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
 | "[=entsi+n./m.][NRoot][=child]" : {entsi} ! N@->V
+| "[=evankari+m.][NRoot][=young.man, adolescent]" : {evankari} ! N@->V
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
 | "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare} ! N@->V
 | "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
