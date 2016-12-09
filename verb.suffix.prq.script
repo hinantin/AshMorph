@@ -106,11 +106,13 @@ define V=S=ADV [
 | "[--][AS][+ADV]" : "@EP"[{eni}] 
 ];
       
-      define V=S=O [
-       "[--][+1O]" : "@EP"[{na}] | 
-       "[--][+2O]" : "@EP"[{mi}|{mpi}] | 
-       "[--][+3O]" : "@EP"[{ni}] 
-      ];
+define V=S=O [
+  "[--][+1O]" : "@EP"[{na}] 
+| "[--][+2O]" : "@EP"[{mi}] 
+| "[--][+2O]" : "@EP"[{mpi}] 
+| "[--][+2O]" : "@EP"[{npi}] 
+| "[--][+3O]" : "@EP"[{ni}] 
+];
       
       define V=S=APPR [
        "[--][+APPR]" : "@EP"[{kari}]
@@ -313,11 +315,12 @@ define V=S=REV [
 | "[--][+REV]" : "@EP"[{ree}]
 ];
       
-      define V=S=DUB [
-       "[--][+DUB]" : "@EP"[{ma}] | 
-       "[--][+DUB]" : "@EP"[{mpa}] | 
-       "[--][+DUB]" : "@EP"[{taima}] 
-      ];
+define V=S=DUB [
+  "[--][+DUB]" : "@EP"[{ma}] 
+| "[--][+DUB]" : "@EP"[{mpa}] 
+| "[--][+DUB]" : "@EP"[{npa}] 
+| "[--][+DUB]" : "@EP"[{taima}] 
+];
       
       define V=S=before [
        "[--][+before]" : "@EP"[{it}]
