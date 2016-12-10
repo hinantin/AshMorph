@@ -250,8 +250,10 @@
       source nroot.prq.foma
       source aroot.prq.foma
       source nroot.es.foma
+#      source nroot.es.freeling.foma
+      
 #      source pronoun.prq.foma
-#        define NRootPRQ [NRootPRQin|ARootPRQin|PronounPRQin|NRootESin];
+#      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootESFreelingin];
         define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
       define Noun [ (NPref) [NRootPRQ] (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
