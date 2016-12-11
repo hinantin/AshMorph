@@ -3,7 +3,7 @@
 # from the Freeling Project http://nlp.lsi.upc.edu/freeling/
 # -----------------------------------------------------------
 
-define NRootESFreelingin [
+define NRootESFreelinginaa [
   "[=a][NCFS000]" : {a}
 | "[=ababa][NCFS000]" : {ababa}
 | "[=ababanes][NCMP000]" : {ababanes}

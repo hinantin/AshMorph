@@ -250,11 +250,21 @@
       source nroot.prq.foma
       source aroot.prq.foma
       source nroot.es.foma
-#      source nroot.es.freeling.foma
+#      source nroot.es.freeling.aa.foma
+#      source nroot.es.freeling.ab.foma
+#      source nroot.es.freeling.ac.foma
+#      source nroot.es.freeling.ad.foma
+#      source nroot.es.freeling.ae.foma
+#      source nroot.es.freeling.af.foma
+#      source nroot.es.freeling.ag.foma
+#      source nroot.es.freeling.ah.foma
+#      source nroot.es.freeling.ai.foma
+#      source nroot.es.freeling.aj.foma
+#      source nroot.es.freeling.ak.foma
       
 #      source pronoun.prq.foma
-#      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootESFreelingin];
-        define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
+#      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootESFreelinginaa|NRootESFreelinginab|NRootESFreelinginac|NRootESFreelinginad|NRootESFreelinginae|NRootESFreelinginaf|NRootESFreelinginag|NRootESFreelinginah|NRootESFreelinginai|NRootESFreelinginaj|NRootESFreelinginak];
+      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
       define Noun [ (NPref) [NRootPRQ] (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
       define NominalizedVerb [ (NPref) [VRootPRQ] [[(V=S=APPLINT) (V=S=DUR)]|[(V=S=APPL)]] (V=S=PRF) [V=S=NMZ|V=S=ADJ] [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; #.o. VowelLoss ;
