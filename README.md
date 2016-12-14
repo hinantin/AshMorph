@@ -15,6 +15,15 @@ ashaninka	[a-][NPers][1PL.poss+][--][=shani+m.][NRoot][=anteater][--][+NMZ]
 ashaninka	[a-][NPers][1PL.poss+][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nka
 ```
 
+How to download
+===============
+
+* Using `wget`
+
+```
+$ wget https://github.com/hinantin/AshaninkaMorph/archive/master.zip 
+```
+
 For more information
 ====================
 
