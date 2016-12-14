@@ -19,9 +19,13 @@ How to download
 ===============
 
 * Using `wget`
-
 ```
 $ wget https://github.com/hinantin/AshaninkaMorph/archive/master.zip 
+```
+
+* Cloning the repository
+```
+$ git clone https://github.com/hinantin/AshaninkaMorph
 ```
 
 For more information
