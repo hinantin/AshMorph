@@ -34,6 +34,8 @@ Software prerequisites
 In order to run AshaninkaMorph (this finite state transducer), you will need either Foma or XFST, the download links for these are provided below:
 
 * Foma: https://bitbucket.org/mhulden/foma/downloads
+In order to run Foma on a Linux OS you will need to install the following packages first: zlib1g-dev, flex, bison, libreadline-dev.
+
 * XFST: http://www.stanford.edu/~laurik/.book2software/
 
 For more information
