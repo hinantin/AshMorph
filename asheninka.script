@@ -250,21 +250,21 @@
       source nroot.prq.foma
       source aroot.prq.foma
       source nroot.es.foma
-#      source nroot.es.freeling.aa.foma
-#      source nroot.es.freeling.ab.foma
-#      source nroot.es.freeling.ac.foma
-#      source nroot.es.freeling.ad.foma
-#      source nroot.es.freeling.ae.foma
-#      source nroot.es.freeling.af.foma
-#      source nroot.es.freeling.ag.foma
-#      source nroot.es.freeling.ah.foma
-#      source nroot.es.freeling.ai.foma
-#      source nroot.es.freeling.aj.foma
-#      source nroot.es.freeling.ak.foma
+      source nroot.es.freeling.00.foma
+      source nroot.es.freeling.01.foma
+      source nroot.es.freeling.02.foma
+      source nroot.es.freeling.03.foma
+      source nroot.es.freeling.04.foma
+      source nroot.es.freeling.05.foma
+      source nroot.es.freeling.06.foma
+      source nroot.es.freeling.07.foma
+      source nroot.es.freeling.08.foma
+      source nroot.es.freeling.09.foma
+      source nroot.es.freeling.10.foma
       
 #      source pronoun.prq.foma
-#      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootESFreelinginaa|NRootESFreelinginab|NRootESFreelinginac|NRootESFreelinginad|NRootESFreelinginae|NRootESFreelinginaf|NRootESFreelinginag|NRootESFreelinginah|NRootESFreelinginai|NRootESFreelinginaj|NRootESFreelinginak];
-      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
+      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootESFreelingin00|NRootESFreelingin01|NRootESFreelingin02|NRootESFreelingin03|NRootESFreelingin04|NRootESFreelingin05|NRootESFreelingin06|NRootESFreelingin07|NRootESFreelingin08|NRootESFreelingin09|NRootESFreelingin10];
+#      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
       define Noun [ (NPref) [NRootPRQ] (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
       define NominalizedVerb [ (NPref) [VRootPRQ] [[(V=S=APPLINT) (V=S=DUR)]|[(V=S=APPL)]] (V=S=PRF) [V=S=NMZ|V=S=ADJ] [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; #.o. VowelLoss ;
