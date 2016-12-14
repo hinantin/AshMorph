@@ -28,6 +28,14 @@ $ wget https://github.com/hinantin/AshaninkaMorph/archive/master.zip
 $ git clone https://github.com/hinantin/AshaninkaMorph
 ```
 
+Software prerequisites
+======================
+
+In order to run AshaninkaMorph (this finite state transducer), you will need either Foma or XFST, the download links for these are below:
+
+* Foma: https://bitbucket.org/mhulden/foma/downloads
+* XFST: http://www.stanford.edu/~laurik/.book2software/
+
 For more information
 ====================
 
