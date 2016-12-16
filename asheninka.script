@@ -250,20 +250,17 @@
       source nroot.prq.foma
       source aroot.prq.foma
       source nroot.es.foma
-#      source nroot.es.freeling.00.foma
-#      source nroot.es.freeling.01.foma
-#      source nroot.es.freeling.02.foma
-#      source nroot.es.freeling.03.foma
-#      source nroot.es.freeling.04.foma
-#      source nroot.es.freeling.05.foma
-#      source nroot.es.freeling.06.foma
-#      source nroot.es.freeling.07.foma
-#      source nroot.es.freeling.08.foma
-#      source nroot.es.freeling.09.foma
-#      source nroot.es.freeling.10.foma
+      source nroot.es.freeling.00.foma
+      define NRootESFreeling00 NRootESFreelingin00 .o. UpperCase; 
+      source nroot.es.freeling.01.foma
+      define NRootESFreeling01 NRootESFreelingin01 .o. UpperCase; 
+      source nroot.es.freeling.02.foma
+      define NRootESFreeling02 NRootESFreelingin02 .o. UpperCase; 
+      source nroot.es.freeling.03.foma
+      define NRootESFreeling03 NRootESFreelingin03 .o. UpperCase; 
       
 #      source pronoun.prq.foma
-#      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootESFreelingin00|NRootESFreelingin01|NRootESFreelingin02|NRootESFreelingin03|NRootESFreelingin04|NRootESFreelingin05|NRootESFreelingin06|NRootESFreelingin07|NRootESFreelingin08|NRootESFreelingin09|NRootESFreelingin10];
+      define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
       define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
       define Noun [ (NPref) [NRootPRQ] (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
@@ -348,8 +345,8 @@
       ##########################
       source punctuation.foma
         define PunctuationMarks Punctuation;
-
-      read regex Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|NominalizedVerb|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|NominalizedVerb|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      read regex Ashaninka .o. NRootESFreelingin;
 
       save stack asheninka.bin
 

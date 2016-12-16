@@ -1,8 +1,12 @@
 split -dl 10000 ~/Downloads/01_Instaladores/freeling/FreeLing-4.0-beta1/data/es/dictionary/entries/MM.nom NRootESFreelingin
+
 ls NRootESFreelingin*
-ls nroot.es.freeling.* | awk '{print "#      source",$0;}'
-ls NRootESFreelingin* | awk '{printf "|%s",$0;}'
+
 a=ak; cat NRootESFreelingin$a | awk -v order="$a" -f freeling.sh > nroot.es.freeling.$a.foma
+
+ls nroot.es.freeling.* | awk '{print "      source\n",$0;}'
+ls NRootESFreelingin* | awk '{printf "|%s",$0;}'
+
 
 ls nroot.es.freeling.* | awk '{print "#      source",$0;}'
 
