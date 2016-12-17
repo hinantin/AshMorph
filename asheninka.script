@@ -250,14 +250,14 @@
       source nroot.prq.foma
       source aroot.prq.foma
       source nroot.es.foma
-      source nroot.es.freeling.00.foma
-      define NRootESFreeling00 NRootESFreelingin00 .o. UpperCase; 
-      source nroot.es.freeling.01.foma
-      define NRootESFreeling01 NRootESFreelingin01 .o. UpperCase; 
-      source nroot.es.freeling.02.foma
-      define NRootESFreeling02 NRootESFreelingin02 .o. UpperCase; 
-      source nroot.es.freeling.03.foma
-      define NRootESFreeling03 NRootESFreelingin03 .o. UpperCase; 
+#      source nroot.es.freeling.00.foma
+#      define NRootESFreeling00 NRootESFreelingin00 .o. UpperCase; 
+#      source nroot.es.freeling.01.foma
+#      define NRootESFreeling01 NRootESFreelingin01 .o. UpperCase; 
+#      source nroot.es.freeling.02.foma
+#      define NRootESFreeling02 NRootESFreelingin02 .o. UpperCase; 
+#      source nroot.es.freeling.03.foma
+#      define NRootESFreeling03 NRootESFreelingin03 .o. UpperCase; 
       
 #      source pronoun.prq.foma
       define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
@@ -346,7 +346,7 @@
       source punctuation.foma
         define PunctuationMarks Punctuation;
       define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|NominalizedVerb|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
-      read regex Ashaninka .o. NRootESFreelingin;
+      read regex Ashaninka;
 
       save stack asheninka.bin
 
