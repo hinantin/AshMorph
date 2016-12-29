@@ -93,7 +93,7 @@
       define AEpenthesisRule14 [ "@EP" (->) {a}"@EP" || t _ h ]; # y-ant-a-jeí-t-ak-e 
       define AEpenthesisRule15 [ "@EP" (->) {a}"@EP" || m _ [h|a|e] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e, am-a-enka-ri 
       define AEpenthesisRule16 [ "@EP" (->) {a}"@EP" || y _ [a|y|v] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri 
-      define AEpenthesisRule17 [ "@EP" (->) {a}"@EP" || n _ [v] ]; # i-kin-a-bae-t-i 
+      define AEpenthesisRule17 [ "@EP" (->) {a}"@EP" || n _ [v|a] ]; # i-kin-a-bae-t-i,  I-kemisan-t-a-jei-t-i-ri
 
       define TEpenthesisRule1 [ "@EP" (->) {t}"@EP" || i _ i ]; 
       define TEpenthesisRule2 [ "@EP" (->) {t}"@EP" || a _ a ]; 
