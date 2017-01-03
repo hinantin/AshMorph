@@ -89,7 +89,7 @@ define N=S=CL [
 | "[--][-na][+CL:long.hollow][=long,hollow]" : {na} 
 | "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} 
 | "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} 
-| "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin]" : {tsa} 
+| "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana]" : {tsa} 
 ! .. 
 | "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi}  # chakopi 'arrow'
 | "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like, banana]" : {pa} # akapa 'avocado'
