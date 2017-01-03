@@ -972,7 +972,7 @@ define NRootPRQin [
 | "[=sheripiari+m.][NRoot][=shaman]" : {sheripiari}
 | "[=sheripiyari+m.][NRoot][=shaman]" : {sheripiyari}
 ! 
-| "[=shetaki][NRoot][=fingernail]" : {shetaki}
+| "[=shetaki+n.m.+inal.][NRoot][=fingernail]" : {shetaki}
 ! afternoon
 | "[=shetene][NRoot][=afternoon]" : {shetene}
 | "[=sheteni][NRoot][=afternoon]" : {sheteni}
@@ -1054,12 +1054,13 @@ define NRootPRQin [
 ! 
 | "[=shichari+m.][NRoot][=worm; ant.sp.]" : {shichari}
 ! 
+| "[=shivahaniki][NRoot][=Peruvian.anchoveta; fish.sp.]" : {shivahaniki}
+! 
 | "[=shivaNki+n.m.+inal.][NRoot][=feather]" : {shivanki}
 ! 
 | "[=shivi][NRoot][=penis]" : {shivi}
 ! 
-| "[=shivitsa][NRoot][=vine.species]" : {shivitsa}
-| "[=shivitsa][NRoot][=rope]" : {shivitsa}
+| "[=shivitsa][NRoot][=rope; liana.fiber; vine.species]" : {shivitsa}
 ! 
 | "[=soles][NRoot][=Peruvian.currency]" : {soles} !?
 ! 
