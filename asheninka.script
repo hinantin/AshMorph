@@ -268,7 +268,7 @@
       define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin];
       define Noun [ (NPref) [NRootPRQ] (NRootCmpPRQ) (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
-      define NominalizedVerb [ (NPref) [VRootPRQ] [[(V=S=APPLINT) (V=S=DUR)]|[(V=S=APPL)]] (V=S=PRF) [V=S=NMZ|V=S=ADJ] (NRootCmpPRQ) [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; #.o. VowelLoss ;
+      define NominalizedVerb [ (NPref) [VRootPRQ] [[(V=S=APPLINT) (V=S=DUR)]|[(V=S=APPL)]|[(V=S=APPLBEN)]] (V=S=PRF) [V=S=NMZ|V=S=ADJ] (NRootCmpPRQ) [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; #.o. VowelLoss ;
       
       ##########################
       #                        #
