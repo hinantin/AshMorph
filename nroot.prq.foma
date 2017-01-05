@@ -809,7 +809,10 @@ define NRootPRQin [
 | "[=pinkatsari+voc.+poss@te.][NRoot][=chief]" : {pinkatsari}
 | "[=pinkatsari+voc.+poss@te.][NRoot][=chief]" : {pinkatsare}
 ! 
-| "[=piratsi][NRoot][=animal]" : {piratsi}
+| "[=pira+m.+inal.][NRoot][=animal; domestic.animal]" : {pira}
+! 
+| "[=piratsi+m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (huangana)]" : {piratsi}
+! 
 | "[=pito][NRoot][=name]" : {pito}
 | "[=pito][NRoot][=canoe]" : {pito}
 ! 
