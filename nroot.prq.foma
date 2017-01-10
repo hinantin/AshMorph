@@ -789,6 +789,8 @@ define NRootPRQin [
 | "[=pampyaaro+n.m.+inal.][NRoot][=bridge]" : {pampyaaro}
 | "[=pampyaavo+n.m.+inal.][NRoot][=bridge]" : {pampyaavo}
 ! 
+| "[=picha+m.][NRoot][=fish.sp. (palometo)]" : {picha}
+! 
 | "[=pini+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.)]" : {pini}
 ! 
 | "[=peranti+m.][NRoot][=idle, lazy]" : {peranti}
@@ -797,9 +799,15 @@ define NRootPRQin [
 | "[=peranto+n.m.][NRoot][=idle, lazy]" : {peranto}
 | "[=piranto+n.m.][NRoot][=idle, lazy]" : {piranto}
 ! 
+| "[=pirinto+m.][NRoot][=lake.frog, toad]" : {pirinto}
+! 
+| "[=pirotsonke+n.m.][NRoot][=manioc/yucca.sp.]" : {pirotsonke}
+! 
+| "[=piro+n.m.+inal.][NRoot][=scar; stain.in.skin]" : {piro}
+! 
 | "[=peraato][NRoot][=plate (flat.dish.to.put.food.on)]" : {peraato}
 ! 
-| "[=perú][NRoot][=NP]" : {perú}
+| "[=Perú][NRoot][=NP]" : {perú}
 ! 
 | "[=peyari+m.][NRoot][=ghost; demon]" : {peyari}
 | "[=piyari+m.][NRoot][=ghost; demon]" : {piyari}
