@@ -1207,10 +1207,10 @@ define NRootPRQin [
 | "[=tsimiri][NRoot][=bird, little.bird]" : {tsimiri}
 | "[=tsimeri][NRoot][=bird, little.bird]" : {tsimeri}
 ! female, woman
-| "[=tsinani+n.m.][NRoot][=female, woman]" : {tsinani}
-| "[=tsinane+n.m.][NRoot][=female, woman]" : {tsinane}
-| "[=tzinani+n.m.][NRoot][=female, woman]" : {tzinani}
-| "[=tsinãni+n.m.][NRoot][=female, woman]" : {tsinãni}
+| "[=tsinani+n.m.][NRoot][=female, woman]" : {tsinani} ! N@->V
+| "[=tsinane+n.m.][NRoot][=female, woman]" : {tsinane} ! N@->V
+| "[=tzinani+n.m.][NRoot][=female, woman]" : {tzinani} ! N@->V
+| "[=tsinãni+n.m.][NRoot][=female, woman]" : {tsinãni} ! N@->V
 ! 
 | "[=tsipana+n.m.][NRoot][=plant.sp. (bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana}
 ! 
