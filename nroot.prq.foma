@@ -479,9 +479,9 @@ define NRootPRQin [
 ! 
 | "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {koki}
 | "[=konki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {konki}
+| "[=konki][NRoot][=father.in.law (kin.of.a.male)]" : {konki}
 ! 
 | "[=konaki][NRoot][=elbow]" : {konaki}
-| "[=konki][NRoot][=father.in.law (kin.of.a.male)]" : {konki}
 ! 
 | "[=konyapi][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod]" : {konyapi}
 ! 
