@@ -476,7 +476,10 @@ define NRootPRQin [
 | "[=kitsoki][NRoot][=egg]" : {kitsoki}
 | "[=kitzi+n.m.+inal.][NRoot][=leg]" : {kitzi}
 | "[=koka][NRoot][=coca]" : {koka}
-| "[=koki][NRoot][=father]" : {koki}
+! 
+| "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {koki}
+| "[=konki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {konki}
+! 
 | "[=konaki][NRoot][=elbow]" : {konaki}
 | "[=konki][NRoot][=father.in.law (kin.of.a.male)]" : {konki}
 ! 
