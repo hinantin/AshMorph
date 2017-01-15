@@ -344,12 +344,21 @@
 
       ##########################
       #                        #
+      #       Ideophones       #
+      #                        #
+      ##########################
+      source ideo.prq.foma&
+        define IdeoPRQ IdeoPRQin;
+      define Ideophone [ [IdeoPRQ] ];
+
+      ##########################
+      #                        #
       #       Punctuation      #
       #                        #
       ##########################
       source punctuation.foma
         define PunctuationMarks Punctuation;
-      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|NominalizedVerb|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|NominalizedVerb|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
       read regex Ashaninka;
 
       save stack asheninka.bin
