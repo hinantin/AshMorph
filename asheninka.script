@@ -347,7 +347,7 @@
       #       Ideophones       #
       #                        #
       ##########################
-      source ideo.prq.foma&
+      source ideo.prq.foma
         define IdeoPRQ IdeoPRQin;
       define Ideophone [ [IdeoPRQ] ];
 
