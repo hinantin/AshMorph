@@ -1,0 +1,53 @@
+define IdeoPRQin [
+# ---------------------------------------
+#        monosyllabic ideophone          
+# ---------------------------------------
+  "[=poo][IdeoPRQ][=hitting.sth.; penetration]" : {poo}
+| "[=pooo][IdeoPRQ][=hitting.sth.; penetration]" : {pooo}
+| "[=pok][IdeoPRQ][=falling.into.water]" : {pok}
+| "[=tsapok][IdeoPRQ][=falling.into.water]" : {tsapok}
+
+| "[=takik][IdeoPRQ][=biting.nails]" : {takik}
+| "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
+| "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
+| "[=tyak][IdeoPRQ][=IDEO]" : {tyak}
+| "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
+# ---------------------------------------
+#       DISYLLABIC IDEOPHONES            
+# ---------------------------------------
+| "[=tsapo][IdeoPRQ][=producing.small.splash.when.swimming.in.river]" : {tsapo}
+| "[=mako][IdeoPRQ][=water.level.rising.quickly.in.river]" : {mako}
+| "[=tziri][IdeoPRQ][=taking.a.picture]" : {tziri}
+| "[=tzirik][IdeoPRQ][=taking.a.picture]" : {tzirik}
+| "[=tsomi][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
+| "[=shipik][IdeoPRQ][=grabbing.moving.object]" : {shipik}
+| "[=shepi][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
+| "[=koma][IdeoPRQ][=paddling.canoe]" : {koma}
+| "[=chiki][IdeoPRQ][=cutting.tree]" : {chiki}
+| "[=motek][IdeoPRQ][=bouncing.off.surface (e.g.: round.object,ball)]" : {motek}
+| "[=pote][IdeoPRQ][=slowly.trickling.drops.of.liquid]" : {pote}
+
+| "[=tsimpak][IdeoPRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
+| "[=tzinik][IdeoPRQ][=grab; stop]" : {tzinik}
+| "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
+# ---------------------------------------
+#       TRISYLLABIC IDEOPHONES           
+# ---------------------------------------
+| "[=tankorek][IdeoPRQ][=regain.consciousness]" : {tankorek}
+| "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance]" : {tankorek}
+
+| "[=mantsari][IdeoPRQ][=scratching.with.nails/claws]" : {mantsari}
+| "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
+| "[=mokoro][IdeoPRQ][=vomiting]" : {mokoro}
+| "[=metori][IdeoPRQ][=cutting.weeds/twigs.of.firewood]" : {metori}
+| "[=patari][IdeoPRQ][=multiple.objects.falling]" : {patari}
+
+| "[=tsikiri][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
+# ---------------------------------------------------------------
+#       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
+# ---------------------------------------------------------------
+| "[=pinairi][IdeoPRQ][=scratching.with.nails/claws]" : [pinai[{ri}]^{1,5}]
+| "[=sori][IdeoPRQ][=staring.fixedly]" : [so[{ri}]^{1,5}]
+| "[=shipo][IdeoPRQ][=rising.vapor.from.the.heated.sth. (stone, fire, etc.)]" : [shi[{po}]^{1,5}]
+| "[=tsimi][IdeoPRQ][=sucking.meat.from.bone]" : [tsi[{mi}]^{1,5}]
+];
