@@ -30,6 +30,8 @@ define IdeoPRQin [
 | "[=tsimpak][IdeoPRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
 | "[=tzinik][IdeoPRQ][=grab; stop]" : {tzinik}
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
+| "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
+| "[=piche][IdeoPRQ][=chewing.manioc]" : {piche}
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -43,11 +45,14 @@ define IdeoPRQin [
 | "[=patari][IdeoPRQ][=multiple.objects.falling]" : {patari}
 
 | "[=tsikiri][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
+| "[=sapiri][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
+
 # ---------------------------------------------------------------
 #       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
 # ---------------------------------------------------------------
-| "[=pinairi][IdeoPRQ][=scratching.with.nails/claws]" : [pinai[{ri}]^{1,5}]
-| "[=sori][IdeoPRQ][=staring.fixedly]" : [so[{ri}]^{1,5}]
-| "[=shipo][IdeoPRQ][=rising.vapor.from.the.heated.sth. (stone, fire, etc.)]" : [shi[{po}]^{1,5}]
-| "[=tsimi][IdeoPRQ][=sucking.meat.from.bone]" : [tsi[{mi}]^{1,5}]
+| "[=pinairi+redup.syl.][IdeoPRQ][=scratching.with.nails/claws]" : [pinai[{ri}]^{1,5}]
+| "[=sori+redup.syl.][IdeoPRQ][=staring.fixedly]" : [so[{ri}]^{1,5}]
+| "[=shipo+redup.syl.][IdeoPRQ][=rising.vapor.from.the.heated.sth. (stone, fire, etc.)]" : [shi[{po}]^{1,5}]
+| "[=tsimi+redup.syl.][IdeoPRQ][=sucking.meat.from.bone]" : [tsi[{mi}]^{1,5}]
+| "[=sapi+redup.syl.][IdeoPRQ][=weak.wind.action.which.moves.treetops]" : [sa[{pi}]^{1,5}]
 ];
