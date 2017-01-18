@@ -9,12 +9,6 @@ define IdeoPRQin [
 | "[=tee][IdeoPRQ][=hitting.a.human.body]" : {tee}
 | "[=tek][IdeoPRQ][=hitting.a.human.body]" : {tek}
 ! 
-| "[=tsapok][IdeoPRQ][=falling.into.water]" : {tsapok}
-! 
-| "[=takik][IdeoPRQ][=biting.nails]" : {takik}
-| "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
-| "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
-! 
 | "[=tak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tak}
 | "[=tyak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tyak}
 ! 
@@ -22,6 +16,14 @@ define IdeoPRQin [
 | "[=tok][IdeoPRQ][=running.briskly]" : {tok}
 ! 
 | "[=shek][IdeoPRQ][=walking.fast]" : {shek}
+! 
+| "[=sooo][IdeoPRQ][=pouring.rain]" : {sooo}
+!  
+| "[=tsapok][IdeoPRQ][=falling.into.water]" : {tsapok}
+! 
+| "[=takik][IdeoPRQ][=biting.nails]" : {takik}
+| "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
+| "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
