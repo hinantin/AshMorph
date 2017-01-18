@@ -32,6 +32,7 @@ define IdeoPRQin [
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
 | "[=piche][IdeoPRQ][=chewing.manioc]" : {piche}
+| "[=morek][IdeoPRQ][=flashing.light]" : {morek}
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -44,6 +45,7 @@ define IdeoPRQin [
 | "[=patari][IdeoPRQ][=multiple.objects.falling]" : {patari}
 | "[=tsikiri][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
 | "[=sapiri][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
+| "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
 # ---------------------------------------------------------------
 #       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
 # ---------------------------------------------------------------
