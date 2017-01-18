@@ -74,7 +74,7 @@ define IdeoPRQin [
 | "[=shipari+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly]" : [shipa[{ri}]^{1,5}]
 | "[=sakiri+redup.syl.][IdeoPRQ][=flock.of.birds.flying.in.one.straight.line]" : [saki[{ri}]^{1,5}]
 | "[=shiri+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly]" : [shi[{ri}]^{1,5}]
-| "[=pakara+redup.syl.][IdeoPRQ][=drizzling.rain; falling.of.rain.drops/flowers]" : [paka[{ra}]^{1,5}]
+| "[=pakara+redup.syl.][IdeoPRQ][=drizzling.rain; falling.of.rain_drops/flowers]" : [paka[{ra}]^{1,5}]
 # ---------------------------------------------------------------
 | "[=terempiri][IdeoPRQ][=moving.in.a.curved.trajectory]" : {terempiri}
 ];
