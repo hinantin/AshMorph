@@ -2,11 +2,15 @@ define IdeoPRQin [
 # ---------------------------------------
 #        MONOSYLLABIC IDEOPHONE          
 # ---------------------------------------
-  "[=poo][IdeoPRQ][=hitting.sth.; penetration]" : {poo}
-| "[=pooo][IdeoPRQ][=hitting.sth.; penetration]" : {pooo}
-| "[=pok][IdeoPRQ][=falling.into.water]" : {pok}
+  "[=poo][IdeoPRQ][=hitting.sth. (human.body); penetration]" : {poo}
+| "[=pooo][IdeoPRQ][=hitting.sth. (human.body); penetration]" : {pooo}
+| "[=pok][IdeoPRQ][=falling.into.water; hitting.sth. (human.body)]" : {pok}
+! 
+| "[=tee][IdeoPRQ][=hitting.a.human.body]" : {tee}
+| "[=tek][IdeoPRQ][=hitting.a.human.body]" : {tek}
+! 
 | "[=tsapok][IdeoPRQ][=falling.into.water]" : {tsapok}
-
+! 
 | "[=takik][IdeoPRQ][=biting.nails]" : {takik}
 | "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
 | "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
@@ -14,7 +18,10 @@ define IdeoPRQin [
 | "[=tak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tak}
 | "[=tyak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tyak}
 ! 
-| "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
+| "[=tek][IdeoPRQ][=running.briskly]" : {tek}
+| "[=tok][IdeoPRQ][=running.briskly]" : {tok}
+! 
+| "[=shek][IdeoPRQ][=walking.fast]" : {shek}
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
@@ -37,6 +44,8 @@ define IdeoPRQin [
 | "[=piche][IdeoPRQ][=chewing.manioc]" : {piche}
 | "[=morek][IdeoPRQ][=flashing.light]" : {morek}
 | "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
+! 
+| "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -53,7 +62,6 @@ define IdeoPRQin [
 ! 
 | "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope]" : {tsatzik}
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.thread]" : {mamporik}
-! 
 # ---------------------------------------------------------------
 #       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
 # ---------------------------------------------------------------
@@ -65,4 +73,6 @@ define IdeoPRQin [
 | "[=shipari+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly]" : [shipa[{ri}]^{1,5}]
 | "[=sakiri+redup.syl.][IdeoPRQ][=flock.of.birds.flying.in.one.straight.line]" : [saki[{ri}]^{1,5}]
 | "[=shiri+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly]" : [shi[{ri}]^{1,5}]
+# ---------------------------------------------------------------
+| "[=terempiri][IdeoPRQ][=moving.in.a.curved.trajectory]" : {terempiri}
 ];
