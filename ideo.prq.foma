@@ -37,16 +37,13 @@ define IdeoPRQin [
 # ---------------------------------------
 | "[=tankorek][IdeoPRQ][=regain.consciousness]" : {tankorek}
 | "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance]" : {tankorek}
-
 | "[=mantsari][IdeoPRQ][=scratching.with.nails/claws]" : {mantsari}
 | "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
 | "[=mokoro][IdeoPRQ][=vomiting]" : {mokoro}
 | "[=metori][IdeoPRQ][=cutting.weeds/twigs.of.firewood]" : {metori}
 | "[=patari][IdeoPRQ][=multiple.objects.falling]" : {patari}
-
 | "[=tsikiri][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
 | "[=sapiri][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
-
 # ---------------------------------------------------------------
 #       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
 # ---------------------------------------------------------------
@@ -54,6 +51,6 @@ define IdeoPRQin [
 | "[=sori+redup.syl.][IdeoPRQ][=staring.fixedly]" : [so[{ri}]^{1,5}]
 | "[=shipo+redup.syl.][IdeoPRQ][=rising.vapor.from.the.heated.sth. (stone, fire, etc.)]" : [shi[{po}]^{1,5}]
 | "[=tsimi+redup.syl.][IdeoPRQ][=sucking.meat.from.bone]" : [tsi[{mi}]^{1,5}]
-| "[=sapi+redup.syl.][IdeoPRQ][=weak.wind.action.which.moves.treetops]" : [sa[{pi}]^{1,5}]
+| "[=sapi+redup.syl.][IdeoPRQ][=weak.wind.action.which.moves.treetops]" : [{sa}[{pi}]^{1,5}]
 | "[=shipari+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly]" : [shipa[{ri}]^{1,5}]
 ];
