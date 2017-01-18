@@ -1,6 +1,6 @@
 define IdeoPRQin [
 # ---------------------------------------
-#        monosyllabic ideophone          
+#        MONOSYLLABIC IDEOPHONE          
 # ---------------------------------------
   "[=poo][IdeoPRQ][=hitting.sth.; penetration]" : {poo}
 | "[=pooo][IdeoPRQ][=hitting.sth.; penetration]" : {pooo}
@@ -10,7 +10,10 @@ define IdeoPRQin [
 | "[=takik][IdeoPRQ][=biting.nails]" : {takik}
 | "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
 | "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
-| "[=tyak][IdeoPRQ][=IDEO]" : {tyak}
+! 
+| "[=tak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tak}
+| "[=tyak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tyak}
+! 
 | "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
@@ -47,7 +50,10 @@ define IdeoPRQin [
 | "[=tsikiri][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
 | "[=sapiri][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
 | "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
+! 
+| "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope]" : {tsatzik}
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.thread]" : {mamporik}
+! 
 # ---------------------------------------------------------------
 #       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
 # ---------------------------------------------------------------
