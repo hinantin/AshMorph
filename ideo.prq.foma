@@ -56,6 +56,7 @@ define IdeoPRQin [
 ! 
 | "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
 | "[=peta][IdeoPRQ][=bird.wings.flapping]" : {peta}
+| "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -79,11 +80,12 @@ define IdeoPRQin [
 | "[=sori+redup.syl.][IdeoPRQ][=staring.fixedly]" : [so[{ri}]^{1,5}]
 | "[=shipo+redup.syl.][IdeoPRQ][=rising.vapor.from.the.heated.sth. (stone, fire, etc.)]" : [shi[{po}]^{1,5}]
 | "[=tsimi+redup.syl.][IdeoPRQ][=sucking.meat.from.bone]" : [tsi[{mi}]^{1,5}]
-| "[=sapi+redup.syl.][IdeoPRQ][=weak.wind.action.which.moves.treetops]" : [{sa}[{pi}]^{1,5}]
+| "[=sapi+redup.syl.][IdeoPRQ][=weak.wind.action.which.moves.treetops; wind.in.trees]" : [{sa}[{pi}]^{1,5}]
 | "[=shipari+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly]" : [shipa[{ri}]^{1,5}]
 | "[=sakiri+redup.syl.][IdeoPRQ][=flock.of.birds.flying.in.one.straight.line]" : [saki[{ri}]^{1,5}]
 | "[=shiri+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly]" : [shi[{ri}]^{1,5}]
 | "[=pakara+redup.syl.][IdeoPRQ][=drizzling.rain; falling.of.rain_drops/flowers]" : [paka[{ra}]^{1,5}]
+| "[=teri+redup.syl.][IdeoPRQ][=thunder]" : [te[{ri}]^{1,5}]
 # ---------------------------------------------------------------
 | "[=terempiri][IdeoPRQ][=moving.in.a.curved.trajectory]" : {terempiri}
 ];
