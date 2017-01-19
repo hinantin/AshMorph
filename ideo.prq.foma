@@ -26,6 +26,9 @@ define IdeoPRQin [
 ! 
 | "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
 ! 
+| "[=too][IdeoPRQ][=gunfire]" : {too}
+| "[=tang][IdeoPRQ][=bell.ringing]" : {tang}
+! 
 | "[=tsapok][IdeoPRQ][=falling.into.water]" : {tsapok}
 ! 
 | "[=takik][IdeoPRQ][=biting.nails]" : {takik}
@@ -51,12 +54,20 @@ define IdeoPRQin [
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
 | "[=piche][IdeoPRQ][=chewing.manioc]" : {piche}
-| "[=morek][IdeoPRQ][=flashing.light]" : {morek}
+! 
+| "[=morek][IdeoPRQ][=flashing.light; burning (fire)]" : {morek}
+| "[=morik][IdeoPRQ][=flashing.light; burning (fire)]" : {morik}
+| "[=more][IdeoPRQ][=flashing.light; burning (fire)]" : {more}
+| "[=mori][IdeoPRQ][=flashing.light; burning (fire)]" : {mori}
+! 
 | "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
 ! 
 | "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
 | "[=peta][IdeoPRQ][=bird.wings.flapping]" : {peta}
 | "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
+!| "[=shiri][IdeoPRQ][=dry.leaves.rustling]" : {shiri} ! not recognized
+!| "[=shikiri][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
+| "[=terong][IdeoPRQ][=drumming]" : {terong} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -73,19 +84,23 @@ define IdeoPRQin [
 ! 
 | "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope]" : {tsatzik}
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.thread]" : {mamporik}
+!| "[=shimori][IdeoPRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
 # ---------------------------------------------------------------
 #       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
 # ---------------------------------------------------------------
 | "[=pinairi+redup.syl.][IdeoPRQ][=scratching.with.nails/claws]" : [pinai[{ri}]^{1,5}]
 | "[=sori+redup.syl.][IdeoPRQ][=staring.fixedly]" : [so[{ri}]^{1,5}]
-| "[=shipo+redup.syl.][IdeoPRQ][=rising.vapor.from.the.heated.sth. (stone, fire, etc.)]" : [shi[{po}]^{1,5}]
+| "[=shipo+redup.syl.][IdeoPRQ][=rising.vapor.from.the.heated.sth. (stone, fire, etc.); smoke/mist.rising]" : [shi[{po}]^{1,5}]
 | "[=tsimi+redup.syl.][IdeoPRQ][=sucking.meat.from.bone]" : [tsi[{mi}]^{1,5}]
 | "[=sapi+redup.syl.][IdeoPRQ][=weak.wind.action.which.moves.treetops; wind.in.trees]" : [{sa}[{pi}]^{1,5}]
-| "[=shipari+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly]" : [shipa[{ri}]^{1,5}]
+| "[=shipari+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly; brilliance (of.the.sun)]" : [shipa[{ri}]^{1,5}]
 | "[=sakiri+redup.syl.][IdeoPRQ][=flock.of.birds.flying.in.one.straight.line]" : [saki[{ri}]^{1,5}]
-| "[=shiri+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly]" : [shi[{ri}]^{1,5}]
+| "[=shiri+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree]" : ["shi"[{ri}]^{1,5}]
 | "[=pakara+redup.syl.][IdeoPRQ][=drizzling.rain; falling.of.rain_drops/flowers]" : [paka[{ra}]^{1,5}]
-| "[=teri+redup.syl.][IdeoPRQ][=thunder]" : [te[{ri}]^{1,5}]
+| "[=teri+redup.syl.][IdeoPRQ][=thunder]" : [{te}[{ri}]^{1,5}]
+| "[=mari+redup.syl.][IdeoPRQ][=water.level.rising.slowly]" : [{ma}[{ri}]^{1,5}]
+| "[=mantsari+redup.syl.][IdeoPRQ][=dawn/disappearance.of.darkness]" : [mantsa[{ri}]^{1,5}]
+| "[=moreri+redup.syl.][IdeoPRQ][=blinking.light]" : [more[{ri}]^{1,5}]
 # ---------------------------------------------------------------
 | "[=terempiri][IdeoPRQ][=moving.in.a.curved.trajectory]" : {terempiri}
 ];
