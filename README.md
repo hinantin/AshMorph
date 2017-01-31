@@ -1,12 +1,13 @@
 Ashaninka Morph
 ===============
 
-Compiling with the Foma Toolkit
+Compiling with XFST
 ===============================
 
 ```
-$ foma -f asheninka.script
-$ echo "ashaninka" | flookup asheninka.bin
+$ xfst -f asheninka.script 
+$ xfst -f ideoredupsyl.prq.foma 
+$ echo "ashaninka" | lookup -f lookup.script -flags cnKv29TT
 
 ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+IRR]a
 ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+REAL]a
