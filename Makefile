@@ -3,8 +3,9 @@ TOKENIZERPATH=/home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshani
 
 compile:
 	@rm -f n-vroot.prq.foma | perl extractEntries.pl --file nroot.prq.foma --file aroot.prq.foma
-	@rm -f asheninka.bin
+	@rm -f asheninka.bin ideoredupsyl.bin 
 	@xfst -f asheninka.script
+	@xfst -f ideoredupsyl.prq.foma
 
 testing:
 	@echo "#########################################"
