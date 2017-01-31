@@ -88,21 +88,29 @@ define IdeoPRQin [
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.thread]" : {mamporik}
 !| "[=shimori][IdeoPRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
 # ---------------------------------------------------------------
-#       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
-# ---------------------------------------------------------------
-| "[=pinairi+redup.syl.][IdeoPRQ][=scratching.with.nails/claws]" : [pinai[{ri}]^{1,5}]
-| "[=sori+redup.syl.][IdeoPRQ][=staring.fixedly]" : [so[{ri}]^{1,5}]
-| "[=shipo+redup.syl.][IdeoPRQ][=rising.vapor.from.the.heated.sth. (stone, fire, etc.); smoke/mist.rising]" : [shi[{po}]^{1,5}]
-!| "[=tsimi+redup.syl.][IdeoPRQ][=sucking.meat.from.bone]" : [tsi[{mi}]^{1,5}]
-!| "[=sapi+redup.syl.][IdeoPRQ][=weak.wind.action.which.moves.treetops; wind.in.trees]" : [{sa}[{pi}]^{1,5}]
-!| "[=shipari+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly; brilliance (of.the.sun)]" : [shipa[{ri}]^{1,5}]
-!| "[=sakiri+redup.syl.][IdeoPRQ][=flock.of.birds.flying.in.one.straight.line]" : [saki[{ri}]^{1,5}]
-!| "[=shiri+redup.syl.][IdeoPRQ][=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree]" : ["shi"[{ri}]^{1,5}]
-!| "[=pakara+redup.syl.][IdeoPRQ][=drizzling.rain; falling.of.rain_drops/flowers]" : [paka[{ra}]^{1,5}]
-!| "[=teri+redup.syl.][IdeoPRQ][=thunder]" : [{te}[{ri}]^{1,5}]
-!| "[=mari+redup.syl.][IdeoPRQ][=water.level.rising.slowly]" : [{ma}[{ri}]^{1,5}]
-!| "[=mantsari+redup.syl.][IdeoPRQ][=dawn/disappearance.of.darkness]" : [mantsa[{ri}]^{1,5}]
-!| "[=moreri+redup.syl.][IdeoPRQ][=blinking.light]" : [more[{ri}]^{1,5}]
-# ---------------------------------------------------------------
 | "[=terempiri][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 ];
+   
+# ---------------------------------------------------------------
+#       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
+# ---------------------------------------------------------------
+   
+define IdeoRedupSylPRQin 0:"^["
+            [ 
+               [ "[" "=pinairi" "]" "[" "IdeoPRQ" "]" "[" "=scratching.with.nails/claws" "]" ] : {pinairi}
+             | [ "[" "=sori" "]" "[" "IdeoPRQ" "]" "[" "=staring.fixedly" "]" ] : {sori}
+             | [ "[" "=shipo" "]" "[" "IdeoPRQ" "]" "[" "=rising.vapor.from.the.heated.sth. (stone, fire, etc.); smoke/mist.rising" "]" ] : {shipo}
+             | [ "[" "=tsimi" "]" "[" "IdeoPRQ" "]" "[" "=sucking.meat.from.bone" "]" ] : {tsimi}
+             | [ "[" "=sapi" "]" "[" "IdeoPRQ" "]" "[" "=weak.wind.action.which.moves.treetops; wind.in.trees" "]" ] : {sapi}
+             | [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance (of.the.sun)" "]" ] : {shipari}
+             | [ "[" "=sakiri" "]" "[" "IdeoPRQ" "]" "[" "=flock.of.birds.flying.in.one.straight.line" "]" ] : {sakiri}
+             | [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree" "]" ] : {shiri}
+             | [ "[" "=pakara" "]" "[" "IdeoPRQ" "]" "[" "=drizzling.rain; falling.of.rain_drops/flowers" "]" ] : {pakara}
+             | [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder" "]" ] : {teri}
+             | [ "[" "=mari" "]" "[" "IdeoPRQ" "]" "[" "=water.level.rising.slowly" "]" ] : {mari}
+             | [ "[" "=mantsari" "]" "[" "IdeoPRQ" "]" "[" "=dawn/disappearance.of.darkness" "]" ] : {mantsari}
+             | [ "[" "=moreri" "]" "[" "IdeoPRQ" "]" "[" "=blinking.light" "]" ] : {pinairi}
+            ] 
+            ["+redup.syl."]
+            0:"^]";
+

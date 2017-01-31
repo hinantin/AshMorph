@@ -4,7 +4,7 @@ TOKENIZERPATH=/home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshani
 compile:
 	@rm -f n-vroot.prq.foma | perl extractEntries.pl --file nroot.prq.foma --file aroot.prq.foma
 	@rm -f asheninka.bin
-	@foma -f asheninka.script
+	@xfst -f asheninka.script
 
 testing:
 	@echo "#########################################"
@@ -14,7 +14,7 @@ testing:
 iraantsi\n\
 iraani\n\
 iraani" > text.txt
-	@cat text.txt | flookup asheninka.bin
+	@cat text.txt | lookup asheninka.bin
 	@rm -f text.txt
 	@echo "#########################################"
 	@echo "LENITION MORPHOLOGICAL ANALYSIS TESTING  "
@@ -24,7 +24,7 @@ pava\nnovavani\npivavani\nivavani\novavani\navavani\n\
 koka\nnoyokani\npiyokani\niyokani\nyokani\nyokani\n\
 kaniri\nnoyaniri\npiyaniri\niyaniri\nyaniri\nyaniri\n\
 kami\nnoyamini\npiyamini\niyamini\nyamini\nyamini" > text.txt
-	@cat text.txt | flookup asheninka.bin
+	@cat text.txt | lookup asheninka.bin
 	@rm -f text.txt
 	@printf "kitsarentsi\nnoitsari\npiitsari\niitsari\noitsari\naitsari\n\
 kitzitsi\nnoitzi\npiitzi\niitzi\noitzi\naitzi\n\
@@ -38,8 +38,8 @@ batsatsi\natsiri\n\
 iitontsi\nnejitsi\nkonakitsi\nakoperotsi\nporitsi\nyeritontsi\nashonki\niitsintsi\nshetakintsi\n\
 kentsitsi\nshempatsi\nmotsitsi\nmoitontsi\njempekitsi\nakotsi\ntsapakintsi\naporibatsa\ntaabatontsi\nakontatsi\n\
 taapiikintsi\ntetetsi" > text.txt
-	@cat text.txt | flookup asheninka.bin
-	@cat text.txt | flookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
+	@cat text.txt | lookup asheninka.bin
+	@cat text.txt | lookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
 	@vim failures.sorted
 	@rm -f text.txt
@@ -135,17 +135,17 @@ consult:
 #	@python Reports.py --file=interrogative.prq.foma --header=WhPRQin --headershort=WhPRQ --lang=4 --type=24
 
 word:
-	@echo "$(word)" | flookup asheninka.bin
+	@echo "$(word)" | lookup asheninka.bin
 
 sentence:
-	@echo $(sentence) | tr -s [:space:] '\n' | flookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
+	@echo $(sentence) | tr -s [:space:] '\n' | lookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
 	@cat failures.sorted
 
 analyze.file:
 	@rm -f failures.old.sorted
 	@cp -R -u -p failures.sorted failures.old.sorted
-	@cat mycorpus.txt | perl $(TOKENIZERPATH)/tokenize.pl | flookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
+	@cat mycorpus.txt | perl $(TOKENIZERPATH)/tokenize.pl | lookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
 #	@gedit failures.sorted
 
@@ -153,7 +153,7 @@ analyze.file:
 #	@rm -f mycorpus.txt
 #	@> mycorpus.txt
 #	@printf $(sentence) > mycorpus.txt
-#	@cat mycorpus.txt | perl $(TOKENIZERPATH)tokenize.pl | flookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
+#	@cat mycorpus.txt | perl $(TOKENIZERPATH)tokenize.pl | lookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 #	@rm -f mycorpus.txt
 
 
