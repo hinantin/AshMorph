@@ -8,12 +8,29 @@ Compiling with XFST
 $ xfst -f asheninka.script 
 $ xfst -f ideoredupsyl.prq.foma 
 $ echo "ashaninka" | lookup -f lookup.script -flags cnKv29TT
+Reading script from "lookup.script"
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 
-ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+IRR]a
-ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+REAL]a
-ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nka
-ashaninka	[a-][NPers][1PL.poss+][--][=shani+m.][NRoot][=anteater][--][+NMZ]
+  *****  LEXICON LOOK-UP  *****
+
 ashaninka	[a-][NPers][1PL.poss+][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nka
+ashaninka	[a-][NPers][1PL.poss+][--][=shani+m.][NRoot][=anteater][--][+NMZ]
+ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+REAL]a
+ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nk[--][+IRR]a
+ashaninka	[1PL.S/A+][a-][--][=shani][VRoot][=to.be.of.the.same.group][--][+NMZ]nka
+
+
+LOOKUP STATISTICS (success with different strategies):
+strategy 0:	1 times 	(100.00 %)
+strategy 1:	0 times 	(0.00 %)
+not found:	0 times 	(0.00 %)
+
+corpus size:	1 word
+execution time:	0 sec
+speed:		1 word/sec
+
+  *****  END OF LEXICON LOOK-UP  *****
+
 ```
 
 How to download
