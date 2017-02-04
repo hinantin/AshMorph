@@ -1,5 +1,10 @@
+# ---------------------------------------------------------------
+#       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
+# ---------------------------------------------------------------
+
 # IdeoRedupSylPRQ.foma
 
+# ri, ro, ra, pi, po, mi, vi
 define RedupSyl  [{ri}|{po}|{mi}|{pi}|{ra}];
 define V [a|e|i|o];
 
