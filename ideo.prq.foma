@@ -39,6 +39,10 @@ define IdeoPRQin [
 | "[=takik][IdeoPRQ][=biting.nails]" : {takik}
 | "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
 | "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
+! 
+| "[=chok][IdeoPRQ][=splashing.water]" : {chok}
+| "[=penk+redup.word][IdeoPRQ][=dispersing.sth., strewing.sth. (soil, grain)]" : {penk}
+
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
@@ -76,6 +80,8 @@ define IdeoPRQin [
 | "[=morok][IdeoPRQ][=sensation.of.an_arrow.hitting.a_body]" : {morok} 
 | "[=tsatsik][IdeoPRQ][=bursting.of.a_thread]" : {tsatsik} 
 | "[=cheket][IdeoPRQ][=punctual.action.of.penetrating.an_object (arrow.hitting.human.body, spider.biting.into.flesh)]" : {cheket} 
+| "[=shepik][IdeoPRQ][=grabbing.a_moving_object]" : {shepik} 
+| "[=panek+redup.word][IdeoPRQ][=digging.soil.in.scoops]" : {panek} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -93,7 +99,11 @@ define IdeoPRQin [
 | "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope]" : {tsatzik}
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.thread]" : {mamporik}
 | "[=shimori][IdeoPRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
+| "[=sanarek][IdeoPRQ][=falling.down.into.a_vacuous_space]" : {sanarek}
+| "[=kitarek][IdeoPRQ][=regaining.consciousness]" : {kitarek}
+! 
+| "[=tiviron+redup.word][IdeoPRQ][=moving.in.circles]" : {tiviron}
 # ---------------------------------------------------------------
-| "[=terempiri][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
+| "[=terempiri+redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 ];
 
