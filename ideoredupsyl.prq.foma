@@ -5,7 +5,7 @@
 # IdeoRedupSylPRQ.foma
 
 # ri, ro, ra, pi, po, mi, vi
-define RedupSyl  [{ri}|{po}|{mi}|{pi}|{ra}|{vi}];
+define RedupSyl  [{ri}|{re}|{ro}|{po}|{mi}|{pi}|{ra}|{vi}];
 define V [a|e|i|o];
 
 define REDUPSYL ?* "+redup.syl.";
@@ -24,17 +24,24 @@ define IdeoRedupSylPRQin 0:"^["
              | [ "[" "=sakiri" "]" "[" "IdeoPRQ" "]" "[" "=flock.of.birds.flying.in.one.straight.line" "]" ] : {sakiri}
              | [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree" "]" ] : {shiri}
 
+             | [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
+             | [ "[" "=vore" "]" "[" "IdeoPRQ" "]" "[" "=brilliance.of.the_sun" "]" ] : {vore}
+
              | [ "[" "=shipo" "]" "[" "IdeoPRQ" "]" "[" "=rising.vapor.from.the.heated.sth. (stone, fire, etc.); smoke/mist.rising" "]" ] : {shipo}
+             | [ "[" "=sapo" "]" "[" "IdeoPRQ" "]" "[" "=bird.wings.flapping" "]" ] : {sapo}
 
              | [ "[" "=tsimi" "]" "[" "IdeoPRQ" "]" "[" "=sucking.meat.from.bone" "]" ] : {tsimi}
              | [ "[" "=hemi" "]" "[" "IdeoPRQ" "]" "[" "=spreading.numbness.in.mouth.cavity" "]" ] : {hemi}
 
-             | [ "[" "=sapi" "]" "[" "IdeoPRQ" "]" "[" "=weak.wind.action.which.moves.treetops; wind.in.trees" "]" ] : {sapi}
+             | [ "[" "=sapi" "]" "[" "IdeoPRQ" "]" "[" "=weak.wind.action.which.moves.treetops; wind.in.trees; strong.stench" "]" ] : {sapi}
 
              | [ "[" "=chara" "]" "[" "IdeoPRQ" "]" "[" "=trickling.liquid (water, urine)" "]" ] : {chara}
              | [ "[" "=pakara" "]" "[" "IdeoPRQ" "]" "[" "=drizzling.rain; falling.of.rain_drops/flowers" "]" ] : {pakara}
 
              | [ "[" "=tsovi" "]" "[" "IdeoPRQ" "]" "[" "=mosquito.sound" "]" ] : {tsovi}
+
+             | [ "[" "=sero" "]" "[" "IdeoPRQ" "]" "[" "=sliding.downward" "]" ] : {sero}
+             | [ "[" "=hero" "]" "[" "IdeoPRQ" "]" "[" "=sound.of.a_large_fire" "]" ] : {hero}
             ] 
             ["+redup.syl."]
             0:"^]";
