@@ -813,6 +813,9 @@ define VRootPRQin [
 | "[=tsok][VRoot][=to.pull.out]" : {tsok}
 | "[=tsonk][VRoot][=to.finish]" : {tsonk}
 | "[=tsonk][VRoot][=to.kill]" : {tsonk}
+! 
+| "[=tsoinare][VRoot][=to.break.in.half]" : {tsoinare}
+! 
 | "[=tsop][VRoot][=to.pull.out]" : {tsop}
 | "[=ty][VRoot][=to.fell]" : {ty}
 | "[=tyaki][VRoot][=to.blossom]" : [{tyaki}|{teyaki}]

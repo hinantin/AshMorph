@@ -34,6 +34,10 @@ define IdeoPRQin [
 ! 
 | "[=shoi+redup.word][IdeoPRQ][=twisting.movement]" : {shoi}
 ! 
+| "[=pak][IdeoPRQ][=heavy.object.falling.down]" : {pak}
+! 
+| "[=vea+redup.word][IdeoPRQ][=many.people.talking]" : {vea}
+! 
 | "[=takik][IdeoPRQ][=biting.nails]" : {takik}
 | "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
 | "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
@@ -45,7 +49,7 @@ define IdeoPRQin [
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
 | "[=tsapo+redup.word][IdeoPRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour]" : {tsapo}
-| "[=tsapok][IdeoPRQ][=falling.into.water; punctual.action.of.shallow.splash.caused.by.the_light.object's.fall.into.the_water]" : {tsapok}
+| "[=tsapo^k][IdeoPRQ][=falling.into.water; punctual.action.of.shallow.splash.caused.by.the_light.object's.fall.into.the_water]" : {tsapok}
 ! 
 | "[=mako][IdeoPRQ][=water.level.rising.quickly.in.river]" : {mako}
 ! 
@@ -64,7 +68,6 @@ define IdeoPRQin [
 | "[=tzinik][IdeoPRQ][=grab; stop]" : {tzinik}
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
-| "[=piche][IdeoPRQ][=chewing.manioc]" : {piche}
 ! 
 | "[=morek][IdeoPRQ][=flashing.light; burning (fire)]" : {morek}
 | "[=morik][IdeoPRQ][=flashing.light; burning (fire)]" : {morik}
@@ -90,6 +93,11 @@ define IdeoPRQin [
 ! 
 | "[=cheki+redup.word][IdeoPRQ][=repeated.cutting.action]" : {cheki} 
 | "[=cheki^k][IdeoPRQ][=punctual.action.of.making.a_cut]" : {chekik} 
+! 
+| "[=tyakik][IdeoPRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
+! 
+| "[=piche][IdeoPRQ][=chewing.manioc; action.of.chewing]" : {piche}
+| "[=pichek][IdeoPRQ][=punctual.action.of.slapping.water]" : {pichek} 
 ! 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
