@@ -34,8 +34,6 @@ define IdeoPRQin [
 ! 
 | "[=shoi+redup.word][IdeoPRQ][=twisting.movement]" : {shoi}
 ! 
-| "[=tsapok][IdeoPRQ][=falling.into.water]" : {tsapok}
-! 
 | "[=takik][IdeoPRQ][=biting.nails]" : {takik}
 | "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
 | "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
@@ -46,10 +44,14 @@ define IdeoPRQin [
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
-| "[=tsapo][IdeoPRQ][=producing.small.splash.when.swimming.in.river]" : {tsapo}
+| "[=tsapo+redup.word][IdeoPRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour]" : {tsapo}
+| "[=tsapok][IdeoPRQ][=falling.into.water; punctual.action.of.shallow.splash.caused.by.the_light.object's.fall.into.the_water]" : {tsapok}
+! 
 | "[=mako][IdeoPRQ][=water.level.rising.quickly.in.river]" : {mako}
+! 
 | "[=tziri][IdeoPRQ][=taking.a.picture]" : {tziri}
 | "[=tzirik][IdeoPRQ][=taking.a.picture]" : {tzirik}
+! 
 | "[=tsomi][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
 | "[=shipik][IdeoPRQ][=grabbing.moving.object]" : {shipik}
 | "[=shepi][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
@@ -82,6 +84,13 @@ define IdeoPRQin [
 | "[=cheket][IdeoPRQ][=punctual.action.of.penetrating.an_object (arrow.hitting.human.body, spider.biting.into.flesh)]" : {cheket} 
 | "[=shepik][IdeoPRQ][=grabbing.a_moving_object]" : {shepik} 
 | "[=panek+redup.word][IdeoPRQ][=digging.soil.in.scoops]" : {panek} 
+! 
+| "[=kori+redup.word][IdeoPRQ][=action.of.continuously.gulping.water]" : {kori} 
+| "[=kori^k][IdeoPRQ][=action.of.gulping.water.once]" : {korik} 
+! 
+| "[=cheki+redup.word][IdeoPRQ][=repeated.cutting.action]" : {cheki} 
+| "[=cheki^k][IdeoPRQ][=punctual.action.of.making.a_cut]" : {chekik} 
+! 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
