@@ -15,7 +15,10 @@ define IdeoRedupSylPRQin 0:"^["
                [ "[" "=pinairi" "]" "[" "IdeoPRQ" "]" "[" "=scratching.with.nails/claws" "]" ] : {pinairi}
              | [ "[" "=moiri" "]" "[" "IdeoPRQ" "]" "[" "=rising.smoke.from.the_burning_fire" "]" ] : {moiri}
              | [ "[" "=sherori" "]" "[" "IdeoPRQ" "]" "[" "=sliding.down.the_tree" "]" ] : {sherori}
+             ! 
              | [ "[" "=sori" "]" "[" "IdeoPRQ" "]" "[" "=staring.fixedly" "]" ] : {sori}
+             | [ "[" "=soreri" "]" "[" "IdeoPRQ" "]" "[" "=looking.at.sb.fixedly.and.intently" "]" ] : {soreri}
+             ! 
              | [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder" "]" ] : {teri}
              | [ "[" "=mari" "]" "[" "IdeoPRQ" "]" "[" "=water.level.rising.slowly" "]" ] : {mari}
              | [ "[" "=mantsari" "]" "[" "IdeoPRQ" "]" "[" "=dawn/disappearance.of.darkness" "]" ] : {mantsari}

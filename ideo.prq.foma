@@ -65,7 +65,10 @@ define IdeoPRQin [
 | "[=pote][IdeoPRQ][=slowly.trickling.drops.of.liquid]" : {pote}
 
 | "[=tsimpak][IdeoPRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
-| "[=tzinik][IdeoPRQ][=grab; stop]" : {tzinik}
+! 
+| "[=tzinik][IdeoPRQ][=grab; stop; be.still]" : {tzinik}
+| "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
+! 
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
 ! 
@@ -76,7 +79,6 @@ define IdeoPRQin [
 ! 
 | "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
 ! 
-| "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
 | "[=peta][IdeoPRQ][=bird.wings.flapping]" : {peta}
 | "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
 | "[=shiri][IdeoPRQ][=dry.leaves.rustling]" : {shiri} ! not recognized
@@ -96,8 +98,14 @@ define IdeoPRQin [
 ! 
 | "[=tyakik][IdeoPRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
 ! 
-| "[=piche][IdeoPRQ][=chewing.manioc; action.of.chewing]" : {piche}
+| "[=piche][IdeoPRQ][=chewing.manioc; action.of.chewing]" : {piche} 
 | "[=pichek][IdeoPRQ][=punctual.action.of.slapping.water]" : {pichek} 
+! 
+| "[=miha+redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
+! 
+| "[=macho][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
+! 
+| "[=moye][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
 ! 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
@@ -110,7 +118,7 @@ define IdeoPRQin [
 | "[=metori][IdeoPRQ][=cutting.weeds/twigs.of.firewood]" : {metori}
 | "[=patari][IdeoPRQ][=multiple.objects.falling]" : {patari}
 | "[=tsikiri][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
-| "[=sapiri][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
+| "[=sapiri+redup.word][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
 | "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
 ! 
 | "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope]" : {tsatzik}
