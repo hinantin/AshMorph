@@ -355,7 +355,10 @@ define S [
  (V=S=IRR) (V=S=EMPH) | 
  (V=S=APPLINT) (V=S=PROG) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REALEMPH) | 
- (V=S=APPLINT) (V=S=INCH) (V=S=REAL) (V=S=PRNO) | 
+!  
+ (V=S=APPLINT) (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=APPL) (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+!  
  (V=S=APPLINT) (V=S=REAL) (V=S=PRNO) | 
  (V=S=once) (V=S=IRR) (V=S=PRNO) | 
  (V=S=APPLINT) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 

@@ -44,7 +44,8 @@ define IdeoPRQin [
 ! 
 | "[=chok][IdeoPRQ][=splashing.water]" : {chok}
 | "[=penk+redup.word][IdeoPRQ][=dispersing.sth., strewing.sth. (soil, grain)]" : {penk}
-
+! 
+| "[=naa][IdeoPRQ][=chew]" : {naa}
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
@@ -66,7 +67,7 @@ define IdeoPRQin [
 
 | "[=tsimpak][IdeoPRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
 ! 
-| "[=tzinik][IdeoPRQ][=grab; stop; be.still]" : {tzinik}
+| "[=tzinik][IdeoPRQ][=grab; stop; be.still; lack.of.movement, complete.stativity.of.action]" : {tzinik}
 | "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
 ! 
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
@@ -107,6 +108,7 @@ define IdeoPRQin [
 ! 
 | "[=moye][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
 ! 
+| "[=tire][IdeoPRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------

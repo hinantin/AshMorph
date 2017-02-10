@@ -214,7 +214,7 @@ define V=S=NMZ [
 | "[--][+NMZ]" : "@EP"[{nka}] 
 | "[--][+NMZ]" : "@EP"[{enka}] 
 | "[--][+NMZ]" : "@EP"[{ntsi}] 
-| "[--][NMZ][+CONCR]" : "@EP"[{mento}]
+| "[--][NMZ][+CONCR]" : "@EP"[{mento}|{minto}]
 ];
       
 define V=S=ADJ [
@@ -351,7 +351,7 @@ define V=S=DUB [
 !      ];
       
       define V=S=INCH [
-       "[--][+INCH]" : "@EP"[{ima}|{imai}|{amaint}]
+       "[--][+INCH]" : "@EP"[{ima}|{imai}|{imaint}|{amaint}]
       ];
       
       define V=S=DIMDEGR [

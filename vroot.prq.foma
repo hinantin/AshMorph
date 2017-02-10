@@ -350,12 +350,12 @@ define VRootPRQin [
 | "[=koma][VRoot][=to.row]" : {koma}
 | "[=komaa][VRoot][=to.row]" : {komaa}
 ! word set:
-| "[=koraki][VRoot][=to.approach, to.get.closer]" : {koraki}
-| "[=korake][VRoot][=to.approach, to.get.closer]" : {korake}
-| "[=kovake][VRoot][=to.approach, to.get.closer]" : {kovake}
-| "[=kaaki][VRoot][=to.approach, to.get.closer]" : {kaaki}
-| "[=okaaki][VRoot][=to.approach, to.get.closer]" : {okaaki}
-| "[=okakihi][VRoot][=to.approach, to.get.closer]" : {okakihi}
+| "[=koraki][VRoot][=to.approach, to.get.closer, to.come.near]" : {koraki}
+| "[=korake][VRoot][=to.approach, to.get.closer, to.come.near]" : {korake}
+| "[=kovake][VRoot][=to.approach, to.get.closer, to.come.near]" : {kovake}
+| "[=kaaki][VRoot][=to.approach, to.get.closer, to.come.near]" : {kaaki}
+| "[=okaaki][VRoot][=to.approach, to.get.closer, to.come.near]" : {okaaki}
+| "[=okakihi][VRoot][=to.approach, to.get.closer, to.come.near]" : {okakihi}
 ! word set:
 | "[=koshi][VRoot][=to.kidnap]" : {koshi}
 | "[=koshi][VRoot][=to.steal]" : {koshi}

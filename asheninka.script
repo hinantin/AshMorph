@@ -92,7 +92,7 @@
       define AEpenthesisRule13 [ "@EP" (->) {a}"@EP" || p _ a ]; # i-kant-ap-a-ak-e 
       define AEpenthesisRule14 [ "@EP" (->) {a}"@EP" || t _ h ]; # y-ant-a-jeí-t-ak-e 
       define AEpenthesisRule15 [ "@EP" (->) {a}"@EP" || m _ [h|a|e] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e, am-a-enka-ri 
-      define AEpenthesisRule16 [ "@EP" (->) {a}"@EP" || y _ [a|y|v] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri 
+      define AEpenthesisRule16 [ "@EP" (->) {a}"@EP" || y _ [a|y|v|m] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri, i-piy-a-macheve-t-an-ah-a 
       define AEpenthesisRule17 [ "@EP" (->) {a}"@EP" || n _ [v|a] ]; # i-kin-a-bae-t-i,  I-kemisan-t-a-jei-t-i-ri
 
       define TEpenthesisRule1 [ "@EP" (->) {t}"@EP" || i _ i ]; 
@@ -114,6 +114,7 @@
       define TZEpenthesisRule2 [ "@EP" (->) {tz}"@EP" || a _ i ]; 
       define TZEpenthesisRule3 [ t"@EP" (->) {tz}"@EP" || n _ i ]; # kant@EPi -> ocantzi
       define TZEpenthesisRule4 [ t"@EP" (->) {tz}"@EP" || i _ i ]; # p^atziri(tz)-imo(t)~an-ac—e-ri
+      define TZEpenthesisRule5 [ t"@EP" (->) {tz}"@EP" || o _ i ]; # i-tsink-ako-tz-imaint-a-ro
 
       define TSEpenthesisRule1 [ "@EP" (->) {ts}"@EP" || i _ i ];  # ts allophone to tz
                                                                  # n-amatawits-i-mi
@@ -126,7 +127,7 @@
 .o. AEpenthesisRule7 .o. AEpenthesisRule8 .o. AEpenthesisRule9 .o. AEpenthesisRule10 .o. AEpenthesisRule11 .o. AEpenthesisRule12 .o. AEpenthesisRule13 .o. AEpenthesisRule14 .o. AEpenthesisRule15 .o. AEpenthesisRule16 
 .o. AEpenthesisRule17 
 .o. TEpenthesisRule1 .o. TEpenthesisRule2 .o. TEpenthesisRule3 .o. TEpenthesisRule4 .o. TEpenthesisRule5 .o. TEpenthesisRule6 .o. TEpenthesisRule7 .o. TEpenthesisRule8 .o. TEpenthesisRule9 .o. TEpenthesisRule10 .o. TEpenthesisRule11 .o. TEpenthesisRule12 
-.o. TZEpenthesisRule1 .o. TZEpenthesisRule2 .o. TZEpenthesisRule3 .o. TZEpenthesisRule4 
+.o. TZEpenthesisRule1 .o. TZEpenthesisRule2 .o. TZEpenthesisRule3 .o. TZEpenthesisRule4 .o. TZEpenthesisRule5 
 .o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
 .o. CleanUpEpenthesisRule6 ];
 
