@@ -3,7 +3,7 @@ define IdeoPRQin [
 #        MONOSYLLABIC IDEOPHONE          
 # ---------------------------------------
   "[=poo][IdeoPRQ][=hitting.sth. (human.body); penetration]" : {poo}
-| "[=pooo][IdeoPRQ][=hitting.sth. (human.body); penetration]" : {pooo}
+| "[=pooo][IdeoPRQ][=hitting.sth. (human.body); penetration]" : [{pooo}]
 ########
 #  pok  
 # - light object hitting a solid surface, without compromising the object’s integrity
@@ -67,8 +67,8 @@ define IdeoPRQin [
 
 | "[=tsimpak][IdeoPRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
 ! 
-| "[=tzinik][IdeoPRQ][=grab; stop; be.still; lack.of.movement, complete.stativity.of.action]" : {tzinik}
-| "[=tzinik][IdeoPRQ][=IDEO]" : {tzinik}
+| "[=tzinik+redup.word][IdeoPRQ][=grab; stop; be.still; lack.of.movement, complete.stativity.of.action]" : {tzinik}
+| "[=tzinik+redup.word][IdeoPRQ][=IDEO]" : {tzinik}
 ! 
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
@@ -109,6 +109,8 @@ define IdeoPRQin [
 | "[=moye][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
 ! 
 | "[=tire][IdeoPRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
+! 
+| "[=shero][IdeoPRQ][=slipping.and.falling.on.the_surface]" : {shero} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -119,7 +121,7 @@ define IdeoPRQin [
 | "[=mokoro][IdeoPRQ][=vomiting]" : {mokoro}
 | "[=metori][IdeoPRQ][=cutting.weeds/twigs.of.firewood]" : {metori}
 | "[=patari][IdeoPRQ][=multiple.objects.falling]" : {patari}
-| "[=tsikiri][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
+| "[=tsikiri+redup.word][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
 | "[=sapiri+redup.word][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
 | "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
 ! 
@@ -132,6 +134,8 @@ define IdeoPRQin [
 | "[=tiviron+redup.word][IdeoPRQ][=moving.in.circles]" : {tiviron}
 ! 
 | "[=sopirek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise]" : {sopirek}
+! 
+| "[=shiparek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; fast disappearance]" : {shiparek}
 # ---------------------------------------------------------------
 | "[=terempiri+redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 ];
