@@ -122,7 +122,7 @@ define IdeoPRQin [
 | "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
 | "[=mokoro][IdeoPRQ][=vomiting]" : {mokoro}
 ! 
-| "[=metori][IdeoPRQ][=cutting.weeds/twigs.of.firewood; <:digging.soft.soil.with.hands]" : {metori}
+| "[=metori+redup.word][IdeoPRQ][=cutting.weeds/twigs.of.firewood; <:digging.soft.soil.with.hands]" : {metori}
 ! 
 | "[=patari][IdeoPRQ][=multiple.objects.falling]" : {patari}
 | "[=tsikiri+redup.word][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
