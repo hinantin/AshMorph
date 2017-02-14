@@ -111,6 +111,8 @@ define IdeoPRQin [
 | "[=tire][IdeoPRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
 ! 
 | "[=shero][IdeoPRQ][=slipping.and.falling.on.the_surface]" : {shero} 
+! 
+| "[=tapo+redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects]" : {tapo} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -133,7 +135,7 @@ define IdeoPRQin [
 ! 
 | "[=tiviron+redup.word][IdeoPRQ][=moving.in.circles]" : {tiviron}
 ! 
-| "[=sopirek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise]" : {sopirek}
+| "[=sopirek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; surprisingly.quickly]" : {sopirek}
 ! 
 | "[=shiparek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; fast disappearance]" : {shiparek}
 # ---------------------------------------------------------------
