@@ -121,7 +121,9 @@ define IdeoPRQin [
 | "[=mantsari][IdeoPRQ][=scratching.with.nails/claws]" : {mantsari}
 | "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
 | "[=mokoro][IdeoPRQ][=vomiting]" : {mokoro}
-| "[=metori][IdeoPRQ][=cutting.weeds/twigs.of.firewood]" : {metori}
+! 
+| "[=metori][IdeoPRQ][=cutting.weeds/twigs.of.firewood; <:digging.soft.soil.with.hands]" : {metori}
+! 
 | "[=patari][IdeoPRQ][=multiple.objects.falling]" : {patari}
 | "[=tsikiri+redup.word][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
 | "[=sapiri+redup.word][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
