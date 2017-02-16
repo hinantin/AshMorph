@@ -758,9 +758,10 @@ define VRootPRQin [
 | "[=tonkaa][VRoot][=to.ascend]" : {tonkaa}
 ! 
 | "[=tot][VRoot][=to.cut]" : {tot}
-| "[=tov][VRoot][=fell]" : {tov}
+| "[=tov][VRoot][=to.fell, to.cut.down]" : {tov}
 | "[=tov][VRoot][=to.cut]" : {tov}
 | "[=tova][VRoot][=to.cut]" : {tova}
+! 
 | "[=tsa][VRoot][=to.tie]" : {tsa}
 | "[=tsak][VRoot][=to.dye]" : {tsak}
 ! 
