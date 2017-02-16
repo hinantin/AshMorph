@@ -26,6 +26,7 @@ define IdeoRedupSylPRQin 0:"^["
              | [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance (of.the.sun)" "]" ] : {shipari}
              | [ "[" "=sakiri" "]" "[" "IdeoPRQ" "]" "[" "=flock.of.birds.flying.in.one.straight.line" "]" ] : {sakiri}
              | [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree" "]" ] : {shiri}
+             | [ "[" "=tsinteakeri" "]" "[" "IdeoPRQ" "]" "[" "=heavy.rainfall" "]" ] : {tsinteakeri}
 
              | [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
              | [ "[" "=vore" "]" "[" "IdeoPRQ" "]" "[" "=brilliance.of.the_sun" "]" ] : {vore}
