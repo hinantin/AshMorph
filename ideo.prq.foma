@@ -20,14 +20,13 @@ define IdeoPRQin [
 ! 
 | "[=shek][IdeoPRQ][=walking.fast]" : {shek}
 ! 
-| "[=sooo][IdeoPRQ][=pouring.rain]" : {sooo}
+| "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall]" : {sooo}
+| "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
 ! 
 | "[=chaa][IdeoPRQ][=roaring.waterfall]" : {chaa}
 ! 
-| "[=shee][IdeoPRQ][=heavy.rainfall]" : {shee}
-| "[=sheee][IdeoPRQ][=heavy.rainfall]" : {sheee}
-! 
-| "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
+| "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall]" : {shee}
+| "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall]" : {sheee}
 ! 
 | "[=too][IdeoPRQ][=gunfire]" : {too}
 | "[=tang][IdeoPRQ][=bell.ringing]" : {tang}
@@ -115,6 +114,10 @@ define IdeoPRQin [
 | "[=tapo+redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects]" : {tapo} 
 ! 
 | "[=vanik][IdeoPRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
+! 
+| "[=tsarak][IdeoPRQ][=loud.fart]" : {tsarak} 
+! 
+| "[=ahak][IdeoPRQ][=sneezing]" : {ahak} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
