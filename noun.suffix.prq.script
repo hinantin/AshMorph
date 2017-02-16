@@ -136,7 +136,9 @@ define N=S=CL [
 | "[--][-tsara][+CL:fabric][=fabric]" : {tsara} 
 | "[--][-tsaraa][+CL:fabric][=fabric]" : {tsaraa} 
 #-----------------------------------------------
-| "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni} 
+| "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni}
+#-----------------------------------------------
+| "[--][-pompoina][+CL:ball][=ball]" : {pompoina}
 ];
       
 define N=S=EXCL [
