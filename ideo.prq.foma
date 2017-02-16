@@ -55,7 +55,7 @@ define IdeoPRQin [
 | "[=mako][IdeoPRQ][=water.level.rising.quickly.in.river]" : {mako}
 ! 
 | "[=tziri][IdeoPRQ][=taking.a.picture]" : {tziri}
-| "[=tzirik][IdeoPRQ][=taking.a.picture]" : {tzirik}
+| "[=tzirik][IdeoPRQ][=taking.a.picture; adhesive.contact.between.two.entities]" : {tzirik}
 ! 
 | "[=tsomi][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
 | "[=shipik][IdeoPRQ][=grabbing.moving.object]" : {shipik}
@@ -67,7 +67,7 @@ define IdeoPRQin [
 
 | "[=tsimpak][IdeoPRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
 ! 
-| "[=tzinik+redup.word][IdeoPRQ][=grab; stop; be.still; lack.of.movement, complete.stativity.of.action]" : {tzinik}
+| "[=tzinik+redup.word][IdeoPRQ][=grab.sth.tightly; stop; be.still; lack.of.movement, complete.stativity.of.action, complete.lack.of.movement]" : {tzinik}
 | "[=tzinik+redup.word][IdeoPRQ][=IDEO]" : {tzinik}
 ! 
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
@@ -113,6 +113,8 @@ define IdeoPRQin [
 | "[=shero][IdeoPRQ][=slipping.and.falling.on.the_surface]" : {shero} 
 ! 
 | "[=tapo+redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects]" : {tapo} 
+! 
+| "[=vanik][IdeoPRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -139,7 +141,9 @@ define IdeoPRQin [
 ! 
 | "[=sopirek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; surprisingly.quickly]" : {sopirek}
 ! 
-| "[=shiparek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; fast disappearance]" : {shiparek}
+| "[=shiparek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; fast.disappearance]" : {shiparek}
+! 
+| "[=shiparik][IdeoPRQ][=grabbing.a.moving.object]" : {shiparik}
 # ---------------------------------------------------------------
 | "[=terempiri+redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+redup.word][IdeoPRQ][=curved.object]" : {terempiro}
