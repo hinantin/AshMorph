@@ -81,7 +81,10 @@ define IdeoPRQin [
 ! 
 | "[=peta][IdeoPRQ][=bird.wings.flapping]" : {peta}
 | "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
-| "[=shiri][IdeoPRQ][=dry.leaves.rustling]" : {shiri} ! not recognized
+! 
+| "[=shiri][IdeoPRQ][=dry.leaves.rustling]" : {shiri} 
+| "[=shiri+redup.word][IdeoPRQ][=cricket.sound]" : {shiri} 
+! 
 | "[=shikiri][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
 | "[=terong][IdeoPRQ][=drumming]" : {terong} 
 | "[=morok][IdeoPRQ][=sensation.of.an_arrow.hitting.a_body]" : {morok} 
