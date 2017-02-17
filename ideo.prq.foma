@@ -156,6 +156,10 @@ define IdeoPRQin [
 | "[=terempiri+redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+redup.word][IdeoPRQ][=curved.object]" : {terempiro}
 # ---------------------------------------------------------------
+| "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
+| "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
+| "[=ooo+redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
+! 
 | "[=kokoriko][IdeoPRQ][=bird.call/sound.made.by.a.rooster]" : {kokoriko}
 | "[=totorao][IdeoPRQ][=bird.call/sound.made.by.a.hen]" : {totorao}
 ];
