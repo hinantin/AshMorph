@@ -62,7 +62,10 @@ define IdeoPRQin [
 | "[=shipik][IdeoPRQ][=grabbing.moving.object]" : {shipik}
 | "[=shepi][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
 | "[=koma][IdeoPRQ][=paddling.canoe]" : {koma}
+! 
 | "[=chiki][IdeoPRQ][=cutting.tree]" : {chiki}
+| "[=chikiredup.word][IdeoPRQ][=spatially.distributed.appearance.of.localized.body.swelling (result.of.an.insect_bite)]" : {chiki}
+! 
 | "[=motek][IdeoPRQ][=bouncing.off.surface (e.g.: round.object,ball)]" : {motek}
 | "[=pote][IdeoPRQ][=slowly.trickling.drops.of.liquid]" : {pote}
 
