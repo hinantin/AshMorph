@@ -15,10 +15,10 @@ define IdeoPRQin [
 # tak: 
 # - contact between a container and what fills it
 # - swelling throughout a body part
-| "[=tak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tak}
-| "[=tyak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tyak}
+| "[=tak+redup.word][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tak}
+| "[=tyak+redup.word][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tyak}
 ! 
-| "[=tek][IdeoPRQ][=running.briskly]" : {tek}
+| "[=tek+redup.word][IdeoPRQ][=running.briskly]" : {tek}
 | "[=tok+redup.word][IdeoPRQ][=running.briskly]" : {tok}
 ! 
 | "[=shek][IdeoPRQ][=walking.fast]" : {shek}
