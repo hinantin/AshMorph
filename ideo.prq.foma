@@ -28,7 +28,8 @@ define IdeoPRQin [
 | "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall]" : {shee}
 | "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall]" : {sheee}
 ! 
-| "[=too][IdeoPRQ][=gunfire]" : {too}
+| "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle]" : {too}
+! 
 | "[=tang][IdeoPRQ][=bell.ringing]" : {tang}
 ! 
 | "[=shoi+redup.word][IdeoPRQ][=twisting.movement]" : {shoi}
@@ -59,7 +60,9 @@ define IdeoPRQin [
 | "[=tzirik][IdeoPRQ][=taking.a.picture; adhesive.contact.between.two.entities]" : {tzirik}
 ! 
 | "[=tsomi][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
+! 
 | "[=shipik][IdeoPRQ][=grabbing.moving.object]" : {shipik}
+! 
 | "[=shepi][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
 | "[=koma][IdeoPRQ][=paddling.canoe]" : {koma}
 ! 
@@ -126,6 +129,8 @@ define IdeoPRQin [
 | "[=tsarak][IdeoPRQ][=loud.fart]" : {tsarak} 
 ! 
 | "[=ahak][IdeoPRQ][=sneezing]" : {ahak} 
+! 
+| "[=peke+redup.word][IdeoPRQ][=sound.of.a.motor.boat]" : {peke} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
