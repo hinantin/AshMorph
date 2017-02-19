@@ -12,6 +12,9 @@ define IdeoPRQin [
 | "[=tee][IdeoPRQ][=hitting.a.human.body]" : {tee}
 | "[=tek][IdeoPRQ][=hitting.a.human.body]" : {tek}
 ! 
+# tak: 
+# - contact between a container and what fills it
+# - swelling throughout a body part
 | "[=tak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tak}
 | "[=tyak][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tyak}
 ! 
@@ -134,6 +137,10 @@ define IdeoPRQin [
 | "[=ahak][IdeoPRQ][=sneezing]" : {ahak} 
 ! 
 | "[=peke+redup.word][IdeoPRQ][=sound.of.a.motor.boat]" : {peke} 
+! 
+| "[=tsopak][IdeoPRQ][=sudden.forceful.detachment.of.one.entity.from.another]" : {tsopak} 
+! 
+| "[=soriredup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores.on.the.skin (accompanied.by.swelling)]" : {sori} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
