@@ -33,4 +33,5 @@ define NounToVerbPRQin [
 | "[=aparoni][AdjRoot][=one]" : {aparoni} ! N@->V
 | "[=apite][AdjRoot][=two]" : {apite} ! N@->V
 | "[=mava][AdjRoot][=three]" : {mava} ! N@->V
+| "[=tapo+redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects]" : {tapo} ! N@->V
 ];
