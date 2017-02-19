@@ -21,7 +21,7 @@ define IdeoPRQin [
 | "[=tek+redup.word][IdeoPRQ][=running.briskly]" : {tek}
 | "[=tok+redup.word][IdeoPRQ][=running.briskly]" : {tok}
 ! 
-| "[=shek][IdeoPRQ][=walking.fast]" : {shek}
+| "[=shek+redup.word][IdeoPRQ][=walking.fast]" : {shek}
 ! 
 | "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall]" : {sooo}
 | "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
@@ -35,7 +35,7 @@ define IdeoPRQin [
 ! 
 | "[=tang][IdeoPRQ][=bell.ringing]" : {tang}
 ! 
-| "[=shoi+redup.word][IdeoPRQ][=twisting.movement]" : {shoi}
+| "[=shoi+redup.word][IdeoPRQ][=twisting.movement; object's.circular.movement.around.another.object]" : {shoi}
 ! 
 | "[=pak][IdeoPRQ][=heavy.object.falling.down]" : {pak}
 ! 
@@ -140,7 +140,11 @@ define IdeoPRQin [
 ! 
 | "[=tsopak][IdeoPRQ][=sudden.forceful.detachment.of.one.entity.from.another]" : {tsopak} 
 ! 
-| "[=soriredup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores.on.the.skin (accompanied.by.swelling)]" : {sori} 
+| "[=sori+redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores.on.the.skin (accompanied.by.swelling)]" : {sori} 
+! 
+| "[=vako+redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand]" : {vako} 
+! 
+| "[=sakiri+redup.word][IdeoPRQ][=moving.in.a.straight.line]" : {sakiri} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -152,7 +156,7 @@ define IdeoPRQin [
 ! 
 | "[=metori+redup.word][IdeoPRQ][=cutting.weeds/twigs.of.firewood; <:digging.soft.soil.with.hands]" : {metori}
 ! 
-| "[=patari][IdeoPRQ][=multiple.objects.falling]" : {patari}
+| "[=patari+redup.word][IdeoPRQ][=multiple.objects.falling; downward.falling.motion.of.many.non-human.objects (usually.fruit)]" : {patari}
 | "[=tsikiri+redup.word][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
 | "[=sapiri+redup.word][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
 | "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
