@@ -65,7 +65,7 @@ define IdeoPRQin [
 | "[=tziri][IdeoPRQ][=taking.a.picture]" : {tziri}
 | "[=tzirik][IdeoPRQ][=taking.a.picture; adhesive.contact.between.two.entities]" : {tzirik}
 ! 
-| "[=tsomi][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
+| "[=tsomi+redup.word][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
 ! 
 | "[=shipik][IdeoPRQ][=grabbing.moving.object]" : {shipik}
 ! 
@@ -149,6 +149,8 @@ define IdeoPRQin [
 | "[=koshe+redup.word][IdeoPRQ][=to.shave.in.long.strips]" : {koshe} 
 ! 
 | "[=pishi+redup.word][IdeoPRQ][=to.sweep.the.ground]" : {pishi} 
+! 
+| "[=shetak+redup.word][IdeoPRQ][=to.limp]" : {shetak} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -178,9 +180,12 @@ define IdeoPRQin [
 | "[=shiparek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; fast.disappearance]" : {shiparek}
 ! 
 | "[=shiparik][IdeoPRQ][=grabbing.a.moving.object]" : {shiparik}
+! 
+| "[=tyaapaki+redup.word][IdeoPRQ][=walking.in.a.duck-like.manner]" : {tyaapaki}
 # ---------------------------------------------------------------
 | "[=terempiri+redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+redup.word][IdeoPRQ][=curved.object]" : {terempiro}
+| "[=pitokiri+redup.word][IdeoPRQ][=to.break.in.pieces]" : {pitokiri}
 # ---------------------------------------------------------------
 | "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
 | "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
