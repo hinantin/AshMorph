@@ -120,9 +120,9 @@ define IdeoPRQin [
 ! 
 | "[=miha+redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
 ! 
-| "[=macho][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
+| "[=macho+redup.word][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
 ! 
-| "[=moye][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
+| "[=moye+redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
 ! 
 | "[=tire][IdeoPRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
 ! 
@@ -145,6 +145,10 @@ define IdeoPRQin [
 | "[=vako+redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand]" : {vako} 
 ! 
 | "[=sakiri+redup.word][IdeoPRQ][=moving.in.a.straight.line]" : {sakiri} 
+! 
+| "[=koshe+redup.word][IdeoPRQ][=to.shave.in.long.strips]" : {koshe} 
+! 
+| "[=pishi+redup.word][IdeoPRQ][=to.sweep.the.ground]" : {pishi} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
