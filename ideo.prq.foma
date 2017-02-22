@@ -23,13 +23,16 @@ define IdeoPRQin [
 ! 
 | "[=shek+redup.word][IdeoPRQ][=walking.fast]" : {shek}
 ! 
-| "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall]" : {sooo}
+| "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {sooo}
 | "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
+| "[=soooo][IdeoPRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {soooo}
 ! 
-| "[=chaa][IdeoPRQ][=roaring.waterfall]" : {chaa}
+| "[=chaa][IdeoPRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaa}
+| "[=chaaaa][IdeoPRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaaaa}
 ! 
-| "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall]" : {shee}
-| "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall]" : {sheee}
+| "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall]" : {shee}
+| "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall]" : {sheee}
+| "[=sheeee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall]" : {sheeee}
 ! 
 | "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle]" : {too}
 ! 

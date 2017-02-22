@@ -22,7 +22,7 @@ define IdeoRedupSylPRQin 0:"^["
              | [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder" "]" ] : {teri}
              | [ "[" "=mari" "]" "[" "IdeoPRQ" "]" "[" "=water.level.rising.slowly; liquid.substance.massively.accumulating.on.the.entity's.surface; heavy.bleeding; trickling.tree_sap" "]" ] : {mari}
              | [ "[" "=mantsari" "]" "[" "IdeoPRQ" "]" "[" "=dawn/disappearance.of.darkness" "]" ] : {mantsari}
-             | [ "[" "=moreri" "]" "[" "IdeoPRQ" "]" "[" "=blinking.light" "]" ] : {moreri}
+             | [ "[" "=moreri" "]" "[" "IdeoPRQ" "]" "[" "=blinking.light; light.being.emitted.at.regular.intervals" "]" ] : {moreri}
              | [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance (of.the.sun)" "]" ] : {shipari}
              | [ "[" "=sakiri" "]" "[" "IdeoPRQ" "]" "[" "=flock.of.birds.flying.in.one.straight.line" "]" ] : {sakiri}
              | [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree; bird.call/sound.made.by.a.patridge_species/shirentzi" "]" ] : {shiri}
