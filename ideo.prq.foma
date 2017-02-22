@@ -90,8 +90,8 @@ define IdeoPRQin [
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
 ! 
-| "[=morek][IdeoPRQ][=flashing.light; burning (fire)]" : {morek}
-| "[=morik][IdeoPRQ][=flashing.light; burning (fire)]" : {morik}
+| "[=morek][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)]" : {morek}
+| "[=morik][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)]" : {morik}
 | "[=more][IdeoPRQ][=flashing.light; burning (fire)]" : {more}
 | "[=mori][IdeoPRQ][=flashing.light; burning (fire)]" : {mori}
 ! 
