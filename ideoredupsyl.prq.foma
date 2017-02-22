@@ -11,51 +11,58 @@ define V [a|e|i|o];
 define REDUPSYL ?* "+redup.syl.";
 
 define IdeoRedupSylPRQin 0:"^["
-            [ 
-               [ "[" "=pinairi" "]" "[" "IdeoPRQ" "]" "[" "=scratching.with.nails/claws" "]" ] : {pinairi}
-             | [ "[" "=moiri" "]" "[" "IdeoPRQ" "]" "[" "=rising.smoke.from.the_burning_fire" "]" ] : {moiri}
-             | [ "[" "=sherori" "]" "[" "IdeoPRQ" "]" "[" "=sliding.down.the_tree" "]" ] : {sherori}
-             ! 
-             | [ "[" "=sori" "]" "[" "IdeoPRQ" "]" "[" "=staring.fixedly" "]" ] : {sori}
-             | [ "[" "=soreri" "]" "[" "IdeoPRQ" "]" "[" "=looking.at.sb.fixedly.and.intently" "]" ] : {soreri}
-             ! 
-             | [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder" "]" ] : {teri}
-             | [ "[" "=mari" "]" "[" "IdeoPRQ" "]" "[" "=water.level.rising.slowly; liquid.substance.massively.accumulating.on.the.entity's.surface; heavy.bleeding; trickling.tree_sap" "]" ] : {mari}
-             | [ "[" "=mantsari" "]" "[" "IdeoPRQ" "]" "[" "=dawn/disappearance.of.darkness" "]" ] : {mantsari}
-             | [ "[" "=moreri" "]" "[" "IdeoPRQ" "]" "[" "=blinking.light; light.being.emitted.at.regular.intervals" "]" ] : {moreri}
-             | [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance (of.the.sun)" "]" ] : {shipari}
-             | [ "[" "=sakiri" "]" "[" "IdeoPRQ" "]" "[" "=flock.of.birds.flying.in.one.straight.line" "]" ] : {sakiri}
-             | [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree; bird.call/sound.made.by.a.patridge_species/shirentzi" "]" ] : {shiri}
-             | [ "[" "=tsinteakeri" "]" "[" "IdeoPRQ" "]" "[" "=heavy.rainfall" "]" ] : {tsinteakeri}
-             | [ "[" "=chiri" "]" "[" "IdeoPRQ" "]" "[" "=tearing.fabric.apart" "]" ] : {chiri}
+[ 
+  [ "[" "=pinairi" "]" "[" "IdeoPRQ" "]" "[" "=scratching.with.nails/claws" "]" ] : {pinairi}
+| [ "[" "=moiri" "]" "[" "IdeoPRQ" "]" "[" "=rising.smoke.from.the_burning_fire" "]" ] : {moiri}
+| [ "[" "=sherori" "]" "[" "IdeoPRQ" "]" "[" "=sliding.down.the_tree" "]" ] : {sherori}
+! 
+| [ "[" "=sori" "]" "[" "IdeoPRQ" "]" "[" "=staring.fixedly" "]" ] : {sori}
+| [ "[" "=soreri" "]" "[" "IdeoPRQ" "]" "[" "=looking.at.sb.fixedly.and.intently" "]" ] : {soreri}
+! 
+| [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder" "]" ] : {teri}
+| [ "[" "=mari" "]" "[" "IdeoPRQ" "]" "[" "=water.level.rising.slowly; liquid.substance.massively.accumulating.on.the.entity's.surface; heavy.bleeding; trickling.tree_sap" "]" ] : {mari}
+| [ "[" "=mantsari" "]" "[" "IdeoPRQ" "]" "[" "=dawn/disappearance.of.darkness" "]" ] : {mantsari}
+| [ "[" "=moreri" "]" "[" "IdeoPRQ" "]" "[" "=blinking.light; light.being.emitted.at.regular.intervals" "]" ] : {moreri}
+| [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance (of.the.sun)" "]" ] : {shipari}
+| [ "[" "=sakiri" "]" "[" "IdeoPRQ" "]" "[" "=flock.of.birds.flying.in.one.straight.line" "]" ] : {sakiri}
+| [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree; bird.call/sound.made.by.a.patridge_species/shirentzi" "]" ] : {shiri}
+| [ "[" "=tsinteakeri" "]" "[" "IdeoPRQ" "]" "[" "=heavy.rainfall" "]" ] : {tsinteakeri}
+| [ "[" "=chiri" "]" "[" "IdeoPRQ" "]" "[" "=tearing.fabric.apart" "]" ] : {chiri}
 
-             | [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
-             | [ "[" "=vore" "]" "[" "IdeoPRQ" "]" "[" "=brilliance.of.the_sun" "]" ] : {vore}
+| [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
+| [ "[" "=vore" "]" "[" "IdeoPRQ" "]" "[" "=brilliance.of.the_sun" "]" ] : {vore}
 
-             | [ "[" "=shipo" "]" "[" "IdeoPRQ" "]" "[" "=rising.vapor.from.the.heated.sth. (stone, fire, etc.); smoke/mist.rising" "]" ] : {shipo}
-             | [ "[" "=sapo" "]" "[" "IdeoPRQ" "]" "[" "=bird.wings.flapping" "]" ] : {sapo}
+| [ "[" "=shipo" "]" "[" "IdeoPRQ" "]" "[" "=rising.vapor.from.the.heated.sth. (stone, fire, etc.); smoke/mist.rising" "]" ] : {shipo}
+| [ "[" "=sapo" "]" "[" "IdeoPRQ" "]" "[" "=bird.wings.flapping" "]" ] : {sapo}
 
-             | [ "[" "=tsimi" "]" "[" "IdeoPRQ" "]" "[" "=sucking.meat.from.bone" "]" ] : {tsimi}
-             | [ "[" "=hemi" "]" "[" "IdeoPRQ" "]" "[" "=spreading.numbness.in.mouth.cavity" "]" ] : {hemi}
+| [ "[" "=tsimi" "]" "[" "IdeoPRQ" "]" "[" "=sucking.meat.from.bone" "]" ] : {tsimi}
+| [ "[" "=hemi" "]" "[" "IdeoPRQ" "]" "[" "=spreading.numbness.in.mouth.cavity" "]" ] : {hemi}
 
-             | [ "[" "=sapi" "]" "[" "IdeoPRQ" "]" "[" "=weak.wind.action.which.moves.treetops; wind.in.trees; strong.stench" "]" ] : {sapi}
+| [ "[" "=sapi" "]" "[" "IdeoPRQ" "]" "[" "=weak.wind.action.which.moves.treetops; wind.in.trees; strong.stench" "]" ] : {sapi}
 
-             | [ "[" "=chara" "]" "[" "IdeoPRQ" "]" "[" "=trickling.liquid (water, urine)" "]" ] : {chara}
-             | [ "[" "=pakara" "]" "[" "IdeoPRQ" "]" "[" "=drizzling.rain; falling.of.rain_drops/flowers" "]" ] : {pakara}
+| [ "[" "=chara" "]" "[" "IdeoPRQ" "]" "[" "=trickling.liquid (water, urine)" "]" ] : {chara}
+| [ "[" "=pakara" "]" "[" "IdeoPRQ" "]" "[" "=drizzling.rain; falling.of.rain_drops/flowers" "]" ] : {pakara}
 
-             | [ "[" "=tsovi" "]" "[" "IdeoPRQ" "]" "[" "=mosquito.sound" "]" ] : {tsovi}
+| [ "[" "=tsovi" "]" "[" "IdeoPRQ" "]" "[" "=mosquito.sound" "]" ] : {tsovi}
 
-             | [ "[" "=sero" "]" "[" "IdeoPRQ" "]" "[" "=sliding.downward" "]" ] : {sero}
-             | [ "[" "=hero" "]" "[" "IdeoPRQ" "]" "[" "=sound.of.a_large_fire" "]" ] : {hero}
-            ] 
-            ["+redup.syl."]
-            0:"^]";
+| [ "[" "=sero" "]" "[" "IdeoPRQ" "]" "[" "=sliding.downward" "]" ] : {sero}
+| [ "[" "=hero" "]" "[" "IdeoPRQ" "]" "[" "=sound.of.a_large_fire" "]" ] : {hero}
+] 
+["+redup.syl."]
+0:"^]";
+
+# PUNCTUAL ACTION: 
+# Experienced sensations as being punctual or ongoing by formally mapping the reported dynamic sensation onto the
+# ideophonic form.
+define IDEO=S=PUNCTUALACTN [
+ "[--][-k][+PUNCTUAL.ACTN]" : [{k}]
+];
 
 define DeleteRedupSyl "+redup.syl." -> 0;
 
-define AshaninkaRedup RedupSyl @-> "[" ... "]^{1,5}" || V  _ REDUPSYL "^]" .#. ; 
+define AshaninkaRedup RedupSyl @-> "[" ... "]^{1,5}" || V _ REDUPSYL "^]" ; 
 
-regex IdeoRedupSylPRQin .o. AshaninkaRedup .o. DeleteRedupSyl ; 
+regex [IdeoRedupSylPRQin (IDEO=S=PUNCTUALACTN)] .o. AshaninkaRedup .o. DeleteRedupSyl ; 
 
 set retokenize off
 
