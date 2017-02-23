@@ -40,7 +40,7 @@ define IdeoPRQin [
 ! 
 | "[=shoi+s.redup.word][IdeoPRQ][=twisting.movement; object's.circular.movement.around.another.object]" : {shoi}
 ! 
-| "[=pak][IdeoPRQ][=heavy.object.falling.down]" : {pak}
+| "[=pak][IdeoPRQ][=heavy.object.falling.down/on_the_ground]" : {pak}
 ! 
 | "[=vea+s.redup.word][IdeoPRQ][=many.people.talking]" : {vea}
 ! 
@@ -146,7 +146,7 @@ define IdeoPRQin [
 ! 
 | "[=tsopak][IdeoPRQ][=sudden.forceful.detachment.of.one.entity.from.another]" : {tsopak} 
 ! 
-| "[=sori+s.redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores.on.the.skin (accompanied.by.swelling)]" : {sori} 
+| "[=sori+s.redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores/pockmarks.on.the.skin (accompanied.by.swelling)]" : {sori} 
 ! 
 | "[=vako+s.redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand]" : {vako} 
 ! 
@@ -159,6 +159,8 @@ define IdeoPRQin [
 | "[=shetak+s.redup.word][IdeoPRQ][=to.limp]" : {shetak} 
 ! 
 | "[=kisho+s.redup.word][IdeoPRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river]" : {kisho} 
+! 
+| "[=sarak][IdeoPRQ][=entering.solid.space, (e.g. an.arrow.piercing.flesh)]" : {sarak} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
