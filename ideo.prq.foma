@@ -97,7 +97,7 @@ define IdeoPRQin [
 ! 
 | "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
 ! 
-| "[=peta][IdeoPRQ][=bird.wings.flapping]" : {peta}
+| "[=peta+s.redup.word][IdeoPRQ][=bird.wings.flapping; sound.of.diarrhea]" : {peta}
 | "[=petak+s.redup.word][IdeoPRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event]" : {petak}
 ! 
 | "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
@@ -166,6 +166,8 @@ define IdeoPRQin [
 ! 
 | "[=tzimpa][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpa} 
 | "[=tzimpak][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpak} 
+! 
+| "[=chota+s.redup.word][IdeoPRQ][=having.sex]" : {chota} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
