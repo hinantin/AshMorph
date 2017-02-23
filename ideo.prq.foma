@@ -30,9 +30,9 @@ define IdeoPRQin [
 | "[=chaa][IdeoPRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaa}
 | "[=chaaaa][IdeoPRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaaaa}
 ! 
-| "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall]" : {shee}
-| "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall]" : {sheee}
-| "[=sheeee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall]" : {sheeee}
+| "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {shee}
+| "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheee}
+| "[=sheeee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheeee}
 ! 
 | "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle]" : {too}
 ! 
@@ -212,6 +212,7 @@ define IdeoPRQin [
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
 | "[=pitokiri+s.redup.word][IdeoPRQ][=to.break.in.pieces]" : {pitokiri}
+| "[=chirirorik][IdeoPRQ][=shallow.splash]" : {chirirorik}
 # ---------------------------------------------------------------
 | "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
 | "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
