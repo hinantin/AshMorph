@@ -177,13 +177,18 @@ define IdeoPRQin [
 | "[=sapok][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment]" : {sapok} 
 ! 
 | "[=chako+s.redup.word][IdeoPRQ][=small.waves.produced.by.the.slowly.gliding.canoe; water.movement.in.a.gourd.carried.on.the_back]" : {chako} 
+! 
+| "[=tsako+s.redup.word][IdeoPRQ][=boiling.water.in.a_pot]" : {tsako} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
 | "[=tankorek][IdeoPRQ][=regain.consciousness]" : {tankorek}
 | "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance]" : {tankorek}
 | "[=mantsari][IdeoPRQ][=scratching.with.nails/claws]" : {mantsari}
+! 
 | "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
+| "[=tsakorok][IdeoPRQ][=stepping/falling.in.shallow_water.&.producing.no.splashes]" : {tsakorok}
+! 
 | "[=mokoro+s.redup.word][IdeoPRQ][=sensation.of.vomiting]" : {mokoro}
 ! 
 | "[=metori+s.redup.word][IdeoPRQ][=cutting.weeds/twigs.of.firewood; <:digging.soft.soil.with.hands]" : {metori}
@@ -208,8 +213,6 @@ define IdeoPRQin [
 | "[=shiparik][IdeoPRQ][=grabbing.a.moving.object]" : {shiparik}
 ! 
 | "[=tyaapaki+s.redup.word][IdeoPRQ][=walking.in.a.duck-like.manner]" : {tyaapaki}
-! 
-| "[=tsakorok][IdeoPRQ][=stepping/falling.in.shallow_water.&.producing.no.splashes]" : {tsakorok}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
