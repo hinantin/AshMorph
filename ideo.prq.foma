@@ -15,13 +15,13 @@ define IdeoPRQin [
 # tak: 
 # - contact between a container and what fills it
 # - swelling throughout a body part
-| "[=tak+redup.word][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tak}
-| "[=tyak+redup.word][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tyak}
+| "[=tak+s.redup.word][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tak}
+| "[=tyak+s.redup.word][IdeoPRQ][=crushing.cotton.or.manioc.mass]" : {tyak}
 ! 
-| "[=tek+redup.word][IdeoPRQ][=running.briskly]" : {tek}
-| "[=tok+redup.word][IdeoPRQ][=running.briskly]" : {tok}
+| "[=tek+s.redup.word][IdeoPRQ][=running.briskly]" : {tek}
+| "[=tok+s.redup.word][IdeoPRQ][=running.briskly]" : {tok}
 ! 
-| "[=shek+redup.word][IdeoPRQ][=walking.fast]" : {shek}
+| "[=shek+s.redup.word][IdeoPRQ][=walking.fast]" : {shek}
 ! 
 | "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {sooo}
 | "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
@@ -38,30 +38,30 @@ define IdeoPRQin [
 ! 
 | "[=tang][IdeoPRQ][=bell.ringing]" : {tang}
 ! 
-| "[=shoi+redup.word][IdeoPRQ][=twisting.movement; object's.circular.movement.around.another.object]" : {shoi}
+| "[=shoi+s.redup.word][IdeoPRQ][=twisting.movement; object's.circular.movement.around.another.object]" : {shoi}
 ! 
 | "[=pak][IdeoPRQ][=heavy.object.falling.down]" : {pak}
 ! 
-| "[=vea+redup.word][IdeoPRQ][=many.people.talking]" : {vea}
+| "[=vea+s.redup.word][IdeoPRQ][=many.people.talking]" : {vea}
 ! 
 | "[=takik][IdeoPRQ][=biting.nails]" : {takik}
 | "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
 | "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
 ! 
 | "[=chok][IdeoPRQ][=splashing.water]" : {chok}
-| "[=penk+redup.word][IdeoPRQ][=dispersing.sth., strewing.sth. (soil, grain)]" : {penk}
+| "[=penk+s.redup.word][IdeoPRQ][=dispersing.sth., strewing.sth. (soil, grain)]" : {penk}
 ! 
 | "[=naa][IdeoPRQ][=chew]" : {naa}
 ! 
-| "[=shii+redup.word][IdeoPRQ][=noise.made.by.a_cicada]" : {shii}
+| "[=shii+s.redup.word][IdeoPRQ][=noise.made.by.a_cicada]" : {shii}
 ! 
 | "[=shishsh][IdeoPRQ][=trickle.of.urine (refers.to.babies'.urination.only)]" : {shishsh}
 ! 
-| "[=shik+redup.word][IdeoPRQ][=action.of.removing.fish_scales.with.a.scraper]" : {shik}
+| "[=shik+s.redup.word][IdeoPRQ][=action.of.removing.fish_scales.with.a.scraper]" : {shik}
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
-| "[=tsapo+redup.word][IdeoPRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour]" : {tsapo}
+| "[=tsapo+s.redup.word][IdeoPRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour]" : {tsapo}
 | "[=tsapo^k][IdeoPRQ][=falling.into.water; punctual.action.of.shallow.splash.caused.by.the_light.object's.fall.into.the_water]" : {tsapok}
 ! 
 | "[=mako][IdeoPRQ][=water.level.rising.quickly.in.river]" : {mako}
@@ -69,7 +69,7 @@ define IdeoPRQin [
 | "[=tziri][IdeoPRQ][=taking.a.picture]" : {tziri}
 | "[=tzirik][IdeoPRQ][=taking.a.picture; adhesive.contact.between.two.entities]" : {tzirik}
 ! 
-| "[=tsomi+redup.word][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
+| "[=tsomi+s.redup.word][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
 ! 
 | "[=shipik][IdeoPRQ][=grabbing.moving.object]" : {shipik}
 ! 
@@ -84,8 +84,8 @@ define IdeoPRQin [
 
 | "[=tsimpak][IdeoPRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
 ! 
-| "[=tzinik+redup.word][IdeoPRQ][=grab.sth.tightly; stop; be.still; lack.of.movement, complete.stativity.of.action, complete.lack.of.movement]" : {tzinik}
-| "[=tzinik+redup.word][IdeoPRQ][=IDEO]" : {tzinik}
+| "[=tzinik+s.redup.word][IdeoPRQ][=grab.sth.tightly; stop; be.still; lack.of.movement, complete.stativity.of.action, complete.lack.of.movement]" : {tzinik}
+| "[=tzinik+s.redup.word][IdeoPRQ][=IDEO]" : {tzinik}
 ! 
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
@@ -98,12 +98,12 @@ define IdeoPRQin [
 | "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
 ! 
 | "[=peta][IdeoPRQ][=bird.wings.flapping]" : {peta}
-| "[=petak+redup.word][IdeoPRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event]" : {petak}
+| "[=petak+s.redup.word][IdeoPRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event]" : {petak}
 ! 
 | "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
 ! 
 | "[=shiri][IdeoPRQ][=dry.leaves.rustling]" : {shiri} 
-| "[=shiri+redup.word][IdeoPRQ][=cricket.sound]" : {shiri} 
+| "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; climbing.up.a_tree]" : {shiri} 
 ! 
 | "[=shikiri][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
 | "[=terong][IdeoPRQ][=drumming]" : {terong} 
@@ -111,12 +111,12 @@ define IdeoPRQin [
 | "[=tsatsik][IdeoPRQ][=bursting.of.a_thread]" : {tsatsik} 
 | "[=cheket][IdeoPRQ][=punctual.action.of.penetrating.an_object (arrow.hitting.human.body, spider.biting.into.flesh)]" : {cheket} 
 | "[=shepik][IdeoPRQ][=grabbing.a_moving_object]" : {shepik} 
-| "[=panek+redup.word][IdeoPRQ][=digging.soil.in.scoops]" : {panek} 
+| "[=panek+s.redup.word][IdeoPRQ][=digging.soil.in.scoops]" : {panek} 
 ! 
-| "[=kori+redup.word][IdeoPRQ][=action.of.continuously.gulping.water]" : {kori} 
+| "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water]" : {kori} 
 | "[=kori^k][IdeoPRQ][=action.of.gulping.water.once]" : {korik} 
 ! 
-| "[=cheki+redup.word][IdeoPRQ][=repeated.cutting.action]" : {cheki} 
+| "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action]" : {cheki} 
 | "[=cheki^k][IdeoPRQ][=punctual.action.of.making.a_cut]" : {chekik} 
 ! 
 | "[=tyakik][IdeoPRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
@@ -124,17 +124,17 @@ define IdeoPRQin [
 | "[=piche][IdeoPRQ][=chewing.manioc; action.of.chewing]" : {piche} 
 | "[=pichek][IdeoPRQ][=punctual.action.of.slapping.water]" : {pichek} 
 ! 
-| "[=miha+redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
+| "[=miha+s.redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
 ! 
-| "[=macho+redup.word][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
+| "[=macho+s.redup.word][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
 ! 
-| "[=moye+redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
+| "[=moye+s.redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
 ! 
 | "[=tire][IdeoPRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
 ! 
 | "[=shero][IdeoPRQ][=slipping.and.falling.on.the_surface]" : {shero} 
 ! 
-| "[=tapo+redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects]" : {tapo} ! N@->V
+| "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects]" : {tapo} ! N@->V
 ! 
 | "[=vanik][IdeoPRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
 ! 
@@ -142,23 +142,23 @@ define IdeoPRQin [
 ! 
 | "[=ahak][IdeoPRQ][=sneezing]" : {ahak} 
 ! 
-| "[=peke+redup.word][IdeoPRQ][=sound.of.a.motor.boat]" : {peke} 
+| "[=peke+s.redup.word][IdeoPRQ][=sound.of.a.motor.boat]" : {peke} 
 ! 
 | "[=tsopak][IdeoPRQ][=sudden.forceful.detachment.of.one.entity.from.another]" : {tsopak} 
 ! 
-| "[=sori+redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores.on.the.skin (accompanied.by.swelling)]" : {sori} 
+| "[=sori+s.redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores.on.the.skin (accompanied.by.swelling)]" : {sori} 
 ! 
-| "[=vako+redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand]" : {vako} 
+| "[=vako+s.redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand]" : {vako} 
 ! 
-| "[=sakiri+redup.word][IdeoPRQ][=moving.in.a.straight.line]" : {sakiri} 
+| "[=sakiri+s.redup.word][IdeoPRQ][=moving.in.a.straight.line]" : {sakiri} 
 ! 
-| "[=koshe+redup.word][IdeoPRQ][=to.shave.in.long.strips]" : {koshe} 
+| "[=koshe+s.redup.word][IdeoPRQ][=to.shave.in.long.strips]" : {koshe} 
 ! 
-| "[=pishi+redup.word][IdeoPRQ][=to.sweep.the.ground]" : {pishi} 
+| "[=pishi+s.redup.word][IdeoPRQ][=to.sweep.the.ground]" : {pishi} 
 ! 
-| "[=shetak+redup.word][IdeoPRQ][=to.limp]" : {shetak} 
+| "[=shetak+s.redup.word][IdeoPRQ][=to.limp]" : {shetak} 
 ! 
-| "[=kisho+redup.word][IdeoPRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river]" : {kisho} 
+| "[=kisho+s.redup.word][IdeoPRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river]" : {kisho} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -166,13 +166,13 @@ define IdeoPRQin [
 | "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance]" : {tankorek}
 | "[=mantsari][IdeoPRQ][=scratching.with.nails/claws]" : {mantsari}
 | "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
-| "[=mokoro+redup.word][IdeoPRQ][=sensation.of.vomiting]" : {mokoro}
+| "[=mokoro+s.redup.word][IdeoPRQ][=sensation.of.vomiting]" : {mokoro}
 ! 
-| "[=metori+redup.word][IdeoPRQ][=cutting.weeds/twigs.of.firewood; <:digging.soft.soil.with.hands]" : {metori}
+| "[=metori+s.redup.word][IdeoPRQ][=cutting.weeds/twigs.of.firewood; <:digging.soft.soil.with.hands]" : {metori}
 ! 
-| "[=patari+redup.word][IdeoPRQ][=multiple.objects.falling; downward.falling.motion.of.many.non-human.objects (usually.fruit)]" : {patari}
-| "[=tsikiri+redup.word][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
-| "[=sapiri+redup.word][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
+| "[=patari+s.redup.word][IdeoPRQ][=multiple.objects.falling; downward.falling.motion.of.many.non-human.objects (usually.fruit)]" : {patari}
+| "[=tsikiri+s.redup.word][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
+| "[=sapiri+s.redup.word][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
 | "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
 ! 
 | "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope]" : {tsatzik}
@@ -181,7 +181,7 @@ define IdeoPRQin [
 | "[=sanarek][IdeoPRQ][=falling.down.into.a_vacuous_space]" : {sanarek}
 | "[=kitarek][IdeoPRQ][=regaining.consciousness]" : {kitarek}
 ! 
-| "[=tiviron+redup.word][IdeoPRQ][=moving.in.circles]" : {tiviron}
+| "[=tiviron+s.redup.word][IdeoPRQ][=moving.in.circles]" : {tiviron}
 ! 
 | "[=sopirek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; surprisingly.quickly]" : {sopirek}
 ! 
@@ -189,21 +189,21 @@ define IdeoPRQin [
 ! 
 | "[=shiparik][IdeoPRQ][=grabbing.a.moving.object]" : {shiparik}
 ! 
-| "[=tyaapaki+redup.word][IdeoPRQ][=walking.in.a.duck-like.manner]" : {tyaapaki}
+| "[=tyaapaki+s.redup.word][IdeoPRQ][=walking.in.a.duck-like.manner]" : {tyaapaki}
 # ---------------------------------------------------------------
-| "[=terempiri+redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
-| "[=terempiro+redup.word][IdeoPRQ][=curved.object]" : {terempiro}
-| "[=pitokiri+redup.word][IdeoPRQ][=to.break.in.pieces]" : {pitokiri}
+| "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
+| "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
+| "[=pitokiri+s.redup.word][IdeoPRQ][=to.break.in.pieces]" : {pitokiri}
 # ---------------------------------------------------------------
 | "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
 | "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
-| "[=ooo+redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
+| "[=ooo+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
 | "[=shitokokoko][IdeoPRQ][=animal.cry.made.by.a.capuchin.monkey]" : {shitokokoko}
-| "[=hau+redup.word][IdeoPRQ][=animal.cry.made.by.a.dog]" : {hau}
-| "[=heem+redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.boa-like.river.creature]" : {heem}
-| "[=hoom+redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.deer-like.demonic.forest.creature]" : {hoom}
+| "[=hau+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.dog]" : {hau}
+| "[=heem+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.boa-like.river.creature]" : {heem}
+| "[=hoom+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.deer-like.demonic.forest.creature]" : {hoom}
 ! 
-| "[=she+redup.word][IdeoPRQ][=bird.call/sound.made.by.a.bird_species/sheshetzi]" : {she}
+| "[=she+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.bird_species/sheshetzi]" : {she}
 | "[=kokoriko][IdeoPRQ][=bird.call/sound.made.by.a.rooster]" : {kokoriko}
 | "[=totorao][IdeoPRQ][=bird.call/sound.made.by.a.hen]" : {totorao}
 ];
