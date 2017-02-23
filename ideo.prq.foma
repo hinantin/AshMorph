@@ -128,6 +128,8 @@ define IdeoPRQin [
 ! 
 | "[=miha+s.redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
 ! 
+| "[=chentek][IdeoPRQ][=leaping.like.a_deer]" : {chentek} 
+! 
 | "[=macho+s.redup.word][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
 ! 
 | "[=moye+s.redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
@@ -158,7 +160,7 @@ define IdeoPRQin [
 ! 
 | "[=pishi+s.redup.word][IdeoPRQ][=to.sweep.the.ground]" : {pishi} 
 ! 
-| "[=shetak+s.redup.word][IdeoPRQ][=to.limp]" : {shetak} 
+| "[=shetak+s.redup.word][IdeoPRQ][=to.limp; limping.gait]" : {shetak} 
 ! 
 | "[=kisho+s.redup.word][IdeoPRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river]" : {kisho} 
 ! 
