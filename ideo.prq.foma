@@ -38,7 +38,11 @@ define IdeoPRQin [
 ! 
 | "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle]" : {too}
 ! 
-| "[=tang][IdeoPRQ][=bell.ringing]" : {tang}
+| "[=tang][IdeoPRQ][=bell.ringing; sound.of_the_church_bell/of_coin/of_can.fallen.on.the_ground]" : {tang}
+! 
+| "[=tong][IdeoPRQ][=sound.of.an_arrow.which.reached.the_bottom.of.a.hollow.underground.cavity]" : {tong}
+! 
+| "[=teng][IdeoPRQ][=sound.of.a_fart]" : {teng}
 ! 
 | "[=shoi+s.redup.word][IdeoPRQ][=twisting.movement; object's.circular.movement.around.another.object]" : {shoi}
 ! 
@@ -110,7 +114,8 @@ define IdeoPRQin [
 | "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; climbing.up.a_tree]" : {shiri} 
 | "[=shikiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
 ! 
-| "[=terong][IdeoPRQ][=drumming]" : {terong} 
+| "[=terong][IdeoPRQ][=drumming; sound.of.a.drum]" : {terong} 
+! 
 | "[=morok][IdeoPRQ][=sensation.of.an_arrow.hitting.a_body]" : {morok} 
 | "[=tsatsik][IdeoPRQ][=bursting.of.a_thread]" : {tsatsik} 
 | "[=cheket][IdeoPRQ][=punctual.action.of.penetrating.an_object (arrow.hitting.human.body, spider.biting.into.flesh)]" : {cheket} 
@@ -206,7 +211,7 @@ define IdeoPRQin [
 | "[=tsatzi+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread)]" : {tsatzi}
 ! 
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.thread]" : {mamporik}
-| "[=shimori][IdeoPRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
+| "[=shimori+s.redup.word][IdeoPRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
 | "[=sanarek][IdeoPRQ][=falling.down.into.a_vacuous_space]" : {sanarek}
 | "[=kitarek][IdeoPRQ][=regaining.consciousness]" : {kitarek}
 ! 
