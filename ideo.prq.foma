@@ -144,7 +144,7 @@ define IdeoPRQin [
 ! 
 | "[=peke+s.redup.word][IdeoPRQ][=sound.of.a.motor.boat]" : {peke} 
 ! 
-| "[=tsopak][IdeoPRQ][=sudden.forceful.detachment.of.one.entity.from.another]" : {tsopak} 
+| "[=tsopak][IdeoPRQ][=sudden.forceful.detachment.of.one.entity.from.another; slipping.off.due.to.a.forceful.action (e.g.: a_sandal.slipping.off.a.foot.while.it.kicks.a_ball)]" : {tsopak} 
 ! 
 | "[=sori+s.redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores/pockmarks.on.the.skin (accompanied.by.swelling)]" : {sori} 
 ! 
@@ -161,6 +161,11 @@ define IdeoPRQin [
 | "[=kisho+s.redup.word][IdeoPRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river]" : {kisho} 
 ! 
 | "[=sarak][IdeoPRQ][=entering.solid.space, (e.g. an.arrow.piercing.flesh)]" : {sarak} 
+! 
+| "[=shitak][IdeoPRQ][=loudly.slammed.door]" : {shitak} 
+! 
+| "[=tzimpa][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpa} 
+| "[=tzimpak][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpak} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
