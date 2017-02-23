@@ -7,7 +7,7 @@ define IdeoPRQin [
 ########
 #  pok  
 # - light object hitting a solid surface, without compromising the object’s integrity
-| "[=pok][IdeoPRQ][=falling.into.water; hitting.sth. (human.body)]" : {pok}
+| "[=pok][IdeoPRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pok}
 ! 
 | "[=tee][IdeoPRQ][=hitting.a.human.body]" : {tee}
 | "[=tek][IdeoPRQ][=hitting.a.human.body]" : {tek}
@@ -19,7 +19,7 @@ define IdeoPRQin [
 | "[=tyak+s.redup.word][IdeoPRQ][=crushing/nailing.sth (e.g.: cotton.or.manioc.mass)]" : {tyak}
 ! 
 | "[=tek+s.redup.word][IdeoPRQ][=running.briskly]" : {tek}
-| "[=tok+s.redup.word][IdeoPRQ][=running.briskly]" : {tok}
+| "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit]" : {tok}
 ! 
 | "[=shek+s.redup.word][IdeoPRQ][=walking.fast]" : {shek}
 ! 
@@ -61,10 +61,10 @@ define IdeoPRQin [
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
-| "[=tsapo+s.redup.word][IdeoPRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour]" : {tsapo}
+| "[=tsapo+s.redup.word][IdeoPRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour; water.slowly.filling.a_canoe]" : {tsapo}
 | "[=tsapo^k][IdeoPRQ][=falling.into.water; punctual.action.of.shallow.splash.caused.by.the_light.object's.fall.into.the_water]" : {tsapok}
 ! 
-| "[=mako][IdeoPRQ][=water.level.rising.quickly.in.river]" : {mako}
+| "[=mako+s.redup.word][IdeoPRQ][=water.level.rising.quickly.in.river; slowly.rising.water.level.in.the_river]" : {mako}
 ! 
 | "[=tziri][IdeoPRQ][=taking.a.picture]" : {tziri}
 | "[=tzirik][IdeoPRQ][=taking.a.picture; adhesive.contact.between.two.entities]" : {tzirik}
@@ -168,6 +168,13 @@ define IdeoPRQin [
 | "[=tzimpak][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpak} 
 ! 
 | "[=chota+s.redup.word][IdeoPRQ][=having.sex]" : {chota} 
+! 
+| "[=sherok][IdeoPRQ][=effortlessly.entering.a_vacuous_space/an_animal_den]" : {sherok} 
+| "[=tepok][IdeoPRQ][=effortlessly.entering.a_vacuous_space/an_animal_den]" : {tepok} 
+! 
+| "[=sapok][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment]" : {sapok} 
+! 
+| "[=chako+s.redup.word][IdeoPRQ][=small.waves.produced.by.the.slowly.gliding.canoe]" : {chako} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -199,6 +206,8 @@ define IdeoPRQin [
 | "[=shiparik][IdeoPRQ][=grabbing.a.moving.object]" : {shiparik}
 ! 
 | "[=tyaapaki+s.redup.word][IdeoPRQ][=walking.in.a.duck-like.manner]" : {tyaapaki}
+! 
+| "[=tsakorok][IdeoPRQ][=stepping/falling.in.shallow_water.&.producing.no.splashes]" : {tsakorok}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
