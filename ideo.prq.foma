@@ -203,6 +203,8 @@ define IdeoPRQin [
 | "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
 ! 
 | "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope]" : {tsatzik}
+| "[=tsatzi+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread)]" : {tsatzi}
+! 
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.thread]" : {mamporik}
 | "[=shimori][IdeoPRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
 | "[=sanarek][IdeoPRQ][=falling.down.into.a_vacuous_space]" : {sanarek}
@@ -217,6 +219,8 @@ define IdeoPRQin [
 | "[=shiparik][IdeoPRQ][=grabbing.a.moving.object]" : {shiparik}
 ! 
 | "[=tyaapaki+s.redup.word][IdeoPRQ][=walking.in.a.duck-like.manner]" : {tyaapaki}
+! 
+| "[=pitsari+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread)]" : {pitsari}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
