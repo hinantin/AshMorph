@@ -78,8 +78,8 @@ define IdeoPRQin [
 | "[=shepi][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
 | "[=koma][IdeoPRQ][=paddling.canoe]" : {koma}
 ! 
-| "[=chiki][IdeoPRQ][=cutting.tree]" : {chiki}
-| "[=chikiredup.word][IdeoPRQ][=spatially.distributed.appearance.of.localized.body.swelling (result.of.an.insect_bite)]" : {chiki}
+| "[=chiki+s.redup.word][IdeoPRQ][=cutting.tree(s)]" : {chiki}
+| "[=chiki+s.redup.word][IdeoPRQ][=spatially.distributed.appearance.of.localized.body.swelling (result.of.an.insect_bite)]" : {chiki}
 ! 
 | "[=motek][IdeoPRQ][=bouncing.off.surface (e.g.: round.object,ball)]" : {motek}
 | "[=pote][IdeoPRQ][=slowly.trickling.drops.of.liquid]" : {pote}
@@ -104,10 +104,10 @@ define IdeoPRQin [
 ! 
 | "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
 ! 
-| "[=shiri][IdeoPRQ][=dry.leaves.rustling]" : {shiri} 
+| "[=shiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shiri} 
 | "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; climbing.up.a_tree]" : {shiri} 
+| "[=shikiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
 ! 
-| "[=shikiri][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
 | "[=terong][IdeoPRQ][=drumming]" : {terong} 
 | "[=morok][IdeoPRQ][=sensation.of.an_arrow.hitting.a_body]" : {morok} 
 | "[=tsatsik][IdeoPRQ][=bursting.of.a_thread]" : {tsatsik} 
