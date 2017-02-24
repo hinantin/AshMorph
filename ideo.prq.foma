@@ -205,10 +205,12 @@ define IdeoPRQin [
 ! 
 | "[=pitso+s.redup.word][IdeoPRQ][=woman.walking.with.gyrating.hips]" : {pitso} 
 ! 
-| "[=potso+s.redup.word][IdeoPRQ][=painting.a_face]" : {potso} 
+| "[=viri+s.redup.word][IdeoPRQ][=cutting.fish/reed.into.pieces]" : {viri} 
 ! 
 | "[=shaari+s.redup.word][IdeoPRQ][=tearing/peeling.off.in.strips (e.g.: a_banana,tree.bark,a_page.from.book)]" : {shaari}
 | "[=shaariri+s.redup.word][IdeoPRQ][=tearing/peeling.off.in.strips (e.g.: a_banana,tree.bark,a_page.from.book)]" : {shaariri}
+! 
+| "[=sapok][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment]" : {sapok} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -221,7 +223,7 @@ define IdeoPRQin [
 ! 
 | "[=mokoro+s.redup.word][IdeoPRQ][=sensation.of.vomiting]" : {mokoro}
 ! 
-| "[=metori+s.redup.word][IdeoPRQ][=cutting.weeds/twigs.of.firewood; <:digging.soft.soil.with.hands]" : {metori}
+| "[=metori+s.redup.word][IdeoPRQ][=cutting.weeds/twigs.of.firewood, cutting/breaking.firewood.with.hands; <:digging.soft.soil.with.hands]" : {metori}
 ! 
 | "[=patari+s.redup.word][IdeoPRQ][=multiple.objects.falling; downward.falling.motion.of.many.non-human.objects (usually.fruit)]" : {patari}
 | "[=tsikiri+s.redup.word][IdeoPRQ][=liquid.gushing.out.in.a.stream]" : {tsikiri}
@@ -255,10 +257,12 @@ define IdeoPRQin [
 | "[=shitari+s.redup.word][IdeoPRQ][=splitting.in.two]" : {shitari}
 ! 
 | "[=kotari+s.redup.word][IdeoPRQ][=splitting.open.watermelon, splitting.thick.firewood]" : {kotari}
+! 
+| "[=tsopirik][IdeoPRQ][=breaking.off.fruit (e.g.: pineapple)]" : {tsopirik}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
-| "[=pitokiri+s.redup.word][IdeoPRQ][=to.break.in.pieces]" : {pitokiri}
+| "[=pitokiri+s.redup.word][IdeoPRQ][=to.break.in.pieces; breaking.food.into.multiple.pieces (e.g. cooked.manioc, squash, papaya)]" : {pitokiri}
 | "[=chirirorik][IdeoPRQ][=shallow.splash]" : {chirirorik}
 | "[=pakarorik][IdeoPRQ][=falling.of.corn/grain.feed.for.chickens]" : {pakarorik}
 | "[=chikiroring][IdeoPRQ][=falling.&.resulting.in.the.disintegration.of.a.fragile.object (e.g.: mirror, tea_cup)]" : {chikiroring}
