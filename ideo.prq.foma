@@ -132,8 +132,8 @@ define IdeoPRQin [
 | "[=shepik][IdeoPRQ][=grabbing.a_moving_object]" : {shepik} 
 | "[=panek+s.redup.word][IdeoPRQ][=digging.soil.in.scoops]" : {panek} 
 ! 
-| "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water]" : {kori} 
-| "[=kori^k][IdeoPRQ][=action.of.gulping.water.once]" : {korik} 
+| "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water; swallowing.liquid]" : {kori} 
+| "[=kori^k][IdeoPRQ][=action.of.gulping.water.once; swallowing.liquid]" : {korik} 
 ! 
 | "[=chek+s.redup.word][IdeoPRQ][=chopping.wood]" : {chek} 
 | "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action; chopping.wood]" : {cheki} 
