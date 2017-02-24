@@ -131,7 +131,8 @@ define IdeoPRQin [
 | "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water]" : {kori} 
 | "[=kori^k][IdeoPRQ][=action.of.gulping.water.once]" : {korik} 
 ! 
-| "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action]" : {cheki} 
+| "[=chek+s.redup.word][IdeoPRQ][=chopping.wood]" : {chek} 
+| "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action; chopping.wood]" : {cheki} 
 | "[=cheki^k][IdeoPRQ][=punctual.action.of.making.a_cut]" : {chekik} 
 ! 
 | "[=tyakik][IdeoPRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
