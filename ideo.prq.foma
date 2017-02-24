@@ -88,6 +88,8 @@ define IdeoPRQin [
 | "[=shipik][IdeoPRQ][=getting.hold.of.an_object; grabbing.moving.object]" : {shipik}
 ! 
 | "[=shepi][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
+| "[=shepi+s.redup.word][IdeoPRQ][=blocking.the_waterstream.with.dry.leaves.and.stones (creating.a.dam)]" : {shepi}
+! 
 | "[=koma][IdeoPRQ][=paddling.canoe]" : {koma}
 ! 
 | "[=chiki+s.redup.word][IdeoPRQ][=cutting.tree(s); striking_the_ground/digging.with.a.machete]" : {chiki}
