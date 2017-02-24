@@ -79,7 +79,7 @@ define IdeoPRQin [
 ! 
 | "[=tsomi+s.redup.word][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
 ! 
-| "[=shipik][IdeoPRQ][=grabbing.moving.object]" : {shipik}
+| "[=shipik][IdeoPRQ][=getting.hold.of.an_object; grabbing.moving.object]" : {shipik}
 ! 
 | "[=shepi][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
 | "[=koma][IdeoPRQ][=paddling.canoe]" : {koma}
@@ -87,7 +87,7 @@ define IdeoPRQin [
 | "[=chiki+s.redup.word][IdeoPRQ][=cutting.tree(s)]" : {chiki}
 | "[=chiki+s.redup.word][IdeoPRQ][=spatially.distributed.appearance.of.localized.body.swelling (result.of.an.insect_bite)]" : {chiki}
 ! 
-| "[=motek][IdeoPRQ][=bouncing.off.surface (e.g.: round.object,ball)]" : {motek}
+| "[=motek][IdeoPRQ][=bouncing.off.surface (e.g.: round.object,ball); light.object.falling (e.g.: fruit)]" : {motek}
 | "[=pote][IdeoPRQ][=slowly.trickling.drops.of.liquid]" : {pote}
 
 | "[=tsimpak][IdeoPRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
@@ -242,6 +242,8 @@ define IdeoPRQin [
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
 | "[=pitokiri+s.redup.word][IdeoPRQ][=to.break.in.pieces]" : {pitokiri}
 | "[=chirirorik][IdeoPRQ][=shallow.splash]" : {chirirorik}
+| "[=pakarorik][IdeoPRQ][=falling.of.corn/grain.feed.for.chickens]" : {pakarorik}
+pakarorik
 # ---------------------------------------------------------------
 | "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
 | "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
