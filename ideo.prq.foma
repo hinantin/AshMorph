@@ -178,7 +178,7 @@ define IdeoPRQin [
 ! 
 | "[=sori+s.redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores/pockmarks.on.the.skin (accompanied.by.swelling)]" : {sori} 
 ! 
-| "[=vako+s.redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand]" : {vako} 
+| "[=vako+s.redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand; waving.with.a.folded.hand.signaling.an_intention.to.talk]" : {vako} 
 ! 
 | "[=sakiri+s.redup.word][IdeoPRQ][=moving.in.a.straight.line; filing.down.an_arrow]" : {sakiri} 
 ! 
@@ -188,7 +188,7 @@ define IdeoPRQin [
 ! 
 | "[=shetak+s.redup.word][IdeoPRQ][=to.limp; limping.gait]" : {shetak} 
 ! 
-| "[=kisho+s.redup.word][IdeoPRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river]" : {kisho} 
+| "[=kisho+s.redup.word][IdeoPRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river; spitting.saliva.in.a.fishing.ritual]" : {kisho} 
 ! 
 | "[=sarak][IdeoPRQ][=entering.solid.space, (e.g. an.arrow.piercing.flesh)]" : {sarak} 
 ! 
@@ -227,6 +227,11 @@ define IdeoPRQin [
 | "[=marok][IdeoPRQ][=extending.a_mat/a_piece_of_clothing.on.the_ground]" : {marok} 
 ! 
 | "[=teka+s.redup.word][IdeoPRQ][=body.shaking]" : {teka} 
+! 
+| "[=viro+s.redup.word][IdeoPRQ][=many.people.talking]" : {viro} 
+! 
+| "[=shiri+s.redup.word][IdeoPRQ][=sweeping.the.floor.with.a_broom]" : {shiri} 
+| "[=pishe+s.redup.word][IdeoPRQ][=sweeping.the.floor.with.a_broom]" : {pishe} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
