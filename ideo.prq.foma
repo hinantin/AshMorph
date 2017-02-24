@@ -189,7 +189,7 @@ define IdeoPRQin [
 | "[=shitak][IdeoPRQ][=loudly.slammed.door]" : {shitak} 
 ! 
 | "[=tzimpa][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpa} 
-| "[=tzimpak][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpak} 
+| "[=tzimpak+s.redup.word][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots, pulling.weeds.from.the_ground; human_body.agonizing.in.violent.convulsions]" : {tzimpak} 
 ! 
 | "[=chota+s.redup.word][IdeoPRQ][=having.sex]" : {chota} 
 ! 
@@ -214,6 +214,8 @@ define IdeoPRQin [
 | "[=shaariri+s.redup.word][IdeoPRQ][=tearing/peeling.off.in.strips (e.g.: a_banana,tree.bark,a_page.from.book)]" : {shaariri}
 ! 
 | "[=sapok][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment]" : {sapok} 
+! 
+| "[=tsinka+s.redup.word][IdeoPRQ][=crushing.manioc/cotton.mass.in.a_trough]" : {tsinka} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -262,6 +264,8 @@ define IdeoPRQin [
 | "[=kotari+s.redup.word][IdeoPRQ][=splitting.open.watermelon, splitting.thick.firewood]" : {kotari}
 ! 
 | "[=tsopirik][IdeoPRQ][=breaking.off.fruit (e.g.: pineapple)]" : {tsopirik}
+! 
+| "[=mankari+s.redup.word][IdeoPRQ][=pulling.weeds.from.the_ground]" : {mankari}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
