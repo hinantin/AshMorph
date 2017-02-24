@@ -246,9 +246,11 @@ define IdeoPRQin [
 ! 
 | "[=tyaapaki+s.redup.word][IdeoPRQ][=walking.in.a.duck-like.manner (with.big.feet)]" : {tyaapaki}
 ! 
-| "[=pitsari+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread)]" : {pitsari}
+| "[=pitsari+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread, meat)]" : {pitsari}
 ! 
 | "[=sanarik][IdeoPRQ][=crashing.into.a.vacuous.space (e.g.: falling.through.the.roof.of.the.house)]" : {sanarik}
+! 
+| "[=pitori+s.redup.word][IdeoPRQ][=breaking.sth.soft.into.pieces (e.g.: a.soft.stone, cookie, bread, banana, cooked.manioc)]" : {pitori}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
