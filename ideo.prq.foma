@@ -2,8 +2,9 @@ define IdeoPRQin [
 # ---------------------------------------
 #        MONOSYLLABIC IDEOPHONE          
 # ---------------------------------------
-  "[=poo][IdeoPRQ][=hitting.sth. (human.body); penetration]" : {poo}
-| "[=pooo][IdeoPRQ][=hitting.sth. (human.body); penetration]" : [{pooo}]
+  "[=poo][IdeoPRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : {poo}
+| "[=pooo][IdeoPRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : [{pooo}]
+| "[=poom][IdeoPRQ][=heavy.object.falling]" : [{poom}]
 ########
 #  pok  
 # - light object hitting a solid surface, without compromising the object’s integrity
@@ -29,6 +30,9 @@ define IdeoPRQin [
 ! 
 | "[=chaa][IdeoPRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaa}
 | "[=chaaaa][IdeoPRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaaaa}
+! 
+| "[=chaa][IdeoPRQ][=heavy.object.falling]" : {chaa}
+| "[=chaak][IdeoPRQ][=heavy.object.falling]" : {chaak}
 ! 
 | "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {shee}
 | "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheee}
