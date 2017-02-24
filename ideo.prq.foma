@@ -139,6 +139,9 @@ define IdeoPRQin [
 | "[=chintek][IdeoPRQ][=leaping.like.a_deer]" : {chintek} 
 | "[=chentek][IdeoPRQ][=leaping.like.a_deer]" : {chentek} 
 ! 
+| "[=chinte+s.redup.word][IdeoPRQ][=woman walking.in.high.heels]" : {chinte}
+| "[=chinteki+s.redup.word][IdeoPRQ][=woman walking.in.high.heels]" : {chinteki} 
+! 
 | "[=macho+s.redup.word][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
 ! 
 | "[=moye+s.redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
@@ -148,6 +151,7 @@ define IdeoPRQin [
 | "[=shero][IdeoPRQ][=slipping.and.falling.on.the_surface]" : {shero} 
 ! 
 | "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects]" : {tapo} ! N@->V
+| "[=tapo+s.redup.word][IdeoPRQ][=leaping.like.a_frog]" : {tapo}
 ! 
 | "[=vanik][IdeoPRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
 ! 
@@ -191,6 +195,8 @@ define IdeoPRQin [
 | "[=chako+s.redup.word][IdeoPRQ][=small.waves.produced.by.the.slowly.gliding.canoe; water.movement.in.a.gourd.carried.on.the_back]" : {chako} 
 ! 
 | "[=tsako+s.redup.word][IdeoPRQ][=boiling.water.in.a_pot]" : {tsako} 
+! 
+| "[=pitso+s.redup.word][IdeoPRQ][=woman.walking.with.gyrating.hips]" : {pitso} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -226,7 +232,7 @@ define IdeoPRQin [
 ! 
 | "[=shiparik][IdeoPRQ][=grabbing.a.moving.object]" : {shiparik}
 ! 
-| "[=tyaapaki+s.redup.word][IdeoPRQ][=walking.in.a.duck-like.manner]" : {tyaapaki}
+| "[=tyaapaki+s.redup.word][IdeoPRQ][=walking.in.a.duck-like.manner (with.big.feet)]" : {tyaapaki}
 ! 
 | "[=pitsari+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread)]" : {pitsari}
 # ---------------------------------------------------------------
