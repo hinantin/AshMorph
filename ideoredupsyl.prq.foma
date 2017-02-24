@@ -12,7 +12,7 @@ define REDUPSYL ?* "+redup.syl.";
 
 define IdeoRedupSylPRQin 0:"^["
 [ 
-  [ "[" "=pinairi" "]" "[" "IdeoPRQ" "]" "[" "=scratching.with.nails/claws" "]" ] : {pinairi}
+  [ "[" "=pinairi" "]" "[" "IdeoPRQ" "]" "[" "=scratching.with.nails/claws; stretching_out/rolling_out.a_roll.of.plastic; leafing.through.a_book" "]" ] : {pinairi}
 | [ "[" "=moiri" "]" "[" "IdeoPRQ" "]" "[" "=rising.smoke.from.the_burning_fire" "]" ] : {moiri}
 | [ "[" "=sherori" "]" "[" "IdeoPRQ" "]" "[" "=sliding.down.the_tree (slowly)" "]" ] : {sherori}
 ! 
