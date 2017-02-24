@@ -121,7 +121,7 @@ define IdeoPRQin [
 | "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
 ! 
 | "[=shiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shiri} 
-| "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; climbing.up.a_tree]" : {shiri} 
+| "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; climbing.up.a_tree; wiping.tears.from.the.face]" : {shiri} 
 | "[=shikiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
 ! 
 | "[=terong][IdeoPRQ][=drumming; sound.of.a.drum]" : {terong} 
@@ -225,6 +225,8 @@ define IdeoPRQin [
 | "[=tsinka+s.redup.word][IdeoPRQ][=crushing.manioc/cotton.mass.in.a_trough]" : {tsinka} 
 ! 
 | "[=marok][IdeoPRQ][=extending.a_mat/a_piece_of_clothing.on.the_ground]" : {marok} 
+! 
+| "[=teka+s.redup.word][IdeoPRQ][=body.shaking]" : {teka} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------

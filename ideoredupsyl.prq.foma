@@ -30,6 +30,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=tsinteakeri" "]" "[" "IdeoPRQ" "]" "[" "=heavy.rainfall" "]" ] : {tsinteakeri}
 | [ "[" "=chiri" "]" "[" "IdeoPRQ" "]" "[" "=tearing.fabric.apart" "]" ] : {chiri}
 | [ "[" "=shirori" "]" "[" "IdeoPRQ" "]" "[" "=slipping.down.a.tree" "]" ] : {shirori}
+| [ "[" "=tsari" "]" "[" "IdeoPRQ" "]" "[" "=stretching.body" "]" ] : {tsari}
 
 | [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
 | [ "[" "=vore" "]" "[" "IdeoPRQ" "]" "[" "=brilliance.of.the_sun" "]" ] : {vore}
