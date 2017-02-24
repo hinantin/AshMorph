@@ -50,6 +50,7 @@ define IdeoRedupSylPRQin 0:"^["
 
 | [ "[" "=sero" "]" "[" "IdeoPRQ" "]" "[" "=sliding.downward" "]" ] : {sero}
 | [ "[" "=hero" "]" "[" "IdeoPRQ" "]" "[" "=sound.of.a_large_fire" "]" ] : {hero}
+| [ "[" "=tsakoro" "]" "[" "IdeoPRQ" "]" "[" "=emptying.water.bottle" "]" ] : {tsakoro}
 ] 
 ["+redup.syl."]
 0:"^]";

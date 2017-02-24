@@ -92,7 +92,7 @@ define IdeoPRQin [
 | "[=shepi][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
 | "[=shepi+s.redup.word][IdeoPRQ][=blocking.the_waterstream.with.dry.leaves.and.stones (creating.a.dam)]" : {shepi}
 ! 
-| "[=koma][IdeoPRQ][=paddling.canoe]" : {koma}
+| "[=koma+s.redup.word][IdeoPRQ][=paddling.canoe; moving.a_canoe.with.a_paddle]" : {koma}
 ! 
 | "[=chiki+s.redup.word][IdeoPRQ][=cutting.tree(s); striking_the_ground/digging.with.a.machete]" : {chiki}
 | "[=chiki+s.redup.word][IdeoPRQ][=spatially.distributed.appearance.of.localized.body.swelling (result.of.an.insect_bite)]" : {chiki}
@@ -116,7 +116,7 @@ define IdeoPRQin [
 | "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
 ! 
 | "[=peta+s.redup.word][IdeoPRQ][=bird.wings.flapping; sound.of.diarrhea, having.diarrhea]" : {peta}
-| "[=petak+s.redup.word][IdeoPRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event]" : {petak}
+| "[=petak+s.redup.word][IdeoPRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event; fanning.the_fire.with.a_fan]" : {petak}
 ! 
 | "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
 ! 
@@ -155,13 +155,13 @@ define IdeoPRQin [
 ! 
 | "[=macho+s.redup.word][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
 ! 
-| "[=moye+s.redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot]" : {moye} 
+| "[=moye+s.redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot; water.boiling.in.a_pot; general.body.ache]" : {moye} 
 ! 
 | "[=tire][IdeoPRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
 ! 
 | "[=shero][IdeoPRQ][=slipping.and.falling.on.the_surface]" : {shero} 
 ! 
-| "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects]" : {tapo} ! N@->V
+| "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V
 | "[=tapo+s.redup.word][IdeoPRQ][=leaping.like.a_frog]" : {tapo}
 ! 
 | "[=vanik][IdeoPRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
@@ -209,7 +209,7 @@ define IdeoPRQin [
 | "[=sapok][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment; getting.undressed.by.removing.clothes.from.the.upper.body (e.g.: a_hat, a_shawl, a_robe)]" : {sapok} 
 | "[=saporik][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment; getting.undressed.by.removing.clothes.from.the.upper.body (e.g.: a_hat, a_shawl, a_robe)]" : {saporik} 
 ! 
-| "[=chako+s.redup.word][IdeoPRQ][=small.waves.produced.by.the.slowly.gliding.canoe; water.movement.in.a.gourd.carried.on.the_back]" : {chako} 
+| "[=chako+s.redup.word][IdeoPRQ][=small.waves.produced.by.the.slowly.gliding.canoe; water.movement.in.a.gourd.carried.on.the_back; movement.of.water.in.the_bottle.when.carried.on.the_back]" : {chako} 
 ! 
 | "[=tsako+s.redup.word][IdeoPRQ][=boiling.water.in.a_pot]" : {tsako} 
 ! 
@@ -230,11 +230,15 @@ define IdeoPRQin [
 ! 
 | "[=viro+s.redup.word][IdeoPRQ][=many.people.talking]" : {viro} 
 ! 
-| "[=shiri+s.redup.word][IdeoPRQ][=sweeping.the.floor.with.a_broom]" : {shiri} 
+| "[=shiri+s.redup.word][IdeoPRQ][=sweeping.the.floor.with.a_broom; sewing/bead_stringing]" : {shiri} 
 | "[=pishe+s.redup.word][IdeoPRQ][=sweeping.the.floor.with.a_broom]" : {pishe} 
+! 
+| "[=kiva+s.redup.word][IdeoPRQ][=washing.clothes]" : {kiva} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
+| "[=tankori][IdeoPRQ][=becoming.awake/conscious]" : {tankori}
+| "[=tankorik][IdeoPRQ][=becoming.awake/conscious]" : {tankorik}
 | "[=tankorek][IdeoPRQ][=regain.consciousness]" : {tankorek}
 | "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance; jump.like.a.deer]" : {tankorek}
 | "[=mantsari+s.redup.word][IdeoPRQ][=scratching.with.nails/claws; shredding/scratching/raking]" : {mantsari}
@@ -286,8 +290,12 @@ define IdeoPRQin [
 | "[=mankari+s.redup.word][IdeoPRQ][=pulling.weeds.from.the_ground]" : {mankari}
 ! 
 | "[=sokirik][IdeoPRQ][=object.disappearing.suddenly (e.g.: human, snake)]" : {sokirik}
+! 
+| "[=hempari+s.redup.word][IdeoPRQ][=pain.abating]" : {hempari}
+! 
+| "[=tsinkare][IdeoPRQ][=feeling.cold.due.to.fear (cf. to.feel.chills.running.up.the_spine)]" : {tsinkare}
 # ---------------------------------------------------------------
-| "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river)]" : {terempiri}
+| "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
 | "[=pitokiri+s.redup.word][IdeoPRQ][=to.break.in.pieces; breaking.food.into.multiple.pieces (e.g. cooked.manioc, squash, papaya)]" : {pitokiri}
 | "[=chirirorik][IdeoPRQ][=shallow.splash]" : {chirirorik}
