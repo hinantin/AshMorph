@@ -20,7 +20,7 @@ define IdeoPRQin [
 | "[=tyak+s.redup.word][IdeoPRQ][=crushing/nailing.sth (e.g.: cotton.or.manioc.mass); hitting.an.inanimate.object; hammering.nails.into.wood]" : {tyak}
 ! 
 | "[=tek+s.redup.word][IdeoPRQ][=running.briskly]" : {tek}
-| "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit]" : {tok}
+| "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree]" : {tok}
 ! 
 | "[=shek+s.redup.word][IdeoPRQ][=moving/walking.fast]" : {shek}
 ! 
@@ -219,7 +219,7 @@ define IdeoPRQin [
 # ---------------------------------------
 | "[=tankorek][IdeoPRQ][=regain.consciousness]" : {tankorek}
 | "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance; jump.like.a.deer]" : {tankorek}
-| "[=mantsari][IdeoPRQ][=scratching.with.nails/claws]" : {mantsari}
+| "[=mantsari+s.redup.word][IdeoPRQ][=scratching.with.nails/claws; shredding/scratching/raking]" : {mantsari}
 ! 
 | "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
 | "[=tsakorok][IdeoPRQ][=stepping/falling.in.shallow_water.&.producing.no.splashes]" : {tsakorok}
