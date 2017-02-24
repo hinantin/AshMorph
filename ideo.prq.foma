@@ -46,7 +46,9 @@ define IdeoPRQin [
 ! 
 | "[=tong][IdeoPRQ][=sound.of.an_arrow.which.reached.the_bottom.of.a.hollow.underground.cavity]" : {tong}
 ! 
-| "[=teng][IdeoPRQ][=sound.of.a_fart]" : {teng}
+| "[=ting][IdeoPRQ][=breaking.wind (for.young.females)]" : {ting}
+| "[=teng][IdeoPRQ][=sound.of.a_fart, breaking.wind (for.young.females)]" : {teng}
+| "[=tang][IdeoPRQ][=breaking.wind (for.young.females)]" : {tang}
 ! 
 | "[=shoi+s.redup.word][IdeoPRQ][=twisting.movement; object's.circular.movement.around.another.object]" : {shoi}
 ! 
@@ -164,9 +166,11 @@ define IdeoPRQin [
 ! 
 | "[=vanik][IdeoPRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
 ! 
-| "[=tsarak][IdeoPRQ][=loud.fart]" : {tsarak} 
+| "[=tsarak][IdeoPRQ][=loud.fart, breaking.wind.loudly]" : {tsarak} 
 ! 
-| "[=ahak][IdeoPRQ][=sneezing]" : {ahak} 
+| "[=ahak][IdeoPRQ][=sneezing; coughing]" : {ahak} ??? 
+! 
+| "[=atzik+s.redup.word][IdeoPRQ][=sneezing]" : {atzik} 
 ! 
 | "[=peke+s.redup.word][IdeoPRQ][=sound.of.a.motor.boat]" : {peke} 
 ! 
