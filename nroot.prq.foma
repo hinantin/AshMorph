@@ -841,6 +841,8 @@ define NRootPRQin [
 | "[=pamoro+m.][NRoot][=dove.sp.]" : {pamoro}
 | "[=pamoo+m.][NRoot][=dove.sp.]" : {pamoo}
 ! 
+| "[=patanari][NRoot][=resin.sp. (after.boiling.this.resin.is.placed.on.the.tip.of.arrows); tree.sp.]" : {patanari}
+! 
 | "[=picha+m.][NRoot][=fish.sp. (palometo)]" : {picha}
 ! 
 | "[=pini+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.)]" : {pini}
@@ -1415,4 +1417,15 @@ define NRootPRQin [
 ! Nouns with classifiers
 
 ];
+
+# ##############################
+#         Abbreviations         
+# ##############################
+
+# sci.nm.		scientific name
+# m.			masculine
+# n.m.			not masculine
+# sp.			species
+# inal.			inalienable
+# +n./m.		masculine and not masculine
 
