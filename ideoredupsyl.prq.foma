@@ -51,6 +51,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=tsovi" "]" "[" "IdeoPRQ" "]" "[" "=mosquito.sound" "]" ] : {tsovi}
 
 | [ "[" "=sero" "]" "[" "IdeoPRQ" "]" "[" "=sliding.downward" "]" ] : {sero}
+| [ "[" "=soro" "]" "[" "IdeoPRQ" "]" "[" "=action/sound.of.a.serpent.sliding.downward.a_hill" "]" ] : {soro}
 | [ "[" "=hero" "]" "[" "IdeoPRQ" "]" "[" "=sound.of.a_large_fire" "]" ] : {hero}
 | [ "[" "=tsakoro" "]" "[" "IdeoPRQ" "]" "[" "=emptying.water.bottle" "]" ] : {tsakoro}
 ] 
