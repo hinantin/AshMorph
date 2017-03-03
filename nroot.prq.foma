@@ -124,6 +124,8 @@ define NRootPRQin [
 | "[=chikopi][NRoot][=arrow]" : {chikopi}
 | "[=txekopi][NRoot][=arrow]" : {txekopi}
 ! 
+| "[=chivini][NRoot][=heron.sp.]" : {chivini}
+! 
 | "[=chapinki][NRoot][=the.other.day, yesterday]" : {chapinki}
 ! 
 | "[=chapiti][NRoot][=worm.sp.]" : {chapiti}
@@ -653,6 +655,8 @@ define NRootPRQin [
 | "[=miishito+m.][NRoot][=cat]" : {miishito}
 | "[=miichi+m.][NRoot][=cat]" : {miichi}
 ! 
+| "[=meronti][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: buteo.albigula)]" : {meronti}
+! 
 | "[=metaro][NRoot][=village's.name]" : {metaro}
 | "[=minkori][NRoot][=cloud]" : {minkori}
 ! 
@@ -943,6 +947,9 @@ define NRootPRQin [
 | "[=rishi+m.+inal.][NRoot][=tail]" : {rishi} ! to be checked 
 ! 
 | "[=saari+m.][NRoot][=opossum]" : {saari}
+! 
+| "[=sahanti][NRoot][=heron.sp. (sci.nm.: butorides.striatus)]" : {sahanti}
+! 
 | "[=saimpiki][NRoot][=firewood, dry.twigs]" : {saimpiki}
 | "[=samani][NRoot][=paca]" : {samani}
 ! ash
@@ -1019,6 +1026,8 @@ define NRootPRQin [
 | "[=saventaro+n.m.][NRoot][=cat's.claw (uña.de.gato)]" : {saventaro}
 | "[=saventavo+n.m.][NRoot][=cat's.claw (uña.de.gato)]" : {saventavo}
 ! 
+| "[=seniro][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: milvago.chimachima)]" : {seniro}
+! 
 | "[=shamitzi][NRoot][=namesake]" : {shamitzi}
 ! 
 | "[=shani+m.][NRoot][=anteater]" : {shani}
@@ -1071,6 +1080,8 @@ define NRootPRQin [
 ! 
 | "[=shire+n.m.+inal.][NRoot][=spirit, soul]" : {shire}
 | "[=shiree+n.m.+inal.][NRoot][=spirit, soul]" : {shiree}
+! 
+| "[=shiiri][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: ictinia.plumbea)]" : {shiiri}
 ! 
 | "[=shiri][NRoot][=tobacco.leaf; tobacco]" : {shiri}
 | "[=sheri][NRoot][=tobacco.leaf; tobacco]" : {sheri}
