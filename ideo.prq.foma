@@ -5,6 +5,8 @@ define IdeoPRQin [
   "[=poo][IdeoPRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : {poo}
 | "[=pooo][IdeoPRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : [{pooo}]
 | "[=poom][IdeoPRQ][=heavy.object.falling]" : [{poom}]
+! 
+| "[=poon][IdeoPRQ][=sound/action.of.birds.flying]" : {poon} 
 ########
 #  pok  
 # - light object hitting a solid surface, without compromising the object’s integrity

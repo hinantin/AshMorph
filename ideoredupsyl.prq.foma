@@ -36,6 +36,7 @@ define IdeoRedupSylPRQin 0:"^["
 
 | [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
 | [ "[" "=vore" "]" "[" "IdeoPRQ" "]" "[" "=brilliance.of.the_sun" "]" ] : {vore}
+| [ "[" "=shitere" "]" "[" "Ideo" "]" "[" "=sound/action.of.wasps.flying" "]" ] : {shitere}
 
 | [ "[" "=shipo" "]" "[" "IdeoPRQ" "]" "[" "=rising.vapor.from.the.heated.sth. (stone, fire, etc.); smoke/mist.rising" "]" ] : {shipo}
 | [ "[" "=sapo" "]" "[" "IdeoPRQ" "]" "[" "=bird.wings.flapping" "]" ] : {sapo}
