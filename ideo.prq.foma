@@ -76,6 +76,11 @@ define IdeoPRQin [
 | "[=chak][IdeoPRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash]" : {chak} 
 ! 
 | "[=shei+s.redup.word][IdeoPRQ][=sawing]" : {shei} 
+! 
+| "[=he+redup.word][IdeoPRQ][=men.laughing]" : {he} 
+| "[=heee+redup.word][IdeoPRQ][=men.laughing]" : {heee} 
+| "[=ho+redup.word][IdeoPRQ][=women.laughing]" : {ho} 
+| "[=hooo+redup.word][IdeoPRQ][=women.laughing]" : {hooo} 
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
@@ -237,8 +242,10 @@ define IdeoPRQin [
 ! 
 | "[=kiva+s.redup.word][IdeoPRQ][=washing.clothes]" : {kiva} 
 ! 
-| "[=he-heee][IdeoPRQ][=men.laughing]" : {he-heee} 
-| "[=ho-hooo][IdeoPRQ][=women.laughing]" : {ho-hooo} 
+| "[=ihi+redup.word][IdeoPRQ][=sound/action.of.laughing]" : {ihi} 
+! 
+| "[=haon][IdeoPRQ][=sound/action.of.taking.animals.out.of.their.den]" : {haon} 
+| "[=haonk][IdeoPRQ][=sound/action.of.screaming.to.scare.sb.]" : {haonk} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
