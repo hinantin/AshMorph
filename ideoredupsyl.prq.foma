@@ -70,7 +70,7 @@ define DeleteRedupSyl "+redup.syl." -> 0;
 
 define AshaninkaRedup RedupSyl @-> "[" ... "]^{1,5}" || V _ REDUPSYL "^]" ; 
 
-regex [IdeoRedupSylPRQin (IDEO=S=PUNCTUALACTN)] .o. AshaninkaRedup .o. DeleteRedupSyl; 
+regex [IdeoRedupSylPRQin (IDEO=S=PUNCTUALACTN)] .o. AshaninkaRedup .o. DeleteRedupSyl ; 
 
 set retokenize off
 
