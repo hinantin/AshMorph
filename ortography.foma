@@ -1,3 +1,6 @@
+      define Vowels [a|e|i|o|u|á|é|í|ó|ú];
+      define Cons [b|c|d|f|g|h|j|k|l|m|n|ñ|p|q|r|s|t|v|w|y|z];
+
       #--------------------------------#
       # allow upper/lower case letters #
       #--------------------------------#
@@ -5,4 +8,48 @@
       define Lowercase [A (->) a, B (->) b, C (->) c,D (->) d,E (->) e,F (->) f,G (->) g,H (->) h,I (->) i,J (->) j,K (->) k,L (->) l,M (->) m,N (->) n,O (->) o,P (->) p,Q (->) q,R (->) r,S (->) s,T (->) t,U (->) u,V (->) v,W (->) w,X (->) x,Y (->) y,Z (->) z,Ñ (->) ñ,Ã (->) ã,Ê (->) ê,Î (->) î,Ô (->) ô];
 
       define UpperCase [ a (->) A,b (->) B,c (->) C,d (->) D,e (->) E,f (->) F,g (->) G,h (->) H,i (->) I,j (->) J,k (->) K,l (->) L,m (->) M,n (->) N,o (->) O,p (->) P,q (->) Q,r (->) R,s (->) S,t (->) T,u (->) U,v (->) V,w (->) W,x (->) X,y (->) Y,z (->) Z,ñ (->) Ñ,ã (->) Ã,ê (->) Ê,î (->) Î,ô (->) Ô];
+
+      ##########################
+      #        Ortography      #
+      # Normalization Patterns #
+      #                        #
+      ##########################
+
+      define QUIReplacement [ {ky} (->) {qui} || _ [a|á] ];
+      define QUReplacement [ {k} (->) {qu} || _ [e|i|é|í] ,, {k} (->) {qü} || _ [e|i|é|í] ];
+      define CReplacement [ {k} (->) {c} || _ [a|o|u|á|é|í] ];
+
+      define JReplacement1 [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
+      define JReplacement2 [ {h} (->) {j} || .#. _ Vowels ]; # changing ja -> ha at the beginning of a word
+
+      define BReplacement [ {v} (->) {b} || _ Vowels ];
+      define WReplacement [ {v} (->) {w} || _ Vowels ];
+
+      define PIReplacement [ {py} (->) {pi} || _ [a|á] ];
+      define KIReplacement [ {ky} (->) {ki} || _ [a|á] ,, {ky} (->) {qy} || _ [a|á] ]; 
+      define RIReplacement [ {ry} (->) {ri} || _ [a|á] ];
+
+      define TIReplacement [ {ty} (->) {ti} || _ [e|é] ];
+
+      define THReplacement [ {ts} (->) {th} || _ [a|i|o|á|í|ó] ];
+
+      define NYReplacement [ {ny} (->) {ñ} || _ Vowels ];
+      define VowelsWithAccent [ {a} (->) {á}, {e} (->) {é}, {i} (->) {í},{o} (->) {ó}, {u} (->) {ú}];
+
+      define ATildeReplacement1 [ {an} (->) {ã} || _ [k|t] ];
+      define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
+      define ETildeReplacement1 [ {en} (->) {ẽ} || _ [k|t] ];
+      define ETildeReplacement2 [ {em} (->) {ẽ} || _ [p] ];
+      define ITildeReplacement1 [ {in} (->) {ĩ} || _ [k|t] ];
+      define ITildeReplacement2 [ {im} (->) {ĩ} || _ [p] ];
+      define OTildeReplacement1 [ {on} (->) {õ} || _ [k|t] ];
+      define OTildeReplacement2 [ {om} (->) {õ} || _ [p] ];
+
+
+      define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement 
+.o. JReplacement1 .o. JReplacement2 
+.o. BReplacement .o. WReplacement 
+.o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
+.o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 ]; 
+
 
