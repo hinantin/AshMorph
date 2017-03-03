@@ -21,6 +21,7 @@
 
       define JReplacement1 [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
       define JReplacement2 [ {h} (->) {j} || .#. _ Vowels ]; # changing ja -> ha at the beginning of a word
+      define JReplacement3 [ {h} (->) {j} || _ Vowels ]; # changing jemimimi -> jemimimi at the beginning of a word
 
       define BReplacement [ {v} (->) {b} || _ Vowels ];
       define WReplacement [ {v} (->) {w} || _ Vowels ];
@@ -47,7 +48,7 @@
 
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement 
-.o. JReplacement1 .o. JReplacement2 
+.o. JReplacement1 .o. JReplacement2 .o. JReplacement3 
 .o. BReplacement .o. WReplacement 
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 ]; 
