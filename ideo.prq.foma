@@ -248,6 +248,8 @@ define IdeoPRQin [
 ! 
 | "[=haon][IdeoPRQ][=sound/action.of.taking.animals.out.of.their.den]" : {haon} 
 | "[=haonk][IdeoPRQ][=sound/action.of.screaming.to.scare.sb.]" : {haonk} 
+! 
+| "[=heronk][IdeoPRQ][=sound/action.of.sth.that.is.loose]" : {heronk} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -308,6 +310,8 @@ define IdeoPRQin [
 | "[=hempari+s.redup.word][IdeoPRQ][=pain.abating]" : {hempari}
 ! 
 | "[=tsinkare][IdeoPRQ][=feeling.cold.due.to.fear (cf. to.feel.chills.running.up.the_spine)]" : {tsinkare}
+! 
+| "[=heao+s.redup.word][IdeoPRQ][=noise.of.a.barn.owl.flying]" : {heao}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
