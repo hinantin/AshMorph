@@ -22,7 +22,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=soreri" "]" "[" "IdeoPRQ" "]" "[" "=looking.at.sb.fixedly.and.intently" "]" ] : {soreri}
 ! 
 | [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder" "]" ] : {teri}
-| [ "[" "=mari" "]" "[" "IdeoPRQ" "]" "[" "=water.level.rising.slowly; liquid.substance.massively.accumulating.on.the.entity's.surface; heavy.bleeding, (vaginal).bleeding; trickling.tree_sap" "]" ] : {mari}
+| [ "[" "=mari" "]" "[" "Ideo" "]" "[" "=water.level.rising.slowly; liquid.substance.massively.accumulating.on.the.entity's.surface; heavy.bleeding, (vaginal).bleeding; trickling.tree_sap; sound/action.of.lots.of.ants_walking/people_moving" "]" ] : {mari}
 | [ "[" "=mantsari" "]" "[" "IdeoPRQ" "]" "[" "=dawn/disappearance.of.darkness; gradual.appearance.of.daylight" "]" ] : {mantsari}
 | [ "[" "=moreri" "]" "[" "IdeoPRQ" "]" "[" "=blinking.light; light.being.emitted.at.regular.intervals" "]" ] : {moreri}
 | [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance (of.the.sun)" "]" ] : {shipari}
