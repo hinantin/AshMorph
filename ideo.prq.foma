@@ -58,10 +58,6 @@ define IdeoPRQin [
 ! 
 | "[=vea+s.redup.word][IdeoPRQ][=many.people.talking]" : {vea}
 ! 
-| "[=takik][IdeoPRQ][=biting.nails]" : {takik}
-| "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
-| "[=tsinki][IdeoPRQ][=IDEO]" : {tsinki}
-! 
 | "[=chok][IdeoPRQ][=splashing.water]" : {chok}
 | "[=penk+s.redup.word][IdeoPRQ][=dispersing.sth., strewing.sth. (soil, grain)]" : {penk}
 ! 
@@ -255,6 +251,9 @@ define IdeoPRQin [
 ! 
 | "[=matse][IdeoPRQ][=sound/action.of.jump.stealthily]" : {matse} 
 | "[=matsek][IdeoPRQ][=sound/action.of.sparkling; sound/action.when.there.is.lightning]" : {matsek} 
+! 
+| "[=takik][IdeoPRQ][=biting.nails]" : {takik}
+| "[=tsinki][IdeoPRQ][=sound/action.of.sth.being.crushed]" : {tsinki} # ???
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -274,6 +273,7 @@ define IdeoPRQin [
 | "[=patari+s.redup.word][IdeoPRQ][=multiple.objects.falling; downward.falling.motion.of.many.non-human.objects (usually.fruit)]" : {patari}
 ! 
 | "[=tsikiri+s.redup.word][IdeoPRQ][=liquid.gushing.out.in.a.stream; arterial.bleeding (gushing.out)]" : {tsikiri}
+| "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
 ! 
 | "[=sapiri+s.redup.word][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
 | "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
