@@ -250,6 +250,8 @@ define IdeoPRQin [
 | "[=haonk][IdeoPRQ][=sound/action.of.screaming.to.scare.sb.]" : {haonk} 
 ! 
 | "[=heronk][IdeoPRQ][=sound/action.of.sth.that.is.loose]" : {heronk} 
+! 
+| "[=mare+redup.word][IdeoPRQ][=sound/action.of.water.moving (e.g.: provoked.by.the.wind)]" : {mare} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -325,7 +327,7 @@ define IdeoPRQin [
 | "[=ooo+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
 | "[=shitokokoko][IdeoPRQ][=animal.cry.made.by.a.capuchin.monkey]" : {shitokokoko}
 | "[=hau+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.dog]" : {hau}
-| "[=hok][IdeoPRQ][=sound/action.of.a.dog.barking]" : {hok}
+| "[=hok][Ideo][=sound/action.of.a.dog.barking]" : {hok}
 | "[=heem+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.boa-like.river.creature]" : {heem}
 | "[=hoom+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.deer-like.demonic.forest.creature; animal.cry.made.by.the.tiger]" : {hoom}
 | "[=kini+s.redup.word][IdeoPRQ][=animal.cry.made.by.the.howler.monkey/kiniri]" : {kini}
