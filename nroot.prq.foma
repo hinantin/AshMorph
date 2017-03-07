@@ -280,7 +280,10 @@ define NRootPRQin [
 ! 
 | "[=inkani][NRoot][=rain]" : {inkani}
 ! 
-| "[=inkaari][NRoot][=lake]" : {inkaari}
+| "[=inkaari][NRoot][=lake, cocha (from.Quechua.qucha)]" : {inkaari}
+| "[=inkaare][NRoot][=lake, cocha (from.Quechua.qucha)]" : {inkaare}
+| "[=inkahare][NRoot][=lagoon]" : {inkahare}
+! 
 | "[=inkite][NRoot][=sky]" : {inkite}
 ! 
 | "[=inki+n.m.][NRoot][=peanut]" : {inki}
