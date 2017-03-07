@@ -180,6 +180,7 @@ define VRootPRQin [
 | "[=ira][VRoot][=to.cry]" : {ira}
 | "[=irag][VRoot][=to.cry]" : {irag}
 | "[=irah][VRoot][=to.cry]" : {irah}
+| "[=ira+redup.+2S/A][VRoot][=to.cry]" : {pirapira}
 ! to be ripe, to ripen (fruits) 
 !| "[=isak][VRoot][=to.be.ripe (fruit), to.ripen]" : {isak}
 | "[=irak][VRoot][=to.be.ripe (fruit), to.ripen]" : {irak}
@@ -914,11 +915,9 @@ define VRootPRQin [
 ! -----------------
 ! Verbalized roots
 ! -----------------
-| "[=kaniri][VRoot][=manioc]" : {kaniri}
 | "[=osheki][VRoot][=to.be.much]" : [{osheki}|{osheke}]
 | "[=tziri][VRoot][=to.be.person]" : {tziri}
 | "[=tomint][VRoot][=to.be.son.of]" : {tomint}
-| "[=pirapira][VRoot][=2S.cry]" : {pirapira}
 | "[=kaari][VRoot][=NEG.COP]" : {kaari}
 | "[=antavo+n.m.][AdjRoot][=big]" : {antavo}
 ! copula of capacity cop.c
@@ -927,13 +926,9 @@ define VRootPRQin [
 | "[=kara][VRoot][=COP.C]" : {kara}
 | "[=oi][VRoot][=CAUS.AGT.drink]" : {oi}
 | "[=ninka][VRoot][=who]" : {ninka}
-! -------------------
-! Verb reduplication 
-! -------------------
-| "[VRoot][=to.wash.a.lot][=kivakiva]" : {kivakiva}
 ];
 
 # ----------------------------------------
-# +redup.	reduplication
+# +redup.	reduplication implies the meaning 'a.lot' 
 
 

@@ -28,7 +28,7 @@ define NRootPRQin [
 | "[=eeri][NRoot][=black.bee.sp.]" : {eeri} 
 | "[=aeri][NRoot][=black.bee.sp.]" : {aeri} 
 ! 
-| "[=asankane+n.m.+inal.][NRoot][=heart]" : {asankane} 
+| "[=asankane+n.m.+inal.][NRoot][=heart]" : {asankane}
 | "[=asankani+n.m.+inal.][NRoot][=heart]" : {asankani} 
 | "[=ahankane+n.m.+inal.][NRoot][=heart]" : {ahankane} 
 ! 
@@ -393,9 +393,9 @@ define NRootPRQin [
 ! 
 | "[=kanai][NRoot][=tree.sp]" : {kanai}
 ! 
-| "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca]" : {kaniri}
-| "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca]" : {kanire}
-| "[=kainiri+n.m.][NRoot][=manioc, yucca]" : {kainiri}
+| "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca]" : {kaniri} ! N@->V
+| "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca]" : {kanire} ! N@->V
+| "[=kainiri+n.m.][NRoot][=manioc, yucca]" : {kainiri} ! N@->V
 ! 
 | "[=kaagashi+n.m.][NRoot][=trash, garbage]" : {kaagashi}
 | "[=kahara+n.m.][NRoot][=trash, garbage]" : {kahara}
