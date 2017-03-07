@@ -18,6 +18,9 @@ define NRootESin [
 | "[=papá][NRootEs][=dad]" : {papa}
 ! 
 | "[=pastor][NRootEs][=pastor]" : {pashitori}
+! 
+| "[=pelota][NRootEs][=ball]" : {piroota}
+! 
 | "[=soldado][NRootEs][=soldier]" : {soraro}
 | "[=bolsa][NRootEs][=bag]" : {volsa}
 | "[=bolsa][NRootEs][=bag]" : {volsa}
@@ -28,4 +31,5 @@ define NRootESin [
 ! 
 | "[=máquina][NRoot][=machine]" : {maakina}
 | "[=máquina][NRoot][=machine]" : {makina}
+
 ];
