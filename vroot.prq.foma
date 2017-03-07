@@ -44,8 +44,9 @@ define VRootPRQin [
 ! 
 | "[=amin][VRoot][=to.treat]" : {amin}
 | "[=amin][VRoot][=to.examine]" : {amin}
-| "[=amin+redup.][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amin}
-| "[=amen+redup.][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amen}
+| "[=amin][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amin}
+| "[=amen][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amen}
+| "[=amin+redup.][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {aminamina}
 ! 
 | "[=amitako][VRoot][=to.help]" : {amitako}
 | "[=anaako][VRoot][=to.win, to.gain]" : {anaako}
@@ -350,7 +351,8 @@ define VRootPRQin [
 | "[=kishok][VRoot][=to.spit]" : {kishok}
 | "[=kichoh][VRoot][=to.spit]" : {kichoh}
 ! 
-| "[=kiv+redup.][VRoot][=to.wash]" : {kiv}
+| "[=kiv][VRoot][=to.wash]" : {kiv}
+| "[=kiv+redup.][VRoot][=to.wash]" : {kivakiva}
 ! 
 | "[=kivanont][VRoot][=to.wash]" : {kivanont}
 | "[=kivant][VRoot][=to.visit]" : {kivant}
@@ -930,4 +932,8 @@ define VRootPRQin [
 ! -------------------
 | "[VRoot][=to.wash.a.lot][=kivakiva]" : {kivakiva}
 ];
+
+# ----------------------------------------
+# +redup.	reduplication
+
 
