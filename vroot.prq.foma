@@ -461,7 +461,10 @@ define VRootPRQin [
 | "[=nampi][VRoot][=to.be.in.big.quantity]" : {nampi}
 | "[=nary][VRoot][=to.lay]" : {nary}
 | "[=nary][VRoot][=to.lie.prostrate]" : {nary}
+! 
 | "[=neve][VRoot][=to.like]" : {neve}
+| "[=nivi][VRoot][=to.like]" : {nivi}
+! 
 | "[=niap][VRoot][=to.find]" : {niap}
 | "[=nihaa][VRoot][=to.water]" : {nihaa} !?
 | "[=nimo][VRoot][=to.like]" : {nimo}
