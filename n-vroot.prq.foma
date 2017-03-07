@@ -14,6 +14,9 @@ define NounToVerbPRQin [
 | "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
 | "[=entsi+n./m.][NRoot][=child]" : {entsi} ! N@->V
 | "[=evankari+m.][NRoot][=young.man, adolescent]" : {evankari} ! N@->V
+| "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca]" : {kaniri} ! N@->V
+| "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca]" : {kanire} ! N@->V
+| "[=kainiri+n.m.][NRoot][=manioc, yucca]" : {kainiri} ! N@->V
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V
