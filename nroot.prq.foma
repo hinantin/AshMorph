@@ -943,7 +943,8 @@ define NRootPRQin [
 | "[=piyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {piyare}
 | "[=peare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {peare}
 ! 
-| "[=pitziki][NRoot][=male.genitals]" : {pitziki}
+| "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V
+| "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
 ! 
 | "[=rasaro][NRoot][=person's.name]" : {rasaro}
 ! 
