@@ -74,6 +74,8 @@ define VRootPRQin [
 ! 
 | "[=antant][VRoot][=to.fight]" : {antant}
 ! 
+| "[=atziri][VRoot][=to.be.person][--][N=][IRR+]" : {antziri}
+! 
 | "[=apaata][VRoot][=to.wait]" : {apaata}
 ! to meet, to gather, to get together
 | "[=apoto][VRoot][=to.gather, to.meet, to.get.together]" : {apoto}
@@ -921,10 +923,8 @@ define VRootPRQin [
 ! Verbalized roots
 ! -----------------
 | "[=osheki][VRoot][=to.be.much]" : [{osheki}|{osheke}]
-| "[=tziri][VRoot][=to.be.person]" : {tziri}
 | "[=tomint][VRoot][=to.be.son.of]" : {tomint}
 | "[=kaari][VRoot][=NEG.COP]" : {kaari}
-| "[=antavo+n.m.][AdjRoot][=big]" : {antavo}
 ! copula of capacity cop.c
 !| "[=kara][VRoot][=CAP.C]" : {kara}
 !| "[=kara][VRoot][=COP.CAP]" : {kara}
