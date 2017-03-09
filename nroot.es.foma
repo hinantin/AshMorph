@@ -1,6 +1,10 @@
 define NRootESin [
   "[=acero][NRootEs][=steel, iron]" : {ashiro}
+| "[=amigo][NRootEs][=friend]" : {amigo}
 | "[=botella][NRootEs][=bottle]" : {voteya}
+! 
+| "[=compadre][NRootEs][=godparent]" : {compadre}
+! 
 | "[=compañia][NRootEs][=company]" : {compañia}
 | "[=contrato][NRootEs][=contract]" : {contrato}
 | "[=ejercicio][NRootEs][=exercise]" : {ejercicio}

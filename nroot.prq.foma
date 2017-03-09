@@ -7,7 +7,7 @@ define NRootPRQin [
 ! 
 | "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi}
 ! 
-| "[=aari+m.][NRoot][=brother (kin.of.a.female)]" : {aari}
+| "[=aari+m.][NRoot][=brother (kin.of.a.female, fem.ego)]" : {aari}
 | "[=yaya+m.][NRoot][=brother (kin.of.a.female)]" : {yaya}
 | "[=haihi+m.][NRoot][=brother (kin.of.a.female)]" : {haihi}
 ! 
@@ -155,7 +155,7 @@ define NRootPRQin [
 ! 
 | "[=chomenta][NRoot][=fresh.water.fish.sp. (palometa)]" : {chomenta}
 ! 
-| "[=chooki+n.m.+voc.][NRoot][=sister (kin.of.a.male)]" : {chooki}
+| "[=chooki+n.m.+voc.][NRoot][=sister (kin.of.a.male, male.ego)]" : {chooki}
 ! 
 | "[=chompari][NRoot][=heron.sp. (sci.nm.: casmerodius.albus)]" : {chompari}
 ! 
@@ -184,6 +184,8 @@ define NRootPRQin [
 | "[=entsi+n./m.][NRoot][=child]" : {entsi} ! N@->V
 ! 
 | "[=Eni][NP][=river (Ene.river)]" : {eni}
+! 
+| "[=entyo][NRoot][=sister (kin.of.a.female, fem.ego.)]" : {entyo}
 ! 
 | "[=ereki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {ereki}
 | "[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {eereki}
@@ -354,7 +356,7 @@ define NRootPRQin [
 ! 
 | "[=ivayetziri][NRoot][=warriors]" : {ivayetziri}
 ! 
-| "[=iye+m.][NRoot][=brother (kin.of.a.male)]" : {iye}
+| "[=iye+m.][NRoot][=brother (kin.of.a.male, male.ego)]" : {iye}
 | "[=iyenti+m.][NRoot][=brother (kin.of.a.male)]" : {iyenti}
 | "[=iyeki+m.][NRoot][=brother (kin.of.a.male)]" : {iyeki}
 | "[=nirentzi+m.][NRoot][=brother (kin.of.a.male)]" : {nirentzi}
@@ -1406,12 +1408,12 @@ define NRootPRQin [
 ! 
 | "[=yevetsi+n.m.][NRoot][=tree.sp. (shimbillo), fruit.tree.sp.]" : {yevetsi}
 ! 
-| "[=yompari+m.+inal.][NRoot][=friend]" : {yompari}
-| "[=yoNpari+m.+inal.][NRoot][=friend]" : {yõpari}
-| "[=iyompari+m.][NRoot][=friend]" : {iyompari} ! possesive form
-| "[=iyompare+m.+inal.][NRoot][=friend]" : {iyompare}
-| "[=yoNpare+m.+inal.][NRoot][=friend]" : {yõpare}
-| "[=yompare+m.+inal.][NRoot][=friend]" : {yompare}
+| "[=yompari+m.+inal.][NRoot][=friend; trading.partner]" : {yompari}
+| "[=yoNpari+m.+inal.][NRoot][=friend; trading.partner]" : {yõpari}
+| "[=iyompari+m.][NRoot][=friend; trading.partner]" : {iyompari} ! possesive form
+| "[=iyompare+m.+inal.][NRoot][=friend; trading.partner]" : {iyompare}
+| "[=yoNpare+m.+inal.][NRoot][=friend; trading.partner]" : {yõpare}
+| "[=yompare+m.+inal.][NRoot][=friend; trading.partner]" : {yompare}
 ! word set: wisdom
 | "[=yorenka+inal.][NRoot][=wisdom, knowledge]" : {yorenka}
 | "[=yorêka+inal.][NRoot][=wisdom, knowledge]" : {yorêka}
