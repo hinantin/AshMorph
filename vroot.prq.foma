@@ -458,8 +458,14 @@ define VRootPRQin [
 # ------------------------------------------
 | "[=morek][VRoot][=to.burn]" : {morek}
 | "[=moy][VRoot][=to.boil]" : {moy}
+! 
 | "[=n][VRoot][=to.be]" : {n}
 | "[=na][VRoot][=to.be]" : {na}
+! 
+| "[=naa][VRoot][=to.chew]" : {naa}
+| "[=noha][VRoot][=to.chew]" : {noha}
+| "[=nashe][VRoot][=to.chew]" : {nashe}
+! 
 | "[=nampi][VRoot][=to.be.in.big.quantity]" : {nampi}
 | "[=nary][VRoot][=to.lay]" : {nary}
 | "[=nary][VRoot][=to.lie.prostrate]" : {nary}
