@@ -334,9 +334,10 @@ define V=S=DUB [
        "[--][+small.part]" : "@EP"[{patsa}]
       ];
       
-      define V=S=DEGR [
-       "[--][+DEGR]" : "@EP"[{piro}]
-      ];
+define V=S=DEGR [
+  "[--][+DEGR]" : "@EP"[{piro}]
+| "[--][+DEGR]" : "@EP"[{pero}]
+];
       
       define V=S=small [
        "[--][+small]" : "@EP"[{kapichi}]
