@@ -1430,9 +1430,6 @@ define NRootPRQin [
 | "[=ikoha][NRoot][=tree.sp.]" : {ikoha}
 | "[=potoo+n.m.][NRoot][=ojé, tree.sp.]" : {potoo}
 | "[=kavana][NRoot][=catahua, tree.sp.]" : {kavana}
-
-! Nouns with classifiers
-
 ];
 
 # ##############################
@@ -1447,4 +1444,6 @@ define NRootPRQin [
 # +n./m.		masculine and not masculine
 # fem.			female
 # SAP			speech act participant
+# fe/male		female and male
+
 
