@@ -7,12 +7,12 @@
        "[--][+IRR]" : "@EP"[{e}|{ee}|{ia}|{ya}|{ye}|{a}|{i}|{yaa}|{ea}]
       ];
       
-      define V=S=PRNO [
-       "[--][+3m.O]" : [{ri}] | 
-       "[--][+3n.m.O]" : [{ro}] | 
-       "[--][+3n.m.O]" : [{vo}] | 
-       "[--][+1PL.O]" : "@EP"[{ai}] 
-      ];
+define V=S=PRNO [
+  "[--][+3m.O]" : [{ri}|{re}] 
+| "[--][+3n.m.O]" : [{ro}] 
+| "[--][+3n.m.O]" : [{vo}] 
+| "[--][+1PL.O]" : "@EP"[{ai}] 
+];
       
       define V=S=DIST [
        "[--][+DIST]" : "@EP"[{ye}|{yee}|{yi}]

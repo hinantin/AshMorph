@@ -36,7 +36,7 @@
       define AEpenthesisRule9 [ "@EP" (->) {a}"@EP" || v _ v ]; # Ob-a-bae-t-antsi
       define AEpenthesisRule10 [ "@EP" (->) {a}"@EP" || r _ v ]; # irabaetantsi
       define AEpenthesisRule11 [ "@EP" (->) {a}"@EP" || m _ [v|n] ]; # timabaetantsi, quem-a-nen-t-aantsi
-      define AEpenthesisRule12 [ "@EP" (->) {a}"@EP" || k _ [h|y|r] ]; # i-vitsik-a-jee-tz-i-ri, betsik-a-ye-t-atsi-ri, o-tsimank-a-re 
+      define AEpenthesisRule12 [ "@EP" (->) {a}"@EP" || k _ [h|y|r|p] ]; # i-vitsik-a-jee-tz-i-ri, betsik-a-ye-t-atsi-ri, o-tsimank-a-re, no-shitik-a-pero-t-ati-i-ro 
       define AEpenthesisRule13 [ "@EP" (->) {a}"@EP" || p _ a ]; # i-kant-ap-a-ak-e 
       define AEpenthesisRule14 [ "@EP" (->) {a}"@EP" || t _ h ]; # y-ant-a-jeí-t-ak-e 
       define AEpenthesisRule15 [ "@EP" (->) {a}"@EP" || m _ [h|a|e] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e, am-a-enka-ri 

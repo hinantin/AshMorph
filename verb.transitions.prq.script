@@ -144,7 +144,7 @@ define S [
  (V=S=APPLINST) (V=S=REAL) (V=S=PRNO) | 
  (V=S=ADJ) (V=S=smallpart) (V=S=DIM) | 
  (V=S=DIR) (V=S=PRF) (V=S=PL) (V=S=REAL) (V=S=PLcircumfixing) | 
- (V=S=DEGR) (V=S=IRR) | 
+ (V=S=DEGR) (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=once) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REV) (V=S=APPL) (V=S=PRF) (V=S=REAL) | 
  (V=S=ADV) | 
@@ -501,6 +501,7 @@ define S [
  (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) | 
  (V=S=DEXT) (V=S=STAT) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=DEXT) (V=S=APPL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DIST) (V=S=REAL) (V=S=O) (V=S=NEG) | 
  (V=S=DIST) (V=S=IRR) (V=S=O) (V=S=NEG) | 
  (V=S=REV) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 

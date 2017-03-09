@@ -1212,8 +1212,11 @@ define NRootPRQin [
 | "[=tampea+n.m.][NRoot][=wind]" : {tampea}
 | "[=tampya+n.m.][NRoot][=wind]" : {tampya}
 ! 
-| "[=tantaa][NRoot][=bread]" : {tantaa} !?
+| "[=tantaa][NRoot][=bread; from.Quechua.t'anta]" : {tantaa} 
 | "[=tantotsi][NRoot][=corral]" : {tantotsi}
+! 
+| "[=taranka][NRoot][=abyss]" : {taranka}
+! 
 | "[=tasorinka][NRoot][=power]" : {tasorinka}
 | "[=tasorinka][NRoot][=blessing]" : {tasorinka}
 ! 

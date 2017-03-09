@@ -553,6 +553,7 @@ define VRootPRQin [
 ! 
 | "[=pari][VRoot][=to.fall]" : {pari}
 | "[=pary][VRoot][=to.fall]" : {pary}
+| "[=pariy][VRoot][=to.fall]" : {pariy}
 | "[=vary][VRoot][=to.make.fall]" : {vary}
 ! 
 | "[=pas][VRoot][=to.crush]" : {pas}
@@ -714,6 +715,9 @@ define VRootPRQin [
 | "[=shit][VRoot][=to.defecate.on.sth]" : {shit}
 ! 
 | "[=shitako][VRoot][=to.get.well]" : {shitako}
+! 
+| "[=shitik][VRoot][=to.sew.sth, to.tie.sth.]" : {shitik}
+! 
 | "[=shitov][VRoot][=to.leave]" : {shitov}
 | "[=shitov][VRoot][=to.escape]" : {shitov}
 | "[=shitov][VRoot][=to.grow]" : {shitov}
@@ -721,8 +725,10 @@ define VRootPRQin [
 ! 
 | "[=shiy][VRoot][=to.be.like, to.be.similar, to.resemble]" : {shiy}
 ! 
+| "[=shi][VRoot][=to.escape, to.run]" : {shi}
 | "[=shiy][VRoot][=to.escape, to.run]" : {shiy}
 | "[=shiya][VRoot][=to.escape]" : {shiya}
+| "[=shia][VRoot][=to.escape]" : {shia}
 ! 
 | "[=shiyakant][VRoot][=to.think]" : {shiyakant}
 | "[=shiyakant][VRoot][=to.imagine]" : {shiyakant}
