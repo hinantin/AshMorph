@@ -14,18 +14,6 @@ define ORootPRQin [
 # copulative conjunction 
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
-| "[=aihatzi][ConnRoot][=also]" : {aihatzi}
-| "[=ahatzi][ConnRoot][=also]" : {ahatzi}
-| "[=ehati][ConnRoot][=also, and]" : {ehati}
-| "[=eehati][ConnRoot][=also, and]" : {eehati}
-| "[=eehatzi][ConnRoot][=also, and]" : {eehatzi}
-| "[=iihatzi][ConnRoot][=also]" : {iihatzi}
-| "[=aisati][ConnRoot][=also]" : {aisati}
-| "[=aisatzi][ConnRoot][=also]" : {aisatzi}
-| "[=irosatzi][ConnRoot][=also; until]" : {irosatzi}
-| "[=irosati][ConnRoot][=until]" : {irosati}
-| "[=roohatzi][ConnRoot][=also]" : {roohatzi}
-! 
 | "[=impoihi][ConnRoot][=after, later]" : {impoihi}
 | "[=impoohi][ConnRoot][=after, later]" : {impoohi}
 ! 
@@ -93,4 +81,19 @@ define ORootPRQin [
 ! | "[=irotaki][FOC][=that's.why]" : {irotaki}
 ! | "[=iritaki][FOC][=that's.why]" : {iritaki}
 ! | "[=naakataki][FOC][=...]" : {naakataki}
+];
+
+define ConnRootPRQ01in [
+  "[=aihatzi][ConnRoot][=also]" : {aihatzi}
+| "[=ahatzi][ConnRoot][=also]" : {ahatzi}
+| "[=aahatzi][ConnRoot][=also]" : {aahatzi}
+| "[=ehati][ConnRoot][=also, and]" : {ehati}
+| "[=eehati][ConnRoot][=also, and]" : {eehati}
+| "[=eehatzi][ConnRoot][=also, and]" : {eehatzi}
+| "[=iihatzi][ConnRoot][=also]" : {iihatzi}
+| "[=aisati][ConnRoot][=also]" : {aisati}
+| "[=aisatzi][ConnRoot][=also]" : {aisatzi}
+| "[=irosatzi][ConnRoot][=also; until]" : {irosatzi}
+| "[=irosati][ConnRoot][=until]" : {irosati}
+| "[=roohatzi][ConnRoot][=also]" : {roohatzi}
 ];

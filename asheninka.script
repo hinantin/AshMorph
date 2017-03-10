@@ -235,7 +235,10 @@
       ##########################
       source oroot.prq.foma
         define ORootPRQ ORootPRQin;
+
       define Other [ [ORootPRQ] ];
+
+      define ConnRootPRQ01 [ [ConnRootPRQ01in] [(V=S=OPT)] ];
 
       ##########################
       #                        #
@@ -307,7 +310,7 @@
       ##########################
       source punctuation.foma
         define PunctuationMarks Punctuation;
-      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|NominalizedVerb|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|NominalizedVerb|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
       read regex Ashaninka;
 
       save stack asheninka.bin

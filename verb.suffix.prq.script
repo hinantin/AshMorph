@@ -28,9 +28,9 @@ define V=S=PRNO [
        "[--][+PRF]" : "@EP"[{ak}]
       ];
       
-      define V=S=OPT [
-       "[--][+OPT]" : "@EP"[{ta}]
-      ];
+define V=S=OPT [
+  "[--][+OPT]" : "@EP"[{ta}]
+];
       
 define V=S=PL [
   "[--][Num][+PL]" : "@EP"[{he}] 
