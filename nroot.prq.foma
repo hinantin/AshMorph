@@ -795,6 +795,8 @@ define NRootPRQin [
 | "[=ova+n.m.+inal.][NRoot][=sown.field, sown.plot.of.land]" : {ova}
 | "[=ovaa+n.m.+inal.][NRoot][=sown.field, sown.plot.of.land]" : {ovaa}
 ! 
+| "[=ovanaro+n.m.+inal.][NRoot][=staple.food]" : {ovanaro}
+! 
 | "[=oya][NRoot][=pot]" : {oya}
 | "[=oyari][NRoot][=her.food]" : {oyari}
 ! 
@@ -1215,7 +1217,9 @@ define NRootPRQin [
 | "[=tantaa][NRoot][=bread; from.Quechua.t'anta]" : {tantaa} 
 | "[=tantotsi][NRoot][=corral]" : {tantotsi}
 ! 
-| "[=taranka][NRoot][=abyss]" : {taranka}
+| "[=otaranki][NRoot][=abyss, landslide]" : {otaranki}
+| "[=taranka][NRoot][=abyss, landslide]" : {taranka}
+| "[=otaranka][NRoot][=abyss, landslide]" : {otaranka}
 ! 
 | "[=tasorinka][NRoot][=power]" : {tasorinka}
 | "[=tasorinka][NRoot][=blessing]" : {tasorinka}

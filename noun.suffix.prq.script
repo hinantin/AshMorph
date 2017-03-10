@@ -45,6 +45,7 @@ define N=S=ABS [
  "[--][-rentsi][Gen][+nposs]" : "@NPOSS"[{rentsi}] | 
  "[--][-rintsi][Gen][+nposs]" : "@NPOSS"[{rintsi}] | 
  "[--][-rontsi][Gen][+nposs]" : "@NPOSS"[{rontsi}] | 
+ "[--][-vontsi][Gen][+nposs]" : "@NPOSS"[{vontsi}] | 
  "[--][-tsi][Gen][+nposs]" : "@NPOSS"[{tsi}] | 
  "[--][-tzi][Gen][+nposs]" : "@NPOSS"[{tzi}] | 
  "[--][-ntsi][Gen][+nposs]" : "@NPOSS"[{ntsi}] | 
