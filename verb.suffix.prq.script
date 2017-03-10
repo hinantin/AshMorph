@@ -222,6 +222,7 @@ define V=S=ADJ [
   "[--][+m.][NMZ][+ADJ]" : "@EP"[{ri}] 
 | "[--][+m.][NMZ][+ADJ]" : "@EP"[{re}] 
 | "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{ro}] 
+| "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{vo}] 
 # ----------------------------------
 | "[--][+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] 
 | "[--][+m.][NMZ][+ADJ]" : "@EP"[{tinkari}] 
