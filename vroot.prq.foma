@@ -803,7 +803,8 @@ define VRootPRQin [
 | "[=tov][VRoot][=to.cut]" : {tov}
 | "[=tova][VRoot][=to.cut]" : {tova}
 ! 
-| "[=tsa][VRoot][=to.tie]" : {tsa}
+| "[=tsa][VRoot][=to.tie; to.hung.up; to.hung.from.sth.]" : {tsa}
+! 
 | "[=tsak][VRoot][=to.dye]" : {tsak}
 ! 
 | "[=tsa][VRoot][=to.burst; to.break.open/apart]" : {tsa}
