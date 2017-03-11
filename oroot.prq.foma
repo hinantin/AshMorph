@@ -18,6 +18,7 @@ define ORootPRQin [
 | "[=ariove][OtherRoot][=PP]" : {ariove} ! ario-ve / PP-EXCL
 | "[=arionya][OtherRoot][=PP]" : {arionya} ! ario-nya / PP-AFF:affectivity
 | "[=ariote][OtherRoot][=PP]" : {ariote} ! ario-te / PP-NEG.AFF:negative.affectivity
+| "[=ariteempa][OtherRoot][=PP][=perhaps, maybe]" : {ariteempa} ! ari-tee-mpa / PP-NEG.AFF-DUB
 # copulative conjunction 
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
