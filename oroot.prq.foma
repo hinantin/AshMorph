@@ -23,7 +23,11 @@ define ORootPRQin [
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
 | "[=impoihi][ConnRoot][=after, later]" : {impoihi}
+| "[=impoihini][ConnRoot][=after, later]" : {impoihini}
+| "[=impoihikea][ConnRoot][=after, later]" : {impoihikea}
+| "[=impoihinikea][ConnRoot][=after, later]" : {impoihinikea}
 | "[=impoohi][ConnRoot][=after, later]" : {impoohi}
+| "[=impohi][ConnRoot][=after, later]" : {impohi}
 ! 
 | "[OtherRoot][=aha][=ha]" : {ha}
 | "[OtherRoot][=yes][=he]" : {he}
