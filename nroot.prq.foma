@@ -228,8 +228,8 @@ define NRootPRQin [
 | "[=Hesoshi+m.][NRoot][=Jesus]" : {hesoshi}
 | "[=Hosee+m.][NRoot][=Joseph]" : {hosee}
 ! 
-| "[=horio+m.][NRoot][=jewish]" : {horio}
-| "[=horiiyo+m.][NRoot][=jewish]" : {horiiyo}
+| "[=horio+m.][NRoot][=jewish]" : {horio} ! N@->V
+| "[=horiiyo+m.][NRoot][=jewish]" : {horiiyo} ! N@->V
 ! 
 | "[=herina][NRoot][=nettle.sp.with.big.thorns (ishanga)]" : {herina}
 | "[=hirina][NRoot][=nettle.sp.with.big.thorns (ishanga)]" : {hirina}
@@ -419,7 +419,7 @@ define NRootPRQin [
 ! 
 | "[=kavako][NRoot][=incredulously, with.astonishment]" : {kavako}
 ! 
-| "[=keario][NRoot][=factual, truth]" : {keario}
+| "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
 ! 
 | "[=kemari][NRoot][=tapir, pig.like.animal]" : {kemari}
 ! 

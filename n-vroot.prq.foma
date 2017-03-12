@@ -14,10 +14,13 @@ define NounToVerbPRQin [
 | "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
 | "[=entsi+n./m.][NRoot][=child]" : {entsi} ! N@->V
 | "[=evankari+m.][NRoot][=young.man, adolescent]" : {evankari} ! N@->V
+| "[=horio+m.][NRoot][=jewish]" : {horio} ! N@->V
+| "[=horiiyo+m.][NRoot][=jewish]" : {horiiyo} ! N@->V
 | "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca]" : {kaniri} ! N@->V
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca]" : {kanire} ! N@->V
 | "[=kainiri+n.m.][NRoot][=manioc, yucca]" : {kainiri} ! N@->V
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
+| "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V
 | "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pironi} ! N@->V

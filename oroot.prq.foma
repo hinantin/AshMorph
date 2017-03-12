@@ -10,7 +10,7 @@ define ORootPRQin [
 | "[=ari][OtherRoot][=PP][=there, so, thus, thereby, just.like.that]" : {ari}
 | "[=ario][OtherRoot][=PP]" : {ario}
 | "[=arika][OtherRoot][=when, if]" : {arika} ! ari-rika / PP-COND
-| "[=aririka][OtherRoot][=if]" : {aririka} ! ari-rika / PP-COND
+| "[=ari][OtherRoot][=PP][--][+COND]rika" : {aririka} ! ari-rika / PP-COND : if 
 | "[=ariorika][OtherRoot][=maybe, perhaps]" : {ariorika} ! ario-rika / PP-COND
 | "[=aritaki][OtherRoot][=PP]" : {aritaki} ! ari-t-ak-i / PP-EP-PRF-REAL
 | "[=ariotake][OtherRoot][=PP]" : {ariotake} ! ario-t-ak-e / PP-EP-PRF-REAL
@@ -19,6 +19,10 @@ define ORootPRQin [
 | "[=arionya][OtherRoot][=PP]" : {arionya} ! ario-nya / PP-AFF:affectivity
 | "[=ariote][OtherRoot][=PP]" : {ariote} ! ario-te / PP-NEG.AFF:negative.affectivity
 | "[=ariteempa][OtherRoot][=PP][=perhaps, maybe]" : {ariteempa} ! ari-tee-mpa / PP-NEG.AFF-DUB
+| "[=ariompa][OtherRoot][=PP]" : {ariompa} ! ario-mpa / PP-DUB
+| "[=ariorikame][OtherRoot][=PP]" : {ariorikame} ! ario-rika-me / PP-COND-SUBJ
+| "[=ariorikampa][OtherRoot][=PP]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
+| "[=ariorikakea][OtherRoot][=PP]" : {ariorikakea} ! ario-rika-kea / PP-COND-EMPH
 # copulative conjunction 
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
