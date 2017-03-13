@@ -6,13 +6,13 @@ define NegPRQin [
 | "[=ero][Neg][=NEG.IRR]" : {ero}
 | "[=iiro+past.neg.][Neg][=NEG.IRR]" : {iiro}
 # contional negative irrealis 
-| "[=airorika][Neg][=NEG.IRR.COND]" : {airorika}
-| "[=eerorika][Neg][=NEG.IRR.COND]" : {eerorika}
-| "[=eirorika][Neg][=NEG.IRR.COND]" : {eirorika}
-| "[=erorika][Neg][=NEG.IRR.COND]" : {erorika}
+| "[=airo-rika][Neg][=NEG.IRR-COND]" : {airorika}
+| "[=eero-rika][Neg][=NEG.IRR-COND]" : {eerorika}
+| "[=eiro-rika][Neg][=NEG.IRR-COND]" : {eirorika}
+| "[=ero-rika][Neg][=NEG.IRR-COND]" : {erorika}
 ! 
-! eirome
-! eiroquea
+| "[=eiro-me][Neg][=NEG.IRR-UNK]" : {eirome}
+| "[=eiro-kea][Neg][=NEG.IRR-EMPH]" : {eirokea}
 ! eirotsitarica
 ! eiroyea
 ! eirotsita
