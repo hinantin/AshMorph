@@ -9,20 +9,20 @@ define ORootPRQin [
 ! 
 | "[=ari][PostPol][=PP][=there, so, thus, thereby, just.like.that]" : {ari}
 | "[=ario][PostPol][=PP]" : {ario}
-| "[=arika][PostPol][=PP.COND][=when, if]" : {arika} ! ari-rika / PP-COND
-| "[=aririka][PostPol][=PP.COND][=if]" : {aririka} ! ari-rika / PP-COND : if 
-| "[=ariorika][PostPol][=PP.COND][=maybe, perhaps]" : {ariorika} ! ario-rika / PP-COND
-| "[=aritaki][PostPol][=PP.EP.PRF.REAL]" : {aritaki} ! ari-t-ak-i / PP-EP-PRF-REAL
-| "[=ariotake][PostPol][=PP.EP.PRF.REAL]" : {ariotake} ! ario-t-ak-e / PP-EP-PRF-REAL
-| "[=arive][PostPol][=PP.EXCL]" : {arive} ! ari-ve / PP-EXCL
-| "[=ariove][PostPol][=PP.EXCL]" : {ariove} ! ario-ve / PP-EXCL
-| "[=arionya][PostPol][=PP.AFF]" : {arionya} ! ario-nya / PP-AFF:affectivity
-| "[=ariote][PostPol][=PP.NEG.AFF]" : {ariote} ! ario-te / PP-NEG.AFF:negative.affectivity
-| "[=ariteempa][PostPol][=PP.NEG.AFF.DUB][=perhaps, maybe]" : {ariteempa} ! ari-tee-mpa / PP-NEG.AFF-DUB
-| "[=ariompa][PostPol][=PP.DUB]" : {ariompa} ! ario-mpa / PP-DUB
-| "[=ariorikame][PostPol][=PP.COND.SUBJ]" : {ariorikame} ! ario-rika-me / PP-COND-SUBJ
-| "[=ariorikampa][PostPol][=PP.COND.SUBJ]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
-| "[=ariorikakea][PostPol][=PP.COND.EMPH]" : {ariorikakea} ! ario-rika-kea / PP-COND-EMPH
+| "[=ari-(ri)ka][PostPol][=PP.COND][=when, if]" : {arika} ! ari-rika / PP-COND
+| "[=ari-rika][PostPol][=PP-COND][=if]" : {aririka} ! ari-rika / PP-COND : if 
+| "[=ario-rika][PostPol][=PP-COND][=maybe, perhaps]" : {ariorika} ! ario-rika / PP-COND
+| "[=ari-t-ak-i][PostPol][=PP-EP-PRF-REAL]" : {aritaki} ! ari-t-ak-i / PP-EP-PRF-REAL
+| "[=ario-t-ak-e][PostPol][=PP-EP-PRF-REAL]" : {ariotake} ! ario-t-ak-e / PP-EP-PRF-REAL
+| "[=ari-ve][PostPol][=PP-EXCL]" : {arive} ! ari-ve / PP-EXCL
+| "[=ario-ve][PostPol][=PP-EXCL]" : {ariove} ! ario-ve / PP-EXCL
+| "[=ario-nya][PostPol][=PP-AFF]" : {arionya} ! ario-nya / PP-AFF:affectivity
+| "[=ario-te][PostPol][=PP-NEG.AFF]" : {ariote} ! ario-te / PP-NEG.AFF:negative.affectivity
+| "[=ari-tee-mpa][PostPol][=PP-NEG.AFF-DUB][=perhaps, maybe]" : {ariteempa} ! ari-tee-mpa / PP-NEG.AFF-DUB
+| "[=ario-mpa][PostPol][=PP-DUB]" : {ariompa} ! ario-mpa / PP-DUB
+| "[=ario-rika-me][PostPol][=PP-COND-SUBJ]" : {ariorikame} ! ario-rika-me / PP-COND-SUBJ
+| "[=ario-rika-mpa][PostPol][=PP-COND-SUBJ]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
+| "[=ario-rika-kea][PostPol][=PP-COND-EMPH]" : {ariorikakea} ! ario-rika-kea / PP-COND-EMPH
 # copulative conjunction 
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
