@@ -533,6 +533,7 @@ define NRootPRQin [
 | "[=kontzi][NRoot][=tree.sp. (pona)]" : {kontzi}
 ! 
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
+| "[=koya][NRoot][=woman (from.Quechua.Quya)]" : {koya} ! N@->V
 ! 
 | "[=kopitso+m.][NRoot][=turtle.sp.]" : {kopitso}
 ! 
@@ -800,6 +801,12 @@ define NRootPRQin [
 ! 
 | "[=oya][NRoot][=pot]" : {oya}
 | "[=oyari][NRoot][=her.food]" : {oyari}
+! 
+| "[=oya+n.m.][NRoot][=poor.thing]" : {oya}
+| "[=iya+m.][NRoot][=poor.thing]" : {iya}
+! 
+| "[=oye+m.][NRoot][=rainbow]" : {oye}
+| "[=oyi+m.][NRoot][=rainbow]" : {oyi}
 ! 
 | "[=paamari+n.m.][NRoot][=fire]" : {paamari}
 | "[=paampari+n.m.][NRoot][=fire]" : {paampari}
