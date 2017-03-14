@@ -37,5 +37,10 @@ define NRootESin [
 ! 
 | "[=máquina][NRoot][=machine]" : {maakina}
 | "[=máquina][NRoot][=machine]" : {makina}
-
+! 
+| "[=tambor+m.][NRoot][=drum]" : {tambor} ! N@->V
+| "[=tambor+m.][NRoot][=drum]" : {tamboo} ! N@->V
+| "[=tambor+m.][NRoot][=drum]" : {tamboro} ! N@->V
+| "[=tambor+m.][NRoot][=drum]" : {tamporo} ! N@->V
+| "[=tambor+m.][NRoot][=drum]" : {tampoo} ! N@->V
 ];

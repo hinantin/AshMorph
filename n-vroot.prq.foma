@@ -22,6 +22,7 @@ define NounToVerbPRQin [
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
 | "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
+| "[=koya][NRoot][=woman (from.Quechua.Quya)]" : {koya} ! N@->V
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V
 | "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pironi} ! N@->V
 | "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare} ! N@->V
@@ -33,6 +34,11 @@ define NounToVerbPRQin [
 | "[=tsinane+n.m.][NRoot][=female, woman]" : {tsinane} ! N@->V
 | "[=tzinani+n.m.][NRoot][=female, woman]" : {tzinani} ! N@->V
 | "[=tsinãni+n.m.][NRoot][=female, woman]" : {tsinãni} ! N@->V
+| "[=tambor+m.][NRoot][=drum]" : {tambor} ! N@->V
+| "[=tambor+m.][NRoot][=drum]" : {tamboo} ! N@->V
+| "[=tambor+m.][NRoot][=drum]" : {tamboro} ! N@->V
+| "[=tambor+m.][NRoot][=drum]" : {tamporo} ! N@->V
+| "[=tambor+m.][NRoot][=drum]" : {tampoo} ! N@->V
 | "[=antari+m.][AdjRoot][=big]" : {antari} ! N@->V
 | "[=antari+m.][AdjRoot][=mature]" : {antari} ! N@->V
 | "[=antaro+n.m.][AdjRoot][=big]" : {antaro} ! N@->V
