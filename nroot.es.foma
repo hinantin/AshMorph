@@ -19,6 +19,8 @@ define NRootESin [
 ! 
 | "[=número+poss@te.][NRootEs][=number]" : {nomero}
 ! 
+| "[=olla][NRootEs][=pot]" : {oya}
+! 
 | "[=papá][NRootEs][=dad]" : {papa}
 ! 
 | "[=pastor][NRootEs][=pastor]" : {pashitori}
