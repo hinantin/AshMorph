@@ -11,9 +11,9 @@ define NegPRQin [
 | "[=eiro-rika][Neg][=NEG.IRR-COND]" : {eirorika}
 | "[=ero-rika][Neg][=NEG.IRR-COND]" : {erorika}
 ! 
-| "[=airo-me][Neg][=NEG.IRR-SUBJ][=if.it.were, if.there.were]" : {airome}
+! | "[=airo-me][Neg][=NEG.IRR-SUBJ][=if.it.were, if.there.were]" : {airome}
 | "[=eiro-me][Neg][=NEG.IRR-SUBJ][=if.it.were, if.there.were]" : {eirome}
-| "[=airo-kya][Neg][=NEG.IRR-EMPH][=now]" : {airokya}
+! | "[=airo-kya][Neg][=NEG.IRR-EMPH][=now]" : {airokya}
 | "[=eiro-kea][Neg][=NEG.IRR-EMPH][=now]" : {eirokea}
 ! eirotsitarica
 ! eiroyea
