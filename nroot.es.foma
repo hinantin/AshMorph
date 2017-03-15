@@ -11,6 +11,9 @@ define NRootESin [
 | "[=escuela][NRootEs][=school]" : {escuela}
 | "[=escuela][NRootEs][=school]" : {eskuera}
 | "[=estado][NRootEs][=state]" : {estado}
+! 
+| "[=hermana][NRootEs][=sister]" : {hermana}
+! 
 | "[=ingeniero][NRootEs][=engineer]" : {ingeniero}
 | "[=juan.santos.atahualpa][NRootEs][=person’s.name]" : {juan.santos.atahualpa}
 | "[=matemática][NRootEs][=math]" : {matematika}

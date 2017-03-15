@@ -16,8 +16,8 @@ define ORootPRQin [
 | "[=ario-t-ak-e][PostPol][=PP-EP-PRF-REAL]" : {ariotake} ! ario-t-ak-e / PP-EP-PRF-REAL
 | "[=ari-ve][PostPol][=PP-EXCL]" : {arive} ! ari-ve / PP-EXCL
 | "[=ario-ve][PostPol][=PP-EXCL]" : {ariove} ! ario-ve / PP-EXCL
-| "[=ario-nya][PostPol][=PP-AFF]" : {arionya} ! ario-nya / PP-AFF:affectivity
-| "[=ario-te][PostPol][=PP-NEG.AFF]" : {ariote} ! ario-te / PP-NEG.AFF:negative.affectivity
+| "[=ario][PostPol][=PP][--][-nya][+AFF]" : {arionya} ! AFF:affectivity
+| "[=ario][PostPol][=PP][--][-te][+NEG.AFF]" : {ariote} ! NEG.AFF:negative.affectivity
 | "[=ari-tee-mpa][PostPol][=PP-NEG.AFF-DUB][=perhaps, maybe]" : {ariteempa} ! ari-tee-mpa / PP-NEG.AFF-DUB
 | "[=ario-mpa][PostPol][=PP-DUB]" : {ariompa} ! ario-mpa / PP-DUB
 | "[=ario-rika-me][PostPol][=PP-COND-SUBJ]" : {ariorikame} ! ario-rika-me / PP-COND-SUBJ
