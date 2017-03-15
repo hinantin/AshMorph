@@ -177,14 +177,14 @@ define N=S=ADV [
        "[--][+leaf]" : {tsipana}
       ];
       
-      # assert
-      define N=S=EMPH [
-       "[--][-kia][+EMPH]" : [{kia}] |
-       "[--][-kya][+EMPH]" : [{kya}] |
-       "[--][-kea][+EMPH]" : [{kea}] |
-       "[--][-ka][+EMPH]" : [{ka}] |
-       "[--][-ha][+EMPH]" : [{ha}]
-      ];
+# to assert: to state clearly and firmly that something is true
+define N=S=EMPH [
+  "[--][-kia][+EMPH_ASSERT]" : [{kia}] 
+| "[--][-kya][+EMPH_ASSERT]" : [{kya}] 
+| "[--][-kea][+EMPH_ASSERT]" : [{kea}] 
+| "[--][-ka][+EMPH_ASSERT]" : [{ka}] 
+| "[--][-ha][+EMPH_ASSERT]" : [{ha}]
+];
       
       define N=S=smallpart [
        "[--][+small.part]" : [{patsa}]

@@ -23,6 +23,8 @@ define ORootPRQin [
 | "[=ario-rika-me][PostPol][=PP-COND-SUBJ]" : {ariorikame} ! ario-rika-me / PP-COND-SUBJ
 | "[=ario-rika-mpa][PostPol][=PP-COND-SUBJ]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
 | "[=ario-rika-kea][PostPol][=PP-COND-EMPH]" : {ariorikakea} ! ario-rika-kea / PP-COND-EMPH
+! 
+| "[=aitaki][PostPol][=PP]" : {aitaki}
 # copulative conjunction 
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
