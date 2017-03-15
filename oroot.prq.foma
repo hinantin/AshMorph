@@ -110,6 +110,7 @@ define ConnRootPRQ01in [
 | "[=eehatzi][ConnRoot][=also, and]" : {eehatzi}
 | "[=iihatzi][ConnRoot][=also]" : {iihatzi}
 | "[=aisati][ConnRoot][=also]" : {aisati}
+| "[=aisati][ConnRoot][=also][--][-te][+NEG.AFF]" : {aisatite}
 | "[=aisatzi][ConnRoot][=also]" : {aisatzi}
 | "[=irosatzi][ConnRoot][=also; until]" : {irosatzi}
 | "[=irosati][ConnRoot][=until]" : {irosati}

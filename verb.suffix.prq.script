@@ -8,21 +8,24 @@
       ];
       
 define V=S=PRNO [
-  "[--][+3m.O]" : [{ri}|{re}] 
+  "[--][+3m.O]" : [{ri}] 
+| "[--][+3m.O]" : [{re}] 
 | "[--][+3n.m.O]" : [{ro}] 
 | "[--][+3n.m.O]" : [{vo}] 
 | "[--][+1PL.O]" : "@EP"[{ai}] 
 ];
       
-      define V=S=DIST [
-       "[--][+DIST]" : "@EP"[{ye}|{yee}|{yi}]
-      ];
+define V=S=DIST [
+  "[--][+DIST]" : "@EP"[{ye}]
+| "[--][+DIST]" : "@EP"[{yee}]
+| "[--][+DIST]" : "@EP"[{yi}]
+];
       
-      define V=S=DIR [
-       "[--][-av+object.oriented][Adv][+DIR]" : "@EP"[{av}] |
-       "[--][-an+source+leaving][Adv][+DIR]" : "@EP"[{an}] |
-       "[--][-ap+goal+arriving][Adv][+DIR]" : "@EP"[{ap}]
-      ];
+define V=S=DIR [
+  "[--][-av+object.oriented][Adv][+DIR]" : "@EP"[{av}] 
+| "[--][-an+source+leaving][Adv][+DIR]" : "@EP"[{an}] 
+| "[--][-ap+goal+arriving][Adv][+DIR]" : "@EP"[{ap}]
+];
       
       define V=S=PRF [
        "[--][+PRF]" : "@EP"[{ak}]
@@ -173,10 +176,13 @@ define V=S=O [
        "[--][+ABS]" : "@EP"[{tsi}|{ntsi}]
       ];
       
-      define V=S=noun [
-       "[--][+noun][=child]" : "@EP"[{ani}] | 
-       "[--][+noun]" : "@EP"[{vatsa}|{pori}|{atziri}]
-      ];
+define V=S=noun [
+  "[--][+noun][=child]" : "@EP"[{ani}] 
+| "[--][+noun]" : "@EP"[{vatsa}]
+| "[--][+noun]" : "@EP"[{pori}]
+| "[--][+noun]" : "@EP"[{atziri}]
+| "[--][+noun]" : "@EP"[{tsomi}]
+];
       
 define V=S=COND [
   "[--][+COND]" : "@EP"[{rika}] 
