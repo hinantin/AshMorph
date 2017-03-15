@@ -34,6 +34,7 @@ define NounToVerbPRQin [
 | "[=tsinane+n.m.][NRoot][=female, woman]" : {tsinane} ! N@->V
 | "[=tzinani+n.m.][NRoot][=female, woman]" : {tzinani} ! N@->V
 | "[=tsinãni+n.m.][NRoot][=female, woman]" : {tsinãni} ! N@->V
+| "[=tsomi+inal.][NRoot][=breast]" : {tsomi} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tambor} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tamboo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tamboro} ! N@->V
