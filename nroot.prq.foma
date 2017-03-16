@@ -393,7 +393,7 @@ define NRootPRQin [
 | "[=kamona][NRoot][=palm.tree.sp. (pona)]" : {kamona}
 | "[=kampona][NRoot][=palm.tree.sp. (pona)]" : {kampona}
 ! 
-| "[=kanai][NRoot][=tree.sp]" : {kanai}
+| "[=kanai][NRoot][=tree.sp.]" : {kanai}
 ! 
 | "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca]" : {kaniri} ! N@->V
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca]" : {kanire} ! N@->V
@@ -406,6 +406,9 @@ define NRootPRQin [
 ! 
 | "[=kapeshi+m.][NRoot][=anteater.like.animal.sp. (achuni); fish.sp.]" : {kapeshi}
 | "[=kapishi+m.][NRoot][=anteater.like.animal.sp. (achuni); fish.sp.]" : {kapishi}
+! 
+| "[=karawa][NRoot][=river.frog.sp.]" : {karawa}
+| "[=kaawa][NRoot][=river.frog.sp.]" : {kaawa}
 ! 
 | "[=kashekari+m.][NRoot][=jaguar; tiger]" : {kashekari}
 ! 
