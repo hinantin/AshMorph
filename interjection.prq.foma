@@ -10,4 +10,7 @@ define InterjPRQin [
 | "[=ve][InterjPRQ][=EXCL]" : {ve}
 ! 
 | "[=aasem][InterjPRQ][=INTJ]" : {aasem}
+! 
+| "[=intsi][InterjPRQ][=INTJ]" : {intsi}
+| "[=intsi][InterjPRQ][=INTJ][--][-tyami+expectational][+PLEA]" : {intsityami}
 ];
