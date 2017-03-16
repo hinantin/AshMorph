@@ -182,6 +182,7 @@ define V=S=noun [
 | "[--][+noun]" : "@EP"[{pori}]
 | "[--][+noun]" : "@EP"[{atziri}]
 | "[--][+noun]" : "@EP"[{tsomi}]
+| "[--][+noun][=male.genitals]" : "@EP"[{pitziki}]
 ];
       
 define V=S=COND [
