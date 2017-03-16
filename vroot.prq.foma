@@ -954,9 +954,11 @@ define VRootPRQin [
 | "[=tomint][VRoot][=to.be.son.of]" : {tomint}
 | "[=kaari][VRoot][=NEG.COP]" : {kaari}
 ! copula of capacity cop.c
-!| "[=kara][VRoot][=CAP.C]" : {kara}
-!| "[=kara][VRoot][=COP.CAP]" : {kara}
-| "[=kara][VRoot][=COP.C]" : {kara}
+| "[=kara][VRoot][=COP.C]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 
+! 
+| "[=kara][VRoot][=to.contain, to.finish]" : {kara} ! contain - abarcar, sumar?
+| "[=kaa][VRoot][=to.contain, to.finish]" : {kaa} 
+! 
 | "[=oi][VRoot][=CAUS.AGT.drink]" : {oi}
 | "[=ninka][VRoot][=who]" : {ninka}
 ];
