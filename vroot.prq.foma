@@ -182,6 +182,7 @@ define VRootPRQin [
 | "[=ir][VRoot][=to.cry]" : {ir}
 ! 
 | "[=ir][VRoot][=to.drink]" : {ir}
+| "[o=][AGT.CAUS+][--][=i][VRoot][=drink]" : {oi}
 ! 
 | "[=ira][VRoot][=to.cry]" : {ira}
 | "[=irag][VRoot][=to.cry]" : {irag}
@@ -959,7 +960,6 @@ define VRootPRQin [
 | "[=kara][VRoot][=to.contain, to.finish]" : {kara} ! contain - abarcar, sumar?
 | "[=kaa][VRoot][=to.contain, to.finish]" : {kaa} 
 ! 
-| "[=oi][VRoot][=CAUS.AGT.drink]" : {oi}
 | "[=ninka][VRoot][=who]" : {ninka}
 ];
 
