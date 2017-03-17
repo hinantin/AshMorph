@@ -690,9 +690,16 @@ define NRootPRQin [
 ! 
 | "[=moo+n.m.+inal.][NRoot][=hole]" : {moo}
 | "[=moro+n.m.+inal.][NRoot][=hole]" : {moro}
+| "[=omoro][NRoot][=hole]" : {omoro}
+| "[=omoo][NRoot][=hole]" : {omoo}
+| "[=omo][NRoot][=hole]" : {omo}
+| "[=omoca][NRoot][=hole]" : {omoca}
 ! 
 | "[=morona][NRoot][=hole]" : {morona}
 | "[=morona][NRoot][=cave]" : {morona}
+| "[=omoona][NRoot][=hole]" : {omoona}
+| "[=omona][NRoot][=hole]" : {omona}
+! 
 | "[=motsi][NRoot][=tummy]" : {motsi}
 ! 
 | "[=motya][NRoot][=stomach, belly]" : {motya}
