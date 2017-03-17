@@ -243,6 +243,7 @@ define VRootPRQin [
 | "[=kasa][VRoot][=to.cook.manioc]" : {kasa}
 ! 
 | "[=kati][VRoot][=to.stand.up]" : {kati}
+| "[v=][AGT.CAUS+][--][=kati][VRoot][=to.stand.up]" : {vati}
 ! 
 | "[=kats][VRoot][=to.feel.pain]" : {kats}
 | "[=katsik][VRoot][=to.feel.pain]" : {katsik}
