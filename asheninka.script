@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"]];
+       define Cleanup1  [["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@PRONLEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -79,6 +79,9 @@
 .o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
 .o. CleanUpEpenthesisRule6 ];
 
+      define VCausativeAgentiveRule [ v"@AGT.CAUS@"k (->) v"@AGT.CAUS@" || [{o}] _ [{a}] ]; 
+      define CausativeAgentive [VCausativeAgentiveRule]; 
+
       ##########################
       #                        #
       #        Transitive      #
@@ -133,7 +136,7 @@
         define VRootPRQ [VRootPRQin|VRootEsin|NounToVerbPRQin];
       
 #      define Verb FeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
-      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis ; #.o. FeatRestr;
+      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Epenthesis ; #.o. FeatRestr;
 
       ##########################
       #                        #

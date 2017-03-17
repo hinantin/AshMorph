@@ -242,9 +242,6 @@ define VRootPRQin [
 | "[=kar][VRoot][=to.break]" : {kar}
 | "[=kasa][VRoot][=to.cook.manioc]" : {kasa}
 ! 
-| "[=kati][VRoot][=to.stand.up]" : {kati}
-| "[v=][AGT.CAUS+][--][=kati][VRoot][=to.stand.up]" : {vati}
-! 
 | "[=kats][VRoot][=to.feel.pain]" : {kats}
 | "[=katsik][VRoot][=to.feel.pain]" : {katsik}
 ! 
@@ -256,8 +253,8 @@ define VRootPRQin [
 ! 
 | "[=katsova][VRoot][=to.drip, to.leak.from.roof]" : {katsova}
 ! word set:
-| "[=katziy][VRoot][=to.stand; to.stand.guard; to.be.erect]" : {katziy}
-| "[=kati][VRoot][=to.stand; to.stand.guard; to.be.erect]" : {kati}
+| "[=katziy][VRoot][=to.stand; to.stand.guard; to.be.erect; to.stand.up]" : {katziy}
+| "[=kati][VRoot][=to.stand; to.stand.guard; to.be.erect; to.stand.up]" : {kati}
 ! 
 | "[=kavintsa][VRoot][=to.do.good]" : {kavintsa}
 ! 

@@ -11,6 +11,6 @@ define P=2 [
 | "[omin=][AGT.CAUS+][--]" : {omin}
 | "[oimi=][AGT.CAUS+][--]" : {oimi}
 | "[omi=][AGT.CAUS+][--]" : {omi}
-| "[v=][AGT.CAUS+][--]" : {v}
+| "[v=][AGT.CAUS+][--]" : {v}"@AGT.CAUS@"
 | "[vi=][AGT.CAUS+][--]" : {vi}
 ];
