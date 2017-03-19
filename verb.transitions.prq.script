@@ -145,6 +145,7 @@ define S [
  (V=S=ADJ) (V=S=smallpart) (V=S=DIM) | 
  (V=S=DIR) (V=S=PRF) (V=S=PL) (V=S=REAL) (V=S=PLcircumfixing) | 
  (V=S=DEGR) (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=DEGR) (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=DUB) | 
  (V=S=once) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REV) (V=S=APPL) (V=S=PRF) (V=S=REAL) | 
  (V=S=ADV) | 
