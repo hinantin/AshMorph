@@ -771,6 +771,8 @@ define NRootPRQin [
 | "[=oNkiro+m.][NRoot][=big.mouse]" : {onkiro}
 | "[=oNkicha][NRoot][=small.mouse]" : {onkicha}
 ! 
+| "[=onko][NRoot][=cultigen/edible.plant.sp. (malanga, sci.nm.: xanthosoma.sp.)]" : {onko}
+! 
 | "[=oNkona][NRoot][=cecropia.sp., tree.sp. (cetico)]" : {onkona}
 ! sun 
 | "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri}
@@ -929,7 +931,7 @@ define NRootPRQin [
 | "[=pito][NRoot][=name]" : {pito}
 | "[=pito][NRoot][=canoe]" : {pito}
 ! 
-| "[=pitoka][NRoot][=edible.plant.sp. (taro, sci.nm.: colocasia.esculenta)]" : {pitoka}
+| "[=pitoka][NRoot][=cultigen/edible.plant.sp. (taro, sci.nm.: colocasia.esculenta)]" : {pitoka}
 ! 
 | "[=pitsi+m.][NRoot][=beehive]" : {pitsi}
 ! 
@@ -1035,6 +1037,8 @@ define NRootPRQin [
 | "[=shesheti][NRoot][=heron.sp. (shansho)]" : {shesheti}
 ! 
 | "[=sheshetzi][NRoot][=bird.sp.]" : {sheshetzi}
+! 
+| "[=shimpiri][NRoot][=cultigen/edible.plant.sp.]" : {shimpiri}
 ! 
 | "[=shirinti][NRoot][=small.partridge.sp. (firirín)]" : {shirinti}
 | "[=shirenti][NRoot][=small.partridge.sp. (firirín)]" : {shirenti}
