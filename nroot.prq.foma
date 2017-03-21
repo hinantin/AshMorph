@@ -51,18 +51,18 @@ define NRootPRQin [
 | "[=amempori+m.][NRoot][=vulture, condor]" : {amempori}
 | "[=amimpori+m.][NRoot][=vulture, condor]" : {amimpori}
 ! 
-| "[=ana][NRoot][=genipap, huito, jagua]" : {ana}
+| "[=ana][NRoot][=genipap, huito, jagua (botany.id.: genipa.americana)]" : {ana}
 ! 
 | "[=ani+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {ani}
 | "[=anii+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
 | "[=aninko+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aninko} ! to be checked 
 | "[=aniinko+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aniinko} ! to be checked 
 ! cotton
-| "[=ampee][NRoot][=cotton]" : {ampee}
-| "[=ampe][NRoot][=cotton]" : {ampe}
-| "[=ampii][NRoot][=cotton]" : {ampii}
-| "[=ampi][NRoot][=cotton]" : {ampi}
-| "[=ampehi][NRoot][=cotton]" : {ampehi}
+| "[=ampee][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampee}
+| "[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampe}
+| "[=ampii][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampii}
+| "[=ampi][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampi}
+| "[=ampehi][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampehi}
 !
 | "[=amporetsa][NRoot][=intestine]" : {amporetsa}
 ! 
@@ -675,6 +675,9 @@ define NRootPRQin [
 | "[=maana+n.m.][NRoot][=potato.sp., edible.tuber (sach'a.papa)]" : {maana}
 ! 
 | "[=mayempiri][NRoot][=womanizer]" : {mayempiri}
+! 
+| "[=mayonkona][NRoot][=turmeric (palillo, botany.id.: curcuma.longa)]" : {mayonkona}
+! 
 | "[=meantarini][NRoot][=name]" : {meantarini}
 ! 
 | "[=menta+n.m.+inal.][NRoot][=fin.of.tree]" : {menta}
@@ -848,11 +851,18 @@ define NRootPRQin [
 | "[=paampari+n.m.][NRoot][=fire]" : {paampari}
 ! 
 | "[=paampatzi][NRoot][=bird.species]" : {paampatzi}
-| "[=pachaka][NRoot][=pumpkin]" : {pachaka}
+! 
+| "[=pachaka][NRoot][=pumpkin (botany.nm.: lagenaria.sp.)]" : {pachaka}
+! 
+| "[=paho][NRoot][=bejuco.sp. (pate)]" : {paho}
 ! 
 | "[=paisatzi][NRoot][=ancient]" : {paisatzi}
 ! 
+| "[=pama][NRoot][=pumpkin.sp. (botany.id.: lagenaria.sp.)]" : {pama}
+! 
 | "[=pamaki][NRoot][=tree.sp. (chimicua)]" : {pamaki}
+! 
+| "[=pamoko][NRoot][=bejuco.sp. (pate)]" : {pamoko}
 ! 
 | "[=pankaina][NRoot][=forehead]" : {pankaina}
 | "[=panki][NRoot][=plank, long.narrow.flat.piece.of.wood]" : {panki}
@@ -988,7 +998,9 @@ define NRootPRQin [
 | "[=voro][NRoot][=face]" : {voro}
 ! 
 | "[=poroki][NRoot][=bunch]" : {poroki}
-| "[=potsotzi+n.m.][NRoot][=annatto (achiote)]" : {potsotzi}
+! 
+| "[=potsotzi+n.m.][NRoot][=annatto (achiote, botany.id.: bixa.orellana)]" : {potsotzi}
+| "[=potsoti+n.m.][NRoot][=annatto (achiote, botany.id.: bixa.orellana)]" : {potsoti}
 ! 
 | "[=pyaameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {pyaameni}
 | "[=piameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {piameni}
