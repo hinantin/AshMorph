@@ -16,6 +16,8 @@ define NRootPRQin [
 ! 
 | "[=airi+m.][NRoot][=black.bee.sp.]" : {airi} 
 ! 
+| "[=anona][NRoot][=sugar-apples (botany.nm.: annona.squamosa)]" : {anona} 
+! 
 | "[=aroso+n.m.][NRoot][=rice]" : {aroso} 
 ! 
 | "[=aavo][NRoot][=heron.sp. (sci.nm.: Egretta.thula)]" : {aavo} 
@@ -315,8 +317,8 @@ define NRootPRQin [
 ! 
 | "[=irimashi][NRoot][=Lima]" : {irimashi} ! lima li -> iri(i) - ma -> ma -> shi -> CL
 ! 
-| "[=irimaki][NRoot][=lemon]" : {irimaki}
-| "[=iriimaki][NRoot][=lemon]" : {iriimaki} ! lima li -> iri(i) - ma -> ma -> ki -> CL
+| "[=irimaki][NRoot][=lemon (botany.nm.: citrus.limón)]" : {irimaki}
+| "[=iriimaki][NRoot][=lemon (botany.nm.: citrus.limón)]" : {iriimaki} ! lima li -> iri(i) - ma -> ma -> ki -> CL
 ! 
 | "[=irina][NRoot][=Irina]" : {irina}
 | "[=iritsiro][NRoot][=his.sister]" : {iritsiro}

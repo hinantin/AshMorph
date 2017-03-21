@@ -41,6 +41,8 @@ define NRootESin [
 | "[=máquina][NRoot][=machine]" : {maakina}
 | "[=máquina][NRoot][=machine]" : {makina}
 ! 
+| "[=naranja][NRoot][=orange (botany.nm.: citrus.sp.)]" : {naranka}
+! 
 | "[=tambor+m.][NRoot][=drum]" : {tambor} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tamboo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tamboro} ! N@->V
