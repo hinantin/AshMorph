@@ -557,10 +557,10 @@ define NRootPRQin [
 ! 
 | "[=korarintsi+n.m.][NRoot][=corral]" : {korarintsi}
 ! 
-| "[=koriti+n.m.][NRoot][=sweet.potato]" : {koriti} ! ?
-| "[=kori+n.m.+inal.][NRoot][=sweet.potato]" : {kori} ! noyorite 'my sweet potato'
-| "[=koricha+n.m.][NRoot][=sweet.potato]" : {koricha}
-| "[=koritya+n.m.][NRoot][=sweet.potato]" : {koritya}
+| "[=koriti+n.m.][NRoot][=sweet.potato (camote, botany.id.: ipomeea.batatas)]" : {koriti} ! ?
+| "[=kori+n.m.+inal.][NRoot][=sweet.potato (camote, botany.id.: ipomeea.batatas)]" : {kori} ! noyorite 'my sweet potato'
+| "[=koricha+n.m.][NRoot][=sweet.potato (camote, botany.id.: ipomeea.batatas)]" : {koricha}
+| "[=koritya+n.m.][NRoot][=sweet.potato (camote, botany.id.: ipomeea.batatas)]" : {koritya}
 ! 
 | "[=korinto][NRoot][=big.mythological.animal; elephant]" : {korinto} ! woman like apperance, human eater
 ! 
@@ -592,7 +592,8 @@ define NRootPRQin [
 | "[=ma][NRoot][=clothes]" : {ma}
 | "[=maa][NRoot][=clothes]" : {maa}
 ! 
-| "[=machaki][NRoot][=beans]" : {machaki}
+| "[=machaki][NRoot][=beans (frijol, botany.id.: canavalia.sp.)]" : {machaki}
+! 
 | "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
 ! 
 | "[=mahoki+m.][NRoot][=tadpole.of.a.toad.sp., toad]" : {mahoki}
@@ -944,6 +945,8 @@ define NRootPRQin [
 ! 
 | "[=tsio][NRoot][=sister (kin.of.a.male)]" : {tsio}
 | "[=tsiro][NRoot][=sister (kin.of.a.male)]" : {tsiro}
+! 
+| "[=tsitita][NRoot][=legume.sp. (pallar, botany.id.: phaseolus.lunatus)]" : {tsitita}
 ! 
 | "[=pitsitsari][NRoot][=clay]" : {pitsitsari}
 ! 
@@ -1503,5 +1506,5 @@ define NRootPRQin [
 # fem.			female
 # SAP			speech act participant
 # fe/male		female and male
-
+# botany.id.		botanical identification
 
