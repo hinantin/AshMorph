@@ -951,6 +951,9 @@ define NRootPRQin [
 ! 
 | "[=pochoki][NRoot][=dream]" : {pochoki}
 ! 
+| "[=poe][NRoot][=tuber.sp. (yacón, botany.id.: pachyrizus.erosus)]" : {poe}
+| "[=poi][NRoot][=tuber.sp. (yacón, botany.id.: pachyrizus.erosus)]" : {poi}
+! 
 | "[=poko+m.][NRoot][=yellow.and.black.worm.sp.]" : {poko}
 ! 
 | "[=pompori][NRoot][=owl.sp.]" : {pompori}
@@ -1038,7 +1041,7 @@ define NRootPRQin [
 ! 
 | "[=sheshetzi][NRoot][=bird.sp.]" : {sheshetzi}
 ! 
-| "[=shimpiri][NRoot][=cultigen/edible.plant.sp.]" : {shimpiri}
+| "[=shimpiri][NRoot][=cultigen/edible.plant.sp. (taro, sci.nm.: alocasia)]" : {shimpiri}
 ! 
 | "[=shirinti][NRoot][=small.partridge.sp. (firirín)]" : {shirinti}
 | "[=shirenti][NRoot][=small.partridge.sp. (firirín)]" : {shirenti}
@@ -1361,6 +1364,8 @@ define NRootPRQin [
 | "[=tsinki+m.][NRoot][=eel.sp.]" : {tsinki} 
 | "[=tsinke+m.][NRoot][=eel.sp.]" : {tsinke} 
 ! 
+| "[=tsinkoti][NRoot][=cultigen/edible.plant.sp. (maranta, sci.nm.: maranta.arudinaca)]" : {tsinkoti} 
+! 
 | "[=tsipana+n.m.][NRoot][=plant.sp. (bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana}
 ! 
 | "[=tsirikana][NRoot][=chili.pepper, pepper]" : {tsirikana}
@@ -1394,6 +1399,8 @@ define NRootPRQin [
 | "[=tsovo][NRoot][=owl.sp. (urcututo)]" : {tsovo}
 | "[=tsoovo][NRoot][=owl.sp. (urcututo)]" : {tsoovo}
 | "[=tsoogo][NRoot][=owl.sp. (urcututo)]" : {tsoogo}
+! 
+| "[=shoiriki][NRoot][=tuber.sp. (oca, from.Quechua.Uqa, sci.nm.: calatea.allouia, oxalis.tuberosa)]" : {shoiriki}
 ! 
 | "[=shonkiri][NRoot][=big.partridge.sp.]" : {shonkiri}
 ! 
