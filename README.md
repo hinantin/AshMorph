@@ -60,7 +60,7 @@ Software testing
 
 Don't know how or want to install it?
 
-Then test it on-line at http://hinantin.in/
+Then test it on-line at http://hinant.in/
 
 For more information
 ====================
