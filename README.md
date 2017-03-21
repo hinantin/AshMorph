@@ -55,8 +55,8 @@ In order to run AshaninkaMorph (this finite state transducer), you will need eit
 
 * XFST: http://www.stanford.edu/~laurik/.book2software/
 
-Software prerequisites
-======================
+Software testing
+================
 
 Don't know how or want to install it?
 
@@ -67,7 +67,7 @@ For more information
 
 Richard Castro Mamani
 
-E-mail: richard.castro.mamani@gmail.com
+E-mail: rcastro@hinant.in
 
 Skype: richardtk_1
 
