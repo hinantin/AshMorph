@@ -291,7 +291,7 @@ define NRootPRQin [
 ! 
 | "[=inkite][NRoot][=sky]" : {inkite}
 ! 
-| "[=inki+n.m.][NRoot][=peanut]" : {inki}
+| "[=inki+n.m.][NRoot][=peanut (maní, botany.nm.: arachis.hipogagea)]" : {inki}
 ! 
 | "[=inkiri+m.][NRoot][=fish.sp.]" : {inkiri}
 ! 
@@ -441,8 +441,8 @@ define NRootPRQin [
 ! 
 | "[=kemari][NRoot][=tapir, pig.like.animal]" : {kemari}
 ! 
-| "[=kemi+n.m.][NRoot][=pumpkin.sp.]" : {kemi}
-| "[=kimi+n.m.][NRoot][=pumpkin.sp.]" : {kimi}
+| "[=kemi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.)]" : {kemi}
+| "[=kimi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.)]" : {kimi}
 ! 
 | "[=kemito][NRoot][=cacao, cacao.plant]" : {kemito}
 | "[=kimito][NRoot][=cacao, cacao.plant]" : {kimito}
@@ -1164,9 +1164,9 @@ define NRootPRQin [
 ! 
 | "[=shinkavi+n.m.+inal.][NRoot][=internal.organ.of.some.fish; corn.cob/maize (coronta)]" : {shinkavi}
 ! 
-| "[=shinki][NRoot][=corn]" : {shinki}
-| "[=zinki][NRoot][=corn]" : {zinki}
-| "[=sinki][NRoot][=corn]" : {sinki}
+| "[=shinki][NRoot][=corn (maíz, botany.nm.: zea.maíz)]" : {shinki}
+| "[=zinki][NRoot][=corn (maíz, botany.nm.: zea.maíz)]" : {zinki}
+| "[=sinki][NRoot][=corn (maíz, botany.nm.: zea.maíz)]" : {sinki}
 ! fish trap, fishing trap
 | "[=shimperi][NRoot][=fish.trap, fishing.trap]" : {shimperi}
 | "[=simpiri][NRoot][=fish.trap, fishing.trap]" : {simpiri}
@@ -1382,6 +1382,8 @@ define NRootPRQin [
 ! 
 | "[=tsitsi][NRoot][=firewood]" : {tsitsi}
 | "[=tsitsiri][NRoot][=cricket]" : {tsitsiri}
+! 
+| "[=tsitsikana][NRoot][=chili.sp. (ají, botany.nm.: capsicum.sp.)]" : {tsitsikana}
 ! 
 | "[=tsiveta+m.][NRoot][=ray.fish.sp.]" : {tsiveta}
 ! 
