@@ -32,7 +32,7 @@ define NRootPRQin [
 | "[=asankani+n.m.+inal.][NRoot][=heart]" : {asankani} 
 | "[=ahankane+n.m.+inal.][NRoot][=heart]" : {ahankane} 
 ! 
-| "[=akapa][NRoot][=avocado]" : {akapa} ! -pa
+| "[=akapa][NRoot][=avocado (botany.nm.: persea.americana)]" : {akapa} ! -pa
 ! 
 | "[=ako+n.m.+inal.][NRoot][=arm]" : {ako}
 | "[=ako+n.m.+inal.][NRoot][=hand]" : {ako}
@@ -305,6 +305,8 @@ define NRootPRQin [
 | "[=intsompoi][NRoot][=inside]" : {intsompoi}
 | "[=intyatzini][NRoot][=other.side]" : {intyatzini}
 ! 
+| "[=intsipa][NRoot][=ice-cream.bean.tree (pacae, pacay, from.Quechua.paqay, botany.nm. inga.sp.)]" : {intsipa}
+! 
 | "[=iraa][NRoot][=blood]" : {iraa}
 | "[=ira][NRoot][=blood]" : {ira}
 ! 
@@ -444,8 +446,8 @@ define NRootPRQin [
 | "[=kemi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.)]" : {kemi}
 | "[=kimi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.)]" : {kimi}
 ! 
-| "[=kemito][NRoot][=cacao, cacao.plant]" : {kemito}
-| "[=kimito][NRoot][=cacao, cacao.plant]" : {kimito}
+| "[=kemito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kemito}
+| "[=kimito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kimito}
 ! 
 | "[=kempita][NRoot][=ear]" : {kempita}
 ! 
@@ -634,6 +636,8 @@ define NRootPRQin [
 | "[=maanke+m.][NRoot][=snake, serpent]" : {maanke}
 | "[=maranke+m.][NRoot][=snake, serpent]" : {maranke}
 ! 
+| "[=manko][NRoot][=mango (botany.nm.: manguira.indica)]" : {manko}
+! 
 | "[=mare+n.m.+inal.][NRoot][=wristband]" : {mare}
 | "[=omare+n.m.+inal.][NRoot][=wristband]" : {omare}
 | "[=mari+n.m.+inal.][NRoot][=wristband]" : {mari}
@@ -641,7 +645,8 @@ define NRootPRQin [
 | "[=mantsaki+inal.][NRoot][=cushma]" : {mantsaki}
 ! 
 | "[=mapi+n.m.][NRoot][=stone]" : {mapi}
-| "[=mapocha+n.m.][NRoot][=papaya]" : {mapocha}
+! 
+| "[=mapocha+n.m.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
 ! 
 | "[=matori][NRoot][=nocturnal.butterfly.sp.]" : {matori}
 ! 
@@ -861,13 +866,13 @@ define NRootPRQin [
 !
 | "[=pareni][NRoot][=river]" : {pareni}
 ! banana tree, plantain
-| "[=parenti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {parenti}
-| "[=parentzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {parentzi}
-| "[=payanti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {payanti}
-| "[=payantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {payantzi}
-| "[=parianti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {parianti}
-| "[=paryantsi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {paryantsi}
-| "[=paryantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking); banana (fruit)]" : {paryantzi}
+| "[=parenti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
+| "[=parentzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parentzi}
+| "[=payanti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payanti}
+| "[=payantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payantzi}
+| "[=parianti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parianti}
+| "[=paryantsi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantsi}
+| "[=paryantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
 ! 
 | "[=paritsa+n.m.+inal.][NRoot][=tree.root]" : {paritsa} ! pari-tsa root-stem
 | "[=patsa][NRoot][=part]" : {patsa}
@@ -1063,8 +1068,8 @@ define NRootPRQin [
 | "[=sani+m.][NRoot][=wasp]" : {sani}
 | "[=sanii+m.][NRoot][=wasp]" : {sanii}
 ! 
-| "[=sanko+n.m.][NRoot][=sugar.cane]" : {sanko}
-| "[=hanko+n.m.][NRoot][=sugar.cane]" : {hanko}
+| "[=sanko+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {sanko}
+| "[=hanko+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {hanko}
 ! 
 | "[=sankati][NRoot][=red-necked.gallinacean.bird, andean.guan (puka.kunka)]" : {sankati}
 ! 
@@ -1085,6 +1090,8 @@ define NRootPRQin [
 | "[=satonkaaro+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaaro}
 | "[=satonkaro+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaro}
 | "[=santonkaaro][NRoot][=tatoo.made.with.rubber.charcoal]" : {santonkaaro}
+! 
+| "[=santira][NRoot][=watermelon (botany.sp.: citrullus.sp.)]" : {santira}
 ! 
 | "[=saro+n.m.][NRoot][=grandmother (kin.of.a.fe/male)]" : {saro}
 ! 
@@ -1423,8 +1430,8 @@ define NRootPRQin [
 | "[=tinko+n.m.+inal.][NRoot][=tail]" : {tinko}
 | "[=tzinko+n.m.+inal.][NRoot][=tail]" : {tzinko}
 ! pineapple
-| "[=tzivana+n.m.][NRoot][=pineapple]" : {tzivana}
-| "[=tivana+n.m.][NRoot][=pineapple]" : {tivana}
+| "[=tzivana+n.m.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tzivana}
+| "[=tivana+n.m.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tivana}
 ! salt
 | "[=tzivi+n.m.+poss@ni.][NRoot][=salt]" : {tzivi}
 | "[=tivi+n.m.+poss@ni.][NRoot][=salt]" : {tivi}
