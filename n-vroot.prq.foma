@@ -23,6 +23,8 @@ define NounToVerbPRQin [
 | "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
 | "[=koya][NRoot][=woman (from.Quechua.Quya)]" : {koya} ! N@->V
+| "[=menko+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp.]" : {menko} ! N@->V
+| "[=minko+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp.]" : {minko} ! N@->V
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V
 | "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pironi} ! N@->V
 | "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare} ! N@->V

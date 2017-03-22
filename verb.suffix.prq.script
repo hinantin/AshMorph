@@ -200,64 +200,73 @@ define V=S=STAT [
 | "[--][-aentsi][+STAT]" : "@EP"[{aentsi}]
 ];
       
-      define V=S=Q [
-       "[--][+Q]" : "@EP"[{ka}]
-      ];
+define V=S=Q [
+  "[--][-ka][+Q]" : "@EP"[{ka}]
+];
       
-      define V=S=APPL [
-       "[--][+APPL]" : "@EP"[{ako}]
-      ];
+define V=S=APPL [
+  "[--][-ako][+APPL]" : "@EP"[{ako}]
+];
       
-      define V=S=ABS [
-       "[--][+ABS]" : "@EP"[{tsi}|{ntsi}]
-      ];
+define V=S=ABS [
+  "[--][-tsi][+ABS]" : "@EP"[{tsi}]
+| "[--][-ntsi][+ABS]" : "@EP"[{ntsi}]
+];
       
 define V=S=noun [
-  "[--][+noun][=child]" : "@EP"[{ani}] 
-| "[--][+noun]" : "@EP"[{vatsa}]
-| "[--][+noun]" : "@EP"[{pori}]
-| "[--][+noun]" : "@EP"[{atziri}]
-| "[--][+noun]" : "@EP"[{tsomi}]
-| "[--][+noun][=male.genitals]" : "@EP"[{pitziki}]
+  "[--][-ani][+noun][=child]" : "@EP"[{ani}]
+| "[--][-vatsa][+noun]" : "@EP"[{vatsa}]
+| "[--][-pori][+noun]" : "@EP"[{pori}]
+| "[--][-atziri][+noun]" : "@EP"[{atziri}]
+| "[--][-tsomi][+noun]" : "@EP"[{tsomi}]
+| "[--][-pitziki][+noun][=male.genitals]" : "@EP"[{pitziki}]
+| "[--][-menkotzi][+noun][=platform,floor;disheveled.head]" : "@EP"[{menkotzi}]
 ];
       
 define V=S=COND [
-  "[--][+COND]" : "@EP"[{rika}] 
+  "[--][-rika][+COND]" : "@EP"[{rika}] 
 # This suffix indicates, for good/bad, an action or idea wasn't fulfilled.
-| "[--][+SUBJ]" : "@EP"[{me}] 
+| "[--][-me][+SUBJ]" : "@EP"[{me}] 
 ];
       
-      define V=S=disheveledhead [
-       "[--][+disheveled.head]" : "@EP"[{menkotzi}]
-      ];
+!define V=S=disheveledhead [
+!  "[--][+disheveled.head]" : "@EP"[{menkotzi}] ! menkoti, menkotsi
+!];
       
-      define V=S=DIM [
-       "[--][+DIM]" : "@EP"[{nint}|{ni}|{ini}]
-      ];
+define V=S=DIM [
+  "[--][-nint][+DIM]" : "@EP"[{nint}]
+| "[--][-ni][+DIM]" : "@EP"[{ni}]
+| "[--][-ini][+DIM]" : "@EP"[{ini}]
+];
       
-      define V=S=CL [
-       "[--][+CL:quantity][=group,bunch]" : "@EP"[{poroki}|{pooki}]
-      ];
+define V=S=CL [
+  "[--][-pooki][+CL:quantity][=group,bunch]" : "@EP"[{pooki}]
+| "[--][-poroki][+CL:quantity][=group,bunch]" : "@EP"[{poroki}]
+];
       
-      define V=S=3mposs [
-       "[--][+3m.poss]" : "@EP"[{i}|{y}]
-      ];
+!define V=S=3mposs [
+!  "[--][+3m.poss]" : "@EP"[{i}|{y}]
+!];
       
 define V=S=NMZ [
 # ----------------------------------
-  "[--][+NMZ]" : "@EP"[{rontsi}|{vontsi}] 
-| "[--][+NMZ]" : "@EP"[{rintsi}|{rentsi}|{renti}] 
+  "[--][-rontsi][+NMZ]" : "@EP"[{rontsi}] 
+| "[--][-vontsi][+NMZ]" : "@EP"[{vontsi}] 
+| "[--][-rintsi][+NMZ]" : "@EP"[{rintsi}] 
+| "[--][-rentsi][+NMZ]" : "@EP"[{rentsi}] 
+| "[--][-renti][+NMZ]" : "@EP"[{renti}] 
 # ----------------------------------
-| "[--][NMZ][+INF]" : "@EP"[{aantsi}] 
-| "[--][NMZ][+INF]" : "@EP"[{antsi}] 
-| "[--][NMZ][+INF]" : "@EP"[{agantsi}] 
+| "[--][-aantsi][NMZ][+INF]" : "@EP"[{aantsi}] 
+| "[--][-antsi][NMZ][+INF]" : "@EP"[{antsi}] 
+| "[--][-agantsi][NMZ][+INF]" : "@EP"[{agantsi}] 
 # ----------------------------------
-| "[--][+NMZ]" : "@EP"[{ri}] 
-| "[--][+NMZ]" : "@EP"[{nk}] 
-| "[--][+NMZ]" : "@EP"[{nka}] 
-| "[--][+NMZ]" : "@EP"[{enka}] 
-| "[--][+NMZ]" : "@EP"[{ntsi}] 
-| "[--][NMZ][+CONCR]" : "@EP"[{mento}|{minto}]
+| "[--][-ri][+NMZ]" : "@EP"[{ri}] 
+| "[--][-nk][+NMZ]" : "@EP"[{nk}] 
+| "[--][-nka][+NMZ]" : "@EP"[{nka}] 
+| "[--][-enka][+NMZ]" : "@EP"[{enka}] 
+| "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] 
+| "[--][-mento][NMZ][+CONCR]" : "@EP"[{mento}]
+| "[--][-minto][NMZ][+CONCR]" : "@EP"[{minto}]
 ];
       
 define V=S=ADJ [
