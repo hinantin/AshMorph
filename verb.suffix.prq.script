@@ -8,11 +8,11 @@
       ];
       
 define V=S=PRNO [
-  "[--][+3m.O]" : [{ri}] 
-| "[--][+3m.O]" : [{re}] 
-| "[--][+3n.m.O]" : [{ro}] 
-| "[--][+3n.m.O]" : [{vo}] 
-| "[--][+1PL.O]" : "@EP"[{ai}] 
+  "[--][-ri][+3m.O]" : [{ri}] 
+| "[--][-re][+3m.O]" : [{re}] 
+| "[--][-ro][+3n.m.O]" : [{ro}] 
+| "[--][-vo][+3n.m.O]" : [{vo}] 
+| "[--][-ai][+1PL.O]" : "@EP"[{ai}] 
 ];
       
 define V=S=DIST [
@@ -96,25 +96,25 @@ define V=S=PL [
 # indicates that the subordinate clause has an "adverbial" or interpropositional relation to the main clause, indicating
 # purpose, condition, time, and location. (SIL) 
 define V=S=ADV [
-  "[--][+proximal.loc.][+ADV][=where]" : "@EP"[{ka}] 
-| "[--][+medial.loc.][+ADV][=where]" : "@EP"[{ra}] 
-| "[--][+distal.loc.][+ADV][=where]" : "@EP"[{nta}] 
+  "[--][-ka+proximal.loc.][+ADV][=where]" : "@EP"[{ka}] 
+| "[--][-ra+medial.loc.][+ADV][=where]" : "@EP"[{ra}] 
+| "[--][-nta+distal.loc.][+ADV][=where]" : "@EP"[{nta}] 
 # ---------------------------------------------------------------
-| "[--][+fused.t.][+ADV.P]" : "@EP"[{ranki}] 
+| "[--][-ranki+fused.t.][+ADV.P]" : "@EP"[{ranki}] 
 # ---------------------------------------------------------------
-| "[--][+during][+ADV]" : "@EP"[{paite}] 
+| "[--][-paite+during][+ADV]" : "@EP"[{paite}] 
 # ---------------------------------------------------------------
-| "[--][AS][+ADV]" : "@EP"[{ni}] 
-| "[--][AS][+ADV]" : "@EP"[{ini}] 
-| "[--][AS][+ADV]" : "@EP"[{eni}] 
+| "[--][-ni][AS][+ADV]" : "@EP"[{ni}] 
+| "[--][-ini][AS][+ADV]" : "@EP"[{ini}] 
+| "[--][-eni][AS][+ADV]" : "@EP"[{eni}] 
 ];
       
 define V=S=O [
-  "[--][+1O]" : "@EP"[{na}] 
-| "[--][+2O]" : "@EP"[{mi}] 
-| "[--][+2O]" : "@EP"[{mpi}] 
-| "[--][+2O]" : "@EP"[{npi}] 
-| "[--][+3O]" : "@EP"[{ni}] 
+  "[--][-na][+1O]" : "@EP"[{na}] 
+| "[--][-mi][+2O]" : "@EP"[{mi}] 
+| "[--][-mpi][+2O]" : "@EP"[{mpi}] 
+| "[--][-npi][+2O]" : "@EP"[{npi}] 
+| "[--][-ni][+3O]" : "@EP"[{ni}] 
 ];
       
       define V=S=APPR [
@@ -124,10 +124,6 @@ define V=S=O [
 !      define V=S=2A [
 !       "[--][+2A]" : "@EP"[{pi}|{p}]
 !      ];
-      
-      define V=S=ICPL [
-       "[--][+speed][+ICPL]" : "@EP"[{it}|{itz}]
-      ];
       
       define V=S=REL [
        "[--][+REL]" : "@EP"[{ri}|{ni}]
@@ -152,9 +148,15 @@ define V=S=O [
        "[--][+IMP.P]" : "@EP"[{ai}|{t}|{tz}]
       ];
       
-      define V=S=quickly [
-       "[--][+quickly]" : "@EP"[{ite}]
-      ];
+!define V=S=quickly [
+!  "[--][+quickly]" : "@EP"[{ite}]
+!];
+      
+define V=S=ICPL [
+  "[--][-ite+quickly][+ICPL]" : "@EP"[{ite}]
+| "[--][-it+speed][+ICPL]" : "@EP"[{it}]
+| "[--][-itz+speed][+ICPL]" : "@EP"[{itz}]
+];
       
       define V=S=EXCL [
        "[--][+EXCL]" : "@EP"[{ve}]
