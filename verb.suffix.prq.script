@@ -271,33 +271,55 @@ define V=S=NMZ [
       
 define V=S=ADJ [
 # ----------------------------------
-  "[--][+m.][NMZ][+ADJ]" : "@EP"[{ri}] 
-| "[--][+m.][NMZ][+ADJ]" : "@EP"[{re}] 
-| "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{ro}] 
-| "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{vo}] 
+  "[--][-ri][+m.][NMZ][+ADJ]" : "@EP"[{ri}] 
+| "[--][-re][+m.][NMZ][+ADJ]" : "@EP"[{re}] 
+| "[--][-ro][+n.m.][NMZ][+ADJ]" : "@EP"[{ro}] 
+| "[--][-vo][+n.m.][NMZ][+ADJ]" : "@EP"[{vo}] 
 # ----------------------------------
-| "[--][+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] 
-| "[--][+m.][NMZ][+ADJ]" : "@EP"[{tinkari}] 
-| "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] 
+| "[--][-tsinkari][+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] 
+| "[--][-tinkari][+m.][NMZ][+ADJ]" : "@EP"[{tinkari}] 
+| "[--][-tsinkaro][+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] 
 # ----------------------------------
-| "[--][+m.][NMZ][+ADJ]" : "@EP"[{ntzi}] 
-| "[--][+m.][NMZ][+ADJ]" : "@EP"[{ntsi}] 
-| "[--][+m.][NMZ][+ADJ]" : "@EP"[{nti}] 
-| "[--][+n.m.][NMZ][+ADJ]" : "@EP"[{nto}] 
+| "[--][-ntzi][+m.][NMZ][+ADJ]" : "@EP"[{ntzi}] 
+| "[--][-ntsi][+m.][NMZ][+ADJ]" : "@EP"[{ntsi}] 
+| "[--][-nti][+m.][NMZ][+ADJ]" : "@EP"[{nti}] 
+| "[--][-nto][+n.m.][NMZ][+ADJ]" : "@EP"[{nto}] 
 ];
       
-      define V=S=CAUSSOC [
-       "[--][+CAUS.SOC]" : "@EP"[{ak}]
-      ];
+define V=S=CAUSSOC [
+  "[--][-ak][+CAUS.SOC]" : "@EP"[{ak}]
+];
       
-      define V=S=APPLINST [
-       "[--][+APPL.INST]" : "@EP"[{ant}]
-      ];
+define V=S=APPLINST [
+  "[--][-ant][+APPL.INST]" : "@EP"[{ant}]
+];
       
-      define V=S=once [
-       "[--][+once]" : "@EP"[{apaint}]
-      ];
+# -----------------------------------------------------
+# Valence-adjusting operators, degree, time and manner 
+
+define V=S=once [
+  "[--][-apaint][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaint}]
+  "[--][-apanant][+ITERATIVE][=one.more.time]" : "@EP"[{apanant}]
+];
       
+define V=S=REP [
+  "[--][-a][+REP]" : "@EP"[{a}]
+];
+      
+define V=S=early [
+  "[--][-aman][+early]" : "@EP"[{aman}]
+];
+      
+!define V=S=forawhile [
+!  "[--][+for.a.while]" : "@EP"[{apaint}]
+!];
+      
+define V=S=DIMDEGR [
+  "[--][-nint][+DIM.DEGR]" : "@EP"[{nint}]
+];
+      
+# -----------------------------------------------------
+
       define V=S=APPLINT [
        "[--][+APPL.INT]" : "@EP"[{ashi}|{shi}]
       ];
@@ -315,10 +337,6 @@ define V=S=OFOC [
 | "[--][+O.FOC]" : "@EP"[{kia}] 
 | "[--][+O.FOC]" : "@EP"[{kea}] 
 ];
-      
-      define V=S=REP [
-       "[--][+REP]" : "@EP"[{a}]
-      ];
       
       define V=S=CAUSCOM [
        "[--][+CAUS.COM]" : "@EP"[{aka}]
@@ -408,10 +426,6 @@ define V=S=DEGR [
        "[--][+INCH]" : "@EP"[{ima}|{imai}|{imaint}|{amaint}]
       ];
       
-      define V=S=DIMDEGR [
-       "[--][+DIM.DEGR]" : "@EP"[{nint}]
-      ];
-      
       define V=S=flat [
        "[--][+flat]" : "@EP"[{miront}]
       ];
@@ -422,14 +436,6 @@ define V=S=DEGR [
       
       define V=S=APPLSOC [
        "[--][+APPL.SOC]" : "@EP"[{ak}]
-      ];
-      
-      define V=S=early [
-       "[--][+early]" : "@EP"[{aman}]
-      ];
-      
-      define V=S=forawhile [
-       "[--][+for.a.while]" : "@EP"[{apaint}]
       ];
       
       define V=S=REALEMPH [
