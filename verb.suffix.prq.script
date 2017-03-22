@@ -63,28 +63,33 @@ define V=S=PL [
        "[--][+REAL]" : "@EP"[{ia}|{ya}|{yaa}]
       ];
       
-      define V=S=AUG [
-       "[--][+AUG]" : "@EP"[{piro}|{ni}|{pero}|{pira}]
-      ];
+define V=S=AUG [
+  "[--][-piro][+AUG]" : "@EP"[{piro}]
+| "[--][-ni][+AUG]" : "@EP"[{ni}]
+| "[--][-pero][+AUG]" : "@EP"[{pero}]
+| "[--][-pira][+AUG]" : "@EP"[{pira}]
+];
       
-      define V=S=DUR [
-       "[--][+DUR]" : "@EP"[{vai}] | 
-       "[--][+DUR]" : "@EP"[{vae}] | 
-       "[--][+DUR]" : "@EP"[{vee}] | 
-       "[--][+DUR]" : "@EP"[{vei}]
-      ];
+define V=S=DUR [
+  "[--][-vai][+DUR]" : "@EP"[{vai}] 
+| "[--][-vae][+DUR]" : "@EP"[{vae}] 
+| "[--][-vee][+DUR]" : "@EP"[{vee}] 
+| "[--][-vei][+DUR]" : "@EP"[{vei}]
+];
       
 !      define V=S=3O [
 !       "[--][+3O]" : "@EP"[{ni}]
 !      ];
       
-      define V=S=BEN [
-       "[--][+BEN]" : "@EP"[{vint}]
-      ];
+define V=S=BEN [
+  "[--][-vint][+BEN]" : "@EP"[{vint}]
+| "[--][-vent][+BEN]" : "@EP"[{vent}]
+];
       
-      define V=S=CAUS [
-       "[--][+CAUS]" : "@EP"[{ak}|{aka}]
-      ];
+define V=S=CAUS [
+  "[--][-ak][+CAUS]" : "@EP"[{ak}]
+| "[--][-aka][+CAUS]" : "@EP"[{aka}]
+];
       
 !      define V=S=ADVP [
 !       "[--][+ADV.P]" : "@EP"[{ranki}]
@@ -117,9 +122,9 @@ define V=S=O [
 | "[--][-ni][+3O]" : "@EP"[{ni}] 
 ];
       
-      define V=S=APPR [
-       "[--][+APPR]" : "@EP"[{kari}]
-      ];
+define V=S=APPR [
+  "[--][-kari][+APPR]" : "@EP"[{kari}]
+];
       
 !      define V=S=2A [
 !       "[--][+2A]" : "@EP"[{pi}|{p}]
@@ -149,9 +154,11 @@ define V=S=HAB [
 | "[--][-apini][+HAB_CUST]" : "@EP"[{apini}]
 ];
       
-      define V=S=IMPP [
-       "[--][+IMP.P]" : "@EP"[{ai}|{t}|{tz}]
-      ];
+define V=S=IMPP [
+  "[--][-a][+IMP.P]" : "@EP"[{ai}]
+| "[--][-t][+IMP.P]" : "@EP"[{t}]
+| "[--][-tz][+IMP.P]" : "@EP"[{tz}]
+];
       
 !define V=S=quickly [
 !  "[--][+quickly]" : "@EP"[{ite}]
@@ -163,13 +170,18 @@ define V=S=ICPL [
 | "[--][-itz+speed][+ICPL]" : "@EP"[{itz}]
 ];
       
-      define V=S=EXCL [
-       "[--][+EXCL]" : "@EP"[{ve}]
-      ];
+define V=S=EXCL [
+  "[--][-ve][+EXCL]" : "@EP"[{ve}]
+];
       
-      define V=S=STAT [
-       "[--][+STAT]" : "@EP"[{atsi}|{ni}|{ach}|{acha}|{aintsi}|{aentsi}]
-      ];
+define V=S=STAT [
+  "[--][-atsi][+STAT]" : "@EP"[{atsi}]
+| "[--][-ni][+STAT]" : "@EP"[{ni}]
+| "[--][-ach][+STAT]" : "@EP"[{ach}]
+| "[--][-acha][+STAT]" : "@EP"[{acha}]
+| "[--][-aintsi][+STAT]" : "@EP"[{aintsi}]
+| "[--][-aentsi][+STAT]" : "@EP"[{aentsi}]
+];
       
       define V=S=Q [
        "[--][+Q]" : "@EP"[{ka}]
