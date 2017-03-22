@@ -60,18 +60,25 @@ define V=S=PLcircumfixing [
 ];
 
       
-      define V=S=REGR [
-       "[--][Cas][+REGR_TERM]" : "@EP"[{a}|{ah}]
-      ];
+define V=S=REGR [
+  "[--][-a][Cas][+REGR_TERM]" : "@EP"[{a}]
+| "[--][-ah][Cas][+REGR_TERM]" : "@EP"[{ah}]
+];
       
-      define V=S=CNTF [
-       "[--][+CNT.F]" : "@EP"[{mi}]
-      ];
+define V=S=CNTF [
+  "[--][-mi][+CNT.F]" : "@EP"[{mi}]
+];
       
-      define V=S=REAL [
-       "[--][+REAL]" : "@EP"[{e}|{ee}|{i}|{a}] |
-       "[--][+REAL]" : "@EP"[{ia}|{ya}|{yaa}]
-      ];
+define V=S=REAL [
+  "[--][-e][+REAL]" : "@EP"[{e}]
+| "[--][-ee][+REAL]" : "@EP"[{ee}]
+| "[--][-i][+REAL]" : "@EP"[{i}]
+| "[--][-a][+REAL]" : "@EP"[{a}]
+# -------------------------------------------
+| "[--][-ia][+REAL]" : "@EP"[{ia}]
+| "[--][-ya][+REAL]" : "@EP"[{ya}]
+| "[--][-yaa][+REAL]" : "@EP"[{yaa}]
+];
       
 define V=S=AUG [
   "[--][-piro][+AUG]" : "@EP"[{piro}]
