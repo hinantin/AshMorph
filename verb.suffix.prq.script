@@ -1,11 +1,21 @@
-      define V=S=PROG [
-       "[--][+PROG]" : "@EP"[{atz}|{atsi}] | 
-       "[--][+PROG]" : "@EP"[{aty}|{ati}]
-      ];
+define V=S=PROG [
+  "[--][-atz][+PROG]" : "@EP"[{atz}] 
+| "[--][-atsi][+PROG]" : "@EP"[{atsi}] 
+| "[--][-aty][+PROG]" : "@EP"[{aty}]
+| "[--][-ati][+PROG]" : "@EP"[{ati}]
+];
       
-      define V=S=IRR [
-       "[--][+IRR]" : "@EP"[{e}|{ee}|{ia}|{ya}|{ye}|{a}|{i}|{yaa}|{ea}]
-      ];
+define V=S=IRR [
+  "[--][-e][+IRR]" : "@EP"[{e}]
+| "[--][-ee][+IRR]" : "@EP"[{ee}]
+| "[--][-ia][+IRR]" : "@EP"[{ia}]
+| "[--][-ya][+IRR]" : "@EP"[{ya}]
+| "[--][-ye][+IRR]" : "@EP"[{ye}]
+| "[--][-a][+IRR]" : "@EP"[{a}]
+| "[--][-i][+IRR]" : "@EP"[{i}]
+| "[--][-yaa][+IRR]" : "@EP"[{yaa}]
+| "[--][-ea][+IRR]" : "@EP"[{ea}]
+];
       
 define V=S=PRNO [
   "[--][-ri][+3m.O]" : [{ri}] 
@@ -16,9 +26,9 @@ define V=S=PRNO [
 ];
       
 define V=S=DIST [
-  "[--][+DIST]" : "@EP"[{ye}]
-| "[--][+DIST]" : "@EP"[{yee}]
-| "[--][+DIST]" : "@EP"[{yi}]
+  "[--][-ye][+DIST]" : "@EP"[{ye}]
+| "[--][-yee][+DIST]" : "@EP"[{yee}]
+| "[--][-yi][+DIST]" : "@EP"[{yi}]
 ];
       
 define V=S=DIR [
@@ -27,27 +37,27 @@ define V=S=DIR [
 | "[--][-ap+goal+arriving][Adv][+DIR]" : "@EP"[{ap}]
 ];
       
-      define V=S=PRF [
-       "[--][+PRF]" : "@EP"[{ak}]
-      ];
+define V=S=PRF [
+  "[--][-ak][+PRF]" : "@EP"[{ak}]
+];
       
 define V=S=OPT [
-  "[--][+OPT]" : "@EP"[{ta}]
+  "[--][-ta][+OPT]" : "@EP"[{ta}]
 ];
       
 define V=S=PL [
-  "[--][Num][+PL]" : "@EP"[{he}] 
-| "[--][Num][+PL]" : "@EP"[{hei}] 
-| "[--][Num][+PL]" : "@EP"[{hee}] 
+  "[--][-he][Num][+PL]" : "@EP"[{he}] 
+| "[--][-hei][Num][+PL]" : "@EP"[{hei}] 
+| "[--][-hee][Num][+PL]" : "@EP"[{hee}] 
 # -ite only appears in nominalized verb structures 
 # ---------------------------------------
-| "[--][+PL]" : "@EP"[{aiy}] 
-| "[--][+PL]" : "@EP"[{aey}] 
+| "[--][-aiy][+PL]" : "@EP"[{aiy}] 
+| "[--][-aey][+PL]" : "@EP"[{aey}] 
 ];
 
-      define V=S=PLcircumfixing [
-       "[--][+PL]" : "@EP"[{ni}]
-      ];
+define V=S=PLcircumfixing [
+  "[--][-ni][+PL]" : "@EP"[{ni}]
+];
 
       
       define V=S=REGR [
