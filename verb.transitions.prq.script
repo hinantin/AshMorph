@@ -222,7 +222,7 @@ define S [
  (V=S=INCH) (V=S=IRR) (V=S=PRNO) | 
  (V=S=CAUS) (V=S=REGR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=CAUS) (V=S=IRR) (V=S=O) (V=S=REL) (V=S=Q) | 
- (V=S=flat) (V=S=CL) (V=S=STAT) (V=S=REL) (V=S=Q) | 
+ (V=S=noun) (V=S=CL) (V=S=STAT) (V=S=REL) (V=S=Q) | 
  (V=S=BEN) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPL) (V=S=IRR) (V=S=PRNO) | 
  (V=S=STATT) (V=S=REL) (V=S=ADV) | 
