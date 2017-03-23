@@ -1,28 +1,28 @@
 ! alienable possession?
 define N=S=poss [
- "[--][-te][Gen][+poss]" : {te} |
- ! 
- "[--][-ni][Gen][+poss]" : {ni} |
- "[--][-ne][Gen][+poss]" : {ne} |
- ! 
- "[--][-ri][Gen][+poss]" : {ri} |
- "[--][-re][Gen][+poss]" : {re}
+  "[--][-te][Gen][+poss]" : {te} 
+! 
+| "[--][-ni][Gen][+poss]" : {ni} 
+| "[--][-ne][Gen][+poss]" : {ne} 
+! 
+| "[--][-ri][Gen][+poss]" : {ri} 
+| "[--][-re][Gen][+poss]" : {re}
 ];
       
 ! DEM.NOM: Nominal demonstrative
 define N=S=DEM [
- "[--][-ka+proximal][Adv][+DEM]" : {ka} | ! this
- "[--][-ra+medial][Adv][+DEM]" : {ra} | 
- "[--][-nta+distal][Adv][+DEM]" : {nta} 
+  "[--][-ka+proximal][Adv][+DEM]" : {ka} ! this
+| "[--][-ra+medial][Adv][+DEM]" : {ra} 
+| "[--][-nta+distal][Adv][+DEM]" : {nta} 
 ];
       
 define N=S=PL [
- "[--][-paye][Num][+PL]" : {paye} |
- "[--][-payeni][Num][+PL]" : {payeni} |
- "[--][-payeeni][Num][+PL]" : {payeeni} |
- "[--][-paeni][Num][+PL]" : {paeni} |
- "[--][-pe][Num][+PL]" : {pe} |
- "[--][-pee][Num][+PL]" : {pee} 
+  "[--][-paye][Num][+PL]" : {paye} 
+| "[--][-payeni][Num][+PL]" : {payeni} 
+| "[--][-payeeni][Num][+PL]" : {payeeni} 
+| "[--][-paeni][Num][+PL]" : {paeni} 
+| "[--][-pe][Num][+PL]" : {pe} 
+| "[--][-pee][Num][+PL]" : {pee} 
 ];
       
 define N=S=DIM [
@@ -147,9 +147,9 @@ define N=S=EXCL [
  "[--][-ve][+EXCL]" : {ve}
 ];
       
-      define N=S=ADVP [
-       "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}]
-      ];
+define N=S=ADVP [
+  "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}]
+];
       
 !      define N=S=ADVT [
 !       "[--][+ADV.T]" : [{ranki}]
@@ -161,22 +161,22 @@ define N=S=ADV [
 | "[--][+ADV]" : [{ini}]
 ];
       
-      define N=S=AUG [
-       "[--][-ni][+AUG]" : [{ni}] |
-       "[--][-ite][+AUG]" : [{ite}] |
-       "[--][-pero][+AUG]" : [{pero}] |
-       "[--][-mashi][+AUG]" : [{mashi}] |
-       "[--][-santsa][+AUG]" : [{santsa}] |
-       "[--][-sante][+AUG]" : [{sante}]
-      ];
+define N=S=AUG [
+  "[--][-ni][+AUG]" : [{ni}] 
+| "[--][-ite][+AUG]" : [{ite}] 
+| "[--][-pero][+AUG]" : [{pero}] 
+| "[--][-mashi][+AUG]" : [{mashi}] 
+| "[--][-santsa][+AUG]" : [{santsa}] 
+| "[--][-sante][+AUG]" : [{sante}]
+];
       
-      define N=S=deceased [
-       "[--][-ni][+ceased.existence]" : [{ni}]
-      ];
+define N=S=deceased [
+  "[--][-ni][+ceased.existence]" : [{ni}]
+];
       
-      define N=S=leaf [
-       "[--][+leaf]" : {tsipana}
-      ];
+define N=S=leaf [
+  "[--][+leaf]" : {tsipana}
+];
       
 # to assert: to state clearly and firmly that something is true
 define N=S=EMPH [
@@ -187,54 +187,56 @@ define N=S=EMPH [
 | "[--][-ha][+EMPH_ASSERT]" : [{ha}]
 ];
       
-      define N=S=smallpart [
-       "[--][+small.part]" : [{patsa}]
-      ];
+define N=S=smallpart [
+  "[--][-patsa+small.part]" : [{patsa}]
+];
       
-      define N=S=Q [
-       "[--][+Q]" : [{ka}]
-      ];
+define N=S=Q [
+  "[--][-ka][+Q]" : [{ka}]
+];
       
 !      define N=S=DISTREL [
 !       "[--][-tsori+surrogate.kin][+DIST.REL]" : [{tsori}]
 !      ];
       
-      define N=S=DUB [
-       "[--][+DUB]" : [{ma}] | 
-       "[--][+DUB]" : [{mpa}] | 
-       "[--][+DUB]" : [{taima}] 
-      ];
+define N=S=DUB [
+  "[--][-ma][+DUB]" : [{ma}] 
+| "[--][-mpa][+DUB]" : [{mpa}] 
+| "[--][-taima][+DUB]" : [{taima}] 
+];
       
-      define N=S=CNTR [
-       "[--][+CNTR]" : [{ha}|{maha}]
-      ];
+define N=S=CNTR [
+  "[--][-ha][+CNTR]" : [{ha}]
+| "[--][-maha][+CNTR]" : [{maha}]
+];
       
-      define N=S=wide [
-       "[--][+wide]" : [{tsantsana}]
-      ];
+define N=S=wide [
+  "[--][-tsantsana+wide]" : [{tsantsana}]
+];
       
-      define N=S=NMZ [
-       "[--][+NMZ]" : [{nka}|{ri}]
-      ];
+define N=S=NMZ [
+  "[--][-nka][+NMZ]" : [{nka}]
+| "[--][-ri][+NMZ]" : [{ri}]
+];
       
-      define N=S=PROG [
-       "[--][+PROG]" : [{atz}]
-      ];
+define N=S=PROG [
+  "[--][-atz][+PROG]" : [{atz}]
+];
       
-      define N=S=REAL [
-       "[--][+REAL]" : [{i}]
-      ];
+define N=S=REAL [
+  "[--][-i][+REAL]" : [{i}]
+];
       
-      define N=S=IRR [
-       "[--][+IRR]" : [{ya}]
-      ];
+define N=S=IRR [
+  "[--][-ya][+IRR]" : [{ya}]
+];
       
-      define N=S=RCG [
-       "[--][+RCG]" : [{ranki}]
-      ];
+define N=S=RCG [
+  "[--][-ranki][+RCG]" : [{ranki}]
+];
       
-      define N=S=UNK1 [
-       "[--][+UNK1]" : [{rinte}]
-      ];
+define N=S=UNK1 [
+  "[--][-rinte][+UNK1]" : [{rinte}]
+];
       
 

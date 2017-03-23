@@ -1,22 +1,22 @@
 # preffixes slot 1
 
 define P=1 [
-  "[no-][1SG.S/A+][--]" : [{no}]
-| "[n-][1SG.S/A+][--]" : [{n}]
-| "[p-][2S/A+][--]" : [{p}]
-| "[pi-][2S/A+][--]" : [{pi}]
-| "[i-][3m.S/A+][--]" : [{i}]
-| "[y-][3m.S/A+][--]" : [{y}]
-| "[h-][3m.S/A+][--]" : [{h}] # j - Ashéninka Pichis 
-| "[hi-][3m.S/A+][--]" : [{hi}] # ji - Ashéninka Pichis 
-| "[iri-][3m.S/A.IRR+][--]" : [{iri}]
-| "[ir-][3m.S/A.IRR+][--]" : [{ir}]
-| "[r-][3m.S/A+][--]" : [{r}] # raniiti
-| "[ri-][3m.S/A+][--]" : [{ri}] # riwetsikaki
-| "[o-][3n.m.S/A+][--]" : [{o}]
-| "[ro-][3n.m.S/A+][--]" : [{ro}]
-| "[ho-][3n.m.S/A+][--]" : [{ho}]
-| "[a-][1PL.S/A+][--]" : [{a}]
+  "[no-][VPers][1SG.S/A+][--]" : [{no}]
+| "[n-][VPers][1SG.S/A+][--]" : [{n}]
+| "[p-][VPers][2S/A+][--]" : [{p}]
+| "[pi-][VPers][2S/A+][--]" : [{pi}]
+| "[i-][VPers][3m.S/A+][--]" : [{i}]
+| "[y-][VPers][3m.S/A+][--]" : [{y}]
+| "[h-][VPers][3m.S/A+][--]" : [{h}] # j - Ashéninka Pichis 
+| "[hi-][VPers][3m.S/A+][--]" : [{hi}] # ji - Ashéninka Pichis 
+| "[iri-][VPers][3m.S/A.IRR+][--]" : [{iri}]
+| "[ir-][VPers][3m.S/A.IRR+][--]" : [{ir}]
+| "[r-][VPers][3m.S/A+][--]" : [{r}] # raniiti
+| "[ri-][VPers][3m.S/A+][--]" : [{ri}] # riwetsikaki
+| "[o-][VPers][3n.m.S/A+][--]" : [{o}]
+| "[ro-][VPers][3n.m.S/A+][--]" : [{ro}]
+| "[ho-][VPers][3n.m.S/A+][--]" : [{ho}]
+| "[a-][VPers][1PL.S/A+][--]" : [{a}]
 ! | "[1SG.A+][no-][--]" : ["@1SG.A"{no}]
 ! | "[1SG.A+][n-][--]" : ["@1SG.A"{n}]
 ! | "[2A+][p-][--]" : ["@2A"{p}]
