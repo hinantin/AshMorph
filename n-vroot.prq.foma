@@ -1,7 +1,7 @@
 # -----------------
 # Verbalized nouns
 # -----------------
-define NounToVerbPRQin [
+define NounToVerbPRQin [ 
   "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V

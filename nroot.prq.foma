@@ -876,8 +876,8 @@ define NRootPRQin [
 | "[=pankaina][NRoot][=forehead]" : {pankaina}
 | "[=panki][NRoot][=plank, long.narrow.flat.piece.of.wood]" : {panki}
 ! 
-| "[=panko+n.m.+inal.][NRoot][=house]" : {panko}
-| "[=pãko+n.m.+inal.][NRoot][=house]" : {pãko}
+| "[=panko+n.m.+inal.][NRoot][=house]" : {panko} ! @CMP
+| "[=pãko+n.m.+inal.][NRoot][=house]" : {pãko} ! @CMP
 ! 
 | "[=pante+n.m.+inal.][NRoot][=mouth]" : {pante}
 | "[=paante+n.m.+inal.][NRoot][=mouth]" : {paante}
