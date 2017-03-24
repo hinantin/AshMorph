@@ -1206,8 +1206,10 @@ define NRootPRQin [
 | "[=zinki][NRoot][=corn (maíz, botany.nm.: zea.maíz)]" : {zinki}
 | "[=sinki][NRoot][=corn (maíz, botany.nm.: zea.maíz)]" : {sinki}
 ! fish trap, fishing trap
-| "[=shimperi][NRoot][=fish.trap, fishing.trap]" : {shimperi}
-| "[=simpiri][NRoot][=fish.trap, fishing.trap]" : {simpiri}
+| "[=shimperi+n.m.+inal.][NRoot][=fish.trap (from.Spanish.nasa), fishing.trap]" : {shimperi}
+| "[=shimpere+n.m.+inal.][NRoot][=fish.trap (from.Spanish.nasa), fishing.trap]" : {shimpere}
+| "[=shimpiri+n.m.+inal.][NRoot][=fish.trap (from.Spanish.nasa), fishing.trap]" : {shimpiri}
+| "[=simpiri+n.m.+inal.][NRoot][=fish.trap (from.Spanish.nasa), fishing.trap]" : {simpiri}
 ! 
 | "[=shimpityoki][NRoot][=eyelash]" : {shimpityoki}
 | "[=shimpoki][NRoot][=horsefly]" : {shimpoki}
