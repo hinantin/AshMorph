@@ -418,7 +418,10 @@ define VRootPRQin [
 | "[=makori][VRoot][=to.tire; to.rest]" : {makori}
 ! 
 | "[=mamp][VRoot][=to.sing]" : {mamp}
+
 | "[=pampoy][VRoot][=to.sing]" : {pampoy}
+| "[=pampoye][VRoot][=to.sing]" : {pampoye}
+
 | "[=pants][VRoot][=to.sing]" : {pants}
 | "[=pantsa][VRoot][=to.sing]" : {pantsa}
 ! 
@@ -878,8 +881,9 @@ define VRootPRQin [
 ! 
 | "[=tsinampa][VRoot][=to.joke]" : {tsinampa}
 ! 
-| "[=tsipa][VRoot][=to.be.together]" : {tsipa}
+| "[=tsipa][VRoot][=to.be.together, to.join]" : {tsipa}
 | "[=tsipat][VRoot][=to.accompany, to.join, to.combine]" : {tsipat}
+! 
 | "[=tsirik][VRoot][=to.attach]" : {tsirik}
 | "[=tsiteni][VRoot][=to.get.dark]" : {tsiteni}
 | "[=tsiy][VRoot][=to.heat]" : {tsiy}

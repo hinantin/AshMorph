@@ -305,9 +305,35 @@ define NRootPRQin [
 | "[=intakantarori][NRoot][=ancestor]" : {intakantarori}
 | "[=intakiro][NRoot][=outside]" : {intakiro}
 | "[=intatzikironta][NRoot][=this.side.of.the.river]" : {intatzikironta}
-| "[=intsompoi][NRoot][=inside]" : {intsompoi}
-| "[=intyatzini][NRoot][=other.side]" : {intyatzini}
+# ----------------------------------------------------- 
+# location - spatial adverbs
+# -----------------------------------------------------
+| "[=intsompoi+loc.][AdvRoot][=inside]" : {intsompoi}
+| "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
+| "[=intsompaikira+loc.][AdvRoot][=inside]" : {intsompaikira}
+| "[=intsompoikinta+loc.][AdvRoot][=inside]" : {intsompoikinta}
 ! 
+| "[=intyatzini+loc.][NRoot][=other.side]" : {intyatzini}
+| "[=intatikiro+loc.][NRoot][=other.side]" : {intatikiro}
+! 
+| "[=intaina+loc.][AdvRoot][=far.away]" : {intaina}
+| "[=okaakini+loc.][AdvRoot][=in.close.proximity, closeby]" : {okaakini}
+! 
+| "[=intakiro][AdvRoot][=inside]" : {intakiro}
+| "[=intsompoi][AdvRoot][=inside]" : {intsompoi}
+
+| "[=intakiro][AdvRoot][=outside]" : {intakiro}
+| "[=intakironta][AdvRoot][=outside]" : {intakironta}
+
+| "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
+| "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
+| "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
+! 
+| "[=katonko][NRoot][=up.river]" : {katonko}
+| "[=katonka][NRoot][=up.river]" : {katonka}
+! 
+| "[=kirinka][NRoot][=down.river, central.part.of.the.jungle]" : {kirinka}
+# ------------------------------------------------------
 | "[=intsipa][NRoot][=ice-cream.bean.tree (pacae, pacay, from.Quechua.paqay, botany.nm. inga.sp.)]" : {intsipa}
 ! 
 | "[=iraa][NRoot][=blood]" : {iraa}
@@ -439,9 +465,6 @@ define NRootPRQin [
 | "[=kashiri+m.][NRoot][=moon; month]" : {kashiri}
 | "[=katari][NRoot][=wild.duck]" : {katari}
 ! 
-| "[=katonko][NRoot][=up.river]" : {katonko}
-| "[=katonka][NRoot][=up.river]" : {katonka}
-! 
 | "[=katsariki][NRoot][=testicle]" : {katsariki}
 | "[=katsimaropa][NRoot][=plantain.sp.]" : {katsimaropa}
 ! 
@@ -492,7 +515,7 @@ define NRootPRQin [
 | "[=Kireshia][NRoot][=Greece]" : {kireshia}
 ! 
 | "[=kirimashi][NRoot][=nose]" : {kirimashi}
-| "[=kirinka][NRoot][=down.river]" : {kirinka}
+! 
 | "[=kisaakiri][NRoot][=black.person]" : {kisaakiri}
 | "[=kishi+inal.][NRoot][=hair]" : {kishi}
 ! 
@@ -1098,6 +1121,7 @@ define NRootPRQin [
 | "[=sanii+m.][NRoot][=wasp]" : {sanii}
 ! 
 | "[=sanko+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {sanko}
+| "[=sankoo+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {sankoo}
 | "[=hanko+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {hanko}
 ! 
 | "[=sankati][NRoot][=red-necked.gallinacean.bird, andean.guan (puka.kunka)]" : {sankati}
@@ -1363,8 +1387,8 @@ define NRootPRQin [
 ! palm species
 | "[=toniro][NRoot][=palm.tree.sp. (aguaje)]" : {toniro}
 !
-| "[=tonkari][NRoot][=hill.top,above]" : {tonkari}
-| "[=tonkaari][NRoot][=hill.top,above]" : {tonkaari}
+| "[=tonkari+loc.][NRoot][=hill.top,above]" : {tonkari}
+| "[=tonkaari+loc.][NRoot][=hill.top,above]" : {tonkaari}
 ! 
 | "[=tonki+n.m.+inal.][NRoot][=bone]" : {tonki}
 | "[=tõki+n.m.+inal.][NRoot][=bone]" : {tõki}
@@ -1506,6 +1530,8 @@ define NRootPRQin [
 | "[=viti+n.m.+inal.][NRoot][=outsider]" : {viti}
 | "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
 ! 
+| "[=yampantsa+poss@te][NRoot][=song]" : {yampantsa}
+! 
 | "[=yari+m.][NRoot][=brother (kin.of.a.female)]" : {yari}
 | "[=yaari+m.][NRoot][=brother (kin.of.a.female)]" : {yaari}
 ! 
@@ -1530,8 +1556,8 @@ define NRootPRQin [
 | "[=yorenka+inal.][NRoot][=wisdom, knowledge]" : {yorenka}
 | "[=yorêka+inal.][NRoot][=wisdom, knowledge]" : {yorêka}
 ! word set:
-| "[niyanki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {niyanki}
-| "[nianki][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {nianki}
+| "[niyanki+loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {niyanki}
+| "[nianki+loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {nianki}
 ! word set: medicinal plants
 | "[=taeri][NRoot][=amasisa, tree.sp.]" : {taeri}
 | "[=kanae][NRoot][=tangarana, tree.sp.]" : {kanae}

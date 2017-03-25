@@ -39,12 +39,8 @@ define ORootPRQin [
 | "[OtherRoot][=yes][=he]" : {he}
 | "[OtherRoot][=only][=intaani]" : {intaani}
 | "[OtherRoot][=solely][=intaani]" : {intaani}
-| "[OtherRoot][=far.away][=intaina]" : {intaina}
-| "[OtherRoot][=inside][=intakiro]" : {intakiro}
-| "[OtherRoot][=outside][=intakiro]" : {intakiro}
-| "[OtherRoot][=other.side][=intatzikero]" : {intatzikero}
 | "[OtherRoot][=well][=intsitya]" : {intsitya}
-| "[OtherRoot][=inside][=intsompoi]" : {intsompoi}
+
 # iro kantaincha 'but' 
 | "[=iro][ConnRoot][=but]" : {iro}
 | "[=kantaincha][ConnRoot][=but]" : {kantaincha}

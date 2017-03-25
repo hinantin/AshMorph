@@ -1,3 +1,9 @@
+define V=S=EP [
+  "[--][-t][+EP]" : {t}
+| "[--][-tz][+EP]" : {tz}
+| "[--][-a][+EP]" : {a}
+];
+
 define V=S=PROG [
   "[--][-atz][+PROG]" : "@EP"[{atz}] 
 | "[--][-atsi][+PROG]" : "@EP"[{atsi}] 
@@ -534,6 +540,10 @@ define V=S=APPLREF [
 define V=S=UNK1 [
   "[--][-aheempi+when][+UNK1]" : "@EP"[{aheempi}] 
 | "[--][-ahempi+when][+UNK1]" : "@EP"[{ahempi}] 
+];
+      
+define V=S=DLMT [
+  "[--][-vintsa][+DLMT]" : "@EP"[{vintsa}] 
 ];
 
       
