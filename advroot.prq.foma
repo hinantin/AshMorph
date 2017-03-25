@@ -47,7 +47,7 @@ define AdvRootPRQin [
 | "[=ovakera][AdvRoot][=recently]" : {ovakera}
 | "[=ovakera][AdvRoot][=when]" : {ovakera}
 | "[=ovakera][AdvRoot][=ago]" : {ovakera}
-| "[=ovakerari][AdvRoot][=new]" : {ovakerari}
+| "[=ovakerari][AdvRoot][=new, recent]" : {ovakerari}
 ! 
 | "[=pairani][AdvRoot][=since; before; long.ago]" : {pairani}
 | "[=paerani][AdvRoot][=since; before; long.ago]" : {paerani}

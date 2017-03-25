@@ -922,6 +922,11 @@ define VRootPRQin [
 | "[=v][VRoot][=to.place]" : {v}
 | "[=v][VRoot][=to.kill]" : {v}
 ! 
+| "[=vanenka][VRoot][=to.be.beautiful]" : {vanenka}
+| "[=vaneenka][VRoot][=to.be.beautiful]" : {vaneenka}
+| "[=ovanenka][VRoot][=to.be.beautiful]" : {ovanenka}
+| "[=ovaneenka][VRoot][=to.be.beautiful]" : {ovaneenka}
+! 
 | "[=vashire][VRoot][=to.get.sad, to.be.sad]" : {vashire}
 | "[=vashiri][VRoot][=to.get.sad, to.be.sad]" : {vashiri}
 ! 
