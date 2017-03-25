@@ -269,7 +269,7 @@ define V=S=NMZ [
 # ----------------------------------
 | "[--][-ri][+NMZ]" : "@EP"[{ri}] 
 | "[--][-nk][+NMZ]" : "@EP"[{nk}] 
-| "[--][-nka][+NMZ]" : "@EP"[{nka}] 
+| "[--][-nka+quality][+NMZ]" : "@EP"[{nka}] 
 | "[--][-enka][+NMZ]" : "@EP"[{enka}] 
 | "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] 
 | "[--][-mento][NMZ][+CONCR]" : "@EP"[{mento}]
