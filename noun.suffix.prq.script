@@ -215,7 +215,7 @@ define N=S=wide [
 ];
       
 define N=S=NMZ [
-  "[--][-nka][+NMZ]" : [{nka}]
+  "[--][-nka+quality][+NMZ]" : [{nka}]
 | "[--][-ri][+NMZ]" : [{ri}]
 ];
       
