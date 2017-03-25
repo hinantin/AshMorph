@@ -278,19 +278,19 @@ define V=S=NMZ [
       
 define V=S=ADJ [
 # ----------------------------------
-  "[--][-ri][+m.][NMZ][+ADJ]" : "@EP"[{ri}] 
-| "[--][-re][+m.][NMZ][+ADJ]" : "@EP"[{re}] 
-| "[--][-ro][+n.m.][NMZ][+ADJ]" : "@EP"[{ro}] 
-| "[--][-vo][+n.m.][NMZ][+ADJ]" : "@EP"[{vo}] 
+  "[--][-ri+m.][NMZ][+ADJ]" : "@EP"[{ri}] 
+| "[--][-re+m.][NMZ][+ADJ]" : "@EP"[{re}] 
+| "[--][-ro+n.m.][NMZ][+ADJ]" : "@EP"[{ro}] 
+| "[--][-vo+n.m.][NMZ][+ADJ]" : "@EP"[{vo}] 
 # ----------------------------------
-| "[--][-tsinkari][+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] 
-| "[--][-tinkari][+m.][NMZ][+ADJ]" : "@EP"[{tinkari}] 
-| "[--][-tsinkaro][+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] 
-# ----------------------------------
-| "[--][-ntzi][+m.][NMZ][+ADJ]" : "@EP"[{ntzi}] 
-| "[--][-ntsi][+m.][NMZ][+ADJ]" : "@EP"[{ntsi}] 
-| "[--][-nti][+m.][NMZ][+ADJ]" : "@EP"[{nti}] 
-| "[--][-nto][+n.m.][NMZ][+ADJ]" : "@EP"[{nto}] 
+| "[--][-tsinkari+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] 
+| "[--][-tinkari+m.][NMZ][+ADJ]" : "@EP"[{tinkari}] 
+| "[--][-tsinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] 
+# ---------PARTICIPANT--------------
+| "[--][-ntzi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntzi}] 
+| "[--][-ntsi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntsi}] 
+| "[--][-nti+m.+partic.][NMZ][+ADJ]" : "@EP"[{nti}] 
+| "[--][-nto+n.m.+partic.][NMZ][+ADJ]" : "@EP"[{nto}] 
 ];
       
 define V=S=CAUSSOC [
@@ -547,3 +547,11 @@ define V=S=DLMT [
 ];
 
       
+# ##############################
+#         Abbreviations         
+# ##############################
+# partic.		participant
+# m.			masculine
+# n.m.			not masculine
+# 
+
