@@ -109,11 +109,6 @@ define V=S=BEN [
 | "[--][-vent][+BEN]" : "@EP"[{vent}]
 ];
       
-define V=S=CAUS [
-  "[--][-ak][+CAUS]" : "@EP"[{ak}]
-| "[--][-aka][+CAUS]" : "@EP"[{aka}]
-];
-      
 !      define V=S=ADVP [
 !       "[--][+ADV.P]" : "@EP"[{ranki}]
 !      ];
@@ -293,9 +288,20 @@ define V=S=ADJ [
 | "[--][-nto+n.m.+partic.][NMZ][+ADJ]" : "@EP"[{nto}] 
 ];
       
+# --------Sociative-Causative ----------
 define V=S=CAUSSOC [
   "[--][-ak][+CAUS.SOC]" : "@EP"[{ak}]
+| "[--][-aka][+CAUS.SOC]" : "@EP"[{aka}]
 ];
+      
+!define V=S=CAUSCOM [
+!  "[--][-aka][+CAUS.COM]" : "@EP"[{aka}]
+!];
+      
+!define V=S=CAUS [
+!  "[--][-ak][+CAUS]" : "@EP"[{ak}]
+!| "[--][-aka][+CAUS]" : "@EP"[{aka}]
+!];
       
 define V=S=APPLINST [
   "[--][-ant][+APPL.INST]" : "@EP"[{ant}]
@@ -346,10 +352,6 @@ define V=S=OFOC [
 | "[--][-kea][+O.FOC]" : "@EP"[{kea}] 
 ];
       
-define V=S=CAUSCOM [
-  "[--][-aka][+CAUS.COM]" : "@EP"[{aka}]
-];
-      
 !define V=S=poss [
 !  "[--][+poss]" : "@EP"[{ni}|{te}]
 !];
@@ -362,9 +364,9 @@ define V=S=EMPH [
 | "[--][-tzi][+EMPH]" : "@EP"[{tzi}]
 ];
       
-define V=S=MCAUS [
-  "[--][-mi][+M.CAUS]" : "@EP"[{mi}]
-];
+!define V=S=MCAUS [
+!  "[--][-mi][+M.CAUS]" : "@EP"[{mi}]
+!];
       
 !      define V=S=CAUSAGT [
 !       "[--][+CAUS.AGT]" : "@EP"[{v}]

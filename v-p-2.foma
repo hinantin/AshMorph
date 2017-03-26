@@ -2,7 +2,10 @@
 
 define P=2 [
   "[N=][IRR+][--]" : [{N}|{n}|{m}]
+# ------MALEFACTIVE CAUSATIVE----------
 | "[mi=][M.CAUS+][--]" : {mi}
+| "[min=][M.CAUS+][--]" : {min}
+# -----AGENTIVE CAUSATIVE--------
 | "[o=][AGT.CAUS+][--]" : {o}
 | "[oi=][AGT.CAUS+][--]" : {oi}
 | "[om=][AGT.CAUS+][--]" : {om}
