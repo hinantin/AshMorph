@@ -49,6 +49,8 @@ define NRootESin [
 | "[=tambor+m.][NRoot][=drum]" : {tamporo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tampoo} ! N@->V
 ! 
-| "[=Tominka][NP][=Dominga]" : {tominka} 
-| "[=Horio][NP][=Julio]" : {horio} 
+| "[=Dominga][NP][=Dominga]" : {tominka} 
+| "[=Julio][NP][=Julio]" : {horio} 
+| "[=Jerónimo][NP][=Jerónimo]" : {heronimo} 
+| "[=San][NP][=Saint]" : {san} 
 ];
