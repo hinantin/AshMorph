@@ -32,10 +32,10 @@ define NounToVerbPRQin [
 | "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
 | "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
 | "[=shitamenko+inal.][NRoot][=dais]" : {shitamenko} ! N@->V 
-| "[=tsinani+n.m.][NRoot][=female, woman]" : {tsinani} ! N@->V
-| "[=tsinane+n.m.][NRoot][=female, woman]" : {tsinane} ! N@->V
-| "[=tzinani+n.m.][NRoot][=female, woman]" : {tzinani} ! N@->V
-| "[=tsinãni+n.m.][NRoot][=female, woman]" : {tsinãni} ! N@->V
+| "[=tsinani+n.m.][NRoot][=female, woman; young.girl]" : {tsinani} ! N@->V
+| "[=tsinane+n.m.][NRoot][=female, woman; young.girl]" : {tsinane} ! N@->V
+| "[=tzinani+n.m.][NRoot][=female, woman; young.girl]" : {tzinani} ! N@->V
+| "[=tsinãni+n.m.][NRoot][=female, woman; young.girl]" : {tsinãni} ! N@->V
 | "[=tsomi+inal.][NRoot][=breast]" : {tsomi} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tambor} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tamboo} ! N@->V

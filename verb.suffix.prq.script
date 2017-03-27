@@ -312,7 +312,7 @@ define V=S=APPLINST [
 
 define V=S=once [
   "[--][-apaint][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaint}]
-  "[--][-apanant][+ITERATIVE][=one.more.time]" : "@EP"[{apanant}]
+| "[--][-apanant][+ITERATIVE][=one.more.time]" : "@EP"[{apanant}]
 ];
       
 define V=S=REP [

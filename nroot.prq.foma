@@ -923,7 +923,7 @@ define NRootPRQin [
 ! otter
 | "[=parari][NRoot][=otter]" : {parari}
 !
-| "[=pareni][NRoot][=river]" : {pareni}
+| "[=pareni][NRoot][=river, Perené.river]" : {pareni}
 ! banana tree, plantain
 | "[=parenti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
 | "[=parentzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parentzi}
@@ -1336,6 +1336,8 @@ define NRootPRQin [
 | "[=tampiya+n.m.][NRoot][=wind]" : {tampiya}
 | "[=tampea+n.m.][NRoot][=wind]" : {tampea}
 | "[=tampya+n.m.][NRoot][=wind]" : {tampya}
+! 
+| "[=tampo][NRoot][=main.river, Tambo.river]" : {tampo}
 ! 
 | "[=tantaa][NRoot][=bread; from.Quechua.t'anta]" : {tantaa} 
 | "[=tantotsi][NRoot][=corral]" : {tantotsi}
