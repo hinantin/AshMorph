@@ -733,7 +733,9 @@ define NRootPRQin [
 ! 
 | "[=mereto][NRoot][=fish.sp., mojarra]" : {mereto}
 ! 
-| "[=metaro][NRoot][=village's.name]" : {metaro}
+| "[=Metaro][NRoot][=village's.name, Flat, rounded.slightly.curved.area]" : {metaro}
+| "[=Metraro][NRoot][=village's.name, rounded.slightly.curved.area]" : {metraro}
+| "[=Metararo][NRoot][=village's.name, rounded.slightly.curved.area]" : {metararo}
 ! 
 | "[=minkori][NRoot][=cloud]" : {minkori}
 | "[=menkori][NRoot][=cloud]" : {menkori}
