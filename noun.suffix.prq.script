@@ -141,6 +141,8 @@ define N=S=CL [
 | "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni}
 #-----------------------------------------------
 | "[--][-pompoina][+CL:ball][=ball]" : {pompoina}
+#-----------------------------------------------
+| "[--][-ni][+CL:watercourse][=watercourse]" : {ni}
 ];
       
 define N=S=EXCL [
