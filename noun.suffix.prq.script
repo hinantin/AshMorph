@@ -142,7 +142,13 @@ define N=S=CL [
 #-----------------------------------------------
 | "[--][-pompoina][+CL:ball][=ball]" : {pompoina}
 #-----------------------------------------------
+# Classifiers for place names
+#-----------------------------------------------
+! -ni 'watercourse', a truncated version of nija 'water'
 | "[--][-ni][+CL:watercourse][=watercourse]" : {ni}
+!  -ito~-to 'head, the.heights.of.sth.', source is iitontsi =iito-ntsi =head-nposs
+| "[--][-ito][+CL:head][=head,the.heights.of.sth.]" : {ito}
+| "[--][-to][+CL:head][=head,the.heights.of.sth.]" : {to}
 ];
       
 define N=S=EXCL [
