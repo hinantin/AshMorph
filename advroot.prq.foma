@@ -59,6 +59,9 @@ define AdvRootPRQin [
 | "[=ponyashita][AdvRoot][=afterwards]" : {ponyashita}
 | "[=ponyashitaka][AdvRoot][=afterwards]" : {ponyashitaka}
 | "[=ponyashitaka][AdvRoot][=then]" : {ponyashitaka}
+! 
+| "[=ponyaashita][ConnRoot][CONJ][=afterwards]" : {ponyaashita}
+! 
 | "[=sheteni][AdvRoot][=in.the.afternoon]" : {sheteni}
 | "[=sheteniranki][AdvRoot][=yesterday]" : {sheteniranki}
 | "[=tsiteni][AdvRoot][=at.night]" : {tsiteni}
