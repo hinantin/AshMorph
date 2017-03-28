@@ -48,6 +48,7 @@ define AdvRootPRQin [
 | "[=ovakera][AdvRoot][=when]" : {ovakera}
 | "[=ovakera][AdvRoot][=ago]" : {ovakera}
 | "[=ovakerari][AdvRoot][=new, recent]" : {ovakerari}
+| "[=ovakerani][AdvRoot][=recently]" : {ovakerani}
 ! 
 | "[=pairani][AdvRoot][=since; before; long.ago]" : {pairani}
 | "[=paerani][AdvRoot][=since; before; long.ago]" : {paerani}
@@ -67,3 +68,11 @@ define AdvRootPRQin [
 | "[=tsiteni][AdvRoot][=at.night]" : {tsiteni}
 | "[=tsiteniranki][AdvRoot][=last.night]" : {tsiteniranki}
 ];
+
+# ##############################
+#         Abbreviations         
+# ##############################
+
+# CONN			connector
+# CONJ			conjunction
+
