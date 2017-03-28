@@ -388,6 +388,7 @@ define V=S=APPLSEP [
   "[--][-pitsa][+APPL.SEP]" : "@EP"[{pitsa}]
 ];
       
+# reciprocal
 define V=S=RCP [
   "[--][-av][+RCP]" : "@EP"[{av}]
 ];
@@ -547,7 +548,6 @@ define V=S=UNK1 [
 define V=S=DLMT [
   "[--][-vintsa][+DLMT]" : "@EP"[{vintsa}] 
 ];
-
       
 # ##############################
 #         Abbreviations         
