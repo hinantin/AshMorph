@@ -294,6 +294,10 @@ define V=S=CAUSSOC [
 | "[--][-aka][+CAUS.SOC]" : "@EP"[{aka}]
 ];
       
+!define V=S=APPLSOC [
+!  "[--][-ak][+APPL.SOC]" : "@EP"[{ak}]
+!];
+      
 !define V=S=CAUSCOM [
 !  "[--][-aka][+CAUS.COM]" : "@EP"[{aka}]
 !];
@@ -449,10 +453,6 @@ define V=S=INCH [
       
 define V=S=STATT [
   "[--][-aintsi][+STAT.T]" : "@EP"[{aintsi}]
-];
-      
-define V=S=APPLSOC [
-  "[--][-ak][+APPL.SOC]" : "@EP"[{ak}]
 ];
       
 define V=S=REALEMPH [
