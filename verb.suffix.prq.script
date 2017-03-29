@@ -44,7 +44,8 @@ define V=S=DIR [
 ];
       
 define V=S=PRF [
-  "[--][-ak][+PRF]" : "@EP"[{ak}]
+  "[--][-ak][+PRF]" : "@EP"[{ak}] 
+| "[--][-aak][+PRF]" : "@EP"[{aak}]
 ];
       
 define V=S=OPT [
