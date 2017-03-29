@@ -55,6 +55,7 @@
       define TEpenthesisRule10 [ "@EP" (->) {t}"@EP" || e _ y ]; # no-ñatsa-bae-t-ya
       define TEpenthesisRule11 [ "@EP" (->) {t}"@EP" || n _ [a|e|i|o] ]; # quemisan-t-atsi-ri, pi-n-quemisan-t-e-na-ji 
       define TEpenthesisRule12 [ "@EP" (->) {t}"@EP" || o _ [i|y] ]; # i=cameetsa-t-asano-t-i, i-n=kis-ako-t-ya-ro 
+      define TEpenthesisRule12 [ "@EP" (->) {t}"@EP" || y _ [a] ]; # i=mantsiy-t-apaent-e
 																															# This rule is not working for this entry: Ikinkishiriaka 
 																															# but for Ikinkishiritaka, for this reason we apply an optional rule
 
