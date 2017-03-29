@@ -316,7 +316,7 @@ define V=S=APPLINST [
 
 define V=S=once [
   "[--][-apaint][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaint}]
-  "[--][-apaent][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaent}]
+| "[--][-apaent][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaent}]
 # -----------------------------------------------------
 | "[--][-apanant][+ITERATIVE][=one.more.time]" : "@EP"[{apanant}]
 ];
