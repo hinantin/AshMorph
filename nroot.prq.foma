@@ -378,7 +378,7 @@ define NRootPRQin [
 | "[=sary+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {sary}
 ! 
 | "[=savoo+n.m.][NRoot][=giant.cane (caña.brava)]" : {savoo}
-| "[=savoro+n.m.][NRoot][=giant.cane (caña.brava)]" : {savoro}
+| "[=savoro+n.m.][NRoot][=giant.cane (caña.brava, carrizo)]" : {savoro}
 ! 
 | "[=iteki][NRoot][=wasp.honeycomb]" : {iteki}
 ! 
@@ -574,7 +574,7 @@ define NRootPRQin [
 | "[=kompero+m.][NRoot][=red.chested.bird.sp.]" : {kompero}
 | "[=kompiro+m.][NRoot][=red.chested.bird.sp.]" : {kompiro}
 ! 
-| "[=kompiro+n.m.][NRoot][=palm.tree.sp. (yarina)]" : {kompiro}
+| "[=kompiro+n.m.][NRoot][=palm.tree.sp. (ESP: yarina, humiro; sci.nm.: phytelephas.macrocarpa; tipically.used.as.construction.wood)]" : {kompiro}
 ! 
 | "[=kompiroshi][NRoot][=leaf.from.yarina.tree]" : {kompiroshi}
 ! 
@@ -1021,6 +1021,8 @@ define NRootPRQin [
 ! 
 | "[=tsitita][NRoot][=legume.sp. (pallar, botany.id.: phaseolus.lunatus)]" : {tsitita}
 ! 
+| "[=pavi+n.m.+inal.][NRoot][=stairs, bridge/ramp.formed.by.a.fallen.tree/stick]" : {pavi}
+! 
 | "[=pitsitsari][NRoot][=clay]" : {pitsitsari}
 ! 
 | "[=piviro+m.][NRoot][=toad.sp.]" : {piviro}
@@ -1250,7 +1252,7 @@ define NRootPRQin [
 ! fish trap, fishing trap
 | "[=shimperi+n.m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap]" : {shimperi}
 | "[=shimpere+n.m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap]" : {shimpere}
-| "[=shimpiri+n.m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap]" : {shimpiri}
+| "[=shimpiri+n./m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap; fish.trap.made.out.of.reed/carrizo/savoro.or.humiro/kompiro.at.night]" : {shimpiri}
 | "[=simpiri+n.m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap]" : {simpiri}
 ! 
 | "[=shimpityoki][NRoot][=eyelash]" : {shimpityoki}
