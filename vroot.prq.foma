@@ -63,8 +63,8 @@ define VRootPRQin [
 | "[=ane][VRoot][=to.live]" : {ane}
 | "[=any][VRoot][=to.live]" : {any}
 ! 
-| "[=anii][VRoot][=to.go, to.walk, to.go.down]" : {anii}
-| "[=ani][VRoot][=to.go, to.walk, to.go.down]" : {ani}
+| "[=anii][VRoot][=to.go, to.walk; to.go.down]" : {anii}
+| "[=ani][VRoot][=to.go, to.walk; to.go.down]" : {ani}
 ! 
 | "[=ampi][VRoot][=to.repeat]" : {ampi}
 | "[=anpi][VRoot][=to.repeat]" : {anpi}
