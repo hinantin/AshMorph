@@ -1003,8 +1003,9 @@ define NRootPRQin [
 ! 
 | "[=piratsi+m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (huangana)]" : {piratsi}
 ! 
-| "[=pito][NRoot][=name]" : {pito}
-| "[=pito][NRoot][=canoe]" : {pito}
+| "[=pito[NRoot][=name]" : {pito}
+! 
+| "[=pito+n.m.+inal.][NRoot][=canoe]" : {pito}
 ! 
 | "[=pitoka][NRoot][=cultigen/edible.plant.sp. (taro, sci.nm.: colocasia.esculenta)]" : {pitoka}
 ! 
