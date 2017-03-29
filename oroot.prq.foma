@@ -36,7 +36,10 @@ define ORootPRQin [
 | "[=impohi][ConnRoot][=after, later]" : {impohi}
 ! 
 | "[OtherRoot][=aha][=ha]" : {ha}
-| "[OtherRoot][=yes][=he]" : {he}
+! 
+| "[=he][OtherRoot][=yes]" : {he}
+| "[=hee][OtherRoot][=yes]" : {hee}
+! 
 | "[OtherRoot][=only][=intaani]" : {intaani}
 | "[OtherRoot][=solely][=intaani]" : {intaani}
 | "[OtherRoot][=well][=intsitya]" : {intsitya}
