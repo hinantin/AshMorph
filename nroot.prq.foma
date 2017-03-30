@@ -1003,7 +1003,11 @@ define NRootPRQin [
 ! 
 | "[=piratsi+m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (huangana)]" : {piratsi}
 ! 
-| "[=pito[NRoot][=name]" : {pito}
+| "[=Pito][NRoot][=person's.name]" : {pito}
+! 
+| "[=pito+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {pito}
+| "[=pitoni+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {pitoni}
+| "[=marampito][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {marampito}
 ! 
 | "[=pito+n.m.+inal.][NRoot][=canoe]" : {pito}
 ! 
