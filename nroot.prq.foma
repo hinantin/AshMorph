@@ -96,6 +96,8 @@ define NRootPRQin [
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V
 ! 
+| "[=avanto][NRoot][=big-size.frog]" : {avanto}
+! 
 | "[=avo+n.m.+inal.][NRoot][=road, trail]" : {avo}
 | "[=ao+n.m.+inal.][NRoot][=road, trail]" : {ao}
 | "[=aa+n.m.+inal.][NRoot][=road, trail]" : {aa}
