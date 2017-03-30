@@ -1540,6 +1540,10 @@ define NRootPRQin [
 ! rooster 
 | "[=tyoopi+m.][NRoot][=rooster]" : {tyoopi}
 !
+| "[=tsirianti+poss@te][NRoot][=pineapple]" : {tsirianti}
+| "[=tsireanti+poss@te][NRoot][=pineapple]" : {tsireanti}
+| "[=chirianti+poss@te][NRoot][=pineapple]" : {chirianti}
+! 
 | "[=tziivito][NRoot][=Beetle]" : {tziivito}
 | "[=tzina][NRoot][=pifayo]" : {tzina}
 | "[=tzina][NRoot][=camonilla]" : {tzina}
