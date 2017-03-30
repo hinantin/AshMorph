@@ -1146,8 +1146,6 @@ define NRootPRQin [
 | "[=sankoo+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {sankoo}
 | "[=hanko+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {hanko}
 ! 
-| "[=sankati][NRoot][=red-necked.gallinacean.bird, andean.guan (puka.kunka)]" : {sankati}
-! 
 | "[=shonyaki+n.m.][NRoot][=edible.plant.sp. (dale-dale, sci.nm.: calatea.allouia)]" : {shonyaki}
 | "[=shonaki+n.m.][NRoot][=edible.plant.sp. (dale-dale, sci.nm.: calatea.allouia)]" : {shonaki}
 ! 
@@ -1157,7 +1155,11 @@ define NRootPRQin [
 | "[=honkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {honkari}
 !
 | "[=sampi][NRoot][=torch]" : {sampi}
+! 
 | "[=santari][NRoot][=cedar.tree]" : {santari}
+! 
+| "[=sankatzi+m.][NRoot][=red-necked.gallinacean.bird.sp. (pucacunga, from.Quechua.pukakunka)]" : {sankatzi}
+| "[=sankati+m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (pucacunga, from.Quechua.pukakunka)]" : {sankati}
 ! 
 | "[=santonka+m.][NRoot][=rubber.tree; rubber; tatoo.made.with.rubber.charcoal]" : {santonka}
 | "[=satonkaari+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaari}
