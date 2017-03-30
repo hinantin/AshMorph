@@ -1380,13 +1380,13 @@ define NRootPRQin [
 | "[=tasorinka][NRoot][=power]" : {tasorinka}
 | "[=tasorinka][NRoot][=blessing]" : {tasorinka}
 ! 
-| "[=tavakore+n.m.+inal.][NRoot][=roasted.yucca.with.peel]" : {tavakore}
-| "[=tavakori+n.m.+inal.][NRoot][=roasted.yucca.with.peel]" : {tavakori}
+| "[=tavakore+n.m.+inal.][NRoot][=roasted.yucca.with.peel]" : {tavakore} 
+| "[=tavakori+n.m.+inal.][NRoot][=roasted.yucca.with.peel]" : {tavakori} 
 ! 
-| "[=tasori+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tasori} 
-| "[=tajore+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tajore} 
-| "[=tasore+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tasore} 
-| "[=tazore+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tazore} 
+| "[=tasori+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tasori} 
+| "[=tajore+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tajore} 
+| "[=tasore+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tasore} 
+| "[=tazore+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tazore} 
 | "[=tsorentsi][NRoot][=god, saint, sacred]" : {tsorentsi}
 | "[=tsorintsi][NRoot][=god, saint, sacred]" : {tsorintsi}
 ! 
