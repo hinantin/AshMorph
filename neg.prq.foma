@@ -29,6 +29,8 @@ define NegPRQin [
 ! eiroricame
 | "[=eiro][Neg][=NEG.IRR][--][-ve][+EXCL]" : {eirove}
 ! eiroricampa
+| "[=airo][Neg][=NEG.IRR][--][-ra+medial][Adv][+DEM]" : {airora}
+| "[=eero][Neg][=NEG.IRR][--][-ra+medial][Adv][+DEM]" : {eerora}
 ! 
 # negative copula 
 | "[=kaari][Neg][=NEG.C/OP]" : {kaari}
