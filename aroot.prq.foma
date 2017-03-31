@@ -24,6 +24,7 @@ define ARootPRQin [
 | "[=kapichahi][AdjRoot][=little]" : {kapichahi}
 ! 
 | "[=kenkivari+m.][AdjRoot][=old]" : {kenkivari} ! N@->V
+| "[=kenkevari+m.][AdjRoot][=old]" : {kenkevari} ! N@->V
 | "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari} ! N@->V
 | "[=kenkivaro+n.m.][AdjRoot][=old]" : {kenkivaro} ! N@->V
 | "[=kinkivaro+n.m.][AdjRoot][=old]" : {kinkivaro} ! N@->V
@@ -37,5 +38,11 @@ define ARootPRQin [
 | "[=pashini][AdjRoot][=other, another, few]" : {pashini}
 | "[=pasini][AdjRoot][=other, another]" : {pasini}
 ! 
+| "[=pisari+m.][AdjRoot][=old]" : {pisari} ! N@->V
+| "[=pishari+m.][AdjRoot][=old]" : {pishari} ! N@->V
+| "[=pisaro+n.m.][AdjRoot][=old]" : {pisaro} ! N@->V
+| "[=pisharo+n.m.][AdjRoot][=old]" : {pisharo} ! N@->V
+! 
 | "[=pochari][AdjRoot][=sweet]" : {pochari}
+! 
 ];
