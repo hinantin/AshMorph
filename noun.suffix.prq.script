@@ -180,8 +180,12 @@ define N=S=AUG [
 | "[--][-sante][+AUG]" : [{sante}]
 ];
       
-define N=S=TEMPORAL [
+define N=S=TEMPORALEXIST [
   "[--][-ni][+TEMPORAL][=ceased.exist., deceased]" : [{ni}]
+];
+
+define N=S=TEMPORALR [
+  "[--][-nta][+TEMPORAL][=ceased.r., ceased.relation.with.a.human.referent]" : [{nta}]
 ];
       
 define N=S=leaf [
