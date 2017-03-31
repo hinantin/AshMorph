@@ -405,8 +405,8 @@ define NRootPRQin [
 | "[=iye+m.][NRoot][=brother (kin.of.a.male, male.ego)]" : {iye}
 | "[=iyenti+m.][NRoot][=brother (kin.of.a.male)]" : {iyenti}
 | "[=iyeki+m.][NRoot][=brother (kin.of.a.male)]" : {iyeki}
-| "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
-| "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
+!| "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
+!| "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
 ! 
 | "[=kaaro][NRoot][=car]" : {kaaro}
 ! 
@@ -1104,13 +1104,13 @@ define NRootPRQin [
 ! 
 | "[=rasaro][NRoot][=person's.name]" : {rasaro}
 ! 
-| "[=renti][NRoot][=brother (kin.of.a.male)]" : {renti}
-| "[=reenti][NRoot][=brother (kin.of.a.male)]" : {reenti}
-| "[=rentzi][NRoot][=brother (kin.of.a.male)]" : {rentzi}
-| "[=rintzi][NRoot][=brother (kin.of.a.male)]" : {rintzi}
-| "[=irenti][NRoot][=brother (kin.of.a.male)]" : {irenti}
-| "[=irentzi][NRoot][=brother (kin.of.a.male)]" : {irentzi}
-| "[=irintzi][NRoot][=brother (kin.of.a.male)]" : {irintzi}
+| "[=renti+m.][NRoot][=brother (kin.of.a.male)]" : {renti}
+| "[=reenti+m.][NRoot][=brother (kin.of.a.male)]" : {reenti}
+| "[=rentzi+m.][NRoot][=brother (kin.of.a.male)]" : {rentzi}
+| "[=rintzi+m.][NRoot][=brother (kin.of.a.male)]" : {rintzi}
+| "[=irenti+m.][NRoot][=brother (kin.of.a.male)]" : {irenti}
+| "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
+| "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
 ! 
 | "[=rento+n.m.+inal.][NRoot][=sister (kin.of.a.female)]" : {rento}
 | "[=reento+n.m.+inal.][NRoot][=sister (kin.of.a.female)]" : {reento}
