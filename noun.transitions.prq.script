@@ -33,8 +33,8 @@ define N [
  (N=S=ABS) (N=S=PL) (N=S=LOC) | 
 ! 
 
- (N=S=poss) (N=S=deceased) | 
- (N=S=deceased) | 
+ (N=S=poss) (N=S=TEMPORAL) | 
+ (N=S=TEMPORAL) | 
  (N=S=LOC) (N=S=DEM) | 
  (N=S=leaf) | 
  (N=S=DIM) (N=S=DIM) | 
@@ -49,7 +49,7 @@ define N [
  (N=S=Q) | 
  (N=S=2poss) (N=S=poss) (N=S=PL) | 
  (N=S=DUB) | 
- (N=S=deceased) (N=S=EXCL) | 
+ (N=S=TEMPORAL) (N=S=EXCL) | 
  (N=S=LOC) (N=S=DIM) | 
  (N=S=DEM) (N=S=EMPH) | 
  (N=S=ADVP) | 
@@ -72,7 +72,7 @@ define N [
  (N=S=DUB) (N=S=EMPH) | 
  (N=S=CL) (N=S=poss) (N=S=LOC) (N=S=DEM) (N=S=EMPH) | 
  (N=S=AUG) (N=S=NMZ) | 
- (N=S=AUG) (N=S=deceased) | 
+ (N=S=AUG) (N=S=TEMPORAL) | 
  (N=S=PROG) (N=S=REAL) | 
  (N=S=ABS) (N=S=PL) | 
  (N=S=ABS) (N=S=LOC) (N=S=DEM) | 

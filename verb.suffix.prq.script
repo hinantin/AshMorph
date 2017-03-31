@@ -419,8 +419,8 @@ define V=S=before [
   "[--][-it+before]" : "@EP"[{it}]
 ];
       
-define V=S=deceased [
-  "[--][-ni+deceased]" : "@EP"[{ni}]
+define V=S=TEMPORAL [
+  "[--][-ni][+TEMPORAL][=ceased.exist., deceased]" : "@EP"[{ni}]
 ];
       
 define V=S=smallpart [

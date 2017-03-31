@@ -132,7 +132,7 @@ define S [
  (V=S=APPLREAS) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=ADJ) (V=S=PL) | 
  (V=S=DIR) (V=S=REGR) (V=S=REAL) (V=S=PRNO) | 
- (V=S=REGR) (V=S=STAT) (V=S=ADJ) (V=S=deceased) | 
+ (V=S=REGR) (V=S=STAT) (V=S=ADJ) (V=S=TEMPORAL) | 
  (V=S=AUG) | 
  (V=S=APPLINST) (V=S=REAL) (V=S=PRNO) | 
  (V=S=ADJ) (V=S=smallpart) (V=S=DIM) | 
