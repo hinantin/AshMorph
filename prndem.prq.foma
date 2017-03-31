@@ -42,11 +42,13 @@ define PrnDemPRQin [
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=this]" : {iyoka} ! DEM
 ! 
-| "[=iyora+m.+medial][PrnDem][=that]" : {iyora} ! DEM
-| "[=yora+m.+medial][PrnDem][=DEM]" : {yora}
+| "[=iyora+m.+medial][PrnDem][=that]" : {iyora} ! DEM 
+| "[=yora+m.+medial][PrnDem][=DEM]" : {yora} ! he 
+| "[=yoora+m.+medial][PrnDem][=DEM]" : {yoora} ! he 
 ! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM]" : {oka}
 | "[=ora+n.m.+medial][PrnDem][=that]" : {ora} ! she 
+| "[=oora+n.m.+medial][PrnDem][=that]" : {oora} ! she 
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=DEM]" : {yoka}
 | "[=yoka+m.+proximal][PrnDem][=this]" : {yoka}
@@ -54,6 +56,7 @@ define PrnDemPRQin [
 ! 
 | "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
 | "[=yonta+m.+distal][PrnDem][=that, that.over.there]" : {yonta}
+| "[=yoonta+m.+distal][PrnDem][=that, that.over.there]" : {yoonta}
 ! Demonstrative identifier 
 | "[=heri+m.][PrnDem][=DEM.ID.][=here.you.are]" : {heri}
 | "[=herika+m.+proximal][PrnDem][=DEM.ID.][=here.it.is]" : {herika}

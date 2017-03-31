@@ -20,7 +20,7 @@ define PrnPersPRQin [
 !
 | "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iri}
 | "[=iriro+cont.d.top.][PrnPers][+3SG.m.]" : {iriro}
-| "[=irio+cont.d.top.][PrnPers][+3SG.m.]" : {irio}
+| "[=irio+cont.d.top.][PrnPers][+3SG.m.][=he]" : {irio}
 ! 
 | "[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why]" : {iro}
 | "[=iroo+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why]" : {iroo}
@@ -49,8 +49,8 @@ define PrnPersPRQin [
 | "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {iriori} ! FOC 
 | "[=iriyori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {iriyori} ! FOC 
 ! 
-| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {iroori} ! FOC 
-| "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.]" : {irori} ! FOC 
+| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she]" : {iroori} ! FOC 
+| "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she]" : {irori} ! FOC 
 !  
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
 # -------------------------------------------------------------------
