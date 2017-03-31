@@ -21,6 +21,11 @@ define NounToVerbPRQin [
 | "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
 | "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
+| "[=kitamaro+n.m.][NRoot][=white]" : {kitamaro} ! N@->V
+| "[=kitamaaro+n.m.][NRoot][=white]" : {kitamaaro} ! N@->V
+| "[=kitamaavo+n.m.][NRoot][=white]" : {kitamaavo} ! N@->V
+| "[=kitamari+m.][NRoot][=white]" : {kitamari} ! N@->V
+| "[=kitamaari+m.][NRoot][=white]" : {kitamaari} ! N@->V
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
 | "[=koya][NRoot][=woman (from.Quechua.Quya)]" : {koya} ! N@->V
 | "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V

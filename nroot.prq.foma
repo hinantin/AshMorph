@@ -530,11 +530,11 @@ define NRootPRQin [
 | "[=kitairiki][NRoot][=peccary]" : {kitairiki}
 | "[=kitaiteri][NRoot][=day]" : {kitaiteri}
 ! 
-| "[=kitamaro+n.m.][NRoot][=white]" : {kitamaro}
-| "[=kitamaaro+n.m.][NRoot][=white]" : {kitamaaro}
-| "[=kitamaavo+n.m.][NRoot][=white]" : {kitamaavo}
-| "[=kitamari+m.][NRoot][=white]" : {kitamari}
-| "[=kitamaari+m.][NRoot][=white]" : {kitamaari}
+| "[=kitamaro+n.m.][NRoot][=white]" : {kitamaro} ! N@->V
+| "[=kitamaaro+n.m.][NRoot][=white]" : {kitamaaro} ! N@->V
+| "[=kitamaavo+n.m.][NRoot][=white]" : {kitamaavo} ! N@->V
+| "[=kitamari+m.][NRoot][=white]" : {kitamari} ! N@->V
+| "[=kitamaari+m.][NRoot][=white]" : {kitamaari} ! N@->V
 | "[=kitamarori][NRoot][=white]" : {kitamarori}
 ! 
 | "[=kiteri][NRoot][=yellow]" : {kiteri}
