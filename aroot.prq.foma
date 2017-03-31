@@ -23,8 +23,8 @@ define ARootPRQin [
 ! 
 | "[=kapichahi][AdjRoot][=little]" : {kapichahi}
 ! 
-| "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari}
-| "[=kinkivaro+n.m.][AdjRoot][=old]" : {kinkivaro}
+| "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari} ! N@->V
+| "[=kinkivaro+n.m.][AdjRoot][=old]" : {kinkivaro} ! N@->V
 ! 
 | "[=maaro][AdjRoot][=everybody, all]" : {maaro}
 | "[=maaroni][AdjRoot][=everybody, all, entire]" : {maaroni}

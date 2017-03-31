@@ -52,5 +52,7 @@ define NounToVerbPRQin [
 | "[=aparoni][AdjRoot][=one]" : {aparoni} ! N@->V
 | "[=apite][AdjRoot][=two]" : {apite} ! N@->V
 | "[=mava][AdjRoot][=three]" : {mava} ! N@->V
+| "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari} ! N@->V
+| "[=kinkivaro+n.m.][AdjRoot][=old]" : {kinkivaro} ! N@->V
 | "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V
 ];
