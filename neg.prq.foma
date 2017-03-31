@@ -23,7 +23,7 @@ define NegPRQin [
 ! eiroyea
 ! eirotsita
 | "[=eiro][Neg][=NEG.IRR][--][-ta][+OPT]" : {eirota}
-! eirompa
+| "[=eiro][Neg][=NEG.IRR][--][-mpa][+DUB]" : {eirompa}
 ! eiroya eiro-ya / NEG.IRR-INSIST (*)INSIST-insistence;
 ! eirotarica
 ! eiroricame
