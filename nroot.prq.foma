@@ -405,7 +405,8 @@ define NRootPRQin [
 | "[=iye+m.][NRoot][=brother (kin.of.a.male, male.ego)]" : {iye}
 | "[=iyenti+m.][NRoot][=brother (kin.of.a.male)]" : {iyenti}
 | "[=iyeki+m.][NRoot][=brother (kin.of.a.male)]" : {iyeki}
-| "[=nirentzi+m.][NRoot][=brother (kin.of.a.male)]" : {nirentzi}
+| "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
+| "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
 ! 
 | "[=kaaro][NRoot][=car]" : {kaaro}
 ! 
@@ -563,6 +564,7 @@ define NRootPRQin [
 | "[=konki+poss@ri][NRoot][=father.in.law (kin.of.a.male)]" : {konki}
 ! 
 | "[=koko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {koko}
+| "[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {kooko}
 ! 
 | "[=konaki][NRoot][=elbow]" : {konaki}
 ! 
