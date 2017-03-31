@@ -6,10 +6,12 @@ define NegPRQin [
 | "[=ero][Neg][=NEG.IRR]" : {ero}
 | "[=iiro+past.neg.][Neg][=NEG.IRR]" : {iiro}
 # contional negative irrealis 
-| "[=airo-rika][Neg][=NEG.IRR-COND]" : {airorika}
-| "[=eero-rika][Neg][=NEG.IRR-COND]" : {eerorika}
-| "[=eiro-rika][Neg][=NEG.IRR-COND]" : {eirorika}
-| "[=ero-rika][Neg][=NEG.IRR-COND]" : {erorika}
+| "[=airo][Neg][=NEG.IRR][--][-rika][+COND]" : {airorika}
+| "[=eero][Neg][=NEG.IRR][--][-rika][+COND]" : {eerorika}
+| "[=eiro][Neg][=NEG.IRR][--][-rika][+COND]" : {eirorika}
+| "[=ero][Neg][=NEG.IRR][--][-rika][+COND]" : {erorika}
+! 
+| "[=airo][Neg][=NEG.IRR][--][-ta][+OPT]" : {airota}
 ! 
 ! | "[=airo-me][Neg][=NEG.IRR-SUBJ][=if.it.were, if.there.were]" : {airome}
 | "[=eiro-me][Neg][=NEG.IRR-SUBJ][=if.it.were, if.there.were]" : {eirome}
@@ -36,8 +38,8 @@ define NegPRQin [
 | "[=te][Neg][=NEG/.REAL]" : {te}
 | "[=tee][Neg][=NEG.REAL]" : {tee}
 # conditional negative realis
-| "[=terika][Neg][=NEG.COND]" : {terika}
-| "[=teerika][Neg][=NEG.COND]" : {teerika}
+| "[=te][Neg][=NEG][--][-rika][+COND]" : {terika}
+| "[=tee][Neg][=NEG][--][-rika][+COND]" : {teerika}
 # negative existencial 
 | "[=tekatsi][Neg][=NEG.EXIST]" : {tekatsi}
 | "[=teekatsi][Neg][=NEG.EXIST]" : {teekatsi}
