@@ -928,6 +928,7 @@ define VRootPRQin [
 ! word set:
 | "[=tyank][VRoot][=to.send]" : {tyank}
 | "[=tiank][VRoot][=to.send]" : {tiank}
+| "[=tiyank][VRoot][=to.send]" : {tiyank}
 !
 | "[=tyerov][VRoot][=to.kneel.down]" : {tyerov}
 | "[=tyoonk][VRoot][=to.bathe]" : {tyoonk}
