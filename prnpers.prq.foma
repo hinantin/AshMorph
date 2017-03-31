@@ -48,11 +48,15 @@ define PrnPersPRQin [
 | "[=irirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {irirori} ! FOC "He" 
 | "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {iriori} ! FOC 
 | "[=iriyori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {iriyori} ! FOC 
+| "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he][--][-hei][Num][+PL]" : {iriorihei} ! FOC 
 ! 
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she]" : {iroori} ! FOC 
 | "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she]" : {irori} ! FOC 
+| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she][--][-hei][Num][+PL]" : {iroorihei} ! FOC 
 !  
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
+| "[=aroori+cntr.add.l.][PrnPers][+1PL]" : {aroori}
+| "[=aroori+cntr.add.l.][PrnPers][+1PL][--][-hei][Num][+PL]" : {aroorihei}
 # -------------------------------------------------------------------
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG]" : {naakataki} ! FOC 
 | "[=narotake+cntr.exh.l.+foc.][PrnPers][+1SG]" : {narotake}
