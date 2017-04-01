@@ -2,7 +2,11 @@
 # Verbalized nouns 
 # -----------------
 define NounToVerbPRQin [ 
-  "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V
+  "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V
+| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V
+| "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane} ! N@->V
+| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V
+| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine} ! N@->V

@@ -1,11 +1,11 @@
 define NRootPRQin [
-  "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani}
-| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani}
-| "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane}
+  "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V
+| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V
+| "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane} ! N@->V
 ! 
 | "[=aaniri+inal.][NRoot][=orphan]" : {aaniri} 
 ! 
-| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi}
+| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V
 ! 
 | "[=aari+m.][NRoot][=brother (kin.of.a.female, fem.ego)]" : {aari}
 | "[=yaya+m.][NRoot][=brother (kin.of.a.female)]" : {yaya}

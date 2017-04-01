@@ -493,6 +493,7 @@ define V=S=STATPRF [
   "[--][-aintsi][+STAT.PRF]" : "@EP"[{aintsi}]
 ];
       
+# action finished a long time ago
 define V=S=RPST [
   "[--][-ni][+R.PST]" : "@EP"[{ni}]
 ];

@@ -78,9 +78,6 @@ define ORootPRQin [
 | "[=tekatsi][OtherRoot][=EXIST]" : {tekatsi}
 | "[=teekatsi][OtherRoot][=EXIST]" : {teekatsi}
 ! 
-| "[=tekira][OtherRoot][=yet, not.yet]" : {tekira}
-| "[=tekera][OtherRoot][=yet, not.yet]" : {tekera}
-! 
 | "[OtherRoot][=because; maybe][=tema]" : {tema}
 | "[OtherRoot][=because; maybe][=tempa]" : {tempa}
 | "[OtherRoot][=because; maybe][=tima]" : {tima}
