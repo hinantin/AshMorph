@@ -507,9 +507,9 @@ define V=S=SUB [
 ];
       
 define V=S=NEG [
-  "[--][-tsi][+NEG]" : "@EP"[{tsi}] 
-| "[--][-he][+NEG]" : "@EP"[{he}] 
-| "[--][-hi][+NEG]" : "@EP"[{hi}] 
+  "[--][-tsi+future][+NEG]" : "@EP"[{tsi}] 
+| "[--][-he+past][+NEG]" : "@EP"[{he}] 
+| "[--][-hi+past][+NEG]" : "@EP"[{hi}] 
 ];
       
 !      define V=S=real [

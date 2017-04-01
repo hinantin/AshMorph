@@ -1,11 +1,12 @@
 define NegPRQin [
 # negative irrealis 
   "[=airo][Neg][=NEG.IRR]" : {airo}
-| "[=eero][Neg][=NEG.IRR]" : {eero}
 | "[=eiro][Neg][=NEG.IRR]" : {eiro}
 | "[=ero][Neg][=NEG.IRR]" : {ero}
+# negative of the future, negative irrealis, imperative 
+| "[=eero][Neg][=NEG.IRR]" : {eero}
 | "[=iiro+past.neg.][Neg][=NEG.IRR]" : {iiro}
-# contional negative irrealis 
+# conditional negative irrealis 
 | "[=airo][Neg][=NEG.IRR][--][-rika][+COND]" : {airorika}
 | "[=eero][Neg][=NEG.IRR][--][-rika][+COND]" : {eerorika}
 | "[=eiro][Neg][=NEG.IRR][--][-rika][+COND]" : {eirorika}
@@ -54,4 +55,5 @@ define NegPRQin [
 # ##############################
 
 # INSIST		insistence
+# REAL			not-future
 
