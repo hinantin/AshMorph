@@ -1229,8 +1229,11 @@ define NRootPRQin [
 ! 
 | "[=shashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones)]" : {shashintzi}
 | "[=sashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones)]" : {sashintzi}
+| "[=sashinti+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones)]" : {sashinti}
 | "[=soisointzi+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {soisointzi}
 | "[=soisoitzi+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {soisoitzi}
+| "[=naashiintsatziri+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {naashiintsatziri}
+| "[=naashiintsatiri+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {naashiintsatiri}
 ! 
 | "[=shaveta+m.][NRoot][=daytime/diurnal.butterfly.sp.]" : {shaveta}
 ! 
@@ -1437,7 +1440,7 @@ define NRootPRQin [
 ! 
 | "[=tsimi+n.m.+poss@ne.][NRoot][=macaw.and.parrot.clay.lick (qullpa, colpa); clean.water.well.where.animals.go.to.drink]" : {tsimi}
 ! 
-| "[=tenkarentsi][NRoot][=nocturanal.fishing.with.a.trap (comunal/family.activity)]" : {tenkarentsi}
+| "[=tenkarentsi][NRoot][=nocturnal.fishing.with.a.trap (comunal/family.activity)]" : {tenkarentsi}
 | "[=tsiaanatantsi][NRoot][=fish.trap.woven.like.a.mat]" : {tsiaanatantsi}
 ! 
 | "[=tookiti][NRoot][=dove.sp., turtledove.sp.]" : {tookiti}
@@ -1585,6 +1588,9 @@ define NRootPRQin [
 ! salt
 | "[=tzivi+n.m.+poss@ni.][NRoot][=salt]" : {tzivi}
 | "[=tivi+n.m.+poss@ni.][NRoot][=salt]" : {tivi}
+! 
+| "[=tunche][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunche}
+| "[=tunchi][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunchi}
 ! 
 | "[=vaanyo][NRoot][=scarf]" : {vaanyo}
 ! name
