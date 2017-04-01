@@ -1487,7 +1487,12 @@ define NRootPRQin [
 | "[=tsapi+n.m.+inal.][NRoot][=edge, side, end.edge.of.some.plane]" : {tsapi}
 | "[=tsapya][NRoot][=river.bank, side.of.river]" : {tsapya}
 ! 
-| "[=tsara][NRoot][=bag]" : {tsara} 
+| "[=tsara+n.m.+poss@te][NRoot][=bag, back]" : {tsara} 
+| "[=tsaato+n.m.][NRoot][=bag, back]" : {tsaato} 
+| "[=tsarato+n.m.][NRoot][=bag, back]" : {tsarato} 
+| "[=tsaate+n.m.+poss@te][NRoot][=bag, back]" : {tsaate} 
+| "[=tsaati+n.m.+poss@te][NRoot][=bag, back]" : {tsaati} 
+! 
 | "[=tsaronka][NRoot][=fear]" : {tsaronka} 
 | "[=tsavi][NRoot][=vagina]" : {tsavi} 
 | "[=tsiirishi][NRoot][=La.Merced]" : {tsiirishi} 
