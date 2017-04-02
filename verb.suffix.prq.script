@@ -38,9 +38,13 @@ define V=S=DIST [
 ];
       
 define V=S=DIR [
-  "[--][-av+object.oriented][Adv][+DIR]" : "@EP"[{av}] 
-| "[--][-an+source+leaving][Adv][+DIR]" : "@EP"[{an}] 
-| "[--][-ap+goal+arriving][Adv][+DIR]" : "@EP"[{ap}]
+# 
+  "[--][-av+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{av}] 
+# ablative case
+| "[--][-an+source+leaving][Adv][+DIR][=upon.leaving]" : "@EP"[{an}] 
+# allative 'adlativo' case
+| "[--][-ap+goal+arriving][Adv][+DIR][=on.arrival]" : "@EP"[{ap}]
+| "[--][-apa+goal+arriving][Adv][+DIR][=on.arrival]" : "@EP"[{apa}]
 ];
       
 define V=S=PRF [
