@@ -167,6 +167,8 @@ define VRootPRQin [
 | "[=cheraako][VRoot][=to.shout, to.speak.with.anger]" : {cheraako}
 ! 
 | "[=cherenk][VRoot][=to.fry.sth.]" : {cherenk}
+| "[=cherink][VRoot][=to.fry.sth.]" : {cherink}
+| "[=cheerenk][VRoot][=to.fry.sth.]" : {cheerenk}
 | "[=chirink][VRoot][=to.fry.sth.]" : {chirink}
 ! 
 | "[=eeni][VRoot][=to.have]" : {eeni}
@@ -755,6 +757,9 @@ define VRootPRQin [
 | "[=shintsi][VRoot][=to.be.strong]" : {shintsi}
 ! 
 | "[=shintsi][VRoot][=to.be.quick, to.be.fast]" : {shintsi}
+# To fry something 
+| "[=shionk][VRoot][=to.fry.sth.]" : {shionk}
+| "[=tsionk][VRoot][=to.fry.sth.]" : {tsionk}
 ! 
 | "[=shipatona][VRoot][=beard]" : {shipatona}
 ! 
@@ -880,6 +885,7 @@ define VRootPRQin [
 | "[=tsaav][VRoot][=to.fear. to.be.afraid]" : {tsaav}
 ! 
 | "[=tsaink][VRoot][=to.mock.sb.]" : {tsaink}
+| "[=chenk][VRoot][=to.mock.sb.]" : {chenk}
 !  
 | "[=tsatsink][VRoot][=to.behead]" : {tsatsink}
 ! to lie
