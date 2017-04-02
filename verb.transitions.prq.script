@@ -13,7 +13,7 @@ define S [
  (V=S=DUR) (V=S=IRR) | 
  (V=S=PRF) (V=S=IRR) (V=S=O) (V=S=PRNO) | 
  (V=S=IRR) (V=S=O) (V=S=PRNO) | 
- (V=S=BEN) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
+ (V=S=APPLBEN) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
  (V=S=CAUSSOC) (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADV) | 
  (V=S=IRR) (V=S=ADV) | 
@@ -151,7 +151,7 @@ define S [
  (V=S=DUR) (V=S=REGR) (V=S=REAL) (V=S=PRNO) | 
  (V=S=PL) (V=S=REAL) | 
  (V=S=PL) (V=S=PROG) (V=S=REAL) | 
- (V=S=BEN) (V=S=REAL) (V=S=PRNO) | 
+ (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) | 
  (V=S=IRR) | 
  (V=S=IRR) (V=S=O) (V=S=OPT) | 
  (V=S=CAUSSOC) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
@@ -215,7 +215,7 @@ define S [
  (V=S=CAUSSOC) (V=S=REGR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=CAUSSOC) (V=S=IRR) (V=S=O) (V=S=REL) (V=S=Q) | 
  (V=S=noun) (V=S=CL) (V=S=STAT) (V=S=REL) (V=S=Q) | 
- (V=S=BEN) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPL) (V=S=IRR) (V=S=PRNO) | 
  (V=S=STATT) (V=S=REL) (V=S=ADV) | 
  (V=S=PL) (V=S=PROG) (V=S=IRR) (V=S=PRNO) | 

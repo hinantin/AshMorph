@@ -109,10 +109,10 @@ define V=S=DUR [
 !       "[--][+3O]" : "@EP"[{ni}]
 !      ];
       
-define V=S=BEN [
-  "[--][-vint][+BEN]" : "@EP"[{vint}]
-| "[--][-vent][+BEN]" : "@EP"[{vent}]
-];
+!define V=S=BEN [
+!  "[--][-vint][+BEN]" : "@EP"[{vint}]
+!| "[--][-vent][+BEN]" : "@EP"[{vent}]
+!];
       
 !      define V=S=ADVP [
 !       "[--][+ADV.P]" : "@EP"[{ranki}]
@@ -384,7 +384,8 @@ define V=S=EMPH [
 !      ];
       
 define V=S=APPLBEN [
-  "[--][+APPL.BEN]" : "@EP"[{vent}]
+  "[--][-vint][+BEN]" : "@EP"[{vint}]
+| "[--][-vent][+BEN]" : "@EP"[{vent}]
 ];
       
 define V=S=APPLPRES [
