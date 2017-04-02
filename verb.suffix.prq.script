@@ -74,6 +74,7 @@ define V=S=PLcircumfixing [
 define V=S=REGR [
   "[--][-a][Cas][+REGR_TERM]" : "@EP"[{a}]
 | "[--][-ah][Cas][+REGR_TERM]" : "@EP"[{ah}]
+| "[--][-aha][Cas][+REGR_TERM]" : "@EP"[{aha}]
 ];
       
 define V=S=CNTF [
