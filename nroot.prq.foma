@@ -1381,9 +1381,11 @@ define NRootPRQin [
 ! 
 | "[=taabato][NRoot][=calf]" : {taabato}
 ! back, bottom
-| "[=taapi][NRoot][=back, bottom]" : {taapi}
-| "[=tapi][NRoot][=back, bottom]" : {tapi}
-| "[=taapii][NRoot][=back, bottom]" : {taapii}
+| "[=taapi+inal.][NRoot][=back; bottom]" : {taapi}
+| "[=tapi+inal.][NRoot][=back; bottom]" : {tapi}
+| "[=tapii+inal.][NRoot][=back; bottom]" : {tapii}
+| "[=taapii+inal.][NRoot][=back; bottom]" : {taapii}
+| "[=taapiiki+inal.][NRoot][=back]" : {taapiiki}
 ! 
 | "[=taaroma][NRoot][=Tarma]" : {taaroma}
 ! shell, peel, skin
@@ -1507,11 +1509,11 @@ define NRootPRQin [
 | "[=tsapi+n.m.+inal.][NRoot][=edge, side, end.edge.of.some.plane]" : {tsapi}
 | "[=tsapya][NRoot][=river.bank, side.of.river]" : {tsapya}
 ! 
-| "[=tsara+n.m.+poss@te][NRoot][=bag, back]" : {tsara} 
-| "[=tsaato+n.m.][NRoot][=bag, back]" : {tsaato} 
-| "[=tsarato+n.m.+poss@te][NRoot][=bag, back]" : {tsarato} 
-| "[=tsaate+n.m.+poss@te][NRoot][=bag, back]" : {tsaate} 
-| "[=tsaati+n.m.+poss@te][NRoot][=bag, back]" : {tsaati} 
+| "[=tsara+n.m.+poss@te][NRoot][=bag, backpack]" : {tsara} 
+| "[=tsaato+n.m.][NRoot][=bag, backpack]" : {tsaato} 
+| "[=tsarato+n.m.+poss@te][NRoot][=bag, backpack]" : {tsarato} 
+| "[=tsaate+n.m.+poss@te][NRoot][=bag, backpack]" : {tsaate} 
+| "[=tsaati+n.m.+poss@te][NRoot][=bag, backpack]" : {tsaati} 
 ! 
 | "[=tsaronka][NRoot][=fear]" : {tsaronka} 
 | "[=tsavi][NRoot][=vagina]" : {tsavi} 
