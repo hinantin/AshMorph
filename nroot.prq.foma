@@ -1425,6 +1425,7 @@ define NRootPRQin [
 ! 
 | "[=tekatsi][NRoot][=none, empty, zero, null]" : {tekatsi}
 | "[=tekaatsi][NRoot][=none, empty, zero, null]" : {tekaatsi}
+| "[=tikaatsi][NRoot][=none, empty, zero, null]" : {tikaatsi}
 | "[=teekatsi][NRoot][=none, empty, zero, null]" : {teekatsi}
 ! 
 | "[=terori][NRoot][=red.parrot.sp.]" : {terori}
