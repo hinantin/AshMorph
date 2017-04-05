@@ -1586,7 +1586,8 @@ define NRootPRQin [
 ! rooster 
 | "[=tyoopi+m.][NRoot][=rooster]" : {tyoopi}
 | "[=tyopi+m.][NRoot][=rooster]" : {tyopi}
-| "[=tyoopya+m.][NRoot][=hen]" : {tyoopya}
+| "[=tyoopya+m.][NRoot][=rooster]" : {tyoopya}
+| "[=tyoopyaa+m.][NRoot][=rooster]" : {tyoopyaa}
 !
 | "[=tsirianti+poss@te][NRoot][=pineapple]" : {tsirianti}
 | "[=tsireanti+poss@te][NRoot][=pineapple]" : {tsireanti}
