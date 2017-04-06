@@ -421,7 +421,11 @@ define VRootPRQin [
 | "[=koya][VRoot][=to.gather]" : {koya}
 | "[=koye][VRoot][=to.gather]" : {koye}
 ! 
-| "[=kya][VRoot][=to.carry.load]" : {kya}
+| "[=kya][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kya}
+| "[=ky][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ky}
+| "[=kiha][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiha}
+| "[=kiya][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiya}
+| "[=ty][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ty}
 ! 
 | "[=machok][VRoot][=to.close.eyes]" : {machok}
 ! 
@@ -880,7 +884,7 @@ define VRootPRQin [
 | "[=tonkaa][VRoot][=to.ascend]" : {tonkaa}
 ! 
 | "[=tot][VRoot][=to.cut]" : {tot}
-| "[=tov][VRoot][=to.fell, to.cut.down]" : {tov}
+| "[=tov][VRoot][=to.fell, to.cut.down (a.tree)]" : {tov}
 | "[=tov][VRoot][=to.cut]" : {tov}
 | "[=tova][VRoot][=to.cut]" : {tova}
 ! 
@@ -951,7 +955,9 @@ define VRootPRQin [
 | "[=tsoinare][VRoot][=to.break.in.half]" : {tsoinare}
 ! 
 | "[=tsop][VRoot][=to.pull.out]" : {tsop}
-| "[=ty][VRoot][=to.fell]" : {ty}
+! 
+| "[=ty][VRoot][=to.fell, to.cut.down (a.tree)]" : {ty}
+! 
 | "[=tyaki][VRoot][=to.blossom]" : [{tyaki}|{teyaki}]
 ! word set:
 | "[=tyank][VRoot][=to.send]" : {tyank}

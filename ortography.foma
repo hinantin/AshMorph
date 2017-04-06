@@ -18,6 +18,7 @@
       define QUIReplacement [ {ky} (->) {qui} || _ [a|á] ];
       define QUReplacement [ {k} (->) {qu} || _ [e|i|é|í] ,, {k} (->) {qü} || _ [e|i|é|í] ];
       define CReplacement [ {k} (->) {c} || _ [a|o|u|á|é|í] ];
+      define QYReplacement [ {ky} (->) {qy} || _ [a] ];
 
       define JReplacement1 [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
       define JReplacement2 [ {h} (->) {j} || .#. _ Vowels ]; # changing ja -> ha at the beginning of a word
@@ -47,7 +48,7 @@
       define OTildeReplacement2 [ {om} (->) {õ} || _ [p] ];
 
 
-      define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement 
+      define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement .o. QYReplacement 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 
 .o. BReplacement .o. WReplacement 
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
