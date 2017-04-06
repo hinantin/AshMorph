@@ -224,7 +224,7 @@ define V=S=ABS [
 define V=S=noun [
   "[--][-ani][+noun][=child]" : "@EP"[{ani}]
 | "[--][-vatsa][+noun]" : "@EP"[{vatsa}]
-| "[--][-pori][+noun]" : "@EP"[{pori}]
+| "[--][-pori][+noun]" : "@EP"[{pori}|{vori}]
 | "[--][-atziri][+noun]" : "@EP"[{atziri}]
 | "[--][-tsomi][+noun]" : "@EP"[{tsomi}]
 | "[--][-pitziki][+noun][=male.genitals]" : "@EP"[{pitziki}]
