@@ -194,7 +194,6 @@ define VRootPRQin [
 | "[=hivat][VRoot][=to.get.ahead]" : {hivat}
 | "[=inchakota][VRoot][=to.split]" : {inchakota}
 | "[=int][VRoot][=to.begin]" : {int}
-| "[=ir][VRoot][=to.cry]" : {ir}
 ! 
 | "[=it][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {it}
 | "[=et][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {et}
@@ -202,10 +201,12 @@ define VRootPRQin [
 | "[=ir][VRoot][=to.drink]" : {ir}
 | "[o=][AGT.CAUS+][--][=i][VRoot][=drink]" : {oi}
 ! 
+| "[=ir][VRoot][=to.cry]" : {ir}
 | "[=ira][VRoot][=to.cry]" : {ira}
 | "[=irag][VRoot][=to.cry]" : {irag}
 | "[=irah][VRoot][=to.cry]" : {irah}
 | "[2S/A+][p-][--][=ira+redup.][VRoot][=to.cry]" : {pirapira}
+| "[=ira+redup.][VRoot][=to.cry]" : {iraira}
 ! to be ripe, to ripen (fruits) 
 !| "[=isak][VRoot][=to.be.ripe (fruit), to.ripen]" : {isak}
 | "[=irak][VRoot][=to.be.ripe (fruit), to.ripen]" : {irak}
