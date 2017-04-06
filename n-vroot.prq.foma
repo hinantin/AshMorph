@@ -12,8 +12,8 @@ define NounToVerbPRQin [
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
 | "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V
-| "[=chenko+inal.][NRoot][=trousers, pants]" : {chenko} ! N@->V
-| "[=tsenko+inal.][NRoot][=trousers, pants]" : {tsenko} ! N@->V
+| "[=chenko+n.m.+inal.][NRoot][=trousers, pants]" : {chenko} ! N@->V
+| "[=tsenko+n.m.+inal.][NRoot][=trousers, pants]" : {tsenko} ! N@->V
 | "[=eentsi+n./m.][NRoot][=child]" : {eentsi} ! N@->V
 | "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
 | "[=entsi+n./m.][NRoot][=child]" : {entsi} ! N@->V
