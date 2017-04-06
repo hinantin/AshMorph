@@ -143,8 +143,11 @@ define NRootPRQin [
 ! 
 | "[=chenkaro+m.][NRoot][=black.&.white.bird.sp.]" : {chenkaro}
 ! trousers, pants
-| "[=chenko+inal.][NRoot][=trousers, pants]" : {chenko} ! N@->V
-| "[=tsenko+inal.][NRoot][=trousers, pants]" : {tsenko} ! N@->V
+| "[=chenko+n.m.+inal.][NRoot][=trousers, pants]" : {chenko} ! N@->V
+| "[=tsenko+n.m.+inal.][NRoot][=trousers, pants]" : {tsenko} ! N@->V
+! 
+| "[=chenkoo+n.m.][NRoot][=palm.tree.sp.]" : {chenkoo} 
+| "[=chinkoo+n.m.][NRoot][=palm.tree.sp.]" : {chinkoo} 
 ! 
 | "[=chentero][NRoot][=palm.tree.sp. (ponilla)]" : {chentero}
 ! 
