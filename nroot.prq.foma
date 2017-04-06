@@ -57,6 +57,9 @@ define NRootPRQin [
 | "[=anii+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
 | "[=aninko+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aninko} ! to be checked 
 | "[=aniinko+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aniinko} ! to be checked 
+! 
+| "[=aampe+m.][NRoot][=butterfly.sp.]" : {aampe}
+| "[=tsaampe+m.][NRoot][=butterfly.sp.]" : {tsaampe}
 ! cotton
 | "[=ampee][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampee}
 | "[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampe}
@@ -1037,6 +1040,9 @@ define NRootPRQin [
 | "[=picha+m.][NRoot][=fish.sp. (palometo)]" : {picha}
 ! 
 | "[=pini+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.)]" : {pini}
+! 
+| "[=peempe+m.][NRoot][=butterfly.sp.]" : {peempe}
+| "[=piimpi+m.][NRoot][=butterfly.sp.]" : {piimpi}
 ! 
 | "[=peranti+m.][NRoot][=idle, lazy]" : {peranti}
 | "[=perantzi+m.][NRoot][=idle, lazy]" : {perantzi}
