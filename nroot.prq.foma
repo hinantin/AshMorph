@@ -510,7 +510,9 @@ define NRootPRQin [
 | "[=kemito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kemito}
 | "[=kimito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kimito}
 ! 
-| "[=kempita][NRoot][=ear]" : {kempita}
+| "[=kempita+n.m.+inal.][NRoot][=ear]" : {kempita}
+| "[=kimpita+n.m.+inal.][NRoot][=ear]" : {kimpita}
+| "[=yempita+n.m.+inal.][NRoot][=ear]" : {yempita}
 ! 
 | "[=kempiti][NRoot][=armored.catfish (carachama), fish.sp.]" : {kempiti}
 | "[=kempitzi][NRoot][=armored.catfish (carachama), fish.sp.]" : {kempitzi}
@@ -1729,8 +1731,6 @@ define NRootPRQin [
 | "[=yenka+n.m.+inal.][NRoot][=fat]" : {yenka}
 | "[=yeenka+n.m.+inal.][NRoot][=fat]" : {yeenka}
 | "[=yiinka+n.m.+inal.][NRoot][=fat]" : {yiinka}
-! 
-| "[=yempita][NRoot][=ear]" : {yempita}
 ! 
 | "[=yereto+n.m.+inal.][NRoot][=knee]" : {yereto}
 | "[=yerito+n.m.+inal.][NRoot][=knee]" : {yerito}
