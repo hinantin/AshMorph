@@ -1430,6 +1430,9 @@ define NRootPRQin [
 | "[=tikaatsi][NRoot][=none, empty, zero, null]" : {tikaatsi}
 | "[=teekatsi][NRoot][=none, empty, zero, null]" : {teekatsi}
 ! 
+| "[=tene+n.m.+inal.][NRoot][=breast, bosom]" : {tene}
+| "[=teni+n.m.+inal.][NRoot][=breast, bosom]" : {teni}
+! 
 | "[=terori][NRoot][=red.parrot.sp.]" : {terori}
 ! 
 | "[=tete][NRoot][=buttock]" : {tete}
@@ -1562,7 +1565,8 @@ define NRootPRQin [
 | "[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (shapaja, shebón)]" : {tsiyaro}
 | "[=tsiyavo+n.m.][NRoot][=palm.tree.sp. (shapaja, shebón)]" : {tsiyavo}
 ! 
-| "[=tsomi+inal.][NRoot][=breast]" : {tsomi} ! N@->V
+| "[=tsomi+inal.][NRoot][=breast, bosom]" : {tsomi} ! N@->V
+| "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V
 ! 
 | "[=tsomonte][NRoot][=belly]" : {tsomonte}
 | "[=tsomonte][NRoot][=bulge]" : {tsomonte}
