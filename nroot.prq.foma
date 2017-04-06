@@ -747,8 +747,10 @@ define NRootPRQin [
 ! 
 | "[=mavo+m.][NRoot][=earthworm.sp., insect]" : {mavo}
 ! 
-| "[=mavoshi+n.m.+inal.][NRoot][=nest]" : {mavoshi}
-| "[=maashi+n.m.+inal.][NRoot][=nest]" : {maashi}
+| "[=mavoshi+n.m.+inal.][NRoot][=nest]" : {mavoshi} ! N@->V
+| "[=maashi+n.m.+inal.][NRoot][=nest]" : {maashi} ! N@->V
+| "[=menkoshi+n.m.+inal.][NRoot][=bird.nest]" : {menkoshi} ! N@->V
+| "[=minkoshi+n.m.+inal.][NRoot][=bird.nest]" : {minkoshi} ! N@->V
 ! 
 | "[=meantarini][NRoot][=name]" : {meantarini}
 ! 
@@ -766,6 +768,9 @@ define NRootPRQin [
 | "[=miisho+m.][NRoot][=cat]" : {miisho}
 | "[=miishito+m.][NRoot][=cat]" : {miishito}
 | "[=miichi+m.][NRoot][=cat]" : {miichi}
+! 
+| "[=menki+n.m.+inal.][NRoot][=partly-burned.stickb (ESP: tizón)]" : {menki}
+| "[=minki+n.m.+inal.][NRoot][=partly-burned.stickb (ESP: tizón)]" : {minki}
 ! 
 | "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V
 | "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V

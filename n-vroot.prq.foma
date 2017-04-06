@@ -32,6 +32,10 @@ define NounToVerbPRQin [
 | "[=kitamaari+m.][NRoot][=white]" : {kitamaari} ! N@->V
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
 | "[=koya][NRoot][=woman (from.Quechua.Quya)]" : {koya} ! N@->V
+| "[=mavoshi+n.m.+inal.][NRoot][=nest]" : {mavoshi} ! N@->V
+| "[=maashi+n.m.+inal.][NRoot][=nest]" : {maashi} ! N@->V
+| "[=menkoshi+n.m.+inal.][NRoot][=bird.nest]" : {menkoshi} ! N@->V
+| "[=minkoshi+n.m.+inal.][NRoot][=bird.nest]" : {minkoshi} ! N@->V
 | "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V
 | "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V
