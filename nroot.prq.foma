@@ -199,6 +199,9 @@ define NRootPRQin [
 | "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
 | "[=entsi+n./m.][NRoot][=child]" : {entsi} ! N@->V
 ! 
+| "[=emoki][NRoot][=edible.worm.sp. (suri, it.eats.palm.trees)]" : {emoki}
+| "[=emooki][NRoot][=edible.worm.sp. (suri, it.eats.palm.trees)]" : {emooki}
+! 
 | "[=Eni][NP][=river (Ene.river)]" : {eni}
 ! 
 | "[=entyo][NRoot][=sister (kin.of.a.female, fem.ego.)]" : {entyo}
@@ -1577,12 +1580,14 @@ define NRootPRQin [
 | "[=tzinani+n.m.][NRoot][=female, woman; young.girl]" : {tzinani} ! N@->V
 | "[=tsinãni+n.m.][NRoot][=female, woman; young.girl]" : {tsinãni} ! N@->V
 ! 
+| "[=tsinaro][NRoot][=cricket.sp.]" : {tsinaro} 
+! 
 | "[=tsinki+m.][NRoot][=eel.sp.]" : {tsinki} 
 | "[=tsinke+m.][NRoot][=eel.sp.]" : {tsinke} 
 ! 
 | "[=tsinkoti][NRoot][=cultigen/edible.plant.sp. (maranta, sci.nm.: maranta.arudinaca)]" : {tsinkoti} 
 ! 
-| "[=tsipana+n.m.][NRoot][=plant.sp. (bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana}
+| "[=tsipana+n.m.][NRoot][=plant.sp. (bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} 
 ! 
 | "[=tsirikana][NRoot][=chili.pepper, pepper]" : {tsirikana}
 | "[=tsirigana][NRoot][=chili.pepper, pepper]" : {tsirigana}
