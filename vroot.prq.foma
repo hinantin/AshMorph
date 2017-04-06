@@ -196,6 +196,9 @@ define VRootPRQin [
 | "[=int][VRoot][=to.begin]" : {int}
 | "[=ir][VRoot][=to.cry]" : {ir}
 ! 
+| "[=it][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {it}
+| "[=et][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {et}
+! 
 | "[=ir][VRoot][=to.drink]" : {ir}
 | "[o=][AGT.CAUS+][--][=i][VRoot][=drink]" : {oi}
 ! 

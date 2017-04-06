@@ -6,6 +6,7 @@ define V=S=EP [
 
 define V=S=PROG [
   "[--][-atz][+PROG]" : "@EP"[{atz}] 
+| "[--][-atzi][+PROG]" : "@EP"[{atzi}] 
 | "[--][-atsi][+PROG]" : "@EP"[{atsi}] 
 | "[--][-aty][+PROG]" : "@EP"[{aty}]
 | "[--][-ati][+PROG]" : "@EP"[{ati}]
