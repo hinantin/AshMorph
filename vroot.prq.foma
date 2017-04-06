@@ -284,8 +284,6 @@ define VRootPRQin [
 ! 
 | "[=keario][VRoot][=to.be.factual, to.be.truth]" : {keario}
 ! 
-| "[=keken][VRoot][=to.walk]" : {keken}
-! 
 | "[=keme][VRoot][=to.to.scrape, to.carve]" : {keme}
 | "[=kime][VRoot][=to.to.scrape, to.carve]" : {kime}
 | "[=kemi][VRoot][=to.to.scrape, to.carve]" : {kemi}
@@ -317,6 +315,7 @@ define VRootPRQin [
 !
 | "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {ken}
 | "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {kin}
+| "[=ken+redup.][VRoot][=to.walk]" : {keken}
 ! to believe, to think
 | "[=kinkishiri][VRoot][=to.believe, to.think]" : {kinkishiri}
 | "[=kenkishiry][VRoot][=to.believe, to.think]" : {kenkishiry}
