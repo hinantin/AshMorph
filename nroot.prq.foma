@@ -1324,7 +1324,9 @@ define NRootPRQin [
 | "[=shimiri+inal.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
 | "[=shimirinchi][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimirinchi} ! misspelled?
 ! 
-| "[=shina][NRoot][=kapok.tree]" : {shina}
+| "[=shimoto][NRoot][=worm.sp. (inhabits.decomposed.tree.trunks), black.locust.sp.]" : {shimoto}
+! 
+| "[=shina][NRoot][=kapok.tree (timber.tree, lupuna)]" : {shina}
 ! 
 | "[=shintori+m.][NRoot][=collared.peccary (sajino, saíno)]" : {shintori}
 ! 
@@ -1456,6 +1458,9 @@ define NRootPRQin [
 | "[=otaranki][NRoot][=abyss, landslide]" : {otaranki}
 | "[=taranka][NRoot][=abyss, landslide]" : {taranka}
 | "[=otaranka][NRoot][=abyss, landslide]" : {otaranka}
+! 
+| "[=tarairiki][NRoot][=frog.sp.]" : {tarairiki}
+| "[=tarairikiti][NRoot][=toad.sp.]" : {tarairikiti}
 ! 
 | "[=tasorinka][NRoot][=power]" : {tasorinka}
 | "[=tasorinka][NRoot][=blessing]" : {tasorinka}
