@@ -248,6 +248,10 @@ define NRootPRQin [
 ! 
 | "[=henka+poss@ne][NRoot][=odor; smell]" : {henka}
 | "[=henkaa+poss@ne][NRoot][=odor; smell]" : {henkaa}
+| "[=sankaare+n.m.+inal.][NRoot][=smell]" : {sankaare}
+| "[=sankaari+n.m.+inal.][NRoot][=smell]" : {sankaari}
+| "[=sankare+n.m.+inal.][NRoot][=smell]" : {sankare}
+| "[=sankari+n.m.+inal.][NRoot][=smell]" : {sankari}
 ! 
 | "[=henoki][NRoot][=top]" : {henoki}
 | "[=henokê][NRoot][=top]" : {henokê}
@@ -844,6 +848,9 @@ define NRootPRQin [
 | "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.]" : {meta}
 | "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.]" : {mita}
 | "[=mitaa+n.m.][NRoot][=cinnamon.sp., tree.sp.]" : {mitaa}
+! 
+| "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ESP: alcanfor)]" : {metasankari} ! @CMP 
+| "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ESP: alcanfor)]" : {mitasankari} ! @CMP 
 ! 
 | "[=moito][NRoot][=navel]" : {moito}
 ! 
