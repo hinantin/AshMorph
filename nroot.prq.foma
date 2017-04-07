@@ -908,6 +908,10 @@ define NRootPRQin [
 | "[=nya+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nya}
 | "[=nea+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nea}
 ! 
+| "[=niocho][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {niocho}
+| "[=mamantsiki][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {mamantsiki}
+| "[=neanea][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {neanea}
+! 
 | "[=nyamo+n.m.][NRoot][=medicinal.plant.sp.]" : {nyamo}
 ! 
 | "[=nyotsi+m.+voc.][NRoot][=son.in.law; nephew (kin.of.a.male, male.ego)]" : {nyotsi}
