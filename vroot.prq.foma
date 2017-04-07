@@ -902,8 +902,10 @@ define VRootPRQin [
 ! 
 | "[=tsamai][VRoot][=to.cut.grass, to.clean.a.sown.field.with.a.shovel]" : {tsamai}
 | "[=tsamae][VRoot][=to.cut.grass, to.clean.a.sown.field.with.a.shovel]" : {tsamae}
+| "[=tsamee][VRoot][=to.cultivate, to.clear.a.sown.field]" : {tsamee}
 ! 
-| "[=tsame][VRoot][=come.on]" : {tsame}
+| "[=tsame][VRoot][=come.on]" : {tsame} ! Interj.
+! 
 | "[=tsan][VRoot][=to.hang]" : {tsan}
 ! 
 | "[=tsane][VRoot][=to.prevent; to.refuse (sharing.sth.of.sb.); to.resist]" : {tsane}
