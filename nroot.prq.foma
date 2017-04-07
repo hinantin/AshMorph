@@ -361,6 +361,10 @@ define NRootPRQin [
 ! 
 | "[=katsitori+m.][NRoot][=ant.sp.]" : {katsitori}
 ! 
+| "[=kevo+n.m.+inal.][NRoot][=hammock]" : {kevo}
+| "[=kivo+n.m.+inal.][NRoot][=hammock]" : {kivo}
+| "[=veomento+inal.][NRoot][=hammock]" : {veomento}
+! 
 | "[=kirinka][NRoot][=down.river, central.part.of.the.jungle]" : {kirinka}
 # ------------------------------------------------------
 | "[=intsipa][NRoot][=ice-cream.bean.tree (pacae, pacay, from.Quechua.paqay, botany.nm. inga.sp.)]" : {intsipa}
