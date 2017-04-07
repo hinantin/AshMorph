@@ -87,7 +87,7 @@ define PrnPersPRQin [
 | "[=ainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {ainti}
 | "[=avinti+cntr.cnt.assert.top.][PrnPers][+2SG][=you]" : {avinti}
 | "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.]" : {irointi}
-| "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.]" : {irinti}
+| "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {irinti}
 # -------------------------------------------------------------------
 | "[=narosati+rflx.intsf.][PrnPers][+1SG][=me.too; myself]" : {narosati}
 | "[=irisati+rflx.intsf.][PrnPers][+1SG][=he.too; himself]" : {irisati}

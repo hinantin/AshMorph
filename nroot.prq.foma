@@ -11,6 +11,10 @@ define NRootPRQin [
 | "[=yaya+m.][NRoot][=brother (kin.of.a.female)]" : {yaya}
 | "[=haihi+m.][NRoot][=brother (kin.of.a.female)]" : {haihi}
 ! 
+| "[=anatare+inal.][NRoot][=liver]" : {anatare}
+| "[=irapana+inal.][NRoot][=liver]" : {irapana}
+| "[=iraapana+inal.][NRoot][=liver]" : {iraapana}
+! 
 | "[=aavintaro+n.m.+inal.][NRoot][=medicine; natural.medicine]" : {aavintaro}
 | "[=aiki+n.m.+inal.][NRoot][=tooth]" : {aiki}
 ! 
@@ -495,7 +499,10 @@ define NRootPRQin [
 | "[=kashiri+m.][NRoot][=moon; month]" : {kashiri}
 | "[=katari][NRoot][=wild.duck]" : {katari}
 ! 
-| "[=katsariki][NRoot][=testicle]" : {katsariki}
+| "[=katsariki+inal.][NRoot][=testicle]" : {katsariki}
+| "[=katsarike+inal.][NRoot][=testicle]" : {katsarike}
+| "[=katsareki+inal.][NRoot][=testicle]" : {katsareki}
+! 
 | "[=katsimaropa][NRoot][=plantain.sp.]" : {katsimaropa}
 ! 
 | "[=kavako][NRoot][=incredulously, with.astonishment]" : {kavako}
@@ -1775,4 +1782,5 @@ define NRootPRQin [
 # SAP			speech act participant
 # fe/male		female and male
 # botany.id.		botanical identification
+# 
 
