@@ -45,6 +45,8 @@ define NegPRQin [
 # conditional negative realis
 | "[=te][Neg][=NEG][--][-rika][+COND]" : {terika}
 | "[=tee][Neg][=NEG][--][-rika][+COND]" : {teerika}
+# 
+| "[=te][Neg][=NEG][--][-teeme][+CERTAINTY]" : {teteeme}
 # negative existencial 
 | "[=tekatsi][Neg][=NEG.EXIST]" : {tekatsi}
 | "[=teekatsi][Neg][=NEG.EXIST]" : {teekatsi}

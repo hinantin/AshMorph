@@ -293,6 +293,11 @@ define V=S=ADJ [
 | "[--][-ntsi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntsi}] 
 | "[--][-nti+m.+partic.][NMZ][+ADJ]" : "@EP"[{nti}] 
 | "[--][-nto+n.m.+partic.][NMZ][+ADJ]" : "@EP"[{nto}] 
+# ---------CAPABLE--------------
+! ryaa-ntzi, ryaa-nto 
+| "[--][-ryaantzi+m.+capable][NMZ][+ADJ]" : "@EP"[{ryaantzi}] 
+| "[--][-rianti+m.+capable][NMZ][+ADJ]" : "@EP"[{rianti}] 
+| "[--][-ryaanto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{ryaanto}] 
 ];
       
 # --------Sociative-Causative ----------
