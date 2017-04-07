@@ -58,6 +58,7 @@ define NounToVerbPRQin [
 | "[=tambor+m.][NRoot][=drum]" : {tamboro} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tamporo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tampoo} ! N@->V
+| "[=trusa+NCFS000][NRoot][=underpants; shorts]" : {trusa} ! N@->V
 | "[=antari+m.][AdjRoot][=big; mature]" : {antari} ! N@->V
 | "[=antari+m.][AdjRoot][=big; mature]" : {antari} ! N@->V
 | "[=anteari+m.][AdjRoot][=big; mature]" : {anteari} ! N@->V

@@ -200,10 +200,15 @@ define V=S=EXCL [
 ];
       
 define V=S=STAT [
+# -------- STATIVITY MARKERS -------------
   "[--][-atsi][+STAT]" : "@EP"[{atsi}]
-| "[--][-ni][+STAT]" : "@EP"[{ni}]
 | "[--][-ach][+STAT]" : "@EP"[{ach}]
 | "[--][-acha][+STAT]" : "@EP"[{acha}]
+# 
+| "[--][-ni][+STAT]" : "@EP"[{ni}]
+! -------- TEMPORAL STATIVITY MARKERS ------
+| "[--][-aints][+STAT]" : "@EP"[{aints}]
+| "[--][-aits][+STAT]" : "@EP"[{aits}]
 | "[--][-aintsi][+STAT]" : "@EP"[{aintsi}]
 | "[--][-aentsi][+STAT]" : "@EP"[{aentsi}]
 ];
