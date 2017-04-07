@@ -12,8 +12,8 @@ define NRootPRQin [
 | "[=haihi+m.][NRoot][=brother (kin.of.a.female)]" : {haihi}
 ! 
 | "[=anatare+inal.][NRoot][=liver]" : {anatare}
-| "[=irapana+inal.][NRoot][=liver]" : {irapana}
-| "[=iraapana+inal.][NRoot][=liver]" : {iraapana}
+| "[=irapana+n.m.+inal.][NRoot][=liver]" : {irapana}
+| "[=iraapana+n.m.+inal.][NRoot][=liver]" : {iraapana}
 ! 
 | "[=aavintaro+n.m.+inal.][NRoot][=medicine; natural.medicine]" : {aavintaro}
 | "[=aiki+n.m.+inal.][NRoot][=tooth]" : {aiki}
@@ -358,6 +358,8 @@ define NRootPRQin [
 ! 
 | "[=katonko][NRoot][=up.river]" : {katonko}
 | "[=katonka][NRoot][=up.river]" : {katonka}
+! 
+| "[=katsitori+m.][NRoot][=ant.sp.]" : {katsitori}
 ! 
 | "[=kirinka][NRoot][=down.river, central.part.of.the.jungle]" : {kirinka}
 # ------------------------------------------------------
