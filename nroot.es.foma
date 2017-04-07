@@ -49,8 +49,14 @@ define NRootESin [
 | "[=tambor+m.][NRoot][=drum]" : {tamporo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tampoo} ! N@->V
 ! 
+| "[=trusa+NCFS000][NRoot][=underpants; shorts]" : {trusa} ! N@->V
+! 
 | "[=Dominga][NP][=Dominga]" : {tominka} 
 | "[=Julio][NP][=Julio]" : {horio} 
 | "[=Jerónimo][NP][=Jerónimo]" : {heronimo} 
 | "[=San][NP][=Saint]" : {san} 
 ];
+
+# 
+# EAGLES LABELS will be used to describe each entry 
+# 
