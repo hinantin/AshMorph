@@ -551,8 +551,10 @@ define NRootPRQin [
 ! 
 | "[=kipatsi+n.m.+poss@te][NRoot][=ground, mud, earth; land]" : {kipatsi}
 ! word set:
-| "[=kipishiri][NRoot][=bitter]" : {kipishiri}
-| "[=kepishiri][NRoot][=bitter]" : {kepishiri}
+| "[=kipishiri+n.m.][NRoot][=bitter]" : {kipishiri}
+| "[=kepishiri+n.m.][NRoot][=bitter]" : {kepishiri}
+| "[=kipishi][NRoot][=bitter]" : {kipishi} ! N@->V
+| "[=kepishi][NRoot][=bitter]" : {kepishi} ! N@->V
 ! palm tree species
 | "[=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : {kiri}
 | "[=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : {kirii}
