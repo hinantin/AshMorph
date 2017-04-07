@@ -246,8 +246,8 @@ define NRootPRQin [
 ! 
 | "[=haye][NRoot][=ant.sp. (shirataco)]" : {haye}
 ! 
-| "[=henka+poss@ne][NRoot][=odor; smell]" : {henka}
-| "[=henkaa+poss@ne][NRoot][=odor; smell]" : {henkaa}
+| "[=henka+poss@ne.][NRoot][=odor; smell]" : {henka}
+| "[=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa}
 | "[=sankaare+n.m.+inal.][NRoot][=smell]" : {sankaare}
 | "[=sankaari+n.m.+inal.][NRoot][=smell]" : {sankaari}
 | "[=sankare+n.m.+inal.][NRoot][=smell]" : {sankare}
@@ -262,6 +262,9 @@ define NRootPRQin [
 | "[=Hesokirishito+m.][NRoot][=Jesus.Christ]" : {hesokirishito}
 | "[=Kirishito+m.][NRoot][=Christ]" : {kirishito}
 | "[=Hesoshi+m.][NRoot][=Jesus]" : {hesoshi}
+! 
+| "[=hoveentsi+poss@te.][NRoot][=baby]" : {hoveentsi}
+! 
 | "[=Hosee+m.][NRoot][=Joseph]" : {hosee}
 ! 
 | "[=horio+m.][NRoot][=jewish]" : {horio} ! N@->V
@@ -553,7 +556,7 @@ define NRootPRQin [
 ! 
 | "[=kintsori][NRoot][=partridge.sp]" : {kintsori}
 ! 
-| "[=kipatsi+n.m.+poss@te][NRoot][=ground, mud, earth; land]" : {kipatsi}
+| "[=kipatsi+n.m.+poss@te.][NRoot][=ground, mud, earth; land]" : {kipatsi}
 ! word set:
 | "[=kipishiri+n.m.][NRoot][=bitter]" : {kipishiri}
 | "[=kepishiri+n.m.][NRoot][=bitter]" : {kepishiri}
@@ -611,7 +614,7 @@ define NRootPRQin [
 ! 
 | "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {koki}
 | "[=konki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {konki}
-| "[=konki+poss@ri][NRoot][=father.in.law (kin.of.a.male)]" : {konki}
+| "[=konki+poss@ri.][NRoot][=father.in.law (kin.of.a.male)]" : {konki}
 ! 
 | "[=koko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {koko}
 | "[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {kooko}
@@ -996,11 +999,11 @@ define NRootPRQin [
 ! 
 | "[=ovayeri][NRoot][=guerrilla]" : {ovayeri}
 ! sown field. ova/ovaa ó va/vaa, garden?
-| "[=va+n.m.+poss@ni][NRoot][=sown.field, sown.plot.of.land]" : {va}
-| "[=vaa+n.m.+poss@ni][NRoot][=sown.field, sown.plot.of.land]" : {vaa}
-| "[=oa+n.m.+inal.+poss@ni][NRoot][=sown.field, sown.plot.of.land]" : {oa}
-| "[=ova+n.m.+inal.+poss@ni][NRoot][=sown.field, sown.plot.of.land]" : {ova}
-| "[=ovaa+n.m.+inal.+poss@ni][NRoot][=sown.field, sown.plot.of.land]" : {ovaa}
+| "[=va+n.m.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {va}
+| "[=vaa+n.m.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {vaa}
+| "[=oa+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {oa}
+| "[=ova+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {ova}
+| "[=ovaa+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {ovaa}
 ! 
 | "[=ovae+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (gallito.de.las.rocas, from.Quechua.tunki)]" : {ovae}
 | "[=ovai+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (gallito.de.las.rocas, from.Quechua.tunki)]" : {ovai}
@@ -1046,8 +1049,8 @@ define NRootPRQin [
 ! 
 | "[=pantyo+m.][NRoot][=wild.duck.sp.]" : {pantyo}
 ! 
-| "[=pantsa+n.m.+inal.+poss@ne][NRoot][=song, anthem]" : {pantsa}
-| "[=pantsaa+n.m.+inal.+poss@ne][NRoot][=song, anthem]" : {pantsaa}
+| "[=pantsa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsa}
+| "[=pantsaa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsaa}
 ! otter
 | "[=parari][NRoot][=otter]" : {parari}
 !
@@ -1142,7 +1145,7 @@ define NRootPRQin [
 | "[=pitonii+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {ipitonii}
 | "[=marampito][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {marampito}
 ! 
-| "[=pito+n.m.+inal.+poss@ni][NRoot][=canoe]" : {pito}
+| "[=pito+n.m.+inal.+poss@ni.][NRoot][=canoe]" : {pito}
 ! 
 | "[=pitoka][NRoot][=cultigen/edible.plant.sp. (taro, sci.nm.: colocasia.esculenta)]" : {pitoka}
 ! 
@@ -1540,7 +1543,7 @@ define NRootPRQin [
 | "[=tajore+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tajore} 
 | "[=tasore+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tasore} 
 | "[=tazore+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tazore} 
-| "[=tasorentsi+m.+inal.+poss@te][NRoot][=god, saint, sacred; great.spirit]" : {tasorentsi} 
+| "[=tasorentsi+m.+inal.+poss@te.][NRoot][=god, saint, sacred; great.spirit]" : {tasorentsi} 
 | "[=tsorentsi][NRoot][=god, saint, sacred]" : {tsorentsi}
 | "[=tsorintsi][NRoot][=god, saint, sacred]" : {tsorintsi}
 ! 
@@ -1634,11 +1637,11 @@ define NRootPRQin [
 | "[=tsapi+n.m.+inal.][NRoot][=edge, side, end.edge.of.some.plane]" : {tsapi}
 | "[=tsapya][NRoot][=river.bank, side.of.river]" : {tsapya}
 ! 
-| "[=tsara+n.m.+poss@te][NRoot][=bag, backpack]" : {tsara} 
+| "[=tsara+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsara} 
 | "[=tsaato+n.m.][NRoot][=bag, backpack]" : {tsaato} 
-| "[=tsarato+n.m.+poss@te][NRoot][=bag, backpack]" : {tsarato} 
-| "[=tsaate+n.m.+poss@te][NRoot][=bag, backpack]" : {tsaate} 
-| "[=tsaati+n.m.+poss@te][NRoot][=bag, backpack]" : {tsaati} 
+| "[=tsarato+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsarato} 
+| "[=tsaate+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsaate} 
+| "[=tsaati+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsaati} 
 ! 
 | "[=tsaronka][NRoot][=fear]" : {tsaronka} 
 | "[=tsavi][NRoot][=vagina]" : {tsavi} 
@@ -1707,7 +1710,7 @@ define NRootPRQin [
 ! 
 | "[=shonkiri][NRoot][=big.partridge.sp.]" : {shonkiri}
 ! 
-| "[=tya+poss@ni][NRoot][=fabric]" : {tya}
+| "[=tya+poss@ni.][NRoot][=fabric]" : {tya}
 ! hen 
 | "[=tyaapa+n.m.][NRoot][=hen]" : {tyaapa}
 | "[=atyaapa+n.m.][NRoot][=hen]" : {atyaapa}
@@ -1718,9 +1721,9 @@ define NRootPRQin [
 | "[=tyoopya+m.][NRoot][=rooster]" : {tyoopya}
 | "[=tyoopyaa+m.][NRoot][=rooster]" : {tyoopyaa}
 !
-| "[=tsirianti+poss@te][NRoot][=pineapple]" : {tsirianti}
-| "[=tsireanti+poss@te][NRoot][=pineapple]" : {tsireanti}
-| "[=chirianti+poss@te][NRoot][=pineapple]" : {chirianti}
+| "[=tsirianti+poss@te.][NRoot][=pineapple]" : {tsirianti}
+| "[=tsireanti+poss@te.][NRoot][=pineapple]" : {tsireanti}
+| "[=chirianti+poss@te.][NRoot][=pineapple]" : {chirianti}
 ! 
 | "[=tziivito][NRoot][=Beetle]" : {tziivito}
 | "[=tzina][NRoot][=pifayo]" : {tzina}
@@ -1770,7 +1773,7 @@ define NRootPRQin [
 | "[=yaaki+m.+inal.][NRoot][=meat.brot (chilcano)]" : {yaaki}
 | "[=yaaki+n.m.+inal.][NRoot][=vegetable.soup; tear]" : {yaaki}
 ! 
-| "[=yampantsa+poss@te][NRoot][=song]" : {yampantsa}
+| "[=yampantsa+poss@te.][NRoot][=song]" : {yampantsa}
 ! 
 | "[=yaane+n.m.+inal.][NRoot][=bow, ballista]" : {yaane}
 | "[=yaani+n.m.+inal.][NRoot][=bow, ballista]" : {yaani}
