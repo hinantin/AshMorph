@@ -54,7 +54,7 @@ define N=S=ABS [
 ];
       
 define N=S=CL [
-  "[--][-chaari][=dark water]" : {chaari} 
+  "[--][-chaari][=dark.water]" : {chaari} 
 | "[--][-tsapya][=bank, side.of.river]" : {tsapya} 
 ! Size related classifier 
 | "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} 
@@ -130,7 +130,7 @@ define N=S=CL [
 | "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
 | "[--][-peta][+CL:old.devalued][=old.devalued]" : {peta} 
 #-----------------------------------------------
-| "[--][-pini][+CL:linden][=linden, tree.sp. (tilo)]" : {pini} 
+| "[--][-pini][+CL:linden][=linden, tree.sp. (ESP: tilo)]" : {pini} 
 #-----------------------------------------------
 | "[--][-taro][+CL:dual][=dual]" : {taro} 
 #-----------------------------------------------
