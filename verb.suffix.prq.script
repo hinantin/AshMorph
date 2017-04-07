@@ -296,7 +296,9 @@ define V=S=ADJ [
 # ---------CAPABLE--------------
 ! ryaa-ntzi, ryaa-nto 
 | "[--][-ryaantzi+m.+capable][NMZ][+ADJ]" : "@EP"[{ryaantzi}] 
+| "[--][-yaanti+m.+capable][NMZ][+ADJ]" : "@EP"[{yaanti}] ! only 1 ocurrence in corpus 
 | "[--][-rianti+m.+capable][NMZ][+ADJ]" : "@EP"[{rianti}] 
+| "[--][-reanti+m.+capable][NMZ][+ADJ]" : "@EP"[{reanti}] 
 | "[--][-ryaanto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{ryaanto}] 
 ];
       

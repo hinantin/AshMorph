@@ -432,10 +432,11 @@ define VRootPRQin [
 ! 
 | "[=maisant][VRoot][=to.forget]" : {maisant}
 ! 
-| "[=mako][VRoot][=to.tire; to.rest]" : {mako}
-| "[=makore][VRoot][=to.tire; to.rest]" : {makore}
-| "[=makory][VRoot][=to.tire; to.rest]" : {makory}
-| "[=makori][VRoot][=to.tire; to.rest]" : {makori}
+| "[=mako][VRoot][=to.tire; to.rest]" : {mako} 
+| "[=maore][VRoot][=to.tire; to.rest]" : {maore} 
+| "[=makore][VRoot][=to.tire; to.rest]" : {makore} 
+| "[=makory][VRoot][=to.tire; to.rest]" : {makory} 
+| "[=makori][VRoot][=to.tire; to.rest]" : {makori} 
 ! 
 | "[=mamp][VRoot][=to.sing]" : {mamp}
 ! 
