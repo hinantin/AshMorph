@@ -702,6 +702,8 @@ define NRootPRQin [
 | "[=makota][NRoot][=reptile.sp., lizard.sp., chameleon.sp.]" : {makota}
 | "[=shakota][NRoot][=reptile.sp., lizard.sp., chameleon.sp.]" : {shakota}
 ! 
+| "[=maaniri+n.m.][NRoot][=black.cinnamon.sp., medicinal.tree.sp.]" : {maaniri}
+! 
 | "[=mamori+m.][NRoot][=fish.sp., sabalo]" : {mamori}
 ! 
 | "[=mamaro+m.][NRoot][=owl, demonic.bird]" : {mamaro}
@@ -838,6 +840,10 @@ define NRootPRQin [
 | "[=miriti+m.][NRoot][=orphan]" : {miriti}
 | "[=miritzi+m.][NRoot][=orphan]" : {miritzi}
 | "[=mirito+n.m.][NRoot][=orphan]" : {mirito}
+! 
+| "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.]" : {meta}
+| "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.]" : {mita}
+| "[=mitaa+n.m.][NRoot][=cinnamon.sp., tree.sp.]" : {mitaa}
 ! 
 | "[=moito][NRoot][=navel]" : {moito}
 ! 
