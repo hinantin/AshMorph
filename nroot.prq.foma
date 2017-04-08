@@ -1041,6 +1041,8 @@ define NRootPRQin [
 ! 
 | "[=paho][NRoot][=bejuco.sp. (pate)]" : {paho}
 ! 
+| "[=pai+n.m.+inal.][NRoot][=white.hair]" : {pai}
+! 
 | "[=paisatzi][NRoot][=ancient]" : {paisatzi}
 ! 
 | "[=pama][NRoot][=pumpkin.sp. (botany.id.: lagenaria.sp.)]" : {pama}
@@ -1121,6 +1123,12 @@ define NRootPRQin [
 | "[=pirantzi+m.][NRoot][=idle, lazy]" : {pirantzi}
 | "[=peranto+n.m.][NRoot][=idle, lazy]" : {peranto}
 | "[=piranto+n.m.][NRoot][=idle, lazy]" : {piranto}
+# suri-fish 
+| "[=piiryoki+m.][NRoot][=medium-size.suri-fish.sp.]" : {piiryoki}
+| "[=piiyoki+m.][NRoot][=medium-size.suri-fish.sp.]" : {piiyoki}
+| "[=tayooki+m.][NRoot][=small-size.suri-fish.sp.]" : {tayooki}
+| "[=pairi+m.][NRoot][=very_small-size.suri-fish.sp.]" : {pairi}
+| "[=pairi+m.][NRoot][=piranha.sp. (Cohengua.community)]" : {pairi}
 ! 
 | "[=pirinto+m.][NRoot][=lake.frog, toad]" : {pirinto}
 ! 
