@@ -943,6 +943,7 @@ define NRootPRQin [
 | "[=oisha][NRoot][=lamb, sheep]" : {oisha}
 ! 
 | "[=oki+n.m.+inal.][NRoot][=eye]" : {oki}
+| "[=ooki+n.m.+inal.][NRoot][=eye]" : {ooki}
 ! 
 | "[=okitsoki][NRoot][=seed]" : {okitsoki}
 | "[=okitoki][NRoot][=seed]" : {okitoki}
@@ -957,9 +958,14 @@ define NRootPRQin [
 ! 
 | "[=oNkona][NRoot][=cecropia.sp., tree.sp. (cetico)]" : {onkona}
 ! sun 
-!| "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri}
+| "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri} !?
+| "[=oryatsiri+m.][NRoot][=shining.sun, strong.sun]" : {oryatsiri} !?
+! 
 | "[=oorya][NRoot][=sun]" : {oorya} ! N@->V
 | "[=oria][NRoot][=sun]" : {oria} ! N@->V
+! 
+| "[=oretsi+m.][NRoot][=lobster.sp., crustacean.sp.]" : {oretsi}
+| "[=oritsi+m.][NRoot][=lobster.sp., crustacean.sp.]" : {oritsi}
 ! 
 | "[=oovero][NRoot][=hawk.sp., hawk, bird.sp.]" : {oovero}
 ! 
