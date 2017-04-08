@@ -977,6 +977,9 @@ define NRootPRQin [
 | "[=opempe+m.][NRoot][=toucan.sp.]" : {opempe}
 | "[=opimpi+m.][NRoot][=toucan.sp.]" : {opimpi}
 ! 
+| "[=iyopempe][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopempe}
+| "[=iyopimpi][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopimpi}
+! 
 | "[=sarintsi+m.][NRoot][=year; summer]" : {sarintsi}
 | "[=harentsi+m.][NRoot][=year; summer]" : {harentsi}
 | "[=sarentsi+m.][NRoot][=year; summer]" : {sarentsi}
@@ -1180,9 +1183,9 @@ define NRootPRQin [
 | "[=toantoani][NRoot][=big.&.dark.bat.sp.]" : {toantoani}
 | "[=tsompavito][NRoot][=big.&.gray.bat.sp.]" : {tsompavito}
 ! 
-| "[=pishiti+m.][NRoot][=small.toucan.sp. (choquimbo)]" : {pishiti}
-| "[=pishitsi+m.][NRoot][=small.toucan.sp. (choquimbo)]" : {pishitsi}
-| "[=pishitzi+m.][NRoot][=small.toucan.sp. (choquimbo)]" : {pishitzi}
+| "[=pishiti+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha)]" : {pishiti}
+| "[=pishitsi+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha)]" : {pishitsi}
+| "[=pishitzi+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha)]" : {pishitzi}
 | "[=pishiro+m.][NRoot][=small.toucan.sp. (choquimbo)]" : {pishiro}
 ! 
 | "[=pitsitsari][NRoot][=clay]" : {pitsitsari}
