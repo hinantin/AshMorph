@@ -235,8 +235,9 @@ define NRootPRQin [
 | "[=evankaro+n.m.][NRoot][=young.woman, adolescent]" : {evankaro}
 | "[=evankavo+n.m.][NRoot][=young.woman, adolescent]" : {evankavo}
 ! 
-| "[=hamani][NRoot][=rodent.sp. (majás)]" : {hamani}
-| "[=hamaani][NRoot][=rodent.sp. (majás)]" : {hamaani}
+| "[=samani][NRoot][=rodent.sp., paca (picuro, majás, majas)]" : {samani}
+| "[=hamani][NRoot][=rodent.sp., paca (picuro, majás, majas)]" : {hamani}
+| "[=hamaani][NRoot][=rodent.sp., paca (picuro, majás, majas)]" : {hamaani}
 ! 
 | "[=hananeki][NRoot][=child]" : {hananeki}
 ! 
@@ -956,9 +957,9 @@ define NRootPRQin [
 ! 
 | "[=oNkona][NRoot][=cecropia.sp., tree.sp. (cetico)]" : {onkona}
 ! sun 
-| "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri}
-| "[=oorya][NRoot][=sun]" : {oorya}
-| "[=oria][NRoot][=sun]" : {oria}
+!| "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri}
+| "[=oorya][NRoot][=sun]" : {oorya} ! N@->V
+| "[=oria][NRoot][=sun]" : {oria} ! N@->V
 ! 
 | "[=oovero][NRoot][=hawk.sp., hawk, bird.sp.]" : {oovero}
 ! 
@@ -1248,7 +1249,6 @@ define NRootPRQin [
 | "[=sahanti][NRoot][=heron.sp. (sci.nm.: butorides.striatus)]" : {sahanti}
 ! 
 | "[=saimpiki][NRoot][=firewood, dry.twigs]" : {saimpiki}
-| "[=samani][NRoot][=paca]" : {samani}
 ! ash
 | "[=samampo][NRoot][=ash; grey, ashen, having.colour.of.smoke/ashes]" : {samampo}
 | "[=hamampo][NRoot][=ash; grey, ashen, having.colour.of.smoke/ashes]" : {hamampo}
