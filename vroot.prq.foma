@@ -697,11 +697,11 @@ define VRootPRQin [
 | "[=pomeentsi][VRoot][=to.be.difficult]" : {pomeentsi}
 ! 
 | "[=pony][VRoot][=to.come.from]" : {pony}
-| "[=pos][VRoot][=to.hit]" : {pos}
-| "[=pos][VRoot][=to.beat]" : {pos}
-| "[=pos][VRoot][=to.crash]" : {pos}
-| "[=posa][VRoot][=to.cook]" : {posa}
+! 
+| "[=pos][VRoot][=to.hit, to.beat, to.crash]" : {pos}
 | "[=posh][VRoot][=to.hit]" : {posh}
+! 
+| "[=posa][VRoot][=to.cook]" : {posa}
 ! 
 | "[=potso][VRoot][=to.dye, to.paint, to.rub.annatto]" : {potso}
 ! 
