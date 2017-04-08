@@ -22,7 +22,7 @@ define NRootESin [
 ! 
 | "[=número+poss@te.][NRootEs][=number]" : {nomero}
 ! 
-| "[=olla][NRootEs][=pot]" : {oya}
+| "[=olla+NCFS000][NRootEs][=pot]" : {oya}
 ! 
 | "[=paiche+NPMS000][NRootEs][=fish.sp., paiche-fish.sp.]" : {paiche}
 ! 
