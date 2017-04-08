@@ -419,7 +419,7 @@ define V=S=REALRFL [
   "[--][-a][+REAL.RFL]" : "@EP"[{a}]
 ];
       
-! opposite, reverse REV/CNTRST 
+! opposite, reverse REV/CNTRST ; revocation?
 define V=S=REV [
   "[--][-ry][+REV]" : "@EP"[{ry}] 
 | "[--][-ri][+REV]" : "@EP"[{ri}] 
