@@ -116,7 +116,7 @@ define S [
  (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REAL) (V=S=AUG) | 
  (V=S=CAUSSOC) (V=S=NMZ) (V=S=REAL) (V=S=REL) (V=S=Q) | 
- (V=S=PROG) (V=S=STAT) | 
+ ! (V=S=PROG) (V=S=STAT) | 
  (V=S=ADJ) | 
  (V=S=DUB) | 
  (V=S=before) (V=S=REAL) | 

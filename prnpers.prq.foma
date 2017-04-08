@@ -14,7 +14,7 @@ define PrnPersPRQin [
 ! 
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro}
 ! avirompa / aviro-mpa / 2TOP=DUB
-| "[=aviro+cont.d.top.][PrnPers][+2SG][=you][--][-mpa][+DUB]" : {avirompa}
+| "[=aviro+cont.d.top.][PrnPers][+2SG][=you][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
 | "[=eroka][PrnPers][+2SG][=you]" : {eroka}
 !
@@ -77,7 +77,7 @@ define PrnPersPRQin [
 # -------------------------------------------------------------------
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL]" : {naintsi}
 | "[=aintsi+cntr.d.top.][PrnPers][+1SG.INCL]" : {aintsi}
-| "[=avintsi+cntr.d.top.][PrnPers][+2SG]" : {avintsi}
+| "[=avintsi+cntr.d.top.][PrnPers][+2SG][=you]" : {avintsi}
 | "[=irintsi+cntr.d.top.][PrnPers][+3SG.m.]" : {irintsi}
 | "[=ariintsi+cntr.d.top.][PrnPers][+3SG.m.]" : {ariintsi}
 | "[=irontsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {irontsi}
@@ -89,6 +89,8 @@ define PrnPersPRQin [
 | "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.]" : {irointi}
 | "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {irinti}
 | "[=iriinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {iriinti}
+! 
+| "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL][--][-ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
 # -------------------------------------------------------------------
 | "[=narosati+rflx.intsf.][PrnPers][+1SG][=me.too; myself]" : {narosati}
 | "[=irisati+rflx.intsf.][PrnPers][+1SG][=he.too; himself]" : {irisati}

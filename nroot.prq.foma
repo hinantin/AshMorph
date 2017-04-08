@@ -73,8 +73,8 @@ define NRootPRQin [
 !
 | "[=amporetsa][NRoot][=intestine]" : {amporetsa}
 ! 
-| "[=antami][NRoot][=woods, forest]" : {antami}
-| "[=ãtame][NRoot][=woods, forest]" : {ãtame}
+| "[=antami][NRoot][=woods, forest]" : {antami} ! N@->V
+| "[=ãtame][NRoot][=woods, forest]" : {ãtame} ! N@->V
 ! 
 | "[=antoko][NRoot][=person's.name]" : {antoko}
 ! 
