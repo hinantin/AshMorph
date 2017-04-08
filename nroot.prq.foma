@@ -974,7 +974,8 @@ define NRootPRQin [
 | "[=paretsa+n.m.+inal.][NRoot][=tree.root]" : {paretsa}
 | "[=paritsa+n.m.+inal.][NRoot][=tree.root]" : {paritsa}
 ! 
-| "[=opempe][NRoot][=toucan]" : {opempe}
+| "[=opempe+m.][NRoot][=toucan.sp.]" : {opempe}
+| "[=opimpi+m.][NRoot][=toucan.sp.]" : {opimpi}
 ! 
 | "[=sarintsi+m.][NRoot][=year; summer]" : {sarintsi}
 | "[=harentsi+m.][NRoot][=year; summer]" : {harentsi}
