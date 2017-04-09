@@ -969,7 +969,7 @@ define NRootPRQin [
 ! 
 | "[=oovero][NRoot][=hawk.sp., hawk, bird.sp.]" : {oovero}
 ! 
-| "[=pakitsa][NRoot][=hawk.sp., sparrow.hawk.sp.]" : {pakitsa}
+| "[=pakitsa+m.][NRoot][=hawk.sp., sparrow.hawk.sp.]" : {pakitsa}
 ! 
 | "[=paretsa+n.m.+inal.][NRoot][=tree.root]" : {paretsa}
 | "[=paritsa+n.m.+inal.][NRoot][=tree.root]" : {paritsa}
@@ -1109,8 +1109,9 @@ define NRootPRQin [
 | "[=pataro+m.][NRoot][=small.squirrel.sp.]" : {pataro}
 | "[=patavo+m.][NRoot][=small.squirrel.sp.]" : {patavo}
 ! 
-| "[=pavo][NRoot][=bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)]" : {pavo}
-| "[=paro][NRoot][=bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paro}
+| "[=pavo][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)]" : {pavo}
+| "[=paro][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paro}
+| "[=paroo][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paroo}
 | "[=paroni][NRoot][=bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paroni}
 ! 
 | "[=picha+m.][NRoot][=fish.sp. (palometo)]" : {picha}
