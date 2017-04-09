@@ -12,7 +12,7 @@ define WhPRQin [
 | "[=tsika][WhPrn][=WH][--][-rika][+COND]" : {tsikarika}
 | "[=tsika][WhPrn][=WH][--][-ma][+DUB]" : {tsikama}
 | "[=haoka][WhPrn][=which, when]" : {haoka}
-| "[=haokarika][WhPrn][=WH.COND][=wherever]" : {haokarika}
+| "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever]" : {haokarika}
 ! indefinite forms
 | "[=ninkarika][IndfPrn][=whoever, everybody, somebody]" : {ninkarika}
 | "[=paitarika][IndfPrn][=whatever, something]" : {paitarika}
