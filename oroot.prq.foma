@@ -85,10 +85,10 @@ define ORootPRQin [
 | "[OtherRoot][=or][=terika]" : {terika}
 | "[OtherRoot][=maybe][=terika]" : {terika}
 ! 
-| "[OtherRoot][=EXIST][=tzimatsi]" : {timatsi}
-| "[OtherRoot][=exist][=tzim]" : {tzim}
-| "[OtherRoot][=EXIST][=tzimatsi]" : {tzimatsi}
-| "[OtherRoot][=EXIST][=tzimtsi]" : {tzimtsi}
+| "[=tzimatsi][OtherRoot][=EXIST]" : {timatsi}
+| "[=tzim][OtherRoot][=exist]" : {tzim}
+| "[=tzimatsi][OtherRoot][=EXIST]" : {tzimatsi}
+| "[=tzimatsi][OtherRoot][=EXIST]" : {tzimatsi}
 ! 
 | "[OtherRoot][=eat][=ya]" : {ya}
 ! 
