@@ -1071,7 +1071,7 @@ define NRootPRQin [
 | "[=pantsa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsa}
 | "[=pantsaa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsaa}
 ! otter
-| "[=parari][NRoot][=otter]" : {parari}
+| "[=parari+m.][NRoot][=otter.sp., big.otter.sp. (ESP: nutria)]" : {parari}
 !
 | "[=pareni][NRoot][=river, Perené.river]" : {pareni}
 ! banana tree, plantain
@@ -1099,6 +1099,8 @@ define NRootPRQin [
 ! 
 | "[=pamoro+m.][NRoot][=dove.sp.]" : {pamoro}
 | "[=pamoo+m.][NRoot][=dove.sp.]" : {pamoo}
+! 
+| "[=papaso+m.][NRoot][=big.beetle.sp.]" : {papaso}
 ! 
 | "[=pareto+m.][NRoot][=small.parrot.sp.]" : {pareto}
 | "[=parito+m.][NRoot][=small.parrot.sp.]" : {parito}
