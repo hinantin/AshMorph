@@ -119,6 +119,8 @@ define N=S=CL [
 ! .. 
 | "[--][-nki][+CL:snake][=snake.sp.]" : {nki} 
 | "[--][-nke][+CL:snake][=snake.sp.]" : {nke} 
+! 
+| "[--][-keni][+CL:worm][=worm.sp.]" : {keni} 
 #-----------------------------------------------
 | "[--][-ato][+CL:deriving.location.names][=deriving.location.names]" : {ato} 
 | "[--][-sato][+CL:deriving.location.names][=deriving.location.names]" : {sato} 
