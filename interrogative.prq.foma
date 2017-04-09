@@ -9,7 +9,8 @@ define WhPRQin [
 | "[=hanika][WhPrn][=who, whom][--][-mpa][+DUB]" : {hanikampa}
 ! 
 | "[=tsika][WhPrn][=where, what, which]" : {tsika}
-| "[=tsikarika][WhPrn][=WH.COND]" : {tsikarika}
+| "[=tsika][WhPrn][=WH][--][-rika][+COND]" : {tsikarika}
+| "[=tsika][WhPrn][=WH][--][-ma][+DUB]" : {tsikama}
 | "[=haoka][WhPrn][=which, when]" : {haoka}
 | "[=haokarika][WhPrn][=WH.COND][=wherever]" : {haokarika}
 ! indefinite forms
