@@ -28,6 +28,9 @@ define NRootESin [
 ! 
 | "[=papá][NRootEs][=dad]" : {papa}
 ! 
+| "[=papel+NCMS000][NRootEs][=sheet.of.paper, book]" : {paperi}
+| "[=papeel+NCMS000][NRootEs][=sheet.of.paper, book]" : {papeeri}
+! 
 | "[=pastor][NRootEs][=pastor]" : {pashitori}
 ! 
 | "[=pelota][NRootEs][=ball]" : {piroota}
