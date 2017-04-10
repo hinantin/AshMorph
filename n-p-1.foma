@@ -1,24 +1,24 @@
 # noun preffixes slot 1
 
 define N=P=1 [
-  "[no-][NPers][1SG.poss+][--]" : {no}"@PRONLEN@"
-| "[nõ-][NPers][1SG.poss+][--]" : {nõ}"@PRONLEN@"
-| "[n-][NPers][1SG.poss+][--]" : {n}"@PRONLEN@"
-!| "[Ø-][NPers][1SG.poss+][--]" : "@PRONLEN@"
-| "[p-][NPers][2poss+][--]" : {p}"@PRONLEN@"
-!| "[Ø-][NPers][2poss+][--]" : "@PRONLEN@"
-| "[pi-][NPers][2poss+][--]" : {pi}"@PRONLEN@"
-| "[i-][NPers][3m.poss+][--]" : {i}"@PRONLEN@"
-| "[y-][NPers][3m.poss+][--]" : {y}"@PRONLEN@"
-| "[ir-][NPers][3m.poss+][--]" : {ir}"@PRONLEN@"
-| "[iri-][NPers][3m.poss+][--]" : {iri}"@PRONLEN@" # iriniro -> his mother
-| "[ri-][NPers][3m.poss+][--]" : {ri}"@PRONLEN@" # ripapate -> his dad
-| "[r-][NPers][3m.poss+][--]" : {r}"@PRONLEN@" # rotsitsite -> his dog
-| "[ro-][NPers][3m.poss+][--]" : {ro}"@PRONLEN@" # robaneki -> en su chacra (de él)
-| "[o-][NPers][3n.m.poss+][--]" : {o}"@PRONLEN@"
-| "[õ-][NPers][3n.m.poss+][--]" : {õ}"@PRONLEN@"
-!| "[Ø=][NPers][3n.m.poss+][--]" : "@PRONLEN@"
-| "[a-][NPers][1PL.poss+][--]" : {a}"@PRONLEN@"
-!| "[Ø-][NPers][1PL.poss+][--]" : "@PRONLEN@"
+  "[no-][NPers][1SG.poss+][--]" : {no}"@LEN@"
+| "[nõ-][NPers][1SG.poss+][--]" : {nõ}"@LEN@"
+| "[n-][NPers][1SG.poss+][--]" : {n}"@LEN@"
+!| "[Ø-][NPers][1SG.poss+][--]" : "@LEN@"
+| "[p-][NPers][2poss+][--]" : {p}"@LEN@"
+!| "[Ø-][NPers][2poss+][--]" : "@LEN@"
+| "[pi-][NPers][2poss+][--]" : {pi}"@LEN@"
+| "[i-][NPers][3m.poss+][--]" : {i}"@LEN@"
+| "[y-][NPers][3m.poss+][--]" : {y}"@LEN@"
+| "[ir-][NPers][3m.poss+][--]" : {ir}"@LEN@"
+| "[iri-][NPers][3m.poss+][--]" : {iri}"@LEN@" # iriniro -> his mother
+| "[ri-][NPers][3m.poss+][--]" : {ri}"@LEN@" # ripapate -> his dad
+| "[r-][NPers][3m.poss+][--]" : {r}"@LEN@" # rotsitsite -> his dog
+| "[ro-][NPers][3m.poss+][--]" : {ro}"@LEN@" # robaneki -> en su chacra (de él)
+| "[o-][NPers][3n.m.poss+][--]" : {o}"@LEN@"
+| "[õ-][NPers][3n.m.poss+][--]" : {õ}"@LEN@"
+!| "[Ø=][NPers][3n.m.poss+][--]" : "@LEN@"
+| "[a-][NPers][1PL.poss+][--]" : {a}"@LEN@"
+!| "[Ø-][NPers][1PL.poss+][--]" : "@LEN@"
 ];
 
