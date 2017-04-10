@@ -1383,9 +1383,9 @@ define NRootPRQin [
 ! 
 | "[=satzi][NRoot][=provenance]" : {satzi}
 ! 
-| "[=saavintaro+n.m.][NRoot][=cat's.claw (uña.de.gato)]" : {saavintaro}
-| "[=saventaro+n.m.][NRoot][=cat's.claw (uña.de.gato)]" : {saventaro}
-| "[=saventavo+n.m.][NRoot][=cat's.claw (uña.de.gato)]" : {saventavo}
+| "[=saavintaro+n.m.][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {saavintaro}
+| "[=saventaro+n.m.][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {saventaro}
+| "[=saventavo+n.m.][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {saventavo}
 ! 
 | "[=seniro][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: milvago.chimachima)]" : {seniro}
 ! 
@@ -1706,7 +1706,7 @@ define NRootPRQin [
 | "[=tsavi][NRoot][=vagina]" : {tsavi} 
 | "[=tsiirishi][NRoot][=La.Merced]" : {tsiirishi} 
 ! 
-| "[=tsikontoche][NRoot][=cat's.claw (uña.de.gato)]" : {tsikontoche} 
+| "[=tsikontoche][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {tsikontoche} 
 ! 
 | "[=tsima][NRoot][=wood]" : {tsima} 
 ! bird, little bird 
