@@ -1351,10 +1351,13 @@ define NRootPRQin [
 | "[=shonaki+n.m.][NRoot][=edible.plant.sp. (dale-dale, sci.nm.: calatea.allouia)]" : {shonaki}
 ! 
 ! flute like instrument
-| "[=sonkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkare}
+| "[=sonkare+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkare}
 | "[=sonkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkari}
 | "[=honkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {honkari}
-!
+! 
+| "[=sonkaari+m.][NRoot][=partridge.sp. (poqueadora)]" : {sonkaari}
+| "[=sonkaagari+m.][NRoot][=partridge.sp. (poqueadora)]" : {sonkaagari}
+! 
 | "[=sampi][NRoot][=torch]" : {sampi}
 ! 
 | "[=santari][NRoot][=cedar.tree]" : {santari}
