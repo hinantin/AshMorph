@@ -1139,7 +1139,7 @@ define NRootPRQin [
 | "[=pairi+m.][NRoot][=very_small-size.suri-fish.sp.]" : {pairi}
 | "[=pairi+m.][NRoot][=piranha.sp. (Cohengua.community)]" : {pairi}
 ! 
-| "[=pirinto+m.][NRoot][=lake.frog, toad]" : {pirinto}
+| "[=pirinto+m.][NRoot][=lake.frog, toad; mountain.frog]" : {pirinto}
 ! 
 | "[=pirotsonke+n.m.][NRoot][=manioc/yucca.sp.]" : {pirotsonke}
 ! 
@@ -1147,6 +1147,7 @@ define NRootPRQin [
 ! 
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V
 | "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pironi} ! N@->V
+| "[=piroti+m.][NRoot][=firefly; quasi-lightning.bug]" : {piroti} ! N@->V
 ! 
 | "[=pisaapitooki+m.][NRoot][=bird.sp.]" : {pisaapitooki}
 ! 
@@ -1219,7 +1220,7 @@ define NRootPRQin [
 ! 
 | "[=pishivakintsi][NRoot][=broom]" : {pishivakintsi}
 ! 
-| "[=pitsitsari][NRoot][=clay]" : {pitsitsari}
+| "[=pitsitsari+n.m.][NRoot][=clay; mud (it.is.used.to.dye.yarn)]" : {pitsitsari}
 ! 
 | "[=piviro+m.][NRoot][=toad.sp.]" : {piviro}
 ! 
@@ -1591,6 +1592,9 @@ define NRootPRQin [
 | "[=tekaatsi][NRoot][=none, empty, zero, null]" : {tekaatsi}
 | "[=tikaatsi][NRoot][=none, empty, zero, null]" : {tikaatsi}
 | "[=teekatsi][NRoot][=none, empty, zero, null]" : {teekatsi}
+! 
+| "[=tempo+m.][NRoot][=mojarra-fish.sp.]" : {tempo}
+| "[=timpo+m.][NRoot][=mojarra-fish.sp.]" : {timpo}
 ! 
 | "[=tene+n.m.+inal.][NRoot][=breast, bosom]" : {tene}
 | "[=teni+n.m.+inal.][NRoot][=breast, bosom]" : {teni}
