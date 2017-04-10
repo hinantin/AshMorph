@@ -11,6 +11,22 @@ my $outputfilename = 'n-vroot.prq.foma';
 my $flag = 'N@->V';
 my $title = 'Verbalized nouns';
 my $header = 'NounToVerbPRQin';
+
+# Obtaining the options
+my @files;
+my $options = "--file file_1 --file file_2 ... ";
+GetOptions (
+'file=s' => \@files,
+'outputfilename=s' => \$outputfilename, 
+'flag=s' => \$flag, 
+'title=s' => \$title, 
+'header=s' => \$header, 
+) or die " Usage:  $0 $options\n";
+#if (@files) {
+#  print STDERR " Usage:  $0 $options\n";
+#  exit;
+#} 
+
 open(my $fh, '>', $outputfilename) or die "Could not open file '$outputfilename' $!";
 
 print $fh  "# -----------------\n";
@@ -18,17 +34,6 @@ print $fh  "# $title \n";
 print $fh  "# -----------------\n";
 print $fh  "define $header [ \n";
 my $count = 0;
-
-# Obtaining the options
-my @files;
-my $options = "--file file_1 --file file_2 ... ";
-GetOptions (
-'file=s' => \@files,
-) or die " Usage:  $0 $options\n";
-#if (@files) {
-#  print STDERR " Usage:  $0 $options\n";
-#  exit;
-#} 
   
 my $file;
 while (defined($file = shift @files)) {

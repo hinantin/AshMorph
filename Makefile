@@ -2,7 +2,7 @@ DROPBOXPATH=/home/richard/Descargas/RCastroq/dropbox/Dropbox/05_Ashaninca/05_Mor
 TOKENIZERPATH=/home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions
 
 compile:
-	@rm -f n-vroot.prq.foma | perl extractEntries.pl --file nroot.prq.foma --file nroot.es.foma --file aroot.prq.foma --file ideo.prq.foma 
+	@rm -f n-vroot.prq.foma | perl extractEntries.pl --file nroot.prq.foma --file nroot.es.foma --file aroot.prq.foma --file ideo.prq.foma --outputfilename "n-vroot.prq.foma" --flag "N@->V" --title "Verbalized nouns" --header "NounToVerbPRQin"
 	@rm -f asheninka.bin ideoredupsyl.bin 
 	@xfst -f asheninka.script
 	@xfst -f ideoredupsyl.prq.foma
