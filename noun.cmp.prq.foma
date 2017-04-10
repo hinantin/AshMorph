@@ -1,7 +1,9 @@
-define NRootCmpPRQin [
-  "[--][=panko+n.m.+inal.][NRoot][=house]" : {panko}
-! 
-| "[--][=henka+poss@ne][NRoot][=odor; smell]" : {henka}
-| "[--][=henkaa+poss@ne][NRoot][=odor; smell]" : {henkaa}
+# -----------------
+# Compound nouns 
+# -----------------
+define NRootCmpPRQin [ 
+  "[=henka+poss@ne.][NRoot][=odor; smell]" : {henka} !@CMP
+| "[=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} !@CMP
+| "[=panko+n.m.+inal.][NRoot][=house]" : {panko} ! @CMP
+| "[=pãko+n.m.+inal.][NRoot][=house]" : {pãko} ! @CMP
 ];
-
