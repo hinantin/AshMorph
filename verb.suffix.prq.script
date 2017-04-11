@@ -528,6 +528,7 @@ define V=S=SUB [
       
 define V=S=NEG [
   "[--][-tsi+future][+NEG]" : "@EP"[{tsi}] 
+| "[--][-tzi+future][+NEG]" : "@EP"[{tzi}] 
 | "[--][-he+past][+NEG]" : "@EP"[{he}] 
 | "[--][-hi+past][+NEG]" : "@EP"[{hi}] 
 ];
