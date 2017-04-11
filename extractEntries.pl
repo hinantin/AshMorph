@@ -11,7 +11,8 @@ my $outputfilename = 'n-vroot.prq.foma';
 my $flag = 'N@->V';
 my $title = 'Verbalized nouns';
 my $header = 'NounToVerbPRQin';
-
+my $separatorsymbol = "[--]";
+my $separator = 0;
 # Obtaining the options
 my @files;
 my $options = "--file file_1 --file file_2 ... ";
@@ -21,6 +22,7 @@ GetOptions (
 'flag=s' => \$flag, 
 'title=s' => \$title, 
 'header=s' => \$header, 
+"separator=i" => \$separator, 
 ) or die " Usage:  $0 $options\n";
 #if (@files) {
 #  print STDERR " Usage:  $0 $options\n";
@@ -44,11 +46,13 @@ open INFO, $file or die "Could not open $file: $!";
   if ($count == 0) { 
    my $text = $_;
    $text =~ s/^\|/ /g;
+   if ($separator == 1) { print "$separator\n"; $text =~ s/\"/\"$separatorsymbol/; }
    print $fh $text; 
   }
   else { 
    my $myvar = $_;
    substr($myvar, 0, 1, "|") if " " eq substr($myvar, 0, 1);
+   if ($separator == 1) { print "$separator\n"; $myvar =~ s/\"/\"$separatorsymbol/; }
    print $fh $myvar; 
   }
   $count++;

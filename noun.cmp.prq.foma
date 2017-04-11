@@ -2,11 +2,11 @@
 # Compound nouns 
 # -----------------
 define NRootCmpPRQin [ 
-  "[=henka+poss@ne.][NRoot][=odor; smell]" : {henka} !@CMP
-| "[=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} !@CMP
-| "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
-| "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
-| "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
-| "[=panko+n.m.+inal.][NRoot][=house]" : {panko} ! @CMP
-| "[=pãko+n.m.+inal.][NRoot][=house]" : {pãko} ! @CMP
+  "[--][=henka+poss@ne.][NRoot][=odor; smell]" : {henka} !@CMP
+| "[--][=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} !@CMP
+| "[--][=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
+| "[--][=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
+| "[--][=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+| "[--][=panko+n.m.+inal.][NRoot][=house]" : {panko} ! @CMP
+| "[--][=pãko+n.m.+inal.][NRoot][=house]" : {pãko} ! @CMP
 ];
