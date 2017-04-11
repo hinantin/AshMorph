@@ -622,7 +622,7 @@ define NRootPRQin [
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
 | "[=kitsoki][NRoot][=egg]" : {kitsoki}
 | "[=kitzi+n.m.+inal.][NRoot][=leg]" : {kitzi}
-| "[=koka][NRoot][=coca]" : {koka}
+| "[=koka+n.m.][NRoot][=coca (QUZ: kuka)]" : {koka}
 ! 
 | "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {koki}
 | "[=konki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {konki}
@@ -1126,6 +1126,8 @@ define NRootPRQin [
 | "[=paro][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paro}
 | "[=paroo][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paroo}
 | "[=paroni][NRoot][=bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paroni}
+! 
+| "[=payari+m.][NRoot][=fish.sp.]" : {payari}
 ! 
 | "[=picha+m.][NRoot][=fish.sp. (palometo)]" : {picha}
 ! 
