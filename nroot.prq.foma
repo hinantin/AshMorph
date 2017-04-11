@@ -1760,8 +1760,6 @@ define NRootPRQin [
 ! 
 | "[=tsitsikana][NRoot][=chili.sp. (ají, botany.nm.: capsicum.sp.)]" : {tsitsikana}
 ! 
-| "[=tsiveta+m.][NRoot][=ray.fish.sp.]" : {tsiveta}
-! 
 | "[=tsiviri+m.][NRoot][=moth.sp.]" : {tsiviri}
 ! 
 | "[=tsiyaki][NRoot][=anus]" : {tsiyaki}
@@ -1772,8 +1770,8 @@ define NRootPRQin [
 | "[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (shapaja, shebón)]" : {tsiyaro}
 | "[=tsiyavo+n.m.][NRoot][=palm.tree.sp. (shapaja, shebón)]" : {tsiyavo}
 ! 
-| "[=tsiveta+n.m.][NRoot][=rajiform.fish.sp. (ESP: raya)]" : {tsiveta}
-| "[=tsivita+n.m.][NRoot][=rajiform.fish.sp. (ESP: raya)]" : {tsivita}
+| "[=tsiveta+m.][NRoot][=ray.fish.sp., rajiform.fish.sp. (ESP: raya)]" : {tsiveta}
+| "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp. (ESP: raya)]" : {tsivita}
 ! 
 | "[=tsomi+inal.][NRoot][=breast, bosom]" : {tsomi} ! N@->V
 | "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V
