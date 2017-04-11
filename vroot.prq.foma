@@ -495,6 +495,8 @@ define VRootPRQin [
 | "[=metso][VRoot][=to.be.soft; to.be.tender]" : {metso}
 ! 
 | "[=mi][VRoot][=to.jump]" : {mi}
+| "[=mit][VRoot][=to.jump]" : {mit}
+| "[=mitah][VRoot][=to.jump]" : {mitah}
 ! 
 | "[=mink][VRoot][=to.put]" : {mink}
 | "[=mink][VRoot][=to.insert]" : {mink}
@@ -721,6 +723,9 @@ define VRootPRQin [
 ! 
 | "[=posa][VRoot][=to.cook]" : {posa}
 ! 
+| "[=posaank][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {posaank}
+| "[=vosaank][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {vosaank}
+! 
 | "[=potso][VRoot][=to.dye, to.paint, to.rub.annatto]" : {potso}
 ! 
 | "[=ponk][VRoot][=to.shoot.down.palm.tree (pona)]" : {ponk}
@@ -771,6 +776,7 @@ define VRootPRQin [
 | "[=hampi][VRoot][=to.ask]" : {hanpi}
 ! 
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
+| "[=sapok][VRoot][=to.jump, to.jump.up.and.down]" : {sapok}
 ! 
 | "[=sampita][VRoot][=to.research]" : {sampita}
 | "[=santsa][VRoot][=to.grow.big]" : {santsa}
