@@ -244,7 +244,7 @@ define S [
  (V=S=CAUSSOC) (V=S=REAL) (V=S=PRNO) | 
  (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPLREAS) (V=S=HAB) (V=S=REAL) (V=S=REL) (V=S=Q) | 
- (V=S=APPLREAS) (V=S=HAB) (V=S=REAL) (V=S=REL) (V=S=PLcircumfixing) | 
+ (V=S=APPLREAS) (V=S=HAB) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=PLcircumfixing) | 
  (V=S=PRF) (V=S=REGR) (V=S=IRR) (V=S=PRNO) | 
  (V=S=APPL) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=AUG) (V=S=IRR) (V=S=PRNO) | 
