@@ -69,7 +69,7 @@ define V=S=PL [
 
 define V=S=PLcircumfixing [
   "[--][-ni][+PL]" : "@EP"[{ni}]
-| "[--][-ni][+PL]" : "@EP"[{ne}]
+| "[--][-ne][+PL]" : "@EP"[{ne}]
 ];
 
       
