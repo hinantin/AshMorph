@@ -890,7 +890,7 @@ define NRootPRQin [
 | "[=mora][NRoot][=mule]" : {mora}
 ! 
 | "[=moo+n.m.+inal.][NRoot][=hole]" : {moo}
-| "[=moro+n.m.+inal.][NRoot][=hole]" : {moro}
+| "[=moro+n.m.+inal.][NRoot][=hole]" : {moro} ! N@->V
 | "[=omoro][NRoot][=hole]" : {omoro}
 | "[=omoo][NRoot][=hole]" : {omoo}
 | "[=omo][NRoot][=hole]" : {omo}
