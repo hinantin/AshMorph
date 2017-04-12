@@ -67,7 +67,7 @@
 
       define TSEpenthesisRule1 [ "@EP" (->) {ts}"@EP" || i _ i ];  # ts allophone to tz
                                                                  # n-amatawits-i-mi
-      define TSEpenthesisRule2 [ "@EP" (->) {ts}"@EP" || o _ a ];  # potsotsaantsi
+      define TSEpenthesisRule2 [ "@EP" (->) {ts}"@EP" || o _ [a|i] ];  # potso-ts-aantsi, ir=apato-ts-imai-t-ya-ri
 
       
       define CleanUpEpenthesisRule6 [ "" (->) "@EP" || i _ {antsi} ]; # kinkishiriantsi
