@@ -990,7 +990,11 @@ define VRootPRQin [
 ! 
 | "[=tsirik][VRoot][=to.attach]" : {tsirik}
 | "[=tsiteni][VRoot][=to.get.dark]" : {tsiteni}
+! 
 | "[=tsiy][VRoot][=to.heat]" : {tsiy}
+! 
+| "[=tsiyo][VRoot][=to.give.off.light, to.light, to.light.up]" : {tsiyo}
+! 
 | "[=tsok][VRoot][=to.pull.out]" : {tsok}
 | "[=tsonk][VRoot][=to.finish]" : {tsonk}
 | "[=tsonk][VRoot][=to.kill]" : {tsonk}
