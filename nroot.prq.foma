@@ -453,8 +453,10 @@ define NRootPRQin [
 | "[=iye+m.][NRoot][=brother (kin.of.a.male, male.ego)]" : {iye}
 | "[=iyenti+m.][NRoot][=brother (kin.of.a.male)]" : {iyenti}
 | "[=iyeki+m.][NRoot][=brother (kin.of.a.male)]" : {iyeki}
-!| "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
-!| "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
+! 
+| "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
+| "[=irentsi+m.][NRoot][=brother (kin.of.a.male, male.ego), male.who.belongs.to.the.same.ego.generation]" : {irentsi}
+| "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
 ! 
 | "[=kaaro][NRoot][=car]" : {kaaro}
 ! 
@@ -1473,9 +1475,9 @@ define NRootPRQin [
 ! 
 | "[=shiiri][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: ictinia.plumbea)]" : {shiiri}
 ! 
-| "[=shiri][NRoot][=tobacco.leaf; tobacco]" : {shiri}
-| "[=sheri][NRoot][=tobacco.leaf; tobacco]" : {sheri}
-| "[=seri][NRoot][=tobacco.leaf; tobacco]" : {seri}
+| "[=shiri][NRoot][=tobacco.leaf; tobacco]" : {shiri} ! N@->V
+| "[=sheri][NRoot][=tobacco.leaf; tobacco]" : {sheri} ! N@->V
+| "[=seri][NRoot][=tobacco.leaf; tobacco]" : {seri} ! N@->V
 !
 | "[=shiro+m.][NRoot][=grey.dove.sp.]" : {shiro}
 ! 

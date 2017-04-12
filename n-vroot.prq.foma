@@ -50,6 +50,9 @@ define NounToVerbPRQin [
 | "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare} ! N@->V
 | "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V
 | "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
+| "[=shiri][NRoot][=tobacco.leaf; tobacco]" : {shiri} ! N@->V
+| "[=sheri][NRoot][=tobacco.leaf; tobacco]" : {sheri} ! N@->V
+| "[=seri][NRoot][=tobacco.leaf; tobacco]" : {seri} ! N@->V
 | "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
 | "[=shitamenko+inal.][NRoot][=dais]" : {shitamenko} ! N@->V 
 | "[=tsinani+n.m.][NRoot][=female, woman; young.girl]" : {tsinani} ! N@->V
