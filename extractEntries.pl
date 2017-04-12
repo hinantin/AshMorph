@@ -46,13 +46,13 @@ open INFO, $file or die "Could not open $file: $!";
   if ($count == 0) { 
    my $text = $_;
    $text =~ s/^\|/ /g;
-   if ($separator == 1) { print "$separator\n"; $text =~ s/\"/\"$separatorsymbol/; }
+   if ($separator == 1) { $text =~ s/\"/\"$separatorsymbol/; }
    print $fh $text; 
   }
   else { 
    my $myvar = $_;
    substr($myvar, 0, 1, "|") if " " eq substr($myvar, 0, 1);
-   if ($separator == 1) { print "$separator\n"; $myvar =~ s/\"/\"$separatorsymbol/; }
+   if ($separator == 1) { $myvar =~ s/\"/\"$separatorsymbol/; }
    print $fh $myvar; 
   }
   $count++;
