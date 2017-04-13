@@ -617,6 +617,7 @@ define VRootPRQin [
 | "[=otey][VRoot][=to.take.sth., to.catch.sth.]" : {otey}
 | "[=otiy][VRoot][=to.take.sth., to.catch.sth.]" : {otiy}
 | "[=te][VRoot][=to.take.sth.; to.insert; to.board]" : {te}
+| "[=tet][VRoot][=to.fill]" : {tet}
 ! 
 | "[=ovank][VRoot][=to.lift.sth.(up)]" : {ovank}
 ! 
@@ -902,6 +903,10 @@ define VRootPRQin [
 | "[=teh][VRoot][=to.weave]" : {teh}
 | "[=tih][VRoot][=to.weave]" : {tih}
 ! 
+| "[=tek][VRoot][=to.shake]" : {tek}
+| "[=otik][VRoot][=to.shake]" : {otik}
+| "[=otek][VRoot][=to.shake]" : {otek}
+! 
 ! there is/are not
 | "[=tekatsi][VRoot][=there.is.not, there.are.not]" : {tekatsi}
 | "[=tekaatsi][VRoot][=there.is.not, there.are.not]" : {tekaatsi}
@@ -911,7 +916,6 @@ define VRootPRQin [
 !| "[=tena][VRoot][=to.be.heavy]" : {tena}
 !| "[=tenari][VRoot][=be.heavy.ADJ]" : {tenari}
 ! 
-| "[=tet][VRoot][=to.fill]" : {tet}
 | "[=tina][VRoot][=to.lift]" : {tina}
 ! 
 | "[=tiri][VRoot][=to.rub, to.anoint]" : {tiri}
