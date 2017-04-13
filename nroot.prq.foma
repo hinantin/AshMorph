@@ -302,8 +302,6 @@ define NRootPRQin [
 | "[=hetoo+m.][NRoot][=spider]" : {hetoo}
 | "[=hito+m.][NRoot][=spider]" : {hito}
 ! 
-| "[=iitsi][NRoot][=foot]" : {iitsi}
-! 
 | "[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impaneki}
 | "[=iNpanaki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impanaki}
 ! 
@@ -444,6 +442,8 @@ define NRootPRQin [
 | "[=itzi+n.m.+inal.][NRoot][=foot]" : {itzi}
 | "[=iitzi+n.m.+inal.][NRoot][=foot]" : {iitzi}
 | "[=iiti+n.m.+inal.][NRoot][=foot]" : {iiti}
+| "[=iitsi+n.m.+inal.][NRoot][=foot]" : {iitsi}
+| "[=iti+n.m.+inal.][NRoot][=foot]" : {iti}
 ! 
 | "[=iraka][NRoot][=ripe]" : {iraka}
 | "[=irakaa][NRoot][=ripe]" : {irakaa}
