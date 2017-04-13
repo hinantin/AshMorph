@@ -22,6 +22,7 @@ define NounToVerbPRQin [
 | "[=evankari+m.][NRoot][=young.man, adolescent]" : {evankari} ! N@->V
 | "[=horio+m.][NRoot][=jewish]" : {horio} ! N@->V
 | "[=horiiyo+m.][NRoot][=jewish]" : {horiiyo} ! N@->V
+| "[=intaina+loc.][AdvRoot][=far.away]" : {intaina} ! N@->V ! revise if it belongs to this file 
 | "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
