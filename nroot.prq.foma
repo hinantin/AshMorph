@@ -748,10 +748,6 @@ define NRootPRQin [
 | "[=manitzi][NRoot][=tiger]" : {manitzi}
 | "[=maniti][NRoot][=tiger]" : {maniti}
 ! 
-| "[=maanki+m.][NRoot][=snake, serpent]" : {maanki}
-| "[=maanke+m.][NRoot][=snake, serpent]" : {maanke}
-| "[=maranke+m.][NRoot][=snake, serpent]" : {maranke}
-! 
 | "[=manko][NRoot][=mango (botany.nm.: manguira.indica)]" : {manko}
 ! 
 | "[=mare+n.m.+inal.][NRoot][=wristband]" : {mare}
@@ -777,8 +773,10 @@ define NRootPRQin [
 ! 
 | "[=mapitzi+m.][NRoot][=small.bird.sp.]" : {mapitzi}
 ! 
+| "[=maanki+m.][NRoot][=snake, serpent]" : {maanki}
+| "[=maanke+m.][NRoot][=snake, serpent]" : {maanke}
+| "[=maranke+m.][NRoot][=snake.sp., serpent]" : {maranke}
 | "[=maranki+m.][NRoot][=snake.sp.]" : {maranki}
-| "[=maranke+m.][NRoot][=snake.sp.]" : {maranke}
 ! 
 | "[=marankiaro][NRoot][=name.of.village]" : {marankiaro}
 ! 
