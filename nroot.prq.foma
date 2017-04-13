@@ -1014,8 +1014,8 @@ define NRootPRQin [
 | "[=ootamentotsi][NRoot][=lighter, kerosene.lamp, paraffin.lamp]" : {ootamentotsi}
 | "[=ootametotsi][NRoot][=lighter, kerosene.lamp, paraffin.lamp]" : {ootametotsi}
 ! 
-| "[=otapiki][NRoot][=cliff; rugged]" : {otapiki}
-| "[=otaapiki][NRoot][=cliff; rugged]" : {otaapiki}
+| "[=otapiki][NRoot][=cliff; rugged]" : {otapiki} ! Adv?
+| "[=otaapiki][NRoot][=cliff; rugged]" : {otaapiki} ! Adv?
 ! 
 | "[=otapinoma][NRoot][=chin, jaw]" : {otapinoma}
 | "[=otenkanaki][NRoot][=rocky.place]" : {otenkanaki}
