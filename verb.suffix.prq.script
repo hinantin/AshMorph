@@ -318,6 +318,7 @@ define V=S=ADJ [
 define V=S=CAUSSOC [
   "[--][-ak][+CAUS.SOC]" : "@EP"[{ak}]
 | "[--][-aka][+CAUS.SOC]" : "@EP"[{aka}]
+| "[--][-akaa][+CAUS.SOC]" : "@EP"[{akaa}]
 ];
       
 !define V=S=APPLSOC [
