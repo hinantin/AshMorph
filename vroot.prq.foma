@@ -612,9 +612,11 @@ define VRootPRQin [
 | "[=oy][VRoot][=to.eat]" : {oy}
 | "[=ovayeri][VRoot][=to.fight]" : {ovayeri}
 ! 
-| "[=ote][VRoot][=to.take.sth., to.catch.sth.]" : {ote}
+| "[=ote][VRoot][=to.take.sth., to.catch.sth.; to.insert; to.board]" : {ote}
+| "[=oti][VRoot][=to.take.sth., to.catch.sth.; to.insert; to.board]" : {oti}
 | "[=otey][VRoot][=to.take.sth., to.catch.sth.]" : {otey}
 | "[=otiy][VRoot][=to.take.sth., to.catch.sth.]" : {otiy}
+| "[=te][VRoot][=to.take.sth.; to.insert; to.board]" : {te}
 ! 
 | "[=ovank][VRoot][=to.lift.sth.(up)]" : {ovank}
 ! 
