@@ -1,6 +1,7 @@
 ! alienable possession?
 define N=S=poss [
   "[--][-te][Gen][+poss]" : {te} 
+| "[--][-ti][Gen][+poss]" : {ti} 
 ! 
 | "[--][-ni][Gen][+poss]" : {ni} 
 | "[--][-ne][Gen][+poss]" : {ne} 
