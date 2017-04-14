@@ -1876,6 +1876,9 @@ define NRootPRQin [
 | "[=yari+m.][NRoot][=brother (kin.of.a.female)]" : {yari}
 | "[=yaari+m.][NRoot][=brother (kin.of.a.female)]" : {yaari}
 ! 
+| "[=yeeyi+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male)]" : {yeeyi}
+| "[=yiiyi+m.+poss@ti.][NRoot][=brother, cousin (kin.of.a.male)]" : {yiiyi}
+! 
 | "[=yenka+n.m.+inal.][NRoot][=fat]" : {yenka}
 | "[=yeenka+n.m.+inal.][NRoot][=fat]" : {yeenka}
 | "[=yiinka+n.m.+inal.][NRoot][=fat]" : {yiinka}
@@ -1892,7 +1895,10 @@ define NRootPRQin [
 | "[=yoNpare+m.+inal.][NRoot][=friend; trading.partner]" : {yõpare}
 | "[=yompare+m.+inal.][NRoot][=friend; trading.partner]" : {yompare}
 ! 
+| "[=yoosara+m.][NRoot][=fly.sp.]" : {yoosara}
+! 
 | "[=yopo+n.m.][NRoot][=tree.sp., mahogany (ESP: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {yopo}
+| "[=aavana+n.m.][NRoot][=tree.sp., mahogany (ESP: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {aavana}
 ! word set: wisdom
 | "[=yorenka+inal.][NRoot][=wisdom, knowledge]" : {yorenka}
 | "[=yorêka+inal.][NRoot][=wisdom, knowledge]" : {yorêka}
