@@ -67,6 +67,7 @@ define NRootESin [
 | "[=Julio][NP][=Julio]" : {horio} 
 | "[=Jerónimo][NP][=Jerónimo]" : {heronimo} 
 | "[=San][NP][=Saint]" : {san} 
+| "[=zapato+NCMS000][NP][=shoe]" : {zapato} 
 ];
 
 # 
