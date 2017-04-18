@@ -679,8 +679,8 @@ define NRootPRQin [
 ! 
 | "[=korinto][NRoot][=big.mythological.animal; elephant]" : {korinto} ! woman like apperance, human eater
 ! 
-| "[=koria][NRoot][=manioc.worm]" : {koria}
-| "[=korya][NRoot][=manioc.worm]" : {korya}
+| "[=koria+poss@ni.][NRoot][=manioc.worm]" : {koria}
+| "[=korya+poss@ni.][NRoot][=manioc.worm]" : {korya}
 ! 
 | "[=koryo][NRoot][=fish.var., catfish.sp.]" : {koryo}
 | "[=korio][NRoot][=fish.var., catfish.sp.]" : {korio}
@@ -1807,6 +1807,8 @@ define NRootPRQin [
 | "[=shoiriki][NRoot][=tuber.sp. (oca, from.Quechua.Uqa, sci.nm.: calatea.allouia, oxalis.tuberosa)]" : {shoiriki}
 ! 
 | "[=shonkiri][NRoot][=big.partridge.sp.]" : {shonkiri}
+! 
+| "[=txero][NRoot][=climbing_plant/vine.sp.]" : {txero}
 ! 
 | "[=tya+poss@ni.][NRoot][=fabric]" : {tya}
 ! hen 
