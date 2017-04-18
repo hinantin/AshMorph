@@ -175,6 +175,7 @@ define NRootPRQin [
 | "[=chokari+m.][NRoot][=red.bird.sp.]" : {chokari}
 ! 
 | "[=chochoki][NRoot][=sweet.fruit]" : {chochoki}
+| "[=txotxoki][NRoot][=general.name.for.small.fruits]" : {txotxoki}
 ! 
 | "[=chomenta][NRoot][=fresh.water.fish.sp. (palometa)]" : {chomenta}
 ! 
@@ -321,6 +322,9 @@ define NRootPRQin [
 | "[=inchaa][NRoot][=plant]" : {inchaa}
 | "[=inchapataki][NRoot][=spatula]" : {inchapataki}
 | "[=inchatomashi][NRoot][=scrub]" : {inchatomashi}
+! 
+| "[=inchashi+n.m.][NRoot][=herb]" : {inchashi}
+| "[=intxashi][NRoot][=herb.with.therapeutic.properties]" : {intxashi}
 ! 
 | "[=inkani][NRoot][=rain]" : {inkani}
 ! 
