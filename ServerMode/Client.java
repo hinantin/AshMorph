@@ -53,15 +53,14 @@ public class Client {
             URL url = null;
             URL fm_url = null;
             this.command = new String[]{"/bin/bash", "-c", ""};
-            url = getClass().getResource("/usr/bin/lookup");
+            url = getClass().getResource("bin/lookup");
             this.lookup_bin = new File(url.toURI());
             
-            System.err.println("hola\n");
             if ((!this.lookup_bin.canExecute()) && (!this.lookup_bin.setExecutable(true))) {
                 throw new Exception("Foma's lookup is not executable and could not be made executable!\nTried to execute " + this.lookup_bin.getCanonicalPath());
             }
 
-            this.foma_file = new File(getClass().getResource("/home/richard/Documents/squoia/parsing/lookup.script").toURI());
+            this.foma_file = new File(getClass().getResource("lookup.script").toURI());
             if (!this.foma_file.canRead()) {
                 throw new Exception("lookup.script is not readable!");
             }
@@ -74,7 +73,7 @@ public class Client {
 
             this.fl_wr = this.lookup.getOutputStream();
             this.fl_rd = this.lookup.getInputStream();
-
+            System.err.println("hola\n");
         } catch (Exception ex) {
             System.err.println( ex.getMessage() );
         }
