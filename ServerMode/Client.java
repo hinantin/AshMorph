@@ -17,6 +17,9 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import java.io.*;
+import java.net.*;
+
 public class Client {
 
     protected Process lookup = null;
@@ -44,6 +47,23 @@ public class Client {
 
         Client temp = new Client();
         temp.debug = true;
+        String clientSentence;
+        String capitalizedSentence;
+        ServerSocket welcomeSocket = new ServerSocket(6789);
+        System.err.println("Iniciando servidor.\n");
+        while(true)
+        {
+          Socket connectionSocket = welcomeSocket.accept();
+          BufferedReader inFromClient =
+          new BufferedReader(new InputStreamReader(connectionSocket.getInputStream()));
+          DataOutputStream outToClient = new DataOutputStream(connectionSocket.getOutputStream());
+          clientSentence = inFromClient.readLine();
+          //System.err.println("jkjk.\n");
+          System.err.println("Received: " + clientSentence);
+          temp.analyze(clientSentence+"\n");
+          capitalizedSentence = clientSentence.toUpperCase() + '\n';
+          outToClient.writeBytes(capitalizedSentence);
+        }
     }
 
     public Client() {
@@ -73,50 +93,49 @@ public class Client {
 
             this.fl_wr = this.lookup.getOutputStream();
             this.fl_rd = this.lookup.getInputStream();
-            System.err.println("hola\n");
         } catch (Exception ex) {
             System.err.println( ex.getMessage() );
         }
     }
 
-    public synchronized boolean isValid(String word) {
+    public synchronized boolean analyze(String word) {
         if ((this.lookup == null) || (this.fl_wr == null) || (this.fl_rd == null)) {
             return false;
         }
-        if (isValidWord(word)) {
+        if (getAnalysis(word)) {
             return true;
         }
-        String lword = word.toLowerCase();
-        if ((!word.equals(lword)) && (isValidWord(lword))) {
-            return true;
-        }
-        this.rx_pe_m.reset(word);
-        if (this.rx_pe_m.matches()) {
-            if (isValidWord(this.rx_pe_m.group(1))) {
-                return true;
-            }
-            if (isValidWord(this.rx_pe_m.group(1).toLowerCase())) {
-                return true;
-            }
-        }
-        this.rx_pb_m.reset(word);
-        if (this.rx_pb_m.matches()) {
-            if (isValidWord(this.rx_pb_m.group(1))) {
-                return true;
-            }
-            if (isValidWord(this.rx_pb_m.group(1).toLowerCase())) {
-                return true;
-            }
-        }
-        this.rx_pbe_m.reset(word);
-        if (this.rx_pbe_m.matches()) {
-            if (isValidWord(this.rx_pbe_m.group(1))) {
-                return true;
-            }
-            if (isValidWord(this.rx_pbe_m.group(1).toLowerCase())) {
-                return true;
-            }
-        }
+        //String lword = word.toLowerCase();
+        //if ((!word.equals(lword)) && (isValidWord(lword))) {
+        //    return true;
+        //}
+        //this.rx_pe_m.reset(word);
+        //if (this.rx_pe_m.matches()) {
+        //    if (isValidWord(this.rx_pe_m.group(1))) {
+        //        return true;
+        //    }
+        //    if (isValidWord(this.rx_pe_m.group(1).toLowerCase())) {
+        //        return true;
+        //    }
+        //}
+        //this.rx_pb_m.reset(word);
+        //if (this.rx_pb_m.matches()) {
+        //    if (isValidWord(this.rx_pb_m.group(1))) {
+        //        return true;
+        //    }
+        //    if (isValidWord(this.rx_pb_m.group(1).toLowerCase())) {
+        //        return true;
+        //    }
+        //}
+        //this.rx_pbe_m.reset(word);
+        //if (this.rx_pbe_m.matches()) {
+        //    if (isValidWord(this.rx_pbe_m.group(1))) {
+        //        return true;
+        //    }
+        //    if (isValidWord(this.rx_pbe_m.group(1).toLowerCase())) {
+        //        return true;
+        //    }
+        //}
         return false;
     }
 
@@ -207,7 +226,8 @@ public class Client {
 //        return err;
 //    }
 
-    public boolean isValidWord(String word) {
+    public boolean getAnalysis(String word) {
+        System.err.println("PRUEBA01.\n");
         word = word + "\n";
         byte[] res = new byte[4];
         try {
@@ -223,8 +243,8 @@ public class Client {
             if (this.fl_rd.read(res2, 4, avail) != avail) {
                 throw new Exception("Failed to read first 4 bytes from lookup!");
             } else {
-                //String s = new String(res);
-                //System.out.println("RES: " + s + "\n");
+                String s = new String(res);
+                System.out.println("RES: " + s + "\n");
             }
         } catch (Exception ex) {
             return false;
