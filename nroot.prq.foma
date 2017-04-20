@@ -129,6 +129,8 @@ define NRootPRQin [
 | "[=chii+m.+inal.][NRoot][=horn, thorn]" : {chii}
 | "[=tsee+m.+inal.][NRoot][=horn, thorn]" : {tsee}
 ! 
+| "[=cheenkari][NRoot][=obscure]" : {cheenkari}
+! 
 | "[=chekito+m.][NRoot][=frog.sp., small.toad.sp.]" : {chekito}
 ! 
 | "[=chekopi+n.m.][NRoot][=arrow; small.cane (cañabrava.pequeña)]" : {chekopi}
@@ -917,6 +919,9 @@ define NRootPRQin [
 ! 
 | "[=nampi+n.m.+inal.][NRoot][=village, place, country]" : {nampi}
 ! 
+| "[=natsiryari+m.][NRoot][=green]" : {natsiryari}
+| "[=natsiryaro+n.m.][NRoot][=green]" : {natsiryaro}
+! 
 | "[=navireri][NRoot][=person's.name]" : {navireri}
 | "[=naviriri][NRoot][=person's.name]" : {naviriri}
 ! 
@@ -1289,6 +1294,9 @@ define NRootPRQin [
 | "[=voro][NRoot][=face]" : {voro}
 ! 
 | "[=poroki][NRoot][=bunch]" : {poroki}
+! 
+| "[=potsitari+m.][NRoot][=black]" : {potsitari}
+| "[=potsitaro+n.m.][NRoot][=black]" : {potsitaro}
 ! 
 | "[=potsotzi+n.m.][NRoot][=annatto (achiote, botany.id.: bixa.orellana)]" : {potsotzi}
 | "[=potsoti+n.m.][NRoot][=annatto (achiote, botany.id.: bixa.orellana)]" : {potsoti}
