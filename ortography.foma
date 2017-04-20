@@ -47,11 +47,13 @@
       define OTildeReplacement1 [ {on} (->) {õ} || _ [k|t] ];
       define OTildeReplacement2 [ {om} (->) {õ} || _ [p] ];
 
+      define UReplacement1 [ {o} (->) {u} || [Cons] _ [Cons] ]; # ayumpari, kubantsi
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement .o. QYReplacement 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 
 .o. BReplacement .o. WReplacement 
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
-.o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 ]; 
+.o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
+.o. UReplacement1 ]; 
 
 
