@@ -487,6 +487,8 @@ define NRootPRQin [
 ! 
 | "[=kamanitaantsi][NRoot][=death]" : {kamanitaantsi}
 ! 
+| "[=kamara][NRoot][=cinnamon.color]" : {kamara}
+! 
 | "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampi}
 | "[=kamaraNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamaranvi}
 | "[=kamaNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamanvi}
@@ -619,7 +621,12 @@ define NRootPRQin [
 | "[=kitamaari+m.][NRoot][=white]" : {kitamaari} ! N@->V
 | "[=kitamarori][NRoot][=white]" : {kitamarori}
 ! 
-| "[=kiteri][NRoot][=yellow]" : {kiteri}
+# colors
+| "[=kiteri+color][NRoot][=yellow]" : {kiteri}
+| "[=kiteriri+color][NRoot][=yellow]" : {kiteriri}
+| "[=kityonkari+color][NRoot][=red]" : {kityonkari}
+| "[=kiraari+color][NRoot][=red]" : {kiraari}
+| "[=kisaari+color][NRoot][=red]" : {kisaari}
 ! 
 | "[=kito+m.][NRoot][=shrimp]" : {kito}
 | "[=kitoo+m.][NRoot][=shrimp]" : {kitoo}
