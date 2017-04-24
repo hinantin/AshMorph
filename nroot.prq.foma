@@ -806,6 +806,8 @@ define NRootPRQin [
 | "[=tsoiroki][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=tyontiiki][NRoot][=river.snail]" : {tyontiiki}
 ! 
+| "[=materi][NRoot][=catfish.sp.]" : {materi}
+! 
 | "[=materinke][NRoot][=yellow-color.snake.sp.]" : {materinke}
 ! 
 | "[=matori][NRoot][=nocturnal.butterfly.sp.]" : {matori}
@@ -1381,6 +1383,8 @@ define NRootPRQin [
 ! 
 | "[=sameti+m.][NRoot][=godfather]" : {sameti}
 ! 
+| "[=shaori][NRoot][=catfish.sp. (barbón)]" : {shaori}
+! 
 | "[=shavo][NRoot][=rodent.sp. (añuje, agutí)]" : {shavo}
 | "[=sharo][NRoot][=rodent.sp. (añuje, agutí)]" : {sharo}
 | "[=sharoni][NRoot][=rodent.sp. (añuje, agutí)]" : {sharoni}
@@ -1846,8 +1850,9 @@ define NRootPRQin [
 | "[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (shapaja, shebón)]" : {tsiyaro}
 | "[=tsiyavo+n.m.][NRoot][=palm.tree.sp. (shapaja, shebón)]" : {tsiyavo}
 ! 
-| "[=tsiveta+m.][NRoot][=ray.fish.sp., rajiform.fish.sp. (ESP: raya)]" : {tsiveta}
-| "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp. (ESP: raya)]" : {tsivita}
+| "[=tsiveta+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ESP: pez.raya)]" : {tsiveta}
+| "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ESP: pez.raya)]" : {tsivita}
+| "[=inaro][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ESP: pez.raya)]" : {inaro}
 ! 
 | "[=tsomi+inal.][NRoot][=breast, bosom]" : {tsomi} ! N@->V
 | "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V
