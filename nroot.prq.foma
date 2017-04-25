@@ -819,7 +819,7 @@ define NRootPRQin [
 ! 
 | "[=matori][NRoot][=nocturnal.butterfly.sp.]" : {matori}
 ! 
-| "[=matsi+n.m.][NRoot][=plant.sp.; edible.tuber.sp.]" : {matsi}
+| "[=matsi+n.m.][NRoot][=plant.sp.; edible.tuber.sp. (pituca)]" : {matsi}
 | "[=matsi+m.][NRoot][=witch; insect.sp.]" : {matsi}
 ! 
 | "[=mapitzi+m.][NRoot][=small.bird.sp.]" : {mapitzi}
@@ -1108,6 +1108,7 @@ define NRootPRQin [
 | "[=oye+m.][NRoot][=rainbow]" : {oye}
 | "[=oyi+m.][NRoot][=rainbow]" : {oyi}
 ! 
+| "[=pamari+n.m.][NRoot][=fire]" : {pamari}
 | "[=paamari+n.m.][NRoot][=fire]" : {paamari}
 | "[=paampari+n.m.][NRoot][=fire]" : {paampari}
 ! 
