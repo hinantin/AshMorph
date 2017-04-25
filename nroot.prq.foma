@@ -819,6 +819,9 @@ define NRootPRQin [
 ! 
 | "[=matori][NRoot][=nocturnal.butterfly.sp.]" : {matori}
 ! 
+| "[=matsi+n.m.][NRoot][=plant.sp.; edible.tuber.sp.]" : {matsi}
+| "[=matsi+m.][NRoot][=witch; insect.sp.]" : {matsi}
+! 
 | "[=mapitzi+m.][NRoot][=small.bird.sp.]" : {mapitzi}
 ! 
 | "[=maanki+m.][NRoot][=snake, serpent]" : {maanki}
@@ -1947,7 +1950,7 @@ define NRootPRQin [
 | "[=viane+inal.][NRoot][=bow, weapon.for.shooting.arrows]" : {viane}
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
-| "[=virakocha][NRoot][=outsider]" : {virakocha}
+| "[=virakocha][NRoot][=outsider, white.person]" : {virakocha}
 ! 
 | "[=viti+n.m.+inal.][NRoot][=outsider]" : {viti}
 | "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
