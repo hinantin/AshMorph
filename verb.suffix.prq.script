@@ -43,6 +43,7 @@ define V=S=DIST [
 define V=S=DIR [
 # 
   "[--][-av+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{av}] 
+| "[--][-aav+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{aav}] 
 # ablative case
 | "[--][-an+source+leaving][Adv][+DIR][=upon.leaving]" : "@EP"[{an}] 
 # allative 'adlativo' case
