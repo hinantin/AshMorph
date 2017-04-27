@@ -545,6 +545,8 @@ define NRootPRQin [
 | "[=kashekari+m.][NRoot][=jaguar; tiger]" : {kashekari}
 ! 
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
+| "[=kashi][NRoot][=semen]" : {kashi}
+| "[=koche][NRoot][=semen]" : {koche} ! 
 ! 
 | "[=kashiri+m.][NRoot][=moon; month]" : {kashiri}
 | "[=katari][NRoot][=wild.duck]" : {katari}
@@ -1753,6 +1755,11 @@ define NRootPRQin [
 ! 
 | "[=tiparo][NRoot][=turtle.sp. (taricaya)]" : {tiparo}
 | "[=teparo][NRoot][=turtle.sp. (taricaya)]" : {teparo}
+! 
+| "[=tiri+m.][NRoot][=tar]" : {tiri}
+| "[=tziri+m.][NRoot][=tar]" : {tziri}
+| "[=tziri+n.m.][NRoot][=tar-producing.tree.sp.]" : {tziri}
+| "[=tsineri][NRoot][=natural.tar]" : {tsineri}
 ! 
 | "[=tiroti+n.m.][NRoot][=palm.tree.sp.with.black.thorns (huicungo)]" : {tiroti}
 | "[=tzirootzi+n.m.][NRoot][=palm.tree.sp. (huicungo)]" : {tzirootzi}
