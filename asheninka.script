@@ -205,7 +205,8 @@
       source nroot.es.foma
       # Quechua loan words 
       source nroot.qu.foma
-      
+      source numeral.prq.foma
+
       # Compound nouns
       source noun.cmp.prq.foma
       define NRootCmpPRQ NRootCmpPRQin;
@@ -221,7 +222,7 @@
       
 #      source pronoun.prq.foma
       define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
-      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootQUin];
+      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootQUin|NumeralPRQin];
       define Noun [ (NPref) [NRootPRQ] ("@LEN@"NRootCmpPRQ) (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
       define NominalizedVerb [ (NPref) [VRootPRQ] [

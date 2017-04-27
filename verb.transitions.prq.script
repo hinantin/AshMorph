@@ -265,7 +265,7 @@ define S [
  (V=S=APPLSEP) (V=S=IRR) (V=S=PRNO) (V=S=CNTF) | 
  (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=CNTF) | 
  (V=S=APPL) (V=S=REP) (V=S=PL) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=APPL) (V=S=APPLREAS) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=APPL) (V=S=APPLREAS) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) | ! amen-ako-t-ant-atsi-ri
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=COND) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) | 
  (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) | 
