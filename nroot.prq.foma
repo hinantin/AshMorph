@@ -328,12 +328,12 @@ define NRootPRQin [
 | "[=inchaa][NRoot][=plant]" : {inchaa}
 | "[=intxa][NRoot][=plant]" : {intxa}
 ! 
-| "[=inchapataki][NRoot][=spatula]" : {inchapataki}
+| "[=inchapataki][NRoot][=spatula]" : {inchapataki} 
 ! 
-| "[=inchatomashi][NRoot][=scrub]" : {inchatomashi}
+| "[=inchatomashi][NRoot][=scrub]" : {inchatomashi} 
 ! 
-| "[=inchatonaki][NRoot][=big.traditional.fishing.boat; container.to.store.sth. (cosho)]" : {inchatonaki} 
-| "[=intxatonaki][NRoot][=big.traditional.fishing.boat; container.to.store.sth. (cosho)]" : {intxatonaki} 
+| "[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container.to.store.sth. (cosho)]" : {inchatonaki} 
+| "[=intxatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container.to.store.sth. (cosho)]" : {intxatonaki} 
 ! 
 | "[=inchashi+n.m.][NRoot][=herb]" : {inchashi}
 | "[=intxashi][NRoot][=herb.with.therapeutic.properties]" : {intxashi}
