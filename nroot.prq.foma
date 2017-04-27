@@ -326,8 +326,14 @@ define NRootPRQin [
 ! 
 | "[=incha][NRoot][=plant]" : {incha}
 | "[=inchaa][NRoot][=plant]" : {inchaa}
+| "[=intxa][NRoot][=plant]" : {intxa}
+! 
 | "[=inchapataki][NRoot][=spatula]" : {inchapataki}
+! 
 | "[=inchatomashi][NRoot][=scrub]" : {inchatomashi}
+! 
+| "[=inchatonaki][NRoot][=big.traditional.fishing.boat (cosho)]" : {inchatonaki} 
+| "[=intxatonaki][NRoot][=big.traditional.fishing.boat (cosho)]" : {intxatonaki} 
 ! 
 | "[=inchashi+n.m.][NRoot][=herb]" : {inchashi}
 | "[=intxashi][NRoot][=herb.with.therapeutic.properties]" : {intxashi}
