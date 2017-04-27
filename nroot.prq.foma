@@ -605,9 +605,11 @@ define NRootPRQin [
 | "[=kentsi+n.m.+inal.][NRoot][=neck, nape]" : {kentsi}
 | "[=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi}
 ! 
-| "[=kintsori][NRoot][=partridge.sp]" : {kintsori}
+| "[=kintsori][NRoot][=partridge.sp.]" : {kintsori}
 ! 
-| "[=kepya+n.m.][NRoot][=plant.sp]" : {kepya}
+| "[=kepya+n.m.][NRoot][=plant.sp. (ESP: bombonaje)]" : {kepya}
+| "[=kepea+n.m.][NRoot][=plant.sp. (ESP: bombonaje)]" : {kepea}
+| "[=kepiya+n.m.][NRoot][=plant.sp. (ESP: bombonaje)]" : {kepiya}
 ! 
 | "[=kipatsi+n.m.+poss@te.][NRoot][=ground, mud, earth; land]" : {kipatsi}
 ! word set:
