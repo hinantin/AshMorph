@@ -332,8 +332,8 @@ define NRootPRQin [
 ! 
 | "[=inchatomashi][NRoot][=scrub]" : {inchatomashi} 
 ! 
-| "[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container.to.store.sth. (cosho)]" : {inchatonaki} 
-| "[=intxatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container.to.store.sth. (cosho)]" : {intxatonaki} 
+| "[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {inchatonaki} 
+| "[=intxatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {intxatonaki} 
 ! 
 | "[=inchashi+n.m.][NRoot][=herb]" : {inchashi}
 | "[=intxashi][NRoot][=herb.with.therapeutic.properties]" : {intxashi}
@@ -344,7 +344,7 @@ define NRootPRQin [
 | "[=inkaare][NRoot][=lake, cocha (from.Quechua.qucha)]" : {inkaare}
 | "[=inkahare][NRoot][=lagoon]" : {inkahare}
 ! 
-| "[=inkite][NRoot][=sky]" : {inkite}
+| "[=inkite][NRoot][=sky; firmament]" : {inkite}
 ! 
 | "[=inki+n.m.][NRoot][=peanut (maní, botany.nm.: arachis.hipogagea)]" : {inki}
 ! 
