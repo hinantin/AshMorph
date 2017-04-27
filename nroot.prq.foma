@@ -369,14 +369,15 @@ define NRootPRQin [
 | "[=intatikiro+loc.][NRoot][=other.side]" : {intatikiro}
 ! 
 | "[=intaina+loc.][AdvRoot][=far.away]" : {intaina} ! N@->V ! revise if it belongs to this file 
+| "[=intaena+loc.][AdvRoot][=far.away]" : {intaena} ! N@->V ! revise if it belongs to this file 
 | "[=okaakini+loc.][AdvRoot][=in.close.proximity, closeby]" : {okaakini}
 ! 
 | "[=intakiro][AdvRoot][=inside]" : {intakiro}
 | "[=intsompoi][AdvRoot][=inside]" : {intsompoi}
-
+! 
 | "[=intakiro][AdvRoot][=outside]" : {intakiro}
 | "[=intakironta][AdvRoot][=outside]" : {intakironta}
-
+! 
 | "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
 | "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
