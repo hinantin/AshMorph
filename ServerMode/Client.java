@@ -62,8 +62,8 @@ public class Client {
           //System.err.println("jkjk.\n");
           System.err.println("Received: " + clientSentence);
           clientSentence = temp.analyze(clientSentence);
-          capitalizedSentence = clientSentence.toUpperCase() + '\n';
-          outToClient.writeBytes(capitalizedSentence);
+          //capitalizedSentence = clientSentence.toUpperCase() + '\n';
+          outToClient.writeBytes(clientSentence + '\n');
         }
     }
 
