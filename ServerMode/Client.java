@@ -12,6 +12,7 @@ import java.net.URL;
 import java.nio.charset.Charset;
 import java.security.MessageDigest;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Formatter;
 import java.util.Map;
 import java.util.regex.Matcher;
@@ -60,7 +61,7 @@ public class Client {
           clientSentence = inFromClient.readLine();
           //System.err.println("jkjk.\n");
           System.err.println("Received: " + clientSentence);
-          temp.analyze(clientSentence+"\n");
+          clientSentence = temp.analyze(clientSentence);
           capitalizedSentence = clientSentence.toUpperCase() + '\n';
           outToClient.writeBytes(capitalizedSentence);
         }
@@ -84,10 +85,13 @@ public class Client {
             if (!this.foma_file.canRead()) {
                 throw new Exception("lookup.script is not readable!");
             }
+            String[] array = new String[]{lookup_bin.getAbsolutePath(), "-f", foma_file.getAbsolutePath()};
+            System.out.println(Arrays.toString(array));
 
-            ProcessBuilder pb = new ProcessBuilder(new String[]{lookup_bin.getAbsolutePath(), "-f", foma_file.getAbsolutePath()});
+            ProcessBuilder pb = new ProcessBuilder(array);
+            pb.redirectErrorStream(true);
             Map<String, String> env = pb.environment();
-            env.put("CYGWIN", "nodosfilewarning");
+            //env.put("CYGWIN", "nodosfilewarning");
 
             this.lookup = pb.start();
 
@@ -98,13 +102,14 @@ public class Client {
         }
     }
 
-    public synchronized boolean analyze(String word) {
+    public synchronized String analyze(String word) {
         if ((this.lookup == null) || (this.fl_wr == null) || (this.fl_rd == null)) {
-            return false;
+            return "NO RESULT";
         }
-        if (getAnalysis(word)) {
-            return true;
-        }
+        return getAnalysis(word);
+        //if (getAnalysis(word)) {
+        //    return "";
+        //}
         //String lword = word.toLowerCase();
         //if ((!word.equals(lword)) && (isValidWord(lword))) {
         //    return true;
@@ -136,7 +141,7 @@ public class Client {
         //        return true;
         //    }
         //}
-        return false;
+        //return false;
     }
 
     public synchronized String[] getAlternatives(String word) {
@@ -226,30 +231,40 @@ public class Client {
 //        return err;
 //    }
 
-    public boolean getAnalysis(String word) {
-        System.err.println("PRUEBA01.\n");
-        word = word + "\n";
-        byte[] res = new byte[4];
-        try {
-            this.fl_wr.write(word.getBytes(Charset.forName("UTF-8")));
-            this.fl_wr.flush();
-            if (this.fl_rd.read(res, 0, 4) != 4) {
-                throw new Exception("Failed to read first 4 bytes from lookup!");
+    public String getAnalysis(String word) {
+        System.err.println("PRUEBA01: "+word+"\n");
+        //word = word + "\n";
+            try {
+                if (this.lookup != null) {
+                    BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(this.lookup.getOutputStream(), "UTF-8"));
+                    bw.write(word);
+                    bw.newLine();
+                    bw.close();
+                }
+            } catch (IOException e) {
+                System.out.println("Either couldn't read from the template file or couldn't write to the OutputStream.");
+                e.printStackTrace();
             }
-            int avail = this.fl_rd.available();
-            byte[] res2 = new byte[4 + avail];
-            System.arraycopy(res, 0, res2, 0, 4);
-            res = res2;
-            if (this.fl_rd.read(res2, 4, avail) != avail) {
-                throw new Exception("Failed to read first 4 bytes from lookup!");
-            } else {
-                String s = new String(res);
-                System.out.println("RES: " + s + "\n");
+            String currLine = null;
+            String ret = "";
+            try {
+                BufferedReader br = new BufferedReader(new InputStreamReader(this.lookup.getInputStream(), "UTF-8"));
+
+            try {
+                while ((currLine = br.readLine()) != null) {
+                    ret = ret + currLine;
+                    System.out.println(currLine);
+                }
+            } catch (IOException e) {
+                System.out.println("Couldn't read the output.");
+                e.printStackTrace();
             }
-        } catch (Exception ex) {
-            return false;
-        }
-        return (res[0] != 43) || (res[1] != 63) || (res[2] != 10);
+
+            } catch (IOException e) {
+                System.out.println("Either couldn't read from the template file or couldn't write to the OutputStream.");
+                e.printStackTrace();
+            }
+            return ret;
     }
 
     public static String makeHash(byte[] convertme) {
