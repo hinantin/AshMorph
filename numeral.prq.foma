@@ -1,0 +1,63 @@
+define NumeralPRQin [
+  "[=aparo][NumeralPRQ][=one]" : {aparo}
+| "[=aparoni][NumeralPRQ][=one]" : {aparoni} ! N@->V
+| "[=apani][NumeralPRQ][=one]" : {apani} 
+! 
+| "[=apite][NumeralPRQ][=two]" : {apite} ! N@->V
+! 
+| "[=mava][NumeralPRQ][=three]" : {mava} ! N@->V
+! 
+| "[=cuatro][NumeralPRQ][=four]" : {cuatro}
+| "[=apiteta][NumeralPRQ][=four]" : {apiteta}
+| "[=apitevakaye][NumeralPRQ][=four]" : {apitevakaye}
+| "[=apitekavakaye][NumeralPRQ][=four]" : {apitekavakaye}
+| "[=otsi][NumeralPRQ][=four]" : {otsi}
+! 
+| "[=apapokoroni][NumeralPRQ][=five]" : {apapokoroni}
+| "[=apapakoroni][NumeralPRQ][=five]" : {apapakoroni}
+| "[=koni][NumeralPRQ][=five]" : {koni}
+! 
+| "[=oihatzirori][NumeralPRQ][=six]" : {oihatzirori}
+| "[=shintapakerori][NumeralPRQ][=six]" : {shintapakerori}
+| "[=iko][NumeralPRQ][=six]" : {iko}
+! 
+| "[=siete][NumeralPRQ][=seven]" : {siete}
+| "[=yaantsiri][NumeralPRQ][=seven]" : {yaantsiri}
+| "[=shirinkapaichari][NumeralPRQ][=seven]" : {shirinkapaichari}
+| "[=tson][NumeralPRQ][=seven]" : {tson}
+! 
+| "[=ocho][NumeralPRQ][=eight]" : {ocho}
+| "[=pasini][NumeralPRQ][=eight]" : {pasini}
+| "[=tsoti][NumeralPRQ][=eight]" : {tsoti}
+! 
+| "[=pashini][NumeralPRQ][=nine]" : {pashini}
+| "[=yaatapakirori][NumeralPRQ][=nine]" : {yaatapakirori}
+| "[=tin][NumeralPRQ][=nine]" : {tin}
+! 
+| "[=apitevakaye][NumeralPRQ][=ten]" : {apitevakaye}
+| "[=oshikiri][NumeralPRQ][=ten]" : {oshikiri}
+| "[=tsa][NumeralPRQ][=ten]" : {tsa}
+! 
+| "[=dieciocho][NumeralPRQ][=eighteen]" : {dieciocho}
+! 
+| "[=apiteniri][NumeralPRQ][=twenty]" : {apiteniri}
+| "[=oshikiriri][NumeralPRQ][=twenty]" : {oshikiriri}
+! 
+| "[=mavaniri][NumeralPRQ][=thirty]" : {mavaniri}
+! 
+| "[=apitetaniri][NumeralPRQ][=forty]" : {apitetaniri}
+! 
+| "[=apapokoronini][NumeralPRQ][=fifty]" : {apapokoronini}
+! 
+| "[=oihatzironiri][NumeralPRQ][=sixty]" : {oihatzironiri}
+! 
+| "[=yantsiniri][NumeralPRQ][=seventy]" : {yantsiniri}
+! 
+| "[=ochoniri][NumeralPRQ][=eighty]" : {ochoniri}
+! 
+| "[=pashiniri][NumeralPRQ][=ninety]" : {pashiniri}
+! 
+| "[=osheki][NumeralPRQ][=a.hundred]" : {osheki}
+| "[=oshikiriri_oshikini][NumeralPRQ][=a.hundred]" : {oshikiriri_oshikini}
+];
+
