@@ -1383,8 +1383,8 @@ define NRootPRQin [
 ! 
 | "[=pochoki][NRoot][=dream]" : {pochoki}
 ! 
-| "[=poe][NRoot][=tuber.sp. (yacón, botany.id.: pachyrizus.erosus)]" : {poe}
-| "[=poi][NRoot][=tuber.sp. (yacón, botany.id.: pachyrizus.erosus)]" : {poi}
+| "[=poe][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poe}
+| "[=poi][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poi}
 ! 
 | "[=poko+m.][NRoot][=yellow.and.black.worm.sp.]" : {poko}
 ! 
@@ -1600,7 +1600,13 @@ define NRootPRQin [
 | "[=sheteri+m.][NRoot][=one-eyed, blind.in.one.eye]" : {sheteri}
 | "[=shetero+n.m.][NRoot][=one-eyed, blind.in.one.eye]" : {shetero}
 ! 
-| "[=shevantoki][NRoot][=cape.gooseberry (aguaymanto, from.Quechua.awaymantu, uvilla, sci.nm.: physalis.peruviana)]" : {shevantoki}
+# cape.gooseberry (aguaymanto, from.Quechua.awaymantu, uvilla, sci.nm.: physalis.peruviana
+| "[=shevanto+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {shevanto}
+! 
+| "[=sevantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {sevantoki}
+| "[=shevantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {shevantoki}
+| "[=shevantyoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {shevantyoki}
+| "[=hyivantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {hyivantoki}
 ! 
 !| "[=shi][NRoot][=leaf]" : {shi} ! oishi = leaf?
 | "[=shiira][NRoot][=plantain.sp. (banana.like.fruit.that.needs.cooking)]" : {shiira}
