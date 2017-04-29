@@ -79,9 +79,6 @@ define NounToVerbPRQin [
 | "[=antaro+n.m.][AdjRoot][=big; mature]" : {antaro} ! N@->V
 | "[=antearo+n.m.][AdjRoot][=big; mature]" : {antearo} ! N@->V
 | "[=antyaro+n.m.][AdjRoot][=big; mature]" : {antyaro} ! N@->V
-| "[=aparoni][AdjRoot][=one]" : {aparoni} ! N@->V
-| "[=apite][AdjRoot][=two]" : {apite} ! N@->V
-| "[=mava][AdjRoot][=three]" : {mava} ! N@->V
 | "[=kenkivari+m.][AdjRoot][=old]" : {kenkivari} ! N@->V
 | "[=kenkevari+m.][AdjRoot][=old]" : {kenkevari} ! N@->V
 | "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari} ! N@->V
@@ -92,4 +89,7 @@ define NounToVerbPRQin [
 | "[=pisaro+n.m.][AdjRoot][=old]" : {pisaro} ! N@->V
 | "[=pisharo+n.m.][AdjRoot][=old]" : {pisharo} ! N@->V
 | "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V
+| "[=aparoni][NumeralPRQ][=one]" : {aparoni} ! N@->V
+| "[=apite][NumeralPRQ][=two]" : {apite} ! N@->V
+| "[=mava][NumeralPRQ][=three]" : {mava} ! N@->V
 ];
