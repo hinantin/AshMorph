@@ -756,10 +756,13 @@ define VRootPRQin [
 | "[=pos][VRoot][=to.hit, to.beat, to.crash]" : {pos}
 | "[=posh][VRoot][=to.hit]" : {posh}
 ! 
-| "[=posa][VRoot][=to.cook]" : {posa}
+| "[=posa][VRoot][=to.cook; to.roast]" : {posa}
+| "[=poha][VRoot][=to.roast]" : {poha}
 ! 
 | "[=posaank][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {posaank}
 | "[=vosaank][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {vosaank}
+! 
+| "[=poshini][VRoot][=to.be.tasty]" : {poshini}
 ! 
 | "[=potso][VRoot][=to.dye, to.paint, to.rub.annatto]" : {potso}
 ! 
