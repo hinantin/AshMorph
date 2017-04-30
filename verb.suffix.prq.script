@@ -214,11 +214,24 @@ define V=S=STAT [
 | "[--][-acha][+STAT]" : "@EP"[{acha}]
 # 
 !| "[--][-ni][+STAT]" : "@EP"[{ni}]
-! -------- TEMPORAL STATIVITY MARKERS ------
+# -------- TEMPORAL STATIVITY MARKERS ------
 | "[--][-aints][+STAT]" : "@EP"[{aints}]
 | "[--][-aits][+STAT]" : "@EP"[{aits}]
 | "[--][-aintsi][+STAT]" : "@EP"[{aintsi}]
 | "[--][-aentsi][+STAT]" : "@EP"[{aentsi}]
+];
+      
+define V=S=STATT [
+  "[--][-aintsi][+STAT.T]" : "@EP"[{aintsi}]
+];
+      
+define V=S=STATIPRF [
+  "[--][-aintsi][+STAT.IPRF]" : "@EP"[{aintsi}]
+| "[--][-atsi][+STAT.IPRF]" : "@EP"[{atsi}]
+];
+      
+define V=S=STATPRF [
+  "[--][-aintsi][+STAT.PRF]" : "@EP"[{aintsi}]
 ];
       
 define V=S=Q [
@@ -483,10 +496,6 @@ define V=S=INCH [
 !  "[--][+flat]" : "@EP"[{miront}]
 !];
       
-define V=S=STATT [
-  "[--][-aintsi][+STAT.T]" : "@EP"[{aintsi}]
-];
-      
 define V=S=REALEMPH [
   "[--][-tzitzi][+REAL.EMPH]" : "@EP"[{tzitzi}]
 ];
@@ -510,15 +519,6 @@ define V=S=IRRREFL [
       
 define V=S=almost [
   "[--][-tya+almost]" : "@EP"[{tya}]
-];
-      
-define V=S=STATIPRF [
-  "[--][-aintsi][+STAT.IPRF]" : "@EP"[{aintsi}]
-| "[--][-atsi][+STAT.IPRF]" : "@EP"[{atsi}]
-];
-      
-define V=S=STATPRF [
-  "[--][-aintsi][+STAT.PRF]" : "@EP"[{aintsi}]
 ];
       
 # action finished a long time ago
