@@ -362,6 +362,7 @@ define V=S=once [
       
 define V=S=REP [
   "[--][-a][+REP]" : "@EP"[{a}]
+| "[--][-aa][+REP]" : "@EP"[{aa}]
 ];
       
 define V=S=early [
