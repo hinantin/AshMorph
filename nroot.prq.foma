@@ -1398,10 +1398,13 @@ define NRootPRQin [
 | "[=poe][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poe}
 | "[=poi][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poi}
 ! 
+
+! 
 | "[=poitoki][NRoot][=cocona.sp.; edible.fruit.variety]" : {poitoki}
+| "[=poitoroki+n.m.][NRoot][=cocona.sp.; edible.fruit.variety]" : {poitoroki}
 | "[=poetoki][NRoot][=cocona.sp.; edible.fruit.variety]" : {poetoki}
 | "[=poitoro][NRoot][=cocona.sp.; edible.fruit.variety]" : {poitoro}
-| "[=popooki][NRoot][=cocona.sp.; edible.fruit.variety]" : {popooki}
+| "[=popooki+n.m.][NRoot][=cocona.sp.; edible.fruit.variety]" : {popooki}
 ! 
 | "[=poko+m.][NRoot][=yellow.and.black.worm.sp.]" : {poko}
 ! 
@@ -1409,6 +1412,8 @@ define NRootPRQin [
 ! 
 | "[=poonkito][NRoot][=nettle.sp.with.small.thorns (ishanga)]" : {poonkito}
 | "[=poonketo][NRoot][=nettle.sp.with.small.thorns (ishanga)]" : {poonketo}
+! 
+| "[=pooronto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (porotuango)]" : {pooronto}
 ! 
 | "[=ponkaro][NRoot][=bejuco]" : {ponkaro}
 ! 
