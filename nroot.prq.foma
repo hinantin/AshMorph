@@ -1412,8 +1412,8 @@ define NRootPRQin [
 ! 
 | "[=pompori][NRoot][=owl.sp.]" : {pompori}
 ! 
-| "[=poonkito][NRoot][=nettle.sp.with.small.thorns (ishanga)]" : {poonkito}
-| "[=poonketo][NRoot][=nettle.sp.with.small.thorns (ishanga)]" : {poonketo}
+| "[=poonkito][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonkito}
+| "[=poonketo][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonketo}
 ! 
 | "[=pooronto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (porotuango)]" : {pooronto}
 | "[=poovonto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (porotuango)]" : {poovonto}
@@ -1432,12 +1432,16 @@ define NRootPRQin [
 ! 
 | "[=pori+n.m.+inal.][NRoot][=leg; thigh]" : {pori}
 ! 
+| "[=porita][NRoot][=small.hen.sp.]" : {porita}
+! 
 | "[=poro][NRoot][=face]" : {poro}
 | "[=poo][NRoot][=face]" : {poo}
 | "[=voro][NRoot][=face]" : {voro}
 ! 
 | "[=poroki][NRoot][=bunch; plant.sp. (achotillo)]" : {poroki}
 | "[=poorooki+n.m.][NRoot][=tree.sp.]" : {poorooki}
+! 
+| "[=poroniya+n.m.][NRoot][=banana.sp.]" : {poroniya}
 ! 
 | "[=potsitari+m.][NRoot][=black]" : {potsitari}
 | "[=potsitaro+n.m.][NRoot][=black]" : {potsitaro}
