@@ -55,6 +55,8 @@ define NRootESin [
 ! 
 | "[=soles+NCMP000][NRoot][=Peruvian.currency]" : {soles} 
 ! 
+| "[=sopa+NCFS000+poss@te][NRoot][=soup]" : {sopa} 
+! 
 | "[=tambor+m.][NRoot][=drum]" : {tambor} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tamboo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tamboro} ! N@->V
