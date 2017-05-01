@@ -22,6 +22,7 @@ define N=S=PL [
 | "[--][-payeni][Num][+PL]" : {payeni} 
 | "[--][-payeeni][Num][+PL]" : {payeeni} 
 | "[--][-paeni][Num][+PL]" : {paeni} 
+| "[--][-paini][Num][+PL]" : {paini} 
 | "[--][-pe][Num][+PL]" : {pe} 
 | "[--][-pee][Num][+PL]" : {pee} 
 ];
