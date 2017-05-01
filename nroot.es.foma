@@ -70,6 +70,7 @@ define NRootESin [
 | "[=Jerónimo][NP][=Jerónimo]" : {heronimo} 
 | "[=San][NP][=Saint]" : {san} 
 | "[=zapato+NCMS000][NP][=shoe]" : {zapato} 
+| "[=tambo][NRootQU][=Incan.structure]" : {tambo}
 ];
 
 # 
