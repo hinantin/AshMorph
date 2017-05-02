@@ -1528,8 +1528,12 @@ define NRootPRQin [
 ! 
 | "[=sheshetzi][NRoot][=bird.sp.]" : {sheshetzi}
 ! 
+| "[=shimiro+n.m.][NRoot][=tree.sp.with.a.spicy.bark]" : {shimiro}
+! 
 | "[=shimore+n.m.+inal.][NRoot][=saliva, spit(tle)]" : {shimore}
 | "[=shimori+n.m.+inal.][NRoot][=saliva, spit(tle)]" : {shimori}
+! 
+| "[=shimpana+n.m.][NRoot][=tree.sp.]" : {shimpana}
 ! 
 | "[=shimpiri][NRoot][=cultigen/edible.plant.sp. (taro, sci.nm.: alocasia)]" : {shimpiri}
 ! 
@@ -1703,6 +1707,10 @@ define NRootPRQin [
 | "[=shimpere+n.m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap]" : {shimpere}
 | "[=shimpiri+n./m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap; fish.trap.made.out.of.reed/carrizo/savoro.or.humiro/kompiro (used.to.block.water.at.night)]" : {shimpiri}
 | "[=simpiri+n.m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap]" : {simpiri}
+! 
+| "[=shimperenkotzi+m.][NRoot][=falcon]" : {shimperenkotzi}
+| "[=shimpirinkotzi+m.][NRoot][=falcon]" : {shimpirinkotzi}
+| "[=shimperinkotzi+m.][NRoot][=falcon]" : {shimperinkotzi}
 ! 
 | "[=shimpityoki][NRoot][=eyelash]" : {shimpityoki}
 | "[=shimpoki][NRoot][=horsefly]" : {shimpoki}
