@@ -1231,7 +1231,7 @@ define NRootPRQin [
 | "[=paante+n.m.+inal.][NRoot][=mouth]" : {paante}
 | "[=panti+n.m.+inal.][NRoot][=mouth]" : {panti}
 ! 
-| "[=pantyo+m.][NRoot][=wild.duck.sp.]" : {pantyo}
+| "[=pantyo+m.][NRoot][=wild.duck.sp.; least.grebe (sci.nm.: podiceps.dominicus)]" : {pantyo}
 ! 
 | "[=pantsa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsa}
 | "[=pantsaa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsaa}
@@ -1504,6 +1504,8 @@ define NRootPRQin [
 ! 
 | "[=saari+m.][NRoot][=opossum]" : {saari}
 ! 
+| "[=saasaatzi][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus)]" : {saasaatzi}
+! 
 | "[=sahanti][NRoot][=heron.sp. (sci.nm.: butorides.striatus)]" : {sahanti}
 ! 
 | "[=saimpiki][NRoot][=firewood, dry.twigs]" : {saimpiki}
@@ -1705,6 +1707,8 @@ define NRootPRQin [
 ! 
 | "[=shiiri][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: ictinia.plumbea)]" : {shiiri}
 ! 
+| "[=shiirintzi][NRoot][=undulated.tinamou (sci.nm.: crypturellus.undulatus)]" : {shiirintzi}
+! 
 | "[=shiri][NRoot][=tobacco.leaf; tobacco]" : {shiri} ! N@->V
 | "[=sheri][NRoot][=tobacco.leaf; tobacco]" : {sheri} ! N@->V
 | "[=seri][NRoot][=tobacco.leaf; tobacco]" : {seri} ! N@->V
@@ -1894,7 +1898,9 @@ define NRootPRQin [
 ! 
 | "[=tiya+inal.][NRoot][=excrement, feces]" : {tiya}
 ! 
-| "[=tsimi+n.m.+poss@ne.][NRoot][=macaw.and.parrot.clay.lick (qullpa, colpa); clean.water.well.where.animals.go.to.drink]" : {tsimi}
+| "[=tsimi+n.m.+poss@ne.][NRoot][=macaw.and.parrot.clay.lick (qullpa, colpa); clean.water.well.where.animals.go.to.drink]" : {tsimi} 
+! 
+| "[=tsimperi][NRoot][=neotropic.cormorant (sci.nm.: phalacrocorax.olivaceus)]" : {tsimperi} 
 ! 
 | "[=tenkarentsi][NRoot][=nocturnal.fishing.with.a.trap (comunal/family.activity)]" : {tenkarentsi}
 | "[=tsiaanatantsi][NRoot][=fish.trap.woven.like.a.mat]" : {tsiaanatantsi}
@@ -2059,6 +2065,8 @@ define NRootPRQin [
 | "[=shonkiri][NRoot][=big.partridge.sp.]" : {shonkiri}
 ! 
 | "[=shonkiriri][NRoot][=gray.tinamou (sci.nm.: tinamus.tao)]" : {shonkiriri}
+! 
+| "[=shoonchotzi][NRoot][=variegated.tinamou (crypturellus.variegatus)]" : {shoonchotzi}
 ! 
 | "[=txero][NRoot][=climbing_plant/vine.sp.]" : {txero}
 ! 
