@@ -109,6 +109,8 @@ define NRootPRQin [
 | "[=ao+n.m.+inal.][NRoot][=road, trail]" : {ao}
 | "[=aa+n.m.+inal.][NRoot][=road, trail]" : {aa}
 ! 
+| "[=avo][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus)]" : {avo}
+! 
 | "[=chaari][NRoot][=dark.water]" : {chaari}
 ! 
 | "[=chamanto+m.][NRoot][=woodpecker.sp.]" : {chamanto}
@@ -734,6 +736,10 @@ define NRootPRQin [
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
 | "[=kitsoki][NRoot][=egg]" : {kitsoki}
 | "[=kitzi+n.m.+inal.][NRoot][=leg]" : {kitzi}
+! 
+| "[=koakiti][NRoot][=small.white-necked.sparrow-hawk.sp.; bat.falcon (falco.rutigularis)]" : {koakiti}
+| "[=koakitzi][NRoot][=small.white-necked.sparrow-hawk.sp.; bat.falcon (falco.rutigularis)]" : {koakitzi}
+! 
 | "[=koka+n.m.][NRoot][=coca (QUZ: kuka)]" : {koka}
 ! 
 | "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {koki}
@@ -840,6 +846,8 @@ define NRootPRQin [
 | "[=makako][NRoot][=macaque]" : {makako}
 ! 
 | "[=makavari+m.][NRoot][=bird.sp.; black.eagle.sp.that.feeds.on.snakes (sci.nm.: leucopternis.albicollis)]" : {makavari}
+! 
+| "[=maakavatzi][NRoot][=laughing.falcon (herpetotheres.cachinnans)]" : {maakavatzi}
 ! 
 | "[=makota][NRoot][=reptile.sp., lizard.sp., chameleon.sp.]" : {makota}
 | "[=shakota][NRoot][=reptile.sp., lizard.sp., chameleon.sp.]" : {shakota}
@@ -1715,7 +1723,7 @@ define NRootPRQin [
 | "[=shire+n.m.+inal.][NRoot][=spirit, soul]" : {shire}
 | "[=shiree+n.m.+inal.][NRoot][=spirit, soul]" : {shiree}
 ! 
-| "[=shiiri][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: ictinia.plumbea)]" : {shiiri}
+| "[=shiiri][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: ictinia.plumbea); barred.forest-falcon (micrastur.ruficollis)]" : {shiiri}
 ! 
 | "[=shiirintzi][NRoot][=undulated.tinamou (sci.nm.: crypturellus.undulatus)]" : {shiirintzi}
 ! 
@@ -1905,6 +1913,8 @@ define NRootPRQin [
 | "[=tzirootzi+n.m.][NRoot][=palm.tree.sp. (huicungo)]" : {tzirootzi}
 ! 
 | "[=tziso][NRoot][=greater.yellow-headed.vulture (sci.nm.: cathartes.melambrotus)]" : {tziso}
+! 
+| "[=tzisoniro][NRoot][=falcon.sp., black.caracara (sci.nm.: daptrius.ater)]" : {tzisoniro}
 ! 
 | "[=tsirishi][NRoot][=person's.name]" : {tsirishi}
 ! 
