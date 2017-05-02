@@ -590,6 +590,9 @@ define NRootPRQin [
 | "[=karava][NRoot][=river.frog.sp.]" : {karava}
 | "[=kaava][NRoot][=river.frog.sp.]" : {kaava}
 ! 
+| "[=karento+n.m.][NRoot][=liana.sp. (ESP: bejuco, madreselva)]" : {karento}
+| "[=kainto+n.m.][NRoot][=liana.sp. (ESP: bejuco, madreselva)]" : {kainto}
+! 
 | "[=kashekari+m.][NRoot][=jaguar; tiger]" : {kashekari}
 ! 
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
