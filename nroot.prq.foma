@@ -661,6 +661,7 @@ define NRootPRQin [
 | "[=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi}
 ! 
 | "[=kintsori][NRoot][=partridge.sp.]" : {kintsori}
+| "[=kentsori][NRoot][=great.tinamou (sci.nm.: tinamus.major)]" : {kentsori}
 ! 
 | "[=kepya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepya}
 | "[=kepea+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepea}
@@ -1499,6 +1500,8 @@ define NRootPRQin [
 ! 
 | "[=rishi+m.+inal.][NRoot][=tail]" : {rishi} ! to be checked 
 ! 
+| "[=saankotzi][NRoot][=cinereous.tinamou (sci.nm.: crypturellus.cinereus)]" : {saankotzi}
+! 
 | "[=saari+m.][NRoot][=opossum]" : {saari}
 ! 
 | "[=sahanti][NRoot][=heron.sp. (sci.nm.: butorides.striatus)]" : {sahanti}
@@ -1585,6 +1588,7 @@ define NRootPRQin [
 ! 
 | "[=sonkaari+m.][NRoot][=partridge.sp. (poqueadora)]" : {sonkaari}
 | "[=sonkaagari+m.][NRoot][=partridge.sp. (poqueadora)]" : {sonkaagari}
+| "[=sonkaari+m.][NRoot][=white-throated.tinamou (sci.nm.: tinamus.guttatus)]" : {sonkaari}
 ! 
 | "[=sontookinti][NRoot][=cotera.snake]" : {sontookinti}
 ! 
@@ -2053,6 +2057,8 @@ define NRootPRQin [
 | "[=shoiriki][NRoot][=tuber.sp. (oca, from.Quechua.Uqa, sci.nm.: calatea.allouia, oxalis.tuberosa)]" : {shoiriki}
 ! 
 | "[=shonkiri][NRoot][=big.partridge.sp.]" : {shonkiri}
+! 
+| "[=shonkiriri][NRoot][=gray.tinamou (sci.nm.: tinamus.tao)]" : {shonkiriri}
 ! 
 | "[=txero][NRoot][=climbing_plant/vine.sp.]" : {txero}
 ! 
