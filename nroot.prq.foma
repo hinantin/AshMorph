@@ -576,6 +576,8 @@ define NRootPRQin [
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 ! 
+| "[=kairi+m.][NRoot][=tree-climbing.animal.sp.similar.in.apperance.to.an.anteater (shivi)]" : {kairi}
+! 
 | "[=kantiri+n.m.][NRoot][=basket]" : {kantiri}
 | "[=kantziri+n.m.][NRoot][=basket]" : {kantziri}
 ! 
@@ -1530,6 +1532,9 @@ define NRootPRQin [
 | "[=shesheti][NRoot][=heron.sp. (shansho)]" : {shesheti}
 ! 
 | "[=sheshetzi][NRoot][=bird.sp.]" : {sheshetzi}
+! 
+| "[=sheya][NRoot][=palm.tree.sp. (ungurahui)]" : {sheya} ! @CMP 
+| "[=shaa][NRoot][=palm.tree.sp. (ungurahui)]" : {shaa} ! @CMP 
 ! 
 | "[=shimiro+n.m.][NRoot][=tree.sp.with.a.spicy.bark]" : {shimiro}
 ! 
