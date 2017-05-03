@@ -835,6 +835,8 @@ define NRootPRQin [
 | "[=kovitzi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovitzi}
 | "[=kovi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovi}
 ! 
+| "[=koteri][NRoot][=gray-necked.wood.rail (sci.nm.: aramides.jacanca)]" : {koteri}
+! 
 | "[=kotsiro][NRoot][=machete, knife]" : {kotsiro}
 ! 
 | "[=ma][NRoot][=clothes]" : {ma}
@@ -1308,6 +1310,8 @@ define NRootPRQin [
 | "[=pataro+m.][NRoot][=small.squirrel.sp.]" : {pataro}
 | "[=patavo+m.][NRoot][=small.squirrel.sp.]" : {patavo}
 ! 
+| "[=patara][NRoot][=sungrebe (sci.nm.: heliornis.fulica)]" : {patara}
+! 
 | "[=pavo][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)]" : {pavo}
 | "[=pavoo][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)]" : {pavoo}
 | "[=paro][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paro}
@@ -1680,8 +1684,8 @@ define NRootPRQin [
 | "[=shashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones)]" : {shashintzi}
 | "[=sashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones)]" : {sashintzi}
 | "[=sashinti+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones)]" : {sashinti}
-| "[=soisointzi+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {soisointzi}
-| "[=soisoitzi+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {soisoitzi}
+| "[=soisointzi+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche); purple.gallinule (sci.nm.: porphyrula.martinica)]" : {soisointzi}
+| "[=soisoitzi+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche); purple.gallinule (sci.nm.: porphyrula.martinica)]" : {soisoitzi}
 | "[=naashiintsatziri+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {naashiintsatziri}
 | "[=naashiintsatiri+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {naashiintsatiri}
 ! 
@@ -1836,6 +1840,8 @@ define NRootPRQin [
 ! 
 | "[=sontoki][NRoot][=wide.open.eye]" : {sontoki}
 | "[=soraro][NRoot][=police]" : {soraro} !?
+! 
+| "[=sorintzi][NRoot][=sunbittern (sci.nm.: eurypygia.helias)]" : {sorintzi} 
 ! 
 | "[=soo+m.][NRoot][=sloth.sp. (Spanish.loan.word: zorro)]" : {soo}
 | "[=soro+m.][NRoot][=sloth.sp. (Spanish.loan.word: zorro)]" : {soro}
@@ -2179,6 +2185,8 @@ define NRootPRQin [
 | "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
 ! 
 | "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]" : {vitzi}
+! 
+| "[=voempo][NRoot][=collared.plover (sci.nm.: charadrius.collaris)]" : {voempo}
 ! 
 | "[=yaaki+m.+inal.][NRoot][=meat.brot (chilcano)]" : {yaaki}
 | "[=yaaki+n.m.+inal.][NRoot][=vegetable.soup; tear]" : {yaaki}
