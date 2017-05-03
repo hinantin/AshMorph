@@ -574,7 +574,9 @@ define NRootPRQin [
 ! 
 | "[=kanai][NRoot][=tree.sp.]" : {kanai}
 ! 
-| "[=kanari][NRoot][=common.piping-guan (sci.nm.: aburria.pipile)]" : {kanari}
+| "[=kanari+poss@ti.][NRoot][=common.piping-guan (sci.nm.: aburria.pipile), wild.turkey.sp. (ESP: pava.del.monte)]" : {kanari}
+! 
+| "[=kanarinke][NRoot][=venomous.viper.sp.]" : {kanarinke}
 ! 
 | "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
