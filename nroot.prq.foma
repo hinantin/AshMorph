@@ -1052,6 +1052,8 @@ define NRootPRQin [
 | "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ESP: alcanfor)]" : {metasankari} ! compound 
 | "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ESP: alcanfor)]" : {mitasankari} ! compound 
 ! 
+| "[=mitiri][NRoot][=dusky-headed.parakeet (sci.nm.: aratinga.weddelli)]" : {mitiri}
+! 
 | "[=moito][NRoot][=navel]" : {moito}
 ! 
 | "[=mora][NRoot][=mule]" : {mora}
@@ -1679,6 +1681,8 @@ define NRootPRQin [
 | "[=satonkaaro+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaaro}
 | "[=satonkaro+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaro}
 | "[=santonkaaro][NRoot][=tatoo.made.with.rubber.charcoal]" : {santonkaaro}
+! 
+| "[=santero][NRoot][=red-bellied.macaw (sci.nm.: ara.manilata)]" : {santero}
 ! 
 | "[=santira][NRoot][=watermelon (botany.sp.: citrullus.sp.)]" : {santira}
 ! 
