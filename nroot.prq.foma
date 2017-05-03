@@ -507,7 +507,7 @@ define NRootPRQin [
 | "[=tsiya+m.][NRoot][=bird.sp. (chicua)]" : {tsiya}
 | "[=tsiyaa+m.][NRoot][=bird.sp. (chicua)]" : {tsiyaa}
 ! 
-| "[=tsityoki+m.][NRoot][=parakeet.sp. (pihuicho)]" : {tsityoki}
+| "[=tsityoki+m.][NRoot][=parakeet.sp. (pihuicho); blue-winged.parakeet (sci.nm.: forpus.xantopterigius)]" : {tsityoki}
 ! 
 | "[=tsiva+m.][NRoot][=tree.sp., copal.tree.sp.]" : {tsiva}
 ! 
@@ -598,6 +598,8 @@ define NRootPRQin [
 | "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+! 
+| "[=kaniro][NRoot][=white-bellied.parrot (sci.nm.: pionites.leucogester)]" : {kaniro}
 ! 
 | "[=kairi+m.][NRoot][=tree-climbing.animal.sp.similar.in.apperance.to.an.anteater (shivi)]" : {kairi}
 ! 
