@@ -779,6 +779,8 @@ define NRootPRQin [
 | "[=koakiti][NRoot][=small.white-necked.sparrow-hawk.sp.; bat.falcon (falco.rutigularis)]" : {koakiti}
 | "[=koakitzi][NRoot][=small.white-necked.sparrow-hawk.sp.; bat.falcon (falco.rutigularis)]" : {koakitzi}
 ! 
+| "[=koaritotzi][NRoot][=collared.puffbird (sci.nm.: bucco.capensis)]" : {koaritotzi}
+! 
 | "[=kocheri][NRoot][=tree.sp.]" : {kocheri}
 ! 
 | "[=koka+n.m.][NRoot][=coca (QUZ: kuka)]" : {koka}
@@ -860,6 +862,8 @@ define NRootPRQin [
 | "[=kovantsi][NRoot][=tree/plant.sp. (planta.del.pájaro.bobo, bobinsana.grande)]" : {kovantsi}
 | "[=kotzivatse][NRoot][=tree/plant.sp. (bobinsana.chica)]" : {kotzivatse}
 ! 
+| "[=kovinko][NRoot][=white-necked.puffbird (sci.nm.: notharcus.macrorhinchus)]" : {kovinko}
+! 
 ! +inal.?
 | "[=kovitsi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovitsi}
 | "[=koviti+n.m.+poss@te.][NRoot][=clay.pot]" : {koviti}
@@ -899,6 +903,8 @@ define NRootPRQin [
 ! 
 | "[=makota][NRoot][=reptile.sp., lizard.sp., chameleon.sp.]" : {makota}
 | "[=shakota][NRoot][=reptile.sp., lizard.sp., chameleon.sp.]" : {shakota}
+! 
+| "[=makoso][NRoot][=chestnut-capped.puffbird (sci.nm.: bucco.macrodactylus)]" : {makoso}
 ! 
 | "[=maaniri+n.m.][NRoot][=black.cinnamon.sp., medicinal.tree.sp.]" : {maaniri}
 ! 
@@ -1098,6 +1104,8 @@ define NRootPRQin [
 | "[=motzi+n.m.+inal.][NRoot][=tummy, belly]" : {motzi}
 ! 
 | "[=motya][NRoot][=stomach, belly]" : {motya}
+! 
+| "[=nainaintzi][NRoot][=white-chinned.jacamar (sci.nm.: galbula.tombacca)]" : {nainaintzi}
 ! 
 | "[=nana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {nana}
 | "[=naana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {naana}

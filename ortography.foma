@@ -27,6 +27,7 @@
       define BReplacement1 [ {v} (->) {b} || _ Vowels ];
       define BReplacement2 [ {nv} (->) {mb} || _ Vowels ];
       define WReplacement [ {v} (->) {w} || _ Vowels ];
+      define HUReplacement [ {v} (->) {hu} || _ [i] ]; ! kuhuinco -> kuvinco
 
       define PIReplacement [ {py} (->) {pi} || _ [a|á] ];
       define KIReplacement [ {ky} (->) {ki} || _ [a|á] ,, {ky} (->) {qy} || _ [a|á] ]; 
@@ -55,7 +56,7 @@
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement .o. QYReplacement 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 
-.o. BReplacement1 .o. BReplacement2 .o. WReplacement 
+.o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 
