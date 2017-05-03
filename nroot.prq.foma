@@ -894,8 +894,8 @@ define NRootPRQin [
 ! 
 | "[=mamori+m.][NRoot][=fish.sp., sabalo]" : {mamori}
 ! 
-| "[=mamaro+m.][NRoot][=owl, demonic.bird]" : {mamaro}
-| "[=mamavo+m.][NRoot][=owl, demonic.bird]" : {mamavo}
+| "[=mamaro+m.][NRoot][=owl, demonic.bird; great.horned.owl (sci.nm.: bubo.virginianus)]" : {mamaro}
+| "[=mamavo+m.][NRoot][=owl, demonic.bird; great.horned.owl (sci.nm.: bubo.virginianus)]" : {mamavo}
 ! 
 | "[=mampitsa+n.m.][NRoot][=thread; cotton.thread]" : {mampitsa}
 | "[=mampetsa+n.m.][NRoot][=thread; cotton.thread]" : {mampetsa}
@@ -1064,6 +1064,8 @@ define NRootPRQin [
 ! 
 | "[=moito][NRoot][=navel]" : {moito}
 ! 
+| "[=moimoitzi][NRoot][=smooth-billed.ani (sci.nm.: crotophaga.ani)]" : {moimoitzi}
+! 
 | "[=mora][NRoot][=mule]" : {mora}
 ! 
 | "[=moraina][NRoot][=greater.ani (sci.nm.: crotophaga.major)]" : {moraina}
@@ -1131,6 +1133,8 @@ define NRootPRQin [
 | "[=noonke+m.][NRoot][=boa]" : {noonke}
 ! 
 | "[=nonatoto][NRoot][=sister.in.law (kin.of.female)]" : {nonatoto}
+! 
+| "[=noshikari][NRoot][=crested.owl (sci.nm.: lophostrix.cristata)]" : {noshikari}
 ! 
 | "[=ochera][NRoot][=shore]" : {ochera}
 | "[=ocheraa][NRoot][=shore]" : {ocheraa}
@@ -1489,6 +1493,8 @@ define NRootPRQin [
 ! 
 | "[=pompori][NRoot][=owl.sp.]" : {pompori}
 ! 
+| "[=poompootzi][NRoot][=tawny-bellied.owl]" : {poompootzi}
+! 
 | "[=poonkito][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonkito}
 | "[=poonketo][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonketo}
 ! 
@@ -1723,9 +1729,9 @@ define NRootPRQin [
 ! 
 | "[=sharo][NRoot][=agouti]" : {sharo}
 ! 
-| "[=shashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones)]" : {shashintzi}
-| "[=sashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones)]" : {sashintzi}
-| "[=sashinti+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones)]" : {sashinti}
+| "[=shashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones); red-billed.ground-cuckoo (sci.nm.: neomorphus.pucheranii)]" : {shashintzi}
+| "[=sashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones); red-billed.ground-cuckoo (sci.nm.: neomorphus.pucheranii)]" : {sashintzi}
+| "[=sashinti+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones); red-billed.ground-cuckoo (sci.nm.: neomorphus.pucheranii)]" : {sashinti}
 | "[=soisointzi+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche); purple.gallinule (sci.nm.: porphyrula.martinica)]" : {soisointzi}
 | "[=soisoitzi+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche); purple.gallinule (sci.nm.: porphyrula.martinica)]" : {soisoitzi}
 | "[=naashiintsatziri+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {naashiintsatziri}
