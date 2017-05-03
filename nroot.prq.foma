@@ -174,6 +174,8 @@ define NRootPRQin [
 | "[=chera+n.m.+inal.][NRoot][=lip, thick.lip]" : {chera}
 | "[=tsera+n.m.+inal.][NRoot][=lip, thick.lip]" : {tsera}
 ! 
+| "[=cherepito][NRoot][=ringed.kingfisher (sci.nm.: ceryle.torquata)]" : {cherepito}
+! 
 | "[=cheroki][NRoot][=rusty.faced.parrot (sci.nm.: hepalopsittece.amazonina)]" : {cheroki}
 ! 
 | "[=chevo+inal.][NRoot][=branch]" : {chevo}
@@ -289,6 +291,8 @@ define NRootPRQin [
 ! 
 | "[=hananeki][NRoot][=child]" : {hananeki}
 ! 
+| "[=haachotzi][NRoot][=black-tailed.trogon (sci.nm.: trogon.melanurus)]" : {haachotzi}
+! 
 | "[=haavari+m.][NRoot][=warm (prbly.liquid)]" : {haavari}
 | "[=saavaari+m.][NRoot][=warm (prbly.liquid)]" : {saavaari}
 | "[=saavaaro+n.m.][NRoot][=warm (prbly.liquid)]" : {saavaaro}
@@ -348,6 +352,8 @@ define NRootPRQin [
 | "[=heto+m.][NRoot][=spider]" : {heto}
 | "[=hetoo+m.][NRoot][=spider]" : {hetoo}
 | "[=hito+m.][NRoot][=spider]" : {hito}
+! 
+| "[=hiritzi][NRoot][=blue-crowned.motmot (sci.nm.: momotus.momota)]" : {hiritzi}
 ! 
 | "[=hetari+m.][NRoot][=armored.catfish.sp.]" : {hetari}
 | "[=hitari+m.][NRoot][=armored.catfish.sp.]" : {hitari}
@@ -430,6 +436,8 @@ define NRootPRQin [
 | "[=katonka][NRoot][=up.river]" : {katonka}
 ! 
 | "[=katsitori+m.][NRoot][=ant.sp.]" : {katsitori}
+! 
+| "[=katzinari][NRoot][=rufous.motmot (sci.nm.: barypthengus.ruficapillus)]" : {katzinari}
 ! 
 | "[=kinashi+n.m.][NRoot][=pituca.like.herb.sp.]" : {kinashi}
 | "[=kenashi+n.m.][NRoot][=pituca.like.herb.sp.]" : {kenashi}
@@ -793,8 +801,8 @@ define NRootPRQin [
 ! 
 | "[=kompatsiri][NRoot][=second.father]" : {kompatsiri}
 ! 
-| "[=kompero+m.][NRoot][=red.chested.bird.sp.]" : {kompero}
-| "[=kompiro+m.][NRoot][=red.chested.bird.sp.]" : {kompiro}
+| "[=kompero+m.][NRoot][=red.chested.bird.sp.; white-tailed.trogon (sci.nm.: trogon.viridis)]" : {kompero}
+| "[=kompiro+m.][NRoot][=red.chested.bird.sp.; white-tailed.trogon (sci.nm.: trogon.viridis)]" : {kompiro}
 ! 
 | "[=kompiro+n.m.][NRoot][=palm.tree.sp. (ESP: yarina, humiro; sci.nm.: phytelephas.macrocarpa; tipically.used.as.construction.wood)]" : {kompiro}
 ! 
@@ -1738,6 +1746,8 @@ define NRootPRQin [
 ! 
 | "[=sharinkaveni][NRoot][=hell]" : {sharinkaveni}
 ! 
+| "[=sharikookotzi][NRoot][=blue-crowned.trogon (sci.nm.: trogon.curucui)]" : {sharikookotzi}
+! 
 | "[=sharo][NRoot][=agouti]" : {sharo}
 ! 
 | "[=shashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones); red-billed.ground-cuckoo (sci.nm.: neomorphus.pucheranii)]" : {shashintzi}
@@ -1764,6 +1774,8 @@ define NRootPRQin [
 | "[=sheripiare+m.][NRoot][=shaman]" : {sheripiare}
 | "[=sheripiari+m.][NRoot][=shaman]" : {sheripiari}
 | "[=sheripiyari+m.][NRoot][=shaman]" : {sheripiyari}
+! 
+| "[=sherivetzi][NRoot][=gree-and-rufous.kingfisher (sci.nm.: chloroceryle.inda)]" : {sherivetzi}
 ! 
 | "[=shetaki+n.m.+inal.][NRoot][=fingernail]" : {shetaki}
 ! afternoon
@@ -2109,6 +2121,8 @@ define NRootPRQin [
 ! 
 | "[=tsipana+n.m.][NRoot][=plant.sp. (bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} 
 ! 
+| "[=tsiraintzi][NRoot][=hummingbird.sp.; pale-tailed.barbthroat (sci.nm.: therenectes.leucurus)]" : {tsiraintzi}
+! 
 | "[=tsirikana][NRoot][=chili.pepper, pepper]" : {tsirikana}
 | "[=tsirigana][NRoot][=chili.pepper, pepper]" : {tsirigana}
 | "[=tsirikanaa][NRoot][=chili.pepper, pepper]" : {tsirikanaa}
@@ -2122,6 +2136,8 @@ define NRootPRQin [
 | "[=tsitsiri][NRoot][=cricket]" : {tsitsiri}
 ! 
 | "[=tsitsikana][NRoot][=chili.sp. (ají, botany.nm.: capsicum.sp.)]" : {tsitsikana}
+! 
+| "[=tsiisantzi][NRoot][=tawny-bellied.hermit (sci.nm.: phaetornis.syrmatophorus)]" : {tsiisantzi}
 ! 
 | "[=tsiviri+m.][NRoot][=moth.sp.]" : {tsiviri}
 ! 
@@ -2149,7 +2165,7 @@ define NRootPRQin [
 | "[=tsomonte][NRoot][=belly]" : {tsomonte}
 | "[=tsomonte][NRoot][=bulge]" : {tsomonte}
 ! 
-| "[=tsonkiri][NRoot][=hummingbird]" : {tsonkiri}
+| "[=tsonkiri][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]" : {tsonkiri}
 ! 
 | "[=tsovero+m.][NRoot][=spider.monkey.sp. (ESP: maquisapa, QU: makisapa)]" : {tsovero}
 | "[=tsoviro+m.][NRoot][=spider.monkey.sp. (ESP: maquisapa, QU: makisapa)]" : {tsoviro}
