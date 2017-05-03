@@ -149,6 +149,7 @@ define V=S=O [
 | "[--][-mpi][+2O]" : "@EP"[{mpi}] 
 | "[--][-npi][+2O]" : "@EP"[{npi}] 
 | "[--][-ni][+3O]" : "@EP"[{ni}] 
+| "[--][-ne][+3O]" : "@EP"[{ne}] 
 ];
       
 define V=S=APPR [

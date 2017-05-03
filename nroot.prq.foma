@@ -574,6 +574,8 @@ define NRootPRQin [
 ! 
 | "[=kanai][NRoot][=tree.sp.]" : {kanai}
 ! 
+| "[=kanari][NRoot][=common.piping-guan (sci.nm.: aburria.pipile)]" : {kanari}
+! 
 | "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
@@ -1624,8 +1626,8 @@ define NRootPRQin [
 ! 
 | "[=santari][NRoot][=cedar.tree]" : {santari}
 ! 
-| "[=sankatzi+m.][NRoot][=red-necked.gallinacean.bird.sp. (pucacunga, from.Quechua.pukakunka)]" : {sankatzi}
-| "[=sankati+m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (pucacunga, from.Quechua.pukakunka)]" : {sankati}
+| "[=sankatzi+m.][NRoot][=red-necked.gallinacean.bird.sp. (pucacunga, from.Quechua.pukakunka), spix's.guan (sci.nm.: penelope.jacquacu)]" : {sankatzi}
+| "[=sankati+m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (pucacunga, from.Quechua.pukakunka), spix's.guan (sci.nm.: penelope.jacquacu)]" : {sankati}
 ! 
 | "[=santonka+m.][NRoot][=rubber.tree; rubber; tatoo.made.with.rubber.charcoal]" : {santonka}
 | "[=satonkaari+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaari}
