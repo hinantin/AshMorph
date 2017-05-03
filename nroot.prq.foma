@@ -506,8 +506,8 @@ define NRootPRQin [
 ! 
 | "[=tsipa+n.m.][NRoot][=wife]" : {tsipa}
 ! 
-| "[=tsiya+m.][NRoot][=bird.sp. (chicua)]" : {tsiya}
-| "[=tsiyaa+m.][NRoot][=bird.sp. (chicua)]" : {tsiyaa}
+| "[=tsiya+m.][NRoot][=bird.sp. (chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]" : {tsiya}
+| "[=tsiyaa+m.][NRoot][=bird.sp. (chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]" : {tsiyaa}
 ! 
 | "[=tsityoki+m.][NRoot][=parakeet.sp. (pihuicho); blue-winged.parakeet (sci.nm.: forpus.xantopterigius)]" : {tsityoki}
 ! 
@@ -1065,6 +1065,8 @@ define NRootPRQin [
 | "[=moito][NRoot][=navel]" : {moito}
 ! 
 | "[=mora][NRoot][=mule]" : {mora}
+! 
+| "[=moraina][NRoot][=greater.ani (sci.nm.: crotophaga.major)]" : {moraina}
 ! 
 | "[=moo+n.m.+inal.][NRoot][=hole]" : {moo}
 | "[=moro+n.m.+inal.][NRoot][=hole]" : {moro} ! N@->V
