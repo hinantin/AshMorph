@@ -9,6 +9,7 @@ define NRootCmpPRQin [
 | "[--][=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 | "[--][=panko+n.m.+inal.][NRoot][=house]" : {panko} ! @CMP
 | "[--][=pãko+n.m.+inal.][NRoot][=house]" : {pãko} ! @CMP
-| "[--][=sheya+n.m.][NRoot][=palm.tree.sp. (ungurahui)]" : {sheya} ! @CMP 
+| "[--][=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui)]" : {sheya} ! @CMP 
+| "[--][=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui)]" : {shiya} ! @CMP 
 | "[--][=shaa+n.m.][NRoot][=palm.tree.sp. (ungurahui)]" : {shaa} ! @CMP 
 ];
