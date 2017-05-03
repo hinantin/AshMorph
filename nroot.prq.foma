@@ -119,6 +119,8 @@ define NRootPRQin [
 ! 
 | "[=chakami][NRoot][=bird.sp., grey-winged.trumpeter.sp.]" : {chakami}
 ! 
+| "[=chakampi][NRoot][=pale-winged.trumpeter (sci.nm.: psophia.leucoptera)]" : {chakampi}
+! 
 | "[=chanchati][NRoot][=gray.heron.sp.]" : {chanchati}
 ! 
 | "[=chapitsi][NRoot][=worm.sp.]" : {chapitsi}
@@ -196,6 +198,8 @@ define NRootPRQin [
 | "[=choncho+n.m.][NRoot][=dull.arrow, unsharpened.arrow (used.to.kill.birds)]" : {choncho}
 ! 
 | "[=choochootzi+m.][NRoot][=cricket.sp.]" : {choochootzi}
+! 
+| "[=choovero][NRoot][=starred.wood-quail (sci.nm.: odonthophorus.stellatus)]" : {choovero}
 ! 
 | "[=chori+m.][NRoot][=Andean.colonist; male.Quechua.speaker; highlander]" : {chori}
 | "[=choori+m.][NRoot][=Andean.colonist; male.Quechua.speaker; highlander]" : {choori}
@@ -1451,8 +1455,8 @@ define NRootPRQin [
 | "[=poonkito][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonkito}
 | "[=poonketo][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonketo}
 ! 
-| "[=pooronto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (porotuango)]" : {pooronto}
-| "[=poovonto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (porotuango)]" : {poovonto}
+| "[=pooronto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (porotuango); rufous-breasted.wood-quail (sci.nm.: odonthophorus.speciosus)]" : {pooronto}
+| "[=poovonto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (porotuango); rufous-breasted.wood-quail (sci.nm.: odonthophorus.speciosus)]" : {poovonto}
 ! 
 | "[=ponkaro][NRoot][=bejuco]" : {ponkaro}
 ! 
@@ -1564,6 +1568,8 @@ define NRootPRQin [
 | "[=shesheti][NRoot][=heron.sp. (shansho)]" : {shesheti}
 ! 
 | "[=sheshetzi][NRoot][=bird.sp.]" : {sheshetzi}
+! 
+| "[=sheesheetzi][NRoot][=hoatzin (sci.nm.: ophistocomus.hoatzin)]" : {sheesheetzi}
 ! 
 | "[=sheya+n.m.][NRoot][=palm.tree.sp. (ungurahui)]" : {sheya} ! @CMP 
 | "[=shaa+n.m.][NRoot][=palm.tree.sp. (ungurahui)]" : {shaa} ! @CMP 
