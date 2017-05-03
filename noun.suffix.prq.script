@@ -92,7 +92,10 @@ define N=S=CL [
 | "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} 
 | "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} 
 | "[--][-na][+CL:long.hollow][=long,hollow; round,hollow]" : {na} 
+! 
 | "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} 
+| "[--][-ke][+CL:S.R.H][=small,round;hard]" : {ke} ! sheyaque 
+! 
 | "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} 
 | "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana; tree_bark]" : {tsa} 
 ! .. 
