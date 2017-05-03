@@ -189,7 +189,7 @@ define NRootPRQin [
 ! 
 | "[=chooki+n.m.+voc.][NRoot][=sister (kin.of.a.male, male.ego)]" : {chooki}
 ! 
-| "[=chooni][NRoot][=black.turkey.sp.]" : {chooni}
+| "[=chooni][NRoot][=black.turkey.sp.; wattled.curassow.sp. (sci.nm.: crax.globulosa)]" : {chooni}
 ! 
 | "[=chompari][NRoot][=heron.sp. (sci.nm.: casmerodius.albus)]" : {chompari}
 ! 
@@ -1360,6 +1360,8 @@ define NRootPRQin [
 | "[=peyari+m.][NRoot][=ghost; demon]" : {peyari}
 | "[=piyari+m.][NRoot][=ghost; demon]" : {piyari}
 ! 
+| "[=piyori][NRoot][=southern.helmeted.curassow (sci.nm.: pauxi.inicornis)]" : {piyori}
+! 
 | "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
 ! 
 | "[=pinkatsari+voc.+poss@te.][NRoot][=chief]" : {pinkatsari}
@@ -1985,7 +1987,7 @@ define NRootPRQin [
 ! 
 | "[=tsavi+inal.][NRoot][=vagina]" : {tsavi}
 ! 
-| "[=tsamiri+m.][NRoot][=curassow.sp.]" : {tsamiri}
+| "[=tsamiri+m.][NRoot][=curassow.sp.; razor-billed.curassow (sci.nm.: crax.mitu)]" : {tsamiri}
 ! 
 | "[=tsanaro+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanaro}
 | "[=tsanavo+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanavo}
