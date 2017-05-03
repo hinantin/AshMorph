@@ -480,6 +480,12 @@ define NRootPRQin [
 | "[=saari+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {saari}
 | "[=sary+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {sary}
 ! 
+| "[=sari+m.][NRoot][=scarlet.macaw (sci.nm.: ara.macaw)]" : {sari}
+! 
+| "[=savavo][NRoot][=red.&.green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savavo}
+| "[=savaro][NRoot][=red.&.green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savaro}
+| "[=havavo][NRoot][=red.&.green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {havavo}
+! 
 | "[=savoo+n.m.][NRoot][=giant.cane (caña.brava)]" : {savoo}
 | "[=savoro+n.m.][NRoot][=giant.cane (caña.brava, carrizo)]" : {savoro}
 ! 
@@ -976,9 +982,9 @@ define NRootPRQin [
 | "[=menta+n.m.+inal.][NRoot][=fin.of.tree]" : {menta}
 | "[=minta+n.m.+inal.][NRoot][=fin.of.tree]" : {minta}
 ! 
-| "[=meanto][NRoot][=macaw, parrot.sp.]" : {meanto}
-| "[=mianto][NRoot][=military.macaw (sci.nm.: ara.militaris)]" : {mianto}
-| "[=myanto][NRoot][=military.macaw (sci.nm.: ara.militaris)]" : {myanto}
+| "[=meanto+m.][NRoot][=macaw, parrot.sp. (ESP: guacamayo, QU: wakamayu)]" : {meanto}
+| "[=mianto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ESP: guacamayo, QU: wakamayu)]" : {mianto}
+| "[=myanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ESP: guacamayo, QU: wakamayu)]" : {myanto}
 ! 
 | "[=meiri+poss@te.][NRoot][=big.squirrel.sp.]" : {meiri}
 | "[=meyiri+poss@te.][NRoot][=big.squirrel.sp.]" : {meyiri}
