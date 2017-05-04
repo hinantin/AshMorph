@@ -445,8 +445,8 @@ define NRootPRQin [
 ! 
 | "[=katzinari][NRoot][=rufous.motmot (sci.nm.: barypthengus.ruficapillus)]" : {katzinari}
 ! 
-| "[=kinashi+n.m.][NRoot][=pituca.like.herb.sp.]" : {kinashi}
-| "[=kenashi+n.m.][NRoot][=pituca.like.herb.sp.]" : {kenashi}
+| "[=kinashi+n.m.][NRoot][=pituca-like.herb.sp.]" : {kinashi}
+| "[=kenashi+n.m.][NRoot][=pituca-like.herb.sp.]" : {kenashi}
 ! 
 | "[=kevo+n.m.+inal.][NRoot][=hammock]" : {kevo}
 | "[=kivo+n.m.+inal.][NRoot][=hammock]" : {kivo}
@@ -573,7 +573,7 @@ define NRootPRQin [
 | "[=kachaari+n.m.+inal.][NRoot][=smoke]" : {kachaari}
 | "[=kachaare+n.m.+inal.][NRoot][=smoke]" : {kachaare}
 ! 
-| "[=kachoncho][NRoot][=heron.like.long-legged.bird.sp.with.a.large.beak, (totuyo, sci.nm.: ardea.cocoi)]" : {kachoncho}
+| "[=kachoncho][NRoot][=heron-like.large-beaked.long-legged.bird.sp., (totuyo, sci.nm.: ardea.cocoi)]" : {kachoncho}
 ! 
 | "[=kachori][NRoot][=sour]" : {kachori}
 ! 
@@ -639,8 +639,8 @@ define NRootPRQin [
 | "[=kaarashi+n.m.][NRoot][=trash, garbage]" : {kaarashi}
 | "[=kaharashi+n.m.][NRoot][=trash, garbage]" : {kaharashi}
 ! 
-| "[=kapeshi+m.][NRoot][=anteater.like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho)]" : {kapeshi}
-| "[=kapishi+m.][NRoot][=anteater.like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho)]" : {kapishi}
+| "[=kapeshi+m.][NRoot][=anteater-like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho)]" : {kapeshi}
+| "[=kapishi+m.][NRoot][=anteater-like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho)]" : {kapishi}
 ! 
 | "[=karava][NRoot][=river.frog.sp.]" : {karava}
 | "[=kaava][NRoot][=river.frog.sp.]" : {kaava}
@@ -678,7 +678,7 @@ define NRootPRQin [
 ! 
 | "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
 ! 
-| "[=kemari][NRoot][=tapir, pig.like.animal (anta)]" : {kemari}
+| "[=kemari][NRoot][=tapir, pig-like.animal (anta)]" : {kemari}
 ! 
 | "[=kemi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.)]" : {kemi}
 | "[=kimi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.)]" : {kimi}
@@ -858,7 +858,7 @@ define NRootPRQin [
 | "[=koricha+n.m.][NRoot][=sweet.potato (camote, botany.id.: ipomeea.batatas)]" : {koricha}
 | "[=koritya+n.m.][NRoot][=sweet.potato (camote, botany.id.: ipomeea.batatas)]" : {koritya}
 ! 
-| "[=korinto][NRoot][=big.mythological.animal; elephant]" : {korinto} ! woman like apperance, human eater
+| "[=korinto][NRoot][=woman-like.human-eater.big-mythological.animal; elephant]" : {korinto} ! woman like apperance, human eater
 ! 
 | "[=koria+poss@ni.][NRoot][=manioc.worm]" : {koria}
 | "[=korya+poss@ni.][NRoot][=manioc.worm]" : {korya}
@@ -1314,7 +1314,7 @@ define NRootPRQin [
 ! 
 | "[=pachaka][NRoot][=striated.heron (sci.nm.: butorides.striatus)]" : {pachaka}
 ! 
-| "[=pachoi][NRoot][=fruit.sp. (looks.like.the.cocona)]" : {pachoi}
+| "[=pachoi][NRoot][=cocona-like.fruit.sp.]" : {pachoi}
 ! 
 | "[=paho][NRoot][=bejuco.sp. (pate)]" : {paho}
 ! 
@@ -1335,7 +1335,7 @@ define NRootPRQin [
 ! 
 | "[=pamoko][NRoot][=bejuco.sp. (pate)]" : {pamoko}
 ! 
-| "[=panashinte][NRoot][=sapote.like.tree.sp. (ESP: sapote/zapote.silvestre)]" : {panashinte}
+| "[=panashinte][NRoot][=sapote-like.tree.sp. (ESP: sapote/zapote.silvestre)]" : {panashinte}
 ! 
 | "[=panaropa][NRoot][=wild.papaya]" : {panaropa}
 ! 
@@ -1358,14 +1358,14 @@ define NRootPRQin [
 !
 | "[=pareni][NRoot][=river, Perené.river]" : {pareni}
 ! banana tree, plantain
-| "[=parenti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
-| "[=parentzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parentzi}
-| "[=payanti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payanti}
-| "[=payantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payantzi}
-| "[=parianti+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parianti}
-| "[=paryantsi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantsi}
-| "[=paryantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
-| "[=pareantzi+n.m.][NRoot][=plantain (banana.like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
+| "[=parenti+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
+| "[=parentzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parentzi}
+| "[=payanti+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payanti}
+| "[=payantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payantzi}
+| "[=parianti+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parianti}
+| "[=paryantsi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantsi}
+| "[=paryantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
+| "[=pareantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
 ! 
 | "[=paritsa+n.m.+inal.][NRoot][=tree.root]" : {paritsa} ! pari-tsa root-stem
 | "[=patsa][NRoot][=part]" : {patsa}
@@ -1423,7 +1423,7 @@ define NRootPRQin [
 | "[=peranto+n.m.][NRoot][=idle, lazy]" : {peranto}
 | "[=piranto+n.m.][NRoot][=idle, lazy]" : {piranto}
 ! 
-| "[=pentaki+n.m.+inal.][NRoot][=flat.seed.like.watermelon; fish.scale; sth.of.round-shape.with.2.sides.flattened]" : {pentaki}
+| "[=pentaki+n.m.+inal.][NRoot][=watermelon-like.flat.seed; fish.scale; sth.of.round-shape.with.2.sides.flattened]" : {pentaki}
 ! 
 | "[=peerotyaki+m.][NRoot][=insect.sp.]" : {peerotyaki}
 ! 
@@ -1729,9 +1729,9 @@ define NRootPRQin [
 | "[=soakentzi][NRoot][=chestnut.woodpecker (sci.nm.: celeus.elegans)]" : {soakentzi}
 ! 
 ! flute like instrument
-| "[=sonkare+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkare}
-| "[=sonkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkari}
-| "[=honkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {honkari}
+| "[=sonkare+n.m.+voc.][NRoot][=antara (flute-like.instr.)]" : {sonkare}
+| "[=sonkari+n.m.+voc.][NRoot][=antara (flute-like.instr.)]" : {sonkari}
+| "[=honkari+n.m.+voc.][NRoot][=antara (flute-like.instr.)]" : {honkari}
 ! 
 | "[=sonkaari+m.][NRoot][=partridge.sp. (poqueadora)]" : {sonkaari}
 | "[=sonkaagari+m.][NRoot][=partridge.sp. (poqueadora)]" : {sonkaagari}
@@ -1775,6 +1775,10 @@ define NRootPRQin [
 | "[=saserote][NRoot][=priest]" : {saserote}
 ! 
 | "[=satzi][NRoot][=provenance]" : {satzi}
+! 
+| "[=satonotzi][NRoot][=trush-like.antpitta (sci.nm.: myrnothera.campanisona)]" : {satonotzi}
+! 
+| "[=satotori][NRoot][=undulated.antpitta (sci.nm.: grallaria.squamigera)]" : {satotori}
 ! 
 | "[=save+m.][NRoot][=turtle.sp.]" : {save}
 ! 
@@ -1842,7 +1846,7 @@ define NRootPRQin [
 | "[=hyivantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {hyivantoki}
 ! 
 !| "[=shi][NRoot][=leaf]" : {shi} ! oishi = leaf?
-| "[=shiira][NRoot][=plantain.sp. (banana.like.fruit.that.needs.cooking)]" : {shiira}
+| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shiira}
 ! 
 | "[=shima][NRoot][=fish; fish.sp., boquichico]" : {shima}
 ! 
@@ -2073,7 +2077,7 @@ define NRootPRQin [
 | "[=tsimokitzi][NRoot][=golden-olive.woodpecker (sci.nm.: piculus.rubiginosus)]" : {tsimokitzi} 
 ! 
 | "[=tenkarentsi][NRoot][=nocturnal.fishing.with.a.trap (comunal/family.activity)]" : {tenkarentsi}
-| "[=tsiaanatantsi][NRoot][=fish.trap.woven.like.a.mat]" : {tsiaanatantsi}
+| "[=tsiaanatantsi][NRoot][=mat-like.woven.fish_trap]" : {tsiaanatantsi}
 ! 
 | "[=tepoki+n.m.+inal.][NRoot][=hip]" : {tepoki}
 | "[=tipoki+n.m.+inal.][NRoot][=hip]" : {tipoki}
