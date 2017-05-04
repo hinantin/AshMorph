@@ -432,6 +432,8 @@ define NRootPRQin [
 | "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
 ! 
+| "[=kaonkari][NRoot][=green-billed.toucanet (sci.nm.: selenidera.reirwardtii)]" : {kaonkari}
+! 
 | "[=katonko][NRoot][=up.river]" : {katonko}
 | "[=katonka][NRoot][=up.river]" : {katonka}
 ! 
@@ -799,6 +801,8 @@ define NRootPRQin [
 | "[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {kooko}
 ! 
 | "[=konaki][NRoot][=elbow]" : {konaki}
+! 
+| "[=konakonatzi][NRoot][=emerald.toucanet (sci.nm.: aulacorhynchus.prasinus)]" : {konakonatzi}
 ! 
 | "[=konyapi][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod]" : {konyapi}
 ! 
@@ -1498,9 +1502,9 @@ define NRootPRQin [
 | "[=toantoani][NRoot][=big.&.dark.bat.sp.]" : {toantoani}
 | "[=tsompavito][NRoot][=big.&.gray.bat.sp.]" : {tsompavito}
 ! 
-| "[=pishiti+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha)]" : {pishiti}
-| "[=pishitsi+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha)]" : {pishitsi}
-| "[=pishitzi+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha)]" : {pishitzi}
+| "[=pishiti+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishiti}
+| "[=pishitsi+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitsi}
+| "[=pishitzi+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitzi}
 | "[=pishiro+m.][NRoot][=small.toucan.sp. (choquimbo)]" : {pishiro}
 ! 
 | "[=pishivakintsi][NRoot][=broom]" : {pishivakintsi}
@@ -1947,6 +1951,8 @@ define NRootPRQin [
 | "[=taapiiki+inal.][NRoot][=back]" : {taapiiki}
 ! 
 | "[=taaroma][NRoot][=Tarma]" : {taaroma}
+! 
+| "[=tairinkari][NRoot][=curl-crested.aracari (sci.nm.: pteroglossus.beauharnaessi)]" : {tairinkari}
 ! shell, peel, skin
 | "[=taki+n.m.+inal.][NRoot][=shell; peel; skin]" : {taki}
 | "[=otaki+n.m.+inal.][NRoot][=shell; peel; skin]" : {otaki}
