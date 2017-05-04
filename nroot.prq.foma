@@ -449,6 +449,8 @@ define NRootPRQin [
 | "[=veomento+inal.][NRoot][=hammock]" : {veomento}
 ! 
 | "[=kirinka][NRoot][=down.river, central.part.of.the.jungle]" : {kirinka}
+! 
+| "[=kyaari][NRoot][=yellow-ridget.toucan (sci.nm.: ramphastos.culminatus)]" : {kyaari}
 # ------------------------------------------------------
 | "[=intsipa][NRoot][=ice-cream.bean.tree (pacae, pacay, from.Quechua.paqay, botany.nm. inga.sp.)]" : {intsipa}
 ! 
@@ -827,6 +829,8 @@ define NRootPRQin [
 | "[=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta}
 ! 
 | "[=kontsavo][NRoot][=ruddy.quail-dove (geotrygon.montana)]" : {kontsavo}
+! 
+| "[=kontyari][NRoot][=yellow-tufted.woodpecker (sci.nm.: melanerpes.cruentatus)]" : {kontyari}
 ! 
 | "[=kontzi][NRoot][=tree.sp. (pona)]" : {kontzi}
 ! 
@@ -1220,8 +1224,8 @@ define NRootPRQin [
 ! 
 | "[=ponyoiro+m.][NRoot][=animal.sp.]" : {ponyoiro}
 ! 
-| "[=opempe+m.][NRoot][=toucan.sp.]" : {opempe}
-| "[=opimpi+m.][NRoot][=toucan.sp.]" : {opimpi}
+| "[=opempe+m.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opempe}
+| "[=opimpi+m.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opimpi}
 ! 
 | "[=iyopempe][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopempe}
 | "[=iyopimpi][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopimpi}
@@ -1702,6 +1706,8 @@ define NRootPRQin [
 | "[=shonyaki+n.m.][NRoot][=edible.plant.sp. (dale-dale, sci.nm.: calatea.allouia)]" : {shonyaki}
 | "[=shonaki+n.m.][NRoot][=edible.plant.sp. (dale-dale, sci.nm.: calatea.allouia)]" : {shonaki}
 ! 
+| "[=soakentzi][NRoot][=chestnut.woodpecker (sci.nm.: celeus.elegans)]" : {soakentzi}
+! 
 ! flute like instrument
 | "[=sonkare+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkare}
 | "[=sonkari+n.m.+voc.][NRoot][=antara (flute.like.instr.)]" : {sonkari}
@@ -2043,6 +2049,8 @@ define NRootPRQin [
 | "[=tsimi+n.m.+poss@ne.][NRoot][=macaw.and.parrot.clay.lick (qullpa, colpa); clean.water.well.where.animals.go.to.drink]" : {tsimi} 
 ! 
 | "[=tsimperi][NRoot][=neotropic.cormorant (sci.nm.: phalacrocorax.olivaceus)]" : {tsimperi} 
+! 
+| "[=tsimokitzi][NRoot][=golden-olive.woodpecker (sci.nm.: piculus.rubiginosus)]" : {tsimokitzi} 
 ! 
 | "[=tenkarentsi][NRoot][=nocturnal.fishing.with.a.trap (comunal/family.activity)]" : {tenkarentsi}
 | "[=tsiaanatantsi][NRoot][=fish.trap.woven.like.a.mat]" : {tsiaanatantsi}
