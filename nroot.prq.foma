@@ -196,7 +196,11 @@ define NRootPRQin [
 | "[=chochoki][NRoot][=sweet.fruit]" : {chochoki}
 | "[=txotxoki][NRoot][=general.name.for.small.fruits]" : {txotxoki}
 ! 
-| "[=chomenta][NRoot][=fresh.water.fish.sp. (palometa)]" : {chomenta}
+| "[=chomenta][NRoot][=freshwater.fish.sp. (palometa)]" : {chomenta}
+! 
+| "[=chompi][NRoot][=silver-beacked.tanager (sci.nm.: ramphocelus.carbo)]" : {chompi}
+! 
+| "[=chompiriniro][NRoot][=vermilion.tanage (sci.nm.: calochaetes.coccineus)]" : {chompiriniro}
 ! 
 | "[=chompita][NRoot][=cockroach.sp.]" : {chompita}
 | "[=tsompita][NRoot][=cockroach.sp.]" : {tsompita}
@@ -1353,8 +1357,8 @@ define NRootPRQin [
 ! 
 | "[=painto][NRoot][=small.toad.sp.]" : {painto}
 ! 
-| "[=paintzi+m.][NRoot][=blue.color.bird.sp.]" : {paintzi}
-| "[=paikitzi+m.][NRoot][=blue.color.bird.sp.]" : {paikitzi}
+| "[=paintzi+m.][NRoot][=blue.color.bird.sp.; blue-gray.tanager (sci.nm.: thraupis.episcopus)]" : {paintzi}
+| "[=paikitzi+m.][NRoot][=blue.color.bird.sp.; blue-gray.tanager (sci.nm.: thraupis.episcopus)]" : {paikitzi}
 ! 
 | "[=paisatzi][NRoot][=ancient]" : {paisatzi}
 ! 
@@ -1441,6 +1445,8 @@ define NRootPRQin [
 | "[=payari+m.][NRoot][=fish.sp.]" : {payari}
 ! 
 | "[=picha+m.][NRoot][=fish.sp. (palometo)]" : {picha}
+! 
+| "[=pitchoyotzi][NRoot][=yellow-backed.tanager (sci.nm.: hemithraupis.flavicollis)]" : {pitchoyotzi}
 ! 
 | "[=pini+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.)]" : {pini}
 ! 
