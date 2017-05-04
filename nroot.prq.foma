@@ -451,11 +451,15 @@ define NRootPRQin [
 | "[=kirinka][NRoot][=down.river, central.part.of.the.jungle]" : {kirinka}
 ! 
 | "[=kyaari][NRoot][=yellow-ridget.toucan (sci.nm.: ramphastos.culminatus)]" : {kyaari}
+! 
+| "[=kymaroatzi][NRoot][=red-billed.scythebill (sci.nm.: campylorhampus.trochilirostris)]" : {kymaroatzi}
 # ------------------------------------------------------
 | "[=intsipa][NRoot][=ice-cream.bean.tree (pacae, pacay, from.Quechua.paqay, botany.nm. inga.sp.)]" : {intsipa}
 ! 
 | "[=iraa][NRoot][=blood]" : {iraa}
 | "[=ira][NRoot][=blood]" : {ira}
+! 
+| "[=iraantsinaki][NRoot][=pale-fegged.hornero (sci.nm.: furnarius.leucopus)]" : {iraantsinaki}
 ! 
 | "[=iri+m.][NRoot][=father (kin.of.a.fe/male)]" : {iri}
 | "[=irichi][NRoot][=milk]" : {irichi}
@@ -813,6 +817,8 @@ define NRootPRQin [
 | "[=komaro+n.m.+inal.][NRoot][=paddle, oar]" : {komaro}
 | "[=komavo+n.m.+inal.][NRoot][=paddle, oar]" : {komavo}
 ! 
+| "[=komairo][NRoot][=olive-backed.foliage-gleaner (sci.nm: automolus.infuscatus)]" : {komairo}
+! 
 | "[=kompatsiri][NRoot][=second.father]" : {kompatsiri}
 ! 
 | "[=kompero+m.][NRoot][=red.chested.bird.sp.; white-tailed.trogon (sci.nm.: trogon.viridis)]" : {kompero}
@@ -945,6 +951,8 @@ define NRootPRQin [
 | "[=mare+n.m.+inal.][NRoot][=wristband]" : {mare}
 | "[=omare+n.m.+inal.][NRoot][=wristband]" : {omare}
 | "[=mari+n.m.+inal.][NRoot][=wristband]" : {mari}
+! 
+| "[=mariniro][NRoot][=great.antshrike (sci.nm.: taraba.major)]" : {mariniro}
 ! 
 | "[=mantsaki+inal.][NRoot][=cushma]" : {mantsaki}
 ! 
@@ -1651,6 +1659,8 @@ define NRootPRQin [
 | "[=shametyo+n.m.][NRoot][=godmother]" : {shametyo}
 | "[=shamityo+n.m.][NRoot][=godmother]" : {shamityo}
 ! 
+| "[=shamo][NRoot][=buff-throated.foliage.gleaner (sci.nm.: automolus.ochrolaemus)]" : {shamo}
+! 
 | "[=semito][NRoot][=barn.owl.sp.]" : {semito}
 | "[=shemito][NRoot][=barn.owl.sp.]" : {shemito}
 ! 
@@ -2134,6 +2144,8 @@ define NRootPRQin [
 ! 
 | "[=tsikontoche][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {tsikontoche} 
 ! 
+| "[=tsikontzi][NRoot][=buff-throated.woodcreeper (sci.nm.: xiphorhynchus.guttatus)]" : {tsikontzi} 
+! 
 | "[=tsima][NRoot][=wood]" : {tsima} 
 ! bird, little bird 
 | "[=tsimiri][NRoot][=bird, little.bird]" : {tsimiri}
@@ -2185,7 +2197,7 @@ define NRootPRQin [
 | "[=tsiyeri+m.][NRoot][=medium-size.monkey.sp. (huasa)]" : {tsiyeri}
 | "[=tsiyiri+m.][NRoot][=medium-size.monkey.sp. (huasa)]" : {tsiyiri}
 ! 
-| "[=tsiyontzi+m.][NRoot][=bird.sp., small.woodpecker.sp.]" : {tsiyontzi}
+| "[=tsiyontzi+m.][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiyontzi}
 ! 
 | "[=tsiveta+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ESP: pez.raya)]" : {tsiveta}
 | "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ESP: pez.raya)]" : {tsivita}
