@@ -117,7 +117,11 @@ define NRootPRQin [
 ! 
 | "[=chaari][NRoot][=violaceous.jay (sci.nm.: cyanocorax.violaceus)]" : {chaari}
 ! 
+| "[=chakaityory][NRoot][=red-capped.cardinal (sci.nm.: paroaria.gularis)]" : {chakaityory}
+! 
 | "[=chamanto+m.][NRoot][=woodpecker.sp.]" : {chamanto}
+! 
+| "[=chamiryaatzi][NRoot][=slate-colored.grosbeack (sci.nm.: pitylus.grossus)]" : {chamiryaatzi}
 ! 
 | "[=chaanari][NRoot][=red.tiger.sp.]" : {chaanari}
 ! 
@@ -1534,7 +1538,7 @@ define NRootPRQin [
 ! 
 | "[=pitsi+m.][NRoot][=beehive]" : {pitsi}
 ! 
-| "[=pitsitsiro+m.][NRoot][=rice-eating.thrush.sp., bird.sp. (ESP: arrosero, arrocero, tordito)]" : {pitsitsiro}
+| "[=pitsitsiro+m.][NRoot][=rice-eating.thrush.sp., bird.sp. (ESP: arrosero, arrocero, tordito); variable.seedeater (sci.nm.: sporohila.americana)]" : {pitsitsiro}
 ! 
 | "[=pitzintzi+m.][NRoot][=sparrow.sp., red.bird.sp.with.black.head.&.wings]" : {pitzintzi}
 ! 
@@ -1557,6 +1561,8 @@ define NRootPRQin [
 | "[=tsirii+n.m.+inal.][NRoot][=palm.tree.sp. (huasaí, chonta)]" : {tsirii}
 ! 
 | "[=tsirini][NRoot][=eel.sp.]" : {tsirini}
+! 
+| "[=tsiriitzi][NRoot][=buff-throated.saltator (sci.nm.: saltator.maximus)]" : {tsiriitzi}
 ! 
 | "[=tsio][NRoot][=sister (kin.of.a.male)]" : {tsio}
 | "[=tsiro][NRoot][=sister (kin.of.a.male)]" : {tsiro}
@@ -1917,6 +1923,8 @@ define NRootPRQin [
 | "[=shina][NRoot][=kapok.tree (timber.tree, lupuna)]" : {shina}
 ! 
 | "[=shintori+m.][NRoot][=collared.peccary (sajino, saíno)]" : {shintori}
+! 
+| "[=shinyotzi][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinyotzi}
 ! 
 | "[=shiranta+n.m.][NRoot][=flagstone, flag, flat.stone]" : {shiranta}
 | "[=shirantaa+n.m.][NRoot][=flagstone, flag, flat.stone]" : {shirantaa}
