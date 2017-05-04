@@ -207,6 +207,8 @@ define NRootPRQin [
 ! 
 | "[=choovero][NRoot][=starred.wood-quail (sci.nm.: odonthophorus.stellatus)]" : {choovero}
 ! 
+| "[=choretzi][NRoot][=black-faced.antbird (sci.nm.: myrmoborus.myotherinus)]" : {choretzi}
+! 
 | "[=chori+m.][NRoot][=Andean.colonist; male.Quechua.speaker; highlander]" : {chori}
 | "[=choori+m.][NRoot][=Andean.colonist; male.Quechua.speaker; highlander]" : {choori}
 | "[=chooro+n.m.][NRoot][=Andean.colonist; female.Quechua.speaker; highlander]" : {chooro}
@@ -288,6 +290,8 @@ define NRootPRQin [
 | "[=samani][NRoot][=rodent.sp., paca (picuro, majás, majas)]" : {samani}
 | "[=hamani][NRoot][=rodent.sp., paca (picuro, majás, majas)]" : {hamani}
 | "[=hamaani][NRoot][=rodent.sp., paca (picuro, majás, majas)]" : {hamaani}
+! 
+| "[=haipempe][NRoot][=white-plumed.antbird (sci.nm.: pithys.albifrons)]" : {haipempe}
 ! 
 | "[=hananeki][NRoot][=child]" : {hananeki}
 ! 
@@ -561,6 +565,8 @@ define NRootPRQin [
 | "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
 | "[=irentsi+m.][NRoot][=brother (kin.of.a.male, male.ego), male.who.belongs.to.the.same.ego's.generation]" : {irentsi}
 | "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
+! 
+| "[=kaantziriritzi][NRoot][=rufous-capped-ant-trush (sci.nm.: form¡carius.colma)]" : {kaantziriritzi}
 ! 
 | "[=kaaro][NRoot][=car]" : {kaaro}
 ! 
@@ -1544,7 +1550,7 @@ define NRootPRQin [
 ! 
 | "[=poko+m.][NRoot][=yellow.and.black.worm.sp.]" : {poko}
 ! 
-| "[=pompori][NRoot][=owl.sp.]" : {pompori}
+| "[=pompori][NRoot][=owl.sp.; striated-ant-trush (sci.nm.: chamaeza.nobilis)]" : {pompori}
 ! 
 | "[=poompootzi][NRoot][=tawny-bellied.owl]" : {poompootzi}
 ! 
@@ -2262,6 +2268,8 @@ define NRootPRQin [
 | "[=tsirianti+poss@te.][NRoot][=pineapple]" : {tsirianti}
 | "[=tsireanti+poss@te.][NRoot][=pineapple]" : {tsireanti}
 | "[=chirianti+poss@te.][NRoot][=pineapple]" : {chirianti}
+! 
+| "[=chirikillove][NRoot][=warbling.antbird (sci.nm.: hipocnemis.cantator)]" : {chirikillove} ! revise writing with ll ??
 ! 
 | "[=tziivito][NRoot][=Beetle]" : {tziivito}
 | "[=tzina][NRoot][=pifayo]" : {tzina}
