@@ -31,6 +31,8 @@ define NRootPRQin [
 | "[=ayini+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayini} 
 | "[=ayiini+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayiini} 
 ! 
+| "[=ayoori][NRoot][=casqued.oropendola (sci.nm.: clypicterus.oservi)]" : {ayoori} 
+! 
 | "[=eeri][NRoot][=black.bee.sp.]" : {eeri} 
 | "[=aeri][NRoot][=black.bee.sp.]" : {aeri} 
 ! 
@@ -1583,8 +1585,12 @@ define NRootPRQin [
 ! 
 | "[=poompootzi][NRoot][=tawny-bellied.owl]" : {poompootzi}
 ! 
+| "[=poonkari][NRoot][=crested.oropendola (sci.nm.: psarocolius.decumanus)]" : {poonkari}
+! 
 | "[=poonkito][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonkito}
 | "[=poonketo][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonketo}
+! 
+| "[=poonya][NRoot][=olive.oropendola (sci.nm.: gymnostinops.yucaraes)]" : {poonya}
 ! 
 | "[=pooronto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (porotuango); rufous-breasted.wood-quail (sci.nm.: odonthophorus.speciosus)]" : {pooronto}
 | "[=poovonto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (porotuango); rufous-breasted.wood-quail (sci.nm.: odonthophorus.speciosus)]" : {poovonto}
@@ -2023,6 +2029,8 @@ define NRootPRQin [
 | "[=otaki+n.m.+inal.][NRoot][=shell; peel; skin]" : {otaki}
 ! 
 | "[=takitsi+m.][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {takitsi}
+! 
+| "[=takiyo][NRoot][=russet-backed.oropendola (sci.nm.: psarocolius.agustifrons)]" : {takiyo}
 ! 
 | "[=tamako+n.m.+inal.][NRoot][=eyebrow; forehead]" : {tamako}
 ! wind 
