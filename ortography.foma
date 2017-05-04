@@ -50,7 +50,7 @@
       define OTildeReplacement2 [ {om} (->) {õ} || _ [p] ];
 
       define UReplacement1 [ {o} (->) {u} || [Cons] _ [Cons] ]; # ayumpari, kubantsi
-      define UReplacement2 [ {o} (->) {u} || [Cons] _ [a|e] ]; # kuakitzi, wuempo 
+      define UReplacement2 [ {o} (->) {u} || [Cons] _ [a|e] ]; # kuakitzi, wuempo , kuaritotzi 
 
       define NPReplacement [ {mp} (->) {np} || [Vowels] _ [Vowels] ]; # amenpori
 
