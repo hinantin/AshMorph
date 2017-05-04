@@ -218,6 +218,8 @@ define NRootPRQin [
 ! 
 | "[=chokiyo+m.][NRoot][=small.parrot.sp.]" : {chokiyo} 
 ! 
+| "[=choopitzi][NRoot][=dwarf.tyrant-manakin (sci.nm.: tyranneutes.stolzmanni)]" : {choopitzi} 
+! 
 | "[=chopire+n.m.+inal.][NRoot][=mixed.soup]" : {chopire} 
 | "[=chopiri+n.m.+inal.][NRoot][=mixed.soup]" : {chopiri} 
 ! 
@@ -629,6 +631,8 @@ define NRootPRQin [
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 ! 
+| "[=kaniriapashaki][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
+! 
 | "[=kaniro][NRoot][=white-bellied.parrot (sci.nm.: pionites.leucogester)]" : {kaniro}
 ! 
 | "[=kairi+m.][NRoot][=tree-climbing.animal.sp.similar.in.apperance.to.an.anteater (shivi)]" : {kairi}
@@ -717,6 +721,8 @@ define NRootPRQin [
 | "[=kintori][NRoot][=cicada.sp. (campanero, chicharra), insect.sp.]" : {kintori}
 ! 
 | "[=kintyokiri][NRoot][=black-spotted.barbet (sci.nm.: capito.niger)]" : {kintyokiri}
+! 
+| "[=kentyoviri][NRoot][=white-crested.spadebill (sci.nm.: platyrinchus.platyrynchos)]" : {kentyoviri}
 ! 
 | "[=kentsi+n.m.+inal.][NRoot][=neck, nape]" : {kentsi}
 | "[=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi}
@@ -813,6 +819,8 @@ define NRootPRQin [
 ! 
 | "[=koko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {koko}
 | "[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {kooko}
+! 
+| "[=koonkotzi][NRoot][=ringed.antpipit (sci.nm.: corythopis.torquata)]" : {koonkotzi}
 ! 
 | "[=konaki][NRoot][=elbow]" : {konaki}
 ! 
@@ -1287,14 +1295,16 @@ define NRootPRQin [
 | "[=ova+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {ova}
 | "[=ovaa+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {ovaa}
 ! 
-| "[=ovae+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ESP: gallito.de.las.rocas, from.Quechua.tunki)]" : {ovae}
-| "[=ovai+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ESP: gallito.de.las.rocas, from.Quechua.tunki)]" : {ovai}
-| "[=yorini][NRoot][=Andean.cock-of-the-rock, bird.sp. (ESP: gallito.de.las.rocas, from.Quechua.tunki)]" : {yorini}
+| "[=ovae+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ESP: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovae}
+| "[=ovai+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ESP: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovai}
+| "[=yorini][NRoot][=Andean.cock-of-the-rock, bird.sp. (ESP: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {yorini}
 ! 
 | "[=ovanaro+n.m.+inal.][NRoot][=staple.food, necessity.good]" : {ovanaro}
 | "[=ovanavo+n.m.+inal.][NRoot][=staple.food, necessity.good]" : {ovanavo}
 ! 
 | "[=ovinteni][NRoot][=flat.extension, plane (QU: pampa); valley]" : {ovinteni}
+! 
+| "[=oviyari][NRoot][=screaming.piha (sci.nm.: lipaugus.vociferas)]" : {oviyari}
 ! 
 | "[=oyari][NRoot][=her.food]" : {oyari}
 ! 
@@ -1355,6 +1365,8 @@ define NRootPRQin [
 ! 
 | "[=pantsa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsa}
 | "[=pantsaa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsaa}
+! 
+| "[=paranta][NRoot][=band-tailed.manakin (sci.nm.: pipra.fascicauda)]" : {paranta}
 ! otter
 | "[=parari+m.][NRoot][=otter.sp., big.otter.sp. (ESP: nutria)]" : {parari}
 !
@@ -1453,6 +1465,8 @@ define NRootPRQin [
 ! 
 | "[=pitiri][NRoot][=large.pink.bird.sp., heron.sp.]" : {pitiri}
 | "[=pitiiri][NRoot][=large.pink.bird.sp., heron.sp.]" : {pitiiri}
+! 
+| "[=pitsikentzi][NRoot][=red-headed.manakin (sci.nm.: pipra.rubrocapilla)]" : {pitsikentzi}
 ! 
 | "[=peraato][NRoot][=plate (flat.dish.to.put.food.on)]" : {peraato}
 ! 
@@ -1925,6 +1939,8 @@ define NRootPRQin [
 ! 
 | "[=shipatona+n.m.+inal.][NRoot][=beard, moustache]" : {shipatona}
 ! 
+| "[=shipityao][NRoot][=small.billed.elania (sci.nm.: elaenia.parvirostris)]" : {shipityao}
+! 
 | "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
 ! 
 | "[=shirontsi][NRoot][=harpy.sp. (sci.nm.: buteo.magnirostris)]" : {shirontsi}
@@ -2318,6 +2334,8 @@ define NRootPRQin [
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
 | "[=virakocha][NRoot][=outsider, white.person]" : {virakocha}
+! 
+| "[=virotzi][NRoot][=bright-rumped.attila]" : {virotzi}
 ! 
 | "[=viti+n.m.+inal.][NRoot][=outsider]" : {viti}
 | "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
