@@ -1291,6 +1291,8 @@ define NRootPRQin [
 ! 
 ! monkey species
 | "[=osheto][NRoot][=monkey.sp. (makisapa)]" : {osheto}
+! 
+| "[=oshetotsikoo][NRoot][=spectatled.owl (sci.nm.: pulsatrix.perspicillata)]" : {oshetotsikoo}
 !
 | "[=osipitari][NRoot][=hospital]" : {osipitari}
 ! 
@@ -1597,7 +1599,7 @@ define NRootPRQin [
 | "[=poe][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poe}
 | "[=poi][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poi}
 ! 
-
+| "[=poiritzi][NRoot][=blue-crowned.manakin (sci.nm.: pipra.coronata)]" : {poiritzi} ! Poirkzi ???
 ! 
 | "[=poitoki][NRoot][=cocona.sp.; edible.fruit.variety]" : {poitoki}
 | "[=poitoroki+n.m.][NRoot][=cocona.sp.; edible.fruit.variety]" : {poitoroki}
@@ -1928,6 +1930,8 @@ define NRootPRQin [
 ! 
 | "[=shinyotzi][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinyotzi}
 ! 
+| "[=shinshierogiro][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinshierogiro}
+! 
 | "[=shiranta+n.m.][NRoot][=flagstone, flag, flat.stone]" : {shiranta}
 | "[=shirantaa+n.m.][NRoot][=flagstone, flag, flat.stone]" : {shirantaa}
 ! 
@@ -2190,6 +2194,8 @@ define NRootPRQin [
 | "[=tõki+n.m.+inal.][NRoot][=bone]" : {tõki}
 ! 
 | "[=tontokoti][NRoot][=barn.owl.sp.]" : {tontokoti}
+! 
+| "[=toongotzi][NRoot][=purple-throated.fruitcrow (sci.nm.: querula.purpurara)]" : {toongotzi}
 ! 
 | "[=toontore][NRoot][=porcupine]" : {toontore}
 | "[=tontori][NRoot][=porcupine]" : {tontori}
