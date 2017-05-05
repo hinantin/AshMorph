@@ -27,7 +27,7 @@
       define BReplacement1 [ {v} (->) {b} || _ Vowels ];
       define BReplacement2 [ {nv} (->) {mb} || _ Vowels ];
       define WReplacement [ {v} (->) {w} || _ Vowels ];
-      define HUReplacement [ {v} (->) {hu} || _ [i] ]; ! kuhuinco -> kuvinco
+      define HUReplacement [ {v} (->) {hu} || _ [i|o] ]; ! kuhuinco -> kuvinco, shihuonso -> shivonso
 
       define PIReplacement [ {py} (->) {pi} || _ [a|á] ];
       define KIReplacement [ {ky} (->) {ki} || _ [a|á] ,, {ky} (->) {qy} || _ [a|á] ]; 
