@@ -99,6 +99,7 @@ define NRootPRQin [
 ! 
 | "[=ashonki][NRoot][=ankle]" : {ashonki}
 | "[=ashoshi][NRoot][=armadillo]" : {ashoshi}
+| "[=ashooshi][NRoot][=armadillo]" : {ashooshi}
 | "[=asorina][NRoot][=cheek]" : {asorina}
 ! person, individual, human
 | "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V
@@ -292,9 +293,10 @@ define NRootPRQin [
 ! 
 | "[=etzi+m.][NRoot][=armadillo]" : {etzi}
 | "[=itzi+m.][NRoot][=armadillo]" : {itzi}
+| "[=etini][NRoot][=armadillo]" : {etini}
 ! 
-| "[=etziki+n.m.][NRoot][=wild.fruit.sp. (ESP: caimitillo))]" : {etziki}
-| "[=etiki+n.m.][NRoot][=wild.fruit.sp. (ESP: caimitillo))]" : {etiki}
+| "[=etziki+n.m.][NRoot][=wild.fruit.sp. (ESP: caimitillo)]" : {etziki}
+| "[=etiki+n.m.][NRoot][=wild.fruit.sp. (ESP: caimitillo)]" : {etiki}
 ! 
 | "[=itsipa+m.][NRoot][=other, another]" : {itsipa}
 | "[=otsipa+n.m.][NRoot][=other, another]" : {otsipa}
