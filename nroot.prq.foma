@@ -1082,6 +1082,7 @@ define NRootPRQin [
 | "[=miisho+m.][NRoot][=cat]" : {miisho}
 | "[=miishito+m.][NRoot][=cat]" : {miishito}
 | "[=miichi+m.][NRoot][=cat]" : {miichi}
+| "[=miishi][NRoot][=cat]" : {miishi}
 ! 
 | "[=menki+n.m.+inal.][NRoot][=partly-burned.stickb (ESP: tizón)]" : {menki}
 | "[=minki+n.m.+inal.][NRoot][=partly-burned.stickb (ESP: tizón)]" : {minki}
@@ -1558,6 +1559,9 @@ define NRootPRQin [
 ! 
 | "[=tsipaveirotzi][NRoot][=sand-colored.nighthawk (sci.nm.: chordeiles.rupestris)]" : {tsipaveirotzi}
 | "[=tsipaveiro][NRoot][=pauraque (sci.nm.: nyctidromus.albicollis)]" : {tsipaveiro}
+! 
+| "[=tsipi][NRoot][=small.monkey (ESP: mono.de.bolsillo, pichico, mono.frale)]" : {tsipi}
+| "[=chipi][NRoot][=small.monkey (ESP: mono.de.bolsillo, pichico, mono.frale)]" : {chipi}
 ! 
 | "[=tsina][NRoot][=palm.tree.sp. (huasaí)]" : {tsina}
 | "[=tsire+n.m.+inal.][NRoot][=palm.tree.sp. (huasaí, chonta)]" : {tsire}
