@@ -1771,6 +1771,8 @@ define NRootPRQin [
 ! 
 | "[=shimpiri][NRoot][=cultigen/edible.plant.sp. (taro, sci.nm.: alocasia)]" : {shimpiri}
 ! 
+| "[=shiopa][NRoot][=worm.sp.]" : {shiopa}
+! 
 | "[=shirinti][NRoot][=small.partridge.sp. (firirín)]" : {shirinti}
 | "[=shirenti][NRoot][=small.partridge.sp. (firirín)]" : {shirenti}
 | "[=shirentzi][NRoot][=small.partridge.sp. (firirín)]" : {shirentzi}
@@ -2137,8 +2139,8 @@ define NRootPRQin [
 | "[=Temoteeyo][NRoot][=Timothy]" : {temoteeyo}
 | "[=Timoteo][NRoot][=Timothy]" : {timoteo}
 ! 
-| "[=tiparo][NRoot][=turtle.sp. (taricaya)]" : {tiparo}
-| "[=teparo][NRoot][=turtle.sp. (taricaya)]" : {teparo}
+| "[=tiparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {tiparo}
+| "[=teparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {teparo}
 ! 
 | "[=tiri+m.][NRoot][=tar]" : {tiri}
 | "[=tziri+m.][NRoot][=tar]" : {tziri}
