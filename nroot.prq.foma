@@ -460,6 +460,10 @@ define NRootPRQin [
 ! 
 | "[=kaonkari][NRoot][=green-billed.toucanet (sci.nm.: selenidera.reirwardtii)]" : {kaonkari}
 ! 
+| "[=kapashiro][NRoot][=iguana.sp.]" : {kapashiro}
+! 
+| "[=katitori][NRoot][=ant.sp.]" : {katitori}
+! 
 | "[=katonko][NRoot][=up.river]" : {katonko}
 | "[=katonka][NRoot][=up.river]" : {katonka}
 ! 
@@ -978,7 +982,8 @@ define NRootPRQin [
 | "[=mampitsa+n.m.][NRoot][=thread; cotton.thread]" : {mampitsa}
 | "[=mampetsa+n.m.][NRoot][=thread; cotton.thread]" : {mampetsa}
 ! 
-| "[=manii][NRoot][=bullet.ant]" : {manii}
+| "[=manihi][NRoot][=bullet.ant (ESP: isula)]" : {manihi}
+| "[=manii][NRoot][=bullet.ant (ESP: isula)]" : {manii}
 ! 
 | "[=maninkari+m.][NRoot][=invisible.person.who.live.in.highlands]" : {maninkari}
 | "[=maninkaro+n.m.][NRoot][=invisible.person.who.live.in.highlands]" : {maninkaro}
