@@ -789,7 +789,7 @@ define NRootPRQin [
 | "[=kishii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type]" : {kishii}
 | "[=keshii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type]" : {keshii}
 ! 
-| "[=kitairiki][NRoot][=peccary]" : {kitairiki}
+| "[=kitairiki][NRoot][=peccary (ESP: sajino)]" : {kitairiki}
 | "[=kitaiteri][NRoot][=day]" : {kitaiteri}
 ! 
 | "[=kitamaro+n.m.][NRoot][=white]" : {kitamaro} ! N@->V
@@ -1013,6 +1013,8 @@ define NRootPRQin [
 | "[=mapi+n.m.][NRoot][=stone]" : {mapi}
 ! 
 | "[=mapocha+n.m.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
+! 
+| "[=mashero][NRoot][=toad.sp.]" : {mashero}
 ! 
 # Snails
 | "[=mapoto][NRoot][=medium-size.snail]" : {mapoto}
