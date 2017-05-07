@@ -528,6 +528,9 @@ define NRootPRQin [
 | "[=ivire+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {ivire}
 | "[=iviri+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
 ! 
+| "[=iveto][NRoot][=capybara (mountain.animal, ESP: ronsoco)]" : {iveto}
+| "[=oveto][NRoot][=capybara (mountain.animal, ESP: ronsoco)]" : {oveto}
+! 
 | "[=sari+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {sari}
 | "[=saari+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {saari}
 | "[=sary+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {sary}
@@ -750,7 +753,7 @@ define NRootPRQin [
 | "[=kentsi+n.m.+inal.][NRoot][=neck, nape]" : {kentsi}
 | "[=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi}
 ! 
-| "[=kintsori][NRoot][=partridge.sp.]" : {kintsori}
+| "[=kintsori][NRoot][=partridge.sp. (ESP: perdiz)]" : {kintsori}
 | "[=kentsori][NRoot][=great.tinamou (sci.nm.: tinamus.major)]" : {kentsori}
 ! 
 | "[=kepya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepya}
@@ -2230,7 +2233,7 @@ define NRootPRQin [
 ! 
 | "[=tsavi+inal.][NRoot][=vagina]" : {tsavi}
 ! 
-| "[=tsamiri+m.][NRoot][=curassow.sp.; razor-billed.curassow (sci.nm.: crax.mitu)]" : {tsamiri}
+| "[=tsamiri+m.][NRoot][=curassow.sp. (ESP: paujil); razor-billed.curassow (sci.nm.: crax.mitu)]" : {tsamiri}
 ! 
 | "[=tsanaro+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanaro}
 | "[=tsanavo+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanavo}
