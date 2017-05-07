@@ -793,12 +793,12 @@ define NRootPRQin [
 | "[=kitairiki][NRoot][=peccary (ESP: sajino)]" : {kitairiki}
 | "[=kitaiteri][NRoot][=day]" : {kitaiteri}
 ! 
-| "[=kitamaro+n.m.][NRoot][=white]" : {kitamaro} ! N@->V
-| "[=kitamaaro+n.m.][NRoot][=white]" : {kitamaaro} ! N@->V
-| "[=kitamaavo+n.m.][NRoot][=white]" : {kitamaavo} ! N@->V
-| "[=kitamari+m.][NRoot][=white]" : {kitamari} ! N@->V
-| "[=kitamaari+m.][NRoot][=white]" : {kitamaari} ! N@->V
-| "[=kitamarori][NRoot][=white]" : {kitamarori}
+| "[=kitamaro+n.m.+color][NRoot][=white]" : {kitamaro} ! N@->V
+| "[=kitamaaro+n.m.+color][NRoot][=white]" : {kitamaaro} ! N@->V
+| "[=kitamaavo+n.m.+color][NRoot][=white]" : {kitamaavo} ! N@->V
+| "[=kitamari+m.+color][NRoot][=white]" : {kitamari} ! N@->V
+| "[=kitamaari+m.+color][NRoot][=white]" : {kitamaari} ! N@->V
+| "[=kitamarori+color][NRoot][=white]" : {kitamarori}
 ! 
 # colors
 | "[=kiteri+color][NRoot][=yellow]" : {kiteri}
