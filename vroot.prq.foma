@@ -1067,6 +1067,11 @@ define VRootPRQin [
 ! 
 | "[=tsop][VRoot][=to.pull.out]" : {tsop}
 ! 
+| "[=tsoyempi][VRoot][=to.be.sharp]" : {tsoyempi}
+| "[=tsoyimpi][VRoot][=to.be.sharp]" : {tsoyimpi}
+| "[=tsaampi][VRoot][=to.be.sharp]" : {tsaampi}
+| "[=tsoimpi][VRoot][=to.be.sharp]" : {tsoimpi}
+! 
 | "[=ty][VRoot][=to.fell, to.cut.down (a.tree)]" : {ty}
 ! 
 | "[=tyaki][VRoot][=to.blossom]" : [{tyaki}|{teyaki}]
