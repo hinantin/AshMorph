@@ -625,7 +625,8 @@ define NRootPRQin [
 ! 
 | "[=kamanitaantsi][NRoot][=death]" : {kamanitaantsi}
 ! 
-| "[=kamara][NRoot][=cinnamon.color]" : {kamara}
+| "[=kamara+color][NRoot][=cinnamon.color]" : {kamara}
+| "[=kamarari+color][NRoot][=brown, beige]" : {kamarari}
 ! 
 | "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampi}
 | "[=kamaraNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamaranvi}
