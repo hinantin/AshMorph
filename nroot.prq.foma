@@ -1335,6 +1335,8 @@ define NRootPRQin [
 | "[=otsiti+m.+poss@te.][NRoot][=dog]" : {otsiti}
 | "[=otsitsi+m.+poss@te.][NRoot][=dog]" : {otsitsi}
 ! 
+| "[=otsitiniro][NRoot][=fox; wild.dog, mountain.dog]" : {otsitiniro}
+! 
 | "[=otzishi+n.m.][NRoot][=row; hill; mountain.pass (ESP: abra)]" : {otzishi}
 | "[=otishi+n.m.][NRoot][=row; hill; mountain.pass (ESP: abra)]" : {otishi}
 ! 
@@ -1723,7 +1725,8 @@ define NRootPRQin [
 ! 
 | "[=saankotzi][NRoot][=cinereous.tinamou (sci.nm.: crypturellus.cinereus)]" : {saankotzi}
 ! 
-| "[=saari+m.][NRoot][=opossum]" : {saari}
+| "[=saari+m.][NRoot][=opossum, possum (ESP: zarigüeya)]" : {saari}
+| "[=sagari][NRoot][=opossum, possum (ESP: zarigüeya)]" : {sagari}
 ! 
 | "[=saasaatzi][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus)]" : {saasaatzi}
 ! 
