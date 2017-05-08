@@ -12,7 +12,9 @@ define NumeralPRQin [
 | "[=apitevakaye][NumeralPRQ][=four]" : {apitevakaye}
 | "[=apitekavakaye][NumeralPRQ][=four]" : {apitekavakaye}
 | "[=otsi][NumeralPRQ][=four]" : {otsi}
+| "[=oyatanakerori][NumeralPRQ][=four]" : {oyatanakerori} ! source:IIAP 
 ! 
+| "[=apavakoro][NumeralPRQ][=five]" : {apavakoro} ! source:IIAP
 | "[=apapokoroni][NumeralPRQ][=five]" : {apapokoroni}
 | "[=apapakoroni][NumeralPRQ][=five]" : {apapakoroni}
 | "[=koni][NumeralPRQ][=five]" : {koni}

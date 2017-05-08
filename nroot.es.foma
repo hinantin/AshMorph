@@ -1,6 +1,9 @@
 define NRootESin [
   "[=acero][NRootEs][=steel, iron]" : {ashiro}
 | "[=amigo+poss@te][NRootEs][=friend]" : {amigo}
+! 
+| "[=azoriri+color][NRootEs][=blue]" : {azoriri} ! source:IIAP 
+! 
 | "[=botella][NRootEs][=bottle]" : {voteya}
 ! 
 | "[=chocolate+NCMS000][NRootEs][=chocolate]" : {chokorate}

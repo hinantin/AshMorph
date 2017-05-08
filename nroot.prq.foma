@@ -16,7 +16,9 @@ define NRootPRQin [
 | "[=iraapana+n.m.+inal.][NRoot][=liver]" : {iraapana}
 ! 
 | "[=aavintaro+n.m.+inal.][NRoot][=medicine; natural.medicine]" : {aavintaro}
+! 
 | "[=aiki+n.m.+inal.][NRoot][=tooth]" : {aiki}
+| "[=ahi+inal.][NRoot][=tooth]" : {ahi}
 ! 
 | "[=airi+m.][NRoot][=black.bee.sp.]" : {airi} 
 ! 
@@ -316,6 +318,8 @@ define NRootPRQin [
 | "[=hananeki][NRoot][=child]" : {hananeki}
 ! 
 | "[=haachotzi][NRoot][=black-tailed.trogon (sci.nm.: trogon.melanurus)]" : {haachotzi}
+! 
+| "[=hari+poss@ri][NRoot][=brother (kin.of.a.female, fem.ego)]" : {hari}
 ! 
 | "[=haavari+m.][NRoot][=warm (prbly.liquid)]" : {haavari}
 | "[=saavaari+m.][NRoot][=warm (prbly.liquid)]" : {saavaari}
@@ -762,6 +766,8 @@ define NRootPRQin [
 | "[=kepiya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepiya}
 ! 
 | "[=kipatsi+n.m.+poss@te.][NRoot][=ground, mud, earth; land]" : {kipatsi}
+! 
+| "[=kipatsiniro+color][NRoot][=brown]" : {kipatsiniro} ! source:IIAP 
 ! word set:
 | "[=kipishiri+n.m.][NRoot][=bitter]" : {kipishiri}
 | "[=kepishiri+n.m.][NRoot][=bitter]" : {kepishiri}
