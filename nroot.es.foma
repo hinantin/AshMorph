@@ -21,6 +21,11 @@ define NRootESin [
 ! 
 | "[=ingeniero][NRootEs][=engineer]" : {ingeniero}
 | "[=juan.santos.atahualpa][NRootEs][=person’s.name]" : {juan.santos.atahualpa}
+! 
+| "[=coco+NCMS000][NRootEs][=coconut]" : {koko} ! source:IIAP 
+| "[=cocona+NCFS000][NRootEs][=cocona.shrub]" : {kokona} ! source:IIAP
+| "[=kokonaki][NRoot][=cocona.fruit]" : {kokonaki} ! source:IIAP 
+! 
 | "[=matemática][NRootEs][=math]" : {matematika}
 | "[=mesa][NRootEs][=table]" : {mesa}
 | "[=misión][NRootEs][=mission]" : {misión}

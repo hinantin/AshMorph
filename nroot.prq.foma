@@ -778,6 +778,8 @@ define NRootPRQin [
 | "[=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : {kirii}
 ! 
 | "[=kiri+n.m.+inal.][NRoot][=nose; nostrils]" : {kiri}
+| "[=kirina+inal.][NRoot][=nose]" : {kirina}
+| "[=kirimashi][NRoot][=nose]" : {kirimashi}
 ! 
 | "[=kiriiki+m.][NRoot][=money]" : {kiriiki}
 | "[=kireeki+m.][NRoot][=money]" : {kireeki}
@@ -787,8 +789,6 @@ define NRootPRQin [
 | "[=kenashiri+color][NRoot][=green]" : {kenashiri}
 ! 
 | "[=Kireshia][NRoot][=Greece]" : {kireshia}
-! 
-| "[=kirimashi][NRoot][=nose]" : {kirimashi}
 ! 
 | "[=kisaakiri][NRoot][=black.person]" : {kisaakiri}
 | "[=kishi+inal.][NRoot][=hair]" : {kishi}
@@ -1499,6 +1499,8 @@ define NRootPRQin [
 | "[=pirantzi+m.][NRoot][=idle, lazy]" : {pirantzi}
 | "[=peranto+n.m.][NRoot][=idle, lazy]" : {peranto}
 | "[=piranto+n.m.][NRoot][=idle, lazy]" : {piranto}
+! 
+| "[=piryoki][NRoot][=coconut.palm.grub]" : {piryoki}
 ! 
 | "[=pentaki+n.m.+inal.][NRoot][=watermelon-like.flat.seed; fish.scale; sth.of.round-shape.with.2.sides.flattened]" : {pentaki}
 ! 
