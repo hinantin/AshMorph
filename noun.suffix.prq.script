@@ -109,7 +109,10 @@ define N=S=CL [
 | "[--][-nari][+CL:animal][=animal]" : {nari} # covitzinari 
 | "[--][-moko][+CL:spherical,small][=spherical,small]" : {moko} 
 | "[--][-ponkitzi][+CL:ground-level.part.of.tree.trunk][=ground-level.part.of.tree.trunk; stump]" : {ponkitzi} 
-| "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions; simulative, like.sth. (moraniro: like.a.mule)]" : {niro} 
+! 
+| "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions]" : {niro} 
+| "[--][-niro][+CL:simulative][=simulative, like.sth. (moraniro: like.a.mule)]" : {niro} 
+! 
 | "[--][-kona][+CL:curved][=curved]" : {kona} 
 | "[--][-empeki][+CL:small.branch][=small.branch]" : {empeki} 
 | "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} 
