@@ -425,7 +425,7 @@ define V=S=APPLBEN [
 ];
       
 define V=S=APPLPRES [
-  "[--][-imo+company][+APPL.PRES]" : "@EP"[{imo}]
+  "[--][-imo+company][+APPL.PRES][=with.other.person]" : "@EP"[{imo}]
 ];
       
 define V=S=APPLSEP [

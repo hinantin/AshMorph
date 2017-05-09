@@ -319,7 +319,7 @@ define S [
  (V=S=REGR) (V=S=IRR) (V=S=OPT) | 
  (V=S=PROG) (V=S=PRNO) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=OPT) | 
- (V=S=APPLPRES) (V=S=IRR) (V=S=PRNO) (V=S=OPT) | 
+ (V=S=APPLPRES) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=OPT) | 
  (V=S=APPLINT) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
  (V=S=APPLREAS) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPL) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
