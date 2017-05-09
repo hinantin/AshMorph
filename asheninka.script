@@ -175,10 +175,13 @@
                                                                             # oketsa (in our lexicon) -> o@LEN@etsa -> o@LEN@etsa -> o-etsa-re-ki
       define KLenitionRule3 [ "@LEN@"k (->) "@LEN@" || [{i}] _ [{i}] ]; 
                                                                             # ikishi (in our lexicon) -> i@LEN@kishi -> i@LEN@ishi -> iishi 
+      define KLenitionRule4 [ "@LEN@"k (->) "@LEN@" || [{p}] _ [{i}] ]; 
+                                                                            # pkitsare (in our lexicon) -> p@LEN@kitsare -> p@LEN@itsare -> pitsare 
       define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 
  .o. KJLenitionRule1 
  .o. KLenitionRule2 
  .o. KLenitionRule3 
+ .o. KLenitionRule4 
 ];
 
       #########################################
