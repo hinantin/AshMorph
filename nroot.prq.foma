@@ -400,6 +400,7 @@ define NRootPRQin [
 | "[=îpoto+m.][NRoot][=earthworm.sp.]" : {îpoto}
 ! 
 | "[=ina+n.m.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ina} ! non-possesive form?
+| "[=inaa+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {inaa}
 | "[=iina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {iina}
 | "[=hina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {hina}
 ! 
@@ -1227,7 +1228,7 @@ define NRootPRQin [
 | "[=nea+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nea}
 ! 
 | "[=niocho][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {niocho}
-| "[=mamantsiki][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {mamantsiki}
+| "[=mamantsiki][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {mamantsiki} ! mother as well ??
 | "[=neanea][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {neanea}
 ! 
 | "[=nyamo+n.m.][NRoot][=medicinal.plant.sp.]" : {nyamo}
@@ -1263,6 +1264,10 @@ define NRootPRQin [
 ! 
 | "[=oki+n.m.+inal.][NRoot][=eye]" : {oki}
 | "[=ooki+n.m.+inal.][NRoot][=eye]" : {ooki}
+! 
+| "[=okitamaroityamani][NRoot][=early.morning, dawning]" : {okitamaroityamani}
+| "[=okitaitamani][NRoot][=early.morning, dawning]" : {okitaitamani}
+| "[=omampiraityaamani][NRoot][=early.morning, dawning]" : {omampiraityaamani}
 ! 
 | "[=okitsoki][NRoot][=seed]" : {okitsoki}
 | "[=okitoki][NRoot][=seed]" : {okitoki}
