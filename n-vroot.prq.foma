@@ -6,6 +6,7 @@ define NounToVerbPRQin [
 | "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V
 | "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane} ! N@->V
 | "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V
+| "[=aarontsi][NRoot][=summer]" : {aarontsi} ! N@->V
 | "[=antami][NRoot][=woods, forest]" : {antami} ! N@->V
 | "[=ãtame][NRoot][=woods, forest]" : {ãtame} ! N@->V
 | "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V

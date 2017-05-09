@@ -53,7 +53,7 @@ define N [
  (N=S=LOC) (N=S=DIM) | 
  (N=S=DEM) (N=S=EMPH) | 
  (N=S=ADVP) | 
- (N=S=ADV) | 
+ (N=S=ADV) (N=S=LOC) | ! =aarontsi-paite-ki 
  (N=S=DEM) | 
  (N=S=CL) (N=S=smallpart) (N=S=DIM) | 
  (N=S=ABS) (N=S=EXCL) | 
