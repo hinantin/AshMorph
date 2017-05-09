@@ -648,7 +648,9 @@ define NRootPRQin [
 | "[=kamaveni][NRoot][=land.of.mortal.beings]" : {kamaveni}
 ! 
 | "[=kamenaantsi][NRoot][=advice]" : {kamenaantsi}
-| "[=kami][NRoot][=rotten.leaf]" : {kami}
+! 
+| "[=kami+poss@ni.][NRoot][=rotten.leaf]" : {kami}
+! 
 | "[=kaminka][NRoot][=dead]" : {kaminka}
 ! 
 | "[=kamona][NRoot][=palm.tree.sp. (pona)]" : {kamona}
@@ -835,7 +837,7 @@ define NRootPRQin [
 ! 
 | "[=kitsapi+m.][NRoot][=needle]" : {kitsapi}
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
-| "[=kitsoki][NRoot][=egg]" : {kitsoki}
+| "[=kitsoki][NRoot][=egg]" : {kitsoki} ! N@->V
 | "[=kitzi+n.m.+inal.][NRoot][=leg]" : {kitzi}
 ! 
 | "[=koachere][NRoot][=blackish.rail (sci.nm.: pardirallus.nigricans)]" : {koachere}

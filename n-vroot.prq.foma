@@ -38,6 +38,7 @@ define NounToVerbPRQin [
 | "[=kitamaavo+n.m.+color][NRoot][=white]" : {kitamaavo} ! N@->V
 | "[=kitamari+m.+color][NRoot][=white]" : {kitamari} ! N@->V
 | "[=kitamaari+m.+color][NRoot][=white]" : {kitamaari} ! N@->V
+| "[=kitsoki][NRoot][=egg]" : {kitsoki} ! N@->V
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
 | "[=koya][NRoot][=woman (from.Quechua.Quya)]" : {koya} ! N@->V
 | "[=mavoshi+n.m.+inal.][NRoot][=nest]" : {mavoshi} ! N@->V

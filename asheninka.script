@@ -177,11 +177,16 @@
                                                                             # ikishi (in our lexicon) -> i@LEN@kishi -> i@LEN@ishi -> iishi 
       define KLenitionRule4 [ "@LEN@"k (->) "@LEN@" || [{p}] _ [{i}] ]; 
                                                                             # pkitsare (in our lexicon) -> p@LEN@kitsare -> p@LEN@itsare -> pitsare 
+      define KLenitionRule5 [ "@LEN@"k (->) "@LEN@" || [{o}] _ [{i}] ]; ! oitsoki -> o=kitsoki 
+      define KLenitionRule6 [ "@LEN@"k (->) "@LEN@" || [{a}] _ [{i}] ]; ! aitsoki -> a=kitsoki 
+
       define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 
  .o. KJLenitionRule1 
  .o. KLenitionRule2 
  .o. KLenitionRule3 
  .o. KLenitionRule4 
+ .o. KLenitionRule5 
+ .o. KLenitionRule6 
 ];
 
       #########################################
