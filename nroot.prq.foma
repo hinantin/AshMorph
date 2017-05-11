@@ -530,7 +530,7 @@ define NRootPRQin [
 | "[=iyotsi+m.][NRoot][=catfish.sp. (súngaro, doncella), fish.sp.]" : {iyotsi}
 ! 
 | "[=ivenki+n.m.][NRoot][=magic.plant (of.a.male)]" : {ivenki}
-| "[=ovenki+n.m.][NRoot][=magic.plant (of.a.female)]" : {ovenki}
+| "[=ovenki+n.m.][NRoot][=magic.plant (of.a.female); pod, long.thin.case.filled.with.seeds (ESP: vaina)]" : {ovenki}
 ! 
 | "[=ivire+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {ivire}
 | "[=iviri+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
@@ -2289,7 +2289,9 @@ define NRootPRQin [
 | "[=tsaati+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsaati} 
 ! 
 | "[=tsaronka][NRoot][=fear]" : {tsaronka} 
+! 
 | "[=tsavi][NRoot][=vagina]" : {tsavi} 
+! 
 | "[=tsiirishi][NRoot][=La.Merced]" : {tsiirishi} 
 ! 
 | "[=tsikontoche][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {tsikontoche} 
