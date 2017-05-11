@@ -77,7 +77,7 @@ define V=S=PLcircumfixing [
 
       
 define V=S=REGR [
-  "[--][-a][Cas][+REGR_TERM]" : "@EP"[{a}]
+  "[--][-a][Cas][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue; TERM: ]" : "@EP"[{a}]
 | "[--][-ah][Cas][+REGR_TERM]" : "@EP"[{ah}]
 | "[--][-aha][Cas][+REGR_TERM]" : "@EP"[{aha}]
 ];
