@@ -91,6 +91,7 @@ define NounToVerbPRQin [
 | "[=pisaro+n.m.][AdjRoot][=old]" : {pisaro} ! N@->V
 | "[=pisharo+n.m.][AdjRoot][=old]" : {pisharo} ! N@->V
 | "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V
+| "[=haran][IdeoPRQ][=sound/action.made.by.a.falling/breaking.branch/tree]" : {haran} ! N@->V
 | "[=aparoni][NumeralPRQ][=one]" : {aparoni} ! N@->V
 | "[=apite][NumeralPRQ][=two]" : {apite} ! N@->V
 | "[=mava][NumeralPRQ][=three]" : {mava} ! N@->V
