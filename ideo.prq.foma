@@ -262,12 +262,15 @@ define IdeoPRQin [
 | "[=haran][IdeoPRQ][=sound/action.made.by.a.falling/breaking.branch/tree]" : {haran} ! N@->V
 ! 
 | "[=tonki+s.redup.word][IdeoPRQ][=shaky.knees.sensation; cold.body.sensation (anxiety)]" : {tonki}
+! 
+| "[=varok][IdeoPRQ][=startle.reaction.in.response.to.sudden.events]" : {varok} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
 | "[=tankori][IdeoPRQ][=becoming.awake/conscious]" : {tankori}
-| "[=tankorik][IdeoPRQ][=becoming.awake/conscious]" : {tankorik}
-| "[=tankorek][IdeoPRQ][=regain.consciousness]" : {tankorek}
+| "[=tankori][IdeoPRQ][=becoming.awake/conscious][--][-k][+PUNCTUAL.ACTN]" : {tankorik} ! tankori(k) 
+| "[=tankore][IdeoPRQ][=regain.consciousness][--][-k][+PUNCTUAL.ACTN]" : {tankorek}
+! 
 | "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance; jump.like.a.deer]" : {tankorek}
 | "[=mantsari+s.redup.word][IdeoPRQ][=scratching.with.nails/claws; shredding/scratching/raking]" : {mantsari}
 ! 
@@ -331,6 +334,8 @@ define IdeoPRQin [
 ! 
 | "[=motori+s.redup.word][IdeoPRQ][=sensation.of.a.big.rumble.in.the.stomach]" : {motori}
 | "[=montori+s.redup.word][IdeoPRQ][=sensation.of.a.big.rumble.in.the.stomach]" : {montori}
+! 
+| "[=tsovivi+s.redup.word][IdeoPRQ][=sensation.of.a.deaf_pain.in.the.stomach]" : {tsovivi}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
