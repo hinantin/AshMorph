@@ -34,6 +34,8 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=shirori" "]" "[" "IdeoPRQ" "]" "[" "=slipping.down.a.tree" "]" ] : {shirori}
 | [ "[" "=tsari" "]" "[" "IdeoPRQ" "]" "[" "=stretching.body" "]" ] : {tsari}
 | [ "[" "=heri" "]" "[" "IdeoPRQ" "]" "[" "=sound/action.of.sth.burning.strongly.and.crackling" "]" ] : {heri}
+| [ "[" "=hempari" "]" "[" "IdeoPRQ" "]" "[" "=pain.abating; action.of.soothing.the.pain.in.the.body" "]" ] : {hempari}
+| [ "[" "=henkari" "]" "[" "IdeoPRQ" "]" "[" "=sensation.of.scent/odor.diffusion" "]" ] : {henkari}
 
 | [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
 | [ "[" "=vore" "]" "[" "IdeoPRQ" "]" "[" "=brilliance.of.the_sun" "]" ] : {vore}
@@ -56,6 +58,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=soro" "]" "[" "IdeoPRQ" "]" "[" "=action/sound.of.a.serpent.sliding.downward.a_hill" "]" ] : {soro}
 | [ "[" "=hero" "]" "[" "IdeoPRQ" "]" "[" "=sound.of.a_large_fire, sound.of.fire" "]" ] : {hero}
 | [ "[" "=tsakoro" "]" "[" "IdeoPRQ" "]" "[" "=emptying.water.bottle" "]" ] : {tsakoro}
+
 ] 
 ["+redup.syl."]
 0:"^]";
