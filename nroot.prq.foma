@@ -63,6 +63,8 @@ define NRootPRQin [
 ! 
 | "[=ana][NRoot][=genipap, huito, jagua (botany.id.: genipa.americana)]" : {ana}
 ! 
+| "[=ananta][NRoot][=orchid.sp. (ESP: orquídea)]" : {ananta}
+! 
 | "[=ani+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {ani}
 | "[=anii+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
 | "[=aninko+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aninko} ! to be checked 
@@ -1298,6 +1300,8 @@ define NRootPRQin [
 | "[=onko][NRoot][=cultigen/edible.plant.sp. (malanga, sci.nm.: xanthosoma.sp.)]" : {onko}
 ! 
 | "[=oNkona][NRoot][=cecropia.sp., tree.sp. (cetico)]" : {onkona}
+! 
+| "[=oori][NRoot][=bird.sp.]" : {oori}
 ! sun 
 | "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri} !?
 | "[=oryatsiri+m.][NRoot][=shining.sun, strong.sun]" : {oryatsiri} !?

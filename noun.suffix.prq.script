@@ -28,7 +28,7 @@ define N=S=PL [
 ];
       
 define N=S=DIM [
-  "[--][-patsaini][+small.part.DIM]" : {patsaini} 
+  "[--][-patsa][+small.part][--][-ini][+DIM]" : {patsaini} 
 | "[--][-peta][+DIM]" : {peta} 
 | "[--][-ini][+DIM]" : {ini} 
 | "[--][-ni][+DIM]" : {ni} 
