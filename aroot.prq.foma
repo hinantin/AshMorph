@@ -7,13 +7,24 @@ define ARootPRQin [
 | "[=antaro+n.m.][AdjRoot][=big; mature]" : {antaro} ! N@->V
 | "[=antearo+n.m.][AdjRoot][=big; mature]" : {antearo} ! N@->V
 | "[=antyaro+n.m.][AdjRoot][=big; mature]" : {antyaro} ! N@->V
+# -----------------------------------------------
+# small
+# -----------------------------------------------
 ! 
-| "[=iyaani][AdjRoot][=small]" : {iyaani}
+| "[=iyaani+m.][AdjRoot][=small]" : {iyaani}
+| "[=iyaanini+m.][AdjRoot][=small]" : {iyaanini}
+| "[=ovaanini+n.m.][AdjRoot][=small]" : {ovaanini}
 ! 
 | "[=iriani+m.][AdjRoot][=small]" : {iriani}
 | "[=iryani+m.][AdjRoot][=small]" : {iryani}
+| "[=iryaani+m.][AdjRoot][=small]" : {iryaani}
 | "[=oriani+n.m.][AdjRoot][=small]" : {oriani}
 | "[=oryani+n.m.][AdjRoot][=small]" : {oryani}
+| "[=oryaani+n.m.][AdjRoot][=small]" : {oryaani}
+! 
+| "[=irihani+m.][AdjRoot][=small]" : {irihani}
+| "[=orihani+n.m.][AdjRoot][=small]" : {orihani}
+# -----------------------------------------------
 ! 
 | "[=katsimari][AdjRoot][=bad]" : {katsimari}
 ! 
