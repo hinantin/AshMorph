@@ -185,7 +185,7 @@ define IdeoPRQin [
 ! 
 | "[=tsopak][IdeoPRQ][=sudden.forceful.detachment.of.one.entity.from.another; slipping.off.due.to.a.forceful.action (e.g.: a_sandal.slipping.off.a.foot.while.it.kicks.a_ball)]" : {tsopak} 
 ! 
-| "[=sori+s.redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores/pockmarks.on.the.skin (accompanied.by.swelling)]" : {sori} 
+| "[=sori+s.redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores/pockmarks.on.the.skin (accompanied.by.swelling; probably.caused.by.smallpox)]" : {sori} 
 ! 
 | "[=vako+s.redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand; waving.with.a.folded.hand.signaling.an_intention.to.talk]" : {vako} 
 ! 
@@ -201,7 +201,7 @@ define IdeoPRQin [
 ! 
 | "[=sarak][IdeoPRQ][=entering.solid.space, (e.g. an.arrow.piercing.flesh)]" : {sarak} 
 ! 
-| "[=shitak][IdeoPRQ][=loudly.slammed.door]" : {shitak} 
+| "[=shitak][IdeoPRQ][=loudly.slammed.door; walking.with.a.limp.action.]" : {shitak} 
 ! 
 | "[=tzimpa][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpa} 
 | "[=tzimpak+s.redup.word][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots, pulling.weeds.from.the_ground; human_body.agonizing.in.violent.convulsions]" : {tzimpak} 
@@ -238,6 +238,7 @@ define IdeoPRQin [
 | "[=teka+s.redup.word][IdeoPRQ][=body.shaking]" : {teka} 
 ! 
 | "[=viro+s.redup.word][IdeoPRQ][=many.people.talking]" : {viro} 
+| "[=anye+s.redup.word][IdeoPRQ][=many.people.talking]" : {anye} 
 ! 
 | "[=shiri+s.redup.word][IdeoPRQ][=sweeping.the.floor.with.a_broom; sewing/bead_stringing]" : {shiri} 
 | "[=pishe+s.redup.word][IdeoPRQ][=sweeping.the.floor.with.a_broom]" : {pishe} 
@@ -268,6 +269,8 @@ define IdeoPRQin [
 | "[=shena+s.redup.word][IdeoPRQ][=giving.food.directly.into.one's.mouth]" : {shena} 
 ! 
 | "[=soro+s.redup.word][IdeoPRQ][=eating.hot.soup.with.a.spoon]" : {soro} 
+! 
+| "[=ahak][IdeoPRQ][=coughing.action]" : {ahak} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -325,7 +328,7 @@ define IdeoPRQin [
 ! 
 | "[=mankari+s.redup.word][IdeoPRQ][=pulling.weeds.from.the_ground]" : {mankari}
 ! 
-| "[=sokirik][IdeoPRQ][=object.disappearing.suddenly (e.g.: human, snake)]" : {sokirik}
+| "[=sokirik][IdeoPRQ][=object/animated_entity.disappearing.suddenly (e.g.: human, snake)]" : {sokirik}
 ! 
 | "[=hempari+s.redup.word][IdeoPRQ][=pain.abating; action.of.soothing.the.pain.in.the.body]" : {hempari}
 ! 
