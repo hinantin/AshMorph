@@ -98,7 +98,7 @@ define IdeoPRQin [
 ! 
 | "[=shipik][IdeoPRQ][=getting.hold.of.an_object; grabbing.moving.object]" : {shipik}
 ! 
-| "[=shepi][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
+| "[=shepi+s.redup.word][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
 | "[=shepi+s.redup.word][IdeoPRQ][=blocking.the_waterstream.with.dry.leaves.and.stones (creating.a.dam)]" : {shepi}
 ! 
 | "[=koma+s.redup.word][IdeoPRQ][=paddling.canoe; moving.a_canoe.with.a_paddle]" : {koma}
@@ -142,7 +142,7 @@ define IdeoPRQin [
 | "[=panek+s.redup.word][IdeoPRQ][=digging.soil.in.scoops]" : {panek} 
 ! 
 | "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water; swallowing.liquid]" : {kori} 
-| "[=kori^k][IdeoPRQ][=action.of.gulping.water.once; swallowing.liquid]" : {korik} 
+| "[=kori][IdeoPRQ][=action.of.gulping.water.once; swallowing.liquid][--][-k][+PUNCTUAL.ACTN]" : {korik} 
 ! 
 | "[=chek+s.redup.word][IdeoPRQ][=chopping.wood]" : {chek} 
 | "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action; chopping.wood]" : {cheki} 
@@ -175,7 +175,7 @@ define IdeoPRQin [
 ! 
 | "[=vanik][IdeoPRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
 ! 
-| "[=tsarak][IdeoPRQ][=loud.fart, breaking.wind.loudly]" : {tsarak} 
+| "[=tsarak][IdeoPRQ][=loud.fart, breaking.wind.loudly (for.adult.women)]" : {tsarak} 
 ! 
 | "[=ahak][IdeoPRQ][=sneezing; coughing]" : {ahak} ??? 
 ! 
@@ -264,6 +264,10 @@ define IdeoPRQin [
 | "[=tonki+s.redup.word][IdeoPRQ][=shaky.knees.sensation; cold.body.sensation (anxiety)]" : {tonki}
 ! 
 | "[=varok][IdeoPRQ][=startle.reaction.in.response.to.sudden.events]" : {varok} 
+! 
+| "[=shena+s.redup.word][IdeoPRQ][=giving.food.directly.into.one's.mouth]" : {shena} 
+! 
+| "[=soro+s.redup.word][IdeoPRQ][=eating.hot.soup.with.a.spoon]" : {soro} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
