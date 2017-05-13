@@ -840,8 +840,8 @@ define VRootPRQin [
 | "[=savoina][VRoot][=to.wear.a.cap.on.the.head]" : {savoina}
 | "[=shaik][VRoot][=to.be.at]" : {shaik}
 | "[=sheki][VRoot][=to.be.much]" : {sheki}
-| "[=sheki][VRoot][=much]" : {sheki}
-| "[=shemi][VRoot][=pound]" : {shemi}
+| "[=sheki][VRoot][=to.be.much]" : {sheki}
+| "[=shemi][VRoot][=to.pound.sth.]" : {shemi} ! ideophone???
 ! 
 | "[=sheni][VRoot][=to.be.of.the.same.group]" : {sheni}
 | "[=shani][VRoot][=to.be.of.the.same.group]" : {shani}

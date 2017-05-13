@@ -116,6 +116,7 @@ define IdeoPRQin [
 ! 
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
+| "[=shemi+s.redup.word][IdeoPRQ][=pounding.a.hard.substance]" : {shemi}
 ! 
 | "[=morek][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)]" : {morek}
 | "[=morik][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)]" : {morik}
@@ -271,6 +272,8 @@ define IdeoPRQin [
 | "[=soro+s.redup.word][IdeoPRQ][=eating.hot.soup.with.a.spoon]" : {soro} 
 ! 
 | "[=ahak][IdeoPRQ][=coughing.action]" : {ahak} 
+! 
+| "[=tsari+s.redup.word][IdeoPRQ][=action.of.stretching.a.thread]" : {tsari} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -296,8 +299,8 @@ define IdeoPRQin [
 | "[=sapiri+s.redup.word][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
 | "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
 ! 
-| "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope/thread]" : {tsatzik}
-| "[=tsatzi+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread)]" : {tsatzi}
+| "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope/thread; breaking.a.thread/leaf.into.two.pieces]" : {tsatzik}
+| "[=tsatzi+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread); breaking.a.thread/leaf.into.two.pieces]" : {tsatzi}
 ! 
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.rope/thread]" : {mamporik}
 | "[=shimori+s.redup.word][IdeoPRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
