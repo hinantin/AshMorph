@@ -24,7 +24,7 @@ define IdeoPRQin [
 | "[=tek+s.redup.word][IdeoPRQ][=running.briskly]" : {tek}
 | "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree]" : {tok}
 ! 
-| "[=shek+s.redup.word][IdeoPRQ][=moving/walking.fast; action.of.scratching]" : {shek}
+| "[=shek+s.redup.word][IdeoPRQ][=moving/walking.quickly; action.of.scratching]" : {shek}
 ! 
 | "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {sooo}
 | "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
@@ -52,7 +52,7 @@ define IdeoPRQin [
 | "[=teng][IdeoPRQ][=sound.of.a_fart, breaking.wind (for.young.females)]" : {teng}
 | "[=tang][IdeoPRQ][=breaking.wind (for.young.females)]" : {tang}
 ! 
-| "[=shoi+s.redup.word][IdeoPRQ][=twisting.movement; object's.circular.movement.around.another.object]" : {shoi}
+| "[=shoi+s.redup.word][IdeoPRQ][=twisting.movement (e.g.: bottle.cap); object's.circular.movement.around.another.object (e.g.: walking.in.circles)]" : {shoi}
 ! 
 | "[=pak][IdeoPRQ][=heavy.object.falling.down/on_the_ground]" : {pak}
 | "[=pak+s.redup.word][IdeoPRQ][=giving.strong.blows.to.human_body]" : {pak}
@@ -132,7 +132,7 @@ define IdeoPRQin [
 | "[=pite][IdeoPRQ][=trickling.stream]" : {pite}
 ! 
 | "[=shiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shiri} 
-| "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; climbing.up.a_tree; wiping.tears.from.the.face]" : {shiri} 
+| "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; (slowly).climbing.up.a_tree; wiping.tears.from.the.face]" : {shiri} 
 | "[=shikiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
 ! 
 | "[=terong][IdeoPRQ][=drumming; sound.of.a.drum]" : {terong} 
@@ -159,11 +159,11 @@ define IdeoPRQin [
 | "[=miha+s.redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
 ! 
 | "[=chinte][IdeoPRQ][=leaping.like.a_deer]" : {chinte} 
-| "[=chintek][IdeoPRQ][=leaping.like.a_deer]" : {chintek} 
-| "[=chentek][IdeoPRQ][=leaping.like.a_deer]" : {chentek} 
+| "[=chinte][IdeoPRQ][=leaping.like.a_deer][--][-k][+PUNCTUAL.ACTN]" : {chintek} 
+| "[=chente][IdeoPRQ][=leaping.like.a_deer][--][-k][+PUNCTUAL.ACTN]" : {chentek} 
 ! 
-| "[=chinte+s.redup.word][IdeoPRQ][=woman walking.in.high.heels]" : {chinte}
-| "[=chinteki+s.redup.word][IdeoPRQ][=woman walking.in.high.heels]" : {chinteki} 
+| "[=chinte+s.redup.word][IdeoPRQ][=woman.walking.in.high.heels]" : {chinte}
+| "[=chinteki+s.redup.word][IdeoPRQ][=woman.walking.in.high.heels]" : {chinteki} 
 ! 
 | "[=macho+s.redup.word][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
 ! 
@@ -192,13 +192,13 @@ define IdeoPRQin [
 ! 
 | "[=vako+s.redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand; waving.with.a.folded.hand.signaling.an_intention.to.talk]" : {vako} 
 ! 
-| "[=sakiri+s.redup.word][IdeoPRQ][=moving.in.a.straight.line; filing.down.an_arrow]" : {sakiri} 
+| "[=sakiri+s.redup.word][IdeoPRQ][=moving.in.a.straight.line (e.g.: meteorite.trajectory); filing.down.an_arrow]" : {sakiri} 
 ! 
 | "[=koshe+s.redup.word][IdeoPRQ][=shaving.in.long.strips; removing.strips.of.surface.with.a.machete/knife/razor]" : {koshe} 
 ! 
 | "[=pishi+s.redup.word][IdeoPRQ][=to.sweep.the.ground]" : {pishi} 
 ! 
-| "[=shetak+s.redup.word][IdeoPRQ][=to.limp; limping.gait]" : {shetak} 
+| "[=shetak+s.redup.word][IdeoPRQ][=to.limp; limping.gait; walking.with.limp]" : {shetak} 
 ! 
 | "[=kisho+s.redup.word][IdeoPRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river; spitting.saliva.in.a.fishing.ritual]" : {kisho} 
 ! 
@@ -359,6 +359,8 @@ define IdeoPRQin [
 ! 
 | "[=pichori+s.redup.word][IdeoPRQ][=action.of.grinding.wood_mass]" : {pichori} ! arbolada = wooded???
 | "[=pichoro][IdeoPRQ][=action.of.grinding.wood_mass]" : {pichoro} ! arbolada = wooded???
+! 
+| "[=tyapaki+s.redup.word][IdeoPRQ][=big_footed_duck-like.walking]" : {tyapaki}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
@@ -366,6 +368,7 @@ define IdeoPRQin [
 | "[=chirirorik][IdeoPRQ][=shallow.splash]" : {chirirorik}
 | "[=pakarorik][IdeoPRQ][=falling.of.corn/grain.feed.for.chickens]" : {pakarorik}
 | "[=chikiroring][IdeoPRQ][=falling.&.resulting.in.the.disintegration.of.a.fragile.object (e.g.: mirror, tea_cup)]" : {chikiroring}
+| "[=tsorompiri+s.redup.word][IdeoPRQ][=walking.on.the.outside-bottom.of.the.foot]" : {tsorompiri}
 # ---------------------------------------------------------------
 | "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
 | "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
