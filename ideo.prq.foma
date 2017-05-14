@@ -24,7 +24,7 @@ define IdeoPRQin [
 | "[=tek+s.redup.word][IdeoPRQ][=running.briskly]" : {tek}
 | "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree]" : {tok}
 ! 
-| "[=shek+s.redup.word][IdeoPRQ][=moving/walking.fast]" : {shek}
+| "[=shek+s.redup.word][IdeoPRQ][=moving/walking.fast; action.of.scratching]" : {shek}
 ! 
 | "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {sooo}
 | "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
@@ -71,7 +71,7 @@ define IdeoPRQin [
 ! 
 | "[=chak][IdeoPRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash]" : {chak} 
 ! 
-| "[=shei+s.redup.word][IdeoPRQ][=sawing]" : {shei} 
+| "[=shei+s.redup.word][IdeoPRQ][=sawing.wood]" : {shei} 
 ! 
 | "[=ha+redup.word][IdeoPRQ][=laughing]" : {ha} 
 ! 
@@ -147,11 +147,12 @@ define IdeoPRQin [
 ! 
 | "[=chek+s.redup.word][IdeoPRQ][=chopping.wood]" : {chek} 
 | "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action; chopping.wood]" : {cheki} 
-| "[=cheki^k][IdeoPRQ][=punctual.action.of.making.a_cut]" : {chekik} 
+| "[=cheki][IdeoPRQ][=making.a_cut][--][-k][+PUNCTUAL.ACTN]::[=punctual.action.of.making.a_cut]" : {chekik} ! 
 ! 
 | "[=tyakik][IdeoPRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
 ! 
 | "[=piche][IdeoPRQ][=chewing.manioc; action.of.chewing]" : {piche} 
+| "[=piche+s.redup.word][IdeoPRQ][=rubbing.leaves.between.one's.hands.to.produce.a.mass_with_medicinal_juice]" : {piche} 
 | "[=pichek][IdeoPRQ][=punctual.action.of.slapping.water; light.splash.produced.by.walking.in.or.diving.into.water]" : {pichek} 
 ! 
 | "[=miha+s.redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
@@ -282,7 +283,7 @@ define IdeoPRQin [
 | "[=tankore][IdeoPRQ][=regain.consciousness][--][-k][+PUNCTUAL.ACTN]" : {tankorek}
 ! 
 | "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance; jump.like.a.deer]" : {tankorek}
-| "[=mantsari+s.redup.word][IdeoPRQ][=scratching.with.nails/claws; shredding/scratching/raking]" : {mantsari}
+| "[=mantsari+s.redup.word][IdeoPRQ][=scratching.with.nails/claws; action.of.shredding/scratching/raking]" : {mantsari}
 ! 
 | "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
 | "[=tsakorok][IdeoPRQ][=stepping/falling.in.shallow_water.&.producing.no.splashes]" : {tsakorok}
@@ -303,6 +304,8 @@ define IdeoPRQin [
 | "[=tsatzi+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread); breaking.a.thread/leaf.into.two.pieces]" : {tsatzi}
 ! 
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.rope/thread]" : {mamporik}
+| "[=mamporek][IdeoPRQ][=sensation.of.the.bursting.rope/thread]" : {mamporek}
+! 
 | "[=shimori+s.redup.word][IdeoPRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
 | "[=sanarek][IdeoPRQ][=falling.down.into.a_vacuous_space]" : {sanarek}
 | "[=kitarek][IdeoPRQ][=regaining.consciousness]" : {kitarek}
@@ -325,7 +328,7 @@ define IdeoPRQin [
 ! 
 | "[=shitari+s.redup.word][IdeoPRQ][=splitting.in.two]" : {shitari}
 ! 
-| "[=kotari+s.redup.word][IdeoPRQ][=splitting.open.watermelon, splitting.thick.firewood]" : {kotari}
+| "[=kotari+s.redup.word][IdeoPRQ][=splitting.open.watermelon, splitting.thick.firewood; split.in.half]" : {kotari}
 ! 
 | "[=tsopirik][IdeoPRQ][=breaking.off.fruit (e.g.: pineapple)]" : {tsopirik}
 ! 
@@ -346,6 +349,9 @@ define IdeoPRQin [
 | "[=montori+s.redup.word][IdeoPRQ][=sensation.of.a.big.rumble.in.the.stomach]" : {montori}
 ! 
 | "[=tsovivi+s.redup.word][IdeoPRQ][=sensation.of.a.deaf_pain.in.the.stomach]" : {tsovivi}
+! 
+| "[=pichori+s.redup.word][IdeoPRQ][=action.of.grinding.wood_mass]" : {pichori} ! arbolada = wooded???
+| "[=pichoro][IdeoPRQ][=action.of.grinding.wood_mass]" : {pichoro} ! arbolada = wooded???
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
