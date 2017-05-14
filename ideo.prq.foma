@@ -119,10 +119,10 @@ define IdeoPRQin [
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
 | "[=shemi+s.redup.word][IdeoPRQ][=pounding.a.hard.substance]" : {shemi}
 ! 
-| "[=morek][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)]" : {morek}
-| "[=morik][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)]" : {morik}
 | "[=more][IdeoPRQ][=flashing.light; burning (fire)]" : {more}
 | "[=mori][IdeoPRQ][=flashing.light; burning (fire)]" : {mori}
+| "[=more][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]" : {morek}
+| "[=mori][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]" : {morik}
 ! 
 | "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
 ! 

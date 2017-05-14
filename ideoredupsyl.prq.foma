@@ -25,7 +25,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=mari" "]" "[" "Ideo" "]" "[" "=water.level.rising.slowly; liquid.substance.massively.accumulating.on.the.entity's.surface; heavy.bleeding, (vaginal).bleeding; trickling.tree_sap; sound/action.of.lots.of.ants_walking/people_moving" "]" ] : {mari}
 | [ "[" "=mantsari" "]" "[" "IdeoPRQ" "]" "[" "=dawn/disappearance.of.darkness; gradual.appearance.of.daylight" "]" ] : {mantsari}
 | [ "[" "=moreri" "]" "[" "IdeoPRQ" "]" "[" "=blinking.light; light.being.emitted.at.regular.intervals" "]" ] : {moreri}
-| [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance (of.the.sun)" "]" ] : {shipari}
+| [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance.of.the_sun/shiny_object" "]" ] : {shipari}
 | [ "[" "=sakiri" "]" "[" "IdeoPRQ" "]" "[" "=flock.of.birds.flying.in.one.straight.line" "]" ] : {sakiri}
 | [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree; bird.call/sound.made.by.a.patridge_species/shirentzi; sound.of.water.level.going.down.in.the.river" "]" ] : {shiri}
 | [ "[" "=sheri" "]" "[" "IdeoPRQ" "]" "[" "=moving/walking.slowly" "]" ] : {sheri}
