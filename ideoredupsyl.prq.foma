@@ -21,7 +21,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=sori" "]" "[" "IdeoPRQ" "]" "[" "=staring.fixedly" "]" ] : {sori}
 | [ "[" "=soreri" "]" "[" "IdeoPRQ" "]" "[" "=looking.at.sb.fixedly.and.intently" "]" ] : {soreri}
 ! 
-| [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder" "]" ] : {teri}
+| [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder; thunder.sound" "]" ] : {teri}
 | [ "[" "=mari" "]" "[" "Ideo" "]" "[" "=water.level.rising.slowly; liquid.substance.massively.accumulating.on.the.entity's.surface; heavy.bleeding, (vaginal).bleeding; trickling.tree_sap; sound/action.of.lots.of.ants_walking/people_moving" "]" ] : {mari}
 | [ "[" "=mantsari" "]" "[" "IdeoPRQ" "]" "[" "=dawn/disappearance.of.darkness; gradual.appearance.of.daylight" "]" ] : {mantsari}
 | [ "[" "=moreri" "]" "[" "IdeoPRQ" "]" "[" "=blinking.light; light.being.emitted.at.regular.intervals" "]" ] : {moreri}
@@ -42,7 +42,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=vore" "]" "[" "IdeoPRQ" "]" "[" "=brilliance.of.the_sun" "]" ] : {vore}
 | [ "[" "=shitere" "]" "[" "Ideo" "]" "[" "=sound/action.of.wasps.flying" "]" ] : {shitere}
 
-| [ "[" "=shipo" "]" "[" "IdeoPRQ" "]" "[" "=rising.vapor.from.the.heated.sth. (stone, fire, etc.); smoke/mist.rising" "]" ] : {shipo}
+| [ "[" "=shipo" "]" "[" "IdeoPRQ" "]" "[" "=rising.vapor.from.sth.heated (i.e.: stone, fire, etc.); smoke/mist.rising" "]" ] : {shipo}
 | [ "[" "=sapo" "]" "[" "IdeoPRQ" "]" "[" "=bird.wings.flapping" "]" ] : {sapo}
 
 | [ "[" "=tsimi" "]" "[" "IdeoPRQ" "]" "[" "=sucking.meat.from.bone" "]" ] : {tsimi}
