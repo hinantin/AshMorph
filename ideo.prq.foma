@@ -103,7 +103,7 @@ define IdeoPRQin [
 ! 
 | "[=koma+s.redup.word][IdeoPRQ][=paddling.canoe; moving.a_canoe.with.a_paddle]" : {koma}
 ! 
-| "[=chiki+s.redup.word][IdeoPRQ][=cutting.tree(s); striking_the_ground/digging.with.a.machete]" : {chiki}
+| "[=chiki+s.redup.word][IdeoPRQ][=cutting.tree(s); striking_(soft)_ground/digging.with.a.machete]" : {chiki}
 | "[=chiki+s.redup.word][IdeoPRQ][=spatially.distributed.appearance.of.localized.body.swelling (result.of.an.insect_bite)]" : {chiki}
 ! 
 | "[=motek][IdeoPRQ][=bouncing.off.surface (e.g.: round.object,ball); light.object.falling (e.g.: fruit)]" : {motek}
@@ -145,8 +145,8 @@ define IdeoPRQin [
 | "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water; swallowing.liquid]" : {kori} 
 | "[=kori][IdeoPRQ][=action.of.gulping.water.once; swallowing.liquid][--][-k][+PUNCTUAL.ACTN]" : {korik} 
 ! 
-| "[=chek+s.redup.word][IdeoPRQ][=chopping.wood]" : {chek} 
-| "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action; chopping.wood]" : {cheki} 
+| "[=chek+s.redup.word][IdeoPRQ][=chopping.wood/trees/shrub]" : {chek} 
+| "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action; chopping.wood/trees/shrub]" : {cheki} 
 | "[=cheki][IdeoPRQ][=making.a_cut][--][-k][+PUNCTUAL.ACTN]::[=punctual.action.of.making.a_cut]" : {chekik} ! 
 ! 
 | "[=tyakik][IdeoPRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
@@ -275,6 +275,8 @@ define IdeoPRQin [
 | "[=ahak][IdeoPRQ][=coughing.action]" : {ahak} 
 ! 
 | "[=tsari+s.redup.word][IdeoPRQ][=action.of.stretching.a.thread]" : {tsari} 
+! 
+| "[=hiri+s.redup.word][IdeoPRQ][=pulling.sth.out.leaf.by.leaf; cleaning.weeds.with.a.machete; threshing.corn.with.a.knife]" : {hiri} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
