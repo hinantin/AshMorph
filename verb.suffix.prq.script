@@ -162,13 +162,16 @@ define V=S=APPR [
       
 define V=S=REL [
   "[--][-ri][+REL]" : "@EP"[{ri}]
+# -----------------------------------------------
 | "[--][-ni][+REL]" : "@EP"[{ni}]
+| "[--][-ne][+REL]" : "@EP"[{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
 ];
       
 define V=S=FRUS [
   "[--][-ve][+FRUS]" : "@EP"[{ve}]
 | "[--][-vi][+FRUS]" : "@EP"[{vi}]
 | "[--][-vit][+FRUS]" : "@EP"[{vit}]
+# -----------------------------------------------
 | "[--][-macheve][+FRUS]" : "@EP"[{macheve}]
 ];
       
