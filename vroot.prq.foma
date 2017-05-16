@@ -1086,7 +1086,8 @@ define VRootPRQin [
 ! 
 | "[=ty][VRoot][=to.fell, to.cut.down (a.tree)]" : {ty}
 ! 
-| "[=tyaki][VRoot][=to.blossom]" : [{tyaki}|{teyaki}]
+| "[=tyaki][VRoot][=to.blossom]" : {tyaki}
+| "[=teyaki][VRoot][=to.blossom]" : {teyaki}
 ! word set:
 | "[=tyank][VRoot][=to.send]" : {tyank}
 | "[=tiank][VRoot][=to.send]" : {tiank}
