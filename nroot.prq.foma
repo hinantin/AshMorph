@@ -418,6 +418,7 @@ define NRootPRQin [
 ! 
 | "[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {inchatonaki} 
 | "[=intxatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {intxatonaki} 
+| "[=kosho][NRoot][=container.type]" : {kosho} 
 ! 
 | "[=inchashi+n.m.][NRoot][=herb]" : {inchashi}
 | "[=intxashi][NRoot][=herb.with.therapeutic.properties]" : {intxashi}
@@ -936,7 +937,8 @@ define NRootPRQin [
 | "[=koshiri+m.][NRoot][=monkey.sp., white.monkey.sp.]" : {koshiri}
 | "[=koshire+m.][NRoot][=monkey.sp., white.monkey.sp.]" : {koshire}
 ! 
-| "[=koshoshiko][NRoot][=dolphin.sp. (ESP: bufeo)]" : {koshoshiko}
+| "[=koshoshiko][NRoot][=dolphin.sp. (ESP: bufeo,delfin)]" : {koshoshiko}
+| "[=koshoshika][NRoot][=dolphin.sp. (ESP: bufeo,delfin)]" : {koshoshika}
 ! 
 | "[=kotzi+n.m.+inal.][NRoot][=cane, stick]" : {kotzi}
 | "[=koti+n.m.+inal.][NRoot][=cane, stick]" : {koti}
