@@ -1002,7 +1002,8 @@ define VRootPRQin [
 | "[=tsamae][VRoot][=to.cut.grass, to.clean.a.sown.field.with.a.shovel]" : {tsamae}
 | "[=tsamee][VRoot][=to.cultivate, to.clear.a.sown.field]" : {tsamee}
 ! 
-| "[=tsame][VRoot][=come.on]" : {tsame} ! Interj.
+| "[=tsame+standalone][VRoot][=come.on]" : {tsame} ! Interj.
+| "[=omapero+standalone][VRoot][=be.true; it.is.true]" : {omapero} ! Interj.
 ! 
 | "[=tsan][VRoot][=to.hang]" : {tsan}
 ! 
