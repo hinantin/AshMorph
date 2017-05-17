@@ -519,8 +519,8 @@ define NRootPRQin [
 | "[=iroamere+m.][NRoot][=student, disciple, pupil]" : {iroamere}
 ! 
 | "[=ironyaa][NRoot][=now]" : [{ironyaa}|{ironya}]
-!| "[=irora][NRoot][=whachamacallit]" : {irora}
 ! 
+| "[=nato+voc.][NRoot][=grandma, grandmother]" : {nato}
 | "[=isha+m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {isha}
 | "[=ishaa+m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {ishaa}
 ! 
@@ -1226,6 +1226,9 @@ define NRootPRQin [
 ! 
 | "[=natsiryari+m.][NRoot][=green]" : {natsiryari}
 | "[=natsiryaro+n.m.][NRoot][=green]" : {natsiryaro}
+! 
+| "[=nato][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio)]" : {nato}
+| "[=hayapa][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio)]" : {hayapa}
 ! 
 | "[=navireri][NRoot][=person's.name]" : {navireri}
 | "[=naviriri][NRoot][=person's.name]" : {naviriri}
