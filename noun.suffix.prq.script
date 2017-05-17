@@ -98,6 +98,12 @@ define N=S=CL [
 ! 
 | "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} 
 | "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana; tree_bark]" : {tsa} 
+! 
+# --------------------------------------------------------------------------------
+! =antyaro-tsantsa ES: 'alargado', EN: ; =ari-tsantsa ES: 'muy largo'. EN: ; =kimo-tsantsa 'muy largo', EN: ; 
+! =monkara-tsantsa-ri ES: 'wincha', EN: ; =antyari-tsantsa ES: alto EN: 
+| "[--][-tsantsa][+CL:long][=long]" : {tsantsa} 
+# --------------------------------------------------------------------------------
 ! .. 
 | "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi}  # chakopi 'arrow'
 | "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : {pa} # akapa 'avocado'
