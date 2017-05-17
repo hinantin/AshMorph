@@ -2286,6 +2286,7 @@ define NRootPRQin [
 ! 
 | "[=tsantsa][NRoot][=long (in.length)]" : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP
+| "[=hantsa][NRoot][=long (in.length)]" : {hantsa} ! N@->V @CMP
 ! 
 | "[=tsavi+inal.][NRoot][=vagina]" : {tsavi}
 ! 

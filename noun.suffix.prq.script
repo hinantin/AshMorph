@@ -100,11 +100,12 @@ define N=S=CL [
 | "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana; tree_bark]" : {tsa} 
 ! 
 # --------------------------------------------------------------------------------
-! =antyaro-tsantsa ES: 'alargado', EN: ; =ari-tsantsa ES: 'muy largo'. EN: ; V: =kimo-tsantsa 'muy largo', EN: ; 
+! =antyaro-tsantsa ES: 'alargado', EN: ; =ari-tsantsa ES: 'muy largo'. EN: ; V: =kimo-tsantsa ES: 'muy largo, largo', EN: ; 
 ! V: =monkara-tsantsa-ri ES: 'wincha', EN: ; =antyari-tsantsa ES: alto EN: 
 | "[--][-tsantsa][+CL:long][=long (ES: largo)]" : {tsantsa} 
 ! santsari/ro/vo
 | "[--][-santsa][+CL:long][=long (ES: largo)]" : {santsa} 
+| "[--][-hantsa][+CL:long][=long (ES: largo)]" : {hantsa} ! alto???
 # --------------------------------------------------------------------------------
 ! .. 
 | "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi}  # chakopi 'arrow'

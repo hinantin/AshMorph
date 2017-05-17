@@ -63,6 +63,7 @@ define NounToVerbPRQin [
 | "[=shitamenko+inal.][NRoot][=dais]" : {shitamenko} ! N@->V 
 | "[=tsantsa][NRoot][=long (in.length)]" : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP
+| "[=hantsa][NRoot][=long (in.length)]" : {hantsa} ! N@->V @CMP
 | "[=tsinani+n.m.][NRoot][=female, woman; young.girl]" : {tsinani} ! N@->V
 | "[=tsinane+n.m.][NRoot][=female, woman; young.girl]" : {tsinane} ! N@->V
 | "[=tzinani+n.m.][NRoot][=female, woman; young.girl]" : {tzinani} ! N@->V
