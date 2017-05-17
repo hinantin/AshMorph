@@ -88,6 +88,9 @@ define VRootPRQin [
 ! 
 | "[=antant][VRoot][=to.fight]" : {antant}
 ! 
+| "[=antsi][VRoot][=to.to.sew.sth.]" : {antsi}
+| "[=orimpi][VRoot][=to.to.sew.sth.]" : {orimpi}
+! 
 | "[=atziri][VRoot][=to.be.person][--][N=][IRR+]" : {antziri}
 ! 
 | "[=apaata][VRoot][=to.wait]" : {apaata}
@@ -131,9 +134,10 @@ define VRootPRQin [
 | "[=ashinonka][VRoot][=to.suffer.from.sth.; to.suffer]" : {ashinonka}
 | "[=ashinonkee][VRoot][=to.suffer.from.sth.; to.suffer]" : {ashinonkee}
 ! 
-| "[=antai][VRoot][=to.go.up]" : {antai} ! to be checked maybe irrealis incorporated
-| "[=atae][VRoot][=to.go.up, to.climb]" : {atae}
-| "[=atai][VRoot][=to.go.up, to.climb]" : {atai}
+| "[=atai][VRoot][=to.go.up; to.climb (ES: trepar)][--][N=][IRR+]" : {antai} ! nantaitatiye / n=n-atai-t-ati-ye EN: 'I will climb', ES: 'voy a trepar'; nantaiti / n=atai-n-t-i ES: 'estoy trepando'
+| "[=atae][VRoot][=to.go.up; to.climb (ES: trepar)][--][N=][IRR+]" : {antae}
+| "[=atae][VRoot][=to.go.up, to.climb (ES: trepar)]" : {atae}
+| "[=atai][VRoot][=to.go.up, to.climb (ES: trepar)]" : {atai}
 ! 
 | "[=atohe][VRoot][=to.cough]" : {atohe}
 ! 
@@ -880,7 +884,6 @@ define VRootPRQin [
 ! 
 | "[=shiri][VRoot][=to.believe]" : {shiri}
 | "[=shiri][VRoot][=to.think]" : {shiri}
-| "[=shirik][VRoot][=to.tie]" : {shirik}
 | "[=shirinka][VRoot][=to.grow]" : {shirinka}
 ! 
 | "[=shironts][VRoot][=to.laugh.at.sb.]" : {shironts}
@@ -892,6 +895,8 @@ define VRootPRQin [
 | "[=shitako][VRoot][=to.get.well]" : {shitako}
 ! 
 | "[=shitik][VRoot][=to.sew.sth, to.tie.sth.]" : {shitik}
+| "[=shitzik][VRoot][=to.sew.sth, to.tie.sth.]" : {shitzik}
+| "[=shirik][VRoot][=to.sew.sth, to.tie.sth.]" : {shirik}
 ! 
 | "[=shitov][VRoot][=to.leave]" : {shitov}
 | "[=shitov][VRoot][=to.escape]" : {shitov}
