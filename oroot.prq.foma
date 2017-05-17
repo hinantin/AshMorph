@@ -11,8 +11,8 @@ define ORootPRQin [
 | "[=ari][PostPol][=PP][=there, so, thus, thereby, just.like.that]" : {ari}
 | "[=ario][PostPol][=PP]" : {ario}
 | "[=ari][PostPol][=PP][--][-ka+shortened][+COND]::[=when, if]" : {arika} ! ari-rika / PP-COND
-| "[=ari][PostPol][=PP][--][-rika][+COND]::[=if]" : {aririka} ! ari-rika / PP-COND : if 
-| "[=ario][PostPol][=PP][--][-rika][+COND]::[=maybe, perhaps]" : {ariorika} ! ario-rika / PP-COND
+| "[=ari][PostPol][=PP][--][-rika][+COND]::[=when, if]" : {aririka} ! ari-rika / PP-COND : if 
+| "[=ario][PostPol][=PP][--][-rika][+COND]::[=maybe, perhaps; when, if]" : {ariorika} ! ario-rika / PP-COND
 | "[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]" : {aritaki} ! ari-t-ak-i / PP-EP-PRF-REAL
 | "[=ario][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {ariotake} ! ario-t-ak-e / PP-EP-PRF-REAL
 | "[=ari][PostPol][=PP][--][-ve][+EXCL]" : {arive} ! ari-ve / PP-EXCL
@@ -36,14 +36,14 @@ define ORootPRQin [
 | "[=impoohi][ConnRoot][=after, later]" : {impoohi}
 | "[=impohi][ConnRoot][=after, later]" : {impohi}
 ! 
-| "[OtherRoot][=aha][=ha]" : {ha}
+| "[=ha][OtherRoot][=aha]" : {ha}
 ! 
 | "[=he][OtherRoot][=yes]" : {he}
 | "[=hee][OtherRoot][=yes]" : {hee}
 ! 
-| "[OtherRoot][=only][=intaani]" : {intaani}
-| "[OtherRoot][=solely][=intaani]" : {intaani}
-| "[OtherRoot][=well][=intsitya]" : {intsitya}
+| "[=intaani][OtherRoot][=only]" : {intaani}
+| "[=intaani][OtherRoot][=solely]" : {intaani}
+| "[=intsitya][OtherRoot][=well]" : {intsitya}
 
 # iro kantaincha 'but' 
 | "[=iro][ConnRoot][=but]" : {iro}
@@ -51,47 +51,47 @@ define ORootPRQin [
 # 
 | "[=kantimaitacha][ConnRoot][=but]" : {kantimaitacha}
 ! 
-| "[OtherRoot][=in.conrast][=iroma]" : {iroma}
-| "[OtherRoot][=CONN][=ironyaaka]" : {ironyaaka}
-| "[OtherRoot][=then][=ironyaaka]" : {ironyaaka}
-| "[OtherRoot][=head][=ito]" : {ito}
-| "[OtherRoot][=because][=kama]" : {kama}
-| "[OtherRoot][=well][=kameetsa]" : {kameetsa}
-| "[OtherRoot][=well][=kametsa]" : {kametsa}
-| "[OtherRoot][=good][=kametsa]" : {kametsa}
-| "[OtherRoot][=nevertheless][=kantzimaintacha]" : {kantzimaintacha}
-| "[OtherRoot][=nevertheless][=kantzimaitacha]" : {kantzimaitacha}
-| "[OtherRoot][=early][=kapichikitaite]" : {kapichikitaite}
-| "[OtherRoot][=ant][=koye]" : {koye}
-| "[OtherRoot][=1PL.EXCL][=naakaite]" : {naakaite}
-| "[OtherRoot][=I.C.F][=naintsi]" : {naintsi}
-| "[OtherRoot][=mine][=nashi]" : {nashi}
-| "[OtherRoot][=or][=o]" : {o}
-!| "[OtherRoot][=close.by][=okaakini]" : {okaakini}
-| "[OtherRoot][=in.order][=onkantya]" : {onkantya}
-| "[OtherRoot][=so.that][=onkantya]" : {onkantya}
-| "[OtherRoot][=be.necessary][=ontzimatye]" : {ontzimatye}
-| "[OtherRoot][=it’s.necessary][=ontzimatye]" : {ontzimatye}
-| "[OtherRoot][=many][=oshiki]" : {oshiki}
-| "[OtherRoot][=dog][=otsitzi]" : {otsitzi}
-!| "[OtherRoot][=be.strong][=shintsi]" : {shintsi}
-!| "[OtherRoot][=quickly][=shintsini]" : {shintsini}
+| "[=iroma][OtherRoot][=in.conrast]" : {iroma}
+| "[=ironyaaka][OtherRoot][=CONN]" : {ironyaaka}
+| "[=ironyaaka][OtherRoot][=then]" : {ironyaaka}
+| "[=ito][OtherRoot][=head]" : {ito}
+| "[=kama][OtherRoot][=because]" : {kama}
+| "[=kameetsa][OtherRoot][=well]" : {kameetsa}
+| "[=kametsa][OtherRoot][=well]" : {kametsa}
+| "[=kametsa][OtherRoot][=good]" : {kametsa}
+| "[=kantzimaintacha][OtherRoot][=nevertheless]" : {kantzimaintacha}
+| "[=kantzimaitacha][OtherRoot][=nevertheless]" : {kantzimaitacha}
+| "[=kapichikitaite][OtherRoot][=early]" : {kapichikitaite}
+| "[=koye][OtherRoot][=ant]" : {koye}
+| "[=naakaite][OtherRoot][=1PL.EXCL]" : {naakaite}
+| "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
+| "[=nashi][OtherRoot][=mine]" : {nashi}
+| "[=o][OtherRoot][=or]" : {o}
+!| "[=okaakini][OtherRoot][=close.by]" : {okaakini}
+| "[=onkantya][OtherRoot][=in.order]" : {onkantya}
+| "[=onkantya][OtherRoot][=so.that]" : {onkantya}
+| "[=ontzimatye][OtherRoot][=be.necessary]" : {ontzimatye}
+| "[=ontzimatye][OtherRoot][=it’s.necessary]" : {ontzimatye}
+| "[=oshiki][OtherRoot][=many]" : {oshiki}
+| "[=otsitzi][OtherRoot][=dog]" : {otsitzi}
+!| "[=shintsi][OtherRoot][=be.strong]" : {shintsi}
+!| "[=shintsini][OtherRoot][=quickly]" : {shintsini}
 | "[=tekatsi][OtherRoot][=EXIST]" : {tekatsi}
 | "[=teekatsi][OtherRoot][=EXIST]" : {teekatsi}
 ! 
-| "[OtherRoot][=because; maybe][=tema]" : {tema}
-| "[OtherRoot][=because; maybe][=tempa]" : {tempa}
-| "[OtherRoot][=because; maybe][=tima]" : {tima}
+| "[=tema][OtherRoot][=because; maybe]" : {tema}
+| "[=tempa][OtherRoot][=because; maybe]" : {tempa}
+| "[=tima][OtherRoot][=because; maybe]" : {tima}
 ! 
-| "[OtherRoot][=or][=terika]" : {terika}
-| "[OtherRoot][=maybe][=terika]" : {terika}
+| "[=terika][OtherRoot][=or]" : {terika}
+| "[=terika][OtherRoot][=maybe]" : {terika}
 ! 
 | "[=tzimatsi][OtherRoot][=EXIST]" : {timatsi}
 | "[=tzim][OtherRoot][=exist]" : {tzim}
 | "[=tzimatsi][OtherRoot][=EXIST]" : {tzimatsi}
 | "[=tzimatsi][OtherRoot][=EXIST]" : {tzimatsi}
 ! 
-| "[OtherRoot][=eat][=ya]" : {ya}
+| "[=ya][OtherRoot][=eat]" : {ya}
 ! 
 ! | "[=irotaki][FOC][=that's.why]" : {irotaki}
 ! | "[=iritaki][FOC][=that's.why]" : {iritaki}
