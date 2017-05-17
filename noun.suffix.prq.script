@@ -102,9 +102,9 @@ define N=S=CL [
 # --------------------------------------------------------------------------------
 ! =antyaro-tsantsa ES: 'alargado', EN: ; =ari-tsantsa ES: 'muy largo'. EN: ; V: =kimo-tsantsa 'muy largo', EN: ; 
 ! V: =monkara-tsantsa-ri ES: 'wincha', EN: ; =antyari-tsantsa ES: alto EN: 
-| "[--][-tsantsa][+CL:long][=long]" : {tsantsa} 
+| "[--][-tsantsa][+CL:long][=long (ES: largo)]" : {tsantsa} 
 ! santsari/ro/vo
-| "[--][-santsa][+CL:long][=long]" : {santsa} 
+| "[--][-santsa][+CL:long][=long (ES: largo)]" : {santsa} 
 # --------------------------------------------------------------------------------
 ! .. 
 | "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi}  # chakopi 'arrow'

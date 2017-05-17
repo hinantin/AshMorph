@@ -2284,6 +2284,9 @@ define NRootPRQin [
 ! 
 | "[=tsaki+n.m.+inal.][NRoot][=waist]" : {tsaki}
 ! 
+| "[=tsantsa][NRoot][=long (in.length)]" : {tsantsa} ! N@->V @CMP
+| "[=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP
+! 
 | "[=tsavi+inal.][NRoot][=vagina]" : {tsavi}
 ! 
 | "[=tsamiri+m.][NRoot][=curassow.sp. (ESP: paujil); razor-billed.curassow (sci.nm.: crax.mitu)]" : {tsamiri}

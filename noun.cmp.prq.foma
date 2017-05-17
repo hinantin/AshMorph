@@ -12,4 +12,6 @@ define NRootCmpPRQin [
 | "[--][=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui)]" : {sheya} ! @CMP 
 | "[--][=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui)]" : {shiya} ! @CMP 
 | "[--][=shaa+n.m.][NRoot][=palm.tree.sp. (ungurahui)]" : {shaa} ! @CMP 
+| "[--][=tsantsa][NRoot][=long (in.length)]" : {tsantsa} ! N@->V @CMP
+| "[--][=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP
 ];
