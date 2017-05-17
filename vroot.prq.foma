@@ -194,6 +194,11 @@ define VRootPRQin [
 ! 
 | "[=ha][VRoot][=to.go]" : {ha}
 ! 
+| "[=haiki][VRoot][=to.fill.sth.]" : {haiki}
+| "[=haa][VRoot][=to.fill.sth.]" : {haa}
+| "[=iyeeki][VRoot][=to.fill.sth.]" : {iyeeki}
+| "[=yeeki][VRoot][=to.fill.sth.]" : {yeeki}
+! 
 | "[=hek][VRoot][=to.live, to.dwell, to.inhabit, to.be]" : {hek}
 | "[=heek][VRoot][=to.live, to.dwell, to.inhabit, to.be]" : {heek}
 ! 
@@ -248,6 +253,7 @@ define VRootPRQin [
 | "[=kaem][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)]" : {kaem}
 | "[=kaim][VRoot][=to.call]" : {kaim}
 | "[=kãym][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)]" : {kãym}
+| "[=kahem][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)]" : {kahem} ! inkajemajeiteri / i=N-kajem-a-hei-t-e-ri 
 ! 
 | "[=kam][VRoot][=to.die]" : {kam}
 | "[=vam][VRoot][=to.cause.death, to.make.sb/sth.die]" : {vam}
@@ -331,6 +337,7 @@ define VRootPRQin [
 ! 
 ! to be long, to grow
 | "[=kimo][VRoot][=to.be.long; to.grow]" : {kimo}
+| "[=kimota][VRoot][=to.grow]" : {kimota} ! =kimota-t-aantsi
 ! 
 | "[=kimoshi][VRoot][=to.be.joyous]" : {kimoshi}
 | "[=kimoshiri][VRoot][=to.be.joyous]" : {kimoshiri}

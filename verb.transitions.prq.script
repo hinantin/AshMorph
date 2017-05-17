@@ -512,5 +512,6 @@ define S [
 ! (V=S=1SGposs) (V=S=DIST) 
  (V=S=UNK1) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DLMT) (V=S=REL) | 
- (V=S=REGR) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+ (V=S=REGR) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=APPLBEN) (V=S=PL) (V=S=APPLREAS) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
 ];

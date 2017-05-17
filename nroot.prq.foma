@@ -743,12 +743,15 @@ define NRootPRQin [
 ! 
 | "[=kimoha][NRoot][=growing, increasing (ES: creciente)]" : {kimoha}
 | "[=kimoha][NRoot][=increasing/high.river.flow (ES: creciente.del.rio)]" : {kimohani} ! -ni is a classifier here
+| "[=kimohantsi][NRoot][=growing, increasing (ES: creciente); summer (ES: verano)]" : {kimohantsi}
 ! 
 | "[=kimotenka][NRoot][=width; wide (ES: ancho)]" : {kimotenka}
 | "[=karana][NRoot][=thick (ES: grueso)]" : {karana}
 | "[=kimokarana][NRoot][=thick (ES: grueso)]" : {kimokarana}
 | "[=kimohenkaro][NRoot][=loudspeaker (ES: altavoz)]" : {kimohenkaro}
-| "[=kimoite][NRoot][=spacious (ES: amplio)]" : {kimoite}
+| "[=kimoite][NRoot][=big.kiri-palm-tree.fruit (ES: fruta.grande.del.pijuayo/pifayo/chonta)]" : {kimoite}
+! 
+| "[=kimokiri][NRoot][=width; wide (ES: ancho)]" : {kimokiri}
 # ----------------------------------------------------------
 ! 
 | "[=kempiro][NRoot][=venomous.snake.sp. (shushupe)]" : {kempiro}
