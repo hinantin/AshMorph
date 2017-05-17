@@ -736,6 +736,21 @@ define NRootPRQin [
 | "[=kemito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kemito}
 | "[=kimito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kimito}
 ! 
+# ----------------------------------------------------------
+# kimo
+# ----------------------------------------------------------
+| "[=kimotsantsa][NRoot][=very.large (ES: muy.largo)]" : {kimotsantsa}
+! 
+| "[=kimoha][NRoot][=growing, increasing (ES: creciente)]" : {kimoha}
+| "[=kimoha][NRoot][=increasing/high.river.flow (ES: creciente.del.rio)]" : {kimohani} ! -ni is a classifier here
+! 
+| "[=kimotenka][NRoot][=width; wide (ES: ancho)]" : {kimotenka}
+| "[=karana][NRoot][=thick (ES: grueso)]" : {karana}
+| "[=kimokarana][NRoot][=thick (ES: grueso)]" : {kimokarana}
+| "[=kimohenkaro][NRoot][=loudspeaker (ES: altavoz)]" : {kimohenkaro}
+| "[=kimoite][NRoot][=spacious (ES: amplio)]" : {kimoite}
+# ----------------------------------------------------------
+! 
 | "[=kempiro][NRoot][=venomous.snake.sp. (shushupe)]" : {kempiro}
 ! 
 | "[=kempita+n.m.+inal.][NRoot][=ear]" : {kempita}
@@ -1786,6 +1801,8 @@ define NRootPRQin [
 ! 
 | "[=samomo][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca), dove.sp.]" : {samomo}
 | "[=samomotzi][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca), dove.sp.]" : {samomotzi}
+! 
+| "[=santi+inal.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V
 ! 
 | "[=shaori][NRoot][=catfish.sp. (barbón)]" : {shaori}
 ! 
