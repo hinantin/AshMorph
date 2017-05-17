@@ -741,8 +741,12 @@ define NRootPRQin [
 # ----------------------------------------------------------
 | "[=kimotsantsa][NRoot][=very.large (ES: muy.largo)]" : {kimotsantsa}
 ! 
+| "[=kimoa][NRoot][=a_lot_of.liquid (ES: mucho/una_buena_cantidad.líquido)]" : {kimoa}
+| "[=kimota][NRoot][=a_lot_of.sth, a.good.quantity.of.sth. (ES: harto, mucho, una.buena.cantidad)]" : {kimota}
+| "[=kimoarini][NRoot][=increasing/high.river_flow.period (ES: época.de.creciente)]" : {kimoarini}
+! 
 | "[=kimoha][NRoot][=growing, increasing (ES: creciente)]" : {kimoha}
-| "[=kimoha][NRoot][=increasing/high.river.flow (ES: creciente.del.rio)]" : {kimohani} ! -ni is a classifier here
+| "[=kimohani][NRoot][=increasing/high.river.flow (ES: creciente.del.rio)]" : {kimohani} ! -ni is a classifier here
 | "[=kimohantsi][NRoot][=growing, increasing (ES: creciente); summer (ES: verano)]" : {kimohantsi}
 ! 
 | "[=kimotenka][NRoot][=width; wide (ES: ancho)]" : {kimotenka}
