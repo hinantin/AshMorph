@@ -11,7 +11,7 @@ define ORootPRQin [
 | "[=ari][PostPol][=PP][=there, so, thus, thereby, just.like.that]" : {ari}
 | "[=ario][PostPol][=PP]" : {ario}
 | "[=ari-(ri)ka][PostPol][=PP.COND][=when, if]" : {arika} ! ari-rika / PP-COND
-| "[=ari-rika][PostPol][=PP-COND][=if]" : {aririka} ! ari-rika / PP-COND : if 
+| "[=ari][PostPol][=PP][--][-rika][+COND]::[=if]" : {aririka} ! ari-rika / PP-COND : if 
 | "[=ario][PostPol][=PP][--][-rika][+COND]::[=maybe, perhaps]" : {ariorika} ! ario-rika / PP-COND
 | "[=ari-t-ak-i][PostPol][=PP-EP-PRF-REAL]" : {aritaki} ! ari-t-ak-i / PP-EP-PRF-REAL
 | "[=ario-t-ak-e][PostPol][=PP-EP-PRF-REAL]" : {ariotake} ! ario-t-ak-e / PP-EP-PRF-REAL
