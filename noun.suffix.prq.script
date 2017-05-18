@@ -24,7 +24,9 @@ define N=S=PL [
 | "[--][-paeni][Num][+PL]" : {paeni} 
 | "[--][-paini][Num][+PL]" : {paini} 
 | "[--][-pe][Num][+PL]" : {pe} 
-| "[--][-pee][Num][+PL_DIST]" : {pee} ! DIST: kitaiteripee =kitaiteri-pee /  ES: 'semana, todos.los.días', EN: 'week, everyday'
+| "[--][-pee][Num][+PL_DIST]" : {pee} 
+! DIST: kitaiteripee =kitaiteri-pee /  ES: 'semana, todos.los.días', EN: 'week, everyday'
+! kitaiterikipaye =kitaiteri-ki-paye / ES: '(durante).todos.los.días', EN: 'everyday'
 ];
       
 define N=S=DIM [
