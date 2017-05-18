@@ -561,7 +561,8 @@ define VRootPRQin [
 | "[=moron][VRoot][=to.make.a.hole]" : {moron} ! O=moron-t-ak-i-na 'me hice un hueco'
 | "[=moronta][VRoot][=to.make.a.hole]" : {moronta} ! i=moronta-ye-t-ak-i-ro 'se hace huecos'
 ! 
-| "[=moy][VRoot][=to.boil]" : {moy}
+| "[=moy][VRoot][=to.boil]" : {moy} 
+| "[=moi][VRoot][=to.boil]" : {moi} 
 ! 
 | "[=n][VRoot][=to.be]" : {n}
 | "[=na][VRoot][=to.be]" : {na}
