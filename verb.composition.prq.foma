@@ -1,0 +1,8 @@
+# -----------------
+# Composition 
+# -----------------
+define V=S=noun [ 
+  "[--][=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V @VCMP
+| "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
+| "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
+];

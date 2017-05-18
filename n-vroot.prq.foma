@@ -9,9 +9,9 @@ define NounToVerbPRQin [
 | "[=aarontsi][NRoot][=summer]" : {aarontsi} ! N@->V
 | "[=antami][NRoot][=woods, forest]" : {antami} ! N@->V
 | "[=ãtame][NRoot][=woods, forest]" : {ãtame} ! N@->V
-| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V
-| "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V
-| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V
+| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V @VCMP
+| "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
+| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
 | "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V

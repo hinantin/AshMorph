@@ -108,9 +108,9 @@ define NRootPRQin [
 | "[=ashooshi][NRoot][=armadillo]" : {ashooshi}
 | "[=asorina][NRoot][=cheek]" : {asorina}
 ! person, individual, human
-| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V
-| "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V
-| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V
+| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V @VCMP
+| "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
+| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
 ! 
 | "[=avanto][NRoot][=big-size.frog]" : {avanto}
 ! 
