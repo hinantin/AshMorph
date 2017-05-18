@@ -2,9 +2,9 @@
 # Verbalized nouns 
 # -----------------
 define NounToVerbPRQin [ 
-  "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V
-| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V
-| "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane} ! N@->V
+  "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
+| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V @VCMP 
+| "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane} ! N@->V @VCMP 
 | "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V
 | "[=aarontsi][NRoot][=summer]" : {aarontsi} ! N@->V
 | "[=antami][NRoot][=woods, forest]" : {antami} ! N@->V
@@ -17,9 +17,9 @@ define NounToVerbPRQin [
 | "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V
 | "[=chenko+n.m.+inal.][NRoot][=trousers, pants]" : {chenko} ! N@->V
 | "[=tsenko+n.m.+inal.][NRoot][=trousers, pants]" : {tsenko} ! N@->V
-| "[=eentsi+n./m.][NRoot][=child]" : {eentsi} ! N@->V
+| "[=eentsi+n./m.+poss@te.][NRoot][=child]" : {eentsi} ! N@->V
 | "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
-| "[=entsi+n./m.][NRoot][=child]" : {entsi} ! N@->V
+| "[=entsi+n./m.+poss@te.][NRoot][=child]" : {entsi} ! N@->V
 | "[=evankari+m.][NRoot][=young.man, adolescent]" : {evankari} ! N@->V
 | "[=horio+m.][NRoot][=jewish]" : {horio} ! N@->V
 | "[=horiiyo+m.][NRoot][=jewish]" : {horiiyo} ! N@->V
