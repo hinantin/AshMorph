@@ -46,7 +46,7 @@ define NounToVerbPRQin [
 | "[=menkoshi+n.m.+inal.][NRoot][=bird.nest]" : {menkoshi} ! N@->V
 | "[=minkoshi+n.m.+inal.][NRoot][=bird.nest]" : {minkoshi} ! N@->V
 | "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V
-| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V
+| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V 
 | "[=moro+n.m.+inal.][NRoot][=hole]" : {moro} ! N@->V
 | "[=oorya][NRoot][=sun]" : {oorya} ! N@->V
 | "[=oria][NRoot][=sun]" : {oria} ! N@->V
@@ -54,7 +54,7 @@ define NounToVerbPRQin [
 | "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pironi} ! N@->V
 | "[=piroti+m.][NRoot][=firefly; quasi-lightning.bug]" : {piroti} ! N@->V
 | "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare} ! N@->V
-| "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V
+| "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
 | "[=santi+inal.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V
 | "[=shiri][NRoot][=tobacco.leaf; tobacco]" : {shiri} ! N@->V

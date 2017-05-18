@@ -103,6 +103,7 @@
 #      source v-s-6.foma
 #      source v-s-7.foma
       source verb.suffix.prq.script
+      source verb.composition.prq.foma
       source verb.transitions.prq.script
 
 #      define S [ (V=S=1) (V=S=2) (V=S=3) (V=S=4) ]; #(V=S=3) (S=4) (S=5) (S=6) (S=7)] ;

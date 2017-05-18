@@ -1163,7 +1163,8 @@ define NRootPRQin [
 | "[=minki+n.m.+inal.][NRoot][=partly-burned.stickb (ESP: tizón)]" : {minki}
 ! 
 | "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V
-| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V
+| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V 
+| "[=menkotzi+n.m.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menkotzi} ! @VCMP 
 ! 
 | "[=mentaro+n.m.][NRoot][=tree.sp.]" : {mentaro}
 | "[=mentavo+n.m.][NRoot][=tree.sp.]" : {mentavo}
@@ -1731,7 +1732,7 @@ define NRootPRQin [
 ! 
 | "[=porenti][NRoot][=firefly]" : {porenti}
 ! 
-| "[=pori+n.m.+inal.][NRoot][=leg; thigh]" : {pori}
+| "[=pori+n.m.+inal.][NRoot][=leg; thigh]" : {pori} ! @VCMP 
 ! 
 | "[=porita][NRoot][=small.hen.sp.]" : {porita}
 ! 
@@ -1770,7 +1771,7 @@ define NRootPRQin [
 | "[=piyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {piyare}
 | "[=peare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {peare}
 ! 
-| "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V
+| "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
 ! 
 | "[=rasaro][NRoot][=person's.name]" : {rasaro}
@@ -2284,8 +2285,8 @@ define NRootPRQin [
 ! 
 | "[=tsomanto+n.m.][NRoot][=tree.sp. (cumala)]" : {tsomanto}
 ! 
-| "[=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsome}
-| "[=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsomi}
+| "[=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsome} ! @VCMP
+| "[=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsomi} ! @VCMP
 ! 
 | "[=tsompare+m.][NRoot][=heron.sp.; great.egret (sci.nm.: egretta.alba)]" : {tsompare}
 | "[=tsompari+m.][NRoot][=heron.sp.; great.egret (sci.nm.: egretta.alba)]" : {tsompari}
@@ -2511,7 +2512,7 @@ define NRootPRQin [
 | "[=vari][NRoot][=food]" : {vari}
 | "[=varipa+m.][NRoot][=chicken]" : {varipa}
 | "[=varipa+m.][NRoot][=rooster]" : {varipa}
-| "[=vatsa+n./m.+inal.][NRoot][=meat, mass, flesh, body; inner.part.of.sth. (tender.part, cogollo)]" : {vatsa}
+| "[=vatsa+n./m.+inal.][NRoot][=meat, mass, flesh, body; inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
 ! 
 | "[=veane+inal.][NRoot][=bow, weapon.for.shooting.arrows]" : {veane}
 | "[=viane+inal.][NRoot][=bow, weapon.for.shooting.arrows]" : {viane}

@@ -249,16 +249,16 @@ define V=S=ABS [
 | "[--][-ntsi][+ABS]" : "@EP"[{ntsi}]
 ];
       
-define V=S=noun [
-  "[--][-ani][+noun][=child]" : "@EP"[{ani}]
-| "[--][-vatsa][+noun]" : "@EP"[{vatsa}]
-| "[--][-pori][+noun]" : "@EP"[{pori}|{vori}]
-| "[--][-atziri][+noun]" : "@EP"[{atziri}]
-| "[--][-tsomi][+noun]" : "@EP"[{tsomi}]
-| "[--][-pitziki][+noun][=male.genitals]" : "@EP"[{pitziki}]
-| "[--][-menkotzi][+noun][=platform,floor;disheveled.head]" : "@EP"[{menkotzi}]
-| "[--][-miront][+noun][=flat]" : "@EP"[{miront}]
-];
+!define V=S=noun [
+!  "[--][-ani][+noun][=child]" : "@EP"[{ani}]
+!| "[--][-vatsa][+noun]" : "@EP"[{vatsa}]
+!| "[--][-pori][+noun]" : "@EP"[{pori}|{vori}]
+!| "[--][-atziri][+noun]" : "@EP"[{atziri}]
+!| "[--][-tsomi][+noun]" : "@EP"[{tsomi}]
+!| "[--][-pitziki][+noun][=male.genitals]" : "@EP"[{pitziki}]
+!| "[--][-menkotzi][+noun][=platform,floor;disheveled.head]" : "@EP"[{menkotzi}]
+!| "[--][-miront][+noun][=flat]" : "@EP"[{miront}]
+!];
       
 define V=S=COND [
   "[--][-rika][+COND]" : "@EP"[{rika}] 

@@ -5,4 +5,10 @@ define V=S=noun [
   "[--][=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V @VCMP
 | "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
 | "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
+| "[--][=menkotzi+n.m.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menkotzi} ! @VCMP 
+| "[--][=pori+n.m.+inal.][NRoot][=leg; thigh]" : {pori} ! @VCMP 
+| "[--][=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
+| "[--][=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsome} ! @VCMP
+| "[--][=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsomi} ! @VCMP
+| "[--][=vatsa+n./m.+inal.][NRoot][=meat, mass, flesh, body; inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
 ];
