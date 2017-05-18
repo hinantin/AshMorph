@@ -172,7 +172,7 @@ define NRootPRQin [
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
 | "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V
 ! 
-| "[=chenkaro+m.][NRoot][=black.&.white.bird.sp.]" : {chenkaro}
+| "[=chenkaro+m.][NRoot][=black-and-white.bird.sp.]" : {chenkaro}
 ! trousers, pants
 | "[=chenko+n.m.+inal.][NRoot][=trousers, pants]" : {chenko} ! N@->V
 | "[=tsenko+n.m.+inal.][NRoot][=trousers, pants]" : {tsenko} ! N@->V
@@ -549,9 +549,9 @@ define NRootPRQin [
 ! 
 | "[=sari+m.][NRoot][=scarlet.macaw (sci.nm.: ara.macaw)]" : {sari}
 ! 
-| "[=savavo][NRoot][=red.&.green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savavo}
-| "[=savaro][NRoot][=red.&.green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savaro}
-| "[=havavo][NRoot][=red.&.green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {havavo}
+| "[=savavo][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savavo}
+| "[=savaro][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savaro}
+| "[=havavo][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {havavo}
 ! 
 | "[=savoo+n.m.][NRoot][=giant.cane (caña.brava)]" : {savoo}
 | "[=savoro+n.m.][NRoot][=giant.cane (caña.brava, carrizo)]" : {savoro}
@@ -697,7 +697,7 @@ define NRootPRQin [
 | "[=karento+n.m.][NRoot][=liana.sp. (ESP: bejuco, madreselva)]" : {karento}
 | "[=kainto+n.m.][NRoot][=liana.sp. (ESP: bejuco, madreselva)]" : {kainto}
 ! 
-| "[=kasanto][NRoot][=blue.&.yellow.macaw (sci.nm.: ara.ararauna)]" : {kasanto}
+| "[=kasanto][NRoot][=blue-and-yellow.macaw (sci.nm.: ara.ararauna)]" : {kasanto}
 ! 
 | "[=kashekari+m.][NRoot][=jaguar; tiger]" : {kashekari}
 ! 
@@ -1632,7 +1632,7 @@ define NRootPRQin [
 ! 
 | "[=pitsitsiro+m.][NRoot][=rice-eating.thrush.sp., bird.sp. (ESP: arrosero, arrocero, tordito); variable.seedeater (sci.nm.: sporohila.americana)]" : {pitsitsiro}
 ! 
-| "[=pitzintzi+m.][NRoot][=sparrow.sp., red.bird.sp.with.black.head.&.wings]" : {pitzintzi}
+| "[=pitzintzi+m.][NRoot][=sparrow.sp., black-headed.black-winged.red.bird.sp]" : {pitzintzi}
 ! 
 | "[=pitzirishi+n.m.][NRoot][=herb.used.to.dye.thread]" : {pitzirishi}
 | "[=pitirishi+n.m.][NRoot][=tree.sp. (it.produces.leaves.that.serve.to.dye.rope)]" : {pitirishi}
@@ -1671,8 +1671,8 @@ define NRootPRQin [
 # bats 
 | "[=piiri][NRoot][=bat.sp.]" : {piiri}
 | "[=pihiri][NRoot][=bat.sp.]" : {pihiri}
-| "[=toantoani][NRoot][=big.&.dark.bat.sp.]" : {toantoani}
-| "[=tsompavito][NRoot][=big.&.gray.bat.sp.]" : {tsompavito}
+| "[=toantoani][NRoot][=big-and-dark.bat.sp.]" : {toantoani}
+| "[=tsompavito][NRoot][=big-and-gray.bat.sp.]" : {tsompavito}
 ! 
 | "[=pishiti+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishiti}
 | "[=pishitsi+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitsi}
