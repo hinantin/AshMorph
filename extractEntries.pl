@@ -13,6 +13,9 @@ my $title = 'Verbalized nouns';
 my $header = 'NounToVerbPRQin';
 my $separatorsymbol = "[--]";
 my $separator = 0;
+my $replace = 0;
+my $source = " : {";
+my $target = " : \"\@EP\"{";
 # Obtaining the options
 my @files;
 my $options = "--file file_1 --file file_2 ... ";
@@ -23,6 +26,9 @@ GetOptions (
 'title=s' => \$title, 
 'header=s' => \$header, 
 "separator=i" => \$separator, 
+"replace=i" => \$replace, 
+'source=s' => \$source, 
+'target=s' => \$target, 
 ) or die " Usage:  $0 $options\n";
 #if (@files) {
 #  print STDERR " Usage:  $0 $options\n";
@@ -47,12 +53,14 @@ open INFO, $file or die "Could not open $file: $!";
    my $text = $_;
    $text =~ s/^\|/ /g;
    if ($separator == 1) { $text =~ s/\"/\"$separatorsymbol/; }
+   if ($replace == 1) { $text =~ s/$source/$target/; }
    print $fh $text; 
   }
   else { 
    my $myvar = $_;
    substr($myvar, 0, 1, "|") if " " eq substr($myvar, 0, 1);
    if ($separator == 1) { $myvar =~ s/\"/\"$separatorsymbol/; }
+   if ($replace == 1) { $myvar =~ s/$source/$target/; }
    print $fh $myvar; 
   }
   $count++;

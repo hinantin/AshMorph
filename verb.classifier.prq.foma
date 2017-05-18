@@ -1,0 +1,9 @@
+# -----------------
+# CLASSIFIER 
+# -----------------
+define V=S=CL [ 
+  "[--][--][-poroki][+CL:quantity][=bunch,group]" : "@EP"{poroki} ! @CL 
+| "[--][--][-pooki][+CL:quantity][=bunch,group]" : "@EP"{pooki} ! @CL 
+| "[--][--][-ki][+CL:S.R.H][=small,round;hard]" : "@EP"{ki} ! @CL 
+| "[--][--][-ke][+CL:S.R.H][=small,round;hard]" : "@EP"{ke} ! sheyaque @CL 
+];

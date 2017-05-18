@@ -4,7 +4,8 @@ TOKENIZERPATH=/home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshani
 compile:
 	@rm -f n-vroot.prq.foma | perl extractEntries.pl --file nroot.prq.foma --file nroot.es.foma --file aroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --outputfilename "n-vroot.prq.foma" --flag "N@->V" --title "Verbalized nouns" --header "NounToVerbPRQin"
 	@rm -f noun.cmp.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "noun.cmp.prq.foma" --flag "@CMP" --title "Compound nouns" --header "NRootCmpPRQin" --separator 1
-	@rm -f verb.composition.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.prq.foma" --flag "@VCMP" --title "Composition" --header "V=S=noun" --separator 1
+	@rm -f verb.composition.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.prq.foma" --flag "@VCMP" --title "Composition" --header "V=S=noun" --separator 1 --replace 1 
+	@rm -f verb.classifier.prq.foma | perl extractEntries.pl --file noun.suffix.prq.script --outputfilename "verb.classifier.prq.foma" --flag "@CL" --title "CLASSIFIER" --header "V=S=CL" --separator 1 --replace 1 
 	@rm -f asheninka.bin ideoredupsyl.bin 
 	@xfst -f asheninka.script 
 	@xfst -f ideoredupsyl.prq.foma 

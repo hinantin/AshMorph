@@ -88,15 +88,15 @@ define N=S=CL [
 
 | "[--][-kota][+CL:piece][=piece]" : {kota} 
        ! .. 
-| "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} 
-| "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} 
+| "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} ! @CL 
+| "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} ! @CL 
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
 | "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} 
 | "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} 
 | "[--][-na][+CL:long.hollow][=long,hollow; round,hollow]" : {na} 
 ! 
-| "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} 
-| "[--][-ke][+CL:S.R.H][=small,round;hard]" : {ke} ! sheyaque 
+| "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} ! @CL 
+| "[--][-ke][+CL:S.R.H][=small,round;hard]" : {ke} ! sheyaque @CL 
 ! 
 | "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} 
 | "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana; tree_bark]" : {tsa} 

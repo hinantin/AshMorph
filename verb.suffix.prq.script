@@ -270,10 +270,11 @@ define V=S=DIM [
 | "[--][-ini][+DIM]" : "@EP"[{ini}]
 ];
       
-define V=S=CL [
-  "[--][-pooki][+CL:quantity][=group,bunch]" : "@EP"[{pooki}]
-| "[--][-poroki][+CL:quantity][=group,bunch]" : "@EP"[{poroki}]
-];
+!define V=S=CL [
+!  "[--][-pooki][+CL:quantity][=group,bunch]" : "@EP"[{pooki}]
+!| "[--][-poroki][+CL:quantity][=group,bunch]" : "@EP"[{poroki}]
+!| "[--][-ki][+CL:S.R.H][=small,round;hard]" : "@EP"{ki} 
+!];
       
 !define V=S=3mposs [
 !  "[--][+3m.poss]" : "@EP"[{i}|{y}]

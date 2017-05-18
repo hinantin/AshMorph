@@ -38,7 +38,7 @@
       define AEpenthesisRule11 [ "@EP" (->) {a}"@EP" || m _ [v|n] ]; # timabaetantsi, quem-a-nen-t-aantsi
       define AEpenthesisRule12 [ "@EP" (->) {a}"@EP" || k _ [h|y|r|p|t|a] ]; # i-vitsik-a-jee-tz-i-ri, betsik-a-ye-t-atsi-ri, o-tsimank-a-re, no-shitik-a-pero-t-ati-i-ro, ajirik-a-tsomi-t-ak-i-mpi-ri? , n=aabak-a-ati-ye-mpa  
       define AEpenthesisRule13 [ "@EP" (->) {a}"@EP" || p _ a ]; # i-kant-ap-a-ak-e 
-      define AEpenthesisRule14 [ "@EP" (->) {a}"@EP" || t _ h ]; # y-ant-a-jeí-t-ak-e 
+      define AEpenthesisRule14 [ "@EP" (->) {a}"@EP" || t _ [h|m] ]; # y-ant-a-jeí-t-ak-e, kant-a-mironta-ki-t-acha-ri 
       define AEpenthesisRule15 [ "@EP" (->) {a}"@EP" || m _ [h|a|e] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e, am-a-enka-ri 
       define AEpenthesisRule16 [ "@EP" (->) {a}"@EP" || y _ [a|y|v|m] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri, i-piy-a-macheve-t-an-ah-a 
       define AEpenthesisRule17 [ "@EP" (->) {a}"@EP" || n _ [v|a] ]; # i-kin-a-bae-t-i,  I-kemisan-t-a-jei-t-i-ri
@@ -104,6 +104,7 @@
 #      source v-s-7.foma
       source verb.suffix.prq.script
       source verb.composition.prq.foma
+      source verb.classifier.prq.foma
       source verb.transitions.prq.script
 
 #      define S [ (V=S=1) (V=S=2) (V=S=3) (V=S=4) ]; #(V=S=3) (S=4) (S=5) (S=6) (S=7)] ;
