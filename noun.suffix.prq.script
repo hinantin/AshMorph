@@ -175,7 +175,7 @@ define N=S=CL [
 | "[--][-ni][+CL:watercourse][=watercourse]" : {ni}
 !  -ito~-to 'head, the.heights.of.sth.', source is iitontsi =iito-ntsi =head-nposs
 | "[--][-ito][+CL:head][=head,the.heights.of.sth.]" : {ito}
-| "[--][-to][+CL:head][=head,the.heights.of.sth.]" : {to}
+| "[--][-i^to][+CL:head][=head,the.heights.of.sth.]" : {to}
 #-----------------------------------------------
 | "[--][-veri][+CL:augmentative][=agentive,augmentative]" : {veri}
 ];
