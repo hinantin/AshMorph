@@ -19,8 +19,10 @@ define N=S=DEM [
       
 define N=S=PL [
   "[--][-paye][Num][+PL_DIST]" : {paye} ! DIST: vatsatsipaye =vatsa-tsi-paye ES: 'todo.tipo.de.carne', EN: 'all.kinds.of.meat' 
+| "[--][-payi][Num][+PL]" : {payi} 
 | "[--][-payeni][Num][+PL]" : {payeni} 
 | "[--][-payeeni][Num][+PL]" : {payeeni} 
+| "[--][-payiini][Num][+PL]" : {payiini} 
 | "[--][-paeni][Num][+PL]" : {paeni} 
 | "[--][-paini][Num][+PL]" : {paini} 
 | "[--][-pe][Num][+PL]" : {pe} 
