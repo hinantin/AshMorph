@@ -733,6 +733,9 @@ define VRootPRQin [
 | "[=pey][VRoot][=to.get.lost; to.lose; to.disappear]" : {pey}
 | "[=piy][VRoot][=to.get.lost; to.lose; to.disappear]" : {piy}
 ! 
+| "[=piako][VRoot][=to.forget]" : {piako}
+| "[=piyako][VRoot][=to.forget]" : {piyako}
+! 
 | "[=per][VRoot][=to.be.idle, to.laze.around; to.bum.around]" : {per}
 | "[=pera][VRoot][=to.be.idle, to.laze.around; to.bum.around]" : {pera}
 ! 
@@ -1007,6 +1010,10 @@ define VRootPRQin [
 | "[=tiri][VRoot][=to.rub, to.anoint]" : {tiri}
 | "[=tziri][VRoot][=to.rub, to.anoint]" : {tziri}
 | "[=otziri][VRoot][=to.rub, to.anoint]" : {otziri}
+! 
+| "[=tik][VRoot][=to.block, to.obstruct]" : {tik}
+| "[=tzik][VRoot][=to.block, to.obstruct]" : {tzik}
+| "[=otzik][VRoot][=to.block, to.obstruct]" : {otzik}
 ! 
 | "[=tonk][VRoot][=to.shoot; to.burst]" : {tonk}
 ! 

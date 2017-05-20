@@ -239,6 +239,7 @@
                                                      [(V=S=APPLINT) (V=S=DUR)] 
                                                    | [(V=S=APPL)] 
                                                    | [(V=S=APPLBEN)] 
+                                                   | [(V=S=APPLSEP)] # aapitsataantsi / =a-apitsa-t-aantsi ES: 'sustracción', EN: 'rest'
                                                    | [(V=S=DLMT)] 
                                                    | [(V=S=RCP)] # n=ashi-t-ab-ak-aantsi 'to.get.divorced'
                                                    | [(V=S=REV)] # =pai-ry-aantsi 'to.say.someone's.name'

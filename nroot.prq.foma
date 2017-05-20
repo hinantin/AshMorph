@@ -1558,7 +1558,7 @@ define NRootPRQin [
 | "[=pempe+m.][NRoot][=butterfly.sp.]" : {pempe}
 | "[=piimpi+m.][NRoot][=butterfly.sp.]" : {piimpi}
 | "[=pempeetzi][NRoot][=butterfly.sp.]" : {pempeetzi}
-| "[=pempero][NRoot][=butterfly.sp.]" : {pempero}
+| "[=pempero][NRoot][=butterfly.sp.; 88-number-like.butterfly]" : {pempero}
 ! 
 | "[=peranti+m.][NRoot][=idle, lazy]" : {peranti}
 | "[=perantzi+m.][NRoot][=idle, lazy]" : {perantzi}
@@ -2504,6 +2504,7 @@ define NRootPRQin [
 | "[=vairo+inal.][NRoot][=name]" : {vairo}
 | "[=vaero+inal.][NRoot][=name]" : {vaero}
 | "[=vahiro+inal.][NRoot][=name]" : {vahiro}
+| "[=pahiro+inal.][NRoot][=name]" : {pahiro}
 ! 
 | "[=vaaki+n.m.+inal.][NRoot][=sap]" : {vaaki}
 ! 

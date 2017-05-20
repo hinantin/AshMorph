@@ -263,7 +263,7 @@ define S [
  (V=S=APPL) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REGR) (V=S=APPLREAS) (V=S=REAL) | 
  (V=S=FRUS) (V=S=REAL) (V=S=OPT) | 
- (V=S=APPLSEP) (V=S=IRR) (V=S=PRNO) (V=S=CNTF) | 
+ (V=S=APPLSEP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=CNTF) | ! y=a-apitsa-t-ak-i-ni-ri 'he took her away from him' 
  (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=CNTF) | 
  (V=S=APPL) (V=S=REP) (V=S=PL) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REP) (V=S=HAB) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) | ! sokij-aa-t-apini-t-atsi-ri
@@ -414,7 +414,7 @@ define S [
  (V=S=APPL) (V=S=DIR) (V=S=PRF) (V=S=REAL) | 
  (V=S=APPL) (V=S=IRR) (V=S=PRNO) | 
  (V=S=CAUSSOC) (V=S=REAL) (V=S=PRNO) | 
- (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=ICPL) (V=S=REAL) (V=S=PRNO) | 
+ (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=ICPL) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | ! ikantakaantaitane / i=kant-aka-ant-a-it-a-ne ???
  (V=S=IMPP) (V=S=REAL) (V=S=O) (V=S=PRNO) | 
 ! (V=S=1SGposs) (V=S=noun) (V=S=poss) | 
  (V=S=HAB) (V=S=REAL) | 
