@@ -1163,9 +1163,9 @@ define NRootPRQin [
 | "[=menki+n.m.+inal.][NRoot][=partly-burned.stickb (ESP: tizón)]" : {menki}
 | "[=minki+n.m.+inal.][NRoot][=partly-burned.stickb (ESP: tizón)]" : {minki}
 ! 
-| "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V
-| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V 
-| "[=menkotzi+n.m.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menkotzi} ! @VCMP 
+| "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
+| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V @VCMP 
+!| "[=menkotzi+n.m.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menkotzi} 
 ! 
 | "[=mentaro+n.m.][NRoot][=tree.sp.]" : {mentaro}
 | "[=mentavo+n.m.][NRoot][=tree.sp.]" : {mentavo}

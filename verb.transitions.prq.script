@@ -43,14 +43,21 @@ define S [
  (V=S=STAT) (V=S=REL) (V=S=Q) | 
  (V=S=PRF) (V=S=REAL) | 
  (V=S=APPL) (V=S=REAL) (V=S=PRNO) | 
- (V=S=noun) (V=S=NMZ) | 
- (V=S=noun) (V=S=noun) (V=S=DIR) (V=S=REGR) (V=S=REAL) | 
+
+ (CompositeVerbRoot) (V=S=NMZ) | 
+ (CompositeVerbRoot) (V=S=DIR) (V=S=REGR) (V=S=REAL) | ! noun root: noun, noun+noun 
+ (CompositeVerbRoot) (V=S=DIST) (V=S=PRF) (V=S=REAL) | 
+ (CompositeVerbRoot) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (CompositeVerbRoot) (V=S=CL) (V=S=STAT) (V=S=REL) (V=S=Q) | 
+ (CompositeVerbRoot) (V=S=STAT) (V=S=REL) (V=S=Q) | 
+ (CompositeVerbRoot) (V=S=IRR) | 
+ (CompositeVerbRoot) (V=S=IRR) (V=S=COND) | 
+
  (V=S=FRUS) (V=S=IRR) (V=S=OPT) | 
  (V=S=DIST) (V=S=REAL) | 
  (V=S=PRF) (V=S=IRR) (V=S=COND) | 
  (V=S=REGR) (V=S=IRR) (V=S=PRNO) | 
  (V=S=IMPP) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
- (V=S=noun) (V=S=DIST) (V=S=PRF) (V=S=REAL) | 
  (V=S=CAUSSOC) (V=S=DIM) (V=S=REAL) (V=S=PRNO) | 
  (V=S=CL) (V=S=PRF) (V=S=REAL) | 
  (V=S=IRR) (V=S=OPT) | 
@@ -77,7 +84,6 @@ define S [
  (V=S=PL) (V=S=REGR) (V=S=REAL) (V=S=PLcircumfixing) | 
  (V=S=IRR) (V=S=PRNO) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) (V=S=OPT) | 
- (V=S=noun) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPLINT) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REP) (V=S=CAUSSOC) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REAL) (V=S=PRNO) | 
@@ -215,7 +221,6 @@ define S [
  (V=S=INCH) (V=S=IRR) (V=S=PRNO) | 
  (V=S=CAUSSOC) (V=S=REGR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=CAUSSOC) (V=S=IRR) (V=S=O) (V=S=REL) (V=S=Q) | 
- (V=S=noun) (V=S=CL) (V=S=STAT) (V=S=REL) (V=S=Q) | 
  (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPL) (V=S=IRR) (V=S=PRNO) | 
  (V=S=STATT) (V=S=REL) (V=S=ADV) | 
@@ -258,8 +263,6 @@ define S [
  (V=S=AUG) (V=S=REAL) | 
  (V=S=FRUS) (V=S=REAL) (V=S=AUG) | 
  (V=S=STAT) (V=S=PRNO) | 
- (V=S=noun) (V=S=STAT) (V=S=REL) (V=S=Q) | 
- (V=S=noun) (V=S=IRR) | 
  (V=S=APPL) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REGR) (V=S=APPLREAS) (V=S=REAL) | 
  (V=S=FRUS) (V=S=REAL) (V=S=OPT) | 
@@ -327,7 +330,6 @@ define S [
  (V=S=APPL) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
  (V=S=PRNO) | 
- (V=S=noun) (V=S=IRR) (V=S=COND) | 
  (V=S=REGR) (V=S=IRR) (V=S=COND) | 
  (V=S=ICPL) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPL) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
@@ -416,7 +418,6 @@ define S [
  (V=S=CAUSSOC) (V=S=REAL) (V=S=PRNO) | 
  (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=ICPL) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | ! ikantakaantaitane / i=kant-aka-ant-a-it-a-ne ???
  (V=S=IMPP) (V=S=REAL) (V=S=O) (V=S=PRNO) | 
-! (V=S=1SGposs) (V=S=noun) (V=S=poss) | 
  (V=S=HAB) (V=S=REAL) | 
  (V=S=RCP) (V=S=PRF) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=RCP) (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=HAB) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 

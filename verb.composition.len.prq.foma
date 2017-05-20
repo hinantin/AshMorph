@@ -1,0 +1,24 @@
+# -----------------
+# Verb-noun composition 
+# -----------------
+define V=S=LEN=noun [ 
+  "[--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : "@LEN@"{ani} ! N@->V @VCMP 
+| "[--][=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : "@LEN@"{aani} ! N@->V @VCMP 
+| "[--][=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : "@LEN@"{aane} ! N@->V @VCMP 
+| "[--][=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : "@LEN@"{atziri} ! N@->V @VCMP
+| "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human]" : "@LEN@"{atiri} ! N@->V @VCMP
+| "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : "@LEN@"{atsiri} ! N@->V @VCMP
+| "[--][=henka][NRoot][=voice]" : "@LEN@"{henka} ! @VCMP 
+| "[--][=enka][NRoot][=voice]" : "@LEN@"{enka} ! @VCMP 
+| "[--][=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : "@LEN@"{kiri} ! @VCMP 
+| "[--][=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : "@LEN@"{kirii} ! @VCMP 
+| "[--][=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : "@LEN@"{menko} ! N@->V @VCMP 
+| "[--][=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : "@LEN@"{minko} ! N@->V @VCMP 
+| "[--][=mironta][NRoot][=flat (ES: plano)]" : "@LEN@"{mironta} ! @VCMP 
+| "[--][=meronta][NRoot][=flat (ES: plano)]" : "@LEN@"{meronta} ! @VCMP 
+| "[--][=pori+n.m.+inal.][NRoot][=leg; thigh]" : "@LEN@"{pori} ! @VCMP 
+| "[--][=pitziki][NRoot][=male.genitals]" : "@LEN@"{pitziki} ! N@->V @VCMP 
+| "[--][=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : "@LEN@"{tsome} ! @VCMP
+| "[--][=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : "@LEN@"{tsomi} ! @VCMP
+| "[--][=vatsa+n./m.+inal.][NRoot][=meat, mass, flesh, body; inner.part.of.sth. (tender.part, cogollo)]" : "@LEN@"{vatsa} ! @VCMP
+];

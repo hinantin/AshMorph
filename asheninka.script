@@ -104,6 +104,7 @@
 #      source v-s-7.foma
       source verb.suffix.prq.script
       source verb.composition.prq.foma
+      source verb.composition.len.prq.foma
       source verb.classifier.prq.foma
       source verb.transitions.prq.script
 
@@ -139,7 +140,6 @@
         define VRootPRQ [VRootPRQin|VRootEsin|NounToVerbPRQin];
       
 #      define Verb FeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
-      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Epenthesis ; #.o. FeatRestr;
 
       ##########################
       #                        #
@@ -233,6 +233,9 @@
 #      source pronoun.prq.foma
       define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
       define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootQUin|NumeralPRQin];
+      # the lenition process is found at the root-root boundary in noun compounds 
+      # vatsavori / 'vatsa-pori' / 'meat-muscle' 
+      # caavovaniri~kaavovaniri / 'kaavo-kaniri' / ES: 'caña-yuca', EN: 'sugar.cane-yucca' 
       define Noun [ (NPref) [NRootPRQ] ("@LEN@"NRootCmpPRQ) (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
       define NominalizedVerb [ (NPref) [VRootPRQ] [
@@ -247,6 +250,11 @@
                                                   (V=S=PRF) 
                                                   [V=S=NMZ|V=S=ADJ] (NRootCmpPRQ) 
                                                   [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; #.o. VowelLoss ;
+      
+      define CompositeVerbRoot [ [V=S=noun] (V=S=LEN=noun) [(N=S=CL)|(N=S=ABS)] ] .o. Lenition ;
+      
+      # Verb 
+      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Epenthesis ; #.o. FeatRestr;
       
       ##########################
       #                        #

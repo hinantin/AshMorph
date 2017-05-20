@@ -1,5 +1,5 @@
 # -----------------
-# Composition 
+# Verb-noun composition 
 # -----------------
 define V=S=noun [ 
   "[--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : "@EP"{ani} ! N@->V @VCMP 
@@ -12,7 +12,8 @@ define V=S=noun [
 | "[--][=enka][NRoot][=voice]" : "@EP"{enka} ! @VCMP 
 | "[--][=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : "@EP"{kiri} ! @VCMP 
 | "[--][=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : "@EP"{kirii} ! @VCMP 
-| "[--][=menkotzi+n.m.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{menkotzi} ! @VCMP 
+| "[--][=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{menko} ! N@->V @VCMP 
+| "[--][=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{minko} ! N@->V @VCMP 
 | "[--][=mironta][NRoot][=flat (ES: plano)]" : "@EP"{mironta} ! @VCMP 
 | "[--][=meronta][NRoot][=flat (ES: plano)]" : "@EP"{meronta} ! @VCMP 
 | "[--][=pori+n.m.+inal.][NRoot][=leg; thigh]" : "@EP"{pori} ! @VCMP 
