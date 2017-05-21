@@ -620,11 +620,14 @@ define NRootPRQin [
 | "[=kaaro+n.m.][NRoot][=wild.sugar-cane-like.cane.sp.]" : {kaaro}
 | "[=kaavo+n.m.][NRoot][=wild.sugar-cane-like.cane.sp.]" : {kaavo}
 ! 
-| "[=kaasho+n.m.][NRoot][=walnut.sp. (ES: marañon)]" : {kaasho}
-| "[=kaahyo+n.m.][NRoot][=walnut.sp. (ES: marañon)]" : {kaahyo}
+| "[=kaasho+n.m.][NRoot][=walnut.sp. (ES: nuez-marañon)]" : {kaasho}
+| "[=kaahyo+n.m.][NRoot][=walnut.sp. (ES: nuez-marañon)]" : {kaahyo}
 ! 
 | "[=kachaari+n.m.+inal.][NRoot][=smoke]" : {kachaari}
 | "[=kachaare+n.m.+inal.][NRoot][=smoke]" : {kachaare}
+! 
+| "[=kachente+n.m.][NRoot][=plant/tree.sp.]" : {kachente}
+| "[=kachenti+n.m.][NRoot][=plant/tree.sp.]" : {kachenti}
 ! 
 | "[=kachoncho][NRoot][=heron-like.large-beaked.long-legged.bird.sp., (totuyo, sci.nm.: ardea.cocoi)]" : {kachoncho}
 ! 
