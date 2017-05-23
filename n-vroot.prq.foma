@@ -62,7 +62,7 @@ define NounToVerbPRQin [
 | "[=seri][NRoot][=tobacco.leaf; tobacco]" : {seri} ! N@->V
 | "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
 | "[=shitamenko+inal.][NRoot][=dais]" : {shitamenko} ! N@->V 
-| "[=tsantsa][NRoot][=long (in.length)]" : {tsantsa} ! N@->V @CMP
+| "[=tsantsa][NRoot][=long (in.length); big]" : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length)]" : {hantsa} ! N@->V @CMP
 | "[=tsinani+n.m.][NRoot][=female, woman; young.girl]" : {tsinani} ! N@->V

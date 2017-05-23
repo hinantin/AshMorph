@@ -581,6 +581,12 @@ define V=S=DLMT [
   "[--][-vintsa][+DLMT]" : "@EP"[{vintsa}] 
 ];
 
+# new discovery 
+define V=S=NEWDISC [
+  "[--][-atai][+NEW.DISC]" : "@EP"[{atai}] 
+| "[--][-atae][+NEW.DISC]" : "@EP"[{atae}] 
+];
+
       
 # ##############################
 #         Abbreviations         
