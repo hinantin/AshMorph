@@ -165,8 +165,9 @@
                                                                             # nopito (in our lexicon) -> no@LEN@pito -> no@LEN@vito -> novito 
       define PWLenitionRule2 [ "@LEN@"p (->) "@LEN@"v || [{i}] _ [{i}|{a}] ]; 
                                                                             # ipanko (in our lexicon) -> i@LEN@panko -> i@LEN@vanko -> ivanko 
-      define PWLenitionRule3 [ "@LEN@"p -> "@LEN@"v || [{a}] _ [{i}] ]; 
+      define PWLenitionRule3 [ "@LEN@"p -> "@LEN@"v || [{a}] _ [{i}|{o}] ]; 
                                                                             # apinkatsarite (in our lexicon) -> a@LEN@pinkatsarite -> a@LEN@vinkatsarite -> avinkatsarite 
+                                                                            # vatsapori (in our lexicon) -> vatsa@LEN@pori -> vatsa@LEN@vori -> vatsavori
       define KJLenitionRule1 [ "@LEN@"k (->) "@LEN@"y || _ [{o}|{a}|{e}] ]; 
                                                                             # optional rule: noyokani, ikentsike  
       define KLenitionRule2 [ "@LEN@"k (->) "@LEN@" || [{o}] _ [{i}|{e}|{a}|{o}] ]; 
@@ -251,10 +252,10 @@
                                                   [V=S=NMZ|V=S=ADJ] (NRootCmpPRQ) 
                                                   [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; #.o. VowelLoss ;
       
-      define CompositeVerbRoot [ [V=S=noun] (V=S=LEN=noun) [(N=S=CL)|(N=S=ABS)] ] .o. Lenition ;
+      define CompositeVerbRoot [ (V=S=noun) ("@LEN@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
       # Verb 
-      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Epenthesis ; #.o. FeatRestr;
+      define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Epenthesis .o. Lenition ; #.o. FeatRestr;
       
       ##########################
       #                        #
