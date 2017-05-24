@@ -2551,7 +2551,8 @@ define NRootPRQin [
 | "[=viti+n.m.+inal.][NRoot][=outsider]" : {viti}
 | "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
 ! 
-| "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]" : {vitzi}
+| "[=viti+inal.][NRoot][=feather]" : {viti} ! N@->V
+| "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]" : {vitzi} ! N@->V
 ! 
 | "[=voempo][NRoot][=collared.plover (sci.nm.: charadrius.collaris)]" : {voempo}
 ! 
