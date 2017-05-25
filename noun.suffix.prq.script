@@ -170,6 +170,7 @@ define N=S=CL [
 | "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni}
 #-----------------------------------------------
 | "[--][-pompoina][+CL:ball][=ball]" : {pompoina}
+| "[--][-pompoito][+CL:spherical][=spherical]" : {pompoito}
 #-----------------------------------------------
 # Classifiers for place names
 #-----------------------------------------------

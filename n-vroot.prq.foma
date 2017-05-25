@@ -48,6 +48,7 @@ define NounToVerbPRQin [
 | "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
 | "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V @VCMP 
 | "[=moro+n.m.+inal.][NRoot][=hole]" : {moro} ! N@->V
+| "[=motya][NRoot][=stomach, belly]" : {motya} ! N@->V
 | "[=oorya][NRoot][=sun]" : {oorya} ! N@->V
 | "[=oria][NRoot][=sun]" : {oria} ! N@->V
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V
