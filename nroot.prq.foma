@@ -1498,7 +1498,9 @@ define NRootPRQin [
 ! 
 | "[=panaropa][NRoot][=wild.papaya]" : {panaropa}
 ! 
-| "[=pankaina][NRoot][=forehead]" : {pankaina}
+| "[=panka+inal.][NRoot][=forehead (ES: frente)]" : {panka}
+| "[=pankaina+inal.][NRoot][=forehead (ES: frente)]" : {pankaina}
+! 
 | "[=panki][NRoot][=plank, long.narrow.flat.piece.of.wood]" : {panki}
 ! 
 | "[=panko+n.m.+inal.][NRoot][=house]" : {panko} ! @CMP
