@@ -24,7 +24,7 @@ define NRootPRQin [
 ! 
 | "[=airi+m.][NRoot][=black.bee.sp.]" : {airi} 
 ! 
-| "[=anona][NRoot][=sugar-apples (botany.nm.: annona.squamosa)]" : {anona} 
+| "[=anona+n.m.][NRoot][=sugar-apples (botany.nm.: annona.squamosa), fruit.tree (Spanish.loan)]" : {anona} 
 ! 
 | "[=aroso+n.m.][NRoot][=rice]" : {aroso} 
 ! 
@@ -2160,7 +2160,8 @@ define NRootPRQin [
 ! 
 | "[=shivarityoki][NRoot][=wild.passion_fruit.sp. (ESP: granadilla.silvestre)]" : {shivarityoki}
 ! 
-| "[=shivaNki+n.m.+inal.][NRoot][=feather]" : {shivanki}
+| "[=shivaNki+n.m.+inal.][NRoot][=feather; wing]" : {shivanki}
+| "[=vaNki][NRoot][=feather]" : {vanki}
 ! 
 | "[=shivi+n.m.+inal.][NRoot][=penis]" : {shivi}
 ! 
@@ -2533,7 +2534,9 @@ define NRootPRQin [
 !| "[=land][=vani][NRoot]" : {vani}
 !| "[=plot.of.land][=vani][NRoot]" : {vani}
 !| "[=plot][=vani][NRoot]" : {vani}
-| "[=vanki][NRoot][=seedling]" : {vanki}
+! 
+| "[=vanki+poss@ri.][NRoot][=seedling]" : {vanki}
+! 
 | "[=vapee][NRoot][=paper]" : {vapee}
 | "[=vari][NRoot][=food]" : {vari}
 | "[=varipa+m.][NRoot][=chicken]" : {varipa}
