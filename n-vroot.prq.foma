@@ -1,5 +1,5 @@
 # -----------------
-# Verbalized nouns 
+# Verbalized entries 
 # -----------------
 define NounToVerbPRQin [ 
   "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]+vbz." : {ani} ! N@->V @VCMP 
