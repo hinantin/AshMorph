@@ -26,8 +26,9 @@ define NRootPRQin [
 ! 
 | "[=anona+n.m.][NRoot][=sugar-apples (botany.nm.: annona.squamosa), fruit.tree (Spanish.loan)]" : {anona} 
 ! 
-| "[=antaviari][NRoot][=great.shaman; healer.with.a.lot.of.experience]" : {antaviari} 
-| "[=antyaviari][NRoot][=great.shaman; healer.with.a.lot.of.experience]" : {antyaviari} 
+| "[=antaviari][NRoot][=great/truthful/powerful.shaman; healer.with.a.lot.of.experience]" : {antaviari} 
+| "[=antyaviari][NRoot][=great/truthful/powerful.shaman; healer.with.a.lot.of.experience]" : {antyaviari} 
+| "[=antyavigari][NRoot][=great/truthful/powerful.shaman; healer.with.a.lot.of.experience]" : {antyavigari} 
 ! 
 | "[=aroso+n.m.][NRoot][=rice]" : {aroso} 
 ! 
@@ -2033,6 +2034,7 @@ define NRootPRQin [
 | "[=sheripiare+m.][NRoot][=shaman]" : {sheripiare}
 | "[=sheripiari+m.][NRoot][=shaman]" : {sheripiari}
 | "[=sheripiyari+m.][NRoot][=shaman]" : {sheripiyari}
+| "[=seripigari+m.][NRoot][=shaman]" : {seripigari}
 ! 
 | "[=sherivetzi][NRoot][=gree-and-rufous.kingfisher (sci.nm.: chloroceryle.inda)]" : {sherivetzi}
 ! 
@@ -2168,7 +2170,7 @@ define NRootPRQin [
 # ishivanki: his.wing.without.feathers, his.featherless.wing 
 | "[=shivaNki+n.m.+inal.][NRoot][=feather; wing]" : {shivanki}
 # ivanki: his.wing; his.wing_feather 
-| "[=vaNki][NRoot][=feather]" : {vanki}
+| "[=vaNki][NRoot][=feather]" : {vanki} 
 ! 
 | "[=shivi+n.m.+inal.][NRoot][=penis]" : {shivi}
 ! 
