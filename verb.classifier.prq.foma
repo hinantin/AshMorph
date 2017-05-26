@@ -2,10 +2,10 @@
 # CLASSIFIER 
 # -----------------
 define V=S=CL [ 
-  "[--][--][-poroki][+CL:quantity][=bunch,group]" : "@EP"{poroki} ! @CL 
-| "[--][--][-pooki][+CL:quantity][=bunch,group]" : "@EP"{pooki} ! @CL 
-| "[--][--][-ki][+CL:S.R.H][=small,round;hard]" : "@EP"{ki} ! @CL 
-| "[--][--][-ke][+CL:S.R.H][=small,round;hard]" : "@EP"{ke} ! sheyaque @CL 
-| "[--][--][-pompoina][+CL:ball][=ball]" : "@EP"{pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
-| "[--][--][-pompoito][+CL:spherical][=spherical]" : "@EP"{pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.' @CL 
+  "[--][-poroki][+CL:quantity][=bunch,group]" : "@EP"{poroki} ! @CL 
+| "[--][-pooki][+CL:quantity][=bunch,group]" : "@EP"{pooki} ! @CL 
+| "[--][-ki][+CL:S.R.H][=small,round;hard]" : "@EP"{ki} ! @CL 
+| "[--][-ke][+CL:S.R.H][=small,round;hard]" : "@EP"{ke} ! sheyaque @CL 
+| "[--][-pompoina][+CL:ball][=ball]" : "@EP"{pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
+| "[--][-pompoito][+CL:spherical][=spherical]" : "@EP"{pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.' @CL 
 ];

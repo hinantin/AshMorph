@@ -6,7 +6,7 @@ compile:
 	@rm -f noun.cmp.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "noun.cmp.prq.foma" --flag "@CMP" --title "Compound nouns" --header "NRootCmpPRQin" --separator 1
 	@rm -f verb.composition.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.prq.foma" --flag "@VCMP" --title "Verb-noun composition" --header "V=S=noun" --separator 1 --replace 1 #--target " : [\"@EP\"|\"@LEN@\"]{"
 	@rm -f verb.composition.len.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.len.prq.foma" --flag "@VCMP" --title "Verb-noun composition" --header "V=S=LEN=noun" --separator 1 #--replace 1 --target " : \"@LEN@\"{"
-	@rm -f verb.classifier.prq.foma | perl extractEntries.pl --file noun.suffix.prq.script --outputfilename "verb.classifier.prq.foma" --flag "@CL" --title "CLASSIFIER" --header "V=S=CL" --separator 1 --replace 1 
+	@rm -f verb.classifier.prq.foma | perl extractEntries.pl --file noun.suffix.prq.script --outputfilename "verb.classifier.prq.foma" --flag "@CL" --title "CLASSIFIER" --header "V=S=CL" --replace 1 
 	@rm -f asheninka.bin ideoredupsyl.bin 
 	@xfst -f asheninka.script 
 	@xfst -f ideoredupsyl.prq.foma 
