@@ -1637,8 +1637,8 @@ define NRootPRQin [
 ! 
 | "[=Perú][NRoot][=NP]" : {perú}
 ! 
-| "[=peyari+m.][NRoot][=ghost; demon]" : {peyari}
-| "[=piyari+m.][NRoot][=ghost; demon]" : {piyari}
+| "[=peyari+m.][NRoot][=ghost; demon]" : {peyari} ! @CMP 
+| "[=piyari+m.][NRoot][=ghost; demon]" : {piyari} ! @CMP 
 ! 
 | "[=piyori][NRoot][=southern.helmeted.curassow (sci.nm.: pauxi.inicornis)]" : {piyori}
 ! 
@@ -1799,7 +1799,8 @@ define NRootPRQin [
 | "[=pyameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {pyameni}
 ! 
 | "[=piari+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {piari}
-| "[=pyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {pyare}
+| "[=pyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {pyare} ! @CMP 
+| "[=pyari+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {pyari} ! @CMP 
 | "[=piyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {piyare}
 | "[=peare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {peare}
 ! 
