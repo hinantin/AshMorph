@@ -44,14 +44,14 @@ define S [
  (V=S=PRF) (V=S=REAL) | 
  (V=S=APPL) (V=S=REAL) (V=S=PRNO) | 
 
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (N=S=CL)  (V=S=NMZ) | 
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (N=S=CL)  (V=S=DIR) (V=S=REGR) (V=S=REAL) | ! noun root: noun, noun+noun 
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (N=S=CL)  (V=S=DIST) (V=S=PRF) (V=S=REAL) | 
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (N=S=CL)  (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (N=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) | 
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (N=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) | 
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (N=S=CL)  (V=S=IRR) | 
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (N=S=CL)  (V=S=IRR) (V=S=COND) | 
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=NMZ) | 
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=DIR) (V=S=REGR) (V=S=REAL) | ! noun root: noun, noun+noun 
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=DIST) (V=S=PRF) (V=S=REAL) | 
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) | 
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) | 
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) | 
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) (V=S=COND) | 
 
  (V=S=FRUS) (V=S=IRR) (V=S=OPT) | 
  (V=S=DIST) (V=S=REAL) | 

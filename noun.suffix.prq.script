@@ -169,8 +169,8 @@ define N=S=CL [
 #-----------------------------------------------
 | "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni}
 #-----------------------------------------------
-| "[--][-pompoina][+CL:ball][=ball]" : {pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball'
-| "[--][-pompoito][+CL:spherical][=spherical]" : {pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.'
+| "[--][-pompoina][+CL:ball][=ball]" : {pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
+| "[--][-pompoito][+CL:spherical][=spherical]" : {pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.' @CL 
 | "[--][-pompoki][+CL:spherical][=spherical]" : {pompoki} ! itapiki kantapompokitzi / i=tapi-ki =kant-a-pompoki-tz-i / 3m.poss=back-loc =be.this.way-CL:spherical-ep-real 
 #-----------------------------------------------
 # Classifiers for place names
