@@ -2,104 +2,104 @@
 # Verbalized nouns 
 # -----------------
 define NounToVerbPRQin [ 
-  "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
-| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V @VCMP 
-| "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane} ! N@->V @VCMP 
-| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V
-| "[=aarontsi][NRoot][=summer]" : {aarontsi} ! N@->V
-| "[=antami][NRoot][=woods, forest]" : {antami} ! N@->V
-| "[=ãtame][NRoot][=woods, forest]" : {ãtame} ! N@->V
-| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V @VCMP
-| "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
-| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
-| "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine} ! N@->V
-| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
-| "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V
-| "[=chenko+n.m.+inal.][NRoot][=trousers, pants]" : {chenko} ! N@->V
-| "[=tsenko+n.m.+inal.][NRoot][=trousers, pants]" : {tsenko} ! N@->V
-| "[=eentsi+n./m.+poss@te.][NRoot][=child]" : {eentsi} ! N@->V
-| "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
-| "[=entsi+n./m.+poss@te.][NRoot][=child]" : {entsi} ! N@->V
-| "[=evankari+m.][NRoot][=young.man, adolescent]" : {evankari} ! N@->V
-| "[=horio+m.][NRoot][=jewish]" : {horio} ! N@->V
-| "[=horiiyo+m.][NRoot][=jewish]" : {horiiyo} ! N@->V
-| "[=intaina+loc.][AdvRoot][=far.away]" : {intaina} ! N@->V ! revise if it belongs to this file 
-| "[=intaena+loc.][AdvRoot][=far.away]" : {intaena} ! N@->V ! revise if it belongs to this file 
-| "[=inteena+loc.][AdvRoot][=far.away]" : {inteena} ! N@->V ! revise if it belongs to this file 
-| "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
-| "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
-| "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
-| "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
-| "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
-| "[=kipishi][NRoot][=bitter]" : {kipishi} ! N@->V
-| "[=kepishi][NRoot][=bitter]" : {kepishi} ! N@->V
-| "[=kitamaro+n.m.+color][NRoot][=white]" : {kitamaro} ! N@->V
-| "[=kitamaaro+n.m.+color][NRoot][=white]" : {kitamaaro} ! N@->V
-| "[=kitamaavo+n.m.+color][NRoot][=white]" : {kitamaavo} ! N@->V
-| "[=kitamari+m.+color][NRoot][=white]" : {kitamari} ! N@->V
-| "[=kitamaari+m.+color][NRoot][=white]" : {kitamaari} ! N@->V
-| "[=kitsoki][NRoot][=egg]" : {kitsoki} ! N@->V
-| "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
-| "[=koya][NRoot][=woman (from.Quechua.Quya)]" : {koya} ! N@->V
-| "[=mavoshi+n.m.+inal.][NRoot][=nest]" : {mavoshi} ! N@->V
-| "[=maashi+n.m.+inal.][NRoot][=nest]" : {maashi} ! N@->V
-| "[=menkoshi+n.m.+inal.][NRoot][=bird.nest]" : {menkoshi} ! N@->V
-| "[=minkoshi+n.m.+inal.][NRoot][=bird.nest]" : {minkoshi} ! N@->V
-| "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
-| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V @VCMP 
-| "[=moro+n.m.+inal.][NRoot][=hole]" : {moro} ! N@->V
-| "[=motya][NRoot][=stomach, belly]" : {motya} ! N@->V
-| "[=oorya][NRoot][=sun]" : {oorya} ! N@->V
-| "[=oria][NRoot][=sun]" : {oria} ! N@->V
-| "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V
-| "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]" : {pironi} ! N@->V
-| "[=piroti+m.][NRoot][=firefly; quasi-lightning.bug]" : {piroti} ! N@->V
-| "[=tsipamintsare][NRoot][=friend]" : {tsipamintsare} ! N@->V
-| "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
-| "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
-| "[=santi+inal.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V
-| "[=shiri][NRoot][=tobacco.leaf; tobacco]" : {shiri} ! N@->V
-| "[=sheri][NRoot][=tobacco.leaf; tobacco]" : {sheri} ! N@->V
-| "[=seri][NRoot][=tobacco.leaf; tobacco]" : {seri} ! N@->V
-| "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
-| "[=shitamenko+inal.][NRoot][=dais]" : {shitamenko} ! N@->V 
-| "[=tsantsa][NRoot][=long (in.length); big]" : {tsantsa} ! N@->V @CMP
-| "[=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP
-| "[=hantsa][NRoot][=long (in.length)]" : {hantsa} ! N@->V @CMP
-| "[=tsinani+n.m.][NRoot][=female, woman; young.girl]" : {tsinani} ! N@->V
-| "[=tsinane+n.m.][NRoot][=female, woman; young.girl]" : {tsinane} ! N@->V
-| "[=tzinani+n.m.][NRoot][=female, woman; young.girl]" : {tzinani} ! N@->V
-| "[=tsinãni+n.m.][NRoot][=female, woman; young.girl]" : {tsinãni} ! N@->V
-| "[=tsomi+inal.][NRoot][=breast, bosom]" : {tsomi} ! N@->V
-| "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V
-| "[=viti+inal.][NRoot][=feather]" : {viti} ! N@->V
-| "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]" : {vitzi} ! N@->V
-| "[=tambor+m.][NRoot][=drum]" : {tambor} ! N@->V
-| "[=tambor+m.][NRoot][=drum]" : {tamboo} ! N@->V
-| "[=tambor+m.][NRoot][=drum]" : {tamboro} ! N@->V
-| "[=tambor+m.][NRoot][=drum]" : {tamporo} ! N@->V
-| "[=tambor+m.][NRoot][=drum]" : {tampoo} ! N@->V
-| "[=trusa+NCFS000][NRoot][=underpants; shorts]" : {trusa} ! N@->V
-| "[=antari+m.][AdjRoot][=big; mature]" : {antari} ! N@->V
-| "[=antari+m.][AdjRoot][=big; mature]" : {antari} ! N@->V
-| "[=anteari+m.][AdjRoot][=big; mature]" : {anteari} ! N@->V
-| "[=antaro+n.m.][AdjRoot][=big; mature]" : {antaro} ! N@->V
-| "[=antavo+n.m.][AdjRoot][=big; mature]" : {antavo} ! N@->V
-| "[=antaro+n.m.][AdjRoot][=big; mature]" : {antaro} ! N@->V
-| "[=antearo+n.m.][AdjRoot][=big; mature]" : {antearo} ! N@->V
-| "[=antyaro+n.m.][AdjRoot][=big; mature]" : {antyaro} ! N@->V
-| "[=kenkivari+m.][AdjRoot][=old]" : {kenkivari} ! N@->V
-| "[=kenkevari+m.][AdjRoot][=old]" : {kenkevari} ! N@->V
-| "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari} ! N@->V
-| "[=kenkivaro+n.m.][AdjRoot][=old]" : {kenkivaro} ! N@->V
-| "[=kinkivaro+n.m.][AdjRoot][=old]" : {kinkivaro} ! N@->V
-| "[=pisari+m.][AdjRoot][=old]" : {pisari} ! N@->V
-| "[=pishari+m.][AdjRoot][=old]" : {pishari} ! N@->V
-| "[=pisaro+n.m.][AdjRoot][=old]" : {pisaro} ! N@->V
-| "[=pisharo+n.m.][AdjRoot][=old]" : {pisharo} ! N@->V
-| "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V
-| "[=haran][IdeoPRQ][=sound/action.made.by.a.falling/breaking.branch/tree]" : {haran} ! N@->V
-| "[=aparoni][NumeralPRQ][=one]" : {aparoni} ! N@->V
-| "[=apite][NumeralPRQ][=two]" : {apite} ! N@->V
-| "[=mava][NumeralPRQ][=three]" : {mava} ! N@->V
+  "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]+vbz." : {ani} ! N@->V @VCMP 
+| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]+vbz." : {aani} ! N@->V @VCMP 
+| "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]+vbz." : {aane} ! N@->V @VCMP 
+| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]+vbz." : {aapi} ! N@->V
+| "[=aarontsi][NRoot][=summer]+vbz." : {aarontsi} ! N@->V
+| "[=antami][NRoot][=woods, forest]+vbz." : {antami} ! N@->V
+| "[=ãtame][NRoot][=woods, forest]+vbz." : {ãtame} ! N@->V
+| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atziri} ! N@->V @VCMP
+| "[=atiri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atiri} ! N@->V @VCMP
+| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atsiri} ! N@->V @VCMP
+| "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charine} ! N@->V
+| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {chaine} ! N@->V
+| "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charini} ! N@->V
+| "[=chenko+n.m.+inal.][NRoot][=trousers, pants]+vbz." : {chenko} ! N@->V
+| "[=tsenko+n.m.+inal.][NRoot][=trousers, pants]+vbz." : {tsenko} ! N@->V
+| "[=eentsi+n./m.+poss@te.][NRoot][=child]+vbz." : {eentsi} ! N@->V
+| "[=iintsi+n./m.][NRoot][=child]+vbz." : {iintsi} ! N@->V
+| "[=entsi+n./m.+poss@te.][NRoot][=child]+vbz." : {entsi} ! N@->V
+| "[=evankari+m.][NRoot][=young.man, adolescent]+vbz." : {evankari} ! N@->V
+| "[=horio+m.][NRoot][=jewish]+vbz." : {horio} ! N@->V
+| "[=horiiyo+m.][NRoot][=jewish]+vbz." : {horiiyo} ! N@->V
+| "[=intaina+loc.][AdvRoot][=far.away]+vbz." : {intaina} ! N@->V ! revise if it belongs to this file 
+| "[=intaena+loc.][AdvRoot][=far.away]+vbz." : {intaena} ! N@->V ! revise if it belongs to this file 
+| "[=inteena+loc.][AdvRoot][=far.away]+vbz." : {inteena} ! N@->V ! revise if it belongs to this file 
+| "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]+vbz." : {kaniri} ! N@->V @CMP 
+| "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]+vbz." : {kanire} ! N@->V @CMP 
+| "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]+vbz." : {kainiri} ! N@->V @CMP 
+| "[=kashi][NRoot][=resin; white.milky.sap]+vbz." : {kashi} ! N@->V
+| "[=keario][NRoot][=factual, truth]+vbz." : {keario} ! N@->V
+| "[=kipishi][NRoot][=bitter]+vbz." : {kipishi} ! N@->V
+| "[=kepishi][NRoot][=bitter]+vbz." : {kepishi} ! N@->V
+| "[=kitamaro+n.m.+color][NRoot][=white]+vbz." : {kitamaro} ! N@->V
+| "[=kitamaaro+n.m.+color][NRoot][=white]+vbz." : {kitamaaro} ! N@->V
+| "[=kitamaavo+n.m.+color][NRoot][=white]+vbz." : {kitamaavo} ! N@->V
+| "[=kitamari+m.+color][NRoot][=white]+vbz." : {kitamari} ! N@->V
+| "[=kitamaari+m.+color][NRoot][=white]+vbz." : {kitamaari} ! N@->V
+| "[=kitsoki][NRoot][=egg]+vbz." : {kitsoki} ! N@->V
+| "[=kooya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {kooya} ! N@->V
+| "[=koya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {koya} ! N@->V
+| "[=mavoshi+n.m.+inal.][NRoot][=nest]+vbz." : {mavoshi} ! N@->V
+| "[=maashi+n.m.+inal.][NRoot][=nest]+vbz." : {maashi} ! N@->V
+| "[=menkoshi+n.m.+inal.][NRoot][=bird.nest]+vbz." : {menkoshi} ! N@->V
+| "[=minkoshi+n.m.+inal.][NRoot][=bird.nest]+vbz." : {minkoshi} ! N@->V
+| "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {menko} ! N@->V @VCMP 
+| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {minko} ! N@->V @VCMP 
+| "[=moro+n.m.+inal.][NRoot][=hole]+vbz." : {moro} ! N@->V
+| "[=motya][NRoot][=stomach, belly]+vbz." : {motya} ! N@->V
+| "[=oorya][NRoot][=sun]+vbz." : {oorya} ! N@->V
+| "[=oria][NRoot][=sun]+vbz." : {oria} ! N@->V
+| "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pirontzi} ! N@->V
+| "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pironi} ! N@->V
+| "[=piroti+m.][NRoot][=firefly; quasi-lightning.bug]+vbz." : {piroti} ! N@->V
+| "[=tsipamintsare][NRoot][=friend]+vbz." : {tsipamintsare} ! N@->V
+| "[=pitziki][NRoot][=male.genitals]+vbz." : {pitziki} ! N@->V @VCMP 
+| "[=pitzik][NRoot][=male.genitals]+vbz." : {pitzik} ! N@->V
+| "[=santi+inal.][NRoot][=fart (ES: pedo)]+vbz." : {santi} ! N@->V
+| "[=shiri][NRoot][=tobacco.leaf; tobacco]+vbz." : {shiri} ! N@->V
+| "[=sheri][NRoot][=tobacco.leaf; tobacco]+vbz." : {sheri} ! N@->V
+| "[=seri][NRoot][=tobacco.leaf; tobacco]+vbz." : {seri} ! N@->V
+| "[=shirampari+m.][NRoot][=man; male]+vbz." : {shirampari} ! N@->V
+| "[=shitamenko+inal.][NRoot][=dais]+vbz." : {shitamenko} ! N@->V 
+| "[=tsantsa][NRoot][=long (in.length); big]+vbz." : {tsantsa} ! N@->V @CMP
+| "[=santsa][NRoot][=long (in.length)]+vbz." : {santsa} ! N@->V @CMP
+| "[=hantsa][NRoot][=long (in.length)]+vbz." : {hantsa} ! N@->V @CMP
+| "[=tsinani+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tsinani} ! N@->V
+| "[=tsinane+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tsinane} ! N@->V
+| "[=tzinani+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tzinani} ! N@->V
+| "[=tsinãni+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tsinãni} ! N@->V
+| "[=tsomi+inal.][NRoot][=breast, bosom]+vbz." : {tsomi} ! N@->V
+| "[=tsome+inal.][NRoot][=breast, bosom]+vbz." : {tsome} ! N@->V
+| "[=viti+inal.][NRoot][=feather]+vbz." : {viti} ! N@->V
+| "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]+vbz." : {vitzi} ! N@->V
+| "[=tambor+m.][NRoot][=drum]+vbz." : {tambor} ! N@->V
+| "[=tambor+m.][NRoot][=drum]+vbz." : {tamboo} ! N@->V
+| "[=tambor+m.][NRoot][=drum]+vbz." : {tamboro} ! N@->V
+| "[=tambor+m.][NRoot][=drum]+vbz." : {tamporo} ! N@->V
+| "[=tambor+m.][NRoot][=drum]+vbz." : {tampoo} ! N@->V
+| "[=trusa+NCFS000][NRoot][=underpants; shorts]+vbz." : {trusa} ! N@->V
+| "[=antari+m.][AdjRoot][=big; mature]+vbz." : {antari} ! N@->V
+| "[=antari+m.][AdjRoot][=big; mature]+vbz." : {antari} ! N@->V
+| "[=anteari+m.][AdjRoot][=big; mature]+vbz." : {anteari} ! N@->V
+| "[=antaro+n.m.][AdjRoot][=big; mature]+vbz." : {antaro} ! N@->V
+| "[=antavo+n.m.][AdjRoot][=big; mature]+vbz." : {antavo} ! N@->V
+| "[=antaro+n.m.][AdjRoot][=big; mature]+vbz." : {antaro} ! N@->V
+| "[=antearo+n.m.][AdjRoot][=big; mature]+vbz." : {antearo} ! N@->V
+| "[=antyaro+n.m.][AdjRoot][=big; mature]+vbz." : {antyaro} ! N@->V
+| "[=kenkivari+m.][AdjRoot][=old]+vbz." : {kenkivari} ! N@->V
+| "[=kenkevari+m.][AdjRoot][=old]+vbz." : {kenkevari} ! N@->V
+| "[=kinkivari+m.][AdjRoot][=old]+vbz." : {kinkivari} ! N@->V
+| "[=kenkivaro+n.m.][AdjRoot][=old]+vbz." : {kenkivaro} ! N@->V
+| "[=kinkivaro+n.m.][AdjRoot][=old]+vbz." : {kinkivaro} ! N@->V
+| "[=pisari+m.][AdjRoot][=old]+vbz." : {pisari} ! N@->V
+| "[=pishari+m.][AdjRoot][=old]+vbz." : {pishari} ! N@->V
+| "[=pisaro+n.m.][AdjRoot][=old]+vbz." : {pisaro} ! N@->V
+| "[=pisharo+n.m.][AdjRoot][=old]+vbz." : {pisharo} ! N@->V
+| "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]+vbz." : {tapo} ! N@->V
+| "[=haran][IdeoPRQ][=sound/action.made.by.a.falling/breaking.branch/tree]+vbz." : {haran} ! N@->V
+| "[=aparoni][NumeralPRQ][=one]+vbz." : {aparoni} ! N@->V
+| "[=apite][NumeralPRQ][=two]+vbz." : {apite} ! N@->V
+| "[=mava][NumeralPRQ][=three]+vbz." : {mava} ! N@->V
 ];
