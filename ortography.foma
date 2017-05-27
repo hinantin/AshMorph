@@ -57,7 +57,8 @@
       define NPReplacement [ {mp} (->) {np} || [Vowels] _ [Vowels] ]; # amenpori
 
       # onset before vowel a 
-      define TYOnset [ {tiy} (->) {ty} || _ [a|á] ]; ! tyapa 'chicken' -> tiyapa 
+      define TYOnset1 [ {tey} (->) {ty} || _ [a|á] ]; ! tyaaki 'flower' -> teyaaki 
+      define TYOnset2 [ {tiy} (->) {ty} || _ [a|á] ]; ! tyaaki 'flower' -> tiyaaki 
       define PYOnset [ {piy} (->) {py} || _ [a|á] ]; ! pyari 'masato [manioc beer]' -> piyari 
       define SYOnset [ {siy} (->) {sy} || _ [a|á] ]; ! syatatsi 'claw, fingernail' -> siyatatsi 
       define TSYOnset [ {tsiy} (->) {tsy} || _ [a|á] ]; ! tsyairi 'paucar sp.' -> tsiyairi 
@@ -72,6 +73,6 @@
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 
 .o. NPReplacement 
-.o. PYOnset .o. KYOnset ]; 
+.o. TYOnset1 .o. TYOnset2 .o. PYOnset .o. KYOnset ]; 
 
 

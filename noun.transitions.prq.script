@@ -77,7 +77,6 @@ define N [
  (N=S=ABS) (N=S=PL) | 
  (N=S=ABS) (N=S=LOC) (N=S=DEM) | 
  (N=S=ABS) (N=S=LOC) | 
- (N=S=IRR) (N=S=NMZ) | 
  (N=S=RCG) | 
  (N=S=DIM) (N=S=DEM) | 
  (N=S=poss) (N=S=PL) (N=S=DEM) | 
@@ -85,5 +84,8 @@ define N [
  (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM) | 
  (N=S=AUG) (N=S=LOC) | 
  # unknown suffix 
- (N=S=poss) (N=S=UNK1) (N=S=PL) 
+ (N=S=poss) (N=S=UNK1) (N=S=PL) | 
+# Verbal transitions with noun roots 
+! anakyari / =ana -ki -ya -ri / =huito -cl -irr -rel 
+ (N=S=CL) (N=S=IRR) (N=S=NMZ) 
 ];

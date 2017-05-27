@@ -158,10 +158,10 @@ define NRootPRQin [
 ! 
 | "[=chekito+m.][NRoot][=frog.sp., small.toad.sp.]" : {chekito}
 ! 
-| "[=chekopi+n.m.][NRoot][=arrow; small.cane (cañabrava.pequeña)]" : {chekopi}
-| "[=chikopi+n.m.][NRoot][=arrow; small.cane (cañabrava.pequeña)]" : {chikopi}
-| "[=txekopi+n.m.][NRoot][=arrow; small.cane (cañabrava.pequeña)]" : {txekopi}
-| "[=chakopi+n.m.][NRoot][=arrow; small.cane (cañabrava.pequeña)]" : {chakopi}
+| "[=chekopi+n.m.+poss@te.][NRoot][=arrow; small.cane (cañabrava.pequeña)]" : {chekopi}
+| "[=chikopi+n.m.+poss@te.][NRoot][=arrow; small.cane (cañabrava.pequeña)]" : {chikopi}
+| "[=txekopi+n.m.+poss@te.][NRoot][=arrow; small.cane (cañabrava.pequeña)]" : {txekopi}
+| "[=chakopi+n.m.+poss@te.][NRoot][=arrow; small.cane (cañabrava.pequeña)]" : {chakopi}
 ! 
 | "[=chivini][NRoot][=heron.sp.]" : {chivini}
 ! 
@@ -767,6 +767,7 @@ define NRootPRQin [
 | "[=kemito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kemito}
 | "[=kimito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kimito}
 ! 
+| "[=kemporiki][NRoot][=yellow-fruit.producing.shrub.sp. (ES: guayaba)]" : {kemporiki}
 # ----------------------------------------------------------
 # kimo
 # ----------------------------------------------------------
@@ -1031,7 +1032,9 @@ define NRootPRQin [
 | "[=maatzi][NRoot][=medium-size.speckled.chachalaca (manacaraco, sci.nm.: ortalis.guttata)]" : {maatzi}
 | "[=maratzi][NRoot][=medium-size.speckled.chachalaca (manacaraco, sci.nm.: ortalis.guttata)]" : {maratzi}
 ! 
-| "[=machaki][NRoot][=beans (frijol, botany.id.: canavalia.sp.)]" : {machaki}
+| "[=machaa][NRoot][=big-bean.plant.sp.]" : {machaa}
+| "[=machaki][NRoot][=big.bean (frijol.grande, botany.id.: canavalia.sp.)]" : {machaki}
+| "[=machaaki][NRoot][=big.bean (frijol.grande, botany.id.: canavalia.sp.)]" : {machaaki}
 ! 
 | "[=macheroki][NRoot][=plant.sp. (achotillo.leche)]" : {macheroki}
 ! 
@@ -1600,6 +1603,8 @@ define NRootPRQin [
 | "[=pirantzi+m.][NRoot][=idle, lazy]" : {pirantzi}
 | "[=peranto+n.m.][NRoot][=idle, lazy]" : {peranto}
 | "[=piranto+n.m.][NRoot][=idle, lazy]" : {piranto}
+! 
+| "[=periki][NRoot][=moth.sp.]" : {periki}
 ! 
 | "[=piryoki][NRoot][=coconut.palm.grub]" : {piryoki}
 ! 
