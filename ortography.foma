@@ -56,6 +56,14 @@
 
       define NPReplacement [ {mp} (->) {np} || [Vowels] _ [Vowels] ]; # amenpori
 
+      # onset before vowel a 
+      define TYOnset [ {tiy} (->) {ty} || _ [a|á] ]; ! tyapa 'chicken' -> tiyapa 
+      define PYOnset [ {piy} (->) {py} || _ [a|á] ]; ! pyari 'masato [manioc beer]' -> piyari 
+      define SYOnset [ {siy} (->) {sy} || _ [a|á] ]; ! syatatsi 'claw, fingernail' -> siyatatsi 
+      define TSYOnset [ {tsiy} (->) {tsy} || _ [a|á] ]; ! tsyairi 'paucar sp.' -> tsiyairi 
+      define NYOnset [ {niy} (->) {ny} || _ [a|á] ]; ! kanyari 'green' -> kaniyari 
+      define KYOnset [ {kiy} (->) {ky} || _ [a|á] ]; ! chochokyari -> chochokiyari 
+
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement .o. QYReplacement 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 
 .o. ZReplacement1 
@@ -63,6 +71,7 @@
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 
-.o. NPReplacement ]; 
+.o. NPReplacement 
+.o. PYOnset .o. KYOnset ]; 
 
 
