@@ -49,7 +49,7 @@ define NounToVerbPRQin [
 | "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {minko} ! N@->V @VCMP 
 | "[=moro+n.m.+inal.][NRoot][=hole]+vbz." : {moro} ! N@->V
 | "[=motya][NRoot][=stomach, belly]+vbz." : {motya} ! N@->V
-| "[=moti][NRoot][=stomach, belly]+vbz." : {moti} ! N@->V motinti / =moti-nti / =stomach-adj.n.m.
+| "[=moti][NRoot][=stomach, belly]+vbz." : {moti} ! N@->V 
 | "[=oorya][NRoot][=sun]+vbz." : {oorya} ! N@->V
 | "[=oria][NRoot][=sun]+vbz." : {oria} ! N@->V
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pirontzi} ! N@->V
