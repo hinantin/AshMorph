@@ -31,6 +31,7 @@ define N [
  (N=S=LOC) (N=S=PL) | 
  (N=S=PL) (N=S=LOC) | 
  (N=S=ABS) (N=S=PL) (N=S=LOC) | 
+ (N=S=poss) (N=S=CL) ! pihariritsori / pi- =hari -ri -tsori / 2poss- =hari -poss -cl 
 ! 
 
  (N=S=poss) (N=S=TEMPORALEXIST) | 
