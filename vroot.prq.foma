@@ -557,7 +557,11 @@ define VRootPRQin [
 | "[=monkara][VRoot][=to.measure, to.fulfill]" : {monkara}
 ! 
 | "[=monts][VRoot][=to.find, to.meet]" : {monts}
-| "[=monty][VRoot][=to.cross.river]" : {monty}
+# crossing a river 
+| "[=monty][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear)]" : {monty}
+| "[=pampia][VRoot][=to.cross.river (by.boat/canoe/a_bridge)]" : {pampia}
+| "[=pampiaa][VRoot][=to.cross.river (by.boat/canoe/a_bridge)]" : {pampiaa}
+| "[=pampyaa][VRoot][=to.cross.river (by.boat/canoe/a_bridge)]" : {pampyaa}
 # ------------------------------------------
 | "[=moon][VRoot][=to.make.a.hole.in.sth.]" : {moon}
 # ------------------------------------------
