@@ -506,8 +506,8 @@ define VRootPRQin [
 | "[=man][VRoot][=to.hide]" : {man}
 | "[=mana][VRoot][=to.fight]" : {mana}
 ! 
-| "[=mana][VRoot][=to.shoot (tipically.with.arrow(s))]" : {mana}
-| "[=manaa][VRoot][=to.shoot (tipically.with.arrow(s))]" : {manaa}
+| "[=mana][VRoot][=to.shoot (tipically.with.arrow(s)); to.fish.with.a.bow-and-arrow]" : {mana}
+| "[=manaa][VRoot][=to.shoot (tipically.with.arrow(s)); to.fish.with.a.bow-and-arrow]" : {manaa}
 ! 
 | "[=mantsiy][VRoot][=to.be.sick]" : {mantsiy}
 | "[=mantsiya][VRoot][=to.be.sick]" : {mantsiya}
