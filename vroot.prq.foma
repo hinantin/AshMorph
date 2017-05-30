@@ -547,7 +547,9 @@ define VRootPRQin [
 ! 
 | "[=mink][VRoot][=to.put]" : {mink}
 | "[=mink][VRoot][=to.insert]" : {mink}
-| "[=minka][VRoot][=to.make.a.hunting.blind]" : {minka}
+! 
+| "[=minka][VRoot][=to.make.a.hunting.blind (ES: hacer.un_puesto_de_caza.camuflado)]" : {minka}
+! 
 | "[=minki][VRoot][=to.put]" : {minki}
 | "[=mish][VRoot][=to.remove.skin]" : {mish}
 | "[=mishi][VRoot][=to.dream]" : {mishi}
