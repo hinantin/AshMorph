@@ -70,8 +70,6 @@ define ORootPRQin [
 !| "[=okaakini][OtherRoot][=close.by]" : {okaakini}
 | "[=onkantya][OtherRoot][=in.order]" : {onkantya}
 | "[=onkantya][OtherRoot][=so.that]" : {onkantya}
-| "[=ontzimatye][OtherRoot][=be.necessary]" : {ontzimatye}
-| "[=ontzimatye][OtherRoot][=it’s.necessary]" : {ontzimatye}
 | "[=oshiki][OtherRoot][=many]" : {oshiki}
 | "[=otsitzi][OtherRoot][=dog]" : {otsitzi}
 !| "[=shintsi][OtherRoot][=be.strong]" : {shintsi}
@@ -86,17 +84,17 @@ define ORootPRQin [
 | "[=terika][OtherRoot][=or]" : {terika}
 | "[=terika][OtherRoot][=maybe]" : {terika}
 ! 
-| "[=tzimatsi][OtherRoot][=EXIST]" : {timatsi}
-| "[=tzim][OtherRoot][=exist]" : {tzim}
-| "[=tzimatsi][OtherRoot][=EXIST]" : {tzimatsi}
-| "[=tzimatsi][OtherRoot][=EXIST]" : {tzimatsi}
-! 
 | "[=ya][OtherRoot][=eat]" : {ya}
 ! 
 # ------------------------------------------------------------------
 # Existential-possessive verbs
 | "[=chora][VRoot][=to.exist; to.have, to.possess]" : {chora} 
 | "[=tsimatsi][VRoot][=to.exist; to.possess]" : {tsimatsi} 
+| "[=tzimatsi][VRoot][=to.exist]" : {timatsi} 
+| "[=tzimatsi][VRoot][=to.exist]" : {tzimatsi} 
+# ------------------------------------------------------------------
+# ontzimatye / o- N- =tzim -aty -e / 3n.m.S- -irr =to.have -prog -irr / EN: 'it's.necessary' 
+| "[=ontzimatye][OtherRoot][=to.be.necessary]" : {ontzimatye}
 # ------------------------------------------------------------------
 ! 
 ! | "[=irotaki][FOC][=that's.why]" : {irotaki}
