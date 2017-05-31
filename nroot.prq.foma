@@ -2090,7 +2090,8 @@ define NRootPRQin [
 ! 
 # oshi intsipa / o- =shi =intsipa / 3n.m.poss- =leaf =ice-cream.bean.tree ES: 'la.hoja.del.pacae' 
 | "[=shi][NRoot][=leaf]" : {shi} 
-| "[=oshitsi][NRoot][=leaf]" : {oshitsi} 
+# oshitsi / =oshi -tsi / =leaf -nposs / EN: 'leaf', ES: 'hoja'  
+| "[=oshi+inal.][NRoot][=leaf]" : {oshi} 
 | "[=oishi][NRoot][=leaf]" : {oishi} ! oishi = leaf? 
 ! 
 | "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shiira}
