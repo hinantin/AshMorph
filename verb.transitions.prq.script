@@ -476,7 +476,7 @@ define S [
  (V=S=REGR) (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=CNTF) | 
  (V=S=REP) (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=ADV) | 
  (V=S=REV) (V=S=APPL) (V=S=ICPL) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) | 
- (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) | 
+ (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=OPT) | ! a-m-pishe-i-t-e-ri=ta 
 ! 
  (V=S=DIR) (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) | 
  (V=S=REV) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
