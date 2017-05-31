@@ -1433,9 +1433,9 @@ define NRootPRQin [
 | "[=iyopempe][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopempe}
 | "[=iyopimpi][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopimpi}
 ! 
-| "[=sarintsi+m.][NRoot][=year; summer]" : {sarintsi}
-| "[=harentsi+m.][NRoot][=year; summer]" : {harentsi}
-| "[=sarentsi+m.][NRoot][=year; summer]" : {sarentsi}
+| "[=sarintsi+m.+poss@te.][NRoot][=year; summer]" : {sarintsi} 
+| "[=harentsi+m.][NRoot][=year; summer]" : {harentsi} 
+| "[=sarentsi+m.+poss@te.][NRoot][=year; summer]" : {sarentsi} 
 ! 
 ! monkey species
 | "[=osheto][NRoot][=monkey.sp. (makisapa)]" : {osheto}
