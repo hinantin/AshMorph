@@ -185,6 +185,9 @@ define N=S=CL [
 #-----------------------------------------------
 ! 
 | "[--][-mo][+CL:hole][=hole]" : {mo}
+#-----------------------------------------------
+! otsapiha nihateni / o- =tsapi -ha =niha -teni / 3n.m.poss- =edge -cl =water -cl / 'bank.of.a_water_bed/a_semi-permanent_stream-or-brook' 
+| "[--][-ha][+CL:liquid][=liquid]" : {ha}
 ];
       
 define N=S=EXCL [
