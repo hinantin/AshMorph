@@ -7,7 +7,12 @@ define NRootPRQin [
 ! 
 | "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V
 ! 
+# ---------------------------------------------------------------------
+# Vocative form
 | "[=aari+m.][NRoot][=brother (kin.of.a.female, fem.ego)]" : {aari}
+! 1st, 2nd, 3rd person
+| "[=hari+poss@ri][NRoot][=brother (kin.of.a.female, fem.ego)]" : {hari}
+# ---------------------------------------------------------------------
 | "[=yaya+m.][NRoot][=brother (kin.of.a.female)]" : {yaya}
 | "[=haihi+m.][NRoot][=brother (kin.of.a.female)]" : {haihi}
 ! 
@@ -337,8 +342,6 @@ define NRootPRQin [
 ! 
 | "[=haachotzi][NRoot][=black-tailed.trogon (sci.nm.: trogon.melanurus)]" : {haachotzi}
 ! 
-| "[=hari+poss@ri][NRoot][=brother (kin.of.a.female, fem.ego)]" : {hari}
-! 
 | "[=haavari+m.][NRoot][=warm (prbly.liquid)]" : {haavari}
 | "[=saavaari+m.][NRoot][=warm (prbly.liquid)]" : {saavaari}
 | "[=saavaaro+n.m.][NRoot][=warm (prbly.liquid)]" : {saavaaro}
@@ -420,10 +423,17 @@ define NRootPRQin [
 | "[=iNporoto+m.][NRoot][=earthworm.sp.]" : {imporoto}
 | "[=îpoto+m.][NRoot][=earthworm.sp.]" : {îpoto}
 ! 
+# ---------------------------------------------------------------------
+# Vocative form 
 | "[=ina+n.m.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ina} ! non-possesive form?
 | "[=inaa+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {inaa}
 | "[=iina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {iina}
+! 1st, 2nd, 3rd person 
+| "[=niro+n.m.][NRoot][=mother (kin.of.a.fe/male)]" : {niro}
+# ---------------------------------------------------------------------
+# Vocative form; 1st, 2nd, 3rd person  
 | "[=hina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {hina}
+# ---------------------------------------------------------------------
 ! 
 | "[=incha][NRoot][=plant]" : {incha}
 | "[=inchaa][NRoot][=plant]" : {inchaa}
@@ -1318,7 +1328,6 @@ define NRootPRQin [
 | "[=nihateni][NRoot][=brook; creek]" : {nihateni}
 ! 
 | "[=nii][NRoot][=breast]" : {nii}
-| "[=niro+n.m.][NRoot][=mother (kin.of.a.fe/male)]" : {niro}
 ! 
 | "[=nyaa+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nyaa}
 | "[=nya+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nya}
@@ -1330,10 +1339,15 @@ define NRootPRQin [
 ! 
 | "[=nyamo+n.m.][NRoot][=medicinal.plant.sp.]" : {nyamo}
 ! 
+# ---------------------------------------------------------------------
+# Vocative form 
 | "[=nyotsi+m.+voc.][NRoot][=son.in.law; nephew (kin.of.a.male, male.ego)]" : {nyotsi}
 | "[=nyotzi+m.+voc.][NRoot][=son.in.law; nephew (kin.of.a.male, male.ego)]" : {nyotzi}
 | "[=nioti+m.+voc.][NRoot][=son.in.law; nephew (kin.of.a.male, male.ego)]" : {nioti}
 | "[=nyoti+m.+voc.][NRoot][=son.in.law; nephew  (kin.of.a.male, male.ego)]" : {nyoti}
+! 
+| "[=tine+poss@ri.][NRoot][=son.in.law (kin.of.a.fe/male, fe/male.ego)]" : {tine} 
+# ---------------------------------------------------------------------
 | "[=tsineri+m.+voc.][NRoot][=son.in.law; nephew]" : {tsineri}
 | "[=tzineri+m.+voc.][NRoot][=son.in.law; nephew]" : {tzineri}
 | "[=tsiniri+m.+voc.][NRoot][=son.in.law; nephew]" : {tsiniri}
