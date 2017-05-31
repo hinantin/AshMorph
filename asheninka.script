@@ -27,7 +27,7 @@
       define AEpenthesisRule1 [ "@EP" (->) {a}"@EP" || t _ v ]; 
       define AEpenthesisRule2 [ "@EP" (->) {a}"@EP" || r _ y ]; 
 
-      define AEpenthesisRule3 [ "@EP" (->) {a}"@EP" || s _ [r|v] ]; # pinkatsari
+      define AEpenthesisRule3 [ "@EP" (->) {a}"@EP" || s _ [r|v] ]; # pinkatsari ??? 
       define AEpenthesisRule4 [ "@EP" (->) {a}"@EP" || k _ m ]; # notoncamento
       define AEpenthesisRule5 [ "@EP" (->) {a}"@EP" || t _ m ]; # itotamento
       define AEpenthesisRule6 [ "@EP" (->) {a}"@EP" || k _ n ]; # notyoonkantsi

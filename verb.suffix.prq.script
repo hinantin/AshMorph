@@ -569,7 +569,8 @@ define V=S=S [
       
 ! referencial applicative 
 define V=S=APPLREF [
-  "[--][-imen][+APPL.REF]" : "@EP"[{imen}] 
+  "[--][-imen][+APPL.REF][=concerning, relative.to, because.of]" : "@EP"[{imen}] 
+| "[--][-iment][+APPL.REF][=concerning, relative.to, because.of]" : "@EP"[{iment}] 
 ];
       
 define V=S=UNK1 [
