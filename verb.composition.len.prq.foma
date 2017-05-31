@@ -10,6 +10,7 @@ define V=S=LEN=noun [
 | "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
 | "[--][=henka][NRoot][=voice]" : {henka} ! @VCMP 
 | "[--][=enka][NRoot][=voice]" : {enka} ! @VCMP 
+| "[--][=tsempeki][NRoot][=body]" : {tsempeki} ! @VCMP 
 | "[--][=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : {kiri} ! @VCMP 
 | "[--][=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : {kirii} ! @VCMP 
 | "[--][=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
@@ -17,8 +18,11 @@ define V=S=LEN=noun [
 | "[--][=mironta][NRoot][=flat (ES: plano)]" : {mironta} ! @VCMP 
 | "[--][=meronta][NRoot][=flat (ES: plano)]" : {meronta} ! @VCMP 
 | "[--][=pori+n.m.+inal.][NRoot][=leg; thigh]" : {pori} ! @VCMP 
+| "[--][=voro][NRoot][=face]" : {voro} ! @VCMP 
 | "[--][=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
 | "[--][=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsome} ! @VCMP
 | "[--][=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsomi} ! @VCMP
 | "[--][=vatsa+n./m.+inal.][NRoot][=meat, mass, flesh, body; inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
+| "[--][=yereto+n.m.+inal.][NRoot][=knee]" : {yereto} ! @VCMP 
+| "[--][=yerito+n.m.+inal.][NRoot][=knee]" : {yerito} ! @VCMP 
 ];

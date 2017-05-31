@@ -294,6 +294,7 @@ define VRootPRQin [
 | "[=kasa][VRoot][=to.cook.manioc]" : {kasa}
 ! 
 | "[=kats][VRoot][=to.feel.pain]" : {kats}
+| "[=katsi][VRoot][=to.feel.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
 | "[=katsik][VRoot][=to.feel.pain]" : {katsik}
 ! 
 | "[=katsima][VRoot][=to.get.angry, to.be.wild, to.be.savage; to.hate; to.feel.pain]" : {katsima}
@@ -730,7 +731,7 @@ define VRootPRQin [
 | "[=vary][VRoot][=to.make.fall]" : {vary}
 ! 
 | "[=pas][VRoot][=to.crush]" : {pas}
-| "[=pasa][VRoot][=to.punish]" : {pasa}
+| "[=pasa][VRoot][=to.punish; to.hit]" : {pasa}
 ! 
 | "[=pashika][VRoot][=to.cover]" : [{pashika}|{pashka}]
 | "[=pashikaro][VRoot][=blanket]" : {pashikaro}
@@ -777,6 +778,7 @@ define VRootPRQin [
 | "[=pintsa][VRoot][=to.decide]" : {pintsa}
 ! 
 | "[=piria][VRoot][=to.be.dry]" : {piria}
+| "[=pirih][VRoot][=to.be.dry]" : {pirih}
 ! 
 | "[=pisha][VRoot][=to.get.old, to.be.old]" : {pisha}
 ! 

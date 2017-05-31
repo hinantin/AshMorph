@@ -603,6 +603,8 @@ define NRootPRQin [
 | "[=tevaa+n.m.+inal.][NRoot][=branch]" : {tevaa}
 | "[=tivaa+n.m.+inal.][NRoot][=branch]" : {tivaa}
 ! 
+| "[=tsempeki][NRoot][=body]" : {tsempeki} ! @VCMP 
+! 
 | "[=tsipa+n.m.][NRoot][=wife]" : {tsipa}
 ! 
 | "[=tsiya+m.][NRoot][=bird.sp. (chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]" : {tsiya}
@@ -1815,7 +1817,7 @@ define NRootPRQin [
 ! 
 | "[=poro][NRoot][=face]" : {poro}
 | "[=poo][NRoot][=face]" : {poo}
-| "[=voro][NRoot][=face]" : {voro}
+| "[=voro][NRoot][=face]" : {voro} ! @VCMP 
 ! 
 | "[=poroki][NRoot][=bunch; plant.sp. (achotillo)]" : {poroki}
 | "[=poorooki+n.m.][NRoot][=tree.sp.]" : {poorooki}
@@ -2644,8 +2646,8 @@ define NRootPRQin [
 | "[=yeenka+n.m.+inal.][NRoot][=fat, lard, grease]" : {yeenka}
 | "[=yiinka+n.m.+inal.][NRoot][=fat, lard, grease]" : {yiinka}
 ! 
-| "[=yereto+n.m.+inal.][NRoot][=knee]" : {yereto}
-| "[=yerito+n.m.+inal.][NRoot][=knee]" : {yerito}
+| "[=yereto+n.m.+inal.][NRoot][=knee]" : {yereto} ! @VCMP 
+| "[=yerito+n.m.+inal.][NRoot][=knee]" : {yerito} ! @VCMP 
 ! 
 | "[=yevetsi+n.m.][NRoot][=tree.sp. (shimbillo), fruit.tree.sp.]" : {yevetsi}
 ! 
