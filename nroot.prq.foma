@@ -147,6 +147,10 @@ define NRootPRQin [
 | "[=chapitsi][NRoot][=worm.sp.]" : {chapitsi}
 | "[=chaapitsi][NRoot][=worm.sp.]" : {chaapitsi}
 ! 
+# ochao inchato / o- =chao =inchato / 3n.m.poss- =branch =tree EN: 'the.branch.of.a.tree' ES: 'la.rama.de.un.arbol'  
+# chaotsi / =chao -tsi / =branch -nposs / EN: 'branch', ES: 'rama'  
+| "[=chao+inal.][NRoot][=branch]" : {chao} 
+! 
 | "[=chavo][NRoot][=bird.sp., crax.sp. (shansho, hoazín)]" : {chavo}
 ! 
 | "[=che+m.+inal.][NRoot][=horn, thorn]" : {che}
@@ -2085,8 +2089,9 @@ define NRootPRQin [
 | "[=hyivantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {hyivantoki}
 ! 
 # oshi intsipa / o- =shi =intsipa / 3n.m.poss- =leaf =ice-cream.bean.tree ES: 'la.hoja.del.pacae' 
-| "[=shi][NRoot][=leaf]" : {shi} ! oishi = leaf? 
+| "[=shi][NRoot][=leaf]" : {shi} 
 | "[=oshitsi][NRoot][=leaf]" : {oshitsi} 
+| "[=oishi][NRoot][=leaf]" : {oishi} ! oishi = leaf? 
 ! 
 | "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shiira}
 ! 
