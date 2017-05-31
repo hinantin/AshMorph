@@ -393,7 +393,9 @@ define VRootPRQin [
 | "[=kiraa][VRoot][=to.be.red]" : {kiraa}
 ! 
 | "[=kirik][VRoot][=to.weave]" : {kirik}
-| "[=kis][VRoot][=to.be.angry,get.upset]" : {kis}
+! 
+| "[=kis][VRoot][=to.be.angry, to.get.upset]" : {kis}
+| "[=kish][VRoot][=to.be.angry, to.get.upset]" : {kish}
 ! 
 | "[=kisa][VRoot][=to.be.black]" : {kisa}
 | "[=kisaa][VRoot][=to.be.black]" : {kisaa}
