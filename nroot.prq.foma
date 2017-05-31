@@ -2084,7 +2084,10 @@ define NRootPRQin [
 | "[=shevantyoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {shevantyoki}
 | "[=hyivantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {hyivantoki}
 ! 
-!| "[=shi][NRoot][=leaf]" : {shi} ! oishi = leaf?
+# oshi intsipa / o- =shi =intsipa / 3n.m.poss- =leaf =ice-cream.bean.tree ES: 'la.hoja.del.pacae' 
+| "[=shi][NRoot][=leaf]" : {shi} ! oishi = leaf? 
+| "[=oshitsi][NRoot][=leaf]" : {oshitsi} 
+! 
 | "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shiira}
 ! 
 | "[=shima][NRoot][=fish; fish.sp., boquichico]" : {shima}
