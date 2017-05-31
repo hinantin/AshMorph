@@ -1275,8 +1275,9 @@ define NRootPRQin [
 # tsinaro motsitsi / =tsinaro =motsi-tsi / =cricket =belly -nposs / EN: 'big_belly/paunchy.cricket', ES: 'grillo.buchesapa'
 | "[=motsi+n.m.+inal.][NRoot][=tummy, belly]" : {motsi}
 | "[=motzi+n.m.+inal.][NRoot][=tummy, belly]" : {motzi}
-! 
-| "[=motya][NRoot][=stomach, belly]" : {motya} ! N@->V
+# nomotya / no- =motya / 1SG.poss- =belly EN: 'my belly'
+# omotyate koya / o- =motya -t -e =koya / 3n.m.S- =belly -ep -irr =woman EN: 'when a woman gets pregnant'
+| "[=motya][NRoot][=stomach, belly]" : {motya} ! N@->V/
 | "[=motia][NRoot][=stomach, belly]" : {motia}
 # omoti Shakinyi / o- =moti =Shakinyi / 3n.m.poss- =stomach =proper.name / 'Shakinyi's stomach' 
 # imoti eentsi / i- =moti =eentsi / 3m.poss- =stomach =child / 'a male.child's stomach' 
