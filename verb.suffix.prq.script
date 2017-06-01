@@ -216,6 +216,7 @@ define V=S=STAT [
   "[--][-atsi][+STAT]" : "@EP"[{atsi}]
 | "[--][-ach][+STAT]" : "@EP"[{ach}]
 | "[--][-acha][+STAT]" : "@EP"[{acha}]
+| "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
 # -------- TEMPORAL STATIVITY MARKERS ------
 | "[--][-aints][+STAT]" : "@EP"[{aints}]
 | "[--][-aits][+STAT]" : "@EP"[{aits}]
