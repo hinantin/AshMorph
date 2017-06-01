@@ -864,8 +864,9 @@ define NRootPRQin [
 | "[=kirina+inal.][NRoot][=nose]" : {kirina}
 | "[=kirimashi][NRoot][=nose]" : {kirimashi}
 ! 
-| "[=kiriiki+m.][NRoot][=money]" : {kiriiki}
-| "[=kireeki+m.][NRoot][=money]" : {kireeki}
+| "[=kiriiki+m.+poss@te.][NRoot][=money]" : {kiriiki}
+| "[=kireeki+m.+poss@te.][NRoot][=money]" : {kireeki}
+| "[=kireki+m.+poss@te.][NRoot][=money]" : {kireki}
 | "[=korike+m.][NRoot][=money]" : {korike}
 | "[=koriki+m.][NRoot][=money]" : {koriki}
 ! 
