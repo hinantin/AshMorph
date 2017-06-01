@@ -12,6 +12,8 @@ define PrnDemPRQin [
 | "[=anto+distal.unb.][PrnDem][=there, over.there, far.from.the.speaker (unbounded)]" : {anto}
 | "[=hanto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded)]" : {hanto}
 ! 
+| "[=onta][PrnDem][=that.one]" : {onta} ! DEM.NOM 'aquella' 
+! 
 | "[=hiri+m.][PrnDem][=there]" : {hiri}
 | "[=hiri+m.][PrnDem][=there.he.is]" : {hiri}
 | "[=hirika+m.+proximal][PrnDem][=here.it.is]" : {hirika}
