@@ -867,6 +867,7 @@ define NRootPRQin [
 | "[=kirimashi][NRoot][=nose]" : {kirimashi}
 ! 
 | "[=kiriiki+m.+poss@te.][NRoot][=money]" : {kiriiki}
+| "[=kiriki+m.+poss@te.][NRoot][=money]" : {kiriki}
 | "[=kireeki+m.+poss@te.][NRoot][=money]" : {kireeki}
 | "[=kireki+m.+poss@te.][NRoot][=money]" : {kireki}
 | "[=korike+m.][NRoot][=money]" : {korike}
@@ -1123,7 +1124,6 @@ define NRootPRQin [
 | "[=masheri][NRoot][=toad.sp.]" : {masheri}
 | "[=mashero][NRoot][=edible.toad.sp. (its.ears.contain.poison)]" : {mashero}
 # Toads 
-| "[=masheroiriki][NRoot][=toad.sp.]" : {masheroiriki}
 | "[=tarairiki][NRoot][=toad.sp.]" : {tarairiki}
 ! 
 # Snails
