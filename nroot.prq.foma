@@ -1118,7 +1118,13 @@ define NRootPRQin [
 ! 
 | "[=mapocha+n.m.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
 ! 
-| "[=mashero][NRoot][=toad.sp.]" : {mashero}
+| "[=masheri][NRoot][=ant.sp. (QU: kuki, ES: coqui, hormiga)]" : {masheri} ! cricket.sp. 
+! 
+| "[=masheri][NRoot][=toad.sp.]" : {masheri}
+| "[=mashero][NRoot][=edible.toad.sp. (its.ears.contain.poison)]" : {mashero}
+# Toads 
+| "[=masheroiriki][NRoot][=toad.sp.]" : {masheroiriki}
+| "[=tarairiki][NRoot][=toad.sp.]" : {tarairiki}
 ! 
 # Snails
 | "[=mapoto][NRoot][=medium-size.snail]" : {mapoto}

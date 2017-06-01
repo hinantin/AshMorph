@@ -40,6 +40,10 @@ define N=S=DIM [
 | "[--][-aaniki][+DIM]" : {aaniki} 
 | "[--][-niki][+DIM]" : {niki} 
 | "[--][-haniki][+DIM]" : {haniki} 
+# ----------------------------------------
+# hitoiriki / =hito -iriki / =spider -dim / EN: 'small.spider', ES: 'araña pequeña' 
+# mapiiriki / =mapi -iriki / =rock -dim / EN: 'small.rock', ES: 'roca.pequeña' 
+| "[--][-iriki][+DIM]" : {iriki} 
 ];
       
 define N=S=LOC [
