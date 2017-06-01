@@ -26,6 +26,7 @@ define ORootPRQin [
 | "[=ario][PostPol][=PP][--][-rika][+COND][--][-kea][+EMPH]" : {ariorikakea} ! ario-rika-kea / PP-COND-EMPH
 ! 
 | "[=aitaki][PostPol][=PP]" : {aitaki}
+| "[=aitake][PostPol][=PP]" : {aitake}
 # copulative conjunction 
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
@@ -94,7 +95,7 @@ define ORootPRQin [
 # / EN: 'I have a sister who is 14 years-old', ES: 'tengo una.hermana que tiene 14 años'
 | "[=chora][VRoot][=to.exist; to.have, to.possess]" : {chora} 
 | "[=tsimatsi][VRoot][=to.exist; to.possess]" : {tsimatsi} 
-| "[=tzimatsi][VRoot][=to.exist]" : {timatsi} 
+| "[=timatsi][VRoot][=to.exist]" : {timatsi} 
 | "[=tzimatsi][VRoot][=to.exist]" : {tzimatsi} 
 # ------------------------------------------------------------------
 # ontzimatye / o- N- =tzim -aty -e / 3n.m.S- -irr =to.have -prog -irr / EN: 'it's.necessary' 
