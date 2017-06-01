@@ -12,8 +12,6 @@ define PrnDemPRQin [
 | "[=anto+distal.unb.][PrnDem][=there, over.there, far.from.the.speaker (unbounded)]" : {anto}
 | "[=hanto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded)]" : {hanto}
 ! 
-| "[=onta][PrnDem][=that.one]" : {onta} ! DEM.NOM 'aquella' 
-! 
 | "[=hiri+m.][PrnDem][=there]" : {hiri}
 | "[=hiri+m.][PrnDem][=there.he.is]" : {hiri}
 | "[=hirika+m.+proximal][PrnDem][=here.it.is]" : {hirika}
@@ -59,6 +57,8 @@ define PrnDemPRQin [
 | "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
 | "[=yonta+m.+distal][PrnDem][=that, that.over.there]" : {yonta}
 | "[=yoonta+m.+distal][PrnDem][=that, that.over.there]" : {yoonta}
+! 
+| "[=onta+n.m.+distal][PrnDem][=that, that.over.there (ES: esa, aquella)]" : {onta} ! DEM.NOM 
 ! Demonstrative identifier 
 | "[=heri+m.][PrnDem][=DEM.ID.][=here.you.are]" : {heri}
 | "[=herika+m.+proximal][PrnDem][=DEM.ID.][=here.it.is]" : {herika}
