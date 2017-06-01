@@ -1,7 +1,7 @@
 # free possesive pronominal pronouns
 
 define PrnPossPRQin [
- "[=nashi][PrnPoss][+1SG]" : {nashi} ! mine
+  "[=nashi][PrnPoss][+1SG][=mine]" : {nashi} ! mine
 | "[=pashi][PrnPoss][+2SG]" : {pashi}
 | "[=irashi][PrnPoss][+3SG.m.]" : {irashi} ! his, its
 | "[=rashi][PrnPoss][+3SG.m.]" : {rashi} ! his
