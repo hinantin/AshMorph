@@ -59,10 +59,10 @@ define PrnDemPRQin [
 | "[=yoonta+m.+distal][PrnDem][=that, that.over.there]" : {yoonta}
 ! 
 # aakitavakeri, iroorika onta mapi. 
-# / =aaki -t -av -ak -e -ri                 =iroo -rika =onta =mapi 
-# / =to.trip.sb.up -ep -rcp -prf -real -rel 
+# / =aaki -t -av -ak -e -ri                 =iroo -rika =onta            =mapi 
+# / =to.trip.sb.up -ep -rcp -prf -real -rel =it -cond   =that.over.there =stone
 # / EN: 'Perhaps you tripped up on that stone over there', ES: 'Tal vez le hizo tropezar la piedra de allá'
-| "[=onta+n.m.+distal][PrnDem][=that, that.over.there (ES: esa, aquella)]" : {onta} ! DEM.NOM 
+| "[=onta+n.m.+distal][PrnDem][=DEM.NOM][=that, that.over.there (ES: esa, aquella)]" : {onta} 
 ! Demonstrative identifier 
 | "[=heri+m.][PrnDem][=DEM.ID.][=here.you.are]" : {heri}
 | "[=herika+m.+proximal][PrnDem][=DEM.ID.][=here.it.is]" : {herika}
