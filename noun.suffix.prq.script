@@ -39,6 +39,8 @@ define N=S=DIM [
 | "[--][-aniki][+DIM]" : {aniki} 
 | "[--][-aaniki][+DIM]" : {aaniki} 
 | "[--][-niki][+DIM]" : {niki} 
+# ----------------------------------------
+# iritsirohaniki / iri- =tsiro -haniki / 3m.poss- =sister.of.a.male -dim / EN: 'his.little_sister.of.a.male', ES: 'su.hermanita (de.él)'  
 | "[--][-haniki][+DIM]" : {haniki} 
 # ----------------------------------------
 # hitoiriki / =hito -iriki / =spider -dim / EN: 'small.spider', ES: 'arañita' 
