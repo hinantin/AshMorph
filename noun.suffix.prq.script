@@ -32,7 +32,9 @@ define N=S=PL [
 ];
       
 define N=S=DIM [
+# hetaripatsaini / =hetari -patsa -ini / =armored.catfish -small.part -dim / EN: 'small.armored_catfishes', ES: 'carachamitas' 
   "[--][-patsa][+small.part][--][-ini][+DIM]" : {patsaini} 
+! nyaantsipeta / =nyaa -ntsi -peta / =language -nposs -dim / EN: 'dictionary' lit.: 'small.language', ES: 'diccionario' lit.: 'pequeño.lenguaje' 
 | "[--][-peta][+DIM]" : {peta} 
 | "[--][-ini][+DIM]" : {ini} 
 # mapinini / =mapi -ni -ni / =stone -dim -cl:watercourse / EN: 'watercourse.with.little.stones', ES: 'corriente_de_agua.con.piedritas' 
