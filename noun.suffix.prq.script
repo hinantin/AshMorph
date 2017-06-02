@@ -228,9 +228,17 @@ define N=S=ADV [
 ];
       
 define N=S=AUG [
+# tenarini / =tena -ri+m -ni / =to.weigh -adj -aug / ES: 'too.heavy', ES: 'demasiado.pesado' 
   "[--][-ni][+AUG]" : [{ni}] 
+# impanekiite / =impaneki -ite / =fine_sand -aug / EN: 'sandy.area', ES: 'arenal'  
+# keshiisatziite / =keshii -satzi-ite / =mountainous_grassland -cl:provenance -aug / EN: 'big.mountainous_grasslander', ES: 'pajonalino'  
+# antearoite / =antearo -ite / =big -aug / EN: 'very.big', ES: 'muy.grande'  
 | "[--][-ite][+AUG]" : [{ite}] 
-| "[--][-pero][+AUG]" : [{pero}] 
+# ishaninkaperori / i- =shani -nka -pero -ri / 3m.poss- =to.be.of.the.same.group -nmz -aug -rel / EN: 'his.true.mate', ES: 'su.verdadero.amigo'  
+# is pero more a verbal augmentive suffix ??? 
+| "[--][-pero][+AUG]" : [{pero}]
+! 
+# keshiimashi / =keshii -mashi / =mountainous_grassland -aug / EN: 'big.mountainous_grassland', ES: 'el.gran.pajonal'  
 | "[--][-mashi][+AUG]" : [{mashi}] 
 ! 
 # moratsantsa / =mora -tsantsa / =mule -aug / EN: 'camel, elongated.mule' lit.: 'long.mule', ES: 'camello, mula.larga'  
