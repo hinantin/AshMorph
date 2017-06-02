@@ -1510,6 +1510,8 @@ define NRootPRQin [
 | "[=paamari+n.m.][NRoot][=fire]" : {paamari}
 | "[=paampari+n.m.][NRoot][=fire]" : {paampari}
 ! 
+| "[=paamanto][NRoot][=burned.wood]" : {paamanto}
+! 
 | "[=paampatzi][NRoot][=bird.species]" : {paampatzi}
 ! 
 | "[=pachaka][NRoot][=pumpkin (botany.nm.: lagenaria.sp.)]" : {pachaka}
@@ -2566,8 +2568,8 @@ define NRootPRQin [
 ! 
 | "[=tya+poss@ni.][NRoot][=fabric]" : {tya}
 ! hen 
-| "[=tyaapa+n.m.][NRoot][=hen]" : {tyaapa}
-| "[=tyapa+n.m.][NRoot][=hen]" : {tyapa}
+| "[=tyaapa+n.m.][NRoot][=hen; chicken]" : {tyaapa}
+| "[=tyapa+n.m.][NRoot][=hen; chicken]" : {tyapa}
 | "[=atyaapa+n.m.][NRoot][=hen]" : {atyaapa}
 | "[=teapa+n.m.][NRoot][=hen]" : {teapa}
 ! rooster 
