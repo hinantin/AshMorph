@@ -35,6 +35,7 @@ define N=S=DIM [
   "[--][-patsa][+small.part][--][-ini][+DIM]" : {patsaini} 
 | "[--][-peta][+DIM]" : {peta} 
 | "[--][-ini][+DIM]" : {ini} 
+# mapinini / =mapi -ni -ni / =stone -dim -cl:watercourse / EN: 'watercourse.with.little.stones', ES: 'corriente_de_agua.con.piedritas' 
 | "[--][-ni][+DIM]" : {ni} 
 # ----------------------------------------
 # kotsiraaniki / =kotsiro -aniki / =machete -dim / EN: 'knife', ES: 'cuchillo' 
@@ -163,6 +164,7 @@ define N=S=CL [
 #-----------------------------------------------
 | "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori} 
 #-----------------------------------------------
+! kotsiropeta / =kotsiro -peta / =machete -cl / ES: 'machete.viejo', EN: 'old.machete' 
 | "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} 
 | "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
 | "[--][-peta][+CL:old.devalued][=old.devalued]" : {peta} 
