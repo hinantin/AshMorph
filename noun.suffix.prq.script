@@ -40,6 +40,7 @@ define N=S=DIM [
 # kotsiraaniki / =kotsiro -aniki / =machete -dim / EN: 'knife', ES: 'cuchillo' 
 | "[--][-aniki][+DIM]" : {aniki} 
 | "[--][-aaniki][+DIM]" : {aaniki} 
+# tyaapaniki / =tyaapa -niki / =chicken -dim / EN: 'chick', ES: 'pollito' 
 | "[--][-niki][+DIM]" : {niki} 
 # ----------------------------------------
 # iritsirohaniki / iri- =tsiro -haniki / 3m.poss- =sister.of.a.male -dim / EN: 'his.little_sister.of.a.male', ES: 'su.hermanita (de.él)'  
