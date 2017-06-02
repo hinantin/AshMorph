@@ -36,12 +36,15 @@ define N=S=DIM [
 | "[--][-peta][+DIM]" : {peta} 
 | "[--][-ini][+DIM]" : {ini} 
 | "[--][-ni][+DIM]" : {ni} 
+# ----------------------------------------
+# kotsiraaniki / =kotsiro -aniki / =machete -dim / EN: 'knife', ES: 'cuchillo' 
 | "[--][-aniki][+DIM]" : {aniki} 
 | "[--][-aaniki][+DIM]" : {aaniki} 
 | "[--][-niki][+DIM]" : {niki} 
 # ----------------------------------------
 # iritsirohaniki / iri- =tsiro -haniki / 3m.poss- =sister.of.a.male -dim / EN: 'his.little_sister.of.a.male', ES: 'su.hermanita (de.él)'  
 # ishintohaniki / =ishinto -haniki / =daughter -dim / EN: 'small.daughter', ES: 'hijita' 
+# osherohaniki / =oshero -haniki / =crab -dim / EN: 'small.crab', ES: 'cangrejito' 
 | "[--][-haniki][+DIM]" : {haniki} 
 # ----------------------------------------
 # hitoiriki / =hito -iriki / =spider -dim / EN: 'small.spider', ES: 'arañita' 

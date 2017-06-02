@@ -1044,7 +1044,8 @@ define NRootPRQin [
 ! 
 | "[=koteri][NRoot][=gray-necked.wood.rail (sci.nm.: aramides.jacanca)]" : {koteri}
 ! 
-| "[=kotsiro][NRoot][=machete, knife]" : {kotsiro}
+| "[=kotsiro+n.m.+poss@te.][NRoot][=machete, knife]" : {kotsiro}
+| "[=kotsiraaniki+n.m.+poss@te.][NRoot][==machete, knife]" : {kotsiraaniki}
 ! 
 | "[=ma][NRoot][=clothes]" : {ma}
 | "[=maa][NRoot][=clothes]" : {maa}
