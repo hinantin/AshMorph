@@ -232,7 +232,14 @@ define N=S=AUG [
 | "[--][-ite][+AUG]" : [{ite}] 
 | "[--][-pero][+AUG]" : [{pero}] 
 | "[--][-mashi][+AUG]" : [{mashi}] 
+! 
+# moratsantsa / =mora -tsantsa / =mule -aug / EN: 'camel, elongated.mule' lit.: 'long.mule', ES: 'camello, mula.larga'  
+# antyaritsantsa / =antyari+m. -tsantsa / =big -aug / EN: 'tall', ES: 'alto'  
+# antyarotsantsa / =antyaro+n.m. -tsantsa / =big -aug / EN: 'elongated', ES: 'alargado'  
+| "[--][-tsantsa][+AUG]" : [{tsantsa}] 
 | "[--][-santsa][+AUG]" : [{santsa}] 
+! 
+# antearosante eni / =antearo -sante =eni / =big -aug =Ene.river / EN: 'The.Ene.river.is.wide', ES: 'el.río.Ene.es.ancho'  
 | "[--][-sante][+AUG]" : [{sante}]
 ];
       

@@ -84,6 +84,8 @@ define N [
  (N=S=DEM) | 
  (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM) | 
  (N=S=AUG) (N=S=LOC) | 
+! nyaantsipeta / =nyaa -ntsi -peta / =language -nposs -dim / EN: 'dictionary' lit.: 'small.language', ES: 'diccionario' lit.: 'pequeño.lenguaje' 
+ (N=S=ABS) (N=S=DIM) | 
  # unknown suffix 
  (N=S=poss) (N=S=UNK1) (N=S=PL) | 
 # Verbal transitions with noun roots 
