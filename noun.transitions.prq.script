@@ -84,10 +84,11 @@ define N [
  (N=S=DEM) | 
  (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM) | 
  (N=S=AUG) (N=S=LOC) | 
+! nampitsihanikiki / =nampitsi -haniki -ki / =village -dim -loc / EN: 'in/to.the.small.village', ES: 'en/al.pueblito' 
 ! pankotsihaniki / =panko -tsi -haniki / =house -nposs -haniki / EN: 'small.house', ES: 'casita'
 ! pitotsihaniki / =pito -tsi -haniki / =canoe -nposs -dim / EN: 'small.canoe', ES: 'canoita'
 ! nyaantsipeta / =nyaa -ntsi -peta / =language -nposs -dim / EN: 'dictionary' lit.: 'small.language', ES: 'diccionario' lit.: 'pequeño.lenguaje' 
- (N=S=ABS) (N=S=DIM) | 
+ (N=S=ABS) (N=S=DIM) (N=S=LOC) | 
  # unknown suffix 
  (N=S=poss) (N=S=UNK1) (N=S=PL) | 
 # Verbal transitions with noun roots 

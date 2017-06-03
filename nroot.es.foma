@@ -88,6 +88,7 @@ define NRootESin [
 | "[=zapato+NCMS000][NP][=shoe]" : {zapato} 
 | "[=tambo][NRootQU][=Incan.structure]" : {tambo}
 ! 
+| "[=vaca+NCFS000][NRoot][=cow]" : {vaca} 
 | "[=vacuna+NCMS000+poss@ri.][NRoot][=vaccine]" : {vacona} 
 ];
 
