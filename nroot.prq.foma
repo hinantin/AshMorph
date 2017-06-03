@@ -168,7 +168,9 @@ define NRootPRQin [
 | "[=chii+m.+inal.][NRoot][=horn, thorn]" : {chii}
 | "[=tsee+m.+inal.][NRoot][=horn, thorn]" : {tsee}
 ! 
-| "[=cheenkari][NRoot][=obscure]" : {cheenkari}
+| "[=cheenkari+color][NRoot][=obscure; black]" : {cheenkari}
+| "[=cheenkaro+color][NRoot][=black]" : {cheenkaro}
+| "[=cheenkavo+color][NRoot][=black]" : {cheenkavo}
 ! 
 | "[=chekito+m.][NRoot][=frog.sp., small.toad.sp.]" : {chekito}
 ! 
