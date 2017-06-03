@@ -169,6 +169,7 @@ define NRootPRQin [
 | "[=tsee+m.+inal.][NRoot][=horn, thorn]" : {tsee}
 ! 
 | "[=cheenkari+color][NRoot][=obscure; black]" : {cheenkari}
+| "[=chenkari+color][NRoot][=obscure; black]" : {chenkari}
 | "[=cheenkaro+color][NRoot][=black]" : {cheenkaro}
 | "[=cheenkavo+color][NRoot][=black]" : {cheenkavo}
 ! 
@@ -2491,7 +2492,8 @@ define NRootPRQin [
 ! 
 | "[=tsinkoti][NRoot][=cultigen/edible.plant.sp. (maranta, sci.nm.: maranta.arudinaca)]" : {tsinkoti} 
 ! 
-| "[=tsipana+n.m.][NRoot][=plant.sp. (bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} 
+| "[=tsipana+n.m.][NRoot][=plant.sp. (bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP 
+| "[=tsipana+n.m.][NRoot][=leaf]" : {tsipana} ! @VCMP 
 ! 
 | "[=tsiraintzi][NRoot][=hummingbird.sp.; pale-tailed.barbthroat (sci.nm.: therenectes.leucurus)]" : {tsiraintzi}
 ! 
