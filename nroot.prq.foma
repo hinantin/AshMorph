@@ -57,8 +57,13 @@ define NRootPRQin [
 ! 
 | "[=ako+n.m.+inal.][NRoot][=arm]" : {ako}
 | "[=ako+n.m.+inal.][NRoot][=hand]" : {ako}
-| "[=akonta][NRoot][=heel]" : {akonta}
+! 
 | "[=akopero][NRoot][=wrist]" : {akopero}
+! 
+| "[=akosanori+inal.][NRoot][=right.hand; right.side]" : {akosanori}
+| "[=akopero+inal.][NRoot][=right.hand; right.side]" : {akopero}
+| "[=akoperori+inal.][NRoot][=right.hand; right.side]" : {akoperori}
+| "[=akopirori+inal.][NRoot][=right.hand; right.side]" : {akopirori}
 ! anaconda
 | "[=amaaro][NRoot][=anaconda, snake]" : {amaaro}
 ! 
@@ -972,6 +977,7 @@ define NRootPRQin [
 | "[=konori][NRoot][=rubber]" : {konori}
 ! 
 | "[=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta}
+| "[=akonta][NRoot][=heel]" : {akonta}
 ! 
 | "[=kontsavo][NRoot][=ruddy.quail-dove (geotrygon.montana)]" : {kontsavo}
 ! 
