@@ -470,8 +470,11 @@ define VRootPRQin [
 | "[=ko][VRoot][=to.want]" : {ko}
 ! 
 | "[=kovari][VRoot][=to.corral]" : {kovari}
+! 
 | "[=kovenka][VRoot][=danger]" : {kovenka}
+! 
 | "[=kovintsa][VRoot][=to.hunt]" : {kovintsa}
+| "[=komintsa][VRoot][=to.hunt]" : {komintsa}
 ! 
 | "[=koya][VRoot][=to.gather]" : {koya}
 | "[=koye][VRoot][=to.gather]" : {koye}
@@ -517,7 +520,7 @@ define VRootPRQin [
 | "[=mantsiy][VRoot][=to.be.sick]" : {mantsiy}
 | "[=mantsiya][VRoot][=to.be.sick]" : {mantsiya}
 ! 
-| "[=mapero][VRoot][=to.get.worse]" : {mapero}
+| "[=mapero][VRoot][=to.get.worse; to.be.true]" : {mapero}
 ! 
 | "[=masavi][VRoot][=to.sweat]" : {masavi}
 | "[=amasavi][VRoot][=to.sweat]" : {amasavi}
