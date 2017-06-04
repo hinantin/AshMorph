@@ -1156,7 +1156,7 @@ define NRootPRQin [
 | "[=matsavo+n.m.][NRoot][=thin, slender]" : {matsavo}
 ! 
 | "[=matsi+n.m.][NRoot][=plant.sp.; edible.tuber.sp. (pituca)]" : {matsi}
-| "[=matsi+m.][NRoot][=witch; insect.sp.]" : {matsi}
+| "[=matsi+m.][NRoot][=(human).witch; insect.sp.]" : {matsi}
 ! 
 | "[=mapitzi+m.][NRoot][=small.bird.sp.]" : {mapitzi}
 ! 
@@ -2285,6 +2285,8 @@ define NRootPRQin [
 | "[=tapii+inal.][NRoot][=back; bottom]" : {tapii}
 | "[=taapii+inal.][NRoot][=back; bottom]" : {taapii}
 | "[=taapiiki+inal.][NRoot][=back]" : {taapiiki}
+! 
+| "[=tapo][NRoot][=to.be.round]" : {tapo}
 ! 
 | "[=taaroma][NRoot][=Tarma]" : {taaroma}
 ! 
