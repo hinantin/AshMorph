@@ -58,8 +58,10 @@ define N=S=DIM [
 ];
       
 define N=S=LOC [
- "[--][-ki][Cas][+LOC]" : [{ki}] | 
- "[--][-ke][Cas][+LOC]" : [{ke}]
+# LOC.T 
+# kitaiteriki / =kitaiteri -ki / =day -LOC.T / EN: 'during.the.day', ES: 'durante.el.día' 
+  "[--][-ki][Cas][+LOC_LOC.T]" : [{ki}] 
+| "[--][-ke][Cas][+LOC_LOC.T]" : [{ke}]
 ];
       
 define N=S=ABS [
@@ -207,6 +209,8 @@ define N=S=CL [
 ! kimoja ene ampeneahatake / =kimo -ha =Ene =ampene -aha -t -ak -e / =to.grow.in.size/volume -cl:liquid =Ene.river =to.make.deaf.sound.rocks -regr -ep -real 
 ! / ES: 'When there is a liquid.increase in the Ene.river, there's a deaf.sound', ES: 'Cuando hay creciente en el río hay un ruido sordo' 
 | "[--][-ha][+CL:liquid][=liquid]" : {ha} ! @CL
+! 
+| "[--][-ako][+CL:vessel][=vessel]" : {ako} ! @CL
 ];
       
 define N=S=EXCL [
@@ -214,6 +218,7 @@ define N=S=EXCL [
 ];
       
 define N=S=ADVP [
+# savadoranki / =savado -ranki / =Saturday -ADV.P / EN: 'last.Saturday', ES: 'el.último.sábado' 
   "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}]
 ];
       
@@ -222,7 +227,7 @@ define N=S=ADVP [
 !      ];
       
 define N=S=ADV [
-  "[--][-paite+during][+ADV]" : [{paite}]
+  "[--][-paite][+ADV][=during]" : [{paite}]
 | "[--][+ADV]" : [{eni}]
 | "[--][+ADV]" : [{ini}]
 ];

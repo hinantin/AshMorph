@@ -137,7 +137,7 @@ define V=S=ADV [
 # ---------------------------------------------------------------
 | "[--][-ranki+fused.t.][+ADV.P]" : "@EP"[{ranki}] 
 # ---------------------------------------------------------------
-| "[--][-paite+during][+ADV]" : "@EP"[{paite}] 
+| "[--][-paite][+ADV][=during]" : "@EP"[{paite}] 
 # ---------------------------------------------------------------
 | "[--][-ni][AS][+ADV]" : "@EP"[{ni}] 
 | "[--][-ini][AS][+ADV]" : "@EP"[{ini}] 
@@ -196,16 +196,6 @@ define V=S=IMPP [
 # 
 | "[--][-t][+IMP.P]" : "@EP"[{t}]
 | "[--][-tz][+IMP.P]" : "@EP"[{tz}]
-];
-      
-!define V=S=quickly [
-!  "[--][+quickly]" : "@EP"[{ite}]
-!];
-      
-define V=S=ICPL [
-  "[--][-ite+quickly][+ICPL]" : "@EP"[{ite}]
-| "[--][-it+speed][+ICPL]" : "@EP"[{it}]
-| "[--][-itz+speed][+ICPL]" : "@EP"[{itz}]
 ];
       
 define V=S=EXCL [
@@ -267,7 +257,7 @@ define V=S=COND [
 !];
       
 define V=S=DIM [
-  "[--][-nint][+DIM]" : "@EP"[{nint}]
+  "[--][-nint][+DIM][=almost,a.little.bit]" : "@EP"[{nint}]
 | "[--][-ni][+DIM]" : "@EP"[{ni}]
 | "[--][-ini][+DIM]" : "@EP"[{ini}]
 ];
@@ -366,10 +356,6 @@ define V=S=REP [
 | "[--][-aa][+REP]" : "@EP"[{aa}]
 ];
       
-define V=S=early [
-  "[--][-aman][+early]" : "@EP"[{aman}]
-];
-      
 !define V=S=forawhile [
 !  "[--][+for.a.while]" : "@EP"[{apaint}]
 !];
@@ -457,9 +443,27 @@ define V=S=DUB [
 | "[--][-taima][+DUB]" : "@EP"[{taima}] 
 ];
       
+# -----------------------------------------------
+# adverbial suffixes of time 
+# -----------------------------------------------
 define V=S=before [
   "[--][-it+before]" : "@EP"[{it}]
 ];
+      
+define V=S=early [
+  "[--][-aman][+early]" : "@EP"[{aman}]
+];
+       
+!define V=S=quickly [
+!  "[--][+quickly]" : "@EP"[{ite}]
+!];
+      
+define V=S=ICPL [
+  "[--][-ite+quickly][+ICPL]" : "@EP"[{ite}]
+| "[--][-it+speed][+ICPL]" : "@EP"[{it}]
+| "[--][-itz+speed][+ICPL]" : "@EP"[{itz}]
+];
+# -----------------------------------------------
       
 define V=S=TEMPORAL [
   "[--][-ni][+TEMPORAL][=ceased.exist., deceased]" : "@EP"[{ni}]
@@ -470,8 +474,8 @@ define V=S=smallpart [
 ];
       
 define V=S=DEGR [
-  "[--][-piro][+DEGR]" : "@EP"[{piro}]
-| "[--][-pero][+DEGR]" : "@EP"[{pero}]
+  "[--][-piro][+DEGR][=indeed]" : "@EP"[{piro}]
+| "[--][-pero][+DEGR][=indeed]" : "@EP"[{pero}]
 ];
       
 define V=S=small [
