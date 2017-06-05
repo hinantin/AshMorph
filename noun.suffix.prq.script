@@ -201,7 +201,7 @@ define N=S=CL [
 # Classifiers for place names
 #-----------------------------------------------
 ! -ni 'watercourse', a truncated version of nija 'water'
-| "[--][-ni][+CL:watercourse][=watercourse]" : {ni}
+| "[--][-ni+place][+CL:watercourse][=watercourse]" : {ni}
 !  -ito~-to 'head, the.heights.of.sth.', source is iitontsi =iito-ntsi =head-nposs
 | "[--][-ito][+CL:head][=head,the.heights.of.sth.]" : {ito}
 | "[--][-i^to][+CL:head][=head,the.heights.of.sth.]" : {to}

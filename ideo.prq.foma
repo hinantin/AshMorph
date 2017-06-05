@@ -2,6 +2,7 @@ define IdeoPRQin [
 # ---------------------------------------
 #        MONOSYLLABIC IDEOPHONE          
 # ---------------------------------------
+# pooo: abrupt-and-brusque.sound.made.by.a.loud.disabling.blow 
   "[=poo][IdeoPRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : {poo}
 | "[=pooo][IdeoPRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : [{pooo}]
 | "[=poom][IdeoPRQ][=heavy.object.falling]" : [{poom}]
@@ -55,7 +56,7 @@ define IdeoPRQin [
 | "[=shoi+s.redup.word][IdeoPRQ][=twisting.movement (e.g.: bottle.cap); object's.circular.movement.around.another.object (e.g.: walking.in.circles)]" : {shoi}
 ! 
 | "[=pak][IdeoPRQ][=heavy.object.falling.down/on_the_ground]" : {pak}
-| "[=pak+s.redup.word][IdeoPRQ][=giving.strong.blows.to.human_body]" : {pak}
+| "[=pak+s.redup.word][IdeoPRQ][=giving.strong.blows.to.human_body; delivering.devastating.blows]" : {pak}
 ! 
 | "[=vea+s.redup.word][IdeoPRQ][=many.people.talking]" : {vea}
 ! 
@@ -85,13 +86,14 @@ define IdeoPRQin [
 ! 
 | "[=hei][IdeoPRQ][=sound/action.of.screaming.loudly]" : {hei} 
 ! 
-| "[=te][IdeoPRQ][=action.of.swirl.in.the.river]" : {te} 
+| "[=te+redup.word][IdeoPRQ][=action.of.swirl.in.the.river; swirling.movement.of.water]" : {te} 
 ! 
 | "[=shi+redup.word][IdeoPRQ][=action.of.instructing.sb.to.stoically.endure.pain; action.of.warning.sb.not.to.cry]" : {shi} 
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
 | "[=tsapo+s.redup.word][IdeoPRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour; water.slowly.filling.a_canoe]" : {tsapo}
+| "[=tsapon][IdeoPRQ][=action.of.falling.into.water]" : {tsapon} 
 | "[=tsapo^k][IdeoPRQ][=falling.into.water; punctual.action.of.shallow.splash.caused.by.the_light.object's.fall.into.the_water]" : {tsapok}
 ! 
 | "[=mako+s.redup.word][IdeoPRQ][=water.level.rising.quickly.in.river; slowly.rising.water.level.in.the_river]" : {mako}
@@ -147,6 +149,7 @@ define IdeoPRQin [
 | "[=shepik][IdeoPRQ][=grabbing.a_moving_object]" : {shepik} 
 | "[=panek+s.redup.word][IdeoPRQ][=digging.soil.in.scoops]" : {panek} 
 ! 
+# kori: quiet.sound.made.in.the.throat.during.the.action.of.gulping.water
 | "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water; swallowing.liquid]" : {kori} 
 | "[=kori][IdeoPRQ][=action.of.gulping.water.once; swallowing.liquid][--][-k][+PUNCTUAL.ACTN]" : {korik} 
 ! 
@@ -281,7 +284,7 @@ define IdeoPRQin [
 ! 
 | "[=ahak][IdeoPRQ][=coughing.action]" : {ahak} 
 ! 
-| "[=tsari+s.redup.word][IdeoPRQ][=action.of.stretching.a.thread]" : {tsari} 
+| "[=tsari+s.redup.word][IdeoPRQ][=action.of.stretching.a.thread, action.of.unrolling.sth.]" : {tsari} 
 ! 
 | "[=hiri+s.redup.word][IdeoPRQ][=pulling.sth.out.leaf.by.leaf; cleaning.weeds.with.a.machete; threshing.corn.with.a.knife]" : {hiri} 
 ! 
@@ -300,7 +303,7 @@ define IdeoPRQin [
 | "[=mantsari+s.redup.word][IdeoPRQ][=scratching.with.nails/claws; action.of.shredding/scratching/raking]" : {mantsari}
 ! 
 | "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
-| "[=tsakorok][IdeoPRQ][=stepping/falling.in.shallow_water.&.producing.no.splashes]" : {tsakorok}
+| "[=tsakoro][IdeoPRQ][=stepping/falling.in.shallow_water.&.producing.no.splashes][--][-k][+PUNCTUAL.ACTN]" : {tsakorok}
 ! 
 | "[=mokoro+s.redup.word][IdeoPRQ][=sound/action.of.vomiting, sensation.of.vomiting]" : {mokoro}
 ! 

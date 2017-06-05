@@ -13,8 +13,11 @@ define V [a|e|i|o];
 define REDUPSYL ?* "+redup.syl.";
 
 define IdeoRedupSylPRQin 0:"^["
-[ 
+[
+# ---------------------------------------------------------
+# ri  
   [ "[" "=pinairi" "]" "[" "IdeoPRQ" "]" "[" "=scratching.with.nails/claws; stretching_out/rolling_out.a_roll.of.plastic; leafing.through.a_book" "]" ] : {pinairi}
+! moiriririri : smoke rising up, e.g., from the fire 
 | [ "[" "=moiri" "]" "[" "IdeoPRQ" "]" "[" "=rising.smoke.from.the_burning_fire" "]" ] : {moiri}
 | [ "[" "=sherori" "]" "[" "IdeoPRQ" "]" "[" "=sliding.down.the_tree (slowly)" "]" ] : {sherori}
 ! 
@@ -24,7 +27,10 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder; thunder.sound" "]" ] : {teri}
 | [ "[" "=mari" "]" "[" "Ideo" "]" "[" "=water.level.rising.slowly; liquid.substance.massively.accumulating.on.the.entity's.surface; heavy.bleeding, (vaginal).bleeding; trickling.tree_sap; sound/action.of.lots.of.ants_walking/people_moving" "]" ] : {mari}
 | [ "[" "=mantsari" "]" "[" "IdeoPRQ" "]" "[" "=dawn/disappearance.of.darkness; gradual.appearance.of.daylight" "]" ] : {mantsari}
+
 | [ "[" "=moreri" "]" "[" "IdeoPRQ" "]" "[" "=blinking.light; light.being.emitted.at.regular.intervals" "]" ] : {moreri}
+| [ "[" "=mori" "]" "[" "IdeoPRQ" "]" "[" "=emitting.bright.light.at.regular.intervals (e.g.: by.a.lightning.bug)" "]" ] : {mori}
+
 | [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance.of.the_sun/shiny_object" "]" ] : {shipari}
 | [ "[" "=sakiri" "]" "[" "IdeoPRQ" "]" "[" "=flock.of.birds.flying.in.one.straight.line" "]" ] : {sakiri}
 | [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree; bird.call/sound.made.by.a.patridge_species/shirentzi; sound.of.water.level.going.down.in.the.river" "]" ] : {shiri}
@@ -34,29 +40,42 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=shirori" "]" "[" "IdeoPRQ" "]" "[" "=slipping.down.a.tree" "]" ] : {shirori}
 | [ "[" "=tsari" "]" "[" "IdeoPRQ" "]" "[" "=stretching.body" "]" ] : {tsari}
 | [ "[" "=heri" "]" "[" "IdeoPRQ" "]" "[" "=sound/action.of.sth.burning.strongly.and.crackling" "]" ] : {heri}
-| [ "[" "=hempari" "]" "[" "IdeoPRQ" "]" "[" "=pain.abating; action.of.soothing.the.pain.in.the.body" "]" ] : {hempari}
+| [ "[" "=hempari" "]" "[" "IdeoPRQ" "]" "[" "=pain.abating; action.of.soothing.the.pain.in.the.body; feeling.pain-free.and.numb" "]" ] : {hempari}
 | [ "[" "=henkari" "]" "[" "IdeoPRQ" "]" "[" "=sensation.of.scent/odor.diffusion" "]" ] : {henkari}
 | [ "[" "=menkiri" "]" "[" "IdeoPRQ" "]" "[" "=deaf.pain.sensation; sensation.of.pains.inside.organs/bones" "]" ] : {menkiri}
 
+# ---------------------------------------------------------
+# re 
 | [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
 | [ "[" "=vore" "]" "[" "IdeoPRQ" "]" "[" "=brilliance.of.the_sun" "]" ] : {vore}
 | [ "[" "=shitere" "]" "[" "Ideo" "]" "[" "=sound/action.of.wasps.flying" "]" ] : {shitere}
 | [ "[" "=moire" "]" "[" "Ideo" "]" "[" "=sound/action.of.clouds/vapor.rising/smoking" "]" ] : {moire}
 
+# ---------------------------------------------------------
+# po 
 | [ "[" "=shipo" "]" "[" "IdeoPRQ" "]" "[" "=rising.vapor.from.sth.heated (i.e.: stone, fire, etc.); smoke/mist.rising" "]" ] : {shipo}
 | [ "[" "=sapo" "]" "[" "IdeoPRQ" "]" "[" "=bird.wings.flapping" "]" ] : {sapo}
 
+# ---------------------------------------------------------
+# mi 
 | [ "[" "=tsimi" "]" "[" "IdeoPRQ" "]" "[" "=sucking.meat.from.bone" "]" ] : {tsimi}
-| [ "[" "=hemi" "]" "[" "IdeoPRQ" "]" "[" "=spreading.numbness.in.mouth.cavity" "]" ] : {hemi}
+| [ "[" "=hemi" "]" "[" "IdeoPRQ" "]" "[" "=feeling.of.spreading.numbness.in.mouth.cavity" "]" ] : {hemi}
 
+# ---------------------------------------------------------
+# pi 
 | [ "[" "=sapi" "]" "[" "IdeoPRQ" "]" "[" "=weak.wind.action.which.moves.treetops; wind.in.trees; strong.stench" "]" ] : {sapi}
 
+# ra 
 | [ "[" "=chara" "]" "[" "IdeoPRQ" "]" "[" "=trickling.liquid (e.g.: water, urine, diarrhea)" "]" ] : {chara}
 | [ "[" "=pakara" "]" "[" "IdeoPRQ" "]" "[" "=drizzling.rain; falling.of.rain_drops/flowers" "]" ] : {pakara}
 | [ "[" "=pakara" "]" "[" "IdeoPRQ" "]" "[" "=breaking.into.multiple.pieces.of.a.fallen.fragile.object.upon.contact.with.the.ground (e.g.: a_plate, a_mirror)" "]" ] : {pakara}
 
+# ---------------------------------------------------------
+# vi 
 | [ "[" "=tsovi" "]" "[" "IdeoPRQ" "]" "[" "=mosquito.sound" "]" ] : {tsovi}
 
+# ---------------------------------------------------------
+# ro 
 | [ "[" "=sero" "]" "[" "IdeoPRQ" "]" "[" "=sliding.downward" "]" ] : {sero}
 | [ "[" "=soro" "]" "[" "IdeoPRQ" "]" "[" "=action/sound.of.a.serpent.sliding.downward.a_hill" "]" ] : {soro}
 | [ "[" "=hero" "]" "[" "IdeoPRQ" "]" "[" "=sound.of.a_large_fire, sound.of.fire" "]" ] : {hero}
