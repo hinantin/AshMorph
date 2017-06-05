@@ -18,7 +18,7 @@ define N=S=DEM [
 ];
       
 define N=S=PL [
-  "[--][-paye][Num][+PL_DIST]" : {paye} ! DIST: vatsatsipaye =vatsa-tsi-paye ES: 'todo.tipo.de.carne', EN: 'all.kinds.of.meat' 
+  "[--][-paye][Num][+PL_DIST]" : {paye} ! DIST: vatsatsipaye / =vatsa -tsi -paye / =meat -nposs -dist / ES: 'todo.tipo.de.carne', EN: 'all.kinds.of.meat' 
 | "[--][-payi][Num][+PL]" : {payi} 
 | "[--][-payeni][Num][+PL]" : {payeni} 
 | "[--][-payeeni][Num][+PL]" : {payeeni} 
@@ -28,9 +28,12 @@ define N=S=PL [
 | "[--][-pe][Num][+PL]" : {pe} 
 | "[--][-pee][Num][+PL_DIST]" : {pee} 
 ! DIST: 
-! kitaiteripee =kitaiteri -pee /  ES: 'semana, todos.los.días', EN: 'week, everyday'
-! kitaiterikipaye =kitaiteri -ki -paye / ES: '(durante).todos.los.días', EN: 'everyday'
-! tsitenirikipaye =tsiteniri -ki -paye / ES: 'durante.la.noche', EN: 'during.the.night'
+! kitaiteripee / =kitaiteri -pee / =day -dist / = ES: 'semana, todos.los.días', EN: 'week, everyday'
+! PL_DIST:
+! kitaiterikipaye / =kitaiteri -ki -paye / =day -loc -pl_dist / ES: '(durante).todos.los.días', EN: 'everyday, during.(all).days; over.the.many.days; over.days'
+! kashirikipaye =kashiri -ki -paye / =month -loc -pl / ES: 'durante.meses', EN: 'over.months'
+! shimaanakipaye =shimaana -ki -paye / =week -loc -pl / ES: 'durante.semanas', EN: 'over.weeks'
+! tsitenirikipaye =tsiteniri -ki -paye / =night -loc -dist / ES: 'durante.la.noche', EN: 'during.the.night' ! dist or pl???
 ];
       
 define N=S=DIM [

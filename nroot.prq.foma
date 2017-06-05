@@ -552,6 +552,10 @@ define NRootPRQin [
 | "[=iri+m.][NRoot][=father (kin.of.a.fe/male)]" : {iri}
 | "[=irichi][NRoot][=milk]" : {irichi}
 ! 
+| "[=iriani][NRoot][=child]" : {iriani}
+| "[=irianeriki][NRoot][=child]" : {irianeriki}
+| "[=irianeeriki][NRoot][=child]" : {irianeeriki}
+! 
 | "[=irimashi][NRoot][=Lima]" : {irimashi} ! lima li -> iri(i) - ma -> ma -> shi -> CL
 ! 
 | "[=Irima][NRoot][=Lima.city]" : {irima}
