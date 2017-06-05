@@ -33,6 +33,7 @@ define N=S=PL [
       
 define N=S=DIM [
 # hetaripatsaini / =hetari -patsa -ini / =armored.catfish -small.part -dim / EN: 'small.armored_catfishes', ES: 'carachamitas' 
+# antavairintsipatsaini / =ant a -vai -rintsi -patsa -ini / =to.do -ep -dur -abs -small.part -dim / EN: 'small.jobs', ES: 'trabajos.pequeños, trabajitos' 
   "[--][-patsa][+small.part][--][-ini][+DIM]" : {patsaini} 
 ! nyaantsipeta / =nyaa -ntsi -peta / =language -nposs -dim / EN: 'dictionary' lit.: 'small.language', ES: 'diccionario' lit.: 'pequeño.lenguaje' 
 | "[--][-peta][+DIM]" : {peta} 
@@ -228,8 +229,8 @@ define N=S=ADVP [
       
 define N=S=ADV [
   "[--][-paite][+ADV][=during]" : [{paite}]
-| "[--][+ADV]" : [{eni}]
-| "[--][+ADV]" : [{ini}]
+| "[--][AS][+ADV]" : [{eni}]
+| "[--][AS][+ADV]" : [{ini}]
 ];
       
 define N=S=AUG [
