@@ -236,8 +236,12 @@ define N=S=ADVP [
       
 define N=S=ADV [
   "[--][-paite][+ADV][=during]" : [{paite}]
-| "[--][AS][+ADV]" : [{eni}]
-| "[--][AS][+ADV]" : [{ini}]
+# kapicheeni
+| "[--][-eni][AS][+ADV]" : [{eni}]
+| "[--][-ini][AS][+ADV]" : [{ini}]
+# ------------------------------
+# kapicheni
+| "[--][-ni][AS][+ADV]" : [{ni}]
 ];
       
 define N=S=AUG [
