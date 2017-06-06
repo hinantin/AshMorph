@@ -1,7 +1,7 @@
 define VRootPRQin [
 ! 
   "[=a][VRoot][=to.take]" : {a}
-  "[=aa][VRoot][=to.take]" : {aa}
+| "[=aa][VRoot][=to.take]" : {aa}
 | "[=a][VRoot][=to.get]" : {a}
 ! 
 | "[=a][VRoot][=to.choose]" : {a}
