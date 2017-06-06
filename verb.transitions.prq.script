@@ -51,8 +51,7 @@ define S [
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=RCP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) | 
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) | 
-! a-n-kaa-ki-tz-imaint-ia-ro
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) | 
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) (V=S=COND) | 
 # -----------------------------------------------------------------------------
  (V=S=FRUS) (V=S=IRR) (V=S=OPT) | 
@@ -230,7 +229,9 @@ define S [
  (V=S=DIM) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DUR) (V=S=REP) (V=S=DIST) (V=S=STAT) (V=S=REL) (V=S=Q) | 
  (V=S=CAUSSOC) (V=S=APPL) (V=S=REGR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=CL) (V=S=REAL) | 
+! a-n-kaa-ki-tz-imaint-ia-ro
+ (V=S=CL) (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+! 
  (V=S=CL) (V=S=STAT) (V=S=REL) (V=S=Q) | 
  (V=S=DUR) (V=S=IRR) (V=S=PRNO) | 
  (V=S=APPLREAS) (V=S=DUR) (V=S=IRR) (V=S=PRNO) | 
