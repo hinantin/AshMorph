@@ -332,7 +332,10 @@ define S [
  (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
  (V=S=PRNO) | 
  (V=S=REGR) (V=S=IRR) (V=S=COND) | 
- (V=S=ICPL) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+# --------------------------------------------------------- 
+! pintziriitzimaityaro / pi- n- =tziri -itz -imai -t -ya -ro / 2a- irr- =to.rub -icpl -inch -irr -3n.m.o / EN: 'you.rub.it' 
+ (V=S=ICPL) (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+# ---------------------------------------------------------
  (V=S=APPL) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=APPLREAS) (V=S=IRR) | 
  (V=S=REGR) (V=S=IRR) (V=S=CNTF) | 
