@@ -209,6 +209,8 @@ define VRootPRQin [
 | "[=hek][VRoot][=to.live, to.dwell, to.inhabit, to.be]" : {hek}
 | "[=heek][VRoot][=to.live, to.dwell, to.inhabit, to.be]" : {heek}
 ! 
+| "[=hemp][VRoot][=to.be.numb]" : {hemp}
+! 
 | "[=heva][VRoot][=to.lead]" : {heva}
 ! 
 | "[=hi][VRoot][=to.call, to.be.called]" : {hi}
@@ -266,6 +268,8 @@ define VRootPRQin [
 | "[=kãym][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)]" : {kãym}
 | "[=kahem][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)]" : {kahem} ! inkajemajeiteri / i=N-kajem-a-hei-t-e-ri 
 ! 
+| "[=kaini][VRoot][=to.itch]" : {kaini}
+! 
 | "[=kam][VRoot][=to.die]" : {kam}
 | "[=vam][VRoot][=to.cause.death, to.make.sb/sth.die]" : {vam}
 ! 
@@ -301,7 +305,7 @@ define VRootPRQin [
 | "[=kasa][VRoot][=to.cook.manioc]" : {kasa}
 ! 
 | "[=kats][VRoot][=to.feel.pain]" : {kats}
-| "[=katsi][VRoot][=to.feel.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
+| "[=katsi][VRoot][=to.feel.pain; to.be.in.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
 | "[=katsik][VRoot][=to.feel.pain]" : {katsik}
 ! 
 | "[=katsima][VRoot][=to.get.angry, to.be.wild, to.be.savage; to.hate; to.feel.pain]" : {katsima}

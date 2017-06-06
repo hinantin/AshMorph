@@ -38,7 +38,7 @@ define IdeoPRQin [
 | "[=chaa][IdeoPRQ][=heavy.object.falling]" : {chaa}
 | "[=chaak][IdeoPRQ][=heavy.object.falling]" : {chaak}
 ! 
-| "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream; a.quick.release.from.pain]" : {shee}
+| "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream; a.quick.release.from.pain (e.g.: headache)]" : {shee}
 | "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheee}
 | "[=sheeee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheeee}
 ! 
@@ -177,7 +177,7 @@ define IdeoPRQin [
 ! 
 | "[=macho+s.redup.word][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
 ! 
-| "[=moye+s.redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot; water.boiling.in.a_pot; general.body.ache]" : {moye} 
+| "[=moye+s.redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot; water.boiling.in.a_pot; general.body.ache, have.bodily.pain]" : {moye} 
 ! 
 | "[=tire][IdeoPRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
 ! 
@@ -356,7 +356,7 @@ define IdeoPRQin [
 ! 
 | "[=sokirik][IdeoPRQ][=object/animated_entity.disappearing.suddenly (e.g.: human, snake)]" : {sokirik}
 ! 
-| "[=hempari+s.redup.word][IdeoPRQ][=pain.abating; action.of.soothing.the.pain.in.the.body]" : {hempari}
+| "[=hempari+s.redup.word][IdeoPRQ][=pain.abating; action.of.soothing.the.pain.in.the.body; spreading.numbness-and-pain.abating]" : {hempari}
 ! 
 | "[=tsinkare][IdeoPRQ][=feeling.cold.due.to.fear (cf. to.feel.chills.running.up.the_spine)]" : {tsinkare}
 | "[=tsinkare][IdeoPRQ][=feeling.cold.due.to.fear (cf. to.feel.chills.running.up.the_spine)][--][-k][+PUNCTUAL.ACTN]" : {tsinkarek}
