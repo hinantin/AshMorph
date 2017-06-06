@@ -379,7 +379,9 @@ define S [
  (V=S=IRR) (V=S=PRNO) (V=S=OPT) | 
  (V=S=APPLINT) (V=S=ICPL) (V=S=REGR) (V=S=IRR) (V=S=PRNO) | 
  (V=S=ICPL) (V=S=IMPP) (V=S=REAL) (V=S=PRNO) | 
- (V=S=IRR) (V=S=COND) | 
+! 
+ (V=S=DUR) (V=S=IRR) (V=S=COND) | 
+! 
  (V=S=IRR) (V=S=ADV) | 
  (V=S=HAB) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=HAB) (V=S=APPLINST) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
