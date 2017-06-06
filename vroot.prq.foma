@@ -215,6 +215,8 @@ define VRootPRQin [
 ! 
 | "[=hinoki][VRoot][=up]" : {hinoki}
 ! 
+| "[=hiri][VRoot][=to.shell.sth.with.a.knife]" : {hiri}
+! 
 | "[=hitori][VRoot][=to.behead]" : {hitori}
 | "[=hitore][VRoot][=to.behead]" : {hitore}
 ! 
@@ -460,6 +462,8 @@ define VRootPRQin [
 | "[=kaaki][VRoot][=to.approach, to.get.closer, to.come.near]" : {kaaki}
 | "[=okaaki][VRoot][=to.approach, to.get.closer, to.come.near]" : {okaaki}
 | "[=okakihi][VRoot][=to.approach, to.get.closer, to.come.near]" : {okakihi}
+! 
+| "[=koshe][VRoot][=to.scrape.a.thin.layer.from.a.surface]" : {koshe}
 ! word set:
 | "[=koshi][VRoot][=to.kidnap]" : {koshi}
 | "[=koshi][VRoot][=to.steal]" : {koshi}
@@ -1222,6 +1226,8 @@ define VRootPRQin [
 | "[=veshiri][VRoot][=to.rejoice, to.get.glad]" : {veshiri}
 ! 
 | "[=vira][VRoot][=to.advance]" : {vira}
+! 
+| "[=viri][VRoot][=to.cut.sth.into.pieces]" : {viri}
 ! 
 | "[=vitsa][VRoot][=to.visit]" : {vitsa}
 ! 

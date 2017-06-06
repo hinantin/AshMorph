@@ -25,6 +25,7 @@ define IdeoPRQin [
 | "[=tek+s.redup.word][IdeoPRQ][=running.briskly]" : {tek}
 | "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree]" : {tok}
 ! 
+| "[=she+s.redup.word][IdeoPRQ][=action.of.scratching]" : {she}
 | "[=shek+s.redup.word][IdeoPRQ][=moving/walking.quickly; action.of.scratching]" : {shek}
 ! 
 | "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {sooo}
@@ -98,8 +99,8 @@ define IdeoPRQin [
 ! 
 | "[=mako+s.redup.word][IdeoPRQ][=water.level.rising.quickly.in.river; slowly.rising.water.level.in.the_river]" : {mako}
 ! 
-| "[=tziri][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities]" : {tziri}
-| "[=tzirik][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities]" : {tzirik}
+| "[=tziri][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities; action.of.rubbing.sth.]" : {tziri}
+| "[=tziri][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities; action.of.rubbing.sth.][--][-k][+PUNCTUAL.ACTN]" : {tzirik}
 ! 
 | "[=tsomi+s.redup.word][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
 ! 
@@ -201,7 +202,7 @@ define IdeoPRQin [
 ! 
 | "[=sakiri+s.redup.word][IdeoPRQ][=moving.in.a.straight.line (e.g.: meteorite.trajectory); filing.down.an_arrow]" : {sakiri} 
 ! 
-| "[=koshe+s.redup.word][IdeoPRQ][=shaving.in.long.strips; removing.strips.of.surface.with.a.machete/knife/razor]" : {koshe} 
+| "[=koshe+s.redup.word][IdeoPRQ][=shaving.in.long.strips; removing.strips.of.surface.with.a.machete/knife/razor; scraping.a.thin.layer.from.a.surface]" : {koshe} 
 ! 
 | "[=pishi+s.redup.word][IdeoPRQ][=to.sweep.the.ground]" : {pishi} 
 ! 
@@ -286,7 +287,7 @@ define IdeoPRQin [
 ! 
 | "[=tsari+s.redup.word][IdeoPRQ][=action.of.stretching.a.thread, action.of.unrolling.sth.]" : {tsari} 
 ! 
-| "[=hiri+s.redup.word][IdeoPRQ][=pulling.sth.out.leaf.by.leaf; cleaning.weeds.with.a.machete; threshing.corn.with.a.knife]" : {hiri} 
+| "[=hiri+s.redup.word][IdeoPRQ][=pulling.sth.out.leaf.by.leaf; cleaning.weeds.with.a.machete; threshing.corn.with.a.knife; action.of.shelling.sth. (e.g.: shelling.a.corn.ear.with.a.knife)]" : {hiri} 
 ! 
 | "[=tsirik][IdeoPRQ][=becoming.attached.to.sth. (i.e.: while.putting.a.plaster.with.leaves.on.sb's.body; attaching.a.bandage; taking.a.picture)]" : {tsirik} 
 | "[=tsirik][IdeoPRQ][=action.of.releasing.from.a.state.of.being.stuck.together]" : {tsirik} 
@@ -318,7 +319,7 @@ define IdeoPRQin [
 | "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
 ! 
 | "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope/thread; breaking.a.thread/leaf.into.two.pieces]" : {tsatzik}
-| "[=tsatzi+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread); breaking.a.thread/leaf.into.two.pieces]" : {tsatzi}
+| "[=tsatzi+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread); tearing/breaking.a.thread/leaf/sth.into.two.pieces]" : {tsatzi}
 ! 
 | "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.rope/thread]" : {mamporik}
 | "[=mamporek][IdeoPRQ][=sensation.of.the.bursting.rope/thread]" : {mamporek}
