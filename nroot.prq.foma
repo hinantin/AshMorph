@@ -411,6 +411,8 @@ define NRootPRQin [
 | "[=iimi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {iimi}
 | "[=emi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {emi}
 ! 
+| "[=imoki][NRoot][=palm.grubs]" : {imoki}
+! 
 | "[=iipatsa+inal.][NRoot][=brain; brains]" : {iipatsa}
 | "[=inapatsa+inal.][NRoot][=brain; brains]" : {inapatsa}
 | "[=iinapatsa+inal.][NRoot][=brain; brains]" : {iinapatsa}
@@ -759,6 +761,9 @@ define NRootPRQin [
 | "[=karava][NRoot][=river.frog.sp.]" : {karava}
 | "[=kaava][NRoot][=river.frog.sp.]" : {kaava}
 ! 
+# kainipirotsa: vine.sp.used.in.the.preparation.of.an.anti-inflammatory.medicine; the.cure/medicine.is.made.from.the.bark.peeled.from.the.vine-and-applied.to.the.wound 
+| "[=kainipirotsa+n.m.][NRoot][=vine.sp. (ES: bejuco.para.las.fracturas, EN: vine)]" : {kainipirotsa}
+! 
 | "[=karento+n.m.][NRoot][=liana.sp. (ESP: bejuco, madreselva)]" : {karento}
 | "[=kainto+n.m.][NRoot][=liana.sp. (ESP: bejuco, madreselva)]" : {kainto}
 ! 
@@ -872,8 +877,13 @@ define NRootPRQin [
 ! 
 | "[=kipatsiniro+color][NRoot][=brown]" : {kipatsiniro} ! source:IIAP 
 ! word set:
-| "[=kipishiri+n.m.][NRoot][=bitter]" : {kipishiri}
-| "[=kepishiri+n.m.][NRoot][=bitter]" : {kepishiri}
+# kipishiri: vine.sp.used.in.the.preparation.of.an.anti-diarrhea.concoction 
+# a section of the vine is cut, pulverized
+# into a mushy mass with a stone, then the mass is heated in water to which a hot
+# stone is added. The watery content is extracted by manual squeezing into a pajo
+# 'bowl', and the medicine is taken internally. 
+| "[=kipishiri+n.m.][NRoot][=bitter; vine.sp.]" : {kipishiri}
+| "[=kepishiri+n.m.][NRoot][=bitter; vine.sp.]" : {kepishiri}
 | "[=kipishi][NRoot][=bitter]" : {kipishi} ! N@->V
 | "[=kepishi][NRoot][=bitter]" : {kepishi} ! N@->V
 ! palm tree species
@@ -1551,6 +1561,7 @@ define NRootPRQin [
 | "[=pachoi][NRoot][=cocona-like.fruit.sp.]" : {pachoi}
 ! 
 | "[=paho][NRoot][=bejuco.sp. (pate)]" : {paho}
+| "[=paho+n.m.][NRoot][=recipient/container.type]" : {paho}
 ! 
 | "[=pai+n.m.+inal.][NRoot][=white.hair]" : {pai}
 ! 
@@ -2510,7 +2521,7 @@ define NRootPRQin [
 ! 
 | "[=tsinaro][NRoot][=cricket.sp.]" : {tsinaro} 
 ! 
-| "[=tsinkamento+inal.][NRoot][=pounding.wooden_stick; wooden.pestle]" : {tsinkamento} 
+| "[=tsinkamento+inal.][NRoot][=pounding.wooden_stick; wooden.pestle; wooden.crusher]" : {tsinkamento} 
 ! 
 | "[=tsinki+m.][NRoot][=eel.sp.]" : {tsinki} 
 | "[=tsinke+m.][NRoot][=eel.sp.]" : {tsinke} 
