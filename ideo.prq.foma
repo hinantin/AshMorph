@@ -125,7 +125,7 @@ define IdeoPRQin [
 ! 
 | "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
 | "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
-| "[=shemi+s.redup.word][IdeoPRQ][=pounding.a.hard.substance]" : {shemi}
+| "[=shemi+s.redup.word][IdeoPRQ][=pounding.a.hard.substance (e.g.: raw.roots, nuts)]" : {shemi}
 ! 
 | "[=more][IdeoPRQ][=flashing.light; burning (fire)]" : {more}
 | "[=mori][IdeoPRQ][=flashing.light; burning (fire)]" : {mori}
@@ -163,7 +163,7 @@ define IdeoPRQin [
 | "[=tyakik][IdeoPRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
 ! 
 | "[=piche][IdeoPRQ][=chewing.manioc; action.of.chewing]" : {piche} 
-| "[=piche+s.redup.word][IdeoPRQ][=rubbing.leaves.between.one's.hands.to.produce.a.mass_with_medicinal_juice; grinding.a.hard.substance]" : {piche} 
+| "[=piche+s.redup.word][IdeoPRQ][=rubbing.leaves.between.one's.hands.to.produce.a.mass_with_medicinal_juice; grinding.a.hard.substance (e.g.: tree-barks, twigs)]" : {piche} 
 | "[=pichek][IdeoPRQ][=punctual.action.of.slapping.water; light.splash.produced.by.walking.in.or.diving.into.water]" : {pichek} 
 ! 
 | "[=miha+s.redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
@@ -244,7 +244,7 @@ define IdeoPRQin [
 ! 
 | "[=sapok][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment]" : {sapok} 
 ! 
-| "[=tsinka+s.redup.word][IdeoPRQ][=crushing.a.soft_object.in.a_trough (e.g.: manioc/cotton.mass)]" : {tsinka} 
+| "[=tsinka+s.redup.word][IdeoPRQ][=crushing.a.soft_object.in.a_trough (e.g.: manioc/cotton.mass, boiled.manioc/cotton)]" : {tsinka} 
 ! 
 | "[=tsinkari][IdeoPRQ][=a.sudden.feeling.of.a.stir.inside.the_body]" : {tsinkari} 
 ! 
