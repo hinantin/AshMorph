@@ -42,7 +42,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=heri" "]" "[" "IdeoPRQ" "]" "[" "=sound/action.of.sth.burning.strongly.and.crackling" "]" ] : {heri}
 | [ "[" "=hempari" "]" "[" "IdeoPRQ" "]" "[" "=pain.abating; action.of.soothing.the.pain.in.the.body; feeling.pain-free.and.numb" "]" ] : {hempari}
 | [ "[" "=henkari" "]" "[" "IdeoPRQ" "]" "[" "=sensation.of.scent/odor.diffusion" "]" ] : {henkari}
-| [ "[" "=menkiri" "]" "[" "IdeoPRQ" "]" "[" "=deaf.pain.sensation; sensation.of.pains.inside.organs/bones" "]" ] : {menkiri}
+| [ "[" "=menkiri" "]" "[" "IdeoPRQ" "]" "[" "=deaf.pain.sensation; sensation.of.pains.inside.organs/bones; itching.sensation" "]" ] : {menkiri}
 
 # ---------------------------------------------------------
 # re 

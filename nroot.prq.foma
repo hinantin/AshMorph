@@ -457,7 +457,7 @@ define NRootPRQin [
 ! 
 | "[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {inchatonaki} 
 | "[=intxatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {intxatonaki} 
-| "[=kosho][NRoot][=container.type]" : {kosho} 
+| "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
 ! 
 | "[=inchashi+n.m.][NRoot][=herb]" : {inchashi}
 | "[=intxashi][NRoot][=herb.with.therapeutic.properties]" : {intxashi}
@@ -2509,6 +2509,8 @@ define NRootPRQin [
 | "[=tsinãni+n.m.][NRoot][=female, woman; young.girl]" : {tsinãni} ! N@->V
 ! 
 | "[=tsinaro][NRoot][=cricket.sp.]" : {tsinaro} 
+! 
+| "[=tsinkamento+inal.][NRoot][=pounding.wooden_stick; wooden.pestle]" : {tsinkamento} 
 ! 
 | "[=tsinki+m.][NRoot][=eel.sp.]" : {tsinki} 
 | "[=tsinke+m.][NRoot][=eel.sp.]" : {tsinke} 
