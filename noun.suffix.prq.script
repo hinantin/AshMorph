@@ -236,11 +236,12 @@ define N=S=ADVP [
       
 define N=S=ADV [
   "[--][-paite][+ADV][=during]" : [{paite}]
-# kapicheeni
+# ------------------------------
+# kapicheeni / =kapiche -eni / =little -adv / EN: 'a.little', ES: 'un.poco'
 | "[--][-eni][AS][+ADV]" : [{eni}]
 | "[--][-ini][AS][+ADV]" : [{ini}]
 # ------------------------------
-# kapicheni
+# kapicheni / =kapiche -ni / =little -adv / EN: 'a.little', ES: 'un.poco'
 | "[--][-ni][AS][+ADV]" : [{ni}]
 ];
       
