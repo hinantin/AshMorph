@@ -1561,7 +1561,7 @@ define NRootPRQin [
 | "[=pachoi][NRoot][=cocona-like.fruit.sp.]" : {pachoi}
 ! 
 | "[=paho][NRoot][=bejuco.sp. (pate)]" : {paho}
-| "[=paho+n.m.][NRoot][=recipient/container.type]" : {paho}
+| "[=paho+n.m.][NRoot][=recipient/container.type; bowl.type]" : {paho}
 ! 
 | "[=pai+n.m.+inal.][NRoot][=white.hair]" : {pai}
 ! 
