@@ -23,7 +23,7 @@ define IdeoPRQin [
 | "[=tyak+s.redup.word][IdeoPRQ][=crushing/nailing.sth (e.g.: cotton.or.manioc.mass); hitting.an.inanimate.object; hammering.nails.into.wood]" : {tyak}
 ! 
 | "[=tek+s.redup.word][IdeoPRQ][=running.briskly]" : {tek}
-| "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree]" : {tok}
+| "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting]" : {tok}
 ! 
 | "[=she+s.redup.word][IdeoPRQ][=action.of.scratching]" : {she}
 | "[=shek+s.redup.word][IdeoPRQ][=moving/walking.quickly; action.of.scratching]" : {shek}
@@ -99,8 +99,9 @@ define IdeoPRQin [
 ! 
 | "[=mako+s.redup.word][IdeoPRQ][=water.level.rising.quickly.in.river; slowly.rising.water.level.in.the_river]" : {mako}
 ! 
-| "[=tziri][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities; action.of.rubbing.sth.]" : {tziri}
-| "[=tziri][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities; action.of.rubbing.sth.][--][-k][+PUNCTUAL.ACTN]" : {tzirik}
+| "[=tziri+redup.word][IdeoPRQ][=action.of.rubbing.sth.]" : {tziri}
+| "[=tziri][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities]" : {tziri}
+| "[=tziri][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities][--][-k][+PUNCTUAL.ACTN]" : {tzirik}
 ! 
 | "[=tsomi+s.redup.word][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
 ! 
@@ -136,7 +137,8 @@ define IdeoPRQin [
 | "[=peta+s.redup.word][IdeoPRQ][=bird.wings.flapping; sound.of.diarrhea, having.diarrhea]" : {peta}
 | "[=petak+s.redup.word][IdeoPRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event; fanning.the_fire.with.a_fan]" : {petak}
 ! 
-| "[=pite+s.redup.word][IdeoPRQ][=trickling.stream]" : {pite}
+| "[=pite+s.redup.word][IdeoPRQ][=trickling.stream; liquid.falling.in.drops]" : {pite}
+| "[=pite+s.redup.word][IdeoPRQ][=trickling.stream; liquid.falling.in.drops][--][-k][+PUNCTUAL.ACTN]" : {pitek}
 ! 
 | "[=shiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shiri} 
 | "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; (slowly).climbing.up.a_tree; wiping.tears.from.the.face]" : {shiri} 
@@ -161,7 +163,7 @@ define IdeoPRQin [
 | "[=tyakik][IdeoPRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
 ! 
 | "[=piche][IdeoPRQ][=chewing.manioc; action.of.chewing]" : {piche} 
-| "[=piche+s.redup.word][IdeoPRQ][=rubbing.leaves.between.one's.hands.to.produce.a.mass_with_medicinal_juice]" : {piche} 
+| "[=piche+s.redup.word][IdeoPRQ][=rubbing.leaves.between.one's.hands.to.produce.a.mass_with_medicinal_juice; grinding.a.hard.substance]" : {piche} 
 | "[=pichek][IdeoPRQ][=punctual.action.of.slapping.water; light.splash.produced.by.walking.in.or.diving.into.water]" : {pichek} 
 ! 
 | "[=miha+s.redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
@@ -368,7 +370,7 @@ define IdeoPRQin [
 ! 
 | "[=tsovivi+s.redup.word][IdeoPRQ][=sensation.of.a.deaf_pain.in.the.stomach]" : {tsovivi}
 ! 
-| "[=pichori+s.redup.word][IdeoPRQ][=action.of.grinding.wood_mass]" : {pichori} ! arbolada = wooded???
+| "[=pichori+s.redup.word][IdeoPRQ][=action.of.grinding.wood_mass/leafy_mass]" : {pichori} ! arbolada = wooded???
 | "[=pichoro][IdeoPRQ][=action.of.grinding.wood_mass]" : {pichoro} ! arbolada = wooded???
 ! 
 | "[=tyapaki+s.redup.word][IdeoPRQ][=big_footed_duck-like.walking]" : {tyapaki}
