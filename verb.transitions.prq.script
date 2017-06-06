@@ -51,7 +51,8 @@ define S [
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=RCP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) | 
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) | 
- V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) | 
+! a-n-kaa-ki-tz-imaint-ia-ro
+ V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) (V=S=COND) | 
 # -----------------------------------------------------------------------------
  (V=S=FRUS) (V=S=IRR) (V=S=OPT) | 
