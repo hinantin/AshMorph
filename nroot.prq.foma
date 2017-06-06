@@ -705,6 +705,14 @@ define NRootPRQin [
 | "[=kaamari+m.][NRoot][=deamon, demonic.creature, evil.spirit; shaman]" : {kaamari}
 | "[=kamaaro][NRoot][=devil]" : {kamaaro}
 ! 
+# kamarishi: 
+# 1) The plant is harvested, washed, torn into small pieces; the plant matter is ground manually with two hands, 
+# in consecutive rounds, to accumulate enough plant material to work with, and is placed in a dish. After the mass
+# produces watery content, it is placed into a folded leaf, from which the drops are squeezed into the eyes.
+# 2) it is believed to counteract the harmful effects from the encounters with demonic spirits. 
+# Such encounters may produce a fever, headaches, vomiting, diarrhea, or any combination of these.
+| "[=kamarishi][NRoot][=demonic.herb]" : {kamarishi}
+! 
 | "[=kamantsi+n./m.][NRoot][=flu; snot; having.a.cold]" : {kamantsi} ! +n.m. +m. both genders?
 ! 
 | "[=kamantzi][NRoot][=black-streaked.puffbird (sci.nm.: malacoptila.fuivogularis)]" : {kamantzi}
