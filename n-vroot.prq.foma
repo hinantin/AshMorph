@@ -80,7 +80,7 @@ define NounToVerbPRQin [
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tamboro} ! N@->V
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tamporo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tampoo} ! N@->V
-| "[=trusa+NCFS000][NRoot][=underpants; shorts]+vbz." : {trusa} ! N@->V
+| "[=trusa+NCFS000][NRoot][=underpants, underwear; shorts]+vbz." : {trusa} ! N@->V
 | "[=antari+m.][AdjRoot][=big; mature]+vbz." : {antari} ! N@->V
 | "[=antari+m.][AdjRoot][=big; mature]+vbz." : {antari} ! N@->V
 | "[=anteari+m.][AdjRoot][=big; mature]+vbz." : {anteari} ! N@->V
