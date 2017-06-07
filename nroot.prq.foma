@@ -128,7 +128,7 @@ define NRootPRQin [
 | "[=ashooshi][NRoot][=armadillo]" : {ashooshi}
 | "[=asorina][NRoot][=cheek]" : {asorina}
 ! person, individual, human
-| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V @VCMP
+| "[=atziri+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V @VCMP
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
 ! 
@@ -431,6 +431,8 @@ define NRootPRQin [
 | "[=hetari+m.][NRoot][=armored.catfish.sp.]" : {hetari}
 | "[=hitari+m.][NRoot][=armored.catfish.sp.]" : {hitari}
 ! 
+| "[=hevari][NRoot][=local.leader]" : {hevari}
+! 
 | "[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impaneki}
 | "[=iNpanaki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impanaki}
 ! 
@@ -610,9 +612,13 @@ define NRootPRQin [
 | "[=iveto][NRoot][=capybara (mountain.animal, ESP: ronsoco)]" : {iveto}
 | "[=oveto][NRoot][=capybara (mountain.animal, ESP: ronsoco)]" : {oveto}
 ! 
-| "[=sari+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {sari}
+# -------------------------------------------------------------------------------------------------
+| "[=sari+m.][NRoot][=grandpa, grandfather (kin.of.a.female); grandson (kin.of.a.female)]" : {sari}
 | "[=saari+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {saari}
 | "[=sary+m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {sary}
+! 
+| "[=sari+m.][NRoot][=grandson]" : {sari}
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=sari+m.][NRoot][=scarlet.macaw (sci.nm.: ara.macaw)]" : {sari}
 ! 
@@ -1769,8 +1775,8 @@ define NRootPRQin [
 ! 
 | "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
 ! 
-| "[=pinkatsari+voc.+poss@te.][NRoot][=chief]" : {pinkatsari}
-| "[=pinkatsari+voc.+poss@te.][NRoot][=chief]" : {pinkatsare}
+| "[=pinkatsari+voc.+poss@te.][NRoot][=chief; regional.leader]" : {pinkatsari}
+| "[=pinkatsare+voc.+poss@te.][NRoot][=chief; regional.leader]" : {pinkatsare}
 ! 
 | "[=pira+m.+inal.][NRoot][=animal; domestic.animal]" : {pira}
 ! 
@@ -2110,10 +2116,12 @@ define NRootPRQin [
 ! 
 | "[=santira][NRoot][=watermelon (botany.sp.: citrullus.sp.)]" : {santira}
 ! 
+# -------------------------------------------------------------------------------------------------
 | "[=saro+n.m.][NRoot][=grandmother (kin.of.a.fe/male)]" : {saro}
 ! 
 | "[=saro+n.m.][NRoot][=granddaughter]" : {saro}
 | "[=shavo+n.m.][NRoot][=granddaughter]" : {shavo}
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=saserote][NRoot][=priest]" : {saserote}
 ! 
@@ -2454,7 +2462,7 @@ define NRootPRQin [
 | "[=tookiti][NRoot][=dove.sp., turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tookiti}
 | "[=tookitzi][NRoot][=dove.sp., turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tookitzi}
 ! 
-| "[=tomi+m.+inal.][NRoot][=son (kin.of.male)]" : {tomi}
+| "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)]" : {tomi}
 | "[=toomi+m.+inal.][NRoot][=son (kin.of.male)]" : {toomi}
 | "[=tyomi+m.+inal.][NRoot][=son (kin.of.male)]" : {tyomi}
 | "[=tiomi+m.+inal.][NRoot][=son (kin.of.male)]" : {tiomi}
