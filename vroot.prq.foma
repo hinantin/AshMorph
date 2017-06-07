@@ -665,9 +665,9 @@ define VRootPRQin [
 ! 
 | "[=nyaavai][VRoot][=to.speak]" : {nyaavai}
 ! 
-| "[=nyapinkatsa][VRoot][=to.honor]" : {nyapinkatsa}
-| "[=nyaapinkatsa][VRoot][=to.honor]" : {nyaapinkatsa}
-| "[=neapinkatsa][VRoot][=to.honor]" : {neapinkatsa}
+| "[=nyapinkatsa][VRoot][=to.honor; to.defer.to.authority]" : {nyapinkatsa}
+| "[=nyaapinkatsa][VRoot][=to.honor; to.defer.to.authority]" : {nyaapinkatsa}
+| "[=neapinkatsa][VRoot][=to.honor; to.defer.to.authority]" : {neapinkatsa}
 ! 
 | "[=nyashirink][VRoot][=to.annoy]" : {nyashirink}
 | "[=oihamintsat][VRoot][=to.annoy]" : {oihamintsat}
