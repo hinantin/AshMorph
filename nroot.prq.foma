@@ -86,6 +86,10 @@ define NRootPRQin [
 | "[=aninko+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aninko} ! to be checked 
 | "[=aniinko+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aniinko} ! to be checked 
 ! 
+# ampatsaantsi / =ampatsaa -ntsi / =praise -nposs / EN: 'praise', ES: 'alabanza' 
+| "[=ampatsa+inal.+poss@ne.][NRoot][=dance.sing; praise (ES: alabanza)]" : {ampatsa}
+| "[=ampatsaa+inal.+poss@ne.][NRoot][=dance.sing; praise (ES: alabanza)]" : {ampatsaa}
+! 
 | "[=aampe+m.][NRoot][=butterfly.sp.]" : {aampe}
 | "[=tsaampe+m.][NRoot][=butterfly.sp.]" : {tsaampe}
 ! cotton
@@ -368,7 +372,7 @@ define NRootPRQin [
 | "[=henka][NRoot][=voice]" : {henka} ! @VCMP 
 | "[=enka][NRoot][=voice]" : {enka} ! @VCMP 
 ! 
-| "[=henoki][NRoot][=top]" : {henoki}
+| "[=henoki][NRoot][=top; sky]" : {henoki}
 | "[=henokê][NRoot][=top]" : {henokê}
 ! 
 | "[=hempeki][NRoot][=arm]" : {hempeki}
@@ -700,9 +704,9 @@ define NRootPRQin [
 ! 
 | "[=kahankari][NRoot][=perfume]" : {kahankari}
 ! 
-| "[=kamaari+m.][NRoot][=deamon, demonic.creature, evil.spirit; shaman]" : {kamaari}
-| "[=kamari+m.][NRoot][=deamon, demonic.creature, evil.spirit; shaman]" : {kamari}
-| "[=kaamari+m.][NRoot][=deamon, demonic.creature, evil.spirit; shaman]" : {kaamari}
+| "[=kamaari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamaari}
+| "[=kamari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamari}
+| "[=kaamari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kaamari}
 | "[=kamaaro][NRoot][=devil]" : {kamaaro}
 ! 
 # kamarishi: 
@@ -788,7 +792,7 @@ define NRootPRQin [
 | "[=kashi][NRoot][=semen]" : {kashi}
 | "[=koche][NRoot][=semen]" : {koche} ! 
 ! 
-| "[=kashiri+m.][NRoot][=moon; month]" : {kashiri}
+| "[=kashiri+m.][NRoot][=moon; month; lunar.deity]" : {kashiri}
 ! 
 | "[=katari][NRoot][=wild.duck; American.darter (sci.nm.: anhinga.anhinga)]" : {katari}
 ! 
@@ -2357,7 +2361,7 @@ define NRootPRQin [
 | "[=tampea+n.m.][NRoot][=wind]" : {tampea}
 | "[=tampya+n.m.][NRoot][=wind]" : {tampya}
 ! 
-| "[=tampo][NRoot][=main.river, Tambo.river]" : {tampo}
+| "[=tampo+poss@ne.][NRoot][=main.river, Tambo.river]" : {tampo}
 ! 
 | "[=tankotsa][NRoot][=leg]" : {tankotsa}
 ! 
