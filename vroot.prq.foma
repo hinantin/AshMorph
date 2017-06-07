@@ -287,7 +287,7 @@ define VRootPRQin [
 | "[=kameetsa][VRoot][=to.be.good]" : {kameetsa}
 | "[=kametsa][VRoot][=to.be.good]" : {kametsa}
 ! 
-| "[=kamen][VRoot][=to.advise]" : {kamen}
+| "[=kamen][VRoot][=to.advise; to.give.advice]" : {kamen}
 | "[=kamet][VRoot][=to.plead]" : {kamet}
 | "[=kamitant][VRoot][=to.buy]" : {kamitant}
 | "[=kampitant][VRoot][=to.buy]" : {kampitant}
@@ -658,6 +658,7 @@ define VRootPRQin [
 | "[=nyaana][VRoot][=to.study]" : {nyaana}
 | "[=nyaana][VRoot][=to.read]" : {nyaana}
 ! 
+# nyaperori / =nyapero -ri / =to.defy.authority -adj / EN: 'brave', ES: 'valiente' 
 | "[=nyapero][VRoot][=to.defy.authority.with.intensity-and-fearlessness; to.be.brave]" : {nyapero}
 ! 
 | "[=nyaashirink][VRoot][=to.annoy]" : {nyaashirink}
@@ -956,6 +957,8 @@ define VRootPRQin [
 | "[=shintsi][VRoot][=to.be.strong]" : {shintsi}
 ! 
 | "[=shintsi][VRoot][=to.be.quick, to.be.fast]" : {shintsi}
+! 
+| "[=shintsivent][VRoot][=to.compel.sb.to.do.sth.; to.impose.an.obligation.on/upon.sb.]" : {shintsivent}
 # To fry something 
 | "[=shionk][VRoot][=to.fry.sth.]" : {shionk}
 | "[=tsionk][VRoot][=to.fry.sth.]" : {tsionk}
@@ -1235,6 +1238,8 @@ define VRootPRQin [
 ! 
 | "[=vashire][VRoot][=to.get.sad, to.be.sad]" : {vashire}
 | "[=vashiri][VRoot][=to.get.sad, to.be.sad]" : {vashiri}
+! 
+| "[=vashivent][VRoot][=to.shame.sb.]" : {vashivent}
 ! 
 | "[=vatsa][VRoot][=to.get.fat, to.gain.weight]" : {vatsa}
 | "[=vayeri][VRoot][=to.be.warrior]" : {vayeri}
