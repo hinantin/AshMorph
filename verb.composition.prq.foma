@@ -8,6 +8,7 @@ define V=S=noun [
 | "[--][=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : "@EP"{atziri} ! N@->V @VCMP
 | "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human]" : "@EP"{atiri} ! N@->V @VCMP
 | "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : "@EP"{atsiri} ! N@->V @VCMP
+| "[--][=hani][NRoot][=little.child]" : "@EP"{hani} ! @VCMP 
 | "[--][=henka][NRoot][=voice]" : "@EP"{henka} ! @VCMP 
 | "[--][=enka][NRoot][=voice]" : "@EP"{enka} ! @VCMP 
 | "[--][=tsempeki][NRoot][=body]" : "@EP"{tsempeki} ! @VCMP 

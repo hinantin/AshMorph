@@ -353,6 +353,7 @@ define NRootPRQin [
 ! 
 | "[=hananeki][NRoot][=child]" : {hananeki}
 | "[=hananiki+poss@te.][NRoot][=little.child]" : {hananiki}
+| "[=hani][NRoot][=little.child]" : {hani} ! @VCMP 
 ! 
 | "[=haachotzi][NRoot][=black-tailed.trogon (sci.nm.: trogon.melanurus)]" : {haachotzi}
 ! 
@@ -2567,6 +2568,7 @@ define NRootPRQin [
 | "[=tsirikana][NRoot][=chili.pepper, pepper]" : {tsirikana}
 | "[=tsirigana][NRoot][=chili.pepper, pepper]" : {tsirigana}
 | "[=tsirikanaa][NRoot][=chili.pepper, pepper]" : {tsirikanaa}
+| "[=tsitikana][NRoot][=chili.pepper, pepper]" : {tsitikana}
 ! 
 | "[=tsiroti][NRoot][=bird.species]" : {tsiroti}
 | "[=tsirotzi][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela)]" : {tsirotzi}
