@@ -417,6 +417,12 @@ define VRootPRQin [
 | "[=kisa][VRoot][=to.be.black]" : {kisa}
 | "[=kisaa][VRoot][=to.be.black]" : {kisaa}
 ! 
+# to.defend
+| "[=kisakovint][VRoot][=to.defend]" : {kisakovint}
+| "[=tikakovent][VRoot][=to.defend]" : {tikakovent}
+| "[=piya][VRoot][=to.defend]" : {piya}
+| "[=piyakovent][VRoot][=to.defend]" : {piyakovent}
+! 
 | "[=kishi][VRoot][=to.comb.sth., to.pull.comb.through.sb's.hair]" : {kishi}
 ! 
 | "[=kiso][VRoot][=to.be.hard]" : {kiso}
