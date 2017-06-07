@@ -2189,7 +2189,7 @@ define NRootPRQin [
 | "[=shi][NRoot][=leaf]" : {shi} 
 # oshitsi / =oshi -tsi / =leaf -nposs / EN: 'leaf', ES: 'hoja'  
 | "[=oshi+inal.][NRoot][=leaf]" : {oshi} 
-| "[=oishi][NRoot][=leaf]" : {oishi} ! oishi = leaf? 
+| "[=oishi][NRoot][=leaf; her.leaf]" : {oishi} ! oishi = leaf? 
 ! 
 | "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shiira}
 ! 
@@ -2342,7 +2342,7 @@ define NRootPRQin [
 | "[=tairinkari][NRoot][=curl-crested.aracari (sci.nm.: pteroglossus.beauharnaessi)]" : {tairinkari}
 ! shell, peel, skin
 | "[=taki+n.m.+inal.][NRoot][=shell; peel; skin]" : {taki}
-| "[=otaki+n.m.+inal.][NRoot][=shell; peel; skin]" : {otaki}
+| "[=otaki+n.m.+inal.][NRoot][=shell; peel; skin; her.shell]" : {otaki}
 ! 
 | "[=takitsi+m.][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {takitsi}
 ! 
@@ -2682,7 +2682,7 @@ define NRootPRQin [
 | "[=vahiro+inal.][NRoot][=name]" : {vahiro}
 | "[=pahiro+inal.][NRoot][=name]" : {pahiro}
 ! 
-| "[=vaaki+n.m.+inal.][NRoot][=sap]" : {vaaki}
+| "[=vaaki+n.m.+inal.][NRoot][=sap; plant.juice]" : {vaaki}
 ! 
 !| "[=garden][=vani][NRoot]" : {vani}
 !| "[=land][=vani][NRoot]" : {vani}
