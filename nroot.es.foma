@@ -9,6 +9,7 @@ define NRootESin [
 | "[=botella][NRootEs][=bottle]" : {voteya}
 ! 
 | "[=carro+poss@te.][NRootEs][=car]" : {karo}
+| "[=carro+poss@te.][NRootEs][=car]" : {kaaro}
 ! 
 | "[=chocolate+NCMS000][NRootEs][=chocolate]" : {chokorate}
 ! 
@@ -33,6 +34,7 @@ define NRootESin [
 | "[=matemática][NRootEs][=math]" : {matematika}
 | "[=mesa][NRootEs][=table]" : {mesa}
 | "[=misión][NRootEs][=mission]" : {misión}
+| "[=moto+poss@te.][NRootEs][=autoriksha]" : {moto}
 ! 
 | "[=número+poss@te.][NRootEs][=number]" : {nomero}
 ! 
@@ -67,7 +69,12 @@ define NRootESin [
 ! 
 | "[=patrona+NCFS000+poss@te.][NRoot][=employer]" : {patrona}
 ! 
+| "[=laptop+poss@te.][NRoot][=laptop]" : {raptop}
+| "[=laptop+poss@te.][NRoot][=laptop]" : {raptopa}
+! 
 | "[=semana+NCFS000][NRoot][=week]" : {shimaana}
+! 
+| "[=celular+NCMS000+poss@te.][NRoot][=cellular.phone]" : {sirorar}
 ! 
 | "[=soles+NCMP000][NRoot][=Peruvian.currency]" : {soles} 
 ! 
