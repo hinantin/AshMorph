@@ -9,7 +9,7 @@ define NounToVerbPRQin [
 | "[=aarontsi][NRoot][=summer]+vbz." : {aarontsi} ! N@->V
 | "[=antami][NRoot][=woods, forest]+vbz." : {antami} ! N@->V
 | "[=ãtame][NRoot][=woods, forest]+vbz." : {ãtame} ! N@->V
-| "[=atzirii+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atziri} ! N@->V @VCMP
+| "[=atziri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atziri} ! N@->V @VCMP
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atiri} ! N@->V @VCMP
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atsiri} ! N@->V @VCMP
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charine} ! N@->V
@@ -64,6 +64,7 @@ define NounToVerbPRQin [
 | "[=seri][NRoot][=tobacco.leaf; tobacco]+vbz." : {seri} ! N@->V
 | "[=shirampari+m.][NRoot][=man; male]+vbz." : {shirampari} ! N@->V
 | "[=shitamenko+inal.][NRoot][=dais]+vbz." : {shitamenko} ! N@->V 
+| "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)]+vbz." : {tomi} ! N@->V 
 | "[=tsantsa][NRoot][=long (in.length); big]+vbz." : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length)]+vbz." : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length)]+vbz." : {hantsa} ! N@->V @CMP

@@ -594,6 +594,11 @@ define V=S=NEWDISC [
 | "[--][-atae][+NEW.DISC]" : "@EP"[{atae}] 
 ];
 
+define V=S=POSSREL [
+  "[--][-nt][VS][+POSS.REL]" : [{nt}] 
+];
+
+
       
 # ##############################
 #         Abbreviations         

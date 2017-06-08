@@ -5,7 +5,7 @@ define V=S=noun [
   "[--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : "@EP"{ani} ! N@->V @VCMP 
 | "[--][=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : "@EP"{aani} ! N@->V @VCMP 
 | "[--][=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : "@EP"{aane} ! N@->V @VCMP 
-| "[--][=atzirii+m.+poss@te.][NRoot][=person, individual, human]" : "@EP"{atziri} ! N@->V @VCMP
+| "[--][=atziri+m.+poss@te.][NRoot][=person, individual, human]" : "@EP"{atziri} ! N@->V @VCMP
 | "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human]" : "@EP"{atiri} ! N@->V @VCMP
 | "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : "@EP"{atsiri} ! N@->V @VCMP
 | "[--][=hani][NRoot][=little.child]" : "@EP"{hani} ! @VCMP 

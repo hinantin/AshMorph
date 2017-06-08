@@ -1306,8 +1306,10 @@ define VRootPRQin [
 ! -----------------
 ! Verbalized roots
 ! -----------------
-| "[=osheki][VRoot][=to.be.much]" : [{osheki}|{osheke}]
-| "[=tomint][VRoot][=to.be.son.of]" : {tomint}
+| "[=osheki][VRoot][=to.be.much]" : [{osheki}] 
+| "[=osheke][VRoot][=to.be.much]" : [{osheke}] 
+! 
+| "[=tomi][NRoot][--][-nt][VS][+POSS.REL]::[=to.be.son.of]" : {tomint}
 | "[=kaari][VRoot][=NEG.COP]" : {kaari}
 ! copula of capacity cop.c
 | "[=kara][VRoot][=COP.C]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 

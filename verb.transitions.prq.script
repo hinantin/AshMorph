@@ -54,6 +54,11 @@ define S [
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) | 
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) (V=S=COND) | 
 # -----------------------------------------------------------------------------
+# V=S=noun (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
+# (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
+! kamahimentaaro / =kam -a -hime -nt -aa -ro / =to.die -ep -husband -poss.rel -real -nmz / ES: 'viuda', EN: 'widow' 
+! kamahimentaari / =kam -a -hime -nt -aa -ri / =to.die -ep -husband -poss.rel -real -nmz / ES: 'viudo', EN: 'widow' 
+# -----------------------------------------------------------------------------
  (V=S=FRUS) (V=S=IRR) (V=S=OPT) | 
  (V=S=DIST) (V=S=REAL) | 
  (V=S=PRF) (V=S=IRR) (V=S=COND) | 
