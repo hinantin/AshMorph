@@ -1313,6 +1313,7 @@ define VRootPRQin [
 | "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)][--][-nt][VS][+POSS.REL]::[=to.be.son.of]" : {tomint}
 | "[=hime+m.+inal.][NRoot][=husband (kin.of.a.female)][--][-nt][VS][+POSS.REL]::[=to.marry.sb.]" : {himent}
 | "[=hina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)][--][-nt][VS][+POSS.REL]::[=to.have.a.wife]" : {hinant}
+| "[=kam][VRoot][=to.die][--][-a][+EP][--][=hime+m.+inal.][NRoot][=husband (kin.of.a.female)][--][-nt][VS][+POSS.REL]::[=to.become.a.widow]" : {kamahiment}
 ! 
 | "[=kaari][VRoot][=NEG.COP]" : {kaari}
 ! copula of capacity cop.c
