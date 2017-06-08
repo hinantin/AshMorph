@@ -1309,7 +1309,10 @@ define VRootPRQin [
 | "[=osheki][VRoot][=to.be.much]" : [{osheki}] 
 | "[=osheke][VRoot][=to.be.much]" : [{osheke}] 
 ! 
+# Possessive relation +POSS.REL
 | "[=tomi][NRoot][--][-nt][VS][+POSS.REL]::[=to.be.son.of]" : {tomint}
+| "[=hime][NRoot][--][-nt][VS][+POSS.REL]::[=to.marry.sb.]" : {himent}
+! 
 | "[=kaari][VRoot][=NEG.COP]" : {kaari}
 ! copula of capacity cop.c
 | "[=kara][VRoot][=COP.C]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 
