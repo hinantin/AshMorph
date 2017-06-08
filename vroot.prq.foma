@@ -1310,8 +1310,9 @@ define VRootPRQin [
 | "[=osheke][VRoot][=to.be.much]" : [{osheke}] 
 ! 
 # Possessive relation +POSS.REL
-| "[=tomi][NRoot][--][-nt][VS][+POSS.REL]::[=to.be.son.of]" : {tomint}
-| "[=hime][NRoot][--][-nt][VS][+POSS.REL]::[=to.marry.sb.]" : {himent}
+| "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)][--][-nt][VS][+POSS.REL]::[=to.be.son.of]" : {tomint}
+| "[=hime+m.+inal.][NRoot][=husband (kin.of.a.female)][--][-nt][VS][+POSS.REL]::[=to.marry.sb.]" : {himent}
+| "[=hina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)][--][-nt][VS][+POSS.REL]::[=to.marry.sb.]" : {hinant}
 ! 
 | "[=kaari][VRoot][=NEG.COP]" : {kaari}
 ! copula of capacity cop.c
