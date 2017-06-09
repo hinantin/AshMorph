@@ -84,7 +84,7 @@ define IdeoRedupSylPRQin 0:"^["
 
 # ---------------------------------------------------------
 # ni 
-| [ "[" "=tsovini" "]" "[" "IdeoCJO" "]" "[" "=sound.of.labor_pains" "]" ] : {tsovini}
+| [ "[" "=tsovini+whistle.lang." "]" "[" "IdeoCJO" "]" "[" "=sound.of.labor_pains" "]" ] : {tsovini}
 
 ] 
 ["+redup.syl."]

@@ -26,6 +26,8 @@ define IdeoPRQin [
 | "[=tak+s.redup.word][IdeoPRQ][=crushing.cotton.or.manioc.mass; hitting.an.inanimate.object]" : {tak}
 | "[=tyak+s.redup.word][IdeoPRQ][=crushing/nailing.sth (e.g.: cotton.or.manioc.mass); hitting.an.inanimate.object; hammering.nails.into.wood]" : {tyak}
 ! 
+| "[=tyak+whistle.lang.][IdeoCJO][=action.of.hitting.sth./sb.]" : {tyak} 
+! 
 | "[=tek+s.redup.word][IdeoPRQ][=running.briskly]" : {tek}
 | "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting]" : {tok}
 ! 
@@ -49,6 +51,8 @@ define IdeoPRQin [
 | "[=chee][IdeoPRQ][=heavy_rainfall/large_waterfall]" : {chee}
 ! 
 | "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle]" : {too}
+! 
+| "[=toog+whistle.lang.][IdeoCJO][=sound.of.gunfire/machine_gun_shoot]" : {toog}
 ! 
 | "[=tang][IdeoPRQ][=bell.ringing; sound.of_the_church_bell/of_coin/of_can.fallen.on.the_ground]" : {tang}
 ! 
