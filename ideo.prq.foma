@@ -8,6 +8,10 @@ define IdeoPRQin [
 | "[=poom][IdeoPRQ][=heavy.object.falling]" : [{poom}]
 ! 
 | "[=poon][IdeoPRQ][=sound/action.of.birds.flying]" : {poon} 
+! 
+# poooo:
+# a 1/2 liter soda_bottle 
+| "[=poooo+whistle.lang.][IdeoPRQ][=sound.of.a.(plastic).soda_bottle.exploding.due.to.the.preassure.from.the.masato.inside]" : {poooo} 
 ########
 #  pok  
 # - light object hitting a solid surface, without compromising the object’s integrity
@@ -94,6 +98,10 @@ define IdeoPRQin [
 | "[=eeee+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eeee} 
 ! 
 | "[=hmmm+redup.word+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {hmmm} 
+! 
+| "[=ho+redup.word+whistle.lang.][IdeoCJO][=sound.of.wings.flying; sound.of.sth.that.comes.flying]" : {ho} 
+! 
+| "[=mooo+whistle.lang.][IdeoCJO][=sound.of.wind]" : {mooo} 
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
@@ -147,6 +155,9 @@ define IdeoPRQin [
 | "[=shiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shiri} 
 | "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; (slowly).climbing.up.a_tree; wiping.tears.from.the.face]" : {shiri} 
 | "[=shikiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
+! 
+# ES: sonido de una persona que atraviesa una quebrada con bajo nivel de agua 
+| "[=shiri+s.redup.word+whistle.lang.][IdeoPRQ][=sound.of.a.person.wading.across.a_ravine.with.low_water_level]" : {shiri} 
 ! 
 | "[=terong][IdeoPRQ][=drumming; sound.of.a.drum]" : {terong} 
 ! 
