@@ -17,7 +17,10 @@
 
       define QUIReplacement [ {ky} (->) {qui} || _ [a|á] ];
       define QUReplacement [ {k} (->) {qu} || _ [e|i|é|í] ,, {k} (->) {qü} || _ [e|i|é|í] ];
-      define CReplacement [ {k} (->) {c} || _ [a|o|u|á|é|í] ];
+
+      define CReplacement1 [ {k} (->) {c} || _ [a|o|u|á|é|í] ];
+      define CReplacement2 [ {k} (->) {c} || [a|o|u|á|é|í] _ .#. ]; ! shac -> shak ; tac -> tak 
+
       define QYReplacement [ {ky} (->) {qy} || _ [a] ];
 
       define JReplacement1 [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
@@ -65,7 +68,7 @@
       define NYOnset [ {niy} (->) {ny} || _ [a|á] ]; ! kanyari 'green' -> kaniyari 
       define KYOnset [ {kiy} (->) {ky} || _ [a|á] ]; ! chochokyari -> chochokiyari 
 
-      define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement .o. QYReplacement 
+      define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 
 .o. ZReplacement1 
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
