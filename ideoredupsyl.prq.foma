@@ -6,8 +6,8 @@ source ortography.foma
 
 # IdeoRedupSylPRQ.foma
 
-# ri, ro, ra, pi, po, mi, vi
-define RedupSyl  [{ri}|{re}|{ro}|{po}|{mi}|{pi}|{ra}|{vi}];
+# ri, ro, ra, pi, po, mi, vi, ni 
+define RedupSyl  [{ri}|{re}|{ro}|{po}|{mi}|{pi}|{ra}|{vi}|{ni}];
 define V [a|e|i|o];
 
 define REDUPSYL ?* "+redup.syl.";
@@ -81,6 +81,10 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=soro" "]" "[" "IdeoPRQ" "]" "[" "=action/sound.of.a.serpent.sliding.downward.a_hill" "]" ] : {soro}
 | [ "[" "=hero" "]" "[" "IdeoPRQ" "]" "[" "=sound.of.a_large_fire, sound.of.fire" "]" ] : {hero}
 | [ "[" "=tsakoro" "]" "[" "IdeoPRQ" "]" "[" "=emptying.water.bottle" "]" ] : {tsakoro}
+
+# ---------------------------------------------------------
+# ni 
+| [ "[" "=tsovini" "]" "[" "IdeoCJO" "]" "[" "=sound.of.labor_pains" "]" ] : {tsovini}
 
 ] 
 ["+redup.syl."]
