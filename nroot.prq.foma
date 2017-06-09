@@ -103,6 +103,7 @@ define NRootPRQin [
 ! 
 | "[=antami][NRoot][=woods, forest]" : {antami} ! N@->V
 | "[=ãtame][NRoot][=woods, forest]" : {ãtame} ! N@->V
+| "[=antame][NRoot][=woods, forest (ES: selva, PT: floresta)]" : {antame} 
 ! 
 | "[=antoko][NRoot][=person's.name]" : {antoko}
 ! 
