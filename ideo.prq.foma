@@ -91,7 +91,7 @@ define IdeoPRQin [
 ! 
 | "[=shi+redup.word][IdeoPRQ][=action.of.instructing.sb.to.stoically.endure.pain; action.of.warning.sb.not.to.cry]" : {shi} 
 ! 
-| "[=eeee+whistle.lang.][IdeoCJO][=fear, anguish (ES: miedo, angustia)]" : {eeee} 
+| "[=eeee+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eeee} 
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
@@ -300,7 +300,7 @@ define IdeoPRQin [
 ! 
 | "[=heva+s.redup.word][IdeoPRQ][=action.of.fanning]" : {heva} 
 ! 
-| "[=ihii+s.redup.word+whistle.lang.][IdeoCJO][=laugh, laughing (ES: risa)]" : {ihii} 
+| "[=ihii+s.redup.word+whistle.lang.][IdeoCJO][=sound.of.laughter (ES: sonido.de.la.risa)]" : {ihii} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -381,7 +381,7 @@ define IdeoPRQin [
 ! 
 | "[=tyapaki+s.redup.word][IdeoPRQ][=big_footed_duck-like.walking]" : {tyapaki}
 ! 
-| "[=hererer+whistle.lang.][IdeoCJO][=action.of.throwing; action.of.pulling (ES: tirar, jalar)]" : {hererer}
+| "[=hererer+whistle.lang.][IdeoCJO][=action/sound.of.throwing.sth.; action/sound.of.pulling.sth. (ES: acción/sonido.de.tirar/jalar.algo)]" : {hererer}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
