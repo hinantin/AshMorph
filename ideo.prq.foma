@@ -90,6 +90,8 @@ define IdeoPRQin [
 | "[=te+redup.word][IdeoPRQ][=action.of.swirl.in.the.river; swirling.movement.of.water]" : {te} 
 ! 
 | "[=shi+redup.word][IdeoPRQ][=action.of.instructing.sb.to.stoically.endure.pain; action.of.warning.sb.not.to.cry]" : {shi} 
+! 
+| "[=eeee+whistle.lang.][IdeoCJO][=fear, anguish (ES: miedo, angustia)]" : {eeee} 
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
@@ -297,6 +299,8 @@ define IdeoPRQin [
 | "[=potso+s.redup.word][IdeoPRQ][=painting.a.face/body]" : {potso} 
 ! 
 | "[=heva+s.redup.word][IdeoPRQ][=action.of.fanning]" : {heva} 
+! 
+| "[=ihii+s.redup.word+whistle.lang.][IdeoCJO][=laugh, laughing (ES: risa)]" : {ihii} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -376,6 +380,8 @@ define IdeoPRQin [
 | "[=pichoro][IdeoPRQ][=action.of.grinding.wood_mass]" : {pichoro} ! arbolada = wooded???
 ! 
 | "[=tyapaki+s.redup.word][IdeoPRQ][=big_footed_duck-like.walking]" : {tyapaki}
+! 
+| "[=hererer+whistle.lang.][IdeoCJO][=action.of.throwing; action.of.pulling (ES: tirar, jalar)]" : {hererer}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
