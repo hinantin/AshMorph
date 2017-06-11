@@ -162,8 +162,9 @@
       #          Lenition Rules         #
       ###################################
 
-      define PWLenitionRule1 [ "@LEN@"p (->) "@LEN@"v || [{o}] _ [{i}|{a}] ]; 
+      define PWLenitionRule1 [ "@LEN@"p (->) "@LEN@"v || [{o}] _ [{i}|{a}|{o}] ]; 
                                                                             # nopito (in our lexicon) -> no@LEN@pito -> no@LEN@vito -> novito 
+                                                                            # nopochokine (in our lexicon) -> no@LEN@pochokine -> no@LEN@bochokine -> nobochokine 
       define PWLenitionRule2 [ "@LEN@"p (->) "@LEN@"v || [{i}] _ [{i}|{a}] ]; 
                                                                             # ipanko (in our lexicon) -> i@LEN@panko -> i@LEN@vanko -> ivanko 
       define PWLenitionRule3 [ "@LEN@"p -> "@LEN@"v || [{a}] _ [{i}|{o}] ]; 

@@ -1861,7 +1861,8 @@ define NRootPRQin [
 ! 
 | "[=piviro+m.][NRoot][=toad.sp.]" : {piviro}
 ! 
-| "[=pochoki][NRoot][=dream]" : {pochoki}
+# novochokine / no- =pochoki -ne / 1sg.poss- =dream -nposs / EN: 'my.dream', ES: 'mi.sueño' 
+| "[=pochoki+poss@ne.][NRoot][=dream]" : {pochoki} 
 ! 
 | "[=poe][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poe}
 | "[=poi][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poi}
