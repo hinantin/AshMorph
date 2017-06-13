@@ -137,7 +137,7 @@ define VRootPRQin [
 ! 
 | "[=ashe][VRoot][=to.wet.sth.]" : {ashe}
 ! 
-| "[=ashinonk][VRoot][=to.suffer]" : {ashinonk}
+| "[=ashinonk][VRoot][=to.suffer; to.be.poor]" : {ashinonk}
 | "[=ashinonka][VRoot][=to.suffer.from.sth.; to.suffer]" : {ashinonka}
 | "[=ashinonkee][VRoot][=to.suffer.from.sth.; to.suffer]" : {ashinonkee}
 ! 
@@ -555,6 +555,7 @@ define VRootPRQin [
 | "[=mahavi][VRoot][=to.sweat]" : {mahavi}
 ! 
 | "[=matsa][VRoot][=to.be.thin]" : {matsa}
+| "[=maatsa][VRoot][=to.be.thin]" : {maatsa}
 ! 
 | "[=matsiy][VRoot][=to.cast.a.spell.on.sth/sb., to.enchant]" : {matsiy}
 ! 
