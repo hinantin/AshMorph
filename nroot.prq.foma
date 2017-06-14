@@ -1585,7 +1585,7 @@ define NRootPRQin [
 | "[=paamari+n.m.][NRoot][=fire]" : {paamari}
 | "[=paampari+n.m.][NRoot][=fire]" : {paampari}
 ! 
-| "[=paamanto][NRoot][=burned.wood]" : {paamanto}
+| "[=paamanto][NRoot][=burned.wood; burning]" : {paamanto}
 ! 
 | "[=paampatzi][NRoot][=bird.species]" : {paampatzi}
 ! 
@@ -2591,7 +2591,8 @@ define NRootPRQin [
 | "[=tsiteniri][NRoot][=night]" : {tsiteniri}
 | "[=tsireniri][NRoot][=night]" : {tsireniri}
 ! 
-| "[=tsitsi][NRoot][=firewood]" : {tsitsi}
+| "[=tsitsi+n.m.][NRoot][=firewood]" : {tsitsi}
+! 
 | "[=tsitsiri][NRoot][=cricket]" : {tsitsiri}
 ! 
 | "[=tsitsikana][NRoot][=chili.sp. (ají, botany.nm.: capsicum.sp.)]" : {tsitsikana}
@@ -2806,7 +2807,7 @@ define NRootPRQin [
 # m.			masculine
 # n.m.			not masculine
 # sp.			species
-# inal.			inalienable
+# inal.			inalienable possession
 # +n./m.		masculine and not masculine
 # fem.			female
 # SAP			speech act participant
