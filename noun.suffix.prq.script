@@ -1,13 +1,17 @@
 ! alienable possession?
 define N=S=poss [
-  "[--][-te][Gen][+poss]" : {te} 
-| "[--][-ti][Gen][+poss]" : {ti} 
+  "[--][-te][Gen][+aln.poss]" : {te} 
+| "[--][-ti][Gen][+aln.poss]" : {ti} 
 ! 
-| "[--][-ni][Gen][+poss]" : {ni} 
-| "[--][-ne][Gen][+poss]" : {ne} 
+| "[--][-ni][Gen][+aln.poss]" : {ni} 
+| "[--][-ne][Gen][+aln.poss]" : {ne} 
 ! 
-| "[--][-ri][Gen][+poss]" : {ri} 
-| "[--][-re][Gen][+poss]" : {re}
+| "[--][-ri][Gen][+aln.poss]" : {ri} 
+| "[--][-re][Gen][+aln.poss]" : {re}
+! 
+# tsitsi / =tsitsi / =firewood / EN: 'firewood', ES: 'leña'
+# otsima / =tsi -ma / =firewood -aln.poss. / EN: 'her.firewood', ES: 'su.leña'
+| "[--][-ma][Gen][+aln.poss]" : {ma}
 ];
       
 ! DEM.NOM: Nominal demonstrative
@@ -342,4 +346,10 @@ define N=S=UNK1 [
   "[--][-rinte][+UNK1]" : [{rinte}]
 ];
       
+
+# ##############################
+#         Abbreviations         
+# ##############################
+
+# aln.poss.		alienably possessed
 
