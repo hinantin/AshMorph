@@ -408,8 +408,8 @@ define NRootPRQin [
 | "[=hinya+n.m.+poss@te.][NRoot][=water]" : {hinya}
 | "[=hinyaa+n.m.+poss@te.][NRoot][=water]" : {hinyaa}
 ! 
-| "[=sompo+inal.][NRoot][=tumor]" : {sompo}
-| "[=hompo+inal.][NRoot][=tumor]" : {hompo}
+| "[=sompo+inal.][NRoot][=tumor; boil]" : {sompo} ! N@->V 
+| "[=hompo+inal.][NRoot][=tumor; boil]" : {hompo}
 ! 
 | "[=ime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {ime}
 | "[=iime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {iime}
