@@ -2327,6 +2327,7 @@ define NRootPRQin [
 | "[=shivaNki+n.m.+inal.][NRoot][=feather; wing]" : {shivanki}
 # ivanki: his.wing; his.wing_feather 
 | "[=vaNki][NRoot][=feather]" : {vanki} ! @CMP 
+| "[=paNki][NRoot][=feather]" : {panki} 
 ! 
 | "[=shivi+n.m.+inal.][NRoot][=penis]" : {shivi}
 ! 
@@ -2816,4 +2817,11 @@ define NRootPRQin [
 # ESP			Spanish 
 # QUZ			Quechua 
 # var.			variety
+
+# ##############################
+#         Abbreviations         
+# ##############################
+
+# @CMP			noun composition 
+# @VCMP			verb composition 
 

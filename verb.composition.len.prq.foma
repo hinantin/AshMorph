@@ -21,6 +21,7 @@ define V=S=LEN=noun [
 | "[--][=pori+n.m.+inal.][NRoot][=leg; thigh]" : {pori} ! @VCMP 
 | "[--][=voro][NRoot][=face]" : {voro} ! @VCMP 
 | "[--][=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
+| "[--][=paNki][NRoot][=feather]" : {panki} ! @VCMP 
 | "[--][=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsome} ! @VCMP
 | "[--][=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsomi} ! @VCMP
 | "[--][=tsipana+n.m.][NRoot][=plant.sp. (bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP 
@@ -28,4 +29,5 @@ define V=S=LEN=noun [
 | "[--][=vatsa+n./m.+inal.][NRoot][=meat, mass, flesh, body; inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
 | "[--][=yereto+n.m.+inal.][NRoot][=knee]" : {yereto} ! @VCMP 
 | "[--][=yerito+n.m.+inal.][NRoot][=knee]" : {yerito} ! @VCMP 
+# @VCMP			verb composition 
 ];

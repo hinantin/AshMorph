@@ -20,4 +20,5 @@ define NRootCmpPRQin [
 | "[--][=tsantsa][NRoot][=long (in.length); big]" : {tsantsa} ! N@->V @CMP
 | "[--][=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP
 | "[--][=hantsa][NRoot][=long (in.length)]" : {hantsa} ! N@->V @CMP
+# @CMP			noun composition 
 ];
