@@ -23,6 +23,7 @@ define NounToVerbPRQin [
 | "[=evankari+m.][NRoot][=young.man, adolescent]+vbz." : {evankari} ! N@->V
 | "[=horio+m.][NRoot][=jewish]+vbz." : {horio} ! N@->V
 | "[=horiiyo+m.][NRoot][=jewish]+vbz." : {horiiyo} ! N@->V
+| "[=sompo+inal.][NRoot][=tumor; boil]+vbz." : {sompo} ! N@->V 
 | "[=intaina+loc.][AdvRoot][=far.away]+vbz." : {intaina} ! N@->V ! revise if it belongs to this file 
 | "[=intaena+loc.][AdvRoot][=far.away]+vbz." : {intaena} ! N@->V ! revise if it belongs to this file 
 | "[=inteena+loc.][AdvRoot][=far.away]+vbz." : {inteena} ! N@->V ! revise if it belongs to this file 
