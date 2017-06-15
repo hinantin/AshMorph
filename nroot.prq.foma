@@ -107,7 +107,9 @@ define NRootPRQin [
 ! 
 | "[=antoko][NRoot][=person's.name]" : {antoko}
 ! 
+| "[=anteashipari+m.][NRoot][=elderly.man, old.man; secondhand]" : {anteashipari}
 | "[=antyashipari+m.][NRoot][=elderly.man, old.man]" : {antyashipari}
+| "[=anteashiparo+n.m.][NRoot][=elderly.woman, old.woman; secondhand]" : {anteashiparo}
 | "[=antyashiparo+n.m.][NRoot][=elderly.woman, old.woman]" : {antyashiparo}
 | "[=antyashipavo+n.m.][NRoot][=elderly.woman, old.woman]" : {antyashipavo}
 ! 
@@ -2286,6 +2288,8 @@ define NRootPRQin [
 | "[=shintzipaa+n.m.+poss@re][NRoot][=raft]" : {shintzipaa}
 | "[=shintipa+n.m.+poss@re][NRoot][=raft]" : {shintipa}
 | "[=shintipaa+n.m.+poss@re][NRoot][=raft]" : {shintipaa}
+! 
+| "[=shiketzi][NRoot][=armored.catfish.sp. (carachama), fish.sp.]" : {shiketzi}
 ! 
 | "[=shikiri][NRoot][=triangular.wings.fly; mosquito.sp.]" : {shikiri}
 ! 
