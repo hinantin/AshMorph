@@ -502,7 +502,8 @@ define S [
  (V=S=STATIPRF) (V=S=REL) (V=S=ADV) | 
  (V=S=neck) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADV) | 
  (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) | 
- (V=S=DIR) (V=S=IMPP) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) | 
+ (V=S=DIR) (V=S=IMPP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
+ (V=S=DIR) (V=S=IMPP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=SUB) | 
  (V=S=HAB) (V=S=REAL) | 
  (V=S=REAL) (V=S=SUB) | 
  (V=S=DUR) (V=S=REAL) (V=S=PRNO) (V=S=NEG) (V=S=ADV) | 
