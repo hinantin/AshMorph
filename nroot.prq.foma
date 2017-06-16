@@ -16,6 +16,8 @@ define NRootPRQin [
 | "[=yaya+m.][NRoot][=brother (kin.of.a.female)]" : {yaya}
 | "[=haihi+m.][NRoot][=brother (kin.of.a.female)]" : {haihi}
 ! 
+| "[=ashitarori][NRoot][=owner (ES: dueño)]" : {ashitarori}
+! 
 | "[=aarontsi][NRoot][=summer]" : {aarontsi} ! N@->V
 ! 
 | "[=anatare+inal.][NRoot][=liver]" : {anatare}
@@ -644,6 +646,8 @@ define NRootPRQin [
 | "[=tivaa+n.m.+inal.][NRoot][=branch]" : {tivaa}
 ! 
 | "[=tsempeki][NRoot][=body]" : {tsempeki} ! @VCMP 
+! 
+| "[=tserepito][NRoot][=kingfisher.sp., bird.sp. (ES: martin.pescador)]" : {tserepito} 
 ! 
 | "[=tsipa+n.m.][NRoot][=wife]" : {tsipa}
 ! 
