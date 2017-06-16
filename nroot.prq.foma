@@ -482,7 +482,7 @@ define NRootPRQin [
 ! 
 | "[=inkite][NRoot][=sky; firmament]" : {inkite}
 ! 
-| "[=inki+n.m.][NRoot][=peanut (maní, botany.nm.: arachis.hipogagea)]" : {inki}
+| "[=inki+n.m.+poss@ne.][NRoot][=peanut (maní, botany.nm.: arachis.hipogagea)]" : {inki}
 ! 
 | "[=inkiri+m.][NRoot][=fish.sp.]" : {inkiri}
 ! 
@@ -1115,6 +1115,8 @@ define NRootPRQin [
 ! 
 | "[=ma][NRoot][=clothes]" : {ma}
 | "[=maa][NRoot][=clothes]" : {maa}
+! 
+| "[=matsa+inal.][NRoot][=clothes]" : {matsa}
 ! 
 | "[=maatzi][NRoot][=medium-size.speckled.chachalaca (manacaraco, sci.nm.: ortalis.guttata)]" : {maatzi}
 | "[=maratzi][NRoot][=medium-size.speckled.chachalaca (manacaraco, sci.nm.: ortalis.guttata)]" : {maratzi}
@@ -2068,6 +2070,7 @@ define NRootPRQin [
 ! 
 | "[=hani+m.][NRoot][=wasp]" : {hani}
 | "[=sani+m.][NRoot][=wasp]" : {sani}
+| "[=sane+m.][NRoot][=wasp]" : {sane}
 | "[=sanii+m.][NRoot][=wasp]" : {sanii}
 ! 
 | "[=sanko+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {sanko}
