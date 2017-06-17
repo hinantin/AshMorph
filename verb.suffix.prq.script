@@ -145,12 +145,12 @@ define V=S=ADV [
 ];
       
 define V=S=O [
-  "[--][-na][+1O]" : "@EP"[{na}] 
-| "[--][-mi][+2O]" : "@EP"[{mi}] 
-| "[--][-mpi][+2O]" : "@EP"[{mpi}] 
-| "[--][-npi][+2O]" : "@EP"[{npi}] 
-| "[--][-ni][+3O]" : "@EP"[{ni}] 
-| "[--][-ne][+3O]" : "@EP"[{ne}] 
+  "[--][-na][+1SG.O]" : "@EP"[{na}] 
+| "[--][-mi][+2SG.O]" : "@EP"[{mi}] 
+| "[--][-mpi][+2SG.O]" : "@EP"[{mpi}] 
+| "[--][-npi][+2SG.O]" : "@EP"[{npi}] 
+| "[--][-ni][+3SG.O]" : "@EP"[{ni}] 
+| "[--][-ne][+3SG.O]" : "@EP"[{ne}] 
 ];
       
 define V=S=APPR [
