@@ -315,7 +315,8 @@ define N=S=DUB [
       
 define N=S=CNTR [
   "[--][-ha][+CNTR]" : [{ha}]
-| "[--][-maha][+CNTR]" : [{maha}]
+# irokamaha / =iroka -maha / =this -cntr / EN: 'instead.this', ES: 'en.cambio.esto'  
+| "[--][-maha][+CNTR][=instead]" : [{maha}]
 ];
       
 define N=S=wide [
