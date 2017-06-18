@@ -1169,8 +1169,8 @@ define NRootPRQin [
 | "[=manihi][NRoot][=bullet.ant (ESP: isula)]" : {manihi}
 | "[=manii][NRoot][=bullet.ant (ESP: isula)]" : {manii}
 ! 
-| "[=maninkari+m.][NRoot][=invisible.person.who.live.in.highlands]" : {maninkari}
-| "[=maninkaro+n.m.][NRoot][=invisible.person.who.live.in.highlands]" : {maninkaro}
+| "[=maninkari+m.][NRoot][=invisible.person.who.live.in.highlands; ancestral.divinity]" : {maninkari}
+| "[=maninkaro+n.m.][NRoot][=invisible.person.who.live.in.highlands; ancestral.divinity]" : {maninkaro}
 ! 
 | "[=maniro+m.][NRoot][=deer]" : {maniro}
 ! 
@@ -2044,7 +2044,7 @@ define NRootPRQin [
 | "[=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui)]" : {shiya} ! @CMP 
 | "[=shaa+n.m.][NRoot][=palm.tree.sp. (ungurahui)]" : {shaa} ! @CMP 
 ! 
-| "[=shiva+m.][NRoot][=anchoveta-fish (ES: anchoveta)]" : {shiva}
+| "[=shiva+m.][NRoot][=anchoveta-fish (ES: anchoveta), small.fish.sp.]" : {shiva}
 ! 
 | "[=shivonso][NRoot][=swallow-tailed.kite (sci.nm.: elanoides.forficatus)]" : {shivonso} ! shihuonso
 ! 
