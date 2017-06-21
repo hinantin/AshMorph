@@ -1199,7 +1199,9 @@ define NRootPRQin [
 ! 
 | "[=mantsaki+inal.][NRoot][=cushma]" : {mantsaki}
 ! 
-| "[=mapi+n.m.+poss@ni.][NRoot][=stone; rock]" : {mapi}
+# nomapikitakero / no- =mapi -ki -t-ak -e -ro / 1sg.a- =stone -cl:small,round -ep -prf -irr -3n.m.o / EN: 'fixing.pebbles/sinker-like_pebbles.in.sth. (i.e.: a.fish_trap)', ES: 'fijar piedrecitas/guijarros en algo (por ejemplo: en la red)'
+| "[=mapi+n.m.+poss@ni.][NRoot][=stone; rock]" : {mapi} ! N@->V 
+| "[=mapiki][NRoot][=pebble]" : {mapiki} 
 ! 
 | "[=mapocha+n.m.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
 ! 
