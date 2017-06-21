@@ -2460,8 +2460,8 @@ define NRootPRQin [
 | "[=tiparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {tiparo}
 | "[=teparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {teparo}
 ! 
-| "[=tiri+m.][NRoot][=tar]" : {tiri}
-| "[=tziri+m.][NRoot][=tar]" : {tziri}
+| "[=tiri+m.+poss@ni.][NRoot][=tar]" : {tiri}
+| "[=tziri+m.+poss@ni.][NRoot][=tar]" : {tziri}
 | "[=tziri+n.m.][NRoot][=tar-producing.tree.sp.]" : {tziri}
 | "[=tsineri][NRoot][=natural.tar]" : {tsineri}
 ! 
