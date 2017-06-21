@@ -1419,8 +1419,8 @@ define NRootPRQin [
 | "[=ne+m.+inal.][NRoot][=louse]" : {ne}
 | "[=ni+m.+inal.][NRoot][=louse]" : {ni}
 ! 
-| "[=neronto+m.][NRoot][=blowfly (ES: moscón, insecto)]" : {neronto}
-| "[=nironto+m.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {nironto}
+| "[=neronto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {neronto}
+| "[=nironto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {nironto}
 ! 
 | "[=nihaa][NRoot][=water, river]" : {nihaa}
 | "[=niha][NRoot][=water, river]" : {niha}
