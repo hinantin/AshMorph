@@ -60,8 +60,10 @@ define VRootPRQin [
 | "[=amitako][VRoot][=to.help]" : {amitako}
 ! 
 | "[=anaako][VRoot][=to.win, to.gain]" : {anaako}
-
+! 
 | "[=anankori][VRoot][=to.cross]" : {anankori}
+! 
+| "[=anashi][VRoot][=to.walk.in.some_location (i.e.: the_woods)]" : {anashi}
 ! 
 | "[=ane][VRoot][=to.live]" : {ane}
 | "[=any][VRoot][=to.live]" : {any}
