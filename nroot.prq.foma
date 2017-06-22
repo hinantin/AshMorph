@@ -2174,6 +2174,7 @@ define NRootPRQin [
 ! 
 | "[=shamitzi][NRoot][=namesake]" : {shamitzi}
 ! 
+| "[=shaa+poss@ni.][NRoot][=anteater]" : {shaa}
 | "[=shani+m.][NRoot][=anteater]" : {shani}
 ! 
 | "[=sharinkaveni][NRoot][=hell]" : {sharinkaveni}
@@ -2482,7 +2483,10 @@ define NRootPRQin [
 | "[=tiya+inal.][NRoot][=excrement, feces]" : {tiya}
 | "[=tia+inal.][NRoot][=excrement, feces]" : {tia}
 ! 
-| "[=tsimi+n.m.+poss@ne.][NRoot][=macaw.and.parrot.clay.lick (qullpa, colpa); clean.water.well.where.animals.go.to.drink]" : {tsimi} 
+| "[=tsimi+n.m.+poss@ne.][NRoot][=macaw.and.parrot.clay.lick (QU: qullpa, ES: colpa); clean.water.well.where.animals.go.to.drink, water.hole]" : {tsimi} 
+! 
+| "[=tsimi+poss@ti.][NRoot][=ant.sp. (ES: pucacura)]" : {tsimi}
+| "[=tsimii+poss@ti.][NRoot][=ant.sp. (ES: pucacura)]" : {tsimii}
 ! 
 | "[=tsimperi][NRoot][=neotropic.cormorant (sci.nm.: phalacrocorax.olivaceus)]" : {tsimperi} 
 ! 
@@ -2496,6 +2500,9 @@ define NRootPRQin [
 ! 
 | "[=tookiti][NRoot][=dove.sp., turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tookiti}
 | "[=tookitzi][NRoot][=dove.sp., turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tookitzi}
+! 
+| "[=tokori+poss@ti.][NRoot][=armadillo.sp.]" : {tokori}
+| "[=tyokori+poss@ti.][NRoot][=armadillo.sp.]" : {tyokori}
 ! 
 | "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)]" : {tomi} ! N@->V 
 | "[=toomi+m.+inal.][NRoot][=son (kin.of.male)]" : {toomi}
