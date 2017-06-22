@@ -1707,10 +1707,10 @@ define NRootPRQin [
 ! 
 | "[=patara][NRoot][=sungrebe (sci.nm.: heliornis.fulica)]" : {patara}
 ! 
-| "[=pavo][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)]" : {pavo}
-| "[=pavoo][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)]" : {pavoo}
-| "[=paro][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paro}
-| "[=paroo][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paroo}
+| "[=pavo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)]" : {pavo}
+| "[=pavoo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)]" : {pavoo}
+| "[=paro+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paro}
+| "[=paroo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paroo}
 | "[=paroni][NRoot][=bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis))]" : {paroni}
 ! 
 | "[=pashii][NRoot][=tropical.tree.sp. (ES: caimito)]" : {pashii}
@@ -2237,7 +2237,8 @@ define NRootPRQin [
 ! 
 | "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shiira}
 ! 
-| "[=shima][NRoot][=fish; fish.sp., boquichico]" : {shima}
+| "[=shima+poss@ni.][NRoot][=fish; fish.sp., boquichico]" : {shima}
+| "[=sima+poss@ni.][NRoot][=fish]" : {sima}
 ! 
 | "[=shimiri+inal.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
 | "[=shimirinchi][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimirinchi} ! misspelled?
