@@ -30,8 +30,8 @@ define V=S=PRNO [
 | "[--][-ro][+3n.m.O]" : [{ro}] 
 | "[--][-vo][+3n.m.O]" : [{vo}] 
 # ----------------------------------
-| "[--][-ai][+1PL.O]" : "@EP"[{ai}] 
-| "[--][-ae][+1PL.O]" : "@EP"[{ae}] 
+| "[--][-ai][+1INCL.PL.O]" : "@EP"[{ai}] 
+| "[--][-ae][+1INCL.PL.O]" : "@EP"[{ae}] 
 ];
       
 define V=S=DIST [
@@ -233,7 +233,7 @@ define V=S=Q [
 ];
       
 define V=S=APPL [
-  "[--][-ako][+APPL]" : "@EP"[{ako}]
+  "[--][-ako][+APPL][=with.reference.to]" : "@EP"[{ako}]
 ];
       
 define V=S=ABS [
