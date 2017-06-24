@@ -441,9 +441,9 @@ define V=S=REV [
 ];
       
 define V=S=DUB [
-  "[--][-ma][+DUB]" : "@EP"[{ma}] 
-| "[--][-mpa][+DUB]" : "@EP"[{mpa}] 
-| "[--][-npa][+DUB]" : "@EP"[{npa}] 
+  "[--][-ma][+DUB]" : [{ma}] 
+| "[--][-mpa][+DUB]" : [{mpa}] 
+| "[--][-npa][+DUB]" : [{npa}] 
 | "[--][-taima][+DUB]" : "@EP"[{taima}] 
 ];
       
