@@ -27,6 +27,7 @@ define V=S=IRR [
 define V=S=PRNO [
   "[--][-ri][+3m.O]" : [{ri}] 
 | "[--][-re][+3m.O]" : [{re}] 
+| "[--][-rii][+3m.O]" : [{rii}] 
 | "[--][-ro][+3n.m.O]" : [{ro}] 
 | "[--][-vo][+3n.m.O]" : [{vo}] 
 # ----------------------------------
@@ -59,7 +60,7 @@ define V=S=PRF [
 # subjunctive clausal enclitic 
 # SUBJUNCT, SUBJ  
 define V=S=OPT [
-  "[--][-ta][+OPT]" : "@EP"[{ta}]
+  "[--][-ta][+OPT_SUBJ]" : "@EP"[{ta}]
 ];
       
 define V=S=PL [
