@@ -200,7 +200,8 @@ define V=S=IMPP [
 ];
       
 define V=S=EXCL [
-  "[--][-ve][+EXCL]" : "@EP"[{ve}]
+  "[--][-ve][+EXCL][=exclaiming,announcing]" : "@EP"[{ve}]
+| "[--][-vi][+EXCL][=exclaiming,announcing]" : "@EP"[{vi}]
 ];
       
 define V=S=STAT [
