@@ -5,11 +5,11 @@ define V=S=EP [
 ];
 
 define V=S=PROG [
-  "[--][-atz][+PROG]" : "@EP"[{atz}] 
-| "[--][-atzi][+PROG]" : "@EP"[{atzi}] 
-| "[--][-atsi][+PROG]" : "@EP"[{atsi}] 
-| "[--][-aty][+PROG]" : "@EP"[{aty}]
-| "[--][-ati][+PROG]" : "@EP"[{ati}]
+  "[--][-atz][ASP][+PROG]" : "@EP"[{atz}] 
+| "[--][-atzi][ASP][+PROG]" : "@EP"[{atzi}] 
+| "[--][-atsi][ASP][+PROG]" : "@EP"[{atsi}] 
+| "[--][-aty][ASP][+PROG]" : "@EP"[{aty}]
+| "[--][-ati][ASP][+PROG]" : "@EP"[{ati}]
 ];
       
 define V=S=IRR [
@@ -45,18 +45,19 @@ define V=S=DIR [
   "[--][-av+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{av}] 
 | "[--][-aav+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{aav}] 
 # ablative case
-| "[--][-an+source+leaving][Adv][+DIR][=upon.leaving]" : "@EP"[{an}] 
+| "[--][-an+source+leaving][Adv][+DIR][=upon.leaving,departing]" : "@EP"[{an}] 
 # allative 'adlativo' case
 | "[--][-ap+goal+arriving][Adv][+DIR][=on.arrival]" : "@EP"[{ap}]
 | "[--][-apa+goal+arriving][Adv][+DIR][=on.arrival]" : "@EP"[{apa}]
 ];
       
 define V=S=PRF [
-  "[--][-ak][+PRF]" : "@EP"[{ak}] 
-| "[--][-aak][+PRF]" : "@EP"[{aak}]
+  "[--][-ak][ASP][+PRF]" : "@EP"[{ak}] 
+| "[--][-aak][ASP][+PRF]" : "@EP"[{aak}] 
 ];
       
-# subjunctive clausal enclitic
+# subjunctive clausal enclitic 
+# SUBJUNCT, SUBJ  
 define V=S=OPT [
   "[--][-ta][+OPT]" : "@EP"[{ta}]
 ];
@@ -390,6 +391,7 @@ define V=S=OFOC [
 !];
       
 define V=S=EMPH [
+# aritya / =ari -tya / =PP -EMPH /  
   "[--][-tya][+EMPH]" : "@EP"[{tya}]
 | "[--][-kya][+EMPH]" : "@EP"[{kya}]
 | "[--][-poo][+EMPH]" : "@EP"[{poo}]
