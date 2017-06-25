@@ -441,10 +441,12 @@ define V=S=REV [
 ];
       
 define V=S=DUB [
-  "[--][-ma][+DUB]" : [{ma}] 
-| "[--][-mpa][+DUB]" : [{mpa}] 
-| "[--][-npa][+DUB]" : [{npa}] 
-| "[--][-taima][+DUB]" : "@EP"[{taima}] 
+  "[--][-ma][+DUB][=maybe]" : [{ma}] 
+| "[--][-mpa][+DUB][=maybe]" : [{mpa}] 
+| "[--][-npa][+DUB][=maybe]" : [{npa}] 
+# irirotaima iriri / =iriro -taima ir- =iri / =he -dub 3m.poss- =father / ES: 'tal vez puede ser el rey/padre [de los loros]' 
+# aisatzitaima / =aisatzi -taima / =also -dub / EN: '' 
+| "[--][-taima][+DUB][=maybe]" : "@EP"[{taima}] 
 ];
       
 # -----------------------------------------------
