@@ -2107,9 +2107,11 @@ define NRootPRQin [
 | "[=soakentzi][NRoot][=chestnut.woodpecker (sci.nm.: celeus.elegans)]" : {soakentzi}
 ! 
 ! flute like instrument
-| "[=sonkare+n.m.+voc.][NRoot][=antara (flute-like.instr.)]" : {sonkare}
-| "[=sonkari+n.m.+voc.][NRoot][=antara (flute-like.instr.)]" : {sonkari}
-| "[=honkari+n.m.+voc.][NRoot][=antara (flute-like.instr.)]" : {honkari}
+| "[=sonkare+n.m.+voc.][NRoot][=antara (flute-like.instr.), panpipes]" : {sonkare}
+| "[=sonkari+n.m.+voc.][NRoot][=antara (flute-like.instr.), panpipes]" : {sonkari}
+| "[=honkari+n.m.+voc.][NRoot][=antara (flute-like.instr.), panpipes]" : {honkari}
+| "[=shonkare+n.m.+voc.][NRoot][=antara (flute-like.instr.), panpipes]" : {shonkare}
+| "[=shonkari+n.m.+voc.][NRoot][=antara (flute-like.instr.), panpipes]" : {shonkari}
 ! 
 | "[=sonkaari+m.][NRoot][=partridge.sp. (poqueadora)]" : {sonkaari}
 | "[=sonkaagari+m.][NRoot][=partridge.sp. (poqueadora)]" : {sonkaagari}
