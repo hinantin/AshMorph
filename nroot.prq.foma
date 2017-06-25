@@ -2307,11 +2307,11 @@ define NRootPRQin [
 | "[=ishinto+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishinto} # nishinto
 | "[=ishintyo+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishintyo} # nishintyo
 ! 
-| "[=shintsipaa+n.m.+poss@re][NRoot][=raft]" : {shintsipaa}
-| "[=shintzipa+n.m.+poss@re][NRoot][=raft]" : {shintzipa}
-| "[=shintzipaa+n.m.+poss@re][NRoot][=raft]" : {shintzipaa}
-| "[=shintipa+n.m.+poss@re][NRoot][=raft]" : {shintipa}
-| "[=shintipaa+n.m.+poss@re][NRoot][=raft]" : {shintipaa}
+| "[=shintsipaa+n.m.+poss@re][NRoot][=raft, balsa]" : {shintsipaa}
+| "[=shintzipa+n.m.+poss@re][NRoot][=raft, balsa]" : {shintzipa}
+| "[=shintzipaa+n.m.+poss@re][NRoot][=raft, balsa]" : {shintzipaa}
+| "[=shintipa+n.m.+poss@re][NRoot][=raft, balsa]" : {shintipa}
+| "[=shintipaa+n.m.+poss@re][NRoot][=raft, balsa]" : {shintipaa}
 ! 
 | "[=shiketzi][NRoot][=armored.catfish.sp. (carachama), fish.sp.]" : {shiketzi}
 ! 
