@@ -69,13 +69,15 @@ define V=S=PL [
 | "[--][-hee][Num][+PL]" : "@EP"[{hee}] 
 # -ite only appears in nominalized verb structures 
 # ---------------------------------------
+# ichiki / i- =chik -i / 3m.s- =to.cut -real / EN: 'he cut'
+# ichikaiyini / i- =chik -aiy -i -ni / 3m.s- =to.cut -pl -real -pl+circumfixing / EN: 'they cut'
 | "[--][-aiy][+PL]" : "@EP"[{aiy}] 
 | "[--][-aey][+PL]" : "@EP"[{aey}] 
 ];
 
 define V=S=PLcircumfixing [
-  "[--][-ni][+PL]" : "@EP"[{ni}]
-| "[--][-ne][+PL]" : "@EP"[{ne}]
+  "[--][-ni+circumfixing][+PL]" : "@EP"[{ni}]
+| "[--][-ne+circumfixing][+PL]" : "@EP"[{ne}]
 ];
 
       
@@ -232,6 +234,7 @@ define V=S=STATPRF [
 ];
       
 define V=S=Q [
+# ampokaika / a- N- =pok -ai -ka / 1pl.s- irr- =to.come -real -q / EN: 'we will come back (when)?'  
   "[--][-ka][+Q]" : "@EP"[{ka}]
 ];
       
@@ -393,6 +396,7 @@ define V=S=OFOC [
 !];
       
 define V=S=EMPH [
+# tya: urgency, impatience, surprise, exasperation 
 # aritya / =ari -tya / =PP -EMPH /  
   "[--][-tya][+EMPH]" : "@EP"[{tya}]
 | "[--][-kya][+EMPH]" : "@EP"[{kya}]

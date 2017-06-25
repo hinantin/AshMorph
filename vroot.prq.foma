@@ -147,6 +147,8 @@ define VRootPRQin [
 | "[=atae][VRoot][=to.go.up; to.climb (ES: trepar)][--][N=][IRR+]" : {antae}
 | "[=atae][VRoot][=to.go.up, to.climb (ES: trepar)]" : {atae}
 | "[=atai][VRoot][=to.go.up, to.climb (ES: trepar)]" : {atai}
+# patiititya / p- =atii -t -i -tya / 2s- =to.climb.up -ep -real -emph  
+| "[=atii][VRoot][=to.go.up, to.climb (ES: trepar)]" : {atii} 
 ! 
 | "[=atohe][VRoot][=to.cough]" : {atohe}
 | "[=tohe][VRoot][=to.cough]" : {tohe}
@@ -1132,7 +1134,10 @@ define VRootPRQin [
 | "[=tsamae][VRoot][=to.cut.grass, to.clean.a.sown.field.with.a.shovel]" : {tsamae}
 | "[=tsamee][VRoot][=to.cultivate, to.clear.a.sown.field]" : {tsamee}
 ! 
-| "[=tsame+standalone][VRoot][=come.on]" : {tsame} ! Interj.
+# tsamitya / =tsami -tya / =come.on -emph / EN: 'let's go now' 
+| "[=tsame+standalone][VRoot][=come.on, let's.go]" : {tsame} ! Interj. 
+| "[=tsami+standalone][VRoot][=come.on, let's.go]" : {tsami} ! Interj. 
+! 
 | "[=omapero+standalone][VRoot][=be.true; it.is.true]" : {omapero} ! Interj.
 ! 
 | "[=tsan][VRoot][=to.hang]" : {tsan}
