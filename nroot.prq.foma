@@ -2339,12 +2339,14 @@ define NRootPRQin [
 | "[=shiringa][NRoot][=rubber.tree; rubber]" : {shiringa}
 | "[=shirinka][NRoot][=rubber]" : {shirinka}
 ! 
-| "[=shitashintsi][NRoot][=mat]" : {shitashintsi}
+# shitashintsi / =shitashi -ntsi / =mat -nposs / EN: 'mat' 
+# ishitashi / i- =shitasi / 3m.poss- =mat /  EN: 'his.mat' 
+| "[=shitashi+n.m.+inal.][NRoot][=mat]" : {shitashi}
 ! 
 | "[=shitamenko+inal.][NRoot][=dais]" : {shitamenko} ! N@->V 
 ! 
 | "[=shiteki+n.m.+inal.][NRoot][=bagasse, dry.pulpy.residue]" : {shiteki}
-| "[=shitiki+n.m.+inal.][NRoot][=bagasse, dry.pulpy.residue]" : {shitiki}
+| "[=shitiki+n.m.+inal.][NRoot][=bagasse, dry.pulpy.residue; waste, trash]" : {shitiki}
 ! 
 | "[=shito][NRoot][=monkey.sp. (capuchín, capuchino; machín.negro)]" : {shito}
 | "[=shitoni][NRoot][=monkey.sp. (capuchín, capuchino; machín.negro)]" : {shitoni}
