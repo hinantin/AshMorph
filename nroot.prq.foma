@@ -739,7 +739,7 @@ define NRootPRQin [
 # Such encounters may produce a fever, headaches, vomiting, diarrhea, or any combination of these.
 | "[=kamarishi][NRoot][=demonic.herb]" : {kamarishi}
 ! 
-| "[=kamantsi+n./m.][NRoot][=flu; snot; having.a.cold]" : {kamantsi} ! +n.m. +m. both genders?
+| "[=kamantsi+n./m.+poss@te.][NRoot][=flu; snot; having.a.cold; phlegm]" : {kamantsi} ! +n.m. +m. both genders?
 ! 
 | "[=kamantzi][NRoot][=black-streaked.puffbird (sci.nm.: malacoptila.fuivogularis)]" : {kamantzi}
 ! 
@@ -747,6 +747,11 @@ define NRootPRQin [
 ! 
 | "[=kamara+color][NRoot][=cinnamon.color]" : {kamara}
 | "[=kamarari+color][NRoot][=brown, beige]" : {kamarari}
+! 
+# kamarankaantsi / =kamarankaa -ntsi / =vomit -nposs / EN: 'vomit', ES: 'vómito'  
+# iyamaranka / i- =kamaranka / 3m.poss- =vomit / EN: 'his.vomit', ES: 'su.vómito'  
+| "[=kamarankaa+inal.][NRoot][=vomit]" : {kamarankaa} 
+| "[=kamaranka+inal.][NRoot][=vomit]" : {kamaranka} 
 ! 
 | "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampi}
 | "[=kamaraNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamaranvi}
