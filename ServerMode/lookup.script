@@ -1,0 +1,11 @@
+main /home/richard/Documents/Runa_Simi/06_Morphology/normalizer/normalizer.fst
+spanish /home/richard/Documents/Runa_Simi/06_Morphology/normalizer/spanish.fst
+main2 /home/richard/Documents/Runa_Simi/06_Morphology/normalizer/normalizer-relax.fst
+spanish2 /home/richard/Documents/Runa_Simi/06_Morphology/normalizer/spanish-relax.fst
+guesser /home/richard/Documents/Runa_Simi/06_Morphology/normalizer/guesser.fst
+
+main
+spanish
+main2
+spanish2
+guesser
