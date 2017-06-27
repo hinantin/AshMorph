@@ -165,6 +165,7 @@ define N=S=CL [
 | "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} 
 | "[--][-chori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {chori} 
 
+# saventarochii / =saventaro -chii / =cat's.claw -cl:thorn / EN: 'cat's.claw_thorn', ES: 'la espina de la planta uña de gato'
 | "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} 
 | "[--][-chii][+CL:thorn,spine][=thorn,spine]" : {chii} 
 
