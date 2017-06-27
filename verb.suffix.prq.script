@@ -293,7 +293,10 @@ define V=S=NMZ [
 | "[--][-ri][+NMZ]" : "@EP"[{ri}] 
 | "[--][-nk][+NMZ]" : "@EP"[{nk}] 
 | "[--][-nka+quality][+NMZ]" : "@EP"[{nka}] 
-| "[--][-enkaa+quality][+NMZ]" : "@EP"[{enka}] 
+| "[--][-enkaa+quality][+NMZ]" : "@EP"[{enkaa}] 
+| "[--][-enka+quality][+NMZ]" : "@EP"[{enka}] 
+| "[--][-inka+quality][+NMZ]" : "@EP"[{inka}] 
+! 
 | "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] 
 | "[--][-mento][NMZ][+CONCR]" : "@EP"[{mento}]
 | "[--][-minto][NMZ][+CONCR]" : "@EP"[{minto}]
@@ -306,9 +309,11 @@ define V=S=ADJ [
 | "[--][-ro+n.m.][NMZ][+ADJ]" : "@EP"[{ro}] 
 | "[--][-vo+n.m.][NMZ][+ADJ]" : "@EP"[{vo}] 
 # ----------------------------------
+! nyaatsatinkaro perota / =nyaatsa -tinkaro =pelota / =to.play -adj =ball / EN: 'female.soccer.player', ES: 'jugadora.de.fútbol' 
 | "[--][-tsinkari+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] 
 | "[--][-tinkari+m.][NMZ][+ADJ]" : "@EP"[{tinkari}] 
 | "[--][-tsinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] 
+| "[--][-tinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tinkaro}] 
 # ---------PARTICIPANT--------------
 | "[--][-ntzi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntzi}] 
 | "[--][-ntsi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntsi}] 
