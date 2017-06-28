@@ -2357,9 +2357,11 @@ define NRootPRQin [
 # ishitashi / i- =shitasi / 3m.poss- =mat /  EN: 'his.mat' 
 | "[=shitashi+n.m.+inal.][NRoot][=mat]" : {shitashi}
 ! 
-| "[=shitatari+m.][NRoot][=cockroach]" : {shitatari}
+| "[=shitatari+m.][NRoot][=cockroach (PT: barata (em.geral))]" : {shitatari}
 ! 
 | "[=shitamenko+inal.][NRoot][=dais]" : {shitamenko} ! N@->V 
+! 
+| "[=shitayẽtsi][NRoot][=mat (PT: esteira)]" : {shitayẽtsi} 
 ! 
 | "[=shiteki+n.m.+inal.][NRoot][=bagasse, dry.pulpy.residue]" : {shiteki}
 | "[=shitiki+n.m.+inal.][NRoot][=bagasse, dry.pulpy.residue; waste, trash]" : {shitiki}
@@ -2727,6 +2729,8 @@ define NRootPRQin [
 | "[=shoonchotzi][NRoot][=variegated.tinamou (crypturellus.variegatus)]" : {shoonchotzi}
 ! 
 | "[=txero][NRoot][=climbing_plant/vine.sp.]" : {txero}
+! 
+| "[=txoshiki+poss@te.][NRoot][=necklace (PT: colar)]" : {txoshiki}
 ! 
 | "[=tya+poss@ni.][NRoot][=fabric]" : {tya}
 ! hen 
