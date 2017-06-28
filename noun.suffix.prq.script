@@ -69,7 +69,9 @@ define N=S=DIM [
 ];
       
 define N=S=LOC [
-# LOC.T 
+# case-marking 
+# LOC (spatial): in, at, on, to, by, and with 
+# LOC.T (temporal.sense): during/over
 # kitaiteriki / =kitaiteri -ki / =day -LOC.T / EN: 'during.the.day', ES: 'durante.el.día' 
   "[--][-ki][Cas][+LOC_LOC.T]" : [{ki}] 
 | "[--][-ke][Cas][+LOC_LOC.T]" : [{ke}]
