@@ -14,7 +14,7 @@ define PrnDemPRQin [
 ! 
 | "[=hiri+m.][PrnDem][=there]" : {hiri}
 | "[=hiri+m.][PrnDem][=there.he.is]" : {hiri}
-| "[=hirika+m.+proximal][PrnDem][=here.it.is]" : {hirika}
+| "[=hirika+m.+proximal][PrnDem][=here.it.is; this]" : {hirika}
 | "[=nirika+m.+proximal][PrnDem][=here.it.is]" : {nirika}
 | "[=hirira+m.+medial][PrnDem][=(over).there (close), near]" : {hirira}
 | "[=nirira+m.+medial][PrnDem][=~]" : {nirira}
@@ -23,7 +23,7 @@ define PrnDemPRQin [
 | "[=hirinto+m.+distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hirinta}
 ! 
 | "[=hiro+n.m.][PrnDem][=here.it.is]" : {hiro}
-| "[=hiroka+n.m.+proximal][PrnDem][=here.it.is]" : {hiroka}
+| "[=hiroka+n.m.+proximal][PrnDem][=here.it.is; this]" : {hiroka}
 | "[=niroka+n.m.+proximal][PrnDem][=~]" : {niroka}
 | "[=hirora+n.m.+medial][PrnDem][=(over).there (close), near]" : {hirora}
 | "[=nirora+n.m.+medial][PrnDem][=~]" : {nirora}
