@@ -570,8 +570,9 @@ define NRootPRQin [
 # ------------------------------------------------------
 | "[=intsipa][NRoot][=ice-cream.bean.tree (guaba, pacae, pacay, QU: paqay, botany.nm.: inga.sp.)]" : {intsipa}
 ! 
-| "[=iraa][NRoot][=blood]" : {iraa}
-| "[=ira][NRoot][=blood]" : {ira}
+# iraantsi / =iraa -ntsi / =blood -nposs / EN: 'blood', ES: 'sangre'  
+| "[=iraa+n.m.+inal.][NRoot][=blood]" : {iraa}
+| "[=ira+n.m.+inal.][NRoot][=blood]" : {ira}
 ! 
 | "[=iraari+n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago)]" : {iraari}
 | "[=irari+n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago)]" : {irari}
