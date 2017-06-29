@@ -186,10 +186,10 @@ define V=S=APPLREAS [
 ];
       
 define V=S=HAB [
-  "[--][-apin][+HAB_CUST]" : "@EP"[{apin}] 
-| "[--][-apiin][+HAB_CUST]" : "@EP"[{apiin}] 
-| "[--][-apinin][+HAB_CUST]" : "@EP"[{apinin}] 
-| "[--][-apini][+HAB_CUST]" : "@EP"[{apini}]
+  "[--][-apin][+HAB_CUST][=always]" : "@EP"[{apin}] 
+| "[--][-apiin][+HAB_CUST][=always]" : "@EP"[{apiin}] 
+| "[--][-apinin][+HAB_CUST][=always]" : "@EP"[{apinin}] 
+| "[--][-apini][+HAB_CUST][=always]" : "@EP"[{apini}]
 ];
       
 define V=S=IMPP [
