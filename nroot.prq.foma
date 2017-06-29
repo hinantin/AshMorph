@@ -343,8 +343,8 @@ define NRootPRQin [
 | "[=etso+m.][NRoot][=swallow.sp. (inhabits.the.rocks); white-collared.swift (streptopfogne.zonaris)]" : {etso}
 | "[=etsoni+m.][NRoot][=swallow.sp. (inhabits.the.rocks)]" : {etsoni}
 ! 
-| "[=etzi+m.][NRoot][=armadillo]" : {etzi}
-| "[=itzi+m.][NRoot][=armadillo]" : {itzi}
+| "[=etzi+m.][NRoot][=armadillo; small.armadillo]" : {etzi}
+| "[=itzi+m.][NRoot][=armadillo; small.armadillo]" : {itzi}
 | "[=etini][NRoot][=armadillo]" : {etini}
 ! 
 | "[=etziki+n.m.][NRoot][=wild.fruit.sp. (ESP: caimitillo)]" : {etziki}
@@ -423,6 +423,9 @@ define NRootPRQin [
 ! 
 | "[=hinya+n.m.+poss@te.][NRoot][=water]" : {hinya}
 | "[=hinyaa+n.m.+poss@te.][NRoot][=water]" : {hinyaa}
+! 
+| "[=hiva+n.m.+inal.][NRoot][=fan]" : {hiva}
+| "[=heva+n.m.+inal.][NRoot][=fan]" : {heva}
 ! 
 | "[=sompo+inal.][NRoot][=tumor; boil]" : {sompo} ! N@->V 
 | "[=hompo+inal.][NRoot][=tumor; boil]" : {hompo}

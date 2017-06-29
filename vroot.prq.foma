@@ -223,9 +223,12 @@ define VRootPRQin [
 ! 
 | "[=heva][VRoot][=to.lead]" : {heva}
 ! 
+# heevankaantsi / =heeva -nk -aantsi / =to.fan -unk -inf / EN: 'to.fan' 
 | "[=hevank][VRoot][=to.fan]" : {hevank}
+| "[=heevank][VRoot][=to.fan]" : {heevank}
 | "[=hivank][VRoot][=to.fan]" : {hivank}
 | "[=eevank][VRoot][=to.fan]" : {eevank}
+| "[=iivank][VRoot][=to.fan]" : {iivank}
 ! 
 | "[=hi][VRoot][=to.call, to.be.called]" : {hi}
 | "[=ii][VRoot][=to.call, to.be.called]" : {ii}
