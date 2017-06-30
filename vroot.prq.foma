@@ -854,10 +854,12 @@ define VRootPRQin [
 | "[=piy][VRoot][=to.return, to.come.back]" : {piy}
 | "[=piy+redup.][VRoot][=to.return, to.come.back]" : {piyapiya}
 ! 
+| "[=piyaa][VRoot][=to.empty]" : {piyaa}
+! 
 | "[=piyatsa][VRoot][=to.disobey; to.disobey.authority]" : {piyatsa}
 ! 
-| "[=piyo][VRoot][=to.pile.sth.up]" : {piyo}
-| "[=pio][VRoot][=to.pile.sth.up]" : {pio}
+| "[=piyo][VRoot][=to.pile.sth.up; to.heap; to.gather.together]" : {piyo}
+| "[=pio][VRoot][=to.pile.sth.up; to.heap; to.gather.together]" : {pio}
 ! 
 # pochokitaantsi / =pochoki -t -aantsi / =to.dream -ep -inf / EN:'dream', ES:'sueño'
 # pochokintsi / =pochoki -ntsi+m. / to.dream -adj / EN:'sleepyhead', ES:'dormilón' 
