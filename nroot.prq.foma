@@ -285,10 +285,12 @@ define NRootPRQin [
 ! 
 | "[=chokiyo+m.][NRoot][=small.parrot.sp.]" : {chokiyo} 
 ! 
+| "[=chopavairotzi+m.][NRoot][=bird.sp. (ES: apodo.de.la.pava)]" : {chopavairotzi} 
+! 
 | "[=choopitzi][NRoot][=dwarf.tyrant-manakin (sci.nm.: tyranneutes.stolzmanni)]" : {choopitzi} 
 ! 
-| "[=chopire+n.m.+inal.][NRoot][=mixed.soup]" : {chopire} 
-| "[=chopiri+n.m.+inal.][NRoot][=mixed.soup]" : {chopiri} 
+| "[=chopire+n.m.+inal.][NRoot][=mixed.soup, soup]" : {chopire} 
+| "[=chopiri+n.m.+inal.][NRoot][=mixed.soup, soup]" : {chopiri} 
 ! 
 | "[=chorina+n.m.][NRoot][=palm.tree.sp.]" : {chorina} 
 | "[=chorena+n.m.][NRoot][=palm.tree.sp.]" : {chorena} 
@@ -2775,6 +2777,8 @@ define NRootPRQin [
 | "[=tyomirintsi+n.m.][NRoot][=roasted.yucca]" : {tyomirintsi}
 ! 
 | "[=tyonkintzi+m.][NRoot][=bee.sp.]" : {tyonkintzi}
+! 
+| "[=tyonkitsiki][NRoot][=small.bean.sp.]" : {tyonkitsiki}
 ! 
 | "[=tsirianti+poss@te.][NRoot][=pineapple]" : {tsirianti}
 | "[=tsireanti+poss@te.][NRoot][=pineapple]" : {tsireanti}
