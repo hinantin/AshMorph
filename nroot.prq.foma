@@ -1967,7 +1967,8 @@ define NRootPRQin [
 | "[=porita][NRoot][=small.hen.sp.]" : {porita}
 ! 
 | "[=poro][NRoot][=face]" : {poro}
-| "[=poo][NRoot][=face]" : {poo}
+# pootsi / =poo -tsi / =face -nposs / EN: 'face', ES: 'cara' 
+| "[=poo+inal.][NRoot][=face]" : {poo}
 | "[=voro][NRoot][=face]" : {voro} ! @VCMP 
 ! 
 | "[=poroki][NRoot][=bunch; plant.sp. (achotillo)]" : {poroki}
