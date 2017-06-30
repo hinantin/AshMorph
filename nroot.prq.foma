@@ -493,7 +493,7 @@ define NRootPRQin [
 | "[=intxatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {intxatonaki} 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
 ! 
-| "[=inchashi+n.m.][NRoot][=herb]" : {inchashi}
+| "[=inchashi+n.m.][NRoot][=herb; shrubs; weeds]" : {inchashi}
 | "[=intxashi][NRoot][=herb.with.therapeutic.properties]" : {intxashi}
 ! 
 | "[=inkani][NRoot][=rain]" : {inkani}
@@ -1044,7 +1044,7 @@ define NRootPRQin [
 ! 
 | "[=konakonatzi][NRoot][=emerald.toucanet (sci.nm.: aulacorhynchus.prasinus)]" : {konakonatzi}
 ! 
-| "[=konyapi][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod]" : {konyapi}
+| "[=konyapi][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod; barbasco, poison.root]" : {konyapi}
 ! 
 | "[=konoya][NRoot][=tortoise, turtle, motelo, turtle, land.turtle.sp.]" : {konoya}
 ! 
@@ -2559,6 +2559,8 @@ define NRootPRQin [
 | "[=toomi+m.+inal.][NRoot][=son (kin.of.male)]" : {toomi}
 | "[=tyomi+m.+inal.][NRoot][=son (kin.of.male)]" : {tyomi}
 | "[=tiomi+m.+inal.][NRoot][=son (kin.of.male)]" : {tiomi}
+! 
+| "[=tyoviri+m.][NRoot][=insect.sp.; worm.sp.]" : {tyoviri}
 ! 
 | "[=tomashiki][NRoot][=psidium (guayaba, botany.nm.: psidium.guajaba)]" : {tomashiki}
 ! 
