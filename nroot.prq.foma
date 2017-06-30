@@ -2619,6 +2619,8 @@ define NRootPRQin [
 | "[=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length)]" : {hantsa} ! N@->V @CMP
 ! 
+| "[=santsari][NRoot][=long (in.length), tall]" : {santsari} 
+! 
 | "[=tsavi+inal.][NRoot][=vagina]" : {tsavi}
 ! 
 | "[=tsamiri+m.][NRoot][=curassow.sp. (ESP: paujil); razor-billed.curassow (sci.nm.: crax.mitu)]" : {tsamiri}
