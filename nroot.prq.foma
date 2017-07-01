@@ -268,6 +268,10 @@ define NRootPRQin [
 ! 
 | "[=choncho+n.m.][NRoot][=dull.arrow, unsharpened.arrow (used.to.kill.birds)]" : {choncho}
 ! 
+# the.vaporadora/chonkaniro.steeps.a.specific.plant.in.boiling.water.; the.patient.stands.over.the.water.and.inhales.the.vapors.  
+# the.vaporadora/chonkaniro.will.then.read.the.leaves.to.determine.whether.the.healing.has.been.successful.
+| "[=chonkaniro+n.m.][NRoot][=vaporadora; a.healer.who.uses.vapor.to.treat.ailments/illnesses]" : {chonkaniro}
+! 
 | "[=choochootzi+m.][NRoot][=cricket.sp.]" : {choochootzi}
 ! 
 | "[=choovero][NRoot][=starred.wood-quail (sci.nm.: odonthophorus.stellatus)]" : {choovero}
@@ -325,6 +329,9 @@ define NRootPRQin [
 | "[=eentsi+n./m.+poss@te.][NRoot][=child]" : {eentsi} ! N@->V
 | "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
 | "[=entsi+n./m.+poss@te.][NRoot][=child]" : {entsi} ! N@->V
+! 
+| "[=iinyeeni][NRoot][=sister.in.law (kin.of.a.male)]" : {iinyeeni}
+| "[=inyeni][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeni}
 ! 
 | "[=emoki][NRoot][=edible.worm.sp. (suri, it.eats.palm.trees)]" : {emoki}
 | "[=emooki][NRoot][=edible.worm.sp. (suri, it.eats.palm.trees)]" : {emooki}
@@ -715,6 +722,8 @@ define NRootPRQin [
 | "[=iyenti+m.][NRoot][=brother (kin.of.a.male)]" : {iyenti}
 | "[=iyeki+m.][NRoot][=brother (kin.of.a.male)]" : {iyeki}
 ! 
+| "[=iyeyi][NRoot][=brother]" : {iyeyi}
+! 
 | "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
 | "[=irentsi+m.][NRoot][=brother (kin.of.a.male, male.ego), male.who.belongs.to.the.same.ego's.generation]" : {irentsi}
 | "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
@@ -1052,7 +1061,7 @@ define NRootPRQin [
 ! 
 | "[=konyapi][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod; barbasco, poison.root]" : {konyapi}
 ! 
-| "[=konoya][NRoot][=tortoise, turtle, motelo, turtle, land.turtle.sp.]" : {konoya}
+| "[=konoya][NRoot][=tortoise, turtle, motelo, turtle, land.turtle.sp. (PT: jabuti)]" : {konoya}
 ! 
 | "[=komaro+n.m.+inal.][NRoot][=paddle, oar]" : {komaro}
 | "[=komavo+n.m.+inal.][NRoot][=paddle, oar]" : {komavo}
@@ -1633,7 +1642,7 @@ define NRootPRQin [
 | "[=iya+m.][NRoot][=poor.thing]" : {iya}
 ! 
 | "[=oye+m.][NRoot][=rainbow]" : {oye}
-| "[=oyi+m.][NRoot][=rainbow]" : {oyi}
+| "[=oyi+m.][NRoot][=rainbow (PT: arco-íris)]" : {oyi}
 ! 
 | "[=pamari+n.m.][NRoot][=fire]" : {pamari}
 | "[=paamari+n.m.][NRoot][=fire]" : {paamari}
@@ -2712,8 +2721,8 @@ define NRootPRQin [
 | "[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (shapaja, shebón)]" : {tsiyaro}
 | "[=tsiyavo+n.m.][NRoot][=palm.tree.sp. (shapaja, shebón)]" : {tsiyavo}
 ! 
-| "[=tsiyeri+m.][NRoot][=medium-size.monkey.sp. (huasa)]" : {tsiyeri}
-| "[=tsiyiri+m.][NRoot][=medium-size.monkey.sp. (huasa)]" : {tsiyiri}
+| "[=tsiyeri+m.][NRoot][=medium-size.monkey.sp. (huasa, PT: macaco.de.cheiro)]" : {tsiyeri}
+| "[=tsiyiri+m.][NRoot][=medium-size.monkey.sp. (huasa, PT: macaco.de.cheiro)]" : {tsiyiri}
 ! 
 | "[=tsiyontzi+m.][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiyontzi}
 ! 
@@ -2837,6 +2846,9 @@ define NRootPRQin [
 | "[=viane+inal.][NRoot][=bow, weapon.for.shooting.arrows]" : {viane}
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
+! 
+| "[=vevito][NRoot][=person's.name]" : {vevito}
+! 
 | "[=virakocha][NRoot][=outsider, white.person]" : {virakocha}
 ! 
 | "[=virotzi][NRoot][=bright-rumped.attila (sci.nm.: attila.spadiceus)]" : {virotzi}
