@@ -1655,7 +1655,7 @@ define NRootPRQin [
 ! 
 | "[=paamanto+n.m.][NRoot][=burned.wood; burning]" : {paamanto}
 ! 
-| "[=paampatzi][NRoot][=bird.species]" : {paampatzi}
+| "[=paampatzi][NRoot][=bird.sp.]" : {paampatzi}
 ! 
 | "[=pachaka][NRoot][=pumpkin (botany.nm.: lagenaria.sp.)]" : {pachaka}
 ! 
@@ -2701,7 +2701,7 @@ define NRootPRQin [
 | "[=tsirikanaa][NRoot][=chili.pepper, pepper]" : {tsirikanaa}
 | "[=tsitikana][NRoot][=chili.pepper, pepper]" : {tsitikana}
 ! 
-| "[=tsiroti][NRoot][=bird.species]" : {tsiroti}
+| "[=tsiroti][NRoot][=bird.sp.]" : {tsiroti}
 | "[=tsirotzi][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela)]" : {tsirotzi}
 ! 
 | "[=tsiteniri][NRoot][=night]" : {tsiteniri}
@@ -2817,6 +2817,7 @@ define NRootPRQin [
 ! pineapple
 | "[=tzivana+n.m.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tzivana}
 | "[=tivana+n.m.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tivana}
+| "[=tsivana+n.m.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tsivana}
 ! salt
 | "[=tzivi+n.m.+poss@ni.][NRoot][=salt]" : {tzivi}
 | "[=tivi+n.m.+poss@ni.][NRoot][=salt]" : {tivi}
