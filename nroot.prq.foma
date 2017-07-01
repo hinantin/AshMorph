@@ -1860,9 +1860,10 @@ define NRootPRQin [
 ! 
 | "[=Pito][NRoot][=person's.name]" : {pito}
 ! 
-| "[=pito+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {pito}
-| "[=pitoni+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {pitoni}
-| "[=pitonii+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {ipitonii}
+| "[=pito+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui/muzmuque)]" : {pito}
+| "[=pitoni+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui/muzmuque)]" : {pitoni}
+| "[=pityoni+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui/muzmuque)]" : {pityoni}
+| "[=pitonii+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui/muzmuque)]" : {ipitonii}
 | "[=marampito][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {marampito}
 ! 
 | "[=pito+n.m.+inal.+poss@ni.][NRoot][=canoe]" : {pito}
