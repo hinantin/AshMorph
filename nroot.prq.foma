@@ -270,7 +270,7 @@ define NRootPRQin [
 ! 
 # the.vaporadora/chonkaniro.steeps.a.specific.plant.in.boiling.water.; the.patient.stands.over.the.water.and.inhales.the.vapors.  
 # the.vaporadora/chonkaniro.will.then.read.the.leaves.to.determine.whether.the.healing.has.been.successful.
-| "[=chonkaniro+n.m.][NRoot][=vaporadora; a.healer.who.uses.vapor.to.treat.ailments/illnesses (ES: vaporizadora)]" : {chonkaniro}
+| "[=chonkaniro+n.m.+healer][NRoot][=vaporadora; a.healer.who.uses.vapor.to.treat.ailments/illnesses (ES: vaporizadora)]" : {chonkaniro}
 ! 
 | "[=choochootzi+m.][NRoot][=cricket.sp.]" : {choochootzi}
 ! 
@@ -508,6 +508,9 @@ define NRootPRQin [
 ! 
 | "[=inchashi+n.m.][NRoot][=herb; shrubs; weeds]" : {inchashi}
 | "[=intxashi][NRoot][=herb.with.therapeutic.properties]" : {intxashi}
+! 
+# ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
+| "[=inchashinari+healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
 ! 
 | "[=inkani][NRoot][=rain]" : {inkani}
 ! 
@@ -2259,11 +2262,11 @@ define NRootPRQin [
 ! 
 | "[=shereentzi+m.][NRoot][=bird.sp.]" : {shereentzi}
 ! 
-| "[=sheripyari+m.][NRoot][=shaman]" : {sheripyari}
-| "[=sheripiare+m.][NRoot][=shaman]" : {sheripiare}
-| "[=sheripiari+m.][NRoot][=shaman]" : {sheripiari}
-| "[=sheripiyari+m.][NRoot][=shaman]" : {sheripiyari}
-| "[=seripigari+m.][NRoot][=shaman]" : {seripigari}
+| "[=sheripyari+m.+healer][NRoot][=shaman]" : {sheripyari}
+| "[=sheripiare+m.+healer][NRoot][=shaman]" : {sheripiare}
+| "[=sheripiari+m.+healer][NRoot][=shaman]" : {sheripiari}
+| "[=sheripiyari+m.+healer][NRoot][=shaman]" : {sheripiyari}
+| "[=seripigari+m.+healer][NRoot][=shaman]" : {seripigari}
 ! 
 | "[=sherivetzi][NRoot][=gree-and-rufous.kingfisher (sci.nm.: chloroceryle.inda)]" : {sherivetzi}
 ! 
