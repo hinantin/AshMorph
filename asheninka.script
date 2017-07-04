@@ -165,8 +165,9 @@
       define PWLenitionRule1 [ "@LEN@"p (->) "@LEN@"v || [{o}] _ [{i}|{a}|{o}] ]; 
                                                                             # nopito (in our lexicon) -> no@LEN@pito -> no@LEN@vito -> novito 
                                                                             # nopochokine (in our lexicon) -> no@LEN@pochokine -> no@LEN@bochokine -> nobochokine 
-      define PWLenitionRule2 [ "@LEN@"p (->) "@LEN@"v || [{i}] _ [{i}|{a}] ]; 
+      define PWLenitionRule2 [ "@LEN@"p (->) "@LEN@"v || [{i}] _ [{i}|{a}|{o}] ]; 
                                                                             # ipanko (in our lexicon) -> i@LEN@panko -> i@LEN@vanko -> ivanko 
+                                                                            # pipompooti (in our lexicon) -> pi@LEN@pompooti -> pi@LEN@vompooti -> pivompooti 
       define PWLenitionRule3 [ "@LEN@"p -> "@LEN@"v || [{a}] _ [{i}|{o}] ]; 
                                                                             # apinkatsarite (in our lexicon) -> a@LEN@pinkatsarite -> a@LEN@vinkatsarite -> avinkatsarite 
                                                                             # vatsapori (in our lexicon) -> vatsa@LEN@pori -> vatsa@LEN@vori -> vatsavori
