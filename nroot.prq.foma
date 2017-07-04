@@ -378,8 +378,8 @@ define NRootPRQin [
 | "[=hamani][NRoot][=rodent.sp., paca (picuro, majás, majas, zamaño)]" : {hamani}
 | "[=hamaani][NRoot][=rodent.sp., paca (picuro, majás, majas, zamaño)]" : {hamaani}
 ! 
-| "[=hampovatsa+poss@te.][NRoot][=mud (ES: barro)]" : {hampovatsa}
-| "[=sampovatsa+poss@te.][NRoot][=mud (ES: barro)]" : {sampovatsa}
+| "[=hampovatsa+poss@te.][NRoot][=mud (ES: barro); clay]" : {hampovatsa}
+| "[=sampovatsa+poss@te.][NRoot][=mud (ES: barro); clay]" : {sampovatsa}
 ! 
 | "[=haipempe][NRoot][=white-plumed.antbird (sci.nm.: pithys.albifrons)]" : {haipempe}
 ! 
@@ -1258,7 +1258,7 @@ define NRootPRQin [
 ! 
 # Snails
 | "[=mapoto][NRoot][=medium-size.snail]" : {mapoto}
-| "[=sankiro][NRoot][=snail]" : {sankiro}
+| "[=sankiro][NRoot][=snail; small-size.snail]" : {sankiro}
 | "[=tsoiroki][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=mamporo][NRoot][=big-size.snail]" : {mamporo}
 | "[=pomporo][NRoot][=big-size.snail]" : {pomporo}
@@ -2185,6 +2185,10 @@ define NRootPRQin [
 ! 
 | "[=sontookinti][NRoot][=cotera.snake]" : {sontookinti}
 ! 
+| "[=samaka][NRoot][=driftwood]" : {samaka}
+! 
+| "[=sampaa+n.m.][NRoot][=balsa; tree.sp. (ES: sachahuasca)]" : {sampaa}
+! 
 | "[=sampaki][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea)]" : {sampaki}
 | "[=sampakitzi][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea)]" : {sampakitzi}
 ! 
@@ -2203,6 +2207,8 @@ define NRootPRQin [
 | "[=santonka+n.m.][NRoot][=rubber.tree]" : {santonka}
 ! 
 | "[=santani+m.][NRoot][=bat-like.bird.sp.; owl.sp.that.lives.in.hollow-stones]" : {santani}
+! 
+| "[=sankatari+inal.][NRoot][=armpit]" : {sankatari}
 ! 
 | "[=sankatzi+m.][NRoot][=red-necked.gallinacean.bird.sp. (pucacunga, from.Quechua.pukakunka), spix's.guan (sci.nm.: penelope.jacquacu)]" : {sankatzi}
 | "[=sankati+m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (pucacunga, from.Quechua.pukakunka), spix's.guan (sci.nm.: penelope.jacquacu)]" : {sankati}
