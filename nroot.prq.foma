@@ -84,7 +84,8 @@ define NRootPRQin [
 | "[=amempori+m.][NRoot][=vulture, condor; king.vulture (sarcoramphus.papa)]" : {amempori}
 | "[=amimpori+m.][NRoot][=vulture, condor; king.vulture (sarcoramphus.papa)]" : {amimpori}
 ! 
-| "[=ana][NRoot][=genipap, huito, jagua (botany.id.: genipa.americana)]" : {ana}
+# nanani / n- =ana -ni / 1sg.poss- =black.dye -nposs / EN: 'my.black.dye'  
+| "[=ana+poss@ni.][NRoot][=genipap, huito, jagua (botany.id.: genipa.americana); black.dye]" : {ana}
 ! 
 | "[=ananta][NRoot][=orchid.sp. (ESP: orquídea)]" : {ananta}
 ! 
@@ -666,7 +667,7 @@ define NRootPRQin [
 | "[=sari+m.][NRoot][=grandson]" : {sari}
 # -------------------------------------------------------------------------------------------------
 ! 
-| "[=sari+m.][NRoot][=scarlet.macaw (sci.nm.: ara.macaw)]" : {sari}
+| "[=sari+m.+poss@ni.][NRoot][=scarlet.macaw (sci.nm.: ara.macaw)]" : {sari}
 ! 
 | "[=savavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savavo}
 | "[=savaro+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savaro}
