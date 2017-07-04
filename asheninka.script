@@ -171,8 +171,9 @@
       define PWLenitionRule3 [ "@LEN@"p -> "@LEN@"v || [{a}] _ [{i}|{o}] ]; 
                                                                             # apinkatsarite (in our lexicon) -> a@LEN@pinkatsarite -> a@LEN@vinkatsarite -> avinkatsarite 
                                                                             # vatsapori (in our lexicon) -> vatsa@LEN@pori -> vatsa@LEN@vori -> vatsavori
-      define KJLenitionRule1 [ "@LEN@"k (->) "@LEN@"y || _ [{o}|{a}|{e}] ]; 
+      define KJLenitionRule1 [ "@LEN@"k (->) "@LEN@"y || _ [{o}|{a}|{e}|{i}] ]; 
                                                                             # optional rule: noyokani, ikentsike  
+                                                                            # nokimini (in our lexicon) -> no@LEN@kimini -> no@LEN@yimini -> noyimini
       define KLenitionRule2 [ "@LEN@"k (->) "@LEN@" || [{o}] _ [{i}|{e}|{a}|{o}] ]; 
                                                                             # nokitzi (in our lexicon) -> no@LEN@kitzi -> no@LEN@itzi -> noitzi
                                                                             # nokanire (in our lexicon) -> no@LEN@kanire -> no@LEN@anire -> noanire
