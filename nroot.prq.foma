@@ -1576,6 +1576,8 @@ define NRootPRQin [
 ! 
 | "[=ponyoiro+m.][NRoot][=animal.sp.]" : {ponyoiro}
 ! 
+| "[=opaayaa+n.m.][NRoot][=beach; stony/rocky.ground]" : {opaayaa}
+! 
 | "[=opempe+m.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opempe}
 | "[=opimpi+m.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opimpi}
 ! 
@@ -2946,6 +2948,8 @@ define NRootPRQin [
 ! 
 | "[=poto+n.m.][NRoot][=ojé, tree.sp.]" : {poto}
 | "[=potoo+n.m.][NRoot][=ojé, tree.sp.]" : {potoo}
+! 
+| "[=potooki][NRoot][=medicinal.nut]" : {potooki}
 ! 
 | "[=kavana][NRoot][=catahua, tree.sp.]" : {kavana}
 ];
