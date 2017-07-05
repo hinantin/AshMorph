@@ -719,6 +719,9 @@ define NRootPRQin [
 | "[=iitsi+n.m.+inal.][NRoot][=foot]" : {iitsi}
 | "[=iti+n.m.+inal.][NRoot][=foot]" : {iti}
 ! 
+| "[=iposhi][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {iposhi}
+| "[=aposhi][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {aposhi}
+! 
 | "[=ititsapaki][NRoot][=toe]" : {ititsapaki}
 ! 
 | "[=iraka][NRoot][=ripe]" : {iraka}
@@ -1259,7 +1262,7 @@ define NRootPRQin [
 | "[=mapi+n.m.+poss@ni.][NRoot][=stone; rock]" : {mapi} ! N@->V 
 | "[=mapiki][NRoot][=pebble]" : {mapiki} 
 ! 
-| "[=mapocha+n.m.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
+| "[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
 ! 
 | "[=masheri][NRoot][=ant.sp. (QU: kuki, ES: coqui, hormiga)]" : {masheri} ! cricket.sp. 
 ! 
