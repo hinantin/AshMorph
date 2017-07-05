@@ -124,12 +124,6 @@ define N=S=CL [
 | "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} ! @CL 
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
 
-# Boliviahatzi / =Bolivia -hatzi / =Bolivia -cl:provenance / EN: 'Bolivian', ES: 'boliviano'  
-# kishiihatzi / =kishii -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
-# kishiisatzi / =kishii -satzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
-| "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} 
-| "[--][-hatzi][+CL:provenance][=human provenance]" : {hatzi} 
-
 | "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} 
 | "[--][-na][+CL:long.hollow][=long,hollow; round,hollow]" : {na} 
 ! 
@@ -184,10 +178,20 @@ define N=S=CL [
 ! 
 | "[--][-keni][+CL:worm][=worm.sp.]" : {keni} 
 #-----------------------------------------------
+# Provenance 
+#-----------------------------------------------
+! katonkosatzi / =katonko -satzi / =up.river -cl:provenance / EN: 'a.dweller.of.the.upriver.area' 
+! katonkosato / =katonko -sato / =up.river -cl:provenance / EN: 'a.female.dweller.from.upriver' 
+
+! Boliviahatzi / =Bolivia -hatzi / =Bolivia -cl:provenance / EN: 'Bolivian', ES: 'boliviano'  
+! kishiihatzi / =kishii -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
+! kishiisatzi / =kishii -satzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
+| "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} 
+| "[--][-hatzi][+CL:provenance][=human provenance]" : {hatzi} 
 ! tsinanepaye saikayitatsiri antamisatoki / =tsinane -paye =saik -a -yi -t -atsi -ri =antami -sato -ki / 
-! =woman -pl =to.be -ep -dist -ep -stat -rel =forest -cl:deriving.location.names -loc / EN: 'female.inhabitants.from.the.jungle'  
-| "[--][-ato][+CL:deriving.location.names][=deriving.location.names]" : {ato} 
-| "[--][-sato][+CL:deriving.location.names][=deriving.location.names]" : {sato} 
+! =woman -pl =to.be -ep -dist -ep -stat -rel =forest -cl:deriving.location.names -loc / EN: 'female.inhabitant.from.the.forest'  
+| "[--][-ato+n.m.][+CL:deriving.location.names][=deriving.location.names]" : {ato} 
+| "[--][-sato+n.m.][+CL:deriving.location.names][=deriving.location.names, provenance]" : {sato} 
 #-----------------------------------------------
 | "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} 
 | "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} 
