@@ -351,8 +351,8 @@ define NRootPRQin [
 | "[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {eereki}
 | "[=iiriki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {iiriki}
 ! 
-| "[=eereshi][NRoot][=tender; new; newly.sprouted.leaves, new.leaf]" : {eereshi}
-| "[=iirishi][NRoot][=tender; new; newly.sprouted.leaves, new.leaf]" : {iirishi}
+| "[=eereshi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new.leaf]" : {eereshi}
+| "[=iirishi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new.leaf]" : {iirishi}
 ! 
 | "[=eroti+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (sci.nm.: amazona.emazonica)]" : {eroti}
 | "[=erotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (sci.nm.: amazona.emazonica)]" : {erotzi}
@@ -1532,6 +1532,8 @@ define NRootPRQin [
 | "[=ohaaviki][NRoot][=floor, first.floor]" : {ohaaviki}
 | "[=osaviki][NRoot][=floor, first.floor]" : {osaviki}
 | "[=osaaviki][NRoot][=floor, first.floor]" : {osaaviki}
+! 
+| "[=oirontsi+poss@ti.][NRoot][=crab.sp. (ES: especie.de.cangrejo)]" : {oirontsi}
 ! 
 | "[=oisha][NRoot][=lamb, sheep]" : {oisha}
 ! 
@@ -2825,7 +2827,7 @@ define NRootPRQin [
 ! hen 
 | "[=tyaapa+n.m.][NRoot][=hen; chicken]" : {tyaapa}
 | "[=tyapa+n.m.][NRoot][=hen; chicken]" : {tyapa}
-| "[=atyaapa+n.m.][NRoot][=hen]" : {atyaapa}
+| "[=atyaapa+n.m.+poss@ti.][NRoot][=hen]" : {atyaapa}
 | "[=teapa+n.m.][NRoot][=hen]" : {teapa}
 ! rooster 
 | "[=tyoopi+m.][NRoot][=rooster]" : {tyoopi}
@@ -2949,7 +2951,7 @@ define NRootPRQin [
 | "[=yoosara+m.][NRoot][=fly.sp.]" : {yoosara}
 ! 
 | "[=yopo+n.m.][NRoot][=tree.sp., mahogany (ESP: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {yopo}
-| "[=aavana+n.m.][NRoot][=tree.sp., mahogany (ESP: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {aavana}
+| "[=aavana+n.m.+poss@ti.][NRoot][=tree.sp., mahogany (ESP: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {aavana}
 ! word set: wisdom
 | "[=yorenka+inal.][NRoot][=wisdom, knowledge]" : {yorenka}
 | "[=yorêka+inal.][NRoot][=wisdom, knowledge]" : {yorêka}
