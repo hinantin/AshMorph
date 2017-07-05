@@ -841,8 +841,8 @@ define NRootPRQin [
 | "[=kaarashi+n.m.][NRoot][=trash, garbage]" : {kaarashi}
 | "[=kaharashi+n.m.][NRoot][=trash, garbage]" : {kaharashi}
 ! 
-| "[=kapeshi+m.][NRoot][=anteater-like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho)]" : {kapeshi}
-| "[=kapishi+m.][NRoot][=anteater-like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho)]" : {kapishi}
+| "[=kapeshi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho)]" : {kapeshi}
+| "[=kapishi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho)]" : {kapishi}
 ! 
 | "[=karava][NRoot][=river.frog.sp.]" : {karava}
 | "[=kaava][NRoot][=river.frog.sp.]" : {kaava}
@@ -886,7 +886,7 @@ define NRootPRQin [
 ! 
 | "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
 ! 
-| "[=kemari][NRoot][=South.American.tapir (ESP: sachavaca), pig-like.animal (anta)]" : {kemari}
+| "[=kemari+poss@ti.][NRoot][=South.American.tapir (ESP: sachavaca), pig-like.animal (anta)]" : {kemari}
 ! 
 | "[=kemi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.); squash]" : {kemi}
 | "[=kimi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.); squash]" : {kimi}
@@ -954,8 +954,8 @@ define NRootPRQin [
 | "[=kentsi+n.m.+inal.][NRoot][=neck, nape]" : {kentsi}
 | "[=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi}
 ! 
-| "[=kintsori][NRoot][=partridge.sp. (ESP: perdiz)]" : {kintsori}
-| "[=kentsori][NRoot][=great.tinamou (sci.nm.: tinamus.major)]" : {kentsori}
+| "[=kintsori+poss@ti.][NRoot][=partridge.sp. (ESP: perdiz); blue.quail]" : {kintsori}
+| "[=kentsori+poss@ti.][NRoot][=great.tinamou (sci.nm.: tinamus.major)]" : {kentsori}
 ! 
 | "[=kepya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepya}
 | "[=kepea+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepea}
