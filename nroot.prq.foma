@@ -2852,9 +2852,9 @@ define NRootPRQin [
 | "[=tinko+n.m.+inal.][NRoot][=tail]" : {tinko}
 | "[=tzinko+n.m.+inal.][NRoot][=tail]" : {tzinko}
 ! pineapple
-| "[=tzivana+n.m.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tzivana}
-| "[=tivana+n.m.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tivana}
-| "[=tsivana+n.m.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tsivana}
+| "[=tzivana+n.m.+poss@ti.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tzivana}
+| "[=tivana+n.m.+poss@ti.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tivana}
+| "[=tsivana+n.m.+poss@ti.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tsivana}
 ! salt
 | "[=tzivi+n.m.+poss@ni.][NRoot][=salt]" : {tzivi}
 | "[=tivi+n.m.+poss@ni.][NRoot][=salt]" : {tivi}
