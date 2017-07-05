@@ -123,7 +123,12 @@ define N=S=CL [
 | "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} ! @CL 
 | "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} ! @CL 
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
+
+# Boliviahatzi / =Bolivia -hatzi / =Bolivia -cl:provenance / EN: 'Bolivian', ES: 'boliviano'  
+# kishiijatzi / =kishii -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
 | "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} 
+| "[--][-hatzi][+CL:provenance][=human provenance]" : {hatzi} 
+
 | "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} 
 | "[--][-na][+CL:long.hollow][=long,hollow; round,hollow]" : {na} 
 ! 
