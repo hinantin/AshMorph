@@ -125,7 +125,8 @@ define N=S=CL [
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
 
 # Boliviahatzi / =Bolivia -hatzi / =Bolivia -cl:provenance / EN: 'Bolivian', ES: 'boliviano'  
-# kishiijatzi / =kishii -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
+# kishiihatzi / =kishii -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
+# kishiisatzi / =kishii -satzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
 | "[--][-satzi][+CL:provenance][=human provenance]" : {satzi} 
 | "[--][-hatzi][+CL:provenance][=human provenance]" : {hatzi} 
 
