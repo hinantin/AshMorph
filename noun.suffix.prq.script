@@ -182,17 +182,18 @@ define N=S=CL [
 #-----------------------------------------------
 ! katonkosatzi / =katonko -satzi / =up.river -cl:provenance / EN: 'a.dweller.of.the.upriver.area' 
 ! katonkosato / =katonko -sato / =up.river -cl:provenance / EN: 'a.female.dweller.from.upriver' 
+! parenisatzi / =pareni -satzi / =Perené.river -cl:provenance / EN: 'Perené_river.people'
 
 ! Boliviahatzi / =Bolivia -hatzi / =Bolivia -cl:provenance / EN: 'Bolivian', ES: 'boliviano'  
 ! kishiihatzi / =kishii -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
 ! kishihatzi / =kishi -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
 ! kishiisatzi / =kishii -satzi / =grassland -cl:provenance / EN: 'Pajonal Campa', ES: 'Pajonalino'  
-| "[--][-satzi+m.][+CL:provenance][=human.provenance]" : {satzi} 
-| "[--][-hatzi+m.][+CL:provenance][=human.provenance]" : {hatzi} 
+| "[--][-satzi+m.][NS][+CL:provenance][=human.provenance]" : {satzi} 
+| "[--][-hatzi+m.][NS][+CL:provenance][=human.provenance]" : {hatzi} 
 ! tsinanepaye saikayitatsiri antamisatoki / =tsinane -paye =saik -a -yi -t -atsi -ri =antami -sato -ki / 
 ! =woman -pl =to.be -ep -dist -ep -stat -rel =forest -cl:deriving.location.names -loc / EN: 'female.inhabitant.from.the.forest'  
-| "[--][-ato+n.m.][+CL:deriving.location.names][=deriving.location.names]" : {ato} 
-| "[--][-sato+n.m.][+CL:deriving.location.names][=deriving.location.names, human.provenance]" : {sato} 
+| "[--][-ato+n.m.][NS][+CL:deriving.location.names][=deriving.location.names]" : {ato} 
+| "[--][-sato+n.m.][NS][+CL:deriving.location.names][=deriving.location.names, human.provenance]" : {sato} 
 #-----------------------------------------------
 | "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} 
 | "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} 
