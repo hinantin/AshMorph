@@ -88,7 +88,7 @@ define NRootPRQin [
 # nanani / n- =ana -ni / 1sg.poss- =black.dye -nposs / EN: 'my.black.dye'  
 | "[=ana+poss@ni.][NRoot][=genipap, huito, jagua (botany.id.: genipa.americana); black.dye]" : {ana}
 ! 
-| "[=ananta][NRoot][=orchid.sp. (ESP: orquídea)]" : {ananta}
+| "[=ananta+poss@ti.][NRoot][=orchid.sp. (ESP: orquídea)]" : {ananta}
 ! 
 | "[=ani+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {ani}
 | "[=anii+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
@@ -2917,7 +2917,8 @@ define NRootPRQin [
 | "[=yaane+n.m.+inal.][NRoot][=bow, ballista]" : {yaane}
 | "[=yaani+n.m.+inal.][NRoot][=bow, ballista]" : {yaani}
 ! 
-| "[=yarato][NRoot][=bee.sp.]" : {yarato}
+| "[=yarato+poss@ti.][NRoot][=bee.sp.; black.bee.sp.]" : {yarato}
+| "[=yaarato+poss@ti.][NRoot][=bee.sp.; black.bee.sp.]" : {yaarato}
 ! 
 | "[=yari+m.][NRoot][=brother (kin.of.a.female)]" : {yari}
 | "[=yaari+m.][NRoot][=brother (kin.of.a.female)]" : {yaari}
