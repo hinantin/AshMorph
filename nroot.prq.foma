@@ -2707,8 +2707,8 @@ define NRootPRQin [
 ! 
 | "[=tsima][NRoot][=wood]" : {tsima} 
 ! bird, little bird 
-| "[=tsimiri][NRoot][=bird, little.bird]" : {tsimiri}
-| "[=tsimeri][NRoot][=bird, little.bird]" : {tsimeri}
+| "[=tsimiri+poss@ti.][NRoot][=bird, little.bird]" : {tsimiri}
+| "[=tsimeri+poss@ti.][NRoot][=bird, little.bird]" : {tsimeri}
 ! female, woman
 | "[=tsinani+n.m.][NRoot][=female, woman; young.girl]" : {tsinani} ! N@->V
 | "[=tsinane+n.m.][NRoot][=female, woman; young.girl]" : {tsinane} ! N@->V
