@@ -1039,7 +1039,8 @@ define NRootPRQin [
 | "[=kitsaa+n.m.+inal.][NRoot][=dress, cushma, cloth]" : {kitsaa} 
 | "[=ketsa+n.m.+inal.][NRoot][=dress, cushma, cloth]" : {ketsa} ! o-etsa-re-ki 
 ! 
-| "[=kitsapi+m.][NRoot][=needle]" : {kitsapi}
+| "[=kitsapi+m.+poss@ti.][NRoot][=needle]" : {kitsapi}
+! 
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
 | "[=kitsoki][NRoot][=egg]" : {kitsoki} ! N@->V
 | "[=kitzi+n.m.+inal.][NRoot][=leg]" : {kitzi}
