@@ -1,17 +1,17 @@
 ! alienable possession?
 define N=S=poss [
-  "[--][-te][Gen][+aln.poss]" : {te} 
-| "[--][-ti][Gen][+aln.poss]" : {ti} 
+  "[--][-te][Gen][+aln.poss.]" : {te} 
+| "[--][-ti][Gen][+aln.poss.]" : {ti} 
 ! 
-| "[--][-ni][Gen][+aln.poss]" : {ni} 
-| "[--][-ne][Gen][+aln.poss]" : {ne} 
+| "[--][-ni][Gen][+aln.poss.]" : {ni} 
+| "[--][-ne][Gen][+aln.poss.]" : {ne} 
 ! 
-| "[--][-ri][Gen][+aln.poss]" : {ri} 
-| "[--][-re][Gen][+aln.poss]" : {re}
+| "[--][-ri][Gen][+aln.poss.]" : {ri} 
+| "[--][-re][Gen][+aln.poss.]" : {re}
 ! 
 # tsitsi / =tsitsi / =firewood / EN: 'firewood', ES: 'leña'
 # otsima / =tsi -ma / =firewood -aln.poss. / EN: 'her.firewood', ES: 'su.leña'
-| "[--][-ma][Gen][+aln.poss]" : {ma}
+| "[--][-ma][Gen][+aln.poss.]" : {ma}
 ];
       
 ! DEM.NOM: Nominal demonstrative
