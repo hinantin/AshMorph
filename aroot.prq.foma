@@ -60,6 +60,9 @@ define ARootPRQin [
 ! 
 | "[=pochari][AdjRoot][=sweet]" : {pochari}
 ! 
-| "[=tashirentsi][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashirentsi} 
-| "[=tashirintsi][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashirintsi} 
+# kemi tashirentsi / =kemi =tashi -re -ntsi / =pumpkin =to.roast.with.coal -nmz -nposs / EN: 'roasted.pumpkin'
+# shima tashirentsi / =shima =tashi -re -ntsi / =fish =to.roast.with.coal -nmz -nposs / EN: 'roasted.fish'
+# kaniri tashirentsi / =kaniri =tashi -re -ntsi / =yucca =to.roast.with.coal -nmz -nposs / EN: 'roasted.manioc'
+| "[=tashire+n./m.+inal.][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashire} 
+| "[=tashiri+n./m.+inal.][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashiri} 
 ];
