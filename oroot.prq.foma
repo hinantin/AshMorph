@@ -78,9 +78,9 @@ define ORootPRQin [
 | "[=tekatsi][OtherRoot][=EXIST]" : {tekatsi}
 | "[=teekatsi][OtherRoot][=EXIST]" : {teekatsi}
 ! 
-| "[=tema][OtherRoot][=because; maybe]" : {tema}
-| "[=tempa][OtherRoot][=because; maybe]" : {tempa}
-| "[=tima][OtherRoot][=because; maybe]" : {tima}
+| "[=tema][OtherRoot][=because; maybe (ES: como, ya.que, puesto.que)]" : {tema}
+| "[=tempa][OtherRoot][=because; maybe (ES: como, ya.que, puesto.que)]" : {tempa}
+| "[=tima][OtherRoot][=because; maybe (ES: como, ya.que, puesto.que)]" : {tima}
 ! 
 | "[=terika][OtherRoot][=or]" : {terika}
 | "[=terika][OtherRoot][=maybe]" : {terika}
