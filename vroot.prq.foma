@@ -211,7 +211,12 @@ define VRootPRQin [
 | "[=eeni][VRoot][=to.have]" : {eeni}
 | "[=eni][VRoot][=to.have]" : {eni}
 ! 
-| "[=ha][VRoot][=to.go]" : {ha}
+# --------------------------------------------
+| "[=ha][VRoot][=to.go]" : {ha} 
+! 
+| "[=iyaa][VRoot][=to.go]" : {iyaa} 
+| "[=oyaa][VRoot][=to.go]" : {oyaa} ! to be revised 
+# --------------------------------------------
 ! 
 | "[=haiki][VRoot][=to.fill.sth.]" : {haiki}
 | "[=haa][VRoot][=to.fill.sth.]" : {haa}
@@ -266,9 +271,6 @@ define VRootPRQin [
 | "[=iraak][VRoot][=to.be.ripe (fruit), to.ripen]" : {iraak}
 ! 
 | "[=itamatzi][VRoot][=to.identify.as.a.witch]" : {itamatzi}
-! 
-| "[=iyaa][VRoot][=to.go]" : {iyaa}
-| "[=oyaa][VRoot][=to.go]" : {oyaa} ! to be revised 
 ! 
 | "[=ivi][VRoot][=to.ensnare, to.entrap]" : {ivi}
 ! 
