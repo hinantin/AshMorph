@@ -50,6 +50,7 @@ define AdvRootPRQin [
 | "[=ovakerari][AdvRoot][=new, recent]" : {ovakerari}
 | "[=ovakerani][AdvRoot][=recently]" : {ovakerani}
 ! 
+# kitziroini / =kitzi -roini / =first -only / EN: 'first' 
 | "[=kitziroini][AdvRoot][=first]" : {kitziroini}
 ! 
 | "[=pairani][AdvRoot][=since; before; long.ago]" : {pairani}
