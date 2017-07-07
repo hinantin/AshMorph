@@ -10,6 +10,7 @@ define NegPRQin [
 | "[=airo][Neg][=NEG.IRR][--][-rika][+COND]" : {airorika}
 | "[=eero][Neg][=NEG.IRR][--][-rika][+COND]" : {eerorika}
 | "[=eiro][Neg][=NEG.IRR][--][-rika][+COND]" : {eirorika}
+| "[=iiro][Neg][=NEG.IRR][--][-rika][+COND]" : {iirorika}
 | "[=ero][Neg][=NEG.IRR][--][-rika][+COND]" : {erorika}
 ! 
 | "[=airo][Neg][=NEG.IRR][--][-ta][+OPT]" : {airota}

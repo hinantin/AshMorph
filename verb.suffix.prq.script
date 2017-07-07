@@ -551,9 +551,10 @@ define V=S=neck [
 ];
       
 # subordinator 
-define V=S=SUB [
-  "[--][-ra+temporal][+SUB][=where]" : "@EP"[{ra}]
-];
+define V=S=SUB [ 
+  "[--][-ra+temporal][+SUB][=when]" : "@EP"[{ra}]
+| "[--][-ra+location][+SUB][=where (place)]" : "@EP"[{ra}]
+]; 
       
 define V=S=NEG [
   "[--][-tsi+future][+NEG]" : "@EP"[{tsi}] 

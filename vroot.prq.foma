@@ -800,8 +800,10 @@ define VRootPRQin [
 | "[=pas][VRoot][=to.crush]" : {pas}
 | "[=pasa][VRoot][=to.punish; to.hit]" : {pasa}
 ! 
+| "[=pashik][VRoot][=blanket]" : {pashik}
+! 
 | "[=pashika][VRoot][=to.cover]" : [{pashika}|{pashka}]
-| "[=pashikaro][VRoot][=blanket]" : {pashikaro}
+! 
 | "[=pashivent][VRoot][=to.embarrass, to.be.embarrassed]" : {pashivent}
 ! 
 | "[=patsa][VRoot][=to.have.a.skin.sore, to.have.a.wound; to.rot]" : {patsa}
