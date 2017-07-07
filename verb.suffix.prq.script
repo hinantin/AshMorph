@@ -550,11 +550,16 @@ define V=S=neck [
   "[--][-kintsi+neck]" : "@EP"[{kintsi}]
 ];
       
-# subordinator 
+# ---------------------------------------
+#            Subordinator 
+# ---------------------------------------
 define V=S=SUB [ 
+# pikantatziira / pi- =kant -atzi -i -ra / 2s- =to.be -prog -real -sub / EN: 'when.you.were.saying'   
   "[--][-ra+temporal][+SUB][=when]" : "@EP"[{ra}]
+# 
 | "[--][-ra+location][+SUB][=where (place)]" : "@EP"[{ra}]
 ]; 
+# ---------------------------------------
       
 define V=S=NEG [
   "[--][-tsi+future][+NEG]" : "@EP"[{tsi}] 
