@@ -192,8 +192,12 @@ define V=S=HAB [
 | "[--][-apini][+HAB_CUST][=always]" : "@EP"[{apini}]
 ];
       
+# --------------------------------------
+#                Passive 
+# --------------------------------------
 define V=S=IMPP [
-# 
+# ichikaitakiro / i- =chik -ai -t -ak -i -ro / 3m.a- =to.cut -imp.p -ep -prf -real -3n.m.o / EN: 'someone.cut.it; it.was.cut' 
+# Only with 3rd person ???  
   "[--][-ai][+IMP.P]" : "@EP"[{ai}] 
 | "[--][-ae][+IMP.P]" : "@EP"[{ae}] ! yet to be tested 
 | "[--][-ee][+IMP.P]" : "@EP"[{ee}] ! yet to be tested
