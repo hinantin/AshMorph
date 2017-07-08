@@ -124,7 +124,7 @@ define S [
  (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=ADV) | 
  (V=S=PRF) (V=S=IRR) | 
  (V=S=REGR) (V=S=IRR) (V=S=O) (V=S=PRNO) | 
- (V=S=DUR) (V=S=PRF) (V=S=REAL) | 
+ (V=S=DUR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
  (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REAL) (V=S=AUG) | 
  (V=S=CAUSSOC) (V=S=NMZ) (V=S=REAL) (V=S=REL) (V=S=Q) | 
