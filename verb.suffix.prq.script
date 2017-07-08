@@ -196,14 +196,15 @@ define V=S=HAB [
 #                Passive 
 # --------------------------------------
 define V=S=IMPP [
-# ichikaitakiro / i- =chik -ai -t -ak -i -ro / 3m.a- =to.cut -imp.p -ep -prf -real -3n.m.o / EN: 'someone.cut.it; it.was.cut' 
+# ichikaitakiro / i- =chik -ai -t -ak -i -ro / 3m.a- =to.cut -imp.p -ep -prf -real -3n.m.o / EN: 'someone.cut.it; it.was.cut'  
+# hiitaitziri / h- =ii -t -ai -tz -i -ri / 3m.a- =to.be.called -ep -imp.p -ep -real -3m.o / EN: 'that.which.is.named'  
 # Only with 3rd person ???  
   "[--][-ai][+IMP.P]" : "@EP"[{ai}] 
 | "[--][-ae][+IMP.P]" : "@EP"[{ae}] ! yet to be tested 
 | "[--][-ee][+IMP.P]" : "@EP"[{ee}] ! yet to be tested
 # 
-| "[--][-t][+IMP.P]" : "@EP"[{t}]
-| "[--][-tz][+IMP.P]" : "@EP"[{tz}]
+| "[--][-t][+IMP.P]" : "@EP"[{t}] 
+| "[--][-tz][+IMP.P]" : "@EP"[{tz}] 
 ];
       
 define V=S=EXCL [

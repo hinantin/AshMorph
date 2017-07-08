@@ -237,8 +237,8 @@ define VRootPRQin [
 | "[=eevank][VRoot][=to.fan]" : {eevank}
 | "[=iivank][VRoot][=to.fan]" : {iivank}
 ! 
-| "[=hi][VRoot][=to.call, to.be.called]" : {hi}
-| "[=ii][VRoot][=to.call, to.be.called]" : {ii}
+| "[=hi][VRoot][=to.call, to.be.called, to.be.named]" : {hi}
+| "[=ii][VRoot][=to.call, to.be.called, to.be.named]" : {ii}
 ! 
 | "[=hinoki][VRoot][=up]" : {hinoki}
 ! 
