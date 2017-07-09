@@ -249,11 +249,11 @@
                                                    | [(V=S=APPLBEN)] 
                                                    | [(V=S=APPLSEP)] # aapitsataantsi / =a-apitsa-t-aantsi ES: 'sustracción', EN: 'rest'
                                                    | [(V=S=DLMT)] 
-                                                   | [(V=S=RCP)] # n=ashi-t-ab-ak-aantsi 'to.get.divorced'
+                                                   | [(V=S=RCP)] # nashitavakaantsi / =nashi -t- aV -ak -aantsi / =to.separate -ep -rcp -caus.soc -inf / EN: 'to.get.divorced' 
                                                    | [(V=S=REV)] # =pai-ry-aantsi 'to.say.someone's.name'
                                                    | [(V=S=FRUS)] # 
                                                   ] 
-                                                  (V=S=PRF) 
+                                                  (V=S=CAUSSOC) 
                                                   [V=S=NMZ|V=S=ADJ] (NRootCmpPRQ) 
                                                   [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; #.o. VowelLoss ;
       
