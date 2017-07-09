@@ -68,18 +68,34 @@ define NumeralPRQin [
 # Numerals 
 # ---------------------------------------
 
-# 0 
-# 1 
-# 2 
+# 0 / tekatsi / ...
+# 1 / pani / =pani / =one / EN: 'one', ES: 'uno' 
+#   / aparoni / 
+# 2 / pite / =pite / =two / EN: 'two', ES: 'dos' 
+#   / apite / =apite / =two / EN: 'two', ES: 'dos' 
 # 3 / maava / =maava / =three / EN: 'three', ES: 'tres' 
-# 4 
+#   / mava [..] 
+# 4 / otsi / =otsi / =four / EN: 'four', ES: 'cuatro' 
 # 5 / koni / =koni / =five / EN: 'five', ES: 'cinco'  
 # 6 / iko / =iko / =six / EN: 'six', ES: 'seis' 
 # 7 / tson / =tson / =seven / EN: 'seven', ES: 'siete' 
 # 8 / soti / =soti / =eight / EN: 'eight', ES: 'ocho' 
+#   / tsoti [..] 
 # 9 / tin / =tin / =nine / EN: 'nine', ES: 'nueve' 
 # 10 / tsa / =tsa / =ten / EN: 'ten', ES: 'diez' 
+
+# 11 / tsa pani / =tsa =pani / =ten =one / EN: 'eleven', ES: 'once' 
+# 12 / tsa pite / =tsa =pite / =ten =two / EN: 'twelve', ES: 'doce' 
+# 13 / tsa mava / =tsa =mava / =ten =three / EN: 'thirteen', ES: 'trece' 
+# 14 / tsa otsi / =tsa =otsi / =ten =four / EN: 'fourteen', ES: 'catorce' 
+# 15 / tsa koni / =tsa =koni / =ten =five / EN: 'fifteen', ES: 'quince' 
+# 16 / tsa iko / =tsa =iko / =ten =six / EN: 'sixteen', ES: 'dieciseis' 
+# 17 / tsa tson / =tsa =tson / =ten =seven / EN: 'seventeen', ES: 'diecisiete' 
+# 18 / tsa tsoti / =tsa =tsoti / =ten =eight / EN: 'eighteen', ES: 'dieciocho'  
+# 19 / tsa tin / =tsa =tin / =ten =nine / EN: 'nineteen', ES: 'diecinueve'  
+
 # 20 / pite tsa / =pite =tsa / =two =ten / EN: 'twenty', ES: 'veinte' 
+#    / pitetsa [..] 
 # 30 / mava tsa / =mava =tsa / =three =ten / EN: 'thirty', ES: 'treinta' 
 # 40 / otsi tsa / =four =tsa / =four =ten / EN: 'forty', ES: 'cuarenta'  
 # 50 / koni tsa / =koni =tsa / =five =ten / EN: 'fifty, ES: 'cincuenta' correct???
