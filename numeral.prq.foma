@@ -31,6 +31,7 @@ define NumeralPRQin [
 | "[=ocho][NumeralPRQ][=eight]" : {ocho}
 | "[=pasini][NumeralPRQ][=eight]" : {pasini}
 | "[=tsoti][NumeralPRQ][=eight]" : {tsoti}
+| "[=soti][NumeralPRQ][=eight]" : {soti}
 ! 
 | "[=pashini][NumeralPRQ][=nine]" : {pashini}
 | "[=yaatapakirori][NumeralPRQ][=nine]" : {yaatapakirori}
@@ -62,4 +63,27 @@ define NumeralPRQin [
 | "[=osheki][NumeralPRQ][=a.hundred]" : {osheki}
 | "[=oshikiriri_oshikini][NumeralPRQ][=a.hundred]" : {oshikiriri_oshikini}
 ];
+
+# ---------------------------------------
+# Numerals 
+# ---------------------------------------
+
+# 0 
+# 1 
+# 2 
+# 3 / maava / =maava / =three / EN: 'three', ES: 'tres' 
+# 4 
+# 5 
+# 6 / iko / =iko / =six / EN: 'six', ES: 'seis' 
+# 7 / tson / =tson / =seven / EN: 'seven', ES: 'siete' 
+# 8 / soti / =soti / =eight / EN: 'eight', ES: 'ocho' 
+# 9 
+# 10 / tsa / =tsa / =ten / EN: 'ten', ES: 'diez' 
+# 20 / pite tsa / =pite =tsa / =two =ten / EN: 'twenty', ES: 'veinte' 
+# 30 / mava tsa / =mava =tsa / =three =ten / EN: 'thirty', ES: 'treinta' 
+# 40 
+# 50 / iko tsa / =iko =tsa / EN: 'fifty, ES: 'cincuenta' correct???
+# 60 / tsa iko / =tsa =iko / =ten =six / EN: 'sixty, ES: 'sesenta' 
+# 70 / tsa tson / =tsa =tson / =ten =seven / EN: 'seventy, ES: 'setenta' 
+
 
