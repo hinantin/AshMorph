@@ -1,12 +1,19 @@
 define NumeralPRQin [
+# 1 
   "[=aparo][NumeralPRQ][=one]" : {aparo}
 | "[=aparoni][NumeralPRQ][=one]" : {aparoni} ! N@->V
 | "[=apani][NumeralPRQ][=one]" : {apani} 
+| "[=pani][NumeralPRQ][=one]" : {pani} 
 ! 
+# 2 
 | "[=apite][NumeralPRQ][=two]" : {apite} ! N@->V
+| "[=pite][NumeralPRQ][=two]" : {pite} 
 ! 
+# 3 
 | "[=mava][NumeralPRQ][=three]" : {mava} ! N@->V
+| "[=maava][NumeralPRQ][=three]" : {maava}
 ! 
+# 4 
 | "[=cuatro][NumeralPRQ][=four]" : {cuatro}
 | "[=apiteta][NumeralPRQ][=four]" : {apiteta}
 | "[=apitevakaye][NumeralPRQ][=four]" : {apitevakaye}
@@ -14,54 +21,73 @@ define NumeralPRQin [
 | "[=otsi][NumeralPRQ][=four]" : {otsi}
 | "[=oyatanakerori][NumeralPRQ][=four]" : {oyatanakerori} ! source:IIAP 
 ! 
+# 5 
 | "[=apavakoro][NumeralPRQ][=five]" : {apavakoro} ! source:IIAP
 | "[=apapokoroni][NumeralPRQ][=five]" : {apapokoroni}
 | "[=apapakoroni][NumeralPRQ][=five]" : {apapakoroni}
 | "[=koni][NumeralPRQ][=five]" : {koni}
 ! 
+# 6 
 | "[=oihatzirori][NumeralPRQ][=six]" : {oihatzirori}
 | "[=shintapakerori][NumeralPRQ][=six]" : {shintapakerori}
 | "[=iko][NumeralPRQ][=six]" : {iko}
 ! 
+# 7 
 | "[=siete][NumeralPRQ][=seven]" : {siete}
 | "[=yaantsiri][NumeralPRQ][=seven]" : {yaantsiri}
 | "[=shirinkapaichari][NumeralPRQ][=seven]" : {shirinkapaichari}
 | "[=tson][NumeralPRQ][=seven]" : {tson}
 ! 
+# 8 
 | "[=ocho][NumeralPRQ][=eight]" : {ocho}
 | "[=pasini][NumeralPRQ][=eight]" : {pasini}
 | "[=tsoti][NumeralPRQ][=eight]" : {tsoti}
 | "[=soti][NumeralPRQ][=eight]" : {soti}
 ! 
+# 9 
 | "[=pashini][NumeralPRQ][=nine]" : {pashini}
 | "[=yaatapakirori][NumeralPRQ][=nine]" : {yaatapakirori}
 | "[=tin][NumeralPRQ][=nine]" : {tin}
 ! 
+# 10 
 | "[=apitevakaye][NumeralPRQ][=ten]" : {apitevakaye}
 | "[=oshikiri][NumeralPRQ][=ten]" : {oshikiri}
 | "[=tsa][NumeralPRQ][=ten]" : {tsa}
 ! 
+# 18 
 | "[=dieciocho][NumeralPRQ][=eighteen]" : {dieciocho}
 ! 
+# 20 
 | "[=apiteniri][NumeralPRQ][=twenty]" : {apiteniri}
 | "[=oshikiriri][NumeralPRQ][=twenty]" : {oshikiriri}
 ! 
+# 30 
 | "[=mavaniri][NumeralPRQ][=thirty]" : {mavaniri}
 ! 
+# 40 
 | "[=apitetaniri][NumeralPRQ][=forty]" : {apitetaniri}
 ! 
+# 50 
 | "[=apapokoronini][NumeralPRQ][=fifty]" : {apapokoronini}
 ! 
+# 60 
 | "[=oihatzironiri][NumeralPRQ][=sixty]" : {oihatzironiri}
 ! 
+# 70 
 | "[=yantsiniri][NumeralPRQ][=seventy]" : {yantsiniri}
 ! 
+# 80 
 | "[=ochoniri][NumeralPRQ][=eighty]" : {ochoniri}
 ! 
+# 90 
 | "[=pashiniri][NumeralPRQ][=ninety]" : {pashiniri}
 ! 
+# 100 
 | "[=osheki][NumeralPRQ][=a.hundred]" : {osheki}
+| "[=sheki][NumeralPRQ][=a.hundred]" : {sheki}
 | "[=oshikiriri_oshikini][NumeralPRQ][=a.hundred]" : {oshikiriri_oshikini}
+# 1000 
+| "[=irinka][NumeralPRQ][=a.thousand]" : {irinka}
 ];
 
 # ---------------------------------------
