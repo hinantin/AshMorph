@@ -159,9 +159,12 @@ define N=S=CL [
 | "[--][-niro][+CL:simulative][=simulative, like.sth. (moraniro: like.a.mule)]" : {niro} 
 ! 
 | "[--][-kona][+CL:curved][=curved]" : {kona} 
+
+# shito shimaempeki / =shito =shima -empeki / =monkey =fish -cl:small.branch / EN: 'fisher.black.monkey', ES: 'el.mono.negro.pescador' 
 | "[--][-empeki][+CL:small.branch][=small.branch]" : {empeki} 
 | "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} 
 | "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} 
+
 | "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} 
 
 | "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} 
