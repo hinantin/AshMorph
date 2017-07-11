@@ -150,7 +150,10 @@ define N=S=CL [
 ! 
 | "[--][-menta][+CL:flat,triangular][=flat,triangular]" : {menta} # inchamenta 'hiding place in the form of a triangle, formed by the tree roots'
 | "[--][-nari][+CL:animal][=animal]" : {nari} # covitzinari 
+! 
+# ashiromoko / =acero -moko / =steel -cl:spherical,small / EN: 'steel.ladle', ES: 'cucharón.de.fierro' 
 | "[--][-moko][+CL:spherical,small][=spherical,small]" : {moko} 
+! 
 # inchaponkitzikinta / =incha -ponkitzi -ki -nta / =plant -cl:stump -loc -dem / EN: 'in.that.tree_stump.over.there', ES: 'allá.en.ese.tronco' 
 | "[--][-ponkitzi][+CL:ground-level.part.of.tree.trunk][=ground-level.part.of.tree.trunk; stump]" : {ponkitzi} 
 ! 
