@@ -211,7 +211,7 @@ define IdeoPRQin [
 ! 
 | "[=shero][IdeoPRQ][=slipping.and.falling.on.the_surface]" : {shero} 
 ! 
-| "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V
+| "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
 | "[=tapo+s.redup.word][IdeoPRQ][=leaping.like.a_frog]" : {tapo}
 ! 
 | "[=vanik][IdeoPRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
