@@ -94,8 +94,10 @@ define N=S=CL [
 | "[--][-chari][=dark.water]" : {chari} 
 ! 
 # nihaatsapiaki / =nihaa -tsapia -ki / =river -cl:bank -loc / ES: 'en.la.orilla.del.río', EN: 'in.the.river.bank'  
-| "[--][-tsapya][=bank, side.of.river]" : {tsapya} 
-| "[--][-tsapia][=bank, side.of.river]" : {tsapia} 
+# konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
+| "[--][-tsapya][+CL:side.of.river][=bank, side.of.river]" : {tsapya} 
+| "[--][-tsapiya][+CL:side.of.river][=bank, side.of.river]" : {tsapiya} 
+| "[--][-tsapia][+CL:side.of.river][=bank, side.of.river]" : {tsapia} 
 ! Size related classifier 
 | "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} 
 ! ?
