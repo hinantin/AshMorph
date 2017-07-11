@@ -1006,8 +1006,10 @@ define NRootPRQin [
 | "[=kisaakiri][NRoot][=black.person]" : {kisaakiri}
 | "[=kishi+inal.][NRoot][=hair]" : {kishi}
 ! 
-| "[=kishii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type]" : {kishii}
-| "[=keshii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type]" : {keshii}
+| "[=kishii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {kishii}
+| "[=kishi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {kishi}
+| "[=keshii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {keshii}
+| "[=keshi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {keshi}
 ! 
 | "[=kishiri+m.][NRoot][=comb]" : {kishiri}
 | "[=kishire+m.][NRoot][=comb]" : {kishire}
