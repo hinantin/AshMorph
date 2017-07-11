@@ -2093,7 +2093,7 @@ define NRootPRQin [
 | "[=samanto][NRoot][=UNKNOWN.WORD]" : {samanto}
 ! 
 # kanirisama / =kaniri =sama / =yucca =medicinal.plant / EN: 'yucca-like.medicinal.plant.sp. (it.has.fattening.properties)', ES: 'especie.de.planta.medicinal.similar.a.la.yuca'  
-# 
+# tsirompisama / =tsirompi =sama / =tamshi,climbing_plant =medicinal.plant / EN: 'medicinal.plant.sp.', ES: 'especie.de.planta.medicinal' 
 | "[=sama+n.m.+inal.][NRoot][=inanimate.body; medicinal.plant]" : {sama} ! @CMP
 ! 
 | "[=sameti+m.][NRoot][=godfather]" : {sameti}
@@ -2517,7 +2517,8 @@ define NRootPRQin [
 | "[=taapii+inal.][NRoot][=back; bottom]" : {taapii}
 | "[=taapiiki+inal.][NRoot][=back]" : {taapiiki}
 ! 
-| "[=tapitsa][NRoot][=vine.sp.]" : {tapitsa}
+| "[=tapitsa][NRoot][=vine.sp. (ES: tamshi, tamishi)]" : {tapitsa} ! tamashi???
+| "[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi)]" : {tapetsa} ! tamashi???
 ! 
 | "[=taaroma][NRoot][=Tarma]" : {taaroma}
 ! 
@@ -2759,7 +2760,8 @@ define NRootPRQin [
 | "[=tsirikanaa][NRoot][=chili.pepper, pepper]" : {tsirikanaa}
 | "[=tsitikana][NRoot][=chili.pepper, pepper]" : {tsitikana}
 ! 
-| "[=tsirompi][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, especie.de.planta.trepadora.no.maderable)]" : {tsirompi}
+| "[=tsirompi][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, tamishi, especie.de.planta.trepadora.no.maderable); vine.sp. (ES: especie.de.bejuco)]" : {tsirompi}
+| "[=tsirompitsa][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, tamishi, especie.de.planta.trepadora.no.maderable); vine.sp. (ES: especie.de.bejuco)]" : {tsirompitsa}
 ! 
 | "[=tsiroti][NRoot][=bird.sp.]" : {tsiroti}
 | "[=tsirotzi][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela)]" : {tsirotzi}
