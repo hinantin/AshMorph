@@ -2092,6 +2092,8 @@ define NRootPRQin [
 ! 
 | "[=samanto][NRoot][=UNKNOWN.WORD]" : {samanto}
 ! 
+# kanirisama / =kaniri =sama / =yucca =medicinal.plant / EN: 'yucca-like.medicinal.plant.sp. (it.has.fattening.properties)', ES: 'especie.de.planta.medicinal.similar.a.la.yuca'  
+# 
 | "[=sama+n.m.+inal.][NRoot][=inanimate.body; medicinal.plant]" : {sama} ! @CMP
 ! 
 | "[=sameti+m.][NRoot][=godfather]" : {sameti}
@@ -2756,6 +2758,8 @@ define NRootPRQin [
 | "[=tsirigana][NRoot][=chili.pepper, pepper]" : {tsirigana}
 | "[=tsirikanaa][NRoot][=chili.pepper, pepper]" : {tsirikanaa}
 | "[=tsitikana][NRoot][=chili.pepper, pepper]" : {tsitikana}
+! 
+| "[=tsirompi][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, especie.de.planta.trepadora.no.maderable)]" : {tsirompi}
 ! 
 | "[=tsiroti][NRoot][=bird.sp.]" : {tsiroti}
 | "[=tsirotzi][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela)]" : {tsirotzi}
