@@ -496,7 +496,8 @@ define VRootPRQin [
 | "[=kompi][VRoot][=to.ignore, to.be.difficult; to.make.a.mistake]" : {kompi}
 ! 
 # ikonaveta / i- =kona -ve -t -a / 3m.s- =to.fish.with.barbasco -frus -ep -real / EN: 'he.almost.fished.with.barbasco', ES: 'mientras.pescaba'  
-| "[=kona][VRoot][=to.fish.with.barbasco]" : {kona} 
+| "[=kona][VRoot][=to.fish.with.barbasco/poison]" : {kona} 
+| "[=konaa][VRoot][=to.fish.with.barbasco/poison]" : {konaa} 
 ! word set:
 | "[=koraki][VRoot][=to.approach, to.get.closer, to.come.near]" : {koraki}
 | "[=korake][VRoot][=to.approach, to.get.closer, to.come.near]" : {korake}
