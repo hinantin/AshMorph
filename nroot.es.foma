@@ -22,7 +22,8 @@ define NRootESin [
 | "[=ejercicio][NRootEs][=exercise]" : {ejercicio}
 | "[=escuela][NRootEs][=school]" : {escuela}
 | "[=escuela][NRootEs][=school]" : {eskuera}
-| "[=ishikoira][NRootEs][=school]" : {ishikoira}
+| "[=escuela][NRootEs][=school]" : {ishikoira}
+| "[=español][NRootEs][=Spaniard]" : {español}
 | "[=estado][NRootEs][=state]" : {estado}
 ! 
 | "[=hermana][NRootEs][=sister]" : {hermana}
