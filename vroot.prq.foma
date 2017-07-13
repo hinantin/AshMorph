@@ -1268,8 +1268,9 @@ define VRootPRQin [
 | "[=tyank][VRoot][=to.send]" : {tyank}
 | "[=tiank][VRoot][=to.send]" : {tiank}
 | "[=tiyank][VRoot][=to.send]" : {tiyank}
-!
+! 
 | "[=tyerov][VRoot][=to.kneel.down]" : {tyerov}
+| "[=tiyerov][VRoot][=to.kneel.down]" : {tiyerov}
 ! 
 | "[=tyoo][VRoot][=to.honk]" : {tyoo}
 | "[=tio][VRoot][=to.honk]" : {tio}
