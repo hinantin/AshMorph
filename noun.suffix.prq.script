@@ -114,6 +114,9 @@ define N=S=CL [
 | "[--][-teaki][+CL:flower][=flower]" : {teaki} 
 | "[--][-tyaaki][+CL:flower][=flower]" : {tyaaki} 
 
+| "[--][-penki][+CL:flower][=flower]" : {penki} 
+| "[--][-pinki][+CL:flower][=flower]" : {pinki} 
+
 | "[--][-teya][+CL:flower][=flower]" : {teya} 
 | "[--][-tiya][+CL:flower][=flower]" : {tiya} 
 
