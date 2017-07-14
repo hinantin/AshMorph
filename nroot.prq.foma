@@ -1481,11 +1481,12 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------
 | "[=nampi+n.m.+inal.][NRoot][=village, place, country]" : {nampi}
-| "[=nampiki][NRoot][=(ES: aldea)]" : {nampiki}
-| "[=nampitsini][NRoot][=(ES: caserio)]" : {nampitsini}
-| "[=nampitsira][NRoot][=(ES: pueblo)]" : {nampitsira}
-| "[=nampitsite][NRoot][=(ES: nación)]" : {nampitsite}
-| "[=nampitzite][NRoot][=(ES: nación)]" : {nampitzite}
+| "[=nampiki][NRoot][=small.village (ES: aldea)]" : {nampiki}
+| "[=nampitsini][NRoot][=hamlet (small.human.settlement, ES: caserio)]" : {nampitsini}
+| "[=nampitsira][NRoot][=(small).town (ES: pueblo)]" : {nampitsira}
+| "[=nampitsite][NRoot][=nation (ES: nación)]" : {nampitsite}
+| "[=nampitzite][NRoot][=nation (ES: nación)]" : {nampitzite}
+| "[=saikantsi][NRoot][=region (ES: región)]" : {saikantsi} ! region (territory) 
 # ---------------------------------------------------------------------
 ! 
 | "[=natsiryari+m.][NRoot][=green]" : {natsiryari}
