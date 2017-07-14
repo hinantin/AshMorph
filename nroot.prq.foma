@@ -2374,8 +2374,9 @@ define NRootPRQin [
 ! 
 | "[=shinshierogiro][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinshierogiro}
 ! 
-| "[=shiranta+n.m.][NRoot][=flagstone, flag, flat.stone]" : {shiranta}
-| "[=shirantaa+n.m.][NRoot][=flagstone, flag, flat.stone]" : {shirantaa}
+| "[=shiranta+n.m.][NRoot][=flagstone, flag, flat.stone (ES: laja); boulder]" : {shiranta}
+| "[=shirantaa+n.m.][NRoot][=flagstone, flag, flat.stone (ES: laja); boulder]" : {shirantaa}
+| "[=shirantaa+n.m.][NRoot][=flat.stone (ES: laja)]" : {shirantaa} 
 ! 
 | "[=shiranto][NRoot][=stone; rock]" : {shiranto}
 ! 
@@ -2441,11 +2442,11 @@ define NRootPRQin [
 ! 
 | "[=shipatona+n.m.+inal.][NRoot][=beard, moustache]" : {shipatona}
 ! 
+| "[=shipatyoki+inal.][NRoot][=eyelid (ES: párpado)]" : {shipatyoki}
+! 
 | "[=shipityao][NRoot][=small.billed.elania (sci.nm.: elaenia.parvirostris)]" : {shipityao}
 ! 
 | "[=shirampari+m.][NRoot][=man; male]" : {shirampari} ! N@->V
-! 
-| "[=shirantaa+n.m.][NRoot][=flat.stone (ES: laja)]" : {shirantaa} 
 ! 
 | "[=shirontsi][NRoot][=harpy.sp. (sci.nm.: buteo.magnirostris)]" : {shirontsi}
 | "[=shironti][NRoot][=harpy.sp. (sci.nm.: buteo.magnirostris)]" : {shironti}
