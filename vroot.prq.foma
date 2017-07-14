@@ -163,6 +163,7 @@ define VRootPRQin [
 ! 
 | "[=atsik][VRoot][=to.bite]" : {atsik}
 ! 
+# arrollar 
 | "[=atsinak][VRoot][=to.squash.sth.; to.squeeze.sth.; to.crush.sth. (ESP: aplastar, machucar)]" : {atsinak}
 ! 
 | "[=atisank][VRoot][=to.sneeze]" : {atisank}
@@ -173,7 +174,7 @@ define VRootPRQin [
 ! 
 | "[=atso][VRoot][=to.suck]" : {atso}
 | "[=atso][VRoot][=to.suck][--][N=][IRR+]" : {antso}
-| "[=tho][VRoot][=to.suck]" : {tho}
+| "[=tso][VRoot][=to.suck]" : {tso}
 ! 
 | "[=avik][VRoot][=to.stagnate (ES: estancar); to.impede (ES: trabar)]" : {avik} 
 ! 
