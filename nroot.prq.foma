@@ -1393,6 +1393,8 @@ define NRootPRQin [
 ! 
 | "[=merekiri+m.][NRoot][=catfish.sp., cunchi/kunchi.sp., fish.sp.]" : {merekiri}
 ! 
+| "[=miro][NRoot][=frog.sp. (ES: especie.de.rana)]" : {miro}
+! 
 | "[=meronki+n.m.][NRoot][=tree.sp. (chimicua)]" : {meronki}
 | "[=mironki+n.m.][NRoot][=tree.sp. (chimicua)]" : {mironki}
 ! 
@@ -1680,8 +1682,8 @@ define NRootPRQin [
 | "[=oye+m.][NRoot][=rainbow]" : {oye}
 | "[=oyi+m.][NRoot][=rainbow (PT: arco-íris)]" : {oyi}
 ! 
-| "[=paapatsi][NRoot][=frog.sp.]" : {paapatsi}
-| "[=paapatzi][NRoot][=frog.sp.]" : {paapatzi}
+| "[=paapatsi][NRoot][=frog.sp. (ES: especie.de.rana)]" : {paapatsi}
+| "[=paapatzi][NRoot][=frog.sp. (ES: especie.de.rana)]" : {paapatzi}
 ! 
 | "[=pamari+n.m.][NRoot][=fire]" : {pamari}
 | "[=paamari+n.m.][NRoot][=fire]" : {paamari}
@@ -2612,6 +2614,8 @@ define NRootPRQin [
 ! 
 | "[=tiparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {tiparo}
 | "[=teparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {teparo}
+! 
+| "[=tzike][NRoot][=frog.sp. (ES: especie.de.rana)]" : {tzike} 
 ! 
 | "[=tiri+m.+poss@ni.][NRoot][=tar]" : {tiri}
 | "[=tziri+m.+poss@ni.][NRoot][=tar]" : {tziri}
