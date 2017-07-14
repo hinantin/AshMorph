@@ -420,7 +420,7 @@ define NRootPRQin [
 ! 
 | "[=homanka][NRoot][=black-necked.red.cotinga (sci.nm.: phoenicircus.nigricollis)]" : {homanka}
 ! 
-| "[=hoontzi+m.][NRoot][= (ES: especie.de.sapo)]" : {hoontzi}
+| "[=hoontzi+m.][NRoot][=toad.sp. (ES: especie.de.sapo)]" : {hoontzi}
 ! 
 | "[=hoveentsi+poss@te.][NRoot][=baby]" : {hoveentsi}
 ! 
@@ -1479,7 +1479,14 @@ define NRootPRQin [
 | "[=nana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {nana}
 | "[=naana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {naana}
 ! 
+# ---------------------------------------------------------------------
 | "[=nampi+n.m.+inal.][NRoot][=village, place, country]" : {nampi}
+| "[=nampiki][NRoot][=(ES: aldea)]" : {nampiki}
+| "[=nampitsini][NRoot][=(ES: caserio)]" : {nampitsini}
+| "[=nampitsira][NRoot][=(ES: pueblo)]" : {nampitsira}
+| "[=nampitsite][NRoot][=(ES: nación)]" : {nampitsite}
+| "[=nampitzite][NRoot][=(ES: nación)]" : {nampitzite}
+# ---------------------------------------------------------------------
 ! 
 | "[=natsiryari+m.][NRoot][=green]" : {natsiryari}
 | "[=natsiryaro+n.m.][NRoot][=green]" : {natsiryaro}
@@ -1684,6 +1691,7 @@ define NRootPRQin [
 | "[=oye+m.][NRoot][=rainbow]" : {oye}
 | "[=oyi+m.][NRoot][=rainbow (PT: arco-íris)]" : {oyi}
 ! 
+| "[=paapato][NRoot][=frog.sp. (ES: especie.de.rana)]" : {paapato}
 | "[=paapatsi][NRoot][=frog.sp. (ES: especie.de.rana)]" : {paapatsi}
 | "[=paapatzi][NRoot][=frog.sp. (ES: especie.de.rana)]" : {paapatzi}
 ! 
