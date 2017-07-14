@@ -1484,6 +1484,7 @@ define NRootPRQin [
 | "[=nampiki][NRoot][=small.village (ES: aldea)]" : {nampiki}
 | "[=nampitsini][NRoot][=hamlet (small.human.settlement, ES: caserio)]" : {nampitsini}
 | "[=nampitsira][NRoot][=(small).town (ES: pueblo)]" : {nampitsira}
+! nonampitzite / no- =nampitzite -ki / 1sg.poss- =nation -loc / ES: 'a.mi.nación' 
 | "[=nampitsite][NRoot][=nation (ES: nación)]" : {nampitsite}
 | "[=nampitzite][NRoot][=nation (ES: nación)]" : {nampitzite}
 | "[=saikantsi][NRoot][=region (ES: región)]" : {saikantsi} ! region (territory) 
