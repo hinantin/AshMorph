@@ -278,10 +278,10 @@ define VRootPRQin [
 | "[=kaa][VRoot][=to.pour]" : {kaa}
 | "[=kaa][VRoot][=to.bathe]" : {kaa}
 ! 
-| "[=kacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle]" : {kacha}
-| "[=kachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle]" : {kachaa}
-| "[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle]" : {akacha}
-| "[=akachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle]" : {akachaa}
+| "[=kacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {kacha}
+| "[=kachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {kachaa}
+| "[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {akacha}
+| "[=akachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {akachaa}
 ! 
 | "[=kacho][VRoot][=to.be.sour]" : {kacho} ! =kacho-ri ES: 'agrio', EN: 'sour'; =kacho-atsi ES: 'es agrio', EN: 'it's sour' 
 ! 
