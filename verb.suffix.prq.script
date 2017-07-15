@@ -329,6 +329,7 @@ define V=S=ADJ [
 | "[--][-nto+n.m.+partic.][NMZ][+ADJ]" : "@EP"[{nto}] 
 # ---------CAPABLE--------------
 ! ryaa-ntzi, ryaa-nto 
+! sonkareanti / =sonka -reanti / =to.play.antara -adj / EN: 'musician', ES: 'músico'
 | "[--][-ryaantzi+m.+capable][NMZ][+ADJ]" : "@EP"[{ryaantzi}] 
 | "[--][-yaanti+m.+capable][NMZ][+ADJ]" : "@EP"[{yaanti}] ! only 1 ocurrence in corpus 
 | "[--][-rianti+m.+capable][NMZ][+ADJ]" : "@EP"[{rianti}] 
