@@ -450,8 +450,8 @@ define NRootPRQin [
 | "[=eevavo+n.m.+inal.][NRoot][=fan (ES: abanico)]" : {eevavo}
 | "[=iivavo+n.m.+inal.][NRoot][=fan (ES: abanico)]" : {iivavo}
 ! 
-| "[=sompo+inal.][NRoot][=tumor; boil]" : {sompo} ! N@->V 
-| "[=hompo+inal.][NRoot][=tumor; boil]" : {hompo}
+| "[=sompo+inal.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {sompo} ! N@->V 
+| "[=hompo+inal.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {hompo}
 ! 
 | "[=ime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {ime}
 | "[=iime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {iime}
