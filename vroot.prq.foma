@@ -771,8 +771,6 @@ define VRootPRQin [
 | "[=oshoonk][VRoot][=to.inhale, to.breathe.in; to.evaporate]" : {oshoonk}
 | "[=onchoonk][VRoot][=to.inhale, to.breathe.in; to.evaporate]" : {onchoonk}
 ! 
-| "[=ovank][VRoot][=to.lift.sth.(up)]" : {ovank}
-! 
 | "[=ovashi][VRoot][=to.ensnare, to.entrap]" : {ovashi}
 ! 
 | "[=ovavi][VRoot][=piezar]" : {ovavi}
@@ -1309,7 +1307,8 @@ define VRootPRQin [
 | "[=ovaniinka][VRoot][=to.be.beautiful]" : {ovaniinka}
 ! 
 | "[=vank][VRoot][=to.lift.sth.up (ES: alzar)]" : {vank}
-| "[=ovank][VRoot][=to.lift.sth.up (ES: alzar)]" : {ovank}
+| "[=ovank][VRoot][=to.lift.sth.(up) (ES: alzar)]" : {ovank}
+!| "[=ovank][VRoot][=to.lift.sth.(up)]" : {ovank}
 ! 
 | "[=ovam][VRoot][=to.kill, to.murder, to.assassinate]" : {ovam}
 | "[=ovan][VRoot][=to.kill, to.murder, to.assassinate]" : {ovan}
