@@ -1363,8 +1363,8 @@ define NRootPRQin [
 ! 
 | "[=meerotzi][NRoot][=gray.hawk (sci.nm.: buteo.nitidus)]" : {meerotzi}
 ! 
-| "[=menta+n.m.+inal.][NRoot][=fin.of.tree]" : {menta}
-| "[=minta+n.m.+inal.][NRoot][=fin.of.tree]" : {minta}
+| "[=menta+n.m.+inal.][NRoot][=fin.of.tree (ES: aleta.de.árbol)]" : {menta}
+| "[=minta+n.m.+inal.][NRoot][=fin.of.tree (ES: aleta.de.árbol)]" : {minta}
 ! 
 | "[=meanto+m.][NRoot][=macaw, parrot.sp. (ESP: guacamayo, QU: wakamayu)]" : {meanto}
 | "[=mianto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ESP: guacamayo, QU: wakamayu)]" : {mianto}
@@ -1727,6 +1727,10 @@ define NRootPRQin [
 ! 
 | "[=paho][NRoot][=bejuco.sp. (pate)]" : {paho}
 | "[=paho+n.m.][NRoot][=recipient/container.type; bowl.type]" : {paho}
+! 
+| "[=pahotiki+n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pahotiki}
+| "[=pasotiki+n.m.][NRoot][=wild.edible.fruit.sp.(ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotiki}
+| "[=pasotziki+n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotziki}
 ! 
 | "[=pai+n.m.+inal.][NRoot][=white.hair]" : {pai}
 ! 
