@@ -108,7 +108,8 @@ define N=S=CL [
 # --------------------------------------------------
 | "[--][-panki][+CL:plank][=plank;to.grow]" : {panki} 
 | "[--][-panke][+CL:plank][=plank;to.grow]" : {panke} 
-
+# --------------------------------------------------
+! inchateaki / =incha -teaki / =plant -cl:flower / ES: 'flor.de.árbol' 
 | "[--][-tyaki][+CL:flower][=flower]" : {tyaki}  
 | "[--][-teyaki][+CL:flower][=flower]" : {teyaki} 
 | "[--][-teaki][+CL:flower][=flower]" : {teaki} 
