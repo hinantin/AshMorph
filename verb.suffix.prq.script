@@ -231,6 +231,7 @@ define V=S=STAT [
 ! inchato tainchari / =incha -to =ta -incha -ri / =plant -cl:tree =to.burn -stat -rel / ES: 'árbol.quemado'; EN: 'burned.tree' 
 ! kaniri pichainchari / =kaniri =picha -incha -ri / =yucca =to.crush.sth. -stat -rel / ES: 'yuca.(masa.cocinada)'; EN: 'cooked.yucca.mass' 
 ! apatotainchari / =apato -t -aincha -ri / =to.meet -ep -stat -rel / ES: 'grupo.de.gente, reunión'; EN: 'meeting' 
+! vakoshi tononkainchari / =vako -shi =tononk -aincha -ri / =venomous.plant.sp. -cl:leaf =to.grind.sth. -stat -rel / ES: 'el.veneno.huaco.de.las.hojas.molidas'; EN: 'ground.leaf.from.a.venomous.plant' 
 | "[--][-incha][+STAT]" : "@EP"[{incha}]
 | "[--][-aincha][+STAT]" : "@EP"[{aincha}]
 | "[--][-aencha][+STAT]" : "@EP"[{aencha}]
