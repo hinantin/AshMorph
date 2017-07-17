@@ -76,7 +76,7 @@ define NounToVerbPRQin [
 | "[=tsinãni+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tsinãni} ! N@->V
 | "[=tsomi+inal.][NRoot][=breast, bosom]+vbz." : {tsomi} ! N@->V
 | "[=tsome+inal.][NRoot][=breast, bosom]+vbz." : {tsome} ! N@->V
-| "[=viti+inal.][NRoot][=feather]+vbz." : {viti} ! N@->V
+| "[=viti+n.m.+inal.][NRoot][=hair; feather]+vbz." : {viti} ! N@->V
 | "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]+vbz." : {vitzi} ! N@->V
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tambor} ! N@->V
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tamboo} ! N@->V
