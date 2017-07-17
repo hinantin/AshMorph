@@ -441,6 +441,10 @@ define NRootPRQin [
 | "[=himee+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {himee}
 | "[=hime+m.+inal.][NRoot][=husband (kin.of.a.female)]" : {hime}
 ! 
+# these.cause.a.violent.rash.on.the.body 
+| "[=hini][NRoot][=microscopic.insects]" : {hini} 
+| "[=hiniki][NRoot][=louse]" : {hiniki} 
+! 
 | "[=hinya+n.m.+poss@te.][NRoot][=water]" : {hinya}
 | "[=hinyaa+n.m.+poss@te.][NRoot][=water]" : {hinyaa}
 ! 
@@ -1514,10 +1518,10 @@ define NRootPRQin [
 ! 
 | "[=nehi+inal.][NRoot][=chest]" : {nehi}
 ! 
-# nitsi / =ni -tsi / =louse -nposs / EN: 'louse' 
+# nitsi / =ni -tsi / =louse -nposs / EN: 'louse'  
 # noni / no- =ni / 1sg.poss- =louse / EN : 'my.louse'  
-| "[=ne+m.+inal.][NRoot][=louse]" : {ne}
-| "[=ni+m.+inal.][NRoot][=louse]" : {ni}
+| "[=ne+m.+inal.][NRoot][=louse (ES: piojo)]" : {ne}
+| "[=ni+m.+inal.][NRoot][=louse (ES: piojo)]" : {ni}
 ! 
 | "[=neronto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {neronto}
 | "[=nironto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {nironto}
