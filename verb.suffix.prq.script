@@ -223,6 +223,7 @@ define V=S=STAT [
 | "[--][-acha][+STAT]" : "@EP"[{acha}]
 | "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
 # -------- TEMPORAL STATIVITY MARKERS ------
+# -------- STATIVE PERFECTIVE  -------------
 | "[--][-aints][+STAT]" : "@EP"[{aints}]
 | "[--][-aits][+STAT]" : "@EP"[{aits}]
 | "[--][-aintsi][+STAT]" : "@EP"[{aintsi}]
@@ -232,6 +233,8 @@ define V=S=STAT [
 ! kaniri pichainchari / =kaniri =picha -incha -ri / =yucca =to.crush.sth. -stat -rel / ES: 'yuca.(masa.cocinada)'; EN: 'cooked.yucca.mass' 
 ! apatotainchari / =apato -t -aincha -ri / =to.meet -ep -stat -rel / ES: 'grupo.de.gente, reunión'; EN: 'meeting' 
 ! vakoshi tononkainchari / =vako -shi =tononk -aincha -ri / =venomous.plant.sp. -cl:leaf =to.grind.sth. -stat -rel / ES: 'el.veneno.huaco.de.las.hojas.molidas'; EN: 'ground.leaf.from.a.venomous.plant' 
+! aparoni tsatainchari / =aparoni =tsat -aincha -ri / =one =to.tear.into.two.parts -stat -rel / ES: 'uno.colgado'; EN: 'one.torn.into.two.parts' 
+! noetsaare kityonkari oobaenchari / no- =ketsaa -re =kityonka -ri =oob -aencha -ri / 1sg.poss- =dress -nmz =to.be.red -adj =to.put.sth.out.in.the.sun -stat -rel / ES: 'el.vestido.rojo.que.está.soleado'; EN: 'the.red.dress.that.was.put.out.in.the.sun' 
 | "[--][-incha][+STAT]" : "@EP"[{incha}]
 | "[--][-aincha][+STAT]" : "@EP"[{aincha}]
 | "[--][-aencha][+STAT]" : "@EP"[{aencha}]
