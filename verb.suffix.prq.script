@@ -393,7 +393,7 @@ define V=S=REP [
 !];
       
 define V=S=DIMDEGR [
-  "[--][-nint][+DIM.DEGR]" : "@EP"[{nint}]
+  "[--][-nint][+DIM.DEGR][=almost,a.little.bit]" : "@EP"[{nint}]
 ];
       
 # -----------------------------------------------------
