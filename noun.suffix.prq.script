@@ -252,6 +252,7 @@ define N=S=CL [
 # Classifiers for place names
 #-----------------------------------------------
 ! -ni 'watercourse', a truncated version of nija 'water'
+! kovirini / =koviri -ni / =corvina.fish -cl:watercourse / EN: 'river.where.corvina_fish.is.abundant' 
 | "[--][-ni+place][+CL:watercourse][=watercourse]" : {ni}
 !  -ito~-to 'head, the.heights.of.sth.', source is iitontsi =iito-ntsi =head-nposs
 ! Manitzito / =manitzi -to / =tiger -cl:head / EN: 'hill.whose.upper-part.is.inhabited.by.a.man-eating.jaguar' 
