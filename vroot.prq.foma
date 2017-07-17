@@ -1088,7 +1088,8 @@ define VRootPRQin [
 | "[=ta][VRoot][=to.burn]" : {ta}
 | "[=taa][VRoot][=to.burn]" : {taa}
 ! 
-| "[=takiri][VRoot][=to.peel]" : {takiri}
+| "[=takiri][VRoot][=to.peel (ES: descascarar)]" : {takiri}
+| "[=takire][VRoot][=to.peel (ES: descascarar)]" : {takire}
 ! 
 | "[=tanto][VRoot][=to.fence.in]" : {tanto}
 | "[=otanto][VRoot][=to.fence.in; to.put.shingle/small_flat_piece(s)_of_wood]" : {otanto}
