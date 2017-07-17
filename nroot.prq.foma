@@ -1020,7 +1020,8 @@ define NRootPRQin [
 | "[=Kireshia][NRoot][=Greece]" : {kireshia}
 ! 
 | "[=kisaakiri][NRoot][=black.person]" : {kisaakiri}
-| "[=kishi+inal.][NRoot][=hair]" : {kishi}
+! 
+| "[=kishi+inal.][NRoot][=hair (ES: pelo)]" : {kishi}
 ! 
 | "[=kishii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {kishii}
 | "[=kishi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {kishi}
@@ -2981,6 +2982,7 @@ define NRootPRQin [
 
 | "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
 ! 
+# ibiiti / iviiti / i- =viiti / 3m.poss- =hair / EN: 'his.hair', ES: 'su.pelo' 
 | "[=viti+n.m.+inal.][NRoot][=hair; feather]" : {viti} ! N@->V
 | "[=viiti+n.m.+inal.][NRoot][=hair; feather]" : {viiti} 
 | "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]" : {vitzi} ! N@->V
