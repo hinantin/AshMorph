@@ -2978,9 +2978,11 @@ define NRootPRQin [
 | "[=virotzi][NRoot][=bright-rumped.attila (sci.nm.: attila.spadiceus)]" : {virotzi}
 ! 
 | "[=viti+n.m.+inal.][NRoot][=outsider]" : {viti}
+
 | "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
 ! 
 | "[=viti+inal.][NRoot][=feather]" : {viti} ! N@->V
+| "[=viiti+inal.][NRoot][=feather]" : {viiti} 
 | "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]" : {vitzi} ! N@->V
 ! 
 | "[=voempo][NRoot][=collared.plover (sci.nm.: charadrius.collaris)]" : {voempo}
