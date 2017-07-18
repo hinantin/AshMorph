@@ -245,7 +245,7 @@
       
       define NominalizedVerb [ (NPref) [VRootPRQ] [
                                                      [(V=S=APPLINT) (V=S=DUR)] 
-                                                   | [(V=S=APPL)] 
+                                                   | [(V=S=APPL)] # tseeyakotaantsi / =tsee -ako -t -aantsi / =to.lie -appl -ep -ing / ES: 'difamar'; EN: 'to.defame; to.slander'  
                                                    | [(V=S=APPLBEN)] 
                                                    | [(V=S=APPLSEP)] # aapitsataantsi / =a-apitsa-t-aantsi ES: 'sustracción', EN: 'rest'
                                                    | [(V=S=DLMT)] 
