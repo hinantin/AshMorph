@@ -488,7 +488,11 @@ define VRootPRQin [
 | "[=kivanont][VRoot][=to.wash]" : {kivanont}
 | "[=kivant][VRoot][=to.visit]" : {kivant}
 | "[=kiy][VRoot][=to.dig]" : {kiy}
-| "[=kokov][VRoot][=to.want]" : {kokov}
+! 
+| "[=koite][VRoot][=to.be.in.need]" : {koite} ! to.be.checked 
+! 
+| "[=kokov][VRoot][=to.want]" : {kokov} ! redup ??? 
+! 
 | "[=konyaa][VRoot][=to.appear]" : {konyaa}
 ! 
 | "[=koma][VRoot][=to.row; to.paddle]" : {koma} 
