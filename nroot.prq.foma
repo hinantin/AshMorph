@@ -1029,8 +1029,9 @@ define NRootPRQin [
 ! 
 | "[=kishi+inal.][NRoot][=hair (ES: pelo)]" : {kishi}
 ! 
+# Sharokishi / =sharo -kishi / =rodent.sp. =mountainous.grassland / EN: 'grasslands.with.abundant.agoutis' 
 | "[=kishii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {kishii}
-| "[=kishi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {kishi}
+| "[=kishi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {kishi} ! @CMP 
 | "[=keshii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {keshii}
 | "[=keshi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {keshi}
 ! 
@@ -2161,9 +2162,10 @@ define NRootPRQin [
 ! 
 | "[=shamanto][NRoot][=red-necked.woodpecker (sci.nm.: phloeoceastes.rubricollis)]" : {shamanto}
 ! 
-| "[=shavo][NRoot][=rodent.sp. (añuje, agutí, cutpe)]" : {shavo}
-| "[=sharo][NRoot][=rodent.sp. (añuje, agutí, cutpe)]" : {sharo}
-| "[=sharoni][NRoot][=rodent.sp. (añuje, agutí, cutpe)]" : {sharoni}
+! | "[=sharo][NRoot][=agouti]" : {sharo}
+| "[=shavo][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {shavo}
+| "[=sharo][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {sharo}
+| "[=sharoni][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {sharoni}
 ! 
 | "[=shameti+m.][NRoot][=godfather]" : {shameti}
 | "[=shametzi+m.][NRoot][=godfather]" : {shametzi}
@@ -2348,8 +2350,6 @@ define NRootPRQin [
 | "[=sharinkaveni][NRoot][=hell]" : {sharinkaveni}
 ! 
 | "[=sharikookotzi][NRoot][=blue-crowned.trogon (sci.nm.: trogon.curucui)]" : {sharikookotzi}
-! 
-| "[=sharo][NRoot][=agouti]" : {sharo}
 ! 
 # tunche ~ tunchi 
 | "[=shashintzi+m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones); red-billed.ground-cuckoo (sci.nm.: neomorphus.pucheranii)]" : {shashintzi}
