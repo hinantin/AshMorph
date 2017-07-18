@@ -2540,7 +2540,8 @@ define NRootPRQin [
 # ishivanki: his.wing.without.feathers, his.featherless.wing 
 | "[=shivaNki+n.m.+inal.][NRoot][=feather; wing]" : {shivanki}
 # ivanki: his.wing; his.wing_feather 
-| "[=vaNki][NRoot][=feather]" : {vanki} ! @CMP 
+# bankitachatari / vankitachatari / =vanki -t -acha -ri / =wing_feather+vbz. -ep -stat -rel / EN: 'any.winged.animal'; ES: 'cualquier.animal.que.tiene.ala'
+| "[=vaNki][NRoot][=feather; wing_feather]" : {vanki} ! @CMP N@->V 
 | "[=paNki][NRoot][=feather]" : {panki} 
 ! 
 | "[=shivi+n.m.+inal.][NRoot][=penis]" : {shivi}
