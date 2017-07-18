@@ -220,8 +220,9 @@ define V=S=STAT [
   "[--][-atsi][+STAT]" : "@EP"[{atsi}]
 ! taachari / =ta -acha -ri / =to.burn -stat -rel / EN: 'the.burned.one', ES: 'quemado'
 ! nashitachari / =nashi -t -acha -ri / =to.separate -ep -stat -rel / EN: 'different.one'; ES: 'diferente' 
-| "[--][-ach][+STAT]" : "@EP"[{ach}]
-| "[--][-acha][+STAT]" : "@EP"[{acha}]
+! ashinonkaachari / =ashinonk -aacha -ri / =to.suffer -stat -rel / EN: 'poor'; ES: 'pobre' 
+| "[--][-ach][+STAT]" : "@EP"[{ach}] 
+| "[--][-acha][+STAT]" : "@EP"[{acha}] 
 | "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
 # -------- TEMPORAL STATIVITY MARKERS ------
 # -------- STATIVE PERFECTIVE  -------------
