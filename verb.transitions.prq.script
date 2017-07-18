@@ -132,10 +132,10 @@ define S [
  (V=S=ADJ) | 
  (V=S=DUB) | 
  (V=S=before) (V=S=REAL) | 
- (V=S=IRR) (V=S=REL) (V=S=Q) | 
- (V=S=APPL) (V=S=PROG) (V=S=REAL) (V=S=PRNO) | 
- (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) | 
+ (V=S=IRR) (V=S=REL) (V=S=Q) 
+| (V=S=APPL) (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) 
+| (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) | 
  (V=S=REAL) (V=S=ADV) | 
  (V=S=STAT) (V=S=Q) | 
  (V=S=CAUSSOC) (V=S=FRUS) (V=S=IMPP) (V=S=REAL) (V=S=PRNO) (V=S=ADV) | 
@@ -523,14 +523,14 @@ define S [
  (V=S=REV) (V=S=STAT) (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REV) (V=S=APPL) (V=S=APPLBEN) (V=S=PL) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=REV) (V=S=APPL) (V=S=APPLBEN) (V=S=DEXT) (V=S=FRUS) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=APPLREF) (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=S) (V=S=NMZ) | 
+ (V=S=APPLREF) (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=S) (V=S=NMZ) 
 ! (V=S=1SGposs) (V=S=DIST) 
- (V=S=UNK1) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=DLMT) (V=S=REL) | 
- (V=S=REGR) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=APPLBEN) (V=S=PL) (V=S=APPLREAS) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | ! inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
- (V=S=NEWDISC) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=EXCL) ! ompoh-ak-i-na-vi 
+| (V=S=UNK1) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=DLMT) (V=S=REL) 
+| (V=S=REGR) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=APPLBEN) (V=S=PL) (V=S=APPLREAS) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
+| (V=S=NEWDISC) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=EXCL) ! ompoh-ak-i-na-vi 
 | (V=S=RCP) (V=S=CAUSSOC) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=PLcircumfixing)  
 ];

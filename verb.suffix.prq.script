@@ -217,8 +217,9 @@ define V=S=EXCL [
       
 define V=S=STAT [
 # -------- STATIVITY MARKERS -------------
-! taachari / =ta -acha -ri / =to.burn -stat -rel / EN: 'the.burned.one', ES: 'quemado'
   "[--][-atsi][+STAT]" : "@EP"[{atsi}]
+! taachari / =ta -acha -ri / =to.burn -stat -rel / EN: 'the.burned.one', ES: 'quemado'
+! nashitachari / =nashi -t -acha -ri / =to.separate -ep -stat -rel / EN: 'different.one'; ES: 'diferente' 
 | "[--][-ach][+STAT]" : "@EP"[{ach}]
 | "[--][-acha][+STAT]" : "@EP"[{acha}]
 | "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
