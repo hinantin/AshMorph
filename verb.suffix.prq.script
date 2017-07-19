@@ -217,6 +217,7 @@ define V=S=EXCL [
       
 define V=S=STAT [
 # -------- STATIVITY MARKERS -------------
+! koiteatsiri / =koite -atsi -ri / =to.be.in.need -stat -rel / EN: 'poor'; ES: 'pobre' 
   "[--][-atsi][+STAT]" : "@EP"[{atsi}]
 ! taachari / =ta -acha -ri / =to.burn -stat -rel / EN: 'the.burned.one', ES: 'quemado'
 ! nashitachari / =nashi -t -acha -ri / =to.separate -ep -stat -rel / EN: 'different.one'; ES: 'diferente' 
@@ -237,6 +238,7 @@ define V=S=STAT [
 ! vakoshi tononkainchari / =vako -shi =tononk -aincha -ri / =venomous.plant.sp. -cl:leaf =to.grind.sth. -stat -rel / ES: 'el.veneno.huaco.de.las.hojas.molidas'; EN: 'ground.leaf.from.a.venomous.plant' 
 ! aparoni tsatainchari / =aparoni =tsat -aincha -ri / =one =to.tear.into.two.parts -stat -rel / ES: 'uno.colgado'; EN: 'one.torn.into.two.parts' 
 ! noetsaare kityonkari oobaenchari / no- =ketsaa -re =kityonka -ri =oob -aencha -ri / 1sg.poss- =dress -nmz =to.be.red -adj =to.put.sth.out.in.the.sun -stat -rel / ES: 'el.vestido.rojo.que.está.soleado'; EN: 'the.red.dress.that.was.put.out.in.the.sun' 
+! Bankanainchari / vankanainchari / =vank -an -aincha -ri / =to.lift.sth.up -dir+departing -stat -rel / EN: 'that.has.been.lifted.up.(departing)'; ES: 'que.ha.subido' 
 | "[--][-incha][+STAT]" : "@EP"[{incha}]
 | "[--][-aincha][+STAT]" : "@EP"[{aincha}]
 | "[--][-aencha][+STAT]" : "@EP"[{aencha}]
