@@ -2,8 +2,11 @@ define ORootPRQin [
   "[=aa][OtherRoot][=humph]" : {aa}
 ! 
 # aikero poihateri chaine / =aikero p- =oiha -t -e -ri =chaine / =still 2a- =to.follow -ep -irr -3m.o / EN: 'keep.following.your.grandfather'  
-| "[=aikero][OtherRoot][=still]" : {aikero}
-| "[=aikiro][OtherRoot][=still]" : {aikiro}
+| "[=aikero][OtherRoot][=still (ES: todavía)]" : {aikero}
+| "[=aikiro][OtherRoot][=still (ES: todavía)]" : {aikiro}
+| "[=eekero][OtherRoot][=still (ES: todavía)]" : {eekero}
+| "[=eekiro][OtherRoot][=still (ES: todavía)]" : {eekiro}
+| "[=iikiro][OtherRoot][=still (ES: todavía)]" : {iikiro}
 ! 
 | "[=airorika][OtherRoot][=or]" : {airorika}
 | "[=akaya][OtherRoot][=ouch]" : {akaya}
