@@ -36,8 +36,13 @@ define ORootPRQin [
 | "[=aitaki][PostPol][=PP]" : {aitaki}
 | "[=aitake][PostPol][=PP]" : {aitake}
 ! 
-| "[=aitapake][OtherRoot][=it.is.enough (ES: suficiente)]" : {aitapake}
-| "[=aitapahe][OtherRoot][=it.is.enough (ES: suficiente)]" : {aitapahe}
+# -------------------------------------------------------
+# Positive Polarity a~ai
+# -------------------------------------------------------
+# aitapahive / =ai -t -ap -ah -i -ve / =PP -ep -dir -term -real -excl / EN: 'enough.of.sth.!'; ES: 'deja.de.hacer.algo!; basta.ya.de.algo' 
+| "[=aitapake][PostPol][=it.is.enough (ES: suficiente)]" : {aitapake} 
+| "[=aitapahe][PostPol][=it.is.enough (ES: suficiente)]" : {aitapahe} 
+| "[=aitapahi][PostPol][=it.is.enough (ES: suficiente)]" : {aitapahi} 
 # copulative conjunction 
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
