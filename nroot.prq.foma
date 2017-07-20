@@ -516,6 +516,9 @@ define NRootPRQin [
 ! 
 | "[=inchapataki][NRoot][=spatula]" : {inchapataki} 
 ! 
+| "[=inchapanki+n.m.+poss@ri.][NRoot][=plank]" : {inchapanki} 
+| "[=inchapanke+n.m.+poss@ri.][NRoot][=plank]" : {inchapanke} 
+! 
 | "[=inchatomashi][NRoot][=scrub]" : {inchatomashi} 
 ! 
 | "[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {inchatonaki} 
@@ -528,7 +531,8 @@ define NRootPRQin [
 # ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
 | "[=inchashinari+healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
 ! 
-| "[=inkani][NRoot][=rain]" : {inkani}
+| "[=inkani+n.m.][NRoot][=rain (ES: lluvia)]" : {inkani}
+| "[=inkane+n.m.][NRoot][=rain (ES: lluvia)]" : {inkane}
 ! 
 | "[=inkaari+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkaari}
 | "[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkaare}
