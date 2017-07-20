@@ -36,8 +36,8 @@ define ORootPRQin [
 | "[=aitaki][PostPol][=PP]" : {aitaki}
 | "[=aitake][PostPol][=PP]" : {aitake}
 ! 
-| "[=aitapake][PostPol][=it.is.enough (ES: suficiente)]" : {aitapake}
-| "[=aitapahe][PostPol][=it.is.enough (ES: suficiente)]" : {aitapahe}
+| "[=aitapake][OtherRoot][=it.is.enough (ES: suficiente)]" : {aitapake}
+| "[=aitapahe][OtherRoot][=it.is.enough (ES: suficiente)]" : {aitapahe}
 # copulative conjunction 
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
