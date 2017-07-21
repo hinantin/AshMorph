@@ -222,7 +222,9 @@ define V=S=STAT [
 ! taachari / =ta -acha -ri / =to.burn -stat -rel / EN: 'the.burned.one', ES: 'quemado'
 ! nashitachari / =nashi -t -acha -ri / =to.separate -ep -stat -rel / EN: 'different.one'; ES: 'diferente' 
 ! ashinonkaachari / =ashinonk -aacha -ri / =to.suffer -stat -rel / EN: 'poor'; ES: 'pobre' 
-! shirontakaantachari / =shiron -t -aka -ant -acha -ri / =to.laugh.at.sb. -ep -caus.soc -appl -stat -rel / EN: 'funny, joker'; ES: 'chistoso'
+! shirontakaantachari / =shiron -t -aka -ant -acha -ri / =to.laugh.at.sb. -ep -caus.soc -appl.inst -stat -rel / EN: 'funny, joker'; ES: 'chistoso'
+! kantakotashitantachari / =kant -ako -t -ashi -t -ant -acha -ri / =to.say -appl -ep -appl.int -appl.inst -stat -rel / EN: 'accuser, traitor'; ES: 'acusador, traidor'; 
+! oyaakotachari / =oya -ako -t -acha -ri / =to.follow -appl -ep -stat -rel / EN: 'dependent'; ES: 'dependiente'
 | "[--][-ach][+STAT]" : "@EP"[{ach}] 
 | "[--][-acha][+STAT]" : "@EP"[{acha}] 
 | "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
