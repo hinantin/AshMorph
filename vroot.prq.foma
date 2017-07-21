@@ -1,8 +1,10 @@
 define VRootPRQin [
 ! 
-  "[=a][VRoot][=to.take]" : {a}
-| "[=aa][VRoot][=to.take]" : {aa}
+# ---------------------------------------------------
+  "[=a][VRoot][=to.take (ES: agarrar)]" : {a}
+| "[=aa][VRoot][=to.take (ES: agarrar)]" : {aa}
 | "[=a][VRoot][=to.get]" : {a}
+# ---------------------------------------------------
 ! 
 | "[=a][VRoot][=to.choose]" : {a}
 | "[=a][VRoot][=to.pick]" : {a}
@@ -172,9 +174,9 @@ define VRootPRQin [
 | "[=atsiink][VRoot][=to.sneeze][--][N=][IRR+]" : {antsiink}
 | "[=atzik][VRoot][=to.sneeze]" : {atzik}
 ! 
-| "[=atso][VRoot][=to.suck]" : {atso}
-| "[=atso][VRoot][=to.suck][--][N=][IRR+]" : {antso}
-| "[=tso][VRoot][=to.suck]" : {tso}
+| "[=atso][VRoot][=to.suck (prbly.cacao)]" : {atso}
+| "[=atso][VRoot][=to.suck (prbly.cacao)][--][N=][IRR+]" : {antso}
+| "[=tso][VRoot][=to.suck (prbly.cacao)]" : {tso}
 ! 
 | "[=avik][VRoot][=to.stagnate (ES: estancar); to.impede (ES: trabar)]" : {avik} 
 ! 

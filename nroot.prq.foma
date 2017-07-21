@@ -1332,7 +1332,8 @@ define NRootPRQin [
 | "[=matsavo+n.m.][NRoot][=thin, slender]" : {matsavo}
 ! 
 | "[=matsi+n.m.][NRoot][=plant.sp.; edible.tuber.sp. (pituca)]" : {matsi}
-| "[=matsi+m.][NRoot][=(human).witch; insect.sp.]" : {matsi}
+| "[=matsi+m.][NRoot][=(human).witch]" : {matsi} ! N@->V 
+| "[=matsi+m.][NRoot][=insect.sp.]" : {matsi} 
 ! 
 | "[=mapitzi+m.][NRoot][=small.bird.sp.]" : {mapitzi}
 ! 
