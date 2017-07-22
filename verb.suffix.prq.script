@@ -231,11 +231,13 @@ define V=S=STAT [
 # -------- TEMPORAL STATIVITY MARKERS ------
 # -------- STATIVE PERFECTIVE  -------------
 ! kenanaintsiri / =ken -an -aintsi -ri / =to.walk -dir+leaving -stat -rel / EN: 'that.walks.past.sb.'; ES: 'que.va.caminando' 
-! jibataintsiri / =hivataintsiri / =hivat -aintsi -ri / =to.get.ahead -stat -rel / EN: 'first.one, the.one.that.has.gotten.ahead'; ES: 'primero, el.que.está.adelante' 
-| "[--][-aints][+STAT]" : "@EP"[{aints}]
-| "[--][-aits][+STAT]" : "@EP"[{aits}]
-| "[--][-aintsi][+STAT]" : "@EP"[{aintsi}]
-| "[--][-aentsi][+STAT]" : "@EP"[{aentsi}]
+! jibataintsiri / =hivataintsiri / =hivat -aintsi -ri / =to.get.ahead -stat -rel / EN: 'first.one, the.one.that.has_gotten_ahead/starts'; ES: 'primero, el.que.está.adelante' 
+! impoitaintsiri / =impoi -t -aintsi -ri / =to.follow.behind -ep -stat -rel / EN: 'the.one.that.follows.behind, last.one' ; ES: 'lo.que.viene.atrás, último' 
+! abisaintsiri / avisaintsiri / =avis -aintsi -ri / =to.pass -stat -rel / EN: 'what.has.happened'; ES: 'lo.que.ha.ocurrido' 
+| "[--][-aints][+STAT]" : "@EP"[{aints}] 
+| "[--][-aits][+STAT]" : "@EP"[{aits}] 
+| "[--][-aintsi][+STAT]" : "@EP"[{aintsi}] 
+| "[--][-aentsi][+STAT]" : "@EP"[{aentsi}] 
 # --------
 ! inchato tainchari / =incha -to =ta -incha -ri / =plant -cl:tree =to.burn -stat -rel / ES: 'árbol.quemado'; EN: 'burned.tree' 
 ! kaniri pichainchari / =kaniri =picha -incha -ri / =yucca =to.crush.sth. -stat -rel / ES: 'yuca.(masa.cocinada)'; EN: 'cooked.yucca.mass' 
