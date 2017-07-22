@@ -253,6 +253,9 @@ define VRootPRQin [
 | "[=hivat][VRoot][=to.get.ahead]" : {hivat}
 | "[=hiva][VRoot][=to.start]" : {hiva}
 ! 
+| "[=impoit][VRoot][=to.follow.behind (ES: seguir.atrás)]" : {impoit}
+| "[=impoi][VRoot][=to.follow.behind (ES: seguir.atrás)]" : {impoi}
+! 
 | "[=inchakota][VRoot][=to.split]" : {inchakota}
 | "[=int][VRoot][=to.begin]" : {int}
 ! 
