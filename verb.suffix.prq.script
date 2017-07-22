@@ -234,6 +234,7 @@ define V=S=STAT [
 ! jibataintsiri / =hivataintsiri / =hivat -aintsi -ri / =to.get.ahead -stat -rel / EN: 'first.one, the.one.that.has_gotten_ahead/starts'; ES: 'primero, el.que.está.adelante' 
 ! impoitaintsiri / =impoi -t -aintsi -ri / =to.follow.behind -ep -stat -rel / EN: 'the.one.that.follows.behind, last.one' ; ES: 'lo.que.viene.atrás, último' 
 ! abisaintsiri / avisaintsiri / =avis -aintsi -ri / =to.pass -stat -rel / EN: 'what.has.happened'; ES: 'lo.que.ha.ocurrido' 
+! sabikaintsiri / savikaintsiri / =savik -aintsi -ri / =to.sit -stat -rel / EN: 'sitted'; ES: 'sentado' 
 | "[--][-aints][+STAT]" : "@EP"[{aints}] 
 | "[--][-aits][+STAT]" : "@EP"[{aits}] 
 | "[--][-aintsi][+STAT]" : "@EP"[{aintsi}] 
