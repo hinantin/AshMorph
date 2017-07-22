@@ -230,6 +230,8 @@ define V=S=STAT [
 | "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
 # -------- TEMPORAL STATIVITY MARKERS ------
 # -------- STATIVE PERFECTIVE  -------------
+! kenanaintsiri / =ken -an -aintsi -ri / =to.walk -dir+leaving -stat -rel / EN: 'that.walks.past.sb.'; ES: 'que.va.caminando' 
+! jibataintsiri / =hivataintsiri / =hivat -aintsi -ri / =to.get.ahead -stat -rel / EN: 'first.one, the.one.that.has.gotten.ahead'; ES: 'primero, el.que.está.adelante' 
 | "[--][-aints][+STAT]" : "@EP"[{aints}]
 | "[--][-aits][+STAT]" : "@EP"[{aits}]
 | "[--][-aintsi][+STAT]" : "@EP"[{aintsi}]
