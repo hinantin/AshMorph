@@ -324,6 +324,7 @@ define V=S=NMZ [
 | "[--][-agantsi][NMZ][+INF]" : "@EP"[{agantsi}] 
 # ----------------------------------
 | "[--][-ri][+NMZ]" : "@EP"[{ri}] 
+! 
 | "[--][-nk][+NMZ]" : "@EP"[{nk}] 
 | "[--][-nka+quality][+NMZ]" : "@EP"[{nka}] 
 | "[--][-enkaa+quality][+NMZ]" : "@EP"[{enkaa}] 
