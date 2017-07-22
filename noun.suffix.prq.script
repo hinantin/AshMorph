@@ -228,6 +228,8 @@ define N=S=CL [
 | "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} 
 | "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} 
 #-----------------------------------------------
+! antyarosanori / =antyaro -sanori / =big -cl:real / EN: 'inmense'; ES: 'inmenso'  
+! parentisanori / =parenti -sanori / =plantain -cl:real / EN: 'long.banana'; ES: 'plátano.largo'  
 | "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori} 
 #-----------------------------------------------
 ! kotsiropeta / =kotsiro -peta / =machete -cl / ES: 'machete.viejo', EN: 'old.machete' 
