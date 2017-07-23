@@ -635,7 +635,7 @@ define VRootPRQin [
 | "[=monkaa][VRoot][=to.measure, to.fulfill]" : {monkaa}
 | "[=monkara][VRoot][=to.measure, to.fulfill]" : {monkara}
 ! 
-| "[=monts][VRoot][=to.find, to.meet]" : {monts}
+| "[=monts][VRoot][=to.find, to.meet (ES: reencontrarse)]" : {monts} 
 # crossing a river 
 | "[=monty][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear)]" : {monty}
 | "[=pampia][VRoot][=to.cross.river (by.boat/canoe/a_bridge)]" : {pampia}
@@ -948,7 +948,7 @@ define VRootPRQin [
 | "[=riro][VRoot][=to.watch]" : {riro}
 ! 
 | "[=saa][VRoot][=to.bathe]" : {saa}
-| "[=saa][VRoot][=to.bathe.in.hot.water]" : {saa}
+| "[=saa][VRoot][=to.bathe.in.hot.water; to.pour.warm_liquids.over.sb.in.order.to.heal.it/him/her.]" : {saa}
 ! 
 | "[=saa][VRoot][=to.steam.bathe]" : {saa}
 | "[=saava][VRoot][=to.heat]" : {saava}
