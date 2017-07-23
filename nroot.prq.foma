@@ -2204,9 +2204,11 @@ define NRootPRQin [
 ! 
 | "[=sheesheetzi][NRoot][=hoatzin (sci.nm.: ophistocomus.hoatzin)]" : {sheesheetzi}
 ! 
-| "[=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui)]" : {sheya} ! @CMP 
-| "[=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui)]" : {shiya} ! @CMP 
-| "[=shaa+n.m.][NRoot][=palm.tree.sp. (ungurahui, it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats)]" : {shaa} ! @CMP 
+| "[=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {sheya} ! @CMP 
+| "[=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {shiya} ! @CMP 
+| "[=shaa+n.m.][NRoot][=palm.tree.sp. (ungurahui, unguravi, it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats)]" : {shaa} ! @CMP 
+! 
+| "[=shaanke][NRoot][=unguravi-palm-tree.venomous.snake.sp.]" : {shaanke}
 ! 
 | "[=shiyintzi+m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyintzi}
 | "[=shiyentzi+m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyentzi}
