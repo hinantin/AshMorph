@@ -22,6 +22,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=sherori" "]" "[" "IdeoPRQ" "]" "[" "=sliding.down.the_tree (slowly)" "]" ] : {sherori}
 ! 
 | [ "[" "=sori" "]" "[" "IdeoPRQ" "]" "[" "=staring.fixedly" "]" ] : {sori}
+| [ "[" "=sore" "]" "[" "IdeoPRQ" "]" "[" "=staring.fixedly" "]" ] : {sore} ! yamenakero sorerere / y- =amen -ak -e -ro =sore / 3m.a- =to.look -prf -real -3n.m.o =IDEO 
 | [ "[" "=soreri" "]" "[" "IdeoPRQ" "]" "[" "=looking.at.sb.fixedly.and.intently" "]" ] : {soreri}
 ! 
 | [ "[" "=teri" "]" "[" "IdeoPRQ" "]" "[" "=thunder; thunder.sound" "]" ] : {teri}
