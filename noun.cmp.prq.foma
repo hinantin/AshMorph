@@ -15,9 +15,9 @@ define NRootCmpPRQin [
 | "[--][=pyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {pyare} ! @CMP 
 | "[--][=pyari+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {pyari} ! @CMP 
 | "[--][=sama+n.m.+inal.][NRoot][=inanimate.body; medicinal.plant]" : {sama} ! @CMP
-| "[--][=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui)]" : {sheya} ! @CMP 
-| "[--][=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui)]" : {shiya} ! @CMP 
-| "[--][=shaa+n.m.][NRoot][=palm.tree.sp. (ungurahui, it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats)]" : {shaa} ! @CMP 
+| "[--][=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {sheya} ! @CMP 
+| "[--][=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {shiya} ! @CMP 
+| "[--][=shaa+n.m.][NRoot][=palm.tree.sp. (ungurahui, unguravi, it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats)]" : {shaa} ! @CMP 
 | "[--][=vaNki][NRoot][=feather; wing_feather]" : {vanki} ! @CMP N@->V 
 | "[--][=tsantsa][NRoot][=long (in.length); big]" : {tsantsa} ! N@->V @CMP
 | "[--][=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP

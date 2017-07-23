@@ -69,6 +69,7 @@ define IdeoRedupSylPRQin 0:"^["
 
 # ra 
 | [ "[" "=chara" "]" "[" "IdeoPRQ" "]" "[" "=trickling.liquid (e.g.: water, urine, diarrhea)" "]" ] : {chara}
+| [ "[" "=shaara" "]" "[" "IdeoPRQ" "]" "[" "=action/sound.of.flowing.water" "]" ] : {shaara}
 | [ "[" "=pakara" "]" "[" "IdeoPRQ" "]" "[" "=drizzling.rain; falling.of.rain_drops/flowers" "]" ] : {pakara}
 | [ "[" "=pakara" "]" "[" "IdeoPRQ" "]" "[" "=breaking.into.multiple.pieces.of.a.fallen.fragile.object.upon.contact.with.the.ground (e.g.: a_plate, a_mirror)" "]" ] : {pakara}
 
