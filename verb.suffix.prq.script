@@ -225,6 +225,7 @@ define V=S=STAT [
 ! shirontakaantachari / =shiron -t -aka -ant -acha -ri / =to.laugh.at.sb. -ep -caus.soc -appl.inst -stat -rel / EN: 'funny, joker'; ES: 'chistoso'
 ! kantakotashitantachari / =kant -ako -t -ashi -t -ant -acha -ri / =to.say -appl -ep -appl.int -appl.inst -stat -rel / EN: 'accuser, traitor'; ES: 'acusador, traidor'; 
 ! oyaakotachari / =oya -ako -t -acha -ri / =to.follow -appl -ep -stat -rel / EN: 'dependent'; ES: 'dependiente'
+! katikachari / =katik -acha -ri / =to.hang -stat -rel / EN: 'hanged'; ES: 'ahorcado'  
 | "[--][-ach][+STAT]" : "@EP"[{ach}] 
 | "[--][-acha][+STAT]" : "@EP"[{acha}] 
 | "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
