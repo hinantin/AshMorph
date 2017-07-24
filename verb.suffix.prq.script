@@ -226,6 +226,7 @@ define V=S=STAT [
 ! kantakotashitantachari / =kant -ako -t -ashi -t -ant -acha -ri / =to.say -appl -ep -appl.int -appl.inst -stat -rel / EN: 'accuser, traitor'; ES: 'acusador, traidor'; 
 ! oyaakotachari / =oya -ako -t -acha -ri / =to.follow -appl -ep -stat -rel / EN: 'dependent'; ES: 'dependiente'
 ! katikachari / =katik -acha -ri / =to.hang -stat -rel / EN: 'hanged'; ES: 'ahorcado'  
+! pahitachari Pityotsi / =pahi -t -acha -ri =Pityotsi / =to.be.called -ep -stat -rel =proper.name / ES: 'who.is.called.Pityotsi'  
 | "[--][-ach][+STAT]" : "@EP"[{ach}] 
 | "[--][-acha][+STAT]" : "@EP"[{acha}] 
 | "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
