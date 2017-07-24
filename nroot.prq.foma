@@ -590,8 +590,8 @@ define NRootPRQin [
 ! 
 | "[=katimaropa][NRoot][=banana.sp. (ES: plátano.de.isla)]" : {katimaropa}
 ! 
-| "[=katonko][NRoot][=up.river]" : {katonko}
-| "[=katonka][NRoot][=up.river]" : {katonka}
+| "[=katonko][NRoot][=up.river (ES: río.arriba)]" : {katonko} 
+| "[=katonka][NRoot][=up.river (ES: río.arriba)]" : {katonka} 
 ! 
 | "[=katitori+m.][NRoot][=ant.sp.]" : {katitori}
 | "[=katsitori+m.][NRoot][=ant.sp.]" : {katsitori}
@@ -2254,6 +2254,8 @@ define NRootPRQin [
 | "[=sani+m.][NRoot][=wasp]" : {sani}
 | "[=sane+m.][NRoot][=wasp]" : {sane}
 | "[=sanii+m.][NRoot][=wasp]" : {sanii}
+! 
+| "[=haniki][NRoot][=child]" : {haniki}
 ! 
 | "[=sanko+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {sanko}
 | "[=sankoo+n.m.][NRoot][=sugar.cane (botany.nm.: saccharum.efficnale)]" : {sankoo}
