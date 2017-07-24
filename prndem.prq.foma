@@ -64,8 +64,8 @@ define PrnDemPRQin [
 # / EN: 'Perhaps you tripped up on that stone over there', ES: 'Tal vez le hizo tropezar la piedra de allá'
 | "[=onta+n.m.+distal][PrnDem][=DEM.NOM][=that, that.over.there (ES: esa, aquella)]" : {onta} 
 ! Demonstrative identifier 
-| "[=heri+m.][PrnDem][=DEM.ID.][=here.you.are]" : {heri}
-| "[=herika+m.+proximal][PrnDem][=DEM.ID.][=here.it.is]" : {herika}
+| "[=heri+m.][PrnDem][=DEM.ID.][=here.you.are, here.it.is]" : {heri} 
+| "[=herika+m.+proximal][PrnDem][=DEM.ID.][=here.it.is]" : {herika} 
 | "[=heriyonta+m.+distal][PrnDem][=DEM.ID.][=it.is.over.there]" : {heriyonta}
 ! 
 | "[=hero+n.m.][PrnDem][=DEM.ID.][=here.you.are]" : {hero}
