@@ -600,8 +600,8 @@ define VRootPRQin [
 | "[=mantsiy][VRoot][=to.be.sick]" : {mantsiy}
 | "[=mantsiya][VRoot][=to.be.sick]" : {mantsiya}
 ! 
-| "[=omapero][VRoot][=to.get.worse]" : {omapero}
-| "[=mapero][VRoot][=to.get.worse; to.be.true]" : {mapero}
+| "[=omapero][VRoot][=to.get.worse (ES: empeorarse)]" : {omapero}
+| "[=mapero][VRoot][=to.get.worse (ES: empeorarse); to.be.true]" : {mapero}
 ! 
 | "[=masavi][VRoot][=to.sweat]" : {masavi}
 | "[=amasavi][VRoot][=to.sweat]" : {amasavi}
