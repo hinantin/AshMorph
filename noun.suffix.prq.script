@@ -183,10 +183,12 @@ define N=S=CL [
 # akoimpekintsi / =ako -impeki -ntsi / =hand -cl:small.branch -nposs / EN: 'finger', ES: 'dedo' 
 # akoempikintsi / =ako -empiki -ntsi / =hand -cl:small.branch -nposs / EN: 'finger', ES: 'dedo' 
 # akoimpikintsi / =ako -impiki -ntsi / =hand -cl:small.branch -nposs / EN: 'finger', ES: 'dedo' 
+# inchajempeki / inchahempeki / =incha -hempeki / =plant -cl:small.branch / EN: 'firewood'; ES: 'leña' 
 | "[--][-empeki][+CL:small.branch][=small.branch]" : {empeki} 
 | "[--][-empiki][+CL:small.branch][=small.branch]" : {empiki} 
 | "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} 
 | "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} 
+| "[--][-hempeki][+CL:small.branch][=small.branch]" : {hempeki} 
 
 | "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} 
 
