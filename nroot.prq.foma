@@ -1336,10 +1336,10 @@ define NRootPRQin [
 | "[=matsi+m.][NRoot][=(human).witch]" : {matsi} ! N@->V 
 | "[=matsi+m.][NRoot][=insect.sp.]" : {matsi} 
 ! 
-| "[=matsinti+m.][NRoot][=male.witch]" : {matsinti}
-| "[=matsintzi+m.][NRoot][=male.witch]" : {matsintzi}
+| "[=matsinti+m.][NRoot][=male.witch (ES: varón.brujo)]" : {matsinti}
+| "[=matsintzi+m.][NRoot][=male.witch (ES: varón.brujo)]" : {matsintzi}
 ! 
-| "[=matsinto+n.m.][NRoot][=female.witch]" : {matsinto}
+| "[=matsinto+n.m.][NRoot][=female.witch (ES: mujer.bruja)]" : {matsinto}
 ! 
 | "[=mapitzi+m.][NRoot][=small.bird.sp.]" : {mapitzi}
 ! 
