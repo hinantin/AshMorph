@@ -1336,6 +1336,11 @@ define NRootPRQin [
 | "[=matsi+m.][NRoot][=(human).witch]" : {matsi} ! N@->V 
 | "[=matsi+m.][NRoot][=insect.sp.]" : {matsi} 
 ! 
+| "[=matsinti+m.][NRoot][=male.witch]" : {matsinti}
+| "[=matsintzi+m.][NRoot][=male.witch]" : {matsintzi}
+! 
+| "[=matsinto+n.m.][NRoot][=female.witch]" : {matsinto}
+! 
 | "[=mapitzi+m.][NRoot][=small.bird.sp.]" : {mapitzi}
 ! 
 | "[=maanki+m.][NRoot][=snake, serpent]" : {maanki}
