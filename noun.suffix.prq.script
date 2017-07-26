@@ -302,7 +302,14 @@ define N=S=EXCL [
 define N=S=ADVP [
 # savadoranki / =savado -ranki / =Saturday -ADV.P / EN: 'last.Saturday', ES: 'el.último.sábado' 
 # tsiteniranki / =tsiteni -ranki / =night -ADV.P / EN: 'last.night', ES: 'anoche' 
-  "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}]
+# kampanaranki / =kampana -ranki / =church -adv.p_t / EN: 'abandoned.church'; ES: 'iglesia.abandonada' 
+# avaniranki / a- =va -ni -ranki / 1pl.poss- =sown.plot.of.land -aln.poss. -adv.p_t / EN: 'our.land.that.has.not.been.in.use/has.not.been.cultivated'; ES: 'nuestra.chacra.abandonada'  
+  "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}] 
+];
+      
+# RCG: recognitional 
+define N=S=RCG [
+  "[--][-ranki][+RCG]" : [{ranki}]
 ];
       
 !      define N=S=ADVT [
@@ -409,10 +416,6 @@ define N=S=REAL [
       
 define N=S=IRR [
   "[--][-ya][+IRR]" : [{ya}]
-];
-      
-define N=S=RCG [
-  "[--][-ranki][+RCG]" : [{ranki}]
 ];
       
 define N=S=UNK1 [
