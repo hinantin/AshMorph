@@ -302,15 +302,15 @@ define N=S=EXCL [
 # ---------------------------------------
 #           ranki
 # ---------------------------------------
-# (1) +tp.prec.: temporal.precedence 
-# (2) +chg.st.: change.of.state 
-# (3) +absnt.: absent.in.the.speaker's.environment.at.the.present 
+# (1) +tp.prec.: temporal.precedence (in.a.past.context)
+# (2) +chg.st.: change.of.state (in.a.past.context)
+# (3) +absnt.: absent.in.the.speaker's.environment.at.the.present (in.a.non-past.context) / +s-t.: spatial-temporal.sense 
 # (4*) +i.: invisible 
 # (5*) +rcg.: recognitional 
 # (6*) +nmz.: nominalizer 
 define N=S=ADVP [
-# savadoranki / =savado -ranki / =Saturday -ADV.P / EN: 'last.Saturday', ES: 'el.último.sábado' 
-# tsiteniranki / =tsiteni -ranki / =night -ADV.P / EN: 'last.night', ES: 'anoche' 
+# savadoranki / =savado -ranki+tp.prec. / =Saturday -ADV.P / EN: 'last.Saturday', ES: 'el.último.sábado' 
+# tsiteniranki / =tsiteni -ranki+tp.prec. / =night -ADV.P / EN: 'last.night', ES: 'anoche' 
 # kampanaranki / =kampana -ranki / =church -adv.p_t / EN: 'abandoned.church'; ES: 'iglesia.abandonada' 
 # avaniranki / a- =va -ni -ranki / 1pl.poss- =sown.plot.of.land -aln.poss. -adv.p_t / EN: 'our.land.that.has.not.been.in.use/has.not.been.cultivated'; ES: 'nuestra.chacra.abandonada'  
   "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}] 
