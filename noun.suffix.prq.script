@@ -298,7 +298,16 @@ define N=S=EXCL [
 # kanirivi / =kaniri -vi / =yucca -excl / EN: 'manioc (announcing)'
 | "[--][-vi][+EXCL][=exclaiming,announcing]" : {vi}
 ];
-      
+
+# ---------------------------------------
+#           ranki
+# ---------------------------------------
+# (1) +tp.prec.: temporal.precedence 
+# (2) +chg.st.: change.of.state 
+# (3) +absnt.: absent.in.the.speaker's.environment.at.the.present 
+# (4*) +i.: invisible 
+# (5*) +rcg.: recognitional 
+# (6*) +nmz.: nominalizer 
 define N=S=ADVP [
 # savadoranki / =savado -ranki / =Saturday -ADV.P / EN: 'last.Saturday', ES: 'el.último.sábado' 
 # tsiteniranki / =tsiteni -ranki / =night -ADV.P / EN: 'last.night', ES: 'anoche' 
@@ -316,6 +325,8 @@ define N=S=RCG [
 !       "[--][+ADV.T]" : [{ranki}]
 !      ];
       
+# ---------------------------------------
+
 define N=S=ADV [
   "[--][-paite][+ADV][=during]" : [{paite}]
 # ------------------------------
