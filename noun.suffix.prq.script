@@ -309,10 +309,15 @@ define N=S=EXCL [
 # (5*) +rcg.: recognitional 
 # (6*) +nmz.: nominalizer 
 define N=S=ADVP [
-# savadoranki / =savado -ranki+tp.prec. / =Saturday -ADV.P / EN: 'last.Saturday', ES: 'el.último.sábado' 
-# tsiteniranki / =tsiteni -ranki+tp.prec. / =night -ADV.P / EN: 'last.night', ES: 'anoche' 
-# kampanaranki / =kampana -ranki / =church -adv.p_t / EN: 'abandoned.church'; ES: 'iglesia.abandonada' 
-# avaniranki / a- =va -ni -ranki / 1pl.poss- =sown.plot.of.land -aln.poss. -adv.p_t / EN: 'our.land.that.has.not.been.in.use/has.not.been.cultivated'; ES: 'nuestra.chacra.abandonada'  
+# savadoranki / =savado -ranki+tp.prec. / =Saturday -ADV / EN: 'last.Saturday', ES: 'el.último.sábado' 
+# tsiteniranki / =tsiteni -ranki+tp.prec. / =night -ADV / EN: 'last.night', ES: 'anoche' 
+# sheeteniranki / =sheeteni -ranki+tp.prec. / =day -ADV / EN: 'yesterday; time.prior.to.today' 
+# oonkaranki / =oonka -ranki+tp.prec. / =flood -ADV / EN: 'flood.which.took.place.prior.to.a.certain.moment.in.the.past' 
+# 
+# kampanaranki / =kampana -ranki+chg.st. / =church -ADV / EN: 'abandoned.church'; ES: 'iglesia.abandonada' 
+# avaniranki / a- =va -ni -ranki+chg.st. / 1pl.poss- =sown.plot.of.land -aln.poss. -adv.p_t / EN: 'our.land.that.has.not.been.in.use/has.not.been.cultivated'; ES: 'nuestra.chacra.abandonada'  
+# 
+# notomiranki / no- =tomi -ranki / 1sg.poss- =son -ADV / EN: 'my.son.who.is.absent.at.the.present.moment' 
   "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}] 
 ];
       

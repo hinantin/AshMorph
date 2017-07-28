@@ -40,9 +40,12 @@ define ORootPRQin [
 # Positive Polarity a~ai
 # -------------------------------------------------------
 # aitapahive / =ai -t -ap -ah -i -ve / =PP -ep -dir -term -real -excl / EN: 'enough.of.sth.!'; ES: 'deja.de.hacer.algo!; basta.ya.de.algo' 
-| "[=aitapake][PostPol][=it.is.enough (ES: suficiente; basta.ya.de.algo)]" : {aitapake} 
-| "[=aitapahe][PostPol][=it.is.enough (ES: suficiente; basta.ya.de.algo)]" : {aitapahe} 
-| "[=aitapahi][PostPol][=it.is.enough (ES: suficiente; basta.ya.de.algo)]" : {aitapahi} 
+| "[=aitapake][PostPol][=it.is.enough (ES: bastar; suficiente; basta.ya.de.algo)]" : {aitapake} 
+| "[=aitapahe][PostPol][=it.is.enough (ES: bastar; suficiente; basta.ya.de.algo)]" : {aitapahe} 
+| "[=aitapahi][PostPol][=it.is.enough (ES: bastar;  suficiente; basta.ya.de.algo)]" : {aitapahi} 
+! 
+# aritapake pitsaeyaka / =a -ri -t -ap -ak -i pi- =tsaey -ak -a / =PP -rel -ep -dir -prf -real 2s- =to.lie -prf -real / EN: 'enough.of.lying'; ES: 'ya.basta.de.mentira' 
+| "[=aritapake][PostPol][=it.is.enough (ES: bastar; suficiente; basta.ya.de.algo)]" : {aritapake} 
 # copulative conjunction 
 | "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
 ! 
