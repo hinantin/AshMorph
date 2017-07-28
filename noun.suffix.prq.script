@@ -290,7 +290,10 @@ define N=S=CL [
 ! katsinkajari / katsinkahari / =katsinka -ha -ri / =to.be.cold -cl:liquid -rel / EN: 'cold.water; lit.: liquid.that.is.cold'; ES: 'agua.fría; lit.: líquido.que.está.frio' 
 | "[--][-ha][+CL:liquid][=liquid]" : {ha} ! @CL
 ! 
-| "[--][-ako][+CL:vessel][=vessel]" : {ako} ! @CL
+| "[--][-ako][+CL:vessel][=vessel]" : {ako} ! @CL 
+! 
+! 
+| "[--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation]" : {mashi} 
 ];
       
 define N=S=EXCL [
