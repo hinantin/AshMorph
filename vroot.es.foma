@@ -1,4 +1,5 @@
 define VRootESin [
-  "[=tejer][VRootEs][=to.weave (ES: tejer)]" : {tih} 
-| "[=meter][VRootEs][=to.put.sth.]" : {mete} 
+  "[=tej][VRootEs][=to.weave (ES: tejer)]" : {tih} 
+| "[=tej][VRootEs][=to.weave (ES: tejer)]" : {tij} 
+| "[=mete][VRootEs][=to.put.sth. (ES: meter]" : {mete} 
 ];
