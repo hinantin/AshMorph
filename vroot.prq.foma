@@ -1143,7 +1143,9 @@ define VRootPRQin [
 ! 
 | "[=tary][VRoot][=to.open.legs]" : {tary}
 ! 
-| "[=tash][VRoot][=to.be.hungry]" : {tash}
+| "[=tash][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tash}
+| "[=tashe][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tashe}
+| "[=tase][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tase}
 ! to roast with coal
 | "[=tashi][VRoot][=to.roast.with.coal]" : {tashi}
 ! 
