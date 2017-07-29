@@ -13,17 +13,17 @@ define N [
  (N=S=2poss) (N=S=poss) | 
  (N=S=ABS) (N=S=poss) | 
  (N=S=2poss) (N=S=ABS) (N=S=poss) | 
- (N=S=CL) (N=S=poss) (N=S=DIM) | 
+ (N=S=CL) (N=S=CL) (N=S=poss) (N=S=DIM) | 
  (N=S=LOC) (N=S=DIM) | 
- (N=S=CL) (N=S=LOC) | 
- (N=S=CL) (N=S=DEM) | 
+ (N=S=CL) (N=S=CL) (N=S=LOC) | 
+ (N=S=CL) (N=S=CL) (N=S=DEM) | 
  (N=S=CL) (N=S=CL) (N=S=DIM) | 
- (N=S=CL) | 
+ (N=S=CL) (N=S=CL) | 
  (N=S=poss) (N=S=LOC) (N=S=DEM) (N=S=EXCL) | 
  (N=S=poss) (N=S=ADVP) | 
- (N=S=2poss) (N=S=CL) (N=S=poss) | 
+ (N=S=2poss) (N=S=CL) (N=S=CL) (N=S=poss) | 
  (N=S=2poss) (N=S=DEM) | 
- (N=S=ABS) (N=S=CL) (N=S=AUG) | 
+ (N=S=ABS) (N=S=CL) (N=S=CL) (N=S=AUG) | 
  (N=S=ABS) (N=S=CL) (N=S=CL) | 
  (N=S=ABS) (N=S=DEM) | 
 
@@ -31,7 +31,7 @@ define N [
  (N=S=LOC) (N=S=PL) | 
  (N=S=PL) (N=S=LOC) | 
  (N=S=ABS) (N=S=PL) (N=S=LOC) | 
- (N=S=poss) (N=S=CL) ! pihariritsori / pi- =hari -ri -tsori / 2poss- =hari -poss -cl 
+ (N=S=poss) (N=S=CL) (N=S=CL) ! pihariritsori / pi- =hari -ri -tsori / 2poss- =hari -poss -cl 
 ! 
 
  (N=S=poss) (N=S=TEMPORALEXIST) (N=S=DEM) | 
@@ -41,8 +41,8 @@ define N [
  (N=S=DIM) (N=S=DIM) | 
  (N=S=LOC) (N=S=DEM) | 
  (N=S=DEM) | 
- (N=S=CL) (N=S=DEM) | 
- (N=S=CL) (N=S=ABS) | 
+ (N=S=CL) (N=S=CL) (N=S=DEM) | 
+ (N=S=CL) (N=S=CL) (N=S=ABS) | 
  (N=S=EMPH) | 
  (N=S=EMPH) (N=S=EMPH) | 
  (N=S=DIM) (N=S=smallpart) (N=S=DIM) | 
@@ -56,14 +56,14 @@ define N [
  (N=S=ADVP) | 
  (N=S=ADV) (N=S=LOC) | ! =aarontsi-paite-ki 
  (N=S=DEM) | 
- (N=S=CL) (N=S=smallpart) (N=S=DIM) | 
+ (N=S=CL) (N=S=CL) (N=S=smallpart) (N=S=DIM) | 
  (N=S=ABS) (N=S=EXCL) | 
  (N=S=EXCL) | 
- (N=S=CL) | 
- (N=S=CL) (N=S=PL) | 
+ (N=S=CL) (N=S=CL) | 
+ (N=S=CL) (N=S=CL) (N=S=PL) | 
  (N=S=CNTR) | 
  (N=S=leaf) (N=S=smallpart) (N=S=DIM) | 
- (N=S=CL) (N=S=LOC) | 
+ (N=S=CL) (N=S=CL) (N=S=LOC) | 
  (N=S=wide) (N=S=AUG) | 
  (N=S=NMZ) (N=S=NMZ) | 
  (N=S=poss) (N=S=LOC) (N=S=DEM) | 
@@ -71,7 +71,7 @@ define N [
  (N=S=LOC) (N=S=DEM) (N=S=EMPH) | 
  (N=S=PL) (N=S=DEM) | 
  (N=S=DUB) (N=S=EMPH) | 
- (N=S=CL) (N=S=poss) (N=S=LOC) (N=S=DEM) (N=S=EMPH) | 
+ (N=S=CL) (N=S=CL) (N=S=poss) (N=S=LOC) (N=S=DEM) (N=S=EMPH) | 
  (N=S=AUG) (N=S=NMZ) | 
  (N=S=AUG) (N=S=TEMPORALEXIST) | 
  (N=S=PROG) (N=S=REAL) | 
@@ -82,7 +82,7 @@ define N [
  (N=S=DIM) (N=S=DEM) | 
  (N=S=poss) (N=S=PL) (N=S=DEM) | 
  (N=S=DEM) | 
- (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM) | 
+ (N=S=CL) (N=S=CL) (N=S=LOC) (N=S=DIM) (N=S=DEM) | 
  (N=S=AUG) (N=S=LOC) | 
 ! nampitsihanikiki / =nampitsi -haniki -ki / =village -dim -loc / EN: 'in/to.the.small.village', ES: 'en/al.pueblito' 
 ! pankotsihaniki / =panko -tsi -haniki / =house -nposs -haniki / EN: 'small.house', ES: 'casita'
@@ -93,5 +93,5 @@ define N [
  (N=S=poss) (N=S=UNK1) (N=S=PL) | 
 # Verbal transitions with noun roots 
 ! anakyari / =ana -ki -ya -ri / =huito -cl -irr -rel 
- (N=S=CL) (N=S=IRR) (N=S=NMZ) 
+ (N=S=CL) (N=S=CL) (N=S=IRR) (N=S=NMZ) 
 ];
