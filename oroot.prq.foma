@@ -47,8 +47,8 @@ define ORootPRQin [
 # aritapake pitsaeyaka / =a -ri -t -ap -ak -i pi- =tsaey -ak -a / =PP -rel -ep -dir -prf -real 2s- =to.lie -prf -real / EN: 'enough.of.lying'; ES: 'ya.basta.de.mentira' 
 | "[=aritapake][PostPol][=it.is.enough (ES: bastar; suficiente; basta.ya.de.algo)]" : {aritapake} 
 # copulative conjunction 
-| "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
-| "[=hero][ConnRoot][COP.CONJ.][=and]" : {hero}
+| "[=hero+n.m.][ConnRoot][COP.CONJ.][=and]" : {hero} ! gender dependent??
+| "[=heri+m.][ConnRoot][COP.CONJ.][=and]" : {heri} ! gender dependent??
 ! 
 | "[=impoihi][ConnRoot][=after, later]" : {impoihi}
 | "[=impoihini][ConnRoot][=after, later]" : {impoihini}
