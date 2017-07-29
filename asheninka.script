@@ -138,7 +138,7 @@
       source vroot.prq.foma
       source vroot.es.foma
       source n-vroot.prq.foma 
-        define VRootPRQ [VRootPRQin|VRootEsin|NounToVerbPRQin];
+        define VRootPRQ [VRootPRQin|VRootESin|NounToVerbPRQin];
       
 #      define Verb FeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
 
