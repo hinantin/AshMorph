@@ -46,9 +46,14 @@ define ORootPRQin [
 ! 
 # aritapake pitsaeyaka / =a -ri -t -ap -ak -i pi- =tsaey -ak -a / =PP -rel -ep -dir -prf -real 2s- =to.lie -prf -real / EN: 'enough.of.lying'; ES: 'ya.basta.de.mentira' 
 | "[=aritapake][PostPol][=it.is.enough (ES: bastar; suficiente; basta.ya.de.algo)]" : {aritapake} 
-# copulative conjunction 
-| "[=hero+n.m.][ConnRoot][COP.CONJ.][=and]" : {hero} ! gender dependent??
-| "[=heri+m.][ConnRoot][COP.CONJ.][=and]" : {heri} ! gender dependent??
+# -----------------------------------------
+#         Copulative conjunction 
+# -----------------------------------------
+# These are gender dependent conjunctions.
+# [..] ora nampitsipe amazónicos jeri sharakasatipe [..] / ora nampitsipe amazónicos heri sharakasatipe / =ora =nampi+n.m. -tsi -pe =amazónico+AQ0MP00 =heri+m. =sharaka -sati+m. -pe / =that =country -nposs -pl =Amazonian =and =snow -cl:provenance -pl / EN: 'Amazonian.and.Andean.people'; ES: 'los.pueblos.amazónicos.y.andinos'  
+| "[=hero+n.m.][ConnRoot][COP.CONJ.][=and]" : {hero} 
+| "[=heri+m.][ConnRoot][COP.CONJ.][=and]" : {heri} 
+# -----------------------------------------
 ! 
 | "[=impoihi][ConnRoot][=after, later]" : {impoihi}
 | "[=impoihini][ConnRoot][=after, later]" : {impoihini}
