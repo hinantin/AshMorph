@@ -52,8 +52,8 @@ define ORootPRQin [
 # These are gender dependent conjunctions.
 # [..] ora nampitsipe amazónicos jeri sharakasatipe [..] / ora nampitsipe amazónicos heri sharakasatipe / =ora =nampi+n.m. -tsi -pe =amazónico+AQ0MP00 =heri+m. =sharaka -sati+m. -pe / =that =country -nposs -pl =Amazonian =and =snow -cl:provenance -pl / EN: 'Amazonian.and.Andean.people'; ES: 'los.pueblos.amazónicos.y.andinos'  
 # [..] nampitsipe Amazónica, jero sharakasatope [..] / nampitsipe Amazónica, hero sharakasatope / =nampi+n.m. -tsi -pe =amazónico+AQ0FS00 =hero+n.m. =sharaka -sato+n.m. -pe / =country -nposs -pl =Amazonian =and =snow -cl:provenance -pl / EN: 'Amazonian.and.Andean.people'; ES: 'los.pueblos.amazónicos.y.andinos'   
-| "[=hero+n.m.][ConnRoot][COP.CONJ.][=and]" : {hero} 
-| "[=heri+m.][ConnRoot][COP.CONJ.][=and]" : {heri} 
+| "[=hero+n.m.][ConnRoot][COP.CONJ.][=and (ES: y)]" : {hero} 
+| "[=heri+m.][ConnRoot][COP.CONJ.][=and (ES: y)]" : {heri} 
 # -----------------------------------------
 ! 
 | "[=impoihi][ConnRoot][=after, later]" : {impoihi}
