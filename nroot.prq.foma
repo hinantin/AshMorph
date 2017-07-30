@@ -534,7 +534,9 @@ define NRootPRQin [
 | "[=inkani+n.m.][NRoot][=rain (ES: lluvia)]" : {inkani}
 | "[=inkane+n.m.][NRoot][=rain (ES: lluvia)]" : {inkane}
 ! 
+| "[=inkari+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkari}
 | "[=inkaari+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkaari}
+| "[=inkare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkare}
 | "[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkaare}
 | "[=inkahare][NRoot][=lagoon]" : {inkahare}
 ! 
@@ -2602,10 +2604,10 @@ define NRootPRQin [
 ! 
 | "[=taabato][NRoot][=calf]" : {taabato}
 ! back, bottom
-| "[=taapi+inal.][NRoot][=back; bottom]" : {taapi}
-| "[=tapi+inal.][NRoot][=back; bottom]" : {tapi}
-| "[=tapii+inal.][NRoot][=back; bottom]" : {tapii}
-| "[=taapii+inal.][NRoot][=back; bottom]" : {taapii}
+| "[=taapi+inal.][NRoot][=back; bottom]" : {taapi} ! @CMP
+| "[=tapi+inal.][NRoot][=back; bottom]" : {tapi} ! @CMP
+| "[=tapii+inal.][NRoot][=back; bottom]" : {tapii} ! @CMP
+| "[=taapii+inal.][NRoot][=back; bottom]" : {taapii} ! @CMP
 | "[=taapiiki+inal.][NRoot][=back]" : {taapiiki}
 ! 
 # tapetsatapo / =tapetsa =tapo / =vine.sp. =IDEO:round.object / ES: 'tamshi.en.círculo', EN: 'a.vine.in.a.circle-shape' 

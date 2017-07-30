@@ -19,6 +19,10 @@ define NRootCmpPRQin [
 | "[--][=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {shiya} ! @CMP 
 | "[--][=shaa+n.m.][NRoot][=palm.tree.sp. (ungurahui, unguravi, it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats)]" : {shaa} ! @CMP 
 | "[--][=vaNki][NRoot][=feather; wing_feather]" : {vanki} ! @CMP N@->V 
+| "[--][=taapi+inal.][NRoot][=back; bottom]" : {taapi} ! @CMP
+| "[--][=tapi+inal.][NRoot][=back; bottom]" : {tapi} ! @CMP
+| "[--][=tapii+inal.][NRoot][=back; bottom]" : {tapii} ! @CMP
+| "[--][=taapii+inal.][NRoot][=back; bottom]" : {taapii} ! @CMP
 | "[--][=tsantsa][NRoot][=long (in.length); big]" : {tsantsa} ! N@->V @CMP
 | "[--][=santsa][NRoot][=long (in.length)]" : {santsa} ! N@->V @CMP
 | "[--][=hantsa][NRoot][=long (in.length)]" : {hantsa} ! N@->V @CMP
