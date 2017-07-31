@@ -143,7 +143,7 @@ define N=S=CL [
 | "[--][-ke][+CL:S.R.H][=small,round;hard]" : {ke} ! sheyaque @CL 
 ! 
 | "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} 
-| "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana; tree_bark]" : {tsa} 
+| "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana; tree_bark; curvilinear]" : {tsa} 
 ! 
 # --------------------------------------------------------------------------------
 ! =antyaro-tsantsa ES: 'alargado', EN: ; =ari-tsantsa ES: 'muy largo'. EN: ; V: =kimo-tsantsa ES: 'muy largo, largo', EN: ; 
@@ -173,6 +173,8 @@ define N=S=CL [
 ! 
 # inchaponkitzikinta / =incha -ponkitzi -ki -nta / =plant -cl:stump -loc -dem / EN: 'in.that.tree_stump.over.there', ES: 'allá.en.ese.tronco' 
 | "[--][-ponkitzi][+CL:ground-level.part.of.tree.trunk][=ground-level.part.of.tree.trunk; stump]" : {ponkitzi} 
+! 
+| "[--][-pontso][+CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point]" : {pontso}
 ! 
 # manironiro / =maniro -niro / =deer -cl:dangerous.to.eat / EN: 'deer.dangerous.for.consumption', ES: 'venado maniro que sospechan sea un peyari' 
 | "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions; dangerous.to.eat]" : {niro} 
@@ -240,6 +242,8 @@ define N=S=CL [
 ! kamarasanori / =kamara -sanori / =cinnamon.color -cl:real / EN: 'cream.color'; ES: 'color.crema'  
 | "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori}  
 #-----------------------------------------------
+| "[--][-shontyoki][+CL:oval,grain-like][=oval, grain-like]" : {shontyoki} 
+# ----------------------------------------------
 ! kotsiropeta / =kotsiro -peta / =machete -cl / ES: 'machete.viejo', EN: 'old.machete'  
 | "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} 
 | "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
@@ -258,8 +262,9 @@ define N=S=CL [
 | "[--][-tsaraa][+CL:fabric][=fabric]" : {tsaraa} 
 #-----------------------------------------------
 | "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni}
+| "[--][-tenka][+CL:longitudinal.depression][=longitudinal.depression]" : {tenka}
 #-----------------------------------------------
-| "[--][-pompoina][+CL:ball][=ball]" : {pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
+| "[--][-pompoina][+CL:ball][=ball-like, spherical]" : {pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
 | "[--][-pompoito][+CL:spherical][=spherical]" : {pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.' @CL 
 | "[--][-pompoki][+CL:spherical][=spherical]" : {pompoki} ! itapiki kantapompokitzi / i=tapi-ki =kant-a-pompoki-tz-i / 3m.poss=back-loc =be.this.way-CL:spherical-ep-real 
 #-----------------------------------------------
@@ -273,8 +278,8 @@ define N=S=CL [
 !  -ito~-to 'head, the.heights.of.sth.', source is iitontsi =iito-ntsi =head-nposs
 ! Manitzito / =manitzi -to / =tiger -cl:heights.of.sth. / EN: 'hill.whose.upper-part.is.inhabited.by.a.man-eating.jaguar' 
 ! Pamoroitoni / =pamoro -ito -ni / =dove.sp. -cl:heights.of.sth. -cl:watercourse  / EN: 'hill.with.a.stream.where.the.pamoro-dove.sp.lives.in.its.upper.part' 
-| "[--][-ito][+CL:head][=head,the.heights.of.sth.]" : {ito}
-| "[--][-i^to][+CL:head][=head,the.heights.of.sth.]" : {to}
+| "[--][-ito][+CL:head][=head,the.heights.of.sth.; upper.part,inhabited.by.a.supernatural.entity]" : {ito}
+| "[--][-i^to][+CL:head][=head,the.heights.of.sth.; upper.part,inhabited.by.a.supernatural.entity]" : {to}
 ! 
 ! Shimaki / =shima -ki / =fish -cl:human.populated / EN: 'place.populated.by.humans.where.shima/chupadora-fish.is.abundant' 
 | "[--][-ki][+CL:human.populated][=place.populated.by.humans]" : {ki} 
@@ -283,6 +288,8 @@ define N=S=CL [
 #-----------------------------------------------
 ! 
 | "[--][-mo][+CL:hole][=hole]" : {mo}
+! 
+| "[--][-monki][+CL:small-scale.convexity][=small-scale.convexity]" : {monki}
 #-----------------------------------------------
 ! otsapiha nihateni / o- =tsapi -ha =niha -teni / 3n.m.poss- =edge -cl =water -cl / EN: 'bank.of.a_water_bed/a_semi-permanent_stream-or-brook' 
 ! kimoha / =kimo -ha / =to.grow.in.size/volume -cl:liquid / ES: 'liquid.increase', ES: 'creciente' 
