@@ -91,7 +91,7 @@ define NumeralPRQin [
 ];
 
 # ---------------------------------------
-# Numerals 
+# Cardinal numbers
 # ---------------------------------------
 
 # 0 / tekatsi / ...
@@ -145,5 +145,33 @@ define NumeralPRQin [
 # 1000 / irinka / =irinka / =one.thousand / EN: 'one.thousand', ES: 'mil' 
 # 2000 / pite irinka / =pite =irinka / =two =one.thousand / EN: 'two.thousand', ES: 'dos.mil' 
  
+# ---------------------------------------
+# Ordinal numbers
+# ---------------------------------------
 
+# 1st / INTARONI / EN: 'First'
+# 2nd / APITETANI / EN: 'Second'
+# 3rd / MABATANI / EN: 'Third'
+# 4th / OTSIPATETANI / EN: 'Fourth'
+# 5th / APINTATATSINI / EN: 'Fifth'
+# 6th / OEJATITANI / EN: 'Sixth'
+# 7th / YANTSIRITANI / EN: 'Seventh'
+# 8th / TSOTITANI / EN: 'Eighth'
+# 9th / PASHINETANI / EN: 'Ninth'
+# 10th / OSHEKINI / EN: 'Tenth'
+# 11th / APARO OSHEKINI / EN: 'Eleventh'
+# 12th / APITE OSHEKINI / EN: 'Twelfth'
+# 13th /  / EN: 'Thirteenth'
+# 14th /  / EN: 'Fourteenth'
+# 15th /  / EN: 'Fifteenth'
+# 16th /  / EN: 'Sixteenth'
+# 17th /  / EN: 'Seventeenth'
+# 18th /  / EN: 'Eighteenth'
+# 19th /  / EN: 'Nineteenth'
+# 20th /  / EN: 'Twentieth'
+# 21st /  / EN: 'Twenty-first'
+# 22nd /  / EN: 'Twenty-second'
+# 23rd /  / EN: 'Twenty-third'
+# 24th /  / EN: 'Twenty-fourth'
+# 25th /  / EN: 'Twenty-fifth'
 
