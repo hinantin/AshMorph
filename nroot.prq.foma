@@ -1217,7 +1217,7 @@ define NRootPRQin [
 | "[=kovitzi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovitzi}
 | "[=kovi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovi}
 ! 
-| "[=koviri+m.][NRoot][=fish.sp. (ES: corvina)]" : {koviri}
+| "[=koviri+m.][NRoot][=corvina-fish (ES: corvina)]" : {koviri}
 ! 
 | "[=koteri][NRoot][=gray-necked.wood.rail (sci.nm.: aramides.jacanca)]" : {koteri}
 ! 
@@ -1476,6 +1476,9 @@ define NRootPRQin [
 ! 
 | "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ESP: alcanfor)]" : {metasankari} ! compound 
 | "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ESP: alcanfor)]" : {mitasankari} ! compound 
+! 
+| "[=miti+inal.][NRoot][=spine (ES: columna.vertebral)]" : {miti}
+| "[=mitzi+inal.][NRoot][=spine (ES: columna.vertebral)]" : {mitzi}
 ! 
 | "[=mitiri][NRoot][=dusky-headed.parakeet (sci.nm.: aratinga.weddelli)]" : {mitiri}
 ! 

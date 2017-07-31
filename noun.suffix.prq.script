@@ -137,6 +137,7 @@ define N=S=CL [
 | "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} ! @CL 
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
 
+! inkaña / inkanya / =inka -nya / =rain.related -cl:small.shallow.pool / EN: 'small.shallow.pool.of.rainwater' 
 | "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} 
 | "[--][-na][+CL:long.hollow][=long,hollow; round,hollow; large,deep.pool.of.water]" : {na} 
 | "[--][-nya][+CL:small.shallow.pool][=small.shallow.pool.of.water]" : {nya} 
