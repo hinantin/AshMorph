@@ -136,7 +136,8 @@ define N=S=CL [
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
 
 | "[--][-naki][+CL:round.hollow][=round,hollow]" : {naki} 
-| "[--][-na][+CL:long.hollow][=long,hollow; round,hollow]" : {na} 
+| "[--][-na][+CL:long.hollow][=long,hollow; round,hollow; large,deep.pool.of.water]" : {na} 
+| "[--][-nya][+CL:small.shallow.pool][=small.shallow.pool.of.water]" : {nya} 
 ! 
 | "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} ! @CL 
 | "[--][-ke][+CL:S.R.H][=small,round;hard]" : {ke} ! sheyaque @CL 
@@ -268,7 +269,7 @@ define N=S=CL [
 ! 
 ! -ni 'watercourse', a truncated version of nija 'water'
 ! kovirini / =koviri -ni / =corvina.fish -cl:watercourse / EN: 'river.where.corvina_fish.is.abundant' 
-| "[--][-ni+place][+CL:watercourse][=watercourse]" : {ni}
+| "[--][-ni+place][+CL:watercourse][=watercourse, running.water.feature]" : {ni}
 !  -ito~-to 'head, the.heights.of.sth.', source is iitontsi =iito-ntsi =head-nposs
 ! Manitzito / =manitzi -to / =tiger -cl:heights.of.sth. / EN: 'hill.whose.upper-part.is.inhabited.by.a.man-eating.jaguar' 
 ! Pamoroitoni / =pamoro -ito -ni / =dove.sp. -cl:heights.of.sth. -cl:watercourse  / EN: 'hill.with.a.stream.where.the.pamoro-dove.sp.lives.in.its.upper.part' 
