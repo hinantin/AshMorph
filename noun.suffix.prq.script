@@ -90,8 +90,9 @@ define N=S=ABS [
 ];
       
 define N=S=CL [
-  "[--][-chaari][=dark.water]" : {chaari} 
-| "[--][-chari][=dark.water]" : {chari} 
+# -chari~-chaari: grassy bottom of the river; zone.inhabited by the rainbow spirit oye  
+  "[--][-chaari][=dark.water; grassy.bottom.of.the.river]" : {chaari} 
+| "[--][-chari][=dark.water; grassy.bottom.of.the.river]" : {chari} 
 ! 
 # nihaatsapiaki / =nihaa -tsapia -ki / =river -cl:bank -loc / ES: 'en.la.orilla.del.río', EN: 'in.the.river.bank'  
 # konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
@@ -289,6 +290,7 @@ define N=S=CL [
 ! niyankiha niha / =niyanki -ha =niha / =in.the.center.of.sth. -cl:liquid =water / EN: 'the middle channel of the river' 
 ! katsinkajari / katsinkahari / =katsinka -ha -ri / =to.be.cold -cl:liquid -rel / EN: 'cold.water; lit.: liquid.that.is.cold'; ES: 'agua.fría; lit.: líquido.que.está.frio' 
 | "[--][-ha][+CL:liquid][=liquid]" : {ha} ! @CL
+| "[--][-aa][+CL:liquid][=liquid]" : {aa} 
 ! 
 | "[--][-ako][+CL:vessel][=vessel]" : {ako} ! @CL 
 ! 
