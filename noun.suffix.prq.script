@@ -266,6 +266,7 @@ define N=S=CL [
 | "[--][-tsara][+CL:fabric][=fabric]" : {tsara} 
 | "[--][-tsaraa][+CL:fabric][=fabric]" : {tsaraa} 
 #-----------------------------------------------
+! nijateni / nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'creek'; ES: 'riachuelo'
 | "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni}
 | "[--][-tenka][+CL:longitudinal.depression][=longitudinal.depression]" : {tenka}
 #-----------------------------------------------
