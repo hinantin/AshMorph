@@ -266,7 +266,10 @@ define N=S=CL [
 | "[--][-tsara][+CL:fabric][=fabric]" : {tsara} 
 | "[--][-tsaraa][+CL:fabric][=fabric]" : {tsaraa} 
 #-----------------------------------------------
-! nijateni / nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'creek; ravine'; ES: 'riachuelo; quebrada'
+! nijateni / nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'creek; ravine'; ES: 'riachuelo; quebrada' 
+! oteni /  / EN: ''; ES: 'quebrada.seca' 
+! osanteni /  / EN: ''; ES: 'quebrada.seca' 
+! ojanteni / ohanteni /  / EN: ''; ES: 'quebrada.seca' 
 | "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni}
 | "[--][-tenka][+CL:longitudinal.depression][=longitudinal.depression]" : {tenka}
 #-----------------------------------------------
