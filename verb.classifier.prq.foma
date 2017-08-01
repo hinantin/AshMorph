@@ -7,6 +7,7 @@ define V=S=CL [
 | "[--][-pooki][+CL:quantity][=bunch,group]" : "@EP"{pooki} ! @CL 
 | "[--][-ki][+CL:S.R.H][=small,round;hard]" : "@EP"{ki} ! @CL 
 | "[--][-ke][+CL:S.R.H][=small,round;hard]" : "@EP"{ke} ! sheyaque @CL 
+| "[--][-tenka][+CL:longitudinal.depression][=longitudinal.depression]" : "@EP"{tenka} ! @CL  
 | "[--][-pompoina][+CL:ball][=ball-like, spherical]" : "@EP"{pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
 | "[--][-pompoito][+CL:spherical][=spherical]" : "@EP"{pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.' @CL 
 | "[--][-ha][+CL:liquid][=liquid]" : "@EP"{ha} ! @CL
