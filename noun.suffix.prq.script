@@ -267,9 +267,9 @@ define N=S=CL [
 | "[--][-tsaraa][+CL:fabric][=fabric]" : {tsaraa} 
 #-----------------------------------------------
 ! nijateni / nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'creek; ravine'; ES: 'riachuelo; quebrada' 
-! oteni /  / EN: ''; ES: 'quebrada.seca' 
-! osanteni /  / EN: ''; ES: 'quebrada.seca' 
-! ojanteni / ohanteni /  / EN: ''; ES: 'quebrada.seca' 
+! oteni / =o -teni / =dry.weather -cl:longitudinal.depression / EN: 'dry.ravine'; ES: 'quebrada.seca' 
+! osanteni / =osan -teni / =dry.weather -cl:longitudinal.depression / EN: 'dry.ravine'; ES: 'quebrada.seca' 
+! ojanteni / ohanteni / =ohan -teni / =dry.weather -cl:longitudinal.depression / EN: 'dry.ravine'; ES: 'quebrada.seca' 
 | "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression]" : {teni}
 | "[--][-tenka][+CL:longitudinal.depression][=longitudinal.depression]" : {tenka}
 #-----------------------------------------------
@@ -310,8 +310,8 @@ define N=S=CL [
 ! kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato'  
 ! shinkia / =shinki -a / =corn -cl:liquid / ES: 'bebida.de.maíz, chicha.espesa'; EN: 'thick.corn.beer, thick-chicha-like.beverage'  
 ! niyankia / =niyanki -a / =middle -cl:liquid / ES: 'parte.media.del.río'; EN: "river's.main.channel (lit.: river's.middle.part)"  
-| "[--][-aa][+CL:liquid][=liquid]" : {aa} 
-| "[--][-a][+CL:liquid][=liquid]" : {a} 
+| "[--][-aa][+CL:liquid][=liquid]" : {aa} ! @CL 
+| "[--][-a][+CL:liquid][=liquid]" : {a} ! @CL 
 ! 
 | "[--][-ako][+CL:vessel][=vessel]" : {ako} ! @CL 
 ! 
