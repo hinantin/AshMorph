@@ -218,6 +218,7 @@ define V=S=EXCL [
 define V=S=STAT [
 # -------- STATIVITY MARKERS -------------
 ! koiteatsiri / =koite -atsi -ri / =to.be.in.need -stat -rel / EN: 'poor'; ES: 'pobre' 
+! betsikayetatsiri / vetsikayetatsiri / =vetsik -a -ye -t -atsi -ri / =to.create -ep -dist -ep -stat -rel / EN: 'invention (thing/idea.that.has.been.invented)'; ES: 'invento'  
   "[--][-atsi][+STAT]" : "@EP"[{atsi}]
 ! taachari / =ta -acha -ri / =to.burn -stat -rel / EN: 'the.burned.one', ES: 'quemado'
 ! nashitachari / =nashi -t -acha -ri / =to.separate -ep -stat -rel / EN: 'different.one'; ES: 'diferente' 
