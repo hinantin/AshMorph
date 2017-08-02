@@ -2077,7 +2077,9 @@ define NRootPRQin [
 ! 
 | "[=ponke+m.][NRoot][=eel.sp.]" : {ponke}
 ! 
-| "[=ponkitzi+inal.][NRoot][=ground; trunk]" : {ponkitzi}
+| "[=ponkitzi+inal.][NRoot][=ground]" : {ponkitzi}
+| "[=ponkitzi+inal.][NRoot][=(tree).trunk]" : {ponkitzi} ! 
+| "[=ponkitzi][NRoot][=edge]" : {ponkitzi}
 ! 
 | "[=ponoro+m.][NRoot][=bird.sp.]" : {ponoro}
 ! 
