@@ -983,8 +983,8 @@ define NRootPRQin [
 ! 
 | "[=kentyoviri][NRoot][=white-crested.spadebill (sci.nm.: platyrinchus.platyrynchos)]" : {kentyoviri}
 ! 
-| "[=kentsi+n.m.+inal.][NRoot][=neck, nape]" : {kentsi}
-| "[=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi}
+| "[=kentsi+n.m.+inal.][NRoot][=neck, nape]" : {kentsi} ! @VCMP 
+| "[=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi} ! @VCMP 
 ! 
 | "[=kintsori+poss@ti.][NRoot][=partridge.sp. (ESP: perdiz); blue.quail]" : {kintsori}
 | "[=kentsori+poss@ti.][NRoot][=great.tinamou (sci.nm.: tinamus.major)]" : {kentsori}
