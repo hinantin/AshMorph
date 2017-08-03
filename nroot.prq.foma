@@ -531,6 +531,7 @@ define NRootPRQin [
 # ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
 | "[=inchashinari+healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
 ! 
+| "[=inka][NRoot][=rain (ES: lluvia)]" : {inka}
 | "[=inkani+n.m.][NRoot][=rain (ES: lluvia)]" : {inkani}
 | "[=inkane+n.m.][NRoot][=rain (ES: lluvia)]" : {inkane}
 ! 
@@ -1555,8 +1556,8 @@ define NRootPRQin [
 | "[=neronto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {neronto}
 | "[=nironto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {nironto}
 ! 
-| "[=nihaa][NRoot][=water, river]" : {nihaa}
-| "[=niha][NRoot][=water, river]" : {niha}
+| "[=nihaa][NRoot][=water, river]" : {nihaa} ! @CMP 
+| "[=niha][NRoot][=water, river]" : {niha} ! @CMP 
 ! 
 | "[=nihateni][NRoot][=brook; creek]" : {nihateni}
 ! 
