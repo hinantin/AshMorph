@@ -53,6 +53,10 @@ define S [
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) | 
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) | 
  V=S=noun ("@LEN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) (V=S=COND) | 
+! o-kant-a-pankaina-aty-a 
+                                          (V=S=CL)  (V=S=PROG) (V=S=IRR) | 
+! o-kant-a-pontso-t-ap-ak-a 
+                                          (V=S=CL)  (V=S=DIR) (V=S=PRF) (V=S=IRR) | 
 # -----------------------------------------------------------------------------
 # V=S=noun (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
 # (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 

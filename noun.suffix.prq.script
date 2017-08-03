@@ -107,7 +107,7 @@ define N=S=CL [
 ! Plant-based parts in compounds 
 | "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]" : {shi} 
 # --------------------------------------------------
-| "[--][-pankaina][+CL:bare,flat][=bare, flat]" : {pankaina} 
+| "[--][-pankaina][+CL:bare,flat][=bare, flat]" : {pankaina} ! @CL  
 # --------------------------------------------------
 # inchapanki / =incha -panki / =plant -cl:plank / EN: 'plank'; ES: 'palo' 
 | "[--][-panki][+CL:plank][=plank;to.grow]" : {panki} 
@@ -180,7 +180,7 @@ define N=S=CL [
 # inchapontso / =incha -pontso / =plant -cl:with.a.blunt.end / EN: 'wooden.peg'; ES: 'estaca'  
 # otzishipontso / =otzishi -pontso / =hill -cl:with.a.blunt.end / EN: 'sloping.hill.with.a.rounded.top' 
 # omitzitsapontso / =omitzitsa -pontso / =wavy.summit.of.hill -cl:with.a.blunt.end / EN: 'rolling.hill.with.a.rounded.top' 
-| "[--][-pontso][+CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point]" : {pontso} 
+| "[--][-pontso][+CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point]" : {pontso} ! @CL  
 ! 
 # manironiro / =maniro -niro / =deer -cl:dangerous.to.eat / EN: 'deer.dangerous.for.consumption', ES: 'venado maniro que sospechan sea un peyari' 
 | "[--][-niro][+CL:wild][=wild, growing.in.natural.conditions; dangerous.to.eat]" : {niro} 
