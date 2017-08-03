@@ -44,7 +44,7 @@ define NounToVerbPRQin [
 | "[=koya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {koya} ! N@->V
 | "[=mapi+n.m.+poss@ni.][NRoot][=stone; rock]+vbz." : {mapi} ! N@->V 
 | "[=matsi+m.][NRoot][=(human).witch]+vbz." : {matsi} ! N@->V 
-| "[=mavoshi+n.m.+inal.][NRoot][=nest]+vbz." : {mavoshi} ! N@->V
+| "[=mavoshi+n.m.+inal.][NRoot][=nest; grassy.nest]+vbz." : {mavoshi} ! N@->V
 | "[=maashi+n.m.+inal.][NRoot][=nest]+vbz." : {maashi} ! N@->V
 | "[=menkoshi+n.m.+inal.][NRoot][=bird.nest]+vbz." : {menkoshi} ! N@->V
 | "[=minkoshi+n.m.+inal.][NRoot][=bird.nest]+vbz." : {minkoshi} ! N@->V

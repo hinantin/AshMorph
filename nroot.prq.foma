@@ -1487,6 +1487,8 @@ define NRootPRQin [
 ! 
 | "[=moimoitzi][NRoot][=smooth-billed.ani (sci.nm.: crotophaga.ani)]" : {moimoitzi}
 ! 
+| "[=monkitzi][NRoot][=small-scale.convexity]" : {monkitzi}
+! 
 | "[=mora][NRoot][=mule]" : {mora}
 ! 
 | "[=moraina][NRoot][=greater.ani (sci.nm.: crotophaga.major)]" : {moraina}
@@ -2611,10 +2613,10 @@ define NRootPRQin [
 ! 
 | "[=taabato][NRoot][=calf]" : {taabato}
 ! back, bottom
-| "[=taapi+inal.][NRoot][=back; bottom]" : {taapi} ! @CMP
-| "[=tapi+inal.][NRoot][=back; bottom]" : {tapi} ! @CMP
-| "[=tapii+inal.][NRoot][=back; bottom]" : {tapii} ! @CMP
-| "[=taapii+inal.][NRoot][=back; bottom]" : {taapii} ! @CMP
+| "[=taapi+inal.][NRoot][=back (body.part); bottom]" : {taapi} ! @CMP
+| "[=tapi+inal.][NRoot][=back (body.part); bottom]" : {tapi} ! @CMP
+| "[=tapii+inal.][NRoot][=back (body.part); bottom]" : {tapii} ! @CMP
+| "[=taapii+inal.][NRoot][=back (body.part); bottom]" : {taapii} ! @CMP
 | "[=taapiiki+inal.][NRoot][=back]" : {taapiiki}
 ! 
 # tapetsatapo / =tapetsa =tapo / =vine.sp. =IDEO:round.object / ES: 'tamshi.en.círculo', EN: 'a.vine.in.a.circle-shape' 
