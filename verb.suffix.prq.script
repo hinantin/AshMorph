@@ -606,6 +606,7 @@ define V=S=SUB [
 define V=S=NEG [
   "[--][-tsi+future][+NEG]" : "@EP"[{tsi}] 
 | "[--][-tzi+future][+NEG]" : "@EP"[{tzi}] 
+# te inkantaje / te inkantahe / =te i- N- =kant -a -he / 3m.s- =neg.real 3m.s- irr- =to.say -real -neg  / EN: 'invalid'; ES: 'inválido' 
 | "[--][-he+past][+NEG]" : "@EP"[{he}] 
 | "[--][-hi+past][+NEG]" : "@EP"[{hi}] 
 ];
