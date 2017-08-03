@@ -133,8 +133,10 @@ define N=S=CL [
 
 | "[--][-kota][+CL:piece][=piece]" : {kota} 
        ! .. 
+# mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stone.pile'  
 | "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} ! @CL 
 | "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} ! @CL 
+# 
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
 
 ! inkaña / inkanya / =inka -nya / =rain.related -cl:small.shallow.pool / EN: 'small.shallow.pool.of.rainwater' 
