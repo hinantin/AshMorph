@@ -106,7 +106,7 @@ define N=S=CL [
 ! Size related classifier 
 # -------------------------------
 # ishikopatsa / =ishiko -patsa / =lime -cl:quantitity-tiny.piece / EN: 'soil.with.abundant.lime.stones'  
-| "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} 
+| "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} ! @CL 
 ! ?
 | "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} 
 ! Plant-based parts in compounds 

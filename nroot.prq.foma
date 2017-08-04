@@ -115,7 +115,7 @@ define NRootPRQin [
 | "[=ãtame][NRoot][=woods, forest; dense.tropical.forest]" : {ãtame} ! N@->V
 | "[=antame][NRoot][=woods, forest (ES: selva, PT: floresta); dense.tropical.forest]" : {antame} 
 ! 
-| "[=antamishi][NRoot][=impenetratable.tropical.forest]" : {antamishi}
+| "[=antamishi][NRoot][=impenetratable.tropical.forest.with.a_lot_of.vines]" : {antamishi}
 ! 
 | "[=antoko][NRoot][=person's.name]" : {antoko}
 ! 
@@ -527,6 +527,9 @@ define NRootPRQin [
 ! 
 | "[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {inchatonaki} 
 | "[=intxatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (cosho)]" : {intxatonaki} 
+! 
+| "[=inchatoshi][NRoot][=open.forest]" : {inchatoshi} 
+! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
 ! 
 | "[=inchashi+n.m.][NRoot][=herb; shrubs; weeds]" : {inchashi}

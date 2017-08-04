@@ -3,6 +3,7 @@
 # -----------------
 define V=S=CL [ 
   "[--][-tsapiya][+CL:side.of.river][=bank, side.of.river]" : "@EP"{tsapiya} ! @CL 
+| "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : "@EP"{patsa} ! @CL 
 | "[--][-pankaina][+CL:bare,flat][=bare, flat]" : "@EP"{pankaina} ! @CL  
 | "[--][-poroki][+CL:quantity][=bunch,group]" : "@EP"{poroki} ! @CL 
 | "[--][-pooki][+CL:quantity][=bunch,group]" : "@EP"{pooki} ! @CL 
