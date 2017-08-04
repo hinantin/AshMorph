@@ -111,9 +111,9 @@ define NRootPRQin [
 | "[=amporetsa][NRoot][=intestine]" : {amporetsa}
 ! 
 # antami: dense tropical forest 
-| "[=antami][NRoot][=woods, forest]" : {antami} ! N@->V
-| "[=ãtame][NRoot][=woods, forest]" : {ãtame} ! N@->V
-| "[=antame][NRoot][=woods, forest (ES: selva, PT: floresta)]" : {antame} 
+| "[=antami][NRoot][=woods, forest; dense.tropical.forest]" : {antami} ! N@->V
+| "[=ãtame][NRoot][=woods, forest; dense.tropical.forest]" : {ãtame} ! N@->V
+| "[=antame][NRoot][=woods, forest (ES: selva, PT: floresta); dense.tropical.forest]" : {antame} 
 ! 
 | "[=antoko][NRoot][=person's.name]" : {antoko}
 ! 
