@@ -102,7 +102,10 @@ define N=S=CL [
 | "[--][-tsapyaa][+CL:side.of.river][=bank, side.of.river]" : {tsapyaa} 
 | "[--][-tsapiya][+CL:side.of.river][=bank, side.of.river]" : {tsapiya} ! @CL 
 | "[--][-tsapia][+CL:side.of.river][=bank, side.of.river]" : {tsapia} 
+# -------------------------------
 ! Size related classifier 
+# -------------------------------
+# ishikopatsa / =ishiko -patsa / =lime -cl:quantitity-tiny.piece / EN: 'soil.with.abundant.lime.stones'  
 | "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} 
 ! ?
 | "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} 
