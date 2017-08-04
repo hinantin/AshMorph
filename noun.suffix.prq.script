@@ -477,6 +477,11 @@ define N=S=UNK1 [
   "[--][-rinte][+UNK1]" : [{rinte}]
 ];
       
+define N=S=SUPERL [
+# otsiteninkataki / o- =tsiteni -nka -taki / 3n.m.poss- =to.get.dark -nmz -superl / EN: 'totally.dark'  
+  "[--][-taki][+SUPERL]" : [{taki}]
+| "[--][-tanaki][+SUPERL]" : [{tanaki}]
+];
 
 # ##############################
 #         Abbreviations         
