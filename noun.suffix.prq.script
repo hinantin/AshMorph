@@ -1,8 +1,10 @@
 ! alienable possession?
 define N=S=poss [
+# animate / animado 
   "[--][-te][Gen][+aln.poss.]" : {te} 
 | "[--][-ti][Gen][+aln.poss.]" : {ti} 
 ! 
+# inanimate / inanimado 
 | "[--][-ni][Gen][+aln.poss.]" : {ni} 
 | "[--][-ne][Gen][+aln.poss.]" : {ne} 
 ! 
