@@ -384,7 +384,7 @@ define NRootPRQin [
 | "[=hamani][NRoot][=rodent.sp., paca (picuro, majás, majas, zamaño)]" : {hamani}
 | "[=hamaani][NRoot][=rodent.sp., paca (picuro, majás, majas, zamaño)]" : {hamaani}
 ! 
-| "[=hampovatsa+poss@te.][NRoot][=mud (ES: barro); clay]" : {hampovatsa}
+| "[=hampovatsa+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like, muddy soil]" : {hampovatsa}
 | "[=sampovatsa+poss@te.][NRoot][=mud (ES: barro); clay]" : {sampovatsa}
 ! 
 | "[=haipempe][NRoot][=white-plumed.antbird (sci.nm.: pithys.albifrons)]" : {haipempe}
@@ -590,6 +590,8 @@ define NRootPRQin [
 | "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
 | "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
+! 
+| "[=ishiko+poss@te.][NRoot][=lime (ES: cal)]" : {ishiko}
 ! 
 | "[=kaonkari][NRoot][=green-billed.toucanet (sci.nm.: selenidera.reirwardtii)]" : {kaonkari}
 ! 
