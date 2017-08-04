@@ -994,6 +994,7 @@ define NRootPRQin [
 | "[=kepiya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepiya}
 ! 
 # ---------------------------------------------------------------------------
+# kipatsi: country, earth, soil, ground, land, dirt, dust 
 | "[=kipatsi+n.m.+poss@te.][NRoot][=ground, mud, earth; land]" : {kipatsi}
 | "[=kipatsiki][NRoot][=world (ES: mundo)]" : {kipatsiki}
 | "[=kipatsini][NRoot][=ground (ES: suelo)]" : {kipatsini}
@@ -1656,6 +1657,8 @@ define NRootPRQin [
 | "[=oritsi+m.][NRoot][=lobster.sp., crustacean.sp.]" : {oritsi}
 ! 
 | "[=oovero][NRoot][=hawk.sp., hawk, bird.sp.]" : {oovero}
+! 
+| "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)]" : {oventeni}
 ! 
 | "[=pakitsa+m.][NRoot][=hawk.sp., sparrow.hawk.sp.]" : {pakitsa}
 ! 
