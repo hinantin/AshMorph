@@ -40,10 +40,12 @@ define AdvRootPRQin [
 | "[=oponya][AdvRoot][=then]" : {oponyaa}
 | "[=osaikera][AdvRoot][=tomorrow]" : {osaikera}
 | "[=osaitekera][AdvRoot][=tomorrow]" : {osaitekera}
-| "[=osamani][AdvRoot][=some.time.later]" : {osamani}
+! 
+| "[=osamani][AdvRoot][=some.time.later; later.on]" : {osamani}
 | "[=osamani][AdvRoot][=late]" : {osamani}
 | "[=osamani][AdvRoot][=a.while]" : {osamani}
 | "[=osamani][AdvRoot][=a.while.ago]" : {osamani}
+! 
 | "[=ovakera][AdvRoot][=recently]" : {ovakera}
 | "[=ovakera][AdvRoot][=when]" : {ovakera}
 | "[=ovakera][AdvRoot][=ago]" : {ovakera}
