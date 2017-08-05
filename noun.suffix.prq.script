@@ -217,8 +217,9 @@ define N=S=CL [
 | "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} 
 | "[--][-chii][+CL:thorn,spine][=thorn,spine]" : {chii} 
 
-| "[--][-vatsa][+CL:mass][=mass; jelly-like]" : {vatsa} 
-| "[--][-patsa][+CL:mass][=mass; jelly-like]" : {patsa} 
+# substance-and-color.of.soils 
+| "[--][-vatsa][+CL:mass][=mass; jelly-like.(soil)]" : {vatsa} 
+| "[--][-patsa][+CL:mass][=mass; jelly-like.(soil)]" : {patsa} 
 ! .. 
 | "[--][-nki][+CL:snake][=snake.sp.]" : {nki} 
 | "[--][-nke][+CL:snake][=snake.sp.]" : {nke} 
@@ -331,6 +332,8 @@ define N=S=CL [
 ! niyankimashi / =niyanki -mashi / =in.the.center.of.sth. -cl:vast.space.with.vagetation / EN: 'middle.of.the.forest'; ES: ''  
 ! kishimashi / =kishi -mashi / =mountainous.grassland -cl:vast.space.with.vagetation / EN: 'vast.mountainous.grassland'; ES: ''  
 ! oparaimashi / =oparai -mashi / =beach -cl:vast.space.with.vagetation / EN: 'big.beach' \cite[p.25]{mihas:lanscape:15} ; ES: 'la.playa.amplia' \cite{mihas:dictem:14} 
+! narankamashi / =naranja -mashi / =orange -cl:vast.space.with.vagetation / EN: 'orange.tree.plantation' \cite{mihas:lanscape:15} 
+! iyanirimashi / i- =kaniri -mashi / 3m.poss- =manioc -cl:vast.space.with.vagetation / EN: 'his.big.field.of.manioc' ES: ''  
 | "[--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation]" : {mashi} 
 ];
       
