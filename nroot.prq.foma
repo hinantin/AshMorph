@@ -1009,7 +1009,8 @@ define NRootPRQin [
 | "[=kipatsini][NRoot][=ground (ES: suelo)]" : {kipatsini}
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
 | "[=kipatsite][NRoot][=territory (ES: territorio)]" : {kipatsite}
-| "[=oparai][NRoot][=countryside (ES: campo)]" : {oparai}
+! 
+| "[=oparai][NRoot][=countryside (ES: campo); beach (playa)]" : {oparai}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kipatsiniro+color][NRoot][=brown]" : {kipatsiniro} ! source:IIAP 
