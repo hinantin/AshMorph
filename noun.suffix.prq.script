@@ -105,8 +105,7 @@ define N=S=CL [
 # -------------------------------
 ! Size related classifier 
 # -------------------------------
-# ishikopatsa / =ishiko -patsa / =lime -cl:quantitity-tiny.piece / EN: 'soil.with.abundant.lime.stones'  
-| "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} ! @CL 
+| "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} 
 ! ?
 | "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} 
 ! Plant-based parts in compounds 
@@ -218,8 +217,10 @@ define N=S=CL [
 | "[--][-chii][+CL:thorn,spine][=thorn,spine]" : {chii} 
 
 # substance-and-color.of.soils 
+# ishikopatsa / =ishiko -patsa / =lime -cl:mass / EN: 'soil.with.abundant.lime.stones'  
+# kityonkapatsari / =kityonka -patsa -ri / =to.be.red -cl:mass -nmz / EN: 'reddish.soil' 
 | "[--][-vatsa][+CL:mass][=mass; jelly-like.(soil)]" : {vatsa} 
-| "[--][-patsa][+CL:mass][=mass; jelly-like.(soil)]" : {patsa} 
+| "[--][-patsa][+CL:mass][=mass; jelly-like.(soil)]" : {patsa} ! @CL 
 ! .. 
 | "[--][-nki][+CL:snake][=snake.sp.]" : {nki} 
 | "[--][-nke][+CL:snake][=snake.sp.]" : {nke} 
