@@ -35,7 +35,8 @@ define NRootESin [
 | "[=hermana][NRootEs][=sister]" : {hermana}
 ! 
 | "[=ingeniero][NRootEs][=engineer]" : {ingeniero}
-| "[=juan.santos.atahualpa][NRootEs][=person’s.name]" : {juan.santos.atahualpa}
+! 
+| "[=juan.santos.atahualpa][NRootEs][=person's.name; Peruvian.cultural.icon]" : {juan.santos.atahualpa}
 ! 
 | "[=coco+NCMS000][NRootEs][=coconut]" : {koko} ! source:IIAP 
 | "[=cocona+NCFS000][NRootEs][=cocona.shrubby.plant.sp.]" : {kokona} ! source:IIAP
