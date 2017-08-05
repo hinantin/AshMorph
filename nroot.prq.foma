@@ -676,10 +676,12 @@ define NRootPRQin [
 ! 
 | "[=iyotsi+m.][NRoot][=catfish.sp. (súngaro, doncella), fish.sp.]" : {iyotsi}
 ! 
-| "[=ivenki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ESP: piripiri)]" : {ivenki}
-| "[=ivinki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ESP: piripiri)]" : {ivinki}
-| "[=ovenki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ESP: piripiri); pod, long.thin.case.filled.with.seeds (ESP: vaina)]" : {ovenki}
-| "[=ovinki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ESP: piripiri); pod, long.thin.case.filled.with.seeds (ESP: vaina)]" : {ovinki}
+# ivenki: plant only handle by males 
+| "[=ivenki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ESP: piripiri, sci.nm.: cyperus.piripiri)]" : {ivenki}
+| "[=ivinki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ESP: piripiri, sci.nm.: cyperus.piripiri)]" : {ivinki}
+# ovenki: plant only handle by females 
+| "[=ovenki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ESP: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ESP: vaina)]" : {ovenki}
+| "[=ovinki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ESP: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ESP: vaina)]" : {ovinki}
 ! 
 | "[=ivire+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {ivire}
 | "[=iviri+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
