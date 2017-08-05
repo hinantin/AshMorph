@@ -1050,10 +1050,10 @@ define NRootPRQin [
 | "[=kishi+inal.][NRoot][=hair (ES: pelo)]" : {kishi}
 ! 
 # Sharokishi / =sharo =kishi / =rodent.sp. =mountainous.grassland / EN: 'grasslands.with.abundant.agoutis' 
-| "[=kishii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {kishii}
-| "[=kishi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {kishi} ! @CMP 
-| "[=keshii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {keshii}
-| "[=keshi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal)]" : {keshi}
+| "[=kishii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {kishii}
+| "[=kishi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {kishi} ! @CMP 
+| "[=keshii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {keshii}
+| "[=keshi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {keshi}
 ! 
 | "[=kishiri+m.][NRoot][=comb]" : {kishiri}
 | "[=kishire+m.][NRoot][=comb]" : {kishire}
