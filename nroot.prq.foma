@@ -208,6 +208,8 @@ define NRootPRQin [
 ! 
 | "[=chivini][NRoot][=heron.sp.]" : {chivini}
 ! 
+| "[=chamairo+n.m.][NRoot][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: bejuco.seco.que.se.mezcla.con.la.coca)]" : {chamairo}
+! 
 | "[=chapinki][NRoot][=the.other.day, yesterday]" : {chapinki}
 ! 
 | "[=chapiti][NRoot][=worm.sp.]" : {chapiti}
@@ -1032,8 +1034,8 @@ define NRootPRQin [
 | "[=kipishi][NRoot][=bitter]" : {kipishi} ! N@->V
 | "[=kepishi][NRoot][=bitter]" : {kepishi} ! N@->V
 ! palm tree species
-| "[=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : {kiri} ! @VCMP 
-| "[=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : {kirii} ! @VCMP 
+| "[=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
+| "[=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
 ! 
 | "[=kiri+n.m.+inal.][NRoot][=nose; nostrils]" : {kiri}
 | "[=kirina+inal.][NRoot][=nose]" : {kirina}

@@ -14,8 +14,8 @@ define V=S=noun [
 | "[--][=tsempeki][NRoot][=body]" : "@EP"{tsempeki} ! @VCMP 
 | "[--][=kentsi+n.m.+inal.][NRoot][=neck, nape]" : "@EP"{kentsi} ! @VCMP 
 | "[--][=kintsi+n.m.+inal.][NRoot][=neck, nape]" : "@EP"{kintsi} ! @VCMP 
-| "[--][=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : "@EP"{kiri} ! @VCMP 
-| "[--][=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta)]" : "@EP"{kirii} ! @VCMP 
+| "[--][=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kiri} ! @VCMP 
+| "[--][=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kirii} ! @VCMP 
 | "[--][=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{menko} ! N@->V @VCMP 
 | "[--][=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{minko} ! N@->V @VCMP 
 | "[--][=mironta][NRoot][=flat (ES: plano)]" : "@EP"{mironta} ! @VCMP 
