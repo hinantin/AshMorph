@@ -17,7 +17,8 @@ define NRootPRQin [
 | "[=yaya+m.][NRoot][=brother (kin.of.a.female)]" : {yaya}
 | "[=haihi+m.][NRoot][=brother (kin.of.a.female)]" : {haihi}
 ! 
-| "[=ashitarori][NRoot][=owner (ES: dueño)]" : {ashitarori}
+| "[=ashitarori][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitarori}
+| "[=ashitariri][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitariri}
 ! 
 | "[=aarontsi][NRoot][=summer]" : {aarontsi} ! N@->V
 ! 
