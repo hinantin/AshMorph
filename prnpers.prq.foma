@@ -29,18 +29,18 @@ define PrnPersPRQin [
 | "[=hirova][PrnPers][+3SG][=it (animal.or.object)]" : {hirova}
 ! 
 | "[=aaka][PrnPers][+1PL][=we]" : {aaka} 
-| "[=aro][PrnPers][+1PL.INCL][=we]" : {aro} 
+| "[=aro][PrnPers][+1PL.INCL.][=we]" : {aro} 
 ! 
-| "[=aroka+cont.d.top.][PrnPers][+1PL.INCL]" : {aroka}
-| "[=arokaite][PrnPers][+1PL.INCL]" : {arokaite}
-| "[=arorite][PrnPers][+1PL.INCL]" : {arorite}
+| "[=aroka+cont.d.top.][PrnPers][+1PL.INCL.]" : {aroka}
+| "[=arokaite][PrnPers][+1PL.INCL.]" : {arokaite}
+| "[=arorite][PrnPers][+1PL.INCL.]" : {arorite}
 ! 
-| "[=naakaite][PrnPers][+1PL.EXCL]" : {naakaite}
-| "[=avirokaite][PrnPers][+2PL.EXCL][=you]" : {avirokaite}
+| "[=naakaite][PrnPers][+1PL.EXCL.]" : {naakaite}
+| "[=avirokaite][PrnPers][+2PL.EXCL.][=you]" : {avirokaite}
 | "[=iriroite][PrnPers][+3PL.m.EXCL.][=they]" : {iriroite}
 | "[=iririroite][PrnPers][+3PL.m.EXCL.]" : {iririroite}
-| "[=iroite][PrnPers][+3PL.n.m.EXCL][=they]" : {iroite}
-| "[=irooite][PrnPers][+3PL.n.m.EXCL][=they]" : {irooite}
+| "[=iroite][PrnPers][+3PL.n.m.EXCL.][=they]" : {iroite}
+| "[=irooite][PrnPers][+3PL.n.m.EXCL.][=they]" : {irooite}
 # -------------------------------------------------------------------
 | "[=naari+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {naari} ! FOC "I" 
 | "[=narori+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {narori}
