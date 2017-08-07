@@ -40,6 +40,7 @@ define PrnPersPRQin [
 | "[=iriroite][PrnPers][+3PL.m.EXCL.][=they]" : {iriroite}
 | "[=iririroite][PrnPers][+3PL.m.EXCL.]" : {iririroite}
 | "[=iroite][PrnPers][+3PL.n.m.EXCL][=they]" : {iroite}
+| "[=irooite][PrnPers][+3PL.n.m.EXCL][=they]" : {irooite}
 # -------------------------------------------------------------------
 | "[=naari+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {naari} ! FOC "I" 
 | "[=narori+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {narori}
@@ -82,7 +83,7 @@ define PrnPersPRQin [
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL]" : {naintsi}
 | "[=aintsi+cntr.d.top.][PrnPers][+1SG.INCL]" : {aintsi}
 | "[=avintsi+cntr.d.top.][PrnPers][+2SG][=you]" : {avintsi}
-| "[=irintsi+cntr.d.top.][PrnPers][+3SG.m.]" : {irintsi}
+| "[=irintsi+cntr.d.top.][PrnPers][+3SG.m.][=he]" : {irintsi}
 | "[=ariintsi+cntr.d.top.][PrnPers][+3SG.m.]" : {ariintsi}
 | "[=irontsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {irontsi}
 | "[=aronintsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {aronintsi}
