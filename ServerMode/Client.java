@@ -42,6 +42,11 @@ public class Client {
     protected int position = 0;
     protected boolean debug = false;
 
+    protected ProcessBuilder pb = null;
+    protected Process process = null;
+    protected BufferedWriter bw = null;
+    protected BufferedReader br = null;
+
     public static void main(String[] args)
             throws Exception {
         System.out.println("Initializing client");
@@ -95,15 +100,40 @@ public class Client {
 
             this.lookup = pb.start();
 
-            this.fl_wr = this.lookup.getOutputStream();
-            this.fl_rd = this.lookup.getInputStream();
+            //this.fl_wr = this.lookup.getOutputStream();
+            //this.fl_rd = this.lookup.getInputStream();
+
+            //this.pb = new ProcessBuilder(new String[]{this.fmed_bin.getAbsolutePath(), "-l15", this.foma_file.getAbsolutePath()});
+            //this.pb.redirectErrorStream(true);
+
+            //try {
+            //    this.process = this.pb.start();
+            //} catch (IOException e) {
+            //    System.out.println("Couldn't start the process.");
+            //    e.printStackTrace();
+            //}
+
+            try {
+                if (this.lookup != null) {
+                    //this.bw = new BufferedWriter(new OutputStreamWriter(this.process.getOutputStream(), "UTF-8"));
+                    this.bw = new BufferedWriter(new OutputStreamWriter(this.lookup.getOutputStream(), "UTF-8"));
+                    System.out.println("Opening writer.");
+                    //this.br = new BufferedReader(new InputStreamReader(this.process.getInputStream(), "UTF-8"));
+                    this.br = new BufferedReader(new InputStreamReader(this.lookup.getInputStream(), "UTF-8"));
+                    System.out.println("Opening reader.");
+                }
+            } catch (IOException e) {
+                System.out.println("Either couldn't read from the template file or couldn't write to the OutputStream.");
+                e.printStackTrace();
+            }
+
         } catch (Exception ex) {
             System.err.println( ex.getMessage() );
         }
     }
 
     public synchronized String analyze(String word) {
-        if ((this.lookup == null) || (this.fl_wr == null) || (this.fl_rd == null)) {
+        if ((this.lookup == null) || (this.bw == null) || (this.br == null)) {
             return "NO RESULT";
         }
         return getAnalysis(word);
@@ -172,31 +202,20 @@ public class Client {
         word = word.trim().toLowerCase();
         try {
             String ret = "";
-            ProcessBuilder pb = new ProcessBuilder(new String[]{this.fmed_bin.getAbsolutePath(), "-l15", this.foma_file.getAbsolutePath()});
-            pb.redirectErrorStream(true);
-            Process process = null;
-            try {
-                process = pb.start();
-            } catch (IOException e) {
-                System.out.println("Couldn't start the process.");
-                e.printStackTrace();
-            }
             System.out.println("reading");
             try {
-                if (process != null) {
-                    BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(process.getOutputStream(), "UTF-8"));
-                    bw.write(word);
-                    bw.newLine();
-                    bw.close();
-                }
+                    this.bw.write(word);
+                    this.bw.newLine();
+                    this.bw.flush();
+                    //bw.close();
             } catch (IOException e) {
                 System.out.println("Either couldn't read from the template file or couldn't write to the OutputStream.");
                 e.printStackTrace();
             }
-            BufferedReader br = new BufferedReader(new InputStreamReader(process.getInputStream(), "UTF-8"));
+
             String currLine = null;
             try {
-                while ((currLine = br.readLine()) != null) {
+                while ((currLine = this.br.readLine()) != null) {
                     ret = currLine;
                     System.out.println(currLine);
                 }
@@ -232,38 +251,36 @@ public class Client {
 //    }
 
     public String getAnalysis(String word) {
-        System.err.println("PRUEBA01: "+word+"\n");
         //word = word + "\n";
             try {
-                if (this.lookup != null) {
-                    BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(this.lookup.getOutputStream(), "UTF-8"));
-                    bw.write(word);
-                    bw.newLine();
-                    bw.close();
+                if (this.bw != null) {
+                    this.bw.write(word);
+                    this.bw.newLine();
+                    this.bw.flush();
+                    System.err.println("The entry, "+word+", has been written.\n");
+                    //bw.close();
                 }
+                else { System.err.println("Unavailable writing stream.\n"); }
             } catch (IOException e) {
                 System.out.println("Either couldn't read from the template file or couldn't write to the OutputStream.");
                 e.printStackTrace();
             }
             String currLine = null;
             String ret = "";
+            System.err.println("Retrieving results for "+word+".\n");
             try {
-                BufferedReader br = new BufferedReader(new InputStreamReader(this.lookup.getInputStream(), "UTF-8"));
-
-            try {
-                while ((currLine = br.readLine()) != null) {
+                //while ((currLine = this.br.readLine()) != null) 
+                //for(int i=0;i<100;i++){
+                {
+                    currLine = this.br.readLine();
                     ret = ret + currLine;
-                    System.out.println(currLine);
+                    //System.out.println(currLine);
                 }
             } catch (IOException e) {
                 System.out.println("Couldn't read the output.");
                 e.printStackTrace();
             }
 
-            } catch (IOException e) {
-                System.out.println("Either couldn't read from the template file or couldn't write to the OutputStream.");
-                e.printStackTrace();
-            }
             return ret;
     }
 
