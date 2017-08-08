@@ -627,6 +627,8 @@ define VRootPRQin [
 | "[=mentary][VRoot][=to.break.the.fin.of.a.tree]" : {mentary}
 | "[=mintary][VRoot][=to.break.the.fin.of.a.tree]" : {mintary}
 ! 
+| "[=mire][VRoot][=to.be.thirsty (ES: tener.sed)]" : {mire} 
+! 
 | "[=mesh][VRoot][=to.peel]" : {mesh}
 | "[=mish][VRoot][=to.peel]" : {mish}
 ! 
@@ -635,6 +637,9 @@ define VRootPRQin [
 | "[=mi][VRoot][=to.jump]" : {mi}
 | "[=mit][VRoot][=to.jump]" : {mit}
 | "[=mitah][VRoot][=to.jump]" : {mitah}
+# miamiataantsi / =mi+redup. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
+# imiamiataeyeni / i- =mi+redup. - /  / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
+| "[=mi+redup.][VRoot][=to.jump (ES: brincar)]" : {miamia}
 ! 
 | "[=mink][VRoot][=to.put]" : {mink}
 | "[=mink][VRoot][=to.insert]" : {mink}
