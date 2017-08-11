@@ -3,9 +3,9 @@
 define PrnPossPRQin [
   "[=nashi][PrnPoss][+1SG][=mine]" : {nashi} ! mine
 | "[=pashi][PrnPoss][+2SG]" : {pashi}
-| "[=irashi][PrnPoss][+3SG.m.]" : {irashi} ! his, its
-| "[=rashi][PrnPoss][+3SG.m.]" : {rashi} ! his
-| "[=ashi][PrnPoss][+3SG.n.m.]" : {ashi} ! her, hers, its
+| "[=irashi][PrnPoss][+3SG.m.][=his, its]" : {irashi} ! his, its
+| "[=rashi][PrnPoss][+3SG.m.][=his]" : {rashi} ! his
+| "[=ashi][PrnPoss][+3SG.n.m.][=her, hers, its]" : {ashi} ! her, hers, its
 | "[=ashi][PrnPoss][+1PL]" : {ashi}
 | "[=pashiite][PrnPoss][+2PL]" : {pashiite}
 | "[=irashiite][PrnPoss][+3PL.m.]" : {irashiite}
