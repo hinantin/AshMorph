@@ -335,8 +335,8 @@ define V=S=NMZ [
 | "[--][-inka+quality][+NMZ]" : "@EP"[{inka}] 
 ! 
 | "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] 
-| "[--][-mento][NMZ][+CONCR]" : "@EP"[{mento}]
-| "[--][-minto][NMZ][+CONCR]" : "@EP"[{minto}]
+| "[--][-mento+n.m.][NMZ][+CONCR]" : "@EP"[{mento}]
+| "[--][-minto+n.m.][NMZ][+CONCR]" : "@EP"[{minto}]
 ];
       
 define V=S=ADJ [
