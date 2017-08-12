@@ -2,7 +2,7 @@
 
 define PrnPossPRQin [
   "[=nashi][PrnPoss][+1SG][=mine]" : {nashi} ! mine
-| "[=pashi][PrnPoss][+2SG]" : {pashi}
+| "[=pashi][PrnPoss][+2SG][=yours]" : {pashi}
 | "[=irashi][PrnPoss][+3SG.m.][=his, its]" : {irashi} ! his, its
 | "[=rashi][PrnPoss][+3SG.m.][=his]" : {rashi} ! his
 | "[=ashi][PrnPoss][+3SG.n.m.][=her, hers, its]" : {ashi} ! her, hers, its
