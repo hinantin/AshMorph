@@ -137,7 +137,7 @@ define N=S=CL [
 
 | "[--][-kota][+CL:piece][=piece]" : {kota} 
        ! .. 
-# mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stone.pile'  
+# mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stone.pile'; ES: 'pedregal'  
 | "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} ! @CL 
 | "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} ! @CL 
 # 
