@@ -23,7 +23,7 @@ define N [
  (N=S=poss) (N=S=ADVP) | 
  (N=S=2poss) (N=S=CL) (N=S=CL) (N=S=poss) | 
  (N=S=2poss) (N=S=DEM) | 
- (N=S=ABS) (N=S=CL) (N=S=CL) (N=S=AUG) | 
+ (N=S=ABS) (N=S=CL) (N=S=CL) (N=S=AUG) (N=S=LOC) | 
  (N=S=ABS) (N=S=CL) (N=S=CL) | 
  (N=S=ABS) (N=S=DEM) | 
 
