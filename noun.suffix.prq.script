@@ -413,6 +413,7 @@ define N=S=AUG [
 | "[--][-tsantsa][+AUG]" : [{tsantsa}] 
 | "[--][-santsa][+AUG]" : [{santsa}] 
 ! 
+# antarosaNte / =antaro -sante / =big -aug / EN: 'wide'; ES: 'ancho'  
 # antearosante eni / =antearo -sante =eni / =big -aug =Ene.river / EN: 'The.Ene.river.is.wide', ES: 'el.río.Ene.es.ancho'  
 # abotsisanteki / avotsisanteki / =abo -tsi -sante -ki / =trail -nposs -aug -loc / EN: 'in.the.path'; ES: 'en.el.sendero'  
 | "[--][-sante][+AUG]" : [{sante}]
