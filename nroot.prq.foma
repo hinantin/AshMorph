@@ -264,7 +264,7 @@ define NRootPRQin [
 | "[=chomiyo][NRoot][=banana.sp. (ES: moquichi)]" : {chomiyo}
 | "[=chomiyoki][NRoot][=banana.sp. (ES: plátano.bizcocho)]" : {chomiyoki}
 ! 
-| "[=chompi][NRoot][=silver-beacked.tanager (sci.nm.: ramphocelus.carbo)]" : {chompi}
+| "[=chompi][NRoot][=silver-beacked.tanager (sci.nm.: ramphocelus.carbo); black.small.bird.sp.]" : {chompi}
 ! 
 | "[=chompiriniro][NRoot][=vermilion.tanage (sci.nm.: calochaetes.coccineus)]" : {chompiriniro}
 ! 
@@ -300,7 +300,8 @@ define NRootPRQin [
 ! 
 | "[=chookiro][NRoot][=tree.ant.sp. (black.colored.ant)]" : {chookiro} 
 ! 
-| "[=chokiyo+m.][NRoot][=small.parrot.sp.]" : {chokiyo} 
+| "[=chokiyo+m.][NRoot][=small.parrot.sp. (ES: loro.pequeño)]" : {chokiyo} 
+| "[=chokio+m.][NRoot][=small.parrot.sp. (ES: loro.pequeño)]" : {chokio} 
 ! 
 | "[=chopavairotzi+m.][NRoot][=bird.sp. (ES: apodo.de.la.pava)]" : {chopavairotzi} 
 ! 
