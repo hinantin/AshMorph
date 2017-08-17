@@ -209,7 +209,7 @@ define NRootPRQin [
 ! 
 | "[=chivini][NRoot][=heron.sp.]" : {chivini}
 ! 
-| "[=chamairo+n.m.][NRoot][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: bejuco.seco.que.se.mezcla.con.la.coca)]" : {chamairo}
+| "[=chamairo+n.m.][NRoot][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {chamairo}
 ! 
 | "[=chapinki][NRoot][=the.other.day, yesterday]" : {chapinki}
 ! 
@@ -352,7 +352,8 @@ define NRootPRQin [
 ! 
 | "[=Eni][NP][=river (Ene.river)]" : {eni}
 ! 
-| "[=entyo][NRoot][=sister (kin.of.a.female, fem.ego.)]" : {entyo}
+| "[=entyo][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]" : {entyo}
+| "[=eentyo][NRoot][=sister (kin.of.a.female, fem.ego.)]" : {eentyo}
 ! 
 | "[=erama][NP][=2-3cm-size.yellow-bellied.black.worm.sp.]" : {erama}
 ! 
