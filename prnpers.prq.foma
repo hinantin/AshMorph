@@ -16,7 +16,9 @@ define PrnPersPRQin [
 ! avirompa / aviro-mpa / 2TOP=DUB
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
-| "[=eroka][PrnPers][+2SG][=you]" : {eroka}
+| "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eroka}
+| "[=eeroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
+| "[=iiroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
 !
 | "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iri}
 | "[=iriro+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iriro}

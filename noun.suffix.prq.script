@@ -109,7 +109,7 @@ define N=S=CL [
 ! ?
 | "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} 
 ! Plant-based parts in compounds 
-| "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]" : {shi} 
+| "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]" : {shi} ! @CL 
 # --------------------------------------------------
 | "[--][-pankaina][+CL:bare,flat][=bare, flat]" : {pankaina} ! @CL  
 # --------------------------------------------------
@@ -157,7 +157,7 @@ define N=S=CL [
 # --------------------------------------------------------------------------------
 ! =antyaro-tsantsa ES: 'alargado', EN: ; =ari-tsantsa ES: 'muy largo'. EN: ; V: =kimo-tsantsa ES: 'muy largo, largo', EN: ; 
 ! V: =monkara-tsantsa-ri ES: 'wincha', EN: ; =antyari-tsantsa ES: alto EN: 
-| "[--][-tsantsa][+CL:long][=long (ES: largo)]" : {tsantsa} 
+| "[--][-tsantsa][+CL:long][=long (ES: largo)]" : {tsantsa} ! @CL 
 ! santsari/ro/vo
 | "[--][-santsa][+CL:long][=long (ES: largo)]" : {santsa} 
 | "[--][-hantsa][+CL:long][=long (ES: largo)]" : {hantsa} ! alto???
