@@ -341,6 +341,12 @@ define N=S=CL [
 ! narankamashi / =naranja -mashi / =orange -cl:vast.space.with.vagetation / EN: 'orange.tree.plantation' \cite{mihas:lanscape:15} 
 ! iyanirimashi / i- =kaniri -mashi / 3m.poss- =manioc -cl:vast.space.with.vagetation / EN: 'his.big.field.of.manioc' ES: ''  
 | "[--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation]" : {mashi} 
+! 
+! apapakoroni / =apa -pako -ro+n.m. -ni / =one -cl:five -nmz -adv / EN: 'five'
+! mavapakoroni / =mava -pako -ro+n.m. -ni / =three -cl:five -nmz -adv / EN: 'fifteen'
+! apapakoroniapani / =apa -pako -ro+n.m. -ni =apa -ni / =three -cl:five -nmz -adv =one -adv / EN: 'six'
+! shintsipakori / =shintsi -pako -ri+m. / =to.be.quick -cl:hand -nmz / EN: ''; ES: 'una persona que trabaja muy rápidamente'
+| "[--][-pako][+CL:hand][=hand, five]" : {pako} ! @CL 
 ];
       
 define N=S=EXCL [
