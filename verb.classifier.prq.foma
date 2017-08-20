@@ -18,6 +18,6 @@ define V=S=CL [
 | "[--][-ha][+CL:liquid][=liquid]" : "@EP"{ha} ! @CL
 | "[--][-aa][+CL:liquid][=liquid]" : "@EP"{aa} ! @CL 
 | "[--][-a][+CL:liquid][=liquid]" : "@EP"{a} ! @CL 
-| "[--][-ako][+CL:vessel][=vessel]" : "@EP"{ako} ! @CL 
+| "[--][-ako][+CL:vessel][=vessel; recipient; cavity]" : "@EP"{ako} ! @CL 
 | "[--][-pako][+CL:hand][=hand, five]" : "@EP"{pako} ! @CL 
 ];

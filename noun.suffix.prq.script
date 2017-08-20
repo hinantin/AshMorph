@@ -329,7 +329,7 @@ define N=S=CL [
 | "[--][-aa][+CL:liquid][=liquid]" : {aa} ! @CL 
 | "[--][-a][+CL:liquid][=liquid]" : {a} ! @CL 
 ! 
-| "[--][-ako][+CL:vessel][=vessel]" : {ako} ! @CL 
+| "[--][-ako][+CL:vessel][=vessel; recipient; cavity]" : {ako} ! @CL 
 ! 
 ! sharakamashi / =sharaka -mashi / =snow -cl:vast.space.with.vagetation / EN: 'Andean.region/zone'; ES: 'región/zona.andina' 
 ! sharakamashiki / =sharaka -mashi -ki / =snow -cl:vast.space.with.vagetation -loc / EN: 'in.the.Andean.woods'; ES: 'en.los.bosques.andinos' 
