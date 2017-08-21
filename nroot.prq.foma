@@ -17,6 +17,8 @@ define NRootPRQin [
 | "[=yaya+m.][NRoot][=brother (kin.of.a.female)]" : {yaya}
 | "[=haihi+m.][NRoot][=brother (kin.of.a.female)]" : {haihi}
 ! 
+| "[=Aroshi][NRoot][=person's.name]" : {aroshi}
+! 
 | "[=ashitarori][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitarori}
 | "[=ashitariri][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitariri}
 ! 
@@ -365,6 +367,8 @@ define NRootPRQin [
 ! 
 | "[=eereshi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new.leaf]" : {eereshi}
 | "[=iirishi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new.leaf]" : {iirishi}
+! 
+| "[=Eroshi][NRoot][=person's.name]" : {eroshi}
 ! 
 | "[=eroti+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (sci.nm.: amazona.emazonica)]" : {eroti}
 | "[=erotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (sci.nm.: amazona.emazonica)]" : {erotzi}
@@ -1466,6 +1470,8 @@ define NRootPRQin [
 | "[=miriki+n.m.+inal.][NRoot][=sharpening.stone, whetstone]" : {miriki}
 ! 
 | "[=merekiri+m.][NRoot][=catfish.sp., cunchi/kunchi.sp., fish.sp.]" : {merekiri}
+! 
+| "[=Meroka][NRoot][=person's.name]" : {meroka}
 ! 
 | "[=miro][NRoot][=frog.sp. (ES: especie.de.rana)]" : {miro}
 ! 
