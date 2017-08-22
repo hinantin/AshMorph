@@ -1320,9 +1320,9 @@ define VRootPRQin [
 | "[=tyaki][VRoot][=to.blossom]" : {tyaki}
 | "[=teyaki][VRoot][=to.blossom]" : {teyaki}
 ! word set:
-| "[=tyank][VRoot][=to.send]" : {tyank}
-| "[=tiank][VRoot][=to.send]" : {tiank}
-| "[=tiyank][VRoot][=to.send]" : {tiyank}
+| "[=tyank][VRoot][=to.send (ES: mandar)]" : {tyank}
+| "[=tiank][VRoot][=to.send (ES: mandar)]" : {tiank}
+| "[=tiyank][VRoot][=to.send (ES: mandar)]" : {tiyank}
 ! 
 | "[=tyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tyerov}
 | "[=tiyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tiyerov}

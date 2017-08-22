@@ -7,10 +7,10 @@ define PrnDemPRQin [
 | "[=hara+medial.b.][PrnDem][=not.here, there, not.in.the.speaker's.interactional.space]" : {hara}
 ! 
 | "[=anta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded)]" : {anta}
-| "[=hanta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded)]" : {hanta}
+| "[=hanta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded; ES: allá, allí)]" : {hanta}
 ! 
 | "[=anto+distal.unb.][PrnDem][=there, over.there, far.from.the.speaker (unbounded)]" : {anto}
-| "[=hanto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded)]" : {hanto}
+| "[=hanto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded; ES: allá, muy.lejos)]" : {hanto}
 ! 
 | "[=hiri+m.][PrnDem][=there]" : {hiri}
 | "[=hiri+m.][PrnDem][=there.he.is]" : {hiri}
