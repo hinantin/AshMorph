@@ -328,7 +328,7 @@ define N=S=CL [
 ! shinkia / =shinki -a / =corn -cl:liquid / ES: 'bebida.de.maíz, chicha.espesa'; EN: 'thick.corn.beer, thick-chicha-like.beverage'  
 ! niyankia / =niyanki -a / =middle -cl:liquid / ES: 'parte.media.del.río'; EN: "river's.main.channel (lit.: river's.middle.part)"  
 ! pariantiaa / =parianti -aa / =plantain -cl:liquid / EN: 'banana.beer' \cite[pag.39]{shepard:classi:97} 
-! antaatachari / =ant -aa -t -acha -ri / =to.do -cl:liquid -ep -stat -rel / EN: 'masturbation'; ES: 'masturbación'
+! antaatachari / =ant -aa -t -acha -ri / =to.do -cl:liquid -ep -stat -rel / EN: 'masturbation'; ES: 'masturbación' \cite[pag.204]{munoz:diccnies:12}
 | "[--][-aa][+CL:liquid][=liquid]" : {aa} ! @CL 
 | "[--][-a][+CL:liquid][=liquid]" : {a} ! @CL 
 ! 
