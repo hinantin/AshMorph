@@ -243,7 +243,7 @@
       # the lenition process is found at the root-root boundary in noun compounds 
       # vatsavori / 'vatsa-pori' / 'meat-muscle' 
       # caavovaniri~kaavovaniri / 'kaavo-kaniri' / ES: 'caña-yuca', EN: 'sugar.cane-yucca' 
-      define Noun [ (NPref) [NRootPRQ] ("@PHONPROC@"NRootCmpPRQ) (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
+      define Noun [ (NPref) [NRootPRQ] ("@PHONPROC@"NRootCmpPRQ) (NSuff) ] .o. Lenition .o. VowelLoss .o. NounFeatRestr ; #.o. VowelLoss ;
       
       define NominalizedVerb [ (NPref) [VRootPRQ] [
                                                      [(V=S=APPLINT) (V=S=DUR)] 
