@@ -68,6 +68,7 @@ define NounToVerbPRQin [
 | "[=seri][NRoot][=tobacco.leaf; tobacco]+vbz." : {seri} ! N@->V
 | "[=shirampari+m.][NRoot][=man; male]+vbz." : {shirampari} ! N@->V
 | "[=shitamenko+inal.][NRoot][=dais]+vbz." : {shitamenko} ! N@->V 
+| "[=shitsa][NRoot][=vine; worm.sp.]+vbz." : {shitsa} ! N@->V 
 | "[=vaNki][NRoot][=feather; wing_feather]+vbz." : {vanki} ! @CMP N@->V 
 | "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)]+vbz." : {tomi} ! N@->V 
 | "[=tsantsa][NRoot][=long (in.length); big]+vbz." : {tsantsa} ! N@->V @CMP

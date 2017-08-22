@@ -2614,7 +2614,7 @@ define NRootPRQin [
 | "[=shitovi+n.m.][NRoot][=edible.mushroom (ES: hongo)]" : {shitovi}
 | "[=shitoovi+n.m.][NRoot][=edible.mushroom (ES: hongo)]" : {shitoovi}
 ! 
-| "[=shitsa][NRoot][=vine; worm.sp.]" : {shitsa}
+| "[=shitsa][NRoot][=vine; worm.sp.]" : {shitsa} ! N@->V 
 ! 
 | "[=shitsane+m.+inal.][NRoot][=pinworm, intestinal.worm]" : {shitsane}
 | "[=shitsani+m.+inal.][NRoot][=pinworm, intestinal.worm]" : {shitsani}
