@@ -169,6 +169,10 @@ define N=S=CL [
 ! chenteropa / =chentero -pa / =palm.tree.sp. -cl:plantain / EN: 'plantain.sp.'; ES: 'especie.de.plátano' 
 ! akapa / =akapa / =avocado / EN: 'avocado' 
 | "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : {pa} 
+| "[--][-paro][+CL:banana][=banana,plantain]" : {paro} 
+| "[--][-pavo][+CL:banana][=banana,plantain]" : {pavo} 
+! 
+| "[--][-inki][+CL:peanut][=peanut]" : {nki} 
 ! 
 | "[--][-kana][+CL:chili-pepper][=chili-pepper]" : {kana} # tsirikana 'chili-pepper' 
 | "[--][-kanaa][+CL:chili-pepper][=chili-pepper]" : {kanaa} # tsirikanaa 'chili-pepper' 
