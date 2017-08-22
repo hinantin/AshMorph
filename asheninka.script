@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@LEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@LEN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"]];
+       define Cleanup1  [["@EP"|"@PHONPROC@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@PHONPROC@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -162,30 +162,30 @@
       #          Lenition Rules         #
       ###################################
 
-      define PWLenitionRule1 [ "@LEN@"p (->) "@LEN@"v || [{o}] _ [{i}|{a}|{o}] ]; 
-                                                                            # nopito (in our lexicon) -> no@LEN@pito -> no@LEN@vito -> novito 
-                                                                            # nopochokine (in our lexicon) -> no@LEN@pochokine -> no@LEN@bochokine -> nobochokine 
-      define PWLenitionRule2 [ "@LEN@"p (->) "@LEN@"v || [{i}] _ [{i}|{a}|{o}] ]; 
-                                                                            # ipanko (in our lexicon) -> i@LEN@panko -> i@LEN@vanko -> ivanko 
-                                                                            # pipompooti (in our lexicon) -> pi@LEN@pompooti -> pi@LEN@vompooti -> pivompooti 
-      define PWLenitionRule3 [ "@LEN@"p -> "@LEN@"v || [{a}] _ [{i}|{o}] ]; 
-                                                                            # apinkatsarite (in our lexicon) -> a@LEN@pinkatsarite -> a@LEN@vinkatsarite -> avinkatsarite 
-                                                                            # vatsapori (in our lexicon) -> vatsa@LEN@pori -> vatsa@LEN@vori -> vatsavori
-      define KJLenitionRule1 [ "@LEN@"k (->) "@LEN@"y || _ [{o}|{a}|{e}|{i}] ]; 
+      define PWLenitionRule1 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{o}] _ [{i}|{a}|{o}] ]; 
+                                                                            # nopito (in our lexicon) -> no@PHONPROC@pito -> no@PHONPROC@vito -> novito 
+                                                                            # nopochokine (in our lexicon) -> no@PHONPROC@pochokine -> no@PHONPROC@bochokine -> nobochokine 
+      define PWLenitionRule2 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{i}] _ [{i}|{a}|{o}] ]; 
+                                                                            # ipanko (in our lexicon) -> i@PHONPROC@panko -> i@PHONPROC@vanko -> ivanko 
+                                                                            # pipompooti (in our lexicon) -> pi@PHONPROC@pompooti -> pi@PHONPROC@vompooti -> pivompooti 
+      define PWLenitionRule3 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{a}] _ [{i}|{o}] ]; 
+                                                                            # apinkatsarite (in our lexicon) -> a@PHONPROC@pinkatsarite -> a@PHONPROC@vinkatsarite -> avinkatsarite 
+                                                                            # vatsapori (in our lexicon) -> vatsa@PHONPROC@pori -> vatsa@PHONPROC@vori -> vatsavori
+      define KJLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || _ [{o}|{a}|{e}|{i}] ]; 
                                                                             # optional rule: noyokani, ikentsike  
-                                                                            # nokimini (in our lexicon) -> no@LEN@kimini -> no@LEN@yimini -> noyimini
-      define KLenitionRule2 [ "@LEN@"k (->) "@LEN@" || [{o}] _ [{i}|{e}|{a}|{o}] ]; 
-                                                                            # nokitzi (in our lexicon) -> no@LEN@kitzi -> no@LEN@itzi -> noitzi
-                                                                            # nokanire (in our lexicon) -> no@LEN@kanire -> no@LEN@anire -> noanire
-                                                                            # nokonta (in our lexicon) -> no@LEN@onta -> no@LEN@onta -> noonta 
-                                                                            # okomaro (in our lexicon) -> o@LEN@omaro -> o@LEN@omaro -> oomaro-janiqui
-                                                                            # oketsa (in our lexicon) -> o@LEN@etsa -> o@LEN@etsa -> o-etsa-re-ki
-      define KLenitionRule3 [ "@LEN@"k (->) "@LEN@" || [{i}] _ [{i}] ]; 
-                                                                            # ikishi (in our lexicon) -> i@LEN@kishi -> i@LEN@ishi -> iishi 
-      define KLenitionRule4 [ "@LEN@"k (->) "@LEN@" || [{p}] _ [{i}] ]; 
-                                                                            # pkitsare (in our lexicon) -> p@LEN@kitsare -> p@LEN@itsare -> pitsare 
-      define KLenitionRule5 [ "@LEN@"k (->) "@LEN@" || [{o}] _ [{i}] ]; ! oitsoki -> o=kitsoki 
-      define KLenitionRule6 [ "@LEN@"k (->) "@LEN@" || [{a}] _ [{i}] ]; ! aitsoki -> a=kitsoki 
+                                                                            # nokimini (in our lexicon) -> no@PHONPROC@kimini -> no@PHONPROC@yimini -> noyimini
+      define KLenitionRule2 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{o}] _ [{i}|{e}|{a}|{o}] ]; 
+                                                                            # nokitzi (in our lexicon) -> no@PHONPROC@kitzi -> no@PHONPROC@itzi -> noitzi
+                                                                            # nokanire (in our lexicon) -> no@PHONPROC@kanire -> no@PHONPROC@anire -> noanire
+                                                                            # nokonta (in our lexicon) -> no@PHONPROC@onta -> no@PHONPROC@onta -> noonta 
+                                                                            # okomaro (in our lexicon) -> o@PHONPROC@omaro -> o@PHONPROC@omaro -> oomaro-janiqui
+                                                                            # oketsa (in our lexicon) -> o@PHONPROC@etsa -> o@PHONPROC@etsa -> o-etsa-re-ki
+      define KLenitionRule3 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{i}] _ [{i}] ]; 
+                                                                            # ikishi (in our lexicon) -> i@PHONPROC@kishi -> i@PHONPROC@ishi -> iishi 
+      define KLenitionRule4 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{p}] _ [{i}] ]; 
+                                                                            # pkitsare (in our lexicon) -> p@PHONPROC@kitsare -> p@PHONPROC@itsare -> pitsare 
+      define KLenitionRule5 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{o}] _ [{i}] ]; ! oitsoki -> o=kitsoki 
+      define KLenitionRule6 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{a}] _ [{i}] ]; ! aitsoki -> a=kitsoki 
 
       define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 
  .o. KJLenitionRule1 
@@ -199,11 +199,13 @@
       #########################################
       #          Vowel Deletion Rules         #
       #########################################
-      # noirani (in our lexicon) -> no@LEN@irani -> n@LEN@irani -> nirani 
-#      define VowelLossRule1 [ o"@LEN@" -> "@LEN@" || n _ [{i}|{o}|{a}] ]; 
-#      define VowelLossRule2 [ i"@LEN@" -> "@LEN@" || p _ [{i}|{o}|{a}] ]; 
+      # noirani (in our lexicon) -> no@PHONPROC@irani -> n@PHONPROC@irani -> nirani 
+#      define VowelLossRule1 [ o"@PHONPROC@" -> "@PHONPROC@" || n _ [{i}|{o}|{a}] ]; 
+#      define VowelLossRule2 [ i"@PHONPROC@" -> "@PHONPROC@" || p _ [{i}|{o}|{a}] ]; 
+      define VowelLossRule3 [ i"@PHONPROC@" -> "@PHONPROC@" || _ [{i}] ]; 
       
 #      define VowelLoss [ VowelLossRule1 .o. VowelLossRule2 ];
+      define VowelLoss [ VowelLossRule3 ];
       
       ####################################
       #                                  #
@@ -211,7 +213,7 @@
       #     Restricctions                #
       #                                  #
       ####################################
-      define PossPlusInalRestr1 [~$["@LEN@"?*"@NPOSS"]];
+      define PossPlusInalRestr1 [~$["@PHONPROC@"?*"@NPOSS"]];
       
       define NounFeatRestr [PossPlusInalRestr1];
       
@@ -241,7 +243,7 @@
       # the lenition process is found at the root-root boundary in noun compounds 
       # vatsavori / 'vatsa-pori' / 'meat-muscle' 
       # caavovaniri~kaavovaniri / 'kaavo-kaniri' / ES: 'caña-yuca', EN: 'sugar.cane-yucca' 
-      define Noun [ (NPref) [NRootPRQ] ("@LEN@"NRootCmpPRQ) (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
+      define Noun [ (NPref) [NRootPRQ] ("@PHONPROC@"NRootCmpPRQ) (NSuff) ] .o. Lenition .o. NounFeatRestr ; #.o. VowelLoss ;
       
       define NominalizedVerb [ (NPref) [VRootPRQ] [
                                                      [(V=S=APPLINT) (V=S=DUR)] 
@@ -259,7 +261,7 @@
                                                   [V=S=NMZ|V=S=ADJ] (NRootCmpPRQ) 
                                                   [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; #.o. VowelLoss ;
       
-      define CompositeVerbRoot [ (V=S=noun) ("@LEN@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
+      define CompositeVerbRoot [ (V=S=noun) ("@PHONPROC@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
       # Verb 
       define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Epenthesis .o. Lenition ; #.o. FeatRestr;
