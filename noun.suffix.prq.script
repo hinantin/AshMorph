@@ -165,6 +165,7 @@ define N=S=CL [
 # --------------------------------------------------------------------------------
 ! .. 
 | "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi}  # chakopi 'arrow'
+! mamaropa / =mamaro -pa / =owl -cl:plantain / EN: 'plantain.sp.'; ES: 'especie.de.plátano'
 | "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : {pa} # akapa 'avocado'
 ! 
 | "[--][-kana][+CL:chili-pepper][=chili-pepper]" : {kana} # tsirikana 'chili-pepper' 
