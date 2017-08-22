@@ -327,6 +327,7 @@ define N=S=CL [
 ! kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato'  
 ! shinkia / =shinki -a / =corn -cl:liquid / ES: 'bebida.de.maíz, chicha.espesa'; EN: 'thick.corn.beer, thick-chicha-like.beverage'  
 ! niyankia / =niyanki -a / =middle -cl:liquid / ES: 'parte.media.del.río'; EN: "river's.main.channel (lit.: river's.middle.part)"  
+! pariantiaa / =parianti -aa / =plantain -cl:liquid / EN: 'banana.beer' \cite[pag.39]{shepard:classi:97} 
 | "[--][-aa][+CL:liquid][=liquid]" : {aa} ! @CL 
 | "[--][-a][+CL:liquid][=liquid]" : {a} ! @CL 
 ! 
