@@ -2684,7 +2684,7 @@ define NRootPRQin [
 ! 
 | "[=tairinkari+m.][NRoot][=curl-crested.aracari (sci.nm.: pteroglossus.beauharnaessi), small.toucan.sp.]" : {tairinkari}
 ! shell, peel, skin
-| "[=taki+n.m.+inal.][NRoot][=shell; peel; skin]" : {taki}
+| "[=taki+n.m.+inal.][NRoot][=shell; peel; skin]" : {taki} ! N@->V 
 | "[=otaki+n.m.+inal.][NRoot][=shell; peel; skin; her.shell]" : {otaki}
 ! 
 | "[=takitsi+m.][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {takitsi}
