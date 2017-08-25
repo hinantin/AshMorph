@@ -352,13 +352,13 @@ define N=S=CL [
 ! iyanirimashi / i- =kaniri -mashi / 3m.poss- =manioc -cl:vast.space.with.vagetation / EN: 'his.big.field.of.manioc' ES: ''  
 | "[--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation]" : {mashi} 
 ! 
-! apapakoroni / =apa -pako -ro+n.m. -ni / =one -cl:five -nmz -anim / EN: 'five'
-! mavapakoroni / =mava -pako -ro+n.m. -ni / =three -cl:five -nmz -anim / EN: 'fifteen'
-! apapakoroniapani / =apa -pako -ro+n.m. -ni =apa -ni / =three -cl:five -nmz -anim =one -anim / EN: 'six'
-! shintsipakori / =shintsi -pako -ri+m. / =to.be.quick -cl:hand -nmz / EN: ''; ES: 'una persona que trabaja muy rápidamente'
-! kireekipakori / =kireeki -pako -ri+m. / =money -cl:hand -adj / EN: 'wealthy.man'; ES: 'adinerado'  
-! kireekipakoro / =kireeki -pako -ro+n.m. / =money -cl:hand -adj / EN: 'wealthy.woman'; ES: 'adinerada'  
-| "[--][-pako][+CL:hand][=hand, five]" : {pako} ! @CL 
+! apapakoroni / =apa -pako -ro+n.m. -ni / =one -cl:your.five -nmz -anim / EN: 'five'
+! mavapakoroni / =mava -pako -ro+n.m. -ni / =three -cl:your.five -nmz -anim / EN: 'fifteen'
+! apapakoroniapani / =apa -pako -ro+n.m. -ni =apa -ni / =three -cl:your.five -nmz -anim =one -anim / EN: 'six'
+! shintsipakori / =shintsi -pako -ri+m. / =to.be.quick -cl:your.hand -nmz / EN: ''; ES: 'una persona que trabaja muy rápidamente'
+! kireekipakori / =kireeki -pako -ri+m. / =money -cl:your.hand -adj / EN: 'wealthy.man'; ES: 'adinerado'  
+! kireekipakoro / =kireeki -pako -ro+n.m. / =money -cl:your.hand -adj / EN: 'wealthy.woman'; ES: 'adinerada'  
+| "[--][-pako][+CL:your.hand][=your.hand, your.five]" : {pako} ! @CL 
 ];
       
 define N=S=EXCL [
