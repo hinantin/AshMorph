@@ -3,14 +3,14 @@ define NumeralPRQin [
   "[=aparo][NumeralPRQ][=one]" : {aparo}
 | "[=aparoni][NumeralPRQ][=one]" : {aparoni} ! N@->V
 | "[=apani][NumeralPRQ][=one]" : {apani} 
-| "[=pani][NumeralPRQ][=one]" : {pani} 
+| "[=pani][NumeralPRQ][=one]" : {pani} ! @CMP 
 ! 
 # 2 
 | "[=apite][NumeralPRQ][=two]" : {apite} ! N@->V
-| "[=pite][NumeralPRQ][=two]" : {pite} 
+| "[=pite][NumeralPRQ][=two]" : {pite} ! @CMP 
 ! 
 # 3 
-| "[=mava][NumeralPRQ][=three]" : {mava} ! N@->V
+| "[=mava][NumeralPRQ][=three]" : {mava} ! N@->V  @CMP 
 | "[=maava][NumeralPRQ][=three]" : {maava}
 ! 
 # 4 
@@ -18,36 +18,36 @@ define NumeralPRQin [
 | "[=apiteta][NumeralPRQ][=four]" : {apiteta}
 | "[=apitevakaye][NumeralPRQ][=four]" : {apitevakaye}
 | "[=apitekavakaye][NumeralPRQ][=four]" : {apitekavakaye}
-| "[=otsi][NumeralPRQ][=four]" : {otsi}
+| "[=otsi][NumeralPRQ][=four]" : {otsi} ! @CMP 
 | "[=oyatanakerori][NumeralPRQ][=four]" : {oyatanakerori} ! source:IIAP 
 ! 
 # 5 
 | "[=apavakoro][NumeralPRQ][=five]" : {apavakoro} ! source:IIAP
 | "[=apapokoroni][NumeralPRQ][=five]" : {apapokoroni}
 | "[=apapakoroni][NumeralPRQ][=five]" : {apapakoroni}
-| "[=koni][NumeralPRQ][=five]" : {koni}
+| "[=koni][NumeralPRQ][=five]" : {koni} ! @CMP 
 ! 
 # 6 
 | "[=oihatzirori][NumeralPRQ][=six]" : {oihatzirori}
 | "[=shintapakerori][NumeralPRQ][=six]" : {shintapakerori}
-| "[=iko][NumeralPRQ][=six]" : {iko}
+| "[=iko][NumeralPRQ][=six]" : {iko} ! @CMP 
 ! 
 # 7 
 | "[=siete][NumeralPRQ][=seven]" : {siete}
 | "[=yaantsiri][NumeralPRQ][=seven]" : {yaantsiri}
 | "[=shirinkapaichari][NumeralPRQ][=seven]" : {shirinkapaichari}
-| "[=tson][NumeralPRQ][=seven]" : {tson}
+| "[=tson][NumeralPRQ][=seven]" : {tson} ! @CMP 
 ! 
 # 8 
 | "[=ocho][NumeralPRQ][=eight]" : {ocho}
 | "[=pasini][NumeralPRQ][=eight]" : {pasini}
 | "[=tsoti][NumeralPRQ][=eight]" : {tsoti}
-| "[=soti][NumeralPRQ][=eight]" : {soti}
+| "[=soti][NumeralPRQ][=eight]" : {soti} ! @CMP 
 ! 
 # 9 
 | "[=pashini][NumeralPRQ][=nine]" : {pashini}
 | "[=yaatapakirori][NumeralPRQ][=nine]" : {yaatapakirori}
-| "[=tin][NumeralPRQ][=nine]" : {tin}
+| "[=tin][NumeralPRQ][=nine]" : {tin} ! @CMP 
 ! 
 # 10 
 | "[=apitevakaye][NumeralPRQ][=ten]" : {apitevakaye}

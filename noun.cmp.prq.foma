@@ -32,4 +32,5 @@ define NRootCmpPRQin [
 | "[--][=hantsa][NRoot][=long (in.length)]" : {hantsa} ! N@->V @CMP
 # @CMP			noun composition 
 | "[--][=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
+| "[--][=tson][NumeralPRQ][=seven]" : {tson} ! @CMP 
 ];
