@@ -52,7 +52,7 @@ define NumeralPRQin [
 # 10 
 | "[=apitevakaye][NumeralPRQ][=ten]" : {apitevakaye}
 | "[=oshikiri][NumeralPRQ][=ten]" : {oshikiri}
-| "[=tsa][NumeralPRQ][=ten]" : {tsa}
+| "[=tsa][NumeralPRQ][=ten]" : {tsa} ! @CMP 
 ! 
 # 18 
 | "[=dieciocho][NumeralPRQ][=eighteen]" : {dieciocho}

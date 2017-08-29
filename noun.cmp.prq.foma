@@ -41,4 +41,5 @@ define NRootCmpPRQin [
 | "[--][=tson][NumeralPRQ][=seven]" : {tson} ! @CMP 
 | "[--][=soti][NumeralPRQ][=eight]" : {soti} ! @CMP 
 | "[--][=tin][NumeralPRQ][=nine]" : {tin} ! @CMP 
+| "[--][=tsa][NumeralPRQ][=ten]" : {tsa} ! @CMP 
 ];
