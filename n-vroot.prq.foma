@@ -110,5 +110,5 @@ define NounToVerbPRQin [
 | "[=haran][IdeoPRQ][=sound/action.made.by.a.falling/breaking.branch/tree]+vbz." : {haran} ! N@->V
 | "[=aparoni][NumeralPRQ][=one]+vbz." : {aparoni} ! N@->V
 | "[=apite][NumeralPRQ][=two]+vbz." : {apite} ! N@->V
-| "[=mava][NumeralPRQ][=three]+vbz." : {mava} ! N@->V
+| "[=mava][NumeralPRQ][=three]+vbz." : {mava} ! N@->V  @CMP 
 ];

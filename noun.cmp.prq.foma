@@ -32,5 +32,13 @@ define NRootCmpPRQin [
 | "[--][=hantsa][NRoot][=long (in.length)]" : {hantsa} ! N@->V @CMP
 # @CMP			noun composition 
 | "[--][=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
+| "[--][=pani][NumeralPRQ][=one]" : {pani} ! @CMP 
+| "[--][=pite][NumeralPRQ][=two]" : {pite} ! @CMP 
+| "[--][=mava][NumeralPRQ][=three]" : {mava} ! N@->V  @CMP 
+| "[--][=otsi][NumeralPRQ][=four]" : {otsi} ! @CMP 
+| "[--][=koni][NumeralPRQ][=five]" : {koni} ! @CMP 
+| "[--][=iko][NumeralPRQ][=six]" : {iko} ! @CMP 
 | "[--][=tson][NumeralPRQ][=seven]" : {tson} ! @CMP 
+| "[--][=soti][NumeralPRQ][=eight]" : {soti} ! @CMP 
+| "[--][=tin][NumeralPRQ][=nine]" : {tin} ! @CMP 
 ];
