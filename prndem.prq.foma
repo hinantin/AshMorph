@@ -66,7 +66,7 @@ define PrnDemPRQin [
 ! Demonstrative identifier 
 | "[=heri+m.][PrnDem][=DEM.ID.][=here.you.are, here.it.is]" : {heri} 
 | "[=herika+m.+proximal][PrnDem][=DEM.ID.][=here.it.is (ES: aquí.está)]" : {herika} 
-| "[=heriyonta+m.+distal][PrnDem][=DEM.ID.][=it.is.over.there]" : {heriyonta}
+| "[=heriyonta+m.+distal][PrnDem][=DEM.ID.][=it.is.over.there (ES: allá.está)]" : {heriyonta} 
 ! 
 | "[=hero+n.m.][PrnDem][=DEM.ID.][=here.you.are]" : {hero}
 | "[=heroka+n.m.+proximal][PrnDem][=DEM.ID.][=here.you.are; here.it.is]" : {heroka}
