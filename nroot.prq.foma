@@ -91,7 +91,7 @@ define NRootPRQin [
 # nanani / n- =ana -ni / 1sg.poss- =black.dye -nposs / EN: 'my.black.dye'  
 | "[=ana+poss@ni.][NRoot][=genipap, huito, jagua (botany.id.: genipa.americana); black.dye]" : {ana}
 ! 
-| "[=ananta+poss@ti.][NRoot][=orchid.sp. (ESP: orquídea)]" : {ananta}
+| "[=ananta+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
 ! 
 | "[=ani+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {ani}
 | "[=anii+m.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
@@ -218,7 +218,7 @@ define NRootPRQin [
 ! 
 | "[=chapiti][NRoot][=worm.sp.]" : {chapiti}
 ! 
-| "[=charava][NRoot][=fish.sp. (ESP: súngaro)]" : {charava}
+| "[=charava][NRoot][=fish.sp. (ES: súngaro)]" : {charava}
 ! 
 ! grandpa, grandfather, grandparents
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine} ! N@->V
@@ -384,8 +384,8 @@ define NRootPRQin [
 | "[=itzi+m.][NRoot][=armadillo; small.armadillo]" : {itzi}
 | "[=etini][NRoot][=armadillo]" : {etini}
 ! 
-| "[=etziki+n.m.][NRoot][=wild.fruit.sp. (ESP: caimitillo)]" : {etziki}
-| "[=etiki+n.m.][NRoot][=wild.fruit.sp. (ESP: caimitillo)]" : {etiki}
+| "[=etziki+n.m.][NRoot][=wild.fruit.sp. (ES: caimitillo)]" : {etziki}
+| "[=etiki+n.m.][NRoot][=wild.fruit.sp. (ES: caimitillo)]" : {etiki}
 ! 
 | "[=itsipa+m.][NRoot][=other, another]" : {itsipa}
 | "[=otsipa+n.m.][NRoot][=other, another]" : {otsipa}
@@ -693,17 +693,17 @@ define NRootPRQin [
 | "[=iyotsi+m.][NRoot][=catfish.sp. (súngaro, doncella), fish.sp.]" : {iyotsi}
 ! 
 # ivenki: plant only handle by males 
-| "[=ivenki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ESP: piripiri, sci.nm.: cyperus.piripiri)]" : {ivenki}
-| "[=ivinki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ESP: piripiri, sci.nm.: cyperus.piripiri)]" : {ivinki}
+| "[=ivenki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri)]" : {ivenki}
+| "[=ivinki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri)]" : {ivinki}
 # ovenki: plant only handle by females 
-| "[=ovenki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ESP: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ESP: vaina)]" : {ovenki}
-| "[=ovinki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ESP: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ESP: vaina)]" : {ovinki}
+| "[=ovenki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ES: vaina)]" : {ovenki}
+| "[=ovinki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ES: vaina)]" : {ovinki}
 ! 
 | "[=ivire+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {ivire}
 | "[=iviri+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
 ! 
-| "[=iveto][NRoot][=capybara (mountain.animal, ESP: ronsoco)]" : {iveto}
-| "[=oveto][NRoot][=capybara (mountain.animal, ESP: ronsoco)]" : {oveto}
+| "[=iveto][NRoot][=capybara (mountain.animal, ES: ronsoco)]" : {iveto}
+| "[=oveto][NRoot][=capybara (mountain.animal, ES: ronsoco)]" : {oveto}
 ! 
 # -------------------------------------------------------------------------------------------------
 | "[=sari+m.][NRoot][=grandpa, grandfather (kin.of.a.female); grandson (kin.of.a.female)]" : {sari}
@@ -715,9 +715,9 @@ define NRootPRQin [
 ! 
 | "[=sari+m.+poss@ni.][NRoot][=scarlet.macaw (sci.nm.: ara.macaw)]" : {sari}
 ! 
-| "[=savavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savavo}
-| "[=savaro+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {savaro}
-| "[=havavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ESP: papagallo, guacamayo.rojo), parrot.sp.]" : {havavo}
+| "[=savavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo), parrot.sp.]" : {savavo}
+| "[=savaro+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo), parrot.sp.]" : {savaro}
+| "[=havavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo), parrot.sp.]" : {havavo}
 ! 
 | "[=save+m.][NRoot][=turtle.sp.]" : {save}
 ! 
@@ -867,7 +867,7 @@ define NRootPRQin [
 ! 
 | "[=kanai][NRoot][=tree.sp.]" : {kanai}
 ! 
-| "[=kanari+poss@ti.][NRoot][=common.piping-guan (sci.nm.: aburria.pipile), wild.turkey.sp. (ESP: pava.del.monte)]" : {kanari}
+| "[=kanari+poss@ti.][NRoot][=common.piping-guan (sci.nm.: aburria.pipile), wild.turkey.sp. (ES: pava.del.monte)]" : {kanari}
 ! 
 | "[=kanarinke][NRoot][=venomous.viper.sp.]" : {kanarinke}
 ! 
@@ -906,8 +906,8 @@ define NRootPRQin [
 # kainipirotsa: vine.sp.used.in.the.preparation.of.an.anti-inflammatory.medicine; the.cure/medicine.is.made.from.the.bark.peeled.from.the.vine-and-applied.to.the.wound 
 | "[=kainipirotsa+n.m.][NRoot][=vine.sp. (ES: bejuco.para.las.fracturas, EN: vine)]" : {kainipirotsa}
 ! 
-| "[=karento+n.m.][NRoot][=liana.sp. (ESP: bejuco, madreselva)]" : {karento}
-| "[=kainto+n.m.][NRoot][=liana.sp. (ESP: bejuco, madreselva)]" : {kainto}
+| "[=karento+n.m.][NRoot][=liana.sp. (ES: bejuco, madreselva)]" : {karento}
+| "[=kainto+n.m.][NRoot][=liana.sp. (ES: bejuco, madreselva)]" : {kainto}
 ! 
 | "[=kasanto][NRoot][=blue-and-yellow.macaw (sci.nm.: ara.ararauna); yellow.chested.macaw]" : {kasanto}
 ! 
@@ -918,6 +918,8 @@ define NRootPRQin [
 | "[=koche][NRoot][=semen]" : {koche} ! 
 ! 
 | "[=kashiri+m.][NRoot][=moon; month; lunar.deity]" : {kashiri}
+! 
+| "[=kasonkati][NRoot][=deer/mule-shaped.devil]" : {kasonkati}
 ! 
 | "[=katari][NRoot][=wild.duck; American.darter (sci.nm.: anhinga.anhinga)]" : {katari}
 ! 
@@ -942,7 +944,7 @@ define NRootPRQin [
 ! 
 | "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
 ! 
-| "[=kemari+poss@ti.][NRoot][=South.American.tapir (ESP: sachavaca), pig-like.animal (anta)]" : {kemari}
+| "[=kemari+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca), pig-like.animal (anta)]" : {kemari}
 ! 
 | "[=kemi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.); squash]" : {kemi}
 | "[=kimi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.); squash]" : {kimi}
@@ -989,8 +991,8 @@ define NRootPRQin [
 | "[=keni+m.+inal.][NRoot][=red.mite (pique, nigua); decomposition.worm.sp.; hookworm]" : {keni}
 | "[=kini+m.+inal.][NRoot][=red.mite (pique, nigua); decomposition.worm.sp.; hookworm]" : {kini}
 ! 
-| "[=kiniri][NRoot][=howler.monkey (ESP: mono.coto)]" : {kiniri}
-| "[=haniri][NRoot][=monkey.sp. (ESP: mono.coto)]" : {haniri}
+| "[=kiniri][NRoot][=howler.monkey (ES: mono.coto)]" : {kiniri}
+| "[=haniri][NRoot][=monkey.sp. (ES: mono.coto)]" : {haniri}
 ! 
 | "[=kentaro+m.][NRoot][=parrot.sp. (blue.macaw)]" : {kentaro}
 | "[=kentavo+m.][NRoot][=parrot.sp. (blue.macaw); venomous.snake.sp. (shushupi)]" : {kentavo}
@@ -1016,12 +1018,12 @@ define NRootPRQin [
 | "[=kentsi+n.m.+inal.][NRoot][=neck, nape]" : {kentsi} ! @VCMP 
 | "[=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi} ! @VCMP 
 ! 
-| "[=kintsori+poss@ti.][NRoot][=partridge.sp. (ESP: perdiz); blue.quail]" : {kintsori}
+| "[=kintsori+poss@ti.][NRoot][=partridge.sp. (ES: perdiz); blue.quail]" : {kintsori}
 | "[=kentsori+poss@ti.][NRoot][=great.tinamou (sci.nm.: tinamus.major)]" : {kentsori}
 ! 
-| "[=kepya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepya}
-| "[=kepea+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepea}
-| "[=kepiya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ESP: bombonaje)]" : {kepiya}
+| "[=kepya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje)]" : {kepya}
+| "[=kepea+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje)]" : {kepea}
+| "[=kepiya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje)]" : {kepiya}
 ! 
 # ---------------------------------------------------------------------------
 # kipatsi: country, earth, soil, ground, land, dirt, dust 
@@ -1072,15 +1074,15 @@ define NRootPRQin [
 | "[=kishi+inal.][NRoot][=hair (ES: pelo)]" : {kishi}
 ! 
 # Sharokishi / =sharo =kishi / =rodent.sp. =mountainous.grassland / EN: 'grasslands.with.abundant.agoutis' 
-| "[=kishii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {kishii}
-| "[=kishi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {kishi} ! @CMP 
-| "[=keshii][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {keshii}
-| "[=keshi][NRoot][=mountainous.grassland (ESP: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {keshi}
+| "[=kishii][NRoot][=mountainous.grassland (ES: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {kishii}
+| "[=kishi][NRoot][=mountainous.grassland (ES: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {kishi} ! @CMP 
+| "[=keshii][NRoot][=mountainous.grassland (ES: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {keshii}
+| "[=keshi][NRoot][=mountainous.grassland (ES: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {keshi}
 ! 
 | "[=kishiri+m.][NRoot][=comb]" : {kishiri}
 | "[=kishire+m.][NRoot][=comb]" : {kishire}
 ! 
-| "[=kitairiki][NRoot][=peccary (ESP: sajino); wild.pig]" : {kitairiki}
+| "[=kitairiki][NRoot][=peccary (ES: sajino); wild.pig]" : {kitairiki}
 | "[=kitaiteri][NRoot][=day]" : {kitaiteri}
 | "[=kitaeteri][NRoot][=day]" : {kitaeteri}
 ! 
@@ -1205,8 +1207,8 @@ define NRootPRQin [
 | "[=koria+poss@ni.][NRoot][=manioc.worm]" : {koria}
 | "[=korya+poss@ni.][NRoot][=manioc.worm]" : {korya}
 ! 
-| "[=koryo][NRoot][=fish.var., catfish.sp. (ESP: cunchi)]" : {koryo}
-| "[=korio][NRoot][=fish.var., catfish.sp. (ESP: cunchi)]" : {korio}
+| "[=koryo][NRoot][=fish.var., catfish.sp. (ES: cunchi)]" : {koryo}
+| "[=korio][NRoot][=fish.var., catfish.sp. (ES: cunchi)]" : {korio}
 ! 
 | "[=korokorotzi][NRoot][=green.ibis (sci.nm.: mesembrinibis.cayennensis)]" : {korokorotzi}
 ! 
@@ -1225,13 +1227,13 @@ define NRootPRQin [
 | "[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp.]" : {koshiri}
 | "[=koshire+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp.]" : {koshire}
 ! 
-| "[=koshoshiko][NRoot][=dolphin.sp. (ESP: bufeo,delfin)]" : {koshoshiko}
-| "[=koshoshika][NRoot][=dolphin.sp. (ESP: bufeo,delfin)]" : {koshoshika}
+| "[=koshoshiko][NRoot][=dolphin.sp. (ES: bufeo,delfin)]" : {koshoshiko}
+| "[=koshoshika][NRoot][=dolphin.sp. (ES: bufeo,delfin)]" : {koshoshika}
 ! 
-| "[=koteri][NRoot][=bird.sp. (ESP: unchala)]" : {koteri}
-| "[=kotiri][NRoot][=bird.sp. (ESP: unchala)]" : {kotiri}
-| "[=koatsere][NRoot][=bird.sp. (ESP: unchala)]" : {koatsere}
-| "[=kovachere][NRoot][=bird.sp. (ESP: unchala)]" : {kovachere}
+| "[=koteri][NRoot][=bird.sp. (ES: unchala)]" : {koteri}
+| "[=kotiri][NRoot][=bird.sp. (ES: unchala)]" : {kotiri}
+| "[=koatsere][NRoot][=bird.sp. (ES: unchala)]" : {koatsere}
+| "[=kovachere][NRoot][=bird.sp. (ES: unchala)]" : {kovachere}
 | "[=kovacheri][NRoot][=gray-necked.wood.rail, bird.sp. (unchala, sci.nm.: aramides.cajanea)]" : {kovacheri}
 ! 
 | "[=kotzi+n.m.+inal.][NRoot][=cane, stick]" : {kotzi}
@@ -1314,8 +1316,8 @@ define NRootPRQin [
 ! 
 | "[=mampo+n.m.+inal.][NRoot][=tenderness (ES: blandura)]" : {mampo}
 ! 
-| "[=manihi][NRoot][=bullet.ant (ESP: isula)]" : {manihi}
-| "[=manii][NRoot][=bullet.ant (ESP: isula)]" : {manii}
+| "[=manihi][NRoot][=bullet.ant (ES: isula)]" : {manihi}
+| "[=manii][NRoot][=bullet.ant (ES: isula)]" : {manii}
 ! 
 | "[=maninkari+m.][NRoot][=invisible.person.who.live.in.highlands; a.sort.of.ancestral.divinity]" : {maninkari}
 | "[=maninkaro+n.m.][NRoot][=invisible.person.who.live.in.highlands; a.sort.of.ancestral.divinity]" : {maninkaro}
@@ -1438,9 +1440,9 @@ define NRootPRQin [
 | "[=menta+n.m.+inal.][NRoot][=fin.of.tree (ES: aleta.de.árbol)]" : {menta}
 | "[=minta+n.m.+inal.][NRoot][=fin.of.tree (ES: aleta.de.árbol)]" : {minta}
 ! 
-| "[=meanto+m.][NRoot][=macaw, parrot.sp. (ESP: guacamayo, QU: wakamayu)]" : {meanto}
-| "[=mianto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ESP: guacamayo, QU: wakamayu)]" : {mianto}
-| "[=myanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ESP: guacamayo, QU: wakamayu)]" : {myanto}
+| "[=meanto+m.][NRoot][=macaw, parrot.sp. (ES: guacamayo, QU: wakamayu)]" : {meanto}
+| "[=mianto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo, QU: wakamayu)]" : {mianto}
+| "[=myanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo, QU: wakamayu)]" : {myanto}
 ! 
 | "[=meiri+poss@te.][NRoot][=big.squirrel.sp.]" : {meiri}
 | "[=meyiri+poss@te.][NRoot][=big.squirrel.sp.]" : {meyiri}
@@ -1453,8 +1455,8 @@ define NRootPRQin [
 | "[=miichi+m.][NRoot][=cat]" : {miichi}
 | "[=miishi][NRoot][=cat]" : {miishi}
 ! 
-| "[=menki+n.m.+inal.][NRoot][=partly-burned.stickb (ESP: tizón)]" : {menki}
-| "[=minki+n.m.+inal.][NRoot][=partly-burned.stickb (ESP: tizón)]" : {minki}
+| "[=menki+n.m.+inal.][NRoot][=partly-burned.stickb (ES: tizón)]" : {menki}
+| "[=minki+n.m.+inal.][NRoot][=partly-burned.stickb (ES: tizón)]" : {minki}
 ! 
 | "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
 | "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V @VCMP 
@@ -1516,8 +1518,8 @@ define NRootPRQin [
 | "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.]" : {mita}
 | "[=mitaa+n.m.][NRoot][=cinnamon.sp., tree.sp.]" : {mitaa}
 ! 
-| "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ESP: alcanfor)]" : {metasankari} ! compound 
-| "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ESP: alcanfor)]" : {mitasankari} ! compound 
+| "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {metasankari} ! compound 
+| "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {mitasankari} ! compound 
 ! 
 | "[=miti+inal.][NRoot][=spine (ES: columna.vertebral)]" : {miti}
 | "[=mitzi+inal.][NRoot][=spine (ES: columna.vertebral)]" : {mitzi}
@@ -1756,8 +1758,8 @@ define NRootPRQin [
 ! 
 | "[=otsitiniro][NRoot][=fox; wild.dog, mountain.dog]" : {otsitiniro}
 ! 
-| "[=otzishi+n.m.][NRoot][=row; hill; mountain.pass (ESP: abra)]" : {otzishi}
-| "[=otishi+n.m.][NRoot][=row; hill; mountain.pass (ESP: abra)]" : {otishi}
+| "[=otzishi+n.m.][NRoot][=row; hill; mountain.pass (ES: abra)]" : {otzishi}
+| "[=otishi+n.m.][NRoot][=row; hill; mountain.pass (ES: abra)]" : {otishi}
 ! 
 | "[=otyamere+n.m.][NRoot][=roasted.yucca]" : {otyamere}
 ! 
@@ -1771,9 +1773,9 @@ define NRootPRQin [
 ! 
 | "[=vako][NRoot][=venomous.plant.sp. (ES: huaco)]" : {vako}
 ! 
-| "[=ovae+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ESP: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovae}
-| "[=ovai+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ESP: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovai}
-| "[=yorini][NRoot][=Andean.cock-of-the-rock, bird.sp. (ESP: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {yorini}
+| "[=ovae+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovae}
+| "[=ovai+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovai}
+| "[=yorini][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {yorini}
 ! 
 | "[=ovanaro+n.m.+inal.][NRoot][=staple.food, necessity.good]" : {ovanaro}
 | "[=ovanavo+n.m.+inal.][NRoot][=staple.food, necessity.good]" : {ovanavo}
@@ -1838,7 +1840,7 @@ define NRootPRQin [
 ! 
 | "[=pamoko+poss@ti.][NRoot][=bejuco.sp. (pate); gourd (climbing.plant.that.bears.gourds)]" : {pamoko}
 ! 
-| "[=panashinte][NRoot][=sapote-like.tree.sp. (ESP: sapote/zapote.silvestre)]" : {panashinte}
+| "[=panashinte][NRoot][=sapote-like.tree.sp. (ES: sapote/zapote.silvestre)]" : {panashinte}
 ! 
 | "[=panaropa][NRoot][=wild.papaya]" : {panaropa}
 ! 
@@ -1904,7 +1906,7 @@ define NRootPRQin [
 | "[=parito+m.][NRoot][=small.parrot.sp. (ES: loro.choclero)]" : {parito}
 | "[=pareta+m.][NRoot][=small.parrot.sp. (ES: loro.choclero)]" : {pareta}
 ! 
-| "[=pasanta+n.m.][NRoot][=hardwood.plate.with.a.flat.bottom (before.it.was.used.to.grind.corn); mortar (ESP: batán)]" : {pasanta}
+| "[=pasanta+n.m.][NRoot][=hardwood.plate.with.a.flat.bottom (before.it.was.used.to.grind.corn); mortar (ES: batán)]" : {pasanta}
 ! 
 | "[=patanari][NRoot][=red.resin.sp. (after.boiling.this.resin.is.placed.on.the.tip.of.arrows); tree.sp.]" : {patanari}
 ! 
@@ -2043,7 +2045,7 @@ define NRootPRQin [
 ! 
 | "[=pitsire+inal.][NRoot][=dirtiness]" : {pitsire} ! novitsire / no- =pitsire / 1sg.poss- =dirtiness
 ! 
-| "[=pitsitsiro+m.][NRoot][=rice-eating.thrush.sp., bird.sp. (ESP: arrosero, arrocero, tordito); variable.seedeater (sci.nm.: sporohila.americana); rice.bird]" : {pitsitsiro}
+| "[=pitsitsiro+m.][NRoot][=rice-eating.thrush.sp., bird.sp. (ES: arrosero, arrocero, tordito); variable.seedeater (sci.nm.: sporohila.americana); rice.bird]" : {pitsitsiro}
 ! 
 | "[=pitzintzi+m.][NRoot][=sparrow.sp., black-headed.black-winged.red.bird.sp]" : {pitzintzi}
 ! 
@@ -2060,8 +2062,8 @@ define NRootPRQin [
 | "[=tsipaveirotzi][NRoot][=sand-colored.nighthawk (sci.nm.: chordeiles.rupestris)]" : {tsipaveirotzi}
 | "[=tsipaveiro][NRoot][=pauraque (sci.nm.: nyctidromus.albicollis)]" : {tsipaveiro}
 ! 
-| "[=tsipi][NRoot][=small.monkey (ESP: mono.de.bolsillo, pichico, mono.fraile)]" : {tsipi}
-| "[=chipi][NRoot][=small.monkey (ESP: mono.de.bolsillo, pichico, mono.fraile)]" : {chipi}
+| "[=tsipi][NRoot][=small.monkey (ES: mono.de.bolsillo, pichico, mono.fraile)]" : {tsipi}
+| "[=chipi][NRoot][=small.monkey (ES: mono.de.bolsillo, pichico, mono.fraile)]" : {chipi}
 ! 
 | "[=tsina][NRoot][=palm.tree.sp. (huasaí)]" : {tsina}
 | "[=tsire+n.m.+inal.][NRoot][=palm.tree.sp. (huasaí, chonta)]" : {tsire}
@@ -2102,8 +2104,8 @@ define NRootPRQin [
 # novochokine / no- =pochoki -ne / 1sg.poss- =dream -nposs / EN: 'my.dream', ES: 'mi.sueño' 
 | "[=pochoki+poss@ne.][NRoot][=dream]" : {pochoki} 
 ! 
-| "[=poe][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poe}
-| "[=poi][NRoot][=tuber.sp. (ESP: yacón, botany.id.: pachyrizus.erosus)]" : {poi}
+| "[=poe][NRoot][=tuber.sp. (ES: yacón, botany.id.: pachyrizus.erosus)]" : {poe}
+| "[=poi][NRoot][=tuber.sp. (ES: yacón, botany.id.: pachyrizus.erosus)]" : {poi}
 ! 
 | "[=poiritzi][NRoot][=blue-crowned.manakin (sci.nm.: pipra.coronata)]" : {poiritzi} ! Poirkzi ???
 ! 
@@ -2122,8 +2124,8 @@ define NRootPRQin [
 ! 
 | "[=poonkari][NRoot][=crested.oropendola (sci.nm.: psarocolius.decumanus)]" : {poonkari}
 ! 
-| "[=poonkito][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonkito}
-| "[=poonketo][NRoot][=nettle.sp.with.small.thorns (ishanga, ESP: especie.de.ortiga)]" : {poonketo}
+| "[=poonkito][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: especie.de.ortiga)]" : {poonkito}
+| "[=poonketo][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: especie.de.ortiga)]" : {poonketo}
 ! 
 | "[=poonya][NRoot][=olive.oropendola (sci.nm.: gymnostinops.yucaraes)]" : {poonya}
 ! 
@@ -2210,9 +2212,9 @@ define NRootPRQin [
 ! 
 | "[=saankotzi][NRoot][=cinereous.tinamou (sci.nm.: crypturellus.cinereus)]" : {saankotzi}
 ! 
-| "[=saari+m.][NRoot][=opossum, possum (ESP: zarigüeya)]" : {saari}
-| "[=sagari][NRoot][=opossum, possum (ESP: zarigüeya)]" : {sagari}
-| "[=haagari][NRoot][=opossum, possum (ESP: zarigüeya)]" : {hagaari}
+| "[=saari+m.][NRoot][=opossum, possum (ES: zarigüeya)]" : {saari}
+| "[=sagari][NRoot][=opossum, possum (ES: zarigüeya)]" : {sagari}
+| "[=haagari][NRoot][=opossum, possum (ES: zarigüeya)]" : {hagaari}
 ! 
 | "[=saasaatzi][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus)]" : {saasaatzi}
 ! 
@@ -2341,8 +2343,8 @@ define NRootPRQin [
 ! 
 | "[=sankonkotzi][NRoot][=ferruginous.pygmy.owl (sci.nm.: glaucidium.brasilianum)]" : {sankonkotzi}
 ! 
-| "[=sankori][NRoot][=ant.sp. (curuhuinsi, ESP: coqui)]" : {sankori}
-| "[=hankori][NRoot][=ant.sp. (curuhuinsi, ESP: coqui)]" : {hankori}
+| "[=sankori][NRoot][=ant.sp. (curuhuinsi, ES: coqui)]" : {sankori}
+| "[=hankori][NRoot][=ant.sp. (curuhuinsi, ES: coqui)]" : {hankori}
 ! 
 | "[=shankoro][NRoot][=small.lizard.sp.]" : {shankoro}
 ! 
@@ -2426,9 +2428,9 @@ define NRootPRQin [
 | "[=saveto+m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa)]" : {saveto}
 | "[=savito+m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa)]" : {savito}
 ! 
-| "[=saavintaro+n.m.][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {saavintaro}
-| "[=saventaro+n.m.][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {saventaro}
-| "[=saventavo+n.m.][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {saventavo}
+| "[=saavintaro+n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saavintaro}
+| "[=saventaro+n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventaro}
+| "[=saventavo+n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventavo}
 ! 
 | "[=saviri+n.m.+poss@te.][NRoot][=machete]" : {saviri}
 ! 
@@ -2486,12 +2488,12 @@ define NRootPRQin [
 | "[=shetero+n.m.][NRoot][=one-eyed, blind.in.one.eye]" : {shetero}
 ! 
 # cape.gooseberry (aguaymanto, from.Quechua.awaymantu, uvilla, sci.nm.: physalis.peruviana
-| "[=shevanto+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {shevanto}
+| "[=shevanto+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevanto}
 ! 
-| "[=sevantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {sevantoki}
-| "[=shevantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {shevantoki}
-| "[=shevantyoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {shevantyoki}
-| "[=hyivantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ESP: uvilla.silvestre)]" : {hyivantoki}
+| "[=sevantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {sevantoki}
+| "[=shevantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantoki}
+| "[=shevantyoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantyoki}
+| "[=hyivantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {hyivantoki}
 ! 
 # oshi intsipa / o- =shi =intsipa / 3n.m.poss- =leaf =ice-cream.bean.tree ES: 'la.hoja.del.pacae' 
 | "[=shi][NRoot][=leaf]" : {shi} 
@@ -2548,10 +2550,10 @@ define NRootPRQin [
 ! 
 | "[=shinkia+n.m.][NRoot][=alcoholic.drink.made.out.of.corn]" : {shinkia}
 ! fish trap, fishing trap
-| "[=shimperi+n.m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap]" : {shimperi}
-| "[=shimpere+n.m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap]" : {shimpere}
-| "[=shimpiri+n./m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap; fish.trap.made.out.of.reed/carrizo/savoro.or.humiro/kompiro (used.to.block.water.at.night)]" : {shimpiri}
-| "[=simpiri+n.m.+inal.][NRoot][=fish.trap (ESP: nasa), fishing.trap]" : {simpiri}
+| "[=shimperi+n.m.+inal.][NRoot][=fish.trap (ES: nasa), fishing.trap]" : {shimperi}
+| "[=shimpere+n.m.+inal.][NRoot][=fish.trap (ES: nasa), fishing.trap]" : {shimpere}
+| "[=shimpiri+n./m.+inal.][NRoot][=fish.trap (ES: nasa), fishing.trap; fish.trap.made.out.of.reed/carrizo/savoro.or.humiro/kompiro (used.to.block.water.at.night)]" : {shimpiri}
+| "[=simpiri+n.m.+inal.][NRoot][=fish.trap (ES: nasa), fishing.trap]" : {simpiri}
 ! 
 | "[=shimperenkotzi+m.][NRoot][=falcon]" : {shimperenkotzi}
 | "[=shimpirinkotzi+m.][NRoot][=falcon]" : {shimpirinkotzi}
@@ -2631,7 +2633,7 @@ define NRootPRQin [
 ! 
 | "[=shivahaniki][NRoot][=Peruvian.anchoveta; fish.sp.]" : {shivahaniki}
 ! 
-| "[=shivarityoki][NRoot][=wild.passion_fruit.sp. (ESP: granadilla.silvestre)]" : {shivarityoki}
+| "[=shivarityoki][NRoot][=wild.passion_fruit.sp. (ES: granadilla.silvestre)]" : {shivarityoki}
 # ishivanki: his.wing.without.feathers, his.featherless.wing 
 | "[=shivaNki+n.m.+inal.][NRoot][=feather; wing]" : {shivanki}
 # ivanki: his.wing; his.wing_feather 
@@ -2864,7 +2866,7 @@ define NRootPRQin [
 ! 
 | "[=tsavi+inal.][NRoot][=vagina]" : {tsavi}
 ! 
-| "[=tsamiri+m.][NRoot][=curassow.sp. (ESP: paujil); razor-billed.curassow (sci.nm.: crax.mitu)]" : {tsamiri}
+| "[=tsamiri+m.][NRoot][=curassow.sp. (ES: paujil); razor-billed.curassow (sci.nm.: crax.mitu)]" : {tsamiri}
 ! 
 | "[=tsanaro+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanaro}
 | "[=tsanavo+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanavo}
@@ -2892,7 +2894,7 @@ define NRootPRQin [
 ! 
 | "[=tsiirishi][NRoot][=La.Merced]" : {tsiirishi} 
 ! 
-| "[=tsikontoche][NRoot][=cat's.claw (ESP: uña.de.gato)]" : {tsikontoche} 
+| "[=tsikontoche][NRoot][=cat's.claw (ES: uña.de.gato)]" : {tsikontoche} 
 ! 
 | "[=tsikontzi][NRoot][=buff-throated.woodcreeper (sci.nm.: xiphorhynchus.guttatus)]" : {tsikontzi} 
 | "[=tsikonti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero)]" : {tsikonti} 
@@ -2964,9 +2966,9 @@ define NRootPRQin [
 ! 
 | "[=tsiyontzi+m.][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiyontzi}
 ! 
-| "[=tsiveta+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ESP: pez.raya)]" : {tsiveta}
-| "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ESP: pez.raya)]" : {tsivita}
-| "[=inaro][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ESP: pez.raya)]" : {inaro}
+| "[=tsiveta+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsiveta}
+| "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
+| "[=inaro][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {inaro}
 ! 
 | "[=tsomi+inal.][NRoot][=breast, bosom]" : {tsomi} ! N@->V
 | "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V
@@ -2982,19 +2984,19 @@ define NRootPRQin [
 ! 
 | "[=tsovi][NRoot][=bow]" : {tsovi}
 ! 
-| "[=tsovero+m.][NRoot][=spider.monkey.sp. (ESP: maquisapa, QU: makisapa)]" : {tsovero}
-| "[=tsoviro+m.][NRoot][=spider.monkey.sp. (ESP: maquisapa, QU: makisapa)]" : {tsoviro}
+| "[=tsovero+m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa)]" : {tsovero}
+| "[=tsoviro+m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa)]" : {tsoviro}
 ! 
 | "[=tsovo][NRoot][=owl.sp. (urcututo)]" : {tsovo}
 | "[=tsoovo][NRoot][=owl.sp. (urcututo)]" : {tsoovo}
 | "[=tsoogo][NRoot][=owl.sp. (urcututo)]" : {tsoogo}
 ! 
-| "[=tsoori][NRoot][=bird.sp. (ESP: paucar, QU: pawkar); catfish.sp. (ESP: súngaro)]" : {tsoori}
+| "[=tsoori][NRoot][=bird.sp. (ES: paucar, QU: pawkar); catfish.sp. (ES: súngaro)]" : {tsoori}
 ! 
-| "[=tsoompiro+n.m.+inal.][NRoot][=fabric.to.carry.a.baby (QU: aparina); sling (ESP: cabestrillo)]" : {tsoompiro}
-| "[=tsompiro+n.m.+inal.][NRoot][=fabric.to.carry.a.baby (QU: aparina); sling (ESP: cabestrillo)]" : {tsompiro}
+| "[=tsoompiro+n.m.+inal.][NRoot][=fabric.to.carry.a.baby (QU: aparina); sling (ES: cabestrillo)]" : {tsoompiro}
+| "[=tsompiro+n.m.+inal.][NRoot][=fabric.to.carry.a.baby (QU: aparina); sling (ES: cabestrillo)]" : {tsompiro}
 ! 
-| "[=tsopiro][NRoot][=big.armored.catfish.sp. (ESP: carachama.grande/alargada)]" : {tsopiro}
+| "[=tsopiro][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]" : {tsopiro}
 ! 
 | "[=tsorimi+n.m.][NRoot][=palm.tree.sp.]" : {tsorimi}
 | "[=tsorimpi+n.m.][NRoot][=palm.tree.sp.]" : {tsorimpi}
@@ -3148,8 +3150,8 @@ define NRootPRQin [
 ! 
 | "[=yoosara+m.][NRoot][=fly.sp.]" : {yoosara}
 ! 
-| "[=yopo+n.m.][NRoot][=tree.sp., mahogany (ESP: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {yopo}
-| "[=aavana+n.m.+poss@ti.][NRoot][=tree.sp., mahogany (ESP: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {aavana}
+| "[=yopo+n.m.][NRoot][=tree.sp., mahogany (ES: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {yopo}
+| "[=aavana+n.m.+poss@ti.][NRoot][=tree.sp., mahogany (ES: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {aavana}
 ! word set: wisdom
 | "[=yorenka+inal.][NRoot][=wisdom, knowledge]" : {yorenka}
 | "[=yorêka+inal.][NRoot][=wisdom, knowledge]" : {yorêka}
