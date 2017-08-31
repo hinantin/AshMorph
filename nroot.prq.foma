@@ -1461,8 +1461,8 @@ define NRootPRQin [
 | "[=miichi+m.][NRoot][=cat]" : {miichi}
 | "[=miishi][NRoot][=cat]" : {miishi}
 ! 
-| "[=menki+n.m.+inal.][NRoot][=partly-burned.stickb (ES: tizón)]" : {menki}
-| "[=minki+n.m.+inal.][NRoot][=partly-burned.stickb (ES: tizón)]" : {minki}
+| "[=menki+n.m.+inal.][NRoot][=partly-burned.stick (ES: tizón)]" : {menki}
+| "[=minki+n.m.+inal.][NRoot][=partly-burned.stick (ES: tizón)]" : {minki}
 ! 
 | "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
 | "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V @VCMP 
@@ -2242,6 +2242,8 @@ define NRootPRQin [
 ! 
 | "[=samomo+m.][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca), dove.sp.]" : {samomo}
 | "[=samomotzi][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca), dove.sp.]" : {samomotzi}
+! 
+| "[=samoto][NRoot][=rotten.stick (ES: palo.podrido); armored.catfish.sp. (carachama)]" : {samoto}
 ! 
 | "[=santi+inal.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V
 ! 
