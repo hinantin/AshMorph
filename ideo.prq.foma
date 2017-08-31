@@ -337,7 +337,9 @@ define IdeoPRQin [
 | "[=tsitok][IdeoPRQ][=action.of...]" : {tsitok} 
 ! 
 | "[=tinik][IdeoPRQ][=sound.of.dropping.sth.]" : {tinik} 
-| "[=tsinik][IdeoPRQ][=sound.of.dropping.sth.]" : {tsinik} 
+| "[=tsinik][IdeoPRQ][=sound.of.dropping.sth.; grab]" : {tsinik} 
+! 
+| "[=tsipak][IdeoPRQ][=action.of.jumping-and-bouncing.off.the.surface]" : {tsipak} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
