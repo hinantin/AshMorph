@@ -7,6 +7,8 @@ define NRootPRQin [
 ! 
 | "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V
 ! 
+| "[=amai][NRoot][=plant.sp, drug (ES: sp.de.planta, droga)]" : {amai} 
+! 
 | "[=apiwtxa][NRoot][=all.together; together]" : {apiwtxa} 
 # ---------------------------------------------------------------------
 # Vocative form
@@ -37,7 +39,7 @@ define NRootPRQin [
 | "[=aavintaro+n.m.+inal.][NRoot][=medicine; natural.medicine]" : {aavintaro}
 ! 
 | "[=aiki+n.m.+inal.][NRoot][=tooth]" : {aiki}
-| "[=ahi+inal.][NRoot][=tooth]" : {ahi}
+| "[=ahi+inal.][NRoot][=tooth (ES: diente)]" : {ahi}
 ! 
 | "[=airi+m.+poss@ti.][NRoot][=black.bee.sp.]" : {airi} 
 ! 
