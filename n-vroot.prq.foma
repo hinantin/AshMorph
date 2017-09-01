@@ -84,6 +84,7 @@ define NounToVerbPRQin [
 | "[=tsome+inal.][NRoot][=breast, bosom]+vbz." : {tsome} ! N@->V
 | "[=viti+n.m.+inal.][NRoot][=hair; feather]+vbz." : {viti} ! N@->V
 | "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]+vbz." : {vitzi} ! N@->V
+| "[=ayompari][NRoot][=trading.partner]+vbz." : {ayompari} ! N@->V 
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tambor} ! N@->V
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tamboo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tamboro} ! N@->V
