@@ -1627,7 +1627,8 @@ define NRootPRQin [
 | "[=nya+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nya}
 | "[=nea+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nea}
 ! 
-| "[=nyaniyo][NRoot][=daughter.in.law (male.ego)]" : {nyaniyo}
+| "[=nyaniyo][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {nyaniyo}
+| "[=anio][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {anio}
 ! 
 | "[=niocho][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {niocho}
 | "[=mamantsiki][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {mamantsiki} ! mother as well ??
