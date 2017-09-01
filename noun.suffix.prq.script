@@ -313,9 +313,9 @@ define N=S=CL [
 | "[--][-ki][+CL:human.populated][=place.populated.by.humans]" : {ki} 
 #-----------------------------------------------
 ! inkaariberi / inkaariveri / =inkaari -veri / =lake -cl:augmentative / ES: 'cocha' 
-! tsinaneberi / tsinaneveri / =tsinane -veri / =woman -cl:augmentative / EN: 'womanizer'; EN: 'mujeriego' 
-! nijaveri / nihaveri / =niha -veri / =river -cl:augmentative / EN: 'river.master'; ES: 'dueño.del.río' 
-! nijavero / nihavero / =niha -vero / =river -cl:augmentative / EN: 'mermaid, fish.woman'; ES: 'sirena, mujer.pez' 
+! tsinaneberi / tsinaneveri / =tsinane -veri / =woman -cl:agentive / EN: 'womanizer'; EN: 'mujeriego' 
+! nijaveri / nihaveri / =niha -veri / =river -cl:agentive / EN: 'river.master'; ES: 'dueño.del.río' 
+! nijavero / nihavero / =niha -vero / =river -cl:agentive / EN: 'mermaid, fish.woman'; ES: 'sirena, mujer.pez' 
 | "[--][-veri][+CL:augmentative][=agentive,augmentative]" : {veri}
 #-----------------------------------------------
 ! 
