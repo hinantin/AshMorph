@@ -3166,6 +3166,9 @@ define NRootPRQin [
 | "[=yoNpare+m.+inal.][NRoot][=friend; trading.partner]" : {yõpare}
 | "[=yompare+m.+inal.][NRoot][=friend; trading.partner]" : {yompare}
 ! 
+! ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas'
+| "[=ayompari][NRoot][=trading.partner]" : {ayompari} ! N@->V 
+! 
 | "[=Yompiri][NRoot][=stone.divinity; proper.name]" : {yompiri}
 ! 
 | "[=yoosara+m.][NRoot][=fly.sp.]" : {yoosara}
