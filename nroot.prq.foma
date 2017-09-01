@@ -112,11 +112,11 @@ define NRootPRQin [
 | "[=aampe+m.][NRoot][=butterfly.sp.]" : {aampe}
 | "[=tsaampe+m.][NRoot][=butterfly.sp.]" : {tsaampe}
 ! cotton
-| "[=ampee][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampee}
-| "[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampe}
-| "[=ampii][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampii}
-| "[=ampi][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampi}
-| "[=ampehi][NRoot][=cotton (botany.nm.: gossipium.sp.)]" : {ampehi}
+| "[=ampee][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampee}
+| "[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampe}
+| "[=ampii][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampii}
+| "[=ampi][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampi}
+| "[=ampehi][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampehi}
 !
 | "[=amporetsa][NRoot][=intestine]" : {amporetsa}
 ! 
