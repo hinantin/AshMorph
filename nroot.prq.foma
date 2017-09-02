@@ -340,9 +340,10 @@ define NRootPRQin [
 ! 
 | "[=chootaro][NRoot][=acuatic.turtle.sp.]" : {chootaro}
 ! 
-| "[=chovankeriki][NRoot][=red.and.black.seed]" : {chovankeriki}
-| "[=chovankeri][NRoot][=huayruro]" : {chovankeri}
-| "[=chovankiri][NRoot][=huayruro]" : {chovankiri}
+| "[=chovankeriki][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chovankeriki}
+| "[=chovankeri][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chovankeri}
+| "[=chovankiri][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chovankiri}
+| "[=chochovaroki][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chochovaroki}
 ! 
 | "[=chovantzi+m.][NRoot][=spotted.sandpiper (sci.nm.: actitis.macularia); bird.sp.]" : {chovantzi} ! chouantzi
 | "[=shankenti][NRoot][=spotted.sandpiper (sci.nm.: actitis.macularia); bird.sp.]" : {shankenti} ! revise?
