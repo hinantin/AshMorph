@@ -1791,11 +1791,11 @@ define NRootPRQin [
 ! 
 | "[=ovayeri+m.][NRoot][=guerrilla; warrior (ES: guerrero); murderer]" : {ovayeri}
 ! sown field. ova/ovaa ó va/vaa, garden?
-| "[=va+n.m.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {va}
-| "[=vaa+n.m.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {vaa}
-| "[=oa+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {oa}
-| "[=ova+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {ova}
-| "[=ovaa+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land]" : {ovaa}
+| "[=va+n.m.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {va}
+| "[=vaa+n.m.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {vaa}
+| "[=oa+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {oa}
+| "[=ova+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {ova}
+| "[=ovaa+n.m.+inal.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {ovaa}
 ! 
 | "[=vako][NRoot][=venomous.plant.sp. (ES: huaco)]" : {vako}
 ! 
