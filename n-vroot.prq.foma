@@ -28,6 +28,7 @@ define NounToVerbPRQin [
 | "[=intaina+loc.][AdvRoot][=far.away]+vbz." : {intaina} ! N@->V ! revise if it belongs to this file 
 | "[=intaena+loc.][AdvRoot][=far.away]+vbz." : {intaena} ! N@->V ! revise if it belongs to this file 
 | "[=inteena+loc.][AdvRoot][=far.away]+vbz." : {inteena} ! N@->V ! revise if it belongs to this file 
+| "[=ira+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]+vbz." : {ira} ! N@->V 
 | "[=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]+vbz." : {kaniri} ! N@->V @CMP 
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]+vbz." : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]+vbz." : {kainiri} ! N@->V @CMP 

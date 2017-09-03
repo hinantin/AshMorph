@@ -652,6 +652,8 @@ define NRootPRQin [
 ! 
 | "[=katzinari][NRoot][=rufous.motmot (sci.nm.: barypthengus.ruficapillus)]" : {katzinari}
 ! 
+| "[=kehi+inal.][NRoot][= (ES: manteca, grasa, cebo)]" : {kehi}
+! 
 | "[=kinashi+n.m.][NRoot][=pituca-like.herb.sp.]" : {kinashi}
 | "[=kenashi+n.m.][NRoot][=pituca-like.herb.sp.]" : {kenashi}
 ! 
@@ -670,7 +672,7 @@ define NRootPRQin [
 ! 
 # iraantsi / =iraa -ntsi / =blood -nposs / EN: 'blood', ES: 'sangre'  
 | "[=iraa+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraa} 
-| "[=ira+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]" : {ira} 
+| "[=ira+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]" : {ira} ! N@->V 
 ! 
 | "[=irantsipi+n.m.][NRoot][=sugar.cane.sp.]" : {irantsipi}
 ! 
