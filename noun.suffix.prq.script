@@ -366,8 +366,9 @@ define N=S=CL [
 ! kireekipakoro / =kireeki -pako -ro+n.m. / =money -cl:your.hand -adj / EN: 'wealthy.woman'; ES: 'adinerada'  
 | "[--][-pako][+CL:your.hand][=your.hand, your.five]" : {pako} ! @CL 
 ! 
-! 
-| "[--][-karaki][+CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : {karaki}
+! inchakaraki / =incha -karaki / =plant -cl:fractional / ES: 'palo.seco' 
+! chekopikaraki / =chekopi -karaki /  
+| "[--][-karaki][+CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : {karaki} ! @CL 
 ];
       
 define N=S=EXCL [
