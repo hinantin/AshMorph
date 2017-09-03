@@ -1,6 +1,7 @@
 define NumeralPRQin [
 # 1 
-  "[=aparo][NumeralPRQ][=one]" : {aparo}
+  "[=apa][NumeralPRQ][=one]" : {apa}
+| "[=aparo][NumeralPRQ][=one]" : {aparo}
 | "[=aparoni][NumeralPRQ][=one]" : {aparoni} ! N@->V
 | "[=apani][NumeralPRQ][=one]" : {apani} 
 | "[=pani][NumeralPRQ][=one]" : {pani} ! @CMP 
