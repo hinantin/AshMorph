@@ -6,6 +6,9 @@ define WhPRQin [
 | "[=tsikapaita][WhPrn][=how, why, what]" : {tsikapaita}
 | "[=paita][WhPrn][=how, why, what]" : {paita}
 | "[=ninka][WhPrn][=who, whom]" : {ninka}
+! 
+| "[=hanika][WhPrn][=who, whom]" : {hanika}
+| "[=haanika][WhPrn][=who, whom]" : {haanika}
 | "[=hanika][WhPrn][=who, whom][--][-mpa][+DUB]" : {hanikampa}
 ! 
 | "[=tsika][WhPrn][=where, what, which]" : {tsika}
