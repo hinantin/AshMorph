@@ -54,7 +54,7 @@ define PrnPersPRQin [
 | "[=iriyori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {iriyori} ! FOC 
 | "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he][--][-hei][Num][+PL]" : {iriorihei} ! FOC 
 ! 
-| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she]" : {iroori} ! FOC 
+| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {iroori} ! FOC 
 | "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she]" : {irori} ! FOC 
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she][--][-hei][Num][+PL]" : {iroorihei} ! FOC 
 !  
@@ -93,7 +93,7 @@ define PrnPersPRQin [
 | "[=nainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {nainti}
 | "[=ainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {ainti}
 | "[=avinti+cntr.cnt.assert.top.][PrnPers][+2SG][=you]" : {avinti}
-| "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.]" : {irointi}
+| "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {irointi}
 | "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {irinti}
 | "[=iriinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {iriinti}
 ! 
