@@ -181,8 +181,9 @@
                                                                             # nokonta (in our lexicon) -> no@PHONPROC@onta -> no@PHONPROC@onta -> noonta 
                                                                             # okomaro (in our lexicon) -> o@PHONPROC@omaro -> o@PHONPROC@omaro -> oomaro-janiqui
                                                                             # oketsa (in our lexicon) -> o@PHONPROC@etsa -> o@PHONPROC@etsa -> o-etsa-re-ki
-      define KLenitionRule3 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{i}] _ [{i}] ]; 
+      define KLenitionRule3 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{i}] _ [{i}] ]; ! not working.. why??? 
                                                                             # ikishi (in our lexicon) -> i@PHONPROC@kishi -> i@PHONPROC@ishi -> iishi 
+                                                                            # ikitsoki (in our lexicon) -> i@PHONPROC@kitsoki -> i@PHONPROC@itsoki -> iitsoki 
       define KLenitionRule4 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{p}] _ [{i}] ]; 
                                                                             # pkitsare (in our lexicon) -> p@PHONPROC@kitsare -> p@PHONPROC@itsare -> pitsare 
       define KLenitionRule5 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{o}] _ [{i}] ]; ! oitsoki -> o=kitsoki 
