@@ -15,7 +15,7 @@ define WhPRQin [
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
 | "[=tsika][WhPrn][=WH][--][-rika][+COND]" : {tsikarika}
 | "[=tsika][WhPrn][=WH][--][-ma][+DUB]" : {tsikama}
-| "[=haoka][WhPrn][=which, when]" : {haoka}
+| "[=haoka][WhPrn][=which, when (ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
 ! indefinite forms
 | "[=ninkarika][IndfPrn][=whoever, everybody, somebody]" : {ninkarika}
