@@ -1061,8 +1061,10 @@ define NRootPRQin [
 ! 
 ! iyepite / ES: 'su.bilis'
 ! noyepite / ES: 'mi.bilis'
-| "[=kepite+n.m.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {kepite}
-| "[=kepitee+n.m.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {kepitee}
+| "[=kepite+n.m.+inal.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {kepite}
+| "[=kepitee+n.m.+inal.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {kepitee}
+| "[=yepite+n.m.+inal.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {yepite}
+| "[=yipite+n.m.+inal.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {yipite}
 ! 
 | "[=kepya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepya}
 | "[=kepea+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepea}
