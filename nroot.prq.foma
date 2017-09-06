@@ -518,8 +518,9 @@ define NRootPRQin [
 ! 
 | "[=hirivatziki+n.m.][NRoot][=hardwood.tree.sp. (ES: estoraque, estoraqui)]" : {hirivatziki}
 ! 
-| "[=hetari+m.][NRoot][=armored.catfish.sp. (ES: carachama)]" : {hetari}
-| "[=hitari+m.][NRoot][=armored.catfish.sp. (ES: carachama)]" : {hitari}
+# hetari: suckermouth.catfish 
+| "[=hetari+m.][NRoot][=small.armored.suckermouth.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hetari}
+| "[=hitari+m.][NRoot][=small.armored.suckermouth.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hitari}
 ! 
 | "[=hevari][NRoot][=local.leader]" : {hevari}
 ! 
@@ -863,8 +864,9 @@ define NRootPRQin [
 # Such encounters may produce a fever, headaches, vomiting, diarrhea, or any combination of these.
 | "[=kamarishi][NRoot][=demonic.herb]" : {kamarishi}
 ! 
-| "[=kamana][NRoot][=plant.sp. (ES: Catahua)]" : {kamana}
-| "[=kavana][NRoot][=plant.sp. (ES: Catahua)]" : {kavana}
+# kavana: its.caustic.sap.is.used.to_poison_arrows/to_stufy_fish; its.leaves.are.used.in.ethnomedicine 
+| "[=kamana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kamana}
+| "[=kavana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kavana}
 ! 
 | "[=kamantsi+n./m.+poss@te.][NRoot][=flu; snot; having.a.cold; phlegm]" : {kamantsi} ! +n.m. +m. both genders?
 ! 
