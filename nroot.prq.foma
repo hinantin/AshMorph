@@ -1410,7 +1410,7 @@ define NRootPRQin [
 | "[=masheri][NRoot][=ant.sp. (QU: kuki, ES: coqui, hormiga)]" : {masheri} ! cricket.sp. 
 ! 
 | "[=masheri][NRoot][=toad.sp.]" : {masheri}
-| "[=mashero][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio)]" : {mashero}
+| "[=mashero+m.][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio)]" : {mashero}
 # Toads 
 | "[=tarairiki][NRoot][=toad.sp.]" : {tarairiki}
 ! 
@@ -1754,6 +1754,7 @@ define NRootPRQin [
 ! sun 
 | "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri} !?
 | "[=oryatsiri+m.][NRoot][=shining.sun, strong.sun]" : {oryatsiri} !?
+| "[=ooryatsiri+m.][NRoot][=shining.sun, strong.sun; the.sun; solar.divinity]" : {ooryatsiri}
 ! 
 | "[=oorya][NRoot][=sun]" : {oorya} ! N@->V
 | "[=oria][NRoot][=sun]" : {oria} ! N@->V
