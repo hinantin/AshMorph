@@ -282,6 +282,7 @@ define N=S=CL [
 | "[--][-poshi][+CL:abandoned][=abandoned]" : {poshi} 
 | "[--][-po][+CL:abandoned][=abandoned]" : {po} 
 #-----------------------------------------------
+! nomaatsara / no- =maa -tsara / 1sg.poss- =clothes -cl:fabric / EN: 'my.old.dress, my.rag'; ES: 'mi.vestido.viejo, mi.trapo'
 | "[--][-tsara][+CL:fabric][=fabric]" : {tsara} 
 | "[--][-tsaraa][+CL:fabric][=fabric]" : {tsaraa} 
 #-----------------------------------------------
