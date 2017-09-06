@@ -864,10 +864,6 @@ define NRootPRQin [
 # Such encounters may produce a fever, headaches, vomiting, diarrhea, or any combination of these.
 | "[=kamarishi][NRoot][=demonic.herb]" : {kamarishi}
 ! 
-# kavana: its.caustic.sap.is.used.to_poison_arrows/to_stufy_fish; its.leaves.are.used.in.ethnomedicine 
-| "[=kamana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kamana}
-| "[=kavana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kavana}
-! 
 | "[=kamantsi+n./m.+poss@te.][NRoot][=flu; snot; having.a.cold; phlegm]" : {kamantsi} ! +n.m. +m. both genders?
 ! 
 | "[=kamantzi][NRoot][=black-streaked.puffbird (sci.nm.: malacoptila.fuivogularis)]" : {kamantzi}
@@ -3244,7 +3240,10 @@ define NRootPRQin [
 ! 
 | "[=potooki][NRoot][=medicinal.nut]" : {potooki}
 ! 
-| "[=kavana][NRoot][=tree.sp. (ES: catahua, sci.nm.: hura.crepitans)]" : {kavana}
+# kavana: its.caustic.sap.is.used.to_poison_arrows/to_stufy_fish; its.leaves.are.used.in.ethnomedicine 
+!| "[=kavana][NRoot][=tree.sp. (ES: catahua, sci.nm.: hura.crepitans)]" : {kavana} 
+| "[=kamana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kamana} 
+| "[=kavana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kavana} 
 ];
 
 # ##############################
