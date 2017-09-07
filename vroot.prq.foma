@@ -84,9 +84,9 @@ define VRootPRQin [
 | "[=ane][VRoot][=to.live]" : {ane}
 | "[=any][VRoot][=to.live]" : {any}
 ! 
-| "[=aneenka][VRoot][=to.breath; to.sigh]" : {aneenka}
-| "[=aniinka][VRoot][=to.breath; to.sigh]" : {aniinka}
-| "[=anyeenka][VRoot][=to.breath; to.sigh]" : {anyeenka}
+| "[=aneenka][VRoot][=to.breath (ES: respirar); to.sigh (ES: suspirar)]" : {aneenka}
+| "[=aniinka][VRoot][=to.breath (ES: respirar); to.sigh (ES: suspirar)]" : {aniinka}
+| "[=anyeenka][VRoot][=to.breath (ES: respirar); to.sigh (ES: suspirar)]" : {anyeenka}
 ! 
 | "[=anii][VRoot][=to.go, to.walk; to.go.down]" : {anii}
 | "[=ani][VRoot][=to.go, to.walk; to.go.down]" : {ani}
