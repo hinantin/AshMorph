@@ -672,7 +672,8 @@ define VRootPRQin [
 ! 
 | "[=mi][VRoot][=to.jump]" : {mi}
 | "[=mit][VRoot][=to.jump]" : {mit}
-| "[=mitah][VRoot][=to.jump]" : {mitah}
+# nomitaji / nomitahi / no- =mitah -i / 1sg.s- =to.jump -real / EN: 'I.am.jumping'; ES: 'estoy.saltando' 
+| "[=mitah][VRoot][=to.jump (ES: saltar)]" : {mitah}
 # miamiataantsi / =mi+redup. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
 # imiamiataeyeni / i- =mi+redup. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
 | "[=mi+redup.][VRoot][=to.jump (ES: brincar)]" : {miamia}
