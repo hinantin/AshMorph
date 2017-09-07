@@ -46,8 +46,8 @@ define NRootPRQin [
 | "[=airi+m.+poss@ti.][NRoot][=black.bee.sp.]" : {airi} 
 ! 
 | "[=aiyo][NRoot][=mother.in.law (kin.of.female, fem.ego)]" : {aiyo}
-| "[=ayiini+n.m.][NRoot][=mother.in.law]" : {ayiini}  
-| "[=ayiro+inal.][NRoot][=mother.in.law]" : {ayiro} 
+| "[=ayiini+n.m.][NRoot][=mother.in.law]" : {ayiini} !  
+| "[=ayiro+inal.][NRoot][=mother.in.law]" : {ayiro} ! +N +1SG 
 ! 
 | "[=anona+n.m.][NRoot][=sugar-apples (botany.nm.: annona.squamosa), fruit.tree (Spanish.loan)]" : {anona} 
 ! 
