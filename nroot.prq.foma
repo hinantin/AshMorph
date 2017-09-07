@@ -1613,8 +1613,8 @@ define NRootPRQin [
 | "[=motonka+poss@ni.][NRoot][=whirlpool (ES: remolino)]" : {motonka}
 ! 
 # tsinaro motsitsi / =tsinaro =motsi -tsi / =cricket =belly -nposs / EN: 'big_belly/paunchy.cricket', ES/QU: 'grillo.buchesapa'
-| "[=motsi+n.m.+inal.][NRoot][=tummy, belly]" : {motsi}
-| "[=motzi+n.m.+inal.][NRoot][=tummy, belly]" : {motzi}
+| "[=motsi+n.m.+inal.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motsi}
+| "[=motzi+n.m.+inal.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motzi}
 # nomotya / no- =motya / 1SG.poss- =belly / EN: 'my belly'
 # omotyate koya / o- =motya -t -e =koya / 3n.m.S- =belly -ep -irr =woman / EN: 'when a woman gets pregnant'
 | "[=motya][NRoot][=stomach, belly]" : {motya} ! N@->V
