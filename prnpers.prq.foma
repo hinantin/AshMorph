@@ -10,7 +10,8 @@ define PrnPersPRQin [
 # -------------------------------------------------------------------
   "[=naaka+cont.d.top.][PrnPers][+1SG][=I]" : {naaka}
 | "[=naka+cont.d.top.][PrnPers][+1SG][=I]" : {naka}
-| "[=naro+cont.d.top.][PrnPers][+1SG][=I]" : {naro}
+! naro: it is only used in greetings 
+| "[=naro+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naro}
 ! 
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro}
 ! avirompa / aviro-mpa / 2TOP=DUB

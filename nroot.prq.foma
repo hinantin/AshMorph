@@ -5,7 +5,7 @@ define NRootPRQin [
 ! 
 | "[=aaniri+inal.][NRoot][=orphan]" : {aaniri} 
 ! 
-| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V
+| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V 
 ! 
 | "[=amai+n.m.][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amai} 
 ! 
@@ -14,7 +14,7 @@ define NRootPRQin [
 | "[=apiwtxa][NRoot][=all.together; together]" : {apiwtxa} 
 # ---------------------------------------------------------------------
 # Vocative form
-| "[=aari+m.][NRoot][=brother (kin.of.a.female, fem.ego)]" : {aari}
+| "[=aari+m.][NRoot][=brother (kin.of.a.female, fem.ego)]" : {aari} 
 ! 1st, 2nd, 3rd person
 | "[=hari+poss@ri][NRoot][=brother (kin.of.a.female, fem.ego)]" : {hari}
 # ---------------------------------------------------------------------
