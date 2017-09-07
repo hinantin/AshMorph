@@ -1499,9 +1499,11 @@ define NRootPRQin [
 | "[=menta+n.m.+inal.][NRoot][=fin.of.tree (ES: aleta.de.árbol)]" : {menta}
 | "[=minta+n.m.+inal.][NRoot][=fin.of.tree (ES: aleta.de.árbol)]" : {minta}
 ! 
-| "[=meanto+m.][NRoot][=macaw, parrot.sp. (ES: guacamayo, QU: wakamayu)]" : {meanto}
-| "[=mianto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo, QU: wakamayu)]" : {mianto}
-| "[=myanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo, QU: wakamayu)]" : {myanto}
+| "[=meanto+m.][NRoot][=macaw, parrot.sp. (ES: guacamayo.(verde), QU: wakamayu)]" : {meanto}
+| "[=meyanto+m.][NRoot][=macaw, parrot.sp. (ES: guacamayo.(verde), QU: wakamayu)]" : {meyanto}
+| "[=mianto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {mianto}
+| "[=myanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myanto}
+| "[=myaanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myaanto}
 ! 
 | "[=meiri+poss@te.][NRoot][=big.squirrel.sp.]" : {meiri}
 | "[=meyiri+poss@te.][NRoot][=big.squirrel.sp.]" : {meyiri}
