@@ -2252,11 +2252,11 @@ define NRootPRQin [
 | "[=piameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {piameni}
 | "[=pyameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {pyameni}
 ! 
-| "[=piari+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {piari}
-| "[=pyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {pyare} ! @CMP 
-| "[=pyari+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {pyari} ! @CMP 
-| "[=piyare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {piyare}
-| "[=peare+n.m.+inal.][NRoot][=manioc.beer (masato)]" : {peare}
+| "[=piari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piari}
+| "[=pyare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyare} ! @CMP 
+| "[=pyari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyari} ! @CMP 
+| "[=piyare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piyare}
+| "[=peare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {peare}
 ! 
 | "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
