@@ -166,6 +166,9 @@ define NRootPRQin [
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
 ! 
+| "[=atsityopi][NRoot][=mythical.armadillo/anaconda-like.creature]" : {atsityopi}
+| "[=atsityopini][NRoot][=mythical.armadillo/anaconda-like.creature]" : {atsityopini}
+! 
 | "[=avanto][NRoot][=big-size.frog]" : {avanto}
 ! 
 | "[=avo+n.m.+inal.][NRoot][=road, trail]" : {avo}
