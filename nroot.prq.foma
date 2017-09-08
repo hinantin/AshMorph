@@ -51,9 +51,9 @@ define NRootPRQin [
 ! 
 | "[=anona+n.m.][NRoot][=sugar-apples (botany.nm.: annona.squamosa), fruit.tree (Spanish.loan)]" : {anona} 
 ! 
-| "[=antaviari][NRoot][=great/truthful/powerful.shaman; healer.with.a.lot.of.experience]" : {antaviari} 
-| "[=antyaviari][NRoot][=great/truthful/powerful.shaman; healer.with.a.lot.of.experience]" : {antyaviari} 
-| "[=antyavigari][NRoot][=great/truthful/powerful.shaman; healer.with.a.lot.of.experience]" : {antyavigari} 
+| "[=antaviari][NRoot][=great/truthful/powerful/expert.shaman; healer.with.a.lot.of.experience]" : {antaviari} 
+| "[=antyaviari][NRoot][=great/truthful/powerful/expert.shaman; healer.with.a.lot.of.experience]" : {antyaviari} 
+| "[=antyavigari][NRoot][=great/truthful/powerful/expert.shaman; healer.with.a.lot.of.experience]" : {antyavigari} 
 ! 
 | "[=aroso+n.m.][NRoot][=rice]" : {aroso} 
 ! 
@@ -2373,7 +2373,7 @@ define NRootPRQin [
 | "[=shiyentzi+m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyentzi}
 | "[=shiyiintzi+m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyiintzi}
 ! 
-| "[=shiva+m.][NRoot][=anchoveta-fish (ES: anchoveta), small.fish.sp.]" : {shiva}
+| "[=shiva+m.][NRoot][=anchoveta-fish (ES: anchoveta; sci.nm.: knodus.breviceps), small.fish.sp.]" : {shiva}
 ! 
 | "[=shivonso][NRoot][=swallow-tailed.kite (sci.nm.: elanoides.forficatus)]" : {shivonso} ! shihuonso
 ! 
