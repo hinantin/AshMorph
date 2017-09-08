@@ -147,8 +147,8 @@ define NRootPRQin [
 ! 
 | "[=aparoni][NRoot][=somebody]" : {aparoni}
 ! 
-| "[=apiinka][NRoot][=person's.name]" : {apiinka}
-| "[=apinka][NRoot][=person's.name]" : {apinka}
+| "[=apiinka][NRoot][=person's.name; Apu/Seer.Inca]" : {apiinka}
+| "[=apinka][NRoot][=person's.name; Apu/Seer.Inca]" : {apinka}
 ! 
 | "[=aporivatsa][NRoot][=thigh]" : {aporivatsa}
 ! 
