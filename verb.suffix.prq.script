@@ -355,6 +355,7 @@ define V=S=ADJ [
 | "[--][-tinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tinkaro}] 
 # ----------------------------------
 ! atsanaantinkari / =atsana -ant -tinkari / =to.take.advantage.of.sth/sb -appl.inst -adj / EN: 'that.who.exists.to.take.advantage.of.sb., abuser'; ES: 'abusador'  
+! yotantinkari / =yot -ant -tinkari / =to.know -appl.inst -adj / EN: 'that.one.who.exists.to.know'; ES: '...'  
 | "[--][-ant][+APPL.INST][--][-tinkari+m.][NMZ][+ADJ]" : "@EP"[{antinkari}] 
 | "[--][-ant][+APPL.INST][--][-tzinkari+m.][NMZ][+ADJ]" : "@EP"[{antzinkari}] 
 | "[--][-ant][+APPL.INST][--][-tzinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{antzinkaro}] 
