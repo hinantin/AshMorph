@@ -2029,7 +2029,7 @@ define NRootPRQin [
 ! 
 | "[=pitchoyotzi][NRoot][=yellow-backed.tanager (sci.nm.: hemithraupis.flavicollis)]" : {pitchoyotzi}
 ! 
-| "[=pini+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.); tila.sp. (ES: Pusanga)]" : {pini}
+| "[=pini+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pini}
 ! 
 | "[=pihonkare+inal.][NRoot][=lung]" : {pihonkare}
 | "[=piyonkare+inal.][NRoot][=lung]" : {piyonkare}
@@ -2097,6 +2097,8 @@ define NRootPRQin [
 | "[=piyari+m.][NRoot][=ghost; demon; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire]" : {piyari} ! @CMP 
 ! 
 | "[=piyori][NRoot][=southern.helmeted.curassow (sci.nm.: pauxi.inicornis)]" : {piyori}
+! 
+| "[=piyoro][NRoot][=plant.sp. (ES: ocuera.(blanca))]" : {piyoro}
 ! 
 | "[=piyompitzi][NRoot][=black-faced.dacnis (sci.nm.: dacnis.lineata)]" : {piyompitzi}
 ! 
@@ -2271,11 +2273,14 @@ define NRootPRQin [
 | "[=piameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {piameni}
 | "[=pyameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {pyameni}
 ! 
+! noviari / no- =piari / 1sg.poss- =manioc.beer / EN: 'my.manioc_beer' 
+! oviari / o- =piari / 3n.m.poss- =manioc.beer / EN: 'my.manioc_beer' 
 | "[=piari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piari}
 | "[=pyare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyare} ! @CMP 
 | "[=pyari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyari} ! @CMP 
 | "[=piyare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piyare}
 | "[=peare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {peare}
+| "[=nyonyo][NRoot][=manioc.beer (ES: masato)]" : {nyonyo}
 ! 
 | "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
