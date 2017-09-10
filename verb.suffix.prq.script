@@ -352,8 +352,8 @@ define V=S=ADJ [
 | "[--][-tsinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] 
 | "[--][-tinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tinkaro}] 
 # ----------------------------------
-| "[-ant][+APPL.INST][--][-tzinkari+m.][NMZ][+ADJ]" : "@EP"[{antzinkari}] 
-| "[-ant][+APPL.INST][--][-tzinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{antzinkaro}] 
+| "[--][-ant][+APPL.INST][--][-tzinkari+m.][NMZ][+ADJ]" : "@EP"[{antzinkari}] 
+| "[--][-ant][+APPL.INST][--][-tzinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{antzinkaro}] 
 # ---------PARTICIPANT--------------
 | "[--][-ntzi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntzi}] 
 | "[--][-ntsi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntsi}] 
