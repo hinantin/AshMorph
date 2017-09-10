@@ -1898,7 +1898,8 @@ define NRootPRQin [
 ! 
 | "[=pachaka][NRoot][=striated.heron (sci.nm.: butorides.striatus)]" : {pachaka}
 ! 
-| "[=pachakama][NRoot][=person's.name]" : {pachakama}
+| "[=pachakama][NRoot][=person's.name; stone.divinity]" : {pachakama}
+| "[=pachaka][NRoot][=person's.name; stone.divinity]" : {pachaka}
 ! 
 | "[=pachakitzi][NRoot][=masked.tityra (sci.nm.: tityra.semifasciata)]" : {pachakitzi}
 ! 
