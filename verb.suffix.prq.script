@@ -350,8 +350,10 @@ define V=S=ADJ [
 | "[--][-tsinkari+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] 
 | "[--][-tinkari+m.][NMZ][+ADJ]" : "@EP"[{tinkari}] 
 | "[--][-tsinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] 
-| "[--][-tzinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tzinkaro}] 
 | "[--][-tinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tinkaro}] 
+# ----------------------------------
+| "[-ant][+APPL.INST][--][-tzinkari+m.][NMZ][+ADJ]" : "@EP"[{antzinkari}] 
+| "[-ant][+APPL.INST][--][-tzinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{antzinkaro}] 
 # ---------PARTICIPANT--------------
 | "[--][-ntzi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntzi}] 
 | "[--][-ntsi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntsi}] 
