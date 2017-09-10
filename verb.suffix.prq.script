@@ -348,8 +348,10 @@ define V=S=ADJ [
 # ----------------------------------
 ! nyaatsatinkaro perota / =nyaatsa -tinkaro =pelota / =to.play -adj =ball / EN: 'female.soccer.player', ES: 'jugadora.de.fútbol' 
 | "[--][-tsinkari+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] 
+| "[--][-tzinkari+m.][NMZ][+ADJ]" : "@EP"[{tzinkari}] 
 | "[--][-tinkari+m.][NMZ][+ADJ]" : "@EP"[{tinkari}] 
 | "[--][-tsinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] 
+| "[--][-tzinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tzinkaro}] 
 | "[--][-tinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tinkaro}] 
 # ----------------------------------
 | "[--][-ant][+APPL.INST][--][-tzinkari+m.][NMZ][+ADJ]" : "@EP"[{antzinkari}] 
