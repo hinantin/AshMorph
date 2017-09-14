@@ -2208,6 +2208,8 @@ define NRootPRQin [
 | "[=poitoro][NRoot][=cocona.sp.; edible.fruit.variety]" : {poitoro}
 | "[=popooki+n.m.][NRoot][=cocona.sp.; edible.fruit.variety]" : {popooki}
 ! 
+| "[=poiyotzi][NRoot][=gray-headed.child]" : {poiyotzi}
+! 
 | "[=poko+m.][NRoot][=yellow.and.black.worm.sp.]" : {poko}
 ! 
 | "[=pompori][NRoot][=owl.sp.; striated-ant-trush (sci.nm.: chamaeza.nobilis)]" : {pompori}
@@ -2634,9 +2636,9 @@ define NRootPRQin [
 ! 
 | "[=shiirintzi][NRoot][=undulated.tinamou (sci.nm.: crypturellus.undulatus)]" : {shiirintzi}
 ! 
-| "[=shiri][NRoot][=tobacco.leaf; tobacco]" : {shiri} ! N@->V
-| "[=sheri][NRoot][=tobacco.leaf; tobacco]" : {sheri} ! N@->V
-| "[=seri][NRoot][=tobacco.leaf; tobacco]" : {seri} ! N@->V
+| "[=shiri][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {shiri} ! N@->V
+| "[=sheri][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {sheri} ! N@->V
+| "[=seri][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {seri} ! N@->V
 !
 | "[=shiro+m.][NRoot][=grey.dove.sp.; white.dove.sp.]" : {shiro}
 ! 
