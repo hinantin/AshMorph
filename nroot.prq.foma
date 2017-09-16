@@ -1,5 +1,7 @@
 define NRootPRQin [
-  "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
+  "[=afuu][NRoot][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {afuu} 
+! 
+| "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
 | "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V @VCMP 
 | "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane} ! N@->V @VCMP 
 ! 
