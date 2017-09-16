@@ -319,7 +319,7 @@ define IdeoPRQin [
 ! 
 | "[=tsari+s.redup.word][IdeoPRQ][=action.of.stretching.a.thread, action.of.unrolling.sth.]" : {tsari} 
 ! 
-| "[=hiri+s.redup.word][IdeoPRQ][=pulling.sth.out.leaf.by.leaf; cleaning.weeds.with.a.machete; threshing.corn.with.a.knife; action.of.shelling.sth. (e.g.: shelling.a.corn.ear.with.a.knife)]" : {hiri} 
+| "[=hiri+s.redup.word][IdeoPRQ][=pulling.sth.out.leaf.by.leaf; cleaning.weeds.with.a.machete; threshing.corn.with.a.knife; action.of.shelling.sth. (e.g.: shelling.a.corn.ear.with.a.knife); action.of.cutting.a.soft.substance]" : {hiri} 
 ! 
 | "[=tsirik][IdeoPRQ][=becoming.attached.to.sth. (i.e.: while.putting.a.plaster.with.leaves.on.sb's.body; attaching.a.bandage; taking.a.picture)]" : {tsirik} 
 | "[=tsirik][IdeoPRQ][=action.of.releasing.from.a.state.of.being.stuck.together]" : {tsirik} 
@@ -340,6 +340,8 @@ define IdeoPRQin [
 | "[=tsinik][IdeoPRQ][=sound.of.dropping.sth.; grab]" : {tsinik} 
 ! 
 | "[=tsipak][IdeoPRQ][=action.of.jumping-and-bouncing.off.the.surface]" : {tsipak} 
+! 
+| "[=chenki][IdeoPRQ][=action.of.striking.a.match]" : {chenki} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
@@ -432,10 +434,16 @@ define IdeoPRQin [
 # ---------------------------------------------------------------
 | "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
 | "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
+! 
+| "[=hemm+s.redup.word][IdeoPRQ][=sound.of.a.water-sprite]" : {hemm}
+! 
 | "[=ooo+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
 | "[=shitokokoko][IdeoPRQ][=animal.cry.made.by.a.capuchin.monkey]" : {shitokokoko}
-| "[=hau+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.dog]" : {hau}
+! 
+| "[=hao+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.dog; sound.of.a.barking.dog]" : {hao}
+| "[=hau+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.dog; sound.of.a.barking.dog]" : {hau}
 | "[=hok][Ideo][=sound/action.of.a.dog.barking]" : {hok}
+! 
 | "[=heem+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.boa-like.river.creature]" : {heem}
 | "[=hoom+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.deer-like.demonic.forest.creature; animal.cry.made.by.the.tiger; evil/peyari's.call]" : {hoom}
 | "[=hooom+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.deer-like.demonic.forest.creature; animal.cry.made.by.the.tiger; evil/peyari's.call]" : {hooom}
