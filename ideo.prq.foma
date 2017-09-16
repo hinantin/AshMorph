@@ -15,7 +15,7 @@ define IdeoPRQin [
 ########
 #  pok  
 # - light object hitting a solid surface, without compromising the object’s integrity
-| "[=pok][IdeoPRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pok}
+| "[=pok+s.redup.word][IdeoPRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pok}
 ! 
 | "[=tee][IdeoPRQ][=hitting.a.human.body]" : {tee}
 | "[=te][IdeoPRQ][=hitting.a.human.body][--][-k][+PUNCTUAL.ACTN]" : {tek}
