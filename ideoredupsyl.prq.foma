@@ -44,6 +44,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=hempari" "]" "[" "IdeoPRQ" "]" "[" "=pain.abating; action.of.soothing.the.pain.in.the.body; feeling.pain-free.and.numb" "]" ] : {hempari}
 | [ "[" "=henkari" "]" "[" "IdeoPRQ" "]" "[" "=sensation.of.scent/odor.diffusion" "]" ] : {henkari}
 | [ "[" "=menkiri" "]" "[" "IdeoPRQ" "]" "[" "=deaf.pain.sensation; sensation.of.pains.inside.organs/bones; itching.sensation" "]" ] : {menkiri}
+| [ "[" "=tsinkari" "]" "[" "IdeoPRQ" "]" "[" "=sudden.feeling.of.a.stir.inside.the.body" "]" ] : {tsinkari}
 
 # ---------------------------------------------------------
 # re 
