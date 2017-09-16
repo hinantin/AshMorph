@@ -48,7 +48,7 @@ define IdeoPRQin [
 | "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheee}
 | "[=sheeee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheeee}
 ! 
-| "[=chee][IdeoPRQ][=heavy_rainfall/large_waterfall]" : {chee}
+| "[=chee][IdeoPRQ][=heavy_rainfall/large_waterfall; action.of.jumping/making_a_big_leap]" : {chee}
 ! 
 | "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle]" : {too}
 ! 
@@ -80,7 +80,7 @@ define IdeoPRQin [
 ! 
 | "[=shik+s.redup.word][IdeoPRQ][=action.of.removing.fish_scales.with.a.scraper]" : {shik}
 ! 
-| "[=chak][IdeoPRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash]" : {chak} 
+| "[=chak][IdeoPRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash; action.of.quickly.pouring.water.into.a_receptacle]" : {chak} 
 ! 
 | "[=shei+s.redup.word][IdeoPRQ][=sawing.wood]" : {shei} 
 ! 
