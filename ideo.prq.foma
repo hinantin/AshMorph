@@ -218,7 +218,7 @@ define IdeoPRQin [
 ! 
 | "[=tsarak][IdeoPRQ][=loud.fart, breaking.wind.loudly (for.adult.women)]" : {tsarak} 
 ! 
-| "[=ahak][IdeoPRQ][=sneezing; coughing]" : {ahak} ??? 
+| "[=ahak+s.redup.word][IdeoPRQ][=sneezing; coughing; action.of.loud.expectoration.of.spittle]" : {ahak} 
 ! 
 | "[=atzik+s.redup.word][IdeoPRQ][=sneezing]" : {atzik} 
 ! 
@@ -446,6 +446,8 @@ define IdeoPRQin [
 | "[=totorao][IdeoPRQ][=bird.call/sound.made.by.a.hen]" : {totorao}
 | "[=tero+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.parrot_sp./terori]" : {tero}
 | "[=soi+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.tunchi/shashintzi]" : {soi}
+! 
+| "[=aaaa][IdeoPRQ][=bird.call/sound.made.by.a.macaw_parrot]" : {aaaa}
 ];
 
 # -------------------------------------------------------------------------------------
