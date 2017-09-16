@@ -17,8 +17,8 @@ define IdeoPRQin [
 # - light object hitting a solid surface, without compromising the object’s integrity
 | "[=pok+s.redup.word][IdeoPRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pok}
 ! 
-| "[=tee][IdeoPRQ][=hitting.a.human.body]" : {tee}
-| "[=te][IdeoPRQ][=hitting.a.human.body][--][-k][+PUNCTUAL.ACTN]" : {tek}
+| "[=tee][IdeoPRQ][=action.of.hitting.a.human.body]" : {tee}
+| "[=te][IdeoPRQ][=action.of.hitting.a.human.body; action.of.hitting.sth./sb.without.deep.penetration][--][-k][+PUNCTUAL.ACTN]" : {tek}
 ! 
 # tak: 
 # - contact between a container and what fills it
