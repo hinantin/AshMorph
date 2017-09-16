@@ -474,7 +474,10 @@ define IdeoPRQin [
 | "[=she+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.bird_sp./sheshetzi]" : {she}
 | "[=kokoriko][IdeoPRQ][=bird.call/sound.made.by.a.rooster]" : {kokoriko}
 | "[=totorao][IdeoPRQ][=bird.call/sound.made.by.a.hen]" : {totorao}
-| "[=tero+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.parrot_sp./terori]" : {tero}
+! 
+| "[=tero+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.parrot_sp./terori/teroni]" : {tero}
+| "[=teroo+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.parrot_sp./terori/teroni]" : {teroo}
+! 
 | "[=soi+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.tunchi/shashintzi]" : {soi}
 ! 
 | "[=aaaa][IdeoPRQ][=bird.call/sound.made.by.a.macaw_parrot]" : {aaaa}
