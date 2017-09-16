@@ -34,7 +34,7 @@ define IdeoRedupSylPRQin 0:"^["
 
 | [ "[" "=shipari" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; brilliance.of.the_sun/shiny_object" "]" ] : {shipari}
 | [ "[" "=sakiri" "]" "[" "IdeoPRQ" "]" "[" "=flock.of.birds.flying.in.one.straight.line" "]" ] : {sakiri}
-| [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; walking.slowly; slowly.climbing.up.a_tree; bird.call/sound.made.by.a.patridge_species/shirentzi; sound.of.water.level.going.down.in.the.river" "]" ] : {shiri}
+| [ "[" "=shiri" "]" "[" "IdeoPRQ" "]" "[" "=slowly.dragging.an.object; moving/walking.slowly; slowly.climbing.up.a_tree; bird.call/sound.made.by.a.patridge_species/shirentzi; sound.of.water.level.going.down.in.the.river" "]" ] : {shiri}
 | [ "[" "=sheri" "]" "[" "IdeoPRQ" "]" "[" "=moving/walking.slowly" "]" ] : {sheri}
 | [ "[" "=tsinteakeri" "]" "[" "IdeoPRQ" "]" "[" "=heavy.rainfall" "]" ] : {tsinteakeri}
 | [ "[" "=chiri" "]" "[" "IdeoPRQ" "]" "[" "=tearing.fabric/clothes.apart" "]" ] : {chiri}
