@@ -95,6 +95,10 @@ define IdeoPRQin [
 | "[=hooo+redup.word][IdeoPRQ][=women.laughing]" : {hooo} 
 | "[=hohoo][IdeoPRQ][=women.laughing]" : {hohoo} 
 ! 
+| "[=hoo][IdeoPRQ][=sound.of.a.big.splash]" : {hoo} 
+! 
+| "[=hooo+redup.word][IdeoPRQ][=sound.made.by.a.human.calling.a.dog]" : {hooo} 
+! 
 | "[=hei][IdeoPRQ][=sound/action.of.screaming.loudly]" : {hei} 
 ! 
 | "[=te+redup.word][IdeoPRQ][=action.of.swirl.in.the.river; swirling.movement.of.water; sound.of.a.bubbling.whirlpool]" : {te} 
@@ -467,6 +471,8 @@ define IdeoPRQin [
 | "[=hemm+s.redup.word][IdeoPRQ][=sound.of.a.water-sprite]" : {hemm}
 ! 
 | "[=ooo+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
+| "[=hoo+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {hoo}
+! 
 | "[=shitokokoko][IdeoPRQ][=animal.cry.made.by.a.capuchin.monkey]" : {shitokokoko}
 ! 
 | "[=hao+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.dog; sound.of.a.barking.dog]" : {hao}
