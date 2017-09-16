@@ -127,7 +127,7 @@ define IdeoPRQin [
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
 | "[=tsapo+s.redup.word][IdeoPRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour; water.slowly.filling.a_canoe]" : {tsapo}
-| "[=tsapon][IdeoPRQ][=action.of.falling.into.water]" : {tsapon} 
+| "[=tsapon][IdeoPRQ][=action.of.falling.into.water; splash.produced.by.the.fall.of.a.heavy.object]" : {tsapon} 
 | "[=tsapo^k][IdeoPRQ][=falling.into.water; punctual.action.of.shallow.splash.caused.by.the_light.object's.fall.into.the_water]" : {tsapok}
 ! 
 | "[=mako+s.redup.word][IdeoPRQ][=water.level.rising.quickly.in.river; slowly.rising.water.level.in.the_river]" : {mako}
@@ -446,6 +446,8 @@ define IdeoPRQin [
 | "[=hererer+whistle.lang.][IdeoCJO][=action/sound.of.throwing.sth.; action/sound.of.pulling.sth. (ES: acción/sonido.de.tirar/jalar.algo)]" : {hererer}
 ! 
 | "[=oorioo][IdeoPRQ][=sound.of.a.rooster]" : {oorioo}
+! 
+| "[=tsimimi+s.redup.word][IdeoPRQ][=action.of.a.chewing]" : {tsimimi}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object; movement.in.a.curved.trajectory]" : {terempiri}
 | "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
