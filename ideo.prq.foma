@@ -50,7 +50,8 @@ define IdeoPRQin [
 ! 
 | "[=chee][IdeoPRQ][=heavy_rainfall/large_waterfall; action.of.jumping/making_a_big_leap]" : {chee}
 ! 
-| "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle]" : {too}
+| "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle; sound.of.a.discharged.gun]" : {too}
+| "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle; sound.of.a.discharged.gun][--][-k][+PUNCTUAL.ACTN]" : {took}
 ! 
 | "[=tooog+whistle.lang.][IdeoCJO][=sound.of.gunfire/machine_gun_shoot]" : {tooog}
 ! 
@@ -360,6 +361,8 @@ define IdeoPRQin [
 | "[=motok][IdeoPRQ][=action.of.quick.entry-and-disappearance]" : {motok} 
 ! 
 | "[=shoki+s.redup.word][IdeoPRQ][=action.of.grinding]" : {shoki} 
+! 
+| "[=tonka+s.redup.word][IdeoPRQ][=action.of.going.up.a.hill]" : {tonka} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
