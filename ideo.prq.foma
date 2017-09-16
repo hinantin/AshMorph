@@ -116,6 +116,8 @@ define IdeoPRQin [
 ! 
 # tsok: un hacha o similar contra la madera, cortar madera
 | "[=tsok+whistle.lang.][IdeoCJO][=sound.of.a_hatchet-like/hatchet.against.wood; sound.of.cutting.wood]" : {tsok} 
+! 
+| "[=kin+s.redup.word][IdeoPRQ][=sound.of.a.crying.baby.snake]" : {kin} 
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
@@ -467,4 +469,9 @@ define IdeoPRQin [
 # minimally noisy action; 
 # -------------------------------------------------------------------------------------
 
+# ##############################
+#         Abbreviations         
+# ##############################
+
+# s.redup.word		syntactically reduplicated word 
 
