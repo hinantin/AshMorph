@@ -11,6 +11,8 @@ define WhPRQin [
 | "[=haanika][WhPrn][=who, whom (ES: ¿quién?)]" : {haanika}
 | "[=hanika][WhPrn][=who, whom][--][-mpa][+DUB]" : {hanikampa}
 ! 
+# tsika ... -ken ... : 'go.where?' 
+# tsika ... -ken ... : 'be.where?' 
 | "[=tsika][WhPrn][=where, what, which]" : {tsika}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
 | "[=tsika][WhPrn][=WH][--][-rika][+COND]" : {tsikarika}
