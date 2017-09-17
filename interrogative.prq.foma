@@ -12,20 +12,20 @@ define WhPRQin [
 | "[=hanika][WhPrn][=who, whom][--][-mpa][+DUB]" : {hanikampa}
 ! 
 # --------------------------------------------
-# =tsika ... =ken ... : 'where ... go?' 
-# =tsika ... =ken ... : 'where ... be?' 
-# =tsika ... N- =ken ... : 'how.could ... do.sth.?' 
+# =tsika ... =ken ... -ka : 'where ... go?' 
+# =tsika ... =ken ... -ka : 'where ... be?' 
+# =tsika ... N- =ken ... -ka : 'how.could ... do.sth.?' 
 # --------------------------------------------
 # =tsika ... =kara ... : 'how.much/many?' 
 # =tsika ... N- =kara ... oorya : 'at.which.hour/day?' 
 # --------------------------------------------
-# =tsika ... =tzim ... : 'who.be ...?' 
-# =tsika ... =tzim ... =VERB ... -ri : 'which.of.them ... ?' 
+# =tsika ... =tzim ... -ka : 'who.be ...?' 
+# =tsika ... =tzim ... -ka =VERB ... -ri : 'which.of.them ... ?' 
 # --------------------------------------------
-# =tsika ... (N-) =kant ... : 'what ... say?; what ... do?; what ... happened?' 
+# =tsika ... (N-) =kant ... -ka : 'what ... say?; what ... do?; what ... happened?' 
 # --------------------------------------------
-# =tsika ... =pait ... : 'how ... call ...?' 
-# ipaitica / EN: 'what's.up?' 
+# =tsika ... =pait ... -ka : 'how ... call ...?; who.be ...?' 
+# ipaitika / EN: 'what's.up?' 
 | "[=tsika][WhPrn][=where, what, which]" : {tsika}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
 | "[=tsika][WhPrn][=WH][--][-rika][+COND]" : {tsikarika}
