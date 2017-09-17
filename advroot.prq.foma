@@ -11,8 +11,11 @@ define AdvRootPRQin [
 | "[=ikanta][AdvRoot][=CONN]" : {ikanta}
 | "[=ikanta][AdvRoot][=meanwhile]" : {ikanta}
 | "[=ikanta][AdvRoot][=meanwhile]" : {ikantya}
+! 
 | "[=inkaranki][AdvRoot][=recently]" : {inkaranki}
+| "[=inkaaranki][AdvRoot][=recently (ES: hace.un.momento/rato)]" : {inkaaranki}
 | "[=inkaranki][AdvRoot][=some.time.ago]" : {inkaranki}
+! 
 | "[=imponya][AdvRoot][=afterwards]" : {imponya}
 | "[=imponyashitakya][AdvRoot][=afterwards]" : {imponyashitakya}
 | "[=iponya][AdvRoot][=afterwards]" : {iponya}
