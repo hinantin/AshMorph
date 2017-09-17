@@ -21,6 +21,8 @@ define WhPRQin [
 # --------------------------------------------
 # =tsika ... =tzim ... : 'who.be ...?' 
 # =tsika ... =tzim ... =VERB ... -ri : 'which.of.them ... ?' 
+# --------------------------------------------
+# =tsika ... (N-) =kant ... : 'what ... say?; what ... do?; what ... happened?' 
 | "[=tsika][WhPrn][=where, what, which]" : {tsika}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
 | "[=tsika][WhPrn][=WH][--][-rika][+COND]" : {tsikarika}
