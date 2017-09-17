@@ -17,6 +17,7 @@ define WhPRQin [
 # =tsika ... N- =ken ... : 'how.could ... do.sth.?' 
 # --------------------------------------------
 # =tsika ... =kara ... : 'how.much/many?' 
+# =tsika ... N- =kara ... oorya : 'at.which.hour/day?' 
 | "[=tsika][WhPrn][=where, what, which]" : {tsika}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
 | "[=tsika][WhPrn][=WH][--][-rika][+COND]" : {tsikarika}
