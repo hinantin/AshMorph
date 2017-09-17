@@ -28,7 +28,7 @@ define WhPRQin [
 # ipaitika / EN: 'what's.up?' 
 | "[=tsika][WhPrn][=where, what, which]" : {tsika}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
-| "[=tsika][WhPrn][=WH][--][-rika][+COND]::[=whatever]" : {tsikarika}
+| "[=tsika][WhPrn][=WH][--][-rika][+COND]::[=whatever; wherever]" : {tsikarika}
 | "[=tsika][WhPrn][=WH][--][-ma][+DUB]" : {tsikama}
 | "[=haoka][WhPrn][=which, when (ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
