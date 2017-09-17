@@ -416,8 +416,8 @@ define N=S=RCG [
 # ---------------------------------------
 
 define N=S=ADV [
-# shimashiripaite / =shimashiri -paite / =flowering.tree.sp. -adv / EN: 'cannibalistic.feast.held.in.June'  
-  "[--][-paite][+ADV][=during]" : [{paite}]
+# shimashiripaite / =shimashiri -paite / =flowering.tree.sp. -adv|-during / EN: 'cannibalistic.feast.held.in.June'  
+  "[--][-paite][+ADV][=during, at.the.time.of.sth.]" : [{paite}]
 # ------------------------------
 # kapicheeni / =kapiche -eni / =little -adv / EN: 'a.little', ES: 'un.poco'
 | "[--][-eni][AS][+ADV]" : [{eni}]

@@ -31,7 +31,7 @@ define WhPRQin [
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
 | "[=tsika][WhPrn][=WH][--][-rika][+COND]::[=whatever; wherever]" : {tsikarika}
 | "[=tsika][WhPrn][=WH][--][-ma][+DUB]" : {tsikama}
-# tsicapaite / tsikapaite / =wh -adv/=during / EN: 'when' 
+# tsicapaite / tsikapaite / =wh -adv|=during / EN: 'when' 
 | "[=tsikapaite][WhPrn][=WH][--][-paite][+ADV][=during]::[=when]" : {tsikapaite}
 ! 
 | "[=haoka][WhPrn][=which, when (ES: ¿dónde?, ¿cuándo?)]" : {haoka}
