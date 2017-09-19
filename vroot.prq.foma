@@ -199,11 +199,11 @@ define VRootPRQin [
 # arrollar 
 | "[=atsinak][VRoot][=to.squash.sth.; to.squeeze.sth.; to.crush.sth. (ES: aplastar, machucar; apretar)]" : {atsinak}
 ! 
-| "[=atisank][VRoot][=to.sneeze]" : {atisank}
-| "[=atsink][VRoot][=to.sneeze]" : {atsink}
-| "[=atsiink][VRoot][=to.sneeze]" : {atsiink}
-| "[=atsiink][VRoot][=to.sneeze][--][N=][IRR+]" : {antsiink}
-| "[=atzik][VRoot][=to.sneeze]" : {atzik}
+| "[=atisank][VRoot][=to.sneeze (ES: estornudar)]" : {atisank}
+| "[=atsink][VRoot][=to.sneeze (ES: estornudar)]" : {atsink}
+| "[=atsiink][VRoot][=to.sneeze (ES: estornudar)]" : {atsiink}
+| "[=atsiink][VRoot][=to.sneeze (ES: estornudar)][--][N=][IRR+]" : {antsiink}
+| "[=atzik][VRoot][=to.sneeze (ES: estornudar)]" : {atzik}
 ! 
 | "[=atso][VRoot][=to.suck (prbly.cacao)]" : {atso}
 | "[=atso][VRoot][=to.suck (prbly.cacao)][--][N=][IRR+]" : {antso}
