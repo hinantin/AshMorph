@@ -906,10 +906,10 @@ define VRootPRQin [
 ! 
 | "[=pavia][VRoot][=to.study.witchcraft; to.teach.witchcraft (ES: estudiar.brujería, enseñar.brujería)]" : {pavia}
 ! 
-| "[=pea][VRoot][=to.get.lost; to.lose]" : {pea}
-| "[=pia][VRoot][=to.get.lost; to.lose]" : {pia}
-| "[=pey][VRoot][=to.get.lost; to.lose; to.disappear]" : {pey}
-| "[=piy][VRoot][=to.get.lost; to.lose; to.disappear]" : {piy}
+| "[=pea][VRoot][=to.get.lost; to.lose (ES: perder)]" : {pea}
+| "[=pia][VRoot][=to.get.lost; to.lose (ES: perder)]" : {pia}
+| "[=pey][VRoot][=to.get.lost; to.lose (ES: perder); to.disappear (ES: desaparecer)]" : {pey}
+| "[=piy][VRoot][=to.get.lost; to.lose (ES: perder); to.disappear (ES: desaparecer)]" : {piy}
 ! 
 | "[=piako][VRoot][=to.forget]" : {piako}
 | "[=piyako][VRoot][=to.forget]" : {piyako}
