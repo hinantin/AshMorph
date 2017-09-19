@@ -12,15 +12,16 @@ define WhPRQin [
 | "[=hanika][WhPrn][=who, whom][--][-mpa][+DUB]" : {hanikampa}
 ! 
 # --------------------------------------------
-# PLACE: 
+# PLACE:  
 # =tsika ... =NOUN : 'where ... be?'  
 # =tsika ... =VERB : 'where ... do.sth.?'  
 # --------------------------------------------
-# PLACE: 
+# PLACE:  
+# tsika isaikika? / ES: '¿dónde vive?'  
 # =tsika ... =saik ... -ka : 'where ... live?'  
-# PLACE: 
+# PLACE:  
 # =tsika ... =ken ... -ka : 'where ... go?'  
-# =tsika ... =ken ... -ka : 'where ... be?' 
+# =tsika ... =ken ... -ka : 'where ... be?'  
 # MANNER: 
 # =tsika ... N- =ken ... -ka : 'how.could ... do.sth.?' 
 # --------------------------------------------
@@ -43,6 +44,7 @@ define WhPRQin [
 # =tsika ... =pait ... -ka ... =VERB ... -ri: 'why ... do.sth.?' 
 | "[=tsika][WhPrn][=where, what, which]" : {tsika}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
+# tsikarika isaiki / EN: 'wherever they were living'  
 | "[=tsika][WhPrn][=WH][--][-rika][+COND]::[=whatever; wherever]" : {tsikarika}
 | "[=tsika][WhPrn][=WH][--][-ma][+DUB]" : {tsikama}
 # --------------------------------------------
