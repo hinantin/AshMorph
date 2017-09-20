@@ -2509,9 +2509,6 @@ define NRootPRQin [
 ! 
 | "[=santari][NRoot][=cedar.tree]" : {santari}
 ! 
-| "[=santoma+n.m.][NRoot][=rubber.tree]" : {santoma}
-| "[=santonka+n.m.][NRoot][=rubber.tree]" : {santonka}
-! 
 | "[=santani+m.][NRoot][=bat-like.bird.sp.; owl.sp.that.lives.in.hollow-stones]" : {santani}
 ! 
 | "[=sankamiro+m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankamiro}
@@ -2522,6 +2519,8 @@ define NRootPRQin [
 | "[=sankatzi+m.][NRoot][=red-necked.gallinacean.bird.sp. (ES: pava.de.monte, pucacunga; QU: puka.kunka), spix's.guan (sci.nm.: penelope.jacquacu)]" : {sankatzi}
 | "[=sankati+m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka), spix's.guan (sci.nm.: penelope.jacquacu)]" : {sankati}
 ! 
+| "[=santoma+n.m.][NRoot][=rubber.tree]" : {santoma}
+| "[=santonka+n.m.][NRoot][=rubber.tree (ES: caucho)]" : {santonka}
 | "[=santonka+m.][NRoot][=rubber.tree; rubber; tatoo.made.with.rubber.charcoal]" : {santonka}
 | "[=satonkaari+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaari}
 | "[=satonkaare+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaare}
