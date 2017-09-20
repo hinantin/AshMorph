@@ -32,7 +32,7 @@ define WhPRQin [
 # =tsika ... =ken ... -ka : 'where ... go?'  
 # =tsika ... =ken ... -ka : 'where ... be?'  
 # MANNER: 
-# =tsika ... N- =ken ... -ka : 'how.could ... do.sth.?' 
+# =tsika ... N- =ken ... -ka : 'how.could ... do.sth.?; how.will ... do.sth.?' 
 # --------------------------------------------
 # QUANTITY: 
 # =tsika ... =kara ... =NOUN : 'how.much/many?'  
@@ -48,7 +48,10 @@ define WhPRQin [
 # --------------------------------------------
 # VERB ARGUMENT: 
 # (=tsika) ... =pait ... -ka : 'how ... call ...?; who.be ...?; what ... do?' 
+# =tsika ... =pait ... -ka ... =VERB ... -ri: 'who ...?; what/which ...?; why ...?; how ...?' 
+# --------------------------------------------
 # =pait ... -ka ... =VERB ... -ri: 'which ... =NOUN? ' 
+# =pait ... -ka ... =VERB ... -ri: 'who ...?; what ...?; why ...?; how ...?; how could ...?' 
 # ipaitaka / i- =pai -t -a -ka / 3m.s- =to.call -ep -real -q / EN: 'what's.up?; how.are.you?' 
 # REASON: 
 # =tsika ... =pait ... -ka ... =VERB ... -ri: 'why ... do.sth.?'  
