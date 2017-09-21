@@ -42,7 +42,8 @@
       define AEpenthesisRule15 [ "@EP" (->) {a}"@EP" || m _ [h|a|e|y] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e, am-a-enka-ri, p-am-a-ye-t-ak-e-ro 
       define AEpenthesisRule16 [ "@EP" (->) {a}"@EP" || y _ [a|y|v|m] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri, i-piy-a-macheve-t-an-ah-a 
       define AEpenthesisRule17 [ "@EP" (->) {a}"@EP" || n _ [v|a|t] ]; # i-kin-a-bae-t-i,  I-kemisan-t-a-jei-t-i-ri
-                                                                       # kenakenatinkari / =kenaken -a -tinkari / [=ken -a =ken] -a -tinkari / [=to.walk -ep =to.walk] -ep -adj / ES: 'callejero' 
+                                                                       # kenakenatinkari / =kenaken -a -tinkari+m. / [=ken -a =ken] -a -tinkari+m. / [=to.walk -ep =to.walk] -ep -adj / ES: 'callejero' 
+                                                                       # kenakenatinkaro / =kenaken -a -tinkaro+n.m. / [=ken -a =ken] -a -tinkari+n.m. / [=to.walk -ep =to.walk] -ep -adj / ES: 'callejera' 
       define AEpenthesisRule18 [ "@EP" (->) {a}"@EP" || h _ [t|m] ]; # no-m-pirih-a-tsempeki-t-ak-e, sokih-a-mento-tsi 
 
       define TEpenthesisRule1 [ "@EP" (->) {t}"@EP" || i _ i ]; 
