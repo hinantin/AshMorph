@@ -668,6 +668,9 @@ define NRootPRQin [
 | "[=katonko][NRoot][=up.river (ES: río.arriba)]" : {katonko} 
 | "[=katonka][NRoot][=up.river (ES: río.arriba)]" : {katonka} 
 ! 
+| "[=katsirinkari][NRoot][=hot, heat (ES: caliente, calor)]" : {katsirinkari} 
+| "[=katsirinkaiteri][NRoot][=sun (ES: sol)]" : {katsirinkaiteri} 
+! 
 | "[=katitori+m.][NRoot][=ant.sp.]" : {katitori}
 | "[=katsitori+m.][NRoot][=ant.sp.]" : {katsitori}
 ! 
@@ -1794,6 +1797,7 @@ define NRootPRQin [
 | "[=oryatsiri+m.][NRoot][=shining.sun, strong.sun]" : {oryatsiri} !?
 | "[=ooryatsiri+m.][NRoot][=shining.sun, strong.sun; the.sun; solar.divinity]" : {ooryatsiri}
 ! 
+| "[=ooryaa][NRoot][=sun]" : {ooryaa}
 | "[=oorya][NRoot][=sun]" : {oorya} ! N@->V
 | "[=oria][NRoot][=sun]" : {oria} ! N@->V
 ! 
