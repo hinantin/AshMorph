@@ -769,9 +769,9 @@ define NRootPRQin [
 ! 
 | "[=sari+m.+poss@ni.][NRoot][=scarlet.macaw (sci.nm.: ara.macaw)]" : {sari}
 ! 
-| "[=savavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo), parrot.sp.]" : {savavo}
-| "[=savaro+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo), parrot.sp.]" : {savaro}
-| "[=havavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo), parrot.sp.]" : {havavo}
+| "[=savavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {savavo}
+| "[=savaro+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {savaro}
+| "[=havavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {havavo}
 ! 
 | "[=save+m.][NRoot][=turtle.sp.]" : {save}
 ! 
@@ -1796,7 +1796,7 @@ define NRootPRQin [
 | "[=oretsi+m.][NRoot][=lobster.sp., crustacean.sp.]" : {oretsi}
 | "[=oritsi+m.][NRoot][=lobster.sp., crustacean.sp.]" : {oritsi}
 ! 
-| "[=oovero][NRoot][=hawk.sp., hawk, bird.sp.]" : {oovero}
+| "[=oovero][NRoot][=hawk.sp., hawk, bird.sp. (ES: sp.de.gavilán)]" : {oovero}
 ! 
 # oventeni: flat grassy areas, typically exploited as pastures
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)]" : {oventeni} ! N@->V
