@@ -611,11 +611,13 @@ define VRootPRQin [
 | "[=ty][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ty}
 | "[=kya+redup.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kyakya}
 ! 
-| "[=machok][VRoot][=to.close.eyes]" : {machok}
+| "[=machok][VRoot][=to.close.eyes]" : {machok} 
 ! 
-| "[=maisant][VRoot][=to.forget]" : {maisant}
+| "[=mahere][VRoot][=to.be.silent (ES: callar)]" : {mahere} 
 ! 
-| "[=mako][VRoot][=to.tire; to.rest]" : {mako} 
+| "[=maisant][VRoot][=to.forget]" : {maisant} 
+! 
+| "[=mako][VRoot][=to.tire; to.rest]" : {mako}  
 | "[=maore][VRoot][=to.tire; to.rest]" : {maore} 
 | "[=makore][VRoot][=to.tire; to.rest]" : {makore} 
 | "[=makory][VRoot][=to.tire; to.rest]" : {makory} 
