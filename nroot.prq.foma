@@ -1701,7 +1701,11 @@ define NRootPRQin [
 | "[=nihaa][NRoot][=water, river]" : {nihaa} ! @CMP 
 | "[=niha][NRoot][=water, river]" : {niha} ! @CMP 
 ! 
-| "[=nihateni][NRoot][=brook; creek]" : {nihateni}
+| "[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nihateni}
+| "[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nihaateni}
+| "[=hinyaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaateni}
+| "[=hinyaatini][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaatini}
+| "[=nyaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nyaateni}
 ! 
 | "[=nii][NRoot][=breast]" : {nii}
 ! 
