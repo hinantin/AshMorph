@@ -26,7 +26,7 @@ define NRootESin [
 ! 
 | "[=chocolate+NCMS000][NRootEs][=chocolate]" : {chokorate}
 ! 
-| "[=compadre][NRootEs][=godparent; spiritual.father]" : {compadre}
+| "[=compadre][NRootEs][=godparent; spiritual.father]" : {compadre} ! N@->V 
 ! 
 | "[=compañia][NRootEs][=company]" : {compañia}
 | "[=contrato][NRootEs][=contract]" : {contrato}
