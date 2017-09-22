@@ -6,9 +6,9 @@ define NRootCmpPRQin [
 | "[--][=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} !@CMP
 | "[--][=ina][NRoot][=sphere; spherical]" : {ina} !@CMP
 | "[--][=inki+n.m.+poss@ne.][NRoot][=peanut (ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
-| "[--][=kaniri+n.m.+voc.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
-| "[--][=kaniri+n.m.+voc@nposs.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
-| "[--][=kainiri+n.m.][NRoot][=manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+| "[--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
+| "[--][=kaniri+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
+| "[--][=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 | "[--][=kishi][NRoot][=mountainous.grassland (ES: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {kishi} ! @CMP 
 | "[--][=nihaa][NRoot][=water, river]" : {nihaa} ! @CMP 
 | "[--][=niha][NRoot][=water, river]" : {niha} ! @CMP 

@@ -812,10 +812,10 @@ define VRootPRQin [
 | "[=okaaki][VRoot][=to.be.close]" : {okaaki}
 | "[=ontzimatye][VRoot][=to.be.necessary]" : {ontzimatye}
 ! 
-| "[=ok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away]" : {ok}
-| "[=ook][VRoot][=to.abandon; to.leave; to.throw; to.throw.away]" : {ook}
-| "[=ooka][VRoot][=to.abandon; to.leave; to.throw; to.throw.away]" : {ooka}
-| "[=hok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away]" : {hok}
+| "[=ok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out]" : {ok}
+| "[=ook][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out]" : {ook}
+| "[=ooka][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out]" : {ooka}
+| "[=hok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out]" : {hok}
 ! 
 | "[=ooko][VRoot][=to.identify; to.mark, to.point]" : {ooko}
 | "[=hiko][VRoot][=to.mark, to.point (ES: apuntar)]" : {hiko}
