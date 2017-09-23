@@ -641,11 +641,13 @@ define V=S=POSN [
 | "[--][-ampe+in.circles][+POSN]" : "@EP"[{ampe}]
 ];
       
+! kisaneentantatsiri / =kis -a -neent -ant -atsi -ri / =to.be.angry -ep -s -ep -appl.reas -stat -rel / EN: 'resentful'; ES: 'rencoroso' 
+! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
 ! EN: 'sensory, sensorial'; ES: 'sensorial' 
 define V=S=S [
-  "[--][-nin+sensory][+S]" : "@EP"[{nin}] 
-| "[--][-nen+sensory][+S]" : "@EP"[{nen}] 
-| "[--][-neen+sensory][+S]" : "@EP"[{neen}] 
+  "[--][-nin+sensory][+S]" : "@EP"[{nint}] 
+| "[--][-nen+sensory][+S]" : "@EP"[{nent}] 
+| "[--][-neen+sensory][+S]" : "@EP"[{neent}] 
 ];
       
 ! referencial applicative 
