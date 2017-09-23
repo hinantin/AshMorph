@@ -63,6 +63,11 @@ define ORootPRQin [
 | "[=impoohi][ConnRoot][=after, later]" : {impoohi}
 | "[=impohi][ConnRoot][=after, later]" : {impohi}
 ! 
+| "[=rootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {rootake}
+| "[=irootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {irootake}
+| "[=rootaki][ConnRoot][=that's.why (ES: por.eso.es)]" : {rootaki}
+| "[=irootaki][ConnRoot][=that's.why (ES: por.eso.es)]" : {irootaki}
+! 
 | "[=ha][OtherRoot][=aha]" : {ha}
 ! 
 | "[=he][OtherRoot][=yes]" : {he}
