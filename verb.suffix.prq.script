@@ -645,9 +645,9 @@ define V=S=POSN [
 ! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
 ! EN: 'sensory, sensorial'; ES: 'sensorial' 
 define V=S=S [
-  "[--][-nin+sensory][+S]" : "@EP"[{nint}] 
-| "[--][-nen+sensory][+S]" : "@EP"[{nent}] 
-| "[--][-neen+sensory][+S]" : "@EP"[{neent}] 
+  "[--][-nint+sensory][+S]" : "@EP"[{nint}] 
+| "[--][-nent+sensory][+S]" : "@EP"[{nent}] 
+| "[--][-neent+sensory][+S]" : "@EP"[{neent}] 
 ];
       
 ! referencial applicative 
