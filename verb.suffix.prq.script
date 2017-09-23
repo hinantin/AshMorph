@@ -641,7 +641,7 @@ define V=S=POSN [
 | "[--][-ampe+in.circles][+POSN]" : "@EP"[{ampe}]
 ];
       
-! sensory
+! EN: 'sensory, sensorial'; ES: 'sensorial' 
 define V=S=S [
   "[--][-nin+sensory][+S]" : "@EP"[{nin}] 
 | "[--][-nen+sensory][+S]" : "@EP"[{nen}] 
