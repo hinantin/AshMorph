@@ -82,8 +82,11 @@ define PrnPersPRQin [
 | "[=irio+cont.d.top.][PrnPers][+3SG.m.][=he][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=he.is (ES: él.es)]" : {iriotake}
 ! 
 | "[=irotaki+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why]" : {irotaki} ! FOC "that's.why" 
+| "[=irootaki+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why]" : {irootaki} ! FOC "that's.why" 
+| "[=rootaki+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why]" : {rootaki} ! FOC "that's.why" 
 | "[=irotake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she]" : {irotake} ! FOC "that's.why" , "she"
 | "[=irootake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she; she.is (ES: ella.es)]" : {irootake} 
+| "[=rootake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she; she.is (ES: ella.es)]" : {rootake} 
 | "[=iroo+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=that's.why, she; she.is (ES: ella.es)]" : {irootake}
 ! 
 | "[=arotaki+cntr.exh.l.][PrnPers][+1PL]" : {arotaki}
