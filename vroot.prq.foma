@@ -121,6 +121,8 @@ define VRootPRQin [
 ! 
 | "[=antant][VRoot][=to.fight]" : {antant}
 ! 
+| "[=antiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {antiva}
+! 
 | "[=antsi][VRoot][=to.sew.sth. (ES: coser)]" : {antsi}
 | "[=orimpi][VRoot][=to.sew.sth. (ES: coser)]" : {orimpi}
 ! 
@@ -1261,7 +1263,7 @@ define VRootPRQin [
 ! 
 | "[=tononk][VRoot][=to.grind.sth. (ES: moler)]" : {tononk}
 ! 
-| "[=tot][VRoot][=to.cut]" : {tot}
+| "[=tot][VRoot][=to.cut (ES: cortar)]" : {tot}
 | "[=tov][VRoot][=to.fell, to.cut.down (a.tree)]" : {tov}
 | "[=tov][VRoot][=to.cut]" : {tov}
 | "[=tova][VRoot][=to.cut]" : {tova}

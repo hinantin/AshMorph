@@ -2850,8 +2850,8 @@ define NRootPRQin [
 ! 
 | "[=tairinkari+m.][NRoot][=curl-crested.aracari (sci.nm.: pteroglossus.beauharnaessi), small.toucan.sp.]" : {tairinkari}
 ! shell, peel, skin
-| "[=taki+n.m.+inal.][NRoot][=shell; peel; skin]" : {taki} ! N@->V 
-| "[=otaki+n.m.+inal.][NRoot][=shell; peel; skin; her.shell]" : {otaki}
+| "[=taki+n.m.+inal.][NRoot][=shell (ES: caparazón); peel; skin]" : {taki} ! N@->V 
+| "[=otaki+n.m.+inal.][NRoot][=shell (ES: caparazón); peel; skin; her.shell]" : {otaki}
 ! 
 | "[=takitsi+m.][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {takitsi}
 ! 
@@ -3062,6 +3062,8 @@ define NRootPRQin [
 | "[=tsavi][NRoot][=vagina]" : {tsavi} 
 ! 
 | "[=tsiirishi][NRoot][=La.Merced]" : {tsiirishi} 
+! 
+| "[=tsiito][NRoot][=mosquito.sp. (ES: mosquito)]" : {tsiito} 
 ! 
 | "[=tsikontoche][NRoot][=cat's.claw (ES: uña.de.gato)]" : {tsikontoche} 
 ! 
