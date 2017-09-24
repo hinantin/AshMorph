@@ -405,10 +405,13 @@ define V=S=APPLINST [
 # Valence-adjusting operators, degree, time and manner 
 
 define V=S=once [
+# semelfactive: 
   "[--][-apaint][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaint}]
 | "[--][-apaent][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaent}]
 # -----------------------------------------------------
+# semeliterative: single repetition of event/action (semel: one.time) 
 | "[--][-apanant][+ITERATIVE][=one.more.time]" : "@EP"[{apanant}]
+| "[--][-apan][+ITERATIVE][=one.more.time]" : "@EP"[{apan}]
 ];
       
 define V=S=REP [
