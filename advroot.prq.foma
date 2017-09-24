@@ -32,6 +32,8 @@ define AdvRootPRQin [
 | "[=kapichekitaiteni][AdvRoot][=early.morning]" : {kapichekitaiteni}
 | "[=koramani][AdvRoot][=in.the.future]" : {koramani}
 ! 
+| "[=koahika][AdvRoot][=some.time.later]" : {koahika}
+! 
 | "[=meeka][AdvRoot][=now]" : {meeka}
 | "[=meka][AdvRoot][=now]" : {meka}
 ! 
@@ -44,7 +46,7 @@ define AdvRootPRQin [
 | "[=osaikera][AdvRoot][=tomorrow]" : {osaikera}
 | "[=osaitekera][AdvRoot][=tomorrow]" : {osaitekera}
 ! 
-| "[=osamani][AdvRoot][=some.time.later; later.on]" : {osamani}
+| "[=osamani][AdvRoot][=some.time.later; later.on, after.a.while]" : {osamani}
 | "[=osamani][AdvRoot][=late]" : {osamani}
 | "[=osamani][AdvRoot][=a.while]" : {osamani}
 | "[=osamani][AdvRoot][=a.while.ago]" : {osamani}
