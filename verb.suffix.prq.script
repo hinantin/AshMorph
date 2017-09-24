@@ -404,7 +404,7 @@ define V=S=APPLINST [
 # -----------------------------------------------------
 # Valence-adjusting operators, degree, time and manner 
 
-define V=S=once [
+define V=S=SEMEL [
 # semelfactive: 
   "[--][-apaint][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaint}]
 | "[--][-apaent][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaent}]
