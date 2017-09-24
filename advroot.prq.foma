@@ -30,7 +30,7 @@ define AdvRootPRQin [
 | "[=ironyaka][AdvRoot][=now]" : {ironyaka}
 | "[=kapichekitaite][AdvRoot][=early.morning]" : {kapichekitaite}
 | "[=kapichekitaiteni][AdvRoot][=early.morning]" : {kapichekitaiteni}
-| "[=koramani][AdvRoot][=in.the.future]" : {koramani}
+| "[=koramani][AdvRoot][=in.the.future; later.on; one.day]" : {koramani}
 ! 
 | "[=koahika][AdvRoot][=some.time.later]" : {koahika}
 ! 
@@ -76,6 +76,9 @@ define AdvRootPRQin [
 ! 
 | "[=sheteni][AdvRoot][=in.the.afternoon]" : {sheteni}
 | "[=sheteniranki][AdvRoot][=yesterday]" : {sheteniranki}
+! 
+| "[=tampatika][AdvRoot][=at.midday]" : {tampatika}
+! 
 | "[=tsiteni][AdvRoot][=at.night, in.the.nightime]" : {tsiteni}
 | "[=tsiteniranki][AdvRoot][=last.night]" : {tsiteniranki}
 ! 
