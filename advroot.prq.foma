@@ -76,7 +76,7 @@ define AdvRootPRQin [
 ! 
 | "[=sheteni][AdvRoot][=in.the.afternoon]" : {sheteni}
 | "[=sheteniranki][AdvRoot][=yesterday]" : {sheteniranki}
-| "[=tsiteni][AdvRoot][=at.night]" : {tsiteni}
+| "[=tsiteni][AdvRoot][=at.night, in.the.nightime]" : {tsiteni}
 | "[=tsiteniranki][AdvRoot][=last.night]" : {tsiteniranki}
 ! 
 | "[=shavinihi][AdvRoot][=in.the.afternoon]" : {shavinihi}
