@@ -11,8 +11,8 @@ define V=S=noun [
 | "[--][=hani][NRoot][=little.child]" : "@EP"{hani} ! @VCMP 
 | "[--][=henka][NRoot][=voice]" : "@EP"{henka} ! @VCMP 
 | "[--][=enka][NRoot][=voice]" : "@EP"{enka} ! @VCMP 
-| "[--][=tsempeki][NRoot][=body]" : "@EP"{tsempeki} ! @VCMP 
-| "[--][=tseempeki][NRoot][=body]" : "@EP"{tseempeki} ! @VCMP 
+| "[--][=tsempeki][NRoot][=body; outer.frame; skeleton]" : "@EP"{tsempeki} ! @VCMP 
+| "[--][=tseempeki][NRoot][=body; outer.frame; skeleton]" : "@EP"{tseempeki} ! @VCMP 
 | "[--][=kentsi+n.m.+inal.][NRoot][=neck, nape]" : "@EP"{kentsi} ! @VCMP 
 | "[--][=kintsi+n.m.+inal.][NRoot][=neck, nape]" : "@EP"{kintsi} ! @VCMP 
 | "[--][=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kiri} ! @VCMP 
