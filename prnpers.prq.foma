@@ -106,6 +106,7 @@ define PrnPersPRQin [
 | "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {irointi}
 | "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {irinti}
 | "[=iriinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {iriinti}
+| "[=arointi+cntr.cnt.assert.top.][PrnPers][+1PL][=...]" : {arointi}
 ! 
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL][--][-ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
 # -------------------------------------------------------------------
