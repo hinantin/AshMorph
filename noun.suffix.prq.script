@@ -375,8 +375,8 @@ define N=S=CL [
 ! kireekipakori / =kireeki -pako -ri+m. / =money -cl:your.hand -adj / EN: 'wealthy.man'; ES: 'adinerado'  
 ! kireekipakoro / =kireeki -pako -ro+n.m. / =money -cl:your.hand -adj / EN: 'wealthy.woman'; ES: 'adinerada'  
 | "[--][-pako][+CL:your.hand][=your.hand, your.five]" : {pako} ! @CL 
-! ojabobakota / o- =jabo -bako -t -a / 3n.m.s- =to.soap.sth -cl:... -ep -real / EN: 'she.soaps.her.hands' 
-| "[--][-vako][+CL:your.hand][=your.hand, your.five]" : {vako} ! @CL 
+! ojabobakota / o- =jabo -bako -t -a / 3n.m.s- =to.soap.sth -cl:hand -ep -real / EN: 'she.soaps.her.hands' 
+| "[--][-vako][+CL:hand][=hand]" : {vako} ! @CL 
 ! 
 ! monkarakaraki / =monkara -karaki / =to.measure -cl:fractional / ES: 'fracción'  
 ! inchakaraki / =incha -karaki / =plant -cl:fractional / ES: 'palo.seco' 
