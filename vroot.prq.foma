@@ -373,7 +373,7 @@ define VRootPRQin [
 | "[=kasa][VRoot][=to.cook.manioc]" : {kasa}
 ! 
 | "[=kats][VRoot][=to.feel.pain]" : {kats}
-| "[=katsi][VRoot][=to.feel.pain; to.be.in.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
+| "[=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
 | "[=katsik][VRoot][=to.feel.pain]" : {katsik}
 ! 
 | "[=katsinka][VRoot][=to.be.cold]" : {katsinka}
@@ -565,6 +565,8 @@ define VRootPRQin [
 # ikonaveta / i- =kona -ve -t -a / 3m.s- =to.fish.with.barbasco -frus -ep -real / EN: 'he.almost.fished.with.barbasco', ES: 'mientras.pescaba'  
 | "[=kona][VRoot][=to.fish.with.barbasco/poison]" : {kona} 
 | "[=konaa][VRoot][=to.fish.with.barbasco/poison]" : {konaa} 
+! 
+| "[=koonk][VRoot][=to.signal.by.whistling.with.both.hands]" : {koonk} 
 ! word set:
 | "[=koraki][VRoot][=to.approach, to.get.closer, to.come.near]" : {koraki}
 | "[=korake][VRoot][=to.approach, to.get.closer, to.come.near]" : {korake}
