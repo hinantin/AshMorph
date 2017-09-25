@@ -543,4 +543,6 @@ define S [
 | (V=S=NEWDISC) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=EXCL) ! ompoh-ak-i-na-vi 
 | (V=S=RCP) (V=S=CAUSSOC) (V=S=HAB) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=PLcircumfixing)  
+| (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) (V=S=STAT) (V=S=REL)  
 ];
+
