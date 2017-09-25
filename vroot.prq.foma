@@ -1065,10 +1065,10 @@ define VRootPRQin [
 | "[=hamorenk][VRoot][=to.have.blisters]" : {hamorenk} 
 | "[=samorink][VRoot][=to.have.blisters]" : {samorink} 
 ! 
-| "[=sampi][VRoot][=to.ask]" : {sampi}
-| "[=sampi][VRoot][=to.ask]" : {sanpi}
-| "[=hampi][VRoot][=to.ask]" : {hampi}
-| "[=hampi][VRoot][=to.ask]" : {hanpi}
+| "[=sampi][VRoot][=to.ask.(about.sth.)]" : {sampi}
+| "[=sampi][VRoot][=to.ask.(about.sth.)]" : {sanpi}
+| "[=hampi][VRoot][=to.ask.(about.sth.)]" : {hampi}
+| "[=hampi][VRoot][=to.ask.(about.sth.)]" : {hanpi}
 ! 
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
 | "[=sapok][VRoot][=to.jump, to.jump.up.and.down]" : {sapok}
