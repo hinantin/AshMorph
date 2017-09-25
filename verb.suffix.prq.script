@@ -291,6 +291,7 @@ define V=S=ABS [
 define V=S=COND [
   "[--][-rika][+COND]" : "@EP"[{rika}] 
 # This suffix indicates, for good/bad, an action or idea wasn't fulfilled.
+# Also abbreviated CNT.EXP 'counter-expectational' 
 | "[--][-me][+SUBJ]" : "@EP"[{me}] 
 ];
       
