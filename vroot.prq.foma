@@ -427,6 +427,8 @@ define VRootPRQin [
 ! 
 | "[=kimi][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like]" : {kimi}
 | "[=keme][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like]" : {keme}
+| "[=kempe][VRoot][=to.be.similar.to.sb/sth, to.seem; to.imitate]" : {kempe}
+| "[=kehe][VRoot][=to.be.similar.to.sb/sth, to.seem]" : {kehe}
 ! 
 | "[=kimisan][VRoot][=to.pay.attention; to.believe; to.obey; to.pay.heed; to.pay.attention.to.sth/sb-and-to.consider.it.carefully]" : {kimisan}
 | "[=kemisan][VRoot][=to.pay.attention; to.believe; to.obey]" : {kemisan}
@@ -465,9 +467,6 @@ define VRootPRQin [
 | "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
 | "[=kinkishire][VRoot][=to.believe, to.think]" : {kinkishire}
 | "[=kenkitsashiry][VRoot][=to.believe, to.think]" : {kenkitsashiry}
-! 
-| "[=kempe][VRoot][=to.be.similar.to.sb/sth, to.seem; to.imitate]" : {kempe}
-| "[=kehe][VRoot][=to.be.similar.to.sb/sth, to.seem]" : {kehe}
 ! 
 | "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
 | "[=kenkishirI][VRoot][=to.believe, to.think]" : {kenkishiri}
