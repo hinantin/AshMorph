@@ -1692,7 +1692,7 @@ define NRootPRQin [
 | "[=navireri][NRoot][=person's.name]" : {navireri}
 | "[=naviriri][NRoot][=person's.name]" : {naviriri}
 ! 
-| "[=nehi+inal.][NRoot][=chest]" : {nehi}
+| "[=nehi+inal.][NRoot][=chest]" : {nehi} ! @VCMP 
 ! 
 # nitsi / =ni -tsi / =louse -nposs / EN: 'louse'  
 # noni / no- =ni / 1sg.poss- =louse / EN : 'my.louse'  
