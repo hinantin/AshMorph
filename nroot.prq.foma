@@ -220,10 +220,10 @@ define NRootPRQin [
 | "[=chii+m.+inal.][NRoot][=horn, thorn]" : {chii}
 | "[=tsee+m.+inal.][NRoot][=horn, thorn]" : {tsee}
 ! 
-| "[=cheenkari+color][NRoot][=obscure; black]" : {cheenkari}
-| "[=chenkari+color][NRoot][=obscure; black]" : {chenkari}
-| "[=cheenkaro+color][NRoot][=black]" : {cheenkaro}
-| "[=cheenkavo+color][NRoot][=black]" : {cheenkavo}
+| "[=cheenkari+color][NRoot][=obscure; black (ES: negro)]" : {cheenkari}
+| "[=chenkari+color][NRoot][=obscure; black (ES: negro)]" : {chenkari}
+| "[=cheenkaro+color][NRoot][=black (ES: negra)]" : {cheenkaro}
+| "[=cheenkavo+color][NRoot][=black (ES: negra)]" : {cheenkavo}
 ! 
 | "[=chekito+m.][NRoot][=frog.sp., small.toad.sp.]" : {chekito}
 ! 
