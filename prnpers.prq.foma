@@ -110,7 +110,10 @@ define PrnPersPRQin [
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL][--][-ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
 # -------------------------------------------------------------------
 | "[=narosati+rflx.intsf.][PrnPers][+1SG][=me.too; myself]" : {narosati}
-| "[=irisati+rflx.intsf.][PrnPers][+1SG][=he.too; himself]" : {irisati}
+| "[=avisati+rflx.intsf.][PrnPers][+2SG][=...]" : {avisati}
+| "[=irisati+rflx.intsf.][PrnPers][+3SG.m.][=he.too; himself]" : {irisati}
+| "[=irosati+rflx.intsf.][PrnPers][+3SG.n.m.][=...]" : {irosati}
+| "[=arosati+rflx.intsf.][PrnPers][+1PL][=...]" : {arosati}
 ];
 
 # ---------------------------------------------
