@@ -1423,8 +1423,10 @@ define VRootPRQin [
 | "[=tzin][VRoot][=to.rise]" : {tzin}
 | "[=tzin][VRoot][=to.get.up]" : {tzin}
 ! 
+! o(v) 'place', 'guard' ??? 
 | "[=v][VRoot][=to.put]" : {v}
 | "[=v][VRoot][=to.place]" : {v}
+! 
 | "[=v][VRoot][=to.kill]" : {v}
 ! 
 | "[=vanenka][VRoot][=to.be.beautiful]" : {vanenka}

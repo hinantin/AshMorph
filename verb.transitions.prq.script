@@ -546,5 +546,6 @@ define S [
 | (V=S=RCP) (V=S=CAUSSOC) (V=S=HAB) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=PLcircumfixing)  
 | (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) (V=S=STAT) (V=S=REL)  
 | (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) (V=S=DUR) [(V=S=REAL)|(V=S=IRR)] (V=S=RPST)  
+| (V=S=RCP) (V=S=CAUSSOC) (V=S=PL) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)]  
 ];
 
