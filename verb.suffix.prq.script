@@ -18,6 +18,7 @@ define V=S=IRR [
 | "[--][-ia][+IRR]" : "@EP"[{ia}]
 | "[--][-ya][+IRR]" : "@EP"[{ya}]
 | "[--][-ye][+IRR]" : "@EP"[{ye}]
+| "[--][-yea][+IRR]" : "@EP"[{yea}]
 | "[--][-a][+IRR]" : "@EP"[{a}]
 | "[--][-i][+IRR]" : "@EP"[{i}]
 | "[--][-yaa][+IRR]" : "@EP"[{yaa}]
