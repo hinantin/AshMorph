@@ -922,8 +922,8 @@ define NRootPRQin [
 | "[=kamenaantsi][NRoot][=advice]" : {kamenaantsi}
 ! 
 ! kametsape / =kametsa -pe / =good -pl / EN: 'good.ones' 
-| "[=kameetsa][NRoot][=well]" : {kameetsa}
-| "[=kametsa][NRoot][=well, good]" : {kametsa}
+| "[=kameetsa][NRoot][=well]" : {kameetsa} ! @VCMP 
+| "[=kametsa][NRoot][=well, good]" : {kametsa} ! @VCMP 
 ! 
 | "[=kami+poss@ni.][NRoot][=rotten.leaf]" : {kami}
 ! 

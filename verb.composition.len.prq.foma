@@ -13,6 +13,8 @@ define V=S=LEN=noun [
 | "[--][=enka][NRoot][=voice]" : {enka} ! @VCMP 
 | "[--][=tsempeki][NRoot][=body; outer.frame; skeleton]" : {tsempeki} ! @VCMP 
 | "[--][=tseempeki][NRoot][=body; outer.frame; skeleton]" : {tseempeki} ! @VCMP 
+| "[--][=kameetsa][NRoot][=well]" : {kameetsa} ! @VCMP 
+| "[--][=kametsa][NRoot][=well, good]" : {kametsa} ! @VCMP 
 | "[--][=kentsi+n.m.+inal.][NRoot][=neck, nape]" : {kentsi} ! @VCMP 
 | "[--][=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi} ! @VCMP 
 | "[--][=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
