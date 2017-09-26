@@ -599,6 +599,7 @@ define V=S=almost [
 ];
       
 # action finished a long time ago
+# REM.PST: remote past  
 define V=S=RPST [
   "[--][-ni][+R.PST]" : "@EP"[{ni}]
 ];
