@@ -250,7 +250,7 @@ define NRootPRQin [
 ! grandpa, grandfather, grandparents
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
-| "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V
+| "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V ! is te as a possessive correct ????
 ! 
 | "[=chenkaro+m.][NRoot][=black-and-white.bird.sp.]" : {chenkaro}
 ! trousers, pants
