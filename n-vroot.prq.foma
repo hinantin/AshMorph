@@ -15,7 +15,7 @@ define NounToVerbPRQin [
 | "[=chakopi+n.m.+poss@te.][NRoot][=arrow; small.cane (cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {chaine} ! N@->V
-| "[=charini+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charini} ! N@->V
+| "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charini} ! N@->V ! is te as a possessive correct ????
 | "[=chenko+n.m.+inal.][NRoot][=trousers, pants]+vbz." : {chenko} ! N@->V
 | "[=tsenko+n.m.+inal.][NRoot][=trousers, pants]+vbz." : {tsenko} ! N@->V
 | "[=eentsi+n./m.+poss@te.][NRoot][=child]+vbz." : {eentsi} ! N@->V
