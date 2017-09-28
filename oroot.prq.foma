@@ -50,13 +50,22 @@ define ORootPRQin [
 ! 
 | "[=aripaite][ORoot][=at.last (ES: por.fin)]" : {aripaite} 
 # -----------------------------------------
-#         Determiner 
+#         Determiner           
+#   Demonstrative identifier (DEM.ID)  
 # -----------------------------------------
-# These are gender dependent conjunctions.
+# These are gender dependent determiners, they serve to command the recipient to take hold of something proffered/given.
+# 
 # [..] ora nampitsipe amazónicos jeri sharakasatipe [..] / ora nampitsipe amazónicos heri sharakasatipe / =ora =nampi+n.m. -tsi -pe =amazónico+AQ0MP00 =heri+m. =sharaka -sati+m. -pe / =that =country -nposs -pl =Amazonian =det =snow -cl:provenance -pl / EN: 'Amazonian.and.Andean.people'; ES: 'los.pueblos.amazónicos.y.andinos'  
 # [..] nampitsipe Amazónica, jero sharakasatope [..] / nampitsipe Amazónica, hero sharakasatope / =nampi+n.m. -tsi -pe =amazónico+AQ0FS00 =hero+n.m. =sharaka -sato+n.m. -pe / =country -nposs -pl =Amazonian =det =snow -cl:provenance -pl / EN: 'Amazonian.and.Andean.people'; ES: 'los.pueblos.amazónicos.y.andinos'   
-| "[=hero+n.m.][DetRoot][=...]" : {hero} 
-| "[=heri+m.][DetRoot][=...]" : {heri} 
+| "[=hero+n.m.][DetRoot][=DEM.ID][=here.you.are]" : {hero} 
+| "[=hero+n.m.][DetRoot][=DEM.ID][=here.you.are][--][-ka+proximal][Adv][+DEM]" : {heroka} 
+| "[=hero+n.m.][DetRoot][=DEM.ID][=here.you.are][--][-ra+medial][Adv][+DEM]" : {herora} 
+| "[=hero+n.m.][DetRoot][=DEM.ID][=here.you.are][--][-nta+distal][Adv][+DEM]" : {heronta} 
+| "[=heri+m.][DetRoot][=DEM.ID][=here.you.are]" : {heri} 
+| "[=heri+m.][DetRoot][=DEM.ID][=here.you.are][--][-ka+proximal][Adv][+DEM]" : {herika} 
+| "[=heri+m.][DetRoot][=DEM.ID][=here.you.are][--][-ra+medial][Adv][+DEM]" : {herira} 
+| "[=heri+m.][DetRoot][=DEM.ID][=here.you.are][--][-nta+distal][Adv][+DEM]" : {herinta} 
+
 # -----------------------------------------
 ! 
 | "[=impoihi][ConnRoot][=after, later, afterwards]" : {impoihi}
