@@ -48,13 +48,13 @@ define ORootPRQin [
 # aritapake pitsaeyaka / =a -ri -t -ap -ak -i pi- =tsaey -ak -a / =PP -rel -ep -dir -prf -real 2s- =to.lie -prf -real / EN: 'enough.of.lying'; ES: 'ya.basta.de.mentira' 
 | "[=aritapake][PostPol][=it.is.enough (ES: bastar; suficiente; basta.ya.de.algo)]" : {aritapake} 
 # -----------------------------------------
-#         Copulative conjunction 
+#         Determiner 
 # -----------------------------------------
 # These are gender dependent conjunctions.
 # [..] ora nampitsipe amazónicos jeri sharakasatipe [..] / ora nampitsipe amazónicos heri sharakasatipe / =ora =nampi+n.m. -tsi -pe =amazónico+AQ0MP00 =heri+m. =sharaka -sati+m. -pe / =that =country -nposs -pl =Amazonian =and =snow -cl:provenance -pl / EN: 'Amazonian.and.Andean.people'; ES: 'los.pueblos.amazónicos.y.andinos'  
 # [..] nampitsipe Amazónica, jero sharakasatope [..] / nampitsipe Amazónica, hero sharakasatope / =nampi+n.m. -tsi -pe =amazónico+AQ0FS00 =hero+n.m. =sharaka -sato+n.m. -pe / =country -nposs -pl =Amazonian =and =snow -cl:provenance -pl / EN: 'Amazonian.and.Andean.people'; ES: 'los.pueblos.amazónicos.y.andinos'   
-| "[=hero+n.m.][ConnRoot][COP.CONJ.][=and (ES: y)]" : {hero} 
-| "[=heri+m.][ConnRoot][COP.CONJ.][=and (ES: y)]" : {heri} 
+| "[=hero+n.m.][DetRoot][=...]" : {hero} 
+| "[=heri+m.][DetRoot][=...]" : {heri} 
 # -----------------------------------------
 ! 
 | "[=impoihi][ConnRoot][=after, later, afterwards]" : {impoihi}
