@@ -398,9 +398,9 @@ define NRootPRQin [
 ! 
 | "[=erama][NP][=2-3cm-size.yellow-bellied.black.worm.sp.]" : {erama}
 ! 
-| "[=ereki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {ereki}
-| "[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {eereki}
-| "[=iiriki][NRoot][=green; green.fruit (not.yet.ready.to.eat)]" : {iiriki}
+| "[=ereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {ereki}
+| "[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {eereki}
+| "[=iiriki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {iiriki}
 ! 
 | "[=eereshi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new.leaf]" : {eereshi}
 | "[=iirishi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new.leaf]" : {iirishi}
