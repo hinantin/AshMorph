@@ -1,11 +1,11 @@
 # free possesive pronominal pronouns
 
 define PrnPossPRQin [
-  "[=nashi][PrnPoss][+1SG][=mine]" : {nashi} ! mine
-| "[=pashi][PrnPoss][+2SG][=yours]" : {pashi}
-| "[=irashi][PrnPoss][+3SG.m.][=his, its]" : {irashi} ! his, its
-| "[=rashi][PrnPoss][+3SG.m.][=his]" : {rashi} ! his
-| "[=ashi][PrnPoss][+3SG.n.m.][=her, hers, its]" : {ashi} ! her, hers, its
+  "[=nashi][PrnPoss][+1SG][=mine (ES: mío)]" : {nashi} ! mine
+| "[=pashi][PrnPoss][+2SG][=yours (ES: tuyo)]" : {pashi}
+| "[=irashi][PrnPoss][+3SG.m.][=his, its (ES: suyo.(de.hombre))]" : {irashi} ! his, its
+| "[=rashi][PrnPoss][+3SG.m.][=his (ES: suyo.(de.hombre)]" : {rashi} ! his
+| "[=ashi][PrnPoss][+3SG.n.m.][=her, hers, its (ES: suyo.(de.mujer)]" : {ashi} ! her, hers, its
 | "[=ashi][PrnPoss][+1PL]" : {ashi}
 | "[=pashiite][PrnPoss][+2PL]" : {pashiite}
 | "[=irashiite][PrnPoss][+3PL.m.]" : {irashiite}
