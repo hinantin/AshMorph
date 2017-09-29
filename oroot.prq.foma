@@ -92,7 +92,7 @@ define ORootPRQin [
 # iro kantaincha 'but' 
 | "[=iro][ConnRoot][=but]" : {iro}
 | "[=kantaincha][ConnRoot][=but]" : {kantaincha}
-# 
+# iro kantimaitacha 'but' 
 | "[=kantimaitacha][ConnRoot][=but]" : {kantimaitacha}
 ! 
 | "[=iroma][OtherRoot][=in.conrast]" : {iroma}
