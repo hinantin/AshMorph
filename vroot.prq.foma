@@ -906,7 +906,8 @@ define VRootPRQin [
 ! to plant, to sow
 | "[=panki][VRoot][=to.plant, to.sow]" : {panki}
 ! 
-| "[=pari][VRoot][=to.fall]" : {pari}
+| "[=pari][VRoot][=to.fall (ES: caer)]" : {pari}
+| "[=paria][VRoot][=to.fall (ES: caer)]" : {paria}
 | "[=pary][VRoot][=to.fall]" : {pary}
 | "[=pariy][VRoot][=to.fall]" : {pariy}
 | "[=vary][VRoot][=to.make.fall]" : {vary}
