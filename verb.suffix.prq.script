@@ -663,8 +663,8 @@ define V=S=APPLREF [
 ];
       
 define V=S=UNK1 [
-  "[--][-aheempi+when][+UNK1]" : "@EP"[{aheempi}] 
-| "[--][-ahempi+when][+UNK1]" : "@EP"[{ahempi}] 
+  "[--][-aheempi][+UNK1][=when]" : "@EP"[{aheempi}] 
+| "[--][-ahempi][+UNK1][=when]" : "@EP"[{ahempi}] 
 ];
       
 define V=S=DLMT [
