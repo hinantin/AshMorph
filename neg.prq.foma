@@ -7,11 +7,16 @@ define NegPRQin [
 | "[=eero][Neg][=NEG.IRR]" : {eero}
 | "[=iiro+past.neg.][Neg][=NEG.IRR]" : {iiro}
 # conditional negative irrealis 
-| "[=airo][Neg][=NEG.IRR][--][-rika][+COND]" : {airorika}
+| "[=airo][Neg][=NEG.IRR][--][-rika][+COND]::[=if.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {airorika}
 | "[=eero][Neg][=NEG.IRR][--][-rika][+COND]" : {eerorika}
 | "[=eiro][Neg][=NEG.IRR][--][-rika][+COND]" : {eirorika}
 | "[=iiro][Neg][=NEG.IRR][--][-rika][+COND]" : {iirorika}
 | "[=ero][Neg][=NEG.IRR][--][-rika][+COND]" : {erorika}
+! 
+# Counterfactual condition -mi +CNT.F
+! a) marker of an averted event.
+! b) marker of frustrative modality.
+! c) affective marker in requests.
 ! 
 ! *) Airomi osaikimi Tzivi, airorikami opokakimi pairani Tzivira.
 !    =airo -mi  o- =saik -i -mi  =tzivi , =airo -rika -mi  =pairani  =tzivi -ra 
