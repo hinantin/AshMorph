@@ -28,10 +28,10 @@ define NegPRQin [
 ! 
 | "[=eiro][Neg][=NEG.IRR][--][-ya][+INSIST]" : {eiroya}
 ! 
-! | "[=airo-me][Neg][=NEG.IRR-SUBJ][=if.it.were, if.there.were]" : {airome}
+| "[=airo][Neg][=NEG.IRR][--][-me][+SUBJ]::[=if.it.were, if.there.were]" : {airome}
 | "[=eiro][Neg][=NEG.IRR][--][-me][+SUBJ]::[=if.it.were, if.there.were]" : {eirome}
-! | "[=airo-kya][Neg][=NEG.IRR-EMPH][=now]" : {airokya}
-| "[=eiro][Neg][=NEG.IRR-EMPH][--][-kea][+EMPH]::[=now]" : {eirokea}
+| "[=airo][Neg][=NEG.IRR][--][-kya][+EMPH]::[=now]" : {airokya}
+| "[=eiro][Neg][=NEG.IRR][--][-kea][+EMPH]::[=now]" : {eirokea}
 ! eirotsitarica
 ! eiroyea
 ! eirotsita
@@ -46,19 +46,21 @@ define NegPRQin [
 | "[=eero][Neg][=NEG.IRR][--][-ra+medial][Adv][+DEM]" : {eerora}
 ! 
 # negative copula 
-| "[=kaari][Neg][=NEG.C/OP]" : {kaari}
+| "[=kaari][Neg][=NEG.COP]" : {kaari}
 # negative polarity 
 | "[=kaari][Neg][=NEG.P]" : {kaari}
 | "[=taan][Neg][=NEG.W]" : {taan}
-# negative realis 
-| "[=ti+future.neg.][Neg][=NEG/.REAL]" : {ti}
-| "[=te][Neg][=NEG/.REAL]" : {te}
-| "[=tee][Neg][=NEG.REAL]" : {tee}
+# ---------------------------------------- 
+# realis negative particle 
+# ---------------------------------------- 
+| "[=ti+future.neg.][Neg][=NEG.REAL]" : {ti}
+| "[=te+future.neg.][Neg][=NEG.REAL]" : {te}
+| "[=tee+future.neg.][Neg][=NEG.REAL]" : {tee}
 # conditional negative realis
-| "[=te][Neg][=NEG][--][-rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {terika}
-| "[=tee][Neg][=NEG][--][-rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {teerika}
+| "[=te][Neg][=NEG.REAL][--][-rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {terika}
+| "[=tee][Neg][=NEG.REAL][--][-rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {teerika}
 # 
-| "[=te][Neg][=NEG][--][-teeme][+CERTAINTY]" : {teteeme}
+| "[=te][Neg][=NEG.REAL][--][-teeme][+CERTAINTY]" : {teteeme}
 # negative existencial 
 | "[=tekatsi][Neg][=NEG.EXIST]" : {tekatsi}
 | "[=teekatsi][Neg][=NEG.EXIST]" : {teekatsi}
