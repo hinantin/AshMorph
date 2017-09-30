@@ -18,8 +18,8 @@ define ORootPRQin [
 ! 
 | "[=ari][PostPol][=PP][=there, so, thus, thereby, just.like.that]" : {ari}
 | "[=ario][PostPol][=PP]" : {ario}
-| "[=ari][PostPol][=PP][--][-ka+shortened][+COND]::[=when, if]" : {arika} ! ari-rika / PP-COND
-| "[=ari][PostPol][=PP][--][-rika][+COND]::[=when, if]" : {aririka} ! ari-rika / PP-COND : if 
+| "[=ari][PostPol][=PP][--][-ka+shortened][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]" : {arika} ! ari-rika / PP-COND
+| "[=ari][PostPol][=PP][--][-rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]" : {aririka} ! ari-rika / PP-COND : if 
 | "[=ario][PostPol][=PP][--][-rika][+COND]::[=maybe, perhaps; when, if]" : {ariorika} ! ario-rika / PP-COND
 | "[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]" : {aritaki} ! ari-t-ak-i / PP-EP-PRF-REAL
 | "[=ario][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {ariotake} ! ario-t-ak-e / PP-EP-PRF-REAL
