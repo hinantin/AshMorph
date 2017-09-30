@@ -82,8 +82,8 @@ define ORootPRQin [
 ! 
 | "[=ha][OtherRoot][=aha]" : {ha}
 ! 
-| "[=he][OtherRoot][=yes]" : {he}
-| "[=hee][OtherRoot][=yes]" : {hee}
+| "[=he][OtherRoot][=yes (ES: sí)]" : {he}
+| "[=hee][OtherRoot][=yes (ES: sí)]" : {hee}
 ! 
 | "[=intaani][OtherRoot][=only]" : {intaani}
 | "[=intaani][OtherRoot][=solely]" : {intaani}
