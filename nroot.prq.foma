@@ -478,8 +478,6 @@ define NRootPRQin [
 ! 
 | "[=hanari][NRoot][=raw (ES: crudo)]" : {hanari}
 ! 
-| "[=hantari][NRoot][=timber.tree.sp. (ES: árbol.(maderable))]" : {hantari}
-! 
 | "[=Hesokirishito+m.][NRoot][=Jesus.Christ]" : {hesokirishito}
 | "[=Kirishito+m.][NRoot][=Christ]" : {kirishito}
 | "[=Hesoshi+m.][NRoot][=Jesus]" : {hesoshi}
@@ -2567,6 +2565,7 @@ define NRootPRQin [
 | "[=sananti][NRoot][=rufescent.tiger-heron (sci.nm.: tigrisoma.lineatum)]" : {sananti}
 ! 
 | "[=santari][NRoot][=cedar.tree (ES: cedro)]" : {santari}
+| "[=hantari][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro)]" : {hantari}
 ! 
 | "[=santani+m.][NRoot][=bat-like.bird.sp.; owl.sp.that.lives.in.hollow-stones]" : {santani}
 ! 
