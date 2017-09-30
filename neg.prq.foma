@@ -1,5 +1,7 @@
 define NegPRQin [
-# negative irrealis 
+# ---------------------------------------- 
+# irrealis negative particle 
+# ---------------------------------------- 
   "[=airo][Neg][=NEG.IRR]" : {airo}
 | "[=eiro][Neg][=NEG.IRR]" : {eiro}
 | "[=ero][Neg][=NEG.IRR]" : {ero}
