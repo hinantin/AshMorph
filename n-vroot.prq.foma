@@ -18,6 +18,7 @@ define NounToVerbPRQin [
 | "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charini} ! N@->V ! is te as a possessive correct ????
 | "[=chenko+n.m.+inal.][NRoot][=trousers, pants]+vbz." : {chenko} ! N@->V
 | "[=tsenko+n.m.+inal.][NRoot][=trousers, pants]+vbz." : {tsenko} ! N@->V
+| "[=chetaki+inal.][NRoot][=rheum (ES: legaña)]+vbz." : {chetaki} ! N@->V
 | "[=eentsi+n./m.+poss@te.][NRoot][=child]+vbz." : {eentsi} ! N@->V
 | "[=iintsi+n./m.][NRoot][=child]+vbz." : {iintsi} ! N@->V
 | "[=entsi+n./m.+poss@te.][NRoot][=child]+vbz." : {entsi} ! N@->V
