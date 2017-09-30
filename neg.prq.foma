@@ -2,6 +2,9 @@ define NegPRQin [
 # ---------------------------------------- 
 # irrealis negative particle 
 # ---------------------------------------- 
+! When the airo-negated condition clause refers to an
+! unrealized action or state, the subordinate clause verb occurs in realis mode. 
+! 
   "[=airo][Neg][=NEG.IRR]" : {airo}
 | "[=eiro][Neg][=NEG.IRR]" : {eiro}
 | "[=ero][Neg][=NEG.IRR]" : {ero}
