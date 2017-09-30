@@ -63,9 +63,9 @@ define NegPRQin [
 | "[=tekatsi][Neg][=NEG.EXIST]" : {tekatsi}
 | "[=teekatsi][Neg][=NEG.EXIST]" : {teekatsi}
 ! 
-| "[=tekira][Neg][=yet, not.yet; before]" : {tekira}
-| "[=tekera][Neg][=yet, not.yet; before]" : {tekera}
-| "[=tikira][Neg][=yet, not.yet; before]" : {tikira}
+| "[=tekira][Neg][=yet; not.yet; before]" : {tekira}
+| "[=tekera][Neg][=yet; not.yet; before]" : {tekera}
+| "[=tikira][Neg][=yet; not.yet; before]" : {tikira}
 | "[=tekira][Neg][=yet, not.yet; before][--][-ta][+OPT]" : {tekirata}
 ];
 
