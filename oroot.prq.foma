@@ -103,7 +103,10 @@ define ORootPRQin [
 ! 
 | "[=kantzimaintacha][OtherRoot][=nevertheless]" : {kantzimaintacha}
 | "[=kantzimaitacha][OtherRoot][=nevertheless]" : {kantzimaitacha}
-| "[=kapichikitaite][OtherRoot][=early]" : {kapichikitaite}
+! 
+| "[=kapichikitaite][OtherRoot][=early]" : {kapichikitaite} 
+| "[=kapichi][NRoot][=small][--][=kitaite][VRoot][=to.be.morning]" : {kapichikitaite} 
+! 
 | "[=koye][OtherRoot][=ant]" : {koye}
 | "[=naakaite][OtherRoot][=1PL.EXCL]" : {naakaite}
 | "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
