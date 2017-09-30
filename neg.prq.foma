@@ -14,6 +14,7 @@ define NegPRQin [
 | "[=ero][Neg][=NEG.IRR][--][-rika][+COND]" : {erorika}
 ! 
 ! *) Airomi osaikimi Tzivi, airorikami opokakimi pairani Tzivira.
+!    =airo -mi  o- =saik -i -mi  =tzivi , =airo -rika -mi  =pairani  =tzivi -ra 
 !    The Salt person wouldn't have lived here, hadn't she come [here] long ago.
 | "[=airo][Neg][=NEG.IRR][--][-mi][+SUBJ]" : {airomi}
 | "[=airo][Neg][=NEG.IRR][--][-rika][+COND][--][-mi][+SUBJ]" : {airorikami}
