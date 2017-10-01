@@ -69,6 +69,7 @@ define NRootPRQin [
 | "[=ayo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {ayo} 
 | "[=ayini+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayini} 
 | "[=ayiini+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayiini} 
+| "[=nonatoto+voc@1SG.][NRoot][=sister.in.law (kin.of.female)]" : {nonatoto}
 ! 
 | "[=ayoori][NRoot][=casqued.oropendola (sci.nm.: clypicterus.oservi)]" : {ayoori} 
 ! 
@@ -1793,8 +1794,6 @@ define NRootPRQin [
 ! 
 | "[=noonki+m.][NRoot][=boa]" : {noonki}
 | "[=noonke+m.][NRoot][=boa]" : {noonke}
-! 
-| "[=nonatoto][NRoot][=sister.in.law (kin.of.female)]" : {nonatoto}
 ! 
 | "[=noshikari][NRoot][=crested.owl (sci.nm.: lophostrix.cristata)]" : {noshikari}
 ! 
