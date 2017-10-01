@@ -115,9 +115,9 @@ define S [
  (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
  (V=S=DUR) (V=S=CAUSSOC) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
  (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=APPLPRES) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=APPLSEP) (V=S=PROG) (V=S=IRR) (V=S=PRNO) | 
- (V=S=ADJ) (V=S=ADV) | 
+ (V=S=APPLPRES) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=APPLSEP) (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=ADJ) (V=S=ADV) | 
  (V=S=APPLINST) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=HAB) (V=S=IRR) | 
  (V=S=RCP) (V=S=PRF) (V=S=PROG) (V=S=REAL) | 
