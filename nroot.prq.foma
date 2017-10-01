@@ -1409,8 +1409,9 @@ define NRootPRQin [
 | "[=mainaro+n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {mainaro} 
 | "[=mainavo+n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {mainavo} 
 ! 
-| "[=maini+m.][NRoot][=bear.sp.]" : {maini}
-| "[=maeni+m.][NRoot][=bear.sp.]" : {maeni}
+| "[=maini+m.][NRoot][=bear.sp. (ES: sp.de.oso)]" : {maini}
+| "[=maeni+m.][NRoot][=bear.sp. (ES: sp.de.oso)]" : {maeni}
+| "[=meeni][NRoot][=bear.sp. (ES: sp.de.oso)]" : {meeni}
 ! 
 | "[=mainto+m.][NRoot][=fish.sp. (big.bujurqui)]" : {mainto}
 ! 
