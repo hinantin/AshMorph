@@ -54,8 +54,8 @@ define PrnDemPRQin [
 | "[=yoora+m.+medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yoora} ! he 
 ! 
 # demonstrative adjectives, it refers to people  
-| "[=yoranki+m.][PrnDem][=DEM.NOM (ES: ese, eso)]" : {yoranki} 
-| "[=yorari+m.][PrnDem][=DEM.NOM (ES: ese, eso)]" : {yorari} 
+| "[=yoranki+m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yoranki} 
+| "[=yorari+m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yorari} 
 # -------------------------------------------------
 ! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM. NOM.DEM]" : {oka}
