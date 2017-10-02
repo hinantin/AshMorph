@@ -48,8 +48,8 @@ define PrnDemPRQin [
 | "[=iyoka+m.+proximal][PrnDem][=this]" : {iyoka} ! DEM
 ! 
 | "[=iyora+m.+medial][PrnDem][=that]" : {iyora} ! DEM 
-| "[=yora+m.+medial][PrnDem][=DEM]" : {yora} ! he 
-| "[=yoora+m.+medial][PrnDem][=DEM]" : {yoora} ! he 
+| "[=yora+m.+medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yora} ! he 
+| "[=yoora+m.+medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yoora} ! he 
 ! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM. NOM.DEM]" : {oka}
 | "[=ora+n.m.+medial][PrnDem][=that]" : {ora} ! she 
@@ -60,8 +60,8 @@ define PrnDemPRQin [
 | "[=yoka+m.+proximal][PrnDem][=DEM]" : {yoka}
 ! 
 | "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
-| "[=yonta+m.+distal][PrnDem][=that, that.over.there]" : {yonta}
-| "[=yoonta+m.+distal][PrnDem][=that, that.over.there]" : {yoonta}
+| "[=yonta+m.+distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yonta}
+| "[=yoonta+m.+distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yoonta}
 ! 
 # aakitavakeri, iroorika onta mapi. 
 # / =aaki -t -av -ak -e -ri                 =iroo -rika     =onta+n.m.       =mapi+n.m. 
