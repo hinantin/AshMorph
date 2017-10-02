@@ -13,7 +13,7 @@ define PrnPersPRQin [
 ! naro: it is only used in greetings 
 | "[=naro+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naro}
 ! 
-| "[=aviro+cont.d.top.][PrnPers][+2SG][=you]" : {aviro}
+| "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)]" : {aviro}
 ! avirompa / aviro-mpa / 2TOP=DUB
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}

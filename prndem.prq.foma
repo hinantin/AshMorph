@@ -48,11 +48,11 @@ define PrnDemPRQin [
 | "[=iyoka+m.+proximal][PrnDem][=this]" : {iyoka} ! DEM
 ! 
 | "[=iyora+m.+medial][PrnDem][=that]" : {iyora} ! DEM 
-| "[=yora+m.+medial][PrnDem][=DEM]" : {yora} ! he 
+| "[=yora+m.+medial][PrnDem][=DEM (ES: él)]" : {yora} ! he 
 | "[=yoora+m.+medial][PrnDem][=DEM]" : {yoora} ! he 
 ! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM. NOM.DEM]" : {oka}
-| "[=ora+n.m.+medial][PrnDem][=that]" : {ora} ! she 
+| "[=ora+n.m.+medial][PrnDem][=that (ES: ella)]" : {ora} ! she 
 | "[=oora+n.m.+medial][PrnDem][=that]" : {oora} ! she 
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=DEM]" : {yoka}
