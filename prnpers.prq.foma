@@ -17,14 +17,21 @@ define PrnPersPRQin [
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)]" : {aviro}
 ! avirompa / =aviro -mpa / =you -dub / 
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
-| "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-hei][Num][+PL]" : {avirohei} ! FOC 
+| "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
+# yora 
+| "[=yora][PrnPers][+3SG.m.][=he (ES: él)]" : {yora}
+| "[=yora][PrnPers][+3SG.m.][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {yorahei}
+# ora
+| "[=ora][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {ora}
+| "[=ora][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {orahei}
 # eroka 
 | "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eroka}
 | "[=eeroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
 | "[=iiroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
 ! 
 # ------------------------------------------------ 
+# iri 
 | "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iri}
 ! 
 | "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he][--][-ka+proximal][Adv][+DEM]" : {irika}
@@ -35,6 +42,7 @@ define PrnPersPRQin [
 | "[=iryo+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iryo}
 # ------------------------------------------------ 
 ! 
+# iro 
 | "[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why]" : {iro}
 | "[=iroo+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why]" : {iroo}
 ! 
