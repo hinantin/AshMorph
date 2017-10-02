@@ -51,6 +51,8 @@ define PrnDemPRQin [
 | "[=yora+m.+medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yora} ! he 
 | "[=yoora+m.+medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yoora} ! he 
 ! 
+| "[=yoranki+m.][PrnDem][=DEM.NOM (ES: ese)]" : {yoranki} 
+! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM. NOM.DEM]" : {oka}
 | "[=ora+n.m.+medial][PrnDem][=that]" : {ora} ! she 
 | "[=oora+n.m.+medial][PrnDem][=that]" : {oora} ! she 
