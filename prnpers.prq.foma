@@ -39,7 +39,7 @@ define PrnPersPRQin [
 | "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he][--][-nta+distal][Adv][+DEM]" : {irinta}
 ! 
 | "[=iriro+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iriro}
-| "[=irio+cont.d.top.][PrnPers][+3SG.m.][=he]" : {irio}
+| "[=irio+cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)]" : {irio}
 | "[=iryo+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iryo}
 # ------------------------------------------------ 
 ! 
@@ -71,16 +71,16 @@ define PrnPersPRQin [
 | "[=irirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {irirori} ! FOC "He" 
 | "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)]" : {iriori} ! FOC 
 | "[=iriyori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {iriyori} ! FOC 
-| "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he][--][-hei][Num][+PL]" : {iriorihei} ! FOC 
+| "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {iriorihei} ! FOC 
 ! 
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {iroori} ! FOC 
 | "[=roori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {roori} ! FOC 
 | "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she]" : {irori} ! FOC 
-| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she][--][-hei][Num][+PL]" : {iroorihei} ! FOC 
+| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
 !  
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
 | "[=aroori+cntr.add.l.][PrnPers][+1PL]" : {aroori}
-| "[=aroori+cntr.add.l.][PrnPers][+1PL][--][-hei][Num][+PL]" : {aroorihei}
+| "[=aroori+cntr.add.l.][PrnPers][+1PL][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
 # -------------------------------------------------------------------
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG]" : {naakataki} ! FOC 
 | "[=narotake+cntr.exh.l.+foc.][PrnPers][+1SG]" : {narotake}
