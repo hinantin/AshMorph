@@ -47,11 +47,16 @@ define PrnDemPRQin [
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=this]" : {iyoka} ! DEM
 ! 
+# -------------------------------------------------
+# demonstrative adjectives, it refers to objects  
 | "[=iyora+m.+medial][PrnDem][=that]" : {iyora} ! DEM 
 | "[=yora+m.+medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yora} ! he 
 | "[=yoora+m.+medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yoora} ! he 
 ! 
-| "[=yoranki+m.][PrnDem][=DEM.NOM (ES: ese)]" : {yoranki} 
+# demonstrative adjectives, it refers to people  
+| "[=yoranki+m.][PrnDem][=DEM.NOM (ES: ese, eso)]" : {yoranki} 
+| "[=yorari+m.][PrnDem][=DEM.NOM (ES: ese, eso)]" : {yorari} 
+# -------------------------------------------------
 ! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM. NOM.DEM]" : {oka}
 | "[=ora+n.m.+medial][PrnDem][=that]" : {ora} ! she 
