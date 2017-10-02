@@ -59,8 +59,14 @@ define PrnDemPRQin [
 # -------------------------------------------------
 ! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM. NOM.DEM]" : {oka}
-| "[=ora+n.m.+medial][PrnDem][=that]" : {ora} ! she 
-| "[=oora+n.m.+medial][PrnDem][=that]" : {oora} ! she 
+# -------------------------------------------------
+# demonstrative adjectives 
+| "[=ora+n.m.+medial][PrnDem][=that (ES: esa)]" : {ora} ! she 
+| "[=oora+n.m.+medial][PrnDem][=that (ES: esa)]" : {oora} ! she 
+! 
+| "[=oranki+n.m.][PrnDem][=that (ES: esa)]" : {oranki} ! she 
+| "[=orari+n.m.][PrnDem][=that (ES: esa)]" : {orari} ! she 
+# -------------------------------------------------
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=DEM]" : {yoka}
 | "[=yoka+m.+proximal][PrnDem][=this]" : {yoka}
