@@ -16,7 +16,7 @@ define PrnPersPRQin [
 # aviro 
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)]" : {aviro}
 ! avirompa / =aviro -mpa / =you -dub / 
-| "[=aviro+cont.d.top.][PrnPers][+2SG][=you][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
+| "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-hei][Num][+PL]" : {avirohei} ! FOC 
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
 # eroka 
