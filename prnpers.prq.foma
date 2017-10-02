@@ -10,13 +10,16 @@ define PrnPersPRQin [
 # -------------------------------------------------------------------
   "[=naaka+cont.d.top.][PrnPers][+1SG][=I]" : {naaka}
 | "[=naka+cont.d.top.][PrnPers][+1SG][=I]" : {naka}
-! naro: it is only used in greetings 
+# naro: it is only used in greetings 
 | "[=naro+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naro}
 ! 
+# aviro 
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)]" : {aviro}
-! avirompa / aviro-mpa / 2TOP=DUB
+! avirompa / =aviro -mpa / =you -dub / 
 | "[=aviro+cont.d.top.][PrnPers][+2SG][=you][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
+| "[=aviro+cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-hei][Num][+PL]" : {avirohei} ! FOC 
 | "[=aviroka+cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
+# eroka 
 | "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eroka}
 | "[=eeroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
 | "[=iiroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
