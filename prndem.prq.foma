@@ -48,6 +48,9 @@ define PrnDemPRQin [
 | "[=iyoka+m.+proximal][PrnDem][=this]" : {iyoka} ! DEM
 ! 
 # -------------------------------------------------
+# The -nki suffix is used "to define or clarify that which is spoken of"
+# oranki pivanko / =ora -nki  pi- =panko / =that -rel  2poss- =house / EN: 'it is that, your house I was referring to' 
+! 
 # demonstrative adjectives, it refers to objects  
 | "[=iyora+m.+medial][PrnDem][=that]" : {iyora} ! DEM 
 | "[=yora+m.+medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yora} ! he 
@@ -60,7 +63,7 @@ define PrnDemPRQin [
 ! 
 | "[=oka+n.m.+proximal][PrnDem][=DEM. NOM.DEM]" : {oka}
 # -------------------------------------------------
-# demonstrative adjectives 
+# feminine demonstrative adjectives 
 | "[=ora+n.m.+medial][PrnDem][=that (ES: esa)]" : {ora} ! she 
 | "[=oora+n.m.+medial][PrnDem][=that (ES: esa)]" : {oora} ! she 
 ! 
