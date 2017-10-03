@@ -298,8 +298,8 @@ define NRootPRQin [
 ! 
 | "[=chokootzi][NRoot][=saphire.quail-dove (sci.nm.: geotrygon.saphirina)]" : {chokootzi}
 ! 
-| "[=chochoki][NRoot][=sweet.fruit]" : {chochoki}
-| "[=txotxoki][NRoot][=general.name.for.small.fruits]" : {txotxoki}
+| "[=chochoki][NRoot][=(wild).sweet.fruit]" : {chochoki}
+| "[=txotxoki][NRoot][=general.name.for.small.fruits; (wild).sweet.fruit]" : {txotxoki}
 ! 
 | "[=chomenta][NRoot][=freshwater.fish.sp. (palometa)]" : {chomenta}
 ! 
@@ -903,7 +903,7 @@ define NRootPRQin [
 | "[=katyori][NRoot][=salted]" : {katyori}
 | "[=katyokiri][NRoot][=salted]" : {katyokiri}
 ! 
-| "[=kahai][NRoot][=coffee.plant]" : {kahai}
+| "[=kahai][NRoot][=coffee.plant (sci.nm.: coffea.sp.)]" : {kahai}
 | "[=café][NRoot][=coffee]" : {kafe}
 ! 
 | "[=kahankari][NRoot][=perfume (ES: perfume); perfumed, fragrant (ES: perfumado)]" : {kahankari}
