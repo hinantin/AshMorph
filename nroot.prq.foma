@@ -629,7 +629,7 @@ define NRootPRQin [
 ! 
 | "[=inkite][NRoot][=sky; firmament]" : {inkite}
 ! 
-| "[=inki+n.m.+poss@ne.][NRoot][=peanut (ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
+| "[=inki+n.m.+poss@ne.][NRoot][=peanut, groundnut (ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
 ! 
 | "[=inkiri+m.][NRoot][=fish.sp.]" : {inkiri}
 ! 
@@ -1568,9 +1568,9 @@ define NRootPRQin [
 ! 
 | "[=mavira][NRoot][=festival.that.marks.the.beginning.of.the.season.of.scarcity; arrow.flower.festival]" : {mavira}
 ! 
-| "[=mavona+n.m.][NRoot][=potato.sp., edible.tuber (sach'a.papa)]" : {mavona}
-| "[=maona+n.m.][NRoot][=potato.sp., edible.tuber (sach'a.papa)]" : {maona}
-| "[=maana+n.m.][NRoot][=potato.sp., edible.tuber (sach'a.papa)]" : {maana}
+| "[=mavona+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea)]" : {mavona}
+| "[=maona+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea)]" : {maona}
+| "[=maana+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea)]" : {maana}
 ! 
 | "[=maontzi][NRoot][=common.potoo (sci.nm.: nyctibius.griseus)]" : {maontzi}
 ! 
@@ -2768,9 +2768,9 @@ define NRootPRQin [
 ! 
 | "[=shinkavi+n.m.+inal.][NRoot][=internal.organ.of.some.fish; corn.cob/maize (coronta)]" : {shinkavi}
 ! 
-| "[=shinki][NRoot][=corn (ES: maíz, botany.nm.: zea.maíz)]" : {shinki}
-| "[=zinki][NRoot][=corn (ES: maíz, botany.nm.: zea.maíz)]" : {zinki}
-| "[=sinki][NRoot][=corn (ES: maíz, botany.nm.: zea.maíz)]" : {sinki}
+| "[=shinki][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]" : {shinki}
+| "[=zinki][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]" : {zinki}
+| "[=sinki][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]" : {sinki}
 ! 
 | "[=shinkia+n.m.][NRoot][=alcoholic.drink.made.out.of.corn]" : {shinkia}
 ! fish trap, fishing trap
