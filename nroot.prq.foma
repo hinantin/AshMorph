@@ -1064,8 +1064,8 @@ define NRootPRQin [
 ! 
 | "[=kemari+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca), pig-like.animal (anta)]" : {kemari}
 ! 
-| "[=kemi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.); squash]" : {kemi}
-| "[=kimi+n.m.][NRoot][=pumpkin.sp. (zapallo, botany.nm.: cucurbita.sp.); squash]" : {kimi}
+| "[=kemi+n.m.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]" : {kemi}
+| "[=kimi+n.m.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]" : {kimi}
 ! 
 # ------------------------------------------------------------ 
 | "[=kemito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kemito}
@@ -1407,6 +1407,7 @@ define NRootPRQin [
 ! 
 | "[=machaa][NRoot][=big-bean.plant.sp.]" : {machaa}
 | "[=machaki][NRoot][=big.bean (frijol.grande, botany.id.: canavalia.sp.)]" : {machaki}
+| "[=machai][NRoot][=big-bean.plant.sp. (ES: frejol)]" : {machai}
 | "[=machaaki][NRoot][=big.bean (frijol.grande, botany.id.: canavalia.sp.)]" : {machaaki}
 ! 
 | "[=macheroki][NRoot][=plant.sp. (achotillo.leche)]" : {macheroki}
@@ -2764,9 +2765,9 @@ define NRootPRQin [
 ! 
 | "[=shinkavi+n.m.+inal.][NRoot][=internal.organ.of.some.fish; corn.cob/maize (coronta)]" : {shinkavi}
 ! 
-| "[=shinki][NRoot][=corn (maíz, botany.nm.: zea.maíz)]" : {shinki}
-| "[=zinki][NRoot][=corn (maíz, botany.nm.: zea.maíz)]" : {zinki}
-| "[=sinki][NRoot][=corn (maíz, botany.nm.: zea.maíz)]" : {sinki}
+| "[=shinki][NRoot][=corn (ES: maíz, botany.nm.: zea.maíz)]" : {shinki}
+| "[=zinki][NRoot][=corn (ES: maíz, botany.nm.: zea.maíz)]" : {zinki}
+| "[=sinki][NRoot][=corn (ES: maíz, botany.nm.: zea.maíz)]" : {sinki}
 ! 
 | "[=shinkia+n.m.][NRoot][=alcoholic.drink.made.out.of.corn]" : {shinkia}
 ! fish trap, fishing trap
