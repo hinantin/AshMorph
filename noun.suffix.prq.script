@@ -386,6 +386,8 @@ define N=S=CL [
 ! chekopikaraki / =chekopi -karaki /  
 ! 
 | "[--][-karaki][+CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : {karaki} ! @CL 
+#-----------------------------------------------
+| "[--][-ite][+CL:anim.PL][=hand]" : {ite} 
 ];
       
 define N=S=EXCL [
