@@ -611,8 +611,8 @@ define NRootPRQin [
 ! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
 ! 
-| "[=inchashi+n.m.][NRoot][=herb; shrubs; weeds]" : {inchashi}
-| "[=intxashi][NRoot][=herb.with.therapeutic.properties]" : {intxashi}
+| "[=inchashi+n.m.][NRoot][=herb; shrubs; weeds; medicinal.plant]" : {inchashi}
+| "[=intxashi][NRoot][=herb.with.therapeutic.properties; medicinal.plant]" : {intxashi}
 ! 
 # ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
 | "[=inchashinari+healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
