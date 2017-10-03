@@ -1262,8 +1262,8 @@ define VRootPRQin [
 | "[=tatsink][VRoot][=to.push.sth.]" : {tatsink}
 | "[=otatsink][VRoot][=to.push.sth.]" : {otatsink}
 ! 
-| "[=teh][VRoot][=to.weave]" : {teh}
-| "[=tih][VRoot][=to.weave]" : {tih}
+| "[=teh][VRoot][=to.weave (ES: tejer)]" : {teh}
+| "[=tih][VRoot][=to.weave (ES: tejer)]" : {tih}
 ! 
 | "[=tih][VRoot][=to.bury (ES: enterrar); to.dig (ES: cavar)]" : {tih}
 ! 
