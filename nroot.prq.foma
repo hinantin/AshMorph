@@ -936,9 +936,10 @@ define NRootPRQin [
 | "[=kamarankaa+inal.][NRoot][=vomit]" : {kamarankaa} 
 | "[=kamaranka+inal.][NRoot][=vomit]" : {kamaranka} 
 ! 
-| "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampi}
-| "[=kamaraNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamaranvi}
-| "[=kamaNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi), hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamanvi}
+| "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampi}
+| "[=kamaraNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamaranvi}
+| "[=kamaNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamanvi}
+| "[=kananerotsa][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kananerotsa}
 ! 
 | "[=kamarasanori][NRoot][=cream.color]" : {kamarasanori}
 ! 
