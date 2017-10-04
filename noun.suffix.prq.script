@@ -231,6 +231,8 @@ define N=S=CL [
 # saventarochii / =saventaro -chii / =cat's.claw -cl:thorn / EN: 'cat's.claw_thorn', ES: 'la espina de la planta uña de gato'
 | "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} 
 | "[--][-chii][+CL:thorn,spine][=thorn,spine]" : {chii} 
+| "[--][-tsee][+CL:thorn,spine][=thorn,spine]" : {tsee} 
+| "[--][-tseki][+CL:needle/thorn.tip][=needle/thorn.tip]" : {tseki} 
 
 # substance-and-color.of.soils 
 # ishikopatsa / =ishiko -patsa / =lime -cl:mass / EN: 'soil.with.abundant.lime.stones'  
