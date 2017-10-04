@@ -2013,7 +2013,8 @@ define NRootPRQin [
 ! ivaje / ivahe / i- =pahe / EN: 'his.gray_hair'; ES: 'su.cana' 
 | "[=pahe+inal.][NRoot][=gray.hair (ES: cana)]" : {pahe}
 ! 
-| "[=paho][NRoot][=bejuco.sp. (pate)]" : {paho}
+| "[=paho][NRoot][=bejuco.sp. (pate); pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete)]" : {paho}
+! 
 | "[=paho+n.m.][NRoot][=recipient/container.type; bowl.type]" : {paho}
 ! 
 | "[=pahotiki+n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pahotiki}
@@ -2989,6 +2990,8 @@ define NRootPRQin [
 | "[=tsoria][NRoot][=potato-like.tuber.sp. (ES: tubérculo.parecido.a.la.papa, malanga; sci.nm.: xanthosoma.sp.)]" : {tsoria}
 ! 
 | "[=tsota][NRoot][=spoon-like.utensil; Ashaninka.spoon (ES: cuchara.Asháninka)]" : {tsota}
+! 
+| "[=tsota][NRoot][=pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete)]" : {tsota}
 ! 
 | "[=tekatsi][NRoot][=none, empty, zero, null]" : {tekatsi}
 | "[=tekaatsi][NRoot][=none, empty, zero, null]" : {tekaatsi}
