@@ -917,8 +917,9 @@ define VRootPRQin [
 | "[=pari][VRoot][=to.fall (ES: caer)]" : {pari}
 | "[=paria][VRoot][=to.fall (ES: caer)]" : {paria}
 | "[=pary][VRoot][=to.fall]" : {pary}
-| "[=pariy][VRoot][=to.fall]" : {pariy}
 | "[=vary][VRoot][=to.make.fall]" : {vary}
+! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
+| "[=pariy][VRoot][=to.fall]" : {pariy}
 ! 
 | "[=pas][VRoot][=to.crush]" : {pas}
 | "[=pasa][VRoot][=to.punish; to.hit]" : {pasa}
