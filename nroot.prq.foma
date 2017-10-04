@@ -724,7 +724,7 @@ define NRootPRQin [
 ! 
 | "[=kymaroatzi][NRoot][=red-billed.scythebill (sci.nm.: campylorhampus.trochilirostris)]" : {kymaroatzi}
 # ------------------------------------------------------
-| "[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimbillo; QU: paqay, botany.nm.: inga.sp.)]" : {intsipa}
+| "[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimbillo, judía.delem.helado; QU: paqay; botany.nm.: inga.sp.)]" : {intsipa}
 ! 
 # iraantsi / =iraa -ntsi / =blood -nposs / EN: 'blood', ES: 'sangre'  
 | "[=iraa+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraa} 
@@ -750,9 +750,9 @@ define NRootPRQin [
 ! 
 | "[=Irima][NRoot][=Lima.city]" : {irima}
 ! 
-| "[=irimaki][NRoot][=lemon (botany.nm.: citrus.limón; ES: limón)]" : {irimaki}
-| "[=iriimaki][NRoot][=lemon (botany.nm.: citrus.limón; ES: limón)]" : {iriimaki} ! lima li -> iri(i) - ma -> ma -> ki -> CL
-| "[=hiriimaki][NRoot][=lemon (botany.nm.: citrus.limón; ES: limón)]" : {hiriimaki}
+| "[=irimaki][NRoot][=lemon (botany.nm.: citrus.lemon; ES: limón)]" : {irimaki}
+| "[=iriimaki][NRoot][=lemon (botany.nm.: citrus.lemon; ES: limón)]" : {iriimaki} ! lima li -> iri(i) - ma -> ma -> ki -> CL
+| "[=hiriimaki][NRoot][=lemon (botany.nm.: citrus.lemon; ES: limón)]" : {hiriimaki}
 ! 
 | "[=irina][NRoot][=Irina]" : {irina}
 !| "[=iritsiro][NRoot][=his.sister]" : {iritsiro}
@@ -1468,7 +1468,7 @@ define NRootPRQin [
 | "[=manitzi][NRoot][=tiger]" : {manitzi}
 | "[=maniti][NRoot][=tiger]" : {maniti}
 ! 
-| "[=manko][NRoot][=mango (botany.nm.: manguira.indica)]" : {manko}
+| "[=manko][NRoot][=mango (botany.nm.: manguira.indica, mangifera.indica)]" : {manko}
 ! 
 | "[=mankori][NRoot][=scarlet-rumped.cacique (sci.nm.: cacicus.uropygialis)]" : {mankori}
 ! 
@@ -3306,9 +3306,9 @@ define NRootPRQin [
 ! 
 | "[=tinkotsi][NRoot][=tuber.sp. (ES: tubérculo.indígena, arrurruz; sci.nm.: maranta.arundinacea)]" : {tinkotsi}
 ! pineapple
-| "[=tzivana+n.m.+poss@ti.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tzivana}
-| "[=tivana+n.m.+poss@ti.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tivana}
-| "[=tsivana+n.m.+poss@ti.][NRoot][=pineapple (botany.nm.: ananas.comosus)]" : {tsivana}
+| "[=tzivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]" : {tzivana}
+| "[=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]" : {tivana}
+| "[=tsivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]" : {tsivana}
 ! salt
 | "[=tzivi+n.m.+poss@ni.][NRoot][=salt]" : {tzivi}
 | "[=tivi+n.m.+poss@ni.][NRoot][=salt]" : {tivi}
