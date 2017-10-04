@@ -1300,7 +1300,7 @@ define NRootPRQin [
 # noyomentsani / no- =komentsa -ni / 1SG.poss- =to.hunt -rel / EN: 'my.prey', ES: 'mi.presa'
 | "[=komentsani][NRoot][=prey (ES: presa)]" : {komentsani}
 ! 
-| "[=komo][NRoot][=cubé, venomous.root.sp. (ES: Cube (sp.de.raíz.venenosa))]" : {komo}
+| "[=komo][NRoot][=cubé, venomous.root.sp. (ES: cube, barbasco, sp.de.raíz.venenosa; sci.nm.: lonchocarpus.nicou); poison.for.fishing]" : {komo}
 ! 
 | "[=kompatsiri][NRoot][=second.father (ES: compadre); godfather.of.ego's.baptized/initiated.child]" : {kompatsiri}
 | "[=kompatziri][NRoot][=second.father (ES: compadre); godfather.of.ego's.baptized/initiated.child]" : {kompatziri}
@@ -1960,7 +1960,7 @@ define NRootPRQin [
 ! 
 | "[=vako][NRoot][=venomous.plant.sp. (ES: huaco)]" : {vako}
 | "[=vakoshi][NRoot][=vegetable.poison (ES: huaca; sci.nm.: clibadium.remotiflorum)]" : {vakoshi}
-| "[=vakashi][NRoot][=vegetable.poison (ES: huaca; sci.nm.: clibadium.remotiflorum)]" : {vakashi}
+| "[=vakashi][NRoot][=vegetable.poison (ES: huaca; sci.nm.: clibadium.remotiflorum); poison.for.fishing]" : {vakashi}
 ! 
 | "[=ovae+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovae}
 | "[=ovai+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovai}
@@ -2198,7 +2198,7 @@ define NRootPRQin [
 | "[=pitiri][NRoot][=large.pink.bird.sp., heron.sp.]" : {pitiri}
 | "[=pitiiri][NRoot][=large.pink.bird.sp., heron.sp.]" : {pitiiri}
 ! 
-| "[=pitishi][NRoot][=tree.sp.with.venomous.leaves (its.leaves.are.used.as.barbasco.when.fishing; ES: chirrinchao; sci.nm.: phyllanthus.sp.)]" : {pitishi}
+| "[=pitishi][NRoot][=tree.sp.with.venomous.leaves (its.leaves.are.used.as.barbasco.when.fishing, poison.for.fishing; ES: chirrinchao; sci.nm.: phyllanthus.sp.)]" : {pitishi}
 ! 
 | "[=pitsikentzi][NRoot][=red-headed.manakin (sci.nm.: pipra.rubrocapilla)]" : {pitsikentzi}
 ! 
