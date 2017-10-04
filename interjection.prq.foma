@@ -1,14 +1,14 @@
 define InterjPRQin [
-  "[=pasonki][InterjPRQ][=thanks]" : {pasonki}
-| "[=paasonki][InterjPRQ][=thanks]" : {paasonki}
-| "[=paasoonki][InterjPRQ][=thanks]" : {paasoonki}
-| "[=paasoonke][InterjPRQ][=thanks]" : {paasoonke}
+  "[=pasonki][InterjPRQ][=thanks (ES: gracias)]" : {pasonki}
+| "[=paasonki][InterjPRQ][=thanks (ES: gracias)]" : {paasonki}
+| "[=paasoonki][InterjPRQ][=thanks (ES: gracias)]" : {paasoonki}
+| "[=paasoonke][InterjPRQ][=thanks (ES: gracias)]" : {paasoonke}
 ! 
-| "[=pahonki][Interj][=thanks]" : {pahonki}
-| "[=paahonki][Interj][=thanks]" : {paahonki}
+| "[=pahonki][Interj][=thanks (ES: gracias)]" : {pahonki}
+| "[=paahonki][Interj][=thanks (ES: gracias)]" : {paahonki}
 ! 
-| "[=ataama][InterjPRQ][=thanks]" : {ataama}
-| "[=atãma][InterjPRQ][=thanks]" : {atãma}
+| "[=ataama][InterjPRQ][=thanks (ES: gracias)]" : {ataama}
+| "[=atãma][InterjPRQ][=thanks (ES: gracias)]" : {atãma}
 ! 
 | "[=ve][InterjPRQ][=EXCL]" : {ve}
 ! 
