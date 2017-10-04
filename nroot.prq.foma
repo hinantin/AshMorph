@@ -370,7 +370,7 @@ define NRootPRQin [
 ! 
 | "[=chotari][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: micrastur.ruficollis)]" : {chotari}
 ! 
-| "[=chootaro][NRoot][=acuatic.turtle.sp.]" : {chootaro}
+| "[=chootaro][NRoot][=acuatic.turtle.sp. (ES: tortuga.acuatica)]" : {chootaro}
 ! 
 | "[=chovankeriki][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chovankeriki}
 | "[=chovankeri][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chovankeri}
@@ -3269,6 +3269,8 @@ define NRootPRQin [
 | "[=tsorempi+n.m.][NRoot][=palm.tree.sp.]" : {tsorempi}
 ! 
 | "[=shoiriki][NRoot][=tuber.sp. (oca, from.Quechua.Uqa, sci.nm.: calatea.allouia, oxalis.tuberosa)]" : {shoiriki}
+! 
+| "[=shokonaki][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {shokonaki}
 ! 
 | "[=shonkiri+poss@ti.][NRoot][=big.partridge.sp.; large.quail]" : {shonkiri}
 ! 
