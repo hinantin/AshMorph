@@ -128,6 +128,8 @@ define N=S=CL [
 
 | "[--][-teya][+CL:flower][=flower]" : {teya} 
 | "[--][-tiya][+CL:flower][=flower]" : {tiya} 
+! santotea / =santo -tea / =saint -cl:flower / EN: 'sacred.flower'; ES: 'flores.sagradas' 
+| "[--][-tea][+CL:flower][=flower]" : {tea} 
 
 | "[--][-tonki][+CL:long.tree.segment][=long tree segment]" : {tonki} 
 | "[--][-tyonki][+CL:long.tree.segment][=long tree segment]" : {tyonki} 
