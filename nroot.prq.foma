@@ -797,8 +797,8 @@ define NRootPRQin [
 | "[=ivire+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {ivire}
 | "[=iviri+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
 ! 
-| "[=iveto][NRoot][=capybara (mountain.animal, ES: ronsoco)]" : {iveto}
-| "[=oveto][NRoot][=capybara (mountain.animal, ES: ronsoco)]" : {oveto}
+| "[=iveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {iveto}
+| "[=oveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {oveto}
 ! 
 | "[=sarana][NRoot][=wasp.sp. (it.presents.a.blu.reflection; ES: sp.de.avispa)]" : {sarana}
 # -------------------------------------------------------------------------------------------------
@@ -1442,7 +1442,7 @@ define NRootPRQin [
 ! 
 | "[=maini+m.][NRoot][=bear.sp. (ES: sp.de.oso)]" : {maini}
 | "[=maeni+m.][NRoot][=bear.sp. (ES: sp.de.oso)]" : {maeni}
-| "[=meeni][NRoot][=bear.sp. (ES: sp.de.oso); spectacled.bear (ES: oso.de.anteojos; sci.nm.: tremarctus.ornatus)]" : {meeni}
+| "[=meeni][NRoot][=bear.sp. (ES: sp.de.oso); spectacled.bear (ES: oso.de.anteojos; QU: ukumari; sci.nm.: tremarctus.ornatus)]" : {meeni}
 ! 
 | "[=mainto+m.][NRoot][=fish.sp. (big.bujurqui)]" : {mainto}
 ! 
