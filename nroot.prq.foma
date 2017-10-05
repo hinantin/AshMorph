@@ -435,10 +435,11 @@ define NRootPRQin [
 | "[=etso+m.][NRoot][=swallow.sp. (inhabits.the.rocks); white-collared.swift (streptopfogne.zonaris)]" : {etso}
 | "[=etsoni+m.][NRoot][=swallow.sp. (inhabits.the.rocks; ES: golondrina.que.habita.en.las.rocas)]" : {etsoni}
 ! 
-| "[=etzi+m.][NRoot][=armadillo.sp. (ES: carachupa); small.armadillo]" : {etzi}
-| "[=itzi+m.][NRoot][=armadillo.sp. (ES: carachupa); small.armadillo]" : {itzi}
-| "[=eti+m.][NRoot][=armadillo.sp. (ES: carachupa); small.armadillo]" : {eti}
-| "[=etini][NRoot][=armadillo]" : {etini}
+| "[=etzi+m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {etzi}
+| "[=itzi+m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {itzi}
+| "[=eti+m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {eti}
+| "[=etini][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus)]" : {etini}
+| "[=eteni][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus)]" : {eteni}
 ! 
 | "[=etziki+n.m.][NRoot][=wild.fruit.sp. (ES: caimitillo)]" : {etziki}
 | "[=etiki+n.m.][NRoot][=wild.fruit.sp. (ES: caimitillo)]" : {etiki}
@@ -1139,7 +1140,7 @@ define NRootPRQin [
 ! 
 | "[=kintaronke][NRoot][=loro-machaco.snake, venomous.pitviper.sp. (sci.nm.: bothriopsis.bilineata)]" : {kintaronke}
 ! 
-| "[=kintero][NRoot][=big.armadillo.sp. (sci.nm.: priodontes.maximus; ES: 'especie.de.armadillo.grande')]" : {kintero}
+| "[=kintero][NRoot][=big.armadillo.sp. (sci.nm.: priodontes.maximus/giganteus; ES: 'especie.de.armadillo.grande', yangunturo)]" : {kintero}
 ! 
 | "[=kentori][NRoot][=cicada.sp. (campanero, chicharra), insect.sp.]" : {kentori}
 | "[=kintori][NRoot][=cicada.sp. (campanero, chicharra), insect.sp.]" : {kintori}
