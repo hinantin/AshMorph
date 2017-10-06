@@ -453,9 +453,9 @@ define NRootPRQin [
 | "[=evankaro+n.m.][NRoot][=young.woman, adolescent]" : {evankaro}
 | "[=evankavo+n.m.][NRoot][=young.woman, adolescent]" : {evankavo}
 ! 
-| "[=samani+m.][NRoot][=rodent.sp., paca (picuro, majás, majas, zamaño)]" : {samani}
-| "[=hamani+m.][NRoot][=rodent.sp., paca (picuro, majás, majas, zamaño)]" : {hamani}
-| "[=hamaani+m.][NRoot][=rodent.sp., paca (picuro, majás, majas, zamaño)]" : {hamaani}
+| "[=samani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, zamaño; sci.nm.: coelogenus.paca)]" : {samani}
+| "[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, zamaño; sci.nm.: coelogenus.paca)]" : {hamani}
+| "[=hamaani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, zamaño; sci.nm.: coelogenus.paca)]" : {hamaani}
 ! 
 | "[=hampovatsa+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like, muddy soil]" : {hampovatsa}
 | "[=sampovatsa+poss@te.][NRoot][=mud (ES: barro); clay]" : {sampovatsa}
@@ -3269,8 +3269,8 @@ define NRootPRQin [
 | "[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: attalea.phalerata.martius.ex.spengel)]" : {tsiyaro}
 | "[=tsiyavo+n.m.][NRoot][=palm.tree.sp. (es: shapaja, shebón; sci.nm.: attalea.phalerata.martius.ex.spengel)]" : {tsiyavo}
 ! 
-| "[=tsiyeri+m.][NRoot][=medium-size.monkey.sp. (huasa, PT: macaco.de.cheiro)]" : {tsiyeri}
-| "[=tsiyiri+m.][NRoot][=medium-size.monkey.sp. (huasa, PT: macaco.de.cheiro)]" : {tsiyiri}
+| "[=tsiyeri+m.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyeri}
+| "[=tsiyiri+m.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyiri}
 ! 
 | "[=tsiyontzi+m.][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiyontzi}
 ! 
