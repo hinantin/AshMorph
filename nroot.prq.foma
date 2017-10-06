@@ -1077,7 +1077,7 @@ define NRootPRQin [
 ! 
 | "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
 ! 
-| "[=kemari+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca), pig-like.animal (anta)]" : {kemari}
+| "[=kemari+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca; sci.nm.: tapirus.americanus), pig-like.animal (anta)]" : {kemari}
 ! 
 | "[=kemi+n.m.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]" : {kemi}
 | "[=kimi+n.m.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]" : {kimi}
@@ -1840,6 +1840,8 @@ define NRootPRQin [
 ! 
 | "[=noshikari][NRoot][=crested.owl (sci.nm.: lophostrix.cristata)]" : {noshikari}
 ! 
+| "[=oati][NRoot][=(ES: tayra, lobo.del.monte; sci.nm.: gallictus.barbara)]" : {oati}
+! 
 | "[=ochera][NRoot][=shore]" : {ochera}
 | "[=ocheraa][NRoot][=shore]" : {ocheraa}
 ! 
@@ -2141,11 +2143,12 @@ define NRootPRQin [
 | "[=pataro+m.][NRoot][=small.squirrel.sp. (ES: sp.de.ardilla; sci.nm.: sciurus.pyrrhinus)]" : {pataro}
 | "[=patavo+m.][NRoot][=small.squirrel.sp. (ES: sp.de.ardilla; sci.nm.: sciurus.pyrrhinus)]" : {patavo}
 ! 
-| "[=pitsatsa][NRoot][=small.squirrel.sp.]" : {pitsatsa}
+| "[=pitsatsa+m.][NRoot][=small.squirrel.sp. (ES: ardilla.chica)]" : {pitsatsa}
+| "[=petsatsa+m.][NRoot][=small.squirrel.sp. (ES: ardilla.chica)]" : {petsatsa}
 ! 
-| "[=patyankori][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {patyankori}
-| "[=pateankori][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {pateankori}
-| "[=patiankori][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {patiankori}
+| "[=patyankori+m.][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {patyankori}
+| "[=pateankori+m.][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {pateankori}
+| "[=patiankori+m.][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {patiankori}
 ! 
 | "[=patara][NRoot][=sungrebe (sci.nm.: heliornis.fulica)]" : {patara}
 ! 
