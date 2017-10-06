@@ -1936,7 +1936,7 @@ define NRootPRQin [
 ! 
 | "[=oshero+m.][NRoot][=crab.sp.]" : {oshero}
 ! monkey species
-| "[=osheto][NRoot][=monkey.sp. (makisapa)]" : {osheto}
+| "[=osheto][NRoot][=monkey.sp. (ES: maquisapa; QU: makisapa; sci.nm.: ateles.paniscus)]" : {osheto}
 ! 
 | "[=oshetotsikoo][NRoot][=spectatled.owl (sci.nm.: pulsatrix.perspicillata)]" : {oshetotsikoo}
 !
@@ -3294,8 +3294,8 @@ define NRootPRQin [
 ! 
 | "[=tsovi][NRoot][=bow]" : {tsovi}
 ! 
-| "[=tsovero+m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa)]" : {tsovero}
-| "[=tsoviro+m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa)]" : {tsoviro}
+| "[=tsovero+m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa; sci.nm.: ateles.paniscus)]" : {tsovero}
+| "[=tsoviro+m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa; sci.nm.: ateles.paniscus)]" : {tsoviro}
 ! 
 | "[=tsovo][NRoot][=owl.sp. (urcututo)]" : {tsovo}
 | "[=tsoovo][NRoot][=owl.sp. (urcututo)]" : {tsoovo}
