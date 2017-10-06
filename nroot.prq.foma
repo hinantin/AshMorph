@@ -2140,9 +2140,12 @@ define NRootPRQin [
 ! 
 | "[=pataro+m.][NRoot][=small.squirrel.sp. (ES: sp.de.ardilla; sci.nm.: sciurus.pyrrhinus)]" : {pataro}
 | "[=patavo+m.][NRoot][=small.squirrel.sp. (ES: sp.de.ardilla; sci.nm.: sciurus.pyrrhinus)]" : {patavo}
+! 
 | "[=pitsatsa][NRoot][=small.squirrel.sp.]" : {pitsatsa}
-| "[=patyankori][NRoot][=small.squirrel.sp.]" : {patyankori}
-| "[=pateankori][NRoot][=small.squirrel.sp.]" : {pateankori}
+! 
+| "[=patyankori][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {patyankori}
+| "[=pateankori][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {pateankori}
+| "[=patiankori][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {patiankori}
 ! 
 | "[=patara][NRoot][=sungrebe (sci.nm.: heliornis.fulica)]" : {patara}
 ! 
