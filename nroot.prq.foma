@@ -2432,8 +2432,11 @@ define NRootPRQin [
 ! oviari / o- =piari / 3n.m.poss- =manioc.beer / EN: 'my.manioc_beer' 
 | "[=piari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piari}
 | "[=pyare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyare} ! @CMP 
+| "[=pyaare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyaare} 
 | "[=pyari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyari} ! @CMP 
+| "[=piyari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piyari}
 | "[=piyare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piyare}
+| "[=piyaare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piyaare}
 | "[=peare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {peare}
 | "[=nyonyo][NRoot][=manioc.beer (ES: masato)]" : {nyonyo}
 ! 
