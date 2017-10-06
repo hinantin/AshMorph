@@ -2179,10 +2179,10 @@ define NRootPRQin [
 | "[=pini+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pini}
 | "[=pinii+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pinii}
 ! 
-| "[=pihonkare+inal.][NRoot][=lung]" : {pihonkare}
-| "[=piyonkare+inal.][NRoot][=lung]" : {piyonkare}
-| "[=piyonkari+inal.][NRoot][=lung]" : {piyonkari}
-| "[=vihonkare+inal.][NRoot][=lung]" : {vihonkare}
+| "[=pihonkare+inal.][NRoot][=lung (ES: pulmones)]" : {pihonkare}
+| "[=piyonkare+inal.][NRoot][=lung (ES: pulmones)]" : {piyonkare}
+| "[=piyonkari+inal.][NRoot][=lung (ES: pulmones)]" : {piyonkari}
+| "[=vihonkare+inal.][NRoot][=lung (ES: pulmones)]" : {vihonkare}
 ! 
 | "[=peempe+m.][NRoot][=butterfly.sp.]" : {peempe}
 | "[=pempe+m.][NRoot][=butterfly.sp.]" : {pempe}
