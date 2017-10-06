@@ -1627,9 +1627,9 @@ define NRootPRQin [
 | "[=myanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myanto}
 | "[=myaanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myaanto}
 ! 
-| "[=meiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande)]" : {meiri}
-| "[=meyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande)]" : {meyiri}
-| "[=miyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande)]" : {miyiri}
+| "[=meiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande; sci.nm.: sciurus.pyrrhinus)]" : {meiri}
+| "[=meyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande; sci.nm.: sciurus.pyrrhinus)]" : {meyiri}
+| "[=miyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande; sci.nm.: sciurus.pyrrhinus)]" : {miyiri}
 ! 
 | "[=miitsi+m.][NRoot][=cat]" : {miitsi}
 | "[=misho+m.][NRoot][=cat]" : {misho}
@@ -2138,8 +2138,8 @@ define NRootPRQin [
 ! 
 | "[=patanari][NRoot][=red.resin.sp. (after.boiling.this.resin.is.placed.on.the.tip.of.arrows); tree.sp.]" : {patanari}
 ! 
-| "[=pataro+m.][NRoot][=small.squirrel.sp.]" : {pataro}
-| "[=patavo+m.][NRoot][=small.squirrel.sp.]" : {patavo}
+| "[=pataro+m.][NRoot][=small.squirrel.sp. (ES: sp.de.ardilla; sci.nm.: sciurus.pyrrhinus)]" : {pataro}
+| "[=patavo+m.][NRoot][=small.squirrel.sp. (ES: sp.de.ardilla; sci.nm.: sciurus.pyrrhinus)]" : {patavo}
 | "[=pitsatsa][NRoot][=small.squirrel.sp.]" : {pitsatsa}
 | "[=patyankori][NRoot][=small.squirrel.sp.]" : {patyankori}
 | "[=pateankori][NRoot][=small.squirrel.sp.]" : {pateankori}
