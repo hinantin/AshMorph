@@ -1377,8 +1377,8 @@ define NRootPRQin [
 | "[=koshipirinke][NRoot][=pit.viper.sp. (ES: jergona), jergón]" : {koshipirinke}
 | "[=karapariti][NRoot][=venomous.snake.sp., venomous.pitviper.sp. (ES: jergòn, sp.culebra.venenosa)]" : {karapariti}
 ! 
-| "[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp.]" : {koshiri}
-| "[=koshire+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp.]" : {koshire}
+| "[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshiri}
+| "[=koshire+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshire}
 ! 
 | "[=koshoshiko][NRoot][=dolphin.sp. (ES: bufeo,delfin)]" : {koshoshiko}
 | "[=koshoshika][NRoot][=dolphin.sp. (ES: bufeo,delfin)]" : {koshoshika}
@@ -2257,11 +2257,11 @@ define NRootPRQin [
 ! 
 | "[=Pito][NRoot][=person's.name]" : {pito}
 ! 
-| "[=pito+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui/muzmuque)]" : {pito}
-| "[=pitoni+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui/muzmuque)]" : {pitoni}
-| "[=pityoni+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui/muzmuque)]" : {pityoni}
-| "[=pitonii+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui/muzmuque)]" : {ipitonii}
-| "[=marampito][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (musmuque/musmuqui)]" : {marampito}
+| "[=pito+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque)]" : {pito}
+| "[=pitoni+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas)]" : {pitoni}
+| "[=pityoni+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas)]" : {pityoni}
+| "[=pitonii+m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas)]" : {ipitonii}
+| "[=marampito][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui)]" : {marampito}
 ! 
 | "[=pityotsi][NRoot][=proper.name]" : {pityotsi}
 ! 
