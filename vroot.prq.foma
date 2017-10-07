@@ -613,11 +613,11 @@ define VRootPRQin [
 ! 
 | "[=kovenka][VRoot][=danger]" : {kovenka}
 ! 
-| "[=kovintsa][VRoot][=to.hunt]" : {kovintsa}
-| "[=koventsa][VRoot][=to.hunt]" : {koventsa}
-| "[=kovinsa][VRoot][=to.hunt]" : {kovinsa} ! ???
-| "[=komintsa][VRoot][=to.hunt]" : {komintsa}
-| "[=komentsa][VRoot][=to.hunt]" : {komentsa}
+| "[=kovintsa][VRoot][=to.hunt (ES: cazar)]" : {kovintsa}
+| "[=koventsa][VRoot][=to.hunt (ES: cazar)]" : {koventsa}
+| "[=kovinsa][VRoot][=to.hunt (ES: cazar)]" : {kovinsa} ! ???
+| "[=komintsa][VRoot][=to.hunt (ES: cazar)]" : {komintsa}
+| "[=komentsa][VRoot][=to.hunt (ES: cazar)]" : {komentsa}
 ! 
 | "[=koya][VRoot][=to.gather]" : {koya}
 | "[=koye][VRoot][=to.gather]" : {koye}
