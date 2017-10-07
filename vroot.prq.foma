@@ -661,8 +661,8 @@ define VRootPRQin [
 ! 
 | "[=mana][VRoot][=to.fight]" : {mana}
 ! 
-| "[=mana][VRoot][=to.shoot (tipically.with.arrow(s)); to.fish.with.a.bow-and-arrow]" : {mana}
-| "[=manaa][VRoot][=to.shoot (tipically.with.arrow(s)); to.fish.with.a.bow-and-arrow]" : {manaa}
+| "[=mana][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow]" : {mana}
+| "[=manaa][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow]" : {manaa}
 ! 
 | "[=mantsiy][VRoot][=to.be.sick]" : {mantsiy}
 | "[=mantsiya][VRoot][=to.be.sick]" : {mantsiya}
