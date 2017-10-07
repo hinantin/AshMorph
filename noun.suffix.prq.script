@@ -239,8 +239,8 @@ define N=S=CL [
 | "[--][-vatsa][+CL:mass][=mass; jelly-like.(soil)]" : {vatsa} 
 | "[--][-patsa][+CL:mass][=mass; jelly-like.(soil)]" : {patsa} ! @CL 
 ! .. 
-| "[--][-nki][+CL:snake][=snake.sp.]" : {nki} 
-| "[--][-nke][+CL:snake][=snake.sp.]" : {nke} 
+| "[--][-nki][+CL:snake][=snake.sp.]" : {nki} ! @CL 
+| "[--][-nke][+CL:snake][=snake.sp.]" : {nke} ! @CL 
 ! 
 | "[--][-keni][+CL:worm][=worm.sp.]" : {keni} 
 #-----------------------------------------------
