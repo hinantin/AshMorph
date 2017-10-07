@@ -1367,16 +1367,16 @@ define VRootPRQin [
 ! 
 | "[=tseenk][VRoot][=to.reduce, to.lessen; to.doubt.sth.]" : {tseenk}
 ! 
-| "[=tsika][NRoot][=to.adopt]" : {tsika} 
-| "[=otzika][NRoot][=to.capture (ES: cautivar); to.enslave (ES: esclavizar); to.adopt (ES: adoptar)]" : {otzika} 
+| "[=tsika][VRoot][=to.adopt]" : {tsika} 
+| "[=otzika][VRoot][=to.capture (ES: cautivar); to.enslave (ES: esclavizar); to.adopt (ES: adoptar)]" : {otzika} 
 ! 
-| "[=tsikaa][NRoot][=to.sieve, to.sift.sth.]" : {tsikaa} 
+| "[=tsikaa][VRoot][=to.sieve, to.sift.sth.]" : {tsikaa} 
 ! 
 | "[=tsikana][VRoot][=pepper]" : {tsikana}
 ! 
-| "[=tsikiy][NRoot][=to.kick]" : {tsikiy}
+| "[=tsikiy][VRoot][=to.kick]" : {tsikiy}
 ! 
-| "[=tsiko][NRoot][=to.hook, to.take.hold]" : {tsiko}
+| "[=tsiko][VRoot][=to.hook, to.take.hold]" : {tsiko}
 ! 
 | "[=tsink][VRoot][=to.crush.sth.with.wooden.pestle (prbly.boiled.yucca)]" : {tsink}
 ! 
@@ -1560,10 +1560,10 @@ define VRootPRQin [
 | "[=osheke][VRoot][=to.be.much]" : [{osheke}] 
 ! 
 # Possessive relation +POSS.REL
-| "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)][--][-nt][VS][+POSS.REL]::[=to.be.son.of]" : {tomint}
-| "[=hime+m.+inal.][NRoot][=husband (kin.of.a.female)][--][-nt][VS][+POSS.REL]::[=to.marry.sb.]" : {himent}
-| "[=hina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)][--][-nt][VS][+POSS.REL]::[=to.have.a.wife/girlfriend]" : {hinant}
-| "[=kam][VRoot][=to.die][--][-a][+EP][--][=hime+m.+inal.][NRoot][=husband (kin.of.a.female)][--][-nt][VS][+POSS.REL]::[=to.become.a.widow]" : {kamahiment}
+| "[=tomi+m.+inal.][VRoot][=son (kin.of.fe/male)][--][-nt][VS][+POSS.REL]::[=to.be.son.of]" : {tomint}
+| "[=hime+m.+inal.][VRoot][=husband (kin.of.a.female)][--][-nt][VS][+POSS.REL]::[=to.marry.sb.]" : {himent}
+| "[=hina+n.m.+inal.][VRoot][=mother; wife (kin.of.a.fe/male)][--][-nt][VS][+POSS.REL]::[=to.have.a.wife/girlfriend]" : {hinant}
+| "[=kam][VRoot][=to.die][--][-a][+EP][--][=hime+m.+inal.][VRoot][=husband (kin.of.a.female)][--][-nt][VS][+POSS.REL]::[=to.become.a.widow]" : {kamahiment}
 ! 
 | "[=kaari][VRoot][=NEG.COP]" : {kaari}
 ! copula of capacity cop.c
