@@ -392,6 +392,10 @@ define N=S=CL [
 | "[--][-karaki][+CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : {karaki} ! @CL 
 #-----------------------------------------------
 | "[--][-ite][+CL:anim.PL][=hand]" : {ite} 
+#-----------------------------------------------
+! kamonapata / 
+! quiripata / kiripata 
+| "[--][-pata][+CL:long.tool][=long.tool]" : {pata} 
 ];
       
 define N=S=EXCL [
