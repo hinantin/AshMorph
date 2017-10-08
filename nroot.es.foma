@@ -44,6 +44,9 @@ define NRootESin [
 ! 
 | "[=ingeniero][NRootEs][=engineer]" : {ingeniero}
 ! 
+| "[=hilo][NRootEs][=thread (ES: hilo)]" : {iiro}
+| "[=hilo][NRootEs][=thread (ES: hilo)]" : {iro}
+! 
 | "[=jabón][NRootEs][=soap]" : {jabo}
 | "[=jabón][NRootEs][=soap]" : {jaboo}
 ! 
