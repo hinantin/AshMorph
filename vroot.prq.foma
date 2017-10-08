@@ -499,8 +499,8 @@ define VRootPRQin [
 ! 
 !| "[=kinkivarotzi][VRoot][=to.be.old]" : {kinkivarotzi}
 ! 
-| "[=kint][VRoot][=to.pierce.with.arrows, to.shoot.arrows, to.sting]" : {kint}
-| "[=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows, to.sting]" : {kent}
+| "[=kint][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)]" : {kint}
+| "[=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)]" : {kent}
 ! 
 | "[=kipatsi][VRoot][=to.get.soiled]" : {kipatsi}
 ! 
@@ -695,10 +695,10 @@ define VRootPRQin [
 ! 
 | "[=mat][VRoot][=to.transmit.a.disease]" : {mat}
 ! 
-| "[=ma][VRoot][=to.sleep]" : {ma}
-| "[=maa][VRoot][=to.sleep]" : {maa}
-| "[=may][VRoot][=to.sleep]" : {may}
-| "[=maey][VRoot][=to.sleep]" : {maey}
+| "[=ma][VRoot][=to.sleep (ES: dormir)]" : {ma}
+| "[=maa][VRoot][=to.sleep (ES: dormir)]" : {maa}
+| "[=may][VRoot][=to.sleep (ES: dormir)]" : {may}
+| "[=maey][VRoot][=to.sleep (ES: dormir)]" : {maey}
 ! 
 | "[=mapok][VRoot][=to.surprise]" : {mapok}
 ! 
