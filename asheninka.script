@@ -24,7 +24,7 @@
       #                        #
       ##########################
 
-      define AEpenthesisRule1 [ "@EP" (->) {a}"@EP" || t _ v ]; 
+      define AEpenthesisRule1 [ "@EP" (->) {a}"@EP" || t _ v ]; # kentavaetantsi / =kent -a -vae -t -antsi 
       define AEpenthesisRule2 [ "@EP" (->) {a}"@EP" || r _ y ]; 
 
       define AEpenthesisRule3 [ "@EP" (->) {a}"@EP" || s _ [r|v] ]; # pinkatsari ??? 
