@@ -358,7 +358,8 @@ define VRootPRQin [
 ! 
 | "[=kamarank][VRoot][=to.vomit]" : {kamarank}
 ! 
-| "[=kamatsa][VRoot][=to.crawl]" : {kamatsa}
+| "[=kamatsa][VRoot][=to.crawl (ES: gatear)]" : {kamatsa}
+| "[=akamatsa][VRoot][=to.crawl (ES: gatear)]" : {akamatsa} ! only 1 ocurrence ???
 ! 
 | "[=kameetsa][VRoot][=to.be.good]" : {kameetsa}
 | "[=kametsa][VRoot][=to.be.good]" : {kametsa}
