@@ -1553,9 +1553,9 @@ define VRootPRQin [
 | "[=yomi][VRoot][=to.teach]" : {yomi}
 | "[=yome][VRoot][=to.teach]" : {yome}
 | "[=yoome][VRoot][=to.teach]" : {yoome}
-| "[=vame][VRoot][=to.teach]" : {vame}
-| "[=ovame][VRoot][=to.teach]" : {ovame}
-| "[=oame][VRoot][=to.teach]" : {oame} ! oame-t-ant-atsi-ri 
+| "[=vame][VRoot][=to.teach (ES: enseñar)]" : {vame}
+| "[=ovame][VRoot][=to.teach (ES: enseñar)]" : {ovame}
+| "[=oame][VRoot][=to.teach (ES: enseñar)]" : {oame} ! oame-t-ant-atsi-ri 
 ! 
 | "[=yot][VRoot][=to.know]" : {yot}
 | "[=yotani][VRoot][=to.know]" : {yotani}
