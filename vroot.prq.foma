@@ -311,8 +311,8 @@ define VRootPRQin [
 | "[=it][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {it}
 | "[=et][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {et}
 ! 
-| "[=ir][VRoot][=to.drink]" : {ir}
-| "[o=][AGT.CAUS+][--][=i][VRoot][=drink]" : {oi}
+| "[=ir][VRoot][=to.drink (ES: beber)]" : {ir}
+| "[o=][AGT.CAUS+][--][=i][VRoot][=drink (ES: beber)]" : {oi}
 ! 
 | "[=ir][VRoot][=to.cry]" : {ir}
 | "[=ira][VRoot][=to.cry]" : {ira}
