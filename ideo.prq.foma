@@ -32,7 +32,9 @@ define IdeoPRQin [
 | "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting]" : {tok}
 ! 
 | "[=she+s.redup.word][IdeoPRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)]" : {she}
-| "[=shek+s.redup.word][IdeoPRQ][=moving/walking.quickly; action.of.scratching]" : {shek}
+| "[=she+s.redup.word][IdeoPRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)][--][-k][+PUNCTUAL.ACTN]" : {shek}
+! 
+| "[=shek+s.redup.word][IdeoPRQ][=moving/walking.quickly/fast]" : {shek}
 ! 
 | "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {sooo}
 | "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
