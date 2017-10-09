@@ -65,7 +65,8 @@ define AdvRootPRQin [
 # peeraniniri / =peerani -ni -ri / =long.ago -temporal -rel / EN: 'ancestor'; ES: 'antepasado'  
 | "[=pairani][AdvRoot][=since; before; long.ago]" : {pairani}
 | "[=paerani][AdvRoot][=since; before; long.ago]" : {paerani}
-| "[=peerani][AdvRoot][=since; before; long.ago (ES: antes)]" : {peerani}
+| "[=peerani][AdvRoot][=since; before; long.ago (ES: antes, hace.tiempo)]" : {peerani}
+| "[=perani][AdvRoot][=since; before; long.ago (ES: antes, hace.tiempo)]" : {perani}
 ! 
 | "[=ponya][AdvRoot][=then]" : {ponya}
 | "[=ponya][AdvRoot][=later]" : {ponya}
