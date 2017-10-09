@@ -999,9 +999,9 @@ define NRootPRQin [
 ! 
 | "[=kahereti][NRoot][=wasp.sp. (ES: sp.de.avispa)]" : {kahereti}
 ! 
-| "[=kantiri+n.m.][NRoot][=basket]" : {kantiri}
-| "[=kantire+n.m.][NRoot][=basket]" : {kantire} ! noyantire / no- =kantire / 1sg.poss- =basket / EN: 'my.basket', ES: 'mi.canasta' +voc.???
-| "[=kantziri+n.m.][NRoot][=basket]" : {kantziri}
+| "[=kantiri+n.m.][NRoot][=basket (ES: canasta)]" : {kantiri}
+| "[=kantire+n.m.][NRoot][=basket (ES: canasta)]" : {kantire} ! noyantire / no- =kantire / 1sg.poss- =basket / EN: 'my.basket', ES: 'mi.canasta' +voc.???
+| "[=kantziri+n.m.][NRoot][=basket (ES: canasta)]" : {kantziri}
 ! 
 | "[=kaara][NRoot][=empty (ES: vacio)]" : {kaara}
 | "[=kahara][NRoot][=empty (ES: vacio)]" : {kahara}
