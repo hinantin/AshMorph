@@ -659,7 +659,7 @@ define VRootPRQin [
 ! 
 | "[=mamp][VRoot][=to.sing]" : {mamp}
 ! 
-| "[=pamia][VRoot][=to.catch.fish.with.the.hands]" : {pamia}
+| "[=pamia][VRoot][=to.catch.fish.with.the.hands (ES: pescar.con.las.manos)]" : {pamia}
 ! 
 | "[=pampoy][VRoot][=to.sing]" : {pampoy}
 | "[=pampoye][VRoot][=to.sing]" : {pampoye}
@@ -941,7 +941,8 @@ define VRootPRQin [
 | "[=pas][VRoot][=to.crush]" : {pas}
 | "[=pasa][VRoot][=to.punish; to.hit]" : {pasa}
 ! 
-| "[=pasaka][VRoot][=to.fish.with.hands (ES: pescar/sacar.con.las.manos)]" : {pasaka}
+| "[=pasaka][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasaka}
+| "[=pasakaa][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasakaa}
 ! 
 | "[=pashik][VRoot][=to.cover (ES: cubrir, tapar)]" : {pashik}
 ! | "[=pashika][VRoot][=to.cover]" : [{pashika}|{pashka}]
