@@ -1309,7 +1309,7 @@ define NRootPRQin [
 ! 
 | "[=konyapi][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod; barbasco, vegetable.poison.root (sci.nm.: lonchocarpus.nicou)]" : {konyapi}
 ! 
-| "[=konoya][NRoot][=tortoise, turtle, motelo, turtle, land.turtle.sp. (PT: jabuti)]" : {konoya}
+| "[=konoya][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]" : {konoya}
 ! 
 | "[=komaro+n.m.+inal.][NRoot][=paddle, oar]" : {komaro}
 | "[=komavo+n.m.+inal.][NRoot][=paddle, oar]" : {komavo}
@@ -1493,6 +1493,8 @@ define NRootPRQin [
 | "[=mampetsa+n.m.+poss@te.][NRoot][=thread; cotton.thread (ES: hilo.de.algodón); distaff (ES: huso, rueca; QU: puchka)]" : {mampetsa}
 ! 
 | "[=mampo+n.m.+inal.][NRoot][=tenderness (ES: blandura)]" : {mampo}
+! 
+| "[=manaasavo+m.][NRoot][=land.turtle.sp. (ES: motelo, tortuga.terrestre)]" : {manaasavo}
 ! 
 | "[=manihi+m.][NRoot][=bullet.ant.sp. (big-and-venomous.ant.sp.; ES: isula)]" : {manihi}
 | "[=manii+m.][NRoot][=bullet.ant.sp. (big-and-venomous.ant.sp.; ES: isula)]" : {manii}
@@ -2764,8 +2766,8 @@ define NRootPRQin [
 ! 
 | "[=shenotsi+n.m.][NRoot][=goiter (ES: bocio)]" : {shenotsi}
 ! 
-| "[=shempiri][NRoot][=charapa.turtle, terrapin.sp.]" : {shempiri}
-| "[=sempiri][NRoot][=yellow-spotted.Amazon.river.turtle (taricaya)]" : {sempiri}
+| "[=shempiri][NRoot][=charapa.turtle, terrapin.sp. (ES: motelo, tortuga.de.tierra)]" : {shempiri}
+| "[=sempiri][NRoot][=yellow-spotted.Amazon.river.turtle (ES: motelo, tortuga.de.tierra, taricaya)]" : {sempiri}
 ! 
 | "[=shereentzi+m.][NRoot][=bird.sp.]" : {shereentzi}
 ! 
