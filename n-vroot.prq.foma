@@ -89,6 +89,7 @@ define NounToVerbPRQin [
 | "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]+vbz." : {vitzi} ! N@->V
 | "[=ayompari][NRoot][=trading.partner]+vbz." : {ayompari} ! N@->V 
 | "[=compadre][NRootEs][=godparent; spiritual.father]+vbz." : {compadre} ! N@->V 
+| "[=santo][NRoot][=saint; sacred (ES: sagrado); good.spirit (ES: buen.espíritu)]+vbz." : {santo} ! N@->V 
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tambor} ! N@->V
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tamboo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tamboro} ! N@->V
