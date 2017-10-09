@@ -15,6 +15,9 @@ define NRootPRQin [
 ! 
 | "[=amaisha][NRoot][=Yanesha, Amuesha]" : {amaisha} 
 ! 
+| "[=ampate+inal.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampate} 
+| "[=ampati+inal.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampati} 
+! 
 | "[=apapanani][NRoot][=the.brook.of.liver.parts]" : {apapanani} 
 ! 
 | "[=apiwtxa][NRoot][=all.together; together]" : {apiwtxa} 
@@ -2043,7 +2046,7 @@ define NRootPRQin [
 | "[=pachaka+n.m.][NRoot][=pumpkin (ES: calabaza; botany.nm.: lagenaria.sp.)]" : {pachaka}
 | "[=pachaka][NRoot][=container (ES: recipiente, porongo)]" : {pachaka}
 ! 
-| "[=pachaka][NRoot][=striated.heron (sci.nm.: butorides.striatus)]" : {pachaka}
+| "[=pachaka+m.][NRoot][=striated.heron (ES: sp.de.ave.color.blanco; sci.nm.: butorides.striatus)]" : {pachaka}
 ! 
 | "[=pachakama][NRoot][=person's.name; stone.divinity]" : {pachakama}
 | "[=pachaka][NRoot][=person's.name; stone.divinity]" : {pachaka}
