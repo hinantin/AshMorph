@@ -1380,8 +1380,10 @@ define NRootPRQin [
 | "[=kohaniri+m.][NRoot][=crocodile, alligator, (white).lizard (ES: lagarto.blanco)]" : {kohaniri}
 | "[=saniri+m.][NRoot][=crocodile, alligator, (white).lizard (ES: lagarto.blanco)]" : {saniri}
 ! 
-| "[=koshintsi][NRoot][=bird.sp. (it.steals.hair/small_used_fabric_pieces.from.other.bird.species.to.build.its.nest); thief, robber]" : {koshintsi}
-| "[=koshinti][NRoot][=thief, robber]" : {koshinti}
+| "[=koshintsi][NRoot][=bird.sp. (it.steals.hair/small_used_fabric_pieces.from.other.bird.species.to.build.its.nest)]" : {koshintsi}
+! 
+| "[=koshintsi+m.][NRoot][=thief, robber (ES: ratero, ladrón)]" : {koshintsi}
+| "[=koshinti+m.][NRoot][=thief, robber (ES: ratero, ladrón)]" : {koshinti}
 ! 
 | "[=koshipirinke][NRoot][=pit.viper.sp. (ES: jergona), jergón]" : {koshipirinke}
 | "[=karapariti][NRoot][=venomous.snake.sp., venomous.pitviper.sp. (ES: jergòn, sp.culebra.venenosa)]" : {karapariti}
