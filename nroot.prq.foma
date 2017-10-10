@@ -1207,12 +1207,12 @@ define NRootPRQin [
 | "[=kirina+inal.][NRoot][=nose]" : {kirina}
 | "[=kirimashi][NRoot][=nose]" : {kirimashi}
 ! 
-| "[=kiriiki+m.+poss@te.][NRoot][=money]" : {kiriiki}
-| "[=kiriki+m.+poss@te.][NRoot][=money]" : {kiriki}
-| "[=kireeki+m.+poss@te.][NRoot][=money]" : {kireeki}
-| "[=kireki+m.+poss@te.][NRoot][=money]" : {kireki}
-| "[=korike+m.][NRoot][=money]" : {korike}
-| "[=koriki+m.][NRoot][=money]" : {koriki}
+| "[=kiriiki+m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriiki}
+| "[=kiriki+m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriki}
+| "[=kireeki+m.+poss@te.][NRoot][=money (ES: dinero)]" : {kireeki}
+| "[=kireki+m.+poss@te.][NRoot][=money (ES: dinero)]" : {kireki}
+| "[=korike+m.][NRoot][=money (ES: dinero)]" : {korike}
+| "[=koriki+m.][NRoot][=money (ES: dinero)]" : {koriki}
 ! 
 | "[=kenashiri+color][NRoot][=green]" : {kenashiri}
 ! 
@@ -1311,8 +1311,8 @@ define NRootPRQin [
 ! 
 | "[=konoya][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]" : {konoya}
 ! 
-| "[=komaro+n.m.+inal.][NRoot][=paddle, oar]" : {komaro}
-| "[=komavo+n.m.+inal.][NRoot][=paddle, oar]" : {komavo}
+| "[=komaro+n.m.+inal.][NRoot][=paddle, oar (ES: remo)]" : {komaro}
+| "[=komavo+n.m.+inal.][NRoot][=paddle, oar (ES: remo)]" : {komavo}
 ! 
 | "[=komairo][NRoot][=olive-backed.foliage-gleaner (sci.nm: automolus.infuscatus)]" : {komairo}
 ! 
