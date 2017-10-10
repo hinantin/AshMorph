@@ -578,8 +578,8 @@ define VRootPRQin [
 ! 
 | "[=konyaa][VRoot][=to.appear]" : {konyaa}
 ! 
-| "[=koma][VRoot][=to.row; to.paddle]" : {koma} 
-| "[=komaa][VRoot][=to.row; to.paddle]" : {komaa} 
+| "[=koma][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
+| "[=komaa][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
 ! 
 | "[=komi][VRoot][=to.ignore, to.be.difficult; to.make.a.mistake]" : {komi}
 | "[=kompi][VRoot][=to.ignore, to.be.difficult; to.make.a.mistake, to.confuse]" : {kompi}
