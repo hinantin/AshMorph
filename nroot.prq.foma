@@ -1627,7 +1627,8 @@ define NRootPRQin [
 | "[=mayonkona][NRoot][=turmeric (ES: palillo, botany.id.: curcuma.longa)]" : {mayonkona}
 | "[=maneonkona][NRoot][=turmeric (ES: palillo, botany.id.: curcuma.longa)]" : {maneonkona}
 ! 
-| "[=mavo+m.][NRoot][=earthworm.sp., insect]" : {mavo}
+| "[=mavo+m.][NRoot][=earthworm.sp. (ES: sp.de.gusano); insect]" : {mavo}
+| "[=maavo+m.][NRoot][=earthworm.sp. (ES: sp.de.gusano); insect]" : {maavo}
 ! 
 | "[=mavoshi+n.m.+inal.][NRoot][=nest; grassy.nest]" : {mavoshi} ! N@->V
 | "[=maashi+n.m.+inal.][NRoot][=nest]" : {maashi} ! N@->V
