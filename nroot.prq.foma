@@ -2716,6 +2716,7 @@ define NRootPRQin [
 ! 
 | "[=saserote][NRoot][=priest]" : {saserote}
 ! 
+| "[=satipo][NRoot][=NP, Satipo.province]" : {satipo}
 | "[=hatipo][NRoot][=NP, Satipo.province]" : {hatipo}
 ! 
 | "[=satzi][NRoot][=provenance]" : {satzi}
