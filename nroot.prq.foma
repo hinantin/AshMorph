@@ -2589,6 +2589,8 @@ define NRootPRQin [
 | "[=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {shiya} ! @CMP 
 | "[=shaa+n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurague)]" : {shaa} ! @CMP 
 ! 
+| "[=shaaki][NRoot][=unguravi-palm-tree.fruit (ES: fruto.de.ungurague)]" : {shaaki}
+! 
 | "[=shaanke][NRoot][=unguravi-palm-tree.venomous.snake.sp.]" : {shaanke}
 ! 
 | "[=shiyintzi+m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyintzi}
@@ -2651,7 +2653,7 @@ define NRootPRQin [
 | "[=sankori][NRoot][=ant.sp. (curuhuinsi, ES: coqui, sp.de.hormiga)]" : {sankori}
 | "[=hankori][NRoot][=ant.sp. (curuhuinsi, ES: coqui, sp.de.hormiga)]" : {hankori}
 ! 
-| "[=shankoro][NRoot][=small.lizard.sp.]" : {shankoro}
+| "[=shankoro][NRoot][=small.lizard.sp. (ES: lagartija)]" : {shankoro}
 ! 
 | "[=shonyaki+n.m.][NRoot][=edible.plant.sp. (dale-dale, sci.nm.: calatea.allouia)]" : {shonyaki}
 | "[=shonaki+n.m.][NRoot][=edible.plant.sp. (dale-dale, sci.nm.: calatea.allouia)]" : {shonaki}
