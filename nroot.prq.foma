@@ -2574,6 +2574,8 @@ define NRootPRQin [
 | "[=shavori+m.][NRoot][=barbon-fish.sp. (ES: barbón, bagre)]" : {shavori}
 | "[=shaori+m.][NRoot][=barbon-fish.sp. (ES: barbón, bagre)]" : {shaori}
 ! 
+| "[=shavintoki][NRoot][=psidium (ES: guayaba; botany.nm.: psidium.guajaba)]" : {shavintoki}
+! 
 | "[=semito][NRoot][=barn.owl.sp.]" : {semito}
 | "[=shemito][NRoot][=barn.owl.sp.]" : {shemito}
 ! 
@@ -3176,7 +3178,8 @@ define NRootPRQin [
 ! 
 | "[=tyoviri+m.][NRoot][=insect.sp.; worm.sp.]" : {tyoviri}
 ! 
-| "[=tomashiki][NRoot][=psidium (guayaba, botany.nm.: psidium.guajaba)]" : {tomashiki}
+| "[=tomashiki][NRoot][=psidium (ES: guayaba; botany.nm.: psidium.guajaba)]" : {tomashiki}
+| "[=komashiki][NRoot][=psidium (ES: guayaba; botany.nm.: psidium.guajaba)]" : {komashiki}
 ! 
 | "[=tooso][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra)]" : {tooso}
 ! 
