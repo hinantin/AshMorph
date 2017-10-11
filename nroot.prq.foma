@@ -1048,9 +1048,11 @@ define NRootPRQin [
 ! 
 | "[=kasankari+n.m.][NRoot][=edible.tuber.sp. (ES: guisador)]" : {kasankari}
 ! 
+| "[=kasonki+m.][NRoot][=tuber.sp. (it.is.used.to.treat.boils/furuncles; ES: tubérculo.contra.el.chupo/furúnculo)]" : {kasonki}
+! 
 | "[=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (sci.nm.: ara.ararauna; ES: guacamayo.verde); yellow.chested.macaw]" : {kasanto} ! @CMP 
 ! 
-| "[=kashekari+m.][NRoot][=jaguar; tiger]" : {kashekari}
+| "[=kashekari+m.][NRoot][=jaguar (ES: 'jaguar'); tiger (ES: tigre)]" : {kashekari}
 ! 
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
 | "[=kashi][NRoot][=semen]" : {kashi}
