@@ -70,7 +70,7 @@ define NounToVerbPRQin [
 | "[=shiri][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {shiri} ! N@->V
 | "[=sheri][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {sheri} ! N@->V
 | "[=seri][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {seri} ! N@->V
-| "[=shirampari+m.][NRoot][=man; male]+vbz." : {shirampari} ! N@->V
+| "[=shirampari+m.][NRoot][=man; male (ES: hombre)]+vbz." : {shirampari} ! N@->V
 | "[=shitamenko+inal.][NRoot][=dais]+vbz." : {shitamenko} ! N@->V 
 | "[=shitsa][NRoot][=vine; worm.sp.]+vbz." : {shitsa} ! N@->V 
 | "[=vaNki][NRoot][=feather; wing_feather]+vbz." : {vanki} ! @CMP N@->V 
