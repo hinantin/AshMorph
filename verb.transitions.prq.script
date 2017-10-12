@@ -551,6 +551,6 @@ define S [
 
 | (V=S=ADV=SET2) (V=S=DIR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
 | (V=S=ADV=SET2) (V=S=HAB) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
-| (V=S=REP) (V=S=ADV=SET2) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
+| (V=S=REP) (V=S=ADV=SET2) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
 ];
 
