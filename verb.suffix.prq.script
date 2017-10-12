@@ -148,8 +148,8 @@ define V=S=ADV [
 ];
 
 define V=S=ADV=SET2 [
-  "[--][-paite][+ADV][=during]" : "@EP"[{paite}] 
-| "[--][-paiti][+ADV][=during]" : "@EP"[{paiti}] 
+  "[--][-paite][+ADV][=during, at.the.time.of.sth., period]" : "@EP"[{paite}] 
+| "[--][-paiti][+ADV][=during, at.the.time.of.sth., period]" : "@EP"[{paiti}] 
 ];
       
 define V=S=O [
