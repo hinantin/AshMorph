@@ -29,7 +29,7 @@ define IdeoPRQin [
 | "[=tyak+whistle.lang.][IdeoCJO][=action.of.hitting.sth./sb.]" : {tyak} 
 ! 
 | "[=tek+s.redup.word][IdeoPRQ][=running.briskly]" : {tek}
-| "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting]" : {tok}
+| "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting.(a.solid.substance)]" : {tok}
 ! 
 | "[=she+s.redup.word][IdeoPRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)]" : {she}
 | "[=she+s.redup.word][IdeoPRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)][--][-k][+PUNCTUAL.ACTN]" : {shek}
@@ -85,7 +85,7 @@ define IdeoPRQin [
 ! 
 | "[=chak][IdeoPRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash; action.of.quickly.pouring.water.into.a_receptacle]" : {chak} 
 ! 
-| "[=shei+s.redup.word][IdeoPRQ][=sawing.wood]" : {shei} 
+| "[=shei+s.redup.word][IdeoPRQ][=sawing.wood; cutting.action]" : {shei} 
 ! 
 | "[=ha+redup.word][IdeoPRQ][=laughing]" : {ha} 
 ! 
@@ -375,6 +375,8 @@ define IdeoPRQin [
 | "[=pasak][IdeoPRQ][=sound/action.of.searching/fishing.with.hands.under.the.water]" : {pasak} 
 ! 
 | "[=shira][IdeoPRQ][=sound/action.of.slipping]" : {shira} 
+! 
+| "[=tore][Ideo][=convulsive.movement]" : {tore} 
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
