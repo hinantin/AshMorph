@@ -891,10 +891,10 @@ define VRootPRQin [
 ! 
 | "[=ovik][VRoot][=to.insert; to.put.sth.inside; to.plug]" : {ovik}
 ! 
-| "[=ote][VRoot][=to.take.sth., to.catch.sth.; to.insert; to.board]" : {ote}
-| "[=oti][VRoot][=to.take.sth., to.catch.sth.; to.insert; to.board]" : {oti}
-| "[=otey][VRoot][=to.take.sth., to.catch.sth.]" : {otey}
-| "[=otiy][VRoot][=to.take.sth., to.catch.sth.]" : {otiy}
+| "[=ote][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert; to.board]" : {ote}
+| "[=oti][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert; to.board]" : {oti}
+| "[=otey][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)]" : {otey}
+| "[=otiy][VRoot][=to.take.sth., to.catch.sth.(ES: agarrar)]" : {otiy}
 | "[=te][VRoot][=to.take.sth.; to.insert; to.board]" : {te}
 | "[=tet][VRoot][=to.fill]" : {tet}
 ! 
