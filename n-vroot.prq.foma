@@ -72,7 +72,7 @@ define NounToVerbPRQin [
 | "[=seri][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {seri} ! N@->V
 | "[=shirampari+m.][NRoot][=man; male (ES: hombre)]+vbz." : {shirampari} ! N@->V
 | "[=shitamenko+inal.][NRoot][=dais]+vbz." : {shitamenko} ! N@->V 
-| "[=shitsa][NRoot][=vine; worm.sp.]+vbz." : {shitsa} ! N@->V 
+| "[=shitsa][NRoot][=vine; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]+vbz." : {shitsa} ! N@->V 
 | "[=vaNki][NRoot][=feather; wing_feather]+vbz." : {vanki} ! @CMP N@->V 
 | "[=taki+n.m.+inal.][NRoot][=shell (ES: caparazón); peel; skin]+vbz." : {taki} ! N@->V 
 | "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)]+vbz." : {tomi} ! N@->V 

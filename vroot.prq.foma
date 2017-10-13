@@ -1172,6 +1172,8 @@ define VRootPRQin [
 # shavitahi / =shavi -t -ah -i / =to.be.afternoon -ep -regr -irr 
 | "[=shavi][VRoot][=to.be.afternoon]" : {shavi}
 ! 
+| "[=shavoki][VRoot][=to.dance (ES: bailar)]" : {shavoki}
+! 
 | "[=shenka][VRoot][=to.sob (ES: sollozar)]" : {shenka}
 ! 
 | "[=shent][VRoot][=to.take.care (ES: vigilar)]" : {shent}
@@ -1207,7 +1209,7 @@ define VRootPRQin [
 ! 
 | "[=shipatona][VRoot][=beard]" : {shipatona}
 ! 
-| "[=shipeta][VRoot][=to.weaken, to.become.weak]" : {shipeta}
+| "[=shipeta][VRoot][=to.weaken, to.become.weak (ES: debilitarse)]" : {shipeta}
 ! 
 | "[=shiri][VRoot][=to.believe]" : {shiri}
 | "[=shiri][VRoot][=to.think]" : {shiri}
