@@ -1244,10 +1244,10 @@ define VRootPRQin [
 | "[=ohy][VRoot][=to.be.like, to.be.similar, to.resemble]" : {ohy} ! ojy to be revised
 | "[=osh][VRoot][=to.be.like, to.be.similar, to.resemble]" : {osh}
 ! 
-| "[=shi][VRoot][=to.escape, to.run]" : {shi}
-| "[=shiy][VRoot][=to.escape, to.run]" : {shiy}
-| "[=shiya][VRoot][=to.escape]" : {shiya}
-| "[=shia][VRoot][=to.escape]" : {shia}
+| "[=shi][VRoot][=to.escape, to.run (ES: escapar)]" : {shi}
+| "[=shiy][VRoot][=to.escape, to.run (ES: escapar)]" : {shiy}
+| "[=shiya][VRoot][=to.escape (ES: escapar)]" : {shiya}
+| "[=shia][VRoot][=to.escape (ES: escapar)]" : {shia}
 ! 
 | "[=shiyakant][VRoot][=to.think]" : {shiyakant}
 | "[=shiyakant][VRoot][=to.imagine]" : {shiyakant}
