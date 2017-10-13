@@ -186,8 +186,8 @@ define ConnRootPRQ01in [
 | "[=aisati][ConnRoot][=also]" : {aisati}
 | "[=aisati][ConnRoot][=also][--][-te][+NEG.AFF]" : {aisatite}
 | "[=aisatzi][ConnRoot][=also]" : {aisatzi}
-| "[=irosatzi][ConnRoot][=also; until]" : {irosatzi}
-| "[=irosati][ConnRoot][=until]" : {irosati}
+| "[=irosatzi][ConnRoot][=CONN (ES: also; until)]" : {irosatzi}
+| "[=irosati][ConnRoot][=CONN (ES: until)]" : {irosati}
 | "[=roohatzi][ConnRoot][=also]" : {roohatzi}
 ! 
 | "[=kantzimaitacha][ConnRoot][=nevertheless]" : {kantzimaitacha}
