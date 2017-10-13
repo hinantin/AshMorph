@@ -528,6 +528,7 @@ define VRootPRQin [
 | "[=piya][VRoot][=to.defend]" : {piya}
 | "[=piyavint][VRoot][=to.defend]" : {piyavint}
 | "[=piyakovent][VRoot][=to.defend]" : {piyakovent}
+| "[=piakovent][VRoot][=to.defend]" : {piakovent}
 | "[=ovakovent][VRoot][=to.defend]" : {ovakovent}
 # to.protect
 | "[=tikako][VRoot][=to.protect]" : {tikako}
@@ -1026,8 +1027,8 @@ define VRootPRQin [
 ! 
 # piaantsi / =pi -aantsi / =to.come.back -inf / EN: 'to.come.back'; ES: 'regresar' 
 | "[=piy][VRoot][=to.return, to.come.back]" : {piy}
-| "[=piy+redup.][VRoot][=to.return, to.come.back]" : {piyapiya}
-| "[=piy+redup.][VRoot][=to.return, to.come.back]" : {piapiya}
+| "[=piy+redup.][VRoot][=to.return, to.come.back]::[=to.keep.returning]" : {piyapiya}
+| "[=piy+redup.][VRoot][=to.return, to.come.back]::[=to.keep.returning]" : {piapiya}
 ! 
 | "[=piyaa][VRoot][=to.empty, to.pour (ES: vaciar)]" : {piyaa}
 ! 
