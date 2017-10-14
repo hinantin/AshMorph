@@ -3421,10 +3421,10 @@ define NRootPRQin [
 ! 
 | "[=tya+poss@ni.][NRoot][=fabric]" : {tya}
 ! hen 
-| "[=tyaapa+n.m.][NRoot][=hen; chicken]" : {tyaapa}
-| "[=tyapa+n.m.][NRoot][=hen; chicken]" : {tyapa}
+| "[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]" : {tyaapa}
+| "[=tyapa+n.m.+poss@te.][NRoot][=hen; chicken]" : {tyapa}
 | "[=atyaapa+n.m.+poss@ti.][NRoot][=hen]" : {atyaapa}
-| "[=teapa+n.m.][NRoot][=hen]" : {teapa}
+| "[=teapa+n.m.+poss@te.][NRoot][=hen]" : {teapa}
 ! rooster 
 | "[=tyoopi+m.][NRoot][=rooster]" : {tyoopi}
 | "[=tyopi+m.][NRoot][=rooster]" : {tyopi}
