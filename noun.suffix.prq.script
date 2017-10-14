@@ -331,8 +331,8 @@ define N=S=CL [
 ! antamiweri / antamiveri / =antami -veri / =woods -cl:agentive / ES: 'selvático'
 ! nija(a)beri / niha(a)veri / =niha(a) -veri / =river -cl:agentive / EN: 'river.master; male.water.inhabitant; water.sprite'; ES: 'dueño.del.río' 
 ! nija(a)bero / niha(a)vero / =niha(a) -vero / =river -cl:agentive / EN: 'mermaid, fish.woman; female.water.inhabitant'; ES: 'sirena, mujer.pez' 
-| "[--][-veri+m.][+CL:agentive][=agentive,inhabitant]" : {veri}
-| "[--][-vero+n.m.][+CL:agentive][=agentive,inhabitant]" : {vero}
+| "[--][-veri+m.][+CL:agentive][=agentive;inhabitant,provenance (sb.from.some.place)]" : {veri}
+| "[--][-vero+n.m.][+CL:agentive][=agentive;inhabitant,provenance (sb.from.some.place)]" : {vero}
 #-----------------------------------------------
 ! 
 | "[--][-mo][+CL:hole][=hole]" : {mo}
