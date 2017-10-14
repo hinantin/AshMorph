@@ -785,7 +785,8 @@ define NRootPRQin [
 ! 
 | "[=iroamere+m.][NRoot][=student, disciple, pupil]" : {iroamere}
 ! 
-| "[=ironyaa][NRoot][=now]" : [{ironyaa}|{ironya}]
+| "[=ironyaa][NRoot][=now]" : {ironyaa}
+| "[=ironya][NRoot][=now]" : {ironya}
 ! 
 | "[=nato+voc.][NRoot][=grandma, grandmother]" : {nato}
 | "[=isha+m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {isha}
