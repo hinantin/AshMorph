@@ -481,12 +481,12 @@ define V=S=APPLBEN [
 ];
       
 define V=S=APPLPRES [
-  "[--][-imo+company][+APPL.PRES][=with.other.person]" : "@EP"[{imo}]
+  "[--][-imo+company][+APPL.PRES][=with.other.person, presence]" : "@EP"[{imo}]
 ];
       
 define V=S=APPLSEP [
-  "[--][-pitsa][+APPL.SEP]" : "@EP"[{pitsa}]
-| "[--][-apitsa][+APPL.SEP]" : "@EP"[{apitsa}]
+  "[--][-pitsa][+APPL.SEP][=separative]" : "@EP"[{pitsa}]
+| "[--][-apitsa][+APPL.SEP][=separative]" : "@EP"[{apitsa}]
 ];
       
 # -------------------------------------
