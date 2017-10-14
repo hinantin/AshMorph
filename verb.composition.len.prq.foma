@@ -9,8 +9,8 @@ define V=S=LEN=noun [
 | "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
 | "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
 | "[--][=hani][NRoot][=little.child]" : {hani} ! @VCMP 
-| "[--][=henka][NRoot][=voice]" : {henka} ! @VCMP 
-| "[--][=enka][NRoot][=voice]" : {enka} ! @VCMP 
+| "[--][=henka][NRoot][=voice (ES: voz); odor (ES: olor)]" : {henka} ! @VCMP 
+| "[--][=enka][NRoot][=voice (ES: voz); odor (ES: olor)]" : {enka} ! @VCMP 
 | "[--][=tsempeki][NRoot][=body; outer.frame; skeleton]" : {tsempeki} ! @VCMP 
 | "[--][=tseempeki][NRoot][=body; outer.frame; skeleton]" : {tseempeki} ! @VCMP 
 | "[--][=kameetsa][NRoot][=well]" : {kameetsa} ! @VCMP 
