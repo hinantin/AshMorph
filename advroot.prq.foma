@@ -18,6 +18,7 @@ define AdvRootPRQin [
 ! 
 # intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
 | "[=intsomoe][AdvRoot][=inside (ES: adentro)]" : {intsomoe} 
+| "[=intsomoeki][AdvRoot][=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
 ! 
 | "[=imponya][AdvRoot][=afterwards]" : {imponya}
 | "[=imponyashitakya][AdvRoot][=afterwards]" : {imponyashitakya}
