@@ -3426,10 +3426,12 @@ define NRootPRQin [
 | "[=atyaapa+n.m.+poss@ti.][NRoot][=hen]" : {atyaapa}
 | "[=teapa+n.m.+poss@te.][NRoot][=hen]" : {teapa}
 ! rooster 
-| "[=tyoopi+m.+poss@te.][NRoot][=rooster]" : {tyoopi}
-| "[=tyopi+m.+poss@te.][NRoot][=rooster]" : {tyopi}
-| "[=tyoopya+m.+poss@te.][NRoot][=rooster]" : {tyoopya}
-| "[=tyoopyaa+m.+poss@te.][NRoot][=rooster]" : {tyoopyaa}
+| "[=tyoopi+m.][NRoot][=rooster]" : {tyoopi}
+| "[=tyopi+m.][NRoot][=rooster]" : {tyopi}
+| "[=tyoopya+m.][NRoot][=rooster]" : {tyoopya}
+| "[=tyoopyaa+m.][NRoot][=rooster]" : {tyoopyaa}
+! chick
+| "[=tyoopiki][NRoot][=chick (ES: pollito)]" : {tyopiki}
 ! 
 | "[=tiapo][NRoot][=waterfall.name]" : {tiapo}
 | "[=tyapo][NRoot][=waterfall.name]" : {tyapo}
