@@ -435,8 +435,8 @@ define V=S=DIMDEGR [
 # -----------------------------------------------------
       
 define V=S=APPLINT [
-  "[--][-ashi][+APPL.INT]" : "@EP"[{ashi}]
-| "[--][-shi][+APPL.INT]" : "@EP"[{shi}]
+  "[--][-ashi][+APPL.INT][=purpose]" : "@EP"[{ashi}]
+| "[--][-shi][+APPL.INT][=purpose]" : "@EP"[{shi}]
 ];
       
 define V=S=LOC [
