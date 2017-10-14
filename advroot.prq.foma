@@ -16,6 +16,9 @@ define AdvRootPRQin [
 | "[=inkaaranki][AdvRoot][=recently (ES: hace.un.momento/rato)]" : {inkaaranki}
 | "[=inkaranki][AdvRoot][=some.time.ago; a.short.while.ago]" : {inkaranki}
 ! 
+# intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
+| "[=intsomoe][AdvRoot][=inside (ES: adentro)]" : {intsomoe} 
+! 
 | "[=imponya][AdvRoot][=afterwards]" : {imponya}
 | "[=imponyashitakya][AdvRoot][=afterwards]" : {imponyashitakya}
 | "[=iponya][AdvRoot][=afterwards]" : {iponya}
