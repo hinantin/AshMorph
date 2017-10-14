@@ -1797,7 +1797,8 @@ define NRootPRQin [
 ! 
 | "[=nana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {nana}
 | "[=naana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {naana}
-| "[=nanaeni+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {nanaeni} ! eni ??? 
+! 
+| "[=nanaeni+n.m.+voc.+poss@te.][NRoot][=aunt (kin.of.a.female)]" : {nanaeni} ! eni ??? 
 ! 
 | "[=nantatziri][NRoot][=goblin-like.creature, master-owner.of.animals (it.lives.in.rocky areas)]" : {nantatziri}
 ! 
@@ -2152,6 +2153,7 @@ define NRootPRQin [
 | "[=payantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payantzi}
 | "[=parianti+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parianti}
 | "[=paryantsi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantsi}
+| "[=paryaantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryaantzi}
 | "[=paryantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
 | "[=pareantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
 ! 
