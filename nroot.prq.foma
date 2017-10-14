@@ -68,6 +68,7 @@ define NRootPRQin [
 ! 
 | "[=aavo][NRoot][=heron.sp. (sci.nm.: Egretta.thula)]" : {aavo} 
 ! 
+# atyo / ES: 'cuñada.(habla.de.mujer)' 
 | "[=atyo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyo} 
 | "[=atyoeni+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyoeni} 
 | "[=atyoini+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyoini} 
@@ -1796,6 +1797,7 @@ define NRootPRQin [
 ! 
 | "[=nana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {nana}
 | "[=naana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {naana}
+| "[=nanaeni+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male)]" : {nanaeni} ! eni ??? 
 ! 
 | "[=nantatziri][NRoot][=goblin-like.creature, master-owner.of.animals (it.lives.in.rocky areas)]" : {nantatziri}
 ! 
