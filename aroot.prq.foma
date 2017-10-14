@@ -62,10 +62,11 @@ define ARootPRQin [
 | "[=pisaro+n.m.][AdjRoot][=old]" : {pisaro} ! N@->V
 | "[=pisharo+n.m.][AdjRoot][=old]" : {pisharo} ! N@->V
 ! 
-| "[=pochari][AdjRoot][=sweet]" : {pochari}
-| "[=pochakiri][AdjRoot][=sweet]" : {pochakiri}
-| "[=pochaki][AdjRoot][=sweet]" : {pochaki}
-| "[=pochaaniki+poss@ti.][NRoot][=sweet]" : {pochaaniki}
+| "[=pochari][AdjRoot][=sweet (ES: dulce)]" : {pochari}
+| "[=pochakiri][AdjRoot][=sweet (ES: dulce)]" : {pochakiri}
+| "[=pochaki][AdjRoot][=sweet (ES: dulce)]" : {pochaki}
+| "[=pochaaniki+poss@ti.][NRoot][=sweet (ES: dulce)]" : {pochaaniki}
+| "[=pochapaneri][AdjRoot][=sweet (ES: dulce)]" : {pochapaneri}
 ! 
 | "[=tsiteeni][AdjRoot][=dark (ES. oscuro)]" : {tsiteeni}
 ! 
