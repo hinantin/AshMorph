@@ -492,8 +492,8 @@ define NRootPRQin [
 | "[=sankare+n.m.+inal.][NRoot][=smell]" : {sankare}
 | "[=sankari+n.m.+inal.][NRoot][=smell]" : {sankari}
 ! 
-| "[=henka][NRoot][=voice]" : {henka} ! @VCMP 
-| "[=enka][NRoot][=voice]" : {enka} ! @VCMP 
+| "[=henka][NRoot][=voice; odor (ES: olor)]" : {henka} ! @VCMP 
+| "[=enka][NRoot][=voice; odor (ES: olor)]" : {enka} ! @VCMP 
 ! 
 | "[=henoki][NRoot][=top (ES: arriba, alto); sky]" : {henoki}
 | "[=henokê][NRoot][=top (ES: arriba, alto)]" : {henokê}
