@@ -255,6 +255,7 @@ define N=S=CL [
 ! kishiihatzi / =kishii -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
 ! kishihatzi / =kishi -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
 ! kishiisatzi / =kishii -satzi / =grassland -cl:provenance / EN: 'Pajonal Campa', ES: 'Pajonalino'  
+! nijasati / nihasati / =niha -sati / =river -cl:provenance / EN: 'riverside'; ES: 'ribereño'
 | "[--][-sati+m.][NS][+CL:provenance][=human.provenance]" : {sati} 
 | "[--][-satzi+m.][NS][+CL:provenance][=human.provenance]" : {satzi} 
 | "[--][-hatzi+m.][NS][+CL:provenance][=human.provenance]" : {hatzi} 
