@@ -1789,7 +1789,7 @@ define NRootPRQin [
 | "[=motia][NRoot][=stomach, belly]" : {motia}
 # omoti Shakinyi / o- =moti =Shakinyi / 3n.m.poss- =stomach =proper.name / 'Shakinyi's stomach' 
 # imoti eentsi / i- =moti =eentsi / 3m.poss- =stomach =child / 'a male.child's stomach' 
-| "[=moti][NRoot][=stomach, belly]" : {moti} ! N@->V 
+| "[=moti+inal.][NRoot][=stomach, belly]" : {moti} ! N@->V 
 | "[=motiha][NRoot][=stomach, belly]" : {motiha}
 ! 
 | "[=motinti+m.][NRoot][=paunchy]" : {motinti} ! motinti / =moti -nti / =stomach -adj.n.m.
