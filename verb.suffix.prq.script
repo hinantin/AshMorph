@@ -110,6 +110,7 @@ define V=S=AUG [
 | "[--][-pira][+AUG]" : "@EP"[{pira}]
 ];
       
+!*) Nojate nomanaveete / Nohate nomanaveete / no- =ha -t -e  no- =mana -vee -t -e / 1sg.s- =to.go -ep -irr  1sg.s- =to.shoot -dur -ep -irr / EN: "I'm.going.to.hunt"; ES: 'yo.voy.a.cazar'  
 define V=S=DUR [
   "[--][-vai][+DUR]" : "@EP"[{vai}] 
 | "[--][-vae][+DUR]" : "@EP"[{vae}] 
