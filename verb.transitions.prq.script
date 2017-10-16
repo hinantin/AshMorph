@@ -59,7 +59,8 @@ define S [
 |                                          (V=S=CL)  (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] 
 ! 
 | V=S=noun                                           (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] 
-| V=S=noun                                           (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] | 
+| V=S=noun                                           (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] 
+|                                          (V=S=CL)  (V=S=DIR) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] (V=S=NEG) | 
 # -----------------------------------------------------------------------------
 # V=S=noun (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
 # (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
