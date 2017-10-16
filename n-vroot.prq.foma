@@ -86,6 +86,7 @@ define NounToVerbPRQin [
 | "[=tsitene][NRoot][=night (ES: noche)]+vbz." : {tsitene} ! N@->V 
 | "[=tsomi+inal.][NRoot][=breast, bosom]+vbz." : {tsomi} ! N@->V
 | "[=tsome+inal.][NRoot][=breast, bosom]+vbz." : {tsome} ! N@->V
+| "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]+vbz." : {tsomonte} ! N@->V 
 | "[=viti+n.m.+inal.][NRoot][=hair; feather]+vbz." : {viti} ! N@->V
 | "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]+vbz." : {vitzi} ! N@->V
 | "[=ayompari][NRoot][=trading.partner]+vbz." : {ayompari} ! N@->V 

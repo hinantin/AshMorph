@@ -3383,11 +3383,11 @@ define NRootPRQin [
 | "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
 | "[=inaro][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {inaro}
 ! 
-| "[=tsomi+inal.][NRoot][=breast, bosom]" : {tsomi} ! N@->V
-| "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V
+| "[=tsomi+inal.][NRoot][=breast, bosom]" : {tsomi} ! N@->V : EN: 'to.breastfeed'; ES: 'mamar'
+| "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V : EN: 'to.breastfeed'; ES: 'mamar'
 ! 
-| "[=tsomonte][NRoot][=belly]" : {tsomonte}
-| "[=tsomonte][NRoot][=bulge]" : {tsomonte}
+| "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]" : {tsomonte} ! N@->V 
+| "[=tsomonte][NRoot][=bulge (ES: abdomen, barriga)]" : {tsomonte} 
 ! 
 | "[=tsonkiri+poss@ti.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]" : {tsonkiri}
 | "[=chonkiri+m.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (ES: especie.de.picaflor, sci.nm.: doryfera.johannae)]" : {chonkiri}
