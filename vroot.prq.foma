@@ -665,11 +665,12 @@ define VRootPRQin [
 | "[=maisant][VRoot][=to.forget]" : {maisant} 
 ! 
 | "[=mako][VRoot][=to.tire; to.rest; to.get.tired (ES: cansarse)]" : {mako}  
-| "[=maore][VRoot][=to.tire; to.rest]" : {maore} 
-| "[=makore][VRoot][=to.tire; to.rest]" : {makore} 
-| "[=makory][VRoot][=to.tire; to.rest]" : {makory} 
-| "[=makori][VRoot][=to.tire; to.rest]" : {makori} 
 | "[=mao][VRoot][=to.get.tired (ES: cansarse)]" : {mao} 
+! 
+| "[=maore][VRoot][=to.tire; to.rest (ES: descansar)]" : {maore} 
+| "[=makore][VRoot][=to.tire; to.rest (ES: descansar)]" : {makore} 
+| "[=makory][VRoot][=to.tire; to.rest (ES: descansar)]" : {makory} 
+| "[=makori][VRoot][=to.tire; to.rest (ES: descansar)]" : {makori} 
 ! 
 | "[=mamp][VRoot][=to.sing (ES: cantar)]" : {mamp}
 ! 
