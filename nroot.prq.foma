@@ -1790,7 +1790,8 @@ define NRootPRQin [
 # omoti Shakinyi / o- =moti =Shakinyi / 3n.m.poss- =stomach =proper.name / 'Shakinyi's stomach' 
 # imoti eentsi / i- =moti =eentsi / 3m.poss- =stomach =child / 'a male.child's stomach' 
 | "[=moti+inal.][NRoot][=stomach, belly]" : {moti} ! N@->V 
-| "[=motiha][NRoot][=stomach, belly]" : {motiha}
+# nomotija / nomotiha / no- =motiha / 1sg.poss- =stomach / EN: 'my.stomach'; ES: 'mi.estómago' 
+| "[=motiha][NRoot][=stomach, belly (ES: estómago, abdomen)]" : {motiha}
 ! 
 | "[=motinti+m.][NRoot][=paunchy]" : {motinti} ! motinti / =moti -nti / =stomach -adj.n.m.
 | "[=motinto+n.m.][NRoot][=pregnant]" : {motinto} ! motinto / =moti -nto / =stomach -adj.m.
