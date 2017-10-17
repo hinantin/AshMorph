@@ -73,7 +73,7 @@ define NounToVerbPRQin [
 | "[=shirampari+m.][NRoot][=man; male (ES: hombre)]+vbz." : {shirampari} ! N@->V
 | "[=shitamenko+inal.][NRoot][=dais]+vbz." : {shitamenko} ! N@->V 
 | "[=shitsa][NRoot][=vine; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]+vbz." : {shitsa} ! N@->V 
-| "[=vaNki][NRoot][=feather; wing_feather]+vbz." : {vanki} ! @CMP N@->V 
+| "[=vaNki][NRoot][=feather (ES: pluma); wing_feather]+vbz." : {vanki} ! @CMP N@->V 
 | "[=taki+n.m.+inal.][NRoot][=shell (ES: caparazón); peel; skin]+vbz." : {taki} ! N@->V 
 | "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)]+vbz." : {tomi} ! N@->V 
 | "[=tsantsa][NRoot][=long (in.length); big]+vbz." : {tsantsa} ! N@->V @CMP
@@ -87,8 +87,8 @@ define NounToVerbPRQin [
 | "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]+vbz." : {tsomi} ! N@->V : EN: 'to.breastfeed'; ES: 'mamar'
 | "[=tsome+inal.][NRoot][=breast, bosom]+vbz." : {tsome} ! N@->V : EN: 'to.breastfeed'; ES: 'mamar'
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]+vbz." : {tsomonte} ! N@->V 
-| "[=viti+n.m.+inal.][NRoot][=hair; feather]+vbz." : {viti} ! N@->V
-| "[=vitzi+n.m.+inal.][NRoot][=hair; feather; skin]+vbz." : {vitzi} ! N@->V
+| "[=viti+n.m.+inal.][NRoot][=hair; feather (ES: pluma)]+vbz." : {viti} ! N@->V
+| "[=vitzi+n.m.+inal.][NRoot][=hair; feather (ES: pluma); skin]+vbz." : {vitzi} ! N@->V
 | "[=ayompari][NRoot][=trading.partner]+vbz." : {ayompari} ! N@->V 
 | "[=compadre][NRootEs][=godparent; spiritual.father]+vbz." : {compadre} ! N@->V 
 | "[=santo][NRoot][=saint; sacred (ES: sagrado); good.spirit (ES: buen.espíritu)]+vbz." : {santo} ! N@->V 

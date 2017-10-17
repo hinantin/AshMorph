@@ -551,8 +551,8 @@ define V=S=smallpart [
 ];
       
 define V=S=DEGR [
-  "[--][-piro][+DEGR][=indeed]" : "@EP"[{piro}]
-| "[--][-pero][+DEGR][=indeed]" : "@EP"[{pero}]
+  "[--][-piro][+DEGR][=indeed, verity]" : "@EP"[{piro}]
+| "[--][-pero][+DEGR][=indeed, verity]" : "@EP"[{pero}]
 ];
       
 define V=S=small [
