@@ -77,7 +77,7 @@ define NRootESin [
 ! 
 | "[=número+poss@te.][NRootEs][=number]" : {nomero}
 ! 
-| "[=olla+NCFS000][NRootEs][=pot]" : {oya}
+| "[=olla+NCFS000+poss@te.][NRootEs][=pot]" : {oya}
 ! 
 | "[=uva+NCFS000][NRootEs][=grape]" : {ova}
 ! 
