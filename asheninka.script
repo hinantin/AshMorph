@@ -33,8 +33,8 @@
       define AEpenthesisRule6 [ "@EP" (->) {a}"@EP" || k _ n ]; # notyoonkantsi
       define AEpenthesisRule7 [ "@EP" (->) {a}"@EP" || k _ v ]; # pokabaetantsi
       define AEpenthesisRule8 [ "@EP" (->) {a}"@EP" || p _ v ]; # Pabaetantsi
-      define AEpenthesisRule9 [ "@EP" (->) {a}"@EP" || v _ [v|h] ]; # Ob-a-bae-t-antsi, i=tiyerov-a-hei-t-ati-ya 
-      define AEpenthesisRule10 [ "@EP" (->) {a}"@EP" || r _ v ]; # irabaetantsi
+      define AEpenthesisRule9 [ "@EP" (->) {a}"@EP" || v _ [v|h] ]; # Ob-a-bae-t-antsi, i-=tiyerov-a-hei-t-ati-ya 
+      define AEpenthesisRule10 [ "@EP" (->) {a}"@EP" || r _ [v|p] ]; # irabaetantsi, n-=ir-a-piro-t-i-ro 
       define AEpenthesisRule11 [ "@EP" (->) {a}"@EP" || m _ [v|n] ]; # timabaetantsi, quem-a-nen-t-aantsi
       define AEpenthesisRule12 [ "@EP" (->) {a}"@EP" || k _ [h|y|r|p|t|a] ]; # i-vitsik-a-jee-tz-i-ri, betsik-a-ye-t-atsi-ri, o-tsimank-a-re, no-shitik-a-pero-t-ati-i-ro, ajirik-a-tsomi-t-ak-i-mpi-ri? , n=aabak-a-ati-ye-mpa  
       define AEpenthesisRule13 [ "@EP" (->) {a}"@EP" || p _ [a|y] ]; # i-kant-ap-a-ak-e, i-tsop-a-ye-t-ak-e 
