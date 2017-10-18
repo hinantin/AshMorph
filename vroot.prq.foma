@@ -197,12 +197,12 @@ define VRootPRQin [
 ! 
 | "[=ashiriako][VRoot][=to.undo (ES: desabrochar)]" : {ashiriako}
 ! 
-| "[=atai][VRoot][=to.go.up; to.climb (ES: trepar)][--][N=][IRR+]" : {antai} ! nantaitatiye / n=n-atai-t-ati-ye EN: 'I will climb', ES: 'voy a trepar'; nantaiti / n=atai-n-t-i ES: 'estoy trepando'
-| "[=atae][VRoot][=to.go.up; to.climb (ES: trepar)][--][N=][IRR+]" : {antae}
-| "[=atae][VRoot][=to.go.up, to.climb (ES: trepar)]" : {atae}
-| "[=atai][VRoot][=to.go.up, to.climb (ES: trepar)]" : {atai}
+| "[=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][N=][IRR+]" : {antai} ! nantaitatiye / n=n-atai-t-ati-ye EN: 'I will climb', ES: 'voy a trepar'; nantaiti / n=atai-n-t-i ES: 'estoy trepando'
+| "[=atae][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][N=][IRR+]" : {antae}
+| "[=atae][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atae}
+| "[=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atai}
 # patiititya / p- =atii -t -i -tya / 2s- =to.climb.up -ep -real -emph  
-| "[=atii][VRoot][=to.go.up, to.climb (ES: trepar)]" : {atii} 
+| "[=atii][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atii} 
 ! 
 | "[=atohe][VRoot][=to.cough (ES: toser)]" : {atohe}
 | "[=tohe][VRoot][=to.cough (ES: toser)]" : {tohe}
