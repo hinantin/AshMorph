@@ -3500,11 +3500,11 @@ define NRootPRQin [
 | "[=vaanyo][NRoot][=scarf]" : {vaanyo}
 ! name
 ! bajirontsi ashaninka / vahirontsi ashaninka /  
-| "[=vairo+n.m.+inal.][NRoot][=name]" : {vairo}
-| "[=vaero+n.m.+inal.][NRoot][=name]" : {vaero}
-| "[=vahiro+n.m.+inal.][NRoot][=name]" : {vahiro}
-| "[=pahiro+n.m.+inal.][NRoot][=name]" : {pahiro}
-| "[=pairo+n.m.+inal.][NRoot][=name]" : {pairo}
+| "[=vairo+n.m.+inal.][NRoot][=name (ES: nombre)]" : {vairo}
+| "[=vaero+n.m.+inal.][NRoot][=name (ES: nombre)]" : {vaero}
+| "[=vahiro+n.m.+inal.][NRoot][=name (ES: nombre)]" : {vahiro}
+| "[=pahiro+n.m.+inal.][NRoot][=name (ES: nombre)]" : {pahiro}
+| "[=pairo+n.m.+inal.][NRoot][=name (ES: nombre)]" : {pairo}
 ! 
 | "[=vaaki+n.m.+inal.][NRoot][=sap; plant.juice]" : {vaaki}
 ! 
