@@ -126,9 +126,9 @@ define ORootPRQin [
 | "[=tekatsi][OtherRoot][=EXIST]" : {tekatsi}
 | "[=teekatsi][OtherRoot][=EXIST]" : {teekatsi}
 ! 
-| "[=tema][OtherRoot][=because; maybe (ES: como, ya.que, puesto.que)]" : {tema}
-| "[=tempa][OtherRoot][=because; maybe (ES: como, ya.que, puesto.que)]" : {tempa}
-| "[=tima][OtherRoot][=because; maybe (ES: como, ya.que, puesto.que)]" : {tima}
+| "[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tema}
+| "[=tempa][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tempa}
+| "[=tima][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tima}
 ! 
 # terika pashini mantsiyarentsipaye / =terika =pashini =mantsiya -re -ntsi -paye / =or =other =to.be.sick -nmz -nposs -pl / EN: 'or.other.diseases'; ES: 'u.otras.enfermedades'  
 
