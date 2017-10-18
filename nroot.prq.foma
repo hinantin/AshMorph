@@ -298,9 +298,9 @@ define NRootPRQin [
 ! 
 # ochevaa / o- =chevaa / EN: 'river's.branch, distributary' 
 # ocheva / o- =cheva / ES: 'isla; distributario, defluente' 
-| "[=cheva][NRoot][=(river's).branch (ES: isla?)]" : {cheva}
-| "[=chevaa][NRoot][=(river's).branch (ES: isla?)]" : {chevaa}
-| "[=chiva][NRoot][=(river's).branch (ES: isla?)]" : {chiva}
+| "[=cheva][NRoot][=(river's).branch, distributary (ES: defluente)]" : {cheva}
+| "[=chevaa][NRoot][=(river's).branch, distributary (ES: defluente)]" : {chevaa}
+| "[=chiva][NRoot][=(river's).branch, distributary (ES: defluente)]" : {chiva}
 ! 
 | "[=chevo+inal.][NRoot][=branch]" : {chevo}
 ! 
