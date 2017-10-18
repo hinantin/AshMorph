@@ -3540,9 +3540,9 @@ define NRootPRQin [
 | "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
 ! 
 # ibiiti / iviiti / i- =viiti / 3m.poss- =hair / EN: 'his.hair', ES: 'su.pelo' 
-| "[=viti+n.m.+inal.][NRoot][=hair; feather (ES: pluma)]" : {viti} ! N@->V
-| "[=viiti+n.m.+inal.][NRoot][=hair; feather (ES: pluma)]" : {viiti} 
-| "[=vitzi+n.m.+inal.][NRoot][=hair; feather (ES: pluma); skin]" : {vitzi} ! N@->V
+| "[=viti+n.m.+inal.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]" : {viti} ! N@->V
+| "[=viiti+n.m.+inal.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]" : {viiti} 
+| "[=vitzi+n.m.+inal.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma); skin]" : {vitzi} ! N@->V
 ! 
 | "[=voempo][NRoot][=collared.plover (sci.nm.: charadrius.collaris)]" : {voempo}
 ! 
