@@ -38,7 +38,7 @@
       define AEpenthesisRule11 [ "@EP" (->) {a}"@EP" || m _ [v|n] ]; # timabaetantsi, quem-a-nen-t-aantsi
       define AEpenthesisRule12 [ "@EP" (->) {a}"@EP" || k _ [h|y|r|p|t|a] ]; # i-vitsik-a-jee-tz-i-ri, betsik-a-ye-t-atsi-ri, o-tsimank-a-re, no-shitik-a-pero-t-ati-i-ro, ajirik-a-tsomi-t-ak-i-mpi-ri? , n=aabak-a-ati-ye-mpa  
       define AEpenthesisRule13 [ "@EP" (->) {a}"@EP" || p _ [a|y] ]; # i-kant-ap-a-ak-e, i-tsop-a-ye-t-ak-e 
-      define AEpenthesisRule14 [ "@EP" (->) {a}"@EP" || t _ [h|m|p|k] ]; # y-ant-a-jeí-t-ak-e, kant-a-mironta-ki-t-acha-ri, o-kant-a-pankaina-aty-a, o-kant-a-kintsi-t-ap-ak-a 
+      define AEpenthesisRule14 [ "@EP" (->) {a}"@EP" || t _ [h|m|p|k|y] ]; # y-ant-a-jeí-t-ak-e, kant-a-mironta-ki-t-acha-ri, o-kant-a-pankaina-aty-a, o-kant-a-kintsi-t-ap-ak-a, o-=mat-a-yi-tz-i-ri-ni 
       define AEpenthesisRule15 [ "@EP" (->) {a}"@EP" || m _ [h|a|e|y] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e, am-a-enka-ri, p-am-a-ye-t-ak-e-ro 
       define AEpenthesisRule16 [ "@EP" (->) {a}"@EP" || y _ [a|y|v|m] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri, i-piy-a-macheve-t-an-ah-a 
       define AEpenthesisRule17 [ "@EP" (->) {a}"@EP" || n _ [v|a|t] ]; # i-kin-a-bae-t-i,  I-kemisan-t-a-jei-t-i-ri
