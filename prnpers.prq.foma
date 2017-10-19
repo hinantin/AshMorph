@@ -8,8 +8,8 @@ define PrnPersPRQin [
 ! +cntr.cnt.assert.top. (-inti: contrastive counter-assertive topic)
 ! SET 5: +rflx.intsf. (-sati: reflexing intensifying)
 # -------------------------------------------------------------------
-  "[=naaka+cont.d.top.][PrnPers][+1SG][=I]" : {naaka}
-| "[=naka+cont.d.top.][PrnPers][+1SG][=I]" : {naka}
+  "[=naaka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naaka}
+| "[=naka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naka}
 # naro: it is only used in greetings 
 | "[=naro+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naro}
 ! 
