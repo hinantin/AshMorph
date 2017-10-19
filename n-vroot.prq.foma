@@ -64,7 +64,7 @@ define NounToVerbPRQin [
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pirontzi} ! N@->V
 | "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pironi} ! N@->V
 | "[=piroti+m.][NRoot][=firefly; quasi-lightning.bug]+vbz." : {piroti} ! N@->V
-| "[=tsipamintsare][NRoot][=friend]+vbz." : {tsipamintsare} ! N@->V
+| "[=tsipamintsare][NRoot][=friend (ES: amigo)]+vbz." : {tsipamintsare} ! N@->V
 | "[=pitziki][NRoot][=male.genitals]+vbz." : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]+vbz." : {pitzik} ! N@->V
 | "[=santi+inal.][NRoot][=fart (ES: pedo)]+vbz." : {santi} ! N@->V
