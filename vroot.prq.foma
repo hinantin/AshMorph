@@ -462,10 +462,10 @@ define VRootPRQin [
 | "[=iripero][VRoot][=to.be.factual, to.be.truth]" : {iripero}
 | "[=iriipero][VRoot][=to.be.factual, to.be.truth]" : {iriipero}
 ! 
-| "[=keme][VRoot][=to.to.scrape, to.carve]" : {keme}
-| "[=kime][VRoot][=to.to.scrape, to.carve]" : {kime}
-| "[=kemi][VRoot][=to.to.scrape, to.carve]" : {kemi}
-| "[=kimi][VRoot][=to.to.scrape, to.carve]" : {kimi}
+| "[=keme][VRoot][=to.scrape, to.carve]" : {keme}
+| "[=kime][VRoot][=to.scrape, to.carve]" : {kime}
+| "[=kemi][VRoot][=to.scrape, to.carve]" : {kemi}
+| "[=kimi][VRoot][=to.scrape, to.carve]" : {kimi}
 ! 
 ! ikeanaji / ikeanahi / i- =ke -an -ah -i / 3m.s- =to.enter -dir -regr -real / ES: 'entrar, ingresar' 
 | "[=ky][VRoot][=to.enter (ES: ingresar)]" : {ky}
