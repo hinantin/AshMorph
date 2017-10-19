@@ -2255,7 +2255,8 @@ define NRootPRQin [
 | "[=paato+n.m.][NRoot][=tree.sp. (ES: topa)]" : {paato}
 ! 
 | "[=pashikaro+n.m.+inal.][NRoot][=thick.woollen_blanket (ES: frazada)]" : {pashikaro}
-| "[=pashikaro][NRoot][=blanket]" : {pashikaro}
+| "[=pashikaro+n.m.+inal.][NRoot][=blanket (ES: colcha, cobija)]" : {pashikaro}
+| "[=pashikavo+n.m.+inal.][NRoot][=blanket (ES: colcha, cobija)]" : {pashikavo}
 ! 
 | "[=payari+m.][NRoot][=fish.sp.]" : {payari}
 ! 
