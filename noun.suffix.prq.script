@@ -265,6 +265,7 @@ define N=S=CL [
 ! tsinanepaye saikayitatsiri antamisatoki / =tsinane -paye =saik -a -yi -t -atsi -ri =antami -sato+n.m. -ki / 
 ! =woman -pl =to.be -ep -dist -ep -stat -rel =forest -cl:deriving.location.names -loc / EN: 'female.inhabitant.from.the.forest'  
 ! ora ashitari nijasato / ora ashitari nihasato / =ora =ashi -t -a -ri =niha -sato / =that =to.have -ep -real -rel =water -cl:deriving.location.names / ES: 'del.recurso.hídrico'; EN: 'of.the.water.resource'
+! paashinijatopaeni / paashinihatopaeni / =paashini -hato -paeni / =other -cl:provenance -pl / EN: 'from.different.things'; ES: 'de.diferentes' 
 | "[--][-ato+n.m.][NS][+CL:human.provenance][=deriving.location.names]" : {ato} 
 | "[--][-sato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {sato} 
 | "[--][-hato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {hato} 
