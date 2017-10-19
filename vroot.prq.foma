@@ -1433,12 +1433,12 @@ define VRootPRQin [
 !  
 | "[=tsatsink][VRoot][=to.behead]" : {tsatsink}
 ! to lie
-| "[=tsay][VRoot][=to.lie]" : {tsay}
-| "[=tsaiy][VRoot][=to.lie]" : {tsaiy}
-| "[=tsaey][VRoot][=to.lie]" : {tsaey}
-| "[=tsey][VRoot][=to.lie]" : {tsey}
-| "[=tseey][VRoot][=to.lie]" : {tseey}
-| "[=tsiiy][VRoot][=to.lie]" : {tsiiy}
+| "[=tsay][VRoot][=to.lie (ES: mentir)]" : {tsay}
+| "[=tsaiy][VRoot][=to.lie (ES: mentir)]" : {tsaiy}
+| "[=tsaey][VRoot][=to.lie (ES: mentir)]" : {tsaey}
+| "[=tsey][VRoot][=to.lie (ES: mentir)]" : {tsey}
+| "[=tseey][VRoot][=to.lie (ES: mentir)]" : {tseey}
+| "[=tsiiy][VRoot][=to.lie (ES: mentir)]" : {tsiiy}
 | "[=cheey][VRoot][=to.lie (ES: mentir)]" : {cheey}
 ! 
 | "[=tsavia][VRoot][=to.control, to.rule]" : {tsavia}
