@@ -7,8 +7,8 @@ define NounToVerbPRQin [
 | "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]+vbz." : {aane} ! N@->V @VCMP 
 | "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]+vbz." : {aapi} ! N@->V 
 | "[=aarontsi][NRoot][=summer (ES: verano)]+vbz." : {aarontsi} ! N@->V
-| "[=amaani+n.m.][NRoot][=increase (ES: creciente)]+vbz." : {amaani} ! N@->V 
-| "[=amani+n.m.][NRoot][=increase (ES: creciente)]+vbz." : {amani} ! N@->V 
+| "[=amaani+n.m.][NRoot][=increase (ES: creciente)]+vbz." : {amaani} ! N@->V  ES: 'crecer'
+| "[=amani+n.m.][NRoot][=increase (ES: creciente)]+vbz." : {amani} ! N@->V  ES: 'crecer'
 | "[=antami][NRoot][=woods, forest; dense.tropical.forest]+vbz." : {antami} ! N@->V
 | "[=ãtame][NRoot][=woods, forest; dense.tropical.forest]+vbz." : {ãtame} ! N@->V
 | "[=atziri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atziri} ! N@->V @VCMP
