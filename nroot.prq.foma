@@ -2883,7 +2883,7 @@ define NRootPRQin [
 ! 
 | "[=shimampiki][NRoot][=granadilla.sp. (ES: granadilla; sci.nm.: passiflora.sp.)]" : {shimampiki}
 ! 
-| "[=shimashiri+n.m.][NRoot][=flowering.tree.sp. (ES: Pino.chuncho; sci.nm.: schizolobium.amazoni.cum)]" : {shimashiri}
+| "[=shimashiri+n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum)]" : {shimashiri}
 ! 
 | "[=shimiri+inal.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
 | "[=shimirinchi][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimirinchi} ! misspelled?
@@ -3576,9 +3576,9 @@ define NRootPRQin [
 | "[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male)]" : {yeye}
 | "[=yiiyi+m.+poss@ti.][NRoot][=brother, cousin (kin.of.a.male)]" : {yiiyi}
 ! 
-| "[=yenka+n.m.+inal.][NRoot][=fat]" : {yenka}
-| "[=yeenka+n.m.+inal.][NRoot][=fat, lard, grease]" : {yeenka}
-| "[=yiinka+n.m.+inal.][NRoot][=fat, lard, grease]" : {yiinka}
+| "[=yenka+n.m.+inal.][NRoot][=fat (ES: manteca, grasa, cebo)]" : {yenka}
+| "[=yeenka+n.m.+inal.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {yeenka}
+| "[=yiinka+n.m.+inal.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {yiinka}
 ! 
 | "[=yentziri+n.m.][NRoot][=male.garlic (ES: ajo.macho)]" : {yentziri}
 ! 
