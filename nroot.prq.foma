@@ -99,8 +99,8 @@ define NRootPRQin [
 | "[=akoperori+inal.][NRoot][=right.hand; right.side]" : {akoperori}
 | "[=akopirori+inal.][NRoot][=right.hand; right.side]" : {akopirori}
 ! 
-| "[=amaani+n.m.][NRoot][=increase (ES: creciente)]" : {amaani} ! N@->V 
-| "[=amani+n.m.][NRoot][=increase (ES: creciente)]" : {amani} ! N@->V 
+| "[=amaani+n.m.][NRoot][=increase (ES: creciente)]" : {amaani} ! N@->V  ES: 'crecer'
+| "[=amani+n.m.][NRoot][=increase (ES: creciente)]" : {amani} ! N@->V  ES: 'crecer'
 ! anaconda
 | "[=amaaro][NRoot][=anaconda, snake]" : {amaaro}
 ! 
