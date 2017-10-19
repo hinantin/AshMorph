@@ -49,7 +49,9 @@ define PrnPersPRQin [
 ! 
 | "[=hirova][PrnPers][+3SG][=it (animal.or.object)]" : {hirova}
 ! 
-| "[=aaka][PrnPers][+1PL][=we]" : {aaka} 
+| "[=aaka][PrnPers][+1PL][=we]" : {aaka}  
+| "[=aka][PrnPers][+1PL][=we][--][-paeni][Num][+PL]" : {akapaeni}  ! aka shortened form of naka ???  
+| "[=naka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)][--][-paeni][Num][+PL]" : {nakapaeni}  
 | "[=aro][PrnPers][+1PL.INCL.][=we]" : {aro} 
 ! 
 | "[=aroka+cont.d.top.][PrnPers][+1PL.INCL.]" : {aroka}
