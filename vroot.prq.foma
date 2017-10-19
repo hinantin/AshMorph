@@ -276,10 +276,10 @@ define VRootPRQin [
 | "[=eni][VRoot][=to.have]" : {eni}
 ! 
 # --------------------------------------------
-| "[=ha][VRoot][=to.go]" : {ha} 
+| "[=ha][VRoot][=to.go (ES: ir)]" : {ha} 
 ! 
-| "[=iyaa][VRoot][=to.go]" : {iyaa} 
-| "[=oyaa][VRoot][=to.go]" : {oyaa} ! to be revised 
+| "[=iyaa][VRoot][=to.go (ES: ir)]" : {iyaa} 
+| "[=oyaa][VRoot][=to.go (ES: ir)]" : {oyaa} ! to be revised 
 # --------------------------------------------
 ! 
 | "[=haiki][VRoot][=to.fill.sth.]" : {haiki}
