@@ -251,6 +251,11 @@ define VRootPRQin [
 | "[=et][VRoot][=to.start]" : {et}
 ! 
 | "[=etsiyako][VRoot][=to.heal (ES: sanar)]" : {etsiyako}
+| "[=etsiyatako][VRoot][=to.heal (ES: sanar)]" : {etsiyatako}
+| "[=avisako][VRoot][=to.heal (ES: sanar)]" : {avisako}
+| "[=eshitako][VRoot][=to.heal (ES: sanar)]" : {eshitako}
+| "[=ashitako][VRoot][=to.heal (ES: sanar)]" : {ashitako}
+| "[=ishitako][VRoot][=to.heal (ES: sanar)]" : {ishitako}
 ! 
 | "[=etako][VRoot][=to.love (ES: amar, estimar, favorecer); to.suffer.for.love (ES: sufrir.(de.amor))]" : {etako}
 | "[=itako][VRoot][=to.love (ES: amar, estimar, favorecer); to.suffer.for.love (ES: sufrir.(de.amor))]" : {itako}
