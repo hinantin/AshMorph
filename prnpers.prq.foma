@@ -31,6 +31,8 @@ define PrnPersPRQin [
 | "[=eeroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
 | "[=iiroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
 ! 
+| "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)][--][-paeni][Num][+PL]" : {erokapaeni}
+! 
 # ------------------------------------------------ 
 # iri 
 | "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iri}
