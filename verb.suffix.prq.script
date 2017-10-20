@@ -461,7 +461,7 @@ define V=S=OFOC [
 define V=S=EMPH [
 # tya: urgency, impatience, surprise, exasperation 
 # aritya / =ari -tya / =PP -EMPH /  
-  "[--][-tya][+EMPH]" : "@EP"[{tya}]
+  "[--][-tya][+EMPH][=urgency, impatience, surprise, exasperation]" : "@EP"[{tya}]
 | "[--][-kya][+EMPH]" : "@EP"[{kya}]
 | "[--][-poo][+EMPH]" : "@EP"[{poo}]
 | "[--][-ha][+EMPH]" : "@EP"[{ha}]
