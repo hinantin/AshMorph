@@ -82,10 +82,14 @@ define V=S=PLcircumfixing [
 ];
 
       
+! Aspect ??? 
+! It specifies an event as a whole, that may be:  
+! resolved: finality-and-closure, once-and-for.all  
+! regressive: being.back 
 define V=S=REGR [
-  "[--][-a][Cas][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue; TERM: ]" : "@EP"[{a}]
-| "[--][-ah][Cas][+REGR_TERM]" : "@EP"[{ah}]
-| "[--][-aha][Cas][+REGR_TERM]" : "@EP"[{aha}]
+  "[--][-a][Cas][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{a}]
+| "[--][-ah][Cas][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{ah}]
+| "[--][-aha][Cas][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{aha}]
 ];
       
 define V=S=CNTF [
