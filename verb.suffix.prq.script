@@ -83,9 +83,9 @@ define V=S=PLcircumfixing [
 
       
 ! Aspect ??? 
-! It specifies an event as a whole, that may be:  
-! resolved: finality-and-closure, once-and-for.all  
-! regressive: being.back 
+! It specifies an event as a whole, that may be: 
+! resolved.(event): finality-and-closure, once-and-for.all 
+! regressive.(event): being.back 
 define V=S=REGR [
   "[--][-a][Cas][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{a}]
 | "[--][-ah][Cas][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{ah}]
