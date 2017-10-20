@@ -31,7 +31,7 @@ define PrnPersPRQin [
 | "[=eeroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
 | "[=iiroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
 ! 
-| "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)][--][-paeni][Num][+PL]" : {erokapaeni}
+| "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)][--][-paeni][Num][+PL]::[=you (ES: Ustedes)]" : {erokapaeni}
 ! 
 # ------------------------------------------------ 
 # iri 
@@ -52,8 +52,8 @@ define PrnPersPRQin [
 | "[=hirova][PrnPers][+3SG][=it (animal.or.object; ES: ello, eso)]" : {hirova}
 ! 
 | "[=aaka][PrnPers][+1PL][=we]" : {aaka}  
-| "[=aka][PrnPers][+1PL][=we][--][-paeni][Num][+PL]" : {akapaeni}  ! aka shortened form of naka ???  
-| "[=naka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)][--][-paeni][Num][+PL]" : {nakapaeni}  
+| "[=aka][PrnPers][+1PL][=we][--][-paeni][Num][+PL]::[=we (ES: nosotras)]" : {akapaeni}  ! aka shortened form of naka ???  
+| "[=naka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)][--][-paeni][Num][+PL]::[=we (ES: nosotros)]" : {nakapaeni}  
 | "[=aro][PrnPers][+1PL.INCL.][=we]" : {aro} 
 ! 
 | "[=aroka+cont.d.top.][PrnPers][+1PL.INCL.]" : {aroka}
@@ -74,7 +74,7 @@ define PrnPersPRQin [
 ! 
 | "[=irirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)]" : {irirori} ! FOC "He" 
 | "[=rirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)]" : {rirori}
-| "[=rirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)][--][-paeni][Num][+PL]" : {riroripaeni}
+| "[=rirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)][--][-paeni][Num][+PL]::[=they (ES: ellos)]" : {riroripaeni}
 | "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)]" : {iriori} ! FOC 
 | "[=iriyori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)]" : {iriyori} ! FOC 
 | "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {iriorihei} ! FOC 
@@ -82,7 +82,7 @@ define PrnPersPRQin [
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {iroori} ! FOC 
 | "[=roori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {roori} ! FOC 
 | "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {irori} ! FOC 
-| "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-paeni][Num][+PL]" : {iroripaeni}
+| "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-paeni][Num][+PL]::[=they (ES: ellas)]" : {iroripaeni}
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
 !  
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
