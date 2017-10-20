@@ -72,12 +72,12 @@ define PrnPersPRQin [
 ! 
 | "[=avirori+cntr.add.l.+foc.][PrnPers][+2SG][=you]" : {avirori} ! FOC 
 ! 
-| "[=irirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {irirori} ! FOC "He" 
-| "[=rirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {rirori}
-| "[=rirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he][--][-paeni][Num][+PL]" : {riroripaeni}
+| "[=irirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)]" : {irirori} ! FOC "He" 
+| "[=rirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)]" : {rirori}
+| "[=rirori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)][--][-paeni][Num][+PL]" : {riroripaeni}
 | "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)]" : {iriori} ! FOC 
-| "[=iriyori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he]" : {iriyori} ! FOC 
-| "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {iriorihei} ! FOC 
+| "[=iriyori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)]" : {iriyori} ! FOC 
+| "[=iriori+cntr.add.l.+foc.][PrnPers][+3SG.m.][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {iriorihei} ! FOC 
 ! 
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {iroori} ! FOC 
 | "[=roori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {roori} ! FOC 
