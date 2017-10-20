@@ -114,12 +114,14 @@ define V=S=AUG [
 | "[--][-pira][+AUG]" : "@EP"[{pira}]
 ];
       
+! it specifies a situation which lasted for a period of time in the past.
 !*) Nojate nomanaveete / Nohate nomanaveete / no- =ha -t -e  no- =mana -vee -t -e / 1sg.s- =to.go -ep -irr  1sg.s- =to.shoot -dur -ep -irr / EN: "I'm.going.to.hunt"; ES: 'yo.voy.a.cazar'  
+! 
 define V=S=DUR [
   "[--][-vai][+DUR]" : "@EP"[{vai}] 
 | "[--][-vae][+DUR]" : "@EP"[{vae}] 
 | "[--][-vee][+DUR]" : "@EP"[{vee}] 
-| "[--][-vei][+DUR]" : "@EP"[{vei}]
+| "[--][-vei][+DUR]" : "@EP"[{vei}] 
 ];
       
 !      define V=S=3O [
