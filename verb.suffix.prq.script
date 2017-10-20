@@ -162,6 +162,8 @@ define V=S=O [
 | "[--][-ne][+3SG.O]" : "@EP"[{ne}] 
 ];
       
+! -kari EN: 'in.order.to.prevent.sth.from.happening'; ES: 'para.que.no; no.sea' 
+! -kari EN: 'used.to.introduce.the.reason.for.the.particular.emotion.mentioned'; ES: 'con.el.fin.de' 
 define V=S=APPR [
   "[--][-kari][+APPR][=lest]" : "@EP"[{kari}]
 ];
