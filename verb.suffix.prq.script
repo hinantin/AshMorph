@@ -163,7 +163,7 @@ define V=S=O [
 ];
       
 define V=S=APPR [
-  "[--][-kari][+APPR]" : "@EP"[{kari}]
+  "[--][-kari][+APPR][=lest]" : "@EP"[{kari}]
 ];
       
 !      define V=S=2A [
@@ -461,10 +461,10 @@ define V=S=OFOC [
 define V=S=EMPH [
 # tya: urgency, impatience, surprise, exasperation 
 # aritya / =ari -tya / =PP -EMPH /  
-  "[--][-tya][+EMPH][=urgency, impatience, surprise, exasperation]" : "@EP"[{tya}]
+  "[--][-tya][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : "@EP"[{tya}]
 | "[--][-kya][+EMPH]" : "@EP"[{kya}]
 | "[--][-poo][+EMPH]" : "@EP"[{poo}]
-| "[--][-ha][+EMPH]" : "@EP"[{ha}]
+| "[--][-ha][+EMPH][=contradictory.emphasis]" : "@EP"[{ha}]
 | "[--][-tzi][+EMPH]" : "@EP"[{tzi}]
 ];
       
