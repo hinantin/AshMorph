@@ -56,6 +56,7 @@
 
       define UReplacement1 [ {o} (->) {u} || [Cons] _ [Cons] ]; # ayumpari, kubantsi
       define UReplacement2 [ {o} (->) {u} || [Cons] _ [a|e] ]; # kuakitzi, wuempo , kuaritotzi 
+      define UReplacement3 [ {o} (->) {u} || [Cons] _ ]; # paju
 
       define NPReplacement [ {mp} (->) {np} || [Vowels] _ [Vowels] ]; # amenpori
 
@@ -74,7 +75,7 @@
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
-.o. UReplacement1 .o. UReplacement2 
+.o. UReplacement1 .o. UReplacement2 .o. UReplacement3  
 .o. NPReplacement 
 .o. TYOnset1 .o. TYOnset2 .o. PYOnset .o. KYOnset ]; 
 
