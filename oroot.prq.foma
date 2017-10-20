@@ -104,7 +104,6 @@ define ORootPRQin [
 | "[=ironyaaka][OtherRoot][=CONN]" : {ironyaaka}
 | "[=ironyaaka][OtherRoot][=then]" : {ironyaaka}
 | "[=ito][OtherRoot][=head]" : {ito}
-| "[=kama][OtherRoot][=because]" : {kama}
 ! 
 | "[=kantzimaintacha][OtherRoot][=nevertheless]" : {kantzimaintacha}
 | "[=kantzimaitacha][OtherRoot][=nevertheless]" : {kantzimaitacha}
@@ -128,6 +127,7 @@ define ORootPRQin [
 | "[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tema}
 | "[=tempa][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tempa}
 | "[=tima][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tima}
+| "[=kama][OtherRoot][=because (ES: porque)]" : {kama}
 ! 
 # terika pashini mantsiyarentsipaye / =terika =pashini =mantsiya -re -ntsi -paye / =or =other =to.be.sick -nmz -nposs -pl / EN: 'or.other.diseases'; ES: 'u.otras.enfermedades'  
 
