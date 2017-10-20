@@ -477,8 +477,8 @@ define V=S=EMPH [
 !      ];
       
 define V=S=APPLBEN [
-  "[--][-vint][+BEN]" : "@EP"[{vint}]
-| "[--][-vent][+BEN]" : "@EP"[{vent}]
+  "[--][-vint][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
+| "[--][-vent][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vent}]
 ];
       
 define V=S=APPLPRES [
