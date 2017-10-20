@@ -81,9 +81,9 @@ define PrnPersPRQin [
 ! 
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {iroori} ! FOC 
 | "[=roori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {roori} ! FOC 
-| "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she]" : {irori} ! FOC 
-| "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she][--][-paeni][Num][+PL]" : {iroripaeni}
-| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
+| "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {irori} ! FOC 
+| "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-paeni][Num][+PL]" : {iroripaeni}
+| "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
 !  
 | "[=arori+cntr.add.l.][PrnPers][+1PL]" : {arori}
 | "[=aroori+cntr.add.l.][PrnPers][+1PL]" : {aroori}
