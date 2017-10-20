@@ -19,6 +19,7 @@ define AdvRootPRQin [
 # intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
 | "[=intsomoe][AdvRoot][=inside (ES: adentro)]" : {intsomoe} 
 | "[=intsomoeki][AdvRoot][=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
+| "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomoenta} 
 ! 
 | "[=otapinaki][AdvRoot][=under (ES: debajo.(de))]" : {otapinaki} 
 ! 
