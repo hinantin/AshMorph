@@ -123,8 +123,8 @@ define V=S=DUR [
 !      ];
       
 !define V=S=BEN [
-!  "[--][-vint][+BEN]" : "@EP"[{vint}]
-!| "[--][-vent][+BEN]" : "@EP"[{vent}]
+!  "[--][-vint][+BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
+!| "[--][-vent][+BEN][=action.done.for.sb.else]" : "@EP"[{vent}]
 !];
       
 !      define V=S=ADVP [
