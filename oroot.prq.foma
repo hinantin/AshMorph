@@ -197,4 +197,9 @@ define ConnRootPRQ01in [
 | "[=onkantya][ConnRoot][=in.order]" : {onkantya}
 | "[=onkantya][ConnRoot][=so.that]" : {onkantya}
 | "[=okanta][ConnRoot][=so.that]" : {okanta}
+! 
+| "[=okanta][ConnRoot][=in.the.meantime]" : {okanta}
+| "[=ikanta][ConnRoot][=in.the.meantime]" : {ikanta}
+! 
+| "[=tekira][ConnRoot][=before]" : {tekira}
 ];
