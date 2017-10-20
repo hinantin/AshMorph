@@ -118,8 +118,7 @@ define ORootPRQin [
 | "[=nashi][OtherRoot][=mine]" : {nashi}
 | "[=o][OtherRoot][=or]" : {o}
 !| "[=okaakini][OtherRoot][=close.by]" : {okaakini}
-| "[=onkantya][OtherRoot][=in.order]" : {onkantya}
-| "[=onkantya][OtherRoot][=so.that]" : {onkantya}
+! 
 | "[=oshiki][OtherRoot][=many]" : {oshiki}
 | "[=otsitzi][OtherRoot][=dog]" : {otsitzi}
 ! 
@@ -194,4 +193,8 @@ define ConnRootPRQ01in [
 | "[=kantzimaitacha][ConnRoot][=nevertheless]" : {kantzimaitacha}
 ! 
 | "[=omaanta][ConnRoot][=but; instead]" : {omaanta}
+! 
+| "[=onkantya][ConnRoot][=in.order]" : {onkantya}
+| "[=onkantya][ConnRoot][=so.that]" : {onkantya}
+| "[=okanta][ConnRoot][=so.that]" : {okanta}
 ];
