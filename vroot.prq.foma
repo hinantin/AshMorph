@@ -606,10 +606,9 @@ define VRootPRQin [
 ! 
 | "[=koite][VRoot][=to.be.in.need]" : {koite} ! to.be.checked 
 ! 
-| "[=kokov][VRoot][=to.want]" : {kokov} ! redup ??? 
-! 
 | "[=konyaa][VRoot][=to.appear (ES: aparecer)]" : {konyaa}
 | "[=koniha][VRoot][=to.appear (ES: aparecer)]" : {koniha}
+| "[=koniha+redup.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
 ! 
 | "[=koma][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
 | "[=komaa][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
@@ -650,8 +649,9 @@ define VRootPRQin [
 ! 
 | "[=kotzi][VRoot][=to.walk.with.a.cane]" : {kotzi}
 ! 
-| "[=kov][VRoot][=to.want]" : {kov}
-| "[=ko][VRoot][=to.want]" : {ko}
+| "[=kov][VRoot][=to.want]" : {kov} 
+| "[=ko][VRoot][=to.want]" : {ko} 
+| "[=kov+redup.][VRoot][=to.want]::[=to.prefer.strongly]" : {kokov} 
 ! 
 | "[=kovari][VRoot][=to.corral]" : {kovari}
 ! 
