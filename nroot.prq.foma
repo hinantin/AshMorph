@@ -1945,9 +1945,10 @@ define NRootPRQin [
 | "[=okitsoki][NRoot][=seed]" : {okitsoki}
 | "[=okitoki][NRoot][=seed]" : {okitoki}
 ! 
-| "[=oonka][NRoot][=flood; downpour]" : {oonka}
-| "[=oonkaro][NRoot][=flood; downpour]" : {oonkaro}
-| "[=oonkavo][NRoot][=flood; downpour]" : {oonkavo}
+! oonkantsi / =oonka -ntsi / =flood -nposs / ES: 'inundación'  
+| "[=oonka][NRoot][=flood (ES: inundación); downpour]" : {oonka}
+| "[=oonkaro][NRoot][=flood (ES: inundación); downpour]" : {oonkaro}
+| "[=oonkavo][NRoot][=flood (ES: inundación); downpour]" : {oonkavo}
 ! 
 | "[=omani][NRoot][=black.catfish (zúngaro)]" : {omani}
 ! 
