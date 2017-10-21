@@ -418,10 +418,12 @@ define V=S=APPLINST [
 # -----------------------------------------------------
 # Valence-adjusting operators, degree, time and manner 
 
+! kivantapaintairi / =kivant -apaint -ai -ri / =to.visit -punctual[short-term] -irr -rel / EN: 'short-term.visitor/visit'; ES: ''   
+! saikapaintziri / =saik -apaint -tz -i -ri / =to.be -punctual[short-term] -ep -irr -rel / EN: 'short-term resident/stay'; ES: ''   
 define V=S=SEMEL [
 # semelfactive: 
-  "[--][-apaint][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaint}]
-| "[--][-apaent][+PUNCTUAL][=once,for.a.while]" : "@EP"[{apaent}]
+  "[--][-apaint][+PUNCTUAL][=once;for.a.while,short-term]" : "@EP"[{apaint}]
+| "[--][-apaent][+PUNCTUAL][=once;for.a.while,short-term]" : "@EP"[{apaent}]
 # -----------------------------------------------------
 # semeliterative: single repetition of event/action (semel: one.time) 
 | "[--][-apanant][+ITERATIVE][=one.more.time]" : "@EP"[{apanant}]
