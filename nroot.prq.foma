@@ -857,8 +857,10 @@ define NRootPRQin [
 | "[=itenka][NRoot][=pus (ES: pus, secreción.(purulenta))]" : {itenka} ! pitenka
 | "[=itehare][NRoot][=pus (ES: pus, secreción.(purulenta))]" : {itehare} ! noitejare
 ! 
-| "[=ito+n.m.+inal.][NRoot][=head (ES: cabeza)]" : {ito}
-| "[=iito+n.m.+inal.][NRoot][=head (ES: cabeza)]" : {iito}
+| "[=ito+n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)]" : {ito}
+| "[=iito+n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)]" : {iito}
+| "[=kito+inal@tsi.][NRoot][=head (ES: cabeza)]" : {kito}
+| "[=hito+inal@tsi.][NRoot][=head (ES: cabeza)]" : {hito}
 ! 
 | "[=tepo+n.m.+inal.][NRoot][=hoop, ring]" : {tepo}
 | "[=tipo+n.m.+inal.][NRoot][=hoop, ring]" : {tipo}
