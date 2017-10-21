@@ -552,13 +552,13 @@ define VRootPRQin [
 | "[=kisaa][VRoot][=to.be.black]" : {kisaa}
 ! 
 # to.defend
-| "[=kisakovint][VRoot][=to.defend]" : {kisakovint}
-| "[=tikakovent][VRoot][=to.defend]" : {tikakovent}
-| "[=piya][VRoot][=to.defend]" : {piya}
-| "[=piyavint][VRoot][=to.defend]" : {piyavint}
-| "[=piyakovent][VRoot][=to.defend]" : {piyakovent}
-| "[=piakovent][VRoot][=to.defend]" : {piakovent}
-| "[=ovakovent][VRoot][=to.defend]" : {ovakovent}
+| "[=kisakovint][VRoot][=to.defend (ES: defender)]" : {kisakovint}
+| "[=tikakovent][VRoot][=to.defend (ES: defender)]" : {tikakovent}
+| "[=piya][VRoot][=to.defend (ES: defender)]" : {piya}
+| "[=piyavint][VRoot][=to.defend (ES: defender)]" : {piyavint}
+| "[=piyakovent][VRoot][=to.defend (ES: defender)]" : {piyakovent}
+| "[=piakovent][VRoot][=to.defend (ES: defender)]" : {piakovent}
+| "[=ovakovent][VRoot][=to.defend (ES: defender)]" : {ovakovent}
 # to.protect
 | "[=tikako][VRoot][=to.protect]" : {tikako}
 ! 
