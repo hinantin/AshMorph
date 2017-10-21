@@ -608,7 +608,8 @@ define VRootPRQin [
 ! 
 | "[=kokov][VRoot][=to.want]" : {kokov} ! redup ??? 
 ! 
-| "[=konyaa][VRoot][=to.appear]" : {konyaa}
+| "[=konyaa][VRoot][=to.appear (ES: aparecer)]" : {konyaa}
+| "[=koniha][VRoot][=to.appear (ES: aparecer)]" : {koniha}
 ! 
 | "[=koma][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
 | "[=komaa][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
