@@ -27,8 +27,8 @@ define VRootPRQin [
 ! 
 | "[=aavak][VRoot][=to.receive; to.get.married]" : {aavak}
 ! 
-| "[=aavint][VRoot][=to.cure]" : {aavint}
-| "[=avint][VRoot][=to.cure]" : {avint}
+| "[=aavint][VRoot][=to.cure (ES: curar)]" : {aavint}
+| "[=avint][VRoot][=to.cure (ES: curar)]" : {avint}
 ! 
 | "[=ahirik][VRoot][=to.grab; to.catch, to.trap]" : {ahirik}
 ! 
@@ -1414,6 +1414,7 @@ define VRootPRQin [
 | "[=tsa][VRoot][=to.tie, to.moor; to.hung.up; to.hung.from.sth.]" : {tsa}
 ! 
 | "[=tsak][VRoot][=to.dye (ES: teñir)]" : {tsak}
+| "[=ahak][VRoot][=to.dye (ES: teñir)]" : {ahak}
 ! 
 | "[=tsa][VRoot][=to.burst; to.break.open/apart]" : {tsa}
 | "[=tsat][VRoot][=to.tear.into.two.parts]" : {tsat}
