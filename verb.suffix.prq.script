@@ -143,9 +143,9 @@ define V=S=DUR [
 # indicates that the subordinate clause has an "adverbial" or interpropositional relation to the main clause, indicating
 # purpose, condition, time, and location. (SIL) 
 define V=S=ADV [
-  "[--][-ka+proximal.loc.][+ADV][=where]" : "@EP"[{ka}] 
-| "[--][-ra+medial.loc.][+ADV][=where]" : "@EP"[{ra}] 
-| "[--][-nta+distal.loc.][+ADV][=where]" : "@EP"[{nta}] 
+  "[--][-ka+proximal.loc.][+ADV]" : "@EP"[{ka}] 
+| "[--][-ra+medial.loc.][+ADV]" : "@EP"[{ra}] 
+| "[--][-nta+distal.loc.][+ADV]" : "@EP"[{nta}] 
 # ---------------------------------------------------------------
 | "[--][-ranki+fused.t.][+ADV.P]" : "@EP"[{ranki}] 
 # ---------------------------------------------------------------
