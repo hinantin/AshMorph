@@ -548,9 +548,9 @@ define V=S=early [
 !];
       
 define V=S=ICPL [
-  "[--][-ite+quickly][+ICPL]" : "@EP"[{ite}]
-| "[--][-it+speed][+ICPL]" : "@EP"[{it}]
-| "[--][-itz+speed][+ICPL]" : "@EP"[{itz}]
+  "[--][-ite][+ICPL][=quickly]" : "@EP"[{ite}]
+| "[--][-it][+ICPL][=speed]" : "@EP"[{it}]
+| "[--][-itz][+ICPL][=speed]" : "@EP"[{itz}]
 ];
 # -----------------------------------------------
       
