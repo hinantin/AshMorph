@@ -547,9 +547,14 @@ define V=S=early [
 !  "[--][+quickly]" : "@EP"[{ite}]
 !];
       
+# COMPL completive aspect (on verbs)
+define V=S=COMPL [
+  "[--][-ite][Asp][+COMPL][=quickly,surprisingly]" : "@EP"[{ite}]
+];
+      
 define V=S=ICPL [
-  "[--][-ite][+ICPL][=quickly]" : "@EP"[{ite}]
-| "[--][-it][+ICPL][=speed]" : "@EP"[{it}]
+! "[--][-ite][+COMPL][=quickly,surprisingly]" : "@EP"[{ite}]
+  "[--][-it][+ICPL][=speed]" : "@EP"[{it}]
 | "[--][-itz][+ICPL][=speed]" : "@EP"[{itz}]
 ];
 # -----------------------------------------------
