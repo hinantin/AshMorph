@@ -34,8 +34,10 @@ define ORootPRQin [
 | "[=ario][PostPol][=PP][--][-rika][+COND][--][-mpa][+SUBJ]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
 | "[=ario][PostPol][=PP][--][-rika][+COND][--][-kea][+EMPH]" : {ariorikakea} ! ario-rika-kea / PP-COND-EMPH
 ! 
+# ai / PP 
 | "[=aitaki][PostPol][=PP]" : {aitaki}
 | "[=aitake][PostPol][=PP]" : {aitake}
+| "[=ai][PostPol][=PP][--][-ite][+CMPL][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {aiitetake}
 ! 
 # -------------------------------------------------------
 # Positive Polarity a~ai
