@@ -3629,8 +3629,9 @@ define NRootPRQin [
 | "[=yorenka+inal.][NRoot][=wisdom, knowledge]" : {yorenka}
 | "[=yorêka+inal.][NRoot][=wisdom, knowledge]" : {yorêka}
 ! word set:
-| "[niyanki+loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {niyanki}
-| "[nianki+loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.]" : {nianki}
+| "[niyanki+loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {niyanki}
+| "[nianki+loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {nianki}
+| "[=kashetani][NRoot][=half (ES: mitad)]" : {kashetani}
 ! word set: medicinal plants
 | "[=taeri][NRoot][=amasisa, tree.sp.]" : {taeri}
 | "[=kanae][NRoot][=tangarana, tree.sp.]" : {kanae}
