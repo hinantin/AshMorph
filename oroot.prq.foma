@@ -37,7 +37,7 @@ define ORootPRQin [
 # ai / PP 
 | "[=aitaki][PostPol][=PP]" : {aitaki}
 | "[=aitake][PostPol][=PP]" : {aitake}
-| "[=ai][PostPol][=PP][--][-ite][+CMPL][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {aiitetake}
+| "[=ai][PostPol][=PP][--][-ite][+CMPL][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]::[=it.is.totally.the.case]" : {aiitetake}
 ! 
 # -------------------------------------------------------
 # Positive Polarity a~ai
