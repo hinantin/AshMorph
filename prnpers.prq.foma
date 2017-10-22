@@ -67,8 +67,8 @@ define PrnPersPRQin [
 | "[=iroite][PrnPers][+3PL.n.m.EXCL.][=they]" : {iroite}
 | "[=irooite][PrnPers][+3PL.n.m.EXCL.][=they]" : {irooite}
 # -------------------------------------------------------------------
-| "[=naari+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {naari} ! FOC "I" 
-| "[=narori+cntr.add.l.+foc.][PrnPers][+1SG][=I]" : {narori}
+| "[=naari+cntr.add.l.+foc.][PrnPers][+1SG][=I (ES: yo.también)]" : {naari} ! FOC "I" 
+| "[=narori+cntr.add.l.+foc.][PrnPers][+1SG][=I (ES: a.mi.persona)]" : {narori}
 ! 
 | "[=avirori+cntr.add.l.+foc.][PrnPers][+2SG][=you]" : {avirori} ! FOC 
 ! 
