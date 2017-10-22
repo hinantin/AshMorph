@@ -448,8 +448,8 @@ define V=S=DIMDEGR [
 # -----------------------------------------------------
       
 define V=S=APPLINT [
-  "[--][-ashi][+APPL.INT][=purpose]" : "@EP"[{ashi}]
-| "[--][-shi][+APPL.INT][=purpose]" : "@EP"[{shi}]
+  "[--][-ashi][+APPL.INT][=purpose,intent]" : "@EP"[{ashi}]
+| "[--][-shi][+APPL.INT][=purpose,intent]" : "@EP"[{shi}]
 ];
       
 define V=S=LOC [
@@ -548,6 +548,8 @@ define V=S=early [
 !];
       
 # COMPL completive aspect (on verbs)
+# 1. it focuses on the thorough completion of an event.
+# 2. It denotes complete affectedness of the patientive argument.
 define V=S=COMPL [
   "[--][-ite][Asp][+COMPL][=quickly,surprisingly]" : "@EP"[{ite}]
 ];
