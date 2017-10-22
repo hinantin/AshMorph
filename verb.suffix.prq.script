@@ -630,10 +630,8 @@ define V=S=neck [
 #            Subordinator 
 # ---------------------------------------
 define V=S=SUB [ 
-# pikantatziira / pi- =kant -atzi -i -ra / 2s- =to.be -prog -real -sub / EN: 'when.you.were.saying'   
-  "[--][-ra+temporal][+SUB][=when]" : "@EP"[{ra}]
-# 
-| "[--][-ra+location][+SUB][=where (place)]" : "@EP"[{ra}]
+# pikantatziira / pi- =kant -atzi -i -ra / 2s- =to.be -prog -real -sub[temporal:when] / EN: 'when.you.were.saying'   
+  "[--][-ra][+SUB][=temporal:when;location:where(place)]" : "@EP"[{ra}]
 ]; 
 # ---------------------------------------
       
