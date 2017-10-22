@@ -17,7 +17,7 @@ define NumeralPRQin [
 # 4 
 | "[=cuatro][NumeralPRQ][=four]" : {cuatro}
 | "[=apiteta][NumeralPRQ][=four]" : {apiteta}
-| "[=apitevakaye][NumeralPRQ][=four]" : {apitevakaye}
+| "[=apitevakaye][NumeralPRQ][=four (ES: cuatro)]" : {apitevakaye}
 | "[=apitekavakaye][NumeralPRQ][=four]" : {apitekavakaye}
 | "[=otsi][NumeralPRQ][=four]" : {otsi} ! @CMP 
 | "[=oyatanakerori][NumeralPRQ][=four]" : {oyatanakerori} ! source:IIAP 
