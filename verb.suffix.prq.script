@@ -639,6 +639,7 @@ define V=S=neck [
 # 1. Temporal: EN: 'when'; ES: 'cuando' 
 # 2. Location: EN: 'where'; ES: 'donde' 
 # 3. Denoting a cause/motive/reason: EN: 'since'; ES: 'ya.que,entonces,pues' 
+# pues: conj. Denota causa, motivo o razón, por ejemplo: 'háblale tú, pues lo conoces más que yo'
 define V=S=SUB [ 
 # pikantatziira / pi- =kant -atzi -i -ra / 2s- =to.be -prog -real -sub[temporal:when] / EN: 'when.you.were.saying'   
   "[--][-ra][+SUB][=Temporal:when;Location:where(place);Denoting.a.cause/motive/reason:since]" : "@EP"[{ra}]
