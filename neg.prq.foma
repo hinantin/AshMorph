@@ -75,7 +75,7 @@ define NegPRQin [
 | "[=tikira][Neg][=yet; not.yet; before]" : {tikira}
 | "[=tekira][Neg][=yet, not.yet; before][--][-ta][+OPT]" : {tekirata}
 ! 
-| "[=te][Neg][=NEG.REAL][--][-ra][+SUB][=temporal:when;location:where(place)]::[= (ES: entonces.no.(no.futuro))]" : {tera}
+| "[=te][Neg][=NEG.REAL][--][-ra][+SUB][=temporal:when;location:where(place)]::[=since.[...].not (ES: pues/entonces.no.(no.futuro))]" : {tera}
 ];
 
 # ##############################

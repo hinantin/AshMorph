@@ -631,7 +631,7 @@ define V=S=neck [
 # ---------------------------------------
 define V=S=SUB [ 
 # pikantatziira / pi- =kant -atzi -i -ra / 2s- =to.be -prog -real -sub[temporal:when] / EN: 'when.you.were.saying'   
-  "[--][-ra][+SUB][=temporal:when;location:where(place)]" : "@EP"[{ra}]
+  "[--][-ra][+SUB][=temporal:when;location:where(place);Denoting.cause/motive/reason(since)]" : "@EP"[{ra}]
 ]; 
 # ---------------------------------------
       
