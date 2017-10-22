@@ -903,11 +903,11 @@ define VRootPRQin [
 | "[=okaaki][VRoot][=to.be.close]" : {okaaki}
 | "[=ontzimatye][VRoot][=to.be.necessary]" : {ontzimatye}
 ! 
-| "[=ok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out]" : {ok}
-| "[=ook][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out]" : {ook}
-| "[=ooka][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out]" : {ooka}
-| "[=hok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out]" : {hok}
-| "[=ohok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out]" : {ohok}
+| "[=ok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out (ES: botar)]" : {ok}
+| "[=ook][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out (ES: botar)]" : {ook}
+| "[=ooka][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out (ES: botar)]" : {ooka}
+| "[=hok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out (ES: botar)]" : {hok}
+| "[=ohok][VRoot][=to.abandon; to.leave; to.throw; to.throw.away/out (ES: botar)]" : {ohok}
 ! 
 | "[=ooko][VRoot][=to.identify; to.mark, to.point]" : {ooko}
 | "[=hiko][VRoot][=to.mark, to.point (ES: apuntar)]" : {hiko}
