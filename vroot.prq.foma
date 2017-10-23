@@ -1231,7 +1231,8 @@ define VRootPRQin [
 ! 
 | "[=shavoki][VRoot][=to.dance (ES: bailar)]" : {shavoki}
 ! 
-| "[=shenka][VRoot][=to.sob (ES: sollozar)]" : {shenka}
+| "[=shenka][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shenka}
+| "[=shinka][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shinka}
 ! 
 | "[=shent][VRoot][=to.take.care (ES: vigilar)]" : {shent}
 ! 
@@ -1245,8 +1246,6 @@ define VRootPRQin [
 ! 
 | "[=shini][VRoot][=to.allow]" : {shini}
 | "[=shine][VRoot][=to.allow]" : {shine}
-! 
-| "[=shinka][VRoot][=to.cry.a.lot]" : {shinka}
 ! 
 | "[=shinki][VRoot][=to.get.drunk]" : {shinki}
 ! 
