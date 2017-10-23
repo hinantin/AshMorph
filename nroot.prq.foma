@@ -773,9 +773,9 @@ define NRootPRQin [
 | "[=iri+m.][NRoot][=father (kin.of.a.fe/male)]" : {iri}
 | "[=irichi][NRoot][=milk]" : {irichi}
 ! 
-| "[=iriani][NRoot][=child]" : {iriani}
-| "[=irianeriki][NRoot][=child]" : {irianeriki}
-| "[=irianeeriki][NRoot][=child]" : {irianeeriki}
+| "[=iriani][NRoot][=child (ES: niño)]" : {iriani}
+| "[=irianeriki][NRoot][=child (ES: niño)]" : {irianeriki}
+| "[=irianeeriki][NRoot][=child (ES: niño)]" : {irianeeriki}
 ! 
 | "[=irimashi][NRoot][=Lima]" : {irimashi} ! lima li -> iri(i) - ma -> ma -> shi -> CL
 ! 
