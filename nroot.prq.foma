@@ -703,9 +703,6 @@ define NRootPRQin [
 | "[=inteena+loc.][AdvRoot][=far.away]" : {inteena} ! N@->V ! revise if it belongs to this file 
 | "[=okaakini+loc.][AdvRoot][=in.close.proximity, closeby]" : {okaakini}
 ! 
-| "[=intakiro][AdvRoot][=inside]" : {intakiro}
-| "[=intsompoi][AdvRoot][=inside]" : {intsompoi}
-! 
 | "[=intakiro][AdvRoot][=outside]" : {intakiro}
 | "[=intakironta][AdvRoot][=outside]" : {intakironta}
 ! 

@@ -27,6 +27,9 @@ define AdvRootPRQin [
 | "[=intsompoikinta+loc.][AdvRoot][=inside]" : {intsompoikinta}
 | "[=intsompoiki+loc.][AdvRoot][=inside]" : {intsompoiki}
 ! 
+| "[=intakiro][AdvRoot][=inside]" : {intakiro}
+| "[=intsompoi][AdvRoot][=inside]" : {intsompoi}
+! 
 | "[=otapinaki][AdvRoot][=under (ES: debajo.(de))]" : {otapinaki} 
 ! 
 | "[=imponya][AdvRoot][=afterwards]" : {imponya}
