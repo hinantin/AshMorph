@@ -18,9 +18,9 @@ define N=S=poss [
       
 ! DEM.NOM: Nominal demonstrative
 define N=S=DEM [
-  "[--][-ka+proximal][Adv][+DEM]" : {ka} ! this
-| "[--][-ra+medial][Adv][+DEM]" : {ra} 
-| "[--][-nta+distal][Adv][+DEM]" : {nta} 
+  "[--][-ka+proximal.b.][Adv][+DEM]" : {ka} ! this
+| "[--][-ra+medial.b.][Adv][+DEM]" : {ra} 
+| "[--][-nta+distal.b.][Adv][+DEM]" : {nta} 
 ];
       
 define N=S=PL [
