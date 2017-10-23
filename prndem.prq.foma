@@ -43,13 +43,14 @@ define PrnDemPRQin [
 ! 
 | "[=irika+m.+proximal][PrnDem][=this]" : {irika}
 | "[=iirika+m.+proximal][PrnDem][=this]" : {iirika}
+| "[=irira+m.+medial][PrnDem][=~]" : {irira}
+| "[=irinta+m.+distal][PrnDem][=~]" : {irinta}
 ! 
 | "[=iro][PrnDem][=this]" : {iro}
 | "[=iroka+n.m.+proximal.b.][PrnDem][=this]" : {iroka} ! DEM
 | "[=irora+n.m.+medial.b.][PrnDem][=that, whachamacallit]" : {irora} ! DEM
 | "[=ironta+n.m.+distal.b.][PrnDem][=that.(over.there)]" : {ironta} ! DEM 
 | "[=ironto+n.m.+distal.unb.][PrnDem][=that]" : {ironto}
-
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=this]" : {iyoka} ! DEM
 ! 
