@@ -1641,8 +1641,10 @@ define VRootPRQin [
 ! 
 | "[=vitsa][VRoot][=to.visit]" : {vitsa}
 ! 
-| "[=vetsa][VRoot][=to.greet]" : {vetsa}
-| "[=vitsa][VRoot][=to.greet]" : {vitsa}
+# despedirse??? 
+| "[=vetsa][VRoot][=to.greet (ES: saludar)]" : {vetsa}
+| "[=vitsa][VRoot][=to.greet (ES: saludar)]" : {vitsa}
+| "[=ovetsa][VRoot][=to.greet (ES: saludar)]" : {ovetsa}
 ! 
 | "[=vitsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vitsik}
 | "[=vetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vetsik}
