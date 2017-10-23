@@ -124,8 +124,8 @@ define ORootPRQin [
 | "[=oshiki][OtherRoot][=many]" : {oshiki}
 | "[=otsitzi][OtherRoot][=dog]" : {otsitzi}
 ! 
-| "[=tekatsi][OtherRoot][=EXIST]" : {tekatsi}
-| "[=teekatsi][OtherRoot][=EXIST]" : {teekatsi}
+| "[=tekatsi][VRoot][=NOT.EXIST; NOT.POSSESS]" : {tekatsi}
+| "[=teekatsi][VRoot][=NOT.EXIST; NOT.POSSESS]" : {teekatsi}
 ! 
 | "[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tema}
 | "[=tempa][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tempa}
