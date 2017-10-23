@@ -160,7 +160,8 @@ define ORootPRQin [
 | "[=eniro][VRoot][=to.exist (ES: hay); to.possess]" : {eniro} 
 | "[=enitatsi][VRoot][=to.exist (ES: hay); to.possess]" : {enitatsi} 
 ! 
-| "[=ainiro][VRoot][=to.exist (ES: hay); to.possess]" : {ainiro} 
+| "[=ainiro][VRoot][=to.exist (ES: hay); to.possess; CONT.EXIST, EXIST]" : {ainiro} 
+| "[=aeniro][VRoot][=to.exist (ES: hay); to.possess; CONT.EXIST, EXIST]" : {aeniro} 
 ! 
 | "[=tsimatsi][VRoot][=to.exist; to.possess]" : {tsimatsi} 
 | "[=timatsi][VRoot][=to.exist]" : {timatsi} 
