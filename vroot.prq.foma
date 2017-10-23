@@ -1648,8 +1648,8 @@ define VRootPRQin [
 | "[=vetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vetsik}
 | "[=ovetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build; to.modify]" : {ovetsik}
 ! 
-| "[=vitziri][VRoot][=to.pluck]" : {vitziri}
-| "[=vitiri][VRoot][=to.pluck]" : {vitiri}
+| "[=vitziri][VRoot][=to.pluck (ES: desplumar)]" : {vitziri}
+| "[=vitiri][VRoot][=to.pluck (ES: desplumar)]" : {vitiri}
 ! 
 | "[=vitzit][VRoot][=to.grow.hair]" : {vitzit}
 ! 
