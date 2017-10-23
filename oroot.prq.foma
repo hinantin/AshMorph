@@ -154,22 +154,22 @@ define ORootPRQin [
 #    =chora n- =ireento                   o- =kara -t -i           o- =sarentsi -te        =tsa =otsi 
 #    =have  1sg.poss- =sister.of.a.female 3n.m.S- =cop.c -ep -real 3n.m.poss- =year -nposs =ten =four  
 #    EN: 'I have a sister who is 14 years-old', ES: 'tengo una.hermana que tiene 14 años'
-| "[=chora][VRoot][=to.exist (ES: hay); to.have, to.possess (ES: tiene)]" : {chora} 
-| "[=choora][VRoot][=to.exist (ES: hay); to.have, to.possess (ES: tiene)]" : {choora} 
+| "[=chora][VRoot][=EXIST (ES: hay); to.have, POSSESS (ES: tiene)]" : {chora} 
+| "[=choora][VRoot][=EXIST (ES: hay); to.have, POSSESS (ES: tiene)]" : {choora} 
 ! 
-| "[=eniro][VRoot][=to.exist (ES: hay); to.possess]" : {eniro} 
-| "[=enitatsi][VRoot][=to.exist (ES: hay); to.possess]" : {enitatsi} 
+| "[=eniro][VRoot][=EXIST (ES: hay); POSSESS]" : {eniro} 
+| "[=enitatsi][VRoot][=EXIST (ES: hay); POSSESS]" : {enitatsi} 
 ! 
 # CONT.EXIST: continue.to.exist 
 | "[=ainiro][VRoot][=EXIST (ES: hay); POSSESS; CONT.EXIST (ES: todavía.hay)]" : {ainiro} 
 | "[=aeniro][VRoot][=EXIST (ES: hay); POSSESS; CONT.EXIST (ES: todavía.hay)]" : {aeniro} 
 ! 
-| "[=tsimatsi][VRoot][=to.exist; to.possess]" : {tsimatsi} 
-| "[=timatsi][VRoot][=to.exist]" : {timatsi} 
-| "[=tzimatsi][VRoot][=to.exist]" : {tzimatsi} 
+| "[=tsimatsi][VRoot][=EXIST; POSSESS]" : {tsimatsi} 
+| "[=timatsi][VRoot][=EXIST]" : {timatsi} 
+| "[=tzimatsi][VRoot][=EXIST]" : {tzimatsi} 
 ! 
-| "[=matsi][VRoot][=to.exist]" : {matsi} 
-| "[=maatsi][VRoot][=to.exist]" : {maatsi} 
+| "[=matsi][VRoot][=EXIST]" : {matsi} 
+| "[=maatsi][VRoot][=EXIST]" : {maatsi} 
 # ------------------------------------------------------------------
 # ontzimatye / o- N- =tzim -aty -e / 3n.m.S- -irr =to.have -prog -irr / EN: 'it's.necessary' 
 | "[=ontzimatye][VRoot][=to.be.necessary]" : {ontzimatye}
