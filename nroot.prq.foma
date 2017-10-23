@@ -1604,8 +1604,9 @@ define NRootPRQin [
 | "[=materi][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas)]" : {materi}
 | "[=matiri][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas)]" : {matiri}
 ! 
-| "[=materinke][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca)]" : {materinke}
-| "[=materinki][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca)]" : {materinki}
+| "[=materinke][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinke}
+| "[=materinki][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinki}
+| "[=matirinki][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {matirinki}
 ! 
 | "[=matori][NRoot][=nocturnal.butterfly.sp.]" : {matori}
 ! 
