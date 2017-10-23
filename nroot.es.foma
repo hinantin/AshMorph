@@ -148,6 +148,8 @@ define NRootESin [
 | "[=tambor+m.][NRoot][=drum]" : {tamporo} ! N@->V
 | "[=tambor+m.][NRoot][=drum]" : {tampoo} ! N@->V
 ! 
+| "[=tazón][NRoot][=bowl]" : {tason} 
+! 
 | "[=trigo][NRoot][=wheat]" : {tiriko}
 ! 
 | "[=trusa+NCFS000][NRoot][=underpants, underwear; shorts]" : {trusa} ! N@->V
