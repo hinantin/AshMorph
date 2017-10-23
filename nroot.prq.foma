@@ -687,7 +687,7 @@ define NRootPRQin [
 ! 
 | "[=intakantarori][NRoot][=ancestor]" : {intakantarori}
 | "[=intakiro][NRoot][=outside]" : {intakiro}
-| "[=intatzikironta][NRoot][=this.side.of.the.river]" : {intatzikironta}
+| "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
 # ----------------------------------------------------- 
 # location - spatial adverbs
 # -----------------------------------------------------
@@ -726,8 +726,8 @@ define NRootPRQin [
 ! 
 | "[=katimaropa][NRoot][=banana.sp. (ES: plátano.de.isla)]" : {katimaropa}
 ! 
-| "[=katonko][NRoot][=up.river (ES: río.arriba)]" : {katonko} 
-| "[=katonka][NRoot][=up.river (ES: río.arriba)]" : {katonka} 
+| "[=katonko][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} 
+| "[=katonka][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonka} 
 ! 
 | "[=katsirinkari][NRoot][=hot, heat (ES: caliente, calor)]" : {katsirinkari} 
 | "[=katsirinkaite][NRoot][=heat (ES: calor)]" : {katsirinkaite} 
@@ -753,7 +753,7 @@ define NRootPRQin [
 | "[=veomento+inal.][NRoot][=hammock]" : {veomento}
 | "[=yao][NRoot][=hammock]" : {yao}
 ! 
-| "[=kirinka][NRoot][=down.river (ES: río.abajo), central.part.of.the.jungle]" : {kirinka}
+| "[=kirinka][NRoot][=down.river, downstream (ES: río.abajo), central.part.of.the.jungle]" : {kirinka}
 ! 
 | "[=kyaari][NRoot][=yellow-ridget.toucan (sci.nm.: ramphastos.culminatus)]" : {kyaari}
 ! 
