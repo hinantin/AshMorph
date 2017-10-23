@@ -694,10 +694,6 @@ define NRootPRQin [
 # ----------------------------------------------------- 
 # location - spatial adverbs
 # -----------------------------------------------------
-| "[=intsompoi+loc.][AdvRoot][=inside]" : {intsompoi}
-| "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
-| "[=intsompaikira+loc.][AdvRoot][=inside]" : {intsompaikira}
-| "[=intsompoikinta+loc.][AdvRoot][=inside]" : {intsompoikinta}
 ! 
 | "[=intyatzini+loc.][NRoot][=other.side]" : {intyatzini}
 | "[=intatikiro+loc.][NRoot][=other.side]" : {intatikiro}

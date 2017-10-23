@@ -21,6 +21,12 @@ define AdvRootPRQin [
 | "[=intsomoeki][AdvRoot][=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
 | "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomoenta} 
 ! 
+| "[=intsompoi+loc.][AdvRoot][=inside]" : {intsompoi}
+| "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
+| "[=intsompaikira+loc.][AdvRoot][=inside]" : {intsompaikira}
+| "[=intsompoikinta+loc.][AdvRoot][=inside]" : {intsompoikinta}
+| "[=intsompoiki+loc.][AdvRoot][=inside]" : {intsompoiki}
+! 
 | "[=otapinaki][AdvRoot][=under (ES: debajo.(de))]" : {otapinaki} 
 ! 
 | "[=imponya][AdvRoot][=afterwards]" : {imponya}
