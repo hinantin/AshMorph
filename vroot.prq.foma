@@ -865,7 +865,8 @@ define VRootPRQin [
 | "[=newi][VRoot][=to.covet.sth., to.like.sth.]" : {newi}
 ! 
 | "[=nyaana][VRoot][=to.study]" : {nyaana}
-| "[=nyaana][VRoot][=to.read]" : {nyaana}
+| "[=nyaana][VRoot][=to.read (ES: leer)]" : {nyaana}
+| "[=neana][VRoot][=to.read (ES: leer)]" : {neana}
 ! 
 # nyaperori / =nyapero -ri / =to.defy.authority -adj / EN: 'brave', ES: 'valiente' 
 | "[=nyapero][VRoot][=to.defy.authority.with.intensity-and-fearlessness; to.be.brave]" : {nyapero}
