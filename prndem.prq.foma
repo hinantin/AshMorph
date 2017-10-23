@@ -20,6 +20,7 @@ define PrnDemPRQin [
 | "[=hanto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded; ES: allá, muy.lejos)]" : {hanto}
 | "[=hantoo+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded; ES: allá, muy.lejos)]" : {hantoo}
 ! 
+| "[=niri+m.][PrnDem][=there]" : {niri}
 | "[=hiri+m.][PrnDem][=there]" : {hiri}
 | "[=hiri+m.][PrnDem][=there.he.is]" : {hiri}
 | "[=hirika+m.+proximal][PrnDem][=here.it.is; this]" : {hirika}
@@ -30,6 +31,7 @@ define PrnDemPRQin [
 | "[=nirinta+m.+distal][PrnDem][=~]" : {nirinta}
 | "[=hirinto+m.+distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hirinta}
 ! 
+| "[=niro+n.m.][PrnDem][=here.it.is]" : {niro}
 | "[=hiro+n.m.][PrnDem][=here.it.is]" : {hiro}
 | "[=hiroka+n.m.+proximal][PrnDem][=here.it.is; this]" : {hiroka}
 | "[=niroka+n.m.+proximal][PrnDem][=~]" : {niroka}
@@ -47,6 +49,7 @@ define PrnDemPRQin [
 | "[=irora+n.m.+medial.b.][PrnDem][=that, whachamacallit]" : {irora} ! DEM
 | "[=ironta+n.m.+distal.b.][PrnDem][=that.(over.there)]" : {ironta} ! DEM 
 | "[=ironto+n.m.+distal.unb.][PrnDem][=that]" : {ironto}
+
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=this]" : {iyoka} ! DEM
 ! 
