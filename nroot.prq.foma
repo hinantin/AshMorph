@@ -2532,9 +2532,11 @@ define NRootPRQin [
 ! 
 | "[=potyari][NRoot][=salted; half.salted]" : {potyari}
 ! 
-| "[=pyaameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {pyaameni}
-| "[=piameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {piameni}
-| "[=pyameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows]" : {pyameni}
+| "[=pyaameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyaameni}
+| "[=pyaamene+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyaamene}
+| "[=pyamine+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyamine}
+| "[=piameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {piameni}
+| "[=pyameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyameni}
 ! 
 ! noviari / no- =piari / 1sg.poss- =manioc.beer / EN: 'my.manioc_beer' 
 ! oviari / o- =piari / 3n.m.poss- =manioc.beer / EN: 'my.manioc_beer' 
@@ -3562,8 +3564,9 @@ define NRootPRQin [
 | "[=varipa+m.][NRoot][=rooster]" : {varipa}
 | "[=vatsa+n./m.+inal.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
 ! 
-| "[=veane+inal.][NRoot][=bow, weapon.for.shooting.arrows]" : {veane}
-| "[=viane+inal.][NRoot][=bow, weapon.for.shooting.arrows]" : {viane}
+| "[=veane+inal.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {veane}
+| "[=peane+inal.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {peane}
+| "[=viane+inal.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {viane}
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
 ! 
