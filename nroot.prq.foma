@@ -1043,6 +1043,8 @@ define NRootPRQin [
 ! 
 | "[=kapiro][NRoot][=bamboo.sp. (ES: paca, especie.de.bambú)]" : {kapiro}
 ! 
+| "[=kapiromeni][NRoot][=bamboo_leaf-made.thick.arrow_tip (ES: punta.de.flecha)]" : {kapiromeni}
+! 
 | "[=kapironkari][NRoot][=deer-like.demon (ES: peyari.transformado.en.un.venado)]" : {kapironkari}
 ! 
 | "[=kapeshi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapeshi}
@@ -1235,7 +1237,7 @@ define NRootPRQin [
 | "[=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
 | "[=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
 ! 
-| "[=kiriki][NRoot][=classical.harpoon-like.arrow.tip (ES: punta.de.flecha.hecha.de.chonta)]" : {kiriki}
+| "[=kiriki][NRoot][=classical.harpoon-like.arrow_tip (ES: punta.de.flecha.hecha.de.chonta)]" : {kiriki}
 ! 
 | "[=kiri+n.m.+inal.][NRoot][=nose; nostrils]" : {kiri}
 | "[=kirina+inal.][NRoot][=nose]" : {kirina}
