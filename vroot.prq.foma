@@ -891,8 +891,8 @@ define VRootPRQin [
 | "[=antavintsa][VRoot][=to.annoy (prbly.with.jokes)]" : {antavintsa}
 | "[=antan][VRoot][=to.annoy]" : {antan}
 ! 
-| "[=oiminki][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir)]" : {oiminki} 
-| "[=oiminke][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir)]" : {oiminke} 
+| "[=oiminki][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminki} 
+| "[=oiminke][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminke} 
 ! 
 ! o- kirink(a) ... / 
 | "[=oirink][VRoot][=to.go.down.quickly.(in.a.falling-like.manner) (ES: bajar.rápidamente.(como.cayendo))]" : {oirink} 
@@ -1066,7 +1066,8 @@ define VRootPRQin [
 | "[=piink][VRoot][=to.have.a.thing.about.sth., to.disgust, to.put.sb.off.sth.]" : {piink}
 ! 
 ! to respect sb., to honor sb.
-| "[=pinkatsa][VRoot][=to.respect.sth/sb., to.honor.sth/sb.]" : {pinkatsa}
+| "[=pinkatsa][VRoot][=to.respect.sth/sb. (ES: respetar), to.honor.sth/sb. (ES: honrar)]" : {pinkatsa}
+! 
 | "[=pinki][VRoot][=to.drown]" : {pinki}
 | "[=pintsa][VRoot][=to.decide]" : {pintsa}
 ! 
