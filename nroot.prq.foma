@@ -1013,7 +1013,7 @@ define NRootPRQin [
 | "[=kanarinke][NRoot][=venomous.viper.sp.]" : {kanarinke}
 ! 
 | "[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
-| "[=kaaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kaaniri}
+| "[=kaaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 ! 
