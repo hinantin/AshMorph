@@ -2776,7 +2776,8 @@ define NRootPRQin [
 | "[=santari][NRoot][=cedar.tree, timber.tree.sp. (ES: árbol.(maderable), cedro)]" : {santari}
 | "[=hantari][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro)]" : {hantari}
 ! 
-| "[=santani+m.][NRoot][=bat-like.bird.sp.; owl.sp.that.lives.in.hollow-stones]" : {santani}
+| "[=santani+m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {santani}
+| "[=hantani+m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis)]" : {hantani}
 ! 
 | "[=sankamiro+m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankamiro}
 | "[=sankimiro+m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankimiro}
@@ -3087,7 +3088,7 @@ define NRootPRQin [
 | "[=sontoki][NRoot][=wide.open.eye]" : {sontoki}
 ! 
 | "[=soraro][NRoot][=police (ES: soldado)]" : {soraro} !?
-| "[=soraaro][NRoot][=police (ES: soldado)]" : {soraaro} _
+| "[=soraaro][NRoot][=police (ES: soldado)]" : {soraaro} 
 ! 
 | "[=sorintzi][NRoot][=sunbittern (sci.nm.: eurypygia.helias)]" : {sorintzi} 
 ! 
