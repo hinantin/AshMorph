@@ -101,15 +101,13 @@ define ORootPRQin [
 # (iro).kantimaitacha 'but' 
 | "[=kantimaitacha][ConnRoot][=but (ES: pero)]" : {kantimaitacha}
 | "[=kantimaetacha][ConnRoot][=but (ES: pero)]" : {kantimaetacha}
-| "[=kantzimaitacha][ConnRoot][=but (ES: pero)]" : {kantzimaitacha}
+| "[=kantzimaintacha][ConnRoot][=but (ES: pero); nevertheless (ES: no.obstante)]" : {kantzimaintacha}
+| "[=kantzimaitacha][ConnRoot][=but (ES: pero); nevertheless (ES: no.obstante)]" : {kantzimaitacha}
 ! 
 | "[=iroma][OtherRoot][=in.conrast]" : {iroma}
 | "[=ironyaaka][OtherRoot][=CONN]" : {ironyaaka}
 | "[=ironyaaka][OtherRoot][=then]" : {ironyaaka}
 | "[=ito][OtherRoot][=head]" : {ito}
-! 
-| "[=kantzimaintacha][OtherRoot][=nevertheless]" : {kantzimaintacha}
-| "[=kantzimaitacha][OtherRoot][=nevertheless]" : {kantzimaitacha}
 ! 
 | "[=kapichikitaite][OtherRoot][=early]" : {kapichikitaite} 
 | "[=kapichi][NRoot][=small][--][=kitaite][VRoot][=to.be.morning]" : {kapichikitaite} 
