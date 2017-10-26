@@ -6,7 +6,7 @@ binmode STDOUT, ':utf8';
 
 while (<>)
 {
-@words = split(/([\s+|,|\.|\:|;|\-|\[|\]|\(|\)|\?|\“|\”|\"|\"|\¡|\–|\¿|\!|\/|\%|\'|…|—])/);
+@words = split(/([\s+|,|\.|\:|;|\[|\]|\(|\)|\?|\“|\”|\"|\"|\¡|\–|\¿|\!|\/|\%|\'|…|—])/);
 foreach (@words) {
     if (m/^\s*$/) { next;}
     elsif (m/^\.*$/) { next; } 
@@ -33,6 +33,7 @@ foreach (@words) {
         $string = lc($string);
         $string =~ s/’/\'/ig;
         $string =~ s/`/\'/ig;
+        $string =~ s/\-//g;
         print "$string\n";
     }
 }
