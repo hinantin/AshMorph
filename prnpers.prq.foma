@@ -62,6 +62,8 @@ define PrnPersPRQin [
 ! 
 | "[=naakaite][PrnPers][+1PL.EXCL.]" : {naakaite}
 | "[=avirokaite][PrnPers][+2PL.EXCL.][=you]" : {avirokaite}
+| "[=eerokaite][PrnPers][+2PL][=you]" : {eerokaite}
+| "[=erokaite][PrnPers][+2PL][=you]" : {erokaite}
 | "[=iriroite][PrnPers][+3PL.m.EXCL.][=they]" : {iriroite}
 | "[=iririroite][PrnPers][+3PL.m.EXCL.]" : {iririroite}
 | "[=iroite][PrnPers][+3PL.n.m.EXCL.][=they]" : {iroite}
