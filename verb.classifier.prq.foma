@@ -11,6 +11,7 @@ define V=S=CL [
 | "[--][-ke][+CL:S.R.H][=small,round;hard]" : "@EP"{ke} ! sheyaque @CL 
 | "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana; tree_bark; curvilinear]" : "@EP"{tsa} ! @CL 
 | "[--][-tsantsa][+CL:long][=long (ES: largo)]" : "@EP"{tsantsa} ! @CL 
+| "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : "@EP"{pa} ! @CL  
 | "[--][-pontso][+CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point]" : "@EP"{pontso} ! @CL  
 | "[--][-patsa][+CL:mass][=mass; jelly-like.(soil)]" : "@EP"{patsa} ! @CL 
 | "[--][-nki][+CL:snake][=snake.sp.]" : "@EP"{nki} ! @CL 

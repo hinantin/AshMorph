@@ -172,7 +172,7 @@ define N=S=CL [
 ! chenteropa / =chentero -pa / =palm.tree.sp. -cl:plantain / EN: 'plantain.sp.'; ES: 'especie.de.plátano' 
 ! akapa / =akapa / =avocado / EN: 'avocado' 
 ! motiquiropa / motikiropa / =motikiro -pa / = -cl:plantain / ES: 'plátano.grueso.y.chico' 
-| "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : {pa} 
+| "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : {pa} ! @CL  
 | "[--][-paro][+CL:banana][=banana,plantain]" : {paro} 
 | "[--][-pavo][+CL:banana][=banana,plantain]" : {pavo} 
 ! caniritaqui / kaniritaki / =kaniri -taki / =yucca -cl:skin,peel / EN: 'yuca.skin'; ES: 'cáscara.de.yuca'  
