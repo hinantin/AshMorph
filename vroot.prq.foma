@@ -445,6 +445,8 @@ define VRootPRQin [
 ! word set:
 | "[=katsit][VRoot][=to.be.in.pain, to.feel.pain (ES: doler)]" : {katsit}
 ! 
+| "[=katsiy][VRoot][=to.fold.a.palm_leaf.toe (ES: doblar.la.hoja.de.la.palmera.para.lechar)]" : {katsiy}
+! 
 | "[=katsova][VRoot][=to.drip, to.leak.from.roof]" : {katsova}
 ! word set:
 | "[=katziy][VRoot][=to.stand; to.stand.guard; to.be.erect; to.stand.up]" : {katziy}
@@ -983,9 +985,11 @@ define VRootPRQin [
 ! 
 | "[=oya][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {oya}
 | "[=oyaa][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {oyaa}
-| "[=oiha][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {oiha}
 | "[=oyaakyaa][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {oyaakyaa}
 | "[=yaa][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {yaa}
+! 
+| "[=oiha][VRoot][=to.follow; to.follow.sb.; to.accompany.sb.]" : {oiha}
+| "[=oihampoiri][VRoot][=to.follow.the.tracks (ES: seguir.las.huellas)]" : {oihampoiri}
 ! 
 | "[=p][VRoot][=to.give (ES: dar)]" : {p}
 ! 
