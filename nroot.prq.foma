@@ -23,7 +23,8 @@ define NRootPRQin [
 | "[=apiwtxa][NRoot][=all.together; together]" : {apiwtxa} 
 # ---------------------------------------------------------------------
 # Vocative form
-| "[=aari+m.][NRoot][=brother (kin.of.a.female, fem.ego)]" : {aari} 
+| "[=aari+m.][NRoot][=brother (kin.of.a.female, fem.ego; ES: hermano.de.mujer)]" : {aari} 
+| "[=ari+m.][NRoot][=brother (kin.of.a.female, fem.ego; ES: hermano.de.mujer)]" : {ari} 
 ! 1st, 2nd, 3rd person
 | "[=hari+poss@ri][NRoot][=brother (kin.of.a.female, fem.ego)]" : {hari}
 # ---------------------------------------------------------------------
