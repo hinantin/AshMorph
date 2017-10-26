@@ -571,12 +571,12 @@ define NRootPRQin [
 | "[=sompo+inal.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {sompo} ! N@->V 
 | "[=hompo+inal.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {hompo}
 ! 
-| "[=ime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {ime}
-| "[=iime+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {iime}
-| "[=imi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {imi}
-| "[=iimi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {iimi}
-| "[=emi+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {emi}
-| "[=eme+m.+voc.][NRoot][=husband (kin.of.a.female)]" : {eme}
+| "[=ime+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {ime}
+| "[=iime+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {iime}
+| "[=imi+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {imi}
+| "[=iimi+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {iimi}
+| "[=emi+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {emi}
+| "[=eme+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {eme}
 ! 
 | "[=imoki][NRoot][=palm.grubs (ES: suri, humpa)]" : {imoki}
 ! 
@@ -614,6 +614,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 # Vocative form 
 | "[=ina+n.m.+inal.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ina} ! non-possesive form?
+| "[=ena+n.m.+inal.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ena}
 | "[=inaa+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {inaa}
 | "[=iina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {iina}
 ! 1st, 2nd, 3rd person 
