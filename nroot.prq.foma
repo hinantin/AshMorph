@@ -1327,9 +1327,9 @@ define NRootPRQin [
 ! 
 | "[=koka+n.m.+poss@ni.][NRoot][=coca (QUZ: kuka; sci.nm.: erythroxylon.sp.)]" : {koka}
 ! 
-| "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {koki}
-| "[=konki][NRoot][=father; father.in.law; uncle (kin.of.a.male)]" : {konki}
-| "[=konki+poss@ri.][NRoot][=father.in.law (kin.of.a.male)]" : {konki}
+| "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male, ES: suegro)]" : {koki}
+| "[=konki][NRoot][=father; father.in.law; uncle (kin.of.a.male, ES: suegro)]" : {konki}
+| "[=konki+poss@ri.][NRoot][=father.in.law (kin.of.a.male, ES: suegro)]" : {konki}
 ! 
 | "[=koko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {koko}
 | "[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {kooko}

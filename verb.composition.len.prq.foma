@@ -15,8 +15,8 @@ define V=S=LEN=noun [
 | "[--][=tseempeki][NRoot][=body; outer.frame; skeleton]" : {tseempeki} ! @VCMP 
 | "[--][=kameetsa][NRoot][=well]" : {kameetsa} ! @VCMP 
 | "[--][=kametsa][NRoot][=well, good]" : {kametsa} ! @VCMP 
-| "[--][=kentsi+n.m.+inal.][NRoot][=neck, nape]" : {kentsi} ! @VCMP 
-| "[--][=kintsi+n.m.+inal.][NRoot][=neck, nape]" : {kintsi} ! @VCMP 
+| "[--][=kentsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]" : {kentsi} ! @VCMP 
+| "[--][=kintsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]" : {kintsi} ! @VCMP 
 | "[--][=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
 | "[--][=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
 | "[--][=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
