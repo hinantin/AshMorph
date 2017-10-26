@@ -29,6 +29,9 @@ foreach (@words) {
     elsif (m/^\—*$/) { next; }
     elsif (m/\d{1,2}?/) { next; }
     else {
+=pod
+I am deting the hyphen - .
+=cut
         my $string = $_;
         $string = lc($string);
         $string =~ s/’/\'/ig;
