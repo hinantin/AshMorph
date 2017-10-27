@@ -703,7 +703,8 @@ define VRootPRQin [
 | "[=mahere][VRoot][=to.be.silent (ES: callar)]" : {mahere} 
 | "[=mairi][VRoot][=to.be.serious/solemn; to.be.silent (ES: callar, no.contestar/responder)]" : {mairi} 
 ! 
-| "[=maisant][VRoot][=to.forget]" : {maisant} 
+| "[=maisant][VRoot][=to.forget (ES: olvidar)]" : {maisant} 
+| "[=peako][VRoot][=to.forget (ES: olvidar)]" : {peako} 
 ! 
 | "[=mako][VRoot][=to.tire; to.rest; to.get.tired (ES: cansarse)]" : {mako}  
 | "[=mao][VRoot][=to.get.tired (ES: cansarse)]" : {mao} 
