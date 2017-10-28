@@ -59,6 +59,8 @@ define NRootPRQin [
 | "[=ayiini+n.m.][NRoot][=mother.in.law]" : {ayiini} !  
 | "[=ayiro+inal.][NRoot][=mother.in.law]" : {ayiro} ! +N +1SG 
 ! 
+| "[=anatzirori][NRoot][=raw (ES: crudo)]" : {anatzirori}
+! 
 | "[=anona+n.m.][NRoot][=sugar-apples (botany.nm.: annona.squamosa), fruit.tree (Spanish.loan)]" : {anona} 
 ! 
 | "[=antaviari][NRoot][=great/truthful/powerful/expert.shaman; healer.with.a.lot.of.experience]" : {antaviari} 
@@ -493,9 +495,9 @@ define NRootPRQin [
 ! 
 | "[=haachotzi][NRoot][=black-tailed.trogon (sci.nm.: trogon.melanurus)]" : {haachotzi}
 ! 
-| "[=haavari+m.][NRoot][=warm (prbly.liquid)]" : {haavari}
-| "[=saavaari+m.][NRoot][=warm (prbly.liquid)]" : {saavaari}
-| "[=saavaaro+n.m.][NRoot][=warm (prbly.liquid)]" : {saavaaro}
+| "[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]" : {haavari}
+| "[=saavaari+m.][NRoot][=warm, hot (prbly.liquid)]" : {saavaari}
+| "[=saavaaro+n.m.][NRoot][=warm, hot (prbly.liquid)]" : {saavaaro}
 ! 
 | "[=haye][NRoot][=ant.sp. (shirataco)]" : {haye}
 ! 
@@ -939,12 +941,12 @@ define NRootPRQin [
 ! 
 | "[=kachoncho][NRoot][=heron-like.large-beaked.long-legged.bird.sp., (totuyo, sci.nm.: ardea.cocoi)]" : {kachoncho}
 ! 
-| "[=kachori][NRoot][=sour (ES: agrio)]" : {kachori}
+| "[=kachori][NRoot][=sour, acid (ES: agrio)]" : {kachori}
 ! 
 | "[=kainka+n.m.][NRoot][=banana.sp.]" : {kainka}
 ! 
-| "[=katyori][NRoot][=salted]" : {katyori}
-| "[=katyokiri][NRoot][=salted]" : {katyokiri}
+| "[=katyori][NRoot][=salted, salty (ES: salado)]" : {katyori}
+| "[=katyokiri][NRoot][=salted, salty (ES: salado)]" : {katyokiri}
 ! 
 | "[=kahai][NRoot][=coffee.plant (sci.nm.: coffea.sp.)]" : {kahai}
 | "[=café][NRoot][=coffee]" : {kafe}
@@ -3352,6 +3354,11 @@ define NRootPRQin [
 | "[=tsamiri+m.][NRoot][=curassow.sp. (ES: paujil); razor-billed.curassow (ES: curaçao.de.pico.filudo; sci.nm.: crax.mitu, mitu.mitu)]" : {tsamiri}
 ! 
 | "[=tsamirimenta][NRoot][=curassow.crest.stone (historical.landmark)]" : {tsamirimenta}
+! 
+| "[=tampatsikari][NRoot][=straight (ES: derecho, recto)]" : {tampatsikari}
+| "[=tampatsika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatsika}
+| "[=tampatika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatika}
+| "[=tampatzika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatzika}
 ! 
 | "[=tsanaro+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanaro}
 | "[=tsanavo+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanavo}
