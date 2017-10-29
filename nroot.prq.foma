@@ -308,7 +308,7 @@ define NRootPRQin [
 | "[=chevaa][NRoot][=(river's).branch, distributary (ES: defluente)]" : {chevaa}
 | "[=chiva][NRoot][=(river's).branch, distributary (ES: defluente)]" : {chiva}
 ! 
-| "[=chevo+inal.][NRoot][=branch]" : {chevo}
+| "[=chevo+inal.][NRoot][=branch]" : {chevo}r
 ! 
 | "[=chiroti][NRoot][=small.yellow-with-black.bird.sp. (ES: paucarcillo)]" : {chiroti}
 ! 
@@ -1785,7 +1785,7 @@ define NRootPRQin [
 | "[=minkori][NRoot][=cloud]" : {minkori}
 | "[=menkori][NRoot][=cloud]" : {menkori}
 ! 
-| "[=minka+inal.][NRoot][=trunk]" : {minka}
+| "[=minka+inal.][NRoot][=trunk; stem]" : {minka}
 ! 
 | "[=miriti+m.][NRoot][=orphan (ES: huérfano)]" : {miriti}
 | "[=miritzi+m.][NRoot][=orphan (ES: huérfano)]" : {miritzi}
@@ -2460,6 +2460,8 @@ define NRootPRQin [
 | "[=tsitashike][NRoot][=plant.sp. (jaboncillo)]" : {tsitashike}
 ! 
 | "[=tsitita][NRoot][=legume.sp. (pallar, botany.id.: phaseolus.lunatus)]" : {tsitita}
+! 
+| "[=tsoaki][NRoot][=shoot, part.that.grows.up.from.the.ground.when.a.plant.starts.to.grow (ES: brote)]" : {tsoaki}
 ! 
 | "[=pavi+n.m.+inal.][NRoot][=stairs, bridge/ramp.formed.by.a.fallen_tree/stick]" : {pavi}
 ! 
