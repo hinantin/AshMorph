@@ -77,7 +77,7 @@ define NounToVerbPRQin [
 | "[=shitsa][NRoot][=vine; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]+vbz." : {shitsa} ! N@->V 
 | "[=vaNki][NRoot][=feather (ES: pluma); wing_feather]+vbz." : {vanki} ! @CMP N@->V 
 | "[=taki+n.m.+inal.][NRoot][=shell (ES: caparazón); peel; skin]+vbz." : {taki} ! N@->V 
-| "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)]+vbz." : {tomi} ! N@->V 
+| "[=tomi+m.+inal@tsi.][NRoot][=son (kin.of.fe/male)]+vbz." : {tomi} ! N@->V 
 | "[=tsantsa][NRoot][=long (in.length; ES: largo); big]+vbz." : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length; ES: largo)]+vbz." : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length; ES: largo)]+vbz." : {hantsa} ! N@->V @CMP
