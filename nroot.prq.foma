@@ -2018,6 +2018,8 @@ define NRootPRQin [
 # oventeni: flat grassy areas, typically exploited as pastures
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)]" : {oventeni} ! N@->V
 ! 
+| "[=pa][NRoot][=pod; sheath-like.leaf]" : {pa}
+! 
 | "[=pakitsa+m.][NRoot][=hawk.sp., sparrow.hawk.sp.]" : {pakitsa}
 ! 
 | "[=paretsa+n.m.+inal.][NRoot][=tree.root]" : {paretsa}
