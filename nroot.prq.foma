@@ -1785,7 +1785,7 @@ define NRootPRQin [
 | "[=minkori][NRoot][=cloud]" : {minkori}
 | "[=menkori][NRoot][=cloud]" : {menkori}
 ! 
-| "[=minka+inal.][NRoot][=trunk; stem]" : {minka}
+| "[=minka+inal.][NRoot][=trunk (ES: tronco); stem; sturdy.material/substance]" : {minka}
 ! 
 | "[=miriti+m.][NRoot][=orphan (ES: huérfano)]" : {miriti}
 | "[=miritzi+m.][NRoot][=orphan (ES: huérfano)]" : {miritzi}
@@ -2523,8 +2523,8 @@ define NRootPRQin [
 ! 
 | "[=ponke+m.][NRoot][=eel.sp.]" : {ponke}
 ! 
-| "[=ponkitzi+inal.][NRoot][=ground]" : {ponkitzi}
-| "[=ponkitzi+inal.][NRoot][=(tree).trunk]" : {ponkitzi} ! 
+| "[=ponkitzi+inal@n/tsi.][NRoot][=ground]" : {ponkitzi}
+| "[=ponkitzi+inal@n/tsi.][NRoot][=(tree).trunk (ES: tronco)]" : {ponkitzi} ! 
 | "[=ponkitzi][NRoot][=edge]" : {ponkitzi}
 ! 
 | "[=ponoro+m.][NRoot][=bird.sp.]" : {ponoro}
