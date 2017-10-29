@@ -1035,8 +1035,10 @@ define VRootPRQin [
 | "[=pasaka][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasaka}
 | "[=pasakaa][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasakaa}
 ! 
+| "[=pasavako][VRoot][=to.applaud, to.clap (ES: aplaudir)]" : {pasavako}
+! 
 | "[=pashik][VRoot][=to.cover (ES: cubrir, tapar)]" : {pashik}
-! | "[=pashika][VRoot][=to.cover]" : [{pashika}|{pashka}]
+| "[=pashika][VRoot][=to.cover (ES: cubrir, tapar)]" : {pashika}
 ! 
 | "[=pashivent][VRoot][=to.embarrass, to.be.embarrassed (ES: avergonzar(se)]" : {pashivent}
 ! 
