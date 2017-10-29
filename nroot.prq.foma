@@ -1895,8 +1895,8 @@ define NRootPRQin [
 | "[=neronto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {neronto}
 | "[=nironto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {nironto}
 ! 
-| "[=nihaa+n.m.+poss@ti.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP 
-| "[=niha+n.m.+poss@ti.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
+| "[=nihaa+n.m.+poss@ti/te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP 
+| "[=niha+n.m.+poss@ti/te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
 ! 
 | "[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nihateni}
 | "[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nihaateni}
