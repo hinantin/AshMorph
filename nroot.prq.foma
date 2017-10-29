@@ -3130,10 +3130,10 @@ define NRootPRQin [
 ! 
 | "[=taabato][NRoot][=calf]" : {taabato}
 ! back, bottom
-| "[=taapi+inal.][NRoot][=back (body.part); bottom]" : {taapi} ! @CMP
-| "[=tapi+inal.][NRoot][=back (body.part); bottom]" : {tapi} ! @CMP
-| "[=tapii+inal.][NRoot][=back (body.part); bottom]" : {tapii} ! @CMP
-| "[=taapii+inal.][NRoot][=back (body.part); bottom]" : {taapii} ! @CMP
+| "[=taapi+inal.][NRoot][=back (body.part); bottom; lower.side]" : {taapi} ! @CMP
+| "[=tapi+inal.][NRoot][=back (body.part); bottom; lower.side]" : {tapi} ! @CMP
+| "[=tapii+inal.][NRoot][=back (body.part); bottom; lower.side]" : {tapii} ! @CMP
+| "[=taapii+inal.][NRoot][=back (body.part); bottom; lower.side]" : {taapii} ! @CMP
 | "[=taapiiki+inal.][NRoot][=back]" : {taapiiki}
 ! 
 | "[=tanoki][NRoot][=suicide.tree.sp. (sci.nm.: thevetia.peruviana)]" : {tanoki}
