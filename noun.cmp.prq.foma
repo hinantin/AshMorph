@@ -12,8 +12,8 @@ define NRootCmpPRQin [
 | "[--][=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 | "[--][=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (sci.nm.: ara.ararauna; ES: guacamayo.verde); yellow.chested.macaw]" : {kasanto} ! @CMP 
 | "[--][=kishi][NRoot][=mountainous.grassland (ES: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {kishi} ! @CMP 
-| "[--][=nihaa+n.m.+poss@ti.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP 
-| "[--][=niha+n.m.+poss@ti.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
+| "[--][=nihaa+n.m.+poss@ti/te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP 
+| "[--][=niha+n.m.+poss@ti/te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
 | "[--][=pankaina+inal.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
 | "[--][=panko+n.m.+inal.][NRoot][=house (ES: casa)]" : {panko} ! @CMP
 | "[--][=pãko+n.m.+inal.][NRoot][=house (ES: casa)]" : {pãko} ! @CMP

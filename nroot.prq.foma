@@ -3287,10 +3287,10 @@ define NRootPRQin [
 | "[=tokori+poss@ti.][NRoot][=armadillo.sp.]" : {tokori}
 | "[=tyokori+poss@ti.][NRoot][=armadillo.sp.]" : {tyokori}
 ! 
-| "[=tomi+m.+inal.][NRoot][=son (kin.of.fe/male)]" : {tomi} ! N@->V 
-| "[=toomi+m.+inal.][NRoot][=son (kin.of.male)]" : {toomi}
-| "[=tyomi+m.+inal.][NRoot][=son (kin.of.male)]" : {tyomi}
-| "[=tiomi+m.+inal.][NRoot][=son (kin.of.male)]" : {tiomi}
+| "[=tomi+m.+inal@tsi.][NRoot][=son (kin.of.fe/male)]" : {tomi} ! N@->V 
+| "[=toomi+m.+inal@tsi.][NRoot][=son (kin.of.male)]" : {toomi}
+| "[=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.male)]" : {tyomi}
+| "[=tiomi+m.+inal@tsi.][NRoot][=son (kin.of.male)]" : {tiomi}
 ! 
 | "[=tyoviri+m.][NRoot][=insect.sp.; worm.sp.]" : {tyoviri}
 ! 
