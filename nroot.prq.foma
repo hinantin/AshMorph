@@ -1785,7 +1785,7 @@ define NRootPRQin [
 | "[=minkori][NRoot][=cloud]" : {minkori}
 | "[=menkori][NRoot][=cloud]" : {menkori}
 ! 
-| "[=minka+inal.][NRoot][=trunk (ES: tronco); stem; sturdy.material/substance]" : {minka}
+| "[=minka+inal@tsi.][NRoot][=trunk (ES: tronco); stem; sturdy.material/substance]" : {minka}
 ! 
 | "[=miriti+m.][NRoot][=orphan (ES: huérfano)]" : {miriti}
 | "[=miritzi+m.][NRoot][=orphan (ES: huérfano)]" : {miritzi}
@@ -1852,6 +1852,8 @@ define NRootPRQin [
 | "[=motinto+n.m.][NRoot][=pregnant]" : {motinto} ! motinto / =moti -nto / =stomach -adj.m.
 ! 
 | "[=nainaintzi][NRoot][=white-chinned.jacamar (sci.nm.: galbula.tombacca)]" : {nainaintzi}
+! 
+| "[=naki][NRoot][=interior.space (ES: espacio.interior, hueco)]" : {naki}
 ! 
 | "[=nana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]" : {nana}
 | "[=naana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]" : {naana}
