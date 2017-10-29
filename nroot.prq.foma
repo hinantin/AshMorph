@@ -891,8 +891,8 @@ define NRootPRQin [
 | "[=tsivitaroki+n.m.][NRoot][=corn.sp.]" : {tsivitaroki}
 | "[=tsivitaaki+n.m.][NRoot][=corn.sp.]" : {tsivitaaki}
 ! 
-| "[=tsivo+n.m.][NRoot][=box.made.out.of.split_cane (ES: maleta, caja)]" : {tsivo}
-| "[=tsivoo+n.m.][NRoot][=box.made.out.of.split_cane (ES: maleta, caja)]" : {tsivoo}
+| "[=tsivo+n.m.][NRoot][=box.made.out.of.split_cane (ES: maleta, caja.hecha.de.caña.brava)]" : {tsivo}
+| "[=tsivoo+n.m.][NRoot][=box.made.out.of.split_cane (ES: maleta, caja.hecha.de.caña.brava)]" : {tsivoo}
 ! 
 | "[=tsova+n.m.+inal.][NRoot][=bird's.beak; palm.tip]" : {tsova}
 ! 
@@ -1819,6 +1819,8 @@ define NRootPRQin [
 | "[=morinaki][NRoot][=castor-oil.plant.seed (its.leaves.are.used.to.kill.chicken_lice; ES: semilla.de.ricino; sc.nm.: ricinus.communis)]" : {morinaki}
 ! 
 | "[=morinashi][NRoot][=leaves.to.evaporate (ES: hojas.para.evaporar)]" : {morinashi}
+! 
+| "[=morinte][NRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte}
 ! 
 | "[=moo+n.m.+inal.][NRoot][=hole]" : {moo}
 | "[=moro+n.m.+inal.][NRoot][=hole]" : {moro} ! N@->V
