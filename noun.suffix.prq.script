@@ -1,13 +1,16 @@
 ! alienable possession?
 define N=S=poss [
 # animate / animado 
+# Added to trisyllabic roots 
   "[--][-te][Gen][+aln.poss.]" : {te} 
 | "[--][-ti][Gen][+aln.poss.]" : {ti} 
 ! 
 # inanimate / inanimado 
+# Added to mono and disyllabic roots 
 | "[--][-ni][Gen][+aln.poss.]" : {ni} 
 | "[--][-ne][Gen][+aln.poss.]" : {ne} 
 ! 
+# Added to artifacts, plant parts, and kin terms
 | "[--][-ri][Gen][+aln.poss.]" : {ri} 
 | "[--][-re][Gen][+aln.poss.]" : {re}
 ! 
