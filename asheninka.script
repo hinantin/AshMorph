@@ -174,6 +174,8 @@
       define PWLenitionRule3 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{a}] _ [{i}|{o}] ]; 
                                                                             # apinkatsarite (in our lexicon) -> a@PHONPROC@pinkatsarite -> a@PHONPROC@vinkatsarite -> avinkatsarite 
                                                                             # vatsapori (in our lexicon) -> vatsa@PHONPROC@pori -> vatsa@PHONPROC@vori -> vatsavori
+      define PWLenitionRule4 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{e}] _ [{i}|{o}] ]; 
+
       define KJLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || _ [{o}|{a}|{e}|{i}] ]; 
                                                                             # optional rule: noyokani, ikentsike  
                                                                             # nokimini (in our lexicon) -> no@PHONPROC@kimini -> no@PHONPROC@yimini -> noyimini
@@ -191,7 +193,7 @@
       define KLenitionRule5 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{o}] _ [{i}] ]; ! oitsoki -> o=kitsoki 
       define KLenitionRule6 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{a}] _ [{i}] ]; ! aitsoki -> a=kitsoki 
 
-      define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 
+      define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 .o. PWLenitionRule4 
  .o. KJLenitionRule1 
  .o. KLenitionRule2 
  .o. KLenitionRule3 
