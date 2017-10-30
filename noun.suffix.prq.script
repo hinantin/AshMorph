@@ -301,7 +301,7 @@ define N=S=CL [
 | "[--][-po][+CL:abandoned][=abandoned]" : {po} 
 #-----------------------------------------------
 ! nomaatsara / no- =maa -tsara / 1sg.poss- =clothes -cl:fabric / EN: 'my.old.dress, my.rag'; ES: 'mi.vestido.viejo, mi.trapo'
-| "[--][-tsara][+CL:fabric][=fabric]" : {tsara} 
+| "[--][-tsara][+CL:fabric][=fabric,clothes]" : {tsara} 
 | "[--][-tsaraa][+CL:fabric][=fabric]" : {tsaraa} 
 #-----------------------------------------------
 ! nijateni / nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'creek; ravine'; ES: 'riachuelo; quebrada' 

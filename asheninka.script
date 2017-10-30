@@ -174,7 +174,7 @@
       define PWLenitionRule3 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{a}] _ [{i}|{o}] ]; 
                                                                             # apinkatsarite (in our lexicon) -> a@PHONPROC@pinkatsarite -> a@PHONPROC@vinkatsarite -> avinkatsarite 
                                                                             # vatsapori (in our lexicon) -> vatsa@PHONPROC@pori -> vatsa@PHONPROC@vori -> vatsavori
-      define PWLenitionRule4 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{e}] _ [{i}|{o}] ]; 
+      define PWLenitionRule4 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{e}] _ [{i}|{o}|{a}] ]; 
 
       define KJLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || _ [{o}|{a}|{e}|{i}] ]; 
                                                                             # optional rule: noyokani, ikentsike  

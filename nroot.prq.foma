@@ -2542,7 +2542,7 @@ define NRootPRQin [
 ! 
 | "[=porita][NRoot][=small.hen.sp.]" : {porita}
 ! 
-| "[=poro][NRoot][=face]" : {poro}
+| "[=poro][NRoot][=face]" : {poro} ! @CMP 
 # pootsi / =poo -tsi / =face -nposs / EN: 'face', ES: 'cara' 
 | "[=poo+inal.][NRoot][=face]" : {poo}
 | "[=voro][NRoot][=face]" : {voro} ! @VCMP 
