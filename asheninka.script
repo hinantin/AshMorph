@@ -244,6 +244,9 @@
 #      source pronoun.prq.foma
       define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
       define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootQUin|NumeralPRQin];
+      ####################################
+      #     Compound nouns               #
+      ####################################
       # the lenition process is found at the root-root boundary in noun compounds 
       # vatsavori / 'vatsa-pori' / 'meat-muscle' 
       # caavovaniri~kaavovaniri / 'kaavo-kaniri' / ES: 'caña-yuca', EN: 'sugar.cane-yucca' 
