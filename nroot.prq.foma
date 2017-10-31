@@ -872,8 +872,8 @@ define NRootPRQin [
 | "[=tevaa+n.m.+inal.][NRoot][=branch]" : {tevaa}
 | "[=tivaa+n.m.+inal.][NRoot][=branch]" : {tivaa}
 ! 
-| "[=tsempeki][NRoot][=body; outer.frame; skeleton]" : {tsempeki} ! @VCMP 
-| "[=tseempeki][NRoot][=body; outer.frame; skeleton]" : {tseempeki} ! @VCMP 
+| "[=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tsempeki} ! @VCMP 
+| "[=tseempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tseempeki} ! @VCMP 
 ! 
 | "[=tserepito][NRoot][=kingfisher.sp., bird.sp. (ES: martin.pescador)]" : {tserepito} 
 ! 

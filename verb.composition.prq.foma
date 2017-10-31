@@ -10,8 +10,8 @@ define V=S=noun [
 | "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : "@EP"{atsiri} ! N@->V @VCMP
 | "[--][=chee+m.+inal.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : "@EP"{chee} ! @VCMP 
 | "[--][=hani][NRoot][=little.child]" : "@EP"{hani} ! @VCMP 
-| "[--][=henka][NRoot][=voice (ES: voz); odor (ES: olor)]" : "@EP"{henka} ! @VCMP 
-| "[--][=enka][NRoot][=voice (ES: voz); odor (ES: olor)]" : "@EP"{enka} ! @VCMP 
+| "[--][=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{henka} ! @VCMP 
+| "[--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{enka} ! @VCMP 
 | "[--][=tsempeki][NRoot][=body; outer.frame; skeleton]" : "@EP"{tsempeki} ! @VCMP 
 | "[--][=tseempeki][NRoot][=body; outer.frame; skeleton]" : "@EP"{tseempeki} ! @VCMP 
 | "[--][=kamari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : "@EP"{kamari} ! @VCMP 
