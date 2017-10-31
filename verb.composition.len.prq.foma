@@ -8,7 +8,7 @@ define V=S=LEN=noun [
 | "[--][=atziri+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V @VCMP
 | "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
 | "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
-| "[--][=chee+m.+inal.][NRoot][=horn (ES: cuerno); thorn, spiny.thorn]" : {chee} ! @VCMP 
+| "[--][=chee+m.+inal.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : {chee} ! @VCMP 
 | "[--][=hani][NRoot][=little.child]" : {hani} ! @VCMP 
 | "[--][=henka][NRoot][=voice (ES: voz); odor (ES: olor)]" : {henka} ! @VCMP 
 | "[--][=enka][NRoot][=voice (ES: voz); odor (ES: olor)]" : {enka} ! @VCMP 
