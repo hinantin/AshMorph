@@ -545,6 +545,7 @@ define N=S=NMZ [
   "[--][-nka+quality][+NMZ]" : [{nka}]
 | "[--][-inka+quality][+NMZ]" : [{inka}]
 ! 
+# apakotaro / =apa -kota -ro / =one -cl:piece -nmz / EN: 'one.piece'  
 | "[--][-ri+m.][+NMZ]" : [{ri}]
 | "[--][-ro+n.m.][+NMZ]" : [{ro}]
 ];
