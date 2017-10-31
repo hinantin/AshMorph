@@ -12,8 +12,8 @@ define V=S=noun [
 | "[--][=hani][NRoot][=little.child]" : "@EP"{hani} ! @VCMP 
 | "[--][=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{henka} ! @VCMP 
 | "[--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{enka} ! @VCMP 
-| "[--][=tsempeki][NRoot][=body; outer.frame; skeleton]" : "@EP"{tsempeki} ! @VCMP 
-| "[--][=tseempeki][NRoot][=body; outer.frame; skeleton]" : "@EP"{tseempeki} ! @VCMP 
+| "[--][=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tsempeki} ! @VCMP 
+| "[--][=tseempeki][NRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tseempeki} ! @VCMP 
 | "[--][=kamari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : "@EP"{kamari} ! @VCMP 
 | "[--][=kameetsa][NRoot][=well]" : "@EP"{kameetsa} ! @VCMP 
 | "[--][=kametsa][NRoot][=well, good]" : "@EP"{kametsa} ! @VCMP 
