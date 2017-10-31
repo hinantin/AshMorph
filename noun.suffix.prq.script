@@ -156,7 +156,7 @@ define N=S=CL [
 | "[--][-ki][+CL:S.R.H][=small,round;hard]" : {ki} ! @CL 
 | "[--][-ke][+CL:S.R.H][=small,round;hard]" : {ke} ! sheyaque @CL 
 ! 
-| "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} 
+| "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : {kii} ! @CL 
 ! shintsitsaro / =shintsi -tsa -ro+n.m. / =to.be.strong -cl:long.flexible.thin -nmz / EN: 'exclamation.mark'; ES: 'signo.de.admiración'
 ! nairotsa / =nairo -tsa / =nylon -cl:long.flexible.thin / EN: 'rope'; ES: 'cuerda' 
 | "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana; tree_bark; curvilinear]" : {tsa} ! @CL 

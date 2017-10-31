@@ -9,6 +9,7 @@ define V=S=CL [
 | "[--][-pooki][+CL:quantity][=bunch,group]" : "@EP"{pooki} ! @CL 
 | "[--][-ki][+CL:S.R.H][=small,round;hard]" : "@EP"{ki} ! @CL 
 | "[--][-ke][+CL:S.R.H][=small,round;hard]" : "@EP"{ke} ! sheyaque @CL 
+| "[--][-kii][+CL:long,thin.branch][=long,thin branch]" : "@EP"{kii} ! @CL 
 | "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana; tree_bark; curvilinear]" : "@EP"{tsa} ! @CL 
 | "[--][-tsantsa][+CL:long][=long (ES: largo)]" : "@EP"{tsantsa} ! @CL 
 | "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : "@EP"{pa} ! @CL  
