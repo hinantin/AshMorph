@@ -509,8 +509,8 @@ define NRootPRQin [
 | "[=sankari+n.m.+inal.][NRoot][=smell]" : {sankari}
 ! 
 # kimojenkaro / kimohenkaro / =kimo -henka -ro / ES: 'altavoz'  
-| "[=henka][NRoot][=voice (ES: voz); odor (ES: olor)]" : {henka} ! @VCMP 
-| "[=enka][NRoot][=voice (ES: voz); odor (ES: olor)]" : {enka} ! @VCMP 
+| "[=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {henka} ! @VCMP 
+| "[=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {enka} ! @VCMP 
 ! 
 | "[=henoki][NRoot][=top (ES: arriba, alto); sky]" : {henoki}
 | "[=henokê][NRoot][=top (ES: arriba, alto)]" : {henokê}
