@@ -207,4 +207,7 @@ define ConnRootPRQ01in [
 | "[=ikanta][ConnRoot][=in.the.meantime]" : {ikanta}
 ! 
 | "[=tekira][ConnRoot][=before]" : {tekira}
+! 
+| "[=ovakera][ConnRoot][=CONN (EN: when)]" : {ovakera}
+| "[=ovakira][ConnRoot][=CONN (EN: when)]" : {ovakira}
 ];
