@@ -2539,6 +2539,7 @@ define NRootPRQin [
 | "[=porenti][NRoot][=firefly]" : {porenti}
 ! 
 | "[=pori+n.m.+inal.][NRoot][=leg; thigh]" : {pori} ! @VCMP 
+| "[=vori+n.m.+inal.][NRoot][=leg; thigh]" : {vori} ! @VCMP 
 ! 
 | "[=porita][NRoot][=small.hen.sp.]" : {porita}
 ! 
@@ -2897,7 +2898,7 @@ define NRootPRQin [
 ! 
 | "[=sheito][NRoot][=intestines; gizzard (ES: molleja)]" : {sheito}
 ! 
-| "[=shempa+n.m.+inal.][NRoot][=shoulder (ES: hombro)]" : {shempa}
+| "[=shempa+n.m.+inal.][NRoot][=shoulder (ES: hombro)]" : {shempa} ! @VCMP 
 | "[=sempa+n.m.+inal.][NRoot][=shoulder (ES: hombro)]" : {sempa}
 ! 
 | "[=sheno+n.m.+inal.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)]" : {sheno}

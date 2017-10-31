@@ -1547,8 +1547,8 @@ define VRootPRQin [
 ! 
 | "[=tsirik][VRoot][=to.attach]" : {tsirik}
 ! 
-| "[=tsireni][VRoot][=to.get.dark]" : {tsireni} 
-| "[=tsirini][VRoot][=to.get.dark]" : {tsirini} 
+| "[=tsireni][VRoot][=to.get.dark; to.be.dark]" : {tsireni} 
+| "[=tsirini][VRoot][=to.get.dark; to.be.dark]" : {tsirini} 
 ! 
 | "[=tsiteni][VRoot][=to.get.dark]" : {tsiteni}
 ! 
