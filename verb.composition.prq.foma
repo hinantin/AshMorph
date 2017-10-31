@@ -1,5 +1,5 @@
 # -----------------
-# Verb-noun composition 
+# Verb-noun composition / Noun incorporation 
 # -----------------
 define V=S=noun [ 
   "[--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : "@EP"{ani} ! N@->V @VCMP 
