@@ -1230,6 +1230,9 @@ define NRootPRQin [
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
 | "[=kipatsite][NRoot][=territory (ES: territorio)]" : {kipatsite}
 ! 
+| "[=kipatsisatzi+m.][NRoot][=underground.dweller]" : {kipatsisatzi}
+| "[=kipatsisato+n.m.][NRoot][=underground.dweller]" : {kipatsisato}
+! 
 | "[=oparai][NRoot][=countryside (ES: campo); beach (playa)]" : {oparai}
 # ---------------------------------------------------------------------------
 ! 
