@@ -388,9 +388,12 @@ define V=S=ADJ [
 ! tsameeyaanti / =tsamee -yaanti / =to.cultivate -yaanti+m.+capable / EN: 'planter'; ES: 'cultivador' 
 | "[--][-yaanti+m.+capable][NMZ][+ADJ]" : "@EP"[{yaanti}] ! only 1 ocurrence in corpus 
 | "[--][-rianti+m.+capable][NMZ][+ADJ]" : "@EP"[{rianti}] 
+| "[--][-riantzi+m.+capable][NMZ][+ADJ]" : "@EP"[{riantzi}] 
 | "[--][-reanti+m.+capable][NMZ][+ADJ]" : "@EP"[{reanti}] 
+! 
 | "[--][-ryaanto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{ryaanto}] 
 | "[--][-ryanto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{ryanto}] 
+| "[--][-rianto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{rianto}] 
 ];
       
 # --------Sociative-Causative ----------
