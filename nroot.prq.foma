@@ -2398,8 +2398,9 @@ define NRootPRQin [
 ! 
 | "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
 ! 
-| "[=pinkatsari+voc.+poss@te.][NRoot][=chief; regional.leader]" : {pinkatsari}
-| "[=pinkatsare+voc.+poss@te.][NRoot][=chief; regional.leader]" : {pinkatsare}
+| "[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief; regional.leader]" : {pinkatsari}
+| "[=pinkatsare+m.+voc.+poss@te.][NRoot][=chief; regional.leader]" : {pinkatsare}
+| "[=pinkatsaro+n.m.+voc.+poss@te.][NRoot][=chief]" : {pinkatsaro}
 ! 
 | "[=pira+m.+inal.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría)]" : {pira} ! @CMP 
 ! 
@@ -2918,6 +2919,7 @@ define NRootPRQin [
 | "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiyari}
 | "[=seripigari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {seripigari}
 ! 
+| "[=sheripiaro+n.m.+healer][NRoot][=female.shaman]" : {sheripiaro}
 | "[=sheripiavo+n.m.+healer][NRoot][=wise.woman (ES: mujer.sabia)]" : {sheripiavo}
 ! 
 | "[=sherivetzi][NRoot][=gree-and-rufous.kingfisher (sci.nm.: chloroceryle.inda)]" : {sherivetzi}
@@ -2954,6 +2956,8 @@ define NRootPRQin [
 | "[=shimampiki][NRoot][=granadilla.sp. (ES: granadilla; sci.nm.: passiflora.sp.)]" : {shimampiki}
 ! 
 | "[=shimashiri+n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum)]" : {shimashiri}
+! 
+| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shi}
 ! 
 | "[=shimiri+inal.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
 | "[=shimirinchi][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimirinchi} ! misspelled?
