@@ -35,10 +35,10 @@ define PrnPersPRQin [
 ! 
 # ------------------------------------------------ 
 # iri 
-| "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iri}
+| "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)]" : {iri}
 ! 
-| "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he][--][-ka+proximal][Adv][+DEM]" : {irika}
-| "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he][--][-nta+distal][Adv][+DEM]" : {irinta}
+| "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
+| "[=iri+cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)][--][-nta+distal][Adv][+DEM]" : {irinta}
 ! 
 | "[=iriro+cont.d.top.][PrnPers][+3SG.m.][=he]" : {iriro}
 | "[=irio+cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)]" : {irio}
