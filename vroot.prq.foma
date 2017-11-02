@@ -836,6 +836,8 @@ define VRootPRQin [
 | "[=n][VRoot][=to.be]" : {n}
 | "[=na][VRoot][=to.be]" : {na}
 ! 
+| "[=na][VRoot][=to.fit]" : {na} ! +Sa 
+! 
 | "[=naa][VRoot][=to.chew]" : {naa}
 | "[=noha][VRoot][=to.chew]" : {noha}
 | "[=nashe][VRoot][=to.chew]" : {nashe}
@@ -1161,6 +1163,8 @@ define VRootPRQin [
 | "[=amorek][VRoot][=to.shine (ES: brillar)]" : {amorek}
 | "[=porery][VRoot][=to.shine (ES: brillar)]" : {porery}
 | "[=poriry][VRoot][=to.shine (ES: brillar)]" : {poriry}
+! 
+| "[=porok][VRoot][=to.break.into.small.pieces]" : {porok}
 ! 
 | "[=pos][VRoot][=to.hit, to.beat, to.crash]" : {pos}
 | "[=posh][VRoot][=to.hit]" : {posh}
