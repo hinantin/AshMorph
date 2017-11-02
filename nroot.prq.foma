@@ -2963,7 +2963,7 @@ define NRootPRQin [
 | "[=shimariantzi+m.][NRoot][=fisherman (ES: pescador)]" : {shimariantzi}
 | "[=shimarianto+n.m.][NRoot][=fisherman (ES: pescadora)]" : {shimarianto}
 ! 
-| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shi}
+!| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shi}
 ! 
 | "[=shimiri+inal.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
 | "[=shimirinchi][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimirinchi} ! misspelled?
@@ -3101,7 +3101,7 @@ define NRootPRQin [
 | "[=shitovi+n.m.][NRoot][=edible.mushroom (ES: hongo)]" : {shitovi}
 | "[=shitoovi+n.m.][NRoot][=edible.mushroom (ES: hongo)]" : {shitoovi}
 ! 
-| "[=shitsa][NRoot][=vine; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]" : {shitsa} ! N@->V 
+| "[=shitsa][NRoot][=vine; string.like; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]" : {shitsa} ! N@->V 
 ! 
 | "[=shitsane+m.+inal.][NRoot][=pinworm, intestinal.worm (ES: lombríz.intestinal)]" : {shitsane}
 | "[=shitsani+m.+inal.][NRoot][=pinworm, intestinal.worm (ES: lombríz.intestinal)]" : {shitsani}
