@@ -29,7 +29,7 @@ define PrnPersPRQin [
 # eroka 
 | "[=eroka+cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {eroka}
 | "[=eeroka+cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
-| "[=iiroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
+| "[=iiroka+cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
 ! 
 | "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)][--][-paeni][Num][+PL]::[=you (ES: Ustedes)]" : {erokapaeni}
 ! 

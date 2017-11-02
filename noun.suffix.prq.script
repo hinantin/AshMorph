@@ -145,8 +145,9 @@ define N=S=CL [
 # mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stone.pile'; ES: 'pedregal'  
 # -poroki: acne; coagulated.blood.drops; sand.particles
 #          assortment: a collection of different things or of different types of the same thing.
-| "[--][-poroki][+CL:quantity][=bunch,group; crumbs,particles]" : {poroki} ! @CL 
+| "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} ! @CL 
 | "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} ! @CL 
+| "[--][-poroki][+CL:assortment][=crumbs,particles]" : {poroki} 
 # 
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
 
