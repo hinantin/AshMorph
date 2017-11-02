@@ -293,6 +293,8 @@ define N=S=CL [
 | "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} 
 | "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
 | "[--][-peta][+CL:old.devalued][=old.devalued]" : {peta} 
+! 
+| "[--][-shiteki][+CL:devalued][=devalued]" : {shiteki} 
 #-----------------------------------------------
 | "[--][-pini][+CL:linden][=linden, tree.sp. (ESP: tilo)]" : {pini} 
 #-----------------------------------------------
