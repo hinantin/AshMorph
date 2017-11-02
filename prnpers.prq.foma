@@ -27,8 +27,8 @@ define PrnPersPRQin [
 | "[=oora][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {oora}
 | "[=ora][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {orahei}
 # eroka 
-| "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eroka}
-| "[=eeroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
+| "[=eroka+cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {eroka}
+| "[=eeroka+cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
 | "[=iiroka][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
 ! 
 | "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)][--][-paeni][Num][+PL]::[=you (ES: Ustedes)]" : {erokapaeni}
