@@ -294,7 +294,8 @@ define N=S=CL [
 | "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
 | "[--][-peta][+CL:old.devalued][=old.devalued]" : {peta} 
 ! 
-| "[--][-shiteki][+CL:devalued][=devalued]" : {shiteki} 
+! maatsarantsishiteki / =maatsara -ntsi -shiteki / =rug -nposs -cl:devalued / ES: 'viejos'  
+| "[--][-shiteki][+CL:devalued][=devalued;rag-like;useless]" : {shiteki} 
 #-----------------------------------------------
 | "[--][-pini][+CL:linden][=linden, tree.sp. (ESP: tilo)]" : {pini} 
 #-----------------------------------------------
