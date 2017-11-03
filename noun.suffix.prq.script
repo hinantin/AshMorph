@@ -147,7 +147,7 @@ define N=S=CL [
 #          assortment: a collection of different things or of different types of the same thing.
 | "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} ! @CL 
 | "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} ! @CL 
-| "[--][-poroki][+CL:assortment][=crumbs,particles]" : {poroki} 
+| "[--][-poroki][+CL:assortment][=crumbs,particles]" : {poroki} ! @CL 
 # 
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
 
@@ -167,10 +167,10 @@ define N=S=CL [
 # --------------------------------------------------------------------------------
 ! =antyaro-tsantsa ES: 'alargado', EN: ; =ari-tsantsa ES: 'muy largo'. EN: ; V: =kimo-tsantsa ES: 'muy largo, largo', EN: ; 
 ! V: =monkara-tsantsa-ri ES: 'wincha', EN: ; =antyari-tsantsa ES: alto EN: 
-| "[--][-tsantsa][+CL:long][=long (ES: largo)]" : {tsantsa} ! @CL 
+| "[--][-tsantsa][+CL:long][=long (ES: largo);length]" : {tsantsa} ! @CL 
 ! santsari/ro/vo
-| "[--][-santsa][+CL:long][=long (ES: largo)]" : {santsa} 
-| "[--][-hantsa][+CL:long][=long (ES: largo)]" : {hantsa} ! alto???
+| "[--][-santsa][+CL:long][=long (ES: largo);length]" : {santsa} 
+| "[--][-hantsa][+CL:long][=long (ES: largo);length]" : {hantsa} ! alto???
 # --------------------------------------------------------------------------------
 ! .. 
 | "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi}  # chakopi 'arrow'

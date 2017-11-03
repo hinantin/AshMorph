@@ -7,6 +7,7 @@ define V=S=CL [
 | "[--][-pankaina][+CL:bare,flat][=bare, flat]" : "@EP"{pankaina} ! @CL  
 | "[--][-poroki][+CL:quantity][=bunch,group]" : "@EP"{poroki} ! @CL 
 | "[--][-pooki][+CL:quantity][=bunch,group]" : "@EP"{pooki} ! @CL 
+| "[--][-poroki][+CL:assortment][=crumbs,particles]" : "@EP"{poroki} ! @CL 
 | "[--][-ki][+CL:S.R.H][=small,round;hard]" : "@EP"{ki} ! @CL 
 | "[--][-ke][+CL:S.R.H][=small,round;hard]" : "@EP"{ke} ! sheyaque @CL 
 | "[--][-kii][+CL:long,thin.branch][=long,thin branch; stick.like]" : "@EP"{kii} ! @CL 
