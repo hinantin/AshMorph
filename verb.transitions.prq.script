@@ -58,6 +58,7 @@ define S [
 | V=S=noun ("@PHONPROC@"V=S=LEN=noun)                     (V=S=DIR) (V=S=REGR) (V=S=REAL) 
 ! o-kant-a-pankaina-aty-a 
 |                                          (V=S=CL)  (V=S=PROG) (V=S=IRR) 
+|                                          (V=S=CL)  (V=S=CAUSSOC) (V=S=DIST) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 ! o-kant-a-pontso-t-ap-ak-a 
 |                                          (V=S=CL)  (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] 
 |                                          (V=S=CL)  (V=S=APPLINST) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
