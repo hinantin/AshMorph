@@ -410,6 +410,8 @@ define N=S=CL [
 ! chekopikaraki / =chekopi -karaki /  
 ! 
 | "[--][-karaki][+CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : {karaki} ! @CL 
+! 
+| "[--][-sama][+CL:unit][=unit.of.sth.]" : {sama}
 #-----------------------------------------------
 | "[--][-ite][+CL:anim.PL][=animate,plural]" : {ite} !  -ite 'animate.classifier' \cite[p.93]{aikhenvald:neg:14} 
 #-----------------------------------------------
