@@ -289,6 +289,7 @@ define N=S=CL [
 #-----------------------------------------------
 | "[--][-shontyoki][+CL:oval,grain-like][=oval, grain-like]" : {shontyoki} 
 # ----------------------------------------------
+! 
 ! kotsiropeta / =kotsiro -peta / =machete -cl / ES: 'machete.viejo', EN: 'old.machete'  
 | "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} 
 | "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
@@ -419,6 +420,8 @@ define N=S=CL [
 | "[--][-pata][+CL:long.tool][=long.tool]" : {pata} 
 ! 
 | "[--][-morinte][+CL:oval-shaped.convexity][=oval-shaped.convexity]" : {morinte} 
+! 
+| "[--][-kamara][+CL:cinnamon.color][=cinnamon.color]" : {kamara} 
 ];
       
 define N=S=EXCL [
