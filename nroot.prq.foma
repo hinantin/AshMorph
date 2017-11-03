@@ -973,6 +973,7 @@ define NRootPRQin [
 ! 
 | "[=kamantzi][NRoot][=black-streaked.puffbird (sci.nm.: malacoptila.fuivogularis)]" : {kamantzi}
 ! 
+! kamanitaantsi / =kam -a -ni -t -antsi / =to.die -ep -? -ep -inf / EN: 'death'  
 | "[=kamanitaantsi][NRoot][=death]" : {kamanitaantsi}
 ! 
 | "[=kamara+color][NRoot][=cinnamon.color]" : {kamara}
@@ -1831,7 +1832,7 @@ define NRootPRQin [
 | "[=morinte][NRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
 ! 
 | "[=moo+n.m.+inal.][NRoot][=hole]" : {moo}
-| "[=moro+n.m.+inal.][NRoot][=hole]" : {moro} ! N@->V
+| "[=moro+n.m.+inal.][NRoot][=hole]" : {moro} ! N@->V @CMP 
 | "[=omoro][NRoot][=hole]" : {omoro}
 | "[=omoo][NRoot][=hole]" : {omoo}
 | "[=omo][NRoot][=hole]" : {omo}

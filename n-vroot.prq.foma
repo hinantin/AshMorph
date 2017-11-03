@@ -55,7 +55,7 @@ define NounToVerbPRQin [
 | "[=minkoshi+n.m.+inal.][NRoot][=bird.nest]+vbz." : {minkoshi} ! N@->V
 | "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {menko} ! N@->V @VCMP 
 | "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {minko} ! N@->V @VCMP 
-| "[=moro+n.m.+inal.][NRoot][=hole]+vbz." : {moro} ! N@->V
+| "[=moro+n.m.+inal.][NRoot][=hole]+vbz." : {moro} ! N@->V @CMP 
 | "[=motya][NRoot][=stomach, belly]+vbz." : {motya} ! N@->V
 | "[=moti+inal.][NRoot][=stomach, belly]+vbz." : {moti} ! N@->V 
 | "[=oorya][NRoot][=sun]+vbz." : {oorya} ! N@->V
