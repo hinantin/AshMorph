@@ -109,7 +109,9 @@ define IdeoPRQin [
 ! 
 | "[=eeee+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eeee} 
 ! 
-| "[=hmmm+redup.word+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {hmmm} 
+| "[=hmmm+redup.word+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : [{jmmm}|{hmmm}] 
+! 
+| "[=hmmm][Ideo][=onomatope.mimicking.the.jaguar.roar]" : [{jmmm}|{hmmm}]
 ! 
 | "[=ho+redup.word+whistle.lang.][IdeoCJO][=sound.of.wings.flying; sound.of.sth.that.comes.flying]" : {ho} 
 ! 
