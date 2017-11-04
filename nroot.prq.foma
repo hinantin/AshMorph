@@ -1643,7 +1643,7 @@ define NRootPRQin [
 ! 
 | "[=matsi+n.m.][NRoot][=plant.sp.; edible.tuber.sp. (ES: pituca)]" : {matsi}
 ! 
-| "[=matsi+m.][NRoot][=(human).witch]" : {matsi} ! N@->V 
+| "[=matsi+m.][NRoot][=(human).witch; sorcerer]" : {matsi} ! N@->V 
 | "[=matsishi+n.m.][NRoot][=leaf.against.witchcraft]" : {matsishi}
 ! 
 | "[=matsi+m.][NRoot][=insect.sp.]" : {matsi} 
@@ -3274,7 +3274,7 @@ define NRootPRQin [
 | "[=tiroti+n.m.][NRoot][=palm.tree.sp.with.black.thorns (ES: huicungo; sci.nm.: astrocaryum.murumuru)]" : {tiroti}
 | "[=tzirootzi+n.m.][NRoot][=palm.tree.sp. (ES: huicungo; sci.nm.: astrocaryum.murumuru)]" : {tzirootzi}
 ! 
-| "[=tziso][NRoot][=greater.yellow-headed.vulture (sci.nm.: cathartes.melambrotus)]" : {tziso}
+| "[=tziso][NRoot][=greater.yellow-headed.vulture (sci.nm.: cathartes.melambrotus); common.vulture]" : {tziso}
 ! 
 | "[=tzisoniro][NRoot][=falcon.sp., black.caracara (sci.nm.: daptrius.ater)]" : {tzisoniro}
 ! 
