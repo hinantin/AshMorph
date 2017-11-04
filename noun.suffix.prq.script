@@ -414,6 +414,7 @@ define N=S=CL [
 | "[--][-sama][+CL:unit][=unit.of.sth.]" : {sama}
 #-----------------------------------------------
 | "[--][-ite][+CL:anim.PL][=animate,plural]" : {ite} !  -ite 'animate.classifier' \cite[p.93]{aikhenvald:neg:14} 
+| "[--][-ite][+CL:anim.PL][=animate,plural]" : {te}
 #-----------------------------------------------
 ! kamonapata / =kamona -pata / =pona-palm.tree.sp. -cl:long.tool / ES: 'removedor.de.tierra.hecho.de.pona.dura'  
 ! quiripata / kiripata / =kiri -pata / =pifayo-palm.tree.sp. -cl:long.tool / ES: 'pedazo.de.pifayo.usado.para.tejer'  
@@ -487,6 +488,7 @@ define N=S=AUG [
 # keshiisatziite / =keshii -satzi-ite / =mountainous_grassland -cl:provenance -aug / EN: 'big.mountainous_grasslander', ES: 'pajonalino'  
 # antearoite / =antearo -ite / =big -aug / EN: 'very.big', ES: 'muy.grande'  
 | "[--][-ite][+AUG]" : [{ite}] 
+| "[--][-ite][+AUG]" : [{te}] 
 # ishaninkaperori / i- =shani -nka -pero -ri / 3m.poss- =to.be.of.the.same.group -nmz -aug -rel / EN: 'his.true.mate', ES: 'su.verdadero.amigo'  
 # is pero more a verbal augmentive suffix ??? 
 | "[--][-pero][+AUG]" : [{pero}]
