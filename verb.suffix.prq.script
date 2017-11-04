@@ -288,7 +288,7 @@ define V=S=Q [
 ];
       
 define V=S=APPL [
-  "[--][-ako][+APPL][=with.reference.to]" : "@EP"[{ako}]
+  "[--][-ako][+APPL][=with.reference.to.sth.; about.sth.]" : "@EP"[{ako}]
 ];
       
 define V=S=ABS [
