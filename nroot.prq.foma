@@ -1070,8 +1070,10 @@ define NRootPRQin [
 # kainipirotsa: vine.sp.used.in.the.preparation.of.an.anti-inflammatory.medicine; the.cure/medicine.is.made.from.the.bark.peeled.from.the.vine-and-applied.to.the.wound 
 | "[=kainipirotsa+n.m.][NRoot][=vine.sp. (ES: bejuco.para.las.fracturas, EN: vine)]" : {kainipirotsa}
 ! 
+| "[=kaento][NRoot][=tuber.sp. (it.grows.on.river/stream.banks; ES: sp.de.tubérculo)]" : {kaento}
+! 
 | "[=karento+n.m.][NRoot][=liana.sp. (ES: bejuco, madreselva)]" : {karento}
-| "[=kainto+n.m.][NRoot][=liana.sp. (ES: bejuco, madreselva)]" : {kainto}
+| "[=kainto+n.m.][NRoot][=liana.sp. (ES: bejuco, madreselva); herb.sp.]" : {kainto}
 ! 
 | "[=karentsare+inal.][NRoot][=phlegm (ES: flema)]" : {karentsare}
 ! 
@@ -2641,8 +2643,9 @@ define NRootPRQin [
 | "[=samampo][NRoot][=ash (ES: ceniza); grey, ashen, having.colour.of.smoke/ashes]" : {samampo}
 | "[=hamampo][NRoot][=ash (ES: ceniza); grey, ashen, having.colour.of.smoke/ashes]" : {hamampo}
 ! 
-| "[=samanto][NRoot][=UNKNOWN.WORD]" : {samanto}
-| "[=samantoshi][NRoot][=rotten.leaf; dried.tree_leaf.deposited.inside.water]" : {samantoshi}
+| "[=samanto][NRoot][=UNKNOWN.WORD]" : {samanto} 
+# ES: 'hojas secas caidas de los árboles depositadas dentro del agua, elementos que el dueño del agua utiliza para dañar a las personas' 
+| "[=samantoshi][NRoot][=rotten.leaf; dried.tree_leaf.deposited.inside.water]" : {samantoshi} 
 ! 
 # kanirisama / [=kaniri =sama]+n.m. / =yucca =medicinal.plant / EN: 'yucca-like.medicinal.plant.sp. (it.has.fattening.properties)', ES: 'especie.de.planta.medicinal.similar.a.la.yuca, sacha.yuca'  
 # tsirompisama / =tsirompi =sama / =tamshi,climbing_plant =medicinal.plant / EN: 'medicinal.plant.sp.', ES: 'especie.de.planta.medicinal' 
