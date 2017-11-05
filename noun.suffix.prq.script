@@ -229,8 +229,8 @@ define N=S=CL [
 | "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} 
 | "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} 
 | "[--][-hempeki][+CL:small.branch][=small.branch]" : {hempeki} 
-
-| "[--][-i^venki][+CL:magic.plant][=magic.plant,piripiri]" : {venki} 
+# this classifier tends to change the gender to n.m. of the nominal roots to which it is adhered.
+| "[--][-i^venki+n.m.][+CL:magic.plant][=magic.plant,piripiri]" : {venki} 
 
 # pabachori / pavachori / =pava -chori / =dad -cl:distant.kin / EN: 'uncle'; ES: 'tío'  
 | "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} 
