@@ -134,8 +134,10 @@ define N=S=CL [
 ! santotea / =santo -tea / =saint -cl:flower / EN: 'sacred.flower'; ES: 'flores.sagradas' 
 | "[--][-tea][+CL:flower][=flower]" : {tea} 
 
-| "[--][-tonki][+CL:long.tree.segment][=long tree segment]" : {tonki} 
-| "[--][-tyonki][+CL:long.tree.segment][=long tree segment]" : {tyonki} 
+# tsirentsitonki / =tsire -ntsi -tonki / =palm.tree.sp. -nposs -cl:long.tree.segment / EN: 'noodles'; ES: 'fideos' 
+# inchatyonqui / inchatyonki / =incha -tyonki / =tree -cl:long.tree.segment / EN: 'very.thin.branch'; ES: 'rama.delgadita' 
+| "[--][-tonki][+CL:long.tree.segment][=long.tree.segment; thin (ES: delgado)]" : {tonki} 
+| "[--][-tyonki][+CL:long.tree.segment][=long.tree.segment; thin (ES: delgado)]" : {tyonki} 
 
 | "[--][-pari][+CL:root][=root]" : {pari} 
 | "[--][-paere][+CL:root][=root]" : {paere} 
