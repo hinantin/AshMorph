@@ -111,7 +111,9 @@ define IdeoPRQin [
 ! 
 | "[=hmmm+redup.word+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : [{jmmm}|{hmmm}] 
 ! 
-| "[=hmmm][Ideo][=onomatope.mimicking.the.jaguar.roar]" : [{jmmm}|{hmmm}]
+| "[=hmm][Ideo][=onomatope.mimicking.the.jaguar.roar; sound.of.a.jaguar]" : [{jmm}|{hmm}]
+| "[=hmmm][Ideo][=onomatope.mimicking.the.jaguar.roar; sound.of.a.jaguar]" : [{jmmm}|{hmmm}]
+| "[=homm][IdeoPRQ][=sound.of.a.jaguar's.roar; the.bone.spirit's.call]" : {homm}
 ! 
 | "[=ho+redup.word+whistle.lang.][IdeoCJO][=sound.of.wings.flying; sound.of.sth.that.comes.flying]" : {ho} 
 ! 
@@ -477,8 +479,6 @@ define IdeoPRQin [
 # ---------------------------------------------------------------
 | "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
 | "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
-! 
-| "[=homm][IdeoPRQ][=sound.of.a.jaguar's.roar; the.bone.spirit's.call]" : {homm}
 ! 
 | "[=hemm+s.redup.word][IdeoPRQ][=sound.of.a.water-sprite]" : {hemm}
 ! 
