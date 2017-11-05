@@ -16,6 +16,9 @@ define ORootPRQin [
 | "[=apaniro][NRoot][=on.one's.own][--][-eni][+ADV]::[=solely]" : {apaniroeni}
 | "[=apaniro][NRoot][=on.one's.own][--][-ini][+ADV]::[=solely]" : {apaniroini}
 ! 
+# a / PP 
+| "[=a][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {atake} 
+! 
 | "[=ari][PostPol][=PP][=there, so, thus, thereby, just.like.that]" : {ari}
 | "[=ario][PostPol][=PP]" : {ario}
 | "[=ari][PostPol][=PP][--][-ka+shortened][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]" : {arika} ! ari-rika / PP-COND
