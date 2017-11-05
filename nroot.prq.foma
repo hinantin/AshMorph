@@ -2998,7 +2998,7 @@ define NRootPRQin [
 ! 
 | "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {shiri} ! N@->V
 | "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {sheri} ! N@->V
-| "[=shere+n.m.+poss@ni.+voc@+1SG.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {shere}
+| "[=shere+n.m.+poss@ni.+voc@1SG.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {shere}
 | "[=seri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {seri} ! N@->V
 | "[=pocharo][NRoot][=tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum)]" : {pocharo} 
 !
@@ -3746,12 +3746,14 @@ define NRootPRQin [
 # SAP			speech act participant
 # fe/male		female and male
 # botany.id.		botanical identification
-# ESP			Spanish 
-# QUZ			Quechua 
-# var.			variety
-# typ.			typical
+# EN			English 
+# ES			Spanish 
+# QU			Quechua 
+# var.			variety 
+# typ.			typical 
 # voc.			vocative 
 # 			vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
+# 			It will be used as follows 1SG:2SG , etc. 
 
 
 # ##############################
