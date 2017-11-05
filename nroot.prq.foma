@@ -1701,10 +1701,10 @@ define NRootPRQin [
 | "[=mayonkona][NRoot][=turmeric (ES: palillo, botany.id.: curcuma.longa)]" : {mayonkona}
 | "[=maneonkona][NRoot][=turmeric (ES: palillo, botany.id.: curcuma.longa)]" : {maneonkona}
 ! 
-| "[=manyoo][NRoot][=crane.fly.sp. (ES: zancudo)]" : {manyoo}
-| "[=manyo][NRoot][=crane.fly.sp. (ES: zancudo)]" : {manyo}
-| "[=maanyo][NRoot][=crane.fly.sp. (ES: zancudo)]" : {maanyo}
-| "[=maneo][NRoot][=crane.fly.sp. (ES: zancudo)]" : {maneo}
+| "[=manyoo+m.][NRoot][=crane.fly.sp. (ES: zancudo)]" : {manyoo}
+| "[=manyo+m.][NRoot][=crane.fly.sp. (ES: zancudo)]" : {manyo}
+| "[=maanyo+m.][NRoot][=crane.fly.sp. (ES: zancudo)]" : {maanyo}
+| "[=maneo+m.][NRoot][=crane.fly.sp. (ES: zancudo)]" : {maneo}
 ! 
 | "[=masanka][NRoot][=bland (ES: insípido, sin.gusto)]" : {masanka}
 | "[=masankari][NRoot][=bland (ES: insípido, sin.gusto)]" : {masankari}
