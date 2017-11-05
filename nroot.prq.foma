@@ -2988,7 +2988,7 @@ define NRootPRQin [
 ! 
 | "[=shiranto][NRoot][=stone; rock]" : {shiranto}
 ! 
-| "[=shire+n.m.+inal.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire}
+| "[=shire+n.m.+inal.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire} ! @VCMP
 | "[=shiree+n.m.+inal.][NRoot][=spirit, soul; spirit.of.a.dead.person]" : {shiree}
 | "[=shiri+n.m.+inal.][NRoot][=spirit, soul; spirit.of.a.dead.person]" : {shiri}
 ! 
@@ -3333,7 +3333,7 @@ define NRootPRQin [
 | "[=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsome} ! @VCMP
 | "[=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsomi} ! @VCMP
 ! 
-| "[=tsomiri][NRoot][=black.boa.sp. (ES: boa.negra)]" : {tsomiri}
+| "[=tsomiri][NRoot][=black.boa.sp. (ES: boa.negra); demonic.water.owner]" : {tsomiri}
 ! 
 | "[=tsompare+m.][NRoot][=heron.sp.; great.egret (sci.nm.: egretta.alba)]" : {tsompare}
 | "[=tsompari+m.][NRoot][=heron.sp.; great.egret (sci.nm.: egretta.alba)]" : {tsompari}

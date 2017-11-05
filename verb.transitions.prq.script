@@ -66,7 +66,7 @@ define S [
 | V=S=noun                                           (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] 
 |                                          (V=S=CL)  (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] 
 | V=S=noun                                           (V=S=APPLINT) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                           [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=NEG) 
+| V=S=noun                                           (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=NEG) 
 | V=S=noun                                           (V=S=COMPL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 |                                          (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) 
 |                                          (V=S=CL)  (V=S=DUR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
