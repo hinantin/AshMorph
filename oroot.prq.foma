@@ -1,6 +1,9 @@
 define ORootPRQin [
   "[=aa][OtherRoot][=humph]" : {aa}
 ! 
+| "[=ma][Vocable][=VOC]" : {ma}
+| "[=na][Vocable][=VOC]" : {na}
+! 
 # aikero poihateri chaine / =aikero p- =oiha -t -e -ri =chaine / =still 2a- =to.follow -ep -irr -3m.o / EN: 'keep.following.your.grandfather'  
 # aikero isampitiro evankarika / =aikero i- =sampi -t -i -ro =evankari+m. -ka+proximal.loc. / =still 3m.a- =to.ask -ep -real -3n.m.o =young.man -adv / EN: 'this.young.man.keeps.asking.her' 
 | "[=aikero][OtherRoot][=still (ES: todavía)]" : {aikero}
