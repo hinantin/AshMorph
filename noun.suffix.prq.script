@@ -590,6 +590,19 @@ define N=S=SUPERL [
 | "[--][-tanaki][+SUPERL]" : [{tanaki}]
 ];
 
+! expectational 
+! direct evidential?  
+! Declarative clause -> expectational: EN: 'probably, presumably; as.far.as.I.can.tell'
+! Negated clauses -> affectivity 
+! Imperative sentences -> affective.requests: EN: 'please'  
+define N=S=EXPECT [
+# -tyami: -EMPH-CNT.F 
+# isherinityami / i- =sheri -ni -tyami /  
+# nonatototyami / no- =natoto -tyami /  
+  "[--][-tyami][+EXPECT][=probably, presumably; as.far.as.I.can.tell]" : [{tyami}] 
+];
+
+
 # ##############################
 #         Abbreviations         
 # ##############################
