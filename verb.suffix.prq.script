@@ -484,6 +484,8 @@ define V=S=EMPH [
 | "[--][-poo][+EMPH]" : "@EP"[{poo}]
 | "[--][-ha][+EMPH][=contradictory.emphasis]" : "@EP"[{ha}]
 | "[--][-tzi][+EMPH]" : "@EP"[{tzi}]
+! 
+| "[--][-sa][+EMPH]" : "@EP"[{sa}]
 ];
       
 !define V=S=MCAUS [
