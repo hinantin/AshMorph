@@ -592,14 +592,16 @@ define N=S=SUPERL [
 
 ! expectational 
 ! direct evidential?  
-! Declarative clause -> expectational: EN: 'probably, presumably; as.far.as.I.can.tell'
-! Negated clauses -> affectivity 
-! Imperative sentences -> affective.requests: EN: 'please'  
+! Declarative clause -> expectational (+EXPECT): EN: 'probably, presumably; as.far.as.I.can.tell'
+! Negated clauses -> affectivity (+AFF)
+! Imperative sentences -> affective.requests (+AFF.REQ): EN: 'please'  
 define N=S=EXPECT [
 # -tyami: -EMPH-CNT.F 
 # isherinityami / i- =sheri -ni -tyami /  
 # nonatototyami / no- =natoto -tyami /  
   "[--][-tyami][+EXPECT][=probably, presumably; as.far.as.I.can.tell]" : [{tyami}] 
+| "[--][-tyami][+AFF][=In.negated.clauses]" : [{tyami}] 
+| "[--][-tyami][+AFF.REQ][=please]" : [{tyami}] 
 ];
 
 
