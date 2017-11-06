@@ -262,8 +262,9 @@ define VRootPRQin [
 ! 
 | "[=etsiy][VRoot][=to.be.well]" : {etsiy}
 ! 
-| "[=etsiyako][VRoot][=to.heal (ES: sanar)]" : {etsiyako}
-| "[=etsiyatako][VRoot][=to.heal (ES: sanar)]" : {etsiyatako}
+# caused to be well 
+| "[=etsiyako][VRoot][=to.heal (lit.: caused.to.be.well; ES: sanar)]" : {etsiyako}
+| "[=etsiyatako][VRoot][=to.heal (lit.: caused.to.be.well; ES: sanar)]" : {etsiyatako}
 | "[=avisako][VRoot][=to.heal (ES: sanar); to.recover (ES: sanarse)]" : {avisako}
 | "[=eshitako][VRoot][=to.heal (ES: sanar)]" : {eshitako}
 | "[=ashitako][VRoot][=to.heal (ES: sanar)]" : {ashitako}
