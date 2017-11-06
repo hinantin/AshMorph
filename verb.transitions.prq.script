@@ -506,7 +506,7 @@ define S [
  (V=S=DUR) (V=S=APPLINT) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) | 
  (V=S=DUR) (V=S=APPLINT) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) | 
 ! ICPL 
- (V=S=REGR) (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=CNTF) | 
+ (V=S=REGR) (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=EMPH) (V=S=CNTF) | 
  (V=S=REP) (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=ADV) | 
  (V=S=REV) (V=S=APPL) (V=S=ICPL) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) | 
  (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=OPT) | ! a-m-pishe-i-t-e-ri=ta 
