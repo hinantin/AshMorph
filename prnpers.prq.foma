@@ -91,11 +91,12 @@ define PrnPersPRQin [
 | "[=aroori+cntr.add.l.][PrnPers][+1PL]" : {aroori}
 | "[=aroori+cntr.add.l.][PrnPers][+1PL][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
 # -------------------------------------------------------------------
-| "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG][=I.am.the.one]" : {naakataki} ! FOC 
+| "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG][=I.am.the.one.(who)]" : {naakataki} ! FOC 
 | "[=narotake+cntr.exh.l.+foc.][PrnPers][+1SG]" : {narotake}
 ! 
 | "[=avirotaki+cntr.exh.l.][PrnPers][+2SG]" : {avirotaki}
 | "[=avirotake+cntr.exh.l.][PrnPers][+2SG]" : {avirotake}
+| "[=avirokataki+cntr.exh.l.][PrnPers][+2SG][=you.are.the.one.who]" : {avirokataki}
 ! 
 | "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritaki} ! FOC "that's.why" (set 1)
 | "[=iriitaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iriitaki} ! FOC "that's.why" (set 1)
