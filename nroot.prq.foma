@@ -1527,8 +1527,8 @@ define NRootPRQin [
 | "[=mainaro+n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {mainaro} 
 | "[=mainavo+n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {mainavo} 
 ! 
-| "[=maini+m.][NRoot][=bear.sp. (ES: sp.de.oso)]" : {maini}
-| "[=maeni+m.][NRoot][=bear.sp. (ES: sp.de.oso)]" : {maeni}
+| "[=maini+m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maini}
+| "[=maeni+m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maeni}
 | "[=meeni][NRoot][=bear.sp. (ES: sp.de.oso); spectacled.bear (ES: oso.de.anteojos; QU: ukumari; sci.nm.: tremarctus.ornatus)]" : {meeni}
 ! 
 | "[=mainto+m.][NRoot][=fish.sp. (big.bujurqui-fish)]" : {mainto}
@@ -2489,8 +2489,8 @@ define NRootPRQin [
 | "[=pavi+n.m.+inal.][NRoot][=stairs, bridge/ramp.formed.by.a.fallen_tree/stick]" : {pavi}
 ! 
 # bats 
-| "[=piiri][NRoot][=bat.sp.]" : {piiri}
-| "[=pihiri][NRoot][=bat.sp.]" : {pihiri}
+| "[=piiri][NRoot][=bat.sp. (sci.nm.: orden.chiroptera)]" : {piiri}
+| "[=pihiri][NRoot][=bat.sp. (sci.nm.: orden.chiroptera)]" : {pihiri}
 | "[=toantoani][NRoot][=big-and-dark.bat.sp.]" : {toantoani}
 | "[=tsompavito][NRoot][=big-and-gray.bat.sp.]" : {tsompavito}
 ! 
