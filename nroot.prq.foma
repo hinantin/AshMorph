@@ -271,8 +271,8 @@ define NRootPRQin [
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
 | "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V ! is te as a possessive correct ????
 ! 
-| "[=chariha][NRoot][=cast_net (ES: atarraya), throw_net, circular.net.with.small.weights.distributed.around.its.edge (ES: tarrafa)]" : {chariha}
-| "[=kitsari][NRoot][=cast_net (ES: atarraya), throw_net, circular.net.with.small.weights.distributed.around.its.edge (ES: tarrafa)]" : {kitsari}
+| "[=chariha][NRoot][=cast_net (ES: atarraya, red), throw_net, circular.net.with.small.weights.distributed.around.its.edge (ES: tarrafa)]" : {chariha}
+| "[=kitsari][NRoot][=cast_net (ES: atarraya, red), throw_net, circular.net.with.small.weights.distributed.around.its.edge (ES: tarrafa)]" : {kitsari}
 ! 
 | "[=chariro][NRoot][=(ES: familia.de.las.papas; sci.nm.: solanáceas)]" : {chariro}
 | "[=chariroshi][NRoot][=(ES: familia.de.las.papas; sci.nm.: solanáceas)]" : {chariroshi}
