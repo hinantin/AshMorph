@@ -1087,8 +1087,8 @@ define NRootPRQin [
 ! 
 | "[=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (sci.nm.: ara.ararauna; ES: guacamayo.verde); yellow.chested.macaw]" : {kasanto} ! @CMP 
 ! 
-| "[=kashekari+m.][NRoot][=jaguar (ES: 'jaguar'); tiger (ES: tigre)]" : {kashekari}
-| "[=kashikari+m.][NRoot][=jaguar (ES: 'jaguar'); tiger (ES: tigre)]" : {kashikari}
+| "[=kashekari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashekari}
+| "[=kashikari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashikari}
 ! 
 | "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
 | "[=kashi][NRoot][=semen]" : {kashi}
@@ -1579,8 +1579,8 @@ define NRootPRQin [
 | "[=maniro+m.][NRoot][=deer (ES: venado)]" : {maniro}
 | "[=manero+m.][NRoot][=deer (ES: venado.brocket; sci.nm.: mazama.sp.)]" : {manero}
 ! 
-| "[=manitzi][NRoot][=tiger (ES: tigre); jaguar]" : {manitzi}
-| "[=maniti][NRoot][=tiger (ES: tigre); jaguar]" : {maniti}
+| "[=manitzi][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]" : {manitzi}
+| "[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]" : {maniti}
 ! 
 | "[=manko][NRoot][=mango (botany.nm.: manguira.indica, mangifera.indica)]" : {manko}
 ! 
@@ -1614,6 +1614,8 @@ define NRootPRQin [
 ! 
 | "[=masheri][NRoot][=toad.sp.]" : {masheri}
 | "[=mashero+m.][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio)]" : {mashero}
+! 
+| "[=matsontsori][NRoot][=jaguar (ES: tigrillo; sci.nm.: leopardus.pardalis, Leopardus.wiedii)]" : {matsontsori}
 # Toads 
 | "[=tarairiki][NRoot][=toad.sp.]" : {tarairiki}
 ! 
