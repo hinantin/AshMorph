@@ -98,11 +98,11 @@ define PrnPersPRQin [
 | "[=avirotake+cntr.exh.l.][PrnPers][+2SG]" : {avirotake}
 | "[=avirokataki+cntr.exh.l.][PrnPers][+2SG][=you.are.the.one.who]" : {avirokataki}
 ! 
-| "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iritaki} ! FOC "that's.why" (set 1)
-| "[=iriitaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {iriitaki} ! FOC "that's.why" (set 1)
-| "[=riitaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why]" : {riitaki} ! FOC "that's.why" (set 1)
-| "[=ritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is (ES: él.es)]" : {ritaki} ! FOC "that's.why" (set 1)
-| "[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is (ES: él.es)]" : {iritake} ! FOC "that's.why" (set 1)
+| "[=iritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is.the.one.(who)]" : {iritaki} ! FOC "that's.why" (set 1)
+| "[=iriitaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is.the.one.(who)]" : {iriitaki} ! FOC "that's.why" (set 1)
+| "[=riitaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is.the.one.(who)]" : {riitaki} ! FOC "that's.why" (set 1)
+| "[=ritaki+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {ritaki} ! FOC "that's.why" (set 1)
+| "[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {iritake} ! FOC "that's.why" (set 1)
 | "[=iriotake][PrnPers][+3SG.m.][=he.is (ES: él.es)]" : {iriotake}
 | "[=irio+cont.d.top.][PrnPers][+3SG.m.][=he][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=he.is (ES: él.es)]" : {iriotake}
 ! 
