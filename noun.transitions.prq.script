@@ -28,7 +28,7 @@ define N [
 | (N=S=ABS) (N=S=DEM) 
 
 ! Dialect variations?
-| (N=S=LOC) (N=S=PL) 
+| (N=S=LOC) (N=S=PL) (N=S=DEM) 
 | (N=S=PL) (N=S=LOC) 
 | (N=S=ABS) (N=S=PL) (N=S=LOC) 
 | (N=S=poss) (N=S=CL) (N=S=CL) ! pihariritsori / pi- =hari -ri -tsori / 2poss- =hari -poss -cl 
