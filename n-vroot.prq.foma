@@ -68,6 +68,7 @@ define NounToVerbPRQin [
 | "[=pitziki][NRoot][=male.genitals]+vbz." : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]+vbz." : {pitzik} ! N@->V
 | "[=santi+inal.][NRoot][=fart (ES: pedo)]+vbz." : {santi} ! N@->V
+| "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]+vbz." : {sheripiyari} ! N@->V
 | "[=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]+vbz." : {shetaki} ! N@->V
 | "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {shiri} ! N@->V
 | "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {sheri} ! N@->V
