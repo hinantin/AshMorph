@@ -36,7 +36,7 @@ define NounToVerbPRQin [
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kainiri} ! N@->V @CMP 
 | "[=kashi][NRoot][=resin; white.milky.sap]+vbz." : {kashi} ! N@->V
-| "[=keario][NRoot][=factual, truth]+vbz." : {keario} ! N@->V
+| "[=keario][NRoot][=factual, truth (ES: cierto, verdad)]+vbz." : {keario} ! N@->V
 | "[=kipishi][NRoot][=bitter]+vbz." : {kipishi} ! N@->V
 | "[=kepishi][NRoot][=bitter]+vbz." : {kepishi} ! N@->V
 | "[=kitamaro+n.m.+color][NRoot][=white]+vbz." : {kitamaro} ! N@->V
