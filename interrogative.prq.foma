@@ -72,7 +72,7 @@ define WhPRQin [
 | "[=haoka][WhPrn][=which, when (ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
 ! indefinite forms
-| "[=ninkarika][IndfPrn][=whoever, everybody, somebody]" : {ninkarika}
+| "[=ninka][WhPrn][=who, whom][--][-rika][+COND]::[IndfPrn][=whoever, everybody, somebody]" : {ninkarika}
 | "[=paitarika][IndfPrn][=whatever, something]" : {paitarika}
 | "[=tsipaita][IndfPrn][=whatever, something]" : {tsipaita}
 ! 
