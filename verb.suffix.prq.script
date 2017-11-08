@@ -620,6 +620,7 @@ define V=S=REALEMPH [
       
 define V=S=IRRREFL [
   "[--][-ia][+IRR.REFL]" : "@EP"[{ia}]
+# nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
 | "[--][-eya][+IRR.REFL]" : "@EP"[{eya}]
 | "[--][-iya][+IRR.REFL]" : "@EP"[{iya}]
 ];
