@@ -1126,7 +1126,10 @@ define NRootPRQin [
 ! 
 | "[=kayonaro+m.][NRoot][=cunchi/kunchi.sp., fish.sp.]" : {kayonaro}
 ! 
-| "[=keario][NRoot][=factual, truth]" : {keario} ! N@->V
+| "[=keario][NRoot][=factual, truth (ES: cierto, verdad)]" : {keario} ! N@->V
+| "[=kyaaryori][NRoot][=factual, truth (ES: cierto, verdad)]" : {kyaaryori}
+| "[=kyaaryoori][NRoot][=factual, truth (ES: cierto, verdad)]" : {kyaaryoori}
+| "[=tyaaryoori][NRoot][=factual, truth (ES: cierto, verdad)]" : {tyaaryoori}
 ! 
 | "[=kemari+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca; sci.nm.: tapirus.americanus), pig-like.animal (PT: anta)]" : {kemari}
 ! 
