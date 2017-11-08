@@ -621,6 +621,7 @@ define V=S=REALEMPH [
 define V=S=IRRREFL [
   "[--][-ia][+IRR.REFL]" : "@EP"[{ia}]
 | "[--][-eya][+IRR.REFL]" : "@EP"[{eya}]
+| "[--][-iya][+IRR.REFL]" : "@EP"[{iya}]
 ];
       
 !      define V=S=1PLposs [
