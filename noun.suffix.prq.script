@@ -161,7 +161,7 @@ define N=S=CL [
 | "[--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ki} ! @CL 
 | "[--][-ke][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ke} ! sheyaque @CL 
 ! 
-| "[--][-kii][+CL:long,thin.branch][=long,thin branch; stick.like]" : {kii} ! @CL 
+| "[--][-kii][+CL:long,thin.branch][=long,thin.branch; stick.like.(with.a.sharp.pointed.end)]" : {kii} ! @CL 
 ! shintsitsaro / =shintsi -tsa -ro+n.m. / =to.be.strong -cl:long.flexible.thin -nmz / EN: 'exclamation.mark'; ES: 'signo.de.admiración'
 ! nairotsa / =nairo -tsa / =nylon -cl:long.flexible.thin / EN: 'rope'; ES: 'cuerda' 
 | "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]" : {tsa} ! @CL 
@@ -426,7 +426,9 @@ define N=S=CL [
 ! 
 | "[--][-morinte][+CL:oval-shaped.convexity][=oval-shaped.convexity]" : {morinte} 
 ! 
-| "[--][-kitso][+CL:oval-shaped][=oval-shaped]" : {kitso} 
+#-----------------------------------------------
+! inchakitso / =incha -kitso / =plant -cl:oval-shaped / ES: 'moena' 
+| "[--][-kitso][+CL:oval-shaped][=oval-shaped; grain-like]" : {kitso} 
 ! 
 | "[--][-kamara][+CL:cinnamon.color][=cinnamon.color]" : {kamara} 
 ];
