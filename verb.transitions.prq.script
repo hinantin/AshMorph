@@ -1,33 +1,34 @@
 define S [
- (V=S=PROG) (V=S=IRR) (V=S=PRNO) | 
- (V=S=IRR) | 
- (V=S=DIST) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=OPT) | 
- (V=S=PL) (V=S=PRF) (V=S=REGR) (V=S=IRR) (V=S=CNTF) | 
- (V=S=PRF) (V=S=IRR) (V=S=PRNO) | 
- (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
- (V=S=REAL) | 
- (V=S=REGR) (V=S=IRR) (V=S=PRNO) | 
- (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=DUB) | 
- (V=S=PROG) (V=S=REAL) | 
- (V=S=AUG) (V=S=IRR) | 
- (V=S=DUR) (V=S=IRR) | 
- (V=S=PRF) (V=S=IRR) (V=S=O) (V=S=PRNO) | 
- (V=S=IRR) (V=S=O) (V=S=PRNO) | 
- (V=S=APPLBEN) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
- (V=S=CAUSSOC) (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) | 
- (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADV) | 
- (V=S=IRR) (V=S=ADV) | 
- (V=S=REAL) (V=S=O) (V=S=APPR) | 
- (V=S=DUR) (V=S=REAL) (V=S=REAL) | 
- (V=S=REGR) (V=S=REAL) (V=S=PRNO) | 
- (V=S=DUR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) | 
- (V=S=DUR) (V=S=REAL) | 
- (V=S=PROG) (V=S=REAL) (V=S=ADV) | 
- (V=S=IRR) | 
- (V=S=REAL) (V=S=PRNO) | 
- (V=S=CAUSSOC) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=CNTF) | 
- (V=S=FRUS) (V=S=REAL) (V=S=PRNO) | 
- (V=S=DUR) (V=S=REGR) (V=S=IRR) (V=S=PRNO) | 
+  (V=S=PROG) (V=S=IRR) (V=S=PRNO) 
+| (V=S=IRR) 
+| (V=S=DIST) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=OPT) 
+| (V=S=PL) (V=S=PRF) (V=S=REGR) (V=S=IRR) (V=S=CNTF) 
+| (V=S=PRF) (V=S=IRR) (V=S=PRNO) 
+| (V=S=PRF) (V=S=REAL) (V=S=PRNO) 
+| (V=S=REAL) 
+| (V=S=REGR) (V=S=IRR) (V=S=PRNO) 
+| (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=DUB) 
+| (V=S=PROG) (V=S=REAL) 
+| (V=S=AUG) (V=S=IRR) 
+| (V=S=DUR) (V=S=IRR) 
+| (V=S=PRF) (V=S=IRR) (V=S=O) (V=S=PRNO) 
+| (V=S=IRR) (V=S=O) (V=S=PRNO) 
+| (V=S=APPLBEN) (V=S=PRF) (V=S=REAL) (V=S=PRNO) 
+| (V=S=CAUSSOC) (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADV) 
+| (V=S=IRR) (V=S=ADV) 
+| (V=S=REAL) (V=S=O) (V=S=APPR) 
+| (V=S=DUR) (V=S=REAL) 
+| (V=S=REAL) 
+| (V=S=REGR) (V=S=REAL) (V=S=PRNO) 
+| (V=S=DUR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) 
+| (V=S=DUR) (V=S=REAL) 
+| (V=S=PROG) (V=S=REAL) (V=S=ADV) 
+| (V=S=IRR) 
+| (V=S=REAL) (V=S=PRNO) 
+| (V=S=CAUSSOC) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=CNTF) 
+| (V=S=FRUS) (V=S=REAL) (V=S=PRNO) 
+| (V=S=DUR) (V=S=REGR) (V=S=IRR) (V=S=PRNO) | 
  (V=S=PROG) (V=S=REAL) (V=S=PRNO) | 
  (V=S=REAL) (V=S=AUG) | 
  (V=S=APPLREAS) (V=S=IRR) (V=S=REL) (V=S=Q) | 
