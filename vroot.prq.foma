@@ -1201,8 +1201,9 @@ define VRootPRQin [
 ! 
 | "[=potso][VRoot][=to.dye; to.paint; to.rub.annatto]" : {potso}
 ! 
-| "[=ponk][VRoot][=to.shoot.down.palm.tree (pona)]" : {ponk}
-| "[=poonk][VRoot][=to.shoot.down.palm.tree (pona)]" : {poonk}
+# batir: derribar a golpes algo (pared/edificio) 
+| "[=ponk][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {ponk}
+| "[=poonk][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {poonk}
 ! 
 | "[=poyee][VRoot][=to.replace (ES: reemplazar)]" : {poyee}
 | "[=poyaa][VRoot][=to.replace (ES: reemplazar)]" : {poyaa}
