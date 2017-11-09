@@ -190,7 +190,7 @@ define N=S=CL [
 | "[--][-kanaa][+CL:chili-pepper][=chili-pepper]" : {kanaa} # tsirikanaa 'chili-pepper' 
 ! 
 # inchamenta / =incha -menta / =plant -cl:flat,triangular / EN: 'hiding place in the form of a triangle, formed by the tree roots' 
-| "[--][-menta][+CL:flat,triangular][=flat,triangular]" : {menta} 
+| "[--][-menta][+CL:flat,triangular][=flat,triangular;flat,slender;sth.with.an.inclined.plane]" : {menta} ! +SHAPE 
 ! 
 # ??? 
 # kovitzinari / =kovitzi -nari / =clay.pot -cl:animal / EN: 'bird.sp.that.builds.its.nest.using.clay', ES: 'hornero (especie.de.pájaro.que.hace.su.nido.de.barro)' 
