@@ -8,8 +8,8 @@ define V=S=CL [
 | "[--][-poroki][+CL:quantity][=bunch,group]" : "@EP"{poroki} ! @CL 
 | "[--][-pooki][+CL:quantity][=bunch,group]" : "@EP"{pooki} ! @CL 
 | "[--][-poroki][+CL:assortment][=crumbs,particles]" : "@EP"{poroki} ! @CL 
-| "[--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]" : "@EP"{ki} ! @CL 
-| "[--][-ke][+CL:S.R.H][=small,round(ed);hard;seed-like]" : "@EP"{ke} ! sheyaque @CL 
+| "[--][-ki+shape][+CL:S.R.H][=small,round(ed);hard;seed-like]" : "@EP"{ki} ! @CL 
+| "[--][-ke+shape][+CL:S.R.H][=small,round(ed);hard;seed-like]" : "@EP"{ke} ! sheyaque @CL 
 | "[--][-kii][+CL:long,thin.branch][=long,thin.branch; stick.like.(with.a.sharp.pointed.end)]" : "@EP"{kii} ! @CL 
 | "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]" : "@EP"{tsa} ! @CL 
 | "[--][-tsantsa][+CL:length][=long (ES: largo);length]" : "@EP"{tsantsa} ! @CL 

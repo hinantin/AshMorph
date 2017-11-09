@@ -9,7 +9,7 @@ define NRootPRQin [
 ! 
 | "[=aaniri+inal.][NRoot][=orphan (ES: huérfano)]" : {aaniri} 
 ! 
-| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V 
+| "[-=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V 
 ! 
 | "[=amai+n.m.][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amai} 
 ! 
@@ -1290,8 +1290,8 @@ define NRootPRQin [
 | "[=keshii][NRoot][=mountainous.grassland (ES: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {keshii}
 | "[=keshi][NRoot][=mountainous.grassland (ES: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {keshi}
 ! 
-| "[=kishiri+m.][NRoot][=comb]" : {kishiri}
-| "[=kishire+m.][NRoot][=comb]" : {kishire}
+| "[=kishiri+m.][NRoot][=comb (ES: peine)]" : {kishiri}
+| "[=kishire+m.][NRoot][=comb (ES: peine)]" : {kishire}
 ! 
 | "[=kitairiki][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
 ! 
