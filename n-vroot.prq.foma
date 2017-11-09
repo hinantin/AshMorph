@@ -5,7 +5,7 @@ define NounToVerbPRQin [
   "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]+vbz." : {ani} ! N@->V @VCMP 
 | "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]+vbz." : {aani} ! N@->V @VCMP 
 | "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]+vbz." : {aane} ! N@->V @VCMP 
-| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]+vbz." : {aapi} ! N@->V 
+| "[-=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]+vbz." : {aapi} ! N@->V 
 | "[=aarontsi][NRoot][=summer (ES: verano)]+vbz." : {aarontsi} ! N@->V
 | "[=amaani+n.m.][NRoot][=increase (ES: creciente)]+vbz." : {amaani} ! N@->V  ES: 'crecer'
 | "[=amani+n.m.][NRoot][=increase (ES: creciente)]+vbz." : {amani} ! N@->V  ES: 'crecer'
