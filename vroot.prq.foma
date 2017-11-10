@@ -505,7 +505,7 @@ define VRootPRQin [
 ! 
 | "[=kimi][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like]" : {kimi}
 | "[=keme][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like]" : {keme}
-| "[=kempe][VRoot][=to.be.similar.to.sb/sth, to.seem; to.imitate]" : {kempe}
+| "[=kempe][VRoot][=to.be.similar.to.sb/sth, to.seem (ES: ser.como.algn.); to.imitate]" : {kempe}
 | "[=kehe][VRoot][=to.be.similar.to.sb/sth, to.seem]" : {kehe}
 ! 
 | "[=kimisan][VRoot][=to.pay.attention; to.believe; to.obey; to.pay.heed; to.pay.attention.to.sth/sb-and-to.consider.it.carefully]" : {kimisan}
@@ -1783,5 +1783,6 @@ define VRootPRQin [
 
 # ----------------------------------------
 # +redup.	reduplication implies the meaning 'a.lot' 
+# algn.		alguien 
 
 
