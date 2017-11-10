@@ -188,19 +188,25 @@ define ORootPRQin [
 ];
 
 define ConnRootPRQ01in [
+# ------------------------------------------------------------------
+! hatzi 
   "[=aihatzi][ConnRoot][=also]" : {aihatzi}
 | "[=ahatzi][ConnRoot][=also]" : {ahatzi}
 | "[=aahatzi][ConnRoot][=also]" : {aahatzi}
-| "[=ehati][ConnRoot][=also, and]" : {ehati}
-| "[=eehati][ConnRoot][=also, and]" : {eehati}
 | "[=eehatzi][ConnRoot][=also, and]" : {eehatzi}
 | "[=iihatzi][ConnRoot][=also]" : {iihatzi}
+| "[=roohatzi][ConnRoot][=also]" : {roohatzi}
+! hati 
+| "[=ehati][ConnRoot][=also, and]" : {ehati}
+| "[=eehati][ConnRoot][=also, and]" : {eehati}
+! sati 
 | "[=aisati][ConnRoot][=also]" : {aisati}
 | "[=aisati][ConnRoot][=also][--][-te][+NEG.AFF]" : {aisatite}
+| "[=irosati][ConnRoot][=CONN (ES: until)]" : {irosati}
+! satzi 
 | "[=aisatzi][ConnRoot][=also]" : {aisatzi}
 | "[=irosatzi][ConnRoot][=CONN (ES: also; until)]" : {irosatzi}
-| "[=irosati][ConnRoot][=CONN (ES: until)]" : {irosati}
-| "[=roohatzi][ConnRoot][=also]" : {roohatzi}
+# ------------------------------------------------------------------
 ! 
 | "[=kantzimaitacha][ConnRoot][=nevertheless]" : {kantzimaitacha}
 ! 
