@@ -810,7 +810,9 @@ define VRootPRQin [
 ! 
 | "[=minki][VRoot][=to.put]" : {minki}
 | "[=mish][VRoot][=to.remove.skin]" : {mish}
-| "[=mishi][VRoot][=to.dream]" : {mishi}
+! 
+| "[=mishi][VRoot][=to.dream (ES: soñar)]" : {mishi}
+! 
 | "[=mit][VRoot][=to.be.accustomed]" : {mit}
 | "[=mitsaink][VRoot][=to.be.in.line]" : {mitsaink}
 | "[=mok][VRoot][=to.make.holes]" : {mok}
