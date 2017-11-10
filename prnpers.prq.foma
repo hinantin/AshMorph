@@ -135,16 +135,16 @@ define PrnPersPRQin [
 ! 
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL][--][-ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
 # -------------------------------------------------------------------
-# -sati
+# -sati (EN: 'too'; ES: 'también')
 | "[=narosati+rflx.intsf.][PrnPers][+1SG][=me.too; myself]" : {narosati}
-| "[=avisati+rflx.intsf.][PrnPers][+2SG][=yourself]" : {avisati}
+| "[=avisati+rflx.intsf.][PrnPers][+2SG][=you.too; yourself]" : {avisati}
 | "[=irisati+rflx.intsf.][PrnPers][+3SG.m.][=he.too; himself]" : {irisati}
-| "[=irosati+rflx.intsf.][PrnPers][+3SG.n.m.][=...]" : {irosati}
-| "[=arosati+rflx.intsf.][PrnPers][+1PL][=...]" : {arosati}
-| "[=irisati+rflx.intsf.][PrnPers][+3PL.m.][=they.themselves]" : {irisati}
-# -hatzi
-| "[=irihatzi+rflx.intsf.][PrnPers][+3SG.m.][=he.too; himself (ES: él.mismo)]" : {irihatzi}
-| "[=irohatzi+rflx.intsf.][PrnPers][+3SG.n.m.][=she.too; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ella.también'  
+| "[=irosati+rflx.intsf.][PrnPers][+3SG.n.m.][=she.too; herself]" : {irosati}
+| "[=arosati+rflx.intsf.][PrnPers][+1PL][=we.too; ourselves]" : {arosati}
+| "[=irisati+rflx.intsf.][PrnPers][+3PL.m.][=they.too; they.themselves]" : {irisati}
+# -hatzi (EN: 'too'; ES: 'también')
+| "[=irihatzi+rflx.intsf.][PrnPers][+3SG.m.][=he.too; himself (ES: él.mismo, ese.mismo)]" : {irihatzi} ! irijatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ese.mismo, lit: ella.también'  
+| "[=irohatzi+rflx.intsf.][PrnPers][+3SG.n.m.][=she.too; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
 ];
 
 # ---------------------------------------------
