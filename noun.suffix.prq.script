@@ -167,7 +167,7 @@ define N=S=CL [
 ! 
 ! shintsitsaro / =shintsi -tsa -ro+n.m. / =to.be.strong -cl:long.flexible.thin -nmz / EN: 'exclamation.mark'; ES: 'signo.de.admiración'
 ! nairotsa / =nairo -tsa / =nylon -cl:long.flexible.thin / EN: 'rope'; ES: 'cuerda' 
-| "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]" : {tsa} ! @CL 
+| "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]" : {tsa} ! @CL +SHAPE  
 ! 
 # --------------------------------------------------------------------------------
 ! =antyaro-tsantsa ES: 'alargado', EN: ; =ari-tsantsa ES: 'muy largo'. EN: ; V: =kimo-tsantsa ES: 'muy largo, largo', EN: ; 
@@ -177,8 +177,8 @@ define N=S=CL [
 | "[--][-santsa][+CL:length][=long (ES: largo);length]" : {santsa} 
 | "[--][-hantsa][+CL:length][=long (ES: largo);length]" : {hantsa} ! alto???
 # --------------------------------------------------------------------------------
-! .. 
-| "[--][-pi][+CL:rigid,hollow][=rigid,hollow]" : {pi}  # chakopi 'arrow'
+! chakopi / EN: 'arrow' 
+| "[--][-pi][+CL:rigid,hollow][=rigid,hollow; long.slender,hollow]" : {pi}  
 ! mamaropa / =mamaro -pa / =owl -cl:plantain / EN: 'plantain.sp.'; ES: 'especie.de.plátano' 
 ! chenteropa / =chentero -pa / =palm.tree.sp. -cl:plantain / EN: 'plantain.sp.'; ES: 'especie.de.plátano' 
 ! akapa / =akapa / =avocado / EN: 'avocado' 
