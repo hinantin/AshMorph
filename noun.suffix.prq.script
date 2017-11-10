@@ -176,6 +176,8 @@ define N=S=CL [
 ! santsari/ro/vo
 | "[--][-santsa][+CL:length][=long (ES: largo);length]" : {santsa} 
 | "[--][-hantsa][+CL:length][=long (ES: largo);length]" : {hantsa} ! alto???
+! 
+| "[--][-tsantsana][+CL:wide][=wide]" : {tsantsana} ! @CL 
 # --------------------------------------------------------------------------------
 ! chakopi / EN: 'arrow' 
 ! irantsipi / [=ira -ntsi -pi]+n.m. / =blood -nposs -cl:rigid,hollow / EN: 'sugar.cane.sp.'; ES: 'sp.de.caña.de.azúcar'
