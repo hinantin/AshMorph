@@ -6,7 +6,7 @@ define PrnPersPRQin [
 ! SET 3: +cntr.exh.l. (-taki~-take: contrastive exhaustive listing, +focus)
 ! SET 4: +cntr.d.top. (-intsi: contrastive discourse topic)
 ! +cntr.cnt.assert.top. (-inti: contrastive counter-assertive topic)
-! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying)
+! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
 # -------------------------------------------------------------------
   "[=naaka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naaka}
 | "[=naka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naka}
@@ -144,6 +144,7 @@ define PrnPersPRQin [
 | "[=irisati+rflx.intsf.][PrnPers][+3PL.m.][=they.themselves]" : {irisati}
 # -hatzi
 | "[=irihatzi+rflx.intsf.][PrnPers][+3SG.m.][=he.too; himself (ES: él.mismo)]" : {irihatzi}
+| "[=irohatzi+rflx.intsf.][PrnPers][+3SG.n.m.][=she.too; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ella.también'  
 ];
 
 # ---------------------------------------------
