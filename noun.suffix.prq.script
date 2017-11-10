@@ -249,9 +249,10 @@ define N=S=CL [
 | "[--][-chori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {chori} 
 
 # saventarochii / =saventaro -chii / =cat's.claw -cl:thorn / EN: 'cat's.claw_thorn', ES: 'la espina de la planta uña de gato'
-| "[--][-chee][+CL:thorn,spine][=thorn,spine]" : {chee} 
-| "[--][-chii][+CL:thorn,spine][=thorn,spine]" : {chii} 
-| "[--][-tsee][+CL:thorn,spine][=thorn,spine]" : {tsee} 
+| "[--][-chee][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {chee} 
+| "[--][-chii][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {chii} 
+| "[--][-tsee][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {tsee} 
+| "[--][-tsei][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {tsei} 
 # substance-and-color.of.soils 
 # ishikopatsa / =ishiko -patsa / =lime -cl:mass / EN: 'soil.with.abundant.lime.stones'  
 # kityonkapatsari / =kityonka -patsa -ri / =to.be.red -cl:mass -nmz / EN: 'reddish.soil' 
