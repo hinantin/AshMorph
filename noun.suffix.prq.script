@@ -452,6 +452,7 @@ define N=S=CL [
 | "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {henka} 
 | "[--][-enka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {enka} 
 ! 
+! paapani / EN: 'ash'; ES: 'ceniza' 
 | "[--][-pani][+CL:powdery.substance][=powdery.substance]" : {pani} 
 | "[--][-vani][+CL:powdery.substance][=powdery.substance]" : {vani} 
 | "[--][-pane][+CL:powdery.substance][=powdery.substance]" : {pane} 
