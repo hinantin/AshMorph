@@ -12,19 +12,6 @@ define V=S=PROG [
 | "[--][-ati][ASP][+PROG]" : "@EP"[{ati}]
 ];
       
-define V=S=IRR [
-  "[--][-e][+IRR]" : "@EP"[{e}]
-| "[--][-ee][+IRR]" : "@EP"[{ee}]
-| "[--][-ia][+IRR]" : "@EP"[{ia}]
-| "[--][-ya][+IRR]" : "@EP"[{ya}]
-| "[--][-ye][+IRR]" : "@EP"[{ye}]
-| "[--][-yea][+IRR]" : "@EP"[{yea}]
-| "[--][-a][+IRR]" : "@EP"[{a}]
-| "[--][-i][+IRR]" : "@EP"[{i}]
-| "[--][-yaa][+IRR]" : "@EP"[{yaa}]
-| "[--][-ea][+IRR]" : "@EP"[{ea}]
-];
-      
 define V=S=PRNO [
   "[--][-ri][+3m.O]" : [{ri}] 
 | "[--][-re][+3m.O]" : [{re}] 
@@ -97,6 +84,7 @@ define V=S=CNTF [
   "[--][-mi][+CNT.F]" : "@EP"[{mi}]
 ];
       
+# -------------------------------------------
 define V=S=REAL [
   "[--][-e][+REAL]" : "@EP"[{e}]
 | "[--][-ee][+REAL]" : "@EP"[{ee}]
@@ -107,6 +95,31 @@ define V=S=REAL [
 | "[--][-ya][+REAL]" : "@EP"[{ya}]
 | "[--][-yaa][+REAL]" : "@EP"[{yaa}]
 ];
+      
+define V=S=IRR [
+  "[--][-e][+IRR]" : "@EP"[{e}]
+| "[--][-ee][+IRR]" : "@EP"[{ee}]
+| "[--][-ia][+IRR]" : "@EP"[{ia}]
+| "[--][-ya][+IRR]" : "@EP"[{ya}]
+| "[--][-ye][+IRR]" : "@EP"[{ye}]
+| "[--][-yea][+IRR]" : "@EP"[{yea}]
+| "[--][-a][+IRR]" : "@EP"[{a}]
+| "[--][-i][+IRR]" : "@EP"[{i}]
+| "[--][-yaa][+IRR]" : "@EP"[{yaa}]
+| "[--][-ea][+IRR]" : "@EP"[{ea}]
+];
+      
+define V=S=REALRFL [
+  "[--][-a][+REAL.RFL]" : "@EP"[{a}]
+];
+      
+define V=S=IRRRFL [
+  "[--][-ia][+IRR.RFL]" : "@EP"[{ia}]
+# nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
+| "[--][-eya][+IRR.RFL]" : "@EP"[{eya}]
+| "[--][-iya][+IRR.RFL]" : "@EP"[{iya}]
+];
+# -------------------------------------------
       
 define V=S=AUG [
   "[--][-piro][+AUG]" : "@EP"[{piro}]
@@ -520,10 +533,6 @@ define V=S=RCP [
 ];
 # -------------------------------------
       
-define V=S=REALRFL [
-  "[--][-a][+REAL.RFL]" : "@EP"[{a}]
-];
-      
 ! opposite, reverse REV/CNTRST ; revocation?
 define V=S=REV [
   "[--][-ry][+REV]" : "@EP"[{ry}] 
@@ -618,13 +627,6 @@ define V=S=REALEMPH [
 !      define V=S=3nmposs [
 !       "[--][+3n.m.poss]" : "@EP"[{o}]
 !      ];
-      
-define V=S=IRRREFL [
-  "[--][-ia][+IRR.REFL]" : "@EP"[{ia}]
-# nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
-| "[--][-eya][+IRR.REFL]" : "@EP"[{eya}]
-| "[--][-iya][+IRR.REFL]" : "@EP"[{iya}]
-];
       
 !      define V=S=1PLposs [
 !       "[--][+1PL.poss]" : "@EP"[{a}]
