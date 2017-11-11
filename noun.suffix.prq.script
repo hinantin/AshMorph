@@ -451,6 +451,11 @@ define N=S=CL [
 ! 
 | "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {henka} 
 | "[--][-enka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {enka} 
+! 
+| "[--][-pani][+CL:powdery.substance][=powdery.substance]" : {pani} 
+| "[--][-vani][+CL:powdery.substance][=powdery.substance]" : {vani} 
+| "[--][-pane][+CL:powdery.substance][=powdery.substance]" : {pane} 
+| "[--][-vane][+CL:powdery.substance][=powdery.substance]" : {vane} 
 ];
       
 define N=S=EXCL [
