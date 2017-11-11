@@ -9,7 +9,7 @@ define S [
 | (V=S=PRF) (V=S=REAL) (V=S=PRNO) 
 | (V=S=REAL) 
 | (V=S=REGR) (V=S=IRR) (V=S=PRNO) 
-| (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=DUB) 
+| (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=DUB) 
 | (V=S=PROG) (V=S=REAL) 
 | (V=S=AUG) (V=S=IRR) 
 | (V=S=DUR) (V=S=IRR) 
@@ -49,9 +49,9 @@ define S [
 # -----------------------------------------------------------------------------
 | V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=NMZ) 
 | V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=DIR) (V=S=REGR) (V=S=REAL) ! noun root: noun, noun+noun 
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=DIST) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
+| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=DIST) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
 ! o-nint-a-Voro-t-ab-ak-e-ri 
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=RCP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=RCP) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q)  
 | V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) 
 | V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) 
@@ -61,22 +61,22 @@ define S [
 | V=S=noun ("@PHONPROC@"V=S=LEN=noun)                     (V=S=DIR) (V=S=REGR) (V=S=REAL) 
 ! o-kant-a-pankaina-aty-a 
 |                                          (V=S=CL)  (V=S=PROG) (V=S=IRR) 
-|                                          (V=S=CL)  (V=S=CAUSSOC) (V=S=DIST) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+|                                          (V=S=CL)  (V=S=CAUSSOC) (V=S=DIST) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 ! o-kant-a-pontso-t-ap-ak-a 
-|                                          (V=S=CL)  (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] 
-|                                          (V=S=CL)  (V=S=APPLINST) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                           (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                           (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] 
-|                                          (V=S=CL)  (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] 
-| V=S=noun                                           (V=S=APPLINT) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                           (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=NEG) 
-| V=S=noun                                           (V=S=COMPL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+|                                          (V=S=CL)  (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] 
+|                                          (V=S=CL)  (V=S=APPLINST) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| V=S=noun                                           (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| V=S=noun                                           (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] 
+|                                          (V=S=CL)  (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] 
+| V=S=noun                                           (V=S=APPLINT) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| V=S=noun                                           (V=S=PROG) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=NEG) 
+| V=S=noun                                           (V=S=COMPL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 |                                          (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) 
-|                                          (V=S=CL)  (V=S=DUR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-|                                          (V=S=CL)  (V=S=DIR) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] (V=S=NEG) 
+|                                          (V=S=CL)  (V=S=DUR) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+|                                          (V=S=CL)  (V=S=DIR) (V=S=REGR) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=NEG) 
 # -----------------------------------------------------------------------------
-# V=S=noun (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
-# (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
+# V=S=noun (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
+# (POSSREL) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) | 
 ! kamahimentaaro / =kam -a -hime -nt -aa -ro / =to.die -ep -husband -poss.rel -real -nmz / ES: 'viuda', EN: 'widow' 
 ! kamahimentaari / =kam -a -hime -nt -aa -ri / =to.die -ep -husband -poss.rel -real -nmz / ES: 'viudo', EN: 'widow' 
 # -----------------------------------------------------------------------------
@@ -90,9 +90,9 @@ define S [
 | (V=S=IRR) (V=S=OPT) 
 | (V=S=REGR) (V=S=PROG) (V=S=IRR) (V=S=ADV) 
 | (V=S=ADJ) 
-| (V=S=REP) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=REP) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) 
-| (V=S=CAUSSOC) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=CAUSSOC) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) 
 | (V=S=DUR) (V=S=FRUS) (V=S=PRF) (V=S=REAL) (V=S=PRNO) 
 | (V=S=CAUSSOC) (V=S=APPLINST) (V=S=SEMEL) (V=S=IRR) (V=S=PRNO) 
@@ -116,8 +116,8 @@ define S [
 | (V=S=REAL) (V=S=PRNO) 
 | (V=S=PL) (V=S=REAL) (V=S=EXCL) 
 | (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=O) (V=S=PRNO) 
-| (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=DIST) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=DIST) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=PLcircumfixing) 
+| (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=DIST) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=DIST) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=REL) (V=S=PLcircumfixing) 
 | (V=S=IRR) (V=S=CNTF) 
 | (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=APPLREAS) (V=S=REAL) (V=S=NMZ) 
@@ -131,7 +131,7 @@ define S [
 | (V=S=DUR) (V=S=CAUSSOC) (V=S=PRF) (V=S=REAL) (V=S=PRNO) 
 | (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=APPLPRES) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=APPLSEP) (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=APPLSEP) (V=S=PROG) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=ADJ) (V=S=ADV) 
 | (V=S=APPLINST) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=HAB) (V=S=IRR) 
@@ -139,14 +139,14 @@ define S [
 | (V=S=PRF) (V=S=REALRFL) 
 | (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) 
 | (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=APPLREAS) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=APPLREAS) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=NEG) 
+| (V=S=APPLREAS) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=APPLREAS) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=NEG) 
 | (V=S=FRUS) (V=S=REAL) 
 | (V=S=DIR) (V=S=PRF) (V=S=IRR) 
 | (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=ADV) 
 | (V=S=PRF) (V=S=IRR) 
 | (V=S=REGR) (V=S=IRR) (V=S=O) (V=S=PRNO) 
-| (V=S=DUR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) 
+| (V=S=DUR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) 
 | (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=REAL) (V=S=AUG) 
 | (V=S=CAUSSOC) (V=S=NMZ) (V=S=REAL) (V=S=REL) (V=S=Q) 
@@ -155,7 +155,7 @@ define S [
 | (V=S=DUB) 
 | (V=S=before) (V=S=REAL) 
 | (V=S=IRR) (V=S=REL) (V=S=Q) 
-| (V=S=APPL) (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) 
+| (V=S=APPL) (V=S=PROG) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) 
 | (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=PRF) (V=S=REAL) (V=S=O) (V=S=PRNO) 
 | (V=S=REAL) (V=S=ADV) 
@@ -171,8 +171,8 @@ define S [
 | (V=S=APPLINST) (V=S=REAL) (V=S=PRNO) 
 | (V=S=ADJ) (V=S=smallpart) (V=S=DIM) # nominalization 
 | (V=S=DIR) (V=S=PRF) (V=S=PL) (V=S=REAL) (V=S=PLcircumfixing) 
-| (V=S=DEGR) (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=DEGR) (V=S=PROG) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=DUB) 
+| (V=S=DEGR) (V=S=PROG) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=DEGR) (V=S=PROG) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=DUB) 
 | (V=S=SEMEL) (V=S=REAL) (V=S=PRNO) 
 | (V=S=REV) (V=S=APPL) (V=S=PRF) (V=S=REAL) 
 | (V=S=ADV) 
@@ -223,8 +223,8 @@ define S [
 | (V=S=INCH) (V=S=ICPL) (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=FRUS) (V=S=PRF) (V=S=REAL) 
 | (V=S=IMPP) (V=S=REAL) (V=S=PRNO) (V=S=Q) 
-| (V=S=IMPP) (V=S=APPLINST) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! i=shinko-t-ai-t-ant-a-ri-ri 
-| (V=S=APPLREAS) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=IMPP) (V=S=APPLINST) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! i=shinko-t-ai-t-ant-a-ri-ri 
+| (V=S=APPLREAS) (V=S=STAT) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=PROG) (V=S=IRR) 
 | (V=S=APPLREAS) (V=S=ADJ) 
 | (V=S=PRF) (V=S=IRR) 
@@ -257,7 +257,7 @@ define S [
 | (V=S=DUR) (V=S=REP) (V=S=DIST) (V=S=STAT) (V=S=REL) (V=S=Q) 
 | (V=S=CAUSSOC) (V=S=APPL) (V=S=REGR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 ! a-n-kaa-ki-tz-imaint-ia-ro
-| (V=S=CL) (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=CL) (V=S=INCH) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 ! 
 | (V=S=CL) (V=S=STAT) (V=S=REL) (V=S=Q) 
 | (V=S=DUR) (V=S=IRR) (V=S=PRNO) 
@@ -285,7 +285,7 @@ define S [
 | (V=S=APPL) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=AUG) (V=S=IRR) (V=S=PRNO) 
 | (V=S=IRR) (V=S=EMPH) 
-| (V=S=REP) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=REP) (V=S=PL) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=DUR) (V=S=PL) (V=S=STAT) (V=S=REL) (V=S=Q) 
 | (V=S=PL) (V=S=PL) (V=S=REAL) (V=S=PLcircumfixing) 
 | (V=S=PRF) (V=S=REAL) (V=S=EMPH) 
@@ -296,12 +296,12 @@ define S [
 | (V=S=APPL) (V=S=PRF) (V=S=REAL) (V=S=PRNO) 
 | (V=S=REGR) (V=S=APPLREAS) (V=S=REAL) 
 | (V=S=FRUS) (V=S=REAL) (V=S=OPT) 
-| (V=S=APPLSEP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=CNTF) ! y=a-apitsa-t-ak-i-ni-ri 'he took her away from him' 
-| (V=S=APPLSEP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! =a-pitsa-t-ak-i-ri-ri / EN: 'the.one.that.took.it.away'; ES: 'el.que.le.quitó' 
+| (V=S=APPLSEP) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=CNTF) ! y=a-apitsa-t-ak-i-ni-ri 'he took her away from him' 
+| (V=S=APPLSEP) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! =a-pitsa-t-ak-i-ri-ri / EN: 'the.one.that.took.it.away'; ES: 'el.que.le.quitó' 
 | (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=CNTF) 
-| (V=S=APPL) (V=S=REP) (V=S=PL) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=REP) (V=S=HAB) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) ! sokij-aa-t-apini-t-atsi-ri
-| (V=S=APPL) (V=S=APPLREAS) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) ! amen-ako-t-ant-atsi-ri
+| (V=S=APPL) (V=S=REP) (V=S=PL) (V=S=STAT) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=REP) (V=S=HAB) (V=S=STAT) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=REL) (V=S=Q) ! sokij-aa-t-apini-t-atsi-ri
+| (V=S=APPL) (V=S=APPLREAS) (V=S=STAT) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=REL) (V=S=Q) ! amen-ako-t-ant-atsi-ri
 | (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=COND) 
 | (V=S=DIR) (V=S=PRF) (V=S=IRR) 
 | (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) 
@@ -345,7 +345,7 @@ define S [
 | (V=S=REP) (V=S=PROG) (V=S=IRR) (V=S=PRNO) 
 | (V=S=APPLREAS) (V=S=REGR) (V=S=IRR) 
 | (V=S=APPLREAS) (V=S=REGR) (V=S=REAL) 
-| (V=S=DUR) (V=S=PL) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=PLcircumfixing) 
+| (V=S=DUR) (V=S=PL) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=PLcircumfixing) 
 | (V=S=APPLREAS) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=REL) (V=S=Q) 
 | (V=S=APPLREAS) (V=S=PRF) (V=S=IRR) 
 | (V=S=PL) (V=S=REAL) (V=S=PRNO) 
@@ -354,7 +354,7 @@ define S [
 | (V=S=REGR) (V=S=IRR) (V=S=OPT) 
 | (V=S=PROG) (V=S=PRNO) 
 | (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=OPT) 
-| (V=S=APPLPRES) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=OPT) 
+| (V=S=APPLPRES) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=OPT) 
 | (V=S=APPLINT) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) 
 | (V=S=APPLREAS) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=APPL) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) 
@@ -364,7 +364,7 @@ define S [
 | (V=S=REGR) (V=S=IRR) (V=S=COND) 
 # --------------------------------------------------------- 
 ! pintziriitzimaityaro / pi- n- =tziri -itz -imai -t -ya -ro / 2a- irr- =to.rub -icpl -inch -irr -3n.m.o / EN: 'you.rub.it' 
-| (V=S=ICPL) (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=ICPL) (V=S=INCH) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 # ---------------------------------------------------------
 | (V=S=APPL) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=APPLREAS) (V=S=IRR) 
@@ -388,8 +388,8 @@ define S [
 | (V=S=APPLINT) (V=S=PROG) (V=S=REAL) (V=S=PRNO) 
 | (V=S=REALEMPH) 
 !  
-| (V=S=APPLINT) (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=APPL) (V=S=INCH) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=APPLINT) (V=S=INCH) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=APPL) (V=S=INCH) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 !  
 | (V=S=APPLINT) (V=S=REAL) (V=S=PRNO) 
 | (V=S=SEMEL) (V=S=IRR) (V=S=PRNO) 
@@ -416,8 +416,8 @@ define S [
 | (V=S=DUR) (V=S=IRR) (V=S=COND) 
 ! 
 | (V=S=IRR) (V=S=ADV) 
-| (V=S=HAB) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=HAB) (V=S=APPLINST) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=HAB) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=HAB) (V=S=APPLINST) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=APPLREAS) (V=S=DIR) (V=S=ICPL) (V=S=IRR) (V=S=REL) (V=S=Q) 
 | (V=S=CAUSSOC) (V=S=PL) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=DIR) (V=S=REAL) 
@@ -432,7 +432,7 @@ define S [
 | (V=S=AUG) (V=S=APPLREAS) (V=S=DIR) (V=S=PRF) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=AUG) (V=S=IRR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=APPLINT) (V=S=DUR) (V=S=REAL) 
-| (V=S=FRUS) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=FRUS) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=DUR) (V=S=REAL) 
 | (V=S=APPLINT) (V=S=IRR) 
 | (V=S=IRR) (V=S=CAUSSOC) (V=S=PRF) (V=S=PRNO) 
@@ -452,11 +452,11 @@ define S [
 | (V=S=APPL) (V=S=DIR) (V=S=PRF) (V=S=REAL) 
 | (V=S=APPL) (V=S=IRR) (V=S=PRNO) 
 | (V=S=CAUSSOC) (V=S=REAL) (V=S=PRNO) 
-| (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=ICPL) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! ikantakaantaitane / i=kant-aka-ant-a-it-a-ne ???
+| (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=ICPL) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! ikantakaantaitane / i=kant-aka-ant-a-it-a-ne ???
 | (V=S=IMPP) (V=S=REAL) (V=S=O) (V=S=PRNO) 
 | (V=S=HAB) (V=S=REAL) 
-| (V=S=RCP) (V=S=PRF) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=RCP) (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=HAB) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=RCP) (V=S=PRF) (V=S=REGR) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=RCP) (V=S=CAUSSOC) (V=S=APPLREAS) (V=S=HAB) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=REGR) (V=S=ICPL) (V=S=IRR) (V=S=EMPH) (V=S=CNTF) 
 | (V=S=APPL) (V=S=DIR) (V=S=REAL) 
 | (V=S=PRF) (V=S=IRR) (V=S=COND) 
@@ -503,16 +503,16 @@ define S [
 | (V=S=DIST) (V=S=REAL) (V=S=PRNO) 
 | (V=S=APPL) (V=S=REAL) 
 | (V=S=APPL) (V=S=REAL) 
-| (V=S=APPL) (V=S=DIST) (V=S=DIR) (V=S=PL) (V=S=REGR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! to be revised 
+| (V=S=APPL) (V=S=DIST) (V=S=DIR) (V=S=PL) (V=S=REGR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! to be revised 
 | (V=S=PRF) (V=S=IRR) (V=S=O) (V=S=COND) 
 | (V=S=APPLREAS) (V=S=DIR) (V=S=REGR) (V=S=IRR) (V=S=REL) (V=S=Q) 
-| (V=S=DUR) (V=S=APPLINT) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=DUR) (V=S=APPLINT) (V=S=STAT) [(V=S=REAL)|(V=S=IRR)] (V=S=PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
+| (V=S=DUR) (V=S=APPLINT) (V=S=STAT) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=DUR) (V=S=APPLINT) (V=S=STAT) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
 ! ICPL 
-| (V=S=REGR) (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=EMPH) (V=S=CNTF) 
-| (V=S=REP) (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=ADV) 
-| (V=S=REV) (V=S=APPL) (V=S=ICPL) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) 
-| (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=OPT) ! a-m-pishe-i-t-e-ri=ta 
+| (V=S=REGR) (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=EMPH) (V=S=CNTF) 
+| (V=S=REP) (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=ADV) 
+| (V=S=REV) (V=S=APPL) (V=S=ICPL) (V=S=REGR) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) 
+| (V=S=ICPL) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=OPT) ! a-m-pishe-i-t-e-ri=ta 
 ! 
 | (V=S=DIR) (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) 
 | (V=S=REV) (V=S=PRF) (V=S=IRR) (V=S=PRNO) 
@@ -525,8 +525,8 @@ define S [
 | (V=S=STATIPRF) (V=S=REL) (V=S=ADV) 
 | (V=S=neck) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=ADV) 
 | (V=S=CAUSSOC) (V=S=DIR) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=SUB) 
-| (V=S=DIR) (V=S=IMPP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=DIR) (V=S=IMPP) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=SUB) 
+| (V=S=DIR) (V=S=IMPP) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=DIR) (V=S=IMPP) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=SUB) 
 | (V=S=HAB) (V=S=REAL) 
 | (V=S=REAL) (V=S=SUB) 
 | (V=S=DUR) (V=S=REAL) (V=S=PRNO) (V=S=NEG) (V=S=ADV) 
@@ -536,39 +536,39 @@ define S [
 | (V=S=IRR) (V=S=CAUSSOC) (V=S=PRF) (V=S=PRNO) 
 | (V=S=STATIPRF) (V=S=NMZ) (V=S=ADV) 
 | (V=S=PL) (V=S=STAT) (V=S=REL) (V=S=Q) 
-| (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
+| (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
 | (V=S=DEXT) (V=S=STAT) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=DEXT) (V=S=APPL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=DIST) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=NEG) (V=S=ADV) 
-| (V=S=REV) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=POSN) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=DIST) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=NEG) (V=S=ADV) 
+| (V=S=REV) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=POSN) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=REV) (V=S=STAT) (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=REV) (V=S=APPL) (V=S=APPLBEN) (V=S=PL) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=REV) (V=S=APPL) (V=S=APPLBEN) (V=S=DEXT) (V=S=FRUS) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=APPLREF) (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=REV) (V=S=APPL) (V=S=APPLBEN) (V=S=PL) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=REV) (V=S=APPL) (V=S=APPLBEN) (V=S=DEXT) (V=S=FRUS) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=APPLREF) (V=S=DEXT) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 
 | (V=S=S) (V=S=NMZ) 
-| (V=S=REP) (V=S=S) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL)  
+| (V=S=REP) (V=S=S) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL)  
 | (V=S=S) (V=S=APPLINST) (V=S=STAT) (V=S=REL)  
 
 ! (V=S=1SGposs) (V=S=DIST) 
-| (V=S=UNK1) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=UNK1) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=DLMT) (V=S=REL) 
-| (V=S=REGR) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=APPLBEN) (V=S=PL) (V=S=APPLREAS) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
-| (V=S=NEWDISC) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=EXCL) ! ompoh-ak-i-na-vi 
-| (V=S=RCP) (V=S=CAUSSOC) (V=S=HAB) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=PLcircumfixing)  
+| (V=S=REGR) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=APPLBEN) (V=S=PL) (V=S=APPLREAS) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
+| (V=S=NEWDISC) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=EXCL) ! ompoh-ak-i-na-vi 
+| (V=S=RCP) (V=S=CAUSSOC) (V=S=HAB) (V=S=PL) (V=S=DIR) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=PLcircumfixing)  
 | (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) (V=S=STAT) (V=S=REL)  
-| (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) (V=S=DUR) [(V=S=REAL)|(V=S=IRR)] (V=S=RPST)  
-| (V=S=RCP) (V=S=CAUSSOC) (V=S=PL) (V=S=REGR) [(V=S=REAL)|(V=S=IRR)]  
+| (V=S=RCP) (V=S=CAUSSOC) (V=S=REGR) (V=S=DUR) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=RPST)  
+| (V=S=RCP) (V=S=CAUSSOC) (V=S=PL) (V=S=REGR) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)]  
 
-| (V=S=ADV=SET2) (V=S=DIR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
-| (V=S=ADV=SET2) (V=S=HAB) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
-| (V=S=REP) (V=S=ADV=SET2) (V=S=PRF) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
+| (V=S=ADV=SET2) (V=S=DIR) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
+| (V=S=ADV=SET2) (V=S=HAB) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
+| (V=S=REP) (V=S=ADV=SET2) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
 
 # eiro aneahiritsi / ES: 'No lo veremos otra vez' 
-| (V=S=REGR) [(V=S=REAL)|(V=S=IRR)] (V=S=O) (V=S=PRNO) (V=S=NEG)  
+| (V=S=REGR) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=NEG)  
 ];
 
