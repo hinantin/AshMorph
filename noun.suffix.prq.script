@@ -142,7 +142,7 @@ define N=S=CL [
 | "[--][-pari][+CL:root][=root]" : {pari} 
 | "[--][-paere][+CL:root][=root]" : {paere} 
 
-| "[--][-kota][+CL:piece][=piece; split.plank-like]" : {kota} 
+| "[--][-kota][+CL:piece][=piece; split.plank-like; small,flat,thin]" : {kota} 
        ! .. 
 # mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stone.pile'; ES: 'pedregal'  
 # -poroki: acne; coagulated.blood.drops; sand.particles
