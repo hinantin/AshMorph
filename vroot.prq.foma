@@ -488,10 +488,10 @@ define VRootPRQin [
 | "[=iripero][VRoot][=to.be.factual, to.be.truth]" : {iripero}
 | "[=iriipero][VRoot][=to.be.factual, to.be.truth]" : {iriipero}
 ! 
-| "[=keme][VRoot][=to.scrape, to.carve]" : {keme}
-| "[=kime][VRoot][=to.scrape, to.carve]" : {kime}
-| "[=kemi][VRoot][=to.scrape, to.carve]" : {kemi}
-| "[=kimi][VRoot][=to.scrape, to.carve]" : {kimi}
+| "[=keme][VRoot][=to.scrape (ES: raspar), to.carve (ES: tallar)]" : {keme}
+| "[=kime][VRoot][=to.scrape (ES: raspar), to.carve (ES: tallar)]" : {kime}
+| "[=kemi][VRoot][=to.scrape (ES: raspar), to.carve (ES: tallar)]" : {kemi}
+| "[=kimi][VRoot][=to.scrape (ES: raspar), to.carve (ES: tallar)]" : {kimi}
 ! 
 ! ikeanaji / ikeanahi / i- =ke -an -ah -i / 3m.s- =to.enter -dir -regr -real / ES: 'entrar, ingresar' 
 | "[=ky][VRoot][=to.enter (ES: ingresar)]" : {ky}
@@ -630,7 +630,7 @@ define VRootPRQin [
 | "[=ichoh][VRoot][=to.spit]" : {ichoh}
 | "[=ichooh][VRoot][=to.spit]" : {ichooh}
 | "[=kishok][VRoot][=to.spit; to.mouth_spray]" : {kishok}
-| "[=kichoh][VRoot][=to.spit]" : {kichoh}
+| "[=kichoh][VRoot][=to.spit (ES: escupir)]" : {kichoh}
 ! 
 | "[=kiv][VRoot][=to.wash]" : {kiv}
 | "[=kiv+redup.][VRoot][=to.wash]" : {kivakiva}
