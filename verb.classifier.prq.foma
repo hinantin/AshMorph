@@ -16,7 +16,7 @@ define V=S=CL [
 | "[--][-tsantsana][+CL:wide][=wide]" : "@EP"{tsantsana} ! @CL 
 | "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : "@EP"{pa} ! @CL  
 | "[--][-pontso][+CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point]" : "@EP"{pontso} ! @CL  
-| "[--][-patsa][+CL:mass][=mass; jelly-like.(soil)]" : "@EP"{patsa} ! @CL 
+| "[--][-patsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : "@EP"{patsa} ! @CL 
 | "[--][-nki][+CL:snake][=snake.sp.]" : "@EP"{nki} ! @CL 
 | "[--][-nke][+CL:snake][=snake.sp.]" : "@EP"{nke} ! @CL 
 | "[--][-tenka][+CL:longitudinal.depression][=longitudinal.depression (curved.inwards); convexity]" : "@EP"{tenka} ! @CL  

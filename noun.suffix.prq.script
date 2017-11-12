@@ -239,11 +239,11 @@ define N=S=CL [
 # akoempikintsi / =ako -empiki -ntsi / =hand -cl:small.branch -nposs / EN: 'finger', ES: 'dedo' 
 # akoimpikintsi / =ako -impiki -ntsi / =hand -cl:small.branch -nposs / EN: 'finger', ES: 'dedo' 
 # inchajempeki / inchahempeki / =incha -hempeki / =plant -cl:small.branch / EN: 'firewood'; ES: 'leña' 
-| "[--][-empeki][+CL:small.branch][=small.branch]" : {empeki} 
-| "[--][-empiki][+CL:small.branch][=small.branch]" : {empiki} 
-| "[--][-impeki][+CL:small.branch][=small.branch]" : {impeki} 
-| "[--][-impiki][+CL:small.branch][=small.branch]" : {impiki} 
-| "[--][-hempeki][+CL:small.branch][=small.branch]" : {hempeki} 
+| "[--][-empeki][+CL:small.branch][=small.branch;branching.from.one.node (e.g.: a.limb)]" : {empeki} 
+| "[--][-empiki][+CL:small.branch][=small.branch;branching.from.one.node (e.g.: a.limb)]" : {empiki} 
+| "[--][-impeki][+CL:small.branch][=small.branch;branching.from.one.node (e.g.: a.limb)]" : {impeki} 
+| "[--][-impiki][+CL:small.branch][=small.branch;branching.from.one.node (e.g.: a.limb)]" : {impiki} 
+| "[--][-hempeki][+CL:small.branch][=small.branch;branching.from.one.node (e.g.: a.limb)]" : {hempeki} 
 # this classifier tends to change the gender to n.m. of the nominal roots to which it is adhered.
 | "[--][-i^venki+n.m.][+CL:magic.plant][=magic.plant,piripiri]" : {venki} 
 
