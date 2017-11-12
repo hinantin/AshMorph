@@ -34,8 +34,8 @@ define V=S=DIR [
   "[--][-av+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{av}] 
 | "[--][-aav+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{aav}] 
 # ablative case
-# 1) inchoative: beginning of a new state.
-# 2) inceptive: beginning of a new action.
+# 1) inchoative (INCH): beginning of a new state.
+# 2) inceptive (INCEP): beginning of a new action.
 # 3) continuing action in a series of the actor's activities.
 | "[--][-an+source][Adv][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]" : "@EP"[{an}] 
 # allative 'adlativo' case
