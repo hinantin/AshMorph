@@ -259,8 +259,8 @@ define N=S=CL [
 # substance-and-color.of.soils 
 # ishikopatsa / =ishiko -patsa / =lime -cl:mass / EN: 'soil.with.abundant.lime.stones'  
 # kityonkapatsari / =kityonka -patsa -ri / =to.be.red -cl:mass -nmz / EN: 'reddish.soil' 
-| "[--][-vatsa][+CL:mass][=mass; jelly-like.(soil)]" : {vatsa} 
-| "[--][-patsa][+CL:mass][=mass; jelly-like.(soil)]" : {patsa} ! @CL 
+| "[--][-vatsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {vatsa} 
+| "[--][-patsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {patsa} ! @CL 
 ! .. 
 | "[--][-nki][+CL:snake][=snake.sp.]" : {nki} ! @CL 
 | "[--][-nke][+CL:snake][=snake.sp.]" : {nke} ! @CL 
