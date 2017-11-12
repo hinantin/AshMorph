@@ -147,8 +147,8 @@ define N=S=CL [
 # mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stone.pile'; ES: 'pedregal'  
 # -poroki: acne; coagulated.blood.drops; sand.particles
 #          assortment: a collection of different things or of different types of the same thing.
-| "[--][-poroki][+CL:quantity][=bunch,group]" : {poroki} ! @CL 
-| "[--][-pooki][+CL:quantity][=bunch,group]" : {pooki} ! @CL 
+| "[--][-poroki][+CL:quantity][=bunch,group;group.of.tiny.objects]" : {poroki} ! @CL 
+| "[--][-pooki][+CL:quantity][=bunch,group;group.of.tiny.objects]" : {pooki} ! @CL 
 | "[--][-poroki][+CL:assortment][=crumbs,particles]" : {poroki} ! @CL 
 # 
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
@@ -430,7 +430,8 @@ define N=S=CL [
 ! 
 | "[--][-karaki][+CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : {karaki} ! @CL 
 ! 
-| "[--][-sama][+CL:unit][=unit.of.sth.]" : {sama}
+! isama, osama / ES: 'forma.ovalada/alargada' 
+| "[--][-sama][+CL:unit][=unit.of.sth.;oval,extended]" : {sama}
 #-----------------------------------------------
 | "[--][-ite][+CL:anim.PL][=animate,plural]" : {ite} !  -ite 'animate.classifier' \cite[p.93]{aikhenvald:neg:14} 
 | "[--][-i^te][+CL:anim.PL][=animate,plural]" : {te}
