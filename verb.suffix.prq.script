@@ -186,6 +186,7 @@ define V=S=O [
 ! -kari EN: 'in.order.to.prevent.sth.from.happening'; ES: 'para.que.no; no.sea.(que)' 
 ! -kari EN: 'used.to.introduce.the.reason.for.the.particular.emotion.mentioned'; ES: 'con.el.fin.de' 
 define V=S=APPR [
+# omitsitsiyimikari / 
   "[--][-kari][+APPR][=lest (in.order.to.prevent)]" : "@EP"[{kari}]
 ];
       
