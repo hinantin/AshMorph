@@ -3673,9 +3673,9 @@ define NRootPRQin [
 | "[=varipa+m.][NRoot][=rooster]" : {varipa}
 | "[=vatsa+n./m.+inal.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
 ! 
-| "[=veane+inal.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {veane}
-| "[=peane+inal.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {peane}
-| "[=viane+inal.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {viane}
+| "[=veane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {veane}
+| "[=peane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {peane}
+| "[=viane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {viane}
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
 ! 

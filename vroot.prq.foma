@@ -555,7 +555,9 @@ define VRootPRQin [
 ! 
 | "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
 | "[=kenkishirI][VRoot][=to.believe, to.think]" : {kenkishiri}
-!
+! 
+| "[=kichank][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kichank}
+! 
 | "[=kinkitsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kinkitsa}
 | "[=kenkitsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kenkitsa}
 | "[=kenketsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kenketsa}
@@ -835,7 +837,7 @@ define VRootPRQin [
 # ------------------------------------------
 | "[=moon][VRoot][=to.make.a.hole.in.sth.]" : {moon}
 # ------------------------------------------
-| "[=morek][VRoot][=to.burn]" : {morek}
+| "[=morek][VRoot][=to.burn (ES: arder)]" : {morek}
 ! 
 | "[=moron][VRoot][=to.make.a.hole]" : {moron} ! O=moron-t-ak-i-na 'me hice un hueco'
 | "[=moronta][VRoot][=to.make.a.hole]" : {moronta} ! i=moronta-ye-t-ak-i-ro 'se hace huecos'
