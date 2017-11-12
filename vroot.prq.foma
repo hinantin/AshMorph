@@ -225,7 +225,7 @@ define VRootPRQin [
 | "[=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {atsik}
 ! 
 # arrollar 
-| "[=atsinak][VRoot][=to.squash.sth.; to.squeeze.sth.; to.crush.sth. (ES: aplastar, machucar; apretar)]" : {atsinak}
+| "[=atsinak][VRoot][=to.squash.sth.; to.squeeze.sth.; to.crush.sth. (ES: aplastar,arrollar; machucar; apretar)]" : {atsinak}
 ! 
 | "[=atisank][VRoot][=to.sneeze (ES: estornudar)]" : {atisank}
 | "[=atsink][VRoot][=to.sneeze (ES: estornudar)]" : {atsink}
@@ -1635,6 +1635,7 @@ define VRootPRQin [
 ! 
 | "[=tyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tyerov}
 | "[=tiyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tiyerov}
+| "[=tiyero][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tiyero}
 ! 
 | "[=tyoo][VRoot][=to.honk]" : {tyoo}
 | "[=tio][VRoot][=to.honk]" : {tio}
