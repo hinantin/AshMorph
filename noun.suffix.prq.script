@@ -424,9 +424,16 @@ define N=S=CL [
 ! ojabobakota / o- =jabo -bako -t -a / 3n.m.s- =to.soap.sth -cl:hand -ep -real / EN: 'she.soaps.her.hands' 
 | "[--][-vako][+CL:hand][=hand]" : {vako} ! @CL 
 ! 
-! monkarakaraki / =monkara -karaki / =to.measure -cl:fractional / ES: 'fracción'  
-! inchakaraki / =incha -karaki / =plant -cl:fractional / ES: 'palo.seco' 
-! chekopikaraki / =chekopi -karaki /  
+! monkarakaraki / =monkara -karaki / =to.measure -cl:fractional / EN: 'fraction'; ES: 'fracción'  
+! inchakaraki / =incha -karaki / =plant -cl:fractional / ES: 'palo.seco'  
+! chekopikaraki / =chekopi -karaki / =small.cane -cl:fractional / ES: 'palito.de.izana' (*) izana: parte.de.la.flecha.donde.se.coloca.la.punta 
+! 1/1000 / irinkaraki / ES: 'milésimo' 
+! 1/100 / shekikaraki / ES: 'centésimo' 
+! 1/10 / tsakaraki / ES: 'décimo' 
+! 1/6 / ikokaraki / ES: 'sexto' 
+! 1/5 / konikaraki / ES: 'quinto' 
+! 1/4 / otsikaraki / ES: 'cuarto' 
+! 1/3 / mavakaraki / ES: 'tercio' 
 ! 
 | "[--][-karaki][+CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : {karaki} ! @CL 
 ! 
