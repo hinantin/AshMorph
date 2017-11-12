@@ -14,7 +14,7 @@ define NounToVerbPRQin [
 | "[=atziri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atziri} ! N@->V @VCMP
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atiri} ! N@->V @VCMP
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atsiri} ! N@->V @VCMP
-| "[=chakopi+n.m.+poss@te.][NRoot][=arrow; small.cane (cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
+| "[=chakopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {chaine} ! N@->V
 | "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charini} ! N@->V ! is te as a possessive correct ????
