@@ -33,6 +33,11 @@ define NRootESin [
 ! 
 | "[=cuchara][NRootEs][=spoon]" : {cochara}
 ! 
+| "[=comadre][NRootEs][=godmother.of.one's.child]" : {komaatiro}
+| "[=comadre][NRootEs][=godmother.of.one's.child]" : {komaari}
+! 
+| "[=compadre][NRootEs][=godfather.of.one's.child]" : {komaatirori}
+! 
 | "[=compadre][NRootEs][=godparent; spiritual.father]" : {compadre} ! N@->V 
 ! 
 | "[=compañia][NRootEs][=company]" : {compañia}
