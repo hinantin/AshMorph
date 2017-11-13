@@ -612,7 +612,10 @@ define V=S=small [
       
 ! It signals the beginning phase of an activity/situation. 
 define V=S=INCH [
+# --------------------------------------------------------------------------
+# Inceptive 
   "[--][-ima][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{ima}]
+# --------------------------------------------------------------------------
 | "[--][-imai][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{imai}]
 | "[--][-imaint][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{imaint}]
 | "[--][-amaint][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{amaint}]
