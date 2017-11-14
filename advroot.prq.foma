@@ -43,10 +43,11 @@ define AdvRootPRQin [
 | "[=irohatzi][AdvRoot][=until, when]" : {irohatzi}
 | "[=irohati][AdvRoot][=until, when]" : {irohati}
 ! 
-| "[=ironya][AdvRoot][=now]" : {ironya}
-| "[=ronyaa][AdvRoot][=now]" : {ronyaa}
-| "[=ironyaaka][AdvRoot][=now]" : {ironyaaka}
-| "[=ironyaka][AdvRoot][=now]" : {ironyaka}
+| "[=ironya][AdvRoot][=now (ES: ahora)]" : {ironya}
+| "[=ronyaa][AdvRoot][=now (ES: ahora)]" : {ronyaa}
+| "[=ironyaaka][AdvRoot][=now (ES: ahora)]" : {ironyaaka}
+| "[=ronyaaka][AdvRoot][=now (ES: ahora)]" : {ronyaaka}
+| "[=ironyaka][AdvRoot][=now (ES: ahora)]" : {ironyaka}
 ! 
 | "[=kapichekitaite][AdvRoot][=early.morning]" : {kapichekitaite}
 | "[=kapichekitaiteni][AdvRoot][=early.morning]" : {kapichekitaiteni}
