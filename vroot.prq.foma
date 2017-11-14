@@ -799,13 +799,13 @@ define VRootPRQin [
 ! 
 | "[=metso][VRoot][=to.be.soft; to.be.tender]" : {metso}
 ! 
-| "[=mi][VRoot][=to.jump]" : {mi}
-| "[=mit][VRoot][=to.jump]" : {mit}
+| "[=mi][VRoot][=to.jump (ES: saltar)]" : {mi}
+| "[=mit][VRoot][=to.jump (ES: saltar)]" : {mit}
 # nomitaji / nomitahi / no- =mitah -i / 1sg.s- =to.jump -real / EN: 'I.am.jumping'; ES: 'estoy.saltando' 
 | "[=mitah][VRoot][=to.jump (ES: saltar, brincar)]" : {mitah}
 # miamiataantsi / =mi+redup. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
 # imiamiataeyeni / i- =mi+redup. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
-| "[=mi+redup.][VRoot][=to.jump (ES: brincar)]" : {miamia}
+| "[=mi+redup.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {miamia}
 ! 
 | "[=mink][VRoot][=to.put]" : {mink}
 | "[=mink][VRoot][=to.insert]" : {mink}
