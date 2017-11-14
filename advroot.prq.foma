@@ -20,7 +20,7 @@ define AdvRootPRQin [
 | "[=intsomoe][AdvRoot][=inside (ES: adentro)]" : {intsomoe} 
 | "[=intsomoeki][AdvRoot][=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
 | "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomoenta} 
-| "[=intsomoi][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomointa} 
+| "[=intsomai][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomainta} 
 ! 
 | "[=intsompoi+loc.][AdvRoot][=inside]" : {intsompoi}
 | "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
