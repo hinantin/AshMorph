@@ -1631,11 +1631,11 @@ define NRootPRQin [
 # Snails
 | "[=mapoto][NRoot][=medium-size.snail]" : {mapoto}
 | "[=sankiro+m.][NRoot][=snail; small-size.snail (ES: caracol.chico)]" : {sankiro}
-| "[=tsoiroki][NRoot][=small-size.snail]" : {tsoiroki}
+| "[=tsoiroki+m.][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=mamporo][NRoot][=big-size.snail]" : {mamporo}
 | "[=pomporo+m.][NRoot][=big-size.snail]" : {pomporo}
 | "[=pompoo+m.][NRoot][=land.snail]" : {pompoo}
-| "[=pompo][NRoot][=land.snail]" : {pompo}
+| "[=pompo+m.][NRoot][=land.snail]" : {pompo}
 ! 
 | "[=tsoiroki][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=tyontiiki][NRoot][=river.snail]" : {tyontiiki}
