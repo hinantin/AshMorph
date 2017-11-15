@@ -602,6 +602,7 @@ define N=S=NMZ [
 | "[--][-inka+quality][+NMZ]" : [{inka}]
 ! 
 # apakotaro / =apa -kota -ro / =one -cl:piece -nmz / EN: 'one.piece'  
+# parenkawo / parenkavo / =pare -nka -vo / =to.fall -nmz -nmz / EN: 'waterfall'; ES: 'caída.de.agua'  
 | "[--][-ri+m.][+NMZ]" : [{ri}]
 | "[--][-ro+n.m.][+NMZ]" : [{ro}]
 | "[--][-vo+n.m.][+NMZ]" : [{vo}]
