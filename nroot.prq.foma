@@ -1646,8 +1646,9 @@ define NRootPRQin [
 | "[=tsoiroki][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=tyontiiki][NRoot][=river.snail]" : {tyontiiki}
 ! 
-| "[=materi][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas)]" : {materi}
-| "[=matiri][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas)]" : {matiri}
+# materiawo / materiavo / =materi -a -vo / =high-gorges.catfish.sp. -cl:liquid -nmz / EN: 'ravine.where.materi-catfish.is.abundant'; ES: 'quebrada.donde.abunda.el.bagre'   
+| "[=materi][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre)]" : {materi}
+| "[=matiri][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre)]" : {matiri}
 ! 
 | "[=materinke][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinke}
 | "[=materinki][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinki}
