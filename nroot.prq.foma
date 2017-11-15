@@ -717,6 +717,7 @@ define NRootPRQin [
 | "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
 ! 
+# iskoniki / =isko -ni -ki / =lime -cl:watercourse -cl:human.populated / EN: 'quebrada.donde.abunda.la.cal'; ES: 'ravine.where.lime.is.abundant' 
 | "[=ishiko+poss@te.][NRoot][=lime (ES: cal)]" : {ishiko}
 | "[=isko+poss@te.][NRoot][=lime (ES: cal)]" : {isko}
 ! 
