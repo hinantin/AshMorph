@@ -182,6 +182,7 @@ define N=S=CL [
 ! chakopi / EN: 'arrow' 
 ! irantsipi / [=ira -ntsi -pi]+n.m. / =blood -nposs -cl:rigid,hollow / EN: 'sugar.cane.sp.'; ES: 'sp.de.caña.de.azúcar'
 | "[--][-pi][+CL:rigid,hollow][=rigid,hollow; long,slender,hollow]" : {pi}  
+! 
 ! mamaropa / =mamaro -pa / =owl -cl:plantain / EN: 'plantain.sp.'; ES: 'especie.de.plátano' 
 ! chenteropa / =chentero -pa / =palm.tree.sp. -cl:plantain / EN: 'plantain.sp.'; ES: 'especie.de.plátano' 
 ! akapa / =akapa / =avocado / EN: 'avocado' 
@@ -189,6 +190,10 @@ define N=S=CL [
 | "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : {pa} ! @CL  
 | "[--][-paro][+CL:banana][=banana,plantain]" : {paro} 
 | "[--][-pavo][+CL:banana][=banana,plantain]" : {pavo} 
+! 
+! sheath 'vaina';  
+| "[--][-pa][+CL:sheath-like,long-and-slender][=sheath-like,long-and-slender]" : {pa} 
+! 
 ! caniritaqui / kaniritaki / =kaniri -taki / =yucca -cl:skin,peel / EN: 'yuca.skin'; ES: 'cáscara.de.yuca'  
 | "[--][-taki][+CL:skin,peel][=skins,hard.outer.coverings]" : {taki} 
 ! 
