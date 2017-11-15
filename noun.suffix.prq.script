@@ -202,7 +202,7 @@ define N=S=CL [
 | "[--][-minka][+CL:cylinder-like,elongated][=cylinder-like,elongated]" : {minka} ! +SHAPE 
 | "[--][-minkaa][+CL:cylinder-like,elongated][=cylinder-like,elongated]" : {minkaa} ! +SHAPE 
 ! 
-# inchapanashiki / =incha -pana -shi -ki / =plant -cl:flat,broad -cl:leaf-like -loc 
+# inchapanashiki / =incha -pana -shi -ki / =plant -cl:flat,broad -cl:leaf-like -loc / EN: 'wide.leaf'  
 | "[--][-pana][+CL:flat,broad][=wide.green.leaf-like;flat,broad]" : {pana} ! +SHAPE 
 | "[--][-vana][+CL:flat,broad][=wide.green.leaf-like;flat,broad]" : {vana} ! +SHAPE 
 # ??? 
