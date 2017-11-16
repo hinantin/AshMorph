@@ -187,10 +187,12 @@ define V=S=O [
 | "[--][-ne][+3SG.O]" : "@EP"[{ne}] 
 ];
       
-! -kari EN: 'in.order.to.prevent.sth.from.happening'; ES: 'para.que.no; no.sea.(que)' 
+! -kari EN: 'in.order.to.prevent.sth.from.happening'; ES: 'para.que.no; no.sea.(que); sino' 
 ! -kari EN: 'used.to.introduce.the.reason.for.the.particular.emotion.mentioned'; ES: 'con.el.fin.de' 
 define V=S=APPR [
-# omitsitsiyimikari / 
+# omitsitsiyimikari / o- =mitsitsiy -i -mi -kari / 3n.m.s- = / ES: 'para.que.no.te.hundas'  
+# *) pintzinai, anankorimikari shenotsi / pi- N- =tzin -a -i *** =anankori -mi -kari *** =shenotsi / 2s- irr- =to.rise -term -irr *** =to.cross -2sg.o -appr *** =goiter  
+#    EN: 'get up! lest you cross the goiter'; ES: 'levántate, sino te va a cruzar la mamá del bocio' 
   "[--][-kari][+APPR][=lest (in.order.to.prevent)]" : "@EP"[{kari}]
 ];
       
