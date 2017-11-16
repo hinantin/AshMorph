@@ -3104,9 +3104,9 @@ define NRootPRQin [
 | "[=shintaki][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintaki}
 | "[=shintake][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintake}
 ! 
-| "[=shinto+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {shinto}
-| "[=ishinto+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishinto} # nishinto
-| "[=ishintyo+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishintyo} # nishintyo
+| "[=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.of.fe/male)]" : {shinto}
+| "[=ishinto+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishinto} # nishinto, revise inal.??
+| "[=ishintyo+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishintyo} # nishintyo, revise inal.??
 ! 
 | "[=shintsipaa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintsipaa}
 | "[=shintzipa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintzipa}
