@@ -409,7 +409,8 @@ define VRootPRQin [
 ! 
 | "[=kamant][VRoot][=to.inform; to.advise]" : {kamant}
 ! 
-| "[=kamarank][VRoot][=to.vomit]" : {kamarank}
+| "[=kamarank][VRoot][=to.vomit (ES: vomitar)]" : {kamarank}
+| "[=kamaank][VRoot][=to.vomit (ES: vomitar)]" : {kamaank}
 ! 
 | "[=kamatsa][VRoot][=to.crawl (ES: gatear)]" : {kamatsa}
 | "[=akamatsa][VRoot][=to.crawl (ES: gatear)]" : {akamatsa} ! only 1 ocurrence ???
