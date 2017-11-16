@@ -1147,6 +1147,9 @@ define NRootPRQin [
 | "[=kemitoki][NRoot][=cacao]" : {kemitoki}
 # ------------------------------------------------------------ 
 ! 
+# kemporikishi / =kempori =kishi / =palm.tree.sp. =mountainous.grassland / EN: 'mountainous.grassland.where.the.kempori-palm_tree.is.abundant'; ES: 'pajonal.donde.abunda.el.kempori' 
+| "[=kempori][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {kempori}
+! 
 | "[=kemporiki][NRoot][=yellow-fruit.producing.shrub.sp. (ES: guayaba)]" : {kemporiki}
 # ----------------------------------------------------------
 # kimo
