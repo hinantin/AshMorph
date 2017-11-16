@@ -155,8 +155,10 @@ define N=S=CL [
 
 ! inkaña / inkanya / =inka -nya / =rain.related -cl:small.shallow.pool / EN: 'small.shallow.pool.of.rainwater' 
 | "[--][-naki][+CL:round.hollow][=round,hollow;interior.space]" : {naki} 
-| "[--][-na][+CL:long.hollow][=long,hollow (ES: alongado,ahuecado); round,hollow; large,deep.pool.of.water]" : {na} 
-| "[--][-nya][+CL:small.shallow.pool][=small.shallow.pool.of.water]" : {nya} 
+| "[--][-na][+CL:long.hollow][=long,hollow (ES: alongado,ahuecado); round,hollow]" : {na} 
+! 
+| "[--][-na][+CL:large,deep.pool.of.water][=large,deep.pool.of.water; stagnant.water.pool]" : {na} 
+| "[--][-nya][+CL:small.shallow.pool][=small.shallow.pool.of.water; stagnant.water.pool]" : {nya} 
 ! 
 | "[--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ki} ! @CL +SHAPE
 | "[--][-ke][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ke} ! sheyaque @CL +SHAPE
