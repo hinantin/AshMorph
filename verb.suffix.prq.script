@@ -476,8 +476,8 @@ define V=S=DIMDEGR [
       
 # purpusive: action.done.with.some.purpose.in.view 
 define V=S=APPLINT [
-  "[--][-ashi][+APPL.INT][=purpose,intent]" : "@EP"[{ashi}]
-| "[--][-shi][+APPL.INT][=purpose,intent]" : "@EP"[{shi}]
+  "[--][-ashi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{ashi}]
+| "[--][-shi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{shi}]
 ];
       
 define V=S=LOC [
