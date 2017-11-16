@@ -7,16 +7,17 @@ define NRootPRQin [
 | "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V @VCMP 
 | "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aane} ! N@->V @VCMP 
 ! 
-| "[=aaniri+inal.][NRoot][=orphan (ES: huérfano)]" : {aaniri} 
+| "[=aaniri+inal@ntsi.][NRoot][=orphan (ES: huérfano)]" : {aaniri} 
 ! 
-| "[-=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V 
+| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V 
 ! 
 | "[=amai+n.m.][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amai} 
 ! 
 | "[=amaisha][NRoot][=Yanesha, Amuesha]" : {amaisha} 
 ! 
-| "[=ampate+inal.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampate} 
-| "[=ampati+inal.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampati} 
+# ampatentsi / =ampate -ntsi / =left.hand -nposs / EN: 'left.hand'; ES: 'mano.izquierda' 
+| "[=ampate+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampate} 
+| "[=ampati+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampati} 
 ! 
 | "[=apapanani][NRoot][=the.brook.of.liver.parts]" : {apapanani} 
 ! 
