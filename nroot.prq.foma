@@ -231,7 +231,8 @@ define NRootPRQin [
 ! 
 # ochao inchato / o- =chao =inchato / 3n.m.poss- =branch =tree EN: 'the.branch.of.a.tree' ES: 'la.rama.de.un.arbol'  
 # chaotsi / =chao -tsi / =branch -nposs / EN: 'branch', ES: 'rama'  
-| "[=chao+inal.][NRoot][=branch]" : {chao} 
+# ochaoja nija / ochaoha niha / o- =chao -ha ** =niha / 3n.m.poss- =branch -cl:liquid ** =river / ES: 'defluente.del.río'  
+| "[=chao+inal@tsi.][NRoot][=branch]" : {chao}  
 ! 
 | "[=chavo][NRoot][=bird.sp., crax.sp. (shansho, hoazín)]" : {chavo}
 ! 
@@ -303,8 +304,8 @@ define NRootPRQin [
 ! 
 | "[=chetaki+inal.][NRoot][=rheum (ES: legaña)]" : {chetaki} ! N@->V
 ! 
-# ochevaa / o- =chevaa / EN: 'river's.branch, distributary' 
-# ocheva / o- =cheva / ES: 'isla; distributario, defluente' 
+# ochevaa / o- =chevaa / EN: 'river's.branch, distributary'; ES: 'isla; distributario, defluente'  
+# ocheva / o- =cheva / EN: 'river's.branch, distributary'; ES: 'isla; distributario, defluente'  
 | "[=cheva][NRoot][=(river's).branch, distributary (ES: defluente)]" : {cheva}
 | "[=chevaa][NRoot][=(river's).branch, distributary (ES: defluente)]" : {chevaa}
 | "[=chiva][NRoot][=(river's).branch, distributary (ES: defluente)]" : {chiva}
