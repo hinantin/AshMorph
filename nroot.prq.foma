@@ -3321,9 +3321,11 @@ define NRootPRQin [
 # Classifier based nouns
 # ------------------------------------------------
 # otenkana 
-| "[=tenkana][NRoot][=interior; trench (ES: zanja); large-scale.concave.feature (e.g.: ravine, vallay, interstices); small-scale.concave.feature (e.g.: hallway, space.inside.a.walled.house, dug-out.ditch.along.the.road)]" : {tenkana}
+| "[=tenkana][NRoot][=interior; trench (ES: zanja); large-scale.concave.feature (e.g.: ravine, valley, interstices); small-scale.concave.feature (e.g.: hallway, space.inside.a.walled.house, dug-out.ditch.along.the.road)]" : {tenkana}
 # osampana 
 | "[=sampana][NRoot][=large,deep,still.water_pool.connected.to.the.river/stream]" : {sampana}
+# oshincha / o- =shinch~shintsi -a / 3n.m.poss- =to.be.strong -cl:liquid / EN: 'river.current'  
+| "[=shincha][NRoot][=river.current]" : {shincha}
 # ------------------------------------------------
 ! 
 | "[=tioshiki][NRoot][=Job's.tears (ES: lágrima.de.Job; sci.nm.: coix.lacryma-jobi)]" : {tioshiki}
