@@ -2051,6 +2051,7 @@ define NRootPRQin [
 | "[=ompikiri][NRoot][=green-and-gold.tanager (sci.nm.: tangara.schrankii)]" : {ompikiri}
 ! 
 | "[=onampina][NRoot][=side (ES: costado)]" : {onampina}
+| "[=nampina][NRoot][=side (ES: costado)]" : {nampina}
 ! 
 | "[=onero][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {onero}
 ! 
@@ -3358,7 +3359,7 @@ define NRootPRQin [
 | "[=tsirishi][NRoot][=person's.name; plant.sp.]" : {tsirishi}
 ! 
 # otishi / EN: 'hill' 
-| "[=tishi][NRoot][=mountain; hill]" : {tishi}
+| "[=tishi][NRoot][=mountain; hill]" : {tishi}  
 ! 
 | "[=tisoni][NRoot][=black.volture.sp. (gallinazo, sci.nm.: daptrius.ater)]" : {tisoni}
 ! 
