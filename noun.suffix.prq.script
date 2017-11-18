@@ -265,8 +265,15 @@ define N=S=CL [
 | "[--][-tsee][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {tsee} 
 | "[--][-tsei][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {tsei} 
 # substance-and-color.of.soils 
-# ishikopatsa / =ishiko -patsa / =lime -cl:mass / EN: 'soil.with.abundant.lime.stones'  
-# kityonkapatsari / =kityonka -patsa -ri / =to.be.red -cl:mass -nmz / EN: 'reddish.soil' 
+# ishikopatsa / =ishiko -patsa / =lime -cl:jelly-like.soil / EN: 'soil.with.abundant.lime.stones'  
+# kityonkapatsari / =kityonka -patsa -ri / =to.be.red -cl:jelly-like.soil -nmz / EN: 'reddish.soil' 
+# kiteripatsa 
+# tsiripatsa 
+# kisaapatsa 
+# sampovatsa
+# ishikopatsari
+# kiteripatsari
+# kisaapatsari
 | "[--][-vatsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {vatsa} 
 | "[--][-patsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {patsa} ! @CL 
 ! .. 
