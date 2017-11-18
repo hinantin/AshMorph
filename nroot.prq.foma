@@ -1881,12 +1881,12 @@ define NRootPRQin [
 ! pi- n- =tik -a -morinte -shi -t -ea
 | "[=morinte][NRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
 ! 
-| "[=moo+n.m.+inal.][NRoot][=hole]" : {moo}
-| "[=moro+n.m.+inal.][NRoot][=hole]" : {moro} ! N@->V @CMP 
-| "[=omoro][NRoot][=hole]" : {omoro}
-| "[=omoo][NRoot][=hole]" : {omoo}
-| "[=omo][NRoot][=hole]" : {omo}
-| "[=omoca][NRoot][=hole]" : {omoca}
+| "[=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moo}
+| "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP 
+| "[=omoro][NRoot][=hole (ES: hueco)]" : {omoro}
+| "[=omoo][NRoot][=hole (ES: hueco)]" : {omoo}
+| "[=omo][NRoot][=hole (ES: hueco)]" : {omo}
+| "[=omoca][NRoot][=hole (ES: hueco)]" : {omoca}
 ! 
 | "[=morona][NRoot][=hole]" : {morona}
 | "[=morona][NRoot][=cave]" : {morona}
