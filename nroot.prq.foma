@@ -708,9 +708,9 @@ define NRootPRQin [
 | "[=intyatzini+loc.][NRoot][=other.side]" : {intyatzini}
 | "[=intatikiro+loc.][NRoot][=other.side]" : {intatikiro}
 ! 
-| "[=intaina+loc.][AdvRoot][=far.away]" : {intaina} ! N@->V ! revise if it belongs to this file 
-| "[=intaena+loc.][AdvRoot][=far.away]" : {intaena} ! N@->V ! revise if it belongs to this file 
-| "[=inteena+loc.][AdvRoot][=far.away]" : {inteena} ! N@->V ! revise if it belongs to this file 
+| "[=intaina+loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {intaina} ! N@->V ! revise if it belongs to this file 
+| "[=intaena+loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {intaena} ! N@->V ! revise if it belongs to this file 
+| "[=inteena+loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {inteena} ! N@->V ! revise if it belongs to this file 
 | "[=okaakini+loc.][AdvRoot][=in.close.proximity, closeby]" : {okaakini}
 ! 
 | "[=intakiro][AdvRoot][=outside]" : {intakiro}
@@ -1178,9 +1178,10 @@ define NRootPRQin [
 ! 
 | "[=kempiro][NRoot][=venomous.snake.sp. (ES: shushupe)]" : {kempiro}
 ! 
-| "[=kempita+n.m.+inal.][NRoot][=ear (ES: oreja, oído)]" : {kempita}
-| "[=kimpita+n.m.+inal.][NRoot][=ear (ES: oreja, oído)]" : {kimpita}
-| "[=yempita+n.m.+inal.][NRoot][=ear (ES: oreja, oído)]" : {yempita}
+| "[=kempita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kempita}
+| "[=kimpita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kimpita}
+| "[=yempita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {yempita}
+| "[=yempitaa+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {yempitaa}
 ! 
 | "[=kempiti][NRoot][=armored.catfish (carachama), fish.sp.]" : {kempiti}
 | "[=kempitzi][NRoot][=armored.catfish (carachama), fish.sp.]" : {kempitzi}
