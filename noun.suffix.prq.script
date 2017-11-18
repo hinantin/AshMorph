@@ -267,13 +267,14 @@ define N=S=CL [
 # substance-and-color.of.soils 
 # ishikopatsa / =ishiko -patsa / =lime -cl:jelly-like.soil / EN: 'soil.with.abundant.lime.stones'  
 # kityonkapatsari / =kityonka -patsa -ri / =to.be.red -cl:jelly-like.soil -nmz / EN: 'reddish.soil' 
-# kiteripatsa 
+# kiteripatsa /   
 # tsiripatsa 
 # kisaapatsa 
 # sampovatsa
 # ishikopatsari
 # kiteripatsari
 # kisaapatsari
+# kijopatsari / kihopatsari / =to.be.hard -cl:jelly-like.soil -nmz / EN: 'hard.soil'  
 | "[--][-vatsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {vatsa} 
 | "[--][-patsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {patsa} ! @CL 
 ! .. 
