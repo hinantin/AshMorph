@@ -2151,8 +2151,13 @@ define NRootPRQin [
 ! 
 | "[=otsitiniro][NRoot][=fox; wild.dog, mountain.dog]" : {otsitiniro}
 ! 
-| "[=otzishi+n.m.][NRoot][=row; hill; mountain.pass (ES: abra)]" : {otzishi}
-| "[=otishi+n.m.][NRoot][=row; hill; mountain.pass (ES: abra)]" : {otishi}
+# ------------------------------------------------------
+! otzishi ES: 'cumbre triangulada del cerro'  
+| "[=otzishi+n.m.][NRoot][=row; hill; mountain.pass (ES: abra)]" : {otzishi}  
+| "[=otishi+n.m.][NRoot][=row; hill; mountain.pass (ES: abra)]" : {otishi}  
+# otishi / EN: 'hill'  
+| "[=tishi+n.m.][NRoot][=mountain; hill]" : {tishi}  
+# ------------------------------------------------------
 ! 
 | "[=otyamere+n.m.][NRoot][=roasted.yucca]" : {otyamere}
 ! 
@@ -3322,7 +3327,7 @@ define NRootPRQin [
 # ------------------------------------------------
 # otenkana / o- -tenka -na / EN: 'ravine, valley; lit.: it.may.have.(semi)-permanent.watercourse'  
 | "[=tenkana][NRoot][=interior; trench (ES: zanja); large-scale.concave.feature (e.g.: ravine, valley, interstices); small-scale.concave.feature (e.g.: hallway, space.inside.a.walled.house, dug-out.ditch.along.the.road)]" : {tenkana}
-# osampana / 
+# osampana / o- =sampa -na / 3n.m.poss- =to.dry.in.the.sun -cl:large,deep.pool.of.water / ES: ''   
 | "[=sampana][NRoot][=large,deep,still.water_pool.connected.to.the.river/stream]" : {sampana}
 # oshincha / o- =shinch~shintsi -a / 3n.m.poss- =to.be.strong -cl:liquid / EN: 'river.current'  
 | "[=shincha][NRoot][=river.current]" : {shincha}
@@ -3360,9 +3365,6 @@ define NRootPRQin [
 | "[=tzisoniro][NRoot][=falcon.sp., black.caracara (sci.nm.: daptrius.ater)]" : {tzisoniro}
 ! 
 | "[=tsirishi][NRoot][=person's.name; plant.sp.]" : {tsirishi}
-! 
-# otishi / EN: 'hill' 
-| "[=tishi][NRoot][=mountain; hill]" : {tishi}  
 ! 
 | "[=tisoni][NRoot][=black.volture.sp. (gallinazo, sci.nm.: daptrius.ater)]" : {tisoni}
 ! 
