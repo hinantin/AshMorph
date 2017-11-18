@@ -4,7 +4,7 @@ define PrnPersPRQin [
 ! SET 1: +cont.d.top. (continuous discourse topic)
 ! SET 2: +cntr.add.l. (-ri: contrastive additive listing, +focus; these pronouns are used as reflexive forms with the meaning 'own')
 ! SET 3: +cntr.exh.l. (-taki~-take: contrastive exhaustive listing, +focus)
-! SET 4: +cntr.d.top. (-intsi: contrastive discourse topic)
+! SET 4: +cntr.d.top. (-intsi: contrastive discourse topic; extant.pronouns)
 ! +cntr.cnt.assert.top. (-inti: contrastive counter-assertive topic)
 ! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
 # -------------------------------------------------------------------
@@ -91,6 +91,7 @@ define PrnPersPRQin [
 | "[=aroori+cntr.add.l.][PrnPers][+1PL]" : {aroori}
 | "[=aroori+cntr.add.l.][PrnPers][+1PL][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
 # -------------------------------------------------------------------
+# -t-ak-i 
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG][=I.am.the.one.(who)]" : {naakataki} ! FOC 
 | "[=narotake+cntr.exh.l.+foc.][PrnPers][+1SG]" : {narotake}
 ! 
@@ -117,6 +118,7 @@ define PrnPersPRQin [
 | "[=arotaki+cntr.exh.l.][PrnPers][+1PL]" : {arotaki}
 | "[=arotake+cntr.exh.l.][PrnPers][+1PL]" : {arotake}
 # -------------------------------------------------------------------
+# -intsi~-inti
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL]" : {naintsi}
 | "[=aintsi+cntr.d.top.][PrnPers][+1SG.INCL]" : {aintsi}
 | "[=avintsi+cntr.d.top.][PrnPers][+2SG][=you]" : {avintsi}
@@ -128,8 +130,8 @@ define PrnPersPRQin [
 | "[=nainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {nainti}
 | "[=ainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {ainti}
 | "[=avinti+cntr.cnt.assert.top.][PrnPers][+2SG][=you]" : {avinti}
-| "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {irointi}
-| "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {irinti}
+| "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.][=she (ES: ella; ella.sola)]" : {irointi}
+| "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he (ES: él.solo)]" : {irinti}
 | "[=iriinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {iriinti}
 | "[=arointi+cntr.cnt.assert.top.][PrnPers][+1PL][=...]" : {arointi}
 ! 
