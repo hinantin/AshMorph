@@ -119,7 +119,8 @@ define PrnPersPRQin [
 | "[=arotake+cntr.exh.l.][PrnPers][+1PL]" : {arotake}
 # -------------------------------------------------------------------
 # -intsi~-inti
-| "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL]" : {naintsi}
+| "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL][=I…on.my.own]" : {naintsi}
+| "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL][=I…on.my.own][--][-ma][+DUB]" : {naintsima}
 | "[=aintsi+cntr.d.top.][PrnPers][+1SG.INCL]" : {aintsi}
 | "[=avintsi+cntr.d.top.][PrnPers][+2SG][=you]" : {avintsi}
 | "[=irintsi+cntr.d.top.][PrnPers][+3SG.m.][=he]" : {irintsi}
@@ -127,11 +128,11 @@ define PrnPersPRQin [
 | "[=irontsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {irontsi}
 | "[=aronintsi+cntr.d.top.][PrnPers][+3SG.n.m.]" : {aronintsi}
 ! 
-| "[=nainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {nainti}
+| "[=nainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I (ES: yo)]" : {nainti}
 | "[=ainti+cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {ainti}
 | "[=avinti+cntr.cnt.assert.top.][PrnPers][+2SG][=you]" : {avinti}
-| "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.][=she (ES: ella; ella.sola)]" : {irointi}
-| "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he (ES: él.solo)]" : {irinti}
+| "[=irointi+cntr.cnt.assert.top.][PrnPers][+3SG.n.m.][=she (ES: ella); she…on.her.own (ES: ella.sola)]" : {irointi}
+| "[=irinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he; he…on.his.own (ES: él.solo)]" : {irinti}
 | "[=iriinti+cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {iriinti}
 | "[=arointi+cntr.cnt.assert.top.][PrnPers][+1PL][=...]" : {arointi}
 ! 
