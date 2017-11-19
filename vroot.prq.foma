@@ -1013,7 +1013,8 @@ define VRootPRQin [
 ! 
 | "[=ovayeri][VRoot][=to.fight]" : {ovayeri}
 ! 
-| "[=over][VRoot][=to.be.the.last (ES: ser.el.último)]" : {over}
+| "[=over][VRoot][=to.be.the.last (ES: ser.el.último); (ES: dejar.de.hacer), (ES: llegar/progresar/avanzar.hasta)]" : {over}
+| "[=over][VRoot][= (ES: dejar.de.hacer), (ES: llegar/progresar/avanzar.hasta)]" : {over}
 | "[=ovey][VRoot][=to.be.the.last (ES: ser.el.último)]" : {ovey}
 | "[=vey][VRoot][=to.be.the.last (ES: ser.el.último)]" : {vey}
 | "[=viy][VRoot][=to.be.the.last (ES: ser.el.último)]" : {viy}
