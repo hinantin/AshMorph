@@ -11,9 +11,9 @@ define NounToVerbPRQin [
 | "[=amani+n.m.][NRoot][=increase (ES: creciente)]+vbz." : {amani} ! N@->V  ES: 'crecer'
 | "[=antami][NRoot][=woods, forest; dense.tropical.forest]+vbz." : {antami} ! N@->V
 | "[=ãtame][NRoot][=woods, forest; dense.tropical.forest]+vbz." : {ãtame} ! N@->V
-| "[=atziri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atziri} ! N@->V @VCMP
-| "[=atiri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atiri} ! N@->V @VCMP
-| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]+vbz." : {atsiri} ! N@->V @VCMP
+| "[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]+vbz." : {atziri} ! N@->V @VCMP
+| "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]+vbz." : {atiri} ! N@->V @VCMP
+| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]+vbz." : {atsiri} ! N@->V @VCMP
 | "[=chakopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {chaine} ! N@->V
