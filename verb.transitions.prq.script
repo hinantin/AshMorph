@@ -47,18 +47,18 @@ define S [
 | (V=S=PRF) (V=S=REAL) 
 | (V=S=APPL) (V=S=REAL) (V=S=PRNO) 
 # -----------------------------------------------------------------------------
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=NMZ) 
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=DIR) (V=S=REGR) (V=S=REAL) ! noun root: noun, noun+noun 
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=DIST) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=NMZ) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=DIR) (V=S=REGR) (V=S=REAL) ! noun root: noun, noun+noun 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=DIST) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
 ! o-nint-a-Voro-t-ab-ak-e-ri 
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=RCP) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q)  
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) 
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) 
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) (V=S=COND) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=RCP) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q)  
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=STAT) (V=S=REL) (V=S=Q) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL)  (V=S=IRR) (V=S=COND) 
 ! 
 | V=S=noun                                      (V=S=CL)  (V=S=DIR) (V=S=REGR) (V=S=REAL) 
-| V=S=noun ("@PHONPROC@"V=S=LEN=noun)                     (V=S=DIR) (V=S=REGR) (V=S=REAL) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun)                     (V=S=DIR) (V=S=REGR) (V=S=REAL) 
 ! o-kant-a-pankaina-aty-a 
 |                                          (V=S=CL)  (V=S=PROG) (V=S=IRR) 
 |                                          (V=S=CL)  (V=S=CAUSSOC) (V=S=DIST) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 

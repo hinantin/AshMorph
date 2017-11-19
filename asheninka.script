@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@PHONPROC@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@PHONPROC@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"]];
+       define Cleanup1  [["@EP"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -173,7 +173,7 @@
                                                                             # pipompooti (in our lexicon) -> pi@PHONPROC@pompooti -> pi@PHONPROC@vompooti -> pivompooti 
       define PWLenitionRule3 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{a}] _ [{i}|{o}] ]; 
                                                                             # apinkatsarite (in our lexicon) -> a@PHONPROC@pinkatsarite -> a@PHONPROC@vinkatsarite -> avinkatsarite 
-                                                                            # vatsapori (in our lexicon) -> vatsa@PHONPROC@pori -> vatsa@PHONPROC@vori -> vatsavori
+                                                                            #COMPOUNDS vatsapori (in our lexicon) -> vatsa@PHONPROC@pori -> vatsa@PHONPROC@vori -> vatsavori
       define PWLenitionRule4 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{e}] _ [{i}|{o}|{a}] ]; 
 
       define KJLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || _ [{o}|{a}|{e}|{i}] ]; 
@@ -219,7 +219,7 @@
       #     Restricctions                #
       #                                  #
       ####################################
-      define PossPlusInalRestr1 [~$["@PHONPROC@"?*"@NPOSS"]];
+      define PossPlusInalRestr1 [~$["@PHONPROC@"?*"@NPOSS"]]; ! it is possible that this is a badly designed rule 
       
       define NounFeatRestr [PossPlusInalRestr1];
       
@@ -252,8 +252,21 @@
       # the lenition process is found at the root-root boundary in noun compounds 
       # vatsavori / 'vatsa-pori' / 'meat-muscle' 
       # caavovaniri~kaavovaniri / 'kaavo-kaniri' / ES: 'caña-yuca', EN: 'sugar.cane-yucca' 
-      define Noun [ (NPref) [NRootPRQ] ("@PHONPROC@"NRootCmpPRQ) (NSuff) ] .o. Lenition .o. VowelLoss .o. NounFeatRestr ; #.o. VowelLoss ;
+      define PWLenitionRuleCmpNoun1 [ "@PHONPROCCMPNOUN@"p (->) "@PHONPROCCMPNOUN@"v || [{a}] _ [{i}|{o}] ]; 
+      define PWLenitionRuleCmpNoun2 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"v || [{o}] _ [{a}] ]; 
+
+      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. PWLenitionRuleCmpNoun2 ];  
+
+      ############################
+      #      Noun transducer     #
+      ############################
+      define Noun [ (NPref) [NRootPRQ] ("@PHONPROCCMPNOUN@"NRootCmpPRQ) (NSuff) ] .o. Lenition .o. VowelLoss .o. LenitionCmpNoun .o. NounFeatRestr ; #.o. VowelLoss ;
       
+      ##########################
+      #                        #
+      #   Nominalized verb     #
+      #                        #
+      ##########################
       define NominalizedVerb [ (NPref) [VRootPRQ] [
                                                      [(V=S=APPLINT) (V=S=DUR)] 
                                                    | [(V=S=APPL)] # tseeyakotaantsi / =tsee -ako -t -aantsi / =to.lie -appl -ep -ing / ES: 'difamar'; EN: 'to.defame; to.slander'  
@@ -274,7 +287,9 @@
       
       define CompositeVerbRoot [ (V=S=noun) ("@PHONPROC@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
-      # Verb 
+      ############################
+      #      Verb transducer     #
+      ############################
       define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Epenthesis .o. Lenition ; #.o. FeatRestr;
       
       ##########################
