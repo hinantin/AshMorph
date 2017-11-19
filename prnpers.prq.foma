@@ -8,8 +8,8 @@ define PrnPersPRQin [
 ! +cntr.cnt.assert.top. (-inti: contrastive counter-assertive topic)
 ! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
 # -------------------------------------------------------------------
-  "[=naaka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naaka}
-| "[=naka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naka}
+  "[=naaka+cont.d.top.][PrnPers][+1SG.EXCL.][=I (ES: yo)]" : {naaka}
+| "[=naka+cont.d.top.][PrnPers][+1SG.EXCL.][=I (ES: yo)]" : {naka}
 # naro: it is only used in greetings 
 | "[=naro+cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naro}
 ! 
@@ -51,7 +51,7 @@ define PrnPersPRQin [
 ! 
 | "[=hirova][PrnPers][+3SG][=it (animal.or.object; ES: ello, eso)]" : {hirova}
 ! 
-| "[=aaka][PrnPers][+1PL][=we]" : {aaka}  
+| "[=aaka][PrnPers][+1PL.INCL.][=we]" : {aaka}  
 | "[=aka][PrnPers][+1PL][=we][--][-paeni][Num][+PL]::[=we (ES: nosotras)]" : {akapaeni}  ! aka shortened form of naka ???  
 | "[=naka+cont.d.top.][PrnPers][+1SG][=I (ES: yo)][--][-paeni][Num][+PL]::[=we (ES: nosotros)]" : {nakapaeni}  
 | "[=aro][PrnPers][+1PL.INCL.][=we]" : {aro} 
@@ -69,7 +69,7 @@ define PrnPersPRQin [
 | "[=iroite][PrnPers][+3PL.n.m.EXCL.][=they]" : {iroite}
 | "[=irooite][PrnPers][+3PL.n.m.EXCL.][=they]" : {irooite}
 # -------------------------------------------------------------------
-| "[=naari+cntr.add.l.+foc.][PrnPers][+1SG][=I (ES: yo.también)]" : {naari} ! FOC "I" 
+| "[=naari+cntr.add.l.+foc.][PrnPers][+1SG.EXCL.][=I (ES: yo.también)]" : {naari} ! FOC "I" 
 | "[=narori+cntr.add.l.+foc.][PrnPers][+1SG][=I (ES: a.mi.persona)]" : {narori}
 ! 
 | "[=avirori+cntr.add.l.+foc.][PrnPers][+2SG][=you]" : {avirori} ! FOC 
@@ -87,9 +87,9 @@ define PrnPersPRQin [
 | "[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-paeni][Num][+PL]::[=they (ES: ellas)]" : {iroripaeni}
 | "[=iroori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
 !  
-| "[=arori+cntr.add.l.][PrnPers][+1PL][= (ES: nosotros)]" : {arori}
-| "[=aroori+cntr.add.l.][PrnPers][+1PL]" : {aroori}
-| "[=aroori+cntr.add.l.][PrnPers][+1PL][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
+| "[=arori+cntr.add.l.][PrnPers][+1PL.INCL.][= (ES: nosotros)]" : {arori}
+| "[=aroori+cntr.add.l.][PrnPers][+1PL.INCL.]" : {aroori}
+| "[=aroori+cntr.add.l.][PrnPers][+1PL.INCL.][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
 # -------------------------------------------------------------------
 # -t-ak-i 
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG][=I.am.the.one.(who)]" : {naakataki} ! FOC 

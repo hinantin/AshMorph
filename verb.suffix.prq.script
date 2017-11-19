@@ -245,6 +245,8 @@ define V=S=IMPP [
 ! | "[--][-tz][+IMP.P]" : "@EP"[{tz}] 
 ];
       
+# *) -pameneribe jipajitari yora? / -pamenerive hipahitari yora? / p- =amen -e -ri -ve *** hi- =pahi -t -a -ri *** =yora+m.+medial
+#     2a- =to.look -real -3m.o =excl[exclaiming] *** 3m.a- =to.be.called -ep -irr -3m.o *** =that / EN: "look, what's that?"  
 define V=S=EXCL [
   "[--][-ve][+EXCL][=exclaiming,announcing]" : "@EP"[{ve}]
 | "[--][-vi][+EXCL][=exclaiming,announcing]" : "@EP"[{vi}]
