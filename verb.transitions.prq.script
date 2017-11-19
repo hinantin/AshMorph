@@ -184,7 +184,6 @@ define S [
 | (V=S=small) 
 | (V=S=DUR) (V=S=REGR) (V=S=REAL) (V=S=PRNO) 
 | (V=S=PL) (V=S=REAL) 
-| (V=S=PL) (V=S=PROG) (V=S=REAL) 
 | (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) 
 | (V=S=IRR) 
 | (V=S=IRR) (V=S=O) (V=S=OPT) 
@@ -252,7 +251,10 @@ define S [
 | (V=S=APPLBEN) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=APPL) (V=S=IRR) (V=S=PRNO) 
 | (V=S=STATT) (V=S=REL) (V=S=ADV) 
+
 | (V=S=PL) (V=S=PROG) (V=S=IRR) (V=S=PRNO) 
+| (V=S=PL) (V=S=PROG) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=PRNO) (V=S=REL) (V=S=PLcircumfixing)
+
 | (V=S=DIM) (V=S=PRF) (V=S=REAL) (V=S=PRNO) (V=S=REL) (V=S=Q) 
 | (V=S=DUR) (V=S=REP) (V=S=DIST) (V=S=STAT) (V=S=REL) (V=S=Q) 
 | (V=S=CAUSSOC) (V=S=APPL) (V=S=REGR) (V=S=PRNO) (V=S=REL) (V=S=Q) 
