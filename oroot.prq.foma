@@ -178,6 +178,8 @@ define ORootPRQin [
 | "[=timatsi][VRoot][=EXIST]" : {timatsi} 
 | "[=tzimatsi][VRoot][=EXIST]" : {tzimatsi} 
 ! 
+| "[=timatsikera][VRoot][=CONT.EXIST (ES: todavía.hay)]" : {timatsikera} 
+! 
 | "[=matsi][VRoot][=EXIST]" : {matsi} 
 | "[=maatsi][VRoot][=EXIST]" : {maatsi} 
 # ------------------------------------------------------------------
