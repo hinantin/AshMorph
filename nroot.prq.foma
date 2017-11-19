@@ -2470,7 +2470,8 @@ define NRootPRQin [
 | "[=pinkatsare+m.+voc.+poss@te.][NRoot][=chief; regional.leader]" : {pinkatsare}
 | "[=pinkatsaro+n.m.+voc.+poss@te.][NRoot][=chief]" : {pinkatsaro}
 ! 
-| "[=pira+m.+inal.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría)]" : {pira} ! @CMP 
+| "[=pira+m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {pira} ! @CMP 
+| "[=vira+m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {vira}
 ! 
 | "[=piratsi+m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (ES: huangana, pecarí.de.labios.blancos; sci.nm.: tayassu.pecari)]" : {piratsi}
 ! 
