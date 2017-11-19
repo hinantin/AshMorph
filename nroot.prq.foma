@@ -183,9 +183,9 @@ define NRootPRQin [
 | "[=ashooshi][NRoot][=armadillo]" : {ashooshi}
 | "[=asorina][NRoot][=cheek]" : {asorina}
 ! person, individual, human
-| "[=atziri+m.+poss@te.][NRoot][=person, individual, human]" : {atziri} ! N@->V @VCMP
-| "[=atiri+m.+poss@te.][NRoot][=person, individual, human]" : {atiri} ! N@->V @VCMP
-| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human]" : {atsiri} ! N@->V @VCMP
+| "[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! N@->V @VCMP
+| "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atiri} ! N@->V @VCMP
+| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atsiri} ! N@->V @VCMP
 ! 
 | "[=atsityopi][NRoot][=mythical.armadillo/anaconda-like.creature]" : {atsityopi}
 | "[=atsityopini][NRoot][=mythical.armadillo/anaconda-like.creature]" : {atsityopini}
@@ -2588,9 +2588,9 @@ define NRootPRQin [
 ! 
 | "[=poonkari][NRoot][=crested.oropendola (sci.nm.: psarocolius.decumanus)]" : {poonkari}
 ! 
-| "[=poonkito+n.m.][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: especie.de.ortiga)]" : {poonkito}
-| "[=poronkito+n.m.][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: especie.de.ortiga)]" : {poronkito}
-| "[=poonketo+n.m.][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: especie.de.ortiga)]" : {poonketo}
+| "[=poonkito+n.m.][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: sp.de.ortiga)]" : {poonkito}
+| "[=poronkito+n.m.][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: sp.de.ortiga)]" : {poronkito}
+| "[=poonketo+n.m.][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: sp.de.ortiga)]" : {poonketo}
 ! 
 | "[=poonya][NRoot][=olive.oropendola (sci.nm.: gymnostinops.yucaraes)]" : {poonya}
 ! 
