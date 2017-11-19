@@ -285,7 +285,7 @@
                                                   [V=S=NMZ|V=S=ADJ] (NRootCmpPRQ) 
                                                   [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; #.o. VowelLoss ;
       
-      define CompositeVerbRoot [ (V=S=noun) ("@PHONPROC@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
+      define CompositeVerbRoot [ (V=S=noun) ("@PHONPROCCMPNOUN@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
       ############################
       #      Verb transducer     #
