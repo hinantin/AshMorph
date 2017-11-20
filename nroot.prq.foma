@@ -1818,7 +1818,9 @@ define NRootPRQin [
 ! 
 # omirikipanki / o- =miriki -panki / 3n.m.poss- =rib -cl:plank / EN: 'its.roof.lattice' 
 # omiripanki / o- =miri -panki / 3n.m.poss- =rib -cl:plank / EN: 'roof.lattice' 
-| "[=miriki][NRoot][=rib (ES: costilla)]" : {miriki}
+# saikamerekitatsiri 
+| "[=miriki+n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {miriki}
+| "[=mereki+n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
 | "[=miri][NRoot][=rib (ES: costilla)]" : {miri}
 ! 
 | "[=merekiri+m.][NRoot][=catfish.sp., cunchi/kunchi.sp., fish.sp.]" : {merekiri}
@@ -2082,9 +2084,9 @@ define NRootPRQin [
 | "[=oryatsiri+m.][NRoot][=shining.sun, strong.sun]" : {oryatsiri} !?
 | "[=ooryatsiri+m.][NRoot][=shining.sun, strong.sun; the.sun; solar.divinity]" : {ooryatsiri}
 ! 
-| "[=ooryaa][NRoot][=sun]" : {ooryaa}
-| "[=oorya][NRoot][=sun]" : {oorya} ! N@->V
-| "[=oria][NRoot][=sun]" : {oria} ! N@->V
+| "[=ooryaa+m.][NRoot][=sun (ES: sol)]" : {ooryaa}
+| "[=oorya+m.][NRoot][=sun (ES: sol)]" : {oorya} ! N@->V
+| "[=oria+m.][NRoot][=sun (ES: sol)]" : {oria} ! N@->V
 ! 
 | "[=oretsi+m.][NRoot][=lobster.sp. (ES: sp.de.langosta), crustacean.sp. (ES: sp.de.crustáceo)]" : {oretsi}
 | "[=oritsi+m.][NRoot][=lobster.sp. (ES: sp.de.langosta), crustacean.sp. (ES: sp.de.crustáceo)]" : {oritsi}

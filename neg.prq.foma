@@ -12,9 +12,9 @@ define NegPRQin [
 | "[=eero][Neg][=NEG.IRR]" : {eero}
 | "[=iiro+past.neg.][Neg][=NEG.IRR]" : {iiro}
 # conditional negative irrealis 
-| "[=airo][Neg][=NEG.IRR][--][-rika][+COND]::[=if.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {airorika}
+| "[=airo][Neg][=NEG.IRR][--][-rika][+COND]::[=if.not, when.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {airorika}
 | "[=eero][Neg][=NEG.IRR][--][-rika][+COND]" : {eerorika}
-| "[=eiro][Neg][=NEG.IRR][--][-rika][+COND]" : {eirorika}
+| "[=eiro][Neg][=NEG.IRR][--][-rika][+COND]::[=if.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {eirorika}
 | "[=iiro][Neg][=NEG.IRR][--][-rika][+COND]" : {iirorika}
 | "[=ero][Neg][=NEG.IRR][--][-rika][+COND]" : {erorika}
 ! 

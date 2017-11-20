@@ -58,8 +58,8 @@ define NounToVerbPRQin [
 | "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]+vbz." : {moro} ! N@->V @CMP 
 | "[=motya][NRoot][=stomach, belly]+vbz." : {motya} ! N@->V
 | "[=moti+inal.][NRoot][=stomach, belly]+vbz." : {moti} ! N@->V 
-| "[=oorya][NRoot][=sun]+vbz." : {oorya} ! N@->V
-| "[=oria][NRoot][=sun]+vbz." : {oria} ! N@->V
+| "[=oorya+m.][NRoot][=sun (ES: sol)]+vbz." : {oorya} ! N@->V
+| "[=oria+m.][NRoot][=sun (ES: sol)]+vbz." : {oria} ! N@->V
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)]+vbz." : {oventeni} ! N@->V
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pirontzi} ! N@->V
 | "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pironi} ! N@->V
