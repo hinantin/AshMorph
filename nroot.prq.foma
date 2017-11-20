@@ -1762,10 +1762,12 @@ define NRootPRQin [
 | "[=mavo+m.][NRoot][=earthworm.sp. (ES: sp.de.gusano); insect]" : {mavo}
 | "[=maavo+m.][NRoot][=earthworm.sp. (ES: sp.de.gusano); insect]" : {maavo}
 ! 
-| "[=mavoshi+n.m.+inal.][NRoot][=nest; grassy.nest]" : {mavoshi} ! N@->V
-| "[=maashi+n.m.+inal.][NRoot][=nest]" : {maashi} ! N@->V
-| "[=menkoshi+n.m.+inal.][NRoot][=bird.nest]" : {menkoshi} ! N@->V
-| "[=minkoshi+n.m.+inal.][NRoot][=bird.nest]" : {minkoshi} ! N@->V
+| "[=mavopa+n.m.][NRoot][=plantain.sp. (ES: sp.de.plátano)]" : {mavopa}
+! 
+| "[=mavoshi+n.m.+inal@ntsi.][NRoot][=nest; grassy.nest]" : {mavoshi} ! N@->V::[to.build/construct.a.nest (ES: construir.nido)]
+| "[=maashi+n.m.+inal@ntsi.][NRoot][=nest]" : {maashi} ! N@->V::[to.build/construct.a.nest (ES: construir.nido)]
+| "[=menkoshi+n.m.+inal@n/tsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]" : {menkoshi} ! N@->V
+| "[=minkoshi+n.m.+inal@ntsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]" : {minkoshi} ! N@->V
 ! 
 | "[=meantarini][NRoot][=name]" : {meantarini}
 ! 
@@ -1794,9 +1796,9 @@ define NRootPRQin [
 | "[=menki+n.m.+inal.][NRoot][=partly-burned.stick (ES: tizón)]" : {menki}
 | "[=minki+n.m.+inal.][NRoot][=partly-burned.stick (ES: tizón)]" : {minki}
 ! 
-| "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
-| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V @VCMP 
-!| "[=menkotzi+n.m.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]" : {menkotzi} 
+| "[=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
+| "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V @VCMP 
+!| "[=menko+n.m.+inal@tzi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} 
 ! 
 | "[=mentaro+n.m.][NRoot][=tree.sp.]" : {mentaro}
 | "[=mentavo+n.m.][NRoot][=tree.sp.]" : {mentavo}
@@ -2995,7 +2997,7 @@ define NRootPRQin [
 | "[=sheripyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripyari}
 | "[=sheripiare+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiare}
 | "[=sheripiari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiari}
-| "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiyari} ! N@->V EN:to.act.as.a.shaman 
+| "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiyari} ! N@->V::[to.act.as.a.shaman]  
 | "[=sherepiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sherepiyari}
 | "[=seripigari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {seripigari}
 ! 
@@ -3611,8 +3613,8 @@ define NRootPRQin [
 | "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
 | "[=inaro][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {inaro}
 ! 
-| "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]" : {tsomi} ! N@->V : EN: 'to.breastfeed'; ES: 'mamar'
-| "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V : EN: 'to.breastfeed'; ES: 'mamar'
+| "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]" : {tsomi} ! N@->V::[to.breastfeed (ES: mamar)]  
+| "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V::[to.breastfeed (ES: mamar)]  
 ! 
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]" : {tsomonte} ! N@->V 
 | "[=tsomonte][NRoot][=bulge (ES: abdomen, barriga)]" : {tsomonte} 
