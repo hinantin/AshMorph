@@ -159,13 +159,13 @@ define VRootPRQin [
 ! 
 | "[=ateh][VRoot][=to.fake (ES: fingir)]" : {ateh}
 ! 
-| "[=atziri][VRoot][=to.be.person][--][N=][IRR+]" : {antziri}
+| "[N=][IRR+][--][=atziri][VRoot][=to.be.person]" : {antziri}
 ! 
 | "[=apaata][VRoot][=to.wait]" : {apaata}
 ! to meet, to gather, to get together
 | "[=apoto][VRoot][=to.gather, to.meet, to.get.together]" : {apoto}
 | "[=apato][VRoot][=to.gather, to.meet, to.get.together]" : {apato}
-| "[=apoto][VRoot][=to.gather, to.meet, to.get.together][--][N=][IRR+]" : {ampoto}
+| "[N=][IRR+][--][=apoto][VRoot][=to.gather, to.meet, to.get.together]" : {ampoto}
 ! 
 | "[=ar][VRoot][=to.fly]" : {ar}
 ! 
@@ -216,8 +216,8 @@ define VRootPRQin [
 ! 
 | "[=ashiriako][VRoot][=to.undo (ES: desabrochar)]" : {ashiriako}
 ! 
-| "[=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][N=][IRR+]" : {antai} ! nantaitatiye / n=n-atai-t-ati-ye EN: 'I will climb', ES: 'voy a trepar'; nantaiti / n=atai-n-t-i ES: 'estoy trepando'
-| "[=atae][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][N=][IRR+]" : {antae}
+| "[N=][IRR+][--][=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {antai} ! nantaitatiye / n=n-atai-t-ati-ye EN: 'I will climb', ES: 'voy a trepar'; nantaiti / n=atai-n-t-i ES: 'estoy trepando'
+| "[N=][IRR+][--][=atae][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {antae}
 | "[=atae][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atae}
 | "[=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atai}
 # patiititya / p- =atii -t -i -tya / 2s- =to.climb.up -ep -real -emph  
@@ -240,12 +240,12 @@ define VRootPRQin [
 | "[=atisank][VRoot][=to.sneeze (ES: estornudar)]" : {atisank}
 | "[=atsink][VRoot][=to.sneeze (ES: estornudar)]" : {atsink}
 | "[=atsiink][VRoot][=to.sneeze (ES: estornudar)]" : {atsiink}
-| "[=atsiink][VRoot][=to.sneeze (ES: estornudar)][--][N=][IRR+]" : {antsiink}
+| "[N=][IRR+][--][=atsiink][VRoot][=to.sneeze (ES: estornudar)]" : {antsiink}
 | "[=atzik][VRoot][=to.sneeze (ES: estornudar)]" : {atzik}
 ! 
 ! ¿pitsotakero shibitsi? / ¿pitsotakero shivitsi? / pi- =tso -t -ak -e -ro  =shivi -tsi / 2a- =to.suck -ep -prf -real -3m.o  =penis -nposs / EN: 'have.you.had.oral.sex?'; ES: '¿has.tenido.sexo.oral?'
 | "[=atso][VRoot][=to.suck (prbly.cacao)]" : {atso}
-| "[=atso][VRoot][=to.suck (prbly.cacao)][--][N=][IRR+]" : {antso}
+| "[N=][IRR+][--][=atso][VRoot][=to.suck (prbly.cacao)]" : {antso}
 | "[=tso][VRoot][=to.suck (prbly.cacao)]" : {tso}
 ! 
 | "[=avii][VRoot][=to.harvest.sth. (apart.from.yucca; ES: cosechar, hacer.la.cosecha)]" : {avii}
@@ -1655,8 +1655,8 @@ define VRootPRQin [
 ! 
 | "[=tsoka][VRoot][=to.strain.sth. (e.g.: manioc.mass)]" : {tsoka}
 ! 
-| "[=tsokih][VRoot][=to.have.hiccups]" : {tsokih}
-| "[=tsokis][VRoot][=to.have.hiccups]" : {tsokis}
+| "[=tsokih][VRoot][=to.have.hiccups (ES: tener.hipo)]" : {tsokih}
+| "[=tsokis][VRoot][=to.have.hiccups (ES: tener.hipo)]" : {tsokis}
 ! 
 | "[=tsonk][VRoot][=to.finish]" : {tsonk}
 | "[=tsonk][VRoot][=to.kill]" : {tsonk}
@@ -1707,7 +1707,7 @@ define VRootPRQin [
 ! 
 | "[=tsimiy][VRoot][=to.suck (ES: chupar)]" : {tsimiy}
 | "[=atsimiy][VRoot][=to.suck (ES: chupar)]" : {atsimiy}
-| "[=atsimiy][VRoot][=to.suck (ES: chupar)][--][N=][IRR+]" : {antsimiy}
+| "[N=][IRR+][--][=atsimiy][VRoot][=to.suck (ES: chupar)]" : {antsimiy}
 ! 
 | "[=tsimoiro][VRoot][=to.get.dark (ES: oscurecerse)]" : {tsimoiro}
 ! 
