@@ -2728,7 +2728,8 @@ define NRootPRQin [
 ! 
 | "[=samoto][NRoot][=rotten.stick (ES: palo.podrido); armored.catfish.sp. (carachama)]" : {samoto}
 ! 
-| "[=santi+inal.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V
+| "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V::[to.fart (ES: tirarse.un.pedo)] 
+| "[=santsi+inal@tzi.][NRoot][=fart (ES: pedo)]" : {santsi}
 ! 
 # QU: 
 # shanay / =shana -y / =arder -inf / ES: 'arder' 

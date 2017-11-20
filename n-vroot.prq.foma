@@ -49,12 +49,12 @@ define NounToVerbPRQin [
 | "[=koya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {koya} ! N@->V
 | "[=mapi+n.m.+poss@ni.][NRoot][=stone; rock]+vbz." : {mapi} ! N@->V 
 | "[=matsi+m.][NRoot][=(human).witch; sorcerer]+vbz." : {matsi} ! N@->V 
-| "[=mavoshi+n.m.+inal.][NRoot][=nest; grassy.nest]+vbz." : {mavoshi} ! N@->V
-| "[=maashi+n.m.+inal.][NRoot][=nest]+vbz." : {maashi} ! N@->V
-| "[=menkoshi+n.m.+inal.][NRoot][=bird.nest]+vbz." : {menkoshi} ! N@->V
-| "[=minkoshi+n.m.+inal.][NRoot][=bird.nest]+vbz." : {minkoshi} ! N@->V
-| "[=menko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {menko} ! N@->V @VCMP 
-| "[=minko+n.m.+inal.][NRoot][=platform, floor, floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {minko} ! N@->V @VCMP 
+| "[=mavoshi+n.m.+inal@ntsi.][NRoot][=nest; grassy.nest]+vbz." : {mavoshi} ! N@->V::[to.build/construct.a.nest (ES: construir.nido)]
+| "[=maashi+n.m.+inal@ntsi.][NRoot][=nest]+vbz." : {maashi} ! N@->V::[to.build/construct.a.nest (ES: construir.nido)]
+| "[=menkoshi+n.m.+inal@n/tsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]+vbz." : {menkoshi} ! N@->V
+| "[=minkoshi+n.m.+inal@ntsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]+vbz." : {minkoshi} ! N@->V
+| "[=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {menko} ! N@->V @VCMP 
+| "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {minko} ! N@->V @VCMP 
 | "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]+vbz." : {moro} ! N@->V @CMP 
 | "[=motya][NRoot][=stomach, belly]+vbz." : {motya} ! N@->V
 | "[=moti+inal.][NRoot][=stomach, belly]+vbz." : {moti} ! N@->V 
@@ -67,8 +67,8 @@ define NounToVerbPRQin [
 | "[=tsipamintsare][NRoot][=friend (ES: amigo)]+vbz." : {tsipamintsare} ! N@->V
 | "[=pitziki][NRoot][=male.genitals]+vbz." : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]+vbz." : {pitzik} ! N@->V
-| "[=santi+inal.][NRoot][=fart (ES: pedo)]+vbz." : {santi} ! N@->V
-| "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]+vbz." : {sheripiyari} ! N@->V EN:to.act.as.a.shaman 
+| "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]+vbz." : {santi} ! N@->V::[to.fart (ES: tirarse.un.pedo)] 
+| "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]+vbz." : {sheripiyari} ! N@->V::[to.act.as.a.shaman]  
 | "[=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]+vbz." : {shetaki} ! N@->V
 | "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {shiri} ! N@->V
 | "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {sheri} ! N@->V
@@ -87,8 +87,8 @@ define NounToVerbPRQin [
 | "[=tzinani+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tzinani} ! N@->V
 | "[=tsinãni+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tsinãni} ! N@->V
 | "[=tsitene][NRoot][=night (ES: noche)]+vbz." : {tsitene} ! N@->V 
-| "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]+vbz." : {tsomi} ! N@->V : EN: 'to.breastfeed'; ES: 'mamar'
-| "[=tsome+inal.][NRoot][=breast, bosom]+vbz." : {tsome} ! N@->V : EN: 'to.breastfeed'; ES: 'mamar'
+| "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]+vbz." : {tsomi} ! N@->V::[to.breastfeed (ES: mamar)]  
+| "[=tsome+inal.][NRoot][=breast, bosom]+vbz." : {tsome} ! N@->V::[to.breastfeed (ES: mamar)]  
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]+vbz." : {tsomonte} ! N@->V 
 | "[=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]+vbz." : {viti} ! N@->V
 | "[=vitzi+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma); skin]+vbz." : {vitzi} ! N@->V
