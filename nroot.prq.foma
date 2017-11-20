@@ -1816,6 +1816,11 @@ define NRootPRQin [
 | "[=mereki+n.m.+inal.][NRoot][=sharpening.stone, whetstone]" : {mereki}
 | "[=miriki+n.m.+inal.][NRoot][=sharpening.stone, whetstone]" : {miriki}
 ! 
+# omirikipanki / o- =miriki -panki / 3n.m.poss- =rib -cl:plank / EN: 'its.roof.lattice' 
+# omiripanki / o- =miri -panki / 3n.m.poss- =rib -cl:plank / EN: 'roof.lattice' 
+| "[=miriki][NRoot][=rib (ES: costilla)]" : {miriki}
+| "[=miri][NRoot][=rib (ES: costilla)]" : {miri}
+! 
 | "[=merekiri+m.][NRoot][=catfish.sp., cunchi/kunchi.sp., fish.sp.]" : {merekiri}
 ! 
 | "[=Meroka][NRoot][=person's.name]" : {meroka}
