@@ -103,8 +103,8 @@ define NRootPRQin [
 | "[=akoperori+inal.][NRoot][=right.hand; right.side]" : {akoperori}
 | "[=akopirori+inal.][NRoot][=right.hand; right.side]" : {akopirori}
 ! 
-| "[=amaani+n.m.][NRoot][=increase (ES: creciente)]" : {amaani} ! N@->V  ES: 'crecer'
-| "[=amani+n.m.][NRoot][=increase (ES: creciente)]" : {amani} ! N@->V  ES: 'crecer'
+| "[=amaani+n.m.][NRoot][=increase (ES: creciente)]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
+| "[=amani+n.m.][NRoot][=increase (ES: creciente)]" : {amani} ! N@->V::[=to.increase (ES: crecer)]
 ! anaconda
 | "[=amaaro][NRoot][=anaconda, snake]" : {amaaro}
 ! 
@@ -1764,8 +1764,8 @@ define NRootPRQin [
 ! 
 | "[=mavopa+n.m.][NRoot][=plantain.sp. (ES: sp.de.plátano)]" : {mavopa}
 ! 
-| "[=mavoshi+n.m.+inal@ntsi.][NRoot][=nest; grassy.nest]" : {mavoshi} ! N@->V::[to.build/construct.a.nest (ES: construir.nido)]
-| "[=maashi+n.m.+inal@ntsi.][NRoot][=nest]" : {maashi} ! N@->V::[to.build/construct.a.nest (ES: construir.nido)]
+| "[=mavoshi+n.m.+inal@ntsi.][NRoot][=nest; grassy.nest]" : {mavoshi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
+| "[=maashi+n.m.+inal@ntsi.][NRoot][=nest]" : {maashi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=menkoshi+n.m.+inal@n/tsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]" : {menkoshi} ! N@->V
 | "[=minkoshi+n.m.+inal@ntsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]" : {minkoshi} ! N@->V
 ! 
@@ -2728,7 +2728,7 @@ define NRootPRQin [
 ! 
 | "[=samoto][NRoot][=rotten.stick (ES: palo.podrido); armored.catfish.sp. (carachama)]" : {samoto}
 ! 
-| "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V::[to.fart (ES: tirarse.un.pedo)] 
+| "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V::[=to.fart (ES: tirarse.un.pedo)] 
 | "[=santsi+inal@tzi.][NRoot][=fart (ES: pedo)]" : {santsi}
 ! 
 # QU: 
@@ -2998,7 +2998,7 @@ define NRootPRQin [
 | "[=sheripyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripyari}
 | "[=sheripiare+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiare}
 | "[=sheripiari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiari}
-| "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiyari} ! N@->V::[to.act.as.a.shaman]  
+| "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
 | "[=sherepiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sherepiyari}
 | "[=seripigari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {seripigari}
 ! 
@@ -3614,8 +3614,8 @@ define NRootPRQin [
 | "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
 | "[=inaro][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {inaro}
 ! 
-| "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]" : {tsomi} ! N@->V::[to.breastfeed (ES: mamar)]  
-| "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V::[to.breastfeed (ES: mamar)]  
+| "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]" : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
+| "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
 ! 
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]" : {tsomonte} ! N@->V 
 | "[=tsomonte][NRoot][=bulge (ES: abdomen, barriga)]" : {tsomonte} 
