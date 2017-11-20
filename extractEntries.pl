@@ -1,6 +1,6 @@
 #/usr/bin/perl -w
 
-use strict;
+#use strict;
 use warnings;
 use utf8;
 binmode STDIN, ':utf8';
@@ -61,6 +61,19 @@ open INFO, $file or die "Could not open $file: $!";
    substr($myvar, 0, 1, "|") if " " eq substr($myvar, 0, 1);
    if ($separator == 1) { $myvar =~ s/\"/\"$separatorsymbol/; }
    if ($replace == 1) { $myvar =~ s/$source/$target/; }
+   if ($replace == 2) { 
+     # splitting 
+if($myvar =~ m/N@\->V::\[(.*)\]/) {
+  my $targetstring = "::[$1]"; 
+  $myvar =~ m/(.*)$source/g; 
+  my $result = "$1$targetstring$target"; 
+  $myvar =~ m/$source(.*)/s; 
+  $myvar = "$result$1"; 
+}
+else {
+  $myvar =~ s/$source/$target/; 
+}
+   }
    print $fh $myvar; 
   }
   $count++;
