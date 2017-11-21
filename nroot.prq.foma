@@ -3814,7 +3814,7 @@ define NRootPRQin [
 | "[=yompare+m.+inal.][NRoot][=friend; trading.partner]" : {yompare}
 ! 
 ! ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas'
-| "[=ayompari][NRoot][=trading.partner]" : {ayompari} ! N@->V 
+| "[=ayompari][NRoot][=trading.partner (ES: amigo)]" : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] 
 ! 
 | "[=Yompiri][NRoot][=stone.divinity; proper.name]" : {yompiri}
 | "[=Paatsiri][NRoot][=stone.divinity; proper.name]" : {paatsiri}
