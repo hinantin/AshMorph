@@ -1717,8 +1717,8 @@ define NRootPRQin [
 ! 
 | "[=Mariiya+n.m.][NRoot][=Mary]" : {mariiya}
 ! 
-| "[=mapooteshi+n.m.][NRoot][=rooftop]" : {mapooteshi}
-| "[=mapoteshi+n.m.][NRoot][=rooftop]" : {mapoteshi}
+| "[=mapooteshi+n.m.][NRoot][=rooftop (ES: cumbre.del.techo)]" : {mapooteshi}
+| "[=mapoteshi+n.m.][NRoot][=rooftop (ES: cumbre.del.techo)]" : {mapoteshi}
 ! 
 | "[=masoko+m.][NRoot][=small.bird.sp.]" : {masoko}
 ! 
@@ -3595,7 +3595,7 @@ define NRootPRQin [
 ! 
 | "[=tsitsi+n.m.][NRoot][=firewood]" : {tsitsi}
 ! 
-| "[=tsitsiri][NRoot][=cricket]" : {tsitsiri}
+| "[=tsitsiri+m.][NRoot][=cricket (ES: grillo)]" : {tsitsiri}
 ! 
 # ají.charapa, ají.charapita ???  
 | "[=tsitsikana][NRoot][=chili.sp. (ají, botany.nm.: capsicum.sp.)]" : {tsitsikana}

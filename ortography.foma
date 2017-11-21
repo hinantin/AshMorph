@@ -26,6 +26,7 @@
       define JReplacement1 [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
       define JReplacement2 [ {h} (->) {j} || .#. _ Vowels ]; # changing ja -> ha at the beginning of a word
       define JReplacement3 [ {h} (->) {j} || _ Vowels ]; # changing jemimimi -> jemimimi at the beginning of a word
+      define JReplacement4 [ {h} (->) {j} || _ {ya} ];
 
       define ZReplacement1 [ {s} (->) {z} || .#. _ Vowels ];
 
@@ -70,7 +71,7 @@
       define KYOnset [ {kiy} (->) {ky} || _ [a|á] ]; ! chochokyari -> chochokiyari 
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
-.o. JReplacement1 .o. JReplacement2 .o. JReplacement3 
+.o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
