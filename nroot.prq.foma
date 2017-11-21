@@ -3835,7 +3835,11 @@ define NRootPRQin [
 | "[=taeri][NRoot][=amasisa, tree.sp.]" : {taeri}
 | "[=kanae][NRoot][=tangarana, tree.sp.]" : {kanae}
 | "[=tsirokitsa][NRoot][=renaquilla, parasitic.plant.sp.]" : {tsirokitsa}
-| "[=mesha][NRoot][=capirona, tree.sp.]" : {mesha}
+! 
+| "[=mesha+n.m.][NRoot][=capirona-tree, tree.sp.]" : {mesha}
+| "[=meshaa+n.m.][NRoot][=capirona-tree, tree.sp.]" : {meshaa}
+| "[=mishaa+n.m.][NRoot][=capirona-tree, tree.sp.]" : {mishaa}
+! 
 | "[=kove][NRoot][=copaiba, tree.sp.]" : {kove}
 | "[=pashavo][NRoot][=punga, tree.sp.]" : {pashavo}
 | "[=ikoha][NRoot][=tree.sp.]" : {ikoha}
