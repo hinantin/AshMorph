@@ -739,6 +739,7 @@ define V=S=MIR [
 # Indicates feigned/simulated action.
 define V=S=SIM [
   "[--][-amampe][+SIM]" : "@EP"[{amampe}] 
+| "[--][-amampi][+SIM]" : "@EP"[{amampi}] 
 ];
 
 define V=S=POSSREL [
