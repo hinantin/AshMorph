@@ -92,7 +92,8 @@ define NounToVerbPRQin [
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]+vbz." : {tsomonte} ! N@->V 
 | "[=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]+vbz." : {viti} ! N@->V
 | "[=vitzi+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma); skin]+vbz." : {vitzi} ! N@->V
-| "[=ayompari][NRoot][=trading.partner (ES: amigo)]::[=to.barter.sth. (ES: hacer.trueque)]+vbz." : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine
+| "[=ayompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo); short-distance.bartering.made.by.males (ES: trueque.de.corta.distancia)]::[=to.barter.sth. (ES: hacer.trueque)]+vbz." : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine
+| "[=iompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo)]::[=to.barter.sth. (ES: hacer.trueque)]+vbz." : {iompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] 
 | "[=compadre][NRootEs][=godparent; spiritual.father]+vbz." : {compadre} ! N@->V 
 | "[=santo][NRoot][=saint; sacred (ES: sagrado); good.spirit (ES: buen.espíritu)]+vbz." : {santo} ! N@->V 
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tambor} ! N@->V
