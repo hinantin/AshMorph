@@ -3519,7 +3519,7 @@ define NRootPRQin [
 ! 
 | "[=tsara+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsara} 
 | "[=tsaato+n.m.][NRoot][=bag, backpack; knapsack (ES: morral)]" : {tsaato} 
-| "[=tsarato+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsarato} 
+| "[=tsarato+n.m.+poss@te.][NRoot][=bag, backpack (ES: bolsa)]" : {tsarato} 
 | "[=tsaate+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsaate} 
 | "[=tsaati+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsaati} 
 ! 
@@ -3651,8 +3651,8 @@ define NRootPRQin [
 ! 
 | "[=tsoori][NRoot][=bird.sp. (ES: paucar, QU: pawkar); catfish.sp. (ES: súngaro)]" : {tsoori}
 ! 
-| "[=tsoompiro+n.m.+inal.][NRoot][=fabric.to.carry.a.baby (QU: aparina); sling (ES: cabestrillo)]" : {tsoompiro}
-| "[=tsompiro+n.m.+inal.][NRoot][=fabric.to.carry.a.baby (QU: aparina); sling (ES: cabestrillo)]" : {tsompiro}
+| "[=tsoompiro+n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]" : {tsoompiro}
+| "[=tsompiro+n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]" : {tsompiro}
 ! 
 | "[=tsopiro][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]" : {tsopiro}
 ! 
@@ -3759,6 +3759,7 @@ define NRootPRQin [
 | "[=veane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {veane}
 | "[=peane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {peane}
 | "[=viane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {viane}
+| "[=piaaveni][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {piaaveni}
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
 ! 
