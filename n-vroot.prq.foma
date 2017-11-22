@@ -92,7 +92,7 @@ define NounToVerbPRQin [
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]+vbz." : {tsomonte} ! N@->V 
 | "[=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]+vbz." : {viti} ! N@->V
 | "[=vitzi+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma); skin]+vbz." : {vitzi} ! N@->V
-| "[=ayompari][NRoot][=trading.partner (ES: amigo)]::[=to.barter.sth. (ES: hacer.trueque)]+vbz." : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] 
+| "[=ayompari][NRoot][=trading.partner (ES: amigo)]::[=to.barter.sth. (ES: hacer.trueque)]+vbz." : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine
 | "[=compadre][NRootEs][=godparent; spiritual.father]+vbz." : {compadre} ! N@->V 
 | "[=santo][NRoot][=saint; sacred (ES: sagrado); good.spirit (ES: buen.espíritu)]+vbz." : {santo} ! N@->V 
 | "[=tambor+m.][NRoot][=drum]+vbz." : {tambor} ! N@->V

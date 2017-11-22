@@ -3813,8 +3813,12 @@ define NRootPRQin [
 | "[=yoNpare+m.+inal.][NRoot][=friend; trading.partner]" : {yõpare}
 | "[=yompare+m.+inal.][NRoot][=friend; trading.partner]" : {yompare}
 ! 
-! ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas'
-| "[=ayompari][NRoot][=trading.partner (ES: amigo)]" : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] 
+! ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas; comercio'
+| "[=ayompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo); short-distance.bartering.made.by.males (ES: trueque.de.corta.distancia)]" : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine
+! niomparitacari / niomparitakari / n- =iompari -t -ak -a -ri / 
+| "[=iompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo)]" : {iompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] 
+! 
+| "[=ayompaho][NRoot][=short-distance.bartering.made.by.females (ES: trueque.de.corta.distancia)]" : {ayompaho}
 ! 
 | "[=Yompiri][NRoot][=stone.divinity; proper.name]" : {yompiri}
 | "[=Paatsiri][NRoot][=stone.divinity; proper.name]" : {paatsiri}
