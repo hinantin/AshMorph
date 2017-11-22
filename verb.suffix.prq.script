@@ -255,6 +255,7 @@ define V=S=EXCL [
       
 define V=S=STAT [
 # -------- STATIVITY MARKERS -------------
+# -------- STATIVITY IMPERFECTIVE -------------
 ! koiteatsiri / =koite -atsi -ri / =to.be.in.need -stat -rel / EN: 'poor'; ES: 'pobre' 
 ! betsikayetatsiri / vetsikayetatsiri / =vetsik -a -ye -t -atsi -ri / =to.create -ep -dist -ep -stat -rel / EN: 'invention (thing/idea.that.has.been.invented)'; ES: 'invento'  
   "[--][-atsi][+STAT]" : "@EP"[{atsi}]
@@ -327,7 +328,7 @@ define V=S=ABS [
 !];
       
 define V=S=COND [
-  "[--][-rika][+COND][=if (expresses.possible.condition); like (comparison)]" : "@EP"[{rika}] 
+  "[--][-rika][+COND][=if (expresses.possible.condition); like (comparison)]" : "@EP"[{rika}] ! +evidential 
 # This suffix indicates, for good/bad, an action or idea wasn't fulfilled.
 # Also abbreviated CNT.EXP 'counter-expectational' 
 | "[--][-me][+SUBJ]" : "@EP"[{me}] 
@@ -552,10 +553,11 @@ define V=S=REV [
 | "[--][-ree][+REV]" : "@EP"[{ree}]
 ];
       
+# 
 define V=S=DUB [
-  "[--][-ma][+DUB][=maybe]" : [{ma}] 
-| "[--][-mpa][+DUB][=maybe]" : [{mpa}] 
-| "[--][-npa][+DUB][=maybe]" : [{npa}] 
+  "[--][-ma][+DUB][=maybe]" : [{ma}] ! +evidential 
+| "[--][-mpa][+DUB][=maybe]" : [{mpa}] ! +evidential 
+| "[--][-npa][+DUB][=maybe]" : [{npa}] ! +evidential 
 # irirotaima iriri / =iriro -taima ir- =iri / =he -dub 3m.poss- =father / ES: 'tal vez puede ser el rey/padre [de los loros]' 
 # aisatzitaima / =aisatzi -taima / =also -dub / EN: '' 
 | "[--][-taima][+DUB][=maybe]" : [{taima}] 
@@ -726,9 +728,11 @@ define V=S=DLMT [
 ];
 
 # new discovery 
-define V=S=NEWDISC [
-  "[--][-atai][+NEW.DISC]" : "@EP"[{atai}] 
-| "[--][-atae][+NEW.DISC]" : "@EP"[{atae}] 
+# ----------- Mirativity --------------
+# Reporting information which is new or surprising to the speaker 
+define V=S=MIR [
+  "[--][-atai][+MIR]" : "@EP"[{atai}] 
+| "[--][-atae][+MIR]" : "@EP"[{atae}] 
 ];
 
 define V=S=POSSREL [
@@ -745,5 +749,6 @@ define V=S=POSSREL [
 # n.m.			not masculine
 # 
 # Asp			Aspectual morphology 
+# E			Evidential 
 
 
