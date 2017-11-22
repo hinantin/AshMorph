@@ -575,5 +575,8 @@ define S [
 
 # kant-imai-t-ach-a
 | (V=S=INCH) (V=S=STAT) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)]
+
+# i-ny-amampe-ak-a-ro
+| (V=S=SIM) (V=S=PRF) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
 ];
 

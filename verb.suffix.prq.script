@@ -735,6 +735,12 @@ define V=S=MIR [
 | "[--][-atae][+MIR]" : "@EP"[{atae}] 
 ];
 
+# simulative suffix 
+# Indicates feigned/simulated action.
+define V=S=SIM [
+  "[--][-amampe][+SIM]" : "@EP"[{amampe}] 
+];
+
 define V=S=POSSREL [
   "[--][-nt][VS][+POSS.REL]" : [{nt}] 
 ];
