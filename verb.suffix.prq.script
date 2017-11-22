@@ -10,6 +10,7 @@ define V=S=PROG [
 | "[--][-atsi][ASP][+PROG]" : "@EP"[{atsi}] 
 | "[--][-aty][ASP][+PROG]" : "@EP"[{aty}]
 | "[--][-ati][ASP][+PROG]" : "@EP"[{ati}]
+| "[--][-atiy][ASP][+PROG]" : "@EP"[{atiy}]
 ];
       
 define V=S=PRNO [
