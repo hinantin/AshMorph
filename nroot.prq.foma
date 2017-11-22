@@ -251,7 +251,7 @@ define NRootPRQin [
 ! 
 | "[=chekito+m.][NRoot][=frog.sp., small.toad.sp.]" : {chekito}
 ! 
-| "[=chekopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {chekopi}
+| "[=chekopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña); cane.for.arrows (ES: caña.para.flechas)]" : {chekopi}
 | "[=chikopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {chikopi}
 | "[=txekopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {txekopi}
 | "[=chakopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {chakopi} ! N@->V
@@ -2668,6 +2668,7 @@ define NRootPRQin [
 | "[=pyamine+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyamine}
 | "[=piameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {piameni}
 | "[=pyameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyameni}
+| "[=piaaveni][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {piaaveni}
 ! 
 ! noviari / no- =piari / 1sg.poss- =manioc.beer / EN: 'my.manioc_beer' 
 ! oviari / o- =piari / 3n.m.poss- =manioc.beer / EN: 'my.manioc_beer' 
@@ -3375,7 +3376,7 @@ define NRootPRQin [
 | "[=tzike][NRoot][=frog.sp. (ES: especie.de.rana)]" : {tzike} 
 ! 
 | "[=tiri+m.+poss@ni.][NRoot][=tar (ES: brea)]" : {tiri}
-| "[=tziri+m.+poss@ni.][NRoot][=tar (ES: brea)]" : {tziri}
+| "[=tziri+m.+poss@ni.][NRoot][=tar (ES: brea, resina)]" : {tziri}
 | "[=tziri+n.m.][NRoot][=tar-producing.tree.sp.]" : {tziri}
 | "[=tsineri][NRoot][=natural.tar (ES: brea.natural); tar-producing.tree.sp. (ES: árbol.que.produce.resina)]" : {tsineri} ! \cite[p.6]{borios:pesca:05}  
 ! 
@@ -3759,7 +3760,6 @@ define NRootPRQin [
 | "[=veane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {veane}
 | "[=peane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {peane}
 | "[=viane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {viane}
-| "[=piaaveni][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {piaaveni}
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
 ! 
