@@ -1667,7 +1667,8 @@ define VRootPRQin [
 | "[=tsokis][VRoot][=to.have.hiccups (ES: tener.hipo)]" : {tsokis}
 ! 
 | "[=tsonk][VRoot][=to.finish]" : {tsonk}
-| "[=tsonk+redup.][VRoot][=to.finish]" : {tsonkatsonk}
+| "[=tsonk+redup.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonk}
+| "[=tsonk+redup.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonka}
 | "[=tsonk][VRoot][=to.kill]" : {tsonk}
 ! 
 | "[=tsoinare][VRoot][=to.break.in.half]" : {tsoinare}
