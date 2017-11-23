@@ -255,7 +255,7 @@ define N=S=CL [
 | "[--][-impiki][+CL:small.branch][=small.branch;branching.from.one.node (e.g.: a.limb)]" : {impiki} 
 | "[--][-hempeki][+CL:small.branch][=small.branch;branching.from.one.node (e.g.: a.limb)]" : {hempeki} 
 # this classifier tends to change the gender to n.m. of the nominal roots to which it is adhered.
-| "[--][-i^venki+n.m.][+CL:magic.plant][=magic.plant,piripiri]" : {venki} 
+| "[--][-i^venki+n.m.][+CL:magic.plant][=magic.plant,piripiri]" : "@I@"{venki} 
 
 # pabachori / pavachori / =pava -chori / =dad -cl:distant.kin / EN: 'uncle'; ES: 'tío'  
 | "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} 
@@ -370,7 +370,7 @@ define N=S=CL [
 ! Manitzito / =manitzi -to / =tiger -cl:heights.of.sth. / EN: 'hill.whose.upper-part.is.inhabited.by.a.man-eating.jaguar' 
 ! Pamoroitoni / =pamoro -ito -ni / =dove.sp. -cl:heights.of.sth. -cl:watercourse  / EN: 'hill.with.a.stream.where.the.pamoro-dove.sp.lives.in.its.upper.part' 
 | "[--][-ito][+CL:head][=head,the.heights.of.sth.; upper.part,inhabited.by.a.supernatural.entity]" : {ito}
-| "[--][-i^to][+CL:head][=head,the.heights.of.sth.; upper.part,inhabited.by.a.supernatural.entity]" : {to}
+| "[--][-i^to][+CL:head][=head,the.heights.of.sth.; upper.part,inhabited.by.a.supernatural.entity]" : "@I@"{to}
 ! 
 ! nokatsiyempitake / no- =katsi -yempi -t -ak -e / 1sg.s- =to.feel.pain -cl:ear -ep -prf -irr / EN: 'I.have.an.earache (lit.: I've.been.ear-hurting)' 
 | "[--][-yempi][+CL:ear][=ear]" : {yempi} ! @CL 
@@ -462,7 +462,7 @@ define N=S=CL [
 | "[--][-sama][+CL:unit][=unit.of.sth.;oval,extended]" : {sama}
 #-----------------------------------------------
 | "[--][-ite][+CL:anim.PL][=animate,plural]" : {ite} !  -ite 'animate.classifier' \cite[p.93]{aikhenvald:neg:14} 
-| "[--][-i^te][+CL:anim.PL][=animate,plural]" : {te}
+| "[--][-i^te][+CL:anim.PL][=animate,plural]" : "@I@"{te}
 #-----------------------------------------------
 ! kamonapata / =kamona -pata / =pona-palm.tree.sp. -cl:long.tool / ES: 'removedor.de.tierra.hecho.de.pona.dura'  
 ! quiripata / kiripata / =kiri -pata / =pifayo-palm.tree.sp. -cl:long.tool / ES: 'pedazo.de.pifayo.usado.para.tejer'  
@@ -547,7 +547,7 @@ define N=S=AUG [
 # keshiisatziite / =keshii -satzi-ite / =mountainous_grassland -cl:provenance -aug / EN: 'big.mountainous_grasslander', ES: 'pajonalino'  
 # antearoite / =antearo -ite / =big -aug / EN: 'very.big', ES: 'muy.grande'  
 | "[--][-ite][+AUG]" : [{ite}] 
-| "[--][-i^te][+AUG]" : [{te}] 
+| "[--][-i^te][+AUG]" : "@I@"{te} 
 # ishaninkaperori / i- =shani -nka -pero -ri / 3m.poss- =to.be.of.the.same.group -nmz -aug -rel / EN: 'his.true.mate', ES: 'su.verdadero.amigo'  
 # is pero more a verbal augmentive suffix ??? 
 | "[--][-pero][+AUG]" : [{pero}]

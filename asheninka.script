@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"]];
+       define Cleanup1  [["@EP"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -228,7 +228,9 @@
       
       define PossessiveRestr3 [ Vowels => .#. ~[{no}"@PHONPROC@"] _  ]; ! noito ??? oitontsi ??? 
       
-      define NounFeatRestr [PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2];
+      define IRestr4 [ ["@I@"] => {i} _ ]; 
+      
+      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. IRestr4 ];
       
       source nroot.prq.foma
       source aroot.prq.foma
