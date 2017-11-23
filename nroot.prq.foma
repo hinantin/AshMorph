@@ -51,14 +51,15 @@ define NRootPRQin [
 ! 
 | "[=aavintaro+n.m.+inal@ntsi.][NRoot][=medicine; natural.medicine]" : {aavintaro}
 ! 
-| "[=aiki+n.m.+inal@ntsi.][NRoot][=tooth]" : {aiki}
-| "[=ahi+inal.][NRoot][=tooth (ES: diente)]" : {ahi}
+| "[=aiki+n.m.+inal@ntsi.][NRoot][=tooth (ES: diente)]" : {aiki}
+| "[=aeki+n.m.+inal@ntsi.][NRoot][=tooth (ES: diente)]" : {aeki}
+| "[=ahi+inal@tsi.][NRoot][=tooth (ES: diente)]" : {ahi}
 ! 
-| "[=airi+m.+poss@ti.][NRoot][=black.bee.sp.]" : {airi} 
+| "[=airi+m.+poss@ti.][NRoot][=black.bee.sp. (ES: abeja.negra)]" : {airi} 
 ! 
 | "[=aiyo][NRoot][=mother.in.law (kin.of.female, fem.ego)]" : {aiyo}
 | "[=ayiini+n.m.][NRoot][=mother.in.law]" : {ayiini} !  
-| "[=ayiro+inal.][NRoot][=mother.in.law]" : {ayiro} ! +N +1SG 
+| "[=ayiro+inal@ntsi.][NRoot][=mother.in.law (ES: suegra)]" : {ayiro} ! +N +1SG 
 ! 
 | "[=anatzirori][NRoot][=raw (ES: crudo)]" : {anatzirori}
 ! 
