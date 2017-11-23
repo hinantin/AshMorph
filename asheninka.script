@@ -259,10 +259,12 @@
       # the lenition process is found at the root-root boundary in noun compounds 
       # vatsavori / 'vatsa-pori' / 'meat-muscle' 
       # caavovaniri~kaavovaniri / 'kaavo-kaniri' / ES: 'caña-yuca', EN: 'sugar.cane-yucca' 
+      # camatoyaniri / ''
       define PWLenitionRuleCmpNoun1 [ "@PHONPROCCMPNOUN@"p (->) "@PHONPROCCMPNOUN@"v || [{a}] _ [{i}|{o}] ]; 
-      define PWLenitionRuleCmpNoun2 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"v || [{o}] _ [{a}] ]; 
+      define KWLenitionRuleCmpNoun2 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"v || [{o}] _ [{a}] ]; 
+      define KYLenitionRuleCmpNoun3 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"y || [{o}] _ [{a}] ]; 
 
-      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. PWLenitionRuleCmpNoun2 ];  
+      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 ];  
 
       ############################
       #      Noun transducer     #
