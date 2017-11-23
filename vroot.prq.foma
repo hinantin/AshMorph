@@ -801,6 +801,12 @@ define VRootPRQin [
 | "[=may][VRoot][=to.sleep (ES: dormir)]" : {may}
 | "[=maey][VRoot][=to.sleep (ES: dormir)]" : {maey}
 ! 
+| "[=maye][VRoot][=to.limp (ES: cojear)]" : {maye}
+| "[=mayeh][VRoot][=to.limp (ES: cojear)]" : {mayeh}
+| "[=metink][VRoot][=to.limp (ES: cojear)]" : {metink}
+| "[=aasheta][VRoot][=to.limp (ES: cojear)]" : {aasheta}
+| "[=aahyita][VRoot][=to.limp (ES: cojear)]" : {aahyita}
+! 
 | "[=mapok][VRoot][=to.surprise]" : {mapok}
 ! 
 | "[=marentak][VRoot][=to.sing.sacred.songs]" : {marentak}
