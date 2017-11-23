@@ -192,9 +192,9 @@ define NRootPRQin [
 ! 
 | "[=avanto][NRoot][=big-size.frog]" : {avanto}
 ! 
-| "[=avo+n.m.+inal.][NRoot][=road, trail]" : {avo}
-| "[=ao+n.m.+inal.][NRoot][=road, trail]" : {ao}
-| "[=aa+n.m.+inal.][NRoot][=road, trail]" : {aa}
+| "[=avo+n.m.+inal@tsi.][NRoot][=road, trail]" : {avo}
+| "[=ao+n.m.+inal@tsi.][NRoot][=road, trail]" : {ao}
+| "[=aa+n.m.+inal@tsi.][NRoot][=road, trail]" : {aa}
 ! 
 | "[=avesari+m.][NRoot][=piranha.sp. (ES: sp.de.piraña)]" : {avesari}
 | "[=avisari+m.][NRoot][=piranha.sp. (ES: sp.de.piraña)]" : {avisari}
