@@ -137,7 +137,9 @@
      #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5] ;
       #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. TransAgentWithoutObject .o. TransSubjectWithObject] ;
       define MPRestr1 [ ["@MP@"] => {m} _ {p} ]; 
-      define VerbFeatRestr [MPRestr1] ; 
+      define PersPrefixRestr1 [ Cons => .#. ~[[{h}|{n}|{p}|{r}]] _  ];
+      
+      define VerbFeatRestr [ MPRestr1 .o. PersPrefixRestr1 ] ; 
 
       source vroot.prq.foma
       source vroot.es.foma
