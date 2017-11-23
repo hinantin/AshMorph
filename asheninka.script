@@ -223,7 +223,7 @@
       ####################################
       define PossPlusInalRestr1 [~$["@PHONPROC@"?*"@NPOSS"]]; ! it is possible that this is a badly designed rule 
       
-      define PossessiveRestr1 [ Cons => .#. ~[{r}"@PHONPROC@"] _  ];
+      define PossessiveRestr1 [ Cons => .#. ~[[{r}|{n}|{p}]"@PHONPROC@"] _  ];
       define PossessiveRestr2 [ Cons => .#. ~[{ir}"@PHONPROC@"] _  ];
       
       define NounFeatRestr [PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2];
