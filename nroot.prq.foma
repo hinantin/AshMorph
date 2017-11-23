@@ -49,9 +49,9 @@ define NRootPRQin [
 ! 
 | "[=achontsi][NRoot][=mud-wasp.sp.]" : {achontsi}
 ! 
-| "[=aavintaro+n.m.+inal.][NRoot][=medicine; natural.medicine]" : {aavintaro}
+| "[=aavintaro+n.m.+inal@ntsi.][NRoot][=medicine; natural.medicine]" : {aavintaro}
 ! 
-| "[=aiki+n.m.+inal.][NRoot][=tooth]" : {aiki}
+| "[=aiki+n.m.+inal@ntsi.][NRoot][=tooth]" : {aiki}
 | "[=ahi+inal.][NRoot][=tooth (ES: diente)]" : {ahi}
 ! 
 | "[=airi+m.+poss@ti.][NRoot][=black.bee.sp.]" : {airi} 
@@ -771,7 +771,7 @@ define NRootPRQin [
 ! 
 # iraantsi / =iraa -ntsi / =blood -nposs / EN: 'blood', ES: 'sangre'  
 | "[=iraa+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraa} 
-| "[=ira+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]" : {ira} ! N@->V 
+| "[=ira+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]" : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
 ! 
 | "[=irantsipi+n.m.][NRoot][=sugar.cane.sp.]" : {irantsipi}
 ! 
@@ -2153,7 +2153,8 @@ define NRootPRQin [
 | "[=otapiki][NRoot][=cliff; rugged; foothill, valley.floor]" : {otapiki} ! Adv?
 | "[=otaapiki][NRoot][=cliff; rugged; foothill, valley.floor]" : {otaapiki} ! Adv?
 ! 
-| "[=otapinoma][NRoot][=chin, jaw]" : {otapinoma}
+| "[=otapinoma][NRoot][=chin, jaw (ES: quijada, mandíbula.inferior)]" : {otapinoma}
+| "[=noma][NRoot][=jaw (ES: quijada)]" : {noma} ! @CMP
 | "[=otenkanaki][NRoot][=rocky.place]" : {otenkanaki}
 ! 
 | "[=oteva][NRoot][=branch; fork-like.branch (ES: horquilla)]" : {oteva}

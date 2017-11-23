@@ -226,6 +226,8 @@
       define PossessiveRestr1 [ Cons => .#. ~[[{r}|{n}|{p}]"@PHONPROC@"] _  ];
       define PossessiveRestr2 [ Cons => .#. ~[{ir}"@PHONPROC@"] _  ];
       
+      define PossessiveRestr3 [ Vowels => .#. ~[{no}"@PHONPROC@"] _  ]; ! noito ??? oitontsi ??? 
+      
       define NounFeatRestr [PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2];
       
       source nroot.prq.foma
