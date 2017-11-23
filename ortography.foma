@@ -26,7 +26,7 @@
       define JReplacement1 [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
       define JReplacement2 [ {h} (->) {j} || .#. _ Vowels ]; # changing ja -> ha at the beginning of a word
       define JReplacement3 [ {h} (->) {j} || _ Vowels ]; # changing jemimimi -> jemimimi at the beginning of a word
-      define JReplacement4 [ {h} (->) {j} || _ {ya} ]; # iraanajya -> iraanahya 
+      define JReplacement4 [ {h} (->) {j} || _ [{ya}|{yi}] ]; # iraanajya -> iraanahya ; aajyitataantsi -> aahyitataantsi
 
       define ZReplacement1 [ {s} (->) {z} || .#. _ Vowels ];
 
