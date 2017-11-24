@@ -66,6 +66,8 @@ define NegPRQin [
 | "[=tee][Neg][=NEG.REAL][--][-rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {teerika}
 # 
 | "[=te][Neg][=NEG.REAL][--][-teeme][+CERTAINTY]" : {teteeme}
+# 
+| "[=te][Neg][=NEG.REAL][--][-ha][+EMPH]" : {teha}
 # negative existencial 
 | "[=tekatsi][Neg][=NEG.EXIST]" : {tekatsi}
 | "[=teekatsi][Neg][=NEG.EXIST]" : {teekatsi}
