@@ -1845,7 +1845,7 @@ define VRootPRQin [
 ! 
 | "[=kaari][VRoot][=NEG.COP (En: not.be)]" : {kaari}
 ! copula of capacity cop.c
-| "[=kara][VRoot][=COP.C]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 
+| "[=kara][VRoot][=COP.CAP (EN: the.amount)]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 
 ! 
 | "[=kara][VRoot][=to.contain, to.finish]" : {kara} ! contain - abarcar, sumar?
 | "[=kaa][VRoot][=to.contain, to.finish]" : {kaa} 
