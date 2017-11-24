@@ -66,7 +66,8 @@ define N [
 | (N=S=smallpart) (N=S=DIM) 
 | (N=S=CL) (N=S=CL) (N=S=LOC) 
 | (N=S=wide) (N=S=AUG) 
-| (N=S=NMZ) (N=S=NMZ) 
+# kaminkaripaye / kaminka -ri -paye / =dead -nmz -pl / EN: 'the.dead'; ES: 'los.muertos' 
+| (N=S=NMZ) (N=S=NMZ) (N=S=PL) 
 | (N=S=poss) (N=S=LOC) (N=S=DEM) 
 | (N=S=LOC) (N=S=ADVP) 
 | (N=S=LOC) (N=S=DEM) (N=S=EMPH) 
