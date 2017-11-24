@@ -326,7 +326,8 @@ define NRootPRQin [
 | "[=chochoki+n.m.][NRoot][=(wild).sweet.fruit (ES: fruta.dulce)]" : {chochoki}
 | "[=txotxoki+n.m.][NRoot][=general.name.for.small.fruits; (wild).sweet.fruit (ES: fruta.dulce)]" : {txotxoki}
 ! 
-| "[=chomenta][NRoot][=freshwater.fish.sp. (ES: palometa)]" : {chomenta}
+| "[=chomenta+m.][NRoot][=freshwater.fish.sp. (ES: palometa)]" : {chomenta}
+| "[=chominta+m.][NRoot][=freshwater.fish.sp. (ES: palometa)]" : {chominta}
 ! 
 | "[=chomiyo][NRoot][=banana.sp. (ES: moquichi)]" : {chomiyo}
 | "[=chomiyoki][NRoot][=banana.sp. (ES: plátano.bizcocho)]" : {chomiyoki}
