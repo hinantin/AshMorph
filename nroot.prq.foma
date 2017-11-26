@@ -336,10 +336,12 @@ define NRootPRQin [
 ! 
 | "[=chompi][NRoot][=silver-beacked.tanager (sci.nm.: ramphocelus.carbo); black.small.bird.sp.; red.breasted.bird.sp. (ES: sp.de.pájaro.con.pecho.rojo)]" : {chompi}
 ! 
+| "[=chompii][NRoot][=bird.sp. (ES: sp.de.ave)]" : {chompii}
+! 
 | "[=chompiriniro][NRoot][=vermilion.tanage (sci.nm.: calochaetes.coccineus)]" : {chompiriniro}
 ! 
-| "[=chompita][NRoot][=cockroach.sp.]" : {chompita}
-| "[=tsompita][NRoot][=cockroach.sp.]" : {tsompita}
+| "[=chompita][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {chompita}
+| "[=tsompita][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {tsompita}
 ! 
 | "[=chooki+n.m.+voc.][NRoot][=sister (kin.of.a.male, male.ego)]" : {chooki}
 ! 

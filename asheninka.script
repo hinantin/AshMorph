@@ -57,7 +57,8 @@
       define TEpenthesisRule9 [ ["@EP@"{t}"@EP"] => a _ i ]; # o-kametsa-t-i
       define TEpenthesisRule10 [ ["@EP@"{t}"@EP"] => e _ [y|e] ]; # no-ñatsa-bae-t-ya, i-ñaashirink-a-jee-t-e-ri-ne
       define TEpenthesisRule11 [ ["@EP@"{t}"@EP"] => n _ [a|e|i|o|y] ]; # quemisan-t-atsi-ri, pi-n-quemisan-t-e-na-ji, i=shiron-t-yaa-ma  
-      define TEpenthesisRule12 [ ["@EP@"{t}"@EP"] => o _ [i|y] ]; # i=cameetsa-t-asano-t-i, i-n=kis-ako-t-ya-ro 
+      define TEpenthesisRule12 [ ["@EP@"{t}] => o _ ["@EP"[i|y]] ]; # i=cameetsa-t-asano-t-i, i-n=kis-ako-t-ya-ro 
+      #define TEpenthesisRule12 [ ~[ [~[?* o] "@EP@t@EP" ?*] | [?* "@EP@t@EP" ~[ [i|y] ?*]] ] ];
       define TEpenthesisRule13 [ ["@EP@"{t}"@EP"] => y _ [a|e] ]; # i=mantsiy-t-apaent-e
 									# This rule is not working for this entry: Ikinkishiriaka 
 									# but for Ikinkishiritaka, for this reason we apply an optional rule
@@ -80,7 +81,14 @@
       
       define EpEpRestr1 [ ["@EP@"[{a}|{ts}{tz}]] => ~["@EP@"[{a}|{ts}{tz}]] _ ];
       
-       define Epenthesis [ TZEpenthesisRule4 .o. TZEpenthesisRule6 .o. TZEpenthesisRule8 .o. EpEpRestr1 ];
+       define Epenthesis [ 
+#AEpenthesisRule1 .o. 
+#AEpenthesisRule2 .o. 
+#AEpenthesisRule3 .o. 
+TZEpenthesisRule4 .o. 
+TZEpenthesisRule6 .o. 
+TZEpenthesisRule8 
+];
 #      define Epenthesis [ AEpenthesisRule1 .o. AEpenthesisRule2 .o. AEpenthesisRule3 .o. AEpenthesisRule4 .o. AEpenthesisRule5 .o. AEpenthesisRule6 
 #.o. AEpenthesisRule7 .o. AEpenthesisRule8 .o. AEpenthesisRule9 .o. AEpenthesisRule10 .o. AEpenthesisRule11 .o. AEpenthesisRule12 .o. AEpenthesisRule13 .o. AEpenthesisRule14 .o. AEpenthesisRule15 .o. AEpenthesisRule16 
 #.o. AEpenthesisRule17 .o. AEpenthesisRule18 
