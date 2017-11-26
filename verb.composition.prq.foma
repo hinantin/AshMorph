@@ -19,8 +19,8 @@ define V=S=noun [
 | "[--][=kametsa][NRoot][=well, good]" : "@EP"{kametsa} ! @VCMP 
 | "[--][=kentsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]" : "@EP"{kentsi} ! @VCMP 
 | "[--][=kintsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]" : "@EP"{kintsi} ! @VCMP 
-| "[--][=kiri][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kiri} ! @VCMP 
-| "[--][=kirii][NRoot][=palm.tree.sp. (pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kirii} ! @VCMP 
+| "[--][=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kiri} ! @VCMP 
+| "[--][=kirii][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kirii} ! @VCMP 
 | "[--][=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{menko} ! N@->V @VCMP 
 | "[--][=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{minko} ! N@->V @VCMP 
 | "[--][=mereki+n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : "@EP"{mereki} ! @CMP @VCMP
