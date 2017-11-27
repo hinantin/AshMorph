@@ -558,25 +558,28 @@ define S [
 | (EP) (V=S=UNK1) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=REL) (EP) (V=S=Q) 
 | (EP) (V=S=DLMT) (EP) (V=S=REL) 
 | (EP) (V=S=REGR) (EP) (V=S=DIR) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=REL) (EP) (V=S=Q) 
-| (EP) (V=S=APPLBEN) (EP) (V=S=PL) (EP) (V=S=APPLREAS) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=REL) (EP) (V=S=Q) ! inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
-| (EP) (V=S=MIR) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=REL) (EP) (V=S=Q) 
-| (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=REL) (EP) (V=S=EXCL) ! ompoh-ak-i-na-vi 
-| (EP) (V=S=RCP) (EP) (V=S=CAUSSOC) (EP) (V=S=HAB) (EP) (V=S=PL) (EP) (V=S=DIR) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=PLcircumfixing)  
-| (EP) (V=S=RCP) (EP) (V=S=CAUSSOC) (EP) (V=S=REGR) (EP) (V=S=STAT) (EP) (V=S=REL)  
-| (EP) (V=S=RCP) (EP) (V=S=CAUSSOC) (EP) (V=S=REGR) (EP) (V=S=DUR) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=RPST)  
+
+
+
+| (EP) (V=S=APPLBEN) (EP) (V=S=PL) (EP) (V=S=APPLREAS) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) ! inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
+| (EP) (V=S=MIR) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q) 
+| (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=EXCL) ! ompoh-ak-i-na-vi 
+| (EP) (V=S=RCP) (EP) (V=S=CAUSSOC) (EP) (V=S=HAB) (EP) (V=S=PL) (EP) (V=S=DIR) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=PLcircumfixing)  
+| (EP) (V=S=RCP) (EP) (V=S=CAUSSOC) (EP) (V=S=REGR) (EP) (V=S=STAT) (V=S=REL)  
+| (EP) (V=S=RCP) (EP) (V=S=CAUSSOC) (EP) (V=S=REGR) (EP) (V=S=DUR) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=RPST)  
 | (EP) (V=S=RCP) (EP) (V=S=CAUSSOC) (EP) (V=S=PL) (EP) (V=S=REGR) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)]  
 
-| (EP) (V=S=ADV=SET2) (EP) (V=S=DIR) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=REL) (EP) (V=S=Q)  
-| (EP) (V=S=ADV=SET2) (EP) (V=S=HAB) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=REL) (EP) (V=S=Q)  
-| (EP) (V=S=REP) (EP) (V=S=ADV=SET2) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=REL) (EP) (V=S=Q)  
+| (EP) (V=S=ADV=SET2) (EP) (V=S=DIR) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
+| (EP) (V=S=ADV=SET2) (EP) (V=S=HAB) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
+| (EP) (V=S=REP) (EP) (V=S=ADV=SET2) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
 
 # eiro aneahiritsi / ES: 'No lo veremos otra vez' 
-| (EP) (V=S=REGR) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=NEG)  
+| (EP) (V=S=REGR) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=NEG)  
 
 # kant-imai-t-ach-a
 | (EP) (V=S=INCH) (EP) (V=S=STAT) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)]
 
 # i-ny-amampe-ak-a-ro
-| (EP) (V=S=SIM) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (EP) (V=S=O) (EP) (V=S=PRNO) (EP) (V=S=REL) (EP) (V=S=Q)  
+| (EP) (V=S=SIM) (EP) (V=S=PRF) (EP) [(V=S=REAL)|(V=S=REALRFL)|(V=S=IRR)|(V=S=IRRRFL)] (V=S=O) (V=S=PRNO) (V=S=REL) (V=S=Q)  
 ];
 
