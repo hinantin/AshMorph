@@ -283,8 +283,8 @@ define NRootPRQin [
 ! 
 | "[=chenkaro+m.][NRoot][=black-and-white.bird.sp.]" : {chenkaro}
 ! trousers, pants
-| "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants]" : {chenko} ! N@->V
-| "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants]" : {tsenko} ! N@->V
+| "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {chenko} ! N@->V
+| "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {tsenko} ! N@->V
 ! 
 | "[=chenkori+m.][NRoot][=fish.sp. (huasaca, huasaco, pescado.perro)]" : {chenkori} 
 | "[=tsenkori+m.][NRoot][=fish.sp. (huasaca, huasaco, pescado.perro)]" : {tsenkori} 
@@ -304,7 +304,7 @@ define NRootPRQin [
 ! 
 | "[=cheroki][NRoot][=rusty.faced.parrot (sci.nm.: hepalopsittece.amazonina)]" : {cheroki}
 ! 
-| "[=chetaki+inal.][NRoot][=rheum (ES: legaña)]" : {chetaki} ! N@->V
+| "[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]" : {chetaki} ! N@->V::[=to.have.rheum.in.the.eye (ES: tener.legaña)]
 ! 
 # ochevaa / o- =chevaa / EN: 'river's.branch, distributary'; ES: 'isla; distributario, defluente'  
 # ocheva / o- =cheva / EN: 'river's.branch, distributary'; ES: 'isla; distributario, defluente'  

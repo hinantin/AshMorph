@@ -18,9 +18,9 @@ define NounToVerbPRQin [
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {chaine} ! N@->V
 | "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charini} ! N@->V ! is te as a possessive correct ????
-| "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants]+vbz." : {chenko} ! N@->V
-| "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants]+vbz." : {tsenko} ! N@->V
-| "[=chetaki+inal.][NRoot][=rheum (ES: legaña)]+vbz." : {chetaki} ! N@->V
+| "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz." : {chenko} ! N@->V
+| "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz." : {tsenko} ! N@->V
+| "[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]::[=to.have.rheum.in.the.eye (ES: tener.legaña)]+vbz." : {chetaki} ! N@->V::[=to.have.rheum.in.the.eye (ES: tener.legaña)]
 | "[=eentsi+n./m.+poss@te.][NRoot][=child]+vbz." : {eentsi} ! N@->V
 | "[=iintsi+n./m.][NRoot][=child]+vbz." : {iintsi} ! N@->V
 | "[=entsi+n./m.+poss@te.][NRoot][=child]+vbz." : {entsi} ! N@->V
