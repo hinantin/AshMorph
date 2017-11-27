@@ -593,9 +593,9 @@ define NRootPRQin [
 ! 
 | "[=imoki][NRoot][=palm.grubs (ES: suri, humpa)]" : {imoki}
 ! 
-| "[=iipatsa+inal.][NRoot][=brain; brains]" : {iipatsa}
-| "[=inapatsa+inal.][NRoot][=brain; brains]" : {inapatsa}
-| "[=iinapatsa+inal.][NRoot][=brain; brains]" : {iinapatsa}
+| "[=iipatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {iipatsa}
+| "[=inapatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {inapatsa}
+| "[=iinapatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {iinapatsa}
 ! 
 | "[=heto+m.][NRoot][=spider (ES: araña)]" : {heto}
 | "[=hetoo+m.][NRoot][=spider (ES: araña)]" : {hetoo}
@@ -612,9 +612,9 @@ define NRootPRQin [
 ! 
 | "[=hevari][NRoot][=local.leader/chief]" : {hevari}
 ! 
-| "[=iNpaniki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impaniki}
-| "[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impaneki}
-| "[=iNpanaki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains]" : {impanaki}
+| "[=iNpaniki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena)]" : {impaniki}
+| "[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena)]" : {impaneki}
+| "[=iNpanaki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena)]" : {impanaki}
 ! 
 | "[=iNpeeta+n.m.][NRoot][=rock; cave; crag]" : {impeeta}
 | "[=iNperita+n.m.][NRoot][=rock; cave; crag]" : {imperita}
