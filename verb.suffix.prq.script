@@ -205,7 +205,7 @@ define V=S=REL [
   "[--][-ri][+REL]" : "@EP"[{ri}]
 # -----------------------------------------------
 | "[--][-ni][+REL.IRR]" : "@EP"[{ni}]
-| "[--][-ne][+REL]" : "@EP"[{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
+| "[--][-ne][+REL.IRR]" : "@EP"[{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
 ];
       
 define V=S=FRUS [
