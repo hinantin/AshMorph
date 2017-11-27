@@ -204,7 +204,7 @@ define V=S=APPR [
 define V=S=REL [
   "[--][-ri][+REL]" : "@EP"[{ri}]
 # -----------------------------------------------
-| "[--][-ni][+REL]" : "@EP"[{ni}]
+| "[--][-ni][+REL.IRR]" : "@EP"[{ni}]
 | "[--][-ne][+REL]" : "@EP"[{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
 ];
       
