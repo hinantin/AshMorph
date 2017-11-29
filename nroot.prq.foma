@@ -2692,14 +2692,14 @@ define NRootPRQin [
 ! 
 ! noviari / no- =piari / 1sg.poss- =manioc.beer / EN: 'my.manioc_beer' 
 ! oviari / o- =piari / 3n.m.poss- =manioc.beer / EN: 'my.manioc_beer' 
-| "[=piari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piari}
-| "[=pyare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyare} ! @CMP 
-| "[=pyaare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyaare} 
-| "[=pyari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {pyari} ! @CMP 
-| "[=piyaari+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piyaari}
-| "[=piyare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piyare}
-| "[=piyaare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {piyaare}
-| "[=peare+n.m.+inal.][NRoot][=manioc.beer (ES: masato)]" : {peare}
+| "[=piari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {piari}
+| "[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {pyare} ! @CMP 
+| "[=pyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {pyaare} 
+| "[=pyari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {pyari} ! @CMP 
+| "[=piyaari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {piyaari}
+| "[=piyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {piyare}
+| "[=piyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {piyaare}
+| "[=peare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {peare}
 | "[=nyonyo][NRoot][=manioc.beer (ES: masato)]" : {nyonyo}
 ! 
 | "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
