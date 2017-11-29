@@ -37,7 +37,8 @@ define NRootPRQin [
 | "[=ashitarori][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitarori}
 | "[=ashitariri][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitariri}
 ! 
-| "[=aarontsi][NRoot][=summer (ES: verano)]" : {aarontsi} ! N@->V
+# aarontsipaiteki / =aarontsi -paite -ki / =summer -at.the.time.of.sth. -loc / ES: 'durante.el.tiempo.de.verano'    
+| "[=aarontsi][NRoot][=summer (ES: verano)]" : {aarontsi} ! N@->V::[=to.be.summer (ES: haber.verano)]
 ! 
 # good.invisible.spirit, lighting_bolt-like.spirit; brilliantly_plummed_bird-like.spirit; spirit.with.resplendent_human_corporeality 
 | "[=amachenka][NRoot][=class.of.mythological.savior; good.invisible.spirit]" : {amachenka} 
@@ -49,7 +50,7 @@ define NRootPRQin [
 ! 
 | "[=achontsi][NRoot][=mud-wasp.sp.]" : {achontsi}
 ! 
-| "[=aavintaro+n.m.+inal@ntsi.][NRoot][=medicine; natural.medicine]" : {aavintaro}
+| "[=aavintaro+n.m.+inal@ntsi.][NRoot][=medicine; natural.medicine (ES: remedio.natural)]" : {aavintaro}
 ! 
 | "[=aiki+n.m.+inal@ntsi.][NRoot][=tooth (ES: diente)]" : {aiki}
 | "[=aeki+n.m.+inal@ntsi.][NRoot][=tooth (ES: diente)]" : {aeki}

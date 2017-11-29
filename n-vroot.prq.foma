@@ -6,7 +6,7 @@ define NounToVerbPRQin [
 | "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]+vbz." : {aani} ! N@->V @VCMP 
 | "[=aane+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]+vbz." : {aane} ! N@->V @VCMP 
 | "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]+vbz." : {aapi} ! N@->V 
-| "[=aarontsi][NRoot][=summer (ES: verano)]+vbz." : {aarontsi} ! N@->V
+| "[=aarontsi][NRoot][=summer (ES: verano)]::[=to.be.summer (ES: haber.verano)]+vbz." : {aarontsi} ! N@->V::[=to.be.summer (ES: haber.verano)]
 | "[=amaani+n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)]+vbz." : {amaani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=amani+n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)]+vbz." : {amani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=antami][NRoot][=woods, forest; dense.tropical.forest]+vbz." : {antami} ! N@->V
