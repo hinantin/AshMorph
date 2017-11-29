@@ -316,8 +316,14 @@ define NRootPRQin [
 ! 
 | "[=chiroti][NRoot][=small.yellow-with-black.bird.sp. (ES: paucarcillo)]" : {chiroti}
 ! 
-| "[=choeni+n.m.][NRoot][=sister (kin.of.a.male)]" : {choeni}
-| "[=choini+n.m.][NRoot][=sister (kin.of.a.male)]" : {choini}
+# ----------------------------------------------------------------
+| "[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]" : {choeni}
+| "[=choini+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]" : {choini}
+! 
+| "[=chooki+n.m.+voc.][NRoot][=sister (kin.of.a.male, male.ego)]" : {chooki}
+! 
+| "[=tyootyo+n.m.+poss@te:ti.+voc.][NRoot][=sister (kin.of.a.male, male.ego)]" : {tyootyo}
+# ----------------------------------------------------------------
 ! 
 | "[=chokari+m.][NRoot][=red.bird.sp.]" : {chokari}
 ! 
@@ -342,8 +348,6 @@ define NRootPRQin [
 ! 
 | "[=chompita][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {chompita}
 | "[=tsompita][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {tsompita}
-! 
-| "[=chooki+n.m.+voc.][NRoot][=sister (kin.of.a.male, male.ego)]" : {chooki}
 ! 
 | "[=chooni][NRoot][=black.turkey.sp.; wattled.curassow.sp. (sci.nm.: crax.globulosa)]" : {chooni}
 ! 
