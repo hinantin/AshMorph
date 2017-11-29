@@ -1110,7 +1110,7 @@ define NRootPRQin [
 | "[=kashekari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashekari}
 | "[=kashikari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashikari}
 ! 
-| "[=kashi][NRoot][=resin; white.milky.sap]" : {kashi} ! N@->V
+| "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap]" : {kashi} ! N@->V
 | "[=kashi][NRoot][=semen]" : {kashi}
 | "[=koche][NRoot][=semen]" : {koche} ! 
 ! 
@@ -3776,7 +3776,8 @@ define NRootPRQin [
 | "[=pahiro+n.m.+inal.][NRoot][=name (ES: nombre)]" : {pahiro}
 | "[=pairo+n.m.+inal.][NRoot][=name (ES: nombre)]" : {pairo}
 ! 
-| "[=vaaki+n.m.+inal.][NRoot][=sap; plant.juice]" : {vaaki}
+# antetakiro apite ovaaki / a- N- =te -t -ak -i -ro *** =apite *** o- =vaaki / 1pl.a- irr- =to.take.sth. -ep -prf -irr -3n.m.o *** =two *** 3n.m.poss- =sap  / ES: 'estrujamos.dos.savias.de.esos'  
+| "[=vaaki+n.m.+inal@ntsi.][NRoot][=sap (ES: savia); plant.juice (ES: jugo.de.fruta)]" : {vaaki}
 ! 
 !| "[=garden][=vani][NRoot]" : {vani}
 !| "[=land][=vani][NRoot]" : {vani}
