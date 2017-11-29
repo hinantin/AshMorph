@@ -42,6 +42,9 @@ define NRootESin [
 ! 
 | "[=compañia][NRootEs][=company]" : {compañia}
 | "[=contrato][NRootEs][=contract]" : {contrato}
+! 
+| "[=doctor][NRootEs][=doctor]" : {doctor}
+! 
 | "[=ejercicio][NRootEs][=exercise]" : {ejercicio}
 | "[=escuela][NRootEs][=school]" : {escuela}
 | "[=escuela][NRootEs][=school]" : {eskuera}
