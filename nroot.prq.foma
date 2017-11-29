@@ -73,6 +73,12 @@ define NRootPRQin [
 ! 
 | "[=aavo][NRoot][=heron.sp. (sci.nm.: Egretta.thula)]" : {aavo} 
 ! 
+| "[=tzineri][NRoot][=brother/sister's.son (kin.of.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tzineri} 
+| "[=tsineri][NRoot][=brother/sister's.son (kin.of.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tsineri} 
+! 
+| "[=tzineri+m.][NRoot][=daughter's.husband (ES: yerno, esposo.de.la.hija)]" : {tzineri} 
+| "[=tsineri+m.][NRoot][=daughter's.husband (ES: yerno, esposo.de.la.hija)]" : {tsineri} 
+! 
 # atyo / ES: 'cuñada.(habla.de.mujer)' 
 | "[=atyo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyo} 
 | "[=atyoeni+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyoeni} 
@@ -1384,9 +1390,9 @@ define NRootPRQin [
 ! 
 | "[=kokaapi+n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {kokaapi}
 ! 
-| "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male, ES: suegro)]" : {koki}
-| "[=konki][NRoot][=father; father.in.law; uncle (kin.of.a.male, ES: suegro)]" : {konki}
-| "[=konki+poss@ri.][NRoot][=father.in.law (kin.of.a.male, ES: suegro)]" : {konki}
+| "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]" : {koki}
+| "[=konki][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]" : {konki}
+| "[=konki+poss@ri.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]" : {konki}
 ! 
 | "[=koko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {koko}
 | "[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {kooko}
