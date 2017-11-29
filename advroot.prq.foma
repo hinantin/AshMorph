@@ -55,7 +55,7 @@ define AdvRootPRQin [
 ! 
 | "[=koahika][AdvRoot][=some.time.later]" : {koahika}
 ! 
-| "[=meeka][AdvRoot][=now]" : {meeka}
+| "[=meeka][AdvRoot][=now; already]" : {meeka}
 | "[=meka][AdvRoot][=now]" : {meka}
 ! 
 | "[=okanta][AdvRoot][=CONN]" : {okanta}
