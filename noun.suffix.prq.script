@@ -218,7 +218,7 @@ define N=S=CL [
 | "[--][-vana][+CL:flat,broad][=wide.green.leaf-like;flat,broad]" : {vana} ! +SHAPE 
 # ??? 
 # kovitzinari / =kovitzi -nari / =clay.pot -cl:animal / EN: 'bird.sp.that.builds.its.nest.using.clay', ES: 'hornero (especie.de.pájaro.que.hace.su.nido.de.barro)' 
-# manironari / =maniro -nari / =deer -cl:animal / ES: 'dueño.de.maniro (espíritu.malo)'
+# manironari / [=maniro -nari]+m. / =deer -cl:animal / ES: 'dueño.de.maniro (espíritu.malo)'
 | "[--][-nari][+CL:animal][=animal]" : {nari}  
 ! 
 # batsatsinari / vatsatsinari / =vatsa -tsi -nari / =meat -nposs -cl:consumer.of.sth. / EN: 'carnivore'; ES: 'carnívoro' 
