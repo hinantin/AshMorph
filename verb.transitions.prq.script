@@ -1,9 +1,9 @@
 # DPatch 
 
 define S [
-  (EP) (V=S=PROG) (EP) (V=S=IRR) (EP) (V=S=PRNO) 
-| (EP) (V=S=IRR) 
-| (EP) (V=S=DIST) (EP) (V=S=DIR) (EP) (V=S=PRF) (EP) (V=S=IRR) (EP) (V=S=OPT) 
+  [(EP V=S=PROG)|(V=S=PROG)] [(EP V=S=IRR)|(V=S=IRR)] (V=S=PRNO) 
+| [(EP V=S=IRR)|(V=S=IRR)]
+| [(EP V=S=DIST)|(V=S=DIST)] [(EP V=S=DIR)|(V=S=DIR)] [(EP V=S=PRF)|(V=S=PRF)] [(EP V=S=IRR)|(V=S=IRR)] (V=S=OPT) 
 | (EP) (V=S=PL) (EP) (V=S=PRF) (EP) (V=S=REGR) (EP) (V=S=IRR) (EP) (V=S=CNTF) 
 | (EP) (V=S=PRF) (EP) (V=S=IRR) (EP) (V=S=PRNO) 
 | (EP) (V=S=PRF) (EP) (V=S=REAL) (EP) (V=S=PRNO) 
