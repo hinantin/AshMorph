@@ -640,10 +640,12 @@ define VRootPRQin [
 | "[=kitsaa][VRoot][=to.dress]" : {kitsaa}
 | "[=ketsa][VRoot][=to.dress]" : {ketsa}
 | "[=ketsaa][VRoot][=to.dress]" : {ketsaa}
-# kitarentse / =kita -re -ntse / =to.dress -nmz -nposs / PT: 'cushma, vestimenta.tradicinal' 
+# kitarentse / =kita -re -ntse / =to.dress -nmz -nposs / PT: 'cushma, vestimenta.tradicional' 
 | "[=kita][VRoot][=to.dress]" : {kita}
 ! 
 | "[=kitsa][VRoot][=to.catch.fish.with.a.net]" : {kitsa}
+! 
+| "[=kitso][VRoot][=to.have.an.oval-shape]" : {kitso}
 ! 
 | "[=kityonka][VRoot][=to.be.red]" : {kityonka}
 ! 
