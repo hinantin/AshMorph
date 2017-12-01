@@ -94,13 +94,18 @@ define V=S=PL [
 | "[--][-aiy][+PL]" : "@EP"[{aiy}] 
 | "[--][-aey][+PL]" : "@EP"[{aey}] 
 ];
-
+                   
+define PL [(EP V=S=PL)|(V=S=PL)];
+                   
+# ****************************************
+                   
 define V=S=PLcircumfixing [
-  "[--][-ni+circumfixing][+PL]" : "@EP"[{ni}]
-| "[--][-ne+circumfixing][+PL]" : "@EP"[{ne}]
+  "[--][-ni+circumfixing][+PL]" : [{ni}]
+| "[--][-ne+circumfixing][+PL]" : [{ne}]
 ];
-
-      
+                   
+# ****************************************
+                   
 ! I am taking Aspect instead of Cas as it is an analysis made specifically for Ashaninka.
 ! It specifies an event as a whole, that may be: 
 ! resolved.(event): finality-and-closure, once-and-for.all 
