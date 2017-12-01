@@ -1892,8 +1892,10 @@ define NRootPRQin [
 | "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {metasankari} ! compound 
 | "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {mitasankari} ! compound 
 ! 
-| "[=miti+inal@tsi.][NRoot][=spine (ES: columna.vertebral)]" : {miti}
-| "[=mitzi+inal@tsi.][NRoot][=spine (ES: columna.vertebral)]" : {mitzi}
+| "[=miti+inal@tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {miti}
+| "[=mitzi+inal@tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzi}
+| "[=mitzikaa+inal@n/tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzikaa}
+| "[=mitzikara+inal@ntsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzikara}
 ! 
 | "[=mitiri][NRoot][=dusky-headed.parakeet (sci.nm.: aratinga.weddelli)]" : {mitiri}
 ! 
