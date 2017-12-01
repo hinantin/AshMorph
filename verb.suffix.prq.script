@@ -4,6 +4,8 @@ define EP [
 | "[--][-a][+EP]" : "@EP@"[{a}]
 ];
 
+# ****************************************
+                   
 define V=S=PROG [
   "[--][-atz][ASP][+PROG]" : "@EP"[{atz}] 
 | "[--][-atzi][ASP][+PROG]" : "@EP"[{atzi}] 
@@ -12,24 +14,38 @@ define V=S=PROG [
 | "[--][-ati][ASP][+PROG]" : "@EP"[{ati}]
 | "[--][-atiy][ASP][+PROG]" : "@EP"[{atiy}]
 ];
-      
-define V=S=PRNO [
+                   
+define PROG [(EP V=S=PROG)|(V=S=PROG)];
+                   
+# ****************************************
+                   
+define V=S=PRNO=SET1 [
   "[--][-ri][+3m.O]" : [{ri}] 
 | "[--][-re][+3m.O]" : [{re}] 
 | "[--][-rii][+3m.O]" : [{rii}] 
 | "[--][-ro][+3n.m.O]" : [{ro}] 
 | "[--][-vo][+3n.m.O]" : [{vo}] 
+];
+define V=S=PRNO=SET2 [
 # ----------------------------------
-| "[--][-ai][+1INCL.PL.O]" : "@EP"[{ai}] 
+  "[--][-ai][+1INCL.PL.O]" : "@EP"[{ai}] 
 | "[--][-ae][+1INCL.PL.O]" : "@EP"[{ae}] 
 ];
-      
+                   
+define PRNO [(V=S=PRNO=SET1)|(EP V=S=PRNO=SET2)|(V=S=PRNO=SET2)];
+                   
+# ****************************************
+                   
 define V=S=DIST [
   "[--][-ye][+DIST]" : "@EP"[{ye}]
 | "[--][-yee][+DIST]" : "@EP"[{yee}]
 | "[--][-yi][+DIST]" : "@EP"[{yi}]
 ];
-      
+                   
+define DIST [(EP V=S=DIST)|(V=S=DIST)];
+                   
+# ****************************************
+                   
 define V=S=DIR [
 # 
   "[--][-av+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{av}] 
@@ -45,18 +61,28 @@ define V=S=DIR [
 | "[--][-ap+goal][Adv][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{ap}]
 | "[--][-apa+goal][Adv][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{apa}]
 ];
-      
+                   
+define DIST [(EP V=S=DIR)|(V=S=DIR)];
+                   
+# ****************************************
+                   
 define V=S=PRF [
   "[--][-ak][ASP][+PRF]" : "@EP"[{ak}] 
 | "[--][-aak][ASP][+PRF]" : "@EP"[{aak}] 
 ];
-      
+                   
+define PRF [(EP V=S=PRF)|(V=S=PRF)];
+                   
+# ****************************************
+                   
 # subjunctive clausal enclitic 
 # SUBJUNCT, SUBJ  
 define V=S=OPT [
-  "[--][-ta][+OPT_SUBJ]" : "@EP"[{ta}]
+  "[--][-ta][+OPT_SUBJ]" : [{ta}]
 ];
-      
+                   
+# ****************************************
+                   
 define V=S=PL [
   "[--][-he][Num][+PL]" : "@EP"[{he}] 
 | "[--][-hei][Num][+PL]" : "@EP"[{hei}] 
