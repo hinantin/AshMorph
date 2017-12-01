@@ -1892,8 +1892,8 @@ define NRootPRQin [
 | "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {metasankari} ! compound 
 | "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {mitasankari} ! compound 
 ! 
-| "[=miti+inal.][NRoot][=spine (ES: columna.vertebral)]" : {miti}
-| "[=mitzi+inal.][NRoot][=spine (ES: columna.vertebral)]" : {mitzi}
+| "[=miti+inal@tsi.][NRoot][=spine (ES: columna.vertebral)]" : {miti}
+| "[=mitzi+inal@tsi.][NRoot][=spine (ES: columna.vertebral)]" : {mitzi}
 ! 
 | "[=mitiri][NRoot][=dusky-headed.parakeet (sci.nm.: aratinga.weddelli)]" : {mitiri}
 ! 
@@ -3278,11 +3278,11 @@ define NRootPRQin [
 | "[=taabato][NRoot][=calf]" : {taabato}
 ! back, bottom
 # mapitapi / =mapi =tapi / =stone =lower.side / EN: 'underside.of.a.rock.(with.a.cavernous.space.beneath.it)'   
-| "[=taapi+inal.][NRoot][=back (body.part); bottom; lower.side]" : {taapi} ! @CMP
-| "[=tapi+inal.][NRoot][=back (body.part); bottom; lower.side]" : {tapi} ! @CMP
-| "[=tapii+inal.][NRoot][=back (body.part); bottom; lower.side]" : {tapii} ! @CMP
-| "[=taapii+inal.][NRoot][=back (body.part); bottom; lower.side]" : {taapii} ! @CMP
-| "[=taapiiki+inal.][NRoot][=back]" : {taapiiki}
+| "[=taapi+inal@ntsi.][NRoot][=back (body.part); bottom; lower.side]" : {taapi} ! @CMP
+| "[=tapi+inal@ntsi.][NRoot][=back (body.part); bottom; lower.side]" : {tapi} ! @CMP
+| "[=tapii+inal@ntsi.][NRoot][=back (body.part); bottom; lower.side]" : {tapii} ! @CMP
+| "[=taapii+inal@ntsi.][NRoot][=back (body.part); bottom; lower.side]" : {taapii} ! @CMP
+| "[=taapiiki+inal@n/tsi.][NRoot][=back]" : {taapiiki}
 ! 
 | "[=tanoki][NRoot][=suicide.tree.sp. (sci.nm.: thevetia.peruviana)]" : {tanoki}
 ! 
