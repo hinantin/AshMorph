@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"|"@NVowel@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"|"@NVowel@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -151,9 +151,10 @@ TZEpenthesisRule8
      #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5] ;
       #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. TransAgentWithoutObject .o. TransSubjectWithObject] ;
       define MPRestr1 [ ["@MP@"] => {m} _ {p} ]; 
+      define NVowelRestr1 [ ["@NVowel@"] => {n} _ [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}] ]; 
       define PersPrefixRestr1 [ Cons => .#. ~[[{h}|{n}|{p}|{r}]] _  ];
       
-      define VerbFeatRestr [ MPRestr1 .o. PersPrefixRestr1 ] ; 
+      define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 ] ; 
 
       source vroot.prq.foma
       source vroot.es.foma

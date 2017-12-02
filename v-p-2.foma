@@ -2,7 +2,7 @@
 
 define P=2 [
   "[N=][IRR+][--]" : {N}
-| "[N=][IRR+][--]" : {n}
+| "[N=][IRR+][--]" : {n}"@NVowel@"
 | "[N=][IRR+][--]" : {m}"@MP@"
 
 # ------MALEFACTIVE CAUSATIVE----------
