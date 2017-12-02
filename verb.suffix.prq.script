@@ -117,6 +117,8 @@ define V=S=REGR [
 | "[--][-aha][Asp][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{aha}]
 ];
                    
+define REGR [(EP V=S=REGR)|(V=S=REGR)];
+                   
 # ****************************************
                    
 define V=S=CNTF [
@@ -866,37 +868,53 @@ define INCH [(EP V=S=INCH)|(V=S=INCH)];
 !define V=S=flat [
 !  "[--][+flat]" : "@EP"[{miront}]
 !];
-      
+                   
+# ****************************************
+                   
 !define V=S=REALEMPH [
 !  "[--][-tzitzi][+REAL.EMPH]" : "@EP"[{tzitzi}]
 !];
-      
+                   
+# ****************************************
+                   
 !      define V=S=2S [
 !       "[--][+2S]" : "@EP"[{pi}|{p}]
 !      ];
-      
+                   
+# ****************************************
+                   
 !      define V=S=3nmposs [
 !       "[--][+3n.m.poss]" : "@EP"[{o}]
 !      ];
-      
+                   
+# ****************************************
+                   
 !      define V=S=1PLposs [
 !       "[--][+1PL.poss]" : "@EP"[{a}]
 !      ];
-      
-define V=S=almost [
+                   
+# ****************************************
+                   
+define V=S=almost [ # revise! 
   "[--][-tya+almost]" : "@EP"[{tya}]
 ];
-      
+                   
+# ****************************************
+                   
 # action finished a long time ago
 # REM.PST: remote past  
 define V=S=RPST [
-  "[--][-ni][+R.PST]" : "@EP"[{ni}]
+  "[--][-ni][+R.PST]" : [{ni}]
 ];
-      
-define V=S=neck [
+                   
+# ****************************************
+                   
+define V=S=neck [ # revise! 
   "[--][-kintsi+neck]" : "@EP"[{kintsi}]
 ];
-      
+                   
+# ****************************************
+                   
 # ---------------------------------------
 #            Subordinator 
 # ---------------------------------------
@@ -906,37 +924,53 @@ define V=S=neck [
 # pues: conj. Denota causa, motivo o razón, por ejemplo: 'háblale tú, pues lo conoces más que yo'
 define V=S=SUB [ 
 # pikantatziira / pi- =kant -atzi -i -ra / 2s- =to.be -prog -real -sub[temporal:when] / EN: 'when.you.were.saying'   
-  "[--][-ra][+SUB][=Temporal:when;Location:where(place);Denoting.a.cause/motive/reason:since]" : "@EP"[{ra}]
+  "[--][-ra][+SUB][=Temporal:when;Location:where(place);Denoting.a.cause/motive/reason:since]" : [{ra}]
 ]; 
-# ---------------------------------------
-      
+                   
+# ****************************************
+                   
 define V=S=NEG [
-  "[--][-tsi+future][+NEG]" : "@EP"[{tsi}] 
-| "[--][-tzi+future][+NEG]" : "@EP"[{tzi}] 
-# te inkantaje / te inkantahe / =te i- N- =kant -a -he / 3m.s- =neg.real 3m.s- irr- =to.say -real -neg  / EN: 'invalid'; ES: 'inválido' 
-| "[--][-he+past][+NEG]" : "@EP"[{he}] 
-| "[--][-hi+past][+NEG]" : "@EP"[{hi}] 
+# ero paminavaitzitzi / =ero *** p- =amin -a -vai -tz -i -tzi / =neg.irr *** 2a- =to.look -ep -dur -ep -real -neg / EN: "don't.look" 
+  "[--][-tsi+future][+NEG]" : [{tsi}] 
+| "[--][-tzi+future][+NEG]" : [{tzi}] 
+# te inkantaje / te inkantahe / =te *** i- N- =kant -a -he / =neg.real *** 3m.s- =neg.real 3m.s- irr- =to.say -real -neg  / EN: 'invalid'; ES: 'inválido' 
+| "[--][-he+past][+NEG]" : [{he}] 
+| "[--][-hi+past][+NEG]" : [{hi}] 
 ];
-      
+                   
+# ****************************************
+                   
 !      define V=S=real [
 !       "[--][+real]" : "@EP"[{a}]
 !      ];
-      
+                   
+# ****************************************
+                   
 define V=S=RELIRR [
-  "[--][-ni][+REL.IRR]" : "@EP"[{ni}]
+  "[--][-ni][+REL.IRR]" : [{ni}]
 ];
-      
+                   
+# ****************************************
+                   
 ! desirable extremal 
 define V=S=DEXT [
   "[--][-asano+degree][+DEXT]" : "@EP"[{asano}]
 ];
-      
+                   
+define DEXT [(EP V=S=DEXT)|(V=S=DEXT)];
+                   
+# ****************************************
+                   
 ! position
 define V=S=POSN [
-  "[--][-atink+air.suspended][+POSN]" : "@EP"[{atink}] 
-| "[--][-ampe+in.circles][+POSN]" : "@EP"[{ampe}]
+  "[--][-atink][+POSN][=suspended.in.the.air, air.suspended]" : "@EP"[{atink}] 
+| "[--][-ampe][+POSN][=in.circles]" : "@EP"[{ampe}]
 ];
-      
+                   
+define POSN [(EP V=S=POSN)|(V=S=POSN)];
+                   
+# ****************************************
+                   
 ! kisaneentantatsiri / =kis -a -neent -ant -atsi -ri / =to.be.angry -ep -s -ep -appl.reas -stat -rel / EN: 'resentful'; ES: 'rencoroso' 
 ! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
 ! EN: 'sensory, sensorial'; ES: 'sensorial' 
@@ -945,22 +979,38 @@ define V=S=S [
 | "[--][-nent+sensory][+S]" : "@EP"[{nent}] 
 | "[--][-neent+sensory][+S]" : "@EP"[{neent}] 
 ];
-      
+                   
+define S [(EP V=S=S)|(V=S=S)];
+                   
+# ****************************************
+                   
 ! referencial applicative 
 define V=S=APPLREF [
   "[--][-imen][+APPL.REF][=concerning, relative.to, because.of]" : "@EP"[{imen}] 
 | "[--][-iment][+APPL.REF][=concerning, relative.to, because.of]" : "@EP"[{iment}] 
 ];
-      
+                   
+define APPLREF [(EP V=S=APPLREF)|(V=S=APPLREF)];
+                   
+# ****************************************
+                   
 define V=S=UNK1 [
   "[--][-aheempi][+UNK1][=when]" : "@EP"[{aheempi}] 
 | "[--][-ahempi][+UNK1][=when]" : "@EP"[{ahempi}] 
 ];
-      
+                   
+define UNK1 [(EP V=S=UNK1)|(V=S=UNK1)];
+                   
+# ****************************************
+                   
 define V=S=DLMT [
   "[--][-vintsa][+DLMT]" : "@EP"[{vintsa}] 
 ];
-
+                   
+define DLMT [(EP V=S=DLMT)|(V=S=DLMT)];
+                   
+# ****************************************
+                   
 # new discovery 
 # ----------- Mirativity --------------
 # Reporting information which is new or surprising to the speaker 
@@ -968,14 +1018,22 @@ define V=S=MIR [
   "[--][-atai][+MIR]" : "@EP"[{atai}] 
 | "[--][-atae][+MIR]" : "@EP"[{atae}] 
 ];
-
+                   
+define MIR [(EP V=S=MIR)|(V=S=MIR)];
+                   
+# ****************************************
+                   
 # simulative suffix 
 # Indicates feigned/simulated action.
 define V=S=SIM [
   "[--][-amampe][+SIM]" : "@EP"[{amampe}] 
 | "[--][-amampi][+SIM]" : "@EP"[{amampi}] 
 ];
-
+                   
+define SIM [(EP V=S=SIM)|(V=S=SIM)];
+                   
+# ****************************************
+                   
 define V=S=POSSREL [
   "[--][-nt][VS][+POSS.REL]" : [{nt}] 
 ];
