@@ -47,33 +47,34 @@ define S [
 | (PRF) (STATUS) 
 | (APPL) (STATUS) (PRNO) 
 # -----------------------------------------------------------------------------
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL) (V=S=NMZ) 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL) (DIR) (REGR) (STATUS) ! noun root: noun, noun+noun 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL) (DIST) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (V=S=NMZ) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) (STATUS) ! noun root: noun, noun+noun 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 ! o-nint-a-Voro-t-ab-ak-e-ri 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL) (RCP) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL) (STAT) (V=S=REL) (V=S=Q)  
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL) (STAT) (V=S=REL) (V=S=Q) 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL) (STATUS) 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (N=S=ABS) (V=S=CL) (STATUS) (V=S=COND) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (RCP) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (STAT) (V=S=REL) (V=S=Q)  
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (STAT) (V=S=REL) (V=S=Q) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (STATUS) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (STATUS) (V=S=COND) 
 ! 
 | V=S=noun                                             (V=S=CL) (DIR) (REGR) (STATUS) 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun)                         (DIR) (REGR) (STATUS) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun)                    (DIR) (REGR) (STATUS) 
 ! o-kant-a-pankaina-aty-a 
 |                                                      (V=S=CL) (PROG) (STATUS) 
 |                                                      (V=S=CL) (CAUSSOC) (DIST) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 ! o-kant-a-pontso-t-ap-ak-a 
 |                                                      (V=S=CL) (DIR) (PRF) (STATUS) 
 |                                                      (V=S=CL) (APPLINST) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                                           (DIR) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                                           (RCP) (CAUSSOC) (REGR) (STATUS) 
+| V=S=noun                                                      (DIR) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| V=S=noun                                                      (RCP) (CAUSSOC) (REGR) (STATUS) 
 |                                                      (V=S=CL) (DIR) (PRF) (STATUS) 
-| V=S=noun                                                           (APPLINT) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                                           (PROG) (STATUS) (V=S=O) (PRNO) (V=S=NEG) 
-| V=S=noun                                                           (COMPL) (DIR) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-|                                                                    (V=S=CL) (STAT) (V=S=REL) (V=S=Q) 
-|                                                                    (V=S=CL) (DUR) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-|                                                                    (V=S=CL) (DIR) (REGR) (STATUS) (V=S=NEG) 
+| V=S=noun                                                      (APPLINT) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| V=S=noun                                                      (PROG) (STATUS) (V=S=O) (PRNO) (V=S=NEG) 
+| V=S=noun                                                      (COMPL) (DIR) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                      (V=S=CL) (STAT) (V=S=REL) (V=S=Q) 
+|                                                      (V=S=CL) (DUR) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                      (V=S=CL) (DIR) (REGR) (STATUS) (V=S=NEG) 
+| V=S=noun                                                      (DIR) (PRF) (STATUS) (ADV) 
 # -----------------------------------------------------------------------------
 # V=S=noun (POSSREL) (PL) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) | 
 # (POSSREL) (PL) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) | 
@@ -525,7 +526,6 @@ define S [
 | (STATUS) (PRNO) 
 | (V=S=ADJ) (AUG) # nominalization 
 | (V=S=STATIPRF) (V=S=REL) (ADV) 
-| (V=S=neck) (DIR) (PRF) (STATUS) (ADV) 
 | (CAUSSOC) (DIR) (PRF) (STATUS) (PRNO) (V=S=SUB) 
 | (DIR) (IMPP) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (DIR) (IMPP) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=SUB) 

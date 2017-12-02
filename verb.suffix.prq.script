@@ -909,9 +909,9 @@ define V=S=RPST [
                    
 # ****************************************
                    
-define V=S=neck [ # revise! 
-  "[--][-kintsi+neck]" : "@EP"[{kintsi}]
-];
+!define V=S=neck [
+!  "[--][-kintsi+neck]" : "@EP"[{kintsi}]
+!];
                    
 # ****************************************
                    
