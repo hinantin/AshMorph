@@ -392,66 +392,92 @@ define STAT [(EP V=S=STAT)|(V=S=STAT)];
                    
 # ****************************************
                    
-define V=S=STATT [
+define V=S=STATT [ # revise!
   "[--][-aintsi][+STAT.T]" : "@EP"[{aintsi}]
 ];
-      
-define V=S=STATIPRF [
+                   
+# ****************************************
+                   
+define V=S=STATIPRF [ # revise!
   "[--][-aintsi][+STAT.IPRF]" : "@EP"[{aintsi}]
 | "[--][-atsi][+STAT.IPRF]" : "@EP"[{atsi}]
 ];
-      
-define V=S=STATPRF [
+                   
+# ****************************************
+                   
+define V=S=STATPRF [ # revise!
   "[--][-aintsi][+STAT.PRF]" : "@EP"[{aintsi}]
 ];
-      
+                   
+# ****************************************
+                   
 define V=S=Q [
 # ampokaika / a- N- =pok -ai -ka / 1pl.s- irr- =to.come -real -q / EN: 'we will come back (when)?'  
-  "[--][-ka][+Q]" : "@EP"[{ka}]
+  "[--][-ka][+Q]" : [{ka}]
 ];
-      
+                   
+# ****************************************
+                   
 define V=S=APPL [
   "[--][-ako][+APPL][=with.reference.to.sth.; about.sth.]" : "@EP"[{ako}]
 ];
-      
-define V=S=ABS [
+                   
+define APPL [(EP V=S=APPL)|(V=S=APPL)];
+                   
+# ****************************************
+                   
+define V=S=ABS [ # revise!
   "[--][-tsi][+ABS]" : "@EP"[{tsi}]
 | "[--][-ntsi][+ABS]" : "@EP"[{ntsi}]
 ];
-      
+                   
+# ****************************************
+                   
 !define V=S=noun [
 !  "[--][-ani][+noun][=child]" : "@EP"[{ani}]
 !| "[--][-miront][+noun][=flat]" : "@EP"[{miront}]
 !];
-      
+                   
+# ****************************************
+                   
 define V=S=COND [
-  "[--][-rika][+COND][=if (expresses.possible.condition); like (comparison)]" : "@EP"[{rika}] ! +evidential 
+  "[--][-rika][+COND][=if (expresses.possible.condition); like (comparison)]" : [{rika}] ! +evidential 
 # This suffix indicates, for good/bad, an action or idea wasn't fulfilled.
 # Also abbreviated CNT.EXP 'counter-expectational' 
-| "[--][-me][+SUBJ]" : "@EP"[{me}] 
+| "[--][-me][+SUBJ]" : [{me}] 
 ];
-      
+                   
+# ****************************************
+                   
 !define V=S=disheveledhead [
 !  "[--][+disheveled.head]" : "@EP"[{menkotzi}] ! menkoti, menkotsi
 !];
-      
-define V=S=DIM [
+                   
+# ****************************************
+                   
+define V=S=DIM [ # revise!
   "[--][-nint][+DIM][=almost,a.little.bit]" : "@EP"[{nint}]
 | "[--][-ni][+DIM]" : "@EP"[{ni}]
 | "[--][-ini][+DIM]" : "@EP"[{ini}]
 ];
-      
+                   
+# ****************************************
+                   
 !define V=S=CL [
 !  "[--][-pooki][+CL:quantity][=group,bunch]" : "@EP"[{pooki}]
 !| "[--][-poroki][+CL:quantity][=group,bunch]" : "@EP"[{poroki}]
 !| "[--][-ki][+CL:S.R.H][=small,round;hard]" : "@EP"{ki} 
 !];
-      
+                   
+# ****************************************
+                   
 !define V=S=3mposs [
 !  "[--][+3m.poss]" : "@EP"[{i}|{y}]
 !];
-      
-define V=S=NMZ [
+                   
+# ****************************************
+                   
+define V=S=NMZ [ # revise!
 # ----------------------------------
   "[--][-rontsi][+NMZ]" : "@EP"[{rontsi}] 
 | "[--][-vontsi][+NMZ]" : "@EP"[{vontsi}] 
@@ -475,8 +501,10 @@ define V=S=NMZ [
 | "[--][-mento+n.m.][NMZ][+CONCR]" : "@EP"[{mento}]
 | "[--][-minto+n.m.][NMZ][+CONCR]" : "@EP"[{minto}]
 ];
-      
-define V=S=ADJ [
+                   
+# ****************************************
+                   
+define V=S=ADJ [ # revise!
 # ----------------------------------
   "[--][-ri+m.][NMZ][+ADJ]" : "@EP"[{ri}] 
 | "[--][-re+m.][NMZ][+ADJ]" : "@EP"[{re}] 
@@ -518,31 +546,47 @@ define V=S=ADJ [
 | "[--][-ryanto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{ryanto}] 
 | "[--][-rianto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{rianto}] 
 ];
-      
+                   
+# ****************************************
+                   
 # --------Sociative-Causative ----------
 define V=S=CAUSSOC [
   "[--][-ak][+CAUS.SOC]" : "@EP"[{ak}]
 | "[--][-aka][+CAUS.SOC]" : "@EP"[{aka}]
 | "[--][-akaa][+CAUS.SOC]" : "@EP"[{akaa}]
 ];
-      
+                   
+define CAUSSOC [(EP V=S=CAUSSOC)|(V=S=CAUSSOC)];
+                   
+# ****************************************
+                   
 !define V=S=APPLSOC [
 !  "[--][-ak][+APPL.SOC]" : "@EP"[{ak}]
 !];
-      
+                   
+# ****************************************
+                   
 !define V=S=CAUSCOM [
 !  "[--][-aka][+CAUS.COM]" : "@EP"[{aka}]
 !];
-      
+                   
+# ****************************************
+                   
 !define V=S=CAUS [
 !  "[--][-ak][+CAUS]" : "@EP"[{ak}]
 !| "[--][-aka][+CAUS]" : "@EP"[{aka}]
 !];
-      
+                   
+# ****************************************
+                   
 define V=S=APPLINST [
   "[--][-ant][+APPL.INST]" : "@EP"[{ant}]
 ];
-      
+                   
+define APPLINST [(EP V=S=APPLINST)|(V=S=APPLINST)];
+                   
+# ****************************************
+                   
 # -----------------------------------------------------
 # Valence-adjusting operators, degree, time and manner 
 
@@ -559,20 +603,33 @@ define V=S=SEMEL [
 | "[--][-apanant][+ITERATIVE][=one.more.time,once.more]" : "@EP"[{apanant}]
 | "[--][-apan][+ITERATIVE][=one.more.time,once.more]" : "@EP"[{apan}]
 ];
-      
+                   
+define SEMEL [(EP V=S=SEMEL)|(V=S=SEMEL)];
+                   
+# ****************************************
+                   
 define V=S=REP [
   "[--][-a][+REP][=again.and.again]" : "@EP"[{a}]
 | "[--][-aa][+REP][=again.and.again]" : "@EP"[{aa}]
 ];
-      
+                   
+define REP [(EP V=S=REP)|(V=S=REP)];
+                   
+# ****************************************
+                   
 !define V=S=forawhile [
 !  "[--][+for.a.while]" : "@EP"[{apaint}]
 !];
-      
+                   
+# ****************************************
+                   
 define V=S=DIMDEGR [
   "[--][-nint][+DIM.DEGR][=almost,a.little.bit]" : "@EP"[{nint}]
 ];
-      
+                   
+define DIMDEGR [(EP V=S=DIMDEGR)|(V=S=DIMDEGR)];
+                   
+# ****************************************
 # -----------------------------------------------------
       
 # purpusive: action.done.with.some.purpose.in.view 
@@ -580,7 +637,11 @@ define V=S=APPLINT [
   "[--][-ashi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{ashi}]
 | "[--][-shi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{shi}]
 ];
-      
+                   
+define APPLINT [(EP V=S=APPLINT)|(V=S=APPLINT)];
+                   
+# ****************************************
+                   
 define V=S=LOC [
   "[--][-ki][+LOC]" : "@EP"[{ki}]
 ];
