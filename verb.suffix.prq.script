@@ -116,11 +116,15 @@ define V=S=REGR [
 | "[--][-ah][Asp][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{ah}]
 | "[--][-aha][Asp][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{aha}]
 ];
-      
+                   
+# ****************************************
+                   
 define V=S=CNTF [
-  "[--][-mi][+CNT.F]" : "@EP"[{mi}]
+  "[--][-mi][+CNT.F]" : [{mi}]
 ];
-      
+                   
+# ****************************************
+                   
 # -------------------------------------------
 define V=S=REAL [
   "[--][-e][+REAL]" : "@EP"[{e}]
@@ -157,14 +161,28 @@ define V=S=IRRRFL [
 | "[--][-iya][+IRR.RFL]" : "@EP"[{iya}]
 ];
 # -------------------------------------------
-      
+                   
+define STATUS [
+  (EP V=S=REAL)|(V=S=REAL)
+| (EP V=S=IRR)|(V=S=IRR)
+| (EP V=S=REALRFL)|(V=S=REALRFL)
+| (EP V=S=IRRRFL)|(V=S=IRRRFL)
+];
+                   
+# ****************************************
+                   
 define V=S=AUG [
   "[--][-piro][+AUG]" : "@EP"[{piro}]
-| "[--][-ni][+AUG]" : "@EP"[{ni}]
 | "[--][-pero][+AUG]" : "@EP"[{pero}]
 | "[--][-pira][+AUG]" : "@EP"[{pira}]
+# -------------------------------------------
+| "[--][-ni][+AUG]" : "@EP"[{ni}]
 ];
-      
+                   
+define AUG [(EP V=S=AUG)|(V=S=AUG)];
+                   
+# ****************************************
+                   
 ! it specifies a situation which lasted for a period of time in the past.
 !*) Nojate nomanaveete / Nohate nomanaveete / no- =ha -t -e  no- =mana -vee -t -e / 1sg.s- =to.go -ep -irr  1sg.s- =to.shoot -dur -ep -irr / EN: "I'm.going.to.hunt"; ES: 'yo.voy.a.cazar'  
 ! 
@@ -174,20 +192,30 @@ define V=S=DUR [
 | "[--][-vee][Asp][+DUR]" : "@EP"[{vee}] 
 | "[--][-vei][Asp][+DUR]" : "@EP"[{vei}] 
 ];
-      
+                   
+define DUR [(EP V=S=DUR)|(V=S=DUR)];
+                   
+# ****************************************
+                   
 !      define V=S=3O [
 !       "[--][+3O]" : "@EP"[{ni}]
 !      ];
-      
+                   
+# ****************************************
+                   
 !define V=S=BEN [
 !  "[--][-vint][+BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
 !| "[--][-vent][+BEN][=action.done.for.sb.else]" : "@EP"[{vent}]
 !];
-      
+                   
+# ****************************************
+                   
 !      define V=S=ADVP [
 !       "[--][+ADV.P]" : "@EP"[{ranki}]
 !      ];
-      
+                   
+# ****************************************
+                   
 # ---------------------------------------------------------------
 # subordinator 
 # adverbializer: subordinating conjunction that links a subordinate clause to a main clause, and
@@ -204,41 +232,57 @@ define V=S=ADV [
 | "[--][-ini][AS][+ADV]" : "@EP"[{ini}] 
 | "[--][-eni][AS][+ADV]" : "@EP"[{eni}] 
 ];
-
+                   
+define ADV [(EP V=S=ADV)|(V=S=ADV)];
+                   
+# ****************************************
+                   
 define V=S=ADV=SET2 [
   "[--][-paite][+ADV][=during, at.the.time.of.sth., period]" : "@EP"[{paite}] 
 | "[--][-paiti][+ADV][=during, at.the.time.of.sth., period]" : "@EP"[{paiti}] 
 ];
-      
+                   
+define ADV=SET2 [(EP V=S=ADV=SET2)|(V=S=ADV=SET2)];
+                   
+# ****************************************
+                   
 define V=S=O [
-  "[--][-na][+1SG.O]" : "@EP"[{na}] 
-| "[--][-mi][+2SG.O]" : "@EP"[{mi}] 
-| "[--][-mpi][+2SG.O]" : "@EP"[{mpi}] 
-| "[--][-npi][+2SG.O]" : "@EP"[{npi}] 
-| "[--][-ni][+3SG.O]" : "@EP"[{ni}] 
-| "[--][-ne][+3SG.O]" : "@EP"[{ne}] 
+  "[--][-na][+1SG.O]" : [{na}] 
+| "[--][-mi][+2SG.O]" : [{mi}] 
+| "[--][-mpi][+2SG.O]" : [{mpi}] 
+| "[--][-npi][+2SG.O]" : [{npi}] 
+| "[--][-ni][+3SG.O]" : [{ni}] 
+| "[--][-ne][+3SG.O]" : [{ne}] 
 ];
-      
+                   
+# ****************************************
+                   
 ! -kari EN: 'in.order.to.prevent.sth.from.happening'; ES: 'para.que.no; no.sea.(que); sino' 
 ! -kari EN: 'used.to.introduce.the.reason.for.the.particular.emotion.mentioned'; ES: 'con.el.fin.de' 
 define V=S=APPR [
 # omitsitsiyimikari / o- =mitsitsiy -i -mi -kari / 3n.m.s- = / ES: 'para.que.no.te.hundas'  
 # *) pintzinai, anankorimikari shenotsi / pi- N- =tzin -a -i *** =anankori -mi -kari *** =shenotsi / 2s- irr- =to.rise -term -irr *** =to.cross -2sg.o -appr *** =goiter  
 #    EN: 'get up! lest you cross the goiter'; ES: 'levántate, sino te va a cruzar la mamá del bocio' 
-  "[--][-kari][+APPR][=lest (in.order.to.prevent)]" : "@EP"[{kari}]
+  "[--][-kari][+APPR][=lest (in.order.to.prevent)]" : [{kari}]
 ];
-      
+                   
+# ****************************************
+                   
 !      define V=S=2A [
 !       "[--][+2A]" : "@EP"[{pi}|{p}]
 !      ];
-      
+                   
+# ****************************************
+                   
 define V=S=REL [
-  "[--][-ri][+REL]" : "@EP"[{ri}]
+  "[--][-ri][+REL]" : [{ri}]
 # -----------------------------------------------
-| "[--][-ni][+REL.IRR]" : "@EP"[{ni}]
-| "[--][-ne][+REL.IRR]" : "@EP"[{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
+| "[--][-ni][+REL.IRR]" : [{ni}]
+| "[--][-ne][+REL.IRR]" : [{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
 ];
-      
+                   
+# ****************************************
+                   
 define V=S=FRUS [
   "[--][-ve][+FRUS]" : "@EP"[{ve}]
 | "[--][-vi][+FRUS]" : "@EP"[{vi}]
@@ -246,19 +290,31 @@ define V=S=FRUS [
 # -----------------------------------------------
 | "[--][-macheve][+FRUS]" : "@EP"[{macheve}]
 ];
-      
+                   
+define FRUS [(EP V=S=FRUS)|(V=S=FRUS)];
+                   
+# ****************************************
+                   
 define V=S=APPLREAS [
   "[--][-ant][+APPL.REAS]" : "@EP"[{ant}]
 | "[--][-anta][+APPL.REAS]" : "@EP"[{anta}]
 ];
-      
+                   
+define APPLREAS [(EP V=S=APPLREAS)|(V=S=APPLREAS)];
+                   
+# ****************************************
+                   
 define V=S=HAB [
   "[--][-apin][+HAB_CUST][=always]" : "@EP"[{apin}] 
 | "[--][-apiin][+HAB_CUST][=always]" : "@EP"[{apiin}] 
 | "[--][-apinin][+HAB_CUST][=always]" : "@EP"[{apinin}] 
 | "[--][-apini][+HAB_CUST][=always]" : "@EP"[{apini}]
 ];
-      
+                   
+define HAB [(EP V=S=HAB)|(V=S=HAB)];
+                   
+# ****************************************
+                   
 # --------------------------------------
 #           Impersonal Passive 
 # --------------------------------------
@@ -276,14 +332,20 @@ define V=S=IMPP [
 ! | "[--][-t][+IMP.P]" : "@EP"[{t}] 
 ! | "[--][-tz][+IMP.P]" : "@EP"[{tz}] 
 ];
-      
+                   
+define IMPP [(EP V=S=IMPP)|(V=S=IMPP)];
+                   
+# ****************************************
+                   
 # *) -pameneribe jipajitari yora? / -pamenerive hipahitari yora? / p- =amen -e -ri -ve *** hi- =pahi -t -a -ri *** =yora+m.+medial
 #     2a- =to.look -real -3m.o =excl[exclaiming] *** 3m.a- =to.be.called -ep -irr -3m.o *** =that / EN: "look, what's that?"  
 define V=S=EXCL [
-  "[--][-ve][+EXCL][=exclaiming,announcing]" : "@EP"[{ve}]
-| "[--][-vi][+EXCL][=exclaiming,announcing]" : "@EP"[{vi}]
+  "[--][-ve][+EXCL][=exclaiming,announcing]" : [{ve}]
+| "[--][-vi][+EXCL][=exclaiming,announcing]" : [{vi}]
 ];
-      
+                   
+# ****************************************
+                   
 define V=S=STAT [
 # -------- STATIVITY MARKERS -------------
 # -------- STATIVITY IMPERFECTIVE -------------
@@ -325,7 +387,11 @@ define V=S=STAT [
 | "[--][-aincha][+STAT]" : "@EP"[{aincha}]
 | "[--][-aencha][+STAT]" : "@EP"[{aencha}]
 ];
-      
+                   
+define STAT [(EP V=S=STAT)|(V=S=STAT)];
+                   
+# ****************************************
+                   
 define V=S=STATT [
   "[--][-aintsi][+STAT.T]" : "@EP"[{aintsi}]
 ];
