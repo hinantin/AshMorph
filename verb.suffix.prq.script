@@ -691,25 +691,41 @@ define V=S=EMPH [
 !define V=S=MCAUS [
 !  "[--][-mi][+M.CAUS]" : "@EP"[{mi}]
 !];
-      
+                   
+# ****************************************
+                         
 !      define V=S=CAUSAGT [
 !       "[--][+CAUS.AGT]" : "@EP"[{v}]
 !      ];
-      
+                   
+# ****************************************
+                               
 define V=S=APPLBEN [
   "[--][-vint][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
 | "[--][-vent][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vent}]
 ];
-      
+                   
+define APPLBEN [(EP V=S=APPLBEN)|(V=S=APPLBEN)];
+                   
+# ****************************************
+                               
 define V=S=APPLPRES [
   "[--][-imo+company][+APPL.PRES][=with.other.person, presence]" : "@EP"[{imo}]
 ];
-      
+                   
+define APPLPRES [(EP V=S=APPLPRES)|(V=S=APPLPRES)];
+                   
+# ****************************************
+                   
 define V=S=APPLSEP [
   "[--][-pitsa][+APPL.SEP][=separative]" : "@EP"[{pitsa}]
 | "[--][-apitsa][+APPL.SEP][=separative]" : "@EP"[{apitsa}]
 ];
-      
+                   
+define APPLSEP [(EP V=S=APPLSEP)|(V=S=APPLSEP)];
+                   
+# ****************************************
+                   
 # -------------------------------------
 #            Reciprocal
 # -------------------------------------
@@ -717,8 +733,12 @@ define V=S=RCP [
 # ikaimavakaaka / i- =kaim -av -ak -aak -a / 3m.s- =to.call -rcp -caus.soc -prf -real / EN: 'they.called.to.each.other'  
   "[--][-av][+RCP]" : "@EP"[{av}]
 ];
+                   
+define RCP [(EP V=S=RCP)|(V=S=RCP)];
+                   
+# ****************************************
+                   
 # -------------------------------------
-      
 ! opposite, reverse REV/CNTRST ; revocation?
 define V=S=REV [
   "[--][-ry][+REV]" : "@EP"[{ry}] 
@@ -726,7 +746,11 @@ define V=S=REV [
 | "[--][-re][+REV]" : "@EP"[{re}] 
 | "[--][-ree][+REV]" : "@EP"[{ree}]
 ];
-      
+                   
+define REV [(EP V=S=REV)|(V=S=REV)];
+                   
+# ****************************************
+                   
 # 
 define V=S=DUB [
   "[--][-ma][+DUB][=maybe]" : [{ma}] ! +evidential 
@@ -736,7 +760,11 @@ define V=S=DUB [
 # aisatzitaima / =aisatzi -taima / =also -dub / EN: '' 
 | "[--][-taima][+DUB][=maybe]" : [{taima}] 
 ];
-      
+                   
+define DUB [(EP V=S=DUB)|(V=S=DUB)];
+                   
+# ****************************************
+                   
 # -----------------------------------------------
 # adverbial suffixes of time 
 # -----------------------------------------------
