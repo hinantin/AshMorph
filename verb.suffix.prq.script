@@ -479,17 +479,13 @@ define V=S=DIM [ # revise!
                    
 # ****************************************
                    
-define V=S=NMZ [ # revise!
+define V=S=NMZ=SET1 [ # revise!
 # ----------------------------------
   "[--][-rontsi][+NMZ]" : "@EP"[{rontsi}] 
 | "[--][-vontsi][+NMZ]" : "@EP"[{vontsi}] 
 | "[--][-rintsi][+NMZ]" : "@EP"[{rintsi}] 
 | "[--][-rentsi][+NMZ]" : "@EP"[{rentsi}] 
 | "[--][-renti][+NMZ]" : "@EP"[{renti}] 
-# ----------------------------------
-| "[--][-aantsi][NMZ][+INF]" : "@EP"[{aantsi}] 
-| "[--][-antsi][NMZ][+INF]" : "@EP"[{antsi}] 
-| "[--][-agantsi][NMZ][+INF]" : "@EP"[{agantsi}] 
 # ----------------------------------
 | "[--][-ri][+NMZ]" : "@EP"[{ri}] 
 ! 
@@ -502,6 +498,18 @@ define V=S=NMZ [ # revise!
 | "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] 
 | "[--][-mento+n.m.][NMZ][+CONCR]" : "@EP"[{mento}]
 | "[--][-minto+n.m.][NMZ][+CONCR]" : "@EP"[{minto}]
+];
+
+define V=S=NMZ=SET2 [
+# ----------------------------------
+  "[--][-aantsi][NMZ][+INF]" : "@EP"[{aantsi}] 
+| "[--][-antsi][NMZ][+INF]" : "@EP"[{antsi}] 
+| "[--][-agantsi][NMZ][+INF]" : "@EP"[{agantsi}] 
+];
+                   
+define NMZ [
+  (V=S=NMZ=SET1)
+| (EP V=S=NMZ=SET2)|(V=S=NMZ=SET2)
 ];
                    
 # ****************************************

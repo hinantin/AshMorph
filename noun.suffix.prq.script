@@ -117,9 +117,11 @@ define N=S=CL [
 | "[--][-pankaina][+CL:bare,flat][=bare, flat]" : {pankaina} ! @CL  
 # --------------------------------------------------
 # inchapanki / =incha -panki / =plant -cl:plank / EN: 'plank'; ES: 'palo' 
+# inchapankee / =incha -pankee / =plant -cl:plank / EN: 'plank'; ES: 'palo' 
 # omirikipanki / o- =miriki -panki / 3n.m.poss- =rib -cl:plank / EN: 'its.roof.lattice' 
 | "[--][-panki][+CL:plank][=plank;to.grow;pole]" : {panki} 
 | "[--][-panke][+CL:plank][=plank;to.grow;pole]" : {panke} 
+| "[--][-pankee][+CL:plank][=plank;to.grow;pole]" : {pankee} 
 # --------------------------------------------------
 ! inchateaki / =incha -teaki / =plant -cl:flower / ES: 'flor.de.árbol' 
 | "[--][-tyaki][+CL:flower][=flower]" : {tyaki}  

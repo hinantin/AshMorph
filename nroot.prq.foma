@@ -141,7 +141,7 @@ define NRootPRQin [
 | "[=aampe+m.][NRoot][=butterfly.sp.]" : {aampe}
 | "[=tsaampe+m.][NRoot][=butterfly.sp.]" : {tsaampe}
 ! cotton
-| "[=ampee][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampee}
+| "[=ampee+poss@re.][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampee}
 | "[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampe}
 | "[=ampii][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampii}
 | "[=ampi][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampi}
@@ -1663,7 +1663,7 @@ define NRootPRQin [
 | "[=mantsaki+inal.][NRoot][=cushma]" : {mantsaki}
 ! 
 # nomapikitakero / no- =mapi -ki -t-ak -e -ro / 1sg.a- =stone -cl:small,round -ep -prf -irr -3n.m.o / EN: 'fixing.pebbles/sinker-like_pebbles.in.sth. (i.e.: a.fish_trap)', ES: 'fijar piedrecitas/guijarros en algo (por ejemplo: en la red)'
-| "[=mapi+n.m.+poss@ni.][NRoot][=stone; rock]" : {mapi} ! N@->V 
+| "[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
 | "[=mapiki][NRoot][=pebble]" : {mapiki} 
 ! 
 | "[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
@@ -3490,7 +3490,7 @@ define NRootPRQin [
 | "[=nini+n.m.+inal.][NRoot][=tongue]" : {nini}
 | "[=nene+n.m.+inal.][NRoot][=tongue]" : {nene}
 ! palm species
-| "[=toniro+n.m.+poss@ti.][NRoot][=palm.tree.sp. (ES: aguaje; sci.nm.: mauritia.flexuosa)]" : {toniro}
+| "[=toniro+n.m.+poss@ti:te.][NRoot][=palm.tree.sp. (ES: aguaje; sci.nm.: mauritia.flexuosa)]" : {toniro}
 !
 | "[=tonkari+loc.][NRoot][=hill.top,above]" : {tonkari}
 | "[=tonkaari+loc.][NRoot][=hill.top,above]" : {tonkaari}
