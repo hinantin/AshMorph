@@ -184,8 +184,8 @@ define VRootPRQin [
 # aritya / =a -ri -tya / =to.be.the.case -rel -emph / EN: 'gosh, it.is.the.case'  
 # ata / =a -ta / =to.be.the.case -opt / EN: 'it.would.be.the.case'; ES: 'sería.así'  
 # arive / =a -ri -ve / =to.be.the.case -rel -excl / EN: 'it.is.very.much.the.case'  
-| "[=ari][VRoot][=to.be.the.case; to.be.true]" : {ari}  
-| "[=ai][VRoot][=to.be.the.case; to.be.true]" : {ai}  
+| "[=ari][VRoot][=to.be.the.case (ES: ser.así); to.be.true]" : {ari}  
+| "[=ai][VRoot][=to.be.the.case (ES: ser.así); to.be.true]" : {ai}  
 # -------------------------------------------
 ! 
 | "[=arii][VRoot][=to.achieve]" : {arii}

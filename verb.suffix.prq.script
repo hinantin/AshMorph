@@ -768,18 +768,24 @@ define DUB [(EP V=S=DUB)|(V=S=DUB)];
 # -----------------------------------------------
 # adverbial suffixes of time 
 # -----------------------------------------------
-define V=S=before [
+define V=S=before [ # revise!
   "[--][-it+before]" : "@EP"[{it}]
 ];
-      
-define V=S=early [
+                   
+# ****************************************
+                   
+define V=S=early [ # revise!
   "[--][-aman][+early]" : "@EP"[{aman}]
 ];
-       
-!define V=S=quickly [
+                   
+# ****************************************
+                   
+!define V=S=quickly [ # revise!
 !  "[--][-ite][+quickly]" : "@EP"[{ite}]
 !];
-      
+                   
+# ****************************************
+                   
 # It needs to be fixed. 
 # COMPL completive aspect (on verbs)
 # 1. it focuses on the thorough completion of an event.
@@ -787,39 +793,61 @@ define V=S=early [
 define V=S=COMPL [
   "[--][-ite][Asp][+COMPL][=quickly,surprisingly]" : "@EP"[{ite}]
 ];
-      
+                   
+define COMPL [(EP V=S=COMPL)|(V=S=COMPL)];
+                   
+# ****************************************
+                   
 define V=S=ICPL [
 ! "[--][-ite][+COMPL][=quickly,surprisingly]" : "@EP"[{ite}]
   "[--][-it][+ICPL][=speed]" : "@EP"[{it}]
 | "[--][-itz][+ICPL][=speed]" : "@EP"[{itz}]
 ];
+                   
+define ICPL [(EP V=S=ICPL)|(V=S=ICPL)];
+                   
 # -----------------------------------------------
-      
+# ****************************************
+                   
 define V=S=TEMPORAL [
   "[--][-ni][+TEMPORAL][=ceased.exist., deceased]" : "@EP"[{ni}]
 ];
-      
-define V=S=smallpart [
+                   
+# ****************************************
+                   
+define V=S=smallpart [ # revise!
   "[--][-patsa+small.part]" : "@EP"[{patsa}]
 ];
-      
+                   
+# ****************************************
+                   
 define V=S=DEGR [
   "[--][-piro][+DEGR][=indeed, verity]" : "@EP"[{piro}]
 | "[--][-pero][+DEGR][=indeed, verity]" : "@EP"[{pero}]
 ];
-      
-define V=S=small [
+                   
+define DEGR [(EP V=S=DEGR)|(V=S=DEGR)];
+                   
+# ****************************************
+                   
+define V=S=small [ # revise!
   "[--][-kapichi+small]" : "@EP"[{kapichi}]
 ];
-      
+                   
+# ****************************************
+                   
 !define V=S=1SGposs [
 !  "[--][+1SG.poss]" : "@EP"[{no}|{n}]
 !];
-      
+                   
+# ****************************************
+                   
 !      define V=S=3SGmIRR [
 !       "[--][+3SG.m.IRR]" : "@EP"[{ir}|{iri}]
 !      ];
-      
+                   
+# ****************************************
+                   
 ! It signals the beginning phase of an activity/situation. 
 define V=S=INCH [
 # --------------------------------------------------------------------------
@@ -830,14 +858,18 @@ define V=S=INCH [
 | "[--][-imaint][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{imaint}]
 | "[--][-amaint][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{amaint}]
 ];
-      
+                   
+define INCH [(EP V=S=INCH)|(V=S=INCH)];
+                   
+# ****************************************
+                   
 !define V=S=flat [
 !  "[--][+flat]" : "@EP"[{miront}]
 !];
       
-define V=S=REALEMPH [
-  "[--][-tzitzi][+REAL.EMPH]" : "@EP"[{tzitzi}]
-];
+!define V=S=REALEMPH [
+!  "[--][-tzitzi][+REAL.EMPH]" : "@EP"[{tzitzi}]
+!];
       
 !      define V=S=2S [
 !       "[--][+2S]" : "@EP"[{pi}|{p}]
