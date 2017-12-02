@@ -777,7 +777,7 @@ define V=S=early [
 ];
        
 !define V=S=quickly [
-!  "[--][+quickly]" : "@EP"[{ite}]
+!  "[--][-ite][+quickly]" : "@EP"[{ite}]
 !];
       
 # It needs to be fixed. 
