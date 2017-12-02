@@ -3633,7 +3633,7 @@ define NRootPRQin [
 | "[=tsiteniri][NRoot][=night]" : {tsiteniri}
 | "[=tsireniri][NRoot][=night]" : {tsireniri}
 | "[=tsitini][NRoot][=night (ES: noche)]" : {tsitini}
-| "[=tsitene][NRoot][=night (ES: noche)]" : {tsitene} ! N@->V 
+| "[=tsitene][NRoot][=night (ES: noche)]" : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, nochecer)] 
 ! 
 | "[=tsitsi+n.m.][NRoot][=firewood]" : {tsitsi}
 ! 
