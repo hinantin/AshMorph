@@ -9,7 +9,7 @@ define S [
 | (PRF) (STATUS) (PRNO) 
 | (STATUS) 
 | (REGR) (STATUS) (PRNO) 
-| (PRF) (STATUS) (V=S=O) (PRNO) (DUB) 
+| (PRF) (STATUS) (V=S=O) (PRNO) (V=S=DUB) 
 | (PROG) (STATUS) 
 | (AUG) (STATUS) 
 | (DUR) (STATUS) 
@@ -153,7 +153,7 @@ define S [
 | (CAUSSOC) (V=S=NMZ) (STATUS) (V=S=REL) (V=S=Q) 
 !| (PROG) (STAT)  
 | (V=S=ADJ) # nominalization 
-| (DUB) 
+| (V=S=DUB) 
 | (V=S=before) (STATUS) 
 | (STATUS) (V=S=REL) (V=S=Q) 
 | (APPL) (PROG) (STATUS) (V=S=O) (PRNO) 
@@ -173,7 +173,7 @@ define S [
 | (V=S=ADJ) (V=S=smallpart) (V=S=DIM) # nominalization 
 | (DIR) (PRF) (PL) (STATUS) (V=S=PLcircumfixing) 
 | (DEGR) (PROG) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (DEGR) (PROG) (STATUS) (V=S=O) (PRNO) (DUB) 
+| (DEGR) (PROG) (STATUS) (V=S=O) (PRNO) (V=S=DUB) 
 | (SEMEL) (STATUS) (PRNO) 
 | (REV) (APPL) (PRF) (STATUS) 
 | (ADV) 
@@ -497,7 +497,7 @@ define S [
 | (PRF) (STATUS) 
 | (PROG) (STATUS) 
 | (DIR) (REGR) (STATUS) (V=S=REL) (V=S=Q) 
-| (STATUS) (PRNO) (DUB) 
+| (STATUS) (PRNO) (V=S=DUB) 
 | (V=S=almost) (APPLREAS) (REGR) (STATUS) 
 | (CAUSSOC) (PROG) (STATUS) 
 | (DUR) (V=S=NMZ) (APPLREAS) (STATUS) (V=S=REL) (V=S=Q) 
@@ -563,6 +563,7 @@ define S [
 | (MIR) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (PRF) (STATUS) (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) ! ompoh-ak-i-na-vi 
 | (RCP) (CAUSSOC) (HAB) (PL) (DIR) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=PLcircumfixing)  
+| (RCP) (CAUSSOC) (HAB) (PL) (DIR) (PRF) (STATUS) (V=S=O) (PRNO) (V=S=DUB)  
 | (RCP) (CAUSSOC) (REGR) (STAT) (V=S=REL)  
 | (RCP) (CAUSSOC) (REGR) (DUR) (STATUS) (V=S=RPST)  
 | (RCP) (CAUSSOC) (PL) (REGR) (STATUS)  
