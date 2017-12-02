@@ -649,7 +649,7 @@ define V=S=LOC [
 # ****************************************
                    
 define V=S=NCFOC [
-  "[--][-tya][+N.C.FOC]" : [{tya}]
+  "[--][-tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
 ];
                    
 # ****************************************
@@ -671,9 +671,11 @@ define V=S=OFOC [
 define V=S=EMPH [
 # tya: urgency, impatience, surprise, exasperation 
 # aritya / =ari -tya / =PP -EMPH /  
-  "[--][-tya][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : "@EP"[{tya}]
+  "[--][-tya][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
 ! 
-| "[--][-kya][+EMPH]" : "@EP"[{kya}]
+| "[--][-kya][+EMPH]" : [{kya}]
+| "[--][-kia][+EMPH]" : [{kia}]
+| "[--][-kea][+EMPH]" : [{kea}]
 ! 
 | "[--][-poo][+EMPH]" : "@EP"[{poo}]
 ! 
