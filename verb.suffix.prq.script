@@ -71,7 +71,7 @@ define V=S=PRF [
 | "[--][-aak][ASP][+PRF]" : "@EP"[{aak}] 
 ];
                    
-define PRF [(EP V=S=PRF)|(V=S=PRF)];
+define PRF [ [EP V=S=PRF]|[V=S=PRF] ];
                    
 # ****************************************
                    
