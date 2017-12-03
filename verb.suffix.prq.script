@@ -95,7 +95,7 @@ define V=S=PL [
 | "[--][-aey][+PL]" : "@EP"[{aey}] 
 ];
                    
-define PL [(EP V=S=PL)|(V=S=PL)];
+define PL [ [EP V=S=PL]|[V=S=PL] ];
                    
 # ****************************************
                    
@@ -117,7 +117,7 @@ define V=S=REGR [
 | "[--][-aha][Asp][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{aha}]
 ];
                    
-define REGR [(EP V=S=REGR)|(V=S=REGR)];
+define REGR [ [EP V=S=REGR]|[V=S=REGR] ];
                    
 # ****************************************
                    
@@ -165,10 +165,10 @@ define V=S=IRRRFL [
 # -------------------------------------------
                    
 define STATUS [
-  (EP V=S=REAL)|(V=S=REAL)
-| (EP V=S=IRR)|(V=S=IRR)
-| (EP V=S=REALRFL)|(V=S=REALRFL)
-| (EP V=S=IRRRFL)|(V=S=IRRRFL)
+  [EP V=S=REAL]|[V=S=REAL]
+| [EP V=S=IRR]|[V=S=IRR]
+| [EP V=S=REALRFL]|[V=S=REALRFL]
+| [EP V=S=IRRRFL]|[V=S=IRRRFL]
 ];
                    
 # ****************************************
@@ -181,7 +181,7 @@ define V=S=AUG [
 | "[--][-ni][+AUG]" : "@EP"[{ni}]
 ];
                    
-define AUG [(EP V=S=AUG)|(V=S=AUG)];
+define AUG [ [EP V=S=AUG]|[V=S=AUG] ];
                    
 # ****************************************
                    
@@ -195,7 +195,7 @@ define V=S=DUR [
 | "[--][-vei][Asp][+DUR]" : "@EP"[{vei}] 
 ];
                    
-define DUR [(EP V=S=DUR)|(V=S=DUR)];
+define DUR [ [EP V=S=DUR]|[V=S=DUR] ];
                    
 # ****************************************
                    
@@ -235,7 +235,7 @@ define V=S=ADV [
 | "[--][-eni][AS][+ADV]" : "@EP"[{eni}] 
 ];
                    
-define ADV [(EP V=S=ADV)|(V=S=ADV)];
+define ADV [ [EP V=S=ADV]|[V=S=ADV] ];
                    
 # ****************************************
                    
@@ -244,7 +244,7 @@ define V=S=ADV=SET2 [
 | "[--][-paiti][+ADV][=during, at.the.time.of.sth., period]" : "@EP"[{paiti}] 
 ];
                    
-define ADV=SET2 [(EP V=S=ADV=SET2)|(V=S=ADV=SET2)];
+define ADV=SET2 [ [EP V=S=ADV=SET2]|[V=S=ADV=SET2] ];
                    
 # ****************************************
                    
@@ -293,7 +293,7 @@ define V=S=FRUS [
 | "[--][-macheve][+FRUS]" : "@EP"[{macheve}]
 ];
                    
-define FRUS [(EP V=S=FRUS)|(V=S=FRUS)];
+define FRUS [ [EP V=S=FRUS]|[V=S=FRUS] ];
                    
 # ****************************************
                    
@@ -302,7 +302,7 @@ define V=S=APPLREAS [
 | "[--][-anta][+APPL.REAS]" : "@EP"[{anta}]
 ];
                    
-define APPLREAS [(EP V=S=APPLREAS)|(V=S=APPLREAS)];
+define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
                    
 # ****************************************
                    
@@ -313,7 +313,7 @@ define V=S=HAB [
 | "[--][-apini][+HAB_CUST][=always]" : "@EP"[{apini}]
 ];
                    
-define HAB [(EP V=S=HAB)|(V=S=HAB)];
+define HAB [ [EP V=S=HAB]|[V=S=HAB] ];
                    
 # ****************************************
                    
@@ -335,7 +335,7 @@ define V=S=IMPP [
 ! | "[--][-tz][+IMP.P]" : "@EP"[{tz}] 
 ];
                    
-define IMPP [(EP V=S=IMPP)|(V=S=IMPP)];
+define IMPP [ [EP V=S=IMPP]|[V=S=IMPP] ];
                    
 # ****************************************
                    
