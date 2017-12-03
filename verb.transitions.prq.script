@@ -90,7 +90,7 @@ define S [
 | (V=S=CL) (PRF) STATUS 
 | STATUS (V=S=OPT) 
 | (REGR) (PROG) STATUS (ADV) 
-| (V=S=ADJ) # nominalization 
+| V=S=ADJ # nominalization 
 | (REP) (PL) (DIR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (CAUSSOC) (DIR) (PRF) STATUS (PRNO) 
 | (CAUSSOC) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
@@ -133,7 +133,7 @@ define S [
 | (APPLBEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLPRES) (DIR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLSEP) (PROG) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=ADJ) (ADV) # nominalization
+| V=S=ADJ (ADV) # nominalization
 | (APPLINST) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (HAB) STATUS 
 | (RCP) (PRF) (PROG) STATUS 
@@ -152,7 +152,7 @@ define S [
 | STATUS (AUG) 
 | (CAUSSOC) (NMZ) STATUS (V=S=REL) (V=S=Q) 
 !| (PROG) (STAT)  
-| (V=S=ADJ) # nominalization 
+| V=S=ADJ # nominalization 
 | (V=S=DUB) 
 | (V=S=before) STATUS 
 | STATUS (V=S=REL) (V=S=Q) 
@@ -165,19 +165,19 @@ define S [
 | (APPL) (PRF) STATUS (PRNO) 
 | (APPLREAS) (PRF) STATUS (PRNO) 
 | (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (V=S=ADJ) (PL) # nominalization 
+| V=S=ADJ (PL) # nominalization 
 | (DIR) (REGR) STATUS (PRNO) 
-| (REGR) (STAT) (V=S=ADJ) (V=S=TEMPORAL) # nominalization 
+| (REGR) (STAT) (V=S=ADJ) (V=S=TEMPORAL) # nominalization revise?
 | (AUG) 
 | (APPLINST) STATUS (PRNO) 
-| (V=S=ADJ) (V=S=smallpart) (V=S=DIM) # nominalization 
+| V=S=ADJ (V=S=smallpart) (V=S=DIM) # nominalization 
 | (DIR) (PRF) (PL) STATUS (V=S=PLcircumfixing) 
 | (DEGR) (PROG) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (DEGR) (PROG) STATUS (V=S=O) (PRNO) (V=S=DUB) 
 | (SEMEL) STATUS (PRNO) 
 | (REV) (APPL) (PRF) STATUS 
 | (ADV) 
-| (V=S=ADJ) (V=S=LOC) # nominalization
+| V=S=ADJ (V=S=LOC) # nominalization
 | (APPLINT) (PL) (DIR) (REGR) STATUS 
 | (DIR) (PRF) STATUS (V=S=REL) (V=S=Q) 
 | (V=S=CL) STATUS (ADV) 
@@ -196,7 +196,7 @@ define S [
 | (IMPP) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (APPL) STATUS (V=S=REL) (V=S=Q) 
 | (STAT) (V=S=REL) (V=S=Q) 
-| (NMZ) # nominalization 
+| NMZ # nominalization 
 | (PROG) STATUS 
 | STATUS (V=S=CNTF) 
 | (DUR) (STAT) (V=S=REL) (V=S=Q) 
@@ -226,7 +226,7 @@ define S [
 | (IMPP) (APPLINST) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! i=shinko-t-ai-t-ant-a-ri-ri 
 | (APPLREAS) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (PROG) STATUS 
-| (APPLREAS) (V=S=ADJ) # nominalization 
+| (APPLREAS) V=S=ADJ # nominalization 
 | (PRF) STATUS 
 | (V=S=COND) 
 | (DIMDEGR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
@@ -524,7 +524,7 @@ define S [
 | STATUS (PRNO) (V=S=RPST) 
 | (PRNO) (NMZ) 
 | STATUS (PRNO) 
-| (V=S=ADJ) (AUG) # nominalization 
+| V=S=ADJ (AUG) # nominalization 
 | (V=S=STATIPRF) (V=S=REL) (ADV) 
 | (CAUSSOC) (DIR) (PRF) STATUS (PRNO) (V=S=SUB) 
 | (DIR) (IMPP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
@@ -536,7 +536,7 @@ define S [
 | STATUS (V=S=Q) 
 | STATUS (PRNO) (V=S=RELIRR) (ADV) 
 | STATUS (CAUSSOC) (PRF) (PRNO) 
-| (V=S=STATIPRF) (NMZ) (ADV) # nominalization 
+| (V=S=STATIPRF) NMZ (ADV) # nominalization 
 | (PL) (STAT) (V=S=REL) (V=S=Q) 
 | (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
@@ -550,7 +550,7 @@ define S [
 | (REV) (APPL) (APPLBEN) (DEXT) (FRUS) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLREF) (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
-| (S) (NMZ) # nominalization 
+| (S) NMZ # nominalization 
 | (REP) (S) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL)  
 | (S) (APPLINST) (STAT) (V=S=REL)  
 
