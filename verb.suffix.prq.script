@@ -78,7 +78,7 @@ define PRF [ [EP V=S=PRF]|[V=S=PRF] ];
 # subjunctive clausal enclitic 
 # SUBJUNCT, SUBJ  
 define V=S=OPT [
-  "[--][-ta][+OPT_SUBJ]" : [{ta}]
+  "[--][=ta][+OPT_SUBJ]" : [{ta}]
 ];
                    
 # ****************************************
@@ -659,15 +659,15 @@ define V=S=LOC [
 # ****************************************
                    
 define V=S=NCFOC [
-  "[--][-tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
+  "[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
 ];
                    
 # ****************************************
                          
 define V=S=OFOC [
-  "[--][-kya][+O.FOC]" : [{kya}] 
-| "[--][-kia][+O.FOC]" : [{kia}] 
-| "[--][-kea][+O.FOC]" : [{kea}] 
+  "[--][=kya][+O.FOC]" : [{kya}] 
+| "[--][=kia][+O.FOC]" : [{kia}] 
+| "[--][=kea][+O.FOC]" : [{kea}] 
 ];
                    
 # ****************************************
