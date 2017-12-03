@@ -306,22 +306,21 @@ TZEpenthesisRule8
       #                        #
       ##########################
       define NominalizedVerb [ (NPref) [VRootPRQ] [
-                                                     [(APPLINT) (DUR)] 
+                                                     [(APPLINT DUR)] 
                                                    | [(APPL)] # tseeyakotaantsi / =tsee -ako -t -aantsi / =to.lie -appl -ep -ing / ES: 'difamar'; EN: 'to.defame; to.slander'  
                                                    | [(APPLBEN)] 
                                                    | [(APPLSEP)] # aapitsataantsi / =a-apitsa-t-aantsi ES: 'sustracción', EN: 'rest'
                                                    | [(DLMT)] 
-                                                   | [(RCP)] # nashitavakaantsi / =nashi -t -aV -ak -aantsi / =to.separate -ep -rcp -caus.soc -inf / EN: 'to.get.divorced' 
+                                                   | [(RCP CAUSSOC)] # nashitavakaantsi / =nashi -t -aV -ak -aantsi / =to.separate -ep -rcp -caus.soc -inf / EN: 'to.get.divorced' 
                                                                  # ohokavakaaja / o- =hok -av -ak -a -ah -a / 3n.m.s- =to.leave -rcp -caus.soc -ep -regr -real / EN: 'they.got.separated', ES: 'se.han.separado (pareja)'  
                                                    | [(REV)] # =pai-ry-aantsi 'to.say.someone's.name'
                                                    | [(FRUS)] # 
                                                    | [(DEGR)] # ipiroaantsi / =ir -piro -aantsi / =to.drink -degr -inf / EN: 'to.drink.well'
                                                    | [(S)] # kisanintantzinkari / =kis -a -nint -antzinkari 
                                                   ] 
-                                                  (CAUSSOC) 
-                                                  (V=S=CL) # konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
-                                                  [NMZ|V=S=ADJ] (NRootCmpPRQ) 
-                                                  [NSuff] ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
+                                                  # konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
+                                                  [ V=S=CL|[V=S=CL [NMZ|V=S=ADJ]]|[NMZ|V=S=ADJ] ] (NRootCmpPRQ) 
+                                                  (NSuff) ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
       
       define CompositeVerbRoot [ (V=S=noun) ("@PHONPROCCMPNOUN@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
