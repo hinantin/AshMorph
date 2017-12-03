@@ -62,7 +62,7 @@ define V=S=DIR [
 | "[--][-apa+goal][Adv][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{apa}]
 ];
                    
-define DIST [ [EP V=S=DIR]|[V=S=DIR] ];
+define DIR [ [EP V=S=DIR]|[V=S=DIR] ];
                    
 # ****************************************
                    
