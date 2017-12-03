@@ -1,22 +1,22 @@
 # preffixes slot 1
 
 define P=1 [
-  "[no-][VPers][1SG.S/A+][--]" : [{no}]
-| "[n-][VPers][1SG.S/A+][--]" : [{n}]
-| "[p-][VPers][2S/A+][--]" : [{p}]
-| "[pi-][VPers][2S/A+][--]" : [{pi}]
-| "[i-][VPers][3m.S/A+][--]" : [{i}]
-| "[y-][VPers][3m.S/A+][--]" : [{y}]
-| "[h-][VPers][3m.S/A+][--]" : [{h}] # j - Ashéninka Pichis 
-| "[hi-][VPers][3m.S/A+][--]" : [{hi}] # ji - Ashéninka Pichis 
-| "[iri-][VPers][3m.S/A.IRR+][--]" : [{iri}]
-| "[ira-][VPers][3m.S/A.IRR+][--]" : [{ira}] # ira-piapiya-t-e-rika 
-| "[ir-][VPers][3m.S/A.IRR+][--]" : [{ir}]
-| "[r-][VPers][3m.S/A+][--]" : [{r}] # r-anii-t-i
-| "[ri-][VPers][3m.S/A+][--]" : [{ri}] # ri-wetsik-ak-i
-| "[o-][VPers][3n.m.S/A+][--]" : [{o}]
-| "[ro-][VPers][3n.m.S/A+][--]" : [{ro}]
-| "[ho-][VPers][3n.m.S/A+][--]" : [{ho}]
-| "[a-][VPers][1PL.S/A+][--]" : [{a}]
+  "[no-][VPers][1SG.S/A+][--]" : [{no}]"@VPERS@"
+| "[n-][VPers][1SG.S/A+][--]" : [{n}]"@VPERS@"
+| "[p-][VPers][2S/A+][--]" : [{p}]"@VPERS@"
+| "[pi-][VPers][2S/A+][--]" : [{pi}]"@VPERS@"
+| "[i-][VPers][3m.S/A+][--]" : [{i}]"@VPERS@"
+| "[y-][VPers][3m.S/A+][--]" : [{y}]"@VPERS@"
+| "[h-][VPers][3m.S/A+][--]" : [{h}]"@VPERS@" # j - Ashéninka Pichis 
+| "[hi-][VPers][3m.S/A+][--]" : [{hi}]"@VPERS@" # ji - Ashéninka Pichis 
+| "[iri-][VPers][3m.S/A.IRR+][--]" : [{iri}]"@VPERS@"
+| "[ira-][VPers][3m.S/A.IRR+][--]" : [{ira}]"@VPERS@" # ira-piapiya-t-e-rika 
+| "[ir-][VPers][3m.S/A.IRR+][--]" : [{ir}]"@VPERS@"
+| "[r-][VPers][3m.S/A+][--]" : [{r}]"@VPERS@" # r-anii-t-i
+| "[ri-][VPers][3m.S/A+][--]" : [{ri}]"@VPERS@" # ri-wetsik-ak-i
+| "[o-][VPers][3n.m.S/A+][--]" : [{o}]"@VPERS@"
+| "[ro-][VPers][3n.m.S/A+][--]" : [{ro}]"@VPERS@"
+| "[ho-][VPers][3n.m.S/A+][--]" : [{ho}]"@VPERS@"
+| "[a-][VPers][1PL.S/A+][--]" : [{a}]"@VPERS@"
 ];
 
