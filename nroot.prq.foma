@@ -97,8 +97,8 @@ define NRootPRQin [
 ! 
 | "[=akapa][NRoot][=avocado (botany.nm.: persea.americana)]" : {akapa} ! -pa
 ! 
-| "[=ako+n.m.+inal.][NRoot][=arm]" : {ako}
-| "[=ako+n.m.+inal.][NRoot][=hand]" : {ako}
+| "[=ako+n.m.+inal@tsi.][NRoot][=arm]" : {ako}
+| "[=ako+n.m.+inal@tsi.][NRoot][=hand]" : {ako}
 ! 
 | "[=akopero][NRoot][=wrist]" : {akopero}
 ! 
@@ -141,9 +141,9 @@ define NRootPRQin [
 | "[=aampe+m.][NRoot][=butterfly.sp.]" : {aampe}
 | "[=tsaampe+m.][NRoot][=butterfly.sp.]" : {tsaampe}
 ! cotton
-| "[=ampee+poss@re.][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampee}
+| "[=ampee+poss@re:ne.][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampee}
+| "[=ampii+poss@ri.][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampii}
 | "[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampe}
-| "[=ampii][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampii}
 | "[=ampi][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampi}
 | "[=ampehi][NRoot][=cotton (botany.nm.: gossipium.sp.; ES: algodón)]" : {ampehi}
 !
@@ -845,7 +845,7 @@ define NRootPRQin [
 ! 
 | "[=penta][NRoot][=aquatic.bloodsucker.bug (ES: bicho.chupasangre.acuático)]" : {penta}
 ! 
-| "[=pentaki+n.m.+inal.][NRoot][=fish.scale (ES: escama.de.pez)]" : {pentaki}
+| "[=pentaki+n.m.+inal@ntsi.][NRoot][=fish.scale (ES: escama.de.pez)]" : {pentaki}
 ! 
 | "[=ivire+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {ivire}
 | "[=iviri+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
@@ -1965,7 +1965,7 @@ define NRootPRQin [
 | "[=nantatziri][NRoot][=goblin-like.creature, master-owner.of.animals (it.lives.in.rocky.areas)]" : {nantatziri}
 ! 
 # ---------------------------------------------------------------------
-| "[=nampi+n.m.+inal.][NRoot][=village, place, country; settlement]" : {nampi}
+| "[=nampi+n.m.+inal@tsi.][NRoot][=village, place, country; settlement]" : {nampi}
 | "[=nampiki][NRoot][=small.village (ES: aldea)]" : {nampiki}
 | "[=nampitsini][NRoot][=hamlet (small.human.settlement, ES: caserio)]" : {nampitsini}
 | "[=nampitsira][NRoot][=(small).town (ES: pueblo)]" : {nampitsira}
@@ -3109,9 +3109,9 @@ define NRootPRQin [
 ! 
 | "[=shiranto][NRoot][=stone; rock]" : {shiranto}
 ! 
-| "[=shire+n.m.+inal.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire} ! @VCMP
-| "[=shiree+n.m.+inal.][NRoot][=spirit, soul; spirit.of.a.dead.person]" : {shiree}
-| "[=shiri+n.m.+inal.][NRoot][=spirit, soul; spirit.of.a.dead.person]" : {shiri}
+| "[=shire+n.m.+inal@tsi.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire} ! @VCMP
+| "[=shiree+n.m.+inal@tsi.][NRoot][=spirit, soul; spirit.of.a.dead.person]" : {shiree}
+| "[=shiri+n.m.+inal@tsi.][NRoot][=spirit, soul; spirit.of.a.dead.person]" : {shiri}
 ! 
 | "[=shiiri][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: ictinia.plumbea); barred.forest-falcon (micrastur.ruficollis)]" : {shiiri}
 ! 
@@ -3549,8 +3549,8 @@ define NRootPRQin [
 ! 
 | "[=tsapaki][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
 ! 
-| "[=tsapi+n.m.+inal.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsapi}
-| "[=tsaapi+n.m.+inal.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsaapi}
+| "[=tsapi+n.m.+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsapi}
+| "[=tsaapi+n.m.+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsaapi}
 | "[=tsapya][NRoot][=river.bank, side.of.river (ES: orilla)]" : {tsapya}
 | "[=tsapyaa][NRoot][=river.bank, side.of.river (ES: orilla)]" : {tsapyaa}
 | "[=otsapyaa][NRoot][=river.bank, side.of.river (ES: orilla)]" : {otsapyaa}

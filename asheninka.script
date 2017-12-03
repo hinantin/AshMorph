@@ -284,8 +284,14 @@ TZEpenthesisRule8
       define PWLenitionRuleCmpNoun1 [ "@PHONPROCCMPNOUN@"p (->) "@PHONPROCCMPNOUN@"v || [{a}] _ [{i}|{o}] ]; 
       define KWLenitionRuleCmpNoun2 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"v || [{o}] _ [{a}] ]; 
       define KYLenitionRuleCmpNoun3 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"y || [{o}|{i}] _ [{a}] ]; 
+      # ampeeninqui / ampeeninki / '' 
+      # quenthorininqui / kentsorininki / '' 
+      # thamirininqui / tsamirininki / ''
+      # shimaninqui / shimaninki / ''
+      # samaninqui / samaninki / ''
+      define NEpenthesisRuleCmpNoun1 [ "@PHONPROCCMPNOUN@" (->) "@PHONPROCCMPNOUN@"n || [{e}|{i}] _ [{i}] ]; 
 
-      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 ];  
+      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 .o. NEpenthesisRuleCmpNoun1 ];  
 
       ############################
       #      Noun transducer     #
