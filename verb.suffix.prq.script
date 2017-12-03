@@ -15,7 +15,7 @@ define V=S=PROG [
 | "[--][-atiy][ASP][+PROG]" : "@EP"[{atiy}]
 ];
                    
-define PROG [(EP V=S=PROG)|(V=S=PROG)];
+define PROG [ [EP V=S=PROG]|[V=S=PROG] ];
                    
 # ****************************************
                    
@@ -32,7 +32,7 @@ define V=S=PRNO=SET2 [
 | "[--][-ae][+1INCL.PL.O]" : "@EP"[{ae}] 
 ];
                    
-define PRNO [(V=S=PRNO=SET1)|(EP V=S=PRNO=SET2)|(V=S=PRNO=SET2)];
+define PRNO [ [V=S=PRNO=SET1]|[EP V=S=PRNO=SET2]|[V=S=PRNO=SET2] ];
                    
 # ****************************************
                    

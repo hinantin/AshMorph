@@ -316,7 +316,7 @@ define S [
 | (PRF) (STATUS) (V=S=O) 
 | (APPLINT) (STATUS) 
 | (V=S=early) (ICPL) (STATUS) 
-| (REGR) (APPLREAS) (STATUS) (PRNO) 
+| (REGR) (APPLREAS) (STATUS) (PRNO) (V=S=OPT)
 | (APPL) (STATUS) (PRNO) (V=S=OPT) 
 | (STATUS) (PRF) (PRNO) 
 | (APPLREAS) (STATUS) (V=S=REL) (V=S=Q) 
