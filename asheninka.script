@@ -153,9 +153,10 @@ TZEpenthesisRule8
 
       define MPRestr1 [ ["@MP@"] => {m} _ {p} ]; 
       define NVowelRestr1 [ ["@NVowel@"] => {n} _ [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}] ]; ! n, p should be omitted ? 
-      define PersPrefixRestr1 [ Cons => .#. ~[[{h}|{n}|{p}|{r}]] _  ];
+      define PersPrefixRestr1 [ Cons => .#. ~[[{h}|{n}|{p}|{r}]] _ ];
+      define PersPrefixRestr2 [ [{o}] => .#. ~[[{pi}]] _ ]; 
       
-      define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 ] ; 
+      define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 .o. PersPrefixRestr2 ] ; 
 
       source vroot.prq.foma
       source vroot.es.foma
@@ -245,10 +246,11 @@ TZEpenthesisRule8
       define PossessiveRestr2 [ Cons => .#. ~[{ir}"@PHONPROC@"] _  ];
       
       define PossessiveRestr3 [ Vowels => .#. ~[{no}"@PHONPROC@"] _  ]; ! noito ??? oitontsi ??? 
+      define PossessiveRestr4 [ [{o}] => .#. ~[{pi}"@PHONPROC@"] _  ]; ! pio 
       
       define IRestr4 [ ["@I@"] => {i} _ ]; 
       
-      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. IRestr4 ];
+      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 .o. IRestr4 ];
       
       source nroot.prq.foma
       source aroot.prq.foma
