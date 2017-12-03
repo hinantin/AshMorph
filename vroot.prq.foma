@@ -438,14 +438,11 @@ define VRootPRQin [
 | "[=kamitant][VRoot][=to.buy]" : {kamitant}
 | "[=kampitant][VRoot][=to.buy]" : {kampitant}
 ! 
-| "[=kant][VRoot][=to.say]" : {kant}
-| "[=kãt][VRoot][=to.say]" : {kãt}
+| "[=kant][VRoot][=to.say; to.call]" : {kant}
+| "[=kãt][VRoot][=to.say; to.call]" : {kãt}
 ! 
-| "[=kant][VRoot][=to.do]" : {kant}
-| "[=kant][VRoot][=to.happen]" : {kant}
-| "[=kant][VRoot][=to.be]" : {kant}
-| "[=kant][VRoot][=to.be.able]" : {kant}
-| "[=kant][VRoot][=to.call]" : {kant}
+| "[=kant][VRoot][=to.do; to.happen]" : {kant}
+| "[=kant][VRoot][=to.be; to.be.able]" : {kant}
 ! 
 | "[=kantashiye][VRoot][=to.be.different (ES: ser.diferente)]" : {kantashiye} 
 ! 
@@ -1089,7 +1086,7 @@ define VRootPRQin [
 | "[=pai][VRoot][=to.be.called; to.call, to.name; to.get.white.hair]" : {pai}
 | "[=pahi][VRoot][=to.be.called; to.call, to.name]" : {pahi}
 ! 
-| "[=paik][VRoot][=to.nail, to.get.hit.with.an.object]" : {paik}
+| "[=paik][VRoot][=to.nail (ES: clavar), to.get.hit.with.an.object]" : {paik}
 ! 
 | "[=pairy][VRoot][=to.say.someone's.name, to.say.its.own.name]" : {pairy}
 ! 
@@ -1136,6 +1133,8 @@ define VRootPRQin [
 ! 
 | "[=pe][VRoot][=to.disappear (ES: desaparecer)]" : {pe}
 | "[=pi][VRoot][=to.disappear (ES: desaparecer)]" : {pi}
+! 
+| "[=peh][VRoot][=to.clear.land.in.order.to.be.cultivated (ES: rozar, limpiar.un.terreno.de.bosque.para.ser.cultivado)]" : {peh}
 ! 
 | "[=pea][VRoot][=to.get.lost; to.lose (ES: perder)]" : {pea}
 | "[=pia][VRoot][=to.get.lost; to.lose (ES: perder)]" : {pia}
