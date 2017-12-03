@@ -1214,6 +1214,7 @@ define VRootPRQin [
 | "[=piyatsa][VRoot][=to.disobey; to.disobey.authority]" : {piyatsa}
 ! 
 | "[=piyo][VRoot][=to.pile.sth.up (ES: amontonar); to.heap; to.gather.together]" : {piyo}
+# piotaka / =pio -t -ak -a / ES: 'está.amontonado'  
 | "[=pio][VRoot][=to.pile.sth.up (ES: amontonar); to.heap; to.gather.together]" : {pio}
 ! 
 | "[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)]" : {pocha}
@@ -1827,6 +1828,8 @@ define VRootPRQin [
 | "[=yot][VRoot][=to.know]" : {yot}
 | "[=yotani][VRoot][=to.know]" : {yotani}
 | "[=iyot][VRoot][=to.know, to.understand (ES: saber, entender)]" : {iyot}
+# niotantari / n- =iot -ant -a -ri / ES: 'entendimiento'  
+| "[=iot][VRoot][=to.know, to.understand (ES: saber, entender)]" : {iot}
 ! 
 | "[=yov][VRoot][=to.escape; to.come.out; to.leave]" : {yov}
 ! ----------------------
