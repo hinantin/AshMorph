@@ -771,9 +771,9 @@ define REV [ [EP V=S=REV]|[V=S=REV] ];
                    
 # 
 define V=S=DUB [
-  "[--][-ma][+DUB][=maybe]" : [{ma}] ! +evidential 
-| "[--][-mpa][+DUB][=maybe]" : [{mpa}] ! +evidential 
-| "[--][-npa][+DUB][=maybe]" : [{npa}] ! +evidential 
+  "[--][-ma][+DUB][=maybe; sb.might.do.sth.]" : [{ma}] ! +evidential 
+| "[--][-mpa][+DUB][=maybe; sb.might.do.sth.]" : [{mpa}] ! +evidential 
+| "[--][-npa][+DUB][=maybe; sb.might.do.sth.]" : [{npa}] ! +evidential 
 # irirotaima iriri / =iriro -taima ir- =iri / =he -dub 3m.poss- =father / ES: 'tal vez puede ser el rey/padre [de los loros]' 
 # aisatzitaima / =aisatzi -taima / =also -dub / EN: '' 
 | "[--][-taima][+DUB][=maybe]" : [{taima}] 
