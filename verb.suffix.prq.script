@@ -348,7 +348,7 @@ define V=S=EXCL [
                    
 # ****************************************
                    
-define V=S=STAT [
+define V=S=STAT=SET1 [
 # -------- STATIVITY MARKERS -------------
 # -------- STATIVITY IMPERFECTIVE -------------
 ! koiteatsiri / =koite -atsi -ri / =to.be.in.need -stat -rel / EN: 'poor'; ES: 'pobre' 
@@ -362,7 +362,6 @@ define V=S=STAT [
 ! oyaakotachari / =oya -ako -t -acha -ri / =to.follow -appl -ep -stat -rel / EN: 'dependent'; ES: 'dependiente'
 ! katikachari / =katik -acha -ri / =to.hang -stat -rel / EN: 'hanged'; ES: 'ahorcado'  
 ! pahitachari Pityotsi / =pahi -t -acha -ri =Pityotsi / =to.be.called -ep -stat -rel =proper.name / ES: 'who.is.called.Pityotsi'  
-| "[--][-ach][+STAT]" : "@EP"[{ach}] 
 | "[--][-acha][+STAT]" : "@EP"[{acha}] 
 | "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
 # -------- TEMPORAL STATIVITY MARKERS ------
@@ -373,8 +372,6 @@ define V=S=STAT [
 ! abisaintsiri / avisaintsiri / =avis -aintsi -ri / =to.pass -stat -rel / EN: 'what.has.happened'; ES: 'lo.que.ha.ocurrido' 
 ! sabikaintsiri / savikaintsiri / =savik -aintsi -ri / =to.sit -stat -rel / EN: 'sitted'; ES: 'sentado' 
 ! abisaintsiri peerani / avisaintsiri peerani / =avis -aintsi -ri =peerani / =to.pass -stat -rel =long.ago / EN: 'history'; ES: 'historia; lo.que.sucedió.hace.mucho.tiempo'  
-| "[--][-aints][+STAT]" : "@EP"[{aints}] 
-| "[--][-aits][+STAT]" : "@EP"[{aits}] 
 | "[--][-aintsi][+STAT]" : "@EP"[{aintsi}] 
 | "[--][-aentsi][+STAT]" : "@EP"[{aentsi}] 
 # --------
@@ -389,8 +386,19 @@ define V=S=STAT [
 | "[--][-aincha][+STAT]" : "@EP"[{aincha}]
 | "[--][-aencha][+STAT]" : "@EP"[{aencha}]
 ];
+
+define V=S=STAT=SET2 [
+# -------- STATIVITY MARKERS -------------
+# -------- STATIVITY IMPERFECTIVE -------------
+  "[--][-ach][+STAT]" : "@EP"[{ach}] 
+# -------- TEMPORAL STATIVITY MARKERS ------
+# -------- STATIVE PERFECTIVE  -------------
+| "[--][-aints][+STAT]" : "@EP"[{aints}] 
+| "[--][-aits][+STAT]" : "@EP"[{aits}] 
+];
+
                    
-define STAT [ [EP V=S=STAT]|[V=S=STAT] ];
+define STAT [ [EP V=S=STAT=SET1]|[V=S=STAT=SET1] ];
                    
 # ****************************************
                    
