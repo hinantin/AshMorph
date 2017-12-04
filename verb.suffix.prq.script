@@ -1018,7 +1018,7 @@ define UNK1 [ [EP V=S=UNK1]|[V=S=UNK1] ];
 # ****************************************
                    
 define V=S=DLMT [
-  "[--][-vintsa][+DLMT]" : "@EP"[{vintsa}] 
+  "[--][-vintsa][+DLMT][=for.a.short.time]" : "@EP"[{vintsa}] 
 ];
                    
 define DLMT [ [EP V=S=DLMT]|[V=S=DLMT] ];
