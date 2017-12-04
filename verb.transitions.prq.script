@@ -50,19 +50,19 @@ define S [
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (NMZ) # end-state? 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) STATUS ! noun root: noun, noun+noun 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
-! o-nint-a-Voro-t-ab-ak-e-ri 
+# o-nint-a-Voro-t-ab-ak-e-ri 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (RCP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (V=S=COND) 
-! 
+#  
 | V=S=noun                                             (V=S=CL) (DIR) (REGR) STATUS 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun)                    (DIR) (REGR) STATUS 
-! o-kant-a-pankaina-aty-a 
+# o-kant-a-pankaina-aty-a 
 |                                                      (V=S=CL) (PROG) STATUS 
 |                                                      (V=S=CL) (CAUSSOC) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-! o-kant-a-pontso-t-ap-ak-a 
+# o-kant-a-pontso-t-ap-ak-a 
 |                                                      (V=S=CL) (DIR) (PRF) STATUS 
 |                                                      (V=S=CL) (APPLINST) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | V=S=noun                                                      (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
