@@ -59,7 +59,7 @@ define NounToVerbPRQin [
 | "[=motya][NRoot][=stomach, belly]+vbz." : {motya} ! N@->V
 | "[=moti+inal.][NRoot][=stomach, belly]+vbz." : {moti} ! N@->V 
 | "[=oorya+m.][NRoot][=sun (ES: sol)]+vbz." : {oorya} ! N@->V
-| "[=oria+m.][NRoot][=sun (ES: sol)]+vbz." : {oria} ! N@->V
+| "[=oria+m.][NRoot][=sun (ES: sol)]::[=to.shine]+vbz." : {oria} ! N@->V::[=to.shine]
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)]+vbz." : {oventeni} ! N@->V
 | "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pirontzi} ! N@->V
 | "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pironi} ! N@->V
