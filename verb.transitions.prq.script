@@ -40,20 +40,20 @@ define S [
 | (DIR) (PRF) STATUS 
 | (DIR) (PRF) STATUS (PRNO) 
 | (IMPP) STATUS (V=S=O) (PRNO) (V=S=NEG) 
-| (ADV) (V=S=EXCL) 
+| (ADV) (V=S=EXCL) # end state? 
 | (CAUSSOC) (PRF) STATUS (PRNO) 
 | STATUS (V=S=REL) (V=S=Q) 
-| (STAT) (V=S=REL) (V=S=Q) # end-state 
+| STAT (V=S=REL) (V=S=Q) # end-state? 
 | (PRF) STATUS 
 | (APPL) STATUS (PRNO) 
 # -----------------------------------------------------------------------------
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (NMZ) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (NMZ) # end-state? 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) STATUS ! noun root: noun, noun+noun 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 ! o-nint-a-Voro-t-ab-ak-e-ri 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (RCP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (STAT) (V=S=REL) (V=S=Q)  
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (STAT) (V=S=REL) (V=S=Q) 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
+| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (V=S=COND) 
 ! 
@@ -71,7 +71,7 @@ define S [
 | V=S=noun                                                      (APPLINT) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | V=S=noun                                                      (PROG) STATUS (V=S=O) (PRNO) (V=S=NEG) 
 | V=S=noun                                                      (COMPL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-|                                                      (V=S=CL) (STAT) (V=S=REL) (V=S=Q) 
+|                                                      (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 |                                                      (V=S=CL) (DUR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 |                                                      (V=S=CL) (DIR) (REGR) STATUS (V=S=NEG) 
 | V=S=noun                                                      (DIR) (PRF) STATUS (ADV) 
@@ -137,7 +137,7 @@ define S [
 | (APPLINST) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (HAB) STATUS 
 | (RCP) (PRF) (PROG) STATUS 
-| (PRF) (V=S=REALRFL) 
+| (PRF) STATUS  
 | (PRF) STATUS (V=S=O) (PRNO) 
 | STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
@@ -153,14 +153,14 @@ define S [
 | (CAUSSOC) (NMZ) STATUS (V=S=REL) (V=S=Q) 
 !| (PROG) (STAT)  
 | V=S=ADJ # nominalization 
-| (V=S=DUB) 
+| (V=S=DUB)  # end-state? REVISE!!! 
 | (V=S=before) STATUS 
 | STATUS (V=S=REL) (V=S=Q) 
 | (APPL) (PROG) STATUS (V=S=O) (PRNO) 
 | STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (PRF) STATUS (V=S=O) (PRNO) 
 | STATUS (ADV) 
-| (STAT) (V=S=Q) 
+| STAT (V=S=Q) # end-state? 
 | (CAUSSOC) (FRUS) (IMPP) STATUS (PRNO) (ADV) 
 | (APPL) (PRF) STATUS (PRNO) 
 | (APPLREAS) (PRF) STATUS (PRNO) 
@@ -168,7 +168,7 @@ define S [
 | V=S=ADJ (PL) # nominalization 
 | (DIR) (REGR) STATUS (PRNO) 
 | (REGR) (STAT) (V=S=ADJ) (V=S=TEMPORAL) # nominalization revise?
-| (AUG) 
+| (AUG)  # end-state? 
 | (APPLINST) STATUS (PRNO) 
 | V=S=ADJ (V=S=smallpart) (V=S=DIM) # nominalization 
 | (DIR) (PRF) (PL) STATUS (V=S=PLcircumfixing) 
@@ -176,30 +176,30 @@ define S [
 | (DEGR) (PROG) STATUS (V=S=O) (PRNO) (V=S=DUB) 
 | (SEMEL) STATUS (PRNO) 
 | (REV) (APPL) (PRF) STATUS 
-| (ADV) 
+| (ADV)  # end-state? 
 | V=S=ADJ (V=S=LOC) # nominalization
 | (APPLINT) (PL) (DIR) (REGR) STATUS 
 | (DIR) (PRF) STATUS (V=S=REL) (V=S=Q) 
 | (V=S=CL) STATUS (ADV) 
 | (APPLREAS) (REGR) STATUS (V=S=REL) (V=S=Q) 
-| (V=S=small) 
+| (V=S=small) # end-state? 
 | (DUR) (REGR) STATUS (PRNO) 
 | (PL) STATUS 
 | (APPLBEN) STATUS (PRNO) 
 | STATUS 
 | STATUS (V=S=O) (V=S=OPT) 
 | (CAUSSOC) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (STAT) 
+| STAT # end-state? 
 | (AUG) (APPLREAS) (DIR) (PRF) STATUS (V=S=REL) (V=S=Q) 
 | (APPLREAS) STATUS (V=S=REL) (V=S=Q) 
 | (RCP) (PRF) (APPLREAS) (HAB) STATUS (V=S=REL) (V=S=Q) 
 | (IMPP) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (APPL) STATUS (V=S=REL) (V=S=Q) 
-| (STAT) (V=S=REL) (V=S=Q) 
+| STAT (V=S=REL) (V=S=Q) # end-state? 
 | NMZ # nominalization 
 | (PROG) STATUS 
 | STATUS (V=S=CNTF) 
-| (DUR) (STAT) (V=S=REL) (V=S=Q) 
+| (DUR) STAT (V=S=REL) (V=S=Q) 
 | (STAT) STATUS (V=S=REL) (V=S=Q) 
 | (APPLREAS) STATUS (V=S=REL) (V=S=Q) 
 | STATUS 
@@ -207,7 +207,7 @@ define S [
 | (APPLREAS) (REGR) STATUS (V=S=REL) (V=S=Q) 
 | STATUS (V=S=Q) 
 | STATUS (V=S=O) (PRNO) 
-| (PRF) (PRNO) 
+| (PRF) (PRNO) # end-state? revise!!!
 | (PL) STATUS (ADV) 
 | (DIR) (PRF) STATUS (PRNO) 
 | STATUS (V=S=EMPH) 
@@ -242,34 +242,34 @@ define S [
 | (DIR) (PRF) STATUS (PRNO) (V=S=OPT) 
 | (REP) (APPLINST) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (HAB) (DUR) STATUS 
-| (V=S=REL) (V=S=Q) 
+| (V=S=REL) (V=S=Q) # nominalization  # end-state? 
 | (PRF) STATUS (V=S=O) (V=S=REL) (V=S=Q) 
 | (CAUSSOC) (DIR) (REGR) STATUS (PRNO) 
 | (REGR) STATUS (V=S=REL) (V=S=Q) 
 | (INCH) STATUS (PRNO) 
-| (CAUSSOC) (REGR) (PRNO) (V=S=REL) (V=S=Q) 
+| (CAUSSOC) (REGR) (PRNO) (V=S=REL) (V=S=Q) # end-state? 
 | (CAUSSOC) STATUS (V=S=O) (V=S=REL) (V=S=Q) 
 | (APPLBEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (APPL) STATUS (PRNO) 
-| (V=S=STATT) (V=S=REL) (ADV) 
+| STAT (V=S=REL) (ADV)  # end-state? 
 
 | (PL) (PROG) STATUS (PRNO) 
 | (PL) (PROG) STATUS (PRNO) (V=S=REL) (V=S=PLcircumfixing)
 
 | (V=S=DIM) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (DUR) (REP) (DIST) (STAT) (V=S=REL) (V=S=Q) 
-| (CAUSSOC) (APPL) (REGR) (PRNO) (V=S=REL) (V=S=Q) 
+| (DUR) (REP) (DIST) STAT (V=S=REL) (V=S=Q)  # end-state? 
+| (CAUSSOC) (APPL) (REGR) (PRNO) (V=S=REL) (V=S=Q)  # end-state? revise!!!
 ! a-n-kaa-ki-tz-imaint-ia-ro
 | (V=S=CL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 ! 
-| (V=S=CL) (STAT) (V=S=REL) (V=S=Q) 
+| (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
 | (DUR) STATUS (PRNO) 
 | (APPLREAS) (DUR) STATUS (PRNO) 
 | (PRF) STATUS (V=S=REL) (V=S=Q) 
 | (PRF) (REGR) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | STATUS (V=S=O) 
 | (APPL) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (DIR) (REGR) (PRNO) (V=S=REL) (V=S=Q) 
+| (DIR) (REGR) (PRNO) (V=S=REL) (V=S=Q)  # end-state? revise!!! 
 | (IMPP) (DIR) (PRF) STATUS (PRNO) 
 | (FRUS) (PRF) STATUS (PRNO) 
 | (DIR) (PROG) STATUS (PRNO) 
@@ -289,13 +289,13 @@ define S [
 | (AUG) STATUS (PRNO) 
 | STATUS (V=S=EMPH) 
 | (REP) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (DUR) (PL) (STAT) (V=S=REL) (V=S=Q) 
+| (DUR) (PL) STAT (V=S=REL) (V=S=Q)  # end-state? 
 | (PL) (PL) STATUS (V=S=PLcircumfixing) 
 | (PRF) STATUS (V=S=EMPH) 
 | (ICPL) (PROG) STATUS (AUG) 
 | (AUG) STATUS 
 | (FRUS) STATUS (AUG) 
-| (STAT) (PRNO) 
+| STAT (PRNO)  # end-state?  revise!!!
 | (APPL) (PRF) STATUS (PRNO) 
 | (REGR) (APPLREAS) STATUS 
 | (FRUS) STATUS (V=S=OPT) 
@@ -355,7 +355,7 @@ define S [
 | STATUS (PRNO) (V=S=OPT) 
 | (DIR) (REGR) STATUS (PRNO) (V=S=OPT) 
 | (REGR) STATUS (V=S=OPT) 
-| (PROG) (PRNO) 
+| (PROG) (PRNO)  # end-state? revise!!!
 | (DIR) (PRF) STATUS (V=S=OPT) 
 | (APPLPRES) STATUS (V=S=O) (PRNO) (V=S=OPT) 
 | (APPLINT) (DIR) (PRF) STATUS (PRNO) 
@@ -363,7 +363,7 @@ define S [
 | (APPL) (DIR) (PRF) STATUS (PRNO) 
 | (APPL) (DIR) (PRF) STATUS (PRNO) 
 | (DIR) (PRF) STATUS (PRNO) 
-| (PRNO) 
+| (PRNO)  # end-state? revise!!!
 | (REGR) STATUS (V=S=COND) 
 # --------------------------------------------------------- 
 ! pintziriitzimaityaro / pi- n- =tziri -itz -imai -t -ya -ro / 2a- irr- =to.rub -icpl -inch -irr -3n.m.o / EN: 'you.rub.it' 
@@ -376,7 +376,7 @@ define S [
 | STATUS (V=S=CNTF) 
 | (IMPP) STATUS (V=S=CNTF) 
 | (PL) (PRF) STATUS (V=S=CNTF) 
-| (V=S=EMPH) (V=S=CNTF) 
+| (V=S=EMPH) (V=S=CNTF)  # end-state? revise!!!
 | (DIR) (PRF) (PL) STATUS (V=S=OPT) 
 | (DIR) (REGR) STATUS 
 | (IMPP) (PRF) STATUS (PRNO) 
@@ -409,7 +409,7 @@ define S [
 | STATUS (V=S=APPR) 
 | (DIR) (PRF) STATUS (V=S=O) (PRNO) 
 | (REGR) STATUS (PRNO) 
-| (V=S=STATT) (V=S=REL) (V=S=Q) 
+| STAT (V=S=REL) (V=S=Q)  # end-state? 
 | (V=S=CL) (PRF) STATUS (PRNO) 
 | (DIR) (PRF) STATUS (V=S=OPT) 
 | STATUS (PRNO) (V=S=OPT) 
@@ -470,12 +470,12 @@ define S [
 | STATUS (V=S=O) (V=S=REL) (V=S=Q) 
 | (AUG) STATUS (V=S=REL) (V=S=Q) 
 | (PROG) STATUS (PRNO) 
-| (RCP) (PRF) (V=S=IRRRFL) 
-| (PROG) (V=S=IRRRFL) 
+| (RCP) (PRF) STATUS 
+| (PROG) STATUS 
 | STATUS 
 | STATUS (REGR) (PRNO) 
 | (V=S=early) STATUS (PRNO) 
-| (V=S=early) (ADV) 
+| (V=S=early) (ADV)  # end-state? revise!!!
 | (DUR) (APPLREAS) STATUS 
 | (DIR) (REGR) STATUS 
 | (DIR) STATUS (V=S=REL) (V=S=Q) 
@@ -519,13 +519,13 @@ define S [
 ! 
 | (DIR) (CAUSSOC) (DIR) (PRF) STATUS 
 | (REV) (PRF) STATUS (PRNO) 
-| (DUR) (V=S=STATIPRF) 
-| (V=S=STATPRF) (V=S=REL) (V=S=Q) 
+| (DUR) STAT 
+| STAT (V=S=REL) (V=S=Q) 
 | STATUS (PRNO) (V=S=RPST) 
-| (PRNO) (NMZ) 
+| (PRNO) (NMZ) # end-state? revise!!! 
 | STATUS (PRNO) 
 | V=S=ADJ (AUG) # nominalization 
-| (V=S=STATIPRF) (V=S=REL) (ADV) 
+| STAT (V=S=REL) (ADV) 
 | (CAUSSOC) (DIR) (PRF) STATUS (PRNO) (V=S=SUB) 
 | (DIR) (IMPP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (DIR) (IMPP) (PRF) STATUS (V=S=O) (PRNO) (V=S=SUB) 
@@ -536,35 +536,36 @@ define S [
 | STATUS (V=S=Q) 
 | STATUS (PRNO) (V=S=RELIRR) (ADV) 
 | STATUS (CAUSSOC) (PRF) (PRNO) 
-| (V=S=STATIPRF) NMZ (ADV) # nominalization 
-| (PL) (STAT) (V=S=REL) (V=S=Q) 
+| STAT NMZ (ADV) # nominalization revise!!!
+| (PL) STAT (V=S=REL) (V=S=Q) 
 | (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
-| (DEXT) (STAT) (PRNO) (V=S=REL) (V=S=Q) 
-| (DEXT) (APPL) (PRNO) (V=S=REL) (V=S=Q) 
+| (DEXT) (STAT) (PRNO) (V=S=REL) (V=S=Q)  # end-state?  revise!!!
+| (DEXT) (APPL) (PRNO) (V=S=REL) (V=S=Q)  # end-state?  revise!!!
 | (DIST) STATUS (V=S=O) (PRNO) (V=S=NEG) (ADV) 
 | (REV) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (POSN) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (REV) (STAT) (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (REV) (STAT) (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  # end-state?  revise!!!
 | (REV) (APPL) (APPLBEN) (PL) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (REV) (APPL) (APPLBEN) (DEXT) (FRUS) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLREF) (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
 | (S) NMZ # nominalization 
 | (REP) (S) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL)  
-| (S) (APPLINST) (STAT) (V=S=REL)  
+| (S) (APPLINST) STAT (V=S=REL)  
 
 !| (V=S=1SGposs) (DIST) 
 | (UNK1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (DLMT) (V=S=REL) 
+| (DLMT) (V=S=REL) # revise!!! 
 | (REGR) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
-| (APPLBEN) (PL) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
+# inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
+| (APPLBEN) (PL) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (MIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) ! ompoh-ak-i-na-vi 
 | (RCP) (CAUSSOC) (HAB) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=PLcircumfixing)  
 | (HAB) (PRF) STATUS (V=S=O) (PRNO) (V=S=DUB)  
-| (RCP) (CAUSSOC) (REGR) (STAT) (V=S=REL)  
+| (RCP) (CAUSSOC) (REGR) STAT (V=S=REL)  
 | (RCP) (CAUSSOC) (REGR) (DUR) STATUS (V=S=RPST)  
 | (RCP) (CAUSSOC) (PL) (REGR) STATUS  
 
