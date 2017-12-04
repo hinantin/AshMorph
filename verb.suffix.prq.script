@@ -429,7 +429,7 @@ define V=S=Q [
 # ****************************************
                    
 define V=S=APPL [
-  "[--][-ako][+APPL][=with.reference.to.sth.; about.sth.]" : "@EP"[{ako}]
+  "[--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]" : "@EP"[{ako}]
 ];
                    
 define APPL [ [EP V=S=APPL]|[V=S=APPL] ];
