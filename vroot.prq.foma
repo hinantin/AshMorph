@@ -1198,7 +1198,7 @@ define VRootPRQin [
 | "[=pitasa][VRoot][=to.fish.with.a.small.hook (ES: ansolear)]" : {pitasa}
 | "[=pitasaa][VRoot][=to.fish.with.a.small.hook (ES: ansolear)]" : {pitasaa}
 ! 
-| "[=pitsi][VRoot][=to.be.dirty]" : {pitsi}
+| "[=pitsi][VRoot][=to.be.dirty (ES: ensuciar)]" : {pitsi}
 ! 
 | "[=pitsok][VRoot][=to.turn.around (ES: voltearse)]" : {pitsok}
 ! 
@@ -1768,8 +1768,8 @@ define VRootPRQin [
 ! 
 | "[=oapatank][VRoot][=to.patch (ES: parchar)]" : {oapatank}
 ! 
-| "[=vashire][VRoot][=to.get.sad, to.be.sad]" : {vashire}
-| "[=vashiri][VRoot][=to.get.sad, to.be.sad]" : {vashiri}
+| "[=vashire][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashire}
+| "[=vashiri][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashiri}
 ! 
 | "[=vashivent][VRoot][=to.shame.sb.]" : {vashivent}
 ! 
