@@ -2010,9 +2010,9 @@ define NRootPRQin [
 ! 
 | "[=nii][NRoot][=breast]" : {nii}
 ! 
-| "[=nyaa+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nyaa}
-| "[=nya+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nya}
-| "[=nea+n.m.+inal.+poss@ne.][NRoot][=word, language]" : {nea}
+| "[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language]" : {nyaa}
+| "[=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language]" : {nya}
+| "[=nea+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language]" : {nea}
 ! 
 | "[=nyaaperori+m.][NRoot][=brave; clever, sharp; skilful (ES: valiente; vivo/aprovechado, sabido; hábil)]" : {nyaaperori}
 | "[=nyaapirori+m.][NRoot][=brave; clever, sharp; skilful (ES: valiente; vivo/aprovechado, sabido; hábil)]" : {nyaapirori}
