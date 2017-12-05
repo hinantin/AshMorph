@@ -451,6 +451,14 @@ define N=S=CL [
 ! ojabobakota / o- =jabo -bako -t -a / 3n.m.s- =to.soap.sth -cl:hand -ep -real / EN: 'she.soaps.her.hands' 
 | "[--][-vako][+CL:hand][=hand]" : {vako} ! @CL 
 ! 
+! ampeeninqui / ampeeninki / '' 
+! quenthorininqui / kentsorininki / '' 
+! thamirininqui / tsamirininki / ''
+! shimaninqui / shimaninki / ''
+! samaninqui / samaninki / ''
+| "[--][-ninki][+CL:peanut][=peanut (ES: maní)]" : {ninki}
+| "[--][-ninki][+CL:peanut][=peanut (ES: maní)]" : "@NI@"{nki}
+! 
 ! monkarakaraki / =monkara -karaki / =to.measure -cl:fractional / EN: 'fraction'; ES: 'fracción'  
 ! inchakaraki / =incha -karaki / =plant -cl:fractional / ES: 'palo.seco; madera.muerta'  
 ! chekopikaraki / =chekopi -karaki / =small.cane -cl:fractional / ES: 'palito.de.izana' (*) izana: parte.de.la.flecha.donde.se.coloca.la.punta 

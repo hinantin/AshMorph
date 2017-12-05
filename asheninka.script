@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"|"@NVowel@"|"@VPERS@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"|"@NVowel@"|"@VPERS@"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -192,10 +192,11 @@ TZEpenthesisRule8
                                                                             # ipentaki (in our lexicon) -> i@PHONPROC@pentaki -> i@PHONPROC@ventaki -> iventaki 
                                                                             # ipanko (in our lexicon) -> i@PHONPROC@panko -> i@PHONPROC@vanko -> ivanko 
                                                                             # pipompooti (in our lexicon) -> pi@PHONPROC@pompooti -> pi@PHONPROC@vompooti -> pivompooti 
-      define PWLenitionRule3 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{a}] _ [{i}|{o}] ]; 
+      define PWLenitionRule3 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{a}] _ [{i}|{o}] ]; 
                                                                             # apinkatsarite (in our lexicon) -> a@PHONPROC@pinkatsarite -> a@PHONPROC@vinkatsarite -> avinkatsarite 
-                                                                            #COMPOUNDS vatsapori (in our lexicon) -> vatsa@PHONPROC@pori -> vatsa@PHONPROC@vori -> vatsavori
-      define PWLenitionRule4 [ "@PHONPROC@"p -> "@PHONPROC@"v || [{e}] _ [{i}|{o}|{a}] ]; 
+                                                                            # COMPOUNDS vatsapori (in our lexicon) -> vatsa@PHONPROC@pori -> vatsa@PHONPROC@vori -> vatsavori
+                                                                            # aporoni 
+      define PWLenitionRule4 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{e}] _ [{i}|{o}|{a}] ]; 
 
       define KJLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || _ [{o}|{a}|{e}|{i}] ]; 
                                                                             # optional rule: noyokani, ikentsike  
@@ -248,9 +249,10 @@ TZEpenthesisRule8
       define PossessiveRestr3 [ Vowels => .#. ~[{no}"@PHONPROC@"] _  ]; ! noito ??? oitontsi ??? 
       define PossessiveRestr4 [ [{o}] => .#. ~[{pi}"@PHONPROC@"] _  ]; ! pio 
       
-      define IRestr4 [ ["@I@"] => {i} _ ]; 
+      define IRestr1 [ ["@I@"] => {i} _ ]; 
+      define NIRestr1 [ ["@NI@"] => {ni} _ ]; 
       
-      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 .o. IRestr4 ];
+      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 .o. IRestr1 .o. NIRestr1 ];
       
       source nroot.prq.foma
       source aroot.prq.foma
@@ -286,14 +288,8 @@ TZEpenthesisRule8
       define PWLenitionRuleCmpNoun1 [ "@PHONPROCCMPNOUN@"p (->) "@PHONPROCCMPNOUN@"v || [{a}] _ [{i}|{o}] ]; 
       define KWLenitionRuleCmpNoun2 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"v || [{o}] _ [{a}] ]; 
       define KYLenitionRuleCmpNoun3 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"y || [{o}|{i}] _ [{a}] ]; 
-      # ampeeninqui / ampeeninki / '' 
-      # quenthorininqui / kentsorininki / '' 
-      # thamirininqui / tsamirininki / ''
-      # shimaninqui / shimaninki / ''
-      # samaninqui / samaninki / ''
-      define NEpenthesisRuleCmpNoun1 [ "@PHONPROCCMPNOUN@" (->) "@PHONPROCCMPNOUN@"n || [{e}|{i}] _ [{i}] ]; 
-
-      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 .o. NEpenthesisRuleCmpNoun1 ];  
+      
+      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 ];  
 
       ############################
       #      Noun transducer     #

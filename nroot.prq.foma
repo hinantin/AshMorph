@@ -2671,7 +2671,7 @@ define NRootPRQin [
 ! 
 | "[=porita+m.][NRoot][=small.hen.sp. (ES: gallina.chica)]" : {porita}
 ! 
-| "[=poro+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP 
+| "[=poro+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
 # pootsi / =poo -tsi / =face -nposs / EN: 'face', ES: 'cara' 
 | "[=poo+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poo}
 | "[=voro][NRoot][=face (ES: cara, rostro)]" : {voro} ! @VCMP 
