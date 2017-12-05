@@ -34,8 +34,8 @@ define NRootPRQin [
 ! 
 | "[=Aroshi][NRoot][=person's.name]" : {aroshi}
 ! 
-| "[=ashitarori][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitarori}
-| "[=ashitariri][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitariri}
+| "[=ashitarori+m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitarori}
+| "[=ashitariri+m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitariri}
 ! 
 | "[=ashivantzi+m.][NRoot][=swallow.sp. (ES: golondrina)]" : {ashivantzi}
 ! 
