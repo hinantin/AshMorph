@@ -76,7 +76,7 @@ define N [
 | (N=S=CL) (N=S=CL) (N=S=poss) (N=S=LOC) (N=S=DEM) (N=S=EMPH) 
 | (N=S=AUG) (N=S=NMZ) 
 | (N=S=AUG) (N=S=TEMPORALEXIST) 
-!| (N=S=PROG) (N=S=REAL) # to.be.revised 
+# | (N=S=PROG) (N=S=REAL) # to.be.revised 
 | (N=S=ABS) (N=S=PL) 
 | (N=S=ABS) (N=S=LOC) (N=S=DEM) 
 | (N=S=ABS) (N=S=LOC) 
@@ -95,7 +95,7 @@ define N [
 | (N=S=poss) (N=S=UNK1) (N=S=PL) 
 # Verbal transitions with noun roots 
 # anakyari / =ana -ki -ya -ri / =huito -cl -irr -rel 
-!| (N=S=CL) (N=S=CL) (N=S=IRR) (N=S=NMZ) # to.be.revised 
+#| (N=S=CL) (N=S=CL) (N=S=IRR) (N=S=NMZ) # to.be.revised 
 | (N=S=SUPERL) 
 | (N=S=poss) (N=S=EXPECT) 
 ];

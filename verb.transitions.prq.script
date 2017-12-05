@@ -75,6 +75,12 @@ define S [
 |                                                      (V=S=CL) (DUR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 |                                                      (V=S=CL) (DIR) (REGR) STATUS (V=S=NEG) 
 | V=S=noun                                                      (DIR) (PRF) STATUS (ADV) 
+| (V=S=CL) (PRF) STATUS 
+| (V=S=CL) STATUS (ADV) 
+| (V=S=CL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+#  
+| (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
+| (V=S=CL) (PRF) STATUS (PRNO) 
 # -----------------------------------------------------------------------------
 # V=S=noun (POSSREL) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) | 
 # (POSSREL) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) | 
@@ -87,7 +93,6 @@ define S [
 | (REGR) STATUS (PRNO) 
 | (IMPP) (PRF) STATUS (PRNO) 
 | (CAUSSOC) (V=S=DIM) STATUS (PRNO) 
-| (V=S=CL) (PRF) STATUS 
 | STATUS (V=S=OPT) 
 | (REGR) (PROG) STATUS (ADV) 
 | V=S=ADJ # nominalization 
@@ -180,7 +185,6 @@ define S [
 | V=S=ADJ (V=S=LOC) # nominalization
 | (APPLINT) (PL) (DIR) (REGR) STATUS 
 | (DIR) (PRF) STATUS (V=S=REL) (V=S=Q) 
-| (V=S=CL) STATUS (ADV) 
 | (APPLREAS) (REGR) STATUS (V=S=REL) (V=S=Q) 
 | (V=S=small) # end-state? 
 | (DUR) (REGR) STATUS (PRNO) 
@@ -260,9 +264,6 @@ define S [
 | (DUR) (REP) (DIST) STAT (V=S=REL) (V=S=Q)  # end-state? 
 | (CAUSSOC) (APPL) (REGR) (PRNO) (V=S=REL) (V=S=Q)  # end-state? revise!!!
 ! a-n-kaa-ki-tz-imaint-ia-ro
-| (V=S=CL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-! 
-| (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
 | (DUR) STATUS (PRNO) 
 | (APPLREAS) (DUR) STATUS (PRNO) 
 | (PRF) STATUS (V=S=REL) (V=S=Q) 
@@ -410,7 +411,6 @@ define S [
 | (DIR) (PRF) STATUS (V=S=O) (PRNO) 
 | (REGR) STATUS (PRNO) 
 | STAT (V=S=REL) (V=S=Q)  # end-state? 
-| (V=S=CL) (PRF) STATUS (PRNO) 
 | (DIR) (PRF) STATUS (V=S=OPT) 
 | STATUS (PRNO) (V=S=OPT) 
 | (APPLINT) (ICPL) (REGR) STATUS (PRNO) 
@@ -550,9 +550,9 @@ define S [
 | (REV) (APPL) (APPLBEN) (DEXT) (FRUS) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLREF) (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
-| (S) NMZ # nominalization 
-| (REP) (S) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL)  
-| (S) (APPLINST) STAT (V=S=REL)  
+| (SENSORY) NMZ # nominalization 
+| (REP) (SENSORY) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL)  
+| (SENSORY) (APPLINST) STAT (V=S=REL)  
 
 !| (V=S=1SGposs) (DIST) 
 | (UNK1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 

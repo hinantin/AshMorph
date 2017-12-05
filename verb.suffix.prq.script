@@ -988,13 +988,13 @@ define POSN [ [EP V=S=POSN]|[V=S=POSN] ];
 ! kisaneentantatsiri / =kis -a -neent -ant -atsi -ri / =to.be.angry -ep -s -ep -appl.reas -stat -rel / EN: 'resentful'; ES: 'rencoroso' 
 ! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
 ! EN: 'sensory, sensorial'; ES: 'sensorial' 
-define V=S=S [
-  "[--][-nint+sensory][+S]" : "@EP"[{nint}] 
-| "[--][-nent+sensory][+S]" : "@EP"[{nent}] 
-| "[--][-neent+sensory][+S]" : "@EP"[{neent}] 
+define V=S=SENSORY [
+  "[--][-nint][+SENSORY]" : "@EP"[{nint}] 
+| "[--][-nent][+SENSORY]" : "@EP"[{nent}] 
+| "[--][-neent][+SENSORY]" : "@EP"[{neent}] 
 ];
                    
-define S [ [EP V=S=S]|[V=S=S] ];
+define SENSORY [ [EP V=S=S]|[V=S=S] ];
                    
 # ****************************************
                    
