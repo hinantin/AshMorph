@@ -994,7 +994,7 @@ define V=S=SENSORY [
 | "[--][-neent][+SENSORY]" : "@EP"[{neent}] 
 ];
                    
-define SENSORY [ [EP V=S=S]|[V=S=S] ];
+define SENSORY [ [EP V=S=SENSORY]|[V=S=SENSORY] ];
                    
 # ****************************************
                    
