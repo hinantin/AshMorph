@@ -6,16 +6,19 @@ define EP [
 
 # ****************************************
                    
-define V=S=PROG [
-  "[--][-atz][ASP][+PROG]" : "@EP"[{atz}] 
-| "[--][-atzi][ASP][+PROG]" : "@EP"[{atzi}] 
+define V=S=PROG=SET1 [
+  "[--][-atzi][ASP][+PROG]" : "@EP"[{atzi}] 
 | "[--][-atsi][ASP][+PROG]" : "@EP"[{atsi}] 
-| "[--][-aty][ASP][+PROG]" : "@EP"[{aty}]
 | "[--][-ati][ASP][+PROG]" : "@EP"[{ati}]
+];
+
+define V=S=PROG=SET2 [
+  "[--][-atz][ASP][+PROG]" : "@EP"[{atz}] 
+| "[--][-aty][ASP][+PROG]" : "@EP"[{aty}]
 | "[--][-atiy][ASP][+PROG]" : "@EP"[{atiy}]
 ];
                    
-define PROG [ [EP V=S=PROG]|[V=S=PROG] ];
+define PROG [ [EP V=S=PROG=SET1]|[V=S=PROG=SET1]|[EP V=S=PROG=SET2]|[V=S=PROG=SET2] ];
                    
 # ****************************************
                    

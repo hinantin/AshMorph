@@ -40,7 +40,7 @@ define ARootPRQin [
 ! 
 | "[=kapichahi][AdjRoot][=little]" : {kapichahi}
 ! 
-| "[=kenkivari+m.][AdjRoot][=old]" : {kenkivari} ! N@->V
+| "[=kenkivari+m.][AdjRoot][=old]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
 | "[=kenkevari+m.][AdjRoot][=old]" : {kenkevari} ! N@->V
 | "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari} ! N@->V
 | "[=kenkivaro+n.m.][AdjRoot][=old]" : {kenkivaro} ! N@->V

@@ -111,7 +111,7 @@ define NounToVerbPRQin [
 | "[=antaro+n.m.][AdjRoot][=big; mature]+vbz." : {antaro} ! N@->V
 | "[=antearo+n.m.][AdjRoot][=big; mature]+vbz." : {antearo} ! N@->V
 | "[=antyaro+n.m.][AdjRoot][=big; mature]+vbz." : {antyaro} ! N@->V
-| "[=kenkivari+m.][AdjRoot][=old]+vbz." : {kenkivari} ! N@->V
+| "[=kenkivari+m.][AdjRoot][=old]::[=to.get.old (male.ego; ES: envejecer)]+vbz." : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
 | "[=kenkevari+m.][AdjRoot][=old]+vbz." : {kenkevari} ! N@->V
 | "[=kinkivari+m.][AdjRoot][=old]+vbz." : {kinkivari} ! N@->V
 | "[=kenkivaro+n.m.][AdjRoot][=old]+vbz." : {kenkivaro} ! N@->V

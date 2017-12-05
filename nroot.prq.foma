@@ -1003,8 +1003,8 @@ define NRootPRQin [
 ! 
 # kamarankaantsi / =kamarankaa -ntsi / =vomit -nposs / EN: 'vomit', ES: 'vómito'  
 # iyamaranka / i- =kamaranka / 3m.poss- =vomit / EN: 'his.vomit', ES: 'su.vómito'  
-| "[=kamarankaa+inal.][NRoot][=vomit]" : {kamarankaa} 
-| "[=kamaranka+inal.][NRoot][=vomit]" : {kamaranka} 
+| "[=kamarankaa+inal@ntsi.][NRoot][=vomit (ES: vómito)]" : {kamarankaa} 
+| "[=kamaranka+inal@ntsi.][NRoot][=vomit (ES: vómito)]" : {kamaranka} 
 ! 
 | "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampi}
 | "[=kamaraNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamaranvi}
