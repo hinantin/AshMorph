@@ -9,7 +9,7 @@ define NRootPRQin [
 ! 
 | "[=aaniri+inal@ntsi.][NRoot][=orphan (ES: huérfano)]" : {aaniri} 
 ! 
-| "[=aapi+m.][NRoot][=elder, grandfather (kin.of.a.female)]" : {aapi} ! N@->V 
+| "[=aapi+m.+poss@ti.][NRoot][=elder, grandfather (kin.of.a.female, fem.ego)]" : {aapi} ! N@->V 
 ! 
 | "[=amai+n.m.][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amai} 
 ! 
@@ -2024,7 +2024,7 @@ define NRootPRQin [
 | "[=nyaniyo][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {nyaniyo}
 | "[=anio+n.m.+inal@ntsi.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {anio}
 | "[=aniro+n.m.+inal@ntsi.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {aniro}
-| "[=aniryo+n.m.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {aniryo}
+| "[=aniryo+n.m.+voc@1PL.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {aniryo}
 ! 
 | "[=niocho][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {niocho}
 | "[=mamantsiki][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {mamantsiki} ! mother as well ??
@@ -3724,6 +3724,10 @@ define NRootPRQin [
 | "[=txoshiki+poss@te.][NRoot][=necklace (PT: colar)]" : {txoshiki}
 ! 
 | "[=tya+poss@ni.][NRoot][=fabric]" : {tya}
+! 
+| "[=tyiitya+n.m.+poss@ti.][NRoot][=grandmother (male.ego)]" : {tyiitya}
+| "[=tyeetya+n.m.+poss@ti.][NRoot][=grandmother (male.ego)]" : {tyeetya}
+! 
 ! hen 
 | "[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]" : {tyaapa}
 | "[=tyapa+n.m.+poss@te.][NRoot][=hen; chicken]" : {tyapa}
@@ -3848,9 +3852,9 @@ define NRootPRQin [
 | "[=yaari+m.+poss@ri.][NRoot][=brother (kin.of.a.female)]" : {yaari}
 | "[=iyaari+m.+poss@ri.][NRoot][=brother (kin.of.a.female)]" : {iyaari}
 ! 
-| "[=yeeyi+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male; ES: hermano)]" : {yeeyi}
-| "[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male; ES: hermano)]" : {yeye}
-| "[=yiiyi+m.+poss@ti.][NRoot][=brother, cousin (kin.of.a.male; ES: hermano)]" : {yiiyi}
+| "[=yeeyi+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]" : {yeeyi}
+| "[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]" : {yeye}
+| "[=yiiyi+m.+poss@ti.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]" : {yiiyi}
 ! 
 | "[=yenka+n.m.+inal@ntsi.][NRoot][=fat (ES: manteca, grasa, cebo; aceite)]" : {yenka}
 | "[=yeenka+n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {yeenka}
