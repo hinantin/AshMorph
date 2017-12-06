@@ -89,7 +89,7 @@ define NounToVerbPRQin [
 | "[=tsitene][NRoot][=night (ES: noche)]::[=to.get.dark (ES: oscurecer, nochecer)]+vbz." : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, nochecer)] 
 | "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]::[=to.breastfeed (ES: mamar)]+vbz." : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
 | "[=tsome+inal.][NRoot][=breast, bosom]::[=to.breastfeed (ES: mamar)]+vbz." : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
-| "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]+vbz." : {tsomonte} ! N@->V 
+| "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]::[=to.be.pregnant (ES: estar.embarazada)]+vbz." : {tsomonte} ! N@->V::[=to.be.pregnant (ES: estar.embarazada)] 
 | "[=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]+vbz." : {viti} ! N@->V
 | "[=vitzi+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma); skin]+vbz." : {vitzi} ! N@->V
 | "[=ayompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo); short-distance.bartering.made.by.males (ES: trueque.de.corta.distancia)]::[=to.barter.sth. (ES: hacer.trueque)]+vbz." : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine

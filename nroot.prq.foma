@@ -1445,7 +1445,7 @@ define NRootPRQin [
 ! 
 | "[=konori][NRoot][=rubber]" : {konori}
 ! 
-| "[=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta}
+| "[=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta}
 | "[=akonta][NRoot][=heel]" : {akonta}
 ! 
 | "[=kontsavo][NRoot][=ruddy.quail-dove (ES: perdiz.pequeña; sci.nm.: geotrygon.montana)]" : {kontsavo}
@@ -1992,9 +1992,9 @@ define NRootPRQin [
 ! 
 # nitsi / =ni -tsi / =louse -nposs / EN: 'louse'  
 # noni / no- =ni / 1sg.poss- =louse / EN : 'my.louse'  
-| "[=ne+m.+inal.][NRoot][=louse (ES: piojo)]" : {ne}
-| "[=ni+m.+inal.][NRoot][=louse (ES: piojo)]" : {ni}
-| "[=heni+inal.][NRoot][=louse (ES: piojo)]" : {heni}
+| "[=ne+m.+inal@tsi.][NRoot][=louse (ES: piojo)]" : {ne}
+| "[=ni+m.+inal@tsi.][NRoot][=louse (ES: piojo)]" : {ni}
+| "[=heni+inal@tsi.][NRoot][=louse (ES: piojo)]" : {heni}
 ! 
 | "[=neronto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {neronto}
 | "[=nironto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]" : {nironto}
@@ -3834,8 +3834,8 @@ define NRootPRQin [
 ! 
 | "[=yampantsa+poss@te.][NRoot][=song]" : {yampantsa}
 ! 
-| "[=yaane+n.m.+inal.][NRoot][=bow, ballista]" : {yaane}
-| "[=yaani+n.m.+inal.][NRoot][=bow, ballista]" : {yaani}
+| "[=yaane+n.m.+inal@ntsi.][NRoot][=bow, ballista]" : {yaane}
+| "[=yaani+n.m.+inal@ntsi.][NRoot][=bow, ballista]" : {yaani}
 ! 
 | "[=yarato+poss@ti.][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yarato}
 | "[=yaarato+poss@ti.][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yaarato}
