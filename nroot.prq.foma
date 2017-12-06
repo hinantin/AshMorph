@@ -2330,6 +2330,7 @@ define NRootPRQin [
 ! 
 | "[=pankoshi+n.m.+inal.][NRoot][=hut, hovel (ES: choza.para.cazar.aves.salvajes)]" : {pankoshi} 
 ! 
+# obaante / ovaante / o- paante / 3n.m.poss- =mouth / EN: 'her.mouth'; ES: 'su.boca (de.ella)' 
 | "[=pante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {pante}
 | "[=paante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {paante}
 | "[=panti+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {panti}
@@ -3670,7 +3671,7 @@ define NRootPRQin [
 | "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]" : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
 | "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
 ! 
-| "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]" : {tsomonte} ! N@->V 
+| "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]" : {tsomonte} ! N@->V::[=to.be.pregnant (ES: estar.embarazada)] 
 | "[=tsomonte][NRoot][=bulge (ES: abdomen, barriga)]" : {tsomonte} 
 ! 
 | "[=tsonkiri+poss@ti.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]" : {tsonkiri}
