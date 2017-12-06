@@ -180,6 +180,8 @@ define NRootESin [
 ! 
 | "[=trigo][NRoot][=wheat]" : {tiriko}
 ! 
+| "[=domingo][NRoot][=Sunday]" : {tominko}
+! 
 | "[=trusa+NCFS000][NRoot][=underpants, underwear; shorts]" : {trusa} ! N@->V
 | "[=trusa+NCFS000+poss@te.][NRoot][=underpants, underwear; shorts]" : {torosa}
 ! 
