@@ -601,7 +601,7 @@ define CAUSSOC [ [EP V=S=CAUSSOC]|[V=S=CAUSSOC] ];
 # ****************************************
                    
 define V=S=APPLINST [
-  "[--][-ant][+APPL.INST]" : "@EP"[{ant}]
+  "[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]" : "@EP"[{ant}]
 ];
                    
 define APPLINST [ [EP V=S=APPLINST]|[V=S=APPLINST] ];
