@@ -121,6 +121,10 @@ define NRootPRQin [
 | "[=amempori+m.][NRoot][=vulture, condor; king.vulture (sarcoramphus.papa)]" : {amempori}
 | "[=amimpori+m.][NRoot][=vulture, condor; king.vulture (sarcoramphus.papa)]" : {amimpori}
 ! 
+| "[=ameeni+n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]" : {ameeni}
+| "[=amiini+n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]" : {amiini}
+| "[=amini+n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]" : {amini}
+! 
 | "[=amimiro][NRoot][=mule-like.devil]" : {amimiro}
 | "[=amimiroti][NRoot][=goat-like.devil]" : {amimiroti}
 ! 
@@ -1957,8 +1961,8 @@ define NRootPRQin [
 ! 
 | "[=naki][NRoot][=interior.space (ES: espacio.interior, hueco)]" : {naki}
 ! 
-| "[=nana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]" : {nana}
-| "[=naana+n.m.+voc.+poss@te.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]" : {naana}
+| "[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]" : {nana}
+| "[=naana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]" : {naana}
 ! 
 | "[=nanaeni+n.m.+voc.+poss@te.][NRoot][=aunt (kin.of.a.female)]" : {nanaeni} ! eni ??? 
 | "[=nanaine+n.m.+voc.+poss@te.][NRoot][=aunt (kin.of.a.female)]" : {nanaine}
