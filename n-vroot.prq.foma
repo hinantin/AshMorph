@@ -25,7 +25,7 @@ define NounToVerbPRQin [
 | "[=iintsi+n./m.][NRoot][=child]+vbz." : {iintsi} ! N@->V
 | "[=entsi+n./m.+poss@te.][NRoot][=child]+vbz." : {entsi} ! N@->V
 | "[=evankari+m.][NRoot][=young.man, adolescent]+vbz." : {evankari} ! N@->V
-| "[=hempeki][NRoot][=arm]::[=to.take.branches/firewood (ES: coger.ramas/leña); (ES: alcanzar.arriba.con.los.brazos)]+vbz." : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); (ES: alcanzar.arriba.con.los.brazos)]
+| "[=hempeki][NRoot][=arm (ES: brazo)]::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]+vbz." : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]
 | "[=horio+m.][NRoot][=jewish]+vbz." : {horio} ! N@->V
 | "[=horiiyo+m.][NRoot][=jewish]+vbz." : {horiiyo} ! N@->V
 | "[=sompo+inal.][NRoot][=tumor; boil (ES: tumor, chupo)]+vbz." : {sompo} ! N@->V 
