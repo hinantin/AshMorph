@@ -3725,8 +3725,8 @@ define NRootPRQin [
 ! 
 | "[=tya+poss@ni.][NRoot][=fabric]" : {tya}
 ! 
-| "[=tyiitya+n.m.+poss@ti.][NRoot][=grandmother (male.ego)]" : {tyiitya}
-| "[=tyeetya+n.m.+poss@ti.][NRoot][=grandmother (male.ego)]" : {tyeetya}
+| "[=tyiitya+n.m.+poss@ti.+voc@1SG.][NRoot][=grandmother (male.ego)]" : {tyiitya}
+| "[=tyeetya+n.m.+poss@ti.+voc@1SG.][NRoot][=grandmother (male.ego)]" : {tyeetya}
 ! 
 ! hen 
 | "[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]" : {tyaapa}
