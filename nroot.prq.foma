@@ -1409,9 +1409,9 @@ define NRootPRQin [
 | "[=koonkotzi][NRoot][=ringed.antpipit (sci.nm.: corythopis.torquata)]" : {koonkotzi}
 ! 
 # elbow
-| "[=konaki+n.m.+inal.][NRoot][=elbow (ES: codo)]" : {konaki}
-| "[=chonke+inal.][NRoot][=elbow (ES: codo)]" : {chonke}
-| "[=chonchoni+inal.][NRoot][=elbow (ES: codo)]" : {chonchoni}
+| "[=konaki+n.m.+inal@n/tsi.][NRoot][=elbow (ES: codo)]" : {konaki}
+| "[=chonke+inal@tsi.][NRoot][=elbow (ES: codo)]" : {chonke}
+| "[=chonchoni+inal@ntsi.][NRoot][=elbow (ES: codo)]" : {chonchoni}
 | "[=yenchona][NRoot][=elbow (ES: codo)]" : {yenchona}
 ! 
 | "[=konakonatzi][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konakonatzi}
@@ -2116,7 +2116,7 @@ define NRootPRQin [
 ! 
 | "[=onero][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {onero}
 ! 
-| "[=onika][NRoot][=region.where.it.trembles; earthquake]" : {onika}
+| "[=onika][NRoot][=region.where.it.trembles; earthquake (ES: temblor)]" : {onika}
 ! 
 | "[=onkama][NRoot][=controller.of.pooled_water/river_tide (ES: controlador.de.agua_empozada/marea_del_río)]" : {onkama}
 ! 
