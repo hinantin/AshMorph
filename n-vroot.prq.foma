@@ -88,8 +88,8 @@ define NounToVerbPRQin [
 | "[=tzinani+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tzinani} ! N@->V
 | "[=tsinãni+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tsinãni} ! N@->V
 | "[=tsitene][NRoot][=night (ES: noche)]::[=to.get.dark (ES: oscurecer, nochecer)]+vbz." : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, nochecer)] 
-| "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]::[=to.breastfeed (ES: mamar)]+vbz." : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
-| "[=tsome+inal.][NRoot][=breast, bosom]::[=to.breastfeed (ES: mamar)]+vbz." : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
+| "[=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)]+vbz." : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
+| "[=tsome+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)]+vbz." : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]::[=to.be.pregnant (ES: estar.embarazada)]+vbz." : {tsomonte} ! N@->V::[=to.be.pregnant (ES: estar.embarazada)] 
 | "[=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]+vbz." : {viti} ! N@->V
 | "[=vitzi+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma); skin]+vbz." : {vitzi} ! N@->V
