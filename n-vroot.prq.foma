@@ -57,8 +57,8 @@ define NounToVerbPRQin [
 | "[=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {menko} ! N@->V @VCMP 
 | "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]+vbz." : {minko} ! N@->V @VCMP 
 | "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]+vbz." : {moro} ! N@->V @CMP 
-| "[=motya][NRoot][=stomach, belly]+vbz." : {motya} ! N@->V
-| "[=moti+inal.][NRoot][=stomach, belly]+vbz." : {moti} ! N@->V 
+| "[=motya][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)]+vbz." : {motya} ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
+| "[=moti+inal.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)]+vbz." : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=oorya+m.][NRoot][=sun (ES: sol)]+vbz." : {oorya} ! N@->V
 | "[=oria+m.][NRoot][=sun (ES: sol)]::[=to.shine]+vbz." : {oria} ! N@->V::[=to.shine]
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)]+vbz." : {oventeni} ! N@->V

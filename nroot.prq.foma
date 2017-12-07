@@ -1944,15 +1944,15 @@ define NRootPRQin [
 | "[=motonka+poss@ni.][NRoot][=whirlpool (ES: remolino)]" : {motonka}
 ! 
 # tsinaro motsitsi / =tsinaro =motsi -tsi / =cricket =belly -nposs / EN: 'big_belly/paunchy.cricket', ES/QU: 'grillo.buchesapa'
-| "[=motsi+n.m.+inal.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motsi}
-| "[=motzi+n.m.+inal.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motzi}
+| "[=motsi+n.m.+inal@tsi.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motsi}
+| "[=motzi+n.m.+inal@tsi.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motzi}
 # nomotya / no- =motya / 1SG.poss- =belly / EN: 'my belly'
 # omotyate koya / o- =motya -t -e =koya / 3n.m.S- =belly -ep -irr =woman / EN: 'when a woman gets pregnant'
-| "[=motya][NRoot][=stomach, belly]" : {motya} ! N@->V
+| "[=motya][NRoot][=stomach, belly]" : {motya} ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=motia][NRoot][=stomach, belly]" : {motia}
 # omoti Shakinyi / o- =moti =Shakinyi / 3n.m.poss- =stomach =proper.name / 'Shakinyi's stomach' 
 # imoti eentsi / i- =moti =eentsi / 3m.poss- =stomach =child / 'a male.child's stomach' 
-| "[=moti+inal.][NRoot][=stomach, belly]" : {moti} ! N@->V 
+| "[=moti+inal.][NRoot][=stomach, belly]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 # nomotija / nomotiha / no- =motiha / 1sg.poss- =stomach / EN: 'my.stomach'; ES: 'mi.estómago' 
 | "[=motiha][NRoot][=stomach, belly (ES: estómago, abdomen)]" : {motiha}
 ! 
