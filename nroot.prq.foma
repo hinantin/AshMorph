@@ -93,9 +93,9 @@ define NRootPRQin [
 | "[=eeri][NRoot][=black.bee.sp.]" : {eeri} 
 | "[=aeri][NRoot][=black.bee.sp.]" : {aeri} 
 ! 
-| "[=asankane+n.m.+inal.][NRoot][=heart]" : {asankane}
-| "[=asankani+n.m.+inal.][NRoot][=heart]" : {asankani} 
-| "[=ahankane+n.m.+inal.][NRoot][=heart]" : {ahankane} 
+| "[=asankane+n.m.+inal@ntsi.][NRoot][=heart (ES: corazón)]" : {asankane}
+| "[=asankani+n.m.+inal@ntsi.][NRoot][=heart (ES: corazón)]" : {asankani} 
+| "[=ahankane+n.m.+inal@ntsi.][NRoot][=heart (ES: corazón)]" : {ahankane} 
 ! 
 | "[=akapa][NRoot][=avocado (botany.nm.: persea.americana)]" : {akapa} ! -pa
 ! 
@@ -114,11 +114,11 @@ define NRootPRQin [
 ! anaconda
 | "[=amaaro][NRoot][=anaconda, snake]" : {amaaro}
 ! 
-| "[=amatsaere+n.m.+inal.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsaere}
-| "[=amatsaire+n.m.+inal.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsaire}
-| "[=amatsairi+n.m.+inal.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsairi}
-| "[=amatseere+n.m.+inal.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatseere}
-| "[=amantsairi+inal.][NRoot][=crown; hat (ES: corona.(de.hombres), sobrero)]" : {amantsairi}
+| "[=amatsaere+n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsaere}
+| "[=amatsaire+n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsaire}
+| "[=amatsairi+n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsairi}
+| "[=amatseere+n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatseere}
+| "[=amantsairi+inal@ntsi.][NRoot][=crown; hat (ES: corona.(de.hombres), sobrero)]" : {amantsairi}
 !
 | "[=amempori+m.][NRoot][=vulture, condor; king.vulture (sarcoramphus.papa)]" : {amempori}
 | "[=amimpori+m.][NRoot][=vulture, condor; king.vulture (sarcoramphus.papa)]" : {amimpori}
@@ -3048,7 +3048,7 @@ define NRootPRQin [
 | "[=shempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro)]" : {shempa} ! @VCMP 
 | "[=sempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro)]" : {sempa}
 ! 
-| "[=sheno+n.m.+inal.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)]" : {sheno}
+| "[=sheno+n.m.+inal@tsi.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)]" : {sheno}
 ! 
 | "[=shenotsi+n.m.][NRoot][=goiter (ES: bocio)]" : {shenotsi}
 ! 
