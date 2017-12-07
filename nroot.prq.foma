@@ -1947,7 +1947,7 @@ define NRootPRQin [
 | "[=motsi+n.m.+inal@tsi.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motsi}
 | "[=motzi+n.m.+inal@tsi.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motzi}
 # nomotya / no- =motya / 1SG.poss- =belly / EN: 'my belly'
-# omotyate koya / o- =motya -t -e =koya / 3n.m.S- =belly -ep -irr =woman / EN: 'when a woman gets pregnant'
+# omotyate koya / o- =motya -t -e =koya / 3n.m.S- =belly+vbz. -ep -irr =woman / EN: 'when a woman gets pregnant'
 | "[=motya][NRoot][=stomach, belly]" : {motya} ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=motia][NRoot][=stomach, belly]" : {motia}
 # omoti Shakinyi / o- =moti =Shakinyi / 3n.m.poss- =stomach =proper.name / 'Shakinyi's stomach' 
@@ -3681,8 +3681,8 @@ define NRootPRQin [
 | "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
 | "[=inaro][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {inaro}
 ! 
-| "[=tsomi+inal.][NRoot][=breast, bosom (ES: teta)]" : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
-| "[=tsome+inal.][NRoot][=breast, bosom]" : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
+| "[=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]" : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
+| "[=tsome+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]" : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
 ! 
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]" : {tsomonte} ! N@->V::[=to.be.pregnant (ES: estar.embarazada)] 
 | "[=tsomonte][NRoot][=bulge (ES: abdomen, barriga)]" : {tsomonte} 
