@@ -20,9 +20,12 @@ define P=2 [
 | "[oimin=][AGT.CAUS+][--]" : {oimin}
 ! nominkyaakemiro / n- omin= =ky -a -ak -e -mi -ro / 1sg.a- agt.caus =to.enter -ep -prf -irr -2sg.o -3n.m.o / ES: 'te.la.introduzco'  
 | "[omin=][AGT.CAUS+][--]" : {omin}
+! roimishitoyeeteri / r- oimi= =shito -yee -t -e -ri /  
 | "[oimi=][AGT.CAUS+][--]" : {oimi}
+! naaka nomishitoye intatzikeronta / =naaka *** n- =omi =shito -ye *** =intatzikeronta / =I *** 1sg.s- agt.caus= =to.leave -irr *** =outside / ES: 'yo.salgo.para.afuera'
 | "[omi=][AGT.CAUS+][--]" : {omi}
-| "[ov=][AGT.CAUS+][--]" : {ov}"@AGTCAUS@" ! yobatiyakero -> y-ov=katiy-ak-e-ro
+! yobatiyakero / y- ov= =katiy -ak -e -ro
+| "[ov=][AGT.CAUS+][--]" : {ov}"@AGTCAUS@" 
 | "[v=][AGT.CAUS+][--]" : {v}"@AGTCAUS@"
 | "[vi=][AGT.CAUS+][--]" : {vi}
 ];

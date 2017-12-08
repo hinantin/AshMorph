@@ -1441,9 +1441,14 @@ define VRootPRQin [
 | "[=shitzik][VRoot][=to.sew.sth, to.tie.sth.]" : {shitzik}
 | "[=shirik][VRoot][=to.sew.sth, to.tie.sth.]" : {shirik}
 ! 
-| "[=shitov][VRoot][=to.leave]" : {shitov}
-| "[=shitov][VRoot][=to.escape]" : {shitov}
+! shitowaantsi / shitovaantsi / =shitov -aantsi / =to.leave -inf / EN: 'to.leave' 
+! shitoaantsi / shitoaantsi / =shito -aantsi / =to.leave -inf / EN: 'to.leave' 
+| "[=shitov][VRoot][=to.leave (ES: salir); to.escape]" : {shitov}
+! roimishitoyeeteri / r- oimi= =shito -yee -t -e -ri /  
+| "[=shito][VRoot][=to.leave (ES: salir); to.escape]" : {shito}
+! 
 | "[=shitov][VRoot][=to.grow]" : {shitov}
+! 
 | "[=shitzik][VRoot][=to.weave]" : {shitzik}
 ! 
 | "[=shiy][VRoot][=to.be.like, to.be.similar, to.resemble]" : {shiy}
