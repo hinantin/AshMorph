@@ -155,8 +155,9 @@ TZEpenthesisRule8
       define NVowelRestr1 [ ["@NVowel@"] => {n} _ [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}] ]; ! n, p should be omitted ? 
       define PersPrefixRestr1 [ Cons => .#. ~[[{h}|{n}|{p}|{r}]"@VPERS@"] _ ];
       define PersPrefixRestr2 [ [{o}] => .#. ~[[{pi}]"@VPERS@"] _ ]; 
+      define NORestr1 [ [{o}] => .#. ~[[{n}]"@AGT.CAUS@"] _ ]; # no examples available, but it causes a lot of overgeneration that's why it should be regulated  
       
-      define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 .o. PersPrefixRestr2 ] ; 
+      define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 .o. PersPrefixRestr2 .o. NORestr1 ] ; 
 
       source vroot.prq.foma
       source vroot.es.foma

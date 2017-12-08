@@ -9,9 +9,10 @@ define P=2 [
 | "[mi=][M.CAUS+][--]" : {mi}
 | "[min=][M.CAUS+][--]" : {min}
 # -----AGENTIVE CAUSATIVE--------
-| "[o=][AGT.CAUS+][--]" : {o}
+| "[o=][AGT.CAUS+][--]" : "@AGT.CAUS@"{o}
 | "[oi=][AGT.CAUS+][--]" : {oi}
 | "[om=][AGT.CAUS+][--]" : {om}
+! yoimiraakeri / y- oim- =ir -aak -e -ri / ES: 'hacer.llorar.(a.él)' 
 | "[oim=][AGT.CAUS+][--]" : {oim}
 | "[oimin=][AGT.CAUS+][--]" : {oimin}
 ! nominkyaakemiro / n- omin- =ky -a -ak -e -mi -ro / 1sg.a- agt.caus =to.enter -ep -prf -irr -2sg.o -3n.m.o / ES: 'te.la.introduzco'  
