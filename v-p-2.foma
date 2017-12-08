@@ -9,7 +9,7 @@ define P=2 [
 | "[mi=][M.CAUS+][--]" : {mi}
 | "[min=][M.CAUS+][--]" : {min}
 # -----AGENTIVE CAUSATIVE--------
-| "[o=][AGT.CAUS+][--]" : {o}"@AGTCAUS@"
+| "[o=][AGT.CAUS+][--]" : "@AGTCAUS@"{o}
 | "[oi=][AGT.CAUS+][--]" : {oi}
 | "[om=][AGT.CAUS+][--]" : {om}
 ! yoimiraakeri / y- oim- =ir -aak -e -ri / ES: 'hacer.llorar.(a.él)' 
