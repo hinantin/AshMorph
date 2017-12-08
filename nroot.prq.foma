@@ -3231,7 +3231,7 @@ define NRootPRQin [
 ! 
 # shitashintsi / =shitashi -ntsi / =mat -nposs / EN: 'mat'; ES: 'estera' 
 # ishitashi / i- =shitasi / 3m.poss- =mat /  EN: 'his.mat'; ES: 'su.estera.de.él' 
-| "[=shitashi+n.m.+inal.][NRoot][=mat (ES: estera)]" : {shitashi}
+| "[=shitashi+n.m.+inal@ntsi.][NRoot][=mat (ES: estera)]" : {shitashi}
 | "[=shitatsi][NRoot][=mat (ES: estera)]" : {shitatsi}
 ! 
 | "[=shitashiki+n.m.][NRoot][=wild.plant; herb.sp. (used.for.washing)]" : {shitashiki}
@@ -3261,7 +3261,7 @@ define NRootPRQin [
 ! 
 | "[=shichari+m.][NRoot][=worm; ant.sp.]" : {shichari}
 ! 
-| "[=shivahaniki][NRoot][=Peruvian.anchoveta; fish.sp.]" : {shivahaniki}
+| "[=shivahaniki][NRoot][=small.Peruvian.anchoveta-fish (ES: anchoveta.pequeña); fish.sp.]" : {shivahaniki}
 ! 
 | "[=shivarityoki][NRoot][=wild.passion_fruit.sp. (ES: granadilla.silvestre)]" : {shivarityoki}
 # ishivanki: his.wing.without.feathers, his.featherless.wing 
