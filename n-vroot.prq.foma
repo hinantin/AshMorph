@@ -75,7 +75,7 @@ define NounToVerbPRQin [
 | "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {sheri} ! N@->V
 | "[=seri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {seri} ! N@->V
 | "[=shirampari+m.][NRoot][=man; male (ES: hombre)]+vbz." : {shirampari} ! N@->V
-| "[=shitamenko+inal@tsi.][NRoot][=dais (ES: tarima)]::[= (ES: emponar.algo (p.ej.: una.casa))]+vbz." : {shitamenko} ! N@->V::[= (ES: emponar.algo (p.ej.: una.casa))] 
+| "[=shitamenko+inal@tsi.][NRoot][=dais (ES: tarima.(hecha.de.pona))]::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))]+vbz." : {shitamenko} ! N@->V::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))] 
 | "[=shitsa][NRoot][=vine; string.like; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]+vbz." : {shitsa} ! N@->V 
 | "[=vaNki][NRoot][=feather (ES: pluma); wing_feather]+vbz." : {vanki} ! @CMP N@->V 
 | "[=taki+n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]+vbz." : {taki} ! N@->V 
