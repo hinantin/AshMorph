@@ -1835,8 +1835,8 @@ define NRootPRQin [
 | "[=menki+n.m.+inal@tsi.][NRoot][=partly-burned.stick (ES: tizón)]" : {menki}
 | "[=minki+n.m.+inal@tsi.][NRoot][=partly-burned.stick (ES: tizón)]" : {minki}
 ! 
-| "[=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
-| "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V @VCMP 
+| "[=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
+| "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 !| "[=menko+n.m.+inal@tzi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} 
 ! 
 | "[=mentaro+n.m.][NRoot][=tree.sp.]" : {mentaro}
