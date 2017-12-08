@@ -777,10 +777,10 @@ define NRootPRQin [
 | "[=kinashi+n.m.][NRoot][=pituca-like.herb.sp.]" : {kinashi}
 | "[=kenashi+n.m.][NRoot][=pituca-like.herb.sp.]" : {kenashi}
 ! 
-| "[=kevo+n.m.+inal.][NRoot][=hammock]" : {kevo}
-| "[=kivo+n.m.+inal.][NRoot][=hammock]" : {kivo}
-| "[=veomento+inal.][NRoot][=hammock]" : {veomento}
-| "[=yao][NRoot][=hammock]" : {yao}
+| "[=kevo+n.m.+inal@tsi.][NRoot][=hammock (ES: hamaca)]" : {kevo}
+| "[=kivo+n.m.+inal@tsi.][NRoot][=hammock (ES: hamaca)]" : {kivo}
+| "[=veomento+inal@tsi.][NRoot][=hammock (ES: hamaca)]" : {veomento}
+| "[=yao][NRoot][=hammock (ES: hamaca)]" : {yao}
 ! 
 | "[=kirinka][NRoot][=down.river, downstream (ES: río.abajo), central.part.of.the.jungle]" : {kirinka}
 ! 
@@ -2450,8 +2450,8 @@ define NRootPRQin [
 ! 
 | "[=pitchoyotzi][NRoot][=yellow-backed.tanager (sci.nm.: hemithraupis.flavicollis)]" : {pitchoyotzi}
 ! 
-| "[=pini+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pini}
-| "[=pinii+n.m.+inal.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pinii}
+| "[=pini+n.m.+inal@tsi.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pini}
+| "[=pinii+n.m.+inal@tsi.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pinii}
 ! 
 | "[=pihonkare+n.m.+inal@ntsi.][NRoot][=lung (ES: pulmones)]" : {pihonkare}
 | "[=piyonkare+n.m.+inal@ntsi.][NRoot][=lung (ES: pulmones)]" : {piyonkare}
@@ -2865,8 +2865,8 @@ define NRootPRQin [
 ! 
 | "[=shimiro+n.m.][NRoot][=tree.sp.with.a.spicy.bark]" : {shimiro}
 ! 
-| "[=shimore+n.m.+inal.][NRoot][=saliva, spit(tle); foam (ES: espuma)]" : {shimore}
-| "[=shimori+n.m.+inal.][NRoot][=saliva, spit(tle)]" : {shimori}
+| "[=shimore+n.m.+inal@ntsi.][NRoot][=saliva, spit(tle) (ES: saliva); foam (ES: espuma)]" : {shimore}
+| "[=shimori+n.m.+inal@ntsi.][NRoot][=saliva, spit(tle) (ES: saliva)]" : {shimori}
 ! 
 | "[=shimpana+n.m.][NRoot][=tree.sp.]" : {shimpana}
 ! 
@@ -3535,7 +3535,7 @@ define NRootPRQin [
 ! 
 | "[=tsairo][NRoot][=black-fronted.nunbird (sci.nm.: monasa.nigrifrons)]" : {tsairo}
 ! 
-! sentry: thaquitsi / tsakitsi / =tsaki -tsi / =waist -nposs / EN: 'waist'  
+! SRC: thaquitsi / tsakitsi / =tsaki -tsi / =waist -nposs / EN: 'waist'  
 | "[=tsaki+n.m.+inal@tsi.][NRoot][=waist (ES: cintura)]" : {tsaki} 
 ! 
 | "[=tsantsa][NRoot][=long (in.length; ES: largo); big]" : {tsantsa} ! N@->V @CMP
