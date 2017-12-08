@@ -2973,10 +2973,10 @@ define NRootPRQin [
 | "[=santoma+n.m.][NRoot][=rubber.tree]" : {santoma}
 | "[=santonka+n.m.][NRoot][=rubber.tree (ES: caucho)]" : {santonka}
 | "[=santonka+m.][NRoot][=rubber.tree; rubber; tatoo.made.with.rubber.charcoal]" : {santonka}
-| "[=satonkaari+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaari}
-| "[=satonkaare+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaare}
-| "[=satonkaaro+inal.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaaro}
-| "[=satonkaro+inal.][NRoot][=tatoo.made.with.rubber.charcoal]" : {satonkaro}
+| "[=satonkaari+m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaari}
+| "[=satonkaare+m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaare}
+| "[=satonkaaro+n.m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaaro}
+| "[=satonkaro+n.m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaro}
 | "[=santonkaaro][NRoot][=tatoo.made.with.rubber.charcoal]" : {santonkaaro}
 ! 
 | "[=santero][NRoot][=red-bellied.macaw (sci.nm.: ara.manilata)]" : {santero}
@@ -3268,13 +3268,13 @@ define NRootPRQin [
 | "[=vaNki][NRoot][=feather (ES: pluma); wing_feather]" : {vanki} ! @CMP N@->V 
 | "[=paNki][NRoot][=feather (ES: pluma)]" : {panki} 
 ! 
-| "[=shivi+n.m.+inal.][NRoot][=penis]" : {shivi}
+| "[=shivi+n.m.+inal@tsi.][NRoot][=penis (ES: pene)]" : {shivi}
 ! 
 | "[=shivitsa][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species]" : {shivitsa}
 ! 
 | "[=sona+m.][NRoot][=oncilla, tigrillo]" : {sona} 
 ! 
-| "[=sonki+n.m.+inal.][NRoot][=kidney (ES: riñón)]" : {sonki}
+| "[=sonki+n.m.+inal@tsi.][NRoot][=kidney(s) (ES: riñón)]" : {sonki}
 ! 
 | "[=sontoki][NRoot][=wide.open.eye]" : {sontoki}
 ! 
