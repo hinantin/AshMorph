@@ -1916,7 +1916,8 @@ define NRootPRQin [
 ! 
 | "[=mitiri][NRoot][=dusky-headed.parakeet (sci.nm.: aratinga.weddelli)]" : {mitiri}
 ! 
-| "[=moito+n.m.+inal.][NRoot][=navel (ES: ombligo)]" : {moito}
+| "[=moito+n.m.+inal@n/tsi.][NRoot][=navel (ES: ombligo)]" : {moito}
+| "[=moeto+n.m.+inal@ntsi.][NRoot][=navel (ES: ombligo)]" : {moeto}
 ! 
 | "[=moimoitzi][NRoot][=smooth-billed.ani (sci.nm.: crotophaga.ani)]" : {moimoitzi}
 ! 
@@ -1959,7 +1960,7 @@ define NRootPRQin [
 | "[=motia][NRoot][=stomach, belly]" : {motia}
 # omoti Shakinyi / o- =moti =Shakinyi / 3n.m.poss- =stomach =proper.name / 'Shakinyi's stomach' 
 # imoti eentsi / i- =moti =eentsi / 3m.poss- =stomach =child / 'a male.child's stomach' 
-| "[=moti+inal.][NRoot][=stomach, belly]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
+| "[=moti+inal@tsi.][NRoot][=stomach, belly]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 # nomotija / nomotiha / no- =motiha / 1sg.poss- =stomach / EN: 'my.stomach'; ES: 'mi.estómago' 
 | "[=motiha][NRoot][=stomach, belly (ES: estómago, abdomen)]" : {motiha}
 ! 
