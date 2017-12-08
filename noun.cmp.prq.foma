@@ -32,7 +32,7 @@ define NRootCmpPRQin [
 | "[--][=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {sheya} ! @CMP 
 | "[--][=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {shiya} ! @CMP 
 | "[--][=shaa+n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurague)]" : {shaa} ! @CMP 
-| "[--][=vaNki][NRoot][=feather (ES: pluma); wing_feather]" : {vanki} ! @CMP N@->V 
+| "[--][=vaNki][NRoot][=feather (ES: pluma); wing_feather]" : {vanki} ! @CMP N@->V::[=to.be.winged (ES: tener.alas)] 
 | "[--][=taapi+inal@ntsi.][NRoot][=back (body.part); bottom; lower.side]" : {taapi} ! @CMP
 | "[--][=tapi+inal@ntsi.][NRoot][=back (body.part); bottom; lower.side]" : {tapi} ! @CMP
 | "[--][=tapii+inal@ntsi.][NRoot][=back (body.part); bottom; lower.side]" : {tapii} ! @CMP

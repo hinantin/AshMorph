@@ -77,7 +77,7 @@ define NounToVerbPRQin [
 | "[=shirampari+m.][NRoot][=man; male (ES: hombre)]+vbz." : {shirampari} ! N@->V
 | "[=shitamenko+inal@tsi.][NRoot][=dais (ES: tarima.(hecha.de.pona))]::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))]+vbz." : {shitamenko} ! N@->V::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))] 
 | "[=shitsa][NRoot][=vine; string.like; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]+vbz." : {shitsa} ! N@->V 
-| "[=vaNki][NRoot][=feather (ES: pluma); wing_feather]+vbz." : {vanki} ! @CMP N@->V 
+| "[=vaNki][NRoot][=feather (ES: pluma); wing_feather]::[=to.be.winged (ES: tener.alas)]+vbz." : {vanki} ! @CMP N@->V::[=to.be.winged (ES: tener.alas)] 
 | "[=taki+n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]+vbz." : {taki} ! N@->V 
 | "[=tomi+m.+inal@tsi.][NRoot][=son (kin.of.fe/male)]+vbz." : {tomi} ! N@->V 
 | "[=tsantsa][NRoot][=long (in.length; ES: largo); big]+vbz." : {tsantsa} ! N@->V @CMP
