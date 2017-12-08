@@ -16,7 +16,7 @@ define N=S=poss [
 ! 
 # tsitsi / =tsitsi / =firewood / EN: 'firewood', ES: 'leña'
 # otsima / =tsi -ma / =firewood -aln.poss. / EN: 'her.firewood', ES: 'su.leña'
-| "[--][-ma][Gen][+aln.poss.]" : {ma}
+| "[--][<*-ma][Gen][+aln.poss.]" : {ma}
 ];
       
 ! DEM.NOM: Nominal demonstrative
@@ -689,3 +689,4 @@ define N=S=EXPECT [
 
 # aln.poss.		alienably possessed 
 # alien.		alienator 
+# <*			less used 

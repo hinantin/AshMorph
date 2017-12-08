@@ -2355,8 +2355,8 @@ define NRootPRQin [
 ! 
 | "[=pantyo+m.][NRoot][=wild.duck.sp. (ES: pato); least.grebe (sci.nm.: podiceps.dominicus)]" : {pantyo}
 ! 
-| "[=pantsa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsa}
-| "[=pantsaa+n.m.+inal.+poss@ne.][NRoot][=song, anthem]" : {pantsaa}
+| "[=pantsa+n.m.+inal@ntsi.+poss@ne:ni.][NRoot][=song (ES: canción, canto), anthem (ES: himno)]" : {pantsa}
+| "[=pantsaa+n.m.+inal@ntsi.+poss@ne:ni.][NRoot][=song (ES: canción, canto), anthem (ES: himno)]" : {pantsaa}
 ! 
 | "[=paranta][NRoot][=band-tailed.manakin (sci.nm.: pipra.fascicauda)]" : {paranta}
 ! otter, lobo.marino??? 
@@ -2882,10 +2882,10 @@ define NRootPRQin [
 | "[=shirenti][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña)]" : {shirenti}
 | "[=shirentzi][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña)]" : {shirentzi}
 ! 
-| "[=shovire+n.m.+inal.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shovire}
-| "[=shoviri+n.m.+inal.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shoviri}
-| "[=shiyovire+n.m.+inal.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shiyovire}
-| "[=shiovire+n.m.+inal.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shiovire}
+| "[=shovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shovire}
+| "[=shoviri+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shoviri}
+| "[=shiyovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shiyovire}
+| "[=shiovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shiovire}
 ! 
 | "[=shomoNtsi][NRoot][=person's.name]" : {shomontsi} ! shomõtsi
 ! 
