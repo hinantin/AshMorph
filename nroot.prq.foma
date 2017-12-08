@@ -2003,7 +2003,7 @@ define NRootPRQin [
 | "[=navireri][NRoot][=person's.name]" : {navireri}
 | "[=naviriri][NRoot][=person's.name]" : {naviriri}
 ! 
-| "[=nehi+inal.][NRoot][=chest]" : {nehi} ! @VCMP 
+| "[=nehi+inal@tsi.][NRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
 ! 
 # nitsi / =ni -tsi / =louse -nposs / EN: 'louse'  
 # noni / no- =ni / 1sg.poss- =louse / EN : 'my.louse'  
@@ -2158,8 +2158,8 @@ define NRootPRQin [
 ! 
 | "[=pane+poss@tsi.][NRoot][=dust (ES: polvo)]" : {pane}
 ! 
-| "[=paretsa+n.m.+inal.][NRoot][=tree.root (ES: raíz)]" : {paretsa}
-| "[=paritsa+n.m.+inal.][NRoot][=tree.root (ES: raíz)]" : {paritsa}
+| "[=paretsa+n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paretsa}
+| "[=paritsa+n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paritsa}
 ! 
 | "[=ponchakirontzi][NRoot][=arrow.with.three-tips (ES: flecha.que.tiene.tres.puntas)]" : {ponchakirontzi}
 | "[=ponchakirontsi][NRoot][=arrow.with.three-tips (ES: flecha.que.tiene.tres.puntas)]" : {ponchakirontsi}
@@ -2340,15 +2340,15 @@ define NRootPRQin [
 ! 
 | "[=panaropa][NRoot][=wild.papaya (ES: papaya.silvestre)]" : {panaropa}
 ! 
-| "[=panka+inal.][NRoot][=forehead (ES: frente); flat.shape (ES: forma.plana)]" : {panka}
-| "[=pankaina+inal.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
+| "[=panka+inal@tsi.][NRoot][=forehead (ES: frente); flat.shape (ES: forma.plana)]" : {panka}
+| "[=pankaina+inal@tsi.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
 ! 
 | "[=panki][NRoot][=plank, long.narrow.flat.piece.of.wood]" : {panki}
 ! 
 | "[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)]" : {panko} ! @CMP
 | "[=pãko+n.m.+inal@tsi.][NRoot][=house (ES: casa)]" : {pãko} ! @CMP
 ! 
-| "[=pankoshi+n.m.+inal.][NRoot][=hut, hovel (ES: choza.para.cazar.aves.salvajes)]" : {pankoshi} 
+| "[=pankoshi+n.m.+inal@ntsi.][NRoot][=hut, hovel (ES: choza.para.cazar.aves.salvajes)]" : {pankoshi} 
 ! 
 # obaante / ovaante / o- paante / 3n.m.poss- =mouth / EN: 'her.mouth'; ES: 'su.boca (de.ella)' 
 | "[=pante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {pante}
