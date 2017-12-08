@@ -33,7 +33,7 @@ define V=S=LEN=noun [
 | "[--][=poro+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
 | "[--][=voro][NRoot][=face (ES: cara, rostro)]" : {voro} ! @VCMP 
 | "[--][=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
-| "[--][=shempa+n.m.+inal.][NRoot][=shoulder (ES: hombro)]" : {shempa} ! @VCMP 
+| "[--][=shempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro)]" : {shempa} ! @VCMP 
 | "[--][=shire+n.m.+inal@tsi.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire} ! @VCMP
 | "[--][=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsome} ! @VCMP
 | "[--][=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsomi} ! @VCMP
