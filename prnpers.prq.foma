@@ -90,7 +90,7 @@ define PrnPersPRQin [
 | "[=arori+cntr.add.l.][PrnPers][+1PL.INCL.][= (ES: nosotros)]" : {arori}
 | "[=aroori+cntr.add.l.][PrnPers][+1PL.INCL.]" : {aroori}
 | "[=aroori+cntr.add.l.][PrnPers][+1PL.INCL.][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
-| "[=aro][PrnPers][+1PL.INCL.][=we][--][-hei][Num][+PL]::[--][-hei][Num][+PL]::[--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
+| "[=aro][PrnPers][+1PL.INCL.][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
 # -------------------------------------------------------------------
 # -t-ak-i 
 | "[=naakataki+cntr.exh.l.+foc.][PrnPers][+1SG][=I.am.the.one.(who)]" : {naakataki} ! FOC 
