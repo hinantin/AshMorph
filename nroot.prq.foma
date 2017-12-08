@@ -3344,8 +3344,8 @@ define NRootPRQin [
 ! 
 | "[=tankotsa][NRoot][=leg]" : {tankotsa}
 ! 
-| "[=tanta][NRoot][=bread; from.Quechua.t'anta]" : {tanta} 
-| "[=tantaa][NRoot][=bread; from.Quechua.t'anta]" : {tantaa} 
+| "[=tanta+n.m.][NRoot][=bread (ES: pan; QU: t'anta)]" : {tanta} 
+| "[=tantaa+n.m.][NRoot][=bread (ES: pan; QU: t'anta)]" : {tantaa} 
 ! 
 | "[=tantotsi][NRoot][=corral (ES: cerca); wall (ES: pared)]" : {tantotsi}
 ! 
