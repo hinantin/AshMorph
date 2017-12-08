@@ -20,6 +20,8 @@ define V=S=PROG=SET2 [
                    
 define PROG [ [EP V=S=PROG=SET1]|[V=S=PROG=SET1]|[EP V=S=PROG=SET2]|[V=S=PROG=SET2] ];
                    
+define PROG=SET1 [ [EP V=S=PROG=SET1]|[V=S=PROG=SET1] ];
+                   
 # ****************************************
                    
 define V=S=PRNO=SET1 [

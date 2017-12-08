@@ -359,7 +359,7 @@ define S [
 # | (PROG) (PRNO)  # end-state? revise!!!
 # nokenkibaritati / nokenkivaritati / no- =kenkivari -t -ati / ES: 'estoy.envejeciendo'
 # namanantati / n- =amanan -t -ati / ES: 'estoy.comprando'
-| V=S=PROG=SET1 
+| PROG=SET1 
 | (DIR) (PRF) STATUS (V=S=OPT) 
 | (APPLPRES) STATUS (V=S=O) (PRNO) (V=S=OPT) 
 | (APPLINT) (DIR) (PRF) STATUS (PRNO) 

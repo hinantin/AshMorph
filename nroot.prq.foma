@@ -1796,6 +1796,8 @@ define NRootPRQin [
 | "[=masanka][NRoot][=bland (ES: insípido, sin.gusto)]" : {masanka}
 | "[=masankari][NRoot][=bland (ES: insípido, sin.gusto)]" : {masankari}
 ! 
+| "[=masavire+inal@ntsi.][NRoot][=sweat (ES: sudor)]" : {masavire}
+! 
 | "[=mavo+m.][NRoot][=earthworm.sp. (ES: sp.de.gusano); insect]" : {mavo}
 | "[=maavo+m.][NRoot][=earthworm.sp. (ES: sp.de.gusano); insect]" : {maavo}
 ! 
@@ -2499,7 +2501,7 @@ define NRootPRQin [
 ! 
 | "[=pirimpiritzi][NRoot][=orange-bellied.euphonia (sci.nm.: euphonia.xantogaster)]" : {pirimpiritzi}
 ! 
-| "[=pirotsonke+n.m.][NRoot][=manioc/yucca.sp.]" : {pirotsonke}
+| "[=pirotsonke+n.m.][NRoot][=manioc/yucca.sp. (ES: sp.de.yuca)]" : {pirotsonke}
 ! 
 | "[=piro+n.m.+inal@tsi.][NRoot][=scar (ES: cicatriz); stain.in.skin (ES: mancha.de.la.piel)]" : {piro}
 ! 
@@ -2556,7 +2558,7 @@ define NRootPRQin [
 ! 
 | "[=pityotsi][NRoot][=proper.name]" : {pityotsi}
 ! 
-| "[=pito+n.m.+inal.+poss@ni.][NRoot][=canoe]" : {pito}
+| "[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)]" : {pito}
 ! 
 | "[=pitoka][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta, xanthosoma.sagittifolium.Schott.)]" : {pitoka}
 | "[=pitoso][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta)]" : {pitoso}
@@ -2570,7 +2572,7 @@ define NRootPRQin [
 ! 
 | "[=pitsi+m.][NRoot][=beehive; honey]" : {pitsi}
 ! 
-| "[=pitsire+inal.][NRoot][=dirtiness]" : {pitsire} ! novitsire / no- =pitsire / 1sg.poss- =dirtiness
+| "[=pitsire+inal@ntsi.][NRoot][=dirtiness (ES: suciedad)]" : {pitsire} ! novitsire / no- =pitsire / 1sg.poss- =dirtiness
 ! 
 | "[=pitsitsiro+m.][NRoot][=rice-eating.thrush.sp., bird.sp. (ES: arrosero, arrocero, tordito); variable.seedeater (sci.nm.: sporohila.americana); rice.bird]" : {pitsitsiro}
 ! 
