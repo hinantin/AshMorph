@@ -9,13 +9,16 @@ define P=2 [
 | "[mi=][M.CAUS+][--]" : {mi}
 | "[min=][M.CAUS+][--]" : {min}
 # -----AGENTIVE CAUSATIVE--------
+! noitakeri / n- o= =i -t -ak -e =ri / EN: "I'll.make.him.drink"
 | "[o=][AGT.CAUS+][--]" : "@AGTCAUS@"{o}
 | "[oi=][AGT.CAUS+][--]" : {oi}
 | "[om=][AGT.CAUS+][--]" : {om}
-! yoimiraakeri / y- oim- =ir -aak -e -ri / ES: 'hacer.llorar.(a.él)' 
+! yoimiraakeri / y- oim= =ir -aak -e -ri / ES: 'hacer.llorar.(a.él)' 
 | "[oim=][AGT.CAUS+][--]" : {oim}
+! noiminkiakero / ES: 'le.he.insertado' 
+! oiminkiantsi / ES: 'insertar' 
 | "[oimin=][AGT.CAUS+][--]" : {oimin}
-! nominkyaakemiro / n- omin- =ky -a -ak -e -mi -ro / 1sg.a- agt.caus =to.enter -ep -prf -irr -2sg.o -3n.m.o / ES: 'te.la.introduzco'  
+! nominkyaakemiro / n- omin= =ky -a -ak -e -mi -ro / 1sg.a- agt.caus =to.enter -ep -prf -irr -2sg.o -3n.m.o / ES: 'te.la.introduzco'  
 | "[omin=][AGT.CAUS+][--]" : {omin}
 | "[oimi=][AGT.CAUS+][--]" : {oimi}
 | "[omi=][AGT.CAUS+][--]" : {omi}
