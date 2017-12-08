@@ -772,8 +772,8 @@ define NRootPRQin [
 ! 
 ! kejitsi / kehitsi / =kehi -tsi / =fat -nposs / EN: 'fat'; ES: 'grasa' 
 ! ireji / irehi / ir- =ehi / 3m.poss- =fat / EN: 'his.fat'; ES: 'su.grasa' 
-| "[=kehi+inal.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {kehi}
-| "[=ehi+inal.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {ehi}
+| "[=kehi+inal@tsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {kehi}
+| "[=ehi+inal@tsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {ehi}
 ! 
 | "[=kinashi+n.m.][NRoot][=pituca-like.herb.sp.]" : {kinashi}
 | "[=kenashi+n.m.][NRoot][=pituca-like.herb.sp.]" : {kenashi}
@@ -2253,8 +2253,8 @@ define NRootPRQin [
 | "[=ovai+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovai}
 | "[=yorini][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {yorini}
 ! 
-| "[=ovanaro+n.m.+inal.][NRoot][=staple.food, necessity.good]" : {ovanaro}
-| "[=ovanavo+n.m.+inal.][NRoot][=staple.food, necessity.good]" : {ovanavo}
+| "[=ovanaro+n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good]" : {ovanaro}
+| "[=ovanavo+n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good]" : {ovanavo}
 ! 
 | "[=ovaatzi+m.][NRoot][=weasel-like.animal.sp. (ES: omairo)]" : {ovaatzi}
 | "[=vaatzi+m.][NRoot][=weasel-like.animal.sp. (ES: omairo)]" : {vaatzi}
@@ -2394,11 +2394,11 @@ define NRootPRQin [
 ! 
 | "[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]" : {pavachori}
 ! 
-| "[=paviro+n.m.+inal.][NRoot][=bridge]" : {paviro}
-| "[=pampeero+n.m.+inal.][NRoot][=bridge]" : {pampeero}
-| "[=pampiaro+n.m.+inal.][NRoot][=bridge]" : {pampiaro}
-| "[=pampyaaro+n.m.+inal.][NRoot][=bridge]" : {pampyaaro}
-| "[=pampyaavo+n.m.+inal.][NRoot][=bridge]" : {pampyaavo}
+| "[=paviro+n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {paviro}
+| "[=pampeero+n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {pampeero}
+| "[=pampiaro+n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {pampiaro}
+| "[=pampyaaro+n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {pampyaaro}
+| "[=pampyaavo+n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {pampyaavo}
 ! 
 | "[=pamoro+m.][NRoot][=dove.sp.; band-tailed.pigeon (sci.nm.: columba.fasciata)]" : {pamoro}
 | "[=pamoo+m.][NRoot][=dove.sp.; band-tailed.pigeon (sci.nm.: columba.fasciata)]" : {pamoo}
@@ -2441,9 +2441,9 @@ define NRootPRQin [
 | "[=paroto+n.m.][NRoot][=tree.sp. (ES: topa)]" : {paroto}
 | "[=paato+n.m.][NRoot][=tree.sp. (ES: topa)]" : {paato}
 ! 
-| "[=pashikaro+n.m.+inal.][NRoot][=thick.woollen_blanket (ES: frazada)]" : {pashikaro}
-| "[=pashikaro+n.m.+inal.][NRoot][=blanket (ES: colcha, cobija)]" : {pashikaro}
-| "[=pashikavo+n.m.+inal.][NRoot][=blanket (ES: colcha, cobija)]" : {pashikavo}
+| "[=pashikaro+n.m.+inal@ntsi.][NRoot][=thick.woollen_blanket (ES: frazada)]" : {pashikaro}
+| "[=pashikaro+n.m.+inal@ntsi.][NRoot][=blanket (ES: colcha, cobija)]" : {pashikaro}
+| "[=pashikavo+n.m.+inal@ntsi.][NRoot][=blanket (ES: colcha, cobija)]" : {pashikavo}
 ! 
 | "[=payari+m.][NRoot][=fish.sp.]" : {payari}
 ! 

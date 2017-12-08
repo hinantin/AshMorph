@@ -21,8 +21,8 @@ define V=S=LEN=noun [
 | "[--][=kintsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]" : {kintsi} ! @VCMP 
 | "[--][=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
 | "[--][=kirii][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
-| "[--][=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! N@->V @VCMP 
-| "[--][=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! N@->V @VCMP 
+| "[--][=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
+| "[--][=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[--][=mereki+n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
 | "[--][=mironta][NRoot][=flat (ES: plano)]" : {mironta} ! @VCMP 
 | "[--][=meronta][NRoot][=flat (ES: plano)]" : {meronta} ! @VCMP 
