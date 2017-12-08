@@ -925,7 +925,8 @@ define NRootPRQin [
 | "[=tsivo+n.m.][NRoot][=box.made.out.of.split_cane (ES: maleta, caja.hecha.de.caña.brava)]" : {tsivo}
 | "[=tsivoo+n.m.][NRoot][=box.made.out.of.split_cane (ES: maleta, caja.hecha.de.caña.brava)]" : {tsivoo}
 ! 
-| "[=tsova+n.m.+inal.][NRoot][=bird's.beak; palm.tip]" : {tsova}
+! SRC: thovatsi / 
+| "[=tsova+n.m.+inal@tsi.][NRoot][=bird's.beak (ES: pico.de.ave); palm.tip (ES: punta.de.palmera)]" : {tsova}
 ! 
 | "[=itzi+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {itzi}
 | "[=iitzi+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {iitzi}
@@ -3251,9 +3252,10 @@ define NRootPRQin [
 | "[=shitoovi+n.m.][NRoot][=edible.mushroom (ES: hongo)]" : {shitoovi}
 ! 
 | "[=shitsa][NRoot][=vine; string.like; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]" : {shitsa} ! N@->V 
-! 
-| "[=shitsane+m.+inal.][NRoot][=pinworm, intestinal.worm (ES: lombríz.intestinal)]" : {shitsane}
-| "[=shitsani+m.+inal.][NRoot][=pinworm, intestinal.worm (ES: lombríz.intestinal)]" : {shitsani}
+!
+! ishitsanetatiya / ES: 'él.está.con.bicho' 
+| "[=shitsane+m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]" : {shitsane} ! N@->V::[=to.have.intestinal.worms (ES: estar.con.bicho)] 
+| "[=shitsani+m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]" : {shitsani}
 ! 
 | "[=shitzivari][NRoot][=solitary.black.cacique (sci.nm.: cacicus.solitarius)]" : {shitzivari}
 ! 
@@ -3366,13 +3368,13 @@ define NRootPRQin [
 | "[=tasorinka][NRoot][=power]" : {tasorinka}
 | "[=tasorinka][NRoot][=blessing]" : {tasorinka}
 ! 
-| "[=tavakore+n.m.+inal.][NRoot][=roasted.yucca.with.peel]" : {tavakore} 
-| "[=tavakori+n.m.+inal.][NRoot][=roasted.yucca.with.peel]" : {tavakori} 
+| "[=tavakore+n.m.+inal@ntsi.][NRoot][=roasted.yucca.with.peel (ES: yuca.sin.pelar.asada)]" : {tavakore} 
+| "[=tavakori+n.m.+inal@ntsi.][NRoot][=roasted.yucca.with.peel (ES: yuca.sin.pelar.asada)]" : {tavakori} 
 ! 
-| "[=tasori+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tasori} 
-| "[=tajore+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tajore} 
-| "[=tasore+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tasore} 
-| "[=tazore+m.+inal.][NRoot][=god, saint, sacred; great.spirit]" : {tazore} 
+| "[=tasori+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tasori} 
+| "[=tajore+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tajore} 
+| "[=tasore+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tasore} 
+| "[=tazore+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tazore} 
 | "[=tasorentsi+m.+inal.+poss@te.][NRoot][=god, saint, sacred; great.spirit]" : {tasorentsi} 
 | "[=tsorentsi][NRoot][=god, saint, sacred]" : {tsorentsi}
 | "[=tsorintsi][NRoot][=god, saint, sacred]" : {tsorintsi}
@@ -3629,8 +3631,8 @@ define NRootPRQin [
 ! 
 | "[=tsioni][NRoot][=bearded.guan (ES: guan.barbado; sci.nm.: aburria.aburri)]" : {tsioni} 
 ! 
-| "[=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP 
-| "[=tsipana+n.m.][NRoot][=leaf]" : {tsipana} ! @VCMP @CMP 
+| "[=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
+!| "[=tsipana+n.m.][NRoot][=leaf]" : {tsipana} ! @VCMP @CMP 
 ! 
 | "[=tsipato+m.][NRoot][=horse-fly.sp. (ES: tábano)]" : {tsipato}
 ! 
