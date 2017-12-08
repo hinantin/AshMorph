@@ -3393,8 +3393,9 @@ define NRootPRQin [
 | "[=tempo+m.][NRoot][=mojarra-fish.sp.]" : {tempo}
 | "[=timpo+m.][NRoot][=mojarra-fish.sp.]" : {timpo}
 ! 
-| "[=tene+n.m.+inal.][NRoot][=breast, bosom]" : {tene}
-| "[=teni+n.m.+inal.][NRoot][=breast, bosom]" : {teni}
+| "[=tene+n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {tene}
+| "[=teni+n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {teni}
+| "[=tini+n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {tini}
 ! 
 | "[=tenki+inal@tsi.][NRoot][=fish-fin (ES: aleta.de.pez); bird-tail (ES: cola.de.ave)]" : {tenki}
 | "[=tinki+inal@tsi.][NRoot][=fish-fin (ES: aleta.de.pez); bird-tail (ES: cola.de.ave)]" : {tinki}
