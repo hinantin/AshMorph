@@ -3535,7 +3535,8 @@ define NRootPRQin [
 ! 
 | "[=tsairo][NRoot][=black-fronted.nunbird (sci.nm.: monasa.nigrifrons)]" : {tsairo}
 ! 
-| "[=tsaki+n.m.+inal.][NRoot][=waist]" : {tsaki}
+! sentry: thaquitsi / tsakitsi / =tsaki -tsi / =waist -nposs / EN: 'waist'  
+| "[=tsaki+n.m.+inal@tsi.][NRoot][=waist (ES: cintura)]" : {tsaki} 
 ! 
 | "[=tsantsa][NRoot][=long (in.length; ES: largo); big]" : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length; ES: largo)]" : {santsa} ! N@->V @CMP
