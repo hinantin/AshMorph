@@ -3111,8 +3111,8 @@ define NRootPRQin [
 ! 
 !| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shi}
 ! 
-| "[=shimiri+inal.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
-| "[=shimirinchi][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimirinchi} ! misspelled?
+| "[=shimiri+inal@ntsi.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
+| "[=shimiri+inal@nchi.][NRoot][=person.from.ethnic.group.Piro/Yine][--][-nchi][]" : {shimirinchi} ! misspelled? it is not misspelled it uses the -nchi dialectal variation for the nposs suffix.
 ! 
 | "[=shimoto+m.][NRoot][=worm.sp. (inhabits.decomposed.tree.trunks; ES: sp.de.gusano), black.locust.sp.]" : {shimoto}
 ! 

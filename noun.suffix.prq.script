@@ -87,11 +87,14 @@ define N=S=ABS [
 | "[--][-rintsi][Gen][+nposs]" : "@NPOSS"[{rintsi}] 
 | "[--][-rontsi][Gen][+nposs]" : "@NPOSS"[{rontsi}] 
 | "[--][-vontsi][Gen][+nposs]" : "@NPOSS"[{vontsi}] 
+! 
 | "[--][-tsi+alien.][Gen][+nposs]" : "@NPOSS"[{tsi}] 
 | "[--][-tzi+alien.][Gen][+nposs]" : "@NPOSS"[{tzi}] 
 | "[--][-ntsi+alien.][Gen][+nposs]" : "@NPOSS"[{ntsi}] 
 | "[--][-ntzi+alien.][Gen][+nposs]" : "@NPOSS"[{ntzi}] 
 | "[--][-nti+alien.][Gen][+nposs]" : "@NPOSS"[{nti}] 
+! 
+| "[--][<*-nchi+alien.][Gen][+nposs]" : "@NPOSS"[{nchi}] 
 ];
       
 define N=S=CL [
