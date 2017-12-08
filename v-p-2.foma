@@ -9,7 +9,7 @@ define P=2 [
 | "[mi=][M.CAUS+][--]" : {mi}
 | "[min=][M.CAUS+][--]" : {min}
 # -----AGENTIVE CAUSATIVE--------
-| "[o=][AGT.CAUS+][--]" : "@AGT.CAUS@"{o}
+| "[o=][AGT.CAUS+][--]" : {o}"@AGTCAUS@"
 | "[oi=][AGT.CAUS+][--]" : {oi}
 | "[om=][AGT.CAUS+][--]" : {om}
 ! yoimiraakeri / y- oim- =ir -aak -e -ri / ES: 'hacer.llorar.(a.él)' 
@@ -19,8 +19,8 @@ define P=2 [
 | "[omin=][AGT.CAUS+][--]" : {omin}
 | "[oimi=][AGT.CAUS+][--]" : {oimi}
 | "[omi=][AGT.CAUS+][--]" : {omi}
-| "[ov=][AGT.CAUS+][--]" : {ov}"@AGT.CAUS@" ! yobatiyakero -> y-ov=katiy-ak-e-ro
-| "[v=][AGT.CAUS+][--]" : {v}"@AGT.CAUS@"
+| "[ov=][AGT.CAUS+][--]" : {ov}"@AGTCAUS@" ! yobatiyakero -> y-ov=katiy-ak-e-ro
+| "[v=][AGT.CAUS+][--]" : {v}"@AGTCAUS@"
 | "[vi=][AGT.CAUS+][--]" : {vi}
 ];
 

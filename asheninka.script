@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGT.CAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -97,7 +97,7 @@ TZEpenthesisRule8
 #.o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
 #.o. CleanUpEpenthesisRule6 ];
       
-      define VCausativeAgentiveRule [ v"@AGT.CAUS@"k (->) v"@AGT.CAUS@" || [{o}] _ [{a}] ]; 
+      define VCausativeAgentiveRule [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{o}] _ [{a}] ]; 
       define CausativeAgentive [VCausativeAgentiveRule]; 
 
       ##########################
@@ -155,9 +155,9 @@ TZEpenthesisRule8
       define NVowelRestr1 [ ["@NVowel@"] => {n} _ [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}] ]; ! n, p should be omitted ? 
       define PersPrefixRestr1 [ Cons => .#. ~[[{h}|{n}|{p}|{r}]"@VPERS@"] _ ];
       define PersPrefixRestr2 [ [{o}] => .#. ~[[{pi}]"@VPERS@"] _ ]; 
-      define NORestr1 [ [{o}] => .#. ~[[{n}]"@AGT.CAUS@"] _ ]; # no examples available, but it causes a lot of overgeneration that's why it should be regulated  
+      define NORestr1 [ [{o}] => .#. ~[[{n}]"@AGTCAUS@"] _ ]; # no examples available, but it causes a lot of overgeneration that's why it should be regulated  
       
-      define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 .o. PersPrefixRestr2 .o. NORestr1 ] ; 
+      define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 .o. PersPrefixRestr2 ] ; 
 
       source vroot.prq.foma
       source vroot.es.foma
