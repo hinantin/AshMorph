@@ -54,7 +54,7 @@ define NounToVerbPRQin [
 | "[=maashi+n.m.+inal@ntsi.][NRoot][=nest]::[=to.build/construct.a.nest (ES: construir.nido)]+vbz." : {maashi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=menkoshi+n.m.+inal@n/tsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]+vbz." : {menkoshi} ! N@->V
 | "[=minkoshi+n.m.+inal@ntsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]+vbz." : {minkoshi} ! N@->V
-| "[=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)]+vbz." : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
+| "[=menko+n.m.+inal@tsi:tzi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)]+vbz." : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)]+vbz." : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]+vbz." : {moro} ! N@->V @CMP 
 | "[=motya][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)]+vbz." : {motya} ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
