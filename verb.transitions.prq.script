@@ -40,7 +40,7 @@ define S [
 | (DIR) (PRF) STATUS 
 | (DIR) (PRF) STATUS (PRNO) 
 | (IMPP) STATUS (V=S=O) (PRNO) (V=S=NEG) 
-| (ADV) (V=S=EXCL) # end state? 
+#| (ADV) (V=S=EXCL) # end state? revise!!!
 | (CAUSSOC) (PRF) STATUS (PRNO) 
 | STATUS (V=S=REL) (V=S=Q) 
 | STAT (V=S=REL) (V=S=Q) # end-state? 
@@ -593,5 +593,10 @@ define S [
 
 # impaikakotaitajiri / i-m-paik-ako-t-ai-t-aj-i-ri 
 | (APPL) (IMPP) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+
+# piyajanave! / ES: '¡Ya he vuelto!' 
+# te osaavateve! / 'no está caliente, oh!' 
+| (REGR) (DIR) STATUS (V=S=EXCL) 
+
 ];
 

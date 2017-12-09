@@ -64,6 +64,8 @@ define NegPRQin [
 # conditional negative realis
 | "[=te][Neg][=NEG.REAL][--][-rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {terika}
 | "[=tee][Neg][=NEG.REAL][--][-rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {teerika}
+! 
+| "[=te][Neg][=NEG.REAL][--][-ve][+EXCL]" : {teve}
 # 
 | "[=te][Neg][=NEG.REAL][--][-teeme][+CERTAINTY]" : {teteeme}
 # 
