@@ -594,9 +594,17 @@ define S [
 # impaikakotaitajiri / i-m-paik-ako-t-ai-t-aj-i-ri 
 | (APPL) (IMPP) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 
+# tenave! / EN: 'it weighed a lot!' 
 # piyajanave! / ES: '¡Ya he vuelto!' 
 # te osaavateve! / 'no está caliente, oh!' 
 | (REGR) (DIR) STATUS (V=S=EXCL) 
-
+# katsikitakinave! / ES: '¡me dolía mucho!' 
+# shinkitakave / ES: '¡Se embriagó!' 
+| (ICPL) (PRF) STATUS (V=S=O) (V=S=EXCL) 
+# ikantanakave / ES: 'se puso muy ...'
+| (DIR) (PRF) STATUS (V=S=EXCL) 
+# piyojeetakave! / EN: 'were brought_in/piled_up ...' 
+# piyojeetapakave! / EN: 'so many gathered!' 
+| (PL) (DIR) (PRF) STATUS (V=S=EXCL) 
 ];
 

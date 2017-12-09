@@ -371,9 +371,11 @@ TZEpenthesisRule8
       #    Personal Pronoun    #
       #                        #
       ##########################
+      
+      # irirove! / =iriro -ve / =iriro+cont.d.top. -excl 
       source prnpers.prq.foma
         define PrnPersPRQ PrnPersPRQin;
-      define Personal [ [PrnPersPRQ] [(N=S=EMPH)|(N=S=PL)|(V=S=COND)] ];
+      define Personal [ [PrnPersPRQ] [(N=S=EMPH)|(N=S=PL)|(V=S=COND)|(V=S=EXCL)] ];
 
       #################################
       #                               #

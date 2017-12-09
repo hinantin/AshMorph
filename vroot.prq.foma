@@ -1549,7 +1549,8 @@ define VRootPRQin [
 | "[=tekaatsi][VRoot][=there.is.not, there.are.not]" : {tekaatsi}
 | "[=teekatsi][VRoot][=there.is.not, there.are.not]" : {teekatsi}
 ! 
-| "[=tena][VRoot][=to.weigh, to.be.heavy]" : {tena}
+| "[=tena][VRoot][=to.weigh; to.be.heavy]" : {tena}
+| "[=ten][VRoot][=to.weigh; to.be.heavy]" : {ten}
 !| "[=tena][VRoot][=to.be.heavy]" : {tena}
 !| "[=tenari][VRoot][=be.heavy.ADJ]" : {tenari}
 ! 
