@@ -1583,7 +1583,8 @@ define NRootPRQin [
 | "[=machaa][NRoot][=big-bean.plant.sp.]" : {machaa}
 | "[=machaki][NRoot][=big.bean (frijol.grande, botany.id.: canavalia.sp.)]" : {machaki}
 | "[=machai][NRoot][=big-bean.plant.sp. (ES: frejol)]" : {machai}
-| "[=machaaki][NRoot][=big.bean (frijol.grande, botany.id.: canavalia.sp.)]" : {machaaki}
+| "[=machaaki][NRoot][=big.bean (ES: frijol.grande, botany.id.: canavalia.sp.; PT: feijão.peruano)]" : {machaaki}
+| "[=matxaaki][NRoot][=big.bean (ES: frijol.grande, botany.id.: canavalia.sp.; PT: feijão.peruano)]" : {matxaaki}
 ! 
 | "[=macheroki][NRoot][=plant.sp. (achotillo.leche)]" : {macheroki}
 ! 
@@ -2915,6 +2916,7 @@ define NRootPRQin [
 ! 
 | "[=sanko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {sanko}
 | "[=sankoo+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {sankoo}
+| "[=sãko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale; PT: cana.de.açúcar)]" : {sãko}
 | "[=hanko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {hanko}
 | "[=shanko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {shanko}
 ! 
