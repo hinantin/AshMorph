@@ -1141,9 +1141,9 @@ define NRootPRQin [
 ! 
 | "[=kataroshi][NRoot][=herb.sp.]" : {kataroshi}
 ! 
-| "[=katsariki+inal.][NRoot][=testicle]" : {katsariki}
-| "[=katsarike+inal.][NRoot][=testicle]" : {katsarike}
-| "[=katsareki+inal.][NRoot][=testicle]" : {katsareki}
+| "[=katsariki+inal@ntsi.][NRoot][=testicle (ES: testículo)]" : {katsariki}
+| "[=katsarike+inal@ntsi.][NRoot][=testicle (ES: testículo)]" : {katsarike}
+| "[=katsareki+inal@ntsi.][NRoot][=testicle (ES: testículo)]" : {katsareki}
 ! 
 | "[=katsaro+m.][NRoot][=fish.sp.; zungaro-fish (ES: sp.de.sùngaro)]" : {katsaro}
 ! 
@@ -1304,8 +1304,8 @@ define NRootPRQin [
 ! 
 | "[=kiriki][NRoot][=classical.harpoon-like.arrow_tip (ES: punta.de.flecha.hecha.de.chonta)]" : {kiriki}
 ! 
-| "[=kiri+n.m.+inal.][NRoot][=nose; nostrils]" : {kiri}
-| "[=kirina+inal.][NRoot][=nose]" : {kirina}
+| "[=kiri+n.m.+inal@tsi.][NRoot][=nose; nostrils]" : {kiri}
+| "[=kirina+inal@tsi.][NRoot][=nose]" : {kirina}
 | "[=kirimashi][NRoot][=nose]" : {kirimashi}
 ! 
 | "[=kiriiki+m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriiki}
@@ -1639,7 +1639,7 @@ define NRootPRQin [
 | "[=mampiitsi+m.][NRoot][=insect.sp. (ES: isango, sp.de.insecto)]" : {mampiitsi}
 | "[=mampiritsi+m.][NRoot][=insect.sp. (ES: isango, sp.de.insecto)]" : {mampiritsi}
 ! 
-| "[=mampo+n.m.+inal.][NRoot][=tenderness (ES: blandura)]" : {mampo}
+| "[=mampo+n.m.+inal@tsi.][NRoot][=tenderness (ES: blandura)]" : {mampo}
 ! 
 | "[=manaasavo+m.][NRoot][=land.turtle.sp. (ES: motelo, tortuga.terrestre)]" : {manaasavo}
 ! 
@@ -1675,7 +1675,7 @@ define NRootPRQin [
 # rubbed.onto.the.area.where.the.broken.bone.is,wrapped.with.leaves,and.tightly.tied.with.vines
 | "[=marisaro+n.m.][NRoot][=plant.sp. (ES: nudo.nudo)]" : {marisaro}
 ! 
-| "[=mantsaki+inal.][NRoot][=cushma]" : {mantsaki}
+| "[=mantsaki+inal@ntsi.][NRoot][=cushma (ES: ropa, cushma)]" : {mantsaki}
 ! 
 # nomapikitakero / no- =mapi -ki -t-ak -e -ro / 1sg.a- =stone -cl:small,round -ep -prf -irr -3n.m.o / EN: 'fixing.pebbles/sinker-like_pebbles.in.sth. (i.e.: a.fish_trap)', ES: 'fijar piedrecitas/guijarros en algo (por ejemplo: en la red)'
 | "[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
