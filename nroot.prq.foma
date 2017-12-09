@@ -1483,7 +1483,7 @@ define NRootPRQin [
 ! 
 | "[=koriti+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koriti} ! ?
 | "[=koritzi+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritzi}
-| "[=kori+n.m.+inal.+poss@te.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {kori} ! noyorite 'my sweet potato'
+| "[=kori+n.m.+inal@tsi.+poss@te.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {kori} ! noyorite 'my sweet potato'
 | "[=koricha+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koricha}
 | "[=koritya+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritya}
 ! 
@@ -2644,8 +2644,8 @@ define NRootPRQin [
 # novochokine / no- =pochoki -ne / 1sg.poss- =dream -nposs / EN: 'my.dream', ES: 'mi.sueño' 
 | "[=pochoki+poss@ne.][NRoot][=dream]" : {pochoki} 
 ! 
-| "[=poe][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus)]" : {poe}
-| "[=poi][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus)]" : {poi}
+| "[=poe][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus; PT: batata.doce)]" : {poe}
+| "[=poi][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus; PT: batata.doce)]" : {poi}
 ! 
 | "[=poiritzi+m.][NRoot][=blue-crowned.manakin (sci.nm.: pipra.coronata); elusive.small_bird.sp. (ES: sp.de.pajarito.esquivo)]" : {poiritzi} ! Poirkzi ???
 ! 
