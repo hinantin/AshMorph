@@ -1659,9 +1659,10 @@ define NRootPRQin [
 ! 
 | "[=mankori][NRoot][=scarlet-rumped.cacique (sci.nm.: cacicus.uropygialis)]" : {mankori}
 ! 
-| "[=mare+n.m.+inal.][NRoot][=wristband]" : {mare}
-| "[=omare+n.m.+inal.][NRoot][=wristband]" : {omare}
-| "[=mari+n.m.+inal.][NRoot][=wristband]" : {mari}
+| "[=mare+n.m.+inal@n/tsi.][NRoot][=wristband (ES: pulsera)]" : {mare}
+| "[=omare+n.m.+inal@ntsi.][NRoot][=wristband (ES: pulsera)]" : {omare}
+| "[=omari+n.m.+inal@ntsi.][NRoot][=wristband (ES: pulsera)]" : {omari}
+| "[=mari+n.m.+inal@tsi.][NRoot][=wristband (ES: pulsera)]" : {mari}
 ! 
 | "[=mari][NRoot][=black-capped.antshrike (sci.nm.: tamnophilus.aethiops)]" : {mari}
 ! 
@@ -1880,17 +1881,18 @@ define NRootPRQin [
 | "[=meshaa+n.m.][NRoot][=tree.sp. (capirona)]" : {meshaa}
 | "[=mishaa+n.m.][NRoot][=tree.sp. (capirona)]" : {mishaa}
 ! 
-| "[=meshina+n.m.+inal.][NRoot][=skin, animal.leather]" : {meshina}
+| "[=meshina+n.m.+inal@ntsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {meshina}
+| "[=mishina+n.m.+inal@ntsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {mishina}
 ! 
 | "[=Metaro][NRoot][=village's.name, Flat, rounded.slightly.curved.area]" : {metaro}
 | "[=Metraro][NRoot][=village's.name, rounded.slightly.curved.area]" : {metraro}
 | "[=Metararo][NRoot][=village's.name, rounded.slightly.curved.area]" : {metararo}
 ! 
-| "[=meshiki+n.m.+inal.][NRoot][=wart, verruca]" : {meshiki}
-| "[=mishiki+n.m.+inal.][NRoot][=wart, verruca]" : {mishiki}
+| "[=meshiki+n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {meshiki}
+| "[=mishiki+n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {mishiki}
 ! 
-| "[=minkori][NRoot][=cloud (ES: nube)]" : {minkori}
-| "[=menkori][NRoot][=cloud (ES: nube)]" : {menkori}
+| "[=minkori+n.m.][NRoot][=cloud (ES: nube)]" : {minkori}
+| "[=menkori+n.m.][NRoot][=cloud (ES: nube)]" : {menkori}
 ! 
 | "[=minka+inal@tsi.][NRoot][=trunk (ES: tronco); stem; sturdy.material/substance]" : {minka}
 | "[=minkaa+inal@tsi.][NRoot][=trunk (ES: tronco); stem]" : {minkaa}
