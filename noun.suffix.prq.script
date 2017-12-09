@@ -605,6 +605,8 @@ define N=S=EMPH [
 | "[--][-kea][+EMPH_ASSERT]" : [{kea}] 
 | "[--][-ka][+EMPH_ASSERT]" : [{ka}] 
 | "[--][-ha][+EMPH_ASSERT]" : [{ha}]
+! 
+| "[--][-tya][+EMPH]" : [{tya}]
 ];
       
 define N=S=smallpart [

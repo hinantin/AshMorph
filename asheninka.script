@@ -372,7 +372,8 @@ TZEpenthesisRule8
       #                        #
       ##########################
       
-      # irirove! / =iriro -ve / =iriro+cont.d.top. -excl 
+      # irirove! / =iriro -ve / =iriro+cont.d.top. -ve / =he -excl  
+      # irooritya / =iroori -tya / =iroori+cntr.add.l.+foc. -tya / =she -emph  
       source prnpers.prq.foma
         define PrnPersPRQ PrnPersPRQin;
       define Personal [ [PrnPersPRQ] [(N=S=EMPH)|(N=S=PL)|(V=S=COND)|(V=S=EXCL)] ];
