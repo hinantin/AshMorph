@@ -120,7 +120,6 @@ define S [
 | (APPLINT) STATUS (PRNO) 
 | (REP) (CAUSSOC) STATUS (PRNO) 
 | STATUS (PRNO) 
-| (PL) STATUS (V=S=EXCL) 
 | (DIR) (REGR) STATUS (V=S=O) (PRNO) 
 | (CAUSSOC) (APPLREAS) (DIST) (DIR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (CAUSSOC) (APPLREAS) (DIST) (DIR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=PLcircumfixing) 
@@ -568,7 +567,6 @@ define S [
 # inkimoshirewentajeitanteariri / i=N-kimoshire-went-a-hei-t-ant-ea-ri-ri 
 | (APPLBEN) (PL) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (MIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) ! ompoh-ak-i-na-vi 
 | (RCP) (CAUSSOC) (HAB) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=PLcircumfixing)  
 | (HAB) (PRF) STATUS (V=S=O) (PRNO) (V=S=DUB)  
 | (RCP) (CAUSSOC) (REGR) STAT (V=S=REL)  
@@ -594,6 +592,9 @@ define S [
 # impaikakotaitajiri / i-m-paik-ako-t-ai-t-aj-i-ri 
 | (APPL) (IMPP) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 
+# ompoh-ak-i-na-vi 
+| (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
+| (PL) STATUS (V=S=EXCL) 
 # tenave! / EN: 'it weighed a lot!' 
 # piyajanave! / ES: '¡Ya he vuelto!' 
 # te osaavateve! / 'no está caliente, oh!' 

@@ -51,23 +51,29 @@ define DIST [ [EP V=S=DIST]|[V=S=DIST] ];
                    
 # ****************************************
                    
-define V=S=DIR [
+define V=S=DIR=SET1 [
 # 
   "[--][-av+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{av}] 
 | "[--][-aav+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{aav}] 
+];
+
+define V=S=DIR=SET2 [
 # ablative case
 # 1) inchoative (INCH): beginning of a new state.
 # 2) inceptive (INCEP): beginning of a new action.
 # 3) continuing action in a series of the actor's activities.
-| "[--][-an+source][Adv][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]" : "@EP"[{an}] 
+  "[--][-an+source][Adv][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]" : "@EP"[{an}] 
+];
+
+define V=S=DIR=SET3 [
 # allative 'adlativo' case
 # 1) indicates the final phase of an action/state.
 # iporekapaake aka / i- =porek -ap -aak -e ** =aka+proximal.b. / 3m.s- =to.shine -dir[on.arrival] -prf -irr ** =here / EN: 'they.arrive.here.like.flashes.of.lightning; lit.: they.shine.on.arrival.here'; ES: 'aquí llegan.como.destellos.de.relampago'
-| "[--][-ap+goal][Adv][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{ap}]
+  "[--][-ap+goal][Adv][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{ap}]
 | "[--][-apa+goal][Adv][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{apa}]
 ];
                    
-define DIR [ [EP V=S=DIR]|[V=S=DIR] ];
+define DIR [ [EP V=S=DIR=SET1]|[V=S=DIR=SET1]|[EP V=S=DIR=SET2]|[V=S=DIR=SET2]|[EP V=S=DIR=SET3]|[V=S=DIR=SET3] ];
                    
 # ****************************************
                    
