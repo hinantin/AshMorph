@@ -1696,7 +1696,7 @@ define NRootPRQin [
 | "[=mashero+m.][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio)]" : {mashero}
 ! 
 # omashi shinki / ES: 'cáscara.de.maíz' 
-| "[=mashi+inal@tsi.][NRoot][=skin (ES: cáscara)]" : {mashi}
+| "[=mashi+inal@tsi.][NRoot][=skin (ES: cáscara; piel)]" : {mashi}
 ! 
 | "[=matsontsori][NRoot][=jaguar (ES: tigrillo; sci.nm.: leopardus.pardalis, Leopardus.wiedii)]" : {matsontsori}
 # Toads 
@@ -1842,7 +1842,7 @@ define NRootPRQin [
 | "[=menki+n.m.+inal@tsi.][NRoot][=partly-burned.stick (ES: tizón)]" : {menki}
 | "[=minki+n.m.+inal@tsi.][NRoot][=partly-burned.stick (ES: tizón)]" : {minki}
 ! 
-| "[=menko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
+| "[=menko+n.m.+inal@tsi:tzi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 !| "[=menko+n.m.+inal@tzi.][NRoot][=platform (ES: plataforma), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} 
 ! 
@@ -1887,7 +1887,7 @@ define NRootPRQin [
 | "[=meshaa+n.m.][NRoot][=tree.sp. (capirona)]" : {meshaa}
 | "[=mishaa+n.m.][NRoot][=tree.sp. (capirona)]" : {mishaa}
 ! 
-| "[=meshina+n.m.+inal@ntsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {meshina}
+| "[=meshina+n.m.+inal@n/tsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {meshina}
 | "[=mishina+n.m.+inal@ntsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {mishina}
 ! 
 | "[=Metaro][NRoot][=village's.name, Flat, rounded.slightly.curved.area]" : {metaro}

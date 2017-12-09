@@ -442,8 +442,9 @@ define APPL [ [EP V=S=APPL]|[V=S=APPL] ];
 # ****************************************
                    
 define V=S=ABS [ # revise!
-  "[--][-tsi][+ABS]" : "@EP"[{tsi}]
-| "[--][-ntsi][+ABS]" : "@EP"[{ntsi}]
+  "[--][-tsi+alien.][Gen][+nposs]" : "@EP"[{tsi}] 
+| "[--][-ntsi+alien.][Gen][+nposs]" : "@EP"[{ntsi}] 
+| "[--][-tzi+alien.][Gen][+nposs]" : "@EP"[{tzi}] 
 ];
                    
 # ****************************************
