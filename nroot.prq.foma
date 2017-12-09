@@ -1324,7 +1324,9 @@ define NRootPRQin [
 ! 
 | "[=kisaakiri][NRoot][=black.person]" : {kisaakiri}
 ! 
-| "[=kishi+inal.][NRoot][=hair (ES: pelo)]" : {kishi}
+| "[=kishi+inal@tsi.][NRoot][=hair (ES: pelo)]" : {kishi}
+| "[=iishi+inal@ntsi.][NRoot][=hair (ES: pelo)]" : {iishi}
+| "[=eeshi+inal@ntsi.][NRoot][=hair (ES: pelo)]" : {eeshi}
 ! 
 # Sharokishi / =sharo =kishi / =rodent.sp. =mountainous.grassland / EN: 'grasslands.with.abundant.agoutis'  
 # katsinkarikishi / =katsinka -ri =kishi / =to.be.cold -nmz =mountainous.grassland / EN: 'cold.grassland'; ES: 'pajonal.con.un.clima.frío'  
