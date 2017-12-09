@@ -392,9 +392,11 @@ TZEpenthesisRule8
       #    Demonstrative Pronoun    #
       #                             #
       ###############################
+
+      # akave! / =aka -ve / =aka+proximal.b. -ve / =here -excl / ES: 'aquí'  
       source prndem.prq.foma
         define PrnDemPRQ PrnDemPRQin;
-      define Demonstrative [ [PrnDemPRQ] [(N=S=PL)] ];
+      define Demonstrative [ [PrnDemPRQ] [(N=S=PL)|(V=S=EXCL)] ];
 
       ##########################
       #                        #
