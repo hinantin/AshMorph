@@ -394,6 +394,9 @@ TZEpenthesisRule8
       ###############################
 
       # akave! / =aka -ve / =aka+proximal.b. -ve / =here -excl / ES: 'aquí'  
+      # jantave / hantave / =hanta+distal.b. -ve / =there -excl / ES: 'allí'  
+      # irokave / =iroka+n.m.+proximal.b. -ve / =this -excl /  
+      # yorave / =yora+m.+medial -ve / =DEM -excl /  
       source prndem.prq.foma
         define PrnDemPRQ PrnDemPRQin;
       define Demonstrative [ [PrnDemPRQ] [(N=S=PL)|(V=S=EXCL)] ];
