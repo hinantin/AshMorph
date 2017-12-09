@@ -68,7 +68,7 @@ define NRootPRQin [
 ! 
 | "[=anatzirori][NRoot][=raw (ES: crudo)]" : {anatzirori}
 ! 
-| "[=anona+n.m.][NRoot][=sugar-apples (botany.nm.: annona.squamosa), fruit.tree (Spanish.loan)]" : {anona} 
+| "[=anona+n.m.][NRoot][=sugar-apples (botany.nm.: annona.squamosa; PT: beribá), fruit.tree (Spanish.loan)]" : {anona} 
 ! 
 | "[=antaviari][NRoot][=great/truthful/powerful/expert/experienced.shaman; healer.with.a.lot.of.experience]" : {antaviari} 
 | "[=antyaviari][NRoot][=great/truthful/powerful/expert/experienced.shaman; healer.with.a.lot.of.experience]" : {antyaviari} 
@@ -1483,6 +1483,7 @@ define NRootPRQin [
 ! 
 | "[=koriti+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koriti} ! ?
 | "[=koritzi+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritzi}
+| "[=koritsi+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritsi}
 | "[=kori+n.m.+inal@tsi.+poss@te.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {kori} ! noyorite 'my sweet potato'
 | "[=koricha+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koricha}
 | "[=koritya+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritya}
