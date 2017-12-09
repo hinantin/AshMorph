@@ -28,7 +28,7 @@ define NounToVerbPRQin [
 | "[=hempeki][NRoot][=arm (ES: brazo)]::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]+vbz." : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]
 | "[=horio+m.][NRoot][=jewish]+vbz." : {horio} ! N@->V
 | "[=horiiyo+m.][NRoot][=jewish]+vbz." : {horiiyo} ! N@->V
-| "[=sompo+inal.][NRoot][=tumor; boil (ES: tumor, chupo)]+vbz." : {sompo} ! N@->V 
+| "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]+vbz." : {sompo} ! N@->V 
 | "[=intaina+loc.][AdvRoot][=far.away (ES: muy.lejos)]+vbz." : {intaina} ! N@->V ! revise if it belongs to this file 
 | "[=intaena+loc.][AdvRoot][=far.away (ES: muy.lejos)]+vbz." : {intaena} ! N@->V ! revise if it belongs to this file 
 | "[=inteena+loc.][AdvRoot][=far.away (ES: muy.lejos)]+vbz." : {inteena} ! N@->V ! revise if it belongs to this file 
