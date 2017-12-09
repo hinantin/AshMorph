@@ -28,8 +28,8 @@ define InterjPRQin [
 | "[=hataana][InterjPRQ][=good.bye (ES: adiós, chau, me.voy)]" : {hataana}
 | "[=hatahana][InterjPRQ][=good.bye (ES: adiós, chau, me.voy)]" : {hatahana}
 ! 
-| "[=akaya][Interj][=INTJ (EN: ouch)]" : {akaya}
-| "[=akaya][Interj][=INTJ (EN: ouch)][--][-ve][+EMPH]" : {akayave}
+| "[=akaya][Interj][=INTJ (EN: ouch; ES: ¡ay!)]" : {akaya}
+| "[=akaya][Interj][=INTJ (EN: ouch; ES: ¡ay!)][--][-ve][+EMPH]" : {akayave}
 ! 
 | "[=ha][InterjPRQ][=INTJ (EN: aha)]" : {ha}
 | "[=aa][InterjPRQ][=INTJ (EN: humph)]" : {aa}

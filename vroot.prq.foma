@@ -524,8 +524,8 @@ define VRootPRQin [
 | "[=ke][VRoot][=to.enter (ES: ingresar)]" : {ke}
 ! 
 ! word set:
-| "[=kim][VRoot][=to.hear, to.listen; to.sense]" : {kim}
-| "[=kem][VRoot][=to.hear, to.listen; to.sense]" : {kem}
+| "[=kim][VRoot][=to.hear, to.listen; to.sense (ES: sentir)]" : {kim}
+| "[=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)]" : {kem}
 ! 
 | "[=kempi][VRoot][=to.hear, to.listen (ES: oír)]" : {kempi} ! this is my assumption 
 ! 
@@ -654,15 +654,15 @@ define VRootPRQin [
 ! 
 | "[=kityonka][VRoot][=to.be.red]" : {kityonka}
 ! 
-| "[=kityoh][VRoot][=to.spit]" : {kityoh}
-| "[=kityok][VRoot][=to.spit]" : {kityok}
-| "[=ichoh][VRoot][=to.spit]" : {ichoh}
-| "[=ichooh][VRoot][=to.spit]" : {ichooh}
-| "[=kishok][VRoot][=to.spit; to.mouth_spray]" : {kishok}
+| "[=kityoh][VRoot][=to.spit (ES: escupir)]" : {kityoh}
+| "[=kityok][VRoot][=to.spit (ES: escupir)]" : {kityok}
+| "[=ichoh][VRoot][=to.spit (ES: escupir)]" : {ichoh}
+| "[=ichooh][VRoot][=to.spit (ES: escupir)]" : {ichooh}
+| "[=kishok][VRoot][=to.spit (ES: escupir); to.mouth_spray]" : {kishok}
 | "[=kichoh][VRoot][=to.spit (ES: escupir)]" : {kichoh}
 ! 
-| "[=kiv][VRoot][=to.wash]" : {kiv}
-| "[=kiv+redup.][VRoot][=to.wash]" : {kivakiva}
+| "[=kiv][VRoot][=to.wash (ES: lavar)]" : {kiv}
+| "[=kiv+redup.][VRoot][=to.wash (ES: lavar)]::[=to.wash.a.lot]" : {kivakiva}
 ! 
 | "[=kivanont][VRoot][=to.wash]" : {kivanont}
 | "[=kivant][VRoot][=to.visit]" : {kivant}
