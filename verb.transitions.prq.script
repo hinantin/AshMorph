@@ -607,5 +607,8 @@ define S [
 # piyojeetakave! / EN: 'were brought_in/piled_up ...' 
 # piyojeetapakave! / EN: 'so many gathered!' 
 | (PL) (DIR) (PRF) STATUS (V=S=EXCL) 
+# pitsopitsotaantsi
+# nopitsopitsotakanakarive 
+| (CAUSAGT) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
 ];
 

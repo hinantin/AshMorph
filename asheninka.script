@@ -397,6 +397,9 @@ TZEpenthesisRule8
       # jantave / hantave / =hanta+distal.b. -ve / =there -excl / ES: 'allí'  
       # irokave / =iroka+n.m.+proximal.b. -ve / =this -excl /  
       # yorave / =yora+m.+medial -ve / =DEM -excl /  
+      # orave / =ora+n.m.+medial -ve / =that -excl /  
+      # irorave / =irora+n.m.+medial.b. -ve / =that -excl 
+      # iyorave / =iyora+m.+medial -ve / =that -excl 
       source prndem.prq.foma
         define PrnDemPRQ PrnDemPRQin;
       define Demonstrative [ [PrnDemPRQ] [(N=S=PL)|(V=S=EXCL)] ];

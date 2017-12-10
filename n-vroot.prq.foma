@@ -123,6 +123,7 @@ define NounToVerbPRQin [
 | "[=pisaro+n.m.][AdjRoot][=old]+vbz." : {pisaro} ! N@->V
 | "[=pisharo+n.m.][AdjRoot][=old]+vbz." : {pisharo} ! N@->V
 | "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]+vbz." : {tapo} ! N@->V @CMP 
+| "[=pitsopitso][IdeoPRQ][=woman.walking.with.gyrating.hips]::[= (ES: girar); to.dance (ES: bailar)]+vbz." : {pitsopitso} ! N@->V::[= (ES: girar); to.dance (ES: bailar)]
 | "[=haran][IdeoPRQ][=sound/action.made.by.a.falling/breaking.branch/tree]+vbz." : {haran} ! N@->V
 | "[=aparoni][NumeralPRQ][=one]+vbz." : {aparoni} ! N@->V
 | "[=apite][NumeralPRQ][=two]+vbz." : {apite} ! N@->V

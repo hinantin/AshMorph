@@ -118,9 +118,9 @@ define VRootPRQin [
 | "[=anii][VRoot][=to.go, to.walk; to.go.down]" : {anii}
 | "[=ani][VRoot][=to.go, to.walk; to.go.down]" : {ani}
 ! 
-| "[=aniri][VRoot][=to.go.down]" : {aniri}
-| "[=aniire][VRoot][=to.go.down]" : {aniire}
-| "[=anire][VRoot][=to.go.down]" : {anire}
+| "[=aniri][VRoot][=to.go.down (ES: bajar)]" : {aniri}
+| "[=aniire][VRoot][=to.go.down (ES: bajar)]" : {aniire}
+| "[=anire][VRoot][=to.go.down (ES: bajar)]" : {anire}
 ! 
 | "[=anonk][VRoot][=to.get.overflowed, to.overflow]" : {anonk}
 ! 
@@ -1727,6 +1727,9 @@ define VRootPRQin [
 ! 
 | "[=tyoonk][VRoot][=to.bathe]" : {tyoonk}
 | "[=tyoonk][VRoot][=to.bathe.in.steam]" : {tyoonk}
+! 
+| "[=tyonkityoki][VRoot][=to.dance (ES: bailar)]" : {tyonkityoki}
+| "[=shevaporokint][VRoot][=to.dance (ES: bailar)]" : {shevaporokint}
 ! 
 | "[=tyomik][VRoot][=to.roast.yucca]" : {tyomik}
 ! 
