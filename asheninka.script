@@ -319,6 +319,20 @@ TZEpenthesisRule8
                                                   [ V=S=CL|[V=S=CL [NMZ|V=S=ADJ]]|[NMZ|V=S=ADJ] ] (NRootCmpPRQ) 
                                                   (NSuff) ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
       
+
+# | V=S=ADJ # nominalization 
+# | (SENSORY) NMZ # nominalization 
+# | STAT NMZ (ADV) # nominalization revise!!!
+# | V=S=ADJ (AUG) # nominalization 
+# | (APPLREAS) V=S=ADJ # nominalization 
+# | NMZ # nominalization 
+# | V=S=ADJ (V=S=LOC) # nominalization
+# | V=S=ADJ (V=S=smallpart) (V=S=DIM) # nominalization 
+# | (REGR) (STAT) (V=S=ADJ) (V=S=TEMPORAL) # nominalization revise?
+# | V=S=ADJ # nominalization 
+# | V=S=ADJ (PL) # nominalization 
+# | V=S=ADJ (ADV) # nominalization
+
       define CompositeVerbRoot [ (V=S=noun) ("@PHONPROCCMPNOUN@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
       ############################

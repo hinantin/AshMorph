@@ -445,11 +445,8 @@ define VRootPRQin [
 | "[=kamitant][VRoot][=to.buy]" : {kamitant}
 | "[=kampitant][VRoot][=to.buy]" : {kampitant}
 ! 
-| "[=kant][VRoot][=to.say; to.call]" : {kant}
-| "[=kãt][VRoot][=to.say; to.call]" : {kãt}
-! 
-| "[=kant][VRoot][=to.do; to.happen]" : {kant}
-| "[=kant][VRoot][=to.be; to.be.able]" : {kant}
+| "[=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able]" : {kant}
+| "[=kãt][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able]" : {kãt}
 ! 
 | "[=kantashiye][VRoot][=to.be.different (ES: ser.diferente)]" : {kantashiye} 
 ! 
@@ -1242,6 +1239,7 @@ define VRootPRQin [
 | "[=pomerentsi][VRoot][=to.be.difficult]" : {pomerentsi}
 | "[=pomirentsi][VRoot][=to.be.difficult]" : {pomirentsi}
 | "[=pomeentsi][VRoot][=to.be.difficult]" : {pomeentsi}
+| "[=pomerentsimo][VRoot][=to.get.difficult (ES: dificultarse)]" : {pomerentsimo}
 ! 
 | "[=pona][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)]" : {pona}
 | "[=ponaa][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)]" : {ponaa}
