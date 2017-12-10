@@ -125,10 +125,9 @@ define S [
 | STATUS (V=S=CNTF) 
 | (CAUSSOC) (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 #| (APPLREAS) STATUS (NMZ) # revise!!!
-!| (V=S=3mposs) (V=S=poss) STATUS (PRNO) 
 | STATUS (V=S=O) (V=S=APPR) 
 | STATUS (V=S=EMPH) (V=S=Q)  
-!| (V=S=MCAUS) STATUS (PRNO) 
+#| (V=S=MCAUS) STATUS (PRNO) 
 | (PRF) STATUS (PRNO) 
 | (APPL) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (DIR) (PRF) STATUS (PRNO) 
@@ -154,7 +153,7 @@ define S [
 | (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | STATUS (AUG) 
 #| (CAUSSOC) (NMZ) STATUS (V=S=REL) (V=S=Q) # revise!!!
-!| (PROG) (STAT)  
+#| (PROG) (STAT) # revise!!!  
 #| (V=S=DUB)  # end-state? REVISE!!! 
 | (V=S=before) STATUS 
 | STATUS (V=S=REL) (V=S=Q) 
@@ -168,18 +167,18 @@ define S [
 | (APPLREAS) (PRF) STATUS (PRNO) 
 | (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (DIR) (REGR) STATUS (PRNO) 
-| (AUG)  # end-state? 
+#| (AUG)  # end-state? 
 | (APPLINST) STATUS (PRNO) 
 | (DIR) (PRF) (PL) STATUS (V=S=PLcircumfixing) 
 | (DEGR) (PROG) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (DEGR) (PROG) STATUS (V=S=O) (PRNO) (V=S=DUB) 
 | (SEMEL) STATUS (PRNO) 
 | (REV) (APPL) (PRF) STATUS 
-| (ADV)  # end-state? 
+#| (ADV)  # end-state? 
 | (APPLINT) (PL) (DIR) (REGR) STATUS 
 | (DIR) (PRF) STATUS (V=S=REL) (V=S=Q) 
 | (APPLREAS) (REGR) STATUS (V=S=REL) (V=S=Q) 
-| (V=S=small) # end-state? 
+#| (V=S=small) # end-state? 
 | (DUR) (REGR) STATUS (PRNO) 
 | (PL) STATUS 
 | (APPLBEN) STATUS (PRNO) 
@@ -223,7 +222,7 @@ define S [
 | (APPLREAS) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (PROG) STATUS 
 | (PRF) STATUS 
-| (V=S=COND) 
+#| (V=S=COND) # revise!!!
 | (DIMDEGR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (IMPP) (PRF) STATUS (PRNO) 
 | (PL) (PRF) STATUS (PRNO) 
@@ -237,12 +236,12 @@ define S [
 | (DIR) (PRF) STATUS (PRNO) (V=S=OPT) 
 | (REP) (APPLINST) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (HAB) (DUR) STATUS 
-| (V=S=REL) (V=S=Q) # nominalization  # end-state? 
+#| (V=S=REL) (V=S=Q) # nominalization  # end-state? revise!!! 
 | (PRF) STATUS (V=S=O) (V=S=REL) (V=S=Q) 
 | (CAUSSOC) (DIR) (REGR) STATUS (PRNO) 
 | (REGR) STATUS (V=S=REL) (V=S=Q) 
 | (INCH) STATUS (PRNO) 
-| (CAUSSOC) (REGR) (PRNO) (V=S=REL) (V=S=Q) # end-state? 
+#| (CAUSSOC) (REGR) (PRNO) (V=S=REL) (V=S=Q) # end-state? revise!!!
 | (CAUSSOC) STATUS (V=S=O) (V=S=REL) (V=S=Q) 
 | (APPLBEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (APPL) STATUS (PRNO) 
@@ -361,7 +360,7 @@ define S [
 #| (PRNO)  # end-state? revise!!!
 | (REGR) STATUS (V=S=COND) 
 # --------------------------------------------------------- 
-! pintziriitzimaityaro / pi- n- =tziri -itz -imai -t -ya -ro / 2a- irr- =to.rub -icpl -inch -irr -3n.m.o / EN: 'you.rub.it' 
+# pintziriitzimaityaro / pi- n- =tziri -itz -imai -t -ya -ro / 2a- irr- =to.rub -icpl -inch -irr -3n.m.o / EN: 'you.rub.it' 
 | (ICPL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 # ---------------------------------------------------------
 | (APPL) STATUS (PRNO) (V=S=REL) (V=S=Q) 
@@ -475,7 +474,6 @@ define S [
 | (DIR) STATUS (V=S=REL) (V=S=Q) 
 | (REP) (PRF) STATUS (PRNO) 
 | (REP) (DIR) (PRF) STATUS 
-!| (V=S=1SGposs) (ADV) | 
 | (REP) (DIR) (PRF) STATUS (ADV) 
 | (REP) STATUS (ADV) 
 | (DIR) (PRF) STATUS (V=S=O) 
@@ -487,7 +485,7 @@ define S [
 | STATUS (V=S=O) 
 | STATUS (V=S=O) (PRNO) 
 | (DIR) (PRF) STATUS (V=S=REL) (V=S=Q) 
-| (DIR) (STAT) (V=S=REL) (V=S=Q) 
+| (DIR) STAT (V=S=REL) (V=S=Q) 
 | (PRF) STATUS 
 | (PROG) STATUS 
 | (DIR) (REGR) STATUS (V=S=REL) (V=S=Q) 
@@ -505,7 +503,7 @@ define S [
 | (APPLREAS) (DIR) (REGR) STATUS (V=S=REL) (V=S=Q) 
 | (DUR) (APPLINT) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (DUR) (APPLINT) (STAT) STATUS (PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
-! ICPL 
+# ICPL 
 | (REGR) (ICPL) (PRF) STATUS (V=S=O) (PRNO) (V=S=EMPH) (V=S=CNTF) 
 | (REP) (ICPL) (PRF) STATUS (V=S=O) (PRNO) (ADV) 
 | (REV) (APPL) (ICPL) (REGR) STATUS (V=S=O) (PRNO) 
@@ -547,7 +545,6 @@ define S [
 | (REP) (SENSORY) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL)  
 | (SENSORY) (APPLINST) STAT (V=S=REL)  
 
-!| (V=S=1SGposs) (DIST) 
 | (UNK1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
 # oriavintsaiteta /  

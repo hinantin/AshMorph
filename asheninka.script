@@ -388,9 +388,10 @@ TZEpenthesisRule8
       
       # irirove! / =iriro -ve / =iriro+cont.d.top. -ve / =he -excl  
       # irooritya / =iroori -tya / =iroori+cntr.add.l.+foc. -tya / =she -emph  
+      # naakamaja / naakamaha / =naaka -maha / 
       source prnpers.prq.foma
         define PrnPersPRQ PrnPersPRQin;
-      define Personal [ [PrnPersPRQ] [(N=S=EMPH)|(N=S=PL)|(V=S=COND)|(V=S=EXCL)] ];
+      define Personal [ [PrnPersPRQ] [(N=S=EMPH)|(N=S=PL)|(V=S=COND)|(V=S=EXCL)|(N=S=CNTR)] ];
 
       #################################
       #                               #
@@ -414,9 +415,10 @@ TZEpenthesisRule8
       # orave / =ora+n.m.+medial -ve / =that -excl /  
       # irorave / =irora+n.m.+medial.b. -ve / =that -excl 
       # iyorave / =iyora+m.+medial -ve / =that -excl 
+      # irokamaja / irokamaha / =iroka+n.m.+proximal.b. maha / =this -contr
       source prndem.prq.foma
         define PrnDemPRQ PrnDemPRQin;
-      define Demonstrative [ [PrnDemPRQ] [(N=S=PL)|(V=S=EXCL)] ];
+      define Demonstrative [ [PrnDemPRQ] [(N=S=PL)|(V=S=EXCL)|(N=S=CNTR)] ];
 
       ##########################
       #                        #
