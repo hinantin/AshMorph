@@ -47,7 +47,7 @@ define S [
 | (PRF) STATUS 
 | (APPL) STATUS (PRNO) 
 # -----------------------------------------------------------------------------
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (NMZ) # end-state? 
+#| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (NMZ) # end-state? revise!!! nominalization???
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) STATUS ! noun root: noun, noun+noun 
 | V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 # o-nint-a-Voro-t-ab-ak-e-ri 
@@ -124,7 +124,7 @@ define S [
 | (CAUSSOC) (APPLREAS) (DIST) (DIR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=PLcircumfixing) 
 | STATUS (V=S=CNTF) 
 | (CAUSSOC) (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (APPLREAS) STATUS (NMZ) 
+#| (APPLREAS) STATUS (NMZ) # revise!!!
 !| (V=S=3mposs) (V=S=poss) STATUS (PRNO) 
 | STATUS (V=S=O) (V=S=APPR) 
 | STATUS (V=S=EMPH) (V=S=Q)  
@@ -153,7 +153,7 @@ define S [
 | (DUR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
 | (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | STATUS (AUG) 
-| (CAUSSOC) (NMZ) STATUS (V=S=REL) (V=S=Q) 
+#| (CAUSSOC) (NMZ) STATUS (V=S=REL) (V=S=Q) # revise!!!
 !| (PROG) (STAT)  
 #| (V=S=DUB)  # end-state? REVISE!!! 
 | (V=S=before) STATUS 
@@ -494,7 +494,7 @@ define S [
 | STATUS (PRNO) (V=S=DUB) 
 | (V=S=almost) (APPLREAS) (REGR) STATUS 
 | (CAUSSOC) (PROG) STATUS 
-| (DUR) (NMZ) (APPLREAS) STATUS (V=S=REL) (V=S=Q) 
+#| (DUR) (NMZ) (APPLREAS) STATUS (V=S=REL) (V=S=Q) # revise 
 | (PRF) STATUS (V=S=O) (PRNO) 
 | (IMPP) STATUS 
 | (DIST) STATUS (PRNO) 
@@ -560,7 +560,10 @@ define S [
 | (MIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (RCP) (CAUSSOC) (HAB) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=PLcircumfixing)  
 | (HAB) (PRF) STATUS (V=S=O) (PRNO) (V=S=DUB)  
-| (RCP) (CAUSSOC) (REGR) STAT (V=S=REL)  
+
+| (RCP) (CAUSSOC) (REGR) STAT (V=S=REL) 
+| (APPL) (APPLINST) STAT (V=S=REL) 
+ 
 | (RCP) (CAUSSOC) (REGR) (DUR) STATUS (V=S=RPST)  
 | (RCP) (CAUSSOC) (PL) (REGR) STATUS  
 

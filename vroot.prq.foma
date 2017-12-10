@@ -728,7 +728,7 @@ define VRootPRQin [
 | "[=koya][VRoot][=to.gather]" : {koya}
 | "[=koye][VRoot][=to.gather]" : {koye}
 ! 
-| "[=koy][VRoot][=to.select]" : {koy}
+| "[=koy][VRoot][=to.select (ES: seleccionar)]" : {koy}
 ! 
 | "[=kya][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kya}
 | "[=ky][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ky}
@@ -1048,6 +1048,8 @@ define VRootPRQin [
 | "[=otiy][VRoot][=to.take.sth., to.catch.sth.(ES: agarrar)]" : {otiy}
 | "[=te][VRoot][=to.take.sth.; to.insert; to.board]" : {te}
 | "[=tet][VRoot][=to.fill]" : {tet}
+# notetentapintarori
+| "[=tetent][VRoot][=to.fill (ES: llenar)]" : {tetent}
 ! 
 | "[=otyaaki][VRoot][=to.flower (ES: florecer)]" : {otyaaki}
 ! 
