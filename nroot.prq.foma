@@ -1787,6 +1787,7 @@ define NRootPRQin [
 | "[=maana+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea)]" : {maana}
 ! 
 | "[=maontzi][NRoot][=common.potoo (sci.nm.: nyctibius.griseus)]" : {maontzi}
+| "[=maonti][NRoot][=common.potoo (sci.nm.: nyctibius.griseus)]" : {maonti}
 ! 
 | "[=mayempiri+m.][NRoot][=womanizer]" : {mayempiri}
 | "[=mayempiro+n.m.][NRoot][=seductress; prostitute (ES: prostituta); adulterous.woman]" : {mayempiro}
@@ -2360,7 +2361,7 @@ define NRootPRQin [
 | "[=pankoshi+n.m.+inal@ntsi.][NRoot][=hut, hovel (ES: choza.para.cazar.aves.salvajes)]" : {pankoshi} 
 ! 
 # obaante / ovaante / o- paante / 3n.m.poss- =mouth / EN: 'her.mouth'; ES: 'su.boca (de.ella)' 
-| "[=pante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {pante}
+| "[=pante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
 | "[=paante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {paante}
 | "[=panti+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {panti}
 ! 
