@@ -831,9 +831,12 @@ define NRootPRQin [
 | "[=ironyaa][NRoot][=now]" : {ironyaa}
 | "[=ironya][NRoot][=now]" : {ironya}
 ! 
-| "[=nato+voc.][NRoot][=grandma, grandmother]" : {nato}
-| "[=isha+m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {isha}
-| "[=ishaa+m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {ishaa}
+| "[=nato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {nato}
+| "[=naato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {naato}
+| "[=isha+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {isha}
+| "[=ishaa+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {ishaa}
+! 
+| "[=isha+m.+voc.][NRoot][=grandson (kin.of.a.female; nieto)]" : {isha}
 ! 
 | "[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {isheni}
 | "[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {isheeni}
