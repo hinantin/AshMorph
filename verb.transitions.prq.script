@@ -294,8 +294,9 @@ define S [
 | (APPLSEP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! =a-pitsa-t-ak-i-ri-ri / EN: 'the.one.that.took.it.away'; ES: 'el.que.le.quitó' 
 | (DIR) (REGR) STATUS (V=S=CNTF) 
 | (APPL) (REP) (PL) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (REP) (HAB) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) ! sokij-aa-t-apini-t-atsi-ri
-| (APPL) (APPLREAS) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) ! amen-ako-t-ant-atsi-ri
+| (REP) (HAB) STAT (V=S=REL) ! sokij-aa-t-apini-t-atsi-ri
+| (APPL) (APPLREAS) STAT (V=S=REL) ! amen-ako-t-ant-atsi-ri
+| (FRUS) STAT (V=S=REL) ! saikavitaincha / saik-a-vi-t-aincha 
 | (DIR) (PRF) STATUS (V=S=COND) 
 | (DIR) (PRF) STATUS 
 | (APPLBEN) STATUS (PRNO) 
