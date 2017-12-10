@@ -10,7 +10,7 @@ define P=2 [
 | "[min=][M.CAUS+][--]" : {min}
 # -----AGENTIVE CAUSATIVE--------
 ! noitakeri / n- o= =i -t -ak -e =ri / EN: "I'll.make.him.drink"
-| "[o=][AGT.CAUS+][--]" : "@AGTCAUS@"{o}
+| "[o=][AGT.CAUS+][--]" : {o}"@AGTCAUS@"
 ! noishoncajiro / noishonkahiro / n- oi= =shonk -ah -i =ro / ES: 'revolver, dar.vuelta'  
 | "[oi=][AGT.CAUS+][--]" : {oi}
 | "[om=][AGT.CAUS+][--]" : {om}
