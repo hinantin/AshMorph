@@ -1831,9 +1831,6 @@ define VRootPRQin [
 | "[=yeenka][VRoot][=to.grease.sb's,body/hair]" : {yeenka}
 | "[=yiinka][VRoot][=to.grease.sb's,body/hair]" : {yiinka}
 ! 
-| "[=yo][VRoot][=to.learn]" : {yo}
-| "[=yo][VRoot][=to.know]" : {yo}
-! 
 | "[=yoaren][VRoot][=to.come.as.a.lightning.flash (ES: venir.como.destello.de.relámpago)]" : {yoaren}
 ! 
 | "[=yomi][VRoot][=to.teach]" : {yomi}
@@ -1843,6 +1840,7 @@ define VRootPRQin [
 | "[=ovame][VRoot][=to.teach (ES: enseñar)]" : {ovame}
 | "[=oame][VRoot][=to.teach (ES: enseñar)]" : {oame} ! oame-t-ant-atsi-ri 
 ! 
+| "[=yo][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)]" : {yo}
 | "[=yot][VRoot][=to.know]" : {yot}
 | "[=yotani][VRoot][=to.know]" : {yotani}
 | "[=iyot][VRoot][=to.know, to.understand (ES: saber, entender)]" : {iyot}
