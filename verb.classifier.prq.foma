@@ -25,7 +25,7 @@ define V=S=CL [
 | "[--][-yempi][+CL:ear][=ear]" : "@EP"{yempi} ! @CL 
 | "[--][-ha][+CL:liquid][=liquid]" : "@EP"{ha} ! @CL
 | "[--][-aa][+CL:liquid][=liquid]" : "@EP"{aa} ! @CL 
-| "[--][-a][+CL:liquid][=liquid]" : "@EP"{a} ! @CL 
+| "[--][-a][+CL:liquid][=liquid]" : "@EP"{a} ! @CL it provokes too many false entries so don't added to the list of nominalizer clasiffiers.
 | "[--][-ako][+CL:vessel][=vessel; recipient; cavity; hand]" : "@EP"{ako} ! @CL 
 | "[--][-pako][+CL:your.hand][=your.hand, your.five]" : "@EP"{pako} ! @CL 
 | "[--][-vako][+CL:hand][=hand]" : "@EP"{vako} ! @CL 

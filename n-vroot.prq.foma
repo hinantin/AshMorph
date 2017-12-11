@@ -33,6 +33,8 @@ define NounToVerbPRQin [
 | "[=intaena+loc.][AdvRoot][=far.away (ES: muy.lejos)]+vbz." : {intaena} ! N@->V ! revise if it belongs to this file 
 | "[=inteena+loc.][AdvRoot][=far.away (ES: muy.lejos)]+vbz." : {inteena} ! N@->V ! revise if it belongs to this file 
 | "[=ira+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]::[=to.bleed (ES: sangrar)]+vbz." : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
+| "[=chariki][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]+vbz." : {chariki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
+| "[=chariiki][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]+vbz." : {chariiki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
 | "[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kaniri} ! N@->V @CMP 
 | "[=kaniri+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kainiri} ! N@->V @CMP 

@@ -63,18 +63,18 @@
 									# This rule is not working for this entry: Ikinkishiriaka 
 									# but for Ikinkishiritaka, for this reason we apply an optional rule
 
-      define TZEpenthesisRule1 [ ["@EP@"{tz}"@EP"] => e _ i ]; # ^EP IRREALIS ; 
-      define TZEpenthesisRule2 [ ["@EP@"{tz}"@EP"] => a _ i ]; 
-      define TZEpenthesisRule3 [ ["@EP@"{tz}"@EP"] => n _ i ]; 
-      define TZEpenthesisRule4 [ t"@EP" (->) {tz}"@EP" || n _ i ]; # kant@EPi -> ocantzi
-      define TZEpenthesisRule5 [ ["@EP@"{tz}"@EP"] => i _ i ]; 
-      define TZEpenthesisRule6 [ t"@EP" (->) {tz}"@EP" || i _ i ]; # p^atziri(tz)-imo(t)~an-ac—e-ri
-      define TZEpenthesisRule7 [ ["@EP@"{tz}"@EP"] => o _ i ]; 
-      define TZEpenthesisRule8 [ t"@EP" (->) {tz}"@EP" || o _ i ]; # i-tsink-ako-tz-imaint-a-ro
+#      define TZEpenthesisRule1 [ ["@EP@"{tz}"@EP"] => e _ i ]; # ^EP IRREALIS ; 
+#      define TZEpenthesisRule2 [ ["@EP@"{tz}"@EP"] => a _ i ]; 
+#      define TZEpenthesisRule3 [ ["@EP@"{tz}"@EP"] => n _ i ]; 
 
-      define TSEpenthesisRule1 [ ["@EP@"{ts}"@EP"] => i _ i ];  # ts allophone to tz
+      define TZEpenthesisRule4 [ t"@EP" (->) {tz}"@EP" || n _ i ]; # kant@EPi -> ocantzi
+#      define TZEpenthesisRule5 [ ["@EP@"{tz}"@EP"] => i _ i ]; 
+      define TZEpenthesisRule6 [ t"@EP" (->) {tz}"@EP" || i _ i ]; # p^atziri(tz)-imo(t)~an-ac—e-ri
+#      define TZEpenthesisRule7 [ ["@EP@"{tz}"@EP"] => o _ i ]; 
+      define TZEpenthesisRule8 [ t"@EP" (->) {tz}"@EP" || o _ i ]; # i-tsink-ako-tz-imaint-a-ro
+#      define TSEpenthesisRule1 [ ["@EP@"{ts}"@EP"] => i _ i ];  # ts allophone to tz
                                                                  # n-amatawits-i-mi
-      define TSEpenthesisRule2 [ ["@EP@"{ts}"@EP"] => o _ [a|i] ];  # potso-ts-aantsi, ir=apato-ts-imai-t-ya-ri
+#      define TSEpenthesisRule2 [ ["@EP@"{ts}"@EP"] => o _ [a|i] ];  # potso-ts-aantsi, ir=apato-ts-imai-t-ya-ri
 
       
       define CleanUpEpenthesisRule6 [ "" (->) "@EP" || i _ {antsi} ]; # kinkishiriantsi

@@ -529,10 +529,10 @@ define NRootPRQin [
 ! 
 | "[=henka+poss@ne.][NRoot][=odor; smell]" : {henka} !@CMP
 | "[=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} !@CMP
-| "[=sankaare+n.m.+inal.][NRoot][=smell]" : {sankaare}
-| "[=sankaari+n.m.+inal.][NRoot][=smell]" : {sankaari}
-| "[=sankare+n.m.+inal.][NRoot][=smell]" : {sankare}
-| "[=sankari+n.m.+inal.][NRoot][=smell]" : {sankari}
+| "[=sankaare+n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankaare}
+| "[=sankaari+n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankaari}
+| "[=sankare+n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankare}
+| "[=sankari+n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankari}
 ! 
 # kimojenkaro / kimohenkaro / =kimo -henka -ro / ES: 'altavoz'  
 | "[=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {henka} ! @VCMP 
@@ -841,9 +841,6 @@ define NRootPRQin [
 | "[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {isheni}
 | "[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {isheeni}
 ! 
-| "[=iishi+n.m.+inal.][NRoot][=hair]" : {iishi}
-| "[=ishi+n.m.+inal.][NRoot][=hair]" : {ishi}
-! 
 | "[=iyotsi+m.][NRoot][=catfish.sp. (súngaro, doncella), fish.sp.]" : {iyotsi}
 ! 
 # ivenki: plant only handle by males 
@@ -984,6 +981,8 @@ define NRootPRQin [
 | "[=kainka+n.m.][NRoot][=banana.sp.]" : {kainka}
 ! 
 | "[=katyoka+inal@ntsi.][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]" : {katyoka}
+| "[=chariki][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]" : {chariki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
+| "[=chariiki][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]" : {chariiki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
 ! 
 | "[=katyori][NRoot][=salted, salty (ES: salado)]" : {katyori}
 | "[=katyokiri][NRoot][=salted, salty (ES: salado)]" : {katyokiri}
@@ -1332,6 +1331,10 @@ define NRootPRQin [
 | "[=kishi+inal@tsi.][NRoot][=hair (ES: pelo)]" : {kishi}
 | "[=iishi+inal@ntsi.][NRoot][=hair (ES: pelo)]" : {iishi}
 | "[=eeshi+inal@ntsi.][NRoot][=hair (ES: pelo)]" : {eeshi}
+| "[=iishi+n.m.+inal@ntsi.][NRoot][=hair]" : {iishi}
+| "[=ishi+n.m.+inal@ntsi.][NRoot][=hair]" : {ishi}
+! 
+| "[=kishitari][NRoot][=place.where.shaman-tiger.messed.up.sb's.hair (ES: Mariscal.Cáceres)]" : {kishitari}
 ! 
 # Sharokishi / =sharo =kishi / =rodent.sp. =mountainous.grassland / EN: 'grasslands.with.abundant.agoutis'  
 # katsinkarikishi / =katsinka -ri =kishi / =to.be.cold -nmz =mountainous.grassland / EN: 'cold.grassland'; ES: 'pajonal.con.un.clima.frío'  
