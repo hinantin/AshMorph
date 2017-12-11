@@ -70,7 +70,7 @@ define S [
 |                                                      (V=S=CL) (DIR) (PRF) STATUS 
 | V=S=noun                                                      (APPLINT) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | V=S=noun                                                      (PROG) STATUS (V=S=O) (PRNO) (V=S=NEG) 
-| V=S=noun                                                      (COMPL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| V=S=noun                                                      (CMPL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 |                                                      (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 |                                                      (V=S=CL) (DUR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 |                                                      (V=S=CL) (DIR) (REGR) STATUS (V=S=NEG) 
@@ -534,6 +534,9 @@ define S [
 # cameetsatasanotatsiri 
 | (DEXT) STAT (V=S=REL) (V=S=Q)  # end-state?  revise!!!
 #| (DEXT) (APPL) (PRNO) (V=S=REL) (V=S=Q)  # end-state?  revise!!!
+# n-antsik-a-sano-ite-t-e-ri
+| (DEXT) (CMPL) STATUS (V=S=O) (PRNO) (V=S=REL)
+
 | (DIST) STATUS (V=S=O) (PRNO) (V=S=NEG) (ADV) 
 | (REV) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (POSN) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
@@ -549,7 +552,7 @@ define S [
 | (UNK1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
 # oriavintsaiteta /  
-| (DLMT) (COMPL) STATUS 
+| (DLMT) (CMPL) STATUS 
 
 | (REGR) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 

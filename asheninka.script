@@ -24,42 +24,42 @@
       #                        #
       ##########################
 
-      define AEpenthesisRule1 [ ["@EP@"{a}"@EP"] => t _ v ]; # kentavaetantsi / =kent -a -vae -t -antsi 
-      define AEpenthesisRule2 [ ["@EP@"{a}"@EP"] => r _ y ]; 
+#      define AEpenthesisRule1 [ ["@EP@"{a}"@EP"] => t _ v ]; # kentavaetantsi / =kent -a -vae -t -antsi 
+#      define AEpenthesisRule2 [ ["@EP@"{a}"@EP"] => r _ y ]; 
 
-      define AEpenthesisRule3 [ ["@EP@"{a}"@EP"] => s _ [r|v|k] ]; # pinkatsari ??? , i-kis-a-kamari-t-an-ak-a
-      define AEpenthesisRule4 [ ["@EP@"{a}"@EP"] => k _ m ]; # notoncamento
-      define AEpenthesisRule5 [ ["@EP@"{a}"@EP"] => t _ m ]; # itotamento
-      define AEpenthesisRule6 [ ["@EP@"{a}"@EP"] => k _ n ]; # notyoonkantsi
-      define AEpenthesisRule7 [ ["@EP@"{a}"@EP"] => k _ v ]; # pokabaetantsi
-      define AEpenthesisRule8 [ ["@EP@"{a}"@EP"] => p _ v ]; # Pabaetantsi
-      define AEpenthesisRule9 [ ["@EP@"{a}"@EP"] => v _ [v|h|{ch}|{ts}] ]; # Ob-a-bae-t-antsi, i-=tiyerov-a-hei-t-ati-ya 
-      define AEpenthesisRule10 [ ["@EP@"{a}"@EP"] => r _ [v|p] ]; # irabaetantsi, n-=ir-a-piro-t-i-ro 
-      define AEpenthesisRule11 [ ["@EP@"{a}"@EP"] => m _ [v|n] ]; # timabaetantsi, quem-a-nen-t-aantsi
-      define AEpenthesisRule12 [ ["@EP@"{a}"@EP"] => k _ [h|y|r|p|t|a] ]; # i-vitsik-a-jee-tz-i-ri, betsik-a-ye-t-atsi-ri, o-tsimank-a-re, no-shitik-a-pero-t-ati-i-ro, ajirik-a-tsomi-t-ak-i-mpi-ri? , n=aabak-a-ati-ye-mpa  
-      define AEpenthesisRule13 [ ["@EP@"{a}"@EP"] => p _ [a|y|h] ]; # i-kant-ap-a-ak-e, i-tsop-a-ye-t-ak-e 
-      define AEpenthesisRule14 [ ["@EP@"{a}"@EP"] => t _ [h|m|p|k|y] ]; # y-ant-a-jeí-t-ak-e, kant-a-mironta-ki-t-acha-ri, o-kant-a-pankaina-aty-a, o-kant-a-kintsi-t-ap-ak-a, o-=mat-a-yi-tz-i-ri-ni 
-      define AEpenthesisRule15 [ ["@EP@"{a}"@EP"] => m _ [h|a|e|y] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e, am-a-enka-ri, p-am-a-ye-t-ak-e-ro 
-      define AEpenthesisRule16 [ ["@EP@"{a}"@EP"] => y _ [a|y|v|m] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri, i-piy-a-macheve-t-an-ah-a 
-      define AEpenthesisRule17 [ ["@EP@"{a}"@EP"] => n _ [v|a|t] ]; # i-kin-a-bae-t-i,  I-kemisan-t-a-jei-t-i-ri
+#      define AEpenthesisRule3 [ ["@EP@"{a}"@EP"] => s _ [r|v|k] ]; # pinkatsari ??? , i-kis-a-kamari-t-an-ak-a
+#      define AEpenthesisRule4 [ ["@EP@"{a}"@EP"] => k _ m ]; # notoncamento
+#      define AEpenthesisRule5 [ ["@EP@"{a}"@EP"] => t _ m ]; # itotamento
+#      define AEpenthesisRule6 [ ["@EP@"{a}"@EP"] => k _ n ]; # notyoonkantsi
+#      define AEpenthesisRule7 [ ["@EP@"{a}"@EP"] => k _ v ]; # pokabaetantsi
+#      define AEpenthesisRule8 [ ["@EP@"{a}"@EP"] => p _ v ]; # Pabaetantsi
+#      define AEpenthesisRule9 [ ["@EP@"{a}"@EP"] => v _ [v|h|{ch}|{ts}] ]; # Ob-a-bae-t-antsi, i-=tiyerov-a-hei-t-ati-ya 
+#      define AEpenthesisRule10 [ ["@EP@"{a}"@EP"] => r _ [v|p] ]; # irabaetantsi, n-=ir-a-piro-t-i-ro 
+#      define AEpenthesisRule11 [ ["@EP@"{a}"@EP"] => m _ [v|n] ]; # timabaetantsi, quem-a-nen-t-aantsi
+#      define AEpenthesisRule12 [ ["@EP@"{a}"@EP"] => k _ [h|y|r|p|t|a] ]; # i-vitsik-a-jee-tz-i-ri, betsik-a-ye-t-atsi-ri, o-tsimank-a-re, no-shitik-a-pero-t-ati-i-ro, ajirik-a-tsomi-t-ak-i-mpi-ri? , n=aabak-a-ati-ye-mpa  
+#      define AEpenthesisRule13 [ ["@EP@"{a}"@EP"] => p _ [a|y|h] ]; # i-kant-ap-a-ak-e, i-tsop-a-ye-t-ak-e 
+#      define AEpenthesisRule14 [ ["@EP@"{a}"@EP"] => t _ [h|m|p|k|y] ]; # y-ant-a-jeí-t-ak-e, kant-a-mironta-ki-t-acha-ri, o-kant-a-pankaina-aty-a, o-kant-a-kintsi-t-ap-ak-a, o-=mat-a-yi-tz-i-ri-ni 
+#      define AEpenthesisRule15 [ ["@EP@"{a}"@EP"] => m _ [h|a|e|y] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e, am-a-enka-ri, p-am-a-ye-t-ak-e-ro 
+#      define AEpenthesisRule16 [ ["@EP@"{a}"@EP"] => y _ [a|y|v|m] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri, i-piy-a-macheve-t-an-ah-a 
+#      define AEpenthesisRule17 [ ["@EP@"{a}"@EP"] => n _ [v|a|t] ]; # i-kin-a-bae-t-i,  I-kemisan-t-a-jei-t-i-ri
                                                                        # kenakenatinkari / =kenaken -a -tinkari+m. / [=ken -a =ken] -a -tinkari+m. / [=to.walk -ep =to.walk] -ep -adj / ES: 'callejero' 
                                                                        # kenakenatinkaro / =kenaken -a -tinkaro+n.m. / [=ken -a =ken] -a -tinkari+n.m. / [=to.walk -ep =to.walk] -ep -adj / ES: 'callejera' 
-      define AEpenthesisRule18 [ ["@EP@"{a}"@EP"] => h _ [t|m] ]; # no-m-pirih-a-tsempeki-t-ak-e, sokih-a-mento-tsi 
+#      define AEpenthesisRule18 [ ["@EP@"{a}"@EP"] => h _ [t|m] ]; # no-m-pirih-a-tsempeki-t-ak-e, sokih-a-mento-tsi 
 
-      define TEpenthesisRule1 [ ["@EP@"{t}"@EP"] => i _ i ]; 
-      define TEpenthesisRule2 [ ["@EP@"{t}"@EP"] => a _ a ]; 
-      define TEpenthesisRule3 [ ["@EP@"{t}"@EP"] => e _ a ]; 
-      define TEpenthesisRule4 [ ["@EP@"{t}"@EP"] => a _ e ]; 
-      define TEpenthesisRule5 [ ["@EP@"{t}"@EP"] => o _ a ]; # Amitakotaantsi
-      define TEpenthesisRule6 [ ["@EP@"{t}"@EP"] => i _ [a|e|y] ]; # Antabaitantsi, i-ñ-a-ashi-t-ya-ro-kia
-      define TEpenthesisRule7 [ ["@EP@"{t}"@EP"] => e _ i ]; # Raniwaeti
-      define TEpenthesisRule8 [ ["@EP@"{t}"@EP"] => o _ e ]; # aminakotero
-      define TEpenthesisRule9 [ ["@EP@"{t}"@EP"] => a _ i ]; # o-kametsa-t-i
-      define TEpenthesisRule10 [ ["@EP@"{t}"@EP"] => e _ [y|e] ]; # no-ñatsa-bae-t-ya, i-ñaashirink-a-jee-t-e-ri-ne
-      define TEpenthesisRule11 [ ["@EP@"{t}"@EP"] => n _ [a|e|i|o|y] ]; # quemisan-t-atsi-ri, pi-n-quemisan-t-e-na-ji, i=shiron-t-yaa-ma  
-      define TEpenthesisRule12 [ ["@EP@"{t}] => o _ ["@EP"[i|y]] ]; # i=cameetsa-t-asano-t-i, i-n=kis-ako-t-ya-ro 
+#      define TEpenthesisRule1 [ ["@EP@"{t}"@EP"] => i _ i ]; 
+#      define TEpenthesisRule2 [ ["@EP@"{t}"@EP"] => a _ a ]; 
+#      define TEpenthesisRule3 [ ["@EP@"{t}"@EP"] => e _ a ]; 
+#      define TEpenthesisRule4 [ ["@EP@"{t}"@EP"] => a _ e ]; 
+#      define TEpenthesisRule5 [ ["@EP@"{t}"@EP"] => o _ a ]; # Amitakotaantsi
+#      define TEpenthesisRule6 [ ["@EP@"{t}"@EP"] => i _ [a|e|y] ]; # Antabaitantsi, i-ñ-a-ashi-t-ya-ro-kia
+#      define TEpenthesisRule7 [ ["@EP@"{t}"@EP"] => e _ i ]; # Raniwaeti
+#      define TEpenthesisRule8 [ ["@EP@"{t}"@EP"] => o _ e ]; # aminakotero
+#      define TEpenthesisRule9 [ ["@EP@"{t}"@EP"] => a _ i ]; # o-kametsa-t-i
+#      define TEpenthesisRule10 [ ["@EP@"{t}"@EP"] => e _ [y|e] ]; # no-ñatsa-bae-t-ya, i-ñaashirink-a-jee-t-e-ri-ne
+#      define TEpenthesisRule11 [ ["@EP@"{t}"@EP"] => n _ [a|e|i|o|y] ]; # quemisan-t-atsi-ri, pi-n-quemisan-t-e-na-ji, i=shiron-t-yaa-ma  
+#      define TEpenthesisRule12 [ ["@EP@"{t}] => o _ ["@EP"[i|y]] ]; # i=cameetsa-t-asano-t-i, i-n=kis-ako-t-ya-ro 
       #define TEpenthesisRule12 [ ~[ [~[?* o] "@EP@t@EP" ?*] | [?* "@EP@t@EP" ~[ [i|y] ?*]] ] ];
-      define TEpenthesisRule13 [ ["@EP@"{t}"@EP"] => y _ [a|e] ]; # i=mantsiy-t-apaent-e
+#      define TEpenthesisRule13 [ ["@EP@"{t}"@EP"] => y _ [a|e] ]; # i=mantsiy-t-apaent-e
 									# This rule is not working for this entry: Ikinkishiriaka 
 									# but for Ikinkishiritaka, for this reason we apply an optional rule
 
@@ -77,9 +77,9 @@
 #      define TSEpenthesisRule2 [ ["@EP@"{ts}"@EP"] => o _ [a|i] ];  # potso-ts-aantsi, ir=apato-ts-imai-t-ya-ri
 
       
-      define CleanUpEpenthesisRule6 [ "" (->) "@EP" || i _ {antsi} ]; # kinkishiriantsi
+#      define CleanUpEpenthesisRule6 [ "" (->) "@EP" || i _ {antsi} ]; # kinkishiriantsi
       
-      define EpEpRestr1 [ ["@EP@"[{a}|{ts}{tz}]] => ~["@EP@"[{a}|{ts}{tz}]] _ ];
+#      define EpEpRestr1 [ ["@EP@"[{a}|{ts}{tz}]] => ~["@EP@"[{a}|{ts}{tz}]] _ ];
       
        define Epenthesis [ 
 #AEpenthesisRule1 .o. 

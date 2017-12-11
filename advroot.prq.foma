@@ -58,6 +58,7 @@ define AdvRootPRQin [
 ! 
 | "[=meeka][AdvRoot][=now; already]" : {meeka}
 | "[=meka][AdvRoot][=now]" : {meka}
+| "[=meeka][AdvRoot][=now; already][--][-kea][+EMPH]" : {meekakea}
 ! 
 | "[=okanta][AdvRoot][=CONN]" : {okanta}
 | "[=okanta][AdvRoot][=meanwhile]" : {okanta}

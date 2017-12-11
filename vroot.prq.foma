@@ -238,6 +238,7 @@ define VRootPRQin [
 | "[=atsi][VRoot][=to.harm]" : {atsi}
 ! 
 | "[=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {atsik}
+| "[N=][IRR+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {antsik}
 ! 
 # arrollar 
 | "[=atsinak][VRoot][=to.squash.sth.; to.squeeze.sth.; to.crush.sth. (ES: aplastar,arrollar; machucar; apretar)]" : {atsinak}
@@ -1080,6 +1081,7 @@ define VRootPRQin [
 | "[=ovavihaako][VRoot][=to.rescue, to.save]" : {ovavihaako}
 | "[=oavisako][VRoot][=to.rescue, to.save]" : {oavisako}
 ! 
+| "[=oy][VRoot][=to.wait (ES: esperar)]" : {oy}
 | "[=oya][VRoot][=to.wait (ES: esperar)]" : {oya}
 | "[=oyaa][VRoot][=to.wait (ES: esperar)]" : {oyaa}
 ! 

@@ -18,14 +18,18 @@ define N=S=poss [
 # otsima / =tsi -ma / =firewood -aln.poss. / EN: 'her.firewood', ES: 'su.leña'
 | "[--][<*-ma][Gen][+aln.poss.]" : {ma}
 ];
-      
+                   
+# ****************************************
+                   
 ! DEM.NOM: Nominal demonstrative
 define N=S=DEM [
   "[--][-ka+proximal.b.][Adv][+DEM]" : {ka} ! this
 | "[--][-ra+medial.b.][Adv][+DEM]" : {ra} 
 | "[--][-nta+distal.b.][Adv][+DEM]" : {nta} 
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=PL [
   "[--][-paye][Num][+PL_DIST]" : {paye} ! DIST: vatsatsipaye / =vatsa -tsi -paye / =meat -nposs -dist / ES: 'todo.tipo.de.carne', EN: 'all.kinds.of.meat' 
 | "[--][-payi][Num][+PL]" : {payi} 
@@ -44,7 +48,9 @@ define N=S=PL [
 ! shimaanakipaye =shimaana -ki -paye / =week -loc -pl / ES: 'durante.semanas', EN: 'over.weeks'
 ! tsitenirikipaye =tsiteniri -ki -paye / =night -loc -dist / ES: 'durante.la.noche', EN: 'during.the.night' ! dist or pl???
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=DIM [
 # hetaripatsaini / =hetari -patsa -ini / =armored.catfish -small.part -dim / EN: 'small.armored_catfishes', ES: 'carachamitas' 
 # shivapatsaini / =shiva -patsa -ini / =anchoveta-fish -small.part -dim / EN: 'small.anchoveta-fishes', ES: 'anchovetitas' 
@@ -72,23 +78,27 @@ define N=S=DIM [
 # masheroiriki / =mashero -iriki / =edible_toad.sp. -dim / EN: 'small.edible_toad', ES: 'sapito.comestible'
 | "[--][-iriki][+DIM]" : {iriki} 
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=LOC [
 # case-marking 
 # LOC (spatial): in, at, on, to, by, and with 
 # LOC.T (temporal.sense): during/over
 # kitaiteriki / =kitaiteri -ki / =day -LOC.T / EN: 'during.the.day', ES: 'durante.el.día' 
   "[--][-ki][Cas][+LOC_LOC.T]" : [{ki}] 
-| "[--][-ke][Cas][+LOC_LOC.T]" : [{ke}]
+!| "[--][-ke][Cas][+LOC_LOC.T]" : [{ke}] ! it provokes too many falsely analyzed entries.
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=ABS [
-  "[--][-rentsi][Gen][+nposs]" : "@NPOSS"[{rentsi}] 
-| "[--][-rintsi][Gen][+nposs]" : "@NPOSS"[{rintsi}] 
-| "[--][-rontsi][Gen][+nposs]" : "@NPOSS"[{rontsi}] 
-| "[--][-vontsi][Gen][+nposs]" : "@NPOSS"[{vontsi}] 
+#  "[--][-rentsi][Gen][+nposs]" : "@NPOSS"[{rentsi}] 
+#| "[--][-rintsi][Gen][+nposs]" : "@NPOSS"[{rintsi}] 
+#| "[--][-rontsi][Gen][+nposs]" : "@NPOSS"[{rontsi}] 
+#| "[--][-vontsi][Gen][+nposs]" : "@NPOSS"[{vontsi}] 
 ! 
-| "[--][-tsi+alien.][Gen][+nposs]" : "@NPOSS"[{tsi}] 
+  "[--][-tsi+alien.][Gen][+nposs]" : "@NPOSS"[{tsi}] 
 | "[--][-tzi+alien.][Gen][+nposs]" : "@NPOSS"[{tzi}] 
 | "[--][-ntsi+alien.][Gen][+nposs]" : "@NPOSS"[{ntsi}] 
 | "[--][-ntzi+alien.][Gen][+nposs]" : "@NPOSS"[{ntzi}] 
@@ -96,7 +106,9 @@ define N=S=ABS [
 ! 
 | "[--][<*-nchi+alien.][Gen][+nposs]" : "@NPOSS"[{nchi}] 
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=CL [
 # -chari~-chaari: grassy bottom of the river; zone.inhabited by the rainbow spirit oye  
   "[--][-chaari][+CL:dark.water][=dark.water; grassy.bottom.of.the.river]" : {chaari} 
@@ -169,7 +181,7 @@ define N=S=CL [
 | "[--][-nya][+CL:small.shallow.pool.of.water][=small.shallow.pool.of.water; stagnant.water.pool]" : {nya} 
 ! 
 | "[--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ki} ! @CL +SHAPE
-| "[--][-ke][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ke} ! sheyaque +SHAPE ! too many missformed entries within nominalized verbs. 
+!| "[--][-ke][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ke} ! sheyaque +SHAPE ! too many missformed entries within nominalized verbs. 
 ! 
 | "[--][-kii][+CL:long,thin.branch][=long,thin.branch; stick.like.(with.a.sharp.pointed.end)]" : {kii} ! @CL +SHAPE
 ! 
@@ -509,13 +521,17 @@ define N=S=CL [
 | "[--][-pane][+CL:powdery.substance][=powdery.substance]" : {pane} 
 | "[--][-vane][+CL:powdery.substance][=powdery.substance]" : {vane} 
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=EXCL [
   "[--][-ve][+EXCL][=exclaiming,announcing]" : {ve}
 # kanirivi / =kaniri -vi / =yucca -excl / EN: 'manioc (announcing)'
 | "[--][-vi][+EXCL][=exclaiming,announcing]" : {vi}
 ];
-
+                   
+# ****************************************
+                   
 # ---------------------------------------
 #           ranki
 # ---------------------------------------
@@ -537,16 +553,22 @@ define N=S=ADVP [
 # notomiranki / no- =tomi -ranki+absnt. / 1sg.poss- =son -ADV / EN: 'my.son.who.is.absent.at.the.present.moment' 
   "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}] 
 ];
-      
+                   
+# ****************************************
+                   
 # RCG: recognitional 
 define N=S=RCG [
   "[--][-ranki][+RCG]" : [{ranki}]
 ];
-      
+                   
+# ****************************************
+                   
 !      define N=S=ADVT [
 !       "[--][+ADV.T]" : [{ranki}]
 !      ];
-      
+                   
+# ****************************************
+                   
 # ---------------------------------------
 
 define N=S=ADV [
@@ -560,7 +582,9 @@ define N=S=ADV [
 # kapicheni / =kapiche -ni / =little -adv / EN: 'a.little', ES: 'un.poco'
 | "[--][-ni][AS][+ADV]" : [{ni}]
 ];
-      
+                   
+# ****************************************
+                   
 # INTNS: intensifier 
 define N=S=AUG [
 # tenarini / =tena -ri+m -ni / =to.weigh -adj -aug / ES: 'too.heavy', ES: 'demasiado.pesado' 
@@ -588,20 +612,28 @@ define N=S=AUG [
 # abotsisanteki / avotsisanteki / =abo -tsi -sante -ki / =trail -nposs -aug -loc / EN: 'in.the.path'; ES: 'en.el.sendero'  
 | "[--][-sante][+AUG]" : [{sante}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=TEMPORALEXIST [
 # ishireni / i- =shire -ni / 3m.poss- =soul -temporal[ceased.exist.] / EN: 'his.former.soul'; ES: 'lo.que.ha.sido.su.alma' 
   "[--][-ni][+TEMPORAL][=ceased.exist., deceased]" : [{ni}]
 ];
-
+                   
+# ****************************************
+                   
 define N=S=TEMPORALR [
   "[--][-nta][+TEMPORAL][=ceased.r., ceased.relation.with.a.human.referent]" : [{nta}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=leaf [
   "[--][+leaf]" : {tsipana}
 ];
-      
+                   
+# ****************************************
+                   
 # to assert: to state clearly and firmly that something is true
 define N=S=EMPH [
   "[--][-kia][+EMPH_ASSERT]" : [{kia}] 
@@ -612,35 +644,49 @@ define N=S=EMPH [
 ! 
 | "[--][-tya][+EMPH]" : [{tya}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=smallpart [
   "[--][-patsa+small.part]" : [{patsa}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=Q [
   "[--][-ka][+Q]" : [{ka}]
 ];
-      
+                   
+# ****************************************
+                   
 !      define N=S=DISTREL [
 !       "[--][-tsori+surrogate.kin][+DIST.REL]" : [{tsori}]
 !      ];
-      
+                   
+# ****************************************
+                   
 define N=S=DUB [
   "[--][-ma][+DUB]" : [{ma}] 
 | "[--][-mpa][+DUB]" : [{mpa}] 
 | "[--][-taima][+DUB]" : [{taima}] 
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=CNTR [
   "[--][-ha][+CNTR]" : [{ha}]
 # irokamaha / =iroka -maha / =this -cntr / EN: 'instead.this', ES: 'en.cambio.esto'  
 | "[--][-maha][+CNTR][=instead; in.contrast]" : [{maha}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=wide [
   "[--][-tsantsana+wide]" : [{tsantsana}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=NMZ [
   "[--][-nka+quality][+NMZ]" : [{nka}]
 | "[--][-inka+quality][+NMZ]" : [{inka}]
@@ -651,29 +697,41 @@ define N=S=NMZ [
 | "[--][-ro+n.m.][+NMZ]" : [{ro}]
 | "[--][-vo+n.m.][+NMZ]" : [{vo}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=PROG [
   "[--][-atz][+PROG]" : [{atz}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=REAL [
   "[--][-i][+REAL]" : [{i}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=IRR [
   "[--][-ya][+IRR]" : [{ya}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=UNK1 [
   "[--][-rinte][+UNK1]" : [{rinte}]
 ];
-      
+                   
+# ****************************************
+                   
 define N=S=SUPERL [
 # otsiteninkataki / o- =tsiteni -nka -taki / 3n.m.poss- =to.get.dark -nmz -superl / EN: 'totally.dark'  
   "[--][-taki][+SUPERL]" : [{taki}]
 | "[--][-tanaki][+SUPERL]" : [{tanaki}]
 ];
-
+                   
+# ****************************************
+                   
 ! expectational 
 ! direct evidential?  
 ! Declarative clause -> expectational (+EXPECT): EN: 'probably, presumably; as.far.as.I.can.tell'

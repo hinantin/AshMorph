@@ -515,7 +515,7 @@ define V=S=NMZ=SET1 [ # revise!
 | "[--][-enka+quality][+NMZ]" : "@EP"[{enka}] 
 | "[--][-inka+quality][+NMZ]" : "@EP"[{inka}] 
 ! 
-| "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] 
+#| "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] # this is not a nominalizing suffix 
 | "[--][-mento+n.m.][NMZ][+CONCR]" : "@EP"[{mento}]
 | "[--][-minto+n.m.][NMZ][+CONCR]" : "@EP"[{minto}]
 ];
@@ -815,21 +815,21 @@ define V=S=early [ # revise!
 # ****************************************
                    
 # It needs to be fixed. 
-# COMPL completive aspect (on verbs)
+# CMPL completive aspect (on verbs)
 # 1. it focuses on the thorough completion of an event.
 # 2. It denotes complete affectedness of the patientive argument.
-define V=S=COMPL [
-  "[--][-ite][Asp][+COMPL][=quickly,surprisingly]" : "@EP"[{ite}]
+define V=S=CMPL [
+  "[--][-ite][Asp][+CMPL][=quickly,surprisingly]" : "@EP"[{ite}]
 ];
                    
-define COMPL [ [EP V=S=COMPL]|[V=S=COMPL] ];
+define CMPL [ [EP V=S=CMPL]|[V=S=CMPL] ];
                    
 # ****************************************
                    
 define V=S=ICPL [
 ! "[--][-ite][+COMPL][=quickly,surprisingly]" : "@EP"[{ite}]
   "[--][-it][+ICPL][=speed]" : "@EP"[{it}]
-| "[--][-itz][+ICPL][=speed]" : "@EP"[{itz}]
+!| "[--][-itz][+ICPL][=speed]" : "@EP"[{itz}]
 ];
                    
 define ICPL [ [EP V=S=ICPL]|[V=S=ICPL] ];

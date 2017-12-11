@@ -847,8 +847,8 @@ define NRootPRQin [
 | "[=ivenki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri)]" : {ivenki}
 | "[=ivinki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri)]" : {ivinki}
 # ovenki: plant only handle by females 
-| "[=ovenki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ES: vaina)]" : {ovenki}
-| "[=ovinki+n.m.][NRoot][=magic.plant.of_a_female, her.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ES: vaina)]" : {ovinki}
+| "[=ovenki+n.m.+poss@te.][NRoot][=magic.plant.of_a_female, her.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ES: vaina)]" : {ovenki}
+| "[=ovinki+n.m.+poss@te.][NRoot][=magic.plant.of_a_female, her.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ES: vaina)]" : {ovinki}
 ! 
 | "[=oveni][NRoot][=Unini.river (ES: río.Unini)]" : {oveni}
 ! 
