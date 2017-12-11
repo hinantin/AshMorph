@@ -383,8 +383,8 @@ define V=S=STAT=SET1 [
 ! abisaintsiri / avisaintsiri / =avis -aintsi -ri / =to.pass -stat -rel / EN: 'what.has.happened'; ES: 'lo.que.ha.ocurrido' 
 ! sabikaintsiri / savikaintsiri / =savik -aintsi -ri / =to.sit -stat -rel / EN: 'sitted'; ES: 'sentado' 
 ! abisaintsiri peerani / avisaintsiri peerani / =avis -aintsi -ri =peerani / =to.pass -stat -rel =long.ago / EN: 'history'; ES: 'historia; lo.que.sucedió.hace.mucho.tiempo'  
-| "[--][-aintsi][+STAT]" : "@EP"[{aintsi}] 
-| "[--][-aentsi][+STAT]" : "@EP"[{aentsi}] 
+| "[--][-aintsi][+STAT.PRF]" : "@EP"[{aintsi}] 
+| "[--][-aentsi][+STAT.PRF]" : "@EP"[{aentsi}] 
 # --------
 ! inchato tainchari / =incha -to =ta -incha -ri / =plant -cl:tree =to.burn -stat -rel / ES: 'árbol.quemado'; EN: 'burned.tree' 
 ! kaniri pichainchari / =kaniri =picha -incha -ri / =yucca =to.crush.sth. -stat -rel / ES: 'yuca.(masa.cocinada)'; EN: 'cooked.yucca.mass' 
@@ -531,7 +531,7 @@ define V=S=NMZ=SET2 [
 ];
                    
 define NMZ [
-  [V=S=NMZ=SET1]
+  [EP V=S=NMZ=SET1]|[V=S=NMZ=SET1]
 | [EP V=S=NMZ=SET2]|[V=S=NMZ=SET2]
 ];
                    
