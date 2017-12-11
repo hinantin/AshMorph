@@ -501,23 +501,26 @@ define V=S=DIM [ # revise!
                    
 define V=S=NMZ=SET1 [ # revise!
 # ----------------------------------
-  "[--][-rontsi][+NMZ]" : "@EP"[{rontsi}] 
-| "[--][-vontsi][+NMZ]" : "@EP"[{vontsi}] 
-| "[--][-rintsi][+NMZ]" : "@EP"[{rintsi}] 
-| "[--][-rentsi][+NMZ]" : "@EP"[{rentsi}] 
-| "[--][-renti][+NMZ]" : "@EP"[{renti}] 
+# followed by -ntsi 
+  "[--][-ro][+NMZ]" : "@EP"[{ro}]"@NMZ" 
+| "[--][-vo][+NMZ]" : "@EP"[{vo}]"@NMZ" 
+| "[--][-ri][+NMZ]" : "@EP"[{ri}]"@NMZ" 
+| "[--][-re][+NMZ]" : "@EP"[{re}]"@NMZ" 
+#| "[--][-re][+NMZ]" : "@EP"[{re}]"@NMZ" 
 # ----------------------------------
-| "[--][-ri][+NMZ]" : "@EP"[{ri}] 
+#| "[--][-ri][+NMZ]" : "@EP"[{ri}] 
 ! 
-| "[--][-nk][+NMZ]" : "@EP"[{nk}] 
+# followed by none 
+#| "[--][-nk][+NMZ]" : "@EP"[{nk}] 
 | "[--][-nka+quality][+NMZ]" : "@EP"[{nka}] 
 | "[--][-enkaa+quality][+NMZ]" : "@EP"[{enkaa}] 
 | "[--][-enka+quality][+NMZ]" : "@EP"[{enka}] 
 | "[--][-inka+quality][+NMZ]" : "@EP"[{inka}] 
 ! 
 #| "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] # this is not a nominalizing suffix 
-| "[--][-mento+n.m.][NMZ][+CONCR]" : "@EP"[{mento}]
-| "[--][-minto+n.m.][NMZ][+CONCR]" : "@EP"[{minto}]
+# followed by -tsi 
+| "[--][-mento+n.m.][NMZ][+CONCR]" : "@EP"[{mento}]"@NMZ"
+| "[--][-minto+n.m.][NMZ][+CONCR]" : "@EP"[{minto}]"@NMZ"
 ];
 
 define V=S=NMZ=SET2 [

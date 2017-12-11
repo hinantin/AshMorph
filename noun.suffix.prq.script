@@ -100,6 +100,7 @@ define N=S=ABS [
 ! 
   "[--][-tsi+alien.][Gen][+nposs]" : "@NPOSS"[{tsi}] 
 | "[--][-tzi+alien.][Gen][+nposs]" : "@NPOSS"[{tzi}] 
+! 
 | "[--][-ntsi+alien.][Gen][+nposs]" : "@NPOSS"[{ntsi}] 
 | "[--][-ntzi+alien.][Gen][+nposs]" : "@NPOSS"[{ntzi}] 
 | "[--][-nti+alien.][Gen][+nposs]" : "@NPOSS"[{nti}] 
