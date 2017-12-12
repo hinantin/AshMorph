@@ -140,13 +140,13 @@ define ORootPRQin [
 ! 
 ! 
 # tsamitya / =tsami -tya / =come.on -emph / EN: 'let's go now' 
-| "[=tsame+standalone][VRoot][=come.on, let's.go]" : {tsame} ! Interj. 
-| "[=tsami+standalone][VRoot][=come.on, let's.go]" : {tsami} ! Interj. 
-| "[=tsami+standalone][VRoot][=come.on, let's.go][--][-tya][+EMPH]" : {tsamitya}
-| "[=tsame+standalone][VRoot][=come.on, let's.go][--][-tya][+EMPH]" : {tsametya}
-# Copula 
+| "[=tsame+standalone][VRoot][=COME.ON, LET'S.GO]" : {tsame} ! Interj. 
+| "[=tsami+standalone][VRoot][=COME.ON, LET'S.GO]" : {tsami} ! Interj. 
+| "[=tsami+standalone][VRoot][=COME.ON, LET'S.GO][--][-tya][+EMPH]" : {tsamitya}
+| "[=tsame+standalone][VRoot][=COME.ON, LET'S.GO][--][-tya][+EMPH]" : {tsametya}
+# Copula P5C
 # Negative copula 
-| "[=kaari][VRoot][=NEG.COP (En: not.be; ES: no.es)]" : {kaari}
+| "[=kaari][VRoot][=NEG.COP (EN: not.be; ES: no.es)]" : {kaari}
 ! 
 | "[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tema}
 | "[=tempa][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tempa}
