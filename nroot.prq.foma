@@ -590,11 +590,13 @@ define NRootPRQin [
 | "[=hinyaa+n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hinyaa}
 | "[=hiaa+n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hiaa}
 ! 
-| "[=hiva+n.m.+inal.][NRoot][=fan (ES: abanico)]" : {hiva}
-| "[=heva+n.m.+inal.][NRoot][=fan (ES: abanico)]" : {heva}
-| "[=eevaro+n.m.+inal.][NRoot][=fan (ES: abanico)]" : {eevaro}
-| "[=eevavo+n.m.+inal.][NRoot][=fan (ES: abanico)]" : {eevavo}
-| "[=iivavo+n.m.+inal.][NRoot][=fan (ES: abanico)]" : {iivavo}
+| "[=hiva+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {hiva}
+| "[=heva+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {heva}
+| "[=hevaa+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {hevaa}
+| "[=eevaro+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {eevaro}
+| "[=eevavo+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {eevavo}
+| "[=iivavo+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {iivavo}
+| "[=hevare+m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {hevare}
 ! 
 | "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {sompo} ! N@->V 
 | "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {hompo}
@@ -2625,8 +2627,8 @@ define NRootPRQin [
 ! 
 | "[=tsiriitzi][NRoot][=buff-throated.saltator (sci.nm.: saltator.maximus)]" : {tsiriitzi}
 ! 
-| "[=tsio][NRoot][=sister (kin.of.a.male)]" : {tsio}
-| "[=tsiro][NRoot][=sister (kin.of.a.male)]" : {tsiro}
+| "[=tsio+n.m.][NRoot][=sister (kin.of.a.male)]" : {tsio}
+| "[=tsiro+n.m.][NRoot][=sister (kin.of.a.male)]" : {tsiro}
 ! 
 | "[=tsitashike][NRoot][=plant.sp. (jaboncillo)]" : {tsitashike}
 ! 
@@ -2634,7 +2636,7 @@ define NRootPRQin [
 ! 
 | "[=tsoaki][NRoot][=shoot, part.that.grows.up.from.the.ground.when.a.plant.starts.to.grow (ES: brote)]" : {tsoaki}
 ! 
-| "[=pavi+n.m.+inal.][NRoot][=stairs, bridge/ramp.formed.by.a.fallen_tree/stick]" : {pavi}
+| "[=pavi+n.m.+inal@tsi.][NRoot][=stairs, bridge/ramp.formed.by.a.fallen_tree/stick]" : {pavi}
 ! 
 # bats 
 | "[=piiri][NRoot][=bat.sp. (sci.nm.: orden.chiroptera)]" : {piiri}
@@ -2776,8 +2778,8 @@ define NRootPRQin [
 | "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
 | "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
 ! 
-| "[=rento+n.m.+inal.][NRoot][=sister (kin.of.a.female)]" : {rento}
-| "[=reento+n.m.+inal.][NRoot][=sister (kin.of.a.female)]" : {reento}
+| "[=rento+n.m.+inal@tsi.][NRoot][=sister (kin.of.a.female)]" : {rento}
+| "[=reento+n.m.+inal@tsi.][NRoot][=sister (kin.of.a.female)]" : {reento}
 | "[=irento+n.m.][NRoot][=sister (kin.of.a.female)]" : {irento}
 | "[=ireento+n.m.][NRoot][=sister (kin.of.a.female)]" : {ireento}
 | "[=irinto+n.m.][NRoot][=sister (kin.of.a.female)]" : {irinto}
@@ -2848,7 +2850,7 @@ define NRootPRQin [
 | "[=shametyo+n.m.][NRoot][=godmother]" : {shametyo}
 | "[=shamityo+n.m.][NRoot][=godmother]" : {shamityo}
 ! 
-| "[=shamitzi+inal.][NRoot][=namesake]" : {shamitzi}
+| "[=shamitzi+inal@ntsi.][NRoot][=namesake]" : {shamitzi}
 ! 
 | "[=shamo][NRoot][=buff-throated.foliage.gleaner (sci.nm.: automolus.ochrolaemus)]" : {shamo}
 ! 
