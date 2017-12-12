@@ -502,11 +502,11 @@ define V=S=DIM [ # revise!
 define V=S=NMZ=SET1 [ # revise!
 # ----------------------------------
 # followed by -ntsi 
-  "[--][-ro][+NMZ]" : "@EP"[{ro}]"@NMZ" 
-| "[--][-vo][+NMZ]" : "@EP"[{vo}]"@NMZ" 
-| "[--][-ri][+NMZ]" : "@EP"[{ri}]"@NMZ" 
-| "[--][-re][+NMZ]" : "@EP"[{re}]"@NMZ" 
-#| "[--][-re][+NMZ]" : "@EP"[{re}]"@NMZ" 
+  "[--][-ro][+NMZ]" : "@EP"[{ro}]"@NMZ@" 
+| "[--][-vo][+NMZ]" : "@EP"[{vo}]"@NMZ@" 
+| "[--][-ri][+NMZ]" : "@EP"[{ri}]"@NMZ@" 
+| "[--][-re][+NMZ]" : "@EP"[{re}]"@NMZ@" 
+#| "[--][-re][+NMZ]" : "@EP"[{re}]"@NMZ@" 
 # ----------------------------------
 #| "[--][-ri][+NMZ]" : "@EP"[{ri}] 
 ! 
@@ -519,8 +519,8 @@ define V=S=NMZ=SET1 [ # revise!
 ! 
 #| "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] # this is not a nominalizing suffix 
 # followed by -tsi 
-| "[--][-mento+n.m.][NMZ][+CONCR]" : "@EP"[{mento}]"@NMZ"
-| "[--][-minto+n.m.][NMZ][+CONCR]" : "@EP"[{minto}]"@NMZ"
+| "[--][-mento+n.m.][NMZ][+CONCR]" : "@EP"[{mento}]"@NMZ@"
+| "[--][-minto+n.m.][NMZ][+CONCR]" : "@EP"[{minto}]"@NMZ@"
 ];
 
 define V=S=NMZ=SET2 [

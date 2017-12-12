@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -151,8 +151,8 @@ TZEpenthesisRule8
      #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5] ;
       #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. TransAgentWithoutObject .o. TransSubjectWithObject] ;
 
-      define MPRestr1 [ ["@MP@"] => {m} _ {p} ]; 
-      define NVowelRestr1 [ ["@NVowel@"] => {n} _ [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}] ]; ! n, p should be omitted ? 
+      define MPRestr1 [ ["@MP@"] => {m} _ {p} ]; # IRREALIS PREFIX
+      define NVowelRestr1 [ ["@NVowel@"] => {n} _ [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}] ]; ! n, p should be omitted ? # IRREALIS PREFIX
       define PersPrefixRestr1 [ Cons => .#. ~[[{h}|{n}|{p}|{r}]"@VPERS@"] _ ];
       define PersPrefixRestr2 [ [{o}] => .#. ~[[{pi}]"@VPERS@"] _ ]; 
       define AgentiveCausativeRestr1 [ [{o}]"@AGTCAUS@" => .#. ~[[{n}]"@VPERS@"] _ ]; # no examples available, but it causes a lot of overgeneration that's why it should be regulated  
@@ -252,11 +252,8 @@ TZEpenthesisRule8
       
       define IRestr1 [ ["@I@"] => {i} _ ]; 
       define NIRestr1 [ ["@NI@"] => {ni} _ ]; 
-      # Nominalized verbs 
-      define NPOSSRestr1 [ ["@NPOSS"[{tsi}|{tzi}]] => ~["@EP"[{ro}|{vo}|{re}|{ri}]"@NMZ"] _ ]; 
-      define NPOSSRestr2 [ ["@NPOSS"[{ntsi}|{ntzi}|{nti}|{nchi}]] => ~["@EP"[{mento}|{minto}]"@NMZ"] _ ]; 
       
-      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 .o. IRestr1 .o. NIRestr1 .o. NPOSSRestr1 .o. NPOSSRestr2 ];
+      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 .o. IRestr1 .o. NIRestr1 ];
       
       source nroot.prq.foma
       source aroot.prq.foma
@@ -305,6 +302,12 @@ TZEpenthesisRule8
       #   Nominalized verb     #
       #                        #
       ##########################
+      # Nominalized verbs 
+      define NPOSSRestr1 [ ["@NPOSS"[{ntsi}|{ntzi}|{nti}|{nchi}]] => ["@EP"[{ro}|{vo}|{re}|{ri}]"@NMZ@"] _ ]; 
+      define NPOSSRestr2 [ ["@NPOSS"[{tsi}|{tzi}]] => ["@EP"[{mento}|{minto}]"@NMZ@"] _ ];
+
+      define NominalizedVerbFeatRestr [ NPOSSRestr1 .o. NPOSSRestr2 ];
+
       define NominalizedVerb [ (NPref) [VRootPRQ] ( [
                                                      [APPLINT DUR] 
                                                    | [APPL] # tseeyakotaantsi / =tsee -ako -t -aantsi / =to.lie -appl -ep -ing / ES: 'difamar'; EN: 'to.defame; to.slander'  
@@ -321,7 +324,7 @@ TZEpenthesisRule8
                                                   ] )
                                                   # konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
                                                   [ V=S=CL|[V=S=CL [NMZ|V=S=ADJ]]|[NMZ|V=S=ADJ] ] (NRootCmpPRQ) 
-                                                  (NSuff) ] .o. Lenition .o. NounFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
+                                                  (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
       
 
 # | V=S=ADJ # nominalization 
