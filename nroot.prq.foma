@@ -810,8 +810,8 @@ define NRootPRQin [
 | "[=irichi][NRoot][=milk]" : {irichi}
 ! 
 | "[=iriani][NRoot][=child (ES: niño)]" : {iriani}
-| "[=irianeriki][NRoot][=child (ES: niño)]" : {irianeriki}
-| "[=irianeeriki][NRoot][=child (ES: niño)]" : {irianeeriki}
+| "[=irianeriki+m.][NRoot][=child (ES: niño)]" : {irianeriki}
+| "[=irianeeriki+m.][NRoot][=child (ES: niño)]" : {irianeeriki}
 ! 
 | "[=irimashi][NRoot][=Lima]" : {irimashi} ! lima li -> iri(i) - ma -> ma -> shi -> CL
 ! 
@@ -1387,11 +1387,11 @@ define NRootPRQin [
 ! 
 | "[=kitoniro+m.][NRoot][=scorpion]" : {kitoniro}
 ! 
-| "[=kitsari+n.m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsari} ! kitsa-ri to.dress-nmz
-| "[=kitsare+n.m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsare}
-| "[=kitsaare+n.m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsaare} 
-| "[=kitsaari+n.m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsaari} 
-| "[=ketsare+n.m.+inal@ntsi.][NRoot][=dress (ES: vestido), cushma, cloth (ES: tela)]" : {ketsare} ! o-etsa-re-ki 
+| "[=kitsari+m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsari} ! kitsa-ri to.dress-nmz
+| "[=kitsare+m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsare}
+| "[=kitsaare+m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsaare} 
+| "[=kitsaari+m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsaari} 
+| "[=ketsare+m.+inal@ntsi.][NRoot][=dress (ES: vestido), cushma, cloth (ES: tela)]" : {ketsare} ! o-etsa-re-ki 
 ! 
 | "[=kitsa+m.][NRoot][=nocturnal.monkey.sp. (ES: chosna, sp.de.mono.nocturno)]" : {kitsa} 
 | "[=kitsani][NRoot][=kinkajou (ES: kinkajú; sci.nm.: potos.flavus); nocturnal.monkey (ES: mono.nocturno)]" : {kitsani}
