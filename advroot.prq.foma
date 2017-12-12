@@ -110,6 +110,9 @@ define AdvRootPRQin [
 | "[=tsiteniranki][AdvRoot][=last.night]" : {tsiteniranki}
 ! 
 | "[=shavinihi][AdvRoot][=in.the.afternoon]" : {shavinihi}
+| "[=shaavinihi][AdvRoot][=afternoon (ES: tarde)]" : {shaavinihi}
+| "[=ishaaviini][AdvRoot][=afternoon (ES: tarde)]" : {ishaaviini}
+| "[=ishaavi][AdvRoot][--][-iti][= (ES: pronto)][--][-ini][+ADV]::[=in/at.the.afternoon (ES: en/por.la.tarde)]" : {ishaaviitiini}
 ];
 
 # ##############################
