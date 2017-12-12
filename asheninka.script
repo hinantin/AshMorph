@@ -253,8 +253,8 @@ TZEpenthesisRule8
       define IRestr1 [ ["@I@"] => {i} _ ]; 
       define NIRestr1 [ ["@NI@"] => {ni} _ ]; 
       # Nominalized verbs 
-      define NPOSSRestr1 [ "@NPOSS"[{ntsi}|{ntzi}|{nti}|{nchi}] => "@EP"[{ro}|{vo}|{re}|{ri}]"@NMZ" _ ]; 
-      define NPOSSRestr2 [ "@NPOSS"[{tsi}|{tzi}] => "@EP"[{mento}|{minto}]"@NMZ" _ ]; 
+      define NPOSSRestr1 [ ["@NPOSS"[{tsi}|{tzi}]] => ~["@EP"[{ro}|{vo}|{re}|{ri}]"@NMZ"] _ ]; 
+      define NPOSSRestr2 [ ["@NPOSS"[{ntsi}|{ntzi}|{nti}|{nchi}]] => ~["@EP"[{mento}|{minto}]"@NMZ"] _ ]; 
       
       define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 .o. IRestr1 .o. NIRestr1 .o. NPOSSRestr1 .o. NPOSSRestr2 ];
       
