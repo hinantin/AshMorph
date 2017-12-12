@@ -321,6 +321,7 @@ TZEpenthesisRule8
                                                    | [DEGR] # ipiroaantsi / =ir -piro -aantsi / =to.drink -degr -inf / EN: 'to.drink.well'
                                                    | [SENSORY] # kisanintantzinkari / =kis -a -nint -antzinkari 
                                                    | [APPLREAS] # añaantarentsi 
+                                                   | [DUR] # ñaabaementotsiki  
                                                   ] )
                                                   # konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
                                                   [ V=S=CL|[V=S=CL [NMZ|V=S=ADJ]]|[NMZ|V=S=ADJ] ] (NRootCmpPRQ) 
