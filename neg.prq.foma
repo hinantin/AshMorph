@@ -50,8 +50,10 @@ define NegPRQin [
 | "[=airo][Neg][=NEG.IRR][--][-ra+medial][Adv][+DEM]" : {airora}
 | "[=eero][Neg][=NEG.IRR][--][-ra+medial][Adv][+DEM]" : {eerora}
 ! 
-# negative copula 
-| "[=kaari][Neg][=NEG.COP]" : {kaari}
+# Copula P5C
+# Negative copula 
+| "[=kaari][Neg][=NEG.COP (EN: not.be; ES: no.es)]" : {kaari}
+!| "[=kaari][VRoot][=NEG.COP (EN: not.be; ES: no.es)]" : {kaari}
 # negative polarity 
 | "[=kaari][Neg][=NEG.P]" : {kaari}
 | "[=taan][Neg][=NEG.W]" : {taan}
