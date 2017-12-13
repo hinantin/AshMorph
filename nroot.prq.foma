@@ -250,7 +250,8 @@ define NRootPRQin [
 | "[=che+m.+inal@tsi.][NRoot][=horn (ES: cuerno); thorn, spiny.thorn]" : {che}
 | "[=chee+m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : {chee} ! @VCMP 
 | "[=chii+m.+inal@tsi.][NRoot][=horn (ES: cuerno); thorn, spiny.thorn]" : {chii}
-| "[=tsee+m.+inal.][NRoot][=horn (ES: cuerno); thorn, spiny.thorn]" : {tsee}
+| "[=tsee+m.+inal@tsi.][NRoot][=horn (ES: cuerno); thorn, spiny.thorn]" : {tsee} ! inal. tsi to be checked!!!
+| "[=tseeki+m.+inal@tsi.][NRoot][=horn (ES: cuerno); thorn, spiny.thorn]" : {tseeki}
 ! 
 | "[=tseki+inal@tsi.][NRoot][=needle/thorn.tip (ES: punta.de.aguja/espina)]" : {tseki}
 | "[=tseeki+inal@tsi.][NRoot][=needle/thorn.tip (ES: punta.de.aguja/espina)]" : {tseeki}
@@ -401,8 +402,13 @@ define NRootPRQin [
 | "[=chopii][NRoot][=natural.pudding.made.with.green.plantain (ES: mazamorra.natural.hecho.con.plátano.verde)]" : {chopii} 
 | "[=chopi][NRoot][=soup/podding.made.with.plantain/fish/meat/yucca (ES: sopa/mazamorra)]" : {chopi} 
 ! 
-| "[=chopire+n.m.+inal.][NRoot][=mixed.soup, soup]" : {chopire} 
-| "[=chopiri+n.m.+inal.][NRoot][=mixed.soup, soup]" : {chopiri} 
+! chopitantsi
+! chopirintsi
+! chopirintsi parentzi / ES: 'sopa.de.plátano'
+! chopirintsi shima / ES: 'saldo.de.pescado'
+! antantsi chopi / ES: 'hacer.sopa'
+| "[=chopire+n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopire} 
+| "[=chopiri+n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopiri} 
 ! 
 | "[=chorina+n.m.][NRoot][=palm.tree.sp. (sci.nm.: oenocarpus.mapora)]" : {chorina} 
 | "[=chorena+n.m.][NRoot][=palm.tree.sp. (sci.nm.: oenocarpus.mapora)]" : {chorena} 
@@ -429,7 +435,8 @@ define NRootPRQin [
 | "[=chovantzi+m.][NRoot][=spotted.sandpiper (sci.nm.: actitis.macularia); bird.sp.]" : {chovantzi} ! chouantzi
 | "[=shankenti][NRoot][=spotted.sandpiper (sci.nm.: actitis.macularia); bird.sp.]" : {shankenti} ! revise?
 ! 
-| "[=chovi+m.+inal.][NRoot][=parasitic.worm; intestinal.worm.sp.; insect.sp.]" : {chovi}
+! chowitsi / 
+| "[=chovi+m.+inal@tsi.][NRoot][=parasitic.worm; intestinal.worm.sp. (ES: gusano); insect.sp.]" : {chovi}
 ! 
 | "[=echonti][NRoot][=wasp]" : {echonti}
 ! 
@@ -859,8 +866,8 @@ define NRootPRQin [
 ! 
 | "[=pentaki+n.m.+inal@ntsi.][NRoot][=fish.scale (ES: escama.de.pez)]" : {pentaki}
 ! 
-| "[=ivire+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {ivire}
-| "[=iviri+n.m.+inal.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
+| "[=ivire+n.m.+inal@ntsi.][NRoot][=bird.trap.woven.with.tree_bark]" : {ivire}
+| "[=iviri+n.m.+inal@ntsi.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
 ! 
 | "[=iveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {iveto}
 | "[=oveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {oveto}
@@ -1539,8 +1546,8 @@ define NRootPRQin [
 | "[=kovachere][NRoot][=bird.sp. (ES: unchala)]" : {kovachere}
 | "[=kovacheri][NRoot][=gray-necked.wood.rail, bird.sp. (unchala, sci.nm.: aramides.cajanea)]" : {kovacheri}
 ! 
-| "[=kotzi+n.m.+inal.][NRoot][=cane, stick (ES: bastón)]" : {kotzi}
-| "[=koti+n.m.+inal.][NRoot][=cane, stick (ES: bastón)]" : {koti}
+| "[=kotzi+n.m.+inal@tsi.][NRoot][=cane, stick (ES: bastón)]" : {kotzi}
+| "[=koti+n.m.+inal@tsi.][NRoot][=cane, stick (ES: bastón)]" : {koti}
 ! 
 | "[=koti][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {koti}
 ! 
@@ -2787,8 +2794,6 @@ define NRootPRQin [
 ! 
 | "[=riro][NRoot][=watch]" : {riro}
 ! 
-| "[=rishi+m.+inal.][NRoot][=tail]" : {rishi} ! to be checked 
-! 
 | "[=saankotzi][NRoot][=cinereous.tinamou (sci.nm.: crypturellus.cinereus)]" : {saankotzi}
 ! 
 | "[=saari+m.][NRoot][=opossum, possum (ES: zarigüeya)]" : {saari}
@@ -3534,8 +3539,8 @@ define NRootPRQin [
 ! 
 | "[=tsomanto+n.m.][NRoot][=tree.sp. (cumala)]" : {tsomanto}
 ! 
-| "[=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsome} ! @VCMP
-| "[=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsomi} ! @VCMP
+| "[=tsome+n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsome} ! @VCMP
+| "[=tsomi+n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsomi} ! @VCMP
 ! 
 | "[=tsomiri][NRoot][=black.boa.sp. (ES: boa.negra); demonic.water.owner]" : {tsomiri}
 ! 
@@ -3819,6 +3824,7 @@ define NRootPRQin [
 ! 
 | "[=tinko+n.m.+inal@tsi.][NRoot][=tail (ES: rabo, cola)]" : {tinko}
 | "[=tzinko+n.m.+inal@tsi.][NRoot][=tail (ES: rabo, cola)]" : {tzinko}
+| "[=rishi+m.+inal.][NRoot][=tail]" : {rishi} ! to be checked 
 ! 
 | "[=tinkotsi+n.m.][NRoot][=(edible).tuber.sp. (ES: tubérculo.indígena, arrurruz; sci.nm.: maranta.arundinacea)]" : {tinkotsi}
 | "[=tzinkotsi+n.m.][NRoot][=(edible).tuber.sp. (ES: tubérculo.indígena, arrurruz; sci.nm.: maranta.arundinacea)]" : {tzinkotsi}
