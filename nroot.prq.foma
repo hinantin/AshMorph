@@ -323,7 +323,7 @@ define NRootPRQin [
 | "[=chevaa][NRoot][=(river's).branch, distributary (ES: defluente)]" : {chevaa}
 | "[=chiva][NRoot][=(river's).branch, distributary (ES: defluente)]" : {chiva}
 ! 
-| "[=chevo+inal.][NRoot][=branch]" : {chevo}r
+| "[=chevo+inal@tsi.][NRoot][=branch]" : {chevo}
 ! 
 | "[=chiroti][NRoot][=small.yellow-with-black.bird.sp. (ES: paucarcillo)]" : {chiroti}
 ! 
@@ -386,8 +386,8 @@ define NRootPRQin [
 ! 
 | "[=choriitzi][NRoot][=blue-and-white.swallow (sci.nm.: notiochelydon.cyanoleuca)]" : {choriitzi}
 ! 
-| "[=choketa+n.m.+inal.][NRoot][=shoulder, shoulder.blade]" : {choketa} 
-| "[=chokita+n.m.+inal.][NRoot][=shoulder, shoulder.blade]" : {chokita} 
+| "[=choketa+n.m.+inal@ntsi.][NRoot][=shoulder (ES: hombre), shoulder.blade (ES: omóplato)]" : {choketa} 
+| "[=chokita+n.m.+inal@ntsi.][NRoot][=shoulder (ES: hombre), shoulder.blade (ES: omóplato)]" : {chokita} 
 ! 
 | "[=chookiro][NRoot][=tree.ant.sp. (black.colored.ant)]" : {chookiro} 
 ! 
@@ -643,15 +643,15 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------
 # Vocative form 
-| "[=ina+n.m.+inal.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ina} ! non-possesive form?
-| "[=ena+n.m.+inal.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ena}
-| "[=inaa+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {inaa}
-| "[=iina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {iina}
+| "[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ina} ! non-possesive form?
+| "[=ena+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {ena}
+| "[=inaa+n.m.+inal@tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {inaa}
+| "[=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {iina}
 ! 1st, 2nd, 3rd person 
 | "[=niro+n.m.][NRoot][=mother (kin.of.a.fe/male)]" : {niro}
 # ---------------------------------------------------------------------
 # Vocative form; 1st, 2nd, 3rd person  
-| "[=hina+n.m.+inal.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {hina}
+| "[=hina+n.m.+inal@n/tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {hina}
 # ---------------------------------------------------------------------
 ! 
 # kaarainari / =kaara =ina -ri / =empty =sphere -nmz / EN: 'bald'; ES: 'calvo' 
@@ -794,8 +794,9 @@ define NRootPRQin [
 | "[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimbillo, judía.delem.helado; QU: paqay; botany.nm.: inga.sp.)]" : {intsipa}
 ! 
 # iraantsi / =iraa -ntsi / =blood -nposs / EN: 'blood', ES: 'sangre'  
-| "[=iraa+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraa} 
-| "[=ira+n.m.+inal.+poss@ni.][NRoot][=blood (ES: sangre)]" : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
+| "[=iraa+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraa} 
+| "[=iraha+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraha} 
+| "[=ira+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
 ! 
 | "[=irantsipi+n.m.][NRoot][=sugar.cane.sp.]" : {irantsipi}
 ! 
@@ -969,9 +970,9 @@ define NRootPRQin [
 | "[=kaasho+n.m.][NRoot][=walnut.sp. (ES: nuez-marañon)]" : {kaasho}
 | "[=kaahyo+n.m.][NRoot][=walnut.sp. (ES: nuez-marañon)]" : {kaahyo}
 ! 
-! kachaarentsi / =kachaare -ntsi / =humo -nposs / EN: 'smoke'; ES: 'humo' 
-| "[=kachaari+n.m.+inal.][NRoot][=smoke (ES: humo)]" : {kachaari} 
-| "[=kachaare+n.m.+inal.][NRoot][=smoke (ES: humo)]" : {kachaare} 
+! kachaarentsi / =kachaare -ntsi / =humo -nposs / EN: 'smoke'; ES: 'humo' ! inal to be revised!!! it comes from the Kachaataantsi verb. 
+| "[=kachaari+n.m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaari} 
+| "[=kachaare+n.m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaare} 
 ! 
 | "[=kachente+n.m.][NRoot][=plant/tree.sp.]" : {kachente}
 | "[=kachenti+n.m.][NRoot][=plant/tree.sp.]" : {kachenti}
@@ -1559,7 +1560,7 @@ define NRootPRQin [
 | "[=kovinko][NRoot][=white-necked.puffbird (sci.nm.: notharcus.macrorhinchus)]" : {kovinko}
 ! 
 | "[=kovinkotzi][NRoot][=musician.wren (sci.nm.: cyphorhinus.arada)]" : {kovinkotzi}
-! +inal.?
+! inal?
 | "[=kovitsi+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {kovitsi}
 | "[=koviti+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {koviti}
 | "[=kovitzi+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {kovitzi}
