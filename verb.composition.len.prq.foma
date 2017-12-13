@@ -36,8 +36,8 @@ define V=S=LEN=noun [
 | "[--][=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
 | "[--][=shempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro)]" : {shempa} ! @VCMP 
 | "[--][=shire+n.m.+inal@tsi.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire} ! @VCMP
-| "[--][=tsome+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsome} ! @VCMP
-| "[--][=tsomi+n.m.+inal.][NRoot][=plantain/banana.flower]" : {tsomi} ! @VCMP
+| "[--][=tsome+n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsome} ! @VCMP
+| "[--][=tsomi+n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsomi} ! @VCMP
 | "[--][=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
 !| "[--][=tsipana+n.m.][NRoot][=leaf]" : {tsipana} ! @VCMP @CMP 
 | "[--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
