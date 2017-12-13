@@ -1248,11 +1248,11 @@ define VRootPRQin [
 # pochokinti / =pochoki -nti+m. / =to.dream -adj / EN:'sleepyhead', ES:'dormilón' 
 | "[=pochoki][VRoot][=to.dream (ES: tener.sueño)]" : {pochoki}
 ! 
-| "[=poema][VRoot][=to.sound]" : {poema}
-| "[=poima][VRoot][=to.sound]" : {poima}
+| "[=poema][VRoot][=to.sound (ES: sonar)]" : {poema}
+| "[=poima][VRoot][=to.sound (ES: sonar)]" : {poima}
 # ipaematanakero 
-| "[=paema][VRoot][=to.sound]" : {paema}
-| "[=paima][VRoot][=to.sound]" : {paima}
+| "[=paema][VRoot][=to.sound (ES: sonar)]" : {paema}
+| "[=paima][VRoot][=to.sound (ES: sonar)]" : {paima}
 ! 
 | "[=pok][VRoot][=to.come, to.arrive]" : {pok}
 ! 
