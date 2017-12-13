@@ -1275,6 +1275,7 @@ define NRootPRQin [
 | "[=kepitee+n.m.+inal@ntsi.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {kepitee}
 | "[=yepite+n.m.+inal@ntsi.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {yepite}
 | "[=yipite+n.m.+inal@ntsi.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {yipite}
+| "[=yipiti+n.m.+inal@ntsi.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {yipiti}
 ! 
 | "[=kepya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepya}
 | "[=kepea+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepea}
@@ -3908,13 +3909,15 @@ define NRootPRQin [
 | "[=yaari+m.+poss@ri.][NRoot][=brother (kin.of.a.female)]" : {yaari}
 | "[=iyaari+m.+poss@ri.][NRoot][=brother (kin.of.a.female)]" : {iyaari}
 ! 
+| "[=yatsinka+inal@ntsi.][NRoot][=poison]" : {yatsinka}
+! 
 | "[=yeeyi+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]" : {yeeyi}
 | "[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]" : {yeye}
 | "[=yiiyi+m.+poss@ti.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]" : {yiiyi}
 ! 
 | "[=yenka+n.m.+inal@ntsi.][NRoot][=fat (ES: manteca, grasa, cebo; aceite)]" : {yenka}
-| "[=yeenka+n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {yeenka}
-| "[=yiinka+n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {yiinka}
+| "[=yeenka+n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo); body.fat]" : {yeenka}
+| "[=yiinka+n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo); body.fat]" : {yiinka}
 ! 
 | "[=yentziri+n.m.][NRoot][=male.garlic (ES: ajo.macho)]" : {yentziri}
 ! 
