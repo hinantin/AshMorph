@@ -104,7 +104,7 @@ define NRootPRQin [
 ! 
 | "[=akopero][NRoot][=wrist]" : {akopero}
 ! 
-| "[=akosanori+inal.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akosanori}
+| "[=akosanori][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akosanori}
 | "[=akopero+inal@n/tsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopero}
 | "[=akoperori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akoperori}
 | "[=akopirori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopirori}
@@ -1930,8 +1930,8 @@ define NRootPRQin [
 | "[=mita+n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {mita}
 | "[=mitaa+n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {mitaa}
 ! 
-| "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {metasankari} ! compound 
-| "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {mitasankari} ! compound 
+| "[=meta+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal@ntsi.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {metasankari} ! compound 
+| "[=mita+n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+n.m.+inal@ntsi.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {mitasankari} ! compound 
 ! 
 | "[=miti+inal@tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {miti}
 | "[=mitzi+inal@tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzi}
@@ -3223,8 +3223,8 @@ define NRootPRQin [
 | "[=shintake][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintake}
 ! 
 | "[=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.of.fe/male)]" : {shinto}
-| "[=ishinto+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishinto} # nishinto, revise inal.??
-| "[=ishintyo+n.m.+inal.][NRoot][=daughter (kin.of.fe/male)]" : {ishintyo} # nishintyo, revise inal.??
+| "[=ishinto+n.m.][NRoot][=daughter (kin.of.fe/male)]" : {ishinto} # nishinto, revise inal.??
+| "[=ishintyo+n.m.][NRoot][=daughter (kin.of.fe/male)]" : {ishintyo} # nishintyo, revise inal.??
 ! 
 | "[=shintsipaa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintsipaa}
 | "[=shintzipa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintzipa}
@@ -3407,7 +3407,7 @@ define NRootPRQin [
 | "[=tajore+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tajore} 
 | "[=tasore+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tasore} 
 | "[=tazore+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tazore} 
-| "[=tasorentsi+m.+inal.+poss@te.][NRoot][=god, saint, sacred; great.spirit]" : {tasorentsi} 
+| "[=tasorentsi+m.+poss@te.][NRoot][=god, saint, sacred; great.spirit]" : {tasorentsi} 
 | "[=tsorentsi][NRoot][=god, saint, sacred]" : {tsorentsi}
 | "[=tsorintsi][NRoot][=god, saint, sacred]" : {tsorintsi}
 ! 
@@ -3821,7 +3821,7 @@ define NRootPRQin [
 ! 
 | "[=tinko+n.m.+inal@tsi.][NRoot][=tail (ES: rabo, cola)]" : {tinko}
 | "[=tzinko+n.m.+inal@tsi.][NRoot][=tail (ES: rabo, cola)]" : {tzinko}
-| "[=rishi+m.+inal.][NRoot][=tail]" : {rishi} ! to be checked 
+| "[=rishi+m.][NRoot][=tail]" : {rishi} ! to be checked; inal. ???
 ! 
 | "[=tinkotsi+n.m.][NRoot][=(edible).tuber.sp. (ES: tubérculo.indígena, arrurruz; sci.nm.: maranta.arundinacea)]" : {tinkotsi}
 | "[=tzinkotsi+n.m.][NRoot][=(edible).tuber.sp. (ES: tubérculo.indígena, arrurruz; sci.nm.: maranta.arundinacea)]" : {tzinkotsi}
@@ -3882,8 +3882,8 @@ define NRootPRQin [
 ! 
 | "[=vishiriantsi][NRoot][=song.sung.by.more.than.one.person]" : {vishiriantsi}
 ! 
-| "[=viti+n.m.+inal.][NRoot][=outsider]" : {viti}
-| "[=vitzi+n.m.+inal.][NRoot][=outsider]" : {vitzi}
+| "[=viti+n.m.][NRoot][=outsider]" : {viti} ! inal.???
+| "[=vitzi+n.m.][NRoot][=outsider]" : {vitzi} ! inal.???
 ! 
 # ibiiti / iviiti / i- =viiti / 3m.poss- =hair / EN: 'his.hair', ES: 'su.pelo' 
 | "[=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]" : {viti} ! N@->V
@@ -3923,12 +3923,13 @@ define NRootPRQin [
 ! 
 | "[=yevetsi+n.m.][NRoot][=tree.sp. (shimbillo), fruit.tree.sp.]" : {yevetsi}
 ! 
-| "[=yompari+m.+inal.][NRoot][=friend; trading.partner]" : {yompari}
-| "[=yoNpari+m.+inal.][NRoot][=friend; trading.partner]" : {yõpari}
+! yomparintsi / =friend -nposs / EN: 'friend' \cite[p\'{a}g. 280]{payne:axininca:81} 
+| "[=yompari+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {yompari}
+| "[=yoNpari+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {yõpari}
 | "[=iyompari+m.][NRoot][=friend; trading.partner]" : {iyompari} ! possesive form
-| "[=iyompare+m.+inal.][NRoot][=friend; trading.partner]" : {iyompare}
-| "[=yoNpare+m.+inal.][NRoot][=friend; trading.partner]" : {yõpare}
-| "[=yompare+m.+inal.][NRoot][=friend; trading.partner]" : {yompare}
+| "[=iyompare+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {iyompare}
+| "[=yoNpare+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {yõpare}
+| "[=yompare+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {yompare}
 ! 
 ! ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas; comercio'
 | "[=ayompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo); short-distance.bartering.made.by.males (ES: trueque.de.corta.distancia)]" : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine
