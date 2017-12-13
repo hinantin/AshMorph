@@ -98,4 +98,6 @@ define N [
 #| (N=S=CL) (N=S=CL) (N=S=IRR) (N=S=NMZ) # to.be.revised 
 | (N=S=SUPERL) 
 | (N=S=poss) (N=S=EXPECT) 
+# icharinepeeni 
+| (N=S=PL) (N=S=TEMPORALEXIST) 
 ];

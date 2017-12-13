@@ -1250,6 +1250,9 @@ define VRootPRQin [
 ! 
 | "[=poema][VRoot][=to.sound]" : {poema}
 | "[=poima][VRoot][=to.sound]" : {poima}
+# ipaematanakero 
+| "[=paema][VRoot][=to.sound]" : {paema}
+| "[=paima][VRoot][=to.sound]" : {paima}
 ! 
 | "[=pok][VRoot][=to.come, to.arrive]" : {pok}
 ! 
