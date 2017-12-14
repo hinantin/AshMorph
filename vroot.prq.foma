@@ -75,8 +75,9 @@ define VRootPRQin [
 | "[=ameet][VRoot][=to.have.sb's.hair.cut, to.shave (ES: cortar.(el.pelo), afeitar)]" : {ameet}
 | "[=amiit][VRoot][=to.have.sb's.hair.cut, to.shave (ES: cortar.(el.pelo), afeitar)]" : {amiit}
 ! 
-| "[=amet][VRoot][=to.be.accustomed (ES: acostumbrarse)]" : {amet}
-| "[=amit][VRoot][=to.be.accustomed (ES: acostumbrarse)]" : {amit}
+| "[=amet][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {amet}
+| "[=amit][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {amit}
+| "[=mit][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {mit}
 ! 
 | "[=amik][VRoot][=to.sharpen, to.polish]" : {amik}
 | "[=amek][VRoot][=to.sharpen, to.polish]" : {amek}
@@ -856,8 +857,6 @@ define VRootPRQin [
 | "[=mish][VRoot][=to.remove.skin]" : {mish}
 ! 
 | "[=mishi][VRoot][=to.dream (ES: soñar)]" : {mishi}
-! 
-| "[=mit][VRoot][=to.be.accustomed]" : {mit}
 ! 
 | "[=mitsaink][VRoot][=to.be.in.line]" : {mitsaink}
 | "[=ovetsaink][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {ovetsaink}
