@@ -297,10 +297,11 @@ define V=S=REL [
 # ****************************************
                    
 define V=S=FRUS [
-  "[--][-ve][+FRUS]" : "@EP"[{ve}]
-| "[--][-vi][+FRUS]" : "@EP"[{vi}]
-| "[--][-vit][+FRUS]" : "@EP"[{vit}]
+  "[--][-ve][+FRUS][=in.vain (ES: casi)]" : "@EP"[{ve}]
+| "[--][-vi][+FRUS][=in.vain (ES: casi)]" : "@EP"[{vi}]
+| "[--][-vit][+FRUS][=in.vain (ES: casi)]" : "@EP"[{vit}]
 # -----------------------------------------------
+# ompiyamachevetajia / o- N=][=piya][VRoot][=to.defend (ES: defender)][--][-macheve][+FRUS]macheve[--][-t][+EP]t[--][-ah][Asp][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-ia][+IRR.RFL]ia
 | "[--][-macheve][+FRUS]" : "@EP"[{macheve}]
 ];
                    

@@ -454,6 +454,8 @@ define VRootPRQin [
 ! 
 | "[=kantako][VRoot][=to.accuse (ES: acusar)]" : {kantako}
 ! 
+| "[=kantakotashi][VRoot][=to.hound (ES: acosar)]" : {kantakotashi}
+! 
 # kantabaeshiyetachari / kantavaeshiyetachari / ES: 'desconcentrada' ! this is a translation proposed by the author 
 | "[=kantavaeshiye][VRoot][=to.deconcentrate (ES: desconcentrar)]" : {kantavaeshiye} 
 ! 
@@ -1436,6 +1438,8 @@ define VRootPRQin [
 | "[=shintsi][VRoot][=to.be.quick, to.be.fast]" : {shintsi}
 ! 
 | "[=shintsivent][VRoot][=to.compel.sb.to.do.sth.; to.impose.an.obligation.on/upon.sb.]" : {shintsivent}
+! 
+| "[=shintsina][VRoot][=to.argue.sth. (ES: argüir, exigir)]" : {shintsina}
 # To fry something 
 | "[=shionk][VRoot][=to.fry.sth.]" : {shionk}
 | "[=tsionk][VRoot][=to.fry.sth.]" : {tsionk}
