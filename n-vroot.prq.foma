@@ -14,7 +14,7 @@ define NounToVerbPRQin [
 | "[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]+vbz." : {atziri} ! N@->V @VCMP
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]+vbz." : {atiri} ! N@->V @VCMP
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]+vbz." : {atsiri} ! N@->V @VCMP
-| "[=chakopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
+| "[=chakopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {chaine} ! N@->V
 | "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charini} ! N@->V ! is te as a possessive correct ????
@@ -42,11 +42,11 @@ define NounToVerbPRQin [
 | "[=keario][NRoot][=factual, truth (ES: cierto, verdad)]+vbz." : {keario} ! N@->V
 | "[=kipishi][NRoot][=bitter]+vbz." : {kipishi} ! N@->V
 | "[=kepishi][NRoot][=bitter]+vbz." : {kepishi} ! N@->V
-| "[=kitamaro+n.m.+color][NRoot][=white]+vbz." : {kitamaro} ! N@->V
-| "[=kitamaaro+n.m.+color][NRoot][=white]+vbz." : {kitamaaro} ! N@->V
-| "[=kitamaavo+n.m.+color][NRoot][=white]+vbz." : {kitamaavo} ! N@->V
-| "[=kitamari+m.+color][NRoot][=white]+vbz." : {kitamari} ! N@->V
-| "[=kitamaari+m.+color][NRoot][=white]+vbz." : {kitamaari} ! N@->V
+| "[=kitamaro+n.m.+sem@color.][NRoot][=white]::[to.be.white]+vbz." : {kitamaro} ! N@->V::[to.be.white]
+| "[=kitamaaro+n.m.+sem@color.][NRoot][=white]::[to.be.white]+vbz." : {kitamaaro} ! N@->V::[to.be.white]
+| "[=kitamaavo+n.m.+sem@color.][NRoot][=white]::[to.be.white]+vbz." : {kitamaavo} ! N@->V::[to.be.white]
+| "[=kitamari+m.+sem@color.][NRoot][=white]::[to.be.white]+vbz." : {kitamari} ! N@->V::[to.be.white]
+| "[=kitamaari+m.+sem@color.][NRoot][=white]::[to.be.white]+vbz." : {kitamaari} ! N@->V::[to.be.white]
 | "[=kitsoki][NRoot][=egg]+vbz." : {kitsoki} ! N@->V
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {kooya} ! N@->V
 | "[=koya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {koya} ! N@->V
@@ -71,7 +71,7 @@ define NounToVerbPRQin [
 | "[=pitziki][NRoot][=male.genitals]+vbz." : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]+vbz." : {pitzik} ! N@->V
 | "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]::[=to.fart (ES: tirarse.un.pedo)]+vbz." : {santi} ! N@->V::[=to.fart (ES: tirarse.un.pedo)] 
-| "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]::[=to.act.as.a.shaman]+vbz." : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
+| "[=sheripiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]::[=to.act.as.a.shaman]+vbz." : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
 | "[=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]+vbz." : {shetaki} ! N@->V
 | "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {shiri} ! N@->V
 | "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]+vbz." : {sheri} ! N@->V

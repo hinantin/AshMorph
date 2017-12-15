@@ -265,10 +265,10 @@ define NRootPRQin [
 ! 
 | "[=chekito+m.][NRoot][=frog.sp., small.toad.sp.]" : {chekito}
 ! 
-| "[=chekopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña); cane.for.arrows (ES: caña.para.flechas)]" : {chekopi}
-| "[=chikopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {chikopi}
-| "[=txekopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {txekopi}
-| "[=chakopi+n.m.+poss@te.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {chakopi} ! N@->V
+| "[=chekopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña); cane.for.arrows (ES: caña.para.flechas)]" : {chekopi}
+| "[=chikopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {chikopi}
+| "[=txekopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {txekopi}
+| "[=chakopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {chakopi} ! N@->V
 ! 
 | "[=cheero][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {cheero}
 | "[=tseero][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {tseero}
@@ -950,6 +950,8 @@ define NRootPRQin [
 ! 
 | "[=iposhi+m.][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {iposhi}
 | "[=aposhi+m.][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {aposhi}
+! [nopositi] / noposhiti / no- =poshi -ti / 1sg.poss- =carachama-fish -aln.poss. / EN: 'my.carachama-fish'   
+| "[=poshi+poss@ti.][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {poshi}
 ! 
 | "[=ititsapaki][NRoot][=toe]" : {ititsapaki}
 ! 
@@ -1288,7 +1290,7 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------------
 # kipatsi: country, earth, soil, ground, land, dirt, dust 
-| "[=kipatsi+n.m.+poss@te.][NRoot][=ground, mud, earth; land]" : {kipatsi}
+| "[=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, mud, earth; land]" : {kipatsi}
 | "[=kipatsiki][NRoot][=world (ES: mundo)]" : {kipatsiki}
 | "[=kipatsini][NRoot][=ground (ES: suelo)]" : {kipatsini}
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
@@ -1360,7 +1362,7 @@ define NRootPRQin [
 | "[=kishiri+m.][NRoot][=comb (ES: peine)]" : {kishiri}
 | "[=kishire+m.][NRoot][=comb (ES: peine)]" : {kishire}
 ! 
-| "[=kitairiki][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
+| "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
 ! 
 | "[=kitaiteri][NRoot][=day]" : {kitaiteri} ! @CMP 
 | "[=kitaeteri][NRoot][=day]" : {kitaeteri}
@@ -1726,12 +1728,13 @@ define NRootPRQin [
 ! 
 # Snails
 | "[=mapoto][NRoot][=medium-size.snail]" : {mapoto}
-| "[=sankiro+m.][NRoot][=snail; small-size.snail (ES: caracol.chico)]" : {sankiro}
+| "[=sankiro+m.+poss@ti.][NRoot][=snail; small-size.snail (ES: caracol.chico)]" : {sankiro}
 | "[=tsoiroki+m.][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=mamporo][NRoot][=big-size.snail]" : {mamporo}
 | "[=pomporo+m.][NRoot][=big-size.snail]" : {pomporo}
-| "[=pompoo+m.][NRoot][=land.snail]" : {pompoo}
-| "[=pompo+m.][NRoot][=land.snail]" : {pompo}
+! novompoote / no- =pompoo -te / 1sg.poss- =land.snail -aln.poss. / EN: 'my.land_snail'  
+| "[=pompoo+m.+poss@te:ti.][NRoot][=land.snail]" : {pompoo}
+| "[=pompo+m.+poss@te:ti.][NRoot][=land.snail]" : {pompo}
 ! 
 | "[=tsoiroki][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=tyontiiki][NRoot][=river.snail]" : {tyontiiki}
@@ -2204,8 +2207,8 @@ define NRootPRQin [
 ! 
 | "[=opaayaa+n.m.][NRoot][=beach; stony/rocky.ground]" : {opaayaa}
 ! 
-| "[=opempe+m.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opempe}
-| "[=opimpi+m.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opimpi}
+| "[=opempe+m.+poss@ti.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opempe}
+| "[=opimpi+m.+poss@ti.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opimpi}
 ! 
 | "[=opiata][NRoot][=whirl (ES: remolino)]" : {opiata}
 | "[=opiyaata][NRoot][=whirl (ES: remolino)]" : {opiyaata}
@@ -2605,7 +2608,8 @@ define NRootPRQin [
 ! 
 | "[=pitsire+inal@ntsi.][NRoot][=dirtiness (ES: suciedad)]" : {pitsire} ! novitsire / no- =pitsire / 1sg.poss- =dirtiness
 ! 
-| "[=pitsitsiro+m.][NRoot][=rice-eating.thrush.sp., bird.sp. (ES: arrosero, arrocero, tordito); variable.seedeater (sci.nm.: sporohila.americana); rice.bird]" : {pitsitsiro}
+! novitsitsirote / no- =pitsitsiro -te / EN: 'my.rice_bird'  
+| "[=pitsitsiro+m.+poss@te:ti.][NRoot][=rice-eating.thrush.sp., bird.sp. (ES: arrosero, arrocero, tordito); variable.seedeater (sci.nm.: sporohila.americana); rice.bird]" : {pitsitsiro}
 ! 
 | "[=pitzintzi+m.][NRoot][=sparrow.sp., black-headed.black-winged.red.bird.sp]" : {pitzintzi}
 ! 
@@ -3310,7 +3314,7 @@ define NRootPRQin [
 ! 
 | "[=shivi+n.m.+inal@tsi.][NRoot][=penis (ES: pene)]" : {shivi}
 ! 
-| "[=shivitsa][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species]" : {shivitsa}
+| "[=shivitsa+poss@ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species]" : {shivitsa}
 ! 
 | "[=sona+m.][NRoot][=oncilla, tigrillo]" : {sona} 
 ! 
@@ -3495,6 +3499,7 @@ define NRootPRQin [
 | "[=tziya+n.m.+inal@tsi.][NRoot][=excrement (ES: excremento), feces (ES: heces)]" : {tziya}
 | "[=tia+n.m.+inal@tsi.][NRoot][=excrement (ES: excremento), feces (ES: heces)]" : {tia}
 ! 
+# tsimitenkani / =tsimi -tenka -ni / =macaw-and-parrot.clay.lick -cl:longitudinal.depression -cl:watercourse / EN: 'ravine.where.a.stream-&-qullpa.are.located'; ES: 'colpa.de.la.sachavaca'  
 | "[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, ES: colpa); clean.water.well.where.animals.go.to.drink, water.hole]" : {tsimi} 
 ! 
 | "[=tsimi+poss@ti.][NRoot][=ant.sp. (ES: pucacura)]" : {tsimi}
