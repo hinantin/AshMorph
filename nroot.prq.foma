@@ -985,8 +985,9 @@ define NRootPRQin [
 | "[=kachaari+n.m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaari} 
 | "[=kachaare+n.m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaare} 
 ! 
-| "[=kachente+n.m.][NRoot][=plant/tree.sp.]" : {kachente}
-| "[=kachenti+n.m.][NRoot][=plant/tree.sp.]" : {kachenti}
+| "[=kachente+n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachente}
+| "[=kachenti+n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachenti}
+| "[=kachinti+n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachinti}
 ! 
 | "[=kachoncho][NRoot][=heron-like.large-beaked.long-legged.bird.sp., (totuyo, sci.nm.: ardea.cocoi)]" : {kachoncho}
 ! 
@@ -1043,7 +1044,7 @@ define NRootPRQin [
 ! 
 | "[=kamarasanori][NRoot][=cream.color]" : {kamarasanori}
 ! 
-| "[=kamasamari+m.][NRoot][=ant.sp.]" : {kamasamari}
+| "[=kamasamari+m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {kamasamari}
 ! 
 | "[=kamashanko+n.m.][NRoot][=yucca.sp. (ES: sp.de.yuca)]" : {kamashanko}
 ! 
