@@ -2644,6 +2644,10 @@ define NRootPRQin [
 | "[=tsio+n.m.][NRoot][=sister (kin.of.a.male)]" : {tsio}
 | "[=tsiro+n.m.][NRoot][=sister (kin.of.a.male)]" : {tsiro}
 ! 
+| "[=tsirokeni][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tsirokeni}
+| "[=tsirokini][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tsirokini}
+| "[=tziroki][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tziroki}
+! 
 | "[=tsitashike][NRoot][=plant.sp. (jaboncillo)]" : {tsitashike}
 ! 
 | "[=tsitita][NRoot][=legume.sp. (pallar, botany.id.: phaseolus.lunatus)]" : {tsitita}
@@ -3580,6 +3584,7 @@ define NRootPRQin [
 | "[=tot][NRoot][=cut]" : {tot}
 ! 
 | "[=totiroki][NRoot][=aquatic.snail.sp. (ES: caracol.acuático)]" : {totiroki}
+| "[=totziro][NRoot][=aquatic.snail.sp. (ES: caracol.acuático)]" : {totziro}
 ! 
 | "[=totseeki][NRoot][=thorn (ES: espina)]" : {totseeki}
 ! 
