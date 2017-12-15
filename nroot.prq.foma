@@ -258,10 +258,10 @@ define NRootPRQin [
 | "[=tseki+inal@tsi.][NRoot][=needle/thorn.tip (ES: punta.de.aguja/espina)]" : {tseki}
 | "[=tseeki+inal@tsi.][NRoot][=needle/thorn.tip (ES: punta.de.aguja/espina)]" : {tseeki}
 ! 
-| "[=cheenkari+color][NRoot][=obscure; black (ES: negro)]" : {cheenkari}
-| "[=chenkari+color][NRoot][=obscure; black (ES: negro)]" : {chenkari}
-| "[=cheenkaro+color][NRoot][=black (ES: negra)]" : {cheenkaro}
-| "[=cheenkavo+color][NRoot][=black (ES: negra)]" : {cheenkavo}
+| "[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {cheenkari}
+| "[=chenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {chenkari}
+| "[=cheenkaro+sem@color.][NRoot][=black (ES: negra)]" : {cheenkaro}
+| "[=cheenkavo+sem@color.][NRoot][=black (ES: negra)]" : {cheenkavo}
 ! 
 | "[=chekito+m.][NRoot][=frog.sp., small.toad.sp.]" : {chekito}
 ! 
@@ -1026,8 +1026,8 @@ define NRootPRQin [
 ! kamanitaantsi / =kam -a -ni -t -antsi / =to.die -ep -? -ep -inf / EN: 'death'  
 | "[=kamanitaantsi][NRoot][=death]" : {kamanitaantsi}
 ! 
-| "[=kamara+color][NRoot][=cinnamon.color]" : {kamara}
-| "[=kamarari+color][NRoot][=brown, beige]" : {kamarari}
+| "[=kamara+sem@color.][NRoot][=cinnamon.color]" : {kamara}
+| "[=kamarari+sem@color.][NRoot][=brown, beige]" : {kamarari}
 ! 
 # kamarankaantsi / =kamarankaa -ntsi / =vomit -nposs / EN: 'vomit', ES: 'vómito'  
 # iyamaranka / i- =kamaranka / 3m.poss- =vomit / EN: 'his.vomit', ES: 'su.vómito'  
@@ -1300,7 +1300,7 @@ define NRootPRQin [
 | "[=oparai][NRoot][=countryside (ES: campo); beach (playa)]" : {oparai}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kipatsiniro+color][NRoot][=brown]" : {kipatsiniro} ! source:IIAP 
+| "[=kipatsiniro+sem@color.][NRoot][=brown]" : {kipatsiniro} ! source:IIAP 
 ! word set:
 # kipishiri: vine.sp.used.in.the.preparation.of.an.anti-diarrhea.concoction 
 # 1) a section of the vine is cut, pulverized
@@ -1336,7 +1336,7 @@ define NRootPRQin [
 # pez.de.agua.dulce (siluriforme) que.se.mete.por.los.orificios.genitales/excretores.alojándose.en.estos.para.alimentarse.de.la.sangre.de.su.huesped. 
 | "[=kirompi][NRoot][=bagre-like.fish.sp. (ES: canero, pez.vampiro; sci.nm.: pygidium.sp.; ES: sp.de.pez.parecido.al.bagre)]" : {kirompi}
 ! 
-| "[=kenashiri+color][NRoot][=green]" : {kenashiri}
+| "[=kenashiri+sem@color.][NRoot][=green]" : {kenashiri}
 ! 
 | "[=Kireshia][NRoot][=Greece]" : {kireshia}
 ! 
@@ -1365,21 +1365,21 @@ define NRootPRQin [
 | "[=kitaiteri][NRoot][=day]" : {kitaiteri} ! @CMP 
 | "[=kitaeteri][NRoot][=day]" : {kitaeteri}
 ! 
-| "[=kitamaro+n.m.+color][NRoot][=white]" : {kitamaro} ! N@->V
-| "[=kitamaaro+n.m.+color][NRoot][=white]" : {kitamaaro} ! N@->V
-| "[=kitamaavo+n.m.+color][NRoot][=white]" : {kitamaavo} ! N@->V
-| "[=kitamari+m.+color][NRoot][=white]" : {kitamari} ! N@->V
-| "[=kitamaari+m.+color][NRoot][=white]" : {kitamaari} ! N@->V
-| "[=kitamarori+color][NRoot][=white]" : {kitamarori}
+| "[=kitamaro+n.m.+sem@color.][NRoot][=white]" : {kitamaro} ! N@->V::[to.be.white]
+| "[=kitamaaro+n.m.+sem@color.][NRoot][=white]" : {kitamaaro} ! N@->V::[to.be.white]
+| "[=kitamaavo+n.m.+sem@color.][NRoot][=white]" : {kitamaavo} ! N@->V::[to.be.white]
+| "[=kitamari+m.+sem@color.][NRoot][=white]" : {kitamari} ! N@->V::[to.be.white]
+| "[=kitamaari+m.+sem@color.][NRoot][=white]" : {kitamaari} ! N@->V::[to.be.white]
+| "[=kitamarori+sem@color.][NRoot][=white]" : {kitamarori}
 ! 
 | "[=kitamari][NRoot][=white_donkey-like.spirit]" : {kitamari}
 ! 
 # colors
-| "[=kiteri+color][NRoot][=yellow (ES: amarillo)]" : {kiteri}
-| "[=kiteriri+color][NRoot][=yellow (ES: amarillo)]" : {kiteriri}
-| "[=kityonkari+color][NRoot][=red (ES: rojo)]" : {kityonkari}
-| "[=kiraari+color][NRoot][=red (ES: rojo)]" : {kiraari}
-| "[=kisaari+color][NRoot][=black (ES: negro)]" : {kisaari}
+| "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo)]" : {kiteri}
+| "[=kiteriri+sem@color.][NRoot][=yellow (ES: amarillo)]" : {kiteriri}
+| "[=kityonkari+sem@color.][NRoot][=red (ES: rojo)]" : {kityonkari}
+| "[=kiraari+sem@color.][NRoot][=red (ES: rojo)]" : {kiraari}
+| "[=kisaari+sem@color.][NRoot][=black (ES: negro)]" : {kisaari}
 ! 
 | "[=kitekirishi][NRoot][=rattlesnake.sp.]" : {kitekirishi}
 ! 
@@ -2406,9 +2406,10 @@ define NRootPRQin [
 | "[=pareantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
 ! 
 # Is the winter-season a flooding period ??? 
-| "[=pariantsi+season][NRoot][=winter (ES: invierno)]" : {pariantsi}
-| "[=kiarontsi+season][NRoot][=winter (ES: invierno)]" : {kiarontsi}
-| "[=kimohaantsi+season][NRoot][=winter (ES: invierno)]" : {kimohaantsi}
+| "[=pariantsi+sem@season.][NRoot][=winter (ES: invierno)]" : {pariantsi}
+| "[=kiarontsi+sem@season.][NRoot][=winter (ES: invierno)]" : {kiarontsi}
+| "[=kimohaantsi+sem@season.][NRoot][=winter (ES: invierno)]" : {kimohaantsi}
+| "[=pariapaintzi+sem@season.][NRoot][=winter (ES: invierno)]" : {pariapaintzi}
 ! 
 | "[=paritsa+n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paritsa} ! pari-tsa root-stem
 | "[=patsa][NRoot][=part]" : {patsa}
@@ -2742,8 +2743,8 @@ define NRootPRQin [
 ! 
 | "[=potatze][NRoot][=white-tipped.dove (sci.nm.: leptotila.verreauxi)]" : {potatze}
 ! 
-| "[=potsitari+m.+color][NRoot][=black]" : {potsitari}
-| "[=potsitaro+n.m.+color][NRoot][=black]" : {potsitaro}
+| "[=potsitari+m.+sem@color.][NRoot][=black]" : {potsitari}
+| "[=potsitaro+n.m.+sem@color.][NRoot][=black]" : {potsitaro}
 ! 
 | "[=potsitapitoki][NRoot][=golden.tanager (sci.nm.: tangara.arthus)]" : {potsitapitoki}
 ! 
@@ -3095,15 +3096,15 @@ define NRootPRQin [
 ! 
 | "[=shereentzi+m.][NRoot][=bird.sp.]" : {shereentzi}
 ! 
-| "[=sheripyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripyari}
-| "[=sheripiare+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiare}
-| "[=sheripiari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiari}
-| "[=sheripiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
-| "[=sherepiyari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {sherepiyari}
-| "[=seripigari+m.+healer][NRoot][=shaman (ES: curandero; tabaquero)]" : {seripigari}
+| "[=sheripyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripyari}
+| "[=sheripiare+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiare}
+| "[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiari}
+| "[=sheripiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
+| "[=sherepiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sherepiyari}
+| "[=seripigari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {seripigari}
 ! 
-| "[=sheripiaro+n.m.+healer][NRoot][=female.shaman]" : {sheripiaro}
-| "[=sheripiavo+n.m.+healer][NRoot][=wise.woman (ES: mujer.sabia)]" : {sheripiavo}
+| "[=sheripiaro+n.m.+sem@healer.][NRoot][=female.shaman]" : {sheripiaro}
+| "[=sheripiavo+n.m.+sem@healer.][NRoot][=wise.woman (ES: mujer.sabia)]" : {sheripiavo}
 ! 
 | "[=sherivetzi][NRoot][=gree-and-rufous.kingfisher (sci.nm.: chloroceryle.inda)]" : {sherivetzi}
 ! 
