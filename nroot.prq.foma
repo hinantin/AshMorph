@@ -13,6 +13,8 @@ define NRootPRQin [
 ! 
 | "[=achacova+m.][NRoot][=fish.sp. (ES: pez)]" : {achacova} 
 ! 
+| "[=ahopi][NRoot][=vainilla; aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor)]" : {ahopi} 
+! 
 | "[=amai+n.m.][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amai} 
 ! 
 | "[=amaisha][NRoot][=Yanesha, Amuesha]" : {amaisha} 
@@ -982,8 +984,13 @@ define NRootPRQin [
 | "[=kaahyo+n.m.][NRoot][=walnut.sp. (ES: nuez-marañon)]" : {kaahyo}
 ! 
 ! kachaarentsi / =kachaare -ntsi / =humo -nposs / EN: 'smoke'; ES: 'humo' ! inal to be revised!!! it comes from the Kachaataantsi verb. 
-| "[=kachaari+n.m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaari} 
-| "[=kachaare+n.m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaare} 
+| "[=kachaari+m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaari} 
+| "[=kachaare+m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaare} 
+! 
+| "[=kachaaro+n.m.+inal@ntsi.][NRoot][=hook (ES: anzuelo)]" : {kachaaro} 
+| "[=kachaavo+n.m.+inal@ntsi.][NRoot][=hook (ES: anzuelo)]" : {kachaavo} 
+| "[=akachaavo+n.m.+inal@ntsi.][NRoot][=hook (ES: anzuelo)]" : {akachaavo} 
+| "[=akachaare+m.+inal@ntsi.][NRoot][=hooked (ES: anzueleado)]" : {akachaare} # adjective 
 ! 
 | "[=kachente+n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachente}
 | "[=kachenti+n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachenti}
