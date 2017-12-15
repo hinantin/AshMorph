@@ -310,8 +310,8 @@ define FRUS [ [EP V=S=FRUS]|[V=S=FRUS] ];
 # ****************************************
                    
 define V=S=APPLREAS [
-  "[--][-ant][+APPL.REAS]" : "@EP"[{ant}]
-| "[--][-anta][+APPL.REAS]" : "@EP"[{anta}]
+  "[--][-ant][+APPL.REAS][=in.order.to]" : "@EP"[{ant}]
+| "[--][-anta][+APPL.REAS][=in.order.to]" : "@EP"[{anta}]
 ];
                    
 define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
