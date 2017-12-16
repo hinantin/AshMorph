@@ -290,10 +290,10 @@ define V=S=APPR [
 # ****************************************
                    
 define V=S=REL [
-  "[--][-ri][NS][+REL]" : [{ri}]
+  "[--][=ri][NS][+REL]" : [{ri}]
 # -----------------------------------------------
-| "[--][-ni][NS][+REL.IRR]" : [{ni}]
-| "[--][-ne][NS][+REL.IRR]" : [{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
+| "[--][=ni][NS][+REL.IRR]" : [{ni}]
+| "[--][=ne][NS][+REL.IRR]" : [{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
 ];
                    
 # ****************************************
