@@ -139,39 +139,41 @@ define V=S=CNTF [
 # ****************************************
                    
 # -------------------------------------------
-define V=S=REAL [
-  "[--][-e][STATUS][+REAL]" : "@EP"[{e}]
-| "[--][-ee][STATUS][+REAL]" : "@EP"[{ee}]
-| "[--][-i][STATUS][+REAL]" : "@EP"[{i}]
-| "[--][-a][STATUS][+REAL]" : "@EP"[{a}]
+# STATUS 
 # -------------------------------------------
-| "[--][-ia][STATUS][+REAL]" : "@EP"[{ia}]
-| "[--][-ya][STATUS][+REAL]" : "@EP"[{ya}]
-| "[--][-yaa][STATUS][+REAL]" : "@EP"[{yaa}]
+define V=S=REAL [
+  "[--][-e][+REAL]" : "@EP"[{e}]
+| "[--][-ee][+REAL]" : "@EP"[{ee}]
+| "[--][-i][+REAL]" : "@EP"[{i}]
+| "[--][-a][+REAL]" : "@EP"[{a}]
+# -------------------------------------------
+| "[--][-ia][+REAL]" : "@EP"[{ia}]
+| "[--][-ya][+REAL]" : "@EP"[{ya}]
+| "[--][-yaa][+REAL]" : "@EP"[{yaa}]
 ];
       
 define V=S=IRR [
-  "[--][-e][STATUS][+IRR]" : "@EP"[{e}]
-| "[--][-ee][STATUS][+IRR]" : "@EP"[{ee}]
-| "[--][-ia][STATUS][+IRR]" : "@EP"[{ia}]
-| "[--][-ya][STATUS][+IRR]" : "@EP"[{ya}]
-| "[--][-ye][STATUS][+IRR]" : "@EP"[{ye}]
-| "[--][-yea][STATUS][+IRR]" : "@EP"[{yea}]
-| "[--][-a][STATUS][+IRR]" : "@EP"[{a}]
-| "[--][-i][STATUS][+IRR]" : "@EP"[{i}]
-| "[--][-yaa][STATUS][+IRR]" : "@EP"[{yaa}]
-| "[--][-ea][STATUS][+IRR]" : "@EP"[{ea}]
+  "[--][-e][+IRR]" : "@EP"[{e}]
+| "[--][-ee][+IRR]" : "@EP"[{ee}]
+| "[--][-ia][+IRR]" : "@EP"[{ia}]
+| "[--][-ya][+IRR]" : "@EP"[{ya}]
+| "[--][-ye][+IRR]" : "@EP"[{ye}]
+| "[--][-yea][+IRR]" : "@EP"[{yea}]
+| "[--][-a][+IRR]" : "@EP"[{a}]
+| "[--][-i][+IRR]" : "@EP"[{i}]
+| "[--][-yaa][+IRR]" : "@EP"[{yaa}]
+| "[--][-ea][+IRR]" : "@EP"[{ea}]
 ];
       
 define V=S=REALRFL [
-  "[--][-a][STATUS][+REAL.RFL]" : "@EP"[{a}]
+  "[--][-a][+REAL.RFL]" : "@EP"[{a}]
 ];
       
 define V=S=IRRRFL [
-  "[--][-ia][STATUS][+IRR.RFL]" : "@EP"[{ia}]
+  "[--][-ia][+IRR.RFL]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
-| "[--][-eya][STATUS][+IRR.RFL]" : "@EP"[{eya}]
-| "[--][-iya][STATUS][+IRR.RFL]" : "@EP"[{iya}]
+| "[--][-eya][+IRR.RFL]" : "@EP"[{eya}]
+| "[--][-iya][+IRR.RFL]" : "@EP"[{iya}]
 ];
 # -------------------------------------------
                    
