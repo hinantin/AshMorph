@@ -136,7 +136,7 @@ define NRootPRQin [
 | "[=amimiroti][NRoot][=goat-like.devil]" : {amimiroti}
 ! 
 # nanani / n- =ana -ni / 1sg.poss- =black.dye -nposs / EN: 'my.black.dye'  
-| "[=ana+poss@ni.][NRoot][=genipap, huito, jagua (botany.id.: genipa.americana); black.dye]" : {ana}
+| "[=ana+n.m.+poss@ni.][NRoot][=genipap, huito, jagua (botany.id.: genipa.americana); black.dye]" : {ana}
 ! 
 | "[=ananta+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
 ! 
@@ -1013,7 +1013,10 @@ define NRootPRQin [
 | "[=kahai][NRoot][=coffee.plant (sci.nm.: coffea.sp.)]" : {kahai}
 | "[=café][NRoot][=coffee]" : {kafe}
 ! 
-| "[=kahankari][NRoot][=perfume (ES: perfume); perfumed, fragrant (ES: perfumado)]" : {kahankari}
+| "[=kahankari+n.m.+poss@te.][NRoot][=perfume (ES: perfume); perfumed, fragrant (ES: perfumado)]" : {kahankari}
+| "[=kasankari+n.m.+poss@te.][NRoot][=perfume (ES: perfume); perfumed, fragrant (ES: perfumado)]" : {kasankari}
+! 
+| "[=kasankari+n.m.][NRoot][=edible.tuber.sp. (ES: guisador)]" : {kasankari}
 ! 
 | "[=kamaari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamaari}
 | "[=kamari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamari} ! @VCMP 
@@ -1144,8 +1147,6 @@ define NRootPRQin [
 | "[=karinashi][NRoot][=painted/striped_leaf_at_the_base_of_its_edge.leaf]" : {karinashi}
 ! 
 | "[=kasankapanaro][NRoot][=poetry (ES: poesía)]" : {kasankapanaro}
-! 
-| "[=kasankari+n.m.][NRoot][=edible.tuber.sp. (ES: guisador)]" : {kasankari}
 ! 
 | "[=kasonki+m.][NRoot][=tuber.sp. (it.is.used.to.treat.boils/furuncles; ES: tubérculo.contra.el.chupo/furúnculo)]" : {kasonki}
 ! 
@@ -1353,11 +1354,11 @@ define NRootPRQin [
 ! 
 | "[=kisaakiri][NRoot][=black.person]" : {kisaakiri}
 ! 
-| "[=kishi+inal@tsi.][NRoot][=hair (ES: pelo)]" : {kishi}
-| "[=iishi+inal@ntsi.][NRoot][=hair (ES: pelo)]" : {iishi}
-| "[=eeshi+inal@ntsi.][NRoot][=hair (ES: pelo)]" : {eeshi}
-| "[=iishi+n.m.+inal@ntsi.][NRoot][=hair]" : {iishi}
-| "[=ishi+n.m.+inal@ntsi.][NRoot][=hair]" : {ishi}
+| "[=kishi+n.m.+inal@tsi.][NRoot][=hair (ES: cabello, pelo)]" : {kishi}
+| "[=iishi+n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {iishi}
+| "[=eeshi+n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {eeshi}
+| "[=iishi+n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {iishi}
+| "[=ishi+n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {ishi}
 ! 
 | "[=kishitari][NRoot][=place.where.shaman-tiger.messed.up.sb's.hair (ES: Mariscal.Cáceres)]" : {kishitari}
 ! 
