@@ -355,8 +355,8 @@ define IMPP [ [EP V=S=IMPP]|[V=S=IMPP] ];
 # *) -pameneribe jipajitari yora? / -pamenerive hipahitari yora? / p- =amen -e -ri -ve *** hi- =pahi -t -a -ri *** =yora+m.+medial
 #     2a- =to.look -real -3m.o =excl[exclaiming] *** 3m.a- =to.be.called -ep -irr -3m.o *** =that / EN: "look, what's that?"  
 define V=S=EXCL [
-  "[--][-ve][+EXCL][=exclaiming,announcing]" : [{ve}]
-| "[--][-vi][+EXCL][=exclaiming,announcing]" : [{vi}]
+  "[--][=ve][+EXCL][=exclaiming,announcing]" : [{ve}]
+| "[--][=vi][+EXCL][=exclaiming,announcing]" : [{vi}]
 ];
                    
 # ****************************************
@@ -706,19 +706,19 @@ define V=S=OFOC [
 define V=S=EMPH [
 # tya: urgency, impatience, surprise, exasperation 
 # aritya / =ari -tya / =PP -EMPH /  
-  "[--][-tya][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
+  "[--][=tya][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
 ! 
-| "[--][-kya][+EMPH]" : [{kya}]
-| "[--][-kia][+EMPH]" : [{kia}]
-| "[--][-kea][+EMPH]" : [{kea}]
+| "[--][=kya][+EMPH]" : [{kya}]
+| "[--][=kia][+EMPH]" : [{kia}]
+| "[--][=kea][+EMPH]" : [{kea}]
 ! 
-| "[--][-poo][+EMPH]" : "@EP"[{poo}]
+| "[--][=poo][+EMPH]" : "@EP"[{poo}]
 ! 
-| "[--][-ha][+EMPH][=contradictory.emphasis]" : "@EP"[{ha}]
+| "[--][=ha][+EMPH][=contradictory.emphasis]" : "@EP"[{ha}]
 ! 
-| "[--][-tzi][+EMPH]" : "@EP"[{tzi}]
+| "[--][=tzi][+EMPH]" : "@EP"[{tzi}]
 ! 
-| "[--][-sa][+EMPH]" : "@EP"[{sa}]
+| "[--][=sa][+EMPH]" : "@EP"[{sa}]
 ];
                    
 # ****************************************
