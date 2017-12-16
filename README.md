@@ -57,7 +57,7 @@ Software testing
 
 Don't know how or want to install it?
 
-Then test it on-line at http://hinant.in/
+Then test it on-line at https://hinant.in/
 
 For more information
 ====================
