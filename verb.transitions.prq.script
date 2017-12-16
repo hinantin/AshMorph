@@ -351,6 +351,9 @@ define S [
 # nokenkibaritati / nokenkivaritati / no- =kenkivari -t -ati / ES: 'estoy.envejeciendo'
 # namanantati / n- =amanan -t -ati / ES: 'estoy.comprando'
 | PROG=SET1 
+# ikaematimi / i- =kaem -ati -mi 
+| PROG=SET1 (V=S=O) 
+
 | (DIR) (PRF) STATUS (V=S=OPT) 
 | (APPLPRES) STATUS (V=S=O) (PRNO) (V=S=OPT) 
 | (APPLINT) (DIR) (PRF) STATUS (PRNO) 
