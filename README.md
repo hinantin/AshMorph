@@ -13,11 +13,8 @@ Reading script from "lookup.script"
 
   *****  LEXICON LOOK-UP  *****
 
-ashaninka	[a-][NPers][1PL.poss+][--][=shani+m.][NRoot][=anteater][--][-nka+quality][+NMZ]
+ashaninka	[a-][NPers][1PL.poss+][--][=shani+m.][NRoot][=anteater (ES: oso.hormiguero)][--][-nka+quality][+NMZ]
 ashaninka	[a-][NPers][1PL.poss+][--][=shani][VRoot][=to.be.of.the.same.group][--][-nka+quality][+NMZ]nka
-ashaninka	[a-][VPers][1PL.S/A+][--][=shani][VRoot][=to.be.of.the.same.group][--][-nk][+NMZ]nk[--][-a][+REAL]a
-ashaninka	[a-][VPers][1PL.S/A+][--][=shani][VRoot][=to.be.of.the.same.group][--][-nk][+NMZ]nk[--][-a][+IRR]a
-ashaninka	[a-][VPers][1PL.S/A+][--][=shani][VRoot][=to.be.of.the.same.group][--][-nka+quality][+NMZ]nka
 
 
 LOOKUP STATISTICS (success with different strategies):
