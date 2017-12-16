@@ -438,7 +438,7 @@ define V=S=STATPRF [ # revise!
                    
 define V=S=Q [
 # ampokaika / a- N- =pok -ai -ka / 1pl.s- irr- =to.come -real -q / EN: 'we will come back (when)?'  
-  "[--][-ka][+Q]" : [{ka}]
+  "[--][=ka][+Q]" : [{ka}]
 ];
                    
 # ****************************************
@@ -467,10 +467,10 @@ define V=S=ABS [
 # ****************************************
                    
 define V=S=COND [
-  "[--][-rika][+COND][=if (expresses.possible.condition); like (comparison)]" : [{rika}] ! +evidential 
+  "[--][=rika][+COND][=if (expresses.possible.condition); like (comparison)]" : [{rika}] ! +evidential 
 # This suffix indicates, for good/bad, an action or idea wasn't fulfilled.
 # Also abbreviated CNT.EXP 'counter-expectational' 
-| "[--][-me][+SUBJ]" : [{me}] 
+| "[--][=me][+SUBJ]" : [{me}] 
 ];
                    
 # ****************************************
