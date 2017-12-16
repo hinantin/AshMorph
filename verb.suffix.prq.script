@@ -53,8 +53,8 @@ define DIST [ [EP V=S=DIST]|[V=S=DIST] ];
                    
 define V=S=DIR=SET1 [
 # 
-  "[--][-av+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{av}] 
-| "[--][-aav+object.oriented][Adv][+DIR][=contrary,opposite]" : "@EP"[{aav}] 
+  "[--][-av+object.oriented][ADV][+DIR][=contrary,opposite]" : "@EP"[{av}] 
+| "[--][-aav+object.oriented][ADV][+DIR][=contrary,opposite]" : "@EP"[{aav}] 
 ];
 
 define V=S=DIR=SET2 [
@@ -62,15 +62,15 @@ define V=S=DIR=SET2 [
 # 1) inchoative (INCH): beginning of a new state.
 # 2) inceptive (INCEP): beginning of a new action.
 # 3) continuing action in a series of the actor's activities.
-  "[--][-an+source][Adv][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]" : "@EP"[{an}] 
+  "[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]" : "@EP"[{an}] 
 ];
 
 define V=S=DIR=SET3 [
 # allative 'adlativo' case
 # 1) indicates the final phase of an action/state.
 # iporekapaake aka / i- =porek -ap -aak -e ** =aka+proximal.b. / 3m.s- =to.shine -dir[on.arrival] -prf -irr ** =here / EN: 'they.arrive.here.like.flashes.of.lightning; lit.: they.shine.on.arrival.here'; ES: 'aquí llegan.como.destellos.de.relampago'
-  "[--][-ap+goal][Adv][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{ap}]
-| "[--][-apa+goal][Adv][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{apa}]
+  "[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{ap}]
+| "[--][-apa+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{apa}]
 ];
                    
 define DIR [ [EP V=S=DIR=SET1]|[V=S=DIR=SET1]|[EP V=S=DIR=SET2]|[V=S=DIR=SET2]|[EP V=S=DIR=SET3]|[V=S=DIR=SET3] ];
@@ -95,9 +95,9 @@ define V=S=OPT [
 # ****************************************
                    
 define V=S=PL [
-  "[--][-he][Num][+PL]" : "@EP"[{he}] 
-| "[--][-hei][Num][+PL]" : "@EP"[{hei}] 
-| "[--][-hee][Num][+PL]" : "@EP"[{hee}] 
+  "[--][-he][NUM][+PL]" : "@EP"[{he}] 
+| "[--][-hei][NUM][+PL]" : "@EP"[{hei}] 
+| "[--][-hee][NUM][+PL]" : "@EP"[{hee}] 
 # -ite only appears in nominalized verb structures 
 # ---------------------------------------
 # ichiki / i- =chik -i / 3m.s- =to.cut -real / EN: 'he cut'
@@ -123,9 +123,9 @@ define V=S=PLcircumfixing [
 ! regressive.(event): being.back 
 define V=S=REGR [
 # eiro aneahiritsi / =eiro ** a- =ne -ah -i -ri -tsi / =NEG.IRR ** 1pl.a- =to.see -term[finality-and-closure] -real -3m.o -neg / ; EN: 'we.won't.see.him.again'; ES: 'No.lo.veremos.otra.vez' 
-  "[--][-a][Asp][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{a}]
-| "[--][-ah][Asp][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{ah}]
-| "[--][-aha][Asp][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{aha}]
+  "[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{a}]
+| "[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{ah}]
+| "[--][-aha][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{aha}]
 ];
                    
 define REGR [ [EP V=S=REGR]|[V=S=REGR] ];
@@ -202,10 +202,10 @@ define AUG [ [EP V=S=AUG]|[V=S=AUG] ];
 !*) Nojate nomanaveete / Nohate nomanaveete / no- =ha -t -e  no- =mana -vee -t -e / 1sg.s- =to.go -ep -irr  1sg.s- =to.shoot -dur -ep -irr / EN: "I'm.going.to.hunt"; ES: 'yo.voy.a.cazar'  
 ! 
 define V=S=DUR [
-  "[--][-vai][Asp][+DUR]" : "@EP"[{vai}] 
-| "[--][-vae][Asp][+DUR]" : "@EP"[{vae}] 
-| "[--][-vee][Asp][+DUR]" : "@EP"[{vee}] 
-| "[--][-vei][Asp][+DUR]" : "@EP"[{vei}] 
+  "[--][-vai][ASP][+DUR]" : "@EP"[{vai}] 
+| "[--][-vae][ASP][+DUR]" : "@EP"[{vae}] 
+| "[--][-vee][ASP][+DUR]" : "@EP"[{vee}] 
+| "[--][-vei][ASP][+DUR]" : "@EP"[{vei}] 
 ];
                    
 define DUR [ [EP V=S=DUR]|[V=S=DUR] ];
@@ -290,10 +290,10 @@ define V=S=APPR [
 # ****************************************
                    
 define V=S=REL [
-  "[--][-ri][+REL]" : [{ri}]
+  "[--][-ri][NS][+REL]" : [{ri}]
 # -----------------------------------------------
-| "[--][-ni][+REL.IRR]" : [{ni}]
-| "[--][-ne][+REL.IRR]" : [{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
+| "[--][-ni][NS][+REL.IRR]" : [{ni}]
+| "[--][-ne][NS][+REL.IRR]" : [{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
 ];
                    
 # ****************************************
