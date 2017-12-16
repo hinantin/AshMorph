@@ -13,8 +13,8 @@ define NRootPRQin [
 ! 
 | "[=achacova+m.][NRoot][=fish.sp. (ES: pez)]" : {achacova} 
 ! 
-| "[=ahopi][NRoot][=vainilla; aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor)]" : {ahopi} 
-| "[=asopi][NRoot][=vainilla; aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor)]" : {asopi} 
+| "[=ahopi+n.m.][NRoot][=vainilla; aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor)]" : {ahopi} 
+| "[=asopi+n.m.][NRoot][=vainilla; aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor)]" : {asopi} 
 ! 
 | "[=amai+n.m.][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amai} 
 ! 
@@ -1526,6 +1526,8 @@ define NRootPRQin [
 ! 
 | "[=koria+poss@ni.][NRoot][=manioc.worm]" : {koria}
 | "[=korya+poss@ni.][NRoot][=manioc.worm]" : {korya}
+! 
+| "[=koriari][NRoot][=NP]" : {koriari}
 ! 
 | "[=koryo][NRoot][=fish.var., catfish.sp. (ES: cunchi)]" : {koryo}
 | "[=korio][NRoot][=fish.var., catfish.sp. (ES: cunchi)]" : {korio}
