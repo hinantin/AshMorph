@@ -1376,6 +1376,7 @@ define NRootPRQin [
 ! 
 | "[=kitaiteri][NRoot][=day]" : {kitaiteri} ! @CMP 
 | "[=kitaeteri][NRoot][=day]" : {kitaeteri}
+| "[=kitaite+n.m.][NRoot][=day (ES: día)]" : {kitaite}
 ! 
 | "[=kitamaro+n.m.+sem@color.][NRoot][=white]" : {kitamaro} ! N@->V::[to.be.white]
 | "[=kitamaaro+n.m.+sem@color.][NRoot][=white]" : {kitamaaro} ! N@->V::[to.be.white]
