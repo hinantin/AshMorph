@@ -645,15 +645,17 @@ define VRootPRQin [
 | "[=kita][VRoot][=to.bury]" : {kita}
 ! word set:
 | "[=kitai][VRoot][=to.be.morning; to.dawn, to.be.light; to.get.up.early]" : {kitai}
-| "[=kitait][VRoot][=to.be.morning; to.dawn, to.be.light; to.get.up.early]]" : {kitait}
-| "[=kitaite][VRoot][=to.be.morning; to.dawn, to.be.light; to.get.up.early]]" : {kitaite}
+| "[=kitait][VRoot][=to.be.morning; to.dawn, to.be.light; to.get.up.early]" : {kitait}
+| "[=kitaite][VRoot][=to.be.morning; to.dawn, to.be.light; to.get.up.early]" : {kitaite}
 ! 
 | "[=kitehi][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kitehi}
-| "[=kiteehi][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kiteehi}
-| "[=kiteehe][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kiteehe}
+| "[=kiteehi][VRoot][=to.be.morning; to.dawn; to.get.up.early]" : {kiteehi}
+| "[=kiteehe][VRoot][=to.be.morning; to.dawn; to.get.up.early]" : {kiteehe}
 ! 
-| "[=kiteeshe][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kiteeshe}
-| "[=kitiihyi][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kitiihyi}
+| "[=kiteeshe][VRoot][=to.be.morning; to.dawn; to.get.up.early]" : {kiteeshe}
+| "[=kitiihyi][VRoot][=to.be.morning; to.dawn; to.get.up.early]" : {kitiihyi}
+! 
+| "[=nyaa][VRoot][=to.dawn (ES: amanecer)]" : {nyaa} 
 ! 
 !| "[=kitamarotzi][VRoot][=to.be.white]" : {kitamarotzi}
 ! 

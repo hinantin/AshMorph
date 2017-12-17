@@ -307,7 +307,6 @@ define S [
 | (APPL) STATUS (PRNO) 
 | (PRF) STATUS (V=S=O) 
 | (APPLINT) STATUS 
-| (V=S=early) (ICPL) STATUS 
 | (REGR) (APPLREAS) STATUS (PRNO) (V=S=OPT)
 | (APPL) STATUS (PRNO) (V=S=OPT) 
 | STATUS (PRF) (PRNO) 
@@ -471,8 +470,11 @@ define S [
 | (PROG) STATUS 
 | STATUS 
 | STATUS (REGR) (PRNO) 
-| (V=S=early) STATUS (PRNO) 
-#| (V=S=early) (ADV)  # end-state? revise!!!
+
+| (EARLY) (ICPL) STATUS 
+| (EARLY) STATUS (PRNO) 
+#| (EARLY) (ADV)  # end-state? revise!!!
+
 | (DUR) (APPLREAS) STATUS 
 | (DIR) (REGR) STATUS 
 | (DIR) STATUS (V=S=REL) (V=S=Q) 

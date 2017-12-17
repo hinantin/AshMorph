@@ -809,9 +809,12 @@ define V=S=before [ # revise!
                    
 # ****************************************
                    
-define V=S=early [ # revise!
-  "[--][-aman][+early]" : "@EP"[{aman}]
+# TIME.MODAL 
+define V=S=EARLY [ 
+  "[--][-aman][MODAL][+TIME][=early]" : "@EP"[{aman}]
 ];
+                   
+define EARLY [ [EP V=S=EARLY]|[V=S=EARLY] ];
                    
 # ****************************************
                    
