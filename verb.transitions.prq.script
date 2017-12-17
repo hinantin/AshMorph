@@ -472,8 +472,10 @@ define S [
 | STATUS (REGR) (PRNO) 
 
 | (EARLY) (ICPL) STATUS 
+# okitaitamani ! it was misanalyzed 
 | (EARLY) STATUS (PRNO) 
-#| (EARLY) (ADV)  # end-state? revise!!!
+# antsiyantamaniari 
+| (APPLREAS) (EARLY) STATUS (V=S=O) (PRNO) (V=S=REL) 
 
 | (DUR) (APPLREAS) STATUS 
 | (DIR) (REGR) STATUS 
