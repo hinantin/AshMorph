@@ -520,8 +520,8 @@ define NRootPRQin [
 | "[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, zamaño; sci.nm.: coelogenus.paca)]" : {hamani}
 | "[=hamaani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, zamaño; sci.nm.: coelogenus.paca)]" : {hamaani}
 ! 
-| "[=hampovatsa+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like, muddy soil]" : {hampovatsa}
-| "[=sampovatsa+poss@te.][NRoot][=mud (ES: barro); clay]" : {sampovatsa}
+| "[=hampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like, muddy soil]" : {hampovatsa}
+| "[=sampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay]" : {sampovatsa}
 ! 
 | "[=haipempe][NRoot][=white-plumed.antbird (sci.nm.: pithys.albifrons)]" : {haipempe}
 ! 
@@ -1933,8 +1933,8 @@ define NRootPRQin [
 | "[=meshiki+n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {meshiki}
 | "[=mishiki+n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {mishiki}
 ! 
-| "[=minkori+n.m.][NRoot][=cloud (ES: nube)]" : {minkori}
-| "[=menkori+n.m.][NRoot][=cloud (ES: nube)]" : {menkori}
+| "[=minkori+n.m.][NRoot][=cloud (ES: nube)]" : {minkori} 
+| "[=menkori+n.m.][NRoot][=cloud (ES: nube)]" : {menkori} ! N@->V::[=to.be.cloudy/foggy/misty (ES: estar.brumoso)]
 ! 
 | "[=minka+inal@tsi.][NRoot][=trunk (ES: tronco); stem; sturdy.material/substance]" : {minka}
 | "[=minkaa+inal@tsi.][NRoot][=trunk (ES: tronco); stem]" : {minkaa}
@@ -2145,6 +2145,7 @@ define NRootPRQin [
 | "[=okitamaroityamani][NRoot][=early.morning, dawning]" : {okitamaroityamani}
 | "[=okitaitamani][NRoot][=early.morning, dawning]" : {okitaitamani}
 | "[=omampiraityaamani][NRoot][=early.morning, dawning]" : {omampiraityaamani}
+| "[=mampira][NRoot][=aurora (ES: aurora)]" : {mampira} ! N@->V 
 ! 
 | "[=okitsoki][NRoot][=seed]" : {okitsoki}
 | "[=okitoki][NRoot][=seed]" : {okitoki}
