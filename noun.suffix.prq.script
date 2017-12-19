@@ -514,7 +514,7 @@ define N=S=CL [
 ! 
 | "[--][-kamara][+CL:cinnamon.color][=cinnamon.color]" : {kamara} 
 ! 
-| "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {henka} 
+| "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {henka} ! @CL 
 | "[--][-enka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {enka} 
 ! 
 ! paapani / EN: 'ash'; ES: 'ceniza' 

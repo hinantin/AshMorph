@@ -2,7 +2,7 @@
 # Compound nouns 
 # -----------------
 define NRootCmpPRQin [ 
-  "[--][=henka+poss@ne.][NRoot][=odor; smell]" : {henka} ! @CMP @VCMP 
+  "[--][=henka+poss@ne.][NRoot][=odor; smell]" : {henka} ! @CMP  
 | "[--][=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} ! @CMP
 | "[--][=ina][NRoot][=sphere; spherical]" : {ina} !@CMP
 | "[--][=inki+n.m.+poss@ne.][NRoot][=peanut, groundnut (ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
