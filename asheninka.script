@@ -15,7 +15,7 @@
       source v-p-1.foma
       source v-p-2.foma
 
-      define Pref [[P=1 P=2] | ([P=1])] ;
+      define Pref [ [P=1 P=2] | [P=1] | [P=2=SET3] ] ;
 
       ##########################
       #                        #

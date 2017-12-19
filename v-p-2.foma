@@ -1,10 +1,12 @@
 # preffixes slot 2
 
-define P=2 [
+define P=2=SET1 [
   "[N=][IRR+][--]" : {N}
 | "[N=][IRR+][--]" : {n}"@NVowel@"
 | "[N=][IRR+][--]" : {m}"@MP@"
+]:
 
+define P=2=SET2 [
 # ------MALEFACTIVE CAUSATIVE----------
 | "[mi=][M.CAUS+][--]" : {mi}
 | "[min=][M.CAUS+][--]" : {min}
@@ -26,11 +28,17 @@ define P=2 [
 | "[oimi=][AGT.CAUS+][--]" : {oimi}
 ! naaka nomishitoye intatzikeronta / =naaka *** n- =omi =shito -ye *** =intatzikeronta / =I *** 1sg.s- agt.caus= =to.leave -irr *** =outside / ES: 'yo.salgo.para.afuera'
 | "[omi=][AGT.CAUS+][--]" : {omi}
-! yobatiyakero / y- ov= =katiy -ak -e -ro
-| "[ov=][AGT.CAUS+][--]" : {ov}"@AGTCAUS@" 
+! 
 | "[v=][AGT.CAUS+][--]" : {v}"@AGTCAUS@"
 | "[vi=][AGT.CAUS+][--]" : {vi}
 ];
+
+define P=2=SET3 [
+! yobatiyakero / y- ov= =katiy -ak -e -ro
+  "[ov=][AGT.CAUS+][--]" : {ov}"@AGTCAUS@" 
+];
+
+define P=2 [ [P=2=SET1]|[P=2=SET2]|[P=2=SET3] ];
 
 # ##############################
 #         Abbreviations         
