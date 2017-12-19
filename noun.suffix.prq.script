@@ -514,7 +514,7 @@ define N=S=CL [
 ! 
 | "[--][-kamara][+CL:cinnamon.color][=cinnamon.color]" : {kamara} 
 ! 
-! kitaijenka / kitaihenka / =kitai -henka / to.dawn -cl:daylight / EN; 'day'; ES: 'día' 
+! kitaijenka / kitaihenka / =kitai -henka / =to.dawn -cl:daylight / EN: 'day'; ES: 'día' 
 | "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {henka} ! @CL 
 | "[--][-enka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {enka} 
 ! 
