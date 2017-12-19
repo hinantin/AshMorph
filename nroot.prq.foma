@@ -1324,8 +1324,9 @@ define NRootPRQin [
 # the penetration effect.
 | "[=kipishiri+n.m.][NRoot][=bitter (lit.: the.bitter.one; ES: amargo); vine.sp.]" : {kipishiri}
 | "[=kepishiri+n.m.][NRoot][=bitter (lit.: the.bitter.one; ES: amargo); vine.sp.]" : {kepishiri}
-| "[=kipishi][NRoot][=bitter]" : {kipishi} ! N@->V
-| "[=kepishi][NRoot][=bitter]" : {kepishi} ! N@->V
+! okepishitimotee / o- =kepishi -t -imo -t -ee / ES: 'es.amargo' 
+| "[=kipishi][NRoot][=bitter]" : {kipishi} ! N@->V::[=to.be.bitter (ES: ser.amargo)] 
+| "[=kepishi][NRoot][=bitter]" : {kepishi} ! N@->V::[=to.be.bitter (ES: ser.amargo)] 
 ! palm tree species
 | "[=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
 | "[=kirii][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
