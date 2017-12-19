@@ -4,11 +4,11 @@ define P=2=SET1 [
   "[N=][IRR+][--]" : {N}
 | "[N=][IRR+][--]" : {n}"@NVowel@"
 | "[N=][IRR+][--]" : {m}"@MP@"
-]:
+];
 
 define P=2=SET2 [
 # ------MALEFACTIVE CAUSATIVE----------
-| "[mi=][M.CAUS+][--]" : {mi}
+  "[mi=][M.CAUS+][--]" : {mi}
 | "[min=][M.CAUS+][--]" : {min}
 # -----AGENTIVE CAUSATIVE--------
 ! noitakeri / n- o= =i -t -ak -e =ri / EN: "I'll.make.him.drink"
