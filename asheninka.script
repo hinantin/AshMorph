@@ -119,10 +119,10 @@ TZEpenthesisRule8
 #      source v-s-5.foma
 #      source v-s-6.foma
 #      source v-s-7.foma
-      source verb.suffix.prq.script
+      source verb.classifier.prq.foma
       source verb.composition.prq.foma
       source verb.composition.len.prq.foma
-      source verb.classifier.prq.foma
+      source verb.suffix.prq.script
       source verb.transitions.prq.script
 
 #      define S [ (V=S=1) (V=S=2) (V=S=3) (V=S=4) ]; #(V=S=3) (S=4) (S=5) (S=6) (S=7)] ;
@@ -324,7 +324,7 @@ TZEpenthesisRule8
                                                    | [DUR] # ñaabaementotsiki  
                                                   ] )
                                                   # konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
-                                                  [ V=S=CL|[V=S=CL [NMZ|V=S=ADJ]]|[NMZ|V=S=ADJ] ] (NRootCmpPRQ) 
+                                                  [ CL|[CL [NMZ|V=S=ADJ]]|[NMZ|V=S=ADJ] ] (NRootCmpPRQ) 
                                                   (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
       
 
