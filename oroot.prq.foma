@@ -40,6 +40,7 @@ define ORootPRQin [
 | "[=ario][PostPol][=PP][--][-rika][+COND][--][-me][+SUBJ]" : {ariorikame} ! ario-rika-me / PP-COND-SUBJ
 | "[=ario][PostPol][=PP][--][-rika][+COND][--][-mpa][+SUBJ]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
 | "[=ario][PostPol][=PP][--][-rika][+COND][--][-kea][+EMPH]" : {ariorikakea} ! ario-rika-kea / PP-COND-EMPH
+| "[=ari][PostPol][=PP][--][-kea][+EMPH]" : {arikea} 
 ! 
 # ai / PP 
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitaki}
