@@ -152,6 +152,8 @@ define N=S=CL [
 | "[--][-tiya][+CL:flower][=flower]" : {tiya} 
 ! santotea / =santo -tea / =saint -cl:flower / EN: 'sacred.flower'; ES: 'flores.sagradas' 
 | "[--][-tea][+CL:flower][=flower]" : {tea} 
+! santotyaamashi / =santo -tyaa -mashi / =saint -cl:flower -cl:wide,flat.space / EN: 'garden'; ES: 'jardín' 
+| "[--][-tyaa][+CL:flower][=flower]" : {tyaa} 
 
 # kitsapitonki / =kitsapi -tonki / =needle -cl:long.tree.segment / ES: 'aguja.de.madera.del.pifayo.utilizada.para.atar.hojas.de.palmeras'   
 # tsirentsitonki / =tsire -ntsi -tonki / =palm.tree.sp. -nposs -cl:long.tree.segment / EN: 'noodles'; ES: 'fideos' 
