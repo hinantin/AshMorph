@@ -10,6 +10,7 @@ define V=S=noun [
 | "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : "@EP"{atsiri} ! N@->V @VCMP
 | "[--][=chee+m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : "@EP"{chee} ! @VCMP 
 | "[--][=hani][NRoot][=little.child]" : "@EP"{hani} ! @VCMP 
+| "[--][=henka+poss@ne.][NRoot][=odor; smell]" : "@EP"{henka} ! @CMP @VCMP 
 | "[--][=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{henka} ! @VCMP 
 | "[--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{enka} ! @VCMP 
 | "[--][=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tsempeki} ! @VCMP 

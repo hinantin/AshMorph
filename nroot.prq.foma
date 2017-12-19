@@ -539,8 +539,8 @@ define NRootPRQin [
 ! 
 | "[=haye][NRoot][=ant.sp. (shirataco)]" : {haye}
 ! 
-| "[=henka+poss@ne.][NRoot][=odor; smell]" : {henka} !@CMP
-| "[=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} !@CMP
+| "[=henka+poss@ne.][NRoot][=odor; smell]" : {henka} ! @CMP @VCMP 
+| "[=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} ! @CMP
 | "[=sankaare+n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankaare}
 | "[=sankaari+n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankaari}
 | "[=sankare+n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankare}
