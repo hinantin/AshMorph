@@ -1293,7 +1293,8 @@ define VRootPRQin [
 ! 
 | "[=pony][VRoot][=to.come.from]" : {pony}
 ! 
-| "[=pony][VRoot][=to.happen]" : {pony}
+| "[=pony][VRoot][=to.happen (ES: suceder)]" : {pony}
+| "[=pone][VRoot][=to.happen (ES: suceder)]" : {pone}
 ! 
 | "[=porek][VRoot][=to.shine (ES: brillar)]" : {porek}
 | "[=amorek][VRoot][=to.shine (ES: brillar)]" : {amorek}
