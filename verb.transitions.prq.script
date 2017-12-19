@@ -72,7 +72,10 @@ define S [
 | V=S=noun                                                      (PROG) STATUS (V=S=O) (PRNO) (V=S=NEG) 
 | V=S=noun                                                      (CMPL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 |                                                      (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
-|                                                      (V=S=CL) (DUR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+# noshijabeetatiya 
+|                                                      (V=S=CL) (DUR) (PROG) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+# oshijatatiyempa 
+|                                                      (V=S=CL) (DUR) (PROG) STATUS (V=S=O) (PRNO) (V=S=DUB) 
 |                                                      (V=S=CL) (DIR) (REGR) STATUS (V=S=NEG) 
 | V=S=noun                                                      (DIR) (PRF) STATUS (ADV) 
 | (V=S=CL) (PRF) STATUS 
