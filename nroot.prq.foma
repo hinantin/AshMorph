@@ -4010,6 +4010,35 @@ define NRootPRQin [
 !| "[=kavana][NRoot][=tree.sp. (ES: catahua, sci.nm.: hura.crepitans)]" : {kavana} 
 | "[=kamana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kamana} 
 | "[=kavana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kavana} 
+# ############################
+# Months
+# ############################
+# inkaniiteri enero
+| "[=inkaniiteri][NRoot][=January (ES: enero)]" : {inkaniiteri}
+# taritoite febrero
+| "[=taritoite][NRoot][=February (ES: febrero)]" : {taritoite}
+# menkorimoni marzo
+| "[=menkorimoni][NRoot][=March (ES: marzo)]" : {menkorimoni}
+# osaribani abril
+| "[=osarivani][NRoot][=April (ES: abril)]" : {osarivani}
+# oabiro mayo
+| "[=oaviro][NRoot][=May (ES: mayo)]" : {oaviro}
+# yompiiri junio
+| "[=yompiiri][NRoot][=June (ES: junio)]" : {yompiiri}
+# poriaberi julio
+| "[=poriaveri][NRoot][=July (ES: julio)]" : {poriaveri}
+# kamoriiteri agosto
+| "[=kamoriiteri][NRoot][=August (ES: agosto)]" : {kamoriiteri}
+# shimontiiteri setiembre
+| "[=shimontiiteri][NRoot][=September (ES: setiembre)]" : {shimontiiteri}
+# mapitiiteri octubre
+| "[=mapitiiteri][NRoot][=October (ES: octubre)]" : {mapitiiteri}
+# pasaroi noviembre
+| "[=pasaroi][NRoot][=November (ES: noviembre)]" : {pasaroi}
+# chakopiteri diciembre
+# chakopiiteri diciembre
+| "[=chakopiteri][NRoot][=December (ES: diciembre)]" : {chakopiteri}
+| "[=chakopiiteri][NRoot][=December (ES: diciembre)]" : {chakopiiteri}
 ];
 
 # ##############################
