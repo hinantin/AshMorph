@@ -94,8 +94,10 @@ define N [
 # unknown suffix 
 | (N=S=poss) (N=S=UNK1) (N=S=PL) 
 # Verbal transitions with noun roots 
-# anakyari / =ana -ki -ya -ri / =huito -cl -irr -rel 
+# anakyari / =ana -ky -a -ri / =huito -cl -cl -nmz 
 #| (N=S=CL) (N=S=CL) (N=S=IRR) (N=S=NMZ) # to.be.revised 
+# tsirepitsari / =tsire -pitsa -ri 
+| (N=S=CL) (N=S=CL) (N=S=NMZ) 
 | (N=S=SUPERL) 
 | (N=S=poss) (N=S=EXPECT) 
 # icharinepeeni 
