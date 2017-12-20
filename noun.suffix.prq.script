@@ -301,6 +301,7 @@ define N=S=CL [
 # kijopatsari / kihopatsari / =to.be.hard -cl:jelly-like.soil -nmz / EN: 'hard.soil'  
 | "[--][-vatsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {vatsa} 
 | "[--][-patsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {patsa} ! @CL 
+| "[--][-pitsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {pitsa} 
 ! .. 
 | "[--][-nki][+CL:snake][=snake.sp.]" : {nki} ! @CL 
 | "[--][-nke][+CL:snake][=snake.sp.]" : {nke} ! @CL 
