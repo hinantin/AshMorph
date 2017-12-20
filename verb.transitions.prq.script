@@ -295,6 +295,9 @@ define S [
 | (FRUS) STATUS (V=S=OPT) 
 | (APPLSEP) (PRF) STATUS (V=S=O) (PRNO) (V=S=CNTF) ! y=a-apitsa-t-ak-i-ni-ri 'he took her away from him' 
 | (APPLSEP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! =a-pitsa-t-ak-i-ri-ri / EN: 'the.one.that.took.it.away'; ES: 'el.que.le.quitó' 
+# noshiyapithatantanacariri / noshiyapitsatantanakariri / 
+| (APPLSEP) (APPLREAS) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)
+
 | (DIR) (REGR) STATUS (V=S=CNTF) 
 | (APPL) (REP) (PL) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (REP) (HAB) STAT (V=S=REL) ! sokij-aa-t-apini-t-atsi-ri
