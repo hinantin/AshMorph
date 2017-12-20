@@ -834,8 +834,9 @@ define VRootPRQin [
 ! 
 | "[=matzi][VRoot][=to.cast.spell]" : {matzi}
 ! 
-| "[=mat][VRoot][=to.manage, to.be.able (ES: lograr); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar)]" : {mat}
-| "[=amat][VRoot][=to.manage, to.be.able (ES: lograr); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar)]" : {amat}
+# Modal verb 
+| "[=mat][VRoot][=to.manage, to.be.able/possible (ES: lograr); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar)]" : {mat}
+| "[=amat][VRoot][=to.manage, to.be.able/possible (ES: lograr); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar)]" : {amat}
 ! 
 | "[=ma][VRoot][=to.sleep (ES: dormir)]" : {ma}
 | "[=maa][VRoot][=to.sleep (ES: dormir)]" : {maa}
