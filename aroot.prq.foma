@@ -55,10 +55,11 @@ define ARootPRQin [
 | "[=mavoeni][AdjRoot][=everybody, all (ES: todos)]" : {mavoeni}
 ! 
 | "[=osheki][AdjRoot][=many, much, a.lot]" : {osheki}
-| "[=pashine][AdjRoot][=other, another]" : {pashine}
+! 
+| "[=pashine][AdjRoot][=other, another (ES: otro)]" : {pashine}
 | "[=pashini][AdjRoot][=other, another (ES: otro); few]" : {pashini}
 | "[=paashini][AdjRoot][=other, another (ES: otro); few]" : {paashini}
-| "[=pasini][AdjRoot][=other, another]" : {pasini}
+| "[=pasini][AdjRoot][=other, another (ES: otro)]" : {pasini}
 ! 
 | "[=pisari+m.][AdjRoot][=old]" : {pisari} ! N@->V
 | "[=pishari+m.][AdjRoot][=old]" : {pishari} ! N@->V
