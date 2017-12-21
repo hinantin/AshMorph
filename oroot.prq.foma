@@ -234,6 +234,8 @@ define ConnRootPRQ01in [
 ! 
 | "[=omaanta][ConnRoot][=but; instead]" : {omaanta}
 ! 
+| "[=rooma][ConnRoot][=but]" : {rooma}
+! 
 | "[=onkantya][ConnRoot][=in.order]" : {onkantya}
 | "[=onkantya][ConnRoot][=so.that]" : {onkantya}
 | "[=okanta][ConnRoot][=so.that]" : {okanta}

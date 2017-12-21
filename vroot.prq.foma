@@ -1354,7 +1354,10 @@ define VRootPRQin [
 | "[=saa][VRoot][=to.bathe.in.hot.water; to.pour.warm_liquids.over.sb.in.order.to.heal.it/him/her.]" : {saa}
 ! 
 | "[=saa][VRoot][=to.steam.bathe]" : {saa}
+! 
 | "[=saava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {saava}
+| "[=haava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {haava}
+! 
 | "[=saavaha][VRoot][=to.heat.sth.up (e.g.: water; ES: calentar (p.ej.: agua))]" : {saavaha}
 | "[=katsirink][VRoot][=to.heat.sth. (ES: calentar(se))]" : {katsirink}
 ! 
@@ -1793,6 +1796,7 @@ define VRootPRQin [
 ! 
 | "[=tyomik][VRoot][=to.roast.yucca]" : {tyomik}
 ! 
+# Modal verb 
 | "[=tzim][VRoot][=to.have; to.exist]" : {tzim}
 | "[=tim][VRoot][=to.have; to.give.birth]" : {tim}
 | "[=tsim][VRoot][=to.have]" : {tsim}
