@@ -358,6 +358,7 @@ define IMPP [ [EP V=S=IMPP]|[V=S=IMPP] ];
 #     2a- =to.look -real -3m.o =excl[exclaiming] *** 3m.a- =to.be.called -ep -irr -3m.o *** =that / EN: "look, what's that?"  
 define V=S=EXCL [
   "[--][=ve][+EXCL][=exclaiming,announcing]" : [{ve}]
+| "[--][=vee][+EXCL][=exclaiming,announcing]" : [{vee}]
 | "[--][=vi][+EXCL][=exclaiming,announcing]" : [{vi}]
 ];
                    
