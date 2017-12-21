@@ -48,36 +48,36 @@ define S [
 | (APPL) STATUS (PRNO) 
 # -----------------------------------------------------------------------------
 #| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (NMZ) # end-state? revise!!! nominalization???
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) STATUS ! noun root: noun, noun+noun 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) STATUS ! noun root: noun, noun+noun 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 # o-nint-a-Voro-t-ab-ak-e-ri 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (RCP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (V=S=COND) 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (RCP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (V=S=COND) 
 #  
-| V=S=noun                                             (V=S=CL) (DIR) (REGR) STATUS 
-| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun)                    (DIR) (REGR) STATUS 
+| S=NOUN                                             (V=S=CL) (DIR) (REGR) STATUS 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun)                    (DIR) (REGR) STATUS 
 # o-kant-a-pankaina-aty-a 
-|                                                      (V=S=CL) (PROG) STATUS 
-|                                                      (V=S=CL) (CAUSSOC) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                    (V=S=CL) (PROG) STATUS 
+|                                                    (V=S=CL) (CAUSSOC) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 # o-kant-a-pontso-t-ap-ak-a 
-|                                                      (V=S=CL) (DIR) (PRF) STATUS 
-|                                                      (V=S=CL) (APPLINST) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                                      (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                                      (RCP) (CAUSSOC) (REGR) STATUS 
-|                                                      (V=S=CL) (DIR) (PRF) STATUS 
-| V=S=noun                                                      (APPLINT) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| V=S=noun                                                      (PROG) STATUS (V=S=O) (PRNO) (V=S=NEG) 
-| V=S=noun                                                      (CMPL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-|                                                      (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
+|                                                    (V=S=CL) (DIR) (PRF) STATUS 
+|                                                    (V=S=CL) (APPLINST) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| S=NOUN                                                      (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| S=NOUN                                                      (RCP) (CAUSSOC) (REGR) STATUS 
+|                                                    (V=S=CL) (DIR) (PRF) STATUS 
+| S=NOUN                                                      (APPLINT) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| S=NOUN                                                      (PROG) STATUS (V=S=O) (PRNO) (V=S=NEG) 
+| S=NOUN                                                      (CMPL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                    (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 # noshijabeetatiya 
-|                                                      (V=S=CL) (DUR) (PROG) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                    (V=S=CL) (DUR) (PROG) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 # oshijatatiyempa 
-|                                                      (V=S=CL) (DUR) (PROG) STATUS (V=S=O) (PRNO) (V=S=DUB) 
-|                                                      (V=S=CL) (DIR) (REGR) STATUS (V=S=NEG) 
-| V=S=noun                                                      (DIR) (PRF) STATUS (ADV) 
+|                                                    (V=S=CL) (DUR) (PROG) STATUS (V=S=O) (PRNO) (V=S=DUB) 
+|                                                    (V=S=CL) (DIR) (REGR) STATUS (V=S=NEG) 
+| S=NOUN                                                      (DIR) (PRF) STATUS (ADV) 
 | (V=S=CL) (PRF) STATUS 
 | (V=S=CL) STATUS (ADV) 
 | (V=S=CL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
