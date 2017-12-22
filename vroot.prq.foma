@@ -808,7 +808,7 @@ define VRootPRQin [
 | "[=man][VRoot][=to.hide]" : {man}
 | "[=tsiti][VRoot][=to.hide (ES: ocultar)]" : {tsiti}
 ! 
-| "[=mana][VRoot][=to.fight]" : {mana}
+| "[=mana][VRoot][=to.fight (ES: luchar)]" : {mana}
 ! 
 | "[=mana][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow]" : {mana}
 | "[=manaa][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow]" : {manaa}
@@ -1287,7 +1287,7 @@ define VRootPRQin [
 | "[=paema][VRoot][=to.sound (ES: sonar)]" : {paema}
 | "[=paima][VRoot][=to.sound (ES: sonar)]" : {paima}
 ! 
-| "[=pok][VRoot][=to.come, to.arrive]" : {pok}
+| "[=pok][VRoot][=to.come (ES: venir), to.arrive]" : {pok}
 ! 
 | "[=pokai][VRoot][=to.toast (ES: tostar)]" : {pokai}
 ! 
