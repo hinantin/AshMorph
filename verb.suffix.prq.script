@@ -134,6 +134,7 @@ define REGR [ [EP V=S=REGR]|[V=S=REGR] ];
                    
 define V=S=CNTF [
   "[--][-mi][+CNT.F]" : [{mi}]
+| "[--][-me][+CNT.F]" : [{me}]
 ];
                    
 # ****************************************
