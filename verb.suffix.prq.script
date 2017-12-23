@@ -241,7 +241,7 @@ define V=S=ADV [
 | "[--][-ra+medial.loc.][+ADV]" : "@EP"[{ra}] 
 | "[--][-nta+distal.loc.][+ADV]" : "@EP"[{nta}] 
 # ---------------------------------------------------------------
-| "[--][-ranki+fused.t.][+ADV.P]" : "@EP"[{ranki}] 
+| "[--][-ranki+fused.t.][Asp][+ADV.P]" : "@EP"[{ranki}] 
 # ---------------------------------------------------------------
 | "[--][-ni][AS][+ADV]" : "@EP"[{ni}] 
 | "[--][-ini][AS][+ADV]" : "@EP"[{ini}] 
@@ -321,10 +321,10 @@ define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
 # ****************************************
                    
 define V=S=HAB [
-  "[--][-apin][+HAB_CUST][=always]" : "@EP"[{apin}] 
-| "[--][-apiin][+HAB_CUST][=always]" : "@EP"[{apiin}] 
-| "[--][-apinin][+HAB_CUST][=always]" : "@EP"[{apinin}] 
-| "[--][-apini][+HAB_CUST][=always]" : "@EP"[{apini}]
+  "[--][-apin][Asp][+HAB_CUST][=always]" : "@EP"[{apin}] 
+| "[--][-apiin][Asp][+HAB_CUST][=always]" : "@EP"[{apiin}] 
+| "[--][-apinin][Asp][+HAB_CUST][=always]" : "@EP"[{apinin}] 
+| "[--][-apini][Asp][+HAB_CUST][=always]" : "@EP"[{apini}]
 ];
                    
 define HAB [ [EP V=S=HAB]|[V=S=HAB] ];
@@ -637,12 +637,12 @@ define APPLINST [ [EP V=S=APPLINST]|[V=S=APPLINST] ];
 ! yaapanantziri / y- =a -apanant -tz -i -ri / 3m.a- =to.take -punctual[once.more] -ep -irr -3m.o / EN: 'he.grabbed.it.once.more' 
 define V=S=SEMEL [
 # semelfactive: 
-  "[--][-apaint][+PUNCTUAL][=once;for.a.while,short-term]" : "@EP"[{apaint}]
-| "[--][-apaent][+PUNCTUAL][=once;for.a.while,short-term]" : "@EP"[{apaent}]
+  "[--][-apaint][Asp][+PUNCTUAL][=once;for.a.while,short-term]" : "@EP"[{apaint}]
+| "[--][-apaent][Asp][+PUNCTUAL][=once;for.a.while,short-term]" : "@EP"[{apaent}]
 # -----------------------------------------------------
 # semeliterative: single repetition of event/action (semel: one.time) 
-| "[--][-apanant][+ITERATIVE][=one.more.time,once.more]" : "@EP"[{apanant}]
-| "[--][-apan][+ITERATIVE][=one.more.time,once.more]" : "@EP"[{apan}]
+| "[--][-apanant][Asp][+ITERATIVE][=one.more.time,once.more]" : "@EP"[{apanant}]
+| "[--][-apan][Asp][+ITERATIVE][=one.more.time,once.more]" : "@EP"[{apan}]
 ];
                    
 define SEMEL [ [EP V=S=SEMEL]|[V=S=SEMEL] ];
@@ -893,7 +893,7 @@ define V=S=small [ # revise!
 ! It signals the beginning phase of an activity/situation. 
 define V=S=INCH [
 # --------------------------------------------------------------------------
-# Inceptive 
+# Inceptive (INCP) 
   "[--][-ima][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{ima}]
 # --------------------------------------------------------------------------
 | "[--][-imai][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{imai}]
