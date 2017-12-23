@@ -487,7 +487,7 @@ define V=S=COND [
 # ****************************************
                    
 define V=S=DIM [ # revise!
-  "[--][-nint][+DIM][=almost,a.little.bit]" : "@EP"[{nint}]
+  "[--][-nint][ADV][+DIM.DEGR][=almost,a.little.bit (degree)]" : "@EP"[{nint}]
 | "[--][-ni][+DIM]" : "@EP"[{ni}]
 | "[--][-ini][+DIM]" : "@EP"[{ini}]
 ];
@@ -820,16 +820,18 @@ define ANT1 [ [EP V=S=ANT1]|[V=S=ANT1] ];
                    
 # TIME.MODAL 
 define V=S=EARLY [ 
-  "[--][-aman][MODAL][+TIME][=early]" : "@EP"[{aman}]
+  "[--][-aman][ADV][+TIME.MODAL][=early]" : "@EP"[{aman}]
 ];
                    
 define EARLY [ [EP V=S=EARLY]|[V=S=EARLY] ];
                    
 # ****************************************
                    
-!define V=S=quickly [ # revise!
-!  "[--][-ite][+quickly]" : "@EP"[{ite}]
-!];
+define V=S=ADVMANNER [ # revise!
+  "[--][-ite][ADV][+SPEED][=quickly,surprisingly]" : "@EP"[{ite}]
+];
+                   
+define ADVMANNER [ [EP V=S=ADVMANNER]|[V=S=ADVMANNER] ];
                    
 # ****************************************
                    
@@ -838,7 +840,7 @@ define EARLY [ [EP V=S=EARLY]|[V=S=EARLY] ];
 # 1. it focuses on the thorough completion of an event.
 # 2. It denotes complete affectedness of the patientive argument.
 define V=S=CMPL [
-  "[--][-ite][Asp][+CMPL][=quickly,surprisingly]" : "@EP"[{ite}]
+  "[--][-ite][Asp][+CMPL]" : "@EP"[{ite}]
 ];
                    
 define CMPL [ [EP V=S=CMPL]|[V=S=CMPL] ];
