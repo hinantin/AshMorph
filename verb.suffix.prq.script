@@ -391,6 +391,8 @@ define V=S=STAT=SET1 [
 ! abisaintsiri peerani / avisaintsiri peerani / =avis -aintsi -ri =peerani / =to.pass -stat -rel =long.ago / EN: 'history'; ES: 'historia; lo.que.sucedió.hace.mucho.tiempo'  
 | "[--][-aintsi][+STAT.PRF]" : "@EP"[{aintsi}] 
 | "[--][-aentsi][+STAT.PRF]" : "@EP"[{aentsi}] 
+# 
+| "[--][-ahantsi][+STAT.PRF]" : "@EP"[{ahantsi}] 
 # --------
 ! inchato tainchari / =incha -to =ta -incha -ri / =plant -cl:tree =to.burn -stat -rel / ES: 'árbol.quemado'; EN: 'burned.tree' 
 ! kaniri pichainchari / =kaniri =picha -incha -ri / =yucca =to.crush.sth. -stat -rel / ES: 'yuca.(masa.cocinada)'; EN: 'cooked.yucca.mass' 
@@ -399,9 +401,9 @@ define V=S=STAT=SET1 [
 ! aparoni tsatainchari / =aparoni =tsat -aincha -ri / =one =to.tear.into.two.parts -stat -rel / ES: 'uno.colgado'; EN: 'one.torn.into.two.parts' 
 ! noetsaare kityonkari oobaenchari / no- =ketsaa -re =kityonka -ri =oob -aencha -ri / 1sg.poss- =dress -nmz =to.be.red -adj =to.put.sth.out.in.the.sun -stat -rel / ES: 'el.vestido.rojo.que.está.soleado'; EN: 'the.red.dress.that.was.put.out.in.the.sun' 
 ! Bankanainchari / vankanainchari / =vank -an -aincha -ri / =to.lift.sth.up -dir+departing -stat -rel / EN: 'that.has.been.lifted.up.(departing)'; ES: 'que.ha.subido' 
-| "[--][-incha][+STAT]" : "@EP"[{incha}]
-| "[--][-aincha][+STAT]" : "@EP"[{aincha}]
-| "[--][-aencha][+STAT]" : "@EP"[{aencha}]
+| "[--][-incha][+STAT.PRF]" : "@EP"[{incha}]
+| "[--][-aincha][+STAT.PRF]" : "@EP"[{aincha}]
+| "[--][-aencha][+STAT.PRF]" : "@EP"[{aencha}]
 ];
 
 define V=S=STAT=SET2 [
