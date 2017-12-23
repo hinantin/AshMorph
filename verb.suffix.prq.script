@@ -370,7 +370,7 @@ define V=S=STAT=SET1 [
 # -------- STATIVITY IMPERFECTIVE -------------
 ! koiteatsiri / =koite -atsi -ri / =to.be.in.need -stat -rel / EN: 'poor'; ES: 'pobre' 
 ! betsikayetatsiri / vetsikayetatsiri / =vetsik -a -ye -t -atsi -ri / =to.create -ep -dist -ep -stat -rel / EN: 'invention (thing/idea.that.has.been.invented)'; ES: 'invento'  
-  "[--][-atsi][+STAT]" : "@EP"[{atsi}]
+  "[--][-atsi][+STAT.IPRF]" : "@EP"[{atsi}]
 ! taachari / =ta -acha -ri / =to.burn -stat -rel / EN: 'the.burned.one', ES: 'quemado'
 ! nashitachari / =nashi -t -acha -ri / =to.separate -ep -stat -rel / EN: 'different.one'; ES: 'diferente' 
 ! ashinonkaachari / =ashinonk -aacha -ri / =to.suffer -stat -rel / EN: 'poor'; ES: 'pobre' 
@@ -379,8 +379,8 @@ define V=S=STAT=SET1 [
 ! oyaakotachari / =oya -ako -t -acha -ri / =to.follow -appl -ep -stat -rel / EN: 'dependent'; ES: 'dependiente'
 ! katikachari / =katik -acha -ri / =to.hang -stat -rel / EN: 'hanged'; ES: 'ahorcado'  
 ! pahitachari Pityotsi / =pahi -t -acha -ri =Pityotsi / =to.be.called -ep -stat -rel =proper.name / ES: 'who.is.called.Pityotsi'  
-| "[--][-acha][+STAT]" : "@EP"[{acha}] 
-| "[--][-aacha][+STAT]" : "@EP"[{aacha}] 
+| "[--][-acha][+STAT.IPRF]" : "@EP"[{acha}] 
+| "[--][-aacha][+STAT.IPRF]" : "@EP"[{aacha}] 
 # -------- TEMPORAL STATIVITY MARKERS ------
 # -------- STATIVE PERFECTIVE  -------------
 ! kenanaintsiri / =ken -an -aintsi -ri / =to.walk -dir+leaving -stat -rel / EN: 'that.walks.past.sb.'; ES: 'que.va.caminando' 
