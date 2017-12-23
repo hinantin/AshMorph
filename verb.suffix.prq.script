@@ -312,8 +312,9 @@ define FRUS [ [EP V=S=FRUS]|[V=S=FRUS] ];
 # ****************************************
                    
 define V=S=APPLREAS [
-  "[--][-ant][+APPL.REAS][=in.order.to]" : "@EP"[{ant}]
-| "[--][-anta][+APPL.REAS][=in.order.to]" : "@EP"[{anta}]
+# Characteristic (CHAR) 
+  "[--][-ant][Asp][+APPL.REAS][=in.order.to]" : "@EP"[{ant}]
+| "[--][-anta][Asp][+APPL.REAS][=in.order.to]" : "@EP"[{anta}]
 ];
                    
 define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
@@ -714,6 +715,7 @@ define V=S=EMPH [
 # aritya / =ari -tya / =PP -EMPH /  
   "[--][=tya][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
 ! 
+# Assertive 
 | "[--][=kya][+EMPH]" : [{kya}]
 | "[--][=kia][+EMPH]" : [{kia}]
 | "[--][=kea][+EMPH]" : [{kea}]
