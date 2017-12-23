@@ -52,7 +52,8 @@ define NounToVerbPRQin [
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {kooya} ! N@->V
 | "[=koya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {koya} ! N@->V
 | "[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)]+vbz." : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
-| "[=matsi+m.][NRoot][=(human).witch; sorcerer]+vbz." : {matsi} ! N@->V 
+| "[=matsi+m.][NRoot][=(human).witch; sorcerer]::[=to.be.a.witch]+vbz." : {matsi} ! N@->V::[=to.be.a.witch]  
+| "[=matzi+m.][NRoot][=(human).witch; sorcerer]::[=to.be.a.witch]+vbz." : {matzi} ! N@->V::[=to.be.a.witch]  
 | "[=mavoshi+n.m.+inal@ntsi.][NRoot][=nest; grassy.nest]::[=to.build/construct.a.nest (ES: construir.nido)]+vbz." : {mavoshi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=maashi+n.m.+inal@ntsi.][NRoot][=nest]::[=to.build/construct.a.nest (ES: construir.nido)]+vbz." : {maashi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=menkoshi+n.m.+inal@n/tsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]+vbz." : {menkoshi} ! N@->V
