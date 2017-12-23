@@ -241,7 +241,7 @@ define V=S=ADV [
 | "[--][-ra+medial.loc.][+ADV]" : "@EP"[{ra}] 
 | "[--][-nta+distal.loc.][+ADV]" : "@EP"[{nta}] 
 # ---------------------------------------------------------------
-| "[--][-ranki+fused.t.][Asp][+ADV.P]" : "@EP"[{ranki}] 
+| "[--][-ranki+fused.t.][Asp][+ADV.P][=past.situation]" : "@EP"[{ranki}] 
 # ---------------------------------------------------------------
 | "[--][-ni][AS][+ADV]" : "@EP"[{ni}] 
 | "[--][-ini][AS][+ADV]" : "@EP"[{ini}] 
@@ -809,9 +809,12 @@ define V=S=DUB [
 # -----------------------------------------------
 # adverbial suffixes of time 
 # -----------------------------------------------
-define V=S=before [ # revise!
-  "[--][-it+before]" : "@EP"[{it}]
+define V=S=ANT1 [ # revise!
+# Ant1 ; past/non-past.action
+  "[--][-it][Asp][+ANT][=past/non-past.action:before]" : "@EP"[{it}]
 ];
+                   
+define ANT1 [ [EP V=S=ANT1]|[V=S=ANT1] ];
                    
 # ****************************************
                    
@@ -845,7 +848,7 @@ define CMPL [ [EP V=S=CMPL]|[V=S=CMPL] ];
 define V=S=ICPL [
 ! "[--][-ite][+COMPL][=quickly,surprisingly]" : "@EP"[{ite}]
   "[--][-it][+ICPL][=speed]" : "@EP"[{it}]
-!| "[--][-itz][+ICPL][=speed]" : "@EP"[{itz}]
+| "[--][-itz][+ICPL][=speed]" : "@EP"[{itz}]
 ];
                    
 define ICPL [ [EP V=S=ICPL]|[V=S=ICPL] ];

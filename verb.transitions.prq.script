@@ -158,7 +158,7 @@ define S [
 #| (CAUSSOC) (NMZ) STATUS (V=S=REL) (V=S=Q) # revise!!!
 #| (PROG) (STAT) # revise!!!  
 #| (V=S=DUB)  # end-state? REVISE!!! 
-| (V=S=before) STATUS 
+| (ANT1) STATUS 
 | STATUS (V=S=REL) (V=S=Q) 
 | (APPL) (PROG) STATUS (V=S=O) (PRNO) 
 | STATUS (PRNO) (V=S=REL) (V=S=Q) 
@@ -446,7 +446,7 @@ define S [
 | (PRF) STATUS (PRNO) (ADV) 
 | (RCP) (CAUSSOC) (PRF) STATUS 
 | (REGR) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (ICPL) (V=S=before) (DIR) (PRF) STATUS (PRNO) 
+| (ICPL) (ANT1) (DIR) (PRF) STATUS (PRNO) 
 | STATUS (PRNO) (ADV) 
 | (APPL) (REGR) STATUS (PRNO) 
 | STATUS (V=S=O) 
