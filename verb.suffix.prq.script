@@ -370,7 +370,7 @@ define V=S=STAT=SET1 [
 # -------- STATIVITY IMPERFECTIVE -------------
 ! koiteatsiri / =koite -atsi -ri / =to.be.in.need -stat -rel / EN: 'poor'; ES: 'pobre' 
 ! betsikayetatsiri / vetsikayetatsiri / =vetsik -a -ye -t -atsi -ri / =to.create -ep -dist -ep -stat -rel / EN: 'invention (thing/idea.that.has.been.invented)'; ES: 'invento'  
-  "[--][-atsi][+STAT.IPRF]" : "@EP"[{atsi}]
+  "[--][-atsi][Asp][+STAT.IPRF]" : "@EP"[{atsi}]
 ! taachari / =ta -acha -ri / =to.burn -stat -rel / EN: 'the.burned.one', ES: 'quemado'
 ! nashitachari / =nashi -t -acha -ri / =to.separate -ep -stat -rel / EN: 'different.one'; ES: 'diferente' 
 ! ashinonkaachari / =ashinonk -aacha -ri / =to.suffer -stat -rel / EN: 'poor'; ES: 'pobre' 
@@ -379,8 +379,8 @@ define V=S=STAT=SET1 [
 ! oyaakotachari / =oya -ako -t -acha -ri / =to.follow -appl -ep -stat -rel / EN: 'dependent'; ES: 'dependiente'
 ! katikachari / =katik -acha -ri / =to.hang -stat -rel / EN: 'hanged'; ES: 'ahorcado'  
 ! pahitachari Pityotsi / =pahi -t -acha -ri =Pityotsi / =to.be.called -ep -stat -rel =proper.name / ES: 'who.is.called.Pityotsi'  
-| "[--][-acha][+STAT.IPRF]" : "@EP"[{acha}] 
-| "[--][-aacha][+STAT.IPRF]" : "@EP"[{aacha}] 
+| "[--][-acha][Asp][+STAT.IPRF]" : "@EP"[{acha}] 
+| "[--][-aacha][Asp][+STAT.IPRF]" : "@EP"[{aacha}] 
 # -------- TEMPORAL STATIVITY MARKERS ------
 # -------- STATIVE PERFECTIVE  -------------
 ! kenanaintsiri / =ken -an -aintsi -ri / =to.walk -dir+leaving -stat -rel / EN: 'that.walks.past.sb.'; ES: 'que.va.caminando' 
@@ -389,10 +389,10 @@ define V=S=STAT=SET1 [
 ! abisaintsiri / avisaintsiri / =avis -aintsi -ri / =to.pass -stat -rel / EN: 'what.has.happened'; ES: 'lo.que.ha.ocurrido' 
 ! sabikaintsiri / savikaintsiri / =savik -aintsi -ri / =to.sit -stat -rel / EN: 'sitted'; ES: 'sentado' 
 ! abisaintsiri peerani / avisaintsiri peerani / =avis -aintsi -ri =peerani / =to.pass -stat -rel =long.ago / EN: 'history'; ES: 'historia; lo.que.sucedió.hace.mucho.tiempo'  
-| "[--][-aintsi][+STAT.PRF]" : "@EP"[{aintsi}] 
-| "[--][-aentsi][+STAT.PRF]" : "@EP"[{aentsi}] 
+| "[--][-aintsi][Asp][+STAT.PRF]" : "@EP"[{aintsi}] 
+| "[--][-aentsi][Asp][+STAT.PRF]" : "@EP"[{aentsi}] 
 # 
-| "[--][-ahantsi][+STAT.PRF]" : "@EP"[{ahantsi}] 
+| "[--][-ahantsi][Asp][+STAT.PRF]" : "@EP"[{ahantsi}] 
 # --------
 ! inchato tainchari / =incha -to =ta -incha -ri / =plant -cl:tree =to.burn -stat -rel / ES: 'árbol.quemado'; EN: 'burned.tree' 
 ! kaniri pichainchari / =kaniri =picha -incha -ri / =yucca =to.crush.sth. -stat -rel / ES: 'yuca.(masa.cocinada)'; EN: 'cooked.yucca.mass' 
@@ -401,19 +401,19 @@ define V=S=STAT=SET1 [
 ! aparoni tsatainchari / =aparoni =tsat -aincha -ri / =one =to.tear.into.two.parts -stat -rel / ES: 'uno.colgado'; EN: 'one.torn.into.two.parts' 
 ! noetsaare kityonkari oobaenchari / no- =ketsaa -re =kityonka -ri =oob -aencha -ri / 1sg.poss- =dress -nmz =to.be.red -adj =to.put.sth.out.in.the.sun -stat -rel / ES: 'el.vestido.rojo.que.está.soleado'; EN: 'the.red.dress.that.was.put.out.in.the.sun' 
 ! Bankanainchari / vankanainchari / =vank -an -aincha -ri / =to.lift.sth.up -dir+departing -stat -rel / EN: 'that.has.been.lifted.up.(departing)'; ES: 'que.ha.subido' 
-| "[--][-incha][+STAT.PRF]" : "@EP"[{incha}]
-| "[--][-aincha][+STAT.PRF]" : "@EP"[{aincha}]
-| "[--][-aencha][+STAT.PRF]" : "@EP"[{aencha}]
+| "[--][-incha][Asp][+STAT.PRF]" : "@EP"[{incha}]
+| "[--][-aincha][Asp][+STAT.PRF]" : "@EP"[{aincha}]
+| "[--][-aencha][Asp][+STAT.PRF]" : "@EP"[{aencha}]
 ];
 
 define V=S=STAT=SET2 [
 # -------- STATIVITY MARKERS -------------
 # -------- STATIVITY IMPERFECTIVE -------------
-  "[--][-ach][+STAT]" : "@EP"[{ach}] 
+  "[--][-ach][Asp][+STAT.IPRF]" : "@EP"[{ach}] 
 # -------- TEMPORAL STATIVITY MARKERS ------
 # -------- STATIVE PERFECTIVE  -------------
-| "[--][-aints][+STAT]" : "@EP"[{aints}] 
-| "[--][-aits][+STAT]" : "@EP"[{aits}] 
+| "[--][-aints][Asp][+STAT.PRF]" : "@EP"[{aints}] 
+| "[--][-aits][Asp][+STAT.PRF]" : "@EP"[{aits}] 
 ];
 
                    
