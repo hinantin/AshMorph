@@ -188,9 +188,9 @@ define STATUS [
 # ****************************************
                    
 define V=S=AUG [
-  "[--][-piro][+AUG]" : "@EP"[{piro}]
-| "[--][-pero][+AUG]" : "@EP"[{pero}]
-| "[--][-pira][+AUG]" : "@EP"[{pira}]
+  "[--][-piro][DEGR][+AUG]" : "@EP"[{piro}]
+| "[--][-pero][DEGR][+AUG]" : "@EP"[{pero}]
+| "[--][-pira][DEGR][+AUG]" : "@EP"[{pira}]
 # -------------------------------------------
 | "[--][-ni][+AUG]" : "@EP"[{ni}]
 ];
@@ -986,7 +986,8 @@ define V=S=RELIRR [
                    
 ! desirable extremal 
 define V=S=DEXT [
-  "[--][-asano+degree][+DEXT]" : "@EP"[{asano}]
+  "[--][-asano][DEGR][+DEXT]" : "@EP"[{asano}]
+| "[--][-sano][DEGR][+DEXT]" : "@EP"[{sano}]
 ];
                    
 define DEXT [ [EP V=S=DEXT]|[V=S=DEXT] ];
@@ -1007,9 +1008,9 @@ define POSN [ [EP V=S=POSN]|[V=S=POSN] ];
 ! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
 ! EN: 'sensory, sensorial'; ES: 'sensorial' 
 define V=S=SENSORY [
-  "[--][-nint][+SENSORY][=DIM.DEGR: almost,(do).a.little.bit]" : "@EP"[{nint}] 
-| "[--][-nent][+SENSORY][=DIM.DEGR: almost,(do).a.little.bit]" : "@EP"[{nent}] 
-| "[--][-neent][+SENSORY][=DIM.DEGR: almost,(do).a.little.bit]" : "@EP"[{neent}] 
+  "[--][-nint][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{nint}] 
+| "[--][-nent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{nent}] 
+| "[--][-neent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{neent}] 
 ];
                    
 define SENSORY [ [EP V=S=SENSORY]|[V=S=SENSORY] ];
