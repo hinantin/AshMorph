@@ -95,7 +95,7 @@ define S [
 | (PRF) STATUS (V=S=COND) 
 | (REGR) STATUS (PRNO) 
 | (IMPP) (PRF) STATUS (PRNO) 
-| (CAUSSOC) (V=S=DIM) STATUS (PRNO) 
+| (CAUSSOC) (SENSORY) STATUS (PRNO) 
 | STATUS (V=S=OPT) 
 | (REGR) (PROG) STATUS (ADV) 
 | (REP) (PL) (DIR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
@@ -226,7 +226,7 @@ define S [
 | (PROG) STATUS 
 | (PRF) STATUS 
 #| (V=S=COND) # revise!!!
-| (DIMDEGR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (SENSORY) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (IMPP) (PRF) STATUS (PRNO) 
 | (PL) (PRF) STATUS (PRNO) 
 | (APPLREAS) (PRF) STATUS 
@@ -253,7 +253,7 @@ define S [
 | (PL) (PROG) STATUS (PRNO) 
 | (PL) (PROG) STATUS (PRNO) (V=S=REL) (V=S=PLcircumfixing)
 
-| (V=S=DIM) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (SENSORY) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (DUR) (REP) (DIST) STAT (V=S=REL) (V=S=Q)  # end-state? 
 #| (CAUSSOC) (APPL) (REGR) (PRNO) (V=S=REL) (V=S=Q)  # end-state? revise!!!
 ! a-n-kaa-ki-tz-imaint-ia-ro
@@ -308,7 +308,7 @@ define S [
 | (APPLBEN) STATUS (PRNO) 
 | (DIR) (REGR) STATUS 
 | (DIR) (REGR) STATUS (PRNO) 
-| (V=S=DIM) (PROG) STATUS 
+| (SENSORY) (PROG) STATUS 
 | (IMPP) (PROG) STATUS (PRNO) 
 | (APPL) STATUS (PRNO) 
 | (PRF) STATUS (V=S=O) 

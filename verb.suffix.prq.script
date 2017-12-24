@@ -1022,8 +1022,8 @@ define SENSORY [ [EP V=S=SENSORY]|[V=S=SENSORY] ];
                    
 !define V=S=DIM [ # revise!
 !  "[--][-nint][ADV][+DIM.DEGR][=almost,a.little.bit (degree)]" : "@EP"[{nint}]
-!| "[--][-ni][+DIM]" : "@EP"[{ni}]
-!| "[--][-ini][+DIM]" : "@EP"[{ini}]
+!| "[--][-ni][+DIM]" : "@EP"[{ni}] # they come from nominalized verb roots
+!| "[--][-ini][+DIM]" : "@EP"[{ini}] # they come from nominalized verb roots
 !];
                    
 # ****************************************
