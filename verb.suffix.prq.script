@@ -487,14 +487,6 @@ define V=S=COND [
                    
 # ****************************************
                    
-define V=S=DIM [ # revise!
-  "[--][-nint][ADV][+DIM.DEGR][=almost,a.little.bit (degree)]" : "@EP"[{nint}]
-| "[--][-ni][+DIM]" : "@EP"[{ni}]
-| "[--][-ini][+DIM]" : "@EP"[{ini}]
-];
-                   
-# ****************************************
-                   
 !define V=S=CL [
 !  "[--][-pooki][+CL:quantity][=group,bunch]" : "@EP"[{pooki}]
 !| "[--][-poroki][+CL:quantity][=group,bunch]" : "@EP"[{poroki}]
@@ -663,14 +655,6 @@ define REP [ [EP V=S=REP]|[V=S=REP] ];
 !define V=S=forawhile [
 !  "[--][+for.a.while]" : "@EP"[{apaint}]
 !];
-                   
-# ****************************************
-                   
-define V=S=DIMDEGR [
-  "[--][-nint][+DIM.DEGR][=almost,a.little.bit]" : "@EP"[{nint}]
-];
-                   
-define DIMDEGR [ [EP V=S=DIMDEGR]|[V=S=DIMDEGR] ];
                    
 # ****************************************
 # -----------------------------------------------------
@@ -1023,12 +1007,24 @@ define POSN [ [EP V=S=POSN]|[V=S=POSN] ];
 ! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
 ! EN: 'sensory, sensorial'; ES: 'sensorial' 
 define V=S=SENSORY [
-  "[--][-nint][+SENSORY]" : "@EP"[{nint}] 
-| "[--][-nent][+SENSORY]" : "@EP"[{nent}] 
-| "[--][-neent][+SENSORY]" : "@EP"[{neent}] 
+  "[--][-nint][+SENSORY][=DIM.DEGR: almost,a.little.bit]" : "@EP"[{nint}] 
+| "[--][-nent][+SENSORY][=DIM.DEGR: almost,a.little.bit]" : "@EP"[{nent}] 
+| "[--][-neent][+SENSORY][=DIM.DEGR: almost,a.little.bit]" : "@EP"[{neent}] 
 ];
                    
 define SENSORY [ [EP V=S=SENSORY]|[V=S=SENSORY] ];
+                   
+!define V=S=DIMDEGR [
+!  "[--][-nint][+DIM.DEGR][=almost,a.little.bit]" : "@EP"[{nint}]
+!];
+                   
+!define DIMDEGR [ [EP V=S=DIMDEGR]|[V=S=DIMDEGR] ];
+                   
+!define V=S=DIM [ # revise!
+!  "[--][-nint][ADV][+DIM.DEGR][=almost,a.little.bit (degree)]" : "@EP"[{nint}]
+!| "[--][-ni][+DIM]" : "@EP"[{ni}]
+!| "[--][-ini][+DIM]" : "@EP"[{ini}]
+!];
                    
 # ****************************************
                    
