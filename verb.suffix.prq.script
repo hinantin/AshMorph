@@ -1007,9 +1007,9 @@ define POSN [ [EP V=S=POSN]|[V=S=POSN] ];
 ! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
 ! EN: 'sensory, sensorial'; ES: 'sensorial' 
 define V=S=SENSORY [
-  "[--][-nint][+SENSORY][=DIM.DEGR: almost,a.little.bit]" : "@EP"[{nint}] 
-| "[--][-nent][+SENSORY][=DIM.DEGR: almost,a.little.bit]" : "@EP"[{nent}] 
-| "[--][-neent][+SENSORY][=DIM.DEGR: almost,a.little.bit]" : "@EP"[{neent}] 
+  "[--][-nint][+SENSORY][=DIM.DEGR: almost,(do).a.little.bit]" : "@EP"[{nint}] 
+| "[--][-nent][+SENSORY][=DIM.DEGR: almost,(do).a.little.bit]" : "@EP"[{nent}] 
+| "[--][-neent][+SENSORY][=DIM.DEGR: almost,(do).a.little.bit]" : "@EP"[{neent}] 
 ];
                    
 define SENSORY [ [EP V=S=SENSORY]|[V=S=SENSORY] ];
