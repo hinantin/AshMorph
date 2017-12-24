@@ -1008,6 +1008,7 @@ define POSN [ [EP V=S=POSN]|[V=S=POSN] ];
                    
 ! kisaneentantatsiri / =kis -a -neent -ant -atsi -ri / =to.be.angry -ep -s -ep -appl.reas -stat -rel / EN: 'resentful'; ES: 'rencoroso' 
 ! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
+! kitsonkaneentatsiri / kityonkaneentatsiri / =kityonka -neent -atsi =ri / ES: 'que tiene un poco de color rojo' 
 ! EN: 'sensory, sensorial'; ES: 'sensorial' 
 define V=S=SENSORY [
   "[--][-nint][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{nint}] 
