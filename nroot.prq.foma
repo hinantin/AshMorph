@@ -451,9 +451,9 @@ define NRootPRQin [
 | "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
 | "[=enchaniki][NRoot][=child]" : {enchaniki}
 ! 
-| "[=eentsi+n./m.+poss@te.][NRoot][=child]" : {eentsi} ! N@->V
-| "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V
-| "[=entsi+n./m.+poss@te.][NRoot][=child]" : {entsi} ! N@->V
+| "[=eentsi+n./m.+poss@te.][NRoot][=child]" : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
+| "[=iintsi+n./m.][NRoot][=child]" : {iintsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
+| "[=entsi+n./m.+poss@te.][NRoot][=child]" : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 ! 
 | "[=iinyeeni][NRoot][=sister.in.law (kin.of.a.male)]" : {iinyeeni}
 | "[=inyeni][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeni}
