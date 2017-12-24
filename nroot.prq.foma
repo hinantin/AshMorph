@@ -1393,7 +1393,7 @@ define NRootPRQin [
 | "[=kitamari][NRoot][=white_donkey-like.spirit]" : {kitamari}
 ! 
 # colors
-| "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo)]" : {kiteri}
+| "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo)]" : {kiteri} ! N@->V::[to.be.yellow (ES: ponerse.amarillento)] 
 | "[=kiteriri+sem@color.][NRoot][=yellow (ES: amarillo)]" : {kiteriri}
 | "[=kityonkari+sem@color.][NRoot][=red (ES: rojo)]" : {kityonkari}
 | "[=kiraari+sem@color.][NRoot][=red (ES: rojo)]" : {kiraari}

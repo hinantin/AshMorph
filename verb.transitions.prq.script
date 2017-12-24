@@ -565,6 +565,9 @@ define S [
 | (SENSORY) (APPLINST) STAT (V=S=REL)  
 # amatakonentanajana / EN: 'I.have.overcome.the.ailment'  
 | (SENSORY) (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL)  
+# okisaaneentatzi / ES: 'moreno' 
+# iraakanintaintsiri / ES: 'que.no.está.madura; lit.: que.está.un.poco.maduro' 
+| (SENSORY) STAT (V=S=REL) 
 
 | (UNK1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
