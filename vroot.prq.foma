@@ -1088,6 +1088,7 @@ define VRootPRQin [
 ! 
 | "[=ovint][VRoot][=to.plant.manioc.stalk (ES: sembrar.(tallos.de.yuca))]" : {ovint}
 | "[=oviint][VRoot][=to.plant.manioc.stalk (ES: sembrar.(tallos.de.yuca))]" : {oviint}
+| "[=vint][VRoot][=to.sow.the.cassava.seed (ES: sembrar.con.la.semilla.de.la.yuca)]" : {vint}
 ! 
 | "[=ote][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.board]" : {ote}
 | "[=oti][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.board]" : {oti}
@@ -1870,8 +1871,6 @@ define VRootPRQin [
 | "[=vicho][VRoot][=to.squeeze.with.fingers, to.pinch]" : {vicho}
 ! 
 | "[=vint][VRoot][=to.catch.fish.with.hands.while.submerged (ES: pescar.con.las.manos,con.el.cuerpo.del.pescador.sumergido.en.el.agua)]" : {vint}
-! 
-| "[=vint][VRoot][=to.sow.the.cassava.seed (ES: sembrar.con.la.semilla.de.la.yuca)]" : {vint}
 ! 
 | "[=vinto][VRoot][=to.hollow.wood; to.make.notches.in.a.trunk; to.make.a.ladder]" : {vinto}
 ! 
