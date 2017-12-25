@@ -32,7 +32,7 @@ define S [
 | (FRUS) STATUS (PRNO) 
 | (DUR) (REGR) STATUS (PRNO) 
 | (PROG) STATUS (PRNO) 
-| STATUS (AUG) 
+| STATUS (AUG=SET2) 
 | (APPLREAS) STATUS (V=S=REL) (V=S=Q) 
 | (HAB) STATUS (PRNO) 
 | (HAB) STATUS (V=S=REL) (V=S=Q) 
@@ -154,7 +154,7 @@ define S [
 | (REGR) STATUS (V=S=O) (PRNO) 
 | (DUR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
 | (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| STATUS (AUG) 
+| STATUS (AUG=SET2) 
 #| (CAUSSOC) (NMZ) STATUS (V=S=REL) (V=S=Q) # revise!!!
 #| (PROG) (STAT) # revise!!!  
 #| (V=S=DUB)  # end-state? REVISE!!! 
@@ -173,8 +173,9 @@ define S [
 #| (AUG)  # end-state? 
 | (APPLINST) STATUS (PRNO) 
 | (DIR) (PRF) (PL) STATUS (V=S=PLcircumfixing) 
-| (DEGR) (PROG) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (DEGR) (PROG) STATUS (V=S=O) (PRNO) (V=S=DUB) 
+# antaroperotatzi 
+| (AUG) PROG=SET1 
+| (AUG) PROG=SET1 
 | (SEMEL) STATUS (PRNO) 
 | (REV) (APPL) (PRF) STATUS 
 #| (ADV)  # end-state? 
@@ -286,9 +287,9 @@ define S [
 | (DUR) (PL) STAT (V=S=REL) (V=S=Q)  # end-state? 
 | (PL) (PL) STATUS (V=S=PLcircumfixing) 
 | (PRF) STATUS (V=S=EMPH) 
-| (ICPL) (PROG) STATUS (AUG) 
+| (ICPL) (PROG) STATUS (AUG=SET2) 
 | (AUG) STATUS 
-| (FRUS) STATUS (AUG) 
+| (FRUS) STATUS (AUG=SET2) 
 #| STAT (PRNO)  # end-state?  revise!!!
 | (APPL) (PRF) STATUS (PRNO) 
 | (REGR) (APPLREAS) STATUS 

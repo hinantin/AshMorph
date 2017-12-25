@@ -187,15 +187,28 @@ define STATUS [
                    
 # ****************************************
                    
-define V=S=AUG [
-  "[--][-piro][DEGR][+AUG]" : "@EP"[{piro}]
-| "[--][-pero][DEGR][+AUG]" : "@EP"[{pero}]
-| "[--][-pira][DEGR][+AUG]" : "@EP"[{pira}]
-# -------------------------------------------
-| "[--][-ni][+AUG]" : "@EP"[{ni}]
+define V=S=AUG=SET1 [
+# Intensifier 
+  "[--][-piro][DEGR][+AUG][=indeed, truly, verity]" : "@EP"[{piro}]
+| "[--][-pero][DEGR][+AUG][=indeed, truly, verity]" : "@EP"[{pero}]
+| "[--][-pira][DEGR][+AUG][=indeed, truly, verity]" : "@EP"[{pira}]
 ];
                    
-define AUG [ [EP V=S=AUG]|[V=S=AUG] ];
+define V=S=AUG=SET2 [
+# -------------------------------------------
+  "[--][-ni][DEGR][+AUG][=truly]" : [{ni}]
+];
+                   
+define AUG [ [EP V=S=AUG=SET1]|[V=S=AUG=SET1] ]; 
+                   
+define AUG=SET2 [V=S=AUG=SET2]; 
+                   
+define V=S=DEGR [
+  "[--][-piro][+DEGR][=indeed, truly, verity]" : "@EP"[{piro}]
+| "[--][-pero][+DEGR][=indeed, truly, verity]" : "@EP"[{pero}]
+];
+                   
+define DEGR [ [EP V=S=DEGR]|[V=S=DEGR] ]; 
                    
 # ****************************************
                    
@@ -854,15 +867,6 @@ define V=S=TEMPORAL [
 define V=S=smallpart [ # revise!
   "[--][-patsa+small.part]" : "@EP"[{patsa}]
 ];
-                   
-# ****************************************
-                   
-define V=S=DEGR [
-  "[--][-piro][+DEGR][=indeed, verity]" : "@EP"[{piro}]
-| "[--][-pero][+DEGR][=indeed, verity]" : "@EP"[{pero}]
-];
-                   
-define DEGR [ [EP V=S=DEGR]|[V=S=DEGR] ]; 
                    
 # ****************************************
                    
