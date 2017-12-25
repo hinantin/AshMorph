@@ -47,7 +47,7 @@ define PrnDemPRQin [
 | "[=irira+m.+medial][PrnDem][=~]" : {irira}
 | "[=irinta+m.+distal][PrnDem][=~]" : {irinta}
 ! 
-| "[=iro][PrnDem][=this]" : {iro}
+| "[=iro+n.m.][PrnDem][=this]" : {iro}
 | "[=iroka+n.m.+proximal.b.][PrnDem][=this]" : {iroka} ! DEM
 | "[=irora+n.m.+medial.b.][PrnDem][=that, whachamacallit]" : {irora} ! DEM
 | "[=ironta+n.m.+distal.b.][PrnDem][=that.(over.there)]" : {ironta} ! DEM 
