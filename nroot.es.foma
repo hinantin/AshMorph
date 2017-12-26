@@ -194,8 +194,11 @@ define NRootESin [
 | "[=Julio][NP][=Julio]" : {horio} 
 | "[=Jerónimo][NP][=Jerónimo]" : {heronimo} 
 | "[=San][NP][=Saint]" : {san} 
+! 
 | "[=zapato+NCMS000][NP][=shoe]" : {zapato} 
-| "[=tambo][NRootQU][=Incan.structure]" : {tambo}
+| "[=zapato/sapato+NCMS000][NP][=shoe]" : {sapato} 
+! 
+| "[=tambo][NRootQU][=Incan.structure (QU: tampu)]" : {tambo}
 ! 
 | "[=vaca+NCFS000][NRoot][=cow]" : {vaca} 
 | "[=vacuna+NCMS000+poss@ri.][NRoot][=vaccine]" : {vacona} 
