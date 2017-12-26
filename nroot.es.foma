@@ -127,9 +127,9 @@ define NRootESin [
 ! 
 | "[=pila+NCFS000][NRootEs][=fountain; sink]" : {piira}
 ! 
-| "[=pelota][NRootEs][=ball]" : {piroota}
-| "[=pelota][NRootEs][=ball]" : {peroota}
-| "[=pelota][NRootEs][=ball]" : {perota}
+| "[=pelota/piroota][NRootEs][=ball]" : {piroota}
+| "[=pelota/peroota][NRootEs][=ball]" : {peroota}
+| "[=pelota/perota][NRootEs][=ball]" : {perota}
 ! 
 | "[=plato+poss@te.][NRootEs][=plate]" : {pirato}
 | "[=plato+poss@te.][NRootEs][=plate]" : {perato}
