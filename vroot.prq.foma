@@ -1635,8 +1635,8 @@ define VRootPRQin [
 !| "[=tena][VRoot][=to.be.heavy]" : {tena}
 !| "[=tenari][VRoot][=be.heavy.ADJ]" : {tenari}
 ! 
-| "[=timaarant][VRoot][=to.be.left.over, to.be.in.surplus (ES: sobrar)]" : {timaarant}
-| "[=timarant][VRoot][=to.be.left.over, to.be.in.surplus (ES: sobrar)]" : {timarant}
+| "[=timaarant][VRoot][=to.be.left_over/residual, to.be.in.surplus (ES: sobrar)]" : {timaarant}
+| "[=timarant][VRoot][=to.be.left_over/residual, to.be.in.surplus (ES: sobrar)]" : {timarant}
 ! 
 | "[=tina][VRoot][=to.lift (ES: levantar); to.get.up]" : {tina}
 # itsinantakari 

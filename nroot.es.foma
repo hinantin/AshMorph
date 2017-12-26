@@ -169,6 +169,8 @@ define NRootESin [
 ! 
 | "[=celular+NCMS000+poss@te.][NRoot][=cellular.phone]" : {sirorar}
 ! 
+| "[=soga/sooka][NRoot][=rope (ES: soga)]" : {sooka} 
+! 
 | "[=soles+NCMP000][NRoot][=Peruvian.currency]" : {soles} 
 ! 
 | "[=sopa+NCFS000+poss@te][NRoot][=soup]" : {sopa} 
