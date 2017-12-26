@@ -195,8 +195,8 @@ define NRootESin [
 | "[=Jerónimo][NP][=Jerónimo]" : {heronimo} 
 | "[=San][NP][=Saint]" : {san} 
 ! 
-| "[=zapato+NCMS000][NP][=shoe]" : {zapato} 
-| "[=zapato/sapato+NCMS000][NP][=shoe]" : {sapato} 
+| "[=zapato+NCMS000+poss@te.][NP][=shoe]" : {zapato} 
+| "[=zapato/sapato+NCMS000+poss@te.][NP][=shoe]" : {sapato} 
 ! 
 | "[=tambo][NRootQU][=Incan.structure (QU: tampu)]" : {tambo}
 ! 
