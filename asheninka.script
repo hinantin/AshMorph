@@ -97,8 +97,10 @@ TZEpenthesisRule8
 #.o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
 #.o. CleanUpEpenthesisRule6 ];
       
-      define VCausativeAgentiveRule [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{o}] _ [{a}] ]; 
-      define CausativeAgentive [VCausativeAgentiveRule]; 
+      # abaemantero / avaemantero /  
+      define VCausativeAgentiveRule1 [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{o}] _ [{a}] ]; 
+      define VCausativeAgentiveRule2 [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{a}|{i}]"@VPERS@" _ [{a}] ]; 
+      define CausativeAgentive [VCausativeAgentiveRule1 .o. VCausativeAgentiveRule2 ]; 
 
       ##########################
       #                        #

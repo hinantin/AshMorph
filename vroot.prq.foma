@@ -429,6 +429,7 @@ define VRootPRQin [
 | "[=kaim][VRoot][=to.call (ES: llamar)]" : {kaim}
 | "[=kãym][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)]" : {kãym}
 | "[=kahem][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)]" : {kahem} ! inkajemajeiteri / i=N-kajem-a-hei-t-e-ri 
+!| "[=vaemant][VRoot][=to.promote (ES: promover)]" : {vaemant}
 ! 
 | "[=kaha][VRoot][=to.get.wet (ES: mojarse)]" : {kaha}
 ! 
@@ -1552,7 +1553,9 @@ define VRootPRQin [
 ! 
 | "[=shiyok][VRoot][=to.grow (ES: brotar; crecer)]" : {shiyok}
 | "[=shiok][VRoot][=to.grow (ES: brotar; crecer)]" : {shiok} 
+! 
 | "[=sok][VRoot][=to.empty, to.spill.sth.]" : {sok}
+| "[=sook][VRoot][=to.empty, to.spill.sth.]" : {sook}
 ! 
 | "[=soiyok][VRoot][=to.whistle (ES: silbar)]" : {soiyok}
 | "[=soiyonk][VRoot][=to.whistle (ES: silbar)]" : {soiyonk}
@@ -1789,7 +1792,7 @@ define VRootPRQin [
 | "[=tsoma][VRoot][=to.carry.in.the.arms]" : {tsoma}
 | "[=tsom][VRoot][=to.carry.in.the.arms]" : {tsom}
 ! 
-| "[=tsop][VRoot][=to.pull.out]" : {tsop}
+| "[=tsop][VRoot][=to.pull.out; to.detach]" : {tsop}
 ! 
 | "[=tsoyempi][VRoot][=to.be.sharp (ES: ser.agudo/filudo)]" : {tsoyempi}
 | "[=tsoyimpi][VRoot][=to.be.sharp (ES: ser.agudo/filudo)]" : {tsoyimpi}
