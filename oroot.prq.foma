@@ -7,11 +7,11 @@ define ORootPRQin [
 ! 
 # aikero poihateri chaine / =aikero p- =oiha -t -e -ri =chaine / =still 2a- =to.follow -ep -irr -3m.o / EN: 'keep.following.your.grandfather'  
 # aikero isampitiro evankarika / =aikero i- =sampi -t -i -ro =evankari+m. -ka+proximal.loc. / =still 3m.a- =to.ask -ep -real -3n.m.o =young.man -adv / EN: 'this.young.man.keeps.asking.her' 
-| "[=aikero][OtherRoot][=still (ES: todavía)]" : {aikero}
-| "[=aikiro][OtherRoot][=still (ES: todavía)]" : {aikiro}
-| "[=eekero][OtherRoot][=still (ES: todavía)]" : {eekero}
-| "[=eekiro][OtherRoot][=still (ES: todavía)]" : {eekiro}
-| "[=iikiro][OtherRoot][=still (ES: todavía)]" : {iikiro}
+| "[=aikero][OtherRoot][=still (ES: todavía); (ES: sin.embargo)]" : {aikero}
+| "[=aikiro][OtherRoot][=still (ES: todavía); (ES: sin.embargo)]" : {aikiro}
+| "[=eekero][OtherRoot][=still (ES: todavía); (ES: sin.embargo)]" : {eekero}
+| "[=eekiro][OtherRoot][=still (ES: todavía); (ES: sin.embargo)]" : {eekiro}
+| "[=iikiro][OtherRoot][=still (ES: todavía); (ES: sin.embargo)]" : {iikiro}
 ! 
 | "[=airorika][OtherRoot][=or]" : {airorika}
 | "[=akaya][OtherRoot][=ouch]" : {akaya}
