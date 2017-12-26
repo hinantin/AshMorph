@@ -2,21 +2,21 @@
 define N=S=poss [
 # animate / animado 
 # Added to trisyllabic roots 
-  "[--][-te][Gen][+aln.poss.]" : {te} 
-| "[--][-ti][Gen][+aln.poss.]" : {ti} 
+  "[--][-te][Gen][+aln.poss.]" : "@ALNPOSS@"{te} 
+| "[--][-ti][Gen][+aln.poss.]" : "@ALNPOSS@"{ti} 
 ! 
 # inanimate / inanimado 
 # Added to mono and disyllabic roots 
-| "[--][-ni][Gen][+aln.poss.]" : {ni} 
-| "[--][-ne][Gen][+aln.poss.]" : {ne} 
+| "[--][-ni][Gen][+aln.poss.]" : "@ALNPOSS@"{ni} 
+| "[--][-ne][Gen][+aln.poss.]" : "@ALNPOSS@"{ne} 
 ! 
 # Added to artifacts, plant parts, and kin terms
-| "[--][-ri][Gen][+aln.poss.]" : {ri} 
-| "[--][-re][Gen][+aln.poss.]" : {re}
+| "[--][-ri][Gen][+aln.poss.]" : "@ALNPOSS@"{ri} 
+| "[--][-re][Gen][+aln.poss.]" : "@ALNPOSS@"{re}
 ! 
 # tsitsi / =tsitsi / =firewood / EN: 'firewood', ES: 'leña'
 # otsima / =tsi -ma / =firewood -aln.poss. / EN: 'her.firewood', ES: 'su.leña'
-| "[--][<*-ma][Gen][+aln.poss.]" : {ma}
+| "[--][<*-ma][Gen][+aln.poss.]" : "@ALNPOSS@"{ma}
 ];
                    
 # ****************************************
