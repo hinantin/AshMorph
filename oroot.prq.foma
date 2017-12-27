@@ -41,6 +41,7 @@ define ORootPRQin [
 | "[=ario][PostPol][=PP][--][-rika][+COND][--][-mpa][+SUBJ]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
 | "[=ario][PostPol][=PP][--][-rika][+COND][--][-kea][+EMPH]" : {ariorikakea} ! ario-rika-kea / PP-COND-EMPH
 | "[=ari][PostPol][=PP][--][-kea][+EMPH]" : {arikea} 
+| "[=ari][PostPol][=PP][--][-yaata][+ASSUM]" : {ariyaata} 
 ! 
 # ai / PP 
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitaki}
