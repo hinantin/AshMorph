@@ -905,6 +905,7 @@ define NRootPRQin [
 | "[=saventaki][NRoot][=tree.sp. (ES: cedro; sci.nm.: cedrela.odorata)]" : {saventaki}
 ! 
 | "[=savoo+n.m.][NRoot][=(wild).giant.cane (ES: caña.brava)]" : {savoo}
+| "[=havoo+n.m.][NRoot][=(wild).giant.cane (ES: caña.brava)]" : {havoo}
 | "[=savoro+n.m.][NRoot][=(wild).giant.cane (ES: caña.brava, carrizo)]" : {savoro}
 ! 
 | "[=iteki][NRoot][=wasp.honeycomb (ES: panal)]" : {iteki}
@@ -1161,7 +1162,7 @@ define NRootPRQin [
 | "[=kashekari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashekari}
 | "[=kashikari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashikari}
 ! 
-| "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap]" : {kashi} ! N@->V
+| "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap, sap]" : {kashi} ! N@->V
 | "[=kashi][NRoot][=semen]" : {kashi}
 | "[=koche+inal@tsi.][NRoot][=semen (ES: esperma)]" : {koche} ! 
 ! 
@@ -2036,7 +2037,7 @@ define NRootPRQin [
 | "[=nantatziri][NRoot][=goblin-like.creature, master-owner.of.animals (it.lives.in.rocky.areas)]" : {nantatziri}
 ! 
 # ---------------------------------------------------------------------
-| "[=nampi+n.m.+inal@tsi.][NRoot][=village, place, country; settlement]" : {nampi}
+| "[=nampi+n.m.+inal@tsi.][NRoot][=village, place, country; settlement]" : {nampi} ! N@->V::[= (ES: vivir)] 
 | "[=nampiki][NRoot][=small.village (ES: aldea)]" : {nampiki}
 | "[=nampitsini][NRoot][=hamlet (small.human.settlement, ES: caserio)]" : {nampitsini}
 | "[=nampitsira][NRoot][=(small).town (ES: pueblo)]" : {nampitsira}
@@ -2044,6 +2045,8 @@ define NRootPRQin [
 | "[=nampitsite][NRoot][=nation (ES: nación)]" : {nampitsite}
 | "[=nampitzite][NRoot][=nation (ES: nación)]" : {nampitzite}
 | "[=saikantsi][NRoot][=region (ES: región)]" : {saikantsi} ! region (territory) 
+# ---------------------------------------------------------------------
+| "[=nampi][NRoot][=big.quantity]" : {nampi}
 # ---------------------------------------------------------------------
 ! 
 | "[=natsiryari+m.][NRoot][=green]" : {natsiryari}
