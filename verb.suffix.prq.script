@@ -383,6 +383,7 @@ define V=S=EXCL [
 define V=S=STAT=SET1 [
 # -------- STATIVITY MARKERS -------------
 # -------- STATIVITY IMPERFECTIVE -------------
+# They describe an ongoing and non-evolving state 
 ! koiteatsiri / =koite -atsi -ri / =to.be.in.need -stat -rel / EN: 'poor'; ES: 'pobre' 
 ! betsikayetatsiri / vetsikayetatsiri / =vetsik -a -ye -t -atsi -ri / =to.create -ep -dist -ep -stat -rel / EN: 'invention (thing/idea.that.has.been.invented)'; ES: 'invento'  
   "[--][-atsi][Asp][+STAT.IPRF]" : "@EP"[{atsi}]
