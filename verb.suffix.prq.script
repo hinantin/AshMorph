@@ -89,7 +89,7 @@ define PRF [ [EP V=S=PRF]|[V=S=PRF] ];
 # subjunctive clausal enclitic 
 # SUBJUNCT, SUBJ  
 define V=S=OPT [
-  "[--][=ta][+OPT_SUBJ]" : [{ta}]
+  "[--][=ta][MODAL][+OPT_SUBJ]" : [{ta}]
 ];
                    
 # ****************************************
@@ -133,8 +133,8 @@ define REGR [ [EP V=S=REGR]|[V=S=REGR] ];
 # ****************************************
                    
 define V=S=CNTF [
-  "[--][-mi][+CNT.F]" : [{mi}]
-| "[--][-me][+CNT.F]" : [{me}]
+  "[--][-mi][MODAL][+CNT.F]" : [{mi}]
+| "[--][-me][MODAL][+CNT.F]" : [{me}]
 ];
                    
 # ****************************************
@@ -292,7 +292,7 @@ define V=S=APPR [
 # omitsitsiyimikari / o- =mitsitsiy -i -mi -kari / 3n.m.s- = / ES: 'para.que.no.te.hundas'  
 # *) pintzinai, anankorimikari shenotsi / pi- N- =tzin -a -i *** =anankori -mi -kari *** =shenotsi / 2s- irr- =to.rise -term -irr *** =to.cross -2sg.o -appr *** =goiter  
 #    EN: 'get up! lest you cross the goiter'; ES: 'levántate, sino te va a cruzar la mamá del bocio' 
-  "[--][-kari][+APPR][=lest (in.order.to.prevent)]" : [{kari}]
+  "[--][-kari][MODAL][+APPR][=lest (in.order.to.prevent)]" : [{kari}]
 ];
                    
 # ****************************************
@@ -373,9 +373,9 @@ define IMPP [ [EP V=S=IMPP]|[V=S=IMPP] ];
 #     2a- =to.look -real -3m.o =excl[exclaiming] *** 3m.a- =to.be.called -ep -irr -3m.o *** =that / EN: "look, what's that?"  
 # *) – Opaamakitaki mapira, katsirinivee! / o- =paamaki -t -ak -i *** =mapi -ra *** =kats -i =ri =ni =vee / EN: "– The stone is hot, it hurts!"
 define V=S=EXCL [
-  "[--][=ve][+EXCL][=exclaiming,announcing]" : [{ve}]
-| "[--][=vee][+EXCL][=exclaiming,announcing]" : [{vee}]
-| "[--][=vi][+EXCL][=exclaiming,announcing]" : [{vi}]
+  "[--][=ve][MODAL][+EXCL][=exclaiming,announcing]" : [{ve}]
+| "[--][=vee][MODAL][+EXCL][=exclaiming,announcing]" : [{vee}]
+| "[--][=vi][MODAL][+EXCL][=exclaiming,announcing]" : [{vi}]
 ];
                    
 # ****************************************
@@ -489,10 +489,10 @@ define V=S=ABS [
 # ****************************************
                    
 define V=S=COND [
-  "[--][=rika][+COND][=if (expresses.possible.condition); like (comparison)]" : [{rika}] ! +evidential 
+  "[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]" : [{rika}] ! +evidential 
 # This suffix indicates, for good/bad, an action or idea wasn't fulfilled.
 # Also abbreviated CNT.EXP 'counter-expectational' 
-| "[--][=me][+SUBJ]" : [{me}] 
+| "[--][=me][MODAL][+SUBJ]" : [{me}] 
 ];
                    
 # ****************************************
@@ -693,15 +693,16 @@ define V=S=LOC [
 # ****************************************
                    
 define V=S=NCFOC [
-  "[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
+  "[--][=tea][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tea}]
+| "[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
 ];
                    
 # ****************************************
                          
 define V=S=OFOC [
-  "[--][=kya][+O.FOC]" : [{kya}] 
-| "[--][=kia][+O.FOC]" : [{kia}] 
-| "[--][=kea][+O.FOC]" : [{kea}] 
+  "[--][=kya][MODAL][+O.FOC]" : [{kya}] 
+| "[--][=kia][MODAL][+O.FOC]" : [{kia}] 
+| "[--][=kea][MODAL][+O.FOC]" : [{kea}] 
 ];
                    
 # ****************************************
@@ -715,12 +716,13 @@ define V=S=OFOC [
 define V=S=EMPH [
 # tya: urgency, impatience, surprise, exasperation 
 # aritya / =ari -tya / =PP -EMPH /  
-  "[--][=tya][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
+  "[--][=tya][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
+| "[--][=tea][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tea}]
 ! 
 # Assertive 
-| "[--][=kya][+EMPH]" : [{kya}]
-| "[--][=kia][+EMPH]" : [{kia}]
-| "[--][=kea][+EMPH]" : [{kea}]
+| "[--][=kya][MODAL][+EMPH]" : [{kya}]
+| "[--][=kia][MODAL][+EMPH]" : [{kia}]
+| "[--][=kea][MODAL][+EMPH]" : [{kea}]
 ! 
 | "[--][=poo][+EMPH]" : "@EP"[{poo}]
 ! 
@@ -798,12 +800,12 @@ define REV [ [EP V=S=REV]|[V=S=REV] ];
                    
 # 
 define V=S=DUB [
-  "[--][=ma][+DUB][=maybe; sb.might.do.sth.]" : [{ma}] ! +evidential 
-| "[--][=mpa][+DUB][=maybe; sb.might.do.sth.]" : [{mpa}] ! +evidential 
-| "[--][=npa][+DUB][=maybe; sb.might.do.sth.]" : [{npa}] ! +evidential 
+  "[--][=ma][MODAL][+DUB][=maybe; sb.might.do.sth.]" : [{ma}] ! +evidential 
+| "[--][=mpa][MODAL][+DUB][=maybe; sb.might.do.sth.]" : [{mpa}] ! +evidential 
+| "[--][=npa][MODAL][+DUB][=maybe; sb.might.do.sth.]" : [{npa}] ! +evidential 
 # irirotaima iriri / =iriro -taima ir- =iri / =he -dub 3m.poss- =father / ES: 'tal vez puede ser el rey/padre [de los loros]' 
 # aisatzitaima / =aisatzi -taima / =also -dub / EN: '' 
-| "[--][=taima][+DUB][=maybe]" : [{taima}] 
+| "[--][=taima][MODAL][+DUB][=maybe]" : [{taima}] 
 ];
                    
 # ****************************************
