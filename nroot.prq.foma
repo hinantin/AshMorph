@@ -3689,8 +3689,6 @@ define NRootPRQin [
 ! 
 | "[=tsikontzi][NRoot][=buff-throated.woodcreeper (sci.nm.: xiphorhynchus.guttatus)]" : {tsikontzi} 
 | "[=tsikonti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero); red-headed.black.woodpecker.sp. (ES: pájaro.carpintero.negro.con.cabeza.negra)]" : {tsikonti} 
-! 
-| "[=tsima][NRoot][=wood]" : {tsima} 
 ! bird, little bird 
 | "[=tsimiri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimiri}
 | "[=tsimeri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimeri}
@@ -3753,7 +3751,9 @@ define NRootPRQin [
 | "[=tsiteni][NRoot][=night (ES: noche)]" : {tsiteni}
 | "[=tsitene][NRoot][=night (ES: noche)]" : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, nochecer)] 
 ! 
-| "[=tsitsi+n.m.][NRoot][=firewood (ES: leña)]" : {tsitsi}
+| "[=tsitsi+n.m.+voc.][NRoot][=firewood (ES: leña)]" : {tsitsi}
+| "[=tsi+poss@ma.+voc.][NRoot][=firewood (ES: leña)]" : {tsi} 
+| "[=tsima][NRoot][=wood]" : {tsima} 
 ! 
 | "[=tsitsiri+m.][NRoot][=cricket (ES: grillo)]" : {tsitsiri}
 ! 

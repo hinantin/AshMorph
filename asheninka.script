@@ -245,6 +245,7 @@ TZEpenthesisRule8
       #                                  #
       ####################################
       define PossPlusInalRestr1 [~$["@PHONPROC@"?*"@NPOSS"]]; ! it is possible that this is a badly designed rule 
+      define PossPlusAlnPossRestr1 [ ["@ALNPOSS@"] => ?*"@PHONPROC@"?* _ ?* ]; 
       
       define PossessiveRestr1 [ Cons => .#. ~[[{r}|{n}|{p}]"@PHONPROC@"] _  ];
       define PossessiveRestr2 [ Cons => .#. ~[{ir}"@PHONPROC@"] _  ];
@@ -255,7 +256,7 @@ TZEpenthesisRule8
       define IRestr1 [ ["@I@"] => {i} _ ]; 
       define NIRestr1 [ ["@NI@"] => {ni} _ ]; 
       
-      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 .o. IRestr1 .o. NIRestr1 ];
+      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 .o. IRestr1 .o. NIRestr1 .o. PossPlusAlnPossRestr1 ];
       
       source nroot.prq.foma
       source aroot.prq.foma
