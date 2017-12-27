@@ -476,7 +476,7 @@ define S [
 | (RCP) (PRF) STATUS 
 | (PROG) STATUS 
 | STATUS 
-| STATUS (REGR) (PRNO) 
+#| STATUS (REGR) (PRNO) # REVISE!!!
 
 | (EARLY) (ICPL) STATUS 
 # okitaitamani ! it was misanalyzed 
