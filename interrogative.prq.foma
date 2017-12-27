@@ -5,6 +5,7 @@ define WhPRQin [
 | "[=aririka][WhPrn][=when]" : {aririka}
 | "[=tsikapaita][WhPrn][=how, why, what]" : {tsikapaita}
 | "[=paita][WhPrn][=how, why, what (ES: ¿qué?, ¿por qué?)]" : {paita}
+| "[=paita][WhPrn][=how, why, what (ES: ¿qué?, ¿por qué?)][--][-mpa][+DUB]" : {paitampa}
 | "[=ninka][WhPrn][=who, whom]" : {ninka}
 ! 
 | "[=hanika][WhPrn][=who, whom (ES: ¿quién?)]" : {hanika}
