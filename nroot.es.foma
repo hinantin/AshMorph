@@ -52,8 +52,8 @@ define NRootESin [
 | "[=español][NRootEs][=Spaniard]" : {español}
 | "[=estado][NRootEs][=state]" : {estado}
 ! 
-| "[=hacha+n.m.][NRootEs][=ax]" : {shecha}
-| "[=hacha+n.m.][NRootEs][=ax]" : {shacha}
+| "[=shecha/hacha+n.m.][NRootEs][=ax]" : {shecha}
+| "[=shacha/hacha+n.m.][NRootEs][=ax]" : {shacha}
 ! 
 | "[=hermana][NRootEs][=sister]" : {hermana}
 ! 

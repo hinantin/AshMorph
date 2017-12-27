@@ -519,32 +519,33 @@ define V=S=COND [
 define V=S=NMZ=SET1 [ # revise!
 # ----------------------------------
 # followed by -ntsi 
-  "[--][-ro][+NMZ]" : "@EP"[{ro}]"@NMZ@" 
-| "[--][-vo][+NMZ]" : "@EP"[{vo}]"@NMZ@" 
-| "[--][-ri][+NMZ]" : "@EP"[{ri}]"@NMZ@" 
-| "[--][-re][+NMZ]" : "@EP"[{re}]"@NMZ@" 
-#| "[--][-re][+NMZ]" : "@EP"[{re}]"@NMZ@" 
+  "[--][-ro+n.m.][NS][+NMZ]" : "@EP"[{ro}]"@NMZ@" 
+| "[--][-vo+n.m.][NS][+NMZ]" : "@EP"[{vo}]"@NMZ@" 
+| "[--][-ri+m.][NS][+NMZ]" : "@EP"[{ri}]"@NMZ@" 
+| "[--][-re+m.][NS][+NMZ]" : "@EP"[{re}]"@NMZ@" 
+#| "[--][-re+m.][NS][+NMZ]" : "@EP"[{re}]"@NMZ@" 
 # ----------------------------------
-#| "[--][-ri][+NMZ]" : "@EP"[{ri}] 
+#| "[--][-ri+m.][NS][+NMZ]" : "@EP"[{ri}] 
 ! 
 # followed by none 
-#| "[--][-nk][+NMZ]" : "@EP"[{nk}] 
-| "[--][-nka+quality][+NMZ]" : "@EP"[{nka}] 
-| "[--][-enkaa+quality][+NMZ]" : "@EP"[{enkaa}] 
-| "[--][-enka+quality][+NMZ]" : "@EP"[{enka}] 
-| "[--][-inka+quality][+NMZ]" : "@EP"[{inka}] 
+# QLTY quality 
+#| "[--][-nk][NS][+NMZ.QLTY]" : "@EP"[{nk}] 
+| "[--][-nka][NS][+NMZ.QLTY]" : "@EP"[{nka}] 
+| "[--][-enkaa][NS][+NMZ.QLTY]" : "@EP"[{enkaa}] 
+| "[--][-enka][NS][+NMZ.QLTY]" : "@EP"[{enka}] 
+| "[--][-inka][NS][+NMZ.QLTY]" : "@EP"[{inka}] 
 ! 
-#| "[--][-ntsi][+NMZ]" : "@EP"[{ntsi}] # this is not a nominalizing suffix 
+#| "[--][-ntsi][NS][+NMZ]" : "@EP"[{ntsi}] # this is not a nominalizing suffix 
 # followed by -tsi 
-| "[--][-mento+n.m.][NMZ][+CONCR]" : "@EP"[{mento}]"@NMZ@"
-| "[--][-minto+n.m.][NMZ][+CONCR]" : "@EP"[{minto}]"@NMZ@"
+| "[--][-mento+n.m.][NS][+NMZ.CONCR]" : "@EP"[{mento}]"@NMZ@"
+| "[--][-minto+n.m.][NS][+NMZ.CONCR]" : "@EP"[{minto}]"@NMZ@"
 ];
 
 define V=S=NMZ=SET2 [
 # ----------------------------------
-  "[--][-aantsi][NMZ][+INF]" : "@EP"[{aantsi}] 
-| "[--][-antsi][NMZ][+INF]" : "@EP"[{antsi}] 
-| "[--][-agantsi][NMZ][+INF]" : "@EP"[{agantsi}] 
+  "[--][-aantsi][NS][+NMZ.INF]" : "@EP"[{aantsi}] 
+| "[--][-antsi][NS][+NMZ.INF]" : "@EP"[{antsi}] 
+| "[--][-agantsi][NS][+NMZ.INF]" : "@EP"[{agantsi}] 
 ];
                    
 define NMZ [
@@ -556,45 +557,45 @@ define NMZ [
                    
 define V=S=ADJ [ # revise!
 # ----------------------------------
-  "[--][-ri+m.][NMZ][+ADJ]" : "@EP"[{ri}] 
-| "[--][-re+m.][NMZ][+ADJ]" : "@EP"[{re}] 
-| "[--][-ro+n.m.][NMZ][+ADJ]" : "@EP"[{ro}] 
-| "[--][-vo+n.m.][NMZ][+ADJ]" : "@EP"[{vo}] 
+  "[--][-ri+m.][NS][+ADJ.NMZ]" : "@EP"[{ri}] 
+| "[--][-re+m.][NS][+ADJ.NMZ]" : "@EP"[{re}] 
+| "[--][-ro+n.m.][NS][+ADJ.NMZ]" : "@EP"[{ro}] 
+| "[--][-vo+n.m.][NS][+ADJ.NMZ]" : "@EP"[{vo}] 
 # ----------------------------------
 ! nyaatsatinkaro perota / =nyaatsa -tinkaro =pelota / =to.play -adj =ball / EN: 'female.soccer.player', ES: 'jugadora.de.fútbol' 
-| "[--][-tsinkari+m.][NMZ][+ADJ]" : "@EP"[{tsinkari}] 
-| "[--][-tzinkari+m.][NMZ][+ADJ]" : "@EP"[{tzinkari}] 
-| "[--][-tinkari+m.][NMZ][+ADJ]" : "@EP"[{tinkari}] 
-| "[--][-tsinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tsinkaro}] 
-| "[--][-tzinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tzinkaro}] 
-| "[--][-tinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{tinkaro}] 
+| "[--][-tsinkari+m.][NS][+ADJ.NMZ]" : "@EP"[{tsinkari}] 
+| "[--][-tzinkari+m.][NS][+ADJ.NMZ]" : "@EP"[{tzinkari}] 
+| "[--][-tinkari+m.][NS][+ADJ.NMZ]" : "@EP"[{tinkari}] 
+| "[--][-tsinkaro+n.m.][NS][+ADJ.NMZ]" : "@EP"[{tsinkaro}] 
+| "[--][-tzinkaro+n.m.][NS][+ADJ.NMZ]" : "@EP"[{tzinkaro}] 
+| "[--][-tinkaro+n.m.][NS][+ADJ.NMZ]" : "@EP"[{tinkaro}] 
 # ----------------------------------
 ! atsanaantinkari / =atsana -ant -tinkari / =to.take.advantage.of.sth/sb -appl.inst -adj / EN: 'that.who.exists.to.take.advantage.of.sb., abuser'; ES: 'abusador'  
 ! yotantinkari / =yot -ant -tinkari / =to.know -appl.inst -adj / EN: 'that.one.who.exists.to.know'; ES: '...'  
-| "[--][-ant][+APPL.INST][--][-tinkari+m.][NMZ][+ADJ]" : "@EP"[{antinkari}] 
-| "[--][-ant][+APPL.INST][--][-tzinkari+m.][NMZ][+ADJ]" : "@EP"[{antzinkari}] 
-| "[--][-ant][+APPL.INST][--][-tzinkaro+n.m.][NMZ][+ADJ]" : "@EP"[{antzinkaro}] 
+| "[--][-ant][+APPL.INST][--][-tinkari+m.][NS][+ADJ.NMZ]" : "@EP"[{antinkari}] 
+| "[--][-ant][+APPL.INST][--][-tzinkari+m.][NS][+ADJ.NMZ]" : "@EP"[{antzinkari}] 
+| "[--][-ant][+APPL.INST][--][-tzinkaro+n.m.][NS][+ADJ.NMZ]" : "@EP"[{antzinkaro}] 
 # ---------PARTICIPANT--------------
-| "[--][-ntzi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntzi}] 
-| "[--][-ntsi+m.+partic.][NMZ][+ADJ]" : "@EP"[{ntsi}] 
-| "[--][-nti+m.+partic.][NMZ][+ADJ]" : "@EP"[{nti}] 
-| "[--][-nto+n.m.+partic.][NMZ][+ADJ]" : "@EP"[{nto}] 
-# ---------CAPABLE--------------
+| "[--][-ntzi+m.][NS][+ADJ.PARTIC]" : "@EP"[{ntzi}] 
+| "[--][-ntsi+m.][NS][+ADJ.PARTIC]" : "@EP"[{ntsi}] 
+| "[--][-nti+m.][NS][+ADJ.PARTIC]" : "@EP"[{nti}] 
+| "[--][-nto+n.m.][NS][+ADJ.PARTIC]" : "@EP"[{nto}] 
+# ---------CAPABLE / CAPABILITY--------------
 ! ryaa-ntzi, ryaa-nto 
 ! sonkareanti / =sonka -reanti / =to.play.antara -adj / EN: 'musician', ES: 'músico'
 ! sananti shimarianti / =sananti =shima -rianti / =heron =to.fish -adj / EN: 'fisher.heron'; ES: 'garza.pescadora' 
 ! shirampari shimarianti / =shirampari =shima -rianti / =man =to.fish -adj / EN: 'fisherman'; ES: 'hombre.pescador' 
 ! antavairyanto / =ant -a -vai -ry -a -nto / [=to.do -ep -dur]:to.work -nmz -ep -adj / EN: 'female.hard.worker' 
-| "[--][-ryaantzi+m.+capable][NMZ][+ADJ]" : "@EP"[{ryaantzi}] 
+| "[--][-ryaantzi+m.][NS][+ADJ.CAPABLE]" : "@EP"[{ryaantzi}] 
 ! tsameeyaanti / =tsamee -yaanti / =to.cultivate -yaanti+m.+capable / EN: 'planter'; ES: 'cultivador' 
-| "[--][-yaanti+m.+capable][NMZ][+ADJ]" : "@EP"[{yaanti}] ! only 1 ocurrence in corpus 
-| "[--][-rianti+m.+capable][NMZ][+ADJ]" : "@EP"[{rianti}] 
-| "[--][-riantzi+m.+capable][NMZ][+ADJ]" : "@EP"[{riantzi}] 
-| "[--][-reanti+m.+capable][NMZ][+ADJ]" : "@EP"[{reanti}] 
+| "[--][-yaanti+m.][NS][+ADJ.CAPABLE]" : "@EP"[{yaanti}] ! only 1 ocurrence in corpus 
+| "[--][-rianti+m.][NS][+ADJ.CAPABLE]" : "@EP"[{rianti}] 
+| "[--][-riantzi+m.][NS][+ADJ.CAPABLE]" : "@EP"[{riantzi}] 
+| "[--][-reanti+m.][NS][+ADJ.CAPABLE]" : "@EP"[{reanti}] 
 ! 
-| "[--][-ryaanto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{ryaanto}] 
-| "[--][-ryanto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{ryanto}] 
-| "[--][-rianto+n.m.+capable][NMZ][+ADJ]" : "@EP"[{rianto}] 
+| "[--][-ryaanto+n.m.][NS][+ADJ.CAPABLE]" : "@EP"[{ryaanto}] 
+| "[--][-ryanto+n.m.][NS][+ADJ.CAPABLE]" : "@EP"[{ryanto}] 
+| "[--][-rianto+n.m.][NS][+ADJ.CAPABLE]" : "@EP"[{rianto}] 
 ];
                    
 # ****************************************
