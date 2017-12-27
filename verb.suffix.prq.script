@@ -647,13 +647,13 @@ define APPLINST [ [EP V=S=APPLINST]|[V=S=APPLINST] ];
 ! 
 ! yaapanantziri / y- =a -apanant -tz -i -ri / 3m.a- =to.take -punctual[once.more] -ep -irr -3m.o / EN: 'he.grabbed.it.once.more' 
 define V=S=SEMEL [
-# semelfactive: 
-  "[--][-apaint][Asp][+PUNCTUAL][=once;for.a.while,short-term]" : "@EP"[{apaint}]
-| "[--][-apaent][Asp][+PUNCTUAL][=once;for.a.while,short-term]" : "@EP"[{apaent}]
+# semelfactive (SEMEL.F): 
+  "[--][-apaint][Asp][+SEMEL.F][=PUNCTUAL:once;for.a.while,short-term]" : "@EP"[{apaint}]
+| "[--][-apaent][Asp][+SEMEL.F][=PUNCTUAL:once;for.a.while,short-term]" : "@EP"[{apaent}]
 # -----------------------------------------------------
-# semeliterative: single repetition of event/action (semel: one.time) 
-| "[--][-apanant][Asp][+ITERATIVE][=one.more.time,once.more]" : "@EP"[{apanant}]
-| "[--][-apan][Asp][+ITERATIVE][=one.more.time,once.more]" : "@EP"[{apan}]
+# semeliterative (SEMEL.IT): single repetition of event/action (semel: one.time) 
+| "[--][-apanant][Asp][+SEMEL.IT][=one.more.time,once.more]" : "@EP"[{apanant}]
+| "[--][-apan][Asp][+SEMEL.IT][=one.more.time,once.more]" : "@EP"[{apan}]
 ];
                    
 define SEMEL [ [EP V=S=SEMEL]|[V=S=SEMEL] ];
