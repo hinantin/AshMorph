@@ -245,7 +245,7 @@ TZEpenthesisRule8
       #                                  #
       ####################################
       define PossPlusInalRestr1 [~$["@PHONPROC@"?*"@NPOSS"]]; ! it is possible that this is a badly designed rule 
-      define PossPlusAlnPossRestr1 [ ["@ALNPOSS@"] => ?*"@PHONPROC@"?* _ ?* ]; 
+      define PossPlusAlnPossRestr1 [ ["@ALNPOSS@"] => ?*"@PHONPROC@"?* _ ?* ]; ! an aln.poss suffix should only appear in case there is a possessive prefix 
       
       define PossessiveRestr1 [ Cons => .#. ~[[{r}|{n}|{p}]"@PHONPROC@"] _  ];
       define PossessiveRestr2 [ Cons => .#. ~[{ir}"@PHONPROC@"] _  ];
