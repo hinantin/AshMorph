@@ -78,12 +78,14 @@ define S [
 |                                                    (V=S=CL) (DUR) (PROG) STATUS (V=S=O) (PRNO) (V=S=DUB) 
 |                                                    (V=S=CL) (DIR) (REGR) STATUS (V=S=NEG) 
 | S=NOUN                                                      (DIR) (PRF) STATUS (ADV) 
-| (V=S=CL) (PRF) STATUS 
-| (V=S=CL) STATUS (ADV) 
-| (V=S=CL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                    (V=S=CL) (PRF) STATUS 
+|                                                    (V=S=CL) STATUS (ADV) 
+|                                                    (V=S=CL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 #  
-| (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
-| (V=S=CL) (PRF) STATUS (PRNO) 
+|                                                    (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
+|                                                    (V=S=CL) (PRF) STATUS (PRNO) 
+# nokaratapovetanake 
+| S=NOUN                                                      (FRUS) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
 # -----------------------------------------------------------------------------
 # V=S=noun (POSSREL) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) | 
 # (POSSREL) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) | 
@@ -635,6 +637,9 @@ define S [
 
 # haitetaki / ha-ite-t-ak-i 
 | (ADVMANNER) (PRF) STATUS 
+
+# 
+| (FRUS) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
 ];
 
 
