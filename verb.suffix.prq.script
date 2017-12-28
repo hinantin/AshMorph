@@ -133,8 +133,8 @@ define REGR [ [EP V=S=REGR]|[V=S=REGR] ];
 # ****************************************
                    
 define V=S=CNTF [
-  "[--][-mi][MODAL][+CNT.F]" : [{mi}]
-| "[--][-me][MODAL][+CNT.F]" : [{me}]
+  "[--][=mi][MODAL][+CNT.F]" : [{mi}]
+| "[--][=me][MODAL][+CNT.F]" : [{me}]
 ];
                    
 # ****************************************
