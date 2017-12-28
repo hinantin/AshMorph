@@ -12,11 +12,11 @@ define NegPRQin [
 | "[=eero][Neg][=NEG.IRR]" : {eero}
 | "[=iiro+past.neg.][Neg][=NEG.IRR]" : {iiro}
 # conditional negative irrealis 
-| "[=airo][Neg][=NEG.IRR][--][-rika][+COND]::[=if.not, when.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {airorika}
-| "[=eero][Neg][=NEG.IRR][--][-rika][+COND]" : {eerorika}
-| "[=eiro][Neg][=NEG.IRR][--][-rika][+COND]::[=if.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {eirorika}
-| "[=iiro][Neg][=NEG.IRR][--][-rika][+COND]" : {iirorika}
-| "[=ero][Neg][=NEG.IRR][--][-rika][+COND]" : {erorika}
+| "[=airo][Neg][=NEG.IRR][--][=rika][+COND]::[=if.not, when.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {airorika}
+| "[=eero][Neg][=NEG.IRR][--][=rika][+COND]" : {eerorika}
+| "[=eiro][Neg][=NEG.IRR][--][=rika][+COND]::[=if.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {eirorika}
+| "[=iiro][Neg][=NEG.IRR][--][=rika][+COND]" : {iirorika}
+| "[=ero][Neg][=NEG.IRR][--][=rika][+COND]" : {erorika}
 ! 
 # Counterfactual condition -mi +CNT.F
 ! a) marker of an averted event.
@@ -26,29 +26,29 @@ define NegPRQin [
 ! *) Airomi osaikimi Tzivi, airorikami opokakimi pairani Tzivira.
 !    =airo -mi  o- =saik -i -mi  =tzivi , =airo -rika -mi  =pairani  =tzivi -ra 
 !    The Salt person wouldn't have lived here, hadn't she come [here] long ago.
-| "[=airo][Neg][=NEG.IRR][--][-mi][+SUBJ]" : {airomi}
-| "[=airo][Neg][=NEG.IRR][--][-rika][+COND][--][-mi][+SUBJ]" : {airorikami}
+| "[=airo][Neg][=NEG.IRR][--][=mi][+SUBJ]" : {airomi}
+| "[=airo][Neg][=NEG.IRR][--][=rika][+COND][--][-mi][+SUBJ]" : {airorikami}
 ! 
-| "[=airo][Neg][=NEG.IRR][--][-ta][+OPT]" : {airota}
+| "[=airo][Neg][=NEG.IRR][--][=ta][+OPT]" : {airota}
 ! 
-| "[=eiro][Neg][=NEG.IRR][--][-ya][+INSIST]" : {eiroya}
+| "[=eiro][Neg][=NEG.IRR][--][=ya][+INSIST]" : {eiroya}
 ! 
-| "[=airo][Neg][=NEG.IRR][--][-me][+SUBJ]::[=if.it.were, if.there.were]" : {airome}
-| "[=eiro][Neg][=NEG.IRR][--][-me][+SUBJ]::[=if.it.were, if.there.were]" : {eirome}
-| "[=airo][Neg][=NEG.IRR][--][-kya][+EMPH]::[=now]" : {airokya}
-| "[=eiro][Neg][=NEG.IRR][--][-kea][+EMPH]::[=now]" : {eirokea}
+| "[=airo][Neg][=NEG.IRR][--][=me][+SUBJ]::[=if.it.were, if.there.were]" : {airome}
+| "[=eiro][Neg][=NEG.IRR][--][=me][+SUBJ]::[=if.it.were, if.there.were]" : {eirome}
+| "[=airo][Neg][=NEG.IRR][--][=kya][+EMPH]::[=now]" : {airokya}
+| "[=eiro][Neg][=NEG.IRR][--][=kea][+EMPH]::[=now]" : {eirokea}
 ! eirotsitarica
 ! eiroyea
 ! eirotsita
-| "[=eiro][Neg][=NEG.IRR][--][-ta][+OPT]" : {eirota}
-| "[=eiro][Neg][=NEG.IRR][--][-mpa][+DUB]" : {eirompa}
+| "[=eiro][Neg][=NEG.IRR][--][=ta][+OPT]" : {eirota}
+| "[=eiro][Neg][=NEG.IRR][--][=mpa][+DUB]" : {eirompa}
 ! eiroya eiro-ya / NEG.IRR-INSIST (*)INSIST-insistence;
 ! eirotarica
 ! eiroricame
-| "[=eiro][Neg][=NEG.IRR][--][-ve][+EXCL]" : {eirove}
+| "[=eiro][Neg][=NEG.IRR][--][=ve][+EXCL]" : {eirove}
 ! eiroricampa
-| "[=airo][Neg][=NEG.IRR][--][-ra+medial][Adv][+DEM]" : {airora}
-| "[=eero][Neg][=NEG.IRR][--][-ra+medial][Adv][+DEM]" : {eerora}
+| "[=airo][Neg][=NEG.IRR][--][=ra+medial][Adv][+DEM]" : {airora}
+| "[=eero][Neg][=NEG.IRR][--][=ra+medial][Adv][+DEM]" : {eerora}
 ! 
 # Copula P5C
 # Negative copula 
@@ -64,14 +64,14 @@ define NegPRQin [
 | "[=te+future.neg.][Neg][=NEG.REAL]" : {te}
 | "[=tee+future.neg.][Neg][=NEG.REAL]" : {tee}
 # conditional negative realis
-| "[=te][Neg][=NEG.REAL][--][-rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {terika}
-| "[=tee][Neg][=NEG.REAL][--][-rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {teerika}
+| "[=te][Neg][=NEG.REAL][--][=rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {terika}
+| "[=tee][Neg][=NEG.REAL][--][=rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {teerika}
 ! 
-| "[=te][Neg][=NEG.REAL][--][-ve][+EXCL]" : {teve}
+| "[=te][Neg][=NEG.REAL][--][=ve][+EXCL]" : {teve}
 # 
-| "[=te][Neg][=NEG.REAL][--][-teeme][+CERTAINTY]" : {teteeme}
+| "[=te][Neg][=NEG.REAL][--][=teeme][+CERTAINTY]" : {teteeme}
 # 
-| "[=te][Neg][=NEG.REAL][--][-ha][+EMPH]" : {teha}
+| "[=te][Neg][=NEG.REAL][--][=ha][+EMPH]" : {teha}
 # negative existencial 
 | "[=tekatsi][Neg][=NEG.EXIST; NOT.POSSESS]" : {tekatsi}
 | "[=teekatsi][Neg][=NEG.EXIST; NOT.POSSESS]" : {teekatsi}
@@ -81,9 +81,9 @@ define NegPRQin [
 | "[=tikira][Neg][=yet; not.yet; before]" : {tikira}
 | "[=tekira][Neg][=yet; not.yet (ES: todavía.no); before][--][-ta][+OPT]" : {tekirata}
 ! 
-| "[=te][Neg][=NEG.REAL][--][-ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[...].not (ES: pues/entonces.no (no-futuro, realis))]" : {tera}
-| "[=eero][Neg][=NEG.IRR][--][-ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[...].not (ES: pues/entonces.no (futuro, irrealis))" : {eerora}
-| "[=tekatsi][Neg][=NEG.EXIST][--][-ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.there.is/are.not.[...] (ES: pues/entonces.no.hay )]" : {tekatsira}
+| "[=te][Neg][=NEG.REAL][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (no-futuro, realis))]" : {tera}
+| "[=eero][Neg][=NEG.IRR][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (futuro, irrealis))" : {eerora}
+| "[=tekatsi][Neg][=NEG.EXIST][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.there.is/are.not.[…] (ES: pues/entonces.no.hay )]" : {tekatsira}
 
 ];
 
