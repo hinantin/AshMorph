@@ -487,6 +487,9 @@ define VRootPRQin [
 ! 
 | "[=kantimo][VRoot][=to.say.sth.about.a_fact.with.the.desire.to.tempt.sb.else]" : {kantimo}
 ! 
+# nocaratapovetanaque / nokaratapovetanake
+| "[=kara][VRoot][=to.lack.sth. (ES: carecer)]" : {kara}
+! 
 | "[=kar][VRoot][=to.break]" : {kar}
 | "[=karah][VRoot][=to.break (ES: fracturar)]" : {karah}
 | "[=karaha][VRoot][=to.break (ES: fracturar)]" : {karaha}
@@ -1805,6 +1808,7 @@ define VRootPRQin [
 | "[=ty][VRoot][=to.fell, to.cut.down (a.tree)]" : {ty}
 ! 
 | "[=tyaki][VRoot][=to.blossom (ES: florecer)]" : {tyaki}
+| "[=tyaaki][VRoot][=to.blossom (ES: florecer)]" : {tyaaki}
 | "[=teyaki][VRoot][=to.blossom (ES: florecer)]" : {teyaki}
 ! word set:
 | "[=tyank][VRoot][=to.send (ES: mandar)]" : {tyank}
