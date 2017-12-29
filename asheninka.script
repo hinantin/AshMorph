@@ -402,7 +402,7 @@ TZEpenthesisRule8
       # naakamaja / naakamaha / =naaka -maha / 
       source prnpers.prq.foma
         define PrnPersPRQ PrnPersPRQin;
-      define Personal [ [PrnPersPRQ] [(N=S=EMPH)|(N=S=PL)|(V=S=COND)|(V=S=EXCL)|(N=S=CNTR)] ];
+      define Personal [ [PrnPersPRQ] [(N=S=EMPH)|(N=S=PL)|(V=S=COND)|(V=S=EXCL)|(N=S=CNTR)|(V=S=DUB)] ];
 
       #################################
       #                               #

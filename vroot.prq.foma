@@ -508,7 +508,7 @@ define VRootPRQin [
 ! 
 | "[=kasa][VRoot][=to.cook.manioc]" : {kasa}
 ! 
-| "[=kashiy][VRoot][=to.be.a.relative (ES: ser.pariente); to.be.related]" : {kashiy}
+| "[=kashiy+prop@t.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashiy}
 ! 
 | "[=kats][VRoot][=to.feel.pain]" : {kats}
 | "[=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
@@ -1163,6 +1163,7 @@ define VRootPRQin [
 | "[=p][VRoot][=to.give (ES: dar)]" : {p}
 ! 
 | "[=pai][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair]" : {pai}
+| "[=pae][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair]" : {pae}
 | "[=pahi][VRoot][=to.be.called; to.call, to.name (ES: nombrar)]" : {pahi}
 ! 
 | "[=paik][VRoot][=to.nail (ES: clavar), to.get.hit.with.an.object]" : {paik}
