@@ -224,7 +224,7 @@ define VRootPRQin [
 | "[=ashirari][VRoot][=to.slip (ES: resbalar)]" : {ashirari}
 | "[=shira][VRoot][=to.slip (ES: resbalar)]" : {shira}
 ! 
-| "[=ashe][VRoot][=to.wet.sth. (ES: mojar)]" : {ashe}
+| "[=ashe+prop@t.][VRoot][=to.wet.sth. (ES: mojar)]" : {ashe}
 ! 
 | "[=ashinonk][VRoot][=to.suffer (ES: sufrir); to.be.poor]" : {ashinonk}
 | "[=ashinonka][VRoot][=to.suffer.from.sth.; to.suffer (ES: sufrir)]" : {ashinonka}
@@ -1985,4 +1985,6 @@ define VRootPRQin [
 # algn.		alguien 
 # f.tech.	fishing technique 
 
+# prop.	property
+# t	transitivity
 
