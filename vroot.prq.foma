@@ -93,7 +93,7 @@ define VRootPRQin [
 | "[=amin][VRoot][=to.examine]" : {amin}
 | "[=amin][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amin}
 | "[=amen][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amen}
-| "[=amin+redup.][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {aminamina}
+| "[=amin+prop@redup.][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {aminamina}
 ! 
 | "[=amitako][VRoot][=to.help (ES: ayudar)]" : {amitako}
 ! 
@@ -184,9 +184,9 @@ define VRootPRQin [
 ! 
 | "[=ar][VRoot][=to.fly]" : {ar}
 ! 
-| "[=arii][VRoot][=to.arrive, to.visit.with.sb.]" : {arii}
-| "[=are][VRoot][=to.arrive, to.visit.with.sb.]" : {are}
-| "[=aree][VRoot][=to.arrive, to.visit.with.sb.]" : {aree}
+| "[=arii][VRoot][=to.arrive (ES: llegar), to.visit.with.sb.]" : {arii}
+| "[=are][VRoot][=to.arrive (ES: llegar), to.visit.with.sb.]" : {are}
+| "[=aree][VRoot][=to.arrive (ES: llegar), to.visit.with.sb.]" : {aree}
 ! 
 # -------------------------------------------
 #             Positive polarity 
@@ -402,8 +402,8 @@ define VRootPRQin [
 | "[=ira][VRoot][=to.cry]" : {ira}
 | "[=irag][VRoot][=to.cry]" : {irag}
 | "[=irah][VRoot][=to.cry]" : {irah}
-| "[2S/A+][p-][--][=ira+redup.][VRoot][=to.cry]" : {pirapira}
-| "[=ira+redup.][VRoot][=to.cry]" : {iraira}
+| "[2S/A+][p-][--][=ira+prop@redup.][VRoot][=to.cry]" : {pirapira}
+| "[=ira+prop@redup.][VRoot][=to.cry]" : {iraira}
 ! to be ripe, to ripen (fruits) 
 !| "[=isak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen]" : {isak}
 | "[=irak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen]" : {irak}
@@ -609,9 +609,9 @@ define VRootPRQin [
 !
 | "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {ken}
 | "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {kin}
-| "[=ken+redup.][VRoot][=to.walk]" : {keken}
-| "[=ken+redup.][VRoot][=to.walk]" : {kenaken}
-| "[=ken+redup.][VRoot][=to.walk]" : {kenakena}
+| "[=ken+prop@redup.][VRoot][=to.walk]" : {keken}
+| "[=ken+prop@redup.][VRoot][=to.walk]" : {kenaken}
+| "[=ken+prop@redup.][VRoot][=to.walk]" : {kenakena}
 ! 
 | "[=kenashi][VRoot][=to.be.green (ES: ser.de.color.verde)]" : {kenashi}
 ! 
@@ -713,7 +713,7 @@ define VRootPRQin [
 | "[=kichoh][VRoot][=to.spit (ES: escupir)]" : {kichoh}
 ! 
 | "[=kiv][VRoot][=to.wash (ES: lavar)]" : {kiv}
-| "[=kiv+redup.][VRoot][=to.wash (ES: lavar)]::[=to.wash.a.lot]" : {kivakiva}
+| "[=kiv+prop@redup.][VRoot][=to.wash (ES: lavar)]::[=to.wash.a.lot]" : {kivakiva}
 ! 
 | "[=kivanont][VRoot][=to.wash]" : {kivanont}
 ! 
@@ -725,7 +725,7 @@ define VRootPRQin [
 ! 
 | "[=konyaa][VRoot][=to.appear (ES: aparecer)]" : {konyaa}
 | "[=koniha][VRoot][=to.appear (ES: aparecer)]" : {koniha}
-| "[=koniha+redup.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
+| "[=koniha+prop@redup.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
 ! 
 | "[=koma][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
 | "[=komaa][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
@@ -771,7 +771,7 @@ define VRootPRQin [
 ! 
 | "[=kov][VRoot][=to.want]" : {kov} 
 | "[=ko][VRoot][=to.want]" : {ko} 
-| "[=kov+redup.][VRoot][=to.want]::[=to.prefer.strongly]" : {kokov} 
+| "[=kov+prop@redup.][VRoot][=to.want]::[=to.prefer.strongly]" : {kokov} 
 ! 
 | "[=kovari][VRoot][=to.corral]" : {kovari}
 ! 
@@ -795,7 +795,7 @@ define VRootPRQin [
 | "[=kiha][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiha}
 | "[=kiya][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiya}
 | "[=ty][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ty}
-| "[=kya+redup.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kyakya}
+| "[=kya+prop@redup.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kyakya}
 ! 
 | "[=machok][VRoot][=to.close.eyes]" : {machok} 
 ! 
@@ -897,9 +897,9 @@ define VRootPRQin [
 | "[=mit][VRoot][=to.jump (ES: saltar)]" : {mit}
 # nomitaji / nomitahi / no- =mitah -i / 1sg.s- =to.jump -real / EN: 'I.am.jumping'; ES: 'estoy.saltando' 
 | "[=mitah][VRoot][=to.jump (ES: saltar, brincar)]" : {mitah}
-# miamiataantsi / =mi+redup. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
-# imiamiataeyeni / i- =mi+redup. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
-| "[=mi+redup.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {miamia}
+# miamiataantsi / =mi+prop@redup. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
+# imiamiataeyeni / i- =mi+prop@redup. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
+| "[=mi+prop@redup.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {miamia}
 ! 
 | "[=mink][VRoot][=to.put]" : {mink}
 | "[=mink][VRoot][=to.insert]" : {mink}
@@ -1188,7 +1188,7 @@ define VRootPRQin [
 ! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
 | "[=pariy][VRoot][=to.fall]" : {pariy}
 | "[=pare][VRoot][=to.fall (ES: caer)]" : {pare}
-| "[=pariy+redup.][VRoot][=to.fall (ES: caer)]" : {paryaaparyaa}
+| "[=pariy+prop@redup.][VRoot][=to.fall (ES: caer)]" : {paryaaparyaa}
 ! 
 ! v- =pari / 
 | "[=vari][VRoot][=to.knock.down (ES: hacer.caer, derribar)]" : {vari}
@@ -1289,8 +1289,8 @@ define VRootPRQin [
 ! 
 # piaantsi / =pi -aantsi / =to.come.back -inf / EN: 'to.come.back'; ES: 'regresar' 
 | "[=piy][VRoot][=to.return, to.come.back (ES: volver, regresar)]" : {piy}
-| "[=piy+redup.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning]" : {piyapiya}
-| "[=piy+redup.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning]" : {piapiya}
+| "[=piy+prop@redup.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning]" : {piyapiya}
+| "[=piy+prop@redup.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning]" : {piapiya}
 ! 
 | "[=piyaa][VRoot][=to.empty, to.pour (ES: vaciar)]" : {piyaa}
 ! 
@@ -1773,7 +1773,7 @@ define VRootPRQin [
 | "[=tsink][VRoot][=to.crush.sth.with.wooden.pestle (prbly.boiled.yucca)]" : {tsink}
 ! 
 | "[=tsint][VRoot][=to.urinate (ES: orinar)]" : {tsint}
-| "[2S/A+][p-][--][=tsint+redup.][VRoot][=to.urinate (ES: orinar)]::[=to.urinate.more.often.than.usual (ES: orinar.más.seguido.de.lo.normal)]" : {pitsinpintsint}
+| "[2S/A+][p-][--][=tsint+prop@redup.][VRoot][=to.urinate (ES: orinar)]::[=to.urinate.more.often.than.usual (ES: orinar.más.seguido.de.lo.normal)]" : {pitsinpintsint}
 ! 
 | "[=tsinampa][VRoot][=to.joke]" : {tsinampa}
 ! 
@@ -1804,8 +1804,8 @@ define VRootPRQin [
 | "[=tsokis][VRoot][=to.have.hiccups (ES: tener.hipo)]" : {tsokis}
 ! 
 | "[=tsonk][VRoot][=to.finish]" : {tsonk}
-| "[=tsonk+redup.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonk}
-| "[=tsonk+redup.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonka}
+| "[=tsonk+prop@redup.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonk}
+| "[=tsonk+prop@redup.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonka}
 | "[=tsonk][VRoot][=to.kill]" : {tsonk}
 ! 
 | "[=tsoinare][VRoot][=to.break.in.half]" : {tsoinare}
