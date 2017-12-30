@@ -143,10 +143,12 @@ define ORootPRQin [
 ! 
 ! 
 # tsamitya / =tsami -tya / =come.on -emph / EN: 'let's go now' 
-| "[=tsame+standalone][VRoot][=COME.ON, LET'S.GO]" : {tsame} ! Interj. 
-| "[=tsami+standalone][VRoot][=COME.ON, LET'S.GO]" : {tsami} ! Interj. 
-| "[=tsami+standalone][VRoot][=COME.ON, LET'S.GO][--][-tya][+EMPH]" : {tsamitya}
-| "[=tsame+standalone][VRoot][=COME.ON, LET'S.GO][--][-tya][+EMPH]" : {tsametya}
+| "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO]" : {tsame} ! Interj. 
+| "[=tsami+prop@standalone.][VRoot][=COME.ON, LET'S.GO]" : {tsami} ! Interj. 
+| "[=tsami+prop@standalone.][VRoot][=COME.ON, LET'S.GO][--][-tya][+EMPH]" : {tsamitya}
+| "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO][--][-tya][+EMPH]" : {tsametya}
+# omapero
+| "[=omapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true)]" : {omapero}
 # Copula P5C
 # Negative copula 
 | "[=kaari][VRoot][=NEG.COP (EN: not.be; ES: no.es, no)]" : {kaari}
