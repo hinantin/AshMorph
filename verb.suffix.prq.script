@@ -966,18 +966,18 @@ define V=S=RPST [
 # pues: conj. Denota causa, motivo o razón, por ejemplo: 'háblale tú, pues lo conoces más que yo'
 define V=S=SUB [ 
 # pikantatziira / pi- =kant -atzi -i -ra / 2s- =to.be -prog -real -sub[temporal:when] / EN: 'when.you.were.saying'   
-  "[--][-ra][+SUB][=Temporal:when;Location:where(place);Denoting.a.cause/motive/reason:since]" : [{ra}]
+  "[--][=ra][+SUB][=Temporal:when;Location:where(place);Denoting.a.cause/motive/reason:since;Epist.uncertainty:Okay?]" : [{ra}]
 ]; 
                    
 # ****************************************
                    
 define V=S=NEG [
 # ero paminavaitzitzi / =ero *** p- =amin -a -vai -tz -i -tzi / =neg.irr *** 2a- =to.look -ep -dur -ep -real -neg / EN: "don't.look" 
-  "[--][-tsi+future][+NEG]" : [{tsi}] 
-| "[--][-tzi+future][+NEG]" : [{tzi}] 
+  "[--][=tsi+future][+NEG]" : [{tsi}] 
+| "[--][=tzi+future][+NEG]" : [{tzi}] 
 # te inkantaje / te inkantahe / =te *** i- N- =kant -a -he / =neg.real *** 3m.s- =neg.real 3m.s- irr- =to.say -real -neg  / EN: 'invalid'; ES: 'inválido' 
-| "[--][-he+past][+NEG]" : [{he}] 
-| "[--][-hi+past][+NEG]" : [{hi}] 
+| "[--][=he+past][+NEG]" : [{he}] 
+| "[--][=hi+past][+NEG]" : [{hi}] 
 ];
                    
 # ****************************************
@@ -989,7 +989,7 @@ define V=S=NEG [
 # ****************************************
                    
 define V=S=RELIRR [
-  "[--][-ni][+REL.IRR]" : [{ni}]
+  "[--][=ni][+REL.IRR]" : [{ni}]
 ];
                    
 # ****************************************
