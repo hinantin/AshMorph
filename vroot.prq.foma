@@ -617,7 +617,7 @@ define VRootPRQin [
 ! 
 | "[=kenke][VRoot][=to.complain.about.sth.]" : {kenke}
 ! to believe, to think
-| "[=kinkishiri][VRoot][=to.believe, to.think]" : {kinkishiri}
+| "[=kinkishiri][VRoot][=to.believe, to.think (ES: razonar)]" : {kinkishiri}
 | "[=kenkishiry][VRoot][=to.believe, to.think]" : {kenkishiry}
 | "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
 | "[=kinkishire][VRoot][=to.believe, to.think]" : {kinkishire}
@@ -668,6 +668,8 @@ define VRootPRQin [
 ! 
 | "[=kiso][VRoot][=to.be.hard (ES: estar.duro); to.join.tightly-and-rigidly]" : {kiso} 
 | "[=kiho][VRoot][=to.be.hard (ES: estar.duro); to.join.tightly-and-rigidly]" : {kiho} ! kijotake ES: 'está.dura'  
+! 
+| "[=kisoshire][VRoot][=to.doubt (ES: dudar)]" : {kisoshire} 
 ! 
 | "[=kit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {kit}
 ! 
