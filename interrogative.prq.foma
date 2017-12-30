@@ -69,6 +69,8 @@ define WhPRQin [
 # TIME: 
 # tsicapaite / tsikapaite / =wh -adv|=during / EN: 'when' 
 | "[=tsika][WhPrn][=WH][--][-paite][+ADV][=during]::[=when]" : {tsikapaite}
+# 
+| "[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why][--][-paite][+ADV][=during]::[=its.period]" : {iropaite}
 ! 
 | "[=haoka][WhPrn][=which, when (ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
