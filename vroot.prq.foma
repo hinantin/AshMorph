@@ -1129,7 +1129,7 @@ define VRootPRQin [
 ! 
 | "[=ompoh][VRoot][=to.bump.sth.]" : {ompoh}
 | "[=ompos][VRoot][=to.bump.sth.]" : {ompos}
-| "[=pos][VRoot][=to.bump.sth.]" : {pos}
+| "[=pos][VRoot][=to.bump.sth. (ES: chancarse)]" : {pos}
 ! 
 | "[=ore][VRoot][=to.put.food.for.an.animal.in.the.feeding_trough (ES: dar/echar.la.comida.de.animales.en.un.comedero)]" : {ore}
 ! 
@@ -1188,6 +1188,7 @@ define VRootPRQin [
 ! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
 | "[=pariy][VRoot][=to.fall]" : {pariy}
 | "[=pare][VRoot][=to.fall (ES: caer)]" : {pare}
+| "[=pariy+redup.][VRoot][=to.fall (ES: caer)]" : {paryaaparyaa}
 ! 
 ! v- =pari / 
 | "[=vari][VRoot][=to.knock.down (ES: hacer.caer, derribar)]" : {vari}

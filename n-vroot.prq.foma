@@ -70,9 +70,9 @@ define NounToVerbPRQin [
 | "[=oorya+m.][NRoot][=sun (ES: sol)]+vbz." : {oorya} ! N@->V
 | "[=oria+m.][NRoot][=sun (ES: sol)]::[=to.shine]+vbz." : {oria} ! N@->V::[=to.shine]
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)]+vbz." : {oventeni} ! N@->V
-| "[=pirontzi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pirontzi} ! N@->V
-| "[=pironi+m.][NRoot][=worm; firefly; quasi-lightning.bug; <:dove]+vbz." : {pironi} ! N@->V
-| "[=piroti+m.][NRoot][=firefly; quasi-lightning.bug]+vbz." : {piroti} ! N@->V
+| "[=pirontzi+m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]::[=to.be.firefly (ES: ser.luciernaga)]+vbz." : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
+| "[=pironi+m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]+vbz." : {pironi} ! N@->V
+| "[=piroti+m.][NRoot][=firefly (ES: luciernaga); quasi-lightning.bug]+vbz." : {piroti} ! N@->V
 | "[=tsipamintsare][NRoot][=friend (ES: amigo)]+vbz." : {tsipamintsare} ! N@->V
 | "[=tsipikirontsi+n.m.][NRoot][= (ES: quincha/tejido/trama.hecha.de.caña_brava/carrizo)]::[= (ES: construir.una.quincha/tejido/trama)]+vbz." : {tsipikirontsi} ! N@->V::[= (ES: construir.una.quincha/tejido/trama)] 
 | "[=pitziki][NRoot][=male.genitals]+vbz." : {pitziki} ! N@->V @VCMP 
