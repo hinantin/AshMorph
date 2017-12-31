@@ -2047,7 +2047,7 @@ define NRootPRQin [
 | "[=nantatziri][NRoot][=goblin-like.creature, master-owner.of.animals (it.lives.in.rocky.areas)]" : {nantatziri}
 ! 
 # ---------------------------------------------------------------------
-| "[=nampi+n.m.+inal@tsi.][NRoot][=village, place, country; settlement]" : {nampi} ! N@->V::[= (ES: vivir)] 
+| "[=nampi+n.m.+inal@tsi.][NRoot][=village, place, country; settlement]" : {nampi} ! N@->V::[= (ES: vivir)] +ADDUPPER@. @ADDLOWER@ 
 | "[=nampiki][NRoot][=small.village (ES: aldea)]" : {nampiki}
 | "[=nampitsini][NRoot][=hamlet (small.human.settlement, ES: caserio)]" : {nampitsini}
 | "[=nampitsira][NRoot][=(small).town (ES: pueblo)]" : {nampitsira}
@@ -3368,6 +3368,8 @@ define NRootPRQin [
 | "[=shitsani+m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]" : {shitsani}
 ! 
 | "[=shitzivari][NRoot][=solitary.black.cacique (sci.nm.: cacicus.solitarius)]" : {shitzivari}
+! 
+| "[=shitziro+n.m.][NRoot][=tree.sp. (ES: ajo.sacha, sp.de.árbol; QU: ajo.sach'a)]" : {shitziro}
 ! 
 | "[=shichari+m.][NRoot][=worm; ant.sp.]" : {shichari}
 ! 

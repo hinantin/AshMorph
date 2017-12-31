@@ -163,7 +163,7 @@ TZEpenthesisRule8
 
       source vroot.prq.foma
       source vroot.es.foma
-      source n-vroot.prq.foma 
+      source n-vroot.prq.group1.foma 
         define VRootPRQ [VRootPRQin|VRootESin|NounToVerbPRQin];
 
 #      define Verb VerbFeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
