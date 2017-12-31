@@ -1978,7 +1978,7 @@ define NRootPRQin [
 | "[=mitzikaa+inal@n/tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzikaa}
 | "[=mitzikara+inal@ntsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzikara}
 ! 
-| "[=mitziki][NRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki}
+| "[=mitziki][NRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
 ! 
 | "[=mitiri][NRoot][=dusky-headed.parakeet (sci.nm.: aratinga.weddelli)]" : {mitiri}
 ! 
@@ -2577,6 +2577,9 @@ define NRootPRQin [
 | "[=piichotzi][NRoot][=paradise.tanager (sci.nm.: tangara.chilensis)]" : {piichotzi}
 ! 
 | "[=pirinto+m.][NRoot][=lake.frog, toad; mountain.frog]" : {pirinto}
+! 
+| "[=pirimorishi][NRoot][=Puerto.Bermudez]" : {pirimorishi}
+| "[=kovirya][NRoot][=Puerto.Bermudez]" : {kovirya}
 ! 
 | "[=pirimpiritzi][NRoot][=orange-bellied.euphonia (sci.nm.: euphonia.xantogaster)]" : {pirimpiritzi}
 ! 
