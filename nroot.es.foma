@@ -205,7 +205,7 @@ define NRootESin [
 | "[=tambo][NRootQU][=Incan.structure (QU: tampu)]" : {tambo}
 | "[=tampu/tampo][NRootQU][=NP]" : {tampo}
 ! 
-| "[=Ucayali][NRootQU][=NP]" : {ucayali}
+| "[=Ucayali][NRoot][=NP]" : {ucayali}
 ! 
 | "[=vaca+NCFS000][NRoot][=cow]" : {vaca} 
 | "[=vacuna+NCMS000+poss@ri.][NRoot][=vaccine]" : {vacona} 
