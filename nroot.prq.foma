@@ -4074,6 +4074,9 @@ define NRootPRQin [
 ! 
 | "[=poyeni][NRoot][=NP]" : {poyeni}
 ! 
+| "[=poyeniri+m.+poss@te.][NRoot][= (ES: abejón)]" : {poyeniri}
+| "[=poyiniri+m.+poss@te.][NRoot][= (ES: abejón)]" : {poyiniri}
+! 
 # kavana: its.caustic.sap.is.used.to_poison_arrows/to_stufy_fish; its.leaves.are.used.in.ethnomedicine 
 !| "[=kavana][NRoot][=tree.sp. (ES: catahua, sci.nm.: hura.crepitans)]" : {kavana} 
 | "[=kamana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kamana} 
