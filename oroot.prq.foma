@@ -148,8 +148,8 @@ define ORootPRQin [
 | "[=tsami+prop@standalone.][VRoot][=COME.ON, LET'S.GO][--][-tya][+EMPH]" : {tsamitya}
 | "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO][--][-tya][+EMPH]" : {tsametya}
 # omapero
-| "[=omapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: hablar/decir.la.veracidad/verdad)]" : {omapero}
-| "[=omaapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: hablar/decir.la.veracidad/verdad)]" : {omaapero}
+| "[=omapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omapero}
+| "[=omaapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omaapero}
 # Copula P5C
 # Negative copula 
 | "[=kaari][VRoot][=NEG.COP (EN: not.be; ES: no.es, no)]" : {kaari}
