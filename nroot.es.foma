@@ -203,9 +203,14 @@ define NRootESin [
 | "[=zapato/sapato+NCMS000+poss@te.][NP][=shoe]" : {sapato} 
 ! 
 | "[=tambo][NRootQU][=Incan.structure (QU: tampu)]" : {tambo}
+| "[=tampu/tampo][NRootQU][=NP]" : {tampo}
+! 
+| "[=Ucayali][NRootQU][=NP]" : {ucayali}
 ! 
 | "[=vaca+NCFS000][NRoot][=cow]" : {vaca} 
 | "[=vacuna+NCMS000+poss@ri.][NRoot][=vaccine]" : {vacona} 
+! 
+| "[=Yurúa][NRoot][=NP]" : {yurúa} 
 ];
 
 # 
