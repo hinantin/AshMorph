@@ -30,7 +30,7 @@ define ORootPRQin [
 | "[=ario][PostPol][=PP][--][=rika][+COND]::[=maybe, perhaps; when, if]" : {ariorika} ! ario-rika / PP-COND
 | "[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case.(that) (ES: así.es.que)]" : {aritaki} ! ari-t-ak-i / PP-EP-PRF-REAL
 | "[=ario][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {ariotake} ! ario-t-ak-e / PP-EP-PRF-REAL
-| "[=ari][PostPol][=PP][--][=ve][+EXCL]" : {arive} ! ari-ve / PP-EXCL
+| "[=ari][PostPol][=PP][--][=ve][+EXCL]::[= (ES: muy.bien)]" : {arive} ! ari-ve / PP-EXCL
 | "[=ario][PostPol][=PP][--][=ve][+EXCL]" : {ariove} ! ario-ve / PP-EXCL
 | "[=ario][PostPol][=PP][--][-nya][+AFF]" : {arionya} ! AFF:affectivity
 | "[=ario][PostPol][=PP][--][-te][+NEG.AFF]" : {ariote} ! NEG.AFF:negative.affectivity
