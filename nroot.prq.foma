@@ -2453,15 +2453,15 @@ define NRootPRQin [
 !
 | "[=pareni][NRoot][=river, Perené.river]" : {pareni}
 ! banana tree, plantain
-| "[=parenti+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
-| "[=parentzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parentzi}
-| "[=payanti+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payanti}
-| "[=payantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payantzi}
-| "[=parianti+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parianti}
-| "[=paryantsi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantsi}
-| "[=paryaantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryaantzi}
-| "[=paryantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
-| "[=pareantzi+n.m.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
+| "[=parenti+n.m.+poss@te.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
+| "[=parentzi+n.m.+poss@te.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parentzi}
+| "[=payanti+n.m.+poss@te.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payanti}
+| "[=payantzi+n.m.+poss@te.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payantzi}
+| "[=parianti+n.m.+poss@te.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parianti}
+| "[=paryantsi+n.m.+poss@te.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantsi}
+| "[=paryaantzi+n.m.+poss@te.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryaantzi}
+| "[=paryantzi+n.m.+poss@te.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
+| "[=pareantzi+n.m.+poss@te.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
 ! 
 # Is the winter-season a flooding period ??? 
 | "[=pariantsi+sem@season.][NRoot][=winter (ES: invierno)]" : {pariantsi}
