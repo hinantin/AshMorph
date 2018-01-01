@@ -36,6 +36,7 @@ define ORootPRQin [
 | "[=ario][PostPol][=PP][--][-te][+NEG.AFF]" : {ariote} ! NEG.AFF:negative.affectivity
 | "[=ari][PostPol][=PP][--][-tee][+NEG.AFF][--][-mpa][+DUB]::[=perhaps, maybe]" : {ariteempa} ! ari-tee-mpa / PP-NEG.AFF-DUB
 | "[=ari][PostPol][=PP][--][=mpa][+DUB]" : {arimpa} ! ario-mpa / PP-DUB
+| "[=ari][PostPol][=PP][--][=ma][+DUB]::[= (ES: ¿verdad?)]" : {arima} 
 | "[=ario][PostPol][=PP][--][=mpa][+DUB]" : {ariompa} ! ario-mpa / PP-DUB
 | "[=ario][PostPol][=PP][--][=rika][+COND][--][-me][+SUBJ]" : {ariorikame} ! ario-rika-me / PP-COND-SUBJ
 | "[=ario][PostPol][=PP][--][=rika][+COND][--][-mpa][+SUBJ]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
