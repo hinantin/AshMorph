@@ -1,42 +1,44 @@
 define NRootESin [
-  "[=acero][NRootEs][=steel, iron]" : {ashiro}
+  "[=acero/ashiro][NRootEs][=steel, iron]" : {ashiro}
 | "[=amigo+poss@te][NRootEs][=friend]" : {amigo}
 ! 
-| "[=arrozki][NRootEs][=rice.grain]" : {aroosaki}
+| "[=Apurimac][NRootEs][=NP]" : {apurimac}
+! 
+| "[=arrozki/aroosaki][NRootEs][=rice.grain]" : {aroosaki}
 ! 
 | "[=azoriri+color][NRootEs][=blue]" : {azoriri} ! source:IIAP 
 ! 
-| "[=burro+NCMS000+poss@te.][NRootEs][=donkey]" : {boro}
+| "[=burro/boro+NCMS000+poss@te.][NRootEs][=donkey]" : {boro}
 ! 
-| "[=botella][NRootEs][=bottle]" : {voteya}
+| "[=botella/voteya][NRootEs][=bottle]" : {voteya}
 ! 
-| "[=caimito][NRootEs][=fruit.sp. (sci.nm.: chrysophyllum.sp.)]" : {kaimito}
+| "[=caimito/kaimito][NRootEs][=fruit.sp. (sci.nm.: chrysophyllum.sp.)]" : {kaimito}
 ! 
-| "[=café][NRootEs][=coffee]" : {kajee}
-| "[=café][NRootEs][=coffee]" : {kaje}
+| "[=café/kajee][NRootEs][=coffee]" : {kajee}
+| "[=café/kaje][NRootEs][=coffee]" : {kaje}
 ! 
-| "[=campana][NRootEs][=church (ES: campana)]" : {kampana}
+| "[=campana/kampana][NRootEs][=church (ES: campana)]" : {kampana}
 ! 
-| "[=calabozo][NRootEs][=dungeon (ES: cárcel)]" : {karaboso}
-| "[=calabozo][NRootEs][=dungeon (ES: cárcel)]" : {karavoso}
+| "[=calabozo/karaboso][NRootEs][=dungeon (ES: cárcel)]" : {karaboso}
+| "[=calabozo/karavoso][NRootEs][=dungeon (ES: cárcel)]" : {karavoso}
 ! 
-| "[=calzón+poss@te.][NRootEs][=(female).drawers]" : {kariso}
+| "[=calzón/kariso+poss@te.][NRootEs][=(female).drawers]" : {kariso}
 ! 
 | "[=carro/karo+poss@te.][NRootEs][=car]" : {karo}
 | "[=carro/karoo+poss@te.][NRootEs][=car]" : {kaaro}
 ! 
-| "[=Carlos][NRootEs][=Carlos]" : {caaroshi}
+| "[=Carlos/caaroshi][NRootEs][=Carlos]" : {caaroshi}
 ! 
 | "[=castellano][NRootEs][=Spanish]" : {castellano}
 ! 
-| "[=chocolate+NCMS000][NRootEs][=chocolate]" : {chokorate}
+| "[=chocolate/chokorate+NCMS000][NRootEs][=chocolate]" : {chokorate}
 ! 
-| "[=cuchara][NRootEs][=spoon]" : {cochara}
+| "[=cuchara/cochara][NRootEs][=spoon]" : {cochara}
 ! 
-| "[=comadre][NRootEs][=godmother.of.one's.child]" : {komaatiro}
-| "[=comadre][NRootEs][=godmother.of.one's.child]" : {komaari}
+| "[=comadre/komaatiro][NRootEs][=godmother.of.one's.child]" : {komaatiro}
+| "[=comadre/komaari][NRootEs][=godmother.of.one's.child]" : {komaari}
 ! 
-| "[=compadre][NRootEs][=godfather.of.one's.child]" : {komaatirori}
+| "[=compadre/komaatirori][NRootEs][=godfather.of.one's.child]" : {komaatirori}
 ! 
 | "[=compadre][NRootEs][=godparent; spiritual.father]" : {compadre} ! N@->V 
 ! 
@@ -47,29 +49,29 @@ define NRootESin [
 ! 
 | "[=ejercicio][NRootEs][=exercise]" : {ejercicio}
 | "[=escuela][NRootEs][=school]" : {escuela}
-| "[=escuela][NRootEs][=school]" : {eskuera}
-| "[=escuela][NRootEs][=school]" : {ishikoira}
+| "[=escuela/eskuera][NRootEs][=school]" : {eskuera}
+| "[=escuela/ishikoira][NRootEs][=school]" : {ishikoira}
 | "[=español][NRootEs][=Spaniard]" : {español}
 | "[=estado][NRootEs][=state]" : {estado}
 ! 
-| "[=shecha/hacha+n.m.][NRootEs][=ax]" : {shecha}
-| "[=shacha/hacha+n.m.][NRootEs][=ax]" : {shacha}
+| "[=hacha/shecha+n.m.][NRootEs][=ax]" : {shecha}
+| "[=hacha/shacha+n.m.][NRootEs][=ax]" : {shacha}
 ! 
 | "[=hermana][NRootEs][=sister]" : {hermana}
 ! 
-| "[=remedio][NRootEs][=remedy]" : {irimerio}
+| "[=remedio/irimerio][NRootEs][=remedy]" : {irimerio}
 ! 
 | "[=ingeniero][NRootEs][=engineer]" : {ingeniero}
 ! 
-| "[=hilo][NRootEs][=thread (ES: hilo)]" : {iiro}
-| "[=hilo][NRootEs][=thread (ES: hilo)]" : {iro}
+| "[=hilo/iiro][NRootEs][=thread (ES: hilo)]" : {iiro}
+| "[=hilo/iro][NRootEs][=thread (ES: hilo)]" : {iro}
 ! 
-| "[=Irene][NRootEs][=Irene]" : {irena}
+| "[=Irene/irena][NRootEs][=Irene]" : {irena}
 ! 
-| "[=Ricardo][NRootEs][=Richard]" : {irokarto}
+| "[=Ricardo/irokarto][NRootEs][=Richard]" : {irokarto}
 ! 
-| "[=jabón][NRootEs][=soap]" : {jabo}
-| "[=jabón][NRootEs][=soap]" : {jaboo}
+| "[=jabón/jabo][NRootEs][=soap]" : {jabo}
+| "[=jabón/jaboo][NRootEs][=soap]" : {jaboo}
 ! 
 | "[=Jerusalén][NRootEs][=Jerusalem]" : {jerusalén}
 ! 
@@ -77,7 +79,7 @@ define NRootESin [
 ! 
 | "[=judio][NRootEs][=Jewish]" : {judio}
 ! 
-| "[=coco+NCMS000][NRootEs][=coconut]" : {koko} ! source:IIAP 
+| "[=coco/koko+NCMS000][NRootEs][=coconut]" : {koko} ! source:IIAP 
 | "[=cocona+NCFS000][NRootEs][=cocona.shrubby.plant.sp.]" : {kokona} ! source:IIAP
 | "[=kokonaki][NRoot][=cocona.fruit; tart.applelike.fruit]" : {kokonaki} ! source:IIAP 
 ! 
