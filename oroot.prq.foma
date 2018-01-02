@@ -142,6 +142,8 @@ define ORootPRQin [
 | "[=tekatsi][VRoot][=NOT.EXIST; NOT.POSSESS]" : {tekatsi}
 | "[=teekatsi][VRoot][=NOT.EXIST; NOT.POSSESS]" : {teekatsi}
 ! 
+| "[=kaate+prop@standalone.][VRoot][=COME (ES: ven)]" : {kaate}
+| "[=kaa+prop@standalone.][VRoot][=COME (ES: ven)]" : {kaa}
 ! 
 # tsamitya / =tsami -tya / =come.on -emph / EN: 'let's go now' 
 | "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO]" : {tsame} ! Interj. 
