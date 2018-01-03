@@ -1067,7 +1067,9 @@ define NRootPRQin [
 | "[=kamaranka+inal@ntsi.][NRoot][=vomit (ES: vómito)]" : {kamaranka} 
 ! 
 | "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampi}
+| "[=kamarampe+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampe}
 | "[=kamarãpi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits (PT: )]" : {kamarãpi}
+| "[=kamarãpe+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits (PT: )]" : {kamarãpe}
 | "[=kamaraNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamaranvi}
 | "[=kamaNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamanvi}
 | "[=kananerotsa][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kananerotsa}
@@ -3046,11 +3048,11 @@ define NRootPRQin [
 | "[=soakentzi][NRoot][=chestnut.woodpecker (sci.nm.: celeus.elegans)]" : {soakentzi}
 ! 
 ! flute like instrument, (musical).wind.instrument 
-| "[=sonkare+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara)]" : {sonkare}
-| "[=sonkari+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara)]" : {sonkari}
-| "[=honkari+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara)]" : {honkari}
-| "[=shonkare+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara)]" : {shonkare}
-| "[=shonkari+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara)]" : {shonkari}
+| "[=sonkare+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {sonkare}
+| "[=sonkari+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {sonkari}
+| "[=honkari+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {honkari}
+| "[=shonkare+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {shonkare}
+| "[=shonkari+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {shonkari}
 ! 
 | "[=sonkaari+m.][NRoot][=partridge.sp. (ES: poqueadora, especie.de.perdiz)]" : {sonkaari}
 | "[=sonkaagari+m.][NRoot][=partridge.sp. (ES: poqueadora, especie.de.perdiz)]" : {sonkaagari}
