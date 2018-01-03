@@ -220,6 +220,9 @@ define V=S=DUR [
 | "[--][-vae][ASP][+DUR]" : "@EP"[{vae}] 
 | "[--][-vee][ASP][+DUR]" : "@EP"[{vee}] 
 | "[--][-vei][ASP][+DUR]" : "@EP"[{vei}] 
+! Rio Envira, Rio Breu e Rio Amônea
+! Owashiriwayta / Ovashirivayta / 
+| "[--][-vay][ASP][+DUR]" : "@EP"[{vay}] 
 ];
                    
 define DUR [ [EP V=S=DUR]|[V=S=DUR] ];
