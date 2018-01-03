@@ -3797,8 +3797,8 @@ define NRootPRQin [
 | "[=tsirompi][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, tamishi, especie.de.planta.trepadora.no.maderable); vine.sp. (ES: especie.de.bejuco)]" : {tsirompi}
 | "[=tsirompitsa][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, tamishi, especie.de.planta.trepadora.no.maderable); vine.sp. (ES: especie.de.bejuco)]" : {tsirompitsa}
 ! 
-| "[=tsiroti][NRoot][=bird.sp.]" : {tsiroti}
-| "[=tsirotzi][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela)]" : {tsirotzi}
+| "[=tsiroti][NRoot][=bird.sp. (ES: chihuaco)]" : {tsiroti}
+| "[=tsirotzi][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela; ES: chihuaco)]" : {tsirotzi}
 ! 
 | "[=tsiteniri][NRoot][=night]" : {tsiteniri}
 | "[=tsireniri][NRoot][=night]" : {tsireniri}
@@ -3860,7 +3860,7 @@ define NRootPRQin [
 | "[=tsoovo][NRoot][=owl.sp. (urcututo)]" : {tsoovo}
 | "[=tsoogo][NRoot][=owl.sp. (urcututo)]" : {tsoogo}
 ! 
-| "[=tsoori][NRoot][=bird.sp. (ES: paucar, QU: pawkar); catfish.sp. (ES: súngaro)]" : {tsoori}
+| "[=tsoori][NRoot][=bird.sp. (ES: pájaro.paucar, QU: pawkar); catfish.sp. (ES: súngaro)]" : {tsoori}
 ! 
 | "[=tsoompiro+n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]" : {tsoompiro}
 | "[=tsompiro+n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]" : {tsompiro}
