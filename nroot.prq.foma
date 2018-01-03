@@ -1517,6 +1517,7 @@ define NRootPRQin [
 | "[=konori][NRoot][=rubber]" : {konori}
 ! 
 | "[=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta}
+| "[=kontya+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {kontya} ! @CMP 
 | "[=akonta][NRoot][=heel]" : {akonta}
 ! 
 | "[=kontsavo][NRoot][=ruddy.quail-dove (ES: perdiz.pequeña; sci.nm.: geotrygon.montana)]" : {kontsavo}
@@ -1877,6 +1878,8 @@ define NRootPRQin [
 | "[=maashi+n.m.+inal@ntsi.][NRoot][=nest]" : {maashi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=menkoshi+n.m.+inal@n/tsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]" : {menkoshi} ! N@->V
 | "[=minkoshi+n.m.+inal@ntsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]" : {minkoshi} ! N@->V
+! 
+| "[=maasheroki+n.m.][NRoot][=granadilla.sp. (ES: granadilla; sci.nm.: passiflora.ligularis)]" : {maasheroki}
 ! 
 | "[=meantarini][NRoot][=name]" : {meantarini}
 ! 
@@ -3961,9 +3964,14 @@ define NRootPRQin [
 | "[=vantana][NRoot][=anteater.sp. (ES: oso.hormiguero)]" : {vantana}
 ! 
 | "[=vapee][NRoot][=paper]" : {vapee}
-| "[=vari][NRoot][=food]" : {vari}
+! 
+# novarite / ES: 'mi.comida'
+| "[=ovarite+n.m.+inal@ntsi.][NRoot][=food (ES: comida, cena)]" : {ovarite}
+| "[=vari+poss@te.][NRoot][=food]" : {vari}
+! 
 | "[=varipa+m.][NRoot][=chicken]" : {varipa}
 | "[=varipa+m.][NRoot][=rooster]" : {varipa}
+! 
 | "[=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
 ! 
 | "[=veane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {veane}

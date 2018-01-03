@@ -429,6 +429,8 @@ define VRootPRQin [
 | "[=kachaa][VRoot][=to.smoke (ES: humear)]" : {kachaa}
 ! 
 | "[=kacho][VRoot][=to.be.sour (ES: ser.agrio)]" : {kacho} ! =kacho-ri ES: 'agrio', EN: 'sour'; =kacho-atsi ES: 'es agrio', EN: 'it's sour' 
+# nokachokantarori / ES: 'yo.hago.agrio.algo' 
+| "[=kachok][VRoot][=to.be.sour (ES: ser.agrio)]" : {kachok}
 ! 
 | "[=kachoki][VRoot][=to.ferment (ES: fermentar)]" : {kachoki}
 ! 
