@@ -153,6 +153,8 @@ define ORootPRQin [
 # omapero
 | "[=omapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omapero}
 | "[=omaapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omaapero}
+# kyaroa
+| "[=kyaroa+prop@standalone.][VRoot][=WATCH.OUT, BEWARE (ES: ¡cuidado!)]" : {kyaroa} 
 # Copula P5C
 # Negative copula 
 | "[=kaari][VRoot][=NEG.COP (EN: not.be; ES: no.es, no)]" : {kaari}
