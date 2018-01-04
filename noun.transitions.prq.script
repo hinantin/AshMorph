@@ -8,6 +8,8 @@ define N [
 | (N=S=ABS) (N=S=CL) (N=S=CL) 
 | (N=S=ABS) (N=S=DEM) 
 | (N=S=CL) (N=S=CL) (N=S=ABS) 
+# Samacarajanive / samakarahanive / 
+| (N=S=CL) (N=S=CL) (N=S=EXCL) 
 | (N=S=ABS) (N=S=EXCL) 
 | (N=S=ABS) (N=S=PL) 
 | (N=S=ABS) (N=S=LOC) (N=S=DEM) 
