@@ -1597,8 +1597,9 @@ define NRootPRQin [
 ! 
 | "[=koteri][NRoot][=bird.sp. (ES: unchala)]" : {koteri}
 | "[=kotiri][NRoot][=bird.sp. (ES: unchala)]" : {kotiri}
-| "[=koatsere][NRoot][=bird.sp. (ES: unchala)]" : {koatsere}
-| "[=kovachere][NRoot][=bird.sp. (ES: unchala)]" : {kovachere}
+| "[=koatsere][NRoot][=bird.sp. (ES: unchala, huanchala)]" : {koatsere}
+| "[=kovatsere][NRoot][=bird.sp. (ES: unchala, huanchala)]" : {kovatsere}
+| "[=kovachere][NRoot][=bird.sp. (ES: unchala, huanchala)]" : {kovachere}
 | "[=kovacheri][NRoot][=gray-necked.wood.rail, bird.sp. (unchala, sci.nm.: aramides.cajanea)]" : {kovacheri}
 ! 
 | "[=kotzi+n.m.+inal@tsi.][NRoot][=cane, stick (ES: bastón)]" : {kotzi}
