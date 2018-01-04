@@ -1289,8 +1289,8 @@ define VRootPRQin [
 ! 
 # piaantsi / =pi -aantsi / =to.come.back -inf / EN: 'to.come.back'; ES: 'regresar' 
 | "[=piy][VRoot][=to.return, to.come.back (ES: volver, regresar)]" : {piy}
-| "[=piy+prop@redup.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning]" : {piyapiya}
-| "[=piy+prop@redup.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning]" : {piapiya}
+| "[=piy+prop@redup.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piyapiya}
+| "[=piy+prop@redup.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piapiya}
 ! 
 | "[=piyaa][VRoot][=to.empty, to.pour (ES: vaciar)]" : {piyaa}
 ! 
