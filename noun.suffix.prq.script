@@ -597,29 +597,29 @@ define N=S=ADV [
 define N=S=AUG [
 # tenarini / =tena -ri+m. -ni / =to.weigh -adj -aug / ES: 'too.heavy', ES: 'demasiado.pesado' 
 # kasankarini / =kasanka -ri+m. -ni / ES: 'es.muy.perfumada'
-  "[--][-ni][+AUG_INTNS]" : [{ni}] 
+  "[--][-ni][DEGR][+AUG_INTNS]" : [{ni}] 
 # impanekiite / =impaneki -ite / =fine_sand -aug / EN: 'sandy.area', ES: 'arenal'  
 # keshiisatziite / =keshii -satzi-ite / =mountainous_grassland -cl:provenance -aug / EN: 'big.mountainous_grasslander', ES: 'pajonalino'  
 # antearoite / =antearo -ite / =big -aug / EN: 'very.big', ES: 'muy.grande'  
-| "[--][-ite][+AUG]" : [{ite}] 
-| "[--][-i^te][+AUG]" : "@I@"{te} 
+| "[--][-ite][DEGR][+AUG]" : [{ite}] 
+| "[--][-i^te][DEGR][+AUG]" : "@I@"{te} 
 # ishaninkaperori / i- =shani -nka -pero -ri / 3m.poss- =to.be.of.the.same.group -nmz -aug -rel / EN: 'his.true.mate', ES: 'su.verdadero.amigo'  
 # is pero more a verbal augmentive suffix ??? 
-| "[--][-pero][+AUG]" : [{pero}]
+| "[--][-pero][DEGR][+AUG]" : [{pero}]
 ! 
 # keshiimashi / =keshii -mashi / =mountainous_grassland -aug / EN: 'big.mountainous_grassland', ES: 'el.gran.pajonal'  
-| "[--][-mashi][+AUG]" : [{mashi}] 
+| "[--][-mashi][DEGR][+AUG]" : [{mashi}] 
 ! 
 # moratsantsa / =mora -tsantsa / =mule -aug / EN: 'camel, elongated.mule' lit.: 'long.mule', ES: 'camello, mula.larga'  
 # antyaritsantsa / =antyari+m. -tsantsa / =big -aug / EN: 'tall', ES: 'alto'  
 # antyarotsantsa / =antyaro+n.m. -tsantsa / =big -aug / EN: 'elongated', ES: 'alargado'  
-| "[--][-tsantsa][+AUG]" : [{tsantsa}] 
-| "[--][-santsa][+AUG]" : [{santsa}] 
+| "[--][-tsantsa][DEGR][+AUG]" : [{tsantsa}] 
+| "[--][-santsa][DEGR][+AUG]" : [{santsa}] 
 ! 
 # antarosaNte / =antaro -sante / =big -aug / EN: 'wide'; ES: 'ancho'  
 # antearosante eni / =antearo -sante =eni / =big -aug =Ene.river / EN: 'The.Ene.river.is.wide', ES: 'el.río.Ene.es.ancho'  
 # abotsisanteki / avotsisanteki / =abo -tsi -sante -ki / =trail -nposs -aug -loc / EN: 'in.the.path'; ES: 'en.el.sendero'  
-| "[--][-sante][+AUG]" : [{sante}]
+| "[--][-sante][DEGR][+AUG]" : [{sante}]
 ];
                    
 # ****************************************
@@ -697,14 +697,14 @@ define N=S=wide [
 # ****************************************
                    
 define N=S=NMZ [
-  "[--][-nka+quality][+NMZ]" : [{nka}]
-| "[--][-inka+quality][+NMZ]" : [{inka}]
+  "[--][-nka][NS][+NMZ.QLTY]" : [{nka}]
+| "[--][-inka][NS][+NMZ.QLTY]" : [{inka}]
 ! 
 # apakotaro / =apa -kota -ro / =one -cl:piece -nmz / EN: 'one.piece'  
 # parenkawo / parenkavo / =pare -nka -vo / =to.fall -nmz -nmz / EN: 'waterfall'; ES: 'caída.de.agua'  
-| "[--][-ri+m.][+NMZ]" : [{ri}]
-| "[--][-ro+n.m.][+NMZ]" : [{ro}]
-| "[--][-vo+n.m.][+NMZ]" : [{vo}]
+| "[--][-ri+m.][NS][+NMZ]" : [{ri}]
+| "[--][-ro+n.m.][NS][+NMZ]" : [{ro}]
+| "[--][-vo+n.m.][NS][+NMZ]" : [{vo}]
 ];
                    
 # ****************************************
@@ -735,8 +735,8 @@ define N=S=UNK1 [
                    
 define N=S=SUPERL [
 # otsiteninkataki / o- =tsiteni -nka -taki / 3n.m.poss- =to.get.dark -nmz -superl / EN: 'totally.dark'  
-  "[--][-taki][+SUPERL]" : [{taki}]
-| "[--][-tanaki][+SUPERL]" : [{tanaki}]
+  "[--][-taki][DEGR][+SUPERL]" : [{taki}]
+| "[--][-tanaki][DEGR][+SUPERL]" : [{tanaki}]
 ];
                    
 # ****************************************
