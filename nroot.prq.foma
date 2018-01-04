@@ -1563,8 +1563,8 @@ define NRootPRQin [
 # korintona / =korinto -na / =mythological.animal -cl:large,deep.pool.of.water / ES: 'la.quebrada.de.Korinto'; EN: "Korinto's.ravine"  
 | "[=korinto][NRoot][=woman-like.human-eater.big.mythological.animal (ES: piedra.que.come.hombres); elephant]" : {korinto} ! woman like apperance, human eater
 ! 
-| "[=koria+poss@ni.][NRoot][=manioc.worm]" : {koria}
-| "[=korya+poss@ni.][NRoot][=manioc.worm]" : {korya}
+| "[=koria+poss@ni.][NRoot][=manioc.worm (ES: sp.de.gusano)]" : {koria}
+| "[=korya+poss@ni.][NRoot][=manioc.worm (ES: sp.de.gusano)]" : {korya}
 ! 
 | "[=koriari][NRoot][=NP]" : {koriari}
 ! 
@@ -3402,7 +3402,7 @@ define NRootPRQin [
 ! 
 | "[=shitziro+n.m.][NRoot][=tree.sp. (ES: ajo.sacha, sp.de.árbol; QU: ajo.sach'a)]" : {shitziro}
 ! 
-| "[=shichari+m.][NRoot][=worm; ant.sp.]" : {shichari}
+| "[=shichari+m.][NRoot][=worm (ES: lombriz); ant.sp.]" : {shichari}
 ! 
 | "[=shivahaniki][NRoot][=small.Peruvian.anchoveta-fish (ES: anchoveta.pequeña); fish.sp.]" : {shivahaniki}
 ! 
