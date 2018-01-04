@@ -63,7 +63,7 @@ define NRootPRQin [
 ! 
 | "[=aiki+n.m.+inal@ntsi.][NRoot][=tooth (ES: diente)]" : {aiki}
 | "[=aeki+n.m.+inal@ntsi.][NRoot][=tooth (ES: diente)]" : {aeki}
-| "[=ahi+inal@tsi.][NRoot][=tooth (ES: diente)]" : {ahi}
+| "[=ahi+inal@tsi.][NRoot][=tooth (ES: diente, colmillo)]" : {ahi}
 ! 
 | "[=airi+m.+poss@ti.][NRoot][=black.bee.sp. (ES: abeja.negra)]" : {airi} 
 ! 
@@ -1455,7 +1455,7 @@ define NRootPRQin [
 | "[=kitsapi+m.+poss@ti.][NRoot][=needle (ES: aguja)]" : {kitsapi}
 ! 
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
-| "[=kitsoki][NRoot][=egg]" : {kitsoki} ! N@->V
+| "[=kitsoki][NRoot][=egg; seed (ES: semilla)]" : {kitsoki} ! N@->V::[= (ES: sembrar)] 
 ! 
 | "[=koachere][NRoot][=blackish.rail (sci.nm.: pardirallus.nigricans)]" : {koachere}
 ! 
