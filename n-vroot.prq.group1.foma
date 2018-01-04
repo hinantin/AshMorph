@@ -50,7 +50,7 @@ define NounToVerbPRQin [
 | "[=kitamari+m.+sem@color.][NRoot][=white]::[to.be.white]+vbz." : {kitamari} ! N@->V::[to.be.white]
 | "[=kitamaari+m.+sem@color.][NRoot][=white]::[to.be.white]+vbz." : {kitamaari} ! N@->V::[to.be.white]
 | "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo)]::[to.be.yellow (ES: ponerse.amarillento)]+vbz." : {kiteri} ! N@->V::[to.be.yellow (ES: ponerse.amarillento)] 
-| "[=kitsoki][NRoot][=egg]+vbz." : {kitsoki} ! N@->V
+| "[=kitsoki][NRoot][=egg; seed (ES: semilla)]::[= (ES: sembrar)]+vbz." : {kitsoki} ! N@->V::[= (ES: sembrar)] 
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {kooya} ! N@->V
 | "[=koya][NRoot][=woman (from.Quechua.Quya)]+vbz." : {koya} ! N@->V
 | "[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)]+vbz." : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
