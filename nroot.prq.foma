@@ -3065,7 +3065,8 @@ define NRootPRQin [
 ! 
 | "[=sontookinti][NRoot][=cotera.snake]" : {sontookinti}
 ! 
-| "[=samaka][NRoot][=driftwood]" : {samaka}
+| "[=samaka+n.m.][NRoot][=driftwood (ES: madera.flotante, palo.podrido); (ES: tizón, palo.a.medio.quemar)]" : {samaka}
+| "[=samakaa+n.m.][NRoot][=driftwood (ES: madera.flotante, palo.podrido); (ES: tizón, palo.a.medio.quemar)]" : {samakaa}
 ! 
 | "[=sampaa+n.m.][NRoot][=balsa; tree.sp. (ES: sachahuasca)]" : {sampaa}
 ! 
@@ -4167,4 +4168,5 @@ define NRootPRQin [
 
 # @CMP			noun composition 
 # @VCMP			verb composition 
+
 
