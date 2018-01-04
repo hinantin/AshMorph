@@ -1966,6 +1966,8 @@ define NRootPRQin [
 ! 
 | "[=meshina+n.m.+inal@n/tsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {meshina}
 | "[=mishina+n.m.+inal@ntsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {mishina}
+| "[=mishina][NRoot][=skin (ES: piel)]" : {mishina}
+| "[=mishi][NRoot][=skin (ES: piel)]" : {mishi}
 ! 
 | "[=Metaro][NRoot][=village's.name, Flat, rounded.slightly.curved.area]" : {metaro}
 | "[=Metraro][NRoot][=village's.name, rounded.slightly.curved.area]" : {metraro}
@@ -1983,9 +1985,6 @@ define NRootPRQin [
 | "[=miriti+m.][NRoot][=orphan (ES: huérfano)]" : {miriti}
 | "[=miritzi+m.][NRoot][=orphan (ES: huérfano)]" : {miritzi}
 | "[=mirito+n.m.][NRoot][=orphan (ES: huérfana)]" : {mirito}
-! 
-| "[=mishina][NRoot][=skin (ES: piel)]" : {mishina}
-| "[=mishi][NRoot][=skin (ES: piel)]" : {mishi}
 ! 
 | "[=meta+n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {meta}
 | "[=mita+n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {mita}
