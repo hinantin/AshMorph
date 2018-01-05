@@ -22,9 +22,9 @@ define NounToVerbPRQin [
 | "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz." : {chenko} ! N@->V
 | "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz." : {tsenko} ! N@->V
 | "[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]+vbz." : {chetaki} ! N@->V::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]
-| "[=eentsi+n./m.+poss@te.][NRoot][=child]::[=to.be.a.child (ES: ser.un.niño)]+vbz." : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
-| "[=iintsi+n./m.][NRoot][=child]::[=to.be.a.child (ES: ser.un.niño)]+vbz." : {iintsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
-| "[=entsi+n./m.+poss@te.][NRoot][=child]::[=to.be.a.child (ES: ser.un.niño)]+vbz." : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
+| "[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]::[=to.be.a.child (ES: ser.un.niño)]+vbz." : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
+| "[=iintsi+n./m.][NRoot][=child (ES: niño)]::[=to.be.a.child (ES: ser.un.niño)]+vbz." : {iintsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
+| "[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]::[=to.be.a.child (ES: ser.un.niño)]+vbz." : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=evankari+m.][NRoot][=young.man, adolescent]+vbz." : {evankari} ! N@->V
 | "[=hempeki][NRoot][=arm (ES: brazo)]::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]+vbz." : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]
 | "[=horio+m.][NRoot][=jewish]+vbz." : {horio} ! N@->V
