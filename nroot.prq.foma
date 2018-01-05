@@ -752,13 +752,13 @@ define NRootPRQin [
 # location - spatial adverbs
 # -----------------------------------------------------
 ! 
-| "[=intyatzini+loc.][NRoot][=other.side]" : {intyatzini}
-| "[=intatikiro+loc.][NRoot][=other.side]" : {intatikiro}
+| "[=intyatzini+sem@loc.][NRoot][=other.side]" : {intyatzini}
+| "[=intatikiro+sem@loc.][NRoot][=other.side]" : {intatikiro}
 ! 
-| "[=intaina+loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {intaina} ! N@->V ! revise if it belongs to this file 
-| "[=intaena+loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {intaena} ! N@->V ! revise if it belongs to this file 
-| "[=inteena+loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {inteena} ! N@->V ! revise if it belongs to this file 
-| "[=okaakini+loc.][AdvRoot][=in.close.proximity, closeby]" : {okaakini}
+| "[=intaina+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {intaina} ! N@->V ! revise if it belongs to this file 
+| "[=intaena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {intaena} ! N@->V ! revise if it belongs to this file 
+| "[=inteena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {inteena} ! N@->V ! revise if it belongs to this file 
+| "[=okaakini+sem@loc.][AdvRoot][=in.close.proximity, closeby]" : {okaakini}
 ! 
 | "[=intakiro][AdvRoot][=outside]" : {intakiro}
 | "[=intakironta][AdvRoot][=outside]" : {intakironta}
@@ -3670,11 +3670,11 @@ define NRootPRQin [
 ! palm species
 | "[=toniro+n.m.+poss@ti:te.][NRoot][=palm.tree.sp. (ES: aguaje; sci.nm.: mauritia.flexuosa)]" : {toniro}
 !
-| "[=tonkari+loc.][NRoot][=hill.top,above]" : {tonkari}
-| "[=tonkaari+loc.][NRoot][=hill.top,above]" : {tonkaari}
+| "[=tonkari+sem@loc.][NRoot][=hill.top,above]" : {tonkari}
+| "[=tonkaari+sem@loc.][NRoot][=hill.top,above]" : {tonkaari}
 ! 
-| "[=tonkariki+loc.][NRoot][=top.of.the.hill]" : {tonkariki}
-| "[=otapiki+loc.][NRoot][=bottom.of.the.hill]" : {otapiki}
+| "[=tonkariki+sem@loc.][NRoot][=top.of.the.hill]" : {tonkariki}
+| "[=otapiki+sem@loc.][NRoot][=bottom.of.the.hill]" : {otapiki}
 ! 
 | "[=tonki+n.m.+inal@tsi.][NRoot][=bone (ES: hueso)]" : {tonki}
 | "[=tõki+n.m.+inal@tsi.][NRoot][=bone (ES: hueso)]" : {tõki}
@@ -4083,8 +4083,8 @@ define NRootPRQin [
 # Yorowa / Yorova / 
 | "[=Yorova][NRoot][=NP (ES: Yurúa)]" : {yorova}
 ! word set:
-| "[niyanki+loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {niyanki}
-| "[nianki+loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {nianki}
+| "[niyanki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {niyanki}
+| "[nianki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {nianki} ! N@->V::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)] 
 | "[=kashetani][NRoot][=half (ES: mitad); piece (ES: pedazo)]" : {kashetani}
 | "[=sheta+n.m.+inal@tsi.][NRoot][=half (ES: mitad); part (ES: part)]" : {sheta}
 ! word set: medicinal plants
