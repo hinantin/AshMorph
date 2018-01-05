@@ -1482,6 +1482,7 @@ define VRootPRQin [
 | "[=shet][VRoot][=to.clean]" : {shet}
 ! 
 | "[=sheva][VRoot][=to.move (ES: mover)]" : {sheva}
+| "[=sheva+prop@redup.][VRoot][=to.move (ES: mover)]::[=moving]" : {shevasheva}
 ! 
 | "[=shima][VRoot][=to.fish; to.catch.fish]" : {shima}
 ! 
