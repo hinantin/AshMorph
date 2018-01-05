@@ -1,4 +1,8 @@
+# -----------------------------------------------
+# About "Nominal roots" in the Ashaninka language 
+# -----------------------------------------------
 # Nouns are transnumeral, i.e., (grammar) ambiguous as to whether it refers to one thing (singular) or more than one (dual or plural). 
+# Although the language possesses a plural suffix (-paye) a nominal root without it, could still be referring to more than one entity. 
 
 define NRootPRQin [
   "[=afuu][NRoot][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {afuu} 
@@ -1997,6 +2001,7 @@ define NRootPRQin [
 | "[=mitzi+inal@tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzi}
 | "[=mitzikaa+inal@n/tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzikaa}
 | "[=mitzikara+inal@ntsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzikara}
+| "[=mititsa][NRoot][=spine (ES: columna)]" : {mititsa}
 ! 
 | "[=mitziki][NRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
 ! 
