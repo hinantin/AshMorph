@@ -9,7 +9,7 @@ define VRootPRQin [
 | "[=a][VRoot][=to.choose]" : {a}
 | "[=a][VRoot][=to.pick]" : {a}
 ! 
-| "[=aa][VRoot][=to.perch; to.land, to.disembark]" : {aa}
+| "[=aa][VRoot][=to.perch; to.land, to.disembark; to.dock (ES: atracar)]" : {aa}
 ! 
 # aaha~ / =aa -ha ~ / =to.take -cl:liquid ~ / EN: 'to.reduce.river_flow'  
 | "[=aaha][VRoot][=to.reduce.the.river_flow (ES: bajar/mermar.el.agua.del.río)]" : {aaha} 
