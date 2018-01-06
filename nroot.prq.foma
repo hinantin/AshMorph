@@ -71,11 +71,11 @@ define NRootPRQin [
 ! 
 | "[=airi+m.+poss@ti.][NRoot][=black.bee.sp. (ES: abeja.negra)]" : {airi} 
 ! 
-| "[=aiyo][NRoot][=mother.in.law (kin.of.female, fem.ego)]" : {aiyo}
+| "[=aiyo][NRoot][=mother.in.law (kin.of.a.female, fem.ego)]" : {aiyo}
 | "[=ayiini+n.m.+voc@N.][NRoot][=mother.in.law (ES: suegra)]" : {ayiini} !  
 | "[=ayiro+inal@ntsi.+voc@N:1SG.][NRoot][=mother.in.law (ES: suegra)]" : {ayiro} ! +N +1SG 
 ! 
-| "[=aniyo+n.m.][NRoot][=daughter.in.law (kin.of.male, male.ego)]" : {aniyo}
+| "[=aniyo+n.m.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {aniyo}
 ! 
 | "[=anatzirori][NRoot][=raw (ES: crudo)]" : {anatzirori}
 ! 
@@ -97,7 +97,7 @@ define NRootPRQin [
 | "[=ayo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {ayo} 
 | "[=ayini+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayini} 
 | "[=ayiini+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayiini} 
-| "[=natoto+voc@1SG,2SG,3SG.][NRoot][=sister.in.law (kin.of.female)]" : {natoto}
+| "[=natoto+voc@1SG,2SG,3SG.][NRoot][=sister.in.law (kin.of.a.female)]" : {natoto}
 ! 
 | "[=ayoori][NRoot][=casqued.oropendola (sci.nm.: clypicterus.oservi)]" : {ayoori} 
 ! 
@@ -2155,8 +2155,8 @@ define NRootPRQin [
 | "[=tzineri+m.+voc.][NRoot][=son.in.law; nephew]" : {tzineri}
 | "[=tsiniri+m.+voc.][NRoot][=son.in.law; nephew]" : {tsiniri}
 ! 
-| "[=tzineri][NRoot][=brother/sister's.son (kin.of.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tzineri} 
-| "[=tsineri][NRoot][=brother/sister's.son (kin.of.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tsineri} 
+| "[=tzineri][NRoot][=brother/sister's.son (kin.of.a.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tzineri} 
+| "[=tsineri][NRoot][=brother/sister's.son (kin.of.a.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tsineri} 
 ! 
 | "[=tzineri+m.][NRoot][=daughter's.husband (ES: yerno, esposo.de.la.hija)]" : {tzineri} 
 | "[=tsineri+m.][NRoot][=daughter's.husband (ES: yerno, esposo.de.la.hija)]" : {tsineri} 
@@ -3338,9 +3338,9 @@ define NRootPRQin [
 | "[=shintaki][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintaki}
 | "[=shintake][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintake}
 ! 
-| "[=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.of.fe/male)]" : {shinto}
-| "[=ishinto+n.m.][NRoot][=daughter (kin.of.fe/male)]" : {ishinto} # nishinto, revise inal.??
-| "[=ishintyo+n.m.][NRoot][=daughter (kin.of.fe/male)]" : {ishintyo} # nishintyo, revise inal.??
+| "[=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.of.a.fe/male)]" : {shinto}
+| "[=ishinto+n.m.][NRoot][=daughter (kin.of.a.fe/male)]" : {ishinto} # nishinto, revise inal.??
+| "[=ishintyo+n.m.][NRoot][=daughter (kin.of.a.fe/male)]" : {ishintyo} # nishintyo, revise inal.??
 ! 
 | "[=shintsipaa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintsipaa}
 | "[=shintzipa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintzipa}
@@ -3638,10 +3638,10 @@ define NRootPRQin [
 | "[=tokori+poss@ti.][NRoot][=armadillo.sp.]" : {tokori}
 | "[=tyokori+poss@ti.][NRoot][=armadillo.sp.]" : {tyokori}
 ! 
-| "[=tomi+m.+inal@tsi.][NRoot][=son (kin.of.fe/male)]" : {tomi} ! N@->V 
-| "[=toomi+m.+inal@tsi.][NRoot][=son (kin.of.male)]" : {toomi}
-| "[=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.male)]" : {tyomi}
-| "[=tiomi+m.+inal@tsi.][NRoot][=son (kin.of.male)]" : {tiomi}
+| "[=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]" : {tomi} ! N@->V 
+| "[=toomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {toomi}
+| "[=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {tyomi}
+| "[=tiomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {tiomi}
 ! 
 | "[=Tyoviri][NRoot][=proper.name]" : {tyoviri}
 ! 
