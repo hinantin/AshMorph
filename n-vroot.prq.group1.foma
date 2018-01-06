@@ -100,7 +100,7 @@ define NounToVerbPRQin [
 | "[=tsinane+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tsinane} ! N@->V
 | "[=tzinani+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tzinani} ! N@->V
 | "[=tsinãni+n.m.][NRoot][=female, woman; young.girl]+vbz." : {tsinãni} ! N@->V
-| "[=tsitene][NRoot][=night (ES: noche)]::[=to.get.dark (ES: oscurecer, nochecer)]+vbz." : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, nochecer)] 
+| "[=tsitene][NRoot][=night (ES: noche)]::[=to.get.dark (ES: oscurecer, anochecer)]+vbz." : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, anochecer)] 
 | "[=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)]+vbz." : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
 | "[=tsome+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)]+vbz." : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]::[=to.be.pregnant (ES: estar.embarazada)]+vbz." : {tsomonte} ! N@->V::[=to.be.pregnant (ES: estar.embarazada)] 
