@@ -1537,6 +1537,8 @@ define NRootPRQin [
 | "[=kontya+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {kontya} ! @CMP 
 | "[=akonta][NRoot][=heel]" : {akonta}
 ! 
+| "[=kontona][NRoot][=partridge.sp. (ES: sp.de.perdiz)]" : {kontona}
+! 
 | "[=kontsavo][NRoot][=ruddy.quail-dove (ES: perdiz.pequeña; sci.nm.: geotrygon.montana)]" : {kontsavo}
 | "[=kontsaro][NRoot][=ruddy.quail-dove (ES: perdiz.pequeña; sci.nm.: geotrygon.montana)]" : {kontsaro}
 ! 
@@ -2499,8 +2501,8 @@ define NRootPRQin [
 | "[=patsitaroki][NRoot][=tree.bark]" : {patsitaroki}
 | "[=paukartambo][NRoot][=river's.name]" : {paukartambo}
 ! 
-| "[=patsiri][NRoot][=partridge.sp. (sci.nm.: crypturellus.tataupa)]" : {patsiri}
-| "[=pachiri][NRoot][=partridge.sp. (sci.nm.: crypturellus.tataupa)]" : {pachiri}
+| "[=patsiri][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa)]" : {patsiri}
+| "[=pachiri][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa)]" : {pachiri}
 ! 
 | "[=pava+m.+poss@ni.][NRoot][=solar.deity, god (ES: dios), creator (PT: Deus.solar); dad, father]" : {pava}
 ! 
@@ -2608,7 +2610,7 @@ define NRootPRQin [
 | "[=pairi+m.][NRoot][=very_small-size.suri-fish.sp.]" : {pairi}
 | "[=pairi+m.][NRoot][=piranha.sp. (Cohengua.community)]" : {pairi}
 ! 
-| "[=peshi+inal@tsi.][NRoot][=shoot (ES: retoño)]" : {peshi} ! @CMP 
+| "[=peshi+n.m.+inal@tsi.][NRoot][=shoot (ES: retoño)]" : {peshi} ! @CMP 
 ! 
 | "[=piichotzi][NRoot][=paradise.tanager (sci.nm.: tangara.chilensis)]" : {piichotzi}
 ! 
