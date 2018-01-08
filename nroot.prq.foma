@@ -1072,13 +1072,13 @@ define NRootPRQin [
 | "[=kamarankaa+inal@ntsi.][NRoot][=vomit (ES: vómito)]" : {kamarankaa} 
 | "[=kamaranka+inal@ntsi.][NRoot][=vomit (ES: vómito)]" : {kamaranka} 
 ! 
-| "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampi}
-| "[=kamarampe+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamarampe}
-| "[=kamarãpi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits (PT: )]" : {kamarãpi}
-| "[=kamarãpe+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits (PT: )]" : {kamarãpe}
-| "[=kamaraNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamaranvi}
-| "[=kamaNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kamanvi}
-| "[=kananerotsa][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits]" : {kananerotsa}
+| "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits; psychoactive.drug]" : {kamarampi}
+| "[=kamarampe+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits; psychoactive.drug]" : {kamarampe}
+| "[=kamarãpi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits (PT: ); psychoactive.drug]" : {kamarãpi}
+| "[=kamarãpe+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits (PT: ); psychoactive.drug]" : {kamarãpe}
+| "[=kamaraNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits; psychoactive.drug]" : {kamaranvi}
+| "[=kamaNvi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits; psychoactive.drug]" : {kamanvi}
+| "[=kananerotsa][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha); hallucinogenic.drug.taken.by.shamans.to.contact.spirits; psychoactive.drug]" : {kananerotsa}
 ! 
 | "[=kamarasanori][NRoot][=cream.color]" : {kamarasanori}
 ! 
@@ -3140,9 +3140,9 @@ define NRootPRQin [
 | "[=savo+n.m.][NRoot][=granddaughter (kin.of.a.female)]" : {savo}
 # -------------------------------------------------------------------------------------------------
 ! 
-| "[=saro][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.)]" : {saro}
-| "[=saaro][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.)]" : {saaro}
-| "[=haaapa][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.)]" : {haaapa}
+| "[=saro][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saro}
+| "[=saaro][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saaro}
+| "[=haaapa][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {haaapa}
 ! 
 | "[=saserote][NRoot][=priest]" : {saserote}
 ! 
@@ -3285,12 +3285,12 @@ define NRootPRQin [
 ! 
 | "[=shiirintzi][NRoot][=undulated.tinamou (sci.nm.: crypturellus.undulatus)]" : {shiirintzi}
 ! 
-| "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {shiri} ! N@->V
-| "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {sheri} ! N@->V
-| "[=shere+n.m.+poss@ni.+voc@1SG.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {shere}
-| "[=seri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum)]" : {seri} ! N@->V
-| "[=pocharo+n.m.][NRoot][=tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum)]" : {pocharo} 
-| "[=pochari][NRoot][=tobacco.syrup (it.is.made.from.boiled.tobacco.leaves)]" : {pochari} 
+| "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {shiri} ! N@->V
+| "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {sheri} ! N@->V
+| "[=shere+n.m.+poss@ni.+voc@1SG.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {shere}
+| "[=seri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {seri} ! N@->V
+| "[=pocharo+n.m.][NRoot][=tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {pocharo} 
+| "[=pochari][NRoot][=tobacco.syrup (it.is.made.from.boiled.tobacco.leaves); psychoactive.drug]" : {pochari} 
 !
 | "[=shiro+m.][NRoot][=grey.dove.sp.; white.dove.sp.]" : {shiro}
 ! 
