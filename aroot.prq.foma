@@ -7,8 +7,8 @@ define ARootPRQin [
 
 | "[=antaro+n.m.][AdjRoot][=big; mature]" : {antaro} ! N@->V
 | "[=antavo+n.m.][AdjRoot][=big; mature]" : {antavo} ! N@->V
-| "[=antaro+n.m.][AdjRoot][=big; mature]" : {antaro} ! N@->V
-| "[=antearo+n.m.][AdjRoot][=big; mature]" : {antearo} ! N@->V::[=to.reach.a.climax]
+| "[=antaro+n.m.][AdjRoot][=big; mature]" : {antaro} ! N@->V::[=to.be.big] 
+| "[=antearo+n.m.][AdjRoot][=big; mature]" : {antearo} ! N@->V::[=to.reach.a.climax] 
 | "[=antyaro+n.m.][AdjRoot][=big; mature]" : {antyaro} ! N@->V
 # -----------------------------------------------
 # small

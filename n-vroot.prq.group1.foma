@@ -123,8 +123,8 @@ define NounToVerbPRQin [
 | "[=antiari+m.][AdjRoot][=big; mature]+vbz." : {antiari} ! N@->V
 | "[=antaro+n.m.][AdjRoot][=big; mature]+vbz." : {antaro} ! N@->V
 | "[=antavo+n.m.][AdjRoot][=big; mature]+vbz." : {antavo} ! N@->V
-| "[=antaro+n.m.][AdjRoot][=big; mature]+vbz." : {antaro} ! N@->V
-| "[=antearo+n.m.][AdjRoot][=big; mature]::[=to.reach.a.climax]+vbz." : {antearo} ! N@->V::[=to.reach.a.climax]
+| "[=antaro+n.m.][AdjRoot][=big; mature]::[=to.be.big]+vbz." : {antaro} ! N@->V::[=to.be.big] 
+| "[=antearo+n.m.][AdjRoot][=big; mature]::[=to.reach.a.climax]+vbz." : {antearo} ! N@->V::[=to.reach.a.climax] 
 | "[=antyaro+n.m.][AdjRoot][=big; mature]+vbz." : {antyaro} ! N@->V
 | "[=kenkivari+m.][AdjRoot][=old]::[=to.get.old (male.ego; ES: envejecer)]+vbz." : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
 | "[=kenkevari+m.][AdjRoot][=old]+vbz." : {kenkevari} ! N@->V

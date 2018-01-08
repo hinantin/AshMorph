@@ -261,4 +261,7 @@ define ConnRootPRQ01in [
 | "[=ovakira][ConnRoot][=CONN (EN: when)][--][-ini][AS][+ADV]::[=recently]" : {ovakiraini}
 | "[=ovakera][ConnRoot][=CONN (EN: when)][--][-ini][AS][+ADV]::[=recently]" : {ovakeraini}
 | "[=ovakera][ConnRoot][=CONN (EN: when)][--][-ni][DEGR][+AUG][=truly]" : {ovakerani}
+| "[=ovakerari][NRoot][=new, recent]" : {ovakerari} 
+| "[=ovakeratatsiri][NRoot][=new]" : {ovakeratatsiri}
+
 ];

@@ -645,6 +645,8 @@ define S [
 | (CAUSSOC) (DUR) (IMPP) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
 # iquisaneentavaitaitziri / ikisaneentavaitaitziri  
 | (SENSORY) (DUR) (IMPP) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
+# antaronintayetanake.
+| (SENSORY) (DIST) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
 ];
 
 
