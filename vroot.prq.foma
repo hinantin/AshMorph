@@ -1196,15 +1196,16 @@ define VRootPRQin [
 ! 
 | "[=pari][VRoot][=to.fall (ES: caer)]" : {pari}
 | "[=paria][VRoot][=to.fall (ES: caer)]" : {paria}
-| "[=pary][VRoot][=to.fall]" : {pary}
-| "[=vary][VRoot][=to.make.fall]" : {vary}
+| "[=pary][VRoot][=to.fall (ES: caer)]" : {pary}
 ! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
-| "[=pariy][VRoot][=to.fall]" : {pariy}
+| "[=pariy][VRoot][=to.fall (ES: caer)]" : {pariy}
 | "[=pare][VRoot][=to.fall (ES: caer)]" : {pare}
-| "[=pariy+prop@redup.][VRoot][=to.fall (ES: caer)]" : {paryaaparyaa}
+| "[=pariy+prop@redup.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {paryaaparyaa}
 ! 
 ! v- =pari / 
 | "[=vari][VRoot][=to.knock.down (ES: hacer.caer, derribar)]" : {vari}
+| "[=vary][VRoot][=to.make.sb/sth.fall]" : {vary}
+| "[ov=][AGT.CAUS+][--][=pary][VRoot][=to.fall (ES: caer)]::[=to.make.sb/sth.fall]" : {ovary}
 ! 
 | "[=pas][VRoot][=to.crush]" : {pas}
 | "[=pasa][VRoot][=to.punish; to.hit]" : {pasa}
