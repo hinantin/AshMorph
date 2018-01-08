@@ -205,9 +205,9 @@ define NRootPRQin [
 | "[=ashooshi][NRoot][=armadillo]" : {ashooshi}
 | "[=asorina][NRoot][=cheek]" : {asorina}
 ! person, individual, human
-| "[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! N@->V @VCMP
-| "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atiri} ! N@->V @VCMP
-| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atsiri} ! N@->V @VCMP
+| "[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
 ! 
 | "[=atsityopi][NRoot][=mythical.armadillo/anaconda-like.creature]" : {atsityopi}
 | "[=atsityopini+m.][NRoot][=mythical.armadillo/anaconda-like.creature (ES: dueño.del.río)]" : {atsityopini}

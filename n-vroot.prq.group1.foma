@@ -11,9 +11,9 @@ define NounToVerbPRQin [
 | "[=amani+n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)]+vbz." : {amani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=antami][NRoot][=woods, forest; dense.tropical.forest]+vbz." : {antami} ! N@->V
 | "[=ãtame][NRoot][=woods, forest; dense.tropical.forest]+vbz." : {ãtame} ! N@->V
-| "[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]+vbz." : {atziri} ! N@->V @VCMP
-| "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]+vbz." : {atiri} ! N@->V @VCMP
-| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]+vbz." : {atsiri} ! N@->V @VCMP
+| "[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=avo+n.m.+inal@tsi.][NRoot][=road, trail]::[=to.make.a.road (ES: hacer.una.senda)]+vbz." : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)]
 | "[=chakopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charine} ! N@->V
