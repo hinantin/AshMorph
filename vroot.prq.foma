@@ -1362,8 +1362,8 @@ define VRootPRQin [
 | "[=pos][VRoot][=to.hit, to.beat, to.crash]" : {pos}
 | "[=posh][VRoot][=to.hit]" : {posh}
 ! 
-| "[=posa][VRoot][=to.cook; to.roast]" : {posa}
-| "[=poha][VRoot][=to.roast]" : {poha}
+| "[=posa][VRoot][=to.cook; to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {posa}
+| "[=poha][VRoot][=to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {poha}
 ! 
 | "[=poh][VRoot][=to.hit (ES: golpear)]" : {poh}
 ! 
