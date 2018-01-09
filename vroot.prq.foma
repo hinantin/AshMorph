@@ -1240,6 +1240,7 @@ define VRootPRQin [
 ! 
 | "[=pea][VRoot][=to.get.lost; to.lose (ES: perder)]" : {pea}
 | "[=pia][VRoot][=to.get.lost; to.lose (ES: perder)]" : {pia}
+| "[=pi][VRoot][=to.lose (ES: perder)]" : {pi}
 | "[=pey][VRoot][=to.get.lost; to.lose (ES: perder); to.disappear (ES: desaparecer)]" : {pey}
 | "[=piy][VRoot][=to.get.lost; to.lose (ES: perder); to.disappear (ES: desaparecer)]" : {piy}
 ! 
@@ -1254,8 +1255,6 @@ define VRootPRQin [
 | "[=pes][VRoot][=to.hack.with.a.machete]" : {pes}
 | "[=pis][VRoot][=to.hack.with.a.machete]" : {pis}
 | "[=pih][VRoot][=to.hack.with.a.machete]" : {pih}
-! 
-| "[=pi][VRoot][=to.lose]" : {pi}
 ! 
 | "[=pich][VRoot][=to.grind.sth., to.get.softer, to.crush.sth.]" : {pich}
 | "[=picha][VRoot][=to.crush.sth.]" : {picha}
