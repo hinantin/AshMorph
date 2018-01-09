@@ -443,7 +443,7 @@ define S [
 | (FRUS) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (DUR) STATUS 
 | (APPLINT) STATUS 
-| STATUS (CAUSSOC) (PRF) (PRNO) 
+#| STATUS (CAUSSOC) (PRF) (PRNO) ! revise!!!
 | (PRF) (APPLREAS) STATUS (V=S=REL) (V=S=Q) 
 | (SEMEL) STATUS (V=S=REL) (V=S=Q) 
 | (PRF) STATUS (PRNO) (ADV) 
@@ -545,7 +545,7 @@ define S [
 | STATUS (ADV) 
 | STATUS (V=S=Q) 
 | STATUS (PRNO) (V=S=RELIRR) (ADV) 
-| STATUS (CAUSSOC) (PRF) (PRNO) 
+#| STATUS (CAUSSOC) (PRF) (PRNO) ! revise!!!
 | (PL) STAT (V=S=REL) (V=S=Q) 
 | (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 

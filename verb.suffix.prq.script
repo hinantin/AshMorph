@@ -254,7 +254,7 @@ define DUR [ [EP V=S=DUR]|[V=S=DUR] ];
 # adverbializer: subordinating conjunction that links a subordinate clause to a main clause, and
 # indicates that the subordinate clause has an "adverbial" or interpropositional relation to the main clause, indicating
 # purpose, condition, time, and location. (SIL) 
-define V=S=ADV [
+define V=S=ADV=SET1 [
   "[--][-ka+proximal.loc.][+ADV]" : "@EP"[{ka}] 
 | "[--][-ra+medial.loc.][+ADV]" : "@EP"[{ra}] 
 | "[--][-nta+distal.loc.][+ADV]" : "@EP"[{nta}] 
@@ -266,7 +266,7 @@ define V=S=ADV [
 | "[--][-eni][AS][+ADV]" : "@EP"[{eni}] 
 ];
                    
-define ADV [ [EP V=S=ADV]|[V=S=ADV] ];
+define ADV [V=S=ADV=SET1];
                    
 # ****************************************
                    
@@ -296,7 +296,8 @@ define V=S=APPR [
 # omitsitsiyimikari / o- =mitsitsiy -i -mi -kari / 3n.m.s- = / ES: 'para.que.no.te.hundas'  
 # *) pintzinai, anankorimikari shenotsi / pi- N- =tzin -a -i *** =anankori -mi -kari *** =shenotsi / 2s- irr- =to.rise -term -irr *** =to.cross -2sg.o -appr *** =goiter  
 #    EN: 'get up! lest you cross the goiter'; ES: 'levántate, sino te va a cruzar la mamá del bocio' 
-  "[--][-kari][MODAL][+APPR][=lest (in.order.to.prevent)]" : [{kari}]
+# *) Pipiakari / pi- =pi -a -kari / 2s- =to.lose -irr -appr / ES: '¡cuidado!, te.vas.a.perder'
+  "[--][-kari][MODAL][+APPR][=lest (in.order.to.prevent; ES: ¡cuidado!)]" : [{kari}]
 ];
                    
 # ****************************************
