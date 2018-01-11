@@ -74,6 +74,8 @@ define AdvRootPRQin [
 | "[=osamani][AdvRoot][=a.while]" : {osamani}
 | "[=osamani][AdvRoot][=a.while.ago]" : {osamani}
 ! 
+| "[=osamani][AdvRoot][=far.away (ES: lejos)]" : {osamani}
+! 
 | "[=ovakera][AdvRoot][=recently]" : {ovakera}
 | "[=ovakera][AdvRoot][=ago]" : {ovakera}
 | "[=ovakerari][AdvRoot][=new, recent]" : {ovakerari}
