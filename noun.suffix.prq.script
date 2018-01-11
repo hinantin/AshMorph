@@ -698,8 +698,10 @@ define N=S=wide [
 # ****************************************
                    
 define N=S=NMZ [
-  "[--][-nka][NS][+NMZ.QLTY]" : [{nka}]
-| "[--][-inka][NS][+NMZ.QLTY]" : [{inka}]
+# -nka~-inka it is probably used to form abstract nouns from verbs ! check!!!
+# shintsinka 'strength', sheninka 'sameness'  
+  "[--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]" : [{nka}]
+| "[--][-inka][NS][+NMZ.QLTY][=abstract.qlty.noun]" : [{inka}]
 ! 
 # apakotaro / =apa -kota -ro / =one -cl:piece -nmz / EN: 'one.piece'  
 # parenkawo / parenkavo / =pare -nka -vo / =to.fall -nmz -nmz / EN: 'waterfall'; ES: 'caída.de.agua'  
