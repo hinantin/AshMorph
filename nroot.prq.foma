@@ -2045,8 +2045,8 @@ define NRootPRQin [
 # antaro omotonkanive / =antaro o- =motonka -ni -ve / 
 # omoitonkapaye / omoitonkapaye / 
 | "[=motonka+poss@ni:ne.][NRoot][=whirlpool (ES: remolino)]" : {motonka}
-| "[=moitonka+poss@ne:re.][NRoot][=whirlpool (ES: remolino)]" : {moitonka}
-| "[=moetonka+poss@re.][NRoot][=whirlpool (ES: remolino)]" : {moetonka}
+| "[=moitonka+poss@ne:re.][NRoot][=whirlpool (ES: remolino); wave (ES: ola)]" : {moitonka}
+| "[=moetonka+poss@re.][NRoot][=whirlpool (ES: remolino); wave (ES: ola)]" : {moetonka}
 ! 
 # tsinaro motsitsi / =tsinaro =motsi -tsi / =cricket =belly -nposs / EN: 'big_belly/paunchy.cricket', ES/QU: 'grillo.buchesapa'
 | "[=motsi+n.m.+inal@tsi.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motsi}
