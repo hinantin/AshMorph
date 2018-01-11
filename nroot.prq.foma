@@ -3579,7 +3579,7 @@ define NRootPRQin [
 # osampana / o- =sampa -na / 3n.m.poss- =to.dry.in.the.sun -cl:large,deep.pool.of.water / ES: ''   
 | "[=sampana][NRoot][=large,deep,still.water_pool.connected.to.the.river/stream]" : {sampana}
 # oshincha / o- =shinch~shintsi -a / 3n.m.poss- =to.be.strong -cl:liquid / EN: 'river.current'  
-| "[=shincha][NRoot][=river.current]" : {shincha}
+| "[=shincha+n.m.][NRoot][=(river).current (ES: corriente.(del.río))]" : {shincha} ! N@->V 
 # omorona / o- =moro -na / EN: 'long,hollow.hole' 
 # ------------------------------------------------
 ! 
