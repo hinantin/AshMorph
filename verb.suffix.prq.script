@@ -1065,9 +1065,10 @@ define UNK1 [ [EP V=S=UNK1]|[V=S=UNK1] ];
 # ****************************************
                    
 # Delimitative 
+# Delimitative aspect suffix 
 define V=S=DLMT [
-  "[--][-vintsa][+DLMT][=for.a.short.time]" : "@EP"[{vintsa}] 
-| "[--][-mintsa][+DLMT][=for.a.short.time]" : "@EP"[{mintsa}] 
+  "[--][-vintsa][Asp][+DLMT][=for.a.short.time]" : "@EP"[{vintsa}] 
+| "[--][-mintsa][Asp][+DLMT][=for.a.short.time]" : "@EP"[{mintsa}] 
 ];
                    
 define DLMT [ [EP V=S=DLMT]|[V=S=DLMT] ];
