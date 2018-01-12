@@ -80,6 +80,7 @@ define NegPRQin [
 | "[=tekera][Neg][=yet; not.yet; before]" : {tekera}
 | "[=tikira][Neg][=yet; not.yet; before]" : {tikira}
 | "[=tekira][Neg][=yet; not.yet (ES: todavía.no); before][--][-ta][+OPT]" : {tekirata}
+| "[=tekera][Neg][=yet; not.yet; before][--][-mintsa][+DLMT]" : {tekeramintsa}
 ! 
 | "[=te][Neg][=NEG.REAL][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (no-futuro, realis))]" : {tera}
 | "[=eero][Neg][=NEG.IRR][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (futuro, irrealis))" : {eerora}

@@ -577,7 +577,7 @@ define S [
 # oriavintsaiteta /  
 | (DLMT) (CMPL) STATUS 
 # 
-| (DLMT) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (DLMT) (ICPL) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
 | (REGR) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
