@@ -200,6 +200,8 @@ TZEpenthesisRule8
                                                                             # COMPOUNDS vatsapori (in our lexicon) -> vatsa@PHONPROC@pori -> vatsa@PHONPROC@vori -> vatsavori
                                                                             # aporoni 
       define PWLenitionRule4 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{e}] _ [{i}|{o}|{a}] ]; 
+      
+      define PWLenitionRule5 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{pi}] _ [{i}] ]; 
 
       define KJLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || _ [{o}|{a}|{e}|{i}] ]; 
                                                                             # optional rule: noyokani, ikentsike  
