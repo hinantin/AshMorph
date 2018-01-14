@@ -224,7 +224,7 @@ define ConnRootPRQ01in [
 ! hatzi 
   "[=aihatzi][ConnRoot][=also]" : {aihatzi}
 | "[=ahatzi][ConnRoot][=also]" : {ahatzi}
-| "[=aahatzi][ConnRoot][=also]" : {aahatzi}
+| "[=aahatzi][ConnRoot][=also (ES: también)]" : {aahatzi}
 | "[=eehatzi][ConnRoot][=also, and]" : {eehatzi}
 | "[=iihatzi][ConnRoot][=also]" : {iihatzi}
 | "[=roohatzi][ConnRoot][=also]" : {roohatzi}
