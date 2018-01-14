@@ -649,6 +649,9 @@ define S [
 | (SENSORY) (DUR) (IMPP) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
 # antaronintayetanake.
 | (SENSORY) (DIST) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
+
+# ishirikashitantyaabori
+| (APPLINT) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
 ];
 
 
