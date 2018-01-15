@@ -102,10 +102,23 @@ define ORootPRQin [
 | "[=rootaki][ConnRoot][=that's.why (ES: por.eso.es)]" : {rootaki}
 | "[=irootaki][ConnRoot][=that's.why (ES: por.eso.es)]" : {irootaki}
 ! 
-| "[=ha][OtherRoot][=aha]" : {ha}
-! 
+# ----------------------------------------
+# Validation response 
+# ----------------------------------------
 | "[=he][OtherRoot][=yes (ES: sí)]" : {he}
 | "[=hee][OtherRoot][=yes (ES: sí)]" : {hee}
+! 
+| "[=ha][OtherRoot][=aha]" : {ha}
+| "[=aha][OtherRoot][=aha (affirmative.reaction.to.the.interlocutor's.statement)]" : {aha}
+! 
+| "[=aritakitaima][OtherRoot][=maybe, perhaps]" : {aritakitaima}
+! 
+| "[=irotakitaima][OtherRoot][=is.that.right?]" : {irotakitaima}
+! 
+| "[=omaperotatya][OtherRoot][=is.that.true?]" : {omaperotatya}
+! 
+| "[=imaperotatya][OtherRoot][=is.that.true?]" : {imaperotatya}
+# ----------------------------------------
 ! 
 | "[=intaani][OtherRoot][=only]" : {intaani}
 | "[=intaani][OtherRoot][=solely]" : {intaani}
