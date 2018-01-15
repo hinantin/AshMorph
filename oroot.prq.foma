@@ -117,10 +117,13 @@ define ORootPRQin [
 ! 
 | "[=omaperotatya][OtherRoot][=is.that.true?]" : {omaperotatya}
 ! 
-| "[=imaperotatya][OtherRoot][=is.that.true?]" : {imaperotatya}
+| "[=imaperotatya][OtherRoot][=SUPERLATIVE (EN: is.that.true?,~supreme; ES: verdadero)]" : {imaperotatya}
 # ----------------------------------------
 ! 
-| "[=katsini][AdjRoot][=SUPERLATIVE (EN: proper; ES: verdadero)]" : {katsini} 
+| "[=katsini][OtherRoot][=SUPERLATIVE (EN: proper; ES: verdadero)]" : {katsini} 
+! 
+| "[=iye][OtherRoot][=expression.of.surprise]" : {iye}
+| "[=iyo][OtherRoot][=expression.of.surprise]" : {iyo}
 ! 
 | "[=intaani][OtherRoot][=only]" : {intaani}
 | "[=intaani][OtherRoot][=solely]" : {intaani}
