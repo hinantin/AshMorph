@@ -120,6 +120,8 @@ define ORootPRQin [
 | "[=imaperotatya][OtherRoot][=is.that.true?]" : {imaperotatya}
 # ----------------------------------------
 ! 
+| "[=katsini][AdjRoot][=SUPERLATIVE (EN: proper; ES: verdadero)]" : {katsini} 
+! 
 | "[=intaani][OtherRoot][=only]" : {intaani}
 | "[=intaani][OtherRoot][=solely]" : {intaani}
 | "[=intsitya][OtherRoot][=well]" : {intsitya}
@@ -134,7 +136,7 @@ define ORootPRQin [
 | "[=kantzimaintacha][ConnRoot][=but (ES: pero); nevertheless (ES: no.obstante, sin.embargo)]" : {kantzimaintacha}
 | "[=kantzimaitacha][ConnRoot][=but (ES: pero); nevertheless (ES: no.obstante, sin.embargo)]" : {kantzimaitacha}
 ! 
-| "[=iroma][OtherRoot][=in.conrast]" : {iroma}
+| "[=iroma][OtherRoot][=in.contrast]" : {iroma}
 | "[=ironyaaka][OtherRoot][=CONN]" : {ironyaaka}
 | "[=ironyaaka][OtherRoot][=then]" : {ironyaaka}
 | "[=ito][OtherRoot][=head]" : {ito}
