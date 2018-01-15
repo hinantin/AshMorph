@@ -125,6 +125,10 @@ define ORootPRQin [
 | "[=iye][OtherRoot][=expression.of.surprise]" : {iye}
 | "[=iyo][OtherRoot][=expression.of.surprise]" : {iyo}
 ! 
+| "[=atyama][OtherRoot][=expression.of.compassion]" : {atyama}
+| "[=iyama][OtherRoot][=expression.of.compassion]" : {iyama}
+| "[=nyaamisa][OtherRoot][=expression.of.compassion]" : {nyaamisa}
+! 
 | "[=intaani][OtherRoot][=only]" : {intaani}
 | "[=intaani][OtherRoot][=solely]" : {intaani}
 | "[=intsitya][OtherRoot][=well]" : {intsitya}
