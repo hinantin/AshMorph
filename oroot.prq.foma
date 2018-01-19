@@ -132,7 +132,13 @@ define ORootPRQin [
 | "[=intaani][OtherRoot][=only]" : {intaani}
 | "[=intaani][OtherRoot][=solely]" : {intaani}
 | "[=intsitya][OtherRoot][=well]" : {intsitya}
-
+! 
+| "[=intatsikero][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikero}
+| "[=intatikero][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatikero}
+| "[=intatzikero][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatzikero}
+| "[=intatsikeronta][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikeronta}
+| "[=intatsikironta][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikironta}
+! 
 # iro kantaincha 'but' 
 | "[=iro][ConnRoot][=but]" : {iro}
 | "[=kantaincha][ConnRoot][=but]" : {kantaincha}
