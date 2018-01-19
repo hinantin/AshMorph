@@ -323,10 +323,10 @@ define N=S=CL [
 ! kishiisatzi / =kishii -satzi / =grassland -cl:provenance / EN: 'Pajonal Campa', ES: 'Pajonalino'  
 ! nijasati / nihasati / =niha -sati / =river -cl:provenance / EN: 'riverside'; ES: 'ribereño'
 ! obenijati / ovenihati / =oveni -hati / =Unini.river -cl:provenance / EN: 'Unini.inhabitant'; ES: 'comunero.de.Unini'
-| "[--][-sati+m.][NS][+CL:provenance][=human.provenance]" : {sati} 
-| "[--][-satzi+m.][NS][+CL:provenance][=human.provenance]" : {satzi} 
-| "[--][-hati+m.][NS][+CL:provenance][=human.provenance]" : {hati} 
-| "[--][-hatzi+m.][NS][+CL:provenance][=human.provenance]" : {hatzi} 
+| "[--][-sati+m.][NS][+CL:provenance][=human.provenance, inhabitant.of.swh.]" : {sati} 
+| "[--][-satzi+m.][NS][+CL:provenance][=human.provenance, inhabitant.of.swh.]" : {satzi} 
+| "[--][-hati+m.][NS][+CL:provenance][=human.provenance, inhabitant.of.swh.]" : {hati} 
+| "[--][-hatzi+m.][NS][+CL:provenance][=human.provenance, inhabitant.of.swh.]" : {hatzi} 
 ! tsinanepaye saikayitatsiri antamisatoki / =tsinane -paye =saik -a -yi -t -atsi -ri =antami -sato+n.m. -ki / 
 ! =woman -pl =to.be -ep -dist -ep -stat -rel =forest -cl:deriving.location.names -loc / EN: 'female.inhabitant.from.the.forest'  
 ! ora ashitari nijasato / ora ashitari nihasato / =ora =ashi -t -a -ri =niha -sato / =that =to.have -ep -real -rel =water -cl:deriving.location.names / ES: 'del.recurso.hídrico'; EN: 'of.the.water.resource'
