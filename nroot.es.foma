@@ -79,6 +79,8 @@ define NRootESin [
 ! 
 | "[=judio][NRootEs][=Jewish]" : {judio}
 ! 
+| "[=libro/kiriviro][NRootEs][=book (ES: libro)]" : {kiriviro}
+! 
 | "[=coco/koko+NCMS000][NRootEs][=coconut]" : {koko} ! source:IIAP 
 | "[=cocona/kokona+NCFS000][NRootEs][=cocona.shrubby.plant.sp.]" : {kokona} ! source:IIAP
 | "[=kokonaki][NRoot][=cocona.fruit; tart.applelike.fruit]" : {kokonaki} ! source:IIAP 
