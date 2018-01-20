@@ -2316,6 +2316,10 @@ define NRootPRQin [
 | "[=paretsa+n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paretsa}
 | "[=paritsa+n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paritsa}
 ! 
+| "[=pekepeke][NRoot][=motor.boat (ES: bote)]" : {pekepeke}
+| "[=peke-peke][NRoot][=motor.boat (ES: bote)]" : {peke-peke}
+| "[=peke_peke][NRoot][=motor.boat (ES: bote)]" : {peke_peke}
+! 
 | "[=ponchakirontzi][NRoot][=arrow.with.three-tips (ES: flecha.que.tiene.tres.puntas)]" : {ponchakirontzi}
 | "[=ponchakirontsi][NRoot][=arrow.with.three-tips (ES: flecha.que.tiene.tres.puntas)]" : {ponchakirontsi}
 ! 
