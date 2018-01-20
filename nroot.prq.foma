@@ -54,7 +54,7 @@ define NRootPRQin [
 | "[=ashivantzi+m.][NRoot][=swallow.sp. (ES: golondrina)]" : {ashivantzi}
 ! 
 # aarontsipaiteki / =aarontsi -paite -ki / =summer -at.the.time.of.sth. -loc / ES: 'durante.el.tiempo.de.verano'    
-| "[=aarontsi][NRoot][=summer (ES: verano)]" : {aarontsi} ! N@->V::[=to.be.summer (ES: haber.verano)]
+| "[=aarontsi][NRoot][=dry.season/summer (ES: verano)]" : {aarontsi} ! N@->V::[=to.be.summer (ES: haber.verano)]
 ! 
 # good.invisible.spirit, lighting_bolt-like.spirit; brilliantly_plummed_bird-like.spirit; spirit.with.resplendent_human_corporeality 
 | "[=amachenka][NRoot][=class.of.mythological.savior; good.invisible.spirit]" : {amachenka} 
@@ -1284,7 +1284,7 @@ define NRootPRQin [
 ! 
 | "[=kimoha][NRoot][=growth, increase (ES: creciente)]" : {kimoha}
 | "[=kimohani][NRoot][=increasing/high.river.flow (ES: creciente.del.rio)]" : {kimohani} ! -ni is a classifier here
-| "[=kimohantsi][NRoot][=growing, increasing (ES: creciente); summer (ES: verano)]" : {kimohantsi}
+| "[=kimohantsi][NRoot][=growing, increasing (ES: creciente); summer (ES: verano)]" : {kimohantsi} ! verano/summer is the dry-season, so is this mistake???
 ! 
 | "[=kimotenka][NRoot][=width; wide (ES: ancho)]" : {kimotenka}
 | "[=karana][NRoot][=thick (ES: grueso)]" : {karana}
@@ -2348,10 +2348,10 @@ define NRootPRQin [
 | "[=iyopempe][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopempe}
 | "[=iyopimpi][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopimpi}
 ! 
-| "[=sarintsi+m.+poss@te.][NRoot][=year (ES: año); summer (ES: verano)]" : {sarintsi} 
-| "[=harentsi+m.][NRoot][=year (ES: año); summer (ES: verano)]" : {harentsi} 
-| "[=sarentsi+m.+poss@te.][NRoot][=year (ES: año); summer (ES: verano)]" : {sarentsi} 
-| "[=osarentsi+m.+poss@te.][NRoot][=year (ES: año); summer (ES: verano)]" : {osarentsi} 
+| "[=sarintsi+m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {sarintsi} 
+| "[=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {harentsi} 
+| "[=sarentsi+m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {sarentsi} 
+| "[=osarentsi+m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {osarentsi} 
 ! 
 | "[=oshero+m.][NRoot][=crab.sp.]" : {oshero}
 ! monkey species
@@ -2549,12 +2549,12 @@ define NRootPRQin [
 | "[=paryantzi+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
 | "[=pareantzi+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
 ! 
-# Is the winter-season a flooding period ??? 
+# Winter-season is a flooding period.
 | "[=pariantsi+sem@season.][NRoot][=winter (ES: invierno)]" : {pariantsi}
 | "[=kiarontsi+sem@season.][NRoot][=winter (ES: invierno)]" : {kiarontsi}
 | "[=kiavontsi+sem@season.][NRoot][=winter (ES: invierno)]" : {kiavontsi}
-| "[=kimohaantsi+sem@season.][NRoot][=winter (ES: invierno)]" : {kimohaantsi}
-| "[=pariapaintzi+sem@season.][NRoot][=winter (ES: invierno)]" : {pariapaintzi}
+| "[=kimohaantsi+sem@season.][NRoot][=rainy.season/winter (ES: invierno)]" : {kimohaantsi}
+| "[=pariapaintzi+sem@season.][NRoot][=rainy.season/winter (ES: invierno)]" : {pariapaintzi}
 ! 
 | "[=paritsa+n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paritsa} ! pari-tsa root-stem
 | "[=patsa][NRoot][=part]" : {patsa}
