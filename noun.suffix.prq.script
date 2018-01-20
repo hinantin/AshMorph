@@ -503,8 +503,8 @@ define N=S=CL [
 ! isama, osama / ES: 'forma.ovalada/alargada' 
 | "[--][-sama][+CL:unit][=unit.of.sth.;oval,extended]" : {sama}
 #-----------------------------------------------
-! ovayeri / =ovayeri / ES: 'rondero'; EN: 'warrior'
-! ovayeriite / =ovayeri -ite / =warrior -cl:anim.PL / ES: 'ronderos'; EN: 'warriors' 
+! ovayeri / =ovayeri / ES: 'rondero'; EN: 'warrior' \cite[p.VIII]{sarmiento:asaiki:11} 
+! ovayeriite / =ovayeri -ite / =warrior -cl:anim.PL / ES: 'ronderos'; EN: 'warriors' \cite[p.VIII]{sarmiento:asaiki:11} 
 | "[--][-ite][+CL:anim.PL][=animate,plural]" : {ite} !  -ite 'animate.classifier' \cite[p.93]{aikhenvald:neg:14} 
 | "[--][-i^te][+CL:anim.PL][=animate,plural]" : "@I@"{te}
 #-----------------------------------------------
