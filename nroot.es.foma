@@ -148,7 +148,11 @@ define NRootESin [
 | "[=soldado][NRootEs][=soldier]" : {soraro}
 | "[=bolsa][NRootEs][=bag]" : {volsa}
 | "[=bolsa][NRootEs][=bag]" : {volsa}
+! 
 | "[=Tambo][NRootEs][=Tambo]" : {Tampo}
+! 
+| "[=tãpo/tambor][NRootEs][=tambor]" : {tãpo}
+! 
 | "[=Ene][NRootEs][=Ene]" : {Ene}
 | "[=Apurimac][NRootEs][=Apurimac]" : {Apurimac}
 | "[=vaca][NRootEs][=cow]" : {vaaka}
