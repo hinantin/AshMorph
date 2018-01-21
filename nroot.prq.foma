@@ -493,8 +493,8 @@ define NRootPRQin [
 ! 
 | "[=emoo][NRoot][=edible.tree-worm/suri-worm (ES: suri)]" : {emoo}
 ! 
-| "[=emoki][NRoot][=edible.worm.sp. (suri, it.eats.palm.trees)]" : {emoki}
-| "[=emooki][NRoot][=edible.worm.sp. (suri, it.eats.palm.trees)]" : {emooki}
+| "[=emoki][NRoot][=edible.worm.sp. (it.eats.palm.trees; ES: suri)]" : {emoki}
+| "[=emooki][NRoot][=edible.worm.sp. (it.eats.palm.trees; ES: suri)]" : {emooki}
 ! 
 | "[=Eni][NP][=river (Ene.river)]" : {eni}
 | "[=Ene][NP][=river (Ene.river)]" : {ene}
