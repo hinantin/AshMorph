@@ -142,6 +142,7 @@ define NRootPRQin [
 | "[=amatsaire+n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsaire}
 | "[=amatsairi+n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsairi}
 | "[=amatseere+n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatseere}
+| "[=amatsere+n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsere}
 | "[=amantsairi+inal@ntsi.][NRoot][=crown; hat (ES: corona.(de.hombres), sobrero)]" : {amantsairi}
 !
 | "[=amempori+m.][NRoot][=vulture, condor; king.vulture (sarcoramphus.papa)]" : {amempori}
@@ -4093,6 +4094,8 @@ define NRootPRQin [
 | "[=vevito][NRoot][=person's.name]" : {vevito}
 ! 
 | "[=virakocha][NRoot][=outsider, white.person]" : {virakocha}
+! wiakotxa 
+| "[=viakotxa][NRoot][=outsider, white.person]" : {viakotxa}
 ! 
 | "[=virotzi][NRoot][=bright-rumped.attila (sci.nm.: attila.spadiceus)]" : {virotzi}
 ! 

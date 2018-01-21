@@ -41,7 +41,7 @@
 
       define TIReplacement [ {ty} (->) {ti} || _ [e|é] ];
 
-      define THReplacement [ {ts} (->) {th} || _ [a|i|o|á|í|ó] ];
+      define THReplacement [ {ts} (->) {th} || _ [a|e|i|o|á|é|í|ó] ];
 
       define NYReplacement [ {ny} (->) {ñ} || _ Vowels ];
       define VowelsWithAccent [ {a} (->) {á}, {e} (->) {é}, {i} (->) {í},{o} (->) {ó}, {u} (->) {ú}];
