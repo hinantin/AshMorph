@@ -3788,6 +3788,10 @@ define NRootPRQin [
 | "[=santsa][NRoot][=long (in.length; ES: largo)]" : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length; ES: largo)]" : {hantsa} ! N@->V @CMP
 ! 
+| "[=tsatane+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsatane}
+| "[=tsatani+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsatani}
+| "[=tsataireki+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsataireki}
+! 
 | "[=santsari][NRoot][=long (in.length), tall]" : {santsari} 
 ! 
 | "[=tsaati][NRoot][=bird.sp. (ES: pájaro)]" : {tsaati} 
