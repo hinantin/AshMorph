@@ -61,7 +61,7 @@ define V=S=DIR=SET1 [
 define V=S=DIR=SET2 [
 # ablative case
 # 1) inchoative (INCH): beginning of a new state.
-# Pintsatero parenti irakanaketa. / pi- N= =tsa -t -e =ro ** =parenti ** =irak -an -ak -e =ta / EN: 'hang.the.bananas.so.that.they.ripen'; ES: 'Cuelga los plátanos para que maduren' 
+# Pintsatero parenti irakanaketa. / pi- N= =tsa -t -e =ro ** =parenti ** =irak -an -ak -e =ta / ** ** =to.ripen -dir[inch] -prf -irr -opt / EN: 'hang.the.bananas.so.that.they.ripen'; ES: 'Cuelga los plátanos para que maduren' 
 # 2) inceptive (INCEP): beginning of a new action.
 # 3) continuing action in a series of the actor's activities.
   "[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]" : "@EP"[{an}] 
