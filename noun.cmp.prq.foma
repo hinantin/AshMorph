@@ -17,7 +17,7 @@ define NRootCmpPRQin [
 | "[--][=kitaiteri][NRoot][=day]" : {kitaiteri} ! @CMP 
 | "[--][=kontya+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {kontya} ! @CMP 
 | "[--][=mereki+n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
-| "[--][=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP 
+| "[--][=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
 | "[--][=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP 
 | "[--][=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
 | "[--][=noma][NRoot][=jaw (ES: mandíbula, quijada)]" : {noma} ! @CMP

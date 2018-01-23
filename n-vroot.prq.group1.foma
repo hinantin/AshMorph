@@ -63,7 +63,7 @@ define NounToVerbPRQin [
 | "[=menko+n.m.+inal@tsi:tzi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)]+vbz." : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)]+vbz." : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=menkori+n.m.][NRoot][=cloud (ES: nube)]::[=to.be.cloudy/foggy/misty (ES: estar.brumoso)]+vbz." : {menkori} ! N@->V::[=to.be.cloudy/foggy/misty (ES: estar.brumoso)]
-| "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]+vbz." : {moro} ! N@->V @CMP 
+| "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]+vbz." : {moro} ! N@->V @CMP @VCMP 
 | "[=motya][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)]+vbz." : {motya} ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=moti+inal@tsi.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)]+vbz." : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=nampi+n.m.+inal@tsi.][NRoot][=village, place, country; settlement]::[= (ES: vivir)]+vbz." : {nampi} ! N@->V::[= (ES: vivir)] +ADDUPPER@. @ADDLOWER@ 

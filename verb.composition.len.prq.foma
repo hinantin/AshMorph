@@ -28,6 +28,7 @@ define V=S=LEN=noun [
 | "[--][=meronta][NRoot][=flat (ES: plano)]" : {meronta} ! @VCMP 
 | "[--][=mitziki][NRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
 | "[--][=morinte][NRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
+| "[--][=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
 | "[--][=nehi+inal@tsi.][NRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
 | "[--][=pante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
 | "[--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 

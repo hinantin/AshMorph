@@ -2085,7 +2085,7 @@ define NRootPRQin [
 | "[=morinte][NRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
 ! 
 | "[=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moo}
-| "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP 
+| "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
 | "[=omoro][NRoot][=hole (ES: hueco)]" : {omoro}
 | "[=omoo][NRoot][=hole (ES: hueco)]" : {omoo}
 | "[=omo][NRoot][=hole (ES: hueco)]" : {omo}
@@ -2811,7 +2811,7 @@ define NRootPRQin [
 | "[=tsirokini][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tsirokini}
 | "[=tziroki][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tziroki}
 ! 
-| "[=tsitamorori][NRoot][=gay (ES: gay)]" : {tsitamorori}
+| "[=tsitamorori][NRoot][=gay, homosexual (ES: gay, homosexual)]" : {tsitamorori}
 ! 
 | "[=tsitashike][NRoot][=plant.sp. (jaboncillo)]" : {tsitashike}
 ! 
