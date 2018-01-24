@@ -100,7 +100,7 @@ define IdeoRedupSylPRQin 0:"^["
 # Experienced sensations as being punctual or ongoing by formally mapping the reported dynamic sensation onto the
 # ideophonic form.
 define IDEO=S=PUNCTUALACTN [
- "[--][-k][+PUNCTUAL.ACTN]" : [{k}]
+ [ "[" "--" "]" "[" "-k" "]" "[" "+PUNCTUAL.ACTN" "]" ] : [{k}]
 ];
 
 define DeleteRedupSyl "+redup.syl." -> 0;
