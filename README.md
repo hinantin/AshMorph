@@ -1,6 +1,10 @@
 Ashaninka Morph
 ===============
 
+This is a morphological analyzer for the Ashaninka language, the third most widely spoken 
+indigenous language of the Americas. Ashaninka is a polysinthetic language spoken in the central
+adjoining Amazonian regions between Peru and Brazil. 
+
 Compiling with XFST
 ===============================
 
