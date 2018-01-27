@@ -3821,9 +3821,10 @@ define NRootPRQin [
 | "[=tampatzika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatzika}
 | "[=tampatyika][NRoot][=noon (ES: mediodía)]" : {tampatyika}
 ! 
-| "[=tsanaro+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanaro}
-| "[=tsanavo+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanavo}
-| "[=tsanao+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (pituca, botany.id: colocasia.esculenta)]" : {tsanao}
+| "[=tsanaro+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca, botany.id: colocasia.esculenta)]" : {tsanaro}
+| "[=tsanavo+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca, botany.id: colocasia.esculenta)]" : {tsanavo}
+| "[=tsanao+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca, botany.id: colocasia.esculenta)]" : {tsanao}
+| "[=tanao+n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca, botany.id: colocasia.esculenta)]" : {tanao}
 ! 
 | "[=tsano+inal@tsi.][NRoot][=neck (ES: cuello)]" : {tsano}
 | "[=niyamento+n.m.+inal@tsi.][NRoot][=throat (ES: garganta, faringe)]" : {niyamento}

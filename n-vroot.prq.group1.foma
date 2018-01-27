@@ -37,8 +37,8 @@ define NounToVerbPRQin [
 | "[=isha+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]::[=to.be.an.old.woman]+vbz." : {isha} ! N@->V::[=to.be.an.old.woman] 
 | "[=chariki][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]+vbz." : {chariki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
 | "[=chariiki][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]+vbz." : {chariiki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
-| "[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kaniri} ! N@->V @CMP 
-| "[=kaniri+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kanire} ! N@->V @CMP 
+| "[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kaniri} ! N@->V @CMP 
+| "[=kanire+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kanire} ! N@->V @CMP 
 | "[=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]+vbz." : {kainiri} ! N@->V @CMP 
 | "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap, sap]+vbz." : {kashi} ! N@->V
 | "[=keario][NRoot][=factual, truth (ES: cierto, verdad)]+vbz." : {keario} ! N@->V
