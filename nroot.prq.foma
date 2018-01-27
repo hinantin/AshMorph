@@ -518,6 +518,7 @@ define NRootPRQin [
 | "[=Eroshi][NRoot][=person's.name]" : {eroshi}
 ! 
 | "[=eroti+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (sci.nm.: amazona.emazonica)]" : {eroti}
+| "[=erotsi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (sci.nm.: amazona.emazonica)]" : {erotsi}
 | "[=erotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (sci.nm.: amazona.emazonica)]" : {erotzi}
 | "[=irotzi+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (sci.nm.: amazona.emazonica)]" : {irotzi}
 ! 
@@ -1855,8 +1856,8 @@ define NRootPRQin [
 | "[=mamporo][NRoot][=big-size.snail]" : {mamporo}
 | "[=pomporo+m.][NRoot][=big-size.snail]" : {pomporo}
 ! novompoote / no- =pompoo -te / 1sg.poss- =land.snail -aln.poss. / EN: 'my.land_snail'  
-| "[=pompoo+m.+poss@te:ti.][NRoot][=land.snail]" : {pompoo}
-| "[=pompo+m.+poss@te:ti.][NRoot][=land.snail]" : {pompo}
+| "[=pompoo+m.+poss@te:ti.][NRoot][=land.snail (ES: caracol.de.monte)]" : {pompoo}
+| "[=pompo+m.+poss@te:ti.][NRoot][=land.snail (ES: caracol.de.monte)]" : {pompo}
 ! 
 | "[=tsoiroki][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=tyontiiki][NRoot][=river.snail]" : {tyontiiki}
