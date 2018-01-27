@@ -5,7 +5,7 @@ define NRootCmpPRQin [
   "[--][=henka+poss@ne.][NRoot][=odor; smell]" : {henka} ! @CMP  
 | "[--][=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} ! @CMP
 | "[--][=ina][NRoot][=sphere; spherical]" : {ina} !@CMP
-| "[--][=inki+n.m.+poss@ne.][NRoot][=peanut, groundnut (ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
+| "[--][=inki+n.m.+poss@ne.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
 | "[--][=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tsempeki} ! @VCMP @CMP 
 | "[--][=tseempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tseempeki} ! @VCMP @CMP 
 | "[--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
