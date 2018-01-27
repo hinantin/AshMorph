@@ -755,7 +755,7 @@ define NRootPRQin [
 ! 
 | "[=inkite][NRoot][=sky; firmament]" : {inkite}
 ! 
-| "[=inki+n.m.+poss@ne.][NRoot][=peanut, groundnut (ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
+| "[=inki+n.m.+poss@ne.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
 ! 
 | "[=inkiri+m.][NRoot][=fish.sp.]" : {inkiri}
 ! 
@@ -1276,6 +1276,7 @@ define NRootPRQin [
 | "[=kemito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kemito}
 | "[=kimito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kimito}
 | "[=kemitoki][NRoot][=cacao]" : {kemitoki}
+| "[=kakao][NRoot][=cacao (sci.nm.: theobroma.cacao)]" : {kakao}
 # ------------------------------------------------------------ 
 ! 
 # kemporikishi / =kempori =kishi / =palm.tree.sp. =mountainous.grassland / EN: 'mountainous.grassland.where.the.kempori-palm_tree.is.abundant'; ES: 'pajonal.donde.abunda.el.kempori' 
