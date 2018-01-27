@@ -1694,8 +1694,9 @@ define NRootPRQin [
 | "[=koviri+m.][NRoot][=corvina-fish (ES: corvina)]" : {koviri}
 | "[=tora+m.][NRoot][=corvina-fish (ES: corvina)]" : {tora}
 ! 
-| "[=koviriki+n.m.][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu; sci.nm.: spilanthes.oleracea)]" : {koviriki}
-| "[=koiriki+n.m.][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu; sci.nm.: spilanthes.oleracea)]" : {koiriki}
+# flor contra el escozor al comer piña 
+| "[=koviriki+n.m.][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu, botoncillo; sci.nm.: spilanthes.oleracea)]" : {koviriki}
+| "[=koiriki+n.m.][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu, botoncillo; sci.nm.: spilanthes.oleracea)]" : {koiriki}
 ! 
 | "[=koteri][NRoot][=gray-necked.wood.rail (sci.nm.: aramides.jacanca)]" : {koteri}
 ! 
@@ -3189,6 +3190,8 @@ define NRootPRQin [
 ! 
 | "[=sankatzi+m.][NRoot][=red-necked.gallinacean.bird.sp. (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {sankatzi}
 | "[=sankati+m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {sankati}
+! 
+| "[=sankonka][NRoot][= (ES: culantro, cilantro, sacha.cula)]" : {sankonka}
 ! 
 | "[=santimatiki][NRoot][=timber.tree.sp. (ES: ishpingo, sp.de.árbol.maderable)]" : {santimatiki}
 ! 
