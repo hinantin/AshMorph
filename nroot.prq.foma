@@ -820,6 +820,8 @@ define NRootPRQin [
 | "[=katonko][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} 
 | "[=katonka][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonka} 
 ! 
+| "[=kapashiro][NRoot][=ginger.sp. (ES: quión, kión; sci.nm.: zingiber.officinale)]" : {katsikonaki}
+! 
 | "[=katsirinkari][NRoot][=hot, heat (ES: caliente, calor)]" : {katsirinkari} 
 | "[=katsirinkaite][NRoot][=heat (ES: calor)]" : {katsirinkaite} 
 | "[=katsirinkaiteri][NRoot][=sun (ES: sol)]" : {katsirinkaiteri} 
@@ -1930,7 +1932,8 @@ define NRootPRQin [
 ! 
 | "[=mavona+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea)]" : {mavona}
 | "[=maona+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; ES: ñame; sci.nm.: arachis.hypogaea, dioscurea.trifida)]" : {maona}
-| "[=maana+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea)]" : {maana}
+| "[=maana+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea, dioscorea.sp.)]" : {maana}
+| "[=manao][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea, dioscorea.sp.)]" : {manao}
 ! 
 | "[=maontzi+m.][NRoot][=common.potoo, gray_colored.nocturnal.bird.sp. (ayayaymama(n); sci.nm.: nyctibius.griseus)]" : {maontzi}
 | "[=maonti+m.][NRoot][=common.potoo, gray_colored.nocturnal.bird.sp. (ayayaymama(n); sci.nm.: nyctibius.griseus)]" : {maonti}
