@@ -1471,8 +1471,9 @@ define NRootPRQin [
 ! 
 | "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
 ! 
-| "[=kitaiteri][NRoot][=day]" : {kitaiteri} ! @CMP 
-| "[=kitaeteri][NRoot][=day]" : {kitaeteri}
+| "[=kitaiteri][NRoot][=day (ES: día)]" : {kitaiteri} ! @CMP 
+| "[=kitaeteri][NRoot][=day (ES: día)]" : {kitaeteri}
+| "[=kitehiri][NRoot][=day (ES: día)]" : {kitehiri}
 | "[=kitaite+n.m.][NRoot][=day (ES: día)]" : {kitaite}
 ! 
 | "[=kitamaro+n.m.+sem@color.][NRoot][=white]" : {kitamaro} ! N@->V::[to.be.white]
