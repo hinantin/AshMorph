@@ -2519,7 +2519,9 @@ define NRootPRQin [
 ! 
 | "[=paho][NRoot][=bejuco.sp. (pate); pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete)]" : {paho}
 ! 
-| "[=paho+n.m.][NRoot][=recipient/container.type (ES: recipiente); bowl.type]" : {paho}
+| "[=paho+n.m.][NRoot][=recipient/container.type (ES: recipiente, pate); bowl.type]" : {paho}
+| "[=paaho+n.m.][NRoot][=recipient/container.type (ES: recipiente, pate); bowl.type]" : {paaho}
+| "[=paso+n.m.][NRoot][=recipient/container.type (ES: recipiente, pate); bowl.type]" : {paso}
 ! 
 | "[=pahotiki+n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pahotiki}
 | "[=pasotiki+n.m.][NRoot][=wild.edible.fruit.sp.(ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotiki}
@@ -2856,10 +2858,10 @@ define NRootPRQin [
 | "[=toantoani][NRoot][=big-and-dark.bat.sp.]" : {toantoani}
 | "[=tsompavito][NRoot][=big-and-gray.bat.sp.]" : {tsompavito}
 ! 
-| "[=pishiti+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishiti}
-| "[=pishitsi+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitsi}
-| "[=pishitzi+m.][NRoot][=small.toucan.sp. (choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitzi}
-| "[=pishiro+m.+poss@ti.][NRoot][=small.toucan.sp. (choquimbo)]" : {pishiro}
+| "[=pishiti+m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishiti}
+| "[=pishitsi+m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitsi}
+| "[=pishitzi+m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitzi}
+| "[=pishiro+m.+poss@ti.][NRoot][=small.toucan.sp. (ES: choquimbo)]" : {pishiro}
 ! 
 | "[=pishivakintsi][NRoot][=broom (ES: escoba)]" : {pishivakintsi}
 ! 
