@@ -2054,7 +2054,8 @@ define NRootPRQin [
 | "[=mishina][NRoot][=skin (ES: piel)]" : {mishina}
 | "[=mishi][NRoot][=skin (ES: piel)]" : {mishi}
 ! 
-| "[=Metaro][NRoot][=village's.name, Flat, rounded.slightly.curved.area]" : {metaro}
+| "[=Metaro][NRoot][=village's.name; Flat, rounded.slightly.curved.area]" : {metaro}
+| "[=Metavo][NRoot][=village's.name; Flat, rounded.slightly.curved.area]" : {metavo}
 | "[=Metraro][NRoot][=village's.name, rounded.slightly.curved.area]" : {metraro}
 | "[=Metararo][NRoot][=village's.name, rounded.slightly.curved.area]" : {metararo}
 ! 
@@ -3140,9 +3141,9 @@ define NRootPRQin [
 | "[=siraka][NRoot][=lesser.kisadee (sci.nm.: pitangus.lictor)]" : {siraka}
 ! 
 | "[=hani+m.][NRoot][=wasp]" : {hani}
-| "[=sani+m.][NRoot][=wasp]" : {sani}
+| "[=sani+m.][NRoot][=wasp]" : {sani} 
 | "[=sane+m.][NRoot][=wasp]" : {sane}
-| "[=sanii+m.][NRoot][=wasp]" : {sanii}
+| "[=sanii+m.][NRoot][=wasp]" : {sanii} ! @CMP 
 ! 
 | "[=haniki][NRoot][=child]" : {haniki}
 ! 
