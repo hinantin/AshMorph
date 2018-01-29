@@ -2054,10 +2054,10 @@ define NRootPRQin [
 | "[=mishina][NRoot][=skin (ES: piel)]" : {mishina}
 | "[=mishi][NRoot][=skin (ES: piel)]" : {mishi}
 ! 
-| "[=Metaro][NRoot][=village's.name; Flat, rounded.slightly.curved.area]" : {metaro}
-| "[=Metavo][NRoot][=village's.name; Flat, rounded.slightly.curved.area]" : {metavo}
-| "[=Metraro][NRoot][=village's.name, rounded.slightly.curved.area]" : {metraro}
-| "[=Metararo][NRoot][=village's.name, rounded.slightly.curved.area]" : {metararo}
+| "[=Metaro][NRoot][=village's.name; flat, rounded.slightly.curved.area (ES: plato.de.barro)]" : {metaro}
+| "[=Metavo][NRoot][=village's.name; flat, rounded.slightly.curved.area (ES: plato.de.barro)]" : {metavo}
+| "[=Metraro][NRoot][=village's.name; rounded.slightly.curved.area (ES: plato.de.barro)]" : {metraro}
+| "[=Metararo][NRoot][=village's.name; rounded.slightly.curved.area (ES: plato.de.barro)]" : {metararo}
 ! 
 | "[=metso][NRoot][=soft, tender (ES: suave, blando)]" : {metso}
 ! 
