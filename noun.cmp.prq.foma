@@ -15,6 +15,7 @@ define NRootCmpPRQin [
 | "[--][=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna; ES: guacamayo.verde); yellow.chested.macaw]" : {kasanto} ! @CMP 
 | "[--][=kishi][NRoot][=mountainous.grassland (ES: pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs]" : {kishi} ! @CMP 
 | "[--][=kitaiteri][NRoot][=day (ES: día)]" : {kitaiteri} ! @CMP 
+| "[--][=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} ! @CMP 
 | "[--][=kontya+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {kontya} ! @CMP 
 | "[--][=mereki+n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
 | "[--][=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 

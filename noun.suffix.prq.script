@@ -125,8 +125,8 @@ define N=S=CL [
 ! Size related classifier 
 # -------------------------------
 | "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} 
-! ?
-| "[--][=konta+n.m.+inal.][NRoot][=sole.of.foot, bottom.surface.of.foot]" : {konta} 
+! is it a compound???  
+| "[--][=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} 
 ! Plant-based parts in compounds 
 | "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]" : {shi} ! @CL 
 # --------------------------------------------------
