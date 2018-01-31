@@ -1,3 +1,5 @@
+# préstamos del español 
+
 define NRootESin [
   "[=acero/ashiro][NRootEs][=steel, iron]" : {ashiro}
 | "[=amigo+poss@te][NRootEs][=friend]" : {amigo}
@@ -17,6 +19,8 @@ define NRootESin [
 ! 
 | "[=café/kajee][NRootEs][=coffee]" : {kajee}
 | "[=café/kaje][NRootEs][=coffee]" : {kaje}
+! 
+| "[=camisa/camiisa+n.m.][NRootEs][=shirt]" : {camiisa}
 ! 
 | "[=campana/kampana][NRootEs][=church (ES: campana)]" : {kampana}
 ! 
