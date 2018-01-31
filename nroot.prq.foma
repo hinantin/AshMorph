@@ -1194,10 +1194,10 @@ define NRootPRQin [
 | "[=kaara][NRoot][=empty (ES: vacio)]" : {kaara}
 | "[=kahara][NRoot][=empty (ES: vacio)]" : {kahara}
 ! 
-| "[=kaagashi+n.m.][NRoot][=trash, garbage]" : {kaagashi}
-| "[=kahara+n.m.][NRoot][=trash, garbage]" : {kahara}
-| "[=kaarashi+n.m.][NRoot][=trash, garbage]" : {kaarashi}
-| "[=kaharashi+n.m.][NRoot][=trash, garbage]" : {kaharashi}
+| "[=kaagashi+n.m.][NRoot][=trash, garbage (ES: basura); fallen/dead.leaves (ES: hojarasca)]" : {kaagashi}
+| "[=kahara+n.m.][NRoot][=trash, garbage (ES: basura)]" : {kahara}
+| "[=kaarashi+n.m.][NRoot][=trash, garbage (ES: basura); fallen/dead.leaves (ES: hojarasca)]" : {kaarashi}
+| "[=kaharashi+n.m.][NRoot][=trash, garbage (ES: basura)]" : {kaharashi}
 ! 
 | "[=kapiro][NRoot][=bamboo.sp. (ES: paca, especie.de.bambú)]" : {kapiro}
 ! 
