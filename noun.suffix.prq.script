@@ -126,7 +126,9 @@ define N=S=CL [
 # -------------------------------
 | "[--][-patsa][+CL:quantitity-tiny.piece][=small.part]" : {patsa} 
 ! is it a compound???  
-| "[--][=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} 
+! kosaniri kontacha / PT: 'jacaré.que.se.vira.no.seu.dorso.[pronto.para.fazer.amor]'  
+! kempirokonta / ??? 
+| "[--][=konta][+CL:underside.of.sth.][=underside.of.sth., bottom.surface.of.sth.]" : {konta} 
 ! Plant-based parts in compounds 
 | "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]" : {shi} ! @CL 
 # --------------------------------------------------
