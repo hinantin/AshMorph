@@ -129,23 +129,23 @@ define NRootESin [
 ! 
 | "[=olla+NCFS000+poss@te.][NRootEs][=pot]" : {oya}
 ! 
-| "[=uva+NCFS000][NRootEs][=grape]" : {ova}
+| "[=uva/ova+NCFS000][NRootEs][=grape]" : {ova}
 ! 
 | "[=paiche+NPMS000][NRootEs][=fish.sp., paiche-fish.sp.]" : {paiche}
 ! 
-| "[=paño+poss@te.][NRootEs][=scarf]" : {paanyo}
+| "[=paño/paanyo+poss@te.][NRootEs][=scarf]" : {paanyo}
 | "[=paño+poss@te.][NRootEs][=scarf]" : {paño}
 ! 
-| "[=papá+poss@ti.][NRootEs][=dad]" : {papa}
-| "[=papá+poss@ti.][NRootEs][=dad]" : {paapa}
+| "[=papá/papa+poss@ti.][NRootEs][=dad]" : {papa}
+| "[=papá/paapa+poss@ti.][NRootEs][=dad]" : {paapa}
 ! 
-| "[=papel+NCMS000][NRootEs][=sheet.of.paper, book]" : {paperi}
-| "[=papel+NCMS000][NRootEs][=sheet.of.paper, book]" : {papeeri}
-| "[=papel+NCMS000][NRootEs][=sheet.of.paper, book]" : {papiiri}
+| "[=papel/paperi+NCMS000][NRootEs][=sheet.of.paper, book]" : {paperi}
+| "[=papel/papeeri+NCMS000][NRootEs][=sheet.of.paper, book]" : {papeeri}
+| "[=papel/papiiri+NCMS000][NRootEs][=sheet.of.paper, book]" : {papiiri}
 ! 
-| "[=pastor][NRootEs][=pastor]" : {pashitori}
+| "[=pastor/pashitori][NRootEs][=pastor]" : {pashitori}
 ! 
-| "[=Pablo][NRootEs][=Paul, person's.name]" : {pavoro}
+| "[=Pablo/Pavoro][NRootEs][=Paul, person's.name]" : {pavoro}
 ! 
 | "[=pila+NCFS000][NRootEs][=fountain; sink]" : {piira}
 ! 
