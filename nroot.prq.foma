@@ -1625,7 +1625,7 @@ define NRootPRQin [
 ! 
 | "[=konori][NRoot][=rubber]" : {konori}
 ! 
-| "[=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP 
+| "[=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
 | "[=kontya+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {kontya} ! @CMP 
 | "[=akonta][NRoot][=heel]" : {akonta}
 ! 
