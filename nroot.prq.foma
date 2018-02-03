@@ -84,11 +84,12 @@ define NRootPRQin [
 ! 
 | "[=anona+n.m.][NRoot][=sugar-apples (botany.nm.: annona.squamosa; PT: beribá), fruit.tree (Spanish.loan)]" : {anona} 
 ! 
-| "[=antaviari][NRoot][=great/truthful/powerful/expert/experienced.shaman; healer.with.a.lot.of.experience]" : {antaviari} 
-| "[=antyaviari][NRoot][=great/truthful/powerful/expert/experienced.shaman; healer.with.a.lot.of.experience]" : {antyaviari} 
-| "[=antyavigari][NRoot][=great/truthful/powerful/expert/experienced.shaman; healer.with.a.lot.of.experience]" : {antyavigari} 
+# healer???
+| "[=antaviari+sem@healer.][NRoot][=great/truthful/powerful/expert/experienced.shaman; healer.with.a.lot.of.experience]" : {antaviari} 
+| "[=antyaviari+sem@healer.][NRoot][=great/truthful/powerful/expert/experienced.shaman; healer.with.a.lot.of.experience]" : {antyaviari} 
+| "[=antyavigari+sem@healer.][NRoot][=great/truthful/powerful/expert/experienced.shaman; healer.with.a.lot.of.experience]" : {antyavigari} 
 ! 
-| "[=aroso+n.m.][NRoot][=rice]" : {aroso} 
+| "[=arroz/aroso+n.m.][NRoot][=rice (ES: arroz)]" : {aroso} 
 ! 
 | "[=aavo][NRoot][=heron.sp. (sci.nm.: Egretta.thula)]" : {aavo} 
 ! 
