@@ -91,6 +91,7 @@ define NounToVerbPRQin [
 | "[=shitsa][NRoot][=vine; string.like; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]+vbz." : {shitsa} ! N@->V 
 | "[=shitsane+m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]::[=to.have.intestinal.worms (ES: estar.con.bicho)]+vbz." : {shitsane} ! N@->V::[=to.have.intestinal.worms (ES: estar.con.bicho)] 
 | "[=vaNki][NRoot][=feather (ES: pluma); wing_feather]::[=to.have.wings (ES: tener.alas)]+vbz." : {vanki} ! @CMP N@->V::[=to.have.wings (ES: tener.alas)] 
+| "[=shivitsa+poss@ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species]::[=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)]+vbz." : {shivitsa} ! N@->V::[=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)] 
 | "[=taki+n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]+vbz." : {taki} ! N@->V 
 | "[=shincha+n.m.][NRoot][=(river).current (ES: corriente.(del.río))]::[= (ES: haber.una.corriente.fuerte)]+vbz." : {shincha} ! N@->V::[= (ES: haber.una.corriente.fuerte)] 
 | "[=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]+vbz." : {tomi} ! N@->V 
