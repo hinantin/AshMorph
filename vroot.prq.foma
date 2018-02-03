@@ -1428,6 +1428,7 @@ define VRootPRQin [
 ! 
 | "[=riro][VRoot][=to.watch]" : {riro}
 ! 
+# evaporar.con.hierbas, sudar 
 | "[=saa][VRoot][=to.bathe]" : {saa}
 | "[=saa][VRoot][=to.bathe.in.hot.water; to.pour.warm_liquids.over.sb.in.order.to.heal.it/him/her.]" : {saa}
 ! 
@@ -1560,8 +1561,10 @@ define VRootPRQin [
 ! 
 | "[=shipeta][VRoot][=to.weaken, to.become.weak (ES: debilitarse)]" : {shipeta}
 ! 
-| "[=shiri][VRoot][=to.believe]" : {shiri}
-| "[=shiri][VRoot][=to.think]" : {shiri}
+# diagnosticar.una.dolencia-&-realizar.la.curación.a.través.del.vapor.que.emerge.de.las.plantas.medicinales.al.contacto.con.piedras.calientes 
+| "[=shipok][VRoot][=to.evaporate (ES: evaporar)]" : {shipok}
+! 
+| "[=shiri][VRoot][=to.believe; to.think]" : {shiri}
 ! 
 | "[=shiria][VRoot][=to.fish.with.a.basket (ES: pescar.con.canasta)]" : {shiria}
 ! 
