@@ -3595,8 +3595,8 @@ define NRootPRQin [
 ! 
 | "[=sontoki][NRoot][=wide.open.eye]" : {sontoki}
 ! 
-| "[=soraro][NRoot][=police (ES: soldado)]" : {soraro} !?
-| "[=soraaro][NRoot][=police (ES: soldado)]" : {soraaro} 
+| "[=soldado/soraro][NRoot][=police (ES: soldado)]" : {soraro} !?
+| "[=soldado/soraaro][NRoot][=police (ES: soldado)]" : {soraaro} 
 ! 
 | "[=sorintzi][NRoot][=sunbittern (sci.nm.: eurypygia.helias)]" : {sorintzi} 
 ! 

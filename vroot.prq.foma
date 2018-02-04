@@ -1061,6 +1061,9 @@ define VRootPRQin [
 | "[=oiminki][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminki} 
 | "[=oiminke][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminke} 
 ! 
+| "[=oipak][VRoot][=to.drop.sth. (ES: soltar)]" : {oipak} 
+| "[=oimpak][VRoot][=to.drop.sth. (ES: soltar)]" : {oimpak} # to be checked!!! 
+! 
 | "[=oirik][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {oirik} 
 | "[=oerik][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {oerik} 
 | "[=ahirik][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {ahirik} 
