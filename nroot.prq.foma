@@ -693,9 +693,9 @@ define NRootPRQin [
 | "[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena)]" : {impaneki}
 | "[=iNpanaki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena)]" : {impanaki}
 ! 
-| "[=iNpeeta+n.m.][NRoot][=rock; cave; crag]" : {impeeta}
-| "[=iNperita+n.m.][NRoot][=rock; cave; crag]" : {imperita}
-| "[=iNpiita+n.m.][NRoot][=rock; cave; crag]" : {impiita}
+| "[=iNpeeta+n.m.][NRoot][=rock (ES: roca); cave; crag]" : {impeeta}
+| "[=iNperita+n.m.][NRoot][=rock (ES: roca); cave; crag]" : {imperita}
+| "[=iNpiita+n.m.][NRoot][=rock (ES: roca); cave; crag]" : {impiita}
 ! 
 | "[=iNpooto+m.][NRoot][=earthworm.sp.]" : {impooto}
 | "[=iNporoto+m.][NRoot][=earthworm.sp.]" : {imporoto}
@@ -768,8 +768,8 @@ define NRootPRQin [
 ! 
 | "[=inkiri+m.][NRoot][=fish.sp.]" : {inkiri}
 ! 
-| "[=inkorato][NRoot][=nocturnal.butterfly.worm.sp., edible.worm.sp.]" : {inkorato}
-| "[=korea][NRoot][=nocturnal.butterfly.worm.sp., edible.worm.sp.]" : {korea}
+| "[=inkorato][NRoot][=nocturnal.butterfly.worm.sp.; edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {inkorato}
+| "[=korea][NRoot][=nocturnal.butterfly.worm.sp.; edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {korea}
 ! 
 | "[=impari+n.m.][NRoot][=potato.sp. (ES: sp.de.papa, malanga, pituca.blanca; sci.nm.: xanthosoma.sp.)]" : {impari}
 | "[=impaari+n.m.][NRoot][=potato.sp. (ES: sp.de.papa, malanga, pituca.blanca; sci.nm.: xanthosoma.sp.)]" : {impaari}
