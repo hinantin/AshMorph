@@ -1367,7 +1367,9 @@ define NRootPRQin [
 | "[=kintaronke][NRoot][=loro-machaco.snake, venomous.pitviper.sp. (sci.nm.: bothriopsis.bilineata)]" : {kintaronke}
 | "[=kintaronki][NRoot][= (ES: boa.esmeraldade.color.verde.y.manchas.blancas.y.grises; sci.nm.: corallus.caninus)]" : {kintaronki}
 ! 
-| "[=kintero][NRoot][=big.armadillo.sp. (sci.nm.: priodontes.maximus/giganteus; ES: 'especie.de.armadillo.grande', yangunturo)]" : {kintero}
+| "[=kintero+m.][NRoot][=big.armadillo.sp. (sci.nm.: priodontes.maximus/giganteus; ES: 'especie.de.armadillo.grande', yangunturo, yungunturo)]" : {kintero}
+| "[=kintiro+m.][NRoot][=big.armadillo.sp. (sci.nm.: priodontes.maximus/giganteus; ES: 'especie.de.armadillo.grande', yangunturo, yungunturo)]" : {kintiro}
+| "[=kentero+m.][NRoot][=big.armadillo.sp. (sci.nm.: priodontes.maximus/giganteus; ES: 'especie.de.armadillo.grande', yangunturo, yungunturo)]" : {kentero}
 ! 
 | "[=kentori][NRoot][=cicada.sp. (ES: campanero, chicharra), insect.sp.]" : {kentori}
 | "[=kintori][NRoot][=cicada.sp. (ES: campanero, chicharra), insect.sp.]" : {kintori}
