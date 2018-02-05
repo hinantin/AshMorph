@@ -79,8 +79,8 @@ define PrnDemPRQin [
 | "[=orari+n.m.][PrnDem][=that (ES: esa)]" : {orari} ! she 
 # -------------------------------------------------
 ! 
-| "[=iyoka+m.+proximal][PrnDem][=DEM]" : {iyoka}
-| "[=yoka+m.+proximal][PrnDem][=this]" : {yoka}
+| "[=iyoka+m.+proximal][PrnDem][=DEM (ES: él.aquí)]" : {iyoka}
+| "[=yoka+m.+proximal][PrnDem][=this (ES: él.aquí)]" : {yoka}
 | "[=yoka+m.+proximal][PrnDem][=DEM (ES: él.aquí)]" : {yoka}
 ! 
 | "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
