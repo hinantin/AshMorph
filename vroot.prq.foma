@@ -699,6 +699,7 @@ define VRootPRQin [
 | "[=kit][VRoot][=to.bury]" : {kit}
 | "[=kita][VRoot][=to.bury]" : {kita}
 ! 
+# oquitejatánaque / okitehatanake / o- =kite -ha -t -an -ak -e / EN: 'mature.boil'; ES: 'chupo.maduro'  
 | "[=kite][VRoot][=to.have.abscess(es) (ES: tener.abceso(s))]" : {kite}
 ! word set:
 | "[=kitai][VRoot][=to.be.morning; to.dawn, to.be.light; to.get.up.early]" : {kitai}
@@ -876,6 +877,8 @@ define VRootPRQin [
 ! 
 | "[=matsa][VRoot][=to.be.thin; to.get.thin (ES: adelgazar)]" : {matsa}
 | "[=maatsa][VRoot][=to.be.thin; to.get.thin (ES: adelgazar)]" : {maatsa}
+! 
+| "[=matik][VRoot][=to.sing (ES: cantar)]" : {matik} 
 ! 
 | "[=matsiy][VRoot][=to.cast.a.spell.on.sth/sb., to.enchant (ES: embrujar)]" : {matsiy} 
 | "[=matsik][VRoot][=to.cast.a.spell.on.sth/sb., to.enchant (ES: embrujar)]" : {matsik} 
