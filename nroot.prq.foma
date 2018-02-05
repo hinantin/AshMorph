@@ -1290,6 +1290,10 @@ define NRootPRQin [
 | "[=kyaaryoori][NRoot][=factual, truth (ES: cierto, verdad)]" : {kyaaryoori}
 | "[=tyaaryoori][NRoot][=factual, truth (ES: cierto, verdad)]" : {tyaaryoori}
 ! 
+| "[=kechinti][NRoot][=toucan.sp. (ES: sp.de.tucán; sci.nm.: pteroglossus.beauharnaesii)]" : {kechinti}
+| "[=charini][NRoot][=toucan.sp. (ES: sp.de.tucán; sci.nm.: ramphastos.aff.swainsonii)]" : {charini}
+| "[=aventi][NRoot][=toucan.sp. (ES: sp.de.tucán)]" : {aventi}
+! 
 | "[=kemari+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca; sci.nm.: tapirus.americanus), pig-like.animal (PT: anta)]" : {kemari}
 ! 
 | "[=kemi+n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]" : {kemi}
@@ -1512,7 +1516,7 @@ define NRootPRQin [
 ! 
 | "[=kitekirishi][NRoot][=rattlesnake.sp.]" : {kitekirishi}
 ! 
-| "[=kitepari][NRoot][=chestnut-tipped.toucanet (sci.nm.: aulacorhynchus.derbianus)]" : {kitepari}
+| "[=kitepari][NRoot][=chestnut-tipped.toucanet (sci.nm.: aulacorhynchus.derbianus, pteroglossus.mariae)]" : {kitepari}
 ! 
 | "[=kito+m.][NRoot][=shrimp (ES: camarón)]" : {kito}
 | "[=kitoo+m.][NRoot][=shrimp (ES: camarón)]" : {kitoo}
