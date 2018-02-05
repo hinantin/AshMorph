@@ -1258,7 +1258,7 @@ define NRootPRQin [
 ! 
 | "[=kasonkati][NRoot][=deer/mule-shaped.devil]" : {kasonkati}
 ! 
-| "[=katari][NRoot][=wild.duck; American.darter (ES: cormorán; sci.nm.: anhinga.anhinga; PT: pássaro.mergulhão)]" : {katari}
+| "[=katari][NRoot][=wild.duck; American.darter (ES: cormorán; sci.nm.: anhinga.anhinga, cairina.moschata; PT: pássaro.mergulhão)]" : {katari}
 ! 
 | "[=kataroshi][NRoot][=herb.sp.]" : {kataroshi}
 ! 
@@ -2624,6 +2624,13 @@ define NRootPRQin [
 | "[=paante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {paante}
 | "[=panti+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {panti}
 ! 
+# *********************************************
+# pantyoni 
+# ES: 'pato marron con gris' EN: 'brown-and-gray.duck' sci.nm.: oxyura jamaicensis
+# ES: 'pato de cuello azulado' EN: 'blue-necked.duck' sci.nm.: mergane aarmata
+# ES: 'pato de cuello rojo' EN: 'red-necked.duck' sci.nm.: anas flavirostris
+# *********************************************
+| "[=pantyoni][NRoot][=brown-and-gray.duck (ES: pato.marrón.con.gris; sci.nm.: oxyura.jamaicensis); blue-necked.duck (ES: pato.de.cuello.azulado; sci.nm.: mergane.aarmata); red-necked.duck (ES: pato.de.cuello.rojo; sci.nm.: anas.flavirostris)]" : {pantyoni}
 | "[=pantyo+m.][NRoot][=wild.duck.sp. (ES: pato); least.grebe (sci.nm.: podiceps.dominicus)]" : {pantyo}
 ! 
 | "[=pantsa+n.m.+inal@ntsi.+poss@ne:ni.][NRoot][=song (ES: canción, canto), anthem (ES: himno)]" : {pantsa}
