@@ -81,7 +81,7 @@ define PrnDemPRQin [
 ! 
 | "[=iyoka+m.+proximal][PrnDem][=DEM]" : {iyoka}
 | "[=yoka+m.+proximal][PrnDem][=this]" : {yoka}
-| "[=yoka+m.+proximal][PrnDem][=DEM]" : {yoka}
+| "[=yoka+m.+proximal][PrnDem][=DEM (ES: él.aquí)]" : {yoka}
 ! 
 | "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
 | "[=yonta+m.+distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yonta}
