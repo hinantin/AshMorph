@@ -1927,6 +1927,7 @@ define NRootPRQin [
 ! 
 | "[=matsi+n.m.][NRoot][=plant.sp.; edible.tuber.sp. (ES: pituca)]" : {matsi}
 ! 
+# matsitaantsi / ES: 'brujería, daño, maldad' 
 | "[=matsi+m.][NRoot][=(human).witch (ES: brujo); sorcerer]" : {matsi} ! N@->V::[=to.be.a.witch]  
 | "[=matzi+m.][NRoot][=(human).witch (ES: brujo); sorcerer]" : {matzi} ! N@->V::[=to.be.a.witch]  
 | "[=matsishi+n.m.][NRoot][=leaf.against.witchcraft]" : {matsishi}
