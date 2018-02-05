@@ -873,9 +873,9 @@ define VRootPRQin [
 | "[=omapero][VRoot][=to.get.worse (ES: empeorarse)]" : {omapero}
 | "[=mapero][VRoot][=to.get.worse (ES: empeorarse); to.be.seriously.ill (ES: estar.grave); to.be.true]" : {mapero}
 ! 
-| "[=masavi][VRoot][=to.sweat]" : {masavi}
-| "[=amasavi][VRoot][=to.sweat]" : {amasavi}
-| "[=mahavi][VRoot][=to.sweat]" : {mahavi}
+| "[=masavi][VRoot][=to.sweat (ES: sudar)]" : {masavi}
+| "[=amasavi][VRoot][=to.sweat (ES: sudar)]" : {amasavi}
+| "[=mahavi][VRoot][=to.sweat (ES: sudar)]" : {mahavi}
 ! 
 | "[=matsa][VRoot][=to.be.thin; to.get.thin (ES: adelgazar)]" : {matsa}
 | "[=maatsa][VRoot][=to.be.thin; to.get.thin (ES: adelgazar)]" : {maatsa}
