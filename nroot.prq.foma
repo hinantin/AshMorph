@@ -1400,7 +1400,7 @@ define NRootPRQin [
 ! 
 ! "quail" and "partridge" are terms used interchangeably.
 | "[=kintsori+poss@ti.][NRoot][=blue.partridge/quail.sp. (ES: perdiz.azul)]" : {kintsori}
-| "[=kentsori+poss@ti.][NRoot][=great.tinamou (sci.nm.: tinamus.major)]" : {kentsori}
+| "[=kentsori+poss@ti.][NRoot][=great.tinamou (sci.nm.: tinamus.major, tinamous.tao)]" : {kentsori}
 ! 
 | "[=kepaye+n.m.][NRoot][=very_hard/thick.wood.sp. (ES: horcón, poste,, shungu, corazón.de.árbol, árbol.duro; PT: espécie.de.madeira.bem.dura)]" : {kepaye}
 | "[=kipaye+n.m.][NRoot][=very_hard/thick.wood.sp. (ES: horcón, poste,, shungu, corazón.de.árbol, árbol.duro; PT: espécie.de.madeira.bem.dura)]" : {kipaye}
@@ -2374,6 +2374,9 @@ define NRootPRQin [
 | "[=onika][NRoot][=region.where.it.trembles; earthquake (ES: temblor)]" : {onika}
 ! 
 | "[=onkama][NRoot][=controller.of.pooled_water/river_tide (ES: controlador.de.agua_empozada/marea_del_río)]" : {onkama}
+! 
+| "[=onkiri][NRoot][=bird.sp. (ES: yungururu, perdiz.del.monte; sci.nm.: tinamous.major)]" : {onkiri}
+| "[=yonkiri][NRoot][=bird.sp. (ES: yungururu, perdiz.del.monte; sci.nm.: tinamous.major)]" : {yonkiri}
 ! 
 | "[=oNkiro+m.][NRoot][=big.mouse]" : {onkiro}
 | "[=oNkicha][NRoot][=small.mouse]" : {onkicha}
