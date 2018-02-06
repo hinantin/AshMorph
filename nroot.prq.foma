@@ -1354,6 +1354,8 @@ define NRootPRQin [
 | "[=kiima][NRoot][=wild.rabbit.sp. (ES: sp.de.conejo.silvestre, liebre)]" : {kiima}
 | "[=kima][NRoot][=wild.rabbit.sp. (ES: sp.de.conejo.silvestre, liebre)]" : {kima}
 ! 
+| "[=kimaro][NRoot][=scarlet.macaw.sp. (sci.nm.: ara.chloroptera, ara.macao; ES: guacamayo.escarlata)]" : {kimaro}
+! 
 | "[=kiniri][NRoot][=howler.monkey (ES: mono.coto; sci.nm.: alouata.seniculus)]" : {kiniri}
 | "[=keniri][NRoot][=howler.monkey (ES: mono.aullador, mono.coto; sci.nm.: alouata.seniculus)]" : {keniri}
 | "[=haniri][NRoot][=monkey.sp. (ES: mono.coto)]" : {haniri}
@@ -2037,8 +2039,8 @@ define NRootPRQin [
 | "[=menta+n.m.+inal@tsi.][NRoot][=fin.of.tree (ES: aleta.de.árbol); wedge, buttress.root.of.a.tree]" : {menta} 
 | "[=minta+n.m.+inal@tsi.][NRoot][=fin.of.tree (ES: aleta.de.árbol); wedge, buttress.root.of.a.tree]" : {minta} 
 ! 
-| "[=meanto+m.][NRoot][=macaw, parrot.sp. (ES: guacamayo.(verde), QU: wakamayu)]" : {meanto}
-| "[=meyanto+m.][NRoot][=macaw, parrot.sp. (ES: guacamayo.(verde), QU: wakamayu)]" : {meyanto}
+| "[=meanto+m.][NRoot][=macaw, parrot.sp. (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {meanto}
+| "[=meyanto+m.][NRoot][=macaw, parrot.sp. (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {meyanto}
 | "[=mianto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {mianto}
 | "[=myanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myanto}
 | "[=myaanto+m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myaanto}
