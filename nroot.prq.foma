@@ -962,10 +962,10 @@ define NRootPRQin [
 ! 
 | "[=sari+m.+poss@ni.][NRoot][=scarlet.macaw (sci.nm.: ara.macaw)]" : {sari}
 ! 
-| "[=savavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {savavo}
-| "[=savaro+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {savaro}
-| "[=saavaro+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {saavaro}
-| "[=havavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {havavo}
+| "[=savavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {savavo}
+| "[=savaro+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {savaro}
+| "[=saavaro+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {saavaro}
+| "[=havavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {havavo}
 ! 
 | "[=save+m.][NRoot][=turtle.sp.]" : {save}
 ! 
@@ -1243,7 +1243,7 @@ define NRootPRQin [
 ! 
 | "[=kasonki+m.][NRoot][=tuber.sp. (it.is.used.to.treat.boils/furuncles; ES: tubérculo.contra.el.chupo/furúnculo)]" : {kasonki}
 ! 
-| "[=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna; ES: guacamayo.verde); yellow.chested.macaw]" : {kasanto} ! @CMP 
+| "[=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde); yellow.chested.macaw]" : {kasanto} ! @CMP 
 ! 
 | "[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashekari}
 | "[=kashikari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashikari}
