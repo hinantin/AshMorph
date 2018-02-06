@@ -2685,8 +2685,8 @@ define NRootPRQin [
 ! 
 | "[=papaso+m.][NRoot][=big.beetle.sp.]" : {papaso}
 ! 
-| "[=pareto+m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero)]" : {pareto}
-| "[=parito+m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero)]" : {parito}
+| "[=pareto+m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero; sci.nm.: bolborhynchus.orbignesius, bolborhynchus.lineola)]" : {pareto}
+| "[=parito+m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero; sci.nm.: bolborhynchus.orbignesius, bolborhynchus.lineola)]" : {parito}
 | "[=pareta+m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero)]" : {pareta}
 ! 
 | "[=pasanta+n.m.][NRoot][=hardwood.plate.with.a.flat.bottom (before.it.was.used.to.grind.corn; ES: aleta.del.árbol, usado.para.moler); mortar (ES: batán); (ES: batea)]" : {pasanta}
@@ -3303,7 +3303,7 @@ define NRootPRQin [
 | "[=satonkaro+n.m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaro}
 | "[=santonkaaro][NRoot][=tatoo.made.with.rubber.charcoal]" : {santonkaaro}
 ! 
-| "[=santero][NRoot][=red-bellied.macaw (sci.nm.: ara.manilata)]" : {santero}
+| "[=santero][NRoot][=red-bellied.macaw (sci.nm.: ara.manilata, aratinga.weddelli)]" : {santero}
 ! 
 | "[=santira][NRoot][=watermelon (botany.sp.: citrullus.sp.)]" : {santira}
 ! 
@@ -3332,8 +3332,8 @@ define NRootPRQin [
 ! 
 | "[=save+m.][NRoot][=turtle.sp.]" : {save}
 ! 
-| "[=saveto+m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa)]" : {saveto}
-| "[=savito+m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa)]" : {savito}
+| "[=saveto+m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {saveto}
+| "[=savito+m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {savito}
 ! 
 | "[=saavintaro+n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saavintaro}
 | "[=saventaro+n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventaro}
