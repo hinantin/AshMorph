@@ -1360,10 +1360,10 @@ define NRootPRQin [
 | "[=keniri][NRoot][=howler.monkey (ES: mono.aullador, mono.coto; sci.nm.: alouata.seniculus)]" : {keniri}
 | "[=haniri][NRoot][=monkey.sp. (ES: mono.coto)]" : {haniri}
 ! 
-| "[=kentaro+m.][NRoot][=parrot.sp. (blue.macaw)]" : {kentaro}
-| "[=kentavo+m.][NRoot][=parrot.sp. (blue.macaw); venomous.snake.sp. (shushupi)]" : {kentavo}
-| "[=kintaro+m.][NRoot][=parrot.sp. (blue.macaw)]" : {kintaro}
-| "[=kintavo+m.][NRoot][=parrot.sp. (blue.macaw); yellow-crowned.parrot (sci.nm.: amazona.ochrocephala)]" : {kintavo}
+| "[=kentaro+m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa)]" : {kentaro}
+| "[=kentavo+m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa); venomous.snake.sp. (shushupi)]" : {kentavo}
+| "[=kintaro+m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa)]" : {kintaro}
+| "[=kintavo+m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa); yellow-crowned.parrot (sci.nm.: amazona.ochrocephala)]" : {kintavo}
 ! 
 | "[=kentiyoro][NRoot][=(ES: sauce.de.la.primavera; sci.nm.: ludwigia)]" : {kentiyoro}
 ! 
