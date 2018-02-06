@@ -431,8 +431,8 @@ define NRootPRQin [
 ! 
 | "[=chookiro][NRoot][=tree.ant.sp. (black.colored.ant)]" : {chookiro} 
 ! 
-| "[=chokiyo+m.][NRoot][=small.parrot.sp. (ES: perico/loro.pequeño, pihuicho)]" : {chokiyo} 
-| "[=chokio+m.][NRoot][=small.parrot.sp. (ES: perico/loro.pequeño, pihuicho)]" : {chokio} 
+| "[=chokiyo+m.][NRoot][=small.parrot.sp. (ES: perico/loro.pequeño, pihuicho; sci.nm.: forpus.xanthopterygius)]" : {chokiyo} 
+| "[=chokio+m.][NRoot][=small.parrot.sp. (ES: perico/loro.pequeño, pihuicho; sci.nm.: forpus.xanthopterygius)]" : {chokio} 
 ! 
 | "[=chopavairotzi+m.][NRoot][=bird.sp. (ES: apodo.de.la.pava)]" : {chopavairotzi} 
 ! 
@@ -3838,6 +3838,8 @@ define NRootPRQin [
 | "[=tiomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {tiomi}
 ! 
 | "[=tyori+m.][NRoot][=little.bird.sp. (ES: sp.de.pajarito, sp.de.loro)]" : {tyori}
+! 
+| "[=tyorikiti+m.][NRoot][=small.parrot.sp. (ES: sp.de.loro.chico; sci.nm.: hapalopsittaca.melanotis)]" : {tyorikiti}
 ! 
 | "[=Tyoviri][NRoot][=proper.name]" : {tyoviri}
 ! 
