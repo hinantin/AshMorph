@@ -545,6 +545,8 @@ define NRootPRQin [
 | "[=etziki+n.m.][NRoot][=wild.fruit.sp. (ES: caimitillo)]" : {etziki}
 | "[=etiki+n.m.][NRoot][=wild.fruit.sp. (ES: caimitillo)]" : {etiki}
 ! 
+| "[=etita][NRoot][=guan.sp. (ES: sp.de.chachalaca)]" : {etita}
+! 
 | "[=itsipa+m.][NRoot][=other, another]" : {itsipa}
 | "[=otsipa+n.m.][NRoot][=other, another]" : {otsipa}
 ! 
@@ -861,6 +863,8 @@ define NRootPRQin [
 | "[=kentiratiki][NRoot][=flea (ES: pulga)]" : {kentiratiki}
 | "[=kentziratziki][NRoot][=flea (ES: pulga)]" : {kentziratziki}
 ! 
+| "[=kiori][NRoot][=guan.sp. (ES: sp.de.chachalaca)]" : {kiori}
+! 
 | "[=kevo+n.m.+inal@tsi.][NRoot][=hammock (ES: hamaca)]" : {kevo}
 | "[=kivo+n.m.+inal@tsi.][NRoot][=hammock (ES: hamaca)]" : {kivo}
 | "[=veomento+inal@tsi.][NRoot][=hammock (ES: hamaca)]" : {veomento}
@@ -1169,7 +1173,7 @@ define NRootPRQin [
 ! 
 | "[=kanai+n.m.][NRoot][=tree.sp. (ES: tangarana, sp.de.árbol)]" : {kanai}
 ! 
-| "[=kanari+m.+poss@ti.][NRoot][=common.piping-guan (sci.nm.: aburria.pipile); wild.turkey.sp. (ES: pava.del.monte); whistler.blue-necked.guan (guan.silbador.de.cuello.azul; sci.nm.: pipile.cumanensis)]" : {kanari}
+| "[=kanari+m.+poss@ti.][NRoot][=common.piping-guan (sci.nm.: aburria.pipile, pipile.cumanensis); wild.turkey.sp. (ES: pava.del.monte); whistler.blue-necked.guan (guan.silbador.de.cuello.azul; sci.nm.: pipile.cumanensis)]" : {kanari}
 ! 
 | "[=kanarinke][NRoot][=venomous.viper.sp.]" : {kanarinke}
 ! 
