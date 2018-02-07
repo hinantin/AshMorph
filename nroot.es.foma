@@ -127,9 +127,11 @@ define NRootESin [
 ! 
 | "[=número+poss@te.][NRootEs][=number]" : {nomero}
 ! 
-| "[=olla+NCFS000+poss@te.][NRootEs][=pot]" : {oya}
+| "[=olla/oya+NCFS000+poss@te.][NRootEs][=pot]" : {oya}
 ! 
 | "[=uva/ova+NCFS000][NRootEs][=grape]" : {ova}
+! 
+| "[=oveja/ovisha+NCFS000][NRootEs][=sheep]" : {ovisha}
 ! 
 | "[=paiche+NPMS000][NRootEs][=fish.sp., paiche-fish.sp.]" : {paiche}
 ! 
