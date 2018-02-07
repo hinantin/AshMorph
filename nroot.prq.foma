@@ -1988,7 +1988,8 @@ define NRootPRQin [
 | "[=mapooteshi+n.m.][NRoot][=rooftop (ES: cumbre.del.techo)]" : {mapooteshi}
 | "[=mapoteshi+n.m.][NRoot][=rooftop (ES: cumbre.del.techo)]" : {mapoteshi}
 ! 
-| "[=masoko+m.][NRoot][=small.bird.sp.]" : {masoko}
+!| "[=masoko+m.][NRoot][=small.bird.sp.]" : {masoko}
+| "[=masoko+m.][NRoot][=small.bird.sp. (ES: sp.de.pajarito)]" : {masoko}
 ! 
 | "[=masonti+m.][NRoot][=mute, fool (ES: mudo)]" : {masonti}
 | "[=masontzi+m.][NRoot][=mute, fool (ES: mudo)]" : {masontzi}
@@ -2039,8 +2040,6 @@ define NRootPRQin [
 | "[=masankari][NRoot][=bland (ES: insípido, sin.gusto)]" : {masankari}
 ! 
 | "[=masavire+inal@ntsi.][NRoot][=sweat (ES: sudor)]" : {masavire}
-! 
-| "[=masoko+m.][NRoot][=small.bird.sp. (ES: sp.de.pajarito)]" : {masoko}
 ! 
 | "[=mavo+m.][NRoot][=earthworm.sp. (ES: sp.de.gusano.de.tierra); insect (ES: insecto)]" : {mavo}
 | "[=maavo+m.][NRoot][=earthworm.sp. (ES: sp.de.gusano.de.tierra); insect (ES: insecto)]" : {maavo}
