@@ -301,6 +301,8 @@ define NRootPRQin [
 | "[=cheero][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {cheero}
 | "[=tseero][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {tseero}
 ! 
+| "[=chivani][NRoot][=cuckoo.sp. (ES: cuco; sci.nm.: piaya.cayana, piaya.minuta)]" : {chivani}
+! 
 | "[=chivini][NRoot][=heron.sp.]" : {chivini}
 ! 
 | "[=chamairo+n.m.][NRoot][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {chamairo}
@@ -1506,6 +1508,8 @@ define NRootPRQin [
 ! 
 | "[=kishiri+m.][NRoot][=comb (ES: peine)]" : {kishiri}
 | "[=kishire+m.][NRoot][=comb (ES: peine)]" : {kishire}
+! 
+| "[=keshito][NRoot][=cuckoo.sp. (ES: sp.de.cuco; sci.nm.: cyanocorax.yncas)]" : {keshito}
 ! 
 | "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
 ! 
