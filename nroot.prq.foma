@@ -3841,8 +3841,9 @@ define NRootPRQin [
 # tsimitenkani / =tsimi -tenka -ni / =macaw-and-parrot.clay.lick -cl:longitudinal.depression -cl:watercourse / EN: 'ravine.where.a.stream-&-qullpa.are.located'; ES: 'colpa.de.la.sachavaca'  
 | "[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, ES: colpa); clean.water.well.where.animals.go.to.drink, water.hole]" : {tsimi} 
 ! 
-| "[=tsimi+poss@ti.][NRoot][=ant.sp. (ES: pucacura)]" : {tsimi}
-| "[=tsimii+poss@ti.][NRoot][=ant.sp. (ES: pucacura)]" : {tsimii}
+| "[=tsimi+m.+poss@ti.][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsimi}
+| "[=tsime+m.+poss@ti.][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsime}
+| "[=tsimii+m.+poss@ti.][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsimii}
 ! 
 | "[=tsimpe][NRoot][=bird.sp. (ES: busardo, sp.de.ave)]" : {tsimpe}
 ! 
