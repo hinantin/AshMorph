@@ -3990,11 +3990,11 @@ define NRootPRQin [
 | "[=tsapiki+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsapiki}
 | "[=tsapiyaaki+inal@ntsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsapiyaaki}
 ! 
-| "[=tsara+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsara} 
-| "[=tsaato+n.m.][NRoot][=bag, backpack; knapsack (ES: morral)]" : {tsaato} 
-| "[=tsarato+n.m.+poss@te.][NRoot][=bag, backpack (ES: bolsa)]" : {tsarato} 
-| "[=tsaate+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsaate} 
-| "[=tsaati+n.m.+poss@te.][NRoot][=bag, backpack]" : {tsaati} 
+| "[=tsara+n.m.+poss@te.][NRoot][=bag, backpack (ES: mochila)]" : {tsara} 
+| "[=tsaato+n.m.][NRoot][=bag, backpack (ES: mochila); knapsack (ES: morral)]" : {tsaato} 
+| "[=tsarato+n.m.+poss@te.][NRoot][=bag, backpack (ES: bolsa, mochila)]" : {tsarato} 
+| "[=tsaate+n.m.+poss@te.][NRoot][=bag, backpack (ES: mochila)]" : {tsaate} 
+| "[=tsaati+n.m.+poss@te.][NRoot][=bag, backpack (ES: mochila)]" : {tsaati} 
 ! 
 | "[=tsaranka][NRoot][=a.flexible.covering.attached.to.a.node/sth.]" : {tsaranka} 
 ! 
