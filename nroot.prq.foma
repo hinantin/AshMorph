@@ -1312,7 +1312,8 @@ define NRootPRQin [
 | "[=charini][NRoot][=toucan.sp. (ES: sp.de.tucán; sci.nm.: ramphastos.aff.swainsonii)]" : {charini}
 | "[=aventi][NRoot][=toucan.sp. (ES: sp.de.tucán)]" : {aventi}
 ! 
-| "[=kemari+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca, danta, tapir; sci.nm.: tapirus.americanus, tapirus.terrestris), pig-like.animal (PT: anta)]" : {kemari}
+| "[=kemari+m.+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca, danta, tapir; sci.nm.: tapirus.americanus, tapirus.terrestris), pig-like.animal (PT: anta)]" : {kemari}
+| "[=kimari+m.+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca, danta, tapir; sci.nm.: tapirus.americanus, tapirus.terrestris), pig-like.animal (PT: anta)]" : {kimari}
 ! 
 | "[=kemi+n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]" : {kemi}
 | "[=kimi+n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]" : {kimi}
@@ -1862,7 +1863,7 @@ define NRootPRQin [
 | "[=maninkari+m.][NRoot][=inmortal.invisible.person/man.who.live.in.highlands; a.sort.of.ancestral.divinity; master-owner.of.the.local.hills]" : {maninkari}
 | "[=maninkaro+n.m.][NRoot][=inmortal.invisible.person/woman.who.live.in.highlands; a.sort.of.ancestral.divinity; master-owner.of.the.local.hills]" : {maninkaro}
 ! 
-| "[=maniro+m.][NRoot][=deer (ES: venado)]" : {maniro}
+| "[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]" : {maniro}
 | "[=manero+m.][NRoot][=deer (ES: venado.brocket; sci.nm.: mazama.sp.)]" : {manero}
 ! 
 | "[=manitzi][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]" : {manitzi}
@@ -3482,7 +3483,7 @@ define NRootPRQin [
 ! 
 | "[=shina][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna)]" : {shina}
 ! 
-| "[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno)]" : {shintori}
+| "[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno; sci.nm.: tayassu.tajacu)]" : {shintori}
 ! 
 | "[=shinyotzi][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinyotzi}
 ! 
