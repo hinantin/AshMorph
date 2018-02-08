@@ -569,9 +569,9 @@ define NRootPRQin [
 | "[=evonkero+n.m.][NRoot][=medium; small (ES: mediana; pequeña)]" : {evonkero}
 | "[=ivonkiro+n.m.][NRoot][=medium; small (ES: mediana; pequeña)]" : {ivonkiro}
 ! 
-| "[=samani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, zamaño; sci.nm.: coelogenus.paca)]" : {samani}
-| "[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, zamaño; sci.nm.: coelogenus.paca)]" : {hamani}
-| "[=hamaani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, zamaño; sci.nm.: coelogenus.paca)]" : {hamaani}
+| "[=samani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca, agouti.paca)]" : {samani}
+| "[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]" : {hamani}
+| "[=hamaani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]" : {hamaani}
 ! 
 | "[=hampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like, muddy soil]" : {hampovatsa}
 | "[=sampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay]" : {sampovatsa}
@@ -3176,6 +3176,8 @@ define NRootPRQin [
 ! 
 | "[=shamoroki][NRoot][=chicharra.sp.]" : {shamoroki}
 | "[=shemoroki][NRoot][=chicharra.sp.]" : {shemoroki}
+! 
+| "[=shatoni][NRoot][=paca.sp. (ES: majaz; sci.nm.: myoprocta.pratti)]" : {shatoni}
 ! 
 | "[=shavori+m.][NRoot][=barbon-fish.sp. (ES: barbón, bagre)]" : {shavori}
 | "[=shaori+m.][NRoot][=barbon-fish.sp. (ES: barbón, bagre)]" : {shaori}
