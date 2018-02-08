@@ -645,11 +645,11 @@ define NRootPRQin [
 | "[=herina][NRoot][=nettle.sp.with.big.thorns (ES: ishanga, ortiga.(con.puas.grandes))]" : {herina}
 | "[=hirina][NRoot][=nettle.sp.with.big.thorns (ES: ishanga, ortiga.(con.puas.grandes))]" : {hirina}
 ! 
-| "[=hiro][NRoot][=yarn (ES: hilo)]" : {hiro} 
+| "[=hilo/hiro][NRoot][=yarn (ES: hilo)]" : {hiro} 
 ! 
 | "[=hero][NRoot][=long-and-black-and-gray_tipped-haired.monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus)]" : {hero} 
 | "[=hiro][NRoot][=monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus)]" : {hiro} 
-| "[=heroni][NRoot][=monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus)]" : {heroni} 
+| "[=heroni][NRoot][=monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus, saguinus.imperator)]" : {heroni} 
 ! 
 | "[=heeroohotzi][NRoot][=great.potoo (sci.nm.: nyctibius.grandis)]" : {heeroohotzi}
 ! 
@@ -1236,8 +1236,8 @@ define NRootPRQin [
 ! 
 | "[=kapironkari][NRoot][=deer-like.demon (ES: peyari.transformado.en.un.venado)]" : {kapironkari}
 ! 
-| "[=kapeshi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapeshi}
-| "[=kapishi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (achuni); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapishi}
+| "[=kapeshi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci.nm.: nasua.nasua); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapeshi}
+| "[=kapishi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci.nm.: nasua.nasua); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapishi}
 ! 
 | "[=kapotzi+n.m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {kapotzi}
 | "[=kapoti+n.m.][NRoot][=large.edible.larva.sp. (ES: sp.de.larva.grande.comestible)]" : {kapoti}
@@ -2356,7 +2356,7 @@ define NRootPRQin [
 ! 
 | "[=noshikari][NRoot][=crested.owl (sci.nm.: lophostrix.cristata)]" : {noshikari}
 ! 
-| "[=oati][NRoot][=(ES: tayra, lobo.del.monte; sci.nm.: gallictus.barbara)]" : {oati}
+| "[=oati][NRoot][=(ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {oati}
 ! 
 | "[=ochera][NRoot][=shore]" : {ochera}
 | "[=ocheraa][NRoot][=shore]" : {ocheraa}
