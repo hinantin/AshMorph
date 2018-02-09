@@ -53,6 +53,7 @@ define NRootPRQin [
 ! 
 | "[=ashivantzi+m.][NRoot][=swallow.sp. (ES: golondrina; sci.nm.: chaetura.sp., panyptila.cayennensis)]" : {ashivantzi}
 | "[=ashivanti+m.][NRoot][=swallow.sp. (ES: golondrina; sci.nm.: chaetura.sp., panyptila.cayennensis)]" : {ashivanti}
+| "[=ashivante+m.][NRoot][=swallow.sp. (ES: golondrina; sci.nm.: chaetura.sp., panyptila.cayennensis)]" : {ashivante}
 ! 
 # aarontsipaiteki / =aarontsi -paite -ki / =summer -at.the.time.of.sth. -loc / ES: 'durante.el.tiempo.de.verano'    
 | "[=aarontsi][NRoot][=dry.season/summer (ES: verano)]" : {aarontsi} ! N@->V::[=to.be.summer (ES: haber.verano)]
@@ -4057,7 +4058,7 @@ define NRootPRQin [
 ! 
 | "[=tsikoro+n.m.][NRoot][=hook (ES: gancho)]" : {tsikoro} 
 # bird, little bird 
-# categoría de aves pequeñas generalmente de colores brillantes 
+# categoría/grupo de aves pequeñas generalmente de colores brillantes 
 | "[=tsimiri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimiri}
 | "[=tsimeri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimeri}
 ! 
