@@ -287,8 +287,8 @@ define NRootPRQin [
 | "[=tseki+inal@tsi.][NRoot][=needle/thorn.tip (ES: punta.de.aguja/espina)]" : {tseki}
 | "[=tseeki+inal@tsi.][NRoot][=needle/thorn.tip (ES: punta.de.aguja/espina)]" : {tseeki}
 ! 
-| "[=tsekito][NRoot][=needle/thorn.tip (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {tsekito}
-| "[=sekito][NRoot][=needle/thorn.tip (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {sekito}
+| "[=tsekito][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {tsekito}
+| "[=sekito][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {sekito}
 ! 
 | "[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {cheenkari}
 | "[=chenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {chenkari}
@@ -4225,6 +4225,8 @@ define NRootPRQin [
 ! 
 | "[=tsoompiro+n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]" : {tsoompiro}
 | "[=tsompiro+n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]" : {tsompiro}
+! 
+| "[=tsopinto][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: leptodactylus.griseigularis)]" : {tsopinto}
 ! 
 | "[=tsopiro+m.][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]" : {tsopiro}
 !| "[=tsopiro+m.][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]" : {tsopiro}
