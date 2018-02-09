@@ -2561,6 +2561,8 @@ define NRootPRQin [
 | "[=ivarantsi+n.m.][NRoot][=spiked.pepper (ES: matico, higuillo.de.hoja.menuda; sci.nm.: piper.aduncum)]" : {ivarantsi}
 | "[=varantzi+n.m.][NRoot][=spiked.pepper (ES: matico, higuillo.de.hoja.menuda; sci.nm.: piper.aduncum)]" : {varantzi}
 ! 
+| "[=ovaratanta][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {ovaratanta}
+! 
 | "[=ovayeri+m.][NRoot][=guerrilla; warrior (ES: guerrero); murderer]" : {ovayeri}
 ! 
 | "[=ovayeritantsi][NRoot][=war, craft.of.war (ES: guerra)]" : {ovayeritantsi}
@@ -3838,6 +3840,11 @@ define NRootPRQin [
 | "[=tenki+inal@tsi.][NRoot][=fish-fin (ES: aleta.de.pez); bird-tail (ES: cola.de.ave)]" : {tenki}
 | "[=tinki+inal@tsi.][NRoot][=fish-fin (ES: aleta.de.pez); bird-tail (ES: cola.de.ave)]" : {tinki}
 | "[=tenki+inal@tze.][NRoot][=dorsal-feather.ornament (ES: adorno.dorsal.de.plumas)]" : {tenki}
+! 
+| "[=tentekto][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {tentekto}
+| "[=tento][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {tento}
+| "[=tarairikiti][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {tarairikiti}
+| "[=pacho][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {pacho}
 ! 
 # ------------------------------------------------
 # Classifier based nouns
