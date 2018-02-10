@@ -1755,7 +1755,7 @@ define NRootPRQin [
 ! 
 | "[=karaapariki][NRoot][=venomous.snake.sp. (ES: sp.serpiente.venenosa; sci.nm.: helicops.angulatus)]" : {karaapariki}
 ! 
-| "[=karapariti][NRoot][=venomous.snake.sp., venomous.pitviper.sp. (ES: jergòn, sp.culebra.venenosa)]" : {karapariti}
+| "[=karapariti][NRoot][=venomous.snake.sp., venomous.pitviper.sp. (ES: jergón, sp.culebra.venenosa)]" : {karapariti}
 ! 
 | "[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshiri}
 | "[=koshire+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshire}
@@ -3810,6 +3810,9 @@ define NRootPRQin [
 | "[=tavanto+n.m.+inal@ntsi.][NRoot][=summit, peak (ES: cumbre)]" : {tavanto}
 ! 
 | "[=tavaato+inal@ntsi.][NRoot][=shin-bone (ES: canilla)]" : {tavaato}
+! 
+# jergón de cuerpo marrón con manchas negras y anillos amarillos 
+| "[=tavato][NRoot][= (ES: jergón; sci.nm.: bothrops.atrox)]" : {tavato}
 ! 
 | "[=taavantzi][NRoot][=warrior.name (notorious.for.his.heavy.drinking)]" : {taavantzi}
 ! 
