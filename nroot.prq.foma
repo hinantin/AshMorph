@@ -2003,8 +2003,8 @@ define NRootPRQin [
 | "[=tyontiiki][NRoot][=river.snail]" : {tyontiiki}
 ! 
 # materiawo / materiavo / =materi -a -vo / =high-gorges.catfish.sp. -cl:liquid -nmz / EN: 'ravine.where.materi-catfish.is.abundant'; ES: 'quebrada.donde.abunda.el.bagre'   
-| "[=materi][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre)]" : {materi}
-| "[=matiri][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre)]" : {matiri}
+| "[=materi][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre; sci.nm.: astroblepus.sp.)]" : {materi}
+| "[=matiri][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre; sci.nm.: astroblepus.sp.)]" : {matiri}
 ! 
 | "[=materinke][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinke}
 | "[=materinki][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinki}
@@ -3104,6 +3104,7 @@ define NRootPRQin [
 | "[=kanirisama][NRoot][=yucca-like.medicinal.plant.sp. (it.has.fattening.properties; ES: Fam.del.sapindo, sacha.yuca; QU: sach'a.rumu; sci.nm.: sapindáceas)]" : {kanirisama}
 ! 
 | "[=ponke+m.][NRoot][=eel.sp.]" : {ponke}
+| "[=ponke][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: characidae, knodus.sp.)]" : {ponke}
 ! 
 | "[=ponkitzi+inal@n/tsi.][NRoot][=ground]" : {ponkitzi}
 | "[=ponkitzi+inal@n/tsi.][NRoot][=(tree).trunk (ES: tronco)]" : {ponkitzi} ! 
