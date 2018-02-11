@@ -217,6 +217,7 @@ define NRootPRQin [
 ! 
 | "[=asana][NRoot][=fish.sp. ([a.ˈsa.na]; ES: añashua; sci.nm.: crenicichla.sp.)]" : {asana}
 | "[=ahana][NRoot][=fish.sp. (ES: añashua; sci.nm.: crenicichla.sp.)]" : {ahana}
+| "[=sosana][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: crenicichla.sp.)]" : {sosana}
 ! 
 | "[=ashonki][NRoot][=ankle]" : {ashonki}
 | "[=ashoshi][NRoot][=armadillo]" : {ashoshi}
@@ -1792,7 +1793,7 @@ define NRootPRQin [
 ! 
 | "[=koti][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {koti}
 ! 
-| "[=kovana][NRoot][=lisa-fish (ES: lisa)]" : {kovana}
+| "[=kovana][NRoot][=lisa-fish (ES: lisa; sci.nm.: anostomidae, leporinus.friderici)]" : {kovana}
 ! 
 | "[=kovantsi][NRoot][=tree/plant.sp. (planta.del.pájaro.bobo, bobinsana.grande)]" : {kovantsi}
 | "[=kotzivatse][NRoot][=tree/plant.sp. (bobinsana.chica)]" : {kotzivatse}
@@ -2682,6 +2683,9 @@ define NRootPRQin [
 | "[=pahe+inal@tsi.][NRoot][=gray.hair (ES: cana)]" : {pahe}
 ! 
 | "[=pahenti+n.m.][NRoot][=gray-haired, white-haired (ES: canoso)]" : {pahenti}
+! 
+| "[=pahetsi][NRoot][=fish.sp. (ES: sp.de.pez)]" : {pahetsi}
+| "[=pahechi][NRoot][=fish.sp. (ES: sp.de.pez)]" : {pahechi}
 ! 
 | "[=paho][NRoot][=bejuco.sp. (pate); pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete)]" : {paho}
 ! 
