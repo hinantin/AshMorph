@@ -337,7 +337,7 @@ define NRootPRQin [
 | "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {chenko} ! N@->V
 | "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {tsenko} ! N@->V
 ! 
-| "[=chenkori+m.][NRoot][=fish.sp. (huasaca, huasaco, pescado.perro)]" : {chenkori} 
+| "[=chenkori+m.][NRoot][=fish.sp. (huasaca, huasaco, pescado.perro; sci.nm.: hoplias.malabaricus)]" : {chenkori} 
 | "[=tsenkori+m.][NRoot][=fish.sp. (huasaca, huasaco, pescado.perro)]" : {tsenkori} 
 ! 
 | "[=chenkoo+n.m.][NRoot][=palm.tree.sp.]" : {chenkoo} 
@@ -1455,8 +1455,8 @@ define NRootPRQin [
 | "[=kepiya+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepiya}
 | "[=kepiyashi+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepiyashi}
 ! 
-| "[=kipaori][NRoot][=small-and-very_thin.fish.sp. (ES: boquichico, pez.ratón; pez.chico.y.muy.delgado)]" : {kipaori}
-| "[=kipavori][NRoot][=small-and-very_thin.fish.sp. (ES: boquichico, pez.ratón; pez.chico.y.muy.delgado)]" : {kipavori}
+| "[=kipaori][NRoot][=small-and-very_thin.fish.sp. (ES: boquichico, pez.ratón; pez.chico.y.muy.delgado; sci.nm.: parodon.sp.)]" : {kipaori}
+| "[=kipavori][NRoot][=small-and-very_thin.fish.sp. (ES: boquichico, pez.ratón; pez.chico.y.muy.delgado; sci.nm.: parodon.sp.)]" : {kipavori}
 ! 
 # ---------------------------------------------------------------------------
 # kipatsi: country, earth, soil, ground, land, dirt, dust 
