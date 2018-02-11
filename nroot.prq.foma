@@ -2279,6 +2279,8 @@ define NRootPRQin [
 | "[=omoona][NRoot][=hole]" : {omoona}
 | "[=omona][NRoot][=hole]" : {omona}
 ! 
+| "[=mota][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: perugia.sp.)]" : {mota}
+! 
 # antaro omotonkanive / =antaro o- =motonka -ni -ve / 
 # omoitonkapaye / omoitonkapaye / 
 | "[=motonka+poss@ni:ne.][NRoot][=whirlpool (ES: remolino)]" : {motonka}
@@ -3808,9 +3810,11 @@ define NRootPRQin [
 ! 
 | "[=tapo+n.m.+inal@tsi.][NRoot][=gums (ES: encia)]" : {tapo} ! @VCMP 
 ! 
-| "[=taaroma][NRoot][=Tarma]" : {taaroma}
+| "[=Tarma/taaroma][NRoot][=Tarma]" : {taaroma}
 ! 
-| "[=tairi+n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel)]" : {tairi}
+| "[=tairi+n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erithrina.uley?)]" : {tairi}
+! 
+| "[=tairipenki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: astyanax.sp., knodus.sp.)]" : {tairipenki}
 ! 
 | "[=tairinkari+m.][NRoot][=curl-crested.aracari (sci.nm.: pteroglossus.beauharnaessi), small.toucan.sp.]" : {tairinkari}
 ! shell, peel, skin
