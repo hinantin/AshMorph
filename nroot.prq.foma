@@ -3232,8 +3232,6 @@ define NRootPRQin [
 # timpishka / =timpi -shka / =empinarse -prf / ES: 'empinado' 
 | "[=shanay_timpishka][NRoot][=boiling.river]" : {shanay_timpishka} 
 ! 
-| "[=shaori][NRoot][=catfish.sp. (barbón)]" : {shaori}
-! 
 | "[=shamampo][NRoot][=wite-winged.swallow (sci.nm.: tachycinera.albiventer)]" : {shamampo}
 ! 
 | "[=shamanto][NRoot][=red-necked.woodpecker (sci.nm.: phloeoceastes.rubricollis)]" : {shamanto}
@@ -3265,8 +3263,9 @@ define NRootPRQin [
 ! 
 | "[=shatoni][NRoot][=paca.sp. (ES: majaz; sci.nm.: myoprocta.pratti)]" : {shatoni}
 ! 
-| "[=shavori+m.][NRoot][=barbon-fish.sp. (ES: barbón, bagre)]" : {shavori}
-| "[=shaori+m.][NRoot][=barbon-fish.sp. (ES: barbón, bagre)]" : {shaori}
+| "[=shavori+m.][NRoot][=barbon-fish.sp. (ES: barbón, bagre; sci.nm.: rhamdia.sp., narrorhamdia.nemacheiri)]" : {shavori}
+| "[=shaori+m.][NRoot][=barbon-fish.sp., catfish.sp. (ES: barbón, bagre; sci.nm.: rhamdia.sp., narrorhamdia.nemacheiri)]" : {shaori}
+!| "[=shaori][NRoot][=catfish.sp. (barbón)]" : {shaori}
 ! 
 | "[=shavintoki][NRoot][=psidium (ES: guayaba; botany.nm.: psidium.guajaba)]" : {shavintoki}
 ! 
