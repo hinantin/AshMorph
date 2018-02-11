@@ -1662,6 +1662,8 @@ define NRootPRQin [
 | "[=komaro+n.m.][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)]" : {komaro}
 | "[=komavo+n.m.][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)]" : {komavo}
 ! 
+| "[=komaro+n.m.][NRoot][=fish.sp. (ES: paco, piraña; sci.nm.: characidae, serrasalmus.sp.)]" : {komaro}
+! 
 | "[=komairo][NRoot][=olive-backed.foliage-gleaner (sci.nm: automolus.infuscatus)]" : {komairo}
 ! 
 | "[=komainaro][NRoot][=monkey.sp. (ES: mono.choro; sci.nm: lagothrrix.lagothricha)]" : {komainaro}
@@ -1897,7 +1899,7 @@ define NRootPRQin [
 ! 
 | "[=maaniri+n.m.][NRoot][=black.cinnamon.sp., medicinal.tree.sp.]" : {maaniri}
 ! 
-| "[=mamori+m.][NRoot][=fish.sp., sabalo]" : {mamori}
+| "[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)]" : {mamori}
 ! 
 | "[=mamaro+m.][NRoot][=owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamaro}
 | "[=mamavo+m.][NRoot][=owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamavo}
