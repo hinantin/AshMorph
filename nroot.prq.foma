@@ -4200,8 +4200,8 @@ define NRootPRQin [
 ! 
 | "[=tsinkamento+inal@tsi.][NRoot][=pounding.wooden_stick (ES: machacador); wooden.pestle (ES: machacador); wooden.crusher (ES: machacador)]" : {tsinkamento} 
 ! 
-| "[=tsinki+m.][NRoot][=eel.sp. (ES: anguila)]" : {tsinki} 
-| "[=tsinke+m.][NRoot][=eel.sp. (ES: anguila)]" : {tsinke} 
+| "[=tsinki+m.][NRoot][=eel.sp. (ES: anguila; sci.nm.: sternarchidae, adontosternarchus.sp.)]" : {tsinki} 
+| "[=tsinke+m.][NRoot][=eel.sp. (ES: anguila; sci.nm.: sternarchidae, adontosternarchus.sp.)]" : {tsinke} 
 ! 
 | "[=tsinkoti][NRoot][=cultigen/edible.plant.sp. (maranta, sci.nm.: maranta.arudinaca)]" : {tsinkoti} 
 ! 
@@ -4284,7 +4284,7 @@ define NRootPRQin [
 ! 
 | "[=tsiveta+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsiveta}
 | "[=tsivita+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
-| "[=inaro][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {inaro}
+| "[=inaro][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya; sci.nm.: potamotrygonidae)]" : {inaro}
 ! 
 | "[=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]" : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
 | "[=tsome+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]" : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
