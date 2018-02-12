@@ -1552,6 +1552,8 @@ define NRootPRQin [
 | "[=shintyoiroki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiroki}
 | "[=shintyoiriroki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiriroki}
 ! 
+| "[=kisontainari][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari}
+! 
 | "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
 ! 
 | "[=kitaiteri][NRoot][=day (ES: día)]" : {kitaiteri} ! @CMP 
@@ -3559,6 +3561,8 @@ define NRootPRQin [
 | "[=shevantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantoki}
 | "[=shevantyoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantyoki}
 | "[=hyivantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {hyivantoki}
+! 
+| "[=shevatarotsi][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodidae, sorubim.lima)]" : {shevatarotsi} 
 ! 
 # *********************************************************
 # oshi intsipa / o- =shi =intsipa / 3n.m.poss- =leaf =ice-cream.bean.tree ES: 'la.hoja.del.pacae' 
