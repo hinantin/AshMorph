@@ -509,6 +509,8 @@ define NRootPRQin [
 ! chowitsi / 
 | "[=chovi+m.+inal@tsi.][NRoot][=parasitic.worm; intestinal.worm.sp. (ES: gusano); insect.sp.]" : {chovi}
 ! 
+| "[=chovivinyaki][NRoot][=snail.sp. (ES: molusco; sci.nm.: thaumastus.bitaeniatus)]" : {chovivinyaki}
+! 
 | "[=chooviki][NRoot][= (ES: larva, suri)]" : {chooviki}
 | "[=chooviki][NRoot][= (ES: larva, suri)]" : {choviki}
 ! 
@@ -3956,7 +3958,7 @@ define NRootPRQin [
 ! 
 | "[=tioshiki][NRoot][=Job's.tears (ES: lágrima.de.Job; sci.nm.: coix.lacryma-jobi)]" : {tioshiki}
 ! 
-| "[=terempinti][NRoot][= (ES: molusco; sci.nm.: aperostoma.peruvianum)]" : {terempinti}
+| "[=terempinti][NRoot][=snail.sp. (ES: molusco; sci.nm.: aperostoma.peruvianum)]" : {terempinti} ! snail???
 ! 
 | "[=terori][NRoot][=red.parrot.sp. (sci.nm.: amazona.mercenaria)]" : {terori}
 | "[=teroori][NRoot][=red.parrot.sp. (sci.nm.: amazona.mercenaria)]" : {teroori}
