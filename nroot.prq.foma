@@ -979,7 +979,9 @@ define NRootPRQin [
 ! 
 | "[=oveni][NRoot][=Unini.river (ES: río.Unini)]" : {oveni}
 ! 
-| "[=penta][NRoot][=aquatic.bloodsucker.bug (ES: bicho.chupasangre.acuático)]" : {penta}
+# 'penta' habita en el agua de las quebradas y acostumbran habitar también los estómagos de los animales domésticos y
+# humanos por lo que los ashaninka llaman a dichos parásitos en general 'penta' 
+| "[=penta][NRoot][=aquatic.bloodsucker.bug (ES: bicho.chupasangre.acuático); planaria.sp. (ES: sp.planaria; sci.nm.: orden.tremátode)]" : {penta}
 ! 
 | "[=pentaki+n.m.+inal@ntsi.][NRoot][=fish.scale (ES: escama.de.pez)]" : {pentaki}
 ! 
@@ -3778,7 +3780,7 @@ define NRootPRQin [
 | "[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa)]" : {shitovi}
 | "[=shitoovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa)]" : {shitoovi}
 ! 
-| "[=shitsa][NRoot][=vine; string.like; worm.sp. (ES: sp.de.lombriz.de.tierra/instestinal)]" : {shitsa} ! N@->V 
+| "[=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de.lombriz.de.tierra/instestinal)]" : {shitsa} ! N@->V 
 !
 ! ishitsanetatiya / ES: 'él.está.con.bicho' 
 | "[=shitsane+m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]" : {shitsane} ! N@->V::[=to.have.intestinal.worms (ES: estar.con.bicho)] 
