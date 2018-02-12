@@ -3258,6 +3258,8 @@ define NRootPRQin [
 ! 
 | "[=samoto][NRoot][=rotten.stick (ES: palo.podrido); armored.catfish.sp. (ES: carachama; sci.nm.: hypostomus.sp., ancistrus.sp.)]" : {samoto}
 ! 
+| "[=santa][NRoot][=daytime/diurnal.butterfly.sp. (ES: mariposa.diurna)]" : {santa}
+! 
 | "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V::[=to.fart (ES: tirarse.un.pedo)] 
 | "[=santsi+inal@tzi.][NRoot][=fart (ES: pedo)]" : {santsi}
 ! 
@@ -3552,7 +3554,7 @@ define NRootPRQin [
 | "[=naashiintsatziri+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {naashiintsatziri}
 | "[=naashiintsatiri+m.][NRoot][=nocturnal.bird.sp.; ghost, demon (tunche)]" : {naashiintsatiri}
 ! 
-| "[=shaveta+m.][NRoot][=daytime/diurnal.butterfly.sp. (ES: mariposa)]" : {shaveta}
+| "[=shaveta+m.][NRoot][=daytime/diurnal.butterfly.sp. (ES: mariposa.diurna)]" : {shaveta}
 ! 
 | "[=sheito][NRoot][=intestines; gizzard (ES: molleja)]" : {sheito}
 ! 
