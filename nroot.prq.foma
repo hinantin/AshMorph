@@ -3496,9 +3496,10 @@ define NRootPRQin [
 | "[=saventaro+n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventaro}
 | "[=saventavo+n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventavo}
 ! 
-| "[=savirentsitaki][NRoot][=fish.sp. (sp.de.pez)]" : {savirentsitaki}
-| "[=shaatonki][NRoot][=fish.sp. (sp.de.pez)]" : {shaatonki}
-| "[=parentinato][NRoot][=fish.sp. (sp.de.pez)]" : {parentinato}
+| "[=savirentsitaki][NRoot][=fish.sp. (ES: sp.de.pez, saltón)]" : {savirentsitaki}
+| "[=shaatonki][NRoot][=fish.sp. (ES: sp.de.pez, saltón)]" : {shaatonki}
+| "[=parentinato][NRoot][=fish.sp. (ES: sp.de.pez, saltón)]" : {parentinato}
+| "[=metsotonkiri][NRoot][=fish.sp. (ES: sp.de.pez, saltón)]" : {metsotonkiri}
 ! 
 | "[=saviri+n.m.+poss@te.][NRoot][=machete]" : {saviri}
 ! 
