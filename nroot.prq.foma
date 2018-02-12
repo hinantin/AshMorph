@@ -320,7 +320,7 @@ define NRootPRQin [
 ! 
 | "[=chapiti][NRoot][=worm.sp.]" : {chapiti}
 ! 
-| "[=charava][NRoot][=fish.sp. (ES: súngaro)]" : {charava}
+| "[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón)]" : {charava}
 ! 
 | "[=charavapana][NRoot][=otter.sp. (ES: nutria; sci.nm.: lontra.longicaudis)]" : {charavapana}
 ! 
@@ -3496,10 +3496,10 @@ define NRootPRQin [
 | "[=saventaro+n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventaro}
 | "[=saventavo+n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventavo}
 ! 
-| "[=savirentsitaki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {savirentsitaki}
-| "[=shaatonki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shaatonki}
-| "[=parentinato][NRoot][=fish.sp. (ES: sp.de.pez)]" : {parentinato}
-| "[=metsotonkiri][NRoot][=fish.sp. (ES: sp.de.pez)]" : {metsotonkiri}
+| "[=savirentsitaki][NRoot][=big-sized.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {savirentsitaki}
+| "[=shaatonki][NRoot][=big-sized.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {shaatonki}
+| "[=parentinato][NRoot][=big-sized.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {parentinato}
+| "[=metsotonkiri][NRoot][=big-sized.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {metsotonkiri}
 ! 
 | "[=saviri+n.m.+poss@te.][NRoot][=machete]" : {saviri}
 ! 
