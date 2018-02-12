@@ -2461,7 +2461,7 @@ define NRootPRQin [
 ! 
 | "[=omani+m.][NRoot][=black.catfish (ES: zúngaro, huacava; sci.nm.: brachyplatystoma.filamentosa)]" : {omani}
 ! 
-| "[=omani_kitamarori][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: piratinga.piraiba)]" : {omani_kitamarori}
+| "[=omani_kitamarori][NRoot][=fish.sp. (ES: sp.de.pez, saltón; sci.nm.: piratinga.piraiba)]" : {omani_kitamarori}
 ! 
 | "[=omititsa+n.m.][NRoot][=wavy.summit.of.hill]" : {omititsa}
 | "[=omitzitsa+n.m.][NRoot][=wavy.summit.of.hill]" : {omitzitsa}
@@ -2550,8 +2550,10 @@ define NRootPRQin [
 | "[=opiyaata][NRoot][=whirl (ES: remolino)]" : {opiyaata}
 | "[=opiyahata][NRoot][=whirl (ES: remolino)]" : {opiyahata}
 ! 
-| "[=iyopempe][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopempe}
-| "[=iyopimpi][NRoot][=toucan.sp., bird.sp. (pinsha)]" : {iyopimpi}
+| "[=iyochi][NRoot][=fish.sp. (ES: doncella; sci.nm.: pimelodidae, pseudoplatystoma.fasciatum)]" : {iyochi}
+! 
+| "[=iyopempe][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopempe}
+| "[=iyopimpi][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopimpi}
 ! 
 | "[=sarintsi+m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {sarintsi} 
 | "[=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {harentsi} 
