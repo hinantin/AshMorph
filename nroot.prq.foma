@@ -1891,8 +1891,11 @@ define NRootPRQin [
 ! 
 | "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
 ! 
+# la larva 'maho' del escarabajo comestible de forma alargada y muchas patas que habita en pequeños túneles 
+# que excava en el suelo del bosque primario. Aparece en gran número a finales de la estación de 
+# lluvias en la zona de la confluencia de los ríos Ene y Perené 
 # majokiawo / mahokiavo / =maho -ki -a -vo / =larva.sp. -cl:seed-like -cl:liquid -nmz / EN: 'ravine.where.the.maho-larvae.are.abundant'; ES: 'quebrada.donde.abunda.el.gusano-maho'  
-| "[=maho][NRoot][=bamboo.big-and-white.larva/worm.sp. (ES: sp.de.gusano/larva)]" : {maho}
+| "[=maho][NRoot][=bamboo.big-and-white.larva/worm.sp. (ES: sp.de.gusano/larva; sci.nm.: orden.coleoptera, familia.scarabaeidae)]" : {maho}
 ! 
 | "[=mahoti][NRoot][=potoo.sp. (ES: chotacabra; sci.nm.: nyctibius.griseus)]" : {mahoti}
 | "[=narani][NRoot][=potoo.sp. (ES: chotacabra); eagle-like.nocturnal.bird.sp. (ES: ave.nocturna.simlar.al.alguila)]" : {narani}
