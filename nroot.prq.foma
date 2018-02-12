@@ -311,6 +311,8 @@ define NRootPRQin [
 | "[=txekopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {txekopi}
 | "[=chakopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]" : {chakopi} ! N@->V
 ! 
+| "[=chakopitaki][NRoot][=beetle.sp. (ES: sp.de.escarabajo; sci.nm.: género.chalcolepidius))]" : {chakopitaki}
+! 
 | "[=cheero][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {cheero}
 | "[=tseero][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {tseero}
 ! 
@@ -375,6 +377,8 @@ define NRootPRQin [
 | "[=chiviro+m.][NRoot][=fish.sp. (ES: macana, porra)]" : {chiviro}
 ! 
 | "[=chevo+inal@tsi.][NRoot][=branch]" : {chevo}
+! 
+| "[=chienchetaki][NRoot][=beetle.sp. (ES: sp.de.escarabajo)]" : {chienchetaki}
 ! 
 | "[=chikonti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero; sci.nm.: dryocopus.lineatus)]" : {chikonti}
 ! 
@@ -3182,8 +3186,10 @@ define NRootPRQin [
 ! 
 | "[=poroniya+n.m.][NRoot][=banana.sp.]" : {poroniya}
 ! 
-| "[=poroporotzi+m.][NRoot][=fish.sp. (cunchi)]" : {poroporotzi}
-| "[=poromporotzi+m.][NRoot][=fish.sp. (cunchi)]" : {poromporotzi}
+| "[=poroporotzi+m.][NRoot][=fish.sp. (ES: cunchi)]" : {poroporotzi}
+| "[=poromporotzi+m.][NRoot][=fish.sp. (ES: cunchi)]" : {poromporotzi}
+! 
+| "[=porootaki][NRoot][=beetle.sp. (ES: sp.de.escarabajo; sci.nm.: género.acanthoderes)]" : {porootaki}
 ! 
 | "[=poshiniri][NRoot][=tasty, delicious (ES: sabroso)]" : {poshiniri}
 ! 
