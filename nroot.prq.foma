@@ -1354,6 +1354,8 @@ define NRootPRQin [
 | "[=kaviniri+n.m.][NRoot][=cinnamon.sp. (sci.nm.: cinnamomum.genus); tree.sp.]" : {kaviniri}
 | "[=kaviniro+n.m.][NRoot][=cinnamon.sp. (sci.nm.: cinnamomum.genus); tree.sp.]" : {kaviniro}
 ! 
+| "[=kaviote][NRoot][=winged.ant.sp. (ES: hormiga.alada.de.la.casta.de.reproductoras)]" : {kaviote}
+! 
 | "[=kavo+n.m.+inal@tsi.][NRoot][=corn.cob/maize (ES: coronta); tool.handle/shank]" : {kavo}
 ! 
 | "[=kavoito][NRoot][=white.hawk (sci.nm.: leucopternis.albicollis)]" : {kavoito}
@@ -2871,6 +2873,7 @@ define NRootPRQin [
 ! 
 | "[=papaso+m.][NRoot][=big.beetle.sp.]" : {papaso}
 ! 
+# paretani / =pareta -ni /  
 | "[=pareto+m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero; sci.nm.: bolborhynchus.orbignesius, bolborhynchus.lineola)]" : {pareto}
 | "[=parito+m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero; sci.nm.: bolborhynchus.orbignesius, bolborhynchus.lineola)]" : {parito}
 | "[=pareta+m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero)]" : {pareta}

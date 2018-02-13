@@ -87,7 +87,7 @@ define NounToVerbPRQin [
 | "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]+vbz." : {shiri} ! N@->V
 | "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco ([ˈʃɛ.ɾɪ];ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]+vbz." : {sheri} ! N@->V
 | "[=seri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]+vbz." : {seri} ! N@->V
-| "[=shirampari+m.][NRoot][=man; male (ES: hombre)]+vbz." : {shirampari} ! N@->V
+| "[=shirampari+m.][NRoot][=man; male (ES: hombre)]::[=to.transform.into.a.man]+vbz." : {shirampari} ! N@->V::[=to.transform.into.a.man]
 | "[=shitamenko+n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: tarima.(hecha.de.pona))]::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))]+vbz." : {shitamenko} ! N@->V::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))]  
 | "[=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de.lombriz.de.tierra/instestinal)]+vbz." : {shitsa} ! N@->V 
 | "[=shitsane+m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]::[=to.have.intestinal.worms (ES: estar.con.bicho)]+vbz." : {shitsane} ! N@->V::[=to.have.intestinal.worms (ES: estar.con.bicho)] 
