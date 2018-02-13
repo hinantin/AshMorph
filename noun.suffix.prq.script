@@ -185,7 +185,8 @@ define N=S=CL [
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
 
 ! inchatona / =incha -to -na / =plant -cl:tree -cl:long,hollow / EN: 'big.hollowed.tree_trunk'; ES: 'un.gran.tronco.ahuecado.en.forma.de.una.pequeña.canoa' 
-| "[--][-naki][+CL:round.hollow][=round,hollow;interior.space]" : {naki} 
+| "[--][-naki][+CL:round.hollow][=round,hollow;interior.space;vacuous,round]" : {naki} 
+| "[--][-nyaki][+CL:round.hollow][=round,hollow;interior.space;vacuous,round]" : {nyaki}
 | "[--][-na][+CL:long.hollow][=long,hollow (ES: alongado,ahuecado); round,hollow]" : {na} 
 ! 
 ! inkaña / inkanya / =inka -nya / =rain.related -cl:small.shallow.pool / EN: 'small.shallow.pool.of.rainwater' 
