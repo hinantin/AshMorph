@@ -3809,7 +3809,7 @@ define NRootPRQin [
 ! 
 | "[=shipopori+m.][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {shipopori}
 ! 
-| "[=shirampari+m.][NRoot][=man; male (ES: hombre)]" : {shirampari} ! N@->V
+| "[=shirampari+m.][NRoot][=man; male (ES: hombre)]" : {shirampari} ! N@->V::[=to.transform.into.a.man]
 ! 
 | "[=shiravari+m.][NRoot][=infertile.male (ES: hombre.estéril)]" : {shiravari}
 | "[=shiravaro+n.m.][NRoot][=infertile.female (ES: mujer.estéril)]" : {shiravaro}
