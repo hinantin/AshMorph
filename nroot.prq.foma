@@ -533,6 +533,8 @@ define NRootPRQin [
 | "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
 | "[=enchaniki][NRoot][=child]" : {enchaniki}
 ! 
+| "[=eeni][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: eciton.rapax)]" : {eeni}
+! 
 | "[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]" : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=iintsi+n./m.][NRoot][=child (ES: niño)]" : {iintsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]" : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
