@@ -302,6 +302,8 @@ define NRootPRQin [
 | "[=tsekito][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {tsekito}
 | "[=sekito][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {sekito}
 ! 
+| "[=tsetanti][NRoot][=bird.sp., crax.sp. (ES: ; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini, género.partamona.sp., grupo.cupira)]" : {tsetanti}
+! 
 | "[=tseviro][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: rhamphichtys.rostratus)]" : {tseviro}
 ! 
 | "[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {cheenkari}
@@ -3423,6 +3425,8 @@ define NRootPRQin [
 ! 
 | "[=shiopaniro][NRoot][=butterfly.sp.with.question_mark-design.in.its.wings; larva.sp.]" : {shiopaniro}
 ! 
+| "[=shiriki][NRoot][=bee.sp. (ES: abeja.hechicera; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini)]" : {shiriki}
+! 
 | "[=shirinti][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirinti}
 | "[=shirenti][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirenti}
 | "[=shirentzi][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirentzi}
@@ -3968,6 +3972,8 @@ define NRootPRQin [
 | "[=tampito+m.][NRoot][=armored.catfish.sp. (ES: especie.carachama); fish.sp.]" : {tampito}
 ! 
 | "[=tampo+poss@ne.][NRoot][=main.river, Tambo.river]" : {tampo}
+! 
+| "[=tamporo][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: familia.vespidae, género.polistes)]" : {tamporo}
 ! 
 | "[=tankotsa][NRoot][=leg]" : {tankotsa}
 ! 
