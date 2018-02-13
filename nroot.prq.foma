@@ -3028,7 +3028,9 @@ define NRootPRQin [
 ! 
 | "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
 ! 
-| "[=pichi][NRoot][= (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, subfamilia.xylocopine)]" : {pichi}
+# las abejas 'pichi', 'sanirontiki' perforan los troncos secos de árboles muertos y construyen sus nidos en estos.
+| "[=pichi][NRoot][=carpenter.bee.sp. (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, subfamilia.xylocopine)]" : {pichi}
+| "[=sanirontiki][NRoot][=carpenter.bee.sp. (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, género.xylocopa, neoxylocopa.sp.)]" : {sanirontiki}
 ! 
 | "[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief; regional.leader]" : {pinkatsari}
 | "[=pinkatsare+m.+voc.+poss@te.][NRoot][=chief; regional.leader]" : {pinkatsare}
