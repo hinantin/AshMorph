@@ -1516,6 +1516,7 @@ define NRootPRQin [
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
 | "[=kipatsite][NRoot][=territory (ES: territorio)]" : {kipatsite}
 ! 
+# la avispa 'kipatsinari' hace su nido excavando en el suelo.
 | "[=kipatsinari][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.ammophilinae)]" : {kipatsinari}
 ! 
 | "[=kipatsisatzi+m.][NRoot][=underground.dweller]" : {kipatsisatzi}
