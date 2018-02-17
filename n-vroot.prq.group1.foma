@@ -132,7 +132,7 @@ define NounToVerbPRQin [
 | "[=kenkivari+m.][AdjRoot][=old]::[=to.get.old (male.ego; ES: envejecer)]+vbz." : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
 | "[=kenkevari+m.][AdjRoot][=old]+vbz." : {kenkevari} ! N@->V
 | "[=kinkivari+m.][AdjRoot][=old]+vbz." : {kinkivari} ! N@->V
-| "[=kenkivaro+n.m.][AdjRoot][=old]+vbz." : {kenkivaro} ! N@->V
+| "[=kenkivaro+n.m.][AdjRoot][=old (ES: chatarra)]+vbz." : {kenkivaro} ! N@->V
 | "[=kinkivaro+n.m.][AdjRoot][=old]+vbz." : {kinkivaro} ! N@->V
 | "[=pisari+m.][AdjRoot][=old]+vbz." : {pisari} ! N@->V
 | "[=pishari+m.][AdjRoot][=old]+vbz." : {pishari} ! N@->V
