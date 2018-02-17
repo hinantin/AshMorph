@@ -45,7 +45,7 @@ define ARootPRQin [
 | "[=kenkivari+m.][AdjRoot][=old]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
 | "[=kenkevari+m.][AdjRoot][=old]" : {kenkevari} ! N@->V
 | "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari} ! N@->V
-| "[=kenkivaro+n.m.][AdjRoot][=old]" : {kenkivaro} ! N@->V
+| "[=kenkivaro+n.m.][AdjRoot][=old (ES: chatarra)]" : {kenkivaro} ! N@->V
 | "[=kinkivaro+n.m.][AdjRoot][=old]" : {kinkivaro} ! N@->V
 ! 
 | "[=maaro][AdjRoot][=everybody, all]" : {maaro}
