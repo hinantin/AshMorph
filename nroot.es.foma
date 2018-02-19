@@ -37,6 +37,9 @@ define NRootESin [
 ! 
 | "[=castellano][NRootEs][=Spanish]" : {castellano}
 ! 
+| "[=chancho][NRootEs][=pig]" : {chancho}
+| "[=chancho/chaancho][NRootEs][=pig]" : {chaancho}
+! 
 | "[=chocolate/chokorate+NCMS000][NRootEs][=chocolate]" : {chokorate}
 ! 
 | "[=cuchara/cochara][NRootEs][=spoon]" : {cochara}
