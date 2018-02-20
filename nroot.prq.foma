@@ -4232,8 +4232,9 @@ define NRootPRQin [
 ! palm species
 | "[=toniro+n.m.+poss@ti:te.][NRoot][=palm.tree.sp. (ES: aguaje; sci.nm.: mauritia.flexuosa)]" : {toniro}
 !
-| "[=tonkari+sem@loc.][NRoot][=hill.top,above]" : {tonkari}
-| "[=tonkaari+sem@loc.][NRoot][=hill.top,above]" : {tonkaari}
+| "[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)]" : {tonkari}
+| "[=tonkaari+sem@loc.][NRoot][=hill.top,above (ES: loma)]" : {tonkaari}
+| "[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)]" : {tonkaare}
 ! 
 | "[=tonkariki+sem@loc.][NRoot][=top.of.the.hill]" : {tonkariki}
 | "[=otapiki+sem@loc.][NRoot][=bottom.of.the.hill]" : {otapiki}
