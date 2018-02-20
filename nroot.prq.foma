@@ -310,7 +310,11 @@ define NRootPRQin [
 ! 
 | "[=tseviro][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: rhamphichtys.rostratus)]" : {tseviro}
 ! 
+| "[=cheenkari+m.][NRoot][=venomous.snake.sp. (ES: jergón, sp.de.culebra.venenosa)]" : {cheenkari}
+| "[=chiinkari+m.][NRoot][=venomous.snake.sp. (ES: jergón, sp.de.culebra.venenosa)]" : {chiinkari}
+! 
 | "[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {cheenkari}
+| "[=chiinkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {chiinkari}
 | "[=chenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {chenkari}
 | "[=cheenkaro+sem@color.][NRoot][=black (ES: negra)]" : {cheenkaro}
 | "[=cheenkavo+sem@color.][NRoot][=black (ES: negra)]" : {cheenkavo}
