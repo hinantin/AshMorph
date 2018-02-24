@@ -653,6 +653,10 @@ define NRootPRQin [
 ! 
 | "[=hananeri][NRoot][=person's.name]" : {hananeri}
 ! 
+| "[=haanaari][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]" : {haanaari}
+| "[=haanaare][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]" : {haanaare}
+| "[=haanari][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]" : {haanari}
+! 
 | "[=haachotzi][NRoot][=black-tailed.trogon (sci.nm.: trogon.melanurus)]" : {haachotzi}
 ! 
 | "[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]" : {haavari}
