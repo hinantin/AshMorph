@@ -1934,11 +1934,11 @@ define VRootPRQin [
 | "[=tsih][VRoot][=to.cut]" : {tsih}
 ! 
 # Modal verb 
-| "[=tzim][VRoot][=to.have; to.exist]" : {tzim}
-| "[=tim][VRoot][=to.have; to.give.birth]" : {tim}
-| "[=tsim][VRoot][=to.have]" : {tsim}
-| "[=tzim][VRoot][=to.be.born]" : {tzim}
-| "[=tzimant][VRoot][=to.give.birth]" : {tzimant}
+| "[=tzim][VRoot][=to.have (ES: tener); to.exist]" : {tzim}
+| "[=tim][VRoot][=to.have (ES: tener); to.give.birth]" : {tim}
+| "[=tsim][VRoot][=to.have (ES: tener)]" : {tsim}
+| "[=tzim][VRoot][=to.be.born (ES: nacer)]" : {tzim}
+| "[=tzimant][VRoot][=to.give.birth (ES: dar.a.luz)]" : {tzimant}
 ! 
 | "[=tsimank][VRoot][=to.cast.a.shadow (ES: ensombrecer)]" : {tsimank}
 ! 
