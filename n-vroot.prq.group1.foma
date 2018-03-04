@@ -17,9 +17,9 @@ define NounToVerbPRQin [
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=avo+n.m.+inal@tsi.][NRoot][=road, trail]::[=to.make.a.road (ES: hacer.una.senda)]+vbz." : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)]
 | "[=chakopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
-| "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charine} ! N@->V
-| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {chaine} ! N@->V
-| "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]+vbz." : {charini} ! N@->V ! is te as a possessive correct ????
+| "[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {charine} ! N@->V
+| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {chaine} ! N@->V
+| "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {charini} ! N@->V ! is te as a possessive correct ????
 | "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz." : {chenko} ! N@->V
 | "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz." : {tsenko} ! N@->V
 | "[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]+vbz." : {chetaki} ! N@->V::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]
