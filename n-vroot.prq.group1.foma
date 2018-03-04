@@ -16,7 +16,7 @@ define NounToVerbPRQin [
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=avo+n.m.+inal@tsi.][NRoot][=road, trail]::[=to.make.a.road (ES: hacer.una.senda)]+vbz." : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)]
-| "[=chakopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
+| "[=chakopi+n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {chaine} ! N@->V
 | "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {charini} ! N@->V ! is te as a possessive correct ????
