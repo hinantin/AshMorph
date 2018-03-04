@@ -96,9 +96,9 @@ define VRootPRQin [
 ! 
 | "[=amin][VRoot][=to.treat]" : {amin}
 | "[=amin][VRoot][=to.examine]" : {amin}
-| "[=amin][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amin}
-| "[=amen][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {amen}
-| "[=amin+prop@redup.][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of]" : {aminamina}
+| "[=amin][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amin}
+| "[=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amen}
+| "[=amin+prop@redup.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {aminamina}
 ! 
 | "[=amintsa][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)]" : {amintsa}
 ! 
