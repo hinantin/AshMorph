@@ -357,9 +357,9 @@ define NRootPRQin [
 | "[=chareto][NRoot][=NP]" : {chareto}
 ! 
 ! grandpa, grandfather, grandparents
-| "[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charine} ! N@->V
-| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {chaine} ! N@->V
-| "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]" : {charini} ! N@->V ! is te as a possessive correct ????
+| "[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {charine} ! N@->V
+| "[=chaine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {chaine} ! N@->V
+| "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {charini} ! N@->V ! is te as a possessive correct ????
 ! 
 | "[=chariha][NRoot][=cast_net (ES: atarraya, red), throw_net, circular.net.with.small.weights.distributed.around.its.edge (ES: tarrafa)]" : {chariha}
 | "[=kitsari][NRoot][=cast_net (ES: atarraya, red), throw_net, circular.net.with.small.weights.distributed.around.its.edge (ES: tarrafa)]" : {kitsari}
