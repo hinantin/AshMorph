@@ -107,8 +107,8 @@ define NounToVerbPRQin [
 | "[=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)]+vbz." : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
 | "[=tsome+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)]+vbz." : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]::[=to.be.pregnant (ES: estar.embarazada)]+vbz." : {tsomonte} ! N@->V::[=to.be.pregnant (ES: estar.embarazada)] 
-| "[=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]+vbz." : {viti} ! N@->V
-| "[=vitzi+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma); skin]+vbz." : {vitzi} ! N@->V
+| "[=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma)]+vbz." : {viti} ! N@->V
+| "[=vitzi+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma); skin]+vbz." : {vitzi} ! N@->V
 | "[=ayompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo); short-distance.bartering.made.by.males (ES: trueque.de.corta.distancia)]::[=to.barter.sth. (ES: hacer.trueque)]+vbz." : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine
 | "[=iompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo)]::[=to.barter.sth. (ES: hacer.trueque)]+vbz." : {iompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] 
 | "[nianki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)]+vbz." : {nianki} ! N@->V::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)] 
