@@ -42,8 +42,8 @@ define PrnDemPRQin [
 | "[=nironta+n.m.+distal][PrnDem][=~]" : {nironta}
 | "[=hironto+n.m.+distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hironto}
 ! 
-| "[=irika+m.+proximal][PrnDem][=this]" : {irika}
-| "[=iirika+m.+proximal][PrnDem][=this]" : {iirika}
+| "[=irika+m.+proximal][PrnDem][=this (ES: este)]" : {irika}
+| "[=iirika+m.+proximal][PrnDem][=this (ES: este)]" : {iirika}
 | "[=irira+m.+medial][PrnDem][=~]" : {irira}
 | "[=irinta+m.+distal][PrnDem][=~]" : {irinta}
 ! 
