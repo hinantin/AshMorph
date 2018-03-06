@@ -20,8 +20,8 @@ define NounToVerbPRQin [
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {chaine} ! N@->V
 | "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {charini} ! N@->V ! is te as a possessive correct ????
-| "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz." : {chenko} ! N@->V
-| "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz." : {tsenko} ! N@->V
+| "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]::[=to.wear.pants (ES: ponerse.pantalones)]+vbz." : {chenko} ! N@->V::[=to.wear.pants (ES: ponerse.pantalones)] 
+| "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]::[=to.wear.pants (ES: ponerse.pantalones)]+vbz." : {tsenko} ! N@->V::[=to.wear.pants (ES: ponerse.pantalones)] 
 | "[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]+vbz." : {chetaki} ! N@->V::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]
 | "[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]::[=to.be.a.child (ES: ser.un.niño)]+vbz." : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=iintsi+n./m.][NRoot][=child (ES: niño)]::[=to.be.a.child (ES: ser.un.niño)]+vbz." : {iintsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 

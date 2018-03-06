@@ -369,8 +369,8 @@ define NRootPRQin [
 ! 
 | "[=chenkaro+m.][NRoot][=black-and-white.bird.sp.]" : {chenkaro}
 ! trousers, pants
-| "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {chenko} ! N@->V::[=to.wear.pants (ES: ponerse.pantalones)] 
-| "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {tsenko} ! N@->V::[=to.wear.pants (ES: ponerse.pantalones)] 
+| "[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {chenko} ! N@->V::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)] 
+| "[=tsenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {tsenko} ! N@->V::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)] 
 ! 
 | "[=chenkori+m.][NRoot][=fish.sp., huasaco-fish (huasaca, huasaco, pescado.perro; sci.nm.: hoplias.malabaricus)]" : {chenkori} 
 | "[=tsenkori+m.][NRoot][=fish.sp., huasaco-fish (huasaca, huasaco, pescado.perro)]" : {tsenkori} 
