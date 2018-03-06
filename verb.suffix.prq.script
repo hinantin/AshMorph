@@ -610,9 +610,9 @@ define V=S=ADJ [ # revise!
                    
 # --------Sociative-Causative ----------
 define V=S=CAUSSOC [
-  "[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.]" : "@EP"[{ak}]
-| "[--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.]" : "@EP"[{aka}]
-| "[--][-akaa][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.]" : "@EP"[{akaa}]
+  "[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{ak}]
+| "[--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{aka}]
+| "[--][-akaa][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{akaa}]
 ];
                    
 define CAUSSOC [ [EP V=S=CAUSSOC]|[V=S=CAUSSOC] ];
