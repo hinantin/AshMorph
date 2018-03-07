@@ -2493,14 +2493,14 @@ define NRootPRQin [
 ! 
 | "[=nii][NRoot][=breast]" : {nii}
 ! 
-| "[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language]" : {nyaa}
-| "[=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language]" : {nya}
-| "[=nea+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language]" : {nea}
+| "[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nyaa}
+| "[=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nya}
+| "[=nea+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nea}
 ! 
-| "[=nyaaperori+m.][NRoot][=brave; clever, sharp; skilful (ES: valiente; vivo/aprovechado, sabido; hábil)]" : {nyaaperori}
-| "[=nyaapirori+m.][NRoot][=brave; clever, sharp; skilful (ES: valiente; vivo/aprovechado, sabido; hábil)]" : {nyaapirori}
-| "[=neaperori+m.][NRoot][=brave; clever, sharp; skilful (ES: valiente; vivo/aprovechado, sabido; hábil)]" : {neaperori}
-| "[=neaperoro+n.m.][NRoot][=brave; clever, sharp; skilful (ES: valiente; viva/aprovechada, sabida; hábil)]" : {neaperoro}
+| "[=nyaaperori+m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {nyaaperori}
+| "[=nyaapirori+m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {nyaapirori}
+| "[=neaperori+m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {neaperori}
+| "[=neaperoro+n.m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: viva/aprovechada, sabida; hábil)]" : {neaperoro}
 ! 
 | "[=nyaniyo][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {nyaniyo}
 | "[=anio+n.m.+inal@ntsi.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {anio}
