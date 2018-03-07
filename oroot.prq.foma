@@ -23,7 +23,7 @@ define ORootPRQin [
 # a / PP 
 | "[=a][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {atake} 
 ! 
-| "[=ari][PostPol][=PP][=there, so, thus, thereby, just.like.that]" : {ari}
+| "[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es)]" : {ari}
 | "[=ario][PostPol][=PP]" : {ario}
 | "[=ari][PostPol][=PP][--][=ka+shortened][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]" : {arika} ! ari-rika / PP-COND
 | "[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]" : {aririka} ! ari-rika / PP-COND : if 
