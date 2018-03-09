@@ -75,6 +75,7 @@ define NounToVerbPRQin [
 | "[=pirontzi+m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]::[=to.be.firefly (ES: ser.luciernaga)]+vbz." : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
 | "[=pironi+m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]+vbz." : {pironi} ! N@->V
 | "[=piroti+m.][NRoot][=firefly (ES: luciernaga); quasi-lightning.bug]+vbz." : {piroti} ! N@->V
+| "[=pira+m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]::[=to.become.sb's/a.pet]+vbz." : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet]
 | "[=tsipamintsare][NRoot][=friend (ES: amigo)]+vbz." : {tsipamintsare} ! N@->V
 | "[=tsipikirontsi+n.m.][NRoot][= (ES: quincha/tejido/trama.hecha.de.caña_brava/carrizo)]::[= (ES: construir.una.quincha/tejido/trama)]+vbz." : {tsipikirontsi} ! N@->V::[= (ES: construir.una.quincha/tejido/trama)] 
 | "[=pitziki][NRoot][=male.genitals]+vbz." : {pitziki} ! N@->V @VCMP 
