@@ -2493,6 +2493,8 @@ define NRootPRQin [
 ! 
 | "[=nii][NRoot][=breast]" : {nii}
 ! 
+| "[=niivotya][NRoot][=NP; person's.name]" : {niivotya}
+! 
 | "[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nyaa}
 | "[=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nya}
 | "[=nea+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nea}
