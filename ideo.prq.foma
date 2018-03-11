@@ -209,8 +209,8 @@ define IdeoPRQin [
 | "[=panek+s.redup.word][IdeoPRQ][=digging.soil.in.scoops]" : {panek} 
 ! 
 # kori: quiet.sound.made.in.the.throat.during.the.action.of.gulping.water
-| "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water; swallowing.liquid]" : {kori} 
-| "[=kori][IdeoPRQ][=action.of.gulping.water.once; swallowing.liquid][--][-k][+PUNCTUAL.ACTN]" : {korik} 
+| "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water; swallowing.liquid; action.of.gulping.a.drink]" : {kori} 
+| "[=kori][IdeoPRQ][=action.of.gulping.water.once; swallowing.liquid; action.of.gulping.a.drink][--][-k][+PUNCTUAL.ACTN]" : {korik} 
 ! 
 | "[=chek+s.redup.word][IdeoPRQ][=chopping.wood/trees/shrub]" : {chek} 
 | "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action; chopping.wood/trees/shrub]" : {cheki} 
