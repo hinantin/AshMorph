@@ -562,15 +562,18 @@ define NMZ [
                    
 # ****************************************
                    
-define V=S=ADJ [ # revise!
+define V=S=ADJ=SET1 [ # revise!
 # ----------------------------------
   "[--][-ri+m.][NS][+ADJ.NMZ]" : "@EP"[{ri}] 
 | "[--][-re+m.][NS][+ADJ.NMZ]" : "@EP"[{re}] 
 | "[--][-ro+n.m.][NS][+ADJ.NMZ]" : "@EP"[{ro}] 
 | "[--][-vo+n.m.][NS][+ADJ.NMZ]" : "@EP"[{vo}] 
+];
+
+define V=S=ADJ=SET2 [
 # ----------------------------------
 ! nyaatsatinkaro perota / =nyaatsa -tinkaro =pelota / =to.play -adj =ball / EN: 'female.soccer.player', ES: 'jugadora.de.fútbol' 
-| "[--][-tsinkari+m.][NS][+ADJ.NMZ]" : "@EP"[{tsinkari}] 
+  "[--][-tsinkari+m.][NS][+ADJ.NMZ]" : "@EP"[{tsinkari}] 
 | "[--][-tzinkari+m.][NS][+ADJ.NMZ]" : "@EP"[{tzinkari}] 
 | "[--][-tinkari+m.][NS][+ADJ.NMZ]" : "@EP"[{tinkari}] 
 | "[--][-tsinkaro+n.m.][NS][+ADJ.NMZ]" : "@EP"[{tsinkaro}] 
@@ -605,6 +608,12 @@ define V=S=ADJ [ # revise!
 | "[--][-ryanto+n.m.][NS][+ADJ.CAPABLE]" : "@EP"[{ryanto}] 
 | "[--][-rianto+n.m.][NS][+ADJ.CAPABLE]" : "@EP"[{rianto}] 
 ];
+
+define ADJ [
+  [EP V=S=ADJ=SET1]|[V=S=ADJ=SET1]
+| [V=S=ADJ=SET2]
+];
+
                    
 # ****************************************
                    
