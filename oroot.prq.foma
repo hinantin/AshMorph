@@ -246,8 +246,8 @@ define ORootPRQin [
 ! 
 | "[=timatsikera][VRoot][=CONT.EXIST (ES: todavía.hay)]" : {timatsikera} 
 ! 
-| "[=matsi][VRoot][=EXIST]" : {matsi} 
-| "[=maatsi][VRoot][=EXIST]" : {maatsi} 
+| "[=matsi][VRoot][=EXIST (EN: there.is/are)]" : {matsi} 
+| "[=maatsi][VRoot][=EXIST (EN: there.is/are)]" : {maatsi} 
 ! 
 | "[=okaratzi][ORoot][=all.the.amount (ES: todo)]" : {okaratzi} 
 # ------------------------------------------------------------------
