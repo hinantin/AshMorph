@@ -4443,10 +4443,14 @@ define NRootPRQin [
 | "[=tsirompitsa][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, tamishi, especie.de.planta.trepadora.no.maderable); vine.sp. (ES: especie.de.bejuco)]" : {tsirompitsa}
 ! 
 | "[=tsiroti][NRoot][=bird.sp. (ES: sp.de.pájaro, chihuaco)]" : {tsiroti}
-| "[=tsirotzi][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela; ES: sp.de.pájaro, chihuaco)]" : {tsirotzi}
+| "[=tsirotzi][r][=yellow-rumped.cacique (sci.nm.: cacicus.cela; ES: sp.de.pájaro, chihuaco)]" : {tsirotzi}
+! 
+| "[=tsiroti][NRoot][=striped.fish.sp. (ES: sp.de.pez.rayado)]" : {tsiroti}
+| "[=tsiroti][NRoot][=striped.fish.sp. (ES: sp.de.pez.rayado)]" : {tsirotzi}
 ! 
 | "[=tsirotisanine][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {tsirotisanine}
 ! 
+923178513
 | "[=tsiteniri][NRoot][=night (ES: noche)]" : {tsiteniri}
 | "[=tsireniri][NRoot][=night (ES: noche)]" : {tsireniri}
 | "[=tsitini][NRoot][=night (ES: noche)]" : {tsitini}
