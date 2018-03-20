@@ -248,7 +248,7 @@ define NRootESin [
 ! 
 | "[=vacuna+NCMS000+poss@ri.][NRoot][=vaccine]" : {vacona} 
 ! 
-| "[=bala/vaara][NRoot][=cartridge, bullet (ES: bala)]" : {vaara} 
+| "[=bala/vaara][NRoot][=bullet.cartridge, bullet (ES: bala)]" : {vaara} 
 ! 
 | "[=Yurúa][NRoot][=NP]" : {yurúa} 
 ];
