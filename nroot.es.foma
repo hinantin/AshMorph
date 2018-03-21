@@ -242,6 +242,8 @@ define NRootESin [
 | "[=tambo][NRootQU][=Incan.structure (QU: tampu)]" : {tambo}
 | "[=tampu/tampo][NRootQU][=NP]" : {tampo}
 ! 
+| "[=tarma/taroma][NRoot][=NP]" : {taroma}
+! 
 | "[=Ucayali][NRoot][=NP]" : {ucayali}
 ! 
 | "[=vaca+NCFS000][NRoot][=cow]" : {vaca} 
