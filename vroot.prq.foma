@@ -1942,7 +1942,7 @@ define VRootPRQin [
 | "[=tsih][VRoot][=to.cut]" : {tsih}
 ! 
 # Modal verb 
-| "[=tzim][VRoot][=to.have (ES: tener); to.exist]" : {tzim}
+| "[=tzim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)]" : {tzim}
 | "[=tim][VRoot][=to.have (ES: tener); to.give.birth]" : {tim}
 | "[=tsim][VRoot][=to.have (ES: tener)]" : {tsim}
 | "[=tzim][VRoot][=to.be.born (ES: nacer)]" : {tzim}
