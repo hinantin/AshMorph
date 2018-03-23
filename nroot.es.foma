@@ -12,8 +12,8 @@ define NRootESin [
 ! 
 | "[=burro/boro+NCMS000+poss@te.][NRootEs][=donkey]" : {boro}
 ! 
-| "[=chapo/chaapo+poss@te.][NRootEs][=dessert/beverage.recipe.prepared.with.plantains.&.sugar.&.milk.&.cinnamon]" : {chaapo}
-| "[=chapo/chapo+poss@te.][NRootEs][=dessert/beverage.recipe.prepared.with.plantains.&.sugar.&.milk.&.cinnamon]" : {chapo}
+| "[=chapo/chaapo+poss@te.][NRootEs][=dessert/beverage.recipe.prepared.with.plantains.&.sugar.&.milk.&.cinnamon (ES: jugo.de.chapo)]" : {chaapo}
+| "[=chapo/chapo+poss@te.][NRootEs][=dessert/beverage.recipe.prepared.with.plantains.&.sugar.&.milk.&.cinnamon (ES: jugo.de.chapo)]" : {chapo}
 ! 
 | "[=botella/voteya][NRootEs][=bottle]" : {voteya}
 | "[=botella/poteya][NRootEs][=bottle]" : {poteya}
