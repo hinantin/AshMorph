@@ -237,8 +237,10 @@ define ORootPRQin [
 | "[=enitatsi][VRoot][=EXIST (ES: hay); POSSESS; CONT.POSS (ES: aún.tiene)]" : {enitatsi} 
 ! 
 # CONT.EXIST: continue.to.exist 
-| "[=ainiro][VRoot][=EXIST (EN: there.is/are; ES: hay); POSSESS; CONT.EXIST (ES: todavía.hay)]" : {ainiro} 
-| "[=aeniro][VRoot][=EXIST (EN: there.is/are; ES: hay); POSSESS; CONT.EXIST (ES: todavía.hay)]" : {aeniro} 
+| "[=ainiro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.hay/haber)]" : {ainiro} 
+| "[=aeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.hay/haber)]" : {aeniro} 
+| "[=eeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.ser)]" : {eeniro} 
+
 ! 
 | "[=tsimatsi][VRoot][=EXIST; POSSESS]" : {tsimatsi} 
 | "[=timatsi][VRoot][=EXIST (EN: there.is)]" : {timatsi} 
