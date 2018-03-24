@@ -273,8 +273,8 @@ define ConnRootPRQ01in [
 | "[=iihatzi][ConnRoot][=also]" : {iihatzi}
 | "[=roohatzi][ConnRoot][=also]" : {roohatzi}
 ! hati 
-| "[=ehati][ConnRoot][=also, and (ES: y)]" : {ehati}
-| "[=eehati][ConnRoot][=also, and (ES: y)]" : {eehati}
+| "[=ehati][ConnRoot][=also (ES: también); and (ES: y)]" : {ehati}
+| "[=eehati][ConnRoot][=also (ES: también); and (ES: y)]" : {eehati}
 ! sati 
 | "[=aisati][ConnRoot][=also]" : {aisati}
 | "[=aisati][ConnRoot][=also][--][-te][+NEG.AFF]" : {aisatite}
