@@ -88,6 +88,8 @@ define AdvRootPRQin [
 # kitziroini / =kitzi -roini / =first -only / EN: 'first' 
 | "[=kitziroini][AdvRoot][=first]" : {kitziroini}
 ! 
+| "[=echonkiini][AdvRoot][=a.little (ES: poco)]" : {echonkiini}
+! 
 # peeraniniri / =peerani -ni -ri / =long.ago -temporal -rel / EN: 'ancestor'; ES: 'antepasado'  
 | "[=pairani][AdvRoot][=since; before; long.ago]" : {pairani}
 | "[=paerani][AdvRoot][=since; before; long.ago]" : {paerani}
