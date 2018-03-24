@@ -1732,9 +1732,9 @@ define NRootPRQin [
 ! 
 | "[=kokaapi+n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {kokaapi}
 ! 
-| "[=koki][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]" : {koki}
-| "[=konki][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]" : {konki}
-| "[=konki+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]" : {konki}
+| "[=koki+m.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]" : {koki}
+| "[=konki+m.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]" : {konki}
+| "[=konki+m.+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]" : {konki}
 ! 
 | "[=koko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {koko}
 | "[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {kooko}
