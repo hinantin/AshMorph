@@ -152,6 +152,7 @@ define ORootPRQin [
 # iro kantaincha 'but' 
 | "[=iro][ConnRoot][=but (ES: pero)]" : {iro}
 | "[=kantaincha][ConnRoot][=but (ES: pero)]" : {kantaincha}
+| "[=kantaencha][ConnRoot][=but (ES: pero)]" : {kantaencha}
 | "[=kantaenchari][ConnRoot][=but (ES: pero)]" : {kantaenchari}
 # (iro).kantimaitacha 'but' 
 | "[=kantimaitacha][ConnRoot][=but (ES: pero)]" : {kantimaitacha}
