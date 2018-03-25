@@ -8,6 +8,10 @@ define AdvRootPRQin [
 | "[=chapinki][AdvRoot][=the.other.day, yesterday; long.ago, before; a.short.while.ago, recently, recent.time]" : {chapinki}
 | "[=chapinkiranki][AdvRoot][=the.other.day]" : {chapinkiranki}
 ! 
+| "[=entsikero][AdvRoot][=slow (ES: despacio)]" : {entsikero}
+| "[=entsikeroeni][AdvRoot][=slowly (ES: lentamente)]" : {entsikeroeni}
+| "[=eentsikeroeni][AdvRoot][=slowly (ES: lentamente)]" : {eentsikeroeni}
+! 
 | "[=ikanta][AdvRoot][=CONN]" : {ikanta}
 | "[=ikanta][AdvRoot][=meanwhile]" : {ikanta}
 | "[=ikanta][AdvRoot][=meanwhile]" : {ikantya}
