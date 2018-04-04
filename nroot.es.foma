@@ -8,7 +8,7 @@ define NRootESin [
 ! 
 | "[=arrozki/aroosaki][NRootEs][=rice.grain]" : {aroosaki}
 ! 
-| "[=azoriri+color][NRootEs][=blue]" : {azoriri} ! source:IIAP 
+| "[=azul/azoriri+color][NRootEs][=blue]" : {azoriri} ! source:IIAP 
 ! 
 | "[=burro/boro+NCMS000+poss@te.][NRootEs][=donkey]" : {boro}
 ! 
@@ -47,7 +47,9 @@ define NRootESin [
 ! 
 | "[=cuchara/cochara][NRootEs][=spoon]" : {cochara}
 ! 
-| "[=ishipanyori/español][NRootEs][=Spaniard]" : {ishipanyori}
+| "[=español/ishipanyori][NRootEs][=Spaniard]" : {ishipanyori}
+! 
+| "[=carretera/karretera][NRootEs][=highway]" : {karretera}
 ! 
 | "[=comadre/komaatiro][NRootEs][=godmother.of.one's.child]" : {komaatiro}
 | "[=comadre/komaari][NRootEs][=godmother.of.one's.child]" : {komaari}
@@ -132,7 +134,7 @@ define NRootESin [
 | "[=mula][NRootEs][=mule]" : {mula}
 | "[=mula/mora][NRootEs][=mule]" : {mora}
 ! 
-| "[=nylon][NRootEs][=nylon]" : {nairo}
+| "[=nylon/nairo][NRootEs][=nylon]" : {nairo}
 ! 
 | "[=número+poss@te.][NRootEs][=number]" : {nomero}
 ! 
