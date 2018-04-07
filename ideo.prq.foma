@@ -17,6 +17,8 @@ define IdeoPRQin [
 # - light object hitting a solid surface, without compromising the object’s integrity
 | "[=pok+s.redup.word][IdeoPRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pok}
 ! 
+| "[=eh+s.redup.word][IdeoPRQ][=action.of.swallowing]" : {eh}
+! 
 | "[=tee][IdeoPRQ][=action.of.hitting.a.human.body]" : {tee}
 | "[=te][IdeoPRQ][=action.of.hitting.a.human.body; action.of.hitting.sth./sb.without.deep.penetration][--][-k][+PUNCTUAL.ACTN]" : {tek}
 ! 
@@ -490,7 +492,9 @@ define IdeoPRQin [
 | "[=hemm+s.redup.word][IdeoPRQ][=sound.of.a.water-sprite]" : {hemm}
 ! 
 | "[=ooo+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
+| "[=oooh+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {oooh}
 | "[=hoo+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {hoo}
+| "[=hoooh+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {hoooh}
 ! 
 | "[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]" : {hoo}
 ! 
