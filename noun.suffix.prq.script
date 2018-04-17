@@ -23,9 +23,9 @@ define N=S=poss [
                    
 ! DEM.NOM: Nominal demonstrative
 define N=S=DEM [
-  "[--][-ka+proximal.b.][Adv][+DEM]" : {ka} ! this
-| "[--][-ra+medial.b.][Adv][+DEM]" : {ra} 
-| "[--][-nta+distal.b.][Adv][+DEM]" : {nta} 
+  "[--][-ka+proximal.b.][Adv][+DEM][=here, close.to.the.speaker]" : {ka} ! this
+| "[--][-ra+medial.b.][Adv][+DEM][=not.here, there, not.in.the.speaker's.interactional.space]" : {ra} 
+| "[--][-nta+distal.b.][Adv][+DEM][=there, far.from.the.speaker (bounded)]" : {nta} 
 ];
                    
 # ****************************************
