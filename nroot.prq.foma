@@ -4251,7 +4251,8 @@ define NRootPRQin [
 | "[=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {tyomi}
 | "[=tiomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {tiomi}
 ! 
-| "[=tyominkio][NRoot][=NP]" : {tyominkio}
+| "[=tyominkio][NRoot][=NP, person's.name]" : {tyominkio}
+| "[=tyominkiyo][NRoot][=NP, person's.name]" : {tyominkiyo}
 ! 
 | "[=tyohekiti][NRoot][=woodpecker.sp. (ES: sp.de.pájaro.carpintero; sci.nm.: veniliornis.nigriceps)]" : {tyohekiti}
 ! 
