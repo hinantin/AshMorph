@@ -589,6 +589,7 @@ define S [
 
 | (RCP) (CAUSSOC) (REGR) STAT (V=S=REL) 
 | (APPL) (APPLINST) STAT (V=S=REL) 
+| (APPL) (DIST) STAT (V=S=REL) ! ovametantayetatsiri 
  
 | (RCP) (CAUSSOC) (REGR) (DUR) STATUS (V=S=RPST)  
 | (RCP) (CAUSSOC) (PL) (REGR) STATUS  
