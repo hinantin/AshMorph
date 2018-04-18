@@ -71,6 +71,10 @@
       define NYOnset [ {niy} (->) {ny} || _ [a|á] ]; ! kanyari 'green' -> kaniyari 
       define KYOnset [ {kiy} (->) {ky} || _ [a|á] ]; ! chochokyari -> chochokiyari 
 
+      # diphthong: ay 
+      # wayro 
+      
+
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 
