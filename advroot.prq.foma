@@ -22,9 +22,9 @@ define AdvRootPRQin [
 | "[=inkaaranki][AdvRoot][=recently (ES: hace.un.momento/rato)]" : {inkaaranki}
 | "[=inkaranki][AdvRoot][=some.time.ago; a.short.while.ago]" : {inkaranki}
 ! 
-| "[=intsipaite][AdvRoot][=quickly (ES: rápido)]" : {intsipaite}
-| "[=intsipaeni][AdvRoot][=quickly (ES: rápido)]" : {intsipaeni}
-| "[=intsipaiteni][AdvRoot][=urgently (ES: urgente)]" : {intsipaiteni}
+| "[=intsipaite][AdvRoot][=quickly (ES: rápido); urgently, with.urgency (ES: urgente)]" : {intsipaite}
+| "[=intsipaeni][AdvRoot][=quickly (ES: rápido); urgently, with.urgency (ES: urgente)]" : {intsipaeni}
+| "[=intsipaiteni][AdvRoot][=urgently, with.urgency (ES: urgente)]" : {intsipaiteni}
 ! 
 # intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
 | "[=intsomoe][AdvRoot][=inside (ES: adentro)]" : {intsomoe} 
