@@ -46,15 +46,6 @@
       define NYReplacement [ {ny} (->) {ñ} || _ Vowels ];
       define VowelsWithAccent [ {a} (->) {á}, {e} (->) {é}, {i} (->) {í},{o} (->) {ó}, {u} (->) {ú}];
 
-      define ATildeReplacement1 [ {an} (->) {ã} || _ [k|t] ];
-      define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
-      define ETildeReplacement1 [ {en} (->) {ẽ} || _ [k|t] ];
-      define ETildeReplacement2 [ {em} (->) {ẽ} || _ [p] ];
-      define ITildeReplacement1 [ {in} (->) {ĩ} || _ [k|t] ];
-      define ITildeReplacement2 [ {im} (->) {ĩ} || _ [p] ];
-      define OTildeReplacement1 [ {on} (->) {õ} || _ [k|t] ];
-      define OTildeReplacement2 [ {om} (->) {õ} || _ [p] ];
-
       define UReplacement1 [ {o} (->) {u} || [Cons] _ [Cons] ]; # ayumpari, kubantsi
       define UReplacement2 [ {o} (->) {u} || [Cons] _ [a|e] ]; # kuakitzi, wuempo , kuaritotzi 
       define UReplacement3 [ {o} (->) {u} || [Cons] _ ]; # paju
@@ -71,10 +62,22 @@
       define NYOnset [ {niy} (->) {ny} || _ [a|á] ]; ! kanyari 'green' -> kaniyari 
       define KYOnset [ {kiy} (->) {ky} || _ [a|á] ]; ! chochokyari -> chochokiyari 
 
-      # diphthong: ay 
+      # ------------------------------------------
       # Seen in Ashanĩka do Rio Amônia
+      # ------------------------------------------
+      # diphthong: ay 
       # wayro , DURATIVE suffix 
       define AYDiphthong1 [ {ai} (->) {ay} || [v] _ ];
+      # tilde : ~ 
+      define ATildeReplacement1 [ {an} (->) {ã} || _ [k|t] ];
+      define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
+      define ETildeReplacement1 [ {en} (->) {ẽ} || _ [k|t] ];
+      define ETildeReplacement2 [ {em} (->) {ẽ} || _ [p] ];
+      define ITildeReplacement1 [ {in} (->) {ĩ} || _ [k|t] ];
+      define ITildeReplacement2 [ {im} (->) {ĩ} || _ [p] ];
+      define OTildeReplacement1 [ {on} (->) {õ} || _ [k|t] ];
+      define OTildeReplacement2 [ {om} (->) {õ} || _ [p] ];
+      # ------------------------------------------
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
 .o. AYDiphthong1 
