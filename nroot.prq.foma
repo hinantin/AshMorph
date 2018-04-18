@@ -359,7 +359,7 @@ define NRootPRQin [
 | "[=chareto][NRoot][=NP; person's.name]" : {chareto}
 ! 
 ! grandpa, grandfather, grandparents
-| "[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {charine} ! N@->V
+| "[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]" : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {chaine} ! N@->V
 | "[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {charini} ! N@->V ! is te as a possessive correct ????
 ! 
