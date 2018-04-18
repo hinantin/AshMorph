@@ -884,7 +884,10 @@ define NRootPRQin [
 | "[=inaapaki][NRoot][=edible.larva.sp. (ES: larva.comestible.de.la.yuca)]" : {inaapaki}
 ! 
 | "[=intakantarori][NRoot][=ancestor]" : {intakantarori}
+! 
+#  these are not nouns, consider moving them to adverbs 
 | "[=intakiro][NRoot][=outside]" : {intakiro}
+| "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
 | "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
 | "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
 # ----------------------------------------------------- 
