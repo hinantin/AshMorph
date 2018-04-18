@@ -77,6 +77,7 @@
       define AYDiphthong1 [ {ai} (->) {ay} || [v] _ ];
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
+.o. AYDiphthong1 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
@@ -85,6 +86,6 @@
 .o. UReplacement1 .o. UReplacement2 .o. UReplacement3 .o. UReplacement4  
 .o. NPReplacement 
 .o. TYOnset1 .o. TYOnset2 .o. PYOnset .o. KYOnset 
-.o. AYDiphthong1 ]; 
+]; 
 
 
