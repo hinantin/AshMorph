@@ -166,8 +166,8 @@ define NRootESin [
 | "[=pelota/peroota][NRootEs][=ball]" : {peroota}
 | "[=pelota/perota][NRootEs][=ball]" : {perota}
 ! 
-| "[=plato+poss@te.][NRootEs][=plate]" : {pirato}
-| "[=plato+poss@te.][NRootEs][=plate]" : {perato}
+| "[=plato/pirato+poss@te.][NRootEs][=plate]" : {pirato}
+| "[=plato/perato+poss@te.][NRootEs][=plate]" : {perato}
 ! 
 | "[=pico+n.m.][NRootEs][=pickaxe]" : {piiko}
 ! 
