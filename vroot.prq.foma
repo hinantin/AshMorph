@@ -708,6 +708,7 @@ define VRootPRQin [
 ! 
 | "[=kit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {kit}
 | "[=yiit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yiit} ! to be checked
+| "[=yet][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yet} 
 ! 
 | "[=kit][VRoot][=to.bury]" : {kit}
 | "[=kita][VRoot][=to.bury]" : {kita}
