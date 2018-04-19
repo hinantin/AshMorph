@@ -500,7 +500,7 @@ define V=S=COND [
   "[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]" : [{rika}] ! +evidential 
 # This suffix indicates, for good/bad, an action or idea wasn't fulfilled.
 # Also abbreviated CNT.EXP 'counter-expectational' 
-| "[--][=me][MODAL][+SUBJ]" : [{me}] 
+| "[--][=me][MODAL][+SUBJ][=not.to.achieve/realize.an.action/idea (ES: para.bien/mal.las.acciones/ideas.expresadas.no.se.realizaron)]" : [{me}] 
 ];
                    
 # ****************************************
