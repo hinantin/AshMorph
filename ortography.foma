@@ -72,6 +72,8 @@
       define AYDiphthong2 [ {ai} (->) {ay} || [s] _ ];
       # apaniroyni 
       define OYDiphthong1 [ {oi} (->) {oy} || [r] _ ]; ! add {n} ??? 
+      # Mawoyni
+      define OYDiphthong2 [ {oi} (->) {oy} || [v] _ ]; 
       # tilde : ~ 
       define ATildeReplacement1 [ {an} (->) {ã} || _ [k|t] ];
       define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
@@ -84,7 +86,8 @@
       # ------------------------------------------
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
-.o. AYDiphthong1 .o. AYDiphthong2 .o. OYDiphthong1 
+.o. AYDiphthong1 .o. AYDiphthong2 
+.o. OYDiphthong1 .o. OYDiphthong2 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
