@@ -86,8 +86,8 @@ define NounToVerbPRQin [
 | "[=pitzik][NRoot][=male.genitals]+vbz." : {pitzik} ! N@->V
 | "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]::[=to.fart (ES: tirarse.un.pedo)]+vbz." : {santi} ! N@->V::[=to.fart (ES: tirarse.un.pedo)] 
 | "[=kasanto][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]::[=to.be.an.orchid]+vbz." : {kasanto} ! N@->V::[=to.be.an.orchid]  
-| "[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]::[=to.be.a.shaman]+vbz." : {sheripiari} ! N@->V::[=to.be.a.shaman]  
-| "[=sheripiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]::[=to.act.as.a.shaman]+vbz." : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
+| "[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]::[=to.be.a.shaman]+vbz." : {sheripiari} ! N@->V::[=to.be.a.shaman]  
+| "[=sheripiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]::[=to.act.as.a.shaman]+vbz." : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
 | "[=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]+vbz." : {shetaki} ! N@->V
 | "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]+vbz." : {shiri} ! N@->V
 | "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco ([ˈʃɛ.ɾɪ];ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]+vbz." : {sheri} ! N@->V
