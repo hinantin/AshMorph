@@ -70,6 +70,8 @@
       define AYDiphthong1 [ {ai} (->) {ay} || [v] _ ];
       # osaykanake 
       define AYDiphthong2 [ {ai} (->) {ay} || [s] _ ];
+      # iranay 
+      define AYDiphthong3 [ {ai} (->) {ay} || [n] _ ];
       # apaniroyni 
       define OYDiphthong1 [ {oi} (->) {oy} || [r] _ ]; ! add {n} ??? 
       # Mawoyni
@@ -86,7 +88,7 @@
       # ------------------------------------------
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
-.o. AYDiphthong1 .o. AYDiphthong2 
+.o. AYDiphthong1 .o. AYDiphthong2 .o. AYDiphthong3 
 .o. OYDiphthong1 .o. OYDiphthong2 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 

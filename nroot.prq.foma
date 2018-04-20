@@ -3760,12 +3760,12 @@ define NRootPRQin [
 ! 
 | "[=shereentzi+m.][NRoot][=bird.sp.]" : {shereentzi}
 ! 
-| "[=sheripyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripyari}
-| "[=sheripiare+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiare}
-| "[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiari} ! N@->V::[=to.be.a.shaman]  
-| "[=sheripiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
-| "[=sherepiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {sherepiyari}
-| "[=seripigari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]" : {seripigari}
+| "[=sheripyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripyari}
+| "[=sheripiare+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripiare}
+| "[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripiari} ! N@->V::[=to.be.a.shaman]  
+| "[=sheripiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
+| "[=sherepiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sherepiyari}
+| "[=seripigari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {seripigari}
 ! 
 | "[=sheripiaro+n.m.+sem@healer.][NRoot][=female.shaman, shamanness]" : {sheripiaro}
 | "[=sheripiavo+n.m.+sem@healer.][NRoot][=wise.woman (ES: mujer.sabia); shamanness]" : {sheripiavo}
