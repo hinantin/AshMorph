@@ -29,6 +29,7 @@ define NounToVerbPRQin [
 | "[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]::[=to.be.a.child (ES: ser.un.niño)]+vbz." : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=evankari+m.][NRoot][=young.man, adolescent]+vbz." : {evankari} ! N@->V
 | "[=evonkiri+m.][NRoot][=medium; small (ES: mediano; pequeño)]+vbz." : {evonkiri} ! N@->V 
+| "[=hankenavaerenti][NRoot][=writer (ES: escritor)]::[=to.be.a.writer (ES: ser.escritor)]+vbz." : {hankenavaerenti} ! N@->V::[=to.be.a.writer (ES: ser.escritor)] 
 | "[=hempeki][NRoot][=arm (ES: brazo)]::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]+vbz." : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]
 | "[=horio+m.][NRoot][=jewish]+vbz." : {horio} ! N@->V
 | "[=horiiyo+m.][NRoot][=jewish]+vbz." : {horiiyo} ! N@->V
