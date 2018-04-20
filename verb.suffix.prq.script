@@ -333,8 +333,8 @@ define FRUS [ [EP V=S=FRUS]|[V=S=FRUS] ];
                    
 define V=S=APPLREAS [
 # Characteristic (CHAR) 
-  "[--][-ant][Asp][+APPL.REAS][=in.order.to]" : "@EP"[{ant}]
-| "[--][-anta][Asp][+APPL.REAS][=in.order.to]" : "@EP"[{anta}]
+  "[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that]" : "@EP"[{ant}]
+| "[--][-anta][Asp][+APPL.REAS][=in.order.to, so.that]" : "@EP"[{anta}]
 ];
                    
 define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
