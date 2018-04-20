@@ -182,7 +182,7 @@ define IdeoPRQin [
 ! 
 | "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
 ! 
-| "[=peta+s.redup.word][IdeoPRQ][=bird.wings.flapping; sound.of.diarrhea, having.diarrhea]" : {peta}
+| "[=peta+s.redup.word][IdeoPRQ][=action.of.bird.wings.flapping (ES: acción.de.las.aves/palomas.volando?); sound.of.diarrhea, having.diarrhea]" : {peta}
 | "[=petak+s.redup.word][IdeoPRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event; fanning.the_fire.with.a_fan]" : {petak}
 ! 
 | "[=pite+s.redup.word][IdeoPRQ][=trickling.stream; liquid.falling.in.drops]" : {pite}
@@ -289,7 +289,7 @@ define IdeoPRQin [
 | "[=sapok][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment; getting.undressed.by.removing.clothes.from.the.upper.body (e.g.: a_hat, a_shawl, a_robe)]" : {sapok} 
 | "[=saporik][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment; getting.undressed.by.removing.clothes.from.the.upper.body (e.g.: a_hat, a_shawl, a_robe)]" : {saporik} 
 ! 
-| "[=sapok][IdeoPRQ][=action.of.a.bird/pinsha_bird.taking.flight (ES: acción.de.un.ave/pinsha.alzar.el.vuelo)]" : {sapok} 
+| "[=sapok+s.red][IdeoPRQ][=action.of.a.bird/pinsha_bird.taking.flight (ES: acción.de.un.ave/pinsha.alzar.el.vuelo)]" : {sapok} 
 ! 
 | "[=chako+s.redup.word][IdeoPRQ][=small.waves.produced.by.the.slowly.gliding.canoe; water.movement.in.a.gourd.carried.on.the_back; movement.of.water.in.the_bottle.when.carried.on.the_back]" : {chako} 
 ! 
@@ -400,7 +400,8 @@ define IdeoPRQin [
 | "[=tankori][IdeoPRQ][=becoming.awake/conscious][--][-k][+PUNCTUAL.ACTN]" : {tankorik} ! tankori(k) 
 | "[=tankore][IdeoPRQ][=regain.consciousness][--][-k][+PUNCTUAL.ACTN]" : {tankorek}
 ! 
-| "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance; jump.like.a.deer]" : {tankorek}
+| "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance; jump.like.a.deer (ES: saltar.como.venado)]" : {tankorek}
+! 
 | "[=mantsari+s.redup.word][IdeoPRQ][=scratching.with.nails/claws; action.of.shredding/scratching/raking]" : {mantsari}
 ! 
 | "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
