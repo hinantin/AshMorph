@@ -3546,10 +3546,10 @@ define NRootPRQin [
 ! 
 | "[=sirikempi][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.cerambycidae)]" : {sirikempi} 
 ! 
-| "[=hani+m.][NRoot][=wasp]" : {hani}
-| "[=sani+m.][NRoot][=wasp]" : {sani} 
-| "[=sane+m.][NRoot][=wasp]" : {sane}
-| "[=sanii+m.][NRoot][=wasp]" : {sanii} ! @CMP 
+| "[=hani+m.][NRoot][=wasp (ES: avispa)]" : {hani}
+| "[=sani+m.][NRoot][=wasp (ES: avispa)]" : {sani} 
+| "[=sane+m.][NRoot][=wasp (ES: avispa)]" : {sane}
+| "[=sanii+m.][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
 ! 
 | "[=sanikitatakiri][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {sanikitatakiri} 
 ! 
