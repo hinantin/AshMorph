@@ -71,7 +71,7 @@
       # osaykanake 
       define AYDiphthong2 [ {ai} (->) {ay} || [s] _ ];
       # apaniroyni 
-      define OYDiphthong1 [ {oi} (->) {oy} || [r] _ ];
+      define OYDiphthong1 [ {oi} (->) {oy} || [r] _ ]; ! add {n} ??? 
       # tilde : ~ 
       define ATildeReplacement1 [ {an} (->) {ã} || _ [k|t] ];
       define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
