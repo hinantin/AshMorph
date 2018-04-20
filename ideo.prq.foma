@@ -177,8 +177,8 @@ define IdeoPRQin [
 ! 
 | "[=more][IdeoPRQ][=flashing.light; burning (fire)]" : {more}
 | "[=mori][IdeoPRQ][=flashing.light; burning (fire)]" : {mori}
-| "[=more][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]" : {morek}
-| "[=mori][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]" : {morik}
+| "[=more][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]::[=action.of.a.flash.of.lightning.illuminating]" : {morek}
+| "[=mori][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]::[=action.of.a.flash.of.lightning.illuminating]" : {morik}
 ! 
 | "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
 ! 
