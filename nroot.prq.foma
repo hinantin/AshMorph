@@ -4783,12 +4783,12 @@ define NRootPRQin [
 | "[=yonkeva][NRoot][=rail.sp. (ES: sp.de.rállido)]" : {yonkeva}
 ! 
 ! yomparintsi / =friend -nposs / EN: 'friend' \cite[p\'{a}g. 280]{payne:axininca:81} 
-| "[=yompari+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {yompari}
-| "[=yoNpari+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {yõpari}
-| "[=iyompari+m.][NRoot][=friend; trading.partner]" : {iyompari} ! possesive form
-| "[=iyompare+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {iyompare}
-| "[=yoNpare+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {yõpare}
-| "[=yompare+m.+inal@ntsi.][NRoot][=friend; trading.partner]" : {yompare}
+| "[=yompari+m.+inal@ntsi.][NRoot][=friend (ES: amigo); trading.partner]" : {yompari}
+| "[=yoNpari+m.+inal@ntsi.][NRoot][=friend (ES: amigo); trading.partner]" : {yõpari}
+| "[=iyompari+m.][NRoot][=friend (ES: amigo); trading.partner]" : {iyompari} ! possesive form
+| "[=iyompare+m.+inal@ntsi.][NRoot][=friend (ES: amigo); trading.partner]" : {iyompare}
+| "[=yoNpare+m.+inal@ntsi.][NRoot][=friend (ES: amigo); trading.partner]" : {yõpare}
+| "[=yompare+m.+inal@ntsi.][NRoot][=friend (ES: amigo); trading.partner]" : {yompare}
 ! 
 ! ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas; comercio'
 | "[=ayompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo); short-distance.bartering.made.by.males (ES: trueque.de.corta.distancia)]" : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine
