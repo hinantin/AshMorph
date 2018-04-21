@@ -135,6 +135,10 @@ define S [
 #| (V=S=MCAUS) STATUS (PRNO) 
 | (PRF) STATUS (PRNO) 
 | (APPL) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+
+# ramenakoventantyaavori 
+| (APPL) (APPLBEN) (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+
 | (DIR) (PRF) STATUS (PRNO) 
 | (DUR) (CAUSSOC) (PRF) STATUS (PRNO) 
 | (APPLBEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
