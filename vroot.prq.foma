@@ -2094,8 +2094,8 @@ define VRootPRQin [
 ! -----------------
 ! Verbalized roots
 ! -----------------
-| "[=osheki][VRoot][=to.be.much]" : [{osheki}] 
-| "[=osheke][VRoot][=to.be.much]" : [{osheke}] 
+| "[=osheki][VRoot][=to.be.much; to.be.abundant]" : {osheki} 
+| "[=osheke][VRoot][=to.be.much; to.be.abundant]" : {osheke} 
 ! 
 # Possessive relation +POSS.REL
 | "[=tomi+m.+inal@tsi.][NRoot][=son (kin.of.fe/male)][--][-nt][VS][+POSS.REL]::[=to.be.son.of]" : {tomint}
