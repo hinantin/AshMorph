@@ -2133,6 +2133,7 @@ define NRootPRQin [
 # Snails
 | "[=mapoto+m.][NRoot][=edible.medium-size.land.snail (ES: sp.de.caracol.terrestre.comestible, molusco; sci.nm.: megalobulimus.popelairianus)]" : {mapoto}
 | "[=sankiro+m.+poss@ti.][NRoot][=snail; small-size.snail (ES: caracol.chico, molusco; sci.nm.: thaumastus.melancheilus)]" : {sankiro}
+| "[=hankiro+m.+poss@ti.][NRoot][=snail; small-size.snail (ES: caracol.chico, molusco; sci.nm.: thaumastus.melancheilus)]" : {hankiro}
 | "[=tsoiroki+m.][NRoot][=edible.small-size.aquatic.snail (ES: molusco, caracol.acuático.comestible; sci.nm.: pomacea.sp.)]" : {tsoiroki}
 | "[=mamporo][NRoot][=big-size.snail]" : {mamporo}
 | "[=pomporo+m.][NRoot][=big-size.snail]" : {pomporo}
