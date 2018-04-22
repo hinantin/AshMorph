@@ -29,6 +29,12 @@ define AdvRootPRQin [
 | "[=intsomai][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomainta} 
 | "[=intsomae][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomaenta} 
 ! 
+| "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente)]" : {ketsiroini}
+| "[=ketziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente)]" : {ketziroini}
+| "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente)]" : {ketsiroeni}
+| "[=ketziroeni][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente)]" : {ketziroeni}
+| "[=kitziroeni][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente)]" : {kitziroini}
+! 
 | "[=intsompoi+loc.][AdvRoot][=inside]" : {intsompoi}
 | "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
 | "[=intsompaikira+loc.][AdvRoot][=inside]" : {intsompaikira}
