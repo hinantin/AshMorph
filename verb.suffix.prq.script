@@ -38,7 +38,7 @@ define V=S=PRNO=SET2 [
 | "[--][=ae][+1INCL.PL.O]" : "@EP"[{ae}] 
 ];
                    
-define PRNO [ [V=S=PRNO=SET1]|[EP V=S=PRNO=SET2]|[V=S=PRNO=SET2] ];
+define PRNO [ [V=S=PRNO=SET1] ];
                    
 # ****************************************
                    
@@ -185,6 +185,7 @@ define STATUS [
 | [EP V=S=IRR]|[V=S=IRR]
 | [EP V=S=REALRFL]|[V=S=REALRFL]
 | [EP V=S=IRRRFL]|[V=S=IRRRFL]
+| [EP V=S=PRNO=SET2]|[V=S=PRNO=SET2]
 ];
                    
 # ****************************************
