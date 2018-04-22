@@ -34,8 +34,8 @@ define V=S=PRNO=SET1 [
 ];
 define V=S=PRNO=SET2 [
 # ----------------------------------
-  "[--][=ai][+1INCL.PL.O][=(to).us (ES: a.nosotros)]" : "@EP"[{ai}] 
-| "[--][=ae][+1INCL.PL.O][=(to).us (ES: a.nosotros)]" : "@EP"[{ae}] 
+  "[--][=ai][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]" : "@EP"[{ai}] 
+| "[--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]" : "@EP"[{ae}] 
 ];
                    
 define PRNO [ [V=S=PRNO=SET1] ];
