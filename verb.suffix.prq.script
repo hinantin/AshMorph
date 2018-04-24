@@ -148,7 +148,7 @@ define V=S=REAL [
   "[--][-e][+REAL]" : "@EP"[{e}]
 | "[--][-ee][+REAL]" : "@EP"[{ee}]
 | "[--][-i][+REAL]" : "@EP"[{i}]
-| "[--][-ii][+REAL]" : "@EP"[{ii}]
+| "[--][-ii][+REAL]" : "@EP"[{ii}] ! to be checked 
 | "[--][-a][+REAL]" : "@EP"[{a}]
 # -------------------------------------------
 | "[--][-ia][+REAL]" : "@EP"[{ia}]
@@ -165,7 +165,7 @@ define V=S=IRR [
 | "[--][-yea][+IRR]" : "@EP"[{yea}]
 | "[--][-a][+IRR]" : "@EP"[{a}]
 | "[--][-i][+IRR]" : "@EP"[{i}]
-| "[--][-ii][+IRR]" : "@EP"[{ii}]
+| "[--][-ii][+IRR]" : "@EP"[{ii}] ! to be checked 
 | "[--][-yaa][+IRR]" : "@EP"[{yaa}]
 | "[--][-ea][+IRR]" : "@EP"[{ea}]
 ];
