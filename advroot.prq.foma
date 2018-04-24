@@ -29,11 +29,11 @@ define AdvRootPRQin [
 | "[=intsomai][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomainta} 
 | "[=intsomae][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomaenta} 
 ! 
-| "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); (ES: lejano)]" : {ketsiroini}
-| "[=ketziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); (ES: lejano)]" : {ketziroini}
-| "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); (ES: lejano)]" : {ketsiroeni}
-| "[=ketziroeni][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); (ES: lejano)]" : {ketziroeni}
-| "[=kitziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); (ES: lejano)]" : {kitziroini}
+| "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketsiroini}
+| "[=ketziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketziroini}
+| "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketsiroeni}
+| "[=ketziroeni][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketziroeni}
+| "[=kitziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {kitziroini}
 ! 
 | "[=intsompoi+loc.][AdvRoot][=inside]" : {intsompoi}
 | "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
