@@ -364,8 +364,9 @@ define S [
 # namanantati / n- =amanan -t -ati / ES: 'estoy.comprando'
 | PROG=SET1 
 # ikaematimi / i- =kaem -ati -mi / ES: 'te.está.llamando'
-# Itaayetatiro / 
 | PROG=SET1 (V=S=O) (PRNO)
+# Itaayetatiro / 
+| (DIST) PROG=SET1 (V=S=O) (PRNO)
 
 | (DIR) (PRF) STATUS (V=S=OPT) 
 | (APPLPRES) STATUS (V=S=O) (PRNO) (V=S=OPT) 
