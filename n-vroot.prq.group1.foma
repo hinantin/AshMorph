@@ -33,7 +33,8 @@ define NounToVerbPRQin [
 | "[=hempeki][NRoot][=arm (ES: brazo)]::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]+vbz." : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]
 | "[=horio+m.][NRoot][=jewish]+vbz." : {horio} ! N@->V
 | "[=horiiyo+m.][NRoot][=jewish]+vbz." : {horiiyo} ! N@->V
-| "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]+vbz." : {sompo} ! N@->V 
+| "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]::[=to.have.a.tumor (ES: tener.un.tumor)]+vbz." : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
+| "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]::[=to.have.a.tumor (ES: tener.un.tumor)]+vbz." : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 | "[=intaina+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]+vbz." : {intaina} ! N@->V ! revise if it belongs to this file 
 | "[=intaena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]+vbz." : {intaena} ! N@->V ! revise if it belongs to this file 
 | "[=inteena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]+vbz." : {inteena} ! N@->V ! revise if it belongs to this file 
