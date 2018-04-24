@@ -762,8 +762,8 @@ define NRootPRQin [
 | "[=iivavo+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {iivavo}
 | "[=hevare+m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {hevare}
 ! 
-| "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {sompo} ! N@->V 
-| "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {hompo}
+| "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
+| "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 ! 
 | "[=ime+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {ime}
 | "[=iime+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {iime}
