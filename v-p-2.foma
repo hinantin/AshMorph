@@ -13,8 +13,6 @@ define P=2=SET2 [
 # -----AGENTIVE CAUSATIVE--------
 ! noitakeri / n- o= =i -t -ak -e =ri / EN: "I'll.make.him.drink"
 | "[o=][AGT.CAUS+][--]" : {o}"@AGTCAUS@"
-! noishoncajiro / noishonkahiro / n- oi= =shonk -ah -i =ro / ES: 'revolver, dar.vuelta'  
-| "[oi=][AGT.CAUS+][--]" : {oi}
 | "[om=][AGT.CAUS+][--]" : {om}
 ! yoimiraakeri / y- oim= =ir -aak -e -ri / ES: 'hacer.llorar.(a.él)' 
 | "[oim=][AGT.CAUS+][--]" : {oim}
@@ -39,6 +37,8 @@ define P=2=SET3 [
 ! oviakayetariri / ov= =i -aka -ye -t -a =ri =ri / agt.caus= =to.drink -caus.soc -dist -ep -real =3m.o =rel / ES: 'Él, el.que.hace.que.todos.beban' 
 ! ovametanakerome / ov= =ame -t -an -ak -e =ro =me /  
   "[ov=][AGT.CAUS+][--]" : {ov}"@AGTCAUS@" 
+! noishoncajiro / noishonkahiro / n- oi= =shonk -ah -i =ro / ES: 'revolver, dar.vuelta'  
+| "[oi=][AGT.CAUS+][--]" : {oi}
 ];
 
 define P=2 [ [P=2=SET1]|[P=2=SET2]|[P=2=SET3] ];
