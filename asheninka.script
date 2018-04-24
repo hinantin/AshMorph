@@ -242,9 +242,10 @@ TZEpenthesisRule8
 #      define VowelLossRule1 [ o"@PHONPROC@" -> "@PHONPROC@" || n _ [{i}|{o}|{a}] ]; 
 #      define VowelLossRule2 [ i"@PHONPROC@" -> "@PHONPROC@" || p _ [{i}|{o}|{a}] ]; 
       define VowelLossRule3 [ i"@PHONPROC@" (->) "@PHONPROC@" || _ [{i}] ]; 
+      define VowelLossRule4 [ o"@PHONPROC@" (->) "@PHONPROC@" || _ [{o}] ]; 
       
 #      define VowelLoss [ VowelLossRule1 .o. VowelLossRule2 ];
-      define VowelLoss [ VowelLossRule3 ];
+      define VowelLoss [ VowelLossRule3 .o. VowelLossRule4 ];
       
       ####################################
       #                                  #
