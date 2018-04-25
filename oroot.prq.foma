@@ -166,7 +166,9 @@ define ORootPRQin [
 #| "[=ito][OtherRoot][=head]" : {ito}
 ! 
 | "[=kapichikitaite][OtherRoot][=early]" : {kapichikitaite} 
-| "[=kapichi][NRoot][=small][--][=kitaite][VRoot][=to.be.morning]" : {kapichikitaite} 
+| "[=kapichi][NRoot][=small][--][=kitaite][VRoot][=to.be.morning]::[=early]" : {kapichikitaite} 
+| "[=inkamane][AdvRoot][=early (ES: temprano)]" : {inkamane} 
+| "[=inkaamane][AdvRoot][=early (ES: temprano)]" : {inkaamane} 
 ! 
 | "[=koye][OtherRoot][=ant]" : {koye}
 | "[=naakaite][OtherRoot][=1PL.EXCL]" : {naakaite}
