@@ -58,6 +58,9 @@ define NRootPRQin [
 ! 
 | "[=ashisho][NRoot][=person's.name; NP]" : {ashisho}
 ! 
+| "[=ashitaaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaaneyetachari}
+| "[=ashitaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaneyetachari}
+! 
 | "[=ashitarori+m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitarori}
 | "[=ashitariri+m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitariri}
 ! 
