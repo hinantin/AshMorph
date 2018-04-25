@@ -84,7 +84,7 @@ define WhPRQin [
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
 | "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
 ! 
-| "[=hempe][IndfSpecif][=where]" : {hempe}
+| "[=hempe][IndfSpecif][=where; who]" : {hempe}
 ! 
 | "[=ipaitaka][ORoot][=WH]" : {ipaitaka}
 ];
