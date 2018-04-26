@@ -2748,6 +2748,9 @@ define NRootPRQin [
 | "[=ota][NRoot][=wick (prbly.candle)]" : {ota}
 | "[=otsa][NRoot][=wick (prbly.candle)]" : {otsa}
 ! 
+| "[=otsapata][NRoot][=line (ES: línea)]" : {otsapata}
+| "[=otsapairikita][NRoot][=line (ES: línea)]" : {otsapairikita}
+! 
 | "[=otamentotsi][NRoot][=lighter, kerosene.lamp, paraffin.lamp]" : {otamentotsi}
 | "[=ootamentotsi][NRoot][=lighter, kerosene.lamp, paraffin.lamp]" : {ootamentotsi}
 | "[=ootametotsi][NRoot][=lighter, kerosene.lamp, paraffin.lamp]" : {ootametotsi}
