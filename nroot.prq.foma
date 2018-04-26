@@ -2547,9 +2547,9 @@ define NRootPRQin [
 ! 
 | "[=niivotya][NRoot][=NP; person's.name]" : {niivotya}
 ! 
-| "[=niyankiiteni][NRoot][=midnight (ES: medianoche)]" : {niyankiiteni}
-| "[=niyankiteni][NRoot][=midnight (ES: medianoche)]" : {niyankiteni}
-| "[=niyankiite][NRoot][=midnight (ES: medianoche)]" : {niyankiite}
+| "[=niyankiiteni][NRoot][=midnight, middle.of.the.night (ES: medianoche)]" : {niyankiiteni}
+| "[=niyankiteni][NRoot][=midnight, middle.of.the.night (ES: medianoche)]" : {niyankiteni}
+| "[=niyankiite][NRoot][=midnight, middle.of.the.night (ES: medianoche)]" : {niyankiite}
 ! 
 | "[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nyaa}
 | "[=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nya}
