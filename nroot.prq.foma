@@ -2547,6 +2547,9 @@ define NRootPRQin [
 ! 
 | "[=niivotya][NRoot][=NP; person's.name]" : {niivotya}
 ! 
+| "[=niyankiiteni][NRoot][=midnight (ES: medianoche)]" : {niyankiiteni}
+| "[=niyankiite][NRoot][=midnight (ES: medianoche)]" : {niyankiite}
+! 
 | "[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nyaa}
 | "[=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nya}
 | "[=nea+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nea}
@@ -4525,7 +4528,6 @@ define NRootPRQin [
 ! 
 | "[=tsirotisanine][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {tsirotisanine}
 ! 
-923178513
 | "[=tsiteniri][NRoot][=night (ES: noche)]" : {tsiteniri}
 | "[=tsireniri][NRoot][=night (ES: noche)]" : {tsireniri}
 | "[=tsitini][NRoot][=night (ES: noche)]" : {tsitini}
@@ -4858,7 +4860,7 @@ define NRootPRQin [
 ! word set:
 | "[niyanki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {niyanki}
 # nonianquijataque / noniankihatake / no- =nianki -ha -t -ak -e / 1sg.s- =to.go.through.the.middle.of.sth. -cl:liquid -ep -prf -irr / ES: 'Yo.voy.por.el.centro.del.río,no.por.las.orillas'  
-| "[nianki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {nianki} ! N@->V::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)] 
+| "[=nianki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {nianki} ! N@->V::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)] 
 | "[=kashetani][NRoot][=half (ES: mitad); piece (ES: pedazo)]" : {kashetani}
 | "[=kashetaeni][NRoot][=half (ES: mitad); piece (ES: pedazo)]" : {kashetaeni}
 | "[=sheta+n.m.+inal@tsi.][NRoot][=half (ES: mitad); part (ES: part)]" : {sheta}
