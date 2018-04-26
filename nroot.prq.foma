@@ -4667,10 +4667,10 @@ define NRootPRQin [
 | "[=tyeetya+n.m.+poss@ti.+voc@1SG.][NRoot][=grandmother (male.ego)]" : {tyeetya}
 ! 
 ! hen 
-| "[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]" : {tyaapa}
-| "[=tyapa+n.m.+poss@te.][NRoot][=hen; chicken]" : {tyapa}
-| "[=atyaapa+n.m.+poss@ti.][NRoot][=hen]" : {atyaapa}
-| "[=teapa+n.m.+poss@te.][NRoot][=hen]" : {teapa}
+| "[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]" : {tyaapa}
+| "[=tyapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]" : {tyapa}
+| "[=atyaapa+n.m.+poss@ti.][NRoot][=hen (ES: gallina)]" : {atyaapa}
+| "[=teapa+n.m.+poss@te.][NRoot][=hen (ES: gallina)]" : {teapa}
 ! rooster 
 | "[=tyoopi+m.][NRoot][=rooster]" : {tyoopi}
 | "[=tyopi+m.][NRoot][=rooster]" : {tyopi}
