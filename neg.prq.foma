@@ -76,7 +76,7 @@ define NegPRQin [
 # 
 | "[=te][Neg][=NEG.REAL][--][=tya][+N.C.FOC]::[=not.at.all]" : {tetya}
 # negative existencial 
-| "[=tekatsi][Neg][=NEG.EXIST (EN: there.is.nothing); NOT.POSSESS]" : {tekatsi}
+| "[=tekatsi][Neg][=NEG.EXIST (EN: there.is.nothing); NOT.POSSESS (ES: no.tener.nada)]" : {tekatsi}
 | "[=teekatsi][Neg][=NEG.EXIST (EN: there.is.nothing); NOT.POSSESS]" : {teekatsi}
 | "[=kaatsi][Neg][=NEG.EXIST (EN: there.is.nothing); NOT.POSSESS]" : {kaatsi} ! to be revised 
 ! 
