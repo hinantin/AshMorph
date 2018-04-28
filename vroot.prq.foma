@@ -802,9 +802,10 @@ define VRootPRQin [
 | "[=kaki][VRoot][=to.wake.up (ES: despertar)]" : {kaki}
 | "[=saaki][VRoot][=to.wake.up (ES: despertar)]" : {saaki}
 ! 
-| "[=kaheni][VRoot][=to.be.itchy (ES: dar.comezón, picar)]" : {kaheni}
-| "[=kaeni][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor, picar)]" : {kaeni}
-| "[=kaini][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor, picar)]" : {kaini}
+| "[=kaheni][VRoot][=to.be.itchy (ES: dar.comezón/escozor/picazón, picar)]" : {kaheni}
+| "[=kaeni][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor/picazón, picar)]" : {kaeni}
+| "[=kaini][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor/picazón, picar)]" : {kaini}
+| "[=kahen][VRoot][=to.itch (ES: dar.comezón/escozor/picazón)]" : {kahen}
 ! 
 | "[=katyok][VRoot][=to.salt.meat; to.be.salted]" : {katyok}
 ! 
