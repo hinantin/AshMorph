@@ -2799,7 +2799,7 @@ define NRootPRQin [
 | "[=varantzi+n.m.][NRoot][=spiked.pepper (ES: matico, higuillo.de.hoja.menuda; sci.nm.: piper.aduncum)]" : {varantzi}
 ! 
 # sapo que habita en las partes altas, acostumbra introducirse en las fogatas atraída por la luz del fuego.
-| "[=ovaratantatzi][NRoot][=small.toad.sp. (ES: sp.de.sapito)]" : {ovaratantatzi}
+| "[=ovaratantatzi+m.][NRoot][=small.toad.sp. (ES: sp.de.sapito)]" : {ovaratantatzi}
 | "[=ovaratanta][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {ovaratanta}
 | "[=oaratanta][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {oaratanta}
 | "[=aratanta][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {aratanta}
@@ -4316,6 +4316,8 @@ define NRootPRQin [
 | "[=toomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {toomi}
 | "[=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {tyomi}
 | "[=tiomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {tiomi}
+! 
+| "[=tyoki+inal@tsi.][NRoot][=buttock (ES: nalga)]" : {tyoki}
 ! 
 | "[=tyominkio][NRoot][=NP, person's.name]" : {tyominkio}
 | "[=tyominkiyo][NRoot][=NP, person's.name]" : {tyominkiyo}
