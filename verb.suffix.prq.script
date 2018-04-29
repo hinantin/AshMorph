@@ -322,6 +322,8 @@ define V=S=REL [
                    
 # ****************************************
                    
+# 1) with no response 
+# 2) without finishing 
 define V=S=FRUS [
   "[--][-ve][+FRUS][=in.vain (ES: casi); action.which.did.not.achieve.the.desired.results]" : "@EP"[{ve}]
 | "[--][-vi][+FRUS][=in.vain (ES: casi); action.which.did.not.achieve.the.desired.results]" : "@EP"[{vi}]
