@@ -323,12 +323,14 @@ define V=S=REL [
 # ****************************************
                    
 # Manner suffix 
+# *action/state* that was in some respect unsuccessful/interrupted, 
+# the expected sequel to the *action* failed to obtain.
 # 1) with no response 
 # 2) without finishing 
 define V=S=FRUS [
-  "[--][-ve][+FRUS][=in.vain (ES: casi); action.which.did.not.achieve.the.desired.results]" : "@EP"[{ve}]
-| "[--][-vi][+FRUS][=in.vain (ES: casi); action.which.did.not.achieve.the.desired.results]" : "@EP"[{vi}]
-| "[--][-vit][+FRUS][=in.vain (ES: casi); action.which.did.not.achieve.the.desired.results]" : "@EP"[{vit}]
+  "[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]" : "@EP"[{ve}]
+| "[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]" : "@EP"[{vi}]
+| "[--][-vit][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]" : "@EP"[{vit}]
 # -----------------------------------------------
 # ompiyamachevetajia / o- N=][=piya][VRoot][=to.defend (ES: defender)][--][-macheve][+FRUS]macheve[--][-t][+EP]t[--][-ah][Asp][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-ia][+IRR.RFL]ia
 | "[--][-macheve][+FRUS]" : "@EP"[{macheve}]
