@@ -1,8 +1,9 @@
 define WhPRQin [
 ! Wh: interrogative
 ! Indf: indefinite 
-  "[=arika][WhPrn][=when, if]" : {arika}
-| "[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]" : {aririka}
+  "[=arika][WhPrn][=when; if]" : {arika}
+| "[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when; if]" : {aririka}
+! 
 | "[=tsikapaita][WhPrn][=how, why, what]" : {tsikapaita}
 | "[=paita][WhPrn][=how, why, what (ES: ¿qué?, ¿por qué?)]" : {paita}
 | "[=paita][WhPrn][=how, why, what (ES: ¿qué?, ¿por qué?)][--][=mpa][+DUB]" : {paitampa}
