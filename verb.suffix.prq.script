@@ -222,13 +222,13 @@ define DEGR [ [EP V=S=DEGR]|[V=S=DEGR] ];
 !*) Nojate nomanaveete / Nohate nomanaveete / no- =ha -t -e  no- =mana -vee -t -e / 1sg.s- =to.go -ep -irr  1sg.s- =to.shoot -dur -ep -irr / EN: "I'm.going.to.hunt"; ES: 'yo.voy.a.cazar'  
 ! 
 define V=S=DUR [
-  "[--][-vai][ASP][+DUR]" : "@EP"[{vai}] 
-| "[--][-vae][ASP][+DUR]" : "@EP"[{vae}] 
-| "[--][-vee][ASP][+DUR]" : "@EP"[{vee}] 
-| "[--][-vei][ASP][+DUR]" : "@EP"[{vei}] 
+  "[--][-vai][ASP][+DUR][=action/state..endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]" : "@EP"[{vai}] 
+| "[--][-vae][ASP][+DUR][=action/state..endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]" : "@EP"[{vae}] 
+| "[--][-vee][ASP][+DUR][=action/state..endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]" : "@EP"[{vee}] 
+| "[--][-vei][ASP][+DUR][=action/state..endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]" : "@EP"[{vei}] 
 ! Rio Envira, Rio Breu e Rio Amônea
 ! Owashiriwayta / Ovashirivayta / 
-#| "[--][-vay][ASP][+DUR]" : "@EP"[{vay}] 
+#| "[--][-vay][ASP][+DUR][=action/state..endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]" : "@EP"[{vay}] 
 ];
                    
 define DUR [ [EP V=S=DUR]|[V=S=DUR] ];
