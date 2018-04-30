@@ -1022,6 +1022,8 @@ define V=S=RELIRR [
 # ****************************************
                    
 ! desirable extremal 
+# 1) desirable 
+# 2) loudable 
 define V=S=DEXT [
   "[--][-asano][DEGR][+DEXT][=action/state.realized.to.a.very.high.degr. (EN: really)]" : "@EP"[{asano}]
 | "[--][-sano][DEGR][+DEXT][=action/state.realized.to.a.very.high.degr. (EN: really)]" : "@EP"[{sano}]
