@@ -29,6 +29,8 @@ define AdvRootPRQin [
 | "[=intsomai][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomainta} 
 | "[=intsomae][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomaenta} 
 ! 
+# kitziroini / =kitzi -roini / =first -only / EN: 'first' 
+# The -roini suffix is not productive. 
 | "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketsiroini}
 | "[=ketziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketziroini}
 | "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketsiroeni}
