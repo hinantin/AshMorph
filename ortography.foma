@@ -70,8 +70,10 @@
       define AYDiphthong1 [ {ai} (->) {ay} || [v] _ ];
       # osaykanake 
       define AYDiphthong2 [ {ai} (->) {ay} || [s] _ ];
+      # TAYRI  
+      define AYDiphthong3 [ {ai} (->) {ay} || [t] _ ];
       # iranay 
-      define AYDiphthong3 [ {ai} (->) {ay} || [n] _ ];
+      define AYDiphthong4 [ {ai} (->) {ay} || [n] _ ];
       # apaniroyni 
       define OYDiphthong1 [ {oi} (->) {oy} || [r] _ ]; ! add {n} ??? 
       # Mawoyni
