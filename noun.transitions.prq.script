@@ -106,4 +106,5 @@ define N [
 | (N=S=poss) (N=S=EXPECT) 
 # icharinepeeni 
 | (N=S=PL) (N=S=TEMPORALEXIST) 
+| (N=S=DIM) (N=S=poss) 
 ];
