@@ -553,6 +553,9 @@ define VRootPRQin [
 | "[=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
 | "[=katsik][VRoot][=to.feel.pain]" : {katsik}
 ! 
+| "[=kats][VRootCPB][=to.be (PT: ser,, estar)]" : {kats}
+| "[=kaats][VRootCPB][=to.be (PT: ser,, estar)]" : {kaats}
+! 
 | "[=katsinka][VRoot][=to.be.cold]" : {katsinka}
 ! 
 | "[=katsima][VRoot][=to.get.angry, to.be.wild, to.be.savage; to.hate; to.feel.pain]" : {katsima}
@@ -729,7 +732,7 @@ define VRootPRQin [
 # oquitejatánaque / okitehatanake / o- =kite -ha -t -an -ak -e / EN: 'mature.boil'; ES: 'chupo.maduro'  
 | "[=kite][VRoot][=to.have.abscess(es) (ES: tener.abceso(s))]" : {kite}
 ! 
-# kiteki. kitetake / ES: 'está.limpio'
+# kiteki. kitetake / ES: 'está.limpio' 
 | "[=kite][VRoot][=to.be.clean (ES: ser/estar.limpio)]" : {kite}
 ! word set:
 | "[=kitai][VRoot][=to.be.morning; to.dawn, to.be.light; to.get.up.early]" : {kitai}
