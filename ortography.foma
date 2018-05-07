@@ -74,6 +74,8 @@
       define AYDiphthong3 [ {ai} (->) {ay} || [t] _ ];
       # iranay 
       define AYDiphthong4 [ {ai} (->) {ay} || [n] _ ];
+      # athatane-payni
+      define AYDiphthong5 [ {ai} (->) {ay} || [p] _ ];
       # apaniroyni 
       define OYDiphthong1 [ {oi} (->) {oy} || [r] _ ]; ! add {n} ??? 
       # Mawoyni
@@ -90,7 +92,7 @@
       # ------------------------------------------
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
-.o. AYDiphthong1 .o. AYDiphthong2 .o. AYDiphthong3 
+.o. AYDiphthong1 .o. AYDiphthong2 .o. AYDiphthong3 .o. AYDiphthong4 .o. AYDiphthong5 
 .o. OYDiphthong1 .o. OYDiphthong2 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 
