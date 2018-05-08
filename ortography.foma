@@ -80,7 +80,7 @@
       define OYDiphthong1 [ {oi} (->) {oy} || [r] _ ]; ! add {n} ??? 
       # Mawoyni
       define OYDiphthong2 [ {oi} (->) {oy} || [v] _ ]; 
-      # tilde : ~ 
+      # tilde (1) : ~ 
       define ATildeReplacement1 [ {an} (->) {ã} || _ [k|t] ];
       define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
       define ETildeReplacement1 [ {en} (->) {ẽ} || _ [k|t] ];
@@ -89,6 +89,10 @@
       define ITildeReplacement2 [ {im} (->) {ĩ} || _ [p] ];
       define OTildeReplacement1 [ {on} (->) {õ} || _ [k|t] ];
       define OTildeReplacement2 [ {om} (->) {õ} || _ [p] ];
+      # 
+      # 
+      define NYTildeReplacement1 [ {in} (->) {ĩ} || _ [y] ];
+      define NYTildeReplacement2 [ {on} (->) {õ} || _ [y] ];
       # ------------------------------------------
 
       define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
@@ -99,6 +103,7 @@
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
 .o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
+.o. NYTildeReplacement1 .o. NYTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 .o. UReplacement3 .o. UReplacement4  
 .o. NPReplacement 
 .o. TYOnset1 .o. TYOnset2 .o. PYOnset .o. KYOnset 
