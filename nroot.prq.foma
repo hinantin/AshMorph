@@ -2279,10 +2279,11 @@ define NRootPRQin [
 ! 
 | "[=manyoi+n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {manyoi}
 ! 
-| "[=manyoo+m.][NRoot][=crane.fly.sp. (ES: zancudo)]" : {manyoo}
-| "[=manyo+m.][NRoot][=crane.fly.sp. (ES: zancudo)]" : {manyo}
-| "[=maanyo+m.][NRoot][=crane.fly.sp. (ES: zancudo)]" : {maanyo}
-| "[=maneo+m.][NRoot][=crane.fly.sp. (ES: zancudo)]" : {maneo}
+| "[=manyoo+m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {manyoo}
+| "[=manyo+m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {manyo}
+| "[=maanyo+m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {maanyo}
+| "[=maneo+m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {maneo}
+| "[=mãyo][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {mãyo}
 ! 
 | "[=mari+m.][NRoot][=small.bird.sp. (ES: sp.de.pajarito)]" : {mari}
 ! 
@@ -2549,6 +2550,7 @@ define NRootPRQin [
 ! 
 | "[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP 
 | "[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
+| "[=hĩya+poss@te.][NRootCPB][=water (ES: agua); river (ES: rio)]" : {hĩya} 
 ! 
 | "[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nihateni}
 | "[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nihaateni}
