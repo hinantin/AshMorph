@@ -554,8 +554,8 @@ define VRootPRQin [
 | "[=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
 | "[=katsik][VRoot][=to.feel.pain]" : {katsik}
 ! 
-| "[=kaats][VRootCPB][=to.be (PT: ser,, estar)]" : {kaats}
-| "[=katsi][VRootCPB][=to.be (PT: ser,, estar)]" : {katsi}
+| "[=kaats][VRoot:CPB][=to.be (PT: ser,, estar)]" : {kaats}
+| "[=katsi][VRoot:CPB][=to.be (PT: ser,, estar)]" : {katsi}
 ! 
 | "[=katsinka][VRoot][=to.be.cold]" : {katsinka}
 ! 
@@ -1516,7 +1516,7 @@ define VRootPRQin [
 | "[=savik][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live]" : {savik}
 | "[=saek][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live]" : {saek}
 | "[=haek][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live]" : {haek}
-| "[=seik][VRootCPB][=to.be, to.be.at, to.be.in; to.sit; to.live]" : {seik}
+| "[=seik][VRoot:CPB][=to.be, to.be.at, to.be.in; to.sit; to.live]" : {seik}
 ! 
 | "[=sam][VRoot][=to.get.upset.with.sb. (ES: molestarse.con.algn.)]" : {sam}
 ! 
