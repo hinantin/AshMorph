@@ -213,7 +213,8 @@ define NRootPRQin [
 ! 
 # antami: dense tropical forest 
 | "[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {antami} ! N@->V
-| "[=ãtame][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {ãtame} ! N@->V
+| "[=ãtame][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {ãtame} ! N@->V
+| "[=ãtami][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {ãtami}
 | "[=antame][NRoot][=woods, forest (ES: selva, PT: floresta); dense.tropical.forest]" : {antame} 
 ! 
 | "[=antamishi][NRoot][=impenetratable.tropical.forest.with.a_lot_of.vines]" : {antamishi}
