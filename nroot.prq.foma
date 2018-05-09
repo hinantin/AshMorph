@@ -4688,11 +4688,11 @@ define NRootPRQin [
 ! 
 | "[=shoonchotzi][NRoot][=variegated.tinamou (crypturellus.variegatus)]" : {shoonchotzi}
 ! 
-| "[=txero][NRoot][=climbing_plant/vine.sp.]" : {txero}
+| "[=txero][NRoot:CPB][=climbing_plant/vine.sp. (PT: sp.de.planta.trepadeira)]" : {txero}
 ! 
 # notxoshikite / no- =txoshiki -te / 1sg.poss- =necklace -aln.poss / EN: 'my.necklace', PT: 'meu.colar'
-| "[=txoshiki+poss@te.][NRoot][=necklace (PT: colar)]" : {txoshiki}
-| "[=txoxiki+poss@te.][NRoot][=necklace (PT: colar)]" : {txoxiki}
+| "[=txoshiki+poss@te.][NRoot:CPB][=necklace (PT: colar)]" : {txoshiki}
+| "[=txoxiki+poss@te.][NRoot:CPB][=necklace (PT: colar)]" : {txoxiki}
 ! 
 | "[=tya+poss@ni.][NRoot][=fabric]" : {tya}
 ! 
