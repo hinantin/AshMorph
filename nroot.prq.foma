@@ -3706,8 +3706,8 @@ define NRootPRQin [
 | "[=sanantzi][NRoot][=rufescent.tiger-heron (sci.nm.: tigrisoma.lineatum)]" : {sanantzi}
 | "[=sananti][NRoot][=rufescent.tiger-heron (sci.nm.: tigrisoma.lineatum)]" : {sananti}
 ! 
-| "[=santari+n.m.][NRoot][=cedar.tree, timber.tree.sp. (ES: árbol.(maderable), cedro)]" : {santari}
-| "[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro)]" : {hantari}
+| "[=santari+n.m.][NRoot][=cedar.tree, timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei)]" : {santari}
+| "[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei)]" : {hantari}
 ! 
 | "[=santani+m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {santani}
 | "[=hantani+m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {hantani}
@@ -3724,7 +3724,7 @@ define NRootPRQin [
 ! 
 | "[=sankonka][NRoot][= (ES: culantro, cilantro, sacha.cula)]" : {sankonka}
 ! 
-| "[=santimatiki][NRoot][=timber.tree.sp. (ES: ishpingo, sp.de.árbol.maderable)]" : {santimatiki}
+| "[=santimatiki][NRoot][=timber.tree.sp. (ES: ishpingo, sp.de.árbol.maderable; PT: madeira.de.lei)]" : {santimatiki}
 ! 
 | "[=santo][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]" : {santo}
 | "[=kasanto][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]" : {kasanto} ! N@->V::[=to.be.an.orchid]  
@@ -3900,7 +3900,7 @@ define NRootPRQin [
 ! 
 | "[=shimoto+m.][NRoot][=worm.sp. (inhabits.decomposed.tree.trunks; ES: sp.de.gusano), black.locust.sp.]" : {shimoto}
 ! 
-| "[=shina][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna)]" : {shina}
+| "[=shina][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna; PT: madeira.de.lei)]" : {shina}
 ! 
 | "[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; sci.nm.: tayassu.tajacu)]" : {shintori}
 ! 
