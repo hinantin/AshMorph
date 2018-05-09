@@ -357,8 +357,8 @@ define NRootPRQin [
 | "[=chivini][NRoot][=heron.sp.]" : {chivini}
 ! 
 | "[=chamairo+n.m.][NRoot][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {chamairo}
-| "[=txaamayro+n.m.][NRoot][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {txaamayro}
-| "[=txamayro+n.m.][NRoot][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {txamayro}
+| "[=txaamayro+n.m.][NRoot:CPB][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {txaamayro}
+| "[=txamayro+n.m.][NRoot:CPB][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {txamayro}
 ! 
 | "[=chapinki][NRoot][=the.other.day; yesterday (ES: ayer)]" : {chapinki}
 ! 
@@ -1278,7 +1278,6 @@ define NRootPRQin [
 # iyamaranka / i- =kamaranka / 3m.poss- =vomit / EN: 'his.vomit', ES: 'su.vómito'  
 | "[=kamarankaa+inal@ntsi.][NRoot][=vomit (ES: vómito)]" : {kamarankaa} 
 | "[=kamaranka+inal@ntsi.][NRoot][=vomit (ES: vómito)]" : {kamaranka} 
-! 
 | "[=kamarampi+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha; PT: cipó); hallucinogenic.drug.taken.by.shamans.to.contact.spirits; psychoactive.drug]" : {kamarampi}
 | "[=kamarampe+n.m.][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha; PT: cipó); hallucinogenic.drug.taken.by.shamans.to.contact.spirits; psychoactive.drug]" : {kamarampe}
 | "[=kamaraNpi/kamarãpi+n.m.][NRoot:CPB][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha; PT: cipó); hallucinogenic.drug.taken.by.shamans.to.contact.spirits (PT: ); psychoactive.drug]" : {kamarãpi}
