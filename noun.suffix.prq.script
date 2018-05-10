@@ -605,10 +605,12 @@ define N=S=RCG [
                    
 # ---------------------------------------
 
-define N=S=ADV [
+define N=S=ADV=SET1 [
 # shimashiripaite / =shimashiri -paite / =flowering.tree.sp. -adv|-during / EN: 'cannibalistic.feast.held.in.June'  
   "[--][-paite][+ADV][=during, at.the.time.of.sth., period]" : [{paite}]
-# ------------------------------
+];
+
+define N=S=ADV=SET2 [
 # kapicheeni / =kapiche -eni / =little -adv / EN: 'a.little', ES: 'un.poco'
 | "[--][-eni][AS][+ADV]" : [{eni}]
 | "[--][-ini][AS][+ADV]" : [{ini}]
@@ -616,6 +618,8 @@ define N=S=ADV [
 # kapicheni / =kapiche -ni / =little -adv / EN: 'a.little', ES: 'un.poco'
 | "[--][-ni][AS][+ADV]" : [{ni}]
 ];
+
+define N=S=ADV [ N=S=ADV=SET1 | N=S=ADV=SET2 ];
                    
 # ****************************************
                    
