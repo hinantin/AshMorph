@@ -12,7 +12,7 @@ define NounToVerbPRQin [
 | "[=amaani+n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)]+vbz." : {amaani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=amani+n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)]+vbz." : {amani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest]+vbz." : {antami} ! N@->V
-| "[=ãtame][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest]+vbz." : {ãtame} ! N@->V
+| "[=ãtame][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest]+vbz." : {ãtame} ! N@->V
 | "[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
