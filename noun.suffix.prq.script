@@ -612,7 +612,7 @@ define N=S=ADV=SET1 [
 
 define N=S=ADV=SET2 [
 # kapicheeni / =kapiche -eni / =little -adv / EN: 'a.little', ES: 'un.poco'
-| "[--][-eni][AS][+ADV]" : [{eni}]
+  "[--][-eni][AS][+ADV]" : [{eni}]
 | "[--][-ini][AS][+ADV]" : [{ini}]
 # ------------------------------
 # kapicheni / =kapiche -ni / =little -adv / EN: 'a.little', ES: 'un.poco'
