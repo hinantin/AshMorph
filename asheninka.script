@@ -163,6 +163,7 @@ TZEpenthesisRule8
 
       source vroot.prq.foma
       source vroot.es.foma
+      source vroot.pt.foma
       source n-vroot.prq.group1.foma 
         define VRootPRQ [VRootPRQin|VRootESin|NounToVerbPRQin];
 
