@@ -163,9 +163,8 @@ TZEpenthesisRule8
 
       source vroot.prq.foma
       source vroot.es.foma
-      source vroot.pt.foma
       source n-vroot.prq.group1.foma 
-        define VRootPRQ [VRootPRQin|VRootESin|VRootPTin|NounToVerbPRQin];
+        define VRootPRQ [VRootPRQin|VRootESin|NounToVerbPRQin];
 
 #      define Verb VerbFeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
 
@@ -273,6 +272,7 @@ TZEpenthesisRule8
       source nroot.es.foma
       # Quechua loan words 
       source nroot.qu.foma
+      source nroot.pt.foma
       source numeral.prq.foma
 
       # Compound nouns
@@ -290,7 +290,7 @@ TZEpenthesisRule8
       
 #      source pronoun.prq.foma
       define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
-      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootQUin|NumeralPRQin];
+      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootPTin|NRootQUin|NumeralPRQin];
       ####################################
       #     Compound nouns               #
       ####################################
