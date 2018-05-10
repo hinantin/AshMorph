@@ -272,6 +272,7 @@ TZEpenthesisRule8
       source nroot.es.foma
       # Quechua loan words 
       source nroot.qu.foma
+      # Portuguese loan words
       source nroot.pt.foma
       source numeral.prq.foma
 
