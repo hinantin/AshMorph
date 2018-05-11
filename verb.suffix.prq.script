@@ -798,8 +798,8 @@ define APPLPRES [ [EP V=S=APPLPRES]|[V=S=APPLPRES] ];
 # ****************************************
                    
 define V=S=APPLSEP [
-  "[--][-pitsa][+APPL.SEP][=separative]" : "@EP"[{pitsa}]
-| "[--][-apitsa][+APPL.SEP][=separative]" : "@EP"[{apitsa}]
+  "[--][-pitsa][VS][+APPL.SEP][=separative]" : "@EP"[{pitsa}]
+| "[--][-apitsa][VS][+APPL.SEP][=separative]" : "@EP"[{apitsa}]
 ];
                    
 define APPLSEP [ [EP V=S=APPLSEP]|[V=S=APPLSEP] ];
