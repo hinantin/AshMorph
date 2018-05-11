@@ -610,10 +610,6 @@ define NRootPRQin [
 | "[=Eni][NP][=river (Ene.river)]" : {eni}
 | "[=Ene][NP][=river (Ene.river)]" : {ene}
 ! 
-| "[=entyo+n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]" : {entyo}
-| "[=eentyo+n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]" : {eentyo}
-| "[=eentio+n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.; daughter.of.the.mother's.sister)]" : {eentio}
-! 
 | "[=erama][NP][=2-3cm-size.yellow-bellied.black.worm.sp.]" : {erama}
 | "[=erama][NRoot][=edible.butterfly.larva.sp. (ES: larva.comestible.de.mariposa; sci.nm.: familia.notodontidae)]" : {erama} 
 ! 
@@ -3456,12 +3452,18 @@ define NRootPRQin [
 | "[=irentzi+m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
 | "[=irintzi+m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
 ! 
+# --------------------------------------------------------------------------
 | "[=rento+n.m.+inal@tsi.][NRoot][=sister (kin.of.a.female)]" : {rento}
 | "[=reento+n.m.+inal@tsi.][NRoot][=sister (kin.of.a.female)]" : {reento}
 | "[=irento+n.m.][NRoot][=sister (kin.of.a.female)]" : {irento}
 | "[=ireento+n.m.][NRoot][=sister (kin.of.a.female)]" : {ireento}
 | "[=irinto+n.m.][NRoot][=sister (kin.of.a.female)]" : {irinto}
 | "[=irintyo+n.m.][NRoot][=little.sister (kin.of.a.female)]" : {irintyo}
+! 
+| "[=entyo+n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]" : {entyo}
+| "[=eentyo+n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]" : {eentyo}
+| "[=eentio+n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.; daughter.of.the.mother's.sister)]" : {eentio}
+# --------------------------------------------------------------------------
 ! 
 | "[=riro][NRoot][=watch]" : {riro}
 ! 
