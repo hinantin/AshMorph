@@ -19,6 +19,8 @@ define N [
 # pitotsihaniki / =pito -tsi -haniki / =canoe -nposs -dim / EN: 'small.canoe', ES: 'canoita'
 # nyaantsipeta / =nyaa -ntsi -peta / =language -nposs -dim / EN: 'dictionary' lit.: 'small.language', ES: 'diccionario' lit.: 'pequeño.lenguaje' 
 | (N=S=ABS) (N=S=DIM) (N=S=LOC) 
+# piyarẽtsipayteki 
+| (N=S=ABS) (N=S=ADV=SET1) (N=S=LOC) 
 # ------------------------------------
 | (N=S=poss) 
 | (N=S=DEM) 
