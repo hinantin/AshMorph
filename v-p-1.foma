@@ -1,10 +1,13 @@
 # preffixes slot 1
 
 define P=1 [
+# 1st person singular 
   "[no-][VPers][1SG.S/A+][--]" : [{no}]"@VPERS@"
 | "[n-][VPers][1SG.S/A+][--]" : [{n}]"@VPERS@"
+# 2nd person singular 
 | "[p-][VPers][2S/A+][--]" : [{p}]"@VPERS@"
 | "[pi-][VPers][2S/A+][--]" : [{pi}]"@VPERS@"
+# 3rd person (male) singular
 | "[i-][VPers][3m.S/A+][--]" : [{i}]"@VPERS@"
 | "[y-][VPers][3m.S/A+][--]" : [{y}]"@VPERS@"
 | "[h-][VPers][3m.S/A+][--]" : [{h}]"@VPERS@" # j - Ashéninka Pichis 
@@ -14,9 +17,11 @@ define P=1 [
 | "[ir-][VPers][3m.S/A.IRR+][--]" : [{ir}]"@VPERS@"
 | "[r-][VPers][3m.S/A+][--]" : [{r}]"@VPERS@" # r-anii-t-i
 | "[ri-][VPers][3m.S/A+][--]" : [{ri}]"@VPERS@" # ri-wetsik-ak-i
+# 3rd person (female) singular
 | "[o-][VPers][3n.m.S/A+][--]" : [{o}]"@VPERS@"
 | "[ro-][VPers][3n.m.S/A+][--]" : [{ro}]"@VPERS@"
 | "[ho-][VPers][3n.m.S/A+][--]" : [{ho}]"@VPERS@"
+# 1st person plural
 | "[a-][VPers][1PL.S/A+][--]" : [{a}]"@VPERS@"
 ];
 
