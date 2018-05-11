@@ -2513,7 +2513,7 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------
 | "[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement]" : {nampi} ! N@->V::[= (ES: vivir)] +ADDUPPER@. @ADDLOWER@ 
-| "[=naNpi/nãpi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement]" : {nãpi}
+| "[=naNpi/nãpi+n.m.+inal@tsi.][NRoot:CPB][=village (ES: aldea; PT: aldeia); place; country; settlement]" : {nãpi}
 | "[=nampiki][NRoot][=small.village (ES: aldea; PT: aldeia)]" : {nampiki}
 | "[=nampitsini][NRoot][=hamlet (small.human.settlement, ES: caserio)]" : {nampitsini}
 | "[=nampitsira][NRoot][=(small).town (ES: pueblo)]" : {nampitsira}
