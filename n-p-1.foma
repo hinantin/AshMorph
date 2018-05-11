@@ -17,6 +17,7 @@ define N=P=1 [
 | "[iri-][NPers][3m.poss+][--]" : {iri}"@PHONPROC@" # iriniro -> his mother
 | "[ri-][NPers][3m.poss+][--]" : {ri}"@PHONPROC@" # ripapate -> his dad
 | "[r-][NPers][3m.poss+][--]" : {r}"@PHONPROC@" # rotsitsite -> his dog
+| "[h-][NPers][3m.poss+][--]" : {h}"@PHONPROC@" # hinkini -> his peanut
 # 3rd person (female) singular 
 | "[ro-][NPers][3m.poss+][--]" : {ro}"@PHONPROC@" # robaneki -> en su chacra (de él)
 | "[o-][NPers][3n.m.poss+][--]" : {o}"@PHONPROC@"
