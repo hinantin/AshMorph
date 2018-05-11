@@ -788,8 +788,9 @@ define APPLBEN [ [EP V=S=APPLBEN]|[V=S=APPLBEN] ];
                    
 # ****************************************
                                
+# presencial applicative 
 define V=S=APPLPRES [
-  "[--][-imo+company][+APPL.PRES][=with.other.person, presence]" : "@EP"[{imo}]
+  "[--][-imo+company][VS][+APPL.PRES][=with.other.person, presence]" : "@EP"[{imo}]
 ];
                    
 define APPLPRES [ [EP V=S=APPLPRES]|[V=S=APPLPRES] ];
