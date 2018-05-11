@@ -195,7 +195,8 @@ TZEpenthesisRule8
                                                                             # ipentaki (in our lexicon) -> i@PHONPROC@pentaki -> i@PHONPROC@ventaki -> iventaki 
                                                                             # ipanko (in our lexicon) -> i@PHONPROC@panko -> i@PHONPROC@vanko -> ivanko 
                                                                             # pipompooti (in our lexicon) -> pi@PHONPROC@pompooti -> pi@PHONPROC@vompooti -> pivompooti 
-      define PWLenitionRule3 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{a}] _ [{i}|{o}] ]; 
+      define PWLenitionRule3 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{a}] _ [{a}|{i}|{o}] ]; 
+                                                                            # apankopaye 
                                                                             # apinkatsarite (in our lexicon) -> a@PHONPROC@pinkatsarite -> a@PHONPROC@vinkatsarite -> avinkatsarite 
                                                                             # COMPOUNDS vatsapori (in our lexicon) -> vatsa@PHONPROC@pori -> vatsa@PHONPROC@vori -> vatsavori
                                                                             # aporoni 
