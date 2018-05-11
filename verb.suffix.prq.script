@@ -793,6 +793,7 @@ define APPLBEN [ [EP V=S=APPLBEN]|[V=S=APPLBEN] ];
 # ****************************************
                                
 # presencial applicative 
+# derivational morpheme (VDeriv) 
 define V=S=APPLPRES [
   "[--][-imo+company][VS][+APPL.PRES][=with.other.person, presence]" : "@EP"[{imo}]
 ];
@@ -801,6 +802,7 @@ define APPLPRES [ [EP V=S=APPLPRES]|[V=S=APPLPRES] ];
                    
 # ****************************************
                    
+# derivational morpheme (VDeriv) 
 define V=S=APPLSEP [
   "[--][-pitsa][VS][+APPL.SEP][=separative]" : "@EP"[{pitsa}]
 | "[--][-apitsa][VS][+APPL.SEP][=separative]" : "@EP"[{apitsa}]
