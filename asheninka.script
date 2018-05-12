@@ -291,9 +291,11 @@ TZEpenthesisRule8
 #      source nroot.es.freeling.03.foma
 #      define NRootESFreeling03 NRootESFreelingin03 .o. UpperCase; 
       
-#      source pronoun.prq.foma
+      source place.names.foma 
+
       define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
-      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootPTin|NRootQUin|NumeralPRQin];
+      
+      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootPTin|NRootQUin|NumeralPRQin|NRootPLACESin];
       ####################################
       #     Compound nouns               #
       ####################################
