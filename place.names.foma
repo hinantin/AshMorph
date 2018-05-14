@@ -47,7 +47,7 @@ define NRootPLACESin [
 | "[=alto_esperanza][NRoot][=Upper.Hope, place.name]" : {alto_esperanza}
 | "[=bajo_aldea][NRoot][=Low.Hamlet, place.name]" : {bajo_aldea}
 | "[=bajo_chirani][NRoot][=Low.Chirani, place.name]" : {bajo_chirani}
-| "[=bajo_esperanza][NRoot][=Low.Hope, place.name]" : {bajo_esperanza}
+| "[=bajo_esperanza][NRoot][=Low(er).Hope, place.name]" : {bajo_esperanza}
 | "[=bajo_incariado][NRoot][=Low.Incariado, place.name]" : {bajo_incariado}
 | "[=bajo_marankiari][NRoot][=Low.Marankiari, place.name]" : {bajo_marankiari}
 | "[=campo_verde][NRoot][=Green.Field, place.name]" : {campo_verde}
