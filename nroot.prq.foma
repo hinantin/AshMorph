@@ -911,6 +911,8 @@ define NRootPRQin [
 ! 
 | "[=imposhito][NRoot][=wild.fruit.sp. (ES: fruta.silvestre)]" : {imposhito}
 ! 
+| "[=inpowaNtoteya/inpowãtoteya][NRoot:CPB][=tree.sp. (PT: mutamba, árvore.de.médio.porte; sci.nm.: guazuma.ulmifolia)]" : {inpowãtoteya}
+! 
 | "[=inaapaki][NRoot][=edible.larva.sp. (ES: larva.comestible.de.la.yuca)]" : {inaapaki}
 ! 
 | "[=intakantarori][NRoot][=ancestor]" : {intakantarori}
@@ -2388,6 +2390,8 @@ define NRootPRQin [
 ! 
 | "[=meshaa+n.m.][NRoot][=tree.sp. (capirona)]" : {meshaa}
 | "[=mishaa+n.m.][NRoot][=tree.sp. (capirona)]" : {mishaa}
+! 
+| "[=mesha_oteyaki][NRoot][= (PT: mulateiro; sci.nm.: família.fabaceae)]" : {mesha_oteyaki}
 ! 
 | "[=meshina+n.m.+inal@n/tsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {meshina}
 | "[=mishina+n.m.+inal@ntsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {mishina}
