@@ -1331,10 +1331,10 @@ define NRootPRQin [
 ! 
 | "[=kanarinke][NRoot][=venomous.viper.sp. (ES: serpiente; sci.nm.: imantodes.cenchoa.cenchoa)]" : {kanarinke}
 ! 
-| "[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
-| "[=kaaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
-| "[=kanire+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
-| "[=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+| "[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
+| "[=kaaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
+| "[=kanire+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
+| "[=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 ! 
 | "[=kaniriapashaki][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
 ! 
@@ -2836,11 +2836,11 @@ define NRootPRQin [
 ! sown field. ova/ovaa ó va/vaa, garden?
 ! irobane / ir- =oba -ne / 3m.poss- =sown.field -aln.poss. / EN: 'his.sown.field'; ES: 'chacra.(de.él)' 
 ! owãtsi / ovãtsi / ovantsi / =ova -ntsi / =sown.field -nposs / ES: 'tierras'  
-| "[=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {va}
-| "[=vaa+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {vaa}
-| "[=oa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {oa}
-| "[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {ova}
-| "[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)]" : {ovaa}
+| "[=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)]" : {va}
+| "[=vaa+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)]" : {vaa}
+| "[=oa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)]" : {oa}
+| "[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)]" : {ova}
+| "[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)]" : {ovaa}
 ! 
 # maspute: sp.de.escondite.rústico, tipo.choza.pequeña, con.ventanas.pequeñas.tipo.visores.para.observar.el.acercamiento.de.algún.animal, el.cazador.espera.a.su.presa.dentro.de.este.escondite   
 | "[=ovashiro+inal@ntsi.][NRoot][=hunter's.hiding_place (ES: maspute, sp.de.escondrijo.para.cazadores)]" : {ovashiro}
