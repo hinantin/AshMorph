@@ -3430,14 +3430,14 @@ define NRootPRQin [
 ! 
 ! noviari / no- =piari / 1sg.poss- =manioc.beer / EN: 'my.manioc_beer' 
 ! oviari / o- =piari / 3n.m.poss- =manioc.beer / EN: 'my.manioc_beer' 
-| "[=piari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {piari}
-| "[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {pyare} ! @CMP 
-| "[=pyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {pyaare} 
-| "[=pyari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {pyari} ! @CMP 
-| "[=piyaari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {piyaari}
-| "[=piyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {piyare}
-| "[=piyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {piyaare}
-| "[=peare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {peare}
+| "[=piari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]" : {piari}
+| "[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]" : {pyare} ! @CMP 
+| "[=pyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]" : {pyaare} 
+| "[=pyari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]" : {pyari} ! @CMP 
+| "[=piyaari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]" : {piyaari}
+| "[=piyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]" : {piyare}
+| "[=piyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]" : {piyaare}
+| "[=peare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]" : {peare}
 | "[=nyonyo][NRoot][=manioc.beer (ES: masato)]" : {nyonyo}
 ! 
 | "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
