@@ -725,6 +725,8 @@ define NRootPRQin [
 ! 
 | "[=homanka][NRoot][=black-necked.red.cotinga (sci.nm.: phoenicircus.nigricollis)]" : {homanka}
 ! 
+| "[=homo+m.][NRoot][= (ES: gualo, sp.de.rana.que.canta.cuando.llueve)]" : {homo}
+! 
 | "[=honkoki][NRoot][=master-owner.of.white_corn (ES: dueño.del.maíz.blanco)]" : {honkoki}
 ! 
 | "[=hoontzi+m.][NRoot][=toad.sp. (ES: especie.de.sapo)]" : {hoontzi}
@@ -3011,8 +3013,8 @@ define NRootPRQin [
 | "[=pariantsi+sem@season.][NRoot][=winter (ES: invierno)]" : {pariantsi}
 | "[=kiarontsi+sem@season.][NRoot][=winter (ES: invierno)]" : {kiarontsi}
 | "[=kiavontsi+sem@season.][NRoot][=winter (ES: invierno)]" : {kiavontsi}
-| "[=kiyawõtsi+sem@season.][NRoot:CPB][=winter (ES: invierno; PT: estação.chuvosa, o.tempo.das.águas)]" : {kiyawõtsi}
-| "[=kiawõtsi+sem@season.][NRoot:CPB][=winter (ES: invierno; PT: estação.chuvosa, o.tempo.das.águas)]" : {kiawõtsi}
+| "[=kiyawõtsi+sem@season.][NRoot:CPB][=winter (ES: invierno; PT: inverno); rainy.season (PT: estação.chuvosa, o.tempo.das.águas)]" : {kiyawõtsi}
+| "[=kiawõtsi+sem@season.][NRoot:CPB][=winter (ES: invierno; PT: inverno); rainy.season (PT: estação.chuvosa, o.tempo.das.águas)]" : {kiawõtsi}
 | "[=kimohaantsi+sem@season.][NRoot][=rainy.season/winter (ES: invierno)]" : {kimohaantsi}
 | "[=pariapaintzi+sem@season.][NRoot][=rainy.season/winter (ES: invierno)]" : {pariapaintzi}
 ! 
