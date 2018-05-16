@@ -2761,10 +2761,12 @@ define NRootPRQin [
 | "[=iyopempe][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopempe}
 | "[=iyopimpi][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopimpi}
 ! 
+# osarenti: O Verão começa em maio e vai até fim de setembro. É a época em que para de chover e começam as friagens, chamadas de katsinkaitere. 
 | "[=sarintsi+m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {sarintsi} 
 | "[=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {harentsi} ! N@->V::[=to.be.summer] 
 | "[=sarentsi+m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {sarentsi} 
 | "[=osarentsi+m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {osarentsi} 
+| "[=osarenti+m.+poss@te.][NRoot][=dry.season/summer (ES: verano)]" : {osarenti} 
 ! 
 | "[=oshero+m.][NRoot][=crab.sp.]" : {oshero}
 ! monkey species
