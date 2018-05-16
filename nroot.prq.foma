@@ -66,7 +66,7 @@ define NRootPRQin [
 | "[=ashitaaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaaneyetachari}
 | "[=ashitaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaneyetachari}
 ! 
-| "[=ashitarori+m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitarori}
+| "[=ashitarori+m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places (PT: chefe.)]" : {ashitarori}
 | "[=ashitariri+m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitariri}
 ! 
 | "[=ashitavo+n.m.+inal@ntsi.][NRoot][=door (ES: puerta)]" : {ashitavo}
@@ -3430,14 +3430,14 @@ define NRootPRQin [
 ! 
 ! noviari / no- =piari / 1sg.poss- =manioc.beer / EN: 'my.manioc_beer' 
 ! oviari / o- =piari / 3n.m.poss- =manioc.beer / EN: 'my.manioc_beer' 
-| "[=piari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {piari}
-| "[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {pyare} ! @CMP 
-| "[=pyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {pyaare} 
-| "[=pyari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {pyari} ! @CMP 
-| "[=piyaari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {piyaari}
-| "[=piyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {piyare}
-| "[=piyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {piyaare}
-| "[=peare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]" : {peare}
+| "[=piari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {piari}
+| "[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {pyare} ! @CMP 
+| "[=pyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {pyaare} 
+| "[=pyari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {pyari} ! @CMP 
+| "[=piyaari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {piyaari}
+| "[=piyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {piyare}
+| "[=piyaare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {piyaare}
+| "[=peare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma)]" : {peare}
 | "[=nyonyo][NRoot][=manioc.beer (ES: masato)]" : {nyonyo}
 ! 
 | "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
