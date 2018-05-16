@@ -12,6 +12,9 @@ define NRootQUin [
 | "[=tampu/tampoo][NRootQU][=Incan.structure (ESP: tambo)]" : {tampoo}
 | "[=tampu/tampo][NRootQU][=Incan.structure (ESP: tambo)]" : {tampo}
 ! 
-| "[=kurakuna][NRootQU][=strongmen; supreme.leader]" : {korakona}
+| "[=kurakuna/korakona][NRootQU][=strongmen; supreme.leader]" : {korakona}
+! 
+| "[=ch'ulla.chaki/txoyatxaki][NRootQU][=master-owner.of.animals/plants (PT: chefe.dos.animais.tem.o.poder.de.escondê-los.ou.não.de.um.caçador, chefe.quem.cuida.das_árvores_de_espírito.que.existem.na.floresta)]" : {txoyatxaki}
+| "[=shiyamayri][NRoot:CPB][=master-owner.of.animals/plants (PT: chefe.dos.animais.tem.o.poder.de.escondê-los.ou.não.de.um.caçador, chefe.quem.cuida.das_árvores_de_espírito.que.existem.na.floresta)]" : {shiyamayri}
 ];
 
