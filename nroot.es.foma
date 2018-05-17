@@ -184,7 +184,7 @@ define NRootESin [
 ! 
 | "[=Tambo][NRootEs][=Tambo]" : {Tampo}
 ! 
-| "[=tãpo/tambor][NRootEs][=tambor]" : {tãpo}
+| "[=tãpo/tambor][NRootEs:CPB][=tambor]" : {tãpo}
 ! 
 | "[=Ene][NRootEs][=Ene]" : {Ene}
 | "[=Apurimac][NRootEs][=Apurimac]" : {Apurimac}
