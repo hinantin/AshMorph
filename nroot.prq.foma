@@ -1912,8 +1912,9 @@ define NRootPRQin [
 # korintona / =korinto -na / =mythological.animal -cl:large,deep.pool.of.water / ES: 'la.quebrada.de.Korinto'; EN: "Korinto's.ravine"  
 | "[=korinto][NRoot][=woman-like.human-eater.big.mythological.animal (ES: piedra.que.come.hombres); elephant]" : {korinto} ! woman like apperance, human eater
 ! 
-| "[=koria+poss@ni.][NRoot][=manioc.worm (ES: sp.de.gusano)]" : {koria}
-| "[=korya+poss@ni.][NRoot][=manioc.worm (ES: sp.de.gusano)]" : {korya}
+| "[=koria+poss@ni.][NRoot][=manioc.worm (ES: sp.de.gusano, gusano.de.yuca)]" : {koria}
+| "[=korya+poss@ni.][NRoot][=manioc.worm (ES: sp.de.gusano, gusano.de.yuca)]" : {korya}
+| "[=koriato][NRoot][=manioc.worm (ES: sp.de.gusano, gusano.de.yuca)]" : {koriato}
 ! 
 | "[=koriari][NRoot][=NP]" : {koriari}
 ! 
