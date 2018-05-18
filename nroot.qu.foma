@@ -1,3 +1,5 @@
+# The writing system for Quechua used in our project is `Southern Quechua`
+
 define NRootQUin [
   "[=ch'arki/chaarikire+inal@ntsi.][NRoot:QU][=dried.salted.meat (ES: charqui; QU: ch'arki)]" : {chaarikire}
 | "[=ch'arki/chariki][NRoot:QU][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]" : {chariki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
