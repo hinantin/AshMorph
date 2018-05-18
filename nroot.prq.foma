@@ -1236,8 +1236,6 @@ define NRootPRQin [
 | "[=kainka+n.m.][NRoot][=banana.sp. (ES: sp.de.plátano)]" : {kainka}
 ! 
 | "[=katyoka+inal@ntsi.][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]" : {katyoka}
-| "[=chariki][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]" : {chariki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
-| "[=chariiki][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]" : {chariiki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
 ! 
 | "[=katyori][NRoot][=salted, salty (ES: salado); acidic, sour]" : {katyori}
 | "[=katyokiri][NRoot][=salted, salty (ES: salado)]" : {katyokiri}
@@ -2978,6 +2976,7 @@ define NRootPRQin [
 | "[=panki][NRoot][=plank, long.narrow.flat.piece.of.wood]" : {panki}
 ! 
 | "[=pankire+m.+inal@ntsi.][NRoot][=plant (ES: planta)]" : {pankire}
+| "[=paNkire/pãkire+m.+inal@ntsi.][NRoot:CPB][=plant (ES: planta)]" : {pãkire}
 ! 
 | "[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP
 | "[=pãko+n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
@@ -4744,6 +4743,7 @@ define NRootPRQin [
 | "[=tyapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]" : {tyapa}
 | "[=atyaapa+n.m.+poss@ti.][NRoot][=hen (ES: gallina)]" : {atyaapa}
 | "[=teapa+n.m.+poss@te.][NRoot][=hen (ES: gallina)]" : {teapa}
+| "[=txaapa+n.m.+poss@te.][NRoot:CPB][=hen (ES: gallina; PT: galinha)]" : {txaapa}
 ! rooster 
 | "[=tyoopi+m.][NRoot][=rooster]" : {tyoopi}
 | "[=tyopi+m.][NRoot][=rooster]" : {tyopi}
