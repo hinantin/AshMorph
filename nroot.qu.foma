@@ -19,7 +19,10 @@ define NRootQUin [
 ! 
 | "[=kurakuna/korakona][NRootQU][=strongmen; supreme.leader]" : {korakona}
 ! 
-| "[=ch'ulla.chaki/txoyatxaki][NRootQU][=master-owner.of.animals/plants (PT: chefe.dos.animais.tem.o.poder.de.escondê-los.ou.não.de.um.caçador, chefe.quem.cuida.das_árvores_de_espírito.que.existem.na.floresta)]" : {txoyatxaki}
+| "[=ch'ulla.chaki/txoyatxaki][NRoot:QU][=master-owner.of.animals/plants (PT: chefe.dos.animais.tem.o.poder.de.escondê-los.ou.não.de.um.caçador, chefe.quem.cuida.das_árvores_de_espírito.que.existem.na.floresta)]" : {txoyatxaki}
 | "[=shiyamayri][NRoot:CPB][=master-owner.of.animals/plants (PT: chefe.dos.animais.tem.o.poder.de.escondê-los.ou.não.de.um.caçador, chefe.quem.cuida.das_árvores_de_espírito.que.existem.na.floresta)]" : {shiyamayri}
+! 
+| "[=wayu/huayo][NRoot:QU][=plant.sp. (ES: azúcar.huayo, fruta.carnosa; sci.nm.: hymenaea.oblongifolia)]" : {huayo}
+| "[=wayu/huayu][NRoot:QU][=plant.sp. (ES: azúcar.huayo, fruta.carnosa; sci.nm.: hymenaea.oblongifolia)]" : {huayu}
 ];
 
