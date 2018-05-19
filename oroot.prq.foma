@@ -243,9 +243,9 @@ define ORootPRQin [
 | "[=eeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.ser)]" : {eeniro} 
 
 ! 
-| "[=tsimatsi][VRoot][=EXIST; POSSESS]" : {tsimatsi} 
-| "[=timatsi][VRoot][=EXIST (EN: there.is)]" : {timatsi} 
-| "[=tzimatsi][VRoot][=EXIST]" : {tzimatsi} 
+| "[=tsimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber); POSSESS]" : {tsimatsi} 
+| "[=timatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]" : {timatsi} 
+| "[=tzimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]" : {tzimatsi} 
 ! 
 | "[=timatsikera][VRoot][=CONT.EXIST (ES: todavía.hay)]" : {timatsikera} 
 ! 
