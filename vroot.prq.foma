@@ -831,6 +831,7 @@ define VRootPRQin [
 | "[=kov][VRoot][=to.want]" : {kov} 
 | "[=ko][VRoot][=to.want]" : {ko} 
 | "[=kov+prop@redup.][VRoot][=to.want]::[=to.prefer.strongly]" : {kokov} 
+| "[=kov+prop@redup.][VRoot][=?]::[=to.search]" : {kovakova} ! to.be.checked!!! 
 ! 
 | "[=kovashiri][VRoot][=to.desire (ES: desear)]" : {kovashiri} 
 ! 
