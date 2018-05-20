@@ -197,9 +197,9 @@ define STATUS [
                    
 define V=S=AUG=SET1 [
 # Intensifier 
-  "[--][-piro][DEGR][+AUG][=indeed, truly, verity]" : "@EP"[{piro}]
-| "[--][-pero][DEGR][+AUG][=indeed, truly, verity]" : "@EP"[{pero}]
-| "[--][-pira][DEGR][+AUG][=indeed, truly, verity]" : "@EP"[{pira}]
+  "[--][-piro][DEGR][+AUG][=VERITY:indeed, truly]" : "@EP"[{piro}]
+| "[--][-pero][DEGR][+AUG][=VERITY:indeed, truly]" : "@EP"[{pero}]
+| "[--][-pira][DEGR][+AUG][=VERITY:indeed, truly]" : "@EP"[{pira}]
 ];
                    
 define V=S=AUG=SET2 [
