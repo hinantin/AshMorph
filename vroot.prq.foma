@@ -109,6 +109,8 @@ define VRootPRQin [
 ! 
 | "[=ana][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {ana}
 | "[=na][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {na}
+| "[=nat][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {nat}
+| "[=nat+prop@redup.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {natanata}
 ! 
 | "[=anaako][VRoot][=to.win, to.gain (ES: ganar)]" : {anaako}
 ! 
@@ -2153,7 +2155,7 @@ define VRootPRQin [
 ];
 
 # ----------------------------------------
-# +redup.	reduplication implies the meaning 'a.lot, more.and.more' 
+# +redup.	reduplication implies the meaning 'a.lot, more-and-more' 
 # algn.		alguien 
 # f.tech.	fishing technique 
 
