@@ -202,12 +202,12 @@ define NRootPRQin [
 | "[=aampe+m.][NRoot][=butterfly.sp.]" : {aampe}
 | "[=tsaampe+m.][NRoot][=butterfly.sp.]" : {tsaampe}
 ! cotton
-| "[=ampee+poss@re:ne.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense; ES: algodón)]" : {ampee}
-| "[=ampii+poss@ri.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense; ES: algodón)]" : {ampii}
-| "[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense; ES: algodón)]" : {ampe}
-| "[=ãpe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense; ES: algodón)]" : {ãpe}
-| "[=ampi][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense; ES: algodón)]" : {ampi}
-| "[=ampehi][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense; ES: algodón)]" : {ampehi}
+| "[=ampee+poss@re:ne.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampee}
+| "[=ampii+poss@ri.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampii}
+| "[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampe}
+| "[=ãpe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ãpe}
+| "[=ampi][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampi}
+| "[=ampehi][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampehi}
 !
 | "[=amporetsa][NRoot][=intestine (ES: tripa, intestino)]" : {amporetsa}
 ! 
