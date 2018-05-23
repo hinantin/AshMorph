@@ -1279,6 +1279,7 @@ define NRootPRQin [
 | "[=kamanitaantsi][NRoot][=death]" : {kamanitaantsi}
 ! 
 | "[=kamanyari][NRoot][=NP, person's.name]" : {kamanyari}
+| "[=kamanyaari][NRoot][=NP, person's.name]" : {kamanyaari}
 ! 
 | "[=kamara+sem@color.][NRoot][=cinnamon.color]" : {kamara}
 | "[=kamarari+sem@color.][NRoot][=brown, beige]" : {kamarari}
