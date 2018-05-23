@@ -9,15 +9,15 @@ define EP [
 # ****************************************
                    
 define V=S=PROG=SET1 [
-  "[--][-atzi][ASP][+PROG]" : "@EP"[{atzi}] 
-| "[--][-atsi][ASP][+PROG]" : "@EP"[{atsi}] 
-| "[--][-ati][ASP][+PROG]" : "@EP"[{ati}]
+  "[--][-atzi][ASP][+PROG][=actn.in.progress; actn.being.in.progress.in.the.future]" : "@EP"[{atzi}] 
+| "[--][-atsi][ASP][+PROG][=actn.in.progress; actn.being.in.progress.in.the.future]" : "@EP"[{atsi}] 
+| "[--][-ati][ASP][+PROG][=actn.in.progress; actn.being.in.progress.in.the.future]" : "@EP"[{ati}]
 ];
 
 define V=S=PROG=SET2 [
-  "[--][-atz][ASP][+PROG]" : "@EP"[{atz}] 
-| "[--][-aty][ASP][+PROG]" : "@EP"[{aty}]
-| "[--][-atiy][ASP][+PROG]" : "@EP"[{atiy}]
+  "[--][-atz][ASP][+PROG][=actn.in.progress; actn.being.in.progress.in.the.future]" : "@EP"[{atz}] 
+| "[--][-aty][ASP][+PROG][=actn.in.progress; actn.being.in.progress.in.the.future]" : "@EP"[{aty}]
+| "[--][-atiy][ASP][+PROG][=actn.in.progress; actn.being.in.progress.in.the.future]" : "@EP"[{atiy}]
 ];
                    
 define PROG [ [EP V=S=PROG=SET1]|[V=S=PROG=SET1]|[EP V=S=PROG=SET2]|[V=S=PROG=SET2] ];
