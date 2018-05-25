@@ -949,7 +949,7 @@ define VRootPRQin [
 | "[=ma][VRoot][=to.sleep (ES: dormir)]" : {ma}
 | "[=maa][VRoot][=to.sleep (ES: dormir)]" : {maa}
 | "[=may][VRoot][=to.sleep (ES: dormir)]" : {may}
-| "[=maey][VRoot][=to.sleep (ES: dormir)]" : {maey}
+| "[=maey][VRoot][=to.sleep (ES: dormir)]" : {maey} ! to be checked !!! 
 ! 
 | "[=maye][VRoot][=to.limp (ES: cojear)]" : {maye}
 | "[=mayeh][VRoot][=to.limp (ES: cojear)]" : {mayeh}
