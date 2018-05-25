@@ -111,7 +111,7 @@ define V=S=PL=SET1 [
 define V=S=PL=SET2 [
 # ichiki / i- =chik -i / 3m.s- =to.cut -real / EN: 'he cut'
 # ichikaiyini / i- =chik -aiy -i -ni / 3m.s- =to.cut -pl -real -pl+circumfixing / EN: 'they cut'
-| "[--][-aiy][+PL]" : "@EP"[{aiy}] 
+  "[--][-aiy][+PL]" : "@EP"[{aiy}] 
 | "[--][-aey][+PL]" : "@EP"[{aey}] 
 # Contraction process * more rules need to be added 
 # tsirenitakoiyanakini / =tsireni -t -ako -iy -an -ak -i -ni /  
@@ -119,7 +119,7 @@ define V=S=PL=SET2 [
 | "[--][-ey][+PL]" : "@EP"[{ey}] 
 ];
                    
-define PL [ [EP V=S=PL]|[V=S=PL] ];
+define PL [ [EP V=S=PL=SET1]|[V=S=PL=SET1]|[EP V=S=PL=SET2]|[V=S=PL=SET2] ];
                    
 # ****************************************
                    
