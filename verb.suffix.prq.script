@@ -100,16 +100,20 @@ define V=S=OPT [
                    
 # ****************************************
                    
-define V=S=PL [
+define V=S=PL=SET1 [
   "[--][-he][NUM][+PL]" : "@EP"[{he}] 
 | "[--][-hei][NUM][+PL]" : "@EP"[{hei}] 
 | "[--][-hee][NUM][+PL]" : "@EP"[{hee}] 
 # -ite only appears in nominalized verb structures 
 # ---------------------------------------
+];
+
+define V=S=PL=SET2 [
 # ichiki / i- =chik -i / 3m.s- =to.cut -real / EN: 'he cut'
 # ichikaiyini / i- =chik -aiy -i -ni / 3m.s- =to.cut -pl -real -pl+circumfixing / EN: 'they cut'
 | "[--][-aiy][+PL]" : "@EP"[{aiy}] 
 | "[--][-aey][+PL]" : "@EP"[{aey}] 
+# Contraction process * more rules need to be added 
 # tsirenitakoiyanakini / =tsireni -t -ako -iy -an -ak -i -ni /  
 | "[--][-iy][+PL]" : "@EP"[{iy}] 
 | "[--][-ey][+PL]" : "@EP"[{ey}] 
