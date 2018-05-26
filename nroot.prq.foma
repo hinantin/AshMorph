@@ -2938,8 +2938,9 @@ define NRootPRQin [
 ! 
 ! novaje / novahe / no- =pahe / EN: 'my.gray_hair'; ES: 'mi.cana' 
 ! ivaje / ivahe / i- =pahe / EN: 'his.gray_hair'; ES: 'su.cana' 
-| "[=pahe+inal@tsi.][NRoot][=gray.hair (ES: cana)]" : {pahe}
-| "[=pai+inal@tsi.][NRoot][=gray.hair (ES: cana)]" : {pai}
+| "[=pahe+inal@tsi.][NRoot][=gray/grey.hair (ES: cana)]" : {pahe}
+| "[=pai+n.m.+inal@tsi.][NRoot][=gray/grey.hair, white.hair (ES: cana)]" : {pai}
+#| "[=pai+n.m.+inal@tsi.][NRoot][=white.hair (ES: cana)]" : {pai}
 ! 
 | "[=pahenti+n.m.][NRoot][=gray-haired, white-haired (ES: canoso)]" : {pahenti}
 ! 
@@ -2958,8 +2959,6 @@ define NRootPRQin [
 | "[=pahotiki+n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pahotiki}
 | "[=pasotiki+n.m.][NRoot][=wild.edible.fruit.sp.(ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotiki}
 | "[=pasotziki+n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotziki}
-! 
-| "[=pai+n.m.+inal@tsi.][NRoot][=white.hair]" : {pai}
 ! 
 | "[=painto][NRoot][=small.toad.sp. (sci.nm.: leptodactylus.rhodonotus)]" : {painto}
 ! 
