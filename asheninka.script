@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -244,9 +244,10 @@ TZEpenthesisRule8
 #      define VowelLossRule2 [ i"@PHONPROC@" -> "@PHONPROC@" || p _ [{i}|{o}|{a}] ]; 
       define VowelLossRule3 [ i"@PHONPROC@" (->) "@PHONPROC@" || _ [{i}] ]; 
       define VowelLossRule4 [ o"@PHONPROC@" (->) "@PHONPROC@" || _ [{o}] ]; 
+      define VowelLossRule5 [ i"@IDIM@" (->) "@IDIM@" || _ {iriki} ]; 
       
 #      define VowelLoss [ VowelLossRule1 .o. VowelLossRule2 ];
-      define VowelLoss [ VowelLossRule3 .o. VowelLossRule4 ];
+      define VowelLoss [ VowelLossRule3 .o. VowelLossRule4 .o. VowelLossRule5 ];
       
       ####################################
       #                                  #
