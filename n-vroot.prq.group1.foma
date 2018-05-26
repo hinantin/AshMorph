@@ -17,7 +17,7 @@ define NounToVerbPRQin [
 | "[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person]+vbz." : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=avo+n.m.+inal@tsi.][NRoot][=road, trail]::[=to.make.a.road (ES: hacer.una.senda)]+vbz." : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)]
-| "[=chee+m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]+vbz." : {chee} ! @VCMP N@->V
+| "[=chee+m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]::[=to.have.a.horn(s)]+vbz." : {chee} ! @VCMP N@->V::[=to.have.a.horn(s)]
 | "[=chakopi+n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)]+vbz." : {chakopi} ! N@->V
 | "[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]+vbz." : {charine} ! N@->V
 | "[=chaine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]+vbz." : {chaine} ! N@->V
