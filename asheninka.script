@@ -244,10 +244,9 @@ TZEpenthesisRule8
 #      define VowelLossRule2 [ i"@PHONPROC@" -> "@PHONPROC@" || p _ [{i}|{o}|{a}] ]; 
       define VowelLossRule3 [ i"@PHONPROC@" (->) "@PHONPROC@" || _ [{i}] ]; 
       define VowelLossRule4 [ o"@PHONPROC@" (->) "@PHONPROC@" || _ [{o}] ]; 
-      define VowelLossRule5 [ i"@IDIM@" (->) "@IDIM@" || _ {iriki} ]; 
       
 #      define VowelLoss [ VowelLossRule1 .o. VowelLossRule2 ];
-      define VowelLoss [ VowelLossRule3 .o. VowelLossRule4 .o. VowelLossRule5 ];
+      define VowelLoss [ VowelLossRule3 .o. VowelLossRule4 ];
       
       ####################################
       #                                  #
@@ -265,9 +264,12 @@ TZEpenthesisRule8
       define PossessiveRestr4 [ [{o}] => .#. ~[{pi}"@PHONPROC@"] _  ]; ! pio 
       
       define IRestr1 [ ["@I@"] => {i} _ ]; 
+      define IRestr2 [ ["@IDIM@"] => {i} _ ]; 
       define NIRestr1 [ ["@NI@"] => {ni} _ ]; 
       
-      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 .o. IRestr1 .o. NIRestr1 .o. PossPlusAlnPossRestr1 ];
+      define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 
+.o. IRestr1 .o. IRestr2 
+.o. NIRestr1 .o. PossPlusAlnPossRestr1 ];
       
       source nroot.prq.foma
       source aroot.prq.foma
