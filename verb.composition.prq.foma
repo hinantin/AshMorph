@@ -9,7 +9,7 @@ define V=S=noun [
 | "[--][=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : "@EP"{atziri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : "@EP"{atiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : "@EP"{atsiri} ! @VCMP N@->V::[=to.be.a.person]  
-| "[--][=chee+m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : "@EP"{chee} ! @VCMP 
+| "[--][=chee+m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : "@EP"{chee} ! @VCMP N@->V
 | "[--][=hani][NRoot][=little.child]" : "@EP"{hani} ! @VCMP 
 | "[--][=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{henka} ! @VCMP 
 | "[--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{enka} ! @VCMP 
