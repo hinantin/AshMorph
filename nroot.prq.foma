@@ -4350,10 +4350,12 @@ define NRootPRQin [
 | "[=tiroti+n.m.][NRoot][=palm.tree.sp.with.black.thorns (ES: huicungo; sci.nm.: astrocaryum.murumuru)]" : {tiroti}
 | "[=tzirootzi+n.m.][NRoot][=palm.tree.sp. (ES: huicungo; sci.nm.: astrocaryum.murumuru)]" : {tzirootzi}
 ! 
-| "[=tziso][NRoot][=greater.yellow-headed.vulture (sci.nm.: cathartes.melambrotus); common.vulture]" : {tziso}
+# ------------------------------------------------------------------------------------------
+| "[=tziso+m.][NRoot][=greater.yellow-headed.vulture (sci.nm.: cathartes.melambrotus); common.vulture]" : {tziso}
 # SRC: tsijo 
-| "[=tsiho][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tsiho}
-| "[=tiho][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tiho}
+| "[=tsiho+m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tsiho}
+| "[=tiho+m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tiho}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tzisoniro][NRoot][=falcon.sp., black.caracara (sci.nm.: daptrius.ater)]" : {tzisoniro}
 ! 
