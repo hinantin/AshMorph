@@ -4352,7 +4352,8 @@ define NRootPRQin [
 ! 
 # ------------------------------------------------------------------------------------------
 | "[=tziso+m.][NRoot][=greater.yellow-headed.vulture (ES: gallinazo; sci.nm.: cathartes.melambrotus); common.vulture]" : {tziso}
-| "[=tisoni][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tisoni}
+#| "[=tisoni][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tisoni}
+| "[=tisoni][NRoot][=black.volture.sp. (ES: gallinazo, sci.nm.: daptrius.ater)]" : {tisoni}
 # SRC: tsijo 
 | "[=tsiho+m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tsiho}
 | "[=tziho+m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tziho}
@@ -4362,8 +4363,6 @@ define NRootPRQin [
 | "[=tzisoniro][NRoot][=falcon.sp., black.caracara (sci.nm.: daptrius.ater)]" : {tzisoniro}
 ! 
 | "[=tsirishi][NRoot][=person's.name; plant.sp.]" : {tsirishi}
-! 
-| "[=tisoni][NRoot][=black.volture.sp. (ES: gallinazo, sci.nm.: daptrius.ater)]" : {tisoni}
 ! 
 | "[=tiya+n.m.+inal@tsi.][NRoot][=excrement (ES: excremento), feces (ES: heces)]" : {tiya}
 | "[=tziya+n.m.+inal@tsi.][NRoot][=excrement (ES: excremento), feces (ES: heces)]" : {tziya}
