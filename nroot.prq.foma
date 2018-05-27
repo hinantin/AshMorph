@@ -2556,6 +2556,8 @@ define NRootPRQin [
 | "[=nampi][NRoot][=big.quantity]" : {nampi}
 # ---------------------------------------------------------------------
 ! 
+| "[=napo][NRoot][=person's.name; NP]" : {napo}
+! 
 | "[=natsiryari+m.][NRoot][=green]" : {natsiryari}
 | "[=natsiryaro+n.m.][NRoot][=green]" : {natsiryaro}
 ! 
