@@ -727,6 +727,7 @@ define REP [ [EP V=S=REP]|[V=S=REP] ];
 # -----------------------------------------------------
       
 # to indicate intent 
+# exclusive with reflexive -a/-aa 
 # purpusive: action.done.with.some.purpose.in.view 
 define V=S=APPLINT [
   "[--][-ashi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{ashi}]
