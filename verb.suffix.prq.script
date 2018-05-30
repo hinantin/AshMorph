@@ -354,6 +354,10 @@ define FRUS [ [EP V=S=FRUS]|[V=S=FRUS] ];
                    
 # instrumental applicative 
 # derivational morpheme (VDeriv) 
+# indicate a justification (JUSTIF): 
+# * the reason that 
+# * for a reason 
+# * for some reason 
 define V=S=APPLREAS [
 # Characteristic (CHAR) 
   "[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]" : "@EP"[{ant}]
