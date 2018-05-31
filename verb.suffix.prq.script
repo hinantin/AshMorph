@@ -54,9 +54,9 @@ define DIST [ [EP V=S=DIST]|[V=S=DIST] ];
 # ****************************************
                    
 define V=S=DIR=SET1 [
-# 
-  "[--][-av+object.oriented][ADV][+DIR][=contrary,opposite]" : "@EP"[{av}] 
-| "[--][-aav+object.oriented][ADV][+DIR][=contrary,opposite]" : "@EP"[{aav}] 
+# receiving (RCVG) 
+  "[--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]" : "@EP"[{av}] 
+| "[--][-aav+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]" : "@EP"[{aav}] 
 ];
 
 define V=S=DIR=SET2 [
