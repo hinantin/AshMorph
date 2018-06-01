@@ -16,8 +16,8 @@ define V=S=noun [
 | "[--][=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tsempeki} ! @VCMP @CMP 
 | "[--][=tseempeki][NRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tseempeki} ! @VCMP @CMP 
 | "[--][=kamari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : "@EP"{kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
-| "[--][=kameetsa][NRoot][=well]" : "@EP"{kameetsa} ! @VCMP 
-| "[--][=kametsa][NRoot][=well, good]" : "@EP"{kametsa} ! @VCMP 
+| "[--][=kameetsa][NRoot][=well (ES: bien)]" : "@EP"{kameetsa} ! @VCMP 
+| "[--][=kametsa][NRoot][=well (ES: bien), good]" : "@EP"{kametsa} ! @VCMP 
 | "[--][=kentsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]" : "@EP"{kentsi} ! @VCMP 
 | "[--][=kintsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]" : "@EP"{kintsi} ! @VCMP 
 | "[--][=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kiri} ! @VCMP 
