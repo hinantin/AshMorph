@@ -135,10 +135,17 @@ define AdvRootPRQin [
 | "[=tsiteni][AdvRoot][=at.night, in.the.nightime]" : {tsiteni}
 | "[=tsiteniranki][AdvRoot][=last.night]" : {tsiteniranki}
 ! 
+# ----------------------------------------------------------------------
 | "[=shavinihi][AdvRoot][=in.the.afternoon]" : {shavinihi}
 | "[=shaavinihi][AdvRoot][=afternoon (ES: tarde)]" : {shaavinihi}
 | "[=ishaaviini][AdvRoot][=afternoon (ES: tarde)]" : {ishaaviini}
 | "[=ishaavi][AdvRoot][--][-iti][= (ES: pronto)][--][-ini][+ADV]::[=in/at.the.afternoon (ES: en/por.la.tarde)]" : {ishaaviitiini}
+| "[=shaviteni][AdvRoot][=afternoon (ES: tarde)]" : {shaviteni}
+| "[=oshavityaki][AdvRoot][=afternoon (ES: tarde)]" : {oshavityaki} ! to be revised!!!
+| "[=oshavityapahi][AdvRoot][=afternoon (ES: tarde)]" : {oshavityapahi} ! to be revised!!!
+| "[=oshaaviityaanake][AdvRoot][=afternoon (ES: tarde)]" : {oshaaviityaanake} ! to be revised!!!
+# ----------------------------------------------------------------------
+
 ];
 
 # ##############################
