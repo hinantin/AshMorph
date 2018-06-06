@@ -639,6 +639,7 @@ define V=S=ADJ=SET2 [
 | "[--][-ryaanto+n.m.][NS][+ADJ.CAPABLE]" : "@EP"[{ryaanto}] 
 | "[--][-ryanto+n.m.][NS][+ADJ.CAPABLE]" : "@EP"[{ryanto}] 
 | "[--][-rianto+n.m.][NS][+ADJ.CAPABLE]" : "@EP"[{rianto}] 
+| "[--][-rento+n.m.][NS][+ADJ.CAPABLE]" : "@EP"[{rento}] 
 ];
 
 define ADJ [
