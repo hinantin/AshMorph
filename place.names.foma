@@ -152,4 +152,6 @@ define NRootPLACESin [
 ! 
 | "[=korintoni][NRoot][=place.name]" : {korintoni}
 | "[=korintooni][NRoot][=place.name]" : {korintooni}
+! 
+| "[=kemariari][NRoot][=place.name]" : {kemariari}
 ];
