@@ -4547,7 +4547,7 @@ define NRootPRQin [
 ! 
 | "[=tampatsikari][NRoot][=straight (ES: derecho, recto)]" : {tampatsikari}
 | "[=tampatsika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatsika}
-| "[=tampatika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatika}
+| "[=tampatika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatika} ! N@->V 
 | "[=tampatzika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatzika}
 | "[=tampatyika][NRoot][=noon (ES: mediodía)]" : {tampatyika}
 ! 

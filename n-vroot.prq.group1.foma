@@ -106,6 +106,7 @@ define NounToVerbPRQin [
 | "[=tsantsa][NRoot][=long (in.length; ES: largo); big]+vbz." : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length; ES: largo)]+vbz." : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length; ES: largo)]+vbz." : {hantsa} ! N@->V @CMP
+| "[=tampatika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]+vbz." : {tampatika} ! N@->V 
 | "[=tsinani+n.m.][NRoot][=female, woman (ES: mujer); young.girl]+vbz." : {tsinani} ! N@->V
 | "[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl]+vbz." : {tsinane} ! N@->V
 | "[=tzinani+n.m.][NRoot][=female, woman (ES: mujer); young.girl]+vbz." : {tzinani} ! N@->V
