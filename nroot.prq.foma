@@ -1893,6 +1893,9 @@ define NRootPRQin [
 ! 
 | "[=kompita][NRoot][=riddle]" : {kompita}
 ! 
+| "[=kompiyoki][NRoot][=person's.name, NP]" : {kompiyoki} 
+| "[=kompiyoshi][NRoot][=person's.name, NP]" : {kompiyoshi} 
+! 
 | "[=konori][NRoot][=rubber]" : {konori}
 ! 
 | "[=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
