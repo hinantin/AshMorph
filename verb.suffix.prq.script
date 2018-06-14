@@ -156,6 +156,7 @@ define V=S=CNTF [
 # -------------------------------------------
 # STATUS 
 # -------------------------------------------
+NON/FUTURE
 define V=S=REAL [
   "[--][-e][+REAL]" : "@EP"[{e}]
 | "[--][-ee][+REAL]" : "@EP"[{ee}]
@@ -167,7 +168,8 @@ define V=S=REAL [
 | "[--][-ya][+REAL]" : "@EP"[{ya}]
 | "[--][-yaa][+REAL]" : "@EP"[{yaa}]
 ];
-      
+
+FUTURE  
 define V=S=IRR [
   "[--][-e][+IRR]" : "@EP"[{e}]
 | "[--][-ee][+IRR]" : "@EP"[{ee}]
@@ -181,11 +183,13 @@ define V=S=IRR [
 | "[--][-yaa][+IRR]" : "@EP"[{yaa}]
 | "[--][-ea][+IRR]" : "@EP"[{ea}]
 ];
-      
+
+NON/FUTURE + REFLEXIVE
 define V=S=REALRFL [
   "[--][-a][+REAL.RFL]" : "@EP"[{a}]
 ];
       
+FUTURE + REFLEXIVE
 define V=S=IRRRFL [
   "[--][-ia][+IRR.RFL]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
