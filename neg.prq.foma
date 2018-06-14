@@ -54,6 +54,7 @@ define NegPRQin [
 # Negative copula 
 # adv. ??? 
 | "[=kaari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué.no?,, ¿no.es?)]" : {kaari}
+| "[=kari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué.no?,, ¿no.es?)]" : {kari}
 !| "[=kaari][VRoot][=NEG.COP (EN: not.be; ES: no.es)]" : {kaari}
 # negative polarity 
 | "[=kaari][Neg][=NEG.P]" : {kaari}
