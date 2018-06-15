@@ -101,6 +101,7 @@ define NounToVerbPRQin [
 | "[=vaNki][NRoot][=feather (ES: pluma); wing_feather]::[=to.have.wings (ES: tener.alas)]+vbz." : {vanki} ! @CMP N@->V::[=to.have.wings (ES: tener.alas)] 
 | "[=shivitsa+n.m.+poss@te:ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species]::[=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)]+vbz." : {shivitsa} ! N@->V::[=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)] 
 | "[=taki+n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]+vbz." : {taki} ! N@->V 
+| "[=tampia+n.m.][NRoot][=wind (ES: viento)]::[=to.be.windy (ES: hacer.viento)]+vbz." : {tampia} ! N@->V::[=to.be.windy (ES: hacer.viento)]
 | "[=shincha+n.m.][NRoot][=(river).current (ES: corriente.(del.río))]::[= (ES: haber.una.corriente.fuerte)]+vbz." : {shincha} ! N@->V::[= (ES: haber.una.corriente.fuerte)] 
 | "[=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]+vbz." : {tomi} ! N@->V 
 | "[=tsantsa][NRoot][=long (in.length; ES: largo); big]+vbz." : {tsantsa} ! N@->V @CMP
