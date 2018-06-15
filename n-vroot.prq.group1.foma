@@ -91,6 +91,7 @@ define NounToVerbPRQin [
 | "[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]::[=to.be.a.shaman]+vbz." : {sheripiari} ! N@->V::[=to.be.a.shaman]  
 | "[=sheripiyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]::[=to.act.as.a.shaman]+vbz." : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
 | "[=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]+vbz." : {shetaki} ! N@->V
+| "[=shiranta+n.m.][NRoot][=flagstone, flag, flat.stone (ES: laja, roca.plana); boulder (ES: peña.dentro.del.agua)]::[= (ES: tarrafear)]+vbz." : {shiranta} ! N@->V::[= (ES: tarrafear)]
 | "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]+vbz." : {shiri} ! N@->V
 | "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco ([ˈʃɛ.ɾɪ];ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug; tobacco.paste]+vbz." : {sheri} ! N@->V
 | "[=seri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]+vbz." : {seri} ! N@->V
