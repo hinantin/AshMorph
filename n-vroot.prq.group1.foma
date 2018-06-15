@@ -123,11 +123,11 @@ define NounToVerbPRQin [
 | "[=nianki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)]+vbz." : {nianki} ! N@->V::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)] 
 | "[=compadre][NRootEs][=godparent; spiritual.father]+vbz." : {compadre} ! N@->V 
 | "[=santo][NRoot][=saint; sacred (ES: sagrado); good.spirit (ES: buen.espíritu)]+vbz." : {santo} ! N@->V 
-| "[=tambor+m.][NRoot][=drum]+vbz." : {tambor} ! N@->V
-| "[=tambor+m.][NRoot][=drum]+vbz." : {tamboo} ! N@->V
-| "[=tambor+m.][NRoot][=drum]+vbz." : {tamboro} ! N@->V
-| "[=tambor+m.][NRoot][=drum]+vbz." : {tamporo} ! N@->V
-| "[=tambor+m.][NRoot][=drum]+vbz." : {tampoo} ! N@->V
+| "[=tambor+m.][NRoot][=drum]::[=to.drum (ES: tocar.el.tambor)]+vbz." : {tambor} ! N@->V::[=to.drum (ES: tocar.el.tambor)]
+| "[=tambor+m.][NRoot][=drum]::[=to.drum (ES: tocar.el.tambor)]+vbz." : {tamboo} ! N@->V::[=to.drum (ES: tocar.el.tambor)]
+| "[=tambor+m.][NRoot][=drum]::[=to.drum (ES: tocar.el.tambor)]+vbz." : {tamboro} ! N@->V::[=to.drum (ES: tocar.el.tambor)]
+| "[=tambor+m.][NRoot][=drum]::[=to.drum (ES: tocar.el.tambor)]+vbz." : {tamporo} ! N@->V::[=to.drum (ES: tocar.el.tambor)]
+| "[=tambor+m.][NRoot][=drum]::[=to.drum (ES: tocar.el.tambor)]+vbz." : {tampoo} ! N@->V::[=to.drum (ES: tocar.el.tambor)]
 | "[=trusa+NCFS000][NRoot][=underpants, underwear; shorts]+vbz." : {trusa} ! N@->V
 | "[=antari+m.][AdjRoot][=big; mature]+vbz." : {antari} ! N@->V
 | "[=antari+m.][AdjRoot][=big; mature]+vbz." : {antari} ! N@->V
