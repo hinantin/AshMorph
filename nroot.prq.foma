@@ -236,6 +236,8 @@ define NRootPRQin [
 ! 
 | "[=aparoni][NRoot][=somebody]" : {aparoni}
 ! 
+| "[=apeti][NRoot][=person's.name, NP]" : {apeti}
+! 
 | "[=apiinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]" : {apiinka}
 | "[=apinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]" : {apinka}
 ! 
