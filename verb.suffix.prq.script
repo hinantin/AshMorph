@@ -115,6 +115,7 @@ define V=S=PL=SET2=1 [
 | "[--][-aey][+PL]" : "@EP"[{aey}] 
 ];
 
+# According to the sample text corpus, this set doesn't use the epenthetic rules but contraction rules VOWEL+ey/+iy 
 define V=S=PL=SET2=2 [
 # Contraction process * more rules need to be added 
 # tsirenitakoiyanakini / =tsireni -t -ako -iy -an -ak -i -ni /  
