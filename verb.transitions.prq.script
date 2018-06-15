@@ -517,6 +517,7 @@ define S [
 | STATUS (PRNO) (V=S=DUB) 
 | (V=S=almost) (APPLREAS) (REGR) STATUS 
 | (CAUSSOC) (PROG) STATUS 
+| (REV) (PROG) STATUS 
 #| (DUR) (NMZ) (APPLREAS) STATUS (V=S=REL) (V=S=Q) # revise 
 | (PRF) STATUS (V=S=O) (PRNO) 
 | (IMPP) STATUS 
@@ -661,6 +662,7 @@ define S [
 
 # ishirikashitantyaabori / ishirikashitantyaavori / i- =shirik -ashi -t -ant -yaa =vo =ri 
 | (APPLINT) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
+
 ];
 
 
