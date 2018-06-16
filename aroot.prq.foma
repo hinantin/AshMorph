@@ -71,7 +71,7 @@ define ARootPRQin [
 | "[=pisaro+n.m.][AdjRoot][=old]" : {pisaro} ! N@->V
 | "[=pisharo+n.m.][AdjRoot][=old]" : {pisharo} ! N@->V
 ! 
-| "[=pochari][AdjRoot][=sweet (ES: dulce)]" : {pochari}
+| "[=pochari+poss@te.][AdjRoot][=sweet (ES: dulce)]" : {pochari} ! poss. suffix to be checked! 
 | "[=pochakiri][AdjRoot][=sweet (ES: dulce)]" : {pochakiri}
 | "[=pochaki][AdjRoot][=sweet (ES: dulce)]" : {pochaki}
 | "[=pochaaniki+poss@ti.][NRoot][=sweet (ES: dulce)]" : {pochaaniki}
