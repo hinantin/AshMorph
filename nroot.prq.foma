@@ -2723,6 +2723,8 @@ define NRootPRQin [
 | "[=okitaitamani][NRoot][=early.morning, dawning]" : {okitaitamani}
 | "[=omampiraityaamani][NRoot][=early.morning, dawning]" : {omampiraityaamani}
 | "[=mampira][NRoot][=aurora (ES: aurora)]" : {mampira} ! N@->V 
+| "[=inkamani][NRoot][=early.morning (ES: mañana); dawning (ES: al.amanecer)]" : {inkamani}
+| "[=inkaamani][NRoot][=early.morning (ES: mañana); dawning (ES: al.amanecer)]" : {inkaamani}
 ! 
 | "[=okitsoki][NRoot][=seed]" : {okitsoki}
 | "[=okitoki][NRoot][=seed]" : {okitoki}
