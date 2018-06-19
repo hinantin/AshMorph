@@ -15,6 +15,7 @@ define V=S=noun [
 | "[--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{enka} ! @VCMP 
 | "[--][=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tsempeki} ! @VCMP @CMP 
 | "[--][=tseempeki][NRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tseempeki} ! @VCMP @CMP 
+| "[--][=tsovaki][NRoot][=thin-and-elongated (ES: delgado-y-alargado)]" : "@EP"{tsovaki} ! @VCMP 
 | "[--][=kamari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : "@EP"{kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
 | "[--][=kameetsa][NRoot][=well (ES: bien)]" : "@EP"{kameetsa} ! @VCMP 
 | "[--][=kametsa][NRoot][=well (ES: bien), good]" : "@EP"{kametsa} ! @VCMP 
