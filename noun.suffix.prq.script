@@ -575,7 +575,7 @@ define N=S=EXCL [
 # (2) +chg.st.: change.of.state (in.a.past.context) --> +state.chg.
 # (3) +absnt.: absent.in.the.speaker's.environment.at.the.present (in.a.non-past.context) / +s-t.: spatial-temporal.sense  --> +absent
 # (4*) +i.: invisible 
-# (5*) +rcg.: recognitional 
+# (5*) +rcg.: recognitional, discourse-new-but-hearer-old object  
 # (6*) +nmz.: nominalizer 
 define N=S=ADVP [
 # savadoranki / =savado -ranki+tp.prec. / =Saturday -ADV / EN: 'last.Saturday', ES: 'el.último.sábado' 
