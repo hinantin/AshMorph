@@ -597,7 +597,7 @@ define N=S=ADVP [
                    
 # RCG: recognitional 
 define N=S=RCG [
-  "[--][-ranki][+RCG][=discourse-new-but-hearer-old.object]" : [{ranki}]
+  "[--][=ranki][+RCG][=discourse-new-but-hearer-old.object]" : [{ranki}]
 ];
                    
 # ****************************************
