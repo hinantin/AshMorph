@@ -7,8 +7,9 @@ define S [
 | (PL) (PRF) (REGR) STATUS (V=S=CNTF) 
 | (PRF) STATUS (PRNO) 
 | (PRF) STATUS (PRNO) 
-| STATUS 
-| (REGR) STATUS (PRNO) 
+| STATUS
+# ivahiamita 
+| (REGR) STATUS (V=S=O) (PRNO) (V=S=OPT) 
 | (PRF) STATUS (V=S=O) (PRNO) (V=S=DUB) 
 | (PROG) STATUS 
 | (AUG) STATUS 
