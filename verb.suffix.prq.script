@@ -1125,6 +1125,7 @@ define UNK1 [ [EP V=S=UNK1]|[V=S=UNK1] ];
                    
 # ****************************************
                    
+# focalized terminative 
 define V=S=TERMFOC [
   "[--][-ahant][+TERM.FOC][=emphasize.the.endpoint-and-finality.of.an.event]" : "@EP"[{ahant}] 
 ];
