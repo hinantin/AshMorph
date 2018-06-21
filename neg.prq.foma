@@ -90,7 +90,8 @@ define NegPRQin [
 | "[=te][Neg][=NEG.REAL][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (no-futuro, realis))]" : {tera}
 | "[=eero][Neg][=NEG.IRR][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (futuro, irrealis))" : {eerora}
 | "[=tekatsi][Neg][=NEG.EXIST][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.there.is/are.not.[…] (ES: pues/entonces.no.hay )]" : {tekatsira}
-
+! 
+| "[=teario][Neg][=NEG.TAG]" : {teario}
 ];
 
 # ##############################
