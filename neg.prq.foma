@@ -91,7 +91,8 @@ define NegPRQin [
 | "[=eero][Neg][=NEG.IRR][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (futuro, irrealis))" : {eerora}
 | "[=tekatsi][Neg][=NEG.EXIST][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.there.is/are.not.[…] (ES: pues/entonces.no.hay )]" : {tekatsira}
 ! 
-| "[=teario][Neg][=NEG.TAG]" : {teario}
+| "[=teario][Neg][=NEG.TAG (EN: isn't.it.the.case?)]" : {teario}
+| "[=keario][Neg][=NEG.TAG (EN: isn't.it.the.case?)]" : {keario}
 ];
 
 # ##############################
