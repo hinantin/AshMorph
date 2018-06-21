@@ -665,6 +665,7 @@ define S [
 | (APPLINT) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
 
 | (TERMFOC) STATUS (V=S=O) (PRNO) (V=S=OPT)
+| (TERMFOC) STATUS (V=S=CNTF)
 
 ];
 
