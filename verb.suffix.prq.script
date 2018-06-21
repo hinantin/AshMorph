@@ -1125,6 +1125,14 @@ define UNK1 [ [EP V=S=UNK1]|[V=S=UNK1] ];
                    
 # ****************************************
                    
+define V=S=TERMFOC [
+  "[--][-ahant][+TERM.FOC][=]" : "@EP"[{ahant}] 
+];
+                   
+define TERMFOC [ [EP V=S=TERMFOC]|[V=S=TERMFOC] ];
+                   
+# ****************************************
+                   
 # Delimitative 
 # Delimitative aspect suffix 
 define V=S=DLMT [
