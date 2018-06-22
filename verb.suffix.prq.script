@@ -828,9 +828,10 @@ define APPLPRES [ [EP V=S=APPLPRES]|[V=S=APPLPRES] ];
 # ****************************************
                    
 # derivational morpheme (VDeriv) 
+# referential (RFR) 
 define V=S=APPLSEP [
-  "[--][-pitsa][VS][+APPL.SEP][=separative]" : "@EP"[{pitsa}]
-| "[--][-apitsa][VS][+APPL.SEP][=separative]" : "@EP"[{apitsa}]
+  "[--][-pitsa][VS][+APPL.SEP][=separative; RFR: actn.done.with.reference_to/around.sb.else]" : "@EP"[{pitsa}]
+| "[--][-apitsa][VS][+APPL.SEP][=separative; RFR: actn.done.with.reference_to/around.sb.else]" : "@EP"[{apitsa}]
 ];
                    
 define APPLSEP [ [EP V=S=APPLSEP]|[V=S=APPLSEP] ];
