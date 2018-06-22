@@ -667,7 +667,7 @@ define S [
 | (TERMFOC) STATUS (V=S=O) (PRNO) (V=S=OPT)
 | (TERMFOC) STATUS (V=S=CNTF)
 
-| (DIST=SET2) STATUS (V=S=O) (PRNO) 
+| (DIST=SET2) (DIR) (PRF) STATUS (V=S=O) (PRNO) 
 ];
 
 
