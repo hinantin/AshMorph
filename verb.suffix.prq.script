@@ -44,9 +44,9 @@ define PRNO [ [V=S=PRNO=SET1] ];
 # ****************************************
                    
 define V=S=DIST [
-  "[--][-ye][+DIST][=plural.S/A+.who.are.separated.into.groups]" : "@EP"[{ye}]
-| "[--][-yee][+DIST][=plural.S/A+.who.are.separated.into.groups]" : "@EP"[{yee}]
-| "[--][-yi][+DIST][=plural.S/A+.who.are.separated.into.groups]" : "@EP"[{yi}]
+  "[--][-ye][+DIST][=plural.S/A+.who.are.separated.into.groups.in.≠.locations]" : "@EP"[{ye}]
+| "[--][-yee][+DIST][=plural.S/A+.who.are.separated.into.groups.in.≠.locations]" : "@EP"[{yee}]
+| "[--][-yi][+DIST][=plural.S/A+.who.are.separated.into.groups.in.≠.locations]" : "@EP"[{yi}]
 ];
                    
 define DIST [ [EP V=S=DIST]|[V=S=DIST] ];
