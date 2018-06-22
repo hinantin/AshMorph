@@ -102,8 +102,8 @@ define V=S=OPT [
                    
 define V=S=PL=SET1 [
   "[--][-he][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]" : "@EP"[{he}] 
-| "[--][-hei][NUM][+PL]" : "@EP"[{hei}] 
-| "[--][-hee][NUM][+PL]" : "@EP"[{hee}] 
+| "[--][-hei][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]" : "@EP"[{hei}] 
+| "[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]" : "@EP"[{hee}] 
 # -ite only appears in nominalized verb structures 
 # ---------------------------------------
 ];
