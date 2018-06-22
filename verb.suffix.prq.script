@@ -52,8 +52,8 @@ define V=S=DIST=SET1 [
 define DIST [ [EP V=S=DIST=SET1]|[V=S=DIST=SET1] ];
                    
 define V=S=DIST=SET2 [
-  "[--][-itsi][Modal][+DIST][=segmented.actn.in.addition.to.a.previous.instance.of.the.same.actn.]" : "@EP"[{itsi}]
-| "[--][-tsi][Modal][+DIST][=segmented.actn.in.addition.to.a.previous.instance.of.the.same.actn.]" : "@EP"[{tsi}]
+  "[--][-itsi][MODAL][+DIST][=segmented.actn.in.addition.to.a.previous.instance.of.the.same.actn.]" : "@EP"[{itsi}]
+| "[--][-tsi][MODAL][+DIST][=segmented.actn.in.addition.to.a.previous.instance.of.the.same.actn.]" : "@EP"[{tsi}]
 ];
                    
 define DIST=SET2 [ [EP V=S=DIST=SET2]|[V=S=DIST=SET2] ];
