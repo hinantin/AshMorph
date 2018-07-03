@@ -3866,8 +3866,8 @@ define NRootPRQin [
 | "[=satonkaro+n.m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaro}
 | "[=santonkaaro][NRoot][=tatoo.made.with.rubber.charcoal]" : {santonkaaro}
 ! 
-| "[=santeripana+n.m.][NRoot][=flavoring.leaf (ES: hoja.saborizante.(para.chipado))]" : {santeripana}
-| "[=hanteripana+n.m.][NRoot][=flavoring.leaf (ES: hoja.saborizante.(para.chipado))]" : {hanteripana}
+| "[=santeripana+n.m.][NRoot][=flavoring.leaf (ES: hoja.saborizante.(para.chipado/QU:patarasqa))]" : {santeripana}
+| "[=hanteripana+n.m.][NRoot][=flavoring.leaf (ES: hoja.saborizante.(para.chipado/QU:patarasqa))]" : {hanteripana}
 ! 
 | "[=santero][NRoot][=red-bellied.macaw (sci.nm.: ara.manilata, aratinga.weddelli)]" : {santero}
 ! 
@@ -4677,7 +4677,7 @@ define NRootPRQin [
 | "[=tsioni][NRoot][=bearded.guan (ES: guan.barbado; sci.nm.: aburria.aburri)]" : {tsioni} 
 ! 
 | "[=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
-!| "[=tsipana+n.m.][NRoot][=leaf]" : {tsipana} ! @VCMP @CMP 
+| "[=chipana+n.m.][NRoot][=leaf (ES: sp.de.hoja.para.patarasca/patarashca/QU:patarasqa)]" : {chipana} 
 ! 
 | "[=tsipato+m.][NRoot][=horse-fly.sp. (ES: tábano)]" : {tsipato}
 ! 
