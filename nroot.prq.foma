@@ -2612,8 +2612,8 @@ define NRootPRQin [
 ! 
 | "[=nava+n.m.+inal@tsi.][NRoot][=freckle (ES: peca)]" : {nava}
 ! 
-| "[=navireri][NRoot][=person's.name]" : {navireri}
-| "[=naviriri][NRoot][=person's.name]" : {naviriri}
+| "[=navireri][NRoot][=person's.name (ES: el.hombre.transformador)]" : {navireri}
+| "[=naviriri][NRoot][=person's.name (ES: el.hombre.transformador)]" : {naviriri}
 ! 
 | "[=nehi+inal@tsi.][NRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
 | "[=nee][NRoot][=chest (ES: pecho)]" : {nee}
