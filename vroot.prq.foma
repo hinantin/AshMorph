@@ -2065,9 +2065,10 @@ define VRootPRQin [
 # Modal verb 
 | "[=tzim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)]" : {tzim}
 | "[=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth]" : {tim}
-| "[=tsim][VRoot][=POSSESS (EN: to.have; ES: tener)]" : {tsim}
+| "[=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)]" : {tsim}
 | "[=tzim][VRoot][=EXIST (EN: to.be.born, to.exist; ES: nacer)]" : {tzim}
 | "[=tzimant][VRoot][=to.give.birth (ES: dar.a.luz)]" : {tzimant}
+| "[=tsimant][VRoot][=to.give.birth (ES: dar.a.luz)]" : {tsimant}
 ! 
 | "[=tsimank][VRoot][=to.cast.a.shadow (ES: ensombrecer)]" : {tsimank}
 ! 
