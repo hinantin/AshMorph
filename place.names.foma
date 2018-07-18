@@ -155,5 +155,5 @@ define NRootPLACESin [
 ! 
 | "[=kemariari][NRoot][=place.name]" : {kemariari}
 ! 
-| "[=tsiriari][NRoot][=place.name]" : {tsiriari}
+| "[=tsiriari][NRoot][=place.name; valley.name (ES: nombre.de.un.valle)]" : {tsiriari}
 ];
