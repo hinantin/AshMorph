@@ -45,7 +45,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=henkari" "]" "[" "IdeoPRQ" "]" "[" "=sensation.of.scent/odor.diffusion" "]" ] : {henkari}
 | [ "[" "=menkiri" "]" "[" "IdeoPRQ" "]" "[" "=deaf.pain.sensation; sensation.of.pains.inside.organs/bones; itching.sensation" "]" ] : {menkiri}
 | [ "[" "=tsinkari" "]" "[" "IdeoPRQ" "]" "[" "=sudden.feeling.of.a.stir.inside.the.body" "]" ] : {tsinkari}
-
+| [ "[" "=tziri" "]" "[" "Ideo" "]" "[" "=action.of.rubbing/anointing.sth." "]" ] : {tziri}
 # ---------------------------------------------------------
 # re 
 | [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
