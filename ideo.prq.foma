@@ -279,7 +279,7 @@ define IdeoPRQin [
 | "[=tzimpa][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpa} 
 | "[=tzimpak+s.redup.word][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots, pulling.weeds.from.the_ground; human_body.agonizing.in.violent.convulsions]" : {tzimpak} 
 ! 
-| "[=chota+s.redup.word][IdeoPRQ][=having.sex]" : {chota} 
+| "[=chota+s.redup.word][IdeoPRQ][=having.sex (ES: acción.de.tener.relaciones.sexuales)]" : {chota} 
 ! 
 | "[=sherok+s.redup.word][IdeoPRQ][=moving.up/down.a.tree]" : {sherok} 
 | "[=sherok][IdeoPRQ][=effortlessly.entering.a_vacuous_space/an_animal_den]" : {sherok} 
@@ -495,7 +495,7 @@ define IdeoPRQin [
 | "[=shitzikoro+s.redup.word][IdeoPRQ][=nocturnal.hawks.call]" : {shitzikoro}
 # ---------------------------------------------------------------
 | "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
-| "[=haaam+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.tiger (ES: bramido?.de.un.tigre)]" : {haaam}
+| "[=haaam+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.tiger (ES: bramido.de.un.tigre)]" : {haaam}
 | "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
 | "[=vaaaaaaa][Ideo][=animal.scream.made.by.a.tiger (ES: grito.de.un.tigre)]" : {vaaaaaaa}
 ! 
