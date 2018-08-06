@@ -16,6 +16,7 @@
       ##########################
 
       define QUIReplacement [ {ky} (->) {qui} || _ [a|á] ];
+      define QYReplacement [ {ky} (->) {qy} || _ [a|á] ];
       define QUReplacement [ {k} (->) {qu} || _ [e|i|é|í] ,, {k} (->) {qü} || _ [e|i|é|í] ];
 
       define CReplacement1 [ {k} (->) {c} || _ [a|o|u|á|é|í] ];
@@ -96,7 +97,7 @@
       define NYTildeReplacement2 [ {on} (->) {õ} || _ [y] ];
       # ------------------------------------------
 
-      define Orthography [ QUIReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
+      define Orthography [ QUIReplacement .o. QYReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
 .o. AYDiphthong1 .o. AYDiphthong2 .o. AYDiphthong3 .o. AYDiphthong4 .o. AYDiphthong5 
 .o. OYDiphthong1 .o. OYDiphthong2 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
