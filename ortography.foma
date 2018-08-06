@@ -23,7 +23,7 @@
       define CReplacement2 [ {k} (->) {c} || [a|e|o|u|á|é|í] _ .#. ]; ! shac -> shak ; tac -> tak 
                                                                     ! tec -> tek 
 
-      define QYReplacement [ {ky} (->) {qy} || _ [a] ];
+      #define QYReplacement [ {ky} (->) {qy} || _ [a] ];
 
       define JReplacement1 [ {h} (->) {j} || Vowels _ Vowels ]; # not accepting sh -> sj 
       define JReplacement2 [ {h} (->) {j} || .#. _ Vowels ]; # changing ja -> ha at the beginning of a word
@@ -97,7 +97,7 @@
       define NYTildeReplacement2 [ {on} (->) {õ} || _ [y] ];
       # ------------------------------------------
 
-      define Orthography [ QUIReplacement .o. QYReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2 .o. QYReplacement 
+      define Orthography [ QUIReplacement .o. QYReplacement .o. QUReplacement .o. CReplacement1 .o. CReplacement2  
 .o. AYDiphthong1 .o. AYDiphthong2 .o. AYDiphthong3 .o. AYDiphthong4 .o. AYDiphthong5 
 .o. OYDiphthong1 .o. OYDiphthong2 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
