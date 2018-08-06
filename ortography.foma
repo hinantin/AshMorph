@@ -16,7 +16,7 @@
       ##########################
 
       define QUIReplacement [ {ky} (->) {qui} || _ [a|á] ];
-      define QYReplacement [ {ky} (->) {qy} || _ [a|á] ];
+      define QYReplacement [ {ky} (->) {qy} || _ [a|á] ]; # qyaaryo -> kyaaryo
       define QUReplacement [ {k} (->) {qu} || _ [e|i|é|í] ,, {k} (->) {qü} || _ [e|i|é|í] ];
 
       define CReplacement1 [ {k} (->) {c} || _ [a|o|u|á|é|í] ];
