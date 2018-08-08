@@ -20,8 +20,9 @@
       define QUReplacement [ {k} (->) {qu} || _ [e|i|é|í] ,, {k} (->) {qü} || _ [e|i|é|í] ];
 
       define CReplacement1 [ {k} (->) {c} || _ [a|o|u|á|é|í] ];
-      define CReplacement2 [ {k} (->) {c} || [a|e|o|u|á|é|í] _ .#. ]; ! shac -> shak ; tac -> tak 
-                                                                    ! tec -> tek 
+      define CReplacement2 [ {k} (->) {c} || [a|e|i|o|u|á|é|í] _ .#. ]; ! shac -> shak ; tac -> tak 
+                                                                        ! tec -> tek 
+                                                                        ! tzinic -> tzinik 
 
       #define QYReplacement [ {ky} (->) {qy} || _ [a] ];
 
