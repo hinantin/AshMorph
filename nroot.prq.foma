@@ -3306,9 +3306,9 @@ define NRootPRQin [
 # De allí su nombre que podría ser traducido como abeja-avispa. 
 | "[=sanirontiki][NRoot][=carpenter.bee.sp. (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, género.xylocopa, neoxylocopa.sp.)]" : {sanirontiki}
 ! 
-| "[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]" : {pinkatsari}
-| "[=pinkatsare+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]" : {pinkatsare}
-| "[=pinkatsaro+n.m.+voc.+poss@te.][NRoot][=chief (ES: jefe)]" : {pinkatsaro}
+| "[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsari}
+| "[=pinkatsare+m.+voc.+poss@te.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsare}
+| "[=pinkatsaro+n.m.+voc.+poss@te.][NRoot][=female.chief (ES: jefa)]" : {pinkatsaro}
 ! 
 # koshiripirantsi / =koshiri =pira -ntsi / =monkey.sp. =domestic.animal -nposs / EN: 'intelligent.monkey' 
 | "[=pira+m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
