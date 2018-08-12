@@ -46,6 +46,7 @@ define IdeoRedupSylPRQin 0:"^["
 | [ "[" "=menkiri" "]" "[" "IdeoPRQ" "]" "[" "=deaf.pain.sensation; sensation.of.pains.inside.organs/bones; itching.sensation" "]" ] : {menkiri}
 | [ "[" "=tsinkari" "]" "[" "IdeoPRQ" "]" "[" "=sudden.feeling.of.a.stir.inside.the.body" "]" ] : {tsinkari}
 | [ "[" "=tziri" "]" "[" "Ideo" "]" "[" "=action.of.rubbing/anointing.sth. (ES: acción.de.untar.algo)" "]" ] : {tziri}
+| [ "[" "=tsikiri" "]" "[" "Ideo" "]" "[" "=liquid.gushing.out.in.a.stream; arterial.bleeding (gushing.out)" "]" ] : {tsikiri}
 # ---------------------------------------------------------
 # re 
 | [ "[" "=tapore" "]" "[" "IdeoPRQ" "]" "[" "=plant.growing.from.the_ground" "]" ] : {tapore}
