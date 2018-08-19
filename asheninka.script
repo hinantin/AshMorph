@@ -466,8 +466,10 @@ TZEpenthesisRule8
       #                        #
       ##########################
       source ideo.prq.foma
+      source ideo.adbl.foma
         define IdeoPRQ IdeoPRQin;
-      define Ideophone [ [IdeoPRQ] ];
+        define IdeoADBL IdeoADBLin;
+      define Ideophone [ [IdeoPRQ|IdeoADBL] ];
 
       ##########################
       #                        #
