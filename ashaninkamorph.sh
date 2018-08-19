@@ -46,14 +46,18 @@ while getopts ':h:a:q:c:b:n:s:' o; do
     q)
        echo "$startmessage"
        echo "*****UPDATING LEXICONS*****"
-       echo "*****VERB*****"
-       rm -f vroot.prq.foma
-       > vroot.prq.foma
-       python Reports.py --configfile=ConfigFile.ini --file=vroot.prq.foma --header=VRootPRQin --headershort=VRoot --lang=4 --type=5
-       echo "*****NOUN*****"
-       rm -f nroot.prq.foma
-       > nroot.prq.foma
-       python Reports.py --configfile=ConfigFile.ini --file=nroot.prq.foma --header=NRootPRQin --headershort=NRoot --lang=4 --type=6
+       echo "*****IDEOPHONE*****"
+       rm -f ideo.adbl.foma
+       > ideo.adbl.foma
+       python adbl.py --configfile=ConfigFile.ini --file=ideo.adbl.foma --header=IdeoADBLin --headershort=Ideo --lang=4 --type=5
+#       echo "*****VERB*****"
+#       rm -f vroot.prq.foma
+#       > vroot.prq.foma
+#       python Reports.py --configfile=ConfigFile.ini --file=vroot.prq.foma --header=VRootPRQin --headershort=VRoot --lang=4 --type=5
+#       echo "*****NOUN*****"
+#       rm -f nroot.prq.foma
+#       > nroot.prq.foma
+#       python Reports.py --configfile=ConfigFile.ini --file=nroot.prq.foma --header=NRootPRQin --headershort=NRoot --lang=4 --type=6
 #       echo "*****VERB*****"
 #       rm -f vroot.prq.foma
 #       > vroot.prq.foma
