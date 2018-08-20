@@ -1,6 +1,6 @@
 define IdeoADBLin [
-  "[=eeee+whistle.lang.+mono.syl.][Ideo][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eeee}
-| "[=eee+whistle.lang.+mono.syl.][Ideo][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eee}
-| "[=shikerek+tri.syl.][Ideo][=animal.cry.made.by.a.bear/maini]" : {shikerek}
-| "[=toom+mono.syl.][Ideo][=sound.of.a.rock.moving]" : {toom}
+  "[=eeee+whistle.lang.+mono.syl.][Ideo][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eeee} ! 
+| "[=eee+whistle.lang.+mono.syl.][Ideo][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eee} ! \cite[pag. 84]{anderson:cuentos:85}
+| "[=shikerek+tri.syl.][Ideo][=animal.cry.made.by.a.bear/maini]" : {shikerek} ! \cite[pag. 96]{anderson:cuentos:85}
+| "[=toom+mono.syl.][Ideo][=sound.of.a.rock.moving]" : {toom} ! \cite[pag. 96]{anderson:cuentos:85}
 ];
