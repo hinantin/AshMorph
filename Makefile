@@ -7,6 +7,7 @@ compile:
 	@rm -f verb.composition.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.prq.foma" --flag "@VCMP" --title "Verb-noun composition / Noun incorporation" --header "V=S=noun" --separator 1 --replace 1 #--target " : [\"@EP\"|\"@LEN@\"]{"
 	@rm -f verb.composition.len.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.len.prq.foma" --flag "@VCMP" --title "Verb-noun composition" --header "V=S=LEN=noun" --separator 1 #--replace 1 --target " : \"@LEN@\"{"
 	@rm -f verb.classifier.prq.foma | perl extractEntries.pl --file noun.suffix.prq.script --outputfilename "verb.classifier.prq.foma" --flag "@CL" --title "CLASSIFIER" --header "V=S=CL" --replace 1 
+	@rm -f ideo.adbl.foma | bash ashaninkamorph.sh -q "test" 
 	@rm -f asheninka.bin ideoredupsyl.bin 
 	@xfst -f asheninka.script 
 	@xfst -f ideoredupsyl.prq.foma 
