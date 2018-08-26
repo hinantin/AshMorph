@@ -3,7 +3,7 @@ Ashaninka Morph
 
 This is a morphological analyzer for Ashaninka written using Xerox finite state technology.
 
-Ashaninka is a polysinthetic language spoken in the central adjoining Amazonian regions between Peru and Brazil.
+Ashaninka is a polysinthetic language spoken in the central adjoining Amazonian regions between Peru and Brazil (Acre State).
 It is spoken by approximately 70,000 people (2002), making it the third most widely spoken indigenous language of the Americas.
 
 Compiling with XFST
