@@ -1066,8 +1066,10 @@ define VRootPRQin [
 ! 
 | "[=nampi][VRoot][=to.be.in.big.quantity (ES: abundar)]" : {nampi}
 ! 
-| "[=nary][VRoot][=to.lay (ES: acostarse, echar)]" : {nary}
-| "[=nare][VRoot][=to.lay (ES: acostarse, echar)]" : {nare}
+| "[=nary][VRoot][=to.lay (ES: acostar(se), echar(se))]" : {nary}
+| "[=nare][VRoot][=to.lay (ES: acostar(se), echar(se))]" : {nare}
+| "[=onory][VRoot][=to.lay (ES: acostar(se), echar(se))]" : {onory}
+| "[=omary][VRoot][=to.lay (ES: acostar(se), echar(se))]" : {omary}
 | "[=nary][VRoot][=to.lie.prostrate]" : {nary}
 ! 
 | "[=nesank][VRoot][=to.peep.at.sb/sth. (ES: asomarse, mirar.a.hurtadillas, atisbar)]" : {nesank}
