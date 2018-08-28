@@ -561,7 +561,7 @@ define N=S=CL [
 | "[--][-pentaki][+CL:grain-like,rectangular][=grain-like, rectangular]" : {pentaki} 
 | "[--][-meronta][+CL:flat,broad,level][=flat, broad, level]" : {meronta} 
 | "[--][-petoki][+CL:grain-like,small][=grain-like, small]" : {petoki} 
-| "[--][-teroina][+CL:spherical,solid][=spherical, solid]" : {teroina} 
+| "[--][-teroina][+CL:spherical,solid][=spherical, solid]" : {teroina} ! @CL 
 ];
                    
 # ****************************************
