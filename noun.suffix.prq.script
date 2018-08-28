@@ -556,6 +556,9 @@ define N=S=CL [
 | "[--][-vani][+CL:powdery.substance][=powdery.substance]" : {vani} 
 | "[--][-pane][+CL:powdery.substance][=powdery.substance]" : {pane} 
 | "[--][-vane][+CL:powdery.substance][=powdery.substance]" : {vane} 
+! 
+# classifiers to specify the stone's shape and size 
+| "[--][-pentaki][+CL:grain-like,rectangular][=grain-like, rectangular]" : {pentaki} 
 ];
                    
 # ****************************************
