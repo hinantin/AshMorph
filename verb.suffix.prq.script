@@ -169,8 +169,10 @@ define V=S=CNTF [
 # -------------------------------------------
 # THE REALITY STATUS SYSTEM 
 # (STATUS) 
+# Reality Status is an obligatory inflectional category in Ashaninka
 # -------------------------------------------
 # NON/FUTURE (+N.FUT.) + NONREFLEXIVE 
+# it describes "realized" situations 
 define V=S=REAL [
   "[--][-e+n.fut.][+REAL]" : "@EP"[{e}]
 | "[--][-ee+n.fut.][+REAL]" : "@EP"[{ee}]
@@ -184,6 +186,7 @@ define V=S=REAL [
 ];
 
 # FUTURE (+FUT.) 
+# it describes "unrealized" situations 
 define V=S=IRR [
   "[--][-e+fut.][+IRR]" : "@EP"[{e}]
 | "[--][-ee+fut.][+IRR]" : "@EP"[{ee}]
