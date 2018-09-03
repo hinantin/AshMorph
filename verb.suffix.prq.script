@@ -175,44 +175,44 @@ define V=S=CNTF [
 # NON/FUTURE (+N.FUT.) + NONREFLEXIVE 
 # it describes "realized" situations 
 define V=S=REAL [
-  "[--][-e+n.fut.][+REAL]" : "@EP"[{e}]
-| "[--][-ee+n.fut.][+REAL]" : "@EP"[{ee}]
-| "[--][-i+n.fut.][+REAL]" : "@EP"[{i}]
-| "[--][-ii+n.fut.][+REAL]" : "@EP"[{ii}] ! to be checked 
-| "[--][-a+n.fut.][+REAL]" : "@EP"[{a}]
+  "[--][-e+n.fut.][MODALITY][+REAL]" : "@EP"[{e}]
+| "[--][-ee+n.fut.][MODALITY][+REAL]" : "@EP"[{ee}]
+| "[--][-i+n.fut.][MODALITY][+REAL]" : "@EP"[{i}]
+| "[--][-ii+n.fut.][MODALITY][+REAL]" : "@EP"[{ii}] ! to be checked 
+| "[--][-a+n.fut.][MODALITY][+REAL]" : "@EP"[{a}]
 # -------------------------------------------
-| "[--][-ia+n.fut.][+REAL]" : "@EP"[{ia}]
-| "[--][-ya+n.fut.][+REAL]" : "@EP"[{ya}]
-| "[--][-yaa+n.fut.][+REAL]" : "@EP"[{yaa}]
+| "[--][-ia+n.fut.][MODALITY][+REAL]" : "@EP"[{ia}]
+| "[--][-ya+n.fut.][MODALITY][+REAL]" : "@EP"[{ya}]
+| "[--][-yaa+n.fut.][MODALITY][+REAL]" : "@EP"[{yaa}]
 ];
 
 # FUTURE (+FUT.) 
 # it describes "unrealized" situations 
 define V=S=IRR [
-  "[--][-e+fut.][+IRR]" : "@EP"[{e}]
-| "[--][-ee+fut.][+IRR]" : "@EP"[{ee}]
-| "[--][-ia+fut.][+IRR]" : "@EP"[{ia}]
-| "[--][-ya+fut.][+IRR]" : "@EP"[{ya}]
-| "[--][-ye+fut.][+IRR]" : "@EP"[{ye}]
-| "[--][-yea+fut.][+IRR]" : "@EP"[{yea}]
-| "[--][-a+fut.][+IRR]" : "@EP"[{a}]
-| "[--][-i+fut.][+IRR]" : "@EP"[{i}]
-| "[--][-ii+fut.][+IRR]" : "@EP"[{ii}] ! to be checked 
-| "[--][-yaa+fut.][+IRR]" : "@EP"[{yaa}]
-| "[--][-ea+fut.][+IRR]" : "@EP"[{ea}]
+  "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
+| "[--][-ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
+| "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
+| "[--][-ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
+| "[--][-ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}]
+| "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
+| "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
+| "[--][-i+fut.][MODALITY][+IRR]" : "@EP"[{i}]
+| "[--][-ii+fut.][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
+| "[--][-yaa+fut.][MODALITY][+IRR]" : "@EP"[{yaa}]
+| "[--][-ea+fut.][MODALITY][+IRR]" : "@EP"[{ea}]
 ];
 
 # NON/FUTURE + REFLEXIVE
 define V=S=REALRFL [
-  "[--][-a+n.fut.][+REAL.RFL]" : "@EP"[{a}]
+  "[--][-a+n.fut.][MODALITY][+REAL.RFL]" : "@EP"[{a}]
 ];
       
 # FUTURE + REFLEXIVE
 define V=S=IRRRFL [
-  "[--][-ia+fut.][+IRR.RFL]" : "@EP"[{ia}]
+  "[--][-ia+fut.][MODALITY][+IRR.RFL]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
-| "[--][-eya+fut.][+IRR.RFL]" : "@EP"[{eya}]
-| "[--][-iya+fut.][+IRR.RFL]" : "@EP"[{iya}]
+| "[--][-eya+fut.][MODALITY][+IRR.RFL]" : "@EP"[{eya}]
+| "[--][-iya+fut.][MODALITY][+IRR.RFL]" : "@EP"[{iya}]
 ];
 # -------------------------------------------
                    
