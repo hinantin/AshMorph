@@ -1,5 +1,8 @@
 define InterjPRQin [
-  "[=pasonki][InterjPRQ][=thanks (ES: gracias)]" : {pasonki}
+  "[=afuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {afuu} 
+| "[=fuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {fuu} 
+! 
+| "[=pasonki][InterjPRQ][=thanks (ES: gracias)]" : {pasonki}
 | "[=paasonki][InterjPRQ][=thanks (ES: gracias)]" : {paasonki}
 | "[=paasoonki][InterjPRQ][=thanks (ES: gracias)]" : {paasoonki}
 | "[=paasoonke][InterjPRQ][=thanks (ES: gracias)]" : {paasoonke}
