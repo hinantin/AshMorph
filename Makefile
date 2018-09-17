@@ -151,7 +151,7 @@ sentence:
 analyze.file:
 	@rm -f failures.old.sorted
 	@cp -R -u -p failures.sorted failures.old.sorted
-	@cat mycorpus.txt | perl $(TOKENIZERPATH)/tokenize.pl | lookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
+	@cat mycorpus.2018-09-17.txt | perl $(TOKENIZERPATH)/tokenize.pl | lookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
 #	@gedit failures.sorted
 
