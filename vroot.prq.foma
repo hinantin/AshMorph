@@ -103,6 +103,8 @@ define VRootPRQin [
 | "[=amek][VRoot][=to.sharpen (ES: afilar); to.polish]" : {amek}
 | "[=ameek][VRoot][=to.sharpen (ES: afilar); to.polish]" : {ameek}
 ! 
+| "[=amicho][VRoot][=to.squeeze (ES: exprimir)]" : {amicho}
+! 
 | "[=amin][VRoot][=to.treat]" : {amin}
 | "[=amin][VRoot][=to.examine]" : {amin}
 | "[=amin][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amin}
@@ -1658,6 +1660,8 @@ define VRootPRQin [
 | "[=shavi][VRoot][=to.be.afternoon]" : {shavi}
 ! 
 | "[=shavoki][VRoot][=to.dance (ES: bailar)]" : {shavoki}
+| "[=amashee][VRoot][=to.dance (ES: danzar, bailar)]" : {amashee}
+| "[=amashai][VRoot][=to.dance (ES: danzar, bailar)]" : {amashai}
 ! 
 | "[=shenka][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shenka}
 | "[=shinka][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shinka}
