@@ -41,6 +41,7 @@ define S [
 | (DIR) (PRF) STATUS 
 | (DIR) (PRF) STATUS (PRNO) 
 | (IMPP) STATUS (V=S=O) (PRNO) (V=S=NEG) 
+| (PL=SET1) STATUS (V=S=O) (PRNO) (V=S=NEG) 
 #| (ADV) (V=S=EXCL) # end state? revise!!!
 | (CAUSSOC) (PRF) STATUS (PRNO) 
 | STATUS (V=S=REL) (V=S=Q) 
