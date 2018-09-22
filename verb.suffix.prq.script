@@ -182,6 +182,7 @@ define V=S=REAL [
 | "[--][-i+n.fut.][MODALITY][+REAL]" : "@EP"[{i}]
 | "[--][-ii+n.fut.][MODALITY][+REAL]" : "@EP"[{ii}] ! to be checked 
 | "[--][-a+n.fut.][MODALITY][+REAL]" : "@EP"[{a}]
+| "[--][-aa+n.fut.][MODALITY][+REAL]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
 | "[--][-ia+n.fut.][MODALITY][+REAL]" : "@EP"[{ia}]
 | "[--][-ya+n.fut.][MODALITY][+REAL]" : "@EP"[{ya}]
@@ -198,6 +199,7 @@ define V=S=IRR [
 | "[--][-ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}]
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
 | "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
+| "[--][-aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
 | "[--][-i+fut.][MODALITY][+IRR]" : "@EP"[{i}]
 | "[--][-ii+fut.][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
 | "[--][-yaa+fut.][MODALITY][+IRR]" : "@EP"[{yaa}]
