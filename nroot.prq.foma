@@ -231,7 +231,7 @@ define NRootPRQin [
 | "[=anteashipari+m.][NRoot][=elderly.man, old.man (ES: anciano); secondhand]" : {anteashipari}
 | "[=antyashipari+m.][NRoot][=elderly.man, old.man (ES: anciano)]" : {antyashipari}
 | "[=anteashiparo+n.m.][NRoot][=elderly.woman, old.woman; secondhand]" : {anteashiparo}
-| "[=antyashiparo+n.m.][NRoot][=elderly.woman, old.woman]" : {antyashiparo}
+| "[=antyashiparo+n.m.][NRoot][=elderly.woman, old.woman]" : {antyashiparo} ! N@->V
 | "[=antyashipavo+n.m.][NRoot][=elderly.woman, old.woman]" : {antyashipavo}
 ! 
 | "[=apa+m.][NRoot][=father (kin.of.a.fe/male)]" : {apa}
