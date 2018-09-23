@@ -49,7 +49,7 @@ define NounToVerbPRQin [
 | "[=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]+vbz." : {kainiri} ! N@->V @CMP 
 | "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap (ES: savia.lechosa.del.árbol), sap]+vbz." : {kashi} ! N@->V
 | "[=keario][NRoot][=factual, truth (ES: cierto, verdad)]+vbz." : {keario} ! N@->V
-| "[=kimohantsi][NRoot][=growing, increasing (ES: creciente); summer (ES: verano)]+vbz." : {kimohantsi}  ! N@->V
+| "[=kimohantsi][NRoot][=growing, increasing (ES: creciente); summer (ES: verano)]+vbz." : {kimohantsi} ! N@->V
 | "[=kipishi][NRoot][=bitter]::[=to.be.bitter (ES: ser.amargo)]+vbz." : {kipishi} ! N@->V::[=to.be.bitter (ES: ser.amargo)] 
 | "[=kepishi][NRoot][=bitter]::[=to.be.bitter (ES: ser.amargo)]+vbz." : {kepishi} ! N@->V::[=to.be.bitter (ES: ser.amargo)] 
 | "[=kitamaro+n.m.+sem@color.][NRoot][=white]::[to.be.white]+vbz." : {kitamaro} ! N@->V::[to.be.white]
