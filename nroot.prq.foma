@@ -1549,7 +1549,8 @@ define NRootPRQin [
 ! 
 | "[=kimoha][NRoot][=growth, increase (ES: creciente)]" : {kimoha}
 | "[=kimohani][NRoot][=increasing/high.river.flow (ES: creciente.del.rio)]" : {kimohani} ! -ni is a classifier here
-| "[=kimohantsi][NRoot][=growing, increasing (ES: creciente); summer (ES: verano)]" : {kimohantsi} ! verano/summer is the dry-season, so is this mistake???
+! verano/summer is the dry-season, so is this mistake???
+| "[=kimohantsi][NRoot][=growing, increasing (ES: creciente); summer (ES: verano)]" : {kimohantsi}  ! N@->V
 ! 
 | "[=kimotenka][NRoot][=width; wide (ES: ancho)]" : {kimotenka}
 | "[=karana][NRoot][=thick (ES: grueso)]" : {karana}
