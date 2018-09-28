@@ -77,7 +77,9 @@ define VRootPRQin [
 ! 
 | "[=am][VRoot][=to.bring (ES: traer)]" : {am}
 ! 
-| "[=ag][VRoot][=to.carry (ES: llevar)]" : {ag}
+| "[=kah][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {kah}
+| "[=kag][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {kag}
+| "[=ag][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {ag}
 ! 
 | "[=ama][VRoot][=to.swim]" : {ama}
 | "[=amaa][VRoot][=to.swim]" : {amaa}
