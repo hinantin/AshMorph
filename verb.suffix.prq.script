@@ -124,6 +124,7 @@ define V=S=PL=SET2=1 [
 # ichikaiyini / i- =chik -aiy -i -ni / 3m.s- =to.cut -pl -real -pl+circumfixing / EN: 'they cut'
   "[--][-aiy][+PL]" : "@EP"[{aiy}] 
 | "[--][-aey][+PL]" : "@EP"[{aey}] 
+| "[--][-ayi][+PL]" : "@EP"[{ayi}] ! asheninka 
 ];
 
 # According to the sample text corpus, this set doesn't use the epenthetic rules but contraction rules VOWEL+ey/+iy 
