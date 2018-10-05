@@ -177,6 +177,9 @@ define V=S=CNTF [
 # -------------------------------------------
 # NON/FUTURE (+N.FUT.) + NONREFLEXIVE 
 # it describes "realized" situations 
+# -------------------------------------------
+# i-class verbs - “irreflexive” verbs 
+# a-class verbs - “reflexive” verbs 
 define V=S=REAL [
   "[--][-e+n.fut.][MODALITY][+REAL]" : "@EP"[{e}]
 | "[--][-ee+n.fut.][MODALITY][+REAL]" : "@EP"[{ee}]
