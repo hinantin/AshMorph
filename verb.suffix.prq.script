@@ -197,6 +197,7 @@ define V=S=REAL [
 # it describes "unrealized" situations 
 define V=S=IRR [
   "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
+| "[--][-empa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{empa}]
 | "[--][-ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
 | "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
 | "[--][-ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
