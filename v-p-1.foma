@@ -16,8 +16,8 @@ define P=1 [
 | "[i-][VPers][3m.S/A+][--][ri=][IRR+][--]" : [{iri}]"@VPERS@"
 | "[i-][VPers][3m.S/A+][--][r=][IRR+][--]" : [{ir}]"@VPERS@"
 | "[ira-][VPers][3m.S/A.IRR+][--]" : [{ira}]"@VPERS@" # ira-piapiya-t-e-rika 
-| "[r-][VPers][3m.S/A+][--]" : [{r}]"@VPERS@" # r-anii-t-i
-| "[ri-][VPers][3m.S/A+][--]" : [{ri}]"@VPERS@" # ri-wetsik-ak-i
+| "[Ø-][VPers][3m.S/A+][--][r=][IRR+][--]" : [{r}]"@VPERS@" # r-anii-t-i
+| "[Ø-][VPers][3m.S/A+][--][ri=][IRR+][--]" : [{ri}]"@VPERS@" # ri-wetsik-ak-i
 # 3rd person (female) singular
 | "[o-][VPers][3n.m.S/A+][--]" : [{o}]"@VPERS@"
 | "[ro-][VPers][3n.m.S/A+][--]" : [{ro}]"@VPERS@"
