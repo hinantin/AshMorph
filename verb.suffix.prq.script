@@ -202,6 +202,8 @@ define V=S=IRR [
 | "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
 | "[--][-ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
 | "[--][-ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}]
+# naabakaatiyempa / ES: 'me.voy.a.casar'
+# naabakaatiyema / ES: 'me.voy.a.casar'
 | "[--][-yempa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yempa}]
 | "[--][-yema+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yema}]
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
