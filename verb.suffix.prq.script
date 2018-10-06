@@ -203,6 +203,7 @@ define V=S=IRR [
 | "[--][-ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
 | "[--][-ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}]
 | "[--][-yempa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yempa}]
+| "[--][-yema+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yema}]
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
 | "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
 | "[--][-aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
