@@ -1206,6 +1206,14 @@ define V=S=PTV1 [
                    
 define PTV1 [ [EP V=S=PTV1]|[V=S=PTV1] ];
                    
+define V=S=PTV2 [
+  "[--][-iti][+PTV]" : "@EP"[{iti}] 
+| "[--][-it][+PTV]" : "@EP"[{it}] 
+!| "[--][-t][+PTV]" : "@EP"[{t}] 
+];
+                   
+define PTV2 [ [EP V=S=PTV2]|[V=S=PTV2] ];
+                   
 # ****************************************
                    
 define CL [ [EP V=S=CL]|[V=S=CL] ];
