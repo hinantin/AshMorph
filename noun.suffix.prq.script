@@ -303,6 +303,8 @@ define N=S=CL [
 | "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} 
 | "[--][-tyori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tyori} 
 | "[--][-chori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {chori} 
+| "[--][-eni][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {eni}
+| "[--][-ini][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {ini}
 
 # saventarochii / =saventaro -chii / =cat's.claw -cl:thorn / EN: 'cat's.claw_thorn', ES: 'la espina de la planta uña de gato'
 | "[--][-chee][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {chee} 
