@@ -1218,7 +1218,9 @@ define V=S=PTV1 [
 define PTV1 [ [EP V=S=PTV1]|[V=S=PTV1] ];
                    
 define V=S=PTV2 [
-  "[--][-iti][+PTV]" : "@EP"[{iti}] 
+  "[--][-itsi][+PTV]" : "@EP"[{itsi}] ! it is also known as distributive 
+  "[--][-tsi][+PTV]" : "@EP"[{tsi}]
+| "[--][-iti][+PTV]" : "@EP"[{iti}] 
 | "[--][-it][+PTV]" : "@EP"[{it}] 
 !| "[--][-t][+PTV]" : "@EP"[{t}] 
 ];
