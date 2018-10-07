@@ -199,6 +199,7 @@ define V=S=IRR [
   "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
 # onkentantapempariri 
 | "[--][-empa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{empa}]
+| "[--][-empaa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{empaa}]
 | "[--][-ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
 | "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
 | "[--][-ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
