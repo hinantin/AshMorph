@@ -198,6 +198,7 @@ define V=S=REAL [
 define V=S=IRR [
   "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
 # onkentantapempariri 
+# nonijaapempari. / ES: 'Voy.a.mostrarte.'
 | "[--][-empa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{empa}]
 | "[--][-empaa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{empaa}]
 | "[--][-ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
