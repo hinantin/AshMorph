@@ -86,6 +86,7 @@ define NounToVerbPRQin [
 | "[=pira+m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]+vbz." : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
 | "[=tsipamintsare][NRoot][=friend (ES: amigo)]+vbz." : {tsipamintsare} ! N@->V
 | "[=tsipikirontsi+n.m.][NRoot][= (ES: quincha/tejido/trama.hecha.de.caña_brava/carrizo)]::[= (ES: construir.una.quincha/tejido/trama)]+vbz." : {tsipikirontsi} ! N@->V::[= (ES: construir.una.quincha/tejido/trama)] 
+| "[=pomerentsi][NRoot][=difficulty (ES: dificultad)]+vbz." : {pomerentsi} ! N@->V 
 | "[=pitziki][NRoot][=male.genitals]+vbz." : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]+vbz." : {pitzik} ! N@->V
 | "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]::[=to.fart (ES: tirarse.un.pedo)]+vbz." : {santi} ! N@->V::[=to.fart (ES: tirarse.un.pedo)] 
