@@ -695,7 +695,7 @@ define ADJ [
 # --------Sociative-Causative ----------
 define V=S=CAUSSOC [
   "[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{ak}]
-| "[--][-ag][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{ag}] ! to be revised 
+!| "[--][-ag][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{ag}] ! to be revised 
 | "[--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{aka}]
 | "[--][-akaa][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{akaa}]
 ];
