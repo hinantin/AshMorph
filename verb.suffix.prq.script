@@ -210,6 +210,7 @@ define V=S=IRR [
 # naabakaatiyema / ES: 'me.voy.a.casar'
 # nokibanaajitatiyempa / ES: 'voy.a.lavarme.los.dientes'
 # ikibanaajitatiyempa / ES: 'él.se.va.a.lavarse.los.dientes'
+# nopiyakobentatiyempa / ES: 'me.voy.a.vengar'
 | "[--][-yempa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yempa}]
 | "[--][-yema+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yema}]
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
