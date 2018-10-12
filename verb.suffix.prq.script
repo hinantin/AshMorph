@@ -212,6 +212,7 @@ define V=S=IRR [
 # ikibanaajitatiyempa / ES: 'él.se.va.a.lavarse.los.dientes'
 # nopiyakobentatiyempa / ES: 'me.voy.a.vengar'
 # opiyakobentatiyempa / ES: '(ella).se.va.a.vengar'
+# pipiyakobentempa / ES: 'véngate'
 | "[--][-yempa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yempa}]
 | "[--][-yema+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yema}]
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
