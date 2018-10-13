@@ -181,7 +181,7 @@ define V=S=CNTF [
 # it describes "realized" situations 
 # -------------------------------------------
 # i-class verbs - “irreflexive” verbs 
-# a-class verbs - “reflexive” verbs - MIDDLE VOICE +C.A.@mid.v.
+# a-class verbs - “reflexive” verbs - MIDDLE VOICE +C.A@mid.v.
 define V=S=REAL [
   "[--][-e+n.fut.][MODALITY][+REAL]" : "@EP"[{e}]
 | "[--][-ee+n.fut.][MODALITY][+REAL]" : "@EP"[{ee}]
