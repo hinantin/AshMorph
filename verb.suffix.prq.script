@@ -201,9 +201,9 @@ define V=S=IRR [
   "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
-| "[--][-empa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{empa}]
-| "[--][-empaa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{empaa}]
-| "[--][-eempa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{eempa}]
+| "[--][-empa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{empa}]
+| "[--][-empaa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{empaa}]
+| "[--][-eempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{eempa}]
 | "[--][-ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
 | "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
 | "[--][-ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
@@ -219,8 +219,8 @@ define V=S=IRR [
 # naamabentatiyempa / ES: '(yo).estaré.prevenido'
 # nobashiretatiyempa / ES: '(yo).estaré.triste'
 # nokaatatiyempa / ES: '(yo.me).bañaré'
-| "[--][-yempa+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yempa}]
-| "[--][-yema+fut.+C.A][MODALITY][+IRR]" : "@EP"[{yema}]
+| "[--][-yempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yempa}]
+| "[--][-yema+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yema}]
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
 | "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
 | "[--][-aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
