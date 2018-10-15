@@ -177,7 +177,7 @@ define V=S=CNTF [
 # Reality Status is an obligatory inflectional category in Ashaninka
 # the broader category is “modality” (reflect[ing] a range of speaker attitudes towards a given event) 
 # -------------------------------------------
-# NON/FUTURE (+N.FUT.) + NONREFLEXIVE 
+# 1. TEMPORAL REFERENCE: NON/FUTURE (+N.FUT.) + NONREFLEXIVE 
 # it describes "realized" situations 
 # -------------------------------------------
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
@@ -195,7 +195,7 @@ define V=S=REAL [
 | "[--][-yaa+n.fut.][MODALITY][+REAL]" : "@EP"[{yaa}]
 ];
 
-# FUTURE (+FUT.) 
+# 1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
 # it describes "unrealized" situations 
 define V=S=IRR [
   "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
