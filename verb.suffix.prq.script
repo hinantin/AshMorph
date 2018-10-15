@@ -219,6 +219,7 @@ define V=S=IRR [
 # naamabentatiyempa / ES: '(yo).estaré.prevenido'
 # nobashiretatiyempa / ES: '(yo).estaré.triste'
 # nokaatatiyempa / ES: '(yo.me).bañaré'
+# yapatsayeetatiyempari / ES: '(él).le.va.abollar'
 | "[--][-yempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yempa}]
 | "[--][-yema+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yema}]
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
