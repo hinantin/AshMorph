@@ -223,6 +223,8 @@ define V=S=IRR [
 # noponayempa / ES: 'voy.acostarme'
 # otsitinkatiyempa / ES: '(ella).se.va.a.tropezar'
 # antibatatiyempa / ES: '(ella).se.va.a.tropezar'
+# notsitinkatiyempa / ES: 'me.voy.a.tropezar'
+# nantibatatiyempa / ES: 'me.voy.a.tropezar'
 | "[--][-yempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yempa}]
 | "[--][-yema+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yema}]
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
