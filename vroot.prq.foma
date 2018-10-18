@@ -2103,7 +2103,10 @@ define VRootPRQin [
 | "[=tiank][VRoot][=to.send (ES: mandar)]" : {tiank}
 | "[=tiyank][VRoot][=to.send (ES: mandar)]" : {tiyank}
 ! 
-| "[=tiyaat][VRoot][=to.ply (ES: surcar); to.go.upstream (ES: ir.río.arriba)]" : {tiyaat}
+| "[=tiyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo)); to.go.upstream (ES: ir.río.arriba)]" : {tiyaat}
+| "[=tziyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo))]" : {tziyaat}
+| "[=otziyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo))]" : {otziyaat}
+| "[=tiaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo))]" : {tiaat}
 ! 
 | "[=tyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tyerov}
 | "[=tiyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tiyerov}
