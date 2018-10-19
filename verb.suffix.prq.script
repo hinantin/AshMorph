@@ -199,15 +199,12 @@ define V=S=REAL [
 # it describes "unrealized" situations 
 define V=S=IRR [
   "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
+| "[--][-ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
 | "[--][-empa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{empa}]
 | "[--][-empaa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{empaa}]
 | "[--][-eempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{eempa}]
-| "[--][-ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
-| "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
-| "[--][-ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
-| "[--][-ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}]
 # naabakaatiyempa / ES: 'me.voy.a.casar'
 # naabakaatiyema / ES: 'me.voy.a.casar'
 # nokibanaajitatiyempa / ES: 'voy.a.lavarme.los.dientes'
@@ -228,10 +225,13 @@ define V=S=IRR [
 | "[--][-yempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yempa}]
 | "[--][-yema+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yema}]
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
+| "[--][-ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}]
 | "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
 | "[--][-aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
 | "[--][-i+fut.][MODALITY][+IRR]" : "@EP"[{i}]
 | "[--][-ii+fut.][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
+| "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
+| "[--][-ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
 | "[--][-yaa+fut.][MODALITY][+IRR]" : "@EP"[{yaa}]
 | "[--][-ea+fut.][MODALITY][+IRR]" : "@EP"[{ea}]
 ];
