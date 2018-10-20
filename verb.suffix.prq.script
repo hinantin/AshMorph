@@ -185,8 +185,10 @@ define V=S=CNTF [
 define V=S=REAL [
   "[--][-e+n.fut.][MODALITY][+REAL]" : "@EP"[{e}]
 | "[--][-ee+n.fut.][MODALITY][+REAL]" : "@EP"[{ee}]
+# -------------------------------------------
 | "[--][-i+n.fut.][MODALITY][+REAL]" : "@EP"[{i}]
 | "[--][-ii+n.fut.][MODALITY][+REAL]" : "@EP"[{ii}] ! to be checked 
+# -------------------------------------------
 | "[--][-a+n.fut.][MODALITY][+REAL]" : "@EP"[{a}]
 | "[--][-aa+n.fut.][MODALITY][+REAL]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
@@ -200,6 +202,7 @@ define V=S=REAL [
 define V=S=IRR [
   "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
 | "[--][-ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
+# -------------------------------------------
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
 | "[--][-empa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{empa}]
@@ -224,12 +227,16 @@ define V=S=IRR [
 # nantibatatiyempa / ES: 'me.voy.a.tropezar'
 | "[--][-yempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yempa}]
 | "[--][-yema+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yema}]
+# -------------------------------------------
 | "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
 | "[--][-ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}]
+# -------------------------------------------
 | "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
 | "[--][-aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
+# -------------------------------------------
 | "[--][-i+fut.][MODALITY][+IRR]" : "@EP"[{i}]
 | "[--][-ii+fut.][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
+# -------------------------------------------
 | "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
 | "[--][-ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
 | "[--][-yaa+fut.][MODALITY][+IRR]" : "@EP"[{yaa}]
