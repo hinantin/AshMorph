@@ -181,9 +181,9 @@ define V=S=CNTF [
 # it describes "realized" situations 
 # -------------------------------------------
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
-# a-class verbs - “reflexive” verbs - MIDDLE VOICE +C.A@mid.v. 
+# a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 define V=S=REAL [
-  "[--][-e+n.fut.][MODALITY][+REAL]" : "@EP"[{e}]
+  "[--][-e+n.fut. ][MODALITY][+REAL]" : "@EP"[{e}]
 | "[--][-ee+n.fut.][MODALITY][+REAL]" : "@EP"[{ee}]
 # -------------------------------------------
 | "[--][-i+n.fut.][MODALITY][+REAL]" : "@EP"[{i}]
@@ -245,15 +245,15 @@ define V=S=IRR [
 
 # NON/FUTURE + REFLEXIVE
 define V=S=REALRFL [
-  "[--][-a+n.fut.][MODALITY][+REAL.RFL]" : "@EP"[{a}]
+  "[--][-a+n.fut.+C.A@mid.v.][MODALITY][+REAL.RFL]" : "@EP"[{a}]
 ];
       
 # FUTURE + REFLEXIVE
 define V=S=IRRRFL [
-  "[--][-ia+fut.][MODALITY][+IRR.RFL]" : "@EP"[{ia}]
+  "[--][-ia+fut.+C.A@mid.v.][MODALITY][+IRR.RFL]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
-| "[--][-eya+fut.][MODALITY][+IRR.RFL]" : "@EP"[{eya}]
-| "[--][-iya+fut.][MODALITY][+IRR.RFL]" : "@EP"[{iya}]
+| "[--][-eya+fut.+C.A@mid.v.][MODALITY][+IRR.RFL]" : "@EP"[{eya}]
+| "[--][-iya+fut.+C.A@mid.v.][MODALITY][+IRR.RFL]" : "@EP"[{iya}]
 ];
 # -------------------------------------------
                    
