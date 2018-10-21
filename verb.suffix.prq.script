@@ -183,14 +183,14 @@ define V=S=CNTF [
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 define V=S=REAL [
-  "[--][-e+n.fut. ][MODALITY][+REAL]" : "@EP"[{e}]
-| "[--][-e~ee+n.fut.][MODALITY][+REAL]" : "@EP"[{ee}]
+  "[--][-e+n.fut.+C.I@act.v.][MODALITY][+REAL]" : "@EP"[{e}]
+| "[--][-e~ee+n.fut.+C.I@act.v.][MODALITY][+REAL]" : "@EP"[{ee}]
 # -------------------------------------------
-| "[--][-i+n.fut.][MODALITY][+REAL]" : "@EP"[{i}]
-| "[--][-i~ii+n.fut.][MODALITY][+REAL]" : "@EP"[{ii}] ! to be checked 
+| "[--][-i+n.fut.+C.I@act.v.][MODALITY][+REAL]" : "@EP"[{i}]
+| "[--][-i~ii+n.fut.+C.I@act.v.][MODALITY][+REAL]" : "@EP"[{ii}] ! to be checked 
 # -------------------------------------------
-| "[--][-a+n.fut.][MODALITY][+REAL]" : "@EP"[{a}]
-| "[--][-a~aa+n.fut.][MODALITY][+REAL]" : "@EP"[{aa}] ! not preceded by -a 
+| "[--][-a+n.fut.+C.A@mid.v.][MODALITY][+REAL]" : "@EP"[{a}]
+| "[--][-a~aa+n.fut.+C.A@mid.v.][MODALITY][+REAL]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
 | "[--][-ia+n.fut.][MODALITY][+REAL]" : "@EP"[{ia}] ! to be checked 
 | "[--][-ia~ya+n.fut.][MODALITY][+REAL]" : "@EP"[{ya}] ! to be checked 
