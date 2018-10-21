@@ -226,10 +226,10 @@ define V=S=IRR [
 # notsitinkatiyempa / ES: 'me.voy.a.tropezar'
 # nantibatatiyempa / ES: 'me.voy.a.tropezar'
 | "[--][-eNpa~yempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yempa}]
-| "[--][-eNpa~yema+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yema}]
+| "[--][-eNpa~yema+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yema}] ! shortened form ?
+| "[--][-eNpa~yea+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yea}] ! shortened form ?
 # -------------------------------------------
-| "[--][-yea+fut.][MODALITY][+IRR]" : "@EP"[{yea}]
-| "[--][-ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}]
+| "[--][-e~ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}] ! to be checked , it is a possible misannotation 
 # -------------------------------------------
 | "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
 | "[--][-a~aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
