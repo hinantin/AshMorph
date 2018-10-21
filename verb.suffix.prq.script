@@ -202,7 +202,7 @@ define V=S=REAL [
 define V=S=IRR [
   "[--][-e+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{e}]
 | "[--][-e~ee+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{ee}]
-| "[--][-e~ye+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{ye}] ! to be checked , it is a possible misannotation 
+| "[--][-e~ye+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{ye}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
 # -------------------------------------------
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
@@ -239,7 +239,7 @@ define V=S=IRR [
 | "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
 | "[--][-ia~ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
 | "[--][-ia~yaa+fut.][MODALITY][+IRR]" : "@EP"[{yaa}]
-| "[--][-ia~ea+fut.][MODALITY][+IRR]" : "@EP"[{ea}]
+| "[--][-ia~ea+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
 ];
 
 # NON/FUTURE + REFLEXIVE (RFL)
