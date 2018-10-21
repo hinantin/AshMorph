@@ -203,6 +203,8 @@ define V=S=IRR [
   "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
 | "[--][-e~ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
 # -------------------------------------------
+| "[--][-e~ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}] ! to be checked , it is a possible misannotation 
+# -------------------------------------------
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
 | "[--][-eNpa~empa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{empa}]
@@ -228,8 +230,6 @@ define V=S=IRR [
 | "[--][-eNpa~yempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yempa}]
 | "[--][-eNpa~yema+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yema}] ! shortened form ?
 | "[--][-eNpa~yea+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yea}] ! shortened form ?
-# -------------------------------------------
-| "[--][-e~ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}] ! to be checked , it is a possible misannotation 
 # -------------------------------------------
 | "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
 | "[--][-a~aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
