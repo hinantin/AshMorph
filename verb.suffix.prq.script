@@ -202,7 +202,6 @@ define V=S=REAL [
 define V=S=IRR [
   "[--][-e+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{e}]
 | "[--][-e~ee+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{ee}]
-# -------------------------------------------
 | "[--][-e~ye+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{ye}] ! to be checked , it is a possible misannotation 
 # -------------------------------------------
 # onkentantapempariri 
