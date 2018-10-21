@@ -243,17 +243,17 @@ define V=S=IRR [
 | "[--][-ea+fut.][MODALITY][+IRR]" : "@EP"[{ea}]
 ];
 
-# NON/FUTURE + REFLEXIVE
+# NON/FUTURE + REFLEXIVE (RFL)
 define V=S=REALRFL [
-  "[--][-a+n.fut.+C.A@mid.v.][MODALITY][+REAL.RFL]" : "@EP"[{a}]
+  "[--][-a+n.fut.+C.A@mid.v.][MODALITY][+REAL]" : "@EP"[{a}]
 ];
       
-# FUTURE + REFLEXIVE
+# FUTURE + REFLEXIVE (RFL)
 define V=S=IRRRFL [
-  "[--][-ia+fut.+C.A@mid.v.][MODALITY][+IRR.RFL]" : "@EP"[{ia}]
+  "[--][-ia+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
-| "[--][-eya+fut.+C.A@mid.v.][MODALITY][+IRR.RFL]" : "@EP"[{eya}]
-| "[--][-iya+fut.+C.A@mid.v.][MODALITY][+IRR.RFL]" : "@EP"[{iya}]
+| "[--][-eya+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{eya}]
+| "[--][-iya+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{iya}]
 ];
 # -------------------------------------------
                    
