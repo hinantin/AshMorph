@@ -200,10 +200,10 @@ define V=S=REAL [
 # 1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
 # it describes "unrealized" situations 
 define V=S=IRR [
-  "[--][-e+fut.][MODALITY][+IRR]" : "@EP"[{e}]
-| "[--][-e~ee+fut.][MODALITY][+IRR]" : "@EP"[{ee}]
+  "[--][-e+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{e}]
+| "[--][-e~ee+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{ee}]
 # -------------------------------------------
-| "[--][-e~ye+fut.][MODALITY][+IRR]" : "@EP"[{ye}] ! to be checked , it is a possible misannotation 
+| "[--][-e~ye+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{ye}] ! to be checked , it is a possible misannotation 
 # -------------------------------------------
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
