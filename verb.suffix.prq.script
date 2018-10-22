@@ -192,9 +192,9 @@ define V=S=REAL [
 | "[--][-a+n.fut.+C.A@mid.v.][MODALITY][+REAL]" : "@EP"[{a}]
 | "[--][-a~aa+n.fut.+C.A@mid.v.][MODALITY][+REAL]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
-| "[--][-ia+n.fut.][MODALITY][+REAL]" : "@EP"[{ia}] ! to be checked 
-| "[--][-ia~ya+n.fut.][MODALITY][+REAL]" : "@EP"[{ya}] ! to be checked 
-| "[--][-ia~yaa+n.fut.][MODALITY][+REAL]" : "@EP"[{yaa}] ! to be checked 
+!| "[--][-ia+n.fut.][MODALITY][+REAL]" : "@EP"[{ia}] ! to be checked 
+!| "[--][-ia~ya+n.fut.][MODALITY][+REAL]" : "@EP"[{ya}] ! to be checked 
+!| "[--][-ia~yaa+n.fut.][MODALITY][+REAL]" : "@EP"[{yaa}] ! to be checked 
 ];
 
 # 1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
