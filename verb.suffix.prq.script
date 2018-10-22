@@ -233,8 +233,8 @@ define V=S=IRR [
 !| "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
 !| "[--][-a~aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
-!| "[--][-i+fut.][MODALITY][+IRR]" : "@EP"[{i}]
-!| "[--][-i~ii+fut.][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
+| "[--][-i+fut.][MODALITY][+IRR]" : "@EP"[{i}]
+| "[--][-i~ii+fut.][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
 # -------------------------------------------
 | "[--][-ia+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ia}]
 | "[--][-ia~ya+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ya}]
