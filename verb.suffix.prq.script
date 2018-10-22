@@ -236,9 +236,9 @@ define V=S=IRR [
 | "[--][-i+fut.][MODALITY][+IRR]" : "@EP"[{i}]
 | "[--][-i~ii+fut.][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
 # -------------------------------------------
-| "[--][-ia+fut.][MODALITY][+IRR]" : "@EP"[{ia}]
-| "[--][-ia~ya+fut.][MODALITY][+IRR]" : "@EP"[{ya}]
-| "[--][-ia~yaa+fut.][MODALITY][+IRR]" : "@EP"[{yaa}]
+| "[--][-ia+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ia}]
+| "[--][-ia~ya+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ya}]
+| "[--][-ia~yaa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yaa}]
 | "[--][-ia~ea+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
 ];
 
