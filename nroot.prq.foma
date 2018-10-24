@@ -210,13 +210,16 @@ define NRootPRQin [
 | "[=ãpe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ãpe}
 | "[=ampi][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampi}
 | "[=ampehi][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampehi}
+# ------------------------------------------------------------------
 ! paradigms?
 | "[=amporetsa][NRoot][=intestine (ES: tripa, intestino); animal.innards/entrails (ES: menudencia)]" : {amporetsa}
 | "[=amporetso+n.m.+inal@ntsi.][NRoot][=intestine (ES: tripa, intestino)]" : {amporetso}
 | "[=amporitso+n.m.+inal@ntsi.][NRoot][=intestine (ES: tripa, intestino)]" : {amporitso}
+! 
 | "[=sheeto+n.m.+inal@ntsi.][NRoot][=intestine (ES: tripa, intestino)]" : {sheeto}
 | "[=sheito+inal@ntsi.][NRoot][=intestine (ES: tripa, intestino)]" : {sheito}
 | "[=hyiito/jyiito+inal@ntsi.][NRoot][=intestine (ES: tripa, intestino)]" : {hyiito}
+# ------------------------------------------------------------------
 ! 
 # antami: dense tropical forest 
 | "[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {antami} ! N@->V
