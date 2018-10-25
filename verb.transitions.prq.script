@@ -602,7 +602,8 @@ define S [
 | (APPLINST) (DIST) STAT (V=S=REL) ! ovametantayetatsiri 
  
 | (RCP) (CAUSSOC) (REGR) (DUR) STATUS (V=S=RPST)  
-| (RCP) (CAUSSOC) (PL) (REGR) STATUS  
+| (RCP) (CAUSSOC) (PL) (REGR) STATUS 
+| (RCP) (CAUSSOC) STATUS (V=S=EMPH) (V=S=SUB) 
 
 | (ADV=SET2) (DIR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 | (ADV=SET2) (HAB) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
