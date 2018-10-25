@@ -518,7 +518,7 @@ define S [
 | (PROG) STATUS 
 | (DIR) (REGR) STATUS (V=S=REL) (V=S=Q) 
 | STATUS (PRNO) (V=S=DUB) 
-| (V=S=almost) (APPLREAS) (REGR) STATUS 
+#| (V=S=almost) (APPLREAS) (REGR) STATUS # revise
 | (CAUSSOC) (PROG) STATUS 
 | (REV) PROG ! otakiriati
 #| (DUR) (NMZ) (APPLREAS) STATUS (V=S=REL) (V=S=Q) # revise 
