@@ -255,6 +255,10 @@ define V=S=IRRRFL [
 | "[--][-ia~iya+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{iya}]
 | "[--][-ia~eya+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{eya}]
 ];
+# NON/FUTURE + REFLEXIVE (RFL)
+define V=S=IRRCPB [
+  "[--][-txa+fut.+C.A@mid.v.][MODALITY][+IRR]" : [{txa}]
+];
 # -------------------------------------------
                    
 define STATUS [
@@ -264,6 +268,7 @@ define STATUS [
 | [EP V=S=IRRRFL]|[V=S=IRRRFL]
 # ------------------------------------------
 | [EP V=S=PRNO=SET2]|[V=S=PRNO=SET2]
+| [V=S=IRRCPB]
 ];
                    
 # ****************************************
