@@ -183,14 +183,14 @@ define V=S=CNTF [
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 define V=S=REAL [
-  "[--][-e+n.fut.+C.I@act.v.][MODALITY][+REAL]" : "@EP"[{e}]
-| "[--][-e~ee+n.fut.+C.I@act.v.][MODALITY][+REAL]" : "@EP"[{ee}]
+  "[--][-e+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{e}]
+| "[--][-e~ee+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{ee}]
 # -------------------------------------------
-| "[--][-i+n.fut.+C.I@act.v.][MODALITY][+REAL]" : "@EP"[{i}]
-| "[--][-i~ii+n.fut.+C.I@act.v.][MODALITY][+REAL]" : "@EP"[{ii}] ! to be checked 
+| "[--][-i+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{i}]
+| "[--][-i~ii+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{ii}] ! to be checked 
 # -------------------------------------------
-| "[--][-a+n.fut.+C.A@mid.v.][MODALITY][+REAL]" : "@EP"[{a}]
-| "[--][-a~aa+n.fut.+C.A@mid.v.][MODALITY][+REAL]" : "@EP"[{aa}] ! not preceded by -a 
+| "[--][-a+n.fut.+C.A@mid.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{a}]
+| "[--][-a~aa+n.fut.+C.A@mid.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
 !| "[--][-ia+n.fut.][MODALITY][+REAL]" : "@EP"[{ia}] ! to be checked 
 !| "[--][-ia~ya+n.fut.][MODALITY][+REAL]" : "@EP"[{ya}] ! to be checked 
@@ -200,16 +200,16 @@ define V=S=REAL [
 # 1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
 # it describes "unrealized" situations 
 define V=S=IRR [
-  "[--][-e+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{e}]
-| "[--][-e~ee+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{ee}]
-| "[--][-e~ye+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{ye}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
-| "[--][-e~yi+fut.+C.I@act.v.][MODALITY][+IRR]" : "@EP"[{yi}]
+  "[--][-e+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
+| "[--][-e~ee+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ee}]
+| "[--][-e~ye+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ye}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
+| "[--][-e~yi+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yi}]
 # -------------------------------------------
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
-| "[--][-eNpa~empa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{empa}]
-| "[--][-eNpa~empaa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{empaa}]
-| "[--][-eNpa~eempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{eempa}]
+| "[--][-eNpa~empa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empa}]
+| "[--][-eNpa~empaa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empaa}]
+| "[--][-eNpa~eempa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eempa}]
 # naabakaatiyempa / ES: 'me.voy.a.casar'
 # naabakaatiyema / ES: 'me.voy.a.casar'
 # nokibanaajitatiyempa / ES: 'voy.a.lavarme.los.dientes'
@@ -227,38 +227,38 @@ define V=S=IRR [
 # antibatatiyempa / ES: '(ella).se.va.a.tropezar'
 # notsitinkatiyempa / ES: 'me.voy.a.tropezar'
 # nantibatatiyempa / ES: 'me.voy.a.tropezar'
-| "[--][-eNpa~yempa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yempa}]
-| "[--][-eNpa~yema+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yema}] ! shortened form ?
-| "[--][-eNpa~yea+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yea}] ! shortened form ? \cite[pag. 13]{mihas:rflx:rzpr:17}
+| "[--][-eNpa~yempa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yempa}]
+| "[--][-eNpa~yema+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yema}] ! shortened form ?
+| "[--][-eNpa~yea+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yea}] ! shortened form ? \cite[pag. 13]{mihas:rflx:rzpr:17}
 # -------------------------------------------
 !| "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
 !| "[--][-a~aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
-| "[--][-e~i+fut.][MODALITY][+IRR]" : "@EP"[{i}]
-| "[--][-e~ii+fut.][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
+| "[--][-e~i+fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{i}]
+| "[--][-e~ii+fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
 # -------------------------------------------
-| "[--][-ia+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ia}]
-| "[--][-ia~ya+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ya}]
-| "[--][-ia~yaa+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{yaa}]
-| "[--][-ia~ea+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
+| "[--][-ia+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
+| "[--][-ia~ya+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ya}]
+| "[--][-ia~yaa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yaa}]
+| "[--][-ia~ea+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
 ];
 
 # NON/FUTURE + REFLEXIVE (RFL)
 define V=S=REALRFL [
-  "[--][-a+n.fut.+C.A@mid.v.][MODALITY][+REAL]" : "@EP"[{a}]
+  "[--][-a+n.fut.+C.A@mid.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{a}]
 ];
       
 # FUTURE + REFLEXIVE (RFL)
 define V=S=IRRRFL [
-  "[--][-ia+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{ia}]
+  "[--][-ia+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
-| "[--][-ia~iya+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{iya}]
-| "[--][-ia~eya+fut.+C.A@mid.v.][MODALITY][+IRR]" : "@EP"[{eya}]
+| "[--][-ia~iya+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{iya}]
+| "[--][-ia~eya+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eya}]
 ];
 # NON/FUTURE + REFLEXIVE (RFL)
 define V=S=IRRCPB [
-  "[--][-tʃa~txa+fut.+C.A@mid.v.][MODALITY][+IRR]" : [{txa}]
-| "[--][-tʃaa~txaa+fut.+C.A@mid.v.][MODALITY][+IRR]" : [{txaa}]
+  "[--][-tʃa~txa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{txa}]
+| "[--][-tʃaa~txaa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{txaa}]
 ];
 # -------------------------------------------
                    
