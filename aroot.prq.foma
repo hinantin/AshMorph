@@ -84,6 +84,8 @@ define ARootPRQin [
 | "[=pochapaneri][AdjRoot][=sweet (ES: dulce)]" : {pochapaneri}
 | "[=pochaata+poss@ti.][AdjRoot][=sweet (ES: dulce)]" : {pochata}
 ! 
+| "[=shampitsi][AdjRoot][=miser (ES: avaro, mezquino)]" : {shampitsi} ! N@->V
+! 
 | "[=tontari][AdjRoot][= (ES: grueso,, espeso)]" : {tontari}
 | "[=tontatatsi][AdjRoot][= (ES: grueso,, espeso)]" : {tontatatsi}
 ! 
