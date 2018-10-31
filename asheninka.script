@@ -210,6 +210,7 @@ TZEpenthesisRule8
                                                                             # oarentite 
       
       define KJLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || _ [{o}|{a}|{e}|{i}] ]; 
+      define KJLenitionRule2 [ "@PHONPROC@"c (->) "@PHONPROC@"y || _ [{o}|{a}|{e}|{i}] ]; 
                                                                             # optional rule: noyokani, ikentsike  
                                                                             # nokimini (in our lexicon) -> no@PHONPROC@kimini -> no@PHONPROC@yimini -> noyimini
       define KLenitionRule2 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{o}] _ [{i}|{e}|{a}|{o}] ]; 
@@ -228,7 +229,7 @@ TZEpenthesisRule8
 
       define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 .o. PWLenitionRule4 
  .o. PLenitionRule1 .o.  PLenitionRule2  
- .o. KJLenitionRule1 
+ .o. KJLenitionRule1 .o. KJLenitionRule2 
  .o. KLenitionRule2 
  .o. KLenitionRule3 
  .o. KLenitionRule4 
