@@ -29,6 +29,6 @@ define V=S=CL [
 | "[--][-pako][+CL:your.hand][=your.hand, your.five]" : "@EP"{pako} ! @CL 
 | "[--][-vako][+CL:hand][=hand]" : "@EP"{vako} ! @CL 
 | "[--][-karaki][+CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : "@EP"{karaki} ! @CL 
-| "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : "@EP"{henka} ! @CL 
+| "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire;ephemeral]" : "@EP"{henka} ! @CL 
 | "[--][-teroina][+CL:spherical,solid][=spherical, solid (ES: forma.de.bola)]" : "@EP"{teroina} ! @CL 
 ];
