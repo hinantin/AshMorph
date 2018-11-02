@@ -553,8 +553,8 @@ define N=S=CL [
 | "[--][-kamara][+CL:cinnamon.color][=cinnamon.color]" : {kamara} 
 ! 
 ! kitaijenka / kitaihenka / =kitai -henka / =to.dawn -cl:daylight / EN: 'day'; ES: 'día' 
-| "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {henka} ! @CL 
-| "[--][-enka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire]" : {enka} 
+| "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire;ephemeral]" : {henka} ! @CL 
+| "[--][-enka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire;ephemeral]" : {enka} 
 ! 
 ! paapani / EN: 'ash'; ES: 'ceniza' 
 | "[--][-pani][+CL:powdery.substance][=powdery.substance]" : {pani} 
