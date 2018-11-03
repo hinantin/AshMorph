@@ -183,8 +183,8 @@ define V=S=CNTF [
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 define V=S=REAL [
-  "[--][-e+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{e}]
-| "[--][-e~ee+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{ee}]
+  "[--][-i~e+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL][=after.-ak/-ah]" : "@EP"[{e}]
+| "[--][-i~ee+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL][=after.-ak/-ah]" : "@EP"[{ee}]
 # -------------------------------------------
 | "[--][-i+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{i}]
 | "[--][-i~ii+n.fut.+C.I@act.v.+RSS@00000][MODALITY][+REAL]" : "@EP"[{ii}] ! to be checked 
