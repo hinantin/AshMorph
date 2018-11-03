@@ -1,5 +1,5 @@
 # -----------------
-# CLASSIFIER 
+# VERBAL CLASSIFIERS 
 # -----------------
 define V=S=CL [ 
   "[--][-tsapiya][+CL:side.of.river][=bank, side.of.river]" : "@EP"{tsapiya} ! @CL 
