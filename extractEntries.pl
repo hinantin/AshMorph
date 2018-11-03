@@ -50,11 +50,25 @@ open INFO, $file or die "Could not open $file: $!";
  {
  if (m/$flag/) { 
   if ($count == 0) { 
-   my $text = $_;
-   $text =~ s/^\|/ /g;
-   if ($separator == 1) { $text =~ s/\"/\"$separatorsymbol/; }
-   if ($replace == 1) { $text =~ s/$source/$target/; }
-   print $fh $text; 
+   my $myvar = $_;
+   $myvar =~ s/^\|/ /g;
+   if ($separator == 1) { $myvar =~ s/\"/\"$separatorsymbol/; }
+   if ($replace == 1) { $myvar =~ s/$source/$target/; }
+   if ($replace == 2) { 
+     # splitting 
+     if($myvar =~ m/N@\->V::\[(.*)\]/) {
+       my $targetstring = "::[$1]"; 
+       $myvar =~ m/(.*)$source/g; 
+       my $result = "$1$targetstring$target"; 
+       $myvar =~ m/$source(.*)/s; 
+       $myvar = "$result$1"; 
+     }
+     else {
+       $myvar =~ s/$source/$target/; 
+     }
+     
+   }
+   print $fh $myvar; 
   }
   else { 
    my $myvar = $_;
@@ -63,16 +77,17 @@ open INFO, $file or die "Could not open $file: $!";
    if ($replace == 1) { $myvar =~ s/$source/$target/; }
    if ($replace == 2) { 
      # splitting 
-if($myvar =~ m/N@\->V::\[(.*)\]/) {
-  my $targetstring = "::[$1]"; 
-  $myvar =~ m/(.*)$source/g; 
-  my $result = "$1$targetstring$target"; 
-  $myvar =~ m/$source(.*)/s; 
-  $myvar = "$result$1"; 
-}
-else {
-  $myvar =~ s/$source/$target/; 
-}
+     if($myvar =~ m/N@\->V::\[(.*)\]/) {
+       my $targetstring = "::[$1]"; 
+       $myvar =~ m/(.*)$source/g; 
+       my $result = "$1$targetstring$target"; 
+       $myvar =~ m/$source(.*)/s; 
+       $myvar = "$result$1"; 
+     }
+     else {
+       $myvar =~ s/$source/$target/; 
+     }
+     
    }
    print $fh $myvar; 
   }

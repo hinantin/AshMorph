@@ -2,33 +2,33 @@
 # VERBAL CLASSIFIERS (VERB.CL) 
 # -----------------
 define V=S=CL [ 
-  "[--][-tsapiya][+CL:side.of.river][=bank, side.of.river]" : {tsapiya} ! @CL 
-| "[--][-shi][+VERB.CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]" : {shi} ! @CL 
-| "[--][-pankaina][+VERB.CL:bare,flat][=bare, flat]" : {pankaina} ! @CL  
-| "[--][-poroki][+VERB.CL:quantity][=bunch,group;group.of.tiny.objects]" : {poroki} ! @CL 
-| "[--][-pooki][+VERB.CL:quantity][=bunch,group;group.of.tiny.objects]" : {pooki} ! @CL 
-| "[--][-poroki][+VERB.CL:assortment][=crumbs,particles]" : {poroki} ! @CL 
-| "[--][-ki][+VERB.CL:S.R.H][=small,round(ed);hard;seed-like]" : {ki} ! @CL +SHAPE
-| "[--][-kii][+VERB.CL:long,thin.branch][=long,thin.branch; stick.like.(with.a.sharp.pointed.end)]" : {kii} ! @CL +SHAPE
-| "[--][-tsa][+VERB.CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]" : {tsa} ! @CL +SHAPE  
-| "[--][-tsantsa][+VERB.CL:length][=long (ES: largo);length]" : {tsantsa} ! @CL 
-| "[--][-tsantsana][+VERB.CL:wide][=wide]" : {tsantsana} ! @CL 
-| "[--][-pa][+VERB.CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : {pa} ! @CL  
-| "[--][-pontso][+VERB.CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point]" : {pontso} ! @CL  
-| "[--][-patsa][+VERB.CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {patsa} ! @CL 
-| "[--][-nki][+VERB.CL:snake][=snake.sp.]" : {nki} ! @CL 
-| "[--][-nke][+VERB.CL:snake][=snake.sp.]" : {nke} ! @CL 
-| "[--][-tenka][+VERB.CL:longitudinal.depression][=longitudinal.depression (curved.inwards); convexity]" : {tenka} ! @CL  
-| "[--][-pompoina][+VERB.CL:ball][=ball-like, spherical]" : {pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
-| "[--][-pompoito][+VERB.CL:spherical][=spherical]" : {pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.' @CL 
-| "[--][-yempi][+VERB.CL:ear][=ear]" : {yempi} ! @CL 
-| "[--][-ha][+VERB.CL:liquid][=liquid]" : {ha} ! @CL
-| "[--][-aa][+VERB.CL:liquid][=liquid]" : {aa} ! @CL 
-| "[--][-a][+VERB.CL:liquid][=liquid]" : {a} ! @CL it provokes too many false entries so don't add it to the list of nominalizer clasiffiers.
-| "[--][-ako][+VERB.CL:vessel][=vessel; recipient; cavity; hand]" : {ako} ! @CL 
-| "[--][-pako][+VERB.CL:your.hand][=your.hand, your.five]" : {pako} ! @CL 
-| "[--][-vako][+VERB.CL:hand][=hand]" : {vako} ! @CL 
-| "[--][-karaki][+VERB.CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : {karaki} ! @CL 
-| "[--][-henka][+VERB.CL:inmaterial][=inmaterial;odor;sound;daylight,fire;ephemeral]" : {henka} ! @CL 
-| "[--][-teroina][+VERB.CL:spherical,solid][=spherical, solid (ES: forma.de.bola)]" : {teroina} ! @CL 
+  "[--][-tsapiya][+CL:side.of.river][=bank, side.of.river]" : "@EP"{tsapiya} ! @CL 
+| "[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]" : "@EP"{shi} ! @CL 
+| "[--][-pankaina][+CL:bare,flat][=bare, flat]" : "@EP"{pankaina} ! @CL  
+| "[--][-poroki][+CL:quantity][=bunch,group;group.of.tiny.objects]" : "@EP"{poroki} ! @CL 
+| "[--][-pooki][+CL:quantity][=bunch,group;group.of.tiny.objects]" : "@EP"{pooki} ! @CL 
+| "[--][-poroki][+CL:assortment][=crumbs,particles]" : "@EP"{poroki} ! @CL 
+| "[--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]" : "@EP"{ki} ! @CL +SHAPE
+| "[--][-kii][+CL:long,thin.branch][=long,thin.branch; stick.like.(with.a.sharp.pointed.end)]" : "@EP"{kii} ! @CL +SHAPE
+| "[--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]" : "@EP"{tsa} ! @CL +SHAPE  
+| "[--][-tsantsa][+CL:length][=long (ES: largo);length]" : "@EP"{tsantsa} ! @CL 
+| "[--][-tsantsana][+CL:wide][=wide]" : "@EP"{tsantsana} ! @CL 
+| "[--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : "@EP"{pa} ! @CL  
+| "[--][-pontso][+CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point]" : "@EP"{pontso} ! @CL  
+| "[--][-patsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : "@EP"{patsa} ! @CL 
+| "[--][-nki][+CL:snake][=snake.sp.]" : "@EP"{nki} ! @CL 
+| "[--][-nke][+CL:snake][=snake.sp.]" : "@EP"{nke} ! @CL 
+| "[--][-tenka][+CL:longitudinal.depression][=longitudinal.depression (curved.inwards); convexity]" : "@EP"{tenka} ! @CL  
+| "[--][-pompoina][+CL:ball][=ball-like, spherical]" : "@EP"{pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
+| "[--][-pompoito][+CL:spherical][=spherical]" : "@EP"{pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.' @CL 
+| "[--][-yempi][+CL:ear][=ear]" : "@EP"{yempi} ! @CL 
+| "[--][-ha][+CL:liquid][=liquid]" : "@EP"{ha} ! @CL
+| "[--][-aa][+CL:liquid][=liquid]" : "@EP"{aa} ! @CL 
+| "[--][-a][+CL:liquid][=liquid]" : "@EP"{a} ! @CL it provokes too many false entries so don't add it to the list of nominalizer clasiffiers.
+| "[--][-ako][+CL:vessel][=vessel; recipient; cavity; hand]" : "@EP"{ako} ! @CL 
+| "[--][-pako][+CL:your.hand][=your.hand, your.five]" : "@EP"{pako} ! @CL 
+| "[--][-vako][+CL:hand][=hand]" : "@EP"{vako} ! @CL 
+| "[--][-karaki][+CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : "@EP"{karaki} ! @CL 
+| "[--][-henka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire;ephemeral]" : "@EP"{henka} ! @CL 
+| "[--][-teroina][+CL:spherical,solid][=spherical, solid (ES: forma.de.bola)]" : "@EP"{teroina} ! @CL 
 ];
