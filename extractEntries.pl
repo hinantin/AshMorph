@@ -13,9 +13,12 @@ my $title = 'Verbalized nouns';
 my $header = 'NounToVerbPRQin';
 my $separatorsymbol = "[--]";
 my $separator = 0;
-my $replace = 0;
-my $source = " : {";
-my $target = " : \"\@EP\"{";
+my $replace1 = 0;
+my $source1 = " : {";
+my $target1 = " : \"\@EP\"{";
+my $replace2 = 0;
+my $source2 = " : {";
+my $target2 = " : \"\@EP\"{";
 # Obtaining the options
 my @files;
 my $options = "--file file_1 --file file_2 ... ";
@@ -26,9 +29,12 @@ GetOptions (
 'title=s' => \$title, 
 'header=s' => \$header, 
 "separator=i" => \$separator, 
-"replace=i" => \$replace, 
-'source=s' => \$source, 
-'target=s' => \$target, 
+"replace1=i" => \$replace1, 
+"replace2=i" => \$replace2, 
+'source1=s' => \$source1, 
+'target1=s' => \$target1, 
+'source2=s' => \$source2, 
+'target2=s' => \$target2, 
 ) or die " Usage:  $0 $options\n";
 #if (@files) {
 #  print STDERR " Usage:  $0 $options\n";
@@ -53,18 +59,18 @@ open INFO, $file or die "Could not open $file: $!";
    my $myvar = $_;
    $myvar =~ s/^\|/ /g;
    if ($separator == 1) { $myvar =~ s/\"/\"$separatorsymbol/; }
-   if ($replace == 1) { $myvar =~ s/$source/$target/; }
-   if ($replace == 2) { 
+   if ($replace1 == 1) { $myvar =~ s/$source1/$target1/; }
+   if ($replace2 == 1) { 
      # splitting 
      if($myvar =~ m/N@\->V::\[(.*)\]/) {
        my $targetstring = "::[$1]"; 
-       $myvar =~ m/(.*)$source/g; 
-       my $result = "$1$targetstring$target"; 
-       $myvar =~ m/$source(.*)/s; 
+       $myvar =~ m/(.*)$source2/g; 
+       my $result = "$1$targetstring$target2"; 
+       $myvar =~ m/$source2(.*)/s; 
        $myvar = "$result$1"; 
      }
      else {
-       $myvar =~ s/$source/$target/; 
+       $myvar =~ s/$source2/$target2/; 
      }
      
    }
@@ -74,18 +80,18 @@ open INFO, $file or die "Could not open $file: $!";
    my $myvar = $_;
    substr($myvar, 0, 1, "|") if " " eq substr($myvar, 0, 1);
    if ($separator == 1) { $myvar =~ s/\"/\"$separatorsymbol/; }
-   if ($replace == 1) { $myvar =~ s/$source/$target/; }
-   if ($replace == 2) { 
+   if ($replace1 == 1) { $myvar =~ s/$source1/$target1/; }
+   if ($replace2 == 1) { 
      # splitting 
      if($myvar =~ m/N@\->V::\[(.*)\]/) {
        my $targetstring = "::[$1]"; 
-       $myvar =~ m/(.*)$source/g; 
-       my $result = "$1$targetstring$target"; 
-       $myvar =~ m/$source(.*)/s; 
+       $myvar =~ m/(.*)$source2/g; 
+       my $result = "$1$targetstring$target2"; 
+       $myvar =~ m/$source2(.*)/s; 
        $myvar = "$result$1"; 
      }
      else {
-       $myvar =~ s/$source/$target/; 
+       $myvar =~ s/$source2/$target2/; 
      }
      
    }

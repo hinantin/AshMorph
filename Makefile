@@ -2,11 +2,11 @@ DROPBOXPATH=/home/richard/Descargas/RCastroq/dropbox/Dropbox/05_Ashaninca/05_Mor
 TOKENIZERPATH=/home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions
 
 compile:
-	@rm -f n-vroot.prq.group1.foma | perl extractEntries.pl --file nroot.prq.foma --file nroot.es.foma --file aroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --file nroot.qu.foma --file oroot.prq.foma --outputfilename "n-vroot.prq.group1.foma" --flag "N@->V" --title "Verbalized entries" --header "NounToVerbPRQin" --replace 2 --source "\" : {" --target "+vbz.\" : {"
+	@rm -f n-vroot.prq.group1.foma | perl extractEntries.pl --file nroot.prq.foma --file nroot.es.foma --file aroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --file nroot.qu.foma --file oroot.prq.foma --outputfilename "n-vroot.prq.group1.foma" --flag "N@->V" --title "Verbalized entries" --header "NounToVerbPRQin" --replace2 1 --source2 "\" : {" --target2 "+vbz.\" : {"
 	@rm -f noun.cmp.prq.foma | perl extractEntries.pl --file nroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --outputfilename "noun.cmp.prq.foma" --flag "@CMP" --title "Compound nouns" --header "NRootCmpPRQin" --separator 1
-	@rm -f verb.composition.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.prq.foma" --flag "@VCMP" --title "Verb-noun composition / Noun incorporation" --header "V=S=noun" --separator 1 --replace 1 #--target " : [\"@EP\"|\"@LEN@\"]{"
+	@rm -f verb.composition.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.prq.foma" --flag "@VCMP" --title "Verb-noun composition / Noun incorporation" --header "V=S=noun" --separator 1 --replace1 1 #--target " : [\"@EP\"|\"@LEN@\"]{"
 	@rm -f verb.composition.len.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.len.prq.foma" --flag "@VCMP" --title "Verb-noun composition" --header "V=S=LEN=noun" --separator 1 #--replace 1 --target " : \"@LEN@\"{"
-	@rm -f verb.classifier.prq.foma | perl extractEntries.pl --file noun.suffix.prq.script --outputfilename "verb.classifier.prq.foma" --flag "@CL" --title "VERBAL CLASSIFIERS (VERB.CL)" --header "V=S=CL" --replace 1 
+	@rm -f verb.classifier.prq.foma | perl extractEntries.pl --file noun.suffix.prq.script --outputfilename "verb.classifier.prq.foma" --flag "@CL" --title "VERBAL CLASSIFIERS (VERB.CL)" --header "V=S=CL" --replace1 1 --replace2 1 --source2 "\+CL:" --target2 "+VERB.CL:"
 	@rm -f ideo.adbl.foma | bash ashaninkamorph.sh -q "test" 
 	@rm -f asheninka.bin ideoredupsyl.bin 
 	@xfst -f asheninka.script 
