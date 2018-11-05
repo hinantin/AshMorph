@@ -7,8 +7,8 @@
 define NRootPRQin [
 ! 
   "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
-| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V @VCMP 
-| "[=aane+m.][NRoot][=grandseer; grandfather (kin.of.a.male; ES: abuelo)]" : {aane} ! N@->V @VCMP 
+| "[=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male); grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
+| "[=aane+m.][NRoot][=grandseer; grandfather (kin.of.a.male; ES: abuelo); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
 ! 
 | "[=aaniri+m.+inal@ntsi.][NRoot][=orphan (ES: huérfano)]" : {aaniri} 
 ! 
