@@ -1432,13 +1432,13 @@ define NRootPRQin [
 | "[=tsantsakirentsi][NRoot][=long.arrow_tip (ES: flecha.con.punta.que.se.desgasta, punta.larga (presas:zúngaro,sábalo,paco))]" : {tsantsakirentsi}
 | "[=tsantsakiirentsi][NRoot][=long.arrow_tip (ES: flecha.con.punta.que.se.desgasta, punta.larga (presas:zúngaro,sábalo,paco))]" : {tsantsakiirentsi}
 ! 
-| "[=pontyakirontsi][NRoot][= (ES: flecha.con.varias.puntas, puntas.tridentes.sin.dientes)]" : {pontyakirontsi}
-| "[=ponchakirentsi][NRoot][= (ES: flecha.con.varias.puntas, puntas.tridentes.sin.dientes)]" : {ponchakirentsi}
+| "[=pontyakirontsi][NRoot][=arrow_tip (ES: flecha.con.varias.puntas, puntas.tridentes.sin.dientes)]" : {pontyakirontsi}
+| "[=ponchakirentsi][NRoot][=arrow_tip (ES: flecha.con.varias.puntas, puntas.tridentes.sin.dientes)]" : {ponchakirentsi}
 ! 
-| "[=tsatamento+inal@tsi.][NRoot][=(ES: punta.larga (no.necesita.de.un.arco.propulsor) (presas:carachama))]" : {tsatamento}
-| "[=sataamento+inal@tsi.][NRoot][=(ES: punta.larga (no.necesita.de.un.arco.propulsor) (presas:carachama))]" : {sataamento}
+| "[=tsatamento+inal@tsi.][NRoot][=arrow_tip (ES: punta.larga (no.necesita.de.un.arco.propulsor) (presas:carachama))]" : {tsatamento}
+| "[=sataamento+inal@tsi.][NRoot][=arrow_tip (ES: punta.larga (no.necesita.de.un.arco.propulsor) (presas:carachama))]" : {sataamento}
 ! 
-| "[=taarontsi][NRoot][=]" : {taarontsi}
+| "[=taarontsi][NRoot][=arrow_tip]" : {taarontsi}
 # ----------------------------------------------
 ! 
 | "[=kapironkari][NRoot][=deer-like.demon (ES: peyari.transformado.en.un.venado)]" : {kapironkari}
