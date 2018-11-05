@@ -3,8 +3,8 @@
 # -----------------
 define V=S=LEN=noun [ 
   "[--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
-| "[--][=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male)]" : {aani} ! N@->V @VCMP 
-| "[--][=aane+m.][NRoot][=grandseer; grandfather (kin.of.a.male; ES: abuelo)]" : {aane} ! N@->V @VCMP 
+| "[--][=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male); grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
+| "[--][=aane+m.][NRoot][=grandseer; grandfather (kin.of.a.male; ES: abuelo); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
 | "[--][=vako][NRoot][=hand (ES: mano)]" : {vako} ! @VCMP 
 | "[--][=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
