@@ -869,8 +869,8 @@ define VRootPRQin [
 ! 
 | "[=kotzi][VRoot][=to.walk.with.a.cane]" : {kotzi}
 ! 
-| "[=kov][VRoot][=to.want]" : {kov} 
-| "[=ko][VRoot][=to.want]" : {ko} 
+| "[=kov+INF@antsi.][VRoot][=to.want]" : {kov} 
+| "[=ko+INF@antsi.][VRoot][=to.want]" : {ko} 
 | "[=kov+MOD@REDUP.][VRoot][=to.want]::[=to.prefer.strongly]" : {kokov} 
 | "[=kov+MOD@REDUP.][VRoot][=to.want]::[=to.search]" : {kovakova} ! to.be.checked!!! ! \cite{payne:axininca:81}[pag. 144]
 ! 
