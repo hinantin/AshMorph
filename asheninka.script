@@ -101,7 +101,9 @@ TZEpenthesisRule8
       define VCausativeAgentiveRule1 [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{o}] _ [{a}] ]; 
       define VCausativeAgentiveRule2 [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{a}|{i}]"@VPERS@" _ [{a}] ]; 
       define CausativeAgentive [VCausativeAgentiveRule1 .o. VCausativeAgentiveRule2 ]; 
-
+      
+      define IrrealisMidVoiceEmpaRule1 [ e"@EP" (->) "@EP" || [{r}] _ [{empa}] ];  
+      
       ##########################
       #                        #
       #        Transitive      #
@@ -368,7 +370,7 @@ TZEpenthesisRule8
       ############################
       #      Verb transducer     #
       ############################
-      define Verb [ (Pref) [VRootPRQ] Suff ] .o. CausativeAgentive .o. Epenthesis .o. Lenition .o. VerbFeatRestr;
+      define Verb [ (Pref) [VRootPRQ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. Lenition .o. VerbFeatRestr;
       #define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Lenition .o. VerbFeatRestr;
       
       ##########################
