@@ -88,6 +88,8 @@
       define OYDiphthong1 [ {oi} (->) {oy} || [r] _ ]; ! add {n} ??? 
       # Mawoyni
       define OYDiphthong2 [ {oi} (->) {oy} || [v] _ ]; 
+      # Nokoy 
+      define OYDiphthong3 [ {oi} (->) {oy} || [k] _ ]; 
       # tilde (1) : ~ 
       define ATildeReplacement1 [ {an} (->) {ã} || _ [k|t] ];
       define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
@@ -107,7 +109,7 @@
 .o. QYReplacement1 .o. QYReplacement2 .o. RYReplacement1 
 .o. QUReplacement .o. CReplacement1 .o. CReplacement2  
 .o. AYDiphthong1 .o. AYDiphthong2 .o. AYDiphthong3 .o. AYDiphthong4 .o. AYDiphthong5 
-.o. OYDiphthong1 .o. OYDiphthong2 
+.o. OYDiphthong1 .o. OYDiphthong2 .o. OYDiphthong3 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
