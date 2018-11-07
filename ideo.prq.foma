@@ -1,113 +1,113 @@
-define IdeoPRQin [
+define Ideo:PRQin [
 # ---------------------------------------
 #        MONOSYLLABIC IDEOPHONE          
 # ---------------------------------------
 # pooo: abrupt-and-brusque.sound.made.by.a.loud.disabling.blow 
-  "[=poo][IdeoPRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : {poo}
-| "[=pooo][IdeoPRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : [{pooo}]
-| "[=poom][IdeoPRQ][=heavy.object.falling]" : [{poom}]
+  "[=poo][Ideo:PRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : {poo}
+| "[=pooo][Ideo:PRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : [{pooo}]
+| "[=poom][Ideo:PRQ][=heavy.object.falling]" : [{poom}]
 ! 
-| "[=poon][IdeoPRQ][=sound/action.of.birds.flying]" : {poon} 
+| "[=poon][Ideo:PRQ][=sound/action.of.birds.flying]" : {poon} 
 ! 
 # poooo:
 # a 1/2 liter soda_bottle 
-| "[=poooo+whistle.lang.][IdeoPRQ][=sound.of.a.(plastic).soda_bottle.exploding.due.to.the.preassure.from.the.masato.inside]" : {poooo} 
+| "[=poooo+whistle.lang.][Ideo:PRQ][=sound.of.a.(plastic).soda_bottle.exploding.due.to.the.preassure.from.the.masato.inside]" : {poooo} 
 ########
 #  pok  
 # - light object hitting a solid surface, without compromising the object’s integrity
-| "[=pok+s.redup.word][IdeoPRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pok}
-| "[=pook+s.redup.word][IdeoPRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pook}
+| "[=pok+s.redup.word][Ideo:PRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pok}
+| "[=pook+s.redup.word][Ideo:PRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pook}
 ! 
-| "[=eh+s.redup.word][IdeoPRQ][=action.of.swallowing]" : {eh}
+| "[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]" : {eh}
 ! 
-| "[=tee][IdeoPRQ][=action.of.hitting.a.human.body]" : {tee}
-| "[=te][IdeoPRQ][=action.of.hitting.a.human.body; action.of.hitting.sth./sb.without.deep.penetration][--][-k][+PUNCTUAL.ACTN]" : {tek}
+| "[=tee][Ideo:PRQ][=action.of.hitting.a.human.body]" : {tee}
+| "[=te][Ideo:PRQ][=action.of.hitting.a.human.body; action.of.hitting.sth./sb.without.deep.penetration][--][-k][+PUNCTUAL.ACTN]" : {tek}
 ! 
 # tak: 
 # - contact between a container and what fills it
 # - swelling throughout a body part
-| "[=tak+s.redup.word][IdeoPRQ][=crushing.cotton.or.manioc.mass; hitting.an.inanimate.object]" : {tak}
-| "[=tyak+s.redup.word][IdeoPRQ][=crushing/nailing.sth (e.g.: cotton.or.manioc.mass); hitting.an.inanimate.object; hammering.nails.into.wood; sound.of.splashing.water]" : {tyak}
+| "[=tak+s.redup.word][Ideo:PRQ][=crushing.cotton.or.manioc.mass; hitting.an.inanimate.object]" : {tak}
+| "[=tyak+s.redup.word][Ideo:PRQ][=crushing/nailing.sth (e.g.: cotton.or.manioc.mass); hitting.an.inanimate.object; hammering.nails.into.wood; sound.of.splashing.water]" : {tyak}
 ! 
 | "[=tyak+whistle.lang.][IdeoCJO][=action.of.hitting.sth./sb.]" : {tyak} 
 ! 
-| "[=tek+s.redup.word][IdeoPRQ][=running.briskly; sound/action.of.sb./sth.running (ES: sonido/acción.de.algo/algn.corriendo)]" : {tek} ! \cite[p\'{a}g. 36]{anderson:cuentos:85}
-| "[=tok+s.redup.word][IdeoPRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting.(a.solid.substance)]" : {tok}
+| "[=tek+s.redup.word][Ideo:PRQ][=running.briskly; sound/action.of.sb./sth.running (ES: sonido/acción.de.algo/algn.corriendo)]" : {tek} ! \cite[p\'{a}g. 36]{anderson:cuentos:85}
+| "[=tok+s.redup.word][Ideo:PRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting.(a.solid.substance)]" : {tok}
 ! 
-| "[=she+s.redup.word][IdeoPRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)]" : {she}
-| "[=she+s.redup.word][IdeoPRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)][--][-k][+PUNCTUAL.ACTN]" : {shek}
+| "[=she+s.redup.word][Ideo:PRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)]" : {she}
+| "[=she+s.redup.word][Ideo:PRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)][--][-k][+PUNCTUAL.ACTN]" : {shek}
 ! 
-| "[=shek+s.redup.word][IdeoPRQ][=moving/walking.quickly/fast]" : {shek}
+| "[=shek+s.redup.word][Ideo:PRQ][=moving/walking.quickly/fast]" : {shek}
 ! 
-| "[=sooo][IdeoPRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {sooo}
-| "[=sooo][IdeoPRQ][=IDEO]" : {sooo}
-| "[=soooo][IdeoPRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {soooo}
+| "[=sooo][Ideo:PRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {sooo}
+| "[=sooo][Ideo:PRQ][=IDEO]" : {sooo}
+| "[=soooo][Ideo:PRQ][=pouring.rain, heavy.rainfall; sound.of.the.heavy.rainfall.hitting.the.surface]" : {soooo}
 ! 
-| "[=chaa][IdeoPRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaa}
-| "[=chaaaa][IdeoPRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaaaa}
+| "[=chaa][Ideo:PRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaa}
+| "[=chaaaa][Ideo:PRQ][=roaring.waterfall; sound.of.a.cascading.waterfall]" : {chaaaa}
 ! 
-| "[=chaa][IdeoPRQ][=heavy.object.falling]" : {chaa}
-| "[=chaak][IdeoPRQ][=heavy.object.falling]" : {chaak}
+| "[=chaa][Ideo:PRQ][=heavy.object.falling]" : {chaa}
+| "[=chaak][Ideo:PRQ][=heavy.object.falling]" : {chaak}
 ! 
-| "[=shee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream; a.quick.release.from.pain (e.g.: headache)]" : {shee}
-| "[=sheee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheee}
-| "[=sheeee][IdeoPRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheeee}
+| "[=shee][Ideo:PRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream; a.quick.release.from.pain (e.g.: headache)]" : {shee}
+| "[=sheee][Ideo:PRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheee}
+| "[=sheeee][Ideo:PRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheeee}
 ! 
-| "[=chee][IdeoPRQ][=heavy_rainfall/large_waterfall; action.of.jumping/making_a_big_leap]" : {chee}
+| "[=chee][Ideo:PRQ][=heavy_rainfall/large_waterfall; action.of.jumping/making_a_big_leap]" : {chee}
 ! 
-| "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle; sound.of.a.discharged.gun]" : {too}
-| "[=too][IdeoPRQ][=gunfire, sound.produced.by.a.firing.rifle; sound.of.a.discharged.gun][--][-k][+PUNCTUAL.ACTN]::[=sound.of.a.discharged.gun]" : {took}
+| "[=too][Ideo:PRQ][=gunfire, sound.produced.by.a.firing.rifle; sound.of.a.discharged.gun]" : {too}
+| "[=too][Ideo:PRQ][=gunfire, sound.produced.by.a.firing.rifle; sound.of.a.discharged.gun][--][-k][+PUNCTUAL.ACTN]::[=sound.of.a.discharged.gun]" : {took}
 | "[=tooog+whistle.lang.][IdeoCJO][=sound.of.gunfire/machine_gun_shoot]" : {tooog}
 ! 
-| "[=tang][IdeoPRQ][=bell.ringing; sound.of_the_church_bell/of_coin/of_can.fallen.on.the_ground]" : {tang}
+| "[=tang][Ideo:PRQ][=bell.ringing; sound.of_the_church_bell/of_coin/of_can.fallen.on.the_ground]" : {tang}
 ! 
-| "[=tong][IdeoPRQ][=sound.of.an_arrow.which.reached.the_bottom.of.a.hollow.underground.cavity]" : {tong}
+| "[=tong][Ideo:PRQ][=sound.of.an_arrow.which.reached.the_bottom.of.a.hollow.underground.cavity]" : {tong}
 ! 
-| "[=ting][IdeoPRQ][=breaking.wind (for.young.females)]" : {ting}
-| "[=teng][IdeoPRQ][=sound.of.a_fart, breaking.wind (for.young.females)]" : {teng}
-| "[=tang][IdeoPRQ][=breaking.wind (for.young.females)]" : {tang}
+| "[=ting][Ideo:PRQ][=breaking.wind (for.young.females)]" : {ting}
+| "[=teng][Ideo:PRQ][=sound.of.a_fart, breaking.wind (for.young.females)]" : {teng}
+| "[=tang][Ideo:PRQ][=breaking.wind (for.young.females)]" : {tang}
 ! 
-| "[=shoi+s.redup.word][IdeoPRQ][=twisting.movement (e.g.: bottle.cap); object's.circular.movement.around.another.object (e.g.: walking.in.circles)]" : {shoi}
+| "[=shoi+s.redup.word][Ideo:PRQ][=twisting.movement (e.g.: bottle.cap); object's.circular.movement.around.another.object (e.g.: walking.in.circles)]" : {shoi}
 ! 
-| "[=pak][IdeoPRQ][=heavy.object.falling.down/on_the_ground]" : {pak}
-| "[=pak+s.redup.word][IdeoPRQ][=giving.strong.blows.to.human_body; delivering.devastating.blows, bludgeoning.sb/sth.with.sth.]" : {pak}
+| "[=pak][Ideo:PRQ][=heavy.object.falling.down/on_the_ground]" : {pak}
+| "[=pak+s.redup.word][Ideo:PRQ][=giving.strong.blows.to.human_body; delivering.devastating.blows, bludgeoning.sb/sth.with.sth.]" : {pak}
 ! 
-| "[=vea+s.redup.word][IdeoPRQ][=many.people.talking]" : {vea}
+| "[=vea+s.redup.word][Ideo:PRQ][=many.people.talking]" : {vea}
 ! 
-| "[=chok][IdeoPRQ][=splashing.water]" : {chok}
-| "[=penk+s.redup.word][IdeoPRQ][=dispersing.sth., strewing.sth. (soil, grain)]" : {penk}
+| "[=chok][Ideo:PRQ][=splashing.water]" : {chok}
+| "[=penk+s.redup.word][Ideo:PRQ][=dispersing.sth., strewing.sth. (soil, grain)]" : {penk}
 ! 
-| "[=naa][IdeoPRQ][=chew]" : {naa}
+| "[=naa][Ideo:PRQ][=chew]" : {naa}
 ! 
-| "[=shii+s.redup.word][IdeoPRQ][=noise.made.by.a_cicada]" : {shii}
+| "[=shii+s.redup.word][Ideo:PRQ][=noise.made.by.a_cicada]" : {shii}
 ! 
-| "[=shishsh][IdeoPRQ][=trickle.of.urine (refers.to.babies'.urination.only)]" : {shishsh}
+| "[=shishsh][Ideo:PRQ][=trickle.of.urine (refers.to.babies'.urination.only)]" : {shishsh}
 ! 
-| "[=shik+s.redup.word][IdeoPRQ][=action.of.removing.fish_scales.with.a.scraper]" : {shik}
+| "[=shik+s.redup.word][Ideo:PRQ][=action.of.removing.fish_scales.with.a.scraper]" : {shik}
 ! 
-| "[=chak][IdeoPRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash; action.of.quickly.pouring.water.into.a_receptacle]" : {chak} 
+| "[=chak][Ideo:PRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash; action.of.quickly.pouring.water.into.a_receptacle]" : {chak} 
 ! 
-| "[=shei+s.redup.word][IdeoPRQ][=sawing.wood; cutting.action]" : {shei} 
+| "[=shei+s.redup.word][Ideo:PRQ][=sawing.wood; cutting.action]" : {shei} 
 ! 
-| "[=ha+redup.word][IdeoPRQ][=laughing]" : {ha} 
+| "[=ha+redup.word][Ideo:PRQ][=laughing]" : {ha} 
 ! 
-| "[=hi+redup.word][IdeoPRQ][=chuckling]" : {hi} 
+| "[=hi+redup.word][Ideo:PRQ][=chuckling]" : {hi} 
 ! 
-| "[=he+redup.word][IdeoPRQ][=men.laughing]" : {he} 
-| "[=heee+redup.word][IdeoPRQ][=men.laughing]" : {heee} 
-| "[=ho+redup.word][IdeoPRQ][=women.laughing]" : {ho} 
-| "[=hooo+redup.word][IdeoPRQ][=women.laughing]" : {hooo} 
-| "[=hohoo][IdeoPRQ][=women.laughing]" : {hohoo} 
+| "[=he+redup.word][Ideo:PRQ][=men.laughing]" : {he} 
+| "[=heee+redup.word][Ideo:PRQ][=men.laughing]" : {heee} 
+| "[=ho+redup.word][Ideo:PRQ][=women.laughing]" : {ho} 
+| "[=hooo+redup.word][Ideo:PRQ][=women.laughing]" : {hooo} 
+| "[=hohoo][Ideo:PRQ][=women.laughing]" : {hohoo} 
 ! 
-| "[=hoo][IdeoPRQ][=sound.of.a.big.splash]" : {hoo} 
+| "[=hoo][Ideo:PRQ][=sound.of.a.big.splash]" : {hoo} 
 ! 
-| "[=hooo+redup.word][IdeoPRQ][=sound.made.by.a.human.calling.a.dog]" : {hooo} 
+| "[=hooo+redup.word][Ideo:PRQ][=sound.made.by.a.human.calling.a.dog]" : {hooo} 
 ! 
-| "[=hei][IdeoPRQ][=sound/action.of.screaming.loudly]" : {hei} 
+| "[=hei][Ideo:PRQ][=sound/action.of.screaming.loudly]" : {hei} 
 ! 
-| "[=te+redup.word][IdeoPRQ][=action.of.swirl.in.the.river; swirling.movement.of.water; sound.of.a.bubbling.whirlpool]" : {te} 
+| "[=te+redup.word][Ideo:PRQ][=action.of.swirl.in.the.river; swirling.movement.of.water; sound.of.a.bubbling.whirlpool]" : {te} 
 ! 
-| "[=shi+redup.word][IdeoPRQ][=action.of.instructing.sb.to.stoically.endure.pain; action.of.warning.sb.not.to.cry; action.of.making.grimaces.caused.by.pain]" : {shi} 
+| "[=shi+redup.word][Ideo:PRQ][=action.of.instructing.sb.to.stoically.endure.pain; action.of.warning.sb.not.to.cry; action.of.making.grimaces.caused.by.pain]" : {shi} 
 ! 
 #| "[=eeee+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eeee} 
 #| "[=eee+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eee} ! \cite[pag. 84]{anderson:cuentos:85}
@@ -116,7 +116,7 @@ define IdeoPRQin [
 ! 
 | "[=hmm][Ideo][=onomatope.mimicking.the.jaguar.roar; sound.of.a.jaguar]" : [{jmm}|{hmm}]
 | "[=hmmm][Ideo][=onomatope.mimicking.the.jaguar.roar; sound.of.a.jaguar]" : [{jmmm}|{hmmm}]
-| "[=homm][IdeoPRQ][=sound.of.a.jaguar's.roar; the.bone.spirit's.call]" : {homm}
+| "[=homm][Ideo:PRQ][=sound.of.a.jaguar's.roar; the.bone.spirit's.call]" : {homm}
 ! 
 | "[=ho+redup.word+whistle.lang.][IdeoCJO][=sound.of.wings.flying; sound.of.sth.that.comes.flying]" : {ho} 
 ! 
@@ -133,276 +133,276 @@ define IdeoPRQin [
 # tsok: un hacha o similar contra la madera, cortar madera
 | "[=tsok+whistle.lang.][IdeoCJO][=sound.of.a_hatchet-like/hatchet.against.wood; sound.of.cutting.wood]" : {tsok} 
 ! 
-| "[=kin+s.redup.word][IdeoPRQ][=sound.of.a.crying.baby.snake]" : {kin} 
+| "[=kin+s.redup.word][Ideo:PRQ][=sound.of.a.crying.baby.snake]" : {kin} 
 ! 
-| "[=muu+s.redup.word][IdeoPRQ][=sound.of.a.cow]" : {muu} 
+| "[=muu+s.redup.word][Ideo:PRQ][=sound.of.a.cow]" : {muu} 
 ! 
-| "[=tin+s.redup.word][IdeoPRQ][=sound.of.a.tambor]" : {tin} 
-| "[=tem+s.redup.word][IdeoPRQ][=sound/action.of.playing.the.drums (ES: sonido.producido.al.tocar.el.tambor)]" : {tem} 
+| "[=tin+s.redup.word][Ideo:PRQ][=sound.of.a.tambor]" : {tin} 
+| "[=tem+s.redup.word][Ideo:PRQ][=sound/action.of.playing.the.drums (ES: sonido.producido.al.tocar.el.tambor)]" : {tem} 
 ! 
-| "[=koi+s.redup.word][IdeoPRQ][=action.of.selecting.sth.one_by_one (ES: acción.de.escoger.uno.por.uno)]" : {koi} 
+| "[=koi+s.redup.word][Ideo:PRQ][=action.of.selecting.sth.one_by_one (ES: acción.de.escoger.uno.por.uno)]" : {koi} 
 ! 
-| "[=sook+s.redup.word][IdeoPRQ][=sound/action.of.sb./sth.sniffing (ES: sonido/acción.de.algo./algn.olfateando)]" : {sook} 
+| "[=sook+s.redup.word][Ideo:PRQ][=sound/action.of.sb./sth.sniffing (ES: sonido/acción.de.algo./algn.olfateando)]" : {sook} 
 ! 
 | "[=teem+s.redup.word][Ideo][=sound/action.of.touching.the.ground.with.force (ES: pisotear/golpear.el.suelo)]" : {teem} 
 ! 
-| "[=tso+s.redup.word][IdeoPRQ][=action.of.spitting.sth. (e.g.: blood))]" : {tso} 
+| "[=tso+s.redup.word][Ideo:PRQ][=action.of.spitting.sth. (e.g.: blood))]" : {tso} 
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
-| "[=tsapo+s.redup.word][IdeoPRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour; water.slowly.filling.a_canoe]" : {tsapo}
-| "[=tsapon][IdeoPRQ][=action.of.falling.into.water; splash.produced.by.the.fall.of.a.heavy.object]" : {tsapon} 
-| "[=tsapo^k][IdeoPRQ][=falling.into.water; punctual.action.of.shallow.splash.caused.by.the_light.object's.fall.into.the_water]" : {tsapok}
+| "[=tsapo+s.redup.word][Ideo:PRQ][=producing.small.splash.when.swimming.in.river; continuous.action.of.splashing.the_water.while.filling.the_gour; water.slowly.filling.a_canoe]" : {tsapo}
+| "[=tsapon][Ideo:PRQ][=action.of.falling.into.water; splash.produced.by.the.fall.of.a.heavy.object]" : {tsapon} 
+| "[=tsapo^k][Ideo:PRQ][=falling.into.water; punctual.action.of.shallow.splash.caused.by.the_light.object's.fall.into.the_water]" : {tsapok}
 ! 
-| "[=mako+s.redup.word][IdeoPRQ][=water.level.rising.quickly.in.river; slowly.rising.water.level.in.the_river]" : {mako}
+| "[=mako+s.redup.word][Ideo:PRQ][=water.level.rising.quickly.in.river; slowly.rising.water.level.in.the_river]" : {mako}
 ! 
-| "[=tziri+redup.word][IdeoPRQ][=action.of.rubbing.sth. (ES: acción.de.untar.algo)]" : {tziri}
-| "[=tziri][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities]" : {tziri}
-| "[=tziri][IdeoPRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities][--][-k][+PUNCTUAL.ACTN]" : {tzirik}
+| "[=tziri+redup.word][Ideo:PRQ][=action.of.rubbing.sth. (ES: acción.de.untar.algo)]" : {tziri}
+| "[=tziri][Ideo:PRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities]" : {tziri}
+| "[=tziri][Ideo:PRQ][=painting.a.house; sticking.a.bandage; taking.a.picture; adhesive.contact.between.two.entities][--][-k][+PUNCTUAL.ACTN]" : {tzirik}
 ! 
-| "[=tsomi+s.redup.word][IdeoPRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
+| "[=tsomi+s.redup.word][Ideo:PRQ][=woman.walking.with.bouncing.breasts]" : {tsomi}
 ! 
-| "[=shipik][IdeoPRQ][=getting.hold.of.an_object; grabbing.moving.object]" : {shipik}
+| "[=shipik][Ideo:PRQ][=getting.hold.of.an_object; grabbing.moving.object]" : {shipik}
 ! 
-| "[=shepi+s.redup.word][IdeoPRQ][=filling.mouth.with.food]" : {shepi}
-| "[=shepi+s.redup.word][IdeoPRQ][=blocking.the_waterstream.with.dry.leaves.and.stones (creating.a.dam)]" : {shepi}
-| "[=shepi][IdeoPRQ][=action.of.snatching.sth.in.the.air]" : {shepi}
+| "[=shepi+s.redup.word][Ideo:PRQ][=filling.mouth.with.food]" : {shepi}
+| "[=shepi+s.redup.word][Ideo:PRQ][=blocking.the_waterstream.with.dry.leaves.and.stones (creating.a.dam)]" : {shepi}
+| "[=shepi][Ideo:PRQ][=action.of.snatching.sth.in.the.air]" : {shepi}
 ! 
-| "[=koma+s.redup.word][IdeoPRQ][=paddling.canoe; moving.a_canoe.with.a_paddle]" : {koma}
+| "[=koma+s.redup.word][Ideo:PRQ][=paddling.canoe; moving.a_canoe.with.a_paddle]" : {koma}
 | "[=tsok+s.redup.word][Ideo][=sound/action.of.paddling]" : {tsok}
 ! 
-| "[=chiki+s.redup.word][IdeoPRQ][=cutting.tree(s); striking_(soft)_ground/digging.with.a.machete]" : {chiki}
-| "[=chiki+s.redup.word][IdeoPRQ][=spatially.distributed.appearance.of.localized.body.swelling (result.of.an.insect_bite)]" : {chiki}
+| "[=chiki+s.redup.word][Ideo:PRQ][=cutting.tree(s); striking_(soft)_ground/digging.with.a.machete]" : {chiki}
+| "[=chiki+s.redup.word][Ideo:PRQ][=spatially.distributed.appearance.of.localized.body.swelling (result.of.an.insect_bite)]" : {chiki}
 ! 
-| "[=motek][IdeoPRQ][=bouncing.off.surface (e.g.: round.object,ball); light.object.falling (e.g.: fruit)]" : {motek}
-| "[=pote][IdeoPRQ][=slowly.trickling.drops.of.liquid]" : {pote}
+| "[=motek][Ideo:PRQ][=bouncing.off.surface (e.g.: round.object,ball); light.object.falling (e.g.: fruit)]" : {motek}
+| "[=pote][Ideo:PRQ][=slowly.trickling.drops.of.liquid]" : {pote}
 
-| "[=tsimpak][IdeoPRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
+| "[=tsimpak][Ideo:PRQ][=sound.of.convulsions.of.agonizing.human.body]" : {tsimpak}
 ! 
-| "[=tzinik+s.redup.word][IdeoPRQ][=grab.sth.tightly; stop; be.still; lack.of.movement, complete.stativity.of.action, complete.lack.of.movement]" : {tzinik}
-| "[=tzinik+s.redup.word][IdeoPRQ][=IDEO]" : {tzinik}
+| "[=tzinik+s.redup.word][Ideo:PRQ][=grab.sth.tightly; stop; be.still; lack.of.movement, complete.stativity.of.action, complete.lack.of.movement]" : {tzinik}
+| "[=tzinik+s.redup.word][Ideo:PRQ][=IDEO]" : {tzinik}
 ! 
-| "[=tirek][IdeoPRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
-| "[=shemi][IdeoPRQ][=sucking.on.bones]" : {shemi}
-| "[=shemi+s.redup.word][IdeoPRQ][=pounding.a.hard.substance (e.g.: raw.roots, nuts)]" : {shemi}
+| "[=tirek][Ideo:PRQ][=sound.of.heavy.load.falling.on.surface]" : {tirek}
+| "[=shemi][Ideo:PRQ][=sucking.on.bones]" : {shemi}
+| "[=shemi+s.redup.word][Ideo:PRQ][=pounding.a.hard.substance (e.g.: raw.roots, nuts)]" : {shemi}
 ! 
-| "[=more][IdeoPRQ][=flashing.light; burning (fire)]" : {more}
-| "[=mori][IdeoPRQ][=flashing.light; burning (fire)]" : {mori}
-| "[=more][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]::[=action.of.a.flash.of.lightning.illuminating]" : {morek}
-| "[=mori][IdeoPRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]::[=action.of.a.flash.of.lightning.illuminating]" : {morik}
+| "[=more][Ideo:PRQ][=flashing.light; burning (fire)]" : {more}
+| "[=mori][Ideo:PRQ][=flashing.light; burning (fire)]" : {mori}
+| "[=more][Ideo:PRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]::[=action.of.a.flash.of.lightning.illuminating]" : {morek}
+| "[=mori][Ideo:PRQ][=flashing.light; burning (fire); burning.out.completely (completive.event)][--][-k][+PUNCTUAL.ACTN]::[=action.of.a.flash.of.lightning.illuminating]" : {morik}
 ! 
-| "[=tako][IdeoPRQ][=water.level.rising.in.river]" : {tako}
+| "[=tako][Ideo:PRQ][=water.level.rising.in.river]" : {tako}
 ! 
-| "[=peta+s.redup.word][IdeoPRQ][=action.of.bird.wings.flapping (ES: acción.de.las.aves/palomas.volando?); sound.of.diarrhea, having.diarrhea]" : {peta}
-| "[=petak+s.redup.word][IdeoPRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event; fanning.the_fire.with.a_fan]" : {petak}
+| "[=peta+s.redup.word][Ideo:PRQ][=action.of.bird.wings.flapping (ES: acción.de.las.aves/palomas.volando?); sound.of.diarrhea, having.diarrhea]" : {peta}
+| "[=petak+s.redup.word][Ideo:PRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event; fanning.the_fire.with.a_fan]" : {petak}
 ! 
-| "[=pite+s.redup.word][IdeoPRQ][=trickling.stream; liquid.falling.in.drops]" : {pite}
-| "[=pite+s.redup.word][IdeoPRQ][=trickling.stream; liquid.falling.in.drops][--][-k][+PUNCTUAL.ACTN]" : {pitek}
+| "[=pite+s.redup.word][Ideo:PRQ][=trickling.stream; liquid.falling.in.drops]" : {pite}
+| "[=pite+s.redup.word][Ideo:PRQ][=trickling.stream; liquid.falling.in.drops][--][-k][+PUNCTUAL.ACTN]" : {pitek}
 ! 
-| "[=shiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shiri} 
-| "[=shiri+s.redup.word][IdeoPRQ][=cricket.sound; (slowly).climbing.up.a_tree; wiping.tears.from.the.face]" : {shiri} 
-| "[=shikiri+s.redup.word][IdeoPRQ][=dry.leaves.rustling]" : {shikiri}
+| "[=shiri+s.redup.word][Ideo:PRQ][=dry.leaves.rustling]" : {shiri} 
+| "[=shiri+s.redup.word][Ideo:PRQ][=cricket.sound; (slowly).climbing.up.a_tree; wiping.tears.from.the.face]" : {shiri} 
+| "[=shikiri+s.redup.word][Ideo:PRQ][=dry.leaves.rustling]" : {shikiri}
 ! 
 # ES: sonido de una persona que atraviesa una quebrada con bajo nivel de agua 
 # to.wade : to walk with an effort through sth. especially water or mud 
-| "[=shiri+s.redup.word+whistle.lang.][IdeoPRQ][=sound.of.a.person.wading.across.a_ravine.with.low_water_level]" : {shiri} 
+| "[=shiri+s.redup.word+whistle.lang.][Ideo:PRQ][=sound.of.a.person.wading.across.a_ravine.with.low_water_level]" : {shiri} 
 ! 
-| "[=terong][IdeoPRQ][=drumming; sound.of.a.drum]" : {terong} 
+| "[=terong][Ideo:PRQ][=drumming; sound.of.a.drum]" : {terong} 
 ! 
-| "[=moro+s.redup.word][IdeoPRQ][=sound/action.of.chewing (ES: sonido/acción.de.masticar)]" : {moro} 
+| "[=moro+s.redup.word][Ideo:PRQ][=sound/action.of.chewing (ES: sonido/acción.de.masticar)]" : {moro} 
 ! 
-| "[=morok][IdeoPRQ][=sensation.of.an_arrow.hitting.a_body]" : {morok} 
-| "[=morok+s.redup.word][IdeoPRQ][=action.of.penetrating.a.hard.substance]" : {morok} 
+| "[=morok][Ideo:PRQ][=sensation.of.an_arrow.hitting.a_body]" : {morok} 
+| "[=morok+s.redup.word][Ideo:PRQ][=action.of.penetrating.a.hard.substance]" : {morok} 
 ! 
-| "[=tsatsik][IdeoPRQ][=bursting.of.a_thread]" : {tsatsik} 
-| "[=cheket][IdeoPRQ][=punctual.action.of.penetrating.an_object (arrow.hitting.human.body, spider.biting.into.flesh)]" : {cheket} 
+| "[=tsatsik][Ideo:PRQ][=bursting.of.a_thread]" : {tsatsik} 
+| "[=cheket][Ideo:PRQ][=punctual.action.of.penetrating.an_object (arrow.hitting.human.body, spider.biting.into.flesh)]" : {cheket} 
 ! 
-| "[=shepi][IdeoPRQ][=grabbing.a_moving_object/an_object_in_the_air]" : {shepi} 
-| "[=shepik][IdeoPRQ][=grabbing.a_moving_object/an_object_in_the_air]" : {shepik} 
+| "[=shepi][Ideo:PRQ][=grabbing.a_moving_object/an_object_in_the_air]" : {shepi} 
+| "[=shepik][Ideo:PRQ][=grabbing.a_moving_object/an_object_in_the_air]" : {shepik} 
 ! 
-| "[=panek+s.redup.word][IdeoPRQ][=digging.soil.in.scoops]" : {panek} 
+| "[=panek+s.redup.word][Ideo:PRQ][=digging.soil.in.scoops]" : {panek} 
 ! 
 # kori: quiet.sound.made.in.the.throat.during.the.action.of.gulping.water
-| "[=kori+s.redup.word][IdeoPRQ][=action.of.continuously.gulping.water; swallowing.liquid; action.of.gulping.a.drink]" : {kori} 
-| "[=kori][IdeoPRQ][=action.of.gulping.water.once; swallowing.liquid; action.of.gulping.a.drink][--][-k][+PUNCTUAL.ACTN]" : {korik} 
+| "[=kori+s.redup.word][Ideo:PRQ][=action.of.continuously.gulping.water; swallowing.liquid; action.of.gulping.a.drink]" : {kori} 
+| "[=kori][Ideo:PRQ][=action.of.gulping.water.once; swallowing.liquid; action.of.gulping.a.drink][--][-k][+PUNCTUAL.ACTN]" : {korik} 
 ! 
-| "[=chek+s.redup.word][IdeoPRQ][=chopping.wood/trees/shrub]" : {chek} 
-| "[=cheek+s.redup.word][IdeoPRQ][=chopping.wood/trees/shrub]" : {cheek} 
-| "[=cheki+s.redup.word][IdeoPRQ][=repeated.cutting.action; chopping.wood/trees/shrub]" : {cheki} 
-| "[=cheki][IdeoPRQ][=making.a_cut][--][-k][+PUNCTUAL.ACTN]::[=punctual.action.of.making.a_cut]" : {chekik} ! 
+| "[=chek+s.redup.word][Ideo:PRQ][=chopping.wood/trees/shrub]" : {chek} 
+| "[=cheek+s.redup.word][Ideo:PRQ][=chopping.wood/trees/shrub]" : {cheek} 
+| "[=cheki+s.redup.word][Ideo:PRQ][=repeated.cutting.action; chopping.wood/trees/shrub]" : {cheki} 
+| "[=cheki][Ideo:PRQ][=making.a_cut][--][-k][+PUNCTUAL.ACTN]::[=punctual.action.of.making.a_cut]" : {chekik} ! 
 ! 
-| "[=tyakik][IdeoPRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
+| "[=tyakik][Ideo:PRQ][=punctual.action.of.crushing.an_object]" : {tyakik} 
 ! 
-| "[=piche][IdeoPRQ][=chewing.manioc; action.of.chewing]" : {piche} 
-| "[=piche+s.redup.word][IdeoPRQ][=rubbing.leaves.between.one's.hands.to.produce.a.mass_with_medicinal_juice; grinding.a.hard.substance (e.g.: tree-barks, twigs)]" : {piche} 
-| "[=pichek][IdeoPRQ][=punctual.action.of.slapping.water; light.splash.produced.by.walking.in.or.diving.into.water]" : {pichek} 
+| "[=piche][Ideo:PRQ][=chewing.manioc; action.of.chewing]" : {piche} 
+| "[=piche+s.redup.word][Ideo:PRQ][=rubbing.leaves.between.one's.hands.to.produce.a.mass_with_medicinal_juice; grinding.a.hard.substance (e.g.: tree-barks, twigs)]" : {piche} 
+| "[=pichek][Ideo:PRQ][=punctual.action.of.slapping.water; light.splash.produced.by.walking.in.or.diving.into.water]" : {pichek} 
 ! 
-| "[=miha+s.redup.word][IdeoPRQ][=jumping.like.a_deer]" : {miha} 
+| "[=miha+s.redup.word][Ideo:PRQ][=jumping.like.a_deer]" : {miha} 
 ! 
-| "[=chinte][IdeoPRQ][=leaping.like.a_deer]" : {chinte} 
-| "[=chinte][IdeoPRQ][=leaping.like.a_deer][--][-k][+PUNCTUAL.ACTN]" : {chintek} 
-| "[=chente][IdeoPRQ][=leaping.like.a_deer][--][-k][+PUNCTUAL.ACTN]" : {chentek} 
+| "[=chinte][Ideo:PRQ][=leaping.like.a_deer]" : {chinte} 
+| "[=chinte][Ideo:PRQ][=leaping.like.a_deer][--][-k][+PUNCTUAL.ACTN]" : {chintek} 
+| "[=chente][Ideo:PRQ][=leaping.like.a_deer][--][-k][+PUNCTUAL.ACTN]" : {chentek} 
 ! 
-| "[=chinte+s.redup.word][IdeoPRQ][=woman.walking.in.high.heels]" : {chinte}
-| "[=chinteki+s.redup.word][IdeoPRQ][=woman.walking.in.high.heels]" : {chinteki} 
+| "[=chinte+s.redup.word][Ideo:PRQ][=woman.walking.in.high.heels]" : {chinte}
+| "[=chinteki+s.redup.word][Ideo:PRQ][=woman.walking.in.high.heels]" : {chinteki} 
 ! 
-| "[=macho+s.redup.word][IdeoPRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
+| "[=macho+s.redup.word][Ideo:PRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
 ! 
-| "[=moye+s.redup.word][IdeoPRQ][=boiling.water.which.is.moving.in.circles.in.a_pot; water.boiling.in.a_pot; general.body.ache, have.bodily.pain]" : {moye} 
+| "[=moye+s.redup.word][Ideo:PRQ][=boiling.water.which.is.moving.in.circles.in.a_pot; water.boiling.in.a_pot; general.body.ache, have.bodily.pain]" : {moye} 
 ! 
-| "[=tire][IdeoPRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
+| "[=tire][Ideo:PRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
 ! 
-| "[=shero][IdeoPRQ][=slipping.and.falling.on.the_surface]" : {shero} 
+| "[=shero][Ideo:PRQ][=slipping.and.falling.on.the_surface]" : {shero} 
 ! 
-| "[=tapo+s.redup.word][IdeoPRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
-| "[=tapo+s.redup.word][IdeoPRQ][=leaping.like.a_frog]" : {tapo}
+| "[=tapo+s.redup.word][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
+| "[=tapo+s.redup.word][Ideo:PRQ][=leaping.like.a_frog]" : {tapo}
 ! 
-| "[=vanik][IdeoPRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
+| "[=vanik][Ideo:PRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
 ! 
-| "[=tsarak][IdeoPRQ][=loud.fart, breaking.wind.loudly (for.adult.women)]" : {tsarak} 
+| "[=tsarak][Ideo:PRQ][=loud.fart, breaking.wind.loudly (for.adult.women)]" : {tsarak} 
 ! 
-| "[=ahak+s.redup.word][IdeoPRQ][=sneezing; coughing; action.of.loud.expectoration.of.spittle]" : {ahak} 
+| "[=ahak+s.redup.word][Ideo:PRQ][=sneezing; coughing; action.of.loud.expectoration.of.spittle]" : {ahak} 
 ! 
-| "[=atzik+s.redup.word][IdeoPRQ][=sneezing]" : {atzik} 
+| "[=atzik+s.redup.word][Ideo:PRQ][=sneezing]" : {atzik} 
 ! 
-| "[=peke+s.redup.word][IdeoPRQ][=sound.of.a.motor.boat]" : {peke} 
+| "[=peke+s.redup.word][Ideo:PRQ][=sound.of.a.motor.boat]" : {peke} 
 ! 
-| "[=tsopak][IdeoPRQ][=sudden.forceful.detachment.of.one.entity.from.another; slipping.off.due.to.a.forceful.action (e.g.: a_sandal.slipping.off.a.foot.while.it.kicks.a_ball, falling.teeth)]" : {tsopak} 
+| "[=tsopak][Ideo:PRQ][=sudden.forceful.detachment.of.one.entity.from.another; slipping.off.due.to.a.forceful.action (e.g.: a_sandal.slipping.off.a.foot.while.it.kicks.a_ball, falling.teeth)]" : {tsopak} 
 ! 
-| "[=sori+s.redup.word][IdeoPRQ][=filling.a.container.with.some.substance; eruption.of.sores/pockmarks.on.the.skin (accompanied.by.swelling; probably.caused.by.smallpox)]" : {sori} 
+| "[=sori+s.redup.word][Ideo:PRQ][=filling.a.container.with.some.substance; eruption.of.sores/pockmarks.on.the.skin (accompanied.by.swelling; probably.caused.by.smallpox)]" : {sori} 
 ! 
-| "[=vako+s.redup.word][IdeoPRQ][=human.actor.continuously.waving.with.a.folded.hand; waving.with.a.folded.hand.signaling.an_intention.to.talk]" : {vako} 
+| "[=vako+s.redup.word][Ideo:PRQ][=human.actor.continuously.waving.with.a.folded.hand; waving.with.a.folded.hand.signaling.an_intention.to.talk]" : {vako} 
 ! 
-| "[=sakiri+s.redup.word][IdeoPRQ][=moving.in.a.straight.line (e.g.: meteorite.trajectory); filing.down.an_arrow]" : {sakiri} 
+| "[=sakiri+s.redup.word][Ideo:PRQ][=moving.in.a.straight.line (e.g.: meteorite.trajectory); filing.down.an_arrow]" : {sakiri} 
 ! 
-| "[=koshe+s.redup.word][IdeoPRQ][=shaving.in.long.strips; removing.strips.of.surface.with.a.machete/knife/razor; scraping.a.thin.layer.from.a.surface]" : {koshe} 
+| "[=koshe+s.redup.word][Ideo:PRQ][=shaving.in.long.strips; removing.strips.of.surface.with.a.machete/knife/razor; scraping.a.thin.layer.from.a.surface]" : {koshe} 
 ! 
-| "[=pishi+s.redup.word][IdeoPRQ][=to.sweep.the.ground]" : {pishi} 
+| "[=pishi+s.redup.word][Ideo:PRQ][=to.sweep.the.ground]" : {pishi} 
 ! 
-| "[=shetak+s.redup.word][IdeoPRQ][=to.limp; limping.gait; walking.with.limp]" : {shetak} 
+| "[=shetak+s.redup.word][Ideo:PRQ][=to.limp; limping.gait; walking.with.limp]" : {shetak} 
 ! 
-| "[=kisho+s.redup.word][IdeoPRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river (ES: acción.de.soplar.con.saliva.de.uno.mismo); spitting.saliva.in.a.fishing.ritual; action.of.mouth-spraying]" : {kisho} 
+| "[=kisho+s.redup.word][Ideo:PRQ][=spitting.during.an.operation.of.poisoning.fish.in.the.river.while.manually.applying.the.poison.to.the.dammed.section.of.the.river (ES: acción.de.soplar.con.saliva.de.uno.mismo); spitting.saliva.in.a.fishing.ritual; action.of.mouth-spraying]" : {kisho} 
 ! 
-| "[=sarak][IdeoPRQ][=entering.solid.space, (e.g. an.arrow.piercing.flesh)]" : {sarak} 
+| "[=sarak][Ideo:PRQ][=entering.solid.space, (e.g. an.arrow.piercing.flesh)]" : {sarak} 
 ! 
-| "[=shitak][IdeoPRQ][=loudly.slammed.door; walking.with.a.limp.action.]" : {shitak} 
+| "[=shitak][Ideo:PRQ][=loudly.slammed.door; walking.with.a.limp.action.]" : {shitak} 
 ! 
-| "[=tzimpa][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpa} 
-| "[=tzimpak+s.redup.word][IdeoPRQ][=forceful.tearing.of.a_plant.with.roots, pulling.weeds.from.the_ground; human_body.agonizing.in.violent.convulsions]" : {tzimpak} 
+| "[=tzimpa][Ideo:PRQ][=forceful.tearing.of.a_plant.with.roots; human_body.agonizing.in.violent.convulsions]" : {tzimpa} 
+| "[=tzimpak+s.redup.word][Ideo:PRQ][=forceful.tearing.of.a_plant.with.roots, pulling.weeds.from.the_ground; human_body.agonizing.in.violent.convulsions]" : {tzimpak} 
 ! 
-| "[=chota+s.redup.word][IdeoPRQ][=action.of.having.sex (ES: acción.de.tener.relaciones.sexuales)]" : {chota} 
+| "[=chota+s.redup.word][Ideo:PRQ][=action.of.having.sex (ES: acción.de.tener.relaciones.sexuales)]" : {chota} 
 ! 
-| "[=sherok+s.redup.word][IdeoPRQ][=moving.up/down.a.tree]" : {sherok} 
-| "[=sherok][IdeoPRQ][=effortlessly.entering.a_vacuous_space/an_animal_den; (ES: acción.de.ponerse.la.cushma)]" : {sherok} 
-| "[=tepok][IdeoPRQ][=effortlessly.entering.a_vacuous_space/an_animal_den]" : {tepok} # ???
-| "[=terok][IdeoPRQ][=effortlessly.entering.a_vacuous_space/an_animal_den]" : {terok} 
+| "[=sherok+s.redup.word][Ideo:PRQ][=moving.up/down.a.tree]" : {sherok} 
+| "[=sherok][Ideo:PRQ][=effortlessly.entering.a_vacuous_space/an_animal_den; (ES: acción.de.ponerse.la.cushma)]" : {sherok} 
+| "[=tepok][Ideo:PRQ][=effortlessly.entering.a_vacuous_space/an_animal_den]" : {tepok} # ???
+| "[=terok][Ideo:PRQ][=effortlessly.entering.a_vacuous_space/an_animal_den]" : {terok} 
 ! 
-| "[=tero+s.redup.word][IdeoPRQ][=filling.an.enclosed.space.with.sth. (e.g.: a.bag.with.seeds)]" : {tero} 
+| "[=tero+s.redup.word][Ideo:PRQ][=filling.an.enclosed.space.with.sth. (e.g.: a.bag.with.seeds)]" : {tero} 
 ! 
-| "[=sapok][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment; getting.undressed.by.removing.clothes.from.the.upper.body (e.g.: a_hat, a_shawl, a_robe)]" : {sapok} 
-| "[=saporik][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment; getting.undressed.by.removing.clothes.from.the.upper.body (e.g.: a_hat, a_shawl, a_robe)]" : {saporik} 
+| "[=sapok][Ideo:PRQ][=effortlessly.sleeping.out.of.a_garment; getting.undressed.by.removing.clothes.from.the.upper.body (e.g.: a_hat, a_shawl, a_robe)]" : {sapok} 
+| "[=saporik][Ideo:PRQ][=effortlessly.sleeping.out.of.a_garment; getting.undressed.by.removing.clothes.from.the.upper.body (e.g.: a_hat, a_shawl, a_robe)]" : {saporik} 
 ! 
-| "[=sapok+s.red][IdeoPRQ][=action.of.a.bird/pinsha_bird.taking.flight (ES: acción.de.un.ave/pinsha.alzar.el.vuelo)]" : {sapok} 
+| "[=sapok+s.red][Ideo:PRQ][=action.of.a.bird/pinsha_bird.taking.flight (ES: acción.de.un.ave/pinsha.alzar.el.vuelo)]" : {sapok} 
 ! 
-| "[=chako+s.redup.word][IdeoPRQ][=small.waves.produced.by.the.slowly.gliding.canoe; water.movement.in.a.gourd.carried.on.the_back; movement.of.water.in.the_bottle.when.carried.on.the_back]" : {chako} 
+| "[=chako+s.redup.word][Ideo:PRQ][=small.waves.produced.by.the.slowly.gliding.canoe; water.movement.in.a.gourd.carried.on.the_back; movement.of.water.in.the_bottle.when.carried.on.the_back]" : {chako} 
 ! 
-| "[=tsako+s.redup.word][IdeoPRQ][=boiling.water.in.a_pot]" : {tsako} 
+| "[=tsako+s.redup.word][Ideo:PRQ][=boiling.water.in.a_pot]" : {tsako} 
 ! 
-| "[=pitso+s.redup.word][IdeoPRQ][=woman.walking.with.gyrating.hips]" : {pitso} 
-| "[=pitsopitso][IdeoPRQ][=woman.walking.with.gyrating.hips]" : {pitsopitso} ! N@->V::[= (ES: girar); to.dance (ES: bailar)]
+| "[=pitso+s.redup.word][Ideo:PRQ][=woman.walking.with.gyrating.hips]" : {pitso} 
+| "[=pitsopitso][Ideo:PRQ][=woman.walking.with.gyrating.hips]" : {pitsopitso} ! N@->V::[= (ES: girar); to.dance (ES: bailar)]
 ! 
-| "[=viri+s.redup.word][IdeoPRQ][=cutting.fish/reed.into.pieces]" : {viri} 
+| "[=viri+s.redup.word][Ideo:PRQ][=cutting.fish/reed.into.pieces]" : {viri} 
 ! 
-| "[=shaari+s.redup.word][IdeoPRQ][=tearing/peeling.off.in.strips (e.g.: a_banana,tree.bark,a_page.from.book)]" : {shaari}
-| "[=shaariri+s.redup.word][IdeoPRQ][=tearing/peeling.off.in.strips (e.g.: a_banana,tree.bark,a_page.from.book)]" : {shaariri}
+| "[=shaari+s.redup.word][Ideo:PRQ][=tearing/peeling.off.in.strips (e.g.: a_banana,tree.bark,a_page.from.book)]" : {shaari}
+| "[=shaariri+s.redup.word][Ideo:PRQ][=tearing/peeling.off.in.strips (e.g.: a_banana,tree.bark,a_page.from.book)]" : {shaariri}
 ! 
-| "[=sapok][IdeoPRQ][=effortlessly.sleeping.out.of.a_garment]" : {sapok} 
+| "[=sapok][Ideo:PRQ][=effortlessly.sleeping.out.of.a_garment]" : {sapok} 
 ! 
-| "[=tsinka+s.redup.word][IdeoPRQ][=crushing.a.soft_object.in.a_trough (e.g.: manioc/cotton.mass, boiled.manioc/cotton; ES: acción.de.chancar)]" : {tsinka} 
+| "[=tsinka+s.redup.word][Ideo:PRQ][=crushing.a.soft_object.in.a_trough (e.g.: manioc/cotton.mass, boiled.manioc/cotton; ES: acción.de.chancar)]" : {tsinka} 
 ! 
-| "[=tsinkari][IdeoPRQ][=a.sudden.feeling.of.a.stir.inside.the_body]" : {tsinkari} 
+| "[=tsinkari][Ideo:PRQ][=a.sudden.feeling.of.a.stir.inside.the_body]" : {tsinkari} 
 ! 
-| "[=marok][IdeoPRQ][=extending.a_mat/a_piece_of_clothing.on.the_ground]" : {marok} 
+| "[=marok][Ideo:PRQ][=extending.a_mat/a_piece_of_clothing.on.the_ground]" : {marok} 
 ! 
-| "[=teka+s.redup.word][IdeoPRQ][=body.shaking]" : {teka} 
+| "[=teka+s.redup.word][Ideo:PRQ][=body.shaking]" : {teka} 
 ! 
-| "[=viro+s.redup.word][IdeoPRQ][=many.people.talking]" : {viro} 
-| "[=anye+s.redup.word][IdeoPRQ][=many.people.talking]" : {anye} 
+| "[=viro+s.redup.word][Ideo:PRQ][=many.people.talking]" : {viro} 
+| "[=anye+s.redup.word][Ideo:PRQ][=many.people.talking]" : {anye} 
 ! 
-| "[=shiri+s.redup.word][IdeoPRQ][=sweeping.the.floor.with.a_broom; sewing/bead_stringing]" : {shiri} 
-| "[=pishe+s.redup.word][IdeoPRQ][=sweeping.the.floor.with.a_broom]" : {pishe} 
+| "[=shiri+s.redup.word][Ideo:PRQ][=sweeping.the.floor.with.a_broom; sewing/bead_stringing]" : {shiri} 
+| "[=pishe+s.redup.word][Ideo:PRQ][=sweeping.the.floor.with.a_broom]" : {pishe} 
 ! 
-| "[=kiva+s.redup.word][IdeoPRQ][=washing.clothes]" : {kiva} 
+| "[=kiva+s.redup.word][Ideo:PRQ][=washing.clothes]" : {kiva} 
 ! 
 # ES: 'sonido/acción.de.reirse' 
-| "[=ihi+redup.word][IdeoPRQ][=sound/action.of.laughing (ES: sonido/acción.de.reirse)]" : {ihi} 
+| "[=ihi+redup.word][Ideo:PRQ][=sound/action.of.laughing (ES: sonido/acción.de.reirse)]" : {ihi} 
 ! 
-| "[=haon][IdeoPRQ][=sound/action.of.taking.animals.out.of.their.den]" : {haon} 
-| "[=haonk][IdeoPRQ][=sound/action.of.screaming.to.scare.sb.]" : {haonk} 
+| "[=haon][Ideo:PRQ][=sound/action.of.taking.animals.out.of.their.den]" : {haon} 
+| "[=haonk][Ideo:PRQ][=sound/action.of.screaming.to.scare.sb.]" : {haonk} 
 ! 
-| "[=heronk][IdeoPRQ][=sound/action.of.sth.that.is.loose]" : {heronk} 
+| "[=heronk][Ideo:PRQ][=sound/action.of.sth.that.is.loose]" : {heronk} 
 ! 
-| "[=mare+redup.word][IdeoPRQ][=sound/action.of.water.moving (e.g.: provoked.by.the.wind)]" : {mare} 
+| "[=mare+redup.word][Ideo:PRQ][=sound/action.of.water.moving (e.g.: provoked.by.the.wind)]" : {mare} 
 ! 
-| "[=matse][IdeoPRQ][=sound/action.of.jump.stealthily]" : {matse} 
-| "[=matsek][IdeoPRQ][=sound/action.of.sparkling; sound/action.when.there.is.lightning]" : {matsek} 
+| "[=matse][Ideo:PRQ][=sound/action.of.jump.stealthily]" : {matse} 
+| "[=matsek][Ideo:PRQ][=sound/action.of.sparkling; sound/action.when.there.is.lightning]" : {matsek} 
 ! 
-| "[=takik][IdeoPRQ][=biting.nails]" : {takik}
-| "[=tsinki][IdeoPRQ][=sound/action.of.sth.being.crushed]" : {tsinki} # ???
+| "[=takik][Ideo:PRQ][=biting.nails]" : {takik}
+| "[=tsinki][Ideo:PRQ][=sound/action.of.sth.being.crushed]" : {tsinki} # ???
 ! 
-| "[=haran][IdeoPRQ][=sound/action.made.by.a.falling/breaking.branch/tree]" : {haran} ! N@->V
+| "[=haran][Ideo:PRQ][=sound/action.made.by.a.falling/breaking.branch/tree]" : {haran} ! N@->V
 ! 
-| "[=tonki+s.redup.word][IdeoPRQ][=shaky.knees.sensation; cold.body.sensation (anxiety)]" : {tonki}
+| "[=tonki+s.redup.word][Ideo:PRQ][=shaky.knees.sensation; cold.body.sensation (anxiety)]" : {tonki}
 ! 
-| "[=varok][IdeoPRQ][=startle.reaction.in.response.to.sudden.events/stimuli (e.g.: noise, touch)]" : {varok} 
+| "[=varok][Ideo:PRQ][=startle.reaction.in.response.to.sudden.events/stimuli (e.g.: noise, touch)]" : {varok} 
 ! 
-| "[=shena+s.redup.word][IdeoPRQ][=giving.food.directly.into.one's.mouth]" : {shena} 
+| "[=shena+s.redup.word][Ideo:PRQ][=giving.food.directly.into.one's.mouth]" : {shena} 
 ! 
-| "[=soro+s.redup.word][IdeoPRQ][=eating.hot.soup.with.a.spoon]" : {soro} 
+| "[=soro+s.redup.word][Ideo:PRQ][=eating.hot.soup.with.a.spoon]" : {soro} 
 ! onoshikanakeri, okantiri soro, soro. / o- =noshik -an -ak -e -ri o- =kant -i -ri =soro =soro / 3n.m.a- =to.drag.sth. -dir -prf -real -3m.o 3n.m.a- =to.say -real -3m.o =IDEO =IDEO / EN: '(leaving) she has dragged it, making.the.sound soro soro'; ES: 'lo.arrastra, haciendo soro soro' 
-| "[=soro+s.redup.word][IdeoPRQ][==sound/action.of.sth.sliding]" : {soro} 
+| "[=soro+s.redup.word][Ideo:PRQ][==sound/action.of.sth.sliding]" : {soro} 
 ! 
-| "[=ahak][IdeoPRQ][=coughing.action]" : {ahak} 
+| "[=ahak][Ideo:PRQ][=coughing.action]" : {ahak} 
 ! 
-| "[=tsari+s.redup.word][IdeoPRQ][=action.of.stretching.a.thread, action.of.unrolling.sth.]" : {tsari} 
+| "[=tsari+s.redup.word][Ideo:PRQ][=action.of.stretching.a.thread, action.of.unrolling.sth.]" : {tsari} 
 ! 
-| "[=hiri+s.redup.word][IdeoPRQ][=pulling.sth.out.leaf.by.leaf; cleaning.weeds.with.a.machete; threshing.corn.with.a.knife; action.of.shelling.sth. (e.g.: shelling.a.corn.ear.with.a.knife); action.of.cutting.a.soft.substance]" : {hiri} 
+| "[=hiri+s.redup.word][Ideo:PRQ][=pulling.sth.out.leaf.by.leaf; cleaning.weeds.with.a.machete; threshing.corn.with.a.knife; action.of.shelling.sth. (e.g.: shelling.a.corn.ear.with.a.knife); action.of.cutting.a.soft.substance]" : {hiri} 
 ! 
-| "[=tsirik][IdeoPRQ][=becoming.attached.to.sth. (i.e.: while.putting.a.plaster.with.leaves.on.sb's.body; attaching.a.bandage; taking.a.picture)]" : {tsirik} 
-| "[=tsirik][IdeoPRQ][=action.of.releasing.from.a.state.of.being.stuck.together]" : {tsirik} 
+| "[=tsirik][Ideo:PRQ][=becoming.attached.to.sth. (i.e.: while.putting.a.plaster.with.leaves.on.sb's.body; attaching.a.bandage; taking.a.picture)]" : {tsirik} 
+| "[=tsirik][Ideo:PRQ][=action.of.releasing.from.a.state.of.being.stuck.together]" : {tsirik} 
 ! 
-| "[=potso+s.redup.word][IdeoPRQ][=painting.a.face/body]" : {potso} 
+| "[=potso+s.redup.word][Ideo:PRQ][=painting.a.face/body]" : {potso} 
 ! 
-| "[=heva+s.redup.word][IdeoPRQ][=action.of.fanning]" : {heva} 
+| "[=heva+s.redup.word][Ideo:PRQ][=action.of.fanning]" : {heva} 
 ! 
 | "[=ihii+s.redup.word+whistle.lang.][IdeoCJO][=sound.of.laughter (ES: sonido.de.la.risa)]" : {ihii} 
 ! 
-| "[=tsapak+whistle.lang.][IdeoPRQ][=sound.of.getting.up]" : {tsapak} 
+| "[=tsapak+whistle.lang.][Ideo:PRQ][=sound.of.getting.up]" : {tsapak} 
 ! 
-| "[=tsatzii+whistle.lang.][IdeoPRQ][=sound.of.breaking.sth.]" : {tsatzii} 
+| "[=tsatzii+whistle.lang.][Ideo:PRQ][=sound.of.breaking.sth.]" : {tsatzii} 
 ! 
 | "[=tsitok][Ideo][=action.of.stinging/pinching.sth./sb.with.sth. (ES: acción.de.picar/pellizcar.a.algn.)]" : {tsitok} 
 ! 
 | "[=tinik][Ideo][=sound.of.dropping.sth.]" : {tinik} 
-| "[=tsinik][IdeoPRQ][=sound.of.dropping.sth.; grab]" : {tsinik} 
+| "[=tsinik][Ideo:PRQ][=sound.of.dropping.sth.; grab]" : {tsinik} 
 ! 
-| "[=tsipak][IdeoPRQ][=action.of.jumping-and-bouncing.off.the.surface]" : {tsipak} 
+| "[=tsipak][Ideo:PRQ][=action.of.jumping-and-bouncing.off.the.surface]" : {tsipak} 
 ! 
-| "[=chenki][IdeoPRQ][=action.of.striking.a.match]" : {chenki} 
+| "[=chenki][Ideo:PRQ][=action.of.striking.a.match]" : {chenki} 
 ! 
-| "[=miro+s.redup.word][IdeoPRQ][=action.of.crushing.a.soft_substance.with.hands]" : {miro} 
+| "[=miro+s.redup.word][Ideo:PRQ][=action.of.crushing.a.soft_substance.with.hands]" : {miro} 
 ! 
-| "[=motok][IdeoPRQ][=action.of.quick.entry-and-disappearance]" : {motok} 
+| "[=motok][Ideo:PRQ][=action.of.quick.entry-and-disappearance]" : {motok} 
 ! 
-| "[=shoki+s.redup.word][IdeoPRQ][=action.of.grinding]" : {shoki} 
+| "[=shoki+s.redup.word][Ideo:PRQ][=action.of.grinding]" : {shoki} 
 ! 
-| "[=tonka+s.redup.word][IdeoPRQ][=action.of.going.up.a.hill]" : {tonka} 
+| "[=tonka+s.redup.word][Ideo:PRQ][=action.of.going.up.a.hill]" : {tonka} 
 ! 
-| "[=tsekik+s.redup.word][IdeoPRQ][=action.of.stinging.with.arrows]" : {tsekik} 
+| "[=tsekik+s.redup.word][Ideo:PRQ][=action.of.stinging.with.arrows]" : {tsekik} 
 ! 
-| "[=pasak][IdeoPRQ][=sound/action.of.searching/fishing.with.hands.under.the.water]" : {pasak} 
+| "[=pasak][Ideo:PRQ][=sound/action.of.searching/fishing.with.hands.under.the.water]" : {pasak} 
 ! 
-| "[=shira][IdeoPRQ][=sound/action.of.slipping]" : {shira} 
+| "[=shira][Ideo:PRQ][=sound/action.of.slipping]" : {shira} 
 ! 
 ! toré: ES: 'ligero.movimiento.de.cabeza.al.morir' 
 | "[=tore][Ideo][=convulsive.movement; slight.head_movement.when.dying]" : {tore} 
@@ -413,137 +413,137 @@ define IdeoPRQin [
 # ---------------------------------------
 #       TRISYLLABIC IDEOPHONES           
 # ---------------------------------------
-| "[=tankori][IdeoPRQ][=becoming.awake/conscious]" : {tankori}
-| "[=tankori][IdeoPRQ][=becoming.awake/conscious][--][-k][+PUNCTUAL.ACTN]" : {tankorik} ! tankori(k) 
-| "[=tankore][IdeoPRQ][=regain.consciousness][--][-k][+PUNCTUAL.ACTN]" : {tankorek}
+| "[=tankori][Ideo:PRQ][=becoming.awake/conscious]" : {tankori}
+| "[=tankori][Ideo:PRQ][=becoming.awake/conscious][--][-k][+PUNCTUAL.ACTN]" : {tankorik} ! tankori(k) 
+| "[=tankore][Ideo:PRQ][=regain.consciousness][--][-k][+PUNCTUAL.ACTN]" : {tankorek}
 ! 
-| "[=tankorek][IdeoPRQ][=sudden.freezing.and.then.fast.disappearance; jump.like.a.deer (ES: saltar.como.venado)]" : {tankorek}
+| "[=tankorek][Ideo:PRQ][=sudden.freezing.and.then.fast.disappearance; jump.like.a.deer (ES: saltar.como.venado)]" : {tankorek}
 ! 
-| "[=mantsari+s.redup.word][IdeoPRQ][=scratching.with.nails/claws; action.of.shredding/scratching/raking]" : {mantsari}
+| "[=mantsari+s.redup.word][Ideo:PRQ][=scratching.with.nails/claws; action.of.shredding/scratching/raking]" : {mantsari}
 ! 
-| "[=tsakoro][IdeoPRQ][=fish.jumping.out.of.water]" : {tsakoro}
-| "[=tsakoro][IdeoPRQ][=stepping/falling.in.shallow_water.&.producing.no.splashes][--][-k][+PUNCTUAL.ACTN]" : {tsakorok}
+| "[=tsakoro][Ideo:PRQ][=fish.jumping.out.of.water]" : {tsakoro}
+| "[=tsakoro][Ideo:PRQ][=stepping/falling.in.shallow_water.&.producing.no.splashes][--][-k][+PUNCTUAL.ACTN]" : {tsakorok}
 ! 
-| "[=mokoro+s.redup.word][IdeoPRQ][=sound/action.of.vomiting, sensation.of.vomiting]" : {mokoro}
+| "[=mokoro+s.redup.word][Ideo:PRQ][=sound/action.of.vomiting, sensation.of.vomiting]" : {mokoro}
 ! 
-| "[=metori+s.redup.word][IdeoPRQ][=cutting.weeds/twigs.of.firewood, cutting/breaking.firewood.with.hands; <:digging.soft.soil.with.hands]" : {metori}
+| "[=metori+s.redup.word][Ideo:PRQ][=cutting.weeds/twigs.of.firewood, cutting/breaking.firewood.with.hands; <:digging.soft.soil.with.hands]" : {metori}
 ! 
-| "[=patari+s.redup.word][IdeoPRQ][=multiple.objects.falling; downward.falling.motion.of.many.non-human.objects (usually.fruit)]" : {patari}
+| "[=patari+s.redup.word][Ideo:PRQ][=multiple.objects.falling; downward.falling.motion.of.many.non-human.objects (usually.fruit)]" : {patari}
 ! 
-| "[=tsikiri+s.redup.word/+redup.syl.][IdeoPRQ][=liquid.gushing.out.in.a.stream; arterial.bleeding (gushing.out)]" : {tsikiri}
-| "[=tsikiri][IdeoPRQ][=IDEO]" : {tsikiri}
+| "[=tsikiri+s.redup.word/+redup.syl.][Ideo:PRQ][=liquid.gushing.out.in.a.stream; arterial.bleeding (gushing.out)]" : {tsikiri}
+| "[=tsikiri][Ideo:PRQ][=IDEO]" : {tsikiri}
 ! 
-| "[=sapiri+s.redup.word][IdeoPRQ][=tearing.meat.into.pieces]" : {sapiri}
-| "[=petore][IdeoPRQ][=breaking.soft.food.into.pieces]" : {petore}
+| "[=sapiri+s.redup.word][Ideo:PRQ][=tearing.meat.into.pieces]" : {sapiri}
+| "[=petore][Ideo:PRQ][=breaking.soft.food.into.pieces]" : {petore}
 ! 
-| "[=tsatzik][IdeoPRQ][=a.burst.of.a.rope/thread; breaking.a.thread/leaf.into.two.pieces]" : {tsatzik}
-| "[=tsatzi+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread); tearing/breaking.a.thread/leaf/sth.into.two.pieces]" : {tsatzi}
+| "[=tsatzik][Ideo:PRQ][=a.burst.of.a.rope/thread; breaking.a.thread/leaf.into.two.pieces]" : {tsatzik}
+| "[=tsatzi+s.redup.word][Ideo:PRQ][=breaking.soft.food.into.pieces (e.g.: bread); tearing/breaking.a.thread/leaf/sth.into.two.pieces]" : {tsatzi}
 ! 
-| "[=mamporik][IdeoPRQ][=sensation.of.the.bursting.rope/thread]" : {mamporik}
-| "[=mamporek][IdeoPRQ][=sensation.of.the.bursting.rope/thread]" : {mamporek}
+| "[=mamporik][Ideo:PRQ][=sensation.of.the.bursting.rope/thread]" : {mamporik}
+| "[=mamporek][Ideo:PRQ][=sensation.of.the.bursting.rope/thread]" : {mamporek}
 ! 
-| "[=shimori+s.redup.word][IdeoPRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
-| "[=sanarek][IdeoPRQ][=falling.down.into.a_vacuous_space]" : {sanarek}
-| "[=kitarek][IdeoPRQ][=regaining.consciousness]" : {kitarek}
+| "[=shimori+s.redup.word][Ideo:PRQ][=foam/bubbles.appearing.in.waterstream]" : {shimori}
+| "[=sanarek][Ideo:PRQ][=falling.down.into.a_vacuous_space]" : {sanarek}
+| "[=kitarek][Ideo:PRQ][=regaining.consciousness]" : {kitarek}
 ! 
-| "[=tiviron+s.redup.word][IdeoPRQ][=moving.in.circles]" : {tiviron}
+| "[=tiviron+s.redup.word][Ideo:PRQ][=moving.in.circles]" : {tiviron}
 ! 
-| "[=sopirek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; surprisingly.quickly]" : {sopirek}
+| "[=sopirek][Ideo:PRQ][=suddenly.disappearing; happening.as.a.surprise; surprisingly.quickly]" : {sopirek}
 ! 
-| "[=shiparek][IdeoPRQ][=suddenly.disappearing; happening.as.a.surprise; fast.disappearance]" : {shiparek}
+| "[=shiparek][Ideo:PRQ][=suddenly.disappearing; happening.as.a.surprise; fast.disappearance]" : {shiparek}
 ! 
-| "[=shiparik][IdeoPRQ][=grabbing.a.moving.object]" : {shiparik}
+| "[=shiparik][Ideo:PRQ][=grabbing.a.moving.object]" : {shiparik}
 ! 
-| "[=tyaapaki+s.redup.word][IdeoPRQ][=walking.in.a.duck-like.manner (with.big.feet)]" : {tyaapaki}
+| "[=tyaapaki+s.redup.word][Ideo:PRQ][=walking.in.a.duck-like.manner (with.big.feet)]" : {tyaapaki}
 ! 
-| "[=pitsari+s.redup.word][IdeoPRQ][=breaking.soft.food.into.pieces (e.g.: bread, meat)]" : {pitsari}
+| "[=pitsari+s.redup.word][Ideo:PRQ][=breaking.soft.food.into.pieces (e.g.: bread, meat)]" : {pitsari}
 ! 
-| "[=sanarik][IdeoPRQ][=crashing.into.a.vacuous.space (e.g.: falling.through.the.roof.of.the.house)]" : {sanarik}
+| "[=sanarik][Ideo:PRQ][=crashing.into.a.vacuous.space (e.g.: falling.through.the.roof.of.the.house)]" : {sanarik}
 ! 
-| "[=pitori+s.redup.word][IdeoPRQ][=breaking.sth.soft.into.pieces (e.g.: a.soft.stone, cookie, bread, banana, cooked.manioc)]" : {pitori}
+| "[=pitori+s.redup.word][Ideo:PRQ][=breaking.sth.soft.into.pieces (e.g.: a.soft.stone, cookie, bread, banana, cooked.manioc)]" : {pitori}
 ! 
-| "[=shitari+s.redup.word][IdeoPRQ][=splitting.in.two]" : {shitari}
+| "[=shitari+s.redup.word][Ideo:PRQ][=splitting.in.two]" : {shitari}
 ! 
-| "[=kotari+s.redup.word][IdeoPRQ][=splitting.open.watermelon, splitting.thick.firewood; split.in.half (e.g.: watermelon, thick.firewood)]" : {kotari}
+| "[=kotari+s.redup.word][Ideo:PRQ][=splitting.open.watermelon, splitting.thick.firewood; split.in.half (e.g.: watermelon, thick.firewood)]" : {kotari}
 ! 
-| "[=tsopirik][IdeoPRQ][=breaking.off.fruit (e.g.: pineapple)]" : {tsopirik}
+| "[=tsopirik][Ideo:PRQ][=breaking.off.fruit (e.g.: pineapple)]" : {tsopirik}
 ! 
-| "[=mankari+s.redup.word][IdeoPRQ][=pulling.weeds.from.the_ground]" : {mankari}
+| "[=mankari+s.redup.word][Ideo:PRQ][=pulling.weeds.from.the_ground]" : {mankari}
 ! 
-| "[=sokirik][IdeoPRQ][=object/animated_entity.disappearing.suddenly (e.g.: human, snake)]" : {sokirik}
+| "[=sokirik][Ideo:PRQ][=object/animated_entity.disappearing.suddenly (e.g.: human, snake)]" : {sokirik}
 ! 
-| "[=hempari+s.redup.word][IdeoPRQ][=pain.abating; action.of.soothing.the.pain.in.the.body; spreading.numbness-and-pain.abating]" : {hempari}
+| "[=hempari+s.redup.word][Ideo:PRQ][=pain.abating; action.of.soothing.the.pain.in.the.body; spreading.numbness-and-pain.abating]" : {hempari}
 ! 
-| "[=tsinkare][IdeoPRQ][=feeling.cold.due.to.fear (cf. to.feel.chills.running.up.the_spine)]" : {tsinkare}
-| "[=tsinkare][IdeoPRQ][=feeling.cold.due.to.fear (cf. to.feel.chills.running.up.the_spine)][--][-k][+PUNCTUAL.ACTN]" : {tsinkarek}
+| "[=tsinkare][Ideo:PRQ][=feeling.cold.due.to.fear (cf. to.feel.chills.running.up.the_spine)]" : {tsinkare}
+| "[=tsinkare][Ideo:PRQ][=feeling.cold.due.to.fear (cf. to.feel.chills.running.up.the_spine)][--][-k][+PUNCTUAL.ACTN]" : {tsinkarek}
 ! 
-| "[=heao+s.redup.word][IdeoPRQ][=noise.of.a.barn.owl.flying]" : {heao}
+| "[=heao+s.redup.word][Ideo:PRQ][=noise.of.a.barn.owl.flying]" : {heao}
 ! 
-| "[=menkire+s.redup.word][IdeoPRQ][=sound/action.of.pushing.a.stick.in.the.fire (e.g.: for.touching.the.hot.coal, for.stirring.the.fire)]" : {menkire}
+| "[=menkire+s.redup.word][Ideo:PRQ][=sound/action.of.pushing.a.stick.in.the.fire (e.g.: for.touching.the.hot.coal, for.stirring.the.fire)]" : {menkire}
 ! 
-| "[=motori+s.redup.word][IdeoPRQ][=sensation.of.a.big.rumble.in.the.stomach; action.of.the_stomach.turning.upside_down (typically.accompanied.by.diarrhea)]" : {motori}
-| "[=montori+s.redup.word][IdeoPRQ][=sensation.of.a.big.rumble.in.the.stomach]" : {montori}
+| "[=motori+s.redup.word][Ideo:PRQ][=sensation.of.a.big.rumble.in.the.stomach; action.of.the_stomach.turning.upside_down (typically.accompanied.by.diarrhea)]" : {motori}
+| "[=montori+s.redup.word][Ideo:PRQ][=sensation.of.a.big.rumble.in.the.stomach]" : {montori}
 ! 
-| "[=tsovivi+s.redup.word][IdeoPRQ][=sensation.of.a.deaf_pain.in.the.stomach]" : {tsovivi}
+| "[=tsovivi+s.redup.word][Ideo:PRQ][=sensation.of.a.deaf_pain.in.the.stomach]" : {tsovivi}
 ! 
-| "[=pichori+s.redup.word][IdeoPRQ][=action.of.grinding.wood_mass/leafy_mass; action.of.pounding.a.soft.substance]" : {pichori} ! arbolada = wooded???
-| "[=pichoro][IdeoPRQ][=action.of.grinding.wood_mass]" : {pichoro} ! arbolada = wooded???
+| "[=pichori+s.redup.word][Ideo:PRQ][=action.of.grinding.wood_mass/leafy_mass; action.of.pounding.a.soft.substance]" : {pichori} ! arbolada = wooded???
+| "[=pichoro][Ideo:PRQ][=action.of.grinding.wood_mass]" : {pichoro} ! arbolada = wooded???
 ! 
-| "[=tyapaki+s.redup.word][IdeoPRQ][=big_footed_duck-like.walking]" : {tyapaki}
+| "[=tyapaki+s.redup.word][Ideo:PRQ][=big_footed_duck-like.walking]" : {tyapaki}
 ! 
 | "[=hererer+whistle.lang.][IdeoCJO][=action/sound.of.throwing.sth.; action/sound.of.pulling.sth. (ES: acción/sonido.de.tirar/jalar.algo)]" : {hererer}
 ! 
-| "[=oorioo][IdeoPRQ][=sound.of.a.rooster]" : {oorioo}
+| "[=oorioo][Ideo:PRQ][=sound.of.a.rooster]" : {oorioo}
 ! 
-| "[=tsimimi+s.redup.word][IdeoPRQ][=action.of.a.chewing; action.of.sucking]" : {tsimimi}
+| "[=tsimimi+s.redup.word][Ideo:PRQ][=action.of.a.chewing; action.of.sucking]" : {tsimimi}
 # ---------------------------------------------------------------
-| "[=terempiri+s.redup.word][IdeoPRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object; movement.in.a.curved.trajectory]" : {terempiri}
-| "[=terempiro+s.redup.word][IdeoPRQ][=curved.object]" : {terempiro}
-| "[=pitokiri+s.redup.word][IdeoPRQ][=to.break.in.pieces; breaking.food.into.multiple.pieces (e.g. cooked.manioc, squash, papaya)]" : {pitokiri}
-| "[=chirirorik][IdeoPRQ][=shallow.splash]" : {chirirorik}
-| "[=pakarorik][IdeoPRQ][=falling.of.corn/grain.feed.for.chickens]" : {pakarorik}
-| "[=chikiroring][IdeoPRQ][=falling.&.resulting.in.the.disintegration.of.a.fragile.object (e.g.: mirror, tea_cup)]" : {chikiroring}
-| "[=tsorompiri+s.redup.word][IdeoPRQ][=walking.on.the.outside-bottom.of.the.foot]" : {tsorompiri}
+| "[=terempiri+s.redup.word][Ideo:PRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object; movement.in.a.curved.trajectory]" : {terempiri}
+| "[=terempiro+s.redup.word][Ideo:PRQ][=curved.object]" : {terempiro}
+| "[=pitokiri+s.redup.word][Ideo:PRQ][=to.break.in.pieces; breaking.food.into.multiple.pieces (e.g. cooked.manioc, squash, papaya)]" : {pitokiri}
+| "[=chirirorik][Ideo:PRQ][=shallow.splash]" : {chirirorik}
+| "[=pakarorik][Ideo:PRQ][=falling.of.corn/grain.feed.for.chickens]" : {pakarorik}
+| "[=chikiroring][Ideo:PRQ][=falling.&.resulting.in.the.disintegration.of.a.fragile.object (e.g.: mirror, tea_cup)]" : {chikiroring}
+| "[=tsorompiri+s.redup.word][Ideo:PRQ][=walking.on.the.outside-bottom.of.the.foot]" : {tsorompiri}
 ! 
-| "[=shitzikoro+s.redup.word][IdeoPRQ][=nocturnal.hawks.call]" : {shitzikoro}
+| "[=shitzikoro+s.redup.word][Ideo:PRQ][=nocturnal.hawks.call]" : {shitzikoro}
 # ---------------------------------------------------------------
-| "[=hamm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hamm}
-| "[=haaam+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.tiger (ES: bramido.de.un.tigre)]" : {haaam}
-| "[=haam+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.tiger (ES: bramido.de.un.tigre)]" : {haam}
-| "[=hemm][IdeoPRQ][=animal.cry.made.by.a.tiger]" : {hemm}
+| "[=hamm][Ideo:PRQ][=animal.cry.made.by.a.tiger]" : {hamm}
+| "[=haaam+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.tiger (ES: bramido.de.un.tigre)]" : {haaam}
+| "[=haam+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.tiger (ES: bramido.de.un.tigre)]" : {haam}
+| "[=hemm][Ideo:PRQ][=animal.cry.made.by.a.tiger]" : {hemm}
 | "[=vaaaaaaa][Ideo][=animal.scream.made.by.a.tiger (ES: grito.de.un.tigre)]" : {vaaaaaaa}
 ! 
-| "[=hemm+s.redup.word][IdeoPRQ][=sound.of.a.water-sprite]" : {hemm}
+| "[=hemm+s.redup.word][Ideo:PRQ][=sound.of.a.water-sprite]" : {hemm}
 ! 
-| "[=ooo+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
-| "[=oooh+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {oooh}
-| "[=hoo+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {hoo}
-| "[=hoooh+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.howler.monkey]" : {hoooh}
+| "[=ooo+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
+| "[=oooh+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]" : {oooh}
+| "[=hoo+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]" : {hoo}
+| "[=hoooh+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]" : {hoooh}
 ! 
-| "[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]" : {hoo}
+| "[=hoo+s.redup.word][Ideo:PRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]" : {hoo}
 ! 
-| "[=shitokokoko][IdeoPRQ][=animal.cry.made.by.a.capuchin.monkey]" : {shitokokoko}
+| "[=shitokokoko][Ideo:PRQ][=animal.cry.made.by.a.capuchin.monkey]" : {shitokokoko}
 ! 
-| "[=hao+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.dog; sound.of.a.barking.dog]" : {hao}
-| "[=hau+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.dog; sound.of.a.barking.dog]" : {hau}
+| "[=hao+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.dog; sound.of.a.barking.dog]" : {hao}
+| "[=hau+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.dog; sound.of.a.barking.dog]" : {hau}
 # sonido/acción de ladrar 
 | "[=hok][Ideo][=sound/action.of.a.dog.barking]" : {hok}
 ! 
-| "[=heem+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.boa-like.river.creature]" : {heem}
-| "[=hoom+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.deer-like.demonic.forest.creature; animal.cry.made.by.the.tiger; evil/peyari's.call]" : {hoom}
-| "[=hooom+s.redup.word][IdeoPRQ][=animal.cry.made.by.a.mythical.deer-like.demonic.forest.creature; animal.cry.made.by.the.tiger; evil/peyari's.call]" : {hooom}
-| "[=kini+s.redup.word][IdeoPRQ][=animal.cry.made.by.the.howler.monkey/kiniri]" : {kini}
+| "[=heem+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.mythical.boa-like.river.creature]" : {heem}
+| "[=hoom+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.mythical.deer-like.demonic.forest.creature; animal.cry.made.by.the.tiger; evil/peyari's.call]" : {hoom}
+| "[=hooom+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.mythical.deer-like.demonic.forest.creature; animal.cry.made.by.the.tiger; evil/peyari's.call]" : {hooom}
+| "[=kini+s.redup.word][Ideo:PRQ][=animal.cry.made.by.the.howler.monkey/kiniri]" : {kini}
 ! 
-| "[=she+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.bird_sp./sheshetzi]" : {she}
-| "[=kokoriko][IdeoPRQ][=bird.call/sound.made.by.a.rooster]" : {kokoriko}
-| "[=totorao][IdeoPRQ][=bird.call/sound.made.by.a.hen]" : {totorao}
+| "[=she+s.redup.word][Ideo:PRQ][=bird.call/sound.made.by.a.bird_sp./sheshetzi]" : {she}
+| "[=kokoriko][Ideo:PRQ][=bird.call/sound.made.by.a.rooster]" : {kokoriko}
+| "[=totorao][Ideo:PRQ][=bird.call/sound.made.by.a.hen]" : {totorao}
 ! 
-| "[=tero+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.parrot_sp./terori/teroni]" : {tero}
-| "[=teroo+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.parrot_sp./terori/teroni]" : {teroo}
+| "[=tero+s.redup.word][Ideo:PRQ][=bird.call/sound.made.by.a.parrot_sp./terori/teroni]" : {tero}
+| "[=teroo+s.redup.word][Ideo:PRQ][=bird.call/sound.made.by.a.parrot_sp./terori/teroni]" : {teroo}
 ! 
-| "[=soi+s.redup.word][IdeoPRQ][=bird.call/sound.made.by.a.tunchi/shashintzi]" : {soi}
+| "[=soi+s.redup.word][Ideo:PRQ][=bird.call/sound.made.by.a.tunchi/shashintzi]" : {soi}
 ! 
-| "[=aaaa][IdeoPRQ][=bird.call/sound.made.by.a.macaw_parrot]" : {aaaa}
+| "[=aaaa][Ideo:PRQ][=bird.call/sound.made.by.a.macaw_parrot]" : {aaaa}
 ];
 
 # -------------------------------------------------------------------------------------
