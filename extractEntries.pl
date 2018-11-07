@@ -19,6 +19,7 @@ my $target1 = " : \"\@EP\"{";
 my $replace2 = 0;
 my $source2 = " : {";
 my $target2 = " : \"\@EP\"{";
+my $replace3 = 0;
 my $source3 = " : {";
 my $target3 = " : \"\@EP\"{";
 # Obtaining the options
@@ -101,6 +102,7 @@ open INFO, $file or die "Could not open $file: $!";
      }
      
    }
+   if ($replace3 == 1) { $myvar =~ s/$source3/$target3/; }
    print $fh $myvar; 
   }
   $count++;

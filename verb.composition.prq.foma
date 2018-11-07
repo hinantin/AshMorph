@@ -6,10 +6,10 @@ define V=S=noun [
 | "[--][=aani+m.][IncNRoot][=grandseer, grandfather (kin.of.a.male); grandson (ES: nieto)]" : "@EP"{aani} ! N@->V @VCMP 
 | "[--][=aane+m.][IncNRoot][=grandseer; grandfather (kin.of.a.male; ES: abuelo); grandson (ES: nieto)]" : "@EP"{aane} ! N@->V @VCMP 
 | "[--][=vako][IncNRoot][=hand (ES: mano)]" : "@EP"{vako} ! @VCMP 
-| "[--][=atziri+m.+poss@te.][::[=to.be.a.person]IncNRoot][=person, individual, human (ES: gente)]" : "@EP"{atziri} ! @VCMP N@->V::[=to.be.a.person]  
-| "[--][=atiri+m.+poss@te.][::[=to.be.a.person]IncNRoot][=person, individual, human (ES: gente)]" : "@EP"{atiri} ! @VCMP N@->V::[=to.be.a.person]  
-| "[--][=atsiri+m.+poss@te.][::[=to.be.a.person]IncNRoot][=person, individual, human (ES: gente)]" : "@EP"{atsiri} ! @VCMP N@->V::[=to.be.a.person]  
-| "[--][=chee+m.+inal@tsi.][::[=to.have.a_horn/horns]IncNRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : "@EP"{chee} ! @VCMP N@->V::[=to.have.a_horn/horns]
+| "[--][=atziri+m.+poss@te.][IncNRoot][=person, individual, human (ES: gente)]" : "@EP"{atziri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[--][=atiri+m.+poss@te.][IncNRoot][=person, individual, human (ES: gente)]" : "@EP"{atiri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[--][=atsiri+m.+poss@te.][IncNRoot][=person, individual, human (ES: gente)]" : "@EP"{atsiri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[--][=chee+m.+inal@tsi.][IncNRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : "@EP"{chee} ! @VCMP N@->V::[=to.have.a_horn/horns]
 | "[--][=hani][IncNRoot][=little.child]" : "@EP"{hani} ! @VCMP 
 | "[--][=henka][IncNRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{henka} ! @VCMP 
 | "[--][=enka][IncNRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{enka} ! @VCMP 
@@ -17,7 +17,7 @@ define V=S=noun [
 | "[--][=tseempeki][IncNRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tseempeki} ! @VCMP @CMP 
 | "[--][=tsova+n.m.+inal@tsi.][IncNRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : "@EP"{tsova} ! @CMP @VCMP  
 | "[--][=tsovaki][IncNRoot][=thin-and-elongated (ES: delgado-y-alargado); snout (ES: hocico)]" : "@EP"{tsovaki} ! @VCMP 
-| "[--][=kamari+m.+poss@te.][::[=to.be.an.evil.spirit]IncNRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : "@EP"{kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
+| "[--][=kamari+m.+poss@te.][IncNRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : "@EP"{kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
 | "[--][=kameetsa][IncNRoot][=well (ES: bien)]" : "@EP"{kameetsa} ! @VCMP 
 | "[--][=kametsa][IncNRoot][=well (ES: bien), good]" : "@EP"{kametsa} ! @VCMP 
 | "[--][=kentsi+n.m.+inal@tsi.][IncNRoot][=neck, nape (ES: cuello, nuca)]" : "@EP"{kentsi} ! @VCMP 
@@ -25,8 +25,8 @@ define V=S=noun [
 | "[--][=kiri][IncNRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kiri} ! @VCMP 
 | "[--][=kirii][IncNRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : "@EP"{kirii} ! @VCMP 
 | "[--][=konta+n.m.+inal@tsi.][IncNRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : "@EP"{konta} ! @CMP @VCMP 
-| "[--][=menko+n.m.+inal@tsi:tzi.][::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)]IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
-| "[--][=minko+n.m.+inal@tsi.][::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)]IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
+| "[--][=menko+n.m.+inal@tsi:tzi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
+| "[--][=minko+n.m.+inal@tsi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[--][=mereki+n.m.+inal@ntsi.][IncNRoot][=rib (ES: costilla)]" : "@EP"{mereki} ! @CMP @VCMP
 | "[--][=mironta][IncNRoot][=flat (ES: plano)]" : "@EP"{mironta} ! @VCMP 
 | "[--][=meronta][IncNRoot][=flat (ES: plano)]" : "@EP"{meronta} ! @VCMP 
