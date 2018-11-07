@@ -19,6 +19,8 @@ my $target1 = " : \"\@EP\"{";
 my $replace2 = 0;
 my $source2 = " : {";
 my $target2 = " : \"\@EP\"{";
+my $source3 = " : {";
+my $target3 = " : \"\@EP\"{";
 # Obtaining the options
 my @files;
 my $options = "--file file_1 --file file_2 ... ";
@@ -31,10 +33,13 @@ GetOptions (
 "separator=i" => \$separator, 
 "replace1=i" => \$replace1, 
 "replace2=i" => \$replace2, 
+"replace3=i" => \$replace3, 
 'source1=s' => \$source1, 
 'target1=s' => \$target1, 
 'source2=s' => \$source2, 
 'target2=s' => \$target2, 
+'source3=s' => \$source3, 
+'target3=s' => \$target3, 
 ) or die " Usage:  $0 $options\n";
 #if (@files) {
 #  print STDERR " Usage:  $0 $options\n";
@@ -74,6 +79,7 @@ open INFO, $file or die "Could not open $file: $!";
      }
      
    }
+   if ($replace3 == 1) { $myvar =~ s/$source3/$target3/; }
    print $fh $myvar; 
   }
   else { 
