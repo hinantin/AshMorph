@@ -2,53 +2,53 @@
 # NOUN INCORPORATION (Verb-noun composition) 
 # -----------------
 define V=S=LEN=noun [ 
-  "[--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
-| "[--][=aani+m.][NRoot][=grandseer, grandfather (kin.of.a.male); grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
-| "[--][=aane+m.][NRoot][=grandseer; grandfather (kin.of.a.male; ES: abuelo); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
-| "[--][=vako][NRoot][=hand (ES: mano)]" : {vako} ! @VCMP 
-| "[--][=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
-| "[--][=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
-| "[--][=atsiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
-| "[--][=chee+m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : {chee} ! @VCMP N@->V::[=to.have.a_horn/horns]
-| "[--][=hani][NRoot][=little.child]" : {hani} ! @VCMP 
-| "[--][=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {henka} ! @VCMP 
-| "[--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {enka} ! @VCMP 
-| "[--][=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tsempeki} ! @VCMP @CMP 
-| "[--][=tseempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tseempeki} ! @VCMP @CMP 
-| "[--][=tsova+n.m.+inal@tsi.][NRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : {tsova} ! @CMP @VCMP  
-| "[--][=tsovaki][NRoot][=thin-and-elongated (ES: delgado-y-alargado); snout (ES: hocico)]" : {tsovaki} ! @VCMP 
-| "[--][=kamari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
-| "[--][=kameetsa][NRoot][=well (ES: bien)]" : {kameetsa} ! @VCMP 
-| "[--][=kametsa][NRoot][=well (ES: bien), good]" : {kametsa} ! @VCMP 
-| "[--][=kentsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]" : {kentsi} ! @VCMP 
-| "[--][=kintsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]" : {kintsi} ! @VCMP 
-| "[--][=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
-| "[--][=kirii][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
-| "[--][=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
-| "[--][=menko+n.m.+inal@tsi:tzi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
-| "[--][=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
-| "[--][=mereki+n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
-| "[--][=mironta][NRoot][=flat (ES: plano)]" : {mironta} ! @VCMP 
-| "[--][=meronta][NRoot][=flat (ES: plano)]" : {meronta} ! @VCMP 
-| "[--][=mitziki][NRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
-| "[--][=morinte][NRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
-| "[--][=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
-| "[--][=nehi+inal@tsi.][NRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
-| "[--][=pante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
-| "[--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
-| "[--][=vori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]" : {vori} ! @VCMP 
-| "[--][=poro+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
-| "[--][=voro][NRoot][=face (ES: cara, rostro)]" : {voro} ! @VCMP 
-| "[--][=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
-| "[--][=shempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro)]" : {shempa} ! @VCMP 
-| "[--][=shire+n.m.+inal@tsi.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire} ! @VCMP
-| "[--][=tapo+n.m.+inal@tsi.][NRoot][=gums (ES: encia)]" : {tapo} ! @VCMP 
-| "[--][=tsome+n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsome} ! @VCMP
-| "[--][=tsomi+n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsomi} ! @VCMP
-| "[--][=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
-| "[--][=tona+n.m.+inal@tsi.][NRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
-| "[--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
-| "[--][=yereto+n.m.+inal@tsi.][NRoot][=knee (ES: rodilla)]" : {yereto} ! @VCMP 
-| "[--][=yerito+n.m.+inal@tsi.][NRoot][=knee (ES: rodilla)]" : {yerito} ! @VCMP 
+  "[--][=ani+m.][IncNRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
+| "[--][=aani+m.][IncNRoot][=grandseer, grandfather (kin.of.a.male); grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
+| "[--][=aane+m.][IncNRoot][=grandseer; grandfather (kin.of.a.male; ES: abuelo); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
+| "[--][=vako][IncNRoot][=hand (ES: mano)]" : {vako} ! @VCMP 
+| "[--][=atziri+m.+poss@te.][::[=to.be.a.person]IncNRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[--][=atiri+m.+poss@te.][::[=to.be.a.person]IncNRoot][=person, individual, human (ES: gente)]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[--][=atsiri+m.+poss@te.][::[=to.be.a.person]IncNRoot][=person, individual, human (ES: gente)]" : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
+| "[--][=chee+m.+inal@tsi.][::[=to.have.a_horn/horns]IncNRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : {chee} ! @VCMP N@->V::[=to.have.a_horn/horns]
+| "[--][=hani][IncNRoot][=little.child]" : {hani} ! @VCMP 
+| "[--][=henka][IncNRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {henka} ! @VCMP 
+| "[--][=enka][IncNRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {enka} ! @VCMP 
+| "[--][=tsempeki][IncNRoot][=body; outer.frame; skeleton.(like)]" : {tsempeki} ! @VCMP @CMP 
+| "[--][=tseempeki][IncNRoot][=body; outer.frame; skeleton.(like)]" : {tseempeki} ! @VCMP @CMP 
+| "[--][=tsova+n.m.+inal@tsi.][IncNRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : {tsova} ! @CMP @VCMP  
+| "[--][=tsovaki][IncNRoot][=thin-and-elongated (ES: delgado-y-alargado); snout (ES: hocico)]" : {tsovaki} ! @VCMP 
+| "[--][=kamari+m.+poss@te.][::[=to.be.an.evil.spirit]IncNRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
+| "[--][=kameetsa][IncNRoot][=well (ES: bien)]" : {kameetsa} ! @VCMP 
+| "[--][=kametsa][IncNRoot][=well (ES: bien), good]" : {kametsa} ! @VCMP 
+| "[--][=kentsi+n.m.+inal@tsi.][IncNRoot][=neck, nape (ES: cuello, nuca)]" : {kentsi} ! @VCMP 
+| "[--][=kintsi+n.m.+inal@tsi.][IncNRoot][=neck, nape (ES: cuello, nuca)]" : {kintsi} ! @VCMP 
+| "[--][=kiri][IncNRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
+| "[--][=kirii][IncNRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
+| "[--][=konta+n.m.+inal@tsi.][IncNRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
+| "[--][=menko+n.m.+inal@tsi:tzi.][::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)]IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
+| "[--][=minko+n.m.+inal@tsi.][::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)]IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
+| "[--][=mereki+n.m.+inal@ntsi.][IncNRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
+| "[--][=mironta][IncNRoot][=flat (ES: plano)]" : {mironta} ! @VCMP 
+| "[--][=meronta][IncNRoot][=flat (ES: plano)]" : {meronta} ! @VCMP 
+| "[--][=mitziki][IncNRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
+| "[--][=morinte][IncNRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
+| "[--][=moro+n.m.+inal@tsi.][IncNRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
+| "[--][=nehi+inal@tsi.][IncNRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
+| "[--][=pante+n.m.+inal@ntsi.][IncNRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
+| "[--][=pori+n.m.+inal@tsi.][IncNRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
+| "[--][=vori+n.m.+inal@tsi.][IncNRoot][=leg (ES: pierna); thigh]" : {vori} ! @VCMP 
+| "[--][=poro+n.m.+inal@tsi.][IncNRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
+| "[--][=voro][IncNRoot][=face (ES: cara, rostro)]" : {voro} ! @VCMP 
+| "[--][=pitziki][IncNRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
+| "[--][=shempa+n.m.+inal@tsi.][IncNRoot][=shoulder (ES: hombro)]" : {shempa} ! @VCMP 
+| "[--][=shire+n.m.+inal@tsi.][IncNRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire} ! @VCMP
+| "[--][=tapo+n.m.+inal@tsi.][IncNRoot][=gums (ES: encia)]" : {tapo} ! @VCMP 
+| "[--][=tsome+n.m.+inal@tsi.][IncNRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsome} ! @VCMP
+| "[--][=tsomi+n.m.+inal@tsi.][IncNRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsomi} ! @VCMP
+| "[--][=tsipana+n.m.][IncNRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
+| "[--][=tona+n.m.+inal@tsi.][IncNRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
+| "[--][=vatsa+n./m.+inal@tsi.][IncNRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
+| "[--][=yereto+n.m.+inal@tsi.][IncNRoot][=knee (ES: rodilla)]" : {yereto} ! @VCMP 
+| "[--][=yerito+n.m.+inal@tsi.][IncNRoot][=knee (ES: rodilla)]" : {yerito} ! @VCMP 
 # @VCMP			verb composition 
 ];
