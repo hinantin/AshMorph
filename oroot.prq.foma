@@ -50,6 +50,9 @@ define ORootPRQin [
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitake}
 | "[=ai][PostPol][=PP][--][-ite][+CMPL][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]::[=it.is.totally.the.case]" : {aiitetake}
 ! 
+| "[=arivetaka][PostPol][=PP (ES: casi.se.hizo (hacer.algo))]" : {arivetaka} 
+| "[=aivetaka][PostPol][=PP (ES: casi.se.hizo (hacer.algo))]" : {aivetaka} 
+! 
 # -------------------------------------------------------
 # Positive Polarity a~ai
 # -------------------------------------------------------
