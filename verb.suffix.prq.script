@@ -106,6 +106,7 @@ define V=S=PRF [
 # potsotaka / =potso -t -ak -a / ES: '(está).pintado' 
 # saraaka / =sara -ak -a / ES: '(está).pelado' 
 # piotaka / =pio -t -ak -a / ES: 'está.amontonado' 
+# banketaka / vanketaka / =vanke -t -ak -a / ES: 'está.montado' 
   "[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{ak}] 
 | "[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{aak}] 
 ];
