@@ -104,6 +104,7 @@ define V=S=PRF [
 # kisashiretaka / =kis -a =shire -t -ak -a / ES: 'está.resentido' 
 # kisaka / =kis -ak -a / ES: 'está.renegado' 
 # potsotaka / =potso -ak -a / ES: '(está).pintado' 
+# saraaka / =sara -ak -a / ES: '(está).pelado' 
   "[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{ak}] 
 | "[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{aak}] 
 ];
