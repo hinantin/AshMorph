@@ -92,7 +92,7 @@ define DIR [ [EP V=S=DIR=SET1]|[V=S=DIR=SET1]|[EP V=S=DIR=SET2]|[V=S=DIR=SET2]|[
 # ****************************************
                    
 # ASPECT -> PERFECT 
-define V=S=PRF [r
+define V=S=PRF [
   "[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{ak}] 
 | "[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{aak}] 
 ];
