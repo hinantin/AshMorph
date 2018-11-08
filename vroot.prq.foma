@@ -2177,6 +2177,9 @@ define VRootPRQin [
 | "[=ovank][VRoot][=to.lift.sth.(up) (ES: alzar)]" : {ovank}
 !| "[=ovank][VRoot][=to.lift.sth.(up)]" : {ovank}
 ! 
+| "[=ovanke+INF@taantsi][VRoot][=to.ride (ES: montar)]" : {ovanke}
+| "[=vanke+INF@taantsi][VRoot][=to.ride (ES: montar)]" : {vanke}
+! 
 | "[=ovam][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovam}
 | "[=ovan][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovan}
 | "[=oam][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {oam}
