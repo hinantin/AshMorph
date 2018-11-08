@@ -103,8 +103,9 @@ define V=S=PRF [
 # abikaka / avikaka / =abik -ak -a / ES: 'trabado' 
 # kisashiretaka / =kis -a =shire -t -ak -a / ES: 'está.resentido' 
 # kisaka / =kis -ak -a / ES: 'está.renegado' 
-# potsotaka / =potso -ak -a / ES: '(está).pintado' 
+# potsotaka / =potso -t -ak -a / ES: '(está).pintado' 
 # saraaka / =sara -ak -a / ES: '(está).pelado' 
+# piotaka / =pio -t -ak -a / ES: 'está.amontonado' 
   "[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{ak}] 
 | "[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{aak}] 
 ];
