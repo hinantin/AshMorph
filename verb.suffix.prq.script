@@ -98,10 +98,12 @@ define V=S=PRF [
 # ampitsataka / =ampitsa -t -ak -a / ES: 'está.arrugado' 
 # bankaka / vankaka / =vank -ak -a / ES: 'está.en.lo.alto' 
 # bashiretaka / vashiretaka / =vashire -t -ak -a / ES: 'él/ella.está.triste' 
+# obashiretaka / ovashiretaka / o- =vashire -t -ak -a / ES: '(ella).está.con.pena' 
 # jokiitaka / hokiitaka / =hokii -t -ak -a / ES: 'él/ella.está.enfermo' 
 # abikaka / avikaka / =abik -ak -a / ES: 'trabado' 
 # kisashiretaka / =kis -a =shire -t -ak -a / ES: 'está.resentido' 
 # kisaka / =kis -ak -a / ES: 'está.renegado' 
+# potsotaka / =potso -ak -a / ES: '(está).pintado' 
   "[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{ak}] 
 | "[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{aak}] 
 ];
