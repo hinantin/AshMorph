@@ -165,8 +165,8 @@ define ORootPRQin [
 | "[=ironyaaka][OtherRoot][=CONN]" : {ironyaaka}
 | "[=ironyaaka][OtherRoot][=then]" : {ironyaaka}
 ! 
-| "[=maroheini][OtherRoot][= (ES: todos, todas)]" : {maroheini}
-| "[=maaroheini][OtherRoot][= (ES: todos, todas)]" : {maaroheini}
+| "[=maroheini][OtherRoot][=all (ES: todos, todas)]" : {maroheini}
+| "[=maaroheini][OtherRoot][=all (ES: todos, todas)]" : {maaroheini}
 ! 
 | "[=kapichikitaite][OtherRoot][=early]" : {kapichikitaite} 
 | "[=kapichi][NRoot][=small][--][=kitaite][VRoot][=to.be.morning]::[=early]" : {kapichikitaite} 
