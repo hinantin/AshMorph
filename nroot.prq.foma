@@ -1173,6 +1173,7 @@ define NRootPRQin [
 | "[=titiro][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodus.ornatus,, pimelodidae, rhamdia.sp.)]" : {titiro}
 ! 
 | "[=tevaa+n.m.+inal@ntsi.][NRoot][=branch (ES: rama)]" : {tevaa}
+| "[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)]" : {oteva} ! N@->V 
 | "[=tivaa+n.m.+inal@ntsi.][NRoot][=branch (ES: rama)]" : {tivaa}
 ! 
 # naked; emaciated; defeathered 
@@ -2937,8 +2938,6 @@ define NRootPRQin [
 | "[=noma][NRoot][=jaw (ES: mandíbula, quijada)]" : {noma} ! @CMP
 ! 
 | "[=otenkanaki][NRoot][=rocky.place]" : {otenkanaki}
-! 
-| "[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)]" : {oteva}
 ! 
 | "[=oteya][NRoot][=flower (ES: flor)]" : {oteya}
 | "[=otea][NRoot][=flower (ES: flor)]" : {otea}
