@@ -58,9 +58,11 @@
       define UReplacement2 [ {o} (->) {u} || [Cons] _ [a|e] ]; # kuakitzi, wuempo , kuaritotzi 
       define UReplacement3 [ {o} (->) {u} || [Cons] _ ]; # paju
       define UReplacement4 [ {o} (->) {u} || .#. _ [Cons] ]; # upempe 
-
+      
       define NPReplacement [ {mp} (->) {np} || [Vowels] _ [Vowels] ]; # amenpori
-
+      
+      define RYReplacement [ {i} (->) {y} || [{r}] _ .#. ]; # -ry -> -ri 
+      
       # onset before vowel a 
       define TYOnset1 [ {tey} (->) {ty} || _ [a|á] ]; ! tyaaki 'flower' -> teyaaki 
       define TYOnset2 [ {tiy} (->) {ty} || _ [a|á] ]; ! tyaaki 'flower' -> tiyaaki 
@@ -117,7 +119,7 @@
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
 .o. NYTildeReplacement1 .o. NYTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 .o. UReplacement3 .o. UReplacement4  
-.o. NPReplacement 
+.o. NPReplacement .o. RYReplacement 
 .o. TYOnset1 .o. TYOnset2 .o. PYOnset .o. KYOnset 
 ]; 
 
