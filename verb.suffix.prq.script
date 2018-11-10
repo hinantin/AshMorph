@@ -109,6 +109,7 @@ define V=S=PRF [
 # banketaka / vanketaka / =vanke -t -ak -a / ES: 'está.montado' 
 # tononkaka / =tononk -ak -a / ES: '(está).molido' 
 # tsimaaka / =tsima -ak -a / ES: '(está).molesto' 
+# iraka payanti / =irak -ak -a *** payanti / ES: 'plátano.maduro'; EN: 'ripe.plantain' 
   "[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{ak}] 
 | "[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{aak}] 
 ];
