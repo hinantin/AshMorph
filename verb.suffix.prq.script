@@ -936,10 +936,10 @@ define RCP [ [EP V=S=RCP]|[V=S=RCP] ];
 # reversative
 ! opposite, reverse REV/CNTRST ; revocation?
 define V=S=REV [
-  "[--][-ry][+REV]" : "@EP"[{ry}] 
-| "[--][-ri][+REV]" : "@EP"[{ri}] 
-| "[--][-re][+REV]" : "@EP"[{re}] 
-| "[--][-ree][+REV]" : "@EP"[{ree}]
+  "[--][-ry][+REV][=reversal.of.an.action/state]" : "@EP"[{ry}] 
+| "[--][-ri][+REV][=reversal.of.an.action/state]" : "@EP"[{ri}] 
+| "[--][-re][+REV][=reversal.of.an.action/state]" : "@EP"[{re}] 
+| "[--][-ree][+REV][=reversal.of.an.action/state]" : "@EP"[{ree}]
 ];
                    
 define REV [ [EP V=S=REV]|[V=S=REV] ];
