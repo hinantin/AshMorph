@@ -434,7 +434,8 @@ define VRootPRQin [
 | "[=hi][VRoot][=to.call, to.be.called, to.be.named]" : {hi}
 | "[=ii][VRoot][=to.call, to.be.called, to.be.named]" : {ii}
 ! 
-| "[=hinki][NRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
+| "[=hinki][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
+| "[=hinki+MOD@REDUP.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[= (ES: rodear.algo.varias.veces)]" : {hinkihinki}
 ! 
 !| "[=hinoki][VRoot][=up]" : {hinoki}
 ! 
