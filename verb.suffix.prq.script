@@ -1046,12 +1046,12 @@ define V=S=small [ # revise!
 define V=S=INCH [
 # --------------------------------------------------------------------------
 # Inceptive (INCP) 
-  "[--][-ima][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{ima}]
+  "[--][-ima][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{ima}]
 # --------------------------------------------------------------------------
-| "[--][-imai][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{imai}]
-| "[--][-imain][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{imain}]
-| "[--][-imaint][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{imaint}]
-| "[--][-amaint][Asp][+INCH][=beginning.of.a.new.state]" : "@EP"[{amaint}]
+| "[--][-imai][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{imai}]
+| "[--][-imain][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{imain}]
+| "[--][-imaint][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{imaint}]
+| "[--][-amaint][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{amaint}]
 ];
                    
 define INCH [ [EP V=S=INCH]|[V=S=INCH] ];
