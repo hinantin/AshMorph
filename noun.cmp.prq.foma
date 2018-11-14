@@ -14,6 +14,7 @@ define NRootCmpPRQin [
 | "[--][=kanire+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[--][=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 | "[--][=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde); yellow.chested.macaw]" : {kasanto} ! @CMP 
+| "[--][=kempita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
 | "[--][=kishi][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {kishi} ! @CMP 
 | "[--][=kitaiteri][NRoot][=day (ES: día)]" : {kitaiteri} ! @CMP 
 | "[--][=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
