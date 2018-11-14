@@ -2919,8 +2919,8 @@ define NRootPRQin [
 !
 | "[=osipitari][NRoot][=hospital]" : {osipitari}
 ! 
-| "[=ota][NRoot][=wick (prbly.candle)]" : {ota}
-| "[=otsa][NRoot][=wick (prbly.candle)]" : {otsa}
+| "[=ota][NRoot][=wick (prbly.candle; ES: mecha)]" : {ota}
+| "[=otsa][NRoot][=wick (prbly.candle; ES: mecha)]" : {otsa}
 ! 
 | "[=otsapata][NRoot][=line (ES: línea)]" : {otsapata}
 | "[=otsapairikita][NRoot][=line (ES: línea)]" : {otsapairikita}
