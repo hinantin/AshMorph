@@ -278,19 +278,19 @@ TZEpenthesisRule8
 .o. IRestr1 .o. IRestr2 
 .o. NIRestr1 .o. PossPlusAlnPossRestr1 ];
       
-      source nroot.prq.foma
-      source aroot.prq.foma
+      #source nroot.prq.foma
+      #source aroot.prq.foma
       # Spanish loan words
-      source nroot.es.foma
+      #source nroot.es.foma
       # Quechua loan words 
-      source nroot.qu.foma
+      #source nroot.qu.foma
       # Portuguese loan words
-      source nroot.pt.foma
-      source numeral.prq.foma
+      #source nroot.pt.foma
+      #source numeral.prq.foma
 
       # Compound nouns
-      source noun.cmp.prq.foma
-      define NRootCmpPRQ NRootCmpPRQin;
+      #source noun.cmp.prq.foma
+      #define NRootCmpPRQ NRootCmpPRQin;
 
 #      source nroot.es.freeling.00.foma
 #      define NRootESFreeling00 NRootESFreelingin00 .o. UpperCase; 
@@ -301,11 +301,11 @@ TZEpenthesisRule8
 #      source nroot.es.freeling.03.foma
 #      define NRootESFreeling03 NRootESFreelingin03 .o. UpperCase; 
       
-      source place.names.foma 
+      #source place.names.foma 
 
-      define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
-      
-      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootPTin|NRootQUin|NumeralPRQin|NRootPLACESin];
+      #define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
+      define nsyllable ConsRoot* VowelRoot^{1,2} ConsRoot*;
+      define NRootPRQ [ ["[="] :0 ] [ vsyllable+ ] [ ["][NRootG]"] :0 ] ;
       ####################################
       #     Compound nouns               #
       ####################################
