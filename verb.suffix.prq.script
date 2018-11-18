@@ -1225,8 +1225,8 @@ define TERMFOC [ [EP V=S=TERMFOC]|[V=S=TERMFOC] ];
 # Delimitative aspect suffix 
 define V=S=DLMT [
 # ponya naminavintsatziri / =ponya *** n- =amin -a -vintsa -tz -i -ri / EN: 'I.was.watching' 
-  "[--][-vintsa][Asp][+DLMT][=for.a.short.time]" : "@EP"[{vintsa}] 
-| "[--][-mintsa][Asp][+DLMT][=for.a.short.time]" : "@EP"[{mintsa}] 
+  "[--][-vintsa][Asp][+DLMT][=limitation.on.the.duration.of.the.state/activity (for.a.short_time/little_while)]" : "@EP"[{vintsa}] 
+| "[--][-mintsa][Asp][+DLMT][=limitation.on.the.duration.of.the.state/activity (for.a.short_time/little_while)]" : "@EP"[{mintsa}] 
 ];
                    
 define DLMT [ [EP V=S=DLMT]|[V=S=DLMT] ];
