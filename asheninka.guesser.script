@@ -170,7 +170,7 @@ TZEpenthesisRule8
       #source vroot.es.foma
       #source n-vroot.prq.group1.foma 
       define vsyllable ConsRoot* VowelRoot^{1,2} ConsRoot*;
-        define VRootPRQ [VRootPRQin|VRootESin|NounToVerbPRQin];
+        define VRootPRQ [ ["[="] :0 ] [ vsyllable+ ] [ ["][VRootG]"] :0 ] ;
 
 #      define Verb VerbFeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
 
