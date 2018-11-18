@@ -166,9 +166,10 @@ TZEpenthesisRule8
       
       define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 .o. PersPrefixRestr2 .o. AgentiveCausativeRestr1 ] ; 
 
-      source vroot.prq.foma
-      source vroot.es.foma
-      source n-vroot.prq.group1.foma 
+      #source vroot.prq.foma
+      #source vroot.es.foma
+      #source n-vroot.prq.group1.foma 
+      define vsyllable ConsRoot* VowelRoot^{1,2} ConsRoot*;
         define VRootPRQ [VRootPRQin|VRootESin|NounToVerbPRQin];
 
 #      define Verb VerbFeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
