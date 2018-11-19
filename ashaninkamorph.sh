@@ -16,10 +16,10 @@ usage="$(basename "$0") [-h] [-a -q -c -b -g] -- program to manage the morpholog
 
 where:
     -a  analyze an entry
+    -g  guess entry morphological analysis 
     -q  querying hinantin database
     -c  compile morphological analyzer
     -b  making a backup
-    -g  upload files to Google Code
     -t  test morphological analyzer
     "
 
@@ -30,7 +30,7 @@ BACKUP_FILE_NAME=ashaninkamorph_$TIMESTAMP.tar.bz2
 
 TEST=$1
 
-while getopts ':h:a:q:c:b:n:s:' o; do
+while getopts ':h:a:q:c:b:n:s:g:' o; do
   case "${o}" in
     h) echo "$usage"
        exit
@@ -126,10 +126,9 @@ while getopts ':h:a:q:c:b:n:s:' o; do
     g)
        echo "$startmessage"
        echo "**************************************************"
-       echo "*   Uploading files to GitHub Ashaninka Morph    *"
+       echo "*   Guessing the morphological structure         *"
        echo "**************************************************"
-       git add nroot.prq.foma vroot.prq.foma oroot.prq.foma aroot.prq.foma advroot.prq.foma pronoun.prq.foma numeral.prq.foma ideo.prq.foma vroot.es.foma nroot.es.foma neg.prq.foma neg.prq.foma interjection.prq.foma asheninka.script 
-       git commit -m "Updating morphological analyzer." nroot.prq.foma vroot.prq.foma oroot.prq.foma aroot.prq.foma advroot.prq.foma pronoun.prq.foma numeral.prq.foma ideo.prq.foma vroot.es.foma nroot.es.foma neg.prq.foma neg.prq.foma interjection.prq.foma asheninka.script 
+       echo "${OPTARG}" | perl tokenize.pl | lookup -flags TT asheninka.guesser.bin
 
        ;;
      t)
