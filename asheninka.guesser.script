@@ -170,7 +170,7 @@ TZEpenthesisRule8
       #source vroot.es.foma
       #source n-vroot.prq.group1.foma 
       define vsyllable ConsRoot* VowelRoot^{1,2} ConsRoot*;
-        define VRootPRQ [ ["[="] :0 ] [ vsyllable+ ] [ ["][VRootG]"] :0 ] ;
+        define VRootPRQ [ ["[="] :0 ] [ vsyllable+ ] [ ["+GUESS][VRoot]"] :0 ] ;
 
 #      define Verb VerbFeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
 
@@ -305,7 +305,7 @@ TZEpenthesisRule8
 
       #define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
       define nsyllable ConsRoot* VowelRoot^{1,2} ConsRoot*;
-      define NRootPRQ [ ["[="] :0 ] [ vsyllable+ ] [ ["][NRootG]"] :0 ] ;
+      define NRootPRQ [ ["[="] :0 ] [ vsyllable+ ] [ ["+GUESS][NRoot]"] :0 ] ;
       ####################################
       #     Compound nouns               #
       ####################################
