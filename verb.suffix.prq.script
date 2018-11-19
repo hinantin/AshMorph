@@ -275,8 +275,8 @@ define V=S=IRRRFL [
 ];
 # NON/FUTURE + REFLEXIVE (RFL)
 define V=S=IRRCPB [
-  "[--][-tʃa~txa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{txa}]
-| "[--][-tʃaa~txaa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{txaa}]
+  "[--][-ʃa~xa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xa}]
+| "[--][-ʃaa~xaa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xaa}]
 ];
 # -------------------------------------------
                    
@@ -287,7 +287,7 @@ define STATUS [
 | [EP V=S=IRRRFL]|[V=S=IRRRFL]
 # ------------------------------------------
 | [EP V=S=PRNO=SET2]|[V=S=PRNO=SET2]
-| [V=S=IRRCPB]
+| [EP V=S=IRRCPB] [V=S=IRRCPB]
 ];
                    
 # ****************************************
