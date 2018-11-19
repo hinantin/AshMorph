@@ -6,7 +6,7 @@
        define Cleanup [Cleanup2];
 
        define VowelRoot [a|e|i|o|á|é|í|ó|A|E|I|O|Á|É|Í|Ó];
-       define ConsRoot [b|c|g|h|j|k|l|m|n|p|q|r|s|t|v|x|y|B|C|G|H|J|K|L|M|N|P|Q|R|S|T|V|X|Y];
+       define ConsRoot [b|c|g|h|j|k|l|m|n|p|q|r|s|t|v|x|y|z|B|C|G|H|J|K|L|M|N|P|Q|R|S|T|V|X|Y|Z];
 
       source ortography.foma 
 
