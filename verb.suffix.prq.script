@@ -739,14 +739,18 @@ define ADJ [
 # ****************************************
                    
 # --------Sociative-Causative ----------
-define V=S=CAUSSOC [
-  "[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{ak}]
-!| "[--][-ag][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{ag}] ! to be revised 
-| "[--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{aka}]
-| "[--][-akaa][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]" : "@EP"[{akaa}]
+define V=S=CAUSSOC=SET1 [
+  "[--][-ak][+CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{ak}]
+!| "[--][-ag][+CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{ag}] ! to be revised 
+| "[--][-aka][+CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{aka}]
+| "[--][-akaa][+CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{akaa}]
+];
+
+define V=S=CAUSSOC=SET2 [
+  "[--][-akag][+CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{akag}] ! to be revised 
 ];
                    
-define CAUSSOC [ [EP V=S=CAUSSOC]|[V=S=CAUSSOC] ];
+define CAUSSOC [ [EP V=S=CAUSSOC=SET1]|[V=S=CAUSSOC=SET1] ];
                    
 # ****************************************
                    
