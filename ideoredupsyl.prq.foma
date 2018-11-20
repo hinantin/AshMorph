@@ -30,7 +30,6 @@ define IdeoRedupSylin=RI [
 | "[=sherori+redup.syl.][Ideo:PRQ][=sliding.down.the_tree (slowly)]" : {sherori}
 ! 
 | "[=sori+redup.syl.][Ideo:PRQ][=staring.fixedly]" : {sori}
-| "[=sore+redup.syl.][Ideo:PRQ][=staring.fixedly]" : {sore} ! yamenakero sorerere / y- =amen -ak -e -ro =sore / 3m.a- =to.look -prf -real -3n.m.o =IDEO 
 | "[=soreri+redup.syl.][Ideo:PRQ][=looking.at.sb.fixedly.and.intently]" : {soreri}
 ! 
 | "[=teri+redup.syl.][Ideo:PRQ][=thunder; thunder.sound]" : {teri}
@@ -62,6 +61,7 @@ define IdeoRedupSylin=RE [
 # ---------------------------------------------------------
 # re 
   "[=tapore+redup.syl.][Ideo:PRQ][=plant.growing.from.the_ground]" : {tapore}
+| "[=sore+redup.syl.][Ideo:PRQ][=staring.fixedly]" : {sore} ! yamenakero sorerere / y- =amen -ak -e -ro =sore / 3m.a- =to.look -prf -real -3n.m.o =IDEO 
 | "[=vore+redup.syl.][Ideo:PRQ][=brilliance.of.the_sun]" : {vore}
 ! shitererere / ES: 'sonido/acción.del.volar.de.las.avispas' 
 | "[=shitere+redup.syl.][Ideo][=sound/action.of.wasps.flying]" : {shitere}

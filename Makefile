@@ -9,8 +9,8 @@ compile:
 	@rm -f verb.classifier.prq.foma | perl extractEntries.pl --file noun.suffix.prq.script --outputfilename "verb.classifier.prq.foma" --flag "@CL" --title "VERBAL CLASSIFIERS (VERB.CL)" --header "V=S=CL" --replace1 1 --replace2 1 --source2 "\+CL:" --target2 "+VERB.CL:"
 	@rm -f ideo.adbl.foma | bash ashaninkamorph.sh -q "test" 
 	@rm -f asheninka.bin asheninka.guesser.bin ideoredupsyl.bin *.tar.bz2
-	@foma -f asheninka.script 
-	@foma -f asheninka.guesser.script 
+	@xfst -f asheninka.script 
+	@xfst -f asheninka.guesser.script 
 	@xfst -f ideoredupsyl.prq.foma 
 	@tar -jcvf ashaninkamorph$$(date +%Y%m%d%H%M%S).tar.bz2 asheninka.bin asheninka.guesser.bin ideoredupsyl.bin 
 	@cp *.tar.bz2 /media/sf_RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/ashaninkamorph
