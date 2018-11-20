@@ -2128,9 +2128,9 @@ define VRootPRQin [
 | "[=tiyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tiyerov}
 | "[=tiyero][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tiyero}
 ! 
-| "[=tyoo][VRoot][=to.honk]" : {tyoo}
-| "[=tio][VRoot][=to.honk]" : {tio}
-| "[=tio][VRoot][=to.honk]" : {tziwoo}
+| "[=tyoo][VRoot][=to.honk (ES: bocinar)]" : {tyoo}
+| "[=tio][VRoot][=to.honk (ES: bocinar)]" : {tio}
+| "[=tzivoo][VRoot][=to.honk (ES: bocinar)]" : {tzivoo}
 ! 
 | "[=tyoonk][VRoot][=to.bathe]" : {tyoonk}
 | "[=tyoonk][VRoot][=to.bathe.in.steam]" : {tyoonk}
