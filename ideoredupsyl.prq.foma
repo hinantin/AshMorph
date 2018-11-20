@@ -7,15 +7,15 @@ source ortography.foma
 # IdeoRedupSylPRQ.foma
 
 # ri, ro, ra, pi, po, mi, vi, ni 
-define RedupSyl=RI [ 0 : {ri}^{1,6} ]+;
-define RedupSyl=RE [ 0 : {re}^{1,6} ];
-define RedupSyl=RO [ 0 : {ro}^{1,6} ];
-define RedupSyl=PO [ 0 : {po}^{1,6} ];
-define RedupSyl=MI [ 0 : {mi}^{1,6} ];
-define RedupSyl=PI [ 0 : {pi}^{1,6} ];
-define RedupSyl=RA [ 0 : {ra}^{1,6} ];
-define RedupSyl=VI [ 0 : {vi}^{1,6} ];
-define RedupSyl=NI [ 0 : {ni}^{1,6} ];
+define RedupSyl=RI [ 0 : {ri}^{0,6} ]+;
+define RedupSyl=RE [ 0 : {re}^{0,6} ];
+define RedupSyl=RO [ 0 : {ro}^{0,6} ];
+define RedupSyl=PO [ 0 : {po}^{0,6} ];
+define RedupSyl=MI [ 0 : {mi}^{0,6} ];
+define RedupSyl=PI [ 0 : {pi}^{0,6} ];
+define RedupSyl=RA [ 0 : {ra}^{0,6} ];
+define RedupSyl=VI [ 0 : {vi}^{0,6} ];
+define RedupSyl=NI [ 0 : {ni}^{0,6} ];
 
 define V [a|e|i|o];
 
