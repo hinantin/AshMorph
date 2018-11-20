@@ -7,7 +7,7 @@ source ortography.foma
 # IdeoRedupSylPRQ.foma
 
 # ri, ro, ra, pi, po, mi, vi, ni 
-define RedupSyl=RI [ 0 : {ri}^{0,6} ]+;
+define RedupSyl=RI [ 0 : {ri}^{0,6} ];
 define RedupSyl=RE [ 0 : {re}^{0,6} ];
 define RedupSyl=RO [ 0 : {ro}^{0,6} ];
 define RedupSyl=PO [ 0 : {po}^{0,6} ];
