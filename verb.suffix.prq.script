@@ -739,6 +739,8 @@ define ADJ [
 # ****************************************
                    
 # --------Sociative-Causative ----------
+# Sociative causation is a particular type of causation, where the causer not only
+# makes the causee do an action, but also participates in it. \cite{}
 define V=S=CAUSSOC=SET1 [
   "[--][-ak][+CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{ak}]
 !| "[--][-ag][+CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{ag}] ! to be revised 
