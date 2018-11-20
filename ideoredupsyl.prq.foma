@@ -21,7 +21,7 @@ define V [a|e|i|o];
 
 define REDUPSYL ?* "+redup.syl.";
 
-define IdeoRedupSylPRQin=RI [
+define IdeoRedupSylin=RI [
 # ---------------------------------------------------------
 # ri  
   "[=pinairi+redup.syl.][Ideo:PRQ][=scratching.with.nails/claws; stretching_out/rolling_out.a_roll.of.plastic; leafing.through.a_book]" : {pinairi}
@@ -58,7 +58,7 @@ define IdeoRedupSylPRQin=RI [
 | "[=tsikiri+s.redup.word/+redup.syl.+redup.syl.][Ideo][=liquid.gushing.out.in.a.stream; arterial.bleeding (gushing.out)]" : {tsikiri}
 ];
 
-define IdeoRedupSylPRQin=RE [
+define IdeoRedupSylin=RE [
 # ---------------------------------------------------------
 # re 
   "[=tapore+redup.syl.][Ideo:PRQ][=plant.growing.from.the_ground]" : {tapore}
@@ -69,28 +69,28 @@ define IdeoRedupSylPRQin=RE [
 | "[=heretrere+whistle.lang.+redup.syl.][Ideo:CJO][=action.of.staring/watching.at.sb.]" : {heretrere}
 ];
 
-define IdeoRedupSylPRQin=PO [
+define IdeoRedupSylin=PO [
 # ---------------------------------------------------------
 # po 
   "[=shipo+redup.syl.][Ideo:PRQ][=rising.vapor.from.sth.heated (i.e.: stone, fire, etc.); smoke/mist.rising]" : {shipo}
 | "[=sapo+redup.syl.][Ideo:PRQ][=bird.wings.flapping]" : {sapo}
 ];
 
-define IdeoRedupSylPRQin=MI [
+define IdeoRedupSylin=MI [
 # ---------------------------------------------------------
 # mi 
   "[=tsimi+redup.syl.][Ideo:PRQ][=sucking.meat.from.bone]" : {tsimi}
 | "[=hemi+redup.syl.][Ideo:PRQ][=feeling.of.spreading.numbness.in.mouth.cavity]" : {hemi}
 ];
 
-define IdeoRedupSylPRQin=PI [
+define IdeoRedupSylin=PI [
 # ---------------------------------------------------------
 # pi 
 ! sapipipi: it.describes.the.condition.of.sth.that.is.stinking   
   "[=sapi+redup.syl.][Ideo:PRQ][=weak.wind.action.which.moves.treetops; wind.in.trees; strong.stench]" : {sapi}
 ];
 
-define IdeoRedupSylPRQin=RA [
+define IdeoRedupSylin=RA [
 # ra 
   "[=chara+redup.syl.][Ideo:PRQ][=trickling.liquid (e.g.: water, urine, diarrhea)]" : {chara}
 | "[=shaara+redup.syl.][Ideo:PRQ][=action/sound.of.flowing.water]" : {shaara}
@@ -99,13 +99,13 @@ define IdeoRedupSylPRQin=RA [
 | "[=pakara+redup.syl.][Ideo:PRQ][=breaking.into.multiple.pieces.of.a.fallen.fragile.object.upon.contact.with.the.ground (e.g.: a_plate, a_mirror)]" : {pakara}
 ]; 
 
-define IdeoRedupSylPRQin=VI [
+define IdeoRedupSylin=VI [
 # ---------------------------------------------------------
 # vi 
   "[=tsovi+redup.syl.][Ideo:PRQ][=mosquito.sound]" : {tsovi}
 ];
 
-define IdeoRedupSylPRQin=RO [
+define IdeoRedupSylin=RO [
 # ---------------------------------------------------------
 # ro 
   "[=sero+redup.syl.][Ideo:PRQ][=sliding.downward]" : {sero}
@@ -114,7 +114,7 @@ define IdeoRedupSylPRQin=RO [
 | "[=tsakoro+redup.syl.][Ideo:PRQ][=emptying.water.bottle]" : {tsakoro}
 ];
 
-define IdeoRedupSylPRQin=NI [
+define IdeoRedupSylin=NI [
 # ---------------------------------------------------------
 # ni 
   "[=tsovini+whistle.lang.+redup.syl.][Ideo:CJO][=sound.of.labor_pains (ES: sonido.de.dolores.de.parto)]" : {tsovini}
@@ -127,7 +127,16 @@ define IDEO=S=PUNCTUALACTN [
  "[--][-k][+PUNCTUAL.ACTN]" : [{k}]
 ];
 
-read regex [IdeoRedupSylPRQin=RI RedupSyl=RI (IDEO=S=PUNCTUALACTN)] .o. Orthography ; 
+read regex [ [ IdeoRedupSylin=RI RedupSyl=RI 
+             | IdeoRedupSylin=RE RedupSyl=RE 
+             | IdeoRedupSylin=PO RedupSyl=PO 
+             | IdeoRedupSylin=MI RedupSyl=MI 
+             | IdeoRedupSylin=PI RedupSyl=PI 
+             | IdeoRedupSylin=RA RedupSyl=RA 
+             | IdeoRedupSylin=VI RedupSyl=VI 
+             | IdeoRedupSylin=RO RedupSyl=RO 
+             | IdeoRedupSylin=NI RedupSyl=NI 
+             ] (IDEO=S=PUNCTUALACTN)] .o. Orthography ; 
 
 save stack ideoredupsyl.bin
 
