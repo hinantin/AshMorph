@@ -136,7 +136,7 @@ read regex [ [ IdeoRedupSylin=RI RedupSyl=RI
              | IdeoRedupSylin=VI RedupSyl=VI 
              | IdeoRedupSylin=RO RedupSyl=RO 
              | IdeoRedupSylin=NI RedupSyl=NI 
-             ] (IDEO=S=PUNCTUALACTN)] .o. Orthography ; 
+             ] (IDEO=S=PUNCTUALACTN) ] .o. Orthography ; 
 
 save stack ideoredupsyl.bin
 
