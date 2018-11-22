@@ -6,10 +6,11 @@ This is a morphological analyzer for Ashaninka written using Xerox finite state 
 Ashaninka is a polysinthetic language spoken in the central adjoining Amazonian regions between Peru and Brazil (Acre State).
 It is spoken by approximately 70,000 people (2002), making it the third most widely spoken indigenous language of the Americas.
 
-Compiling with XFST
+Compiling with XFST or FOMA
 ===============================
 
 ```
+# XFST 
 $ xfst -f asheninka.script 
 $ xfst -f ideoredupsyl.prq.foma 
 $ echo "ashaninka" | lookup -f lookup.script -flags cnKv29TT
@@ -32,6 +33,10 @@ execution time:	0 sec
 speed:		1 word/sec
 
   *****  END OF LEXICON LOOK-UP  *****
+
+# FOMA
+$ foma -f asheninka.script 
+$ foma -f ideoredupsyl.prq.foma 
 
 ```
 
