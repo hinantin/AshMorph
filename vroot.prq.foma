@@ -1228,7 +1228,10 @@ define VRootPRQin [
 | "[=hok][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)]" : {hok}
 | "[=ohok][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)]" : {ohok}
 ! 
-| "[=sok][VRoot][=to.leaving (ES: salir)]" : {sok}
+| "[=sok][VRoot][=to.leave (ES: salir)]" : {sok}
+| "[=soki][VRoot][=to.leave (ES: salir)]" : {soki}
+| "[=sokih][VRoot][=to.leave, to.go.out (ES: salir)]" : {sokih}
+#| "[=sokih][VRoot][=to.go.out (ES: salir)]" : {sokih}
 # -----------------------------------------------------------------------
 ! 
 | "[=okire][VRoot][=to.amaze (ES: asombrar)]" : {okire}
@@ -1833,8 +1836,6 @@ define VRootPRQin [
 | "[=shoinink][VRoot][=to.whistle (ES: silbar)]" : {shoinink}
 ! shoirinkamentotsi / =shoirink -a -mento -tsi / ES: 'silbato'  
 | "[=shoirink][VRoot][=to.whistle (ES: silbar)]" : {shoirink}
-! 
-| "[=sokih][VRoot][=to.go.out (ES: salir)]" : {sokih}
 ! 
 | "[=sonaank][VRoot][=to.dent.sth.]" : {sonaank}
 | "[=chonaank][VRoot][=to.dent.sth.]" : {chonaank}
