@@ -2,7 +2,7 @@
 #       IDEOPHONES WITH REDUPLICATED WORD-FINAL SYLLABLE         
 # ---------------------------------------------------------------
 
-source ortography.foma 
+#source ortography.foma 
 
 # IdeoRedupSylPRQ.foma
 
@@ -17,9 +17,9 @@ define RedupSyl=RA [ 0 : {ra}^{0,6} ];
 define RedupSyl=VI [ 0 : {vi}^{0,6} ];
 define RedupSyl=NI [ 0 : {ni}^{0,6} ];
 
-define V [a|e|i|o];
+#define V [a|e|i|o];
 
-define REDUPSYL ?* "+redup.syl.";
+#define REDUPSYL ?* "+redup.syl.";
 
 define IdeoRedupSylin=RI [
 # ---------------------------------------------------------
@@ -131,17 +131,6 @@ define IDEO=S=PUNCTUALACTN [
  "[--][-k][+PUNCTUAL.ACTN]" : [{k}]
 ];
 
-read regex [ [ IdeoRedupSylin=RI RedupSyl=RI 
-             | IdeoRedupSylin=RE RedupSyl=RE 
-             | IdeoRedupSylin=PO RedupSyl=PO 
-             | IdeoRedupSylin=MI RedupSyl=MI 
-             | IdeoRedupSylin=PI RedupSyl=PI 
-             | IdeoRedupSylin=RA RedupSyl=RA 
-             | IdeoRedupSylin=VI RedupSyl=VI 
-             | IdeoRedupSylin=RO RedupSyl=RO 
-             | IdeoRedupSylin=NI RedupSyl=NI 
-             ] (IDEO=S=PUNCTUALACTN) ] .o. Orthography ; 
-
-save stack ideoredupsyl.bin
+#save stack ideoredupsyl.bin
 
 

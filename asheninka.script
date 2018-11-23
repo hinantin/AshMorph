@@ -474,6 +474,19 @@ TZEpenthesisRule8
         define IdeoADBL IdeoADBLin;
       define Ideophone [ [IdeoPRQ|IdeoADBL] ];
 
+      source ideoredupsyl.prq.foma
+
+      define IdeoRedupSyl [ [ IdeoRedupSylin=RI RedupSyl=RI 
+                   | IdeoRedupSylin=RE RedupSyl=RE 
+                   | IdeoRedupSylin=PO RedupSyl=PO 
+                   | IdeoRedupSylin=MI RedupSyl=MI 
+                   | IdeoRedupSylin=PI RedupSyl=PI 
+                   | IdeoRedupSylin=RA RedupSyl=RA 
+                   | IdeoRedupSylin=VI RedupSyl=VI 
+                   | IdeoRedupSylin=RO RedupSyl=RO 
+                   | IdeoRedupSylin=NI RedupSyl=NI 
+                   ] (IDEO=S=PUNCTUALACTN) ] ; 
+
       ##########################
       #                        #
       #       Punctuation      #
@@ -481,7 +494,7 @@ TZEpenthesisRule8
       ##########################
       source punctuation.foma
         define PunctuationMarks Punctuation;
-      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|NominalizedVerb|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
+      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|IdeoRedupSyl|NominalizedVerb|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
       read regex Ashaninka;
 
       save stack asheninka.bin
