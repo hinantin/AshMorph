@@ -1221,11 +1221,15 @@ define VRootPRQin [
 | "[=okaaki][VRoot][=to.be.close]" : {okaaki}
 | "[=ontzimatye][VRoot][=to.be.necessary]" : {ontzimatye}
 ! 
+# -----------------------------------------------------------------------
 | "[=ok][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)]" : {ok}
 | "[=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)]" : {ook}
 | "[=ooka][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)]" : {ooka}
 | "[=hok][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)]" : {hok}
 | "[=ohok][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)]" : {ohok}
+! 
+| "[=sok][VRoot][=to.leaving (ES: salir)]" : {sok}
+# -----------------------------------------------------------------------
 ! 
 | "[=okire][VRoot][=to.amaze (ES: asombrar)]" : {okire}
 | "[=okirea][VRoot][=to.amaze (ES: asombrar)]" : {okirea}
