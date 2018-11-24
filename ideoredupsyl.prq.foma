@@ -7,15 +7,86 @@
 # IdeoRedupSylPRQ.foma
 
 # ri, ro, ra, pi, po, mi, vi, ni 
-define RedupSyl=RI [ 0 : {ri}^{0,6} ];
-define RedupSyl=RE [ 0 : {re}^{0,6} ];
-define RedupSyl=RO [ 0 : {ro}^{0,6} ];
-define RedupSyl=PO [ 0 : {po}^{0,6} ];
-define RedupSyl=MI [ 0 : {mi}^{0,6} ];
-define RedupSyl=PI [ 0 : {pi}^{0,6} ];
-define RedupSyl=RA [ 0 : {ra}^{0,6} ];
-define RedupSyl=VI [ 0 : {vi}^{0,6} ];
-define RedupSyl=NI [ 0 : {ni}^{0,6} ];
+define RedupSyl=RI [ 
+  0 : {ri} 
+| 0 : {riri} 
+| 0 : {ririri} 
+| 0 : {riririri} 
+| 0 : {ririririri} 
+| 0 : {riririririri} 
+];
+
+define RedupSyl=RE [ 
+  0 : {re} 
+| 0 : {rere} 
+| 0 : {rerere} 
+| 0 : {rererere} 
+| 0 : {rerererere} 
+| 0 : {rererererere} 
+];
+
+define RedupSyl=RO [ 
+  0 : {ro} 
+| 0 : {roro} 
+| 0 : {rororo} 
+| 0 : {rorororo} 
+| 0 : {rororororo} 
+| 0 : {rorororororo} 
+];
+
+define RedupSyl=PO [ 
+  0 : {po} 
+| 0 : {popo} 
+| 0 : {popopo} 
+| 0 : {popopopo} 
+| 0 : {popopopopo} 
+| 0 : {popopopopopo} 
+];
+
+define RedupSyl=MI [ 
+  0 : {mi} 
+| 0 : {mimi} 
+| 0 : {mimimi} 
+| 0 : {mimimimi} 
+| 0 : {mimimimimi} 
+| 0 : {mimimimimimi} 
+];
+
+define RedupSyl=PI [ 
+  0 : {pi} 
+| 0 : {pipi} 
+| 0 : {pipipi} 
+| 0 : {pipipipi} 
+| 0 : {pipipipipi} 
+| 0 : {pipipipipipi} 
+];
+
+define RedupSyl=RA [ 
+  0 : {ra} 
+| 0 : {rara} 
+| 0 : {rarara} 
+| 0 : {rararara} 
+| 0 : {rarararara} 
+| 0 : {rararararara} 
+];
+
+define RedupSyl=VI [ 
+  0 : {vi} 
+| 0 : {vivi} 
+| 0 : {vivivi} 
+| 0 : {vivivivi} 
+| 0 : {vivivivivi} 
+| 0 : {vivivivivivi} 
+];
+
+define RedupSyl=NI [ 
+  0 : {ni} 
+| 0 : {nini} 
+| 0 : {ninini} 
+| 0 : {nininini} 
+| 0 : {ninininini} 
+| 0 : {nininininini} 
+];
 
 #define V [a|e|i|o];
 
@@ -132,5 +203,6 @@ define IDEO=S=PUNCTUALACTN [
 ];
 
 #save stack ideoredupsyl.bin
+
 
 
