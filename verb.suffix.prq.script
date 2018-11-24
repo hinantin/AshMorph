@@ -1245,8 +1245,8 @@ define DLMT [ [EP V=S=DLMT]|[V=S=DLMT] ];
 # ----------- Mirativity --------------
 # Reporting information which is new or surprising to the speaker 
 define V=S=MIR [
-  "[--][-atai][+MIR]" : "@EP"[{atai}] 
-| "[--][-atae][+MIR]" : "@EP"[{atae}] 
+  "[--][-atai][+MIR][=sudden.discovery.of.knowledge; -ri/REL:surprise.in.a.rhetorical.Q.]" : "@EP"[{atai}] 
+| "[--][-atae][+MIR][=sudden.discovery.of.knowledge; -ri/REL:surprise.in.a.rhetorical.Q.]" : "@EP"[{atae}] 
 ];
                    
 define MIR [ [EP V=S=MIR]|[V=S=MIR] ];
