@@ -14,12 +14,16 @@ $ sudo make install
 $ sudo cp fomaserver /usr/bin/
 $ sudo chmod +x /usr/bin/fomaserver
 
-# Got to the AshaninkaMorph folder 
+# Go to the AshaninkaMorph folder 
 $ cd AshaninkaMorph
 $ foma -f asheninka.script
 # Creating the HINANTIN folder
 $ sudo mkdir -p /usr/share/hinantin/
 # Installing transducers
 $ sudo cp asheninka.bin /usr/share/hinantin/
-
+# Installing the service 
+$ cd ServerMode
+$ sudo cp tcpServerFoma /etc/init.d
+$ sudo chmod +x /etc/init.d/tcpServerFoma
+$ sudo update-rc.d tcpServerFoma defaults
 ```

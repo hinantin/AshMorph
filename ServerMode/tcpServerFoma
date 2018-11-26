@@ -1,7 +1,7 @@
 #!/bin/sh
 ### BEGIN INIT INFO
-# Provides: tcpServerSpellCheck
-# Provides: tcpserverspellcheck
+# Provides: tcpServerFoma
+# Provides: tcpserverFoma
 # Required-Start:    $remote_fs $syslog
 # Required-Stop:     $remote_fs $syslog
 # Default-Start:     2 3 4 5
@@ -11,7 +11,7 @@
 ### END INIT INFO
 
 dir="/usr/bin"
-dictPath="/usr/share/hinantin/"
+dictPath="/usr/share/hinantin"
 user="root"
 # -A: host, -P: port number
 cmd="fomaserver -P 8899 $dictPath/asheninka.bin"
