@@ -10,9 +10,9 @@ define WhPRQin [
 | "[=paita][WhPrn][=how, why, what (ES: ¿qué?, ¿por qué?)][--][=kia][+EMPH]" : {paitakia}
 | "[=ninka][WhPrn][=who, whom]" : {ninka}
 ! 
-| "[=hanika][WhPrn][=who, whom (ES: ¿quién?)]" : {hanika}
-| "[=haanika][WhPrn][=who, whom (ES: ¿quién?)]" : {haanika}
-| "[=hanika][WhPrn][=who, whom][--][-mpa][+DUB]" : {hanikampa}
+| "[=hanika][WhPrn][=who.(be), whom (ES: ¿quién?)]" : {hanika}
+| "[=haanika][WhPrn][=who.(be), whom (ES: ¿quién?)]" : {haanika}
+| "[=hanika][WhPrn][=who.(be), whom][--][-mpa][+DUB]" : {hanikampa}
 ! 
 # --------------------------------------------
 # PLACE:  
