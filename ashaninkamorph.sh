@@ -38,7 +38,6 @@ while getopts ':h:a:q:c:b:n:s:g:' o; do
     a) echo "$startmessage"
 #       echo "${OPTARG}" | lookup -f lookup.script -flags cnKv29TT
        echo "${OPTARG}" | perl tokenize.pl | lookup -flags TT asheninka.bin
-       echo "${OPTARG}" | perl tokenize.pl | lookup -flags TT ideoredupsyl.bin
        ;;
     s) echo "$startmessage"
        curl "http://35.167.3.206:8983/solr/gettingstarted/select?q=${OPTARG}&wt=json&hl=true&hl.snippets=5&hl.usePhraseHighlighter=true&hl.method=unified" | grep -Rn "${OPTARG}"
