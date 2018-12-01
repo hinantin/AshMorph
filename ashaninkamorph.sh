@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TOKENIZERPATH=/home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions
+TOKENIZERPATH=/home/hinantin/ashaninka/AshaninkaMorph
 
 source bash-ini-parser
 startmessage="
