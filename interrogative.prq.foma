@@ -1,6 +1,7 @@
 define WhPRQin [
 ! Wh: interrogative
 ! Indf: indefinite 
+! Specif: specific 
   "[=arika][WhPrn][=when; if]" : {arika}
 | "[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when; if]" : {aririka}
 ! 
