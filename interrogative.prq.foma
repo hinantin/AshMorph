@@ -86,7 +86,7 @@ define WhPRQin [
 | "[=tsika][WhPrn][=WH][--][-paite][+ADV][=during]::[=when]" : {tsikapaite}
 # 
 # --------------------------------------------
-# BELONGING:
+# POSSESOR:
 # =ninka ... =ashi ... -ri: 'whose ... =NOUN? '  
 # 
 | "[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why][--][-paite][+ADV][=during]::[=its.period]" : {iropaite}
@@ -98,8 +98,8 @@ define WhPRQin [
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
 | "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
 ! 
-| "[=hempe][IndfSpecif][=where (ES: dónde); who]" : {hempe}
-| "[=hĩpe][IndfSpecif:CPB][=where (ES: dónde); who]" : {hĩpe}
+| "[=hempe][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hempe}
+| "[=hĩpe][WhPrn:CPB][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hĩpe}
 ! 
 | "[=ipaitaka][ORoot][=WH]" : {ipaitaka}
 ! 
