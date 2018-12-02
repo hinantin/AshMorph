@@ -300,7 +300,7 @@ define N=S=CL [
 | "[--][-i^venki+n.m.][+CL:magic.plant][=magic.plant,piripiri]" : {venki} 
 
 # pabachori / pavachori / =pava -chori / =dad -cl:distant.kin / EN: 'uncle'; ES: 'tío'  
-| "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tsori} 
+| "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin, nuclear.kin]" : {tsori} 
 | "[--][-tyori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {tyori} 
 | "[--][-chori][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {chori} 
 | "[--][-eni][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {eni}
