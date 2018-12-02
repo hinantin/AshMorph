@@ -100,7 +100,8 @@ define WhPRQin [
 | "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
 ! 
 | "[=hempe][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hempe}
-| "[=hĩpe][WhPrn:CPB][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hĩpe}
+| "[=hiNpe/hĩpe][WhPrn:CPB][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hĩpe}
+| "[=himpe][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {himpe}
 ! 
 | "[=ipaitaka][ORoot][=WH]" : {ipaitaka}
 ! 
