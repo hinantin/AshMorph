@@ -34,47 +34,48 @@ define WhPRQin [
 # --------------------------------------------
 # PLACE:  
 # tsika isaikika? / EN: 'where.does.she/he/it.live?'; ES: '¿dónde vive?'  
-# =tsika ... =saik ... -ka : 'where ... live?'  
+# =tsika ... =saik ... =ka : 'where ... live?'  
 # --------------------------------------------
 # PLACE:  
-# =tsika ... =iyaat ... -ka : 'where ... go?'  ! with -ka ???
-# =tsika ... =ha ... -ka : 'where ... go?' 
-# =tsika ... =kin ... -ka : 'where ... go?' 
+# =tsika ... =iyaat ... =ka : 'where ... go?'  ! with =ka ???
+# =tsika ... =ha ... =ka : 'where ... go?' 
+# =tsika ... =kin ... =ka : 'where ... go?' 
 # --------------------------------------------
 # PLACE:  
-# =tsika ... =a ... -ka : 'where ... take from?'  ! with -ka ???
+# =tsika ... =a ... =ka : 'where ... take from?'  ! with =ka ???
 # --------------------------------------------
 # PLACE:  
-# =tsika ... =iyaat ... -ka : 'where ... go?'  
+# =tsika ... =iyaat ... =ka : 'where ... go?'  
 # PLACE:  
-# =tsika ... =ken ... -ka : 'where ... go?'  
-# =tsika ... =ken ... -ka : 'where ... be?'  
+# =tsika ... =ken ... =ka : 'where ... go?'  
+# =tsika ... =ken ... =ka : 'where ... be?'  
 # MANNER: 
-# =tsika ... N- =ken ... -ka : 'how.could ... do.sth.?; how.will ... do.sth.?' 
+# =tsika ... N- =ken ... =ka : 'how.could ... do.sth.?; how.will ... do.sth.?' 
 # --------------------------------------------
 # QUANTITY: it is formed using the copula of capacity (COP.CAP) =kara 
 # =tsika ... =kara ... =NOUN : 'how.much/many?'  
-# =tsika ... N- =kara ... oorya : 'at.which.hour/day?'  
+# =tsika ... N- =kara ... oorya : 'at.which.hour/day?' 
+# HĨPE IKAATSIKA PAAKARI SHIMA? / =hĩpe ** i- =ka(r)a -ts -i =ka ** p- =a -ak -a =ri ** =shima / PT: 'quantos.peixes.você.pescou?'
 # --------------------------------------------
 # PERSON: 
-# =tsika ... =tzim ... -ka : 'who.be ...?' 
-# =tsika ... =tzim ... -ka =VERB ... -ri : 'which.of.them ... ?' 
+# =tsika ... =tzim ... =ka : 'who.be ...?' 
+# =tsika ... =tzim ... =ka =VERB ... -ri : 'which.of.them ... ?' 
 # --------------------------------------------
 # MANNER: 
-# =tsika ... (N-) =kant ... -ka : 'what ... say?; what ... do?; what ... happened?' 
-# =tsika ... =kant ... (-ka) =VERB ... -ri : 'how ... ?'  
-# =tsika ... =kant ... -ka =VERB ... -ri : 'why ... ?'  
+# =tsika ... (N-) =kant ... =ka : 'what ... say?; what ... do?; what ... happened?' 
+# =tsika ... =kant ... (=ka) =VERB ... -ri : 'how ... ?'  
+# =tsika ... =kant ... =ka =VERB ... -ri : 'why ... ?'  
 # =tsika ... =kant -ako ... =NOUN : 'about =NOUN'  
 # --------------------------------------------
 # VERB ARGUMENT: 
-# (=tsika) ... =pait ... -ka : 'how ... call ...?; who.be ...?; what ... do?' 
-# =tsika ... =pait ... -ka ... =VERB ... -ri: 'who ...?; what/which ...?; why ...?; how ...?' 
+# (=tsika) ... =pait ... =ka : 'how ... call ...?; who.be ...?; what ... do?' 
+# =tsika ... =pait ... =ka ... =VERB ... -ri: 'who ...?; what/which ...?; why ...?; how ...?' 
 # --------------------------------------------
-# =pait ... -ka ... =VERB ... -ri: 'which ... =NOUN? ' 
-# =pait ... -ka ... =VERB ... -ri: 'who ...?; what ...?; why ...?; how ...?; how could ...?' 
-# ipaitaka / i- =pai -t -a -ka / 3m.s- =to.call -ep -real -q / EN: 'what's.up?; how.are.you?' 
+# =pait ... =ka ... =VERB ... -ri: 'which ... =NOUN? ' 
+# =pait ... =ka ... =VERB ... -ri: 'who ...?; what ...?; why ...?; how ...?; how could ...?' 
+# ipaitaka / i- =pai -t -a =ka / 3m.s- =to.call -ep -real =q / EN: 'what's.up?; how.are.you?' 
 # REASON: 
-# =tsika ... =pait ... -ka ... =VERB ... -ri: 'why ... do.sth.?'  
+# =tsika ... =pait ... =ka ... =VERB ... -ri: 'why ... do.sth.?'  
 | "[=tsika][WhPrn][=WH (EN: where,, what,, which,, how,, why)]" : {tsika}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
 # tsikarika isaiki / EN: 'wherever they were living'  
