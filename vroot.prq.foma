@@ -2306,7 +2306,7 @@ define VRootPRQin [
 # --------------------------------------------------------------------------- 
 ! copula of capacity COP.CAP
 | "[=kara][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 
-| "[=kara~kaa][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kaa} 
+| "[=kara~kaa][VRoot:CPB][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kaa} 
 ! 
 | "[=kara][VRoot][=to.contain, to.finish]" : {kara} ! contain - abarcar, sumar?
 | "[=kara~kaa][VRoot][=to.contain, to.finish]" : {kaa}
