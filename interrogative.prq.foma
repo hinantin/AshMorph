@@ -7,8 +7,8 @@ define WhPRQin [
 | "[=ari][PostPol][=PP][--][-rika][+COND]::[=when; if]" : {aririka}
 ! 
 # ----------------------------------------------------------------
-| "[=tsika][WhPrn][=WH][--][=paita][WhPrn][=WH]::[=WH (EN: how,, why,, what); tsika_opaita~tsikapaita]" : {tsikapaita}
-| "[=tsipaita][Prn][=INDF (EN: whatever, something); tsika_opaita~tsipaita]" : {tsipaita}
+| "[=tsika][WhPrn][=WH][--][=paita][WhPrn][=WH]::[=WH (EN: how,, why,, what); tsika_opaita~tsikapaita (EN: what.is.it.called.that,, what)]" : {tsikapaita}
+| "[=tsipaita][Prn][=INDF (EN: whatever, something); tsika_opaita~tsipaita (EN: what.is.it.called.that,, what)]" : {tsipaita}
 ! 
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)]" : {paita}
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)][--][=mpa][+DUB]" : {paitampa}
