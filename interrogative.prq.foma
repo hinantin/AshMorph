@@ -1,6 +1,7 @@
 define WhPRQin [
-! Wh: interrogative
-! Indf: indefinite 
+# Functions: 
+! 1.- WH: interrogative 
+! 2.- INDF: indefinite 
 ! Specif: specific 
   "[=ari][PostPol][=PP][--][-rika~ka][+COND]::[=when; if]" : {arika}
 | "[=ari][PostPol][=PP][--][-rika][+COND]::[=when; if]" : {aririka}
@@ -10,7 +11,7 @@ define WhPRQin [
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)][--][=mpa][+DUB]" : {paitampa}
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)][--][=kia][+EMPH]" : {paitakia}
 ! 
-| "[=ninka][WhPrn][=who, whom]" : {ninka}
+| "[=ninka][WhPrn][=WH (EN: who, whom)]" : {ninka}
 ! 
 | "[=hanika][WhPrn][=who.(be), whom (ES: ¿quién?)]" : {hanika}
 | "[=haanika][WhPrn][=who.(be), whom (ES: ¿quién?)]" : {haanika}
@@ -79,7 +80,7 @@ define WhPRQin [
 | "[=haoka][WhPrn][=which, when (ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
 ! indefinite forms
-| "[=ninka][WhPrn][=who, whom][--][-rika][+COND]::[IndfPrn][=whoever, everybody, somebody]" : {ninkarika}
+| "[=ninka][WhPrn][=WH (EN: who, whom)][--][-rika][+COND]::[Prn][=INDF (EN: whoever, everybody, somebody)]" : {ninkarika}
 | "[=paitarika][IndfPrn][=whatever, something]" : {paitarika}
 | "[=tsipaita][IndfPrn][=whatever, something]" : {tsipaita}
 ! 
