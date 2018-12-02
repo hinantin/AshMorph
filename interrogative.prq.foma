@@ -5,7 +5,7 @@ define WhPRQin [
   "[=ari][PostPol][=PP][--][-rika~ka][+COND]::[=when; if]" : {arika}
 | "[=ari][PostPol][=PP][--][-rika][+COND]::[=when; if]" : {aririka}
 ! 
-| "[=tsikapaita][WhPrn][=how, why, what]" : {tsikapaita}
+| "[=tsika][WhPrn][=WH][--][=paita][WhPrn][=WH]::[=how; why; what]" : {tsikapaita}
 | "[=paita][WhPrn][=how, why, what (ES: ¿qué?, ¿por qué?)]" : {paita}
 | "[=paita][WhPrn][=how, why, what (ES: ¿qué?, ¿por qué?)][--][=mpa][+DUB]" : {paitampa}
 | "[=paita][WhPrn][=how, why, what (ES: ¿qué?, ¿por qué?)][--][=kia][+EMPH]" : {paitakia}
