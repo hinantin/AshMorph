@@ -7,6 +7,8 @@ define WhPRQin [
 | "[=ari][PostPol][=PP][--][-rika][+COND]::[=when; if]" : {aririka}
 ! 
 | "[=tsika][WhPrn][=WH][--][=paita][WhPrn][=WH]::[=how; why; what]" : {tsikapaita}
+| "[=tsipaita][Prn][=INDF (EN: whatever, something)]" : {tsipaita}
+! 
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)]" : {paita}
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)][--][=mpa][+DUB]" : {paitampa}
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)][--][=kia][+EMPH]" : {paitakia}
@@ -81,8 +83,6 @@ define WhPRQin [
 ! 
 | "[=haoka][WhPrn][=WH (EN: which, when; ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
-! indefinite forms
-| "[=tsipaita][Prn][=INDF (EN: whatever, something)]" : {tsipaita}
 ! 
 | "[=maaroni][IndfPrn][=all, everyone]" : {maaroni}
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
