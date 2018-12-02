@@ -85,8 +85,8 @@ define WhPRQin [
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
 | "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
 ! 
-| "[=hempe][IndfSpecif][=where; who]" : {hempe}
-| "[=hĩpe][IndfSpecifCPB][=where; who]" : {hĩpe}
+| "[=hempe][IndfSpecif][=where (ES: dónde); who]" : {hempe}
+| "[=hĩpe][IndfSpecif:CPB][=where (ES: dónde); who]" : {hĩpe}
 ! 
 | "[=ipaitaka][ORoot][=WH]" : {ipaitaka}
 ! 
