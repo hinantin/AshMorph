@@ -412,8 +412,9 @@ define V=S=APPR [
                    
 # ****************************************
                    
+# nominalization/relativization markers
 define V=S=REL [
-  "[--][=ri][NS][+REL]" : [{ri}]
+  "[--][=ri][NS][+REL.REAL]" : [{ri}]
 # -----------------------------------------------
 | "[--][=ni][NS][+REL.IRR]" : [{ni}]
 | "[--][=ne][NS][+REL.IRR]" : [{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
