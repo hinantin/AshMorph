@@ -18,6 +18,7 @@ define WhPRQin [
 ! 
 | "[=ninka][WhPrn][=WH (EN: who, whom)]" : {ninka}
 | "[=ninka][WhPrn][=WH (EN: who, whom)][--][-rika][+COND]::[Prn][=INDF (animate.entitities; EN: whoever, everybody, somebody)]" : {ninkarika}
+| "[=ninka][WhPrn][=WH (EN: who, whom)][--][=ma][+DUB]" : {ninkama}
 ! 
 | "[=hanika][WhPrn][=who.(be), whom (ES: ¿quién?)]" : {hanika}
 | "[=haanika][WhPrn][=who.(be), whom (ES: ¿quién?)]" : {haanika}
