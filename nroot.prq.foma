@@ -728,7 +728,7 @@ define NRootPRQin [
 | "[=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {henka} ! @VCMP 
 | "[=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {enka} ! @VCMP 
 ! 
-| "[=henoki][NRoot][=top (ES: arriba, alto); sky]" : {henoki}
+| "[=henoki][NRoot][=top (ES: arriba, alto); sky; (ES: el.padre.sol)]" : {henoki}
 | "[=henyoki][NRoot][=top (ES: arriba, alto); sky]" : {henyoki}
 | "[=henokê][NRoot][=top (ES: arriba, alto)]" : {henokê}
 ! 
@@ -2769,6 +2769,7 @@ define NRootPRQin [
 | "[=ohaaviki][NRoot][=floor, first.floor (ES: suelo)]" : {ohaaviki}
 | "[=osaviki][NRoot][=floor, first.floor]" : {osaviki}
 | "[=osaaviki][NRoot][=floor, first.floor]" : {osaaviki}
+| "[=isaviki][NRoot][= (ES: madre.de.la.naturaleza)]" : {isaviki}
 ! 
 | "[=oirontsi+poss@ti.][NRoot][=crab.sp. (ES: especie.de.cangrejo)]" : {oirontsi}
 ! 
