@@ -220,11 +220,8 @@ define ORootPRQin [
 ! 
 | "[=temaita][OtherRoot][=BUT…NOT (ES: PERO…NO)]" : {temaita}
 ! 
-! 
-# terika pashini mantsiyarentsipaye / =terika =pashini =mantsiya -re -ntsi -paye / =or =other =to.be.sick -nmz -nposs -pl / EN: 'or.other.diseases'; ES: 'u.otras.enfermedades'  
-
-| "[=terika][OtherRoot][=or]" : {terika}
-| "[=terika][OtherRoot][=maybe]" : {terika}
+# terika pashini mantsiyarentsipaye / =terika *** =pashini *** =mantsiya -re -ntsi -paye / =or *** =other *** =to.be.sick -nmz -nposs -pl / EN: 'or.other.diseases'; ES: 'u.otras.enfermedades'  
+| "[=terika][ConnRoot][=DISJUNCTION (EN: if.not, or; maybe)]" : {terika}
 ! 
 | "[=ya][OtherRoot][=eat]" : {ya}
 ! 
