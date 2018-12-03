@@ -216,15 +216,15 @@ define V=S=REAL [
 ];
 
 # 1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
-# ES: acción.no.empezada, estado/acción.incompletos  
-# it describes "unrealized" situations 
+# ES: acción.no.empezada, estado/acción.incompletos \cite[pag. 458]{kindberg:diccionario:80} 
+# EN: it describes "unrealized" situations 
 define V=S=IRR [
   "[--][-e+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
 | "[--][-e~ee+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ee}]
 | "[--][-e~ye+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ye}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
 | "[--][-e~yi+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yi}]
 # -------------------------------------------
-# -mpaa: estado/acción.imcompletos 
+# -mpaa: estado/acción.imcompletos \cite[pag. 458]{kindberg:diccionario:80}
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
 | "[--][-eNpa~empa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empa}]
@@ -260,7 +260,7 @@ define V=S=IRR [
 | "[--][-ia+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
 | "[--][-ia~ya+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ya}]
 | "[--][-ia~yaa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yaa}]
-| "[--][-ia~ea+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
+| "[--][-ia~ea+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17} \cite[pag. 458]{kindberg:diccionario:80}
 ];
 
 # NON/FUTURE + REFLEXIVE (RFL)
