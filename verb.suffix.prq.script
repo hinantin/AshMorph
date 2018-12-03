@@ -35,6 +35,8 @@ define V=S=PRNO=SET1 [
 | "[--][=ro][+3n.m.O/P]" : [{ro}] 
 | "[--][=vo][+3n.m.O/P]" : [{vo}] 
 ];
+
+# primera.persona, plural.inclusivo, objeto 
 define V=S=PRNO=SET2 [
 # ----------------------------------
   "[--][=ai][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ai}] 
