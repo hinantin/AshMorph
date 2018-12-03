@@ -556,7 +556,7 @@ define S [
 | (DUR) STATUS (PRNO) (V=S=NEG) (ADV) 
 | STATUS (ADV) 
 | STATUS (V=S=Q) 
-| STATUS (PRNO) (V=S=RELIRR) (ADV) 
+| STATUS (PRNO) (V=S=REL) (ADV) 
 #| STATUS (CAUSSOC) (PRF) (PRNO) ! revise!!!
 | (PL) STAT (V=S=REL) (V=S=Q) 
 | (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 

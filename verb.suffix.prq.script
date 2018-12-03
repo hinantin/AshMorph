@@ -36,7 +36,7 @@ define V=S=PRNO=SET1 [
 | "[--][=vo][+3n.m.O/P]" : [{vo}] 
 ];
 
-# primera.persona, plural.inclusivo, objeto 
+# primera.persona, plural.inclusivo, objeto e
 define V=S=PRNO=SET2 [
 # ----------------------------------
   "[--][=ai][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ai}] 
@@ -1151,9 +1151,9 @@ define V=S=NEG [
                    
 # ****************************************
                    
-define V=S=RELIRR [
-  "[--][=ni][+REL.IRR]" : [{ni}]
-];
+!define V=S=RELIRR [
+!  "[--][=ni][+REL.IRR]" : [{ni}]
+!];
                    
 # ****************************************
                    
