@@ -216,6 +216,7 @@ define V=S=REAL [
 ];
 
 # 1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
+# ES: acción.no.empezada, estado/acción.incompletos  
 # it describes "unrealized" situations 
 define V=S=IRR [
   "[--][-e+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
