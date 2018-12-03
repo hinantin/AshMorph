@@ -1109,7 +1109,7 @@ define V=S=almost [ # revise!
 # action finished a long time ago
 # REM.PST: remote past  
 define V=S=RPST [
-  "[--][-ni][+R.PST]" : [{ni}]
+  "[--][-ni][+R.PST][=actn.finished.a.long.time.ago (ES: acción.terminada.hace.mucho.tiempo)]" : [{ni}]
 ];
                    
 # ****************************************
