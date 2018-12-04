@@ -26,7 +26,7 @@ define WhPRQin [
 ! 
 # --------------------------------------------
 # PERIPHRASTIC STRATEGIES TO PRODUCE INTERROGATIVE CONSTRUCTIONS 
-# BY USING VARIOUS LIGHT VERBS AND VERBAL AFFIXES
+# BY USING VARIOUS LIGHT VERBS AND VERBAL AFFIXES 
 # --------------------------------------------
 # PLACE:  
 # =tsika ... =NOUN : 'where ... be?'  
@@ -55,7 +55,7 @@ define WhPRQin [
 # QUANTITY: it is formed using the copula of capacity (COP.CAP) =kara 
 # =tsika ... =kara ... =NOUN : 'how.much/many?'  
 # =tsika ... N- =kara ... oorya : 'at.which.hour/day?' 
-# HĨPE IKAATSIKA PAAKARI SHIMA? / =hĩpe ** i- =ka(r)a -ts -i =ka ** p- =a -ak -a =ri ** =shima / PT: 'quantos.peixes.você.pescou?'
+# HĨPE IKAATSIKA PAAKARI SHIMA? / =hĩpe ** i- =ka(r)a -ts -i =ka ** p- =a -ak -a =ri ** =shima / EN: 'how_many.fishes.did.you.get?'; PT: 'quantos.peixes.você.pescou?'
 # --------------------------------------------
 # PERSON: 
 # =tsika ... =tzim ... =ka : 'who.be ...?' 
@@ -76,6 +76,7 @@ define WhPRQin [
 # ipaitaka / i- =pai -t -a =ka / 3m.s- =to.call -ep -real =q / EN: 'what's.up?; how.are.you?' 
 # REASON: 
 # =tsika ... =pait ... =ka ... =VERB ... -ri: 'why ... do.sth.?'  
+# --------------------------------------------
 | "[=tsika][WhPrn][=WH (EN: where,, what,, which,, how,, why)]" : {tsika}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
 # tsikarika isaiki / EN: 'wherever they were living'  
