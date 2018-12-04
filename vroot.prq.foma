@@ -434,6 +434,7 @@ define VRootPRQin [
 ! 
 | "[=hi][VRoot][=to.call, to.be.called, to.be.named]" : {hi}
 | "[=ii][VRoot][=to.call, to.be.called, to.be.named]" : {ii}
+| "[=iit][VRoot][=to.call, to.be.called, to.be.named]" : {iit}
 #| "[=i][VRoot][=to.call, to.be.called, to.be.named]" : {i} ! produces too many ambiguities 
 ! 
 | "[=hinki][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
