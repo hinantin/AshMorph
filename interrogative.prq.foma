@@ -16,6 +16,8 @@ define WhPRQin [
 | "[=paita][WhPrn][=WH][--][-rika][+COND]::[Prn][=INDF (animate/inanimate.entitities; EN: whatever, something)]" : {paitarika}
 ! 
 | "[=oeta][WhPrn][=WH (EN: it.is.called)]" : {oeta}
+| "[=oeta][WhPrn][=WH (EN: it.is.called)][--][=ka][+Q][--][=kia][+EMPH]" : {oetakakia}
+| "[=oeta][WhPrn][=WH (EN: it.is.called)][--][-rika][+COND]" : {oetarika}
 # ----------------------------------------------------------------
 ! 
 | "[=ninka][WhPrn][=WH (EN: who, whom)]" : {ninka}
