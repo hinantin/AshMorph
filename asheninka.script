@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -109,12 +109,13 @@ TZEpenthesisRule8
       #        Transitive      #
       #                        #
       ##########################
+      define PersPrnPI2Rule1 [ [{pi}]"@VPERS@" (->) "@2@" ];
 #       define TransSubj1 [ "[1SG.A+]" <- "[1SG.S+]" || _ ?* "[+1SG.O]"];
 #       define TransSubj2 [ "[2SG.A+]" <- "[2SG.S+]" || _ ?* "[+2SG.O]"];
 #       define TransSubj3 [ "[3SGm.A+]" <- "[3SGm.S+]" || _ ?* "[+3SGm.O]"];
 #       define TransSubj4 [ "[3SGnm.A+]" <- "[3SGnm.S+]" || _ ?* "[+3SGnm.O]"];
 #       define TransSubj5 [ "[1PL.A+]" <- "[1PL.S+]" || _ ?* "[+1PL.O]"];
-#      define VerbRules TransSubj1 .o. TransSubj2 .o. TransSubj3 .o. TransSubj4 .o. TransSubj5 ;
+      define PersPrnRules [ PersPrnPI2Rule1 ] ; 
 
 #      source v-s-1.foma
 #      source v-s-2.foma
