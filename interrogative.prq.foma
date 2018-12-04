@@ -14,6 +14,8 @@ define WhPRQin [
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)][--][=mpa][+DUB]" : {paitampa}
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)][--][=kia][+EMPH]" : {paitakia}
 | "[=paita][WhPrn][=WH][--][-rika][+COND]::[Prn][=INDF (animate/inanimate.entitities; EN: whatever, something)]" : {paitarika}
+! 
+| "[=oeta][WhPrn][=WH (EN: it.is.called)]" : {oeta}
 # ----------------------------------------------------------------
 ! 
 | "[=ninka][WhPrn][=WH (EN: who, whom)]" : {ninka}
