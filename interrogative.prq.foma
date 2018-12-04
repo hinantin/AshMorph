@@ -17,6 +17,7 @@ define WhPRQin [
 ! 
 # oeta nantiri / ES: 'cómo.hago'
 # oetaka / =oeta =ka / =WH =q / ES: 'qué.quieres' 
+# ¿oeta namitakotemiri? / =oeta *** n- =amitako -t -e =mi =ri / ES: '¿en.qué.te.puedo.servir?' 
 | "[=oeta][WhPrn][=WH (EN: ; lit.: it.is.called)]" : {oeta}
 | "[=oeta][WhPrn][=WH (EN: ; lit.: it.is.called)][--][=ka][+Q][--][=kia][+EMPH]" : {oetakakia}
 | "[=oeta][WhPrn][=WH (EN: ; lit.: it.is.called)][--][-rika][+COND]" : {oetarika}
