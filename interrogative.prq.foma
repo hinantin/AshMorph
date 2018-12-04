@@ -20,6 +20,8 @@ define WhPRQin [
 | "[=oeta][WhPrn][=WH (EN: ; lit.: it.is.called)]" : {oeta}
 | "[=oeta][WhPrn][=WH (EN: ; lit.: it.is.called)][--][=ka][+Q][--][=kia][+EMPH]" : {oetakakia}
 | "[=oeta][WhPrn][=WH (EN: ; lit.: it.is.called)][--][-rika][+COND]" : {oetarika}
+| "[=oeta][WhPrn][=WH (EN: ; lit.: it.is.called)][--][-rika][+COND][--][-paeni][Num][+PL]::[=everything (ES: todo)]" : {oetarikapaeni}
+| "[=oeta][WhPrn][=WH (EN: ; lit.: it.is.called)][--][-rika][+COND][--][-paene][Num][+PL]::[=everything (ES: todo)]" : {oetarikapaene}
 # ----------------------------------------------------------------
 ! 
 | "[=ninka][WhPrn][=WH (EN: who, whom)]" : {ninka}
