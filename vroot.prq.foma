@@ -117,6 +117,7 @@ define VRootPRQin [
 | "[=amin][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amin}
 | "[=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amen}
 | "[=amin+MOD@REDUP.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {aminamina}
+| "[=amen+MOD@REDUP.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]" : {amemena}
 ! 
 | "[=amintsa][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)]" : {amintsa}
 ! 
@@ -838,7 +839,7 @@ define VRootPRQin [
 ! 
 | "[=koma][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
 | "[=komaa][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
-| "[=koma+MOD@REDUP.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a.cada.rato)]" : {kokoma} 
+| "[=koma+MOD@REDUP.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {kokoma} 
 ! 
 | "[=komi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {komi}
 | "[=kompi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {kompi}
