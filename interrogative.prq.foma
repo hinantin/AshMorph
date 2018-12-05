@@ -3,11 +3,9 @@ define WhPRQin [
 ! 1.- WH: interrogative 
 ! 2.- INDF: indefinite 
 ! 3.- SPECIF: specific 
-  "[=ari][PostPol][=PP][--][-rika~ka][+COND]::[=when; if]" : {arika}
-| "[=ari][PostPol][=PP][--][-rika][+COND]::[=when; if]" : {aririka}
 ! 
 # ----------------------------------------------------------------
-| "[=tsika][WhPrn][=WH][--][=paita][WhPrn][=WH]::[=WH (EN: how,, why,, what); tsika_opaita~tsikapaita (EN: what.is.it.called.that,, what)]" : {tsikapaita}
+  "[=tsika][WhPrn][=WH][--][=paita][WhPrn][=WH]::[=WH (EN: how,, why,, what); tsika_opaita~tsikapaita (EN: what.is.it.called.that,, what)]" : {tsikapaita}
 | "[=tsipaita][Prn][=INDF (EN: whatever, something); tsika_opaita~tsipaita (EN: what.is.it.called.that,, what)]" : {tsipaita}
 ! 
 | "[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)]" : {paita}
@@ -109,18 +107,25 @@ define WhPRQin [
 # POSSESOR:
 # =ninka ... =ashi ... -ri: 'whose ... =NOUN? '  
 # 
-| "[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why][--][-paite][+ADV][=during]::[=its.period]" : {iropaite}
-! 
 | "[=haoka][WhPrn][=WH (EN: which, when; ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
-! 
-| "[=maaroni][IndfPrn][=all, everyone]" : {maaroni}
-| "[=aparoni][IndfPrn][=somebody]" : {aparoni}
-| "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
 ! 
 | "[=hempe+periphrasis.][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hempe}
 | "[=hiNpe/hĩpe+periphrasis.][WhPrn:CPB][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hĩpe}
 | "[=himpe+periphrasis.][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {himpe}
 ! 
-| "[=ipaitaka][ORoot][=WH]" : {ipaitaka}
+| "[=ipaita][WhPrn][=WH]" : {ipaita}
+| "[=ipaitaka][WhPrn][=WH]" : {ipaitaka}
+| "[=opaita][WhPrn][=WH]" : {opaita}
+! 
+# --------------------------------------------
+! 
+| "[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why][--][-paite][+ADV][=during]::[=its.period]" : {iropaite}
+! 
+| "[=maaroni][IndfPrn][=all, everyone]" : {maaroni}
+| "[=aparoni][IndfPrn][=somebody]" : {aparoni}
+| "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
+! 
+| "[=ari][PostPol][=PP][--][-rika~ka][+COND]::[=when; if]" : {arika}
+| "[=ari][PostPol][=PP][--][-rika][+COND]::[=when; if]" : {aririka}
 ];
