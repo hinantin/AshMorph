@@ -29,13 +29,14 @@ define WhPRQin [
 | "[=soita][WhPrn][=WH (EN: who; lit.: it.is.called)][--][=ka][+Q]" : {soitaka}
 ! 
 # iitaa owaero awintawontsi raashitakemi? 
-# iitaa ovaero avintavontsi raashitakemi?
+# iitaa ovaero avintavontsi raashitakemi? 
 # =iita *** =ov -ae =ro *** =avint -a -vo -ntsi *** r- =aashi -t -ak -e =mi 
 # =WH *** =to.eat -1incl.pl.o/p -3n.m.o/p *** =to.cure -ep -nmz -nposs *** irr= =dar.brebaje 
 # ES: '¿Con que remedio te ha curado?' lit.: 'que.remedio.comiste..él.te.dio.de.brebaje'
 | "[=iita][WhPrn][=WH (EN: ,, lit.: it.is.called; ES: ,, lit.: él.es)]" : {iita}
 | "[=iitaa][WhPrn][=WH (EN: ,, lit.: it.is.called; ES: ,, lit.: él.es)]" : {iitaa}
 | "[=iita][WhPrn][=WH (EN: ,, lit.: it.is.called)][--][=ka][+Q]::[=why (ES: por.qué)]" : {iitaka}
+| "[=iita][WhPrn][=WH (EN: ,, lit.: it.is.called)][--][=ka][+Q][--][=kia][+EMPH]::[=why (ES: por.qué)]" : {iitakakia}
 # ----------------------------------------------------------------
 ! 
 | "[=ninka][WhPrn][=WH (EN: who, whom)]" : {ninka}
