@@ -29,6 +29,7 @@ define WhPRQin [
 | "[=oita][WhPrn][=WH (EN: ; lit.: it.is.called)][--][-rika][+COND][--][-paini][Num][+PL]::[=everything (ES: todo)]" : {oitarikapaini}
 | "[=oeta][WhPrn][=WH (EN: ; lit.: it.is.called)][--][-rika][+COND][--][-paene][Num][+PL]::[=everything (ES: todo)]" : {oetarikapaene}
 ! 
+| "[=oita][WhPrn][=WH (EN: ; lit.: it.is.called)][--][=ka][+Q]::[=WH (ES: qué; EN: what)]" : {oitaka}
 | "[=soita][WhPrn][=WH (EN: who; lit.: it.is.called)][--][=ka][+Q]" : {soitaka}
 # ----------------------------------------------------------------
 ! 
@@ -93,7 +94,7 @@ define WhPRQin [
 # REASON: 
 # =tsika ... =pait ... =ka ... =VERB ... -ri: 'why ... do.sth.?'  
 # --------------------------------------------
-| "[=tsika][WhPrn][=WH (EN: where,, what,, which,, how,, why)]" : {tsika}
+| "[=tsika+periphrasis.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]" : {tsika}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
 # tsikarika isaiki / EN: 'wherever they were living'  
 | "[=tsika][WhPrn][=WH][--][-rika][+COND]::[=whatever; wherever]" : {tsikarika}
@@ -116,11 +117,9 @@ define WhPRQin [
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
 | "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
 ! 
-| "[=hempe][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hempe}
-| "[=hiNpe/hĩpe][WhPrn:CPB][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hĩpe}
-| "[=himpe][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {himpe}
+| "[=hempe+periphrasis.][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hempe}
+| "[=hiNpe/hĩpe+periphrasis.][WhPrn:CPB][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hĩpe}
+| "[=himpe+periphrasis.][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {himpe}
 ! 
 | "[=ipaitaka][ORoot][=WH]" : {ipaitaka}
-! 
-| "[=oitaka][ORoot][=WH (ES: qué; EN: what)]" : {oitaka}
 ];
