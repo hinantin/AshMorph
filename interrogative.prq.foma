@@ -110,8 +110,8 @@ define WhPRQin [
 | "[=tsika][WhPrn][=WH][--][-ma][+DUB]" : {tsikama}
 # --------------------------------------------
 # TIME: 
-# tsicapaite / tsikapaite / =wh -adv|=during / EN: 'when' 
-| "[=tsika][WhPrn][=WH][--][-paite][+ADV][=during]::[=when]" : {tsikapaite}
+# tsicapaite / tsikapaite / =wh -cl:period / EN: 'when' 
+| "[=tsika][WhPrn][=WH][--][-paite][+CL:period]::[=when]" : {tsikapaite}
 # 
 # --------------------------------------------
 # POSSESOR:
@@ -130,7 +130,7 @@ define WhPRQin [
 ! 
 # --------------------------------------------
 ! 
-| "[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why][--][-paite][+ADV][=during]::[=its.period]" : {iropaite}
+| "[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why][--][-paite][+CL:period]::[=its.period]" : {iropaite}
 ! 
 | "[=maaroni][IndfPrn][=all, everyone]" : {maaroni}
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
