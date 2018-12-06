@@ -126,6 +126,7 @@ define WhPRQin [
 ! 
 | "[=haoka+periphrasis@=kara:=pahit:=hi(t).][WhPrn][=WH (EN: which, when; ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
+| "[=haoka][WhPrn][=WH][--][-rika][+COND][--][-pe][Num][+PL]" : {haokarikape}
 | "[=haoka][WhPrn][=WH][--][=kia][+EMPH]" : {haokakia}
 | "[=haoka][WhPrn][=WH (EN: which, when; ES: ¿dónde?, ¿cuándo?)][--][-paite][+CL:period]" : {haokapaite}
 ! 
