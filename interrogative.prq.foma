@@ -130,6 +130,7 @@ define WhPRQin [
 | "[=haoka][WhPrn][=WH][--][-rika][+COND][--][-pe][Num][+PL]" : {haokarikape}
 | "[=haoka][WhPrn][=WH][--][=kia][+EMPH]" : {haokakia}
 | "[=haoka][WhPrn][=WH][--][-tya][+EMPH]" : {haokatya}
+| "[=haoka][WhPrn][=WH][--][-me][+SUBJ]" : {haokame}
 | "[=haoka][WhPrn][=WH][--][-pee][Num][+PL][--][-rika][+COND]" : {haokapeerika}
 | "[=haoka][WhPrn][=WH][--][-pe][Num][+PL][--][-rika][+COND]" : {haokaperika}
 | "[=haoka][WhPrn][=WH][--][-tee][+NEG.AFF][--][-mi][+SUBJ]::[= (ES: ¡qué.lástima!, ¡qué.tristeza!)]" : {haokateemi}
