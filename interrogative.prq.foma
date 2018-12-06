@@ -132,7 +132,7 @@ define WhPRQin [
 | "[=haoka][WhPrn][=WH][--][-tya][+EMPH]" : {haokatya}
 | "[=haoka][WhPrn][=WH][--][-pee][Num][+PL][--][-rika][+COND]" : {haokapeerika}
 | "[=haoka][WhPrn][=WH][--][-pe][Num][+PL][--][-rika][+COND]" : {haokaperika}
-| "[=haoka][WhPrn][=WH][--][-tee][+NEG.AFF][--][-mi][+SUBJ]" : {haokateemi}
+| "[=haoka][WhPrn][=WH][--][-tee][+NEG.AFF][--][-mi][+SUBJ]::[= (ES: ¡qué.lástima!, ¡qué.tristeza!)]" : {haokateemi}
 | "[=haoka][WhPrn][=WH (EN: which, when; ES: ¿dónde?, ¿cuándo?)][--][-paite][+CL:period]" : {haokapaite}
 ! 
 # --------------------------------------------
