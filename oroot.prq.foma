@@ -124,11 +124,11 @@ define ORootPRQin [
 | "[=ha][OtherRoot][=aha]" : {ha}
 | "[=aha][OtherRoot][=aha (affirmative.reaction.to.the.interlocutor's.statement)]" : {aha}
 ! 
-| "[=aritakitaima][OtherRoot][=maybe, perhaps]" : {aritakitaima}
+| "[=aritakitaima][PostPol][--][=taima][+DUB]::[=maybe, perhaps]" : {aritakitaima}
 ! 
 | "[=irotakitaima][OtherRoot][=is.that.right?]" : {irotakitaima}
 ! 
-| "[=omaperotatya][OtherRoot][=SUPERLATIVE (EN: is.that.true?, it.is.true)]" : {omaperotatya}
+| "[=omaperotatya][OtherRoot][=SUPERLATIVE (EN: ris.that.true?, it.is.true)]" : {omaperotatya}
 ! 
 | "[=imaperotatya][OtherRoot][=SUPERLATIVE (EN: is.that.true?,~supreme; ES: verdadero)]" : {imaperotatya}
 # ----------------------------------------
