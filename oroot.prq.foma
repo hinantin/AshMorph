@@ -43,6 +43,7 @@ define ORootPRQin [
 | "[=ari][PostPol][=PP][--][=kea][+EMPH]" : {arikea} 
 | "[=ari][PostPol][=PP][--][=yaata][+ASSUM]" : {ariyaata} 
 | "[=ari][PostPol][=PP][--][=tya][+COMPASSION]" : {aritya} 
+| "[=aritaki][PostPol][=PP][--][=taima][+DUB]::[=maybe, perhaps]" : {aritakitaima}
 ! 
 # ai / PP 
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitaki}
@@ -121,8 +122,6 @@ define ORootPRQin [
 ! 
 | "[=ha][OtherRoot][=aha]" : {ha}
 | "[=aha][OtherRoot][=aha (affirmative.reaction.to.the.interlocutor's.statement)]" : {aha}
-! 
-| "[=aritakitaima][PostPol][--][=taima][+DUB]::[=maybe, perhaps]" : {aritakitaima}
 ! 
 | "[=irotaki][PrnPers][+3SG.n.m.][--][=taima][+DUB]::[=is.that.right?]" : {irotakitaima}
 ! 
