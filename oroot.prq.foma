@@ -76,7 +76,7 @@ define ORootPRQin [
 ! 
 | "[=aritake][PostPol][=not.anymore (ES: ya.no)]" : {aritake} 
 ! 
-| "[=aripaite][ORoot][=at.last (ES: por.fin)]" : {aripaite} 
+| "[=ari][PostPol][=PP][--][-paite][+CL:period]::[=at.last (ES: por.fin)]" : {aripaite} 
 # -----------------------------------------
 #         Determiner           
 #   Demonstrative identifier (DEM.ID)  
