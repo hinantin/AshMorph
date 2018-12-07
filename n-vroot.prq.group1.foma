@@ -65,7 +65,7 @@ define NounToVerbPRQin [
 | "[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)][^VBZ]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
 | "[=matsi+m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[=to.be.a.witch][^VBZ]" : {matsi} ! @VCMP N@->V::[=to.be.a.witch] 
 | "[=matzi+m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[=to.be.a.witch][^VBZ]" : {matzi} ! N@->V::[=to.be.a.witch]  
-| "[=mati+m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[=to.be.a.witch (ES: brujear)][^VBZ]" : {mati} ! N@->V::[=to.be.a.witch (ES: brujear)]  
+| "[=mati+m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[=to.be.a.witch; to.practice.witchcraft.on.sb. (ES: brujear)][^VBZ]" : {mati} ! N@->V::[=to.be.a.witch; to.practice.witchcraft.on.sb. (ES: brujear)]  
 | "[=mavoshi+n.m.+inal@ntsi.][NRoot][=nest; grassy.nest]::[=to.build/construct.a.nest (ES: construir.nido)][^VBZ]" : {mavoshi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=maashi+n.m.+inal@ntsi.][NRoot][=nest]::[=to.build/construct.a.nest (ES: construir.nido)][^VBZ]" : {maashi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=menkoshi+n.m.+inal@n/tsi.][NRoot][=bird.nest (ES: nido.de.pájaros)][^VBZ]" : {menkoshi} ! N@->V

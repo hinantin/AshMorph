@@ -11,8 +11,8 @@ compile:
 	@rm -f asheninka.bin asheninka.guesser.bin *.tar.bz2
 	@xfst -f asheninka.script 
 	@xfst -f asheninka.guesser.script 
-	@tar -jcvf ashaninkamorph$$(date +%Y%m%d%H%M%S).tar.bz2 asheninka.bin asheninka.guesser.bin 
-	@cp *.tar.bz2 /media/sf_RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/ashaninkamorph
+#	@tar -jcvf ashaninkamorph$$(date +%Y%m%d%H%M%S).tar.bz2 asheninka.bin asheninka.guesser.bin 
+#	@cp *.tar.bz2 /media/sf_RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/ashaninkamorph
 #	@xfst -f ideoredupsyl.prq.foma 
 
 testing:
