@@ -975,6 +975,9 @@ define VRootPRQin [
 | "[=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {mantsiya}
 | "[=mantsia][VRoot][=to.be.sick, to.get.sick (ES: enfermar(se))]" : {mantsia}
 | "[=mantsi][VRoot][=to.be.sick, to.get.sick (ES: enfermar(se))]" : {mantsi}
+| "[=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {mantsiya}
+| "[=matiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {matiya} ! misspelled?
+| "[=matsiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {matsiya} ! misspelled?
 ! 
 | "[=omapero][VRoot][=to.get.worse (ES: empeorarse)]" : {omapero}
 | "[=mapero][VRoot][=to.get.worse (ES: empeorarse); to.be.seriously.ill (ES: estar.grave); to.be.true]" : {mapero}
