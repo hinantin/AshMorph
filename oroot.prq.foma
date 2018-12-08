@@ -169,8 +169,6 @@ define ORootPRQin [
 | "[=inkaamane][AdvRoot][=early (ES: temprano)]" : {inkaamane} 
 ! 
 | "[=koye][OtherRoot][=ant]" : {koye}
-| "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
-| "[=nashi][OtherRoot][=mine]" : {nashi}
 | "[=o][OtherRoot][=or]" : {o}
 !| "[=okaakini][OtherRoot][=close.by]" : {okaakini}
 ! 
@@ -210,6 +208,8 @@ define ORootPRQin [
 | "[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)][--][=kia][+EMPH]" : {temakia}
 ! 
 | "[=temaita][OtherRoot][=BUT…NOT (ES: PERO…NO)]" : {temaita}
+! 
+| "[=tema_ari][OtherRoot][=Q.TAG (EN: isn't.it.true?)]" : {tema_ari}
 ! 
 # terika pashini mantsiyarentsipaye / =terika *** =pashini *** =mantsiya -re -ntsi -paye / =or *** =other *** =to.be.sick -nmz -nposs -pl / EN: 'or.other.diseases'; ES: 'u.otras.enfermedades'  
 | "[=terika][ConnRoot][=DISJUNCTION (EN: if.not, or; maybe)]" : {terika}
