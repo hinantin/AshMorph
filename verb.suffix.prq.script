@@ -492,7 +492,7 @@ define V=S=IMPP [
 # yanteetapinintiri / y- =ant -ee -t -apinin -t -i =ri / EN: 'he.is.always.beaten.by.them'; ES: 'siempre.le.pegan'
 # yoyeetari / y- =oy -ee -t -a =ri / 3m.s- =to.eat -imp.p -ep -irr =rel / EN: edible , lit.: 'that.is.eaten.by.him/them'; ES: 'comestible' 
 | "[--][-ee][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ee}] 
-# these are incorrect ???
+# these are incorrect ? this were produced by misannotations.
 ! | "[--][-t][+IMP.P]" : "@EP"[{t}] 
 ! | "[--][-tz][+IMP.P]" : "@EP"[{tz}] 
 ];
