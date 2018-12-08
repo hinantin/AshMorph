@@ -220,12 +220,12 @@ define ORootPRQin [
 ! 
 | "[=ya][OtherRoot][=eat]" : {ya}
 ! 
-| "[=iroperori+n.m.][OtherRoot][=good.quality; nice]" : {iroperori}
-| "[=iriperori+m.][OtherRoot][=good.quality; nice]" : {iriperori}
+| "[=iroperori+n.m.][AdjRoot][=good.quality; nice]" : {iroperori}
+| "[=iriperori+m.][AdjRoot][=good.quality; nice]" : {iriperori}
 # kaari perori / =kaari =perori / =NEG.COP =good / EN: 'false'; ES: 'falso'  
 # kariperori / ... 
-# hanikianiki perori / =haniki -aniki =perori / =child -dim =good / EN: 'really.small.child'; ES: 'bien.chiquitito' 
-| "[=perori][OtherRoot][=good.quality; nice]" : {perori}
+# hanikianiki perori / =haniki -aniki *** =perori / =child -dim *** =good / EN: 'really.small.child'; ES: 'bien.chiquitito' 
+| "[=perori][AdjRoot][=good.quality; nice]" : {perori}
 ! 
 | "[=kiso][OtherRoot][=together]" : {kiso}
 ! 
