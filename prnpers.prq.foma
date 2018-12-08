@@ -129,6 +129,7 @@ define PrnPersPRQin [
 | "[=arotake+cntr.exh.l.][PrnPers][+1PL]" : {arotake}
 # -------------------------------------------------------------------
 # -intsi~-inti
+!| "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL][=I…on.my.own]" : {naintsi}
 | "[=naintsi+cntr.d.top.][PrnPers][+1SG.EXCL][=I…on.my.own][--][-ma][+DUB]" : {naintsima}
 | "[=aintsi+cntr.d.top.][PrnPers][+1SG.INCL]" : {aintsi}

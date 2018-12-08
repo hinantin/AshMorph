@@ -12,8 +12,6 @@ define ORootPRQin [
 | "[=eekiro][AdvRoot][=still (ES: todavía); (ES: sin.embargo)]" : {eekiro}
 | "[=iikiro][AdvRoot][=still (ES: todavía); (ES: sin.embargo)]" : {iikiro}
 ! 
-| "[=akaya][OtherRoot][=ouch]" : {akaya}
-! 
 | "[=apaniro][NRoot][=on.one's.own]" : {apaniro}
 | "[=apaniro][NRoot][=on.one's.own][--][-eni][+ADV]::[=solely]" : {apaniroeni}
 | "[=apaniro][NRoot][=on.one's.own][--][-ini][+ADV]::[=solely]" : {apaniroini}
@@ -171,7 +169,6 @@ define ORootPRQin [
 | "[=inkaamane][AdvRoot][=early (ES: temprano)]" : {inkaamane} 
 ! 
 | "[=koye][OtherRoot][=ant]" : {koye}
-| "[=naakaite][OtherRoot][=1PL.EXCL]" : {naakaite}
 | "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
 | "[=nashi][OtherRoot][=mine]" : {nashi}
 | "[=o][OtherRoot][=or]" : {o}
