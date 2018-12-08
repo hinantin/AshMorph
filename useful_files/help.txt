@@ -1,8 +1,8 @@
-split -dl 10000 ~/Downloads/01_Instaladores/freeling/FreeLing-4.0-beta1/data/es/dictionary/entries/MM.nom NRootESFreelingin
+split -dl 10000 /home/hinantin/ashaninka/AshaninkaMorph/freeling_lexicon/MM.nom NRootESFreelingin
 
 ls NRootESFreelingin*
 
-a=ak; cat NRootESFreelingin$a | awk -v order="$a" -f freeling.sh > nroot.es.freeling.$a.foma
+a=ak; cat NRootESFreelingin$a | awk -v order="$a" -f freeling.sh > nroot.es.freeling.$a.foma ; mv nroot.es.freeling.$a.foma ../
 
 ls nroot.es.freeling.* | awk '{print "      source\n",$0;}'
 ls NRootESFreelingin* | awk '{printf "|%s",$0;}'

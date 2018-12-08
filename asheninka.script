@@ -300,7 +300,7 @@ TZEpenthesisRule8
       
       source place.names.foma 
 
-      define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
+#      define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
       
       define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootPTin|NRootQUin|NumeralPRQin|NRootPLACESin];
       ####################################
