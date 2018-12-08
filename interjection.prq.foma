@@ -1,5 +1,8 @@
 define InterjPRQin [
-  "[=afuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {afuu} 
+  "[=aa][Interj][=humph]" : {aa}
+| "[=akaya][Interj][=ouch]" : {akaya}
+! 
+| "[=afuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {afuu} 
 | "[=fuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {fuu} 
 ! 
 | "[=pasonki][InterjPRQ][=thanks (ES: gracias)]" : {pasonki}
@@ -11,7 +14,7 @@ define InterjPRQin [
 | "[=paahonki][Interj][=thanks (ES: gracias)]" : {paahonki}
 ! 
 # source: aj 
-| "[=ak][InterjPRQ][=INTJ (phon.tat.: [aχ]; ES: affirmative.reaction.to.addressee's.statement)]" : {ak}
+| "[=ak/aj][InterjPRQ][=INTJ (phon.tat.: [aχ]; ES: affirmative.reaction.to.addressee's.statement)]" : {ak}
 ! 
 | "[=ataama][InterjPRQ][=thanks (ES: gracias)]" : {ataama}
 | "[=atãma][InterjPRQ][=thanks (ES: gracias)]" : {atãma}
