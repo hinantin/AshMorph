@@ -486,7 +486,8 @@ define V=S=IMPP [
 # Only with 3rd person ???  
   "[--][-ai][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ai}] 
 | "[--][-ae][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ae}] ! yet to be tested 
-| "[--][-ee][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ee}] ! yet to be tested 
+# yanteetakena / y- =ant -ee -t -ak -e =na / EN: 'they.beated.me'; ES: 'me.han.pegado' 
+| "[--][-ee][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ee}] 
 # these are incorrect ???
 ! | "[--][-t][+IMP.P]" : "@EP"[{t}] 
 ! | "[--][-tz][+IMP.P]" : "@EP"[{tz}] 
