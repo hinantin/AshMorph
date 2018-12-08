@@ -486,8 +486,10 @@ define V=S=IMPP [
 # Only with 3rd person ???  
   "[--][-ai][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ai}] 
 | "[--][-ae][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ae}] ! yet to be tested 
-# yanteetakena / y- =ant -ee -t -ak -e =na / EN: 'I.was.beated.by.them'; ES: 'me.han.pegado' 
-# yanteetakeri  / y- =ant -ee -t -ak -e =ri / ES: 'he.was.beated.by.them'; ES: 'le.han.pegado'
+# yanteetakena / y- =ant -ee -t -ak -e =na / EN: 'I.was.beaten.by.them'; ES: 'me.han.pegado' 
+# yanteetakeri  / y- =ant -ee -t -ak -e =ri / ES: 'he.was.beaten.by.them'; ES: 'le.han.pegado'
+# yanteetakero  / y- =ant -ee -t -ak -e =ro / ES: 'she.was.beaten.by.them'; ES: 'le.han.pegado'
+# yanteetapinintiri / y- =ant -ee -t -apinin -t -i =ri / EN: 'he.is.always.beaten.by.them'; ES: 'siempre.le.pegan'
 | "[--][-ee][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ee}] 
 # these are incorrect ???
 ! | "[--][-t][+IMP.P]" : "@EP"[{t}] 
