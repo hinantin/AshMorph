@@ -686,7 +686,7 @@ define S [
 | (DIST=SET1) (PROG=SET1) STATUS (V=S=O) (PRNO) (V=S=REL) 
 
 | (DUR) (DISTN) STATUS (V=S=URGENT)
-| (TERM) STATUS (V=S=O) (PRNO) (V=S=URGENT) 
+| (REGR) STATUS (V=S=O) (PRNO) (V=S=URGENT) 
 
 ];
 
