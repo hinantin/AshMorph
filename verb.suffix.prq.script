@@ -1307,6 +1307,14 @@ define V=S=URGENT [
 ];
 
 # ****************************************
+
+define V=S=CERTAINTY [
+  "[--][=te][+CERTAINTY][=negative.affectivity]" : [{te}]
+| "[--][=teme][+CERTAINTY][==negative.affectivity]" : [{teme}]
+| "[--][=teeme][+CERTAINTY][==negative.affectivity]" : [{teeme}]
+];
+
+# ****************************************
                    
 define CL [ [EP V=S=CL]|[V=S=CL] ];
                    
