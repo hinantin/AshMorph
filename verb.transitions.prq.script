@@ -687,6 +687,7 @@ define S [
 
 | (DUR) (DISTN) STATUS (V=S=URGENT)
 | (REGR) STATUS (V=S=O) (PRNO) (V=S=URGENT) 
+| (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=URGENT) 
 
 ];
 
