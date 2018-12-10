@@ -1315,6 +1315,13 @@ define V=S=CERTAINTY [
 ];
 
 # ****************************************
+
+# distance 
+define V=S=DISTN [
+  "[--][=ai][+DISTN][=to.specify.spatial.distance]" : [{ai}]
+];
+
+# ****************************************
                    
 define CL [ [EP V=S=CL]|[V=S=CL] ];
                    
