@@ -1321,6 +1321,8 @@ define V=S=DISTN [
   "[--][=ai][+DISTN][=to.specify.spatial.distance]" : [{ai}]
 ];
 
+define DISTN [ [EP V=S=DISTN]|[V=S=DISTN] ];
+
 # ****************************************
                    
 define CL [ [EP V=S=CL]|[V=S=CL] ];
