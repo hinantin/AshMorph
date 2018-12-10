@@ -46,8 +46,6 @@ define ORootPRQin [
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitaki}
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitake}
 | "[=ai][PostPol][=PP][--][-ite][+CMPL][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]::[=it.is.totally.the.case]" : {aiitetake}
-| "[=ai][PostPol][=PP][--][-keti][+URGENT]::[=(eating).QUICKLY (ES: (comer).rápidamente)]" : {aiketi}
-| "[=ai][PostPol][=PP][--][-kete][+URGENT]::[=(eating).QUICKLY (ES: (comer).rápidamente)]" : {aikete}
 ! 
 # expresión.que.indica.desesperanza 
 | "[=arivetaka][PostPol][=PP (ES: casi.se.hizo (hacer.algo))]" : {arivetaka} 
@@ -188,6 +186,7 @@ define ORootPRQin [
 | "[=tsami+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]" : {tsami} ! Interj. 
 | "[=tsami+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)][--][-tya][+EMPH]" : {tsamitya}
 | "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)][--][-tya][+EMPH]" : {tsametya}
+| "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)][--][=keti][+URGENT]" : {tsameketi}
 # omapero
 | "[=omapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omapero}
 | "[=omaapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omaapero}
