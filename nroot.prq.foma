@@ -239,6 +239,8 @@ define NRootPRQin [
 ! 
 | "[=apa+m.][NRoot][=father (kin.of.a.fe/male)]" : {apa}
 | "[=paa+m.][NRoot][=father (kin.of.a.fe/male)]" : {paa}
+| "[=paapa+m.][NRoot][=father (kin.of.a.fe/male)]" : {paapa}
+| "[=ariri+m.][NRoot][=father (kin.of.a.fe/male)]" : {ariri}
 ! 
 | "[=aparo][NRoot][=one]" : {aparo}
 | "[=apani][NRoot][=one]" : {apani}
