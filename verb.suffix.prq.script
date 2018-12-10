@@ -1301,9 +1301,11 @@ define PTV2 [ [EP V=S=PTV2]|[V=S=PTV2] ];
 # ****************************************
 
 define V=S=URGENT [
-  "[--][-keti][+URGENT]" : [{keti}]
-| "[--][-kete][+URGENT]" : [{kete}]
+  "[--][=keti][+URGENT]" : [{keti}]
+| "[--][=kete][+URGENT]" : [{kete}]
 ];
+
+# ****************************************
                    
 define CL [ [EP V=S=CL]|[V=S=CL] ];
                    
