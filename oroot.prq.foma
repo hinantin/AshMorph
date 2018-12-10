@@ -46,8 +46,8 @@ define ORootPRQin [
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitaki}
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitake}
 | "[=ai][PostPol][=PP][--][-ite][+CMPL][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]::[=it.is.totally.the.case]" : {aiitetake}
-| "[=ai][PostPol][=PP][--][-keti][+URGENT]::[= (ES: (comer).rápidamente)]" : {aiketi}
-| "[=ai][PostPol][=PP][--][-kete][+URGENT]::[= (ES: (comer).rápidamente)]" : {aikete}
+| "[=ai][PostPol][=PP][--][-keti][+URGENT]::[=(eating).QUICKLY (ES: (comer).rápidamente)]" : {aiketi}
+| "[=ai][PostPol][=PP][--][-kete][+URGENT]::[=(eating).QUICKLY (ES: (comer).rápidamente)]" : {aikete}
 ! 
 # expresión.que.indica.desesperanza 
 | "[=arivetaka][PostPol][=PP (ES: casi.se.hizo (hacer.algo))]" : {arivetaka} 
