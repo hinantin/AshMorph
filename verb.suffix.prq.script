@@ -1011,17 +1011,17 @@ define ADVMANNER [ [EP V=S=ADVMANNER]|[V=S=ADVMANNER] ];
 # 1. it focuses on the thorough completion of an event.
 # 2. It denotes complete affectedness of the patientive argument.
 define V=S=CMPL [
-  "[--][-ite][Asp][+CMPL]" : "@EP"[{ite}]
+  "[--][-ite][Asp][+CMPL][=completion.of.an.event]" : "@EP"[{ite}]
 ];
                    
 define CMPL [ [EP V=S=CMPL]|[V=S=CMPL] ];
                    
 # ****************************************
                    
-# incompletive 
+# incompletive/circumstantial 
 define V=S=ICPL [
-  "[--][-it][Asp][+ICPL][=circumstantial]" : "@EP"[{it}]
-| "[--][-itz][Asp][+ICPL][=circumstantial]" : "@EP"[{itz}]
+  "[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{it}]
+| "[--][-itz][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{itz}]
 ];
                    
 define ICPL [ [EP V=S=ICPL]|[V=S=ICPL] ];
