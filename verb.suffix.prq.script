@@ -542,10 +542,10 @@ define V=S=STAT=SET1 [
 ! abisaintsiri / avisaintsiri / =avis -aintsi -ri / =to.pass -stat -rel / EN: 'what.has.happened'; ES: 'lo.que.ha.ocurrido' 
 ! sabikaintsiri / savikaintsiri / =savik -aintsi -ri / =to.sit -stat -rel / EN: 'sitted'; ES: 'sentado' 
 ! abisaintsiri peerani / avisaintsiri peerani / =avis -aintsi -ri =peerani / =to.pass -stat -rel =long.ago / EN: 'history'; ES: 'historia; lo.que.sucedió.hace.mucho.tiempo'  
-| "[--][-aintsi][Asp][+STAT.PRF]" : "@EP"[{aintsi}] 
-| "[--][-aentsi][Asp][+STAT.PRF]" : "@EP"[{aentsi}] 
+| "[--][-aintsi][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aintsi}] 
+| "[--][-aentsi][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aentsi}] 
 # 
-| "[--][-ahantsi][Asp][+STAT.PRF]" : "@EP"[{ahantsi}] 
+| "[--][-ahantsi][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{ahantsi}] 
 # --------
 ! inchato tainchari / =incha -to =ta -incha -ri / =plant -cl:tree =to.burn -stat -rel / ES: 'árbol.quemado'; EN: 'burned.tree' 
 ! kaniri pichainchari / =kaniri =picha -incha -ri / =yucca =to.crush.sth. -stat -rel / ES: 'yuca.(masa.cocinada)'; EN: 'cooked.yucca.mass' 
@@ -554,9 +554,9 @@ define V=S=STAT=SET1 [
 ! aparoni tsatainchari / =aparoni =tsat -aincha -ri / =one =to.tear.into.two.parts -stat -rel / ES: 'uno.colgado'; EN: 'one.torn.into.two.parts' 
 ! noetsaare kityonkari oobaenchari / no- =ketsaa -re =kityonka -ri =oob -aencha -ri / 1sg.poss- =dress -nmz =to.be.red -adj =to.put.sth.out.in.the.sun -stat -rel / ES: 'el.vestido.rojo.que.está.soleado'; EN: 'the.red.dress.that.was.put.out.in.the.sun' 
 ! Bankanainchari / vankanainchari / =vank -an -aincha -ri / =to.lift.sth.up -dir+departing -stat -rel / EN: 'that.has.been.lifted.up.(departing)'; ES: 'que.ha.subido' 
-| "[--][-incha][Asp][+STAT.PRF]" : "@EP"[{incha}]
-| "[--][-aincha][Asp][+STAT.PRF]" : "@EP"[{aincha}]
-| "[--][-aencha][Asp][+STAT.PRF]" : "@EP"[{aencha}]
+| "[--][-incha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{incha}]
+| "[--][-aincha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aincha}]
+| "[--][-aencha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aencha}]
 ];
 
 define V=S=STAT=SET2 [
