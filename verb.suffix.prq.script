@@ -1076,36 +1076,6 @@ define INCH [ [EP V=S=INCH]|[V=S=INCH] ];
                    
 # ****************************************
                    
-!define V=S=flat [
-!  "[--][+flat]" : "@EP"[{miront}]
-!];
-                   
-# ****************************************
-                   
-!define V=S=REALEMPH [
-!  "[--][-tzitzi][+REAL.EMPH]" : "@EP"[{tzitzi}]
-!];
-                   
-# ****************************************
-                   
-!      define V=S=2S [
-!       "[--][+2S]" : "@EP"[{pi}|{p}]
-!      ];
-                   
-# ****************************************
-                   
-!      define V=S=3nmposs [
-!       "[--][+3n.m.poss]" : "@EP"[{o}]
-!      ];
-                   
-# ****************************************
-                   
-!      define V=S=1PLposs [
-!       "[--][+1PL.poss]" : "@EP"[{a}]
-!      ];
-                   
-# ****************************************
-                   
 define V=S=almost [ # revise! 
   "[--][-tya+almost]" : "@EP"[{tya}]
 ];
@@ -1115,7 +1085,7 @@ define V=S=almost [ # revise!
 # action finished a long time ago
 # REM.PST: remote past  
 define V=S=RPST [
-  "[--][-ni][+R.PST][=actn.finished.a.long.time.ago (ES: acción.terminada.hace.mucho.tiempo)]" : [{ni}]
+  "[--][-ni][+REM.PST][=actn.finished.a.long.time.ago (ES: acción.terminada.hace.mucho.tiempo)]" : [{ni}]
 ];
                    
 # ****************************************
