@@ -1018,10 +1018,10 @@ define CMPL [ [EP V=S=CMPL]|[V=S=CMPL] ];
                    
 # ****************************************
                    
+# incompletive 
 define V=S=ICPL [
-! "[--][-ite][+COMPL][=quickly,surprisingly]" : "@EP"[{ite}]
-  "[--][-it][+ICPL][=speed]" : "@EP"[{it}]
-| "[--][-itz][+ICPL][=speed]" : "@EP"[{itz}]
+  "[--][-it][Asp][+ICPL][=circumstantial]" : "@EP"[{it}]
+| "[--][-itz][Asp][+ICPL][=circumstantial]" : "@EP"[{itz}]
 ];
                    
 define ICPL [ [EP V=S=ICPL]|[V=S=ICPL] ];
