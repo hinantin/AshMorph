@@ -161,6 +161,7 @@ TZEpenthesisRule8
       define PersPrefixRestr1 [ Cons => .#. ~[[{h}|{n}|{p}|{r}]"@VPERS@"] _ ];
       define PersPrefixRestr2 [ [{o}] => .#. ~[[{pi}]"@VPERS@"] _ ]; 
       define AgentiveCausativeRestr1 [ [{o}]"@AGTCAUS@" => .#. ~[[{n}]"@VPERS@"] _ ]; # no examples available, but it causes a lot of overgeneration that's why it should be regulated  
+      # Epenthesis rules 
       define EpenthesisRestr1 ~[ ?* [{t}]"@EP@"[{t}] ?* ];
       
       define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 .o. PersPrefixRestr2 .o. AgentiveCausativeRestr1 .o. 
