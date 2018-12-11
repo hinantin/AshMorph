@@ -29,8 +29,8 @@ define V=S=noun [
 | "[--][=menko+n.m.+inal@tsi:tzi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[--][=minko+n.m.+inal@tsi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : "@EP"{minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[--][=mereki+n.m.+inal@ntsi.][IncNRoot][=rib (ES: costilla)]" : "@EP"{mereki} ! @CMP @VCMP
-| "[--][=mironta][IncNRoot][=flat (ES: plano)]" : "@EP"{mironta} ! @VCMP 
-| "[--][=meronta][IncNRoot][=flat (ES: plano)]" : "@EP"{meronta} ! @VCMP 
+| "[--][=mironta][IncNRoot][=flat (ES: objeto.plano-y-chato)]" : "@EP"{mironta} ! @VCMP 
+| "[--][=meronta][IncNRoot][=flat (ES: objeto.plano-y-chato)]" : "@EP"{meronta} ! @VCMP 
 | "[--][=mitziki][IncNRoot][=humpback.person (ES: persona.jorobada)]" : "@EP"{mitziki} ! @VCMP 
 | "[--][=morinte][IncNRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : "@EP"{morinte} ! @VCMP 
 | "[--][=moro+n.m.+inal@tsi.][IncNRoot][=hole (ES: hueco)]" : "@EP"{moro} ! N@->V @CMP @VCMP 
@@ -46,6 +46,7 @@ define V=S=noun [
 | "[--][=tapo+n.m.+inal@tsi.][IncNRoot][=gums (ES: encia)]" : "@EP"{tapo} ! @VCMP 
 | "[--][=tsome+n.m.+inal@tsi.][IncNRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : "@EP"{tsome} ! @VCMP
 | "[--][=tsomi+n.m.+inal@tsi.][IncNRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : "@EP"{tsomi} ! @VCMP
+| "[--][=tsantsana][IncNRoot][=wide (ES: amplio)]" : "@EP"{tsantsana} ! @VCMP 
 | "[--][=tsipana+n.m.][IncNRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : "@EP"{tsipana} ! @VCMP @CMP 
 | "[--][=tona+n.m.+inal@tsi.][IncNRoot][=snout (ES: hocico)]" : "@EP"{tona} ! @VCMP 
 | "[--][=vatsa+n./m.+inal@tsi.][IncNRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : "@EP"{vatsa} ! @VCMP

@@ -29,8 +29,8 @@ define V=S=LEN=noun [
 | "[--][=menko+n.m.+inal@tsi:tzi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[--][=minko+n.m.+inal@tsi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[--][=mereki+n.m.+inal@ntsi.][IncNRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
-| "[--][=mironta][IncNRoot][=flat (ES: plano)]" : {mironta} ! @VCMP 
-| "[--][=meronta][IncNRoot][=flat (ES: plano)]" : {meronta} ! @VCMP 
+| "[--][=mironta][IncNRoot][=flat (ES: objeto.plano-y-chato)]" : {mironta} ! @VCMP 
+| "[--][=meronta][IncNRoot][=flat (ES: objeto.plano-y-chato)]" : {meronta} ! @VCMP 
 | "[--][=mitziki][IncNRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
 | "[--][=morinte][IncNRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
 | "[--][=moro+n.m.+inal@tsi.][IncNRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
@@ -46,6 +46,7 @@ define V=S=LEN=noun [
 | "[--][=tapo+n.m.+inal@tsi.][IncNRoot][=gums (ES: encia)]" : {tapo} ! @VCMP 
 | "[--][=tsome+n.m.+inal@tsi.][IncNRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsome} ! @VCMP
 | "[--][=tsomi+n.m.+inal@tsi.][IncNRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsomi} ! @VCMP
+| "[--][=tsantsana][IncNRoot][=wide (ES: amplio)]" : {tsantsana} ! @VCMP 
 | "[--][=tsipana+n.m.][IncNRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
 | "[--][=tona+n.m.+inal@tsi.][IncNRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
 | "[--][=vatsa+n./m.+inal@tsi.][IncNRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
