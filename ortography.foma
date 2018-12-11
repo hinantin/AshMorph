@@ -77,21 +77,29 @@
       # ------------------------------------------
       # diphthong: ay 
       # wayro , DURATIVE suffix 
-      define AYDiphthong1 [ {ai} (->) {ay} || [v] _ ];
+      define AYDiphthong1 [ {ai} (->) {ay} || [v] _ [Cons] ];
+      define AYDiphthong2 [ {ai} (->) {ay} || [v] _ .#. ];
       # osaykanake 
-      define AYDiphthong2 [ {ai} (->) {ay} || [s] _ ];
+      define AYDiphthong3 [ {ai} (->) {ay} || [s] _ [Cons] ];
+      define AYDiphthong4 [ {ai} (->) {ay} || [s] _ .#. ];
       # TAYRI  
-      define AYDiphthong3 [ {ai} (->) {ay} || [t] _ ];
+      define AYDiphthong5 [ {ai} (->) {ay} || [t] _ [Cons] ];
+      define AYDiphthong6 [ {ai} (->) {ay} || [t] _ .#. ];
       # iranay 
-      define AYDiphthong4 [ {ai} (->) {ay} || [n] _ ];
+      define AYDiphthong7 [ {ai} (->) {ay} || [n] _ [Cons] ];
+      define AYDiphthong8 [ {ai} (->) {ay} || [n] _ .#. ];
       # athatane-payni
-      define AYDiphthong5 [ {ai} (->) {ay} || [p] _ ];
+      define AYDiphthong9 [ {ai} (->) {ay} || [p] _ [Cons] ];
+      define AYDiphthong10 [ {ai} (->) {ay} || [p] _ .#. ];
       # apaniroyni 
-      define OYDiphthong1 [ {oi} (->) {oy} || [r] _ ]; ! add {n} ??? 
+      define OYDiphthong1 [ {oi} (->) {oy} || [r] _ [Cons] ]; ! add {n} ??? 
+      define OYDiphthong2 [ {oi} (->) {oy} || [r] _ .#. ];
       # Mawoyni
-      define OYDiphthong2 [ {oi} (->) {oy} || [v] _ ]; 
+      define OYDiphthong3 [ {oi} (->) {oy} || [v] _ [Cons] ]; 
+      define OYDiphthong4 [ {oi} (->) {oy} || [v] _ .#. ]; 
       # Nokoy 
-      define OYDiphthong3 [ {oi} (->) {oy} || [k] _ ]; 
+      define OYDiphthong5 [ {oi} (->) {oy} || [k] _ [Cons] ]; 
+      define OYDiphthong6 [ {oi} (->) {oy} || [k] _ .#. ]; 
       # tilde (1) : ~ 
       define ATildeReplacement1 [ {an} (->) {ã} || _ [k|t] ];
       define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
@@ -110,8 +118,8 @@
       define Orthography [ QUIReplacement 
 .o. QYReplacement1 .o. QYReplacement2 .o. RYReplacement1 
 .o. QUReplacement .o. CReplacement1 .o. CReplacement2  
-.o. AYDiphthong1 .o. AYDiphthong2 .o. AYDiphthong3 .o. AYDiphthong4 .o. AYDiphthong5 
-.o. OYDiphthong1 .o. OYDiphthong2 .o. OYDiphthong3 
+.o. AYDiphthong1 .o. AYDiphthong2 .o. AYDiphthong3 .o. AYDiphthong4 .o. AYDiphthong5 .o. AYDiphthong6 .o. AYDiphthong7 .o. AYDiphthong8 .o. AYDiphthong9 .o. AYDiphthong10 
+.o. OYDiphthong1 .o. OYDiphthong2 .o. OYDiphthong3 .o. OYDiphthong4 .o. OYDiphthong5 .o. OYDiphthong6 
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  

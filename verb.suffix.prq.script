@@ -1302,6 +1302,7 @@ define PTV2 [ [EP V=S=PTV2]|[V=S=PTV2] ];
 # ****************************************
 
 define V=S=URGENT [
+# pireketi piarentsi / p- =ir -e =keti *** piarentsi 
   "[--][=keti][+URGENT][=urgency.of.an.actn.]" : [{keti}]
 | "[--][=kete][+URGENT][=urgency.of.an.actn.]" : [{kete}]
 ];
