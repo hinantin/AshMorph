@@ -747,9 +747,9 @@ define N=S=CNTR [
                    
 # ****************************************
                    
-define N=S=wide [
-  "[--][-tsantsana+wide]" : [{tsantsana}]
-];
+!define N=S=wide [
+!  "[--][-tsantsana+wide]" : [{tsantsana}]
+!];
                    
 # ****************************************
                    
