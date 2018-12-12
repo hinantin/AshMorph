@@ -71,19 +71,19 @@ define NumeralPRQin [
 | "[=apitetaniri][NumeralPRQ][=forty (ES: cuarenta)]" : {apitetaniri}
 ! 
 # 50 
-| "[=apapokoronini][NumeralPRQ][=fifty]" : {apapokoronini}
+| "[=apapokoronini][NumeralPRQ][=fifty (ES: cincuenta)]" : {apapokoronini}
 ! 
 # 60 
-| "[=oihatzironiri][NumeralPRQ][=sixty]" : {oihatzironiri}
+| "[=oihatzironiri][NumeralPRQ][=sixty (ES: sesenta)]" : {oihatzironiri}
 ! 
 # 70 
-| "[=yantsiniri][NumeralPRQ][=seventy]" : {yantsiniri}
+| "[=yantsiniri][NumeralPRQ][=seventy (ES: setenta)]" : {yantsiniri}
 ! 
 # 80 
-| "[=ochoniri][NumeralPRQ][=eighty]" : {ochoniri}
+| "[=ochoniri][NumeralPRQ][=eighty (ES: ochenta)]" : {ochoniri}
 ! 
 # 90 
-| "[=pashiniri][NumeralPRQ][=ninety]" : {pashiniri}
+| "[=pashiniri][NumeralPRQ][=ninety (ES: noventa)]" : {pashiniri}
 ! 
 # 100 
 | "[=osheki][NumeralPRQ][=a.hundred]" : {osheki}
