@@ -86,11 +86,11 @@ define NumeralPRQin [
 | "[=pashiniri][NumeralPRQ][=ninety (ES: noventa)]" : {pashiniri}
 ! 
 # 100 
-| "[=osheki][NumeralPRQ][=a.hundred]" : {osheki}
-| "[=sheki][NumeralPRQ][=a.hundred]" : {sheki}
-| "[=oshikiriri_oshikini][NumeralPRQ][=a.hundred]" : {oshikiriri_oshikini}
+| "[=osheki][NumeralPRQ][=a.hundred (ES: cien)]" : {osheki}
+| "[=sheki][NumeralPRQ][=a.hundred (ES: cien)]" : {sheki}
+| "[=oshikiriri_oshikini][NumeralPRQ][=a.hundred (ES: cien)]" : {oshikiriri_oshikini}
 # 1000 
-| "[=irinka][NumeralPRQ][=a.thousand]" : {irinka}
+| "[=irinka][NumeralPRQ][=a.thousand (ES: mil)]" : {irinka}
 ];
 
 # ---------------------------------------
