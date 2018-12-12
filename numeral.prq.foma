@@ -1,96 +1,96 @@
-define NumeralPRQin [
+define Numeral:PRQin [
 # 1 
-  "[=apa][NumeralPRQ][=one (ES: uno)]" : {apa}
-| "[=aparo][NumeralPRQ][=one (ES: uno)]" : {aparo}
-| "[=aparoni][NumeralPRQ][=one (ES: uno)]" : {aparoni} ! N@->V
-| "[=apani][NumeralPRQ][=one (ES: uno)]" : {apani} 
-| "[=pani][NumeralPRQ][=one (ES: uno)]" : {pani} ! @CMP 
+  "[=apa][Numeral:PRQ][=1 ~ one (ES: uno)]" : {apa}
+| "[=aparo][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparo}
+| "[=aparoni][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparoni} ! N@->V
+| "[=apani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {apani} 
+| "[=pani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {pani} ! @CMP 
 ! 
 # 2 
-| "[=apite][NumeralPRQ][=two (ES: dos)]" : {apite} ! N@->V
-| "[=pite][NumeralPRQ][=two (ES: dos)]" : {pite} ! @CMP 
+| "[=apite][Numeral:PRQ][=2 ~ two (ES: dos)]" : {apite} ! N@->V
+| "[=pite][Numeral:PRQ][=2 ~ two (ES: dos)]" : {pite} ! @CMP 
 ! 
 # 3 
-| "[=mava][NumeralPRQ][=three (ES: tres)]" : {mava} ! N@->V  @CMP 
-| "[=maava][NumeralPRQ][=three (ES: tres)]" : {maava}
+| "[=mava][Numeral:PRQ][=3 ~ three (ES: tres)]" : {mava} ! N@->V  @CMP 
+| "[=maava][Numeral:PRQ][=3 ~ three (ES: tres)]" : {maava}
 ! 
 # 4 
-| "[=cuatro][NumeralPRQ][=four (ES: cuatro)]" : {cuatro}
-| "[=apiteta][NumeralPRQ][=four (ES: cuatro)]" : {apiteta}
-| "[=apitevakaye][NumeralPRQ][=four (ES: cuatro)]" : {apitevakaye}
-| "[=apitekavakaye][NumeralPRQ][=four (ES: cuatro)]" : {apitekavakaye}
-| "[=otsi][NumeralPRQ][=four (ES: cuatro)]" : {otsi} ! @CMP 
-| "[=oyatanakerori][NumeralPRQ (ES: cuatro)][=four]" : {oyatanakerori} ! source:IIAP 
+| "[=cuatro][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {cuatro}
+| "[=apiteta][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {apiteta}
+| "[=apitevakaye][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {apitevakaye}
+| "[=apitekavakaye][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {apitekavakaye}
+| "[=otsi][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {otsi} ! @CMP 
+| "[=oyatanakerori][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {oyatanakerori} ! source:IIAP 
 ! 
 # 5 
-| "[=cinco][NumeralPRQ][=five (ES: cinco)]" : {cinco}
+| "[=cinco][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {cinco}
 ! apabakoro / =apa -pako -ro / =one -cl:your.hand -nmz / EN. 'cinco'; ES: 'five' 
-| "[=apavakoro][NumeralPRQ][=five (ES: cinco)]" : {apavakoro} ! source:IIAP
-| "[=apapokoroni][NumeralPRQ][=five (ES: cinco)]" : {apapokoroni}
-| "[=apapakoroni][NumeralPRQ][=five (ES: cinco)]" : {apapakoroni}
-| "[=koni][NumeralPRQ][=five (ES: cinco)]" : {koni} ! @CMP 
+| "[=apavakoro][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apavakoro} ! source:IIAP
+| "[=apapokoroni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapokoroni}
+| "[=apapakoroni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapakoroni}
+| "[=koni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {koni} ! @CMP 
 ! 
 # 6 
-| "[=oihatzirori][NumeralPRQ][=six (ES: seis)]" : {oihatzirori}
-| "[=shintapakerori][NumeralPRQ][=six (ES: seis)]" : {shintapakerori}
-| "[=iko][NumeralPRQ][=six (ES: seis)]" : {iko} ! @CMP 
+| "[=oihatzirori][Numeral:PRQ][=6 ~ six (ES: seis)]" : {oihatzirori}
+| "[=shintapakerori][Numeral:PRQ][=6 ~ six (ES: seis)]" : {shintapakerori}
+| "[=iko][Numeral:PRQ][=6 ~ six (ES: seis)]" : {iko} ! @CMP 
 ! 
 # 7 
-| "[=siete][NumeralPRQ][=seven (ES: siete)]" : {siete}
-| "[=yaantsiri][NumeralPRQ][=seven (ES: siete)]" : {yaantsiri}
-| "[=shirinkapaichari][NumeralPRQ][=seven (ES: siete)]" : {shirinkapaichari}
-| "[=tson][NumeralPRQ][=seven (ES: siete)]" : {tson} ! @CMP 
+| "[=siete][Numeral:PRQ][=7 ~ seven (ES: siete)]" : {siete}
+| "[=yaantsiri][Numeral:PRQ][=7 ~ seven (ES: siete)]" : {yaantsiri}
+| "[=shirinkapaichari][Numeral:PRQ][=7 ~ seven (ES: siete)]" : {shirinkapaichari}
+| "[=tson][Numeral:PRQ][=7 ~ seven (ES: siete)]" : {tson} ! @CMP 
 ! 
 # 8 
-| "[=ocho][NumeralPRQ][=eight (ES: ocho)]" : {ocho}
-| "[=pasini][NumeralPRQ][=eight (ES: ocho)]" : {pasini}
-| "[=tsoti][NumeralPRQ][=eight (ES: ocho)]" : {tsoti}
-| "[=soti][NumeralPRQ][=eight (ES: ocho)]" : {soti} ! @CMP 
+| "[=ocho][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {ocho}
+| "[=pasini][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {pasini}
+| "[=tsoti][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {tsoti}
+| "[=soti][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {soti} ! @CMP 
 ! 
 # 9 
-| "[=pashini][NumeralPRQ][=nine (ES: nueve)]" : {pashini}
-| "[=yaatapakirori][NumeralPRQ][=nine (ES: nueve)]" : {yaatapakirori}
-| "[=tin][NumeralPRQ][=nine (ES: nueve)]" : {tin} ! @CMP 
+| "[=pashini][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {pashini}
+| "[=yaatapakirori][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {yaatapakirori}
+| "[=tin][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {tin} ! @CMP 
 ! 
 # 10 
-| "[=apitevakaye][NumeralPRQ][=ten (ES: diez)]" : {apitevakaye}
-| "[=oshikiri][NumeralPRQ][=ten (ES: diez)]" : {oshikiri}
-| "[=tsa][NumeralPRQ][=ten (ES: diez)]" : {tsa} ! @CMP 
+| "[=apitevakaye][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {apitevakaye}
+| "[=oshikiri][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {oshikiri}
+| "[=tsa][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {tsa} ! @CMP 
 ! 
 # 18 
-| "[=dieciocho][NumeralPRQ][=eighteen]" : {dieciocho}
+| "[=dieciocho][Numeral:PRQ][=18 ~ eighteen]" : {dieciocho}
 ! 
 # 20 
-| "[=apiteniri][NumeralPRQ][=twenty (ES: veinte)]" : {apiteniri}
-| "[=oshikiriri][NumeralPRQ][=twenty (ES: veinte)]" : {oshikiriri}
+| "[=apiteniri][Numeral:PRQ][=20 ~ twenty (ES: veinte)]" : {apiteniri}
+| "[=oshikiriri][Numeral:PRQ][=20 ~ twenty (ES: veinte)]" : {oshikiriri}
 ! 
 # 30 
-| "[=mavaniri][NumeralPRQ][=thirty (ES: treinta)]" : {mavaniri}
+| "[=mavaniri][Numeral:PRQ][=30 ~ thirty (ES: treinta)]" : {mavaniri}
 ! 
 # 40 
-| "[=apitetaniri][NumeralPRQ][=forty (ES: cuarenta)]" : {apitetaniri}
+| "[=apitetaniri][Numeral:PRQ][=40 ~ forty (ES: cuarenta)]" : {apitetaniri}
 ! 
 # 50 
-| "[=apapokoronini][NumeralPRQ][=fifty (ES: cincuenta)]" : {apapokoronini}
+| "[=apapokoronini][Numeral:PRQ][=50 ~ fifty (ES: cincuenta)]" : {apapokoronini}
 ! 
 # 60 
-| "[=oihatzironiri][NumeralPRQ][=sixty (ES: sesenta)]" : {oihatzironiri}
+| "[=oihatzironiri][Numeral:PRQ][=60 ~ sixty (ES: sesenta)]" : {oihatzironiri}
 ! 
 # 70 
-| "[=yantsiniri][NumeralPRQ][=seventy (ES: setenta)]" : {yantsiniri}
+| "[=yantsiniri][Numeral:PRQ][=70 ~ seventy (ES: setenta)]" : {yantsiniri}
 ! 
 # 80 
-| "[=ochoniri][NumeralPRQ][=eighty (ES: ochenta)]" : {ochoniri}
+| "[=ochoniri][Numeral:PRQ][=80 ~ eighty (ES: ochenta)]" : {ochoniri}
 ! 
 # 90 
-| "[=pashiniri][NumeralPRQ][=ninety (ES: noventa)]" : {pashiniri}
+| "[=pashiniri][Numeral:PRQ][=90 ~ ninety (ES: noventa)]" : {pashiniri}
 ! 
 # 100 
-| "[=osheki][NumeralPRQ][=a.hundred (ES: cien)]" : {osheki}
-| "[=sheki][NumeralPRQ][=a.hundred (ES: cien)]" : {sheki}
-| "[=oshikiriri_oshikini][NumeralPRQ][=a.hundred (ES: cien)]" : {oshikiriri_oshikini}
+| "[=osheki][Numeral:PRQ][=100 ~ a.hundred (ES: cien)]" : {osheki}
+| "[=sheki][Numeral:PRQ][=100 ~ a.hundred (ES: cien)]" : {sheki}
+| "[=oshikiriri_oshikini][Numeral:PRQ][=100 ~ a.hundred (ES: cien)]" : {oshikiriri_oshikini}
 # 1000 
-| "[=irinka][NumeralPRQ][=a.thousand (ES: mil)]" : {irinka}
+| "[=irinka][Numeral:PRQ][=1000 ~ a.thousand (ES: mil)]" : {irinka}
 ];
 
 # ---------------------------------------
