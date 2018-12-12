@@ -158,9 +158,9 @@ define NounToVerbPRQin [
 | "[=tapo+s.redup.word][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object][^VBZ]" : {tapo} ! N@->V @CMP 
 | "[=pitsopitso][Ideo:PRQ][=woman.walking.with.gyrating.hips]::[= (ES: girar); to.dance (ES: bailar)][^VBZ]" : {pitsopitso} ! N@->V::[= (ES: girar); to.dance (ES: bailar)]
 | "[=haran][Ideo:PRQ][=sound/action.made.by.a.falling/breaking.branch/tree][^VBZ]" : {haran} ! N@->V
-| "[=aparoni][NumeralPRQ][=one][^VBZ]" : {aparoni} ! N@->V
-| "[=apite][NumeralPRQ][=two][^VBZ]" : {apite} ! N@->V
-| "[=mava][NumeralPRQ][=three][^VBZ]" : {mava} ! N@->V  @CMP 
+| "[=aparoni][Numeral:PRQ][=1 ~ one (ES: uno)][^VBZ]" : {aparoni} ! N@->V
+| "[=apite][Numeral:PRQ][=2 ~ two (ES: dos)][^VBZ]" : {apite} ! N@->V
+| "[=mava][Numeral:PRQ][=3 ~ three (ES: tres)][^VBZ]" : {mava} ! N@->V  @CMP 
 | "[=ch'arki/chariki][NRoot:QU][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)][^VBZ]" : {chariki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
 | "[=ch'arki/chariiki][NRoot:QU][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)][^VBZ]" : {chariiki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
 | "[=maapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)][^VBZ]" : {maapero} ! N@->V   

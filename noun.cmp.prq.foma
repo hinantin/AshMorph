@@ -54,14 +54,14 @@ define NRootCmpPRQin [
 | "[--][=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
 # @CMP			noun composition 
 | "[--][=tapo+s.redup.word][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
-| "[--][=pani][NumeralPRQ][=one]" : {pani} ! @CMP 
-| "[--][=pite][NumeralPRQ][=two]" : {pite} ! @CMP 
-| "[--][=mava][NumeralPRQ][=three]" : {mava} ! N@->V  @CMP 
-| "[--][=otsi][NumeralPRQ][=four]" : {otsi} ! @CMP 
-| "[--][=koni][NumeralPRQ][=five]" : {koni} ! @CMP 
-| "[--][=iko][NumeralPRQ][=six]" : {iko} ! @CMP 
-| "[--][=tson][NumeralPRQ][=seven]" : {tson} ! @CMP 
-| "[--][=soti][NumeralPRQ][=eight]" : {soti} ! @CMP 
-| "[--][=tin][NumeralPRQ][=nine]" : {tin} ! @CMP 
-| "[--][=tsa][NumeralPRQ][=ten]" : {tsa} ! @CMP 
+| "[--][=pani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {pani} ! @CMP 
+| "[--][=pite][Numeral:PRQ][=2 ~ two (ES: dos)]" : {pite} ! @CMP 
+| "[--][=mava][Numeral:PRQ][=3 ~ three (ES: tres)]" : {mava} ! N@->V  @CMP 
+| "[--][=otsi][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {otsi} ! @CMP 
+| "[--][=koni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {koni} ! @CMP 
+| "[--][=iko][Numeral:PRQ][=6 ~ six (ES: seis)]" : {iko} ! @CMP 
+| "[--][=tson][Numeral:PRQ][=7 ~ seven (ES: siete)]" : {tson} ! @CMP 
+| "[--][=soti][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {soti} ! @CMP 
+| "[--][=tin][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {tin} ! @CMP 
+| "[--][=tsa][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {tsa} ! @CMP 
 ];
