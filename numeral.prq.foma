@@ -1,18 +1,18 @@
 define NumeralPRQin [
 # 1 
-  "[=apa][NumeralPRQ][=one]" : {apa}
-| "[=aparo][NumeralPRQ][=one]" : {aparo}
-| "[=aparoni][NumeralPRQ][=one]" : {aparoni} ! N@->V
-| "[=apani][NumeralPRQ][=one]" : {apani} 
-| "[=pani][NumeralPRQ][=one]" : {pani} ! @CMP 
+  "[=apa][NumeralPRQ][=one (ES: uno)]" : {apa}
+| "[=aparo][NumeralPRQ][=one (ES: uno)]" : {aparo}
+| "[=aparoni][NumeralPRQ][=one (ES: uno)]" : {aparoni} ! N@->V
+| "[=apani][NumeralPRQ][=one (ES: uno)]" : {apani} 
+| "[=pani][NumeralPRQ][=one (ES: uno)]" : {pani} ! @CMP 
 ! 
 # 2 
-| "[=apite][NumeralPRQ][=two]" : {apite} ! N@->V
-| "[=pite][NumeralPRQ][=two]" : {pite} ! @CMP 
+| "[=apite][NumeralPRQ][=two (ES: dos)]" : {apite} ! N@->V
+| "[=pite][NumeralPRQ][=two (ES: dos)]" : {pite} ! @CMP 
 ! 
 # 3 
-| "[=mava][NumeralPRQ][=three]" : {mava} ! N@->V  @CMP 
-| "[=maava][NumeralPRQ][=three]" : {maava}
+| "[=mava][NumeralPRQ][=three (ES: tres)]" : {mava} ! N@->V  @CMP 
+| "[=maava][NumeralPRQ][=three (ES: tres)]" : {maava}
 ! 
 # 4 
 | "[=cuatro][NumeralPRQ][=four]" : {cuatro}
