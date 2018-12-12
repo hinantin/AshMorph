@@ -13,8 +13,8 @@ define PrnDemPRQin [
 ! 
 | "[=haa][PrnDem][= (ES: ahí)]" : {haa} ! \cite[pag. 24]{minsa:salud:12}
 ! DEM.ADV 
-| "[=anta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded)]" : {anta}
-| "[=hanta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded; ES: allá, allí)]" : {hanta}
+| "[=anta+distal.b.][PrnDem][=there (ES: allí.(está)), far.from.the.speaker (bounded)]" : {anta}
+| "[=hanta+distal.b.][PrnDem][=there (ES: allí.(está)), far.from.the.speaker (bounded; ES: allá, allí)]" : {hanta}
 ! 
 ! nojatatye antoo antamiki / nohatatye antoo antamiki / no- =ha -t -aty -e  =antoo  =antami -ki / 1sg.s- =to.go -ep -prog -real  =far.from.the.speaker  =forest -loc / EN: 'I.will.go.far_away.to.the_forest' 
 | "[=anto+distal.unb.][PrnDem][=there, over.there, far.from.the.speaker (unbounded)]" : {anto}
@@ -40,7 +40,8 @@ define PrnDemPRQin [
 | "[=hirora+n.m.+medial][PrnDem][=(over).there (close), near]" : {hirora}
 | "[=nirora+n.m.+medial][PrnDem][=~]" : {nirora}
 | "[=hironta+n.m.+distal][PrnDem][=(over).there (far), half.distant]" : {hironta}
-| "[=nironta+n.m.+distal][PrnDem][=~]" : {nironta}
+| "[=heronta+n.m.+distal][PrnDem][=(over).there (far; ES: allí.(está)), half.distant]" : {heronta}
+| "[=nironta+n.m.+distal][PrnDem][= (ES: allí.está)]" : {nironta}
 | "[=hironto+n.m.+distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hironto}
 ! 
 | "[=irika+m.+proximal][PrnDem][=this (ES: este)]" : {irika}

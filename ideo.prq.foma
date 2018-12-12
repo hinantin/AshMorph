@@ -200,7 +200,8 @@ define IdeoPRQin [
 | "[=pite+s.redup.word][Ideo:PRQ][=trickling.stream; liquid.falling.in.drops][--][-k][+PUNCTUAL.ACTN]" : {pitek}
 ! 
 | "[=shiri+s.redup.word][Ideo:PRQ][=dry.leaves.rustling]" : {shiri} 
-| "[=shiri+s.redup.word][Ideo:PRQ][=cricket.sound; (slowly).climbing.up.a_tree; wiping.tears.from.the.face]" : {shiri} 
+| "[=shiri+s.redup.word@3X.][Ideo:PRQ][=cricket.sound; (slowly).climbing.up.a_tree; wiping.tears.from.the.face]" : {shiri} 
+| "[=shire+s.redup.word@3X.][Ideo][=cricket.sound]" : {shire} 
 | "[=shikiri+s.redup.word][Ideo:PRQ][=dry.leaves.rustling]" : {shikiri}
 ! 
 # ES: sonido de una persona que atraviesa una quebrada con bajo nivel de agua 
