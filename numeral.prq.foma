@@ -15,20 +15,20 @@ define NumeralPRQin [
 | "[=maava][NumeralPRQ][=three (ES: tres)]" : {maava}
 ! 
 # 4 
-| "[=cuatro][NumeralPRQ][=four]" : {cuatro}
-| "[=apiteta][NumeralPRQ][=four]" : {apiteta}
+| "[=cuatro][NumeralPRQ][=four (ES: cuatro)]" : {cuatro}
+| "[=apiteta][NumeralPRQ][=four (ES: cuatro)]" : {apiteta}
 | "[=apitevakaye][NumeralPRQ][=four (ES: cuatro)]" : {apitevakaye}
-| "[=apitekavakaye][NumeralPRQ][=four]" : {apitekavakaye}
-| "[=otsi][NumeralPRQ][=four]" : {otsi} ! @CMP 
-| "[=oyatanakerori][NumeralPRQ][=four]" : {oyatanakerori} ! source:IIAP 
+| "[=apitekavakaye][NumeralPRQ][=four (ES: cuatro)]" : {apitekavakaye}
+| "[=otsi][NumeralPRQ][=four (ES: cuatro)]" : {otsi} ! @CMP 
+| "[=oyatanakerori][NumeralPRQ (ES: cuatro)][=four]" : {oyatanakerori} ! source:IIAP 
 ! 
 # 5 
-| "[=cinco][NumeralPRQ][=five]" : {cinco}
+| "[=cinco][NumeralPRQ][=five (ES: cinco)]" : {cinco}
 ! apabakoro / =apa -pako -ro / =one -cl:your.hand -nmz / EN. 'cinco'; ES: 'five' 
-| "[=apavakoro][NumeralPRQ][=five]" : {apavakoro} ! source:IIAP
-| "[=apapokoroni][NumeralPRQ][=five]" : {apapokoroni}
+| "[=apavakoro][NumeralPRQ][=five (ES: cinco)]" : {apavakoro} ! source:IIAP
+| "[=apapokoroni][NumeralPRQ][=five (ES: cinco)]" : {apapokoroni}
 | "[=apapakoroni][NumeralPRQ][=five (ES: cinco)]" : {apapakoroni}
-| "[=koni][NumeralPRQ][=five]" : {koni} ! @CMP 
+| "[=koni][NumeralPRQ][=five (ES: cinco)]" : {koni} ! @CMP 
 ! 
 # 6 
 | "[=oihatzirori][NumeralPRQ][=six]" : {oihatzirori}
