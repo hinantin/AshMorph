@@ -102,5 +102,7 @@ define PrnDemPRQin [
 | "[=hero+n.m.][PrnDem][=DEM.ID.][=here.you.are]" : {hero}
 | "[=heroka+n.m.+proximal][PrnDem][=DEM.ID.][=here.you.are; here.it.is]" : {heroka}
 | "[=hero+n.m.][PrnDem][=DEM.ID.][=here.you.are][--][=keti][+URGENT]" : {heroketi}
+! 
+| "[=ainti][PrnDem][=DEM.ID.][= (ES: allá)]" : {ainti}
 ];
 
