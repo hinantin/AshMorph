@@ -31,44 +31,44 @@ define NumeralPRQin [
 | "[=koni][NumeralPRQ][=five (ES: cinco)]" : {koni} ! @CMP 
 ! 
 # 6 
-| "[=oihatzirori][NumeralPRQ][=six]" : {oihatzirori}
-| "[=shintapakerori][NumeralPRQ][=six]" : {shintapakerori}
-| "[=iko][NumeralPRQ][=six]" : {iko} ! @CMP 
+| "[=oihatzirori][NumeralPRQ][=six (ES: seis)]" : {oihatzirori}
+| "[=shintapakerori][NumeralPRQ][=six (ES: seis)]" : {shintapakerori}
+| "[=iko][NumeralPRQ][=six (ES: seis)]" : {iko} ! @CMP 
 ! 
 # 7 
-| "[=siete][NumeralPRQ][=seven]" : {siete}
-| "[=yaantsiri][NumeralPRQ][=seven]" : {yaantsiri}
-| "[=shirinkapaichari][NumeralPRQ][=seven]" : {shirinkapaichari}
-| "[=tson][NumeralPRQ][=seven]" : {tson} ! @CMP 
+| "[=siete][NumeralPRQ][=seven (ES: siete)]" : {siete}
+| "[=yaantsiri][NumeralPRQ][=seven (ES: siete)]" : {yaantsiri}
+| "[=shirinkapaichari][NumeralPRQ][=seven (ES: siete)]" : {shirinkapaichari}
+| "[=tson][NumeralPRQ][=seven (ES: siete)]" : {tson} ! @CMP 
 ! 
 # 8 
-| "[=ocho][NumeralPRQ][=eight]" : {ocho}
-| "[=pasini][NumeralPRQ][=eight]" : {pasini}
-| "[=tsoti][NumeralPRQ][=eight]" : {tsoti}
-| "[=soti][NumeralPRQ][=eight]" : {soti} ! @CMP 
+| "[=ocho][NumeralPRQ][=eight (ES: ocho)]" : {ocho}
+| "[=pasini][NumeralPRQ][=eight (ES: ocho)]" : {pasini}
+| "[=tsoti][NumeralPRQ][=eight (ES: ocho)]" : {tsoti}
+| "[=soti][NumeralPRQ][=eight (ES: ocho)]" : {soti} ! @CMP 
 ! 
 # 9 
-| "[=pashini][NumeralPRQ][=nine]" : {pashini}
-| "[=yaatapakirori][NumeralPRQ][=nine]" : {yaatapakirori}
-| "[=tin][NumeralPRQ][=nine]" : {tin} ! @CMP 
+| "[=pashini][NumeralPRQ][=nine (ES: nueve)]" : {pashini}
+| "[=yaatapakirori][NumeralPRQ][=nine (ES: nueve)]" : {yaatapakirori}
+| "[=tin][NumeralPRQ][=nine (ES: nueve)]" : {tin} ! @CMP 
 ! 
 # 10 
-| "[=apitevakaye][NumeralPRQ][=ten]" : {apitevakaye}
-| "[=oshikiri][NumeralPRQ][=ten]" : {oshikiri}
-| "[=tsa][NumeralPRQ][=ten]" : {tsa} ! @CMP 
+| "[=apitevakaye][NumeralPRQ][=ten (ES: diez)]" : {apitevakaye}
+| "[=oshikiri][NumeralPRQ][=ten (ES: diez)]" : {oshikiri}
+| "[=tsa][NumeralPRQ][=ten (ES: diez)]" : {tsa} ! @CMP 
 ! 
 # 18 
 | "[=dieciocho][NumeralPRQ][=eighteen]" : {dieciocho}
 ! 
 # 20 
-| "[=apiteniri][NumeralPRQ][=twenty]" : {apiteniri}
-| "[=oshikiriri][NumeralPRQ][=twenty]" : {oshikiriri}
+| "[=apiteniri][NumeralPRQ][=twenty (ES: veinte)]" : {apiteniri}
+| "[=oshikiriri][NumeralPRQ][=twenty (ES: veinte)]" : {oshikiriri}
 ! 
 # 30 
-| "[=mavaniri][NumeralPRQ][=thirty]" : {mavaniri}
+| "[=mavaniri][NumeralPRQ][=thirty (ES: treinta)]" : {mavaniri}
 ! 
 # 40 
-| "[=apitetaniri][NumeralPRQ][=forty]" : {apitetaniri}
+| "[=apitetaniri][NumeralPRQ][=forty (ES: cuarenta)]" : {apitetaniri}
 ! 
 # 50 
 | "[=apapokoronini][NumeralPRQ][=fifty]" : {apapokoronini}
