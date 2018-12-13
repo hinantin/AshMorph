@@ -1022,7 +1022,7 @@ define CMPL [ [EP V=S=CMPL]|[V=S=CMPL] ];
 define V=S=ICPL [
   "[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{it}]
 | "[--][-itz][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{itz}]
-| "[--][-et][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{et}]
+| "[--][-it~et][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{et}]
 ];
                    
 define ICPL [ [EP V=S=ICPL]|[V=S=ICPL] ];
