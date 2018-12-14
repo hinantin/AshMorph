@@ -103,7 +103,8 @@ define NRootPLACESin [
 | "[=pichiroki][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant, PLACE.NAME]" : {pichiroki}
 ! 
 | "[=la_merced][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant, PLACE.NAME]" : {la_merced}
-| "[=tsiirishi][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant, PLACE.NAME]" : {tsiirishi}
+| "[=tsiirishi][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant, PLACE.NAME (ES: La.Merced)]" : {tsiirishi}
+| "[=tsirishi][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant, PLACE.NAME (ES: La.Merced)]" : {tsirishi}
 | "[=kimiri][NRoot][=PLACE.NAME]" : {kimiri}
 ! 
 | "[=tsomontoniki][NRoot][=the.cliff.where.a.big-bellied.man.resides, PLACE.NAME]" : {tsomontoniki}
