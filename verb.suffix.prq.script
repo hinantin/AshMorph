@@ -992,6 +992,7 @@ define ANT1 [ [EP V=S=ANT1]|[V=S=ANT1] ];
 # TIME.MODAL 
 define V=S=EARLY [ 
   "[--][-aman][ADV][+TIME.MODAL][=early]" : "@EP"[{aman}]
+| "[--][-aman~man][ADV][+TIME.MODAL][=early]" : "@EP"[{man}] 
 ];
                    
 define EARLY [ [EP V=S=EARLY]|[V=S=EARLY] ];
