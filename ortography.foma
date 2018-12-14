@@ -91,6 +91,8 @@
       # athatane-payni
       define AYDiphthong9 [ {ai} (->) {ay} || [p] _ [Cons] ];
       define AYDiphthong10 [ {ai} (->) {ay} || [p] _ .#. ];
+      # 
+      define EYDiphthong1 [ {ei} (->) {ey} || [t] _ [Cons] ];
       # apaniroyni 
       define OYDiphthong1 [ {oi} (->) {oy} || [r] _ [Cons] ]; ! add {n} ??? 
       define OYDiphthong2 [ {oi} (->) {oy} || [r] _ .#. ];
