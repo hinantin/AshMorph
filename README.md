@@ -8,6 +8,9 @@ It is spoken by approximately 70,000 people (2002), making it the third most wid
 
 #### Polysynthetic  
 
+Because it is often possible to find a word that combines several word stems with a very specific 
+semantic meaning (noun-incorporation and verbal classifiers).
+
 #### Head-marking 
 
 Ashaninka possesses extensive agreement or cross-refencing, heads such as verbs and nouns agree with 
