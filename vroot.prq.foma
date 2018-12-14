@@ -435,10 +435,10 @@ define VRootPRQin [
 | "[=eevank][VRoot][=to.fan]" : {eevank}
 | "[=iivank][VRoot][=to.fan]" : {iivank}
 ! 
-| "[=hi][VRoot][=to.call, to.be.called, to.be.named]" : {hi}
-| "[=ii][VRoot][=to.call, to.be.called, to.be.named]" : {ii}
-| "[=iit][VRoot][=to.call, to.be.called, to.be.named]" : {iit}
-#| "[=i][VRoot][=to.call, to.be.called, to.be.named]" : {i} ! produces too many ambiguities 
+| "[=hi][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {hi}
+| "[=ii][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {ii}
+| "[=iit][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {iit}
+#| "[=i][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {i} ! produces too many ambiguities 
 ! 
 | "[=hinki][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
 | "[=hinki+MOD@REDUP.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[= (ES: rodear.algo.varias.veces)]" : {hinkihinki}
