@@ -13,7 +13,7 @@ semantic meaning (noun-incorporation and verbal classifiers).
 
 #### Head-marking 
 
-Ashaninka possesses extensive agreement or cross-refencing, heads such as verbs and nouns agree with 
+Ashaninka possesses extensive agreement or cross-refencing. Heads such as verbs and nouns agree with 
 the properties of their arguments, for instance, markers on the verb indicate properties of both the subject 
 and the object.
 
