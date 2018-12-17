@@ -961,7 +961,7 @@ define VRootPRQin [
 | "[=pants][VRoot][=to.sing (ES: cantar)]" : {pants}
 | "[=pantsa][VRoot][=to.sing (ES: cantar); to.sing.individually]" : {pantsa}
 ! 
-| "[=man][VRoot][=to.hide]" : {man}
+| "[=man][VRoot][=to.hide (ES: ocultar)]" : {man}
 | "[=tsiti][VRoot][=to.hide (ES: ocultar)]" : {tsiti}
 ! 
 | "[=mana][VRoot][=to.fight (ES: luchar)]" : {mana}
@@ -1478,8 +1478,9 @@ define VRootPRQin [
 ! 
 | "[=piink][VRoot][=to.dive, to.submerge (ES: sumergir); to.drown (ES: ahogar)]" : {piink}
 | "[=pink+INF@aantsi.][VRoot][=to.drown (ES: ahogar(se))]" : {pink}
-| "[=pinki][VRoot][=to.drown]" : {pinki}
+| "[=pinki][VRoot][=to.drown (ES: ahogar)]" : {pinki}
 | "[=oviink][VRoot][=to.dunk (cause.to.submerge)]" : {oviink}
+| "[=tsiti+INF@antsi.][VRoot][=to.drown (ES: ahogar(se))]" : {tsiti}
 ! 
 ! to respect sb., to honor sb.
 | "[=pinkatsa][VRoot][=to.respect.sth/sb. (ES: respetar), to.honor.sth/sb. (ES: honrar)]" : {pinkatsa}
