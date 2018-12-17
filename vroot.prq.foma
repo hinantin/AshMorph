@@ -1466,8 +1466,8 @@ define VRootPRQin [
 ! 
 | "[=pichak][VRoot][=to.patch.sth. (ES: parchar.algo)]" : {pichak}
 ! 
-| "[=pimant][VRoot][=to.sell]" : {pimant}
-| "[=pimanta][VRoot][=to.sell]" : {pimanta}
+| "[=pimant][VRoot][=to.sell (ES: vender)]" : {pimant}
+| "[=pimanta][VRoot][=to.sell (ES: vender)]" : {pimanta}
 ! 
 | "[=pina][VRoot][=to.pay, to.pay.off (a_debt), to.be.free.of.debt; to.cost (ES: costar, valer); to.give]" : {pina}
 ! 
@@ -1476,11 +1476,13 @@ define VRootPRQin [
 | "[=pink][VRoot][=to.have.a.thing.about.sth., to.disgust, to.put.sb.off.sth.]" : {pink}
 | "[=piink][VRoot][=to.have.a.thing.about.sth., to.disgust, to.put.sb.off.sth.]" : {piink}
 ! 
+# ----------------------------------------------------------------------
 | "[=piink][VRoot][=to.dive, to.submerge (ES: sumergir); to.drown (ES: ahogar)]" : {piink}
 | "[=pink+INF@aantsi.][VRoot][=to.drown (ES: ahogar(se))]" : {pink}
 | "[=pinki][VRoot][=to.drown (ES: ahogar)]" : {pinki}
 | "[=oviink][VRoot][=to.dunk (cause.to.submerge)]" : {oviink}
 | "[=tsiti+INF@antsi.][VRoot][=to.drown (ES: ahogar(se))]" : {tsiti}
+# ----------------------------------------------------------------------
 ! 
 ! to respect sb., to honor sb.
 | "[=pinkatsa][VRoot][=to.respect.sth/sb. (ES: respetar), to.honor.sth/sb. (ES: honrar)]" : {pinkatsa}
