@@ -909,6 +909,7 @@ define V=S=EMPH [
 # ****************************************
                                
 define V=S=APPLBEN [
+# okimoshirebentakero oshinto / okimoshireventakero oshinto / o- =kimoshire -vent -ak -e =ro *** o- =shinto / ES: 'está.muy.orgullosa.por.su.hija' 
   "[--][-vint][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
 | "[--][-vent][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vent}]
 ];
