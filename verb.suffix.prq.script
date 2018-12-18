@@ -913,9 +913,9 @@ define V=S=APPLBEN [
   "[--][-vint][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
 | "[--][-vent][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vent}]
 ];
-                   
+                               
 define APPLBEN [ [EP V=S=APPLBEN]|[V=S=APPLBEN] ];
-                   
+                               
 # ****************************************
                                
 # presencial applicative 
