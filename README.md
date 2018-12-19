@@ -1,7 +1,7 @@
 Ashaninka Morph
 ===============
 
-This is a morphological analyzer for Ashaninka written using Xerox finite state technology.
+This is a morphological analyzer for Ashaninka written using Xerox finite state technology with a quadrilingual lexicon (Ashaninka, English, Spanish and Portuguese).
 
 Ashaninka is a polysynthetic and head-marking language spoken in the central adjoining Amazonian regions between Peru and Brazil (Acre State).
 It is spoken by approximately 70,000 people (2002), making it the third most widely spoken indigenous language of the Americas.
