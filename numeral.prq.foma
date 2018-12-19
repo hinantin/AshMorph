@@ -30,6 +30,7 @@ define NumeralPRQin [
 | "[=apapokoroni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapokoroni}
 | "[=apapakoroni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapakoroni}
 | "[=koni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {koni} ! @CMP 
+| "[=apapako][Numeral][=5 ~ five (ES: cinco)]" : {apapako}
 ! 
 # 6 
 | "[=oihatzirori][Numeral:PRQ][=6 ~ six (ES: seis)]" : {oihatzirori}
