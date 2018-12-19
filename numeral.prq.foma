@@ -50,6 +50,7 @@ define NumeralPRQin [
 | "[=pasini][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {pasini}
 | "[=tsoti][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {tsoti}
 | "[=soti][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {soti} ! @CMP 
+| "[=tsipanto][Numeral][=8 ~ eight (ES: ocho)]" : {tsipanto}
 ! 
 # 9 
 | "[=pashini][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {pashini}
