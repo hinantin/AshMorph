@@ -1490,8 +1490,8 @@ define NRootPRQin [
 ! 
 | "[=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde); yellow.chested.macaw]" : {kasanto} ! @CMP 
 ! 
-| "[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashekari}
-| "[=kashikari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]" : {kashikari}
+| "[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashekari}
+| "[=kashikari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashikari}
 ! 
 | "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap (ES: savia.lechosa.del.árbol), sap]" : {kashi} ! N@->V
 | "[=kashi][NRoot][=semen]" : {kashi}
@@ -3996,9 +3996,10 @@ define NRootPRQin [
 | "[=shamitzi][NRoot][=namesake]" : {shamitzi}
 ! 
 # animal que vive en los árboles, posee grandes uñas y cola prensil.
-| "[=shaa+poss@ni.][NRoot][=anteater (ES: piampía)]" : {shaa}
-| "[=shani+m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla)]" : {shani}
-| "[=shaani+m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla)]" : {shaani}
+| "[=sha+poss@ni.][NRoot][=anteater (ES: piampía; PT: tamanduá)]" : {sha}
+| "[=shaa+poss@ni.][NRoot][=anteater (ES: piampía; PT: tamanduá)]" : {shaa}
+| "[=shani+m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shani}
+| "[=shaani+m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shaani}
 ! 
 | "[=sharaka][NRoot][=snow (ES: nieve); hail (ES: granizo)]" : {sharaka}
 ! 
@@ -4316,10 +4317,11 @@ define NRootPRQin [
 ! 
 | "[=shoronaki][NRoot][=classical.harpoon-tipped.conch-covered.arrow (ES: flecha.kiriki.con.una.caparazón)]" : {shoronaki} 
 ! 
-| "[=soo+m.][NRoot][=sloth.sp. (Spanish.loan.word: zorro)]" : {soo}
-| "[=soro+m.][NRoot][=sloth.sp. (Spanish.loan.word: zorro)]" : {soro}
-| "[=soroni+m.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni)]" : {soroni}
-| "[=sorooni+m.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni)]" : {sorooni}
+| "[=só+m.][NRoot:CPB][=sloth.sp. (Spanish.loan.word: zorro; PT: preguiça)]" : {só}
+| "[=soo+m.][NRoot][=sloth.sp. (Spanish.loan.word: zorro; PT: preguiça)]" : {soo}
+| "[=soro+m.][NRoot][=sloth.sp. (Spanish.loan.word: zorro; PT: preguiça)]" : {soro}
+| "[=soroni+m.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni; PT: preguiça)]" : {soroni}
+| "[=sorooni+m.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni; PT: preguiça)]" : {sorooni}
 ! 
 | "[=sorome][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {sorome}
 | "[=soromee][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {soromee}
