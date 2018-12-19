@@ -1988,8 +1988,8 @@ define VRootPRQin [
 ! 
 | "[=tonta][VRoot][=to.be.thick (ES: ser.grueso/espeso)]" : {tonta}
 ! 
-| "[=tot][VRoot][=to.cut (ES: cortar)]" : {tot}
-| "[=to][VRoot][=to.cut (ES: cortar)]" : {to}
+| "[=tot+INF@aantsi.][VRoot][=to.cut (ES: cortar)]" : {tot}
+| "[=to+INF@/EP:t/aantsi.][VRoot][=to.cut (ES: cortar)]" : {to}
 | "[=tov][VRoot][=to.fell, to.cut.down (a.tree; ES: tumbar.(un.árbol))]" : {tov}
 | "[=tov][VRoot][=to.cut]" : {tov}
 | "[=tova][VRoot][=to.cut]" : {tova}
