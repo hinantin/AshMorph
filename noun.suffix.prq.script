@@ -375,7 +375,8 @@ define N=S=CL [
 | "[--][-shontyoki][+CL:oval,grain-like][=oval, grain-like]" : {shontyoki} 
 # ----------------------------------------------
 ! 
-! kotsiropeta / =kotsiro -peta / =machete -cl / ES: 'machete.viejo', EN: 'old.machete'  
+! kotsiropeta / =kotsiro -peta / =machete -cl:old.devalued / ES: 'machete.viejo', EN: 'old.machete'  
+! koyapityaini / =koya -pitya -ini / =woman -cl:old.devalued -dim / EN: 'old.little.woman' 
 | "[--][-pita][+CL:old.devalued][=old.devalued]" : {pita} 
 | "[--][-pitya][+CL:old.devalued][=old.devalued]" : {pitya} 
 | "[--][-peta][+CL:old.devalued][=old.devalued]" : {peta} 
