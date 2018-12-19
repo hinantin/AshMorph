@@ -56,11 +56,13 @@ define NumeralPRQin [
 | "[=pashini][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {pashini}
 | "[=yaatapakirori][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {yaatapakirori}
 | "[=tin][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {tin} ! @CMP 
+| "[=shirinkatsiri][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {shirinkatsiri}
 ! 
 # 10 
 | "[=apitevakaye][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {apitevakaye}
 | "[=oshikiri][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {oshikiri}
 | "[=tsa][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {tsa} ! @CMP 
+| "[=apipako][Numeral][=10 ~ ten (ES: diez)]" : {apipako}
 ! 
 # 18 
 | "[=dieciocho][Numeral:PRQ][=18 ~ eighteen]" : {dieciocho}
