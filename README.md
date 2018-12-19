@@ -28,13 +28,13 @@ $ echo "ashaninka" | lookup asheninka.bin -flags cnKv29TT
 
   *****  LEXICON LOOK-UP  *****
 
-ashaninka	[a-][NPers][1PL.poss+][--][=shani+m.][NRoot][=anteater (ES: oso.hormiguero)][--][-nka+quality][+NMZ]
-ashaninka	[a-][NPers][1PL.poss+][--][=shani][VRoot][=to.be.of.the.same.group][--][-nka+quality][+NMZ]nka
+ashaninka	[a-][NPers][1PL.poss+][--][=shani][VRoot][=to.be.of.the.same.group][--][-nka][NS][+NMZ.QLTY]nka
+ashaninka	[a-][NPers][1PL.poss+][--][=shani+m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla)][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
+ashaninka	[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]
 
 
 LOOKUP STATISTICS (success with different strategies):
 strategy 0:	1 times 	(100.00 %)
-strategy 1:	0 times 	(0.00 %)
 not found:	0 times 	(0.00 %)
 
 corpus size:	1 word
