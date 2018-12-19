@@ -21,6 +21,7 @@ define NumeralPRQin [
 | "[=apitekavakaye][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {apitekavakaye}
 | "[=otsi][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {otsi} ! @CMP 
 | "[=oyatanakerori][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {oyatanakerori} ! source:IIAP 
+| "[=otsipatapaka][Numeral][=4 ~ four (ES: cuatro)]" : {otsipatapaka}
 ! 
 # 5 
 | "[=cinco][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {cinco}

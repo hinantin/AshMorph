@@ -1991,8 +1991,8 @@ define VRootPRQin [
 | "[=tot+INF@aantsi.][VRoot][=to.cut (ES: cortar)]" : {tot}
 | "[=to+INF@/EP:t/aantsi.][VRoot][=to.cut (ES: cortar)]" : {to}
 | "[=tov][VRoot][=to.fell, to.cut.down (a.tree; ES: tumbar.(un.árbol))]" : {tov}
-| "[=tov][VRoot][=to.cut]" : {tov}
-| "[=tova][VRoot][=to.cut]" : {tova}
+| "[=tov][VRoot][=to.cut (ES: cortar)]" : {tov}
+| "[=tova][VRoot][=to.cut (ES: cortar)]" : {tova}
 ! 
 ! toye ... / =to -ye ... / =to.cut -dist ... / EN: 'to.dismember'; ES: 'descuartizar'
 | "[=toye][VRoot][=to dismember (ES: descuartizar)]" : {toye}
