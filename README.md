@@ -23,9 +23,7 @@ Compiling with XFST or FOMA
 ```
 # XFST 
 $ xfst -f asheninka.script 
-$ xfst -f ideoredupsyl.prq.foma 
-$ echo "ashaninka" | lookup -f lookup.script -flags cnKv29TT
-Reading script from "lookup.script"
+$ echo "ashaninka" | lookup asheninka.bin -flags cnKv29TT
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 
   *****  LEXICON LOOK-UP  *****
@@ -47,7 +45,6 @@ speed:		1 word/sec
 
 # FOMA
 $ foma -f asheninka.script 
-$ foma -f ideoredupsyl.prq.foma 
 
 ```
 
