@@ -2350,8 +2350,8 @@ define NRootPRQin [
 | "[=mapiti+m.][NRoot][=small.bird.sp. (ES: sp.de.pájaro)]" : {mapiti}
 ! 
 ! mankiawo / mankiavo / =manki -a -vo / =serpent -cl:liquid -nmz / EN: 'lake.where.serpents.are.abundant'; ES: 'laguna.donde.abundan.las.culebras'  
-| "[=maanki+m.][NRoot][=snake (ES: sp.de.culebra), serpent]" : {maanki}
-| "[=manki+m.][NRoot][=snake, serpent (ES: serpiente)]" : {manki}
+| "[=maanki+m.][NRoot][=snake (ES: sp.de.culebra; PT: cobras.em.geral), serpent]" : {maanki}
+| "[=manki+m.][NRoot][=snake (ES: serpiente; PT: cobras.em.geral), serpent]" : {manki}
 | "[=maanke+m.][NRoot][=snake (ES: sp.de.culebra), serpent]" : {maanke}
 | "[=maranke+m.][NRoot][=snake.sp., serpent]" : {maranke}
 | "[=maranki+m.][NRoot][=snake.sp.]" : {maranki}
@@ -4216,12 +4216,12 @@ define NRootPRQin [
 ! 
 | "[=shikiri][NRoot][=triangular.wings.fly (ES: sp.de.mosca); mosquito.sp.]" : {shikiri}
 ! 
-| "[=shipane+n.m.+inal@n/tsi.][NRoot][=chest (ES: pecho); breast]" : {shipane}
-| "[=shipani+n.m.+inal@ntsi.][NRoot][=chest (ES: pecho); breast]" : {shipani}
+| "[=shipane+n.m.+inal@n/tsi.][NRoot][=chest (ES: pecho; PT: peito); breast (PT: seio)]" : {shipane}
+| "[=shipani+n.m.+inal@ntsi.][NRoot][=chest (ES: pecho; PT: peito); breast (PT: seio)]" : {shipani}
 ! 
 | "[=shipatona+n.m.+inal@ntsi.][NRoot][=beard, moustache (ES: barba, bigote; PT: barba, bigode)]" : {shipatona} ! N@->V::[=to.have.whiskers]
 ! 
-| "[=shipatyoki+n.m.+inal@ntsi.][NRoot][=eyelid (ES: párpado)]" : {shipatyoki}
+| "[=shipatyoki+n.m.+inal@ntsi.][NRoot][=eyelid (ES: párpado; PT: pálpebra)]" : {shipatyoki}
 ! 
 | "[=shipinkoki][NRoot][=small.wasp.sp. (ES: sp.de.avispa.pequeña; sci.nm.: stelopolybia.sp.)]" : {shipinkoki}
 ! 
