@@ -604,7 +604,7 @@ define VRootPRQin [
 | "[=kaats][VRoot:CPB][=to.be (PT: ser,, estar)]" : {kaats}
 | "[=katsi][VRoot:CPB][=to.be (PT: ser,, estar)]" : {katsi}
 ! 
-| "[=katsinka][VRoot][=to.be.cold]" : {katsinka}
+| "[=katsinka+INF@/EP:t/aantsi.][VRoot][=to.be.cold (ES: estar.con.frío)]" : {katsinka}
 ! 
 | "[=katsima][VRoot][=to.get.angry, to.be.wild, to.be.savage; to.hate; to.feel.pain]" : {katsima}
 | "[=tsima+INF@antsi][VRoot][=to.anger (ES: enojar); to.have.anger/rage (ES: tener.ira/rabia); to.be.angry (ES: estar.molesto)]" : {tsima}
