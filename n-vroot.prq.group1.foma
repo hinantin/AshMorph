@@ -100,7 +100,7 @@ define NounToVerbPRQin [
 | "[=shiri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug][^VBZ]" : {shiri} ! N@->V
 | "[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco ([ˈʃɛ.ɾɪ];ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug; tobacco.paste][^VBZ]" : {sheri} ! N@->V
 | "[=seri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug][^VBZ]" : {seri} ! N@->V
-| "[=shipatona+n.m.+inal@ntsi.][NRoot][=beard, moustache (ES: barba, bigote)]::[=to.have.whiskers][^VBZ]" : {shipatona} ! N@->V::[=to.have.whiskers]
+| "[=shipatona+n.m.+inal@ntsi.][NRoot][=beard, moustache (ES: barba, bigote; PT: barba, bigode)]::[=to.have.whiskers][^VBZ]" : {shipatona} ! N@->V::[=to.have.whiskers]
 | "[=shirampari+m.][NRoot][=man; male (ES: hombre)]::[=to.transform.into.a.man][^VBZ]" : {shirampari} ! N@->V::[=to.transform.into.a.man]
 | "[=shitamenko+n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: tarima.(hecha.de.pona))]::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))][^VBZ]" : {shitamenko} ! N@->V::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))]  
 | "[=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de.lombriz.de.tierra/instestinal)][^VBZ]" : {shitsa} ! N@->V 
