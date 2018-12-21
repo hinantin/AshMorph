@@ -439,7 +439,7 @@ define VRootPRQin [
 | "[=hi][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {hi}
 | "[=ii][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {ii}
 | "[=iit][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {iit}
-#| "[=it][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {it} ! produces too many ambiguities 
+| "[=it][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {it} ! produces too many ambiguities 
 ! 
 | "[=hinki][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
 | "[=hinki+MOD@REDUP.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[= (ES: rodear.algo.varias.veces)]" : {hinkihinki}
@@ -1901,7 +1901,7 @@ define VRootPRQin [
 ! 
 | "[=tampatsika][VRoot][=to.be.noon]" : {tampatsika}
 ! 
-| "[=tapi][VRoot][=to.inflate (ES: inflar)]" : {tapi}
+| "[=tapi+INF@antsi.][VRoot][=to.inflate (ES: inflar)]" : {tapi}
 | "[=tapiy][VRoot][=to.inflate (ES: inflar)]" : {tapiy}
 ! 
 | "[=tapore][VRoot][=to.fold; to.bend]" : {tapore}
