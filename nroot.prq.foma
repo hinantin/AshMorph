@@ -1859,9 +1859,6 @@ define NRootPRQin [
 ! 
 | "[=kitsapi+m.+poss@ti.][NRoot][=needle (ES: aguja, alfiler)]" : {kitsapi}
 ! 
-| "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
-| "[=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)] 
-! 
 | "[=koachere][NRoot][=blackish.rail (sci.nm.: pardirallus.nigricans)]" : {koachere}
 ! 
 | "[=koakiti][NRoot][=small.white-necked.sparrow-hawk.sp.; bat.falcon (sci.nm.: falco.rutigularis)]" : {koakiti}
@@ -2803,6 +2800,9 @@ define NRootPRQin [
 ! 
 | "[=okitsoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitsoki}
 | "[=okitoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitoki}
+| "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
+| "[=kitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
+| "[=oitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {oitsoki} 
 ! 
 ! oonkantsi / =oonka -ntsi / =flood -nposs / ES: 'inundación'  
 | "[=oonka][NRoot][=flood (ES: inundación; PT: inundação); downpour (ES: chaparrón; PT: aguaceiro)]" : {oonka}
