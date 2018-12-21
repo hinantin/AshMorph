@@ -2801,13 +2801,13 @@ define NRootPRQin [
 | "[=inkamani][NRoot][=early.morning (ES: mañana); dawning (ES: al.amanecer)]" : {inkamani}
 | "[=inkaamani][NRoot][=early.morning (ES: mañana); dawning (ES: al.amanecer)]" : {inkaamani}
 ! 
-| "[=okitsoki][NRoot][=seed]" : {okitsoki}
-| "[=okitoki][NRoot][=seed]" : {okitoki}
+| "[=okitsoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitsoki}
+| "[=okitoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitoki}
 ! 
 ! oonkantsi / =oonka -ntsi / =flood -nposs / ES: 'inundación'  
-| "[=oonka][NRoot][=flood (ES: inundación); downpour]" : {oonka}
-| "[=oonkaro][NRoot][=flood (ES: inundación); downpour]" : {oonkaro}
-| "[=oonkavo][NRoot][=flood (ES: inundación); downpour]" : {oonkavo}
+| "[=oonka][NRoot][=flood (ES: inundación; PT: inundação); downpour (ES: chaparrón; PT: aguaceiro)]" : {oonka}
+| "[=oonkaro][NRoot][=flood (ES: inundación; PT: inundação); downpour (ES: chaparrón; PT: aguaceiro)]" : {oonkaro}
+| "[=oonkavo][NRoot][=flood (ES: inundación; PT: inundação); downpour (ES: chaparrón; PT: aguaceiro)]" : {oonkavo}
 ! 
 | "[=omani+m.][NRoot][=black.catfish (ES: zúngaro, huacava; sci.nm.: brachyplatystoma.filamentosa)]" : {omani}
 ! 
