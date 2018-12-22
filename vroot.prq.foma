@@ -1230,7 +1230,7 @@ define VRootPRQin [
 | "[=oivo][VRoot][=to.bend, to.crouch]" : {oivo} 
 | "[=oiyo][VRoot][=to.bend, to.crouch]" : {oiyo} 
 ! 
-| "[=oit][VRoot][=to.make.sb.drink (ES: hacer.tomar, dar.bebida.en.pate)]" : {oit} 
+| "[=oit+INF@aantsi.][VRoot][=to.make.sb.drink (ES: hacer.tomar, dar.bebida.en.pate)]" : {oit} 
 ! 
 | "[=oitsok][VRoot][=to.lay.eggs]" : {oitsok} 
 | "[=itsok][VRoot][=to.lay.eggs]" : {itsok} 
