@@ -59,7 +59,6 @@ define NounToVerbPRQin [
 | "[=kitamari+m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamari} ! N@->V::[to.be.white]
 | "[=kitamaari+m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamaari} ! N@->V::[to.be.white]
 | "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo)]::[to.be.yellow (ES: ponerse.amarillento)][^VBZ]" : {kiteri} ! N@->V::[to.be.yellow (ES: ponerse.amarillento)] 
-| "[=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]::[=to.sow (ES: sembrar)][^VBZ]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)] 
 | "[=kooya][NRoot][=woman (from.Quechua.Quya)][^VBZ]" : {kooya} ! N@->V
 | "[=koya][NRoot][=woman (from.Quechua.Quya)][^VBZ]" : {koya} ! N@->V
 | "[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)][^VBZ]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
@@ -78,6 +77,7 @@ define NounToVerbPRQin [
 | "[=moti+inal@tsi.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement]::[= (ES: vivir)][^VBZ]" : {nampi} ! N@->V::[= (ES: vivir)] +ADDUPPER@. @ADDLOWER@ 
 | "[=mampira][NRoot][=aurora (ES: aurora)][^VBZ]" : {mampira} ! N@->V 
+| "[=kitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]::[=to.sow (ES: sembrar)][^VBZ]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
 | "[=oorya+m.][NRoot][=sun (ES: sol)][^VBZ]" : {oorya} ! N@->V
 | "[=oria+m.][NRoot][=sun (ES: sol)]::[=to.shine][^VBZ]" : {oria} ! N@->V::[=to.shine]
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)][^VBZ]" : {oventeni} ! N@->V
