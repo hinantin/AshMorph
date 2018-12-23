@@ -5226,6 +5226,12 @@ define NRootPRQin [
 # Days / Días / Dia 
 # ############################
 | "[=hivarosaro][NRoot][=Monday (ES: lunes; PT: segunda-feira)]" : {hivarosaro}
+| "[=oihasato][NRoot][=Tuesday (ES: martes; PT: terça-feira)]" : {oihasato}
+| "[=maavasato][NRoot][=Wednesday (ES: miércoles; PT: quarta-feira)]" : {maavasato}
+| "[=otsisato][NRoot][=Thursday (ES: jueves; PT: quinta-feira)]" : {otsisato}
+| "[=konisato][NRoot][=Friday (ES: viernes; PT: sexta-feira)]" : {konisato}
+| "[=kivantisato][NRoot][=Saturday (ES: sábado; PT: sábado)]" : {kivantisato}
+| "[=nyaatsasato][NRoot][=Sunday (ES: domingo; PT: domingo)]" : {nyaatsasato}
 ];
 
 # ##############################
