@@ -275,15 +275,15 @@ define NRootPRQin [
 | "[=atsityopi][NRoot][=mythical.armadillo/anaconda-like.creature]" : {atsityopi}
 | "[=atsityopini+m.][NRoot][=mythical.armadillo/anaconda-like.creature (ES: dueño.del.río)]" : {atsityopini}
 ! 
-| "[=avanto][NRoot][=big-size.frog]" : {avanto}
+| "[=avanto][NRoot][=big-size.frog (ES: rana.grande)]" : {avanto}
 ! 
 | "[=avo+n.m.+inal@tsi.][NRoot][=road, trail]" : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)]
 | "[=ao+n.m.+inal@tsi.][NRoot][=road, trail]" : {ao}
 | "[=aa+n.m.+inal@tsi.][NRoot][=road, trail]" : {aa}
 | "[=avotsi+n.m.+poss@te:ti.][NRoot][=road (ES: camino, trocha)]" : {avotsi} ! \cite[p\'{a}g. 67]{payne:lecciones:89} 
 ! 
-| "[=avesari+m.][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña)]" : {avesari}
-| "[=avisari+m.][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña)]" : {avisari}
+| "[=avesari+m.][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña; PT: piranha)]" : {avesari}
+| "[=avisari+m.][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña; PT: piranha)]" : {avisari}
 ! 
 | "[=avireri][NRoot][=name.of.a_mythical_hero, person's.name]" : {avireri}
 ! 
@@ -4404,6 +4404,7 @@ define NRootPRQin [
 | "[=tariito][NRoot][=lightning (ES: rayo)]" : {tariito}
 | "[=tarito][NRoot][=lightning (ES: rayo)]" : {tarito}
 ! 
+# otabanto / otavanto / ES: 'techo' 
 | "[=tavanto+n.m.+inal@ntsi.][NRoot][=summit, peak (ES: cumbre)]" : {tavanto}
 ! 
 | "[=tavaato+inal@ntsi.][NRoot][=shin-bone (ES: canilla)]" : {tavaato}
