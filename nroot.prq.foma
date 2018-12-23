@@ -287,7 +287,8 @@ define NRootPRQin [
 ! 
 | "[=avireri][NRoot][=name.of.a_mythical_hero, person's.name]" : {avireri}
 ! 
-| "[=avo][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao)]" : {avo}
+| "[=avo+m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao~atatao)]" : {avo}
+| "[=aro+m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao~atatao)]" : {aro}
 ! 
 | "[=chaari][NRoot][=dark.water]" : {chaari}
 ! 
