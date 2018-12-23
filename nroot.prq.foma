@@ -18,7 +18,9 @@ define NRootPRQin [
 ! 
 | "[=achama+m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {achama} 
 ! 
-| "[=ahopi+n.m.][NRoot][=vainilla; aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {ahopi} 
+# ahope~asopi: ser.ilusionista.que.hace.encantamientos.utilizando.la.vainilla.de.la.canela
+| "[=ahopi+n.m.][NRoot][=vainilla; aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {ahopi}
+| "[=ahope+n.m.][NRoot][=vainilla; aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {ahope}  
 | "[=asopi+n.m.][NRoot][=vainilla; aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {asopi} 
 ! 
 | "[=amai+n.m.][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amai} 
@@ -1489,7 +1491,7 @@ define NRootPRQin [
 ! 
 | "[=kasonki+m.][NRoot][=tuber.sp. (it.is.used.to.treat.boils/furuncles; ES: tubérculo.contra.el.chupo/furúnculo)]" : {kasonki}
 ! 
-| "[=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde); yellow.chested.macaw]" : {kasanto} ! @CMP 
+| "[=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
 ! 
 | "[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashekari}
 | "[=kashikari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashikari}
