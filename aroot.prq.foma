@@ -56,6 +56,9 @@ define ARootPRQin [
 | "[=kenkivaro+n.m.][AdjRoot][=old (ES: chatarra)]" : {kenkivaro} ! N@->V
 | "[=kinkivaro+n.m.][AdjRoot][=old]" : {kinkivaro} ! N@->V
 ! 
+| "[=kiteri][AdjRoot][=clean (ES: limpio; PT: limpo)]" : {kiteri}
+| "[=kitiri][AdjRoot][=clean (ES: limpio; PT: limpo)]" : {kitiri}
+! 
 | "[=maaro][AdjRoot][=everybody, all]" : {maaro}
 | "[=maaroni][AdjRoot][=everybody, all, entire]" : {maaroni}
 | "[=maroni][AdjRoot][=everybody, all, entire]" : {maroni}
