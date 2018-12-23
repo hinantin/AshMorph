@@ -172,5 +172,10 @@ define NRootPLACESin [
 !
 | "[=kempiri][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {kempiri}
 ! 
+| "[=Meritari][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {meritari}
+| "[=Miritari][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {miritari}
+!
+| "[=palmacocha][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {palmacocha}
+! 
 | "[=Asopiso/Azupizu][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {azupizu}
 ];
