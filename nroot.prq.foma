@@ -5222,6 +5222,10 @@ define NRootPRQin [
 # chakopiiteri diciembre
 | "[=chakopiteri][NRoot][=December (ES: diciembre)]" : {chakopiteri}
 | "[=chakopiiteri][NRoot][=December (ES: diciembre)]" : {chakopiiteri}
+# ############################
+# Days / Días / Dia 
+# ############################
+| "[=hivarosaro][NRoot][=Monday (ES: lunes; PT: segunda-feira)]" : {hivarosaro}
 ];
 
 # ##############################
