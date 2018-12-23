@@ -178,4 +178,5 @@ define NRootPLACESin [
 | "[=palmacocha][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {palmacocha}
 ! 
 | "[=Asopiso/Azupizu][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {azupizu}
+| "[=Asopiso][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {asopiso}
 ];
