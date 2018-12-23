@@ -62,6 +62,7 @@
       define NPReplacement [ {mp} (->) {np} || [Vowels] _ [Vowels] ]; # amenpori
       
       define RYReplacement [ {i} (->) {y} || [{r}] _ .#. ]; # -ry -> -ri 
+      define TSYReplacement [ {i} (->) {y} || [{ts}] _ .#. ]; # -tsy -> -tsi 
       
       # onset before vowel a 
       define TYOnset1 [ {tey} (->) {ty} || _ [a|á] ]; ! tyaaki 'flower' -> teyaaki 
@@ -130,7 +131,7 @@
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
 .o. NYTildeReplacement1 .o. NYTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 .o. UReplacement3 .o. UReplacement4  
-.o. NPReplacement .o. RYReplacement 
+.o. NPReplacement .o. RYReplacement .o. TSYReplacement 
 .o. TYOnset1 .o. TYOnset2 .o. PYOnset .o. KYOnset 
 ]; 
 
