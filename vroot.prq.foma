@@ -224,10 +224,10 @@ define VRootPRQin [
 ! 
 | "[=apatsa][VRoot][= (ES: abollar)]" : {apatsa}
 ! 
-| "[=ar][VRoot][=to.fly (ES: volar)]" : {ar}
+| "[=ar+INF@aantsi.][VRoot][=to.fly (ES: volar)]" : {ar}
 # agani / =ag -a =ni / =to.fly -real =rel / ES: 'la.voladora, pequeña.voladora, nombre.de.mujer' 
-| "[=ag][VRoot][=to.fly (ES: volar)]" : {ag}
-| "[=aag][VRoot][=to.fly (ES: volar)]" : {aag}
+| "[=ag+INF@aantsi.][VRoot][=to.fly (ES: volar)]" : {ag}
+| "[=aag+INF@aantsi.][VRoot][=to.fly (ES: volar)]" : {aag}
 | "[=ay][VRoot][=to.fly (ES: volar)]" : {ay} ! to be revised 
 ! 
 | "[=arii][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)]" : {arii}
