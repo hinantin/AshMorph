@@ -1498,8 +1498,8 @@ define NRootPRQin [
 | "[=kashikari+m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashikari}
 ! 
 | "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap (ES: savia.lechosa.del.árbol), sap]" : {kashi} ! N@->V
-| "[=kashi][NRoot][=semen]" : {kashi}
-| "[=koche+inal@tsi.][NRoot][=semen (ES: esperma)]" : {koche} ! 
+| "[=kashi][NRoot][=semen (ES: esperma; PT: esperma)]" : {kashi}
+| "[=koche+inal@tsi.][NRoot][=semen (ES: esperma; PT: esperma)]" : {koche} ! 
 ! 
 # la luna fue un hombre que vivió en la tierra que luego se fue a vivir al cielo 
 # oyashirite osarentsi / ES: 'meses.del.año'
