@@ -305,6 +305,8 @@ define V=S=AUG=SET1 [
 | "[--][-pira][DEGR][+AUG][=VERITY:indeed, truly]" : "@EP"[{pira}]
 ];
                    
+define AUG=SET1 [V=S=AUG=SET1]; 
+                   
 define V=S=AUG=SET2 [
 # -------------------------------------------
   "[--][-ni][DEGR][+AUG][=truly]" : [{ni}]

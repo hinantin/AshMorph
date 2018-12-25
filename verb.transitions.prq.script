@@ -90,6 +90,7 @@ define S [
 #  
 |                                                    (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
 |                                                    (V=S=CL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
+|                                                    (V=S=CL) (AUG=SET1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
 # nokaratapovetanake 
 | S=NOUN                                                      (FRUS) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
 # iitamatsivaitaitero 
