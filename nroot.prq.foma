@@ -2272,6 +2272,8 @@ define NRootPRQin [
 | "[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
 | "[=mapotxa+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya; PT: mamão)]" : {mapotxa}
 ! 
+| "[=mapova+n.m.][NRoot][=tree.sp. (ES: huimba; sci.nm.: ceiba.integrifolia, bombacaceae)]" : {mapova}
+! 
 | "[=mashashatzi][NRoot][=toad.sp. ZOOL (ES: sp.de.sapo)]" : {mashashatzi} 
 ! 
 | "[=masheri][NRoot][=ant.sp. (QU: kuki, ES: coqui, hormiga)]" : {masheri} ! cricket.sp. 
@@ -3256,13 +3258,13 @@ define NRootPRQin [
 ! 
 | "[=pashiitoki][NRoot][=tree.sp. (ES: topa); balsa.stick]" : {pashiitoki}
 | "[=paroto+n.m.][NRoot][=tree.sp. (ES: topa)]" : {paroto}
-| "[=paato+n.m.][NRoot][=tree.sp. (ES: topa)]" : {paato}
+| "[=paato+n.m.][NRoot][=tree.sp. (ES: topa; sci.nm.: ochroma.sp., bombacaceae)]" : {paato}
 ! 
 | "[=pashikaro+n.m.+inal@ntsi.][NRoot][=thick.woollen_blanket (ES: frazada)]" : {pashikaro}
 | "[=pashikaro+n.m.+inal@ntsi.][NRoot][=blanket (ES: colcha, cobija)]" : {pashikaro}
 | "[=pashikavo+n.m.+inal@ntsi.][NRoot][=blanket (ES: colcha, cobija)]" : {pashikavo}
 ! 
-| "[=payari+m.][NRoot][=fish.sp.]" : {payari}
+| "[=payari+m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {payari}
 ! 
 | "[=peerereti][NRoot][=rail.sp. (ES: sp.de.rállido; sci.nm.: aramides, rallus.nigricans)]" : {peerereti}
 ! 
