@@ -3774,10 +3774,15 @@ define NRootPRQin [
 ! 
 | "[=sheesheetzi][NRoot][=hoatzin (sci.nm.: ophistocomus.hoatzin)]" : {sheesheetzi}
 ! 
-| "[=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, unguravi; PT: patoá)]" : {sheya} ! @CMP 
-| "[=sheia+n.m.+poss@ni][NRoot:CPB][=palm.tree.sp. (ES: ungurahui, unguravi; PT: patoá)]" : {sheia}
-| "[=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, unguravi; PT: patoá)]" : {shiya} ! @CMP 
-| "[=shaa+n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurague)]" : {shaa} ! @CMP 
+# ----------------------------------------------------------------
+! sheiaki~sheyaki 
+| "[=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheya} ! @CMP 
+| "[=sheia+n.m.+poss@ni][NRoot:CPB][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheia}
+| "[=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {shiya} ! @CMP 
+! shaki~shaaki
+| "[=shaa+n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {shaa} ! @CMP 
+| "[=sha+n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {sha}
+# ----------------------------------------------------------------
 ! 
 | "[=shiyava][NRoot][=NP, person's.name]" : {shiyava}
 | "[=pishiyava][NRoot][=NP, person's.name]" : {pishiyava}
