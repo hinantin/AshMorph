@@ -558,8 +558,9 @@ define NRootPRQin [
 | "[=chopire+n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopire} 
 | "[=chopiri+n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopiri} 
 ! 
-| "[=chorina+n.m.][NRoot][=palm.tree.sp. (sci.nm.: oenocarpus.mapora)]" : {chorina} 
-| "[=chorena+n.m.][NRoot][=palm.tree.sp. (sci.nm.: oenocarpus.mapora)]" : {chorena} 
+| "[=chorina+n.m.][NRoot][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {chorina} 
+| "[=chorena+n.m.][NRoot][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {chorena} 
+| "[=txorina+n.m.][NRoot:CPB][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {txorina} 
 ! 
 | "[=choriti+m.][NRoot][=small.swallow.sp. (ES: gorrión, sp.de.pajarito)]" : {choriti}
 ! 
@@ -1969,7 +1970,7 @@ define NRootPRQin [
 ! 
 | "[=kontanto+n.m.][NRoot][=sweet_potato.sp. (ES: sp.de.camote)]" : {kontanto}
 ! 
-| "[=kõtaki][NRoot:CPB][= (ES: paja.de.palmera.de.coco; PT: (palha.de.palmeira.de).cocão)]" : [{kõtaki}|{kotaki}]
+| "[=koNtaki/kõtaki][NRoot:CPB][= (ES: paja.de.palmera.de.coco; PT: (palha.de.palmeira.de).cocão)]" : [{kõtaki}|{kotaki}]
 ! 
 | "[=kontona][NRoot][=partridge.sp. (ES: sp.de.perdiz; sci.nm.: odontophorus.gujanensis)]" : {kontona}
 ! 
@@ -3451,9 +3452,9 @@ define NRootPRQin [
 | "[=tsipire+n.m.][NRoot][=mat (ES: estera); rudimentary.enclosure.made.of.leaves-and-wooden_sticks (ES: quincha; QU: qincha)]" : {tsipire}
 ! 
 | "[=tsina][NRoot][=palm.tree.sp. (huasaí)]" : {tsina}
-| "[=tsirentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta)]" : {tsirentsi}
-| "[=tsireentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta)]" : {tsireentsi}
-| "[=tsiriintsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta)]" : {tsiriintsi}
+| "[=tsirentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta; PT: açaí)]" : {tsirentsi}
+| "[=tsireentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta; PT: açaí)]" : {tsireentsi}
+| "[=tsiriintsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta; PT: açaí)]" : {tsiriintsi}
 ! 
 | "[=tsinari][NRoot][=grasshopper/cricket (ES: saltamonte/grillo)]" : {tsinari}
 ! 
@@ -3773,8 +3774,9 @@ define NRootPRQin [
 ! 
 | "[=sheesheetzi][NRoot][=hoatzin (sci.nm.: ophistocomus.hoatzin)]" : {sheesheetzi}
 ! 
-| "[=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {sheya} ! @CMP 
-| "[=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {shiya} ! @CMP 
+| "[=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, unguravi; PT: patoá)]" : {sheya} ! @CMP 
+| "[=sheia+n.m.+poss@ni][NRoot:CPB][=palm.tree.sp. (ES: ungurahui, unguravi; PT: patoá)]" : {sheia}
+| "[=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, unguravi; PT: patoá)]" : {shiya} ! @CMP 
 | "[=shaa+n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurague)]" : {shaa} ! @CMP 
 ! 
 | "[=shiyava][NRoot][=NP, person's.name]" : {shiyava}
@@ -4124,7 +4126,7 @@ define NRootPRQin [
 ! 
 | "[=shimoto+m.][NRoot][=worm.sp. (inhabits.decomposed.tree.trunks; ES: sp.de.gusano), black.locust.sp.]" : {shimoto}
 ! 
-| "[=shina][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna; PT: madeira.de.lei)]" : {shina}
+| "[=shina][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna; PT: madeira.de.lei, açaí)]" : {shina}
 ! 
 | "[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; PT: queixada; sci.nm.: tayassu.tajacu)]" : {shintori}
 ! 
@@ -4636,7 +4638,7 @@ define NRootPRQin [
 | "[=nini+n.m.+inal@tsi.][NRoot][=tongue (ES: lengua)]" : {nini}
 | "[=nene+n.m.+inal@tsi.][NRoot][=tongue (ES: lengua)]" : {nene}
 ! palm species
-| "[=toniro+n.m.+poss@ti:te.][NRoot][=palm.tree.sp. (ES: aguaje; sci.nm.: mauritia.flexuosa)]" : {toniro}
+| "[=toniro+n.m.+poss@ti:te.][NRoot][=palm.tree.sp. (ES: aguaje; PT: buriti; sci.nm.: mauritia.flexuosa)]" : {toniro}
 !
 | "[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)]" : {tonkari}
 | "[=tonkaari+sem@loc.][NRoot][=hill.top,above (ES: loma)]" : {tonkaari}
