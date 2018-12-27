@@ -793,13 +793,13 @@ define NRootPRQin [
 | "[=hiaa+n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hiaa}
 | "[=inyaa+n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {inyaa}
 ! 
-| "[=hiva+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {hiva}
-| "[=heva+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {heva}
-| "[=hevaa+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {hevaa}
-| "[=eevaro+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {eevaro}
-| "[=eevavo+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {eevavo}
-| "[=iivavo+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {iivavo}
-| "[=hevare+m.+inal@ntsi.][NRoot][=fan (ES: abanico)]" : {hevare}
+| "[=hiva+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {hiva}
+| "[=heva+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {heva}
+| "[=hevaa+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {hevaa}
+| "[=eevaro+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {eevaro}
+| "[=eevavo+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {eevavo}
+| "[=iivavo+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {iivavo}
+| "[=hevare+m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {hevare}
 ! 
 | "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 | "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
