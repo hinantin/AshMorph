@@ -2573,6 +2573,8 @@ define NRootPRQin [
 | "[=mititsa][NRoot][=spine (ES: columna)]" : {mititsa}
 ! 
 | "[=mitziki][NRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
+| "[=sompoinari+m.][NRoot][=humpback.person (ES: persona.jorobada)]" : {sompoinari} 
+| "[=sompoinaro+n.m.][NRoot][=humpback.person (ES: persona.jorobada)]" : {sompoinaro} 
 ! 
 | "[=mitiri+m.][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {mitiri}
 | "[=miteri+m.][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {miteri}
