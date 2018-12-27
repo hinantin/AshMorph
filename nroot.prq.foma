@@ -120,7 +120,7 @@ define NRootPRQin [
 ! 
 | "[=arroz/aroso+n.m.][NRoot][=rice (ES: arroz)]" : {aroso} 
 ! 
-| "[=aavo][NRoot][=heron.sp. (sci.nm.: Egretta.thula)]" : {aavo} 
+| "[=aavo][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: egretta.thula)]" : {aavo} 
 ! 
 # atyo / ES: 'cuñada.(habla.de.mujer)' 
 | "[=atyo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyo} 
@@ -2024,7 +2024,7 @@ define NRootPRQin [
 ! 
 | "[=korioviri][NRoot][=person's.name]" : {korioviri}
 ! 
-| "[=korokorotzi][NRoot][=green.ibis (long-legged.wading.bird.sp.; sci.nm.: mesembrinibis.cayennensis)]" : {korokorotzi}
+| "[=korokorotzi][NRoot][=green.ibis (long-legged.wading.bird.sp.; ES: sp.de.garza, ibis.verde; sci.nm.: mesembrinibis.cayennensis)]" : {korokorotzi}
 ! 
 | "[=koroviri][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: characidium.sp.)]" : {koroviri}
 ! 
@@ -4262,8 +4262,8 @@ define NRootPRQin [
 | "[=shiravari+m.][NRoot][=infertile.male (ES: hombre.estéril)]" : {shiravari}
 | "[=shiravaro+n.m.][NRoot][=infertile.female (ES: mujer.estéril)]" : {shiravaro}
 ! 
-| "[=shirontsi][NRoot][=harpy.sp. (sci.nm.: buteo.magnirostris)]" : {shirontsi}
-| "[=shironti][NRoot][=harpy.sp. (sci.nm.: buteo.magnirostris)]" : {shironti}
+| "[=shirontsi][NRoot][=harpy.sp. (ES: ave.rapaz/carroñera; sci.nm.: buteo.magnirostris)]" : {shirontsi}
+| "[=shironti][NRoot][=harpy.sp. (ES: ave.rapaz/carroñera; sci.nm.: buteo.magnirostris)]" : {shironti}
 ! 
 | "[=shiringa][NRoot][=rubber/caucho.tree (sci.nm.: hevea.brasiliensis); rubber (ES: caucho)]" : {shiringa}
 | "[=shirinka][NRoot][=rubber/caucho.tree (sci.nm.: hevea.brasiliensis); rubber (ES: caucho)]" : {shirinka}
@@ -4541,8 +4541,7 @@ define NRootPRQin [
 ! 
 # ------------------------------------------------------------------------------------------
 | "[=tziso+m.][NRoot][=greater.yellow-headed.vulture (ES: gallinazo; sci.nm.: cathartes.melambrotus); common.vulture]" : {tziso}
-#| "[=tisoni][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tisoni}
-| "[=tisoni][NRoot][=black.volture.sp. (ES: gallinazo, sci.nm.: daptrius.ater)]" : {tisoni}
+| "[=tisoni][NRoot][=black.volture.sp. (ES: gallinazo, ave.rapaz/carroñera; sci.nm.: daptrius.ater)]" : {tisoni}
 # SRC: tsijo 
 | "[=tsiho+m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tsiho}
 | "[=tziho+m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tziho}
