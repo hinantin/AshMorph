@@ -503,7 +503,7 @@ define NRootPRQin [
 ! 
 | "[=chooni][NRoot][=black.turkey.sp. (ES: sp.de.pava.negra); wattled.curassow.sp. (sci.nm.: crax.globulosa)]" : {chooni}
 ! 
-| "[=chompari][NRoot][=heron.sp. (sci.nm.: casmerodius.albus)]" : {chompari}
+| "[=chompari][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: casmerodius.albus)]" : {chompari}
 ! 
 | "[=choncho+n.m.][NRoot][=dull.arrow, unsharpened.arrow (used.to.kill.birds)]" : {choncho}
 ! 
@@ -1273,7 +1273,7 @@ define NRootPRQin [
 ! 
 | "[=kachompito+n.m.][NRoot][=medicinal.tree.sp. (ES: sp.de.árbol.medicinal)]" : {kachompito}
 ! 
-| "[=kachoncho][NRoot][=heron-like.large-beaked.long-legged.bird.sp., (totuyo, sci.nm.: ardea.cocoi)]" : {kachoncho}
+| "[=kachoncho][NRoot][=heron-like.large-beaked.long-legged.bird.sp., (ES: sp.de.garza, totuyo; sci.nm.: ardea.cocoi)]" : {kachoncho}
 ! 
 | "[=kachoneriki][NRoot][=flying.insect.sp. (ES: sp.de.insecto.volador)]" : {kachoneriki}
 ! 
@@ -3344,8 +3344,8 @@ define NRootPRQin [
 ! 
 | "[=pisaapitooki+m.][NRoot][=bird.sp.]" : {pisaapitooki}
 ! 
-| "[=pitiri][NRoot][=large.pink.bird.sp., heron.sp.]" : {pitiri}
-| "[=pitiiri][NRoot][=large.pink.bird.sp., heron.sp.]" : {pitiiri}
+| "[=pitiri][NRoot][=large.pink.bird.sp., heron.sp. (ES: sp.de.garza; sci.nm.: florida.caerulea)]" : {pitiri}
+| "[=pitiiri][NRoot][=large.pink.bird.sp., heron.sp. (ES: sp.de.garza; sci.nm.: florida.caerulea)]" : {pitiiri}
 ! 
 | "[=pitishi][NRoot][=tree.sp.with.venomous.leaves (its.leaves.are.used.as.barbasco.when.fishing, poison.for.fishing; ES: chirrinchao; sci.nm.: phyllanthus.sp.)]" : {pitishi}
 ! 
