@@ -2513,7 +2513,7 @@ define NRootPRQin [
 | "[=mironta][NRoot][=flat (ES: objeto.plano-y-chato)]" : {mironta} ! @VCMP 
 | "[=meronta][NRoot][=flat (ES: objeto.plano-y-chato)]" : {meronta} ! @VCMP 
 ! 
-| "[=meronti][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: buteo.albigula)]" : {meronti}
+| "[=meronti][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: buteo.albigula)]" : {meronti}
 ! 
 | "[=mereto+m.+poss@te.][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]" : {mereto}
 | "[=mirito+m.+poss@te.][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]" : {mirito}
@@ -4015,7 +4015,7 @@ define NRootPRQin [
 # la larva 'sechiki' se desarrolla en los tallos podridos de la caña brava al borde de las quebradas. 
 | "[=sechiki][NRoot][=larva.sp. (ES: sp.de.larva; sci.nm.: orden.díptera, suborden.brachycera-acalyptratae)]" : {sechiki}
 ! 
-| "[=seniro][NRoot][=scavenger.bird.sp., bird.of.prey (sci.nm.: milvago.chimachima)]" : {seniro}
+| "[=seniro][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: milvago.chimachima)]" : {seniro}
 ! 
 # Enesati, Tambosati 
 | "[=sevaitiki][NRoot][=edible.bivalve.sp. (ES: bivalvo, molusco.comestible; sci.nm.: diplodon.sp.)]" : {sevaitiki}
