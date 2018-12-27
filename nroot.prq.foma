@@ -2574,9 +2574,10 @@ define NRootPRQin [
 ! 
 | "[=mitziki][NRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
 ! 
-| "[=mitiri][NRoot][=dusky-headed.parakeet (sci.nm.: aratinga.weddelli)]" : {mitiri}
+| "[=mitiri+m.][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {mitiri}
+| "[=miteri+m.][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {miteri}
 ! 
-| "[=mochori][NRoot][=olingo (ES: chozna, chosna; sci.nm.: bassaricyon.spp)]" : {mochori}
+| "[=mochori][NRoot][=olingo (ES: chozna, chosna, mamífero.nocturno; sci.nm.: bassaricyon.spp)]" : {mochori}
 ! 
 | "[=moito+n.m.+inal@n/tsi.][NRoot][=navel (ES: ombligo); umbilical.cord (ES: cordón.umbilical)]" : {moito}
 | "[=moeto+n.m.+inal@ntsi.][NRoot][=navel (ES: ombligo); umbilical.cord (ES: cordón.umbilical)]" : {moeto}
