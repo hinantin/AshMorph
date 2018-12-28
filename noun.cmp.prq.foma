@@ -38,9 +38,9 @@ define NRootCmpPRQin [
 | "[--][=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyare} ! @CMP 
 | "[--][=pyari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyari} ! @CMP 
 | "[--][=sama+n.m.+inal@tsi.][NRoot][=inanimate.body (ES: cuerpo.inanimado); medicinal.plant]" : {sama} ! @CMP
-| "[--][=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {sheya} ! @CMP 
-| "[--][=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)]" : {shiya} ! @CMP 
-| "[--][=shaa+n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurague)]" : {shaa} ! @CMP 
+| "[--][=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheya} ! @CMP 
+| "[--][=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {shiya} ! @CMP 
+| "[--][=shaa+n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {shaa} ! @CMP 
 | "[--][=sanii+m.][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
 | "[--][=vaNki][NRoot][=feather (ES: pluma); wing_feather]" : {vanki} ! @CMP N@->V::[=to.have.wings (ES: tener.alas)] 
 | "[--][=taapi+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {taapi} ! @CMP
