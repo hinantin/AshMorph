@@ -1071,10 +1071,10 @@ define NRootPRQin [
 | "[=leche/irichi][NRoot][=milk (ES: leche; PT: leite)]" : {irichi}
 ! 
 ! irianiki ??? 
-| "[=iriani][NRoot][=child (ES: niño)]" : {iriani}
-| "[=irianeriki+m.][NRoot][=child (ES: niño)]" : {irianeriki}
-| "[=irianeeriki+m.][NRoot][=child (ES: niño)]" : {irianeeriki}
-| "[=orianeeriki+n.m.][NRoot][=small (ES: pequeño)]" : {orianeeriki}
+| "[=iriani][NRoot][=child (ES: niño; PT: menino)]" : {iriani}
+| "[=irianeriki+m.][NRoot][=child (ES: niño; PT: menino)]" : {irianeriki}
+| "[=irianeeriki+m.][NRoot][=child (ES: niño; PT: menino)]" : {irianeeriki}
+| "[=orianeeriki+n.m.][NRoot][=small (ES: pequeño; PT: menina)]" : {orianeeriki}
 ! 
 | "[=irimashi][NRoot][=Lima, place.name]" : {irimashi} ! lima li -> iri(i) - ma -> ma -> shi -> CL
 ! 
