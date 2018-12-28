@@ -1068,7 +1068,7 @@ define NRootPRQin [
 ! 
 | "[=iri+m.][NRoot][=father (kin.of.a.fe/male)]" : {iri}
 ! 
-| "[=leche/irichi][NRoot][=milk (ES: leche; PT: leite)]" : {irichi}
+| "[=leche/irichi+n./m.][NRoot][=milk (ES: leche; PT: leite)]" : {irichi}
 ! 
 ! irianiki ??? 
 | "[=iriani][NRoot][=child (ES: niño; PT: menino)]" : {iriani}
