@@ -3372,8 +3372,6 @@ define NRootPRQin [
 | "[=peyari+m.][NRoot][=ghost; demon; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 
 | "[=piyari+m.][NRoot][=ghost; demon; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {piyari} ! @CMP 
 ! 
-| "[=piyampeni][NRoot][=bow (ES: arco)]" : {piyampeni}
-! 
 | "[=piyori][NRoot][=southern.helmeted.curassow (sci.nm.: pauxi.inicornis)]" : {piyori}
 ! 
 | "[=piyoro+n.m.][NRoot][=plant.sp., flowering.tree.sp. (ES: ocuera.(blanca))]" : {piyoro}
@@ -3631,6 +3629,7 @@ define NRootPRQin [
 ! 
 | "[=potyari][NRoot][=salted; half.salted]" : {potyari}
 ! 
+# ------------------------------------------------------------
 | "[=pyaameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyaameni}
 | "[=pyaamene+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyaamene}
 | "[=pyamine+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyamine}
@@ -3638,6 +3637,14 @@ define NRootPRQin [
 | "[=piamene+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {piamene}
 | "[=pyameni+n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyameni}
 | "[=piaaveni][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {piaaveni}
+| "[=piyampeni][NRoot][=bow (ES: arco)]" : {piyampeni}
+! 
+| "[=piamenitsa][NRoot][=bowstring (ES: cuerda.de.un.arco; PT: corda.do.arco)]" : {piamenitsa}
+! 
+| "[=veane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {veane}
+| "[=peane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {peane}
+| "[=viane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {viane}
+# ------------------------------------------------------------
 ! 
 ! noviari / no- =piari / 1sg.poss- =manioc.beer / EN: 'my.manioc_beer' 
 ! oviari / o- =piari / 3n.m.poss- =manioc.beer / EN: 'my.manioc_beer' 
@@ -5095,10 +5102,6 @@ define NRootPRQin [
 | "[=varipa+m.][NRoot][=rooster]" : {varipa}
 ! 
 | "[=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
-! 
-| "[=veane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {veane}
-| "[=peane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {peane}
-| "[=viane+inal@ntsi.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {viane}
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
 ! 
