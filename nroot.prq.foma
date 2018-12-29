@@ -4063,10 +4063,10 @@ define NRootPRQin [
 | "[=shaveta+m.][NRoot][=daytime/diurnal.butterfly.sp., non-edible.butterfly.sp. (ES: mariposa.diurna.no.comestible)]" : {shaveta}
 | "[=shaveta/zhaveta+m.][NRoot][=daytime/diurnal.butterfly.sp., non-edible.butterfly.sp. (ES: mariposa.diurna.no.comestible)]" : {zhaveta}
 ! 
-| "[=sheito][NRoot][=intestines; gizzard (ES: molleja)]" : {sheito}
+| "[=sheito][NRoot][=intestines; gizzard (ES: molleja; PT: moela)]" : {sheito}
 ! 
-| "[=shempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro)]" : {shempa} ! @VCMP 
-| "[=sempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro)]" : {sempa}
+| "[=shempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; EN: ombro)]" : {shempa} ! @VCMP 
+| "[=sempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; EN: ombro)]" : {sempa}
 ! 
 | "[=sheno+n.m.+inal@tsi.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)]" : {sheno}
 ! 
@@ -4076,7 +4076,7 @@ define NRootPRQin [
 | "[=sempiri][NRoot][=yellow-spotted.Amazon.river.turtle (ES: motelo, tortuga.de.tierra, taricaya)]" : {sempiri}
 | "[=sempiti][NRoot][=turtle.sp. (ES: motelo, tortuga.de.tierra; sci.nm.: geochelone.denticulata)]" : {sempiti}
 ! 
-| "[=shereentzi+m.][NRoot][=bird.sp.]" : {shereentzi}
+| "[=shereentzi+m.][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {shereentzi}
 ! 
 | "[=sheripyari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripyari}
 | "[=sheripiare+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripiare}
