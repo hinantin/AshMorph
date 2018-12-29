@@ -3131,7 +3131,7 @@ define NRootPRQin [
 ! 
 | "[=panashinte][NRoot][=sapote-like.tree.sp. (ES: sapote/zapote.silvestre; sci.nm.: matisia.cordata)]" : {panashinte}
 ! 
-| "[=panaropa][NRoot][=wild.papaya (ES: papaya.silvestre)]" : {panaropa}
+| "[=panaropa][NRoot][=wild.papaya (ES: papaya.silvestre; sci.nm.: jacaratia.digitata)]" : {panaropa}
 ! 
 | "[=panava+m.][NRoot][=partridge.sp. (ES: sp.de.perdiz, unchala; sci.nm.: crypturellus.atrocallipus)]" : {panava}
 ! 
@@ -3598,8 +3598,9 @@ define NRootPRQin [
 | "[=poo+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poo}
 | "[=voro][NRoot][=face (ES: cara, rostro)]" : {voro} ! @VCMP 
 ! 
-| "[=poroki][NRoot][=bunch; plant.sp. (achotillo)]" : {poroki}
-| "[=poorooki+n.m.][NRoot][=tree.sp.]" : {poorooki}
+| "[=poroki][NRoot][=bunch; plant.sp. (ES: achotillo)]" : {poroki}
+| "[=poorooki+n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {poorooki}
+| "[=pooroki+n.m.][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: zancudo.caspi, alcornea.sp.)]" : {pooroki}
 ! 
 | "[=poroniya+n.m.][NRoot][=banana.sp.]" : {poroniya}
 ! 
@@ -3776,7 +3777,7 @@ define NRootPRQin [
 ! 
 | "[=sharishi][NRoot][=person's.name; NP]" : {sharishi}
 ! 
-| "[=shatoni][NRoot][=paca.sp. (ES: majaz; sci.nm.: myoprocta.pratti)]" : {shatoni}
+| "[=shatoni][NRoot][=paca.sp. (ES: aguti, majaz; sci.nm.: myoprocta.pratti)]" : {shatoni}
 ! 
 | "[=shavashi][NRoot][=person's.name; NP]" : {shavashi}
 ! 
