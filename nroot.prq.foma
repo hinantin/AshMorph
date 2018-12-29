@@ -474,7 +474,7 @@ define NRootPRQin [
 ! 
 | "[=chokari+m.][NRoot][=red.bird.sp.]" : {chokari}
 ! 
-| "[=chokootzi][NRoot][=saphire.quail-dove (sci.nm.: geotrygon.saphirina)]" : {chokootzi}
+| "[=chokootzi+m.][NRoot][=saphire.quail-dove (ES: sp.de.paloma; sci.nm.: geotrygon.saphirina)]" : {chokootzi}
 ! 
 | "[=chochoki+n.m.][NRoot][=(wild).sweet.fruit (ES: fruta.dulce)]" : {chochoki}
 | "[=txotxoki+n.m.][NRoot][=general.name.for.small.fruits; (wild).sweet.fruit (ES: fruta.dulce)]" : {txotxoki}
@@ -766,7 +766,7 @@ define NRootPRQin [
 ! 
 | "[=horero][NRoot][=NP]" : {horero}
 ! 
-| "[=hirivati][NRoot][=plant.sp. (ES: Quinaquina, palo.sangre)]" : {hirivati}
+| "[=hirivati][NRoot][=plant.sp. (ES: Quinaquina, cascarilla, palo.sangre; sci.nm.: cinchona.pubescens)]" : {hirivati}
 ! 
 | "[=herina][NRoot][=nettle.sp.with.big.thorns (ES: ishanga, ortiga.(con.puas.grandes))]" : {herina}
 | "[=hirina][NRoot][=nettle.sp.with.big.thorns (ES: ishanga, ortiga.(con.puas.grandes))]" : {hirina}
@@ -4495,6 +4495,7 @@ define NRootPRQin [
 | "[=tene+n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {tene}
 | "[=teni+n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {teni}
 | "[=tini+n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {tini}
+| "[=chocho+n.m.][NRoot][=breast, bosom (ES: teta, seno)]" : {chocho}
 ! 
 | "[=tenki+inal@tsi.][NRoot][=fish-fin (ES: aleta.de.pez); bird-tail (ES: cola.de.ave)]" : {tenki}
 | "[=tinki+inal@tsi.][NRoot][=fish-fin (ES: aleta.de.pez); bird-tail (ES: cola.de.ave)]" : {tinki}
