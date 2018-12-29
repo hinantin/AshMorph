@@ -3515,12 +3515,14 @@ define NRootPRQin [
 | "[=pitsiro][NRoot][=grasshopper (ES: saltamonte; sci.nm.: familia.locustidae/acrididae)]" : {pitsiro}
 ! 
 | "[=pitsitsari+n.m.][NRoot][=clay; mud (it.is.used.to.dye.yarn)]" : {pitsitsari}
-| "[=pitzitsari+n.m.][NRoot][=black.clay (ES: greda.negra); black.mud (it.is.used.to.dye.yarn/cushmas)]" : {pitzitsari}
+| "[=pitzitsari+n.m.][NRoot][=black.clay (ES: greda.negra); black.mud (itris.used.to.dye.yarn/cushmas)]" : {pitzitsari}
 ! 
 | "[=piviro+m.][NRoot][=toad.sp.]" : {piviro}
 ! 
 # novochokine / no- =pochoki -ne / 1sg.poss- =dream -nposs / EN: 'my.dream', ES: 'mi.sueño' 
-| "[=pochoki+poss@ne.][NRoot][=dream]" : {pochoki} 
+| "[=pochoki+poss@ne:ni.][NRoot][=dream (ES: sueño; PT: sonho)]" : {pochoki} 
+! 
+| "[=pochonyeihi][NRoot][=dove.sp. (ES: sp.de.paloma; sci.nm.: geotrygon.montana)]" : {pochonyeihi} 
 ! 
 | "[=poe][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus; PT: batata.doce)]" : {poe}
 | "[=poi][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus; PT: batata.doce)]" : {poi}
