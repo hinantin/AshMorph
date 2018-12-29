@@ -1533,8 +1533,9 @@ define NRootPRQin [
 ! 
 | "[=kavako][NRoot][=incredulously, with.astonishment]" : {kavako}
 ! 
-| "[=kaviniri+n.m.][NRoot][=cinnamon.sp. (sci.nm.: cinnamomum.genus); tree.sp.]" : {kaviniri}
-| "[=kaviniro+n.m.][NRoot][=cinnamon.sp. (sci.nm.: cinnamomum.genus); tree.sp.]" : {kaviniro}
+# kavinirio 
+| "[=kaviniri+n.m.][NRoot][=cinnamon.sp. (ES: canela.silvestre; sci.nm.: cinnamomum.genus, cinnamomum.zeylanicum); tree.sp.]" : {kaviniri}
+| "[=kaviniro+n.m.][NRoot][=cinnamon.sp. (ES: canela.silvestre; sci.nm.: cinnamomum.genus, cinnamomum.zeylanicum); tree.sp.]" : {kaviniro}
 ! 
 | "[=kaviote][NRoot][=winged.ant.sp. (ES: hormiga.alada.de.la.casta.de.reproductoras)]" : {kaviote}
 ! 
@@ -3051,7 +3052,7 @@ define NRootPRQin [
 | "[=oya+n.m.][NRoot][=poor.thing]" : {oya}
 | "[=iya+m.][NRoot][=poor.thing]" : {iya}
 ! 
-| "[=oye+m.][NRoot][=rainbow (ES: arcoíris)]" : {oye}
+| "[=oye+m.][NRoot][=rainbow (ES: arcoíris; PT: arco-íris)]" : {oye}
 | "[=oyi+m.][NRoot][=rainbow (ES: arcoíris; PT: arco-íris)]" : {oyi}
 ! 
 | "[=oyepari][NRoot][=legume.sp. (ES: leguminosa, fam.de.las.judías)]" : {oyepari}
