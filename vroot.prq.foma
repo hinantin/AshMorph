@@ -967,7 +967,8 @@ define VRootPRQin [
 | "[=pants][VRoot][=to.sing (ES: cantar)]" : {pants}
 | "[=pantsa][VRoot][=to.sing (ES: cantar); to.sing.individually]" : {pantsa}
 ! 
-| "[=man][VRoot][=to.hide (ES: ocultar)]" : {man}
+| "[=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {man}
+| "[=oman+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {oman}
 | "[=tsiti+INF@/EP:t/aantsi.][VRoot][=to.hide (ES: ocultar)]" : {tsiti}
 ! 
 | "[=mana][VRoot][=to.fight (ES: luchar)]" : {mana}
