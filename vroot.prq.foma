@@ -1015,8 +1015,8 @@ define VRootPRQin [
 ! 
 | "[=matsiy][VRoot][=to.cast.a.spell.on.sth/sb., to.enchant (ES: embrujar)]" : {matsiy} 
 | "[=matsik][VRoot][=to.cast.a.spell.on.sth/sb., to.enchant (ES: embrujar)]" : {matsik} 
-! 
-| "[=matzi][VRoot][=to.cast.spell]" : {matzi}
+| "[=matzi][VRoot][=to.cast.spell.on.sb./sth. (ES: embrujar)]" : {matzi}
+| "[=matsi+INF@/EP:t/aantsi.][VRoot][=to.cast.spell.on.sb./sth. (ES: embrujar)]" : {matsi}
 ! 
 # Modal verb 
 # ero amatiro ankaraero / =ero ** =amat -i =ro ** a- N= =kar -a -e =ro / EN: 'it.can't.be.broken'; ES: 'no.se.puede.quebrar' 
@@ -2228,8 +2228,9 @@ define VRootPRQin [
 | "[=ovanke+INF@taantsi][VRoot][=to.ride (ES: montar)]" : {ovanke}
 | "[=vanke+INF@taantsi][VRoot][=to.ride (ES: montar)]" : {vanke}
 ! 
-| "[=ovam][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovam}
-| "[=ovan][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovan}
+| "[=ovam+INF@agaantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovam}
+| "[=vam+INF@agaantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {vam}
+| "[=ovan+INF@/EP:t/aantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovan}
 | "[=oam][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {oam}
 ! 
 | "[=oapatank][VRoot][=to.patch (ES: parchar)]" : {oapatank}
