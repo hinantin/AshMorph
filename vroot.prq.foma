@@ -996,9 +996,9 @@ define VRootPRQin [
 | "[=omapero][VRoot][=to.get.worse (ES: empeorarse)]" : {omapero}
 | "[=mapero][VRoot][=to.get.worse (ES: empeorarse); to.be.seriously.ill (ES: estar.grave); to.be.true]" : {mapero}
 ! 
-| "[=masavi][VRoot][=to.sweat (ES: sudar)]" : {masavi}
-| "[=amasavi][VRoot][=to.sweat (ES: sudar)]" : {amasavi}
-| "[=mahavi][VRoot][=to.sweat (ES: sudar)]" : {mahavi}
+| "[=masavi+INF@/EP:t/aantsi.][VRoot][=to.sweat (ES: sudar)]" : {masavi}
+| "[=amasavi+INF@/EP:t/aantsi.][VRoot][=to.sweat (ES: sudar)]" : {amasavi}
+| "[=mahavi+INF@/EP:t/aantsi.][VRoot][=to.sweat (ES: sudar)]" : {mahavi}
 ! 
 | "[=matsa][VRoot][=to.be.thin; to.get.thin (ES: adelgazar)]" : {matsa}
 | "[=maatsa][VRoot][=to.be.thin; to.get.thin (ES: adelgazar)]" : {maatsa}
@@ -1007,7 +1007,7 @@ define VRootPRQin [
 # el aprendizaje de los cantos es típicamente 'humano' y básicamente 'normativo' 
 # **exotérico** designa a todo aquel conocimiento o doctrina que es accesible a todos.
 # **exoteric** suitable to be imparted to the public.
-| "[=matik][VRoot][=to.sing.exoteric.songs (ES: cantar.tonadas.exotéricas)]" : {matik} 
+| "[=matik+INF@agaantsi.][VRoot][=to.sing.exoteric.songs (ES: cantar.tonadas.exotéricas)]" : {matik} 
 # **marentakantsi** produce una interacción entre dos 'especies distintas' con universos referenciales también diversos, 
 # lo que implica que el aprendizaje de su ejercicio constituye para el 'especialista ritual' (shaman/sheripiari)
 # una transformación cognitiva y ontológica y, en consecuencia, un aprendizaje 'constitutivo' 
