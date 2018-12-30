@@ -964,8 +964,8 @@ define VRootPRQin [
 ! 
 | "[=pampits][VRoot][=to.sing (ES: cantar)]" : {pampits}
 ! 
-| "[=pants+INF@agaantsi.][VRoot][=to.sing (ES: cantar)]" : {pants}
-| "[=pantsa][VRoot][=to.sing (ES: cantar); to.sing.individually]" : {pantsa}
+| "[=pants+INF@agaantsi:aantsi.][VRoot][=to.sing (ES: cantar)]" : {pants}
+| "[=pantsa+INF@UNK.][VRoot][=to.sing (ES: cantar); to.sing.individually]" : {pantsa}
 ! 
 | "[=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {man}
 | "[=oman+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {oman}
