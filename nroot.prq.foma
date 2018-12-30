@@ -185,14 +185,14 @@ define NRootPRQin [
 ! 
 | "[=ameti][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.elateridae)]" : {ameti}
 ! 
-| "[=amimiro][NRoot][=mule-like.devil]" : {amimiro}
+| "[=amimiro][NRoot][=mule-like.devil (ES: diablo.según.los.asháninkas)]" : {amimiro}
 | "[=amimiroti][NRoot][=goat-like.devil]" : {amimiroti}
 ! 
 # nanani / n- =ana -ni / 1sg.poss- =black.dye -nposs / EN: 'my.black.dye'  
 | "[=ana+n.m.+poss@ni.][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {ana}
 | "[=aana+n.m.+poss@ni.][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {aana}
 ! 
-| "[=ananta+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
+| "[=ananta+n.m.+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
 ! 
 | "[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male; ES: cuñado)]" : {ani}
 | "[=anii+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
@@ -4076,12 +4076,12 @@ define NRootPRQin [
 ! 
 | "[=sheito][NRoot][=intestines; gizzard (ES: molleja; PT: moela)]" : {sheito}
 ! 
-| "[=shempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; EN: ombro)]" : {shempa} ! @VCMP 
-| "[=sempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; EN: ombro)]" : {sempa}
+| "[=shempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; PT: ombro)]" : {shempa} ! @VCMP 
+| "[=sempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; PT: ombro)]" : {sempa}
 ! 
 | "[=sheno+n.m.+inal@tsi.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)]" : {sheno}
 ! 
-| "[=shenotsi+n.m.][NRoot][=goiter (ES: bocio)]" : {shenotsi}
+| "[=shenotsi+n.m.][NRoot][=goiter (ES: bocio; PT: bócio)]" : {shenotsi}
 ! 
 | "[=shempiri][NRoot][=charapa.turtle, terrapin.sp. (ES: motelo, tortuga.de.tierra, taricaya)]" : {shempiri}
 | "[=sempiri][NRoot][=yellow-spotted.Amazon.river.turtle (ES: motelo, tortuga.de.tierra, taricaya)]" : {sempiri}
