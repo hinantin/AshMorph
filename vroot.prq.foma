@@ -965,7 +965,7 @@ define VRootPRQin [
 | "[=pampits][VRoot][=to.sing (ES: cantar)]" : {pampits}
 ! 
 | "[=pants+INF@agaantsi:(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pants}
-| "[=pantsa+INF@UNK.][VRoot][=to.sing (ES: cantar); to.sing.individually]" : {pantsa}
+| "[=pantsa+INF@/DEL:a/ntsi.][VRoot][=to.sing (ES: cantar); to.sing.individually]" : {pantsa}
 | "[=pantsag+INF@aantsi.][VRoot][=to.sing (ES: cantar)]" : {pantsag}
 ! 
 | "[=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {man}
@@ -2262,7 +2262,7 @@ define VRootPRQin [
 | "[=veshiri][VRoot][=to.rejoice, to.get.glad (ES: alegrarse)]" : {veshiri}
 | "[=vashi][VRoot][=to.get.glad (ES: alegrarse)]" : {vashi} ! to be checked, only one occurrence 
 ! 
-| "[=vishiri][VRoot][=to.sing-and-dance.together (ES: cantar-y-bailar.juntos)]" : {vishiri}
+| "[=vishiri+INF@antsi.][VRoot][=to.sing-and-dance.together (ES: cantar-y-bailar.juntos)]" : {vishiri}
 ! 
 | "[=viri][VRoot][=to.cut.sth.into.pieces]" : {viri}
 ! 
