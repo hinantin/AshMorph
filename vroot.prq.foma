@@ -1166,14 +1166,15 @@ define VRootPRQin [
 ! 
 | "[=nive][VRoot][=to.like]" : {nive}
 ! 
-| "[=niy][VRoot][=to.swallow (ES: tragar)]" : {niy}
+| "[=niy+INF@aantsi.][VRoot][=to.swallow (ES: tragar)]" : {niy}
+| "[=ni+INF@antsi.][VRoot][=to.swallow (ES: tragar)]" : {ni}
 ! 
 ! inoshika / i- =noshik -a / 3m.s- =to.drag -real / EN: 'he.crawls'; ES: 'él.se.arrastra' 
 | "[=noshik][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)]" : {noshik}
 ! 
-| "[=ny][VRoot][=to.see, to.look.for; to.visit]" : {ny}
-| "[=ne][VRoot][=to.see, to.look.for; to.visit]" : {ne}
-| "[=ni][VRoot][=to.see, to.look.for; to.visit]" : {ni}
+| "[=ny+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
+| "[=ne+INF@aantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ne}
+| "[=ni][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ni}
 ! 
 | "[=onyaak][VRoot][=to.show (ES: mostrar)]" : {onyaak}
 | "[=onyaag][VRoot][=to.show (ES: mostrar)]" : {onyaag}
