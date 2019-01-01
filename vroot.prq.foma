@@ -497,10 +497,10 @@ define VRootPRQin [
 | "[=kaa][VRoot][=to.pour]" : {kaa}
 | "[=kaa][VRoot][=to.bathe (ES: bañar)]" : {kaa}
 ! 
-| "[=kacha+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {kacha}
-| "[=kachaa+INF@/EP:t/aantsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {kachaa}
-| "[=akacha+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear, anzuelear)]" : {akacha}
-| "[=akachaa+INF@/EP:t/aantsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear, anzuelear)]" : {akachaa}
+| "[=kacha+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear~anzolear~anzuelear)]" : {kacha}
+| "[=kachaa+INF@/EP:t/aantsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear~anzolear~anzuelear)]" : {kachaa}
+| "[=akacha+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear~anzolear~anzuelear)]" : {akacha}
+| "[=akachaa+INF@/EP:t/aantsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear~anzolear~anzuelear)]" : {akachaa}
 ! 
 | "[=kachaa][VRoot][=to.smoke (ES: humear)]" : {kachaa}
 ! 
