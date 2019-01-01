@@ -17,6 +17,10 @@ Ashaninka possesses extensive agreement or cross-refencing. Heads such as verbs 
 the properties of their arguments, for instance, gender markers on the verb indicate properties, such as masculine (+m.) or not-masculine (+n.m.), of both the subject 
 and the object.
 
+#### Nominal root verbalization
+
+We represent this process as follows:
+
 ```
 <e><p><l lang="es">maldad</l><r>matsi<s n="add_mi"/>+EP@t+INF@aantsi</r></p><par n="N@->V"/></e>
 <e><p><l lang="en">to.be.a.witch</l><r>matzi<s n="add_mi"/>+EP@t+INF@aantsi</r></p><par n="N@->V"></e>	
