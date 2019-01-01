@@ -495,7 +495,7 @@ define VRootPRQin [
 | "[=ivi][VRoot][=to.ensnare, to.entrap]" : {ivi}
 ! 
 | "[=kaa][VRoot][=to.pour]" : {kaa}
-| "[=kaa][VRoot][=to.bathe (ES: bañar)]" : {kaa}
+| "[=kaa+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kaa}
 ! 
 | "[=kacha+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear~anzolear~anzuelear)]" : {kacha}
 | "[=kachaa+INF@/EP:t/aantsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear~anzolear~anzuelear)]" : {kachaa}
@@ -632,9 +632,9 @@ define VRootPRQin [
 ! 
 | "[=kavitsook][VRoot][=to.filter.manioc_beer/masato]" : {kavitsook}
 ! 
-| "[=kavoshi][VRoot][=to.bathe (ES: bañar)]" : {kavoshi}
+| "[=kavoshi+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshi}
 | "[=kaavoshi][VRoot][=to.bathe (ES: bañar)]" : {kaavoshi}
-| "[=kavoshi+MOD@REDUP.][VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
+| "[=kavoshi+MOD@REDUP.+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
 ! 
 | "[=kay][VRoot][=to.thresh]" : {kay}
 ! 
