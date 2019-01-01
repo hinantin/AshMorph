@@ -18,7 +18,7 @@ the properties of their arguments, for instance, gender markers on the verb indi
 and the object.
 
 ```
-<e><p><l lang="es">maldad</l><r>matsi<s n="inf"/>/EP:t/aantsi</r></p><par n="N@->V"/></e>
+<e><p><l lang="es">maldad</l><r>matsi<s n="add_mi"/>+EP@t+INF@aantsi</r></p><par n="N@->V"/></e>
 ```
 
 Compiling with XFST or FOMA
