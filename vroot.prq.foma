@@ -486,9 +486,9 @@ define VRootPRQin [
 ! 
 | "[=itamatzi][VRoot][=to.identify.as.a.witch]" : {itamatzi}
 ! 
-| "[=itsi][VRoot][=to.copulate (applied.to.animals; ES: copular, hacer.el_coito/el_acto_sexual/la_unión_sexual)]" : {itsi}
-| "[=itsit][VRoot][=to.copulate (applied.to.animals; ES: copular, hacer.el_coito/el_acto_sexual/la_unión_sexual)]" : {itsit}
-| "[=tsit][VRoot][=to.copulate (applied.to.animals; ES: copular, hacer.el_coito/el_acto_sexual/la_unión_sexual)]" : {tsit}
+| "[=itsi][VRoot][=to.copulate (applied.to.animals; ES: copular, hacer.el_coito/el_acto_sexual/la_unión_sexual; PT: fazer.sexo)]" : {itsi}
+| "[=itsit][VRoot][=to.copulate (applied.to.animals; ES: copular, hacer.el_coito/el_acto_sexual/la_unión_sexual; PT: fazer.sexo)]" : {itsit}
+| "[=tsit+INF@(a)antsi.][VRoot][=to.copulate (applied.to.animals; ES: copular, hacer.el_coito/el_acto_sexual/la_unión_sexual; PT: fazer.sexo)]" : {tsit}
 ! 
 | "[=iitsin][VRoot][=to.have.a.child (ES: tener.un.hijo)]" : {iitsin} ! to.be.revised 
 ! 
@@ -497,10 +497,10 @@ define VRootPRQin [
 | "[=kaa][VRoot][=to.pour]" : {kaa}
 | "[=kaa][VRoot][=to.bathe (ES: bañar)]" : {kaa}
 ! 
-| "[=kacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {kacha}
-| "[=kachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {kachaa}
-| "[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear, anzuelear)]" : {akacha}
-| "[=akachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear, anzuelear)]" : {akachaa}
+| "[=kacha+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {kacha}
+| "[=kachaa+INF@/EP:t/aantsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)]" : {kachaa}
+| "[=akacha+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear, anzuelear)]" : {akacha}
+| "[=akachaa+INF@/EP:t/aantsi.][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear, anzuelear)]" : {akachaa}
 ! 
 | "[=kachaa][VRoot][=to.smoke (ES: humear)]" : {kachaa}
 ! 
