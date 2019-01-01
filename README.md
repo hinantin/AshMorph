@@ -17,6 +17,10 @@ Ashaninka possesses extensive agreement or cross-refencing. Heads such as verbs 
 the properties of their arguments, for instance, gender markers on the verb indicate properties, such as masculine (+m.) or not-masculine (+n.m.), of both the subject 
 and the object.
 
+```
+
+```
+
 Compiling with XFST or FOMA
 ===============================
 
