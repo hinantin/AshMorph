@@ -2960,7 +2960,7 @@ define NRootPRQin [
 ! 
 | "[=oshetotsikoo][NRoot][=spectatled.owl (sci.nm.: pulsatrix.perspicillata)]" : {oshetotsikoo}
 !
-| "[=osipitari][NRoot][=hospital]" : {osipitari}
+| "[=hospital/osipitari][NRoot][=hospital]" : {osipitari}
 ! 
 | "[=ota][NRoot][=wick (prbly.candle; ES: mecha)]" : {ota}
 | "[=otsa][NRoot][=wick (prbly.candle; ES: mecha)]" : {otsa}
