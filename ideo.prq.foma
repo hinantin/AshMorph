@@ -29,7 +29,7 @@ define IdeoPRQin [
 | "[=tak+s.redup.word][Ideo:PRQ][=crushing.cotton.or.manioc.mass; hitting.an.inanimate.object]" : {tak}
 | "[=tyak+s.redup.word][Ideo:PRQ][=crushing/nailing.sth (e.g.: cotton.or.manioc.mass); hitting.an.inanimate.object; hammering.nails.into.wood; sound.of.splashing.water]" : {tyak}
 ! 
-| "[=tyak+whistle.lang.][IdeoCJO][=action.of.hitting.sth./sb.]" : {tyak} 
+| "[=tyak+whistle.lang.][Ideo:CJO][=action.of.hitting.sth./sb.]" : {tyak} 
 ! 
 | "[=tek+s.redup.word][Ideo:PRQ][=running.briskly; sound/action.of.sb./sth.running (ES: sonido/acción.de.algo/algn.corriendo)]" : {tek} ! \cite[p\'{a}g. 36]{anderson:cuentos:85}
 | "[=tok+s.redup.word][Ideo:PRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting.(a.solid.substance)]" : {tok}
@@ -57,7 +57,7 @@ define IdeoPRQin [
 ! 
 | "[=too][Ideo:PRQ][=gunfire, sound.produced.by.a.firing.rifle; sound.of.a.discharged.gun (ES: sonido.relacionado.con.explosión/disparo)]" : {too}
 | "[=too][Ideo:PRQ][=gunfire, sound.produced.by.a.firing.rifle; sound.of.a.discharged.gun][--][-k][+PUNCTUAL.ACTN]::[=sound.of.a.discharged.gun]" : {took}
-| "[=tooog+whistle.lang.][IdeoCJO][=sound.of.gunfire/machine_gun_shoot]" : {tooog}
+| "[=tooog+whistle.lang.][Ideo:CJO][=sound.of.gunfire/machine_gun_shoot]" : {tooog}
 ! 
 | "[=tang][Ideo:PRQ][=bell.ringing; sound.of_the_church_bell/of_coin/of_can.fallen.on.the_ground]" : {tang}
 ! 
@@ -109,29 +109,29 @@ define IdeoPRQin [
 ! 
 | "[=shi+redup.word][Ideo:PRQ][=action.of.instructing.sb.to.stoically.endure.pain; action.of.warning.sb.not.to.cry; action.of.making.grimaces.caused.by.pain]" : {shi} 
 ! 
-#| "[=eeee+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eeee} 
-#| "[=eee+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eee} ! \cite[pag. 84]{anderson:cuentos:85}
+#| "[=eeee+whistle.lang.][Ideo:CJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eeee} 
+#| "[=eee+whistle.lang.][Ideo:CJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : {eee} ! \cite[pag. 84]{anderson:cuentos:85}
 ! 
-| "[=hmmm+redup.word+whistle.lang.][IdeoCJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : [{jmmm}|{hmmm}] 
+| "[=hmmm+redup.word+whistle.lang.][Ideo:CJO][=sound.of.fear/anguish (ES: sonido.de.miedo/angustia)]" : [{jmmm}|{hmmm}] 
 ! 
 | "[=hmm][Ideo][=onomatope.mimicking.the.jaguar.roar; sound.of.a.jaguar]" : [{jmm}|{hmm}]
 | "[=hmmm][Ideo][=onomatope.mimicking.the.jaguar.roar; sound.of.a.jaguar]" : [{jmmm}|{hmmm}]
 | "[=homm][Ideo:PRQ][=sound.of.a.jaguar's.roar; the.bone.spirit's.call]" : {homm}
 ! 
-| "[=ho+redup.word+whistle.lang.][IdeoCJO][=sound.of.wings.flying; sound.of.sth.that.comes.flying]" : {ho} 
+| "[=ho+redup.word+whistle.lang.][Ideo:CJO][=sound.of.wings.flying; sound.of.sth.that.comes.flying]" : {ho} 
 ! 
-| "[=mooo+whistle.lang.][IdeoCJO][=sound.of.wind (ES: sonido.de.viento)]" : {mooo} ! \cite[pag. 110]{hvalkof:cjo:15} 
+| "[=mooo+whistle.lang.][Ideo:CJO][=sound.of.wind (ES: sonido.de.viento)]" : {mooo} ! \cite[pag. 110]{hvalkof:cjo:15} 
 ! 
-| "[=mook+s.redup.word][IdeoCJO][=sound.of.vomiting/kamaankaantsi?]" : {mook} 
+| "[=mook+s.redup.word][Ideo:CJO][=sound.of.vomiting/kamaankaantsi?]" : {mook} 
 ! 
-| "[=shak+redup.word+whistle.lang.][IdeoCJO][=sound.of.any.forward.movement]" : {shak} 
+| "[=shak+redup.word+whistle.lang.][Ideo:CJO][=sound.of.any.forward.movement]" : {shak} 
 ! 
-| "[=tak+whistle.lang.][IdeoCJO][=action.of.hiding.sb.]" : {tak} 
+| "[=tak+whistle.lang.][Ideo:CJO][=action.of.hiding.sb.]" : {tak} 
 ! 
-| "[=taag+whistle.lang.][IdeoCJO][=sound.of.a_body.hitting.the_ground]" : {taag} 
+| "[=taag+whistle.lang.][Ideo:CJO][=sound.of.a_body.hitting.the_ground]" : {taag} 
 ! 
 # tsok: un hacha o similar contra la madera, cortar madera
-| "[=tsok+whistle.lang.][IdeoCJO][=sound.of.a_hatchet-like/hatchet.against.wood; sound.of.cutting.wood]" : {tsok} 
+| "[=tsok+whistle.lang.][Ideo:CJO][=sound.of.a_hatchet-like/hatchet.against.wood; sound.of.cutting.wood]" : {tsok} 
 ! 
 | "[=kin+s.redup.word][Ideo:PRQ][=sound.of.a.crying.baby.snake]" : {kin} 
 ! 
@@ -376,7 +376,7 @@ define IdeoPRQin [
 ! 
 | "[=heva+s.redup.word][Ideo:PRQ][=action.of.fanning]" : {heva} 
 ! 
-| "[=ihii+s.redup.word+whistle.lang.][IdeoCJO][=sound.of.laughter (ES: sonido.de.la.risa)]" : {ihii} 
+| "[=ihii+s.redup.word+whistle.lang.][Ideo:CJO][=sound.of.laughter (ES: sonido.de.la.risa)]" : {ihii} 
 ! 
 | "[=tsapak+whistle.lang.][Ideo:PRQ][=sound.of.getting.up]" : {tsapak} 
 ! 
@@ -492,7 +492,7 @@ define IdeoPRQin [
 ! 
 | "[=tyapaki+s.redup.word][Ideo:PRQ][=big_footed_duck-like.walking]" : {tyapaki}
 ! 
-| "[=hererer+whistle.lang.][IdeoCJO][=action/sound.of.throwing.sth.; action/sound.of.pulling.sth. (ES: acción/sonido.de.tirar/jalar.algo)]" : {hererer}
+| "[=hererer+whistle.lang.][Ideo:CJO][=action/sound.of.throwing.sth.; action/sound.of.pulling.sth. (ES: acción/sonido.de.tirar/jalar.algo)]" : {hererer}
 ! 
 | "[=oorioo][Ideo:PRQ][=sound.of.a.rooster]" : {oorioo}
 ! 
