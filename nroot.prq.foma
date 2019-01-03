@@ -2029,6 +2029,8 @@ define NRootPRQin [
 ! 
 | "[=koriari][NRoot][=person's.name, NP]" : {koriari}
 ! 
+| "[=koriyava][NRoot][= (ES: ; PT: coco.inajá)]" : {koriyava}
+! 
 | "[=koryo][NRoot][=fish.var., catfish.sp. (ES: cunchi; sp.de.bagre/pez)]" : {koryo}
 | "[=korio][NRoot][=fish.var., catfish.sp. (ES: cunchi; sp.de.bagre/pez)]" : {korio}
 | "[=kitotsa+m.][NRoot][=fish.var., catfish.sp. (ES: cunchi; sp.de.bagre/pez)]" : {kitotsa}
@@ -2958,7 +2960,7 @@ define NRootPRQin [
 ! monkey species
 | "[=osheto+m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa; PT: macaco.barrigudo; sci.nm.: ateles.paniscus)]" : {osheto}
 ! 
-| "[=oshetotsikoo][NRoot][=spectatled.owl (sci.nm.: pulsatrix.perspicillata)]" : {oshetotsikoo}
+| "[=osheto_tsikoo][NRoot][=spectatled.owl (sci.nm.: pulsatrix.perspicillata)]" : {osheto_tsikoo}
 !
 | "[=hospital/osipitari][NRoot][=hospital]" : {osipitari}
 ! 
