@@ -75,7 +75,7 @@ define VRootPRQin [
 ! 
 | "[=akishi][VRoot][=to.roast (ES: asar)]" : {akishi}
 ! 
-| "[=akitsi][VRoot][=to.get.warm (ES: calentarse)]" : {akitsi}
+| "[=akitsi+INF@/EP:t/aantsi.][VRoot][=to.get.warm (ES: calentarse)]" : {akitsi}
 ! 
 | "[=am][VRoot][=to.bring (ES: traer)]" : {am}
 ! 
@@ -1650,7 +1650,7 @@ define VRootPRQin [
 | "[=haava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {haava}
 | "[=hava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {hava}
 ! 
-| "[=saavaha][VRoot][=to.heat.sth.up (e.g.: water; ES: calentar (p.ej.: agua))]" : {saavaha}
+| "[=saavaha+INF@/EP:t/antsi.][VRoot][=to.heat.sth.up (e.g.: water; ES: calentar (p.ej.: agua))]" : {saavaha}
 | "[=katsirink][VRoot][=to.heat.sth. (ES: calentar(se))]" : {katsirink}
 ! 
 | "[=saavaki][VRoot][=to.have.a.fever (ES: tener.fiebre)]" : {saavaki}
