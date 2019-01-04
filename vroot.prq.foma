@@ -54,8 +54,8 @@ define VRootPRQin [
 | "[=aiment][VRoot][=to.be.unfaithful (ES: adulterar)]" : {aiment}
 ! 
 | "[=aavin][VRoot][=to.cure (ES: curar)]" : {aavin}
-| "[=aavint][VRoot][=to.cure (ES: curar)]" : {aavint}
-| "[=aavent][VRoot][=to.cure (ES: curar)]" : {aavent}
+| "[=aavint+INF@aantsi.][VRoot][=to.cure (ES: curar)]" : {aavint}
+| "[=aavent+INF@aantsi.][VRoot][=to.cure (ES: curar)]" : {aavent}
 | "[=avint][VRoot][=to.cure (ES: curar)]" : {avint}
 ! 
 | "[=ahirik][VRoot][=to.grab; to.catch, to.trap (ES: atrapar)]" : {ahirik}
