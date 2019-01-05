@@ -2191,7 +2191,10 @@ define VRootPRQin [
 | "[=tzim][VRoot][=EXIST (EN: to.be.born, to.exist; ES: nacer)]" : {tzim}
 | "[=tzimant][VRoot][=to.give.birth (ES: dar.a.luz)]" : {tzimant}
 | "[=tsimant][VRoot][=to.give.birth (ES: dar.a.luz)]" : {tsimant}
-! 
+| "[=tzimani+INF@/EP:t/aantsi.][VRoot][=to.give.birth (ES: dar.a.luz)]" : {tzimani}
+!
+| "[=tzimashi+INF@/EP:t/aantsi.][VRoot][= (ES: aguaitar, acechar, espiar)]" : {tzimashi} 
+!
 | "[=tsimank][VRoot][=to.cast.a.shadow (ES: ensombrecer)]" : {tsimank}
 ! 
 | "[=tsimiy][VRoot][=to.suck (ES: chupar)]" : {tsimiy}
