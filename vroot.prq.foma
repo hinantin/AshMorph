@@ -1951,9 +1951,9 @@ define VRootPRQin [
 ! 
 | "[=tivo][VRoot][=to.blow.the.horn (ES: tocar.la.bocina.hecha.de.cuerno_de_vaca/caparazón_de_caracol_grande)]" : {tivo}
 ! 
-| "[=tek][VRoot][=to.shake]" : {tek}
-| "[=otik][VRoot][=to.shake]" : {otik}
-| "[=otek][VRoot][=to.shake]" : {otek}
+| "[=tek+INF@aantsi.][VRoot][=to.shake (ES: sacudir)]" : {tek}
+| "[=otik+INF@aantsi.][VRoot][=to.shake (ES: sacudir)]" : {otik}
+| "[=otek+INF@aantsi.][VRoot][=to.shake (ES: sacudir)]" : {otek}
 ! 
 ! there is/are not
 | "[=tekatsi][VRoot][=there.is.not, there.are.not]" : {tekatsi}
@@ -1975,9 +1975,6 @@ define VRootPRQin [
 | "[=tiri][VRoot][=to.rub, to.anoint (ES: frotar, sobar)]" : {tiri}
 | "[=tziri][VRoot][=to.rub, to.anoint (ES: frotar, sobar)]" : {tziri}
 | "[=otziri][VRoot][=to.rub, to.anoint (ES: frotar, sobar)]" : {otziri}
-! 
-| "[=tiroki][VRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal)]" : {tiroki}
-| "[=tirokitsa][VRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal)]" : {tirokitsa}
 ! 
 | "[=tzirik][VRoot][=to.stick (to.push.sth.into.sth.)]" : {tzirik}
 ! 
