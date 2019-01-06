@@ -1960,7 +1960,8 @@ define VRootPRQin [
 | "[=tekaatsi][VRoot][=there.is.not, there.are.not]" : {tekaatsi}
 | "[=teekatsi][VRoot][=there.is.not, there.are.not]" : {teekatsi}
 ! 
-| "[=tena][VRoot][=to.weigh; to.be.heavy]" : {tena}
+| "[=tena+INF@/EP:t/aantsi.][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {tena}
+| "[=tina+INF@/EP:t/aantsi.][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {tina}
 | "[=ten][VRoot][=to.weigh; to.be.heavy]" : {ten}
 !| "[=tena][VRoot][=to.be.heavy]" : {tena}
 !| "[=tenari][VRoot][=be.heavy.ADJ]" : {tenari}
