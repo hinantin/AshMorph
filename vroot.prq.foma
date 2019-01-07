@@ -1093,7 +1093,7 @@ define VRootPRQin [
 | "[=tsitziy][VRoot][=to.dive (ES: sumergirse)]" : {tsitziy}
 ! 
 | "[=monkaa][VRoot][=to.measure (ES: medir); to.fulfill]" : {monkaa}
-| "[=monkara][VRoot][=to.measure (ES: medir); to.fulfill]" : {monkara}
+| "[=monkara+INF@/EP:t/aantsi.][VRoot][=to.measure (ES: medir); to.fulfill]" : {monkara}
 | "[=yoma][VRoot][=to.measure (ES: medir)]" : {yoma}
 | "[=yomaa][VRoot][=to.measure (ES: medir)]" : {yomaa}
 ! 
@@ -1939,11 +1939,11 @@ define VRootPRQin [
 | "[=tahonk][VRoot][=to.blow (ES: soplar); to.fan]" : {tahonk}
 | "[=tasonkatasonka+MOD@REDUP.][VRoot][=to.blow (ES: soplar); to.fan]" : {tasonkatasonka} ! \cite{payne:axininca:81}[pag. 144]
 ! 
-| "[=tatsink][VRoot][=to.push.sth. (ES: empujar)]" : {tatsink}
+| "[=tatsink+INF@aantsi.][VRoot][=to.push.sth. (ES: empujar)]" : {tatsink}
 | "[=otatsink][VRoot][=to.push.sth. (ES: empujar)]" : {otatsink}
 ! 
-| "[=teh][VRoot][=to.weave (ES: tejer)]" : {teh}
-| "[=tih][VRoot][=to.weave (ES: tejer)]" : {tih}
+| "[=teh+INF@aantsi.][VRoot][=to.weave (ES: tejer)]" : {teh}
+| "[=tih+INF@aantsi.][VRoot][=to.weave (ES: tejer)]" : {tih}
 ! 
 | "[=tih+INF@aantsi.][VRoot][=to.bury (ES: enterrar); to.dig (ES: cavar)]" : {tih}
 ! 
