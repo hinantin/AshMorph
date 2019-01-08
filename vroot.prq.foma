@@ -725,11 +725,12 @@ define VRootPRQin [
 ! 
 | "[=kenke][VRoot][=to.complain.about.sth.]" : {kenke}
 ! to believe, to think
-| "[=kinkishiri][VRoot][=to.believe, to.think (ES: razonar)]" : {kinkishiri}
-| "[=kenkishiry][VRoot][=to.believe, to.think]" : {kenkishiry}
-| "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
-| "[=kinkishire][VRoot][=to.believe, to.think]" : {kinkishire}
-| "[=kenkitsashiry][VRoot][=to.believe, to.think]" : {kenkitsashiry}
+| "[=kinkishiri+INF@/EP:t/aantsi.][VRoot][=to.believe, to.think (ES: razonar)]" : {kinkishiri}
+| "[=kenkishiry+INF@aantsi.][VRoot][=to.believe, to.think]" : {kenkishiry}
+| "[=kinkishiry+INF@aantsi.][VRoot][=to.believe, to.think]" : {kinkishiry}
+| "[=kenkeshire+INF@/EP:t/aantsi.][VRoot][=to.believe, to.think]" : {kenkeshire}
+| "[=kinkishire+INF@/EP:t/aantsi.][VRoot][=to.believe, to.think]" : {kinkishire}
+| "[=kenkitsashiry+INF@aantsi.][VRoot][=to.believe, to.think]" : {kenkitsashiry}
 | "[=kinkitsashirya][VRoot][=to.believe, to.think]" : {kinkitsashirya}
 ! 
 | "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
