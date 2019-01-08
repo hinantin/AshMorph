@@ -949,9 +949,9 @@ define VRootPRQin [
 | "[=mao][VRoot][=to.get.tired (ES: cansarse)]" : {mao} 
 ! 
 | "[=maore][VRoot][=to.tire; to.rest (ES: descansar)]" : {maore} 
-| "[=makore][VRoot][=to.tire; to.rest (ES: descansar)]" : {makore} 
+| "[=makore+INF@antsi.][VRoot][=to.tire; to.rest (ES: descansar)]" : {makore} 
 | "[=makory][VRoot][=to.tire; to.rest (ES: descansar)]" : {makory} 
-| "[=makori][VRoot][=to.tire; to.rest (ES: descansar)]" : {makori} 
+| "[=makori+INF@antsi.][VRoot][=to.tire; to.rest (ES: descansar)]" : {makori} 
 ! 
 | "[=mamp][VRoot][=to.sing (ES: cantar)]" : {mamp}
 | "[=amamp][VRoot][=to.sing (ES: cantar)]" : {amamp} ! ramampae 
