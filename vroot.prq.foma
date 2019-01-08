@@ -982,8 +982,8 @@ define VRootPRQin [
 | "[=mana+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)]" : {mana}
 | "[=manaa+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)]" : {manaa}
 ! 
-| "[=manin][VRoot][=to.scorn (ES: desdeñar); to.look.down.on.sb. (ES: despreciar)]" : {manin}
-| "[=manint][VRoot][=to.scorn (ES: desdeñar); to.look.down.on.sb. (ES: despreciar)]" : {manint}
+| "[=manin+INF@/EP:t/aantsi.][VRoot][=to.scorn (ES: desdeñar); to.look.down.on.sb. (ES: despreciar)]" : {manin}
+| "[=manint+INF@aantsi.][VRoot][=to.scorn (ES: desdeñar); to.look.down.on.sb. (ES: despreciar)]" : {manint}
 ! 
 # cantar y bailar en fila, solo las mujeres. 
 | "[=maninke][VRoot][=to.sing-and-dance.in.a.row (mainly.women)]" : {maninke}
