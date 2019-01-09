@@ -1693,9 +1693,9 @@ define VRootPRQin [
 | "[=samorink][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {samorink} 
 ! 
 | "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi}
-| "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sanpi}
+!| "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sanpi}
 | "[=hampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hampi}
-| "[=hampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hanpi}
+!| "[=hampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hanpi}
 | "[=sampi+MOD@REDUP.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampisampi} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
