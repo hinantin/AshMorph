@@ -1701,7 +1701,7 @@ define VRootPRQin [
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
 | "[=sapok][VRoot][=to.jump, to.jump.up.and.down]" : {sapok}
 ! 
-| "[=sampita][VRoot][=to.research]" : {sampita}
+| "[=sampita+INF@antsi.][VRoot][=to.research (ES: interrogar, preguntar)]" : {sampita}
 ! 
 | "[=santsa][VRoot][=to.grow.big]" : {santsa}
 ! 
