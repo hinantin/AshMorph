@@ -86,8 +86,8 @@ define VRootPRQin [
 | "[=kag][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {kag}
 | "[=ag][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {ag}
 ! 
-| "[=ama][VRoot][=to.swim]" : {ama}
-| "[=amaa][VRoot][=to.swim]" : {amaa}
+| "[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim]" : {ama}
+| "[=amaa+INF@/EP:t/aantsi.][VRoot][=to.swim]" : {amaa}
 ! 
 | "[=aman][VRoot][=to.ask.for (ES: pedir); to.pray, to.worship (ES: orar)]" : {aman}
 ! 
