@@ -6,7 +6,7 @@
 define VRootPRQin [
 ! 
 # ---------------------------------------------------
-  "[=a][VRoot][=to.take (ES: agarrar)]" : {a}
+  "[=a+INF@/DEL:a/gaantsi.][VRoot][=to.take (ES: agarrar)]" : {a}
 | "[=aa][VRoot][=to.take (ES: agarrar)]" : {aa}
 | "[=a][VRoot][=to.get]" : {a}
 # ---------------------------------------------------
