@@ -31,7 +31,7 @@ define VRootPRQin [
 | "[=aamavint][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavint}
 | "[=aamaavent][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamaavent}
 ! 
-| "[=amashi][VRoot][=to.wound; to.destroy (ES: malograr)]" : {amashi}
+| "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound; to.destroy (ES: malograr)]" : {amashi}
 ! 
 | "[=amashi][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashi}
 | "[=amashink][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashink}
@@ -40,7 +40,7 @@ define VRootPRQin [
 | "[=amok][VRoot][=to.be/get.cloudy (ES: estar/ponerse.nublado; nublarse)]" : {amok} 
 | "[=aamok][VRoot][=to.be/get.cloudy (ES: estar/ponerse.nublado; nublarse)]" : {aamok} 
 ! 
-| "[=amonko][VRoot][=to.chew.sth. (i.e.: coca.leaves, lime; ES: chacchar.coca, chacchar.cal; QU: kukata.chaqchay, iskuta.chaqchay)]" : {amonko}
+| "[=amonko+INF@/EP:t/antsi.][VRoot][=to.chew.sth. (i.e.: coca.leaves, lime; ES: chacchar.coca, chacchar.cal; QU: kukata.chaqchay, iskuta.chaqchay)]" : {amonko}
 | "[=amonka][VRoot][=to.chew.sth. (i.e.: coca.leaves, lime; ES: chacchar.coca, chacchar.cal; QU: kukata.chaqchay, iskuta.chaqchay)]" : {amonka}
 ! 
 | "[=aaki][VRoot][=to.trip.sb.up, to.make.sb.fall (ES: hacer.tropezar)]" : {aaki}
