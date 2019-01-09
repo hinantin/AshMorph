@@ -104,8 +104,8 @@ define VRootPRQin [
 | "[=amashai+INF@/EP:t/aantsi.][VRoot][=to.sing/chant.(only.men).in_a_party-and-in_a_row (ES: cantar/salmodiar.durante.la.fiesta.en.una.fila)]" : {amashai}
 | "[=amashee+INF@/EP:t/aantsi.][VRoot][=to.sing/chant.(only.men).in_a_party-and-in_a_row (ES: cantar/salmodiar.durante.la.fiesta.en.una.fila)]" : {amashee}
 ! 
-| "[=ameet][VRoot][=to.have.sb's.hair.cut, to.shave (ES: cortar.(el.pelo), afeitar)]" : {ameet}
-| "[=amiit][VRoot][=to.have.sb's.hair.cut, to.shave (ES: cortar.(el.pelo), afeitar)]" : {amiit}
+| "[=ameet+INF@aantsi.][VRoot][=to.have.sb's.hair.cut, to.shave (ES: cortar.(el.pelo), afeitar)]" : {ameet}
+| "[=amiit+INF@aantsi.][VRoot][=to.have.sb's.hair.cut, to.shave (ES: cortar.(el.pelo), afeitar)]" : {amiit}
 ! 
 | "[=amet][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {amet}
 | "[=ame][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {ame}
@@ -1705,8 +1705,8 @@ define VRootPRQin [
 ! 
 | "[=santsa][VRoot][=to.grow.big]" : {santsa}
 ! 
-| "[=sara][VRoot][=to.peel (ES: pelar, descascarar)]" : {sara}
-| "[=shaary][VRoot][=to.peel (ES: pelar, descascarar)]" : {shaary}
+| "[=sara+INF@antsi.][VRoot][=to.peel (ES: pelar, descascarar)]" : {sara}
+| "[=shaary+INF@aantsi.][VRoot][=to.peel (ES: pelar, descascarar)]" : {shaary}
 ! 
 | "[=sarak][VRoot][=to.strip.sb.off]" : {sarak}
 ! 
