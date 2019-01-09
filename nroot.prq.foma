@@ -2182,9 +2182,13 @@ define NRootPRQin [
 | "[=masoki+m.][NRoot][=tadpole.of.a.toad.sp., toad (ES: sp.de.renacuajo, sapo)]" : {masoki}
 | "[=soveroki][NRoot][=tadpole.of.a.toad.sp.]" : {soveroki} ! to be checked 
 ! 
-| "[=mainari+m.][NRoot][=single.man; old.bachelor (ES: solterón)]" : {mainari} 
+| "[=mainari+m.][NRoot][=single.man; old.bachelor (ES: solterón)]" : {mainari}
+| "[=maenari+m.][NRoot][=single.man; old.bachelor (ES: solterón)]" : {maenari} 
+| "[=mahinari+m.][NRoot][=single.man; old.bachelor (ES: solterón)]" : {mahinari}
 | "[=mainaro+n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {mainaro} 
+| "[=mahinaro+n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {mahinaro}
 | "[=mainavo+n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {mainavo} 
+| "[=maenavo+n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {maenavo}
 ! 
 | "[=maini+m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maini}
 | "[=maeni+m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maeni}
