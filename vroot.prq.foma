@@ -1692,10 +1692,10 @@ define VRootPRQin [
 | "[=hamorenk][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {hamorenk} 
 | "[=samorink][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {samorink} 
 ! 
-| "[=sampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi}
-| "[=sampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sanpi}
-| "[=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hampi}
-| "[=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hanpi}
+| "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi}
+| "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sanpi}
+| "[=hampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hampi}
+| "[=hampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hanpi}
 | "[=sampi+MOD@REDUP.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampisampi} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
