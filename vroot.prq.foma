@@ -107,9 +107,9 @@ define VRootPRQin [
 | "[=ameet+INF@aantsi.][VRoot][=to.have.sb's.hair.cut, to.shave (ES: cortar.(el.pelo), afeitar)]" : {ameet}
 | "[=amiit+INF@aantsi.][VRoot][=to.have.sb's.hair.cut, to.shave (ES: cortar.(el.pelo), afeitar)]" : {amiit}
 ! 
-| "[=amet][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {amet}
-| "[=ame][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {ame}
-| "[=amit][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {amit}
+| "[=amet+INF@aantsi.][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {amet}
+| "[=ame+INF@/EP:t/aantsi.][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {ame}
+| "[=amit+INF@aantsi.][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {amit}
 | "[=mit][VRoot][=to.be.accustomed (ES: acostumbrar(se))]" : {mit}
 ! 
 | "[=amik][VRoot][=to.sharpen (ES: afilar); to.polish; to.file.sth. (to.smooth/shape/cut.it.with.a.file)]" : {amik}
