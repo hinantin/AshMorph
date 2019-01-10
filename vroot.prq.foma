@@ -116,7 +116,8 @@ define VRootPRQin [
 | "[=amek+INF@aantsi.][VRoot][=to.sharpen (ES: afilar); to.polish]" : {amek}
 | "[=ameek+INF@aantsi.][VRoot][=to.sharpen (ES: afilar); to.polish]" : {ameek}
 ! 
-| "[=amicho][VRoot][=to.squeeze (ES: exprimir)]" : {amicho}
+| "[=amicho+INF@aantsi.][VRoot][=to.squeeze (ES: exprimir)]" : {amicho}
+| "[=avishook+INF@aantsi.][VRoot][=to.squeeze (ES: exprimir)]" : {avishook}
 ! 
 | "[=amin][VRoot][=to.treat]" : {amin}
 | "[=amin][VRoot][=to.examine]" : {amin}
