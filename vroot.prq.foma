@@ -123,14 +123,15 @@ define VRootPRQin [
 | "[=michov+INF@aantsi.][VRoot][=to.squeeze (ES: exprimir)]" : {michov}
 | "[=amishoov+INF@aantsi.][VRoot][=to.squeeze (ES: exprimir)]" : {amishoov}
 ! 
-| "[=amin][VRoot][=to.treat]" : {amin}
-| "[=amin][VRoot][=to.examine]" : {amin}
-| "[=amin][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amin}
-| "[=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amen}
+| "[=amin+INF@aantsi.][VRoot][=to.treat]" : {amin}
+| "[=amin+INF@aantsi.][VRoot][=to.examine]" : {amin}
+| "[=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amin}
+| "[=amen+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amen}
 | "[=amin+MOD@REDUP.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[=to.keep.on.looking.for.sth./sb.]" : {aminamina}
 | "[=amen+MOD@REDUP.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]" : {amemena}
 ! 
-| "[=amintsa][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)]" : {amintsa}
+| "[=amintsa+INF@/EP:t/aantsi.][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo,, trenzar, entrelazar.soga)]" : {amintsa}
+| "[=ampintsa+INF@/EP:t/aantsi.][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo,, trenzar, entrelazar.soga)]" : {ampintsa}
 ! 
 | "[=amitako][VRoot][=to.help (ES: ayudar)]" : {amitako}
 ! 
