@@ -148,7 +148,7 @@ define VRootPRQin [
 | "[=anankori][VRoot][=to.cross (ES: cruzar)]" : {anankori}
 | "[=anankore][VRoot][=to.cross (ES: cruzar)]" : {anankore}
 ! 
-| "[=anashi][VRoot][=to.walk.in.some_location (i.e.: the_woods; ES: caminar)]" : {anashi}
+| "[=anashi+INF@/EP:t/aantsi.][VRoot][=to.walk.in.some_location (i.e.: the_woods; ES: caminar, andar.por)]" : {anashi}
 ! 
 ! nanei / n- =ane -i / ES: 'yo.vivo' 
 | "[=ane][VRoot][=to.live (ES: vivir)]" : {ane}
