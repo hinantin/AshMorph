@@ -135,9 +135,9 @@ define VRootPRQin [
 ! 
 | "[=amitako+INF@/EP:t/aantsi.][VRoot][=to.help (ES: ayudar)]" : {amitako}
 ! 
-| "[=ana][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {ana}
-| "[=na][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {na}
-| "[=nat][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {nat}
+| "[=ana+INF@/EP:t/aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {ana}
+| "[=na+INF@/EP:t/aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {na}
+| "[=nat+INF@aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {nat}
 | "[=nat+MOD@REDUP.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {natanata} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=anaako][VRoot][=to.win, to.gain (ES: ganar)]" : {anaako}
