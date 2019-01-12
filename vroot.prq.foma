@@ -211,11 +211,11 @@ define VRootPRQin [
 | "[=antavae+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavae}
 | "[=antavai+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavai}
 ! 
-| "[=antavak][VRoot][=to.fight (ES: pelearse.(unos.con.otros))]" : {antavak}
+| "[=antavak+INF@aantsi.][VRoot][=to.fight (ES: pelearse.(unos.con.otros))]" : {antavak}
 ! 
 | "[=antant][VRoot][=to.fight]" : {antant}
 ! 
-| "[=antiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {antiva}
+| "[=antiva+INF@/EP:t/aantsi.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {antiva}
 | "[=tiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {tiva}
 | "[=tsitink][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {tsitink}
 ! 
