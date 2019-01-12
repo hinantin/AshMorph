@@ -205,7 +205,7 @@ define VRootPRQin [
 | "[=ant+INF@aantsi.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)]" : {ant}
 ! 
 | "[=antaki+INF@/EP:t/aantsi.][VRoot][=to.ripen (ES: madurar)]" : {antaki}
-| "[=antaiki][VRoot][=to.ripen (ES: madurar)]" : {antaiki}
+| "[=antaiki+INF@/EP:t/aantsi.]][VRoot][=to.ripen (ES: madurar)]" : {antaiki}
 | "[=antava][VRoot][=to.ripen (ES: madurar)]" : {antava}
 ! 
 | "[=antavae][VRoot][=to.work (ES: trabajar)]" : {antavae}
