@@ -225,8 +225,9 @@ define VRootPRQin [
 | "[=antsire][VRoot][=to.untie.sth. (ES: desatar)]" : {antsire}
 | "[=ashire+INF@antsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {ashire}
 | "[=ashiry+INF@aantsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {ashiry}
+| "[=shiry+INF@agaantsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {shiry}
 ! 
-| "[=ateh][VRoot][=to.fake (ES: fingir)]" : {ateh}
+| "[=ateh+INF@aantsi.][VRoot][=to.fake (ES: fingir)]" : {ateh}
 ! 
 # The insertion of the irrealis prefix within the verbal stem.
 | "[N=][IRR+][--][=atziri][VRoot][=to.be.person]" : {antziri}
