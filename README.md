@@ -19,7 +19,7 @@ and the object.
 
 #### Reduplication
 
-Our collected text corpus shows that Ashaninka uses both partial reduplication and total reduplication as productive morphological operations.
+Our collected text corpus shows that Ashaninka uses both partial reduplication and total reduplication as productive morphological operations (two-way finite state transducers will be employed in order to create an adequate model).
 
 #### Nominal root verbalization
 
