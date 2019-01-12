@@ -219,10 +219,11 @@ define VRootPRQin [
 | "[=tiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {tiva}
 | "[=tsitink+INF@aantsi.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {tsitink}
 ! 
-| "[=antsi][VRoot][=to.sew.sth. (ES: coser); (ES: enredar)]" : {antsi}
-| "[=orimpi][VRoot][=to.sew.sth. (ES: coser)]" : {orimpi}
+| "[=antsi+INF@/EP:t/aantsi.][VRoot][=to.sew.sth. (ES: coser); (ES: enredar)]" : {antsi}
+| "[=orimpi+INF@/EP:t/aantsi.][VRoot][=to.sew.sth. (ES: coser)]" : {orimpi}
 ! 
 | "[=antsire][VRoot][=to.untie.sth. (ES: desatar)]" : {antsire}
+| "[=ashire+INF@antsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {ashire}
 ! 
 | "[=ateh][VRoot][=to.fake (ES: fingir)]" : {ateh}
 ! 
