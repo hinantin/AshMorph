@@ -331,10 +331,10 @@ define VRootPRQin [
 | "[=atsi][VRoot][=to.harm]" : {atsi}
 ! 
 | "[=atsik+INF@aantsi.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {atsik}
-| "[N=][IRR+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {antsik}
+| "[N=][IRR+][--][=atsik+INF@aantsi.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {antsik}
 ! 
 # arrollar 
-| "[=atsinak][VRoot][=to.squash.sth.; to.squeeze.sth.; to.crush.sth. (ES: aplastar,arrollar; machucar; apretar)]" : {atsinak}
+| "[=atsinak+INF@aantsi.][VRoot][=to.squash.sth.; to.squeeze.sth.; to.crush.sth. (ES: aplastar,arrollar; machucar; apretar)]" : {atsinak}
 ! 
 | "[=aatzik][VRoot][=to.step.into.sth.; to.step.on (to.place/press.the.foot.on.sth.)]" : {aatzik}
 ! 
