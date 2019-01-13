@@ -291,8 +291,8 @@ define VRootPRQin [
 ! 
 | "[=ashitareako+INF@/EP:t/aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashitareako}
 | "[=ashitaryaako+INF@/EP:t/aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashitaryaako}
-| "[=ashireako][VRoot][=to.open (ES: abrir, destapar)]" : {ashireako}
-| "[=ashitary][VRoot][=to.open (ES: abrir, destapar)]" : {ashitary}
+| "[=ashireako+INF@/EP:t/aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashireako}
+| "[=ashitary+INF@aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashitary}
 ! 
 | "[=ashimintsa][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)?]" : {ashimintsa}
 ! 
