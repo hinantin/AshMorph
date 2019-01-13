@@ -367,8 +367,8 @@ define VRootPRQin [
 | "[=ay][VRoot][=to.take]" : {ay}
 | "[=ay][VRoot][=to.get]" : {ay}
 ! 
-| "[=ayi][VRoot][=to.go.down]" : {ayi}
-| "[=ayii][VRoot][=to.go.down (ES: bajar, descender)]" : {ayii}
+| "[=ayi+INF@/EP:t/aantsi.][VRoot][=to.go.down]" : {ayi}
+| "[=ayii+INF@/EP:t/aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {ayii}
 ! 
 | "[=chek][VRoot][=to.cut (ES: cortar)]" : {chek}
 | "[=chik][VRoot][=to.cut (ES: cortar)]" : {chik}
