@@ -274,7 +274,8 @@ define VRootPRQin [
 | "[=aritapaake][VRoot][=to.be.enough]" : {aritapaake}
 ! 
 | "[=asank+INF@aantsi.][VRoot][=to.smell (ES: oler)]" : {asank}
-| "[=kasanka][VRoot][=to.smell]" : {kasanka}
+| "[=kasanka+INF@antsi.][VRoot][=to.smell (ES: oler)]" : {kasanka}
+| "[=kahanka+INF@antsi.][VRoot][=to.smell (ES: oler)]" : {kahanka}
 ! 
 | "[=ashaarant][VRoot][=to.prosper (ES: prosperar)]" : {ashaarant}
 | "[=asharant][VRoot][=to.prosper (ES: prosperar)]" : {asharant}
