@@ -322,7 +322,7 @@ define VRootPRQin [
 ! 
 | "[=atohe+INF@/EP:t/aantsi.][VRoot][=to.cough (ES: toser)]" : {atohe}
 | "[=tohe][VRoot][=to.cough (ES: toser)]" : {tohe}
-| "[=kaint][VRoot][=to.cough (ES: toser)]" : {kaint}
+| "[=kaint+INF@aantsi.][VRoot][=to.cough (ES: toser)]" : {kaint}
 ! 
 | "[=atsari][VRoot][=to.unroll]" : {atsari}
 ! 
