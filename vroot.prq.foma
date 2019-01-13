@@ -300,7 +300,7 @@ define VRootPRQin [
 | "[=ashi][VRoot][=to.suck (prbly.sugar.cane)]" : {ashi}
 ! 
 ! shira: slip.sound, slipping 
-| "[=aashirank][VRoot][=to.slip (ES: resbalar)]" : {aashirank}
+| "[=aashirank+INF@aantsi.][VRoot][=to.slip (ES: resbalar)]" : {aashirank}
 | "[=ashirari+INF@antsi.][VRoot][=to.slip (ES: resbalar(se))]" : {ashirari}
 | "[=shira][VRoot][=to.slip (ES: resbalar)]" : {shira}
 ! 
@@ -310,9 +310,9 @@ define VRootPRQin [
 | "[=ashinonka][VRoot][=to.suffer.from.sth.; to.suffer (ES: sufrir)]" : {ashinonka}
 | "[=ashinonkee][VRoot][=to.suffer.from.sth.; to.suffer (ES: sufrir)]" : {ashinonkee}
 ! 
-| "[=ashiriako][VRoot][=to.undo (ES: desabrochar)]" : {ashiriako}
+| "[=ashiriako+INF@/EP:t/aantsi.][VRoot][=to.undo, to.unbuckle (ES: desabrochar)]" : {ashiriako}
 ! 
-| "[N=][IRR+][--][=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {antai} ! nantaitatiye / n=n-atai-t-ati-ye EN: 'I will climb', ES: 'voy a trepar'; nantaiti / n=atai-n-t-i ES: 'estoy trepando'
+| "[N=][IRR+][--][=atai+INF@/EP:t/antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {antai} ! nantaitatiye / n=n-atai-t-ati-ye EN: 'I will climb', ES: 'voy a trepar'; nantaiti / n=atai-n-t-i ES: 'estoy trepando'
 | "[N=][IRR+][--][=atae][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {antae}
 | "[=atae][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atae}
 | "[=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atai}
