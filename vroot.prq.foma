@@ -282,7 +282,7 @@ define VRootPRQin [
 | "[=ashar{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {asharant}
 ! 
 | "[=ashi+INF@/EP:t/aantsi.][VRoot][=to.have; to.own, to.possess]" : {ashi}
-| "[=ashit][VRoot][=to.have; to.own, to.possess]" : {ashit}
+| "[=ashit+INF@aantsi.][VRoot][=to.have; to.own, to.possess]" : {ashit}
 ! 
 | "[=ashi][VRoot][=to.enclose (ES: cerrar)]" : {ashi}
 | "[=ashitako][VRoot][=to.lock.sth./sb.in (ES: encerrar(se))]" : {ashitako}
