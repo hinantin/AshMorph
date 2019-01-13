@@ -277,7 +277,8 @@ define VRootPRQin [
 | "[=kasanka+INF@antsi.][VRoot][=to.smell (ES: oler)]" : {kasanka}
 | "[=kahanka+INF@antsi.][VRoot][=to.smell (ES: oler)]" : {kahanka}
 !
-# ashitaarantinkari / ES: 'rico, millonario' 
+# ashitaarantinkari / ES: 'rico, millonario'
+| "[=ashitaar{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.possess.wealth (ES: tener.riqueza)]" : {ashitaarant} 
 | "[=ashaar{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {ashaarant}
 | "[=ashaag{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {ashaagant}
 | "[=ashar{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {asharant}
