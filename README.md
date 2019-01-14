@@ -1,4 +1,4 @@
-Ashaninka Morph
+Ashaninka-Morph
 ===============
 
 This is a morphological analyzer for Ashaninka written using Xerox finite state technology with a quadrilingual lexicon (Ashaninka, English, Spanish and Portuguese).
