@@ -129,8 +129,8 @@ define VRootPRQin [
 | "[=amin+INF@aantsi.][VRoot][=to.examine]" : {amin}
 | "[=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amin}
 | "[=amen+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]" : {amen}
-| "[=amin+MOD@REDUP.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[=to.keep.on.looking.for.sth./sb.]" : {aminamina}
-| "[=amen+MOD@REDUP.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]" : {amemena}
+| "[=amin+redup@copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[=to.keep.on.looking.for.sth./sb.]" : {aminamina}
+| "[=amen+redup@copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]" : {amemena}
 ! 
 | "[=amintsa+INF@/EP:t/aantsi.][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo,, trenzar, entrelazar.soga)]" : {amintsa}
 | "[=ampintsa+INF@/EP:t/aantsi.][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo,, trenzar, entrelazar.soga)]" : {ampintsa}
@@ -140,7 +140,7 @@ define VRootPRQin [
 | "[=ana+INF@/EP:t/aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {ana}
 | "[=na+INF@/EP:t/aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {na}
 | "[=nat+INF@aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {nat}
-| "[=nat+MOD@REDUP.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {natanata} ! \cite{payne:axininca:81}[pag. 144]
+| "[=nat+redup@copy.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {natanata} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=anaako+INF@/EP:t/aantsi.][VRoot][=to.win, to.gain (ES: ganar); (ES: adelantar, predecir)]" : {anaako}
 | "[=anaatsiko][VRoot][=to.win, to.gain (ES: ganar)]" : {anaatsiko}
@@ -349,7 +349,7 @@ define VRootPRQin [
 | "[=atso+INF@/EP:t/aantsi.][VRoot][=to.suck (prbly.cacao/kemito,tobacco/sheri; ES: chupar, mamar)]" : {atso}
 | "[N=][IRR+][--][=atso+INF@/EP:t/aantsi.][VRoot][=to.suck (prbly.cacao/kemito,tobacco/sheri; ES: chupar)]" : {antso}
 | "[=tso+INF@/EP:t/aantsi.][VRoot][=to.suck (prbly.cacao/kemito,tobacco/sheri; ES: chupar, mamar); to.kiss (ES: besar)]" : {tso}
-| "[=tsot+INF@aantsi.+MOD@REDUP.][VRoot][=to.kiss (ES: besar)]" : {tsotatsota} ! \cite{payne:axininca:81}[pag. 144]
+| "[=tsot+INF@aantsi.+redup@copy.][VRoot][=to.kiss (ES: besar)]" : {tsotatsota} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=avii+INF@/EP:t/aantsi.][VRoot][=to.harvest.sth. (apart.from.yucca; ES: cosechar, hacer.la.cosecha)]" : {avii}
 | "[=avi+INF@/EP:t/aantsi.][VRoot][=to.harvest.sth. (apart.from.yucca; ES: cosechar, hacer.la.cosecha); to.have.power]" : {avi}
@@ -372,7 +372,7 @@ define VRootPRQin [
 ! 
 | "[=chek+INF@aantsi.][VRoot][=to.cut (ES: cortar)]" : {chek}
 | "[=chik+INF@aantsi.][VRoot][=to.cut (ES: cortar)]" : {chik}
-| "[=chik+INF@aantsi.+MOD@REDUP.][VRoot][=to.cut (ES: cortar)]" : {chikachika} ! \cite{payne:axininca:81}[pag. 144]
+| "[=chik+INF@aantsi.+redup@copy.][VRoot][=to.cut (ES: cortar)]" : {chikachika} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=et+INF@aantsi.][VRoot][=to.go.to.warn (ES: ir.a.avisar)]" : {et}
 ! 
@@ -471,7 +471,7 @@ define VRootPRQin [
 | "[=it][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {it} ! produces too many ambiguities 
 ! 
 | "[=hinki][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
-| "[=hinki+MOD@REDUP.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[= (ES: rodear.algo.varias.veces)]" : {hinkihinki}
+| "[=hinki+redup@copy.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[= (ES: rodear.algo.varias.veces)]" : {hinkihinki}
 ! 
 !| "[=hinoki][VRoot][=up]" : {hinoki}
 ! 
@@ -505,8 +505,8 @@ define VRootPRQin [
 | "[=ira][VRoot][=to.cry]" : {ira}
 | "[=irag][VRoot][=to.cry]" : {irag}
 | "[=irah][VRoot][=to.cry]" : {irah}
-| "[2S/A+][p-][--][=ira+MOD@REDUP.][VRoot][=to.cry]" : {pirapira}
-| "[=ira+MOD@REDUP.][VRoot][=to.cry]" : {iraira}
+| "[2S/A+][p-][--][=ira+redup@copy.][VRoot][=to.cry]" : {pirapira}
+| "[=ira+redup@copy.][VRoot][=to.cry]" : {iraira}
 ! to be ripe, to ripen (fruits) 
 !| "[=isak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen]" : {isak}
 | "[=irak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen]" : {irak}
@@ -665,7 +665,7 @@ define VRootPRQin [
 ! 
 | "[=kavoshi+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshi}
 | "[=kaavoshi][VRoot][=to.bathe (ES: bañar)]" : {kaavoshi}
-| "[=kavoshi+MOD@REDUP.+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
+| "[=kavoshi+redup@copy.+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
 ! 
 | "[=kay][VRoot][=to.thresh]" : {kay}
 ! 
@@ -743,9 +743,9 @@ define VRootPRQin [
 !
 | "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {ken}
 | "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {kin}
-| "[=ken+MOD@REDUP.][VRoot][=to.walk]" : {keken}
-| "[=ken+MOD@REDUP.][VRoot][=to.walk]" : {kenaken}
-| "[=ken+MOD@REDUP.][VRoot][=to.walk]" : {kenakena}
+| "[=ken+redup@copy.][VRoot][=to.walk]" : {keken}
+| "[=ken+redup@copy.][VRoot][=to.walk]" : {kenaken}
+| "[=ken+redup@copy.][VRoot][=to.walk]" : {kenakena}
 ! 
 | "[=kenashi][VRoot][=to.be.green (ES: ser.de.color.verde)]" : {kenashi}
 ! 
@@ -869,7 +869,7 @@ define VRootPRQin [
 ! 
 | "[=kiv][VRoot][=to.wash (ES: lavar)]" : {kiv}
 | "[=kev][VRoot][=to.wash (ES: lavar)]" : {kev}
-| "[=kiv+MOD@REDUP.][VRoot][=to.wash (ES: lavar)]::[=to.wash.a.lot]" : {kivakiva}
+| "[=kiv+redup@copy.][VRoot][=to.wash (ES: lavar)]::[=to.wash.a.lot]" : {kivakiva}
 ! 
 | "[=kivanont][VRoot][=to.wash]" : {kivanont}
 ! 
@@ -881,11 +881,11 @@ define VRootPRQin [
 ! 
 | "[=konyaa][VRoot][=to.appear (ES: aparecer)]" : {konyaa}
 | "[=koniha][VRoot][=to.appear (ES: aparecer)]" : {koniha}
-| "[=koniha+MOD@REDUP.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
+| "[=koniha+redup@copy.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
 ! 
 | "[=koma][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
 | "[=komaa][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
-| "[=koma+MOD@REDUP.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {kokoma} 
+| "[=koma+redup@copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {kokoma} 
 ! 
 | "[=komi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {komi}
 | "[=kompi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {kompi}
@@ -933,8 +933,8 @@ define VRootPRQin [
 ! 
 | "[=kov+INF@antsi.][VRoot][=to.want (ES: querer)]" : {kov} 
 | "[=ko+INF@antsi.][VRoot][=to.want (ES: querer)]" : {ko} 
-| "[=kov+MOD@REDUP.][VRoot][=to.want (ES: querer)]::[=to.prefer.strongly]" : {kokov} 
-| "[=kov+MOD@REDUP.][VRoot][=to.want (ES: querer)]::[=to.search (ES: buscar)]" : {kovakova} ! to.be.checked!!! ! \cite{payne:axininca:81}[pag. 144]
+| "[=kov+redup@copy.][VRoot][=to.want (ES: querer)]::[=to.prefer.strongly]" : {kokov} 
+| "[=kov+redup@copy.][VRoot][=to.want (ES: querer)]::[=to.search (ES: buscar)]" : {kovakova} ! to.be.checked!!! ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=kovashiri][VRoot][=to.desire (ES: desear)]" : {kovashiri} 
 ! 
@@ -960,7 +960,7 @@ define VRootPRQin [
 | "[=kiha][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiha}
 | "[=kiya][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiya}
 | "[=ty][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ty}
-| "[=kya+MOD@REDUP.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kyakya}
+| "[=kya+redup@copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kyakya}
 ! 
 | "[=machok][VRoot][=to.close.eyes (ES: cerrar.los.ojos)]" : {machok} 
 ! 
@@ -1089,10 +1089,10 @@ define VRootPRQin [
 | "[=mit+INF@aantsi.][VRoot][=to.jump (ES: saltar)]" : {mit}
 # nomitaji / nomitahi / no- =mitah -i / 1sg.s- =to.jump -real / EN: 'I.am.jumping'; ES: 'estoy.saltando' 
 | "[=mitah+INF@aantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mitah}
-# miamiataantsi / =mi+MOD@REDUP. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
-# imiamiataeyeni / i- =mi+MOD@REDUP. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
-| "[=mi+MOD@REDUP.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {miamia}
-| "[=my+MOD@REDUP.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {myaamyaa}
+# miamiataantsi / =mi+redup@copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
+# imiamiataeyeni / i- =mi+redup@copy. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
+| "[=mi+redup@copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {miamia}
+| "[=my+redup@copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {myaamyaa}
 ! 
 | "[=minka][VRoot][=to.make.a.hunting.blind (ES: hacer.un_puesto_de_caza.camuflado)]" : {minka}
 ! 
@@ -1259,7 +1259,7 @@ define VRootPRQin [
 ! 
 ! o- kirink(a) ... / 
 | "[=oirink][VRoot][=to.go.down.quickly.(in.a.falling-like.manner) (ES: bajar.rápidamente.(como.cayendo)); to.lower]" : {oirink}
-| "[=oirink+MOD@REDUP.][VRoot][=to.lower]" : {oirinkarink} ! \cite{payne:axininca:81}[pag. 144]
+| "[=oirink+redup@copy.][VRoot][=to.lower]" : {oirinkarink} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 # oisaantsi / =ois -aantsi / ES: 'atizar' 
 # poishero / p- =oish -e =ro / ES: 'tu.lo.atizas' 
@@ -1437,7 +1437,7 @@ define VRootPRQin [
 ! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
 | "[=pariy][VRoot][=to.fall (ES: caer)]" : {pariy}
 | "[=pare][VRoot][=to.fall (ES: caer)]" : {pare}
-| "[=pariy+MOD@REDUP.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {paryaaparyaa}
+| "[=pariy+redup@copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {paryaaparyaa}
 ! 
 ! v- =pari / 
 | "[=vari][VRoot][=to.knock.down (ES: hacer.caer, derribar)]" : {vari}
@@ -1564,8 +1564,8 @@ define VRootPRQin [
 ! 
 # piaantsi / =pi -aantsi / =to.come.back -inf / EN: 'to.come.back'; ES: 'regresar' 
 | "[=piy+INF@aantsi.][VRoot][=to.return, to.come.back (ES: volver, regresar)]" : {piy}
-| "[=piy+MOD@REDUP.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piyapiya}
-| "[=piy+MOD@REDUP.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piapiya}
+| "[=piy+redup@copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piyapiya}
+| "[=piy+redup@copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piapiya}
 ! 
 | "[=piyaa][VRoot][=to.empty, to.pour (ES: vaciar)]" : {piyaa}
 ! 
@@ -1710,8 +1710,8 @@ define VRootPRQin [
 | "[=sankena][VRoot][=to.write (ES: escribir); to.draw]" : {sankena}
 | "[=hankena][VRoot][=to.write (ES: escribir); to.draw]" : {hankena}
 | "[=hankina][VRoot][=to.write (ES: escribir); to.draw]" : {hankina}
-| "[=sankina+MOD@REDUP.][VRoot][=to.write (ES: escribir)]" : {sankinasankina}
-| "[=sankena+MOD@REDUP.][VRoot][=to.write (ES: escribir)]" : {sasankena}
+| "[=sankina+redup@copy.][VRoot][=to.write (ES: escribir)]" : {sankinasankina}
+| "[=sankena+redup@copy.][VRoot][=to.write (ES: escribir)]" : {sasankena}
 ! 
 | "[=hamorenk][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {hamorenk} 
 | "[=samorink][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {samorink} 
@@ -1720,7 +1720,7 @@ define VRootPRQin [
 !| "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sanpi}
 | "[=hampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hampi}
 !| "[=hampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hanpi}
-| "[=sampi+MOD@REDUP.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampisampi} ! \cite{payne:axininca:81}[pag. 144]
+| "[=sampi+redup@copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampisampi} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
 | "[=sapok][VRoot][=to.jump, to.jump.up.and.down]" : {sapok}
@@ -1791,7 +1791,7 @@ define VRootPRQin [
 | "[=shet][VRoot][=to.clean]" : {shet}
 ! 
 | "[=sheva][VRoot][=to.move (ES: mover)]" : {sheva}
-| "[=sheva+MOD@REDUP.][VRoot][=to.move (ES: mover)]::[=moving]" : {shevasheva}
+| "[=sheva+redup@copy.][VRoot][=to.move (ES: mover)]::[=moving]" : {shevasheva}
 ! 
 | "[=shima][VRoot][=to.fish; to.catch.fish]" : {shima}
 ! 
@@ -1860,7 +1860,7 @@ define VRootPRQin [
 ! shitowaantsi / shitovaantsi / =shitov -aantsi / =to.leave -inf / EN: 'to.leave' 
 ! shitoaantsi / shitoaantsi / =shito -aantsi / =to.leave -inf / EN: 'to.leave' 
 | "[=shitov][VRoot][=to.leave (ES: salir); to.escape]" : {shitov}
-| "[=shitov+MOD@REDUP.][VRoot][=to.leave (ES: salir)]::[=to.come-and-go.constantly (ES: salir.cada.rato)]" : {shitovashitova}
+| "[=shitov+redup@copy.][VRoot][=to.leave (ES: salir)]::[=to.come-and-go.constantly (ES: salir.cada.rato)]" : {shitovashitova}
 ! roimishitoyeeteri / r- oimi= =shito -yee -t -e -ri /  
 | "[=shito][VRoot][=to.leave (ES: salir); to.escape]" : {shito}
 ! 
@@ -1967,7 +1967,7 @@ define VRootPRQin [
 ! 
 | "[=tasonk][VRoot][=to.blow (ES: soplar); to.fan; to.bless (ES: bendecir)]" : {tasonk}
 | "[=tahonk][VRoot][=to.blow (ES: soplar); to.fan]" : {tahonk}
-| "[=tasonkatasonka+MOD@REDUP.][VRoot][=to.blow (ES: soplar); to.fan]" : {tasonkatasonka} ! \cite{payne:axininca:81}[pag. 144]
+| "[=tasonkatasonka+redup@copy.][VRoot][=to.blow (ES: soplar); to.fan]" : {tasonkatasonka} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=tatsink+INF@aantsi.][VRoot][=to.push.sth. (ES: empujar)]" : {tatsink}
 | "[=otatsink][VRoot][=to.push.sth. (ES: empujar)]" : {otatsink}
@@ -2068,7 +2068,7 @@ define VRootPRQin [
 ! 
 | "[=tsanki][VRoot][=to.be.in.a.hurry; to.hurry]" : {tsanki}
 | "[=tsaanki][VRoot][=to.be.in.a.hurry; to.hurry]" : {tsaanki}
-| "[=tsaanki+MOD@REDUP.][VRoot][=to.hurry]" : {tsaankitsaanki} ! \cite{payne:axininca:81}[pag. 144]
+| "[=tsaanki+redup@copy.][VRoot][=to.hurry]" : {tsaankitsaanki} ! \cite{payne:axininca:81}[pag. 144]
 ! 
 | "[=tsare][VRoot][=to.drool (ES: babear)]" : {tsare}
 | "[=tsaari][VRoot][=to.drool (ES: babear)]" : {tsaari}
@@ -2119,7 +2119,7 @@ define VRootPRQin [
 | "[=tsink][VRoot][=to.crush.sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tsink}
 ! 
 | "[=tsint+INF@(a)antsi.][VRoot][=to.urinate (ES: orinar)]" : {tsint}
-| "[pi-][VPers][2S/A+][--][=tsint+MOD@REDUP.+INF@(a)antsi.][VRoot][=to.urinate (ES: orinar)]::[=to.urinate.more_often_than_usual (ES: orinar.más_seguido_de_lo_normal)]" : "@2@"{pitsinpintsint}
+| "[pi-][VPers][2S/A+][--][=tsint+redup@copy.+INF@(a)antsi.][VRoot][=to.urinate (ES: orinar)]::[=to.urinate.more_often_than_usual (ES: orinar.más_seguido_de_lo_normal)]" : "@2@"{pitsinpintsint}
 ! 
 | "[=tsinampa][VRoot][=to.joke (ES: bromear)]" : {tsinampa}
 ! 
@@ -2163,8 +2163,8 @@ define VRootPRQin [
 | "[=tsokis][VRoot][=to.have.hiccups, to.hiccough (ES: tener.hipo)]" : {tsokis}
 ! 
 | "[=tsonk][VRoot][=to.finish (ES: terminar)]" : {tsonk}
-| "[=tsonk+MOD@REDUP.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonk}
-| "[=tsonk+MOD@REDUP.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonka}
+| "[=tsonk+redup@copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonk}
+| "[=tsonk+redup@copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonka}
 | "[=tsonk][VRoot][=to.kill]" : {tsonk}
 ! 
 | "[=tsoinare][VRoot][=to.break.in.half]" : {tsoinare}
@@ -2389,7 +2389,7 @@ define VRootPRQin [
 ];
 
 # ----------------------------------------
-# +MOD@REDUP.	reduplication implies the meaning EN: 'a.lot, more-and-more' 
+# +redup@copy.	reduplication implies the meaning EN: 'a.lot, more-and-more' 
 # algn.		alguien 
 # f.tech.	fishing technique 
 
