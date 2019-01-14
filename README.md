@@ -19,7 +19,7 @@ and the object.
 
 #### Reduplication
 
-Our collected text corpus shows that Ashaninka uses both partial reduplication (1) and total reduplication (2) as productive morphological operations (two-way finite state transducers will be employed in order to create an adequate model).
+Our collected text corpus shows that Ashaninka uses both partial reduplication `(1)` and total reduplication `(2)` as productive morphological operations (two-way finite state transducers will be employed in order to create an adequate model).
 
 ```
 (1) kov 'to.want' -> ko~kov 'to.prefer.strongly' 
