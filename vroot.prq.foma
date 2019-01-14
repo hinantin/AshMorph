@@ -381,7 +381,7 @@ define VRootPRQin [
 | "[=etsiy][VRoot][=to.be.well]" : {etsiy}
 ! 
 # caused to be well 
-| "[=etsiyako][VRoot][=to.heal (lit.: caused.to.be.well; ES: sanar)]" : {etsiyako}
+| "[=etsiyako+INF@/EP:t/antsi.][VRoot][=to.heal (lit.: caused.to.be.well; ES: sanar)]" : {etsiyako}
 | "[=etsiyatako+INF@/EP:t/aantsi.][VRoot][=to.heal (lit.: caused.to.be.well; ES: sanar)]" : {etsiyatako}
 | "[=avisako][VRoot][=to.heal (ES: sanar); to.recover (ES: sanarse)]" : {avisako}
 | "[=eshitako][VRoot][=to.heal (ES: sanar)]" : {eshitako}
