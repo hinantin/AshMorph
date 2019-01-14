@@ -23,6 +23,8 @@ Our collected text corpus shows that Ashaninka uses both partial reduplication (
 
 ```
 (1) kov 'to.want' -> ko~kov 'to.prefer.strongly' 
+
+(2) koniha 'to.appear' -> koniha~koniha 'to.appear.again-and-again'
 ```
 
 #### Nominal root verbalization
