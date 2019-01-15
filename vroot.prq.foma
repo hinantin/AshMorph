@@ -1711,7 +1711,7 @@ define VRootPRQin [
 | "[=hankena][VRoot][=to.write (ES: escribir); to.draw]" : {hankena}
 | "[=hankina][VRoot][=to.write (ES: escribir); to.draw]" : {hankina}
 | "[=sankina+tot.redup@unb.copy.][VRoot][=to.write (ES: escribir)]" : {sankinasankina}
-| "[=sankena+redup@copy.][VRoot][=to.write (ES: escribir)]" : {sasankena}
+| "[=sankena+prtl.redup@b.copy.][VRoot][=to.write (ES: escribir)]" : {sasankena}
 ! 
 | "[=hamorenk][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {hamorenk} 
 | "[=samorink][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {samorink} 
