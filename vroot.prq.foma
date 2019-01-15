@@ -2119,7 +2119,7 @@ define VRootPRQin [
 | "[=tsink][VRoot][=to.crush.sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tsink}
 ! 
 | "[=tsint+INF@(a)antsi.][VRoot][=to.urinate (ES: orinar)]" : {tsint}
-| "[pi-][VPers][2S/A+][--][=tsint+redup@copy.+INF@(a)antsi.][VRoot][=to.urinate (ES: orinar)]::[=to.urinate.more_often_than_usual (ES: orinar.más_seguido_de_lo_normal)]" : "@2@"{pitsinpintsint}
+| "[pi-][VPers][2S/A+][--][=tsint+INF@(a)antsi.+prtl.redup@b.copy.][VRoot][=to.urinate (ES: orinar)]::[=to.urinate.more_often_than_usual (ES: orinar.más_seguido_de_lo_normal)]" : "@2@"{pitsinpintsint}
 ! 
 | "[=tsinampa][VRoot][=to.joke (ES: bromear)]" : {tsinampa}
 ! 
