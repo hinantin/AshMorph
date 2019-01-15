@@ -1437,7 +1437,7 @@ define VRootPRQin [
 ! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
 | "[=pariy][VRoot][=to.fall (ES: caer)]" : {pariy}
 | "[=pare][VRoot][=to.fall (ES: caer)]" : {pare}
-| "[=pariy+redup@copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {paryaaparyaa}
+| "[=pariy+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {paryaaparyaa}
 ! 
 ! v- =pari / 
 | "[=vari][VRoot][=to.knock.down (ES: hacer.caer, derribar)]" : {vari}
