@@ -506,7 +506,7 @@ define VRootPRQin [
 | "[=irag][VRoot][=to.cry]" : {irag}
 | "[=irah][VRoot][=to.cry]" : {irah}
 | "[2S/A+][p-][--][=ira+tot.redup@unb.copy.][VRoot][=to.cry]" : {pirapira}
-| "[=ira+tot.redup@unb.copy.][VRoot][=to.cry]" : {iraira}
+| "[=ira+tot.redup@copy.][VRoot][=to.cry]" : {iraira}
 ! to be ripe, to ripen (fruits) 
 !| "[=isak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen]" : {isak}
 | "[=irak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen]" : {irak}
@@ -665,7 +665,7 @@ define VRootPRQin [
 ! 
 | "[=kavoshi+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshi}
 | "[=kaavoshi][VRoot][=to.bathe (ES: bañar)]" : {kaavoshi}
-| "[=kavoshi+redup@copy.+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
+| "[=kavoshi+INF@/EP:t/aantsi.+redup@copy.[VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
 ! 
 | "[=kay][VRoot][=to.thresh]" : {kay}
 ! 
