@@ -471,7 +471,7 @@ define VRootPRQin [
 | "[=it][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {it} ! produces too many ambiguities 
 ! 
 | "[=hinki][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
-| "[=hinki+redup@copy.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[= (ES: rodear.algo.varias.veces)]" : {hinkihinki}
+| "[=hinki+tot.redup@unb.copy.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[= (ES: rodear.algo.varias.veces)]" : {hinkihinki}
 ! 
 !| "[=hinoki][VRoot][=up]" : {hinoki}
 ! 
