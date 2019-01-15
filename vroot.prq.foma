@@ -2164,7 +2164,7 @@ define VRootPRQin [
 ! 
 | "[=tsonk][VRoot][=to.finish (ES: terminar)]" : {tsonk}
 | "[=tsonk+tot.redup@unb.copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonk}
-| "[=tsonk+redup@copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonka}
+| "[=tsonk+tot.redup@unb.copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonka}
 | "[=tsonk][VRoot][=to.kill]" : {tsonk}
 ! 
 | "[=tsoinare][VRoot][=to.break.in.half]" : {tsoinare}
@@ -2389,7 +2389,7 @@ define VRootPRQin [
 ];
 
 # ----------------------------------------
-# +redup@copy.	reduplication implies the meaning EN: 'a.lot, more-and-more' 
+# +tot.redup@unb.copy.; +prtl.redup@b.copy.	reduplication implies the meaning EN: 'a.lot, more-and-more' 
 # algn.		alguien 
 # f.tech.	fishing technique 
 
