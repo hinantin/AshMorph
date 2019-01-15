@@ -665,7 +665,7 @@ define VRootPRQin [
 ! 
 | "[=kavoshi+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshi}
 | "[=kaavoshi][VRoot][=to.bathe (ES: bañar)]" : {kaavoshi}
-| "[=kavoshi+INF@/EP:t/aantsi.+redup@copy.[VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
+| "[=kavoshi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
 ! 
 | "[=kay][VRoot][=to.thresh]" : {kay}
 ! 
@@ -743,7 +743,7 @@ define VRootPRQin [
 !
 | "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {ken}
 | "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {kin}
-| "[=ken+redup@copy.][VRoot][=to.walk]" : {keken}
+| "[=ken+prtl.redup@b.copy.][VRoot][=to.walk]" : {keken}
 | "[=ken+redup@copy.][VRoot][=to.walk]" : {kenaken}
 | "[=ken+redup@copy.][VRoot][=to.walk]" : {kenakena}
 ! 
