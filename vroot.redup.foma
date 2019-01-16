@@ -2,7 +2,7 @@
 # VERBAL REDUPLICATION 
 # -----------------
 define VRootREDUPin [ 
-  "[no-][VPers][1SG.S/A+][--][=ag][VRoot][=to.collect (ES: recoger)]" : {naganaga} ! @REDUP 
+  "[no-][VPers][1SG.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {naganaga} ! @REDUP 
 | "[no-][VPers][1SG.S/A+][--][=oirik+prtl.redup@b.copy.][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {noinoirik} ! @REDUP 
 | "[no-][VPers][1SG.S/A+][--][=to+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {notonoto} ! @REDUP 
 | "[pi-][VPers][2S/A+][--][=tsint+INF@(a)antsi.+prtl.redup@b.copy.][VRoot][=to.urinate (ES: orinar)]::[=to.urinate.more_often_than_usual (ES: orinar.más_seguido_de_lo_normal)]" : "@2@"{pitsinpintsint} ! @REDUP
