@@ -770,9 +770,10 @@ define VRootPRQin [
 ! 
 | "[=kichank][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kichank}
 ! 
-| "[=kinkitsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kinkitsa}
+| "[=kinkitsa+INF@/EP:t/aantsi.][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kinkitsa}
 | "[=kenkitsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kenkitsa}
 | "[=kenketsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kenketsa}
+| "[=kinkitsa+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kikinkitsa}
 ! 
 !| "[=kinkivarotzi][VRoot][=to.be.old]" : {kinkivarotzi}
 ! 
@@ -1158,7 +1159,8 @@ define VRootPRQin [
 ! 
 | "[=na][VRoot][=to.fit]" : {na} ! +Sa 
 ! 
-| "[=naa][VRoot][=to.chew (ES: masticar)]" : {naa}
+| "[=naa+INF@/EP:t/aantsi.][VRoot][=to.chew (ES: masticar)]" : {naa}
+| "[=naa+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.chew (ES: masticar)]" : {naanaa}
 | "[=noha][VRoot][=to.chew (ES: masticar)]" : {noha}
 | "[=nashe][VRoot][=to.chew (ES: masticar)]" : {nashe}
 ! 
