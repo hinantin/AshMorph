@@ -87,7 +87,7 @@ define VRootPRQin [
 | "[=kah][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {kah}
 | "[=kag][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {kag}
 | "[=ag][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {ag}
-!###| "[no-][VPers][1SG.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {naganaga} ! @REDUP 
+!###| "[n-][VPers][1SG.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {naganaga} ! @REDUP 
 ! 
 | "[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim]" : {ama}
 | "[=amaa+INF@/EP:t/aantsi.][VRoot][=to.swim]" : {amaa}
@@ -1258,7 +1258,7 @@ define VRootPRQin [
 | "[=oerik][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {oerik} 
 | "[=ahirik][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {ahirik} 
 | "[=otaiy][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {otaiy} 
-!###| "[no-][VPers][1SG.S/A+][--][=oirik+prtl.redup@b.copy.][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {noinoirik} ! @REDUP 
+!###| "[n-][VPers][1SG.S/A+][--][=oirik+prtl.redup@b.copy.][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {noinoirik} ! @REDUP 
 ! 
 ! o- kirink(a) ... / 
 | "[=oirink][VRoot][=to.go.down.quickly.(in.a.falling-like.manner) (ES: bajar.rápidamente.(como.cayendo)); to.lower]" : {oirink}
