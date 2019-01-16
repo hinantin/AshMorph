@@ -169,6 +169,7 @@ TZEpenthesisRule8
  EpenthesisRestr1 .o. EpenthesisRestr2 ] ; 
 
       source vroot.prq.foma
+      source vroot.redup.foma
       source vroot.es.foma
       source n-vroot.prq.group1.foma 
         define VRootPRQ [VRootPRQin|VRootESin|NounToVerbPRQin];
