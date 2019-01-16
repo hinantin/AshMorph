@@ -2078,9 +2078,10 @@ define VRootPRQin [
 | "[=tsani][VRoot][=to.prevent; to.refuse (sharing.sth.of.sb.; ES: mezquinar); to.resist]" : {tsani}
 | "[=tsany][VRoot][=to.prevent; to.refuse (sharing.sth.of.sb.; ES: mezquinar); to.resist]" : {tsany}
 ! 
-| "[=tsanki][VRoot][=to.be.in.a.hurry; to.hurry]" : {tsanki}
-| "[=tsaanki][VRoot][=to.be.in.a.hurry; to.hurry]" : {tsaanki}
-| "[=tsaanki+tot.redup@unb.copy.][VRoot][=to.hurry]" : {tsaankitsaanki} ! \cite{payne:axininca:81}[pag. 144]
+| "[=tsanki][VRoot][=to.be.in.a.hurry; to.hurry (ES: apurarse)]" : {tsanki}
+| "[=tsaanki][VRoot][=to.be.in.a.hurry; to.hurry (ES: apurarse)]" : {tsaanki}
+| "[=tsaanki+tot.redup@unb.copy.][VRoot][=to.hurry (ES: apurarse)]" : {tsaankitsaanki} ! \cite{payne:axininca:81}[pag. 144]
+| "[=tsaanki+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.hurry (ES: apurarse)]" : {tsaatsaanki}
 ! 
 | "[=tsare][VRoot][=to.drool (ES: babear)]" : {tsare}
 | "[=tsaari][VRoot][=to.drool (ES: babear)]" : {tsaari}
