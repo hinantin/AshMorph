@@ -376,7 +376,7 @@ TZEpenthesisRule8
       ############################
       #      Verb transducer     #
       ############################
-      define Verb [ (Pref) [VRootPRQ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. Lenition .o. VerbFeatRestr;
+      define Verb [ [ [ (Pref) [VRootPRQ] ] | [VRootREDUPin] ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. Lenition .o. VerbFeatRestr;
       #define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Lenition .o. VerbFeatRestr;
       
       ##########################
