@@ -2,5 +2,6 @@
 # VERBAL REDUPLICATION 
 # -----------------
 define VRootREDUPin [ 
-  "[pi-][VPers][2S/A+][--][=tsint+INF@(a)antsi.+prtl.redup@b.copy.][VRoot][=to.urinate (ES: orinar)]::[=to.urinate.more_often_than_usual (ES: orinar.más_seguido_de_lo_normal)]" : "@2@"{pitsinpintsint} ! @REDUP
+  "[no-][VPers][1SG.S/A+][--][=to+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]" : {notonoto} ! @REDUP 
+| "[pi-][VPers][2S/A+][--][=tsint+INF@(a)antsi.+prtl.redup@b.copy.][VRoot][=to.urinate (ES: orinar)]::[=to.urinate.more_often_than_usual (ES: orinar.más_seguido_de_lo_normal)]" : "@2@"{pitsinpintsint} ! @REDUP
 ];

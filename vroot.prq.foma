@@ -2030,7 +2030,7 @@ define VRootPRQin [
 | "[=tov][VRoot][=to.fell, to.cut.down (a.tree; ES: tumbar.(un.árbol))]" : {tov}
 | "[=tov][VRoot][=to.cut (ES: cortar)]" : {tov}
 | "[=tova][VRoot][=to.cut (ES: cortar)]" : {tova}
-#!!!| "[no-][VPers][1SG.S/A+][--][=to+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]" : {notonoto} ! @REDUP 
+!###| "[no-][VPers][1SG.S/A+][--][=to+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]" : {notonoto} ! @REDUP 
 ! 
 ! toye ... / =to -ye ... / =to.cut -dist ... / EN: 'to.dismember'; ES: 'descuartizar'
 | "[=toye][VRoot][=to dismember (ES: descuartizar)]" : {toye}
