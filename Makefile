@@ -12,6 +12,7 @@ compile:
 	@rm -f verb.composition.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.prq.foma" --flag "@VCMP" --title "NOUN INCORPORATION (Verb-noun composition)" --header "V=S=noun" --separator 1 --replace1 1 --replace3 1 --source3 "NRoot" --target3 "IncNRoot"
 	@rm -f verb.composition.len.prq.foma | perl extractEntries.pl --file nroot.prq.foma --outputfilename "verb.composition.len.prq.foma" --flag "@VCMP" --title "NOUN INCORPORATION (Verb-noun composition)" --header "V=S=LEN=noun" --separator 1 --replace3 1 --source3 "NRoot" --target3 "IncNRoot"
 	@rm -f verb.classifier.prq.foma | perl extractEntries.pl --file noun.suffix.prq.script --outputfilename "verb.classifier.prq.foma" --flag "@CL" --title "VERBAL CLASSIFIERS (VERB.CL)" --header "V=S=CL" --replace1 1 --replace2 1 --source2 "\+CL:" --target2 "+VERB.CL:"
+	@rm -f vroot.redup.foma | perl extractEntries.pl --file vroot.prq.foma --outputfilename "vroot.redup.foma" --flag "@REDUP" --title "VERBAL REDUPLICATION" --header "VRootREDUPin" --replace2 1 --source2 "!###" --target2 ""
 	@rm -f ideo.adbl.foma | bash ashaninkamorph.sh -q "test" 
 	@rm -f asheninka.bin asheninka.guesser.bin *.tar.bz2
 	@xfst -f asheninka.script 
