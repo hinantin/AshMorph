@@ -63,7 +63,6 @@ open INFO, $file or die "Could not open $file: $!";
  if (m/$flag/) { 
   if ($count == 0) { 
    my $myvar = $_;
-   $myvar =~ s/^\|/ /g;
    if ($separator == 1) { $myvar =~ s/\"/\"$separatorsymbol/; }
    if ($replace1 == 1) { $myvar =~ s/$source1/$target1/; }
    if ($replace2 == 1) { 
@@ -81,6 +80,7 @@ open INFO, $file or die "Could not open $file: $!";
      
    }
    if ($replace3 == 1) { $myvar =~ s/$source3/$target3/; }
+   $myvar =~ s/^\|/ /g;
    print $fh $myvar; 
   }
   else { 
