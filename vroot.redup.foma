@@ -4,6 +4,8 @@
 define VRootREDUPin [ 
   "[n-][VPers][1SG.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {naganaga} ! @REDUP 
 | "[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=tso+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.kiss (ES: besar)]" : {nontsonontso} ! @REDUP 
+| "[no-][VPers][1SG.S/A+][--][=tso+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.kiss (ES: besar)]" : {notsonotso} ! @REDUP 
+| "[pi-][VPers][2S/A+][--][=tso+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.kiss (ES: besar)]" : {pitsopitso} ! @REDUP  
 | "[n-][VPers][1SG.S/A+][--][=oirik+prtl.redup@b.copy.][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {noinoirik} ! @REDUP 
 | "[n-][VPers][1SG.S/A+][--][=oirink+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.lower (ES: bajarse.de.una.cumbre)]" : {noinoirinka} ! @REDUP
 | "[p-][VPers][2S/A+][--][=oirink+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.lower (ES: bajarse.de.una.cumbre)]" : {poipoirinka} ! @REDUP
