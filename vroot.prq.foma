@@ -69,7 +69,8 @@ define VRootPRQin [
 ! 
 | "[=aitsokiri][VRoot][=to.castrate (ES: castrar)]" : {aitsokiri}
 ! 
-| "[=ak][VRoot][=to.answer.back (ES: contestar, responder)]" : {ak}
+| "[=ak+INF@aantsi.][VRoot][=to.answer.back (ES: contestar, responder)]" : {ak}
+!###| "[n-][VPers][1SG.S/A+][--][=ak+INF@aantsi.][VRoot][=to.answer.back (ES: contestar, responder)]" : {nakanaka}
 ! 
 | "[=akatsaa][VRoot][=to.guide/help.sb.holding.hands (ES: guiar/ayudar.a.algn.tomándolo.de.la.mano)]" : {akatsaa}
 | "[=akatsa][VRoot][=to.guide/help.sb.holding.hands (ES: guiar/ayudar.a.algn.tomándolo.de.la.mano)]" : {akatsa}
