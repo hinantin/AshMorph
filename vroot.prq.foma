@@ -545,7 +545,8 @@ define VRootPRQin [
 | "[=kachoki][VRoot][=to.ferment (ES: fermentar)]" : {kachoki}
 ! 
 | "[=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)]" : {kaem}
-| "[=kaim][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaim}
+| "[=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaim}
+| "[=kaim+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaikaim}
 | "[=kãym][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)]" : {kãym}
 | "[=kahem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)]" : {kahem} ! inkajemajeiteri / i=N-kajem-a-hei-t-e-ri 
 !| "[=vaemant][VRoot][=to.promote (ES: promover)]" : {vaemant}
