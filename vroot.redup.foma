@@ -3,6 +3,7 @@
 # -----------------
 define VRootREDUPin [ 
   "[n-][VPers][1SG.S/A+][--][=aa+INF@/DEL:a/gaantsi.+tot.redup@unb.copy.][VRoot][=to.take (ES: agarrar)]" : {naanaa} ! @REDUP 
+| "[n-][VPers][1SG.S/A+][--][=aashi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.make.a.group_reunion/meeting (ES: hacer.sesión,, reunir), to.meet]" : {naashinaashi} ! @REDUP
 | "[n-][VPers][1SG.S/A+][--][=ak+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.answer.back (ES: contestar, responder)]" : {nakanaka} ! @REDUP 
 | "[p-][VPers][2S/A+][--][=ak+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.answer.back (ES: contestar, responder)]" : {pakapaka} ! @REDUP 
 | "[y-][VPers][3m.S/A+][--][=ak+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.answer.back (ES: contestar, responder)]" : {yakayaka} ! @REDUP 
