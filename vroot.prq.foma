@@ -515,10 +515,10 @@ define VRootPRQin [
 | "[=impoi+INF@/EP:t/aantsi.][VRoot][=to.follow.behind (ES: seguir.atrás)]" : {impoi}
 ! 
 | "[=inchakota][VRoot][=to.split]" : {inchakota}
-| "[=int][VRoot][=to.begin]" : {int}
 ! 
-| "[=it][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {it}
-| "[=et][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {et}
+| "[=int+INF@aantsi.][VRoot][=to.begin]" : {int}
+| "[=it+INF@aantsi.][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {it}
+| "[=et+INF@aantsi.][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {et}
 ! 
 | "[=ir][VRoot][=to.drink (ES: beber)]" : {ir}
 ! ipiroaantsi / =ir -piro -aantsi / =to.drink -degr -inf / EN: 'to.drink.well' 
