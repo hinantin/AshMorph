@@ -483,10 +483,10 @@ define VRootPRQin [
 ! 
 # heevankaantsi / =heeva -nk -aantsi / =to.fan -unk -inf / EN: 'to.fan' 
 | "[=hevank][VRoot][=to.fan (ES: abanicar)]" : {hevank}
-| "[=heevank][VRoot][=to.fan]" : {heevank}
-| "[=hivank][VRoot][=to.fan]" : {hivank}
-| "[=eevank][VRoot][=to.fan]" : {eevank}
-| "[=iivank][VRoot][=to.fan]" : {iivank}
+| "[=heevank][VRoot][=to.fan (ES: abanicar)]" : {heevank}
+| "[=hivank][VRoot][=to.fan (ES: abanicar)]" : {hivank}
+| "[=eevank][VRoot][=to.fan (ES: abanicar)]" : {eevank}
+| "[=iivank][VRoot][=to.fan (ES: abanicar)]" : {iivank}
 ! 
 | "[=hi][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {hi}
 | "[=ii][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {ii}
