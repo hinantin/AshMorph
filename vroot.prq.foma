@@ -510,8 +510,8 @@ define VRootPRQin [
 ! 
 | "[=hokii][VRoot][=to.be.sick (ES: estar.enfermo)]" : {hokii}
 ! 
-| "[=impoit][VRoot][=to.follow.behind (ES: seguir.atrás)]" : {impoit}
-| "[=impoi][VRoot][=to.follow.behind (ES: seguir.atrás)]" : {impoi}
+| "[=impoit+INF@aantsi.][VRoot][=to.follow.behind (ES: seguir.atrás)]" : {impoit}
+| "[=impoi+INF@/EP:t/aantsi.][VRoot][=to.follow.behind (ES: seguir.atrás)]" : {impoi}
 ! 
 | "[=inchakota][VRoot][=to.split]" : {inchakota}
 | "[=int][VRoot][=to.begin]" : {int}
