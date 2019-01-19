@@ -524,7 +524,7 @@ define VRootPRQin [
 | "[=i][VRoot][=to.drink (ES: beber)]" : {i}
 | "[o=][AGT.CAUS+][--][=i][VRoot][=drink (ES: beber)]" : {oi}
 ! 
-| "[=ir][VRoot][=to.cry (ES: llorar)]" : {ir}
+| "[=ir+INF@aantsi.][VRoot][=to.cry (ES: llorar)]" : {ir}
 | "[=ira][VRoot][=to.cry (ES: llorar)]" : {ira}
 | "[=irag][VRoot][=to.cry (ES: llorar)]" : {irag}
 | "[=irah][VRoot][=to.cry (ES: llorar)]" : {irah}
