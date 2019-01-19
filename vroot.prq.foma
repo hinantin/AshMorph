@@ -2397,8 +2397,8 @@ define VRootPRQin [
 | "[=yo][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)]" : {yo}
 | "[=yot][VRoot][=to.know (ES: conocer, saber)]" : {yot}
 | "[=yotani][VRoot][=to.know (ES: conocer, saber)]" : {yotani}
-| "[=iyot][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iyot}
-| "[=iyo][VRoot][=to.know (ES: saber); to.learn (ES: aprender)]" : {iyo}
+| "[=iyot+INF@aantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iyot}
+| "[=iyo+INF@/EP:t/aantsi.][VRoot][=to.know (ES: saber); to.learn (ES: aprender)]" : {iyo}
 # niotantari / n- =iot -ant -a -ri / ES: 'entendimiento'  
 | "[=iot][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iot}
 ! 
