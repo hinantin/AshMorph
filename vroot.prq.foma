@@ -2008,13 +2008,13 @@ define VRootPRQin [
 | "[=tarompi+sem@f.tech.][VRoot][=to.make.a.dam.with.stones (ES: hacer.represa.con.piedras)]" : {tarompi}
 ! 
 | "[=tash][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tash}
-| "[=tashe][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tashe}
+| "[=tashe+INF@antsi.][VRoot][=to.be.hungry (ES: tener.hambre, estar.con.apetito)]" : {tashe}
 | "[=tashey][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tashey}
 | "[=tase][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tase}
 ! to roast with coal
 | "[=tashi][VRoot][=to.roast.with.coal (ES: asar)]" : {tashi}
 ! 
-| "[=tasonk][VRoot][=to.blow (ES: soplar); to.fan; to.bless (ES: bendecir)]" : {tasonk}
+| "[=tasonk+INF@aantsi.][VRoot][=to.blow (ES: soplar); to.fan; to.bless (ES: bendecir)]" : {tasonk}
 | "[=tahonk][VRoot][=to.blow (ES: soplar); to.fan]" : {tahonk}
 | "[=tasonka+tot.redup@unb.copy.][VRoot][=to.blow (ES: soplar); to.fan]" : {tasonkatasonka} ! \cite{payne:axininca:81}[pag. 144]
 | "[=tasonk+prtl.redup@b.copy.][VRoot][=to.blow (ES: soplar); to.fan]::[= (ES: soplar.a_cada_rato)]" : {tatasonk}
