@@ -634,8 +634,8 @@ define VRootPRQin [
 ! 
 | "[=kantimo][VRoot][=to.say.sth.about.a_fact.with.the.desire.to.tempt.sb.else]" : {kantimo}
 ! 
-| "[=kapos][VRoot][=to.slap.sb/sth. (ES: abofetear)]" : {kapos}
-| "[=kapoh][VRoot][=to.slap.sb/sth. (ES: abofetear)]" : {kapoh}
+| "[=kapos+INF@aantsi.][VRoot][=to.slap.sb/sth. (ES: abofetear)]" : {kapos}
+| "[=kapoh+INF@aantsi.][VRoot][=to.slap.sb/sth. (ES: abofetear)]" : {kapoh}
 ! 
 # nocaratapovetanaque / nokaratapovetanake
 | "[=kara][VRoot][=to.lack.sth. (ES: carecer)]" : {kara}
