@@ -489,9 +489,9 @@ define VRootPRQin [
 | "[=iivank][VRoot][=to.fan (ES: abanicar)]" : {iivank}
 | "[=heva+INF@/EP:t/aantsi.][VRoot][=to.fan (ES: abanicar)]" : {heva}
 ! 
-| "[=hi][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {hi}
-| "[=ii][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {ii}
-| "[=iit][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {iit}
+| "[=hi+INF@/EP:t/aantsi.][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {hi}
+| "[=ii+INF@/EP:t/aantsi.][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {ii}
+| "[=iit+INF@aantsi.][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {iit}
 | "[=it][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {it} ! produces too many ambiguities 
 ! 
 | "[=hinki][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
