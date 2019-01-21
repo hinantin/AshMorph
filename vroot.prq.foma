@@ -2,6 +2,7 @@
 # I = I-class verb
 # The verbal roots listed in this file are in their infinitive form, in order to for them to be distinguished from other types of roots that could cause ambiguities.
 # The +INF tag often signals if the verbal root will need an epenthetic suffix to be appended to the aforementioned root when a suffix such as -ak, -ap, etc. is added.  
+# Or if the deletion process will be likely to take place /DEL:a/ when it is followed by a suffix like -ant.
 
 define VRootPRQin [
 ! 
@@ -1961,7 +1962,7 @@ define VRootPRQin [
 ! 
 | "[=sonka+INF@/EP:t/aantsi.][VRoot][=to.play.antara (ES: tocar.la.antara); to.blow]" : {sonka}
 # ihonkantantyaari 
-| "[=honk][VRoot][=to.play.antara]" : {honk}
+| "[=honk][VRoot][=to.play.antara (ES: tocar.la.antara)]" : {honk}
 ! 
 | "[=soronk][VRoot][=to.go.down]" : {soronk}
 ! 
