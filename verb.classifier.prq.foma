@@ -8,6 +8,7 @@ define V=S=CL [
 | "[--][-poroki][+VERB.CL:quantity][=bunch,group;group.of.tiny.objects]" : "@EP"{poroki} ! @CL 
 | "[--][-pooki][+VERB.CL:quantity][=bunch,group;group.of.tiny.objects]" : "@EP"{pooki} ! @CL 
 | "[--][-poroki][+VERB.CL:assortment][=crumbs,particles]" : "@EP"{poroki} ! @CL 
+| "[--][-to][+VERB.CL:hollow.thin.rigid][=hollow.thin.rigid]" : "@EP"{to} ! @CL 
 | "[--][-ki][+VERB.CL:S.R.H][=small,round(ed);hard;seed-like]" : "@EP"{ki} ! @CL +SHAPE
 | "[--][-kii][+VERB.CL:long,thin.branch][=long,thin.branch; stick.like.(with.a.sharp.pointed.end)]" : "@EP"{kii} ! @CL +SHAPE
 | "[--][-tsa][+VERB.CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]" : "@EP"{tsa} ! @CL +SHAPE  
