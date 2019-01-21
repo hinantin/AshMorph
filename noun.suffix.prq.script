@@ -185,6 +185,7 @@ define N=S=CL [
 | "[--][-poroki][+CL:assortment][=crumbs,particles]" : {poroki} ! @CL 
 # 
 | "[--][-to][+CL:tree][=tree,trunk]" : {to} 
+| "[--][-to][+CL:hollow.thin.rigid][=hollow.thin.rigid]" : {to} 
 
 ! inchatona / =incha -to -na / =plant -cl:tree -cl:long,hollow / EN: 'big.hollowed.tree_trunk'; ES: 'un.gran.tronco.ahuecado.en.forma.de.una.pequeña.canoa' 
 ! pitotsina / =pitotsi -na 
