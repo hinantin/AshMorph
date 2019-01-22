@@ -2388,8 +2388,8 @@ define VRootPRQin [
 ! 
 | "[=vitzit][VRoot][=to.grow.hair]" : {vitzit}
 ! 
-| "[=ye][VRoot][=to.serve.food (ES: servir.comida)]" : {ye}
-| "[=yet][VRoot][=to.serve.food (ES: servir.comida)]" : {yet}
+| "[=ye+INF@/EP:t/antsi.][VRoot][=to.serve.food (ES: servir.comida)]" : {ye}
+| "[=yet+INF@antsi.][VRoot][=to.serve.food (ES: servir.comida)]" : {yet}
 ! 
 | "[=yeenka][VRoot][=to.grease.sb's,body/hair; to.get.fat (applied.to.animals, ES: engordar)]" : {yeenka}
 | "[=yiinka][VRoot][=to.grease.sb's,body/hair]" : {yiinka}
