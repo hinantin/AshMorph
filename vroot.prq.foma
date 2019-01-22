@@ -1365,7 +1365,7 @@ define VRootPRQin [
 | "[=osamani][VRoot][=to.delay (ES: demorar)]" : {osamani}
 ! 
 | "[=ov+INF@aantsi.][VRoot][=to.eat (ES: comer)]" : {ov}
-| "[=o][VRoot][=to.eat (ES: comer)]" : {o} ! oacha, =o-ach-a
+| "[=o{DEL:v}+INF@aantsi.][VRoot][=to.eat (ES: comer)]" : {o} ! oacha, =o-ach-a
 | "[=oy][VRoot][=to.eat (ES: comer)]" : {oy}
 ! ivajyari / ivahyari / i- =v -ah -ya -ri / 3m.a- =to.eat -regr -irr -3m.o / ES: 'lo.comen'  
 | "[=v][VRoot][=to.eat (ES: comer)]" : {v} 
