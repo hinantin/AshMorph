@@ -51,7 +51,7 @@ define V=S=LEN=noun [
 | "[--][=tsipana+n.m.][IncNRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
 | "[--][=tona+n.m.+inal@tsi.][IncNRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
 | "[--][=vatsa+n./m.+inal@tsi.][IncNRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
-| "[--][=haki][IncNRoot][=tear (ES: lágrima)]" : {haki} ! @VCMP 
+| "[--][=haki~{CL:/liquid:ha/}{CL:/small,round(ed):ki/}][IncNRoot][=tear (ES: lágrima)]" : {haki} ! @VCMP 
 | "[--][=yereto+n.m.+inal@tsi.][IncNRoot][=knee (ES: rodilla)]" : {yereto} ! @VCMP 
 | "[--][=yerito+n.m.+inal@tsi.][IncNRoot][=knee (ES: rodilla)]" : {yerito} ! @VCMP 
 # @VCMP			verb composition 
