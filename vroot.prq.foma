@@ -2400,15 +2400,15 @@ define VRootPRQin [
 | "[=yomit][VRoot][=to.teach]" : {yomit}
 | "[=yome][VRoot][=to.teach]" : {yome}
 | "[=yoome][VRoot][=to.teach]" : {yoome}
-| "[=vame][VRoot][=to.teach (ES: enseñar)]" : {vame}
+| "[=vame+INF@/EP:t/aantsi.][VRoot][=to.teach (ES: enseñar)]" : {vame}
 | "[=ovame][VRoot][=to.teach (ES: enseñar)]" : {ovame}
-| "[=oame][VRoot][=to.teach (ES: enseñar)]" : {oame} ! oame-t-ant-atsi-ri 
+| "[=oame+INF@/EP:t/aantsi.][VRoot][=to.teach (ES: enseñar)]" : {oame} ! oame-t-ant-atsi-ri 
 ! 
-| "[=yo+INF@/EP:t/aantsi.][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)]" : {yo}
-| "[=yot+INF@aantsi.][VRoot][=to.know (ES: conocer, saber)]" : {yot}
+| "[=yo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)]" : {yo}
+| "[=yot+INF@(a)antsi:agaantsi.][VRoot][=to.know (ES: conocer, saber)]" : {yot}
 | "[=yotani][VRoot][=to.know (ES: conocer, saber)]" : {yotani}
-| "[=iyot+INF@aantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iyot}
-| "[=iyo+INF@/EP:t/aantsi.][VRoot][=to.know (ES: saber); to.learn (ES: aprender)]" : {iyo}
+| "[=iyot+INF@aantsi:agaantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iyot}
+| "[=iyo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.know (ES: saber); to.learn (ES: aprender)]" : {iyo}
 # niotantari / n- =iot -ant -a -ri / ES: 'entendimiento'  
 | "[=iot+INF@aantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iot}
 ! 
