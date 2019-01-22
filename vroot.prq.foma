@@ -1344,9 +1344,9 @@ define VRootPRQin [
 | "[=onyani+INF@/EP:t/aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyani}
 ! 
 | "[=ooko][VRoot][=to.identify; to.mark, to.point (ES: señalar; PT: apontar.a.c.)]" : {ooko}
-| "[=hiko][VRoot][=to.mark, to.point (ES: apuntar; PT: apontar.a.c.)]" : {hiko}
+| "[=hiko+INF@/EP:t/aantsi.][VRoot][=to.mark, to.point (ES: apuntar; PT: apontar.a.c.)]" : {hiko}
 | "[=hoko][VRoot][=to.mark, to.point (ES: apuntar; PT: apontar.a.c.)]" : {hoko}
-| "[=oinih][VRoot][=to.point]" : {oinih}
+| "[=oinih+INF@aantsi.][VRoot][=to.point (ES: señalar)]" : {oinih}
 | "[=oniha][VRoot][=to.point (ES: indicar, señalar; PT: apontar.a.c.); to.show (ES: mostrar)]" : {oniha}
 ! 
 | "[=ooho][VRoot][=to.tie (ES: atar), to.tie.sth.up (ES: amarrar)]" : {ooho}
