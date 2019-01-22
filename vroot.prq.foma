@@ -2418,7 +2418,8 @@ define VRootPRQin [
 | "[=iyokitzii+INF@/EP:t/aantsi][VRoot][=to.be.amazed/astonished (ES: asombrarse)]" : {iyokitzii}
 | "[=iyokitse+INF@/EP:t/aantsi][VRoot][=to.be.amazed/astonished (ES: asombrarse)]" : {iyokitse}
 ! 
-| "[=yov][VRoot][=to.escape; to.come.out; to.leave]" : {yov}
+| "[=yov+INF@aantsi.][VRoot][=to.escape; to.come.out (ES: salir); to.leave]" : {yov}
+| "[=iyov+INF@aantsi.][VRoot][=to.escape; to.come.out (ES: salir); to.leave]" : {yov}
 ! ----------------------
 ! Verbalized adjectives
 ! ----------------------
