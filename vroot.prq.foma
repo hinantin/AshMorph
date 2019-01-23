@@ -798,6 +798,7 @@ define VRootPRQin [
 | "[=kenkishire][VRoot][=to.believe, to.think]" : {kenkishire}
 ! 
 | "[=kichank][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kichank}
+| "[=kish+INF@aantsi.][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kish}
 ! 
 | "[=kinkitsa+INF@/EP:t/aantsi.][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kinkitsa}
 | "[=kenkitsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kenkitsa}
@@ -2195,7 +2196,7 @@ define VRootPRQin [
 ! 
 | "[=tsipari][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}
 ! 
-| "[=tsirah][VRoot][=to.be.cracked (wall, ceramics ; ES: estar.rajado)]" : {tsirah}
+| "[=tsirah+INF@aantsi.][VRoot][=to.be.cracked (wall, ceramics ; ES: estar.rajado)]" : {tsirah}
 ! 
 # --------------------------------------------------------
 | "[=tsirik][VRoot][=to.attach; to.stick (ES: pegar)]" : {tsirik}
