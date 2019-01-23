@@ -1122,9 +1122,10 @@ define VRootPRQin [
 ! 
 | "[=metso][VRoot][=to.be.soft; to.be.tender]" : {metso}
 ! 
-| "[=mi+INF@taantsi.][VRoot][=to.jump (ES: saltar)]" : {mi}
-| "[=my][VRoot][=to.jump (ES: saltar)]" : {my} ! \cite{anderson:cuentos:85}
-| "[=mit+INF@aantsi.][VRoot][=to.jump (ES: saltar)]" : {mit}
+| "[=mi+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mi}
+| "[=my+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {my} ! \cite{anderson:cuentos:85}
+| "[=miy+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {miy}
+| "[=mit+INF@aantsi:agaantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mit}
 # nomitaji / nomitahi / no- =mitah -i / 1sg.s- =to.jump -real / EN: 'I.am.jumping'; ES: 'estoy.saltando' 
 | "[=mitah+INF@aantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mitah}
 # miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
