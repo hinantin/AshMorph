@@ -721,8 +721,9 @@ define VRootPRQin [
 ! ikeanaji / ikeanahi / i- =ke -an -ah -i / 3m.s- =to.enter -dir -regr -real / ES: 'entrar, ingresar' 
 | "[=ky+INF@aantsi.][VRoot][=to.enter (ES: ingresar)]" : {ky}
 | "[=ky~kiy][VRoot][=to.enter (ES: ingresar)]" : {kiy}
-| "[=ke][VRoot][=to.enter (ES: ingresar)]" : {ke}
+| "[=ke+INF@aantsi.][VRoot][=to.enter (ES: ingresar)]" : {ke}
 | "[=ki][VRoot][=to.enter (ES: ingresar)]" : {ki}
+| "[=ty+INF@aantsi.][VRoot][=to.enter (ES: ingresar)]" : {ty}
 ! 
 ! word set:
 | "[=kim+INF@aantsi.][VRoot][=to.hear, to.listen; to.sense (ES: sentir)]" : {kim}
