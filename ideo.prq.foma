@@ -168,7 +168,7 @@ define IdeoPRQin [
 | "[=shepi+s.redup.word][Ideo:PRQ][=blocking.the_waterstream.with.dry.leaves.and.stones (creating.a.dam)]" : {shepi}
 | "[=shepi][Ideo:PRQ][=action.of.snatching.sth.in.the.air]" : {shepi}
 ! 
-| "[=koma+s.redup.word][Ideo:PRQ][=paddling.canoe; moving.a_canoe.with.a_paddle]" : {koma}
+| "[=koma+s.redup.word@2X.][Ideo:PRQ][=paddling.canoe; moving.a_canoe.with.a_paddle]" : {koma}
 | "[=tsok+s.redup.word][Ideo][=sound/action.of.paddling]" : {tsok}
 ! 
 | "[=chiki+s.redup.word][Ideo:PRQ][=cutting.tree(s); striking_(soft)_ground/digging.with.a.machete]" : {chiki}
@@ -323,6 +323,7 @@ define IdeoPRQin [
 ! 
 | "[=tsinkari][Ideo:PRQ][=a.sudden.feeling.of.a.stir.inside.the_body]" : {tsinkari} 
 ! 
+| "[=maro+s.redup.word@2X:3X.][Ideo:PRQ][=action.of.flapping.wings]" : {maro} 
 | "[=marok][Ideo:PRQ][=extending.a_mat/a_piece_of_clothing.on.the_ground]" : {marok} 
 ! 
 | "[=teka+s.redup.word][Ideo:PRQ][=body.shaking]" : {teka} 
