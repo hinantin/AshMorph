@@ -994,11 +994,11 @@ define EARLY [ [EP V=S=EARLY]|[V=S=EARLY] ];
                    
 # ****************************************
                    
-define V=S=ADVMANNER [ # revise!
-  "[--][-ite][ADV][+SPEED][=quickly,surprisingly]" : "@EP"[{ite}]
-];
+!define V=S=ADVMANNER [ # revise!
+!  "[--][-ite][ADV][+SPEED][=quickly,surprisingly]" : "@EP"[{ite}]
+!];
                    
-define ADVMANNER [ [EP V=S=ADVMANNER]|[V=S=ADVMANNER] ];
+!define ADVMANNER [ [EP V=S=ADVMANNER]|[V=S=ADVMANNER] ];
                    
 # ****************************************
                    
