@@ -4285,9 +4285,9 @@ define NRootPRQin [
 | "[=shintake][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintake}
 ! 
 | "[=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.of.a.fe/male)]" : {shinto}
-| "[=shintyo+n.m.+inal@tsi.][NRoot][=daughter.(with.affection) (kin.of.a.fe/male)]" : {shintyo}
+| "[=shintyo~shin{E.PAL.:ty}o+n.m.+inal@tsi.][NRoot][=daughter.(with.affection) (kin.of.a.fe/male)]" : {shintyo}
 | "[=ishinto+n.m.][NRoot][=daughter (kin.of.a.fe/male)]" : {ishinto} # nishinto, revise inal.??
-| "[=ishintyo+n.m.][NRoot][=daughter.(with.affection) (kin.of.a.fe/male)]" : {ishintyo} # nishintyo, revise inal.??
+| "[=ishintyo~ishin{E.PAL.:ty}o+n.m.][NRoot][=daughter.(with.affection) (kin.of.a.fe/male)]" : {ishintyo} # nishintyo, revise inal.??
 ! 
 | "[=shinti][NRoot][=topa-like.tree.sp. (ES: árbol.parecido.a.la.topa)]" : {shinti} 
 ! 
@@ -5364,7 +5364,7 @@ define NRootPRQin [
 # voc.			vocative 
 # 			vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 # 			It will be used as follows 1SG:2SG , etc. 
-
+# E.PAL.		expressive palatazation 
 
 # ##############################
 #         Abbreviations         
