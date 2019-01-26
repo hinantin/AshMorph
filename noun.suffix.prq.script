@@ -313,10 +313,10 @@ define N=S=CL [
 | "[--][-ini][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {ini}
 
 # saventarochii / =saventaro -chii / =cat's.claw -cl:thorn / EN: 'cat's.claw_thorn', ES: 'la espina de la planta uña de gato'
-| "[--][-chee][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {chee} 
-| "[--][-chii][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {chii} 
-| "[--][-tsee][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {tsee} 
-| "[--][-tsei][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp,pointed]" : {tsei} 
+| "[--][-chee][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp-ended,pointed]" : {chee} 
+| "[--][-chii][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp-ended,pointed]" : {chii} 
+| "[--][-tsee][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp-ended,pointed]" : {tsee} 
+| "[--][-tsei][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp-ended,pointed]" : {tsei} 
 # substance-and-color.of.soils 
 # ishikopatsa / =ishiko -patsa / =lime -cl:jelly-like.soil / EN: 'soil.with.abundant.lime.stones'  
 # kityonkapatsari / =kityonka -patsa -ri / =to.be.red -cl:jelly-like.soil -nmz / EN: 'reddish.soil' 
