@@ -213,6 +213,7 @@ TZEpenthesisRule8
       define PWLenitionRule5 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{pi}] _ [{i}] ]; 
       
       define PYLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || [{pi}] _ [{a}] ]; 
+                                                                            # piyatsarekitsoki
       
       define PLenitionRule1 [ "@PHONPROC@"p (->) "@PHONPROC@" || [{no}] _ [{a}] ]; 
                                                                             # noajoni 
