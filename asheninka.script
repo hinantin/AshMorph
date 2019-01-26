@@ -212,6 +212,8 @@ TZEpenthesisRule8
       
       define PWLenitionRule5 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{pi}] _ [{i}] ]; 
       
+      define PYLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || [{pi}] _ [{a}] ]; 
+      
       define PLenitionRule1 [ "@PHONPROC@"p (->) "@PHONPROC@" || [{no}] _ [{a}] ]; 
                                                                             # noajoni 
       define PLenitionRule2 [ "@PHONPROC@"p (->) "@PHONPROC@" || .#. [{o}] _ [{a}] ]; 
@@ -236,6 +238,7 @@ TZEpenthesisRule8
       define KLenitionRule6 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{a}] _ [{i}] ]; ! aitsoki -> a=kitsoki 
 
       define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 .o. PWLenitionRule4 
+ .o. PYLenitionRule1 
  .o. PLenitionRule1 .o.  PLenitionRule2  
  .o. KJLenitionRule1 .o. KJLenitionRule2 
  .o. KLenitionRule2 

@@ -26,7 +26,7 @@ define V=S=CL [
 | "[--][-ha][+VERB.CL:liquid][=liquid]" : "@EP"{ha} ! @CL
 | "[--][-aa][+VERB.CL:liquid][=liquid]" : "@EP"{aa} ! @CL 
 | "[--][-a][+VERB.CL:liquid][=liquid]" : "@EP"{a} ! @CL it provokes too many false entries so don't add it to the list of nominalizer clasiffiers.
-| "[--][-ako][+VERB.CL:vessel][=vessel; recipient; cavity; hand]" : "@EP"{ako} ! @CL 
+| "[--][-ako][+VERB.CL:vessel][=vessel; recipient, container; cavity; hand]" : "@EP"{ako} ! @CL 
 | "[--][-pako][+VERB.CL:your.hand][=your.hand, your.five]" : "@EP"{pako} ! @CL 
 | "[--][-vako][+VERB.CL:hand][=hand]" : "@EP"{vako} ! @CL 
 | "[--][-karaki][+VERB.CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : "@EP"{karaki} ! @CL 
