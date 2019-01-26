@@ -5,6 +5,8 @@ updateservice:
 	@foma -f asheninka.script
 	@cp asheninka.bin /usr/share/hinantin/
 	@/etc/init.d/tcpServerFoma restart
+	@xfst -f asheninka.script
+	@cp asheninka.bin /usr/share/hinantin/asheninka.xfst.bin
 
 compile:
 	@rm -f n-vroot.prq.group1.foma | perl extractEntries.pl --file nroot.prq.foma --file nroot.es.foma --file aroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --file nroot.qu.foma --file oroot.prq.foma --outputfilename "n-vroot.prq.group1.foma" --flag "N@->V" --title "Verbalized entries" --header "NounToVerbPRQin" --replace2 1 --source2 "\" : {" --target2 "[^VBZ]\" : {"
