@@ -457,8 +457,8 @@ define VRootPRQin [
 | "[=eni][VRoot][=to.have]" : {eni}
 ! 
 # --------------------------------------------
-| "[=ha][VRoot][=to.go (ES: ir)]" : {ha} 
-| "[=hat][VRoot][=to.go (ES: ir)]" : {hat} 
+| "[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)]" : {ha} 
+| "[=hat+INF@aantsi.][VRoot][=to.go (ES: ir)]" : {hat} 
 ! 
 | "[=iya][VRoot][=to.go (ES: ir)]" : {iya} 
 | "[=iyaa][VRoot][=to.go (ES: ir)]" : {iyaa} 
