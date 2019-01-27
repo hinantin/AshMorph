@@ -1508,7 +1508,7 @@ define VRootPRQin [
 | "[=pasavako~{'to.hit':pas}{EP:a}{CL:/'hand':vako/}][VRoot][=to.applaud, to.clap (ES: aplaudir)]" : {pasavako}
 | "[=chotank+INF@aantsi.][VRoot][=to.applaud, to.clap (ES: aplaudir)]" : {chotank}
 ! 
-| "[=pashaa][VRoot][=to.go.on.a.visit_to/tour_of.sth. (ES: pasear)]" : {pashaa}
+| "[=pashaa+INF@/EP:t/aantsi.][VRoot][=to.go.on.a.visit_to/tour_of.sth. (ES: pasear)]" : {pashaa}
 ! 
 | "[=pashi][VRoot][=to.give.sth.away, to.give.sth.as.a.gift (ES: regalar); to.lend.sth. (ES: prestar)]" : {pashi}
 ! 
@@ -1538,7 +1538,7 @@ define VRootPRQin [
 ! 
 | "[=pea][VRoot][=to.get.lost; to.lose (ES: perder)]" : {pea}
 | "[=pia][VRoot][=to.get.lost; to.lose (ES: perder)]" : {pia}
-| "[=pi][VRoot][=to.lose (ES: perder)]" : {pi}
+| "[=pi+INF@antsi.][VRoot][=to.lose (ES: perder,, estar.perdido)]" : {pi}
 | "[=pey][VRoot][=to.get.lost; to.lose (ES: perder); to.disappear (ES: desaparecer)]" : {pey}
 | "[=piy][VRoot][=to.get.lost; to.lose (ES: perder); to.disappear (ES: desaparecer)]" : {piy}
 ! 
