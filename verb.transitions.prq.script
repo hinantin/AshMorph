@@ -58,7 +58,7 @@ define S [
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 # o-nint-a-Voro-t-ab-ak-e-ri 
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (RCP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)
-| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+| S=NOUN                                                      (PL=SET1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (V=S=O) (PRNO) (V=S=REL) 
