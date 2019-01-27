@@ -581,10 +581,10 @@ define N=S=CL [
 | "[--][-enka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire;ephemeral]" : {enka} 
 ! 
 ! paapani / EN: 'ash'; ES: 'ceniza' 
-| "[--][-pani][+CL:powdery.substance][=powdery.substance]" : {pani} 
-| "[--][-vani][+CL:powdery.substance][=powdery.substance]" : {vani} 
-| "[--][-pane][+CL:powdery.substance][=powdery.substance]" : {pane} 
-| "[--][-vane][+CL:powdery.substance][=powdery.substance]" : {vane} 
+| "[--][-pani][+CL:powder-like][=powdery.substance,powder-like]" : {pani} 
+| "[--][-vani][+CL:powder-like][=powdery.substance,powder-like]" : {vani} 
+| "[--][-pane][+CL:powder-like][=powdery.substance,powder-like]" : {pane} 
+| "[--][-vane][+CL:powder-like][=powdery.substance,powder-like]" : {vane} 
 ! 
 # classifiers to specify the stone's shape and size 
 | "[--][-pentaki][+CL:grain-like,rectangular][=grain-like, rectangular]" : {pentaki} 
