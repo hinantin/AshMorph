@@ -595,6 +595,8 @@ define N=S=CL [
 | "[--][-teroina][+CL:spherical,solid][=spherical, solid (ES: forma.de.bola)]" : {teroina} ! @CL 
 ! 
 | "[--][-paite][+CL:period][=during, at.the.time.of.sth., period]" : {paite} 
+! 
+| "[--][-ampoiri][+CL:footprint][=footprint]" : {ampoiri} ! @CL 
 ];
                    
 # ****************************************
