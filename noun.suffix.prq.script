@@ -314,6 +314,8 @@ define N=S=CL [
 | "[--][-eni][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {eni}
 | "[--][-ini][+CL:distant/surrogate.kin][=distant/surrogate.kin]" : {ini}
 
+| "[--][-chempoki][+CL:naked][=naked]" : {chempoki}
+
 # saventarochii / =saventaro -chii / =cat's.claw -cl:thorn / EN: 'cat's.claw_thorn', ES: 'la espina de la planta uña de gato'
 | "[--][-chee][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp(-ended),pointed; crescent-shaped]" : {chee} 
 | "[--][-chii][+CL:thorn,spine][=thorn,spine; spiny,thorny,sharp(-ended),pointed; crescent-shaped]" : {chii} 
