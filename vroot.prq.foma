@@ -29,9 +29,9 @@ define VRootPRQin [
 ! 
 | "[=am][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {am}
 | "[=aam][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aam}
-| "[=aamavent][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavent}
-| "[=aamavint][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavint}
-| "[=aamaavent][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamaavent}
+| "[=aamavent+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido, prevenir); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavent}
+| "[=aamavint+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavint}
+| "[=aamaavent+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamaavent}
 ! 
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound; to.destroy (ES: malograr)]" : {amashi}
 ! 
