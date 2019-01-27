@@ -32,4 +32,5 @@ define V=S=CL [
 | "[--][-karaki][+VERB.CL:fractional][=a.piece.of.sth.that.has.been.cut (ES: un.pedazo.de.algo.que.ha.sido.cortado)]" : "@EP"{karaki} ! @CL 
 | "[--][-henka][+VERB.CL:inmaterial][=inmaterial;odor;sound;daylight,fire;ephemeral]" : "@EP"{henka} ! @CL 
 | "[--][-teroina][+VERB.CL:spherical,solid][=spherical, solid (ES: forma.de.bola)]" : "@EP"{teroina} ! @CL 
+| "[--][-ampoiri][+VERB.CL:footprint][=footprint]" : "@EP"{ampoiri} ! @CL 
 ];
