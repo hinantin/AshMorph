@@ -4911,7 +4911,7 @@ define NRootPRQin [
 | "[=tsiteniri][NRoot][=night (ES: noche)]" : {tsiteniri}
 | "[=tsireniri][NRoot][=night (ES: noche)]" : {tsireniri}
 | "[=tsitini][NRoot][=night (ES: noche)]" : {tsitini}
-| "[=tsiteni][NRoot][=night (ES: noche)]" : {tsiteni}
+| "[=tsiteni][NRoot][=night (ES: noche)]" : {tsiteni} ! @VCMP 
 | "[=tsitene][NRoot][=night (ES: noche)]" : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, anochecer)] 
 ! 
 | "[=tsitoiki][NRoot][=bean (ES: frijol)]" : {tsitoiki}
