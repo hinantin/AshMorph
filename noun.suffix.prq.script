@@ -339,7 +339,7 @@ define N=S=CL [
 | "[--][-nki][+CL:snake][=snake.sp.]" : {nki} ! @CL 
 | "[--][-nke][+CL:snake][=snake.sp.]" : {nke} ! @CL 
 ! 
-| "[--][-keni][+CL:worm][=worm.sp.]" : {keni} 
+| "[--][-keni][+CL:worm][=worm.sp.,non-human.worm]" : {keni} 
 #-----------------------------------------------
 #           Provenance / Demonyms 
 #-----------------------------------------------
