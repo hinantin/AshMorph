@@ -27,15 +27,6 @@ Our analysis of the collected text corpus, shows that Ashaninka uses both partia
 2) koniha 'to.appear' -> koniha~koniha 'to.appear.again-and-again'
 ```
 
-#### Nominal root verbalization
-
-We represent this process as follows:
-
-```
-<e><p><l lang="es">maldad</l><r>matsi<s n="add_mi"/>+EP@t+INF@aantsi</r></p><par n="N@->V"/></e>
-<e><p><l lang="en">to.be.a.witch</l><r>matzi<s n="add_mi"/>+EP@t+INF@aantsi</r></p><par n="N@->V"></e>	
-```
-
 Compiling with XFST or FOMA
 ===============================
 
