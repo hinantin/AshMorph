@@ -988,7 +988,7 @@ define VRootPRQin [
 | "[=komentsa][VRoot][=to.hunt (ES: cazar)]" : {komentsa}
 ! 
 | "[=koya][VRoot][=to.gather]" : {koya}
-| "[=koye][VRoot][=to.gather]" : {koye}
+| "[=koye][VRoot][=to.gather; to.harvest.manually]" : {koye}
 ! 
 | "[=koy][VRoot][=to.select (ES: seleccionar)]" : {koy}
 ! 
