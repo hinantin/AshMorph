@@ -588,7 +588,10 @@ define N=S=CL [
 ! 
 # classifiers to specify the stone's shape and size 
 | "[--][-pentaki][+CL:grain-like,rectangular][=grain-like, rectangular]" : {pentaki} 
+! 
 | "[--][-meronta][+CL:flat,broad,level][=flat, broad, level]" : {meronta} 
+| "[--][-metara][+CL:flat,circular][=flat,circular]" : {metara}
+! 
 | "[--][-petoki][+CL:grain-like,small][=grain-like, small]" : {petoki} 
 ! kisaateroinatakemi / =kisaa -teroina -t -ak -e =mi / EN: 'your.head.is.black' 
 ! kipatsiteroina / =kipatsi -teroina
