@@ -31,7 +31,7 @@ define IdeoPRQin [
 ! 
 | "[=tyak+whistle.lang.][Ideo:CJO][=action.of.hitting.sth./sb.]" : {tyak} 
 ! 
-| "[=tek+s.redup.word][Ideo:PRQ][=running.briskly; sound/action.of.sb./sth.running (ES: sonido/acción.de.algo/algn.corriendo)]" : {tek} ! \cite[p\'{a}g. 36]{anderson:cuentos:85}
+| "[=tek+s.redup.word@3X.][Ideo:PRQ][=running.briskly; sound/action.of.sb./sth.running (ES: sonido/acción.de.algo/algn.corriendo)]" : {tek} ! \cite[p\'{a}g. 36]{anderson:cuentos:85}
 | "[=tok+s.redup.word][Ideo:PRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting.(a.solid.substance)]" : {tok}
 ! 
 | "[=she+s.redup.word][Ideo:PRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)]" : {she}
@@ -257,7 +257,7 @@ define IdeoPRQin [
 | "[=shero][Ideo:PRQ][=slipping.and.falling.on.the_surface]" : {shero} 
 ! 
 | "[=tapo+s.redup.word][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
-| "[=tapo+s.redup.word][Ideo:PRQ][=leaping.like.a_frog]" : {tapo}
+| "[=tapo+s.redup.word@2X.][Ideo:PRQ][=leaping.like.a_frog]" : {tapo}
 ! 
 | "[=vanik][Ideo:PRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
 ! 
