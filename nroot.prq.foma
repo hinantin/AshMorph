@@ -3870,7 +3870,7 @@ define NRootPRQin [
 | "[=shimori+n.m.+inal@ntsi.][NRoot][=saliva, spit(tle) (ES: saliva)]" : {shimori}
 ! 
 | "[=shimpana+n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {shimpana}
-| "[=shimpanatsa~shimpana{CL:/:tsa/}][NRoot][=vine.that.grows.in.the.shimpana-tree]" : {shimpanatsa}
+| "[=shimpanatsa~shimpana{CL:/'long.flexible.thin':tsa/}][NRoot][=vine.that.grows.in.the.shimpana-tree]" : {shimpanatsa}
 ! 
 | "[=shimpi+m.][NRoot][=armored.catfish.sp. (ES: sp.de.carachama)]" : {shimpi}
 ! 
@@ -5203,7 +5203,7 @@ define NRootPRQin [
 | "[=yaaki+n.m.+inal@ntsi.][NRoot][=tear (ES: lágrima)]" : {yaaki}
 | "[=yaki+n.m.+inal@ntsi.][NRoot][=tear (ES: lágrima)]" : {yaki}
 # nojaqui / nohaki / no- =ha -ki / 1sg.poss- =cl:liquid -cl:small,round(ed) 
-| "[=haki~{CL:/liquid:ha/}{CL:/small,round(ed):ki/}][NRoot][=tear (ES: lágrima)]" : {haki} ! @VCMP 
+| "[=haki~{CL:/liquid:ha/}{CL:/'small,round(ed)':ki/}][NRoot][=tear (ES: lágrima)]" : {haki} ! @VCMP 
 ! 
 | "[=yampantsa+poss@te.][NRoot][=song]" : {yampantsa}
 ! 
