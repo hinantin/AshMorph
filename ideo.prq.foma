@@ -225,7 +225,7 @@ define IdeoPRQin [
 | "[=panek+s.redup.word][Ideo:PRQ][=digging.soil.in.scoops]" : {panek} 
 ! 
 # kori: quiet.sound.made.in.the.throat.during.the.action.of.gulping.water
-| "[=kori+s.redup.word][Ideo:PRQ][=action.of.continuously.gulping.water; swallowing.liquid; action.of.gulping.a.drink]" : {kori} 
+| "[=kori+s.redup.word@2X.][Ideo:PRQ][=action.of.continuously.gulping.water; swallowing.liquid; action.of.gulping.a.drink]" : {kori} 
 | "[=kori][Ideo:PRQ][=action.of.gulping.water.once; swallowing.liquid; action.of.gulping.a.drink][--][-k][+PUNCTUAL.ACTN]" : {korik} 
 ! 
 | "[=chek+s.redup.word][Ideo:PRQ][=chopping.wood/trees/shrub]" : {chek} 
