@@ -679,12 +679,15 @@ define N=S=AUG [
 # tenarini / =tena -ri+m. -ni / =to.weigh -adj -aug / ES: 'too.heavy', ES: 'demasiado.pesado' 
 # kasankarini / =kasanka -ri+m. -ni / ES: 'es.muy.perfumada'
   "[--][-ni][DEGR][+AUG_INTNS]" : [{ni}] 
+# ------------------------------------------------
+# Limited to affixation to nouns which are natural objects 
 # impanekiite / =impaneki -ite / =fine_sand -aug / EN: 'sandy.area', ES: 'arenal'  
 # keshiisatziite / =keshii -satzi-ite / =mountainous_grassland -cl:provenance -aug / EN: 'big.mountainous_grasslander', ES: 'pajonalino'  
 # antearoite / =antearo -ite / =big -aug / EN: 'very.big', ES: 'muy.grande'  
-# impokiroite / EN: 'the.many.stars' 
-| "[--][-ite][DEGR][+AUG][=many; expansive]" : [{ite}] 
+# impokiroite / =impokiro -iterative / EN: 'the.many.stars' 
+| "[--][-ite][DEGR][+AUG][=many; expansive ()]" : [{ite}] 
 | "[--][-i^te][DEGR][+AUG][=many; expansive]" : "@I@"{te} 
+# ------------------------------------------------
 # ishaninkaperori / i- =shani -nka -pero -ri / 3m.poss- =to.be.of.the.same.group -nmz -aug -rel / EN: 'his.true.mate', ES: 'su.verdadero.amigo'  
 # is pero more a verbal augmentive suffix ??? 
 | "[--][-pero][DEGR][+AUG]" : [{pero}]
