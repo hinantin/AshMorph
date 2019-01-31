@@ -6,6 +6,7 @@
 
 # IdeoRedupSylPRQ.foma
 
+# The syllable repetition/reduplication indicates a continuous action. 
 # ri, ro, ra, pi, po, mi, vi, ni 
 define RedupSyl=RI [ 
   "[^2X]" : {ri} 
@@ -188,7 +189,7 @@ define IdeoRedupSylin=RO [
 # ---------------------------------------------------------
 # ro 
   "[=sero+redup.syl@ro.][Ideo:PRQ][=sliding.downward]" : {sero}
-| "[=soro+redup.syl@ro.][Ideo:PRQ][=action/sound.of.a.serpent.sliding.downward.a_hill]" : {soro}
+| "[=soro+redup.syl@ro.][Ideo:PRQ][=action/sound.of.a.serpent.sliding.downward.a_hill; snake.gliding]" : {soro}
 | "[=soro+redup.syl@ro.][Ideo:PRQ][=action.of.fermentation (ES: acción.de.fermentación)]" : {soro}
 | "[=hero+redup.syl@ro.][Ideo:PRQ][=sound.of.a_large_fire, sound.of.fire]" : {hero}
 | "[=tsakoro+redup.syl@ro.][Ideo:PRQ][=emptying.water.bottle]" : {tsakoro}
