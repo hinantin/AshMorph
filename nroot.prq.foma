@@ -4700,14 +4700,16 @@ define NRootPRQin [
 | "[=komashiki][NRoot][=psidium (ES: guayaba; botany.nm.: psidium.guajaba)]" : {komashiki}
 | "[=komashki][NRoot][=tree.sp. (ES: ayahuma; sci.nm.: coroupita.guianensis)]" : {komashki}
 ! 
-| "[=tooso][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra)]" : {tooso}
+# ------------------------------------------------------------------------------ 
+| "[=tooso][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra; sci.nm.: oxydoras.niger)]" : {tooso}
+| "[=toso][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra; sci.nm.: oxydoras.niger)]" : {toso}
+| "[=toroshoki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: oxydoras.niger)]" : {toroshoki}
+| "[=toroshoki_toso][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: oxydoras.niger)]" : {toroshoki_toso}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=toronti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero)]" : {toronti}
 ! 
 | "[=torooko][NRoot][=fish.sp. (ES: sp.de.pez, chio.chio, chiochio; sci.nm.: curimatus.cillata)]" : {torooko}
-! 
-| "[=toroshoki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {toroshoki}
-| "[=toroshoki_toso][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: oxydoras.niger)]" : {toroshoki_toso}
 ! 
 | "[=toropeeti][NRoot][=person's.name, NP]" : {toropeeti}
 | "[=toropetzi][NRoot][=person's.name, NP]" : {toropetzi}
