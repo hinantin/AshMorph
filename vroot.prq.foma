@@ -1706,7 +1706,7 @@ define VRootPRQin [
 | "[=potesa][VRoot][=to.ooze.liquid (ES: salir.líquido)]" : {potesa}
 | "[=potesaa][VRoot][=to.ooze.liquid (ES: salir.líquido)]" : {potesaa}
 ! 
-| "[=potso][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto]" : {potso}
+| "[=potso+INF@/EP:t/aantsi.][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto]" : {potso}
 ! 
 # batir: derribar a golpes algo (pared/edificio) 
 | "[=ponk][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {ponk}
@@ -1872,7 +1872,7 @@ define VRootPRQin [
 | "[=shinko][VRoot][=to.roast; to.grill; to.smoke.sth. (e.g.: ham,fish; ES: ahumar)]" : {shinko}
 | "[=menko][VRoot][=to.smoke.sth. (e.g.: fish; ES: ahumar)]" : {menko}
 ! 
-| "[=shintsa][VRoot][=to.string (ES: ensartar)]" : {shintsa}
+| "[=shintsa][VRoot][=to.string (ES: ensartar); to.be.strung.on.a.line]" : {shintsa}
 ! 
 ! shintsiri / =shintsi -ri / =to.be.strong -nmz / EN: 'robust, sturdy'; ES: 'robusto' 
 | "[=shintsi][VRoot][=to.be.strong]" : {shintsi}
