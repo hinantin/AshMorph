@@ -9,12 +9,12 @@
 # The syllable repetition/reduplication indicates a continuous action. 
 # ri, ro, ra, pi, po, mi, vi, ni 
 define RedupSyl=RI [ 
-  "[^2X]" : {ri} 
-| "[^3X]" : {riri} 
-| "[^4X]" : {ririri} 
-| "[^5X]" : {riririri} 
-| "[^6X]" : {ririririri} 
-| "[^7X]" : {riririririri} 
+  "[^2X][=continuous.action]" : {ri} 
+| "[^3X][=continuous.action]" : {riri} 
+| "[^4X][=continuous.action]" : {ririri} 
+| "[^5X][=continuous.action]" : {riririri} 
+| "[^6X][=continuous.action]" : {ririririri} 
+| "[^7X][=continuous.action]" : {riririririri} 
 ];
 
 define RedupSyl=RE [ 
