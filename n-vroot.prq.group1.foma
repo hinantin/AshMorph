@@ -72,7 +72,7 @@ define NounToVerbPRQin [
 | "[=menko+n.m.+inal@tsi:tzi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)][^VBZ]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)][^VBZ]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=menkori+n.m.][NRoot][=cloud (ES: nube)]::[=to.be.cloudy/foggy/misty (ES: estar.brumoso)][^VBZ]" : {menkori} ! N@->V::[=to.be.cloudy/foggy/misty (ES: estar.brumoso)]
-| "[=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)][^VBZ]" : {moro} ! N@->V @CMP @VCMP 
+| "[=moro+n.m.+inal@n/tsi.][NRoot][=hole (ES: hueco)][^VBZ]" : {moro} ! N@->V @CMP @VCMP 
 | "[=motya][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ]" : {motya} ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=moti+inal@tsi.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement]::[= (ES: vivir)][^VBZ]" : {nampi} ! N@->V::[= (ES: vivir)] +ADDUPPER@. @ADDLOWER@ 
@@ -158,7 +158,7 @@ define NounToVerbPRQin [
 | "[=shampitsi][AdjRoot][=miser (ES: avaro, mezquino)][^VBZ]" : {shampitsi} ! N@->V
 | "[=tapo+s.redup.word][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object][^VBZ]" : {tapo} ! N@->V @CMP 
 | "[=pitsopitso][Ideo:PRQ][=woman.walking.with.gyrating.hips]::[= (ES: girar); to.dance (ES: bailar)][^VBZ]" : {pitsopitso} ! N@->V::[= (ES: girar); to.dance (ES: bailar)]
-| "[=haran][Ideo:PRQ][=sound/action.made.by.a.falling/breaking.branch/tree][^VBZ]" : {haran} ! N@->V
+| "[=haran][Ideo:PRQ][=sound/action.made.by.a.falling/breaking.branch/tree; thud!.(of.a.fallen.tree)][^VBZ]" : {haran} ! N@->V
 | "[=aparoni][Numeral:PRQ][=1 ~ one (ES: uno)][^VBZ]" : {aparoni} ! N@->V
 | "[=apite][Numeral:PRQ][=2 ~ two (ES: dos)][^VBZ]" : {apite} ! N@->V
 | "[=mava][Numeral:PRQ][=3 ~ three (ES: tres)][^VBZ]" : {mava} ! N@->V  @CMP 

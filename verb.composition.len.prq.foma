@@ -33,7 +33,7 @@ define V=S=LEN=noun [
 | "[--][=meronta][IncNRoot][=flat (ES: objeto.plano-y-chato)]" : {meronta} ! @VCMP 
 | "[--][=mitziki][IncNRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
 | "[--][=morinte][IncNRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
-| "[--][=moro+n.m.+inal@tsi.][IncNRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
+| "[--][=moro+n.m.+inal@n/tsi.][IncNRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
 | "[--][=nehi+inal@tsi.][IncNRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
 | "[--][=pante+n.m.+inal@ntsi.][IncNRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
 | "[--][=pori+n.m.+inal@tsi.][IncNRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
@@ -52,7 +52,7 @@ define V=S=LEN=noun [
 | "[--][=tsonkiri+poss@ti.][IncNRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]" : {tsonkiri} ! @VCMP 
 | "[--][=tona+n.m.+inal@tsi.][IncNRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
 | "[--][=vatsa+n./m.+inal@tsi.][IncNRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
-| "[--][=haki~{CL:/liquid:ha/}{CL:/small,round(ed):ki/}][IncNRoot][=tear (ES: lágrima)]" : {haki} ! @VCMP 
+| "[--][=haki~{CL:/liquid:ha/}{CL:/'small,round(ed)':ki/}][IncNRoot][=tear (ES: lágrima)]" : {haki} ! @VCMP 
 | "[--][=yereto+n.m.+inal@tsi.][IncNRoot][=knee (ES: rodilla)]" : {yereto} ! @VCMP 
 | "[--][=yerito+n.m.+inal@tsi.][IncNRoot][=knee (ES: rodilla)]" : {yerito} ! @VCMP 
 # @VCMP			verb composition 
