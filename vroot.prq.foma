@@ -852,7 +852,7 @@ define VRootPRQin [
 | "[=kisoshire][VRoot][=to.doubt (ES: dudar)]" : {kisoshire} 
 | "[=tseenkashire][VRoot][=to.doubt (ES: dudar)]" : {tseenkashire} 
 ! 
-| "[=kit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {kit}
+| "[=kit+INF@aantsi.][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(líquido/comida))]" : {kit}
 | "[=yiit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yiit} ! to be checked
 | "[=yet][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yet} 
 ! 
@@ -2185,7 +2185,7 @@ define VRootPRQin [
 | "[=otzika][VRoot][=to.capture (ES: cautivar); to.enslave (ES: esclavizar); to.adopt (ES: adoptar)]" : {otzika} 
 ! 
 | "[=tsika][VRoot][=to.sieve, to.sift.sth. (ES: cernir.algo, colar.algo)]" : {tsika} 
-| "[=tsikaa][VRoot][=to.sieve, to.sift.sth. (ES: cernir.algo, colar.algo)]" : {tsikaa} 
+| "[=tsikaa+INF@/EP:t/aantsi.][VRoot][=to.sieve, to.sift.sth. (ES: cernir.algo, colar.algo)]" : {tsikaa} 
 | "[=atsikaa][VRoot][=to.sieve, to.sift.sth. (ES: cernir.algo, colar.algo)]" : {atsikaa} 
 ! 
 | "[=tsikana][VRoot][=pepper]" : {tsikana}
