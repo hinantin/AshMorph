@@ -51,6 +51,9 @@ define NegPRQin [
 | "[=airo][Neg][=NEG.IRR][--][=ra+medial][Adv][+DEM]" : {airora}
 | "[=eero][Neg][=NEG.IRR][--][=ra+medial][Adv][+DEM]" : {eerora}
 ! 
+# Caquinte loan words?
+| "[=ato][Neg][=NEG]" : {ato}
+| "[=aato][Neg][=NEG]" : {aato}
 # Copula P5C
 # Negative copula 
 # adv. ??? 
