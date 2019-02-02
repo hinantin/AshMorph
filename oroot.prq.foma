@@ -45,6 +45,7 @@ define ORootPRQin [
 # ai / PP 
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitaki}
 | "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]::[=it.is.the.case (ES: así.es)]" : {aitake}
+| "[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL][--][-mpa][+DUB]::[=the.situation.was]" : {aitakempa}
 | "[=ai][PostPol][=PP][--][-ite][+CMPL][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]::[=it.is.totally.the.case]" : {aiitetake}
 | "[=ai][PostPol][=PP][--][-keti][+URGENT]::[=(eating).QUICKLY (ES: (comer).rápidamente)]" : {aiketi}
 | "[=ai][PostPol][=PP][--][-kete][+URGENT]::[=(eating).QUICKLY (ES: (comer).rápidamente)]" : {aikete}
