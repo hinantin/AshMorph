@@ -1872,7 +1872,9 @@ define VRootPRQin [
 | "[=shinko][VRoot][=to.roast; to.grill; to.smoke.sth. (e.g.: ham,fish; ES: ahumar)]" : {shinko}
 | "[=menko][VRoot][=to.smoke.sth. (e.g.: fish; ES: ahumar)]" : {menko}
 ! 
-| "[=shintsa][VRoot][=to.string (ES: ensartar); to.be.strung.on.a.line]" : {shintsa}
+! shintsakirentsi / 
+| "[=shintsa+INF@/EP:t/aantsi.][VRoot][=to.string (ES: ensartar); to.be.strung.on.a.line]" : {shintsa}
+| "[=oshintsa+INF@/EP:t/aantsi.][VRoot][=to.string (ES: ensartar); to.be.strung.on.a.line]" : {oshintsa}
 ! 
 ! shintsiri / =shintsi -ri / =to.be.strong -nmz / EN: 'robust, sturdy'; ES: 'robusto' 
 | "[=shintsi][VRoot][=to.be.strong]" : {shintsi}
