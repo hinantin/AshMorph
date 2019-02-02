@@ -3182,7 +3182,7 @@ define NRootPRQin [
 | "[=pankiri+m.+inal@ntsi.][NRoot][=products]" : {pankiri}
 | "[=paNkire/pãkire+m.+inal@ntsi.][NRoot:CPB][=plant (ES: planta)]" : {pãkire}
 ! 
-| "[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP
+| "[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP @VCMP 
 | "[=pãko+n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 ! 
 | "[=pankoshi+n.m.+inal@ntsi.][NRoot][=hut, hovel (ES: choza.(para.cazar.aves.salvajes))]" : {pankoshi} 

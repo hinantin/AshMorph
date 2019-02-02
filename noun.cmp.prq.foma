@@ -27,7 +27,7 @@ define NRootCmpPRQin [
 | "[--][=noma+n.m.+inal@tsi.][NRoot][=jaw (ES: mandíbula, quijada)]" : {noma} ! @CMP
 | "[--][=panka+n.m.+inal@tsi.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
 | "[--][=pankaina+inal@tsi.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
-| "[--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP
+| "[--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP @VCMP 
 | "[--][=pãko+n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 | "[--][=peshi+n.m.+inal@tsi.][NRoot][=shoot (ES: retoño)]" : {peshi} ! @CMP 
 | "[--][=peyari+m.][NRoot][=ghost; demon; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 

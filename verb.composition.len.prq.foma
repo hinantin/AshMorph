@@ -35,6 +35,7 @@ define V=S=LEN=noun [
 | "[--][=morinte][IncNRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
 | "[--][=moro+n.m.+inal@n/tsi.][IncNRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
 | "[--][=nehi+inal@tsi.][IncNRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
+| "[--][=panko+n.m.+inal@tsi.][IncNRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP @VCMP 
 | "[--][=pante+n.m.+inal@ntsi.][IncNRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
 | "[--][=pori+n.m.+inal@tsi.][IncNRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
 | "[--][=vori+n.m.+inal@tsi.][IncNRoot][=leg (ES: pierna); thigh]" : {vori} ! @VCMP 
