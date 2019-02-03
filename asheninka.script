@@ -511,16 +511,16 @@ TZEpenthesisRule8
       source punctuation.foma
         define PunctuationMarks Punctuation;
       define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|IdeoRedupSyl|NominalizedVerb|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 
-#NORMAL.o. Orthography .o. UpperCase
+.o. Orthography .o. UpperCase #NORMAL
 ;
 
-#NORMAL      read regex Ashaninka;
+      read regex Ashaninka; #NORMAL
 
-#NORMAL      save stack asheninka.bin
+      save stack asheninka.bin #NORMAL
 
-read regex Ashaninka .l;
-write att spellcheck.att
-clear
-read att spellcheck.att
-read cmatrix typo.matrix
-save stack spellcheck.fst
+#SPELLINGSUGGESTION read regex Ashaninka .l;
+#SPELLINGSUGGESTION write att spellcheck.att
+#SPELLINGSUGGESTION clear
+#SPELLINGSUGGESTION read att spellcheck.att
+#SPELLINGSUGGESTION read cmatrix typo.matrix
+#SPELLINGSUGGESTION save stack spellcheck.fst
