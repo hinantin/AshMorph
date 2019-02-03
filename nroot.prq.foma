@@ -1760,8 +1760,8 @@ define NRootPRQin [
 | "[=kiriki][NRoot][=classical.harpoon-like.arrow_tip (ES: punta.de.flecha.hecha.de.chonta)]" : {kiriki}
 ! 
 | "[=kiri+n.m.+inal@tsi.][NRoot][=nose (ES: nariz); nostrils]" : {kiri}
-| "[=kirina+inal@tsi.][NRoot][=nose]" : {kirina}
-| "[=kirimashi][NRoot][=nose]" : {kirimashi}
+| "[=kirina+inal@tsi.][NRoot][=nose (ES: nariz)]" : {kirina}
+| "[=kirimashi][NRoot][=nose (ES: nariz)]" : {kirimashi}
 ! 
 | "[=kiriiki+m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriiki}
 | "[=kiriki+m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriki}
@@ -5137,6 +5137,7 @@ define NRootPRQin [
 | "[=tzivyoriki][NRoot][=the.salt.place]" : {tzivyoriki} ! to be checked !!! 
 ! 
 | "[=tona+n.m.+inal@tsi.][NRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
+| "[=vontso][NRoot][=snout (ES: hocico)]" : {vontso}
 ! 
 | "[=tonche][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tonche}
 | "[=tunche][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunche}
