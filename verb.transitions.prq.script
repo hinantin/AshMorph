@@ -57,7 +57,7 @@ define S [
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) ! noun root: noun, noun+noun 
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 # o=nint-a-Voro-t-ab-ak-e-ri 
-# y=vetsik-a-Vanko-t-e 
+# y=ovetsik-a-Vanko-t-e 
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (RCP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)
 |        ("@PHONPROCINCNOUN@"V=S=LEN=noun)                    (RCP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)
 # 

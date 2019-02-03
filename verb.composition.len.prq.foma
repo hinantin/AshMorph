@@ -40,7 +40,6 @@ define V=S=LEN=noun [
 | "[--][=pori+n.m.+inal@tsi.][IncNRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
 | "[--][=vori+n.m.+inal@tsi.][IncNRoot][=leg (ES: pierna); thigh]" : {vori} ! @VCMP 
 | "[--][=poro+n.m.+inal@tsi.][IncNRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
-| "[--][=voro][IncNRoot][=face (ES: cara, rostro)]" : {voro} ! @VCMP 
 | "[--][=pitziki][IncNRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
 | "[--][=shempa+n.m.+inal@tsi.][IncNRoot][=shoulder (ES: hombro; PT: ombro)]" : {shempa} ! @VCMP 
 | "[--][=shire+n.m.+inal@tsi.][IncNRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire} ! @VCMP
