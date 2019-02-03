@@ -1208,11 +1208,11 @@ define VRootPRQin [
 ! 
 | "[=nampi][VRoot][=to.be.in.big.quantity (ES: abundar)]" : {nampi}
 ! 
-| "[=nary][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {nary}
-| "[=nare][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {nare}
+| "[=nary+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {nary}
+| "[=nare+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {nare}
 | "[=nari][VRoot][=to.lie.(on.the.ground)]" : {nari}
-| "[=onory][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {onory}
-| "[=omary][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {omary}
+| "[=onory+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {onory}
+| "[=omary+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {omary}
 | "[=nary][VRoot][=to.lie.prostrate]" : {nary}
 ! 
 | "[=nesank][VRoot][=to.peep.at.sb/sth. (ES: asomarse, mirar.a.hurtadillas, atisbar)]" : {nesank}
