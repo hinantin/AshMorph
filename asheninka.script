@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"]];
        define Cleanup [Cleanup2];
 
       source ortography.foma 
@@ -378,10 +378,14 @@ TZEpenthesisRule8
 
       define CompositeVerbRoot [ (V=S=noun) ("@PHONPROCCMPNOUN@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
+      define PWLenitionRuleIncNoun1 [ "@EP"p (->) "@PHONPROCINCNOUN@"v || [{a}] _ [{a}] ]; 
+
+      define LenitionIncNoun [ PWLenitionRuleIncNoun1 ];  
+
       ############################
       #      Verb transducer     #
       ############################
-      define Verb [ [ [ (Pref) [VRootPRQ] ] | [VRootREDUPin] ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. Lenition .o. VerbFeatRestr;
+      define Verb [ [ [ (Pref) [VRootPRQ] ] | [VRootREDUPin] ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. LenitionIncNoun .o. VerbFeatRestr;
       #define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Lenition .o. VerbFeatRestr;
       
       ##########################
