@@ -1149,8 +1149,8 @@ define VRootPRQin [
 | "[=mishi][VRoot][=to.dream (ES: soñar)]" : {mishi}
 ! 
 | "[=mitsaink][VRoot][=to.be.in.line]" : {mitsaink}
-| "[=ovetsaink][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {ovetsaink}
-| "[=vetsaink][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {vetsaink}
+| "[=ovetsaink+INF@aantsi.][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {ovetsaink}
+| "[=vetsaink+INF@aantsi.][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {vetsaink}
 | "[=vitsaink][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {vitsaink}
 | "[=oveshintsa][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {oveshintsa}
 | "[=ovetseenk][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {ovetseenk}
