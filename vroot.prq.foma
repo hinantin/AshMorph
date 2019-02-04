@@ -2037,12 +2037,12 @@ define VRootPRQin [
 ! 
 | "[=tarompi+sem@f.tech.][VRoot][=to.make.a.dam.with.stones (ES: hacer.represa.con.piedras)]" : {tarompi}
 ! 
-| "[=tash][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tash}
-| "[=tashe+INF@antsi.][VRoot][=to.be.hungry (ES: tener.hambre, estar.con.apetito)]" : {tashe}
-| "[=tashey][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tashey}
+| "[=tash+INF@agantsi.][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tash}
+| "[=tashe+INF@(a)antsi.][VRoot][=to.be.hungry (ES: tener.hambre, estar.con.apetito)]" : {tashe}
+| "[=tashey+INF@aantsi.][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tashey}
 | "[=tase][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tase}
 ! to roast with coal
-| "[=tashi][VRoot][=to.roast.with.coal (ES: asar)]" : {tashi}
+| "[=tashi+INF@/EP:t/aantsi.][VRoot][=to.roast.with.coal (ES: asar)]" : {tashi}
 ! 
 | "[=tasonk+INF@aantsi.][VRoot][=to.blow (ES: soplar); to.fan; to.bless (ES: bendecir)]" : {tasonk}
 | "[=tahonk+INF@aantsi.][VRoot][=to.blow (ES: soplar); to.fan]" : {tahonk}
