@@ -1401,11 +1401,11 @@ define VRootPRQin [
 | "[=oviint][VRoot][=to.plant.manioc.stalk (ES: sembrar.(tallos.de.yuca))]" : {oviint}
 | "[=vint][VRoot][=to.sow.the.cassava.seed (ES: sembrar.con.la.semilla.de.la.yuca)]" : {vint}
 ! 
-| "[=ote][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board]" : {ote}
-| "[=oti][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board]" : {oti}
+| "[=ote+INF@/EP:t/aantsi.][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board (ES: embarcar)]" : {ote}
+| "[=oti+INF@/EP:t/aantsi.][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board (ES: embarcar)]" : {oti}
 | "[=otey][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)]" : {otey}
 | "[=otiy][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)]" : {otiy}
-| "[=te][VRoot][=to.take.sth.; to.insert (ES: meter); to.board]" : {te}
+| "[=te+INF@/EP:t/aantsi.][VRoot][=to.take.sth.; to.insert (ES: meter); to.board (ES: embarcar)]" : {te}
 | "[=tet][VRoot][=to.fill]" : {tet}
 # notetentapintarori
 | "[=tetent][VRoot][=to.fill (ES: llenar)]" : {tetent}

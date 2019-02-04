@@ -11,7 +11,7 @@ updateservice:
 updatespellchecker:
 	@sed 's/\.o\. Orthography/#\.o\. Orthography/g' asheninka.script > asheninka.script.bak
 	@foma -f asheninka.script.bak
-	@cp asheninka.bin spellchecking/error_detection.fst
+	@cp asheninka.bin /usr/share/hinantin/error_detection.fst
 	@rm -f asheninka.script.bak
 	@sed 's/\.o\. Orthography/#\.o\. Orthography/g' asheninka.script > asheninka.script.bak
 	@perl -pi.bak -e 's/read regex Ashaninka;/#read regex Ashaninka;/g' asheninka.script.bak
@@ -23,7 +23,7 @@ updatespellchecker:
 	@perl -pi.bak -e 's/#read cmatrix typo.matrix/read cmatrix typo.matrix/g' asheninka.script.bak
 	@perl -pi.bak -e 's/#save stack error_correction.fst/save stack error_correction.fst/g' asheninka.script.bak
 	@foma -f asheninka.script.bak
-	@cp error_correction.fst spellchecking/error_correction.fst
+	@cp error_correction.fst /usr/share/hinantin/error_correction.fst
 	@rm -f asheninka.script.bak asheninka.script.bak.bak error_correction.fst
 
 compile:
