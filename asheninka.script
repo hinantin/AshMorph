@@ -522,7 +522,7 @@ TZEpenthesisRule8
       save stack asheninka.bin 
 
 # SPELLING SUGGESTION 
-#read regex Ashaninka .l; 
+#read regex Ashaninka .l; # Projection 
 #write att spellcheck.att 
 #clear 
 #read att spellcheck.att 
