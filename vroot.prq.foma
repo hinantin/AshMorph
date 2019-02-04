@@ -1913,10 +1913,12 @@ define VRootPRQin [
 ! oshirovantari 
 | "[=shirov][VRoot][=to.laugh.at.sb.]" : {shirov}
 ! 
+# ----------------------------------------------------------------------
 | "[=shi+INF@/EP:t/aantsi.][VRoot][=to.defecate.on.sth. (ES: defecar)]" : {shi}
 | "[=shit+INF@aantsi.][VRoot][=to.defecate.on.sth. (ES: defecar)]" : {shit}
 ! shitijenkari / =shiti -jenka -ri / ES: 'apestoso' 
-| "[=shiti][VRoot][=to.defecate.on.sth. (ES: defecar)]" : {shiti}
+| "[=shiti+INF@/EP:t/UNK.][VRoot][=to.stink (ES: apestar, tener.olor)]" : {shiti}
+# ----------------------------------------------------------------------
 ! 
 | "[=shitako][VRoot][=to.get.well]" : {shitako}
 ! 
