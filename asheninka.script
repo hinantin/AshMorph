@@ -527,4 +527,4 @@ TZEpenthesisRule8
 #clear 
 #read att spellcheck.att 
 #read cmatrix typo.matrix 
-#save stack spellcheck.fst 
+#save stack error_correction.fst 

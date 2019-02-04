@@ -7,9 +7,23 @@ updateservice:
 	@/etc/init.d/tcpServerFoma restart
 	@xfst -f asheninka.script
 	@cp asheninka.bin /usr/share/hinantin/asheninka.xfst.bin
+
+updatespellchecker:
 	@sed 's/\.o\. Orthography/#\.o\. Orthography/g' asheninka.script > asheninka.script.bak
 	@foma -f asheninka.script.bak
 	@cp asheninka.bin spellchecking/error_detection.fst
+	@rm -f asheninka.script.bak
+	@sed 's/\.o\. Orthography/#\.o\. Orthography/g' asheninka.script > asheninka.script.bak
+	@perl -pi.bak -e 's/read regex Ashaninka;/#read regex Ashaninka;/g' asheninka.script.bak
+	@perl -pi.bak -e 's/save stack asheninka.bin/#save stack asheninka.bin/g' asheninka.script.bak
+	@perl -pi.bak -e 's/#read regex Ashaninka .l;/read regex Ashaninka .l;/g' asheninka.script.bak
+	@perl -pi.bak -e 's/#write att spellcheck.att/write att spellcheck.att/g' asheninka.script.bak
+	@perl -pi.bak -e 's/#clear /clear /g' asheninka.script.bak
+	@perl -pi.bak -e 's/#read att spellcheck.att/read att spellcheck.att/g' asheninka.script.bak
+	@perl -pi.bak -e 's/#read cmatrix typo.matrix/read cmatrix typo.matrix/g' asheninka.script.bak
+	@perl -pi.bak -e 's/#save stack error_correction.fst/save stack error_correction.fst/g' asheninka.script.bak
+	@foma -f asheninka.script.bak
+	@cp error_correction.fst spellchecking/error_correction.fst
 	@rm -f asheninka.script.bak
 
 compile:
