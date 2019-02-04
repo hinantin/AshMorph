@@ -1738,6 +1738,7 @@ define VRootPRQin [
 ! 
 | "[=saana][VRoot][=to.be.deep (ES: ser.profundo)]" : {saana}
 ! 
+# ---------------------------------------------------------------------------
 | "[=saava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {saava}
 | "[=sava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {sava}
 | "[=haava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {haava}
@@ -1749,6 +1750,7 @@ define VRootPRQin [
 | "[=saavaki][VRoot][=to.have.a.fever (ES: tener.fiebre)]" : {saavaki}
 | "[=savaki][VRoot][=to.have.a.fever (ES: tener.fiebre)]" : {savaki}
 | "[=havaki][VRoot][=to.have.a.fever (ES: tener.fiebre)]" : {havaki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=sai][VRoot][=to.pour (ES: verter); to.empty.sth. (ES: vaciar)]" : {sai}
 | "[=saitako+INF@/EP:t/aantsi.][VRoot][=to.water.sth. (ES: regar)]" : {saitako}
