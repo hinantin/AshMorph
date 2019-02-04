@@ -280,9 +280,12 @@ TZEpenthesisRule8
       define IRestr2 [ ["@IDIM@"] => {i} _ ]; 
       define NIRestr1 [ ["@NI@"] => {ni} _ ]; 
       
+      define NominalizerRestr1 ~[ ?* [{k}]"@EP"[{ri}] ?* ];
+      
       define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 
 .o. IRestr1 .o. IRestr2 
-.o. NIRestr1 .o. PossPlusAlnPossRestr1 ];
+.o. NIRestr1 .o. PossPlusAlnPossRestr1 
+.o. NominalizerRestr1 ];
       
       source nroot.prq.foma
       source aroot.prq.foma
@@ -518,9 +521,10 @@ TZEpenthesisRule8
       #NORMAL
       save stack asheninka.bin 
 
-#SPELLINGSUGGESTION read regex Ashaninka .l;
-#SPELLINGSUGGESTION write att spellcheck.att
-#SPELLINGSUGGESTION clear
-#SPELLINGSUGGESTION read att spellcheck.att
-#SPELLINGSUGGESTION read cmatrix typo.matrix
-#SPELLINGSUGGESTION save stack spellcheck.fst
+# SPELLING SUGGESTION 
+#read regex Ashaninka .l; 
+#write att spellcheck.att 
+#clear 
+#read att spellcheck.att 
+#read cmatrix typo.matrix 
+#save stack spellcheck.fst 
