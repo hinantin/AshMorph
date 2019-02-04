@@ -1964,8 +1964,8 @@ define VRootPRQin [
 | "[=shonk][VRoot][=to.go.around; to.go.in.circles (ES: dar.vuelta(s))]" : {shonk}
 # -------------------------------------------------------------
 ! to grow
-| "[=shok][VRoot][=to.grow (ES: crecer)]" : {shok}
-| "[=shook][VRoot][=to.grow (ES: crecer)]" : {shook}
+| "[=shok+INF@aantsi.][VRoot][=to.grow (ES: crecer)]" : {shok}
+| "[=shook+INF@aantsi.][VRoot][=to.grow (ES: crecer)]" : {shook}
 ! 
 | "[=shiyok+INF@aantsi.][VRoot][=to.grow (ES: brotar; crecer)]" : {shiyok}
 | "[=shiok+INF@aantsi.][VRoot][=to.grow (ES: brotar; crecer)]" : {shiok} 
