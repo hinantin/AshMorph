@@ -1744,7 +1744,7 @@ define VRootPRQin [
 | "[=haava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {haava}
 | "[=hava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {hava}
 ! 
-| "[=saavaha+INF@/EP:t/antsi.][VRoot][=to.heat.sth.up (e.g.: water; ES: calentar (p.ej.: agua))]" : {saavaha}
+| "[=saavaha~saava{CL:/liquid:ha/}+INF@/EP:t/antsi.][VRoot][=to.heat.sth.up (e.g.: water; ES: calentar (p.ej.: agua))]" : {saavaha}
 | "[=katsirink][VRoot][=to.heat.sth. (ES: calentar(se))]" : {katsirink}  ! sol/sun??? 
 ! 
 | "[=saavaki][VRoot][=to.have.a.fever (ES: tener.fiebre)]" : {saavaki}
