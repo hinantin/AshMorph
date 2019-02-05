@@ -19,9 +19,9 @@
 #All costs must be positive integer values. A cost specification that involves symbols not found in the alphabet of the top network are not included in the matrix  but are warned about.
 
 
-Insert 3
-Substitute 3
-Delete 3
+Insert 2
+Substitute 2
+Delete 2
 Cost 1
 j:h h:j 
 Cost 0
