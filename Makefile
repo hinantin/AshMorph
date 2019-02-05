@@ -26,6 +26,8 @@ updatespellchecker:
 	@cp error_correction.fst /usr/share/hinantin/error_correction.fst
 	@rm -f asheninka.script.bak asheninka.script.bak.bak error_correction.fst
 	@ /etc/init.d/tcpServerErrorDetection restart
+	@ /etc/init.d/tcpServerErrorCorrection restart
+
 compile:
 	@rm -f n-vroot.prq.group1.foma | perl extractEntries.pl --file nroot.prq.foma --file nroot.es.foma --file aroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --file nroot.qu.foma --file oroot.prq.foma --outputfilename "n-vroot.prq.group1.foma" --flag "N@->V" --title "Verbalized entries" --header "NounToVerbPRQin" --replace2 1 --source2 "\" : {" --target2 "[^VBZ]\" : {"
 	@rm -f noun.cmp.prq.foma | perl extractEntries.pl --file nroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --outputfilename "noun.cmp.prq.foma" --flag "@CMP" --title "Compound nouns" --header "NRootCmpPRQin" --separator 1
