@@ -17,7 +17,7 @@ user="root"
 cmd="fomaserver -P 7890 $dictPath/error_detection.fst"
 
 #name=`basename $0`
-name="fomaserver"
+name="tcpServerErrorDetection"
 pid_file="/var/run/$name.pid"
 stdout_log="/var/log/$name.log"
 stderr_log="/var/log/$name.err"
