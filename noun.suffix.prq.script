@@ -379,7 +379,7 @@ define N=S=CL [
 ! keariosanori / =keario -sanori / =truth -cl:real / ES: 'realidad'; EN: 'reality'  
 ! akosanori / =ako -sanori / =hand -cl:right / EN: 'right.hand'; ES: 'mano.derecha'  
 ! kamarasanori / =kamara -sanori / =cinnamon.color -cl:real / EN: 'cream.color'; ES: 'color.crema'  
-| "[--][-sanori][+CL:true,real,truthful;right][=true,real,truthful;right]" : {sanori}  
+| "[--][-sanori][+CL:true,real,truthful;right][=true,real,genuine,,truthful;right]" : {sanori}  
 #-----------------------------------------------
 | "[--][-shontyoki][+CL:oval,grain-like][=oval, grain-like]" : {shontyoki} 
 # ----------------------------------------------
