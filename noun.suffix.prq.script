@@ -204,7 +204,7 @@ define N=S=CL [
 !| "[--][-ke][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ke} ! sheyaque +SHAPE ! too many missformed entries within nominalized verbs. 
 ! 
 | "[--][-kii][+CL:long,thin.branch][=long,thin.branch; stick.like.(with.a.sharp.pointed.end)]" : {kii} ! @CL +SHAPE
-! 
+! avotsinampi / =avo -tsi -nampi / =trail -nposs -cl:side / EN: 'the.side.of.the.trail' 
 | "[--][-nampi][+CL:side,boundary][=side, boundary]" : {nampi} ! +SHAPE 
 ! 
 ! shintsitsaro / =shintsi -tsa -ro+n.m. / =to.be.strong -cl:long.flexible.thin -nmz / EN: 'exclamation.mark'; ES: 'signo.de.admiración'
@@ -704,7 +704,7 @@ define N=S=AUG [
 ! 
 # antarosaNte / =antaro -sante / =big -aug / EN: 'wide'; ES: 'ancho'  
 # antearosante eni / =antearo -sante =eni / =big -aug =Ene.river / EN: 'The.Ene.river.is.wide', ES: 'el.río.Ene.es.ancho'  
-# abotsisanteki / avotsisanteki / =abo -tsi -sante -ki / =trail -nposs -aug -loc / EN: 'in.the.path'; ES: 'en.el.sendero'  
+# abotsisanteki / avotsisanteki / =avo -tsi -sante -ki / =trail -nposs -aug -loc / EN: 'in.the.path'; ES: 'en.el.sendero'  
 | "[--][-sante][DEGR][+AUG]" : [{sante}]
 ];
                    
