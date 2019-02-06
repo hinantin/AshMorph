@@ -742,9 +742,10 @@ define NRootPRQin [
 | "[=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {henka} ! @VCMP 
 | "[=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {enka} ! @VCMP 
 ! 
-| "[=henoki][NRoot][=top (ES: arriba, alto); sky; (ES: el.padre.sol)]" : {henoki}
+| "[=henoki][NRoot][=up, top (ES: arriba, alto); sky; (ES: el.padre.sol)]" : {henoki}
 ! jeñoki 
 | "[=henyoki~he{E.PAL.:ny}oki][NRoot][=top (ES: arriba, alto); sky]" : {henyoki}
+| "[=henyokihi~he{E.PAL.:ny}oki{DIM:hi}][NRoot][=top (ES: arriba, alto); sky]" : {henyokihi}
 | "[=henokê][NRoot][=top (ES: arriba, alto)]" : {henokê}
 ! 
 | "[=hempeki][NRoot][=arm (ES: brazo)]" : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]
