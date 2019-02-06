@@ -1010,8 +1010,10 @@ define NRootPRQin [
 ! 
 | "[=katimaropa][NRoot][=banana.sp. (ES: plátano.de.isla)]" : {katimaropa}
 ! 
-| "[=katonko][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} 
+| "[=katonko.][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} 
 | "[=katonka][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonka} 
+| "[=katyonkohi~ka{E.PAL.:ty}onko{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {katyonkohi} 
+| "[=kationkohi~ka{E.PAL.:ti}onko{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {kationkohi} 
 ! 
 | "[=kapashiro][NRoot][=ginger.sp., herb.sp. (ES: quión, kión, jengibre; sci.nm.: zingiber.officinale)]" : {katsikonaki}
 | "[=katsitonari][NRoot][=ginger.sp., herb.sp. (ES: quión, kión, jengibre; sci.nm.: zingiber.officinale)]" : {katsitonari}
