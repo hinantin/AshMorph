@@ -1808,11 +1808,11 @@ define VRootPRQin [
 | "[=sat+INF@aantsi.][VRoot][=to.stick.sth.into.sth./sb.; to.knife.sb. (ES: acuchillar); to.stab.sb. (ES: apuñalar)]" : {sat}
 | "[=sa+INF@/EP:t/aantsi.][VRoot][=to.stick.sth.into.sth./sb.; to.knife.sb. (ES: acuchillar); to.stab.sb. (ES: apuñalar)]" : {sa}
 ! 
-| "[=satek][VRoot][=to.place/put.in/inside.sth./sb.; (ES: estar.en.medio, entremeterse)]" : {satek}
+| "[=satek+INF@aantsi.][VRoot][=to.place/put.in/inside.sth./sb.; (ES: estar.en.medio, entremeterse)]" : {satek}
 | "[=sateek][VRoot][=to.place/put.in/inside.sth./sb.]" : {sateek}
-| "[=osatek][VRoot][= (ES: estar.en.medio, entremeterse)]" : {osatek}
-| "[=ohatek][VRoot][= (ES: estar.en.medio, entremeterse)]" : {ohatek}
-| "[=osatik][VRoot][= (ES: estar.en.medio, entremeterse)]" : {osatik}
+| "[=osatek+INF@aantsi.][VRoot][= (ES: estar.en.medio, entremeterse)]" : {osatek}
+| "[=ohatek+INF@aantsi.][VRoot][= (ES: estar.en.medio, entremeterse)]" : {ohatek}
+| "[=osatik+INF@aantsi.][VRoot][= (ES: estar.en.medio, entremeterse)]" : {osatik}
 ! 
 | "[=savoina][VRoot][=to.wear.a.cap.on.the.head; to.cover.sth.with.a.handkerchief (ES: cubrir.con.un.pañuelo)]" : {savoina}
 ! 
