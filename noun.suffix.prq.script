@@ -605,7 +605,8 @@ define N=S=CL [
 ! 
 | "[--][-ampoiri][+CL:footprint][=footprint]" : {ampoiri} ! @CL 
 ! 
-! onchatororonteni / o- =inchato -roronteni / EN: "this.tree's.kind" 
+! inchatororonteni / =inchato -roronteni / EN: "tree's.kind" 
+! onchatororonteni / o- =inchato -roronteni / EN: "tree's.kind" 
 ! noirinkasatiririnteni / no- =kirinka -sati -ririnteni / EN: 'those.down.river.with.whom.I.have.sth.in.common' 
 | "[--][-ririnteni+m.][+CL:kind,species][=sth.which.is.in.common.with.the.obligatory.order]" : {ririnteni}
 | "[--][-roronteni+n.m.][+CL:kind,species][=sth.which.is.in.common.with.the.obligatory.order]" : {roronteni}
