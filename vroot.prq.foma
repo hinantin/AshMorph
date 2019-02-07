@@ -1805,8 +1805,8 @@ define VRootPRQin [
 ! 
 | "[=sarak][VRoot][=to.strip.sb.off]" : {sarak}
 ! 
-| "[=sat][VRoot][=to.stick.sth.into.sth./sb.; to.knife.sb. (ES: acuchillar); to.stab.sb. (ES: apuñalar)]" : {sat}
-| "[=sa][VRoot][=to.stick.sth.into.sth./sb.; to.knife.sb. (ES: acuchillar); to.stab.sb. (ES: apuñalar)]" : {sa}
+| "[=sat+INF@aantsi.][VRoot][=to.stick.sth.into.sth./sb.; to.knife.sb. (ES: acuchillar); to.stab.sb. (ES: apuñalar)]" : {sat}
+| "[=sa+INF@/EP:t/aantsi.][VRoot][=to.stick.sth.into.sth./sb.; to.knife.sb. (ES: acuchillar); to.stab.sb. (ES: apuñalar)]" : {sa}
 ! 
 | "[=satek][VRoot][=to.place/put.in/inside.sth./sb.; (ES: estar.en.medio, entremeterse)]" : {satek}
 | "[=sateek][VRoot][=to.place/put.in/inside.sth./sb.]" : {sateek}
