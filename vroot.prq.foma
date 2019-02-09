@@ -2212,11 +2212,13 @@ define VRootPRQin [
 | "[=tsinampa+INF@/DEL:a/ntsi.][VRoot][=to.joke (ES: bromear)]" : {tsinampa}
 | "[=tsinamp+INF@antsi.][VRoot][=to.joke (ES: bromear)]" : {tsinamp}
 ! 
+# ------------------------------------------------------------------------
 | "[=tsip][VRoot][=to.accompany; to.be.together; to.join]" : {tsip}
 | "[=tsipa][VRoot][=to.accompany; to.be.together; to.join]" : {tsipa}
 | "[=tsipat][VRoot][=to.accompany; to.join; to.combine (ES: combinar)]" : {tsipat}
 ! 
-| "[=tsipari][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}
+| "[=tsipari+INF@antsi.][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}
+# ------------------------------------------------------------------------
 ! 
 | "[=tsirah+INF@aantsi.][VRoot][=to.be.cracked (wall, ceramics ; ES: estar.rajado)]" : {tsirah}
 ! 
