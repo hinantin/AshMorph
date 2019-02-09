@@ -2213,11 +2213,11 @@ define VRootPRQin [
 | "[=tsinamp+INF@antsi.][VRoot][=to.joke (ES: bromear)]" : {tsinamp}
 ! 
 # ------------------------------------------------------------------------
-| "[=tsip][VRoot][=to.accompany; to.be.together; to.join]" : {tsip}
-| "[=tsipa][VRoot][=to.accompany; to.be.together; to.join]" : {tsipa}
-| "[=tsipat][VRoot][=to.accompany; to.join; to.combine (ES: combinar)]" : {tsipat}
+| "[=tsip][VRoot][=to.accompany (ES: acompañar); to.be.together; to.join]" : {tsip}
+| "[=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar); to.be.together; to.join]" : {tsipa}
+| "[=tsipat+INF@aantsi.][VRoot][=to.accompany (ES: acompañar); to.join; to.combine (ES: combinar)]" : {tsipat}
 ! 
-| "[=tsipari+INF@antsi.][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}
+| "[=tsipari~{'to.join':tsipa}{REV:ri}+INF@antsi.][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}
 # ------------------------------------------------------------------------
 ! 
 | "[=tsirah+INF@aantsi.][VRoot][=to.be.cracked (wall, ceramics ; ES: estar.rajado)]" : {tsirah}
