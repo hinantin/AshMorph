@@ -150,6 +150,8 @@ define NRootESin [
 | "[=misión][NRootEs][=mission]" : {misión}
 | "[=moto+poss@te.][NRootEs][=autoriksha]" : {moto}
 ! 
+! "[=mil/miri][NRootEs][=thousand]" : {miri}
+! 
 | "[=motor/motoro+n.m.][NRootEs][=boat (ES: bote)]" : {motoro}
 ! 
 | "[=mula][NRootEs][=mule]" : {mula}
@@ -241,6 +243,7 @@ define NRootESin [
 | "[=soga/sooka][NRoot][=rope (ES: soga)]" : {sooka} 
 ! 
 | "[=soles+NCMP000][NRoot][=Peruvian.currency]" : {soles} 
+| "[=sol/sori][NRoot][=Peruvian.currency]" : {sori} 
 ! 
 | "[=sopa+NCFS000+poss@te][NRoot][=soup]" : {sopa} 
 ! 
