@@ -760,10 +760,10 @@ define VRootPRQin [
 | "[=kimohenka][VRoot][=to.speak.out.loud; to.raise.one's.voice (ES: alzar.la.voz)]" : {kimohenka}
 # ----------------------------------------------------------
 | "[=kimoshi][VRoot][=to.be.joyous]" : {kimoshi}
-| "[=kimoshiri][VRoot][=to.be.joyous]" : {kimoshiri}
-| "[=kimoshiri][VRoot][=to.be.happy]" : {kimoshiri}
-| "[=kimoshire][VRoot][=to.be.happy, to.be.glad]" : {kimoshire}
-| "[=kimoshere][VRoot][=to.be.happy, to.be.glad]" : {kimoshere}
+| "[=kimoshiri+INF@/EP:t/aantsi.][VRoot][=to.be.joyous (ES: alegrarse); to.be.happy (ES: alegrarse)]" : {kimoshiri}
+| "[=kimoshiry+INF@aantsi.][VRoot][=]" : {kimoshiry}
+| "[=kimoshire+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)]" : {kimoshire}
+| "[=kimoshere+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)]" : {kimoshere}
 ! 
 | "[=oimoshirink][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirink}
 | "[=oimoshirenk][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirenk}
