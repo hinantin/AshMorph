@@ -1957,7 +1957,8 @@ define VRootPRQin [
 | "[=shiyakant][VRoot][=to.think]" : {shiyakant}
 | "[=shiyakant][VRoot][=to.imagine]" : {shiyakant}
 ! 
-| "[=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)]" : {shiyak}
+| "[=shiyak+INF@aantsi.][VRoot][=to.take.a.picture (ES: tomar.una.foto)]" : {shiyak}
+| "[=shiak+INF@aantsi.][VRoot][=to.take.a.picture (ES: tomar.una.foto)]" : {shiak}
 | "[=shiyakant][VRoot][=to.take.a.picture (ES: tomar.una.foto)]" : {shiyakant}
 ! 
 | "[=shitzi+prop@t.][VRoot][=to.stink, to.contaminate.with.bad.smell; to.rot, to.decompose]" : {shitzi}
