@@ -291,6 +291,8 @@ TZEpenthesisRule8
       source aroot.prq.foma
       # Spanish loan words
       source nroot.es.foma
+      # English loan words
+      source nroot.en.foma
       # Quechua loan words 
       source nroot.qu.foma
       # Portuguese loan words
@@ -314,7 +316,7 @@ TZEpenthesisRule8
 
 #      define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
       
-      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootPTin|NRootQUin|NumeralPRQin|NRootPLACESin];
+      define NRootPRQ [NRootPRQin|ARootPRQin|NRootESin|NRootENin|NRootPTin|NRootQUin|NumeralPRQin|NRootPLACESin];
       ####################################
       #     Compound nouns               #
       ####################################
