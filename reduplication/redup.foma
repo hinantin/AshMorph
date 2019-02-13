@@ -1,6 +1,9 @@
 define Vow [a|e|i|o];
 define Cons [k|m|y];
-define lexicon [{koma}|{kya}];
+define lexicon [
+  {koma}
+| {kya}
+];
 define temp Cons [Vow|Cons]* -> %< ... %> || .#. _ .#. ;
 define pref [..] -> %< Cons [Vow|Cons]* %> ([{a}]) || .#. _ %< ;
 define RemoveBrackets %<|%> -> 0;
