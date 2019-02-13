@@ -14,9 +14,9 @@ define lexicon [
 | "[=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p}
 ];
 
-define temp Cons [ Vow | Cons ]* -> %< ... %> || .#. _ .#. ;
-define pref [..] -> %< Cons [ Vow | Cons ]* %> (EP) || .#. _ %< ;
+define MarkRedup [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
+define DelEp [..] -> %< Cons ([ Vow | Cons ]*) %> (EP) || .#. _ %< ; ! DELETES EPHENTESIS 
 define RemoveBrackets %<|%> -> 0;
 
-define preRedup lexicon .o. temp .o. pref ;
+define preRedup lexicon .o. MarkRedup .o. DelEp ;
 regex _eq(preRedup, %<, %>) .o. RemoveBrackets;
