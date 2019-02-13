@@ -10,7 +10,9 @@ define lexicon [
 | "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]":{kya}
 | "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {mi}
 | "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {my}
+| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
 ];
+
 define temp Cons [ Vow | Cons ]* -> %< ... %> || .#. _ .#. ;
 define pref [..] -> %< Cons [ Vow | Cons ]* %> (EP) || .#. _ %< ;
 define RemoveBrackets %<|%> -> 0;
