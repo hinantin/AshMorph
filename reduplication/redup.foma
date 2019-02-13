@@ -1,8 +1,8 @@
 define Vow [a|e|i|o];
-define Cons [t|s|l|p];
-define lexicon {eat}|{sleep};
+define Cons [k|m|y];
+define lexicon [{koma}|{kya}];
 define temp Cons [Vow|Cons]* -> %< ... %> || .#. _ .#. ;
-define pref [..] -> %< Cons [Vow|Cons]* %> %-|| .#. _ %< ;
+define pref [..] -> %< Cons [Vow|Cons]* %> ([{a}]) || .#. _ %< ;
 define RemoveBrackets %<|%> -> 0;
 
 define preRedup lexicon .o. temp .o. pref ;
