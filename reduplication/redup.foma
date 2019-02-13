@@ -1,6 +1,10 @@
 define Vow [a|e|i|o];
 define Cons [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}];
-define EP [{a}|{aa}];
+define EP [
+  "[--][-a][+EP]" : {a} 
+| "[--][-aa][+EP]" : {aa} 
+];
+
 define lexicon [
   "[=koma+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]":{koma}
 | "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]":{kya}
@@ -8,7 +12,7 @@ define lexicon [
 | "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {my}
 ];
 define temp Cons [ Vow | Cons ]* -> %< ... %> || .#. _ .#. ;
-define pref [..] -> %< Cons [Vow|Cons]* %> (EP) || .#. _ %< ;
+define pref [..] -> %< Cons [ Vow | Cons ]* %> (EP) || .#. _ %< ;
 define RemoveBrackets %<|%> -> 0;
 
 define preRedup lexicon .o. temp .o. pref ;
