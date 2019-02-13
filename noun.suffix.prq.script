@@ -88,8 +88,8 @@ define N=S=LOC [
 # LOC (spatial): in, at, on, to, by, and with 
 # LOC.T (temporal.sense): during/over
 # kitaiteriki / =kitaiteri -ki / =day -LOC.T / EN: 'during.the.day', ES: 'durante.el.día' 
-  "[--][-ki][Cas][+LOC_LOC.T]" : [{ki}] 
-!| "[--][-ke][Cas][+LOC_LOC.T]" : [{ke}] ! it provokes too many falsely analyzed entries.
+  "[--][-ki][Cas][+LOC_LOC.T][=LOC:motion.to/motion.from; LOC.T:during/over]" : [{ki}] 
+!| "[--][-ke][Cas][+LOC_LOC.T][=LOC:motion.to/motion.from; LOC.T:during/over]" : [{ke}] ! it provokes too many falsely analyzed entries.
 ];
                    
 # ****************************************
