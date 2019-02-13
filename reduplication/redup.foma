@@ -11,6 +11,7 @@ define lexicon [
 | "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {mi}
 | "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {my}
 | "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
+| "[=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p}
 ];
 
 define temp Cons [ Vow | Cons ]* -> %< ... %> || .#. _ .#. ;
