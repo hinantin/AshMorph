@@ -1,0 +1,9 @@
+define Vow [a|e|i|o];
+define Cons [t|s|l|p];
+define lexicon {eat}|{sleep};
+define temp Cons [Vow|Cons]* -> %< ... %> || .#. _ .#. ;
+define pref [..] -> %< Cons [Vow|Cons]* %> %-|| .#. _ %< ;
+define RemoveBrackets %<|%> -> 0;
+
+define preRedup lexicon .o. temp .o. pref ;
+regex _eq(preRedup, %<, %>) .o. RemoveBrackets;
