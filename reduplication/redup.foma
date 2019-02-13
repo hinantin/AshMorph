@@ -4,6 +4,8 @@ define EP [{a}|{aa}];
 define lexicon [
   "[=koma+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]":{koma}
 | "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]":{kya}
+| "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {mi}
+| "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {my}
 ];
 define temp Cons [ Vow | Cons ]* -> %< ... %> || .#. _ .#. ;
 define pref [..] -> %< Cons [Vow|Cons]* %> (EP) || .#. _ %< ;
