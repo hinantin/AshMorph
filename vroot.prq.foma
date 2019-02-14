@@ -301,9 +301,9 @@ define VRootPRQin [
 | "[=ashaag{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {ashaagant}
 | "[=ashar{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {asharant}
 ! 
-| "[=ashi+INF@/EP:t/aantsi.][VRoot][=to.have; to.own, to.possess (ES: poseer)]" : {ashi}
-| "[=ashit+INF@aantsi.][VRoot][=to.have; to.own, to.possess (ES: poseer)]" : {ashit}
-| "[=ashit+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.have; to.own, to.possess (ES: poseer, ser.dueño)]::[= (ES: ser.dueño.varias.veces)]" : {ashishita}
+| "[=ashi+INF@/EP:t/aantsi.][VRoot][=to.have; to.own, to.possess (ES: poseer, adueñarse)]" : {ashi}
+| "[=ashit+INF@aantsi.][VRoot][=to.have; to.own, to.possess (ES: poseer, adueñarse)]" : {ashit}
+| "[=ashit+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.have; to.own, to.possess (ES: poseer, ser.dueño, adueñarse)]::[= (ES: ser.dueño.varias.veces)]" : {ashishita}
 
 ! 
 | "[=ashi+INF@/EP:t/aantsi.][VRoot][=to.enclose (ES: cerrar)]" : {ashi}
