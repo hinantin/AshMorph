@@ -15,8 +15,9 @@ define lexicon [
 ];
 
 define MarkRedup [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
-define DelEp [..] -> %< Cons ([ Vow | Cons ]*) %> (EP) || .#. _ %< ; ! DELETES EPHENTESIS 
+define DelEp01 [..] -> %< Cons ([ Vow | Cons ]*) %> (EP) || .#. _ %< ; ! DELETES EPHENTESIS 
+!define DelEp02 [..] -> %< Cons ([ Vow | Cons ]*) %> (EP) || %> _ .#. ;
 define RemoveBrackets %<|%> -> 0;
 
-define preRedup lexicon .o. MarkRedup .o. DelEp ;
+define preRedup lexicon .o. MarkRedup .o. DelEp01 ; !.o. DelEp02 ; 
 regex _eq(preRedup, %<, %>) .o. RemoveBrackets;
