@@ -1175,7 +1175,7 @@ define VRootPRQin [
 | "[=monts][VRoot][=to.find, to.meet (ES: reencontrarse)]" : {monts} 
 # crossing a river 
 | "[=monty+INF@aantsi.][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear, cruzar.el.río.por.bote/canoa/puente)]" : {monty}
-| "[=monte][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear, cruzar.el.río.por.bote/canoa/puente)]" : {monte}
+| "[=monte+INF@aantsi.][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear, cruzar.el.río.por.bote/canoa/puente)]" : {monte}
 | "[=pampia][VRoot][=to.cross.river (by.boat/canoe/a_bridge)]" : {pampia}
 | "[=pampiaa+INF@/EP:t/antsi.][VRoot][=to.cross.river (by.boat/canoe/a_bridge)]" : {pampiaa}
 | "[=pampyaa][VRoot][=to.cross.river (by.boat/canoe/a_bridge)]" : {pampyaa}
