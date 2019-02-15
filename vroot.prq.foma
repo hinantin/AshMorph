@@ -1059,7 +1059,7 @@ define VRootPRQin [
 | "[=manonk][VRoot][=to.cause.a.bad.omen (ES: hacer.mal.agüero)]" : {manonk}
 ! 
 | "[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))]" : {mantsiy}
-| "[=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {mantsiya}
+| "[=mantsiya+INF@/EP:t/aantsi.][VRoot][=to.be.sick (ES: enfermar(se))]" : {mantsiya}
 | "[=mantsia][VRoot][=to.be.sick, to.get.sick (ES: enfermar(se))]" : {mantsia}
 | "[=mantsi][VRoot][=to.be.sick, to.get.sick (ES: enfermar(se))]" : {mantsi}
 | "[=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {mantsiya}
