@@ -1123,8 +1123,8 @@ define VRootPRQin [
 ! 
 | "[=miri][VRoot][=to.peel.off.(animals) (ES: pelar)]" : {miri} 
 ! 
-| "[=mesh][VRoot][=to.peel (ES: pelar(se))]" : {mesh}
-| "[=mish][VRoot][=to.peel (ES: pelar(se))]" : {mish}
+| "[=mesh+INF@aantsi.][VRoot][=to.peel (ES: pelar(se))]" : {mesh}
+| "[=mish+INF@aantsi.][VRoot][=to.peel (ES: pelar(se))]" : {mish}
 ! 
 | "[=metso][VRoot][=to.be.soft; to.be.tender]" : {metso}
 ! 
