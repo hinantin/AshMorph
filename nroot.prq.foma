@@ -365,7 +365,9 @@ define NRootPRQin [
 | "[=cheenkaro+sem@color.][NRoot][=black (ES: negra)]" : {cheenkaro}
 | "[=cheenkavo+sem@color.][NRoot][=black (ES: negra)]" : {cheenkavo}
 ! 
-| "[=cheenti][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {cheenti}
+| "[=cheenti+m.][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {cheenti}
+| "[=cheentzi+m.][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {cheentzi}
+| "[=chiintzi+m.][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {chiintzi}
 ! 
 | "[=chekito+m.][NRoot][=frog.sp., small.toad.sp. (ES: rana)]" : {chekito}
 ! 
