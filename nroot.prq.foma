@@ -2532,9 +2532,9 @@ define NRootPRQin [
 | "[=minko+n.m.+inal@tsi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 !| "[=menko+n.m.+inal@tzi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} 
 ! 
-| "[=mentaro+n.m.][NRoot][=tree.sp.]" : {mentaro}
-| "[=mentavo+n.m.][NRoot][=tree.sp.]" : {mentavo}
-| "[=mintavo+n.m.][NRoot][=tree.sp.]" : {mintavo}
+| "[=mentaro+n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mentaro}
+| "[=mentavo+n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mentavo}
+| "[=mintavo+n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mintavo}
 ! 
 | "[=mire+inal@tsi.][NRoot][=liquid.for.thirst (ES: líquido.para.la.sed); thirst (ES: sed)]" : {mire}
 ! 
@@ -2667,7 +2667,7 @@ define NRootPRQin [
 | "[=omoka][NRoot][=hole (ES: hueco)]" : {omoka}
 ! 
 | "[=morona][NRoot][=hole (ES: hueco)]" : {morona}
-| "[=morona][NRoot][=cave]" : {morona}
+| "[=morona][NRoot][=cave (ES:cueva)]" : {morona}
 | "[=omoona][NRoot][=hole (ES: hueco)]" : {omoona}
 | "[=omona][NRoot][=hole (ES: hueco)]" : {omona}
 ! 
