@@ -2239,8 +2239,8 @@ define VRootPRQin [
 | "[=tsit][VRoot][=to.be.dark]" : {tsit}
 | "[=tsiteni][VRoot][=to.get.dark (ES: oscurecer); to.be.night]" : {tsiteni}
 ! 
-| "[=tsitok][VRoot][=to.crush.sth. (ES: chancar); to.kill (ES: matar); to.hit]" : {tsitok}
-| "[=tsirok][VRoot][=to.crush.sth. (ES: chancar); to.kill (ES: matar)]" : {tsirok}
+| "[=tsitok+INF@aantsi.][VRoot][=to.crush.sth. (ES: chancar); to.kill (ES: matar); to.hit]" : {tsitok}
+| "[=tsirok+INF@aantsi.][VRoot][=to.crush.sth. (ES: chancar); to.kill (ES: matar)]" : {tsirok}
 ! 
 | "[=tsitonk][VRoot][=to.hit]" : {tsitonk}
 ! 
