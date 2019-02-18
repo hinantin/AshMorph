@@ -270,6 +270,7 @@ define IdeoPRQin [
 | "[=tsarak][Ideo:PRQ][=loud.fart, breaking.wind.loudly (for.adult.women)]" : {tsarak} 
 ! 
 | "[=ahak+s.redup.word][Ideo:PRQ][=sneezing; coughing; action.of.loud.expectoration.of.spittle]" : {ahak} 
+| "[=ahak][Ideo:PRQ][=coughing.action]" : {ahak} 
 ! 
 | "[=atzik+s.redup.word][Ideo:PRQ][=sneezing]" : {atzik} 
 ! 
@@ -371,8 +372,6 @@ define IdeoPRQin [
 | "[=soro+s.redup.word][Ideo:PRQ][=eating.hot.soup.with.a.spoon]" : {soro} 
 ! onoshikanakeri, okantiri soro, soro. / o- =noshik -an -ak -e -ri o- =kant -i -ri =soro =soro / 3n.m.a- =to.drag.sth. -dir -prf -real -3m.o 3n.m.a- =to.say -real -3m.o =IDEO =IDEO / EN: '(leaving) she has dragged it, making.the.sound soro soro'; ES: 'lo.arrastra, haciendo soro soro' 
 | "[=soro+s.redup.word][Ideo:PRQ][=sound/action.of.sth.sliding]" : {soro} 
-! 
-| "[=ahak][Ideo:PRQ][=coughing.action]" : {ahak} 
 ! 
 | "[=tsari+s.redup.word][Ideo:PRQ][=action.of.stretching.a.thread, action.of.unrolling.sth.]" : {tsari} 
 ! 
