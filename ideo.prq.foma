@@ -245,9 +245,9 @@ define IdeoPRQin [
 ! 
 | "[=miha+s.redup.word][Ideo:PRQ][=jumping.like.a_deer]" : {miha} 
 ! 
-| "[=chinte][Ideo:PRQ][=leaping.like.a_deer]" : {chinte} 
-| "[=chinte][Ideo:PRQ][=leaping.like.a_deer][--][-k][+PUNCTUAL.ACTN]" : {chintek} 
-| "[=chente][Ideo:PRQ][=leaping.like.a_deer][--][-k][+PUNCTUAL.ACTN]" : {chentek} 
+| "[=chinte][Ideo:PRQ][=leaping.like.a_deer (ES: acción.de.saltar.como.un.venado)]" : {chinte} 
+| "[=chinte][Ideo:PRQ][=leaping.like.a_deer (ES: acción.de.saltar.como.un.venado)][--][-k][+PUNCTUAL.ACTN]" : {chintek} 
+| "[=chente][Ideo:PRQ][=leaping.like.a_deer (ES: acción.de.saltar.como.un.venado)][--][-k][+PUNCTUAL.ACTN]" : {chentek} 
 ! 
 | "[=chinte+s.redup.word@2X.][Ideo:PRQ][=woman.walking.in.high.heels]" : {chinte}
 | "[=chinteki+s.redup.word@2X.][Ideo:PRQ][=woman.walking.in.high.heels]" : {chinteki} 
