@@ -497,15 +497,15 @@ TZEpenthesisRule8
       source ideoredupsyl.prq.foma
 
       define IdeoRedupSyl [ [ 
-                     IdeoRedupSylin=RI (RedupSyl=RI) 
-                   | IdeoRedupSylin=RE (RedupSyl=RE) 
-                   | IdeoRedupSylin=PO (RedupSyl=PO) 
-                   | IdeoRedupSylin=MI (RedupSyl=MI) 
-                   | IdeoRedupSylin=PI (RedupSyl=PI) 
-                   | IdeoRedupSylin=RA (RedupSyl=RA) 
-                   | IdeoRedupSylin=VI (RedupSyl=VI) 
-                   | IdeoRedupSylin=RO (RedupSyl=RO) 
-                   | IdeoRedupSylin=NI (RedupSyl=NI) 
+                     IdeoRedupSylin=RI RedupSyl=RI 
+                   | IdeoRedupSylin=RE RedupSyl=RE 
+                   | IdeoRedupSylin=PO RedupSyl=PO 
+                   | IdeoRedupSylin=MI RedupSyl=MI 
+                   | IdeoRedupSylin=PI RedupSyl=PI 
+                   | IdeoRedupSylin=RA RedupSyl=RA 
+                   | IdeoRedupSylin=VI RedupSyl=VI 
+                   | IdeoRedupSylin=RO RedupSyl=RO 
+                   | IdeoRedupSylin=NI RedupSyl=NI 
                    ] (IDEO=S=PUNCTUALACTN) ] ; 
 
       ##########################
