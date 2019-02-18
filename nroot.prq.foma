@@ -2668,7 +2668,8 @@ define NRootPRQin [
 ! 
 | "[=morona][NRoot][=hole (ES: hueco)]" : {morona}
 | "[=morona][NRoot][=cave (ES:cueva)]" : {morona}
-| "[=omoona][NRoot][=hole (ES: hueco)]" : {omoona}
+| "[=omoona][NRoot][=hole (ES: hueco)]" : {omoona} 
+| "[=omorona+n.m.][NRoot][=long.hole (ES: hueco.largo)]" : {omorona} 
 | "[=omona][NRoot][=hole (ES: hueco)]" : {omona}
 ! 
 | "[=mota][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: perugia.sp.)]" : {mota}
