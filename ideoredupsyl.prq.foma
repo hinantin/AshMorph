@@ -173,6 +173,7 @@ define IdeoRedupSylin=PI [
 
 define IdeoRedupSylin=RA [
 # ra 
+! acción.de.tener.diarrea
   "[=chara+redup.syl@ra.][Ideo:PRQ][=trickling.liquid (e.g.: water, urine, diarrhea)]" : {chara}
 | "[=shaara+redup.syl@ra.][Ideo:PRQ][=action/sound.of.flowing.water]" : {shaara}
 | "[=shara+redup.syl@ra.][Ideo:PRQ][=action/sound.of.flowing.water]" : {shara}
