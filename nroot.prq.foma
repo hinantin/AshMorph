@@ -3805,10 +3805,11 @@ define NRootPRQin [
 ! 
 | "[=shareva][NRoot][=person's.name; NP]" : {shareva}
 ! 
-! | "[=sharo][NRoot][=agouti]" : {sharo}
 | "[=shavo+m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {shavo}
 | "[=sharo+m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {sharo}
 | "[=sharoni][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {sharoni}
+! 
+| "[=shaaro+n.m.+inal@ntsi.][NRoot][=diarrhea (ES: diarrea)]" : {shaaro}
 ! 
 | "[=shameti+m.][NRoot][=godfather (man.who.pierces.another.man's.nose.in.order.to.place.a_nasal_adornment)]" : {shameti}
 | "[=sameti+m.][NRoot][=godfather (man.who.pierces.another.man's.nose.in.order.to.place.a_nasal_adornment)]" : {sameti}
