@@ -98,8 +98,8 @@ define IdeoPRQin [
 ! 
 | "[=hi+redup.word][Ideo:PRQ][=chuckling]" : {hi} 
 ! 
-| "[=he+redup.word][Ideo:PRQ][=men.laughing]" : {he} 
-| "[=heee+redup.word][Ideo:PRQ][=men.laughing]" : {heee} 
+| "[=he+redup.word][Ideo:PRQ][=men.laughing, sound.of.men's.laughter]" : {he} 
+| "[=heee+redup.word][Ideo:PRQ][=men.laughing, sound.of.men's.laughter]" : {heee} 
 | "[=ho+redup.word][Ideo:PRQ][=women.laughing]" : {ho} 
 | "[=hooo+redup.word][Ideo:PRQ][=women.laughing]" : {hooo} 
 | "[=hohoo][Ideo:PRQ][=women.laughing]" : {hohoo} 
