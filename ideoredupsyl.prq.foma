@@ -18,21 +18,21 @@ define RedupSyl=RI [
 ];
 
 define RedupSyl=RE [ 
-  "[^2X][=continuous.action]" : {re} 
-| "[^3X][=continuous.action]" : {rere} 
-| "[^4X][=continuous.action]" : {rerere} 
-| "[^5X][=continuous.action]" : {rererere} 
-| "[^6X][=continuous.action]" : {rerererere} 
-| "[^7X][=continuous.action]" : {rererererere} 
+  "[--][-re][^2X][=continuous.action]" : {re} 
+| "[--][-re][^3X][=continuous.action]" : {rere} 
+| "[--][-re][^4X][=continuous.action]" : {rerere} 
+| "[--][-re][^5X][=continuous.action]" : {rererere} 
+| "[--][-re][^6X][=continuous.action]" : {rerererere} 
+| "[--][-re][^7X][=continuous.action]" : {rererererere} 
 ];
 
 define RedupSyl=RO [ 
-  "[^2X][=continuous.action]" : {ro} 
-| "[^3X][=continuous.action]" : {roro} 
-| "[^4X][=continuous.action]" : {rororo} 
-| "[^5X][=continuous.action]" : {rorororo} 
-| "[^6X][=continuous.action]" : {rororororo} 
-| "[^7X][=continuous.action]" : {rorororororo} 
+  "[--][-ro][^2X][=continuous.action]" : {ro} 
+| "[--][-ro][^3X][=continuous.action]" : {roro} 
+| "[--][-ro][^4X][=continuous.action]" : {rororo} 
+| "[--][-ro][^5X][=continuous.action]" : {rorororo} 
+| "[--][-ro][^6X][=continuous.action]" : {rororororo} 
+| "[--][-ro][^7X][=continuous.action]" : {rorororororo} 
 ];
 
 define RedupSyl=PO [ 
