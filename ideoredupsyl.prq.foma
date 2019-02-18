@@ -63,30 +63,30 @@ define RedupSyl=PI [
 ];
 
 define RedupSyl=RA [ 
-  "[^2X][=continuous.action]" : {ra} 
-| "[^3X][=continuous.action]" : {rara} 
-| "[^4X][=continuous.action]" : {rarara} 
-| "[^5X][=continuous.action]" : {rararara} 
-| "[^6X][=continuous.action]" : {rarararara} 
-| "[^7X][=continuous.action]" : {rararararara} 
+  "[--][-ra][^2X][=continuous.action]" : {ra} 
+| "[--][-ra][^3X][=continuous.action]" : {rara} 
+| "[--][-ra][^4X][=continuous.action]" : {rarara} 
+| "[--][-ra][^5X][=continuous.action]" : {rararara} 
+| "[--][-ra][^6X][=continuous.action]" : {rarararara} 
+| "[--][-ra][^7X][=continuous.action]" : {rararararara} 
 ];
 
 define RedupSyl=VI [ 
-  "[^2X][=continuous.action]" : {vi} 
-| "[^3X][=continuous.action]" : {vivi} 
-| "[^4X][=continuous.action]" : {vivivi} 
-| "[^5X][=continuous.action]" : {vivivivi} 
-| "[^6X][=continuous.action]" : {vivivivivi} 
-| "[^7X][=continuous.action]" : {vivivivivivi} 
+  "[--][-vi][^2X][=continuous.action]" : {vi} 
+| "[--][-vi][^3X][=continuous.action]" : {vivi} 
+| "[--][-vi][^4X][=continuous.action]" : {vivivi} 
+| "[--][-vi][^5X][=continuous.action]" : {vivivivi} 
+| "[--][-vi][^6X][=continuous.action]" : {vivivivivi} 
+| "[--][-vi][^7X][=continuous.action]" : {vivivivivivi} 
 ];
 
 define RedupSyl=NI [ 
-  "[^2X][=continuous.action]" : {ni} 
-| "[^3X][=continuous.action]" : {nini} 
-| "[^4X][=continuous.action]" : {ninini} 
-| "[^5X][=continuous.action]" : {nininini} 
-| "[^6X][=continuous.action]" : {ninininini} 
-| "[^7X][=continuous.action]" : {nininininini} 
+  "[--][-ni][^2X][=continuous.action]" : {ni} 
+| "[--][-ni][^3X][=continuous.action]" : {nini} 
+| "[--][-ni][^4X][=continuous.action]" : {ninini} 
+| "[--][-ni][^5X][=continuous.action]" : {nininini} 
+| "[--][-ni][^6X][=continuous.action]" : {ninininini} 
+| "[--][-ni][^7X][=continuous.action]" : {nininininini} 
 ];
 
 #define V [a|e|i|o];
