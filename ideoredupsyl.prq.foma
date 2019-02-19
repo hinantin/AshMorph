@@ -54,12 +54,12 @@ define RedupSyl=MI [
 ];
 
 define RedupSyl=PI [ 
-  "[--][-pi][^2X][=continuous.action]" : {pi} 
-| "[--][-pi][^3X][=continuous.action]" : {pipi} 
-| "[--][-pi][^4X][=continuous.action]" : {pipipi} 
-| "[--][-pi][^5X][=continuous.action]" : {pipipipi} 
-| "[--][-pi][^6X][=continuous.action]" : {pipipipipi} 
-| "[--][-pi][^7X][=continuous.action]" : {pipipipipipi} 
+  "[--][-pi][+REDUP.SYL.^2X][=continuous.action]" : {pi} 
+| "[--][-pi][+REDUP.SYL.^3X][=continuous.action]" : {pipi} 
+| "[--][-pi][+REDUP.SYL.^4X][=continuous.action]" : {pipipi} 
+| "[--][-pi][+REDUP.SYL.^5X][=continuous.action]" : {pipipipi} 
+| "[--][-pi][+REDUP.SYL.^6X][=continuous.action]" : {pipipipipi} 
+| "[--][-pi][+REDUP.SYL.^7X][=continuous.action]" : {pipipipipipi} 
 ];
 
 define RedupSyl=RA [ 
