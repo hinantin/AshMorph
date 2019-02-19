@@ -670,10 +670,6 @@ define NRootPRQin [
 ! 
 | "[=eshikempitari][NRoot][=deaf (ES: sordo); disobedient (ES: desobediente)]" : {eshikempitari}
 ! 
-| "[=etsiki+n.m.][NRoot][=wild.fruit (ES: fruta.de.monte; PT: fruto.silvestre)]" : {etsiki}
-| "[=itsiki+n.m.][NRoot][=wild.fruit (ES: fruta.de.monte; PT: fruto.silvestre)]" : {itsiki}
-| "[=echiki][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: helycostilis.tormentosa)]" : {echiki}
-! 
 | "[=etso+m.][NRoot][=swallow.sp. (inhabits.the.rocks); white-collared.swift (sci.nm.: streptopfogne.zonaris)]" : {etso}
 | "[=etsoni+m.][NRoot][=swallow.sp. (inhabits.the.rocks; ES: golondrina.que.habita.en.las.rocas; sci.nm.: cypseloides.rutilus, atticora.fasciata)]" : {etsoni} 
 ! 
@@ -684,9 +680,14 @@ define NRootPRQin [
 | "[=etini][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]" : {etini}
 | "[=eteni][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]" : {eteni}
 ! 
+# ---------------------------------------------------------------------------------------
 | "[=etziki+n.m.][NRoot][=wild.fruit.sp. (ES: sp.de.fruta.silvestre, caimitillo)]" : {etziki}
 | "[=etiki+n.m.][NRoot][=wild.fruit.sp. (ES: sp.de.fruta.silvestre, caimitillo)]" : {etiki}
-| "[=etsiki][NRoot][=armadillo-fruit, curled_up.armadillo-like.fruit]" : {etsiki}
+| "[=etsiki][NRoot][=armadillo-fruit, curled_up.armadillo-like.fruit (ES: fruta.de.monte)]" : {etsiki}
+| "[=etsiki+n.m.][NRoot][=wild.fruit (ES: fruta.de.monte; PT: fruto.silvestre)]" : {etsiki}
+| "[=itsiki+n.m.][NRoot][=wild.fruit (ES: fruta.de.monte; PT: fruto.silvestre)]" : {itsiki}
+| "[=echiki][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: helycostilis.tormentosa)]" : {echiki}
+# ---------------------------------------------------------------------------------------
 ! 
 | "[=etita][NRoot][=guan.sp. (ES: sp.de.chachalaca; sci.nm.: ortalis.guttata)]" : {etita}
 ! 
