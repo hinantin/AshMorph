@@ -36,12 +36,12 @@ define RedupSyl=RO [
 ];
 
 define RedupSyl=PO [ 
-  "[--][-po][^2X][=continuous.action]" : {po} 
-| "[--][-po][^3X][=continuous.action]" : {popo} 
-| "[--][-po][^4X][=continuous.action]" : {popopo} 
-| "[--][-po][^5X][=continuous.action]" : {popopopo} 
-| "[--][-po][^6X][=continuous.action]" : {popopopopo} 
-| "[--][-po][^7X][=continuous.action]" : {popopopopopo} 
+  "[--][-po][+REDUP.SYL.^2X][=continuous.action]" : {po} 
+| "[--][-po][+REDUP.SYL.^3X][=continuous.action]" : {popo} 
+| "[--][-po][+REDUP.SYL.^4X][=continuous.action]" : {popopo} 
+| "[--][-po][+REDUP.SYL.^5X][=continuous.action]" : {popopopo} 
+| "[--][-po][+REDUP.SYL.^6X][=continuous.action]" : {popopopopo} 
+| "[--][-po][+REDUP.SYL.^7X][=continuous.action]" : {popopopopopo} 
 ];
 
 define RedupSyl=MI [ 
