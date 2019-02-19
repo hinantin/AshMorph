@@ -1074,7 +1074,7 @@ define VRootPRQin [
 | "[=matiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {matiya} ! misspelled?
 | "[=matsiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {matsiya} ! misspelled?
 ! 
-| "[=omapero][VRoot][=to.get.worse (ES: empeorarse)]" : {omapero}
+| "[=omapero+INF@/EP:t/antsi.][VRoot][=to.get.worse (ES: empeorarse)]" : {omapero}
 | "[=mapero][VRoot][=to.get.worse (ES: empeorarse); to.be.seriously.ill (ES: estar.grave); to.be.true]" : {mapero}
 ! 
 | "[=masavi+INF@/EP:t/aantsi.][VRoot][=to.sweat (ES: sudar)]" : {masavi}
