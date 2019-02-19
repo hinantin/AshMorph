@@ -117,6 +117,8 @@ define VRootPRQin [
 | "[=amatsee][VRoot][=to.crown.sb. (ES: coronar)]" : {amatsee}
 | "[=amatsai][VRoot][=to.crown.sb. (ES: coronar)]" : {amatsai}
 ! 
+| "[=amatsa+INF@/EP:t/antsi.][VRoot][=to.wound (ES: chaplar)]" : {amatsa}
+! 
 | "[=amashai+INF@/EP:t/aantsi.][VRoot][=to.sing/chant.(only.men).in_a_party-and-in_a_row (ES: cantar/salmodiar.durante.la.fiesta.en.una.fila)]" : {amashai}
 | "[=amashee+INF@/EP:t/aantsi.][VRoot][=to.sing/chant.(only.men).in_a_party-and-in_a_row (ES: cantar/salmodiar.durante.la.fiesta.en.una.fila)]" : {amashee}
 ! 
@@ -572,7 +574,7 @@ define VRootPRQin [
 # nokachokantarori / ES: 'yo.hago.agrio.algo' 
 | "[=kachok][VRoot][=to.be.sour (ES: ser.agrio)]" : {kachok}
 ! 
-| "[=kachoki][VRoot][=to.ferment (ES: fermentar)]" : {kachoki}
+| "[=kachoki+INF@antsi.][VRoot][=to.ferment (ES: fermentar, volver.ácido)]" : {kachoki}
 ! 
 | "[=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)]" : {kaem}
 | "[=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaim}
