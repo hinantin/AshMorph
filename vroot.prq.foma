@@ -1171,7 +1171,7 @@ define VRootPRQin [
 ! 
 | "[=mok][VRoot][=to.make.holes, to.perforate]" : {mok}
 ! 
-| "[=mishiya][VRoot][=to.frighten.away (ES: espantar, ahuyentar)]" : {mishiya}
+| "[=mishiya+INF@/EP:t/antsi.][VRoot][=to.frighten.away (ES: espantar, ahuyentar)]" : {mishiya}
 ! 
 | "[=mitsitsiy][VRoot][=to.submerge, to.sink (ES: sumergirse, hundirse)]" : {mitsitsiy}
 | "[=tsitsiy][VRoot][=to.dive (ES: sumergirse)]" : {tsitsiy}
@@ -1635,6 +1635,8 @@ define VRootPRQin [
 | "[=pitasa][VRoot][=to.fish.with.a.small.hook (ES: ansolear)]" : {pitasa}
 | "[=pitasaa][VRoot][=to.fish.with.a.small.hook (ES: ansolear)]" : {pitasaa}
 | "[=ampitasa][VRoot][=to.fish.with.a.(small).hook (ES: ansolear)]" : {ampitasa}
+! 
+| "[=pitsari+INF@antsi.][VRoot][=to.tear.to.pieces (ES: despedazar)]" : {pitsari}
 ! 
 | "[=pitsi][VRoot][=to.be.dirty (ES: ensuciar)]" : {pitsi}
 ! 
