@@ -45,12 +45,12 @@ define RedupSyl=PO [
 ];
 
 define RedupSyl=MI [ 
-  "[--][-mi][^2X][=continuous.action]" : {mi} 
-| "[--][-mi][^3X][=continuous.action]" : {mimi} 
-| "[--][-mi][^4X][=continuous.action]" : {mimimi} 
-| "[--][-mi][^5X][=continuous.action]" : {mimimimi} 
-| "[--][-mi][^6X][=continuous.action]" : {mimimimimi} 
-| "[--][-mi][^7X][=continuous.action]" : {mimimimimimi} 
+  "[--][-mi][+REDUP.SYL.^2X][=continuous.action]" : {mi} 
+| "[--][-mi][+REDUP.SYL.^3X][=continuous.action]" : {mimi} 
+| "[--][-mi][+REDUP.SYL.^4X][=continuous.action]" : {mimimi} 
+| "[--][-mi][+REDUP.SYL.^5X][=continuous.action]" : {mimimimi} 
+| "[--][-mi][+REDUP.SYL.^6X][=continuous.action]" : {mimimimimi} 
+| "[--][-mi][+REDUP.SYL.^7X][=continuous.action]" : {mimimimimimi} 
 ];
 
 define RedupSyl=PI [ 
