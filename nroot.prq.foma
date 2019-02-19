@@ -1684,8 +1684,6 @@ define NRootPRQin [
 | "[=kiatsi][NRoot][=mermaid, siren-like.river.creature (ES: sirena); anaconda-like/armadillo-like.creature; water.sprite]" : {kiatsi}
 | "[=kyatsi][NRoot][=mermaid, siren-like.river.creature (ES: sirena); anaconda-like/armadillo-like.creature; water.sprite]" : {kyatsi}
 | "[=kyaatsi][NRoot][=mermaid, siren-like.river.creature (ES: sirena); anaconda-like/armadillo-like.creature; water.sprite]" : {kyaatsi}
-| "[=tsomiri][NRoot][=river.master (ES: dueño.del.río)]" : {tsomiri}
-| "[=tsomiriniro~tsomiri{CL:/'bad/evil':niro/}][NRoot][= (ES: monstruo.acuático.que.come.los.cuerpos.ahogados)]" : {tsomiriniro}
 | "[=atsityopini][NRoot][=river.master (ES: dueño.del.río)]" : {atsityopini}
 ! 
 | "[=kintaronke][NRoot][=loro-machaco.snake, venomous.pitviper.sp. (sci.nm.: bothriopsis.bilineata)]" : {kintaronke}
@@ -4760,6 +4758,8 @@ define NRootPRQin [
 | "[=tsomi+n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsomi} ! @VCMP
 ! 
 | "[=tsomiri][NRoot][=black.boa.sp. (ES: boa.negra); demonic.water.owner]" : {tsomiri}
+| "[=tsomiri][NRoot][=river.master (ES: dueño.del.río)]" : {tsomiri}
+| "[=tsomiriniro~tsomiri{CL:/'bad/evil':niro/}][NRoot][=aquatic.monster.that.eats.drowned.bodies (ES: monstruo.acuático.que.come.los.cuerpos.ahogados)]" : {tsomiriniro}
 ! 
 | "[=tsompare+m.][NRoot][=heron.sp. (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]" : {tsompare}
 | "[=tsompari+m.][NRoot][=heron.sp., crane (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]" : {tsompari}
