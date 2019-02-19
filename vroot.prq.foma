@@ -2098,9 +2098,9 @@ define VRootPRQin [
 # itsinantakari 
 | "[=tsin][VRoot][=to.lift (ES: levantar)]" : {tsin}
 ! 
-| "[=tiri+INF@/EP:t/aantsi.][VRoot][=to.rub, to.anoint (ES: frotar, sobar)]" : {tiri}
-| "[=tziri+INF@/EP:t/aantsi.][VRoot][=to.rub, to.anoint (ES: frotar, sobar)]" : {tziri}
-| "[=otziri+INF@/EP:t/aantsi.][VRoot][=to.rub, to.anoint (ES: frotar, sobar)]" : {otziri}
+| "[=tiri+INF@/EP:t/aantsi.][VRoot][=to.rub, to.anoint (ES: frotar, sobar, untar)]" : {tiri}
+| "[=tziri+INF@/EP:t/aantsi.][VRoot][=to.rub, to.anoint (ES: frotar, sobar, untar)]" : {tziri}
+| "[=otziri+INF@/EP:t/aantsi.][VRoot][=to.rub, to.anoint (ES: frotar, sobar, untar)]" : {otziri}
 ! 
 | "[=tzirik][VRoot][=to.stick (to.push.sth.into.sth.)]" : {tzirik}
 ! 
