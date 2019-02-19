@@ -72,12 +72,12 @@ define RedupSyl=RA [
 ];
 
 define RedupSyl=VI [ 
-  "[--][-vi][^2X][=continuous.action]" : {vi} 
-| "[--][-vi][^3X][=continuous.action]" : {vivi} 
-| "[--][-vi][^4X][=continuous.action]" : {vivivi} 
-| "[--][-vi][^5X][=continuous.action]" : {vivivivi} 
-| "[--][-vi][^6X][=continuous.action]" : {vivivivivi} 
-| "[--][-vi][^7X][=continuous.action]" : {vivivivivivi} 
+  "[--][-vi][+REDUP.SYL.^2X][=continuous.action]" : {vi} 
+| "[--][-vi][+REDUP.SYL.^3X][=continuous.action]" : {vivi} 
+| "[--][-vi][+REDUP.SYL.^4X][=continuous.action]" : {vivivi} 
+| "[--][-vi][+REDUP.SYL.^5X][=continuous.action]" : {vivivivi} 
+| "[--][-vi][+REDUP.SYL.^6X][=continuous.action]" : {vivivivivi} 
+| "[--][-vi][+REDUP.SYL.^7X][=continuous.action]" : {vivivivivivi} 
 ];
 
 define RedupSyl=NI [ 
