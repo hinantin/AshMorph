@@ -5214,10 +5214,12 @@ define NRootPRQin [
 ! 
 | "[=vevito][NRoot][=person's.name]" : {vevito}
 ! 
-| "[=virakocha][NRoot][=outsider; white.person (PT: branco)]" : {virakocha}
+# ----------------------------------------------------------------------------
+| "[=virakocha][NRoot][=outsider; white.person (ES: gente.blanca; PT: branco)]" : {virakocha}
 ! wiakotxa 
-| "[=viakotxa/wiakotxa][NRoot:CPB][=outsider; white.person (PT: branco)]" : {wiakotxa}
-| "[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)]" : {wirakotxa}
+| "[=viakotxa/wiakotxa][NRoot:CPB][=outsider; white.person (ES: gente.blanca; PT: branco)]" : {wiakotxa}
+| "[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (ES: gente.blanca; PT: branco)]" : {wirakotxa}
+# ----------------------------------------------------------------------------
 ! 
 | "[=virotzi][NRoot][=bright-rumped.attila (sci.nm.: attila.spadiceus)]" : {virotzi}
 ! 
