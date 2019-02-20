@@ -72,10 +72,10 @@ define IdeoPRQin [
 ! 
 # ------------------------------------------------------------------------ 
 | "[=pak][Ideo:PRQ][=heavy-object.falling.down/on_the_ground/in_the_water]" : {pak}
-| "[=chaa][Ideo:PRQ][=heavy.object.falling]" : {chaa}
-| "[=chaak][Ideo:PRQ][=heavy.object.falling]" : {chaak}
-| "[=poo][Ideo:PRQ][=heavy.object.falling]" : [{poo}]
-| "[=poom][Ideo:PRQ][=heavy.object.falling]" : [{poom}]
+| "[=chaa][Ideo:PRQ][=heavy.object.falling.(in_the_water)]" : {chaa}
+| "[=chaak][Ideo:PRQ][=heavy.object.falling.(in_the_water)]" : {chaak}
+| "[=poo][Ideo:PRQ][=heavy.object.falling.(in_the_water)]" : [{poo}]
+| "[=poom][Ideo:PRQ][=heavy.object.falling.(in_the_water)]" : [{poom}]
 | "[=pong][Ideo][=splash!]" : {pong} 
 | "[=chak][Ideo:PRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash; action.of.quickly.pouring.water.into.a_receptacle]" : {chak} 
 # ------------------------------------------------------------------------ 
