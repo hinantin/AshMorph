@@ -201,8 +201,9 @@ define IdeoPRQin [
 ! 
 | "[=tako][Ideo:PRQ][=water.level.rising.in.river]" : {tako}
 ! 
-| "[=peta+s.redup.word][Ideo:PRQ][=action.of.bird.wings.flapping (ES: acción.de.las.aves/palomas.volando?); sound.of.diarrhea, having.diarrhea]" : {peta}
+| "[=peta+s.redup.word@2X.][Ideo:PRQ][=action.of.bird.wings.flapping (ES: acción.de.las.aves/palomas.volando?)]" : {peta}
 | "[=petak+s.redup.word][Ideo:PRQ][=repetitive.movements.of.fanning.fire.with.a.fan; repetition.of.a.punctual.event; fanning.the_fire.with.a_fan]" : {petak}
+| "[=peta+s.redup.word@3X.][Ideo:PRQ][=sound.of.diarrhea, action.of.having.diarrhea]" : {peta}
 ! 
 | "[=pite+s.redup.word@2X.][Ideo:PRQ][=trickling.stream; liquid.falling.in.drops; stream.of.any.liquid.trickling]" : {pite}
 | "[=pite+s.redup.word][Ideo:PRQ][=trickling.stream; liquid.falling.in.drops][--][-k][+PUNCTUAL.ACTN]" : {pitek}
@@ -442,7 +443,7 @@ define IdeoPRQin [
 ! 
 | "[=metori+s.redup.word@2X:3X.][Ideo:PRQ][=cutting.weeds/twigs.of.firewood, cutting/breaking.firewood.with.hands; <:digging.soft.soil.with.hands]" : {metori}
 ! 
-| "[=patari+s.redup.word][Ideo:PRQ][=multiple.objects.falling; downward.falling.motion.of.many.non-human.objects (usually.fruit)]" : {patari}
+| "[=patari+s.redup.word@2X.][Ideo:PRQ][=multiple.objects.falling; downward.falling.motion.of.many.non-human.objects (usually.fruit)]" : {patari}
 ! 
 | "[=tsikiri+s.redup.word/+redup.syl.][Ideo:PRQ][=liquid.gushing.out.in.a.stream; arterial.bleeding (gushing.out)]" : {tsikiri}
 | "[=tsikiri][Ideo:PRQ][=IDEO]" : {tsikiri}
