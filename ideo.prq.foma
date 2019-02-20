@@ -75,7 +75,10 @@ define IdeoPRQin [
 ! 
 | "[=shoi+s.redup.word@2X.][Ideo:PRQ][=twisting.movement (e.g.: bottle.cap); object's.circular.movement.around.another.object (e.g.: walking.in.circles)]" : {shoi}
 ! 
+# ------------------------------------------------------------------------ 
 | "[=pak][Ideo:PRQ][=heavy-object.falling.down/on_the_ground/in_the_water]" : {pak}
+| "[=chak][Ideo:PRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash; action.of.quickly.pouring.water.into.a_receptacle]" : {chak} 
+# ------------------------------------------------------------------------ 
 | "[=pak+s.redup.word@3X.][Ideo:PRQ][=giving.strong.blows.to.human_body; delivering.devastating.blows, bludgeoning.sb/sth.with.sth.]" : {pak}
 ! 
 | "[=vea+s.redup.word][Ideo:PRQ][=many.people.talking]" : {vea}
@@ -90,8 +93,6 @@ define IdeoPRQin [
 | "[=shishsh][Ideo:PRQ][=trickle.of.urine (refers.to.babies'.urination.only)]" : {shishsh}
 ! 
 | "[=shik+s.redup.word][Ideo:PRQ][=action.of.removing.fish_scales.with.a.scraper]" : {shik}
-! 
-| "[=chak][Ideo:PRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash; action.of.quickly.pouring.water.into.a_receptacle]" : {chak} 
 ! 
 | "[=shei+s.redup.word][Ideo:PRQ][=sawing.wood; cutting.action]" : {shei} 
 ! 
