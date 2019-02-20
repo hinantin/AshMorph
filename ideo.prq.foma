@@ -52,9 +52,6 @@ define IdeoPRQin [
 | "[=chaa][Ideo:PRQ][=roaring.waterfall (ES: sonido.de.una.cascada.rugiente); sound.of.a.cascading.waterfall]" : {chaa}
 | "[=chaaaa][Ideo:PRQ][=roaring.waterfall (ES: sonido.de.una.cascada.rugiente); sound.of.a.cascading.waterfall]" : {chaaaa}
 ! 
-| "[=chaa][Ideo:PRQ][=heavy.object.falling]" : {chaa}
-| "[=chaak][Ideo:PRQ][=heavy.object.falling]" : {chaak}
-! 
 | "[=shee][Ideo:PRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream; a.quick.release.from.pain (e.g.: headache)]" : {shee}
 | "[=sheee][Ideo:PRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheee}
 | "[=sheeee][Ideo:PRQ][=heavy.rainfall; large.waterfall; sound.of.a.large.water.stream.violently.running.during.the.rainfall; running.waterstream]" : {sheeee}
@@ -77,6 +74,8 @@ define IdeoPRQin [
 ! 
 # ------------------------------------------------------------------------ 
 | "[=pak][Ideo:PRQ][=heavy-object.falling.down/on_the_ground/in_the_water]" : {pak}
+| "[=chaa][Ideo:PRQ][=heavy.object.falling]" : {chaa}
+| "[=chaak][Ideo:PRQ][=heavy.object.falling]" : {chaak}
 | "[=chak][Ideo:PRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash; action.of.quickly.pouring.water.into.a_receptacle]" : {chak} 
 # ------------------------------------------------------------------------ 
 | "[=pak+s.redup.word@3X.][Ideo:PRQ][=giving.strong.blows.to.human_body; delivering.devastating.blows, bludgeoning.sb/sth.with.sth.]" : {pak}
