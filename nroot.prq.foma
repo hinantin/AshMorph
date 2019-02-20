@@ -5319,13 +5319,17 @@ define NRootPRQin [
 ! 
 # Yorowa / Yorova / 
 | "[=Yorova][NRoot][=NP (ES: Yurúa)]" : {yorova}
+# ----------------------------------------------------------------- 
 ! word set:
 | "[niyanki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {niyanki}
 # nonianquijataque / noniankihatake / no- =nianki -ha -t -ak -e / 1sg.s- =to.go.through.the.middle.of.sth. -cl:liquid -ep -prf -irr / ES: 'Yo.voy.por.el.centro.del.río,no.por.las.orillas'  
 | "[=nianki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {nianki} ! N@->V::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)] 
+| "[=niyankia~niyanki{CL:/'liquid':a/}+n.m.][NRoot][=main.channel.of.the.river (ES: canal.principal.del.río)]" : {niyankia}
+! 
 | "[=kashetani][NRoot][=half (ES: mitad); piece (ES: pedazo)]" : {kashetani}
 | "[=kashetaeni][NRoot][=half (ES: mitad); piece (ES: pedazo)]" : {kashetaeni}
 | "[=sheta+n.m.+inal@tsi.][NRoot][=half (ES: mitad); part (ES: part)]" : {sheta}
+# ----------------------------------------------------------------- 
 ! word set: medicinal plants
 | "[=taeri][NRoot][=amasisa, tree.sp.]" : {taeri}
 | "[=kanae][NRoot][=tangarana, tree.sp.]" : {kanae}
