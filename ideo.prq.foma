@@ -472,11 +472,11 @@ define IdeoPRQin [
 ! 
 | "[=tyaapaki+s.redup.word@2X.][Ideo:PRQ][=walking.in.a.duck-like.manner (with.big.feet)]" : {tyaapaki}
 ! 
-| "[=pitsari+s.redup.word][Ideo:PRQ][=breaking.soft.food.into.pieces (e.g.: bread, meat)]" : {pitsari}
+| "[=pitsari+s.redup.word@2X.][Ideo:PRQ][=breaking.soft.food.into.pieces (e.g.: bread, meat)]" : {pitsari}
 ! 
 | "[=sanarik][Ideo:PRQ][=crashing.into.a.vacuous.space (e.g.: falling.through.the.roof.of.the.house)]" : {sanarik}
 ! 
-| "[=pitori+s.redup.word][Ideo:PRQ][=breaking.sth.soft.into.pieces (e.g.: a.soft.stone, cookie, bread, banana, cooked.manioc)]" : {pitori}
+| "[=pitori+s.redup.word@2X.][Ideo:PRQ][=breaking.sth.soft.into.pieces (e.g.: a.soft.stone, cookie, bread, banana, cooked.manioc)]" : {pitori}
 ! 
 | "[=shitari+s.redup.word][Ideo:PRQ][=splitting.in.two]" : {shitari}
 ! 
@@ -515,7 +515,7 @@ define IdeoPRQin [
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word@2X.][Ideo:PRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object; movement.in.a.curved.trajectory]" : {terempiri}
 | "[=terempiro+s.redup.word][Ideo:PRQ][=curved.object]" : {terempiro}
-| "[=pitokiri+s.redup.word][Ideo:PRQ][=to.break.in.pieces; breaking.food.into.multiple.pieces (e.g. cooked.manioc, squash, papaya)]" : {pitokiri}
+| "[=pitokiri+s.redup.word@2X.][Ideo:PRQ][=to.break.in.pieces; breaking.food.into.multiple.pieces (e.g. cooked.manioc, squash, papaya)]" : {pitokiri}
 | "[=chirirorik][Ideo:PRQ][=shallow.splash]" : {chirirorik}
 | "[=pakarorik][Ideo:PRQ][=falling.of.corn/grain.feed.for.chickens]" : {pakarorik}
 | "[=chikiroring][Ideo:PRQ][=falling.&.resulting.in.the.disintegration.of.a.fragile.object (e.g.: mirror, tea_cup)]" : {chikiroring}
