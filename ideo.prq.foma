@@ -76,7 +76,7 @@ define IdeoPRQin [
 | "[=shoi+s.redup.word@2X.][Ideo:PRQ][=twisting.movement (e.g.: bottle.cap); object's.circular.movement.around.another.object (e.g.: walking.in.circles)]" : {shoi}
 ! 
 | "[=pak][Ideo:PRQ][=heavy.object.falling.down/on_the_ground]" : {pak}
-| "[=pak+s.redup.word][Ideo:PRQ][=giving.strong.blows.to.human_body; delivering.devastating.blows, bludgeoning.sb/sth.with.sth.]" : {pak}
+| "[=pak+s.redup.word@3X.][Ideo:PRQ][=giving.strong.blows.to.human_body; delivering.devastating.blows, bludgeoning.sb/sth.with.sth.]" : {pak}
 ! 
 | "[=vea+s.redup.word][Ideo:PRQ][=many.people.talking]" : {vea}
 ! 
@@ -255,7 +255,7 @@ define IdeoPRQin [
 ! 
 | "[=macho+s.redup.word@2X.][Ideo:PRQ][=opening.and.closing.eyes.in.a.rapid.manner]" : {macho} 
 ! 
-| "[=moye+s.redup.word][Ideo:PRQ][=boiling.water.which.is.moving.in.circles.in.a_pot; water.boiling.in.a_pot; general.body.ache, have.bodily.pain]" : {moye} 
+| "[=moye+s.redup.word@2X.][Ideo:PRQ][=boiling.water.which.is.moving.in.circles.in.a_pot; water.boiling.in.a_pot; general.body.ache, have.bodily.pain]" : {moye} 
 ! 
 | "[=tire][Ideo:PRQ][=a.punctual.action.of.pushing.an_object.off]" : {tire} 
 ! 
