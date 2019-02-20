@@ -7,10 +7,8 @@ define IdeoPRQin [
 #        MONOSYLLABIC IDEOPHONE          
 # ---------------------------------------
 # pooo: abrupt-and-brusque.sound.made.by.a.loud.disabling.blow 
-  "[=poo][Ideo:PRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : {poo}
-| "[=pooo][Ideo:PRQ][=hitting.sth. (human.body); penetration; heavy.object.falling]" : [{pooo}]
-| "[=poom][Ideo:PRQ][=heavy.object.falling]" : [{poom}]
-| "[=pong][Ideo][=splash!]" : {pong} 
+  "[=poo][Ideo:PRQ][=hitting.sth. (human.body); penetration]" : {poo}
+| "[=pooo][Ideo:PRQ][=hitting.sth. (human.body); penetration]" : [{pooo}]
 ! 
 | "[=poon][Ideo:PRQ][=sound/action.of.birds.flying]" : {poon} 
 ! 
@@ -76,6 +74,9 @@ define IdeoPRQin [
 | "[=pak][Ideo:PRQ][=heavy-object.falling.down/on_the_ground/in_the_water]" : {pak}
 | "[=chaa][Ideo:PRQ][=heavy.object.falling]" : {chaa}
 | "[=chaak][Ideo:PRQ][=heavy.object.falling]" : {chaak}
+| "[=poo][Ideo:PRQ][=heavy.object.falling]" : [{poo}]
+| "[=poom][Ideo:PRQ][=heavy.object.falling]" : [{poom}]
+| "[=pong][Ideo][=splash!]" : {pong} 
 | "[=chak][Ideo:PRQ][=actor's.emergence.from.the.river.accompanied.by.a_large_splash; action.of.quickly.pouring.water.into.a_receptacle]" : {chak} 
 # ------------------------------------------------------------------------ 
 | "[=pak+s.redup.word@3X.][Ideo:PRQ][=giving.strong.blows.to.human_body; delivering.devastating.blows, bludgeoning.sb/sth.with.sth.]" : {pak}
