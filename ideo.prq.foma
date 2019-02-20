@@ -8,8 +8,10 @@ define IdeoPRQin [
 #        MONOSYLLABIC IDEOPHONE          
 # ---------------------------------------
 # pooo: abrupt-and-brusque.sound.made.by.a.loud.disabling.blow 
-  "[=poo][Ideo:PRQ][=hitting.sth. (human.body); penetration]" : {poo}
-| "[=pooo][Ideo:PRQ][=hitting.sth. (human.body); penetration]" : [{pooo}]
+  "[=poo][Ideo:PRQ][=hitting.sth. (human.body), action.of.a.heavy.blow,administered; penetration]" : {poo}
+| "[=pooo][Ideo:PRQ][=hitting.sth. (human.body), action.of.a.heavy.blow,administered; penetration]" : [{pooo}]
+| "[=pok][Ideo:PRQ][=hitting.sth. (human.body), action.of.a.heavy.blow,administered]" : {pok}
+| "[=pook][Ideo:PRQ][=hitting.sth. (human.body), action.of.a.heavy.blow,administered]" : {pook}
 ! 
 | "[=poon][Ideo:PRQ][=sound/action.of.birds.flying]" : {poon} 
 ! 
@@ -19,8 +21,8 @@ define IdeoPRQin [
 ########
 #  pok  
 # - light object hitting a solid surface, without compromising the object’s integrity
-| "[=pok+s.redup.word][Ideo:PRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pok}
-| "[=pook+s.redup.word][Ideo:PRQ][=falling.into.water; hitting.sth. (human.body); light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pook}
+| "[=pok+s.redup.word][Ideo:PRQ][=falling.into.water; light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pok}
+| "[=pook+s.redup.word][Ideo:PRQ][=falling.into.water; light.object.hitting_a_solid_surface/falling_on_the_ground]" : {pook}
 ! 
 | "[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]" : {eh}
 ! 
