@@ -3319,11 +3319,11 @@ define NRootPRQin [
 | "[=mapinini][NRoot][=little.rock; stone.divinity.located.in.the.uplands.of.Metraro]" : {mapinini}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pavo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis); chotacabras.bird (ES: el.pájaro.chotacabras)]" : {pavo}
-| "[=pavoo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis); chotacabras.bird (ES: el.pájaro.chotacabras)]" : {pavoo}
-| "[=paro+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)); chotacabras.bird (ES: el.pájaro.chotacabras)]" : {paro}
-| "[=paroo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)); chotacabras.bird (ES: el.pájaro.chotacabras)]" : {paroo}
-| "[=paroni][NRoot][=bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)); chotacabras.bird (ES: el.pájaro.chotacabras)]" : {paroni}
+| "[=pavo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis); chotacabras-bird (ES: el.pájaro.chotacabras)]" : {pavo}
+| "[=pavoo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis); chotacabras-bird (ES: el.pájaro.chotacabras)]" : {pavoo}
+| "[=paro+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)); chotacabras-bird (ES: el.pájaro.chotacabras)]" : {paro}
+| "[=paroo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)); chotacabras-bird (ES: el.pájaro.chotacabras)]" : {paroo}
+| "[=paroni][NRoot][=bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)); chotacabras-bird (ES: el.pájaro.chotacabras)]" : {paroni}
 ! 
 | "[=pashii][NRoot][=tropical.tree.sp. (ES: caimito)]" : {pashii}
 | "[=pashiiki][NRoot][=caimito.fruit, star.apple (ES: caimito)]" : {pashiiki}
