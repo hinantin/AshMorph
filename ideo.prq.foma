@@ -348,7 +348,9 @@ define IdeoPRQin [
 ! 
 | "[=anye+s.redup.word@2X.][Ideo:PRQ][=action.of.many.people.talking (ES: acción.de.mucha.gente.hablando)]" : {anye} 
 ! 
-| "[=shiri+s.redup.word][Ideo:PRQ][=sweeping.the.floor.with.a_broom; sewing/bead_stringing]" : {shiri} 
+| "[=shiri+s.redup.word@2X.][Ideo:PRQ][=action.of.sewing/stringing.beads/seeds (ES: acción.de.coser/ensartar.pepitas)]" : {shiri} 
+! 
+| "[=shiri+s.redup.word][Ideo:PRQ][=sweeping.the.floor.with.a_broom]" : {shiri} 
 | "[=pishe+s.redup.word@2X.][Ideo:PRQ][=sweeping.the.floor.with.a_broom]" : {pishe} 
 ! 
 | "[=kiva+s.redup.word@2X.][Ideo:PRQ][=action.of.washing.clothes.by.hand]" : {kiva} 
