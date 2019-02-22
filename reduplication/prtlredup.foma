@@ -5,11 +5,11 @@ define Cons [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}
 define Redup %< \[%<|%>]+ %> ;
 
 define Lexicon [
-  "=amen": [{amen}]
-| "apii": [{apii}]
-| "ashi": [{ashi}]
-| "atsik": [{atsik}]
-| "chek": [{chek}]
+  "=amen": [{amen}] ! amemen
+| "apii": [{apii}] ! apiipii
+| "ashi": [{ashi}] ! ashishita
+| "atsik": [{atsik}] ! atsitsika
+| "chek": [{chek}] ! chechek
 | "kaim" : [{kaim}]
 | "kimota" : [{kimota}]
 | "ken" : [{ken}]

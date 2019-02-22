@@ -14,10 +14,10 @@ define lexicon [
 | "[=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p}
 ];
 
-define MarkRedup [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
-define DelEp01 [..] -> %< Cons ([ Vow | Cons ]*) %> (EP) || .#. _ %< ; ! DELETES EPHENTESIS 
-!define DelEp02 [..] -> %< Cons ([ Vow | Cons ]*) %> (EP) || %> _ .#. ;
+define Rule1 [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
+define Rule2 [..] -> %< Cons ([ Vow | Cons ]*) %> (EP) || .#. _ %< ; ! DELETES EPHENTESIS 
+define Rule3 [..] -> %< Cons ([ Vow | Cons ]*) %> (EP) || %> _ .#. ;
 define RemoveBrackets %<|%> -> 0;
 
-define preRedup lexicon .o. MarkRedup .o. DelEp01 ; !.o. DelEp02 ; 
+define preRedup lexicon .o. Rule1 .o. Rule2 ; !.o. Rule3 ; 
 regex _eq(preRedup, %<, %>) .o. RemoveBrackets;
