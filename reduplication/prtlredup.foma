@@ -6,22 +6,22 @@ define Redup %< \[%<|%>]+ %> ;
 
 define Lexicon [
   "=amen": [{amen}] ! amemen
-| "apii": [{apii}] ! apiipii
-| "ashi": [{ashi}] ! ashishita
-| "atsik": [{atsik}] ! atsitsika
-| "chek": [{chek}] ! chechek
-| "kaim" : [{kaim}] ! kaikaim
-| "kimota" : [{kimota}] ! 
-| "ken" : [{ken}]
-| "kinkitsa" : [{kinkitsa}]
-| "koma": [{koma}]
-| "kov" : [{kov}]
-| "mairi" : [{mairi}]
-| "saik" : [{saik}]
-| "sankena" : [{sankena}]
-| "sampi" : [{sampi}]
-| "tasonk" : [{tasonk}]
-| "tsaanki" : [{tsaanki}]
+| "=apii": [{apii}] ! apiipii
+| "=ashi": [{ashi}] ! ashishita
+| "=atsik": [{atsik}] ! atsitsika
+| "=chek": [{chek}] ! chechek
+| "=kaim" : [{kaim}] ! kaikaim
+| "=kimota" : [{kimota}] ! 
+| "=ken" : [{ken}]
+| "=kinkitsa" : [{kinkitsa}]
+| "=koma": [{koma}]
+| "=kov" : [{kov}]
+| "=mairi" : [{mairi}]
+| "=saik" : [{saik}]
+| "=sankena" : [{sankena}]
+| "=sampi" : [{sampi}]
+| "=tasonk" : [{tasonk}]
+| "=tsaanki" : [{tsaanki}]
 ];
 
 define LexiconSemiManual [
@@ -65,12 +65,12 @@ define LexiconManual [
 ];
 
 define Rule2 [..] -> %< \[%<|%>]+ %> || .#. {a} _ %< ,, .#. _ %< ; 
-define Rule1 [ Cons [Vow|Diphthong] ] -> %< ... %> || .#. _  ,, .#. {a} _ ; 
+define Rule1 [ Cons [Vow|Diphthong] ] -> %< ... %> || .#. _ Cons ,, .#. _ .#. ,, .#. {a} _ Cons ,, .#. {a} _ .#. ; 
 define RemoveBrackets %<|%> -> 0;
 
 define LLexicon Lexicon .o. Rule1 .o. Rule2 ; 
 #define LLexicon Lexicon .o. MarkRedup; ! SemiManual
 # define LLexicon Lexicon ; Manual
 #define preRedup lexicon .o. Rule1 .o. MarkRedup; 
-regex _eq(LLexicon, %<, %>) .o. RemoveBrackets; 
+regex 0 <- %<|%> .o. _eq(LLexicon, %<, %>) .o. RemoveBrackets; 
 
