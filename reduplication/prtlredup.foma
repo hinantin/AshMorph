@@ -9,6 +9,26 @@ define EP [
 define Redup %< \[%<|%>]+ %> ;
 
 define Lexicon [
+  "amen": [{a}(Redup){men}]
+| "apii": [{a}(Redup){pii}]
+| "ashi": [{a}(Redup){shi}]
+| "atsik": [{a}(Redup){tsik}]
+| "chek": [(Redup){chek}]
+| "kaim" : [(Redup){kaim}]
+| "kimota" : [(Redup){kimota}]
+| "ken" : [(Redup){ken}]
+| "kinkitsa" : [(Redup){kinkitsa}]
+| "koma": [(Redup){koma}]
+| "kov" : [(Redup){kov}]
+| "mairi" : [(Redup){mairi}]
+| "saik" : [(Redup){saik}]
+| "sankena" : [(Redup){sankena}]
+| "sampi" : [(Redup){sampi}]
+| "tasonk" : [(Redup){tasonk}]
+| "tsaanki" : [(Redup){tsaanki}]
+];
+
+define LexiconManual [
   "amen": [{a}(Redup)%<{me}%>{n}]
 | "apii": [{a}(Redup)%<{pii}%>]
 | "ashi": [{a}(Redup)%<{shi}%>]
@@ -29,9 +49,9 @@ define Lexicon [
 ];
 
 #define Rule1  ["Redup+"] -> %< ... %> ;
-#define MarkRedup [ Cons Vow ] -> %< ... %> || %> _ ;
+define MarkRedup [ Cons [Vow|Diphthong] ] -> %< ... %> || %> _ ;
 define RemoveBrackets %<|%> -> 0;
 
-define LLexicon Lexicon ; 
+define LLexicon Lexicon .o. MarkRedup; 
 #define preRedup lexicon .o. Rule1 .o. MarkRedup; 
 regex _eq(LLexicon, %<, %>) .o. RemoveBrackets; 
