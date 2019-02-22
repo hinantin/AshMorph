@@ -5,7 +5,7 @@ define Cons [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}
 define Redup %< \[%<|%>]+ %> ;
 
 define Lexicon [
-  "=amen": [{amen}] ! amemen
+  "[=amen+prtl.redup@b.copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]": [{amen}] ! amemen
 | "=apii": [{apii}] ! apiipii
 | "=ashi": [{ashi}] ! ashishita
 | "=atsik": [{atsik}] ! atsitsika
