@@ -1,0 +1,25 @@
+define Vow [a|e|i|ii|o];
+define Cons [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}];
+define EP [
+  "[--][-a][+EP]" : {a} 
+| "[--][-aa][+EP]" : {aa} 
+];
+
+define Redup %< \[%<|%>]+ %> ;
+
+define Lexicon [
+  "amen": [{a}(Redup)%<{me}%>{n}]
+| "apii": [{a}(Redup)%<{pii}%>]
+| "ashi": [{a}(Redup)%<{shi}%>]
+| "atsik": [{a}(Redup)%<{tsi}%{k}>]
+| "koma": [(Redup)%<{ko}%>{ma}]
+| "kov" : [(Redup)%<{ko}%>{v}]
+];
+
+#define Rule1  ["Redup+"] -> %< ... %> ;
+#define MarkRedup [ Cons Vow ] -> %< ... %> || %> _ ;
+define RemoveBrackets %<|%> -> 0;
+
+define LLexicon Lexicon ; 
+#define preRedup lexicon .o. Rule1 .o. MarkRedup; 
+regex _eq(LLexicon, %<, %>) .o. RemoveBrackets; 
