@@ -22,6 +22,8 @@ define Lexicon [
 | "kov" : [(Redup)%<{ko}%>{v}]
 | "mairi" : [(Redup)%<{mai}%>{ri}]
 | "saik" : [(Redup)%<{sai}%>{k}]
+| "sankena" : [(Redup)%<{sa}%>{nkena}]
+| "sampi" : [(Redup)%<{sa}%>{mpi}]
 ];
 
 #define Rule1  ["Redup+"] -> %< ... %> ;
