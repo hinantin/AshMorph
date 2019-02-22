@@ -12,6 +12,7 @@ define Lexicon [
 | "apii": [{a}(Redup)%<{pii}%>]
 | "ashi": [{a}(Redup)%<{shi}%>]
 | "atsik": [{a}(Redup)%<{tsi}%{k}>]
+| "chek": [(Redup)%<{che}%{k}>]
 | "koma": [(Redup)%<{ko}%>{ma}]
 | "kov" : [(Redup)%<{ko}%>{v}]
 ];
