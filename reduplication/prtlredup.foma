@@ -13,10 +13,11 @@ define Lexicon [
 | "ashi": [{a}(Redup)%<{shi}%>]
 | "atsik": [{a}(Redup)%<{tsi}%>{k}]
 | "chek": [(Redup)%<{che}%>{k}]
-| "koma": [(Redup)%<{ko}%>{ma}]
-| "kov" : [(Redup)%<{ko}%>{v}]
 | "kaim" : [(Redup)%<{kai}%>{m}]
 | "kimota" : [(Redup)%<{ki}%>{mota}]
+| "ken" : [(Redup)%<{ke}%>{n}]
+| "koma": [(Redup)%<{ko}%>{ma}]
+| "kov" : [(Redup)%<{ko}%>{v}]
 ];
 
 #define Rule1  ["Redup+"] -> %< ... %> ;
