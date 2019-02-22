@@ -1,4 +1,4 @@
-define Vow [a|e|i|ii|o];
+define Vow [a|aa|e|i|ii|o];
 define Diphthong [ai];
 define Cons [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}];
 define EP [
@@ -24,6 +24,8 @@ define Lexicon [
 | "saik" : [(Redup)%<{sai}%>{k}]
 | "sankena" : [(Redup)%<{sa}%>{nkena}]
 | "sampi" : [(Redup)%<{sa}%>{mpi}]
+| "tasonk" : [(Redup)%<{ta}%>{sonk}]
+| "tsaanki" : [(Redup)%<{tsaa}%>{nki}]
 ];
 
 #define Rule1  ["Redup+"] -> %< ... %> ;
