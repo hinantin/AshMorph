@@ -1,5 +1,5 @@
-define Vow [a|aa|e|i|ii|o];
-define Diphthong [ai];
+define Vow [{a}|{aa}|{e}|{ii}|{i}|{o}]; 
+define Diphthong [{ai}];
 define Cons [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}];
 
 define Redup %< \[%<|%>]+ %> ;
@@ -10,8 +10,8 @@ define Lexicon [
 | "ashi": [{ashi}] ! ashishita
 | "atsik": [{atsik}] ! atsitsika
 | "chek": [{chek}] ! chechek
-| "kaim" : [{kaim}]
-| "kimota" : [{kimota}]
+| "kaim" : [{kaim}] ! kaikaim
+| "kimota" : [{kimota}] ! 
 | "ken" : [{ken}]
 | "kinkitsa" : [{kinkitsa}]
 | "koma": [{koma}]
