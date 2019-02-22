@@ -1,10 +1,6 @@
 define Vow [a|aa|e|i|ii|o];
 define Diphthong [ai];
 define Cons [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}];
-define EP [
-  "[--][-a][+EP]" : {a} 
-| "[--][-aa][+EP]" : {aa} 
-];
 
 define Redup %< \[%<|%>]+ %> ;
 
