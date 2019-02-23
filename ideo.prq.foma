@@ -38,7 +38,8 @@ define IdeoPRQin [
 | "[=tyak+whistle.lang.][Ideo:CJO][=action.of.hitting.sth./sb.]" : {tyak} 
 ! 
 | "[=tek+s.redup.word@3X.][Ideo:PRQ][=running.briskly; sound/action.of.sb./sth.running (ES: sonido/acción.de.algo/algn.corriendo)]" : {tek} ! \cite[p\'{a}g. 36]{anderson:cuentos:85}
-| "[=tok+s.redup.word@3X.][Ideo:PRQ][=running.briskly; cutting.off.fruit, cutting.fruit.off.a_tree; action.of.hitting.(a.solid.substance)]" : {tok}
+| "[=tok+s.redup.word@3X.][Ideo:PRQ][=running.briskly; action.of.hitting.(a.solid.substance)]" : {tok}
+| "[=tok+s.redup.word@2X.][Ideo:PRQ][=cutting.off.fruit, action.of.cutting.fruit.off.a_tree]" : {tok}
 ! 
 | "[=she+s.redup.word][Ideo:PRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)]" : {she}
 | "[=she+s.redup.word][Ideo:PRQ][=action.of.scratching; action.of.turning.the.soil (ES: acción.de.remover.la.tierra)][--][-k][+PUNCTUAL.ACTN]::[=action.of.scraping]" : {shek}
