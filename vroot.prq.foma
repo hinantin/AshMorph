@@ -455,7 +455,7 @@ define VRootPRQin [
 | "[=chirink+INF@aantsi.][VRoot][=to.fry.sth. (ES: freír)]" : {chirink}
 | "[=tsionk+INF@aantsi.][VRoot][=to.fry.sth. (ES: freír)]" : {tsionk}
 ! 
-| "[=chonk][VRoot][=to.evaporate; to.take.a.steam-bath, to.do.a.steam.bath.for.sb.]" : {chonk}
+| "[=chonk+INF@antsi.][VRoot][=to.evaporate, to.steambathe (ES: evaporar); to.take.a.steam-bath, to.do.a.steam.bath.for.sb.]" : {chonk}
 ! 
 | "[=chopi][VRoot][=to.make.soup (ES: hacer.sopa.de.algo), to.soften.sth.; to.cook.in.liquid]" : {chopi}
 ! 
@@ -1755,9 +1755,9 @@ define VRootPRQin [
 | "[=riro][VRoot][=to.watch]" : {riro}
 ! 
 # evaporar.con.hierbas, sudar 
+| "[=sa+INF@antsi.][VRoot][=to.steambathe.with.herbs (ES: evaporar.con.hierbas)]" : {sa}
 | "[=saa][VRoot][=to.bathe]" : {saa}
 | "[=saa][VRoot][=to.bathe.in.hot.water; to.pour.warm_liquids.over.sb.in.order.to.heal.it/him/her.]" : {saa}
-! 
 | "[=saa][VRoot][=to.steam.bathe]" : {saa}
 ! 
 | "[=saana][VRoot][=to.be.deep (ES: ser.profundo)]" : {saana}
