@@ -290,7 +290,7 @@ define IdeoPRQin [
 ! 
 | "[=sori+s.redup.word][Ideo:PRQ][=filling.a.container.with.some.substance; eruption.of.sores/pockmarks.on.the.skin (accompanied.by.swelling; probably.caused.by.smallpox)]" : {sori} 
 ! 
-| "[=vako+s.redup.word][Ideo:PRQ][=human.actor.continuously.waving.with.a.folded.hand; waving.with.a.folded.hand.signaling.an_intention.to.talk]" : {vako} 
+| "[=vako+s.redup.word@2X.][Ideo:PRQ][=human.actor.continuously.waving.with.a.folded.hand; waving.with.a.folded.hand.signaling.an_intention.to.talk]" : {vako} 
 ! 
 | "[=sakiri+s.redup.word@2X.][Ideo:PRQ][=moving.in.a.straight.line (e.g.: meteorite.trajectory); filing.down.an_arrow]" : {sakiri} 
 ! 
@@ -338,7 +338,8 @@ define IdeoPRQin [
 ! 
 | "[=sapok][Ideo:PRQ][=effortlessly.sleeping.out.of.a_garment]" : {sapok} 
 ! 
-| "[=tsinka+s.redup.word][Ideo:PRQ][=crushing.a.soft_object.in.a_trough (e.g.: manioc/cotton.mass, boiled.manioc/cotton; ES: acción.de.chancar)]" : {tsinka} 
+| "[=tsinka+s.redup.word@2X.][Ideo:PRQ][=crushing.a.soft_object.in.a_trough (e.g.: manioc/cotton.mass, boiled.manioc/cotton; ES: acción.de.chancar)]" : {tsinka}
+| "[=tzinka+s.redup.word@2X.][Ideo:PRQ][=crushing.a.soft_object.in.a_trough (e.g.: manioc/cotton.mass, boiled.manioc/cotton; ES: acción.de.chancar)]" : {tzinka}  
 ! 
 | "[=tsinkari][Ideo:PRQ][=a.sudden.feeling.of.a.stir.inside.the_body]" : {tsinkari} 
 ! 
