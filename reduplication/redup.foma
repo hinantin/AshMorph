@@ -5,6 +5,20 @@ define EP [
 | "[--][-aa][+EP]" : {aa} 
 ];
 
+define P=1 [
+# 1st person singular 
+  "[no-][VPers][1SG.S/A+][--]" : [{no}] ! 
+| "[n-][VPers][1SG.S/A+][--]" : [{n}] ! 
+# 2nd person singular 
+| "[p-][VPers][2S/A+][--]" : [{p}] ! 
+| "[pi-][VPers][2S/A+][--]" : [{pi}] ! 
+# 3rd person (male) singular
+| "[i-][VPers][3m.S/A+][--]" : [{i}] ! 
+| "[y-][VPers][3m.S/A+][--]" : [{y}] ! 
+# 3rd person (female) singular
+| "[o-][VPers][3n.m.S/A+][--]" : [{o}] ! 
+];
+
 define RemoveBrackets %<|%> -> 0;
 
 define LexiconClass1 [
@@ -26,10 +40,22 @@ define LexiconClass2 [
 
 define Lexicon [ LexiconClass2 EP ]; 
 define C2Rule1 [ Cons ([ Vow | Cons ]*) ] -> %[ ... %] || .#. _ .#. ;
-define C2Rule2 [..] -> %[ \[%[|%]]+ %] || .#. _ %[ ;
+define C2Rule2 [..] -> %[ \[%[|%]]+ %] || .#. _ %[ ; 
 
 define preRedup2 Lexicon .o. C2Rule1 .o. C2Rule2 ; 
-define VRootClass2 _eq(preRedup2, %[, %]) .o. %[|%] -> 0;
+define VRootClass2 _eq(preRedup2, %[, %]) .o. %[|%] -> 0; 
 
-read regex [ VRootClass1 | VRootClass2 ];
+define LexiconClass3 [
+  "[=aa+INF@/DEL:a/gaantsi.+tot.redup@unb.copy.][VRoot][=to.take (ES: agarrar)]" : {aa} ! naanaa
+| "[=aashi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.make.a.group_reunion/meeting (ES: hacer.sesión,, reunir), to.meet]" : {aashi} ! naashinaashi
+]; 
+
+define C3Lexicon [ P=1 LexiconClass3 (EP) ]; 
+define C3Rule1 [ Cons ([ Vow | Cons ]*) ] -> %( ... %) || .#. _ .#. ;
+define C3Rule2 [..] -> %( \[%(|%)]+ %) || .#. _ %( ; 
+
+define preRedup3 C3Lexicon .o. C3Rule1 .o. C3Rule2 ; 
+define VRootClass3 _eq(preRedup3, %(, %)) .o. %(|%) -> 0; 
+
+read regex [ VRootClass1 | VRootClass2 | VRootClass3 ]; 
 
