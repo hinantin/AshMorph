@@ -5,10 +5,17 @@ define EP [
 | "[--][-aa][+EP]" : {aa} 
 ];
 
+define RemoveBrackets %<|%> -> 0;
+
 define LexiconClass1 [
-  "[=koma+tot.redup@unb.copy.+class1][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]":{koma}
-| "[=kya+tot.redup@unb.copy.+class1][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]":{kya}
+  "[=koma+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]":{koma}
+| "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]":{kya}
 ]; 
+
+define C1Rule1 [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
+define C1Rule2 [..] -> %< \[%<|%>]+ %> || .#. _ %< ;
+define preRedup1 LexiconClass1 .o. C1Rule1 .o. C1Rule2 ; 
+define VRootClass1 _eq(preRedup1, %<, %>) .o. RemoveBrackets;
 
 define LexiconClass2 [
   "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {mi} ! miamia
@@ -18,10 +25,11 @@ define LexiconClass2 [
 ]; 
 
 define Lexicon [ LexiconClass2 EP ]; 
-define Rule1 [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
-define Rule2 [..] -> %< \[%<|%>]+ %> || .#. _ %< ;
-define RemoveBrackets %<|%> -> 0;
+define C2Rule1 [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
+define C2Rule2 [..] -> %< \[%<|%>]+ %> || .#. _ %< ;
 
-define preRedup Lexicon .o. Rule1 .o. Rule2 ; 
-regex _eq(preRedup, %<, %>) .o. RemoveBrackets;
+define preRedup2 Lexicon .o. C2Rule1 .o. C2Rule2 ; 
+define VRootClass2 _eq(preRedup2, %<, %>) .o. RemoveBrackets;
+
+read regex VRootClass1 ;
 
