@@ -1417,7 +1417,7 @@ define VRootPRQin [
 | "[=ovint][VRoot][=to.plant.manioc.stalk (ES: sembrar.(tallos.de.yuca))]" : {ovint}
 | "[=oint][VRoot][=to.plant.manioc.stalk (ES: sembrar.(tallos.de.yuca))]" : {oint}
 | "[=oviint][VRoot][=to.plant.manioc.stalk (ES: sembrar.(tallos.de.yuca))]" : {oviint}
-| "[=vint][VRoot][=to.sow.the.cassava.seed (ES: sembrar.con.la.semilla.de.la.yuca)]" : {vint}
+| "[=vint+INF@antsi.][VRoot][=to.sow.the.cassava.seed (ES: sembrar.con.la.semilla.de.la.yuca); to.plant.manioc_cuttings (ES: sembrar.con.la.semilla.de.la.yuca)]" : {vint}
 ! 
 | "[=ote+INF@/EP:t/aantsi.][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board (ES: embarcar)]" : {ote}
 | "[=oti+INF@/EP:t/aantsi.][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board (ES: embarcar)]" : {oti}
