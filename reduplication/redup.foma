@@ -25,11 +25,11 @@ define LexiconClass2 [
 ]; 
 
 define Lexicon [ LexiconClass2 EP ]; 
-define C2Rule1 [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
-define C2Rule2 [..] -> %< \[%<|%>]+ %> || .#. _ %< ;
+define C2Rule1 [ Cons ([ Vow | Cons ]*) ] -> %[ ... %] || .#. _ .#. ;
+define C2Rule2 [..] -> %[ \[%[|%]]+ %] || .#. _ %[ ;
 
 define preRedup2 Lexicon .o. C2Rule1 .o. C2Rule2 ; 
-define VRootClass2 _eq(preRedup2, %<, %>) .o. RemoveBrackets;
+define VRootClass2 _eq(preRedup2, %[, %]) .o. %[|%] -> 0;
 
-read regex VRootClass1 ;
+read regex [ VRootClass1 | VRootClass2 ];
 
