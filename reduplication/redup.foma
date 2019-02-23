@@ -15,12 +15,13 @@ define LexiconClass2 [
 | "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {my} ! myaamyaa
 | "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
 | "[=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p}
-];
+]; 
 
+define Lexicon [ LexiconClass2 EP ]; 
 define Rule1 [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
-define Rule2 [..] -> EP || _ %> ; 
-define Rule3 [..] -> %< \[%<|%>]+ %> || .#. _ %< ;
+define Rule2 [..] -> %< \[%<|%>]+ %> || .#. _ %< ;
 define RemoveBrackets %<|%> -> 0;
 
-define preRedup LexiconClass2 .o. Rule1 .o. Rule2 .o. Rule3 ; 
+define preRedup Lexicon .o. Rule1 .o. Rule2 ; 
 regex _eq(preRedup, %<, %>) .o. RemoveBrackets;
+
