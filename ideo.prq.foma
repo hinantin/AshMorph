@@ -277,6 +277,7 @@ define IdeoPRQin [
 | "[=vanik][Ideo:PRQ][=sand/dust.dispersal (as.a.result.of.wind_blowing/bird_landing/animal_digging)]" : {vanik} 
 ! 
 | "[=tsarak][Ideo:PRQ][=loud.fart, breaking.wind.loudly (for.adult.women)]" : {tsarak} 
+| "[=tak][Ideo:PRQ][=loud.fart, breaking.wind.loudly (for.adult.women)]" : {tak} 
 ! 
 | "[=ahak+s.redup.word][Ideo:PRQ][=sneezing; coughing; action.of.loud.expectoration.of.spittle]" : {ahak} 
 | "[=ahak][Ideo:PRQ][=coughing.action (ES: acción.de.toser)]" : {ahak} 
@@ -325,7 +326,7 @@ define IdeoPRQin [
 ! 
 | "[=chako+s.redup.word@2X.][Ideo:PRQ][=small.waves.produced.by.the.slowly.gliding.canoe; water.movement.in.a.gourd/bottle.carried.on.the_back; movement.of.water.in.the_bottle.when.carried.on.the_back]" : {chako} 
 ! 
-| "[=tsako+s.redup.word][Ideo:PRQ][=boiling.water.in.a_pot]" : {tsako} 
+| "[=tsako+s.redup.word@2X.][Ideo:PRQ][=boiling.water.in.a_pot]" : {tsako} 
 ! 
 | "[=pitso+s.redup.word@2X.][Ideo:PRQ][=woman.walking/dancing.with.gyrating.hips]" : {pitso} 
 | "[=pitsopitso][Ideo:PRQ][=woman.walking.with.gyrating.hips]" : {pitsopitso} ! N@->V::[= (ES: girar); to.dance (ES: bailar)]
