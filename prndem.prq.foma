@@ -5,6 +5,8 @@
 # bounded locations (b.) are "comprehensible to the eye in a single glance"
 # unbounded locations (unb.) are those "whose entire extent is not comprehensible in a single glance"
 
+# The CLAR: -nki suffix is used "to define or clarify that which is spoken of"; it is possible that it is a shortened version of the suffix -ranki 
+
 define PrnDemPRQin [
 ! Demonstrative adverbs 
   "[=aka+proximal.b.][PrnDem][=here, close.to.the.speaker]" : {aka}
@@ -62,7 +64,6 @@ define PrnDemPRQin [
 | "[=iyoka+m.+proximal][PrnDem][=DEM (EN: this, this.one)]" : {iyoka} ! DEM
 ! 
 # -------------------------------------------------
-# The -nki suffix is used "to define or clarify that which is spoken of"; it is possible that it is a shortened version of the suffix -ranki 
 # oranki pivanko / =ora -nki  pi- =panko / =that -rel  2poss- =house / EN: 'it is that, your house I was referring to' 
 ! 
 # demonstrative adjectives, it refers to objects  
@@ -71,7 +72,7 @@ define PrnDemPRQin [
 | "[=yoora+m.+medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yoora} ! he 
 ! 
 # demonstrative adjectives, it refers to people  
-| "[=yoranki+m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yoranki} 
+| "[=yoranki~yora{CLAR:nki}+m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yoranki} 
 | "[=yorari+m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yorari} 
 # -------------------------------------------------
 ! 
@@ -81,7 +82,7 @@ define PrnDemPRQin [
 | "[=ora+n.m.+medial][PrnDem][=that (ES: esa)]" : {ora} ! she 
 | "[=oora+n.m.+medial][PrnDem][=that (ES: esa)]" : {oora} ! she 
 ! 
-| "[=oranki+n.m.][PrnDem][=that (ES: esa)]" : {oranki} ! she 
+| "[=oranki~ora{CLAR:nki}+n.m.][PrnDem][=that (ES: esa)]" : {oranki} ! she 
 | "[=orari+n.m.][PrnDem][=that (ES: esa)]" : {orari} ! she 
 # -------------------------------------------------
 ! 
