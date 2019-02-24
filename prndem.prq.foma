@@ -6,6 +6,7 @@
 # unbounded locations (unb.) are those "whose entire extent is not comprehensible in a single glance"
 
 # The CLAR: -nki suffix is used "to define or clarify that which is spoken of"; it is possible that it is a shortened version of the suffix -ranki 
+# +attn.prn.: attention pronoun (neri~niri, nero~niro, heri~hiri, hero~hiro)
 
 define PrnDemPRQin [
 ! Demonstrative adverbs 
@@ -28,9 +29,9 @@ define PrnDemPRQin [
 | "[=hanto+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded; ES: allá, muy.lejos, allá.lejos)]" : {hanto}
 | "[=hantoo+distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded; ES: allá, muy.lejos, allá.lejos)]" : {hantoo}
 ! 
-| "[=niri+m.][PrnDem][=there]" : {niri}
-| "[=hiri+m.][PrnDem][=there]" : {hiri}
-| "[=hiri+m.][PrnDem][=there.he.is]" : {hiri}
+| "[=niri+m.+attn.prn.][PrnDem][=there]" : {niri}
+| "[=hiri+m.+attn.prn.][PrnDem][=there]" : {hiri}
+| "[=hiri+m.+attn.prn.][PrnDem][=there.he.is]" : {hiri}
 | "[=hirika+m.+proximal][PrnDem][=here.it.is; this]" : {hirika}
 | "[=nirika+m.+proximal][PrnDem][=here.it.is]" : {nirika}
 | "[=hirira+m.+medial][PrnDem][=(over).there (close), near]" : {hirira}
@@ -39,8 +40,8 @@ define PrnDemPRQin [
 | "[=nirinta+m.+distal][PrnDem][=~]" : {nirinta}
 | "[=hirinto+m.+distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hirinta}
 ! 
-| "[=niro+n.m.][PrnDem][=here.it.is]" : {niro}
-| "[=hiro+n.m.][PrnDem][=here.it.is]" : {hiro}
+| "[=niro+n.m.+attn.prn.][PrnDem][=here.it.is]" : {niro}
+| "[=hiro+n.m.+attn.prn.][PrnDem][=here.it.is]" : {hiro}
 | "[=hiroka+n.m.+proximal][PrnDem][=here.it.is; this]" : {hiroka}
 | "[=niroka+n.m.+proximal][PrnDem][=~]" : {niroka}
 | "[=hirora+n.m.+medial][PrnDem][=(over).there (close), near]" : {hirora}
@@ -100,15 +101,15 @@ define PrnDemPRQin [
 # / EN: 'perhaps.you.tripped.up.on.that.stone.over.there', ES: 'tal.vez.le.hizo.tropezar.la.piedra.de.allá'
 | "[=onta+n.m.+distal][PrnDem][=DEM.NOM][=that, that.over.there (ES: esa, aquella)]" : {onta} 
 ! Demonstrative identifier 
-| "[=heri+m.][PrnDem][=DEM.ID.][=here.you.are, here.it.is]" : {heri} ! =heri / =attention.pronoun / EN: 'look!' 
+| "[=heri+m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are, here.it.is]" : {heri} ! =heri / =attention.pronoun / EN: 'look!' 
 | "[=herika+m.+proximal][PrnDem][=DEM.ID.][=here.it.is (ES: aquí.está)]" : {herika} 
 | "[=heriyonta+m.+distal][PrnDem][=DEM.ID.][=it.is.over.there (ES: allá.está)]" : {heriyonta} 
 | "[=herionta+m.+distal][PrnDem][=DEM.ID.][=it.is.over.there (ES: allá.está)]" : {herionta} 
-| "[=heri+m.][PrnDem][=DEM.ID.][=here.you.are, here.it.is][--][=keti][+URGENT]" : {heriketi} 
+| "[=heri+m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are, here.it.is][--][=keti][+URGENT]" : {heriketi} 
 ! 
-| "[=hero+n.m.][PrnDem][=DEM.ID.][=here.you.are]" : {hero}
+| "[=hero+n.m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are]" : {hero}
 | "[=heroka+n.m.+proximal][PrnDem][=DEM.ID.][=here.you.are; here.it.is]" : {heroka}
-| "[=hero+n.m.][PrnDem][=DEM.ID.][=here.you.are][--][=keti][+URGENT]" : {heroketi}
+| "[=hero+n.m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are][--][=keti][+URGENT]" : {heroketi}
 ! 
 | "[=ainti][PrnDem][=DEM.ID.][=there.(it.is) (ES: allá, allá.está)]" : {ainti}
 ];
