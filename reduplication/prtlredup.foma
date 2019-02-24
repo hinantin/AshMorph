@@ -12,6 +12,7 @@ define Lexicon [
 | "=chek": [{chek}] ! chechek
 | "=kaim" : [{kaim}] ! kaikaim
 | "=kimota" : [{kimota}] ! 
+| "=kis" : [{kis}] ! kikis 
 | "=ken" : [{ken}]
 | "=kinkitsa" : [{kinkitsa}]
 | "=koma": [{koma}]
@@ -59,6 +60,7 @@ define LexiconManual [
 | "mairi" : [(Redup)%<{mai}%>{ri}]
 | "saik" : [(Redup)%<{sai}%>{k}]
 | "sankena" : [(Redup)%<{sa}%>{nkena}]
+
 | "sampi" : [(Redup)%<{sa}%>{mpi}]
 | "tasonk" : [(Redup)%<{ta}%>{sonk}]
 | "tsaanki" : [(Redup)%<{tsaa}%>{nki}]
