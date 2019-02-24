@@ -8,6 +8,12 @@
 # The CLAR: -nki suffix is used "to define or clarify that which is spoken of"; it is possible that it is a shortened version of the suffix -ranki 
 # +attn.prn.: attention pronoun (neri~niri, nero~niro, heri~hiri, hero~hiro)
 
+# LABEL ORDER : 
+# 0: ~{..}{..}...{..} 
+# 1: +m., +n.m. 
+# 2: +attn.prn. 
+# 3: +proximal.b., +medial.b., +distal.b., +distal.unb.
+
 define PrnDemPRQin [
 ! Demonstrative adverbs 
   "[=aka+proximal.b.][PrnDem][=here, close.to.the.speaker]" : {aka}
