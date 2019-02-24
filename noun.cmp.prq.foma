@@ -53,7 +53,7 @@ define NRootCmpPRQin [
 | "[--][=tsapaki][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
 | "[--][=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
 # @CMP			noun composition 
-| "[--][=tapo+s.redup.word][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
+| "[--][=tapo+s.redup.word@2X.][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
 | "[--][=pani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {pani} ! @CMP 
 | "[--][=pite][Numeral:PRQ][=2 ~ two (ES: dos)]" : {pite} ! @CMP 
 | "[--][=mava][Numeral:PRQ][=3 ~ three (ES: tres)]" : {mava} ! N@->V  @CMP 

@@ -12,7 +12,7 @@
 # 0: ~{..}{..}...{..} 
 # 1: +m., +n.m. 
 # 2: +attn.prn. 
-# 3: +proximal.b., +medial.b., +distal.b., +distal.unb.
+# 3: +proximal, +medial, +distal, +proximal.b., +medial.b., +distal.b., +distal.unb. 
 
 define PrnDemPRQin [
 ! Demonstrative adverbs 

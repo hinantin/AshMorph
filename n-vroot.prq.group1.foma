@@ -156,7 +156,7 @@ define NounToVerbPRQin [
 | "[=pisaro+n.m.][AdjRoot][=old][^VBZ]" : {pisaro} ! N@->V
 | "[=pisharo+n.m.][AdjRoot][=old][^VBZ]" : {pisharo} ! N@->V
 | "[=shampitsi][AdjRoot][=miser (ES: avaro, mezquino)][^VBZ]" : {shampitsi} ! N@->V
-| "[=tapo+s.redup.word][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object][^VBZ]" : {tapo} ! N@->V @CMP 
+| "[=tapo+s.redup.word@2X.][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object][^VBZ]" : {tapo} ! N@->V @CMP 
 | "[=pitsopitso][Ideo:PRQ][=woman.walking.with.gyrating.hips]::[= (ES: girar); to.dance (ES: bailar)][^VBZ]" : {pitsopitso} ! N@->V::[= (ES: girar); to.dance (ES: bailar)]
 | "[=haran][Ideo:PRQ][=sound/action.made.by.a.falling/breaking.branch/tree; thud!.(of.a.fallen.tree)][^VBZ]" : {haran} ! N@->V
 | "[=aparoni][Numeral:PRQ][=1 ~ one (ES: uno)][^VBZ]" : {aparoni} ! N@->V
