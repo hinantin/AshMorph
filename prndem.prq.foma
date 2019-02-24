@@ -114,8 +114,8 @@ define PrnDemPRQin [
 | "[=heri+m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are, here.it.is][--][=keti][+URGENT]" : {heriketi} 
 ! 
 | "[=hero+n.m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are]" : {hero}
-| "[=heroka+n.m.+proximal][PrnDem][=DEM.ID.][=here.you.are; here.it.is]" : {heroka}
 | "[=hero+n.m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are][--][=keti][+URGENT]" : {heroketi}
+| "[=heroka+n.m.+proximal][PrnDem][=DEM.ID.][=here.you.are; here.it.is]" : {heroka}
 ! 
 | "[=ainti][PrnDem][=DEM.ID.][=there.(it.is) (ES: allá, allá.está)]" : {ainti}
 ];
