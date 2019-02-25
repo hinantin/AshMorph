@@ -19,7 +19,7 @@ and the object.
 
 #### Reduplication
 
-Our analysis of the collected text corpus, shows that Ashaninka presents both partial reduplication 'bounded copy' `(1)` and total reduplication 'unbounded copy' `(2)` as productive morphological operations (two-way finite state transducers will be employed in order to create an adequate model).
+Our analysis of the collected text corpus, shows that Ashaninka presents both partial reduplication 'bounded copy' `(1)` and total reduplication 'unbounded copy' `(2)` as productive morphological operations.
 
 ```
 1) kov 'to.want' -> ko~kov 'to.prefer.strongly' 
