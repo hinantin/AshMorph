@@ -1001,10 +1001,10 @@ define VRootPRQin [
 | "[=kovenka][VRoot][=to.inspire.fear (ES: inspirar.miedo); to.be.dangerous (danger; ES: espantar)]" : {kovenka}
 | "[=koveenka][VRoot][=to.inspire.fear (ES: inspirar.miedo); to.be.dangerous (danger; ES: espantar)]" : {koveenka}
 ! 
-| "[=kovintsa][VRoot][=to.hunt (ES: cazar)]" : {kovintsa}
+| "[=kovintsa+INF@/EP:t/aantsi.][VRoot][=to.hunt (ES: cazar)]" : {kovintsa}
 | "[=koventsa][VRoot][=to.hunt (ES: cazar)]" : {koventsa}
 | "[=kovinsa][VRoot][=to.hunt (ES: cazar)]" : {kovinsa} ! ???
-| "[=komintsa][VRoot][=to.hunt (ES: cazar)]" : {komintsa}
+| "[=komintsa+INF@/EP:t/aantsi.][VRoot][=to.hunt (ES: cazar)]" : {komintsa}
 | "[=komentsa][VRoot][=to.hunt (ES: cazar)]" : {komentsa}
 ! 
 | "[=kovity+INF@antsi.][VRoot][=to.lack.sth. (ES: faltar)]" : {kovity}
