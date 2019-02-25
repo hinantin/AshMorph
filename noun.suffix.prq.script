@@ -12,6 +12,7 @@ define N=S=poss [
 # antaantsi -> yantane / y- =ant -ane 
 # kisaantsi -> noisane / no- =kis -ane / ES: 'caza' 
 # kovintsataantsi -> iovintsane / i- =kovintsa -ane 
+# neantsi -> noneane / no- =ne -ane 
 | "[--][-ne+di.syl.][Gen][+aln.poss.]" : "@ALNPOSS@"{ne} 
 ! 
 # Added to artifacts, plant parts, and kin terms
