@@ -4,6 +4,11 @@
 # The +INF tag often signals if the verbal root will need an epenthetic suffix to be appended to the aforementioned root when a suffix such as -ak, -ap, etc. is added.  
 # Or if the deletion process will be likely to take place /DEL:a/ when it is followed by a suffix like -ant.
 
+# LABEL ORDER
+# 0 
+# 1 +INF@form1:form2:...:formN. 
+
+
 define VRootPRQin [
 ! 
 # ---------------------------------------------------
@@ -221,7 +226,7 @@ define VRootPRQin [
 ! 
 | "[=amponat][VRoot][=to.wrap]" : {amponat}
 ! 
-| "[=ant+INF@aantsi.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)]" : {ant}
+| "[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)]" : {ant}
 ! 
 | "[=antaki+INF@/EP:t/aantsi.][VRoot][=to.ripen (ES: madurar)]" : {antaki}
 | "[=antaiki+INF@/EP:t/aantsi.]][VRoot][=to.ripen (ES: madurar)]" : {antaiki}
