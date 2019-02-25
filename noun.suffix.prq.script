@@ -8,8 +8,9 @@ define N=S=poss [
 # inanimate / inanimado 
 # Added to mono and disyllabic roots 
 | "[--][-ni+di.syl.][Gen][+aln.poss.]" : "@ALNPOSS@"{ni} 
-# noisaneentane 
-# antaantsi -> yantane 
+# noisaneentane / no- =kis -neent -ane / ES: 'mi.enemigo' 
+# antaantsi -> yantane / y- =ant -ane 
+# kisaantsi -> noisane / no- =kis -ane 
 | "[--][-ne+di.syl.][Gen][+aln.poss.]" : "@ALNPOSS@"{ne} 
 ! 
 # Added to artifacts, plant parts, and kin terms
