@@ -9,7 +9,7 @@ define N=S=poss [
 # Added to mono and disyllabic roots 
 | "[--][-ni+di.syl.][Gen][+aln.poss.]" : "@ALNPOSS@"{ni} 
 # noisaneentane 
-# yantane 
+# antaantsi -> yantane 
 | "[--][-ne+di.syl.][Gen][+aln.poss.]" : "@ALNPOSS@"{ne} 
 ! 
 # Added to artifacts, plant parts, and kin terms
