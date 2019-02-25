@@ -6,9 +6,12 @@
 
 # LABEL ORDER : 
 # 0: ~{..}{..}...{..} 
+#    Information on the morphemes of lexicalized entries.
 # 1: +INF@form1:form2:...:formN. 
-#    A 'form' is a dialectal variation that might contain operations such as /EP:.../ /DEL:.../ 
+#    A 'form' is a dialectal variation that might contain morphological operations such as /EP:.../ /DEL:.../ 
 # 2: +tot.redup@unb.copy., +prtl.redup@b.copy.
+# 3: +poss@ane. 
+#    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.
 
 define VRootPRQin [
 ! 
