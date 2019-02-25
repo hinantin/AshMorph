@@ -10,7 +10,7 @@ define N=S=poss [
 | "[--][-ni+di.syl.][Gen][+aln.poss.]" : "@ALNPOSS@"{ni} 
 # noisaneentane / no- =kis -neent -ane / ES: 'mi.enemigo' 
 # antaantsi -> yantane / y- =ant -ane 
-# kisaantsi -> noisane / no- =kis -ane 
+# kisaantsi -> noisane / no- =kis -ane / ES: 'caza' 
 # kovintsataantsi -> iovintsane / i- =kovintsa -ane 
 | "[--][-ne+di.syl.][Gen][+aln.poss.]" : "@ALNPOSS@"{ne} 
 ! 
