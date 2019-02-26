@@ -595,6 +595,7 @@ define N=S=CL [
 | "[--][-enka][+CL:inmaterial][=inmaterial;odor;sound;daylight,fire;ephemeral]" : {enka} 
 ! 
 ! paapani / EN: 'ash'; ES: 'ceniza' 
+! tivipane / =tivi -pane / =salt -cl:powder-like / ES: sal.molida 
 | "[--][-pani][+CL:powder-like][=powdery.substance,powder-like]" : {pani} 
 | "[--][-vani][+CL:powder-like][=powdery.substance,powder-like]" : {vani} 
 | "[--][-pane][+CL:powder-like][=powdery.substance,powder-like]" : {pane} 
