@@ -1517,8 +1517,8 @@ define VRootPRQin [
 ! 
 | "[=pampitsa][VRoot][=to.follow.the.footprints, to.follow.someone's.path]" : {pampitsa}
 ! to plant, to sow
-| "[=panki][VRoot][=to.plant, to.sow (ES: sembrar)]" : {panki}
-| "[=panki][VRoot][=to.plant, to.sow (ES: sembrar)]" : {panke}
+| "[=panki+INF@/EP:t/aantsi.][VRoot][=to.plant, to.sow (ES: sembrar)]" : {panki}
+| "[=panke][VRoot][=to.plant, to.sow (ES: sembrar)]" : {panke}
 ! 
 | "[=pankoshi][VRoot][=to.build.a.tampu (ES: construir.un.tampu/tambo)]" : {pankoshi}
 ! 
