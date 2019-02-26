@@ -1286,7 +1286,7 @@ define VRootPRQin [
 | "[=nya+INF@antsi.][VRoot][=to.speak (ES: hablar)]" : {nya}
 | "[=nyaa+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nyaa}
 | "[=nea+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nea}
-| "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]" : {neanea}
+| "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {neanea} ! noneaneatempi
 ! 
 | "[=neavintsa][VRoot][=to.fornicate (ES: fornicar)]" : {neavintsa}
 ! 
