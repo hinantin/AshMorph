@@ -1426,7 +1426,7 @@ define NRootPRQin [
 | "[=kaniri~kanir{nposs:i}+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
 | "[=kaaniri~kaanir{nposs:i}+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
 | "[=kanire~kanir{poss:e}+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
-| "[=kainiri~kainiri{nposs:i}+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+| "[=kainiri~kainir{nposs:i}+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 ! 
 | "[=kaniriapashaki][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
 ! 
