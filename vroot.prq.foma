@@ -1519,7 +1519,7 @@ define VRootPRQin [
 ! to plant, to sow
 | "[=panki+INF@/EP:t/aantsi.][VRoot][=to.plant, to.sow (ES: sembrar)]" : {panki}
 # 
-| "[=panke+INF@/EP:t/aantsi.+poss@ane.][VRoot][=to.plant, to.sow (ES: sembrar)]" : {panke} ! to be checked
+| "[=panke+INF@/EP:t/aantsi.+poss@/INTNS:a/ne.][VRoot][=to.plant, to.sow (ES: sembrar)]" : {panke} ! to be checked
 ! 
 | "[=pankoshi][VRoot][=to.build.a.tampu (ES: construir.un.tampu/tambo)]" : {pankoshi}
 ! 
