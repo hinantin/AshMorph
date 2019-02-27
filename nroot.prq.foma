@@ -1423,10 +1423,10 @@ define NRootPRQin [
 ! 
 | "[=kanarinke][NRoot][=venomous.viper.sp. (ES: serpiente; sci.nm.: imantodes.cenchoa.cenchoa)]" : {kanarinke}
 ! 
-| "[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
-| "[=kaaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
-| "[=kanire+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
-| "[=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+| "[=kaniri~kanir{nposs:i}+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
+| "[=kaaniri~kaanir{nposs:i}+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
+| "[=kanire~kanir{poss:e}+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
+| "[=kainiri~kainiri{nposs:i}+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 ! 
 | "[=kaniriapashaki][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
 ! 
@@ -2145,7 +2145,7 @@ define NRootPRQin [
 ! 
 | "[=kovinkotzi][NRoot][=musician.wren (sci.nm.: cyphorhinus.arada)]" : {kovinkotzi}
 ! inal?
-| "[=kovitsi+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {kovitsi}
+| "[=kovitsi+n.m.+poss@te.][NRoot][=(clay).pot (ES: olla.(de.barro), tinaja)]" : {kovitsi}
 | "[=koviti+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {koviti}
 | "[=kovitzi+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {kovitzi}
 | "[=kovi+n.m.+poss@te.][NRoot][=clay.pot]" : {kovi}
