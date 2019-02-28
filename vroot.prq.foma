@@ -1043,7 +1043,7 @@ define VRootPRQin [
 | "[=makory+INF@aantsi.][VRoot][=to.tire; to.rest (ES: descansar)]" : {makory} 
 | "[=makori+INF@antsi.][VRoot][=to.tire; to.rest (ES: descansar)]" : {makori} 
 ! 
-| "[=mamp][VRoot][=to.sing (ES: cantar)]" : {mamp}
+| "[=mamp+INF@agantsi.][VRoot][=to.sing (ES: cantar)]" : {mamp}
 | "[=amamp][VRoot][=to.sing (ES: cantar)]" : {amamp} ! ramampae 
 | "[=mãp][VRoot][=to.sing (ES: cantar)]" : {mãp}
 ! 
@@ -1054,12 +1054,12 @@ define VRootPRQin [
 | "[=pamia][VRoot][=to.catch.fish.with.the.hands (ES: pescar.con.las.manos)]" : {pamia}
 ! 
 | "[=pampoy+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoy}
-| "[=pampoye+INF@antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoye}
+| "[=pampoye+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoye}
 ! 
 | "[=pampits][VRoot][=to.sing (ES: cantar)]" : {pampits}
 ! 
 | "[=pants+INF@agaantsi:(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pants} ! revise!
-| "[=pantsa+INF@/DEL:a/ntsi.][VRoot][=to.sing (ES: cantar); to.sing.individually]" : {pantsa}
+| "[=pantsa+INF@/DEL:a/ntsi:antsi.][VRoot][=to.sing (ES: cantar); to.sing.individually]" : {pantsa}
 | "[=pantsag+INF@aantsi.][VRoot][=to.sing (ES: cantar)]" : {pantsag}
 ! 
 | "[=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {man}
