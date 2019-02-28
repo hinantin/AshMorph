@@ -1764,7 +1764,9 @@ define VRootPRQin [
 | "[=piy][VRoot][=to.convert, to.transform]" : {piy}
 | "[=pe][VRoot][=to.convert, to.transform]" : {pe}
 | "[=pey][VRoot][=to.convert, to.transform]" : {pey}
-! | "[=pey][VRoot][=to.convert]" : {pey}
+! 
+| "[=pety][VRoot][=to.blink (ES: parpadear)]" : {pety}
+| "[=pity][VRoot][=to.blink (ES: parpadear)]" : {pity}
 ! 
 | "[=piriin][VRoot][=to.lift.sth., to.pick.sth.up; to.get.up]" : {piriin}
 | "[=piirin][VRoot][=to.lift.sth., to.pick.sth.up; to.get.up]" : {piirin}
