@@ -1236,12 +1236,15 @@ define VRootPRQin [
 ! 
 | "[=nampi][VRoot][=to.be.in.big.quantity (ES: abundar)]" : {nampi}
 ! 
+# ---------------------------------------------------------------------------- 
 | "[=nary+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {nary}
 | "[=nare+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {nare}
 | "[=nari][VRoot][=to.lie.(on.the.ground)]" : {nari}
 | "[=onory+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {onory}
 | "[=omary+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {omary}
 | "[=nary][VRoot][=to.lie.prostrate]" : {nary}
+| "[=nari+tot.redup@unb.copy.][VRoot][=to.lie.(on.the.ground)]" : {narianaria}
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=nesank][VRoot][=to.peep.at.sb/sth. (ES: asomarse, mirar.a.hurtadillas, atisbar)]" : {nesank}
 ! 
