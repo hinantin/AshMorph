@@ -9,10 +9,10 @@ define NRootCmpPRQin [
 | "[--][=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tsempeki} ! @VCMP @CMP 
 | "[--][=tseempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tseempeki} ! @VCMP @CMP 
 | "[--][=tsova+n.m.+inal@tsi.][NRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : {tsova} ! @CMP @VCMP  
-| "[--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
-| "[--][=kaaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
-| "[--][=kanire+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
-| "[--][=kainiri+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+| "[--][=kaniri~kanir{nposs:i}+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
+| "[--][=kaaniri~kaanir{nposs:i}+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
+| "[--][=kanire~kanir{poss:e}+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
+| "[--][=kainiri~kainir{nposs:i}+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 | "[--][=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
 | "[--][=kempita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
 | "[--][=kishi][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {kishi} ! @CMP 
