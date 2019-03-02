@@ -8,17 +8,6 @@ define N=S=poss [
 # inanimate / inanimado 
 # Added to mono and disyllabic roots 
 | "[--][-ni+di.syl.][Gen][+aln.poss.]" : "@ALNPOSS@"{ni} 
-# noisaneentane / no- =kis -neent -ane / ES: 'mi.enemigo' 
-# antaantsi -> yantane / y- =ant -ane 
-# kisaantsi -> noisane / no- =kis -ane / ES: 'caza' 
-# kovintsataantsi -> iovintsane / i- =kovintsa -ane 
-# neantsi -> noneane / no- =ne -ane 
-# kashiantsi -> noashiane / no- =kashi -ane / ES: 'mi.pariente' 
-# panquiantsi / pankiantsi / ES: 'lugar.desbrozado.para.hacer.chacra' -> novanqueane / novankeane / no- =panke -ane 
-# nintaantsi / ES: 'amor' -> nonintani / no- =nint -ani / EN: 'my.lover'
-# noameetsatane / no- =kameetsa -t -ane / EN: 'my.goodness' 
-# oretaantsi / ES: 'comedero.de.yuca.picada' -> roretane / r- =ore -t -ane / ES: 'su.comedero' 
-# oshirontane / o- =shiront -ane / ES: 'su.enamorado' 
 | "[--][-ne+di.syl.][Gen][+aln.poss.]" : "@ALNPOSS@"{ne} 
 ! 
 # Added to artifacts, plant parts, and kin terms
