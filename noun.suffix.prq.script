@@ -592,7 +592,7 @@ define N=S=CL [
 ! paapani / EN: 'ash'; ES: 'ceniza' 
 ! tivipane / =tivi -pane / =salt -cl:powder-like / ES: sal.molida 
 ! sankopane / =sanko -pane / =sugar.cane -cl:powder-like / ES: 'azucar' 
-! shikopane / =shiko -pane / =lime -cl:powder-like / EN: 'powdered.lime' 
+! shikopane / =shiko -pane / =lime.stone -cl:powder-like / EN: 'powdered.lime' 
 | "[--][-pani][+CL:powder-like][=powdery.substance,powder-like]" : {pani} 
 | "[--][-vani][+CL:powder-like][=powdery.substance,powder-like]" : {vani} 
 | "[--][-pane][+CL:powder-like][=powdery.substance,powder-like]" : {pane} 
