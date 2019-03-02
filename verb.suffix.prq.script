@@ -1309,7 +1309,16 @@ define V=S=DEGREE [
 ];
                    
 # ****************************************
-      
+                   
+# POSSESSION INDICATOR 
+define V=S=POSSIND [
+  "[--][-ane][+POSS.IND]" : "@EP"[{ane}]
+];
+                   
+define POSSIND [ [EP V=S=POSSIND]|[V=S=POSSIND] ];
+                   
+# ****************************************
+
 # ##############################
 #         Abbreviations         
 # ##############################
