@@ -1321,7 +1321,8 @@ define V=S=DEGREE [
 # noameetsatane / no- =kameetsa -t -ane / EN: 'my.goodness' 
 # oretaantsi / ES: 'comedero.de.yuca.picada' -> roretane / r- =ore -t -ane / ES: 'su.comedero' 
 # oshirontane / o- =shiront -ane / ES: 'su.enamorado' 
-# osankane / ES: 'su.aroma' 
+# osankane / o- =sank -ane / ES: 'su.aroma' 
+# kenkishiriantsi / ES: 'idea' -> ayenkeshiriane / a- =kenkeshiri -ane / ES: 'mente' 
 # POSSESSION INDICATOR 
 define V=S=POSSIND [
   "[--][-ane~{INTNS:a}{aln.poss.:ne}][NS][+POSS.IND]" : "@EP"[{ane}]
