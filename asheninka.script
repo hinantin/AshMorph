@@ -367,7 +367,7 @@ TZEpenthesisRule8
                                                   [ CL | [CL [NMZ|ADJ]] | [NMZ|ADJ] ] (NRootCmpPRQ) 
                                                   (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
       
-
+      define NominalizedVerbPoss [ NPref [VRootPRQ] (SENSORY) POSSIND ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ;
 # | V=S=ADJ # nominalization 
 # | (SENSORY) NMZ # nominalization 
 # | STAT NMZ (ADV) # nominalization revise!!!
@@ -515,7 +515,7 @@ TZEpenthesisRule8
       ##########################
       source punctuation.foma
         define PunctuationMarks Punctuation;
-      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|IdeoRedupSyl|NominalizedVerb|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 
+      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|IdeoRedupSyl|NominalizedVerb|NominalizedVerbPoss|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 
 .o. Orthography .o. UpperCase #NORMAL #DISABLE FOR SPELL-CHECKING DETECTION 
 ;
       #NORMAL
