@@ -1312,8 +1312,8 @@ define V=S=DEGREE [
                    
 # POSSESSION INDICATOR 
 define V=S=POSSIND [
-  "[--][-ane~{INTNS:a}ne][+POSS.IND]" : "@EP"[{ane}]
-| "[--][-ani~{INTNS:a}ni][+POSS.IND]" : "@EP"[{ani}]
+  "[--][-ane~{INTNS:a}{aln.poss.:ne}][+POSS.IND]" : "@EP"[{ane}]
+| "[--][-ani~{INTNS:a}{aln.poss.:ni}][+POSS.IND]" : "@EP"[{ani}]
 ];
                    
 define POSSIND [ [EP V=S=POSSIND]|[V=S=POSSIND] ];
