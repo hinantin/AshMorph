@@ -903,7 +903,7 @@ define VRootPRQin [
 | "[=kitei][VRoot][=to.be.morning; to.dawn; to.get.up.early]]" : {kitei}
 ! 
 | "[=kiteeshe+INF@/EP:t/aantsi.][VRoot][=to.be.morning; to.dawn; to.get.up.early]" : {kiteeshe}
-| "[=kitiihyi][VRoot][=to.be.morning; to.dawn; to.get.up.early]" : {kitiihyi}
+| "[=kitiihyi+INF@/EP:t/aantsi.][VRoot][=to.be.morning; to.dawn; to.get.up.early]" : {kitiihyi}
 ! 
 | "[=nyaa][VRoot][=to.dawn (ES: amanecer)]" : {nyaa} 
 # ---------------------------------------------------------
