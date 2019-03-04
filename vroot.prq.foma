@@ -961,8 +961,6 @@ define VRootPRQin [
 | "[=konov+INF@aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {konov} 
 | "[=kono+INF@aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {kono} 
 | "[=konee+INF@/EP:t/aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {konee} 
-! 
-| "[=koonk][VRoot][=to.signal.by.whistling.with.both.hands]" : {koonk} 
 ! word set:
 | "[=koraki][VRoot][=to.approach, to.get.closer, to.come.near]" : {koraki}
 | "[=korake+INF@/EP:t/aantsi.][VRoot][=to.approach, to.get.closer, to.come.near, to.draw.near]" : {korake}
@@ -1406,6 +1404,7 @@ define VRootPRQin [
 | "[=oonk][VRoot][=to.flood (ES: inundar(se))]" : {oonk} 
 ! 
 | "[=oonk+INF@aantsi.][VRoot][=to.produce_sounds/whistle.by.covering.the.mouth.with.half-joint.hands (ES: puquear, puquiar; QU: phukuy)]" : {oonk} 
+| "[=koonk][VRoot][=to.signal.by.whistling.with.both.hands, to.whistle]" : {koonk} 
 ! 
 | "[=oot+INF@aantsi.][VRoot][=to.light (ES: alumbrar, encender)]" : {oot}
 ! 
