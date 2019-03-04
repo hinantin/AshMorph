@@ -946,10 +946,10 @@ define VRootPRQin [
 | "[=koniha+INF@/EP:t/aantsi.][VRoot][=to.appear (ES: aparecer)]" : {koniha}
 | "[=koniha+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
 ! 
-| "[=koma][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
-| "[=komaa][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
-| "[=koma+prtl.redup@b.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {kokoma} 
-| "[=koma+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[=to.row.a_lot (ES: remar.a_cada_rato)]" : {komakoma}
+| "[=koma+INF@/EP:t/aantsi.][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
+| "[=komaa+INF@/EP:t/aantsi.][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
+| "[=koma+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {kokoma} 
+| "[=koma+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[=to.row.a_lot (ES: remar.a_cada_rato)]" : {komakoma}
 ! 
 | "[=komi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {komi}
 | "[=kompi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {kompi}
