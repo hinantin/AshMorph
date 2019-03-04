@@ -951,8 +951,8 @@ define VRootPRQin [
 | "[=koma+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {kokoma} 
 | "[=koma+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[=to.row.a_lot (ES: remar.a_cada_rato)]" : {komakoma}
 ! 
-| "[=komi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {komi}
-| "[=kompi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {kompi}
+| "[=komi+INF@/EP:t/aantsi.][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {komi}
+| "[=kompi+INF@/EP:t/aantsi.][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {kompi}
 ! 
 # ikonaveta / i- =kona -ve -t -a / 3m.s- =to.fish.with.barbasco -frus -ep -real / EN: 'he.almost.fished.with.barbasco', ES: 'mientras.pescaba'  
 | "[=kona][VRoot][=to.fish.with.barbasco/poison (ES: pescar.con.cubé)]" : {kona} 
