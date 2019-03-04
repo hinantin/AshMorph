@@ -942,9 +942,9 @@ define VRootPRQin [
 ! 
 | "[=koite][VRoot][=to.be.in.need]" : {koite} ! to.be.checked 
 ! 
-| "[=konyaa][VRoot][=to.appear (ES: aparecer)]" : {konyaa}
-| "[=koniha][VRoot][=to.appear (ES: aparecer)]" : {koniha}
-| "[=koniha+tot.redup@unb.copy.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
+| "[=konyaa+INF@/EP:t/aantsi.][VRoot][=to.appear (ES: aparecer)]" : {konyaa}
+| "[=koniha+INF@/EP:t/aantsi.][VRoot][=to.appear (ES: aparecer)]" : {koniha}
+| "[=koniha+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
 ! 
 | "[=koma][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
 | "[=komaa][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
