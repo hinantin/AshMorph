@@ -967,9 +967,9 @@ define VRootPRQin [
 | "[=koraki][VRoot][=to.approach, to.get.closer, to.come.near]" : {koraki}
 | "[=korake+INF@/EP:t/aantsi.][VRoot][=to.approach, to.get.closer, to.come.near, to.draw.near]" : {korake}
 | "[=kovake][VRoot][=to.approach, to.get.closer, to.come.near]" : {kovake}
-| "[=kaaki][VRoot][=to.approach, to.get.closer, to.come.near]" : {kaaki}
-| "[=okaaki][VRoot][=to.approach, to.get.closer, to.come.near]" : {okaaki}
-| "[=okakihi][VRoot][=to.approach, to.get.closer, to.come.near]" : {okakihi}
+| "[=kaaki+INF@/EP:t/aantsi.][VRoot][=to.approach, to.get.closer, to.come.near]" : {kaaki}
+| "[=okaaki+INF@/EP:t/aantsi.][VRoot][=to.approach, to.get.closer, to.come.near]" : {okaaki}
+| "[=okakihi+INF@/EP:t/aantsi.][VRoot][=to.approach, to.get.closer, to.come.near]" : {okakihi}
 ! 
 ! saquitatsiri / sakitatsiri / =saki -t -atsi =rel / EN: 'sleepless'; ES: 'insomne' 
 | "[=kaki][VRoot][=to.wake.up (ES: despertar)]" : {kaki}
