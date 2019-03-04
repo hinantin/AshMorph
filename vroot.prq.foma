@@ -958,7 +958,9 @@ define VRootPRQin [
 | "[=kona][VRoot][=to.fish.with.barbasco/poison (ES: pescar.con.cubé)]" : {kona} 
 | "[=konaa][VRoot][=to.fish.with.barbasco/poison (ES: pescar.con.cubé)]" : {konaa} 
 ! 
-| "[=konov][VRoot][=to.mix (ES: mezclar, combinar)]" : {konov} 
+| "[=konov+INF@aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {konov} 
+| "[=kono+INF@aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {kono} 
+| "[=konee+INF@/EP:t/aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {konee} 
 ! 
 | "[=koonk][VRoot][=to.signal.by.whistling.with.both.hands]" : {koonk} 
 ! word set:
