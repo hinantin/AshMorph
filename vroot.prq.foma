@@ -1495,7 +1495,7 @@ define VRootPRQin [
 | "[=oavis][VRoot][=to.cross (ES: atravesar)]" : {oavis}
 ! 
 | "[=oy+INF@aantsi.][VRoot][=to.wait (ES: esperar)]" : {oy}
-| "[=oya][VRoot][=to.wait (ES: esperar)]" : {oya}
+| "[=oya+INF@antsi.][VRoot][=to.wait (ES: esperar)]" : {oya}
 | "[=oyaa][VRoot][=to.wait (ES: esperar)]" : {oyaa}
 ! 
 | "[=oya][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {oya}
