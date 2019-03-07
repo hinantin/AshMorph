@@ -841,8 +841,8 @@ define N=S=UNK1 [
                    
 define N=S=SUPERL [
 # otsiteninkataki / o- =tsiteni -nka -taki / 3n.m.poss- =to.get.dark -nmz -superl / EN: 'totally.dark'  
-  "[--][-taki][DEGR][+SUPERL]" : [{taki}]
-| "[--][-tanaki][DEGR][+SUPERL]" : [{tanaki}]
+  "[--][-taki][DEGR][+SUPERL][=superlative]" : [{taki}]
+| "[--][-tanaki][DEGR][+SUPERL][=simulative]" : [{tanaki}]
 ];
                    
 # ****************************************
