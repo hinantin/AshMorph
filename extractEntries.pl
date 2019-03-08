@@ -8,7 +8,7 @@ binmode STDOUT, ':utf8';
 use Getopt::Long qw(GetOptions);
 
 my $outputfilename = 'n-vroot.prq.foma';
-my $flag = 'N@->V';
+my $label = 'N@->V';
 my $title = 'Verbalized nouns';
 my $header = 'NounToVerbPRQin';
 my $separatorsymbol = "[--]";
@@ -28,7 +28,7 @@ my $options = "--file file_1 --file file_2 ... ";
 GetOptions (
 'file=s' => \@files,
 'outputfilename=s' => \$outputfilename, 
-'flag=s' => \$flag, 
+'label=s' => \$label, 
 'title=s' => \$title, 
 'header=s' => \$header, 
 "separator=i" => \$separator, 
@@ -47,6 +47,8 @@ GetOptions (
 #  exit;
 #} 
 
+print STDERR " $label\n";
+
 open(my $fh, '>', $outputfilename) or die "Could not open file '$outputfilename' $!";
 
 print $fh  "# -----------------\n";
@@ -60,14 +62,21 @@ while (defined($file = shift @files)) {
 open INFO, $file or die "Could not open $file: $!";
  while (<INFO>)
  {
- if (m/$flag/) { 
+ if (m/$label/) { 
   if ($count == 0) { 
    my $myvar = $_;
    if ($separator == 1) { $myvar =~ s/\"/\"$separatorsymbol/; }
    if ($replace1 == 1) { $myvar =~ s/$source1/$target1/; }
    if ($replace2 == 1) { 
      # splitting 
-     if($myvar =~ m/N@\->V::\[(.*)\]/) {
+     if ($myvar =~ m/N@\->V::\[(.*)\]/) {
+       my $targetstring = "::[$1]"; 
+       $myvar =~ m/(.*)$source2/g; 
+       my $result = "$1$targetstring$target2"; 
+       $myvar =~ m/$source2(.*)/s; 
+       $myvar = "$result$1"; 
+     }
+     elsif ($myvar =~ m/V@\->N::\[(.*)\]/) {
        my $targetstring = "::[$1]"; 
        $myvar =~ m/(.*)$source2/g; 
        my $result = "$1$targetstring$target2"; 
@@ -90,7 +99,14 @@ open INFO, $file or die "Could not open $file: $!";
    if ($replace1 == 1) { $myvar =~ s/$source1/$target1/; }
    if ($replace2 == 1) { 
      # splitting 
-     if($myvar =~ m/N@\->V::\[(.*)\]/) {
+     if ($myvar =~ m/N@\->V::\[(.*)\]/) {
+       my $targetstring = "::[$1]"; 
+       $myvar =~ m/(.*)$source2/g; 
+       my $result = "$1$targetstring$target2"; 
+       $myvar =~ m/$source2(.*)/s; 
+       $myvar = "$result$1"; 
+     }
+     elsif ($myvar =~ m/V@\->N::\[(.*)\]/) {
        my $targetstring = "::[$1]"; 
        $myvar =~ m/(.*)$source2/g; 
        my $result = "$1$targetstring$target2"; 
