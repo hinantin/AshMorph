@@ -1258,7 +1258,7 @@ define VRootPRQin [
 ! 
 | "[=niap][VRoot][=to.find]" : {niap}
 ! 
-| "[=nihaa][VRoot][=to.water]" : {nihaa} !?
+| "[=nihaa][VRoot][=to.water]" : {nihaa} ! revise?
 ! 
 | "[=nik][VRoot][=to.tremble (ES: temblar), to.shake (ES: sacudir)]" : {nik}
 | "[=onik][VRoot][=to.tremble (ES: temblar), to.shake (ES: sacudir)]" : {onik}
@@ -1962,7 +1962,7 @@ define VRootPRQin [
 ! 
 | "[=shiria][VRoot][=to.fish.with.a.basket (ES: pescar.con.canasta)]" : {shiria}
 ! 
-| "[=shirink][VRoot][=to.make.room (ES: arrimar); to.contract.in.size, to.shrink (ES: mermar.(el.río))]" : {shirink}
+| "[=shirink+INF@aantsi.][VRoot][=to.make.room (ES: arrimar); to.contract.in.size, to.shrink (ES: mermar.(el.río))]" : {shirink}
 ! 
 | "[=shirinka][VRoot][=to.grow]" : {shirinka}
 ! 
