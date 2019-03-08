@@ -1573,8 +1573,8 @@ define VRootPRQin [
 | "[=paasonki][VRoot][=to.thank (ES: agradecer)]" : {paasonki}
 | "[=paasoonke][VRoot][=to.thank (ES: agradecer)]" : {paasoonke}
 ! 
-| "[=patsa+INF@antsi.][VRoot][=to.have.a.skin.sore, to.have.a.wound; to.rot (ES: podrir); to.have.a.wet.wound.with.pus]" : {patsa}
-| "[=patsaa][VRoot][=to.have.a.skin.sore, to.have.a.wound; to.rot; to.have.a.wet.wound.with.pus]" : {patsaa}
+| "[=patsa+INF@antsi.][VRoot][=to.have.a.skin.sore, to.have.a.wound (ES: tener.herida/llaga); to.rot (ES: podrir); to.have.a.wet.wound.with.pus]" : {patsa}
+| "[=patsaa][VRoot][=to.have.a.skin.sore, to.have.a.wound (ES: tener.herida/llaga); to.rot (ES: podrir); to.have.a.wet.wound.with.pus]" : {patsaa}
 ! 
 | "[=patsimat][VRoot][=to.chase, to.go.after]" : {patsimat}
 ! 
@@ -2326,7 +2326,7 @@ define VRootPRQin [
 | "[=tsoma][VRoot][=to.carry.in.the.arms (ES: llevar/alzar.en.los.brazos/garras)]" : {tsoma}
 | "[=tsom][VRoot][=to.carry.in.the.arms (ES: llevar/alzar.en.los.brazos/garras); to.carry.a.baby]" : {tsom}
 ! 
-| "[=tsop][VRoot][=to.pull.sth.out (ES: sacar.(de.un.lugar.estrecho)); to.detach (ES: desprender)]" : {tsop}
+| "[=tsop][VRoot][=to.pull.sth.out (ES: sacar.(de.un.lugar.estrecho)); to.detach (ES: desprender); to.be.loose]" : {tsop}
 ! 
 | "[=tsoyempi][VRoot][=to.be.sharp (ES: ser.agudo/filudo)]" : {tsoyempi}
 | "[=tsoyimpi][VRoot][=to.be.sharp (ES: ser.agudo/filudo)]" : {tsoyimpi}
