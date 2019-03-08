@@ -1539,6 +1539,7 @@ define VRootPRQin [
 ! 
 | "[=pankoshi][VRoot][=to.build.a.tampu (ES: construir.un.tampu/tambo)]" : {pankoshi}
 ! 
+# -----------------------------------------------------------------------------------------------
 | "[=pari][VRoot][=to.fall (ES: caer)]" : {pari}
 | "[=paria][VRoot][=to.fall (ES: caer)]" : {paria}
 | "[=pary][VRoot][=to.fall (ES: caer)]" : {pary}
@@ -1551,6 +1552,7 @@ define VRootPRQin [
 | "[=vari][VRoot][=to.knock.down (ES: hacer.caer, derribar)]" : {vari}
 | "[=vary][VRoot][=to.make.sb/sth.fall]" : {vary}
 | "[ov=][AGT.CAUS+][--][=pary][VRoot][=to.fall (ES: caer)]::[=to.make.sb/sth.fall; cause.to.fall; to.drop]" : {ovary}
+# -----------------------------------------------------------------------------------------------
 ! 
 | "[=pas][VRoot][=to.crush]" : {pas}
 | "[=pasa][VRoot][=to.punish; to.hit, to.beat.up]" : {pasa}
