@@ -2,7 +2,7 @@
 # Nominalized entries 
 # -----------------
 define VerbToNounPRQin [ 
-  "[=nint+INF@aantsi.][VRoot][=to.want (ES: gustar); to.love (ES: amar)]::[=love (ES: amor)][^NMZ]" : {nint} ! V@->N::[=love (ES: amor)] 
+  "[=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)]::[=love (ES: amor); enamorado (ES: lover)][^NMZ]" : {nint} ! V@->N::[=love (ES: amor); enamorado (ES: lover)] 
 | "[=ovayeri+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: guerrear, combatir)]::[=combat (ES: guerra)][^NMZ]" : {ovayeri} ! V@->N::[=combat (ES: guerra)] 
 | "[=pitsok+INF@aantsi.][VRoot][=to.turn.around (ES: voltearse, dar.vuelta)]::[=turn (ES: vuelta)][^NMZ]" : {pitsok} ! V@->N::[=turn (ES: vuelta)] 
 ];
