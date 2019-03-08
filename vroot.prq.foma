@@ -2468,7 +2468,7 @@ define VRootPRQin [
 ! 
 # despedirse??? 
 | "[=vetsa+INF@/EP:t/aantsi.][VRoot][=to.greet (ES: saludar)]" : {vetsa}
-| "[=vitsa][VRoot][=to.greet (ES: saludar)]" : {vitsa}
+| "[=vitsa+INF@/EP:t/aantsi.][VRoot][=to.greet (ES: saludar)]" : {vitsa}
 | "[=ovetsa][VRoot][=to.greet (ES: saludar)]" : {ovetsa}
 ! 
 | "[=vitsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vitsik}
