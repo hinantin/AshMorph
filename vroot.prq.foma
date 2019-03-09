@@ -2292,8 +2292,8 @@ define VRootPRQin [
 | "[=pich+INF@aantsi.][VRoot][=to.stick (ES: pegar)]" : {pich}
 # --------------------------------------------------------
 ! 
-| "[=tsireni][VRoot][=to.get.dark; to.be.dark]" : {tsireni} 
-| "[=tsirini][VRoot][=to.get.dark; to.be.dark]" : {tsirini} 
+| "[=tsireni+INF@/EP:t/aantsi.][VRoot][=to.get.dark (ES: atardecer, anochecer); to.be.dark]" : {tsireni} 
+| "[=tsirini+INF@/EP:t/aantsi.][VRoot][=to.get.dark (ES: atardecer, anochecer); to.be.dark]" : {tsirini} 
 ! 
 | "[=tsit][VRoot][=to.be.dark]" : {tsit}
 | "[=tsiteni][VRoot][=to.get.dark (ES: oscurecer); to.be.night]" : {tsiteni}
