@@ -1985,9 +1985,9 @@ define VRootPRQin [
 | "[=shitako][VRoot][=to.get.well/better, to.recover]" : {shitako}
 ! 
 # ----------------------------------------------------------------------
-| "[=shitik+INF@aantsi.][VRoot][=to.sew.sth (ES: tejer), to.tie.sth. (ES: amarrar)]" : {shitik}
-| "[=shitzik+INF@antsi.][VRoot][=to.sew.sth (ES: tejer), to.tie.sth.; to.thatch.a.house/walls_of_a_home (ES: tejer.(casa))]" : {shitzik}
-| "[=shitzik][VRoot][=to.weave (ES: tejer)]" : {shitzik}
+| "[=shitik+INF@aantsi.][VRoot][=to.sew.sth (ES: tejer), to.tie.sth. (ES: amarrar); to.thatch.a_house/the_walls_of_a_home.with.tree_leaves (ES: tejer.(casa))]" : {shitik}
+| "[=shitzik+INF@antsi.][VRoot][=to.sew/weave.sth (ES: tejer), to.tie.sth.; to.thatch.a_house/the_walls_of_a_home.with.tree_leaves (ES: tejer.(casa))]" : {shitzik}
+!| "[=shitzik][VRoot][=to.weave (ES: tejer); to.thatch.a_house/the_walls_of_a_home.with.tree_leaves (ES: tejer.(casa))]" : {shitzik}
 | "[=shirik][VRoot][=to.sew.sth (ES: tejer; coser); to.tie.sth. (ES: amarrar)]" : {shirik}
 ! 
 | "[=ontya][VRoot][=to.weave (ES: tejer)]" : {ontya}
