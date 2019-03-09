@@ -457,7 +457,8 @@ define VRootPRQin [
 | "[=aitsonki+INF@/EP:t/aantsi.][VRoot][=to.get.to.the.mountaintop (ES: llegar.a.la.cumbre)]" : {aitsonki}
 ! 
 | "[=charih][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya, tarrafear)]" : {charih}
-| "[=charia][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya, tarrafear)]" : {charia}
+| "[=chariha+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya, tarrafear)]" : {chariha}
+| "[=charia+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya, tarrafear)]" : {charia}
 ! 
 | "[=charink+INF@aantsi.][VRoot][=to.sign (ES: firmar)]" : {charink}
 ! 
@@ -477,7 +478,7 @@ define VRootPRQin [
 ! 
 | "[=chonk+INF@antsi.][VRoot][=to.evaporate, to.steambathe (ES: evaporar); to.take.a.steam-bath, to.do.a.steam.bath.for.sb.]" : {chonk}
 ! 
-| "[=chopi][VRoot][=to.make.soup (ES: hacer.sopa.de.algo), to.soften.sth.; to.cook.in.liquid]" : {chopi}
+| "[=chopi+INF@/EP:t/antsi.][VRoot][=to.make.soup (ES: hacer.sopa.de.algo), to.soften.sth.; to.cook.in.liquid]" : {chopi}
 ! 
 | "[=chori+INF@/EP:t/aantsi.][VRoot][=to.have.a.cramp (ES: tener.calambre)]" : {chori}
 ! 
