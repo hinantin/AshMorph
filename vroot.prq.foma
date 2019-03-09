@@ -456,12 +456,12 @@ define VRootPRQin [
 | "[=iitsonki+INF@/EP:t/aantsi.][VRoot][=to.get.to.the.mountaintop (ES: llegar.a.la.cumbre)]" : {iitsonki}
 | "[=aitsonki+INF@/EP:t/aantsi.][VRoot][=to.get.to.the.mountaintop (ES: llegar.a.la.cumbre)]" : {aitsonki}
 ! 
-| "[=charih][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya)]" : {charih}
-| "[=charia][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya)]" : {charia}
+| "[=charih][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya, tarrafear)]" : {charih}
+| "[=charia][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya, tarrafear)]" : {charia}
 ! 
 | "[=charink+INF@aantsi.][VRoot][=to.sign (ES: firmar)]" : {charink}
 ! 
-| "[=cheraako][VRoot][=to.shout (ES: gritar); to.speak.with.anger (ES: hablar.con.enojo)]" : {cheraako}
+| "[=cheraako+INF@/EP:t/aantsi.][VRoot][=to.shout (ES: gritar); to.speak.with.anger (ES: hablar.con.enojo)]" : {cheraako}
 ! 
 # -----------------------------------------------------------------
 | "[=cherenk+INF@(a)antsi.][VRoot][=to.fry.sth. (ES: freír)]" : {cherenk}
