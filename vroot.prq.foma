@@ -463,11 +463,17 @@ define VRootPRQin [
 ! 
 | "[=cheraako][VRoot][=to.shout (ES: gritar); to.speak.with.anger (ES: hablar.con.enojo)]" : {cheraako}
 ! 
+# -----------------------------------------------------------------
 | "[=cherenk+INF@(a)antsi.][VRoot][=to.fry.sth. (ES: freír)]" : {cherenk}
 | "[=cherink+INF@aantsi.][VRoot][=to.fry.sth. (ES: freír)]" : {cherink}
 | "[=cheerenk+INF@aantsi.][VRoot][=to.fry.sth. (ES: freír)]" : {cheerenk}
 | "[=chirink+INF@aantsi.][VRoot][=to.fry.sth. (ES: freír)]" : {chirink}
 | "[=tsionk+INF@aantsi.][VRoot][=to.fry.sth. (ES: freír)]" : {tsionk}
+# To fry something 
+| "[=shionk+INF@agantsi][VRoot][=to.fry.sth. (ES: freír)]" : {shionk}
+# sauna ??? 
+| "[=tsionk][VRoot][=to.fry.sth. (ES: freír)]" : {tsionk}
+# -----------------------------------------------------------------
 ! 
 | "[=chonk+INF@antsi.][VRoot][=to.evaporate, to.steambathe (ES: evaporar); to.take.a.steam-bath, to.do.a.steam.bath.for.sb.]" : {chonk}
 ! 
@@ -1952,12 +1958,6 @@ define VRootPRQin [
 | "[=shintsivent][VRoot][=to.compel.sb.to.do.sth.; to.impose.an.obligation.on/upon.sb.]" : {shintsivent}
 ! 
 | "[=shintsina][VRoot][=to.argue.sth. (ES: argüir, exigir)]" : {shintsina}
-# -----------------------------------------------------------------
-# To fry something 
-| "[=shionk+INF@agantsi][VRoot][=to.fry.sth. (ES: freir)]" : {shionk}
-# sauna ??? 
-| "[=tsionk][VRoot][=to.fry.sth. (ES: freir)]" : {tsionk}
-# -----------------------------------------------------------------
 ! 
 | "[=shipeta][VRoot][=to.weaken, to.become.weak (ES: debilitarse)]" : {shipeta}
 ! 
