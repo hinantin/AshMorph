@@ -2096,7 +2096,7 @@ define VRootPRQin [
 ! 
 | "[=tarahaa][VRoot][=to.fish.with.net]" : {tarahaa}
 ! 
-| "[=tarank][VRoot][=to.fall.down (earth, landslide; ES: derrumbarse.tierra)]" : {tarank}
+| "[=tarank+INF@agantsi.][VRoot][=to.fall.down (earth, landslide; ES: derrumbarse.tierra/piedras, haber.derrumbe)]" : {tarank}
 ! 
 | "[=tary][VRoot][=to.open.legs]" : {tary}
 ! 
@@ -2137,7 +2137,7 @@ define VRootPRQin [
 ! 
 | "[=tena+INF@/EP:t/aantsi.][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {tena}
 | "[=tina+INF@/EP:t/aantsi.][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {tina}
-| "[=ten][VRoot][=to.weigh; to.be.heavy]" : {ten}
+| "[=ten][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {ten}
 !| "[=tena][VRoot][=to.be.heavy]" : {tena}
 ! 
 | "[=timaarant][VRoot][=to.be.left_over/residual, to.be.in.surplus (ES: sobrar)]" : {timaarant}
