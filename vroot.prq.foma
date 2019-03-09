@@ -1952,10 +1952,12 @@ define VRootPRQin [
 | "[=shintsivent][VRoot][=to.compel.sb.to.do.sth.; to.impose.an.obligation.on/upon.sb.]" : {shintsivent}
 ! 
 | "[=shintsina][VRoot][=to.argue.sth. (ES: argüir, exigir)]" : {shintsina}
+# -----------------------------------------------------------------
 # To fry something 
-| "[=shionk][VRoot][=to.fry.sth.]" : {shionk}
+| "[=shionk+INF@agantsi][VRoot][=to.fry.sth. (ES: freir)]" : {shionk}
 # sauna ??? 
-| "[=tsionk][VRoot][=to.fry.sth.]" : {tsionk}
+| "[=tsionk][VRoot][=to.fry.sth. (ES: freir)]" : {tsionk}
+# -----------------------------------------------------------------
 ! 
 | "[=shipeta][VRoot][=to.weaken, to.become.weak (ES: debilitarse)]" : {shipeta}
 ! 
