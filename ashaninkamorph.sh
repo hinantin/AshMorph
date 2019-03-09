@@ -8,7 +8,7 @@ startmessage="
          *           Ashaninka Morph v0.5-b.4                 *
          *                    created by                      *
          *          Richard Alexander Castro-Mamani           *
-         *   Copyright (c) 2018 by Hinantin Software.         *
+         *   Copyright (c) 2019 by Hinantin Software.         *
          *                All Rights Reserved.                *
          ******************************************************
 "
