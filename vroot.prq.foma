@@ -878,7 +878,7 @@ define VRootPRQin [
 | "[=tseenkashire][VRoot][=to.doubt (ES: dudar)]" : {tseenkashire} 
 ! 
 | "[=kit+INF@aantsi.][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(líquido/comida))]" : {kit}
-| "[=yiit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yiit} ! to be checked
+| "[=yii t][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yiit} ! to be checked
 | "[=yet][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yet} 
 ! 
 | "[=kit][VRoot][=to.bury]" : {kit}
@@ -886,7 +886,7 @@ define VRootPRQin [
 | "[=kitat][VRoot][=to.bury]" : {kitat}
 ! 
 # oquitejatánaque / okitehatanake / o- =kite -ha -t -an -ak -e / EN: 'mature.boil'; ES: 'chupo.maduro'  
-| "[=kite+INF@/EP:t/antsi.][VRoot][=to.have.abscess(es) (ES: tener.abceso(s)); to.have.pus]" : {kite}
+| "[=kite+INF@/EP:t/antsi.][VRoot][=to.have.abscess(es) (ES: tener.abceso(s)); to.have.pus (ES: tener.pus)]" : {kite}
 ! 
 # kiteki. kitetake / ES: 'está.limpio' 
 | "[=kite][VRoot][=to.be.clean (ES: ser/estar.limpio)]" : {kite}
@@ -2120,6 +2120,7 @@ define VRootPRQin [
 ! 
 | "[=teh+INF@aantsi.][VRoot][=to.weave (ES: tejer)]" : {teh}
 | "[=tih+INF@aantsi.][VRoot][=to.weave (ES: tejer)]" : {tih}
+| "[=ty+INF@antsi.][VRoot][=to.weave (ES: tejer.ropas/bolsas)]" : {ty}
 ! 
 | "[=tih+INF@aantsi.][VRoot][=to.bury (ES: enterrar); to.dig (ES: cavar)]" : {tih}
 ! 
