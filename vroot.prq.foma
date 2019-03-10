@@ -13,6 +13,7 @@
 # 3: +poss@(a)ane. (nominalizer for abstract nouns: -ane, -aane) 
 #    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.
 # 4: A-Conj. I-Conj.
+# 5: +sem@f.tech. 
 
 define VRootPRQin [
 ! 
@@ -2108,7 +2109,7 @@ define VRootPRQin [
 ! 
 | "[=tary][VRoot][=to.open.legs]" : {tary}
 ! 
-| "[=tarompi+sem@f.tech.][VRoot][=to.make.a.dam.with.stones (ES: hacer.represa.con.piedras)]" : {tarompi}
+| "[=tarompi+INF@antsi.+sem@f.tech.][VRoot][=to.make.a.dam.with.stones (ES: hacer.represa.con.piedras)]" : {tarompi}
 ! 
 | "[=tash+INF@agantsi.][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tash}
 | "[=tashe+INF@(a)antsi.][VRoot][=to.be.hungry (ES: tener.hambre, estar.con.apetito)]" : {tashe}
