@@ -918,7 +918,7 @@ define NRootPRQin [
 | "[=inchapontso][NRoot][=stake (ES: estaca)]" : {inchapontso} 
 ! 
 | "[=inchato+n.m.][NRoot][=tree (ES: árbol)]" : {inchato} 
-| "[=iNtxato/ĩtxato+n.m.][NRoot:CPB][=tree (ES: árbol; PT: árvore)]" : {ĩtxato} 
+| "[=iNtxato/ĩtxato+n.m.][NRoot:CPB][=tree (ES: árbol; PT: árvore)]" : [{ĩtxato}|{itxato}]
 ! 
 | "[=inchatomashi][NRoot][=shrub (ES: arbusto)]" : {inchatomashi} 
 ! 
