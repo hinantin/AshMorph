@@ -645,6 +645,10 @@ define NRootPRQin [
 ! 
 | "[=emoki][NRoot][=edible.worm.sp. (it.eats.palm.trees; ES: suri); beetle.larva.sp. (ES: larva.de.escarabajo)]" : {emoki}
 | "[=emooki][NRoot][=edible.worm.sp. (it.eats.palm.trees; ES: suri); beetle.larva.sp. (ES: larva.de.escarabajo)]" : {emooki}
+! 
+| "[=imoki][NRoot][=palm.grubs/larvae (ES: suri/larva.de.las.palmeras.de.coco/aguaje/chonta, humpa~hompa; sci.nm.: rhynchophorus.palmarum)]" : {imoki}
+| "[=imooki][NRoot][=palm.grubs/larvae (ES: suri/larva.de.las.palmeras.de.coco/aguaje/chonta, humpa~hompa; sci.nm.: rhynchophorus.palmarum)]" : {imooki}  
+| "[=imovo+m.][NRoot][=palm.grubs/larvae (ES: suri/larva.de.las.palmeras.de.coco/aguaje/chonta, humpa~hompa; sci.nm.: rhynchophorus.palmarum)]" : {imovo} ! the gender of this noun is provided by the author 
 # -----------------------------------------------------------
 ! 
 # el escarabajo 'emotake' de color negro brillante con una larga trompa en la parte frontal, 
@@ -834,9 +838,6 @@ define NRootPRQin [
 | "[=iimi+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {iimi}
 | "[=emi+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {emi}
 | "[=eme+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {eme}
-! 
-| "[=imoki][NRoot][=palm.grubs/larvae (ES: suri/larva.de.las.palmeras.de.coco/aguaje/chonta, humpa~hompa; sci.nm.: rhynchophorus.palmarum)]" : {imoki} 
-| "[=imovo+m.][NRoot][=palm.grubs/larvae (ES: suri/larva.de.las.palmeras.de.coco/aguaje/chonta, humpa~hompa; sci.nm.: rhynchophorus.palmarum)]" : {imovo} ! the gender of this noun is provided by the author 
 ! 
 | "[=imooshi][NRoot][=spider's.web (ES: tela.de.araña; PT: teia.de.aranha)]" : {imooshi}
 | "[=imoshi][NRoot][=spider's.web (ES: tela.de.araña; PT: teia.de.aranha)]" : {imoshi}
