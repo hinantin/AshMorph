@@ -1081,7 +1081,7 @@ define VRootPRQin [
 | "[=oman+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {oman}
 | "[=tsiti+INF@/EP:t/aantsi.][VRoot][=to.hide (ES: ocultar)]" : {tsiti}
 ! 
-| "[=mana+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: luchar)]" : {mana} ! V@->N::[=fight (ES: lucha, enfrentamiento)] 
+| "[=mana+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: luchar)]" : {mana} ! V@->N::[=fighting (ES: lucha, enfrentamiento)] 
 ! 
 | "[=mana+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)]" : {mana}
 | "[=manaa+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)]" : {manaa}
@@ -1859,7 +1859,7 @@ define VRootPRQin [
 | "[=hamorenk][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {hamorenk} 
 | "[=samorink][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {samorink} 
 ! 
-| "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi} ! V@->N::[=question (ES: pregunta, investigación)] 
+| "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi} ! V@->N::[=inquiry (ES: pregunta, investigación)] 
 | "[=osampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {osampi}
 | "[=hampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hampi}
 | "[=ohampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {ohampi}
