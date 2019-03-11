@@ -940,16 +940,18 @@ define VRootPRQin [
 ! 
 | "[=kityonka][VRoot][=to.be.red]" : {kityonka}
 ! 
+# ---------------------------------------------------------
 | "[=kityoh+INF@aantsi.][VRoot][=to.spit (ES: escupir)]" : {kityoh}
 | "[=kityok][VRoot][=to.spit (ES: escupir)]" : {kityok}
 | "[=ichoh][VRoot][=to.spit (ES: escupir)]" : {ichoh}
 | "[=ichooh][VRoot][=to.spit (ES: escupir)]" : {ichooh}
 | "[=kishok+INF@antsi.][VRoot][=to.spit (ES: escupir); to.mouth_spray]" : {kishok}
 | "[=kichoh][VRoot][=to.spit (ES: escupir)]" : {kichoh}
+# ---------------------------------------------------------
 ! 
-| "[=kiv][VRoot][=to.wash (ES: lavar)]" : {kiv}
+| "[=kiv+INF@aantsi.][VRoot][=to.wash (ES: lavar)]" : {kiv}
 | "[=kev][VRoot][=to.wash (ES: lavar)]" : {kev}
-| "[=kiv+tot.redup@unb.copy.][VRoot][=to.wash (ES: lavar)]::[=to.wash.a.lot]" : {kivakiva}
+| "[=kiv+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.wash (ES: lavar)]::[=to.wash.a.lot]" : {kivakiva}
 ! 
 | "[=kivanont][VRoot][=to.wash]" : {kivanont}
 ! 
