@@ -10,4 +10,5 @@ define VerbToNounPRQin [
 | "[=ovayeri+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: guerrear, combatir)]::[=combat (ES: guerra)][^NMZ]" : {ovayeri} ! V@->N::[=combat (ES: guerra)] 
 | "[=pitsok+INF@aantsi.][VRoot][=to.turn.around (ES: voltearse, dar.vuelta)]::[=turn (ES: vuelta)][^NMZ]" : {pitsok} ! V@->N::[=turn (ES: vuelta)] 
 | "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[=inquiry (ES: pregunta, investigación)][^NMZ]" : {sampi} ! V@->N::[=inquiry (ES: pregunta, investigación)] 
+| "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
 ];
