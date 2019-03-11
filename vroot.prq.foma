@@ -1627,8 +1627,8 @@ define VRootPRQin [
 # nopeshiro sanco / nopeshiro sanko / no- =pesh -i =ro ** =sanko / EN: 'I.am.going.to.cut.the.sugar_cane'; ES: 'voy.a.cortar.la.caña.de.azucar' 
 # eiro apeshirotsi tojasheripe / eiro apeshirotsi tohasheripe / =eiro ** a- =pesh -i =ro =tsi ** =tohasheri -pe / EN: 'We.won't.cut.the.weeds' 
 | "[=pesh][VRoot][=to.hack.with.a.machete (ES: trozar, cortar, romper)]" : {pesh}
-| "[=pes][VRoot][=to.hack.with.a.machete]" : {pes}
-| "[=pis][VRoot][=to.hack.with.a.machete]" : {pis}
+| "[=pes+INF@antsi.][VRoot][=to.hack.with.a.machete, to.cut.vegetation]" : {pes}
+| "[=pis+INF@antsi.][VRoot][=to.hack.with.a.machete, to.cut.vegetation]" : {pis}
 | "[=pih][VRoot][=to.hack.with.a.machete]" : {pih}
 ! 
 | "[=pich][VRoot][=to.grind.sth., to.get.softer, to.crush.sth.]" : {pich}
