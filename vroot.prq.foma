@@ -361,7 +361,7 @@ define VRootPRQin [
 ! 
 | "[=atohe+INF@/EP:t/aantsi.][VRoot][=to.cough (ES: toser)]" : {atohe}
 | "[=tohe][VRoot][=to.cough (ES: toser)]" : {tohe}
-| "[=kaint+INF@aantsi.][VRoot][=to.cough (ES: toser)]" : {kaint}
+| "[=kaint+INF@(a)antsi.][VRoot][=to.cough (ES: toser)]" : {kaint}
 ! 
 | "[=atsari][VRoot][=to.unroll]" : {atsari}
 ! 
@@ -1202,7 +1202,7 @@ define VRootPRQin [
 ! 
 | "[=mishiya~{M.CAUS:mi}{'huir':shiya}+INF@/EP:t/antsi.][VRoot][=to.frighten.away (ES: espantar, ahuyentar)]" : {mishiya}
 ! 
-| "[=mitsitsiy][VRoot][=to.submerge, to.sink (ES: sumergirse, hundirse)]" : {mitsitsiy}
+| "[=mitsitsiy+INF@aantsi.][VRoot][=to.submerge, to.sink (ES: sumergirse, hundirse)]" : {mitsitsiy}
 | "[=tsitsiy][VRoot][=to.dive (ES: sumergirse)]" : {tsitsiy}
 | "[=tsitziy][VRoot][=to.dive (ES: sumergirse)]" : {tsitziy}
 ! 
