@@ -181,12 +181,14 @@ define VRootPRQin [
 ! 
 | "[=anashi+INF@/EP:t/aantsi.][VRoot][=to.walk.in.some_location (i.e.: the_woods; ES: caminar, andar.por)]" : {anashi}
 ! 
+# -------------------------------------------------------------------------------- 
 ! nanei / n- =ane -i / ES: 'yo.vivo' 
-| "[=ane+INF@aantsi.][VRoot][=to.live (ES: vivir)]" : {ane}
-| "[=any+INF@(a)antsi.][VRoot][=to.live (ES: vivir)]" : {any}
+| "[=ane+INF@aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {ane}
+| "[=any+INF@(a)antsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {any}
 ! añitantsi / anyitantsi / =anyi -t -antsi / =to.live -ep -inf / ES: 'vivir'
-| "[=anyi/añi+INF@/EP:t/aantsi.][VRoot][=to.live (ES: vivir)]" : {anyi} 
-| "[=anye/añe+INF@/EP:t/aantsi.][VRoot][=to.live (ES: vivir)]" : {anye} 
+| "[=anyi/añi+INF@/EP:t/aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {anyi} 
+| "[=anye/añe+INF@/EP:t/aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {anye} 
+# -------------------------------------------------------------------------------- 
 ! 
 | "[=aneenka+INF@/EP:t/aantsi.][VRoot][=to.breath (ES: respirar); to.sigh (ES: suspirar)]" : {aneenka}
 | "[=aniinka+INF@/EP:t/aantsi.][VRoot][=to.breath (ES: respirar); to.sigh (ES: suspirar)]" : {aniinka}
