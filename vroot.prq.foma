@@ -958,9 +958,9 @@ define VRootPRQin [
 ! 
 | "[=kivant][VRoot][=to.visit (ES: visitar)]" : {kivant}
 ! 
-| "[=kiy][VRoot][=to.dig (ES: escarbar)]" : {kiy}
+| "[=kiy+INF@aantsi.][VRoot][=to.dig (ES: escarbar)]" : {kiy}
 ! 
-| "[=koite][VRoot][=to.be.in.need]" : {koite} ! to.be.checked 
+| "[=koite][VRoot][=to.be.in.need (ES: necesitar); (ES: extrañar)]" : {koite} ! to.be.checked 
 ! 
 | "[=konyaa+INF@/EP:t/aantsi.][VRoot][=to.appear (ES: aparecer)]" : {konyaa}
 | "[=koniha+INF@/EP:t/aantsi.][VRoot][=to.appear (ES: aparecer)]" : {koniha}
