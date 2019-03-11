@@ -2116,7 +2116,7 @@ define VRootPRQin [
 ! 
 | "[=tarompi+INF@antsi.+sem@f.tech.][VRoot][=to.make.a.dam.with.stones (ES: hacer.represa.con.piedras)]" : {tarompi}
 ! 
-| "[=tash+INF@agantsi.][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tash}
+| "[=tash+INF@agantsi:antsi.][VRoot][=to.be.hungry (ES: tener/sentir.hambre)]" : {tash}
 | "[=tashe+INF@(a)antsi.][VRoot][=to.be.hungry (ES: tener.hambre, estar.con.apetito)]" : {tashe}
 | "[=tashey+INF@aantsi.][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tashey}
 | "[=tase][VRoot][=to.be.hungry (ES: tener.hambre)]" : {tase}
@@ -2366,6 +2366,7 @@ define VRootPRQin [
 ! 
 | "[=tiyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear)); to.go.upstream (ES: ir.río.arriba)]" : {tiyaat}
 | "[=tziyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tziyaat}
+| "[=tziyaa~{'to.ply':tziya}{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tziyaa}
 | "[=otziyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {otziyaat}
 | "[=tiaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tiaat}
 | "[=otziy+INF@aantsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {otziy}
