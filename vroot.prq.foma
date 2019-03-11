@@ -594,11 +594,13 @@ define VRootPRQin [
 ! 
 | "[=kachaa+INF@/EP:t/aantsi.][VRoot][=to.smoke (ES: humear)]" : {kachaa}
 ! 
+# -------------------------------------------------------------- 
 | "[=kacho][VRoot][=to.be.sour (ES: ser.agrio)]" : {kacho} ! =kacho-ri ES: 'agrio', EN: 'sour'; =kacho-atsi ES: 'es agrio', EN: 'it's sour' 
 # nokachokantarori / ES: 'yo.hago.agrio.algo' 
-| "[=kachok][VRoot][=to.be.sour (ES: ser.agrio)]" : {kachok}
+| "[=kachok][VRoot][=to.be.sour (ES: ser.agrio, hacer.agrio.algo)]" : {kachok}
 ! 
-| "[=kachoki+INF@antsi.][VRoot][=to.ferment (ES: fermentar, volver.ácido)]" : {kachoki}
+| "[=kachoki+INF@antsi.][VRoot][=to.ferment, to.turn.acid (ES: fermentar, volver.ácido)]" : {kachoki}
+# -------------------------------------------------------------- 
 ! 
 | "[=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)]" : {kaem}
 | "[=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaim}
@@ -921,14 +923,18 @@ define VRootPRQin [
 ! 
 !| "[=kitamarotzi][VRoot][=to.be.white]" : {kitamarotzi}
 ! 
+# ---------------------------------------------------------
 | "[=kitsa][VRoot][=to.dress (ES: ponerse.ropa)]" : {kitsa}
-| "[=kitsaa][VRoot][=to.dress (ES: ponerse.ropa)]" : {kitsaa}
+| "[=kitsaa+INF@/EP:t/aantsi.][VRoot][=to.dress (ES: ponerse.ropa)]" : {kitsaa}
 | "[=ketsa][VRoot][=to.dress (ES: ponerse.ropa)]" : {ketsa}
 | "[=ketsaa][VRoot][=to.dress (ES: ponerse.ropa)]" : {ketsaa}
 # kitarentse / =kita -re -ntse / =to.dress -nmz -nposs / PT: 'cushma, vestimenta.tradicional' 
 | "[=kita][VRoot][=to.dress (ES: ponerse.ropa)]" : {kita}
 ! 
+# ---------------------------------------------------------
 | "[=kitsa][VRoot][=to.catch.fish.with.a.net]" : {kitsa}
+| "[=kitsaa~kitsa{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.catch_fish.with.a.net]" : {kitsaa}
+# ---------------------------------------------------------
 ! 
 | "[=kitso][VRoot][=to.have.an.oval-shape]" : {kitso}
 ! 
