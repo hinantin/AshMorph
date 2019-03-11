@@ -2462,7 +2462,7 @@ define VRootPRQin [
 | "[=oatsina][VRoot][= (ES: magullar)]" : {oatsina}
 ! 
 | "[=vashire][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashire}
-| "[=vashiri][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashiri}
+| "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
 ! 
 | "[=vashivent][VRoot][=to.shame.sb.]" : {vashivent}
 ! 
