@@ -44,7 +44,7 @@ define VRootPRQin [
 | "[=aamavint+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido, prevenir); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavint}
 | "[=aamaavent+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido, prevenir); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamaavent}
 ! 
-| "[=aapatikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]" : {aapatikiy} 
+| "[=aapatikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]" : {aapatikiy} ! V@->N::[=union.between.people (ES: unión)] 
 | "[=patikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]" : {patikiy} 
 ! 
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound; to.destroy (ES: malograr)]" : {amashi}
