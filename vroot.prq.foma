@@ -626,7 +626,7 @@ define VRootPRQin [
 ! 
 | "[=kamant][VRoot][=to.inform; to.advise]" : {kamant}
 ! 
-| "[=kamarank+INF@aantsi.][VRoot][=to.vomit (ES: vomitar)]" : {kamarank}
+| "[=kamarank+INF@aantsi.][VRoot][=to.vomit (ES: vomitar)]" : {kamarank} ! V@->N::[=vomit (ES: vómito)] 
 | "[=kamaank][VRoot][=to.vomit (ES: vomitar)]" : {kamaank}
 | "[=kamank][VRoot][=to.vomit (ES: vomitar)]" : {kamank}
 ! 
@@ -1598,7 +1598,7 @@ define VRootPRQin [
 | "[=pashika][VRoot][=to.cover (ES: cubrir, tapar)]" : {pashika}
 | "[=pashikaa][VRoot][=to.cover (ES: cubrir, tapar)]" : {pashikaa}
 ! 
-| "[=pashivent+INF@aantsi.][VRoot][=to.embarrass, to.be.embarrassed (ES: avergonzar(se), tener.vergüenza)]" : {pashivent}
+| "[=pashivent+INF@aantsi.][VRoot][=to.embarrass, to.be.embarrassed (ES: avergonzar(se), tener.vergüenza)]" : {pashivent} ! V@->N::[=shame (ES: vergüenza)] 
 ! 
 | "[=pasonki][VRoot][=to.thank (ES: agradecer)]" : {pasonki}
 | "[=paasonki][VRoot][=to.thank (ES: agradecer)]" : {paasonki}
