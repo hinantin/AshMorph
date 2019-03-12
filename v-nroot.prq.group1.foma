@@ -15,6 +15,7 @@ define VerbToNounPRQin [
 | "[=pitsok+INF@aantsi.][VRoot][=to.turn.around (ES: voltearse, dar.vuelta)]::[=turn (ES: vuelta)][^NMZ]" : {pitsok} ! V@->N::[=turn (ES: vuelta)] 
 | "[=pionk+INF@antsi.][VRoot][=to.shudder (ES: estar.con.escalofrío, temblar.con.escalofríos)]::[=shudder (ES: escalofrío)][^NMZ]" : {pionk} ! V@->N::[=shudder (ES: escalofrío)] 
 | "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[=inquiry (ES: pregunta, investigación)][^NMZ]" : {sampi} ! V@->N::[=inquiry (ES: pregunta, investigación)] 
+| "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]::[=scare (ES: susto)][^NMZ]" : {tsarov} ! V@->N::[=scare (ES: susto)]
 | "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
 | "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
 ];
