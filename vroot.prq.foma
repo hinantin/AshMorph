@@ -2265,7 +2265,7 @@ define VRootPRQin [
 | "[=tsa][VRoot][=to.bark (ES: ladrar); to.make.an.animal.sound]" : {tsa}
 ! 
 | "[=tsaro][VRoot][=to.fear, to.be.afraid (ES: tener.miedo)]" : {tsaro}
-| "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]" : {tsarov}
+| "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]" : {tsarov} ! V@->N::[=scare (ES: susto)]
 | "[=tsaav][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]" : {tsaav}
 ! 
 | "[=tsaink][VRoot][=to.mock.sb. (ES: burlarse)]" : {tsaink}
