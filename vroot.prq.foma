@@ -1755,7 +1755,7 @@ define VRootPRQin [
 ! 
 | "[=pok][VRoot][=to.come (ES: venir), to.arrive]" : {pok}
 ! 
-| "[=pokai][VRoot][=to.toast (ES: tostar)]" : {pokai}
+| "[=pokai+INF@/EP:t/aantsi.][VRoot][=to.toast (ES: tostar)]" : {pokai}
 ! 
 | "[=pomerentsi][VRoot][=to.be.difficult]" : {pomerentsi}
 | "[=pomirentsi][VRoot][=to.be.difficult]" : {pomirentsi}
@@ -2468,7 +2468,7 @@ define VRootPRQin [
 | "[=oapatank][VRoot][=to.patch (ES: parchar)]" : {oapatank}
 ! 
 | "[=ovatsina+INF@antsi.][VRoot][= (ES: magullar)]" : {ovatsina}
-| "[=oatsina][VRoot][= (ES: magullar)]" : {oatsina}
+| "[=oatsina+INF@VC.][VRoot][= (ES: magullar)]" : {oatsina}
 ! 
 | "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
 | "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
