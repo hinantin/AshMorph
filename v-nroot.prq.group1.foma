@@ -9,6 +9,7 @@ define VerbToNounPRQin [
 | "[=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)]::[=love (ES: amor); lover (ES: enamorado)][^NMZ]" : {nint} ! V@->N::[=love (ES: amor); lover (ES: enamorado)] 
 | "[=ovayeri+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: guerrear, combatir)]::[=combat (ES: guerra)][^NMZ]" : {ovayeri} ! V@->N::[=combat (ES: guerra)] 
 | "[=pitsok+INF@aantsi.][VRoot][=to.turn.around (ES: voltearse, dar.vuelta)]::[=turn (ES: vuelta)][^NMZ]" : {pitsok} ! V@->N::[=turn (ES: vuelta)] 
+| "[=pionk+INF@antsi.][VRoot][=to.shudder (ES: estar.con.escalofrío, temblar.con.escalofríos)]::[=shudder (ES: escalofrío)][^NMZ]" : {pionk} ! V@->N::[=shudder (ES: escalofrío)] 
 | "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[=inquiry (ES: pregunta, investigación)][^NMZ]" : {sampi} ! V@->N::[=inquiry (ES: pregunta, investigación)] 
 | "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
 ];
