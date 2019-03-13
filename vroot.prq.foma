@@ -1186,7 +1186,7 @@ define VRootPRQin [
 | "[=miy+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {miy}
 | "[=mit+INF@aantsi:agaantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mit}
 # nomitaji / nomitahi / no- =mitah -i / 1sg.s- =to.jump -real / EN: 'I.am.jumping'; ES: 'estoy.saltando' 
-| "[=mitah+INF@aantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mitah}
+| "[=mitah+INF@aantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mitah} ! V@->N::[=jump (ES: salto)] 
 # miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
 # imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
 | "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {miamia}
