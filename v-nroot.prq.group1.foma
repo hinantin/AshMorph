@@ -6,6 +6,7 @@ define VerbToNounPRQin [
 | "[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)]::[=action, act (ES: acto)][^NMZ]" : {ant} ! V@->N::[=action, act (ES: acto)] 
 | "[=apato+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar), to.meet, to.get.together]::[=meeting (ES: reunión)][^NMZ]" : {apato} ! V@->N::[=meeting (ES: reunión)]
 | "[=tohe][VRoot][=to.cough (ES: toser)]::[=cough (ES: tos)][^NMZ]" : {tohe} ! V@->N::[=cough (ES: tos)] 
+| "[=atsikaneent~atsik{EP:a}{DIM:neent}+INF@aantsi.][VRoot][=to.have.a.stomachache/biting_pain_in_the_stomach (ES: tener.dolor.de.estómago))]::[=stomachache (ES: dolor.de.estómago)][^NMZ]" : {atsikaneent} ! V@->N::[=stomachache (ES: dolor.de.estómago)] 
 | "[=kamant+INF@aantsi.][VRoot][=to.inform; to.advise]::[=sermon (ES: sermón)][^NMZ]" : {kamant} ! V@->N::[=sermon (ES: sermón)] 
 | "[=kamarank+INF@aantsi.][VRoot][=to.vomit (ES: vomitar)]::[=vomit (ES: vómito)][^NMZ]" : {kamarank} ! V@->N::[=vomit (ES: vómito)] 
 | "[=kempe+INF@/EP:t/aantsi.][VRoot][=to.be.similar.to.sb/sth, to.seem (ES: ser.como.algn.); to.imitate]::[=resemblance (ES: semejanza)][^NMZ]" : {kempe} ! V@->N::[=resemblance (ES: semejanza)] 
