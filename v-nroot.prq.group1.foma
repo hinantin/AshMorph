@@ -4,6 +4,7 @@
 define VerbToNounPRQin [ 
   "[=aapatikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]::[=union.between.people (ES: unión.en.personas)][^NMZ]" : {aapatikiy} ! V@->N::[=union.between.people (ES: unión.en.personas)] 
 | "[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)]::[=action, act (ES: acto)][^NMZ]" : {ant} ! V@->N::[=action, act (ES: acto)] 
+| "[=apato+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar), to.meet, to.get.together]::[=meeting (ES: reunión)][^NMZ]" : {apato} ! V@->N::[=meeting (ES: reunión)]
 | "[=tohe][VRoot][=to.cough (ES: toser)]::[=cough (ES: tos)][^NMZ]" : {tohe} ! V@->N::[=cough (ES: tos)] 
 | "[=kamant+INF@aantsi.][VRoot][=to.inform; to.advise]::[=sermon (ES: sermón)][^NMZ]" : {kamant} ! V@->N::[=sermon (ES: sermón)] 
 | "[=kamarank+INF@aantsi.][VRoot][=to.vomit (ES: vomitar)]::[=vomit (ES: vómito)][^NMZ]" : {kamarank} ! V@->N::[=vomit (ES: vómito)] 
@@ -20,6 +21,7 @@ define VerbToNounPRQin [
 | "[=pitsok+INF@aantsi.][VRoot][=to.turn.around (ES: voltearse, dar.vuelta)]::[=turn (ES: vuelta)][^NMZ]" : {pitsok} ! V@->N::[=turn (ES: vuelta)] 
 | "[=pionk+INF@antsi.][VRoot][=to.shudder (ES: estar.con.escalofrío, temblar.con.escalofríos)]::[=shudder (ES: escalofrío)][^NMZ]" : {pionk} ! V@->N::[=shudder (ES: escalofrío)] 
 | "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[=inquiry (ES: pregunta, investigación)][^NMZ]" : {sampi} ! V@->N::[=inquiry (ES: pregunta, investigación)] 
+| "[=sapok+INF@aantsi.][VRoot][=to.jump, to.jump.up.and.down]::[=jump (ES: salto)][^NMZ]" : {sapok} ! V@->N::[=jump (ES: salto)] 
 | "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]::[=scare (ES: susto)][^NMZ]" : {tsarov} ! V@->N::[=scare (ES: susto)]
 | "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
 | "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
