@@ -374,7 +374,7 @@ define VRootPRQin [
 ! 
 | "[=atsik+INF@aantsi.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {atsik}
 | "[N=][IRR+][--][=atsik+INF@aantsi.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {antsik}
-| "[=atsikaneent+INF@aantsi.][VRoot][=to. (ES: ))]" : {atsikaneent} ! V@->N::[=stomachache (ES: dolor.de.estómago)] 
+| "[=atsikaneent~atsik{EP:a}{DIM:neent}+INF@aantsi.][VRoot][=to.have.a.stomachache/biting_pain_in_the_stomach (ES: tener.dolor.de.estómago))]" : {atsikaneent} ! V@->N::[=stomachache (ES: dolor.de.estómago)] 
 | "[=atsik+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {atsitsika}
 ! 
 # arrollar 
