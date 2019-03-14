@@ -275,7 +275,7 @@ define VRootPRQin [
 | "[=apoto+INF@/EP:t/(a)antsi.][VRoot][=to.gather (ES: juntar), to.meet, to.get.together]" : {apoto}
 # apotoirintsi / EN: 'gathering' 
 | "[=apotoi][VRoot][=to.gather (ES: juntar)]" : {apotoi}
-| "[=apato+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar), to.meet, to.get.together]" : {apato}
+| "[=apato+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar), to.meet, to.get.together]" : {apato} ! V@->N::[=meeting (ES: reunión)]
 ! te yampototanajya / te yampototanahya / =te *** y- N- =apoto -t -an -ah -ya / =NEG.REAL *** 3m.s- N- =to.meet -ep -inch -term -irr / EN: 'they.did.not.meet.anymore'; ES: 'ya.no.se.reunieron.más'
 | "[N=][IRR+][--][=apoto+INF@/EP:t/aantsi.][VRoot][=to.gather, to.meet, to.get.together]" : {ampoto}
 | "[N=][IRR+][--][=apato+INF@/EP:t/aantsi.][VRoot][=to.gather, to.meet, to.get.together]" : {ampato}
@@ -1889,7 +1889,7 @@ define VRootPRQin [
 | "[=sampi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[= (ES: preguntar.a_cada_rato)]" : {sasampi}
 ! 
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
-| "[=sapok][VRoot][=to.jump, to.jump.up.and.down]" : {sapok}
+| "[=sapok+INF@aantsi.][VRoot][=to.jump, to.jump.up.and.down]" : {sapok} ! V@->N::[=jump (ES: salto)] 
 ! 
 | "[=sampita+INF@antsi.][VRoot][=to.research (ES: interrogar, preguntar)]" : {sampita}
 ! 
