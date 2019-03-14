@@ -433,16 +433,19 @@ define VRootPRQin [
 # ---------------------------------------------------------------------- 
 # caused to be well 
 | "[=etsiy][VRoot][=to.be.well]" : {etsiy}
-! 
 | "[=etsiyako+INF@/EP:t/antsi.][VRoot][=to.heal (lit.: caused.to.be.well; ES: sanar)]" : {etsiyako}
 | "[=etsiyatako+INF@/EP:t/aantsi.][VRoot][=to.heal (lit.: caused.to.be.well; ES: sanar)]" : {etsiyatako}
+! 
 | "[=avisako+INF@/EP:t/antsi.][VRoot][=to.heal (ES: sanar); to.recover (ES: sanarse)]" : {avisako}
+! 
 | "[=eshitako+INF@/EP:t/aantsi.][VRoot][=to.heal (ES: sanar)]" : {eshitako}
 | "[=ashitako+INF@/EP:t/aantsi.][VRoot][=to.heal (ES: sanar)]" : {ashitako}
 | "[=ishitako+INF@/EP:t/aantsi.][VRoot][=to.heal (ES: sanar)]" : {ishitako}
+! 
 | "[=tekatsi+INF@/EP:t/aantsi.][VRoot][=to.heal (ES: sanar,, sanarse, estar.sano)]" : {tekatsi}
 | "[=tikatsi+INF@/EP:t/aantsi.][VRoot][=to.heal (ES: sanar,, sanarse, estar.sano)]" : {tikatsi}
 | "[=tekatsitako][VRoot][=to.heal (ES: sanar)]" : {tekatsitako}
+! 
 | "[=amatako][VRoot][=to.overcome.an.ailment]" : {amatako}
 # ---------------------------------------------------------------------- 
 ! 
@@ -1731,6 +1734,7 @@ define VRootPRQin [
 | "[=piya][VRoot][=to.avenge (ES: vengar)]" : {piya}
 # share
 | "[=piya+INF@/EP:t/aantsi.][VRoot][=to.share (ES: compartir); to.barter (ES: hacer.trueque)]" : {piya}
+| "[=ayompari+INF@/EP:t/aantsi.][VRoot][=to.barter (ES: hacer.trueque)]" : {ayompari} ! V@->N::[=barter (ES: trueque)] 
 ! 
 | "[=piyatsa][VRoot][=to.disobey; to.disobey.authority]" : {piyatsa}
 ! 
@@ -1747,9 +1751,9 @@ define VRootPRQin [
 # pochokitaantsi / =pochoki -t -aantsi / =to.dream -ep -inf / EN:'dream', ES:'sueño'
 # pochokintsi / =pochoki -ntsi+m. / to.dream -adj / EN:'sleepyhead', ES:'dormilón' 
 # pochokinti / =pochoki -nti+m. / =to.dream -adj / EN:'sleepyhead', ES:'dormilón' 
-| "[=pochoki][VRoot][=to.dream (ES: tener.sueño)]" : {pochoki}
+| "[=pochoki+INF@aantsi.][VRoot][=to.dream (ES: tener.sueño)]" : {pochoki}
 ! 
-| "[=poema][VRoot][=to.sound (ES: sonar)]" : {poema}
+| "[=poema+INF@/EP:t/antsi.][VRoot][=to.sound (ES: sonar)]" : {poema}
 | "[=poima][VRoot][=to.sound (ES: sonar)]" : {poima}
 | "[=poimp][VRoot][=to.sound (ES: sonar)]" : {poimp}
 | "[=poimpi][VRoot][=to.sound (ES: sonar)]" : {poimpi}
