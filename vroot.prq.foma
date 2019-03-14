@@ -427,7 +427,8 @@ define VRootPRQin [
 ! 
 | "[=et+INF@aantsi.][VRoot][=to.go.to.warn (ES: ir.a.avisar)]" : {et}
 ! 
-| "[=et][VRoot][=to.start (ES: empezar)]" : {et}
+| "[=et+INF@aantsi.][VRoot][=to.start (ES: empezar)]" : {et}
+| "[=it+INF@aantsi.][VRoot][=to.start (ES: empezar)]" : {it}
 ! 
 | "[=etsiy][VRoot][=to.be.well]" : {etsiy}
 ! 
