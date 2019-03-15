@@ -499,8 +499,8 @@ define VRootPRQin [
 ! 
 | "[=chovirio][VRoot][=person's.name, NP]" : {chovirio}
 ! 
-| "[=eeni+INF@CV.][VRoot][=to.have (ES: tener)]" : {eeni}
-| "[=eni+INF@CV.][VRoot][=to.have (ES: tener)]" : {eni}
+| "[=eeni+INF@/EP:t/VC.][VRoot][=to.have (ES: tener)]" : {eeni}
+| "[=eni+INF@/EP:t/VC.][VRoot][=to.have (ES: tener)]" : {eni}
 ! 
 # --------------------------------------------
 | "[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)]" : {ha} 
