@@ -988,13 +988,16 @@ define VRootPRQin [
 | "[=komi+INF@/EP:t/aantsi.][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {komi}
 | "[=kompi+INF@/EP:t/aantsi.][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse]" : {kompi}
 ! 
+# ------------------------------------------------------------------------------------
 # ikonaveta / i- =kona -ve -t -a / 3m.s- =to.fish.with.barbasco -frus -ep -real / EN: 'he.almost.fished.with.barbasco', ES: 'mientras.pescaba'  
 | "[=kona][VRoot][=to.fish.with.barbasco/poison (ES: pescar.con.cubé)]" : {kona} 
 | "[=konaa][VRoot][=to.fish.with.barbasco/poison (ES: pescar.con.cubé)]" : {konaa} 
 ! 
+! ankonobero koñapi kipatsi / ankonovero konyapi kipatsi / a- N= =konov -e =ro ** =konyapi ** =kipatsi  / ES: 'mezclamos.barbasco.con.tierra' 
 | "[=konov+INF@aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {konov} 
 | "[=kono+INF@aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {kono} 
-| "[=konee+INF@/EP:t/aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {konee} 
+| "[=konee+INF@/EP:t/aantsi.][VRoot][=to.mix (ES: mezclar, combinar)]" : {konee}
+# ------------------------------------------------------------------------------------ 
 ! word set:
 | "[=koraki][VRoot][=to.approach, to.get.closer, to.come.near]" : {koraki}
 | "[=korake+INF@/EP:t/aantsi.][VRoot][=to.approach, to.get.closer, to.come.near, to.draw.near]" : {korake}
