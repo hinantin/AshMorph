@@ -497,8 +497,6 @@ define VRootPRQin [
 ! 
 | "[=chori+INF@/EP:t/aantsi.][VRoot][=to.have.a.cramp (ES: tener.calambre)]" : {chori}
 ! 
-| "[=chovirio][VRoot][=person's.name, NP]" : {chovirio}
-! 
 | "[=eeni+INF@/EP:t/VC.][VRoot][=to.have (ES: tener)]" : {eeni}
 | "[=eni+INF@/EP:t/VC.][VRoot][=to.have (ES: tener)]" : {eni}
 ! 
@@ -516,6 +514,7 @@ define VRootPRQin [
 | "[=ha+INF@antsi.][VRoot][=to.fill.sth. (ES: llenar)]" : {ha}
 | "[=iyeeki+INF@/EP:t/aantsi.][VRoot][=to.fill.sth. (ES: llenar)]" : {iyeeki}
 | "[=yeeki+INF@/EP:t/aantsi.][VRoot][=to.fill.sth. (ES: llenar)]" : {yeeki}
+# --------------------------------------------
 ! 
 | "[=hek+INF@antsi.][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be (ES: estar)]" : {hek}
 | "[=heek+INF@aantsi.][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be (ES: estar)]" : {heek}
