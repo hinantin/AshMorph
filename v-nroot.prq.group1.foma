@@ -25,6 +25,7 @@ define VerbToNounPRQin [
 | "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[=inquiry (ES: pregunta, investigación)][^NMZ]" : {sampi} ! V@->N::[=inquiry (ES: pregunta, investigación)] 
 | "[=sapok+INF@aantsi.][VRoot][=to.jump, to.jump.up.and.down]::[=jump (ES: salto)][^NMZ]" : {sapok} ! V@->N::[=jump (ES: salto)] 
 | "[=shipok+INF@(a)antsi.][VRoot][=to.diagnose_an_ailment-and-to.cure.it.with.rising.vapor.from.stone-heated.medicinal_herbs; to.evaporate (ES: evaporar)]::[=sauna (ES: sauna)][^NMZ]" : {shipok} ! V@->N::[=sauna (ES: sauna)] 
+| "[=tsionk+INF@aantsi.][VRoot][=to.generate.steam.for.curing.an.illness (ES: producir.vapor.para_curaciones/accidentalmente)]::[=sauna (ES: sauna)][^NMZ]" : {tsionk} ! V@->N::[=sauna (ES: sauna)] 
 | "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]::[=scare (ES: susto)][^NMZ]" : {tsarov} ! V@->N::[=scare (ES: susto)]
 | "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
 | "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  

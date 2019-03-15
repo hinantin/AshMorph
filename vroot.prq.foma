@@ -1597,8 +1597,8 @@ define VRootPRQin [
 | "[=pas][VRoot][=to.crush]" : {pas}
 | "[=pasa][VRoot][=to.punish; to.hit, to.beat.up]" : {pasa}
 ! 
-| "[=pasaka][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasaka}
-| "[=pasakaa][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasakaa}
+| "[=pasaka+INF@/EP:t/antsi.][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasaka}
+| "[=pasakaa+INF@/EP:t/antsi.][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasakaa}
 ! 
 | "[=pasavako~{'to.hit':pas}{EP:a}{CL:/'hand':vako/}][VRoot][=to.applaud, to.clap (ES: aplaudir)]" : {pasavako}
 | "[=chotank+INF@aantsi.][VRoot][=to.applaud, to.clap (ES: aplaudir)]" : {chotank}
@@ -2007,7 +2007,7 @@ define VRootPRQin [
 | "[=shiri+INF@/EP:t/aantsi.][VRoot][=to.believe (ES: creer, tener.fe); to.think]" : {shiri}
 | "[=shire+INF@/EP:t/aantsi.][VRoot][=to.believe (ES: creer, tener.fe); to.think]" : {shire}
 ! 
-| "[=shiria][VRoot][=to.fish.with.a.basket (ES: pescar.con.canasta)]" : {shiria}
+| "[=shiria+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.basket (ES: pescar.con.canasta)]" : {shiria}
 ! 
 | "[=shirink+INF@aantsi.][VRoot][=to.make.room (ES: arrimar); to.contract.in.size, to.shrink (ES: mermar.(el.río))]" : {shirink}
 | "[=shirinkaa~shirink{CL:/liquid:aa/}+INF@/EP:t/aantsi.][VRoot][=to.contract.in.size, to.shrink (i.e.: river; ES: mermar/estiar.(el.río))]" : {shirinkaa}
