@@ -2350,7 +2350,7 @@ define VRootPRQin [
 ! 
 | "[=tsivak][VRoot][=to.put.out, to.extinguish (ES: apagar (luz, cigarrillo, fuego))]" : {tsivak}
 ! 
-| "[=tsiy][VRoot][=to.heat (ES: calentar)]" : {tsiy}
+| "[=tsiy+INF@aantsi.][VRoot][=to.heat (ES: calentar)]" : {tsiy}
 ! 
 | "[=tsiyo+INF@/EP:t/aantsi.][VRoot][=to.give.off.light, to.light, to.light.up (ES: alumbrar)]" : {tsiyo}
 | "[=tsio][VRoot][=to.give.off.light, to.light, to.light.up]" : {tsio}
@@ -2470,7 +2470,7 @@ define VRootPRQin [
 | "[=vanke+INF@taantsi][VRoot][=to.ride (ES: montar)]" : {vanke}
 ! 
 | "[=ovam+INF@agaantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovam}
-| "[=vam+INF@aantsi:agaantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {vam}
+| "[=vam+INF@aantsi:agaantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar); to.make.die (ES: hacer.morir)]" : {vam}
 | "[=ovan+INF@/EP:t/aantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovan}
 | "[=oam][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {oam}
 ! 
