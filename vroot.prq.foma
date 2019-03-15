@@ -12,7 +12,7 @@
 # 2: +tot.redup@unb.copy., +prtl.redup@b.copy.
 # 3: +poss@(a)ane. (nominalizer for abstract nouns: -ane, -aane) 
 #    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.
-# 4: A-Conj. I-Conj.
+# 4: A-Conj. I-Conj.|
 # 5: +sem@f.tech. 
 
 define VRootPRQin [
@@ -499,8 +499,8 @@ define VRootPRQin [
 ! 
 | "[=chovirio][VRoot][=person's.name, NP]" : {chovirio}
 ! 
-| "[=eeni][VRoot][=to.have]" : {eeni}
-| "[=eni][VRoot][=to.have]" : {eni}
+| "[=eeni+INF@CV.][VRoot][=to.have (ES: tener)]" : {eeni}
+| "[=eni+INF@CV.][VRoot][=to.have (ES: tener)]" : {eni}
 ! 
 # --------------------------------------------
 | "[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)]" : {ha} 
