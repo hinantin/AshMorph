@@ -2004,7 +2004,8 @@ define VRootPRQin [
 | "[=shipok+INF@(a)antsi.][VRoot][=to.diagnose_an_ailment-and-to.cure.it.with.rising.vapor.from.stone-heated.medicinal_herbs; to.evaporate (ES: evaporar)]" : {shipok} ! V@->N::[=sauna (ES: sauna)] 
 | "[=tsionk+INF@aantsi.][VRoot][=to.generate.steam.for.curing.an.illness (ES: producir.vapor.para_curaciones/accidentalmente)]" : {tsionk} ! V@->N::[=sauna (ES: sauna)] 
 ! 
-| "[=shiri][VRoot][=to.believe; to.think]" : {shiri}
+| "[=shiri+INF@/EP:t/aantsi.][VRoot][=to.believe (ES: creer, tener.fe); to.think]" : {shiri}
+| "[=shire+INF@/EP:t/aantsi.][VRoot][=to.believe (ES: creer, tener.fe); to.think]" : {shire}
 ! 
 | "[=shiria][VRoot][=to.fish.with.a.basket (ES: pescar.con.canasta)]" : {shiria}
 ! 
