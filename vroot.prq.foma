@@ -108,13 +108,13 @@ define VRootPRQin [
 | "[=am+INF@aantsi.][VRoot][=to.bring (ES: traer)]" : {am}
 !###| "[y-][VPers][3m.S/A+][--][=am+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.bring (ES: traer)]" : {yamayama} ! @REDUP 
 ! 
-| "[=kah+INF@VC.][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {kah}
-| "[=kag][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {kag}
-| "[=ag][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {ag}
-!###| "[n-][VPers][1SG.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {naganaga} ! @REDUP 
-!###| "[p-][VPers][2S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {pagapagaa} ! @REDUP 
-!###| "[y-][VPers][3m.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {yagayagaa} ! @REDUP 
-!###| "[Ø-][VPers][3n.m.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {agaagaa} ! @REDUP 
+| "[=kah+INF@aantsi:VC.][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {kah}
+| "[=kag+INF@aantsi.][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {kag}
+| "[=ag+INF@aantsi.][VRoot][=to.carry.(water) (ES: llevar.(agua))]" : {ag}
+!###| "[n-][VPers][1SG.S/A+][--][=ag+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {naganaga} ! @REDUP 
+!###| "[p-][VPers][2S/A+][--][=ag+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {pagapagaa} ! @REDUP 
+!###| "[y-][VPers][3m.S/A+][--][=ag+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {yagayagaa} ! @REDUP 
+!###| "[Ø-][VPers][3n.m.S/A+][--][=ag+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {agaagaa} ! @REDUP 
 ! 
 | "[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim]" : {ama}
 | "[=amaa+INF@/EP:t/aantsi.][VRoot][=to.swim]" : {amaa}
