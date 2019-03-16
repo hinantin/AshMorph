@@ -151,6 +151,7 @@ define NounToVerbPRQin [
 | "[=kinkivari+m.][AdjRoot][=old][^VBZ]" : {kinkivari} ! N@->V
 | "[=kenkivaro+n.m.][AdjRoot][=old (ES: chatarra)][^VBZ]" : {kenkivaro} ! N@->V
 | "[=kinkivaro+n.m.][AdjRoot][=old][^VBZ]" : {kinkivaro} ! N@->V
+| "[=pashini][AdjRoot][=other, another (ES: otro); few]::[=to.change (ES: cambiar)][^VBZ]" : {pashini} ! N@->V::[=to.change (ES: cambiar)] 
 | "[=pisari+m.][AdjRoot][=old][^VBZ]" : {pisari} ! N@->V
 | "[=pishari+m.][AdjRoot][=old][^VBZ]" : {pishari} ! N@->V
 | "[=pisaro+n.m.][AdjRoot][=old][^VBZ]" : {pisaro} ! N@->V
