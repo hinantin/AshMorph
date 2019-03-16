@@ -881,8 +881,8 @@ define VRootPRQin [
 ! 
 | "[=kisashire~{'to.get.angry':kis}{EP:a}{'soul':shire}+INF@/EP:t/aantsi.][VRoot][=to.resent (ES: resentir)]" : {kisashire}
 ! 
-| "[=kisa][VRoot][=to.be.black]" : {kisa}
-| "[=kisaa][VRoot][=to.be.black]" : {kisaa}
+| "[=kisa+INF@/EP:t/V.][VRoot][=to.be.black]" : {kisa}
+| "[=kisaa+INF@/EP:t/V.][VRoot][=to.be.black]" : {kisaa}
 ! 
 # to.defend
 | "[=kisakovint+INF@antsi.][VRoot][=to.defend (ES: defender; PT: defender)]" : {kisakovint}
