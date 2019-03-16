@@ -459,6 +459,7 @@ define FRUS [ [EP V=S=FRUS]|[V=S=FRUS] ];
 # * for some reason 
 # -ant .. =ri / EN: "that.with.which.sb.does.sth.; sb's.tool" 
 # obantari / ovantari / EN: 'that.with.which.sb.eats.sth.'; ES: 'recipiente'
+# noquenqueshireantari / nokenkeshireantari / no- =kenkeshire -ant -a =ri / ES: 'mi.idea' 
 define V=S=APPLREAS [
 # Characteristic (CHAR) 
   "[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]" : "@EP"[{ant}]
