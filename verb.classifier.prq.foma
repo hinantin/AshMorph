@@ -19,6 +19,7 @@ define V=S=CL [
 | "[--][-patsa][+VERB.CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : "@EP"{patsa} ! @CL 
 | "[--][-nki][+VERB.CL:snake][=snake.sp.]" : "@EP"{nki} ! @CL 
 | "[--][-nke][+VERB.CL:snake][=snake.sp.]" : "@EP"{nke} ! @CL 
+| "[--][-satzi+m.][NS][+VERB.CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : "@EP"{satzi} ! @CL  
 | "[--][-tenka][+VERB.CL:longitudinal.depression][=longitudinal.depression (curved.inwards); convexity]" : "@EP"{tenka} ! @CL  
 | "[--][-pompoina][+VERB.CL:ball][=ball-like, spherical]" : "@EP"{pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
 | "[--][-pompoito][+VERB.CL:spherical][=spherical]" : "@EP"{pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.' @CL 
