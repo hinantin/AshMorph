@@ -1513,7 +1513,8 @@ define NRootPRQin [
 ! 
 | "[=karakaratzi][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {karakaratzi}
 ! 
-| "[=karapa][NRoot][=communal.house.for.males (including.shamans/people_committed_to_the_service_of_the_fire_divinity)]" : {karapa}
+| "[=karapa+n.m.][NRoot][=communal.house.for.males (including.shamans/people_committed_to_the_service_of_the_fire_divinity)]" : {karapa}
+| "[=karapa+n.m.][NRoot][=communal.house (ES: casa.comunal)]" : {karapa}
 ! 
 | "[=karava+m.][NRoot][=river.frog.sp. (ES: sp.de.rana.del.río)]" : {karava}
 | "[=kaava+m.][NRoot][=river.frog.sp. (ES: sp.de.rana.del.río)]" : {kaava}
@@ -2105,8 +2106,6 @@ define NRootPRQin [
 ! 
 # cascabel de piel marrón claro con manchas negras y dibujos geométricos en amarillo.
 | "[=koshipirinke][NRoot][=pit.viper.sp. (ES: jergona, víbora.venenosa; sci.nm.: crotalus.durissus), jergón]" : {koshipirinke}
-! 
-| "[=karapa][NRoot][=communal.house (ES: casa.comunal)]" : {karapa}
 ! 
 # serpiente de manchas marrón oscuro a lo largo del cuerpo 
 | "[=karaapariki][NRoot][=venomous.snake.sp. (ES: sp.serpiente.venenosa; sci.nm.: helicops.angulatus)]" : {karaapariki}
