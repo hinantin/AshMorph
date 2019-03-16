@@ -72,7 +72,7 @@ define ARootPRQin [
 | "[=oshiki][AdjRoot][=many]" : {oshiki}
 ! 
 | "[=pashine][AdjRoot][=other, another (ES: otro)]" : {pashine}
-| "[=pashini][AdjRoot][=other, another (ES: otro); few]" : {pashini}
+| "[=pashini][AdjRoot][=other, another (ES: otro); few]" : {pashini} ! N@->V::[=to.change (ES: cambiar)] 
 | "[=paashini][AdjRoot][=other, another (ES: otro); few]" : {paashini}
 | "[=pasini][AdjRoot][=other, another (ES: otro)]" : {pasini}
 ! 
