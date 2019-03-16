@@ -9,10 +9,10 @@ define VRootREDUPin [
 | "[y-][VPers][3m.S/A+][--][=ak+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.answer.back (ES: contestar, responder)]" : {yakayaka} ! @REDUP 
 | "[Ø-][VPers][3n.m.S/A+][--][=ak+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.answer.back (ES: contestar, responder)]" : {akaaka} ! @REDUP 
 | "[y-][VPers][3m.S/A+][--][=am+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.bring (ES: traer)]" : {yamayama} ! @REDUP 
-| "[n-][VPers][1SG.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {naganaga} ! @REDUP 
-| "[p-][VPers][2S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {pagapagaa} ! @REDUP 
-| "[y-][VPers][3m.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {yagayagaa} ! @REDUP 
-| "[Ø-][VPers][3n.m.S/A+][--][=ag+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {agaagaa} ! @REDUP 
+| "[n-][VPers][1SG.S/A+][--][=ag+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {naganaga} ! @REDUP 
+| "[p-][VPers][2S/A+][--][=ag+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {pagapagaa} ! @REDUP 
+| "[y-][VPers][3m.S/A+][--][=ag+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {yagayagaa} ! @REDUP 
+| "[Ø-][VPers][3n.m.S/A+][--][=ag+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {agaagaa} ! @REDUP 
 | "[no-][VPers][1SG.S/A+][--][=na+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {nonanona} ! @REDUP 
 | "[n-][VPers][1SG.S/A+][--][=apii+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.repeat (ES: repetir)]" : {napiinapii} ! @REDUP 
 | "[n-][VPers][1SG.S/A+][--][=atai+INF@/EP:t/(a)antsi.+tot.redup@unb.copy.][VRoot][=to.go.up (ES: subir)]" : {natainatai} ! @REDUP 
