@@ -12,7 +12,10 @@
 # 2: +tot.redup@unb.copy., +prtl.redup@b.copy.
 # 3: +poss@(a)ane. (nominalizer for abstract nouns: -ane, -aane) 
 #    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.
-# 4: A-Conj. I-Conj.|
+# 4: +I-Conj. 
+#    i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
+#    +A-Conj. , 
+#    a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 # 5: +sem@f.tech. 
 
 define VRootPRQin [
@@ -1376,7 +1379,7 @@ define VRootPRQin [
 | "[=antan][VRoot][=to.annoy]" : {antan}
 ! 
 | "[=oiminki+INF@antsi.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter, insertar)]" : {oiminki} 
-| "[=oiminke][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminke} 
+| "[=oiminke+INF@VC.+I-Conj.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminke} 
 | "[=oeminki][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oeminki} 
 ! 
 | "[=oipak][VRoot][=to.drop.sth. (ES: soltar)]" : {oipak} 
