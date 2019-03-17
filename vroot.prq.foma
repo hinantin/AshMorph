@@ -1329,8 +1329,8 @@ define VRootPRQin [
 | "[=ni+INF@antsi.][VRoot][=to.swallow (ES: tragar)]" : {ni}
 ! 
 ! inoshika / i- =noshik -a / 3m.s- =to.drag -real / EN: 'he.crawls'; ES: 'él.se.arrastra' 
-| "[=noshik+A-Conj.][VRoot][=to.crawl]" : {noshik}
-| "[=noshik+I-Conj.][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)]" : {noshik}
+| "[=noshik+INF@V.+A-Conj@mid.v.][VRoot][=to.crawl]" : {noshik}
+| "[=noshik+INF@V.+I-Conj@act.v.][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)]" : {noshik}
 ! 
 | "[=ny+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
 | "[=ne+INF@aantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ne}
@@ -1378,9 +1378,9 @@ define VRootPRQin [
 | "[=antavintsa][VRoot][=to.annoy (prbly.with.jokes)]" : {antavintsa}
 | "[=antan][VRoot][=to.annoy]" : {antan}
 ! 
-| "[=oiminki+INF@antsi.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter, insertar)]" : {oiminki} 
-| "[=oiminke+INF@VC.+I-Conj.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminke} 
-| "[=oeminki][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oeminki} 
+| "[=oiminki~{AGT.CAUS:oimin}{'to.enter':ki}+INF@antsi.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter, insertar)]" : {oiminki} 
+| "[=oiminke~{AGT.CAUS:oimin}{'to.enter':ke}+INF@VC.+I-Conj@act.v.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminke} 
+| "[=oeminki~{AGT.CAUS:oemin}{'to.enter':ki}][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oeminki} 
 ! 
 | "[=oipak][VRoot][=to.drop.sth. (ES: soltar)]" : {oipak} 
 | "[=oimpak][VRoot][=to.drop.sth. (ES: soltar)]" : {oimpak} # to be checked!!! 
