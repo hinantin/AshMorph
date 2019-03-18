@@ -384,6 +384,7 @@ TZEpenthesisRule8
                                                   #[ 
                                                   [ [ 
                                                     CL 
+                                                  | [ "@PHONPROCINCNOUN@"V=S=LEN=noun [NMZ|ADJ] ] 
                                                   | [ CL [NMZ|ADJ] ] 
                                                   | [ NMZ|ADJ ] 
                                                                     ] (NRootCmpPRQ) ] # yotaantsipanko 
