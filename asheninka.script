@@ -390,9 +390,9 @@ TZEpenthesisRule8
                                                                     ] (NRootCmpPRQ) ] # yotaantsipanko 
                                                   #[  "@PHONPROCINCNOUN@"V=S=LEN=noun [NMZ|ADJ] ]
                                                   #]
-                                                  (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
+                                                  (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis .o. LenitionIncNoun ; # .o. VowelLoss ;
       
-      define NominalizedVerbPoss [ NPref [VRootPRQ] (SENSORY) POSSIND ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis .o. LenitionIncNoun ;
+      define NominalizedVerbPoss [ NPref [VRootPRQ] (SENSORY) POSSIND ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ;
 
       define CompositeVerbRoot [ (V=S=noun) ("@PHONPROCCMPNOUN@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
