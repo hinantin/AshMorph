@@ -1739,8 +1739,8 @@ define VRootPRQin [
 # piaantsi / =pi -aantsi / =to.come.back -inf / EN: 'to.come.back'; ES: 'regresar' 
 | "[=pi+INF@aantsi.][VRoot][=to.return, to.come.back (ES: volver, regresar)]" : {pi}
 | "[=piy+INF@aantsi.][VRoot][=to.return, to.come.back (ES: volver, regresar)]" : {piy}
-| "[=piy+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piyapiya}
-| "[=piy+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piapiya}
+| "[=piy+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piyapiya}
+| "[=piy+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piapiya}
 ! 
 | "[=piyaa][VRoot][=to.empty, to.pour (ES: vaciar)]" : {piyaa}
 ! 
@@ -2244,7 +2244,9 @@ define VRootPRQin [
 !###| "[o-][VPers][3n.m.S/A+][--][=to+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {ototo} ! @REDUP 
 ! 
 ! toye ... / =to -ye ... / =to.cut -dist ... / EN: 'to.dismember'; ES: 'descuartizar'
-| "[=toye][VRoot][=to dismember (ES: descuartizar)]" : {toye}
+| "[=toye][VRoot][=to.dismember (ES: descuartizar)]" : {toye}
+! 
+| "[=tsaamen+INF@/EP:t/aantsi.][VRoot][=to.be.alive (ES: estar.vivo)]" : {tsaamen}
 ! 
 | "[=tsa][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)]" : {tsa}
 | "[=tsan][VRoot][=to.hang (ES: colgar)]" : {tsan}
