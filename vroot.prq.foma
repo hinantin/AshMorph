@@ -1105,7 +1105,7 @@ define VRootPRQin [
 ! 
 | "[=pamia+INF@/EP:t/antsi.][VRoot][=to.catch.fish.with.the.hands (ES: pescar.con.las.manos)]" : {pamia}
 ! 
-| "[=pampoy+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoy}
+| "[=pampoy+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoy} ! V@->N::[=song (ES: canción)] 
 | "[=pampoye+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoye}
 ! 
 | "[=pampits][VRoot][=to.sing (ES: cantar)]" : {pampits}
