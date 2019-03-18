@@ -78,6 +78,7 @@ define NounToVerbPRQin [
 | "[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement]::[= (ES: vivir)][^VBZ]" : {nampi} ! N@->V::[= (ES: vivir)] +ADDUPPER@. @ADDLOWER@ 
 | "[=mampira][NRoot][=aurora (ES: aurora)][^VBZ]" : {mampira} ! N@->V 
 | "[=kitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]::[=to.sow (ES: sembrar)][^VBZ]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
+| "[=ookatsa][NRoot][=lightning.strike (ES: rayo)]::[=to.rain.with.lightning_strikes (ES: llover.con.relámpagos); to.strike.about.lightning (ES: caer.rayos)][^VBZ]" : {ookatsa} ! N@->V::[=to.rain.with.lightning_strikes (ES: llover.con.relámpagos); to.strike.about.lightning (ES: caer.rayos)] 
 | "[=oorya+m.][NRoot][=sun (ES: sol)][^VBZ]" : {oorya} ! N@->V
 | "[=oria+m.][NRoot][=sun (ES: sol)]::[=to.shine][^VBZ]" : {oria} ! N@->V::[=to.shine]
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)][^VBZ]" : {oventeni} ! N@->V
