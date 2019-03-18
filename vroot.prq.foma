@@ -1143,6 +1143,7 @@ define VRootPRQin [
 | "[=mapero][VRoot][=to.get.worse (ES: empeorarse); to.be.seriously.ill (ES: estar.grave); to.be.true]" : {mapero}
 ! 
 | "[=masavi+INF@/EP:t/aantsi.][VRoot][=to.sweat (ES: sudar)]" : {masavi}
+| "[=masaavi+INF@/EP:t/aantsi.][VRoot][=to.feel.feverish/hot (ES: sudar)]" : {masaavi}
 | "[=amasavi+INF@/EP:t/aantsi.][VRoot][=to.sweat (ES: sudar)]" : {amasavi}
 | "[=mahavi+INF@/EP:t/aantsi.][VRoot][=to.sweat (ES: sudar)]" : {mahavi}
 ! 
@@ -1837,7 +1838,7 @@ define VRootPRQin [
 | "[=pe][VRoot][=to.convert, to.transform]" : {pe}
 | "[=pey][VRoot][=to.convert, to.transform]" : {pey}
 ! 
-| "[=pety][VRoot][=to.blink (ES: parpadear)]" : {pety}
+| "[=pety+INF@/EP:tz/V.][VRoot][=to.blink (ES: parpadear)]" : {pety}
 | "[=pity][VRoot][=to.blink (ES: parpadear)]" : {pity}
 | "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pepetya}
 ! 
@@ -1845,7 +1846,7 @@ define VRootPRQin [
 | "[=piirin][VRoot][=to.lift.sth., to.pick.sth.up; to.get.up]" : {piirin}
 | "[=pirin][VRoot][=to.raise (ES: levantar); to.revive (ES: resucitar)]" : {pirin}
 ! 
-| "[=pirink][VRoot][=to.cut.sth.with.machete; to.scrape.sth.]" : {pirink}
+| "[=pirink+INF@V.][VRoot][=to.cut.sth.with.machete; to.scrape.sth.]" : {pirink}
 ! 
 | "[=riro][VRoot][=to.watch]" : {riro}
 ! 
@@ -1914,7 +1915,7 @@ define VRootPRQin [
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
 | "[=sapok+INF@aantsi.][VRoot][=to.jump, to.jump.up.and.down]" : {sapok} ! V@->N::[=jump (ES: salto)] 
 ! 
-| "[=sampita+INF@antsi.][VRoot][=to.research (ES: interrogar, preguntar)]" : {sampita}
+| "[=sampita+INF@antsi.][VRoot][=to.research (ES: interrogar, preguntar)]" : {sampita} ! V@->N::[=interview (ES: entrevista)] 
 ! 
 | "[=santsa][VRoot][=to.grow.big]" : {santsa}
 ! 

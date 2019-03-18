@@ -383,7 +383,7 @@ TZEpenthesisRule8
                                                   # CL: these are verbal classifiers !!
                                                   [ [ 
                                                     CL 
-                                                  | [ "@PHONPROCINCNOUN@"V=S=LEN=noun [NMZ|ADJ] ] 
+                                                  | [ "@PHONPROCINCNOUN@"[V=S=LEN=noun] [NMZ|ADJ] ] # sankenabankori 
                                                   | [ CL [NMZ|ADJ] ] 
                                                   | [ NMZ|ADJ ] 
                                                                     ] (NRootCmpPRQ) ] # yotaantsipanko 
