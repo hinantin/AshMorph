@@ -349,6 +349,21 @@ TZEpenthesisRule8
 
       define NominalizedVerbFeatRestr [ NPOSSRestr1 .o. NPOSSRestr2 ];
 
+# | V=S=ADJ # nominalization 
+# | (SENSORY) NMZ # nominalization 
+# | STAT NMZ (ADV) # nominalization revise!!!
+# | V=S=ADJ (AUG) # nominalization 
+# | (APPLREAS) V=S=ADJ # nominalization 
+# | NMZ # nominalization 
+# | V=S=ADJ (V=S=LOC) # nominalization
+# | V=S=ADJ (V=S=smallpart) (V=S=DIM) # nominalization 
+# | (REGR) (STAT) (V=S=ADJ) (V=S=TEMPORAL) # nominalization revise?
+# | V=S=ADJ # nominalization 
+# | V=S=ADJ (PL) # nominalization 
+# | V=S=ADJ (ADV) # nominalization
+      define PWLenitionRuleIncNoun1 [ "@EP"p (->) "@PHONPROCINCNOUN@"v || [{a}] _ [{a}|{o}] ]; 
+      define LenitionIncNoun [ PWLenitionRuleIncNoun1 ];  
+
       define NominalizedVerb [ (NPref) [VRootPRQ] ( [
                                                      [APPLINT DUR] 
                                                    | [APPL] # tseeyakotaantsi / =tsee -ako -t -aantsi / =to.lie -appl -ep -ing / ES: 'difamar'; EN: 'to.defame; to.slander'  
@@ -367,32 +382,19 @@ TZEpenthesisRule8
                                                   # konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
                                                   # CL: these are verbal classifiers !!
                                                   [ 
+                                                  [ [ 
                                                     CL 
                                                   | [ CL [NMZ|ADJ] ] 
                                                   | [ NMZ|ADJ ] 
-                                                                    ] (NRootCmpPRQ) # yotaantsipanko 
+                                                                    ] (NRootCmpPRQ) ] # yotaantsipanko 
+                                                  [  "@PHONPROCINCNOUN@"V=S=LEN=noun [NMZ|ADJ] ]
+                                                  ]
                                                   (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
       
-      define NominalizedVerbPoss [ NPref [VRootPRQ] (SENSORY) POSSIND ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ;
-# | V=S=ADJ # nominalization 
-# | (SENSORY) NMZ # nominalization 
-# | STAT NMZ (ADV) # nominalization revise!!!
-# | V=S=ADJ (AUG) # nominalization 
-# | (APPLREAS) V=S=ADJ # nominalization 
-# | NMZ # nominalization 
-# | V=S=ADJ (V=S=LOC) # nominalization
-# | V=S=ADJ (V=S=smallpart) (V=S=DIM) # nominalization 
-# | (REGR) (STAT) (V=S=ADJ) (V=S=TEMPORAL) # nominalization revise?
-# | V=S=ADJ # nominalization 
-# | V=S=ADJ (PL) # nominalization 
-# | V=S=ADJ (ADV) # nominalization
+      define NominalizedVerbPoss [ NPref [VRootPRQ] (SENSORY) POSSIND ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis .o. LenitionIncNoun ;
 
       define CompositeVerbRoot [ (V=S=noun) ("@PHONPROCCMPNOUN@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
-      define PWLenitionRuleIncNoun1 [ "@EP"p (->) "@PHONPROCINCNOUN@"v || [{a}] _ [{a}|{o}] ]; 
-
-      define LenitionIncNoun [ PWLenitionRuleIncNoun1 ];  
-
       ############################
       #      Verb transducer     #
       ############################
