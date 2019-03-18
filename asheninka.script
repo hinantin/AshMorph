@@ -370,7 +370,7 @@ TZEpenthesisRule8
                                                     CL 
                                                   | [ CL [NMZ|ADJ] ] 
                                                   | [ NMZ|ADJ ] 
-                                                                    ] (NRootCmpPRQ) 
+                                                                    ] (NRootCmpPRQ) # yotaantsipanko 
                                                   (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
       
       define NominalizedVerbPoss [ NPref [VRootPRQ] (SENSORY) POSSIND ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ;
