@@ -381,15 +381,12 @@ TZEpenthesisRule8
                                                   ] )
                                                   # konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
                                                   # CL: these are verbal classifiers !!
-                                                  #[ 
                                                   [ [ 
                                                     CL 
                                                   | [ "@PHONPROCINCNOUN@"V=S=LEN=noun [NMZ|ADJ] ] 
                                                   | [ CL [NMZ|ADJ] ] 
                                                   | [ NMZ|ADJ ] 
                                                                     ] (NRootCmpPRQ) ] # yotaantsipanko 
-                                                  #[  "@PHONPROCINCNOUN@"V=S=LEN=noun [NMZ|ADJ] ]
-                                                  #]
                                                   (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis .o. LenitionIncNoun ; # .o. VowelLoss ;
       
       define NominalizedVerbPoss [ NPref [VRootPRQ] (SENSORY) POSSIND ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ;
