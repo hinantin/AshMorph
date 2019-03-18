@@ -1848,12 +1848,12 @@ define VRootPRQin [
 | "[=piirin+A-Conj@mid.v.][VRoot][=to.get.up]" : {piirin}
 | "[=pirin+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.raise (ES: levantar); to.revive (ES: resucitar)]" : {pirin}
 ! 
-| "[=pirink+INF@V.][VRoot][=to.cut.sth.with.machete; to.scrape.sth.]" : {pirink}
+| "[=pirink+INF@aantsi:V.+I-Conj@act.v.][VRoot][=to.cut.sth.with.machete (ES: cortar.con.machete); to.scrape.sth. (ES: raspar)]" : {pirink}
 ! 
 # evaporar.con.hierbas, sudar 
-| "[=sa+INF@antsi.][VRoot][=to.steambathe.with.herbs (ES: evaporar.con.hierbas)]" : {sa}
-| "[=saa][VRoot][=to.bathe, to.steam.bathe]" : {saa}
-| "[=saa][VRoot][=to.bathe.in.hot.water; to.pour.warm_liquids.over.sb.in.order.to.heal.it/him/her.]" : {saa}
+| "[=sa+INF@antsi.+I-Conj@act.v.][VRoot][=to.steambathe.with.herbs (ES: evaporar.con.hierbas)]" : {sa}
+| "[=saa+INF@/EP:t/VC.][VRoot][=to.bathe, to.steam.bathe]" : {saa}
+| "[=saa+INF@/EP:t/VC.][VRoot][=to.bathe.in.hot.water; to.pour.warm_liquids.over.sb.in.order.to.heal.it/him/her.]" : {saa}
 !| "[=saa][VRoot][=to.steam.bathe]" : {saa}
 ! 
 | "[=saana][VRoot][=to.be.deep (ES: ser.profundo)]" : {saana}
