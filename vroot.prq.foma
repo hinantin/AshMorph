@@ -12,9 +12,9 @@
 # 2: +tot.redup@unb.copy., +prtl.redup@b.copy.
 # 3: +poss@(a)ane. (nominalizer for abstract nouns: -ane, -aane) 
 #    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.
-# 4: +I-Conj. 
+# 4: +I-Conj@act.v. 
 #    i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
-#    +A-Conj. , 
+#    +A-Conj@mid.v. , 
 #    a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 # 5: +sem@f.tech. 
 
@@ -1842,9 +1842,11 @@ define VRootPRQin [
 | "[=pity][VRoot][=to.blink (ES: parpadear)]" : {pity}
 | "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pepetya}
 ! 
-| "[=piriin][VRoot][=to.lift.sth., to.pick.sth.up; to.get.up]" : {piriin}
-| "[=piirin][VRoot][=to.lift.sth., to.pick.sth.up; to.get.up]" : {piirin}
-| "[=pirin][VRoot][=to.raise (ES: levantar); to.revive (ES: resucitar)]" : {pirin}
+| "[=piriin+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.lift.sth., to.pick.sth.up (ES: levantar)]" : {piriin}
+| "[=piriin+INF@/EP:t/aantsi.+A-Conj@mid.v.][VRoot][=to.get.up (ES: levantarse)]" : {piriin}
+| "[=piirin+I-Conj@act.v.][VRoot][=to.lift.sth., to.pick.sth.up]" : {piirin}
+| "[=piirin+A-Conj@mid.v.][VRoot][=to.get.up]" : {piirin}
+| "[=pirin+I-Conj@act.v.][VRoot][=to.raise (ES: levantar); to.revive (ES: resucitar)]" : {pirin}
 ! 
 | "[=pirink+INF@V.][VRoot][=to.cut.sth.with.machete; to.scrape.sth.]" : {pirink}
 ! 
@@ -1857,7 +1859,7 @@ define VRootPRQin [
 | "[=saana][VRoot][=to.be.deep (ES: ser.profundo)]" : {saana}
 ! 
 # ---------------------------------------------------------------------------
-| "[=saava+INF@/EP:t/VC.][VRoot][=to.heat.up (ES: hacer.hervir); to.incubate (ES: incubar)]" : {saava}
+| "[=saava+INF@/EP:t/VC.][VRoot][=to.heat.up (ES: hacer.hervir, estar.caliente); to.incubate (ES: incubar)]" : {saava}
 | "[=sava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {sava}
 | "[=haava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {haava}
 | "[=hava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {hava}
