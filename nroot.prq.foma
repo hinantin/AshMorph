@@ -8,6 +8,12 @@
 # Spanish translations are in their singular form and tend to be in masculine unless the entry is exclusively not masculine.
 # Consider moving the N V into an XML format 
 
+# LABEL ORDER : 
+# 0: ~{..}{..}...{..} 
+#    Information on the morphemes of lexicalized entries.
+# 1: +m. (masculine), +n.m. (not-masculine), +n./m. (masculine or not-masculine) 
+# 2: +inal@ntsi., +inal@tsi., +inal@n/tsi.
+
 define NRootPRQin [
 ! 
   "[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
@@ -66,7 +72,7 @@ define NRootPRQin [
 ! 
 | "[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninka} ! N@->V::[=to.become.Ashaninka]
 | "[=asheninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {asheninka}
-| "[=ashaninka{PL:/'many':ye/}][NRoot][=numerous.indigenous.people.that.live.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninkaye}
+| "[=ashaninkaye~ashaninka{PL:/'many':ye/}][NRoot][=numerous.indigenous.people.that.live.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninkaye}
 ! 
 | "[=ashisho][NRoot][=person's.name; NP]" : {ashisho}
 ! 
