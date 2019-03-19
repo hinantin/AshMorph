@@ -14,7 +14,7 @@
 # 1: +m. (masculine), +n.m. (not-masculine), +n./m. (masculine or not-masculine) 
 # 2: +inal@ntsi., +inal@tsi., +inal@n/tsi.
 # 3: +poss@ne.
-# 4: +voc@N.
+# 4: +voc@N., +voc@nposs ?
 #    vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 #    It will be used as follows 1SG:2SG , etc. 
 # 5: +sem@healer.
@@ -147,7 +147,7 @@ define NRootPRQin [
 | "[=ayo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {ayo} 
 | "[=ayini+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayini} 
 | "[=ayiini+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayiini} 
-| "[=natoto+voc@1SG,2SG,3SG.][NRoot][=sister.in.law (kin.of.a.female)]" : {natoto}
+| "[=natoto+voc@1SG:2SG:3SG.][NRoot][=sister.in.law (kin.of.a.female)]" : {natoto}
 ! 
 | "[=ayoori][NRoot][=casqued.oropendola (sci.nm.: clypicterus.oservi)]" : {ayoori} 
 ! 
