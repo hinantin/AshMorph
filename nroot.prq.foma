@@ -15,6 +15,8 @@
 # 2: +inal@ntsi., +inal@tsi., +inal@n/tsi.
 # 3: +poss@ne.
 # 4: +voc@N.
+#    vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
+#    It will be used as follows 1SG:2SG , etc. 
 # 5: +sem@healer.
 
 define NRootPRQin [
@@ -5473,8 +5475,6 @@ define NRootPRQin [
 # var.			variety 
 # typ.			typical 
 # voc.			vocative 
-# 			vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
-# 			It will be used as follows 1SG:2SG , etc. 
 # E.PAL.		expressive palatazation 
 
 # ##############################
