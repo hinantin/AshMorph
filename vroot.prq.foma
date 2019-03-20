@@ -85,9 +85,10 @@ define VRootPRQin [
 | "[=aavent+INF@aantsi.][VRoot][=to.cure (ES: curar)]" : {aavent}
 | "[=avint][VRoot][=to.cure (ES: curar)]" : {avint}
 ! 
+# --------------------------------------------------------------------- 
 | "[=ahirik+INF@aantsi.][VRoot][=to.grab; to.catch, to.trap (ES: atrapar)]" : {ahirik}
-! 
-| "[=airik+INF@VC.][VRoot][=to.hang; to.snatch.sth., to.grab.sth.]" : {airik}
+| "[=airik+INF@VC.][VRoot][=to.hang; to.snatch.sth., to.grab.sth., to.capture (ES: captar)]" : {airik}
+# --------------------------------------------------------------------- 
 ! 
 | "[=aitsokiri+INF@antsi.][VRoot][=to.castrate (ES: castrar)]" : {aitsokiri}
 ! 
