@@ -69,15 +69,17 @@ open INFO, $file or die "Could not open $file: $!";
    if ($replace1 == 1) { $myvar =~ s/$source1/$target1/; }
    if ($replace2 == 1) { 
      # splitting 
-     if ($myvar =~ m/N@\->V::\[(.*)\]/) {
-       my $targetstring = "::[$1]"; 
+     if ($myvar =~ m/N@\->V::\[(.*)\]\s/) {
+       my $targetstring = "::[$1] "; 
+       $targetstring =~ s/^\s+|\s+$//g; 
        $myvar =~ m/(.*)$source2/g; 
        my $result = "$1$targetstring$target2"; 
        $myvar =~ m/$source2(.*)/s; 
        $myvar = "$result$1"; 
      }
-     elsif ($myvar =~ m/V@\->N::\[(.*)\]/) {
-       my $targetstring = "::[$1]"; 
+     elsif ($myvar =~ m/V@\->N::\[(.*)\]\s/) {
+       my $targetstring = "::[$1] "; 
+       $targetstring =~ s/^\s+|\s+$//g; 
        $myvar =~ m/(.*)$source2/g; 
        my $result = "$1$targetstring$target2"; 
        $myvar =~ m/$source2(.*)/s; 
@@ -99,15 +101,17 @@ open INFO, $file or die "Could not open $file: $!";
    if ($replace1 == 1) { $myvar =~ s/$source1/$target1/; }
    if ($replace2 == 1) { 
      # splitting 
-     if ($myvar =~ m/N@\->V::\[(.*)\]/) {
-       my $targetstring = "::[$1]"; 
+     if ($myvar =~ m/N@\->V::\[(.*)\]\s/) {
+       my $targetstring = "::[$1] "; 
+       $targetstring =~ s/^\s+|\s+$//g; 
        $myvar =~ m/(.*)$source2/g; 
        my $result = "$1$targetstring$target2"; 
        $myvar =~ m/$source2(.*)/s; 
        $myvar = "$result$1"; 
      }
-     elsif ($myvar =~ m/V@\->N::\[(.*)\]/) {
-       my $targetstring = "::[$1]"; 
+     elsif ($myvar =~ m/V@\->N::\[(.*)\]\s/) {
+       my $targetstring = "::[$1] "; 
+       $targetstring =~ s/^\s+|\s+$//g; 
        $myvar =~ m/(.*)$source2/g; 
        my $result = "$1$targetstring$target2"; 
        $myvar =~ m/$source2(.*)/s; 
