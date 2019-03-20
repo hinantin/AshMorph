@@ -26,7 +26,7 @@ define V=S=LEN=noun [
 | "[--][=kiri][IncNRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
 | "[--][=kirii][IncNRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
 | "[--][=konta+n.m.+inal@tsi.][IncNRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
-| "[--][=matsi+m.][IncNRoot][=(human).witch (ES: brujo); sorcerer]" : {matsi} ! @VCMP N@->V::[=to.be.a.witch] 
+| "[--][=matsi+m.][IncNRoot][=(human).witch (ES: brujo); sorcerer]" : {matsi} ! @VCMP N@->V::[VIRVRoot+INF@/EP:t/aantsi.][=to.be.a.witch] 
 | "[--][=menko+n.m.+inal@tsi:tzi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[--][=minko+n.m.+inal@tsi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[--][=mereki+n.m.+inal@ntsi.][IncNRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
