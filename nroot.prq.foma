@@ -4266,7 +4266,7 @@ define NRootPRQin [
 ! 
 | "[=oshiteki][NRoot][=manioc.beer.paste (ES: bagazo.(del.masato); PT: bagaço.(da.caiçuma))]" : {oshiteki} 
 ! 
-| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking; ES: plátano.de.seda)]" : {shiira}
+| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking; ES: plátano.de.seda; sci.nm.: musa.musaceae)]" : {shiira}
 ! 
 | "[=shima+m.+poss@ni.][NRoot][=fish (ES: pez, pescado); fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]" : {shima}
 ! 
@@ -4279,7 +4279,7 @@ define NRootPRQin [
 | "[=shimariantzi+m.][NRoot][=fisherman (ES: pescador)]" : {shimariantzi}
 | "[=shimarianto+n.m.][NRoot][=fisherman (ES: pescadora)]" : {shimarianto}
 ! 
-!| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shi}
+!| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shiira}
 ! 
 | "[=shimiri+inal@ntsi.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
 | "[=shimiri+inal@nchi.][NRoot][=person.from.ethnic.group.Piro/Yine][--][-nchi][]" : {shimirinchi} ! misspelled? it is not misspelled it uses the -nchi dialectal variation for the nposs suffix.
