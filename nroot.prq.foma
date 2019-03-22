@@ -1681,7 +1681,8 @@ define NRootPRQin [
 | "[=kimokiri][NRoot][=big.kiri-palm-tree.fruit (ES: fruta.grande.del.pijuayo/pifayo/chonta)]" : {kimokiri}
 # ----------------------------------------------------------
 ! 
-| "[=kempiro][NRoot][=venomous.snake.sp. (ES: shushupe, anaconda.color.marrón.claro.y.figuras.geométricas.romboides.en.negro.y.marrón; sci.nm.: lachesis.muta.muta)]" : {kempiro}
+| "[=kempiro+m.][NRoot][=venomous.snake.sp. (ES: shushupe, anaconda.color.marrón.claro.y.figuras.geométricas.romboides.en.negro.y.marrón; sci.nm.: lachesis.muta.muta)]" : {kempiro}
+| "[=kimpiro+m.][NRoot][=venomous.snake.sp. (ES: shushupe, anaconda.color.marrón.claro.y.figuras.geométricas.romboides.en.negro.y.marrón; sci.nm.: lachesis.muta.muta)]" : {kimpiro}
 ! 
 | "[=kempita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
 | "[=kimpita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kimpita}
