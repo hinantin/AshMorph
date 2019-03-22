@@ -288,8 +288,10 @@ define NRootPRQin [
 | "[=sosana][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: crenicichla.sp.)]" : {sosana}
 ! 
 | "[=ashonki][NRoot][=ankle]" : {ashonki}
-| "[=ashoshi][NRoot][=armadillo; NP, person's.name]" : {ashoshi}
-| "[=ashooshi][NRoot][=armadillo]" : {ashooshi}
+! 
+| "[=ashoshi+m.][NRoot][=armadillo; NP, person's.name]" : {ashoshi}
+| "[=ashooshi+m.][NRoot][=armadillo]" : {ashooshi}
+! 
 | "[=asorina][NRoot][=cheek]" : {asorina}
 ! person, individual, human
 | "[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
