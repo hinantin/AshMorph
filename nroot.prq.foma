@@ -455,10 +455,10 @@ define NRootPRQin [
 | "[=chira+n.m.+inal@tsi.][NRoot][=lip, thick.lip (ES: labio)]" : {chira}
 | "[=tsera+n.m.+inal@tsi.][NRoot][=lip, thick.lip (ES: labio)]" : {tsera}
 ! 
-| "[=cherepito][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {cherepito}
-| "[=tserepito][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {tserepito}
-| "[=cherivito][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {cherivito}
-| "[=chirivito][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {chirivito}
+| "[=cherepito+m.][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {cherepito}
+| "[=tserepito+m.][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {tserepito}
+| "[=cherivito+m.][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {cherivito}
+| "[=chirivito+m.][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {chirivito}
 ! 
 | "[=cheroki][NRoot][=rusty.faced.parrot (sci.nm.: hepalopsittece.amazonina)]" : {cheroki}
 ! 
@@ -1047,6 +1047,8 @@ define NRootPRQin [
 | "[=kaparari][NRoot][=sardine.sp. (PT: peixe.de.água.doce)]" : {kaparari}
 ! 
 | "[=kapararo+m.][NRoot][=sardine.sp. (ES: sp.de.sardina)]" : {kapararo}
+! 
+| "[=kaaparinki+m.][NRoot][=rattler-snake (ES: sp.de.cascavel)]" : {kaaparinki}
 ! 
 | "[=kapashi+n.m.][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {kapashi}
 | "[=tako+n.m.][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tako} ! I assumed the gender is +n.m. 
@@ -3669,8 +3671,8 @@ define NRootPRQin [
 ! 
 | "[=pompori][NRoot][=owl.sp.; striated-ant-trush (sci.nm.: chamaeza.nobilis)]" : {pompori}
 ! 
-| "[=poompootzi][NRoot][=tawny-bellied.owl]" : {poompootzi}
-| "[=pompootzi][NRoot][=small.owl]" : {pompootzi}
+| "[=poompootzi+m.][NRoot][=tawny-bellied.owl]" : {poompootzi}
+| "[=pompootzi+m.][NRoot][=small.owl]" : {pompootzi}
 ! 
 | "[=poonkari][NRoot][=crested.oropendola (sci.nm.: psarocolius.decumanus)]" : {poonkari}
 ! 
@@ -5098,7 +5100,7 @@ define NRootPRQin [
 # - Coeligena torquata
 # - Coeligena violifer
 # *****************************************
-| "[=tsonkiri+poss@ti.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]" : {tsonkiri} ! @VCMP 
+| "[=tsonkiri+m.+poss@ti.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]" : {tsonkiri} ! @VCMP 
 | "[=chonkiri+m.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (ES: especie.de.picaflor, sci.nm.: doryfera.johannae)]" : {chonkiri}
 | "[=chonkiro+n.m.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (ES: especie.de.picaflor, sci.nm.: doryfera.johannae)]" : {chonkiro}
 # *****************************************
