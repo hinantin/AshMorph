@@ -1127,7 +1127,7 @@ define NRootPRQin [
 ! 
 | "[=iraari+n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago)]" : {iraari}
 | "[=irari+n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago)]" : {irari}
-| "[=irariki][NRoot][=dragon's_blood.seed/fruit]" : {irariki}
+| "[=irariki+n.m.][NRoot][=dragon's_blood.seed/fruit (ES: sangre.de.grado; sci.nm.: croton.lechleri)]" : {irariki}
 | "[=irarito][NRoot][=dragon's_blood.tree]" : {irarito}
 ! 
 | "[=iraantsinaki][NRoot][=pale-fegged.hornero (sci.nm.: furnarius.leucopus)]" : {iraantsinaki}
@@ -5426,8 +5426,8 @@ define NRootPRQin [
 | "[=pashavo][NRoot][=punga, tree.sp.]" : {pashavo}
 | "[=ikoha][NRoot][=tree.sp.]" : {ikoha}
 ! 
-| "[=poto+n.m.][NRoot][=ojé, tree.sp. (sci.nm.: ficus.insipida)]" : {poto}
-| "[=potoo+n.m.][NRoot][=ojé, tree.sp. (sci.nm.: ficus.insipida)]" : {potoo}
+| "[=poto+n.m.][NRoot][=ojé, tree.sp., ficus.sp. (sci.nm.: ficus.insipida)]" : {poto}
+| "[=potoo+n.m.][NRoot][=ojé, tree.sp., ficus.sp. (sci.nm.: ficus.insipida)]" : {potoo}
 ! 
 | "[=potooki+n.m.][NRoot][=medicinal.nut (ES: (semilla.de).ojé, sci.nm.: ficus.insipida)]" : {potooki}
 ! 
