@@ -465,6 +465,8 @@ define FRUS [ [EP V=S=FRUS]|[V=S=FRUS] ];
 # naneencantari / naneenkantari / n- =aneenk -ant -a =ri / ES: 'mi.aliento' 
 # ocajantari / ocahantari / o- =cah -ant -a =ri / ES: 'recipiente.para.líquidos'
 # nonantari / no- =n -ant -a =ri / ES: 'mi.casa' 
+# akooyatantari / a- =kooya -t -ant -a =ri / EN: 'female.parts, female.genitalia' 
+# ashiramparitantari / a- =shirampari -t -ant -a =ri / EN: 'male.parts, male.genitalia' 
 define V=S=APPLREAS [
 # Characteristic (CHAR) 
   "[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]" : "@EP"[{ant}]
