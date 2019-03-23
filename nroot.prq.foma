@@ -5035,6 +5035,8 @@ define NRootPRQin [
 | "[=tsiteni][NRoot][=night (ES: noche)]" : {tsiteni}
 | "[=tsitene][NRoot][=night (ES: noche)]" : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, anochecer)] 
 ! 
+| "[=tsito+m.][NRoot][=gnat (ES: nosquito)]" : {tsito}
+! 
 | "[=tsitoiki][NRoot][=bean (ES: frijol)]" : {tsitoiki}
 ! 
 | "[=tsitsi+n.m.+voc.][NRoot][=firewood (ES: leña)]" : {tsitsi}
