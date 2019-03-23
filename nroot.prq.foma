@@ -1125,8 +1125,8 @@ define NRootPRQin [
 ! 
 | "[=irantsipi+n.m.][NRoot][=sugar.cane.sp.]" : {irantsipi}
 ! 
-| "[=iraari+n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago)]" : {iraari}
-| "[=irari+n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago)]" : {irari}
+| "[=iraari+n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {iraari}
+| "[=irari+n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {irari}
 | "[=irariki+n.m.][NRoot][=dragon's_blood.seed/fruit (ES: sangre.de.grado; sci.nm.: croton.lechleri)]" : {irariki}
 | "[=irarito][NRoot][=dragon's_blood.tree]" : {irarito}
 ! 
@@ -2449,10 +2449,12 @@ define NRootPRQin [
 ! 
 | "[=matsi+m.][NRoot][=insect.sp.]" : {matsi} 
 ! 
+# ----------------------------------------------------------------- 
 | "[=matsinti+m.][NRoot][=male.witch (ES: varón.brujo)]" : {matsinti}
 | "[=matsintzi+m.][NRoot][=male.witch (ES: varón.brujo)]" : {matsintzi}
 ! 
 | "[=matsinto+n.m.][NRoot][=female.witch (ES: mujer.bruja)]" : {matsinto}
+# ----------------------------------------------------------------- 
 ! 
 # cardumen (mijanada) ??? 
 | "[=matsiro+poss@ti.][NRoot][=migratory-fishes (ES: mijano, peces.migratorios, multitud.de.peces.que.nadan.juntos; migraciòn.estacional.de.peces)]" : {matsiro} 
@@ -3138,6 +3140,7 @@ define NRootPRQin [
 | "[=ovashiro+inal@ntsi.][NRoot][=hunter's.hiding_place (ES: maspute, sp.de.escondrijo.para.cazadores)]" : {ovashiro}
 ! 
 | "[=vaka+m.][NRoot][=master-owner.of.the.hills (ES: dueño.de.los.cerros, chacho)]" : {vaka}
+| "[=vaka+n.m.][NRoot][=stone.spirit]" : {vaka}
 ! 
 | "[=vako][NRoot][=venomous.plant.sp. (ES: huaco)]" : {vako}
 | "[=vakoshi][NRoot][=vegetable.poison (ES: huaca; sci.nm.: clibadium.remotiflorum)]" : {vakoshi}
@@ -3195,8 +3198,8 @@ define NRootPRQin [
 ! 
 | "[=paampatzi][NRoot][=bird.sp.]" : {paampatzi}
 ! 
-| "[=pachaka+n.m.+poss@te.][NRoot][=pumpkin, gourd (ES: calabaza; botany.nm.: lagenaria.sp.)]" : {pachaka}
-| "[=pachaka+poss@te.][NRoot][=container (ES: recipiente, porongo)]" : {pachaka}
+| "[=pachaka+n.m.+poss@te.][NRoot][=pumpkin, (deep).gourd (ES: calabaza; botany.nm.: lagenaria.sp.)]" : {pachaka}
+| "[=pachaka+n.m.+poss@te.][NRoot][=container (ES: recipiente, porongo)]" : {pachaka}
 ! 
 | "[=pachaka+m.][NRoot][=striated.heron (ES: sp.de.ave.color.blanco; sci.nm.: butorides.striatus)]" : {pachaka}
 ! 
@@ -4402,7 +4405,7 @@ define NRootPRQin [
 | "[=shinti][NRoot][=topa-like.tree.sp. (ES: árbol.parecido.a.la.topa)]" : {shinti} 
 ! 
 | "[=shintsipaa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintsipaa}
-| "[=shintzipa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintzipa}
+| "[=shintzipa+n.m.+poss@re:ri.][NRoot][=raft, balsa]" : {shintzipa}
 | "[=shintzipaa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintzipaa}
 | "[=shintipa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintipa}
 | "[=shintipaa+n.m.+poss@re.][NRoot][=raft, balsa]" : {shintipaa}
