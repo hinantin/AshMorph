@@ -1727,8 +1727,8 @@ define NRootPRQin [
 ! 
 # kills by wrapping her prominent antenna-like whiskers around the individual's lower limbs and dragging him into the water depths 
 | "[=kiatsi+m.][NRoot][=mermaid, siren-like.river.creature (ES: sirena); anaconda-like/armadillo-like.creature; water.sprite]" : {kiatsi}
-| "[=kyatsi][NRoot][=mermaid, siren-like.river.creature (ES: sirena); anaconda-like/armadillo-like.creature; water.sprite]" : {kyatsi}
-| "[=kyaatsi][NRoot][=mermaid, siren-like.river.creature (ES: sirena); anaconda-like/armadillo-like.creature; water.sprite]" : {kyaatsi}
+| "[=kyatsi+m.][NRoot][=mermaid, siren-like.river.creature (ES: sirena); anaconda-like/armadillo-like.creature; water.sprite]" : {kyatsi}
+| "[=kyaatsi+m.][NRoot][=mermaid, siren-like.river.creature (ES: sirena); anaconda-like/armadillo-like.creature; water.sprite]" : {kyaatsi}
 | "[=atsityopini][NRoot][=river.master (ES: dueño.del.río)]" : {atsityopini}
 ! 
 | "[=kintaronke+m.][NRoot][=loro-machaco.snake, venomous.pitviper.sp. (sci.nm.: bothriopsis.bilineata)]" : {kintaronke}
@@ -3176,6 +3176,8 @@ define NRootPRQin [
 | "[=oye+m.][NRoot][=rainbow (ES: arcoíris; PT: arco-íris)]" : {oye}
 | "[=oyi+m.][NRoot][=rainbow (ES: arcoíris; PT: arco-íris)]" : {oyi}
 ! 
+| "[=oyechari+m.][NRoot][=rainbow-spirit]" : {oyechari}
+! 
 | "[=oyepari][NRoot][=legume.sp. (ES: leguminosa, fam.de.las.judías)]" : {oyepari}
 | "[=iyorite][NRoot][=legume.sp. (ES: leguminosa, fam.de.las.judías)]" : {iyorite}
 | "[=oyechari][NRoot][=legume.sp. (ES: leguminosa, fam.de.las.judías)]" : {oyechari}
@@ -3332,7 +3334,7 @@ define NRootPRQin [
 | "[=patzintoki+n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote.monte; sci.nm.: quararibea.wittii, bombacaceae)]" : {patzintoki}
 | "[=patintoki+n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patintoki}
 ! 
-| "[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father]" : {pava}
+| "[=pava+m.+poss@ni.][NRoot][=solar/benevolent.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father]" : {pava}
 ! 
 | "[=pavaeni+m.][NRoot][=uncle (kin.of.a.female, fem.ego; ES: tío.(de.mujer))]" : {pavaeni}
 | "[=pavaini+m.][NRoot][=uncle (kin.of.a.female, fem.ego; ES: tío.(de.mujer))]" : {pavaini}
@@ -3496,8 +3498,8 @@ define NRootPRQin [
 ! 
 | "[=Perú][NRoot][=NP]" : {perú}
 ! 
-| "[=peyari+m.][NRoot][=ghost; demon; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 
-| "[=piyari+m.][NRoot][=ghost; demon; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {piyari} ! @CMP 
+| "[=peyari+m.][NRoot][=ghost; demon; bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 
+| "[=piyari+m.][NRoot][=ghost; demon; bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {piyari} ! @CMP 
 ! 
 | "[=piyori][NRoot][=southern.helmeted.curassow (sci.nm.: pauxi.inicornis)]" : {piyori}
 ! 
@@ -4099,8 +4101,8 @@ define NRootPRQin [
 | "[=sanantzi][NRoot][=rufescent.tiger-heron (sci.nm.: tigrisoma.lineatum)]" : {sanantzi}
 | "[=sananti][NRoot][=rufescent.tiger-heron (sci.nm.: tigrisoma.lineatum)]" : {sananti}
 ! 
-| "[=santari+n.m.][NRoot][=cedar.tree, timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei)]" : {santari}
-| "[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei)]" : {hantari}
+| "[=santari+n.m.][NRoot][=cedar.tree, timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei; sci.nm.: cedrela.odorata)]" : {santari}
+| "[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei; sci.nm.: cedrela.odorata)]" : {hantari}
 ! 
 | "[=santani+m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {santani}
 | "[=hantani+m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {hantani}
@@ -4300,7 +4302,7 @@ define NRootPRQin [
 ! 
 | "[=shimoto+m.][NRoot][=worm.sp. (inhabits.decomposed.tree.trunks; ES: sp.de.gusano), black.locust.sp.]" : {shimoto}
 ! 
-| "[=shina][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna; PT: madeira.de.lei, açaí)]" : {shina}
+| "[=shina+n.m.][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna; PT: madeira.de.lei, açaí; sci.nm.: ceiba.pentandra)]" : {shina}
 ! 
 | "[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; PT: queixada; sci.nm.: tayassu.tajacu)]" : {shintori}
 ! 
@@ -4633,7 +4635,7 @@ define NRootPRQin [
 | "[=tajore+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tajore} 
 | "[=tasore+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tasore} 
 | "[=tazore+m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tazore} 
-| "[=tasorentsi+m.+poss@te.][NRoot][=god, saint, sacred; great.spirit]" : {tasorentsi} ! @VCMP 
+| "[=tasorentsi+m.+poss@te.][NRoot][=god, saint, sacred, benevolent.deity; great.spirit]" : {tasorentsi} ! @VCMP 
 | "[=tahorentsi+m.+poss@te.][NRoot][=god, saint, sacred; great.spirit]" : {tahorentsi} 
 | "[=tsorentsi][NRoot][=god (ES: Dios.principal); saint, sacred]" : {tsorentsi}
 | "[=tsorintsi][NRoot][=god, saint, sacred]" : {tsorintsi}
