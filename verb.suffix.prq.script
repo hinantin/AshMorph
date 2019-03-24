@@ -470,6 +470,7 @@ define FRUS [ [EP V=S=FRUS]|[V=S=FRUS] ];
 # amatsatantyari / a- =matsa -t -ant -ya =ri / ES: 'adelgazante' 
 # isankenatantyari / i- =sankena -t -ant -ya =ri / ES: 'lapicero' 
 # akijantyari / akihantyari / a- =kiha -/DEL:a/nt -ya =ri / ES: 'cargador' 
+# abantyari / a =/DEL:o/v -ant -ya =ri / ES: 'mesa.para.comer' 
 define V=S=APPLREAS [
 # Characteristic (CHAR) 
   "[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]" : "@EP"[{ant}]
