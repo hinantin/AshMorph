@@ -2547,9 +2547,9 @@ define VRootPRQin [
 | "[=vitsa+INF@/EP:t/aantsi.][VRoot][=to.greet (ES: saludar)]" : {vitsa}
 | "[=ovetsa][VRoot][=to.greet (ES: saludar)]" : {ovetsa}
 ! 
-| "[=vitsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vitsik}
-| "[=vetsik+INF@aantsi.][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vetsik}
-| "[=ovetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build; to.modify]" : {ovetsik}
+| "[=vitsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vitsik}
+| "[=vetsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vetsik}
+| "[=ovetsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build; to.modify]" : {ovetsik}
 ! 
 # bristle/cerda
 | "[=vitziri][VRoot][=to.pluck.sth.(out) (prbly. hair, feathers, bristle; ES: desplumar)]" : {vitziri}
