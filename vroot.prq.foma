@@ -2562,8 +2562,8 @@ define VRootPRQin [
 | "[=ye+INF@/EP:t/antsi.][VRoot][=to.serve.food (ES: servir.comida)]" : {ye}
 | "[=yet+INF@antsi.][VRoot][=to.serve.food (ES: servir.comida)]" : {yet}
 ! 
-| "[=yeenka][VRoot][=to.grease.sb's,body/hair; to.get.fat (applied.to.animals, ES: engordar)]" : {yeenka}
-| "[=yiinka][VRoot][=to.grease.sb's,body/hair]" : {yiinka}
+| "[=yeenka+INF@/EP:tz/V.][VRoot][=to.grease.sb's,body/hair; to.get.fat (applied.to.animals, ES: engordar)]" : {yeenka}
+| "[=yiinka+INF@/EP:tz/V.][VRoot][=to.grease.sb's,body/hair]" : {yiinka}
 ! 
 | "[=yoaren+INF@{EP:t}UNK.][VRoot][=to.come.as.a.lightning.flash (ES: venir.como.destello.de.relámpago, destellar)]" : {yoaren}
 ! 
