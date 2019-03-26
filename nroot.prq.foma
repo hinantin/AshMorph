@@ -18,6 +18,7 @@
 #    vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 #    It will be used as follows 1SG:2SG , etc. 
 # 5: +sem@healer.
+#    group classifiers.
 
 define NRootPRQin [
 ! 
