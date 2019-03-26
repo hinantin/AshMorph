@@ -3196,9 +3196,9 @@ define NRootPRQin [
 | "[=paamare+n.m.][NRoot][=fire (ES: candela, fuego)]" : {paamare}
 | "[=paampari+n.m.+poss@te.][NRoot][=fire (ES: candela, fuego)]" : {paampari}
 ! 
-| "[=paamanto+n.m.][NRoot][=burned.wood; burning (ES: ardiente)]" : {paamanto}
+| "[=paamanto+n.m.][NRoot][=burned.wood; burning (ES: leña.ardiente)]" : {paamanto}
 ! 
-| "[=paampatzi][NRoot][=bird.sp.]" : {paampatzi}
+| "[=paampatzi][NRoot][=bird.sp. (ES: ave.de.río)]" : {paampatzi}
 ! 
 | "[=pachaka+n.m.+poss@te.][NRoot][=pumpkin, (deep).gourd (ES: calabaza; botany.nm.: lagenaria.sp.)]" : {pachaka}
 | "[=pachaka+n.m.+poss@te.][NRoot][=container (ES: recipiente, porongo)]" : {pachaka}
@@ -3208,7 +3208,8 @@ define NRootPRQin [
 | "[=pachakama][NRoot][=person's.name; stone.divinity]" : {pachakama}
 | "[=pachaka][NRoot][=person's.name; stone.divinity]" : {pachaka}
 ! 
-| "[=pachakitzi][NRoot][=masked.tityra (sci.nm.: tityra.semifasciata)]" : {pachakitzi}
+| "[=pachakitzi][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachakitzi}
+| "[=pachaketzi][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachaketzi}
 ! 
 | "[=pachoi+n.m.][NRoot][=cocona-like.fruit.sp. (ES: remo.caspi; sci.nm.: swartzia.brachyrachis, caesalpiniaceae)]" : {pachoi}
 ! 
