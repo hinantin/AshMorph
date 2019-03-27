@@ -2875,15 +2875,15 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 # Vocative form 
 | "[=nyotsi/ñotsi+m.+voc@N.][NRoot][=son.in.law (ES: yerno); nephew (kin.of.a.male, male.ego)]" : {nyotsi}
-| "[=nyotzi+m.+voc.][NRoot][=son.in.law (ES: yerno); nephew (kin.of.a.male, male.ego)]" : {nyotzi}
+| "[=nyotzi/ñotzi+m.+voc@N.][NRoot][=son.in.law (ES: yerno); nephew (kin.of.a.male, male.ego)]" : {nyotzi}
 | "[=nioti+m.+voc.][NRoot][=son.in.law (ES: yerno); nephew (kin.of.a.male, male.ego)]" : {nioti}
 | "[=nyoti+m.+voc.][NRoot][=son.in.law (ES: yerno); nephew  (kin.of.a.male, male.ego)]" : {nyoti}
 | "[=nyooti+m.+voc.][NRoot][=son.in.law (male.ego; ES: yerno); nephew  (kin.of.a.male, male.ego)]" : {nyooti}
 ! 
 | "[=tine+poss@ri.][NRoot][=son.in.law (kin.of.a.fe/male, fe/male.ego)]" : {tine} 
-# ---------------------------------------------------------------------
-| "[=tsineri+m.+voc.][NRoot][=son.in.law; nephew]" : {tsineri}
-| "[=tzineri+m.+voc.][NRoot][=son.in.law; nephew]" : {tzineri}
+! 
+| "[=tsineri+m.+voc@1SG:1PL.][NRoot][=son.in.law; nephew]" : {tsineri}
+| "[=tzineri+m.+voc@1SG:1PL.][NRoot][=son.in.law; nephew]" : {tzineri}
 | "[=tsiniri+m.+voc.][NRoot][=son.in.law; nephew]" : {tsiniri}
 ! 
 | "[=tzineri][NRoot][=brother/sister's.son (kin.of.a.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tzineri} 
