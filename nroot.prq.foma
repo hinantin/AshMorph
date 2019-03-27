@@ -3994,9 +3994,9 @@ define NRootPRQin [
 ! 
 | "[=shiriki+m.][NRoot][=bee.sp. (ES: abeja.hechicera; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini)]" : {shiriki}
 ! 
-| "[=shirinti][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirinti}
-| "[=shirenti][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirenti}
-| "[=shirentzi][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirentzi}
+| "[=shirinti+m.][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirinti}
+| "[=shirenti+m.][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirenti}
+| "[=shirentzi+m.][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirentzi}
 ! 
 | "[=shoopa+m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shoopa}
 ! 
@@ -4005,7 +4005,7 @@ define NRootPRQin [
 | "[=shiyovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shiyovire}
 | "[=shiovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shiovire}
 ! 
-| "[=shomoNtsi][NRoot][=person's.name]" : {shomontsi} ! shomõtsi
+| "[=shomoNtsi/shomõtsi][NRoot][=person's.name; small.red.humming-bird]" : {shomontsi} ! shomõtsi
 ! 
 | "[=shompoti][NRoot][=fish.sp. (bujurqui-fish)]" : {shompoti}
 | "[=shompotsi][NRoot][=fish.sp. (bujurqui-fish)]" : {shompotsi}
