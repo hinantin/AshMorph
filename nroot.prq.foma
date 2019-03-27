@@ -2755,7 +2755,9 @@ define NRootPRQin [
 | "[=motinti+m.][NRoot][=paunchy]" : {motinti} ! motinti / =moti -nti / =stomach -adj.n.m.
 | "[=motinto+n.m.][NRoot][=pregnant (ES: embarazada)]" : {motinto} ! motinto / =moti -nto / =stomach -adj.m.
 ! 
-| "[=nainaintzi][NRoot][=white-chinned.jacamar (sci.nm.: galbula.tombacca)]" : {nainaintzi}
+| "[=nainaintzi+m.][NRoot][=white-chinned.jacamar, bird.sp. (sci.nm.: galbula.tombacca)]" : {nainaintzi}
+| "[=nainaitzi+m.][NRoot][=hummingbird-like.bird (ES: sp.de.pájaro)]" : {nainaitzi}
+| "[=naintzi+m.][NRoot][=hummingbird-like.bird (ES: sp.de.pájaro)]" : {naintzi}
 ! 
 | "[=naki][NRoot][=interior.space (ES: espacio.interior, hueco)]" : {naki}
 ! 
@@ -2882,8 +2884,8 @@ define NRootPRQin [
 ! 
 | "[=tine+poss@ri.][NRoot][=son.in.law (kin.of.a.fe/male, fe/male.ego)]" : {tine} 
 ! 
-| "[=tsineri+m.+voc@1SG:1PL.][NRoot][=son.in.law; nephew]" : {tsineri}
-| "[=tzineri+m.+voc@1SG:1PL.][NRoot][=son.in.law; nephew]" : {tzineri}
+| "[=tsineri+m.+voc@1SG:2SG:3SG:1PL.][NRoot][=son.in.law; nephew]" : {tsineri}
+| "[=tzineri+m.+voc@1SG:2SG:3SG:1PL.][NRoot][=son.in.law; nephew]" : {tzineri}
 | "[=tsiniri+m.+voc.][NRoot][=son.in.law; nephew]" : {tsiniri}
 ! 
 | "[=tzineri][NRoot][=brother/sister's.son (kin.of.a.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tzineri} 
