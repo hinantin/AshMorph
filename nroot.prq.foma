@@ -588,6 +588,7 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------- 
 | "[=chopii][NRoot][=natural.pudding.made.with.green.plantain (ES: mazamorra.natural.hecho.con.plátano.verde)]" : {chopii} 
 | "[=chopi][NRoot][=soup/podding.made.with.plantain/fish/meat/yucca (ES: sopa/mazamorra; QU: chupi)]" : {chopi} 
+| "[=shopi][NRoot][=soup]" : {shopi} 
 ! 
 ! chopitantsi
 ! chopirintsi
@@ -4007,10 +4008,8 @@ define NRootPRQin [
 ! 
 | "[=shomoNtsi/shomõtsi][NRoot][=person's.name; small.red.humming-bird]" : {shomontsi} ! shomõtsi
 ! 
-| "[=shompoti][NRoot][=fish.sp. (bujurqui-fish)]" : {shompoti}
-| "[=shompotsi][NRoot][=fish.sp. (bujurqui-fish)]" : {shompotsi}
-! 
-| "[=shopi][NRoot][=soup]" : {shopi} 
+| "[=shompoti+m.][NRoot][=fish.sp. (bujurqui-fish)]" : {shompoti}
+| "[=shompotsi+m.][NRoot][=fish.sp. (bujurqui-fish)]" : {shompotsi}
 ! 
 | "[=shoshokiri][NRoot][=NP, person's.name]" : {shoshokiri} 
 ! 
