@@ -2801,6 +2801,7 @@ define NRootPRQin [
 ! 
 | "[=nehi+inal@tsi.][NRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
 | "[=nee][NRoot][=chest (ES: pecho)]" : {nee}
+| "[=nii][NRoot][=breast (ES: pecho)]" : {nii}
 | "[=chopine+inal@n/tsi.][NRoot][=chest (ES: pecho)]" : {chopine}
 | "[=chopinee+inal@n/tsi.][NRoot][=chest (ES: pecho)]" : {chopinee}
 | "[=chopini+inal@ntsi.][NRoot][=chest (ES: pecho)]" : {chopini}
@@ -2836,8 +2837,6 @@ define NRootPRQin [
 | "[=hinyaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaateni}
 | "[=hinyaatini][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaatini}
 | "[=nyaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nyaateni}
-! 
-| "[=nii][NRoot][=breast]" : {nii}
 ! 
 | "[=niivotya][NRoot][=NP; person's.name]" : {niivotya}
 ! 
