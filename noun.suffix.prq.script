@@ -619,9 +619,11 @@ define N=S=CL [
 ! 
 | "[--][-ampoiri][+CL:footprint][=footprint]" : {ampoiri} ! @CL 
 ! 
-! inchatororonteni / =inchato -roronteni / EN: "tree's.kind" 
+! inchatororonteni / =inchato -roronteni / EN: "tree's.kind"; ES: 'el.grupo.de.árboles' 
 ! onchatororonteni / o- =inchato -roronteni / EN: "tree's.kind" 
 ! noirinkasatiririnteni / no- =kirinka -sati -ririnteni / EN: 'those.down.river.with.whom.I.have.sth.in.common' 
+! otsinaneronteni / o- =tsinane -ronteni / ES: 'se.refiere.sólo.a.las.mujeres, todas.las.mujeres'
+! otsinaneroronteni / o- =tsinane -roronteni / ES: 'se.refiere.sólo.a.las.mujeres, todas.las.mujeres' 
 | "[--][-ririnteni+m@possesor.][+CL:kind,species][=sth.which.is.in.common.with.the.obligatory.order]" : {ririnteni}
 | "[--][-roronteni+n.m@possesor.][+CL:kind,species][=sth.which.is.in.common.with.the.obligatory.order]" : {roronteni}
 ! 
