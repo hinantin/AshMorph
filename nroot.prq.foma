@@ -2792,7 +2792,7 @@ define NRootPRQin [
 | "[=nato][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio); medicinal.plant.sp. (ES: sp.de.planta.medicinal)]" : {nato}
 | "[=hayapa][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio)]" : {hayapa}
 ! 
-| "[=nava+n.m.+inal@tsi.][NRoot][=freckle (ES: peca)]" : {nava}
+| "[=nava+n.m.+inal@tsi.][NRoot][=freckle, mole (ES: peca)]" : {nava}
 ! 
 | "[=navireri][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {navireri}
 | "[=naviriri][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {naviriri}
@@ -2844,8 +2844,10 @@ define NRootPRQin [
 | "[=niyankiite][NRoot][=midnight, middle.of.the.night (ES: medianoche); at.midnight]" : {niyankiite} ! 2 temporal pronoun???
 | "[=niyankite][NRoot][=midnight, middle.of.the.night (ES: medianoche); at.midnight]" : {niyankite} ! 2 temporal pronoun???
 ! 
+# ---------------------------------------------------------------
 | "[=nyaa][NRoot][=water (ES: agua, río, lluvia)]" : {nyaa}
 | "[=inyaa][NRoot][=water (ES: agua, río, lluvia)]" : {inyaa}
+# ---------------------------------------------------------------
 ! 
 | "[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nyaa}
 | "[=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nya}
