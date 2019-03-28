@@ -2901,9 +2901,9 @@ define NRootPRQin [
 ! 
 | "[=noshikari][NRoot][=crested.owl (sci.nm.: lophostrix.cristata)]" : {noshikari}
 ! 
-| "[=oati][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {oati}
-| "[=ovaati][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaati}
-| "[=ovaatzi][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaatzi}
+| "[=oati+m.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, omairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {oati}
+| "[=ovaati+m.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, omairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaati}
+| "[=ovaatzi+m.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaatzi}
 ! 
 | "[=ochera][NRoot][=shore (ES: orilla)]" : {ochera}
 | "[=ocheraa][NRoot][=shore (ES: orilla)]" : {ocheraa}
@@ -4903,7 +4903,7 @@ define NRootPRQin [
 ! 
 | "[=tsaante+n.m.][NRoot][=hanging.storage-container (ES: colgador.de.objetos)]" : {tsaante} 
 ! 
-| "[=tsaati][NRoot][=bird.sp. (ES: pájaro)]" : {tsaati} 
+| "[=tsaati+m.][NRoot][=bird.sp. (ES: pájaro)]" : {tsaati} 
 ! 
 | "[=tsavi+inal@tsi.][NRoot][=vagina (ES: vagina)]" : {tsavi}
 | "[=chavi+inal@tsi.][NRoot][=vagina (ES: vagina)]" : {chavi}
