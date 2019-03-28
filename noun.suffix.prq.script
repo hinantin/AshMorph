@@ -605,7 +605,8 @@ define N=S=CL [
 | "[--][-vane][+CL:powder-like][=powdery.substance,powder-like]" : {vane} 
 ! 
 # classifiers to specify the stone's shape and size 
-| "[--][-pentaki][+CL:grain-like,rectangular][=grain-like, rectangular]" : {pentaki} 
+| "[--][-pentaki][+CL:grain-like][=grain-like]" : {pentaki} 
+| "[--][-pentaki][+CL:rectangular][=rectangular,thin,small]" : {pentaki} 
 ! 
 | "[--][-meronta][+CL:flat,broad,level][=flat, broad, level]" : {meronta} 
 | "[--][-metara][+CL:flat,circular][=flat,circular]" : {metara}
