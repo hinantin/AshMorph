@@ -2901,7 +2901,9 @@ define NRootPRQin [
 ! 
 | "[=noshikari][NRoot][=crested.owl (sci.nm.: lophostrix.cristata)]" : {noshikari}
 ! 
-| "[=oati][NRoot][=tayra (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {oati}
+| "[=oati][NRoot][=tayra, weasel.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {oati}
+| "[=ovaati][NRoot][=tayra, weasel.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaati}
+| "[=ovaatzi][NRoot][=tayra, weasel.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaatzi}
 ! 
 | "[=ochera][NRoot][=shore (ES: orilla)]" : {ochera}
 | "[=ocheraa][NRoot][=shore (ES: orilla)]" : {ocheraa}
