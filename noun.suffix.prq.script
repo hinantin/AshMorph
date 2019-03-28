@@ -374,6 +374,7 @@ define N=S=CL [
 ! =woman -pl ** =to.be -ep -dist -ep -stat -rel ** =forest -cl:deriving.location.names -loc / EN: 'female.inhabitant.from.the.forest'  
 ! ora ashitari nijasato / ora ashitari nihasato / =ora ** =ashi -t -a -ri ** =niha -sato / =that ** =to.have -ep -real -rel ** =water -cl:deriving.location.names / ES: 'del.recurso.hídrico'; EN: 'of.the.water.resource'
 ! paashinijatopaeni / paashinihatopaeni / =paashini -hato -paeni / =other -cl:provenance -pl / EN: 'from.different.things'; ES: 'de.diferentes' 
+! inkarisato / =inkari -sato / =lake -cl:provenance / ES: 'zona.marino-costera' 
 | "[--][-ato+n.m.][NS][+CL:human.provenance][=deriving.location.names]" : {ato} 
 | "[--][-sato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {sato} 
 | "[--][-hato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {hato} 
@@ -612,11 +613,11 @@ define N=S=CL [
 ! mapimeronta / =mapi -meronta / EN: 'flat.smooth.stone' 
 ! ashiromeronta / 
 | "[--][-meronta][+CL:flat,broad,level][=flat, broad, level (ES: plano,chato)]" : {meronta} 
-| "[--][-metara][+CL:flat,circular][=flat,circular]" : {metara}
+| "[--][-metara][+CL:flat,circular][=flat,circular]" : {metara} 
 ! 
 ! inchapetoki plástico / EN: 'pieces.of.plastic' 
 | "[--][-petoki][+CL:grain-like,small.piece][=grain-like, small.piece]" : {petoki} 
-| "[--][-petyoki][+CL:grain-like,small.piece][=grain-like, small.piece]" : {petyoki} 
+| "[--][-petyoki~pe{E.PAL.:ty}oki][+CL:little.piece][=small.piece]" : {petyoki} 
 ! kisaateroinatakemi / =kisaa -teroina -t -ak -e =mi / EN: 'your.head.is.black' 
 ! kipatsiteroina / =kipatsi -teroina
 | "[--][-teroina][+CL:spherical,solid][=spherical, solid (ES: forma.de.bola)]" : {teroina} ! @CL 
