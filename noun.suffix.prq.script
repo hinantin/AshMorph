@@ -608,6 +608,8 @@ define N=S=CL [
 | "[--][-pentaki][+CL:grain-like][=grain-like]" : {pentaki} 
 | "[--][-pentaki][+CL:rectangular][=rectangular,thin,small]" : {pentaki} 
 ! 
+! mapimeronta / =mapi -meronta / EN: 'flat.smooth.stone' 
+! ashiromeronta / 
 | "[--][-meronta][+CL:flat,broad,level][=flat, broad, level (ES: plano,chato)]" : {meronta} 
 | "[--][-metara][+CL:flat,circular][=flat,circular]" : {metara}
 ! 
