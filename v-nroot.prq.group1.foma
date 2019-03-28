@@ -4,6 +4,8 @@
 define VerbToNounPRQin [ 
   "[=aapatikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]::[=union.between.people (ES: unión.en.personas)][^NMZ]" : {aapatikiy} ! V@->N::[=union.between.people (ES: unión.en.personas)] 
 | "[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)]::[=action, act (ES: acto)][^NMZ]" : {ant} ! V@->N::[=action, act (ES: acto)] 
+| "[=antiva+INF@/EP:t/aantsi.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]::[=stumbling.block (ES: tropiezo)][^NMZ]" : {antiva} ! V@->N::[=stumbling.block (ES: tropiezo)] 
+| "[=tsitink+INF@aantsi.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]::[=stumbling.block (ES: tropiezo)][^NMZ]" : {tsitink} ! V@->N::[=stumbling.block (ES: tropiezo)] 
 | "[=apato+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar), to.meet, to.get.together]::[=meeting (ES: reunión)][^NMZ]" : {apato} ! V@->N::[=meeting (ES: reunión)]
 | "[=tohe][VRoot][=to.cough (ES: toser)]::[=cough (ES: tos)][^NMZ]" : {tohe} ! V@->N::[=cough (ES: tos)] 
 | "[=atsikaneent~atsik{EP:a}{DIM:neent}+INF@aantsi.][VRoot][=to.have.a.stomachache/biting_pain_in_the_stomach (ES: tener.dolor.de.estómago, tener.cólico); to.be.in.labour (ES: estar.de.parto)]::[=stomachache (ES: dolor.de.estómago)][^NMZ]" : {atsikaneent} ! V@->N::[=stomachache (ES: dolor.de.estómago)] 
