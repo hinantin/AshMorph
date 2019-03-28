@@ -608,7 +608,7 @@ define N=S=CL [
 | "[--][-pentaki][+CL:grain-like][=grain-like]" : {pentaki} 
 | "[--][-pentaki][+CL:rectangular][=rectangular,thin,small]" : {pentaki} 
 ! 
-| "[--][-meronta][+CL:flat,broad,level][=flat, broad, level]" : {meronta} 
+| "[--][-meronta][+CL:flat,broad,level][=flat, broad, level (ES: plano,chato)]" : {meronta} 
 | "[--][-metara][+CL:flat,circular][=flat,circular]" : {metara}
 ! 
 | "[--][-petoki][+CL:grain-like,small][=grain-like, small]" : {petoki} 
