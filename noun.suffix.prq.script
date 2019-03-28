@@ -617,7 +617,7 @@ define N=S=CL [
 ! 
 | "[--][-paite][+CL:period][=during, at.the.time.of.sth., period]" : {paite} 
 ! 
-| "[--][-ampoiri][+CL:footprint][=footprint]" : {ampoiri} ! @CL 
+| "[--][-ampoiri][+CL:footprint][=footprint,tracks]" : {ampoiri} ! @CL 
 ! 
 ! inchatororonteni / =inchato -roronteni / EN: "tree's.kind"; ES: 'el.grupo.de.árboles' 
 ! onchatororonteni / o- =inchato -roronteni / EN: "tree's.kind" 

@@ -639,8 +639,8 @@ define VRootPRQin [
 ! 
 | "[=kairok+INF@aantsi:V.+I-Conj@act.v.][VRoot][=to.tickle (ES: cosquillar, hacer.cosquillas)]" : {kairok}
 ! 
-| "[=kam][VRoot][=to.die (ES: morir)]" : {kam}
-| "[=kaam][VRoot][=to.die (ES: morir)]" : {kaam}
+| "[=kam+INF@aantsi.+A-Conj@mid.v.][VRoot][=to.die (ES: morir)]" : {kam}
+| "[=kaam+INF@VC.][VRoot][=to.die (ES: morir)]" : {kaam}
 | "[=vam+INF@aantsi.][VRoot][=to.cause.death, to.make.sb/sth.die (ES: hacer.morir)]" : {vam}
 ! 
 | "[=kampoiri][VRoot][=to.disembowel (ES: destripar)]" : {kampoiri}
