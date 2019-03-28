@@ -607,6 +607,7 @@ define N=S=CL [
 # classifiers to specify the stone's shape and size 
 | "[--][-pentaki][+CL:grain-like][=grain-like]" : {pentaki} 
 | "[--][-pentaki][+CL:rectangular][=rectangular,thin,small]" : {pentaki} 
+| "[--][-pentsaki][+CL:rectangular][=rectangular,thin,small]" : {pentsaki} ! @CL  
 ! 
 ! mapimeronta / =mapi -meronta / EN: 'flat.smooth.stone' 
 ! ashiromeronta / 
