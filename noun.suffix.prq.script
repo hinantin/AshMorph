@@ -615,7 +615,8 @@ define N=S=CL [
 | "[--][-metara][+CL:flat,circular][=flat,circular]" : {metara}
 ! 
 ! inchapetoki plástico / EN: 'pieces.of.plastic' 
-| "[--][-petoki][+CL:grain-like,small][=grain-like, small]" : {petoki} 
+| "[--][-petoki][+CL:grain-like,small.piece][=grain-like, small.piece]" : {petoki} 
+| "[--][-petyoki][+CL:grain-like,small.piece][=grain-like, small.piece]" : {petyoki} 
 ! kisaateroinatakemi / =kisaa -teroina -t -ak -e =mi / EN: 'your.head.is.black' 
 ! kipatsiteroina / =kipatsi -teroina
 | "[--][-teroina][+CL:spherical,solid][=spherical, solid (ES: forma.de.bola)]" : {teroina} ! @CL 
