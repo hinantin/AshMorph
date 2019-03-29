@@ -631,6 +631,7 @@ define VRootPRQin [
 | "[=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)]" : {kaem}
 | "[=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaim}
 | "[=kaim+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaikaim}
+#@PRTLREDUPCLASS01| "[=kaim+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaim} ! kaikaim
 | "[=kãym][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)]" : {kãym}
 | "[=kahem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)]" : {kahem} ! inkajemajeiteri / i=N-kajem-a-hei-t-e-ri 
 !| "[=vaemant][VRoot][=to.promote (ES: promover)]" : {vaemant}
