@@ -1093,6 +1093,7 @@ define VRootPRQin [
 | "[=mahere+INF/EP:t/aantsi.][VRoot][=to.be.silent (ES: callar)]" : {mahere} ! V@->N::[=silence (ES: silencio)] 
 | "[=mairi+INF@/EP:t/aantsi.][VRoot][=to.be.serious/solemn; to.be.silent (ES: callar, no.contestar/responder)]" : {mairi} 
 | "[=mairi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.be.serious/solemn; to.be.silent (ES: callar, no.contestar/responder)]" : {maimairi}
+#@PRTLREDUPCLASS01| "[=mairi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.be.serious/solemn; to.be.silent (ES: callar, no.contestar/responder)]" : {mairi} ! maimairi 
 | "[=mairent][VRoot][=to.stay.quiet (ES: callar, quedarse.callado)]" : {mairent} 
 | "[=mairen][VRoot][=to.stay.quiet (ES: callar, quedarse.callado)]" : {mairen} 
 ! 
