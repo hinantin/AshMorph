@@ -382,7 +382,7 @@ define N=S=CL [
 | "[--][-hato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {hato} 
 #-----------------------------------------------
 | "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} 
-| "[--][-sanii][+CL:wasp.sp.][=wasp.sp.]" : {sanii} 
+| "[--][-sanii][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sanii} 
 #-----------------------------------------------
 ! Ashaninkasanori / =ashaninka -sanori / =ashaninka.person -cl:real / EN: 'real.Ashaninka.person' 
 ! antyarosanori / =antyaro -sanori / =big -cl:real / EN: 'inmense'; ES: 'inmenso'  
