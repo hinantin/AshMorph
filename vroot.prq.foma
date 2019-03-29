@@ -337,7 +337,7 @@ define VRootPRQin [
 | "[=ashi+INF@/EP:t/aantsi.][VRoot][=to.have; to.own, to.possess (ES: poseer, adueñarse)]" : {ashi}
 | "[=ashit+INF@aantsi.][VRoot][=to.have; to.own, to.possess (ES: poseer, adueñarse)]" : {ashit}
 | "[=ashit+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.have; to.own, to.possess (ES: poseer, ser.dueño, adueñarse)]::[= (ES: ser.dueño.varias.veces)]" : {ashishita}
-
+#@PRTLREDUPCLASS01| "[=ashit+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.have; to.own, to.possess (ES: poseer, ser.dueño, adueñarse)]::[= (ES: ser.dueño.varias.veces)]" : {ashi} ! ashishita
 ! 
 | "[=ashi+INF@/EP:t/aantsi.][VRoot][=to.enclose (ES: cerrar)]" : {ashi}
 | "[=ashitako+INF@/EP:t/antsi.][VRoot][=to.lock.sth./sb.in (ES: encerrar(se))]" : {ashitako}
