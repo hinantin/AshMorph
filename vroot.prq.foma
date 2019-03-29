@@ -844,6 +844,7 @@ define VRootPRQin [
 | "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {ken}
 | "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {kin}
 | "[=ken+prtl.redup@b.copy.][VRoot][=to.walk]" : {keken}
+#@PRTLREDUPCLASS01| "[=ken+prtl.redup@b.copy.][VRoot][=to.walk]" : {ken} ! keken 
 | "[=ken+prtl.redup@b.copy.][VRoot][=to.walk]" : {kekena}
 | "[=ken+tot.redup@unb.copy.][VRoot][=to.walk]" : {kenaken}
 | "[=ken+tot.redup@unb.copy.][VRoot][=to.walk]" : {kenakena}
