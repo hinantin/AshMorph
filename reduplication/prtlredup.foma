@@ -2,6 +2,8 @@
 # Partial reduplication 
 # ------------------------------- 
 
+# FLAG: PRTLREDUPCLASS01 / VRootPrtlRedupClass01 
+
 define Vow [{a}|{aa}|{e}|{ii}|{i}|{o}]; 
 define Diphthong [{ai}];
 define Cons [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}];
