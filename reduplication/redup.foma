@@ -25,7 +25,9 @@ define P=1 [
 
 define RemoveBrackets %<|%> -> 0;
 
-define LexiconClass1 [
+# FLAG: TOTREDUPCLASS01 / VRootTotRedupClass01 
+
+define LexiconClass1 [ 
   "[=koma+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]":{koma}
 | "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]":{kya}
 ]; 
@@ -35,7 +37,9 @@ define C1Rule2 [..] -> %< \[%<|%>]+ %> || .#. _ %< ;
 define preRedup1 LexiconClass1 .o. C1Rule1 .o. C1Rule2 ; 
 define VRootClass1 _eq(preRedup1, %<, %>) .o. RemoveBrackets;
 
-define LexiconClass2 [
+# FLAG: TOTREDUPCLASS02 / VRootTotRedupClass02 
+
+define LexiconClass2 [ 
   "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {mi} ! miamia
 | "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {my} ! myaamyaa
 | "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
@@ -49,7 +53,9 @@ define C2Rule2 [..] -> %[ \[%[|%]]+ %] || .#. _ %[ ;
 define preRedup2 Lexicon .o. C2Rule1 .o. C2Rule2 ; 
 define VRootClass2 _eq(preRedup2, %[, %]) .o. %[|%] -> 0; 
 
-define LexiconClass3 [
+# FLAG: TOTREDUPCLASS03 / VRootTotRedupClass03 
+
+define LexiconClass3 [ 
   "[=aa+INF@/DEL:a/gaantsi.+tot.redup@unb.copy.][VRoot][=to.take (ES: agarrar)]" : {aa} ! naanaa
 | "[=aashi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.make.a.group_reunion/meeting (ES: hacer.sesión,, reunir), to.meet]" : {aashi} ! naashinaashi
 ]; 
