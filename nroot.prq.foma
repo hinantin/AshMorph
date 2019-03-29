@@ -3841,7 +3841,8 @@ define NRootPRQin [
 ! 
 | "[=reloj/riro+poss@te.][NRoot][=watch]" : {riro}
 ! 
-| "[=saankotzi][NRoot][=cinereous.tinamou (sci.nm.: crypturellus.cinereus)]" : {saankotzi}
+| "[=saankotzi+m.][NRoot][=cinereous.tinamou (ES: perdiz.negra; sci.nm.: crypturellus.cinereus)]" : {saankotzi}
+| "[=saankotsi+m.][NRoot][=black.partridge (ES: perdiz)]" : {saankotsi}
 ! 
 | "[=saari+m.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {saari}
 | "[=sagari][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {sagari}
@@ -4042,8 +4043,6 @@ define NRootPRQin [
 | "[=saNko/sãko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale; PT: cana.de.açúcar)]" : {sãko}
 | "[=hanko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {hanko}
 | "[=shanko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {shanko}
-! 
-| "[=saankotsi][NRoot][=black.partridge (ES: perdiz)]" : {saankotsi}
 ! 
 | "[=sankonkotzi][NRoot][=ferruginous.pygmy.owl (sci.nm.: glaucidium.brasilianum)]" : {sankonkotzi}
 ! 
