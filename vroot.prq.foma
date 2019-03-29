@@ -2305,6 +2305,7 @@ define VRootPRQin [
 | "[=tsaanki+INF@/EP:t/aantsi.][VRoot][=to.be.in.a.hurry; to.hurry (ES: apurarse)]" : {tsaanki}
 | "[=tsaanki+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.hurry (ES: apurarse)]" : {tsaankitsaanki} ! \cite{payne:axininca:81}[pag. 144]
 | "[=tsaanki+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.hurry (ES: apurarse)]" : {tsaatsaanki}
+#@PRTLREDUPCLASS01| "[=tsaanki+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.hurry (ES: apurarse)]" : {tsaanki} ! tsaatsaanki 
 ! 
 | "[=tsare][VRoot][=to.drool (ES: babear)]" : {tsare}
 | "[=tsaari][VRoot][=to.drool (ES: babear)]" : {tsaari}
