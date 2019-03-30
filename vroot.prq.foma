@@ -370,7 +370,7 @@ define VRootPRQin [
 | "[=ashiriako+INF@/EP:t/aantsi.][VRoot][=to.undo, to.unbuckle (ES: desabrochar)]" : {ashiriako}
 ! 
 | "[N=][IRR+][--][=atai+INF@/EP:t/antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {antai} ! nantaitatiye / n=n-atai-t-ati-ye EN: 'I will climb', ES: 'voy a trepar'; nantaiti / n=atai-n-t-i ES: 'estoy trepando'
-| "[N=][IRR+][--][=atae+INF@/EP:t/antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {antae}
+| "[N=][IRR+][--][=atae+IN F@/EP:t/antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {antae}
 | "[=atae+INF@/EP:t/antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atae}
 | "[=atai+INF@/EP:t/(a)antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atai}
 !###| "[n-][VPers][1SG.S/A+][--][=atai+INF@/EP:t/(a)antsi.+tot.redup@unb.copy.][VRoot][=to.go.up (ES: subir)]" : {natainatai} ! @REDUP 
@@ -418,6 +418,7 @@ define VRootPRQin [
 !###| "[pi-][VPers][2S/A+][--][=tso+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.kiss (ES: besar)]" : {pitsopitso} ! @REDUP  
 !###| "[i-][VPers][3m.S/A+][--][=tso+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.kiss (ES: besar)]" : {itsoitso} ! @REDUP  
 !###| "[o-][VPers][3n.m.S/A+][--][=tso+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.kiss (ES: besar)]" : {otsootso} ! @REDUP  
+#@TOTREDUPCLASS03| "[=tso+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.kiss (ES: besar)]" : {tso} ! nontsonontso notsonotso pitsopitso itsoitso otsootso 
 ! 
 # abiitaantsi / aviitaantsi / ES: 'coger' 
 | "[=avii+INF@/EP:t/aantsi.][VRoot][=to.harvest.sth. (apart.from.yucca; ES: cosechar, hacer.la.cosecha)]" : {avii}
