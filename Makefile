@@ -39,6 +39,7 @@ compile:
 	@rm -f reduplication/vroot.prtlredup.class01.foma | perl extractEntries.pl --file vroot.prq.foma --outputfilename "reduplication/vroot.prtlredup.class01.foma" --label "@PRTLREDUPCLASS01" --title "VERBAL PARTIAL REDUPLICATION CLASS 1" --header "VRootPrtlRedupClass01in" --replace2 1 --source2 "#@PRTLREDUPCLASS01" --target2 ""
 	@rm -f reduplication/vroot.totredup.class01.foma | perl extractEntries.pl --file vroot.prq.foma --outputfilename "reduplication/vroot.totredup.class01.foma" --label "@TOTREDUPCLASS01" --title "VERBAL TOTAL REDUPLICATION CLASS 1" --header "VRootTotRedupClass01in" --replace2 1 --source2 "#@TOTREDUPCLASS01" --target2 ""
 	@rm -f reduplication/vroot.totredup.class02.foma | perl extractEntries.pl --file vroot.prq.foma --outputfilename "reduplication/vroot.totredup.class02.foma" --label "@TOTREDUPCLASS02" --title "VERBAL TOTAL REDUPLICATION CLASS 2" --header "VRootTotRedupClass02in" --replace2 1 --source2 "#@TOTREDUPCLASS02" --target2 ""
+	@rm -f reduplication/vroot.totredup.class03.foma | perl extractEntries.pl --file vroot.prq.foma --outputfilename "reduplication/vroot.totredup.class03.foma" --label "@TOTREDUPCLASS03" --title "VERBAL TOTAL REDUPLICATION CLASS 3" --header "VRootTotRedupClass03in" --replace2 1 --source2 "#@TOTREDUPCLASS03" --target2 ""
 	@rm -f ideo.adbl.foma | bash ashaninkamorph.sh -q "test" 
 	@rm -f asheninka.bin asheninka.guesser.bin *.tar.bz2
 	@xfst -f asheninka.script 
