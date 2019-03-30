@@ -61,10 +61,13 @@ define VRootClass2 _eq(preRedup2, %[, %]) .o. %[|%] -> 0;
 
 # FLAG: TOTREDUPCLASS03 / VRootTotRedupClass03 
 
-define LexiconClass3 [ 
-  "[=aa+INF@/DEL:a/gaantsi.+tot.redup@unb.copy.][VRoot][=to.take (ES: agarrar)]" : {aa} ! naanaa
-| "[=aashi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.make.a.group_reunion/meeting (ES: hacer.sesión,, reunir), to.meet]" : {aashi} ! naashinaashi
-]; 
+source vroot.totredup.class03.foma 
+define LexiconClass3 VRootTotRedupClass03in;
+
+#define LexiconClass3 [ 
+#  "[=aa+INF@/DEL:a/gaantsi.+tot.redup@unb.copy.][VRoot][=to.take (ES: agarrar)]" : {aa} ! naanaa
+#| "[=aashi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.make.a.group_reunion/meeting (ES: hacer.sesión,, reunir), to.meet]" : {aashi} ! naashinaashi
+#]; 
 
 define C3Lexicon [ P=1 LexiconClass3 (EP) ]; 
 define C3Rule1 [ Cons ([ Vow | Cons ]*) ] -> %( ... %) || .#. _ .#. ;
