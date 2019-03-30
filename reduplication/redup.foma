@@ -27,10 +27,13 @@ define RemoveBrackets %<|%> -> 0;
 
 # FLAG: TOTREDUPCLASS01 / VRootTotRedupClass01 
 
-define LexiconClass1 [ 
-  "[=koma+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]":{koma}
-| "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]":{kya}
-]; 
+source vroot.totredup.class01.foma 
+define LexiconClass1 VRootTotRedupClass01in;
+
+#define LexiconClass1 [ 
+#  "[=koma+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]":{koma}
+#| "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]":{kya}
+#]; 
 
 define C1Rule1 [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
 define C1Rule2 [..] -> %< \[%<|%>]+ %> || .#. _ %< ;
