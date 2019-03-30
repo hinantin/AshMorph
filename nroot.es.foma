@@ -211,8 +211,8 @@ define NRootESin [
 | "[=Apurimac][NRootEs][=Apurimac]" : {Apurimac}
 | "[=vaca][NRootEs][=cow]" : {vaaka}
 ! 
-| "[=máquina][NRoot][=machine]" : {maakina}
-| "[=máquina][NRoot][=machine]" : {makina}
+| "[=máquina/maakina][NRoot][=machine]" : {maakina}
+| "[=máquina/makina][NRoot][=machine]" : {makina}
 ! 
 | "[=naranja][NRoot][=orange (botany.nm.: citrus.sp.)]" : {naranka}
 ! 
