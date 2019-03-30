@@ -1582,6 +1582,7 @@ define VRootPRQin [
 ! 
 | "[=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p}
 | "[=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {paapaa}
+#@TOTREDUPCLASS02| "[=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p} ! paapaa 
 !###| "[i-][VPers][3m.S/A+][--][=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar)]" : {ipaipa} ! @REDUP 
 ! 
 | "[=pai+INF@/EP:t/aantsi.][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair, to.have.gray.hair]" : {pai}
