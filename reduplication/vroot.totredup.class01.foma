@@ -1,0 +1,25 @@
+# -----------------
+# VERBAL TOTAL REDUPLICATION CLASS 1 
+# -----------------
+define VRootTotRedupClass01in [ 
+#@PRTLREDUPCLASS01| "[=amen+prtl.redup@b.copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]" : {amen} ! amemena
+#@PRTLREDUPCLASS01| "[=apii+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.repeat (ES: repetir)]" : {apii} ! apiipii
+#@PRTLREDUPCLASS01| "[=ashi+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.have; to.own, to.possess (ES: poseer, ser.dueño, adueñarse)]::[= (ES: ser.dueño.varias.veces)]" : {ashi} ! ashishita
+#@PRTLREDUPCLASS01| "[=atsik+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {atsik} ! atsitsika
+#@PRTLREDUPCLASS01| "[=chek+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {chek} ! chechek 
+#@PRTLREDUPCLASS01| "[=kaim+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaim} ! kaikaim
+#@PRTLREDUPCLASS01| "[=kimota+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.grow.in.size/volume (ES: crecer)]" : {kimota} ! kikimota
+#@PRTLREDUPCLASS01| "[=ken+prtl.redup@b.copy.][VRoot][=to.walk]" : {ken} ! keken 
+#@PRTLREDUPCLASS01| "[=kinkitsa+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kinkitsa} ! kikinkitsa
+#@PRTLREDUPCLASS01| "[=kis+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.be.angry/furious, to.get.upset/angry (ES: estar.molesto)]" : {kis} ! kikis 
+#@PRTLREDUPCLASS01| "[=koma+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {koma} ! kokoma 
+#@PRTLREDUPCLASS01| "[=kov+prtl.redup@b.copy.][VRoot][=to.want (ES: querer)]::[=to.prefer.strongly]" : {kov} ! kokov 
+#@PRTLREDUPCLASS01| "[=mairi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.be.serious/solemn; to.be.silent (ES: callar, no.contestar/responder)]" : {mairi} ! maimairi 
+#@PRTLREDUPCLASS01| "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pety}
+#@PRTLREDUPCLASS01| "[=saik+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live]" : {saik} ! saisaika 
+#@PRTLREDUPCLASS01| "[=sankena+INF@/EP:t/(a)antsi.+prtl.redup@b.copy.][VRoot][=to.write (ES: escribir)]" : {sankena} ! sasankena 
+#@PRTLREDUPCLASS01| "[=sampi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[= (ES: preguntar.a_cada_rato)]" : {sampi} ! sasampi 
+#@PRTLREDUPCLASS01| "[=pityarank+INF@/EP:t/VC.+prtl.redup@b.copy.][VRoot][=to.bend.over (ES: agacharse)]" : {pityarank}
+#@PRTLREDUPCLASS01| "[=tasonk+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.blow (ES: soplar); to.fan]::[= (ES: soplar.a_cada_rato)]" : {tasonk} ! tatasonk
+#@PRTLREDUPCLASS01| "[=tsaanki+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.hurry (ES: apurarse)]" : {tsaanki} ! tsaatsaanki 
+];
