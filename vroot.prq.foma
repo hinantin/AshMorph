@@ -1081,13 +1081,13 @@ define VRootPRQin [
 ! 
 | "[=koy+INF@aantsi.][VRoot][=to.select (ES: seleccionar)]" : {koy}
 ! 
-| "[=kya][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kya}
-| "[=ky][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ky}
+| "[=kya+INF@antsi.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kya}
+| "[=ky+INF@aantsi.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ky}
 | "[=ki][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ki}
-| "[=kiha][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiha}
-| "[=kiya][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiya}
-| "[=ty][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ty}
-| "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kyakya}
+| "[=kiha+INF@antsi.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiha}
+| "[=kiya+INF@antsi.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kiya}
+| "[=ty+INF@antsi.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ty}
+| "[=kya+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kyakya}
 #@TOTREDUPCLASS01| "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kya} ! kyakya
 ! 
 | "[=machok+INF@V.][VRoot][=to.close.eyes (ES: cerrar.los.ojos)]" : {machok} 
