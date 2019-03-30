@@ -1355,6 +1355,7 @@ define VRootPRQin [
 | "[=ne+INF@aantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ne}
 | "[=ni][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ni}
 | "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyaanyaa}
+#@TOTREDUPCLASS02| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny} ! nyaanyaa
 | "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyanya}
 ! 
 | "[=onyaak][VRoot][=to.show (ES: mostrar)]" : {onyaak}
