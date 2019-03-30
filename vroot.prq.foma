@@ -1306,6 +1306,7 @@ define VRootPRQin [
 | "[=naa+INF@/EP:t/aantsi.][VRoot][=to.chew (ES: masticar)]" : {naa}
 | "[=naa+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.chew (ES: masticar)]" : {naanaa}
 !###| "[no-][VPers][1SG.S/A+][--][=naa+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.chew (ES: masticar)]" : {nonaanonaa} ! @REDUP 
+#@TOTREDUPCLASS03| "[=naa+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.chew (ES: masticar)]" : {naa} ! nonaanonaa 
 | "[=noha+INF@/EP:t/aantsi.][VRoot][=to.chew (ES: masticar)]" : {noha}
 | "[=nashe+INF@/EP:t/aantsi.][VRoot][=to.chew (ES: masticar)]" : {nashe}
 ! 
