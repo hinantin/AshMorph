@@ -30,10 +30,7 @@ define RemoveBrackets %<|%> -> 0;
 source vroot.totredup.class01.foma 
 define LexiconClass1 VRootTotRedupClass01in;
 
-#define LexiconClass1 [ 
-#  "[=koma+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]":{koma}
-#| "[=kya+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]":{kya}
-#]; 
+# -------------------------------------------------------------------------- 
 
 define C1Rule1 [ Cons ([ Vow | Cons ]*) ] -> %< ... %> || .#. _ .#. ;
 define C1Rule2 [..] -> %< \[%<|%>]+ %> || .#. _ %< ;
@@ -45,12 +42,7 @@ define VRootClass1 _eq(preRedup1, %<, %>) .o. RemoveBrackets;
 source vroot.totredup.class02.foma 
 define LexiconClass2 VRootTotRedupClass02in;
 
-#define LexiconClass2 [ 
-#  "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {mi} ! miamia
-#| "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {my} ! myaamyaa
-#| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
-#| "[=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p}
-#]; 
+# -------------------------------------------------------------------------- 
 
 define Lexicon [ LexiconClass2 EP ]; 
 define C2Rule1 [ Cons ([ Vow | Cons ]*) ] -> %[ ... %] || .#. _ .#. ;
@@ -64,10 +56,7 @@ define VRootClass2 _eq(preRedup2, %[, %]) .o. %[|%] -> 0;
 source vroot.totredup.class03.foma 
 define LexiconClass3 VRootTotRedupClass03in;
 
-#define LexiconClass3 [ 
-#  "[=aa+INF@/DEL:a/gaantsi.+tot.redup@unb.copy.][VRoot][=to.take (ES: agarrar)]" : {aa} ! naanaa
-#| "[=aashi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.make.a.group_reunion/meeting (ES: hacer.sesión,, reunir), to.meet]" : {aashi} ! naashinaashi
-#]; 
+# -------------------------------------------------------------------------- 
 
 define C3Lexicon [ P=1 LexiconClass3 (EP) ]; 
 define C3Rule1 [ Cons ([ Vow | Cons ]*) ] -> %( ... %) || .#. _ .#. ;
