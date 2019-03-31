@@ -168,6 +168,9 @@ define NRootESin [
 ! 
 | "[=oveja/ovisha+NCFS000][NRootEs][=sheep]" : {ovisha}
 ! 
+| "[=hospital/osipitari][NRootEs][=hospital]" : {osipitari}
+| "[=hospital/oshipitari][NRootEs][=hospital]" : {oshipitari}
+! 
 | "[=paiche+NPMS000][NRootEs][=fish.sp., paiche-fish.sp.]" : {paiche}
 ! 
 | "[=paño/paanyo+poss@te.][NRootEs][=scarf]" : {paanyo}
