@@ -988,7 +988,7 @@ define NRootPRQin [
 | "[=inkorato][NRoot][=nocturnal.butterfly.worm/larva.sp. (ES: larva.de.mariposa.comestible; sci.nm.: familia.sphingidae); edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {inkorato}
 | "[=korea][NRoot][=nocturnal.butterfly.worm.sp.; edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {korea}
 ! 
-| "[=impari+n.m.][NRoot][=potato.sp. (ES: sp.de.papa, malanga, pituca.blanca; sci.nm.: xanthosoma.sp.)]" : {impari}
+| "[=impari+n.m.+poss@te.][NRoot][=potato.sp. (ES: sp.de.papa, malanga, pituca.blanca; sci.nm.: xanthosoma.sp.)]" : {impari}
 | "[=impaari+n.m.][NRoot][=potato.sp. (ES: sp.de.papa, malanga, pituca.blanca; sci.nm.: xanthosoma.sp.)]" : {impaari}
 ! 
 | "[=impita][NRoot][=river-larva.sp., aquatic.larva (ES: sp.de.larva.que.habita.en.los.ríos; sci.nm.: género.corydalus); (ES: langostino.de.río)]" : {impita}
@@ -3298,7 +3298,7 @@ define NRootPRQin [
 | "[=paante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {paante}
 | "[=panti+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {panti}
 | "[=paanti+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {paanti}
-| "[=pante/pãte+n.m.+inal@ntsi.][NRoot:CPB][=mouth (ES: boca; PT: boca)]" : {pãte}
+| "[=paNte/pãte+n.m.+inal@ntsi.][NRoot:CPB][=mouth (ES: boca; PT: boca)]" : {pãte}
 ! 
 # *********************************************
 # pantyoni ES: 'pato de laguna'
