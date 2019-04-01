@@ -1817,9 +1817,9 @@ define VRootPRQin [
 ! 
 | "[=pomerentsi+INF@/EP:t/aantsi.][VRoot][=to.be.difficult (ES: dificultar)]" : {pomerentsi}
 | "[=pomirintsi+INF@/EP:t/V.][VRoot][=to.be.difficult]" : {pomirintsi}
-| "[=pomirentsi][VRoot][=to.be.difficult]" : {pomirentsi}
-| "[=pomeentsi][VRoot][=to.be.difficult]" : {pomeentsi}
-| "[=pomerentsimo][VRoot][=to.get.difficult (ES: dificultarse)]" : {pomerentsimo}
+| "[=pomirentsi+INF@/EP:t/VC.][VRoot][=to.be.difficult]" : {pomirentsi}
+| "[=pomeentsi+INF@/EP:t/VC.][VRoot][=to.be.difficult]" : {pomeentsi}
+!| "[=pomerentsimo][VRoot][=to.get.difficult (ES: dificultarse)]" : {pomerentsimo}
 ! 
 | "[=pona][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)]" : {pona}
 | "[=ponaa][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)]" : {ponaa}
