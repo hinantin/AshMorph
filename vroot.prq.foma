@@ -1821,8 +1821,8 @@ define VRootPRQin [
 | "[=pomeentsi+INF@/EP:t/VC.][VRoot][=to.be.difficult (ES: dificultar)]" : {pomeentsi}
 !| "[=pomerentsimo][VRoot][=to.get.difficult (ES: dificultarse)]" : {pomerentsimo}
 ! 
-| "[=pona][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)]" : {pona}
-| "[=ponaa][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)]" : {ponaa}
+| "[=pona+INF@/EP:t/aantsi.][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)]" : {pona}
+| "[=ponaa+INF@/EP:t/aantsi.][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear, hacerse.renegrido)]" : {ponaa}
 ! 
 | "[=ponaha][VRoot][=to.be.dark-skinned, to.be.olive-skinned; to.be.bruised; to.have.purple.bruises]" : {ponaha}
 ! 
