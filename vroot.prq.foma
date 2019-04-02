@@ -1864,8 +1864,8 @@ define VRootPRQin [
 | "[=ponk+INF@VC.][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {ponk}
 | "[=poonk+INF@VC.][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {poonk}
 ! 
-| "[=poyee][VRoot][=to.replace (ES: reemplazar)]" : {poyee}
-| "[=poyaa][VRoot][=to.replace (ES: reemplazar)]" : {poyaa}
+| "[=poyee+INF@/EP:t/aantsi.][VRoot][=to.replace (ES: reemplazar)]" : {poyee}
+| "[=poyaa+INF@/EP:t/aantsi.][VRoot][=to.replace (ES: reemplazar)]" : {poyaa}
 ! 
 | "[=py][VRoot][=to.convert, to.transform]" : {py}
 | "[=pi][VRoot][=to.convert, to.transform]" : {pi}
