@@ -1809,9 +1809,9 @@ define VRootPRQin [
 | "[=poimpa][VRoot][=to.sound (ES: sonar)]" : {poimpa}
 # ipaematanakero 
 | "[=paema+INF@/EP:t/VC.][VRoot][=to.sound (ES: sonar)]" : {paema}
-| "[=paima][VRoot][=to.sound (ES: sonar)]" : {paima}
+| "[=paima+INF@/EP:t/VC.][VRoot][=to.sound (ES: sonar)]" : {paima}
 ! 
-| "[=pok][VRoot][=to.come (ES: venir), to.arrive]" : {pok}
+| "[=pok+INF@aantsi.][VRoot][=to.come (ES: venir), to.arrive]" : {pok}
 ! 
 | "[=pokai+INF@/EP:t/aantsi.][VRoot][=to.toast (ES: tostar)]" : {pokai}
 ! 
