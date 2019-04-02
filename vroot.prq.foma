@@ -1838,12 +1838,12 @@ define VRootPRQin [
 | "[=poronk][VRoot][=to.whip.sb.with.ishanga-nettle (ES: castigar.con.hortiga); to.prick.sb./sth.causing.a_lot_of.pain (ES: picar.fuerte)]" : {poronk}
 ! 
 # ------------------------------------------------------
-| "[=pos][VRoot][=to.hit, to.beat, to.crash]" : {pos}
+| "[=pos+INF@aantsi.][VRoot][=to.hit, to.beat, to.crash]" : {pos}
 | "[=posh][VRoot][=to.hit]" : {posh}
 | "[=poh+INF@aantsi.+I-Conj@act.v.][VRoot][=to.hit (ES: golpear)]" : {poh}
-| "[=ompoh][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompoh}
-| "[=ompos][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompos}
-| "[=pos][VRoot][=to.bump.sth. (ES: chancarse.con.algo)]" : {pos}
+| "[=ompoh+INF@aantsi:VC.][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompoh}
+| "[=ompos+INF@aantsi.][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompos}
+| "[=pos+INF@aantsi.][VRoot][=to.bump.sth. (ES: chancarse.con.algo)]" : {pos}
 # ------------------------------------------------------
 ! 
 | "[=posa][VRoot][=to.cook; to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {posa}
