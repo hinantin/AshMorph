@@ -1846,8 +1846,8 @@ define VRootPRQin [
 | "[=pos+INF@aantsi.][VRoot][=to.bump.sth. (ES: chancarse.con.algo)]" : {pos}
 # ------------------------------------------------------
 ! 
-| "[=posa][VRoot][=to.cook; to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {posa}
-| "[=poha][VRoot][=to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {poha}
+| "[=posa+INF@/EP:t/aantsi.][VRoot][=to.cook; to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {posa}
+| "[=poha+INF@/EP:t/aantsi.][VRoot][=to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {poha}
 ! 
 | "[=posaank][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {posaank}
 | "[=vosaank][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {vosaank}
