@@ -660,9 +660,9 @@ define NRootPRQin [
 | "[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]" : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=ẽtsi+n./m.+poss@ti.][NRoot][=child (ES: niño; PT: menino)]" : {ẽtsi}
 ! 
-| "[=iinyeeni+n.m.][NRoot][=sister.in.law (kin.of.a.male)]" : {iinyeeni}
-| "[=inyeni+n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeni}
-| "[=inyeeni+n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeeni}
+| "[=iinyeeni/iiñeeni+n.m.][NRoot][=sister.in.law (kin.of.a.male)]" : {iinyeeni}
+| "[=inyeni/iñeni+n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeni}
+| "[=inyeeni/iñeeni+n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeeni}
 ! 
 | "[=ehoki][NRoot][=fly.sp. (ES: mosquito, manta.blanca)]" : {ehoki}
 ! 
