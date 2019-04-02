@@ -1543,10 +1543,6 @@ define VRootPRQin [
 ! 
 | "[=otsak+INF@aantsi.][VRoot][=to.sow.seeds.digging.holes.with.a_stake (ES: sembrar.semillas.haciendo.hueco.con.estaca)]" : {otsak} 
 ! 
-| "[=ompoh][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompoh}
-| "[=ompos][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompos}
-| "[=pos][VRoot][=to.bump.sth. (ES: chancarse.con.algo)]" : {pos}
-! 
 | "[=ore+INF@aantsi.+poss@ane.][VRoot][=to.put.food.for.an.animal.in.the.feeding_trough (ES: dar/echar.la.comida.de.animales.en.un.comedero)]" : {ore}
 ! 
 | "[=oria{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsaoriavintsa}
@@ -1841,13 +1837,17 @@ define VRootPRQin [
 ! 
 | "[=poronk][VRoot][=to.whip.sb.with.ishanga-nettle (ES: castigar.con.hortiga); to.prick.sb./sth.causing.a_lot_of.pain (ES: picar.fuerte)]" : {poronk}
 ! 
+# ------------------------------------------------------
 | "[=pos][VRoot][=to.hit, to.beat, to.crash]" : {pos}
 | "[=posh][VRoot][=to.hit]" : {posh}
+| "[=poh+INF@aantsi.+I-Conj@act.v.][VRoot][=to.hit (ES: golpear)]" : {poh}
+| "[=ompoh][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompoh}
+| "[=ompos][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompos}
+| "[=pos][VRoot][=to.bump.sth. (ES: chancarse.con.algo)]" : {pos}
+# ------------------------------------------------------
 ! 
 | "[=posa][VRoot][=to.cook; to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {posa}
 | "[=poha][VRoot][=to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {poha}
-! 
-| "[=poh+INF@aantsi.][VRoot][=to.hit (ES: golpear)]" : {poh}
 ! 
 | "[=posaank][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {posaank}
 | "[=vosaank][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {vosaank}
