@@ -1856,13 +1856,13 @@ define VRootPRQin [
 | "[=poshine][VRoot][=to.be.tasty; to.be.delicious]" : {poshine}
 ! 
 | "[=potesa][VRoot][=to.ooze.liquid (ES: salir.líquido)]" : {potesa}
-| "[=potesaa][VRoot][=to.ooze.liquid (ES: salir.líquido)]" : {potesaa}
+| "[=potesaa+INF@/EP:t/VC.][VRoot][=to.ooze.liquid (ES: salir.líquido)]" : {potesaa}
 ! 
 | "[=potso+INF@/EP:t/aantsi.][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto]" : {potso}
 ! 
 # batir: derribar a golpes algo (pared/edificio) 
-| "[=ponk][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {ponk}
-| "[=poonk][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {poonk}
+| "[=ponk+INF@VC.][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {ponk}
+| "[=poonk+INF@VC.][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {poonk}
 ! 
 | "[=poyee][VRoot][=to.replace (ES: reemplazar)]" : {poyee}
 | "[=poyaa][VRoot][=to.replace (ES: reemplazar)]" : {poyaa}
