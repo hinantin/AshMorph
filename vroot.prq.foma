@@ -1684,10 +1684,11 @@ define VRootPRQin [
 | "[=pey][VRoot][=to.get.lost; to.lose (ES: perder); to.disappear (ES: desaparecer)]" : {pey}
 | "[=piy][VRoot][=to.get.lost; to.lose (ES: perder); to.disappear (ES: desaparecer)]" : {piy}
 ! 
-| "[=piy][VRoot][=to.poison (ES: envenenar)]" : {piy}
+| "[=piy+INF@aantsi.][VRoot][=to.poison (ES: envenenar)]" : {piy}
+| "[=pi+INF@aantsi.][VRoot][=to.poison (ES: envenenar)]" : {pi}
 ! 
-| "[=piako][VRoot][=to.forget (ES: olvidar)]" : {piako}
-| "[=piyako][VRoot][=to.forget (ES: olvidar)]" : {piyako}
+| "[=piako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)]" : {piako}
+| "[=piyako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)]" : {piyako}
 ! 
 | "[=per][VRoot][=to.be.idle, to.laze.around (ES: estar.con.pereza); to.bum.around (ES: vagar)]" : {per}
 | "[=pera][VRoot][=to.be.idle, to.laze.around (ES: estar.con.pereza); to.bum.around (ES: vagar)]" : {pera}
@@ -1867,11 +1868,11 @@ define VRootPRQin [
 | "[=poyee+INF@/EP:t/aantsi.][VRoot][=to.replace (ES: reemplazar)]" : {poyee}
 | "[=poyaa+INF@/EP:t/aantsi.][VRoot][=to.replace (ES: reemplazar)]" : {poyaa}
 ! 
-| "[=py][VRoot][=to.convert, to.transform]" : {py}
+| "[=py+INF@aantsi.][VRoot][=to.convert, to.transform]" : {py}
 | "[=pi][VRoot][=to.convert, to.transform]" : {pi}
-| "[=piy][VRoot][=to.convert, to.transform]" : {piy}
-| "[=pe][VRoot][=to.convert, to.transform]" : {pe}
-| "[=pey][VRoot][=to.convert, to.transform]" : {pey}
+| "[=piy+INF@aantsi.][VRoot][=to.convert, to.transform]" : {piy}
+| "[=pe+INF@aantsi.][VRoot][=to.convert, to.transform]" : {pe}
+| "[=pey+INF@aantsi.][VRoot][=to.convert, to.transform]" : {pey}
 ! 
 | "[=pety+INF@/EP:tz/V.][VRoot][=to.blink (ES: parpadear)]" : {pety}
 | "[=pity][VRoot][=to.blink (ES: parpadear)]" : {pity}
