@@ -1700,9 +1700,9 @@ define VRootPRQin [
 | "[=pis+INF@antsi.][VRoot][=to.hack.with.a.machete, to.cut.vegetation.with.a.machete]" : {pis}
 | "[=pih][VRoot][=to.hack.with.a.machete]" : {pih}
 ! 
-| "[=pich][VRoot][=to.grind.sth., to.get.softer, to.crush.sth.]" : {pich}
+| "[=pich+INF@agaanti:aantsi.][VRoot][=to.grind.sth. (ES: moler), to.get.softer (ES: ablandarse), to.crush.sth. (ES: machacar)]" : {pich}
 | "[=picha][VRoot][=to.crush.sth.]" : {picha}
-| "[=pichov][VRoot][=to.grind.sth.]" : {pichov}
+| "[=pichov+INF@VC.][VRoot][=to.grind.sth. (prbly.a.soft.substance)]" : {pichov}
 ! 
 | "[=pichak][VRoot][=to.patch.sth. (ES: parchar.algo)]" : {pichak}
 ! 
