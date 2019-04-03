@@ -1527,7 +1527,7 @@ define VRootPRQin [
 | "[=otey][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)]" : {otey}
 | "[=otiy][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)]" : {otiy}
 | "[=te+INF@/EP:t/aantsi.][VRoot][=to.take.sth.; to.insert (ES: meter); to.board (ES: embarcar)]" : {te}
-| "[=tet][VRoot][=to.fill, to.enclose.]" : {tet}
+| "[=tet+INF@aantsi.][VRoot][=to.fill, to.enclose.sth.in/with.sth.]" : {tet}
 # notetentapintarori
 | "[=tetent][VRoot][=to.fill (ES: llenar)]" : {tetent} ! reduplication ?
 # --------------------------------------------------------------------------------- 
