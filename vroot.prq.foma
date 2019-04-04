@@ -12,7 +12,7 @@
 # 2: +tot.redup@unb.copy., +prtl.redup@b.copy.
 # 3: +poss@(a)ane. (nominalizer for abstract nouns: -ane, -aane) 
 #    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.
-# 4: +I-Conj@act.v. 
+# 4: +I-Conj@act.v.  <- +prop@t. 
 #    i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
 #    +A-Conj@mid.v. , 
 #    a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
@@ -363,10 +363,10 @@ define VRootPRQin [
 ! 
 ! shira: slip.sound, slipping 
 | "[=aashirank+INF@aantsi.][VRoot][=to.slip (ES: resbalar)]" : {aashirank}
-| "[=ashirari+INF@antsi.][VRoot][=to.slip (ES: resbalar(se))]" : {ashirari}
+| "[=ashirari+INF@antsi.+A-Conj@mid.v.][VRoot][=to.slip (ES: resbalar(se))]" : {ashirari}
 | "[=shira][VRoot][=to.slip (ES: resbalar)]" : {shira}
 ! 
-| "[=ashe+prop@t.][VRoot][=to.wet.sth. (ES: mojar)]" : {ashe}
+| "[=ashe+I-Conj@act.v.][VRoot][=to.wet.sth. (ES: mojar)]" : {ashe}
 ! 
 | "[=ashinonk][VRoot][=to.suffer (ES: sufrir); to.be.poor]" : {ashinonk}
 | "[=ashinonka][VRoot][=to.suffer.from.sth.; to.suffer (ES: sufrir)]" : {ashinonka}
@@ -733,8 +733,8 @@ define VRootPRQin [
 ! 
 | "[=kashi+INF@aantsi.][VRoot][=to.threaten.sb./sth. (ES: amenazar)]" : {kashi}
 !
-| "[=kashiy+prop@t.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashiy}
-| "[=kashi+INF@aantsi.+prop@t.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashi}
+| "[=kashiy+I-Conj@act.v.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashiy}
+| "[=kashi+INF@aantsi.+I-Conj@act.v.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashi}
 ! 
 | "[=kats][VRoot][=to.feel.pain (ES: doler)]" : {kats}
 | "[=katsi+INF@/EP:t/antsi.][VRoot][=to.feel.pain (ES: doler); to.be.in.pain; to.cause.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
@@ -2132,7 +2132,7 @@ define VRootPRQin [
 | "[=shiak+INF@aantsi.][VRoot][=to.take.a.picture (ES: tomar.una.foto)]" : {shiak}
 | "[=shiyakant][VRoot][=to.take.a.picture (ES: tomar.una.foto)]" : {shiyakant}
 ! 
-| "[=shitzi+prop@t.][VRoot][=to.stink, to.contaminate.with.bad.smell; to.rot, to.decompose]" : {shitzi}
+| "[=shitzi+I-Conj@act.v.][VRoot][=to.stink, to.contaminate.with.bad.smell; to.rot, to.decompose]" : {shitzi}
 # kaniri shitzivavo / =kaniri+n.m. =shitziv -a -vo+n.m. / =to.rot -ep -adj / EN: 'rotten' 
 | "[=shitziv+INF@V.][VRoot][=to.stink, to.contaminate.with.bad.smell; to.rot, to.decompose]" : {shitziv}
 ! 
