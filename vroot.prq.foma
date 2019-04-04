@@ -1312,8 +1312,8 @@ define VRootPRQin [
 | "[=noha+INF@/EP:t/aantsi.][VRoot][=to.chew (ES: masticar)]" : {noha}
 | "[=nashe+INF@/EP:t/aantsi.][VRoot][=to.chew (ES: masticar)]" : {nashe}
 ! 
-| "[=nashi][VRoot][=to.separate]" : {nashi}
-| "[=naashi][VRoot][=to.separate]" : {naashi}
+| "[=nashi+INF@/EP:t/aantsi.][VRoot][=to.separate (ES: separar)]" : {nashi}
+| "[=naashi+INF@/EP:t/aantsi.][VRoot][=to.separate]" : {naashi}
 ! 
 | "[=nampi][VRoot][=to.be.in.big.quantity (ES: abundar)]" : {nampi}
 ! 
