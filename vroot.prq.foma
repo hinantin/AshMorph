@@ -253,8 +253,11 @@ define VRootPRQin [
 ! 
 | "[=ampitsa+INF@/EP:t/VC.][VRoot][=to.be.wrinkled (ES: estar.arrugado)]" : {ampitsa}
 ! 
+# -------------------------------------------------------- 
 | "[=ampitsa][VRoot][=to.twist (ES: torcer)]" : {ampitsa}
-| "[=ampita][VRoot][=to.twist (ES: torcer)]" : {ampita}
+| "[=ampita][VRoot][=to.twist (ES: torcer); to.plait, to.braid (ES: trenzar)]" : {ampita}
+| "[=apita+INF@/EP:t/VC.][VRoot][=to.plait, to.braid (ES: trenzar)]" : {apita}
+# -------------------------------------------------------- 
 ! 
 | "[=amponat][VRoot][=to.wrap]" : {amponat}
 ! 
