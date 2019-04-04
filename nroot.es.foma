@@ -167,6 +167,7 @@ define NRootESin [
 | "[=uva/ova+NCFS000][NRootEs][=grape]" : {ova}
 ! 
 | "[=oveja/ovisha+NCFS000][NRootEs][=sheep]" : {ovisha}
+| "[=oveja/oisha+NCFS000+poss@te.][NRootEs][=sheep]" : {oisha}
 ! 
 | "[=hospital/osipitari][NRootEs][=hospital]" : {osipitari}
 | "[=hospital/oshipitari][NRootEs][=hospital]" : {oshipitari}
