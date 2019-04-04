@@ -3749,9 +3749,10 @@ define NRootPRQin [
 | "[=poritea][NRoot][=dwarf (ES: enano)]" : {poritea}
 ! 
 | "[=poro+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
+| "[=pooro+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {pooro}
 # pootsi / =poo -tsi / =face -nposs / EN: 'face', ES: 'cara' 
 | "[=poo+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poo}
-| "[=voro][NRoot][=face (ES: cara, rostro)]" : {voro} 
+| "[=voro][NRoot][=face (ES: cara, rostro)]" : {voro} ! to be checked 
 ! 
 | "[=poroki][NRoot][=bunch; plant.sp. (ES: achotillo)]" : {poroki}
 | "[=poorooki+n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {poorooki}
