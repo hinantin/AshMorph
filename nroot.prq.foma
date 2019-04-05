@@ -684,8 +684,8 @@ define NRootPRQin [
 | "[=Eni][NP][=river (Ene.river)]" : {eni}
 | "[=Ene][NP][=river (Ene.river)]" : {ene}
 ! 
-| "[=erama][NP][=2-3cm-size.yellow-bellied.black.worm.sp.]" : {erama}
-| "[=erama][NRoot][=edible.butterfly.larva.sp. (ES: larva.comestible.de.mariposa; sci.nm.: familia.notodontidae)]" : {erama} 
+| "[=erama+m.][NRoot][=2-3cm-size.yellow-bellied.black.worm.sp.]" : {erama}
+| "[=erama+m.][NRoot][=edible.butterfly.larva.sp. (ES: larva.comestible.de.mariposa; sci.nm.: familia.notodontidae)]" : {erama} 
 ! 
 | "[=ereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {ereki}
 | "[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {eereki}
