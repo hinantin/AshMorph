@@ -4542,8 +4542,8 @@ define NRootPRQin [
 | "[=soroni+m.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni; PT: preguiça)]" : {soroni}
 | "[=sorooni+m.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni; PT: preguiça)]" : {sorooni}
 ! 
-| "[=sorome][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {sorome}
-| "[=soromee][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {soromee}
+| "[=sorome+m.][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {sorome}
+| "[=soromee+m.][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {soromee}
 | "[=soromai+m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {soromai}
 | "[=soomai+m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {soomai}
 | "[=somai+m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {somai}
@@ -4733,6 +4733,8 @@ define NRootPRQin [
 | "[=timpinare][NRoot][=swallow.sp. (ES: sp.de.golondrina)]" : {timpinare} 
 ! 
 | "[=tzino+n.m.+inal@tsi][NRoot][=edible.tuber (ES: tubérculo.comestible, sp.de.dale-dale)]" : {tzino} 
+! 
+| "[=tzinyoori/tziñoori+m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tzinyoori} 
 ! 
 | "[=tiri+m.+poss@ni.][NRoot][=tar (ES: brea)]" : {tiri}
 | "[=tziri+m.+poss@ni.][NRoot][=tar (ES: brea, resina)]" : {tziri}
@@ -5095,7 +5097,7 @@ define NRootPRQin [
 | "[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; PT: auricuri; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea, scheelea.cephalotes)]" : {tsiyaro}
 | "[=tsiyavo+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; PT: auricuri; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea, scheelea.cephalotes)]" : {tsiyavo}
 ! 
-| "[=tsiyaavo][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tsiyaavo}
+| "[=tsiyaavo+m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tsiyaavo}
 ! 
 | "[=tsiyeri+m.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyeri}
 | "[=tsiyiri+m.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyiri}
