@@ -761,7 +761,7 @@ define VRootPRQin [
 | "[=katsova][VRoot][=to.drip, to.leak.from.roof]" : {katsova}
 ! word set:
 | "[=katziy+INF@aantsi.][VRoot][=to.stand (ES: pararse); to.stand.guard; to.be.erect (ES: estar.recto); to.stand.up]" : {katziy}
-| "[=katiy][VRoot][=to.stand; to.stand.guard; to.be.erect; to.stand.up]" : {katiy}
+| "[=katiy+INF@VC.][VRoot][=to.stand; to.stand.guard; to.be.erect; to.stand.up]" : {katiy}
 | "[=kati+INF@aantsi.][VRoot][=to.stand; to.stand.guard; to.be.erect; to.stand.up]" : {kati}
 ! 
 | "[=katik+INF@aantsi.][VRoot][=to.hang (ES: ahorcar)]" : {katik}
@@ -1061,10 +1061,10 @@ define VRootPRQin [
 ! 
 | "[=koshe][VRoot][=to.scrape.a.thin.layer.from.a.surface]" : {koshe}
 ! word set:
-| "[=koshi][VRoot][=to.kidnap]" : {koshi}
-| "[=koshi][VRoot][=to.steal; to.rob (ES: robar)]" : {koshi}
+| "[=koshi+INF@/EP:t/aantsi.][VRoot][=to.kidnap]" : {koshi}
+| "[=koshi+INF@/EP:t/aantsi.][VRoot][=to.steal; to.rob (ES: robar)]" : {koshi} ! V@->N::[=profit (ES: lucro)] 
 ! 
-| "[=kotsi][VRoot][=to.cook (ES: cocinar)]" : {kotsi}
+| "[=kotsi+INF@antsi.][VRoot][=to.cook (ES: cocinar, preparar.comida)]" : {kotsi}
 ! 
 | "[=kotzi][VRoot][=to.walk.with.a.cane]" : {kotzi}
 ! 
