@@ -721,17 +721,18 @@ define VRootPRQin [
 | "[=kaara][VRoot][=to.lack.sth. (ES: carecer)]" : {kaara}
 | "[=kahara][VRoot][=to.lack.sth. (ES: carecer)]" : {kahara}
 ! 
+# karajarontsi / karaharontsi / ES: 'rotura' 
 | "[=kar][VRoot][=to.break (ES: quebrar)]" : {kar}
-| "[=karah+INF@aantsi.][VRoot][=to.break (ES: fracturar)]" : {karah}
-| "[=karaha+INF@antsi.][VRoot][=to.break (ES: fracturar)]" : {karaha}
+| "[=karah+INF@aantsi.][VRoot][=to.break (ES: romper, fracturar)]" : {karah}
+| "[=karaha+INF@antsi.][VRoot][=to.break (ES: romper, fracturar)]" : {karaha}
 ! 
 | "[=karentsa+INF@/EP:t/VC.][VRoot][=to.be.phlegmy (ES: estar.flemoso); to.be.viscous (ES: estar.viscoso); to.be.slippery (ES: estar.resbaloso)]" : {karentsa}
 | "[=karentsaa+INF@/EP:t/VC.][VRoot][=to.be.phlegmy (ES: estar.flemoso); to.be.viscous (ES: estar.viscoso); to.be.slippery (ES: estar.resbaloso)]" : {karentsaa}
 ! 
-| "[=karina][VRoot][=to.paint (ES: pintar, colorar)]" : {karina}
-| "[=kanina][VRoot][=to.paint (ES: pintar, colorar)]" : {kanina}
+| "[=karina+INF@/EP:t/VC.][VRoot][=to.paint (ES: pintar, colorar)]" : {karina}
+| "[=kanina+INF@/EP:t/VC.][VRoot][=to.paint (ES: pintar, colorar)]" : {kanina}
 ! 
-| "[=kasa][VRoot][=to.cook.manioc]" : {kasa}
+| "[=kasa+INF@/EP:t/VC.][VRoot][=to.cook.manioc]" : {kasa}
 ! 
 | "[=kashi+INF@aantsi.][VRoot][=to.threaten.sb./sth. (ES: amenazar)]" : {kashi}
 !
