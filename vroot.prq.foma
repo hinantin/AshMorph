@@ -2468,19 +2468,20 @@ define VRootPRQin [
 | "[=ty][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.caer)]" : {ty}
 | "[=tya][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.caer)]" : {tya}
 ! 
-| "[=tyaki][VRoot][=to.blossom (ES: florecer)]" : {tyaki}
-| "[=tyaaki][VRoot][=to.blossom (ES: florecer)]" : {tyaaki}
-| "[=teyaki][VRoot][=to.blossom (ES: florecer)]" : {teyaki}
+| "[=tyaki+INF@/EP:t/V.][VRoot][=to.blossom (ES: florecer)]" : {tyaki}
+| "[=tyaaki+INF@/EP:t/V.][VRoot][=to.blossom (ES: florecer)]" : {tyaaki}
+| "[=teyaki+INF@/EP:t/V.][VRoot][=to.blossom (ES: florecer)]" : {teyaki}
 ! word set:
 | "[=tyank+INF@antsi.][VRoot][=to.send (ES: mandar)]" : {tyank}
 | "[=tiank+INF@aantsi.][VRoot][=to.send (ES: mandar, enviar)]" : {tiank}
 | "[=tiyank+INF@VC.][VRoot][=to.send (ES: mandar, enviar)]" : {tiyank}
 ! 
-| "[=tiyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear)); to.go.upstream (ES: ir.río.arriba)]" : {tiyaat}
-| "[=tziyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tziyaat}
+| "[=tiyaat+INF@VC.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear)); to.go.upstream (ES: ir.río.arriba)]" : {tiyaat}
+| "[=tziyaat+INF@aantsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tziyaat}
 | "[=tziyaa~{'to.ply':tziya}{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tziyaa}
-| "[=otziyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {otziyaat}
-| "[=tiaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tiaat}
+| "[=otziyaat+INF@/EP:t/V.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {otziyaat}
+| "[=otziyat+INF@/EP:t/V.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {otziyat}
+| "[=tiaat+INF@aantsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tiaat}
 | "[=otziy+INF@aantsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {otziy}
 ! 
 | "[=tyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tyerov}
