@@ -1764,14 +1764,14 @@ define VRootPRQin [
 | "[=pishenk+INF@aantsi.][VRoot][=to.dig (ES: escarbar)]" : {pishenk}
 | "[=pishek+INF@aantsi.][VRoot][=to.dig (ES: escarbar)]" : {pishek}
 ! 
-| "[=pishonk][VRoot][=to.throw.sth. (ES: tirar, lanzar, botar)]" : {pishonk}
-| "[=apishoonk][VRoot][=to.throw.sth. (ES: tirar, lanzar, botar)]" : {apishoonk}
-| "[=apishonk][VRoot][=to.throw.sth. (ES: tirar, lanzar, botar)]" : {apishonk}
-| "[=san][VRoot][=to.throw.sth. (ES: tirar, lanzar)]" : {san}
+| "[=pishonk+INF@aantsi.][VRoot][=to.throw.sth. (ES: tirar, lanzar, botar)]" : {pishonk}
+| "[=apishoonk+INF@aantsi.][VRoot][=to.throw.sth. (ES: tirar, lanzar, botar)]" : {apishoonk}
+| "[=apishonk+INF@aantsi.][VRoot][=to.throw.sth. (ES: tirar, lanzar, botar)]" : {apishonk}
+| "[=san+INF@aantsi.][VRoot][=to.throw.sth. (ES: tirar, lanzar)]" : {san}
 ! 
 | "[=pitasa+INF@/EP:t/V.][VRoot][=to.fish.with.a.small.hook (ES: ansolear)]" : {pitasa}
 | "[=pitasaa+INF@/EP:t/V.][VRoot][=to.fish.with.a.small.hook (ES: ansolear)]" : {pitasaa}
-| "[=ampitasa][VRoot][=to.fish.with.a.(small).hook (ES: ansolear)]" : {ampitasa}
+| "[=ampitasa+INF@/EP:t/V.][VRoot][=to.fish.with.a.(small).hook (ES: ansolear)]" : {ampitasa}
 ! 
 | "[=pitsari+INF@antsi.][VRoot][=to.tear.to.pieces (ES: despedazar)]" : {pitsari}
 ! 
