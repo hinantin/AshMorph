@@ -2472,9 +2472,9 @@ define VRootPRQin [
 | "[=tyaaki][VRoot][=to.blossom (ES: florecer)]" : {tyaaki}
 | "[=teyaki][VRoot][=to.blossom (ES: florecer)]" : {teyaki}
 ! word set:
-| "[=tyank][VRoot][=to.send (ES: mandar)]" : {tyank}
-| "[=tiank][VRoot][=to.send (ES: mandar)]" : {tiank}
-| "[=tiyank][VRoot][=to.send (ES: mandar)]" : {tiyank}
+| "[=tyank+INF@antsi.][VRoot][=to.send (ES: mandar)]" : {tyank}
+| "[=tiank+INF@aantsi.][VRoot][=to.send (ES: mandar, enviar)]" : {tiank}
+| "[=tiyank+INF@VC.][VRoot][=to.send (ES: mandar, enviar)]" : {tiyank}
 ! 
 | "[=tiyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear)); to.go.upstream (ES: ir.río.arriba)]" : {tiyaat}
 | "[=tziyaat][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tziyaat}
