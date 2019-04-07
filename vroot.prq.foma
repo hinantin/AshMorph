@@ -1114,9 +1114,11 @@ define VRootPRQin [
 | "[=mairent][VRoot][=to.stay.quiet (ES: callar, quedarse.callado)]" : {mairent} 
 | "[=mairen][VRoot][=to.stay.quiet (ES: callar, quedarse.callado)]" : {mairen} 
 ! 
-| "[=maisant][VRoot][=to.forget (ES: olvidar)]" : {maisant} 
+| "[=maisant+INF@antsi.][VRoot][=to.forget (ES: olvidar)]" : {maisant} 
 | "[=peako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)]" : {peako} 
 | "[=pyaako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)]" : {pyaako} 
+| "[=peyako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)]" : {peyako} 
+| "[=piyako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)]" : {piyako} 
 ! 
 | "[=mako][VRoot][=to.tire; to.rest; to.get.tired (ES: cansarse)]" : {mako}  
 | "[=mao][VRoot][=to.get.tired (ES: cansarse)]" : {mao} 
