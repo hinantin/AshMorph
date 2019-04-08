@@ -2494,8 +2494,8 @@ define VRootPRQin [
 | "[=tiyo+INF@/EP:t/aantsi.][VRoot][=to.honk (ES: bocinar)]" : {tiyo}
 | "[=tzivoo+INF@/EP:t/aantsi.][VRoot][=to.honk (ES: bocinar)]" : {tzivoo}
 ! 
-| "[=tyoonk][VRoot][=to.bathe]" : {tyoonk}
-| "[=tyoonk][VRoot][=to.bathe.in.steam]" : {tyoonk}
+| "[=tyoonk+INF@antsi.][VRoot][=to.bathe]" : {tyoonk}
+| "[=tyoonk+INF@antsi.][VRoot][=to.bathe.in.steam]" : {tyoonk} ! V@->N::[=treatment] 
 ! 
 | "[=tyonkityoki][VRoot][=to.dance (ES: bailar)]" : {tyonkityoki}
 | "[=shevaporokint][VRoot][=to.dance (ES: bailar)]" : {shevaporokint}
