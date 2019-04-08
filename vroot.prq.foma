@@ -2518,7 +2518,7 @@ define VRootPRQin [
 | "[=tsimank][VRoot][=to.cast.a.shadow (ES: ensombrecer)]" : {tsimank}
 ! 
 | "[=tsimiy+INF@(a)antsi.][VRoot][=to.suck (ES: chupar)]" : {tsimiy}
-| "[=atsimiy][VRoot][=to.suck (ES: chupar)]" : {atsimiy}
+| "[=atsimiy+INF@antsi.][VRoot][=to.suck (ES: chupar)]" : {atsimiy}
 | "[N=][IRR+][--][=atsimiy][VRoot][=to.suck (ES: chupar)]" : {antsimiy}
 ! 
 | "[=tsimoiro][VRoot][=to.get.dark (ES: oscurecerse)]" : {tsimoiro}
