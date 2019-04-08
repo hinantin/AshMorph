@@ -2529,8 +2529,8 @@ define VRootPRQin [
 | "[=tzimpin+INF@antsi.][VRoot][=to.get.lost (ES: extraviarse)]" : {tzimpin}
 | "[=timpin+INF@antsi.][VRoot][=to.get.lost (ES: extraviarse)]" : {timpin}
 ! 
-| "[=tzimpa][VRoot][=to.stretch (ES: estirar); to.elongate]" : {tzimpa}
-| "[=timpa][VRoot][=to.stretch (ES: estirar); to.elongate]" : {timpa}
+| "[=tzimpa+INF@/EP:t/VC.][VRoot][=to.stretch (ES: estirar); to.elongate]" : {tzimpa}
+| "[=timpa+INF@/EP:t/VC.][VRoot][=to.stretch (ES: estirar); to.elongate]" : {timpa}
 ! 
 | "[=tzin+INF@agaantsi:aantsi.][VRoot][=to.rise (ES: levantarse); to.get.up]" : {tzin}
 ! 
