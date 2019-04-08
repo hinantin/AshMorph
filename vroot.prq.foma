@@ -2558,7 +2558,7 @@ define VRootPRQin [
 | "[=oam][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {oam}
 | "[=ov+INF@aantsi.][VRoot][=to.kill (ES: matar)]" : {ov}
 ! 
-| "[=oapatank][VRoot][=to.patch (ES: parchar)]" : {oapatank}
+| "[=oapatank+INF@V.][VRoot][=to.patch (ES: parchar)]" : {oapatank}
 ! 
 | "[=ovatsina+INF@antsi.][VRoot][= (ES: magullar)]" : {ovatsina}
 | "[=oatsina+INF@VC.][VRoot][= (ES: magullar)]" : {oatsina}
