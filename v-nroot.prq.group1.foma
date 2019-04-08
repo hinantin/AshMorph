@@ -13,6 +13,7 @@ define VerbToNounPRQin [
 | "[=kamarank+INF@aantsi.][VRoot][=to.vomit (ES: vomitar)]::[=vomit (ES: vómito)][^NMZ]" : {kamarank} ! V@->N::[=vomit (ES: vómito)] 
 | "[=kempe+INF@/EP:t/aantsi.][VRoot][=to.be.similar.to.sb/sth, to.seem (ES: ser.como.algn.); to.imitate]::[=resemblance (ES: semejanza)][^NMZ]" : {kempe} ! V@->N::[=resemblance (ES: semejanza)] 
 | "[=kis+INF@aantsi.+poss@ane.][VRoot][=to.be.angry/furious, to.get.upset/angry (ES: estar.molesto)]::[=anger (ES: ira, cólera)][^NMZ]" : {kis} ! V@->N::[=anger (ES: ira, cólera)] 
+| "[=koshi+INF@/EP:t/aantsi.][VRoot][=to.steal; to.rob (ES: robar)]::[=profit (ES: lucro)][^NMZ]" : {koshi} ! V@->N::[=profit (ES: lucro)] 
 | "[=mahere+INF/EP:t/aantsi.][VRoot][=to.be.silent (ES: callar)]::[=silence (ES: silencio)][^NMZ]" : {mahere} ! V@->N::[=silence (ES: silencio)] 
 | "[=pampoy+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]::[=song (ES: canción)][^NMZ]" : {pampoy} ! V@->N::[=song (ES: canción)] 
 | "[=mana+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: luchar)]::[=fighting (ES: lucha, enfrentamiento)][^NMZ]" : {mana} ! V@->N::[=fighting (ES: lucha, enfrentamiento)] 
@@ -31,6 +32,7 @@ define VerbToNounPRQin [
 | "[=shipok+INF@(a)antsi.][VRoot][=to.diagnose_an_ailment-and-to.cure.it.with.rising.vapor.from.stone-heated.medicinal_herbs; to.evaporate (ES: evaporar)]::[=sauna (ES: sauna)][^NMZ]" : {shipok} ! V@->N::[=sauna (ES: sauna)] 
 | "[=tsionk+INF@aantsi.][VRoot][=to.generate.steam.for.curing.an.illness (ES: producir.vapor.para_curaciones/accidentalmente)]::[=sauna (ES: sauna)][^NMZ]" : {tsionk} ! V@->N::[=sauna (ES: sauna)] 
 | "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]::[=scare (ES: susto)][^NMZ]" : {tsarov} ! V@->N::[=scare (ES: susto)]
+| "[=tyoonk+INF@(a)antsi.][VRoot][=to.bathe.in.steam]::[=treatment (ES: evaporación)][^NMZ]" : {tyoonk} ! V@->N::[=treatment (ES: evaporación)] 
 | "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
 | "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
 ];
