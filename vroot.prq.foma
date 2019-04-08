@@ -2523,8 +2523,8 @@ define VRootPRQin [
 ! 
 | "[=tsimoiro][VRoot][=to.get.dark (ES: oscurecerse)]" : {tsimoiro}
 ! 
-| "[=tseente][VRoot][=to.kneel.(down) (ES: arrodillarse); to.squat (ES: acuclillarse)]" : {tseente}
-| "[=tsente][VRoot][=to.kneel.(down) (ES: arrodillarse); to.squat (ES: acuclillarse)]" : {tsente}
+| "[=tseente+INF@/EP:t/V.][VRoot][=to.kneel.(down) (ES: arrodillarse); to.squat (ES: acuclillarse)]" : {tseente}
+| "[=tsente+INF@/EP:t/V.][VRoot][=to.kneel.(down) (ES: arrodillarse); to.squat (ES: acuclillarse)]" : {tsente}
 ! 
 | "[=tzimpin+INF@antsi.][VRoot][=to.get.lost (ES: extraviarse)]" : {tzimpin}
 | "[=timpin+INF@antsi.][VRoot][=to.get.lost (ES: extraviarse)]" : {timpin}
