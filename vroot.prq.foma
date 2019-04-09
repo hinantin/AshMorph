@@ -2341,6 +2341,7 @@ define VRootPRQin [
 | "[=tsae+INF@/EP:t/aantsi.][VRoot][=to.cultivate (ES: cultivar), to.clear.an.area]" : {tsae}
 # ------------------------------------------------------------------
 ! 
+! tsamankirentsi / ES: 'columpio'; EN: 'swing' 
 | "[=tsamank][VRoot][=to.swing, to.rock.to-and-fro (ES: columpiarse)]" : {tsamank}
 | "[=tsamanki+INF@/EP:t/VC.][VRoot][=to.swing, to.rock.to-and-fro (ES: columpiarse)]" : {tsamanki}
 | "[=atsamanki+INF@/EP:t/VC.][VRoot][=to.swing, to.rock.to-and-fro (ES: columpiarse)]" : {atsamanki}
@@ -2360,7 +2361,7 @@ define VRootPRQin [
 | "[=tsare][VRoot][=to.drool (ES: babear)]" : {tsare}
 | "[=tsaari][VRoot][=to.drool (ES: babear)]" : {tsaari}
 ! 
-| "[=tsaro][VRoot][=to.bark (ES: ladrar)]" : {tsaro}
+| "[=tsaro+INF@/EP:t/aantsi.][VRoot][=to.bark (ES: ladrar)]" : {tsaro}
 | "[=tsaa][VRoot][=to.bark (ES: ladrar); to.make.an.animal.sound]" : {tsaa}
 | "[=tsa][VRoot][=to.bark (ES: ladrar); to.make.an.animal.sound]" : {tsa}
 ! 
