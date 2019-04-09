@@ -23,6 +23,7 @@ define VerbToNounPRQin [
 | "[=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)]::[=love (ES: amor); lover (ES: enamorado)][^NMZ]" : {nint} ! V@->N::[=love (ES: amor); lover (ES: enamorado)] 
 | "[=ovayeri+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: guerrear, combatir)]::[=combat (ES: guerra)][^NMZ]" : {ovayeri} ! V@->N::[=combat (ES: guerra)] 
 | "[=pashivent+INF@aantsi.][VRoot][=to.embarrass, to.be.embarrassed (ES: avergonzar(se), tener.vergüenza)]::[=shame (ES: vergüenza)][^NMZ]" : {pashivent} ! V@->N::[=shame (ES: vergüenza)] 
+| "[=vashivent+INF@antsi.][VRoot][=to.shame.sb.]::[=shaming (ES: vergüenza)][^NMZ]" : {vashivent} ! V@->N::[=shaming (ES: vergüenza)] 
 | "[=pitsok+INF@aantsi.][VRoot][=to.turn.around (ES: voltearse, dar.vuelta)]::[=turn (ES: vuelta)][^NMZ]" : {pitsok} ! V@->N::[=turn (ES: vuelta)] 
 | "[=ayompari+INF@/EP:t/aantsi.][VRoot][=to.barter (ES: hacer.trueque)]::[=barter (ES: trueque)][^NMZ]" : {ayompari} ! V@->N::[=barter (ES: trueque)] 
 | "[=pionk+INF@antsi.][VRoot][=to.shudder (ES: estar.con.escalofrío, temblar.con.escalofríos)]::[=shudder (ES: escalofrío)][^NMZ]" : {pionk} ! V@->N::[=shudder (ES: escalofrío)] 
