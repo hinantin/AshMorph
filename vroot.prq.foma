@@ -1680,7 +1680,7 @@ define VRootPRQin [
 | "[=patsima+INF@/EP:t,tz/V.][VRoot][=to.chase, to.go.after]" : {patsima}
 ! 
 | "[=pavani][VRoot][=to.idolize]" : {pavani}
-| "[=vavani][VRoot][=to.idolize]" : {vavani}
+| "[=vavani+INF@/EP:t/V.][VRoot][=to.idolize]" : {vavani}
 ! 
 | "[=pavi+INF@antsi.][VRoot][=to.infect (ES: contagiar)]" : {pavi}
 | "[=pahenka~{'to.give':p}{EP:a}{CL:/'inmaterial,odor':henka/}+INF@antsi.][VRoot][=to.infect (ES: contagiar)]" : {pahenka}
