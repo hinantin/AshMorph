@@ -2286,8 +2286,8 @@ define VRootPRQin [
 | "[=toonk+INF@aantsi.][VRoot][=to.shoot (ES: balear); to.burst]" : {toonk}
 ! 
 | "[=tonkag][VRoot][=to.climb; to.ascend]" : {tonkag}
-| "[=tonka][VRoot][=to.ascend]" : {tonka}
-| "[=tonkaa][VRoot][=to.ascend]" : {tonkaa}
+| "[=tonka+INF@/EP:t/VC.][VRoot][=to.ascend]" : {tonka}
+| "[=tonkaa+INF@/EP:t/VC.][VRoot][=to.ascend; (ES: desbordar)]" : {tonkaa}
 ! 
 | "[=tononk+INF@(a)antsi.][VRoot][=to.grind.sth. (ES: moler)]" : {tononk}
 | "[=toonk+INF@aantsi.][VRoot][=to.grind.sth. (ES: moler); to.husk.grains.in.a.mortar (ES: pilar, descascarar.los.granos.en.el.pilón)]" : {toonk}
