@@ -1514,9 +1514,9 @@ define VRootPRQin [
 ! 
 | "[=over+INF@aantsi:agaantsi:VC.][VRoot][=to.be.the.last (ES: ser.el.último); to.end.sth.; to.stop.doing.sth. (ES: dejar.de.hacer); to.advance.towards.sth. (ES: llegar/progresar/avanzar.hasta)]" : {over}
 | "[=vir+INF@aantsi:agaantsi.][VRoot][=to.stop.doing.sth. (ES: dejar.de.hacer); to.end.sth.; to.advance.towards.sth. (ES: llegar/progresar/avanzar.hasta)]" : {vir}
-| "[=ovey][VRoot][=to.be.the.last (ES: ser.el.último)]" : {ovey}
-| "[=vey][VRoot][=to.be.the.last (ES: ser.el.último)]" : {vey}
-| "[=viy][VRoot][=to.be.the.last (ES: ser.el.último)]" : {viy}
+| "[=ovey+INF@aantsi][VRoot][=to.be.the.last (ES: ser.el.último)]" : {ovey}
+| "[=vey+INF@agaantsi.][VRoot][=to.be.the.last (ES: ser.el.último)]" : {vey}
+| "[=viy+INF@agaantsi.][VRoot][=to.be.the.last (ES: ser.el.último)]" : {viy}
 ! 
 | "[=vira][VRoot][=to.advance]" : {vira}
 ! 
