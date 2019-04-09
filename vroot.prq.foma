@@ -2037,8 +2037,8 @@ define VRootPRQin [
 ! 
 | "[=shet+INF@aantsi.][VRoot][=to.clean (ES: limpiar), to.wipe (ES: borrar)]" : {shet}
 ! 
-| "[=sheva][VRoot][=to.move (ES: mover)]" : {sheva}
-| "[=sheva+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving]" : {shevasheva}
+| "[=sheva+INF@/EP:t/aantsi.][VRoot][=to.move (ES: mover)]" : {sheva}
+| "[=sheva+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving]" : {shevasheva}
 ! 
 | "[=shima][VRoot][=to.fish (ES: pescar); to.catch.fish]" : {shima}
 | "[=shimaa~shima{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.fish; to.catch.fish]" : {shimaa}
