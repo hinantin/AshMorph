@@ -1666,6 +1666,7 @@ define VRootPRQin [
 | "[=pashikaa][VRoot][=to.cover (ES: cubrir, tapar)]" : {pashikaa}
 ! 
 | "[=pashivent+INF@aantsi.][VRoot][=to.embarrass, to.be.embarrassed (ES: avergonzar(se), tener.vergüenza)]" : {pashivent} ! V@->N::[=shame (ES: vergüenza)] 
+| "[=vashivent+INF@antsi.][VRoot][=to.shame.sb.]" : {vashivent} ! V@->N::[=shaming (ES: vergüenza)] 
 ! 
 | "[=pasonki][VRoot][=to.thank (ES: agradecer)]" : {pasonki}
 | "[=paasonki][VRoot][=to.thank (ES: agradecer)]" : {paasonki}
@@ -2565,8 +2566,6 @@ define VRootPRQin [
 ! 
 | "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
 | "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
-! 
-| "[=vashivent+INF@antsi.][VRoot][=to.shame.sb.]" : {vashivent}
 ! 
 | "[=vatsa+INF@/EP:t/aantsi.][VRoot][=to.get.fat, to.gain.weight (ES: engordar)]" : {vatsa}
 ! 
