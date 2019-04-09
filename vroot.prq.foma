@@ -1809,7 +1809,7 @@ define VRootPRQin [
 | "[=pionk+INF@antsi.][VRoot][=to.shudder (ES: estar.con.escalofrío, temblar.con.escalofríos)]" : {pionk} ! V@->N::[=shudder (ES: escalofrío)] 
 # ---------------------------------------------------------------------------------- 
 ! 
-| "[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)]" : {pocha}
+| "[=pocha+INF@/EP:t/VC.][VRoot][=to.be.sweet (ES: ser.dulce)]" : {pocha}
 ! 
 # pochokitaantsi / =pochoki -t -aantsi / =to.dream -ep -inf / EN:'dream', ES:'sueño'
 # pochokintsi / =pochoki -ntsi+m. / to.dream -adj / EN:'sleepyhead', ES:'dormilón' 
