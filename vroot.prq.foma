@@ -1816,14 +1816,17 @@ define VRootPRQin [
 # pochokinti / =pochoki -nti+m. / =to.dream -adj / EN:'sleepyhead', ES:'dormilón' 
 | "[=pochoki+INF@aantsi.][VRoot][=to.dream (ES: tener.sueño)]" : {pochoki}
 ! 
+# ---------------------------------------------------------------------
 | "[=poema+INF@/EP:t/antsi.][VRoot][=to.sound (ES: sonar)]" : {poema}
 | "[=poima+INF@/EP:t/aantsi.][VRoot][=to.sound (ES: sonar)]" : {poima}
+! poimakirinataantsi / =poima =kirina -t -aantsi / EN: 'to.snore'; ES: 'roncar' 
 | "[=poimp][VRoot][=to.sound (ES: sonar)]" : {poimp}
 | "[=poimpi][VRoot][=to.sound (ES: sonar)]" : {poimpi}
 | "[=poimpa][VRoot][=to.sound (ES: sonar)]" : {poimpa}
 # ipaematanakero 
 | "[=paema+INF@/EP:t/VC.][VRoot][=to.sound (ES: sonar)]" : {paema}
 | "[=paima+INF@/EP:t/VC.][VRoot][=to.sound (ES: sonar)]" : {paima}
+# ---------------------------------------------------------------------
 ! 
 | "[=pok+INF@aantsi:VC.][VRoot][=to.come (ES: venir), to.arrive]" : {pok}
 ! 
