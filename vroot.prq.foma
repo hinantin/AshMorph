@@ -1225,9 +1225,6 @@ define VRootPRQin [
 | "[=mentary][VRoot][=to.break.the.fin.of.a.tree]" : {mentary}
 | "[=mintary][VRoot][=to.break.the.fin.of.a.tree]" : {mintary}
 ! 
-| "[=mintsarov][VRoot][=to.frighten (ES: asustar)]" : {mintsarov}
-| "[=omintsa][VRoot][=to.frighten (ES: hacer.asustar)]" : {omintsa}
-! 
 # --------------------------------------------------------------- 
 | "[=mire+INF/EP:t/aantsi.+A-Conj@mid.v.][VRoot][=to.be.thirsty (ES: tener.sed)]" : {mire} ! V@->N::[=thirst (ES: sed)]  
 | "[=miri+INF/EP:t/aantsi.+A-Conj@mid.v.][VRoot][=to.be.thirsty (ES: tener.sed)]" : {miri}
@@ -2381,14 +2378,19 @@ define VRootPRQin [
 | "[=tsaa][VRoot][=to.bark (ES: ladrar); to.make.an.animal.sound]" : {tsaa}
 | "[=tsa][VRoot][=to.bark (ES: ladrar); to.make.an.animal.sound]" : {tsa}
 ! 
+# ----------------------------------------------------------------------- 
 | "[=tsaro][VRoot][=to.fear, to.be.afraid (ES: tener.miedo)]" : {tsaro}
 | "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]" : {tsarov} ! V@->N::[=scare (ES: susto)]
 | "[=tsaav][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]" : {tsaav}
 ! 
+| "[=mintsarov~min{M.CAUS:min}{'to.fear':tsarov}+INF@VC.][VRoot][=to.frighten (ES: asustar)]" : {mintsarov}
+| "[=omintsa][VRoot][=to.frighten (ES: hacer.asustar)]" : {omintsa}
+# ----------------------------------------------------------------------- 
+! 
 | "[=tsaink][VRoot][=to.mock.sb. (ES: burlarse)]" : {tsaink}
 | "[=chenk][VRoot][=to.mock.sb. (ES: burlarse)]" : {chenk}
 !  
-| "[=tsatsink][VRoot][=to.behead (ES: rozarES: rozar.(monte))]" : {tsatsink}
+| "[=tsatsink+INF@VC.][VRoot][=to.behead (ES: decapitar)]" : {tsatsink}
 ! to lie
 | "[=tsay][VRoot][=to.lie (ES: mentir)]" : {tsay}
 | "[=tsaiy+INF@aantsi.][VRoot][=to.lie (ES: mentir)]" : {tsaiy}
