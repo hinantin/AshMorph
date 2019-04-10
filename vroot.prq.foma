@@ -1256,7 +1256,8 @@ define VRootPRQin [
 | "[=mink][VRoot][=to.put (ES: poner)]" : {mink}
 | "[=mink][VRoot][=to.insert (ES: meter)]" : {mink}
 ! 
-| "[=minki][VRoot][=to.put]" : {minki}
+| "[=minki+INF@VC.+I-Conj@act.v.][VRoot][=to.put; to.insert (ES: meter); to.string.together (ES: enhebrar)]" : {minki}
+| "[=minke+INF@VC.+I-Conj@act.v.][VRoot][=to.put; to.insert (ES: meter); to.string.together (ES: enhebrar)]" : {minke}
 # ---------------------------------------------------
 | "[=mish][VRoot][=to.remove.skin]" : {mish}
 ! 
