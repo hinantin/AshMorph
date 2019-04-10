@@ -1261,7 +1261,9 @@ define VRootPRQin [
 # ---------------------------------------------------
 | "[=mish][VRoot][=to.remove.skin]" : {mish}
 ! 
-| "[=mishi][VRoot][=to.dream (ES: soñar)]" : {mishi}
+# ---------------------------------------------------
+| "[=mishi+INF@/EP:t/aantsi.][VRoot][=to.dream (ES: soñar)]" : {mishi}
+# ---------------------------------------------------
 ! 
 | "[=mitsaink][VRoot][=to.be.in.line]" : {mitsaink}
 | "[=ovetsaink+INF@aantsi.][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {ovetsaink}
