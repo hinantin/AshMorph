@@ -1232,8 +1232,9 @@ define VRootPRQin [
 ! 
 | "[=miri][VRoot][=to.peel.off.(animals) (ES: pelar)]" : {miri} 
 ! 
-| "[=metso][VRoot][=to.be.soft; to.be.tender]" : {metso}
+| "[=metso+INF@/EP:t/VC.][VRoot][=to.be.soft (ES: ser.suave); to.be.tender (ES: ser.blando)]" : {metso}
 ! 
+# ---------------------------------------------------
 | "[=mi+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mi}
 | "[=my+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {my} ! \cite{anderson:cuentos:85}
 | "[=miy+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {miy}
@@ -1246,6 +1247,7 @@ define VRootPRQin [
 #@TOTREDUPCLASS02| "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {mi} ! miamia 
 | "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {myaamyaa}
 #@TOTREDUPCLASS02| "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {my} ! myaamyaa 
+# ---------------------------------------------------
 ! 
 | "[=minka][VRoot][=to.make.a.hunting.blind (ES: hacer.un_puesto_de_caza.camuflado)]" : {minka}
 ! 
