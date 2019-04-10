@@ -144,7 +144,7 @@ define NRootPRQin [
 | "[=aavo][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: egretta.thula)]" : {aavo} 
 ! 
 # atyo / ES: 'cuñada.(habla.de.mujer)' 
-| "[=atyo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyo} 
+| "[=atyo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego; ES: cuñada)]" : {atyo} 
 | "[=atyoeni+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyoeni} 
 | "[=atyoini+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyoini} 
 | "[=ateo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {ateo} 
@@ -153,7 +153,7 @@ define NRootPRQin [
 | "[=ayiini+n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayiini} 
 | "[=natoto+voc@1SG:2SG:3SG.][NRoot][=sister.in.law (kin.of.a.female)]" : {natoto}
 ! 
-| "[=ayoori][NRoot][=casqued.oropendola (sci.nm.: clypicterus.oservi)]" : {ayoori} 
+| "[=ayoori+m.][NRoot][=casqued.oropendola (ES: sp.de.paucarcillo/ave; sci.nm.: clypicterus.oservi)]" : {ayoori} 
 ! 
 | "[=asankane+n.m.+inal@ntsi.][NRoot][=heart (ES: corazón)]" : {asankane}
 | "[=asankani+n.m.+inal@ntsi.][NRoot][=heart (ES: corazón)]" : {asankani} 
