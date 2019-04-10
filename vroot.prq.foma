@@ -1232,9 +1232,6 @@ define VRootPRQin [
 ! 
 | "[=miri][VRoot][=to.peel.off.(animals) (ES: pelar)]" : {miri} 
 ! 
-| "[=mesh+INF@aantsi.][VRoot][=to.peel (ES: pelar(se))]" : {mesh}
-| "[=mish+INF@aantsi.][VRoot][=to.peel (ES: pelar(se))]" : {mish}
-! 
 | "[=metso][VRoot][=to.be.soft; to.be.tender]" : {metso}
 ! 
 | "[=mi+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mi}
@@ -1259,8 +1256,11 @@ define VRootPRQin [
 | "[=minki+INF@VC.+I-Conj@act.v.][VRoot][=to.put; to.insert (ES: meter); to.string.together (ES: enhebrar)]" : {minki}
 | "[=minke+INF@VC.+I-Conj@act.v.][VRoot][=to.put; to.insert (ES: meter); to.string.together (ES: enhebrar)]" : {minke}
 # ---------------------------------------------------
-| "[=mish+INF@aantsi.][VRoot][=to.remove.skin (ES: pelar(se))]" : {mish}
-| "[=mesh+INF@aantsi.][VRoot][=to.remove.skin (ES: pelar(se))]" : {mesh}
+! 
+| "[=mish+INF@aantsi.+I-Conj@act.v.][VRoot][=to.peel, to.remove.skin (ES: pelar(se))]" : {mish}
+| "[=mesh+INF@aantsi.+I-Conj@act.v.][VRoot][=to.peel, to.remove.skin (ES: pelar(se))]" : {mesh}
+!| "[=mesh+INF@aantsi.][VRoot][=to.peel (ES: pelar(se))]" : {mesh}
+!| "[=mish+INF@aantsi.][VRoot][=to.peel (ES: pelar(se))]" : {mish}
 ! 
 # ---------------------------------------------------
 | "[=mishi+INF@/EP:t/aantsi.][VRoot][=to.dream (ES: soñar)]" : {mishi}
