@@ -1822,7 +1822,7 @@ define VRootPRQin [
 ! poimakirinataantsi / =poima =kirina -t -aantsi / EN: 'to.snore'; ES: 'roncar' 
 | "[=poimp][VRoot][=to.sound (ES: sonar)]" : {poimp}
 | "[=poimpi][VRoot][=to.sound (ES: sonar)]" : {poimpi}
-| "[=poimpa][VRoot][=to.sound (ES: sonar)]" : {poimpa}
+| "[=poimpa+INF@/EP:t/VC.][VRoot][=to.sound (ES: sonar)]" : {poimpa}
 # ipaematanakero 
 | "[=paema+INF@/EP:t/VC.][VRoot][=to.sound (ES: sonar)]" : {paema}
 | "[=paima+INF@/EP:t/VC.][VRoot][=to.sound (ES: sonar)]" : {paima}
