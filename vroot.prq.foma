@@ -1259,7 +1259,8 @@ define VRootPRQin [
 | "[=minki+INF@VC.+I-Conj@act.v.][VRoot][=to.put; to.insert (ES: meter); to.string.together (ES: enhebrar)]" : {minki}
 | "[=minke+INF@VC.+I-Conj@act.v.][VRoot][=to.put; to.insert (ES: meter); to.string.together (ES: enhebrar)]" : {minke}
 # ---------------------------------------------------
-| "[=mish][VRoot][=to.remove.skin]" : {mish}
+| "[=mish+INF@aantsi.][VRoot][=to.remove.skin (ES: pelar(se))]" : {mish}
+| "[=mesh+INF@aantsi.][VRoot][=to.remove.skin (ES: pelar(se))]" : {mesh}
 ! 
 # ---------------------------------------------------
 | "[=mishi+INF@/EP:t/aantsi.][VRoot][=to.dream (ES: soñar)]" : {mishi}
