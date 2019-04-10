@@ -1229,6 +1229,8 @@ define VRootPRQin [
 | "[=omintsa][VRoot][=to.frighten (ES: hacer.asustar)]" : {omintsa}
 ! 
 | "[=mire+INF/EP:t/aantsi.][VRoot][=to.be.thirsty (ES: tener.sed)]" : {mire} ! V@->N::[=thirst (ES: sed)]  
+| "[=miri+INF/EP:t/aantsi.][VRoot][=to.be.thirsty (ES: tener.sed)]" : {miri}
+| "[=mere+INF/EP:t/aantsi.][VRoot][=to.be.thirsty (ES: tener.sed)]" : {mere}
 ! 
 | "[=miri][VRoot][=to.peel.off.(animals) (ES: pelar)]" : {miri} 
 ! 
