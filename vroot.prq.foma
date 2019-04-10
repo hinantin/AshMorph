@@ -1820,8 +1820,9 @@ define VRootPRQin [
 | "[=poema+INF@/EP:t/antsi.][VRoot][=to.sound (ES: sonar)]" : {poema}
 | "[=poima+INF@/EP:t/aantsi.][VRoot][=to.sound (ES: sonar)]" : {poima}
 ! poimakirinataantsi / =poima =kirina -t -aantsi / EN: 'to.snore'; ES: 'roncar' 
+! poimpatsiri / =poimp/DEL:a/ -atsi =ri 
 | "[=poimp][VRoot][=to.sound (ES: sonar)]" : {poimp}
-| "[=poimpi][VRoot][=to.sound (ES: sonar)]" : {poimpi}
+| "[=poimpi+INF@VC.][VRoot][=to.sound (ES: sonar)]" : {poimpi}
 | "[=poimpa+INF@/EP:t/VC.][VRoot][=to.sound (ES: sonar)]" : {poimpa}
 # ipaematanakero 
 | "[=paema+INF@/EP:t/VC.][VRoot][=to.sound (ES: sonar)]" : {paema}
