@@ -1215,11 +1215,11 @@ define VRootPRQin [
 | "[=may][VRoot][=to.sleep (ES: dormir)]" : {may}
 | "[=maey+INF@aantsi.][VRoot][=to.sleep (ES: dormir)]" : {maey} ! to be checked !!! 
 ! 
-| "[=maye][VRoot][=to.limp (ES: cojear)]" : {maye}
+| "[=maye+INF@/EP:t/aantsi.][VRoot][=to.limp (ES: cojear)]" : {maye}
 | "[=mayeh][VRoot][=to.limp (ES: cojear)]" : {mayeh}
 | "[=metink][VRoot][=to.limp (ES: cojear)]" : {metink}
-| "[=aasheta][VRoot][=to.limp (ES: cojear)]" : {aasheta}
-| "[=aahyita][VRoot][=to.limp (ES: cojear)]" : {aahyita}
+| "[=aasheta+INF@/EP:t/aantsi.][VRoot][=to.limp (ES: cojear)]" : {aasheta}
+| "[=aahyita+INF@/EP:t/aantsi.][VRoot][=to.limp (ES: cojear)]" : {aahyita}
 ! 
 | "[=mapok][VRoot][=to.surprise (ES: sorprender)]" : {mapok}
 ! 
