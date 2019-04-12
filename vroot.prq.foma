@@ -1223,8 +1223,8 @@ define VRootPRQin [
 ! 
 | "[=mapok][VRoot][=to.surprise (ES: sorprender)]" : {mapok}
 ! 
-| "[=mentary][VRoot][=to.break.the.fin.of.a.tree]" : {mentary}
-| "[=mintary][VRoot][=to.break.the.fin.of.a.tree]" : {mintary}
+| "[=mentary+INF@aantsi.][VRoot][=to.break.the.fin.of.a.tree]" : {mentary}
+| "[=mintary+INF@aantsi.][VRoot][=to.break.the.fin.of.a.tree]" : {mintary}
 ! 
 # --------------------------------------------------------------- 
 | "[=mire+INF/EP:t/aantsi.+A-Conj@mid.v.][VRoot][=to.be.thirsty (ES: tener.sed)]" : {mire} ! V@->N::[=thirst (ES: sed)]  
