@@ -183,9 +183,10 @@ define NRootPRQin [
 | "[=akoperori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akoperori}
 | "[=akopirori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopirori}
 ! 
+| "[=amarani+n.m.][NRoot][=increase (ES: creciente)]" : {amarani}
 | "[=amaani+n.m.][NRoot][=increase (ES: creciente)]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=amani+n.m.][NRoot][=increase (ES: creciente)]" : {amani} ! N@->V::[=to.increase (ES: crecer)]
-| "[=amara][NRoot][=increase (ES: creciente)]" : {amara}
+| "[=amara][NRoot][=increase (ES: creciente.de.río)]" : {amara}
 ! 
 | "[=amaako+m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {amaako}
 ! anaconda
