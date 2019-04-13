@@ -1363,11 +1363,13 @@ define VRootPRQin [
 ! to hate
 | "[=nina+INF@/EP:t/aantsi.][VRoot][=to.hate (ES: odiar)]" : {nina}
 !
+# ---------------------------------------------------------------------------- 
 | "[=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)]" : {nint} ! V@->N::[=love (ES: amor); lover (ES: enamorado)] 
 | "[=ninta][VRoot][=to.want]" : {ninta}
 | "[=nint+INF@aantsi.][VRoot][=to.kiss (ES: besar)]" : {nint}
 | "[=nintat][VRoot][=to.kiss (ES: besar)]" : {nintat}
 | "[=nintatavak+INF@antsi.][VRoot][=to.kiss (ES: besar)]" : {nintatavak}
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=nionk][VRoot][=to.rock (ES: mecer)]" : {nionk}
 ! 
