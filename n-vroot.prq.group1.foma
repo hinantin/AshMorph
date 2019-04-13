@@ -76,6 +76,7 @@ define NounToVerbPRQin [
 | "[=motya][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ]" : {motya} ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=moti+inal@tsi.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
 | "[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement]::[= (ES: vivir)][^VBZ]" : {nampi} ! N@->V::[= (ES: vivir)] +ADDUPPER@. @ADDLOWER@ 
+| "[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]::[=to.water][^VBZ]" : {nihaa} ! @CMP ! N@->V::[=to.water]
 | "[=mampira][NRoot][=aurora (ES: aurora)][^VBZ]" : {mampira} ! N@->V 
 | "[=kitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]::[=to.sow (ES: sembrar)][^VBZ]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
 | "[=ookatsa][NRoot][=lightning.strike (ES: rayo)]::[=to.rain.with.lightning_strikes (ES: llover.con.relámpagos); to.strike.about.lightning (ES: caer.rayos)][^VBZ]" : {ookatsa} ! N@->V::[=to.rain.with.lightning_strikes (ES: llover.con.relámpagos); to.strike.about.lightning (ES: caer.rayos)] 
