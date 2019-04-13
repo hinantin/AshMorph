@@ -597,7 +597,7 @@ define VRootPRQin [
 | "[=it+INF@aantsi.][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {it}
 | "[=et+INF@aantsi.][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {et}
 ! 
-| "[=ir+INF@aantsi.][VRoot][=to.drink (ES: beber)]" : {ir}
+| "[=ir+INF@aantsi.][VRoot][=to.drink (ES: beber)]" : {ir} ! @section:verb@ 
 ! ipiroaantsi / =ir -piro -aantsi / =to.drink -degr -inf / EN: 'to.drink.well' 
 | "[=i][VRoot][=to.drink (ES: beber)]" : {i}
 | "[o=][AGT.CAUS+][--][=i][VRoot][=drink (ES: beber)]" : {oi}
