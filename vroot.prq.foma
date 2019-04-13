@@ -1365,7 +1365,9 @@ define VRootPRQin [
 !
 | "[=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)]" : {nint} ! V@->N::[=love (ES: amor); lover (ES: enamorado)] 
 | "[=ninta][VRoot][=to.want]" : {ninta}
-| "[=nintat][VRoot][=to.kiss]" : {nintat}
+| "[=nint+INF@aantsi.][VRoot][=to.kiss (ES: besar)]" : {nint}
+| "[=nintat][VRoot][=to.kiss (ES: besar)]" : {nintat}
+| "[=nintatavak+INF@antsi.][VRoot][=to.kiss (ES: besar)]" : {nintatavak}
 ! 
 | "[=nionk][VRoot][=to.rock (ES: mecer)]" : {nionk}
 ! 
