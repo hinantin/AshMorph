@@ -663,7 +663,7 @@ define VRootPRQin [
 | "[=kaam+INF@VC.][VRoot][=to.die (ES: morir)]" : {kaam}
 | "[=vam+INF@aantsi.][VRoot][=to.cause.death, to.make.sb/sth.die (ES: hacer.morir)]" : {vam}
 ! 
-| "[=kampoiri][VRoot][=to.disembowel (ES: destripar)]" : {kampoiri}
+| "[=kampoiri][VRoot][=to.disembowel (ES: destripar)]" : {kampoiri} ! @section:verb@ 
 ! 
 | "[=kamant+INF@aantsi.][VRoot][=to.inform; to.advise]" : {kamant} ! V@->N::[=sermon (ES: sermón)] @section:verb@ 
 ! 
@@ -692,7 +692,7 @@ define VRootPRQin [
 | "[=kampi][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kampi}
 | "[=kami][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kami}
 ! 
-| "[=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kant}
+| "[=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kant} ! @section:verb@ 
 | "[=kãt][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kãt}
 # cantacaantantatsiri / kantakaantantatsiri / ES: 'curaca' ; QU: 'kuraka' ; CNI: 'coraca'
 | "[=kant+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[= (ES: ser.ley/dicho)]" : {kantakant}
@@ -1322,7 +1322,7 @@ define VRootPRQin [
 | "[=moi][VRoot][=to.boil (ES: hervir)]" : {moi} ! omoiri o=moi-ri 
 ! 
 | "[=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)]" : {n}
-| "[=na+INF@/EP:t/antsi][VRoot][=to.be (ES: ser,, estar)]" : {na}
+| "[=na+INF@/EP:t/antsi][VRoot][=to.be (ES: ser,, estar)]" : {na} ! @section:verb@ 
 ! 
 | "[=na][VRoot][=to.fit]" : {na} ! +Sa 
 ! 
