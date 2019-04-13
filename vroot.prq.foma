@@ -1371,11 +1371,9 @@ define VRootPRQin [
 | "[=nintatavak+INF@antsi.][VRoot][=to.kiss (ES: besar)]" : {nintatavak}
 # ---------------------------------------------------------------------------- 
 ! 
-| "[=nionk][VRoot][=to.rock (ES: mecer)]" : {nionk}
+| "[=nionk+INF@VC.+I-Conj@act.v.][VRoot][=to.rock (ES: mecer)]" : {nionk}
 ! 
-| "[=nionkako][VRoot][=to.swing, to.rock.to-and-fro (ES: columpiarse)]" : {nionkako}
-! 
-| "[=nive][VRoot][=to.like]" : {nive}
+| "[=nionkako+INF@/EP:t/V.][VRoot][=to.swing, to.rock.to-and-fro (ES: columpiarse)]" : {nionkako}
 ! 
 | "[=niy+INF@aantsi.][VRoot][=to.swallow (ES: tragar)]" : {niy}
 | "[=ni+INF@antsi.][VRoot][=to.swallow (ES: tragar)]" : {ni}
@@ -1402,10 +1400,9 @@ define VRootPRQin [
 | "[=neavintsa][VRoot][=to.fornicate (ES: fornicar)]" : {neavintsa}
 ! 
 | "[=nyaama][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)]" : {nyaama}
-| "[=neve][VRoot][=to.covet.sth., to.like.sth.]" : {neve} ! to be checked 
-| "[=nevi][VRoot][=to.covet.sth., to.like.sth.]" : {nevi} ! to be checked 
-!| "[=neve][VRoot][=to.like]" : {neve}
-!| "[=nivi][VRoot][=to.like]" : {nivi}
+| "[=neve+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {neve} ! to be checked 
+| "[=nevi][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {nevi} ! to be checked 
+| "[=nive][VRoot][=to.like (ES: gustar)]" : {nive}
 ! 
 | "[=nyaana][VRoot][=to.study]" : {nyaana}
 | "[=nyaana][VRoot][=to.read (ES: leer)]" : {nyaana}
