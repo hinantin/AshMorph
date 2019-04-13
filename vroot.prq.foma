@@ -1405,10 +1405,10 @@ define VRootPRQin [
 | "[=nevi][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {nevi} ! to be checked 
 | "[=nive][VRoot][=to.like (ES: gustar)]" : {nive}
 # ------------------------------------------------------------- 
-! 
-| "[=nyaana/ñaana+INF@/EP:t/aantsi.][VRoot][=to.study]" : {nyaana}
+| "[=nyaana/ñaana+INF@/EP:t/aantsi.][VRoot][=to.study (ES: estudiar)]" : {nyaana}
 | "[=nyaana/ñaana+INF@/EP:t/aantsi.][VRoot][=to.read (ES: leer)]" : {nyaana}
-| "[=neana][VRoot][=to.read (ES: leer)]" : {neana}
+| "[=neana+INF@/EP:t/aantsi.][VRoot][=to.read (ES: leer)]" : {neana}
+# ------------------------------------------------------------- 
 ! 
 # nyaperori / =nyapero -ri / =to.defy.authority -adj / EN: 'brave', ES: 'valiente' 
 | "[=nyapero][VRoot][=to.defy.authority.with.intensity-and-fearlessness; to.be.brave]" : {nyapero}
