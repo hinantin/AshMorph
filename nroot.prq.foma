@@ -2833,7 +2833,8 @@ define NRootPRQin [
 | "[=nerontoki+m.][NRoot][=bee.sp. (ES: sp.de.abeja; sci.nm.: apis.mellifera )]" : {nerontoki}
 | "[=nirontoki+m.][NRoot][=fly.sp.]" : {nirontoki}
 ! 
-| "[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP 
+!| "[=nihaa][VRoot][=to.water]" : {nihaa} ! revise?
+| "[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP ! N@->V::[=to.water]
 | "[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
 | "[=hinya/hĩya+poss@te.][NRoot:CPB][=water (ES: agua); river (ES: rio)]" : [{hĩya}|{hiya}] 
 | "[=hinyaa/hĩyaa+poss@te.][NRoot:CPB][=water (ES: agua); river (ES: rio)]" : {hĩyaa} 
