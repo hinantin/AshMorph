@@ -202,9 +202,9 @@ define VRootPRQin [
 # -------------------------------------------------------------------------------- 
 ! nanei / n- =ane -i / ES: 'yo.vivo' 
 | "[=ane+INF@aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {ane}
-| "[=any+INF@(a)antsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {any}
+| "[=any+INF@(a)antsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {any} ! @section:verb@ 
 ! añitantsi / anyitantsi / =anyi -t -antsi / =to.live -ep -inf / ES: 'vivir'
-| "[=anyi/añi+INF@/EP:t/aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {anyi} 
+| "[=anyi/añi+INF@/EP:t/aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {anyi} ! @section:verb@ 
 | "[=anye/añe+INF@/EP:t/aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {anye} 
 # -------------------------------------------------------------------------------- 
 ! 
@@ -274,7 +274,7 @@ define VRootPRQin [
 | "[=antavae+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavae}
 | "[=antavai+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavai}
 ! 
-| "[=antavak+INF@aantsi.][VRoot][=to.fight (ES: pelearse.(unos.con.otros))]" : {antavak}
+| "[=antavak+INF@aantsi.][VRoot][=to.fight (ES: pelearse.(unos.con.otros))]" : {antavak} ! @section:verb@ 
 ! 
 | "[=antant][VRoot][=to.fight]" : {antant}
 ! 
@@ -444,7 +444,7 @@ define VRootPRQin [
 | "[=avish][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar); to.happen (ES: ocurrir, acontecer)]" : {avish}
 | "[=avih+INF@aantsi.][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar); to.happen (ES: ocurrir, acontecer)]" : {avih}
 ! 
-| "[=avitsano+INF@/EP:t/aantsi.][VRoot][=to.hug.sb. (ES: abrazar)]" : {avitsano}
+| "[=avitsano+INF@/EP:t/aantsi.][VRoot][=to.hug.sb. (ES: abrazar)]" : {avitsano} ! @section:verb@ 
 ! 
 | "[=ayi+INF@/EP:t/aantsi.][VRoot][=to.go.down]" : {ayi}
 | "[=ayii+INF@/EP:t/aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {ayii}
@@ -530,7 +530,7 @@ define VRootPRQin [
 | "[=eni+INF@/EP:t/VC.][VRoot][=to.have (ES: tener)]" : {eni}
 ! 
 # --------------------------------------------
-| "[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)]" : {ha} 
+| "[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)]" : {ha} ! @section:verb@ 
 | "[=hat+INF@aantsi.][VRoot][=to.go (ES: ir)]" : {hat} 
 ! 
 | "[=iya][VRoot][=to.go (ES: ir)]" : {iya} 
@@ -692,7 +692,7 @@ define VRootPRQin [
 | "[=kampi][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kampi}
 | "[=kami][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kami}
 ! 
-| "[=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kant} ! @section:verb@ 
+| "[=kant+INF@aantsi.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kant} ! @section:verb@ 
 | "[=kãt][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kãt}
 # cantacaantantatsiri / kantakaantantatsiri / ES: 'curaca' ; QU: 'kuraka' ; CNI: 'coraca'
 | "[=kant+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[= (ES: ser.ley/dicho)]" : {kantakant}
@@ -854,7 +854,7 @@ define VRootPRQin [
 ! 
 ! word set: to hunt, to poach, to prey on sb/sth
 | "[=ken][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {ken}
-| "[=kin][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kin}
+| "[=kin][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kin} ! @section:verb@ 
 | "[=kẽ][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kẽ}
 !
 | "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {ken}
@@ -1242,9 +1242,9 @@ define VRootPRQin [
 | "[=mi+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mi}
 | "[=my+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {my} ! \cite{anderson:cuentos:85}
 | "[=miy+INF@taantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {miy}
-| "[=mit+INF@aantsi:agaantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mit}
+| "[=mit+INF@aantsi:agaantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mit} ! @section:verb@ 
 # nomitaji / nomitahi / no- =mitah -i / 1sg.s- =to.jump -real / EN: 'I.am.jumping'; ES: 'estoy.saltando' 
-| "[=mitah+INF@aantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mitah} ! V@->N::[=jump (ES: salto)] 
+| "[=mitah+INF@aantsi.][VRoot][=to.jump (ES: saltar, brincar)]" : {mitah} ! V@->N::[=jump (ES: salto)] ! @section:verb@ 
 # miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
 # imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
 | "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {miamia}
@@ -1650,7 +1650,7 @@ define VRootPRQin [
 # -----------------------------------------------------------------------------------------------
 | "[=pari][VRoot][=to.fall (ES: caer)]" : {pari}
 | "[=paria][VRoot][=to.fall (ES: caer)]" : {paria}
-| "[=pary][VRoot][=to.fall (ES: caer)]" : {pary}
+| "[=pary+INF@aantsi.][VRoot][=to.fall (ES: caer)]" : {pary} ! @section:verb@ 
 ! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
 | "[=pariy][VRoot][=to.fall (ES: caer)]" : {pariy}
 | "[=pare][VRoot][=to.fall (ES: caer)]" : {pare}
@@ -1682,7 +1682,7 @@ define VRootPRQin [
 | "[=pashikaa][VRoot][=to.cover (ES: cubrir, tapar)]" : {pashikaa}
 ! 
 | "[=pashivent+INF@aantsi.][VRoot][=to.embarrass, to.be.embarrassed (ES: avergonzar(se), tener.vergüenza)]" : {pashivent} ! V@->N::[=shame (ES: vergüenza)] 
-| "[=vashivent+INF@antsi.][VRoot][=to.shame.sb.]" : {vashivent} ! V@->N::[=shaming (ES: vergüenza)] 
+| "[=vashivent+INF@antsi.][VRoot][=to.shame.sb.]" : {vashivent} ! V@->N::[=shaming (ES: vergüenza)] @section:verb@ 
 ! 
 | "[=pasonki+INF@/EP:t/aantsi.][VRoot][=to.thank (ES: agradecer)]" : {pasonki}
 | "[=paasonki+INF@/EP:t/aantsi.][VRoot][=to.thank (ES: agradecer)]" : {paasonki}
@@ -2025,7 +2025,7 @@ define VRootPRQin [
 | "[=sheki][VRoot][=to.be.much]" : {sheki}
 | "[=sheki][VRoot][=to.be.much]" : {sheki}
 ! 
-| "[=shem][VRoot][=to.be.bored (ES: estar.aburrido); to.get.impatient (ES: impacientarse)]" : {shem} ! @section:verb@ 
+| "[=shem+INF@aantsi.][VRoot][=to.be.bored (ES: estar.aburrido, aborrecer); to.get.impatient (ES: impacientarse)]" : {shem} ! @section:verb@ 
 ! 
 | "[=sheme][VRoot][=to.be.proud/haughty (ES: estar.orgulloso/altivo)]" : {sheme}
 | "[=shame][VRoot][=to.be.proud/haughty (ES: estar.orgulloso/altivo)]" : {shame}
