@@ -272,7 +272,7 @@ define VRootPRQin [
 | "[=antava+INF@/EP:t/aantsi.]][VRoot][=to.ripen (ES: madurar)]" : {antava}
 ! 
 | "[=antavae+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavae}
-| "[=antavai+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavai}
+| "[=antavai+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavai} ! @section:verb@ 
 ! 
 | "[=antavak+INF@aantsi.][VRoot][=to.fight (ES: pelearse.(unos.con.otros))]" : {antavak} ! @section:verb@ 
 ! 
@@ -1069,7 +1069,7 @@ define VRootPRQin [
 ! 
 | "[=kotzi][VRoot][=to.walk.with.a.cane]" : {kotzi}
 ! 
-| "[=kov+INF@antsi.][VRoot][=to.want (ES: querer)]" : {kov} 
+| "[=kov+INF@antsi.][VRoot][=to.want (ES: querer)]" : {kov} ! @section:verb@ 
 | "[=ko+INF@antsi.][VRoot][=to.want (ES: querer)]" : {ko} 
 | "[=kov+prtl.redup@b.copy.][VRoot][=to.want (ES: querer)]::[=to.prefer.strongly]" : {kokov} 
 #@PRTLREDUPCLASS01| "[=kov+prtl.redup@b.copy.][VRoot][=to.want (ES: querer)]::[=to.prefer.strongly]" : {kov} ! kokov 
@@ -1650,7 +1650,7 @@ define VRootPRQin [
 # -----------------------------------------------------------------------------------------------
 | "[=pari][VRoot][=to.fall (ES: caer)]" : {pari}
 | "[=paria][VRoot][=to.fall (ES: caer)]" : {paria}
-| "[=pary+INF@aantsi.][VRoot][=to.fall (ES: caer)]" : {pary} ! @section:verb@ 
+| "[=pary+INF@aantsi.][VRoot][=to.fall, to.fall.into.sth. (ES: caer)]" : {pary} ! @section:verb@ 
 ! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
 | "[=pariy][VRoot][=to.fall (ES: caer)]" : {pariy}
 | "[=pare][VRoot][=to.fall (ES: caer)]" : {pare}
@@ -2428,8 +2428,8 @@ define VRootPRQin [
 ! 
 | "[=tsiko+INF@/EP:t/aantsi.][VRoot][=to.hook (ES: enganchar), to.take.hold]" : {tsiko}
 ! 
-| "[=tsink+INF@V.][VRoot][=to.crush/mash.sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tsink} ! @section:verb@ 
-| "[=tzink+INF@V.][VRoot][=to.crush/mash.sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tzink}
+| "[=tsink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tsink} ! @section:verb@ 
+| "[=tzink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tzink}
 ! 
 | "[=tsint+INF@(a)antsi.][VRoot][=to.urinate (ES: orinar)]" : {tsint}
 | "[=tsini+INF@/EP:t/aantsi.][VRoot][=to.urinate (ES: orinar)]" : {tsini} ! \cite[pag. 29]{cushimariano:prel:08}
@@ -2440,7 +2440,7 @@ define VRootPRQin [
 ! 
 # ------------------------------------------------------------------------
 | "[=tsip][VRoot][=to.accompany (ES: acompañar); to.be.together (ES: tener.pareja); to.join (ES: juntarse)]" : {tsip}
-| "[=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar); to.be.together (ES: tener.pareja); to.join (ES: juntarse)]" : {tsipa}
+| "[=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar); to.be.together (ES: tener.pareja); to.join (ES: juntarse)]" : {tsipa} ! @section:verb@ 
 | "[=tsipat+INF@aantsi.][VRoot][=to.accompany (ES: acompañar); to.join (ES: juntarse); to.combine (ES: combinar)]" : {tsipat}
 ! 
 | "[=tsipari~{'to.join':tsipa}{REV:ri}+INF@antsi.][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}

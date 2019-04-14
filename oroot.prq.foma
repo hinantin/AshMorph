@@ -175,8 +175,8 @@ define ORootPRQin [
 | "[=o][OtherRoot][=or]" : {o}
 !| "[=okaakini][OtherRoot][=close.by]" : {okaakini}
 ! 
-| "[=tekatsi][VRoot][=NOT.EXIST; NOT.POSSESS]" : {tekatsi}
-| "[=teekatsi][VRoot][=NOT.EXIST; NOT.POSSESS]" : {teekatsi}
+| "[=tekatsi][VRoot][=NEG.EXIST: there.be.not, there.will.be.nothing; NEG.POSSESS]" : {tekatsi} ! @section:verb@ 
+| "[=teekatsi][VRoot][=NEG.EXIST; NEG.POSSESS]" : {teekatsi}
 ! 
 | "[=aati+prop@standalone.][VRoot][=we.go (ES: nosotros.vamos)]" : {aati}
 ! 
@@ -248,7 +248,7 @@ define ORootPRQin [
 | "[=enitatsi][VRoot][=EXIST (ES: hay); POSSESS; CONT.POSS (ES: aún.tiene)]" : {enitatsi} 
 ! 
 # CONT.EXIST: continue.to.exist 
-| "[=ainiro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.hay/haber)]" : {ainiro} 
+| "[=ainiro][VRoot][=EXIST: there.is, there.are (ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.hay, haber)]" : {ainiro} ! @section:verb@
 | "[=aeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.hay/haber)]" : {aeniro} 
 | "[=eeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.ser)]" : {eeniro} 
 
