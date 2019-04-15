@@ -4456,6 +4456,7 @@ define NRootPRQin [
 | "[=shipani+n.m.+inal@ntsi.][NRoot][=chest (ES: pecho; PT: peito); breast (PT: seio)]" : {shipani}
 ! 
 | "[=shipatona+n.m.+inal@ntsi.][NRoot][=beard, moustache (ES: barba, bigote; PT: barba, bigode)]" : {shipatona} ! N@->V::[=to.have.whiskers]
+!| "[=shipatonanti+gndr@n.m.][NRoot][=bearded.man (ES: barbudo)]" : {shipatonanti} ! @section:noun@ 
 ! 
 | "[=shipatyoki+n.m.+inal@ntsi.][NRoot][=eyelid (ES: párpado; PT: pálpebra)]" : {shipatyoki}
 ! 
@@ -4999,8 +5000,9 @@ define NRootPRQin [
 | "[=tsikoro+n.m.][NRoot][=hook (ES: gancho)]" : {tsikoro} 
 # bird, little bird 
 # categoría/grupo de aves pequeñas generalmente de colores brillantes 
+# tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' 
 | "[=tsimiri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimiri}
-| "[=tsimeri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimeri}
+| "[=tsimeri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimeri} ! @section:noun@ 
 ! 
 | "[=tsimenkito+m.+poss@te.][NRoot][=carbon (ES: carbón)]" : {tsimenkito} ! the gender is a result from my own analysis.
 ! 
