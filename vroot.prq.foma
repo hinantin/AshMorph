@@ -21,7 +21,7 @@
 define VRootPRQin [
 ! 
 # ---------------------------------------------------
-  "[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)]" : {a}
+  "[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)]" : {a} ! @section:verb@ 
 ! aaquena camaantsi / aakena kamaantsi / ES: 'resfriarse, lit. me.agarra.el.resfrio' 
 | "[=aa+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)]" : {aa}
 | "[=a][VRoot][=to.get]" : {a}
@@ -44,7 +44,7 @@ define VRootPRQin [
 | "[=aanan~aa{CL:/long,hollow:na/}{EP:n}+INF@VC.][VRoot][=to.extend (ES: extender)]" : {aanan} 
 ! 
 | "[=aatik+INF@aantsi.][VRoot][=to.step, to.foot (ES: pisar); to.kick (ES: patear)]" : {aatik} 
-| "[=aatzik+INF@aantsi.][VRoot][=to.step, to.foot (ES: pisar); to.kick (ES: patear)]" : {aatzik} 
+| "[=aatzik+INF@aantsi.][VRoot][=to.step, to.foot (ES: pisar); to.kick (ES: patear)]" : {aatzik} ! @section:verb@ 
 ! 
 | "[=am][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {am}
 | "[=aam][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aam}
