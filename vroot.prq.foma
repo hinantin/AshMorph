@@ -1279,7 +1279,7 @@ define VRootPRQin [
 | "[=oveshintsa][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {oveshintsa}
 | "[=ovetseenk][VRoot][=to.line.up, to.stand.in.line (ES: ponerse.en.fila, hacer.cola)]" : {ovetseenk}
 ! 
-| "[=mok][VRoot][=to.make.holes, to.perforate]" : {mok}
+| "[=mok+INF@aantsi.][VRoot][=to.make.holes, to.perforate (ES: ahuecar)]" : {mok} ! @section:verb@ 
 ! 
 | "[=mishiya~{M.CAUS:mi}{'huir':shiya}+INF@/EP:t/antsi.][VRoot][=to.frighten.away (ES: espantar, ahuyentar)]" : {mishiya}
 ! 
