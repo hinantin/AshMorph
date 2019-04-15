@@ -894,6 +894,8 @@ define NRootPRQin [
 # hetari: suckermouth.catfish 
 | "[=hetari+m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hetari}
 | "[=hitari+m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hitari}
+!| "[=hevari_kitetakiri+gndr@m.][NRoot][=armored.catfish.sp. (sci.nm.: chaetostoma.sp.,chaetostoma.lineopunctatum)]" : {hevari_kitetakiri} ! @section:noun@
+!| "[=hevari_tsekinti+gndr@m.][NRoot][=armored.catfish.sp. (sci.nm.: ancistrus.sp.)]" : {hevari_tsekinti} ! @section:noun@  
 ! 
 | "[=hevari][NRoot][=local.leader/chief]" : {hevari}
 ! 
@@ -959,6 +961,7 @@ define NRootPRQin [
 | "[=intxatonaki][NRoot:CPB][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {intxatonaki} 
 ! 
 | "[=inchatoshi][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
+!| "[=inchatoshisati][NRoot][=amazon.region; amazon.forest; amazonian]" : {inchatoshisati} ! @section:noun@ 
 ! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
 ! 
@@ -3049,7 +3052,7 @@ define NRootPRQin [
 ! 
 | "[=pototi][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.plúmbeo; sci.nm.: columba.plumbea)]" : {pototi}
 | "[=pototi][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.subinacea)]" : {pototi}
-| "[=potooti][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.speciosa)]" : {potooti} ! @section:noun@ 
+| "[=potooti+gndr@m.][NRoot][=dove.sp., big.dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.speciosa)]" : {potooti} ! @section:noun@ 
 ! 
 | "[=opaayaa+n.m.][NRoot][=beach; stony/rocky.ground]" : {opaayaa}
 ! 
