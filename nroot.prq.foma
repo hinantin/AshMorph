@@ -855,6 +855,7 @@ define NRootPRQin [
 | "[=hinyaa+n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hinyaa}
 | "[=hiaa+n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hiaa}
 | "[=inyaa+n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {inyaa}
+!| "[=inyaaveri+gndr@m.][NRoot][=aquatic; aquatic.being (ES: ser.de.los.mares)]" : {inyaaveri} ! @section:noun@ 
 ! 
 | "[=hiva+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {hiva}
 | "[=heva+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {heva}
@@ -3048,7 +3049,7 @@ define NRootPRQin [
 ! 
 | "[=pototi][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.plúmbeo; sci.nm.: columba.plumbea)]" : {pototi}
 | "[=pototi][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.subinacea)]" : {pototi}
-| "[=potooti][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.speciosa)]" : {potooti}
+| "[=potooti][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.speciosa)]" : {potooti} ! @section:noun@ 
 ! 
 | "[=opaayaa+n.m.][NRoot][=beach; stony/rocky.ground]" : {opaayaa}
 ! 

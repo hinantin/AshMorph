@@ -83,11 +83,11 @@ define VRootPRQin [
 ! 
 | "[=aavak+INF@aantsi.][VRoot][=to.receive; to.get.married (ES: casarse), to.take.a.spouse]" : {aavak}
 ! 
-| "[=aivent+INF@aantsi.][VRoot][=to.be.unfaithful (ES: adulterar)]" : {aivent}
-| "[=aiment+INF@aantsi.][VRoot][=to.be.unfaithful (ES: adulterar)]" : {aiment}
+| "[=aivent+INF@aantsi.][VRoot][=to.be.unfaithful (ES: adulterar)]" : {aivent} ! @section:verb@ 
+| "[=aiment+INF@aantsi.][VRoot][=to.be.unfaithful (ES: adulterar)]" : {aiment} ! @section:verb@ 
 ! 
 | "[=aavin][VRoot][=to.cure (ES: curar)]" : {aavin}
-| "[=aavint+INF@aantsi.][VRoot][=to.cure (ES: curar)]" : {aavint}
+| "[=aavint+INF@aantsi.][VRoot][=to.cure (ES: curar)]" : {aavint} ! @section:verb@ 
 | "[=aavent+INF@aantsi.][VRoot][=to.cure (ES: curar)]" : {aavent}
 | "[=avint+INF@antsi.][VRoot][=to.cure (ES: curar)]" : {avint}
 ! 
@@ -130,7 +130,7 @@ define VRootPRQin [
 #@TOTREDUPCLASS03| "[=ag+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.collect (ES: recoger)]" : {ag} ! agaagaa 
 ! 
 | "[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim]" : {ama}
-| "[=amaa+INF@/EP:t/aantsi.][VRoot][=to.swim]" : {amaa}
+| "[=amaa+INF@/EP:t/aantsi.][VRoot][=to.swim]" : {amaa} ! @section:verb@ 
 ! 
 | "[=amaatako+INF@/EP:t/antsi.][VRoot][=to.go_down.by.boat/canoe/ferry (ES: bajar.en.bote/canoa/balsa)]" : {amaatako}
 ! 
