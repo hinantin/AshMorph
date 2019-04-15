@@ -2869,6 +2869,8 @@ define NRootPRQin [
 | "[=nya/ña+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nya}
 | "[=nea+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nea}
 ! 
+!| "[=nyaanamento/ñaanamento+gndr@n.m.+inal@tsi.][NRoot][=book]" : {nyaanamento} ! @section:noun@ 
+! 
 | "[=nyaaperori/ñaaperori+m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {nyaaperori}
 | "[=nyaapirori/ñaapirori+m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {nyaapirori}
 | "[=neaperori+m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {neaperori}
@@ -5002,7 +5004,7 @@ define NRootPRQin [
 # categoría/grupo de aves pequeñas generalmente de colores brillantes 
 # tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' 
 | "[=tsimiri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimiri}
-| "[=tsimeri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimeri} ! @section:noun@ 
+| "[=tsimeri+gndr@m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimeri} ! @section:noun@ 
 ! 
 | "[=tsimenkito+m.+poss@te.][NRoot][=carbon (ES: carbón)]" : {tsimenkito} ! the gender is a result from my own analysis.
 ! 
