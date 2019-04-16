@@ -1492,7 +1492,7 @@ define VRootPRQin [
 ! 
 | "[=onyani+INF@/EP:t/aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyani}
 ! 
-| "[=ooko+INF@/EP:t/aantsi.][VRoot][=to.identify; to.mark, to.point (ES: señalar; PT: apontar.a.c.)]" : {ooko}
+| "[=ooko+INF@/EP:t/aantsi.][VRoot][=to.identify; to.mark, to.point (ES: señalar; PT: apontar.a.c.)]" : {ooko} ! @section:verb@ 
 | "[=hiko+INF@/EP:t/aantsi.][VRoot][=to.mark, to.point (ES: apuntar; PT: apontar.a.c.)]" : {hiko}
 | "[=hoko][VRoot][=to.mark, to.point (ES: apuntar; PT: apontar.a.c.)]" : {hoko}
 | "[=oinih+INF@aantsi.][VRoot][=to.point (ES: señalar)]" : {oinih}
@@ -1505,7 +1505,7 @@ define VRootPRQin [
 ! 
 | "[=oonk][VRoot][=to.flood (ES: inundar(se))]" : {oonk} 
 ! 
-| "[=oonk+INF@aantsi.][VRoot][=to.produce_sounds/whistle.by.covering.the.mouth.with.half-joint.hands (ES: puquear, puquiar; QU: phukuy)]" : {oonk} 
+| "[=oonk+INF@aantsi.][VRoot][=to.produce_sounds/whistle.by.covering.the.mouth.with.half-joint.hands (ES: puquear, puquiar; QU: phukuy)]" : {oonk} ! @section:verb@ 
 | "[=koonk][VRoot][=to.signal.by.whistling.with.both.hands, to.whistle]" : {koonk} 
 | "[=konk][VRoot][=to.signal.by.whistling.with.both.hands, to.whistle]" : {konk} 
 ! 

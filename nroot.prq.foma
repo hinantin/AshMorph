@@ -1215,6 +1215,9 @@ define NRootPRQin [
 | "[=iviri+gndr@n.m.+inal@ntsi.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
 | "[=ovire+inal@ntsi.][NRoot][=hunting.trap (ES: trampa.de.caza)]" : {ovire}
 ! 
+# overapaka / EN: 'boundary'; ES: 'límite' 
+!| "[=overapaka][NRoot][=boundary (ES: límite)]" : {overapaka} ! @section:noun@ 
+! 
 | "[=iveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {iveto}
 | "[=oveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {oveto}
 ! 
@@ -5129,6 +5132,7 @@ define NRootPRQin [
 ! 
 # tsiyomentotsi / =tsiyo -mento -tsi / =to.give.off.light -concr -nposs / EN: 'burner'; ES: 'mechero'
 | "[=tsiyomento+gndr@n.m.+inal@tsi.][NRoot][=burner (ES: mechero)]" : {tsiyomento} ! @section:noun@ 
+| "[=tsioro+gndr@n.m.+inal@ntsi.][NRoot][=candle (ES: vela)]" : {tsioro} ! @section:noun@ 
 ! 
 | "[=tsiyontzi+gndr@m.][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiyontzi}
 ! 
@@ -5346,6 +5350,8 @@ define NRootPRQin [
 | "[=varipa+gndr@m.][NRoot][=rooster]" : {varipa}
 ! 
 | "[=vatsa+gndr@n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
+# batsatsinari / vatsatsinari / =vatsa -tsi -nari / =meat -nposs -cl:consumer.of.sth. / EN: 'carnivore'; ES: 'carnívoro' 
+!| "[=vatsatsinari+gndr@m.][NRoot][=carnivore (ES: carnívoro)]" : {vatsatsinari} ! @section:noun@ 
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
 ! 
