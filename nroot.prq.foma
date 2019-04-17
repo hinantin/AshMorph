@@ -972,7 +972,7 @@ define NRootPRQin [
 | "[=inchashinari+healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
 ! 
 | "[=inka][NRoot][=rain (ES: lluvia)]" : {inka}
-| "[=inkani+gndr@n.m.][NRoot][=rain (ES: lluvia; PT: chuva; QU: para)]" : {inkani}
+| "[=inkani+gndr@n.m.][NRoot][=rain (ES: lluvia; PT: chuva; QU: para)]" : {inkani} ! @section:noun@ 
 | "[=iNkani/ĩkani+gndr@n.m.][NRoot:CPB][=rain (ES: lluvia; PT: chuva; QU: para)]" : {ĩkani}
 | "[=inkane+gndr@n.m.][NRoot][=rain (ES: lluvia; PT: chuva; QU: para)]" : {inkane}
 ! 
