@@ -1916,7 +1916,7 @@ define NRootPRQin [
 | "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
 | "[=kitaeriki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitaeriki}
 ! 
-| "[=kitaiteri][NRoot][=day (ES: día)]" : {kitaiteri} ! @CMP 
+| "[=kitaiteri][NRoot][=day (ES: día; PT: dia; QU: p'unchay, p'unchaw)]" : {kitaiteri} ! @CMP @section:noun@ 
 | "[=kitaeteri][NRoot][=day (ES: día)]" : {kitaeteri}
 | "[=kitehiri][NRoot][=day (ES: día)]" : {kitehiri}
 | "[=kiteheri][NRoot][=day (ES: día)]" : {kiteheri}
@@ -2078,7 +2078,7 @@ define NRootPRQin [
 | "[=kontya+gndr@n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {kontya} ! @CMP 
 | "[=akonta][NRoot][=heel]" : {akonta}
 ! 
-| "[=kontanto+gndr@n.m.][NRoot][=sweet_potato.sp. (ES: sp.de.camote)]" : {kontanto}
+| "[=kontanto+gndr@n.m.][NRoot][=sweet_potato.sp. (ES: sp.de.camote; PT: batata-doce; QU: apichu)]" : {kontanto} ! @section:noun@ 
 ! 
 | "[=koNtaki/kõtaki][NRoot:CPB][= (ES: paja.de.palmera.de.coco; PT: (palha.de.palmeira.de).cocão)]" : [{kõtaki}|{kotaki}]
 ! 
@@ -2095,10 +2095,10 @@ define NRootPRQin [
 | "[=konti][NRoot][=bird.sp. (ES: sp.de.pájaro; sci.nm.: scaphidura.oryzivora)]" : {konti}
 ! 
 # kontzishini / =kontzi -shi -ni / =pona-tree -cl:leafy.substance -cl:watercourse / EN: 'ravine.where.the.pona-tree.leafy.substance.is.abundant'; ES: 'quebrada'   
-| "[=kontzi][NRoot][=tree.sp. (pona)]" : {kontzi}
+| "[=kontzi][NRoot][=tree.sp. (ES: pona)]" : {kontzi}
 ! 
-| "[=kooya][NRoot][=woman (from.Quechua.Quya)]" : {kooya} ! N@->V
-| "[=koya][NRoot][=woman (from.Quechua.Quya)]" : {koya} ! N@->V
+| "[=kooya+gndr@n.m.][NRoot][=woman (QU: quya)]" : {kooya} ! N@->V
+| "[=koya+gndr@n.m.][NRoot][=woman (QU: quya)]" : {koya} ! N@->V ! @section:noun@ 
 ! 
 | "[=kopitso+gndr@m.][NRoot][=turtle.sp. (ES: sp.de.tortuga)]" : {kopitso}
 ! 
@@ -4337,7 +4337,7 @@ define NRootPRQin [
 ! 
 | "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking; ES: plátano.de.seda; sci.nm.: musa.musaceae)]" : {shiira}
 ! 
-| "[=shima+gndr@m.+poss@ni:te.][NRoot][=fish (ES: pez, pescado); fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]" : {shima}
+| "[=shima+gndr@m.+poss@ni:te.][NRoot][=fish (ES: pez, pescado; PT: peixe; QU: challwa); fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]" : {shima} ! @section:noun@ 
 ! 
 | "[=shimamiroki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: steindachnerina.guentheri.sp.)]" : {shimamiroki} 
 ! 
@@ -5226,7 +5226,7 @@ define NRootPRQin [
 | "[=shoipeiri][NRoot][=mythological.super.human.being (ES: un.gran.sheripiari/shaman, superhombre.mitológico)]" : {shoipeiri}
 | "[=shoipeirini+gndr@m.][NRoot][=mythological.super-human.being (ES: un.gran.sheripiari/shaman, superhombre.mitológico, gente.gigantesca-y-muy_fuerte)]" : {shoipeirini} ! is -ni a temporal suffix ??? probably 
 ! 
-| "[=shoiriki][NRoot][=tuber.sp. (oca, from.Quechua.Uqa, sci.nm.: calatea.allouia, oxalis.tuberosa)]" : {shoiriki}
+| "[=shoiriki][NRoot][=tuber.sp. (ES: oca; QU: uqa; sci.nm.: calatea.allouia, oxalis.tuberosa)]" : {shoiriki}
 ! 
 | "[=shokonaki][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {shokonaki}
 ! 
