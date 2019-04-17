@@ -674,8 +674,8 @@ define VRootPRQin [
 | "[=kamatsa][VRoot][=to.crawl (ES: gatear)]" : {kamatsa}
 | "[=akamatsa][VRoot][=to.crawl (ES: gatear)]" : {akamatsa} ! only 1 ocurrence ???
 ! 
-| "[=kameetsa][VRoot][=to.be.good]" : {kameetsa}
-| "[=kametsa][VRoot][=to.be.good]" : {kametsa}
+| "[=kameetsa+INF@/EP:t/VC.][VRoot][=to.be.good]" : {kameetsa}
+| "[=kametsa+INF@/EP:t/VC.][VRoot][=to.be.good]" : {kametsa}
 ! 
 | "[=kamen][VRoot][=to.advise; to.give.advice]" : {kamen}
 | "[=kamin][VRoot][=to.advise; to.give.advice]" : {kamin}
