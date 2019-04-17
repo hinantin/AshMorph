@@ -35,7 +35,7 @@ define VRootPRQin [
 | "[=a][VRoot][=to.choose]" : {a}
 | "[=a][VRoot][=to.pick]" : {a}
 ! 
-| "[=aa+INF@/EP:t/aantsi.][VRoot][=to.perch; to.land, to.disembark; to.dock (ES: atracar)]" : {aa}
+| "[=aa+INF@/EP:t/aantsi.][VRoot][=to.perch;| to.land, to.disembark;| to.dock (ES: atracar)]" : {aa} ! @section:verb@ 
 ! 
 # aaha~ / =aa -ha ~ / =to.take -cl:liquid ~ / EN: 'to.reduce.river_flow'  
 | "[=aaha~aa{CL:/liquid:ha/}+INF@VC.][VRoot][=to.reduce.the.river_flow (ES: bajar/mermar.el.agua.del.río)]" : {aaha} 
@@ -81,7 +81,7 @@ define VRootPRQin [
 ! 
 | "[=aatonkori+INF@antsi.][VRoot][=to.undress (ES: desnudar)]" : {aatonkori}
 ! 
-| "[=aavak+INF@aantsi.][VRoot][=to.receive; to.get.married (ES: casarse), to.take.a.spouse]" : {aavak}
+| "[=aavak+INF@aantsi.][VRoot][=to.receive; to.get.married (ES: casarse); to.take.a.spouse]" : {aavak}
 ! 
 | "[=aivent+INF@aantsi.][VRoot][=to.be.unfaithful (ES: adulterar)]" : {aivent} ! @section:verb@ 
 | "[=aiment+INF@aantsi.][VRoot][=to.be.unfaithful (ES: adulterar)]" : {aiment} ! @section:verb@ 
