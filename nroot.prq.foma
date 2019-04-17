@@ -957,7 +957,7 @@ define NRootPRQin [
 ! 
 | "[=inchatomashi][NRoot][=shrub (ES: arbusto)]" : {inchatomashi} 
 ! 
-| "[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {inchatonaki} 
+| "[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {inchatonaki} ! @section:noun@ 
 | "[=intxatonaki][NRoot:CPB][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {intxatonaki} 
 ! 
 | "[=inchatoshi][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
@@ -978,10 +978,10 @@ define NRootPRQin [
 ! 
 | "[=inkaniteri][NRoot][=master-owner.of.rain (ES: dueño.de.la.lluvia)]" : {inkaniteri}
 ! 
-| "[=inkari+gndr@n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkari}
-| "[=inkaari+gndr@n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkaari}
-| "[=inkare+gndr@n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkare}
-| "[=inkaare+gndr@n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]" : {inkaare}
+| "[=inkari+gndr@n.m.][NRoot][=lake, cocha (QU: qucha; ES: laguna; PT: lago)]" : {inkari} ! 
+| "[=inkaari+gndr@n.m.][NRoot][=lake, cocha (QU: qucha; ES: laguna)]" : {inkaari}
+| "[=inkare+gndr@n.m.][NRoot][=lake, cocha (QU: qucha; ES: laguna)]" : {inkare}
+| "[=inkaare+gndr@n.m.][NRoot][=lake, cocha (QU: qucha; ES: laguna)]" : {inkaare}
 | "[=inkahare][NRoot][=lagoon]" : {inkahare}
 ! 
 | "[=inkanya+gndr@n.m.][NRoot][=intermittent.rain-water.well (ES: pozo.intermitente.de.agua.de.lluvia)]" : {inkanya}
@@ -1895,6 +1895,9 @@ define NRootPRQin [
 | "[=keshii][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {keshii}
 | "[=keshi][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {keshi}
 ! 
+!| "[=keshiisatzi+gndr@m.][NRoot][=grasslander (ES: pajonalino)]" : {keshiisatzi} ! @section:noun@ 
+!| "[=kishiisatzi+gndr@m.][NRoot][=grasslander (ES: pajonalino)]" : {kishiisatzi} ! @section:noun@ 
+! 
 | "[=kishiri+gndr@m.][NRoot][=comb (ES: peine)]" : {kishiri}
 | "[=kishire+gndr@m.][NRoot][=comb (ES: peine)]" : {kishire}
 ! 
@@ -2385,6 +2388,7 @@ define NRootPRQin [
 # nomapikitakero / no- =mapi -ki -t-ak -e -ro / 1sg.a- =stone -cl:small,round -ep -prf -irr -3n.m.o / EN: 'fixing.pebbles/sinker-like_pebbles.in.sth. (i.e.: a.fish_trap)', ES: 'fijar piedrecitas/guijarros en algo (por ejemplo: en la red)'
 | "[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone; rock]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
 | "[=mapiki+gndr@n.m.][NRoot][=pebble (ES: piedra.chica; PT: seixo)]" : {mapiki} 
+!| "[=mapipooki+gndr@n.m.][NRoot][=stony.ground (ES: pedregal, cascajal)]" : {mapipooki} ! @section:noun@ 
 ! 
 | "[=mapichiri][NRoot][=boa (ES: boa); aquatic.snake (ES: serpiente.acuática, anaconda.de.color.marrón-verde.oliva.con.pequeñas.manchas.negras.y.amarillas; sci.nm.: eunectes.murinus)]" : {mapichiri}
 ! 
@@ -4242,6 +4246,9 @@ define NRootPRQin [
 | "[=shaa+poss@ni.][NRoot][=anteater (ES: piampía; PT: tamanduá)]" : {shaa}
 | "[=shani+gndr@m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shani}
 | "[=shaani+gndr@m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shaani}
+! 
+!| "[=sheninka][NRoot][=fellow.citizen (ES: paisano)]" : {sheninka} ! @section:noun@ 
+!| "[=shaninka][NRoot][=fellow.citizen (ES: paisano)]" : {shaninka} ! @section:noun@ 
 ! 
 | "[=sharaka][NRoot][=snow (ES: nieve); hail (ES: granizo)]" : {sharaka}
 ! 
