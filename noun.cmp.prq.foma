@@ -5,43 +5,43 @@ define NRootCmpPRQin [
   "[--][=henka+poss@ne.][NRoot][=odor; smell]" : {henka} ! @CMP  
 | "[--][=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} ! @CMP
 | "[--][=ina][NRoot][=sphere; spherical]" : {ina} !@CMP
-| "[--][=inki+n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
+| "[--][=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
 | "[--][=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tsempeki} ! @VCMP @CMP 
 | "[--][=tseempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tseempeki} ! @VCMP @CMP 
-| "[--][=tsova+n.m.+inal@tsi.][NRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : {tsova} ! @CMP @VCMP  
-| "[--][=kaniri~kanir{nposs:i}+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
-| "[--][=kaaniri~kaanir{nposs:i}+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
-| "[--][=kanire~kanir{poss:e}+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
-| "[--][=kainiri~kainir{nposs:i}+n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
-| "[--][=kasanto+n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
-| "[--][=kempita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
+| "[--][=tsova+gndr@n.m.+inal@tsi.][NRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : {tsova} ! @CMP @VCMP  
+| "[--][=kaniri~kanir{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
+| "[--][=kaaniri~kaanir{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
+| "[--][=kanire~kanir{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
+| "[--][=kainiri~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+| "[--][=kasanto+gndr@n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
+| "[--][=kempita+gndr@n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
 | "[--][=kishi][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {kishi} ! @CMP 
-| "[--][=kitaiteri][NRoot][=day (ES: día)]" : {kitaiteri} ! @CMP 
-| "[--][=konta+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
-| "[--][=kontya+n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {kontya} ! @CMP 
-| "[--][=mereki+n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
-| "[--][=moro+n.m.+inal@n/tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
-| "[--][=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP ! N@->V::[=to.water]
-| "[--][=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
+| "[--][=kitaiteri][NRoot][=day (ES: día; PT: dia; QU: p'unchay, p'unchaw)]" : {kitaiteri} ! @CMP @section:noun@ 
+| "[--][=konta+gndr@n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
+| "[--][=kontya+gndr@n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {kontya} ! @CMP 
+| "[--][=mereki+gndr@n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
+| "[--][=moro+gndr@n.m.+inal@n/tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
+| "[--][=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP ! N@->V::[=to.water]
+| "[--][=niha+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
 | "[--][=chera][NRoot][=shore (ES: orilla)]" : {chera} ! @CMP 
-| "[--][=noma+n.m.+inal@tsi.][NRoot][=jaw (ES: mandíbula, quijada)]" : {noma} ! @CMP
-| "[--][=panka+n.m.+inal@tsi.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
+| "[--][=noma+gndr@n.m.+inal@tsi.][NRoot][=jaw (ES: mandíbula, quijada)]" : {noma} ! @CMP
+| "[--][=panka+gndr@n.m.+inal@tsi.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
 | "[--][=pankaina+inal@tsi.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
-| "[--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP @VCMP 
-| "[--][=paNko/pãko+n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
-| "[--][=peshi+n.m.+inal@tsi.][NRoot][=shoot (ES: retoño); stalk.of.a.plant, cluster, the.part.of.the.banana_plant.that.is.planted]" : {peshi} ! @CMP 
-| "[--][=peyari+m.][NRoot][=ghost; demon; bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 
-| "[--][=piyari+m.][NRoot][=ghost; demon; bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {piyari} ! @CMP 
-| "[--][=pira+m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
-| "[--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
-| "[--][=poro+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
-| "[--][=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyare} ! @CMP 
-| "[--][=pyari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyari} ! @CMP 
-| "[--][=sama+n.m.+inal@tsi.][NRoot][=inanimate.body (ES: cuerpo.inanimado); medicinal.plant]" : {sama} ! @CMP
-| "[--][=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheya} ! @CMP 
-| "[--][=shiya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {shiya} ! @CMP 
-| "[--][=shaa+n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {shaa} ! @CMP 
-| "[--][=sanii+m.][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
+| "[--][=panko+gndr@n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP @VCMP 
+| "[--][=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
+| "[--][=peshi+gndr@n.m.+inal@tsi.][NRoot][=shoot (ES: retoño); stalk.of.a.plant, cluster, the.part.of.the.banana_plant.that.is.planted]" : {peshi} ! @CMP 
+| "[--][=peyari+gndr@m.][NRoot][=ghost; demon; bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 
+| "[--][=piyari+gndr@m.][NRoot][=ghost; demon; bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {piyari} ! @CMP 
+| "[--][=pira+gndr@m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
+| "[--][=pori+gndr@n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
+| "[--][=poro+gndr@n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
+| "[--][=pyare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyare} ! @CMP 
+| "[--][=pyari+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyari} ! @CMP 
+| "[--][=sama+gndr@n.m.+inal@tsi.][NRoot][=inanimate.body (ES: cuerpo.inanimado); medicinal.plant]" : {sama} ! @CMP
+| "[--][=sheya+gndr@n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheya} ! @CMP 
+| "[--][=shiya+gndr@n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {shiya} ! @CMP 
+| "[--][=shaa+gndr@n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {shaa} ! @CMP 
+| "[--][=sanii+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
 | "[--][=vaNki][NRoot][=feather (ES: pluma); wing_feather]" : {vanki} ! @CMP N@->V::[=to.have.wings (ES: tener.alas)] 
 | "[--][=taapi+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {taapi} ! @CMP
 | "[--][=tapi+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {tapi} ! @CMP
@@ -51,7 +51,7 @@ define NRootCmpPRQin [
 | "[--][=santsa][NRoot][=long (in.length; ES: largo)]" : {santsa} ! N@->V @CMP
 | "[--][=hantsa][NRoot][=long (in.length; ES: largo)]" : {hantsa} ! N@->V @CMP
 | "[--][=tsapaki][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
-| "[--][=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
+| "[--][=tsipana+gndr@n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
 # @CMP			noun composition 
 | "[--][=tapo+s.redup.word@2X.][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
 | "[--][=pani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {pani} ! @CMP 
