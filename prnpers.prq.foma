@@ -9,7 +9,7 @@ define PrnPersPRQin [
 ! +cntr.cnt.assert.top. (-inti: contrastive counter-assertive topic)
 ! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
 # -------------------------------------------------------------------
-  "[=naaka+p.func@cont.d.top.][PrnPers][+1SG.EXCL.][=I (ES: yo)]" : {naaka}
+  "[=naaka+p.func@cont.d.top.+num@1SG.EXCL.][PrnPers][=I (ES: yo)]" : {naaka} ! @section:prnpers@ 
 | "[=naka+p.func@cont.d.top.][PrnPers][+1SG.EXCL.][=I (ES: yo)]" : {naka}
 # naro: it is only used in greetings 
 | "[=naro+p.func@cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naro}
