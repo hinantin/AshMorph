@@ -1801,7 +1801,7 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------------
 # kipatsi: country, earth, soil, ground, land, dirt, dust 
-| "[=kipatsi+gndr@n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa); mud; land]" : {kipatsi} ! @section:noun@ 
+| "[=kipatsi+gndr@n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa);| mud;| land]" : {kipatsi} ! @section:noun@ 
 | "[=kipatsiki][NRoot][=world (ES: mundo)]" : {kipatsiki}
 | "[=kipatsini][NRoot][=ground (ES: suelo)]" : {kipatsini}
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
@@ -2855,7 +2855,7 @@ define NRootPRQin [
 | "[=hinyaa/hĩyaa+poss@te.][NRoot:CPB][=water (ES: agua); river (ES: rio)]" : {hĩyaa} 
 ! 
 # nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek'
-| "[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nihateni} ! @section:noun@ 
+| "[=nihateni][NRoot][=brook;| creek (ES: quebrada, arroyo)]" : {nihateni} ! @section:noun@ 
 | "[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nihaateni}
 | "[=hinyaateni/hiñaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaateni}
 | "[=hinyaatini/hiñaatini][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaatini}
@@ -4337,7 +4337,7 @@ define NRootPRQin [
 ! 
 | "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking; ES: plátano.de.seda; sci.nm.: musa.musaceae)]" : {shiira}
 ! 
-| "[=shima+gndr@m.+poss@ni:te.][NRoot][=fish (ES: pez, pescado; PT: peixe; QU: challwa); fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]" : {shima} ! @section:noun@ 
+| "[=shima+gndr@m.+poss@ni:te.][NRoot][=fish (ES: pez, pescado; PT: peixe; QU: challwa);| fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]" : {shima} ! @section:noun@ 
 ! 
 | "[=shimamiroki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: steindachnerina.guentheri.sp.)]" : {shimamiroki} 
 ! 

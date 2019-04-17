@@ -44,7 +44,7 @@ define VRootPRQin [
 | "[=aanan~aa{CL:/long,hollow:na/}{EP:n}+INF@VC.][VRoot][=to.extend (ES: extender)]" : {aanan} 
 ! 
 | "[=aatik+INF@aantsi.][VRoot][=to.step, to.foot (ES: pisar); to.kick (ES: patear)]" : {aatik} 
-| "[=aatzik+INF@aantsi.][VRoot][=to.step, to.foot (ES: pisar); to.kick (ES: patear)]" : {aatzik} ! @section:verb@ 
+| "[=aatzik+INF@aantsi.][VRoot][=to.step, to.foot (ES: pisar);| to.kick (ES: patear)]" : {aatzik} ! @section:verb@ 
 ! 
 | "[=am][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {am}
 | "[=aam][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aam}
@@ -56,7 +56,7 @@ define VRootPRQin [
 | "[=aapatikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]" : {aapatikiy} ! V@->N::[=union.between.people (ES: unión.en.personas)] 
 | "[=patikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]" : {patikiy} 
 ! 
-| "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound; to.destroy (ES: malograr)]" : {amashi} ! @section:verb@ 
+| "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound;| to.destroy (ES: malograr)]" : {amashi} ! @section:verb@ 
 ! 
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashi}
 | "[=amashink~amashi{EP:n}{DEGREE:k}+INF@VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashink}
@@ -665,7 +665,7 @@ define VRootPRQin [
 ! 
 | "[=kampoiri][VRoot][=to.disembowel (ES: destripar)]" : {kampoiri} ! @section:verb@ 
 ! 
-| "[=kamant+INF@aantsi.][VRoot][=to.inform; to.advise]" : {kamant} ! V@->N::[=sermon (ES: sermón)] @section:verb@ 
+| "[=kamant+INF@aantsi.][VRoot][=to.inform;| to.advise]" : {kamant} ! V@->N::[=sermon (ES: sermón)] @section:verb@ 
 ! 
 | "[=kamarank+INF@aantsi.][VRoot][=to.vomit (ES: vomitar)]" : {kamarank} ! V@->N::[=vomit (ES: vómito)] @section:verb@ 
 | "[=kamaank][VRoot][=to.vomit (ES: vomitar)]" : {kamaank}
@@ -692,7 +692,7 @@ define VRootPRQin [
 | "[=kampi][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kampi}
 | "[=kami][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kami}
 ! 
-| "[=kant+INF@aantsi.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kant} ! @section:verb@ 
+| "[=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able]" : {kant} ! @section:verb@ 
 | "[=kãt][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kãt}
 # cantacaantantatsiri / kantakaantantatsiri / ES: 'curaca' ; QU: 'kuraka' ; CNI: 'coraca'
 | "[=kant+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[= (ES: ser.ley/dicho)]" : {kantakant}
@@ -1157,7 +1157,7 @@ define VRootPRQin [
 | "[=mana+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)]" : {mana}
 | "[=manaa+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)]" : {manaa}
 ! 
-| "[=manin+INF@/EP:t/aantsi.][VRoot][=to.scorn (ES: desdeñar); to.look.down.on.sb. (ES: despreciar)]" : {manin} ! @section:verb@ 
+| "[=manin+INF@/EP:t/aantsi.][VRoot][=to.scorn (ES: desdeñar);| to.look.down.on.sb. (ES: despreciar)]" : {manin} ! @section:verb@ 
 | "[=manint+INF@aantsi.][VRoot][=to.scorn (ES: desdeñar); to.look.down.on.sb. (ES: despreciar)]" : {manint}
 ! 
 # cantar y bailar en fila, solo las mujeres. 
@@ -1492,7 +1492,7 @@ define VRootPRQin [
 ! 
 | "[=onyani+INF@/EP:t/aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyani}
 ! 
-| "[=ooko+INF@/EP:t/aantsi.][VRoot][=to.identify; to.mark, to.point (ES: señalar; PT: apontar.a.c.)]" : {ooko} ! @section:verb@ 
+| "[=ooko+INF@/EP:t/aantsi.][VRoot][=to.identify;| to.mark, to.point (ES: señalar; PT: apontar.a.c.)]" : {ooko} ! @section:verb@ 
 | "[=hiko+INF@/EP:t/aantsi.][VRoot][=to.mark, to.point (ES: apuntar; PT: apontar.a.c.)]" : {hiko}
 | "[=hoko][VRoot][=to.mark, to.point (ES: apuntar; PT: apontar.a.c.)]" : {hoko}
 | "[=oinih+INF@aantsi.][VRoot][=to.point (ES: señalar)]" : {oinih}
@@ -2025,7 +2025,7 @@ define VRootPRQin [
 | "[=sheki][VRoot][=to.be.much]" : {sheki}
 | "[=sheki][VRoot][=to.be.much]" : {sheki}
 ! 
-| "[=shem+INF@aantsi.][VRoot][=to.be.bored (ES: estar.aburrido, aborrecer); to.get.impatient (ES: impacientarse)]" : {shem} ! @section:verb@ 
+| "[=shem+INF@aantsi.][VRoot][=to.be.bored (ES: estar.aburrido, aborrecer);| to.get.impatient (ES: impacientarse)]" : {shem} ! @section:verb@ 
 ! 
 | "[=sheme][VRoot][=to.be.proud/haughty (ES: estar.orgulloso/altivo)]" : {sheme}
 | "[=shame][VRoot][=to.be.proud/haughty (ES: estar.orgulloso/altivo)]" : {shame}
@@ -2428,7 +2428,7 @@ define VRootPRQin [
 ! 
 | "[=tsiko+INF@/EP:t/aantsi.][VRoot][=to.hook (ES: enganchar), to.take.hold]" : {tsiko}
 ! 
-| "[=tsink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tsink} ! @section:verb@ 
+| "[=tsink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca);| to.pound.sth. (ES: machacar)]" : {tsink} ! @section:verb@ 
 | "[=tzink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tzink}
 ! 
 | "[=tsint+INF@(a)antsi.][VRoot][=to.urinate (ES: orinar)]" : {tsint}
@@ -2440,7 +2440,7 @@ define VRootPRQin [
 ! 
 # ------------------------------------------------------------------------
 | "[=tsip][VRoot][=to.accompany (ES: acompañar); to.be.together (ES: tener.pareja); to.join (ES: juntarse)]" : {tsip}
-| "[=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar); to.be.together (ES: tener.pareja); to.join (ES: juntarse)]" : {tsipa} ! @section:verb@ 
+| "[=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar);| to.be.together (ES: tener.pareja);| to.join (ES: juntarse)]" : {tsipa} ! @section:verb@ 
 | "[=tsipat+INF@aantsi.][VRoot][=to.accompany (ES: acompañar); to.join (ES: juntarse); to.combine (ES: combinar)]" : {tsipat}
 ! 
 | "[=tsipari~{'to.join':tsipa}{REV:ri}+INF@antsi.][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}
