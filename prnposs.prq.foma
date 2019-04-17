@@ -1,14 +1,14 @@
 # free possesive pronominal pronouns
 
 define PrnPossPRQin [
-  "[=nashi][PrnPoss][+1SG][=mine (ES: mío)]" : {nashi} ! mine
-| "[=pashi][PrnPoss][+2SG][=yours (ES: tuyo)]" : {pashi}
-| "[=irashi][PrnPoss][+3SG.m.][=his, its (ES: suyo.(de.hombre))]" : {irashi} ! his, its
-| "[=rashi][PrnPoss][+3SG.m.][=his (ES: suyo.(de.hombre)]" : {rashi} ! his
-| "[=ashi][PrnPoss][+3SG.n.m.][=her, hers, its (ES: suyo.(de.mujer)]" : {ashi} ! her, hers, its
-| "[=ashi][PrnPoss][+1PL]" : {ashi}
-| "[=pashiite][PrnPoss][+2PL]" : {pashiite}
-| "[=irashiite][PrnPoss][+3PL.m.]" : {irashiite}
-| "[=ashiite][PrnPoss][+3PL.n.m.]" : {ashiite}
+  "[=nashi+num@1SG][PrnPoss][=mine (ES: mío)]" : {nashi} ! mine
+| "[=pashi+num@2SG][PrnPoss][=yours (ES: tuyo)]" : {pashi}
+| "[=irashi+num@3SG+gndr@m.][PrnPoss][=his, its (ES: suyo.(de.hombre))]" : {irashi} ! his, its
+| "[=rashi+num@3SG+gndr@m.][PrnPoss][=his (ES: suyo.(de.hombre)]" : {rashi} ! his
+| "[=ashi+num@3SG+gndr@n.m.][PrnPoss][=her, hers, its (ES: suyo.(de.mujer)]" : {ashi} ! her, hers, its
+| "[=ashi+num@1PL][PrnPoss][=ours]" : {ashi}
+| "[=pashiite+num@2PL][PrnPoss][=yours]" : {pashiite}
+| "[=irashiite+num@3PL+gndr@m.][PrnPoss][=theirs]" : {irashiite}
+| "[=ashiite+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashiite}
 ];
 
