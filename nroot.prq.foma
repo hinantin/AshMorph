@@ -1801,7 +1801,7 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------------
 # kipatsi: country, earth, soil, ground, land, dirt, dust 
-| "[=kipatsi+gndr@n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra); mud; land]" : {kipatsi}
+| "[=kipatsi+gndr@n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa); mud; land]" : {kipatsi} ! @section:noun@ 
 | "[=kipatsiki][NRoot][=world (ES: mundo)]" : {kipatsiki}
 | "[=kipatsini][NRoot][=ground (ES: suelo)]" : {kipatsini}
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
