@@ -692,8 +692,8 @@ define VRootPRQin [
 ! 
 | "[=kamo][VRoot][=to. (ES: tapar.brazo.grande.del.río)]" : {kamo}
 ! 
-| "[=kampi][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kampi}
-| "[=kami][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kami}
+| "[=kampi+INF@/EP:t/aantsi.][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kampi}
+| "[=kami+INF@/EP:t/aantsi.][VRoot][=to.ask.for.sth. (ES: pedir)]" : {kami}
 ! 
 | "[=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able]" : {kant} ! @section:verb@ 
 | "[=kãt][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kãt}
