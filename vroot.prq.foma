@@ -677,7 +677,7 @@ define VRootPRQin [
 | "[=kameetsa+INF@/EP:t/VC.][VRoot][=to.be.good]" : {kameetsa}
 | "[=kametsa+INF@/EP:t/VC.][VRoot][=to.be.good]" : {kametsa}
 ! 
-| "[=kamen][VRoot][=to.advise; to.give.advice]" : {kamen}
+| "[=kamen+INF@aantsi.][VRoot][=to.advise; to.give.advice]" : {kamen} ! V@->N::[=advice, piece.of.advice] 
 | "[=kamin][VRoot][=to.advise; to.give.advice]" : {kamin}
 | "[=kamet][VRoot][=to.plead]" : {kamet}
 | "[=kamitant][VRoot][=to.buy]" : {kamitant}
