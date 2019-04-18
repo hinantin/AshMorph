@@ -706,9 +706,9 @@ define VRootPRQin [
 | "[=kantakotashi][VRoot][=to.hound (ES: acosar)]" : {kantakotashi}
 ! 
 # kantabaeshiyetachari / kantavaeshiyetachari / ES: 'desconcentrada' ! this is a translation proposed by the author 
-| "[=kantavaeshiye][VRoot][=to.deconcentrate (ES: desconcentrar)]" : {kantavaeshiye} 
+| "[=kantavaeshiye+INF@/EP:t/VC.][VRoot][=to.deconcentrate (ES: desconcentrar)]" : {kantavaeshiye} 
 ! 
-| "[=kantapooki][VRoot][=to.be.badly.made (ES: estar.mal.hecho)]" : {kantapooki}
+| "[=kantapooki+INF@/EP:t/aantsi.][VRoot][=to.be.badly.made (ES: estar.mal.hecho)]" : {kantapooki}
 ! 
 | "[=kantashiye][VRoot][=to.be.different (ES: ser.diferente)]" : {kantashiye}
 ! 
