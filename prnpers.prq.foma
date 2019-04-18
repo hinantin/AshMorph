@@ -12,10 +12,10 @@ define PrnPersPRQin [
   "[=naaka+p.func@cont.d.top.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naaka} ! @section:prnpers@ 
 | "[=naka+p.func@cont.d.top.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naka} ! @section:prnpers@ 
 # naro: it is only used in greetings 
-| "[=naro+p.func@cont.d.top.][PrnPers][+1SG][=I (ES: yo)]" : {naro}
+| "[=naro+p.func@cont.d.top.+num@1SG][PrnPers][=I (ES: yo)]" : {naro} ! @section:prnpers@ 
 ! 
 # aviro 
-| "[=aviro+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú)]" : {aviro}
+| "[=aviro+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)]" : {aviro} ! @section:prnpers@ 
 ! avirompa / =aviro -mpa / =you -dub / 
 | "[=aviro+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
 | "[=aviro+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
@@ -28,7 +28,7 @@ define PrnPersPRQin [
 | "[=oora][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {oora}
 | "[=ora][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {orahei}
 # eroka 
-| "[=eroka+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {eroka}
+| "[=eroka+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {eroka} ! @section:prnpers@ 
 | "[=eeroka+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
 | "[=iiroka+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
 ! 
@@ -36,12 +36,12 @@ define PrnPersPRQin [
 ! 
 # ------------------------------------------------ 
 # iri 
-| "[=iri+p.func@cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)]" : {iri}
+| "[=iri+p.func@cont.d.top.+num@3SG.m.][PrnPers][=he (ES: él)]" : {iri} ! @section:prnpers@ 
 ! 
 | "[=iri+p.func@cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
 | "[=iri+p.func@cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)][--][-nta+distal][Adv][+DEM]" : {irinta}
 ! 
-| "[=iriro+p.func@cont.d.top.][PrnPers][+3SG.m.][=he]" : {iriro}
+| "[=iriro+p.func@cont.d.top.+num@3SG.m.][PrnPers][=he]" : {iriro} ! @section:prnpers@ 
 | "[=irio+p.func@cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)]" : {irio}
 | "[=iryo+p.func@cont.d.top.][PrnPers][+3SG.m.][=he]" : {iryo}
 # ------------------------------------------------ 
