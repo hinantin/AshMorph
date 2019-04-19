@@ -713,12 +713,12 @@ define VRootPRQin [
 | "[=kantashiye][VRoot][=to.be.different (ES: ser.diferente)]" : {kantashiye}
 ! 
 | "[=kantzima][VRoot][=to.speak.badly]" : {kantzima}
-| "[=kantzimanint][VRoot][=to.speak.badly]" : {kantzimanint}
+| "[=kantzimanint+INF@VC.][VRoot][=to.speak.badly]" : {kantzimanint}
 ! 
 | "[=kantimo][VRoot][=to.say.sth.about.a_fact.with.the.desire.to.tempt.sb.else]" : {kantimo}
 ! 
-| "[=kapos+INF@aantsi.][VRoot][=to.slap.sb/sth. (ES: abofetear)]" : {kapos}
-| "[=kapoh+INF@aantsi.][VRoot][=to.slap.sb/sth. (ES: abofetear)]" : {kapoh}
+| "[=kapos+INF@aantsi.][VRoot][=to.slap.sb/sth. (ES: abofetear; PT: esbofetear; QU: ch'aqlay)]" : {kapos}
+| "[=kapoh+INF@aantsi.][VRoot][=to.slap.sb/sth. (ES: abofetear; PT: esbofetear; QU: ch'aqlay)]" : {kapoh}
 ! 
 # nocaratapovetanaque / nokaratapovetanake
 | "[=kara][VRoot][=to.lack.sth. (ES: carecer)]" : {kara}
@@ -730,7 +730,7 @@ define VRootPRQin [
 | "[=karah+INF@aantsi.][VRoot][=to.break (ES: romper, fracturar)]" : {karah}
 | "[=karaha+INF@antsi.][VRoot][=to.break (ES: romper, fracturar)]" : {karaha}
 ! 
-| "[=karentsa+INF@/EP:t/VC.][VRoot][=to.be.phlegmy (ES: estar.flemoso); to.be.viscous (ES: estar.viscoso); to.be.slippery (ES: estar.resbaloso)]" : {karentsa}
+| "[=karentsa+INF@/EP:t/VC.][VRoot][=to.be.phlegmy (ES: estar.flemoso);| to.be.viscous (ES: estar.viscoso);| to.be.slippery (ES: estar.resbaloso)]" : {karentsa} ! @section:verb@
 | "[=karentsaa+INF@/EP:t/VC.][VRoot][=to.be.phlegmy (ES: estar.flemoso); to.be.viscous (ES: estar.viscoso); to.be.slippery (ES: estar.resbaloso)]" : {karentsaa}
 ! 
 | "[=karina+INF@/EP:t/VC.][VRoot][=to.paint (ES: pintar, colorar)]" : {karina}
