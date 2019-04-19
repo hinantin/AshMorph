@@ -337,6 +337,7 @@ define VRootPRQin [
 | "[=aritapake][VRoot][=to.be.enough]" : {aritapake}
 | "[=aritapaake][VRoot][=to.be.enough]" : {aritapaake}
 ! 
+# osankaane / o- =asank -aane / ES: 'fragancia' 
 | "[=asank+INF@aantsi.][VRoot][=to.smell (ES: oler)]" : {asank}
 | "[=kasanka+INF@antsi.][VRoot][=to.smell (ES: oler)]" : {kasanka}
 | "[=kahanka+INF@antsi.][VRoot][=to.smell (ES: oler)]" : {kahanka}
@@ -440,11 +441,12 @@ define VRootPRQin [
 ! 
 | "[=avik][VRoot][=to.stagnate (ES: estancar); to.impede (ES: trabar)]" : {avik} 
 ! 
-| "[=avis+INF@aantsi.][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar); to.happen (ES: ocurrir, acontecer)]" : {avis}
+| "[=avis+INF@aantsi.][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar);| to.happen (ES: ocurrir, acontecer)]" : {avis} ! @section:verb@ 
 | "[=avish][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar); to.happen (ES: ocurrir, acontecer)]" : {avish}
 | "[=avih+INF@aantsi.][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar); to.happen (ES: ocurrir, acontecer)]" : {avih}
 ! 
-| "[=avitsano+INF@/EP:t/aantsi.][VRoot][=to.hug.sb. (ES: abrazar)]" : {avitsano} ! @section:verb@ 
+| "[=avitsano+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.hug.sb. (ES: abrazar)]" : {avitsano} ! @section:verb@ 
+| "[=avita][VRoot][=to.hug.sb. (ES: abrazar)]" : {avita}
 ! 
 | "[=ayi+INF@/EP:t/aantsi.][VRoot][=to.go.down]" : {ayi}
 | "[=ayii+INF@/EP:t/aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {ayii}
@@ -455,7 +457,7 @@ define VRootPRQin [
 | "[=chek+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {chechek}
 #@PRTLREDUPCLASS01| "[=chek+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {chek} ! chechek 
 ! 
-| "[=et+INF@aantsi.][VRoot][=to.go.to.warn (ES: ir.a.avisar)]" : {et}
+| "[=et+INF@aantsi.][VRoot][=to.go.to.warn (ES: ir.a.avisar)]" : {et} ! @section:verb@ 
 ! 
 | "[=et+INF@aantsi.][VRoot][=to.start (ES: empezar)]" : {et}
 | "[=it+INF@aantsi.][VRoot][=to.start (ES: empezar)]" : {it}
@@ -740,7 +742,7 @@ define VRootPRQin [
 ! 
 | "[=kashi+INF@aantsi.][VRoot][=to.threaten.sb./sth. (ES: amenazar)]" : {kashi} ! @section:verb@ 
 !
-| "[=kashiy+I-Conj@act.v.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashiy}
+| "[=kashiy+I-Conj@act.v.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashiy} ! @section:verb@ 
 | "[=kashi+INF@aantsi.+I-Conj@act.v.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashi}
 ! 
 | "[=kats][VRoot][=to.feel.pain (ES: doler)]" : {kats}
