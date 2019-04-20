@@ -451,11 +451,14 @@ define VRootPRQin [
 | "[=ayi+INF@/EP:t/aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {ayi}
 | "[=ayii+INF@/EP:t/aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {ayii}
 ! 
-| "[=chek+INF@aantsi.][VRoot][=to.cut (ES: cortar)]" : {chek}
-| "[=chik+INF@aantsi.][VRoot][=to.cut (ES: cortar)]" : {chik}
+# ---------------------------------------------------------------------------
+| "[=chek+INF@aantsi.+I-Conj@act.v.][VRoot][=to.cut (ES: cortar)]" : {chek}
+| "[=chik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.cut (ES: cortar)]" : {chik}
 | "[=chik+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]" : {chikachika} ! \cite{payne:axininca:81}[pag. 144]
 | "[=chek+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {chechek}
 #@PRTLREDUPCLASS01| "[=chek+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {chek} ! chechek 
+
+# ---------------------------------------------------------------------------
 ! 
 | "[=et+INF@aantsi.][VRoot][=to.go.to.warn (ES: ir.a.avisar)]" : {et} ! @section:verb@ 
 ! 
@@ -617,7 +620,7 @@ define VRootPRQin [
 | "[=irak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen]" : {irak}
 | "[=iraak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen]" : {iraak}
 ! 
-| "[=itamatzi~{'to.call':it}{EP:a}{'witch':matzi}+INF@/EP:t/VC.][VRoot][=to.identify.as.a.witch]" : {itamatzi}
+| "[=itamatzi+~{'to.call':it}{EP:a}{'witch':matzi}+INF@/EP:t/VC.][VRoot][=to.identify.as.a.witch]" : {itamatzi}
 ! 
 | "[=itsi][VRoot][=to.copulate (applied.to.animals; ES: copular, hacer.el_coito/el_acto_sexual/la_unión_sexual; PT: fazer.sexo)]" : {itsi}
 | "[=itsit][VRoot][=to.copulate (applied.to.animals; ES: copular, hacer.el_coito/el_acto_sexual/la_unión_sexual; PT: fazer.sexo)]" : {itsit}
