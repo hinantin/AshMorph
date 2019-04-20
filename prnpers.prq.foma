@@ -17,9 +17,9 @@ define PrnPersPRQin [
 # aviro 
 | "[=aviro+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)]" : {aviro} ! @section:prnpers@ 
 ! avirompa / =aviro -mpa / =you -dub / 
-| "[=aviro+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
-| "[=aviro+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
-| "[=aviroka+p.func@cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
+| "[=aviro+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
+| "[=aviro+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
+| "[=aviroka+p.func@cont.d.top.+num@2SG][PrnPers][=you]" : {aviroka}
 # yora 
 | "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {yora}
 | "[=yora][PrnPers][+3SG.m.][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {yorahei}
