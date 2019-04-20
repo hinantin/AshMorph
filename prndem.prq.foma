@@ -106,17 +106,17 @@ define PrnDemPRQin [
 # / =aaki -t -av -ak -e -ri                 =iroo -rika     =onta+n.m.       =mapi+n.m. 
 # / =to.trip.sb.up -ep -rcp -prf -real -rel =3SG.n.m. -cond =that.over.there =stone 
 # / EN: 'perhaps.you.tripped.up.on.that.stone.over.there', ES: 'tal.vez.le.hizo.tropezar.la.piedra.de.allá'
-| "[=onta+n.m.+distal][PrnDem][=DEM.NOM][=that, that.over.there (ES: esa, aquella)]" : {onta} 
+| "[=onta+gndr@n.m.+loc@distal][PrnDem][=DEM.NOM][=that, that.over.there (ES: esa, aquella)]" : {onta} 
 ! Demonstrative identifier 
-| "[=heri+m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are, here.it.is]" : {heri} ! =heri / =attention.pronoun / EN: 'look!' 
-| "[=herika+m.+proximal][PrnDem][=DEM.ID.][=here.it.is (ES: aquí.está)]" : {herika} 
-| "[=heriyonta+m.+distal][PrnDem][=DEM.ID.][=it.is.over.there (ES: allá.está)]" : {heriyonta} 
-| "[=herionta+m.+distal][PrnDem][=DEM.ID.][=it.is.over.there (ES: allá.está)]" : {herionta} 
-| "[=heri+m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are, here.it.is][--][=keti][+URGENT]" : {heriketi} 
+| "[=heri+gndr@m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are, here.it.is]" : {heri} ! =heri / =attention.pronoun / EN: 'look!' 
+| "[=herika+gndr@m.+loc@proximal][PrnDem][=DEM.ID.][=here.it.is (ES: aquí.está)]" : {herika} 
+| "[=heriyonta+gndr@m.+loc@distal][PrnDem][=DEM.ID.][=it.is.over.there (ES: allá.está)]" : {heriyonta} 
+| "[=herionta+gndr@m.+loc@distal][PrnDem][=DEM.ID.][=it.is.over.there (ES: allá.está)]" : {herionta} 
+| "[=heri+gndr@m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are, here.it.is][--][=keti][+URGENT]" : {heriketi} 
 ! 
-| "[=hero+n.m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are]" : {hero}
-| "[=hero+n.m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are][--][=keti][+URGENT]" : {heroketi}
-| "[=heroka+n.m.+proximal][PrnDem][=DEM.ID.][=here.you.are; here.it.is]" : {heroka}
+| "[=hero+gndr@n.m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are]" : {hero}
+| "[=hero+gndr@n.m.+attn.prn.][PrnDem][=DEM.ID.][=here.you.are][--][=keti][+URGENT]" : {heroketi}
+| "[=heroka+gndr@n.m.+proximal][PrnDem][=DEM.ID.][=here.you.are; here.it.is]" : {heroka}
 ! 
 | "[=ainti][PrnDem][=DEM.ID.][=there.(it.is) (ES: allá, allá.está)]" : {ainti}
 ];
