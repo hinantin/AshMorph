@@ -1,5 +1,9 @@
 # free possesive pronominal pronouns
 
+# LABEL ORDER : 
+# 0: +num 
+# 1: +m., +n.m. 
+
 define PrnPossPRQin [
   "[=nashi+num@1SG][PrnPoss][=mine (ES: mío)]" : {nashi} ! mine ! @section:prnposs@ 
 | "[=pashi+num@2SG][PrnPoss][=yours (ES: tuyo)]" : {pashi} ! @section:prnposs@ 

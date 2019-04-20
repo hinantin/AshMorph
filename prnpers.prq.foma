@@ -21,7 +21,7 @@ define PrnPersPRQin [
 | "[=aviro+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
 | "[=aviroka+p.func@cont.d.top.][PrnPers][+2SG][=you]" : {aviroka}
 # yora 
-| "[=yora][PrnPers][+3SG.m.][=he (ES: él)]" : {yora}
+| "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {yora}
 | "[=yora][PrnPers][+3SG.m.][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {yorahei}
 # ora
 | "[=ora][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {ora}
