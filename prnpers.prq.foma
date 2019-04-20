@@ -57,9 +57,9 @@ define PrnPersPRQin [
 | "[=naka+cont.d.top.+num@1SG][PrnPers][=I (ES: yo)][--][-paeni][Num][+PL]::[=we (ES: nosotros)]" : {nakapaeni}  
 | "[=aro+num@1PL.INCL.][PrnPers][=we]" : {aro} 
 ! 
-| "[=aroka+cont.d.top.][PrnPers][+1PL.INCL.]" : {aroka}
-| "[=arokaite][PrnPers][+1PL.INCL.]" : {arokaite}
-| "[=arorite][PrnPers][+1PL.INCL.]" : {arorite}
+| "[=aroka+cont.d.top.+num@1PL.INCL.][PrnPers]" : {aroka}
+| "[=arokaite+num@1PL.INCL.][PrnPers]" : {arokaite}
+| "[=arorite+num@1PL.INCL.][PrnPers]" : {arorite}
 ! 
 | "[=naakaite][PrnPers][+1PL.EXCL.]" : {naakaite}
 | "[=avirokaite][PrnPers][+2PL.EXCL.][=you]" : {avirokaite}
