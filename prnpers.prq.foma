@@ -36,14 +36,14 @@ define PrnPersPRQin [
 ! 
 # ------------------------------------------------ 
 # iri 
-| "[=iri+p.func@cont.d.top.+num@3SG.m.][PrnPers][=he (ES: él)]" : {iri} ! @section:prnpers@ 
+| "[=iri+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iri} ! @section:prnpers@ 
 ! 
-| "[=iri+p.func@cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
-| "[=iri+p.func@cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)][--][-nta+distal][Adv][+DEM]" : {irinta}
+| "[=iri+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
+| "[=iri+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-nta+distal][Adv][+DEM]" : {irinta}
 ! 
-| "[=iriro+p.func@cont.d.top.+num@3SG.m.][PrnPers][=he]" : {iriro} ! @section:prnpers@ 
-| "[=irio+p.func@cont.d.top.][PrnPers][+3SG.m.][=he (ES: él)]" : {irio}
-| "[=iryo+p.func@cont.d.top.][PrnPers][+3SG.m.][=he]" : {iryo}
+| "[=iriro+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriro} ! @section:prnpers@ 
+| "[=irio+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {irio}
+| "[=iryo+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iryo}
 # ------------------------------------------------ 
 ! 
 # iro 
