@@ -9,9 +9,9 @@
 # +attn.prn.: attention pronoun (neri~niri, nero~niro, heri~hiri, hero~hiro)
 
 # LABEL ORDER : 
-# 0: ~{..}{..}...{..} 
+# 0: +~{..}{..}...{..} 
 # 1: +m., +n.m. 
-# 2: +class@attn.prn. 
+# 2: +class@attn.prn. (attention pronoun) 
 # 3: locations 
 #    +loc@proximal, +loc@medial, +loc@distal, +loc@proximal.b., +loc@medial.b., +loc@distal.b., +loc@distal.unb. 
 
