@@ -2069,7 +2069,7 @@ define VRootPRQin [
 #@TOTREDUPCLASS01| "[=sheva+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving]" : {sheva}
 ! 
 | "[=shima][VRoot][=to.fish (ES: pescar); to.catch.fish]" : {shima}
-| "[=shimaa~shima{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.fish; to.catch.fish]" : {shimaa}
+| "[=shimaa+~shima{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.fish; to.catch.fish]" : {shimaa}
 ! 
 | "[=shimpi][VRoot][=to.fish.with.a.fish_trap]" : {shimpi}
 | "[=shimpe][VRoot][=to.fish.with.a.fish_trap]" : {shimpe}
@@ -2109,8 +2109,8 @@ define VRootPRQin [
 | "[=shiriaa+INF@/EP:t/VC.][VRoot][=to.fish.with.a.basket (ES: pescar.con.canasta)]" : {shiriaa}
 ! 
 | "[=shirink+INF@aantsi.][VRoot][=to.make.room (ES: arrimar); to.contract.in.size, to.shrink (ES: mermar.(el.río))]" : {shirink}
-| "[=shirinkaa~shirink{CL:/liquid:aa/}+INF@/EP:t/aantsi.][VRoot][=to.contract.in.size, to.shrink (i.e.: river; ES: mermar/estiar.(el.río))]" : {shirinkaa}
-| "[=shirinka~shirink{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.contract.in.size, to.shrink (i.e.: river; ES: mermar/estiar.(el.río))]" : {shirinka}
+| "[=shirinkaa+~shirink{CL:/liquid:aa/}+INF@/EP:t/aantsi.][VRoot][=to.contract.in.size, to.shrink (i.e.: river; ES: mermar/estiar.(el.río))]" : {shirinkaa}
+| "[=shirinka+~shirink{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.contract.in.size, to.shrink (i.e.: river; ES: mermar/estiar.(el.río))]" : {shirinka}
 ! 
 | "[=shirinka][VRoot][=to.grow]" : {shirinka}
 ! 
@@ -2123,7 +2123,7 @@ define VRootPRQin [
 # ----------------------------------------------------------------------
 | "[=shi+INF@/EP:t/aantsi.][VRoot][=to.defecate.on.sth. (ES: defecar)]" : {shi}
 | "[=shit+INF@aantsi.][VRoot][=to.defecate.on.sth. (ES: defecar)]" : {shit}
-| "[=shivai~{'to.defecate':shi}{DUR:vai}+INF@/EP:t/aantsi.][VRoot][=to.have.diarrhea (ES: tener.diarrea)]" : {shivai}
+| "[=shivai+~{'to.defecate':shi}{DUR:vai}+INF@/EP:t/aantsi.][VRoot][=to.have.diarrhea (ES: tener.diarrea)]" : {shivai}
 ! shitijenkari / =shiti -jenka -ri / ES: 'apestoso' 
 | "[=shiti+INF@/EP:t/agantsi.][VRoot][=to.stink (ES: apestar, tener/emitir.(mal).olor)]" : {shiti}
 # ----------------------------------------------------------------------
