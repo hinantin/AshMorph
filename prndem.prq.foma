@@ -87,20 +87,20 @@ define PrnDemPRQin [
 | "[=oka+gndr@n.m.+loc@proximal][PrnDem][=DEM. NOM.DEM (EN: this; ES: ello.aquí)]" : {oka}
 # -------------------------------------------------
 # feminine demonstrative adjectives 
-| "[=ora+n.m.+medial][PrnDem][=that (ES: esa)]" : {ora} ! she 
-| "[=oora+n.m.+medial][PrnDem][=that (ES: esa)]" : {oora} ! she 
+| "[=ora+gndr@n.m.+loc@medial][PrnDem][=that (ES: esa)]" : {ora} ! she 
+| "[=oora+gndr@n.m.+loc@medial][PrnDem][=that (ES: esa)]" : {oora} ! she 
 ! 
-| "[=oranki~ora{CLAR:nki}+n.m.][PrnDem][=that (ES: esa)]" : {oranki} ! she 
-| "[=orari+n.m.][PrnDem][=that (ES: esa)]" : {orari} ! she 
+| "[=oranki+~ora{CLAR:nki}+gndr@n.m.][PrnDem][=that (ES: esa)]" : {oranki} ! she 
+| "[=orari+gndr@n.m.][PrnDem][=that (ES: esa)]" : {orari} ! she 
 # -------------------------------------------------
 ! 
-| "[=iyoka+m.+proximal][PrnDem][=DEM (EN: this, this.one; ES: él.aquí, ellos.aquí)]" : {iyoka}
-| "[=yoka+m.+proximal][PrnDem][=this (ES: él.aquí, ellos.aquí)]" : {yoka}
-| "[=yoka+m.+proximal][PrnDem][=DEM (ES: él.aquí, ellos.aquí)]" : {yoka}
+| "[=iyoka+gndr@m.+loc@proximal][PrnDem][=DEM (EN: this, this.one; ES: él.aquí, ellos.aquí)]" : {iyoka}
+| "[=yoka+gndr@m.+loc@proximal][PrnDem][=this (ES: él.aquí, ellos.aquí)]" : {yoka}
+| "[=yoka+gndr@m.+loc@proximal][PrnDem][=DEM (ES: él.aquí, ellos.aquí)]" : {yoka}
 ! 
-| "[=iyonta+m.+distal][PrnDem][=DEM]" : {iyonta}
-| "[=yonta+m.+distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yonta}
-| "[=yoonta+m.+distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yoonta}
+| "[=iyonta+gndr@m.+loc@distal][PrnDem][=DEM]" : {iyonta}
+| "[=yonta+gndr@m.+loc@distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yonta}
+| "[=yoonta+gndr@m.+loc@distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yoonta}
 ! 
 # aakitavakeri, iroorika onta mapi. 
 # / =aaki -t -av -ak -e -ri                 =iroo -rika     =onta+n.m.       =mapi+n.m. 
