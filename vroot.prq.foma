@@ -807,7 +807,7 @@ define VRootPRQin [
 ! 
 ! ikeanaji / ikeanahi / i- =ke -an -ah -i / 3m.s- =to.enter -dir -regr -real / ES: 'entrar, ingresar' 
 | "[=ky+INF@aantsi.][VRoot][=to.enter (ES: ingresar)]" : {ky}
-| "[=ky~kiy][VRoot][=to.enter (ES: ingresar)]" : {kiy}
+| "[=ky/kiy][VRoot][=to.enter (ES: ingresar)]" : {kiy}
 | "[=ke+INF@aantsi.][VRoot][=to.enter (ES: ingresar)]" : {ke}
 | "[=ki][VRoot][=to.enter (ES: ingresar)]" : {ki}
 | "[=ty+INF@aantsi.][VRoot][=to.enter (ES: ingresar)]" : {ty}
@@ -842,7 +842,7 @@ define VRootPRQin [
 | "[=kimota+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.grow.in.size/volume (ES: crecer)]" : {kikimota}
 #@PRTLREDUPCLASS01| "[=kimota+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.grow.in.size/volume (ES: crecer)]" : {kimota} ! kikimota
 ! 
-| "[=kimoha~kimo{CL:/liquid:ha/}+INF@/EP:t/antsi.][VRoot][=to.grow.in.size/volume.the_river_water_level (ES: aumentar.la.creciente.del.río)]" : {kimoha}
+| "[=kimoha+~kimo{CL:/liquid:ha/}+INF@/EP:t/antsi.][VRoot][=to.grow.in.size/volume.the_river_water_level (ES: aumentar.la.creciente.del.río)]" : {kimoha}
 ! 
 | "[=kimoenka][VRoot][=to.speak.out.loud; to.raise.one's.voice (ES: alzar.la.voz)]" : {kimoenka}
 | "[=kimohenka][VRoot][=to.speak.out.loud; to.raise.one's.voice (ES: alzar.la.voz)]" : {kimohenka}
@@ -922,7 +922,7 @@ define VRootPRQin [
 # kijinkari / kihinkari / =kih -inka -ri / ES: 'colérico' 
 | "[=kih+INF@aantsi.][VRoot][=to.be.angry/furious (ES: estar.molesto); to.get.upset/angry (ES: enojarse, molestarse)]" : {kih}
 ! 
-| "[=kisashire~{'to.get.angry':kis}{EP:a}{'soul':shire}+INF@/EP:t/aantsi.][VRoot][=to.resent (ES: resentir)]" : {kisashire}
+| "[=kisashire+~{'to.get.angry':kis}{EP:a}{'soul':shire}+INF@/EP:t/aantsi.][VRoot][=to.resent (ES: resentir)]" : {kisashire}
 ! 
 | "[=kisa+INF@/EP:t/V.][VRoot][=to.be.black]" : {kisa}
 | "[=kisaa+INF@/EP:t/V.][VRoot][=to.be.black]" : {kisaa}
@@ -990,7 +990,7 @@ define VRootPRQin [
 ! 
 # ---------------------------------------------------------
 | "[=kitsa][VRoot][=to.catch.fish.with.a.net]" : {kitsa}
-| "[=kitsaa~kitsa{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.catch_fish.with.a.net]" : {kitsaa}
+| "[=kitsaa+~kitsa{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.catch_fish.with.a.net]" : {kitsaa}
 # ---------------------------------------------------------
 ! 
 | "[=kitso][VRoot][=to.have.an.oval-shape]" : {kitso}
@@ -1100,7 +1100,7 @@ define VRootPRQin [
 ! 
 | "[=koya][VRoot][=to.gather]" : {koya}
 | "[=koye+INF@/EP:t/VC.][VRoot][=to.gather; to.harvest.manually]" : {koye}
-| "[=koyeki~koye{CL:/'seed':ki/}+INF@/EP:t/antsi.][VRoot][=to.harvest.coffee/cocoa/beans/fruit (ES: cosechar.café/cacao/fruta)]" : {koyeki}
+| "[=koyeki+~koye{CL:/'seed':ki/}+INF@/EP:t/antsi.][VRoot][=to.harvest.coffee/cocoa/beans/fruit (ES: cosechar.café/cacao/fruta)]" : {koyeki}
 | "[=kaye+INF@/EP:t/antsi.][VRoot][=to.harvest]" : {kaye}
 ! 
 | "[=koy+INF@aantsi.][VRoot][=to.select (ES: seleccionar)]" : {koy}
