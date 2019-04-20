@@ -82,20 +82,20 @@ define PrnPersPRQin [
 | "[=iriyori+p.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriyori} ! FOC 
 | "[=iriori+p.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {iriorihei} ! FOC 
 ! 
-| "[=iroori+p.func@cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {iroori} ! FOC 
-| "[=roori+p.func@cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {roori} ! FOC 
-| "[=irori+p.func@cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {irori} ! FOC 
-| "[=irori+p.func@cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-paeni][Num][+PL]::[=they (ES: ellas)]" : {iroripaeni}
-| "[=iroori+p.func@cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
+| "[=iroori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {iroori} ! FOC 
+| "[=roori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {roori} ! FOC 
+| "[=irori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {irori} ! FOC 
+| "[=irori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-paeni][Num][+PL]::[=they (ES: ellas)]" : {iroripaeni}
+| "[=iroori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
 !  
-| "[=arori+p.func@cntr.add.l.][PrnPers][+1PL.INCL.][= (ES: nosotros)]" : {arori}
-| "[=aroori+p.func@cntr.add.l.][PrnPers][+1PL.INCL.]" : {aroori}
-| "[=aroori+p.func@cntr.add.l.][PrnPers][+1PL.INCL.][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
-| "[=aro][PrnPers][+1PL.INCL.][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
+| "[=arori+p.func@cntr.add.l.+num@1PL.INCL.][PrnPers][= (ES: nosotros)]" : {arori}
+| "[=aroori+p.func@cntr.add.l.+num@1PL.INCL.][PrnPers]" : {aroori}
+| "[=aroori+p.func@cntr.add.l.+num1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
+| "[=aro+num@1PL.INCL.][PrnPers][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
 # -------------------------------------------------------------------
 # -t-ak-i 
-| "[=naakataki+p.func@cntr.exh.l.+foc.][PrnPers][+1SG][=I.am.the.one.(who)]" : {naakataki} ! FOC 
-| "[=narotake+p.func@cntr.exh.l.+foc.][PrnPers][+1SG]" : {narotake}
+| "[=naakataki+p.func@cntr.exh.l.+foc.+num@1SG][PrnPers][=I.am.the.one.(who)]" : {naakataki} ! FOC 
+| "[=narotake+p.func@cntr.exh.l.+foc.+num@1SG][PrnPers]" : {narotake}
 ! 
 | "[=avirotaki+p.func@cntr.exh.l.][PrnPers][+2SG]" : {avirotaki}
 | "[=avirotake+p.func@cntr.exh.l.][PrnPers][+2SG]" : {avirotake}
