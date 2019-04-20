@@ -5,7 +5,7 @@
 # Or if the deletion process will be likely to take place /DEL:a/ when it is followed by a suffix like -ant.
 
 # LABEL ORDER : 
-# 0: ~{..}{..}...{..} 
+# 0: +~{..}{..}...{..} 
 #    Information on the morphemes of lexicalized entries.
 # 1: +INF@form1:form2:...:formN. 
 #    A 'form' is a dialectal variation that might contain morphological operations such as /EP:.../ /DEL:.../ 
@@ -38,7 +38,7 @@ define VRootPRQin [
 | "[=aa+INF@/EP:t/aantsi.][VRoot][=to.perch;| to.land, to.disembark;| to.dock (ES: atracar)]" : {aa} ! @section:verb@ 
 ! 
 # aaha~ / =aa -ha ~ / =to.take -cl:liquid ~ / EN: 'to.reduce.river_flow'  
-| "[=aaha~aa{CL:/liquid:ha/}+INF@VC.][VRoot][=to.reduce.the.river_flow (ES: bajar/mermar.el.agua.del.río)]" : {aaha} 
+| "[=aaha+~aa{CL:/liquid:ha/}+INF@VC.][VRoot][=to.reduce.the.river_flow (ES: bajar/mermar.el.agua.del.río)]" : {aaha} 
 ! 
 # aanan~ / =aa -na -n ~ / =to.take -cl:long,hollow -ep ~ / EN: 'to.extend'  ! to be revised   
 | "[=aanan+~aa{CL:/long,hollow:na/}{EP:n}+INF@VC.][VRoot][=to.extend (ES: extender)]" : {aanan} 
