@@ -807,7 +807,7 @@ define VRootPRQin [
 ! 
 ! ikeanaji / ikeanahi / i- =ke -an -ah -i / 3m.s- =to.enter -dir -regr -real / ES: 'entrar, ingresar' 
 | "[=ky+INF@aantsi.][VRoot][=to.enter (ES: ingresar)]" : {ky}
-| "[=ky/kiy][VRoot][=to.enter (ES: ingresar)]" : {kiy}
+| "[=ky/~kiy][VRoot][=to.enter (ES: ingresar)]" : {kiy}
 | "[=ke+INF@aantsi.][VRoot][=to.enter (ES: ingresar)]" : {ke}
 | "[=ki][VRoot][=to.enter (ES: ingresar)]" : {ki}
 | "[=ty+INF@aantsi.][VRoot][=to.enter (ES: ingresar)]" : {ty}
@@ -2397,7 +2397,7 @@ define VRootPRQin [
 | "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]" : {tsarov} ! V@->N::[=scare (ES: susto)]
 | "[=tsaav][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]" : {tsaav}
 ! 
-| "[=mintsarov~min{M.CAUS:min}{'to.fear':tsarov}+INF@VC.][VRoot][=to.frighten (ES: asustar)]" : {mintsarov}
+| "[=mintsarov+~min{M.CAUS:min}{'to.fear':tsarov}+INF@VC.][VRoot][=to.frighten (ES: asustar)]" : {mintsarov}
 | "[=omintsa][VRoot][=to.frighten (ES: hacer.asustar)]" : {omintsa}
 # ----------------------------------------------------------------------- 
 ! 
@@ -2451,7 +2451,7 @@ define VRootPRQin [
 | "[=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar);| to.be.together (ES: tener.pareja);| to.join (ES: juntarse)]" : {tsipa} ! @section:verb@ 
 | "[=tsipat+INF@aantsi.][VRoot][=to.accompany (ES: acompañar); to.join (ES: juntarse); to.combine (ES: combinar)]" : {tsipat}
 ! 
-| "[=tsipari~{'to.join':tsipa}{REV:ri}+INF@antsi.][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}
+| "[=tsipari+~{'to.join':tsipa}{REV:ri}+INF@antsi.][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}
 # ------------------------------------------------------------------------
 ! 
 | "[=tsirah+INF@aantsi.][VRoot][=to.be.cracked (wall, ceramics ; ES: estar.rajado)]" : {tsirah}
@@ -2521,7 +2521,7 @@ define VRootPRQin [
 ! 
 | "[=tiyaat+INF@VC.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear)); to.go.upstream (ES: ir.río.arriba)]" : {tiyaat}
 | "[=tziyaat+INF@aantsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tziyaat}
-| "[=tziyaa~{'to.ply':tziya}{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tziyaa}
+| "[=tziyaa+~{'to.ply':tziya}{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tziyaa}
 | "[=otziyaat+INF@/EP:t/V.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {otziyaat}
 | "[=otziyat+INF@/EP:t/V.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {otziyat}
 | "[=tiaat+INF@aantsi.][VRoot][=to.ply (ES: surcar.(en.canoa.empujándola.con.un.palo, tanganear))]" : {tiaat}
@@ -2710,11 +2710,11 @@ define VRootPRQin [
 # --------------------------------------------------------------------------- 
 ! copula of capacity COP.CAP
 | "[=kara][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 
-| "[=kara~kaa][VRoot:CPB][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kaa} 
-| "[=kara~ka][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {ka} 
+| "[=kara/~kaa][VRoot:CPB][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kaa} 
+| "[=kara/~ka][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {ka} 
 ! 
 | "[=kara][VRoot][=to.contain, to.finish]" : {kara} ! contain - abarcar, sumar?
-| "[=kara~kaa][VRoot][=to.contain, to.finish]" : {kaa}
+| "[=kara/~kaa][VRoot][=to.contain, to.finish]" : {kaa}
 # ---------------------------------------------------------------------------  
 ! 
 !| "[=ninka][VRoot][=who]" : {ninka}
