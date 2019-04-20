@@ -61,14 +61,14 @@ define PrnPersPRQin [
 | "[=arokaite+num@1PL.INCL.][PrnPers]" : {arokaite}
 | "[=arorite+num@1PL.INCL.][PrnPers]" : {arorite}
 ! 
-| "[=naakaite][PrnPers][+1PL.EXCL.]" : {naakaite}
-| "[=avirokaite][PrnPers][+2PL.EXCL.][=you]" : {avirokaite}
-| "[=eerokaite][PrnPers][+2PL][=you]" : {eerokaite}
-| "[=erokaite][PrnPers][+2PL][=you]" : {erokaite}
-| "[=iriroite][PrnPers][+3PL.m.EXCL.][=they]" : {iriroite}
-| "[=iririroite][PrnPers][+3PL.m.EXCL.]" : {iririroite}
-| "[=iroite][PrnPers][+3PL.n.m.EXCL.][=they]" : {iroite}
-| "[=irooite][PrnPers][+3PL.n.m.EXCL.][=they]" : {irooite}
+| "[=naakaite+num@1PL.EXCL.][PrnPers]" : {naakaite}
+| "[=avirokaite+num@2PL.EXCL.][PrnPers][=you]" : {avirokaite}
+| "[=eerokaite+num@2PL][PrnPers][=you]" : {eerokaite}
+| "[=erokaite+num@2PL][PrnPers][=you]" : {erokaite}
+| "[=iriroite+num@3PL.EXCL.+gndr@m.][PrnPers][=they]" : {iriroite}
+| "[=iririroite+num@3PL.EXCL.+gndr@m.][PrnPers]" : {iririroite}
+| "[=iroite+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they]" : {iroite}
+| "[=irooite+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they]" : {irooite}
 # -------------------------------------------------------------------
 | "[=naari+p.func@cntr.add.l.+foc.][PrnPers][+1SG.EXCL.][=I (ES: yo.también)]" : {naari} ! FOC "I" 
 | "[=narori+p.func@cntr.add.l.+foc.][PrnPers][+1SG][=I (ES: a.mi.persona)]" : {narori}
