@@ -24,15 +24,15 @@ define PrnPersPRQin [
 | "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {yora}
 | "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {yorahei}
 # ora
-| "[=ora][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {ora}
-| "[=oora][PrnPers][+3SG.n.m.][=she (ES: ella)]" : {oora}
-| "[=ora][PrnPers][+3SG.n.m.][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {orahei}
+| "[=ora+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {ora}
+| "[=oora+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {oora}
+| "[=ora+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {orahei}
 # eroka 
 | "[=eroka+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {eroka} ! @section:prnpers@ 
-| "[=eeroka+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {eeroka}
-| "[=iiroka+p.func@cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]" : {iiroka}
+| "[=eeroka+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {eeroka}
+| "[=iiroka+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {iiroka}
 ! 
-| "[=eroka][PrnPers][+2SG][=you (ES: tú, usted)][--][-paeni][Num][+PL]::[=you (ES: Ustedes)]" : {erokapaeni}
+| "[=eroka+num@2SG][PrnPers][=you (ES: tú, usted)][--][-paeni][Num][+PL]::[=you (ES: Ustedes)]" : {erokapaeni}
 ! 
 # ------------------------------------------------ 
 # iri 
