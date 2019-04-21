@@ -140,8 +140,8 @@ define PrnPersPRQin [
 | "[=irontsi+p.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {irontsi}
 | "[=aronintsi+p.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {aronintsi}
 ! 
-| "[=nainti+p.func@cntr.cnt.assert.top.][PrnPers][+1SG][=I (ES: yo)]" : {nainti}
-| "[=ainti+p.func@cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {ainti}
+| "[=nainti+p.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I (ES: yo)]" : {nainti}
+| "[=ainti+p.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I]" : {ainti}
 | "[=avinti+p.func@cntr.cnt.assert.top.][PrnPers][+2SG][=you]" : {avinti}
 | "[=irointi+p.func@cntr.cnt.assert.top.][PrnPers][+3SG.n.m.][=she (ES: ella); she…on.her.own (ES: ella.sola)]" : {irointi}
 | "[=irinti+p.func@cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he; he…on.his.own (ES: él.solo)]" : {irinti}
