@@ -142,7 +142,7 @@ define PrnPersPRQin [
 ! 
 | "[=nainti+p.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I (ES: yo)]" : {nainti}
 | "[=ainti+p.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I]" : {ainti}
-| "[=avinti+p.func@cntr.cnt.assert.top.][PrnPers][+2SG][=you]" : {avinti}
+| "[=avinti+p.func@cntr.cnt.assert.top.+num@2SG][PrnPers][=you]" : {avinti}
 | "[=irointi+p.func@cntr.cnt.assert.top.][PrnPers][+3SG.n.m.][=she (ES: ella); she…on.her.own (ES: ella.sola)]" : {irointi}
 | "[=irinti+p.func@cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he; he…on.his.own (ES: él.solo)]" : {irinti}
 | "[=iriinti+p.func@cntr.cnt.assert.top.][PrnPers][+3SG.m.][=he]" : {iriinti}
