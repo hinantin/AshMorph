@@ -112,13 +112,13 @@ define PrnPersPRQin [
 | "[=rirootaki+num@3SG+gndr@m.][PrnPers][=he.is.the.one.(who) (ES: él.es.quien)]" : {rirootaki}
 | "[=irio+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=he.is (ES: él.es)]" : {iriotake}
 ! 
-| "[=irotaki+p.func@cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why; she.is.the.one.(who)]" : {irotaki} ! FOC "that's.why" 
-| "[=irootaki+p.func@cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why; she.is.the.one.(who)]" : {irootaki} ! FOC "that's.why" 
-| "[=rootaki+p.func@cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why; she.is (ES: ella.es); she.is.the.one.(who) (ES: ella.es.quien)]" : {rootaki} ! FOC "that's.why" 
-| "[=irotake+p.func@cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why; she, she.is.the.one.(who), it.is.the.one.(that)]" : {irotake} ! FOC "that's.why" , "she"
-| "[=irootake+p.func@cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she; she.is (ES: ella.es)]" : {irootake} 
-| "[=rootake+p.func@cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she; she.is (ES: ella.es)]" : {rootake} 
-| "[=iroo+p.func@cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=that's.why, she; she.is (ES: ella.es)]" : {irootake}
+| "[=irotaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]" : {irotaki} ! FOC "that's.why" 
+| "[=irootaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]" : {irootaki} ! FOC "that's.why" 
+| "[=rootaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is (ES: ella.es); she.is.the.one.(who) (ES: ella.es.quien)]" : {rootaki} ! FOC "that's.why" 
+| "[=irotake+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she, she.is.the.one.(who), it.is.the.one.(that)]" : {irotake} ! FOC "that's.why" , "she"
+| "[=irootake+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {irootake} 
+| "[=rootake+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {rootake} 
+| "[=iroo+p.func@cont.d.top.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=that's.why, she; she.is (ES: ella.es)]" : {irootake}
 
 #| "[=rootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {rootake}
 #| "[=irootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {irootake}
