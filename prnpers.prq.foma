@@ -93,6 +93,10 @@ define PrnPersPRQin [
 | "[=aroori+p.func@cntr.add.l.+num1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
 | "[=aro+num@1PL.INCL.][PrnPers][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
 # -------------------------------------------------------------------
+# ---------------------------------------------
+# Perfective 
+# ---------------------------------------------
+# MCB: ikutavankitaki / i- =kuta =panki -t -ak -i / 3m.s- =be.white =feather -ep -prf -real / EN: 'He.is.white-feathered' 
 # -t-ak-i 
 | "[=naakataki+p.func@cntr.exh.l.+foc.+num@1SG][PrnPers][=I.am.the.one.(who)]" : {naakataki} ! FOC 
 | "[=narotake+p.func@cntr.exh.l.+foc.+num@1SG][PrnPers][=it.is.I]" : {narotake}
@@ -158,15 +162,9 @@ define PrnPersPRQin [
 | "[=arosati+p.func@rflx.intsf.+num@1PL][PrnPers][=we.too/also; ourselves]" : {arosati}
 | "[=irisati+p.func@rflx.intsf.+num@3PL+gndr@m.][PrnPers][=they.too/also; they.themselves]" : {irisati}
 # -hatzi (EN: 'too'; ES: 'también')
-| "[=irihatzi+p.func@rflx.intsf.][PrnPers][+3SG.m.][=he.too/also; himself (ES: él.mismo, ese.mismo)]" : {irihatzi} ! irijatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ese.mismo, lit: ella.también'  
-| "[=irohatzi+p.func@rflx.intsf.][PrnPers][+3SG.n.m.][=she.too/also; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
+| "[=irihatzi+p.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself (ES: él.mismo, ese.mismo)]" : {irihatzi} ! irijatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ese.mismo, lit: ella.también'  
+| "[=irohatzi+p.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
 ! irojati noshiyapithatantanacariri, / irohati noshiyapitsatantanakariri / =irohati no- =shiy -apitsa -t -ant -an -ak -a =ri =ri / ES: 'así.es.que.tuve.que.escaparme.de.él.' 
-| "[=irohati+p.func@rflx.intsf.][PrnPers][+3SG.n.m.][=she.too/also; herself (ES: esa.misma)]" : {irohati} 
+| "[=irohati+p.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohati} 
 ];
-
-# ---------------------------------------------
-# Perfective 
-# ---------------------------------------------
-
-# MCB: ikutavankitaki / i- =kuta =panki -t -ak -i / 3m.s- =be.white =feather -ep -prf -real / EN: 'He.is.white-feathered' 
 
