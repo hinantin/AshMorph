@@ -151,12 +151,12 @@ define PrnPersPRQin [
 | "[=naintsi+p.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=][--][-ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
 # -------------------------------------------------------------------
 # -sati (EN: 'too/also'; ES: 'también')
-| "[=narosati+p.func@rflx.intsf.][PrnPers][+1SG][=me.too/also; myself]" : {narosati}
-| "[=avisati+p.func@rflx.intsf.][PrnPers][+2SG][=you.too/also; yourself]" : {avisati}
-| "[=irisati+p.func@rflx.intsf.][PrnPers][+3SG.m.][=he.too/also; himself]" : {irisati}
-| "[=irosati+p.func@rflx.intsf.][PrnPers][+3SG.n.m.][=she.too/also; herself]" : {irosati}
-| "[=arosati+p.func@rflx.intsf.][PrnPers][+1PL][=we.too/also; ourselves]" : {arosati}
-| "[=irisati+p.func@rflx.intsf.][PrnPers][+3PL.m.][=they.too/also; they.themselves]" : {irisati}
+| "[=narosati+p.func@rflx.intsf.+num@1SG][PrnPers][=me.too/also; myself]" : {narosati}
+| "[=avisati+p.func@rflx.intsf.+num@2SG][PrnPers][=you.too/also; yourself]" : {avisati}
+| "[=irisati+p.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself]" : {irisati}
+| "[=irosati+p.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself]" : {irosati}
+| "[=arosati+p.func@rflx.intsf.+num@1PL][PrnPers][=we.too/also; ourselves]" : {arosati}
+| "[=irisati+p.func@rflx.intsf.+num@3PL+gndr@m.][PrnPers][=they.too/also; they.themselves]" : {irisati}
 # -hatzi (EN: 'too'; ES: 'también')
 | "[=irihatzi+p.func@rflx.intsf.][PrnPers][+3SG.m.][=he.too/also; himself (ES: él.mismo, ese.mismo)]" : {irihatzi} ! irijatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ese.mismo, lit: ella.también'  
 | "[=irohatzi+p.func@rflx.intsf.][PrnPers][+3SG.n.m.][=she.too/also; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
