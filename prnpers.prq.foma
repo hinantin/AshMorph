@@ -126,19 +126,19 @@ define PrnPersPRQin [
 #| "[=irootaki][ConnRoot][=that's.why (ES: por.eso.es)]" : {irootaki}
 
 ! 
-| "[=arotaki+p.func@cntr.exh.l.][PrnPers][+1PL]" : {arotaki}
-| "[=arotake+p.func@cntr.exh.l.][PrnPers][+1PL]" : {arotake}
+| "[=arotaki+p.func@cntr.exh.l.+num@1PL][PrnPers][=]" : {arotaki}
+| "[=arotake+p.func@cntr.exh.l.+num@1PL][PrnPers][=]" : {arotake}
 # -------------------------------------------------------------------
 # -intsi~-inti
 !| "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
-| "[=naintsi+p.func@cntr.d.top.][PrnPers][+1SG.EXCL][=I…on.my.own]" : {naintsi}
-| "[=naintsi+p.func@cntr.d.top.][PrnPers][+1SG.EXCL][=I…on.my.own][--][-ma][+DUB]" : {naintsima}
-| "[=aintsi+p.func@cntr.d.top.][PrnPers][+1SG.INCL]" : {aintsi}
-| "[=avintsi+p.func@cntr.d.top.][PrnPers][+2SG][=you]" : {avintsi}
-| "[=irintsi+p.func@cntr.d.top.][PrnPers][+3SG.m.][=he]" : {irintsi}
-| "[=ariintsi+p.func@cntr.d.top.][PrnPers][+3SG.m.]" : {ariintsi}
-| "[=irontsi+p.func@cntr.d.top.][PrnPers][+3SG.n.m.]" : {irontsi}
-| "[=aronintsi+p.func@cntr.d.top.][PrnPers][+3SG.n.m.]" : {aronintsi}
+| "[=naintsi+p.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=I…on.my.own]" : {naintsi}
+| "[=naintsi+p.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=I…on.my.own][--][-ma][+DUB]" : {naintsima}
+| "[=aintsi+p.func@cntr.d.top.+num@1SG.INCL][PrnPers][=]" : {aintsi}
+| "[=avintsi+p.func@cntr.d.top.+num@2SG][PrnPers][=you]" : {avintsi}
+| "[=irintsi+p.func@cntr.d.top.+num@3SG+gndr@m.][PrnPers][=he]" : {irintsi}
+| "[=ariintsi+p.func@cntr.d.top.+num@3SG+gndr@m.][PrnPers][=]" : {ariintsi}
+| "[=irontsi+p.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {irontsi}
+| "[=aronintsi+p.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {aronintsi}
 ! 
 | "[=nainti+p.func@cntr.cnt.assert.top.][PrnPers][+1SG][=I (ES: yo)]" : {nainti}
 | "[=ainti+p.func@cntr.cnt.assert.top.][PrnPers][+1SG][=I]" : {ainti}
