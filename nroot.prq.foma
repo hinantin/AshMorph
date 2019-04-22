@@ -405,12 +405,12 @@ define NRootPRQin [
 # el escarabajo 'chakopitaki' se impulsa a sí mismo dando saltos, y se desarrolla en la palmera tsiyaro.
 | "[=chakopitaki+m.][NRoot][=greenish.beetle.sp. (ES: sp.de.escarabajo.de.color.verdoso; sci.nm.: género.chalcolepidius))]" : {chakopitaki}
 ! 
-| "[=cheero][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {cheero}
-| "[=tseero][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {tseero}
+| "[=cheero+gndr@m.][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {cheero}
+| "[=tseero+gndr@m.][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {tseero}
 ! 
-| "[=chivani+m.][NRoot][=cuckoo.sp. (ES: cuco; sci.nm.: piaya.cayana, piaya.minuta)]" : {chivani}
+| "[=chivani+gndr@m.][NRoot][=cuckoo.sp. (ES: cuco; sci.nm.: piaya.cayana, piaya.minuta)]" : {chivani}
 ! 
-| "[=chivini+m.][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: tigrisoma.fasciatum)]" : {chivini}
+| "[=chivini+gndr@m.][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: tigrisoma.fasciatum)]" : {chivini}
 ! 
 | "[=chamairo+gndr@n.m.][NRoot][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {chamairo}
 | "[=txaamayro+gndr@n.m.][NRoot:CPB][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {txaamayro}
