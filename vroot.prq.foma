@@ -843,10 +843,10 @@ define VRootPRQin [
 ! 
 | "[=kimoha+~kimo{CL:/liquid:ha/}+INF@/EP:t/antsi.][VRoot][=to.grow.in.size/volume.the_river_water_level (ES: aumentar.la.creciente.del.río)]" : {kimoha}
 ! 
-| "[=kimoenka][VRoot][=to.speak.out.loud; to.raise.one's.voice (ES: alzar.la.voz)]" : {kimoenka}
+| "[=kimoenka+INF@/EP:t/agantsi.][VRoot][=to.speak.out.loud; to.raise.one's.voice (ES: alzar.la.voz)]" : {kimoenka}
 | "[=kimohenka][VRoot][=to.speak.out.loud; to.raise.one's.voice (ES: alzar.la.voz)]" : {kimohenka}
 # ----------------------------------------------------------
-| "[=kimoshi][VRoot][=to.be.joyous]" : {kimoshi}
+!| "[=kimoshi][VRoot][=to.be.joyous]" : {kimoshi} ! to be checked 
 | "[=kimoshiri+INF@/EP:t/aantsi.][VRoot][=to.be.joyous (ES: alegrarse); to.be.happy (ES: alegrarse)]" : {kimoshiri}
 | "[=kimoshiry+INF@aantsi.][VRoot][=]" : {kimoshiry}
 | "[=kimoshire+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)]" : {kimoshire}
@@ -864,13 +864,15 @@ define VRootPRQin [
 | "[=kin][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kin} ! @section:verb@ 
 | "[=kẽ][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.]" : {kẽ}
 !
-| "[=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {ken}
-| "[=kin][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come]" : {kin}
-| "[=ken+prtl.redup@b.copy.][VRoot][=to.walk]" : {keken}
-#@PRTLREDUPCLASS01| "[=ken+prtl.redup@b.copy.][VRoot][=to.walk]" : {ken} ! keken 
-| "[=ken+prtl.redup@b.copy.][VRoot][=to.walk]" : {kekena}
-| "[=ken+tot.redup@unb.copy.][VRoot][=to.walk]" : {kenaken}
-| "[=ken+tot.redup@unb.copy.][VRoot][=to.walk]" : {kenakena}
+# ----------------------------------------------------------------------- 
+| "[=ken+INF@aantsi.][VRoot][=to.go.by.trail, to.go (ES: ir); to.pass (ES: pasar); to.walk, to.come]" : {ken}
+| "[=kin+INF@aantsi.][VRoot][=to.go.by.trail, to.go (ES: ir); to.pass (ES: pasar); to.walk, to.come]" : {kin}
+| "[=ken+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.walk]" : {keken}
+#@PRTLREDUPCLASS01| "[=ken+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.walk]" : {ken} ! keken 
+| "[=ken+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.walk]" : {kekena}
+| "[=ken+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]" : {kenaken}
+| "[=ken+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]" : {kenakena}
+# ----------------------------------------------------------------------- 
 ! 
 | "[=kenashi][VRoot][=to.be.green (ES: ser.de.color.verde)]" : {kenashi}
 ! 
