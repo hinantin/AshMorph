@@ -852,7 +852,7 @@ define VRootPRQin [
 | "[=kimoshire+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)]" : {kimoshire}
 | "[=kimoshere+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)]" : {kimoshere}
 ! 
-| "[=oimoshirink][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirink}
+| "[=oimoshirink+~{AGT.CAUS:o}{'to.be.happy':imoshiri}{EP:n}{DEGREE:k}+INF@aantsi.][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirink}
 | "[=oimoshirenk][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirenk}
 # ----------------------------------------------------------
 | "[=kempoy][VRoot][=to.save (ES: guardar); to.watch (ES: vigilar, observar)]" : {kempoy}
