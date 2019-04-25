@@ -877,6 +877,7 @@ define VRootPRQin [
 | "[=kenashi][VRoot][=to.be.green (ES: ser.de.color.verde)]" : {kenashi}
 ! 
 | "[=kenke][VRoot][=to.complain.about.sth.]" : {kenke}
+# ----------------------------------------------------------------------- 
 ! to believe, to think
 | "[=kinkishiri+INF@/EP:t/aantsi.][VRoot][=to.believe, to.think (ES: razonar)]" : {kinkishiri}
 | "[=kenkishiry+INF@aantsi.][VRoot][=to.believe, to.think]" : {kenkishiry}
@@ -890,8 +891,9 @@ define VRootPRQin [
 | "[=kenkeshire][VRoot][=to.believe, to.think]" : {kenkeshire}
 | "[=kenkishiri][VRoot][=to.believe, to.think]" : {kenkishiri}
 | "[=kenkishire][VRoot][=to.believe, to.think]" : {kenkishire}
+# ----------------------------------------------------------------------- 
 ! 
-| "[=kichank][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kichank}
+| "[=kichank+INF@agantsi.][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kichank}
 | "[=kisha+INF@antsi.][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kisha}
 ! 
 | "[=kinkitsa+INF@/EP:t/aantsi.][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kinkitsa}
