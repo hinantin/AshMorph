@@ -1393,11 +1393,11 @@ define VRootPRQin [
 | "[=noshik+INF@V.+A-Conj@mid.v.][VRoot][=to.crawl]" : {noshik}
 | "[=noshik+INF@V.+I-Conj@act.v.][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)]" : {noshik}
 ! 
-| "[=ny+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
+| "[=ny/ñ+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
 | "[=ne+INF@aantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ne}
 | "[=ni][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ni}
-| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyaanyaa}
-| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyanya}
+| "[=ny/ñ+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyaanyaa}
+| "[=ny/ñ+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyanya}
 #@TOTREDUPCLASS02| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny} ! nyaanyaa nyanya
 ! 
 | "[=onyaak/oñaak+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ak}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaak}
