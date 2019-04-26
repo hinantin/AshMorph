@@ -1408,13 +1408,13 @@ define VRootPRQin [
 | "[=nea+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nea}
 | "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {neanea} ! noneaneatempi
 ! 
-| "[=neavintsa][VRoot][=to.fornicate (ES: fornicar)]" : {neavintsa}
+| "[=neavintsa+INF@/EP:t/VC.][VRoot][=to.fornicate (ES: fornicar)]" : {neavintsa}
 ! 
 # ------------------------------------------------------------- 
-| "[=nyaama][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)]" : {nyaama}
+| "[=nyaama/ñaama+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)]" : {nyaama}
 | "[=neve+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {neve} 
-| "[=nevi][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {nevi} ! to be checked 
-| "[=nive][VRoot][=to.like (ES: gustar)]" : {nive}
+| "[=nevi+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {nevi} 
+| "[=nive+INF@/EP:t/aantsi.][VRoot][=to.like (ES: gustar)]" : {nive} 
 # ------------------------------------------------------------- 
 | "[=nyaana/ñaana+INF@/EP:t/aantsi.][VRoot][=to.study (ES: estudiar)]" : {nyaana}
 | "[=nyaana/ñaana+INF@/EP:t/aantsi.][VRoot][=to.read (ES: leer)]" : {nyaana}
