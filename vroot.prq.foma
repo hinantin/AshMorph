@@ -1403,8 +1403,8 @@ define VRootPRQin [
 | "[=onyaak][VRoot][=to.show (ES: mostrar)]" : {onyaak}
 | "[=onyaag][VRoot][=to.show (ES: mostrar)]" : {onyaag}
 ! 
-| "[=nya+INF@antsi.][VRoot][=to.speak (ES: hablar)]" : {nya}
-| "[=nyaa+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nyaa}
+| "[=nya/ña+INF@antsi.][VRoot][=to.speak (ES: hablar)]" : {nya}
+| "[=nyaa/ñaa+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nyaa}
 | "[=nea+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nea}
 | "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {neanea} ! noneaneatempi
 ! 
