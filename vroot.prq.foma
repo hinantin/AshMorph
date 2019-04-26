@@ -1400,8 +1400,8 @@ define VRootPRQin [
 | "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyanya}
 #@TOTREDUPCLASS02| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny} ! nyaanyaa nyanya
 ! 
-| "[=onyaak][VRoot][=to.show (ES: mostrar)]" : {onyaak}
-| "[=onyaag][VRoot][=to.show (ES: mostrar)]" : {onyaag}
+| "[=onyaak/oñaak+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ak}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaak}
+| "[=onyaag/oñaag+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ag}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaag}
 ! 
 | "[=nya/ña+INF@antsi.][VRoot][=to.speak (ES: hablar)]" : {nya}
 | "[=nyaa/ñaa+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nyaa}
