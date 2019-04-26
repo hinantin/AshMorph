@@ -932,7 +932,7 @@ define VRootPRQin [
 ! 
 # to.defend
 | "[=kisakovint+INF@antsi.][VRoot][=to.defend (ES: defender; PT: defender)]" : {kisakovint}
-| "[=tikakovent][VRoot][=to.defend (ES: defender)]" : {tikakovent}
+| "[=tikakovent+INF@antsi.][VRoot][=to.defend (ES: defender)]" : {tikakovent}
 | "[=piya][VRoot][=to.defend (ES: defender)]" : {piya}
 | "[=piyavint][VRoot][=to.defend (ES: defender)]" : {piyavint}
 | "[=piyakovent][VRoot][=to.defend (ES: defender); to.avenge (ES: vengar)]" : {piyakovent}
