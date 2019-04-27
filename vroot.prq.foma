@@ -1444,7 +1444,7 @@ define VRootPRQin [
 | "[=oiminke+~{AGT.CAUS:oimin}{'to.enter':ke}+INF@VC.+I-Conj@act.v.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminke} 
 | "[=oeminki+~{AGT.CAUS:oemin}{'to.enter':ki}][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oeminki} 
 ! 
-| "[=oipak][VRoot][=to.drop.sth. (ES: soltar)]" : {oipak} 
+| "[=oipak+INF@VC.][VRoot][=to.drop.sth. (ES: soltar)]" : {oipak} 
 | "[=oimpak][VRoot][=to.drop.sth. (ES: soltar)]" : {oimpak} # to be checked!!! 
 | "[=oimaha][VRoot][=to.drop.sth. (ES: soltar)]" : {oimaha} # to be checked!!! 
 ! 
