@@ -1911,7 +1911,7 @@ define NRootPRQin [
 | "[=shintyoiroki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiroki}
 | "[=shintyoiriroki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiriroki}
 ! 
-| "[=kisontainari+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari}
+| "[=kisontainari+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari} ! @CMP @section:noun@ 
 ! 
 | "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
 | "[=kitaeriki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitaeriki}
@@ -2006,7 +2006,7 @@ define NRootPRQin [
 | "[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {kooko}
 | "[=kokoini][NRoot][=father.in.law.DIM; uncle.DIM (kin.of.a.female, fem.ego)]" : {kokoini}
 ! 
-| "[=koonkotzi][NRoot][=ringed.antpipit (sci.nm.: corythopis.torquata)]" : {koonkotzi}
+| "[=koonkotzi+gndr@m.][NRoot][=ringed.antpipit, bird.sp. (sci.nm.: corythopis.torquata)]" : {koonkotzi}
 ! 
 # elbow
 | "[=konaki+gndr@n.m.+inal@n/tsi.][NRoot][=elbow (ES: codo)]" : {konaki}
