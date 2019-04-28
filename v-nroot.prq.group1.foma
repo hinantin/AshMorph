@@ -8,12 +8,13 @@ define VerbToNounPRQin [
 | "[=tsitink+INF@aantsi.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]::[=stumbling.block (ES: tropiezo)][^NMZ]" : {tsitink} ! V@->N::[=stumbling.block (ES: tropiezo)] 
 | "[=apato+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar), to.meet, to.get.together]::[=meeting (ES: reunión)][^NMZ]" : {apato} ! V@->N::[=meeting (ES: reunión)]
 | "[=tohe][VRoot][=to.cough (ES: toser)]::[=cough (ES: tos)][^NMZ]" : {tohe} ! V@->N::[=cough (ES: tos)] 
-| "[=atsikaneent~atsik{EP:a}{DIM:neent}+INF@aantsi.][VRoot][=to.have.a.stomachache/biting_pain_in_the_stomach (ES: tener.dolor.de.estómago, tener.cólico); to.be.in.labour (ES: estar.de.parto)]::[=stomachache (ES: dolor.de.estómago)][^NMZ]" : {atsikaneent} ! V@->N::[=stomachache (ES: dolor.de.estómago)] 
+| "[=atsikaneent+~atsik{EP:a}{DIM:neent}+INF@aantsi.][VRoot][=to.have.a.stomachache/biting_pain_in_the_stomach (ES: tener.dolor.de.estómago, tener.cólico); to.be.in.labour (ES: estar.de.parto)]::[=stomachache (ES: dolor.de.estómago)][^NMZ]" : {atsikaneent} ! V@->N::[=stomachache (ES: dolor.de.estómago)] 
 | "[=kamant+INF@aantsi.][VRoot][=to.inform;| to.advise]::[=sermon (ES: sermón)][^NMZ]" : {kamant} ! V@->N::[=sermon (ES: sermón)] @section:verb@ 
 | "[=kamarank+INF@aantsi.][VRoot][=to.vomit (ES: vomitar; PT: vomitar; IT: vomitare)]::[=vomit (ES: vómito)][^NMZ]" : {kamarank} ! V@->N::[=vomit (ES: vómito)] @section:verb@ 
 | "[=kamen+INF@aantsi.][VRoot][=to.advise; to.give.advice]::[=advice, piece.of.advice][^NMZ]" : {kamen} ! V@->N::[=advice, piece.of.advice] 
 | "[=kempe+INF@/EP:t/aantsi.][VRoot][=to.be.similar.to.sb/sth, to.seem (ES: ser.como.algn.); to.imitate]::[=resemblance (ES: semejanza)][^NMZ]" : {kempe} ! V@->N::[=resemblance (ES: semejanza)] 
 | "[=kis+INF@aantsi.+poss@ane.][VRoot][=to.be.angry/furious, to.get.upset/angry (ES: estar.molesto)]::[=anger (ES: ira, cólera)][^NMZ]" : {kis} ! V@->N::[=anger (ES: ira, cólera)] 
+| "[=kisoshire+INF@/EP:t/aantsi.][VRoot][=to.doubt (ES: dudar)]::[=incredulous.person (ES: incrédulo); doubt (ES: duda)][^NMZ]" : {kisoshire} ! V@->N::[=incredulous.person (ES: incrédulo); doubt (ES: duda)] 
 | "[=koshi+INF@/EP:t/aantsi.][VRoot][=to.steal; to.rob (ES: robar)]::[=profit (ES: lucro)][^NMZ]" : {koshi} ! V@->N::[=profit (ES: lucro)] 
 | "[=mahere+INF/EP:t/aantsi.][VRoot][=to.be.silent (ES: callar)]::[=silence (ES: silencio)][^NMZ]" : {mahere} ! V@->N::[=silence (ES: silencio)] 
 | "[=pampoy+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]::[=song (ES: canción)][^NMZ]" : {pampoy} ! V@->N::[=song (ES: canción)] 

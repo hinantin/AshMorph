@@ -11,8 +11,8 @@ define NounToVerbPRQin [
 | "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano)]::[=to.hand.sth. (ES: dar.con.la.mano, entregar)][^VBZ]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
 | "[=amaani+gndr@n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)][^VBZ]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=amani+gndr@n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)][^VBZ]" : {amani} ! N@->V::[=to.increase (ES: crecer)]
-| "[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][^VBZ]" : {antami} ! N@->V
-| "[=aNtame/ãtame][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest][^VBZ]" : {ãtame} ! N@->V
+| "[=antami+gndr@n.m.][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][^VBZ]" : {antami} ! N@->V
+| "[=aNtame/ãtame+gndr@n.m.][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest][^VBZ]" : {ãtame} ! N@->V
 | "[=antyashiparo+gndr@n.m.][NRoot][=elderly.woman, old.woman][^VBZ]" : {antyashiparo} ! N@->V
 | "[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person][^VBZ]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atiri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person][^VBZ]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
