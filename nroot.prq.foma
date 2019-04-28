@@ -229,12 +229,12 @@ define NRootPRQin [
 | "[=aampe+gndr@m.][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {aampe}
 | "[=tsaampe+gndr@m.][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {tsaampe}
 ! cotton
-| "[=ampee+poss@re:ne.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampee}
-| "[=ampii+poss@ri.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampii}
-| "[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampe}
-| "[=aNpe/ãpe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ãpe}
-| "[=ampi][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampi}
-| "[=ampehi][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampehi}
+| "[=ampee+gndr@n.m.+poss@re:ne.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampee}
+| "[=ampii+gndr@n.m.+poss@ri.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampii}
+| "[=ampe+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampe}
+| "[=aNpe/ãpe+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ãpe}
+| "[=ampi+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampi}
+| "[=ampehi+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampehi}
 # ------------------------------------------------------------------
 ! paradigms?
 | "[=amporetsa][NRoot][=intestine (ES: tripa, intestino); animal.innards/entrails (ES: menudencia)]" : {amporetsa}
@@ -247,10 +247,10 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 # antami: dense tropical forest 
-| "[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {antami} ! N@->V
-| "[=aNtame/ãtame][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {ãtame} ! N@->V
-| "[=aNtami/ãtami][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {ãtami}
-| "[=antame][NRoot][=woods, forest (ES: selva, PT: floresta); dense.tropical.forest]" : {antame} 
+| "[=antami+gndr@n.m.][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {antami} ! N@->V
+| "[=aNtame/ãtame+gndr@n.m.][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {ãtame} ! N@->V
+| "[=aNtami/ãtami+gndr@n.m.][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {ãtami}
+| "[=antame+gndr@n.m.][NRoot][=woods, forest (ES: selva, PT: floresta); dense.tropical.forest]" : {antame} 
 ! 
 | "[=antamishi][NRoot][=impenetratable.tropical.forest.with.a_lot_of.vines]" : {antamishi}
 ! 
