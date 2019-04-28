@@ -1448,10 +1448,10 @@ define VRootPRQin [
 | "[=oimpak+INF@VC.][VRoot][=to.drop.sth. (ES: soltar)]" : {oimpak} # to be checked!!! 
 | "[=oimaha][VRoot][=to.drop.sth. (ES: soltar)]" : {oimaha} # to be checked!!! 
 ! 
-| "[=oirik][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {oirik} 
-| "[=oerik][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {oerik} 
-| "[=ahirik][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {ahirik} 
-| "[=otaiy][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {otaiy} 
+| "[=oirik+INF@aantsi.][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {oirik} 
+| "[=oerik+INF@aantsi.][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {oerik} 
+| "[=ahirik+INF@aantsi.][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {ahirik} 
+| "[=otaiy+INF@aantsi.][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {otaiy} 
 !###| "[n-][VPers][1SG.S/A+][--][=oirik+prtl.redup@b.copy.][VRoot][=to.grab.sth., to.seize.sth. (ES: agarrar)]" : {noinoirik} ! @REDUP 
 ! 
 ! o- kirink(a) ... / 
