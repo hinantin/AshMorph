@@ -4025,8 +4025,8 @@ define NRootPRQin [
 | "[=shimori+gndr@n.m.+inal@ntsi.][NRoot][=saliva, spit(tle) (ES: saliva)]" : {shimori}
 ! 
 | "[=shimpana+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {shimpana}
-| "[=shimpanatsa~shimpana{CL:/'long.flexible.thin':tsa/}][NRoot][=vine.that.grows.in.the.shimpana-tree (ES: bejuco.que.crece.en.el.árbol.shimpana)]" : {shimpanatsa}
-| "[=shimpanateya~shimpana{CL:/flower:teya/}][NRoot][=shimpana-tree.fruit (ES: fruto.del.árbol.shimpana)]" : {shimpanateya}
+| "[=shimpanatsa+~{'tree':shimpana}{CL:/'long.flexible.thin':tsa/}+gndr@n.m.][NRoot][=vine.that.grows.in.the.shimpana-tree (ES: bejuco.que.crece.en.el.árbol.shimpana)]" : {shimpanatsa}
+| "[=shimpanateya+~{'tree':shimpana}{CL:/flower:teya/}+gndr@n.m.][NRoot][=shimpana-tree.fruit (ES: fruto.del.árbol.shimpana)]" : {shimpanateya}
 ! 
 | "[=shimpi+gndr@m.][NRoot][=armored.catfish.sp. (ES: sp.de.carachama)]" : {shimpi}
 ! 
