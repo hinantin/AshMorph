@@ -9,7 +9,7 @@
 # Consider moving the N V into an XML format 
 
 # LABEL ORDER : 
-# 0: ~{..}{..}...{..} 
+# 0: +~{..}{..}...{..} 
 #    Information on the morphemes of lexicalized entries.
 # 1: +gndr@m. (masculine), +gndr@n.m. (not-masculine), +gndr@n./m. (masculine or not-masculine) 
 # 2: +inal@ntsi., +inal@tsi., +inal@n/tsi.
@@ -79,7 +79,7 @@ define NRootPRQin [
 ! 
 | "[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninka} ! N@->V::[=to.become.Ashaninka]
 | "[=asheninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {asheninka}
-| "[=ashaninkaye~ashaninka{PL:/'many':ye/}][NRoot][=numerous.indigenous.people.that.live.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninkaye}
+| "[=ashaninkaye+~ashaninka{PL:/'many':ye/}][NRoot][=numerous.indigenous.people.that.live.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninkaye}
 ! 
 | "[=ashisho][NRoot][=person's.name; NP]" : {ashisho}
 ! 
@@ -319,8 +319,8 @@ define NRootPRQin [
 ! 
 | "[=avireri][NRoot][=name.of.a_mythical_hero, person's.name]" : {avireri}
 ! 
-| "[=avo+gndr@m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao~atatao)]" : {avo}
-| "[=aro+gndr@m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao~atatao)]" : {aro}
+| "[=avo+gndr@m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao, atatao)]" : {avo}
+| "[=aro+gndr@m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao, atatao)]" : {aro}
 ! 
 | "[=chaari][NRoot][=dark.water]" : {chaari}
 ! 
