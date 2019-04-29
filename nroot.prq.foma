@@ -661,7 +661,7 @@ define NRootPRQin [
 | "[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]" : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=iintsi+gndr@n./m.][NRoot][=child (ES: niño)]" : {iintsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=entsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]" : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
-| "[=ẽtsi+gndr@n./m.+poss@ti.][NRoot][=child (ES: niño; PT: menino)]" : {ẽtsi}
+| "[=eNtsi/ẽtsi+gndr@n./m.+poss@ti.][NRoot][=child (ES: niño; PT: menino)]" : {ẽtsi}
 ! 
 | "[=iinyeeni/iiñeeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male)]" : {iinyeeni}
 | "[=inyeni/iñeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeni}
