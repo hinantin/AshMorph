@@ -599,8 +599,8 @@ define NRootPRQin [
 ! chopirintsi parentzi / ES: 'sopa.de.plátano'
 ! chopirintsi shima / ES: 'caldo.de.pescado'
 ! antantsi chopi / ES: 'hacer.sopa'
-| "[=chopire~{'to.make.soup':chopi}{NMZ:re}+gndr@n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopire} 
-| "[=chopiri~{'to.make.soup':chopi}{NMZ:ri}+gndr@n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopiri} 
+| "[=chopire+~{'to.make.soup':chopi}{NMZ:re}+gndr@n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopire} 
+| "[=chopiri+~{'to.make.soup':chopi}{NMZ:ri}+gndr@n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopiri} 
 # ------------------------------------------------------------------------------- 
 ! 
 | "[=chorina+gndr@n.m.][NRoot][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {chorina} 
