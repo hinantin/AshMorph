@@ -4000,11 +4000,11 @@ define NRootPRQin [
 | "[=shiyava][NRoot][=NP, person's.name]" : {shiyava}
 | "[=pishiyava][NRoot][=NP, person's.name]" : {pishiyava}
 ! 
-| "[=shaaki][NRoot][=unguravi-palm-tree.fruit (ES: fruto.de.ungurague)]" : {shaaki}
+| "[=shaaki+gndr@n.m.][NRoot][=unguravi-palm-tree.fruit (ES: fruto.de.ungurague)]" : {shaaki}
 ! 
-| "[=shaanke][NRoot][=unguravi-palm-tree.venomous.snake.sp.]" : {shaanke}
+| "[=shaanke+gndr@n.m.][NRoot][=unguravi-palm-tree.venomous.snake.sp.]" : {shaanke}
 ! 
-| "[=shiyeri][NRoot][=monkey.sp. (ES: sp.de.mono; sci.nm.: cabuella.pygmaea)]" : {shiyeri}
+| "[=shiyeri+gndr@m.][NRoot][=monkey.sp. (ES: sp.de.mono; sci.nm.: cabuella.pygmaea)]" : {shiyeri}
 ! 
 | "[=shiyintzi+gndr@m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyintzi}
 | "[=shiyentzi+gndr@m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyentzi}
