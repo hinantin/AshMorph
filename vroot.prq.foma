@@ -59,8 +59,8 @@ define VRootPRQin [
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound;| to.destroy (ES: malograr)]" : {amashi} ! @section:verb@ 
 ! 
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashi}
-| "[=amashink+~amashi{EP:n}{DEGREE:k}+INF@VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashink}
-| "[=amashinke+~amashi{EP:n}{DEGREE:ke}+INF@/EP:t/VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashinke}
+| "[=amashink+~{'to.climb':amashi}{EP:n}{DEGREE:k}+INF@VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashink}
+| "[=amashinke+~{'to.climb':amashi}{EP:n}{DEGREE:ke}+INF@/EP:t/VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashinke}
 ! 
 | "[=amok][VRoot][=to.be/get.cloudy (ES: estar/ponerse.nublado; nublarse)]" : {amok} 
 | "[=aamok][VRoot][=to.be/get.cloudy (ES: estar/ponerse.nublado; nublarse)]" : {aamok} 
