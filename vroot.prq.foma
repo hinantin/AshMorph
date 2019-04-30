@@ -1644,7 +1644,7 @@ define VRootPRQin [
 | "[=paam+INF@antsi.][VRoot][=to.burn (ES: arder, incendiar, prender.fuego)]" : {paam}
 | "[=paampa+INF@/EP:t/aantsi.][VRoot][=to.burn (ES: arder, incendiar, prender.fuego)]" : {paampa}
 | "[=pampa+INF@/EP:t/aantsi.][VRoot][=to.burn (ES: arder, incendiar, prender.fuego)]" : {pampa}
-| "[=paamaki+~paama{DEGREE:ki}+INF@/EP:t/VC.][VRoot][=to.be.really.hot (i.e.: stones)]" : {paamaki}
+| "[=paamaki+~{'to.burn':paama}{DEGREE:ki}+INF@/EP:t/VC.][VRoot][=to.be.really.hot (i.e.: stones)]" : {paamaki}
 # ------------------------------------------------------
 ! 
 | "[=pampitsa][VRoot][=to.follow.the.footprints, to.follow.someone's.path]" : {pampitsa}
