@@ -38,7 +38,7 @@ define VRootPRQin [
 | "[=aa+INF@/EP:t/aantsi.][VRoot][=to.perch;| to.land, to.disembark;| to.dock (ES: atracar)]" : {aa} ! @section:verb@ 
 ! 
 # aaha~ / =aa -ha ~ / =to.take -cl:liquid ~ / EN: 'to.reduce.river_flow'  
-| "[=aaha+~aa{CL:/liquid:ha/}+INF@VC.][VRoot][=to.reduce.the.river_flow (ES: bajar/mermar.el.agua.del.río)]" : {aaha} 
+| "[=aaha+~{'to.take':aa}{CL:/liquid:ha/}+INF@VC.][VRoot][=to.reduce.the.river_flow (ES: bajar/mermar.el.agua.del.río)]" : {aaha} 
 ! 
 # aanan~ / =aa -na -n ~ / =to.take -cl:long,hollow -ep ~ / EN: 'to.extend'  ! to be revised   
 | "[=aanan+~aa{CL:/long,hollow:na/}{EP:n}+INF@VC.][VRoot][=to.extend (ES: extender)]" : {aanan} 
