@@ -2856,7 +2856,7 @@ define NRootPRQin [
 | "[=hinyaa/hĩyaa+poss@te.][NRoot:CPB][=water (ES: agua); river (ES: rio)]" : {hĩyaa} 
 ! 
 # nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek'
-| "[=nihateni][NRoot][=brook;| creek (ES: quebrada, arroyo)]" : {nihateni} ! @section:noun@ 
+| "[=nihateni+~{'water':niha}{CL:/'longitudinal.depression':teni/}][NRoot][=brook;| creek (ES: quebrada, arroyo)]" : {nihateni} ! @section:noun@ 
 | "[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nihaateni}
 | "[=hinyaateni/hiñaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaateni}
 | "[=hinyaatini/hiñaatini][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaatini}
@@ -4888,7 +4888,7 @@ define NRootPRQin [
 | "[=tsome+gndr@n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsome} ! @VCMP
 | "[=tsomi+gndr@n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsomi} ! @VCMP
 ! 
-| "[=tsomiri+gndr@m.][NRoot][=black.boa.sp. (ES: boa.negra); demonic.water.owner]" : {tsomiri}
+| "[=tsomiri+gndr@m.][NRoot][=black.boa.sp. (ES: boa.negra); demonic.water.owner, water.sprite]" : {tsomiri}
 | "[=tsomiri+gndr@m.][NRoot][=river.master (ES: dueño.del.río)]" : {tsomiri}
 | "[=tsomiriniro+~tsomiri{CL:/'bad/evil':niro/}][NRoot][=aquatic.monster.that.eats.drowned.bodies (ES: monstruo.acuático.que.come.los.cuerpos.ahogados)]" : {tsomiriniro}
 ! 
