@@ -749,7 +749,7 @@ define NRootPRQin [
 | "[=samani+gndr@m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca, agouti.paca)]" : {samani}
 | "[=hamani+gndr@m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]" : {hamani}
 | "[=hamaani+gndr@m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]" : {hamaani}
-| "[=samaninki+gndr@n.m.][NRoot][=peanut.sp. (ES: sp.de.maní)]" : {samaninki}
+#| "[=samaninki+~{'rodent':samani}{'peanut':/DEL:i/nki}+gndr@n.m.][NRoot][=peanut.sp. (ES: sp.de.maní)]" : {samaninki}
 ! 
 | "[=samanchero+gndr@m.][NRoot][=termite.sp. (ES: sp.de.comején)]" : {samanchero}
 ! 
@@ -765,7 +765,7 @@ define NRootPRQin [
 | "[=hananeri][NRoot][=person's.name; river.of.eternal.youth (ES: río.de.la.eterna.juventud)]" : {hananeri}
 ! 
 # We are including the -nti/nposs suffix within the root to form a verbal root 
-| "[=hankenavaerenti][NRoot][=writer (ES: escritor)]" : {hankenavaerenti} ! N@->V::[=to.be.a.writer (ES: ser.escritor)] 
+| "[=hankenavaerenti+~{'to.write':hankena}{DUR:vae}{NMZ:re}{NMZ:nti}][NRoot][=writer (ES: escritor)]" : {hankenavaerenti} ! N@->V::[=to.be.a.writer (ES: ser.escritor)] 
 ! 
 | "[=haaka][NRoot][=full (ES: saturado, lleno)]" : {haaka}
 ! 
