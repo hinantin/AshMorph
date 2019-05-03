@@ -974,7 +974,7 @@ define NRootPRQin [
 | "[=intxashi][NRoot:CPB][=herb.with.therapeutic.properties; medicinal.plant (ES: planta.curativa)]" : {intxashi}
 ! 
 # ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
-| "[=inchashinari+healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
+| "[=inchashinari+sem@healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
 ! 
 | "[=inka][NRoot][=rain (ES: lluvia)]" : {inka}
 | "[=inkani+gndr@n.m.][NRoot][=rain (ES: lluvia; PT: chuva; QU: para)]" : {inkani} ! @section:noun@ 
@@ -989,7 +989,7 @@ define NRootPRQin [
 | "[=inkaare+gndr@n.m.][NRoot][=lake, cocha (QU: qucha; ES: laguna)]" : {inkaare}
 | "[=inkahare][NRoot][=lagoon]" : {inkahare}
 ! 
-| "[=inkanya+gndr@n.m.][NRoot][=intermittent.rain-water.well (ES: pozo.intermitente.de.agua.de.lluvia)]" : {inkanya}
+| "[=inkanya/inkaña+gndr@n.m.][NRoot][=intermittent.rain-water.well (ES: pozo.intermitente.de.agua.de.lluvia)]" : {inkanya}
 ! 
 | "[=inkite][NRoot][=sky (ES: cielo; PT: céu; QU: hanaq.pacha);| firmament]" : {inkite} ! @section:noun@ 
 ! 
