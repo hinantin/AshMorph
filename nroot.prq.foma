@@ -989,9 +989,10 @@ define NRootPRQin [
 | "[=inkaare+gndr@n.m.][NRoot][=lake, cocha (QU: qucha; ES: laguna)]" : {inkaare}
 | "[=inkahare][NRoot][=lagoon]" : {inkahare}
 ! 
-| "[=inkanya/inkaña+gndr@n.m.][NRoot][=intermittent.rain-water.well (ES: pozo.intermitente.de.agua.de.lluvia)]" : {inkanya}
+| "[=inkanya/inkaña+~{'rain':inka}{CL:/'small.shallow.pool.of.water':nya/}+gndr@n.m.][NRoot][=intermittent.rain-water.well (ES: pozo.intermitente.de.agua.de.lluvia)]" : {inkanya}
 ! 
-| "[=inkite][NRoot][=sky (ES: cielo; PT: céu; QU: hanaq.pacha);| firmament]" : {inkite} ! @section:noun@ 
+| "[=inkite+gndr@n.m.][NRoot][=sky (ES: cielo; PT: céu; QU: hanaq.pacha);| firmament]" : {inkite} ! @section:noun@ 
+| "[=inkiti+gndr@n.m.][NRoot][=sky (ES: cielo; PT: céu; QU: hanaq.pacha);| firmament]" : {inkiti}
 ! 
 | "[=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
 ! 
