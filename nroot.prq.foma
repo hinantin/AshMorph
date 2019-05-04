@@ -974,7 +974,7 @@ define NRootPRQin [
 | "[=intxashi][NRoot:CPB][=herb.with.therapeutic.properties; medicinal.plant (ES: planta.curativa)]" : {intxashi}
 ! 
 # ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
-| "[=inchashinari+sem@healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
+| "[=inchashinari+~{'plant':incha}{CL:/'leaf':shi/}{CL:/'user.of.sth.':nari/}+sem@healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
 ! 
 | "[=inka][NRoot][=rain (ES: lluvia)]" : {inka}
 | "[=inkani+gndr@n.m.][NRoot][=rain (ES: lluvia; PT: chuva; QU: para)]" : {inkani} ! @section:noun@ 
