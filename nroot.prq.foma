@@ -1025,12 +1025,6 @@ define NRootPRQin [
 ! 
 | "[=intakantarori][NRoot][=ancestor]" : {intakantarori}
 ! 
-#  these are not nouns, consider moving them to adverbs 
-| "[=intakiro][NRoot][=outside]" : {intakiro}
-| "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
-| "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
-| "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
-| "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
 # ----------------------------------------------------- 
 # location - spatial adverbs
 # -----------------------------------------------------
@@ -1051,6 +1045,12 @@ define NRootPRQin [
 | "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
 | "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
+#  these are not nouns, consider moving them to adverbs 
+| "[=intakiro][NRoot][=outside]" : {intakiro}
+| "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
+| "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
+| "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
+| "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
 ! 
 # iskoniki / =isko -ni -ki / =lime -cl:watercourse -cl:human.populated / EN: 'quebrada.donde.abunda.la.cal'; ES: 'ravine.where.lime.is.abundant' 
 | "[=ishiko+poss@te.][NRoot][=(powdered).lime (ES: cal)]" : {ishiko}
