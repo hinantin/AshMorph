@@ -1039,12 +1039,12 @@ define NRootPRQin [
 | "[=arehi+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {arehi}
 | "[=okaakini+sem@loc.][AdvRoot][=in.close.proximity, closeby]" : {okaakini}
 ! 
-| "[=intakiro][AdvRoot][=outside]" : {intakiro}
-| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside]" : {intakironta}
-! 
 | "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
 | "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
+! 
+| "[=intakiro][AdvRoot][=outside]" : {intakiro}
+| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside]" : {intakironta}
 #  these are not nouns, consider moving them to adverbs 
 | "[=intakiro][NRoot][=outside]" : {intakiro}
 | "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
