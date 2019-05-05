@@ -1046,7 +1046,7 @@ define NRootPRQin [
 | "[=okaakini+sem@loc.][AdvRoot][=in.close.proximity, closeby]" : {okaakini}
 ! 
 | "[=intakiro][AdvRoot][=outside]" : {intakiro}
-| "[=intakironta+~intakironta][AdvRoot][=outside]" : {intakironta}
+| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside]" : {intakironta}
 ! 
 | "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
 | "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
