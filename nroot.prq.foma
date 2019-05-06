@@ -943,7 +943,7 @@ define NRootPRQin [
 | "[=iNtxa/ĩtxa][NRoot][=plant (ES: planta; PT: planta)]" : {intxa}
 ! 
 # ninchakiri / n- incha -ki -ri / 1sg.poss- =plant -cl:hard -aln.poss. / EN: 'my.pole' 
-| "[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]" : {inchaki} 
+| "[=inchaki+~{'plant':incha}{CL:/'hard':ki/}+poss@ri.][NRoot][=pole (ES: palo)]" : {inchaki} 
 | "[=inchaki][NRoot][=tree.sp. (ES: copaiba; sci.nm.: copaifera.paupera)]" : {inchaki}
 ! 
 | "[=inchakitso][NRoot][=tree.sp. (ES: moena, sp.de.árbol)]" : {inchakitso} 
