@@ -1325,7 +1325,7 @@ define NRootPRQin [
 ! 
 | "[=ivayetziri][NRoot][=warriors]" : {ivayetziri}
 ! 
-| "[=iye+gndr@m.][NRoot][=brother (kin.of.a.male, male.ego)]" : {iye}
+| "[=iye+gndr@m.+kin@male.ego][NRoot][=brother (kin.of.a.male)]" : {iye}
 | "[=iyenti+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {iyenti}
 | "[=iyeki+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {iyeki}
 | "[=iyiki+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {iyiki}
@@ -1335,7 +1335,7 @@ define NRootPRQin [
 | "[=iyeyi][NRoot][=brother]" : {iyeyi}
 ! 
 | "[=irentzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
-| "[=irentsi+gndr@m.][NRoot][=brother (kin.of.a.male, male.ego), male.who.belongs.to.the.same.ego's.generation]" : {irentsi}
+| "[=irentsi+gndr@m.+kin@male.ego][NRoot][=brother (kin.of.a.male), male.who.belongs.to.the.same.ego's.generation]" : {irentsi}
 | "[=irintzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
 ! 
 | "[=kaantziriritzi][NRoot][=rufous-capped-ant-trush (sci.nm.: form¡carius.colma)]" : {kaantziriritzi}
