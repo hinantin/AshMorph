@@ -953,7 +953,7 @@ define NRootPRQin [
 | "[=inchapataki][NRoot][=spatula; wood.splinter (ES: astilla)]" : {inchapataki} 
 ! 
 | "[=inchapanki+~{'plant':incha}{CL:/'plank':panki/}+gndr@n.m.+poss@ri.][NRoot][=plank]" : {inchapanki} 
-| "[=inchapanke+gndr@n.m.+poss@ri.][NRoot][=plank]" : {inchapanke} 
+| "[=inchapanke+~{'plant':incha}{CL:/'plank':panke/}+gndr@n.m.+poss@ri.][NRoot][=plank]" : {inchapanke} 
 ! 
 | "[=inchapontso][NRoot][=stake (ES: estaca)]" : {inchapontso} 
 ! 
