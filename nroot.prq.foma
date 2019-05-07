@@ -955,7 +955,7 @@ define NRootPRQin [
 | "[=inchapanki+~{'plant':incha}{CL:/'plank':panki/}+gndr@n.m.+poss@ri.][NRoot][=plank]" : {inchapanki} 
 | "[=inchapanke+~{'plant':incha}{CL:/'plank':panke/}+gndr@n.m.+poss@ri.][NRoot][=plank]" : {inchapanke} 
 ! 
-| "[=inchapontso][NRoot][=stake (ES: estaca)]" : {inchapontso} 
+| "[=inchapontso+~{'plant':incha}{CL:/'sharpless.edge':pontso/}][NRoot][=stake (ES: estaca)]" : {inchapontso} 
 ! 
 | "[=inchato+gndr@n.m.][NRoot][=tree (ES: árbol)]" : {inchato} 
 | "[=iNtxato/ĩtxato+gndr@n.m.][NRoot:CPB][=tree (ES: árbol; PT: árvore)]" : [{ĩtxato}|{itxato}]
