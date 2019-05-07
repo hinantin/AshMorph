@@ -965,12 +965,12 @@ define NRootPRQin [
 | "[=inchatonaki+~{'plant':incha}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot][=big.traditional.fishing.boat;| plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {inchatonaki} ! @section:noun@ 
 | "[=intxatonaki+~{'plant':intxa}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot:CPB][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {intxatonaki} 
 ! 
-| "[=inchatoshi][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
-!| "[=inchatoshisati][NRoot][=amazon.region;| amazon.forest;| amazonian]" : {inchatoshisati} ! @section:noun@ 
+| "[=inchatoshi+~{'plant':incha}{CL:/'tree':to/}{CL:/'leaf':shi/}][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
+!| "[=inchatoshisati+~{'plant':incha}{CL:/'tree':to/}{CL:/'leaf':shi/}{CL:/'provenance':sati/}][NRoot][=amazon.region;| amazon.forest;| amazonian]" : {inchatoshisati} ! @section:noun@ 
 ! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
 ! 
-| "[=inchashi+gndr@n.m.+poss@ri:te.][NRoot][=herb (ES: hierba); shrubs; weeds (ES: maleza); medicinal.plant (ES: planta.curativa)]" : {inchashi}
+| "[=inchashi+~{'plant':incha}{CL:/'leaf':shi/}+gndr@n.m.+poss@ri:te.][NRoot][=herb (ES: hierba); shrubs; weeds (ES: maleza); medicinal.plant (ES: planta.curativa)]" : {inchashi}
 | "[=intxashi][NRoot:CPB][=herb.with.therapeutic.properties; medicinal.plant (ES: planta.curativa)]" : {intxashi}
 ! 
 # ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
