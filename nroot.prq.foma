@@ -503,12 +503,12 @@ define NRootPRQin [
 ! 
 | "[=chiyeri][NRoot][=monkey.sp. (ES: sp.de.mono; sci.nm.: saimiri.sciureus)]" : {chiyeri}
 # ----------------------------------------------------------------
-| "[=choeni+gndr@n.m.][NRoot][=sister (kin.of.a.male, male.ego)]" : {choeni}
-| "[=choini+gndr@n.m.][NRoot][=sister (kin.of.a.male, male.ego)]" : {choini}
+| "[=choeni+gndr@n.m.+kin@male.ego][NRoot][=sister (kin.of.a.male)]" : {choeni}
+| "[=choini+gndr@n.m.+kin@male.ego][NRoot][=sister (kin.of.a.male)]" : {choini}
 ! 
-| "[=chooki+gndr@n.m.+voc.][NRoot][=sister (kin.of.a.male, male.ego)]" : {chooki}
+| "[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (kin.of.a.male)]" : {chooki}
 ! 
-| "[=tyootyo+gndr@n.m.+poss@te:ti.+voc.][NRoot][=sister (kin.of.a.male, male.ego)]" : {tyootyo}
+| "[=tyootyo+gndr@n.m.+poss@te:ti.+voc.+kin@male.ego][NRoot][=sister (kin.of.a.male)]" : {tyootyo}
 # ----------------------------------------------------------------
 ! 
 | "[=chokori][NRoot][=spear-like.instrument (ES: arpón)]" : {chokori}
