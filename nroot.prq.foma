@@ -948,7 +948,7 @@ define NRootPRQin [
 ! 
 | "[=inchakitso+~{'plant':incha}{CL:/'oval-shaped':kitso/}][NRoot][=tree.sp. (ES: moena, sp.de.árbol)]" : {inchakitso} 
 ! 
-| "[=inchapariki][NRoot][=edible.butterfly.larva.sp. (ES: larva.comestible.de.mariposa; sci.nm.: familia.sphingidae)]" : {inchapariki} 
+| "[=inchapariki+~][NRoot][=edible.butterfly.larva.sp. (ES: larva.comestible.de.mariposa; sci.nm.: familia.sphingidae)]" : {inchapariki} 
 ! 
 | "[=inchapataki][NRoot][=spatula; wood.splinter (ES: astilla)]" : {inchapataki} 
 ! 
