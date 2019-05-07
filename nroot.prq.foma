@@ -17,7 +17,8 @@
 # 4: +voc@N., +voc@nposs ?
 #    vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 #    It will be used as follows 1SG:2SG , etc. 
-# 5: +sem@healer.
+# 5: +kin@fem.ego , +kin@male.ego
+# 6: +sem@healer.
 #    group classifiers.
 
 define NRootPRQin [
@@ -126,7 +127,7 @@ define NRootPRQin [
 | "[=ayiini+gndr@n.m.+voc@N.][NRoot][=mother.in.law (ES: suegra)]" : {ayiini} !  
 | "[=ayiro+inal@ntsi.+voc@N:1SG.][NRoot][=mother.in.law (ES: suegra)]" : {ayiro} ! +N +1SG 
 ! 
-| "[=aniyo+gndr@n.m.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {aniyo}
+| "[=aniyo+gndr@n.m.+kin@male.ego][NRoot][=daughter.in.law (kin.of.a.male)]" : {aniyo}
 ! 
 | "[=anatzirori][NRoot][=raw (ES: crudo)]" : {anatzirori}
 ! 
