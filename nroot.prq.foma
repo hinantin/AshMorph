@@ -962,8 +962,8 @@ define NRootPRQin [
 ! 
 | "[=inchatomashi+~{'plant':incha}{CL:/'tree':to/}{CL:/'wide,flat.space':mashi/}][NRoot][=shrub (ES: arbusto)]" : {inchatomashi} 
 ! 
-| "[=inchatonaki][NRoot][=big.traditional.fishing.boat;| plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {inchatonaki} ! @section:noun@ 
-| "[=intxatonaki][NRoot:CPB][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {intxatonaki} 
+| "[=inchatonaki+~{'plant':incha}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot][=big.traditional.fishing.boat;| plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {inchatonaki} ! @section:noun@ 
+| "[=intxatonaki+~{'plant':intxa}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot:CPB][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {intxatonaki} 
 ! 
 | "[=inchatoshi][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
 !| "[=inchatoshisati][NRoot][=amazon.region;| amazon.forest;| amazonian]" : {inchatoshisati} ! @section:noun@ 
