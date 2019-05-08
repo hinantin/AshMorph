@@ -1412,10 +1412,10 @@ define NRootPRQin [
 ! kamanitaantsi / =kam -a -ni -t -antsi / =to.die -ep -? -ep -inf / EN: 'death'  
 | "[=kamanitaantsi+~{'to.die':kam}{EP:a}{UNK:ni}{EP:t}{INF:aantsi}][NRoot][=death (ES: muerte)]" : {kamanitaantsi}
 | "[=kaamanetaantsi+~{'to.die':kaam}{EP:a}{UNK:ne}{EP:t}{INF:aantsi}][NRoot][=death (ES: muerte)]" : {kaamanetaantsi}
-| "[=kamanetaantsi][NRoot][=death (ES: muerte)]" : {kamanetaantsi}
+| "[=kamanetaantsi+~{'to.die':kam}{EP:a}{UNK:ne}{EP:t}{INF:aantsi}][NRoot][=death (ES: muerte)]" : {kamanetaantsi}
 ! 
-| "[=kamanyari][NRoot][=NP, person's.name]" : {kamanyari}
-| "[=kamanyaari][NRoot][=NP, person's.name]" : {kamanyaari}
+| "[=kamanyari/kamañari][NRoot][=NP, person's.name]" : {kamanyari}
+| "[=kamanyaari/kamañaari][NRoot][=NP, person's.name]" : {kamanyaari}
 ! 
 | "[=kamara+sem@color.][NRoot][=cinnamon.color]" : {kamara}
 | "[=kamarari+sem@color.][NRoot][=brown, beige]" : {kamarari}
