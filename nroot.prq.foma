@@ -2892,9 +2892,9 @@ define NRootPRQin [
 | "[=neaperori+gndr@m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {neaperori}
 | "[=neaperoro+gndr@n.m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: viva/aprovechada, sabida; hábil)]" : {neaperoro}
 ! 
-| "[=nyaniyo/ñaniyo][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {nyaniyo}
-| "[=anio+gndr@n.m.+inal@ntsi.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {anio}
-| "[=aniro+gndr@n.m.+inal@ntsi.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {aniro}
+| "[=nyaniyo/ñaniyo+kin@male.ego][NRoot][=daughter.in.law (kin.of.a.male)]" : {nyaniyo}
+| "[=anio+gndr@n.m.+inal@ntsi.+kin@male.ego][NRoot][=daughter.in.law (kin.of.a.male)]" : {anio}
+| "[=aniro+gndr@n.m.+inal@ntsi.+kin@male.ego][NRoot][=daughter.in.law (kin.of.a.male)]" : {aniro}
 | "[=aniryo+gndr@n.m.+voc@1PL.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {aniryo}
 | "[=anirio+gndr@n.m.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {anirio}
 ! 
@@ -5272,7 +5272,7 @@ define NRootPRQin [
 | "[=teapa+gndr@n.m.+poss@te.][NRoot][=hen (ES: gallina)]" : {teapa}
 | "[=txaapa+gndr@n.m.+poss@te.][NRoot:CPB][=hen (ES: gallina; PT: galinha)]" : {txaapa}
 ! rooster 
-| "[=tyoopi+gndr@m.][NRoot][=rooster]" : {tyoopi}
+| "[=tyoopi+gndr@m.][NRoot][=rooster (ES: gallo)]" : {tyoopi}
 | "[=tyopi+gndr@m.][NRoot][=rooster]" : {tyopi}
 | "[=tyoopya+gndr@m.][NRoot][=rooster]" : {tyoopya}
 | "[=tyoopyaa+gndr@m.][NRoot][=rooster]" : {tyoopyaa}
