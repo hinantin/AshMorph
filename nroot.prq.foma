@@ -1489,11 +1489,11 @@ define NRootPRQin [
 | "[=kanire+~kanir{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 ! 
-| "[=kaniriapashaki][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
+| "[=kaniriapashaki+gndr@m.][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
 ! 
 | "[=kaniro+gndr@m.][NRoot][=white-bellied.parrot ([ka.ˈnɪ.ɾə]; ES: lorito.chiricles, papagayo.de.cabeza.negra; sci.nm.: pionites.leucogester)]" : {kaniro}
 ! 
-| "[=kairi+gndr@m.][NRoot][=tree-climbing.animal.sp.similar.in.apperance.to.an.anteater (shivi)]" : {kairi}
+| "[=kairi+gndr@m.][NRoot][=tree-climbing.animal.sp.similar.in.apperance.to.an.anteater (ES: shivi)]" : {kairi}
 ! 
 | "[=kairo+gndr@m.+poss@ti.][NRoot][=termite.sp. (ES: comején)]" : {kairo}
 | "[=kaero+gndr@m.+poss@ti.][NRoot][=termite.sp. (ES: comején)]" : {kaero}
