@@ -5273,9 +5273,9 @@ define NRootPRQin [
 | "[=txaapa+gndr@n.m.+poss@te.][NRoot:CPB][=hen (ES: gallina; PT: galinha)]" : {txaapa}
 ! rooster 
 | "[=tyoopi+gndr@m.+poss@te.][NRoot][=rooster (ES: gallo)]" : {tyoopi}
-| "[=tyopi+gndr@m.+poss@te.][NRoot][=rooster]" : {tyopi}
-| "[=tyoopya+gndr@m.][NRoot][=rooster]" : {tyoopya}
-| "[=tyoopyaa+gndr@m.][NRoot][=rooster]" : {tyoopyaa}
+| "[=tyopi+gndr@m.+poss@te.][NRoot][=rooster (ES: gallo)]" : {tyopi}
+| "[=tyoopya+gndr@m.][NRoot][=rooster (ES: gallo)]" : {tyoopya}
+| "[=tyoopyaa+gndr@m.][NRoot][=rooster (ES: gallo)]" : {tyoopyaa}
 ! chick
 | "[=tyoopiki][NRoot][=chick (ES: pollito)]" : {tyopiki}
 ! 
