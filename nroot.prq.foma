@@ -5318,10 +5318,12 @@ define NRootPRQin [
 ! 
 | "[=tinkotsi+gndr@n.m.][NRoot][=(edible).tuber.sp. (ES: tubérculo.indígena, arrurruz; sci.nm.: maranta.arundinacea)]" : {tinkotsi}
 | "[=tzinkotsi+gndr@n.m.][NRoot][=(edible).tuber.sp. (ES: tubérculo.indígena, arrurruz; sci.nm.: maranta.arundinacea)]" : {tzinkotsi}
+# -------------------------------------------------------------------
 ! pineapple
 | "[=tzivana+gndr@n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]" : {tzivana}
 | "[=tivana+gndr@n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]" : {tivana}
 | "[=tsivana+gndr@n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]" : {tsivana}
+# -------------------------------------------------------------------
 ! salt
 | "[=tzivi+gndr@n.m.+poss@ni:ne.][NRoot][=salt (ES: sal)]" : {tzivi}
 | "[=tsivi/tsiwi+gndr@n.m.+poss@ni.][NRoot:CPB][=salt (ES: sal; PT: o.sal)]" : {tsiwi}
