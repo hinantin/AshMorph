@@ -1343,6 +1343,7 @@ define V=S=DEGREE [
 # osankane / o- =sank -ane / ES: 'su.aroma' 
 # kenkishiriantsi / ES: 'idea' -> ayenkeshiriane / a- =kenkeshiri -ane / ES: 'mente' 
 # noyajemane / noyahemane / no- =kahem -ane / ES: 'grito' 
+# tyantsi -> notyanipaye / no- =ty -ani -paye / EN: 'my.woven.fabric'; ES: 'mis.tejidos' 
 # POSSESSION INDICATOR 
 define V=S=POSSIND [
   "[--][-ane~{INTNS:a}{aln.poss.:ne}][NS][+POSS.IND]" : "@EP"[{ane}]
