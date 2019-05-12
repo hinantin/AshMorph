@@ -5375,10 +5375,11 @@ define NRootPRQin [
 | "[=varipa+gndr@m.][NRoot][=chicken]" : {varipa}
 | "[=varipa+gndr@m.][NRoot][=rooster]" : {varipa}
 ! 
-# ----------------
+# ----------------------------------------------------------------------------
 | "[=vatsa+gndr@n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
 # batsatsinari / vatsatsinari / =vatsa -tsi -nari / =meat -nposs -cl:consumer.of.sth. / EN: 'carnivore'; ES: 'carnívoro' 
 !| "[=vatsatsinari+gndr@m.][NRoot][=carnivore (ES: carnívoro)]" : {vatsatsinari} ! @section:noun@ 
+# ----------------------------------------------------------------------------
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
 ! 
