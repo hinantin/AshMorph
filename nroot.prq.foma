@@ -5347,6 +5347,7 @@ define NRootPRQin [
 # ------------------------------------------------------------------- 
 ! 
 | "[=vaararo+inal@ntsi.][NRoot][=things (ES: cosas); merchandise (ES: mercadería)]" : {vaararo}
+# ------------------------------------------------------------------- 
 ! name
 ! bajirontsi ashaninka / vahirontsi ashaninka /  
 | "[=vairo+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {vairo}
@@ -5355,20 +5356,26 @@ define NRootPRQin [
 | "[=vahiro+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {vahiro}
 | "[=pahiro+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {pahiro}
 | "[=pairo+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {pairo}
+# ------------------------------------------------------------------- 
 ! 
 # antetakiro apite ovaaki / a- N- =te -t -ak -i -ro *** =apite *** o- =vaaki / 1pl.a- irr- =to.take.sth. -ep -prf -irr -3n.m.o *** =two *** 3n.m.poss- =sap  / ES: 'estrujamos.dos.savias.de.esos'  
 # ovaaki tzivi / o- =vaaki *** =tzivi / 3n.m.poss- =sap *** =salt / ES: 'la.savia.de.la.sal'   
 | "[=vaaki+gndr@n.m.+inal@ntsi.][NRoot][=sap (ES: savia); plant.juice (ES: zumo/jugo.de.fruta/planta)]" : {vaaki}
+# ------------------------------------------------------------------- 
 ! 
 | "[=vanki+poss@ri.][NRoot][=seedling]" : {vanki}
+# ------------------------------------------------------------------- 
 ! 
 | "[=vantana][NRoot][=anteater.sp., collared.anteater (ES: oso.hormiguero; sci.nm.: tamandua.tetradactyla)]" : {vantana}
+# ------------------------------------------------------------------- 
 ! 
 | "[=papel/vapee][NRoot][=paper]" : {vapee}
+# ------------------------------------------------------------------- 
 ! 
 # novarite / ES: 'mi.comida'
 | "[=ovarite+gndr@n.m.+inal@ntsi.][NRoot][=food (ES: comida, cena)]" : {ovarite}
 | "[=vari+poss@te.][NRoot][=food]" : {vari}
+# ------------------------------------------------------------------- 
 ! 
 | "[=varipa+gndr@m.][NRoot][=chicken]" : {varipa}
 | "[=varipa+gndr@m.][NRoot][=rooster]" : {varipa}
@@ -5380,6 +5387,7 @@ define NRootPRQin [
 # ----------------------------------------------------------------------------
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
+# ------------------------------------------------------------------- 
 ! 
 | "[=vevito][NRoot][=person's.name]" : {vevito}
 ! 
@@ -5391,6 +5399,7 @@ define NRootPRQin [
 # ----------------------------------------------------------------------------
 ! 
 | "[=virotzi][NRoot][=bright-rumped.attila (sci.nm.: attila.spadiceus)]" : {virotzi}
+# ------------------------------------------------------------------- 
 ! 
 | "[=vishiriantsi][NRoot][=song.sung.by.more.than.one.person]" : {vishiriantsi}
 ! 
