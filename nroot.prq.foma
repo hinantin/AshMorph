@@ -5402,14 +5402,17 @@ define NRootPRQin [
 # ------------------------------------------------------------------- 
 ! 
 | "[=vishiriantsi][NRoot][=song.sung.by.more.than.one.person]" : {vishiriantsi}
+# ------------------------------------------------------------------- 
 ! 
 | "[=viti+gndr@n.m.][NRoot][=outsider]" : {viti} ! inal.???
 | "[=vitzi+gndr@n.m.][NRoot][=outsider]" : {vitzi} ! inal.???
+# ------------------------------------------------------------------- 
 ! 
 # ibiiti / iviiti / i- =viiti / 3m.poss- =hair / EN: 'his.hair', ES: 'su.pelo' 
 | "[=viti+gndr@n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma)]" : {viti} ! N@->V
 | "[=viiti+gndr@n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma)]" : {viiti} 
 | "[=vitzi+gndr@n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma); skin]" : {vitzi} ! N@->V::[VIRVRoot+INF@/EP:t/V.][=to.grow.hair]
+# ------------------------------------------------------------------- 
 ! 
 | "[=viyonkari+inal@ntsi.][NRoot][=spleen (ES: bazo)]" : {viyonkari}
 ! 
