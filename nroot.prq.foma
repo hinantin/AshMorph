@@ -5337,11 +5337,14 @@ define NRootPRQin [
 | "[=tona+gndr@n.m.+inal@tsi.][NRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
 | "[=vontso][NRoot][=snout (ES: hocico)]" : {vontso}
 ! 
+# ------------------------------------------------------------------- 
 | "[=tonche+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tonche}
-| "[=tunche+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunche}
+| "[=tunche+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunche}<e
 | "[=tunchi+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunchi}
+# ------------------------------------------------------------------- 
 ! 
 | "[=paño/paanyo][NRoot][=scarf (ES: paño)]" : {paanyo}
+# ------------------------------------------------------------------- 
 ! 
 | "[=vaararo+inal@ntsi.][NRoot][=things (ES: cosas); merchandise (ES: mercadería)]" : {vaararo}
 ! name
@@ -5356,11 +5359,6 @@ define NRootPRQin [
 # antetakiro apite ovaaki / a- N- =te -t -ak -i -ro *** =apite *** o- =vaaki / 1pl.a- irr- =to.take.sth. -ep -prf -irr -3n.m.o *** =two *** 3n.m.poss- =sap  / ES: 'estrujamos.dos.savias.de.esos'  
 # ovaaki tzivi / o- =vaaki *** =tzivi / 3n.m.poss- =sap *** =salt / ES: 'la.savia.de.la.sal'   
 | "[=vaaki+gndr@n.m.+inal@ntsi.][NRoot][=sap (ES: savia); plant.juice (ES: zumo/jugo.de.fruta/planta)]" : {vaaki}
-! 
-!| "[=garden][=vani][NRoot]" : {vani}
-!| "[=land][=vani][NRoot]" : {vani}
-!| "[=plot.of.land][=vani][NRoot]" : {vani}
-!| "[=plot][=vani][NRoot]" : {vani}
 ! 
 | "[=vanki+poss@ri.][NRoot][=seedling]" : {vanki}
 ! 
