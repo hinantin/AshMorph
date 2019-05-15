@@ -2285,10 +2285,12 @@ define VRootPRQin [
 | "[=otik+INF@aantsi.][VRoot][=to.shake (ES: sacudir)]" : {otik}
 | "[=otek+INF@aantsi.][VRoot][=to.shake (ES: sacudir)]" : {otek}
 ! 
+# ---------------------------------------------------------------- 
 ! there is/are not
 | "[=tekatsi][VRoot][=there.is.not, there.are.not]" : {tekatsi}
 | "[=tekaatsi][VRoot][=there.is.not, there.are.not]" : {tekaatsi}
 | "[=teekatsi][VRoot][=there.is.not, there.are.not]" : {teekatsi}
+# ---------------------------------------------------------------- 
 ! 
 | "[=tena+INF@/EP:t/aantsi.][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {tena}
 | "[=tina+INF@/EP:t/aantsi.][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {tina}
