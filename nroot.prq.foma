@@ -1,4 +1,4 @@
-# -----------------------------------------------
+8*# -----------------------------------------------
 # About "Nominal roots" in the Ashaninka language 
 # -----------------------------------------------
 # Nouns are transnumeral, i.e., (grammar) ambiguous as to whether it refers to one thing (singular) or more than one (dual or plural). 
@@ -1191,6 +1191,8 @@ define NRootPRQin [
 ! 
 | "[=ironyaa][NRoot][=now]" : {ironyaa}
 | "[=ironya][NRoot][=now]" : {ironya}
+! 
+| "[=iryapa+gndr@n.m.][NRoot][=shotgun (ES: escopeta)]" : {iryapa}
 ! 
 | "[=nato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {nato}
 | "[=naato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {naato}
