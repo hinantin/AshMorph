@@ -2313,12 +2313,15 @@ define VRootPRQin [
 ! 
 | "[=tzirik][VRoot][=to.stick (to.push.sth.into.sth.)]" : {tzirik}
 ! 
+# ---------------------------------------------------------------- 
 | "[=tik+INF@aantsi.][VRoot][=to.block, to.obstruct (ES: bloquear, obstruir; atajar, impedir)]" : {tik}
 | "[=tzik+INF@aantsi.][VRoot][=to.block, to.obstruct (ES: bloquear, obstruir; atajar, impedir)]" : {tzik}
 | "[=otzik+INF@aantsi.][VRoot][=to.block, to.obstruct (ES: bloquear, obstruir; atajar, impedir)]" : {otzik}
 ! 
+# ---------------------------------------------------------------- 
 | "[=tonk+INF@aantsi.][VRoot][=to.shoot (ES: balear); to.burst]" : {tonk}
 | "[=toonk+INF@aantsi.][VRoot][=to.shoot (ES: balear); to.burst]" : {toonk}
+# ---------------------------------------------------------------- 
 ! 
 | "[=tonkag][VRoot][=to.climb; to.ascend]" : {tonkag}
 | "[=tonka+INF@/EP:t/VC.][VRoot][=to.ascend]" : {tonka}
