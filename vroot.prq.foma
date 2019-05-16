@@ -2327,12 +2327,15 @@ define VRootPRQin [
 | "[=tonka+INF@/EP:t/VC.][VRoot][=to.ascend]" : {tonka}
 | "[=tonkaa+INF@/EP:t/VC.][VRoot][=to.ascend; (ES: desbordar)]" : {tonkaa}
 ! 
+# ---------------------------------------------------------------- 
 | "[=tononk+INF@(a)antsi.][VRoot][=to.grind.sth. (ES: moler)]" : {tononk}
 | "[=toonk+INF@aantsi.][VRoot][=to.grind.sth. (ES: moler); to.husk.grains.in.a.mortar (ES: pilar, descascarar.los.granos.en.el.pilón)]" : {toonk}
 ! 
+# ---------------------------------------------------------------- 
 # tontaaja / tontaaha / ES: 'espeso' 
 | "[=tonta][VRoot][=to.be.thick (ES: ser.grueso/espeso)]" : {tonta}
 ! 
+# ---------------------------------------------------------------- 
 | "[=tot+INF@aantsi.][VRoot][=to.cut (ES: cortar)]" : {tot}
 | "[=to+INF@/EP:t/aantsi.][VRoot][=to.cut (ES: cortar)]" : {to}
 | "[=tov+INF@aantsi.][VRoot][=to.fell, to.cut.down (a.tree; ES: tumbar.(un.árbol))]" : {tov}
@@ -2345,8 +2348,9 @@ define VRootPRQin [
 !###| "[o-][VPers][3n.m.S/A+][--][=to+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {ototo} ! @REDUP 
 #@TOTREDUPCLASS03| "[=to+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {to} ! otooto 
 ! 
+# ---------------------------------------------------------------- 
 ! toye ... / =to -ye ... / =to.cut -dist ... / EN: 'to.dismember'; ES: 'descuartizar'
-| "[=toye+INF@/EP:t/VC.][VRoot][=to.dismember (ES: descuartizar)]" : {toye}
+| "[=toye+~{'to.cut':to}{DIST:ye}+INF@/EP:t/VC.][VRoot][=to.dismember (ES: descuartizar)]" : {toye}
 ! 
 | "[=tsaamen+INF@/EP:t/aantsi.][VRoot][=to.be.alive (ES: estar.vivo)]" : {tsaamen}
 | "[=tsaamin+INF@/EP:t/aantsi.][VRoot][=to.be.alive (ES: estar.vivo)]" : {tsaamin}
