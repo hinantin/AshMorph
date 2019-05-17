@@ -1193,6 +1193,7 @@ define NRootPRQin [
 | "[=ironya][NRoot][=now]" : {ironya}
 ! 
 | "[=iryapa+gndr@n.m.][NRoot][=shotgun (ES: escopeta)]" : {iryapa}
+#| "[=tonkamento+gndr@n.m.+inal@tsi.][NRoot][=shotgun (ES: escopeta)]" : {tonkamento}
 ! 
 | "[=nato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {nato}
 | "[=naato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {naato}
@@ -1255,14 +1256,18 @@ define NRootPRQin [
 | "[=savaro+gndr@m.+poss@te.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {savaro}
 | "[=saavaro+gndr@m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {saavaro}
 | "[=havavo+gndr@m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {havavo}
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=save+gndr@m.][NRoot][=turtle.sp.]" : {save}
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=saventaki][NRoot][=tree.sp. (ES: cedro; sci.nm.: cedrela.odorata)]" : {saventaki}
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=savoo+gndr@n.m.][NRoot][=(wild).giant.cane (ES: caña.brava)]" : {savoo}
 | "[=havoo+gndr@n.m.][NRoot][=(wild).giant.cane (ES: caña.brava)]" : {havoo}
 | "[=savoro+gndr@n.m.][NRoot][=(wild).giant.cane (ES: caña.brava, carrizo)]" : {savoro}
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=iteki][NRoot][=wasp.honeycomb (ES: panal)]" : {iteki}
 ! 
