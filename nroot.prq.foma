@@ -1274,16 +1274,20 @@ define NRootPRQin [
 ! 
 | "[=itenka][NRoot][=pus (ES: pus, secreción.(purulenta))]" : {itenka} ! pitenka
 | "[=itehare][NRoot][=pus (ES: pus, secreción.(purulenta))]" : {itehare} ! noitejare
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=ito+gndr@n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)]" : {ito}
 | "[=iito+gndr@n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)]" : {iito}
 | "[=kito+inal@tsi.][NRoot][=head (ES: cabeza)]" : {kito}
 | "[=hito+inal@tsi.][NRoot][=head (ES: cabeza)]" : {hito}
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=tepo+gndr@n.m.+inal@tsi.][NRoot][=hoop, ring (ES: aro)]" : {tepo}
 | "[=tipo+gndr@n.m.+inal@tsi.][NRoot][=hoop, ring (ES: aro)]" : {tipo}
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=titiro][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodus.ornatus,, pimelodidae, rhamdia.sp.)]" : {titiro}
+# -------------------------------------------------------------------------------------------------
 ! 
 | "[=tevaa+gndr@n.m.+inal@ntsi.][NRoot][=branch (ES: rama)]" : {tevaa}
 | "[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)]" : {oteva} ! N@->V 
