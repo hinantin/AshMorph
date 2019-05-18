@@ -148,10 +148,13 @@ define NRootPRQin [
 # ---------------------------------------------------------------  
 ! 
 | "[=ariti+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudopimelodus.sp.)]" : {ariti} 
+# ---------------------------------------------------------------  
 ! 
 | "[=arroz/aroso+gndr@n.m.][NRoot][=rice (ES: arroz)]" : {aroso} 
+# ---------------------------------------------------------------  
 ! 
 | "[=aavo][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: egretta.thula)]" : {aavo} 
+# ---------------------------------------------------------------  
 ! 
 # atyo / ES: 'cuñada.(habla.de.mujer)' 
 | "[=atyo+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego; ES: cuñada)]" : {atyo} 
@@ -162,6 +165,7 @@ define NRootPRQin [
 | "[=ayini+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayini} 
 | "[=ayiini+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayiini} 
 | "[=natoto+voc@1SG:2SG:3SG.][NRoot][=sister.in.law (kin.of.a.female)]" : {natoto}
+# ---------------------------------------------------------------  
 ! 
 | "[=ayoori+gndr@m.][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayoori} 
 | "[=ayori+gndr@m.][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayori} 
