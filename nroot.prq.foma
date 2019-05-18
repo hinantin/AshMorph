@@ -191,15 +191,16 @@ define NRootPRQin [
 ! 
 | "[=akopero][NRoot][=wrist (ES: mano.derecha)]" : {akopero}
 ! 
-| "[=akori+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akori}
-| "[=akoritsa+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akoritsa}
-! 
 | "[=akosampi+gndr@n.m.+inal@ntsi.][NRoot][= (ES: brazo)]" : {akosampi}
 ! 
 | "[=akosanori][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akosanori}
 | "[=akopero+inal@n/tsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopero}
 | "[=akoperori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akoperori}
 | "[=akopirori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopirori}
+# ---------------------------------------------------------------  
+! 
+| "[=akori+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akori}
+| "[=akoritsa+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akoritsa}
 ! 
 | "[=amarani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amarani}
 | "[=amaani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
