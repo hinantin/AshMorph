@@ -201,15 +201,19 @@ define NRootPRQin [
 ! 
 | "[=akori+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akori}
 | "[=akoritsa+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akoritsa}
+# ---------------------------------------------------------------  
 ! 
 | "[=amarani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amarani}
 | "[=amaani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=amani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=amara][NRoot][=increase (ES: creciente.de.río)]" : {amara}
+# ---------------------------------------------------------------  
 ! 
 | "[=amaako+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {amaako}
+# ---------------------------------------------------------------  
 ! anaconda
 | "[=amaaro][NRoot][=anaconda, snake (ES: anaconda; QU: amaru)]" : {amaaro}
+# ---------------------------------------------------------------  
 ! 
 | "[=amatsaere+gndr@n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsaere}
 | "[=amatsaire+gndr@n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsaire}
@@ -217,33 +221,42 @@ define NRootPRQin [
 | "[=amatseere+gndr@n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatseere}
 | "[=amatsere+gndr@n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsere}
 | "[=amantsairi+inal@ntsi.][NRoot][=crown; hat (ES: corona.(de.hombres), sobrero)]" : {amantsairi}
+# ---------------------------------------------------------------  
 !
 | "[=amempori+gndr@m.][NRoot][=vulture (ES: buitre); condor; king.vulture (sarcoramphus.papa)]" : {amempori}
 | "[=amimpori+gndr@m.][NRoot][=vulture (ES: buitre); condor; king.vulture (sarcoramphus.papa)]" : {amimpori}
+# ---------------------------------------------------------------  
 ! 
 | "[=ameeni+gndr@n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]" : {ameeni}
 | "[=amiini+gndr@n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]" : {amiini}
 | "[=amini+gndr@n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]" : {amini}
+# ---------------------------------------------------------------  
 ! 
 | "[=ameti][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.elateridae)]" : {ameti}
+# ---------------------------------------------------------------  
 ! 
 | "[=amimiro][NRoot][=mule-like.devil (ES: diablo.según.los.asháninkas)]" : {amimiro}
 | "[=amimiroti][NRoot][=goat-like.devil]" : {amimiroti}
+# ---------------------------------------------------------------  
 ! 
 # nanani / n- =ana -ni / 1sg.poss- =black.dye -nposs / EN: 'my.black.dye'  
 | "[=ana+gndr@n.m.+poss@ni.][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {ana}
 | "[=aana+gndr@n.m.+poss@ni.][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {aana}
+# ---------------------------------------------------------------  
 ! 
 | "[=ananta+gndr@n.m.+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
+# ---------------------------------------------------------------  
 ! 
 | "[=ani+gndr@m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male; ES: cuñado)]" : {ani}
 | "[=anii+gndr@m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
 | "[=aninko+gndr@m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aninko} ! to be checked 
 | "[=aniinko+gndr@m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aniinko} ! to be checked 
+# ---------------------------------------------------------------  
 ! 
 # ampatsaantsi / =ampatsaa -ntsi / =praise -nposs / EN: 'praise', ES: 'alabanza' 
 | "[=ampatsa+inal@ntsi.+poss@ne.][NRoot][=dance.sing; praise (ES: alabanza)]" : {ampatsa}
 | "[=ampatsaa+inal@ntsi.+poss@ne.][NRoot][=dance.sing; praise (ES: alabanza)]" : {ampatsaa}
+# ---------------------------------------------------------------  
 ! 
 | "[=aampe+gndr@m.][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {aampe}
 | "[=tsaampe+gndr@m.][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {tsaampe}
