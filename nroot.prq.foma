@@ -317,19 +317,25 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 | "[=apeti][NRoot][=person's.name, NP]" : {apeti}
+# ------------------------------------------------------------------
 ! 
 | "[=apiinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]" : {apiinka}
 | "[=apinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]" : {apinka}
+# ------------------------------------------------------------------
 ! 
 | "[=apontsiki][NRoot][=dwarf-like.demonic.divinity; NP, person's.name]" : {apontsiki}
+# ------------------------------------------------------------------
 ! 
 | "[=aporivatsa][NRoot][=thigh]" : {aporivatsa}
+# ------------------------------------------------------------------
 ! 
 | "[=asana+gndr@m.][NRoot][=fish.sp. ([a.ˈsa.na]; ES: añashua; sci.nm.: crenicichla.sp.)]" : {asana}
 | "[=ahana+gndr@m.][NRoot][=fish.sp. (ES: añashua; sci.nm.: crenicichla.sp.)]" : {ahana}
 | "[=sosana+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: crenicichla.sp.)]" : {sosana}
+# ------------------------------------------------------------------
 ! 
 | "[=ashonki][NRoot][=ankle]" : {ashonki}
+# ------------------------------------------------------------------
 ! 
 | "[=ashoshi+gndr@m.][NRoot][=armadillo; NP, person's.name]" : {ashoshi}
 | "[=ashooshi+gndr@m.][NRoot][=armadillo]" : {ashooshi}
