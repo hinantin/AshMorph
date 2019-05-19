@@ -359,20 +359,27 @@ define NRootPRQin [
 | "[=ao+gndr@n.m.+inal@tsi.][NRoot][=road, trail]" : {ao}
 | "[=aa+gndr@n.m.+inal@tsi.][NRoot][=road, trail]" : {aa}
 | "[=avotsi+gndr@n.m.+poss@te:ti.][NRoot][=road (ES: camino, trocha)]" : {avotsi} ! \cite[p\'{a}g. 67]{payne:lecciones:89} 
+# ------------------------------------------------------------------
 ! 
 | "[=avesari+gndr@m.][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña; PT: piranha)]" : {avesari}
 | "[=avisari+gndr@m.][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña; PT: piranha)]" : {avisari}
+# ------------------------------------------------------------------
 ! 
 | "[=avireri][NRoot][=name.of.a_mythical_hero, person's.name]" : {avireri}
+# ------------------------------------------------------------------
 ! 
 | "[=avo+gndr@m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao, atatao)]" : {avo}
 | "[=aro+gndr@m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao, atatao)]" : {aro}
+# ------------------------------------------------------------------
 ! 
 | "[=chaari][NRoot][=dark.water]" : {chaari}
+# ------------------------------------------------------------------
 ! 
-| "[=charo][NRoot][=cricket.sp. (ES: grillo; sci.nm.: familia.gryllotalpidae)]" : {charo}
+| "[=charo+gndr@m.][NRoot][=cricket.sp. (ES: grillo; sci.nm.: familia.gryllotalpidae)]" : {charo}
+# ------------------------------------------------------------------
 ! 
 | "[=chaari][NRoot][=violaceous.jay (sci.nm.: cyanocorax.violaceus)]" : {chaari}
+# ------------------------------------------------------------------
 ! 
 | "[=chakaityory+gndr@m.][NRoot][=red-capped.cardinal (sci.nm.: paroaria.gularis)]" : {chakaityory}
 ! 
