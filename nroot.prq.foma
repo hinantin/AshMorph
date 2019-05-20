@@ -472,6 +472,7 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 | "[=chekito+gndr@m.][NRoot][=frog.sp., small.toad.sp. (ES: rana)]" : {chekito}
+# ------------------------------------------------------------------
 ! 
 | "[=chekopi+gndr@n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha);| small.cane (ES: cañabrava.pequeña);| cane.for.arrows (ES: caña.para.flechas)]" : {chekopi} ! @section:noun@ 
 | "[=chikopi+gndr@n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)]" : {chikopi}
@@ -480,89 +481,118 @@ define NRootPRQin [
 ! 
 # el escarabajo 'chakopitaki' se impulsa a sí mismo dando saltos, y se desarrolla en la palmera tsiyaro.
 | "[=chakopitaki+gndr@m.][NRoot][=greenish.beetle.sp. (ES: sp.de.escarabajo.de.color.verdoso; sci.nm.: género.chalcolepidius))]" : {chakopitaki}
+# ------------------------------------------------------------------
 ! 
 | "[=cheero+gndr@m.][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {cheero}
 | "[=tseero+gndr@m.][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {tseero}
+# ------------------------------------------------------------------
 ! 
 | "[=chivani+gndr@m.][NRoot][=cuckoo.sp. (ES: cuco; sci.nm.: piaya.cayana, piaya.minuta)]" : {chivani}
+# ------------------------------------------------------------------
 ! 
 | "[=chivini+gndr@m.][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: tigrisoma.fasciatum)]" : {chivini}
+# ------------------------------------------------------------------
 ! 
 | "[=chamairo+gndr@n.m.][NRoot][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {chamairo}
 | "[=txaamayro+gndr@n.m.][NRoot:CPB][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {txaamayro}
 | "[=txamayro+gndr@n.m.][NRoot:CPB][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca)]" : {txamayro}
+# ------------------------------------------------------------------
 ! 
 | "[=chapinki][NRoot][=the.other.day; yesterday (ES: ayer)]" : {chapinki}
+# ------------------------------------------------------------------
 ! 
 | "[=chapiti+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca)]" : {chapiti}
 | "[=chapitzi+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca)]" : {chapitzi}
+# ------------------------------------------------------------------
 ! 
 | "[=charava+gndr@m.][NRoot][=fish.sp. (ES: súngaro, pez.saltón); gilded.catfish.sp.; zungaro-fish (ES: súngaro)]" : {charava}
 | "[=charaava+gndr@m.][NRoot][=fish.sp. (ES: súngaro, pez.saltón); gilded.catfish.sp.; zungaro-fish (ES: súngaro)]" : {charaava}
+# ------------------------------------------------------------------
 ! 
 | "[=charavapana][NRoot][=otter.sp. (ES: nutria; sci.nm.: lontra.longicaudis)]" : {charavapana}
+# ------------------------------------------------------------------
 ! 
 | "[=chareto][NRoot][=NP; person's.name]" : {chareto}
+# ------------------------------------------------------------------
 ! 
 ! grandpa, grandfather, grandparents
 | "[=charine+gndr@m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]" : {charine} ! N@->V
 | "[=chaine+gndr@m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {chaine} ! N@->V
 | "[=charini+gndr@m.+poss@te.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {charini} ! N@->V ! is te as a possessive correct ????
+# ------------------------------------------------------------------
 ! 
 | "[=chariha][NRoot][=cast_net (ES: atarraya, red), throw_net, circular.net.with.small.weights.distributed.around.its.edge (ES: tarrafa)]" : {chariha}
 | "[=kitsari][NRoot][=cast_net (ES: atarraya, red), throw_net, circular.net.with.small.weights.distributed.around.its.edge (ES: tarrafa)]" : {kitsari}
+# ------------------------------------------------------------------
 ! 
 | "[=chariro][NRoot][=(ES: familia.de.las.papas; sci.nm.: solanáceas)]" : {chariro}
 | "[=chariroshi][NRoot][=(ES: familia.de.las.papas; sci.nm.: solanáceas)]" : {chariroshi}
+# ------------------------------------------------------------------
 ! 
 | "[=chenkaro+gndr@m.][NRoot][=black-and-white.bird.sp.]" : {chenkaro}
 | "[=chenkaro+gndr@n.m.][NRoot][=Naviviri's.sister]" : {chenkaro}
+# ------------------------------------------------------------------
 ! trousers, pants
 | "[=chenko+gndr@n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {chenko} ! N@->V::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)] 
 | "[=tsenko+gndr@n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]" : {tsenko} ! N@->V::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)] 
+# ------------------------------------------------------------------
 ! 
 | "[=chenkori+gndr@m.][NRoot][=fish.sp., huasaco-fish (huasaca, huasaco, pescado.perro; sci.nm.: hoplias.malabaricus)]" : {chenkori} 
 | "[=tsenkori+gndr@m.][NRoot][=fish.sp., huasaco-fish (huasaca, huasaco, pescado.perro)]" : {tsenkori} 
+# ------------------------------------------------------------------
 ! 
 | "[=chenko+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sachaponilla, sp.de.palmera)]" : {chenko} 
 | "[=chenkoo+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sachaponilla, sp.de.palmera)]" : {chenkoo} 
 | "[=chinkoo+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sachaponilla, sp.de.palmera)]" : {chinkoo} 
+# ------------------------------------------------------------------
 ! 
 | "[=chentero+gndr@n.m.][NRoot][=palm.tree.sp. (ES: ponilla, sp.de.palmera)]" : {chentero}
+# ------------------------------------------------------------------
 ! 
 | "[=chentekitzi+gndr@m.][NRoot][=cricket.sp. (ES: sp.de.grillo)]" : {chentekitzi}
 | "[=chintikitzi+gndr@m.][NRoot][=cricket.sp. (ES: sp.de.grillo)]" : {chintikitzi}
+# ------------------------------------------------------------------
 ! 
 | "[=chera+gndr@n.m.+inal@tsi.][NRoot][=lip, thick.lip (ES: labio)]" : {chera}
 | "[=chira+gndr@n.m.+inal@tsi.][NRoot][=lip, thick.lip (ES: labio)]" : {chira}
 | "[=tsera+gndr@n.m.+inal@tsi.][NRoot][=lip, thick.lip (ES: labio)]" : {tsera}
+# ------------------------------------------------------------------
 ! 
 | "[=cherepito+gndr@m.][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {cherepito}
 | "[=tserepito+gndr@m.][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {tserepito}
 | "[=cherivito+gndr@m.][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {cherivito}
 | "[=chirivito+gndr@m.][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]" : {chirivito}
+# ------------------------------------------------------------------
 ! 
 | "[=cheroki][NRoot][=rusty.faced.parrot (sci.nm.: hepalopsittece.amazonina)]" : {cheroki}
+# ------------------------------------------------------------------
 ! 
 | "[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]" : {chetaki} ! N@->V::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]
+# ------------------------------------------------------------------
 ! 
 # ochevaa / o- =chevaa / EN: 'river's.branch, distributary'; ES: 'isla; distributario, defluente'  
 # ocheva / o- =cheva / EN: 'river's.branch, distributary'; ES: 'isla; distributario, defluente'  
 | "[=cheva][NRoot][=(river's).branch, distributary (ES: brazo.de.río, defluente)]" : {cheva}
 | "[=chevaa][NRoot][=(river's).branch, distributary (ES: brazo.de.río, defluente)]" : {chevaa}
 | "[=chiva][NRoot][=(river's).branch, distributary (ES: brazo.de.río, defluente)]" : {chiva}
+# ------------------------------------------------------------------
 ! 
 | "[=cheviro+gndr@m.][NRoot][=fish.sp. (ES: macana, porra)]" : {cheviro}
 | "[=chiviro+gndr@m.][NRoot][=fish.sp. (ES: macana, porra)]" : {chiviro}
+# ------------------------------------------------------------------
 ! 
 | "[=chevo+inal@tsi.][NRoot][=branch]" : {chevo}
+# ------------------------------------------------------------------
 ! 
 | "[=chienchetaki][NRoot][=beetle.sp. (ES: sp.de.escarabajo; sci.nm.: acrocinus.longimanus)]" : {chienchetaki}
+# ------------------------------------------------------------------
 ! 
 | "[=chikonti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero; sci.nm.: dryocopus.lineatus)]" : {chikonti}
+# ------------------------------------------------------------------
 ! 
 # 
 | "[=chirompe][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: )]" : {chirompe}
+# ------------------------------------------------------------------
 ! 
 | "[=chiroti][NRoot][=small.yellow-with-black.bird.sp. (ES: paucarcillo; sci.nm.: cacicus.leucoramphus, cacicus.c.cela)]" : {chiroti}
 | "[=chiroti][NRoot][=fish.sp. (ES: pez; sci.nm.: leporinus.arcus)]" : {chiroti}
