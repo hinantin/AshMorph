@@ -423,11 +423,14 @@ define NRootPRQin [
 | "[=chevo+inal@tsi.][NRoot][=tree's.branch]" : {chevo}  
 # ------------------------------------------------------------------
 ! 
-| "[=chavari][NRoot][=person's.name, NP]" : {chavari}  
+| "[=chavari][NRoot][=person's.name, NP]" : {chavari}
+# ------------------------------------------------------------------  
 ! 
 | "[=chaverenchakiti][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: osteocephalus.leprieurii)]" : {chaverenchakiti}
+# ------------------------------------------------------------------
 ! 
 | "[=chavo+gndr@m.][NRoot][=bird.sp., crax.sp. (ES: shansho, hoazín)]" : {chavo}
+# ------------------------------------------------------------------
 ! 
 | "[=che+gndr@m.+inal@tsi.][NRoot][=horn (ES: cuerno); thorn, spiny.thorn]" : {che}
 | "[=chee+gndr@m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]" : {chee} ! @VCMP N@->V::[=to.have.a_horn/horns]
@@ -437,28 +440,36 @@ define NRootPRQin [
 ! 
 | "[=tseki+inal@tsi.][NRoot][=needle/thorn.tip (ES: punta.de.aguja/espina)]" : {tseki}
 | "[=tseeki+inal@tsi.][NRoot][=needle/thorn.tip (ES: punta.de.aguja/espina)]" : {tseeki}
+# ------------------------------------------------------------------
 ! 
 | "[=tsekito+gndr@m.][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {tsekito}
 | "[=sekito+gndr@m.][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {sekito}
+# ------------------------------------------------------------------
 ! 
 | "[=tseeri][NRoot][=small.snail.sp. (ES: sp.de.caracol.pequeño)]" : {tseeri}
+# ------------------------------------------------------------------
 ! 
 | "[=tsetanti+gndr@m.][NRoot][=bird.sp., crax.sp. (ES: ; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini, género.partamona.sp., grupo.cupira)]" : {tsetanti}
+# ------------------------------------------------------------------
 ! 
 | "[=tseviro+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: rhamphichtys.rostratus)]" : {tseviro}
+# ------------------------------------------------------------------
 ! 
 | "[=cheenkari+gndr@m.][NRoot][=venomous.snake.sp. (ES: jergón, sp.de.culebra.venenosa)]" : {cheenkari}
 | "[=chiinkari+gndr@m.][NRoot][=venomous.snake.sp. (ES: jergón, sp.de.culebra.venenosa)]" : {chiinkari}
+# ------------------------------------------------------------------
 ! 
 | "[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {cheenkari}
 | "[=chiinkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {chiinkari}
 | "[=chenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {chenkari}
 | "[=cheenkaro+sem@color.][NRoot][=black (ES: negra)]" : {cheenkaro}
 | "[=cheenkavo+sem@color.][NRoot][=black (ES: negra)]" : {cheenkavo}
+# ------------------------------------------------------------------
 ! 
 | "[=cheenti+gndr@m.][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {cheenti}
 | "[=cheentzi+gndr@m.][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {cheentzi}
 | "[=chiintzi+gndr@m.][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {chiintzi}
+# ------------------------------------------------------------------
 ! 
 | "[=chekito+gndr@m.][NRoot][=frog.sp., small.toad.sp. (ES: rana)]" : {chekito}
 ! 
