@@ -595,22 +595,30 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 | "[=chiroti][NRoot][=small.yellow-with-black.bird.sp. (ES: paucarcillo; sci.nm.: cacicus.leucoramphus, cacicus.c.cela)]" : {chiroti}
+# ------------------------------------------------------------------
 | "[=chiroti][NRoot][=fish.sp. (ES: pez; sci.nm.: leporinus.arcus)]" : {chiroti}
+# ------------------------------------------------------------------
 ! 
 | "[=chioni][NRoot][=guan.sp. (ES: chachalaca; sci.nm.: aburria.aburri)]" : {chioni}
+# ------------------------------------------------------------------
 ! 
 | "[=chiovante][NRoot][=mouse.opossum (ES: laucha; sci.nm.: marmosa.murina)]" : {chiovante}
+# ------------------------------------------------------------------
 ! 
 | "[=chiovero][NRoot][=tinamou.sp. (sci.nm.: crypturellus.obsoletus)]" : {chiovero}
+# ------------------------------------------------------------------
 ! 
 | "[=chito][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {chito} 
+# ------------------------------------------------------------------
 ! 
 | "[=chiyeri][NRoot][=monkey.sp. (ES: sp.de.mono; sci.nm.: saimiri.sciureus)]" : {chiyeri}
 # ----------------------------------------------------------------
 | "[=choeni+gndr@n.m.+kin@male.ego][NRoot][=sister (kin.of.a.male)]" : {choeni}
 | "[=choini+gndr@n.m.+kin@male.ego][NRoot][=sister (kin.of.a.male)]" : {choini}
+# ------------------------------------------------------------------
 ! 
 | "[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (kin.of.a.male)]" : {chooki}
+# ------------------------------------------------------------------
 ! 
 | "[=tyootyo+gndr@n.m.+poss@te:ti.+voc.+kin@male.ego][NRoot][=sister (kin.of.a.male)]" : {tyootyo}
 # ----------------------------------------------------------------
