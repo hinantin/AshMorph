@@ -1158,6 +1158,7 @@ define NRootPRQin [
 # kaarainari / =kaara =ina -ri / =empty =sphere -nmz / EN: 'bald'; ES: 'calvo' 
 | "[=ina][NRoot][=sphere; spherical]" : {ina} !@CMP
 | "[=moko][NRoot][=sphere; spherical]" : {moko}
+# ---------------------------------------------------------------------
 ! 
 | "[=incha][NRoot][=plant]" : {incha}
 | "[=inchaa][NRoot][=plant]" : {inchaa}
@@ -1188,6 +1189,7 @@ define NRootPRQin [
 ! 
 | "[=inchatoshi+~{'plant':incha}{CL:/'tree':to/}{CL:/'leaf':shi/}][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
 !| "[=inchatoshisati+~{'plant':incha}{CL:/'tree':to/}{CL:/'leaf':shi/}{CL:/'provenance':sati/}][NRoot][=amazon.region;| amazon.forest;| amazonian]" : {inchatoshisati} ! @section:noun@ 
+# ---------------------------------------------------------------------
 ! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
 ! 
