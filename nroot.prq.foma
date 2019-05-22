@@ -1059,16 +1059,19 @@ define NRootPRQin [
 ! 
 | "[=himee+gndr@m.+inal@n/tsi.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {himee}
 | "[=hime+gndr@m.+inal@n/tsi.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {hime}
+# ------------------------------------------------------------------
 ! 
 # these.cause.a.violent.rash.on.the.body 
 | "[=hini][NRoot][=microscopic.insects]" : {hini} 
 | "[=hiniki][NRoot][=louse]" : {hiniki} 
+# ------------------------------------------------------------------
 ! 
 | "[=hinya+gndr@n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hinya}
 | "[=hinyaa+gndr@n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hinyaa}
 | "[=hiaa+gndr@n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hiaa}
 | "[=inyaa+gndr@n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {inyaa}
 !| "[=inyaaveri+gndr@m.][NRoot][=aquatic;| aquatic.being (ES: ser.de.los.mares)]" : {inyaaveri} ! @section:noun@ 
+# ------------------------------------------------------------------
 ! 
 | "[=hiva+gndr@n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {hiva}
 | "[=heva+gndr@n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {heva}
@@ -1077,9 +1080,11 @@ define NRootPRQin [
 | "[=eevavo+gndr@n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {eevavo}
 | "[=iivavo+gndr@n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {iivavo}
 | "[=hevare+gndr@m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {hevare}
+# ------------------------------------------------------------------
 ! 
 | "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 | "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
+# ------------------------------------------------------------------
 ! 
 | "[=ime+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {ime}
 | "[=iime+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {iime}
@@ -1087,36 +1092,44 @@ define NRootPRQin [
 | "[=iimi+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {iimi}
 | "[=emi+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {emi}
 | "[=eme+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {eme}
+# ------------------------------------------------------------------
 ! 
 | "[=imooshi][NRoot][=spider's.web (ES: tela.de.araña; PT: teia.de.aranha)]" : {imooshi}
 | "[=imoshi][NRoot][=spider's.web (ES: tela.de.araña; PT: teia.de.aranha)]" : {imoshi}
+# ------------------------------------------------------------------
 ! 
 | "[=iipatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {iipatsa}
 | "[=inapatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {inapatsa}
 | "[=iinapatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {iinapatsa}
+# ------------------------------------------------------------------
 ! 
 | "[=heto+gndr@m.][NRoot][=spider (ES: araña)]" : {heto}
 | "[=hetoo+gndr@m.][NRoot][=spider (ES: araña)]" : {hetoo}
 | "[=hito+gndr@m.][NRoot][=spider (ES: araña)]" : {hito}
+# ------------------------------------------------------------------
 ! 
 | "[=hiritzi+gndr@m.][NRoot][=blue-crowned.motmot (sci.nm.: momotus.momota; ES: pájaro.madrugador)]" : {hiritzi}
 | "[=hiriti+gndr@m.][NRoot][=blue-crowned.motmot (sci.nm.: momotus.momota, ES: ave.de.monte, pájaro.madrugador)]" : {hiriti}
+# ------------------------------------------------------------------
 ! 
 | "[=hirivatziki+gndr@n.m.][NRoot][=hardwood.tree.sp. (ES: estoraque, estoraqui)]" : {hirivatziki} ! @section:noun@ 
+# ------------------------------------------------------------------
 ! 
 # hetari: suckermouth.catfish 
 | "[=hetari+gndr@m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hetari}
 | "[=hitari+gndr@m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hitari}
 !| "[=hevari_kitetakiri+gndr@m.][NRoot][=armored.catfish.sp. (sci.nm.: chaetostoma.sp.,chaetostoma.lineopunctatum)]" : {hevari_kitetakiri} ! @section:noun@
 !| "[=hevari_tsekinti+gndr@m.][NRoot][=armored.catfish.sp. (sci.nm.: ancistrus.sp.)]" : {hevari_tsekinti} ! @section:noun@  
+# ------------------------------------------------------------------
 ! 
 | "[=hevari][NRoot][=local.leader/chief]" : {hevari}
+# ------------------------------------------------------------------
 ! 
 | "[=iNpaniki+gndr@n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena); sandy.area (ES: arenal, playa)]" : {impaniki}
 | "[=iNpaneki+gndr@n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena); sandy.area (ES: arenal, playa)]" : {impaneki}
 | "[=iNpanaki+gndr@n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena); sandy.area (ES: arenal, playa)]" : {impanaki}
-! 
 # -----------------------------------------------
+! 
 | "[=iNpeeta+gndr@n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel.rocoso); crag; ravine (ES: barranco)]" : {impeeta}
 | "[=iNpeta+gndr@n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel.rocoso); crag; ravine (ES: barranco)]" : {impeta}
 | "[=iNperita+gndr@n.m.][NRoot][=rock (ES: roca); cave; crag]" : {imperita}
@@ -1137,8 +1150,8 @@ define NRootPRQin [
 ! 1st, 2nd, 3rd person 
 | "[=niro+gndr@n.m.][NRoot][=mother (kin.of.a.fe/male)]" : {niro}
 | "[=nyiiro+gndr@n.m.][NRoot][=mother (kin.of.a.fe/male)]" : {nyiiro}
-# ---------------------------------------------------------------------
-# Vocative form; 1st, 2nd, 3rd person  
+! 
+! Vocative form; 1st, 2nd, 3rd person  
 | "[=hina+gndr@n.m.+inal@n/tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]" : {hina}
 # ---------------------------------------------------------------------
 ! 
