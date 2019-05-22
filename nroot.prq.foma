@@ -827,6 +827,7 @@ define NRootPRQin [
 | "[=iinyeeni/iiñeeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male)]" : {iinyeeni}
 | "[=inyeni/iñeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeni}
 | "[=inyeeni/iñeeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeeni}
+# ------------------------------------------------------------------
 ! 
 | "[=ehoki][NRoot][=fly.sp. (ES: mosquito.sp., manta.blanca)]" : {ehoki}
 ! 
@@ -844,32 +845,41 @@ define NRootPRQin [
 # el escarabajo 'emotake' de color negro brillante con una larga trompa en la parte frontal, 
 # que se desarrolla en la palmera tsiyaro
 | "[=emotake][NRoot][=beetle.sp. (ES: escarabajo; sci.nm.: rhynchophorus.palmarum)]" : {emotake}
+# ------------------------------------------------------------------
 ! 
 | "[=Eni][NP][=river (Ene.river)]" : {eni}
 | "[=Ene][NP][=river (Ene.river)]" : {ene}
+# ------------------------------------------------------------------
 ! 
 | "[=erama+gndr@m.][NRoot][=2-3cm-size.yellow-bellied.black.worm.sp.]" : {erama}
 | "[=erama+gndr@m.][NRoot][=edible.butterfly.larva.sp. (ES: larva.comestible.de.mariposa; sci.nm.: familia.notodontidae)]" : {erama} 
+# ------------------------------------------------------------------
 ! 
 | "[=ereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {ereki}
 | "[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {eereki}
 | "[=iiriki+poss@ti.][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {iiriki}
+# ------------------------------------------------------------------
 ! 
 | "[=eereshi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new/green.leaf (ES: hoja.nueva; PT: folha.nova/verde)]" : {eereshi}
 | "[=iirishi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new/green.leaf (ES: hoja.nueva; PT: folha.nova/verde)]" : {iirishi}
+# ------------------------------------------------------------------
 ! 
 | "[=Eroshi][NRoot][=person's.name]" : {eroshi}
+# ------------------------------------------------------------------
 ! 
 | "[=eroti+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {eroti}
 | "[=erooti+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.ochrocephala)]" : {erooti}
 | "[=erotsi+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {erotsi}
 | "[=erotzi+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {erotzi}
 | "[=irotzi+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {irotzi}
+# ------------------------------------------------------------------
 ! 
 | "[=eshikempitari][NRoot][=deaf (ES: sordo); disobedient (ES: desobediente)]" : {eshikempitari}
+# ------------------------------------------------------------------
 ! 
 | "[=etso+gndr@m.][NRoot][=swallow.sp. (inhabits.the.rocks); white-collared.swift (sci.nm.: streptopfogne.zonaris)]" : {etso}
 | "[=etsoni+gndr@m.][NRoot][=swallow.sp. (inhabits.the.rocks; ES: golondrina.que.habita.en.las.rocas; sci.nm.: cypseloides.rutilus, atticora.fasciata)]" : {etsoni} 
+# ------------------------------------------------------------------
 ! 
 | "[=etzi+gndr@m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {etzi}
 | "[=itzi+gndr@m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {itzi}
@@ -888,17 +898,22 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------------------
 ! 
 | "[=etita][NRoot][=guan.sp. (ES: sp.de.chachalaca; sci.nm.: ortalis.guttata)]" : {etita}
+# ------------------------------------------------------------------
 ! 
 | "[=itsipa+gndr@m.][NRoot][=other, another]" : {itsipa}
 | "[=otsipa+gndr@n.m.][NRoot][=other, another]" : {otsipa}
+# ------------------------------------------------------------------
 ! 
 | "[=itso+gndr@m.][NRoot][=swallow.sp. (inhabits.the.rocks)]" : {itso}
+# ------------------------------------------------------------------
 ! 
 | "[=evankari+gndr@m.][NRoot][=young.man, adolescent]" : {evankari} ! N@->V
 | "[=evankaro+gndr@n.m.][NRoot][=young.woman, adolescent]" : {evankaro}
 | "[=evankavo+gndr@n.m.][NRoot][=young.woman, adolescent]" : {evankavo}
+# ------------------------------------------------------------------
 ! 
 | "[=Everi][NRoot][=person's.name, NP]" : {everi}
+# ------------------------------------------------------------------
 ! 
 | "[=evonkiri+gndr@m.][NRoot][=medium; small (ES: mediano; pequeño)]" : {evonkiri} ! N@->V 
 | "[=evonkeri+gndr@m.][NRoot][=medium; small (ES: mediano; pequeño)]" : {evonkeri}
@@ -906,51 +921,65 @@ define NRootPRQin [
 | "[=evonkiro+gndr@n.m.][NRoot][=medium; small (ES: mediana; pequeña)]" : {evonkiro}
 | "[=evonkero+gndr@n.m.][NRoot][=medium; small (ES: mediana; pequeña)]" : {evonkero}
 | "[=ivonkiro+gndr@n.m.][NRoot][=medium; small (ES: mediana; pequeña)]" : {ivonkiro}
+# ------------------------------------------------------------------
 ! 
 | "[=samani+gndr@m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca, agouti.paca)]" : {samani}
 | "[=hamani+gndr@m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]" : {hamani}
 | "[=hamaani+gndr@m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]" : {hamaani}
 #| "[=samaninki+~{'rodent':samani}{'peanut':/DEL:i/nki}+gndr@n.m.][NRoot][=peanut.sp. (ES: sp.de.maní)]" : {samaninki}
+# ------------------------------------------------------------------
 ! 
 | "[=samanchero+gndr@m.][NRoot][=termite.sp. (ES: sp.de.comején)]" : {samanchero}
+# ------------------------------------------------------------------
 ! 
 | "[=hampovatsa+gndr@n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like, muddy soil]" : {hampovatsa}
 | "[=sampovatsa+gndr@n.m.+poss@te.][NRoot][=mud (ES: barro); clay]" : {sampovatsa}
+# ------------------------------------------------------------------
 ! 
 | "[=haipempe+gndr@m.][NRoot][=white-plumed.antbird (sci.nm.: pithys.albifrons)]" : {haipempe}
+# ------------------------------------------------------------------
 ! 
 | "[=hananeki][NRoot][=child]" : {hananeki}
 | "[=hananiki+poss@te.][NRoot][=little.child]" : {hananiki}
 | "[=hani][NRoot][=little.child]" : {hani} ! @VCMP 
+# ------------------------------------------------------------------
 ! 
 | "[=hananeri][NRoot][=person's.name; river.of.eternal.youth (ES: río.de.la.eterna.juventud)]" : {hananeri}
+# ------------------------------------------------------------------
 ! 
 # We are including the -nti/nposs suffix within the root to form a verbal root 
 | "[=hankenavaerenti+~{'to.write':hankena}{DUR:vae}{NMZ:re}{NMZ:nti}][NRoot][=writer (ES: escritor)]" : {hankenavaerenti} ! N@->V::[=to.be.a.writer (ES: ser.escritor)] 
+# ------------------------------------------------------------------
 ! 
 | "[=haaka][NRoot][=full (ES: saturado, lleno)]" : {haaka}
+# ------------------------------------------------------------------
 ! 
 | "[=haanaari][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]" : {haanaari}
 | "[=haanaare][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]" : {haanaare}
 | "[=haanari][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]" : {haanari}
+# ------------------------------------------------------------------
 ! 
 | "[=haachotzi+gndr@m.][NRoot][=black-tailed.trogon (ES: sp.de.pájaro.con.pecho.colorado; sci.nm.: trogon.melanurus)]" : {haachotzi}
+# ------------------------------------------------------------------
 ! 
 | "[=haavari+gndr@m.][NRoot][=warm, hot (prbly.liquid)]" : {haavari}
 | "[=saavaari+gndr@m.][NRoot][=warm, hot (prbly.liquid)]" : {saavaari}
 | "[=saavaaro+gndr@n.m.][NRoot][=warm, hot (prbly.liquid)]" : {saavaaro}
+# ------------------------------------------------------------------
 ! 
 | "[=haviri][NRoot][=machete (ES: machete)]" : {haviri}
+# ------------------------------------------------------------------
 ! 
 | "[=haye+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga, shirataco)]" : {haye}
-! 
 # -------------------------------------------------------------------- 
+! 
 | "[=henka+poss@ne.][NRoot][=odor; smell]" : {henka} ! @CMP  
 | "[=henkaa+poss@ne.][NRoot][=odor; smell]" : {henkaa} ! @CMP
 | "[=sankaare+gndr@n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankaare}
 | "[=sankaari+gndr@n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankaari}
 | "[=sankare+gndr@n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankare}
 | "[=sankari+gndr@n.m.+inal@ntsi.][NRoot][=smell (ES: olor)]" : {sankari}
+# ------------------------------------------------------------------
 ! 
 # kimojenkaro / kimohenkaro / =kimo -henka -ro / ES: 'altavoz'  
 | "[=henka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {henka} ! @VCMP 
@@ -967,48 +996,66 @@ define NRootPRQin [
 ! 
 | "[=hempeki][NRoot][=arm (ES: brazo); limb]" : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]
 | "[=impiki][NRoot][=arm (ES: brazo); limb]" : {impiki}
+# ------------------------------------------------------------------
 ! 
 | "[=Hakoovo+gndr@m.][NRoot][=Jacob]" : {hakoovo}
+# ------------------------------------------------------------------
 ! 
 | "[=hanari][NRoot][=raw (ES: crudo)]" : {hanari}
+# ------------------------------------------------------------------
 ! 
 | "[=Hesokirishito+gndr@m.][NRoot][=Jesus.Christ]" : {hesokirishito}
 | "[=Kirishito+gndr@m.][NRoot][=Christ]" : {kirishito}
 | "[=Hesoshi+gndr@m.][NRoot][=Jesus]" : {hesoshi}
+# ------------------------------------------------------------------
 ! 
 | "[=homanka+gndr@m.][NRoot][=black-necked.red.cotinga (sci.nm.: phoenicircus.nigricollis)]" : {homanka}
+# ------------------------------------------------------------------
 ! 
 | "[=homo+gndr@m.][NRoot][=frog.sp. (ES: gualo, sp.de.rana.que.canta.cuando.llueve; PT: anfíbio, jia-do-baixo; sci.nm.: leptodactulus.rhodomystx)]" : {homo}
 | "[=karava][NRoot][=frog.sp. (ES: sp.de.rana)]" : {karava}
 | "[=vavatzi][NRoot][=frog.sp. (ES: sp.de.rana)]" : {vavatzi}
+# ------------------------------------------------------------------
 ! 
 | "[=honkoki][NRoot][=master-owner.of.white_corn (ES: dueño.del.maíz.blanco)]" : {honkoki}
+# ------------------------------------------------------------------
 ! 
 | "[=hoontzi+gndr@m.][NRoot][=toad.sp. (ES: especie.de.sapo)]" : {hoontzi}
+# ------------------------------------------------------------------
 ! 
 | "[=hoveentsi+poss@te.][NRoot][=baby (ES: bebé)]" : {hoveentsi}
+# ------------------------------------------------------------------
 ! 
 | "[=Hosee+gndr@m.][NRoot][=Joseph]" : {hosee}
+# ------------------------------------------------------------------
 ! 
 | "[=horio+gndr@m.][NRoot][=jewish]" : {horio} ! N@->V
 | "[=horiiyo+gndr@m.][NRoot][=jewish]" : {horiiyo} ! N@->V
+# ------------------------------------------------------------------
 ! 
 | "[=horero][NRoot][=NP]" : {horero}
+# ------------------------------------------------------------------
 ! 
 | "[=hirivati][NRoot][=plant.sp. (ES: Quinaquina, cascarilla, palo.sangre; sci.nm.: cinchona.pubescens)]" : {hirivati}
+# ------------------------------------------------------------------
 ! 
 | "[=herina][NRoot][=nettle.sp.with.big.thorns (ES: ishanga, ortiga.(con.puas.grandes))]" : {herina}
 | "[=hirina][NRoot][=nettle.sp.with.big.thorns (ES: ishanga, ortiga.(con.puas.grandes))]" : {hirina}
+# ------------------------------------------------------------------
 ! 
 | "[=hilo/hiro][NRoot][=yarn (ES: hilo)]" : {hiro} 
+# ------------------------------------------------------------------
 ! 
 | "[=hero][NRoot][=long-and-black-and-gray_tipped-haired.monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus)]" : {hero} 
 | "[=hiro][NRoot][=monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus)]" : {hiro} 
 | "[=heroni][NRoot][=monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus, saguinus.imperator)]" : {heroni} 
+# ------------------------------------------------------------------
 ! 
 | "[=heeroohotzi][NRoot][=great.potoo (sci.nm.: nyctibius.grandis)]" : {heeroohotzi}
+# ------------------------------------------------------------------
 ! 
 | "[=Herosare][NRoot][=Jerusalem]" : {herosare}
+# ------------------------------------------------------------------
 ! 
 | "[=himee+gndr@m.+inal@n/tsi.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {himee}
 | "[=hime+gndr@m.+inal@n/tsi.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {hime}
