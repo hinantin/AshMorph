@@ -801,22 +801,28 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 | "[=chooviki][NRoot][=larva.sp. (ES: larva, suri)]" : {chooviki}
-| "[=chooviki][NRoot][=larva.sp. (ES: larva, suri)]" : {choviki}
+| "[=choviki][NRoot][=larva.sp. (ES: larva, suri)]" : {choviki}
+# ------------------------------------------------------------------
 ! 
 | "[=echonti][NRoot][=wasp (ES: avispa)]" : {echonti}
+# ------------------------------------------------------------------
 ! 
 | "[=eemeeni][NRoot][=brother.in.law (kin.of.a.female)]" : {eemeeni}
 | "[=iimiini][NRoot][=brother.in.law (kin.of.a.female)]" : {iimiini}
+# ------------------------------------------------------------------
 ! 
 | "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
 | "[=enchaniki][NRoot][=child (ES: bebé)]" : {enchaniki}
+# ------------------------------------------------------------------
 ! 
 | "[=eeni][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: eciton.rapax)]" : {eeni}
+# ------------------------------------------------------------------
 ! 
 | "[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]" : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=iintsi+gndr@n./m.][NRoot][=child (ES: niño)]" : {iintsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=entsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]" : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=eNtsi/ẽtsi+gndr@n./m.+poss@ti.][NRoot][=child (ES: niño; PT: menino)]" : {ẽtsi}
+# ------------------------------------------------------------------
 ! 
 | "[=iinyeeni/iiñeeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male)]" : {iinyeeni}
 | "[=inyeni/iñeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeni}
