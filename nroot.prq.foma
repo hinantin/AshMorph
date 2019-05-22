@@ -788,13 +788,17 @@ define NRootPRQin [
 ! 
 ! chowitsi / 
 | "[=chovi+gndr@m.+inal@tsi.][NRoot][=parasitic.worm; intestinal.worm.sp. (ES: gusano); insect.sp.]" : {chovi} ! N@->V::[=to.have.worm(s) (ES: tener.gusano(s))] 
+# ------------------------------------------------------------------
 ! 
 | "[=chovichi][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: mischocyttarus.sp.)]" : {chovichi}
+# ------------------------------------------------------------------
 ! 
 | "[=chovirio][NRoot][=NP, person's.name]" : {chovirio}
+# ------------------------------------------------------------------
 ! 
 | "[=chovivinyaki][NRoot][=land/tree.snail.sp. (ES: molusco.terrestre/que_vive_en_los_árboles; sci.nm.: thaumastus.bitaeniatus)]" : {chovivinyaki} ! snail???
 | "[=chovivinaki][NRoot][=land/tree.snail.sp. (ES: molusco.terrestre/que_vive_en_los_árboles; sci.nm.: thaumastus.bitaeniatus)]" : {chovivinaki} ! snail???
+# ------------------------------------------------------------------
 ! 
 | "[=chooviki][NRoot][=larva.sp. (ES: larva, suri)]" : {chooviki}
 | "[=chooviki][NRoot][=larva.sp. (ES: larva, suri)]" : {choviki}
