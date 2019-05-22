@@ -751,32 +751,40 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 | "[=choriti+gndr@m.][NRoot][=small.swallow.sp. (ES: gorrión, sp.de.pajarito)]" : {choriti}
+# ------------------------------------------------------------------
 ! 
 | "[=chorito+gndr@m.][NRoot][=parrot.sp., parakeet.sp., small.macaw.sp.; blue-headed.parrot (sci.nm.: pionus.menstruus)]" : {chorito}
 ! 
 | "[=choritoniro][NRoot][=painted.parakeet (sci.nm.: pyrrhura.picta)]" : {choritoniro}
 ! 
 | "[=choritovaro][NRoot][=parrot.sp. (ES: sp.de.loro)]" : {choritovaro}
+# ------------------------------------------------------------------
 ! 
 | "[=chotari][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: micrastur.ruficollis)]" : {chotari}
+# ------------------------------------------------------------------
 ! 
 # chótaro 
 | "[=chotaro][NRoot][=acuatic.turtle.sp. (ES: tortuga.acuatica, taricaya; sci.nm.: podocnemis.unifilis)]" : {chotaro}
 | "[=chootaro][NRoot][=acuatic.turtle.sp. (ES: tortuga.acuatica, taricaya; sci.nm.: podocnemis.unifilis)]" : {chootaro}
+# ------------------------------------------------------------------
 ! 
 | "[=chovankeriki][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chovankeriki}
 | "[=chovankeri][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chovankeri}
 | "[=chovankiri][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chovankiri}
 | "[=chochovaroki][NRoot][=red.and.black.seed (ES: huayruro; QU: wayruru)]" : {chochovaroki}
+# ------------------------------------------------------------------
 ! 
 | "[=chova][NRoot][=bird.sp. (ES: paucar)]" : {chova}
+# ------------------------------------------------------------------
 ! 
 | "[=chovavate][NRoot][=small.woodpecker/woodcreeper ([tʃə.ˈwa.wa.tɛ]; ES: pájaro.carpintero.pequeño; sci.nm.: dendrocolaptes.certhia/picumnus)]" : {chovavate}
 | "[=chovavati][NRoot][=small.woodpecker/woodcreeper (ES: pájaro.carpintero.pequeño; sci.nm.: dendrocolaptes.certhia/picumnus)]" : {chovavati}
+# ------------------------------------------------------------------
 ! 
 | "[=chovantzi+gndr@m.][NRoot][=spotted.sandpiper (sci.nm.: actitis.macularia); bird.sp.]" : {chovantzi} ! chouantzi
 | "[=shankenti][NRoot][=spotted.sandpiper (sci.nm.: actitis.macularia); bird.sp.]" : {shankenti} ! revise?
 | "[=shankentzi][NRoot][=spotted.sandpiper (sci.nm.: actitis.macularia); bird.sp.]" : {shankentzi}
+# ------------------------------------------------------------------
 ! 
 ! chowitsi / 
 | "[=chovi+gndr@m.+inal@tsi.][NRoot][=parasitic.worm; intestinal.worm.sp. (ES: gusano); insect.sp.]" : {chovi} ! N@->V::[=to.have.worm(s) (ES: tener.gusano(s))] 
