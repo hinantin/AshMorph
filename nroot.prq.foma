@@ -1221,18 +1221,24 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
+# ---------------------------------------------------------------------
 ! 
 | "[=inkiri+gndr@m.][NRoot][=fish.sp.]" : {inkiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=inkorato+gndr@m.][NRoot][=nocturnal.butterfly.worm/larva.sp. (ES: larva.de.mariposa.comestible; sci.nm.: familia.sphingidae); edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {inkorato}
 | "[=korea+gndr@m.][NRoot][=nocturnal.butterfly.worm.sp.; edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {korea}
+# ---------------------------------------------------------------------
 ! 
 | "[=impari+gndr@n.m.+poss@te.][NRoot][=potato.sp. (ES: sp.de.papa, malanga, pituca.blanca; sci.nm.: xanthosoma.sp.)]" : {impari}
 | "[=impaari+gndr@n.m.][NRoot][=potato.sp. (ES: sp.de.papa, malanga, pituca.blanca; sci.nm.: xanthosoma.sp.)]" : {impaari}
+# ---------------------------------------------------------------------
 ! 
 | "[=impita][NRoot][=river-larva.sp., aquatic.larva (ES: sp.de.larva.que.habita.en.los.ríos; sci.nm.: género.corydalus); (ES: langostino.de.río)]" : {impita}
+# ---------------------------------------------------------------------
 ! 
 | "[=impereta][NRoot][=rock, steep.rocky.hillside; face.of.a.steep.rock]" : {impereta}
+# ---------------------------------------------------------------------
 ! 
 | "[=impokiro+gndr@m.][NRoot][=star (ES: estrella)]" : {impokiro}
 | "[=impookiro+gndr@m.][NRoot][=star (ES: estrella)]" : {impookiro}
@@ -1242,12 +1248,16 @@ define NRootPRQin [
 | "[=impokiroma][NRoot][=star.tiger (ES: tigre.estrella)]" : {impokiroma}
 ! 
 | "[=impokiromai][NRoot][= (PT: estrela.que.tem.mistérios-e-orienta.o.pajé)]" : {impokiromai}
+# ---------------------------------------------------------------------
 ! 
 | "[=imposhito+~imposhi{CL:/'tree':to/}][NRoot][=wild.fruit.sp. (ES: fruta.silvestre)]" : {imposhito}
+# ---------------------------------------------------------------------
 ! 
 | "[=inpovaNtoteya/inpowãtoteya][NRoot:CPB][=tree.sp. (PT: mutamba, árvore.de.médio.porte; sci.nm.: guazuma.ulmifolia)]" : {inpowãtoteya}
+# ---------------------------------------------------------------------
 ! 
 | "[=inaapaki][NRoot][=edible.larva.sp. (ES: larva.comestible.de.la.yuca)]" : {inaapaki}
+# ---------------------------------------------------------------------
 ! 
 | "[=intakantarori][NRoot][=ancestor]" : {intakantarori}
 ! 
@@ -1277,63 +1287,85 @@ define NRootPRQin [
 | "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
 | "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
 | "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
+# ---------------------------------------------------------------------
 ! 
 # iskoniki / =isko -ni -ki / =lime -cl:watercourse -cl:human.populated / EN: 'quebrada.donde.abunda.la.cal'; ES: 'ravine.where.lime.is.abundant' 
 | "[=ishiko+poss@te.][NRoot][=(powdered).lime (ES: cal)]" : {ishiko}
 | "[=isko+poss@te.][NRoot][=(powdered).lime (ES: cal)]" : {isko}
 | "[=shiko][NRoot][=lime (ES: cal)]" : {shiko} ! shikopane ! to be checked 
+# ---------------------------------------------------------------------
 ! 
 | "[=kaampo+gndr@m.][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {kaampo}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaonkari][NRoot][=green-billed.toucanet (sci.nm.: selenidera.reirwardtii)]" : {kaonkari}
+# ---------------------------------------------------------------------
 ! 
 | "[=kapaheri][NRoot][=opossum.sp. (ES: zariguella, zarigüeya; sci.nm.: delphis.marsupialis)]" : {kapaheri}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaparari][NRoot][=sardine.sp. (PT: peixe.de.água.doce)]" : {kaparari}
+# ---------------------------------------------------------------------
 ! 
 | "[=kapararo+gndr@m.][NRoot][=sardine.sp. (ES: sp.de.sardina)]" : {kapararo}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaaparinki+gndr@m.][NRoot][=rattler-snake (ES: sp.de.cascavel)]" : {kaaparinki}
+# ---------------------------------------------------------------------
 ! 
 | "[=kapashi+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {kapashi}
 | "[=tako+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tako} ! I assumed the gender is +gndr@n.m. 
+# ---------------------------------------------------------------------
 ! 
 | "[=kapashiro][NRoot][=iguana.sp.]" : {kapashiro}
+# ---------------------------------------------------------------------
 ! 
 | "[=katimaropa][NRoot][=banana.sp. (ES: plátano.de.isla)]" : {katimaropa}
+# ---------------------------------------------------------------------
 ! 
 | "[=katonko.][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} 
 | "[=katonka][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonka} 
 | "[=katyonkohi~ka{E.PAL.:ty}onko{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {katyonkohi} 
 | "[=kationkohi~ka{E.PAL.:ti}onko{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {kationkohi} 
+# ---------------------------------------------------------------------
 ! 
 | "[=kapashiro][NRoot][=ginger.sp., herb.sp. (ES: quión, kión, jengibre; sci.nm.: zingiber.officinale)]" : {katsikonaki}
 | "[=katsitonari][NRoot][=ginger.sp., herb.sp. (ES: quión, kión, jengibre; sci.nm.: zingiber.officinale)]" : {katsitonari}
+# ---------------------------------------------------------------------
 ! 
 | "[=katsirinkari][NRoot][=hot, heat (ES: caliente, calor)]" : {katsirinkari} 
 | "[=katsirinkaite][NRoot][=heat (ES: calor)]" : {katsirinkaite} 
 | "[=katsirinkaiteri][NRoot][=sun (ES: sol)]" : {katsirinkaiteri} 
+# ---------------------------------------------------------------------
 ! 
 | "[=katsikori][NRoot][=edible.ant.sp. (ES: sp.de.hormiga.comestible)]" : {katsikori}
+# ---------------------------------------------------------------------
 ! 
 | "[=katsinka][NRoot][=pain (ES: dolor)]" : {katsinka}
+# ---------------------------------------------------------------------
 ! 
 | "[=katitori+gndr@m.][NRoot][=ant.sp., leaf-cutter.ant (ES: sp.de.hormiga)]" : {katitori}
 | "[=katsitori+gndr@m.][NRoot][=ant.sp., leaf-cutter.ant (ES: sp.de.hormiga)]" : {katsitori}
+# ---------------------------------------------------------------------
 ! 
 | "[=katzinari][NRoot][=rufous.motmot (sci.nm.: barypthengus.ruficapillus)]" : {katzinari}
+# ---------------------------------------------------------------------
 ! 
 ! kejitsi / kehitsi / =kehi -tsi / =fat -nposs / EN: 'fat'; ES: 'grasa' 
 ! ireji / irehi / ir- =ehi / 3m.poss- =fat / EN: 'his.fat'; ES: 'su.grasa' 
 | "[=kehi+inal@tsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {kehi}
 | "[=ehi+inal@tsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo)]" : {ehi}
+# ---------------------------------------------------------------------
 ! 
 | "[=keeki+ntsi.][NRoot][=face.pimple (ES: grano.en.la.cara)]" : {keeki}
+# ---------------------------------------------------------------------
 ! 
 | "[=kinashi+gndr@n.m.][NRoot][=pituca-like.herb.sp.]" : {kinashi}
 | "[=kenashi+gndr@n.m.][NRoot][=pituca-like.herb.sp.]" : {kenashi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kenentoki_oteyaki][NRoot][= (PT: árvore.do.taxi; sci.nm.: triplaris.surinamensis)]" : {kenentoki_oteyaki}
+# ---------------------------------------------------------------------
 ! 
 | "[=kentziraki+gndr@m.+inal@tzi.+poss@te.][NRoot][=flea (ES: pulga)]" : {kentziraki}
 | "[=kintziraato+gndr@m.][NRoot][=flea (ES: pulga)]" : {kintziraato}
