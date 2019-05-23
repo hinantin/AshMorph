@@ -1189,15 +1189,16 @@ define NRootPRQin [
 ! 
 | "[=inchatoshi+~{'plant':incha}{CL:/'tree':to/}{CL:/'leaf':shi/}][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
 !| "[=inchatoshisati+~{'plant':incha}{CL:/'tree':to/}{CL:/'leaf':shi/}{CL:/'provenance':sati/}][NRoot][=amazon.region;| amazon.forest;| amazonian]" : {inchatoshisati} ! @section:noun@ 
-# ---------------------------------------------------------------------
-! 
-| "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
 ! 
 | "[=inchashi+~{'plant':incha}{CL:/'leaf':shi/}+gndr@n.m.+poss@ri:te.][NRoot][=herb (ES: hierba); shrubs; weeds (ES: maleza); medicinal.plant (ES: planta.curativa)]" : {inchashi}
 | "[=intxashi+~{'plant':intxa}{CL:/'leaf':shi/}][NRoot:CPB][=herb.with.therapeutic.properties; medicinal.plant (ES: planta.curativa)]" : {intxashi}
 ! 
 # ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
 | "[=inchashinari+~{'plant':incha}{CL:/'leaf':shi/}{CL:/'user.of.sth.':nari/}+sem@healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
+# ---------------------------------------------------------------------
+! 
+| "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
+# ---------------------------------------------------------------------
 ! 
 | "[=inka][NRoot][=rain (ES: lluvia)]" : {inka}
 | "[=inkani+gndr@n.m.][NRoot][=rain (ES: lluvia; PT: chuva; QU: para)]" : {inkani} ! @section:noun@ 
@@ -1213,9 +1214,11 @@ define NRootPRQin [
 | "[=inkahare+~{'rain':inka}{CL:/'liquid':ha/}{NMZ:re}][NRoot][=lagoon]" : {inkahare}
 ! 
 | "[=inkanya/inkaña+~{'rain':inka}{CL:/'small.shallow.pool.of.water':nya/}+gndr@n.m.][NRoot][=intermittent.rain-water.well (ES: pozo.intermitente.de.agua.de.lluvia)]" : {inkanya}
+# ---------------------------------------------------------------------
 ! 
 | "[=inkite+gndr@n.m.][NRoot][=sky (ES: cielo; PT: céu; QU: hanaq.pacha);| firmament]" : {inkite} ! @section:noun@ 
 | "[=inkiti+gndr@n.m.][NRoot][=sky (ES: cielo; PT: céu; QU: hanaq.pacha);| firmament]" : {inkiti}
+# ---------------------------------------------------------------------
 ! 
 | "[=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)]" : {inki} ! @CMP 
 ! 
