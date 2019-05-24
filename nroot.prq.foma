@@ -1372,44 +1372,57 @@ define NRootPRQin [
 | "[=kentiratiki][NRoot][=flea (ES: pulga)]" : {kentiratiki}
 | "[=kentziratziki][NRoot][=flea (ES: pulga)]" : {kentziratziki}
 | "[=oveenikentsi][NRoot][=flea (ES: pulga)]" : {oveenikentsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kiori][NRoot][=guan.sp. (ES: sp.de.chachalaca)]" : {kiori}
+# ---------------------------------------------------------------------
 ! 
 | "[=kevo+gndr@n.m.+inal@tsi.][NRoot][=hammock (ES: hamaca)]" : {kevo}
 | "[=kivo+gndr@n.m.+inal@tsi.][NRoot][=hammock (ES: hamaca)]" : {kivo}
 | "[=veomento+inal@tsi.][NRoot][=hammock (ES: hamaca)]" : {veomento}
 | "[=yao][NRoot][=hammock (ES: hamaca)]" : {yao}
+# ---------------------------------------------------------------------
 ! 
 | "[=kirinka][NRoot][=down.river, downstream (ES: río.abajo); central.part.of.the.jungle]" : {kirinka}
+# ---------------------------------------------------------------------
 ! 
 | "[=kivinti][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {kivinti}
 | "[=kivintzi][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {kivintzi}
 | "[=saimperi][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {saimperi}
 | "[=hyiimpiro][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {hyiimpiro}
+# ---------------------------------------------------------------------
 ! 
 | "[=kyaari][NRoot][=yellow-ridget.toucan (sci.nm.: ramphastos.culminatus)]" : {kyaari}
+# ---------------------------------------------------------------------
 ! 
 | "[=kymaroatzi][NRoot][=red-billed.scythebill (sci.nm.: campylorhampus.trochilirostris)]" : {kymaroatzi}
 # ------------------------------------------------------
 | "[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimbillo, judía.delem.helado; QU: paqay; botany.nm.: inga.sp., inga.fullei; PT: ingá)]" : [{intsipa}|{itsipa}]
+# ---------------------------------------------------------------------
 ! 
 # iraantsi / =iraa -ntsi / =blood -nposs / EN: 'blood', ES: 'sangre'  
 | "[=iraa+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraa} 
 | "[=iraha~ira{CL:/'liquid':ha/}+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraha} 
 | "[=ira+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
+# ---------------------------------------------------------------------
 ! 
 | "[=irantsipi+gndr@n.m.][NRoot][=sugar.cane.sp.]" : {irantsipi}
+# ---------------------------------------------------------------------
 ! 
 | "[=iraari+gndr@n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {iraari}
 | "[=irari+gndr@n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {irari}
 | "[=irariki+gndr@n.m.][NRoot][=dragon's_blood.seed/fruit (ES: sangre.de.grado; sci.nm.: croton.lechleri)]" : {irariki}
 | "[=irarito][NRoot][=dragon's_blood.tree]" : {irarito}
+# ---------------------------------------------------------------------
 ! 
 | "[=iraantsinaki][NRoot][=pale-fegged.hornero (sci.nm.: furnarius.leucopus)]" : {iraantsinaki}
+# ---------------------------------------------------------------------
 ! 
 | "[=iri+gndr@m.][NRoot][=father (kin.of.a.fe/male)]" : {iri}
+# ---------------------------------------------------------------------
 ! 
 | "[=leche/irichi+gndr@n./m.][NRoot][=milk (ES: leche; PT: leite)]" : {irichi}
+# ---------------------------------------------------------------------
 ! 
 ! irianiki ??? 
 | "[=iriani][NRoot][=child (ES: niño; PT: menino)]" : {iriani}
