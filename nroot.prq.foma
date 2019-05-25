@@ -1445,12 +1445,15 @@ define NRootPRQin [
 ! 
 | "[=irina][NRoot][=Irina]" : {irina}
 !| "[=iritsiro][NRoot][=his.sister]" : {iritsiro}
+# ---------------------------------------------------------------------
 ! 
 | "[=iriniki][NRoot][=hail]" : {iriniki}
 | "[=hirinki][NRoot][=hail]" : {hirinki}
 | "[=hirinki][NRoot][=hail]" : {hiriniki}
+# ---------------------------------------------------------------------
 ! 
 | "[=irishiria][NRoot][=person's.name, NP]" : {irishiria}
+# ---------------------------------------------------------------------
 ! 
 | "[=iroamere+gndr@m.][NRoot][=student, disciple, pupil]" : {iroamere}
 ! 
