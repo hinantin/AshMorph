@@ -1456,32 +1456,41 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=iroamere+gndr@m.][NRoot][=student, disciple, pupil]" : {iroamere}
+# ---------------------------------------------------------------------
 ! 
 | "[=ironyaa][NRoot][=now]" : {ironyaa}
 | "[=ironya][NRoot][=now]" : {ironya}
+# ---------------------------------------------------------------------
 ! 
 | "[=iryapa+gndr@n.m.][NRoot][=shotgun (ES: escopeta)]" : {iryapa}
 #| "[=tonkamento+gndr@n.m.+inal@tsi.][NRoot][=shotgun (ES: escopeta)]" : {tonkamento}
+# ---------------------------------------------------------------------
 ! 
 | "[=nato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {nato}
 | "[=naato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {naato}
 | "[=isha+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {isha} ! N@->V::[=to.be.an.old.woman] 
 | "[=ishaa+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {ishaa}
+# ---------------------------------------------------------------------
 ! 
 | "[=isha+gndr@m.+voc.][NRoot][=grandson (kin.of.a.female; nieto)]" : {isha}
+# ---------------------------------------------------------------------
 ! 
 | "[=ishako][NRoot][=person's.name, NP]" : {ishako}
+# ---------------------------------------------------------------------
 ! 
 | "[=isheni+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {isheni}
 | "[=isheeni+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {isheeni}
 | "[=sheni+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {sheni}
+# ---------------------------------------------------------------------
 ! 
 | "[=iyoeni+gndr@n.m.][NRoot][=mother.in.law (kin.of.a.male; suegra)]" : {iyoeni}
 | "[=iyo+gndr@n.m.+poss@te.][NRoot][=mother.in.law (kin.of.a.male; suegra)]" : {iyo}
 | "[=aerontsi+gndr@n.m.][NRoot][=mother.in.law (kin.of.a.male; suegra)]" : {aerontsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=iyotsi+gndr@m.][NRoot][=catfish.sp. (ES: súngaro, doncella); fish.sp., barred.shovelnose (ES: súngaro.(negro)]" : {iyotsi}
 | "[=iotsi+gndr@m.][NRoot][=catfish.sp. (ES: súngaro, doncella); fish.sp., barred.shovelnose (ES: súngaro.(negro)]" : {iotsi}
+# ---------------------------------------------------------------------
 ! 
 # ivenki: plant only handle by males 
 | "[=ivenki+gndr@n.m.+poss@te.][NRoot][=sedge/rush, magic.plant.of_a_male, his.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri)]" : {ivenki}
