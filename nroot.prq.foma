@@ -1720,16 +1720,21 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=kahevi][NRoot][=tree-growing.not-edible.wild.mushrooom (ES: hongo.silvestre.no-comestible)]" : {kahevi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kahankari+gndr@n.m.+poss@te.][NRoot][=perfume (ES: perfume); perfumed, fragrant (ES: perfumado)]" : {kahankari}
 | "[=kasankari+gndr@n.m.+poss@te.][NRoot][=perfume (ES: perfume); perfumed, fragrant (ES: perfumado)]" : {kasankari}
+# ---------------------------------------------------------------------
 ! 
 | "[=kasankari+gndr@n.m.][NRoot][=edible.tuber.sp. (ES: guisador)]" : {kasankari}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaamane+inal@ntsi.][NRoot][=death (ES: muerte)]" : {kaamane}
 | "[=kamane+inal@ntsi.][NRoot][=death (ES: muerte)]" : {kamane}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamaiteri][NRoot][=person's.name, NP]" : {kamaiteri}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamaari+gndr@m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamaari}
 | "[=kamari+gndr@m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
