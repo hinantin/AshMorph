@@ -1498,24 +1498,31 @@ define NRootPRQin [
 # ovenki: plant only handle by females 
 | "[=ovenki+gndr@n.m.+poss@te.][NRoot][=magic.plant.of_a_female, her.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ES: vaina)]" : {ovenki}
 | "[=ovinki+gndr@n.m.+poss@te.][NRoot][=magic.plant.of_a_female, her.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri); pod, long.thin.case.filled.with.seeds (ES: vaina)]" : {ovinki}
+# ---------------------------------------------------------------------
 ! 
 | "[=oveni][NRoot][=Unini.river (ES: río.Unini)]" : {oveni}
+# ---------------------------------------------------------------------
 ! 
 # 'penta' habita en el agua de las quebradas y acostumbran habitar también los estómagos de los animales domésticos y
 # humanos por lo que los ashaninka llaman a dichos parásitos en general 'penta' 
 | "[=penta][NRoot][=aquatic.bloodsucker.bug (ES: bicho.chupasangre.acuático); planaria.sp. (ES: sp.planaria; sci.nm.: orden.tremátode)]" : {penta}
+# ---------------------------------------------------------------------
 ! 
 | "[=pentaki+gndr@n.m.+inal@ntsi.][NRoot][=fish.scale (ES: escama.de.pez)]" : {pentaki}
+# ---------------------------------------------------------------------
 ! 
 | "[=ivire+gndr@n.m.+inal@ntsi.][NRoot][=bird.trap.woven.with.tree_bark]" : {ivire}
 | "[=iviri+gndr@n.m.+inal@ntsi.][NRoot][=bird.trap.woven.with.tree_bark]" : {iviri}
 | "[=ovire+inal@ntsi.][NRoot][=hunting.trap (ES: trampa.de.caza)]" : {ovire}
+# ---------------------------------------------------------------------
 ! 
 # overapaka / EN: 'boundary'; ES: 'límite' 
 !| "[=overapaka][NRoot][=boundary (ES: límite)]" : {overapaka} ! @section:noun@ 
+# ---------------------------------------------------------------------
 ! 
 | "[=iveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {iveto}
 | "[=oveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {oveto}
+# ---------------------------------------------------------------------
 ! 
 | "[=sarana][NRoot][=wasp.sp. (it.presents.a.blu.reflection; ES: sp.de.avispa)]" : {sarana}
 # -------------------------------------------------------------------------------------------------
