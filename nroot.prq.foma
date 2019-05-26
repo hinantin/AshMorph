@@ -1655,52 +1655,69 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=iyento][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: phrynohyas.venulosa)]" : {iyento}
+# ---------------------------------------------------------------------
 ! 
 | "[=iyeyi][NRoot][=brother]" : {iyeyi}
+# ---------------------------------------------------------------------
 ! 
 | "[=irentzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
 | "[=irentsi+gndr@m.+kin@male.ego][NRoot][=brother (kin.of.a.male), male.who.belongs.to.the.same.ego's.generation]" : {irentsi}
 | "[=irintzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaantziriritzi][NRoot][=rufous-capped-ant-trush (sci.nm.: form¡carius.colma)]" : {kaantziriritzi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaaro+gndr@n.m.][NRoot][=wild.sugar-cane-like.cane.sp.]" : {kaaro}
 | "[=kaavo+gndr@n.m.][NRoot][=wild.sugar-cane-like.cane.sp.]" : {kaavo}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaasho+gndr@n.m.][NRoot][=walnut.sp. (ES: nuez-marañon)]" : {kaasho}
 | "[=kaahyo+gndr@n.m.][NRoot][=walnut.sp. (ES: nuez-marañon)]" : {kaahyo}
+# ---------------------------------------------------------------------
 ! 
 ! kachaarentsi / =kachaare -ntsi / =humo -nposs / EN: 'smoke'; ES: 'humo' ! inal to be revised!!! it comes from the Kachaataantsi verb. 
 | "[=kachaari+gndr@m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaari} 
 | "[=kachaare+gndr@m.+inal@ntsi.][NRoot][=smoke (ES: humo)]" : {kachaare} 
+# ---------------------------------------------------------------------
 ! 
 | "[=kachaaro+gndr@n.m.+inal@ntsi.][NRoot][=hook (ES: anzuelo)]" : {kachaaro} 
 | "[=kachaavo+gndr@n.m.+inal@ntsi.][NRoot][=hook (ES: anzuelo)]" : {kachaavo} 
 | "[=akachaavo+gndr@n.m.+inal@ntsi.][NRoot][=hook (ES: anzuelo)]" : {akachaavo} 
 | "[=akachaare+gndr@m.+inal@ntsi.][NRoot][=hooked (ES: anzueleado)]" : {akachaare} # adjective 
+# ---------------------------------------------------------------------
 ! 
 | "[=kachente+gndr@n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachente}
 | "[=kachenti+gndr@n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachenti}
 | "[=kachinti+gndr@n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachinti}
+# ---------------------------------------------------------------------
 ! 
 | "[=kachompito+gndr@n.m.][NRoot][=medicinal.tree.sp. (ES: sp.de.árbol.medicinal)]" : {kachompito}
+# ---------------------------------------------------------------------
 ! 
 | "[=kachoncho][NRoot][=heron-like.large-beaked.long-legged.bird.sp., (ES: sp.de.garza, totuyo; sci.nm.: ardea.cocoi)]" : {kachoncho}
+# ---------------------------------------------------------------------
 ! 
 | "[=kachoneriki][NRoot][=flying.insect.sp. (ES: sp.de.insecto.volador)]" : {kachoneriki}
+# ---------------------------------------------------------------------
 ! 
 | "[=kachori][NRoot][=sour, acid (ES: agrio)]" : {kachori}
+# ---------------------------------------------------------------------
 ! 
 | "[=kainka+gndr@n.m.][NRoot][=banana.sp. (ES: sp.de.plátano)]" : {kainka}
+# ---------------------------------------------------------------------
 ! 
 | "[=katyoka+inal@ntsi.][NRoot][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]" : {katyoka}
+# ---------------------------------------------------------------------
 ! 
 | "[=katyori][NRoot][=salted, salty (ES: salado); acidic, sour]" : {katyori}
 | "[=katyokiri][NRoot][=salted, salty (ES: salado)]" : {katyokiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=kahai][NRoot][=coffee.plant (sci.nm.: coffea.sp.)]" : {kahai}
 | "[=kahe][NRoot][=coffee.plant ([ka.ˈhɛ]; sci.nm.: coffea.sp.)]" : {kahe}
 | "[=café/kafe][NRoot][=coffee]" : {kafe}
+# ---------------------------------------------------------------------
 ! 
 | "[=kahevi][NRoot][=tree-growing.not-edible.wild.mushrooom (ES: hongo.silvestre.no-comestible)]" : {kahevi}
 ! 
