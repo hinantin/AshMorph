@@ -1535,6 +1535,7 @@ define NRootPRQin [
 # -------------------------------------------------------------------------------------------------
 ! 
 | "[=sari+gndr@m.+poss@ni.][NRoot][=scarlet.macaw (sci.nm.: ara.macaw)]" : {sari}
+# ---------------------------------------------------------------------
 ! 
 | "[=savavo+gndr@m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {savavo}
 | "[=savaro+gndr@m.+poss@te.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]" : {savaro}
@@ -1576,37 +1577,49 @@ define NRootPRQin [
 | "[=tevaa+gndr@n.m.+inal@ntsi.][NRoot][=branch (ES: rama)]" : {tevaa}
 | "[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)]" : {oteva} ! N@->V 
 | "[=tivaa+gndr@n.m.+inal@ntsi.][NRoot][=branch (ES: rama)]" : {tivaa}
+# ---------------------------------------------------------------------
 ! 
 # naked; emaciated; defeathered 
 | "[=tsempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tsempeki} ! @VCMP @CMP 
 | "[=tseempeki][NRoot][=body; outer.frame; skeleton.(like)]" : {tseempeki} ! @VCMP @CMP 
+# ---------------------------------------------------------------------
 ! 
 | "[=tserepito][NRoot][=kingfisher.sp., bird.sp. (ES: martin.pescador)]" : {tserepito} 
+# ---------------------------------------------------------------------
 ! 
 | "[=tsipa+gndr@n.m.][NRoot][=wife]" : {tsipa}
+# ---------------------------------------------------------------------
 ! 
 | "[=tsiya+gndr@m.][NRoot][=bird.sp. (ES: chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]" : {tsiya}
 | "[=tsiyaa+gndr@m.][NRoot][=bird.sp. (ES: chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]" : {tsiyaa}
+# ---------------------------------------------------------------------
 ! 
 | "[=tsityoki+gndr@m.][NRoot][=parakeet.sp. (ES: pihuicho, perico); blue-winged.parakeet (sci.nm.: forpus.xantopterigius)]" : {tsityoki}
+# ---------------------------------------------------------------------
 ! 
 | "[=tsiva+gndr@m.][NRoot][=tree.sp., copal.tree.sp.]" : {tsiva}
+# ---------------------------------------------------------------------
 ! 
 | "[=tsivankiri+gndr@n.m.][NRoot][=tree.sp., huayruro.tree]" : {tsivankiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=tsivitaroki+gndr@n.m.][NRoot][=corn.sp.]" : {tsivitaroki}
 | "[=tsivitaaki+gndr@n.m.][NRoot][=corn.sp.]" : {tsivitaaki}
+# ---------------------------------------------------------------------
 ! 
 | "[=tsivo+gndr@n.m.][NRoot][=box.made.out.of.split_cane, cane.box (ES: maleta, caja.hecha.de.caña.brava)]" : {tsivo}
 | "[=tsivoo+gndr@n.m.][NRoot][=box.made.out.of.split_cane, cane.box (ES: maleta, caja.hecha.de.caña.brava)]" : {tsivoo}
+# ---------------------------------------------------------------------
 ! 
 # usado para producir planchas de triplay 
 | "[=tsivoki][NRoot][=timber.tree.sp. (it.is.used.to.produce.plywood; ES: hubo, ubos, sp.de.árbol.maderable; PT: palheira; sci.nm.: spondias.mombin)]" : {tsivoki}
+# ---------------------------------------------------------------------
 ! 
 ! SRC: thovatsi / 
 | "[=tsova+gndr@n.m.+inal@tsi.][NRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : {tsova} ! @CMP @VCMP  
 ! 
 | "[=tsovaki][NRoot][=thin-and-elongated (ES: delgado-y-alargado); snout (ES: hocico)]" : {tsovaki} ! @VCMP 
+# ---------------------------------------------------------------------
 ! 
 | "[=itzi+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {itzi}
 | "[=itsi+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {itsi}
@@ -1617,23 +1630,29 @@ define NRootPRQin [
 | "[=iti+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {iti}
 | "[=kitzi+gndr@n.m.+inal@tsi.][NRoot][=leg; foot (ES: pie)]" : {kitzi}
 | "[=kitsi+gndr@n.m.+inal@tsi.][NRoot][=leg; foot (ES: pie)]" : {kitsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=iposhi+gndr@m.][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {iposhi}
 | "[=aposhi+gndr@m.][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {aposhi}
 ! [nopositi] / noposhiti / no- =poshi -ti / 1sg.poss- =carachama-fish -aln.poss. / EN: 'my.carachama-fish'   
 | "[=poshi+poss@ti.][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {poshi}
+# ---------------------------------------------------------------------
 ! 
 | "[=ititsapaki][NRoot][=toe]" : {ititsapaki}
+# ---------------------------------------------------------------------
 ! 
 | "[=iraka][NRoot][=ripe (ES: maduro)]" : {iraka}
 | "[=irakaa][NRoot][=ripe (ES: maduro)]" : {irakaa}
+# ---------------------------------------------------------------------
 ! 
 | "[=ivayetziri][NRoot][=warriors]" : {ivayetziri}
+# ---------------------------------------------------------------------
 ! 
 | "[=iye+gndr@m.+kin@male.ego][NRoot][=brother (kin.of.a.male)]" : {iye}
 | "[=iyenti+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {iyenti}
 | "[=iyeki+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {iyeki}
 | "[=iyiki+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {iyiki}
+# ---------------------------------------------------------------------
 ! 
 | "[=iyento][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: phrynohyas.venulosa)]" : {iyento}
 ! 
