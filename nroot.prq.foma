@@ -1740,6 +1740,7 @@ define NRootPRQin [
 | "[=kamari+gndr@m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
 | "[=kaamari+gndr@m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kaamari}
 | "[=kamaaro][NRoot][=devil]" : {kamaaro}
+# ---------------------------------------------------------------------
 ! 
 # kamarishi: 
 # 1) The plant is harvested, washed, torn into small pieces; the plant matter is ground manually with two hands, 
@@ -1748,17 +1749,21 @@ define NRootPRQin [
 # 2) it is believed to counteract the harmful effects from the encounters with demonic spirits. 
 # Such encounters may produce a fever, headaches, vomiting, diarrhea, or any combination of these.
 | "[=kamarishi][NRoot][=demonic.herb]" : {kamarishi}
+# ---------------------------------------------------------------------
 ! 
 # aaquena camaantsi / aakena kamaantsi / =a -ak -e -na *** =kamaantsi / =to.take -prf -real -1sg.o *** =flu / EN: 'the.flu.takes.me'; ES: 'me.dió.gripe; lit.: me.agarra.el.resfrío'
 | "[=kamantsi+gndr@n./m.+poss@te.][NRoot][=flu, cold (ES: gripe, constipado); snot (ES: moco); having.a.cold; phlegm]" : {kamantsi} ! +gndr@n.m. +gndr@m. both genders?
 | "[=kamaantsi+gndr@n./m.+poss@te.][NRoot][=flu, cold (ES: gripe, constipado); snot (ES: moco); having.a.cold; phlegm]" : {kamaantsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamantzi+gndr@m.][NRoot][=black-streaked.puffbird (sci.nm.: malacoptila.fuivogularis)]" : {kamantzi}
+# ---------------------------------------------------------------------
 ! 
 ! kamanitaantsi / =kam -a -ni -t -antsi / =to.die -ep -? -ep -inf / EN: 'death'  
 | "[=kamanitaantsi+~{'to.die':kam}{EP:a}{UNK:ni}{EP:t}{INF:aantsi}][NRoot][=death (ES: muerte)]" : {kamanitaantsi}
 | "[=kaamanetaantsi+~{'to.die':kaam}{EP:a}{UNK:ne}{EP:t}{INF:aantsi}][NRoot][=death (ES: muerte)]" : {kaamanetaantsi}
 | "[=kamanetaantsi+~{'to.die':kam}{EP:a}{UNK:ne}{EP:t}{INF:aantsi}][NRoot][=death (ES: muerte)]" : {kamanetaantsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamanyari/kamañari][NRoot][=NP, person's.name]" : {kamanyari}
 | "[=kamanyaari/kamañaari][NRoot][=NP, person's.name]" : {kamanyaari}
