@@ -1807,28 +1807,37 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=kamaveni][NRoot][=land.of.mortal.beings]" : {kamaveni}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamavira+gndr@m.][VRoot][=hummingbird.sp. (ES: sp.de.picaflor)]" : {kamavira}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamenaantsi][NRoot][=advice]" : {kamenaantsi}
+# ---------------------------------------------------------------------
 ! 
 ! kametsape / =kametsa -pe / =good -pl / EN: 'good.ones' 
 | "[=kameetsa][NRoot][=well (ES: bien)]" : {kameetsa} ! @VCMP 
 | "[=kametsa][NRoot][=well (ES: bien), good]" : {kametsa} ! @VCMP 
 | "[=kamiitsa][NRoot][=well (ES: bien), good]" : {kamiitsa}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamevira][NRoot][=hummingbird.sp. (ES: colibri.sp.; sci.nm.: florisuga.mellivora)]" : {kamevira}
+# ---------------------------------------------------------------------
 ! 
 | "[=kami+poss@ni.][NRoot][=rotten.leaf (ES: hoja.podrida)]" : {kami}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaminirio][NRoot][=person's.name, NP]" : {kaminirio}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaminka][NRoot][=dead]" : {kaminka}
 | "[=kaminkari][NRoot][=deceased.person (ES: difunto); corpse, cadaver; carcass]" : {kaminkari}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamitzi+gndr@m.+poss@te.][NRoot][=miniature.person, small_stature_person-like.being (kind.of.kamari; ES: duende)]" : {kamitzi}
 | "[=kamitsi+gndr@m.+poss@te.][NRoot][=miniature.person, small_stature_person-like.being (kind.of.kamari; ES: duende)]" : {kamitsi}
 | "[=kamintsi][NRoot][= (ES: el.guardabosque.del.monte); dwarf (ES: enano)]" : {kamintsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamona+gndr@n.m.+poss@te.][NRoot][=palm.tree.sp. (ES: pona, sp.de.palmera)]" : {kamona}
 | "[=kampona+gndr@n.m.+poss@te.][NRoot][=palm.tree.sp. (ES: pona, sp.de.palmera)]" : {kampona}
