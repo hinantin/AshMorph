@@ -1841,14 +1841,19 @@ define NRootPRQin [
 ! 
 | "[=kamona+gndr@n.m.+poss@te.][NRoot][=palm.tree.sp. (ES: pona, sp.de.palmera)]" : {kamona}
 | "[=kampona+gndr@n.m.+poss@te.][NRoot][=palm.tree.sp. (ES: pona, sp.de.palmera)]" : {kampona}
+# ---------------------------------------------------------------------
 ! 
 | "[=kamori+gndr@m.][NRoot][=star (ES: estrella)]" : {kamori}
+# ---------------------------------------------------------------------
 ! 
 | "[=kampan][NRoot][=subgroup.of.10.genetically.related.Arawak.languages.of.lowland.Peru (ES: Campa)]" : {kampan}
+# ---------------------------------------------------------------------
 ! 
 | "[=kanai+gndr@n.m.][NRoot][=tree.sp. (ES: tangarana, sp.de.árbol; sci.nm.: triplaris.americana)]" : {kanai}
+# ---------------------------------------------------------------------
 ! 
 | "[=kanari+gndr@m.+poss@ti.][NRoot][=common.piping-guan (sci.nm.: aburria.pipile, pipile.cumanensis); wild.turkey.sp. (ES: pava.del.monte); whistler.blue-necked.guan (guan.silbador.de.cuello.azul; sci.nm.: pipile.cumanensis)]" : {kanari}
+# ---------------------------------------------------------------------
 ! 
 | "[=kanarinke+~{'guan':kanari}{CL:/'snake':nke/}][NRoot][=venomous.viper.sp. (ES: serpiente; sci.nm.: imantodes.cenchoa.cenchoa)]" : {kanarinke}
 ! 
