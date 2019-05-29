@@ -1856,49 +1856,64 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=kanarinke+~{'guan':kanari}{CL:/'snake':nke/}][NRoot][=venomous.viper.sp. (ES: serpiente; sci.nm.: imantodes.cenchoa.cenchoa)]" : {kanarinke}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaniri+~kanir{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP 
 | "[=kaaniri+~kaanir{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
 | "[=kanire+~kanir{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+# ---------------------------------------------------------------------
 ! 
 | "[=kaniriapashaki+gndr@m.][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaniro+gndr@m.][NRoot][=white-bellied.parrot ([ka.ˈnɪ.ɾə]; ES: lorito.chiricles, papagayo.de.cabeza.negra; sci.nm.: pionites.leucogester)]" : {kaniro}
+# ---------------------------------------------------------------------
 ! 
 | "[=kairi+gndr@m.][NRoot][=tree-climbing.animal.sp.similar.in.apperance.to.an.anteater (ES: shivi)]" : {kairi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kairo+gndr@m.+poss@ti.][NRoot][=termite.sp. (ES: comején)]" : {kairo}
 | "[=kaero+gndr@m.+poss@ti.][NRoot][=termite.sp. (ES: comején)]" : {kaero}
 | "[=kahiro+gndr@m.+poss@ti.][NRoot][=termite.sp. (ES: comején)]" : {kahiro}
+# ---------------------------------------------------------------------
 ! 
 !| "[=kahemamento+inal@tsi.][NRoot][=bell (ES: campana)]" : {kahemamento} ! @section:noun@ 
+# ---------------------------------------------------------------------
 ! 
 | "[=kahereti][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: subfamilia.polybiinae, stelopolybia.sp., polibia.sp.)]" : {kahereti}
+# ---------------------------------------------------------------------
 ! 
 | "[=kanoha][NRoot][=high.part (ES: altura, parte.alta; PT: parte.alta); high-&-barren.hilltops]" : {kanoha}
+# ---------------------------------------------------------------------
 ! 
 | "[=kanohasati][NRoot][=(ashaninka).dweller.of.the.heights (ES: asháninka.de.la.altura, asháninka.altureño, asháninka.que.puebla.las.zonas.montañosas.y.accidentadas.de.la.selva.alta; PT: habitante.das.partes.altas)]" : {kanohasati}
 # Naro Enesati / =naro =ene -sati / 'I.am.a.dweller.of.the.Ene.river'
 | "[=enesati][NRoot][=ashaninka.who.lives.by/along.the.Ene.river, from.the.Ene (PT: habitante.das.partes.baixas,são.agricultores.e.produtores.de.cacau)]" : {enesati}
 | "[=tamposati][NRoot][=ashaninka.who.lives.by/along.the.Tambo.river, from.the.Tambo]" : {tamposati}
+# ---------------------------------------------------------------------
 ! 
 | "[=kantiri+gndr@n.m.][NRoot][=basket (ES: canasta)]" : {kantiri}
 | "[=kantire+gndr@n.m.][NRoot][=basket (ES: canasta)]" : {kantire} ! noyantire / no- =kantire / 1sg.poss- =basket / EN: 'my.basket', ES: 'mi.canasta' +voc.???
 | "[=kantziri+gndr@n.m.][NRoot][=basket (ES: canasta)]" : {kantziri}
 | "[=kantzire+gndr@n.m.][NRoot][=basket (ES: canasta)]" : {kantzire}
+# ---------------------------------------------------------------------
 ! 
 | "[=kantirinyoiriki][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {kantirinyoiriki}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaara][NRoot][=empty (ES: vacio)]" : {kaara}
 | "[=kahara][NRoot][=empty (ES: vacio)]" : {kahara}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaagashi+gndr@n.m.][NRoot][=trash, garbage (ES: basura); fallen/dead.leaves (ES: hojarasca)]" : {kaagashi}
 | "[=kahara+gndr@n.m.][NRoot][=trash, garbage (ES: basura)]" : {kahara}
 | "[=kaarashi+gndr@n.m.][NRoot][=trash, garbage (ES: basura); fallen/dead.leaves (ES: hojarasca)]" : {kaarashi}
 | "[=kaharashi+gndr@n.m.][NRoot][=trash, garbage (ES: basura)]" : {kaharashi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kapiro][NRoot][=bamboo.sp. (ES: paca, especie.de.bambú)]" : {kapiro}
+# ---------------------------------------------------------------------
 ! 
 # ----------------------------------------------
 # Arrows tips 
@@ -1927,57 +1942,78 @@ define NRootPRQin [
 # ----------------------------------------------
 ! 
 | "[=kapironkari][NRoot][=deer-like.demon (ES: peyari.transformado.en.un.venado)]" : {kapironkari}
+# ---------------------------------------------------------------------
 ! 
 | "[=kapeshi+gndr@m.+poss@ti.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci.nm.: nasua.nasua); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapeshi}
 | "[=kapishi+gndr@m.+poss@ti.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci.nm.: nasua.nasua); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapishi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kapotzi+gndr@n.m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {kapotzi}
 | "[=kapoti+gndr@n.m.][NRoot][=large.edible.larva.sp. (ES: sp.de.larva.grande.comestible)]" : {kapoti}
+# ---------------------------------------------------------------------
 ! 
 | "[=kapontso][NRoot][=dull/unsharpened.arrow (ES: flecha.sin.punta)]" : {kapontso}
+# ---------------------------------------------------------------------
 ! 
 | "[=karakaratzi][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {karakaratzi}
+# ---------------------------------------------------------------------
 ! 
 | "[=karapa+gndr@n.m.][NRoot][=communal.house.for.males (including.shamans/people_committed_to_the_service_of_the_fire_divinity)]" : {karapa}
 | "[=karapa+gndr@n.m.][NRoot][=communal.house (ES: casa.comunal)]" : {karapa}
+# ---------------------------------------------------------------------
 ! 
 | "[=karava+gndr@m.][NRoot][=river.frog.sp. (ES: sp.de.rana.del.río)]" : {karava}
 | "[=kaava+gndr@m.][NRoot][=river.frog.sp. (ES: sp.de.rana.del.río)]" : {kaava}
+# ---------------------------------------------------------------------
 ! 
 # kainipirotsa: vine.sp.used.in.the.preparation.of.an.anti-inflammatory.medicine; the.cure/medicine.is.made.from.the.bark.peeled.from.the.vine-and-applied.to.the.wound 
 | "[=kainipirotsa+gndr@n.m.][NRoot][=vine.sp. (ES: bejuco.para.las.fracturas, EN: vine)]" : {kainipirotsa}
+# ---------------------------------------------------------------------
 ! 
 | "[=kaento][NRoot][=tuber.sp. (it.grows.on.river/stream.banks; ES: sp.de.tubérculo)]" : {kaento}
+# ---------------------------------------------------------------------
 ! 
 | "[=karento+gndr@n.m.][NRoot][=liana.sp. (ES: bejuco, madreselva)]" : {karento}
 | "[=kainto+gndr@n.m.][NRoot][=liana.sp. (ES: bejuco, madreselva); herb.sp.]" : {kainto}
+# ---------------------------------------------------------------------
 ! 
 | "[=karentsare+gndr@m.+inal@ntsi.][NRoot][=phlegm (ES: flema)]" : {karentsare}
+# ---------------------------------------------------------------------
 ! 
 | "[=karinashi][NRoot][=painted/striped_leaf_at_the_base_of_its_edge.leaf]" : {karinashi}
+# ---------------------------------------------------------------------
 ! 
 | "[=kasankapanaro][NRoot][=poetry (ES: poesía)]" : {kasankapanaro}
+# ---------------------------------------------------------------------
 ! 
 | "[=kasonki+gndr@m.][NRoot][=tuber.sp. (it.is.used.to.treat.boils/furuncles; ES: tubérculo.contra.el.chupo/furúnculo)]" : {kasonki}
+# ---------------------------------------------------------------------
 ! 
 | "[=kasanto+gndr@n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
+# ---------------------------------------------------------------------
 ! 
 | "[=kashekari+gndr@m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashekari}
 | "[=kashikari+gndr@m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashikari}
+# ---------------------------------------------------------------------
 ! 
 | "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap (ES: savia.lechosa.del.árbol), sap]" : {kashi} ! N@->V
 | "[=kashi][NRoot][=semen (ES: esperma; PT: esperma)]" : {kashi}
 | "[=koche+inal@tsi.][NRoot][=semen (ES: esperma; PT: esperma)]" : {koche} ! 
+# ---------------------------------------------------------------------
 ! 
 # la luna fue un hombre que vivió en la tierra que luego se fue a vivir al cielo 
 # oyashirite osarentsi / ES: 'meses.del.año'
 | "[=kashiri+gndr@m.+poss@te.][NRoot][=moon (ES: luna); month (ES: mes); lunar.deity]" : {kashiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=kashivari][NRoot][=hairy.person (ES: persona.velluda, peludo)]" : {kashivari} 
+# ---------------------------------------------------------------------
 ! 
 | "[=kosho][NRoot][=cashew.tree.sp. (ES: anacardo, marañon; sci.nm.: anacardium.sp.)]" : {kosho} 
+# --------------------------------------------------------------------- 
 ! 
 | "[=kasonkati][NRoot][=deer/mule-shaped.devil]" : {kasonkati}
+# --------------------------------------------------------------------- 
 ! 
 | "[=katantori][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: plecostomus.sp.)]" : {katantori}
 ! 
