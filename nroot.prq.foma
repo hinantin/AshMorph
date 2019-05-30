@@ -2099,11 +2099,12 @@ define NRootPRQin [
 ! 
 | "[=kemi+gndr@n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]" : {kemi}
 | "[=kimi+gndr@n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]" : {kimi}
+# --------------------------------------------------------------------- 
 ! 
 | "[=kemishi+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {kemishi}
 | "[=kimishi+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {kimishi}
-! 
 # ------------------------------------------------------------ 
+! 
 | "[=kemito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kemito}
 | "[=kimito][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kimito}
 | "[=kemitoki][NRoot][=cacao]" : {kemitoki}
@@ -2139,6 +2140,7 @@ define NRootPRQin [
 ! 
 | "[=kempiro+gndr@m.][NRoot][=venomous.snake.sp., bushmaster (ES: shushupe, anaconda.color.marrón.claro.y.figuras.geométricas.romboides.en.negro.y.marrón; sci.nm.: lachesis.muta.muta)]" : {kempiro}
 | "[=kimpiro+gndr@m.][NRoot][=venomous.snake.sp., bushmaster (ES: shushupe, anaconda.color.marrón.claro.y.figuras.geométricas.romboides.en.negro.y.marrón; sci.nm.: lachesis.muta.muta)]" : {kimpiro}
+# --------------------------------------------------------------------- 
 ! 
 | "[=kempita+gndr@n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
 | "[=kimpita+gndr@n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kimpita}
