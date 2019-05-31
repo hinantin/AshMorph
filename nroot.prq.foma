@@ -2230,10 +2230,12 @@ define NRootPRQin [
 | "[=kentsori+poss@ti.][NRoot][=great.tinamou (sci.nm.: tinamus.major, tinamous.tao)]" : {kentsori}
 | "[=kinchori+poss@ti.][NRoot][=great.tinamou (sci.nm.: tinamus.major, tinamous.tao); NP]" : {kinchori}
 | "[=kenchori+poss@ti.][NRoot][=great.tinamou (sci.nm.: tinamus.major, tinamous.tao); NP]" : {kenchori}
+# --------------------------------------------------------------------- 
 ! 
 | "[=kepaye+gndr@n.m.][NRoot][=very_hard/thick.wood.sp. (ES: horcón, poste,, shungu, corazón.de.árbol, árbol.duro; PT: espécie.de.madeira.bem.dura)]" : {kepaye}
 | "[=kipaye+gndr@n.m.][NRoot][=very_hard/thick.wood.sp. (ES: horcón, poste,, shungu, corazón.de.árbol, árbol.duro; PT: espécie.de.madeira.bem.dura)]" : {kipaye}
 | "[=kipaya+gndr@n.m.][NRoot][=very_hard/thick.wood.sp. (ES: horcón, poste,, shungu, corazón.de.árbol, árbol.duro; PT: espécie.de.madeira.bem.dura)]" : {kipaya}
+# --------------------------------------------------------------------- 
 ! 
 ! iyepite / ES: 'su.bilis'
 ! noyepite / ES: 'mi.bilis'
@@ -2242,8 +2244,10 @@ define NRootPRQin [
 | "[=yepite+gndr@n.m.+inal@ntsi.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {yepite}
 | "[=yipite+gndr@n.m.+inal@ntsi.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {yipite}
 | "[=yipiti+gndr@n.m.+inal@ntsi.][NRoot][=(animal).bile, gall (ES: bilis.(de.animal), hiel)]" : {yipiti}
+# --------------------------------------------------------------------- 
 ! 
 | "[=kepityoki][NRoot][=person's.name; NP]" : {kepityoki}
+# --------------------------------------------------------------------- 
 ! 
 | "[=kepya+gndr@n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepya}
 | "[=kepea+gndr@n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepea}
