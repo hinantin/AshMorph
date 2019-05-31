@@ -15,7 +15,7 @@ define V=S=CL [
 | "[--][-tsantsa][+VERB.CL:length][=long (ES: largo);length]" : "@EP"{tsantsa} ! @CL 
 | "[--][-tsantsana][+VERB.CL:wide][=wide]" : "@EP"{tsantsana} ! @CL 
 | "[--][-pa][+VERB.CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : "@EP"{pa} ! @CL  
-| "[--][-pontso][+VERB.CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point]" : "@EP"{pontso} ! @CL  
+| "[--][-pontso][+VERB.CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point, sharpless.edge/point]" : "@EP"{pontso} ! @CL  
 | "[--][-patsa][+VERB.CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : "@EP"{patsa} ! @CL 
 | "[--][-nki][+VERB.CL:snake][=snake.sp.]" : "@EP"{nki} ! @CL 
 | "[--][-nke][+VERB.CL:snake][=snake.sp.]" : "@EP"{nke} ! @CL 
