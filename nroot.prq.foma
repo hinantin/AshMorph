@@ -22,7 +22,6 @@
 #    group classifiers.
 
 define NRootPRQin [
-! 
   "[=ani+gndr@m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
 | "[=aani+gndr@m.][NRoot][=grandseer, grandfather (kin.of.a.male); grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
 | "[=aane+gndr@m.][NRoot][=grandseer; grandfather (kin.of.a.male; ES: abuelo); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
@@ -2253,12 +2252,10 @@ define NRootPRQin [
 | "[=kepea+gndr@n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepea}
 | "[=kepiya+gndr@n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepiya}
 | "[=kepiyashi+gndr@n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]" : {kepiyashi}
-# --------------------------------------------------------------------- 
 ! 
 | "[=kepiari+gndr@n.m.][NRoot][=cubé, venomous.root.sp. (ES: cubé, sp.de.raíz.venenosa); poison (ES: veneno, tóxico.natural); venomous (ES: venenoso)]" : {kepiari}
 | "[=kepiyari+gndr@n.m.][NRoot][=cubé, venomous.root.sp. (ES: cubé, sp.de.raíz.venenosa); poison (ES: veneno, tóxico.natural); venomous (ES: venenoso)]" : {kepiyari}
 | "[=kipiyari+gndr@n.m.][NRoot][=cubé, venomous.root.sp. (ES: cubé, sp.de.raíz.venenosa); poison (ES: veneno, tóxico.natural); venomous (ES: venenoso)]" : {kipiyari}
-# --------------------------------------------------------------------- 
 ! 
 | "[=kipaori][NRoot][=small-and-very_thin.fish.sp. (ES: boquichico, pez.ratón; pez.chico.y.muy.delgado; sci.nm.: parodon.sp.)]" : {kipaori}
 | "[=kipavori][NRoot][=small-and-very_thin.fish.sp. (ES: boquichico, pez.ratón; pez.chico.y.muy.delgado; sci.nm.: parodon.sp.)]" : {kipavori}
@@ -4918,9 +4915,9 @@ define NRootPRQin [
 | "[=shintake][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintake}
 ! 
 | "[=shinto+gndr@n.m.+inal@tsi.][NRoot][=daughter (kin.of.a.fe/male)]" : {shinto}
-| "[=shintyo~shin{E.PAL.:ty}o+gndr@n.m.+inal@tsi.][NRoot][=daughter.(with.affection) (kin.of.a.fe/male)]" : {shintyo}
+| "[=shintyo+~shin{E.PAL.:ty}o+gndr@n.m.+inal@tsi.][NRoot][=daughter.(with.affection) (kin.of.a.fe/male)]" : {shintyo}
 | "[=ishinto+gndr@n.m.][NRoot][=daughter (kin.of.a.fe/male)]" : {ishinto} # nishinto, revise inal.??
-| "[=ishintyo~ishin{E.PAL.:ty}o+gndr@n.m.][NRoot][=daughter.(with.affection) (kin.of.a.fe/male)]" : {ishintyo} # nishintyo, revise inal.??
+| "[=ishintyo+~ishin{E.PAL.:ty}o+gndr@n.m.][NRoot][=daughter.(with.affection) (kin.of.a.fe/male)]" : {ishintyo} # nishintyo, revise inal.??
 ! 
 | "[=shinti][NRoot][=topa-like.tree.sp. (ES: árbol.parecido.a.la.topa)]" : {shinti} 
 ! 
@@ -5265,7 +5262,7 @@ define NRootPRQin [
 | "[=tziho+gndr@m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tziho}
 | "[=tiho+gndr@m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tiho}
 ! 
-| "[=tzisoniro~tziso{CL:/'bad,evil':niro/}][NRoot][=falcon.sp., black.caracara (sci.nm.: daptrius.ater)]" : {tzisoniro}
+| "[=tzisoniro+~tziso{CL:/'bad,evil':niro/}][NRoot][=falcon.sp., black.caracara (sci.nm.: daptrius.ater)]" : {tzisoniro}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=tsirishi][NRoot][=person's.name; plant.sp.]" : {tsirishi}
@@ -5312,8 +5309,8 @@ define NRootPRQin [
 ! 
 | "[=tomi+gndr@m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]" : {tomi} ! N@->V 
 | "[=toomi+gndr@m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {toomi}
-| "[=tyomi~{E.PAL.:ty}omi+gndr@m.+inal@tsi.][NRoot][=son.(with.affection) (kin.of.a.male)]" : {tyomi}
-| "[=tiomi~{E.PAL.:ti}omi+gndr@m.+inal@tsi.][NRoot][=son.(with.affection) (kin.of.a.male)]" : {tiomi}
+| "[=tyomi+~{E.PAL.:ty}omi+gndr@m.+inal@tsi.][NRoot][=son.(with.affection) (kin.of.a.male)]" : {tyomi}
+| "[=tiomi+~{E.PAL.:ti}omi+gndr@m.+inal@tsi.][NRoot][=son.(with.affection) (kin.of.a.male)]" : {tiomi}
 ! 
 | "[=tyoki+inal@tsi.][NRoot][=buttock (ES: nalga); external.bottom.part (ES: parte.inferior.externa)]" : {tyoki}
 ! 
@@ -5796,7 +5793,7 @@ define NRootPRQin [
 ! 
 # ------------------------------------------------------------------- 
 | "[=tonche+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tonche}
-| "[=tunche+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunche}<e
+| "[=tunche+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunche}
 | "[=tunchi+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunchi}
 # ------------------------------------------------------------------- 
 ! 
@@ -5883,7 +5880,7 @@ define NRootPRQin [
 | "[=yaaki+gndr@n.m.+inal@ntsi.][NRoot][=tear (ES: lágrima)]" : {yaaki}
 | "[=yaki+gndr@n.m.+inal@ntsi.][NRoot][=tear (ES: lágrima)]" : {yaki}
 # nojaqui / nohaki / no- =ha -ki / 1sg.poss- =cl:liquid -cl:small,round(ed) 
-| "[=haki~{CL:/liquid:ha/}{CL:/'small,round(ed)':ki/}][NRoot][=tear (ES: lágrima)]" : {haki} ! @VCMP 
+| "[=haki+~{CL:/liquid:ha/}{CL:/'small,round(ed)':ki/}][NRoot][=tear (ES: lágrima)]" : {haki} ! @VCMP 
 ! 
 | "[=yampantsa+poss@te.][NRoot][=song]" : {yampantsa}
 ! 
@@ -5959,7 +5956,7 @@ define NRootPRQin [
 | "[niyanki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {niyanki}
 # nonianquijataque / noniankihatake / no- =nianki -ha -t -ak -e / 1sg.s- =to.go.through.the.middle.of.sth. -cl:liquid -ep -prf -irr / ES: 'Yo.voy.por.el.centro.del.río,no.por.las.orillas'  
 | "[=nianki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {nianki} ! N@->V::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)] 
-| "[=niyankia~niyanki{CL:/'liquid':a/}+gndr@n.m.][NRoot][=main.channel.of.the.river (ES: canal.principal.del.río)]" : {niyankia}
+| "[=niyankia+~niyanki{CL:/'liquid':a/}+gndr@n.m.][NRoot][=main.channel.of.the.river (ES: canal.principal.del.río)]" : {niyankia}
 ! 
 | "[=kashetani][NRoot][=half (ES: mitad); piece (ES: pedazo)]" : {kashetani}
 | "[=kashetaeni][NRoot][=half (ES: mitad); piece (ES: pedazo)]" : {kashetaeni}
