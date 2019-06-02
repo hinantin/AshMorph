@@ -2332,12 +2332,16 @@ define NRootPRQin [
 ! 
 # la avispa 'kevinti' anida haciendo un hueco en el suelo, a donde introduce los cuerpos de los insectos que caza.
 | "[=kevinti][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: familia.sphecinae, género.sphex)]" : {kevinti}
+# ---------------------------------------------------------------------------
 ! 
 | "[=Grecia/Kireshia][NRoot][=Greece]" : {kireshia}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kiripata+poss@ri.][NRoot][=ballast (ES: lastre)]" : {kiripata}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kiripenaki][NRoot][=armadillo.sp. (ES: armadillo; sci.nm.: dasypus.novemcinctus)]" : {kiripenaki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kirishipiti][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: loricaria.sp.)]" : {kirishipiti}
 | "[=krishpi][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: loricaria.sp.)]" : {krishpi} ! to be checked !!! 
