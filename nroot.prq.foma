@@ -2301,17 +2301,18 @@ define NRootPRQin [
 | "[=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiri} ! @VCMP 
 | "[=kirii][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
 | "[=kiiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kiiri}
-
 ! 
 | "[=kiriheti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero; sci.nm.: piculus.rubiginosus)]" : {kiriheti}
 ! 
 | "[=kirikanto+gndr@n.m.+inal@tsi.][NRoot][=spindle (ES: palito.delgado.de.chonta.para.hilar)]" : {kirikanto}
 ! 
 | "[=kiriki][NRoot][=classical.harpoon-like.arrow_tip (ES: punta.de.flecha.hecha.de.chonta)]" : {kiriki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kiri+gndr@n.m.+inal@tsi.][NRoot][=nose (ES: nariz); nostrils]" : {kiri}
 | "[=kirina+inal@tsi.][NRoot][=nose (ES: nariz)]" : {kirina} ! @VCMP
 | "[=kirimashi][NRoot][=nose (ES: nariz)]" : {kirimashi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kiriiki+gndr@m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriiki}
 | "[=kiriki+gndr@m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriki}
@@ -2319,12 +2320,15 @@ define NRootPRQin [
 | "[=kireki+gndr@m.+poss@te.][NRoot][=money (ES: dinero; QU: qullqi; PT: dinheiro)]" : {kireki} ! @section:noun@ 
 | "[=korike+gndr@m.][NRoot][=money (ES: dinero)]" : {korike}
 | "[=koriki+gndr@m.][NRoot][=money (ES: dinero)]" : {koriki}
+# ---------------------------------------------------------------------------
 ! 
 # kirompiawo / kirompiavo / =kirompi -a -vo / =bagre-like.fish.sp. -cl:liquid -nmz / EN: 'ravine.where.the_kirompi-fish.is.abundant'; ES: 'quebrada,donde.abunda.el.kirompi' 
 # pez.de.agua.dulce (siluriforme) que.se.mete.por.los.orificios.genitales/excretores.alojándose.en.estos.para.alimentarse.de.la.sangre.de.su.huesped. 
 | "[=kirompi][NRoot][=bagre-like.fish.sp. (ES: canero, pez.vampiro; sci.nm.: pygidium.sp.; ES: sp.de.pez.parecido.al.bagre)]" : {kirompi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kenashiri+sem@color.][NRoot][=green (ES: verde)]" : {kenashiri}
+# ---------------------------------------------------------------------------
 ! 
 # la avispa 'kevinti' anida haciendo un hueco en el suelo, a donde introduce los cuerpos de los insectos que caza.
 | "[=kevinti][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: familia.sphecinae, género.sphex)]" : {kevinti}
