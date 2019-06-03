@@ -2376,24 +2376,30 @@ define NRootPRQin [
 | "[=kishi][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {kishi} ! @CMP 
 | "[=keshii][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {keshii}
 | "[=keshi][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {keshi}
+# ---------------------------------------------------------------------------
 ! 
 !| "[=keshiisatzi+gndr@m.][NRoot][=grasslander (ES: pajonalino)]" : {keshiisatzi} ! @section:noun@ 
 !| "[=kishiisatzi+gndr@m.][NRoot][=grasslander (ES: pajonalino)]" : {kishiisatzi} ! @section:noun@ 
+# ---------------------------------------------------------------------------
 ! 
 | "[=kishiri+gndr@m.][NRoot][=comb (ES: peine)]" : {kishiri}
 | "[=kishire+gndr@m.][NRoot][=comb (ES: peine)]" : {kishire}
+# ---------------------------------------------------------------------------
 ! 
 | "[=keshito+gndr@m.][NRoot][=cuckoo.sp. (ES: sp.de.cuco; sci.nm.: cyanocorax.yncas)]" : {keshito}
 # el escarabajo 'keshito' se desarrolla en la caña brava.
 | "[=keshito][NRoot][=edible.beetle.sp. (ES: sp.de.escarabajo.comestible; sci.nm.: familia.scarabaedae, subfamilia.dynastinae)]" : {keshito}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kisoitokiri][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: creagrutus.sp.)]" : {kisoitokiri}
 | "[=chirinti][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: synbranchus.sp.)]" : {chirinti}
 | "[=kehikiriki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kehikiriki}
 | "[=shintyoiroki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiroki}
 | "[=shintyoiriroki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiriroki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kisontainari+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari} ! @CMP @section:noun@ 
+# ---------------------------------------------------------------------------
 ! 
 | "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
 | "[=kitaeriki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitaeriki}
