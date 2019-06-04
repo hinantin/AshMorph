@@ -1099,7 +1099,8 @@ define VRootPRQin [
 | "[=komintsa+INF@/EP:t/aantsi.][VRoot][=to.hunt (ES: cazar)]" : {komintsa}
 | "[=komentsa][VRoot][=to.hunt (ES: cazar)]" : {komentsa}
 ! 
-| "[=kovity+INF@antsi.][VRoot][=to.lack.sth., to.be.lacking (ES: faltar)]" : {kovity}
+! kov~kovity ?
+| "[=kovity+INF@antsi.+A-Conj@mid.v.][VRoot][=to.lack.sth., to.be.lacking (ES: faltar)]" : {kovity}
 ! 
 | "[=koya][VRoot][=to.gather]" : {koya}
 | "[=koye+INF@/EP:t/VC.][VRoot][=to.gather; to.harvest.manually]" : {koye}
