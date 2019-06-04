@@ -2403,12 +2403,14 @@ define NRootPRQin [
 ! 
 | "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
 | "[=kitaeriki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitaeriki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kitaiteri][NRoot][=day (ES: día; PT: dia; QU: p'unchay, p'unchaw)]" : {kitaiteri} ! @CMP @section:noun@ 
 | "[=kitaeteri][NRoot][=day (ES: día)]" : {kitaeteri}
 | "[=kitehiri][NRoot][=day (ES: día)]" : {kitehiri}
 | "[=kiteheri][NRoot][=day (ES: día)]" : {kiteheri}
 | "[=kitaite+gndr@n.m.][NRoot][=day (ES: día)]" : {kitaite}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kitamaro+gndr@n.m.+sem@color.][NRoot][=white]" : {kitamaro} ! N@->V::[to.be.white]
 | "[=kitamaaro+gndr@n.m.+sem@color.][NRoot][=white]" : {kitamaaro} ! N@->V::[to.be.white]
@@ -2418,8 +2420,10 @@ define NRootPRQin [
 | "[=kitamarori+sem@color.][NRoot][=white]" : {kitamarori}
 ! 
 | "[=kitamari][NRoot][=white_donkey-like.spirit]" : {kitamari}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kitamapetari][NRoot][=notebook (ES: cuaderno)]" : {kitamapetari}
+# ---------------------------------------------------------------------------
 ! 
 # colors
 | "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo)]" : {kiteri} ! N@->V::[to.be.yellow (ES: ponerse.amarillento)] 
@@ -2427,13 +2431,17 @@ define NRootPRQin [
 | "[=kityonkari+sem@color.][NRoot][=red (ES: rojo)]" : {kityonkari}
 | "[=kiraari+sem@color.][NRoot][=red (ES: rojo)]" : {kiraari}
 | "[=kisaari+sem@color.][NRoot][=black (ES: negro)]" : {kisaari}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kitekirishi][NRoot][=rattlesnake.sp.]" : {kitekirishi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kitepari][NRoot][=chestnut-tipped.toucanet (sci.nm.: aulacorhynchus.derbianus, pteroglossus.mariae)]" : {kitepari}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kito+gndr@m.][NRoot][=shrimp (ES: camarón)]" : {kito}
 | "[=kitoo+gndr@m.][NRoot][=shrimp (ES: camarón)]" : {kitoo}
+# ---------------------------------------------------------------------------
 ! 
 # kitochempiawo / kitochempiavo / =kitochempi -a -vo / =shrimp.sp. -cl:liquid -nmz / EN: 'ravine.where.the_kitochempi-shrimp.is.abundant'; ES: 'quebrada.donde.abunda.el.kitochempi'  
 | "[=kitochempi][NRoot][=shrimp.sp. (ES: sp.de.camarón); shrimp.with.agile.legs (ES: camarón.con.patas.ágiles)]" : {kitochempi}
@@ -2443,6 +2451,7 @@ define NRootPRQin [
 | "[=kitoche+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitoche}
 | "[=kitochee+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitochee}
 | "[=kitoochii+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitoochii}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kitoki][NRoot][=person's.name, NP]" : {kitoki}
 ! 
