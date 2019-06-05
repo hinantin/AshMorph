@@ -4360,13 +4360,15 @@ define NRootPRQin [
 ! 
 | "[=rasaro][NRoot][=person's.name]" : {rasaro}
 ! 
-| "[=renti+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {renti}
-| "[=reenti+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {reenti}
-| "[=rentzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {rentzi}
-| "[=rintzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {rintzi}
-| "[=irenti+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {irenti}
-| "[=irentzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
-| "[=irintzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
+# --------------------------------------------------------------------------
+! 
+| "[=renti+gndr@m.+kin@male.ego][NRoot][=brother]" : {renti}
+| "[=reenti+gndr@m.+kin@male.ego][NRoot][=brother]" : {reenti}
+| "[=rentzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {rentzi}
+| "[=rintzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {rintzi}
+| "[=irenti+gndr@m.+kin@male.ego][NRoot][=brother]" : {irenti}
+| "[=irentzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {irentzi}
+| "[=irintzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {irintzi}
 ! 
 # --------------------------------------------------------------------------
 # Vocative form 
