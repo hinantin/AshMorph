@@ -157,14 +157,14 @@ define NRootPRQin [
 # ---------------------------------------------------------------  
 ! 
 # atyo / ES: 'cuñada.(habla.de.mujer)' 
-| "[=atyo+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego; ES: cuñada)]" : {atyo} 
-| "[=atyoeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyoeni} 
-| "[=atyoini+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {atyoini} 
-| "[=ateo+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {ateo} 
-| "[=ayo+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]" : {ayo} 
-| "[=ayini+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayini} 
-| "[=ayiini+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.female)]" : {ayiini} 
-| "[=natoto+voc@1SG:2SG:3SG.][NRoot][=sister.in.law (kin.of.a.female)]" : {natoto}
+| "[=atyo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {atyo} 
+| "[=atyoeni+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {atyoeni} 
+| "[=atyoini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {atyoini} 
+| "[=ateo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {ateo} 
+| "[=ayo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {ayo} 
+| "[=ayini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {ayini} 
+| "[=ayiini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {ayiini} 
+| "[=natoto+voc@1SG:2SG:3SG.+kin@fem.ego][NRoot][=sister.in.law]" : {natoto}
 # ---------------------------------------------------------------  
 ! 
 | "[=ayoori+gndr@m.][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayoori} 
