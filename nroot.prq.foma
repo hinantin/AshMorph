@@ -17,18 +17,19 @@
 # 4: +voc@N., +voc@nposs ?
 #    vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 #    It will be used as follows 1SG:2SG , etc. 
-# 5: +kin@fem.ego , +kin@male.ego
+# 5: +kin@fem.ego (EN: kin.of.a.female) 
+#    +kin@male.ego (EN: kin.of.a.male) 
 # 6: +sem@healer.
 #    group classifiers.
 
 define NRootPRQin [
-  "[=ani+gndr@m.][NRoot][=grandpa, grandfather (kin.of.a.male)]" : {ani} ! N@->V @VCMP 
-| "[=aani+gndr@m.][NRoot][=grandseer, grandfather (kin.of.a.male); grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
-| "[=aane+gndr@m.][NRoot][=grandseer; grandfather (kin.of.a.male; ES: abuelo); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
+  "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather]" : {ani} ! N@->V @VCMP 
+| "[=aani+gndr@m.+kin@male.ego][NRoot][=grandseer, grandfather; grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
+| "[=aane+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
 ! 
 | "[=aaniri+gndr@m.+inal@ntsi.][NRoot][=orphan (ES: huérfano)]" : {aaniri} 
 ! 
-| "[=aapi+gndr@m.+poss@ti.][NRoot][=elder, grandfather (kin.of.a.female, fem.ego)]" : {aapi} ! N@->V 
+| "[=aapi+gndr@m.+poss@ti.+kin@fem.ego][NRoot][=elder, grandfather]" : {aapi} ! N@->V 
 ! 
 | "[=achakova+gndr@m.][NRoot][=fish.sp. (ES: pez)]" : {achakova} 
 ! 
