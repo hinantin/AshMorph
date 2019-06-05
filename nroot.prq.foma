@@ -3412,20 +3412,20 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------
 # Vocative form 
-| "[=nyotsi/ñotsi+gndr@m.+voc@N.][NRoot][=son.in.law (ES: yerno); nephew (kin.of.a.male, male.ego)]" : {nyotsi}
-| "[=nyotzi/ñotzi+gndr@m.+voc@N.][NRoot][=son.in.law (ES: yerno); nephew (kin.of.a.male, male.ego)]" : {nyotzi}
-| "[=nioti+gndr@m.+voc.][NRoot][=son.in.law (ES: yerno); nephew (kin.of.a.male, male.ego)]" : {nioti}
-| "[=nyoti/ñoti+gndr@m.+voc.][NRoot][=son.in.law (ES: yerno); nephew  (kin.of.a.male, male.ego)]" : {nyoti}
-| "[=nyooti/ñooti+gndr@m.+voc.][NRoot][=son.in.law (male.ego; ES: yerno); nephew  (kin.of.a.male, male.ego)]" : {nyooti}
+| "[=nyotsi/ñotsi+gndr@m.+voc@N.+kin@male.ego][NRoot][=son.in.law (ES: yerno); nephew]" : {nyotsi}
+| "[=nyotzi/ñotzi+gndr@m.+voc@N.+kin@male.ego][NRoot][=son.in.law (ES: yerno); nephew]" : {nyotzi}
+| "[=nioti+gndr@m.+voc.+kin@male.ego][NRoot][=son.in.law (ES: yerno); nephew]" : {nioti}
+| "[=nyoti/ñoti+gndr@m.+voc.+kin@male.ego][NRoot][=son.in.law (ES: yerno); nephew]" : {nyoti}
+| "[=nyooti/ñooti+gndr@m.+voc.+kin@male.ego][NRoot][=son.in.law (ES: yerno); nephew]" : {nyooti}
 ! 
-| "[=tine+poss@ri.][NRoot][=son.in.law (kin.of.a.fe/male, fe/male.ego)]" : {tine} 
+| "[=tine+poss@ri.+kin@fe/male.ego][NRoot][=son.in.law]" : {tine} 
 ! 
 | "[=tsineri+gndr@m.+voc@1SG:2SG:3SG:1PL.][NRoot][=son.in.law; nephew]" : {tsineri}
 | "[=tzineri+gndr@m.+voc@1SG:2SG:3SG:1PL.][NRoot][=son.in.law; nephew]" : {tzineri}
 | "[=tsiniri+gndr@m.+voc.][NRoot][=son.in.law; nephew]" : {tsiniri}
 ! 
-| "[=tzineri][NRoot][=brother/sister's.son (kin.of.a.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tzineri} 
-| "[=tsineri][NRoot][=brother/sister's.son (kin.of.a.fe/male, fe/male.ego; ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tsineri} 
+| "[=tzineri+kin@fe/male.ego][NRoot][=brother/sister's.son (ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tzineri} 
+| "[=tsineri+kin@fe/male.ego][NRoot][=brother/sister's.son (ES: sobrino, hijo.de.la.hermano/a.del.varón/mujer)]" : {tsineri} 
 ! 
 | "[=tzineri+gndr@m.][NRoot][=daughter's.husband (ES: yerno, esposo.de.la.hija)]" : {tzineri} 
 | "[=tsineri+gndr@m.][NRoot][=daughter's.husband (ES: yerno, esposo.de.la.hija)]" : {tsineri} 
