@@ -66,13 +66,13 @@ define NRootPRQin [
 | "[=aravori][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {aravori} 
 # ---------------------------------------------------------------------
 # Vocative form
-| "[=aari+gndr@m.][NRoot][=brother (kin.of.a.female, fem.ego; ES: hermano.de.mujer)]" : {aari} 
-| "[=ari+gndr@m.][NRoot][=brother (kin.of.a.female, fem.ego; ES: hermano.de.mujer)]" : {ari} 
+| "[=aari+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]" : {aari} 
+| "[=ari+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]" : {ari} 
 ! 1st, 2nd, 3rd person
-| "[=hari+poss@ri][NRoot][=brother (kin.of.a.female, fem.ego)]" : {hari}
+| "[=hari+poss@ri+kin@fem.ego][NRoot][=brother]" : {hari}
 # ---------------------------------------------------------------------
-| "[=yaya+gndr@m.][NRoot][=brother (kin.of.a.female)]" : {yaya}
-| "[=haihi+gndr@m.][NRoot][=brother (kin.of.a.female)]" : {haihi}
+| "[=yaya+gndr@m.+kin@fem.ego][NRoot][=brother]" : {yaya}
+| "[=haihi+gndr@m.+kin@fem.ego][NRoot][=brother]" : {haihi}
 # ---------------------------------------------------------------------
 ! 
 | "[=Aroshi][NRoot][=person's.name; legendary.Ashaninka.that.never.died (ES: Ashaninka.legendario.que.nunca.moría)]" : {aroshi}
