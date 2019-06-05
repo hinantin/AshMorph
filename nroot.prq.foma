@@ -4371,17 +4371,17 @@ define NRootPRQin [
 # --------------------------------------------------------------------------
 # Vocative form 
 ! 1st person ?
-| "[=rento+gndr@n.m.+inal@tsi.][NRoot][=sister (kin.of.a.female)]" : {rento}
-| "[=reento+gndr@n.m.+inal@tsi.][NRoot][=sister (kin.of.a.female)]" : {reento}
-| "[=irento+gndr@n.m.][NRoot][=sister (kin.of.a.female)]" : {irento}
-| "[=ireento+gndr@n.m.][NRoot][=sister (kin.of.a.female)]" : {ireento}
-| "[=irinto+gndr@n.m.][NRoot][=sister (kin.of.a.female)]" : {irinto}
-| "[=irintyo~irin{E.PAL.:ty}o+gndr@n.m.][NRoot][=little.sister (kin.of.a.female)]" : {irintyo}
+| "[=rento+gndr@n.m.+inal@tsi.+kin@fem.ego][NRoot][=sister]" : {rento}
+| "[=reento+gndr@n.m.+inal@tsi.+kin@fem.ego][NRoot][=sister]" : {reento}
+| "[=irento+gndr@n.m.+kin@fem.ego][NRoot][=sister]" : {irento}
+| "[=ireento+gndr@n.m.+kin@fem.ego][NRoot][=sister]" : {ireento}
+| "[=irinto+gndr@n.m.+kin@fem.ego][NRoot][=sister]" : {irinto}
+| "[=irintyo~irin{E.PAL.:ty}o+gndr@n.m.+kin@fem.ego][NRoot][=little.sister]" : {irintyo}
 ! 
-| "[=entyo+gndr@n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]" : {entyo}
-| "[=eentyo+gndr@n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]" : {eentyo}
-| "[=iintyo+gndr@n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]" : {iintyo} ! revise! 
-| "[=eentio+gndr@n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.; daughter.of.the.mother's.sister)]" : {eentio}
+| "[=entyo+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin]" : {entyo}
+| "[=eentyo+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin]" : {eentyo}
+| "[=iintyo+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin]" : {iintyo} ! revise! 
+| "[=eentio+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin (EN: daughter.of.the.mother's.sister)]" : {eentio}
 # --------------------------------------------------------------------------
 ! 
 | "[=reloj/riro+poss@te.][NRoot][=watch (ES: reloj)]" : {riro}
