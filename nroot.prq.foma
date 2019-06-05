@@ -3894,12 +3894,14 @@ define NRootPRQin [
 | "[=patintoki+gndr@n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patintoki}
 ! 
 | "[=pava+gndr@m.+poss@ni.][NRoot][=solar/benevolent.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father]" : {pava}
+# ---------------------------------------------------------------------------- 
 ! 
-| "[=pavaeni+gndr@m.][NRoot][=uncle (kin.of.a.female, fem.ego; ES: tío.(de.mujer))]" : {pavaeni}
-| "[=pavaini+gndr@m.][NRoot][=uncle (kin.of.a.female, fem.ego; ES: tío.(de.mujer))]" : {pavaini}
-| "[=pavaahi+gndr@m.][NRoot][=uncle (kin.of.a.female, fem.ego; ES: tío.(de.mujer))]" : {pavaahi}
+| "[=pavaeni+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaeni}
+| "[=pavaini+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaini}
+| "[=pavaahi+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaahi}
 ! 
-| "[=pavachori+gndr@m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]" : {pavachori}
+| "[=pavachori+gndr@m.+poss@ti.+kin@male.ego][NRoot][=uncle]" : {pavachori}
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=paviro+gndr@n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {paviro}
 | "[=pampeero+gndr@n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {pampeero}
