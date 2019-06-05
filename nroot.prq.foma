@@ -19,7 +19,7 @@
 #    It will be used as follows 1SG:2SG , etc. 
 # 5: +kin@fem.ego (EN: kin.of.a.female; ES: parentela.de.mujer, ….habla.de.mujer; PT: parentes.de.uma.fêmea) 
 #    +kin@male.ego (EN: kin.of.a.male; ES: parentela.de.varón, ….habla.de.varón; PT: parentes.de.um.homem) 
-#    +kin@fe/male.ego 
+#    +kin@fe/male.ego (EN: kin.of.a.fe/male) 
 # 6: +sem@healer.
 #    group classifiers.
 
@@ -304,10 +304,10 @@ define NRootPRQin [
 | "[=antyashipavo+gndr@n.m.][NRoot][=elderly.woman, old.woman]" : {antyashipavo}
 # ------------------------------------------------------------------
 ! 
-| "[=apa+gndr@m.][NRoot][=father (kin.of.a.fe/male)]" : {apa}
-| "[=paa+gndr@m.][NRoot][=father (kin.of.a.fe/male)]" : {paa}
-| "[=paapa+gndr@m.][NRoot][=father (kin.of.a.fe/male)]" : {paapa}
-| "[=ariri+gndr@m.][NRoot][=father (kin.of.a.fe/male)]" : {ariri}
+| "[=apa+gndr@m.+kin@fe/male.ego][NRoot][=father (kin.of.a.fe/male)]" : {apa}
+| "[=paa+gndr@m.+kin@fe/male.ego][NRoot][=father (kin.of.a.fe/male)]" : {paa}
+| "[=paapa+gndr@m.+kin@fe/male.ego][NRoot][=father (kin.of.a.fe/male)]" : {paapa}
+| "[=ariri+gndr@m.+kin@fe/male.ego][NRoot][=father (kin.of.a.fe/male)]" : {ariri}
 # ------------------------------------------------------------------
 ! 
 | "[=aparo][NRoot][=one]" : {aparo}
