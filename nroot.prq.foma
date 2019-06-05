@@ -304,10 +304,10 @@ define NRootPRQin [
 | "[=antyashipavo+gndr@n.m.][NRoot][=elderly.woman, old.woman]" : {antyashipavo}
 # ------------------------------------------------------------------
 ! 
-| "[=apa+gndr@m.+kin@fe/male.ego][NRoot][=father (kin.of.a.fe/male)]" : {apa}
-| "[=paa+gndr@m.+kin@fe/male.ego][NRoot][=father (kin.of.a.fe/male)]" : {paa}
-| "[=paapa+gndr@m.+kin@fe/male.ego][NRoot][=father (kin.of.a.fe/male)]" : {paapa}
-| "[=ariri+gndr@m.+kin@fe/male.ego][NRoot][=father (kin.of.a.fe/male)]" : {ariri}
+| "[=apa+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {apa}
+| "[=paa+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {paa}
+| "[=paapa+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {paapa}
+| "[=ariri+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {ariri}
 # ------------------------------------------------------------------
 ! 
 | "[=aparo][NRoot][=one]" : {aparo}
@@ -517,9 +517,9 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 ! grandpa, grandfather, grandparents
-| "[=charine+gndr@m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]" : {charine} ! N@->V
-| "[=chaine+gndr@m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {chaine} ! N@->V
-| "[=charini+gndr@m.+poss@te.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]" : {charini} ! N@->V ! is te as a possessive correct ????
+| "[=charine+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent; grandson (ES: nieto)]" : {charine} ! N@->V
+| "[=chaine+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent]" : {chaine} ! N@->V
+| "[=charini+gndr@m.+poss@te.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent]" : {charini} ! N@->V ! is te as a possessive correct ????
 # ------------------------------------------------------------------
 ! 
 | "[=chariha][NRoot][=cast_net (ES: atarraya, red), throw_net, circular.net.with.small.weights.distributed.around.its.edge (ES: tarrafa)]" : {chariha}
