@@ -17,8 +17,8 @@
 # 4: +voc@N., +voc@nposs ?
 #    vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 #    It will be used as follows 1SG:2SG , etc. 
-# 5: +kin@fem.ego (EN: kin.of.a.female; ES: parentela.de.mujer; PT: parentes.de.uma.fêmea) 
-#    +kin@male.ego (EN: kin.of.a.male; ES: parentela.de.varón; PT: parentes.de.um.homem) 
+# 5: +kin@fem.ego (EN: kin.of.a.female; ES: parentela.de.mujer, ….habla.de.mujer; PT: parentes.de.uma.fêmea) 
+#    +kin@male.ego (EN: kin.of.a.male; ES: parentela.de.varón, ….habla.de.varón; PT: parentes.de.um.homem) 
 # 6: +sem@healer.
 #    group classifiers.
 
