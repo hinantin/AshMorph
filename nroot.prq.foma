@@ -5357,10 +5357,10 @@ define NRootPRQin [
 | "[=tokori+poss@ti.][NRoot][=armadillo.sp.]" : {tokori}
 | "[=tyokori+poss@ti.][NRoot][=armadillo.sp.]" : {tyokori}
 ! 
-| "[=tomi+gndr@m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]" : {tomi} ! N@->V 
-| "[=toomi+gndr@m.+inal@tsi.][NRoot][=son (kin.of.a.male)]" : {toomi}
-| "[=tyomi+~{E.PAL.:ty}omi+gndr@m.+inal@tsi.][NRoot][=son.(with.affection) (kin.of.a.male)]" : {tyomi}
-| "[=tiomi+~{E.PAL.:ti}omi+gndr@m.+inal@tsi.][NRoot][=son.(with.affection) (kin.of.a.male)]" : {tiomi}
+| "[=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son]" : {tomi} ! N@->V 
+| "[=toomi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son]" : {toomi}
+| "[=tyomi+~{E.PAL.:ty}omi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son.(with.affection)]" : {tyomi}
+| "[=tiomi+~{E.PAL.:ti}omi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son.(with.affection)]" : {tiomi}
 ! 
 | "[=tyoki+inal@tsi.][NRoot][=buttock (ES: nalga); external.bottom.part (ES: parte.inferior.externa)]" : {tyoki}
 ! 
@@ -5940,9 +5940,9 @@ define NRootPRQin [
 | "[=yarato+gndr@m.+poss@ti.][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yarato}
 | "[=yaarato+gndr@m.+poss@ti.][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yaarato}
 ! 
-| "[=yari+gndr@m.+poss@ri.][NRoot][=brother (kin.of.a.female)]" : {yari}
-| "[=yaari+gndr@m.+poss@ri.][NRoot][=brother (kin.of.a.female)]" : {yaari}
-| "[=iyaari+gndr@m.+poss@ri.][NRoot][=brother (kin.of.a.female)]" : {iyaari}
+| "[=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {yari}
+| "[=yaari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {yaari}
+| "[=iyaari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {iyaari}
 ! 
 | "[=yatsinka+gndr@n./m.+inal@ntsi.][NRoot][=poison (ES: dolor.causado.por.veneno/algo_picante)]" : {yatsinka}
 ! 
