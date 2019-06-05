@@ -4708,11 +4708,11 @@ define NRootPRQin [
 | "[=santira][NRoot][=watermelon (botany.sp.: citrullus.sp.)]" : {santira}
 ! 
 # -------------------------------------------------------------------------------------------------
-| "[=saro+gndr@n.m.][NRoot][=grandmother (kin.of.a.fe/male)]" : {saro}
+| "[=saro+gndr@n.m.+kin@fe/male.ego][NRoot][=grandmother]" : {saro}
 ! 
-| "[=saro+gndr@n.m.][NRoot][=granddaughter (kin.of.a.female)]" : {saro}
-| "[=shavo+gndr@n.m.][NRoot][=granddaughter (kin.of.a.female)]" : {shavo}
-| "[=savo+gndr@n.m.][NRoot][=granddaughter (kin.of.a.female)]" : {savo}
+| "[=saro+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter]" : {saro}
+| "[=shavo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter]" : {shavo}
+| "[=savo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter]" : {savo}
 # -------------------------------------------------------------------------------------------------
 ! 
 | "[=saro][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saro}
