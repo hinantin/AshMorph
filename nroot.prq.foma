@@ -247,10 +247,10 @@ define NRootPRQin [
 | "[=ananta+gndr@n.m.+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
 # ---------------------------------------------------------------  
 ! 
-| "[=ani+gndr@m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male; ES: cuñado)]" : {ani}
-| "[=anii+gndr@m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]" : {anii}
-| "[=aninko+gndr@m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aninko} ! to be checked 
-| "[=aniinko+gndr@m.][NRoot][=brother.in.law (kin.of.a.male)]" : {aniinko} ! to be checked 
+| "[=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {ani}
+| "[=anii+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law]" : {anii}
+| "[=aninko+gndr@m.+kin@male.ego][NRoot][=brother.in.law]" : {aninko} ! to be checked 
+| "[=aniinko+gndr@m.+kin@male.ego][NRoot][=brother.in.law]" : {aniinko} ! to be checked 
 # ---------------------------------------------------------------  
 ! 
 # ampatsaantsi / =ampatsaa -ntsi / =praise -nposs / EN: 'praise', ES: 'alabanza' 
