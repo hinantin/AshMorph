@@ -3389,24 +3389,27 @@ define NRootPRQin [
 | "[=nya/ña+gndr@n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nya}
 | "[=nea+gndr@n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language]" : {nea}
 ! 
-!| "[=nyaanamento/ñaanamento+gndr@n.m.+inal@tsi.][NRoot][=book]" : {nyaanamento} ! @section:noun@ 
+!| "[=nyaanamento/ñaanamento+gndr@n.m.+inal@tsi.][NRoot][=book (ES: libro)]" : {nyaanamento} ! @section:noun@ 
 ! 
 | "[=nyaaperori/ñaaperori+gndr@m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {nyaaperori}
 | "[=nyaapirori/ñaapirori+gndr@m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {nyaapirori}
 | "[=neaperori+gndr@m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: vivo/aprovechado, sabido; hábil)]" : {neaperori}
 | "[=neaperoro+gndr@n.m.][NRoot][=brave (ES: valiente); clever, sharp; skilful (ES: viva/aprovechada, sabida; hábil)]" : {neaperoro}
+# ---------------------------------------------------------------------
 ! 
-| "[=nyaniyo/ñaniyo+kin@male.ego][NRoot][=daughter.in.law (kin.of.a.male)]" : {nyaniyo}
-| "[=anio+gndr@n.m.+inal@ntsi.+kin@male.ego][NRoot][=daughter.in.law (kin.of.a.male)]" : {anio}
-| "[=aniro+gndr@n.m.+inal@ntsi.+kin@male.ego][NRoot][=daughter.in.law (kin.of.a.male)]" : {aniro}
-| "[=aniryo+gndr@n.m.+voc@1PL.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {aniryo}
-| "[=anirio+gndr@n.m.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]" : {anirio}
+| "[=nyaniyo/ñaniyo+kin@male.ego][NRoot][=daughter.in.law]" : {nyaniyo}
+| "[=anio+gndr@n.m.+inal@ntsi.+kin@male.ego][NRoot][=daughter.in.law]" : {anio}
+| "[=aniro+gndr@n.m.+inal@ntsi.+kin@male.ego][NRoot][=daughter.in.law]" : {aniro}
+| "[=aniryo+gndr@n.m.+voc@1PL.+kin@male.ego][NRoot][=daughter.in.law]" : {aniryo}
+| "[=anirio+gndr@n.m.+kin@male.ego][NRoot][=daughter.in.law]" : {anirio}
 ! 
-| "[=evatairo+gndr@n.m.][NRoot][=daughter.in.law (kin.of.a.female, female.ego)]" : {evatairo}
+| "[=evatairo+gndr@n.m.+kin@fem.ego][NRoot][=daughter.in.law]" : {evatairo}
+# ---------------------------------------------------------------------
 ! 
 | "[=niocho][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {niocho}
 | "[=mamantsiki][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {mamantsiki} ! mother as well ??
-| "[=neanea][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {neanea}
+| "[=neanea+kin@male.ego][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {neanea}
+# ---------------------------------------------------------------------
 ! 
 | "[=nyamo/ñamo+gndr@n.m.][NRoot][=medicinal.plant.sp. (ES: sp.de.planta.medicinal)]" : {nyamo}
 ! 
