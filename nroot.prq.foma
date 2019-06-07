@@ -30,26 +30,34 @@ define NRootPRQin [
 # --------------------------------------------------------------------
 ! 
 | "[=aaniri+gndr@m.+inal@ntsi.][NRoot][=orphan (ES: huérfano)]" : {aaniri} 
+# --------------------------------------------------------------------
 ! 
 | "[=aapi+gndr@m.+poss@ti.+kin@fem.ego][NRoot][=elder, grandfather]" : {aapi} ! N@->V 
+# --------------------------------------------------------------------
 ! 
 | "[=achakova+gndr@m.][NRoot][=fish.sp. (ES: pez)]" : {achakova} 
+# --------------------------------------------------------------------
 ! 
 | "[=achama+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {achama} 
 | "[=achaama+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {achaama} 
+# --------------------------------------------------------------------
 ! 
 # ahope~asopi: ser.ilusionista.que.hace.encantamientos.utilizando.la.vainilla.de.la.canela
 | "[=ahopi+gndr@n.m.][NRoot][=vanilla (ES: vainilla; PT: baunilha); aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {ahopi}
 | "[=ahope+gndr@n.m.][NRoot][=vanilla (ES: vainilla; PT: baunilha); aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {ahope}  
 | "[=asopi+gndr@n.m.][NRoot][=vanilla (ES: vainilla; PT: baunilha); aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {asopi} 
+# --------------------------------------------------------------------
 ! 
 | "[=amai+gndr@n.m.][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amai} 
+# --------------------------------------------------------------------
 ! 
 | "[=amaisha][NRoot][=Yanesha (ES: Peruvian-Amazon.ethnic.group), Amuesha]" : {amaisha} 
+# --------------------------------------------------------------------
 ! 
 | "[=amonya][NRoot][=plant.sp. (ES: sp.de.planta)]" : {amonya} 
 ! 
 | "[=amonya/amõya][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia)]" : [{amõya}|{amoya}] 
+# --------------------------------------------------------------------
 ! 
 # ampatentsi / =ampate -ntsi / =left.hand -nposs / EN: 'left.hand'; ES: 'mano.izquierda' 
 | "[=ampate+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampate} 
