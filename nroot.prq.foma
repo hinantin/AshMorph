@@ -62,8 +62,10 @@ define NRootPRQin [
 # ampatentsi / =ampate -ntsi / =left.hand -nposs / EN: 'left.hand'; ES: 'mano.izquierda' 
 | "[=ampate+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampate} 
 | "[=ampati+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampati} 
+# --------------------------------------------------------------------
 ! 
 | "[=Anakayari][NRoot][=NP (ES: Anacayali)]" : {anakayari} 
+# --------------------------------------------------------------------
 ! 
 | "[=ankaro+gndr@m.][NRoot][=green.~20_cm-long.grasshopper/cricket (ES: saltamonte/grillo; sci.nm.: tropidacris.latreilleri.perty)]" : {ankaro} 
 | "[=tonkeronto+gndr@m.][NRoot][=green.~20_cm-long.grasshopper/cricket (ES: saltamonte/grillo; sci.nm.: tropidacris.latreilleri.perty)]" : {tonkeronto} 
