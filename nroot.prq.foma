@@ -89,19 +89,24 @@ define NRootPRQin [
 ! 
 | "[=Aroshi][NRoot][=person's.name; legendary.Ashaninka.that.never.died (ES: Ashaninka.legendario.que.nunca.moría)]" : {aroshi}
 | "[=Arooshi][NRoot][=person's.name; legendary.Ashaninka.that.never.died (ES: Ashaninka.legendario.que.nunca.moría)]" : {arooshi}
+# ---------------------------------------------------------------------
 ! 
 | "[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninka} ! N@->V::[=to.become.Ashaninka]
 | "[=asheninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {asheninka}
 | "[=ashaninkaye+~ashaninka{PL:/'many':ye/}][NRoot][=numerous.indigenous.people.that.live.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninkaye}
+# ---------------------------------------------------------------------
 ! 
 | "[=ashisho][NRoot][=person's.name; NP]" : {ashisho}
+# ---------------------------------------------------------------------
 ! 
 | "[=ashitaaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaaneyetachari}
 | "[=ashitaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaneyetachari}
 | "[=ashitaaniyetatsiri][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaaniyetatsiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=ashitarori+gndr@m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places (PT: chefe.)]" : {ashitarori}
 | "[=ashitariri+gndr@m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitariri}
+# ---------------------------------------------------------------------
 ! 
 | "[=ashitavo+gndr@n.m.+inal@ntsi.][NRoot][=door (ES: puerta)]" : {ashitavo}
 ! 
@@ -193,6 +198,7 @@ define NRootPRQin [
 ! 
 | "[=akipare+gndr@m.+inal@ntsi.][NRoot][=traditional.ashaninka.dish.prepared.with.shitovi_mushroom-and-tsipana_leaf-and-santeripana_leaf (ES: plato.típico.ashaninka.preparado.con...)]" : {akipare}
 # ---------------------------------------------------------------  
+
 ! 
 | "[=ako+gndr@n.m.+inal@tsi.][NRoot][=arm]" : {ako}
 | "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano)]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
