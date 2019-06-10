@@ -3316,9 +3316,9 @@ define NRootPRQin [
 | "[=nana+gndr@n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]" : {nana}
 | "[=naana+gndr@n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]" : {naana}
 ! 
-| "[=nanaeni+gndr@n.m.+voc.+poss@te.][NRoot][=aunt (kin.of.a.female)]" : {nanaeni} ! eni ??? 
-| "[=nanaine+gndr@n.m.+voc.+poss@te.][NRoot][=aunt (kin.of.a.female)]" : {nanaine}
-| "[=nanaini+gndr@n.m.+voc.+poss@te:ti.][NRoot][=aunt (kin.of.a.female)]" : {nanaini}
+| "[=nanaeni+gndr@n.m.+voc.+poss@te.+kin@fem.ego][NRoot][=aunt]" : {nanaeni} ! eni ??? 
+| "[=nanaine+gndr@n.m.+voc.+poss@te.+kin@fem.ego][NRoot][=aunt]" : {nanaine}
+| "[=nanaini+gndr@n.m.+voc.+poss@te:ti.+kin@fem.ego][NRoot][=aunt]" : {nanaini}
 ! 
 | "[=nantatziri][NRoot][=goblin-like.creature, master-owner.of.animals (it.lives.in.rocky.areas)]" : {nantatziri}
 ! 
