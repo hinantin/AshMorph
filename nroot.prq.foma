@@ -1681,9 +1681,9 @@ define NRootPRQin [
 | "[=iyeyi][NRoot][=brother]" : {iyeyi}
 # ---------------------------------------------------------------------
 ! 
-| "[=irentzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {irentzi}
-| "[=irentsi+gndr@m.+kin@male.ego][NRoot][=brother (kin.of.a.male), male.who.belongs.to.the.same.ego's.generation]" : {irentsi}
-| "[=irintzi+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {irintzi}
+| "[=irentzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {irentzi}
+| "[=irentsi+gndr@m.+kin@male.ego][NRoot][=brother, male.who.belongs.to.the.same.ego's.generation]" : {irentsi}
+| "[=irintzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {irintzi}
 # ---------------------------------------------------------------------
 ! 
 | "[=kaantziriritzi][NRoot][=rufous-capped-ant-trush (sci.nm.: form¡carius.colma)]" : {kaantziriritzi}
@@ -2529,13 +2529,13 @@ define NRootPRQin [
 ! 
 | "[=kokaapi+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {kokaapi}
 ! 
-| "[=koki+gndr@m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]" : {koki}
-| "[=konki+gndr@m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]" : {konki}
-#| "[=konki+gndr@m.+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]" : {konki}
+| "[=koki+gndr@m.+poss@ri:re.+kin@male.ego][NRoot][=father; father.in.law; uncle (ES: suegro)]" : {koki}
+| "[=konki+gndr@m.+poss@ri:re.+kin@male.ego][NRoot][=father; father.in.law; uncle (ES: suegro)]" : {konki}
+#| "[=konki+gndr@m.+poss@ri:re.+kin@male.ego][NRoot][=father.in.law (ES: suegro)]" : {konki}
 ! 
-| "[=koko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {koko}
-| "[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]" : {kooko}
-| "[=kokoini][NRoot][=father.in.law.DIM; uncle.DIM (kin.of.a.female, fem.ego)]" : {kokoini}
+| "[=koko+kin@fem.ego][NRoot][=father.in.law; uncle]" : {koko}
+| "[=kooko+kin@fem.ego][NRoot][=father.in.law; uncle]" : {kooko}
+| "[=kokoini+kin@fem.ego][NRoot][=father.in.law.DIM; uncle.DIM]" : {kokoini}
 ! 
 | "[=koonkotzi+gndr@m.][NRoot][=ringed.antpipit, bird.sp. (sci.nm.: corythopis.torquata)]" : {koonkotzi}
 ! 
