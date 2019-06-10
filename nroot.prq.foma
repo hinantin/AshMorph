@@ -19,6 +19,7 @@
 #    It will be used as follows 1SG:2SG , etc. 
 # 5: +kin@fem.ego (EN: kin.of.a.female; ES: parentela.de.mujer, ….habla.de.mujer; PT: parentes.de.uma.fêmea) 
 #    +kin@male.ego (EN: kin.of.a.male; ES: parentela.de.varón, ….habla.de.varón; PT: parentes.de.um.homem) 
+#    +kin@mother's.side:male.ego (EN: mother's.side: kin.of.a.male, male.ego)
 #    +kin@fe/male.ego (EN: kin.of.a.fe/male) 
 # 6: +sem@healer.
 #    group classifiers.
@@ -3425,9 +3426,9 @@ define NRootPRQin [
 | "[=evatairo+gndr@n.m.+kin@fem.ego][NRoot][=daughter.in.law]" : {evatairo}
 # ---------------------------------------------------------------------
 ! 
-| "[=niocho][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {niocho}
-| "[=mamantsiki][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {mamantsiki} ! mother as well ??
-| "[=neanea+kin@male.ego][NRoot][=aunt (mother's.side: kin.of.a.male, male.ego), sister.of.the.mother.of.a.male]" : {neanea}
+| "[=niocho+kin@mother's.side:male.ego][NRoot][=aunt, sister.of.the.mother.of.a.male]" : {niocho}
+| "[=mamantsiki+kin@mother's.side:male.ego][NRoot][=aunt, sister.of.the.mother.of.a.male]" : {mamantsiki} ! mother as well ??
+| "[=neanea+kin@mother's.side:male.ego][NRoot][=aunt, sister.of.the.mother.of.a.male]" : {neanea}
 # ---------------------------------------------------------------------
 ! 
 | "[=nyamo/ñamo+gndr@n.m.][NRoot][=medicinal.plant.sp. (ES: sp.de.planta.medicinal)]" : {nyamo}
