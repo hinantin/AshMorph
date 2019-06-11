@@ -1669,10 +1669,10 @@ define NRootPRQin [
 | "[=ivayetziri][NRoot][=warriors]" : {ivayetziri}
 # ---------------------------------------------------------------------
 ! 
-| "[=iye+gndr@m.+kin@male.ego][NRoot][=brother (kin.of.a.male)]" : {iye}
-| "[=iyenti+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {iyenti}
-| "[=iyeki+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {iyeki}
-| "[=iyiki+gndr@m.][NRoot][=brother (kin.of.a.male)]" : {iyiki}
+| "[=iye+gndr@m.+kin@male.ego][NRoot][=brother]" : {iye}
+| "[=iyenti+gndr@m.+kin@male.ego][NRoot][=brother]" : {iyenti}
+| "[=iyeki+gndr@m.+kin@male.ego][NRoot][=brother]" : {iyeki}
+| "[=iyiki+gndr@m.+kin@male.ego][NRoot][=brother]" : {iyiki}
 # ---------------------------------------------------------------------
 ! 
 | "[=iyento][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: phrynohyas.venulosa)]" : {iyento}
