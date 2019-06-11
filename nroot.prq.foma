@@ -1499,9 +1499,9 @@ define NRootPRQin [
 | "[=ishako][NRoot][=person's.name, NP]" : {ishako}
 # ---------------------------------------------------------------------
 ! 
-| "[=isheni+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {isheni}
-| "[=isheeni+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {isheeni}
-| "[=sheni+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {sheni}
+| "[=isheni+gndr@n.m.+voc.+kin@male.ego][NRoot][=grandma, grandmother]" : {isheni}
+| "[=isheeni+gndr@n.m.+voc.+kin@male.ego][NRoot][=grandma, grandmother]" : {isheeni}
+| "[=sheni+gndr@n.m.+voc.+kin@male.ego][NRoot][=grandma, grandmother]" : {sheni}
 # ---------------------------------------------------------------------
 ! 
 | "[=iyoeni+gndr@n.m.+kin@male.ego][NRoot][=mother.in.law (ES: suegra)]" : {iyoeni}
