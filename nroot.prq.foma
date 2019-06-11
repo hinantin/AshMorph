@@ -1504,9 +1504,9 @@ define NRootPRQin [
 | "[=sheni+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]" : {sheni}
 # ---------------------------------------------------------------------
 ! 
-| "[=iyoeni+gndr@n.m.][NRoot][=mother.in.law (kin.of.a.male; suegra)]" : {iyoeni}
-| "[=iyo+gndr@n.m.+poss@te.][NRoot][=mother.in.law (kin.of.a.male; suegra)]" : {iyo}
-| "[=aerontsi+gndr@n.m.][NRoot][=mother.in.law (kin.of.a.male; suegra)]" : {aerontsi}
+| "[=iyoeni+gndr@n.m.+kin@male.ego][NRoot][=mother.in.law (ES: suegra)]" : {iyoeni}
+| "[=iyo+gndr@n.m.+poss@te.+kin@male.ego][NRoot][=mother.in.law (ES: suegra)]" : {iyo}
+| "[=aerontsi+gndr@n.m.+kin@male.ego][NRoot][=mother.in.law (ES: suegra)]" : {aerontsi}
 # ---------------------------------------------------------------------
 ! 
 | "[=iyotsi+gndr@m.][NRoot][=catfish.sp. (ES: súngaro, doncella); fish.sp., barred.shovelnose (ES: súngaro.(negro)]" : {iyotsi}
