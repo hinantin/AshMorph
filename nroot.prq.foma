@@ -1547,10 +1547,10 @@ define NRootPRQin [
 ! 
 | "[=sarana][NRoot][=wasp.sp. (it.presents.a.blu.reflection; ES: sp.de.avispa)]" : {sarana}
 # -------------------------------------------------------------------------------------------------
-| "[=sari+gndr@m.][NRoot][=grandpa, grandfather (kin.of.a.female); grandson (kin.of.a.female; ES: nieto)]" : {sari}
-| "[=shari+gndr@m.][NRoot][=grandpa, grandfather (kin.of.a.female); grandson (kin.of.a.female; ES: nieto)]" : {shari}
-| "[=saari+gndr@m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {saari}
-| "[=sary+gndr@m.][NRoot][=grandpa, grandfather (kin.of.a.female)]" : {sary}
+| "[=sari+gndr@m.+kin@fem.ego][NRoot][=grandpa, grandfather; grandson (ES: nieto)]" : {sari}
+| "[=shari+gndr@m.+kin@fem.ego][NRoot][=grandpa, grandfather; grandson (ES: nieto)]" : {shari}
+| "[=saari+gndr@m.+kin@fem.ego][NRoot][=grandpa, grandfather]" : {saari}
+| "[=sary+gndr@m.+kin@fem.ego][NRoot][=grandpa, grandfather]" : {sary}
 ! 
 | "[=sari+gndr@m.+inal@tsi.][NRoot][=grandson (fem.ego)]" : {sari}
 # -------------------------------------------------------------------------------------------------
