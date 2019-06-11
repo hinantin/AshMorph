@@ -1489,11 +1489,11 @@ define NRootPRQin [
 ! 
 | "[=nato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {nato}
 | "[=naato+voc.][NRoot][=grandma, grandmother (ES: abuela)]" : {naato}
-| "[=isha+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {isha} ! N@->V::[=to.be.an.old.woman] 
-| "[=ishaa+gndr@n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.fe/male)]" : {ishaa}
+| "[=isha+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]" : {isha} ! N@->V::[=to.be.an.old.woman] 
+| "[=ishaa+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]" : {ishaa}
 # ---------------------------------------------------------------------
 ! 
-| "[=isha+gndr@m.+voc.][NRoot][=grandson (kin.of.a.female; nieto)]" : {isha}
+| "[=isha+gndr@m.+voc.+kin@fem.ego][NRoot][=grandson (ES: nieto)]" : {isha}
 # ---------------------------------------------------------------------
 ! 
 | "[=ishako][NRoot][=person's.name, NP]" : {ishako}
