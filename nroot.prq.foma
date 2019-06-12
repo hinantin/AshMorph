@@ -828,8 +828,8 @@ define NRootPRQin [
 | "[=echonti][NRoot][=wasp (ES: avispa)]" : {echonti}
 # ------------------------------------------------------------------
 ! 
-| "[=eemeeni][NRoot][=brother.in.law (kin.of.a.female)]" : {eemeeni}
-| "[=iimiini][NRoot][=brother.in.law (kin.of.a.female)]" : {iimiini}
+| "[=eemeeni+kin@fem.ego][NRoot][=brother.in.law]" : {eemeeni}
+| "[=iimiini+kin@fem.ego][NRoot][=brother.in.law]" : {iimiini}
 # ------------------------------------------------------------------
 ! 
 | "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
