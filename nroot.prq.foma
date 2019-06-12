@@ -1078,8 +1078,8 @@ define NRootPRQin [
 | "[=Herosare][NRoot][=Jerusalem]" : {herosare}
 # ------------------------------------------------------------------
 ! 
-| "[=himee+gndr@m.+inal@n/tsi.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {himee}
-| "[=hime+gndr@m.+inal@n/tsi.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {hime}
+| "[=himee+gndr@m.+inal@n/tsi.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {himee}
+| "[=hime+gndr@m.+inal@n/tsi.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {hime}
 # ------------------------------------------------------------------
 ! 
 # these.cause.a.violent.rash.on.the.body 
