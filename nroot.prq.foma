@@ -845,9 +845,9 @@ define NRootPRQin [
 | "[=eNtsi/ẽtsi+gndr@n./m.+poss@ti.][NRoot][=child (ES: niño; PT: menino)]" : {ẽtsi}
 # ------------------------------------------------------------------
 ! 
-| "[=iinyeeni/iiñeeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male)]" : {iinyeeni}
-| "[=inyeni/iñeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeni}
-| "[=inyeeni/iñeeni+gndr@n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]" : {inyeeni}
+| "[=iinyeeni/iiñeeni+gndr@n.m.+kin@male.ego][NRoot][=sister.in.law]" : {iinyeeni}
+| "[=inyeni/iñeni+gndr@n.m.+kin@male.ego][NRoot][=sister.in.law (PT: cunhada)]" : {inyeni}
+| "[=inyeeni/iñeeni+gndr@n.m.+kin@male.ego][NRoot][=sister.in.law (PT: cunhada)]" : {inyeeni}
 # ------------------------------------------------------------------
 ! 
 | "[=ehoki][NRoot][=fly.sp. (ES: mosquito.sp., manta.blanca)]" : {ehoki}
