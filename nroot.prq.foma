@@ -1107,12 +1107,12 @@ define NRootPRQin [
 | "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 # ------------------------------------------------------------------
 ! 
-| "[=ime+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {ime}
-| "[=iime+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {iime}
-| "[=imi+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {imi}
-| "[=iimi+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {iimi}
-| "[=emi+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {emi}
-| "[=eme+gndr@m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]" : {eme}
+| "[=ime+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {ime}
+| "[=iime+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {iime}
+| "[=imi+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {imi}
+| "[=iimi+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {iimi}
+| "[=emi+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {emi}
+| "[=eme+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {eme}
 # ------------------------------------------------------------------
 ! 
 | "[=imooshi][NRoot][=spider's.web (ES: tela.de.araña; PT: teia.de.aranha)]" : {imooshi}
