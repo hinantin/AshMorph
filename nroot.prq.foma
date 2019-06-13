@@ -2542,33 +2542,43 @@ define NRootPRQin [
 | "[=koko+kin@fem.ego][NRoot][=father.in.law; uncle]" : {koko}
 | "[=kooko+kin@fem.ego][NRoot][=father.in.law; uncle]" : {kooko}
 | "[=kokoini+kin@fem.ego][NRoot][=father.in.law.DIM; uncle.DIM]" : {kokoini}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koonkotzi+gndr@m.][NRoot][=ringed.antpipit, bird.sp. (sci.nm.: corythopis.torquata)]" : {koonkotzi}
+# ---------------------------------------------------------------------------
 ! 
 # elbow
 | "[=konaki+gndr@n.m.+inal@n/tsi.][NRoot][=elbow (ES: codo)]" : {konaki}
 | "[=chonke+inal@tsi.][NRoot][=elbow (ES: codo)]" : {chonke}
 | "[=chonchoni+inal@ntsi.][NRoot][=elbow (ES: codo)]" : {chonchoni}
 | "[=yenchona][NRoot][=elbow (ES: codo)]" : {yenchona}
+# ---------------------------------------------------------------------------
 ! 
 | "[=konakonatzi+gndr@m.][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konakonatzi}
 | "[=konakonati+gndr@m.][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konakonati}
 | "[=konairi+gndr@m.][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konairi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=konivo+gndr@m.][NRoot][=Shipibo-Konibo, Panoan.people.settled.along.the.meandering.Ucayali/Okayaari_river (ES: shipibo)]" : {konivo}
+# ---------------------------------------------------------------------------
 ! 
-| "[=konyapi][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod; barbasco, vegetable.poison.root (sci.nm.: lonchocarpus.nicou)]" : {konyapi}
+| "[=konyapi/koñapi][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod; barbasco, vegetable.poison.root (sci.nm.: lonchocarpus.nicou)]" : {konyapi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=konoya+gndr@m.][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]" : {konoya}
+# ---------------------------------------------------------------------------
 ! 
 | "[=komaro+gndr@n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)]" : {komaro}
 | "[=komaaro+gndr@n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)]" : {komaaro}
 | "[=komavo+gndr@n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)]" : {komavo}
+# ---------------------------------------------------------------------------
 ! 
 | "[=komaro+gndr@n.m.][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)]" : {komaro}
 | "[=komavo+gndr@n.m.][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)]" : {komavo}
+# ---------------------------------------------------------------------------
 ! 
 | "[=komaro+gndr@n.m.][NRoot][=fish.sp. (ES: paco, piraña; sci.nm.: characidae, serrasalmus.sp.)]" : {komaro}
+# ---------------------------------------------------------------------------
 ! 
 | "[=komairo][NRoot][=olive-backed.foliage-gleaner (sci.nm: automolus.infuscatus)]" : {komairo}
 ! 
