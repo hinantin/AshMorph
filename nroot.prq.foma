@@ -2519,19 +2519,25 @@ define NRootPRQin [
 ! 
 | "[=kochero][NRoot][=short-tailed.mouse.sp. (ES: sp.de.ratón.de.cola.corta); cricket.sp. (ES: sp.de.grillo)]" : {kochero}
 | "[=kochiro][NRoot][=short-tailed.mouse.sp. (ES: sp.de.ratón.de.cola.corta); cricket.sp. (ES: sp.de.grillo)]" : {kochiro}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koi][NRoot][=barbasco, vegetable.poison]" : {koi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koka+gndr@n.m.+poss@ne:ni.][NRoot][=coca (QUZ: kuka; sci.nm.: erythroxylon.sp., erythroxylon.coca)]" : {koka}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kokaki+gndr@n.m.][NRoot][= (ES: chimicua, sp.de.árbol.frutal)]" : {kokaki}
 | "[=kokaniroki+gndr@n.m.][NRoot][=fruit.tree.sp. (ES: chimicua, sp.de.árbol.frutal)]" : {kokaniroki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kokaapi+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {kokaapi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koki+gndr@m.+poss@ri:re.+kin@male.ego][NRoot][=father; father.in.law; uncle (ES: suegro)]" : {koki}
 | "[=konki+gndr@m.+poss@ri:re.+kin@male.ego][NRoot][=father; father.in.law; uncle (ES: suegro)]" : {konki}
 #| "[=konki+gndr@m.+poss@ri:re.+kin@male.ego][NRoot][=father.in.law (ES: suegro)]" : {konki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koko+kin@fem.ego][NRoot][=father.in.law; uncle]" : {koko}
 | "[=kooko+kin@fem.ego][NRoot][=father.in.law; uncle]" : {kooko}
