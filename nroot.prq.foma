@@ -2603,36 +2603,47 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=komero][NRoot][=dog.sp. (ES: pequeño.perro.negro.de.monte.de.pelaje.negro-y-su.cola.de.largos.pelos; sci.nm.: atelocynus.microtis)]" : {komero}
+# ---------------------------------------------------------------------------
 ! 
 | "[=komo][NRoot][=cubé, venomous.root.sp. (ES: cube, barbasco, sp.de.raíz.venenosa; sci.nm.: lonchocarpus.nicou); poison.for.fishing]" : {komo}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kompatsiri][NRoot][=second.father (ES: compadre); godfather.of.ego's.baptized/initiated.child]" : {kompatsiri}
 | "[=kompatziri][NRoot][=second.father (ES: compadre); godfather.of.ego's.baptized/initiated.child]" : {kompatziri}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kompava+gndr@m.][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {kompava}
 | "[=kompavo+gndr@m.][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {kompavo}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kompero+gndr@m.][NRoot][=red.chested.bird.sp. (ES: sp.de.pájaro.de.pecho.rojo); white-tailed.trogon (sci.nm.: trogon.viridis)]" : {kompero}
 | "[=kompiro+gndr@m.][NRoot][=red.chested.bird.sp. (ES: sp.de.pájaro.de.pecho.rojo); white-tailed.trogon (sci.nm.: trogon.viridis)]" : {kompiro}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kompiro+gndr@n.m.][NRoot][=palm.tree.sp., ivory.palm.tree.sp. (ES: yarina, humiro; sci.nm.: phytelephas.macrocarpa; tipically.used.as.construction.wood)]" : {kompiro}
 | "[=kompira+gndr@n.m.][NRoot][=palm.tree.sp., ivory.palm.tree.sp. (ES: yarina, humiro; sci.nm.: phytelephas.macrocarpa; tipically.used.as.construction.wood)]" : {kompira}
 | "[=kompiraki][NRoot][= (ES: fruta.silvestre.de.humiro, cabeza.negra)]" : {kompiraki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kompiroshi][NRoot][=leaf.from.yarina-tree (ES: hoja.de.la.yarina)]" : {kompiroshi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kompita][NRoot][=riddle]" : {kompita}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kompiyoki][NRoot][=person's.name, NP]" : {kompiyoki} 
 | "[=kompiyoshi][NRoot][=person's.name, NP]" : {kompiyoshi} 
+# ---------------------------------------------------------------------------
 ! 
 | "[=konori][NRoot][=rubber]" : {konori}
+# ---------------------------------------------------------------------------
 ! 
 | "[=konta+gndr@n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
 | "[=kontya+gndr@n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {kontya} ! @CMP 
 | "[=akonta][NRoot][=heel]" : {akonta}
 ! 
 | "[=kontanto+gndr@n.m.][NRoot][=sweet_potato.sp. (ES: sp.de.camote; PT: batata-doce; QU: apichu)]" : {kontanto} ! @section:noun@ 
+# ---------------------------------------------------------------------------
 ! 
 | "[=koNtaki/kõtaki][NRoot:CPB][= (ES: paja.de.palmera.de.coco; PT: (palha.de.palmeira.de).cocão)]" : [{kõtaki}|{kotaki}]
 ! 
@@ -6080,21 +6091,26 @@ define NRootPRQin [
 | "[=kove][NRoot][=copaiba, tree.sp.]" : {kove}
 | "[=pashavo][NRoot][=punga, tree.sp.]" : {pashavo}
 | "[=ikoha][NRoot][=tree.sp.]" : {ikoha}
+# ----------------------------------------------------------------- 
 ! 
 | "[=poto+gndr@n.m.][NRoot][=ojé, tree.sp., ficus.sp. (sci.nm.: ficus.insipida)]" : {poto}
 | "[=potoo+gndr@n.m.][NRoot][=ojé, tree.sp., ficus.sp. (sci.nm.: ficus.insipida)]" : {potoo}
 ! 
 | "[=potooki+gndr@n.m.][NRoot][=medicinal.nut (ES: (semilla.de).ojé, sci.nm.: ficus.insipida)]" : {potooki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=poyeni][NRoot][=NP]" : {poyeni}
+# ----------------------------------------------------------------- 
 ! 
 | "[=poyeniri+gndr@m.+poss@te.][NRoot][= (ES: abejón)]" : {poyeniri}
 | "[=poyiniri+gndr@m.+poss@te.][NRoot][= (ES: abejón)]" : {poyiniri}
+# ----------------------------------------------------------------- 
 ! 
 # kavana: its.caustic.sap.is.used.to_poison_arrows/to_stufy_fish; its.leaves.are.used.in.ethnomedicine 
 !| "[=kavana][NRoot][=tree.sp. (ES: catahua, sci.nm.: hura.crepitans)]" : {kavana} 
 | "[=kamana][NRoot][=sandbox.tree (ES: Catahua; sci.nm.: hura.crepitans)]" : {kamana} 
 | "[=kavana+gndr@n.m.][NRoot][=sandbox.tree (ES: Catahua, sp.de.árbol.espinoso, mala.leche; sci.nm.: hura.crepitans)]" : {kavana} 
+# ----------------------------------------------------------------- 
 # ############################
 # Months
 # ############################
