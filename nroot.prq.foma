@@ -6000,38 +6000,50 @@ define NRootPRQin [
 ! 
 | "[=yaane+gndr@n.m.+inal@ntsi.][NRoot][=bow, ballista]" : {yaane}
 | "[=yaani+gndr@n.m.+inal@ntsi.][NRoot][=bow, ballista]" : {yaani}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yarato+gndr@m.+poss@ti.][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yarato}
 | "[=yaarato+gndr@m.+poss@ti.][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yaarato}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {yari}
 | "[=yaari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {yaari}
 | "[=iyaari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {iyaari}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yatsinka+gndr@n./m.+inal@ntsi.][NRoot][=poison (ES: dolor.causado.por.veneno/algo_picante)]" : {yatsinka}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yatsinkanti][NRoot][=alligator.sp. (ES: sp.de.lagarto)]" : {yatsinkanti}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yeeyi+gndr@m.+poss@te.+kin@male.ego][NRoot][=brother, cousin (ES: hermano)]" : {yeeyi}
 | "[=yeye+gndr@m.+poss@te.+kin@male.ego][NRoot][=brother, cousin (ES: hermano)]" : {yeye}
 | "[=yeeye+gndr@m.+poss@te.+kin@male.ego][NRoot][=brother, cousin (ES: hermano)]" : {yeeye}
 | "[=yiiyi+gndr@m.+poss@ti.+kin@male.ego][NRoot][=brother, cousin (ES: hermano)]" : {yiiyi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yenka+gndr@n.m.+inal@ntsi.][NRoot][=fat (ES: manteca, grasa, cebo; aceite)]" : {yenka}
 | "[=yeenka+gndr@n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo); body.fat]" : {yeenka}
 | "[=yiinka+gndr@n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo); body.fat]" : {yiinka}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yentziri+gndr@n.m.][NRoot][=male.garlic (ES: ajo.macho)]" : {yentziri}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yereto+gndr@n.m.+inal@tsi.][NRoot][=knee (ES: rodilla)]" : {yereto} ! @VCMP 
 | "[=yerito+gndr@n.m.+inal@tsi.][NRoot][=knee (ES: rodilla)]" : {yerito} ! @VCMP 
+# ----------------------------------------------------------------- 
 ! 
 | "[=yevetsi+gndr@n.m.][NRoot][=tree.sp. (shimbillo), fruit.tree.sp.]" : {yevetsi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yonkeva][NRoot][=rail.sp. (ES: sp.de.rállido)]" : {yonkeva}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yomare+inal@ntsi.][NRoot][=ruler (ES: regla)]" : {yomare}
 | "[=yomaare+inal@ntsi.][NRoot][=ruler (ES: regla)]" : {yomaare}
+# ----------------------------------------------------------------- 
 ! 
 ! yomparintsi / =friend -nposs / EN: 'friend' \cite[p\'{a}g. 280]{payne:axininca:81} 
 | "[=yompari+gndr@m.+inal@ntsi.][NRoot][=friend (ES: amigo); trading.partner]" : {yompari}
@@ -6047,21 +6059,27 @@ define NRootPRQin [
 | "[=iompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo)]" : {iompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] 
 ! 
 | "[=ayompaho][NRoot][=short-distance.bartering.made.by.females (ES: trueque.de.corta.distancia)]" : {ayompaho}
+# ----------------------------------------------------------------- 
 ! 
 | "[=Yompiri+gndr@m.][NRoot][=stone.divinity (ES: Dios.de.la.piedra); proper.name]" : {yompiri}
 | "[=Paatsiri+gndr@m.][NRoot][=stone.divinity (ES: Dios.de.la.piedra); proper.name]" : {paatsiri}
 | "[=Paatziri+gndr@m.][NRoot][=stone.divinity (ES: Dios.de.la.piedra); proper.name]" : {paatziri}
 | "[=pachakama][NRoot][=stone.divinity (ES: Dios.de.la.piedra); proper.name]" : {pachakama}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yoosara+gndr@m.][NRoot][=fly.sp. (ES: manta.blanca)]" : {yoosara}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yopanka][NRoot][=red-headed.little.bird.sp. (ES: pajarito.de.cabeza.rica); proper.name]" : {yopanka}
+# ----------------------------------------------------------------- 
 ! 
 | "[=yopo+gndr@n.m.][NRoot][=tree.sp., mahogany (ES: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {yopo}
 | "[=aavana+gndr@n.m.+poss@ti.][NRoot][=tree.sp., mahogany (ES: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {aavana}
+# ----------------------------------------------------------------- 
 ! word set: wisdom
 | "[=yorenka+inal@n/tsi.][NRoot][=wisdom, knowledge]" : {yorenka}
 | "[=yoreNka/yorêka+inal@n/tsi.][NRoot][=wisdom, knowledge]" : {yorêka}
+# ----------------------------------------------------------------- 
 ! 
 # Yorowa / Yorova / 
 | "[=Yorova][NRoot][=NP (ES: Yurúa)]" : {yorova}
