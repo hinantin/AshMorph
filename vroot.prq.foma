@@ -1433,6 +1433,7 @@ define VRootPRQin [
 | "[=nyapinkatsa/ñapinkatsa+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {nyapinkatsa}
 | "[=nyaapinkatsa/ñaapinkatsa+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {nyaapinkatsa}
 | "[=neapinkatsa+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {neapinkatsa}
+# --------------------------------------------------------------------
 ! 
 | "[=nyaashirink/ñaashirink+INF@VC.][VRoot][=to.annoy (ES: molestar, fastidiar)]" : {nyaashirink}
 | "[=nyashirink/ñashirink+INF@VC.][VRoot][=to.annoy (ES: molestar, fastidiar)]" : {nyashirink}
@@ -1440,6 +1441,9 @@ define VRootPRQin [
 | "[=antamintsa][VRoot][=to.annoy (prbly.with.jokes; ES: molestar.a.algn.); to.accost.sb.; to.have.sexual.relations.with.sb.]" : {antamintsa}
 | "[=antavintsa][VRoot][=to.annoy (prbly.with.jokes)]" : {antavintsa}
 | "[=antan][VRoot][=to.annoy]" : {antan}
+# --------------------------------------------------------------------
+| "[=nyashintsi/ñashintsi+INF@/EP:t/VC.][VRoot][=to.compete (ES: competir)]" : {nyashintsi} 
+# --------------------------------------------------------------------
 ! 
 | "[=oiminki+~{AGT.CAUS:oimin}{'to.enter':ki}+INF@antsi.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter, insertar)]" : {oiminki} 
 | "[=oiminke+~{AGT.CAUS:oimin}{'to.enter':ke}+INF@VC.+I-Conj@act.v.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)]" : {oiminke} 
