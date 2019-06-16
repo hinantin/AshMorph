@@ -16,7 +16,7 @@ define V=S=CL [
 | "[--][-tsantsana][+VERB.CL:wide][=wide]" : "@EP"{tsantsana} ! @CL 
 | "[--][-pa][+VERB.CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : "@EP"{pa} ! @CL  
 | "[--][-pontso][+VERB.CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point, sharpless.edge/point]" : "@EP"{pontso} ! @CL  
-| "[--][-kona][+VERB.CL:curved][=curved; gnarled,knotty,lumpy]" : "@EP"{kona} ! @CL  
+| "[--][-kona][+VERB.CL:curved][=curved; gnarled,knotty,lumpy]" : "@EP"{kona} ! @CL  (ES: curvado) 
 | "[--][-patsa][+VERB.CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : "@EP"{patsa} ! @CL 
 | "[--][-nki][+VERB.CL:snake][=snake.sp.]" : "@EP"{nki} ! @CL 
 | "[--][-nke][+VERB.CL:snake][=snake.sp.]" : "@EP"{nke} ! @CL 
