@@ -1386,13 +1386,16 @@ define VRootPRQin [
 | "[=nionk+INF@VC.+I-Conj@act.v.][VRoot][=to.rock (ES: mecer)]" : {nionk}
 ! 
 | "[=nionkako+INF@/EP:t/V.][VRoot][=to.swing, to.rock.to-and-fro (ES: columpiarse)]" : {nionkako}
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=niy+INF@aantsi.][VRoot][=to.swallow (ES: tragar)]" : {niy}
 | "[=ni+INF@antsi.][VRoot][=to.swallow (ES: tragar)]" : {ni}
+# ---------------------------------------------------------------------------- 
 ! 
 ! inoshika / i- =noshik -a / 3m.s- =to.drag -real / EN: 'he.crawls'; ES: 'él.se.arrastra' 
 | "[=noshik+INF@V.+A-Conj@mid.v.][VRoot][=to.crawl]" : {noshik}
 | "[=noshik+INF@V.+I-Conj@act.v.][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)]" : {noshik}
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=ny/ñ+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
 | "[=ne+INF@aantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ne}
@@ -1400,6 +1403,7 @@ define VRootPRQin [
 | "[=ny/ñ+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyaanyaa}
 | "[=ny/ñ+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyanya}
 #@TOTREDUPCLASS02| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny} ! nyaanyaa nyanya
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=onyaak/oñaak+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ak}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaak}
 | "[=onyaag/oñaag+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ag}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaag}
@@ -1424,11 +1428,14 @@ define VRootPRQin [
 ! 
 # nyaperori / =nyapero -ri / =to.defy.authority -adj / EN: 'brave', ES: 'valiente' 
 | "[=nyapero/ñapero+INF@/EP:t/antsi.][VRoot][=to.defy.authority.with.intensity-and-fearlessness; to.be.brave (ES: ser.valiente)]" : {nyapero}
+# --------------------------------------------------------------------
 ! 
 | "[=nyaatsa/ñaatsa+INF@/EP:t/aantsi.][VRoot][=to.play (ES: jugar); to.have.sex (euphemism)]" : {nyaatsa}
 | "[=nyatsa/ñatsa+INF@/EP:t/antsi.][VRoot][=to.play (ES: jugar); to.have.sex (euphemism)]" : {nyatsa}
+# --------------------------------------------------------------------
 ! 
 | "[=nyaavai/ñaavai+INF@/EP:t/aantsi.][VRoot][=to.speak (ES: hablar)]" : {nyaavai}
+# --------------------------------------------------------------------
 ! 
 | "[=nyapinkatsa/ñapinkatsa+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {nyapinkatsa}
 | "[=nyaapinkatsa/ñaapinkatsa+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {nyaapinkatsa}
