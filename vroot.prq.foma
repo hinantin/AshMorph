@@ -1407,11 +1407,13 @@ define VRootPRQin [
 ! 
 | "[=onyaak/oñaak+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ak}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaak}
 | "[=onyaag/oñaag+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ag}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaag}
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=nya/ña+INF@antsi.][VRoot][=to.speak (ES: hablar)]" : {nya}
 | "[=nyaa/ñaa+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nyaa}
 | "[=nea+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nea}
 | "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {neanea} ! noneaneatempi
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=neavintsa+INF@/EP:t/VC.][VRoot][=to.fornicate (ES: fornicar)]" : {neavintsa}
 ! 
