@@ -34,17 +34,22 @@ define VRootPRQin [
 ! 
 | "[=a][VRoot][=to.choose]" : {a}
 | "[=a][VRoot][=to.pick]" : {a}
+# ---------------------------------------------------
 ! 
 | "[=aa+INF@/EP:t/aantsi.][VRoot][=to.perch;| to.land, to.disembark;| to.dock (ES: atracar)]" : {aa} ! @section:verb@ 
+# ---------------------------------------------------
 ! 
 # aaha~ / =aa -ha ~ / =to.take -cl:liquid ~ / EN: 'to.reduce.river_flow'  
 | "[=aaha+~{'to.take':aa}{CL:/liquid:ha/}+INF@VC.][VRoot][=to.reduce.the.river_flow (ES: bajar/mermar.el.agua.del.río)]" : {aaha} 
+# ---------------------------------------------------
 ! 
 # aanan~ / =aa -na -n ~ / =to.take -cl:long,hollow -ep ~ / EN: 'to.extend'  ! to be revised   
 | "[=aanan+~{'to.take':aa}{CL:/long,hollow:na/}{EP:n}+INF@VC.][VRoot][=to.extend (ES: extender)]" : {aanan} 
+# ---------------------------------------------------
 ! 
 | "[=aatik+INF@aantsi.][VRoot][=to.step, to.foot (ES: pisar); to.kick (ES: patear)]" : {aatik} 
 | "[=aatzik+INF@aantsi.][VRoot][=to.step, to.foot (ES: pisar);| to.kick (ES: patear)]" : {aatzik} ! @section:verb@ 
+# ---------------------------------------------------
 ! 
 | "[=am][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {am}
 | "[=aam][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aam}
