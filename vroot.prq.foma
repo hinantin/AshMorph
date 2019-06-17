@@ -1536,12 +1536,15 @@ define VRootPRQin [
 | "[=oonk+INF@aantsi.][VRoot][=to.produce_sounds/whistle.by.covering.the.mouth.with.half-joint.hands (ES: puquear, puquiar; QU: phukuy)]" : {oonk} ! @section:verb@ 
 | "[=koonk][VRoot][=to.signal.by.whistling.with.both.hands, to.whistle]" : {koonk} 
 | "[=konk][VRoot][=to.signal.by.whistling.with.both.hands, to.whistle]" : {konk} 
+# ----------------------------------------------------------------------- 
 ! 
 | "[=oot+INF@aantsi.][VRoot][=to.light (ES: alumbrar, encender)]" : {oot}
+# ----------------------------------------------------------------------- 
 ! 
-| "[=oy+INF@aantsi.][VRoot][=to.expect, to.wait]" : {oy}
+| "[=oy+INF@aantsi.][VRoot][=to.expect (ES: aguardar); to.wait (ES: esperar)]" : {oy}
 | "[=ooy+INF@aantsi.][VRoot][=to.expect (ES: aguardar); to.wait (ES: esperar)]" : {ooy}
-| "[=ooya][VRoot][=to.expect, to.wait]" : {ooya}
+| "[=ooya][VRoot][=to.expect (ES: aguardar); to.wait (ES: esperar)]" : {ooya}
+# ----------------------------------------------------------------------- 
 ! 
 | "[=osamani][VRoot][=to.delay (ES: demorar)]" : {osamani}
 ! 
