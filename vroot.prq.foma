@@ -1362,16 +1362,20 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------- 
 ! 
 | "[=nesank+INF@VC.][VRoot][=to.peep.at.sb/sth. (ES: asomarse, mirar.a.hurtadillas, atisbar)]" : {nesank}
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=niap][VRoot][=to.find]" : {niap}
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=nik][VRoot][=to.tremble (ES: temblar), to.shake (ES: sacudir)]" : {nik}
 | "[=onik][VRoot][=to.tremble (ES: temblar), to.shake (ES: sacudir)]" : {onik}
 | "[=omoyek][VRoot][=to.tremble (ES: temblar), to.shake (ES: sacudir)]" : {omoyek}
+# ---------------------------------------------------------------------------- 
 ! 
 | "[=nimo+INF@/EP:t/aantsi.][VRoot][=to.like (ES: gustar); to.please (ES: agradar)]" : {nimo}
 | "[=nimot+INF@aantsi.][VRoot][=to.like (ES: gustar); to.please (ES: agradar)]" : {nimot}
 !| "[=nimot][VRoot][=to.like]" : {nimot}
+# ---------------------------------------------------------------------------- 
 ! to hate
 | "[=nina+INF@/EP:t/aantsi.][VRoot][=to.hate (ES: odiar)]" : {nina}
 !
