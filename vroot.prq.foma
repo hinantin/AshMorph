@@ -57,26 +57,33 @@ define VRootPRQin [
 | "[=aamavent+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido, prevenir); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavent}
 | "[=aamavint+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido, prevenir); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavint}
 | "[=aamaavent+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido, prevenir); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamaavent}
+# ---------------------------------------------------
 ! 
 | "[=aapatikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]" : {aapatikiy} ! V@->N::[=union.between.people (ES: unión.en.personas)] 
 | "[=patikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]" : {patikiy} 
+# ---------------------------------------------------
 ! 
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound;| to.destroy (ES: malograr)]" : {amashi} ! @section:verb@ 
+# ---------------------------------------------------
 ! 
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashi}
 | "[=amashink+~{'to.climb':amashi}{EP:n}{DEGREE:k}+INF@VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashink}
 | "[=amashinke+~{'to.climb':amashi}{EP:n}{DEGREE:ke}+INF@/EP:t/VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashinke}
+# ---------------------------------------------------
 ! 
 | "[=amok][VRoot][=to.be/get.cloudy (ES: estar/ponerse.nublado; nublarse)]" : {amok} 
 | "[=aamok][VRoot][=to.be/get.cloudy (ES: estar/ponerse.nublado; nublarse)]" : {aamok} 
+# ---------------------------------------------------
 ! 
 | "[=amonko+INF@/EP:t/antsi.][VRoot][=to.chew.sth. (i.e.: coca.leaves, lime; ES: chacchar.coca, chacchar.cal; QU: kukata.chaqchay, iskuta.chaqchay)]" : {amonko}
 | "[=amonk{DEL:o}{CL:/liquid:a/}+INF@/EP:t/aantsi.][VRoot][=to.chew.sth. (i.e.: coca.leaves, lime; ES: chacchar.coca, chacchar.cal; QU: kukata.chaqchay, iskuta.chaqchay)]" : {amonka}
 | "[=amonk{DEL:o}{CL:/liquid:aa/}+INF@/EP:t/aantsi.][VRoot][=to.put.liquid/mass.through.the.mouth (ES: meter_por_la_boca/embocar.líquido/masa)]" : {amonkaa}
 ! 
 | "[=amonkoshi+~amonko{CL:/leaf:shi/}+INF@/EP:t/aantsi.][VRoot][=to.put.leaf/leaves.through.the.mouth (ES: meter_por_la_boca/embocar.hoja)]" : {amonkoshi}
+# ---------------------------------------------------
 ! 
 | "[=aaki+INF@/EP:t/VC.][VRoot][=to.trip.sb.up, to.make.sb.fall (ES: hacer.tropezar)]" : {aaki}
+# ---------------------------------------------------
 ! 
 | "[=aashi+INF@/EP:t/aantsi.][VRoot][=to.give.a.concoction/potion.to.sb. (ES: pusanguear,, dar.brebaje, ,, embrujar)]" : {aashi}
 ! 
