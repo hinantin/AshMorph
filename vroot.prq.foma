@@ -1541,7 +1541,7 @@ define VRootPRQin [
 | "[=oot+INF@aantsi.][VRoot][=to.light (ES: alumbrar, encender)]" : {oot}
 # ----------------------------------------------------------------------- 
 ! 
-| "[=oy+INF@aantsi.][VRoot][=to.expect (ES: aguardar); to.wait (ES: esperar)]" : {oy}
+| "[=oy+INF@aantsi.+I-Conj@act.v.][VRoot][=to.expect (ES: aguardar); to.wait (ES: esperar)]" : {oy}
 | "[=ooy+INF@aantsi.][VRoot][=to.expect (ES: aguardar); to.wait (ES: esperar)]" : {ooy}
 | "[=ooya][VRoot][=to.expect (ES: aguardar); to.wait (ES: esperar)]" : {ooya}
 # ----------------------------------------------------------------------- 
