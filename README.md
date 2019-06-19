@@ -90,7 +90,7 @@ Then test it on-line at https://hinant.in/
 For more information
 ====================
 
-Richard Castro Mamani
+Richard ALexander Castro-Mamani
 
 E-mail: rcastro@hinant.in
 
