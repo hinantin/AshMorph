@@ -94,7 +94,4 @@ Richard Castro Mamani
 
 E-mail: rcastro@hinant.in
 
-Skype: richardtk_1
-
-
 
