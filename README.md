@@ -66,7 +66,7 @@ How to download
 $ wget https://github.com/hinantin/AshaninkaMorph/archive/master.zip 
 ```
 
-* Cloning the repository
+* Cloning this repository
 ```
 $ git clone https://github.com/hinantin/AshaninkaMorph
 ```
