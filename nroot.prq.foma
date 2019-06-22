@@ -264,7 +264,7 @@ define NRootPRQin [
 | "[=aana+gndr@n.m.+poss@ni.][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {aana}
 # ---------------------------------------------------------------  
 ! 
-| "[=ananta+gndr@n.m.+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
+| "[=ananta+gndr@n.m.+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}|
 # ---------------------------------------------------------------  
 ! 
 | "[=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {ani}
@@ -5949,6 +5949,7 @@ define NRootPRQin [
 ! 
 # ----------------------------------------------------------------------------
 | "[=vatsa+gndr@n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
+| "[=vatsanto+gndr@n.m.][NRoot][=fat.woman (ES: gorda)]" : {vatsanto}
 # batsatsinari / vatsatsinari / =vatsa -tsi -nari / =meat -nposs -cl:consumer.of.sth. / EN: 'carnivore'; ES: 'carnívoro' 
 !| "[=vatsatsinari+gndr@m.][NRoot][=carnivore (ES: carnívoro)]" : {vatsatsinari} ! @section:noun@ 
 # ----------------------------------------------------------------------------
