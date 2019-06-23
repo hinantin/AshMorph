@@ -203,7 +203,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------  
 ! 
 | "[=ako+gndr@n.m.+inal@tsi.][NRoot][=arm]" : {ako}
-| "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano)]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
+| "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano; PT: mão)]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
 | "[=vako][NRoot][=hand (ES: mano)]" : {vako} ! @VCMP 
 ! 
 | "[=akoimpeki+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo)]" : {akoimpeki}
