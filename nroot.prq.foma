@@ -4613,71 +4613,95 @@ define NRootPRQin [
 | "[=tsimpiyi][NRoot][=pituca-like.plant.with.purple.peduncles (ES: taro; sci.nm.: alocasia)]" : {tsimpiyi}
 ! 
 | "[=shimpitaki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: astyanax.maximus, ancistrus.sp., ancistrus.tamboensis)]" : {shimpitaki}
+# ------------------------------------------------------------
 ! 
 | "[=shiopa][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shiopa}
 ! 
-| "[=shiopaniro][NRoot][=butterfly.sp.with.question_mark-design.in.its.wings; larva.sp.]" : {shiopaniro}
+| "[=shiopaniro+gndr@m.][NRoot][=butterfly.sp.with.question_mark-design.in.its.wings; larva.sp.]" : {shiopaniro}
+# ------------------------------------------------------------
 ! 
 | "[=shiriki+gndr@m.][NRoot][=bee.sp. (ES: abeja.hechicera; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini)]" : {shiriki}
+# ------------------------------------------------------------
 ! 
 | "[=shirinti+gndr@m.][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirinti}
 | "[=shirenti+gndr@m.][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirenti}
 | "[=shirentzi+gndr@m.][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirentzi}
+# ------------------------------------------------------------
 ! 
 | "[=shoopa+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shoopa}
+# ------------------------------------------------------------
 ! 
 | "[=shovire+gndr@n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shovire}
 | "[=shoviri+gndr@n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shoviri}
 | "[=shiyovire+gndr@n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shiyovire}
 | "[=shiovire+gndr@n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shiovire}
+# ------------------------------------------------------------
 ! 
 | "[=shomoNtsi/shomõtsi][NRoot][=person's.name; small.red.humming-bird]" : {shomontsi} ! shomõtsi
+# ------------------------------------------------------------
 ! 
 | "[=shompoti+gndr@m.][NRoot][=fish.sp. (bujurqui-fish)]" : {shompoti}
 | "[=shompotsi+gndr@m.][NRoot][=fish.sp. (bujurqui-fish)]" : {shompotsi}
+# ------------------------------------------------------------
 ! 
 | "[=shoshokiri][NRoot][=NP, person's.name]" : {shoshokiri} 
+# ------------------------------------------------------------
 ! 
 | "[=siraka][NRoot][=lesser.kisadee (sci.nm.: pitangus.lictor)]" : {siraka}
+# ------------------------------------------------------------
 ! 
 | "[=sirikempi][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.cerambycidae)]" : {sirikempi} 
+# ------------------------------------------------------------
 ! 
 | "[=hani+gndr@m.][NRoot][=wasp (ES: avispa)]" : {hani}
 | "[=sani+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sani} 
 | "[=sane+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sane}
 | "[=sanii+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
+# ------------------------------------------------------------
 ! 
 | "[=sanikitatakiri+gndr@m.][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {sanikitatakiri} 
+# ------------------------------------------------------------
 ! 
 | "[=haniki][NRoot][=child]" : {haniki}
+# ------------------------------------------------------------
 ! 
 | "[=hanikiti+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodidae, pinirampus.pirinampu)]" : {hanikiti}
+# ------------------------------------------------------------
 ! 
 | "[=sanko+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {sanko}
 | "[=sankoo+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {sankoo}
 | "[=saNko/sãko+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale; PT: cana.de.açúcar)]" : {sãko}
 | "[=hanko+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {hanko}
 | "[=shanko+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {shanko}
+# ------------------------------------------------------------
 ! 
 | "[=sankonkotzi][NRoot][=ferruginous.pygmy.owl (sci.nm.: glaucidium.brasilianum)]" : {sankonkotzi}
+# ------------------------------------------------------------
 ! 
 | "[=sankori][NRoot][=(reddish).ant.sp. (curuhuinsi, curuwinsi, ES: coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]" : {sankori}
 | "[=hankori][NRoot][=(reddish).ant.sp. (curuhuinsi, curuwinsi, ES: coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]" : {hankori}
 | "[=koyee][NRoot][=curuwinsi.queen-ant (ES: reina.del.curuhuinsi/curuwinsi)]" : {koyee}
+# ------------------------------------------------------------
 ! 
 | "[=shankeonaki][NRoot][=snail.sp. (ES: molusco; sci.nm.: drymaeus.aff.expansus)]" : {shankeonaki} ! snail??? 
+# ------------------------------------------------------------
 ! 
 | "[=shankionkiehi][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: dispas.catesbyi)]" : {shankionkiehi}
+# ------------------------------------------------------------
 ! 
 | "[=shankoro][NRoot][=small.lizard.sp. (ES: lagartija)]" : {shankoro}
 | "[=shonkoro][NRoot][=small.lizard.sp. (ES: lagartija)]" : {shonkoro}
+# ------------------------------------------------------------
 ! 
 | "[=shankoronke][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: oxybelis.argenteus)]" : {shankoronke}
+# ------------------------------------------------------------
 ! 
 | "[=shonyaki+gndr@n.m.][NRoot][=edible.plant.sp. (ES: dale-dale, daledale; sci.nm.: calatea.allouia)]" : {shonyaki}
 | "[=shonaki+gndr@n.m.][NRoot][=edible.plant.sp. (ES: dale-dale, daledale; sci.nm.: calatea.allouia)]" : {shonaki}
+# ------------------------------------------------------------
 ! 
 | "[=soakentzi][NRoot][=chestnut.woodpecker (sci.nm.: celeus.elegans)]" : {soakentzi}
+# ------------------------------------------------------------
 ! 
 ! flute like instrument, (musical).wind.instrument 
 | "[=sonkare~sonkar{poss:e}+gndr@n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {sonkare}
@@ -4687,38 +4711,48 @@ define NRootPRQin [
 | "[=honkare+gndr@n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {honkare}
 | "[=shonkare+gndr@n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {shonkare}
 | "[=shonkari+gndr@n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {shonkari}
+# ------------------------------------------------------------
 ! 
 | "[=sonkaari+gndr@m.][NRoot][=partridge.sp. (ES: poqueadora, especie.de.perdiz)]" : {sonkaari}
 | "[=sonkaagari+gndr@m.][NRoot][=partridge.sp. (ES: poqueadora, especie.de.perdiz)]" : {sonkaagari}
 | "[=sonkaari+gndr@m.][NRoot][=white-throated.tinamou (sci.nm.: tinamus.guttatus)]" : {sonkaari}
+# ------------------------------------------------------------
 ! 
 # Según los ashaninka del Ene, el nombre del sonkarepenki está asociado al del árbol 'sonkare' (sci.nm.: erithrina uley)
 # ya que cuando florece durante la estación seca, el sonkarepenki llega surcando los ríos. 
 # El 'sonkarepenki' tiene una aleta de color rojizo similar al de las flores del árbol 'sonkare'  
 | "[=sonkarepenki+~{'tree.sp.':sonkare}{CL:/'flower':penki/}][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: curimata.laticeps; PT: branquinha)]" : {sonkarepenki}
+# ------------------------------------------------------------
 ! 
 | "[=sonkoki+gndr@m.][NRoot][=white.corn.variety]" : {sonkoki}
+# ------------------------------------------------------------
 ! 
 | "[=sontookinti][NRoot][=cotera.snake]" : {sontookinti}
+# ------------------------------------------------------------
 ! 
 | "[=sovaito][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: ischnocnema.quixensis)]" : {sovaito}
+# ------------------------------------------------------------
 ! 
 | "[=samaka+gndr@n.m.][NRoot][=driftwood (ES: madera.flotante, palo.podrido); charred.stick/log (ES: tizón, palo.a.medio.quemar)]" : {samaka}
 | "[=samakaa+gndr@n.m.][NRoot][=driftwood (ES: madera.flotante, palo.podrido); charred.stick/log (ES: tizón, palo.a.medio.quemar)]" : {samakaa}
 | "[=samakara][NRoot][=driftwood (ES: madera.flotante.en.el.río, palo.podrido/muerto)]" : {samakara}
 | "[=hamaka][NRoot][=rotten.piece.of.wood/tree (ES: palo.podrido)]" : {hamaka}
+# ------------------------------------------------------------
 ! 
 | "[=sampaa+gndr@n.m.][NRoot][=balsa; tree.sp. (ES: sachahuasca)]" : {sampaa}
 | "[=sampa+gndr@n.m.][NRoot][=balsa; tree.sp. (ES: sachahuasca)]" : {sampa}
+# ------------------------------------------------------------
 ! 
 | "[=sampaki][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea)]" : {sampaki}
 | "[=sampakitzi+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakitzi}
 | "[=sampakiti+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakiti}
 | "[=sampakitsi+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.cayennensis; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakitsi}
 | "[=hampakitzi+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {hampakitzi}
+# ------------------------------------------------------------
 ! 
 ! nosampine 
 | "[=sampi+poss@ne.][NRoot][=torch (ES: antorcha)]" : {sampi}
+# ------------------------------------------------------------
 ! 
 | "[=sampera+gndr@n.m.][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {sampera}
 | "[=sampira+gndr@n.m.][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {sampira}
