@@ -206,8 +206,8 @@ define NRootPRQin [
 | "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano; PT: mão)]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
 | "[=vako][NRoot][=hand (ES: mano; PT: mão)]" : {vako} ! @VCMP 
 ! 
-| "[=akoimpeki+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo)]" : {akoimpeki}
-| "[=akoimpiki+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo)]" : {akoimpiki}
+| "[=akoimpeki+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpeki}
+| "[=akoimpiki+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpiki}
 ! 
 | "[=akopero][NRoot][=wrist (ES: mano.derecha)]" : {akopero}
 ! 
@@ -4717,7 +4717,7 @@ define NRootPRQin [
 | "[=sampakitsi+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.cayennensis; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakitsi}
 | "[=hampakitzi+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {hampakitzi}
 ! 
-| "[=sampi][NRoot][=torch]" : {sampi}
+| "[=sampi][NRoot][=torch (ES: antorcha)]" : {sampi}
 ! 
 | "[=sampera+gndr@n.m.][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {sampera}
 | "[=sampira+gndr@n.m.][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {sampira}
