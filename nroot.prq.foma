@@ -2645,34 +2645,47 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=koNtaki/kõtaki][NRoot:CPB][= (ES: paja.de.palmera.de.coco; PT: (palha.de.palmeira.de).cocão)]" : [{kõtaki}|{kotaki}]
+# ---------------------------------------------------------------------------
 ! 
 | "[=kontona][NRoot][=partridge.sp. (ES: sp.de.perdiz; sci.nm.: odontophorus.gujanensis)]" : {kontona}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kontonanaki][NRoot][=tree.snail.sp. (ES: molusco.que_vive_en_los_árboles; sci.nm.: sultana.sultana)]" : {kontonanaki} ! snail??? 
+# ---------------------------------------------------------------------------
 ! 
 | "[=kontsavo+gndr@m.][NRoot][=ruddy.quail-dove (ES: perdiz.pequeña, paloma.del.monte; sci.nm.: geotrygon.montana,, leptotila.verreauxi,, leptotila.rufaxila)]" : {kontsavo}
 | "[=kontsaro+gndr@m.][NRoot][=ruddy.quail-dove (ES: perdiz.pequeña, paloma.del.monte; sci.nm.: geotrygon.montana,, leptotila.verreauxi,, leptotila.rufaxila)]" : {kontsaro}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kontyari+gndr@m.][NRoot][=yellow-tufted.woodpecker (ES: sp.de.pájaro.carpintero.(pequeño); sci.nm.: melanerpes.cruentatus)]" : {kontyari}
 | "[=konteari+gndr@m.][NRoot][=yellow-tufted.woodpecker (ES: sp.de.pájaro.carpintero.(pequeño); sci.nm.: melanerpes.cruentatus)]" : {konteari}
+# ---------------------------------------------------------------------------
 ! 
 | "[=konti][NRoot][=bird.sp. (ES: sp.de.pájaro; sci.nm.: scaphidura.oryzivora)]" : {konti}
+# ---------------------------------------------------------------------------
 ! 
 # kontzishini / =kontzi -shi -ni / =pona-tree -cl:leafy.substance -cl:watercourse / EN: 'ravine.where.the.pona-tree.leafy.substance.is.abundant'; ES: 'quebrada'   
 | "[=kontzi][NRoot][=tree.sp. (ES: pona)]" : {kontzi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kooya+gndr@n.m.][NRoot][=woman (QU: quya)]" : {kooya} ! N@->V
 | "[=koya+gndr@n.m.][NRoot][=woman (QU: quya)]" : {koya} ! N@->V ! @section:noun@ 
+# ---------------------------------------------------------------------------
 ! 
 | "[=kopitso+gndr@m.][NRoot][=turtle.sp. (ES: sp.de.tortuga)]" : {kopitso}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kora][NRoot][=healer (from.Spanish.cura)]" : {kora}
+# ---------------------------------------------------------------------------
 ! 
 | "[=korakona][NRoot][=supreme.chief (ES: jefe.supremo)]" : {korakona}
+# ---------------------------------------------------------------------------
 ! 
 | "[=korarintsi+gndr@n.m.][NRoot][=corral]" : {korarintsi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koori+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.zapallo)]" : {koori}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koriti+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koriti} ! ?
 | "[=koritzi+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritzi}
@@ -2680,9 +2693,11 @@ define NRootPRQin [
 | "[=kori+gndr@n.m.+inal@tsi.+poss@te.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {kori} ! noyorite 'my sweet potato'
 | "[=koricha+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koricha}
 | "[=koritya+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritya}
+# ---------------------------------------------------------------------------
 ! 
 # korintona / =korinto -na / =mythological.animal -cl:large,deep.pool.of.water / ES: 'la.quebrada.de.Korinto'; EN: "Korinto's.ravine"  
 | "[=korinto][NRoot][=woman-like.human-eater.big.mythological/legendary.animal (ES: piedra.que.come.hombres); elephant (ES: elefante; PT: elefante); lieutenant-governor (ES: teniente.governador)]" : {korinto} ! woman like apperance, human eater
+# ---------------------------------------------------------------------------
 ! 
 | "[=koria+poss@ni.][NRoot][=manioc.worm (ES: sp.de.gusano, gusano.de.yuca; PT: o.verme.da.macaxeira)]" : {koria}
 | "[=korya+poss@ni.][NRoot][=manioc.worm (ES: sp.de.gusano, gusano.de.yuca; PT: o.verme.da.macaxeira)]" : {korya}
