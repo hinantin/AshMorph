@@ -1101,18 +1101,22 @@ define VRootPRQin [
 | "[=kovashiri][VRoot][=to.desire (ES: desear)]" : {kovashiri} 
 ! 
 | "[=kovari][VRoot][=to.corral]" : {kovari}
+# --------------------------------------------------------- 
 ! 
 | "[=kovenka+INF@/EP:tz/V.][VRoot][=to.inspire.fear (ES: inspirar.miedo); to.be.dangerous (danger; ES: espantar)]" : {kovenka}
 | "[=koveenka+INF@/EP:tz/V.][VRoot][=to.inspire.fear (ES: inspirar.miedo); to.be.dangerous (danger; ES: espantar)]" : {koveenka}
+# --------------------------------------------------------- 
 ! 
 | "[=kovintsa+INF@/EP:t/aantsi.+poss@/DEL:a/ne.][VRoot][=to.hunt (ES: cazar)]" : {kovintsa}
 | "[=koventsa][VRoot][=to.hunt (ES: cazar)]" : {koventsa}
 | "[=kovinsa][VRoot][=to.hunt (ES: cazar)]" : {kovinsa} ! ???
 | "[=komintsa+INF@/EP:t/aantsi.][VRoot][=to.hunt (ES: cazar)]" : {komintsa}
 | "[=komentsa][VRoot][=to.hunt (ES: cazar)]" : {komentsa}
+# --------------------------------------------------------- 
 ! 
 ! kov~kovity ?
 | "[=kovity+INF@antsi.+A-Conj@mid.v.][VRoot][=to.lack.sth., to.be.lacking (ES: faltar)]" : {kovity}
+# --------------------------------------------------------- 
 ! 
 | "[=koya][VRoot][=to.gather]" : {koya}
 | "[=koye+INF@/EP:t/VC.][VRoot][=to.gather; to.harvest.manually]" : {koye}
@@ -1120,6 +1124,7 @@ define VRootPRQin [
 | "[=kaye+INF@/EP:t/antsi.][VRoot][=to.harvest]" : {kaye}
 ! 
 | "[=koy+INF@aantsi.][VRoot][=to.select (ES: seleccionar)]" : {koy}
+# --------------------------------------------------------- 
 ! 
 | "[=kya+INF@antsi.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kya}
 | "[=ky+INF@aantsi.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {ky}
