@@ -3,6 +3,9 @@
 # -----------------------------------------------
 # Nouns are transnumeral, i.e., (grammar) ambiguous as to whether it refers to one thing (singular) or more than one (dual or plural). 
 # Although the language possesses a plural suffix (-paye) a nominal root without it, could still be referring to more than one entity. 
+# a. one or more entities (e.g.: koya) 
+# b. one entity (e.g.: aparoni koya) 
+# c. more than one entity (e.g.: koyapaye) 
 
 # The nominal roots provided here are in singular form.
 # Spanish translations are in their singular form and tend to be written in masculine gender unless the entry is exclusively not masculine.
@@ -2670,8 +2673,8 @@ define NRootPRQin [
 | "[=kontzi][NRoot][=tree.sp. (ES: pona)]" : {kontzi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kooya+gndr@n.m.][NRoot][=woman (QU: quya)]" : {kooya} ! N@->V
-| "[=koya+gndr@n.m.][NRoot][=woman (QU: quya)]" : {koya} ! N@->V ! @section:noun@ 
+| "[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)]" : {kooya} ! N@->V
+| "[=koya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)]" : {koya} ! N@->V ! @section:noun@ 
 # ---------------------------------------------------------------------------
 ! 
 | "[=kopitso+gndr@m.][NRoot][=turtle.sp. (ES: sp.de.tortuga)]" : {kopitso}
