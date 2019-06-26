@@ -1076,21 +1076,27 @@ define VRootPRQin [
 | "[=kaeni][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor/picazón, picar, escocer)]" : {kaeni}
 | "[=kaini][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor/picazón, picar, escocer)]" : {kaini}
 | "[=kahen][VRoot][=to.itch (ES: dar.comezón/escozor/picazón)]" : {kahen}
+# --------------------------------------------------------- 
 ! 
 # katyokantsi / ES: 'charqui'; QU: "ch'arki" 
 | "[=katyok+INF@antsi.][VRoot][=to.salt.meat (ES: echar.sal.a.la.carne); to.be.salted; (ES: ser.ácido)]" : {katyok}
 | "[=katyo][VRoot][=to.salt.meat (ES: echar.sal.a.la.carne); to.be.salted]" : {katyo}
 | "[=katio][VRoot][=to.salt.meat (ES: echar.sal.a.la.carne); to.be.salted]" : {katio}
 | "[=kacho][VRoot][=to.salt.meat (ES: echar.sal.a.la.carne); to.be.salted; (ES: ser.ácido)]" : {kacho}
+# --------------------------------------------------------- 
 ! 
 | "[=koshe][VRoot][=to.scrape.a.thin.layer.from.a.surface]" : {koshe}
+# --------------------------------------------------------- 
 ! word set:
 | "[=koshi+INF@/EP:t/aantsi.][VRoot][=to.kidnap]" : {koshi}
 | "[=koshi+INF@/EP:t/aantsi.][VRoot][=to.steal; to.rob (ES: robar)]" : {koshi} ! V@->N::[=profit (ES: lucro)] 
+# --------------------------------------------------------- 
 ! 
 | "[=kotsi+INF@antsi.][VRoot][=to.cook (ES: cocinar, preparar.comida)]" : {kotsi}
+# --------------------------------------------------------- 
 ! 
 | "[=kotzi][VRoot][=to.walk.with.a.cane]" : {kotzi}
+# --------------------------------------------------------- 
 ! 
 | "[=kov+INF@antsi.][VRoot][=to.want (ES: querer)]" : {kov} ! @section:verb@ 
 | "[=ko+INF@antsi.][VRoot][=to.want (ES: querer)]" : {ko} 
