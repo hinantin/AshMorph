@@ -2771,8 +2771,8 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=kaariperori+~{NEG.COP:kaari}{AUG:pero}{NMZ:ri}][NRoot][=bad (ES: malo, mala)]" : {kaariperori}
-| "[=kariperori][NRoot][=bad (ES: malo, mala)]" : {kariperori}
-| "[=kaaripirori][NRoot][=bad (ES: malo, mala)]" : {kaaripirori}
+| "[=kariperori+~{NEG.COP:kari}{AUG:pero}{NMZ:ri}][NRoot][=bad (ES: malo, mala)]" : {kariperori}
+| "[=kaaripirori+~{NEG.COP:kaari}{AUG:pIro}{NMZ:ri}][NRoot][=bad (ES: malo, mala)]" : {kaaripirori}
 # ---------------------------------------------------------------------------
 ! 
 | "[=koshiri+gndr@m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshiri}
