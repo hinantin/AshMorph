@@ -2753,24 +2753,31 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=koshintsi][NRoot][=bird.sp. (it.steals.hair/small_used_fabric_pieces.from.other.bird.species.to.build.its.nest)]" : {koshintsi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koshintsi+gndr@m.][NRoot][=thief, robber (ES: ratero, ladrón)]" : {koshintsi}
 | "[=koshinti+gndr@m.][NRoot][=thief, robber (ES: ratero, ladrón)]" : {koshinti}
+# ---------------------------------------------------------------------------
 ! 
 # cascabel de piel marrón claro con manchas negras y dibujos geométricos en amarillo.
 | "[=koshipirinke][NRoot][=pit.viper.sp. (ES: jergona, víbora.venenosa; sci.nm.: crotalus.durissus), jergón]" : {koshipirinke}
+# ---------------------------------------------------------------------------
 ! 
 # serpiente de manchas marrón oscuro a lo largo del cuerpo 
 | "[=karaapariki][NRoot][=venomous.snake.sp. (ES: sp.serpiente.venenosa; sci.nm.: helicops.angulatus)]" : {karaapariki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=karapariti][NRoot][=venomous.snake.sp., venomous.pitviper.sp. (ES: jergón, sp.culebra.venenosa)]" : {karapariti}
+# ---------------------------------------------------------------------------
 ! 
-| "[=kaariperori][NRoot][=bad (ES: malo, mala)]" : {kaariperori}
+| "[=kaariperori+~{NEG.COP:kaari}{AUG:pero}{NMZ:ri}][NRoot][=bad (ES: malo, mala)]" : {kaariperori}
 | "[=kariperori][NRoot][=bad (ES: malo, mala)]" : {kariperori}
 | "[=kaaripirori][NRoot][=bad (ES: malo, mala)]" : {kaaripirori}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koshiri+gndr@m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshiri}
 | "[=koshire+gndr@m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshire}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koshirihempe][NRoot][=big.venomous.spider (ES: araña.grande-y-venenosa)]" : {koshirihempe}
 | "[=koshireempe][NRoot][=big.venomous.spider (ES: araña.grande-y-venenosa)]" : {koshireempe}
