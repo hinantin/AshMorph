@@ -2784,9 +2784,11 @@ define NRootPRQin [
 | "[=koshiriimpi][NRoot][=big.venomous.spider (ES: araña.grande-y-venenosa)]" : {koshiriimpi}
 ! 
 | "[=koshirihempeki][NRoot][=monkey.spider (ES: araña.mono)]" : {koshirihempeki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koshoshiko][NRoot][=dolphin.sp. (ES: bufeo,delfin)]" : {koshoshiko}
 | "[=koshoshika][NRoot][=dolphin.sp. (ES: bufeo,delfin)]" : {koshoshika}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koteri][NRoot][=bird.sp. (ES: unchala)]" : {koteri}
 | "[=kotiri][NRoot][=bird.sp. (ES: unchala)]" : {kotiri}
@@ -2794,6 +2796,7 @@ define NRootPRQin [
 | "[=kovatsere][NRoot][=bird.sp. (ES: unchala, huanchala)]" : {kovatsere}
 | "[=kovachere][NRoot][=bird.sp. (ES: unchala, huanchala)]" : {kovachere}
 | "[=kovacheri][NRoot][=gray-necked.wood.rail, bird.sp. (unchala, sci.nm.: aramides.cajanea)]" : {kovacheri}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kotzi+gndr@n.m.+inal@tsi.][NRoot][=cane, stick (ES: bastón)]" : {kotzi}
 | "[=koti+gndr@n.m.+inal@tsi.][NRoot][=cane, stick (ES: bastón)]" : {koti}
