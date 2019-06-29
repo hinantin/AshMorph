@@ -2800,18 +2800,24 @@ define NRootPRQin [
 ! 
 | "[=kotzi+gndr@n.m.+inal@tsi.][NRoot][=cane, stick (ES: bastón)]" : {kotzi}
 | "[=koti+gndr@n.m.+inal@tsi.][NRoot][=cane, stick (ES: bastón)]" : {koti}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koti][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {koti}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kovana+gndr@m.][NRoot][=lisa-fish (ES: lisa; sci.nm.: anostomidae, leporinus.friderici)]" : {kovana}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kovantsi+gndr@n.m.][NRoot][=tree/plant.sp. (ES: planta.del.pájaro.bobo, bobinsana~bobinzana.grande, sp.de.arbusto)]" : {kovantsi}
 | "[=kovantzi+gndr@n.m.][NRoot][=tree/plant.sp. (ES: planta.del.pájaro.bobo, bobinsana~bobinzana.grande, sp.de.arbusto)]" : {kovantzi}
 | "[=kotzivatse][NRoot][=tree/plant.sp. (ES: bobinsana.chica)]" : {kotzivatse}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kovari][NRoot][=white-necked.trush (sci.nm.: turdus.albicollis)]" : {kovari}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kovashito][NRoot][=person's.name, NP]" : {kovashito}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koventsari][NRoot][=hunter (ES: cazador)]" : {koventsari}
 | "[=kovintsari][NRoot][=hunter (ES: cazador)]" : {kovintsari}
@@ -2819,10 +2825,13 @@ define NRootPRQin [
 | "[=komintsantzi+gndr@m.][NRoot][=hunter (ES: cazador)]" : {komintsantzi}
 | "[=kovinsanto+gndr@n.m.][NRoot][=huntress (ES: cazadora)]" : {kovinsanto}
 | "[=komintsanto+gndr@n.m.][NRoot][=huntress (ES: cazadora)]" : {komintsanto}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kovinko][NRoot][=white-necked.puffbird (sci.nm.: notharcus.macrorhinchus)]" : {kovinko}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kovinkotzi][NRoot][=musician.wren (sci.nm.: cyphorhinus.arada)]" : {kovinkotzi}
+# ---------------------------------------------------------------------------
 ! inal?
 | "[=kovitsi+gndr@n.m.+poss@te.][NRoot][=(clay).pot (ES: olla.(de.barro), tinaja)]" : {kovitsi}
 | "[=koviti+gndr@n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {koviti}
@@ -2866,26 +2875,32 @@ define NRootPRQin [
 | "[=machai][NRoot][=big-bean.plant.sp. (ES: frejol)]" : {machai}
 | "[=machaaki+poss@te.][NRoot][=big.bean (ES: frijol.grande, botany.id.: canavalia.sp.; PT: feijão.peruano)]" : {machaaki}
 | "[=matxaaki+poss@te.][NRoot:CPB][=big.bean (ES: frijol.grande, botany.id.: canavalia.sp.; PT: feijão.peruano)]" : {matxaaki}
+# -----------------------------------------------------------------------
 ! 
 | "[=macheroki][NRoot][=plant.sp. (achotillo.leche)]" : {macheroki}
+# -----------------------------------------------------------------------
 ! 
 | "[=machiyenka][NRoot][=Matsigenka]" : {machiyenka}
+# -----------------------------------------------------------------------
 ! 
 # la larva 'maho' del escarabajo comestible de forma alargada y muchas patas que habita en pequeños túneles 
 # que excava en el suelo del bosque primario. Aparece en gran número a finales de la estación de 
 # lluvias en la zona de la confluencia de los ríos Ene y Perené 
 # majokiawo / mahokiavo / =maho -ki -a -vo / =larva.sp. -cl:seed-like -cl:liquid -nmz / EN: 'ravine.where.the.maho-larvae.are.abundant'; ES: 'quebrada.donde.abunda.el.gusano-maho'  
 | "[=maho][NRoot][=bamboo.big-and-white.larva/worm.sp. (ES: sp.de.gusano/larva; sci.nm.: orden.coleoptera, familia.scarabaeidae)]" : {maho}
+# -----------------------------------------------------------------------
 ! 
 | "[=mahoti][NRoot][=potoo.sp. (ES: chotacabra; sci.nm.: nyctibius.griseus)]" : {mahoti}
 | "[=narani][NRoot][=potoo.sp. (ES: chotacabra); eagle-like.nocturnal.bird.sp. (ES: ave.nocturna.simlar.al.alguila)]" : {narani}
 | "[=ariti][NRoot][=potoo.sp. (ES: chotacabra); medium-sized.edible.bird (ES: ave.comestible.mediana)]" : {ariti}
 | "[=ariiti][NRoot][=potoo.sp. (ES: chotacabra); medium-sized.edible.bird (ES: ave.comestible.mediana)]" : {ariiti}
 | "[=santani][NRoot][=potoo.sp. (ES: chotacabra); edible.nocturnal.bird (ES: ave.nocturna.comestible)]" : {santani}
+# -----------------------------------------------------------------------
 ! 
 | "[=mahoki+gndr@m.][NRoot][=tadpole.of.a.toad.sp., toad (ES: sp.de.renacuajo, sapo)]" : {mahoki}
 | "[=masoki+gndr@m.][NRoot][=tadpole.of.a.toad.sp., toad (ES: sp.de.renacuajo, sapo)]" : {masoki}
 | "[=soveroki][NRoot][=tadpole.of.a.toad.sp.]" : {soveroki} ! to be checked 
+# -----------------------------------------------------------------------
 ! 
 | "[=mainari+gndr@m.][NRoot][=single.man; old.bachelor (ES: solterón)]" : {mainari}
 | "[=maenari+gndr@m.][NRoot][=single.man; old.bachelor (ES: solterón)]" : {maenari} 
