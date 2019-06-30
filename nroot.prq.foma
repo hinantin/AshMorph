@@ -2910,39 +2910,53 @@ define NRootPRQin [
 | "[=mahinaro+gndr@n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {mahinaro}
 | "[=mainavo+gndr@n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {mainavo} 
 | "[=maenavo+gndr@n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {maenavo}
+# -----------------------------------------------------------------------
 ! 
 | "[=maini+gndr@m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maini}
 | "[=maeni+gndr@m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maeni}
-| "[=meeni][NRoot][=bear.sp. (ES: sp.de.oso); spectacled.bear (ES: oso.de.anteojos; QU: ukumari; sci.nm.: tremarctus.ornatus)]" : {meeni}
+| "[=meeni+gndr@m.][NRoot][=bear.sp. (ES: sp.de.oso); spectacled.bear (ES: oso.de.anteojos; QU: ukumari; sci.nm.: tremarctus.ornatus)]" : {meeni}
+# -----------------------------------------------------------------------
 ! 
 | "[=mainto+gndr@m.][NRoot][=fish.sp. (big.bujurqui-fish; ES: bujurqui.grande, sp.de.pez)]" : {mainto}
+# -----------------------------------------------------------------------
 ! 
 | "[=maipicho+gndr@m.][NRoot][=bird.sp. (ES: sp.de.perico)]" : {maipicho}
+# -----------------------------------------------------------------------
 ! 
 | "[=makako][NRoot][=macaque]" : {makako}
+# -----------------------------------------------------------------------
 ! 
 | "[=makavari+gndr@m.][NRoot][=bird.sp.; black.eagle.sp.that.feeds.on.snakes (ES: ave.rapaz/carroñera; sci.nm.: leucopternis.albicollis)]" : {makavari}
+# -----------------------------------------------------------------------
 ! 
 | "[=maakavatzi][NRoot][=laughing.falcon (herpetotheres.cachinnans)]" : {maakavatzi}
+# -----------------------------------------------------------------------
 ! 
 | "[=maapata+gndr@m.][NRoot][=insect.sp.]" : {maapata}
+# -----------------------------------------------------------------------
 ! 
 | "[=makota][NRoot][=reptile.sp., lizard.sp., chameleon.sp. (ES: camaleón)]" : {makota}
 | "[=shakota][NRoot][=reptile.sp., lizard.sp., chameleon.sp. (ES: camaleón)]" : {shakota}
+# -----------------------------------------------------------------------
 ! 
 | "[=makokava][NRoot][=partridge.sp. (ES: panguana, perdiz)]" : {makokava}
 | "[=maakokava][NRoot][=partridge.sp. (ES: panguana, perdiz)]" : {maakokava}
 | "[=maakookava][NRoot][=partridge.sp. (ES: panguana, perdiz)]" : {maakookava}
+# -----------------------------------------------------------------------
 # aateekotzi: evonkiri.inatzi 
 | "[=aateekotzi][NRoot][=medium-sized.partridge.sp. (ES: panguana, perdiz)]" : {aateekotzi}
 | "[=aatiikotzi][NRoot][=medium-sized.partridge.sp. (ES: panguana, perdiz)]" : {aatiikotzi}
+# -----------------------------------------------------------------------
 ! 
 | "[=makoso][NRoot][=chestnut-capped.puffbird (sci.nm.: bucco.macrodactylus)]" : {makoso}
+# -----------------------------------------------------------------------
 ! 
 | "[=maaniri+gndr@n.m.][NRoot][=black.cinnamon.sp., medicinal.tree.sp.]" : {maaniri}
 | "[=maaniri][NRoot][=person's.name, NP]" : {maaniri}
+# -----------------------------------------------------------------------
 ! 
 | "[=mamori+gndr@m.][NRoot][=fish.sp., sabalo (ES: sábalo; sci.nm.: brycon.sp.)]" : {mamori}
+# -----------------------------------------------------------------------
 ! 
 | "[=mamaro+gndr@m.][NRoot][=owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamaro}
 | "[=mamavo+gndr@m.][NRoot][=owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamavo}
