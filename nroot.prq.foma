@@ -3530,12 +3530,15 @@ define NRootPRQin [
 ! 
 | "[=motinti+gndr@m.][NRoot][=paunchy]" : {motinti} ! motinti / =moti -nti / =stomach -adj.n.m.
 | "[=motinto+gndr@n.m.][NRoot][=pregnant (ES: embarazada)]" : {motinto} ! motinto / =moti -nto / =stomach -adj.m.
+# ----------------------------------------------------------------- 
 ! 
 | "[=nainaintzi+gndr@m.][NRoot][=white-chinned.jacamar, bird.sp. (sci.nm.: galbula.tombacca)]" : {nainaintzi}
 | "[=nainaitzi+gndr@m.][NRoot][=hummingbird-like.bird (ES: sp.de.pájaro)]" : {nainaitzi}
 | "[=naintzi+gndr@m.][NRoot][=hummingbird-like.bird (ES: sp.de.pájaro)]" : {naintzi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=naki][NRoot][=interior.space (ES: espacio.interior, hueco)]" : {naki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=nana+gndr@n.m.+voc.+poss@te:ti.+kin@fe/male.ego][NRoot][=mom, mother (ES: mamá)]" : {nana}
 | "[=naana+gndr@n.m.+voc.+poss@te:ti.+kin@fe/male.ego][NRoot][=mom, mother (ES: mamá)]" : {naana}
@@ -3543,6 +3546,7 @@ define NRootPRQin [
 | "[=nanaeni+gndr@n.m.+voc.+poss@te.+kin@fem.ego][NRoot][=aunt]" : {nanaeni} ! eni ??? 
 | "[=nanaine+gndr@n.m.+voc.+poss@te.+kin@fem.ego][NRoot][=aunt]" : {nanaine}
 | "[=nanaini+gndr@n.m.+voc.+poss@te:ti.+kin@fem.ego][NRoot][=aunt]" : {nanaini}
+# ----------------------------------------------------------------- 
 ! 
 | "[=nantatziri][NRoot][=goblin-like.creature, master-owner.of.animals (it.lives.in.rocky.areas)]" : {nantatziri}
 ! 
