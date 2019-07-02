@@ -3294,6 +3294,7 @@ define NRootPRQin [
 | "[=meiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {meiri}
 | "[=meyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {meyiri}
 | "[=miyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {miyiri}
+# ----------------------------------------------------------------- 
 ! 
 | "[=miitsi+gndr@m.][NRoot][=cat (ES: gato)]" : {miitsi}
 | "[=misho+gndr@m.][NRoot][=cat (ES: gato)]" : {misho}
@@ -3301,29 +3302,38 @@ define NRootPRQin [
 | "[=miishito+gndr@m.][NRoot][=cat (ES: gato)]" : {miishito}
 | "[=miichi+gndr@m.][NRoot][=cat (ES: gato)]" : {miichi}
 | "[=miishi][NRoot][=cat (ES: gato)]" : {miishi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=memeri+gndr@m.][NRoot][=small.green.parrot.sp. (ES: sp.de.lorito.verde; sci.nm.: pyrrhura.picta)]" : {memeri}
+# ----------------------------------------------------------------- 
 ! 
 | "[=menki+gndr@n.m.+inal@tsi.][NRoot][=partly-burned.stick (ES: tizón)]" : {menki}
 | "[=minki+gndr@n.m.+inal@tsi.][NRoot][=partly-burned.stick (ES: tizón)]" : {minki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=menko+gndr@n.m.+inal@tsi:tzi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=minko+gndr@n.m.+inal@tsi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 !| "[=menko+gndr@n.m.+inal@tzi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} 
+# ----------------------------------------------------------------- 
 ! 
 | "[=mentaro+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mentaro}
 | "[=mentavo+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mentavo}
 | "[=mintavo+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mintavo}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mire+inal@tsi.][NRoot][=liquid.for.thirst (ES: líquido.para.la.sed); thirst (ES: sed)]" : {mire}
+# ----------------------------------------------------------------- 
 ! 
 | "[=miri][NRoot][=red-fan.parrot (sci.nm.: deroptyus.accipitrinus)]" : {miri}
+# ----------------------------------------------------------------- 
 ! 
 | "[=merenari+gndr@m.][NRoot][=fish.sp., mojarra.sp.]" : {merenari}
 | "[=mirinari+gndr@m.][NRoot][=fish.sp., mojarra.sp.]" : {mirinari}
+# ----------------------------------------------------------------- 
 ! 
 | "[=merepiri+gndr@n.m.][NRoot][=sharpening.stone, whetstone; filing.rock (ES: piedra.para/de.afilar)]" : {merepiri}
 | "[=miripiri+gndr@n.m.][NRoot][=sharpening.stone, whetstone; filing.rock (ES: piedra.para/de.afilar)]" : {miripiri}
+# ----------------------------------------------------------------- 
 ! 
 # omirikipanki / o- =miriki -panki / 3n.m.poss- =rib -cl:plank / EN: 'its.roof.lattice' 
 # omiripanki / o- =miri -panki / 3n.m.poss- =rib -cl:plank / EN: 'roof.lattice' 
@@ -3331,112 +3341,151 @@ define NRootPRQin [
 | "[=miriki+gndr@n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {miriki}
 | "[=mereki+gndr@n.m.+inal@ntsi.][NRoot][=rib (ES: costilla)]" : {mereki} ! @CMP @VCMP
 | "[=miri][NRoot][=rib (ES: costilla)]" : {miri}
+# ----------------------------------------------------------------- 
 ! 
 | "[=merekiri+gndr@m.][NRoot][=catfish.sp., cunchi/kunchi.sp., fish.sp.]" : {merekiri}
+# ----------------------------------------------------------------- 
 ! 
 | "[=Meroka][NRoot][=person's.name]" : {meroka}
+# ----------------------------------------------------------------- 
 ! 
 | "[=miro][NRoot][=frog.sp. (ES: especie.de.rana)]" : {miro}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meronki+gndr@n.m.][NRoot][=tree.sp. (chimicua)]" : {meronki}
 | "[=mironki+gndr@n.m.][NRoot][=tree.sp. (chimicua)]" : {mironki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mironta][NRoot][=flat (ES: objeto.plano-y-chato)]" : {mironta} ! @VCMP 
 | "[=meronta][NRoot][=flat (ES: objeto.plano-y-chato)]" : {meronta} ! @VCMP 
+# ----------------------------------------------------------------- 
 ! 
 | "[=meronti][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: buteo.albigula)]" : {meronti}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mereto+gndr@m.+poss@te.][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]" : {mereto}
 | "[=mirito+gndr@m.+poss@te.][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]" : {mirito}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meshaa+gndr@n.m.][NRoot][=tree.sp. (capirona)]" : {meshaa}
 | "[=mishaa+gndr@n.m.][NRoot][=tree.sp. (capirona)]" : {mishaa}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mesha_oteyaki][NRoot][= (PT: mulateiro; sci.nm.: família.fabaceae)]" : {mesha_oteyaki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meshina+gndr@n.m.+inal@n/tsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {meshina}
 | "[=mishina+gndr@n.m.+inal@ntsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {mishina}
 | "[=mishina][NRoot][=skin (ES: piel)]" : {mishina}
 | "[=mishi][NRoot][=skin (ES: piel)]" : {mishi}
 | "[=meshi][NRoot][=skin (ES: piel)]" : {meshi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meta+gndr@n.m.][NRoot][=small.stone (ES: piedrita)]" : {meta}
+# ----------------------------------------------------------------- 
 ! 
 | "[=Metaro][NRoot][=village's.name; flat, rounded.slightly.curved.area (ES: plato.de.barro)]" : {metaro}
 | "[=Metavo][NRoot][=village's.name; flat, rounded.slightly.curved.area (ES: plato.de.barro)]" : {metavo}
 | "[=Metraro][NRoot][=village's.name; rounded.slightly.curved.area (ES: plato.de.barro)]" : {metraro}
 | "[=Metararo][NRoot][=village's.name; rounded.slightly.curved.area (ES: plato.de.barro)]" : {metararo}
+# ----------------------------------------------------------------- 
 ! 
 | "[=metso][NRoot][=soft, tender (ES: suave, blando)]" : {metso}
+# ----------------------------------------------------------------- 
 ! 
 | "[=metsoki][NRoot][=hog.plum (ES: ubos; PT: cajazeira; sci.nm.: spondias.mombin, anacardiaceae)]" : {metsoki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=metsonakiri][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: plecostomus.sp.)]" : {metsonakiri}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meshiki+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {meshiki}
 | "[=mishiki+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {mishiki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meshikinti][NRoot][=yellow-dotted.black.ant.sp. (ES: sp.de.hormiga.negra.con.puntos.amarillos; sci.nm: subfamilia.ponerinae)]" : {meshikinti}
+# ----------------------------------------------------------------- 
 ! 
 | "[=minkori+gndr@n.m.][NRoot][=cloud (ES: nube)]" : {minkori} 
 | "[=menkori+gndr@n.m.][NRoot][=cloud (ES: nube)]" : {menkori} ! N@->V::[=to.be.cloudy/foggy/misty (ES: estar.brumoso)]
+# ----------------------------------------------------------------- 
 ! 
 | "[=minka+inal@tsi.][NRoot][=trunk (ES: tronco); stem; sturdy.material/substance]" : {minka}
 | "[=minkaa+inal@tsi.][NRoot][=trunk (ES: tronco); stem]" : {minkaa}
+# ----------------------------------------------------------------- 
 ! 
 | "[=miriti+gndr@m.][NRoot][=orphan (ES: huérfano)]" : {miriti}
 | "[=miritzi+gndr@m.][NRoot][=orphan (ES: huérfano)]" : {miritzi}
 | "[=mirito+gndr@n.m.][NRoot][=orphan (ES: huérfana)]" : {mirito}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mishako][NRoot][=person's.name, NP]" : {mishako}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mishari][NRoot][=person's.name, NP]" : {mishari}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meta+gndr@n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {meta}
 | "[=mita+gndr@n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {mita}
 | "[=mitaa+gndr@n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {mitaa}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meta+gndr@n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+gndr@n.m.+inal@ntsi.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {metasankari} ! compound 
 | "[=mita+gndr@n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+gndr@n.m.+inal@ntsi.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {mitasankari} ! compound 
+# ----------------------------------------------------------------- 
 ! 
 | "[=miti+inal@tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {miti}
 | "[=mitzi+inal@tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzi}
 | "[=mitzikaa+inal@n/tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzikaa}
 | "[=mitzikara+inal@ntsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {mitzikara}
 | "[=mititsa][NRoot][=spine (ES: columna)]" : {mititsa}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mitziki][NRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
 | "[=sompoinari+gndr@m.][NRoot][=humpback.person (ES: persona.jorobada)]" : {sompoinari} 
 | "[=sompoinaro+gndr@n.m.][NRoot][=humpback.person (ES: persona.jorobada)]" : {sompoinaro} 
+# ----------------------------------------------------------------- 
 ! 
 | "[=mitiri+gndr@m.][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {mitiri}
 | "[=miteri+gndr@m.][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {miteri}
+# ----------------------------------------------------------------- 
 ! 
 | "[=moka+gndr@n.m.][NRoot][=cocoa.sp. (ES: sp.de.árbol, cacao.silvestre)]" : {moka}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mochori][NRoot][=olingo (ES: chozna, chosna, mamífero.nocturno; sci.nm.: bassaricyon.spp)]" : {mochori}
+# ----------------------------------------------------------------- 
 ! 
 | "[=moito+gndr@n.m.+inal@n/tsi.][NRoot][=navel (ES: ombligo); umbilical.cord (ES: cordón.umbilical)]" : {moito}
 | "[=moeto+gndr@n.m.+inal@ntsi.][NRoot][=navel (ES: ombligo); umbilical.cord (ES: cordón.umbilical)]" : {moeto}
+# ----------------------------------------------------------------- 
 ! 
 | "[=moimoitzi][NRoot][=smooth-billed.ani (sci.nm.: crotophaga.ani)]" : {moimoitzi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=moncho][NRoot][=fish.sp. ([ˈmən.tʃə]; ES: sp.de.carachama, sp.de.zúngaro, pez.saltón; sci.nm.: pseudorus.niger)]" : {moncho}
+# ----------------------------------------------------------------- 
 ! 
 | "[=monkitzi][NRoot][=small-scale.convexity]" : {monkitzi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mora][NRoot][=mule]" : {mora}
+# ----------------------------------------------------------------- 
 ! 
 | "[=moraina][NRoot][=greater.ani (sci.nm.: crotophaga.major)]" : {moraina}
+# ----------------------------------------------------------------- 
 ! 
 | "[=morinaki][NRoot][=castor-oil.plant.seed (its.leaves.are.used.to.kill.chicken_lice; ES: semilla.de.ricino; sc.nm.: ricinus.communis)]" : {morinaki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=morinashi][NRoot][=leaves.to.evaporate (ES: hojas.para.evaporar)]" : {morinashi}
+# ----------------------------------------------------------------- 
 ! 
 ! ikemamorintetakeri  
 ! pi- n- =tik -a -morinte -shi -t -ea
 ! pochamorinte 
 | "[=morinte][NRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
+# ----------------------------------------------------------------- 
 ! 
 | "[=moo+gndr@n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]" : {moo}
 | "[=moro+gndr@n.m.+inal@n/tsi.][NRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
@@ -3444,22 +3493,27 @@ define NRootPRQin [
 | "[=omoo][NRoot][=hole (ES: hueco)]" : {omoo}
 | "[=omo][NRoot][=hole (ES: hueco)]" : {omo}
 | "[=omoka][NRoot][=hole (ES: hueco)]" : {omoka}
+# ----------------------------------------------------------------- 
 ! 
 | "[=morona][NRoot][=hole (ES: hueco)]" : {morona}
 | "[=morona][NRoot][=cave (ES:cueva)]" : {morona}
 | "[=omoona][NRoot][=hole (ES: hueco)]" : {omoona} 
 | "[=omorona+gndr@n.m.][NRoot][=long.hole (ES: hueco.largo)]" : {omorona} 
 | "[=omona][NRoot][=hole (ES: hueco)]" : {omona}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mota][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: perugia.sp.)]" : {mota}
+# ----------------------------------------------------------------- 
 ! 
 # antaro omotonkanive / =antaro o- =motonka -ni -ve / 
 # omoitonkapaye / omoitonkapaye / 
 | "[=motonka+poss@ni:ne.][NRoot][=whirlpool (ES: remolino)]" : {motonka}
 | "[=moitonka+poss@ne:re.][NRoot][=whirlpool (ES: remolino); wave (ES: ola)]" : {moitonka}
 | "[=moetonka+poss@re.][NRoot][=whirlpool (ES: remolino); wave (ES: ola)]" : {moetonka}
+# ----------------------------------------------------------------- 
 ! 
 | "[=motyokiri][NRoot][=woodpecker.sp. (ES: pájaro.carpintero; sci.nm.: veniliornis.dignus)]" : {motyokiri}
+# ----------------------------------------------------------------- 
 ! 
 # tsinaro motsitsi / =tsinaro =motsi -tsi / =cricket =belly -nposs / EN: 'big_belly/paunchy.cricket', ES/QU: 'grillo.buchesapa'
 | "[=motsi+gndr@n.m.+inal@tsi.][NRoot][=tummy, belly (ES: barriga, abdomen)]" : {motsi}
