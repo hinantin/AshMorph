@@ -3146,9 +3146,11 @@ define NRootPRQin [
 # cardumen (mijanada) ??? 
 | "[=matsiro+poss@ti.][NRoot][=migratory-fishes (ES: mijano, peces.migratorios, multitud.de.peces.que.nadan.juntos; migraciòn.estacional.de.peces)]" : {matsiro} 
 | "[=otiyaarentsi][NRoot][=migratory-fishes (ES: mijano, peces.migratorios, multitud.de.peces.que.nadan.juntos; migraciòn.estacional.de.peces)]" : {otiyaarentsi} 
+# ----------------------------------------------------------------- 
 ! 
 | "[=mapitzi+gndr@m.][NRoot][=small.bird.sp. (ES: sp.de.pájaro)]" : {mapitzi}
 | "[=mapiti+gndr@m.][NRoot][=small.bird.sp. (ES: sp.de.pájaro)]" : {mapiti}
+# ----------------------------------------------------------------- 
 ! 
 ! mankiawo / mankiavo / =manki -a -vo / =serpent -cl:liquid -nmz / EN: 'lake.where.serpents.are.abundant'; ES: 'laguna.donde.abundan.las.culebras'  
 | "[=maanki+gndr@m.][NRoot][=snake (ES: sp.de.culebra; PT: cobras.em.geral), serpent]" : {maanki}
@@ -3159,55 +3161,73 @@ define NRootPRQin [
 ! 
 | "[=marankiaro][NRoot][=name.of.village]" : {marankiaro}
 | "[=marankiari][NRoot][=name.of.village]" : {marankiari}
+# ----------------------------------------------------------------- 
 ! 
 | "[=Mariiya+gndr@n.m.][NRoot][=Mary]" : {mariiya}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mapooteshi+gndr@n.m.][NRoot][=rooftop (ES: cumbre.del.techo)]" : {mapooteshi}
 | "[=mapoteshi+gndr@n.m.][NRoot][=rooftop (ES: cumbre.del.techo)]" : {mapoteshi}
+# ----------------------------------------------------------------- 
 ! 
 !| "[=masoko+gndr@m.][NRoot][=small.bird.sp.]" : {masoko}
 | "[=masoko+gndr@m.][NRoot][=small.bird.sp. (ES: sp.de.pajarito)]" : {masoko}
+# ----------------------------------------------------------------- 
 ! 
 | "[=masonti+gndr@m.][NRoot][=mute, fool (ES: mudo)]" : {masonti}
 | "[=masontzi+gndr@m.][NRoot][=mute, fool (ES: mudo)]" : {masontzi}
 | "[=masonto+gndr@n.m.][NRoot][=mute, fool (ES: muda)]" : {masonto}
 | "[=mahonti+gndr@m.][NRoot][=mute, fool (ES: mudo)]" : {mahonti}
 | "[=mahontzi+gndr@m.][NRoot][=mute, fool (ES: mudo)]" : {mahontzi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=masova+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {masova}
+# ----------------------------------------------------------------- 
 ! 
 | "[=Mateeyo+gndr@m.][NRoot][=Matthew]" : {mateeyo}
+# ----------------------------------------------------------------- 
 ! 
 | "[=Moisés/Moishishi+gndr@m.][NRoot][=Moses]" : {moishishi}
+# ----------------------------------------------------------------- 
 ! 
 !| "[=maamento+inal@tsi.][NRoot][=bed (ES: cama)]" : {maamento} ! @section:noun@ 
+# ----------------------------------------------------------------- 
 ! 
 | "[=maviki][NRoot][=vine.sp. (it.produces.black.hard.shiny.seeds; sci.nm.: cardiospermum.sp.)]" : {maviki}
 | "[=maaviki][NRoot][=vine.sp. (it.produces.black.hard.shiny.seeds; sci.nm.: cardiospermum.sp.)]" : {maaviki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mavira+gndr@n.m.][NRoot][=festival.that.marks.the.beginning.of.the.season.of.scarcity (ES: festejo.de.la.planta.chakopi); arrow.flower.festival]" : {mavira}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mavitaro][NRoot][=Venus (ES: esposa.de.la.luna; PT: mulher.do.lua)]" : {mavitaro}
 | "[=kinankaro][NRoot][=Mars (ES: Marte)]" : {kinankaro}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mavona+gndr@n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (ES: sachapapa; QU: sach'a.papa; sci.nm.: arachis.hypogaea)]" : {mavona}
 | "[=maona+gndr@n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (ES: sachapapa; QU: sach'a.papa; ES: ñame; sci.nm.: arachis.hypogaea, dioscurea.trifida)]" : {maona}
 | "[=maana+gndr@n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (ES: sachapapa; QU: sach'a.papa; sci.nm.: arachis.hypogaea, dioscorea.sp.)]" : {maana}
 | "[=manao][NRoot][=potato.sp., edible.tuber; yam-vegetable (ES: sachapapa; QU: sach'a.papa; sci.nm.: arachis.hypogaea, dioscorea.sp.)]" : {manao}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mavoro+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudocetopsis.sp.)]" : {mavoro}
+# ----------------------------------------------------------------- 
 ! 
 | "[=maontzi+gndr@m.][NRoot][=common.potoo, gray_colored.nocturnal.bird.sp. (ayayaymama(n); sci.nm.: nyctibius.griseus)]" : {maontzi}
 | "[=maonti+gndr@m.][NRoot][=common.potoo, gray_colored.nocturnal.bird.sp. (ayayaymama(n); sci.nm.: nyctibius.griseus)]" : {maonti}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mayempiri+gndr@m.][NRoot][=womanizer (ES: mujeriego)]" : {mayempiri}
 | "[=mayempiro+gndr@n.m.][NRoot][=seductress; prostitute (ES: prostituta); adulterous.woman]" : {mayempiro}
+# ----------------------------------------------------------------- 
 ! 
 # mayonkona ES: 'tubérculo.que.se.usa.para.dar.color.a.la.comida' 
 | "[=mayonkona][NRoot][=turmeric (ES: palillo, guisador; botany.id.: curcuma.longa)]" : {mayonkona}
 | "[=maneonkona][NRoot][=turmeric (ES: palillo, guisador; botany.id.: curcuma.longa)]" : {maneonkona}
+# ----------------------------------------------------------------- 
 ! 
 | "[=manyoi+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {manyoi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=manyoo+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {manyoo}
 | "[=manyo/maño+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {manyo}
