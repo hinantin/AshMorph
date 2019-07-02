@@ -3565,19 +3565,25 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=napo][NRoot][=person's.name; NP]" : {napo}
+# ---------------------------------------------------------------------
 ! 
 | "[=natsiryari+gndr@m.][NRoot][=green]" : {natsiryari}
 | "[=natsiryaro+gndr@n.m.][NRoot][=green]" : {natsiryaro}
+# ---------------------------------------------------------------------
 ! 
 | "[=natsitonini][NRoot][=the.stream.of.bones]" : {natsitonini}
+# ---------------------------------------------------------------------
 ! 
 | "[=nato][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio); medicinal.plant.sp. (ES: sp.de.planta.medicinal)]" : {nato}
 | "[=hayapa][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio)]" : {hayapa}
+# ---------------------------------------------------------------------
 ! 
 | "[=nava+gndr@n.m.+inal@tsi.][NRoot][=freckle, mole (ES: peca)]" : {nava}
+# ---------------------------------------------------------------------
 ! 
 | "[=navireri][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {navireri}
 | "[=naviriri][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {naviriri}
+# ---------------------------------------------------------------------
 ! 
 | "[=nehi+inal@tsi.][NRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
 | "[=nee][NRoot][=chest (ES: pecho)]" : {nee}
@@ -3586,6 +3592,7 @@ define NRootPRQin [
 | "[=chopinee+inal@n/tsi.][NRoot][=chest (ES: pecho)]" : {chopinee}
 | "[=chopini+inal@ntsi.][NRoot][=chest (ES: pecho)]" : {chopini}
 | "[=chopinii+inal@ntsi.][NRoot][=chest (ES: pecho)]" : {chopinii}
+# ---------------------------------------------------------------------
 ! 
 # nitsi / =ni -tsi / =louse -nposs / EN: 'louse'  
 # noni / no- =ni / 1sg.poss- =louse / EN : 'my.louse'  
@@ -3594,24 +3601,30 @@ define NRootPRQin [
 | "[=ne+gndr@m.+inal@tsi.][NRoot][=louse (ES: piojo)]" : {ne}
 | "[=ni+gndr@m.+inal@tsi.][NRoot][=louse (ES: piojo)]" : {ni}
 | "[=heni+inal@tsi.][NRoot][=louse (ES: piojo)]" : {heni}
+# ---------------------------------------------------------------------
 ! 
 | "[=nenke+inal@tsi.][NRoot][=collar (ES: medalla,, collar); (glass).bead (ES: abalorio)]" : {nenke}
 | "[=nenketsiki][NRoot][=collar (ES: collar); NP, person's.name]" : {nenketsiki}
+# ---------------------------------------------------------------------
 ! 
 | "[=nenkitsi+gndr@n.m.][NRoot][=plant.sp. (ES: mullo, mostacía)]" : {nenkitsi}
 | "[=ninkitsi+gndr@n.m.][NRoot][=plant.sp. (ES: mullo)]" : {ninkitsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=neronto+gndr@m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: ronsapa, sp.de.abeja,, shinguto, shinguito)]" : {neronto}
 | "[=nironto+gndr@m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: ronsapa, sp.de.abeja,, shinguto, shinguito)]" : {nironto}
+# ---------------------------------------------------------------------
 ! 
 | "[=nerontoki+gndr@m.][NRoot][=bee.sp. (ES: sp.de.abeja; sci.nm.: apis.mellifera )]" : {nerontoki}
 | "[=nirontoki+gndr@m.][NRoot][=fly.sp.]" : {nirontoki}
+# ---------------------------------------------------------------------
 ! 
 !| "[=nihaa][VRoot][=to.water]" : {nihaa} ! revise?
 | "[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP ! N@->V::[=to.water]
 | "[=niha+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
 | "[=hinya/hĩya+poss@te.][NRoot:CPB][=water (ES: agua); river (ES: rio)]" : [{hĩya}|{hiya}] 
 | "[=hinyaa/hĩyaa+poss@te.][NRoot:CPB][=water (ES: agua); river (ES: rio)]" : {hĩyaa} 
+# ---------------------------------------------------------------------
 ! 
 # nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek'
 | "[=nihateni+~{'water':niha}{CL:/'longitudinal.depression':teni/}][NRoot][=brook;| creek (ES: quebrada, arroyo)]" : {nihateni} ! @section:noun@ 
@@ -3620,15 +3633,17 @@ define NRootPRQin [
 | "[=hinyaatini/hiñaatini][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaatini}
 | "[=nyaateni/ñaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nyaateni}
 #| "[=nihaveri+gndr@m.][NRoot][=water.sprite]" : {nihaveri}
+# ---------------------------------------------------------------------
 ! 
 | "[=niivotya][NRoot][=NP; person's.name]" : {niivotya}
+# ---------------------------------------------------------------------
 ! 
 | "[=niyankiiteni][NRoot][=midnight, middle.of.the.night (ES: medianoche)]" : {niyankiiteni}
 | "[=niyankiteni][NRoot][=midnight, middle.of.the.night (ES: medianoche)]" : {niyankiteni}
 | "[=niyankiite][NRoot][=midnight, middle.of.the.night (ES: medianoche); at.midnight]" : {niyankiite} ! 2 temporal pronoun???
 | "[=niyankite][NRoot][=midnight, middle.of.the.night (ES: medianoche); at.midnight]" : {niyankite} ! 2 temporal pronoun???
-! 
 # ---------------------------------------------------------------
+! 
 | "[=nyaa/ñaa][NRoot][=water (ES: agua, río, lluvia)]" : {nyaa}
 | "[=inyaa/iñaa][NRoot][=water (ES: agua, río, lluvia)]" : {inyaa}
 # ---------------------------------------------------------------
@@ -3660,8 +3675,8 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=nyamo/ñamo+gndr@n.m.][NRoot][=medicinal.plant.sp. (ES: sp.de.planta.medicinal)]" : {nyamo}
-! 
 # ---------------------------------------------------------------------
+! 
 # Vocative form 
 | "[=nyotsi/ñotsi+gndr@m.+voc@N.+kin@male.ego][NRoot][=son.in.law (ES: yerno); nephew]" : {nyotsi}
 | "[=nyotzi/ñotzi+gndr@m.+voc@N.+kin@male.ego][NRoot][=son.in.law (ES: yerno); nephew]" : {nyotzi}
@@ -3683,41 +3698,52 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=niotya][NRoot][=person's.name; NP]" : {niotya}
+# ---------------------------------------------------------------------
 ! 
 | "[=noonki+gndr@m.][NRoot][=boa]" : {noonki}
 | "[=noonke+gndr@m.][NRoot][=boa]" : {noonke}
+# ---------------------------------------------------------------------
 ! 
 | "[=noshikari][NRoot][=crested.owl (sci.nm.: lophostrix.cristata)]" : {noshikari}
+# ---------------------------------------------------------------------
 ! 
 | "[=oati+gndr@m.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, omairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {oati}
 | "[=ovaati+gndr@m.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, omairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaati}
 | "[=ovaatzi+gndr@m.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaatzi}
+# ---------------------------------------------------------------------
 ! 
 | "[=ochera][NRoot][=shore (ES: orilla)]" : {ochera}
 | "[=ocheraa][NRoot][=shore (ES: orilla)]" : {ocheraa}
 | "[=chera][NRoot][=shore (ES: orilla)]" : {chera} ! @CMP 
+# ---------------------------------------------------------------------
 ! 
 | "[=ohaviki][NRoot][=floor, first.floor]" : {ohaviki}
 | "[=ohaaviki][NRoot][=floor, first.floor (ES: suelo)]" : {ohaaviki}
 | "[=osaviki][NRoot][=floor, first.floor]" : {osaviki}
 | "[=osaaviki][NRoot][=floor, first.floor]" : {osaaviki}
 | "[=isaviki][NRoot][= (ES: madre.de.la.naturaleza)]" : {isaviki}
+# ---------------------------------------------------------------------
 ! 
 | "[=oirontsi+poss@ti.][NRoot][=crab.sp. (ES: especie.de.cangrejo)]" : {oirontsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=oisha][NRoot][=lamb, sheep]" : {oisha}
+# ---------------------------------------------------------------------
 ! 
 | "[=oitzimpinyari][NRoot][=white-shouldered.antshrike (sci.nm.: thamnophilus.aethiops)]" : {oitzimpinyari}
 ! 
 | "[=oitzompinyare][NRoot][=Lawrence's.trush (sci.nm.: Turdus.lawrenencii)]" : {oitzompinyare}
+# ---------------------------------------------------------------------
 ! 
 | "[=Okayaari][NRoot][=NP (ES: Ucayali)]" : {okayaari}
+# ---------------------------------------------------------------------
 ! 
 # oketsi / =oke -tsi / =eye -nposs / EN: 'eye', ES: 'ojo' 
 | "[=oke+gndr@n.m.+inal@tsi.][NRoot][=eye (ES: ojo)]" : {oke}
 | "[=oki+gndr@n.m.+inal@tsi.][NRoot][=eye (ES: ojo)]" : {oki}
 | "[=ooki+gndr@n.m.+inal@tsi.][NRoot][=eye (ES: ojo)]" : {ooki}
 | "[=ki+gndr@n.m.+inal@tsi.][NRoot][=eye (ES: ojo)]" : {ki} ! akikika / a =ki -ki -ka+proximal / 1pl.poss- =eye -loc -dem
+# ---------------------------------------------------------------------
 ! 
 | "[=okitamaroityamani][NRoot][=early.morning, dawning]" : {okitamaroityamani}
 | "[=okitaitamani][NRoot][=early.morning, dawning]" : {okitaitamani}
@@ -3725,6 +3751,7 @@ define NRootPRQin [
 | "[=mampira][NRoot][=aurora (ES: aurora)]" : {mampira} ! N@->V 
 | "[=inkamani][NRoot][=early.morning (ES: mañana); dawning (ES: al.amanecer)]" : {inkamani}
 | "[=inkaamani][NRoot][=early.morning (ES: mañana); dawning (ES: al.amanecer)]" : {inkaamani}
+# ---------------------------------------------------------------------
 ! 
 | "[=okitsoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitsoki}
 | "[=okitoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitoki}
@@ -3732,22 +3759,28 @@ define NRootPRQin [
 | "[=kitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
 | "[=oitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {oitsoki} 
 | "[=iitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {iitsoki}
+# ---------------------------------------------------------------------
 ! 
 | "[=ookatsa][NRoot][=lightning.strike (ES: rayo)]" : {ookatsa} ! N@->V::[=to.rain.with.lightning_strikes (ES: llover.con.relámpagos); to.strike.about.lightning (ES: caer.rayos)] 
+# ---------------------------------------------------------------------
 ! 
 ! oonkantsi / =oonka -ntsi / =flood -nposs / ES: 'inundación'  
 | "[=oonka][NRoot][=flood (ES: inundación; PT: inundação); downpour (ES: chaparrón; PT: aguaceiro)]" : {oonka}
 | "[=oonkaro][NRoot][=flood (ES: inundación; PT: inundação); downpour (ES: chaparrón; PT: aguaceiro)]" : {oonkaro}
 | "[=oonkavo][NRoot][=flood (ES: inundación; PT: inundação); downpour (ES: chaparrón; PT: aguaceiro)]" : {oonkavo}
+# ---------------------------------------------------------------------
 ! 
 | "[=omani+gndr@m.][NRoot][=black.catfish (ES: zúngaro, huacava; sci.nm.: brachyplatystoma.filamentosa)]" : {omani}
 ! 
 | "[=omani_kitamarori][NRoot][=fish.sp. (ES: sp.de.pez, saltón; sci.nm.: piratinga.piraiba)]" : {omani_kitamarori}
+# ---------------------------------------------------------------------
 ! 
 | "[=omititsa+gndr@n.m.][NRoot][=wavy.summit.of.hill]" : {omititsa}
 | "[=omitzitsa+gndr@n.m.][NRoot][=wavy.summit.of.hill]" : {omitzitsa}
+# ---------------------------------------------------------------------
 ! 
 | "[=omotonkare][NRoot][=pongo (ES: pongo; QU: punku)]" : {omotonkare}
+# ---------------------------------------------------------------------
 ! 
 | "[=omotya][NRoot][=well, hole.in.the.ground.from.which.a.supply.of.water/sth.is.extracted (ES: pozo)]" : {omotya}
 ! 
