@@ -3037,20 +3037,26 @@ define NRootPRQin [
 # -----------------------------------------------------------------------
 ! 
 | "[=mantsaki+inal@ntsi.][NRoot][=cushma (ES: ropa, cushma)]" : {mantsaki}
+# -----------------------------------------------------------------------
 ! 
 | "[=mantsaki+gndr@m.][NRoot][=ant.sp. (ES: sp.de.isula, hormiga)]" : {mantsaki}
+# -----------------------------------------------------------------------
 ! 
 | "[=mantana][NRoot][=rodent.sp. (ES: majás, majas, majaz)]" : {mantana}
+# -----------------------------------------------------------------------
 ! 
 | "[=mapaa+gndr@n.m.+poss@ni.][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapaa}
 | "[=mapa+gndr@n.m.+poss@ni.][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapa}
+# -----------------------------------------------------------------------
 ! 
 # nomapikitakero / no- =mapi -ki -t-ak -e -ro / 1sg.a- =stone -cl:small,round -ep -prf -irr -3n.m.o / EN: 'fixing.pebbles/sinker-like_pebbles.in.sth. (i.e.: a.fish_trap)', ES: 'fijar piedrecitas/guijarros en algo (por ejemplo: en la red)'
 | "[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone; rock]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
 | "[=mapiki+gndr@n.m.][NRoot][=pebble (ES: piedra.chica; PT: seixo)]" : {mapiki} 
 !| "[=mapipooki+gndr@n.m.][NRoot][=stony.ground (ES: pedregal, cascajal)]" : {mapipooki} ! @section:noun@ 
+# -----------------------------------------------------------------------
 ! 
 | "[=mapichiri][NRoot][=boa (ES: boa); aquatic.snake (ES: serpiente.acuática, anaconda.de.color.marrón-verde.oliva.con.pequeñas.manchas.negras.y.amarillas; sci.nm.: eunectes.murinus)]" : {mapichiri}
+# -----------------------------------------------------------------------
 ! 
 | "[=mapocha+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
 | "[=mapotxa+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya; PT: mamão)]" : {mapotxa}
