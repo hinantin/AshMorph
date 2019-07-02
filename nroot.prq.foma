@@ -3234,47 +3234,62 @@ define NRootPRQin [
 | "[=maanyo+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {maanyo}
 | "[=maneo+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {maneo}
 | "[=manyo/mãyo+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {mãyo}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mari+gndr@m.][NRoot][=small.bird.sp. (ES: sp.de.pajarito)]" : {mari}
+# ----------------------------------------------------------------- 
 ! 
 | "[=masa+gndr@m.][NRoot][=heron.sp. (ES: sp.de.garza)]" : {masa}
+# ----------------------------------------------------------------- 
 ! 
 | "[=masanta+gndr@m.][NRoot][=fish.sp. (ES: raya, pez)]" : {masanta}
+# ----------------------------------------------------------------- 
 ! 
 | "[=masanka][NRoot][=bland (ES: insípido, sin.gusto)]" : {masanka}
 | "[=masankari][NRoot][=bland (ES: insípido, sin.gusto)]" : {masankari}
+# ----------------------------------------------------------------- 
 ! 
 | "[=masavire+inal@ntsi.][NRoot][=sweat (ES: sudor; PT: suor)]" : {masavire}
 | "[=masavinka+gndr@n.m.+inal@ntsi.][NRoot][=sweat (ES: sudor; PT: suor)]" : {masavinka}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mavo+gndr@m.][NRoot][=earthworm.sp. (ES: sp.de.gusano.de.tierra); insect (ES: insecto)]" : {mavo}
 | "[=maavo+gndr@m.][NRoot][=earthworm.sp. (ES: sp.de.gusano.de.tierra); insect (ES: insecto)]" : {maavo}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mavopa+gndr@n.m.][NRoot][=plantain.sp. (ES: sp.de.plátano)]" : {mavopa}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mavoshi+gndr@n.m.+inal@ntsi.][NRoot][=nest; grassy.nest]" : {mavoshi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=maashi+gndr@n.m.+inal@ntsi.][NRoot][=nest]" : {maashi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=menkoshi+gndr@n.m.+inal@n/tsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]" : {menkoshi} ! N@->V
 | "[=minkoshi+gndr@n.m.+inal@ntsi.][NRoot][=bird.nest (ES: nido.de.pájaros)]" : {minkoshi} ! N@->V
+# ----------------------------------------------------------------- 
 ! 
 | "[=maasheroki+gndr@n.m.][NRoot][=granadilla.sp. (ES: granadilla; sci.nm.: passiflora.ligularis)]" : {maasheroki}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meantarini][NRoot][=name]" : {meantarini}
+# ----------------------------------------------------------------- 
 ! 
 | "[=mee+gndr@m.][NRoot][=otter.sp. (ES: nutria)]" : {mee}
 | "[=mii+gndr@m.][NRoot][=otter.sp. (ES: nutria)]" : {mii}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meero+gndr@m.][NRoot][=gray.hawk (ES: sp.de.gavilán.chico; sci.nm.: buteo.nitidus)]" : {meero}
 | "[=meerotzi+gndr@m.][NRoot][=gray.hawk (ES: sp.de.gavilán.chico; sci.nm.: buteo.nitidus)]" : {meerotzi}
+# ----------------------------------------------------------------- 
 ! 
 | "[=menta+gndr@n.m.+inal@tsi.][NRoot][=fin.of.tree (ES: aleta.de.árbol); wedge, buttress.root.of.a.tree]" : {menta} 
 | "[=minta+gndr@n.m.+inal@tsi.][NRoot][=fin.of.tree (ES: aleta.de.árbol); wedge, buttress.root.of.a.tree]" : {minta} 
+# ----------------------------------------------------------------- 
 ! 
 | "[=meanto+gndr@m.][NRoot][=macaw, parrot.sp. (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {meanto}
 | "[=meyanto+gndr@m.][NRoot][=macaw, parrot.sp. (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {meyanto}
 | "[=mianto+gndr@m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {mianto}
 | "[=myanto+gndr@m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myanto}
 | "[=myaanto+gndr@m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myaanto}
+# ----------------------------------------------------------------- 
 ! 
 | "[=meiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {meiri}
 | "[=meyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {meyiri}
