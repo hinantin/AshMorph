@@ -3783,25 +3783,34 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=omotya][NRoot][=well, hole.in.the.ground.from.which.a.supply.of.water/sth.is.extracted (ES: pozo)]" : {omotya}
+# ---------------------------------------------------------------------
 ! 
 | "[=ompikiri][NRoot][=green-and-gold.tanager (sci.nm.: tangara.schrankii)]" : {ompikiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=onampina][NRoot][=side (ES: costado)]" : {onampina}
 | "[=nampina+inal@n/tsi.][NRoot][=side (ES: lado, costado); corner (ES: esquina)]" : {nampina} 
+# ---------------------------------------------------------------------
 ! 
 | "[=onero][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {onero}
+# ---------------------------------------------------------------------
 ! 
 | "[=onika][NRoot][=region.where.it.trembles; earthquake (ES: temblor)]" : {onika}
+# ---------------------------------------------------------------------
 ! 
 | "[=onkama][NRoot][=controller.of.pooled_water/river_tide (ES: controlador.de.agua_empozada/marea_del_río)]" : {onkama}
+# ---------------------------------------------------------------------
 ! 
 | "[=onkiri][NRoot][=partridge/bird.sp. (ES: yungururu, perdiz.del.monte; sci.nm.: tinamous.major)]" : {onkiri}
 | "[=yonkiri][NRoot][=partridge/bird.sp. (ES: yungururu, perdiz.del.monte; sci.nm.: tinamous.major)]" : {yonkiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=oNkiro+gndr@m.][NRoot][=big.mouse (ES: ratón)]" : {onkiro}
-| "[=oNkicha][NRoot][=small.mouse]" : {onkicha}
+| "[=oNkicha+gndr@m.][NRoot][=small.mouse]" : {onkicha}
+# ---------------------------------------------------------------------
 ! 
 | "[=onko+poss@ni.][NRoot][=cultigen/edible.plant.sp. (malanga, sci.nm.: xanthosoma.sp.)]" : {onko}
+# ---------------------------------------------------------------------
 ! 
 | "[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkona}
 | "[=onkochapa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkochapa}
