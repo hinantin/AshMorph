@@ -3815,15 +3815,19 @@ define NRootPRQin [
 | "[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkona}
 | "[=onkochapa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkochapa}
 | "[=onkochapaa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkochapaa}
+# ---------------------------------------------------------------------
 ! 
 | "[=oori][NRoot][=bird.sp. (ES: halcón)]" : {oori}
+# ---------------------------------------------------------------------
 ! sun 
 | "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri} !?
 | "[=oryatsiri+gndr@m.][NRoot][=shining.sun, strong.sun]" : {oryatsiri} !?
 | "[=ooryatsiri+gndr@m.][NRoot][=shining.sun, strong.sun; the.sun; solar.divinity]" : {ooryatsiri}
 | "[=ooriatsiri+gndr@m.][NRoot][=shining.sun, strong.sun; the.sun; solar.divinity]" : {ooriatsiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=oonkama][NRoot][=NP (ES: nombre.de.hombre)]" : {oonkama}
+# ---------------------------------------------------------------------
 ! 
 | "[=ooryaa+gndr@m.][NRoot][=sun (ES: sol)]" : {ooryaa}
 | "[=oorya+gndr@m.][NRoot][=sun (ES: sol)]" : {oorya} ! N@->V
