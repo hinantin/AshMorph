@@ -4112,30 +4112,39 @@ define NRootPRQin [
 ! 
 | "[=pachaka+gndr@n.m.+poss@te.][NRoot][=pumpkin, (deep).gourd (ES: calabaza; botany.nm.: lagenaria.sp.)]" : {pachaka}
 | "[=pachaka+gndr@n.m.+poss@te.][NRoot][=container (ES: recipiente, porongo)]" : {pachaka}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pachaka+gndr@m.][NRoot][=striated.heron (ES: sp.de.ave.color.blanco; sci.nm.: butorides.striatus)]" : {pachaka}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pachakama][NRoot][=person's.name; stone.divinity]" : {pachakama}
 | "[=pachaka][NRoot][=person's.name; stone.divinity]" : {pachaka}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pachakitzi+gndr@m.][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachakitzi}
 | "[=pachaketzi+gndr@m.][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachaketzi}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pachoi+gndr@n.m.][NRoot][=cocona-like.fruit.sp. (ES: remo.caspi; sci.nm.: swartzia.brachyrachis, caesalpiniaceae)]" : {pachoi}
+# ----------------------------------------------------------------------------- 
 ! 
 ! novaje / novahe / no- =pahe / EN: 'my.gray_hair'; ES: 'mi.cana' 
 ! ivaje / ivahe / i- =pahe / EN: 'his.gray_hair'; ES: 'su.cana' 
 | "[=pahe+inal@tsi.][NRoot][=gray/grey.hair (ES: cana)]" : {pahe}
 | "[=pai+gndr@n.m.+inal@tsi.][NRoot][=gray/grey.hair, white.hair (ES: cana)]" : {pai}
 #| "[=pai+gndr@n.m.+inal@tsi.][NRoot][=white.hair (ES: cana)]" : {pai}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pahenti+gndr@n.m.][NRoot][=gray-haired, white-haired (ES: canoso)]" : {pahenti}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pahetsi+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {pahetsi}
 | "[=pahechi+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {pahechi}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=paho+poss@ni.][NRoot][=bejuco.sp. (pate); pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete); gourd.sp.]" : {paho}
 | "[=paso+poss@ni.][NRoot][=bejuco.sp. (pate); pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete); gourd.sp.]" : {paso}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pahone+inal@ntsi.][NRoot][=pumpkin.mate_tea (ES: mate.(hecho.de.calabaza))]" : {pahone}
 | "[=pahoni+inal@ntsi.][NRoot][=pumpkin.mate_tea (ES: mate.(hecho.de.calabaza))]" : {pahoni}
