@@ -4090,20 +4090,25 @@ define NRootPRQin [
 | "[=oyepari][NRoot][=legume.sp. (ES: leguminosa, fam.de.las.judías)]" : {oyepari}
 | "[=iyorite][NRoot][=legume.sp. (ES: leguminosa, fam.de.las.judías)]" : {iyorite}
 | "[=oyechari][NRoot][=legume.sp. (ES: leguminosa, fam.de.las.judías)]" : {oyechari}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=papato][NRoot][=frog.sp. (ES: sp.de.rana, sapo.grande)]" : {papato}
 | "[=paapato][NRoot][=frog.sp. (ES: sp.de.rana)]" : {paapato}
 | "[=paapatsi][NRoot][=frog.sp. (ES: sp.de.rana)]" : {paapatsi}
 | "[=paapatzi][NRoot][=frog.sp. (ES: sp.de.rana)]" : {paapatzi}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pamari+gndr@n.m.][NRoot][=fire (ES: candela, fuego)]" : {pamari}
 | "[=paamari+gndr@n.m.][NRoot][=fire (ES: candela, fuego)]" : {paamari}
 | "[=paamare+gndr@n.m.][NRoot][=fire (ES: candela, fuego)]" : {paamare}
 | "[=paampari+gndr@n.m.+poss@te.][NRoot][=fire (ES: candela, fuego)]" : {paampari}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=paamanto+gndr@n.m.][NRoot][=burned.wood; burning (ES: leña.ardiente)]" : {paamanto}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=paampatzi][NRoot][=bird.sp. (ES: ave.de.río)]" : {paampatzi}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pachaka+gndr@n.m.+poss@te.][NRoot][=pumpkin, (deep).gourd (ES: calabaza; botany.nm.: lagenaria.sp.)]" : {pachaka}
 | "[=pachaka+gndr@n.m.+poss@te.][NRoot][=container (ES: recipiente, porongo)]" : {pachaka}
