@@ -3975,10 +3975,11 @@ define NRootPRQin [
 | "[=otsiti+gndr@m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]" : {otsiti}
 | "[=otsitsi+gndr@m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]" : {otsitsi}
 | "[=otzitsi+gndr@m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]" : {otzitsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=otsitiniro][NRoot][=fox; wild.dog, mountain.dog (ES: perro.de.monte.de.pelaje.amarillo-y-cola.corta; sci.nm.: speothos.venaticus)]" : {otsitiniro}
+# ---------------------------------------------------------------------
 ! 
-# ------------------------------------------------------
 ! otzishi ES: 'cumbre triangulada del cerro'  
 | "[=otzishi+gndr@n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)]" : {otzishi}  
 | "[=otishi+gndr@n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)]" : {otishi} 
@@ -3987,23 +3988,27 @@ define NRootPRQin [
 | "[=ochempe][NRoot][=hill (ES: cerro)]" : {ochempe}  
 # otishi / EN: 'hill'  
 | "[=tishi+gndr@n.m.][NRoot][=mountain; hill]" : {tishi}  
-# ------------------------------------------------------
+# ---------------------------------------------------------------------
 ! 
 | "[=otyamere+gndr@n.m.][NRoot][=roasted.yucca (ES: yuca.asada)]" : {otyamere}
+# ---------------------------------------------------------------------
 ! 
 | "[=ovarantzi+gndr@n.m.][NRoot][=spiked.pepper (ES: matico, higuillo.de.hoja.menuda; sci.nm.: piper.aduncum)]" : {ovarantzi}
 | "[=ivarantzi+gndr@n.m.][NRoot][=spiked.pepper (ES: matico, higuillo.de.hoja.menuda; sci.nm.: piper.aduncum)]" : {ivarantzi}
 | "[=ivarantsi+gndr@n.m.][NRoot][=spiked.pepper (ES: matico, higuillo.de.hoja.menuda; sci.nm.: piper.aduncum)]" : {ivarantsi}
 | "[=varantzi+gndr@n.m.][NRoot][=spiked.pepper (ES: matico, higuillo.de.hoja.menuda; sci.nm.: piper.aduncum)]" : {varantzi}
+# ---------------------------------------------------------------------
 ! 
 # sapo que habita en las partes altas, acostumbra introducirse en las fogatas atraída por la luz del fuego.
 | "[=ovaratantatzi+gndr@m.][NRoot][=small.toad.sp. (ES: sp.de.sapito)]" : {ovaratantatzi}
 | "[=ovaratanta+gndr@m.][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {ovaratanta}
 | "[=oaratanta+gndr@m.][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {oaratanta}
 | "[=aratanta+gndr@m.][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {aratanta}
+# ---------------------------------------------------------------------
 ! 
 | "[=ovayeri+gndr@m.][NRoot][=guerrilla; warrior (ES: guerrero; PT: guerreiro); murderer]" : {ovayeri}
 | "[=ovayiri+gndr@m.][NRoot][=guerrilla; warrior (ES: guerrero; PT: guerreiro); murderer]" : {ovayiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=ovayeritantsi][NRoot][=war, craft.of.war (ES: guerra)]" : {ovayeritantsi}
 ! sown field. ova/ovaa ó va/vaa, garden?
