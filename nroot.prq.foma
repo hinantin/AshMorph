@@ -4008,9 +4008,9 @@ define NRootPRQin [
 ! 
 | "[=ovayeri+gndr@m.][NRoot][=guerrilla; warrior (ES: guerrero; PT: guerreiro); murderer]" : {ovayeri}
 | "[=ovayiri+gndr@m.][NRoot][=guerrilla; warrior (ES: guerrero; PT: guerreiro); murderer]" : {ovayiri}
-# ---------------------------------------------------------------------
 ! 
 | "[=ovayeritantsi][NRoot][=war, craft.of.war (ES: guerra)]" : {ovayeritantsi}
+# ---------------------------------------------------------------------
 ! sown field. ova/ovaa ó va/vaa, garden?
 ! irobane / ir- =oba -ne / 3m.poss- =sown.field -aln.poss. / EN: 'his.sown.field'; ES: 'chacra.(de.él)' 
 ! owãtsi / ovãtsi / ovantsi / =ova -ntsi / =sown.field -nposs / ES: 'tierras'  
@@ -4019,12 +4019,15 @@ define NRootPRQin [
 | "[=oa+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)]" : {oa}
 | "[=ova+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)]" : {ova}
 | "[=ovaa+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land, cultivated.field/garden (ES: chacra; PT: roçado)]" : {ovaa}
+# ---------------------------------------------------------------------
 ! 
 # maspute: sp.de.escondite.rústico, tipo.choza.pequeña, con.ventanas.pequeñas.tipo.visores.para.observar.el.acercamiento.de.algún.animal, el.cazador.espera.a.su.presa.dentro.de.este.escondite   
 | "[=ovashiro+inal@ntsi.][NRoot][=hunter's.hiding_place (ES: maspute, sp.de.escondrijo.para.cazadores)]" : {ovashiro}
+# ---------------------------------------------------------------------
 ! 
 | "[=vaka+gndr@m.][NRoot][=master-owner.of.the.hills (ES: dueño.de.los.cerros, chacho)]" : {vaka}
 | "[=vaka+gndr@n.m.][NRoot][=stone.spirit]" : {vaka}
+# ---------------------------------------------------------------------
 ! 
 | "[=vako][NRoot][=venomous.plant.sp. (ES: huaco)]" : {vako}
 | "[=vakoshi][NRoot][=vegetable.poison (ES: huaca; sci.nm.: clibadium.remotiflorum)]" : {vakoshi}
