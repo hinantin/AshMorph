@@ -3872,36 +3872,47 @@ define NRootPRQin [
 ! 
 | "[=ponchakirontzi][NRoot][=arrow.with.three-tips (ES: flecha.que.tiene.tres.puntas)]" : {ponchakirontzi}
 | "[=ponchakirontsi][NRoot][=arrow.with.three-tips (ES: flecha.que.tiene.tres.puntas)]" : {ponchakirontsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=poniro][NRoot][=blue.bird.sp.; spangled.cotinga (sci.nm.: cotinga.cayana)]" : {poniro}
+# ---------------------------------------------------------------------
 ! 
 | "[=ponyoiro+gndr@m.][NRoot][=animal.sp.]" : {ponyoiro}
+# ---------------------------------------------------------------------
 ! 
 | "[=poreatsiri][NRoot][=sun (ES: sol)]" : {poreatsiri}
+# ---------------------------------------------------------------------
 ! 
 | "[=Porokayari][NRoot][=NP (ES: Apurucayali)]" : {porokayari}
 | "[=Purukayari][NRoot][=NP (ES: Apurucayali)]" : {purukayari}
 | "[=Porokayaari][NRoot][=NP (ES: Apurucayali)]" : {porokayaari}
+# ---------------------------------------------------------------------
 ! 
 | "[=pototi][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.plúmbeo; sci.nm.: columba.plumbea)]" : {pototi}
 | "[=pototi][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.subinacea)]" : {pototi}
 | "[=potooti+gndr@m.][NRoot][=dove.sp., big.dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.speciosa)]" : {potooti} ! @section:noun@ 
+# ---------------------------------------------------------------------
 ! 
 | "[=opaayaa+gndr@n.m.][NRoot][=beach; stony/rocky.ground]" : {opaayaa}
+# ---------------------------------------------------------------------
 ! 
 | "[=opempe+gndr@m.+poss@ti.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opempe}
 | "[=opimpi+gndr@m.+poss@ti.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opimpi}
 | "[=opempe/opeNpe/opẽpe+gndr@m.+poss@ti.][NRoot:CPB][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opẽpe}
+# ---------------------------------------------------------------------
 ! 
 | "[=opiata][NRoot][=whirl (ES: remolino)]" : {opiata}
 | "[=opiyaata][NRoot][=whirl (ES: remolino)]" : {opiyaata}
 | "[=opiyahata][NRoot][=whirl (ES: remolino)]" : {opiyahata}
+# ---------------------------------------------------------------------
 ! 
 | "[=iyochi][NRoot][=fish.sp. (ES: doncella; sci.nm.: pimelodidae, pseudoplatystoma.fasciatum)]" : {iyochi}
 | "[=iochi][NRoot][=fish.sp. (ES: doncella; sci.nm.: pimelodidae, pseudoplatystoma.fasciatum)]" : {iochi}
+# ---------------------------------------------------------------------
 ! 
 | "[=iyopempe][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopempe}
 | "[=iyopimpi][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopimpi}
+# ---------------------------------------------------------------------
 ! 
 # osarenti: O Verão começa em maio e vai até fim de setembro. É a época em que para de chover e começam as friagens, chamadas de katsinkaitere. 
 | "[=sarintsi+gndr@m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {sarintsi} 
@@ -3909,42 +3920,56 @@ define NRootPRQin [
 | "[=sarentsi+gndr@m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {sarentsi} 
 | "[=osarentsi+gndr@m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]" : {osarentsi} 
 | "[=osarenti+gndr@m.+poss@te.][NRoot][=dry.season/summer (ES: verano)]" : {osarenti} 
+# ---------------------------------------------------------------------
 ! 
 | "[=oshero+gndr@m.][NRoot][=crab.sp. (ES: cangrejo)]" : {oshero}
+# ---------------------------------------------------------------------
 ! monkey species
 | "[=osheto+gndr@m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa; PT: macaco.barrigudo; sci.nm.: ateles.paniscus)]" : {osheto}
+# ---------------------------------------------------------------------
 ! 
 | "[=osheto_tsikoo][NRoot][=spectatled.owl (sci.nm.: pulsatrix.perspicillata)]" : {osheto_tsikoo}
+# ---------------------------------------------------------------------
 ! 
 | "[=ota][NRoot][=wick (prbly.candle; ES: mecha)]" : {ota}
 | "[=otsa][NRoot][=wick (prbly.candle; ES: mecha)]" : {otsa}
+# ---------------------------------------------------------------------
 ! 
 | "[=otsa][NRoot][=chakopi-flower.master-owner (ES: dueño.de.la.flor-del-chakopi)]" : {otsa}
+# ---------------------------------------------------------------------
 ! 
 | "[=otamakaane][NRoot][=wave (ES: ola); river.wave (ES: ola.de.río)]" : {otamakaane}
 | "[=otamakaare][NRoot][=wave (ES: ola); river.wave (ES: ola.de.río)]" : {otamakaare}
 | "[=otamakare][NRoot][=wave (ES: ola); river.wave (ES: ola.de.río)]" : {otamakare}
 | "[=otamakaa][NRoot][=wave (ES: ola); river.wave (ES: ola.de.río)]" : {otamakaa}
+# ---------------------------------------------------------------------
 ! 
 | "[=otsapata~{'3n.m.poss':o}{CL:/'long,stringy':tsa/}{CL:/'flat.oblong':pata/}][NRoot][=line (ES: línea); striped (ES: rayado, con.rayas)]" : {otsapata}
 | "[=otsapairikita][NRoot][=line (ES: línea)]" : {otsapairikita} ! -iriki / -DIM ???
+# ---------------------------------------------------------------------
 ! 
 | "[=otamentotsi][NRoot][=lighter (ES: mechero), kerosene.lamp, paraffin.lamp]" : {otamentotsi}
 | "[=ootamentotsi][NRoot][=lighter (ES: mechero), kerosene.lamp, paraffin.lamp]" : {ootamentotsi}
 | "[=ootametotsi][NRoot][=lighter (ES: mechero), kerosene.lamp, paraffin.lamp]" : {ootametotsi}
+# ---------------------------------------------------------------------
 ! 
 | "[=ooti][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: leptodactylus.pentadactylus)]" : {ooti}
+# ---------------------------------------------------------------------
 ! 
 | "[=otapiki][NRoot][=cliff (ES: barranco); rugged; foothill, valley.floor]" : {otapiki} ! Adv?
 | "[=otaapiki][NRoot][=cliff (ES: barranco); rugged; foothill, valley.floor]" : {otaapiki} ! Adv?
+# ---------------------------------------------------------------------
 ! 
 | "[=otapinoma][NRoot][=chin, jaw (ES: quijada, mandíbula.inferior)]" : {otapinoma}
 | "[=noma+gndr@n.m.+inal@tsi.][NRoot][=jaw (ES: mandíbula, quijada)]" : {noma} ! @CMP
+# ---------------------------------------------------------------------
 ! 
 | "[=otenkanaki][NRoot][=rocky.place]" : {otenkanaki}
+# ---------------------------------------------------------------------
 ! 
 | "[=oteya][NRoot][=flower (ES: flor)]" : {oteya}
 | "[=otea][NRoot][=flower (ES: flor)]" : {otea}
+# ---------------------------------------------------------------------
 ! 
 | "[=otsitzi+gndr@m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]" : {otsitzi}
 | "[=otsiti+gndr@m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]" : {otsiti}
