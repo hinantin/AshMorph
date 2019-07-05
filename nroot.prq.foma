@@ -4156,43 +4156,59 @@ define NRootPRQin [
 ! inchatona 
 ! piarina 
 | "[=kahoni+gndr@n.m.][NRoot][=recipient/container.for.fermenting.yucca (ES: recipiente.para.fermentar.yuca)]" : {kahoni} ! cajón??? 
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pahotiki+gndr@n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pahotiki}
 | "[=pasotiki+gndr@n.m.][NRoot][=wild.edible.fruit.sp.(ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotiki}
 | "[=pasotziki+gndr@n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotziki}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=painto][NRoot][=small.toad.sp. (sci.nm.: leptodactylus.rhodonotus)]" : {painto}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=paintzi+gndr@m.][NRoot][=blue.color.bird.sp.; blue-gray.tanager (sci.nm.: thraupis.episcopus)]" : {paintzi}
 | "[=paikitzi+gndr@m.][NRoot][=blue.color.bird.sp.; blue-gray.tanager (sci.nm.: thraupis.episcopus)]" : {paikitzi}
+# ----------------------------------------------------------------------------- 
 !
 | "[=paiko][NRoot][=wormseed (ES: paico; sci.nm.: chenopodium.ambrosioides.l.)]" : {paiko} 
+# ----------------------------------------------------------------------------- 
 !
 | "[=paisatzi~{'to.have.gray.hair':pai}{CL:/provenance:satzi/}+poss@te.][NRoot][=ancient]" : {paisatzi}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pama+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza; botany.id.: lagenaria.sp.); tree.sp. (ES: sp.de.árbol)]" : {pama}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pamatyaki+gndr@m.][NRoot][=fork-tailed.paim-swift (ES: golondrinita.del.río, pájaro.negro.que.hace.huecos.en.la.tierra; sci.nm.: reinarda.squamata)]" : {pamatyaki}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pamaki][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol); red.fruit (ES: chimiqua, chimicua; sci.nm.: pourouma.minor.benoist)]" : {pamaki}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pamoko+poss@ti.][NRoot][=bejuco.sp. (pate); gourd (climbing.plant.that.bears.gourds)]" : {pamoko}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=panashinte][NRoot][=sapote-like.tree.sp. (ES: sapote/zapote.silvestre; sci.nm.: matisia.cordata)]" : {panashinte}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=panaropa][NRoot][=wild.papaya (ES: papaya.silvestre; sci.nm.: jacaratia.digitata)]" : {panaropa}
 | "[=panaro][NRoot][=a.type.of.tree]" : {panaro}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=panava+gndr@m.][NRoot][=partridge.sp. (ES: sp.de.perdiz, unchala; sci.nm.: crypturellus.atrocallipus)]" : {panava}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=panka+gndr@n.m.+inal@tsi.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
 | "[=pankaina+inal@tsi.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=panki][NRoot][=plank, long.narrow.flat.piece.of.wood]" : {panki}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pankire+gndr@m.+inal@ntsi.][NRoot][=plant (ES: planta); an.agricultural.plant.product]" : {pankire}
 | "[=pankiri+gndr@m.+inal@ntsi.][NRoot][=products, , an.agricultural.plant.product]" : {pankiri}
 | "[=paNkire/pãkire+gndr@m.+inal@ntsi.][NRoot:CPB][=plant (ES: planta)]" : {pãkire}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=panko+gndr@n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP @VCMP 
 | "[=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
