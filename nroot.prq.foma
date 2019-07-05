@@ -4214,6 +4214,7 @@ define NRootPRQin [
 | "[=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 ! 
 | "[=pankoshi~{'house':panko}{CL:/'leaf':shi/}+gndr@n.m.+inal@ntsi.][NRoot][=hut, hovel, hunter's.blind (ES: choza.(para.cazar.aves.salvajes); PT: cabana)]" : {pankoshi} 
+# ----------------------------------------------------------------------------- 
 ! 
 # obaante / ovaante / o- paante / 3n.m.poss- =mouth / EN: 'her.mouth'; ES: 'su.boca (de.ella)' 
 | "[=pante+gndr@n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
@@ -4221,6 +4222,7 @@ define NRootPRQin [
 | "[=panti+gndr@n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {panti}
 | "[=paanti+gndr@n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]" : {paanti}
 | "[=paNte/pãte+gndr@n.m.+inal@ntsi.][NRoot:CPB][=mouth (ES: boca; PT: boca)]" : {pãte}
+# ----------------------------------------------------------------------------- 
 ! 
 # *********************************************
 # pantyoni ES: 'pato de laguna'
@@ -4232,15 +4234,20 @@ define NRootPRQin [
 | "[=pantioni][NRoot][=brown-and-gray.duck (ES: pato.marrón.con.gris; sci.nm.: oxyura.jamaicensis); blue-necked.duck (ES: pato.de.cuello.azulado; sci.nm.: mergane.aarmata); red-necked.duck (ES: pato.de.cuello.rojo; sci.nm.: anas.flavirostris)]" : {pantioni}
 | "[=pantyo+gndr@m.][NRoot][=wild.duck.sp. (ES: pato); least.grebe (sci.nm.: podiceps.dominicus)]" : {pantyo}
 | "[=paNtxo/pãtxo][NRoot:CPB][=wild.duck.sp. (ES: pato)]" : {pãtxo}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pantsa+gndr@n.m.+inal@ntsi.+poss@ne:ni.][NRoot][=song (ES: canción, canto), anthem (ES: himno)]" : {pantsa}
 | "[=pantsaa+gndr@n.m.+inal@ntsi.+poss@ne:ni.][NRoot][=song (ES: canción, canto), anthem (ES: himno)]" : {pantsaa}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=paranta][NRoot][=band-tailed.manakin (sci.nm.: pipra.fascicauda)]" : {paranta}
+# ----------------------------------------------------------------------------- 
 ! otter, lobo.marino??? 
 | "[=parari+gndr@m.][NRoot][=otter.sp., big.otter.sp. (ES: nutria; sci.nm.: mustela.africana); river.otter.sp. (ES: nutria)]" : {parari}
+# ----------------------------------------------------------------------------- 
 !
 | "[=pareni][NRoot][=river, Perené.river]" : {pareni}
+# ----------------------------------------------------------------------------- 
 ! banana tree, plantain
 | "[=parenti+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
 | "[=parentzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parentzi}
@@ -4251,6 +4258,7 @@ define NRootPRQin [
 | "[=paryaantzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryaantzi}
 | "[=paryantzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
 | "[=pareantzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
+# ----------------------------------------------------------------------------- 
 ! 
 # Winter-season is a flooding period.
 | "[=pariantsi+sem@season.][NRoot][=winter (ES: invierno)]" : {pariantsi}
@@ -4261,19 +4269,31 @@ define NRootPRQin [
 | "[=kiawõtsi+sem@season.][NRoot:CPB][=winter (ES: invierno; PT: inverno); rainy.season (PT: estação.chuvosa, o.tempo.das.águas)]" : {kiawõtsi}
 | "[=kimohaantsi+sem@season.][NRoot][=rainy.season/winter (ES: invierno)]" : {kimohaantsi}
 | "[=pariapaintzi+sem@season.][NRoot][=rainy.season/winter (ES: invierno)]" : {pariapaintzi}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=paritsa+gndr@n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paritsa} ! pari-tsa root-stem
+# ----------------------------------------------------------------------------- 
+! 
 | "[=patsa][NRoot][=part]" : {patsa}
+# ----------------------------------------------------------------------------- 
+! 
 | "[=patsishi][NRoot][=top.branch]" : {patsishi}
+# ----------------------------------------------------------------------------- 
+! 
 | "[=patsitaroki][NRoot][=tree.bark]" : {patsitaroki}
+# ----------------------------------------------------------------------------- 
+! 
 | "[=paukartambo][NRoot][=river's.name]" : {paukartambo}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=patsiri][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa); little.river-toad.sp. (ES: sp.de.sapito.de.río)]" : {patsiri}
 | "[=pachiri][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa); little.river-toad.sp. (ES: sp.de.sapito.de.río)]" : {pachiri}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=patziintoki+gndr@n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patziintoki}
 | "[=patzintoki+gndr@n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote.monte; sci.nm.: quararibea.wittii, bombacaceae)]" : {patzintoki}
 | "[=patintoki+gndr@n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patintoki}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pava+gndr@m.+poss@ni.][NRoot][=solar/benevolent.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father]" : {pava}
 # ---------------------------------------------------------------------------- 
@@ -4290,22 +4310,29 @@ define NRootPRQin [
 | "[=pampiaro+gndr@n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {pampiaro}
 | "[=pampyaaro+gndr@n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {pampyaaro}
 | "[=pampyaavo+gndr@n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {pampyaavo}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pamoro+gndr@m.][NRoot][=dove.sp.; band-tailed.pigeon (sci.nm.: columba.fasciata)]" : {pamoro}
 | "[=pamoo+gndr@m.][NRoot][=dove.sp.; band-tailed.pigeon (sci.nm.: columba.fasciata)]" : {pamoo}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=papaso+gndr@m.][NRoot][=big.beetle.sp.]" : {papaso}
+# ----------------------------------------------------------------------------- 
 ! 
 # paretani / =pareta -ni /  
 | "[=pareto+gndr@m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero; sci.nm.: bolborhynchus.orbignesius, bolborhynchus.lineola)]" : {pareto}
 | "[=parito+gndr@m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero; sci.nm.: bolborhynchus.orbignesius, bolborhynchus.lineola)]" : {parito}
 | "[=pareta+gndr@m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero)]" : {pareta}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pasanta+gndr@n.m.][NRoot][=hardwood.plate.with.a.flat.bottom (before.it.was.used.to.grind.corn; ES: aleta.del.árbol, usado.para.moler); mortar (ES: batán); (ES: batea)]" : {pasanta}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=petairiki][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {petairiki}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=patanari][NRoot][=red.resin.sp. (after.boiling.this.resin.is.placed.on.the.tip.of.arrows); tree.sp.]" : {patanari}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=pataro+gndr@m.][NRoot][=small.squirrel.sp. (ES: sp.de.ardilla; sci.nm.: sciurus.pyrrhinus)]" : {pataro}
 | "[=patavo+gndr@m.][NRoot][=small.squirrel.sp. (ES: sp.de.ardilla; sci.nm.: sciurus.pyrrhinus)]" : {patavo}
@@ -4316,10 +4343,11 @@ define NRootPRQin [
 | "[=patyankori+gndr@m.][NRoot][=very-small.ash-coloured.squirrel.sp. (ES: ardilla.gris; sci.nm.: sciurus.ignitus, microsciurus.flaviventer)]" : {patyankori}
 | "[=pateankori+gndr@m.][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {pateankori}
 | "[=patiankori+gndr@m.][NRoot][=very-small.ash-coloured.squirrel.sp. (sci.nm.: sciurus.ignitus)]" : {patiankori}
+# ----------------------------------------------------------------------------- 
 ! 
 | "[=patara+gndr@m.][NRoot][=sungrebe, bird.sp. (ES: sp.de.ave; sci.nm.: heliornis.fulica)]" : {patara}
-! 
 # ------------------------------------------------------------------------------------------
+! 
 | "[=paatsiri][NRoot][=father; stone.divinity.located.in.the.uplands.of.Metraro]" : {paatsiri}
 | "[=mapinini][NRoot][=little.rock; stone.divinity.located.in.the.uplands.of.Metraro]" : {mapinini}
 # ------------------------------------------------------------------------------------------
@@ -4329,10 +4357,12 @@ define NRootPRQin [
 | "[=paro+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)); chotacabras-bird (ES: el.pájaro.chotacabras)]" : {paro}
 | "[=paroo+poss@ni.][NRoot][=nocturnal.bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)); chotacabras-bird (ES: el.pájaro.chotacabras)]" : {paroo}
 | "[=paroni][NRoot][=bird.sp. (tohuayo, sci.nm.: nyctidromus.albicollis)); chotacabras-bird (ES: el.pájaro.chotacabras)]" : {paroni}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pashii][NRoot][=tropical.tree.sp. (ES: caimito)]" : {pashii}
 | "[=pashiiki][NRoot][=caimito.fruit, star.apple (ES: caimito)]" : {pashiiki}
 | "[=pashiki][NRoot][=caimito.fruit, star.apple (ES: caimito)]" : {pashiki}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pashitakari+poss@ri.][NRoot][=gift (ES: regalo)]" : {pashitakari}
 ! 
