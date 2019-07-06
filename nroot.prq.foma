@@ -4399,34 +4399,41 @@ define NRootPRQin [
 ! 
 | "[=pini+gndr@n.m.+inal@tsi.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pini}
 | "[=pinii+gndr@n.m.+inal@tsi.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pinii}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pihonkare+gndr@n.m.+inal@ntsi.][NRoot][=lung (ES: pulmones)]" : {pihonkare}
 | "[=piyonkare+gndr@n.m.+inal@ntsi.][NRoot][=lung (ES: pulmones)]" : {piyonkare}
 | "[=piyonkari+gndr@n.m.+inal@ntsi.][NRoot][=lung (ES: pulmones)]" : {piyonkari}
 | "[=vihonkare+inal@ntsi.][NRoot][=lung (ES: pulmones)]" : {vihonkare}
+# ------------------------------------------------------------------------------------------
 ! 
 # la abeja 'peanire' construye sus panales bajo tierra en el bosque primario y como especies no sociales que no producen miel 
 | "[=peanire][NRoot][=Amazon.native.bee.sp. (sci.nm.: familia.apidae, género.bombus)]" : {peanire}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=peempe+gndr@m.][NRoot][=butterfly.sp.]" : {peempe}
 | "[=pempe+gndr@m.][NRoot][=butterfly.sp.]" : {pempe}
 | "[=piimpi+gndr@m.][NRoot][=butterfly.sp.]" : {piimpi}
 | "[=pempeetzi][NRoot][=butterfly.sp.]" : {pempeetzi}
 | "[=pempero][NRoot][=butterfly.sp.; 88-number-like.butterfly]" : {pempero}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=peranti+gndr@m.][NRoot][=idle, lazy (ES: hombre.ocioso)]" : {peranti}
 | "[=perantzi+gndr@m.][NRoot][=idle, lazy (ES: hombre.ocioso)]" : {perantzi}
 | "[=pirantzi+gndr@m.][NRoot][=idle, lazy (ES: hombre.ocioso)]" : {pirantzi}
 | "[=peranto+gndr@n.m.][NRoot][=idle, lazy (ES: mujer.ociosa)]" : {peranto}
 | "[=piranto+gndr@n.m.][NRoot][=idle, lazy (ES: mujer.ociosa)]" : {piranto}
+# ------------------------------------------------------------------------------------------
 ! 
 # OrdenColeoptera, FamiliaScolytidaeconocidos como escarabajos de ambrosía y los orden Coleoptera, Familia Platypodidae.
 | "[=periki][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {periki}
 | "[=pereki][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pereki}
 | "[=perikitzi][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {perikitzi}
 | "[=pirikitzi][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pirikitzi}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=piryoki][NRoot][=coconut.palm.grub]" : {piryoki}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pentaki+gndr@n.m.+inal@ntsi.][NRoot][=watermelon-like.flat.seed; fish.scale (ES: escama); sth.of.round-shape.with.2.sides.flattened]" : {pentaki}
 ! 
