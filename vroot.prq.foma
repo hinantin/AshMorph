@@ -1156,6 +1156,7 @@ define VRootPRQin [
 # --------------------------------------------------------- 
 ! 
 | "[=maisant+INF@antsi.][VRoot][=to.forget (ES: olvidar)]" : {maisant} 
+! 
 | "[=peako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)]" : {peako} 
 | "[=pyaako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)]" : {pyaako} 
 | "[=peyako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)]" : {peyako} 
@@ -1169,10 +1170,12 @@ define VRootPRQin [
 | "[=makore+INF@antsi.][VRoot][=to.tire; to.rest (ES: descansar)]" : {makore} 
 | "[=makory+INF@aantsi.][VRoot][=to.tire; to.rest (ES: descansar)]" : {makory} 
 | "[=makori+INF@antsi.][VRoot][=to.tire; to.rest (ES: descansar)]" : {makori} 
+# --------------------------------------------------------- 
 ! 
 | "[=mamp+INF@agantsi.][VRoot][=to.sing (ES: cantar)]" : {mamp}
 | "[=amamp+INF@V.][VRoot][=to.sing (ES: cantar)]" : {amamp} ! ramampae 
 | "[=maNp/mãp+INF@V.][VRoot][=to.sing (ES: cantar)]" : {mãp}
+# --------------------------------------------------------- 
 ! 
 | "[=pachak+INF@VC.][VRoot][=to.patch.up (ES: remendar)]" : {pachak}
 ! 
