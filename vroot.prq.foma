@@ -1184,6 +1184,7 @@ define VRootPRQin [
 # --------------------------------------------------------- 
 ! 
 | "[=pamia+INF@/EP:t/antsi.][VRoot][=to.catch.fish.with.the.hands (ES: pescar.con.las.manos)]" : {pamia}
+# --------------------------------------------------------- 
 ! 
 | "[=pampoy+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoy} ! V@->N::[=song (ES: canción)] 
 | "[=pampoye+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoye}
@@ -1193,23 +1194,31 @@ define VRootPRQin [
 | "[=pants+INF@agaantsi:(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pants} ! revise!
 | "[=pantsa+INF@/DEL:a/ntsi:antsi.][VRoot][=to.sing (ES: cantar); to.sing.individually]" : {pantsa}
 | "[=pantsag+INF@aantsi.][VRoot][=to.sing (ES: cantar)]" : {pantsag}
+# --------------------------------------------------------- 
 ! 
 | "[=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {man}
 | "[=oman+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {oman}
+! 
 | "[=tsiti+INF@/EP:t/aantsi.][VRoot][=to.hide (ES: ocultar)]" : {tsiti}
+# --------------------------------------------------------- 
 ! 
 | "[=mana+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: luchar)]" : {mana} ! V@->N::[=fighting (ES: lucha, enfrentamiento)] 
+# --------------------------------------------------------- 
 ! 
 | "[=mana+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)]" : {mana}
 | "[=manaa+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)]" : {manaa}
+# --------------------------------------------------------- 
 ! 
 | "[=manin+INF@/EP:t/aantsi.][VRoot][=to.scorn (ES: desdeñar);| to.look.down.on.sb. (ES: despreciar)]" : {manin} ! @section:verb@ 
 | "[=manint+INF@aantsi.][VRoot][=to.scorn (ES: desdeñar); to.look.down.on.sb. (ES: despreciar)]" : {manint}
+# --------------------------------------------------------- 
 ! 
 # cantar y bailar en fila, solo las mujeres. 
 | "[=maninke][VRoot][=to.sing-and-dance.in.a.row (mainly.women)]" : {maninke}
+# --------------------------------------------------------- 
 ! 
 | "[=manonk][VRoot][=to.cause.a.bad.omen (ES: hacer.mal.agüero)]" : {manonk}
+# --------------------------------------------------------- 
 ! 
 | "[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))]" : {mantsiy}
 | "[=mantsiya+INF@/EP:t/aantsi.][VRoot][=to.be.sick (ES: enfermar(se))]" : {mantsiya}
@@ -1218,9 +1227,11 @@ define VRootPRQin [
 | "[=mantsiya+INF@/EP:t/aantsi.][VRoot][=to.be.sick (ES: enfermar(se))]" : {mantsiya}
 | "[=matiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {matiya} ! misspelled?
 | "[=matsiya][VRoot][=to.be.sick (ES: enfermar(se))]" : {matsiya} ! misspelled?
+# --------------------------------------------------------- 
 ! 
 | "[=omapero+INF@/EP:t/antsi.][VRoot][=to.get.worse (ES: empeorarse)]" : {omapero}
 | "[=mapero][VRoot][=to.get.worse (ES: empeorarse); to.be.seriously.ill (ES: estar.grave); to.be.true]" : {mapero}
+# --------------------------------------------------------- 
 ! 
 | "[=masavi+INF@/EP:t/aantsi.][VRoot][=to.sweat (ES: sudar)]" : {masavi}
 | "[=masaavi+INF@/EP:t/aantsi.][VRoot][=to.feel.feverish/hot (ES: sudar)]" : {masaavi}
