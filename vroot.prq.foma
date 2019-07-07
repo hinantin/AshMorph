@@ -1145,6 +1145,7 @@ define VRootPRQin [
 # --------------------------------------------------------- 
 ! 
 | "[=machok+INF@V.][VRoot][=to.close.eyes (ES: cerrar.los.ojos)]" : {machok} 
+# --------------------------------------------------------- 
 ! 
 | "[=mahere+INF/EP:t/aantsi.][VRoot][=to.be.silent (ES: callar)]" : {mahere} ! V@->N::[=silence (ES: silencio)] 
 | "[=mairi+INF@/EP:t/aantsi.][VRoot][=to.be.serious/solemn; to.be.silent (ES: callar, no.contestar/responder)]" : {mairi} 
