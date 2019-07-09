@@ -4518,10 +4518,13 @@ define NRootPRQin [
 ! 
 | "[=piyoro+gndr@n.m.][NRoot][=plant.sp., flowering.tree.sp. (ES: ocuera.(blanca))]" : {piyoro}
 | "[=piyovo+gndr@n.m.][NRoot][=plant.sp., flowering.tree.sp. (ES: ocuera.(blanca))]" : {piyovo}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=piyompitzi][NRoot][=black-faced.dacnis (sci.nm.: dacnis.lineata)]" : {piyompitzi}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
+# ------------------------------------------------------------------------------------------
 ! 
 # las abejas 'pichi', 'sanirontiki' perforan los troncos secos de árboles muertos y construyen sus nidos en estos. 
 # el macho es de color amarillo dorado y la hembra negra (algunas especies esta se tornasola en verde o morado) 
@@ -4529,6 +4532,7 @@ define NRootPRQin [
 # 'sanirontiki' está ubicada en el límite de la familia de las abejas con la familia de las avispas llamadas 'sani'. 
 # De allí su nombre que podría ser traducido como abeja-avispa. 
 | "[=sanirontiki][NRoot][=carpenter.bee.sp. (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, género.xylocopa, neoxylocopa.sp.)]" : {sanirontiki}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pinkatsari+gndr@m.+voc.+poss@te.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsari}
 | "[=pinkatsare+gndr@m.+voc.+poss@te.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsare}
