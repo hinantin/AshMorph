@@ -4537,6 +4537,7 @@ define NRootPRQin [
 | "[=pinkatsari+gndr@m.+voc.+poss@te.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsari}
 | "[=pinkatsare+gndr@m.+voc.+poss@te.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsare}
 | "[=pinkatsaro+gndr@n.m.+voc.+poss@te.][NRoot][=female.chief (ES: jefa; PT: chefa, aquela.que.é.temida)]" : {pinkatsaro}
+# ------------------------------------------------------------------------------------------
 ! 
 # koshiripirantsi / =koshiri =pira -ntsi / =monkey.sp. =domestic.animal -nposs / EN: 'intelligent.monkey' 
 | "[=pira+gndr@m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
@@ -4544,6 +4545,7 @@ define NRootPRQin [
 ! 
 | "[=piratsi+gndr@m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (ES: huangana, pecarí.de.labios.blancos; PT: queixada; sci.nm.: tayassu.pecari)]" : {piratsi}
 | "[=pirachi+gndr@m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (ES: huangana, pecarí.de.labios.blancos; PT: queixada; sci.nm.: tayassu.pecari)]" : {pirachi}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=Pito][NRoot][=person's.name]" : {pito}
 ! 
