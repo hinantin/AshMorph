@@ -4548,28 +4548,38 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=Pito][NRoot][=person's.name]" : {pito}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pito+gndr@m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque)]" : {pito}
 | "[=pitoni+gndr@m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas, aotus.sp.)]" : {pitoni}
 | "[=pityoni+gndr@m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas)]" : {pityoni}
 | "[=pitonii+gndr@m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas)]" : {ipitonii}
+! 
 | "[=marampito][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui)]" : {marampito}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pityochichovaki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudotylosurus.microps)]" : {pityochichovaki}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pityotsi][NRoot][=proper.name]" : {pityotsi}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pityoki][NRoot][=little.thing]" : {pityoki}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pito+gndr@n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)]" : {pito}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pitoka][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta, xanthosoma.sagittifolium.Schott.)]" : {pitoka}
 | "[=pitoso][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta)]" : {pitoso}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pitonto+gndr@n.m.][NRoot][=liana.sp. (ES: especie.de.bejuco, ojo.de.vaca)]" : {pitonto}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pitoro][NRoot][=small.bird.sp.]" : {pitoro}
 | "[=pitovo][NRoot][=small.bird.sp.]" : {pitovo}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pitororo][NRoot][=lemmon-throted.barbet (bird.sp., sci.nm.: eubucco.richardsoni)]" : {pitororo}
 | "[=pitororoti][NRoot][=lemmon-throted.barbet (bird.sp., sci.nm.: eubucco.richardsoni)]" : {pitororoti}
