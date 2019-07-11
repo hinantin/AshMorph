@@ -4596,23 +4596,31 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pitzintzi+gndr@m.][NRoot][=sparrow.sp., black-headed.black-winged.red.bird.sp]" : {pitzintzi}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pitzirishi+gndr@n.m.][NRoot][=herb/plant.used.to.dye.thread (ES: hierba.usada.para.teñir.hilo)]" : {pitzirishi}
 | "[=pitirishi+gndr@n.m.][NRoot][=tree.sp. (it.produces.leaves.that.serve.to.dye.rope)]" : {pitirishi}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pitziro+gndr@m.][NRoot][=house.beetle.sp. (commonly.found.around.human.dwellings; ES: grillo.casero)]" : {pitziro}
 | "[=pitiro+gndr@m.][NRoot][=house.beetle.sp. (commonly.found.around.human.dwellings; ES: grillo.casero)]" : {pitiro}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=sanori][NRoot][=long ([ˈsa.nə.ɾɪ]; ES: largo); (ES: en.verdad, de.veras)]" : {sanori}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tsini+gndr@n.m.+inal@tsi.][NRoot][=urine (ES: orina)]" : {tsini}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tsino+gndr@m.][NRoot][=bird.sp. (ES: sp.de.paucar)]" : {tsino}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tsipamintsare][NRoot][=friend (ES: amigo)]" : {tsipamintsare} ! N@->V
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tsipaveirotzi][NRoot][=sand-colored.nighthawk (sci.nm.: chordeiles.rupestris)]" : {tsipaveirotzi}
 | "[=tsipaveiro][NRoot][=pauraque (sci.nm.: nyctidromus.albicollis)]" : {tsipaveiro}
+# ------------------------------------------------------------------------------------------
 ! 
 ! itsipine / i- =tsipi -ne / 3m.poss- =small.monkey -aln.poss. / EN: 'his.small.monkey'; ES: 'su.mono.de.bolsillo' 
 | "[=tsipi+poss@ne.][NRoot][=small.monkey (ES: mono.de.bolsillo, pichico, mono.fraile, mono.leoncillo; sci.nm.: saguinus.sp.)]" : {tsipi}
