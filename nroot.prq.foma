@@ -4678,12 +4678,16 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=tsitashike][NRoot][=plant.sp. (jaboncillo)]" : {tsitashike}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tsitita][NRoot][=legume.sp. (ES: pallar; botany.id.: phaseolus.lunatus)]" : {tsitita}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tsoaki][NRoot][=shoot, part.that.grows.up.from.the.ground.when.a.plant.starts.to.grow (ES: brote)]" : {tsoaki}
+# ------------------------------------------------------------------------------------------
 ! pavintsi -> to be checked  
 | "[=pavi+gndr@n.m.+inal@n/tsi.][NRoot][=stairs, ladder; bridge/ramp.formed.by.a.fallen_tree/stick]" : {pavi}
+# ------------------------------------------------------------------------------------------
 ! 
 # bats 
 | "[=piri][NRoot][=bat.sp. (ES: sp.de.murciélago; PT: morcego; sci.nm.: orden.chiroptera)]" : {piri}
@@ -4691,13 +4695,16 @@ define NRootPRQin [
 | "[=pihiri][NRoot][=bat.sp. (ES: sp.de.murciélago; PT: morcego; sci.nm.: orden.chiroptera)]" : {pihiri}
 | "[=toantoani][NRoot][=big-and-dark.bat.sp.]" : {toantoani}
 | "[=tsompavito][NRoot][=big-and-gray.bat.sp.]" : {tsompavito}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pishava][NRoot][=person's.name, NP]" : {pishava}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pishiti+gndr@m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishiti}
 | "[=pishitsi+gndr@m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac); (ES: tanagra)]" : {pishitsi}
 | "[=pishitzi+gndr@m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitzi}
 | "[=pishiro+gndr@m.+poss@ti.][NRoot][=small.toucan.sp. (ES: choquimbo; sci.nm.: pteroglosus.castanotis)]" : {pishiro}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pishivakintsi][NRoot][=broom (ES: escoba)]" : {pishivakintsi}
 ! 
