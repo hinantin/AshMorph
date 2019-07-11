@@ -4707,34 +4707,45 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pishivakintsi][NRoot][=broom (ES: escoba)]" : {pishivakintsi}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pitsiro+gndr@m.][NRoot][=grasshopper (ES: saltamonte; sci.nm.: familia.locustidae/acrididae); true.locust]" : {pitsiro}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pitsitsari+gndr@n.m.][NRoot][=clay; mud (it.is.used.to.dye.yarn)]" : {pitsitsari}
 | "[=pitzitsari+gndr@n.m.][NRoot][=black.clay (ES: greda.negra); black.mud (itris.used.to.dye.yarn/cushmas)]" : {pitzitsari}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=piviro+gndr@m.][NRoot][=toad.sp. (ES: sp.de.rana)]" : {piviro}
 | "[=peviro+gndr@m.][NRoot][=frog.sp. (ES: sp.de.rana)]" : {peviro}
+# ------------------------------------------------------------------------------------------
 ! 
 # novochokine / no- =pochoki -ne / 1sg.poss- =dream -nposs / EN: 'my.dream', ES: 'mi.sueño' 
 | "[=pochoki+poss@ne:ni.][NRoot][=dream (ES: sueño; PT: sonho)]" : {pochoki} 
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pochonyeihi][NRoot][=dove.sp. (ES: sp.de.paloma; sci.nm.: geotrygon.montana, columbidae)]" : {pochonyeihi} 
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=poe][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus; PT: batata.doce)]" : {poe}
 | "[=poi][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus; PT: batata.doce)]" : {poi}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=poiritzi+gndr@m.][NRoot][=blue-crowned.manakin (sci.nm.: pipra.coronata); elusive.small_bird.sp. (ES: sp.de.pajarito.esquivo)]" : {poiritzi} ! Poirkzi ???
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=poitoki][NRoot][=cocona.sp. (sci.nm.: solanum.sessiliflorum); edible.fruit.variety]" : {poitoki}
+# ------------------------------------------------------------------------------------------
 
 | "[=poitoroki+gndr@n.m.][NRoot][=cocona.sp.; edible.fruit.variety]" : {poitoroki}
 | "[=poetoki][NRoot][=cocona.sp. (sci.nm.: solanum.sessiliflorum); edible.fruit.variety]" : {poetoki}
 | "[=poitoro][NRoot][=cocona.sp. (sci.nm.: solanum.sessiliflorum); edible.fruit.variety]" : {poitoro}
 | "[=popooki+gndr@n.m.][NRoot][=cocona.sp.; edible.fruit.variety]" : {popooki}
 | "[=tocona][NRoot][=cocona.sp. (sci.nm.: solanum.sessiliflorum)]" : {tokona}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=poiyotzi][NRoot][=gray-headed.child]" : {poiyotzi}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=pokicho+gndr@m.][NRoot][=bird.sp. (ES: sp.de.pájaro); NP]" : {pokicho}
 ! 
