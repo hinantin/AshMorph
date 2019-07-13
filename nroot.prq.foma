@@ -4953,60 +4953,82 @@ define NRootPRQin [
 ! 
 | "[=saasaatzi+gndr@m.][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus; ES: sp.de.perdiz)]" : {saasaatzi}
 | "[=shaashaatzi+gndr@m.][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus; ES: sp.de.perdiz)]" : {shaashaatzi}
+# --------------------------------------------------------------------------
 ! 
 | "[=sahanti+gndr@m.][NRoot][=heron.sp. (sp.de.garza; sci.nm.: butorides.striatus)]" : {sahanti}
+# --------------------------------------------------------------------------
 ! 
 # nosaimpikiri / no- =saimpiki -ri+alien. / 1sg.poss- =firewood -nposs / EN: 'my.firewood', ES: 'mi.leña' 
 | "[=saimpiki+poss@ri.][NRoot][=firewood (ES: leña); dry.twigs]" : {saimpiki}
+# --------------------------------------------------------------------------
 ! ash
 | "[=samampo+gndr@n.m.][NRoot][=ash (ES: ceniza); grey, ashen, having.colour.of.smoke/ashes]" : {samampo}
 | "[=hamampo+gndr@n.m.][NRoot][=ash (ES: ceniza); grey, ashen, having.colour.of.smoke/ashes]" : {hamampo}
+# --------------------------------------------------------------------------
 ! 
 | "[=samanto][NRoot][=UNKNOWN.WORD]" : {samanto} 
 # ES: 'hojas secas caidas de los árboles depositadas dentro del agua, elementos que el dueño del agua utiliza para dañar a las personas' 
 | "[=samantoshi][NRoot][=rotten.leaf; dried.tree_leaf.deposited.inside.water (ES: hoja.seca.de.un.árbol.que.cayó.al.agua)]" : {samantoshi} 
+# --------------------------------------------------------------------------
 ! 
 # kanirisama / [=kaniri =sama]+gndr@n.m. / =yucca =medicinal.plant / EN: 'yucca-like.medicinal.plant.sp. (it.has.fattening.properties)', ES: 'especie.de.planta.medicinal.similar.a.la.yuca, sacha.yuca'  
 # tsirompisama / =tsirompi =sama / =tamshi,climbing_plant =medicinal.plant / EN: 'medicinal.plant.sp.', ES: 'especie.de.planta.medicinal' 
 | "[=sama+gndr@n.m.+inal@tsi.][NRoot][=inanimate.body (ES: cuerpo.inanimado); medicinal.plant]" : {sama} ! @CMP
+# --------------------------------------------------------------------------
 ! 
 | "[=sameti+gndr@m.][NRoot][=godfather]" : {sameti}
+# --------------------------------------------------------------------------
 ! 
 | "[=samomo+gndr@m.][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca); dove.sp.]" : {samomo}
 | "[=hamomo+gndr@m.][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca); dove.sp.]" : {hamomo}
 | "[=samomotzi][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca); dove.sp.]" : {samomotzi}
+# --------------------------------------------------------------------------
 ! 
 | "[=samoto][NRoot][=rotten.stick (ES: palo.podrido); armored.catfish.sp. (ES: carachama; sci.nm.: hypostomus.sp., ancistrus.sp.)]" : {samoto}
+# --------------------------------------------------------------------------
 ! 
 | "[=santa][NRoot][=daytime/diurnal.butterfly.sp. (ES: mariposa.diurna)]" : {santa}
+# --------------------------------------------------------------------------
 ! 
 | "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]" : {santi} ! N@->V::[=to.fart (ES: tirarse.un.pedo)] 
 | "[=santsi+inal@tzi.][NRoot][=fart (ES: pedo)]" : {santsi}
+# --------------------------------------------------------------------------
 ! 
 | "[=shakinyi/shakiñi][NRoot][=person's.name, NP]" : {shakinyi}
+# --------------------------------------------------------------------------
 ! 
 # QU: 
 # shanay / =shana -y / =arder -inf / ES: 'arder' 
 # timpishka / =timpi -shka / =empinarse -prf / ES: 'empinado' 
 | "[=shanay_timpishka][NRoot][=boiling.river]" : {shanay_timpishka} 
+# --------------------------------------------------------------------------
 ! 
 | "[=shamaki+gndr@n.m.][NRoot][=fruit.tree (ES: fruta.silvestre), requia-tree (ES: requia, sp.de.árbol; sci.nm.: eugenia, guarea)]" : {shamaki}
+# --------------------------------------------------------------------------
 ! 
 | "[=shamampo+gndr@m.][NRoot][=wite-winged.swallow (sci.nm.: tachycinera.albiventer)]" : {shamampo}
+# --------------------------------------------------------------------------
 ! 
 | "[=shamanto+gndr@m.][NRoot][=red-necked.woodpecker (sci.nm.: phloeoceastes.rubricollis)]" : {shamanto}
+# --------------------------------------------------------------------------
 ! 
+! santos/shantyoshi ??? saints? 
 | "[=shantyoshi][NRoot][=the.pure]" : {shantyoshi}
+# --------------------------------------------------------------------------
 ! 
 | "[=shantyoma][NRoot][=NP, person's.name]" : {shantyoma}
+# --------------------------------------------------------------------------
 ! 
 | "[=shareva][NRoot][=person's.name; NP]" : {shareva}
+# --------------------------------------------------------------------------
 ! 
 | "[=shavo+gndr@m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {shavo}
 | "[=sharo+gndr@m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {sharo}
 | "[=sharoni+gndr@m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {sharoni}
+# --------------------------------------------------------------------------
 ! 
 | "[=shaaro+gndr@n.m.+inal@ntsi.][NRoot][=diarrhea (ES: diarrea)]" : {shaaro}
+# --------------------------------------------------------------------------
 ! 
 | "[=shameti+gndr@m.][NRoot][=godfather (man.who.pierces.another.man's.nose.in.order.to.place.a_nasal_adornment)]" : {shameti}
 | "[=sameti+gndr@m.][NRoot][=godfather (man.who.pierces.another.man's.nose.in.order.to.place.a_nasal_adornment)]" : {sameti}
