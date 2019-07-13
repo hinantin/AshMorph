@@ -5338,26 +5338,34 @@ define NRootPRQin [
 ! 
 | "[=santari+gndr@n.m.][NRoot][=cedar.tree, timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei; sci.nm.: cedrela.odorata)]" : {santari}
 | "[=hantari+gndr@n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei; sci.nm.: cedrela.odorata)]" : {hantari}
+# ------------------------------------------------------------
 ! 
 | "[=santani+gndr@m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {santani}
 | "[=hantani+gndr@m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {hantani}
+# ------------------------------------------------------------
 ! 
 | "[=sankamiro+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankamiro}
 | "[=sankimiro+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankimiro}
+# ------------------------------------------------------------
 ! 
 | "[=sankatari+inal@ntsi.][NRoot][=armpit]" : {sankatari}
+# ------------------------------------------------------------
 ! 
 | "[=sankatzi+gndr@m.][NRoot][=red-necked.gallinacean.bird.sp. (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {sankatzi}
 | "[=sankati+gndr@m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu, penélope.montagnii)]" : {sankati}
 | "[=hankati+gndr@m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {hankati}
 | "[=hankatse+gndr@m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {hankatse}
+# ------------------------------------------------------------
 ! 
 | "[=sankonka][NRoot][= (ES: culantro, cilantro, sacha.cula)]" : {sankonka}
+# ------------------------------------------------------------
 ! 
 | "[=santimatiki][NRoot][=timber.tree.sp. (ES: ishpingo, sp.de.árbol.maderable; PT: madeira.de.lei)]" : {santimatiki}
+# ------------------------------------------------------------
 ! 
 | "[=santo][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]" : {santo}
 | "[=kasanto][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]" : {kasanto} ! N@->V::[=to.be.an.orchid]  
+# ------------------------------------------------------------
 ! 
 | "[=santoma+gndr@n.m.][NRoot][=rubber.tree]" : {santoma}
 | "[=santonka+gndr@n.m.][NRoot][=rubber.tree (ES: caucho)]" : {santonka}
@@ -5367,15 +5375,18 @@ define NRootPRQin [
 | "[=satonkaaro+gndr@n.m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaaro}
 | "[=satonkaro+gndr@n.m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaro}
 | "[=santonkaaro][NRoot][=tatoo.made.with.rubber.charcoal]" : {santonkaaro}
+# ------------------------------------------------------------
 ! 
 | "[=santeripana+gndr@n.m.][NRoot][=flavoring.leaf (ES: hoja.saborizante.(para.chipado/QU:patarasqa))]" : {santeripana}
 | "[=hanteripana+gndr@n.m.][NRoot][=flavoring.leaf (ES: hoja.saborizante.(para.chipado/QU:patarasqa))]" : {hanteripana}
+# ------------------------------------------------------------
 ! 
 | "[=santero][NRoot][=red-bellied.macaw (sci.nm.: ara.manilata, aratinga.weddelli)]" : {santero}
+# ------------------------------------------------------------
 ! 
 | "[=santira][NRoot][=watermelon (botany.sp.: citrullus.sp.)]" : {santira}
+# ------------------------------------------------------------
 ! 
-# -------------------------------------------------------------------------------------------------
 | "[=saro+gndr@n.m.+kin@fe/male.ego][NRoot][=grandmother]" : {saro}
 ! 
 | "[=saro+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter]" : {saro}
@@ -5386,17 +5397,23 @@ define NRootPRQin [
 | "[=saro][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saro}
 | "[=saaro][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saaro}
 | "[=haaapa][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {haaapa}
+# ------------------------------------------------------------
 ! 
-| "[=saserote][NRoot][=priest]" : {saserote}
+| "[=sacerdote/saserote][NRoot][=priest]" : {saserote}
+# ------------------------------------------------------------
 ! 
 | "[=satipo][NRoot][=NP, Satipo.province]" : {satipo}
 | "[=hatipo][NRoot][=NP, Satipo.province]" : {hatipo}
+# ------------------------------------------------------------
 ! 
 | "[=satzi][NRoot][=provenance]" : {satzi}
+# ------------------------------------------------------------
 ! 
 | "[=satonotzi][NRoot][=trush-like.antpitta (sci.nm.: myrnothera.campanisona)]" : {satonotzi}
+# ------------------------------------------------------------
 ! 
 | "[=satotori][NRoot][=undulated.antpitta (sci.nm.: grallaria.squamigera)]" : {satotori}
+# ------------------------------------------------------------
 ! 
 | "[=save+gndr@m.][NRoot][=turtle.sp.]" : {save}
 ! 
