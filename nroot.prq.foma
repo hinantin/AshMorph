@@ -5416,45 +5416,59 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=save+gndr@m.][NRoot][=turtle.sp.]" : {save}
+# ------------------------------------------------------------
 ! 
 | "[=saveto+gndr@m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {saveto}
 | "[=savito+gndr@m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {savito}
+# ------------------------------------------------------------
 ! 
 | "[=saavintaro+gndr@n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saavintaro}
 | "[=saventaro+gndr@n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventaro}
 | "[=saventavo+gndr@n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventavo}
+# ------------------------------------------------------------
 ! 
 | "[=savirentsitaki][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {savirentsitaki}
 | "[=shaatonki][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {shaatonki}
 | "[=parentinato][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {parentinato}
 | "[=metsotonkiri][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {metsotonkiri}
+# ------------------------------------------------------------
 ! 
 | "[=saviri+gndr@n.m.+poss@te.][NRoot][=machete]" : {saviri}
+# ------------------------------------------------------------
 ! 
 | "[=sechi][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: género.camponotus)]" : {sechi}
+# ------------------------------------------------------------
 ! 
 # la larva 'sechiki' se desarrolla en los tallos podridos de la caña brava al borde de las quebradas. 
 | "[=sechiki][NRoot][=larva.sp. (ES: sp.de.larva; sci.nm.: orden.díptera, suborden.brachycera-acalyptratae)]" : {sechiki}
+# ------------------------------------------------------------
 ! 
 | "[=seniro][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: milvago.chimachima)]" : {seniro}
+# ------------------------------------------------------------
 ! 
 # Enesati, Tambosati 
 | "[=sevaitiki][NRoot][=edible.bivalve.sp. (ES: bivalvo, molusco.comestible; sci.nm.: diplodon.sp.)]" : {sevaitiki}
+# ------------------------------------------------------------
 ! 
 | "[=shamitzi][NRoot][=namesake]" : {shamitzi}
+# ------------------------------------------------------------
 ! 
 # animal que vive en los árboles, posee grandes uñas y cola prensil.
 | "[=sha+poss@ni.][NRoot][=anteater (ES: piampía; PT: tamanduá)]" : {sha}
 | "[=shaa+poss@ni.][NRoot][=anteater (ES: piampía; PT: tamanduá)]" : {shaa}
 | "[=shani+gndr@m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shani}
 | "[=shaani+gndr@m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shaani}
+# ------------------------------------------------------------
 ! 
 !| "[=sheninka][NRoot][=fellow.citizen (ES: paisano)]" : {sheninka} ! @section:noun@ 
 !| "[=shaninka][NRoot][=fellow.citizen (ES: paisano)]" : {shaninka} ! @section:noun@ 
+# ------------------------------------------------------------
 ! 
 | "[=sharaka][NRoot][=snow (ES: nieve); hail (ES: granizo)]" : {sharaka}
+# ------------------------------------------------------------
 ! 
 | "[=sharinkaveni][NRoot][=hell (ES: infierno)]" : {sharinkaveni}
+# ------------------------------------------------------------
 ! 
 | "[=sharikookotzi][NRoot][=blue-crowned.trogon (sci.nm.: trogon.curucui)]" : {sharikookotzi}
 ! 
