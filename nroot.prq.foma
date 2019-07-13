@@ -3086,8 +3086,11 @@ define NRootPRQin [
 # -----------------------------------------------------------------------
 ! 
 | "[=matsontsori+gndr@m.][NRoot][=jaguar (ES: tigrillo; sci.nm.: leopardus.pardalis, Leopardus.wiedii)]" : {matsontsori}
+# -----------------------------------------------------------------------
+! 
 # Toads 
 | "[=tarairiki][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {tarairiki}
+# -----------------------------------------------------------------------
 ! 
 # Snails
 | "[=mapoto+gndr@m.][NRoot][=edible.medium-size.land.snail (ES: sp.de.caracol.terrestre.comestible, molusco, congompe; sci.nm.: megalobulimus.popelairianus)]" : {mapoto}
@@ -3102,45 +3105,58 @@ define NRootPRQin [
 ! 
 | "[=tsoiroki+gndr@m.][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=tyontiiki+gndr@m.][NRoot][=river.snail]" : {tyontiiki}
+# -----------------------------------------------------------------------
 ! 
 | "[=mata][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {mata}
+# -----------------------------------------------------------------------
 ! 
 # materiawo / materiavo / =materi -a -vo / =high-gorges.catfish.sp. -cl:liquid -nmz / EN: 'ravine.where.materi-catfish.is.abundant'; ES: 'quebrada.donde.abunda.el.bagre'   
 | "[=materi][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre; sci.nm.: astroblepus.sp.)]" : {materi}
 | "[=matiri][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre; sci.nm.: astroblepus.sp.)]" : {matiri}
+# -----------------------------------------------------------------------
 ! 
 | "[=materinke+gndr@m.][NRoot][=yellow-colored.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinke}
 | "[=materinki+gndr@m.][NRoot][=yellow-colored.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinki}
 | "[=matirinki+gndr@m.][NRoot][=yellow-colored.water.snake.sp. (ES: nacanaca, sp.de.culebra); brown-banded.water-snake]" : {matirinki}
+# -----------------------------------------------------------------------
 ! 
 | "[=mato+gndr@m.][NRoot][=nocturnal.butterfly.sp. (ES: mariposa.nocturna)]" : {mato}
 | "[=matori][NRoot][=nocturnal.butterfly.sp. (ES: mariposa.nocturna, mariposa.gris.nocturna.de.cuerpo.grueso; sci.nm.: orden.homoptera, familia.derbidae)]" : {matori}
+# -----------------------------------------------------------------------
 ! 
 | "[=matsari+gndr@m.][NRoot][=thin, slender]" : {matsari}
 | "[=matsaro+gndr@n.m.][NRoot][=thin, slender]" : {matsaro}
 | "[=matsavo+gndr@n.m.][NRoot][=thin, slender]" : {matsavo}
+# -----------------------------------------------------------------------
 ! 
 | "[=matsara+inal@ntsi.][NRoot][=rug (ES: trapo); robe]" : {matsara}
+# -----------------------------------------------------------------------
 ! 
 # mariposa.buho 
 # morpho.deidamia 
 # morpho.melenaus 
 | "[=matzaranchi][NRoot][=twilight.butterfly.sp. (ES: mariposa.crepuscular/que_sale_al_anochecer-y-al_amanecer; sci.nm.: caligo.teucer.phorkys)]" : {matzaranchi}
+# -----------------------------------------------------------------------
 ! 
 | "[=matsi+gndr@n.m.][NRoot][=plant.sp.; edible.tuber.sp. (ES: pituca)]" : {matsi}
+# -----------------------------------------------------------------------
 ! 
 # matsitaantsi / ES: 'brujería, daño, maldad' 
 | "[=matsi+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]" : {matsi} ! @VCMP N@->V::[VIRVRoot+INF@/EP:t/aantsi.][=to.be.a.witch] 
 | "[=matzi+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]" : {matzi} ! N@->V::[=to.be.a.witch]  
 | "[=mati+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]" : {mati} ! N@->V::[=to.be.a.witch; to.practice.witchcraft.on.sb. (ES: brujear)]  
 | "[=matsishi+gndr@n.m.][NRoot][=leaf.against.witchcraft]" : {matsishi}
+# -----------------------------------------------------------------------
 ! 
 | "[=matzinkori+gndr@m.][NRoot][=wall-lizard.sp. (ES: sp.de.lagartija)]" : {matzinkori} 
+# -----------------------------------------------------------------------
 ! 
 | "[=matzinkori][NRoot][=tree.sp.poisonous.to.skin]" : {matzinkori} 
 | "[=matsinkori][NRoot][=tree.sp.poisonous.to.skin]" : {matsinkori} 
+# -----------------------------------------------------------------------
 ! 
 | "[=matzita+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {matzita} 
+# -----------------------------------------------------------------------
 ! 
 | "[=matsi+gndr@m.][NRoot][=insect.sp.]" : {matsi} 
 ! 
