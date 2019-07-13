@@ -8,7 +8,7 @@ define NounToVerbPRQin [
 | "[=aapi+gndr@m.+poss@ti.+kin@fem.ego][NRoot][=elder, grandfather][^VBZ]" : {aapi} ! N@->V 
 | "[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]::[=to.become.Ashaninka][^VBZ]" : {ashaninka} ! N@->V::[=to.become.Ashaninka]
 | "[=aarontsi][NRoot][=dry.season/summer (ES: verano)]::[=to.be.summer (ES: haber.verano)][^VBZ]" : {aarontsi} ! N@->V::[=to.be.summer (ES: haber.verano)]
-| "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano)]::[=to.hand.sth. (ES: dar.con.la.mano, entregar)][^VBZ]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
+| "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano; PT: mão)]::[=to.hand.sth. (ES: dar.con.la.mano, entregar)][^VBZ]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
 | "[=amaani+gndr@n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)][^VBZ]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=amani+gndr@n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)][^VBZ]" : {amani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=antami+gndr@n.m.][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][^VBZ]" : {antami} ! N@->V
@@ -59,8 +59,8 @@ define NounToVerbPRQin [
 | "[=kitamari+gndr@m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamari} ! N@->V::[to.be.white]
 | "[=kitamaari+gndr@m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamaari} ! N@->V::[to.be.white]
 | "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo)]::[to.be.yellow (ES: ponerse.amarillento)][^VBZ]" : {kiteri} ! N@->V::[to.be.yellow (ES: ponerse.amarillento)] 
-| "[=kooya+gndr@n.m.][NRoot][=woman (QU: quya)][^VBZ]" : {kooya} ! N@->V
-| "[=koya+gndr@n.m.][NRoot][=woman (QU: quya)][^VBZ]" : {koya} ! N@->V ! @section:noun@ 
+| "[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][^VBZ]" : {kooya} ! N@->V
+| "[=koya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][^VBZ]" : {koya} ! N@->V ! @section:noun@ 
 | "[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone; rock]::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)][^VBZ]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
 | "[=matsi+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[VIRVRoot+INF@/EP:t/aantsi.][=to.be.a.witch][^VBZ]" : {matsi} ! @VCMP N@->V::[VIRVRoot+INF@/EP:t/aantsi.][=to.be.a.witch] 
 | "[=matzi+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[=to.be.a.witch][^VBZ]" : {matzi} ! N@->V::[=to.be.a.witch]  

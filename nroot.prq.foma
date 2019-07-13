@@ -272,7 +272,7 @@ define NRootPRQin [
 | "[=aana+gndr@n.m.+poss@ni.][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {aana}
 # ---------------------------------------------------------------  
 ! 
-| "[=ananta+gndr@n.m.+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}|
+| "[=ananta+gndr@n.m.+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
 # ---------------------------------------------------------------  
 ! 
 | "[=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {ani}
@@ -3061,22 +3061,29 @@ define NRootPRQin [
 ! 
 | "[=mapocha+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
 | "[=mapotxa+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya; PT: mamão)]" : {mapotxa}
+# -----------------------------------------------------------------------
 ! 
 | "[=mapova+gndr@n.m.][NRoot][=tree.sp. (ES: huimba; sci.nm.: ceiba.integrifolia, bombacaceae)]" : {mapova}
 | "[=mapovaki+gndr@n.m.][NRoot][=tree.sp. (ES: huimba; sci.nm.: ceiba.integrifolia, bombacaceae)]" : {mapovaki}
+# -----------------------------------------------------------------------
 ! 
 | "[=mashashatzi][NRoot][=toad.sp. ZOOL (ES: sp.de.sapo)]" : {mashashatzi} 
+# -----------------------------------------------------------------------
 ! 
 | "[=masheri][NRoot][=ant.sp. (QU: kuki, ES: coqui, hormiga)]" : {masheri} ! cricket.sp. 
+# -----------------------------------------------------------------------
 ! 
 | "[=masheri][NRoot][=toad.sp.]" : {masheri}
 | "[=mashero+gndr@m.][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio; sci.nm.: bufo.marinus)]" : {mashero}
 | "[=masero+gndr@m.][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio; sci.nm.: bufo.marinus)]" : {masero}
+# -----------------------------------------------------------------------
 ! 
 # omashi shinki / ES: 'cáscara.de.maíz' 
 | "[=mashi+inal@tsi.][NRoot][=skin (ES: cáscara; piel)]" : {mashi}
+# -----------------------------------------------------------------------
 ! 
 | "[=mashichaiki][NRoot][=Andean.weevil (ES: gorgojo; sci.nm.: premnotrypes.spp.)]" : {mashichaiki}
+# -----------------------------------------------------------------------
 ! 
 | "[=matsontsori+gndr@m.][NRoot][=jaguar (ES: tigrillo; sci.nm.: leopardus.pardalis, Leopardus.wiedii)]" : {matsontsori}
 # Toads 

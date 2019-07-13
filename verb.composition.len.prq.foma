@@ -5,7 +5,7 @@ define V=S=LEN=noun [
   "[--][=ani+gndr@m.+kin@male.ego][IncNRoot][=grandpa, grandfather]" : {ani} ! N@->V @VCMP 
 | "[--][=aani+gndr@m.+kin@male.ego][IncNRoot][=grandseer, grandfather; grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
 | "[--][=aane+gndr@m.+kin@male.ego][IncNRoot][=grandseer; grandfather (ES: abuelo); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
-| "[--][=vako][IncNRoot][=hand (ES: mano)]" : {vako} ! @VCMP 
+| "[--][=vako][IncNRoot][=hand (ES: mano; PT: mão)]" : {vako} ! @VCMP 
 | "[--][=atziri+gndr@m.+poss@te.][IncNRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[--][=atiri+gndr@m.+poss@te.][IncNRoot][=person, individual, human (ES: gente)]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[--][=atsiri+gndr@m.+poss@te.][IncNRoot][=person, individual, human (ES: gente)]" : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
