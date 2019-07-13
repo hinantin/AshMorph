@@ -3159,8 +3159,8 @@ define NRootPRQin [
 # -----------------------------------------------------------------------
 ! 
 | "[=matsi+gndr@m.][NRoot][=insect.sp.]" : {matsi} 
-! 
 # ----------------------------------------------------------------- 
+! 
 | "[=matsinti+gndr@m.][NRoot][=male.witch (ES: varón.brujo)]" : {matsinti}
 | "[=matsintzi+gndr@m.][NRoot][=male.witch (ES: varón.brujo)]" : {matsintzi}
 ! 
@@ -5059,38 +5059,51 @@ define NRootPRQin [
 | "[=shamitzi+gndr@m.][NRoot][=godfather]" : {shamitzi}
 ! 
 | "[=shametyaaniki+gndr@m.][NRoot][=godchild (ES: ahijado)]" : {shametyaaniki}
+# --------------------------------------------------------------------------
 ! 
 | "[=samito+gndr@n.m.+inal@ntsi.][NRoot][=godmother (ES: comadre)]" : {samito} ! \cite[p\'{a}g. 277]{payne:axininca:81}
 | "[=sameto+gndr@n.m.][NRoot][=godmother (woman.who.helps.another.woman.in.childbirth; ES: comadre); godchild (ES: ahijada)]" : {sameto}
 | "[=shameto+gndr@n.m.][NRoot][=godmother (woman.who.helps.another.woman.in.childbirth)]" : {shameto}
 | "[=shametyo+gndr@n.m.][NRoot][=godmother (ES: comadre)]" : {shametyo}
 | "[=shamityo+gndr@n.m.][NRoot][=godmother (ES: comadre)]" : {shamityo}
+# --------------------------------------------------------------------------
 ! 
 | "[=shamitzi+inal@ntsi.][NRoot][=namesake]" : {shamitzi}
+# --------------------------------------------------------------------------
 ! 
 | "[=shamo+gndr@m.][NRoot][=buff-throated.foliage.gleaner (sci.nm.: automolus.ochrolaemus)]" : {shamo}
+# --------------------------------------------------------------------------
 ! 
 | "[=shamoko][NRoot][=Samuel]" : {shamoko}
+# --------------------------------------------------------------------------
 ! 
 | "[=shamoroki][NRoot][=cicada.sp. (ES: sp.de.chicharra)]" : {shamoroki}
 | "[=shemoroki][NRoot][=cicada.sp. (ES: sp.de.chicharra)]" : {shemoroki}
+# --------------------------------------------------------------------------
 ! 
 | "[=shapopo][NRoot][=person's.name, NP]" : {shapopo}
+# --------------------------------------------------------------------------
 ! 
 | "[=sharishi][NRoot][=person's.name; NP]" : {sharishi}
+# --------------------------------------------------------------------------
 ! 
 | "[=shatoni+gndr@m.][NRoot][=paca.sp., agouti (ES: aguti, majaz; sci.nm.: myoprocta.pratti)]" : {shatoni}
+# --------------------------------------------------------------------------
 ! 
 | "[=shavashi][NRoot][=person's.name; NP]" : {shavashi}
+# --------------------------------------------------------------------------
 ! 
 | "[=shavori+gndr@m.][NRoot][=barbon-fish.sp. (ES: barbón, bagre; sci.nm.: rhamdia.sp., narrorhamdia.nemacheiri)]" : {shavori}
 | "[=shaori+gndr@m.][NRoot][=barbon-fish.sp., catfish.sp. (ES: barbón, bagre; sci.nm.: rhamdia.sp., narrorhamdia.nemacheiri)]" : {shaori}
 !| "[=shaori][NRoot][=catfish.sp. (barbón)]" : {shaori}
+# --------------------------------------------------------------------------
 ! 
 | "[=shavintoki][NRoot][=psidium, guava (ES: guayaba; botany.nm.: psidium.guajaba)]" : {shavintoki}
+# --------------------------------------------------------------------------
 ! 
 | "[=semito+gndr@m.][NRoot][=barn.owl.sp. (ES: lechuza, búho; sci.nm.: pulsatrix.perspicilata)]" : {semito}
 | "[=shemito+gndr@m.][NRoot][=barn.owl.sp. (ES: lechuza, búho; sci.nm.: pulsatrix.perspicilata)]" : {shemito}
+# --------------------------------------------------------------------------
 ! 
 # sheminkari / =shem -inka -ri / =to.be.bored -nmz -rel / EN: 'bored'; ES: 'aburrido'
 !| "[=sheminkari+gndr@m.][NRoot][=bored (ES: aburrido)]" : {sheminkari} ! @section:noun@ 
@@ -5112,47 +5125,64 @@ define NRootPRQin [
 # ----------------------------------------------------------------
 ! 
 | "[=shiyava][NRoot][=NP, person's.name]" : {shiyava}
+# ----------------------------------------------------------------
+! 
 | "[=pishiyava][NRoot][=NP, person's.name]" : {pishiyava}
+# ----------------------------------------------------------------
 ! 
 | "[=shaaki+gndr@n.m.][NRoot][=unguravi-palm-tree.fruit (ES: fruto.de.ungurague)]" : {shaaki}
+# ----------------------------------------------------------------
 ! 
 | "[=shaanke+gndr@n.m.][NRoot][=unguravi-palm-tree.venomous.snake.sp.]" : {shaanke}
+# ----------------------------------------------------------------
 ! 
 | "[=shiyeri+gndr@m.][NRoot][=monkey.sp. (ES: sp.de.mono; sci.nm.: cabuella.pygmaea)]" : {shiyeri}
+# ----------------------------------------------------------------
 ! 
 | "[=shiyintzi+gndr@m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyintzi}
 | "[=shiyentzi+gndr@m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyentzi}
 | "[=shiyiintzi+gndr@m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyiintzi}
+# ----------------------------------------------------------------
 ! 
 | "[=shiva+gndr@m.][NRoot][=anchoveta-fish (ES: anchoveta; sci.nm.: knodus.breviceps), small.fish.sp.]" : {shiva}
+# ----------------------------------------------------------------
 ! 
 | "[=shivokiro+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: género.camponotus)]" : {shivokiro}
+# ----------------------------------------------------------------
 ! 
 | "[=shivonso][NRoot][=swallow-tailed.kite (sci.nm.: elanoides.forficatus)]" : {shivonso} ! shihuonso
+# ----------------------------------------------------------------
 ! 
 | "[=shimirentsi][NRoot][=Piro, Yine]" : {shimirentsi}
+# ----------------------------------------------------------------
 ! 
 | "[=shimiro+gndr@n.m.][NRoot][=tree.sp.with.a.spicy/picante.bark (ES: palo.duro, ahumar.la.corteza.contra.el.mal.aire)]" : {shimiro}
+# ----------------------------------------------------------------
 ! 
 # shimoreja / shimoreha / =shimore -ha / =foam -cl:liquid / EN: 'foamy.river'; ES: 'río.espumoso'
 !| "[=shimoreha+~{'foam':shimore}{CL:/liquid:ha/}][NRoot][=foamy.river (ES: río.espumoso)]" : {shimoreha}
 | "[=shimore+gndr@n.m.+inal@ntsi.][NRoot][=saliva, spit(tle) (ES: saliva); foam (ES: espuma)]" : {shimore}
 | "[=shimori+gndr@n.m.+inal@ntsi.][NRoot][=saliva, spit(tle) (ES: saliva)]" : {shimori}
+# ----------------------------------------------------------------
 ! 
 | "[=shimpana+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {shimpana}
 | "[=shimpanatsa+~{'tree':shimpana}{CL:/'long.flexible.thin':tsa/}+gndr@n.m.][NRoot][=vine.that.grows.in.the.shimpana-tree (ES: bejuco.que.crece.en.el.árbol.shimpana)]" : {shimpanatsa}
 | "[=shimpanateya+~{'tree':shimpana}{CL:/flower:teya/}+gndr@n.m.][NRoot][=shimpana-tree.fruit (ES: fruto.del.árbol.shimpana)]" : {shimpanateya}
+# ----------------------------------------------------------------
 ! 
 | "[=shimpi+gndr@m.][NRoot][=armored.catfish.sp. (ES: sp.de.carachama)]" : {shimpi}
+# ----------------------------------------------------------------
 ! 
 | "[=shimpiri][NRoot][=cultigen/edible.plant.sp. (ES: taro; sci.nm.: alocasia)]" : {shimpiri}
 | "[=shimpiyi][NRoot][=pituca-like.plant.with.purple.peduncles (ES: taro; sci.nm.: alocasia)]" : {shimpiyi}
 | "[=tsimpiyi][NRoot][=pituca-like.plant.with.purple.peduncles (ES: taro; sci.nm.: alocasia)]" : {tsimpiyi}
+# ----------------------------------------------------------------
 ! 
 | "[=shimpitaki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: astyanax.maximus, ancistrus.sp., ancistrus.tamboensis)]" : {shimpitaki}
 # ------------------------------------------------------------
 ! 
 | "[=shiopa][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shiopa}
+# ----------------------------------------------------------------
 ! 
 | "[=shiopaniro+gndr@m.][NRoot][=butterfly.sp.with.question_mark-design.in.its.wings; larva.sp.]" : {shiopaniro}
 # ------------------------------------------------------------
