@@ -4877,11 +4877,14 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------ 
 ! 
 | "[=potatze][NRoot][=white-tipped.dove (sci.nm.: leptotila.verreauxi)]" : {potatze}
+# ------------------------------------------------------------------------------------------ 
 ! 
 | "[=potsitari+gndr@m.+sem@color.][NRoot][=black (ES: negro)]" : {potsitari}
 | "[=potsitaro+gndr@n.m.+sem@color.][NRoot][=black (ES: negra)]" : {potsitaro}
+# ------------------------------------------------------------------------------------------ 
 ! 
 | "[=potsitapitoki][NRoot][=golden.tanager (sci.nm.: tangara.arthus)]" : {potsitapitoki}
+# ------------------------------------------------------------------------------------------ 
 ! 
 | "[=potsotzi+gndr@n.m.][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsotzi}
 | "[=potsoti+gndr@n.m.][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsoti}
@@ -4892,6 +4895,7 @@ define NRootPRQin [
 ! 
 | "[=potsotaroki][NRoot][=tree.sp. (the.bark.is.used.to.dye.cloth.brown_reddish/yellowish)]" : {potsotaroki}
 | "[=pochotaroki][NRoot][=tree.sp. (the.bark.is.used.to.dye.cloth.brown_reddish/yellowish)]" : {pochotaroki}
+# ------------------------------------------------------------------------------------------ 
 ! 
 | "[=potyari][NRoot][=salted; half.salted]" : {potyari}
 ! 
@@ -5499,16 +5503,21 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=sheno+gndr@n.m.+inal@tsi.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)]" : {sheno}
+# ------------------------------------------------------------
 ! 
 | "[=shenotsi+gndr@n.m.][NRoot][=goiter (ES: bocio; PT: bócio)]" : {shenotsi}
+# ------------------------------------------------------------
 ! 
 | "[=shempiri][NRoot][=charapa.turtle, terrapin.sp. (ES: motelo, tortuga.de.tierra, taricaya)]" : {shempiri}
 | "[=sempiri][NRoot][=yellow-spotted.Amazon.river.turtle (ES: motelo, tortuga.de.tierra, taricaya)]" : {sempiri}
 | "[=sempiti][NRoot][=turtle.sp. (ES: motelo, tortuga.de.tierra; sci.nm.: geochelone.denticulata)]" : {sempiti}
+# ------------------------------------------------------------
 ! 
 | "[=shereentzi+gndr@m.][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {shereentzi}
+# ------------------------------------------------------------
 ! 
 | "[=shereki][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: guarea.glabra)]" : {shereki}
+# ------------------------------------------------------------
 ! 
 | "[=sheripyari+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripyari}
 | "[=sheripiare+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripiare}
@@ -5516,46 +5525,57 @@ define NRootPRQin [
 | "[=sheripiyari+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
 | "[=sherepiyari+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sherepiyari}
 | "[=seripigari+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {seripigari}
+# ------------------------------------------------------------
 ! 
 | "[=sheripiaro+gndr@n.m.+sem@healer.][NRoot][=female.shaman, shamanness]" : {sheripiaro}
 | "[=sheripiavo+gndr@n.m.+sem@healer.][NRoot][=wise.woman (ES: mujer.sabia); shamanness]" : {sheripiavo}
+# ------------------------------------------------------------
 ! 
 | "[=sherivetzi][NRoot][=gree-and-rufous.kingfisher (sci.nm.: chloroceryle.inda)]" : {sherivetzi}
+# ------------------------------------------------------------
 ! 
 | "[=shetaki+gndr@n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]" : {shetaki} ! N@->V
+# ------------------------------------------------------------
 ! afternoon 
 | "[=shetene][NRoot][=afternoon]" : {shetene}
 | "[=sheteni][NRoot][=afternoon]" : {sheteni}
 | "[=sheteni][NRoot][=day]" : {sheteni}
 | "[=sheeteni][NRoot][=day]" : {sheeteni}
+# ------------------------------------------------------------
 ! 
 | "[=sheteri+gndr@m.][NRoot][=one-eyed, blind.in.one.eye (ES: tuerto)]" : {sheteri}
 | "[=shetero+gndr@n.m.][NRoot][=one-eyed, blind.in.one.eye (ES: tuerta)]" : {shetero}
+# ------------------------------------------------------------
 ! 
 # cape.gooseberry (aguaymanto, from.Quechua.awaymantu, uvilla, sci.nm.: physalis.peruviana
 | "[=shevanto+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevanto}
+# ------------------------------------------------------------
 ! 
 | "[=shevankori][NRoot][=NP, person's.name]" : {shevankori}
+# ------------------------------------------------------------
 ! 
 | "[=sevantoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {sevantoki}
 | "[=shevantoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantoki}
 | "[=shevantyoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantyoki}
 | "[=hyivantoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {hyivantoki}
+# ------------------------------------------------------------
 ! 
 | "[=shevatarotsi][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodidae, sorubim.lima)]" : {shevatarotsi} 
+# ------------------------------------------------------------
 ! 
-# *********************************************************
 # oshi intsipa / o- =shi =intsipa / 3n.m.poss- =leaf =ice-cream.bean.tree ES: 'la.hoja.del.pacae' 
 | "[=shi][NRoot][=leaf]" : {shi} 
 # oshitsi / =oshi -tsi / =leaf -nposs / EN: 'leaf', ES: 'hoja'  
 | "[=oshi+inal@tsi.][NRoot][=leaf]" : {oshi} 
 # aakiro oishi yentziri / =a -ak -i -ro =oishi =yentziri / =to.take -prf -irr -3n.m.o =her.leaf =male.garlic / ES: 'cogemos.la_hoja.del.ajo_macho'
 | "[=oishi][NRoot][=leaf; her.leaf]" : {oishi} ! oishi = leaf? 
-# *********************************************************
+# ------------------------------------------------------------
 ! 
 | "[=shiaronki][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: leptophis.ahaetulla.nigromarginatus)]" : {shiaronki} 
+# ------------------------------------------------------------
 ! 
 | "[=oshiteki][NRoot][=manioc.beer.paste (ES: bagazo.(del.masato); PT: bagaço.(da.caiçuma))]" : {oshiteki} 
+# ------------------------------------------------------------
 ! 
 | "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking; ES: plátano.de.seda; sci.nm.: musa.musaceae)]" : {shiira}
 ! 
