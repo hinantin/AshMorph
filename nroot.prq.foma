@@ -5616,46 +5616,61 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=shinshierogiro][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinshierogiro}
+# ------------------------------------------------------------
 ! 
 | "[=shiranta+gndr@n.m.][NRoot][=flagstone, flag, flat.stone (ES: laja, roca.plana); boulder (ES: peña.dentro.del.agua)]" : {shiranta} ! N@->V::[= (ES: tarrafear)]
 | "[=shirantaa+gndr@n.m.][NRoot][=flagstone, flag, flat.stone (ES: laja, roca.plana); boulder (ES: peña.dentro.del.agua)]" : {shirantaa}
 | "[=shirantaa+gndr@n.m.][NRoot][=flat.stone (ES: laja, roca.plana)]" : {shirantaa} 
+# ------------------------------------------------------------
 ! 
 | "[=shiranto][NRoot][=stone; rock]" : {shiranto}
+# ------------------------------------------------------------
 ! 
 | "[=shire+gndr@n.m.+inal@tsi.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person]" : {shire} ! @VCMP
 | "[=shiree+gndr@n.m.+inal@tsi.][NRoot][=spirit, soul; spirit.of.a.dead.person]" : {shiree}
 | "[=shiri+gndr@n.m.+inal@tsi.][NRoot][=spirit, soul; spirit.of.a.dead.person]" : {shiri} ! @VCMP
+# ------------------------------------------------------------
 ! 
 | "[=shiiri][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: ictinia.plumbea); barred.forest-falcon (micrastur.ruficollis)]" : {shiiri}
+# ------------------------------------------------------------
 ! 
 | "[=shiirintzi][NRoot][=undulated.tinamou (sci.nm.: crypturellus.undulatus)]" : {shiirintzi}
+# ------------------------------------------------------------
 ! 
 | "[=shiri+gndr@n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {shiri} ! N@->V
 | "[=sheri+gndr@n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco ([ˈʃɛ.ɾɪ];ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug; tobacco.paste]" : {sheri} ! N@->V
 | "[=shere+gndr@n.m.+poss@ni.+voc@1SG.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {shere}
 | "[=seri+gndr@n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {seri} ! N@->V
+! 
 | "[=pocharo+gndr@n.m.][NRoot][=tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {pocharo} 
 | "[=pochari][NRoot][=tobacco.syrup (it.is.made.from.boiled.tobacco.leaves); psychoactive.drug]" : {pochari} 
+# ------------------------------------------------------------
 !
 | "[=shiro+gndr@m.][NRoot][=grey.dove.sp.; white.dove.sp.]" : {shiro}
+# ------------------------------------------------------------
 ! 
 | "[=shironi][NRoot][=(wild).dove.sp. (ES: paloma.(silvestre)); gray-fronted.white-beaked.dove.sp. (ES: sp.de.paloma.de.frente.gris.y.pico.blanco)]" : {shironi}
 | "[=heento][NRoot][=gray-fronted.white-beaked.dove.sp. (ES: sp.de.paloma.de.frente.gris.y.pico.blanco)]" : {heento}
+# ------------------------------------------------------------
 ! 
 | "[=shirontzi+gndr@m.][NRoot][=plumbeous.kite(bird) (sci.nm.: ictinea.plumbea); big.sparrowhawk.sp., eagle-like.sp.]" : {shirontzi}
 | "[=shiironti+gndr@m.][NRoot][= (ES: gavilán.grande.que.tiene.un.canto.parecido.al.silbido.humano)]" : {shiironti}
+# ------------------------------------------------------------
 ! 
 | "[=shinkana][NRoot][=bile (ES: hiel)]" : {shinkana}
+# ------------------------------------------------------------
 ! 
 | "[=shinkari+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shinkari}
 | "[=shenkari+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shenkari}
+! 
 | "[=shenkanti+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shenkanti}
 | "[=shinkanti+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shinkanti}
 | "[=shinkanto+gndr@n.m.][NRoot][=cry.baby (ES: llorón)]" : {shinkanto}
+! 
 | "[=irainkari+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {irainkari}
 | "[=irayinkari+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {irayinkari}
 | "[=aventyari+gndr@m.][NRoot][=cry.baby (ES: llorón); person's.name, NP]" : {aventyari}
+# ------------------------------------------------------------
 ! 
 | "[=shinkavi+gndr@n.m.+inal@ntsi.][NRoot][=internal.organ.of.some.fish; corn.cob/maize (ES: coronta)]" : {shinkavi}
 ! 
