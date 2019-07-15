@@ -5578,19 +5578,26 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking; ES: plátano.de.seda; sci.nm.: musa.musaceae)]" : {shiira}
+# ------------------------------------------------------------
 ! 
 | "[=shima+gndr@m.+poss@ni:te.][NRoot][=fish (ES: pez, pescado; PT: peixe; QU: challwa);| fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]" : {shima} ! @section:noun@ 
+# ------------------------------------------------------------
 ! 
 | "[=shimamiroki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: steindachnerina.guentheri.sp.)]" : {shimamiroki} 
+# ------------------------------------------------------------
 ! 
 | "[=shimampiki][NRoot][=granadilla.sp. (ES: granadilla; sci.nm.: passiflora.sp.)]" : {shimampiki}
+# ------------------------------------------------------------
 ! 
 | "[=shimashiri+gndr@n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]" : {shimashiri}
+# ------------------------------------------------------------
 ! 
 | "[=shimariantzi+gndr@m.][NRoot][=fisherman (ES: pescador)]" : {shimariantzi}
 | "[=shimarianto+gndr@n.m.][NRoot][=fisherman (ES: pescadora)]" : {shimarianto}
+# ------------------------------------------------------------
 ! 
 !| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking)]" : {shiira}
+# ------------------------------------------------------------
 ! 
 | "[=shimiri+inal@ntsi.][NRoot][=person.from.ethnic.group.Piro/Yine]" : {shimiri}
 | "[=shimiri+inal@nchi.][NRoot][=person.from.ethnic.group.Piro/Yine][--][-nchi][]" : {shimirinchi} ! misspelled? it is not misspelled it uses the -nchi dialectal variation for the nposs suffix.
