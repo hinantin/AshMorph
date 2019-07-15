@@ -5692,62 +5692,81 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=shinkipirotaki][NRoot][=armadillo (sci.nm.: cabassous.unicinctus)]" : {shinkipirotaki}
+# ------------------------------------------------------------
 ! fish trap, fishing trap
 | "[=shimperi+gndr@n.m.+inal@ntsi.][NRoot][=fish.trap (ES: nasa, sp.de.trampa/cepo.para.los.peces), fishing.trap]" : {shimperi}
 | "[=shimpere+gndr@n.m.+inal@ntsi.][NRoot][=fish.trap (ES: nasa, sp.de.trampa/cepo.para.los.peces), fishing.trap]" : {shimpere}
 | "[=shimpiri+gndr@n./m.+inal@ntsi.][NRoot][=fish.trap (ES: nasa, sp.de.trampa/cepo.para.los.peces), fishing.trap; fish.trap.made.out.of.reed/carrizo/savoro.or.humiro/kompiro (used.to.block.water.at.night)]" : {shimpiri}
 | "[=simpiri+gndr@n.m.+inal@ntsi.][NRoot][=fish.trap (ES: nasa, sp.de.trampa/cepo.para.los.peces), fishing.trap]" : {simpiri}
+# ------------------------------------------------------------
 ! 
 | "[=shimperenkotzi+gndr@m.][NRoot][=falcon]" : {shimperenkotzi}
 | "[=shimpirinkotzi+gndr@m.][NRoot][=falcon]" : {shimpirinkotzi}
 | "[=shimperinkotzi+gndr@m.][NRoot][=falcon]" : {shimperinkotzi}
+# ------------------------------------------------------------
 ! 
 | "[=shimpityoki][NRoot][=eyelash (ES: pestaña)]" : {shimpityoki}
+# ------------------------------------------------------------
 ! 
 | "[=shimpoki][NRoot][=horsefly (ES: tábano)]" : {shimpoki}
+# ------------------------------------------------------------
 ! 
 # machacar la raíz, una gota del líquido resultante se echa en el ojo. 
 | "[=shinii][NRoot][=medicinal.plant_root (ES: raíz.de.planta.medicinal)]" : {shinii}
+# ------------------------------------------------------------
 ! 
 | "[=shineiki][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {shineiki} 
+# ------------------------------------------------------------
 ! 
 | "[=shineki+gndr@n.m.][NRoot][=liana.sp. (its.resin.used.as.remedy, ES: especie.de.bejuco/enredadera), resinous.vine.sp.]" : {shineki}
 | "[=shineeki+gndr@n.m.][NRoot][=liana.sp. (its.resin.used.as.remedy, ES: especie.de.bejuco/enredadera), resinous.vine.sp.]" : {shineeki}
 | "[=shiniiki+gndr@n.m.][NRoot][=liana.sp. (its.resin.used.as.remedy, ES: especie.de.bejuco/enredadera), resinous.vine.sp.]" : {shiniiki}
+# ------------------------------------------------------------
 ! 
 | "[=shinenkari+gndr@m.][NRoot][=cricket.sp.]" : {shinenkari}
+# ------------------------------------------------------------
 ! 
 | "[=shinoiva+gndr@m.][NRoot][=monkey.sp.]" : {shinoiva}
+# ------------------------------------------------------------
 ! 
 | "[=shintaki][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintaki}
 | "[=shintake][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintake}
+# ------------------------------------------------------------
 ! 
 | "[=shinto+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=daughter]" : {shinto}
 | "[=shintyo+~shin{E.PAL.:ty}o+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=daughter.(with.affection)]" : {shintyo}
 | "[=ishinto+gndr@n.m.+kin@fe/male.ego][NRoot][=daughter]" : {ishinto} # nishinto, revise inal.??
 | "[=ishintyo+~ishin{E.PAL.:ty}o+gndr@n.m.+kin@fe/male.ego][NRoot][=daughter.(with.affection)]" : {ishintyo} # nishintyo, revise inal.??
+# ------------------------------------------------------------
 ! 
 | "[=shinti][NRoot][=topa-like.tree.sp. (ES: árbol.parecido.a.la.topa)]" : {shinti} 
+# ------------------------------------------------------------
 ! 
 | "[=shintsipaa+gndr@n.m.+poss@re.][NRoot][=raft, balsa]" : {shintsipaa}
 | "[=shintzipa+gndr@n.m.+poss@re:ri.][NRoot][=raft, balsa]" : {shintzipa}
 | "[=shintzipaa+gndr@n.m.+poss@re.][NRoot][=raft, balsa]" : {shintzipaa}
 | "[=shintipa+gndr@n.m.+poss@re.][NRoot][=raft, balsa]" : {shintipa}
 | "[=shintipaa+gndr@n.m.+poss@re.][NRoot][=raft, balsa]" : {shintipaa}
+# ------------------------------------------------------------
 ! 
 | "[=shintipiro][NRoot][=bird.sp. (sci.nm.: tachyphonus.rufus)]" : {shintipiro}
+# ------------------------------------------------------------
 ! 
 | "[=shiketzi][NRoot][=armored.catfish.sp. (carachama), fish.sp.]" : {shiketzi}
 | "[=shiketsi][NRoot][=armored.catfish.sp. (carachama), fish.sp.]" : {shiketsi}
 | "[=shiketi][NRoot][=(small).armored.catfish.sp. (ES: carachama.pequeña), fish.sp.]" : {shiketi}
+# ------------------------------------------------------------
 ! 
 | "[=shikiri][NRoot][=triangular.wings.fly (ES: sp.de.mosca); mosquito.sp.]" : {shikiri}
+# ------------------------------------------------------------
 ! 
 | "[=shipane+gndr@n.m.+inal@n/tsi.][NRoot][=chest (ES: pecho; PT: peito); breast (PT: seio)]" : {shipane}
 | "[=shipani+gndr@n.m.+inal@ntsi.][NRoot][=chest (ES: pecho; PT: peito); breast (PT: seio)]" : {shipani}
+# ------------------------------------------------------------
 ! 
 | "[=shipatona+gndr@n.m.+inal@ntsi.][NRoot][=beard, moustache (ES: barba, bigote; PT: barba, bigode)]" : {shipatona} ! N@->V::[=to.have.whiskers]
 !| "[=shipatonanti+gndr@n.m.][NRoot][=bearded.man (ES: barbudo)]" : {shipatonanti} ! @section:noun@ 
+# ------------------------------------------------------------
 ! 
 | "[=shipatyoki+gndr@n.m.+inal@ntsi.][NRoot][=eyelid (ES: párpado; PT: pálpebra)]" : {shipatyoki}
 ! 
