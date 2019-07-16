@@ -5786,56 +5786,73 @@ define NRootPRQin [
 ! 
 | "[=shiravari+gndr@m.][NRoot][=infertile.male (ES: hombre.estéril)]" : {shiravari}
 | "[=shiravaro+gndr@n.m.][NRoot][=infertile.female (ES: mujer.estéril)]" : {shiravaro}
+# ------------------------------------------------------------
 ! 
 | "[=shirontsi][NRoot][=harpy.sp. (ES: ave.rapaz/carroñera; sci.nm.: buteo.magnirostris)]" : {shirontsi}
 | "[=shironti][NRoot][=harpy.sp. (ES: ave.rapaz/carroñera; sci.nm.: buteo.magnirostris)]" : {shironti}
+# ------------------------------------------------------------
 ! 
 | "[=shiringa][NRoot][=rubber/caucho.tree (sci.nm.: hevea.brasiliensis); rubber (ES: caucho)]" : {shiringa}
 | "[=shirinka][NRoot][=rubber/caucho.tree (sci.nm.: hevea.brasiliensis); rubber (ES: caucho)]" : {shirinka}
+# ------------------------------------------------------------
 ! 
 # shitashintsi / =shitashi -ntsi / =mat -nposs / EN: 'mat'; ES: 'estera' 
 # ishitashi / i- =shitasi / 3m.poss- =mat /  EN: 'his.mat'; ES: 'su.estera.de.él' 
 | "[=shitashi+gndr@n.m.+inal@ntsi.][NRoot][=mat (ES: estera; PT: esteira)]" : {shitashi}
 | "[=shitatsi][NRoot][=mat (ES: estera; PT: esteira)]" : {shitatsi}
-| "[=shitayẽtsi][NRoot:CPB][=mat (ES: estera; PT: esteira)]" : {shitayẽtsi}
+| "[=shitayeNtsi/shitayẽtsi][NRoot:CPB][=mat (ES: estera; PT: esteira)]" : {shitayẽtsi}
+# ------------------------------------------------------------
 ! 
 | "[=shitashiki+gndr@n.m.][NRoot][=wild.plant; herb.sp. (used.for.washing)]" : {shitashiki}
+# ------------------------------------------------------------
 ! 
 | "[=shitatari+gndr@m.][NRoot][=cockroach (ES: cucaracha; PT: barata (em.geral))]" : {shitatari}
 | "[=shitatare+gndr@m.+inal@ntsi.][NRoot][=cockroach (ES: cucaracha; PT: barata (em.geral))]" : {shitatare}
+# ------------------------------------------------------------
 ! 
 # the gender is product of my own work.
 | "[=shitamenko+gndr@n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: tarima.(hecha.de.pona))]" : {shitamenko} ! N@->V::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))]  
+# ------------------------------------------------------------
 ! 
-| "[=shitayẽtsi][NRoot][=mat (PT: esteira; ES: estera)]" : {shitayẽtsi} 
+| "[=shitayeNtsi/shitayẽtsi][NRoot][=mat (PT: esteira; ES: estera)]" : {shitayẽtsi} 
+# ------------------------------------------------------------
 ! 
 | "[=shiteki+gndr@n.m.+inal@ntsi.][NRoot][=bagasse, dry.pulpy.residue (ES: bagazo)]" : {shiteki}
 | "[=shitiki+gndr@n.m.+inal@ntsi.][NRoot][=bagasse, dry.pulpy.residue (ES: bagazo); waste, trash]" : {shitiki}
+# ------------------------------------------------------------
 ! 
 | "[=shito][NRoot][=monkey.sp. (ES: capuchín, capuchino, machín.negro; PT: macaco.prego, macaco.sogo; sci.nm.: cebus.apella)]" : {shito}
 | "[=shitoni][NRoot][=monkey.sp. (ES: capuchín, capuchino, machín.negro; PT: macaco.prego, macaco.sogo; sci.nm.: cebus.apella)]" : {shitoni}
+# ------------------------------------------------------------
 ! 
 | "[=shitovi+gndr@n.m.+poss@te.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]" : {shitovi}
 | "[=shitoovi+gndr@n.m.+poss@te.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]" : {shitoovi}
+# ------------------------------------------------------------
 ! 
 | "[=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de.lombriz.de.tierra/instestinal)]" : {shitsa} ! N@->V 
+# ------------------------------------------------------------
 !
 ! ishitsanetatiya / ES: 'él.está.con.bicho' 
 | "[=shitsane+gndr@m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]" : {shitsane} ! N@->V::[=to.have.intestinal.worms (ES: estar.con.bicho)] 
 | "[=shitsani+gndr@m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]" : {shitsani}
+# ------------------------------------------------------------
 ! 
 # Tsikama otzimatsika iroñaaka yoka anta shitsivari?
 # “¿Dónde hay ahora algo que está podrido?”
 | "[=shitsivari][NRoot][=sth.rotten (ES: algo.que.está.podrido, carne.podrida)]" : {shitsivari}
 | "[=shitivari][NRoot][=sth.rotten (ES: algo.que.está.podrido, carne.podrida)]" : {shitivari}
+# ------------------------------------------------------------
 ! 
 | "[=shitzivari+gndr@m.][NRoot][=solitary.black.cacique (ES: sp.de.pájaro, gallinazo; sci.nm.: cacicus.solitarius)]" : {shitzivari}
 | "[=shitsivari+gndr@m.][NRoot][=solitary.black.cacique (ES: sp.de.pájaro, gallinazo; sci.nm.: cacicus.solitarius)]" : {shitsivari}
 | "[=shitivari+gndr@m.][NRoot][=solitary.black.cacique (ES: sp.de.pájaro, gallinazo; sci.nm.: cacicus.solitarius)]" : {shitivari}
+# ------------------------------------------------------------
 ! 
 | "[=shitziro+gndr@n.m.][NRoot][=tree.sp. (ES: ajo.sacha, sp.de.árbol; QU: ajo.sach'a)]" : {shitziro}
+# ------------------------------------------------------------
 ! 
 | "[=shichari+gndr@m.][NRoot][=worm (ES: lombriz, cuica~k'uyka; QU: k'uyka); ant.sp.]" : {shichari}
+# ------------------------------------------------------------
 ! 
 | "[=shivahaniki][NRoot][=small.Peruvian.anchoveta-fish (ES: anchoveta.pequeña; sci.nm.: bryconamericus.sp., knodus.sp., creagrutus.sp.); fish.sp.]" : {shivahaniki}
 ! 
