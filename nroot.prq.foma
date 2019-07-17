@@ -5932,31 +5932,43 @@ define NRootPRQin [
 # ----------------------------------------------------------------
 ! 
 | "[=tanoki][NRoot][=suicide.tree.sp. (sci.nm.: thevetia.peruviana)]" : {tanoki}
+# ----------------------------------------------------------------
 ! 
 # tapetsatapo / =tapetsa =tapo / =vine.sp. =IDEO:round.object / ES: 'tamshi.en.círculo', EN: 'a.vine.in.a.circle-shape' 
 | "[=tapitsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]" : {tapitsa} ! tamashi???
 | "[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]" : {tapetsa} ! tamashi???
+# ----------------------------------------------------------------
 ! 
 | "[=tapo+gndr@n.m.+inal@tsi.][NRoot][=gums (ES: encia)]" : {tapo} ! @VCMP 
+# ----------------------------------------------------------------
 ! 
 | "[=Tarma/taaroma][NRoot][=Tarma]" : {taaroma}
+# ----------------------------------------------------------------
 ! 
 | "[=tairi+gndr@n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erithrina.uley?)]" : {tairi}
+# ----------------------------------------------------------------
 ! 
 | "[=tairipenki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: astyanax.sp., knodus.sp.)]" : {tairipenki}
+# ----------------------------------------------------------------
 ! 
 | "[=tairinkari+gndr@m.][NRoot][=curl-crested.aracari (sci.nm.: pteroglossus.beauharnaessi), small.toucan.sp.]" : {tairinkari}
+# ----------------------------------------------------------------
+! 
 ! shell, peel, skin
 | "[=taki+gndr@n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]" : {taki} ! N@->V 
 | "[=otaki+gndr@n.m.+inal@ntsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin; her.shell]" : {otaki}
+# ----------------------------------------------------------------
 ! 
 | "[=takinte][NRoot][=flying.insect.sp. (ES: sp.de.insecto.volador; sci.nm.: orden.dermaptera)]" : {takinte}
+# ----------------------------------------------------------------
 ! 
 # chakitsini / =chakitsi -ni / =black.trap-jaw.ant.sp. -cl:watercourse / EN: 'lake.where.the.tingotero-ant.is.abundant'; ES: 'laguna.donde.abunda.el.tingotero' 
 | "[=takitsi+gndr@m.][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {takitsi}
 | "[=chakitsi+gndr@m.][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {chakitsi}
+# ----------------------------------------------------------------
 ! 
 | "[=takiyo][NRoot][=russet-backed.oropendola (sci.nm.: psarocolius.agustifrons)]" : {takiyo}
+# ----------------------------------------------------------------
 ! 
 | "[=tamako+gndr@n.m.+inal@n/tsi.][NRoot][=eyebrow (ES: ceja); forehead (ES: frente)]" : {tamako}
 # --------------------------------------------------------------------- 
@@ -5969,23 +5981,30 @@ define NRootPRQin [
 # --------------------------------------------------------------------- 
 ! 
 | "[=tampito+gndr@m.][NRoot][=armored.catfish.sp. (ES: especie.carachama); fish.sp.]" : {tampito}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tampo+poss@ne.][NRoot][=main.river, Tambo.river]" : {tampo}
+# --------------------------------------------------------------------- 
 ! 
 # la avispa 'tamporo' construye grandes panales de material apergaminado de forma cilíndrica semejante a un tambor 
 | "[=tamporo][NRoot][=wasp.sp. (ES: sp.de.avispa, avispa.campana; sci.nm.: familia.vespidae, género.polistes)]" : {tamporo}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tankotsa][NRoot][=leg]" : {tankotsa}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tanta+gndr@n.m.][NRoot][=bread (ES: pan; QU: t'anta)]" : {tanta} 
 | "[=tantaa+gndr@n.m.][NRoot][=bread (ES: pan; QU: t'anta)]" : {tantaa} 
+# --------------------------------------------------------------------- 
 ! 
 | "[=tantotsi][NRoot][=corral (ES: cerca); wall (ES: pared)]" : {tantotsi}
 | "[=tanto+gndr@n.m.+inal@tsi.][NRoot][=wall (ES: pared); room (ES: cuarto)]" : {tanto}
 | "[=otantaro+gndr@n.m.+inal@ntsi.][NRoot][=wall (ES: pared); room (ES: cuarto)]" : {otantaro}
+# --------------------------------------------------------------------- 
 ! 
 # animal nocturno que vive trepado en el bambú.
 | "[=tarato][NRoot][=Amazon.bamboo.rat (ES: zarigüeya, rata.de.bambú; sci.nm.: dactylomys.dactylinus)]" : {tarato}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tarampia][NRoot][=big.droopy.lip]" : {tarampia} ! @VCMP
 ! 
