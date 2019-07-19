@@ -6303,18 +6303,22 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsairo][NRoot][=black-fronted.nunbird (sci.nm.: monasa.nigrifrons)]" : {tsairo}
+# ------------------------------------------------------------------------------ 
 ! 
 ! SRC: thaquitsi / tsakitsi / =tsaki -tsi / =waist -nposs / EN: 'waist'  
 | "[=tsaki+gndr@n.m.+inal@tsi.][NRoot][=waist (ES: cintura)]" : {tsaki} 
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsantsa][NRoot][=long (in.length; ES: largo); big]" : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length; ES: largo)]" : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length; ES: largo)]" : {hantsa} ! N@->V @CMP
 | "[=tsantsana][NRoot][=wide (ES: amplio)]" : {tsantsana} ! @VCMP 
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsatane+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsatane}
 | "[=tsatani+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsatani}
 | "[=tsataireki+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsataireki}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=santsari][NRoot][=long (in.length), tall]" : {santsari} 
 ! 
