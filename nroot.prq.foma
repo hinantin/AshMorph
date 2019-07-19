@@ -6258,8 +6258,10 @@ define NRootPRQin [
 ! 
 | "[=nini+gndr@n.m.+inal@tsi.][NRoot][=tongue (ES: lengua)]" : {nini}
 | "[=nene+gndr@n.m.+inal@tsi.][NRoot][=tongue (ES: lengua)]" : {nene}
+# ------------------------------------------------------------------------------ 
 ! palm species
 | "[=toniro+gndr@n.m.+poss@ti:te.][NRoot][=palm.tree.sp. (ES: aguaje; PT: buriti; sci.nm.: mauritia.flexuosa)]" : {toniro}
+# ------------------------------------------------------------------------------ 
 !
 | "[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)]" : {tonkari}
 | "[=tonkaari+sem@loc.][NRoot][=hill.top,above (ES: loma)]" : {tonkaari}
@@ -6268,9 +6270,11 @@ define NRootPRQin [
 ! 
 | "[=tonkariki+sem@loc.][NRoot][=top.of.the.hill]" : {tonkariki}
 | "[=otapiki+sem@loc.][NRoot][=bottom.of.the.hill]" : {otapiki}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tonki+gndr@n.m.+inal@tsi.][NRoot][=bone (ES: hueso)]" : {tonki}
-| "[=tõki+gndr@n.m.+inal@tsi.][NRoot][=bone (ES: hueso)]" : {tõki}
+| "[=toNki/tõki+gndr@n.m.+inal@tsi.][NRoot][=bone (ES: hueso)]" : {tõki}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tontokoti][NRoot][=barn.owl.sp.]" : {tontokoti}
 ! 
