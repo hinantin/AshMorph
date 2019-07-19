@@ -6227,23 +6227,30 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=toronti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero)]" : {toronti}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=torooko][NRoot][=fish.sp. (ES: sp.de.pez, chio.chio, chiochio; sci.nm.: curimatus.cillata)]" : {torooko}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=toropeeti][NRoot][=person's.name, NP]" : {toropeeti}
 | "[=toropetzi][NRoot][=person's.name, NP]" : {toropetzi}
+# ------------------------------------------------------------------------------ 
 ! 
 !| "[=toyuyo+gndr@m.][NRoot][=heron.sp.]" : {toyuyo}
 | "[=toyoyo+gndr@m.][NRoot][=heron.sp.]" : {toyoyo}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsomanto+gndr@n.m.][NRoot][=tree.sp. (ES: cumala, sp.de.árbol)]" : {tsomanto}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsome+gndr@n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsome} ! @VCMP
 | "[=tsomi+gndr@n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsomi} ! @VCMP
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsomiri+gndr@m.][NRoot][=black.boa.sp. (ES: boa.negra); demonic.water.owner, water.sprite]" : {tsomiri}
 | "[=tsomiri+gndr@m.][NRoot][=river.master (ES: dueño.del.río)]" : {tsomiri}
 | "[=tsomiriniro+~tsomiri{CL:/'bad/evil':niro/}][NRoot][=aquatic.monster.that.eats.drowned.bodies (ES: monstruo.acuático.que.come.los.cuerpos.ahogados)]" : {tsomiriniro}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsompare+gndr@m.][NRoot][=heron.sp. (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]" : {tsompare}
 | "[=tsompari+gndr@m.][NRoot][=heron.sp., crane (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]" : {tsompari}
