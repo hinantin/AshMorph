@@ -6219,21 +6219,27 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=tsianti][NRoot][=edible.medium-sized.black.bird.sp. (ES: piampia, sp.de.ave)]" : {tsianti}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tepoki+gndr@n.m.+inal@n/tsi.][NRoot][=hip (ES: cadera)]" : {tepoki}
 | "[=tipoki+gndr@n.m.+inal@ntsi.][NRoot][=hip (ES: cadera)]" : {tipoki}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tohasheri][NRoot][=shrub (ES: arbusto); scrub, weed (ES: maleza)]" : {tohasheri}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tookiti][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña), turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti,, claravis.pretiosa,, claravis.mondetoura)]" : {tookiti}
 | "[=tokiti][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña), turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tokiti}
 | "[=tookitzi][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña), turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tookitzi}
 | "[=chamoti][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña; sci.nm.: columbina.tapalcoti)]" : {chamoti}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tokari][NRoot][=armadillo.sp. (ES: tocón; sci.nm.: callicebus.sp.)]" : {tokari}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tokori+poss@ti.][NRoot][=armadillo.sp.]" : {tokori}
 | "[=tyokori+poss@ti.][NRoot][=armadillo.sp.]" : {tyokori}
+# ------------------------------------------------------------------------------------------
 ! 
 | "[=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son]" : {tomi} ! N@->V 
 | "[=toomi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son]" : {toomi}
