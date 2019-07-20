@@ -6041,9 +6041,11 @@ define NRootPRQin [
 ! 
 | "[=tasorinka][NRoot][=power]" : {tasorinka}
 | "[=tasorinka][NRoot][=blessing]" : {tasorinka}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tavakore+gndr@n.m.+inal@ntsi.][NRoot][=roasted.yucca.with.peel (ES: yuca.sin.pelar.asada)]" : {tavakore} 
 | "[=tavakori+gndr@n.m.+inal@ntsi.][NRoot][=roasted.yucca.with.peel (ES: yuca.sin.pelar.asada)]" : {tavakori} 
+# --------------------------------------------------------------------- 
 ! 
 | "[=tasori+gndr@m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tasori} 
 | "[=tajore+gndr@m.+inal@ntsi.][NRoot][=god, saint, sacred; great.spirit]" : {tajore} 
@@ -6053,41 +6055,56 @@ define NRootPRQin [
 | "[=tahorentsi+gndr@m.+poss@te.][NRoot][=god, saint, sacred; great.spirit]" : {tahorentsi} 
 | "[=tsorentsi][NRoot][=god (ES: Dios.principal); saint, sacred]" : {tsorentsi}
 | "[=tsorintsi][NRoot][=god, saint, sacred]" : {tsorintsi}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tsorero][NRoot][=edible.(dried)-tree-growing.mushroom (ES: hongo.comestible)]" : {tsorero}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tsoria][NRoot][=potato-like.tuber.sp. (ES: tubérculo.parecido.a.la.papa, malanga; sci.nm.: xanthosoma.sp.)]" : {tsoria}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tsota+poss@ne.][NRoot][=spoon-like.utensil; Ashaninka.spoon, (drinking).gourd (ES: cuchara.Asháninka)]" : {tsota}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tsota][NRoot][=pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete)]" : {tsota}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tsota][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: polistes.versicolor, polistes.major.palisot.de.beauvois)]" : {tsota}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tsotari+gndr@m.][NRoot][=electric.eel.sp. (ES: anguila.eléctrica); armored.catfish.sp. (ES: sp.de.carachama)]" : {tsotari}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tekatsi][NRoot][=none, empty, zero, null]" : {tekatsi}
 | "[=tekaatsi][NRoot][=none, empty, zero, null]" : {tekaatsi}
 | "[=tikatsi][NRoot][=none, empty, zero, null]" : {tikatsi}
 | "[=tikaatsi][NRoot][=none, empty, zero, null]" : {tikaatsi}
 | "[=teekatsi][NRoot][=none, empty, zero, null]" : {teekatsi}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tempo+gndr@m.][NRoot][=mojarra-fish.sp.]" : {tempo}
 | "[=timpo+gndr@m.][NRoot][=mojarra-fish.sp.]" : {timpo}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tene+gndr@n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {tene}
 | "[=teni+gndr@n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {teni}
 | "[=tini+gndr@n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {tini}
 | "[=chocho+gndr@n.m.][NRoot][=breast, bosom (ES: teta, seno)]" : {chocho}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tenki+inal@tsi.][NRoot][=fish-fin (ES: aleta.de.pez); bird-tail (ES: cola.de.ave)]" : {tenki}
 | "[=tinki+inal@tsi.][NRoot][=fish-fin (ES: aleta.de.pez); bird-tail (ES: cola.de.ave)]" : {tinki}
 | "[=tenki+inal@tze.][NRoot][=dorsal-feather.ornament (ES: adorno.dorsal.de.plumas)]" : {tenki}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tentekto][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {tentekto}
+! 
 | "[=tento][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {tento}
+! 
 | "[=tarairikiti][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {tarairikiti}
+! 
 | "[=pacho][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {pacho}
+# --------------------------------------------------------------------- 
 ! 
 # ------------------------------------------------
 # Classifier based nouns
@@ -6102,14 +6119,20 @@ define NRootPRQin [
 # ------------------------------------------------
 ! 
 | "[=tioshiki][NRoot][=Job's.tears (ES: lágrima.de.Job; sci.nm.: coix.lacryma-jobi)]" : {tioshiki}
+# --------------------------------------------------------------------- 
 ! 
 | "[=terempinti][NRoot][=land.snail.sp. (ES: molusco.terrestre; sci.nm.: aperostoma.peruvianum)]" : {terempinti} ! snail???
+# --------------------------------------------------------------------- 
 ! 
 | "[=terori][NRoot][=red.parrot.sp. (sci.nm.: amazona.mercenaria)]" : {terori}
 | "[=teroori][NRoot][=red.parrot.sp. (sci.nm.: amazona.mercenaria)]" : {teroori}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tete][NRoot][=buttock]" : {tete}
+# --------------------------------------------------------------------- 
+! 
 | "[=tihatsi][NRoot][=weaver]" : {tihatsi}
+# --------------------------------------------------------------------- 
 ! 
 | "[=tentereeto+gndr@n.m.][NRoot][=granadilla.sp.]" : {tentereeto}
 | "[=tintiriito+gndr@n.m.][NRoot][=granadilla.sp.]" : {tintiriito}
