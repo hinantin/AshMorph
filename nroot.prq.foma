@@ -6321,37 +6321,49 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=santsari][NRoot][=long (in.length), tall]" : {santsari} 
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsaante+gndr@n.m.][NRoot][=hanging.storage-container (ES: colgador.de.objetos)]" : {tsaante} 
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsaati+gndr@m.][NRoot][=bird.sp. (ES: pájaro)]" : {tsaati} 
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsavi+inal@tsi.][NRoot][=vagina (ES: vagina)]" : {tsavi}
 | "[=chavi+inal@tsi.][NRoot][=vagina (ES: vagina)]" : {chavi}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsaviniri+gndr@m.][NRoot][=termite.sp. (ES: sp.de.comején)]" : {tsaviniri}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsamiri+gndr@m.][NRoot][=curassow.sp. (ES: paujil); razor-billed.curassow (ES: curaçao.de.pico.filudo; sci.nm.: crax.mitu, mitu.mitu)]" : {tsamiri}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsamirimenta][NRoot][=curassow.crest.stone (historical.landmark)]" : {tsamirimenta}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tampatsikari][NRoot][=straight (ES: derecho, recto)]" : {tampatsikari}
 | "[=tampatsika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatsika}
 | "[=tampatika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatika} ! N@->V 
 | "[=tampatzika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatzika}
 | "[=tampatyika][NRoot][=noon (ES: mediodía)]" : {tampatyika}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsaampi][NRoot][=butterfly.sp. (ES: mariposa)]" : {tsaampi}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsanaro+gndr@n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca; QU: unkucha; botany.id: colocasia.esculenta)]" : {tsanaro}
 | "[=tsanavo+gndr@n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca; QU: unkucha; botany.id: colocasia.esculenta)]" : {tsanavo}
 | "[=tsanao+gndr@n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca; QU: unkucha; botany.id: colocasia.esculenta)]" : {tsanao}
 | "[=tanao+gndr@n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca; QU: unkucha; botany.id: colocasia.esculenta)]" : {tanao}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsano+inal@tsi.][NRoot][=neck (ES: cuello)]" : {tsano}
+! 
 | "[=niyamento+gndr@n.m.+inal@tsi.][NRoot][=throat (ES: garganta, faringe)]" : {niyamento}
 | "[=niamento+gndr@n.m.+inal@tsi.][NRoot][=throat (ES: garganta, faringe)]" : {niamento}
 | "[=niyaminto+gndr@n.m.+inal@tsi.][NRoot][=throat (ES: garganta, faringe)]" : {niyaminto}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tsanoiriki+gndr@n.m.+inal@ntsi.][NRoot][=adornment (ES: adorno.(que.ponen.en.el.cuello))]" : {tsanoiriki}
 ! 
