@@ -6646,13 +6646,16 @@ define NRootPRQin [
 | "[=tsiveta+gndr@m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsiveta}
 | "[=tsivita+gndr@m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
 | "[=inaro+gndr@m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya; sci.nm.: potamotrygonidae)]" : {inaro}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]" : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
 | "[=tsome+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]" : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]" : {tsomonte} ! N@->V::[=to.be.pregnant (ES: estar.embarazada)] 
 | "[=tsomonte][NRoot][=bulge (ES: abdomen, barriga)]" : {tsomonte} 
-| "[=montse][NRoot][=bulge (ES: abdomen, barriga)]" : {montse} 
+| "[=montse][NRoot][=bulge (ES: abdomen, barriga)]" : {montse}
+# ------------------------------------------------------------------------------ 
 ! 
 # *****************************************
 # tsonkiri de pico recto y que vuela alto
