@@ -6590,44 +6590,58 @@ define NRootPRQin [
 | "[=tsitsi+gndr@n.m.+voc.][NRoot][=firewood (ES: leña)]" : {tsitsi}
 | "[=tsi+poss@ma.+voc.][NRoot][=firewood (ES: leña)]" : {tsi} 
 | "[=tsima][NRoot][=wood (ES: madera)]" : {tsima} 
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsitsimentaki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {tsitsimentaki} 
 | "[=chichita][NRoot][=fish.sp. (ES: sp.de.pez)]" : {chichita} 
 | "[=shipetapari][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shipetapari}
 | "[=chichipentaki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {chichipentaki}
 | "[=ampontsi][NRoot][=fish.sp. (ES: sp.de.pez)]" : {ampontsi}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsitsiri+gndr@m.][NRoot][=cricket (ES: grillo)]" : {tsitsiri}
+# ------------------------------------------------------------------------------
 ! 
 # ají.charapa, ají.charapita ???  
 | "[=tsitsikana][NRoot][=chili.sp., hot.pepper (ají, botany.nm.: capsicum.sp.)]" : {tsitsikana}
 | "[=tsikana][NRoot][=chili.sp., hot.pepper (ají, botany.nm.: capsicum.sp.)]" : {tsikana}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsiisantzi][NRoot][=tawny-bellied.hermit (sci.nm.: phaetornis.syrmatophorus)]" : {tsiisantzi}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsiviri+gndr@m.][NRoot][=moth.sp.]" : {tsiviri}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsiyaki+gndr@n.m.+inal@ntsi.][NRoot][=anus (ES: ano; PT: ânus)]" : {tsiyaki}
 | "[=tsiyaaki+gndr@n.m.+inal@ntsi.][NRoot][=anus (ES: ano; PT: ânus)]" : {tsiyaaki}
 | "[=tiyaki+gndr@n.m.+inal@ntsi.][NRoot][=anus (ES: ano; PT: ânus)]" : {tiyaki}
+! 
 | "[=tziyamoro][NRoot][=anus (ES: ano; PT: ânus)]" : {tziyamoro}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsiyanare+gndr@n.m.+inal@ntsi.][NRoot][=woven.semi-cylindrical.Fish_Trap.with.a.funnel-shaped.mouth.]" : {tsiyanare}
 | "[=tsiyanari+gndr@n.m.+inal@ntsi.][NRoot][=woven.semi-cylindrical.Fish_Trap.with.a.funnel-shaped.mouth.]" : {tsiyanari}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsiyaro+gndr@n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; PT: auricuri; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea, scheelea.cephalotes)]" : {tsiyaro}
 | "[=tsiyavo+gndr@n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; PT: auricuri; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea, scheelea.cephalotes)]" : {tsiyavo}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsiyaavo+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tsiyaavo}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsiyeri+gndr@m.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyeri}
 | "[=tsiyiri+gndr@m.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyiri}
+# ------------------------------------------------------------------------------
 ! 
 # tsiyomentotsi / =tsiyo -mento -tsi / =to.give.off.light -concr -nposs / EN: 'burner'; ES: 'mechero'
 | "[=tsiyomento+gndr@n.m.+inal@tsi.][NRoot][=burner (ES: mechero)]" : {tsiyomento} ! @section:noun@ 
 | "[=tsioro+gndr@n.m.+inal@ntsi.][NRoot][=candle (ES: vela)]" : {tsioro} ! @section:noun@ 
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsiyontzi+gndr@m.][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiyontzi}
+# ------------------------------------------------------------------------------
 ! 
 | "[=tsiveta+gndr@m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsiveta}
 | "[=tsivita+gndr@m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
