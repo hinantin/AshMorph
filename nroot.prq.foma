@@ -6766,17 +6766,20 @@ define NRootPRQin [
 # notxoshikite / no- =txoshiki -te / 1sg.poss- =necklace -aln.poss / EN: 'my.necklace', PT: 'meu.colar'
 | "[=txoshiki+poss@te.][NRoot:CPB][=necklace (PT: colar)]" : {txoshiki}
 | "[=txoxiki+poss@te.][NRoot:CPB][=necklace (PT: colar)]" : {txoxiki}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tya+poss@ni.][NRoot][=fabric]" : {tya}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tyavaki][NRoot][= (ES: color.natural.que.tiene.su.uso.prohibido, encanto.natural.el.cual.està.prohibido.tocar)]" : {tyavaki}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tyempoya][NRoot][=NP, person's.name]" : {tyempoya}
 | "[=tyemponya][NRoot][=NP, person's.name]" : {tyemponya}
+# ------------------------------------------------------------------------------ 
 ! 
 | "[=tyiitya+gndr@n.m.+poss@ti.+voc@1SG.][NRoot][=grandmother (male.ego)]" : {tyiitya}
 | "[=tyeetya+gndr@n.m.+poss@ti.+voc@1SG.][NRoot][=grandmother (male.ego)]" : {tyeetya}
-! 
 # ---------------------------------------------------------------------------------
 ! hen 
 | "[=tyaapa+gndr@n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]" : {tyaapa}
@@ -6818,14 +6821,17 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------------
 ! 
 | "[=chirikillove][NRoot][=warbling.antbird (sci.nm.: hipocnemis.cantator)]" : {chirikillove} ! revise writing with ll ??
+# ---------------------------------------------------------------------------------
 ! 
 | "[=tziivito+gndr@m.][NRoot][=beetle (ES: escarabajo)]" : {tziivito}
 | "[=tivito+gndr@m.][NRoot][=beetle (ES: escarabajo)]" : {tivito}
+# ---------------------------------------------------------------------------------
 ! 
 | "[=tzina+gndr@n.m.][NRoot][=pifayo]" : {tzina}
 | "[=tzina+gndr@n.m.][NRoot][=palm.sp. (ES: camonilla, palmiche)]" : {tzina}
 | "[=kapashi+gndr@n.m.][NRoot][=palm.sp. (ES: palmiche (hojas.de.palmiche.para.hacer.techos-y-alfombras))]" : {kapashi}
 | "[=kapashe+gndr@n.m.][NRoot][=palm.sp. (ES: palmiche (hojas.de.palmiche.para.hacer.techos-y-alfombras))]" : {kapashe}
+# ---------------------------------------------------------------------------------
 ! 
 | "[=tzineya+gndr@n.m.][NRoot][=plantain.sp. (ES: sp.de.plátano)]" : {tzineya}
 | "[=tsiniya+gndr@n.m.][NRoot][=plantain.sp. (ES: sp.de.plátano)]" : {tsiniya}
