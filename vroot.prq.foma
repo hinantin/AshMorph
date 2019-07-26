@@ -2758,6 +2758,7 @@ define VRootPRQin [
 | "[=yiinka+INF@/EP:tz/V.][VRoot][=to.grease.sb's,body/hair]" : {yiinka}
 ! 
 | "[=yoaren+INF@{EP:t}UNK.][VRoot][=to.come.as.a.lightning.flash (ES: venir.como.destello.de.relámpago, destellar)]" : {yoaren}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=yomi][VRoot][=to.teach]" : {yomi}
 | "[=yomit][VRoot][=to.teach]" : {yomit}
@@ -2777,19 +2778,19 @@ define VRootPRQin [
 ! 
 | "[=iyotak][VRoot][=to.teach (ES: enseñar)]" : {iyotak} ! this a compound 
 | "[=iyotag+INF@aantsi.][VRoot][=to.teach (ES: enseñar)]" : {iyotag}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=iyokitzii+INF@/EP:t/aantsi][VRoot][=to.be.amazed/astonished (ES: asombrarse)]" : {iyokitzii}
 | "[=iyokitse+INF@/EP:t/aantsi][VRoot][=to.be.amazed/astonished (ES: asombrarse)]" : {iyokitse}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=yov+INF@aantsi.][VRoot][=to.escape; to.come.out (ES: salir); to.leave]" : {yov}
 | "[=iyov+INF@aantsi.][VRoot][=to.escape; to.come.out (ES: salir); to.leave]" : {yov}
 ! ----------------------
 ! Verbalized adjectives
-! ----------------------
 | "[=natsiya][VRoot][=to.be.green]" : {natsiya}
 ! -----------------
 ! Verbalized roots
-! -----------------
 | "[=osheki+INF@antsi.][VRoot][=to.be.much; to.be.abundant (ES: tener.en.abundancia)]" : {osheki} 
 | "[=osheke][VRoot][=to.be.much; to.be.abundant]" : {osheke} 
 ! 
