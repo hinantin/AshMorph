@@ -2671,91 +2671,118 @@ define VRootPRQin [
 ! 
 ! o(v) 'place', 'guard' ??? 
 | "[=v][VRoot][=to.put, to.place (ES: poner, colocar)]" : {v} 
+# --------------------------------------------------------------------------- 
 ! 
 | "[=v][VRoot][=to.kill]" : {v}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vanenka][VRoot][=to.be.beautiful]" : {vanenka}
 | "[=vaneenka][VRoot][=to.be.beautiful]" : {vaneenka}
 | "[=ovanenka][VRoot][=to.be.beautiful]" : {ovanenka}
 | "[=ovaneenka][VRoot][=to.be.beautiful]" : {ovaneenka}
 | "[=ovaniinka][VRoot][=to.be.beautiful]" : {ovaniinka}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vank+INF@aantsi.][VRoot][=to.lift.sth.up (ES: alzar)]" : {vank}
 | "[=ovank+INF@aantsi.][VRoot][=to.lift.sth.(up) (ES: alzar)]" : {ovank}
 !| "[=ovank][VRoot][=to.lift.sth.(up)]" : {ovank}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=ovanke+INF@taantsi][VRoot][=to.ride (ES: montar)]" : {ovanke}
 | "[=vanke+INF@taantsi][VRoot][=to.ride (ES: montar)]" : {vanke}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=ovam+INF@agaantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovam}
 | "[=vam+INF@aantsi:agaantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar); to.make.die (ES: hacer.morir)]" : {vam}
 | "[=ovan+INF@/EP:t/aantsi.][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {ovan}
 | "[=oam][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)]" : {oam}
 | "[=ov+INF@aantsi.][VRoot][=to.kill (ES: matar)]" : {ov}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=oapatank+INF@V.][VRoot][=to.patch (ES: parchar)]" : {oapatank}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=ovatsina+INF@antsi.][VRoot][= (ES: magullar)]" : {ovatsina}
 | "[=oatsina+INF@VC.][VRoot][= (ES: magullar)]" : {oatsina}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
 | "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vatsa+INF@/EP:t/aantsi.][VRoot][=to.get.fat, to.gain.weight (ES: engordar)]" : {vatsa}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vayeri][VRoot][=to.be.warrior; to.fight.at.war]" : {vayeri}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vavahe][VRoot][=to.translate (ES: traducir)]" : {vavahe}
 | "[=vaavahe][VRoot][=to.translate (ES: traducir)]" : {vaavahe}
 | "[=vaavah][VRoot][=to.translate (ES: traducir)]" : {vaavah}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=veha][VRoot][=to.fade (ES: desteñirse, perder.color/intensidad)]" : {veha}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vicho][VRoot][=to.squeeze.with.fingers, to.pinch]" : {vicho}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vint][VRoot][=to.catch.fish.with.hands.while.submerged (ES: pescar.con.las.manos,con.el.cuerpo.del.pescador.sumergido.en.el.agua)]" : {vint}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vinto][VRoot][=to.hollow.wood; to.make.notches.in.a.trunk; to.make.a.ladder]" : {vinto}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=veshintsak][VRoot][=(ES: alinear-se)]" : {veshintsak}
 | "[=veshintsaak][VRoot][=(ES: alinear-se)]" : {veshintsaak}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=veshire][VRoot][=to.rejoice, to.get.glad (ES: alegrarse)]" : {veshire}
 | "[=veshiri][VRoot][=to.rejoice, to.get.glad (ES: alegrarse)]" : {veshiri}
 | "[=vashi][VRoot][=to.get.glad (ES: alegrarse)]" : {vashi} ! to be checked, only one occurrence 
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vishiri+INF@antsi.][VRoot][=to.sing-and-dance.together (ES: cantar-y-bailar.juntos)]" : {vishiri}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=viri][VRoot][=to.cut.sth.into.pieces]" : {viri}
+# --------------------------------------------------------------------------- 
 ! 
 # ovitejaqui incani pancotsi. / ovitehaki inkani pankotsi / o- =viteh -ak -i ** =inkani ** =panko -tsi / EN: 'rain.dripped.into.the.house'; ES: 'la.lluvia.gotea.en.la.casa' 
 | "[=viteeh][VRoot][=to.drip (ES: gotear)]" : {viteeh}
 | "[=viteh+INF@VC.][VRoot][=to.drip (ES: gotear)]" : {viteh}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vitsa][VRoot][=to.visit]" : {vitsa}
+# --------------------------------------------------------------------------- 
 ! 
 # despedirse??? 
 | "[=vetsa+INF@/EP:t/aantsi.][VRoot][=to.greet (ES: saludar)]" : {vetsa}
 | "[=vitsa+INF@/EP:t/aantsi.][VRoot][=to.greet (ES: saludar)]" : {vitsa}
 | "[=ovetsa][VRoot][=to.greet (ES: saludar)]" : {ovetsa}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=vitsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vitsik}
 | "[=vetsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build]" : {vetsik}
 | "[=ovetsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build; to.modify]" : {ovetsik}
 | "[=vitsik+INF@aantsi.+A-Conj@mid.v.][VRoot][=to.get.ready (ES: alistarse)]" : {vitsik}
+# --------------------------------------------------------------------------- 
 ! 
-# bristle/cerda
+! bristle/cerda 
 | "[=vitziri][VRoot][=to.pluck.sth.(out) (prbly. hair, feathers, bristle; ES: desplumar)]" : {vitziri}
 | "[=vitiri][VRoot][=to.pluck.sth.(out) (prbly. hair, feathers, bristle; ES: desplumar)]" : {vitiri}
 | "[=pitiri][VRoot][=to.pluck.sth.(out) (prbly. hair, feathers, bristle; ES: desplumar)]" : {pitiri}
 ! 
 | "[=vitzi+INF@/EP:t/V.][VRoot][=to.grow.hair]" : {vitzi}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=ye+INF@/EP:t/antsi.][VRoot][=to.serve.food (ES: servir.comida)]" : {ye}
 | "[=yet+INF@antsi.][VRoot][=to.serve.food (ES: servir.comida)]" : {yet}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=yeenka+INF@/EP:tz/V.][VRoot][=to.grease.sb's,body/hair; to.get.fat (applied.to.animals, ES: engordar)]" : {yeenka}
 | "[=yiinka+INF@/EP:tz/V.][VRoot][=to.grease.sb's,body/hair]" : {yiinka}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=yoaren+INF@{EP:t}UNK.][VRoot][=to.come.as.a.lightning.flash (ES: venir.como.destello.de.relámpago, destellar)]" : {yoaren}
 # --------------------------------------------------------------------------- 
