@@ -2634,10 +2634,13 @@ define VRootPRQin [
 ! 
 | "[=tyonkityoki+INF@/EP:t/antsi.][VRoot][=to.dance (ES: bailar)]" : {tyonkityoki}
 | "[=shevaporokint+INF@antsi.][VRoot][=to.dance (ES: bailar)]" : {shevaporokint}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=tyomik][VRoot][=to.roast.yucca]" : {tyomik}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=tsih][VRoot][=to.cut]" : {tsih}
+# --------------------------------------------------------------------------- 
 ! 
 # Modal verb (check) 
 | "[=tzim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)]" : {tzim}
@@ -2647,10 +2650,13 @@ define VRootPRQin [
 | "[=tzimant][VRoot][=to.give.birth (ES: dar.a.luz)]" : {tzimant}
 | "[=tsimant][VRoot][=to.give.birth (ES: dar.a.luz)]" : {tsimant}
 | "[=tzimani+INF@/EP:t/aantsi.][VRoot][=to.give.birth (ES: dar.a.luz)]" : {tzimani}
+# --------------------------------------------------------------------------- 
 !
 | "[=tzimashi+INF@/EP:t/aantsi.][VRoot][= (ES: aguaitar, acechar, espiar)]" : {tzimashi} 
+# --------------------------------------------------------------------------- 
 !
 | "[=tsimank][VRoot][=to.cast.a.shadow (ES: ensombrecer)]" : {tsimank}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=tsimiy+INF@(a)antsi.][VRoot][=to.suck (ES: chupar)]" : {tsimiy}
 | "[=atsimiy+INF@antsi.][VRoot][=to.suck (ES: chupar)]" : {atsimiy}
