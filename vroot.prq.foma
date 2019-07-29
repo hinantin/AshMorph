@@ -63,7 +63,7 @@ define VRootPRQin [
 | "[=patikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]" : {patikiy} 
 # ---------------------------------------------------
 ! 
-| "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound;| to.destroy (ES: malograr)]" : {amashi} ! @section:verb@ 
+| "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound;| to.destroy (ES: malograr)]" : {amashi} ! @section:verb@ ee
 # ---------------------------------------------------
 ! 
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashi}
@@ -91,8 +91,10 @@ define VRootPRQin [
 | "[=aashi+INF@/EP:t/aantsi.][VRoot][=to.make.a.group_reunion/meeting (ES: hacer.sesión,, reunir)]" : {aashi}
 !###| "[n-][VPers][1SG.S/A+][--][=aashi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.make.a.group_reunion/meeting (ES: hacer.sesión,, reunir), to.meet]" : {naashinaashi} ! @REDUP
 #@TOTREDUPCLASS03| "[=aashi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.make.a.group_reunion/meeting (ES: hacer.sesión,, reunir), to.meet]" : {aashi} ! naashinaashi 
+# ---------------------------------------------------
 ! 
 | "[=aatonkori+INF@antsi.][VRoot][=to.undress (ES: desnudar)]" : {aatonkori}
+# ---------------------------------------------------
 ! 
 | "[=aavak+INF@aantsi.][VRoot][=to.receive; to.get.married (ES: casarse); to.take.a.spouse]" : {aavak}
 ! 
