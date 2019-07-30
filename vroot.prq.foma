@@ -2621,18 +2621,22 @@ define VRootPRQin [
 | "[=tsom][VRoot][=to.carry.in.the.arms (ES: llevar/alzar.en.los.brazos/garras); to.carry.a.baby]" : {tsom}
 ! 
 | "[=tsop+INF@antsi.][VRoot][=to.pull.sth.out (ES: sacar.(de.un.lugar.estrecho)); to.detach (ES: desprender(se)); to.be.loose]" : {tsop}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=tsoyempi][VRoot][=to.be.sharp (ES: ser.agudo/filudo)]" : {tsoyempi}
 | "[=tsoyimpi][VRoot][=to.be.sharp (ES: ser.agudo/filudo)]" : {tsoyimpi}
 | "[=tsaampi][VRoot][=to.be.sharp (ES: ser.agudo/filudo)]" : {tsaampi}
 | "[=tsoimpi][VRoot][=to.be.sharp (ES: ser.agudo/filudo)]" : {tsoimpi}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=ty+INF@aantsi.][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.caer)]" : {ty}
 | "[=tya+INF@antsi.][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.caer)]" : {tya}
+# --------------------------------------------------------------------------- 
 ! 
 | "[=tyaki+INF@/EP:t/V.][VRoot][=to.blossom (ES: florecer)]" : {tyaki}
 | "[=tyaaki+INF@/EP:t/V.][VRoot][=to.blossom (ES: florecer)]" : {tyaaki}
 | "[=teyaki+INF@/EP:t/V.][VRoot][=to.blossom (ES: florecer)]" : {teyaki}
+# --------------------------------------------------------------------------- 
 ! word set:
 | "[=tyank+INF@antsi.][VRoot][=to.send (ES: mandar)]" : {tyank}
 | "[=tiank+INF@aantsi.][VRoot][=to.send (ES: mandar, enviar)]" : {tiank}
