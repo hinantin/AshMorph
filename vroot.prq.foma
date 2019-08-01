@@ -342,12 +342,15 @@ define VRootPRQin [
 # --------------------------------------------------------------------------------  
 ! 
 | "[=antsi+INF@/EP:t/aantsi.][VRoot][=to.sew.sth. (ES: coser); (ES: enredar)]" : {antsi}
+! 
 | "[=orimpi+INF@/EP:t/aantsi.][VRoot][=to.sew.sth. (ES: coser)]" : {orimpi}
+# --------------------------------------------------------------------------------  
 ! 
 | "[=antsire][VRoot][=to.untie.sth. (ES: desatar)]" : {antsire}
 | "[=ashire+INF@antsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {ashire}
 | "[=ashiry+INF@aantsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {ashiry}
 | "[=shiry+INF@agaantsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {shiry}
+# --------------------------------------------------------------------------------  
 ! 
 | "[=ateh+INF@aantsi.][VRoot][=to.fake (ES: fingir)]" : {ateh}
 ! 
