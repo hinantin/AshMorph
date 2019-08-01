@@ -304,31 +304,38 @@ define VRootPRQin [
 # --------------------------------------------------------------------------------  
 ! 
 | "[=ampitsa+INF@/EP:t/VC.][VRoot][=to.be.wrinkled (ES: estar.arrugado)]" : {ampitsa}
-! 
 # -------------------------------------------------------- 
+! 
 | "[=ampitsa][VRoot][=to.twist (ES: torcer)]" : {ampitsa}
 | "[=ampita][VRoot][=to.twist (ES: torcer); to.plait, to.braid (ES: trenzar)]" : {ampita}
 | "[=apita+INF@/EP:t/VC.][VRoot][=to.plait, to.braid (ES: trenzar)]" : {apita}
 # -------------------------------------------------------- 
 ! 
 | "[=ampona+INF@/EP:t/VC.+A-Conj@mid.v.][VRoot][=to.wrap (ES: envolver)]" : {ampona}
+# --------------------------------------------------------------------------------  
 ! 
 | "[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)]" : {ant} ! V@->N::[=action, act (ES: acto)] 
+# --------------------------------------------------------------------------------  
 ! 
 | "[=antaki+INF@/EP:t/aantsi.][VRoot][=to.ripen (ES: madurar)]" : {antaki}
 | "[=antaiki+INF@/EP:t/aantsi.]][VRoot][=to.ripen (ES: madurar)]" : {antaiki}
 | "[=antava+INF@/EP:t/aantsi.]][VRoot][=to.ripen (ES: madurar)]" : {antava}
+# --------------------------------------------------------------------------------  
 ! 
 | "[=antavae+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavae}
 | "[=antavai+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavai} ! @section:verb@ 
+# --------------------------------------------------------------------------------  
 ! 
 | "[=antavak+INF@aantsi.][VRoot][=to.fight (ES: pelearse.(unos.con.otros))]" : {antavak} ! @section:verb@ 
+# --------------------------------------------------------------------------------  
 ! 
 | "[=antant][VRoot][=to.fight]" : {antant}
+# --------------------------------------------------------------------------------  
 ! 
 | "[=antiva+INF@/EP:t/aantsi.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {antiva} ! V@->N::[=stumbling.block (ES: tropiezo)] 
 | "[=tiva+INF@/EP:t/V.+A-Conj@mid.v.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {tiva}
 | "[=tsitink+INF@aantsi.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]" : {tsitink} ! V@->N::[=stumbling.block (ES: tropiezo)] 
+# --------------------------------------------------------------------------------  
 ! 
 | "[=antsi+INF@/EP:t/aantsi.][VRoot][=to.sew.sth. (ES: coser); (ES: enredar)]" : {antsi}
 | "[=orimpi+INF@/EP:t/aantsi.][VRoot][=to.sew.sth. (ES: coser)]" : {orimpi}
