@@ -721,11 +721,13 @@ define VRootPRQin [
 | "[=int+INF@aantsi.][VRoot][=to.begin]" : {int}
 | "[=it+INF@aantsi.][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {it}
 | "[=et+INF@aantsi.][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin]" : {et}
+# --------------------------------------------
 ! 
 | "[=ir+INF@aantsi.][VRoot][=to.drink (ES: beber)]" : {ir} ! @section:verb@ 
 ! ipiroaantsi / =ir -piro -aantsi / =to.drink -degr -inf / EN: 'to.drink.well' 
 | "[=i][VRoot][=to.drink (ES: beber)]" : {i}
 | "[o=][AGT.CAUS+][--][=i][VRoot][=drink (ES: beber)]" : {oi}
+# --------------------------------------------
 ! 
 | "[=ir+INF@aantsi.][VRoot][=to.cry (ES: llorar)]" : {ir}
 | "[=ira][VRoot][=to.cry (ES: llorar)]" : {ira}
@@ -733,6 +735,7 @@ define VRootPRQin [
 | "[=irah][VRoot][=to.cry (ES: llorar)]" : {irah}
 | "[2S/A+][p-][--][=ira+tot.redup@unb.copy.][VRoot][=to.cry (ES: llorar)]" : {pirapira}
 | "[=ira+tot.redup@unb.copy.][VRoot][=to.cry (ES: llorar)]" : {iraira}
+# --------------------------------------------
 !
 | "[=ireevi+INF@/EP:t/aantsi.][VRoot][=to.be.in.debt (ES: tener.deuda)]" : {ireevi}
 ! to be ripe, to ripen (fruits) 
