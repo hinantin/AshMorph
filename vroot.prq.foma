@@ -1750,18 +1750,22 @@ define VRootPRQin [
 | "[=vavisaako][VRoot][=to.rescue, to.save]" : {vavisaako}
 | "[=ovavihaako][VRoot][=to.rescue, to.save]" : {ovavihaako}
 | "[=oavisako][VRoot][=to.rescue, to.save]" : {oavisako}
+# --------------------------------------------------------------------------------- 
 ! 
 | "[=oavis][VRoot][=to.cross (ES: atravesar)]" : {oavis}
+# --------------------------------------------------------------------------------- 
 ! 
 | "[=oy+INF@aantsi.][VRoot][=to.wait (ES: esperar)]" : {oy}
 | "[=oya+INF@antsi.][VRoot][=to.wait (ES: esperar)]" : {oya}
 | "[=oyaa][VRoot][=to.wait (ES: esperar)]" : {oyaa}
+# --------------------------------------------------------------------------------- 
 ! 
 | "[=oya][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {oya}
 | "[=oyaa+INF@/EP:t/aantsi.][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {oyaa}
 | "[=oyaakyaa][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {oyaakyaa}
 | "[=yaa][VRoot][=to.follow; to.follow.sb., to.accompany.sb.]" : {yaa}
 | "[=oyampoiri+~oy{CL:/footprint:ampoiri/}][VRoot][=to.follow.the.tracks (ES: seguir.las.huellas)]" : {oyampoiri}
+# --------------------------------------------------------------------------------- 
 ! 
 | "[=oih][VRoot][=to.follow; to.follow.sb.; to.accompany.sb.]" : {oih}
 | "[=oiha][VRoot][=to.follow; to.follow.sb.; to.accompany.sb.]" : {oiha}
