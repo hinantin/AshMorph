@@ -422,14 +422,17 @@ define VRootPRQin [
 | "[=ashit+INF@aantsi.][VRoot][=to.have; to.own, to.possess (ES: poseer, adueñarse)]" : {ashit}
 | "[=ashit+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.have; to.own, to.possess (ES: poseer, ser.dueño, adueñarse)]::[= (ES: ser.dueño.varias.veces)]" : {ashishita}
 #@PRTLREDUPCLASS01| "[=ashi+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.have; to.own, to.possess (ES: poseer, ser.dueño, adueñarse)]::[= (ES: ser.dueño.varias.veces)]" : {ashi} ! ashishita
+# -------------------------------------------
 ! 
 | "[=ashi+INF@/EP:t/aantsi.][VRoot][=to.enclose (ES: cerrar)]" : {ashi}
 | "[=ashitako+INF@/EP:t/antsi.][VRoot][=to.lock.sth./sb.in (ES: encerrar(se))]" : {ashitako}
+# -------------------------------------------
 ! 
 | "[=ashitareako+INF@/EP:t/aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashitareako}
 | "[=ashitaryaako+INF@/EP:t/aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashitaryaako}
 | "[=ashireako+INF@/EP:t/aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashireako}
 | "[=ashitary+INF@aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashitary}
+# -------------------------------------------
 ! 
 | "[=ashimintsa][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)?]" : {ashimintsa}
 ! 
