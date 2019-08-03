@@ -457,6 +457,7 @@ define VRootPRQin [
 # -------------------------------------------
 ! 
 | "[=ashiriako+INF@/EP:t/aantsi.][VRoot][=to.undo, to.unbuckle (ES: desabrochar)]" : {ashiriako}
+# -------------------------------------------
 ! 
 # antaitaantsi / ES: 'trepar' 
 | "[N=][IRR+][--][=atai+INF@/EP:t/antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {antai} ! nantaitatiye / n=n-atai-t-ati-ye EN: 'I will climb', ES: 'voy a trepar'; nantaiti / n=atai-n-t-i ES: 'estoy trepando'
@@ -468,10 +469,13 @@ define VRootPRQin [
 # patiititya / p- =atii -t -i -tya / 2s- =to.climb.up -ep -real -emph  
 | "[=atii+INF@/EP:t/aantsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atii} 
 | "[=atee+INF@/EP:t/aantsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)]" : {atee} 
+# -------------------------------------------
 ! 
 | "[=atohe+INF@/EP:t/aantsi.][VRoot][=to.cough (ES: toser)]" : {atohe}
 | "[=tohe][VRoot][=to.cough (ES: toser)]" : {tohe} ! V@->N::[=cough (ES: tos)] 
+! 
 | "[=kaint+INF@(a)antsi.][VRoot][=to.cough (ES: toser)]" : {kaint}
+# -------------------------------------------
 ! 
 | "[=atsari][VRoot][=to.unroll]" : {atsari}
 | "[=tsari+INF@antsi.][VRoot][=to.unroll, to.stretch.thread.for.weaving/dying (ES: estirar.hilo.para.tejer/teñir)]" : {tsari}
