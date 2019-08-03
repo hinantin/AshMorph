@@ -1707,9 +1707,11 @@ define VRootPRQin [
 | "[=otyaan][VRoot][=to.order.sb.to.do.sth. (ES: mandar)]" : {otyaan}
 | "[=tyaank][VRoot][=to.order.sb.to.do.sth. (ES: mandar)]" : {tyaank}
 | "[=tiank][VRoot][=to.order.sb.to.do.sth. (ES: mandar)]" : {tiank}
+# --------------------------------------------------------------------------------- 
 ! 
 | "[=oitsinamp+INF@agaantsi:aantsi.][VRoot][=to.win (ES: vencer, ganar)]" : {oitsinamp} 
 | "[=otsinamp+INF@aantsi.][VRoot][=to.win (ES: vencer, ganar)]" : {otsinamp} 
+# --------------------------------------------------------------------------------- 
 ! 
 | "[=otsak+INF@aantsi.][VRoot][=to.sow.seeds.digging.holes.with.a_stake (prbly.corn; ES: sembrar.semillas.haciendo.hueco.con.estaca)]" : {otsak} 
 ! 
