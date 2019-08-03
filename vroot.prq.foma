@@ -596,20 +596,24 @@ define VRootPRQin [
 | "[=eere+INF@/EP:t/aantsi.][VRoot][=to.sprout (ES: brotar); to.be.tender (ES: ser.tierno); to.be.green (ES: ser.verde)]" : {eere}
 | "[=eeri+INF@/EP:t/aantsi.][VRoot][=to.sprout (ES: brotar); to.be.tender (ES: ser.tierno); to.be.green (ES: ser.verde)]" : {eeri}
 | "[=iiri+INF@/EP:t/aantsi.][VRoot][=to.sprout (ES: brotar); to.be.tender (ES: ser.tierno); to.be.green (ES: ser.verde)]" : {iiri}
+# ---------------------------------------------------------------------- 
 ! 
 | "[=eetsonki+INF@/EP:t/aantsi.][VRoot][=to.get.to.the.mountaintop (ES: llegar.a.la.cumbre)]" : {eetsonki}
 | "[=iitsonki+INF@/EP:t/aantsi.][VRoot][=to.get.to.the.mountaintop (ES: llegar.a.la.cumbre)]" : {iitsonki}
 | "[=aitsonki+INF@/EP:t/aantsi.][VRoot][=to.get.to.the.mountaintop (ES: llegar.a.la.cumbre)]" : {aitsonki}
+# ---------------------------------------------------------------------- 
 ! 
 | "[=charih][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya, tarrafear)]" : {charih}
 | "[=chariha+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya, tarrafear)]" : {chariha}
 | "[=charia+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.cast_net/throw_net (i.e., to.fish.with.a.circular.net.with.small.weights.distributed.around.its.edge; ES: pescar.con.tarrafa/atarraya, tarrafear)]" : {charia}
+# ---------------------------------------------------------------------- 
 ! 
 | "[=charink+INF@aantsi.][VRoot][=to.sign (ES: firmar)]" : {charink}
+# ---------------------------------------------------------------------- 
 ! 
 | "[=cheraako+INF@/EP:t/aantsi.][VRoot][=to.shout (ES: gritar); to.speak.with.anger (ES: hablar.con.enojo)]" : {cheraako}
-! 
 # -----------------------------------------------------------------
+! 
 | "[=cherenk+INF@(a)antsi.][VRoot][=to.fry.sth. (ES: freír)]" : {cherenk}
 | "[=cherink+INF@aantsi.][VRoot][=to.fry.sth. (ES: freír)]" : {cherink}
 | "[=cheerenk+INF@aantsi.][VRoot][=to.fry.sth. (ES: freír)]" : {cheerenk}
