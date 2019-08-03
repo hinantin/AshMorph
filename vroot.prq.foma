@@ -666,8 +666,10 @@ define VRootPRQin [
 # --------------------------------------------
 ! 
 | "[=hetsi][VRoot][=to.drag.one's.anus]" : {hetsi}
+# --------------------------------------------
 ! 
 | "[=heva+INF@/EP:t/VC.][VRoot][=to.lead]" : {heva}
+# --------------------------------------------
 ! 
 # heevankaantsi / =heeva -nk -aantsi / =to.fan -unk -inf / EN: 'to.fan' 
 | "[=hevank+INF@aantsi.][VRoot][=to.fan (ES: abanicar)]" : {hevank}
@@ -676,11 +678,13 @@ define VRootPRQin [
 | "[=eevank][VRoot][=to.fan (ES: abanicar)]" : {eevank}
 | "[=iivank][VRoot][=to.fan (ES: abanicar)]" : {iivank}
 | "[=heva+INF@/EP:t/aantsi.][VRoot][=to.fan (ES: abanicar)]" : {heva}
+# --------------------------------------------
 ! 
 | "[=hi+INF@/EP:t/aantsi.][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {hi}
 | "[=ii+INF@/EP:t/aantsi.][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {ii}
 | "[=iit+INF@aantsi.][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {iit}
 | "[=it][VRoot][=to.call, to.be.called, to.be.named, to.name]" : {it} ! produces too many ambiguities 
+# --------------------------------------------
 ! 
 | "[=hinki+INF@/EP:tz/V.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
 | "[=hinki+INF@/EP:tz/V.+tot.redup@unb.copy.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[= (ES: rodear.algo.varias.veces)]" : {hinkihinki}
