@@ -626,15 +626,18 @@ define VRootPRQin [
 # -----------------------------------------------------------------
 ! 
 | "[=chonk+INF@antsi.][VRoot][=to.evaporate, to.steambathe (ES: evaporar); to.take.a.steam-bath, to.do.a.steam.bath.for.sb.]" : {chonk}
+# -----------------------------------------------------------------
 ! 
 | "[=chopi+INF@/EP:t/antsi.][VRoot][=to.make.soup (ES: hacer.sopa.de.algo), to.soften.sth.; to.cook.in.liquid]" : {chopi}
+# -----------------------------------------------------------------
 ! 
 | "[=chori+INF@/EP:t/aantsi.][VRoot][=to.have.a.cramp (ES: tener.calambre)]" : {chori}
+# -----------------------------------------------------------------
 ! 
 | "[=eeni+INF@/EP:t/VC.][VRoot][=to.have (ES: tener)]" : {eeni}
 | "[=eni+INF@/EP:t/VC.][VRoot][=to.have (ES: tener)]" : {eni}
-! 
 # --------------------------------------------
+! 
 | "[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)]" : {ha} ! @section:verb@ 
 | "[=hat+INF@aantsi.][VRoot][=to.go (ES: ir)]" : {hat} 
 ! 
