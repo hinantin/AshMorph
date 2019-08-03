@@ -696,8 +696,9 @@ define VRootPRQin [
 | "[=hiri][VRoot][=to.shell.sth.with.a.knife]" : {hiri}
 # --------------------------------------------
 ! 
-| "[=hitori][VRoot][=to.behead]" : {hitori}
-| "[=hitore][VRoot][=to.behead]" : {hitore}
+| "[=hitori+~{'head':hito}{REV:ri}][VRoot][=to.behead (ES: decapitar)]" : {hitori}
+| "[=hitore+~{'head':hito}{REV:re}][VRoot][=to.behead (ES: decapitar)]" : {hitore}
+# --------------------------------------------
 ! 
 | "[=hivat][VRoot][=to.get.ahead]" : {hivat}
 | "[=hiva][VRoot][=to.start]" : {hiva}
