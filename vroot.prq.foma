@@ -1872,9 +1872,12 @@ define VRootPRQin [
 # ------------------------------------------------------
 ! 
 | "[=pavi+INF@antsi.][VRoot][=to.infect (ES: contagiar)]" : {pavi}
+! 
 | "[=pahenka+~{'to.give':p}{EP:a}{CL:/'inmaterial,odor':henka/}+INF@antsi.][VRoot][=to.infect (ES: contagiar)]" : {pahenka}
+# ------------------------------------------------------
 ! 
 | "[=pavia][VRoot][=to.study.witchcraft (ES: estudiar.brujería); to.teach.witchcraft (ES: enseñar.brujería)]" : {pavia}
+# ------------------------------------------------------
 ! 
 | "[=pe][VRoot][=to.disappear (ES: desaparecer)]" : {pe}
 | "[=pi][VRoot][=to.disappear (ES: desaparecer)]" : {pi}
