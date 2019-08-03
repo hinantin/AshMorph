@@ -479,10 +479,13 @@ define VRootPRQin [
 ! 
 | "[=atsari][VRoot][=to.unroll]" : {atsari}
 | "[=tsari+INF@antsi.][VRoot][=to.unroll, to.stretch.thread.for.weaving/dying (ES: estirar.hilo.para.tejer/teñir)]" : {tsari}
+# -------------------------------------------
 ! 
 | "[=atsana][VRoot][=to.take.advantage.of.sth/sb (ES: abusar)]" : {atsana}
+# -------------------------------------------
 ! 
 | "[=atsi][VRoot][=to.harm]" : {atsi}
+# -------------------------------------------
 ! 
 | "[=atsik+INF@aantsi.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {atsik}
 | "[N=][IRR+][--][=atsik+INF@aantsi.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {antsik}
@@ -490,6 +493,7 @@ define VRootPRQin [
 | "[=atsikaniint+~atsik{EP:a}{DIM:niint}+INF@aantsi.][VRoot][=to.have.a.stomachache/biting_pain_in_the_stomach (ES: tener.dolor.de.estómago, tener.cólico); to.be.in.labour (ES: estar.de.parto)]" : {atsikaniint}
 | "[=atsik+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {atsitsika}
 #@PRTLREDUPCLASS01| "[=atsik+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.bite (ES: morder.(sujeto.animado))]" : {atsik} ! atsitsika
+# -------------------------------------------
 ! 
 # arrollar 
 | "[=atsinak+INF@aantsi.][VRoot][=to.squash.sth.; to.squeeze.sth.; to.crush.sth. (ES: aplastar,arrollar; machucar; apretar)]" : {atsinak}
