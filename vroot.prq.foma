@@ -2646,11 +2646,14 @@ define VRootPRQin [
 | "[=sonka+INF@/EP:t/aantsi.][VRoot][=to.play.antara (ES: tocar.la.antara); to.blow]" : {sonka}
 # ihonkantantyaari 
 | "[=honk][VRoot][=to.play.antara (ES: tocar.la.antara)]" : {honk}
+# ----------------------------------------------------------------------
 ! 
 | "[=soronk][VRoot][=to.go.down]" : {soronk}
+# ----------------------------------------------------------------------
 ! 
 | "[=sov][VRoot][=to.choke (ES: atorar(se))]" : {sov}
 | "[=tsa][VRoot][=to.choke (ES: atorar(se))]" : {tsa}
+# ----------------------------------------------------------------------
 ! 
 | "[=ta+INF@antsi.][VRoot][=to.burn (ES: quemar)]" : {ta}
 | "[=taa][VRoot][=to.burn (ES: quemar)]" : {taa}
