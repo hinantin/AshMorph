@@ -1138,25 +1138,32 @@ define VRootPRQin [
 | "[=ovakovent][VRoot][=to.defend (ES: defender)]" : {ovakovent}
 # to.protect
 | "[=tikako][VRoot][=to.protect (ES: proteger)]" : {tikako}
+# ----------------------------------------------------------
 ! 
 | "[=kishi+INF@/EP:t/aantsi.][VRoot][=to.comb.sth., to.pull.comb.through.sb's.hair (ES: peinar)]" : {kishi}
+# ----------------------------------------------------------
 ! 
 | "[=kiso+INF@/EP:t/VC.][VRoot][=to.be.hard (ES: estar.duro); to.join.tightly-and-rigidly]" : {kiso} 
 | "[=kiho+INF@/EP:t/VC.][VRoot][=to.be.hard (ES: estar.duro); to.join.tightly-and-rigidly]" : {kiho} ! kijotake ES: 'está.dura'  
+# ----------------------------------------------------------
 ! 
 | "[=kisoshire+INF@/EP:t/aantsi.][VRoot][=to.doubt (ES: dudar)]" : {kisoshire} ! V@->N::[=incredulous.person (ES: incrédulo); doubt (ES: duda)] 
 | "[=tseenkashire][VRoot][=to.doubt (ES: dudar)]" : {tseenkashire} 
+# ----------------------------------------------------------
 ! 
 | "[=kit+INF@aantsi.][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(líquido/comida))]" : {kit}
 | "[=yii t][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yiit} ! to be checked
 | "[=yet][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yet} 
+# ----------------------------------------------------------
 ! 
 | "[=kit][VRoot][=to.bury]" : {kit}
 | "[=kita][VRoot][=to.bury]" : {kita}
 | "[=kitat][VRoot][=to.bury]" : {kitat}
+# ----------------------------------------------------------
 ! 
 # oquitejatánaque / okitehatanake / o- =kite -ha -t -an -ak -e / EN: 'mature.boil'; ES: 'chupo.maduro'  
 | "[=kite+INF@/EP:t/antsi.][VRoot][=to.have.abscess(es) (ES: tener.abceso(s)); to.have.pus (ES: tener.pus)]" : {kite}
+# ----------------------------------------------------------
 ! 
 # kiteki. kitetake / ES: 'está.limpio' 
 | "[=kite][VRoot][=to.be.clean (ES: ser/estar.limpio)]" : {kite}
