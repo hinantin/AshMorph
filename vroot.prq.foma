@@ -2517,22 +2517,29 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=shintsi][VRoot][=to.be.quick, to.be.fast]" : {shintsi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=shintsivent][VRoot][=to.compel.sb.to.do.sth.; to.impose.an.obligation.on/upon.sb.]" : {shintsivent}
+# ---------------------------------------------------------------------------
 ! 
 | "[=shintsina][VRoot][=to.argue.sth. (ES: argüir, exigir)]" : {shintsina}
+# ---------------------------------------------------------------------------
 ! 
 | "[=shipeta][VRoot][=to.weaken, to.become.weak (ES: debilitarse)]" : {shipeta}
+# ---------------------------------------------------------------------------
 ! 
 # diagnosticar.una.dolencia-&-realizar.la.curación.a.través.del.vapor.que.emerge.de.las.plantas.medicinales.al.contacto.con.piedras.calientes 
 | "[=shipok+INF@(a)antsi.][VRoot][=to.diagnose_an_ailment-and-to.cure.it.with.rising.vapor.from.stone-heated.medicinal_herbs; to.evaporate (ES: evaporar)]" : {shipok} ! V@->N::[=sauna (ES: sauna)] 
 | "[=tsionk+INF@aantsi.][VRoot][=to.generate.steam.for.curing.an.illness (ES: producir.vapor.para_curaciones/accidentalmente)]" : {tsionk} ! V@->N::[=sauna (ES: sauna)] 
+# ---------------------------------------------------------------------------
 ! 
 | "[=shiri+INF@/EP:t/aantsi.][VRoot][=to.believe (ES: creer, tener.fe); to.think]" : {shiri}
 | "[=shire+INF@/EP:t/aantsi.][VRoot][=to.believe (ES: creer, tener.fe); to.think]" : {shire}
+# ---------------------------------------------------------------------------
 ! 
 | "[=shiria+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.basket (ES: pescar.con.canasta)]" : {shiria}
 | "[=shiriaa+INF@/EP:t/VC.][VRoot][=to.fish.with.a.basket (ES: pescar.con.canasta)]" : {shiriaa}
+# ---------------------------------------------------------------------------
 ! 
 | "[=shirink+INF@aantsi.][VRoot][=to.make.room (ES: arrimar); to.contract.in.size, to.shrink (ES: mermar.(el.río))]" : {shirink}
 | "[=shirinkaa+~shirink{CL:/liquid:aa/}+INF@/EP:t/aantsi.][VRoot][=to.contract.in.size, to.shrink (i.e.: river; ES: mermar/estiar.(el.río))]" : {shirinkaa}
