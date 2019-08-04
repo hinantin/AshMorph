@@ -876,29 +876,37 @@ define VRootPRQin [
 # -------------------------------------------------------------- 
 ! 
 | "[=kantimo][VRoot][=to.say.sth.about.a_fact.with.the.desire.to.tempt.sb.else]" : {kantimo}
+# -------------------------------------------------------------- 
 ! 
 | "[=kapos+INF@aantsi.][VRoot][=to.slap.sb/sth. (ES: abofetear; PT: esbofetear; QU: ch'aqlay)]" : {kapos}
 | "[=kapoh+INF@aantsi.][VRoot][=to.slap.sb/sth. (ES: abofetear; PT: esbofetear; QU: ch'aqlay)]" : {kapoh}
+# -------------------------------------------------------------- 
 ! 
 # nocaratapovetanaque / nokaratapovetanake
 | "[=kara][VRoot][=to.lack.sth. (ES: carecer)]" : {kara}
 | "[=kaara][VRoot][=to.lack.sth. (ES: carecer)]" : {kaara}
 | "[=kahara][VRoot][=to.lack.sth. (ES: carecer)]" : {kahara}
+# -------------------------------------------------------------- 
 ! 
 # karajarontsi / karaharontsi / ES: 'rotura' 
 | "[=kar][VRoot][=to.break (ES: quebrar)]" : {kar}
 | "[=karah+INF@aantsi.][VRoot][=to.break (ES: romper, fracturar)]" : {karah}
 | "[=karaha+INF@antsi.][VRoot][=to.break (ES: romper, fracturar)]" : {karaha}
+# -------------------------------------------------------------- 
 ! 
 | "[=karentsa+INF@/EP:t/VC.][VRoot][=to.be.phlegmy (ES: estar.flemoso);| to.be.viscous (ES: estar.viscoso);| to.be.slippery (ES: estar.resbaloso)]" : {karentsa} ! @section:verb@
 | "[=karentsaa+INF@/EP:t/VC.][VRoot][=to.be.phlegmy (ES: estar.flemoso); to.be.viscous (ES: estar.viscoso); to.be.slippery (ES: estar.resbaloso)]" : {karentsaa}
+# -------------------------------------------------------------- 
 ! 
 | "[=karina+INF@/EP:t/VC.][VRoot][=to.paint (ES: pintar, colorar)]" : {karina}
 | "[=kanina+INF@/EP:t/VC.][VRoot][=to.paint (ES: pintar, colorar)]" : {kanina}
+# -------------------------------------------------------------- 
 ! 
 | "[=kasa+INF@/EP:t/VC.][VRoot][=to.cook.manioc.in.boiled_water (ES: sancochar.(yuca))]" : {kasa}
+# -------------------------------------------------------------- 
 ! 
 | "[=kashi+INF@aantsi.][VRoot][=to.threaten.sb./sth. (ES: amenazar)]" : {kashi} ! @section:verb@ 
+# -------------------------------------------------------------- 
 !
 | "[=kashiy+I-Conj@act.v.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashiy} ! @section:verb@ 
 | "[=kashi+INF@aantsi.+I-Conj@act.v.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashi}
