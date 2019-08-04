@@ -2357,8 +2357,10 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=san][VRoot][=to.drop, to.throw]" : {san}
+# ---------------------------------------------------------------------------
 ! 
 | "[=sank+INF@agantsi.+poss@ane.][VRoot][=to.smell (ES: oler)]" : {sank}
+# ---------------------------------------------------------------------------
 ! 
 ! sankenaparo / ES: 'rayado'
 ! sankenapari / ES: 'libro'
@@ -2373,9 +2375,11 @@ define VRootPRQin [
 #@TOTREDUPCLASS01| "[=sankina+tot.redup@unb.copy.][VRoot][=to.write (ES: escribir)]" : {sankina} ! sankinasankina
 | "[=sankena+INF@/EP:t/(a)antsi.+prtl.redup@b.copy.][VRoot][=to.write (ES: escribir)]" : {sasankena}
 #@PRTLREDUPCLASS01| "[=sankena+INF@/EP:t/(a)antsi.+prtl.redup@b.copy.][VRoot][=to.write (ES: escribir)]" : {sankena} ! sasankena 
+# ---------------------------------------------------------------------------
 ! 
 | "[=hamorenk][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {hamorenk} 
 | "[=samorink][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {samorink} 
+# ---------------------------------------------------------------------------
 ! 
 | "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi} ! V@->N::[=inquiry (ES: pregunta, investigación)] 
 | "[=osampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {osampi}
@@ -2384,6 +2388,7 @@ define VRootPRQin [
 | "[=sampi+tot.redup@unb.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampisampi} ! \cite{payne:axininca:81}[pag. 144]
 | "[=sampi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[= (ES: preguntar.a_cada_rato)]" : {sasampi}
 #@PRTLREDUPCLASS01| "[=sampi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[= (ES: preguntar.a_cada_rato)]" : {sampi} ! sasampi 
+# ---------------------------------------------------------------------------
 ! 
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
 | "[=sapok+INF@aantsi.][VRoot][=to.jump, to.jump.up.and.down]" : {sapok} ! V@->N::[=jump (ES: salto)] 
