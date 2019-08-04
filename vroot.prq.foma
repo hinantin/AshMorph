@@ -1808,12 +1808,14 @@ define VRootPRQin [
 # ----------------------------------------------------------------------- 
 ! 
 | "[=osamani][VRoot][=to.delay (ES: demorar)]" : {osamani}
+# --------------------------------------------------------------------
 ! 
 | "[=ov+INF@(a)antsi.][VRoot][=to.eat (ES: comer)]" : {ov}
 | "[=o{DEL:v}+INF@aantsi.][VRoot][=to.eat (ES: comer)]" : {o} ! oacha, =o-ach-a
 | "[=oy][VRoot][=to.eat (ES: comer)]" : {oy}
 ! ivajyari / ivahyari / i- =v -ah -ya -ri / 3m.a- =to.eat -regr -irr -3m.o / ES: 'lo.comen'  
 | "[=v][VRoot][=to.eat (ES: comer)]" : {v} 
+# --------------------------------------------------------------------
 ! 
 | "[=ovayeri+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: guerrear, combatir)]" : {ovayeri} ! V@->N::[=combat (ES: guerra)] 
 | "[=oayeri+INF@/EP:t/antsi.][VRoot][=to.fight (ES: guerrear, combatir)]" : {oayeri}
