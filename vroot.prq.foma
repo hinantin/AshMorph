@@ -1110,6 +1110,7 @@ define VRootPRQin [
 # ----------------------------------------------------------
 ! 
 | "[=kiro][VRoot][=to.coil (e.g. snakes; ES: enroscarse)]" : {kiro}
+# ----------------------------------------------------------
 ! 
 #  kishinkaro / =kish -inka -ro+n.m. / =to.be.angry -nmz -nmz / ES: 'renegona'
 | "[=kis+INF@aantsi.+poss@ane.][VRoot][=to.be.angry/furious, to.get.upset/angry (ES: estar.molesto)]" : {kis} ! V@->N::[=anger (ES: ira, cólera)] 
@@ -1121,9 +1122,11 @@ define VRootPRQin [
 | "[=kih+INF@aantsi.][VRoot][=to.be.angry/furious (ES: estar.molesto); to.get.upset/angry (ES: enojarse, molestarse)]" : {kih}
 ! 
 | "[=kisashire+~{'to.get.angry':kis}{EP:a}{'soul':shire}+INF@/EP:t/aantsi.][VRoot][=to.resent (ES: resentir)]" : {kisashire}
+# ----------------------------------------------------------
 ! 
 | "[=kisa+INF@/EP:t/V.][VRoot][=to.be.black]" : {kisa}
 | "[=kisaa+INF@/EP:t/V.][VRoot][=to.be.black]" : {kisaa}
+# ----------------------------------------------------------
 ! 
 # to.defend
 | "[=kisakovint+INF@antsi.][VRoot][=to.defend (ES: defender; PT: defender)]" : {kisakovint}
