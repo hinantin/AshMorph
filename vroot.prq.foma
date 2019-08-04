@@ -2441,28 +2441,36 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=shem+INF@aantsi.][VRoot][=to.be.bored (ES: estar.aburrido, aborrecer);| to.get.impatient (ES: impacientarse)]" : {shem} ! @section:verb@ 
+# ---------------------------------------------------------------------------
 ! 
 | "[=sheme][VRoot][=to.be.proud/haughty (ES: estar.orgulloso/altivo)]" : {sheme}
 | "[=shame][VRoot][=to.be.proud/haughty (ES: estar.orgulloso/altivo)]" : {shame}
+# ---------------------------------------------------------------------------
 ! 
 | "[=shemi][VRoot][=to.pound.sth. (e.g.: a.hard.substance)]" : {shemi} ! ideophone???
+# ---------------------------------------------------------------------------
 ! 
 | "[=sheni][VRoot][=to.be.of.the.same.group]" : {sheni} ! @section:verb@ 
 | "[=shani][VRoot][=to.be.of.the.same.group]" : {shani} ! @section:verb@ 
+# ---------------------------------------------------------------------------
 ! 
 | "[=sheronk][VRoot][=to.brush (ES: cepillar)]" : {sheronk}
 | "[=seronk][VRoot][=to.brush (ES: cepillar)]" : {seronk}
 | "[=kivanaahi][VRoot][=to.brush.teeth (ES: cepillar)]" : {kivanaahi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=sheet][VRoot][=to.be.afternoon; to.get.dark (time.of.day)]" : {sheet}
 | "[=shee][VRoot][=to.be.afternoon; to.get.dark (time.of.day)]" : {shee}
+# ---------------------------------------------------------------------------
 ! 
 # shavitahi / =shavi -t -ah -i / =to.be.afternoon -ep -regr -irr 
 | "[=shavi][VRoot][=to.be.afternoon]" : {shavi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=shavoki][VRoot][=to.dance (ES: bailar)]" : {shavoki}
 | "[=amashee][VRoot][=to.dance (ES: danzar, bailar)]" : {amashee}
 | "[=amashai][VRoot][=to.dance (ES: danzar, bailar)]" : {amashai}
+# ---------------------------------------------------------------------------
 ! 
 | "[=shenka][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shenka}
 | "[=shinka][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shinka}
