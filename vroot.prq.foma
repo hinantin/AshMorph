@@ -2392,10 +2392,13 @@ define VRootPRQin [
 ! 
 | "[=hapok][VRoot][=to.jump, to.jump.up.and.down]" : {hapok}
 | "[=sapok+INF@aantsi.][VRoot][=to.jump, to.jump.up.and.down]" : {sapok} ! V@->N::[=jump (ES: salto)] 
+# ---------------------------------------------------------------------------
 ! 
 | "[=sampita+INF@antsi.][VRoot][=to.research (ES: interrogar, preguntar)]" : {sampita} ! V@->N::[=interview (ES: entrevista)] 
+# ---------------------------------------------------------------------------
 ! 
 | "[=santsa][VRoot][=to.grow.big]" : {santsa}
+# ---------------------------------------------------------------------------
 ! 
 | "[=sara+INF@antsi.][VRoot][=to.peel (ES: pelar, descascarar)]" : {sara}
 | "[=shaary+INF@aantsi.][VRoot][=to.peel (ES: pelar, descascarar)]" : {shaary}
