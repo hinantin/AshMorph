@@ -1036,8 +1036,8 @@ define VRootPRQin [
 | "[=kimoshire+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)]" : {kimoshire}
 | "[=kimoshere+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)]" : {kimoshere}
 ! 
-| "[=oimoshirink+~{AGT.CAUS:o}{'to.be.happy':imoshiri}{EP:n}{DEGREE:k}+INF@aantsi.][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirink}
-| "[=oimoshirenk+~{AGT.CAUS:o}{'to.be.happy':imoshire}{EP:n}{DEGREE:k}+INF@aantsi.][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirenk}
+| "[=oimoshirink+~{AGT.CAUS:o}{'to.be.happy':/DEL:k/imoshiri}{EP:n}{DEGREE:k}+INF@aantsi.][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirink}
+| "[=oimoshirenk+~{AGT.CAUS:o}{'to.be.happy':/DEL:k/imoshire}{EP:n}{DEGREE:k}+INF@aantsi.][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirenk}
 # ----------------------------------------------------------
 | "[=kempoy+INF@antsi.][VRoot][=to.save (ES: guardar); to.watch (ES: vigilar, observar)]" : {kempoy}
 | "[=kimpoy+INF@antsi.][VRoot][=to.save (ES: guardar); to.watch (ES: vigilar, observar)]" : {kimpoy}
