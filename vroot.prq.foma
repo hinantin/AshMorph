@@ -2477,8 +2477,10 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=shent][VRoot][=to.take.care (ES: vigilar)]" : {shent}
+# ---------------------------------------------------------------------------
 ! 
 | "[=shet+INF@aantsi.][VRoot][=to.clean (ES: limpiar), to.wipe (ES: borrar)]" : {shet}
+# ---------------------------------------------------------------------------
 ! 
 | "[=sheva+INF@/EP:t/aantsi.][VRoot][=to.move (ES: mover)]" : {sheva}
 | "[=sheva+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving]" : {shevasheva}
