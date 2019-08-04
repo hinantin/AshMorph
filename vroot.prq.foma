@@ -2161,20 +2161,26 @@ define VRootPRQin [
 # ------------------------------------------------------
 ! 
 | "[=pitziry][VRoot][=to.peel]" : {pitziry}
+# ------------------------------------------------------
 ! 
 # piaantsi / =pi -aantsi / =to.come.back -inf / EN: 'to.come.back'; ES: 'regresar' 
 | "[=pi+INF@aantsi.][VRoot][=to.return, to.come.back (ES: volver, regresar)]" : {pi}
 | "[=piy+INF@aantsi.][VRoot][=to.return, to.come.back (ES: volver, regresar)]" : {piy}
 | "[=piy+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piyapiya}
 | "[=piy+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piapiya}
+# ------------------------------------------------------
 ! 
 | "[=piyaa][VRoot][=to.empty, to.pour (ES: vaciar)]" : {piyaa}
+# ------------------------------------------------------
 ! 
 # avenge
 | "[=piya][VRoot][=to.avenge (ES: vengar)]" : {piya}
+# ------------------------------------------------------
 # share
 | "[=piya+INF@/EP:t/aantsi.][VRoot][=to.share (ES: compartir); to.barter (ES: hacer.trueque)]" : {piya}
+! 
 | "[=ayompari+INF@/EP:t/aantsi.][VRoot][=to.barter (ES: hacer.trueque)]" : {ayompari} ! V@->N::[=barter (ES: trueque)] 
+# ------------------------------------------------------
 ! 
 | "[=piyatsa+INF@/EP:t/aantsi.][VRoot][=to.disobey (ES: desobedecer); to.disobey.authority]" : {piyatsa}
 | "[=tsaink+INF@VC.][VRoot][=to.disobey]" : {tsaink}
