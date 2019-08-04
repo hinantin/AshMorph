@@ -2216,22 +2216,27 @@ define VRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=pok+INF@aantsi:VC.][VRoot][=to.come (ES: venir), to.arrive]" : {pok}
+# ---------------------------------------------------------------------
 ! 
 | "[=pokai+INF@/EP:t/aantsi.][VRoot][=to.toast (ES: tostar)]" : {pokai}
+# ---------------------------------------------------------------------
 ! 
 | "[=pomerentsi+INF@/EP:t/aantsi.][VRoot][=to.be.difficult (ES: dificultar)]" : {pomerentsi}
 | "[=pomirintsi+INF@/EP:t/V.][VRoot][=to.be.difficult (ES: dificultar)]" : {pomirintsi}
 | "[=pomirentsi+INF@/EP:t/VC.][VRoot][=to.be.difficult (ES: dificultar)]" : {pomirentsi}
 | "[=pomeentsi+INF@/EP:t/VC.][VRoot][=to.be.difficult (ES: dificultar)]" : {pomeentsi}
 !| "[=pomerentsimo][VRoot][=to.get.difficult (ES: dificultarse)]" : {pomerentsimo}
+# ---------------------------------------------------------------------
 ! 
 | "[=pona+INF@/EP:t/aantsi.][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)]" : {pona}
 | "[=ponaa+INF@/EP:t/aantsi.][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear, hacerse.renegrido)]" : {ponaa}
 ! 
 | "[=ponaha+INF@/EP:t/VC.][VRoot][=to.be.dark-skinned, to.be.olive-skinned (ES: ser.de.piel.oscura); to.be.bruised; to.have.purple.bruises]" : {ponaha}
+# ---------------------------------------------------------------------
 ! 
 | "[=pony+INF@VC.][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)]" : {pony}
 | "[=pone+INF@VC.][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)]" : {pone}
+# ---------------------------------------------------------------------
 ! 
 | "[=pony][VRoot][=to.happen (ES: suceder)]" : {pony}
 | "[=pone][VRoot][=to.happen (ES: suceder)]" : {pone}
