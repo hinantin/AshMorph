@@ -1083,24 +1083,31 @@ define VRootPRQin [
 ! 
 | "[=kichank+INF@agantsi.][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kichank}
 | "[=kisha+INF@antsi.][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kisha}
+# ----------------------------------------------------------
 ! 
 | "[=kinkitsa+INF@/EP:t/aantsi.][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kinkitsa}
 | "[=kenkitsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kenkitsa}
 | "[=kenketsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kenketsa}
 | "[=kinkitsa+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kikinkitsa}
 #@PRTLREDUPCLASS01| "[=kinkitsa+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)]" : {kinkitsa} ! kikinkitsa
+# ----------------------------------------------------------
 ! 
 !| "[=kinkivarotzi][VRoot][=to.be.old]" : {kinkivarotzi}
+# ----------------------------------------------------------
 ! 
 | "[=kint+INF@aantsi.][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)]" : {kint}
 | "[=kent+INF@aantsi.][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)]" : {kent}
+# ----------------------------------------------------------
 ! 
 | "[=kipatsi][VRoot][=to.get.soiled (ES: estar.sucio)]" : {kipatsi}
+# ----------------------------------------------------------
 ! 
 | "[=kira][VRoot][=to.be.red]" : {kira}
 | "[=kiraa][VRoot][=to.be.red]" : {kiraa}
+# ----------------------------------------------------------
 ! 
 | "[=kirik+INF@aantsi.][VRoot][=to.weave; to.spin.(thread).by.turning.the.tip.of.a.spindle (ES: hilar)]" : {kirik}
+# ----------------------------------------------------------
 ! 
 | "[=kiro][VRoot][=to.coil (e.g. snakes; ES: enroscarse)]" : {kiro}
 ! 
