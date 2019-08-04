@@ -1731,21 +1731,26 @@ define VRootPRQin [
 !###| "[y-][VPers][3m.S/A+][--][=oirink+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.lower (ES: bajarse.de.una.cumbre)]" : {yoiyoirinka} ! @REDUP 
 !###| "[Ø-][VPers][3n.m.S/A+][--][=oirink+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.lower (ES: bajarse.de.una.cumbre)]" : {oioirinka} ! @REDUP 
 #@PRTLREDUPCLASS02| "[=oirink+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.lower (ES: bajarse.de.una.cumbre)]" : {oirink} ! oioirinka 
+# --------------------------------------------------------------------
 ! 
 # oisaantsi / =ois -aantsi / ES: 'atizar' 
 # poishero / p- =oish -e =ro / ES: 'tu.lo.atizas' 
 | "[=oish][VRoot][=to.start.fire, to.make.fire; to.poke.fire (ES: atizar)]" : {oish} 
 | "[=ois+INF@(a)antsi.][VRoot][=to.start.fire, to.make.fire; to.poke.fire  (ES: atizar, hacer.inflamar)]" : {ois} 
 | "[=ontso][VRoot][=to.start.fire, to.make.fire; to.poke.fire  (ES: atizar)]" : {ontso}
+# --------------------------------------------------------------------
 ! 
 | "[=oivo][VRoot][=to.bend, to.crouch]" : {oivo} 
 | "[=oiyo][VRoot][=to.bend, to.crouch]" : {oiyo} 
+# --------------------------------------------------------------------
 ! 
 | "[=oit+INF@aantsi.][VRoot][=to.make.sb.drink (ES: hacer.tomar, dar.bebida.en.pate)]" : {oit} 
+# --------------------------------------------------------------------
 ! 
 | "[=oitsok][VRoot][=to.lay.eggs]" : {oitsok} 
 | "[=itsok][VRoot][=to.lay.eggs]" : {itsok} 
 | "[=oeyoy][VRoot][=to.lay.eggs]" : {oeyoy} 
+# --------------------------------------------------------------------
 ! 
 | "[=okaaki][VRoot][=to.be.close]" : {okaaki}
 | "[=ontzimatye][VRoot][=to.be.necessary]" : {ontzimatye}
