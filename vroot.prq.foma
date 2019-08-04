@@ -853,20 +853,27 @@ define VRootPRQin [
 # cantacaantantatsiri / kantakaantantatsiri / ES: 'curaca' ; QU: 'kuraka' ; CNI: 'coraca'
 | "[=kant+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[= (ES: ser.ley/dicho)]" : {kantakant}
 | "[=kant+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[= (ES: ser.ley/dicho)]" : {kantakaant}
+# -------------------------------------------------------------- 
 ! 
 | "[=kantako][VRoot][=to.accuse (ES: acusar)]" : {kantako}
+# -------------------------------------------------------------- 
 ! 
 | "[=kantakotashi][VRoot][=to.hound (ES: acosar)]" : {kantakotashi}
+# -------------------------------------------------------------- 
 ! 
 # kantabaeshiyetachari / kantavaeshiyetachari / ES: 'desconcentrada' ! this is a translation proposed by the author 
 | "[=kantavaeshiye+INF@/EP:t/VC.][VRoot][=to.deconcentrate (ES: desconcentrar)]" : {kantavaeshiye} 
+# -------------------------------------------------------------- 
 ! 
 | "[=kantapooki+INF@/EP:t/aantsi.][VRoot][=to.be.badly.made (ES: estar.mal.hecho)]" : {kantapooki}
+# -------------------------------------------------------------- 
 ! 
 | "[=kantashiye][VRoot][=to.be.different (ES: ser.diferente)]" : {kantashiye}
+# -------------------------------------------------------------- 
 ! 
 | "[=kantzima][VRoot][=to.speak.badly]" : {kantzima}
 | "[=kantzimanint+INF@VC.][VRoot][=to.speak.badly]" : {kantzimanint}
+# -------------------------------------------------------------- 
 ! 
 | "[=kantimo][VRoot][=to.say.sth.about.a_fact.with.the.desire.to.tempt.sb.else]" : {kantimo}
 ! 
