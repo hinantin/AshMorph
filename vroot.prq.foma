@@ -930,31 +930,42 @@ define VRootPRQin [
 ! 
 | "[=katsinkaite][VRoot][=to.be.cold]" : {katsinkaite}
 | "[=katsiinkaite][VRoot][=to.be.cold]" : {katsiinkaite}
+# -------------------------------------------------------------- 
 ! word set:
 | "[=katsit+INF@aantsi.][VRoot][=to.be.in.pain, to.feel.pain (ES: doler)]" : {katsit}
+# -------------------------------------------------------------- 
 ! 
 | "[=katsiy+INF@aantsi.][VRoot][=to.fold.a.palm_leaf.toe (ES: doblar.la.hoja.de.la.palmera.para.lechar)]" : {katsiy}
+# -------------------------------------------------------------- 
 ! 
 | "[=katsova][VRoot][=to.drip, to.leak.from.roof]" : {katsova}
+# -------------------------------------------------------------- 
 ! word set:
 | "[=katziy+INF@aantsi.][VRoot][=to.stand (ES: pararse); to.stand.guard; to.be.erect (ES: estar.recto); to.stand.up]" : {katziy}
 | "[=katiy+INF@VC.][VRoot][=to.stand; to.stand.guard; to.be.erect; to.stand.up]" : {katiy}
 | "[=kati+INF@aantsi.][VRoot][=to.stand; to.stand.guard; to.be.erect; to.stand.up]" : {kati}
+# -------------------------------------------------------------- 
 ! 
 | "[=katik+INF@aantsi.][VRoot][=to.hang (ES: ahorcar)]" : {katik}
+# -------------------------------------------------------------- 
 ! 
 # kabintsaantatsiri / kavintsaantatsiri / =kavintsa -ant -atsi -ri / =to.do.good -appl.inst -stat -rel / ES: 'bondadoso'  
 | "[=kavintsa+INF@/DEL:a/ntsi.][VRoot][=to.do.good (ES: ser.bondadoso); to.have.empathy]" : {kavintsa}
+# -------------------------------------------------------------- 
 ! 
 | "[=kavirink][VRoot][=to.beat.dough.by.squeezing.with.your.hand]" : {kavirink}
+# -------------------------------------------------------------- 
 ! 
 | "[=kavitsook][VRoot][=to.filter.manioc_beer/masato]" : {kavitsook}
+# -------------------------------------------------------------- 
 ! 
 | "[=kavoshi+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshi}
 | "[=kaavoshi][VRoot][=to.bathe (ES: bañar)]" : {kaavoshi}
 | "[=kavoshi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
+# -------------------------------------------------------------- 
 ! 
 | "[=kay][VRoot][=to.thresh]" : {kay}
+# -------------------------------------------------------------- 
 ! 
 | "[=keario][VRoot][=to.be.factual, to.be.true (certainty)]" : {keario}
 ! irooperori / ES: 'verdadero' 
@@ -964,6 +975,7 @@ define VRootPRQin [
 | "[=iroopero][VRoot][=to.be.factual, to.be.truth]" : {iroopero}
 | "[=iripero][VRoot][=to.be.factual, to.be.truth]" : {iripero}
 | "[=iriipero][VRoot][=to.be.factual, to.be.truth]" : {iriipero}
+# -------------------------------------------------------------- 
 ! 
 | "[=kemaatsika][VRoot][=to.suffer (ES: sufrir)]" : {kemaatsika}
 | "[=kemaatsi][VRoot][=to.suffer (ES: sufrir)]" : {kemaatsi}
