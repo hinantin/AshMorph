@@ -910,18 +910,23 @@ define VRootPRQin [
 !
 | "[=kashiy+I-Conj@act.v.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashiy} ! @section:verb@ 
 | "[=kashi+INF@aantsi.+I-Conj@act.v.][VRoot][=to.be.a.relative.of.sb. (ES: ser.pariente.de.algn.); to.be.related.to.sb.]" : {kashi}
+# -------------------------------------------------------------- 
 ! 
 | "[=kats][VRoot][=to.feel.pain (ES: doler)]" : {kats}
 | "[=katsi+INF@/EP:t/antsi.][VRoot][=to.feel.pain (ES: doler); to.be.in.pain; to.cause.pain]" : {katsi} ! i-katsi-yerito-t-ak-e
 | "[=katsik][VRoot][=to.feel.pain]" : {katsik}
+# -------------------------------------------------------------- 
 ! 
 | "[=kaats][VRoot:CPB][=to.be (PT: ser,, estar)]" : {kaats}
 | "[=katsi][VRoot:CPB][=to.be (PT: ser,, estar)]" : {katsi}
+# -------------------------------------------------------------- 
 ! 
 | "[=katsinka+INF@/EP:t/aantsi.][VRoot][=to.be.cold (ES: estar.con.frío)]" : {katsinka}
+# -------------------------------------------------------------- 
 ! 
 | "[=katsima+INF@/EP:t/aantsi.][VRoot][=to.get.angry, to.be.wild, to.be.savage; to.hate (ES: odiar); to.feel.pain (ES: sentir.dolor)]" : {katsima}
 | "[=tsima+INF@antsi][VRoot][=to.anger (ES: enojar); to.have.anger/rage (ES: tener.ira/rabia); to.be.angry (ES: estar.molesto)]" : {tsima}
+# -------------------------------------------------------------- 
 ! 
 | "[=katsinkaite][VRoot][=to.be.cold]" : {katsinkaite}
 | "[=katsiinkaite][VRoot][=to.be.cold]" : {katsiinkaite}
