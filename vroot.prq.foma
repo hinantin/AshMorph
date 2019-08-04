@@ -1783,11 +1783,13 @@ define VRootPRQin [
 | "[=hoko][VRoot][=to.mark, to.point (ES: apuntar; PT: apontar.a.c.)]" : {hoko}
 | "[=oinih+INF@aantsi.][VRoot][=to.point (ES: señalar)]" : {oinih}
 | "[=oniha][VRoot][=to.point (ES: indicar, señalar; PT: apontar.a.c.); to.show (ES: mostrar)]" : {oniha}
+# --------------------------------------------------------------------
 ! 
 | "[=ooho][VRoot][=to.tie (ES: atar), to.tie.sth.up (ES: amarrar)]" : {ooho}
 | "[=ooso][VRoot][=to.tie (ES: atar), to.tie.sth.up (ES: amarrar)]" : {ooso}
 !| "[=oosa][VRoot][=to.tie (ES: atar), to.tie.sth.up (ES: amarrar)]" : {oosa}
 | "[=oiso][VRoot][=to.tie (ES: atar), to.tie.sth.up (ES: amarrar)]" : {oiso}
+# --------------------------------------------------------------------
 ! 
 | "[=oonk][VRoot][=to.flood (ES: inundar(se))]" : {oonk} 
 ! 
