@@ -2697,12 +2697,16 @@ define VRootPRQin [
 | "[=pityarank+INF@/EP:t/VC.][VRoot][=to.bend.over (ES: agacharse)]" : {pityarank}
 | "[=pityarank+INF@/EP:t/VC.+prtl.redup@b.copy.][VRoot][=to.bend.over (ES: agacharse)]" : {pipityarank}
 #@PRTLREDUPCLASS01| "[=pityarank+INF@/EP:t/VC.+prtl.redup@b.copy.][VRoot][=to.bend.over (ES: agacharse)]" : {pityarank}
+# ----------------------------------------------------------------------
 ! 
 | "[=tapo][VRoot][=to.be.round]" : {tapo}
+# ----------------------------------------------------------------------
 ! 
 | "[=tarahaa][VRoot][=to.fish.with.net]" : {tarahaa}
+# ----------------------------------------------------------------------
 ! 
 | "[=tarank+INF@agantsi.][VRoot][=to.fall.down (earth, landslide; ES: derrumbarse.tierra/piedras, haber.derrumbe)]" : {tarank}
+# ----------------------------------------------------------------------
 ! 
 | "[=tary][VRoot][=to.open.legs]" : {tary}
 ! 
