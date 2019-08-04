@@ -2728,6 +2728,7 @@ define VRootPRQin [
 #@TOTREDUPCLASS01| "[=tasonka+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.blow (ES: soplar); to.fan]" : {tasonka}
 | "[=tasonk+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.blow (ES: soplar); to.fan]::[= (ES: soplar.a_cada_rato)]" : {tatasonk}
 #@PRTLREDUPCLASS01| "[=tasonk+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.blow (ES: soplar); to.fan]::[= (ES: soplar.a_cada_rato)]" : {tasonk} ! tatasonk
+# ----------------------------------------------------------------------
 ! 
 | "[=tatsink+INF@aantsi.][VRoot][=to.push.sth. (ES: empujar)]" : {tatsink}
 | "[=otatsink+INF@aantsi.][VRoot][=to.push.sth. (ES: empujar)]" : {otatsink}
