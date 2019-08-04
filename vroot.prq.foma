@@ -2240,17 +2240,20 @@ define VRootPRQin [
 ! 
 | "[=pony][VRoot][=to.happen (ES: suceder)]" : {pony}
 | "[=pone][VRoot][=to.happen (ES: suceder)]" : {pone}
+# ---------------------------------------------------------------------
 ! 
 | "[=porek+INF@aantsi.][VRoot][=to.shine (ES: brillar)]" : {porek}
 | "[=amorek][VRoot][=to.shine (ES: brillar)]" : {amorek}
 | "[=porery][VRoot][=to.shine (ES: brillar)]" : {porery}
 | "[=poriry][VRoot][=to.shine (ES: brillar)]" : {poriry}
+# ---------------------------------------------------------------------
 ! 
 | "[=porok][VRoot][=to.break.into.small.pieces]" : {porok}
+# ---------------------------------------------------------------------
 ! 
 | "[=poronk][VRoot][=to.whip.sb.with.ishanga-nettle (ES: castigar.con.hortiga); to.prick.sb./sth.causing.a_lot_of.pain (ES: picar.fuerte)]" : {poronk}
-! 
 # ------------------------------------------------------
+! 
 | "[=pos+INF@aantsi.][VRoot][=to.hit, to.beat, to.crash]" : {pos}
 | "[=posh][VRoot][=to.hit]" : {posh}
 | "[=poh+INF@aantsi.+I-Conj@act.v.][VRoot][=to.hit (ES: golpear)]" : {poh}
@@ -2261,41 +2264,51 @@ define VRootPRQin [
 ! 
 | "[=posa+INF@/EP:t/aantsi.][VRoot][=to.cook; to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {posa}
 | "[=poha+INF@/EP:t/aantsi.][VRoot][=to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast]" : {poha}
+# ---------------------------------------------------------------------
 ! 
 | "[=posaank+INF@VC.+I-Conj@act.v.][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {posaank}
 | "[=vosaank+INF@VC.+I-Conj@act.v.][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {vosaank}
+# ---------------------------------------------------------------------
 ! 
 | "[=poshini+INF@/EP:t/antsi.][VRoot][=to.be.tasty (ES: estar.sabroso); to.be.delicious]" : {poshini}
 | "[=poshine][VRoot][=to.be.tasty; to.be.delicious]" : {poshine}
+# ---------------------------------------------------------------------
 ! 
 | "[=potesa][VRoot][=to.ooze.liquid (ES: salir.líquido)]" : {potesa}
 | "[=potesaa+INF@/EP:t/VC.][VRoot][=to.ooze.liquid (ES: salir.líquido)]" : {potesaa}
+# ---------------------------------------------------------------------
 ! 
 | "[=potso+INF@/EP:t/aantsi.][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto]" : {potso}
+# ---------------------------------------------------------------------
 ! 
 # batir: derribar a golpes algo (pared/edificio) 
 | "[=ponk+INF@VC.][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {ponk}
 | "[=poonk+INF@VC.][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)]" : {poonk}
+# ---------------------------------------------------------------------
 ! 
 | "[=poyee+INF@/EP:t/aantsi.][VRoot][=to.replace (ES: reemplazar)]" : {poyee}
 | "[=poyaa+INF@/EP:t/aantsi.][VRoot][=to.replace (ES: reemplazar)]" : {poyaa}
+# ---------------------------------------------------------------------
 ! 
 | "[=py+INF@aantsi.][VRoot][=to.convert, to.transform]" : {py}
 | "[=pi][VRoot][=to.convert, to.transform]" : {pi}
 | "[=piy+INF@aantsi.][VRoot][=to.convert, to.transform]" : {piy}
 | "[=pe+INF@aantsi.][VRoot][=to.convert, to.transform]" : {pe}
 | "[=pey+INF@aantsi.][VRoot][=to.convert, to.transform]" : {pey}
+# ---------------------------------------------------------------------
 ! 
 | "[=pety+INF@/EP:tz/V.][VRoot][=to.blink (ES: parpadear)]" : {pety}
 | "[=pity][VRoot][=to.blink (ES: parpadear)]" : {pity}
 | "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pepetya}
 #@PRTLREDUPCLASS01| "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pety}
+# ---------------------------------------------------------------------
 ! 
 | "[=piriin+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.lift.sth., to.pick.sth.up (ES: levantar)]" : {piriin}
 | "[=piriin+INF@/EP:t/aantsi.+A-Conj@mid.v.][VRoot][=to.get.up (ES: levantarse)]" : {piriin}
 | "[=piirin+I-Conj@act.v.][VRoot][=to.lift.sth., to.pick.sth.up]" : {piirin}
 | "[=piirin+A-Conj@mid.v.][VRoot][=to.get.up]" : {piirin}
 | "[=pirin+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.raise (ES: levantar); to.revive (ES: resucitar)]" : {pirin}
+# ---------------------------------------------------------------------
 ! 
 | "[=pirink+INF@aantsi:V.+I-Conj@act.v.][VRoot][=to.cut.sth.with.machete (ES: cortar.con.machete); to.scrape.sth. (ES: raspar)]" : {pirink}
 ! 
