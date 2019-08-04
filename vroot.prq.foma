@@ -1838,18 +1838,20 @@ define VRootPRQin [
 # --------------------------------------------------------------------
 ! 
 | "[=ovik][VRoot][=to.insert; to.put.sth.inside; to.plug]" : {ovik}
+# --------------------------------------------------------------------
 ! 
 | "[=ovint+INF@aantsi.][VRoot][=to.plant.manioc_stalk/cutting_of_maniocr/cutting_of_barbasco (ES: sembrar.(tallos.de.yuca))]" : {ovint}
 | "[=oint+INF@aantsi.][VRoot][=to.plant.manioc_stalk/cutting_of_maniocr/cutting_of_barbasco (ES: sembrar.(tallos.de.yuca))]" : {oint}
 | "[=oviint+INF@aantsi.][VRoot][=to.plant.manioc_stalk/cutting_of_maniocr/cutting_of_barbasco (ES: sembrar.(tallos.de.yuca))]" : {oviint}
 | "[=vint+INF@antsi.][VRoot][=to.sow.the.cassava.seed (ES: sembrar.con.la.semilla.de.la.yuca); to.plant.manioc_cuttings (ES: sembrar.con.la.semilla.de.la.yuca)]" : {vint}
-! 
 # --------------------------------------------------------------------------------- 
+! 
 | "[=otey+INF@aantsi.][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)]" : {otey}
 | "[=otiy+INF@aantsi.][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)]" : {otiy}
 | "[=ote+INF@/EP:t/aantsi.][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)]" : {ote}
 | "[=oti+INF@/EP:t/aantsi.][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)]" : {oti}
 | "[=te+INF@/EP:t/aantsi.][VRoot][=to.take.sth.]" : {te}
+# --------------------------------------------------------------------
 ! 
 | "[=ote+INF@/EP:t/aantsi.][VRoot][=to.insert (ES: meter.(en.un.envase)); to.get.in; to.board (ES: embarcar)]" : {ote}
 | "[=oti+INF@/EP:t/aantsi.][VRoot][=to.insert (ES: meter.(en.un.envase)); to.get.in; to.board (ES: embarcar)]" : {oti}
