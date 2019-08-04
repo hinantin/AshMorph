@@ -2554,8 +2554,8 @@ define VRootPRQin [
 | "[=shiron+INF@/EP:t/(a)antsi.][VRoot][=to.laugh.at.sb. (ES: reír)]" : {shiron}
 ! oshirovantari 
 | "[=shirov][VRoot][=to.laugh.at.sb.]" : {shirov}
-! 
 # ----------------------------------------------------------------------
+! 
 | "[=shi+INF@/EP:t/aantsi.][VRoot][=to.defecate.on.sth. (ES: defecar)]" : {shi}
 | "[=shit+INF@aantsi.][VRoot][=to.defecate.on.sth. (ES: defecar)]" : {shit}
 | "[=shivai+~{'to.defecate':shi}{DUR:vai}+INF@/EP:t/aantsi.][VRoot][=to.have.diarrhea (ES: tener.diarrea)]" : {shivai}
@@ -2564,8 +2564,8 @@ define VRootPRQin [
 # ----------------------------------------------------------------------
 ! 
 | "[=shitako][VRoot][=to.get.well/better, to.recover]" : {shitako}
-! 
 # ----------------------------------------------------------------------
+! 
 | "[=shitik+INF@aantsi.][VRoot][=to.sew.sth (ES: tejer), to.tie.sth. (ES: amarrar); to.thatch.a_house/the_walls_of_a_home.with.tree_leaves (ES: tejer.(casa))]" : {shitik}
 | "[=shitzik+INF@antsi.][VRoot][=to.sew/weave.sth (ES: tejer), to.tie.sth.; to.thatch.a_house/the_walls_of_a_home.with.tree_leaves (ES: tejer.(casa))]" : {shitzik}
 !| "[=shitzik][VRoot][=to.weave (ES: tejer); to.thatch.a_house/the_walls_of_a_home.with.tree_leaves (ES: tejer.(casa))]" : {shitzik}
@@ -2581,31 +2581,38 @@ define VRootPRQin [
 | "[=shitov+tot.redup@unb.copy.][VRoot][=to.leave (ES: salir)]::[=to.come-and-go.constantly (ES: salir.cada.rato)]" : {shitovashitova}
 ! roimishitoyeeteri / r- oimi= =shito -yee -t -e -ri /  
 | "[=shito][VRoot][=to.leave (ES: salir); to.escape]" : {shito}
+# ----------------------------------------------------------------------
 ! 
 | "[=shitov][VRoot][=to.grow]" : {shitov} ! TO BE REVISED !!!
+# ----------------------------------------------------------------------
 ! 
 | "[=shiy][VRoot][=to.be.like, to.be.similar, to.resemble]" : {shiy}
 | "[=oshiy][VRoot][=to.be.like, to.be.similar, to.resemble]" : {oshiy}
 | "[=shi][VRoot][=to.be.like, to.be.similar, to.resemble]" : {shi}
 | "[=ohy][VRoot][=to.be.like, to.be.similar, to.resemble]" : {ohy} ! ojy to be revised
 | "[=osh][VRoot][=to.be.like, to.be.similar, to.resemble]" : {osh}
+# ----------------------------------------------------------------------
 ! 
 # shiaka / ES: 'se.ha.escapado'
 | "[=shi+INF@antsi.][VRoot][=to.escape, to.run (ES: escapar, huir)]" : {shi}
 | "[=shiy+INF@aantsi.][VRoot][=to.escape, to.run (ES: escapar)]" : {shiy}
 | "[=shiya][VRoot][=to.escape (ES: escapar)]" : {shiya}
 | "[=shia][VRoot][=to.escape, to.flee (ES: escapar)]" : {shia}
+# ----------------------------------------------------------------------
 ! 
 | "[=shiyakant][VRoot][=to.think]" : {shiyakant}
 | "[=shiyakant][VRoot][=to.imagine]" : {shiyakant}
+# ----------------------------------------------------------------------
 ! 
 | "[=shiyak+INF@aantsi.][VRoot][=to.take.a.picture (ES: tomar.una.foto)]" : {shiyak}
 | "[=shiak+INF@aantsi.][VRoot][=to.take.a.picture (ES: tomar.una.foto)]" : {shiak}
 | "[=shiyakant][VRoot][=to.take.a.picture (ES: tomar.una.foto)]" : {shiyakant}
+# ----------------------------------------------------------------------
 ! 
 | "[=shitzi+I-Conj@act.v.][VRoot][=to.stink, to.contaminate.with.bad.smell; to.rot, to.decompose]" : {shitzi}
 # kaniri shitzivavo / =kaniri+n.m. =shitziv -a -vo+n.m. / =to.rot -ep -adj / EN: 'rotten' 
 | "[=shitziv+INF@V.][VRoot][=to.stink, to.contaminate.with.bad.smell; to.rot, to.decompose]" : {shitziv}
+# ----------------------------------------------------------------------
 ! 
 | "[=shonk][VRoot][=to.go.around; to.go.in.circles (ES: dar.vuelta(s))]" : {shonk}
 # -------------------------------------------------------------
@@ -2621,6 +2628,7 @@ define VRootPRQin [
 | "[=sook][VRoot][=to.empty (ES: vaciar); to.spill.sth. (ES: derramar)]" : {sook}
 | "[=sako+INF@/EP:t/aantsi.][VRoot][=to.spill.sth. (ES: derramar)]" : {sako}
 | "[=hako+INF@/EP:t/aantsi.][VRoot][=to.spill.sth. (ES: derramar)]" : {hako}
+# ----------------------------------------------------------------------
 ! 
 | "[=soiyok][VRoot][=to.whistle (ES: silbar)]" : {soiyok}
 | "[=soiyonk][VRoot][=to.whistle (ES: silbar)]" : {soiyonk}
