@@ -2311,16 +2311,18 @@ define VRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=pirink+INF@aantsi:V.+I-Conj@act.v.][VRoot][=to.cut.sth.with.machete (ES: cortar.con.machete); to.scrape.sth. (ES: raspar)]" : {pirink}
+# ---------------------------------------------------------------------
 ! 
 # evaporar.con.hierbas, sudar 
 | "[=sa+INF@antsi.+I-Conj@act.v.][VRoot][=to.steambathe.with.herbs (ES: evaporar.con.hierbas)]" : {sa}
 | "[=saa+INF@/EP:t/VC.][VRoot][=to.bathe, to.steam.bathe]" : {saa}
 | "[=saa+INF@/EP:t/VC.][VRoot][=to.bathe.in.hot.water; to.pour.warm_liquids.over.sb.in.order.to.heal.it/him/her.]" : {saa}
 !| "[=saa][VRoot][=to.steam.bathe]" : {saa}
+# ---------------------------------------------------------------------
 ! 
 | "[=saana][VRoot][=to.be.deep (ES: ser.profundo)]" : {saana}
-! 
 # ---------------------------------------------------------------------------
+! 
 | "[=saava+INF@/EP:t/VC.][VRoot][=to.heat.up (ES: hacer.hervir, estar.caliente); to.incubate (ES: incubar)]" : {saava}
 | "[=sava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {sava}
 | "[=haava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)]" : {haava}
