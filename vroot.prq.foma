@@ -826,12 +826,15 @@ define VRootPRQin [
 ! 
 | "[=kamen+INF@aantsi.][VRoot][=to.advise; to.give.advice]" : {kamen} ! V@->N::[=advice, piece.of.advice] 
 | "[=kamin+INF@antsi.][VRoot][=to.advise; to.give.advice]" : {kamin}
+# -------------------------------------------------------------- 
 ! 
 | "[=kamet+INF@VC.][VRoot][=to.plead]" : {kamet}
 | "[=kamit+INF@VC.][VRoot][=to.plead]" : {kamit}
+# -------------------------------------------------------------- 
 ! 
 | "[=kamitant+INF@VC.][VRoot][=to.buy]" : {kamitant}
 | "[=kampitant][VRoot][=to.buy]" : {kampitant}
+# -------------------------------------------------------------- 
 ! 
 | "[=kameni+INF@/EP:t/aantsi.][VRoot][=to.resound, to.boom (ES: sonar, retumbar)]" : {kameni} ! @section:verb@ 
 | "[=kamini+INF@/EP:t/aantsi.][VRoot][=to.resound, to.boom (ES: sonar, retumbar)]" : {kamini}
