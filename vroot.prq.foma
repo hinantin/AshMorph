@@ -2897,8 +2897,10 @@ define VRootPRQin [
 ! 
 | "[=tsaink][VRoot][=to.mock.sb. (ES: burlarse)]" : {tsaink}
 | "[=chenk][VRoot][=to.mock.sb. (ES: burlarse)]" : {chenk}
+# ----------------------------------------------------------------------- 
 !  
 | "[=tsatsink+INF@VC.][VRoot][=to.behead (ES: decapitar)]" : {tsatsink}
+# ----------------------------------------------------------------------- 
 ! to lie
 | "[=tsay][VRoot][=to.lie (ES: mentir)]" : {tsay}
 | "[=tsaiy+INF@aantsi.][VRoot][=to.lie (ES: mentir)]" : {tsaiy}
@@ -2907,10 +2909,13 @@ define VRootPRQin [
 | "[=tseey+INF@aantsi.][VRoot][=to.lie (ES: mentir)]" : {tseey}
 | "[=tsiiy+INF@aantsi.][VRoot][=to.lie (ES: mentir)]" : {tsiiy}
 | "[=cheey+INF@aantsi.][VRoot][=to.lie (ES: mentir)]" : {cheey}
+# ----------------------------------------------------------------------- 
 ! 
 | "[=tsek+INF@aantsi.][VRoot][=to.cut (ES: cortar)]" : {tsek}
+# ----------------------------------------------------------------------- 
 ! 
 | "[=tsavia][VRoot][=to.control, to.rule (ES: dominar)]" : {tsavia}
+# ----------------------------------------------------------------------- 
 !
 # tseenkinkari / =tseenk -inka =ri / ES: 'incrédulo' 
 | "[=tseenk+INF@aantsi.][VRoot][=to.reduce, to.lessen (ES: rebajar); to.doubt.sth.]" : {tseenk}
