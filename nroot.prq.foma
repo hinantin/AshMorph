@@ -280,6 +280,7 @@ define NRootPRQin [
 ! 
 | "[=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {ani}
 | "[=anii+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {anii}
+! 
 | "[=aninko+gndr@m.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {aninko} ! to be checked 
 | "[=aniinko+gndr@m.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {aniinko} ! to be checked 
 # ---------------------------------------------------------------  
@@ -291,6 +292,7 @@ define NRootPRQin [
 ! 
 | "[=aampe+gndr@m.][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {aampe}
 | "[=tsaampe+gndr@m.][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {tsaampe}
+# ---------------------------------------------------------------  
 ! cotton
 | "[=ampee+gndr@n.m.+poss@re:ne.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampee}
 | "[=ampii+gndr@n.m.+poss@ri.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampii}
@@ -329,6 +331,7 @@ define NRootPRQin [
 ! 
 | "[=anteashipari+gndr@m.][NRoot][=elderly.man, old.man (ES: anciano); secondhand]" : {anteashipari}
 | "[=antyashipari+gndr@m.][NRoot][=elderly.man, old.man (ES: anciano)]" : {antyashipari}
+! 
 | "[=anteashiparo+gndr@n.m.][NRoot][=elderly.woman, old.woman; secondhand]" : {anteashiparo}
 | "[=antyashiparo+gndr@n.m.][NRoot][=elderly.woman, old.woman]" : {antyashiparo} ! N@->V
 | "[=antyashipavo+gndr@n.m.][NRoot][=elderly.woman, old.woman]" : {antyashipavo}
