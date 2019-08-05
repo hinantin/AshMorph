@@ -2973,16 +2973,21 @@ define VRootPRQin [
 ! 
 | "[=tsireni+INF@/EP:t/aantsi.][VRoot][=to.get.dark (ES: atardecer, anochecer); to.be.dark]" : {tsireni} 
 | "[=tsirini+INF@/EP:t/aantsi.][VRoot][=to.get.dark (ES: atardecer, anochecer); to.be.dark]" : {tsirini} 
+# --------------------------------------------------------
 ! 
 | "[=tsit][VRoot][=to.be.dark]" : {tsit}
 | "[=tsiteni+INF@/EP:t/VC.][VRoot][=to.get.dark (ES: oscurecer); to.be.night]" : {tsiteni}
+# --------------------------------------------------------
 ! 
 | "[=tsitok+INF@aantsi.][VRoot][=to.crush.sth. (ES: chancar); to.kill (ES: matar); to.hit]" : {tsitok}
 | "[=tsirok+INF@aantsi.][VRoot][=to.crush.sth. (ES: chancar); to.kill (ES: matar)]" : {tsirok}
+# --------------------------------------------------------
 ! 
 | "[=tsitonk+INF@VC.][VRoot][=to.hit]" : {tsitonk}
+# --------------------------------------------------------
 ! 
 | "[=tsivak][VRoot][=to.put.out, to.extinguish (ES: apagar (luz, cigarrillo, fuego))]" : {tsivak}
+# --------------------------------------------------------
 ! 
 | "[=tsiy+INF@aantsi.][VRoot][=to.heat (ES: calentar)]" : {tsiy}
 ! 
