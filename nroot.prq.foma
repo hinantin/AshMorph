@@ -989,7 +989,7 @@ define NRootPRQin [
 | "[=hankenavaerenti+~{'to.write':hankena}{DUR:vae}{NMZ:re}{NMZ:nti}][NRoot][=writer (ES: escritor)]" : {hankenavaerenti} ! N@->V::[=to.be.a.writer (ES: ser.escritor)] 
 # ------------------------------------------------------------------
 ! 
-| "[=haaka][NRoot][=full (ES: saturado, lleno)]" : {haaka}
+| "[=haaka][NRoot][=overstuffed.object, full (ES: saturado, lleno)]" : {haaka}
 # ------------------------------------------------------------------
 ! 
 | "[=haanaari][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]" : {haanaari}
