@@ -2891,8 +2891,8 @@ define VRootPRQin [
 | "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]" : {tsarov} ! V@->N::[=scare (ES: susto)]
 | "[=tsaav][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]" : {tsaav}
 ! 
-| "[=mintsarov+~min{M.CAUS:min}{'to.fear':tsarov}+INF@VC.][VRoot][=to.frighten (ES: asustar)]" : {mintsarov}
-| "[=omintsa][VRoot][=to.frighten (ES: hacer.asustar)]" : {omintsa}
+| "[=mintsarov+~{M.CAUS:min}{'to.fear':tsarov}+INF@VC.][VRoot][=to.frighten (ES: asustar)]" : {mintsarov}
+| "[=omintsa+~{M.CAUS:omin}{'to.fear':tsa/DEL:v/}][VRoot][=to.frighten (ES: hacer.asustar)]" : {omintsa}
 # ----------------------------------------------------------------------- 
 ! 
 | "[=tsaink][VRoot][=to.mock.sb. (ES: burlarse)]" : {tsaink}
