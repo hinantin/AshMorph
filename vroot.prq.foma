@@ -2990,16 +2990,21 @@ define VRootPRQin [
 # --------------------------------------------------------
 ! 
 | "[=tsiy+INF@aantsi.][VRoot][=to.heat (ES: calentar)]" : {tsiy}
+# --------------------------------------------------------
 ! 
 | "[=tsiyo+INF@/EP:t/aantsi.][VRoot][=to.give.off.light, to.light, to.light.up (ES: alumbrar)]" : {tsiyo}
 | "[=tsio+INF@/EP:t/aantsi.][VRoot][=to.give.off.light, to.light, to.light.up]" : {tsio}
+# --------------------------------------------------------
 ! 
 | "[=tsok+INF@antsi.][VRoot][=to.pull.out (ES: desyerbar/desherbar/deshierbar; cosechar.yuca/mavona)]" : {tsok}
+# --------------------------------------------------------
 ! 
 | "[=tsoka][VRoot][=to.strain.sth. (e.g.: manioc.mass)]" : {tsoka}
+# --------------------------------------------------------
 ! 
 | "[=tsokih][VRoot][=to.have.hiccups, to.hiccough (ES: tener.hipo)]" : {tsokih}
 | "[=tsokis][VRoot][=to.have.hiccups, to.hiccough (ES: tener.hipo)]" : {tsokis}
+# --------------------------------------------------------
 ! 
 | "[=tsonk+INF@antsi.][VRoot][=to.finish.(off) (ES: terminar)]" : {tsonk}
 | "[=tsonk+tot.redup@unb.copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonk}
