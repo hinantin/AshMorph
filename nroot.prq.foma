@@ -924,8 +924,8 @@ define NRootPRQin [
 | "[=etsi+gndr@m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus; PT: tatu); small.armadillo]" : {etsi}
 | "[=etini][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]" : {etini}
 | "[=eteni][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]" : {eteni}
-! 
 # ---------------------------------------------------------------------------------------
+! 
 | "[=etziki+gndr@n.m.][NRoot][=wild.fruit.sp. (ES: sp.de.fruta.silvestre, caimitillo)]" : {etziki}
 | "[=etiki+gndr@n.m.][NRoot][=wild.fruit.sp. (ES: sp.de.fruta.silvestre, caimitillo)]" : {etiki}
 | "[=etsiki][NRoot][=armadillo-fruit, curled_up.armadillo-like.fruit (ES: fruta.de.monte)]" : {etsiki}
@@ -938,6 +938,7 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 | "[=itsipa+gndr@m.][NRoot][=other, another]" : {itsipa}
+! 
 | "[=otsipa+gndr@n.m.][NRoot][=other, another]" : {otsipa}
 # ------------------------------------------------------------------
 ! 
