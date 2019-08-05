@@ -279,9 +279,9 @@ define NRootPRQin [
 # ---------------------------------------------------------------  
 ! 
 | "[=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {ani}
-| "[=anii+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law]" : {anii}
-| "[=aninko+gndr@m.+kin@male.ego][NRoot][=brother.in.law]" : {aninko} ! to be checked 
-| "[=aniinko+gndr@m.+kin@male.ego][NRoot][=brother.in.law]" : {aniinko} ! to be checked 
+| "[=anii+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {anii}
+| "[=aninko+gndr@m.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {aninko} ! to be checked 
+| "[=aniinko+gndr@m.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {aniinko} ! to be checked 
 # ---------------------------------------------------------------  
 ! 
 # ampatsaantsi / =ampatsaa -ntsi / =praise -nposs / EN: 'praise', ES: 'alabanza' 
