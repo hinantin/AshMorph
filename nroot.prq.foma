@@ -3736,8 +3736,8 @@ define NRootPRQin [
 | "[=niotya][NRoot][=person's.name; NP]" : {niotya}
 # ---------------------------------------------------------------------
 ! 
-| "[=noonki+gndr@m.][NRoot][=boa]" : {noonki}
-| "[=noonke+gndr@m.][NRoot][=boa]" : {noonke}
+| "[=noonki+gndr@m.][NRoot][=boa (ES: boa)]" : {noonki}
+| "[=noonke+gndr@m.][NRoot][=boa (ES: boa)]" : {noonke}
 # ---------------------------------------------------------------------
 ! 
 | "[=noshikari][NRoot][=crested.owl (ES: sp.de.búho; sci.nm.: lophostrix.cristata)]" : {noshikari}
