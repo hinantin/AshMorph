@@ -7073,7 +7073,9 @@ define NRootPRQin [
 # ----------------------------------------------------------------- 
 ! word set: medicinal plants
 | "[=taeri][NRoot][=amasisa, tree.sp.]" : {taeri}
+! 
 | "[=kanae][NRoot][=tangarana, tree.sp.]" : {kanae}
+! 
 | "[=tsirokitsa][NRoot][=renaquilla, parasitic.plant.sp.]" : {tsirokitsa}
 # ----------------------------------------------------------------- 
 ! 
