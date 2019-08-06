@@ -156,6 +156,7 @@ define N=S=CL [
 | "[--][-teaki][+CL:flower][=flower]" : {teaki} 
 | "[--][-tyaaki][+CL:flower][=flower]" : {tyaaki} 
 
+! tairipenki ??? 
 | "[--][-penki][+CL:flower][=flower]" : {penki} 
 | "[--][-pinki][+CL:flower][=flower]" : {pinki} 
 
