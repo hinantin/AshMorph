@@ -34,8 +34,8 @@ define NounToVerbPRQin [
 | "[=evonkiri+gndr@m.][NRoot][=medium; small (ES: mediano; pequeño)][^VBZ]" : {evonkiri} ! N@->V 
 | "[=hankenavaerenti+~{'to.write':hankena}{DUR:vae}{NMZ:re}{NMZ:nti}][NRoot][=writer (ES: escritor)]::[=to.be.a.writer (ES: ser.escritor)][^VBZ]" : {hankenavaerenti} ! N@->V::[=to.be.a.writer (ES: ser.escritor)] 
 | "[=hempeki][NRoot][=arm (ES: brazo); limb]::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)][^VBZ]" : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]
-| "[=horio+gndr@m.][NRoot][=jewish][^VBZ]" : {horio} ! N@->V
-| "[=horiiyo+gndr@m.][NRoot][=jewish][^VBZ]" : {horiiyo} ! N@->V
+| "[=horio/judío+gndr@m.][NRoot][=jewish][^VBZ]" : {horio} ! N@->V
+| "[=horiiyo/judío+gndr@m.][NRoot][=jewish][^VBZ]" : {horiiyo} ! N@->V
 | "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]::[=to.have.a.tumor (ES: tener.un.tumor)][^VBZ]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 | "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]::[=to.have.a.tumor (ES: tener.un.tumor)][^VBZ]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 | "[=intaina+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {intaina} ! N@->V ! revise if it belongs to this file 
