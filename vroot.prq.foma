@@ -1256,6 +1256,7 @@ define VRootPRQin [
 ! 
 | "[=koma+INF@/EP:t/aantsi.][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
 | "[=komaa+INF@/EP:t/aantsi.][VRoot][=to.row; to.paddle (ES: remar)]" : {komaa} 
+! 
 | "[=koma+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {kokoma} 
 #@PRTLREDUPCLASS01| "[=koma+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {koma} ! kokoma 
 | "[=koma+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[=to.row.a_lot (ES: remar.a_cada_rato)]" : {komakoma}
