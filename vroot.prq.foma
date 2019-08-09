@@ -1317,6 +1317,7 @@ define VRootPRQin [
 ! 
 | "[=kov+INF@antsi.][VRoot][=to.want (ES: querer)]" : {kov} ! @section:verb@ 
 | "[=ko+INF@antsi.][VRoot][=to.want (ES: querer)]" : {ko} 
+! 
 | "[=kov+prtl.redup@b.copy.][VRoot][=to.want (ES: querer)]::[=to.prefer.strongly]" : {kokov} 
 #@PRTLREDUPCLASS01| "[=kov+prtl.redup@b.copy.][VRoot][=to.want (ES: querer)]::[=to.prefer.strongly]" : {kov} ! kokov 
 | "[=kov+tot.redup@unb.copy.][VRoot][=to.want (ES: querer)]::[=to.search (ES: buscar)]" : {kovakova} ! to.be.checked!!! ! \cite{payne:axininca:81}[pag. 144]
