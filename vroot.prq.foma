@@ -1617,9 +1617,11 @@ define VRootPRQin [
 ! 
 | "[=anaa+INF@/EP:t/antsi.][VRoot][=to.chew (ES: masticar)]" : {anaa}
 | "[=naa+INF@/EP:t/aantsi.][VRoot][=to.chew (ES: masticar)]" : {naa}
+! 
 | "[=naa+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.chew (ES: masticar)]" : {naanaa}
 !###| "[no-][VPers][1SG.S/A+][--][=naa+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.chew (ES: masticar)]" : {nonaanonaa} ! @REDUP 
 #@TOTREDUPCLASS03| "[=naa+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.chew (ES: masticar)]" : {naa} ! nonaanonaa 
+! 
 | "[=noha+INF@/EP:t/aantsi.][VRoot][=to.chew (ES: masticar)]" : {noha}
 | "[=nashe+INF@/EP:t/aantsi.][VRoot][=to.chew (ES: masticar)]" : {nashe}
 ! 
@@ -1635,6 +1637,7 @@ define VRootPRQin [
 | "[=onory+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {onory}
 | "[=omary+INF@aantsi.][VRoot][=to.lay.sb./sth. (ES: acostar(se), echar(se))]" : {omary}
 | "[=nary][VRoot][=to.lie.prostrate]" : {nary}
+! 
 | "[=nari+tot.redup@unb.copy.][VRoot][=to.lie.(on.the.ground)]" : {narianaria}
 # ---------------------------------------------------------------------------- 
 ! 
@@ -1681,6 +1684,7 @@ define VRootPRQin [
 | "[=ny/ñ+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
 | "[=ne+INF@aantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ne}
 | "[=ni][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ni}
+! 
 | "[=ny/ñ+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyaanyaa}
 | "[=ny/ñ+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyanya}
 #@TOTREDUPCLASS02| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny} ! nyaanyaa nyanya
