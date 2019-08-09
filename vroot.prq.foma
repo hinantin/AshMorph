@@ -1632,7 +1632,7 @@ define VRootPRQin [
 !
 # ---------------------------------------------------------------------------- 
 | "[=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)]" : {nint} ! V@->N::[=love (ES: amor); lover (ES: enamorado)] 
-| "[=ninta][VRoot][=to.want]" : {ninta}
+| "[=ninta+INF@antsi.][VRoot][=to.want]" : {ninta}
 | "[=nint+INF@aantsi.][VRoot][=to.kiss (ES: besar)]" : {nint}
 | "[=nintat][VRoot][=to.kiss (ES: besar)]" : {nintat}
 | "[=nintatavak+INF@antsi.][VRoot][=to.kiss (ES: besar)]" : {nintatavak}
@@ -1674,6 +1674,7 @@ define VRootPRQin [
 ! 
 # ------------------------------------------------------------- 
 | "[=nyaama/ñaama+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)]" : {nyaama}
+!  
 | "[=neve+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {neve} 
 | "[=nevi+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {nevi} 
 | "[=nive+INF@/EP:t/aantsi.][VRoot][=to.like (ES: gustar)]" : {nive} 
@@ -1729,6 +1730,7 @@ define VRootPRQin [
 ! o- kirink(a) ... / 
 | "[=oirink+INF@aantsi.][VRoot][=to.go.down.quickly.(in.a.falling-like.manner) (ES: bajar.rápidamente.(como.cayendo)); to.lower]" : {oirink}
 | "[=oirink+prtl.redup@b.copy.][VRoot][=to.lower]" : {oirinkarink} ! \cite{payne:axininca:81}[pag. 144]
+! 
 !###| "[n-][VPers][1SG.S/A+][--][=oirink+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.lower (ES: bajarse.de.una.cumbre)]" : {noinoirinka} ! @REDUP
 !###| "[p-][VPers][2S/A+][--][=oirink+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.lower (ES: bajarse.de.una.cumbre)]" : {poipoirinka} ! @REDUP
 !###| "[y-][VPers][3m.S/A+][--][=oirink+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.lower (ES: bajarse.de.una.cumbre)]" : {yoiyoirinka} ! @REDUP 
