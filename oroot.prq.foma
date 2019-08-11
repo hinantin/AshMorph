@@ -149,7 +149,10 @@ define ORootPRQin [
 # ---------------------------------------------- 
 ! 
 | "[=intaani][OtherRoot][=only; solely]" : {intaani}
+# ---------------------------------------------- 
+! 
 | "[=intsitya][OtherRoot][=well]" : {intsitya}
+# ---------------------------------------------- 
 ! 
 | "[=intatsikero][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikero}
 | "[=intatikero][NRoot][=other.side (ES: otro.lado, otra.banda, otro.lado.del.río)]" : {intatikero}
