@@ -17,6 +17,7 @@ define ORootPRQin [
 | "[=apaniro][NRoot][=on.one's.own]" : {apaniro}
 | "[=apaniro][NRoot][=on.one's.own][--][-eni][+ADV]::[=solely]" : {apaniroeni}
 | "[=apaniro][NRoot][=on.one's.own][--][-ini][+ADV]::[=solely]" : {apaniroini}
+# ---------------------------------------------- 
 ! 
 # a / PP 
 | "[=a][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {atake} 
@@ -121,9 +122,11 @@ define ORootPRQin [
 # ----------------------------------------
 | "[=he][OtherRoot][=yes (ES: sí)]" : {he}
 | "[=hee][OtherRoot][=yes (ES: sí)]" : {hee}
+# ---------------------------------------------- 
 ! 
 | "[=ha][OtherRoot][=aha]" : {ha}
 | "[=aha][OtherRoot][=aha (affirmative.reaction.to.the.interlocutor's.statement)]" : {aha}
+# ---------------------------------------------- 
 ! 
 | "[=irotaki][PrnPers][+3SG.n.m.][--][=taima][+DUB]::[=is.that.right?]" : {irotakitaima}
 ! 
