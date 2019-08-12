@@ -96,7 +96,6 @@ define ORootPRQin [
 | "[=heri+m.][DetRoot][=DEM.ID][=here.you.are][--][-ka+proximal][Adv][+DEM]" : {herika} 
 | "[=heri+m.][DetRoot][=DEM.ID][=here.you.are][--][-ra+medial][Adv][+DEM]" : {herira} 
 | "[=heri+m.][DetRoot][=DEM.ID][=here.you.are][--][-nta+distal][Adv][+DEM]" : {herinta} 
-
 # -----------------------------------------
 ! 
 | "[=impoihi][ConnRoot][=after, later, afterwards]" : {impoihi}
@@ -105,6 +104,7 @@ define ORootPRQin [
 | "[=impoihinikea][ConnRoot][=after, later]" : {impoihinikea}
 | "[=impoohi][ConnRoot][=after, later]" : {impoohi}
 | "[=impohi][ConnRoot][=after, later]" : {impohi}
+# -----------------------------------------
 ! 
 # *) jatanake anta irotaintsi areetearo otsapiki ontsonkanteari 
 #    hatanake anta irotaintsi areetearo otsapiki ontsonkanteari 
