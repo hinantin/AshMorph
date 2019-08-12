@@ -113,14 +113,13 @@ define ORootPRQin [
 | "[=irotaintsi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía))]" : {irotaintsi}
 | "[=irootaintsi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía),, casi.está.por, pronto.estará, cerca.está)]" : {irootaintsi}
 | "[=irotaentsi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía))]" : {irotaentsi}
-| "[=iroovetaincha][ConnRoot][=CONN (ES: casi.(muy.cerca))]" : {iroovetaincha}
+| "[=iroovetaincha][ConnRoot][=CONN: (ES: casi.(muy.cerca))]" : {iroovetaincha}
 # -----------------------------------------
 ! 
 | "[=irompa][ConnRoot][=although, though (ES: aunque)]" : {irompa}
+# ----------------------------------------
 ! 
-# ----------------------------------------
 # Validation response 
-# ----------------------------------------
 | "[=he][OtherRoot][=yes (ES: sí)]" : {he}
 | "[=hee][OtherRoot][=yes (ES: sí)]" : {hee}
 # ---------------------------------------------- 
