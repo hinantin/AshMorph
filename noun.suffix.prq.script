@@ -757,8 +757,6 @@ define N=S=TEMPORALEXIST [
   "[--][-ni][TENSE][=ceased.exist., deceased]" : [{ni}]
 ];
                    
-# ****************************************
-                   
 define N=S=TEMPORALR [
   "[--][-nta][TENSE][=ceased.r., ceased.relation.with.a.human.referent]" : [{nta}]
 ];
