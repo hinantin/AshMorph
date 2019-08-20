@@ -582,7 +582,7 @@ define N=S=CL [
 ! ovayeriite / =ovayeri -ite / =warrior -cl:anim.PL / ES: 'ronderos'; EN: 'warriors' \cite[p.VIII]{sarmiento:asaiki:11} 
 ! acharineite / a- =charine -ite / 1pl.poss- =grandparents -cl:anim.PL / EN: 'our.ancestors, our.grandparents, the.ancients'; ES: 'los.antiguos, los.abuelos' \cite[p.VII]{sarmiento:asaiki:11}  
 | "[--][-ite][+CL:anim.PL][=animate,plural]" : {ite} !  -ite 'animate.classifier' \cite[p.93]{aikhenvald:neg:14} 
-| "[--][-i^te][+CL:anim.PL][=animate,plural]" : "@I@"{te}
+| "[--][-/DEL:i/te][+CL:anim.PL][=animate,plural]" : "@I@"{te}
 #-----------------------------------------------
 ! kamonapata / =kamona -pata / =pona-palm.tree.sp. -cl:long.tool / ES: 'removedor.de.tierra.hecho.de.pona.dura'  
 ! quiripata / kiripata / =kiri -pata / =pifayo-palm.tree.sp. -cl:long.tool / ES: 'pedazo.de.pifayo.usado.para.tejer'  
