@@ -87,6 +87,11 @@ Don't know how or want to install it?
 
 Then test it on-line at https://hinant.in/
 
+Spell-checking
+================
+
+It will be published soon.
+
 For more information
 ====================
 
