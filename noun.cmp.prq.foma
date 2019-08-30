@@ -31,8 +31,8 @@ define NRootCmpPRQin [
 | "[--][=panko+gndr@n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP @VCMP 
 | "[--][=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 | "[--][=peshi+gndr@n.m.+inal@tsi.][NRoot][=shoot (ES: retoño); stalk.of.a.plant, cluster, the.part.of.the.banana_plant.that.is.planted]" : {peshi} ! @CMP 
-| "[--][=peyari+gndr@m.][NRoot][=ghost; demon; bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 
-| "[--][=piyari+gndr@m.][NRoot][=ghost; demon; bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {piyari} ! @CMP 
+| "[--][=peyari+gndr@m.][NRoot][=ghost; demon; (forest).bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 
+| "[--][=piyari+gndr@m.][NRoot][=ghost; demon; (forest).bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {piyari} ! @CMP 
 | "[--][=pira+gndr@m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
 | "[--][=pori+gndr@n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
 | "[--][=poro+gndr@n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
