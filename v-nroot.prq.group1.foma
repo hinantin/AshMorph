@@ -18,7 +18,7 @@ define VerbToNounPRQin [
 | "[=koshi+INF@/EP:t/aantsi.][VRoot][=to.steal; to.rob (ES: robar)]::[=profit (ES: lucro)][^NMZ]" : {koshi} ! V@->N::[=profit (ES: lucro)] 
 | "[=mahere+INF/EP:t/aantsi.][VRoot][=to.be.silent (ES: callar)]::[=silence (ES: silencio)][^NMZ]" : {mahere} ! V@->N::[=silence (ES: silencio)] 
 | "[=pampoy+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]::[=song (ES: canción)][^NMZ]" : {pampoy} ! V@->N::[=song (ES: canción)] 
-| "[=pants+INF@agaantsi:(a)antsi.][VRoot][=to.sing.(a.shamanic.song) (ES: cantar)]::[=singing][^NMZ]" : {pants} ! V@->N::[=singing] 
+| "[=pants+INF@agaantsi:(a)antsi.][VRoot][=to.sing.(a.shamanic.song) (ES: cantar)]::[=(individual).singing][^NMZ]" : {pants} ! V@->N::[=(individual).singing] 
 | "[=mana+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: luchar)]::[=fighting (ES: lucha, enfrentamiento)][^NMZ]" : {mana} ! V@->N::[=fighting (ES: lucha, enfrentamiento)] 
 | "[=matsi+INF@/EP:t/(a)antsi.][VRoot][=to.cast.spell.on.sb./sth. (ES: embrujar)]::[=witchcraft (ES: brujería)][^NMZ]" : {matsi} ! V@->N::[=witchcraft (ES: brujería)] 
 | "[=mire+INF/EP:t/aantsi.+A-Conj@mid.v.][VRoot][=to.be.thirsty (ES: tener.sed)]::[=thirst (ES: sed)][^NMZ]" : {mire} ! V@->N::[=thirst (ES: sed)]  
@@ -39,4 +39,5 @@ define VerbToNounPRQin [
 | "[=tyoonk+INF@(a)antsi.][VRoot][=to.bathe.in.steam]::[=treatment (ES: evaporación)][^NMZ]" : {tyoonk} ! V@->N::[=treatment (ES: evaporación)] 
 | "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
 | "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
+| "[=vishiri+INF@antsi.][VRoot][=to.sing-and-dance.together (ES: cantar-y-bailar.juntos)]::[=collective.singing.combined.with.dancing][^NMZ]" : {vishiri} ! V@->N::[=collective.singing.combined.with.dancing]  
 ];
