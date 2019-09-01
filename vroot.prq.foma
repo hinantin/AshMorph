@@ -1413,8 +1413,8 @@ define VRootPRQin [
 ! 
 | "[=pampits][VRoot][=to.sing (ES: cantar)]" : {pampits}
 ! 
-| "[=pants+INF@agaantsi:(a)antsi.][VRoot][=to.sing.(a.shamanic.song) (ES: cantar)]" : {pants} ! V@->N::[=(individual).singing] 
-| "[=pantsa+INF@/DEL:a/ntsi:antsi.][VRoot][=to.sing.(a.shamanic.song) (ES: cantar); to.sing.individually]" : {pantsa}
+| "[=pants+INF@agaantsi:(a)antsi.][VRoot][=to.sing.(a.shamanic.song.individually) (ES: cantar)]" : {pants} ! V@->N::[=(individual).singing] 
+| "[=pantsa+INF@/DEL:a/ntsi:antsi.][VRoot][=to.sing.(a.shamanic.song.individually) (ES: cantar); to.sing.individually]" : {pantsa}
 | "[=pantsag+INF@aantsi.][VRoot][=to.sing (ES: cantar)]" : {pantsag}
 # --------------------------------------------------------- 
 ! 
@@ -3244,7 +3244,7 @@ define VRootPRQin [
 | "[=vashi][VRoot][=to.get.glad (ES: alegrarse)]" : {vashi} ! to be checked, only one occurrence 
 # --------------------------------------------------------------------------- 
 ! 
-| "[=vishiri+INF@antsi.][VRoot][=to.sing-and-dance.together (ES: cantar-y-bailar.juntos)]" : {vishiri} ! V@->N::[=collective.singing.combined.with.dancing]  
+| "[=vishiri+INF@antsi.][VRoot][=to.sing-and-dance.together/collectively (ES: cantar-y-bailar.juntos)]" : {vishiri} ! V@->N::[=collective.singing.combined.with.dancing]  
 # --------------------------------------------------------------------------- 
 ! 
 | "[=viri][VRoot][=to.cut.sth.into.pieces]" : {viri}
