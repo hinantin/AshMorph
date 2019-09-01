@@ -1,7 +1,10 @@
 define ORootPRQin [
-! 
+! COMMOM VOCABLES 
   "[=ma][Vocable][=VOC]" : {ma}
 | "[=na][Vocable][=VOC]" : {na}
+| "[=ya][Vocable][=VOC]" : {ya}
+| "[=ra][Vocable][=VOC]" : {ra}
+| "[=ni][Vocable][=VOC]" : {ni}
 | "[=me][Vocable][=VOC]" : {me}
 # ---------------------------------------------- 
 ! 
