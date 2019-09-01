@@ -6636,7 +6636,10 @@ define NRootPRQin [
 | "[=tsima][NRoot][=wood (ES: madera)]" : {tsima} 
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsimanto+gndr@n.m.][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo)]" : {tsimanto} 
+| "[=tsimanto+gndr@n.m.][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimanto} 
+| "[=tsimantyo+gndr@n.m.][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimantyo} 
+| "[=tsimantoki+gndr@n.m.][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimantoki} 
+| "[=tsimantyoki+gndr@n.m.][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimantyoki} 
 # ------------------------------------------------------------------------------
 ! 
 | "[=tsitsimentaki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {tsitsimentaki} 
