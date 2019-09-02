@@ -343,3 +343,14 @@ define ConnRootPRQ01in [
 | "[=ovakerate][NRoot][=new (ES: nuevo)]" : {ovakerate}
 
 ];
+
+define Vocable [
+! COMMOM VOCABLES 
+! eero=ma=tyami
+  "[=ma][Vocable][=VOC]" : {ma}
+| "[=na][Vocable][=VOC]" : {na}
+| "[=ya][Vocable][=VOC]" : {ya}
+| "[=ra][Vocable][=VOC]" : {ra}
+| "[=ni][Vocable][=VOC]" : {ni}
+| "[=me][Vocable][=VOC]" : {me}
+];
