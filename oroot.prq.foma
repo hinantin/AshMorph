@@ -348,9 +348,10 @@ define Vocable [
 ! COMMOM VOCABLES 
 ! eero=ma=tyami
   "[=ma][Vocable][=VOC]" : {ma}
-| "[=na][Vocable][=VOC]" : {na}
+| "[=na+unstressed][Vocable][=VOC]" : {na}
 | "[=ya][Vocable][=VOC]" : {ya}
 | "[=ra][Vocable][=VOC]" : {ra}
 | "[=ni][Vocable][=VOC]" : {ni}
 | "[=me][Vocable][=VOC]" : {me}
+| "[=mi+unstressed][Vocable][=VOC]" : {mi}
 ];
