@@ -1,6 +1,5 @@
 define ORootPRQin [
-! These are suffixes.
-! eero=ma=tyami
+! These are independent entities. 
 ! COMMOM VOCABLES 
   "[=ma][Vocable][=VOC]" : {ma}
 | "[=na][Vocable][=VOC]" : {na}
@@ -344,7 +343,7 @@ define ConnRootPRQ01in [
 
 ];
 
-! verbal suffix ?
+! As verbal suffixes 
 define Vocable [
 ! COMMOM VOCABLES 
 ! eero=ma=tyami
