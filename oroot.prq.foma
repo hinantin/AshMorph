@@ -347,6 +347,7 @@ define ConnRootPRQ01in [
 define Vocable [
 ! COMMOM VOCABLES 
 ! eero=ma=tyami
+! i-viya-a-ro=mi=na
   "[=ma][Vocable][=VOC]" : {ma}
 | "[=na+unstressed][Vocable][=VOC]" : {na}
 | "[=ya][Vocable][=VOC]" : {ya}
