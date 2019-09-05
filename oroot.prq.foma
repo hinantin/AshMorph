@@ -344,7 +344,7 @@ define ConnRootPRQ01in [
 ];
 
 ! As verbal suffixes 
-define Vocable [
+define VOCSUFF [
 ! COMMOM VOCABLES 
 ! eero=ma=tyami
 ! i-viya-a-ro=mi=na
