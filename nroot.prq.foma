@@ -1375,7 +1375,8 @@ define NRootPRQin [
 | "[=katimaropa][NRoot][=banana.sp. (ES: plátano.de.isla)]" : {katimaropa}
 # ---------------------------------------------------------------------
 ! 
-| "[=katonko.][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} 
+! poss -te has to be checked, only 1 ocurrence 
+| "[=katonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} 
 | "[=katonka][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonka} 
 | "[=katyonkohi~ka{E.PAL.:ty}onko{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {katyonkohi} 
 | "[=kationkohi~ka{E.PAL.:ti}onko{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {kationkohi} 
