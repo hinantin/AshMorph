@@ -25,7 +25,7 @@
 #    +kin@mother's.side:male.ego (EN: mother's.side: kin.of.a.male, male.ego)
 #    +kin@fe/male.ego (EN: kin.of.a.fe/male) 
 # 6: +sem@healer.
-#    semantic tags
+#    semantic tags to group entries 
 
 define NRootPRQin [
   "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather]" : {ani} ! N@->V @VCMP 
