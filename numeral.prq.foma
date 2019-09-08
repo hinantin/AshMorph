@@ -1,7 +1,7 @@
 define NumeralPRQin [
 # 1 
   "[=apa][Numeral:PRQ][=1 ~ one (ES: uno)]" : {apa}
-| "[=aparo][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparo}
+| "[=aparo+~{'one':apa}{NMZ:ro}][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparo}
 | "[=aparoni][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparoni} ! N@->V
 | "[=apani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {apani} 
 | "[=pani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {pani} ! @CMP 
@@ -27,7 +27,7 @@ define NumeralPRQin [
 | "[=cinco][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {cinco}
 ! apabakoro / =apa -pako -ro / =one -cl:your.hand -nmz / EN. 'cinco'; ES: 'five' 
 | "[=apavakoro+~{'one':apa}{'hand':vako}{NMZ:ro}][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apavakoro} ! source:IIAP
-| "[=apapokoroni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapokoroni}
+| "[=apapokoroni+~{'one':apa}{'hand?':poko}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapokoroni}
 | "[=apapakoroni+~{'one':apa}{'hand':pako}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapakoroni}
 | "[=koni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {koni} ! @CMP 
 | "[=apapako+~{'one':apa}{'hand':pako}][Numeral][=5 ~ five (ES: cinco)]" : {apapako}
