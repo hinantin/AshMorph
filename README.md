@@ -1,9 +1,11 @@
 Ashaninka-Morph
 ===============
 
-This is a morphological analyzer for pan-Ashaninka (general term used to refer to the cluster of Arawak-dialects spoken in Peru and Acre-Brazil, the aforementioned cluster specifically comprises Ashéninka Pichis (Pi), Alto Perené (Pe), Ashéninka Pajonal (Paj), Ucayali-Yurua Ashéninka (U-Y), Ajyininka (or Ashéninka) Apucurayali (Apu), Ashaninka (Asha)) written using Xerox finite state technology with a quadrilingual lexicon (Ashaninka, English, Spanish and Portuguese).
+This is a morphological analyzer for pan-Ashaninka written using Xerox finite state technology with a quadrilingual lexicon (Ashaninka, English, Spanish and Portuguese).
 
-Ashaninka is a polysynthetic and head-marking language spoken in the central adjoining Amazonian regions between Peru and Brazil (Acre State).
+Pan-Ashaninka is the general term used to refer to the cluster of Arawak-dialects spoken in Peru and Acre-Brazil, the aforementioned cluster specifically comprises Ashéninka Pichis (Pi), Alto Perené (Pe), Ashéninka Pajonal (Paj), Ucayali-Yurua Ashéninka (U-Y), Ajyininka (or Ashéninka) Apucurayali (Apu), Ashaninka (Asha).
+
+Pan-Ashaninka is a polysynthetic and head-marking language spoken in the central adjoining Amazonian regions between Peru and Brazil (Acre State).
 It is spoken by approximately 70,000 people (2002), making it the third most widely spoken indigenous language of the Americas.
 
 #### Polysynthetic  
