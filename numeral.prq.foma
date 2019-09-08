@@ -2,7 +2,7 @@ define NumeralPRQin [
 # 1 
   "[=apa][Numeral:PRQ][=1 ~ one (ES: uno)]" : {apa}
 | "[=aparo+~{'one':apa}{NMZ:ro}][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparo}
-| "[=aparoni][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparoni} ! N@->V
+| "[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparoni} ! N@->V
 | "[=apani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {apani} 
 | "[=pani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {pani} ! @CMP 
 ! 
