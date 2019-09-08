@@ -26,11 +26,11 @@ define NumeralPRQin [
 # 5 
 | "[=cinco][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {cinco}
 ! apabakoro / =apa -pako -ro / =one -cl:your.hand -nmz / EN. 'cinco'; ES: 'five' 
-| "[=apavakoro][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apavakoro} ! source:IIAP
+| "[=apavakoro+~{'one':apa}{'hand':vako}{NMZ:ro}][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apavakoro} ! source:IIAP
 | "[=apapokoroni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapokoroni}
 | "[=apapakoroni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapakoroni}
 | "[=koni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {koni} ! @CMP 
-| "[=apapako][Numeral][=5 ~ five (ES: cinco)]" : {apapako}
+| "[=apapako+~{'one':apa}{'hand':pako}][Numeral][=5 ~ five (ES: cinco)]" : {apapako}
 ! 
 # 6 
 | "[=oihatzirori][Numeral:PRQ][=6 ~ six (ES: seis)]" : {oihatzirori}
