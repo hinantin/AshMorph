@@ -32,13 +32,13 @@
 define NRootPRQin [
   "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather (ES: abuelo; PT: avô; IT: nonno)]" : {ani} ! N@->V @VCMP 
 | "[=aani+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto; PT: neto; IT: nipote)]" : {aani} ! N@->V @VCMP 
-| "[=aane+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
+| "[=aane+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto; PT: neto; IT: nipote)]" : {aane} ! N@->V @VCMP 
 # --------------------------------------------------------------------
 ! 
 | "[=aaniri+gndr@m.+inal@ntsi.][NRoot][=orphan (ES: huérfano; PT: órfão; IT: orfano)]" : {aaniri} 
 # --------------------------------------------------------------------
 ! 
-| "[=aapi+gndr@m.+poss@ti.+kin@fem.ego][NRoot][=elder, grandfather]" : {aapi} ! N@->V 
+| "[=aapi+gndr@m.+poss@ti.+kin@fem.ego][NRoot][=elder, grandfather (ES: abuelo; PT: avô; IT: nonno)]" : {aapi} ! N@->V 
 # --------------------------------------------------------------------
 ! 
 | "[=achakova+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {achakova} 
