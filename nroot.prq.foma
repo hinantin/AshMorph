@@ -27,13 +27,15 @@
 # 6: +sem@healer.
 #    semantic tags to group entries 
 
+# LEXICON TRANSLATION-LANGUAGES : EN (ENGLISH default), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
+
 define NRootPRQin [
   "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather]" : {ani} ! N@->V @VCMP 
 | "[=aani+gndr@m.+kin@male.ego][NRoot][=grandseer, grandfather; grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
 | "[=aane+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
 # --------------------------------------------------------------------
 ! 
-| "[=aaniri+gndr@m.+inal@ntsi.][NRoot][=orphan (ES: huérfano)]" : {aaniri} 
+| "[=aaniri+gndr@m.+inal@ntsi.][NRoot][=orphan (ES: huérfano; PT: órfão; IT: orfano)]" : {aaniri} 
 # --------------------------------------------------------------------
 ! 
 | "[=aapi+gndr@m.+poss@ti.+kin@fem.ego][NRoot][=elder, grandfather]" : {aapi} ! N@->V 
