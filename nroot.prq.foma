@@ -31,7 +31,7 @@
 
 define NRootPRQin [
   "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather (ES: abuelo; PT: avô; IT: nonno)]" : {ani} ! N@->V @VCMP 
-| "[=aani+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto)]" : {aani} ! N@->V @VCMP 
+| "[=aani+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto; PT: neto; IT: nipote)]" : {aani} ! N@->V @VCMP 
 | "[=aane+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto)]" : {aane} ! N@->V @VCMP 
 # --------------------------------------------------------------------
 ! 
