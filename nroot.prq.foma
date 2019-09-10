@@ -27,10 +27,10 @@
 # 6: +sem@healer.
 #    semantic tags to group entries 
 
-# LEXICON TRANSLATION-LANGUAGES : EN (ENGLISH default), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
+# LEXICON TRANSLATION-LANGUAGES : pan-Ashanika; EN (ENGLISH default), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
 
 define NRootPRQin [
-  "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather (ES: abuelo; PT: avô; IT: nonno)]" : {ani} ! N@->V @VCMP @section:noun@ 
+  "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather (ES: abuelo; PT: avô; IT: nonno);| grandson (ES: nieto; PT: neto; IT: nipote)]" : {ani} ! N@->V @VCMP @section:noun@ 
 | "[=aani+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto; PT: neto; IT: nipote)]" : {aani} ! N@->V @VCMP 
 | "[=aane+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto; PT: neto; IT: nipote)]" : {aane} ! N@->V @VCMP 
 # --------------------------------------------------------------------
