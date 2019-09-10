@@ -1233,7 +1233,7 @@ define NRootPRQin [
 ! 
 | "[=inchapontso+~{'plant':incha}{CL:/'sharpless.edge':pontso/}][NRoot][=stake (ES: estaca)]" : {inchapontso} 
 ! 
-| "[=inchato+~{'plant':incha}{CL:/'tree':to/}+gndr@n.m.][NRoot][=tree (ES: árbol)]" : {inchato} 
+| "[=inchato+~{'plant':incha}{CL:/'tree':to/}+gndr@n.m.][NRoot][=tree (ES: árbol)]" : {inchato} ! @section:noun@ 
 | "[=iNtxato/ĩtxato+~{'plant':intxa}{CL:/'tree':to/}+gndr@n.m.][NRoot:CPB][=tree (ES: árbol; PT: árvore)]" : [{ĩtxato}|{itxato}]
 ! 
 | "[=inchatomashi+~{'plant':incha}{CL:/'tree':to/}{CL:/'wide,flat.space':mashi/}][NRoot][=shrub (ES: arbusto)]" : {inchatomashi} 
