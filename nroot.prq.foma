@@ -30,7 +30,7 @@
 # LEXICON TRANSLATION-LANGUAGES : EN (ENGLISH default), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
 
 define NRootPRQin [
-  "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather (ES: abuelo; PT: avô; IT: nonno)]" : {ani} ! N@->V @VCMP 
+  "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather (ES: abuelo; PT: avô; IT: nonno)]" : {ani} ! N@->V @VCMP @section:noun@ 
 | "[=aani+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto; PT: neto; IT: nipote)]" : {aani} ! N@->V @VCMP 
 | "[=aane+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto; PT: neto; IT: nipote)]" : {aane} ! N@->V @VCMP 
 # --------------------------------------------------------------------
@@ -44,7 +44,7 @@ define NRootPRQin [
 | "[=achakova+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; PT: espécies.de.peixe; IT: specie.di.pesce)]" : {achakova} 
 # --------------------------------------------------------------------
 ! 
-| "[=achama+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {achama} 
+| "[=achama+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano; PT: espécies.de.verme; IT: specie.di.worm)]" : {achama} 
 | "[=achaama+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {achaama} 
 # --------------------------------------------------------------------
 ! 
