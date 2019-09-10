@@ -223,7 +223,7 @@ define NRootPRQin [
 | "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano; PT: mão)]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
 | "[=vako][NRoot][=hand (ES: mano; PT: mão)]" : {vako} ! @VCMP 
 ! 
-| "[=akoimpeki+~{'hand':ako}{CL:/'branching.from.one.node':impeki/}+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpeki}
+| "[=akoimpeki+~{'hand':ako}{CL:/'branching.from.one.node':impeki/}+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpeki} ! @section:noun@ 
 | "[=akoimpiki+~{'hand':ako}{CL:/'branching.from.one.node':impiki/}+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpiki}
 ! 
 | "[=akopero][NRoot][=wrist (ES: mano.derecha)]" : {akopero}
@@ -1267,7 +1267,7 @@ define NRootPRQin [
 | "[=inkaare+gndr@n.m.][NRoot][=lake, cocha (QU: qucha; ES: laguna)]" : {inkaare}
 | "[=inkahare+~{'rain':inka}{CL:/'liquid':ha/}{NMZ:re}][NRoot][=lagoon]" : {inkahare}
 ! 
-| "[=inkanya/inkaña+~{'rain':inka}{CL:/'small.shallow.pool.of.water':nya/}+gndr@n.m.][NRoot][=intermittent.rain-water.well (ES: pozo.intermitente.de.agua.de.lluvia)]" : {inkanya}
+| "[=inkanya/inkaña+~{'rain':inka}{CL:/'small.shallow.pool.of.water':nya/}+gndr@n.m.][NRoot][=intermittent.rain-water.well (ES: pozo.intermitente.de.agua.de.lluvia)]" : {inkanya} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=inkite+gndr@n.m.][NRoot][=sky (ES: cielo; PT: céu; QU: hanaq.pacha);| firmament]" : {inkite} ! @section:noun@ 
@@ -3089,13 +3089,14 @@ define NRootPRQin [
 # -----------------------------------------------------------------------
 ! 
 | "[=mapaa+gndr@n.m.+poss@ni.][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapaa}
-| "[=mapa+gndr@n.m.+poss@ni.][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapa}
+| "[=mapa+gndr@n.m.+poss@ni.][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapa} ! @section:noun@ 
 # -----------------------------------------------------------------------
 ! 
 # nomapikitakero / no- =mapi -ki -t-ak -e -ro / 1sg.a- =stone -cl:small,round -ep -prf -irr -3n.m.o / EN: 'fixing.pebbles/sinker-like_pebbles.in.sth. (i.e.: a.fish_trap)', ES: 'fijar piedrecitas/guijarros en algo (por ejemplo: en la red)'
 | "[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone; rock]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
 | "[=mapiki+gndr@n.m.][NRoot][=pebble (ES: piedra.chica; PT: seixo)]" : {mapiki} 
-!| "[=mapipooki+gndr@n.m.][NRoot][=stony.ground (ES: pedregal, cascajal)]" : {mapipooki} ! @section:noun@ 
+!| "[=mapipooki+~{'stone':mapi}{CL:/'group.of.tiny.objects':pooki/}+gndr@n.m.][NRoot][=stony.ground (ES: pedregal, cascajal)]" : {mapipooki} ! @section:noun@ 
+!| "[=mapiporoki+~{'stone':mapi}{CL:/'assortment':poroki/}+gndr@n.m.][NRoot][=stone.pile (ES: pedregal)]" : {mapiporoki} ! @section:noun@ 
 # -----------------------------------------------------------------------
 ! 
 | "[=mapichiri][NRoot][=boa (ES: boa); aquatic.snake (ES: serpiente.acuática, anaconda.de.color.marrón-verde.oliva.con.pequeñas.manchas.negras.y.amarillas; sci.nm.: eunectes.murinus)]" : {mapichiri}
