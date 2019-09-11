@@ -2613,7 +2613,8 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=konyapi/koñapi][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod; barbasco, vegetable.poison.root (sci.nm.: lonchocarpus.nicou)]" : {konyapi}
-| "[=konyampi/koñampi+~{'to.appear':konya}{'herb':/DEL:a/mpi}][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod; barbasco, vegetable.poison.root (sci.nm.: lonchocarpus.nicou)]" : {konyampi}
+| "[=konyampi/koñampi+~{V:/'to.appear':konya/}{'herb':/DEL:a/mpi}][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod; barbasco, vegetable.poison.root (sci.nm.: lonchocarpus.nicou)]" : {konyampi}
+!| "[=konatsapiyare+~{V:/'to.appear':kona/}{CL:/'side.of.river':tsapiya/}{NMZ:re}+inal@ntsi.][NRoot][=activity.of.fishing.with.barbasco.at.the.bank.of.the.river (ES: pesca.nocturna.con.barbasco.a.orillas.del.río)]" : {konatsapiyare} ! @section:noun@ 
 # ---------------------------------------------------------------------------
 ! 
 | "[=konoya+gndr@m.][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]" : {konoya}
