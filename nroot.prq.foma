@@ -1251,6 +1251,8 @@ define NRootPRQin [
 | "[=inchashinari+~{N:/'plant':incha/}{CL:/'leaf':shi/}{CL:/'user.of.sth.':nari/}+sem@healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
 ! inchateaki / =incha -teaki / =plant -cl:flower / ES: 'flor.de.árbol' 
 !| "[=inchateaki+~{N:/'plant':incha/}{CL:/'teaki':flower/}][NRoot][=tree.flower (ES: flor.de.árbol)]" : {inchateaki} ! @section:noun@ 
+! santotea / =santo -tea / =saint -cl:flower / EN: 'sacred.flower'; ES: 'flores.sagradas' 
+!| "[=santotea+~{N:/'saint':santo/}{CL:/'tea':flower/}][NRoot][=sacred.flower (ES: flor.sagrada)]" : {santotea} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
