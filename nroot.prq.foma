@@ -1238,17 +1238,17 @@ define NRootPRQin [
 ! 
 | "[=inchatomashi+~{'plant':incha}{CL:/'tree':to/}{CL:/'wide,flat.space':mashi/}][NRoot][=shrub (ES: arbusto)]" : {inchatomashi} 
 ! 
-| "[=inchatonaki+~{'plant':incha}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot][=big.traditional.fishing.boat;| plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {inchatonaki} ! @section:noun@ 
-| "[=intxatonaki+~{'plant':intxa}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot:CPB][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {intxatonaki} 
+| "[=inchatonaki+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot][=big.traditional.fishing.boat;| plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {inchatonaki} ! @section:noun@ 
+| "[=intxatonaki+~{N:/'plant':intxa/}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot:CPB][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {intxatonaki} 
 ! 
-| "[=inchatoshi+~{'plant':incha}{CL:/'tree':to/}{CL:/'leaf':shi/}][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
-!| "[=inchatoshisati+~{'plant':incha}{CL:/'tree':to/}{CL:/'leaf':shi/}{CL:/'provenance':sati/}][NRoot][=amazon.region;| amazon.forest;| amazonian]" : {inchatoshisati} ! @section:noun@ 
+| "[=inchatoshi+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'leaf':shi/}][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
+!| "[=inchatoshisati+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'leaf':shi/}{CL:/'provenance':sati/}][NRoot][=amazon.region;| amazon.forest;| amazonian]" : {inchatoshisati} ! @section:noun@ 
 ! 
-| "[=inchashi+~{'plant':incha}{CL:/'leaf':shi/}+gndr@n.m.+poss@ri:te.][NRoot][=herb (ES: hierba); shrubs; weeds (ES: maleza); medicinal.plant (ES: planta.curativa)]" : {inchashi}
-| "[=intxashi+~{'plant':intxa}{CL:/'leaf':shi/}][NRoot:CPB][=herb.with.therapeutic.properties; medicinal.plant (ES: planta.curativa)]" : {intxashi}
+| "[=inchashi+~{N:/'plant':incha/}{CL:/'leaf':shi/}+gndr@n.m.+poss@ri:te.][NRoot][=herb (ES: hierba); shrubs; weeds (ES: maleza); medicinal.plant (ES: planta.curativa)]" : {inchashi}
+| "[=intxashi+~{N:/'plant':intxa/}{CL:/'leaf':shi/}][NRoot:CPB][=herb.with.therapeutic.properties; medicinal.plant (ES: planta.curativa)]" : {intxashi}
 ! 
 # ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
-| "[=inchashinari+~{'plant':incha}{CL:/'leaf':shi/}{CL:/'user.of.sth.':nari/}+sem@healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
+| "[=inchashinari+~{N:/'plant':incha/}{CL:/'leaf':shi/}{CL:/'user.of.sth.':nari/}+sem@healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
 # ---------------------------------------------------------------------
 ! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
@@ -3699,7 +3699,7 @@ define NRootPRQin [
 | "[=hinyaateni/hiñaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaateni}
 | "[=hinyaatini/hiñaatini][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaatini}
 | "[=nyaateni/ñaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nyaateni}
-!| "[=nihaveri+gndr@m.][NRoot][=water.sprite]" : {nihaveri} ! @section:noun@ 
+!| "[=nihaveri+~{N:/'water':niha/}{CL:/'agentive':veri/}+gndr@m.][NRoot][=water.sprite]" : {nihaveri} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=niivotya][NRoot][=NP; person's.name]" : {niivotya}
