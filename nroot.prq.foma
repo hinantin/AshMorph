@@ -1249,6 +1249,8 @@ define NRootPRQin [
 ! 
 # ES: persona herbolaria que cura las enfermedades a través de plantas medicinales.
 | "[=inchashinari+~{N:/'plant':incha/}{CL:/'leaf':shi/}{CL:/'user.of.sth.':nari/}+sem@healer][NRoot][=herbalist.who.cures.diseases.using.medicinal.plants]" : {inchashinari}
+! inchateaki / =incha -teaki / =plant -cl:flower / ES: 'flor.de.árbol' 
+!| "[=inchateaki+~{N:/'plant':incha/}{CL:/'teaki':flower/}][NRoot][=tree.flower (ES: flor.de.árbol)]" : {inchateaki} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
@@ -5280,7 +5282,7 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=hani+gndr@m.][NRoot][=wasp (ES: avispa)]" : {hani}
-| "[=sani+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sani} 
+| "[=sani+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sani} ! @section:noun@ 
 | "[=sane+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sane}
 | "[=sanii+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
 # ------------------------------------------------------------
@@ -6545,7 +6547,7 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------ 
 ! female, woman
 | "[=tsinani+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl]" : {tsinani} ! N@->V
-| "[=tsinane+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl]" : {tsinane} ! N@->V
+| "[=tsinane+gndr@n.m.][NRoot][=female, woman (ES: mujer);| young.girl]" : {tsinane} ! N@->V @section:noun@ 
 | "[=tzinani+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl]" : {tzinani} ! N@->V
 | "[=tsinãni+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl]" : {tsinãni} ! N@->V
 # ------------------------------------------------------------------------------ 
