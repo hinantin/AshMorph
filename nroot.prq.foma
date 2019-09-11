@@ -5892,7 +5892,8 @@ define NRootPRQin [
 | "[=shitoovi+gndr@n.m.+poss@te.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]" : {shitoovi}
 # ------------------------------------------------------------
 ! 
-| "[=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de.lombriz.de.tierra/instestinal)]" : {shitsa} ! N@->V 
+| "[=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de.lombriz.de.tierra/instestinal)]" : {shitsa} ! N@->V
+!| "[=shitsapaereki+~{N:/'vine':shitsa/}{CL:/'root':paere/}{CL:/'stick-like':ki/}][NRoot][=tree.root (ES: raíz)]" : {shitsapaereki} ! @section:noun@ 
 # ------------------------------------------------------------
 !
 ! ishitsanetatiya / ES: 'él.está.con.bicho' 

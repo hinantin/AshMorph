@@ -177,6 +177,7 @@ define N=S=CL [
 | "[--][-tyonki][+CL:long.tree.segment][=long.tree.segment; thin (ES: delgado)]" : {tyonki} 
 
 # opaere intami / 
+# shitsapaereki / =shitsa -paere -ki / ES: 'raíz' 
 | "[--][-pari][+CL:root][=root]" : {pari} 
 | "[--][-paere][+CL:root][=root]" : {paere} 
 
