@@ -865,7 +865,7 @@ define NRootPRQin [
 | "[=eeni][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: eciton.rapax)]" : {eeni}
 # ------------------------------------------------------------------
 ! 
-| "[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]" : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
+| "[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]" : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] @section:noun@ 
 | "[=iintsi+gndr@n./m.][NRoot][=child (ES: niño)]" : {iintsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=entsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]" : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=eNtsi/ẽtsi+gndr@n./m.+poss@ti.][NRoot][=child (ES: niño; PT: menino)]" : {ẽtsi}
@@ -6540,6 +6540,8 @@ define NRootPRQin [
 # tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' 
 | "[=tsimiri+gndr@m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimiri}
 | "[=tsimeri+gndr@m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimeri} ! @section:noun@ 
+! tsimerityonki / =tsimeri -tyonki / =bird -cl:long.tree.segment / EN: 'chili_pepper'; ES: 'espcie_de_ají'
+!| "[=tsimerityonki+~{N:/'bird':tsimeri/}{CL:/'long.tree.segment':tyonki/}][NRoot][=chili.pepper (ES: sp.de.ají)]" : {tsimerityonki} ! @section:noun@ 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsimenkito+gndr@m.+poss@te.][NRoot][=carbon (ES: carbón)]" : {tsimenkito} ! the gender is a result from my own analysis.
@@ -6981,7 +6983,7 @@ define NRootPRQin [
 | "[=vatsanto+gndr@n.m.][NRoot][=fat.woman (ES: gorda)]" : {vatsanto}
 | "[=vatsanti+gndr@m.][NRoot][=fat.man (ES: gordo)]" : {vatsanti}
 # batsatsinari / vatsatsinari / =vatsa -tsi -nari / =meat -nposs -cl:consumer.of.sth. / EN: 'carnivore'; ES: 'carnívoro' 
-!| "[=vatsatsinari+gndr@m.][NRoot][=carnivore (ES: carnívoro)]" : {vatsatsinari} ! @section:noun@ 
+!| "[=vatsatsinari+~{N:/'meat':vatsa/}{NPOSS:tsi}{CL:/'consumer.of.sth.':nari/}+gndr@m.][NRoot][=carnivore (ES: carnívoro)]" : {vatsatsinari} ! @section:noun@ 
 # ----------------------------------------------------------------------------
 ! 
 | "[=vela][NRoot][=person's.name]" : {vela}
