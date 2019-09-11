@@ -1124,7 +1124,7 @@ define NRootPRQin [
 | "[=hinyaa+gndr@n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hinyaa}
 | "[=hiaa+gndr@n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hiaa}
 | "[=inyaa+gndr@n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {inyaa}
-!| "[=inyaaveri/iñaaveri+gndr@m.][NRoot][=aquatic;| aquatic.being (ES: ser.de.los.mares)]" : {inyaaveri} ! @section:noun@ 
+!| "[=inyaaveri/iñaaveri+~{N:/'water':inyaa/}{CL:/'agentive':veri/}+gndr@m.][NRoot][=aquatic;| aquatic.being (ES: ser.de.los.mares)]" : {inyaaveri} ! @section:noun@ 
 # ------------------------------------------------------------------
 ! 
 | "[=hiva+gndr@n.m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {hiva}
