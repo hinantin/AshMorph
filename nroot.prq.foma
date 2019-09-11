@@ -1219,24 +1219,24 @@ define NRootPRQin [
 | "[=iNtxa/ĩtxa][NRoot][=plant (ES: planta; PT: planta)]" : {intxa}
 ! 
 # ninchakiri / n- incha -ki -ri / 1sg.poss- =plant -cl:hard -aln.poss. / EN: 'my.pole' 
-| "[=inchaki+~{'plant':incha}{CL:/'hard':ki/}+poss@ri.][NRoot][=pole (ES: palo)]" : {inchaki} 
-| "[=inchaki+~{'plant':incha}{CL:/'hard':ki/}][NRoot][=tree.sp. (ES: copaiba; sci.nm.: copaifera.paupera)]" : {inchaki}
+| "[=inchaki+~{N:/'plant':incha/}{CL:/'hard':ki/}+poss@ri.][NRoot][=pole (ES: palo)]" : {inchaki} 
+| "[=inchaki+~{N:/'plant':incha/}{CL:/'hard':ki/}][NRoot][=tree.sp. (ES: copaiba; sci.nm.: copaifera.paupera)]" : {inchaki}
 ! 
-| "[=inchakitso+~{'plant':incha}{CL:/'oval-shaped':kitso/}][NRoot][=tree.sp. (ES: moena, sp.de.árbol)]" : {inchakitso} 
+| "[=inchakitso+~{N:/'plant':incha/}{CL:/'oval-shaped':kitso/}][NRoot][=tree.sp. (ES: moena, sp.de.árbol)]" : {inchakitso} 
 ! 
 | "[=inchapariki][NRoot][=edible.butterfly.larva.sp. (ES: larva.comestible.de.mariposa; sci.nm.: familia.sphingidae)]" : {inchapariki} 
 ! 
 | "[=inchapataki][NRoot][=spatula; wood.splinter (ES: astilla)]" : {inchapataki} 
 ! 
-| "[=inchapanki+~{'plant':incha}{CL:/'plank':panki/}+gndr@n.m.+poss@ri.][NRoot][=plank]" : {inchapanki} 
-| "[=inchapanke+~{'plant':incha}{CL:/'plank':panke/}+gndr@n.m.+poss@ri.][NRoot][=plank]" : {inchapanke} 
+| "[=inchapanki+~{N:/'plant':incha/}{CL:/'plank':panki/}+gndr@n.m.+poss@ri.][NRoot][=plank]" : {inchapanki} 
+| "[=inchapanke+~{N:/'plant':incha/}{CL:/'plank':panke/}+gndr@n.m.+poss@ri.][NRoot][=plank]" : {inchapanke} 
 ! 
-| "[=inchapontso+~{'plant':incha}{CL:/'sharpless.edge':pontso/}][NRoot][=stake (ES: estaca)]" : {inchapontso} 
+| "[=inchapontso+~{N:/'plant':incha/}{CL:/'sharpless.edge':pontso/}][NRoot][=stake (ES: estaca)]" : {inchapontso} 
 ! 
-| "[=inchato+~{'plant':incha}{CL:/'tree':to/}+gndr@n.m.][NRoot][=tree (ES: árbol)]" : {inchato} ! @section:noun@ 
-| "[=iNtxato/ĩtxato+~{'plant':intxa}{CL:/'tree':to/}+gndr@n.m.][NRoot:CPB][=tree (ES: árbol; PT: árvore)]" : [{ĩtxato}|{itxato}]
+| "[=inchato+~{N:/'plant':incha/}{CL:/'tree':to/}+gndr@n.m.][NRoot][=tree (ES: árbol)]" : {inchato} ! @section:noun@ 
+| "[=iNtxato/ĩtxato+~{N:/'plant':intxa/}{CL:/'tree':to/}+gndr@n.m.][NRoot:CPB][=tree (ES: árbol; PT: árvore)]" : [{ĩtxato}|{itxato}]
 ! 
-| "[=inchatomashi+~{'plant':incha}{CL:/'tree':to/}{CL:/'wide,flat.space':mashi/}][NRoot][=shrub (ES: arbusto)]" : {inchatomashi} 
+| "[=inchatomashi+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'wide,flat.space':mashi/}][NRoot][=shrub (ES: arbusto)]" : {inchatomashi} 
 ! 
 | "[=inchatonaki+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot][=big.traditional.fishing.boat;| plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {inchatonaki} ! @section:noun@ 
 | "[=intxatonaki+~{N:/'plant':intxa/}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot:CPB][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {intxatonaki} 
