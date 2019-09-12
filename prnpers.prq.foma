@@ -36,7 +36,7 @@ define PrnPersPRQin [
 | "[=eroka+num@2SG][PrnPers][=you (ES: tú, usted)][--][-paeni][Num][+PL]::[=you (ES: Ustedes)]" : {erokapaeni}
 ! 
 # ------------------------------------------------ 
-# iri 
+# iri ~ iriro 
 | "[=iri+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iri} ! @section:prnpers@ 
 ! 
 | "[=iri+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
