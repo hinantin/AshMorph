@@ -9,17 +9,17 @@ define PrnPersPRQin [
 ! +cntr.cnt.assert.top. (-inti: contrastive counter-assertive topic)
 ! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
 # -------------------------------------------------------------------
-  "[=naaka+p.func@cont.d.top.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naaka} ! @section:prnpers@ 
-| "[=naka+p.func@cont.d.top.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naka} ! @section:prnpers@ 
+  "[=naaka+pragm.func@cont.d.top.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naaka} ! @section:prnpers@ 
+| "[=naka+pragm.func@cont.d.top.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naka} ! @section:prnpers@ 
 # naro: it is only used in greetings 
-| "[=naro+p.func@cont.d.top.+num@1SG][PrnPers][=I (ES: yo)]" : {naro} ! @section:prnpers@ 
+| "[=naro+pragm.func@cont.d.top.+num@1SG][PrnPers][=I (ES: yo)]" : {naro} ! @section:prnpers@ 
 ! 
 # aviro 
-| "[=aviro+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)]" : {aviro} ! @section:prnpers@ 
+| "[=aviro+pragm.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)]" : {aviro} ! @section:prnpers@ 
 ! avirompa / =aviro -mpa / =you -dub / 
-| "[=aviro+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
-| "[=aviro+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
-| "[=aviroka+p.func@cont.d.top.+num@2SG][PrnPers][=you]" : {aviroka}
+| "[=aviro+pragm.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
+| "[=aviro+pragm.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
+| "[=aviroka+pragm.func@cont.d.top.+num@2SG][PrnPers][=you]" : {aviroka}
 # yora 
 | "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {yora}
 | "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {yorahei}
@@ -28,33 +28,33 @@ define PrnPersPRQin [
 | "[=oora+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {oora}
 | "[=ora+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {orahei}
 # eroka 
-| "[=eroka+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {eroka} ! @section:prnpers@ 
-| "[=eeroka+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {eeroka}
-| "[=iiroka+p.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {iiroka}
+| "[=eroka+pragm.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {eroka} ! @section:prnpers@ 
+| "[=eeroka+pragm.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {eeroka}
+| "[=iiroka+pragm.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {iiroka}
 ! 
 | "[=eroka+num@2SG][PrnPers][=you (ES: tú, usted)][--][-paeni][Num][+PL]::[=you (ES: Ustedes)]" : {erokapaeni}
 ! 
 # ------------------------------------------------ 
 # iri 
-| "[=iri+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iri} ! @section:prnpers@ 
+| "[=iri+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iri} ! @section:prnpers@ 
 ! 
-| "[=iri+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
-| "[=iri+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-nta+distal][Adv][+DEM]" : {irinta}
+| "[=iri+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
+| "[=iri+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-nta+distal][Adv][+DEM]" : {irinta}
 ! 
-| "[=iriro+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriro} ! @section:prnpers@ 
-| "[=irio+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {irio}
-| "[=iryo+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iryo}
+| "[=iriro+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriro} ! @section:prnpers@ 
+| "[=irio+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {irio}
+| "[=iryo+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iryo}
 # ------------------------------------------------ 
 ! 
 # iro 
-| "[=iro+p.func@cont.d.top.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]" : {iro}
-| "[=iroo+p.func@cont.d.top.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]" : {iroo}
+| "[=iro+pragm.func@cont.d.top.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]" : {iro}
+| "[=iroo+pragm.func@cont.d.top.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]" : {iroo}
 ! 
 | "[=hirova+num@3SG][PrnPers][=it (animal.or.object; ES: ello, eso)]" : {hirova}
 ! 
 | "[=aaka+num@1PL.INCL.][PrnPers][=we]" : {aaka}  
 | "[=aka+num@1PL][PrnPers][=we][--][-paeni][Num][+PL]::[=we (ES: nosotras)]" : {akapaeni}  ! aka shortened form of naka ???  
-| "[=naka+p.func@cont.d.top.+num@1SG][PrnPers][=I (ES: yo)][--][-paeni][Num][+PL]::[=we (ES: nosotros)]" : {nakapaeni}  
+| "[=naka+pragm.func@cont.d.top.+num@1SG][PrnPers][=I (ES: yo)][--][-paeni][Num][+PL]::[=we (ES: nosotros)]" : {nakapaeni}  
 | "[=aro+num@1PL.INCL.][PrnPers][=we]" : {aro} 
 ! 
 # --------------------------------------------
@@ -63,7 +63,7 @@ define PrnPersPRQin [
 # FOC: focused pronouns 
 ! 
 ! aroka (Pe) ~ ayaroka (Paj)
-| "[=aroka+p.func@cont.d.top.+num@1PL.INCL.][PrnPers]" : {aroka}
+| "[=aroka+pragm.func@cont.d.top.+num@1PL.INCL.][PrnPers][=we]" : {aroka}
 | "[=arokaite+num@1PL.INCL.][PrnPers]" : {arokaite}
 ! arori (Pe) ~ ayarori (Paj)
 | "[=arorite+num@1PL.INCL.][PrnPers]" : {arorite}
@@ -77,27 +77,27 @@ define PrnPersPRQin [
 | "[=iroite+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {iroite}
 | "[=irooite+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {irooite}
 # -------------------------------------------------------------------
-| "[=naari+p.func@cntr.add.l.+foc.+num@1SG.EXCL.][PrnPers][=I (ES: yo.también)]" : {naari} ! FOC "I" 
-| "[=narori+p.func@cntr.add.l.+foc.+num@1SG][PrnPers][=I (ES: a.mi.persona)]" : {narori}
+| "[=naari+pragm.func@cntr.add.l.+foc.+num@1SG.EXCL.][PrnPers][=I (ES: yo.también)]" : {naari} ! FOC "I" 
+| "[=narori+pragm.func@cntr.add.l.+foc.+num@1SG][PrnPers][=I (ES: a.mi.persona)]" : {narori}
 ! 
-| "[=avirori+p.func@cntr.add.l.+foc.+num@2SG][PrnPers][=you]" : {avirori} ! FOC 
+| "[=avirori+pragm.func@cntr.add.l.+foc.+num@2SG][PrnPers][=you]" : {avirori} ! FOC 
 ! 
-| "[=irirori+p.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {irirori} ! FOC "He" 
-| "[=rirori+p.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {rirori}
-| "[=rirori+p.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-paeni][Num][+PL]::[=they (ES: ellos)]" : {riroripaeni}
-| "[=iriori+p.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriori} ! FOC 
-| "[=iriyori+p.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriyori} ! FOC 
-| "[=iriori+p.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {iriorihei} ! FOC 
+| "[=irirori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {irirori} ! FOC "He" 
+| "[=rirori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {rirori}
+| "[=rirori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-paeni][Num][+PL]::[=they (ES: ellos)]" : {riroripaeni}
+| "[=iriori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriori} ! FOC 
+| "[=iriyori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriyori} ! FOC 
+| "[=iriori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {iriorihei} ! FOC 
 ! 
-| "[=iroori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {iroori} ! FOC 
-| "[=roori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {roori} ! FOC 
-| "[=irori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {irori} ! FOC 
-| "[=irori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-paeni][Num][+PL]::[=they (ES: ellas)]" : {iroripaeni}
-| "[=iroori+p.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
+| "[=iroori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {iroori} ! FOC 
+| "[=roori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {roori} ! FOC 
+| "[=irori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {irori} ! FOC 
+| "[=irori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-paeni][Num][+PL]::[=they (ES: ellas)]" : {iroripaeni}
+| "[=iroori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
 !  
-| "[=arori+p.func@cntr.add.l.+num@1PL.INCL.][PrnPers][= (ES: nosotros, nosotros.también)]" : {arori}
-| "[=aroori+p.func@cntr.add.l.+num@1PL.INCL.][PrnPers][= (ES: nosotros.también)]" : {aroori}
-| "[=aroori+p.func@cntr.add.l.+num1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
+| "[=arori+pragm.func@cntr.add.l.+num@1PL.INCL.][PrnPers][= (ES: nosotros, nosotros.también)]" : {arori}
+| "[=aroori+pragm.func@cntr.add.l.+num@1PL.INCL.][PrnPers][= (ES: nosotros.también)]" : {aroori}
+| "[=aroori+pragm.func@cntr.add.l.+num1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
 | "[=aro+num@1PL.INCL.][PrnPers][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
 # -------------------------------------------------------------------
 # ---------------------------------------------
@@ -105,31 +105,31 @@ define PrnPersPRQin [
 # ---------------------------------------------
 # MCB: ikutavankitaki / i- =kuta =panki -t -ak -i / 3m.s- =be.white =feather -ep -prf -real / EN: 'He.is.white-feathered' 
 # -t-ak-i 
-| "[=naakataki+p.func@cntr.exh.l.+foc.+num@1SG][PrnPers][=I.am.the.one.(who)]" : {naakataki} ! FOC 
-| "[=narotake+p.func@cntr.exh.l.+foc.+num@1SG][PrnPers][=it.is.I]" : {narotake}
+| "[=naakataki+pragm.func@cntr.exh.l.+foc.+num@1SG][PrnPers][=I.am.the.one.(who)]" : {naakataki} ! FOC 
+| "[=narotake+pragm.func@cntr.exh.l.+foc.+num@1SG][PrnPers][=it.is.I]" : {narotake}
 ! 
-| "[=avirotaki+p.func@cntr.exh.l.+num@2SG][PrnPers]" : {avirotaki}
-| "[=avirotake+p.func@cntr.exh.l.+num@2SG][PrnPers][= (ES: Sí.tú.lo.eres)]" : {avirotake}
-| "[=avirokataki+p.func@cntr.exh.l.+num@2SG][PrnPers][=you.are.the.one.who]" : {avirokataki}
+| "[=avirotaki+pragm.func@cntr.exh.l.+num@2SG][PrnPers]" : {avirotaki}
+| "[=avirotake+pragm.func@cntr.exh.l.+num@2SG][PrnPers][= (ES: Sí.tú.lo.eres)]" : {avirotake}
+| "[=avirokataki+pragm.func@cntr.exh.l.+num@2SG][PrnPers][=you.are.the.one.who]" : {avirokataki}
 ! 
-| "[=iritaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]" : {iritaki} ! FOC "that's.why" (set 1)
-| "[=iriitaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {iriitaki} ! FOC "that's.why" (set 1)
-| "[=iriitake+p.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {iriitake}
-| "[=riitaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {riitaki} ! FOC "that's.why" (set 1)
-| "[=ritaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {ritaki} ! FOC "that's.why" (set 1)
-| "[=iritake+p.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {iritake} ! FOC "that's.why" (set 1)
+| "[=iritaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]" : {iritaki} ! FOC "that's.why" (set 1)
+| "[=iriitaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {iriitaki} ! FOC "that's.why" (set 1)
+| "[=iriitake+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {iriitake}
+| "[=riitaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {riitaki} ! FOC "that's.why" (set 1)
+| "[=ritaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {ritaki} ! FOC "that's.why" (set 1)
+| "[=iritake+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {iritake} ! FOC "that's.why" (set 1)
 | "[=iriotake+num@3SG+gndr@m.][PrnPers][=he.is (ES: él.es)]" : {iriotake}
 | "[=rirotaki+num@3SG+gndr@m.][PrnPers][=he.is.the.one.(who) (ES: él.es.quien)]" : {rirotaki}
 | "[=rirootaki+num@3SG+gndr@m.][PrnPers][=he.is.the.one.(who) (ES: él.es.quien)]" : {rirootaki}
-| "[=irio+p.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=he.is (ES: él.es)]" : {iriotake}
+| "[=irio+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=he.is (ES: él.es)]" : {iriotake}
 ! 
-| "[=irotaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]" : {irotaki} ! FOC "that's.why" 
-| "[=irootaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]" : {irootaki} ! FOC "that's.why" 
-| "[=rootaki+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is (ES: ella.es); she.is.the.one.(who) (ES: ella.es.quien)]" : {rootaki} ! FOC "that's.why" 
-| "[=irotake+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she, she.is.the.one.(who), it.is.the.one.(that)]" : {irotake} ! FOC "that's.why" , "she"
-| "[=irootake+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {irootake} 
-| "[=rootake+p.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {rootake} 
-| "[=iroo+p.func@cont.d.top.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=that's.why, she; she.is (ES: ella.es)]" : {irootake}
+| "[=irotaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]" : {irotaki} ! FOC "that's.why" 
+| "[=irootaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]" : {irootaki} ! FOC "that's.why" 
+| "[=rootaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is (ES: ella.es); she.is.the.one.(who) (ES: ella.es.quien)]" : {rootaki} ! FOC "that's.why" 
+| "[=irotake+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she, she.is.the.one.(who), it.is.the.one.(that)]" : {irotake} ! FOC "that's.why" , "she"
+| "[=irootake+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {irootake} 
+| "[=rootake+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {rootake} 
+| "[=iroo+pragm.func@cont.d.top.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=that's.why, she; she.is (ES: ella.es)]" : {irootake}
 
 #| "[=rootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {rootake}
 #| "[=irootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {irootake}
@@ -137,41 +137,41 @@ define PrnPersPRQin [
 #| "[=irootaki][ConnRoot][=that's.why (ES: por.eso.es)]" : {irootaki}
 
 ! 
-| "[=arotaki+p.func@cntr.exh.l.+num@1PL][PrnPers][=]" : {arotaki}
-| "[=arotake+p.func@cntr.exh.l.+num@1PL][PrnPers][=]" : {arotake}
+| "[=arotaki+pragm.func@cntr.exh.l.+num@1PL][PrnPers][=]" : {arotaki}
+| "[=arotake+pragm.func@cntr.exh.l.+num@1PL][PrnPers][=]" : {arotake}
 # -------------------------------------------------------------------
 # -intsi~-inti
 !| "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
-| "[=naintsi+p.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=I…on.my.own]" : {naintsi}
-| "[=naintsi+p.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=I…on.my.own][--][-ma][+DUB]" : {naintsima}
-| "[=aintsi+p.func@cntr.d.top.+num@1SG.INCL][PrnPers][=]" : {aintsi}
-| "[=avintsi+p.func@cntr.d.top.+num@2SG][PrnPers][=you]" : {avintsi}
-| "[=irintsi+p.func@cntr.d.top.+num@3SG+gndr@m.][PrnPers][=he]" : {irintsi}
-| "[=ariintsi+p.func@cntr.d.top.+num@3SG+gndr@m.][PrnPers][=]" : {ariintsi}
-| "[=irontsi+p.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {irontsi}
-| "[=aronintsi+p.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {aronintsi}
+| "[=naintsi+pragm.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=I…on.my.own]" : {naintsi}
+| "[=naintsi+pragm.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=I…on.my.own][--][-ma][+DUB]" : {naintsima}
+| "[=aintsi+pragm.func@cntr.d.top.+num@1SG.INCL][PrnPers][=]" : {aintsi}
+| "[=avintsi+pragm.func@cntr.d.top.+num@2SG][PrnPers][=you]" : {avintsi}
+| "[=irintsi+pragm.func@cntr.d.top.+num@3SG+gndr@m.][PrnPers][=he]" : {irintsi}
+| "[=ariintsi+pragm.func@cntr.d.top.+num@3SG+gndr@m.][PrnPers][=]" : {ariintsi}
+| "[=irontsi+pragm.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {irontsi}
+| "[=aronintsi+pragm.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {aronintsi}
 ! 
-| "[=nainti+p.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I (ES: yo)]" : {nainti}
-| "[=ainti+p.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I]" : {ainti}
-| "[=avinti+p.func@cntr.cnt.assert.top.+num@2SG][PrnPers][=you]" : {avinti}
-| "[=irointi+p.func@cntr.cnt.assert.top.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella); she…on.her.own (ES: ella.sola)]" : {irointi}
-| "[=irinti+p.func@cntr.cnt.assert.top.+num@3SG+gndr@m.][PrnPers][=he; he…on.his.own (ES: él.solo)]" : {irinti}
-| "[=iriinti+p.func@cntr.cnt.assert.top.+num@3SG+gndr@m.][PrnPers][=he]" : {iriinti}
-| "[=arointi+p.func@cntr.cnt.assert.top.+num@1PL][PrnPers][=...]" : {arointi}
+| "[=nainti+pragm.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I (ES: yo)]" : {nainti}
+| "[=ainti+pragm.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I]" : {ainti}
+| "[=avinti+pragm.func@cntr.cnt.assert.top.+num@2SG][PrnPers][=you]" : {avinti}
+| "[=irointi+pragm.func@cntr.cnt.assert.top.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella); she…on.her.own (ES: ella.sola)]" : {irointi}
+| "[=irinti+pragm.func@cntr.cnt.assert.top.+num@3SG+gndr@m.][PrnPers][=he; he…on.his.own (ES: él.solo)]" : {irinti}
+| "[=iriinti+pragm.func@cntr.cnt.assert.top.+num@3SG+gndr@m.][PrnPers][=he]" : {iriinti}
+| "[=arointi+pragm.func@cntr.cnt.assert.top.+num@1PL][PrnPers][=...]" : {arointi}
 ! 
-| "[=naintsi+p.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=][--][-ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
+| "[=naintsi+pragm.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=][--][-ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
 # -------------------------------------------------------------------
 # -sati (EN: 'too/also'; ES: 'también')
-| "[=narosati+p.func@rflx.intsf.+num@1SG][PrnPers][=me.too/also; myself]" : {narosati}
-| "[=avisati+p.func@rflx.intsf.+num@2SG][PrnPers][=you.too/also; yourself]" : {avisati}
-| "[=irisati+p.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself]" : {irisati}
-| "[=irosati+p.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself]" : {irosati}
-| "[=arosati+p.func@rflx.intsf.+num@1PL][PrnPers][=we.too/also; ourselves]" : {arosati}
-| "[=irisati+p.func@rflx.intsf.+num@3PL+gndr@m.][PrnPers][=they.too/also; they.themselves]" : {irisati}
+| "[=narosati+pragm.func@rflx.intsf.+num@1SG][PrnPers][=me.too/also; myself]" : {narosati}
+| "[=avisati+pragm.func@rflx.intsf.+num@2SG][PrnPers][=you.too/also; yourself]" : {avisati}
+| "[=irisati+pragm.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself]" : {irisati}
+| "[=irosati+pragm.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself]" : {irosati}
+| "[=arosati+pragm.func@rflx.intsf.+num@1PL][PrnPers][=we.too/also; ourselves]" : {arosati}
+| "[=irisati+pragm.func@rflx.intsf.+num@3PL+gndr@m.][PrnPers][=they.too/also; they.themselves]" : {irisati}
 # -hatzi (EN: 'too'; ES: 'también')
-| "[=irihatzi+p.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself (ES: él.mismo, ese.mismo)]" : {irihatzi} ! irijatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ese.mismo, lit: ella.también'  
-| "[=irohatzi+p.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
+| "[=irihatzi+pragm.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself (ES: él.mismo, ese.mismo)]" : {irihatzi} ! irijatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ese.mismo, lit: ella.también'  
+| "[=irohatzi+pragm.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
 ! irojati noshiyapithatantanacariri, / irohati noshiyapitsatantanakariri / =irohati no- =shiy -apitsa -t -ant -an -ak -a =ri =ri / ES: 'así.es.que.tuve.que.escaparme.de.él.' 
-| "[=irohati+p.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohati} 
+| "[=irohati+pragm.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohati} 
 ];
 
