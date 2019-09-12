@@ -16,10 +16,11 @@ define PrnPersPRQin [
 ! 
 # aviro 
 | "[=aviro+pragm.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)]" : {aviro} ! @section:prnpers@ 
+# aviroka 
+| "[=aviroka+pragm.func@cont.d.top.+num@2SG][PrnPers][=you]" : {aviroka}
 ! avirompa / =aviro -mpa / =you -dub / 
 | "[=aviro+pragm.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
 | "[=aviro+pragm.func@cont.d.top.+num@2SG][PrnPers][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
-| "[=aviroka+pragm.func@cont.d.top.+num@2SG][PrnPers][=you]" : {aviroka}
 # yora 
 | "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {yora}
 | "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {yorahei}
