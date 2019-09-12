@@ -78,8 +78,8 @@ define PrnPersPRQin [
 | "[=iroite+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {iroite}
 | "[=irooite+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {irooite}
 # -------------------------------------------------------------------
-| "[=naari+pragm.func@cntr.add.l.+foc.+num@1SG.EXCL.][PrnPers][=I (ES: yo.también)]" : {naari} ! FOC "I" 
-| "[=narori+pragm.func@cntr.add.l.+foc.+num@1SG][PrnPers][=I (ES: a.mi.persona)]" : {narori}
+| "[=naari+pragm.func@cntr.add.l.FOC.+num@1SG.EXCL.][PrnPers][=I (ES: yo.también)]" : {naari} ! FOC "I" 
+| "[=narori+pragm.func@cntr.add.l.FOC.+num@1SG][PrnPers][=I (ES: a.mi.persona)]" : {narori}
 ! 
 | "[=avirori+pragm.func@cntr.add.l.+foc.+num@2SG][PrnPers][=you]" : {avirori} ! FOC 
 ! 
