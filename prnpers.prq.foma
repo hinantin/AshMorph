@@ -98,7 +98,7 @@ define PrnPersPRQin [
 !  
 | "[=arori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][= (ES: nosotros, nosotros.también)]" : {arori}
 | "[=aroori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][= (ES: nosotros.también)]" : {aroori}
-| "[=aroori+pragm.func@cntr.add.l.+num@1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
+| "[=aroori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
 | "[=aro+num@1PL.INCL.][PrnPers][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
 # -------------------------------------------------------------------
 # ---------------------------------------------
