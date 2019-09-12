@@ -74,7 +74,7 @@ define PrnPersPRQin [
 | "[=eerokaite+num@2PL][PrnPers][=you]" : {eerokaite}
 | "[=erokaite+num@2PL][PrnPers][=you]" : {erokaite}
 | "[=iriroite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@m.][PrnPers][=they.(all)]" : {iriroite}
-| "[=iririroite+num@3PL.EXCL.+gndr@m.][PrnPers]" : {iririroite}
+| "[=iririroite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@m.][PrnPers]" : {iririroite}
 | "[=iroite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {iroite}
 | "[=irooite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {irooite}
 # -------------------------------------------------------------------
