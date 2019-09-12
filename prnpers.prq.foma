@@ -90,15 +90,15 @@ define PrnPersPRQin [
 | "[=iriyori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriyori} ! FOC 
 | "[=iriori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {iriorihei} ! FOC 
 ! 
-| "[=iroori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {iroori} ! FOC 
-| "[=roori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {roori} ! FOC 
-| "[=irori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {irori} ! FOC 
-| "[=irori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-paeni][Num][+PL]::[=they (ES: ellas)]" : {iroripaeni}
-| "[=iroori+pragm.func@cntr.add.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
+| "[=iroori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {iroori} ! FOC 
+| "[=roori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {roori} ! FOC 
+| "[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]" : {irori} ! FOC 
+| "[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-paeni][Num][+PL]::[=they (ES: ellas)]" : {iroripaeni}
+| "[=iroori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
 !  
-| "[=arori+pragm.func@cntr.add.l.+num@1PL.INCL.][PrnPers][= (ES: nosotros, nosotros.también)]" : {arori}
-| "[=aroori+pragm.func@cntr.add.l.+num@1PL.INCL.][PrnPers][= (ES: nosotros.también)]" : {aroori}
-| "[=aroori+pragm.func@cntr.add.l.+num1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
+| "[=arori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][= (ES: nosotros, nosotros.también)]" : {arori}
+| "[=aroori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][= (ES: nosotros.también)]" : {aroori}
+| "[=aroori+pragm.func@cntr.add.l.+num@1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
 | "[=aro+num@1PL.INCL.][PrnPers][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
 # -------------------------------------------------------------------
 # ---------------------------------------------
