@@ -2,11 +2,11 @@
 
 define PrnPersPRQin [
 ! Pragmatic functions +pragm.func 
-! SET 1: +cont.d.top. (continuous discourse topic)
-! SET 2: +cntr.add.l. (-ri: contrastive additive listing, +focus; these pronouns are used as reflexive forms with the meaning 'own')
-! SET 3: +cntr.exh.l. (-taki~-take: contrastive exhaustive listing, +focus)
-! SET 4: +cntr.d.top. (-intsi: contrastive discourse topic; extant.pronouns)
-! +cntr.cnt.assert.top. (-inti: contrastive counter-assertive topic)
+! SET 1: +cont.d.TOP. (continuous discourse topic)
+! SET 2: +cntr.add.l.FOC. (-ri: contrastive additive listing, +FOCUS; these pronouns are used as reflexive forms with the meaning 'own')
+! SET 3: +cntr.exh.l.FOC. (-taki~-take: contrastive exhaustive listing, +FOCUS)
+! SET 4: +cntr.d.TOP. (-intsi: contrastive discourse TOPIC; extant.pronouns)
+! +cntr.cnt.assert.TOP. (-inti: contrastive counter-assertive TOPIC)
 ! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
 # -------------------------------------------------------------------
   "[=naaka+pragm.func@cont.d.top.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naaka} ! @section:prnpers@ 
