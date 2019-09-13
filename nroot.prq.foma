@@ -51,7 +51,7 @@ define NRootPRQin [
 # ahope~asopi: ser.ilusionista.que.hace.encantamientos.utilizando.la.vainilla.de.la.canela
 | "[=ahopi+gndr@n.m.][NRoot][=vanilla (ES: vainilla; PT: baunilha); aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {ahopi}
 | "[=ahope+gndr@n.m.][NRoot][=vanilla (ES: vainilla; PT: baunilha); aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {ahope}  
-| "[=asopi+gndr@n.m.][NRoot][=vanilla (ES: vainilla; PT: baunilha); aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {asopi} 
+| "[=asopi+gndr@n.m.][NRoot][=vanilla (ES: vainilla; PT: baunilha);| aromatic.love.(charm|amulet) (ES: amuleto.aromático.para.el.amor; PT: baunilha.apreciada.pelo.cheiro.e.como.afrodisíaco)]" : {asopi} ! @section:noun@ 
 # --------------------------------------------------------------------
 ! 
 | "[=amai+gndr@n.m.][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amai} 
@@ -2403,6 +2403,8 @@ define NRootPRQin [
 | "[=kiriki+gndr@m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriki}
 | "[=kireeki+gndr@m.+poss@te.][NRoot][=money (ES: dinero)]" : {kireeki}
 | "[=kireki+gndr@m.+poss@te.][NRoot][=money (ES: dinero; QU: qullqi; PT: dinheiro)]" : {kireki} ! @section:noun@ 
+!| "[=kireekipakoro+~{N:/'money':kireeki/}{CL:/'hand':pako/}{NMZ:ro}+gndr@n.m.][NRoot][=wealthy.woman]" : {kireekipakoro} ! @section:noun@ 
+!| "[=kireekipakori+~{N:/'money':kireeki/}{CL:/'hand':pako/}{NMZ:ri}+gndr@m.][NRoot][=wealthy.man]" : {kireekipakori} ! @section:noun@ 
 | "[=korike+gndr@m.][NRoot][=money (ES: dinero)]" : {korike}
 | "[=koriki+gndr@m.][NRoot][=money (ES: dinero)]" : {koriki}
 # ---------------------------------------------------------------------------
@@ -3702,7 +3704,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 !| "[=nihaa][VRoot][=to.water]" : {nihaa} ! revise?
-| "[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {nihaa} ! @CMP ! N@->V::[=to.water]
+| "[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: rio)]" : {nihaa} ! @CMP ! N@->V::[=to.water] @section:noun@ 
 | "[=niha+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
 | "[=hinya/hĩya+poss@te.][NRoot:CPB][=water (ES: agua); river (ES: rio)]" : [{hĩya}|{hiya}] 
 | "[=hinyaa/hĩyaa+poss@te.][NRoot:CPB][=water (ES: agua); river (ES: rio)]" : {hĩyaa} 
@@ -3715,6 +3717,7 @@ define NRootPRQin [
 | "[=hinyaatini/hiñaatini][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {hinyaatini}
 | "[=nyaateni/ñaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]" : {nyaateni}
 !| "[=nihaveri+~{N:/'water':niha/}{CL:/'agentive':veri/}+gndr@m.][NRoot][=water.sprite]" : {nihaveri} ! @section:noun@ 
+!| "[=nihaavero+~{N:/'water':nihaa/}{CL:/'agentive':vero/}+gndr@n.m.][NRoot][=water.inhabitant]" : {nihaavero} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=niivotya][NRoot][=NP; person's.name]" : {niivotya}
@@ -5625,6 +5628,9 @@ define NRootPRQin [
 | "[=shevantoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantoki}
 | "[=shevantyoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantyoki}
 | "[=hyivantoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {hyivantoki}
+! novamashite / n- =ova -mashi -te / 1sg.poss- =grape -cl:vast.space.with.vegetation -anim.PL / EN: 'my.vineyard'; ES: 'mi.viña'   
+! irovamashite / ir- =ova -mashi -te / 3m.poss- =grape -cl:vast.space.with.vegetation -anim.PL / EN: 'his.vineyard'; ES: 'su.viña'   
+!| "[=ovamashi+~{N:/'grape':ova/}{CL/'vast.space.with.vegetation':mashi/}][NRoot][=vineyard (ES: viña)]" : {ovamashi} ! @section:noun@ 
 # ------------------------------------------------------------
 ! 
 | "[=shevatarotsi][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodidae, sorubim.lima)]" : {shevatarotsi} 
