@@ -4391,7 +4391,8 @@ define NRootPRQin [
 | "[=pavaini+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaini}
 | "[=pavaahi+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaahi}
 ! 
-| "[=pavachori+gndr@m.+poss@ti.+kin@male.ego][NRoot][=uncle]" : {pavachori}
+| "[=pavachori+gndr@m.+poss@ti.+kin@male.ego][NRoot][=uncle (ES: tío)]" : {pavachori} ! @section:noun@ 
+!| "[=iritsori+gndr@m.][NRoot][=uncle (ES: tío)]" : {iritsori} ! @section:noun@ 
 # ---------------------------------------------------------------------------- 
 ! 
 | "[=paviro+gndr@n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {paviro}
