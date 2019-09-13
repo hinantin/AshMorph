@@ -1490,7 +1490,7 @@ define NRootPRQin [
 | "[=iraantsinaki][NRoot][=pale-fegged.hornero (sci.nm.: furnarius.leucopus)]" : {iraantsinaki}
 # ---------------------------------------------------------------------
 ! 
-| "[=iri+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {iri}
+| "[=iri+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: papá)]" : {iri}
 # ---------------------------------------------------------------------
 ! 
 | "[=leche/irichi+gndr@n./m.][NRoot][=milk (ES: leche; PT: leite)]" : {irichi}
@@ -4391,8 +4391,8 @@ define NRootPRQin [
 | "[=pavaini+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaini}
 | "[=pavaahi+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaahi}
 ! 
-| "[=pavachori+gndr@m.+poss@ti.+kin@male.ego][NRoot][=uncle (ES: tío)]" : {pavachori} ! @section:noun@ 
-!| "[=iritsori+gndr@m.][NRoot][=uncle (ES: tío)]" : {iritsori} ! @section:noun@ 
+| "[=pavachori+~{N:/'father':pava/}{CL:/'distant.kin':chori/}+gndr@m.+poss@ti.+kin@male.ego][NRoot][=uncle (ES: tío)]" : {pavachori} ! @section:noun@ 
+!| "[=iritsori+~{N:/'father':iri/}{CL:/'distant.kin':tsori/}+gndr@m.+kin@fe/male.ego][NRoot][=uncle (ES: tío)]" : {iritsori} ! @section:noun@ 
 # ---------------------------------------------------------------------------- 
 ! 
 | "[=paviro+gndr@n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {paviro}
