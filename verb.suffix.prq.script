@@ -227,17 +227,17 @@ define V=S=REAL [
 # ES: acción.no.empezada, estado/acción.incompletos \cite[pag. 465]{kindberg:diccionario:80} 
 # EN: it describes "unrealized" situations 
 define V=S=IRR [
-  "[--][-e+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
-| "[--][-e~ee+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ee}]
-| "[--][-e~ye+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ye}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
-| "[--][-e~yi+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yi}]
+  "[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
+| "[--][-e~ee+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ee}]
+| "[--][-e~ye+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ye}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
+| "[--][-e~yi+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yi}]
 # -------------------------------------------
 # -mpaa: estado/acción.imcompletos \cite[pag. 465]{kindberg:diccionario:80}
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
-| "[--][-eNpa~empa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empa}]
-| "[--][-eNpa~empaa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empaa}]
-| "[--][-eNpa~eempa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eempa}]
+| "[--][-eNpa~empa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empa}]
+| "[--][-eNpa~empaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empaa}]
+| "[--][-eNpa~eempa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eempa}]
 # naabakaatiyempa / ES: 'me.voy.a.casar'
 # naabakaatiyema / ES: 'me.voy.a.casar'
 # nokibanaajitatiyempa / ES: 'voy.a.lavarme.los.dientes'
@@ -255,38 +255,38 @@ define V=S=IRR [
 # antibatatiyempa / ES: '(ella).se.va.a.tropezar'
 # notsitinkatiyempa / ES: 'me.voy.a.tropezar'
 # nantibatatiyempa / ES: 'me.voy.a.tropezar'
-| "[--][-eNpa~yempa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yempa}]
-| "[--][-eNpa~yema+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yema}] ! shortened form ?
-| "[--][-eNpa~yea+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yea}] ! shortened form ? \cite[pag. 13]{mihas:rflx:rzpr:17}
+| "[--][-eNpa~yempa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yempa}]
+| "[--][-eNpa~yema+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yema}] ! shortened form ?
+| "[--][-eNpa~yea+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yea}] ! shortened form ? \cite[pag. 13]{mihas:rflx:rzpr:17}
 # -------------------------------------------
-!| "[--][-a+fut.][MODALITY][+IRR]" : "@EP"[{a}]
-!| "[--][-a~aa+fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
+!| "[--][-a+tns@fut.][MODALITY][+IRR]" : "@EP"[{a}]
+!| "[--][-a~aa+tns@fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
-| "[--][-e~i+fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{i}]
-| "[--][-e~ii+fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
+| "[--][-e~i+tns@fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{i}]
+| "[--][-e~ii+tns@fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
 # -------------------------------------------
-| "[--][-ia+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
-| "[--][-ia~ya+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ya}]
-| "[--][-ia~yaa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yaa}]
-| "[--][-ia~ea+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17} \cite[pag. 465]{kindberg:diccionario:80}
+| "[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
+| "[--][-ia~ya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ya}]
+| "[--][-ia~yaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yaa}]
+| "[--][-ia~ea+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17} \cite[pag. 465]{kindberg:diccionario:80}
 ];
 
 # NON/FUTURE + REFLEXIVE (RFL)
 define V=S=REALRFL [
-  "[--][-a+n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]" : "@EP"[{a}]
+  "[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]" : "@EP"[{a}]
 ];
       
 # FUTURE + REFLEXIVE (RFL)
 define V=S=IRRRFL [
-  "[--][-ia+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
+  "[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
-| "[--][-ia~iya+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{iya}]
-| "[--][-ia~eya+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eya}]
+| "[--][-ia~iya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{iya}]
+| "[--][-ia~eya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eya}]
 ];
 # NON/FUTURE + REFLEXIVE (RFL)
 define V=S=IRRCPB [
-  "[--][-ʃa~xa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xa}]
-| "[--][-ʃaa~xaa+fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xaa}]
+  "[--][-ʃa~xa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xa}]
+| "[--][-ʃaa~xaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xaa}]
 ];
 # -------------------------------------------
                    
