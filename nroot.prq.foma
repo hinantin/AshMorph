@@ -6493,7 +6493,7 @@ define NRootPRQin [
 | "[=niyaminto+gndr@n.m.+inal@tsi.][NRoot][=throat (ES: garganta, faringe)]" : {niyaminto}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsanoiriki+gndr@n.m.+inal@ntsi.][NRoot][=adornment (ES: adorno.(que.ponen.en.el.cuello))]" : {tsanoiriki}
+| "[=tsanoiriki+~{N:/'neck':tsano/}{inanim.dim.PL:iriki}+gndr@n.m.+inal@ntsi.][NRoot][=adornment (ES: adorno.(que.ponen.en.el.cuello))]" : {tsanoiriki} ! @section:noun@ 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsapaki][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
