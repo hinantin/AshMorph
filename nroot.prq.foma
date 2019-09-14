@@ -5183,8 +5183,8 @@ define NRootPRQin [
 | "[=shemito+gndr@m.][NRoot][=barn.owl.sp. (ES: lechuza, búho; sci.nm.: pulsatrix.perspicilata)]" : {shemito}
 # --------------------------------------------------------------------------
 ! 
-# sheminkari / =shem -inka -ri / =to.be.bored -nmz -rel / EN: 'bored'; ES: 'aburrido'
-!| "[=sheminkari+gndr@m.][NRoot][=bored (ES: aburrido)]" : {sheminkari} ! @section:noun@ 
+# sheminkari / =shem -inka -ri / =to.be.bored -nmz -nmz / EN: 'bored'; ES: 'aburrido'
+!| "[=sheminkari+~{V:/'to.be.bored':shem/}{NMZ:nka}{NMZ:ri}+gndr@m.][NRoot][=bored (ES: aburrido)]" : {sheminkari} ! @section:noun@ 
 ! 
 # ---------------------------------------------------------
 | "[=shesheti][NRoot][=hoatzin, heron.sp. (ES: sp.de.ave, shansho; sci.nm.: ophistocomus.hoatzin/hoazin/hoactzin)]" : {shesheti}
