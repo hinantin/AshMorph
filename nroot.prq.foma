@@ -3380,7 +3380,7 @@ define NRootPRQin [
 | "[=miyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {miyiri}
 # ----------------------------------------------------------------- 
 ! 
-| "[=miitsi+gndr@m.][NRoot][=cat (ES: gato)]" : {miitsi}
+| "[=miitsi+gndr@m.][NRoot][=cat (ES: gato)]" : {miitsi} ! @section:noun@ 
 | "[=misho+gndr@m.][NRoot][=cat (ES: gato)]" : {misho}
 | "[=miisho+gndr@m.][NRoot][=cat (ES: gato)]" : {miisho}
 | "[=miishito+gndr@m.][NRoot][=cat (ES: gato)]" : {miishito}
