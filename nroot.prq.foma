@@ -3883,13 +3883,13 @@ define NRootPRQin [
 | "[=onero][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {onero}
 # ---------------------------------------------------------------------
 ! 
-| "[=onika][NRoot][=region.where.it.trembles; earthquake (ES: temblor)]" : {onika} ! @section:noun@ 
+| "[=onika][NRoot][=region.where.it.trembles;| earthquake (ES: temblor)]" : {onika} ! @section:noun@ 
 ! antyaro onika / =antyaro =onika / =big =earthquake / ES: un.gran.terremoto, EN: big.earthquake 
 ! otarankantanakari, otzimaki antaro onika / o- =tarank -ant -an -ak -a -ri  o- =tzim -ak -i  =antaro  =onika / 3n.m.s- =to.fall.down -appl.reas -dir -prf -irr -rel  3n.m.s- =to.exist -prf -irr  =big  =earthquake / EN: 'when.the.hills.collapsed.during.a.big.earthquake' \cite[p.169]{mihas:narrative:14} 
 | "[=antyaro_onika][NRoot][=big.earthquake (ES: gran.terremoto)]" : {antyaro_onika} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
-| "[=onkama][NRoot][=controller.of.pooled_water/river_tide (ES: controlador.de.agua_empozada/marea_del_río)]" : {onkama}
+| "[=onkama][NRoot][=controller.of.(pooled_water|river_tide) (ES: controlador.de.agua_empozada/marea_del_río)]" : {onkama} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=onkiri+gndr@m.][NRoot][=partridge/bird.sp. (ES: yungururu, perdiz.del.monte; sci.nm.: tinamous.major)]" : {onkiri}
