@@ -3436,8 +3436,8 @@ define NRootPRQin [
 | "[=miro][NRoot][=frog.sp. (ES: especie.de.rana)]" : {miro}
 # ----------------------------------------------------------------- 
 ! 
-| "[=meronki+gndr@n.m.][NRoot][=tree.sp. (ES: chimicua)]" : {meronki}
-| "[=mironki+gndr@n.m.][NRoot][=tree.sp. (ES: chimicua)]" : {mironki}
+| "[=meronki+gndr@n.m.][NRoot][=chimicua-tree.sp. (ES: chimicua)]" : {meronki}
+| "[=mironki+gndr@n.m.][NRoot][=chimicua-tree.sp. (ES: chimicua)]" : {mironki} ! @section:noun@ 
 # ----------------------------------------------------------------- 
 ! 
 | "[=mironta][NRoot][=flat (ES: objeto.plano-y-chato)]" : {mironta} ! @VCMP 
