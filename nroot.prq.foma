@@ -5023,7 +5023,7 @@ define NRootPRQin [
 ! 1st person ?
 | "[=rento+gndr@n.m.+inal@tsi.+kin@fem.ego][NRoot][=sister]" : {rento}
 | "[=reento+gndr@n.m.+inal@tsi.+kin@fem.ego][NRoot][=sister]" : {reento}
-| "[=irento+gndr@n.m.+kin@fem.ego+voc@1SG:2SG:3SG:1PL.][NRoot][=sister]" : {irento}
+| "[=irento+gndr@n.m.+kin@fem.ego+voc@1SG:2SG:3SG:1PL.][NRoot][=sister]" : {irento} ! @section:noun@ 
 | "[=ireento+gndr@n.m.+kin@fem.ego][NRoot][=sister]" : {ireento}
 | "[=irinto+gndr@n.m.+kin@fem.ego][NRoot][=sister]" : {irinto}
 | "[=irintyo~irin{E.PAL.:ty}o+gndr@n.m.+kin@fem.ego][NRoot][=little.sister]" : {irintyo}
