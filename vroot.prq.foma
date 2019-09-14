@@ -1809,7 +1809,8 @@ define VRootPRQin [
 | "[=sok][VRoot][=to.leave (ES: salir)]" : {sok}
 | "[=soki][VRoot][=to.leave (ES: salir)]" : {soki}
 | "[=sokih][VRoot][=to.leave, to.go.out (ES: salir)]" : {sokih}
-#| "[=sokih][VRoot][=to.go.out (ES: salir)]" : {sokih}
+! sokijamentotsi / sokihamentotsi / =sokih -a -mento -tsi / =to.go.out -ep -concr -nposs / EN: 'exit'; ES: 'salida' 
+!| "[=sokihamento+~{V:/'to.go.out':sokih/}{EP:a}{CONCR:mento}+inal@tsi.][VRoot][=exit (ES: salida)]" : {sokihamento} ! @section:noun@ 
 # -----------------------------------------------------------------------
 ! 
 | "[=okire][VRoot][=to.amaze (ES: asombrar)]" : {okire}
