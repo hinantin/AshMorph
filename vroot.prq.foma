@@ -1810,7 +1810,7 @@ define VRootPRQin [
 | "[=soki][VRoot][=to.leave (ES: salir)]" : {soki}
 | "[=sokih][VRoot][=to.leave, to.go.out (ES: salir)]" : {sokih}
 ! sokijamentotsi / sokihamentotsi / =sokih -a -mento -tsi / =to.go.out -ep -concr -nposs / EN: 'exit'; ES: 'salida' 
-!| "[=sokihamento+~{V:/'to.go.out':sokih/}{EP:a}{CONCR:mento}+inal@tsi.][VRoot][=exit (ES: salida)]" : {sokihamento} ! @section:noun@ 
+!| "[=sokihamento+~{V:/'to.go.out':sokih/}{EP:a}{CONCR:mento}+inal@tsi.][NRoot][=exit (ES: salida)]" : {sokihamento} ! @section:noun@ 
 # -----------------------------------------------------------------------
 ! 
 | "[=okire][VRoot][=to.amaze (ES: asombrar)]" : {okire}
@@ -2577,6 +2577,8 @@ define VRootPRQin [
 ! 
 ! shintsiri / =shintsi -ri / =to.be.strong -nmz / EN: 'robust, sturdy'; ES: 'robusto' 
 | "[=shintsi][VRoot][=to.be.strong]" : {shintsi}
+! shintsitsaro / =shintsi -tsa -ro+n.m. / =to.be.strong -cl:long.flexible.thin -nmz / EN: 'exclamation.mark'; ES: 'signo.de.admiración'
+!| "[=shintsitsaro+~{V:/'to.be.strong':shintsi/}{CL:/'long.flexible.thin':tsa/}{NMZ:ro}][NRoot][=exclamation.mark (ES: signo.de.admiración)]" : {shintsitsaro}
 # ---------------------------------------------------------------------------
 ! 
 | "[=shintsi][VRoot][=to.be.quick, to.be.fast]" : {shintsi}
