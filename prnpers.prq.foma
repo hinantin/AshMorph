@@ -72,7 +72,6 @@ define PrnPersPRQin [
 | "[=aroka+pragm.func@cont.d.TOP.+num@1PL.INCL.][PrnPers][=we]" : {aroka}
 ! ********************
 ! 
-# --------------------------------------------
 # Plural marking of human/animated nouns 
 ! 
 | "[=naakaite+pragm.func@cont.d.TOP.+num@1PL.EXCL.][PrnPers][=we]" : {naakaite}
@@ -88,9 +87,8 @@ define PrnPersPRQin [
 | "[=irooite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {irooite}
 ! 
 | "[=arokaite+pragm.func@cont.d.TOP.+num@1PL.INCL.][PrnPers]" : {arokaite}
-! arori (Pe) ~ ayarori (Paj)
-| "[=arorite+~{FOC:/'we':arori/}{ELIS:i}{ANIM.PL:ite}+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][=we.too]" : {arorite}
 # -------------------------------------------------------------------
+! 
 | "[=naari+pragm.func@cntr.add.l.FOC.+num@1SG.EXCL.][PrnPers][=I (ES: yo.también)]" : {naari} ! FOC "I" 
 | "[=narori+pragm.func@cntr.add.l.FOC.+num@1SG][PrnPers][=I (ES: a.mi.persona)]" : {narori}
 ! 
@@ -109,10 +107,13 @@ define PrnPersPRQin [
 | "[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-paeni][Num][+PL]::[=they (ES: ellas)]" : {iroripaeni}
 | "[=iroori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)][--][-hei][Num][+PL]::[=they (ES: ellas)]" : {iroorihei} ! FOC 
 !  
+! arori (Pe) ~ ayarori (Paj)
 | "[=arori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][= (ES: nosotros, nosotros.también)]" : {arori}
 | "[=aroori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][= (ES: nosotros.también)]" : {aroori}
 | "[=aroori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
 | "[=aro+num@1PL.INCL.][PrnPers][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
+! 
+| "[=arorite+~{FOC:/'we':arori/}{ELIS:i}{ANIM.PL:ite}+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][=we.too]" : {arorite}
 # -------------------------------------------------------------------
 # ---------------------------------------------
 # Perfective 
