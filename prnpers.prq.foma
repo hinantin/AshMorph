@@ -179,6 +179,8 @@ define PrnPersPRQin [
 ! 
 | "[=naintsi+pragm.func@CONTR.d.TOP.+num@1SG.EXCL][PrnPers][=][--][=ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
 # -------------------------------------------------------------------
+! 
+! aisati / ES: 'también'
 # -sati (EN: 'too/also'; ES: 'también')
 | "[=narosati+pragm.func@RFLX.INTSF.+num@1SG][PrnPers][=me.too/also (ES: yo.también); myself]" : {narosati}
 | "[=avisati+pragm.func@RFLX.INTSF.+num@2SG][PrnPers][=you.too/also (ES: tú.también); yourself]" : {avisati}
@@ -191,6 +193,5 @@ define PrnPersPRQin [
 | "[=irohatzi+pragm.func@RFLX.INTSF.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
 ! irojati noshiyapithatantanacariri, / irohati noshiyapitsatantanakariri / =irohati no- =shiy -apitsa -t -ant -an -ak -a =ri =ri / ES: 'así.es.que.tuve.que.escaparme.de.él.' 
 | "[=irohati+pragm.func@RFLX.INTSF.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohati} 
-! aisati / ES: 'también'
 ];
 
