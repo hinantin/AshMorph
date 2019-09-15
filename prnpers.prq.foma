@@ -9,7 +9,7 @@ define PrnPersPRQin [
 ! SET 3: +cntr.EXH.l.FOC. (-taki~-take: contrastive exhaustive listing, +FOCUS)
 !         EXH.FOC 
 ! SET 4: +CONTR.d.TOP. (-intsi: contrastive discourse TOPIC; extant.pronouns)
-!        +cntr.cnt.assert.TOP. (-inti: contrastive counter-assertive TOPIC)
+!        +CONTR.cnt.assert.TOP. (-inti: contrastive counter-assertive TOPIC)
 !         CONTR.TOP 
 ! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
 # -------------------------------------------------------------------
@@ -161,25 +161,25 @@ define PrnPersPRQin [
 !| "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
 | "[=naintsi+pragm.func@CONTR.d.TOP.+num@1SG.EXCL][PrnPers][=I…on.my.own]" : {naintsi}
 | "[=naintsi+pragm.func@CONTR.d.TOP.+num@1SG.EXCL][PrnPers][=I…on.my.own][--][-ma][+DUB]" : {naintsima}
-| "[=aintsi+pragm.func@cntr.d.top.+num@1SG.INCL][PrnPers][=]" : {aintsi}
-| "[=avintsi+pragm.func@cntr.d.top.+num@2SG][PrnPers][=you]" : {avintsi}
-| "[=irintsi+pragm.func@cntr.d.top.+num@3SG+gndr@m.][PrnPers][=he]" : {irintsi}
-| "[=ariintsi+pragm.func@cntr.d.top.+num@3SG+gndr@m.][PrnPers][=]" : {ariintsi}
-| "[=irontsi+pragm.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {irontsi}
-| "[=aronintsi+pragm.func@cntr.d.top.+num@3SG+gndr@n.m.][PrnPers][=]" : {aronintsi}
+| "[=aintsi+pragm.func@CONTR.d.TOP.+num@1SG.INCL][PrnPers][=]" : {aintsi}
+| "[=avintsi+pragm.func@CONTR.d.TOP.+num@2SG][PrnPers][=you]" : {avintsi}
+| "[=irintsi+pragm.func@CONTR.d.TOP.+num@3SG+gndr@m.][PrnPers][=he]" : {irintsi}
+| "[=ariintsi+pragm.func@CONTR.d.TOP.+num@3SG+gndr@m.][PrnPers][=]" : {ariintsi}
+| "[=irontsi+pragm.func@CONTR.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=]" : {irontsi}
+| "[=aronintsi+pragm.func@CONTR.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=]" : {aronintsi}
 ! 
-| "[=nainti+pragm.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I (ES: yo)]" : {nainti}
-| "[=ainti+pragm.func@cntr.cnt.assert.top.+num@1SG][PrnPers][=I]" : {ainti}
-| "[=avinti+pragm.func@cntr.cnt.assert.top.+num@2SG][PrnPers][=you]" : {avinti}
-| "[=irointi+pragm.func@cntr.cnt.assert.top.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella); she…on.her.own (ES: ella.sola)]" : {irointi}
-| "[=irinti+pragm.func@cntr.cnt.assert.top.+num@3SG+gndr@m.][PrnPers][=he; he…on.his.own (ES: él.solo)]" : {irinti}
-| "[=iriinti+pragm.func@cntr.cnt.assert.top.+num@3SG+gndr@m.][PrnPers][=he]" : {iriinti}
-| "[=arointi+pragm.func@cntr.cnt.assert.top.+num@1PL][PrnPers][=...]" : {arointi}
+| "[=nainti+pragm.func@CONTR.cnt.assert.TOP.+num@1SG][PrnPers][=I (ES: yo)]" : {nainti}
+| "[=ainti+pragm.func@CONTR.cnt.assert.TOP.+num@1SG][PrnPers][=I]" : {ainti}
+| "[=avinti+pragm.func@CONTR.cnt.assert.TOP.+num@2SG][PrnPers][=you]" : {avinti}
+| "[=irointi+pragm.func@CONTR.cnt.assert.TOP.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella); she…on.her.own (ES: ella.sola)]" : {irointi}
+| "[=irinti+pragm.func@CONTR.cnt.assert.TOP.+num@3SG+gndr@m.][PrnPers][=he; he…on.his.own (ES: él.solo)]" : {irinti}
+| "[=iriinti+pragm.func@CONTR.cnt.assert.TOP.+num@3SG+gndr@m.][PrnPers][=he]" : {iriinti}
+| "[=arointi+pragm.func@CONTR.cnt.assert.TOP.+num@1PL][PrnPers][=...]" : {arointi}
 ! 
-| "[=naintsi+pragm.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=][--][-ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
+| "[=naintsi+pragm.func@CONTR.d.TOP.+num@1SG.EXCL][PrnPers][=][--][=ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
 # -------------------------------------------------------------------
 # -sati (EN: 'too/also'; ES: 'también')
-| "[=narosati+pragm.func@rflx.intsf.+num@1SG][PrnPers][=me.too/also; myself]" : {narosati}
+| "[=narosati+pragm.func@rflx.intsf.+num@1SG][PrnPers][=me.too/also (ES: yo.también); myself]" : {narosati}
 | "[=avisati+pragm.func@rflx.intsf.+num@2SG][PrnPers][=you.too/also; yourself]" : {avisati}
 | "[=irisati+pragm.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself]" : {irisati}
 | "[=irosati+pragm.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself]" : {irosati}
