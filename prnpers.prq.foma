@@ -106,12 +106,12 @@ define PrnPersPRQin [
 # ---------------------------------------------
 # MCB: ikutavankitaki / i- =kuta =panki -t -ak -i / 3m.s- =be.white =feather -ep -prf -real / EN: 'He.is.white-feathered' 
 # -t-ak-i 
-| "[=naakataki+pragm.func@cntr.exh.l.+foc.+num@1SG][PrnPers][=I.am.the.one.(who)]" : {naakataki} ! FOC 
-| "[=narotake+pragm.func@cntr.exh.l.+foc.+num@1SG][PrnPers][=it.is.I]" : {narotake}
+| "[=naakataki+pragm.func@cntr.exh.l.FOC.+num@1SG][PrnPers][=I.am.the.one.(who)]" : {naakataki} ! FOC 
+| "[=narotake+pragm.func@cntr.exh.l.FOC.+num@1SG][PrnPers][=it.is.I]" : {narotake}
 ! 
 | "[=avirotaki+pragm.func@cntr.exh.l.+num@2SG][PrnPers]" : {avirotaki}
 | "[=avirotake+pragm.func@cntr.exh.l.+num@2SG][PrnPers][= (ES: Sí.tú.lo.eres)]" : {avirotake}
-| "[=avirokataki+pragm.func@cntr.exh.l.+num@2SG][PrnPers][=you.are.the.one.who]" : {avirokataki}
+| "[=avirokataki+pragm.func@cntr.exh.l.FOC.+num@2SG][PrnPers][=you.are.the.one.who]" : {avirokataki}
 ! 
 | "[=iritaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]" : {iritaki} ! FOC "that's.why" (set 1)
 | "[=iriitaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {iriitaki} ! FOC "that's.why" (set 1)
