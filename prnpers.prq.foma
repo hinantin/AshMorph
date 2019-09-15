@@ -76,7 +76,7 @@ define PrnPersPRQin [
 ! 
 # Plural marking of human/animated nouns 
 ! 
-| "[=naakaite+pragm.func@cont.d.TOP.+num@1PL.EXCL.][PrnPers][=we]" : {naakaite}
+| "[=naakaite+~{PRN:/'1SG.EXCL.TOP':naaka/}{ANIM.PL:ite}+pragm.func@cont.d.TOP.+num@1PL.EXCL.][PrnPers][=we]" : {naakaite}
 ! 
 | "[=avirokaite+pragm.func@cont.d.TOP.+num@2PL.EXCL.][PrnPers][=you.(all)]" : {avirokaite}
 | "[=eerokaite+num@2PL][PrnPers][=you]" : {eerokaite}
