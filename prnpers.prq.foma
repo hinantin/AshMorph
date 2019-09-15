@@ -65,7 +65,9 @@ define PrnPersPRQin [
 | "[=aaka+num@1PL.INCL.][PrnPers][=we]" : {aaka}  
 | "[=aka+num@1PL][PrnPers][=we][--][-paeni][Num][+PL]::[=we (ES: nosotras)]" : {akapaeni}  ! aka shortened form of naka ???  
 | "[=naka+pragm.func@cont.d.top.+num@1SG][PrnPers][=I (ES: yo)][--][-paeni][Num][+PL]::[=we (ES: nosotros)]" : {nakapaeni}  
+! 
 | "[=aro+num@1PL.INCL.][PrnPers][=we]" : {aro} 
+| "[=aro+num@1PL.INCL.][PrnPers][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
 ! ********************
 ! 
 ! aroka (Pe) ~ ayaroka (Paj)
@@ -110,9 +112,11 @@ define PrnPersPRQin [
 ! arori (Pe) ~ ayarori (Paj)
 | "[=arori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][= (ES: nosotros, nosotros.también)]" : {arori}
 | "[=aroori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][= (ES: nosotros.también)]" : {aroori}
-| "[=aroori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
-| "[=aro+num@1PL.INCL.][PrnPers][=we][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {arohei} 
 ! 
+# Plural marking  
+| "[=aroori+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][--][-hei][Num][+PL]::[=we (ES: nosotros)]" : {aroorihei}
+! 
+# Plural marking of human/animated nouns 
 | "[=arorite+~{FOC:/'we':arori/}{ELIS:i}{ANIM.PL:ite}+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][=we.too]" : {arorite}
 # -------------------------------------------------------------------
 # ---------------------------------------------
