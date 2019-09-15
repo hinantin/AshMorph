@@ -159,8 +159,8 @@ define PrnPersPRQin [
 # -------------------------------------------------------------------
 # -intsi~-inti
 !| "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
-| "[=naintsi+pragm.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=I…on.my.own]" : {naintsi}
-| "[=naintsi+pragm.func@cntr.d.top.+num@1SG.EXCL][PrnPers][=I…on.my.own][--][-ma][+DUB]" : {naintsima}
+| "[=naintsi+pragm.func@CONTR.d.TOP.+num@1SG.EXCL][PrnPers][=I…on.my.own]" : {naintsi}
+| "[=naintsi+pragm.func@CONTR.d.TOP.+num@1SG.EXCL][PrnPers][=I…on.my.own][--][-ma][+DUB]" : {naintsima}
 | "[=aintsi+pragm.func@cntr.d.top.+num@1SG.INCL][PrnPers][=]" : {aintsi}
 | "[=avintsi+pragm.func@cntr.d.top.+num@2SG][PrnPers][=you]" : {avintsi}
 | "[=irintsi+pragm.func@cntr.d.top.+num@3SG+gndr@m.][PrnPers][=he]" : {irintsi}
