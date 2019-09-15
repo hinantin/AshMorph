@@ -75,18 +75,21 @@ define PrnPersPRQin [
 # --------------------------------------------
 # Plural marking of human/animated nouns 
 ! 
-| "[=arokaite+pragm.func@cont.d.TOP.+num@1PL.INCL.][PrnPers]" : {arokaite}
-! arori (Pe) ~ ayarori (Paj)
-| "[=arorite+~{FOC:/'we':arori/}{DEL:i}{ANIM.PL:ite}+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][=we.too]" : {arorite}
-! 
 | "[=naakaite+pragm.func@cont.d.TOP.+num@1PL.EXCL.][PrnPers][=we]" : {naakaite}
+! 
 | "[=avirokaite+pragm.func@cont.d.TOP.+num@2PL.EXCL.][PrnPers][=you.(all)]" : {avirokaite}
 | "[=eerokaite+num@2PL][PrnPers][=you]" : {eerokaite}
 | "[=erokaite+num@2PL][PrnPers][=you]" : {erokaite}
+! 
 | "[=iriroite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@m.][PrnPers][=they.(all)]" : {iriroite}
 | "[=iririroite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@m.][PrnPers]" : {iririroite}
+! 
 | "[=iroite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {iroite}
 | "[=irooite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {irooite}
+! 
+| "[=arokaite+pragm.func@cont.d.TOP.+num@1PL.INCL.][PrnPers]" : {arokaite}
+! arori (Pe) ~ ayarori (Paj)
+| "[=arorite+~{FOC:/'we':arori/}{ELIS:i}{ANIM.PL:ite}+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][=we.too]" : {arorite}
 # -------------------------------------------------------------------
 | "[=naari+pragm.func@cntr.add.l.FOC.+num@1SG.EXCL.][PrnPers][=I (ES: yo.también)]" : {naari} ! FOC "I" 
 | "[=narori+pragm.func@cntr.add.l.FOC.+num@1SG][PrnPers][=I (ES: a.mi.persona)]" : {narori}
