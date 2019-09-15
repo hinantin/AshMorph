@@ -114,15 +114,14 @@ define PrnPersPRQin [
 | "[=avirokataki+pragm.func@cntr.exh.l.FOC.+num@2SG][PrnPers][=you.are.the.one.who]" : {avirokataki}
 ! 
 | "[=iritaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]" : {iritaki} ! FOC "that's.why" (set 1)
-| "[=iriitaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {iriitaki} ! FOC "that's.why" (set 1)
-| "[=iriitake+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {iriitake}
-| "[=riitaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {riitaki} ! FOC "that's.why" (set 1)
-| "[=ritaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {ritaki} ! FOC "that's.why" (set 1)
-| "[=iritake+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {iritake} ! FOC "that's.why" (set 1)
-| "[=iriotake+num@3SG+gndr@m.][PrnPers][=he.is (ES: él.es)]" : {iriotake}
+| "[=iriitaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {iriitaki} ! FOC "that's.why" (set 1)
+| "[=iriitake+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {iriitake}
+| "[=riitaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {riitaki} ! FOC "that's.why" (set 1)
+| "[=ritaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {ritaki} ! FOC "that's.why" (set 1)
+| "[=iritake+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {iritake} ! FOC "that's.why" (set 1)
+| "[=iriotake+~{PRN:/3SG.m.TOP.:irio/}{EP:t}{PRF:ak}{REAL:e}+num@3SG+gndr@m.][PrnPers][=he.is (ES: él.es)]" : {iriotake}
 | "[=rirotaki+num@3SG+gndr@m.][PrnPers][=he.is.the.one.(who) (ES: él.es.quien)]" : {rirotaki}
 | "[=rirootaki+num@3SG+gndr@m.][PrnPers][=he.is.the.one.(who) (ES: él.es.quien)]" : {rirootaki}
-| "[=irio+pragm.func@cont.d.top.+num@3SG+gndr@m.][PrnPers][=he][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=he.is (ES: él.es)]" : {iriotake}
 ! 
 | "[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]" : {irotaki} ! FOC "that's.why" 
 | "[=irootaki+pragm.func@cntr.exh.l.+foc.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]" : {irootaki} ! FOC "that's.why" 
