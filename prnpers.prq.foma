@@ -12,6 +12,7 @@ define PrnPersPRQin [
 !        +CONTR.cnt.assert.TOP. (-inti: contrastive counter-assertive TOPIC)
 !         CONTR.TOP 
 ! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
+!         RFLX.INTSF 
 # -------------------------------------------------------------------
 ! ********************
 ! 
@@ -27,7 +28,7 @@ define PrnPersPRQin [
 | "[=aviroka+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you]" : {aviroka}
 ! avirompa / =aviro -mpa / =you -dub / 
 | "[=aviro+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
-| "[=aviro+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
+| "[=aviro+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC? 
 ! ********************
 ! 
 # yora 
@@ -179,17 +180,17 @@ define PrnPersPRQin [
 | "[=naintsi+pragm.func@CONTR.d.TOP.+num@1SG.EXCL][PrnPers][=][--][=ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
 # -------------------------------------------------------------------
 # -sati (EN: 'too/also'; ES: 'también')
-| "[=narosati+pragm.func@rflx.intsf.+num@1SG][PrnPers][=me.too/also (ES: yo.también); myself]" : {narosati}
-| "[=avisati+pragm.func@rflx.intsf.+num@2SG][PrnPers][=you.too/also (ES: tú.también); yourself]" : {avisati}
-| "[=irisati+pragm.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself]" : {irisati}
-| "[=irosati+pragm.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself]" : {irosati}
-| "[=arosati+pragm.func@rflx.intsf.+num@1PL][PrnPers][=we.too/also; ourselves]" : {arosati}
-| "[=irisati+pragm.func@rflx.intsf.+num@3PL+gndr@m.][PrnPers][=they.too/also; they.themselves]" : {irisati}
+| "[=narosati+pragm.func@RFLX.INTSF.+num@1SG][PrnPers][=me.too/also (ES: yo.también); myself]" : {narosati}
+| "[=avisati+pragm.func@RFLX.INTSF.+num@2SG][PrnPers][=you.too/also (ES: tú.también); yourself]" : {avisati}
+| "[=irisati+pragm.func@RFLX.INTSF.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself]" : {irisati}
+| "[=irosati+pragm.func@RFLX.INTSF.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself]" : {irosati}
+| "[=arosati+pragm.func@RFLX.INTSF.+num@1PL][PrnPers][=we.too/also; ourselves]" : {arosati}
+| "[=irisati+pragm.func@RFLX.INTSF.+num@3PL+gndr@m.][PrnPers][=they.too/also; they.themselves]" : {irisati}
 # -hatzi (EN: 'too'; ES: 'también')
-| "[=irihatzi+pragm.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself (ES: él.mismo, ese.mismo)]" : {irihatzi} ! irijatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ese.mismo, lit: ella.también'  
-| "[=irohatzi+pragm.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
+| "[=irihatzi+pragm.func@RFLX.INTSF.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself (ES: él.mismo, ese.mismo)]" : {irihatzi} ! irijatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'ese.mismo, lit: ella.también'  
+| "[=irohatzi+pragm.func@RFLX.INTSF.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
 ! irojati noshiyapithatantanacariri, / irohati noshiyapitsatantanakariri / =irohati no- =shiy -apitsa -t -ant -an -ak -a =ri =ri / ES: 'así.es.que.tuve.que.escaparme.de.él.' 
-| "[=irohati+pragm.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohati} 
+| "[=irohati+pragm.func@RFLX.INTSF.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohati} 
 ! aisati / ES: 'también'
 ];
 
