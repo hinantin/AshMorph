@@ -3,10 +3,14 @@
 define PrnPersPRQin [
 ! Pragmatic functions +pragm.func 
 ! SET 1: +cont.d.TOP. (continuous discourse topic)
+!         TOP 
 ! SET 2: +cntr.add.l.FOC. (-ri: contrastive additive listing, +FOCUS; these pronouns are used as reflexive forms with the meaning 'own')
-! SET 3: +cntr.exh.l.FOC. (-taki~-take: contrastive exhaustive listing, +FOCUS)
-! SET 4: +cntr.d.TOP. (-intsi: contrastive discourse TOPIC; extant.pronouns)
-! +cntr.cnt.assert.TOP. (-inti: contrastive counter-assertive TOPIC)
+!         FOC 
+! SET 3: +cntr.EXH.l.FOC. (-taki~-take: contrastive exhaustive listing, +FOCUS)
+!         EXH.FOC 
+! SET 4: +CONTR.d.TOP. (-intsi: contrastive discourse TOPIC; extant.pronouns)
+!        +cntr.cnt.assert.TOP. (-inti: contrastive counter-assertive TOPIC)
+!         CONTR.TOP 
 ! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
 # -------------------------------------------------------------------
   "[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naaka} ! @section:prnpers@ 
@@ -59,7 +63,7 @@ define PrnPersPRQin [
 | "[=aro+num@1PL.INCL.][PrnPers][=we]" : {aro} 
 ! 
 # --------------------------------------------
-# Plural marking of human nouns 
+# Plural marking of human/animated nouns 
 # TOP: plural topical
 # FOC: focused pronouns 
 ! 
@@ -119,7 +123,7 @@ define PrnPersPRQin [
 | "[=riitaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who)]" : {riitaki} ! FOC "that's.why" (set 1)
 | "[=ritaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {ritaki} ! FOC "that's.why" (set 1)
 | "[=iritake+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]" : {iritake} ! FOC "that's.why" (set 1)
-| "[=iriotake+~{PRN:/3SG.m.TOP.:irio/}{EP:t}{PRF:ak}{REAL:e}+num@3SG+gndr@m.][PrnPers][=he.is (ES: él.es)]" : {iriotake}
+| "[=iriotake+~{PRN:/'3SG.m.TOP.':irio/}{EP:t}{PRF:ak}{REAL:e}+num@3SG+gndr@m.][PrnPers][=he.is (ES: él.es)]" : {iriotake}
 | "[=rirotaki+num@3SG+gndr@m.][PrnPers][=he.is.the.one.(who) (ES: él.es.quien)]" : {rirotaki}
 | "[=rirootaki+num@3SG+gndr@m.][PrnPers][=he.is.the.one.(who) (ES: él.es.quien)]" : {rirootaki}
 ! 
@@ -127,9 +131,8 @@ define PrnPersPRQin [
 | "[=irootaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]" : {irootaki} ! FOC "that's.why" 
 | "[=rootaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is (ES: ella.es); she.is.the.one.(who) (ES: ella.es.quien)]" : {rootaki} ! FOC "that's.why" 
 | "[=irotake+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she, she.is.the.one.(who), it.is.the.one.(that)]" : {irotake} ! FOC "that's.why" , "she"
-| "[=irootake+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {irootake} 
+| "[=irootake+~{PRN:/'3SG.n.m.TOP':iroo/}{EP:t}{PRF:ak}{REAL:e}+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {irootake} 
 | "[=rootake+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {rootake} 
-| "[=iroo+pragm.func@cont.d.top.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why][--][-t][+EP][--][-ak][+PRF][--][-e][-REAL]::[=that's.why, she; she.is (ES: ella.es)]" : {irootake}
 
 #| "[=rootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {rootake}
 #| "[=irootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {irootake}
@@ -138,7 +141,7 @@ define PrnPersPRQin [
 
 ! 
 | "[=arotaki+pragm.func@cntr.exh.l.FOC.+num@1PL][PrnPers][=]" : {arotaki}
-| "[=arotake+pragm.func@cntr.exh.l.+num@1PL][PrnPers][=]" : {arotake}
+| "[=arotake+pragm.func@cntr.exh.l.FOC.+num@1PL][PrnPers][=]" : {arotake}
 # -------------------------------------------------------------------
 # -intsi~-inti
 !| "[=naintsi][OtherRoot][=I.C.F]" : {naintsi}
