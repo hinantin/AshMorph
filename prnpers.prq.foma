@@ -13,10 +13,13 @@ define PrnPersPRQin [
 !         CONTR.TOP 
 ! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
 # -------------------------------------------------------------------
+! ********************
+! 
   "[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naaka} ! @section:prnpers@ 
 | "[=naka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naka} ! @section:prnpers@ 
 # naro: it is only used in greetings 
 | "[=naro+pragm.func@cont.d.TOP.+num@1SG][PrnPers][=I (ES: yo)]" : {naro} ! @section:prnpers@ 
+! ********************
 ! 
 # aviro 
 | "[=aviro+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú)]" : {aviro} ! @section:prnpers@ 
@@ -25,6 +28,8 @@ define PrnPersPRQin [
 ! avirompa / =aviro -mpa / =you -dub / 
 | "[=aviro+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú)][--][-mpa][+DUB]" : {avirompa} !@ANALYZED
 | "[=aviro+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú)][--][-hei][Num][+PL]::[=you (ES: ustedes)]" : {avirohei} ! FOC 
+! ********************
+! 
 # yora 
 | "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {yora}
 | "[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-hei][Num][+PL]::[=they (ES: ellos)]" : {yorahei}
@@ -38,8 +43,8 @@ define PrnPersPRQin [
 | "[=iiroka+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú, usted)]" : {iiroka}
 ! 
 | "[=eroka+num@2SG][PrnPers][=you (ES: tú, usted)][--][-paeni][Num][+PL]::[=you (ES: Ustedes)]" : {erokapaeni}
+! ********************
 ! 
-# ------------------------------------------------ 
 # iri ~ iriro 
 | "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iri} ! @section:prnpers@ 
 ! 
@@ -49,7 +54,7 @@ define PrnPersPRQin [
 | "[=iriro+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriro} ! @section:prnpers@ 
 | "[=irio+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {irio}
 | "[=iryo+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iryo}
-# ------------------------------------------------ 
+! ********************
 ! 
 # iro 
 | "[=iro+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]" : {iro}
@@ -61,14 +66,15 @@ define PrnPersPRQin [
 | "[=aka+num@1PL][PrnPers][=we][--][-paeni][Num][+PL]::[=we (ES: nosotras)]" : {akapaeni}  ! aka shortened form of naka ???  
 | "[=naka+pragm.func@cont.d.top.+num@1SG][PrnPers][=I (ES: yo)][--][-paeni][Num][+PL]::[=we (ES: nosotros)]" : {nakapaeni}  
 | "[=aro+num@1PL.INCL.][PrnPers][=we]" : {aro} 
-! 
-# --------------------------------------------
-# Plural marking of human/animated nouns 
-# TOP: plural topical
-# FOC: focused pronouns 
+! ********************
 ! 
 ! aroka (Pe) ~ ayaroka (Paj)
 | "[=aroka+pragm.func@cont.d.TOP.+num@1PL.INCL.][PrnPers][=we]" : {aroka}
+! ********************
+! 
+# --------------------------------------------
+# Plural marking of human/animated nouns 
+! 
 | "[=arokaite+pragm.func@cont.d.TOP.+num@1PL.INCL.][PrnPers]" : {arokaite}
 ! arori (Pe) ~ ayarori (Paj)
 | "[=arorite+~{FOC:/'we':arori/}{DEL:i}{ANIM.PL:ite}+pragm.func@cntr.add.l.FOC.+num@1PL.INCL.][PrnPers][=we.too]" : {arorite}
