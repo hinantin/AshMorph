@@ -66,10 +66,10 @@ define PrnPersPRQin [
 | "[=aaka+num@1PL.INCL.][PrnPers][=we]" : {aaka}  
 | "[=akapaeni+~{PRN:/'1PL':aka/}{PL:paeni}][PrnPers][=we (ES: nosotras)]" : {akapaeni}  ! aka shortened form of naka ???  
 | "[=nakapaeni+~{PRN:/'1SG.TOP':naka/}{PL:paeni}][PrnPers][=we (ES: nosotros)]" : {nakapaeni}  
+! ********************
 ! 
 | "[=aro+num@1PL.INCL.][PrnPers][=we]" : {aro} 
 | "[=arohei+~{PRN:/'1PL.INCL.':aro/}{PL:hei}][PrnPers][=we (ES: nosotros)]" : {arohei} 
-! ********************
 ! 
 ! aroka (Pe) ~ ayaroka (Paj)
 | "[=aroka+pragm.func@cont.d.TOP.+num@1PL.INCL.][PrnPers][=we]" : {aroka}
