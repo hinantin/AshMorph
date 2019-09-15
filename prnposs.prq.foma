@@ -1,8 +1,9 @@
 # free possesive pronominal pronouns
 
 # LABEL ORDER : 
-# 0: +num 
-# 1: +m., +n.m. 
+# 0: +~{..}{..}...{..} 
+# 1: +num 
+# 2: +m., +n.m. 
 
 define PrnPossPRQin [
   "[=nashi+num@1SG][PrnPoss][=mine (ES: mío)]" : {nashi} ! mine ! @section:prnposs@ 
@@ -15,5 +16,6 @@ define PrnPossPRQin [
 | "[=pashiite+num@2PL][PrnPoss][=yours]" : {pashiite} ! @section:prnposs@ 
 | "[=irashiite+num@3PL+gndr@m.][PrnPoss][=theirs]" : {irashiite} ! @section:prnposs@ 
 | "[=ashiite+~{PRN:/'3SG.n.m.':ashi/}{ANIM.PL:ite}+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashiite} ! @section:prnposs@ 
+| "[=ashite+~{PRN:/'3SG.n.m.':ashi/}{ELIS:i}{ANIM.PL:ite}+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashite}
 ];
 
