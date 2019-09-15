@@ -14,6 +14,6 @@ define PrnPossPRQin [
 | "[=ashi+num@1PL][PrnPoss][=ours]" : {ashi} ! @section:prnposs@ 
 | "[=pashiite+num@2PL][PrnPoss][=yours]" : {pashiite} ! @section:prnposs@ 
 | "[=irashiite+num@3PL+gndr@m.][PrnPoss][=theirs]" : {irashiite} ! @section:prnposs@ 
-| "[=ashiite+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashiite} ! @section:prnposs@ 
+| "[=ashiite+~{PRN:/'3SG.n.m.':ashi/}{ANIM.PL:ite}+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashiite} ! @section:prnposs@ 
 ];
 
