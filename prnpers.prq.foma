@@ -180,7 +180,7 @@ define PrnPersPRQin [
 # -------------------------------------------------------------------
 # -sati (EN: 'too/also'; ES: 'también')
 | "[=narosati+pragm.func@rflx.intsf.+num@1SG][PrnPers][=me.too/also (ES: yo.también); myself]" : {narosati}
-| "[=avisati+pragm.func@rflx.intsf.+num@2SG][PrnPers][=you.too/also; yourself]" : {avisati}
+| "[=avisati+pragm.func@rflx.intsf.+num@2SG][PrnPers][=you.too/also (ES: tú.también); yourself]" : {avisati}
 | "[=irisati+pragm.func@rflx.intsf.+num@3SG+gndr@m.][PrnPers][=he.too/also; himself]" : {irisati}
 | "[=irosati+pragm.func@rflx.intsf.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself]" : {irosati}
 | "[=arosati+pragm.func@rflx.intsf.+num@1PL][PrnPers][=we.too/also; ourselves]" : {arosati}
