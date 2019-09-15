@@ -15,9 +15,9 @@ define PrnPossPRQin [
 | "[=ashi+num@1PL][PrnPoss][=ours]" : {ashi} ! @section:prnposs@ 
 | "[=pashiite+num@2PL][PrnPoss][=yours]" : {pashiite} ! @section:prnposs@ 
 | "[=pashite+num@2PL][PrnPoss][=yours]" : {pashite}
-| "[=irashiite+num@3PL+gndr@m.][PrnPoss][=theirs]" : {irashiite} ! @section:prnposs@ 
+| "[=irashiite+~{PRN:/'3SG.m.(his)':irashi/}{ANIM.PL:ite}+num@3PL+gndr@m.][PrnPoss][=theirs]" : {irashiite} ! @section:prnposs@ 
 | "[=irashite+num@3PL+gndr@m.][PrnPoss][=theirs]" : {irashite}
-| "[=ashiite+~{PRN:/'3SG.n.m.':ashi/}{ANIM.PL:ite}+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashiite} ! @section:prnposs@ 
-| "[=ashite+~{PRN:/'3SG.n.m.':ashi/}{ELIS:i}{ANIM.PL:ite}+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashite}
+| "[=ashiite+~{PRN:/'3SG.n.m.(its)':ashi/}{ANIM.PL:ite}+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashiite} ! @section:prnposs@ 
+| "[=ashite+~{PRN:/'3SG.n.m.(its)':ashi/}{ELIS:i}{ANIM.PL:ite}+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashite}
 ];
 
