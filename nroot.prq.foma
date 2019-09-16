@@ -7109,6 +7109,7 @@ define NRootPRQin [
 | "[=yompare+gndr@m.+inal@ntsi.][NRoot][=friend (ES: amigo); trading.partner]" : {yompare}
 ! 
 ! ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas; comercio'
+!| "[=ayomparitaantsi][NRoot][=barter, the.bartering (ES: trueque,, persona.que.intercambia.cosas,, comercio)]" : {ayomparitaantsi} ! @section:noun@ 
 | "[=ayompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo); short-distance.bartering.made.by.males (ES: trueque.de.corta.distancia; PT: sistema.de.trocas.tradicional)]" : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine
 ! niomparitacari / niomparitakari / n- =iompari -t -ak -a -ri / 
 | "[=iompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo)]" : {iompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] 
