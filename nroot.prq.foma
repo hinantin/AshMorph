@@ -2895,7 +2895,7 @@ define NRootPRQin [
 ! inal?
 | "[=kovitsi+gndr@n.m.+poss@te.][NRoot][=(clay).pot (ES: olla.(de.barro), tinaja)]" : {kovitsi}
 | "[=koviti+gndr@n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {koviti}
-| "[=kovitzi+gndr@n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {kovitzi}
+| "[=kovitzi+gndr@n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {kovitzi} ! @section:noun@ 
 | "[=kovi+gndr@n.m.+poss@te.][NRoot][=clay.pot]" : {kovi}
 ! 
 # la avispa 'kovitsinari' construye panales de barro de forma esférica que semejan pequeñas ollas de barro 
@@ -5740,12 +5740,12 @@ define NRootPRQin [
 | "[=shinkana][NRoot][=bile (ES: hiel)]" : {shinkana}
 # ------------------------------------------------------------
 ! 
-| "[=shinkari+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shinkari}
+| "[=shinkari+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shinkari} ! @section:noun@ 
 | "[=shenkari+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shenkari}
 ! 
 | "[=shenkanti+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shenkanti}
-| "[=shinkanti+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shinkanti}
-| "[=shinkanto+gndr@n.m.][NRoot][=cry.baby (ES: llorón)]" : {shinkanto}
+| "[=shinkanti+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {shinkanti} ! @section:noun@ 
+| "[=shinkanto+gndr@n.m.][NRoot][=cry.baby (ES: llorón)]" : {shinkanto} ! @section:noun@ 
 ! 
 | "[=irainkari+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {irainkari}
 | "[=irayinkari+gndr@m.][NRoot][=cry.baby (ES: llorón)]" : {irayinkari}
