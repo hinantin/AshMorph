@@ -8,15 +8,15 @@
 define PrnPossPRQin [
   "[=nashi+num@1SG][PrnPoss][=mine (ES: mío)]" : {nashi} ! mine ! @section:prnposs@ 
 | "[=pashi+num@2SG][PrnPoss][=yours (ES: tuyo)]" : {pashi} ! @section:prnposs@ 
-| "[=irashi+num@3SG+gndr@m.][PrnPoss][=his, its (ES: suyo.(de.hombre))]" : {irashi} ! his, its ! @section:prnposs@ 
-| "[=hashi+num@3SG+gndr@m.][PrnPoss][=his, its (ES: suyo.(de.hombre))]" : {hashi} ! jashi 
-| "[=rashi+num@3SG+gndr@m.][PrnPoss][=his (ES: suyo.(de.hombre)]" : {rashi} ! his ! @section:prnposs@ 
-| "[=ashi+num@3SG+gndr@n.m.][PrnPoss][=her, hers, its (ES: suyo.(de.mujer)]" : {ashi} ! her, hers, its ! @section:prnposs@ 
+| "[=irashi+num@3SG+gndr@m.][PrnPoss][=his, its (ES: suyo.(de.hombre/él))]" : {irashi} ! his, its ! @section:prnposs@ 
+| "[=hashi+num@3SG+gndr@m.][PrnPoss][=his, its (ES: suyo.(de.hombre/él))]" : {hashi} ! jashi 
+| "[=rashi+num@3SG+gndr@m.][PrnPoss][=his (ES: suyo.(de.hombre/él)]" : {rashi} ! his ! @section:prnposs@ 
+| "[=ashi+num@3SG+gndr@n.m.][PrnPoss][=her, hers, its (ES: suyo.(de.mujer/ella)]" : {ashi} ! her, hers, its ! @section:prnposs@ 
 | "[=ashi+num@1PL][PrnPoss][=ours]" : {ashi} ! @section:prnposs@ 
-| "[=pashiite+num@2PL][PrnPoss][=yours]" : {pashiite} ! @section:prnposs@ 
-| "[=pashite+num@2PL][PrnPoss][=yours]" : {pashite}
+| "[=pashiite+~{PRN:/'2SG.(yours)':pashi/}{ANIM.PL:ite}+num@2PL][PrnPoss][=yours]" : {pashiite} ! @section:prnposs@ 
+| "[=pashite+~{PRN:/'2SG.(yours)':pashi/}{ELIS:i}{ANIM.PL:ite}+num@2PL][PrnPoss][=yours]" : {pashite}
 | "[=irashiite+~{PRN:/'3SG.m.(his)':irashi/}{ANIM.PL:ite}+num@3PL+gndr@m.][PrnPoss][=theirs]" : {irashiite} ! @section:prnposs@ 
-| "[=irashite+num@3PL+gndr@m.][PrnPoss][=theirs]" : {irashite}
+| "[=irashite+~{PRN:/'3SG.m.(his)':irashi/}{ELIS:i}{ANIM.PL:ite}+num@3PL+gndr@m.][PrnPoss][=theirs]" : {irashite}
 | "[=ashiite+~{PRN:/'3SG.n.m.(its)':ashi/}{ANIM.PL:ite}+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashiite} ! @section:prnposs@ 
 | "[=ashite+~{PRN:/'3SG.n.m.(its)':ashi/}{ELIS:i}{ANIM.PL:ite}+num@3PL+gndr@n.m.][PrnPoss][=theirs]" : {ashite}
 ];

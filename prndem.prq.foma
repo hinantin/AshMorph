@@ -52,8 +52,8 @@ define PrnDemPRQin [
 | "[=hiroka+gndr@n.m.+loc@proximal][PrnDem][=here.it.is; this]" : {hiroka}
 | "[=niroka+gndr@n.m.+loc@proximal][PrnDem][=~]" : {niroka}
 | "[=hirora+gndr@n.m.+loc@medial][PrnDem][=(over).there (close), near]" : {hirora}
-| "[=hirova+gndr@n.m.+loc@medial][PrnDem][=(over).there.(close) (ES: esta,, eso, esa)]" : {hirova}
-!| "[=hirova+num@3SG][Prn][=it (animal.or.object; ES: ello, eso)]" : {hirova}
+| "[=hirova+gndr@n.m.+loc@medial][PrnDem][=(over).there.(close) (ES: esta,, ello, eso,, esa)]" : {hirova}
+!| "[=hirova+num@3SG][Prn][=it (animal.or.object; ES: ello, eso,, esta,, esa)]" : {hirova}
 | "[=nirora+gndr@n.m.+loc@medial][PrnDem][=~]" : {nirora}
 | "[=hironta+gndr@n.m.+loc@distal][PrnDem][=(over).there (far), half.distant]" : {hironta}
 | "[=heronta+gndr@n.m.+loc@distal][PrnDem][=(over).there (far; ES: allí.(está)), half.distant]" : {heronta}
