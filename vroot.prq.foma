@@ -3356,12 +3356,12 @@ define VRootPRQin [
 | "[=kam][VRoot][=to.die][--][-a][+EP][--][=hime+m.+inal@n/tsi.][NRoot][=husband (kin.of.a.female)][--][-nt][VS][+POSS.REL]::[=to.become.a.widow]" : {kamahiment}
 # --------------------------------------------------------------------------- 
 ! copula of capacity COP.CAP
-| "[=kara][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 
-| "[=kara/~kaa][VRoot:CPB][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kaa} 
-| "[=kara/~ka][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {ka} 
+| "[=kara+INF@/EP:t/aantsi.][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 
+| "[=kara/~kaa+INF@/EP:t/aantsi.][VRoot:CPB][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kaa} 
+| "[=kara/~ka+INF@/EP:t/aantsi.][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {ka} 
 ! 
-| "[=kara][VRoot][=to.contain, to.finish]" : {kara} ! contain - abarcar, sumar?
-| "[=kara/~kaa][VRoot][=to.contain, to.finish]" : {kaa}
+| "[=kara+INF@/EP:t/aantsi.][VRoot][=to.contain, to.finish]" : {kara} ! contain - abarcar, sumar?
+| "[=kara/~kaa+INF@/EP:t/aantsi.][VRoot][=to.contain, to.finish]" : {kaa}
 # ---------------------------------------------------------------------------  
 ];
 
