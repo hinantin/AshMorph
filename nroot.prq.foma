@@ -5029,7 +5029,7 @@ define NRootPRQin [
 | "[=irinto+gndr@n.m.+kin@fem.ego][NRoot][=sister]" : {irinto}
 | "[=irintyo~irin{E.PAL.:ty}o+gndr@n.m.+kin@fem.ego][NRoot][=little.sister]" : {irintyo}
 ! 
-| "[=entyo+gndr@n.m.+kin@fem.ego+voc@N.][NRoot][=sister; female.cousin]" : {entyo} ! @section:noun@ 
+| "[=entyo+gndr@n.m.+kin@fem.ego+voc@N.][NRoot][=sister;| female.cousin]" : {entyo} ! @section:noun@ 
 | "[=eentyo+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin]" : {eentyo}
 | "[=iintyo+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin]" : {iintyo} ! revise! 
 | "[=eentio+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin (EN: daughter.of.the.mother's.sister)]" : {eentio}
