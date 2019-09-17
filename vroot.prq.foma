@@ -111,8 +111,8 @@ define VRootPRQin [
 | "[=aavent+INF@aantsi.][VRoot][=to.cure (ES: curar)]" : {aavent}
 | "[=avint+INF@antsi.][VRoot][=to.cure (ES: curar)]" : {avint}
 ! EN: 'herbalist.who.uses.steambathing_techniques/herbal_treatments.to.cure.patients' 
-!| "[=aavintantzinkaro++gndr@n.m.][NRoot][=female.healer]" : {aavintantzinkaro}
-!| "[=aavintantzinkari+gndr@m.][NRoot][=male.healer]" : {aavintantzinkari}
+!| "[=aavintantzinkaro+~{V:/'to.cure':aavint/}{APPL.INST:ant}{ADJ:tzinkaro}+gndr@n.m.][NRoot][=female.healer]" : {aavintantzinkaro}
+!| "[=aavintantzinkari+~{V:/'to.cure':aavint/}{APPL.INST:ant}{ADJ:tzinkari}+gndr@m.][NRoot][=male.healer]" : {aavintantzinkari}
 # --------------------------------------------------------------------- 
 ! 
 | "[=ahirik+INF@aantsi.][VRoot][=to.grab;| to.catch, to.trap (ES: atrapar)]" : {ahirik} ! @section:verb@ 
