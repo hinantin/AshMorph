@@ -111,8 +111,8 @@ define VRootPRQin [
 | "[=aavent+INF@aantsi.][VRoot][=to.cure (ES: curar)]" : {aavent}
 | "[=avint+INF@antsi.][VRoot][=to.cure (ES: curar)]" : {avint}
 ! EN: 'herbalist.who.uses.steambathing_techniques/herbal_treatments.to.cure.patients' 
-!| "[=aavintantzinkaro+~{V:/'to.cure':aavint/}{APPL.INST:ant}{ADJ:tzinkaro}+gndr@n.m.][NRoot][=female.healer]" : {aavintantzinkaro}
-!| "[=aavintantzinkari+~{V:/'to.cure':aavint/}{APPL.INST:ant}{ADJ:tzinkari}+gndr@m.][NRoot][=male.healer]" : {aavintantzinkari}
+!| "[=aavintantzinkaro+~{V:/'to.cure':aavint/}{APPL.INST:ant}{ADJ:tzinkaro}+gndr@n.m.][NRoot][=female.healer]" : {aavintantzinkaro} ! @section:noun@ 
+!| "[=aavintantzinkari+~{V:/'to.cure':aavint/}{APPL.INST:ant}{ADJ:tzinkari}+gndr@m.][NRoot][=male.healer]" : {aavintantzinkari} ! @section:noun@ 
 # --------------------------------------------------------------------- 
 ! 
 | "[=ahirik+INF@aantsi.][VRoot][=to.grab;| to.catch, to.trap (ES: atrapar)]" : {ahirik} ! @section:verb@ 
@@ -2816,6 +2816,7 @@ define VRootPRQin [
 | "[=teh+INF@aantsi.][VRoot][=to.weave (ES: tejer)]" : {teh}
 | "[=tih+INF@aantsi.][VRoot][=to.weave (ES: tejer)]" : {tih}
 | "[=ty+INF@antsi.][VRoot][=to.weave (ES: tejer.ropas/bolsas)]" : {ty}
+!| "[=tya+~{'to.weave':ty}{INTNS:a}+inal@ntsi.+poss@ni.][NRoot][=woven.fabric (ES: tejido)]" : {tya} ! @section:noun@ 
 # ----------------------------------------------------------------------
 ! 
 | "[=tih+INF@aantsi:VC.][VRoot][=to.bury (ES: enterrar); to.dig (ES: cavar)]" : {tih}
