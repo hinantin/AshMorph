@@ -3071,7 +3071,9 @@ define VRootPRQin [
 | "[=tsitonk+INF@VC.][VRoot][=to.hit]" : {tsitonk}
 # --------------------------------------------------------
 ! 
-| "[=tsivak][VRoot][=to.put.out, to.extinguish (ES: apagar (luz, cigarrillo, fuego))]" : {tsivak}
+| "[=tsivak+INF@VC.][VRoot][=to.put.out, to.extinguish (ES: apagar (luz, cigarrillo, fuego))]" : {tsivak}
+! tsibakantatsiri / tsivakantatsiri / =tsivak -ant -atsi -ri / =to.put.out -appl.reas -stat -rel / EN: 'fire_fighter'; ES: 'bombero'
+!| "[=tsivakantatsiri+~{V:/'to.put.out':tsivak/}{APPL.REAS:ant}{STAT:atsi}{REL:ri}][NRoot][=fire.fighter (ES: bombero)]" : {tsivakantatsiri} ! @section:noun@ 
 # --------------------------------------------------------
 ! 
 | "[=tsiy+INF@aantsi.][VRoot][=to.heat (ES: calentar)]" : {tsiy}
