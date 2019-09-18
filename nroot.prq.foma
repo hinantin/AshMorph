@@ -16,7 +16,7 @@
 #    Information on the morphemes of lexicalized entries.
 # 1: +gndr@m. (masculine), +gndr@n.m. (not-masculine), +gndr@n./m. (masculine or not-masculine) 
 # 2: +inal@ntsi., +inal@tsi., +inal@n/tsi.
-# 3: +poss@ne.
+# 3: +poss@ne., +poss@nposs.ADJ.
 # 4: +voc@N., +voc@nposs ?
 #    vocative FLAGS +N (None, main/basic entry that is transformed according to the possessor). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 #    It will be used as follows 1SG:2SG , etc. 
@@ -1248,7 +1248,8 @@ define NRootPRQin [
 | "[=inchatoshi+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'leaf':shi/}][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
 !| "[=inchatoshisati+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'leaf':shi/}{CL:/'provenance':sati/}][NRoot][=amazon.region;| amazon.forest;| amazonian]" : {inchatoshisati} ! @section:noun@ 
 ! 
-| "[=inchashi+~{N:/'plant':incha/}{CL:/'leaf':shi/}+gndr@n.m.+poss@ri:te.][NRoot][=herb (ES: hierba); shrubs; weeds (ES: maleza); medicinal.plant (ES: planta.curativa)]" : {inchashi}
+! inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'grass' ES: 'pasto' 
+| "[=inchashi+~{N:/'plant':incha/}{CL:/'leaf':shi/}+gndr@n.m.+poss@ri:te.][NRoot][=herb (ES: hierba);| grass (ES: pasto);| shrubs;| weeds (ES: maleza);| medicinal.plant (ES: planta.curativa)]" : {inchashi} ! @section:noun@ 
 | "[=intxashi+~{N:/'plant':intxa/}{CL:/'leaf':shi/}][NRoot:CPB][=herb.with.therapeutic.properties; medicinal.plant (ES: planta.curativa)]" : {intxashi}
 ! 
 !| "[=inchapari+~{N:/'plant':incha/}{CL:/'root':pari/}][NRoot][=venomous.root]" : {inchapari} ! @section:noun@ 
@@ -1260,6 +1261,9 @@ define NRootPRQin [
 !| "[=santotea+~{N:/'saint':santo/}{CL:/'flower':tea/}][NRoot][=sacred.flower (ES: flor.sagrada)]" : {santotea} ! @section:noun@ 
 ! santotyaamashi / =santo -tyaa -mashi / =saint -cl:flower -cl:wide,flat.space / EN: 'garden'; ES: 'jardín' 
 !| "[=santotyaamashi+~{N:/'saint':santo/}{CL:/'tyaa':flower/}{CL:/'wide,flat.space':mashi/}][NRoot][=garden (ES: jardín)]" : {santotyaamashi} ! @section:noun@ 
+!| "[=inchapooki+~{N:/'plant':incha/}{CL:/'bunch,group':pooki/}][NRoot][=fenced.enclosure (ES: palizada)]" : {inchapooki} ! @section:noun@ 
+! inchahempeki / =incha -hempeki / =plant -cl:small.branch / ES: 'leña'; EN: 'firewood'
+!| "[=inchahempeki+~{N:/'plant':incha/}{CL:/'small.branch':hempeki/}][NRoot][=firewood (ES: leña)]" : {inchahempeki} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
@@ -3114,7 +3118,7 @@ define NRootPRQin [
 # nomapikitakero / no- =mapi -ki -t-ak -e -ro / 1sg.a- =stone -cl:small,round -ep -prf -irr -3n.m.o / EN: 'fixing.pebbles/sinker-like_pebbles.in.sth. (i.e.: a.fish_trap)', ES: 'fijar piedrecitas/guijarros en algo (por ejemplo: en la red)'
 | "[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone; rock]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] 
 | "[=mapiki+gndr@n.m.][NRoot][=pebble (ES: piedra.chica; PT: seixo)]" : {mapiki} 
-!| "[=mapipooki+~{'stone':mapi}{CL:/'group.of.tiny.objects':pooki/}+gndr@n.m.][NRoot][=stony.ground (ES: pedregal, cascajal)]" : {mapipooki} ! @section:noun@ 
+!| "[=mapipooki+~{'stone':mapi}{CL:/'group.of.tiny.objects':pooki/}+gndr@n.m.][NRoot][=stony.ground, gravel.pit (ES: pedregal, cascajal)]" : {mapipooki} ! @section:noun@ 
 !| "[=mapiporoki+~{'stone':mapi}{CL:/'assortment':poroki/}+gndr@n.m.][NRoot][=stone.pile (ES: pedregal)]" : {mapiporoki} ! @section:noun@ 
 # -----------------------------------------------------------------------
 ! 
@@ -6579,7 +6583,7 @@ define NRootPRQin [
 | "[=tsinãni+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl]" : {tsinãni} ! N@->V
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsinaro+gndr@m.][NRoot][=cricket.sp. (ES: sp.de.grillo); grasshopper.sp.]" : {tsinaro} 
+| "[=tsinaro+gndr@m.][NRoot][=cricket.sp. (ES: sp.de.grillo);| grasshopper.sp.]" : {tsinaro} ! @section:noun@ 
 | "[=tsinavo+gndr@m.][NRoot][=cricket.sp. (ES: sp.de.grillo); grasshopper.sp.]" : {tsinavo} 
 # ------------------------------------------------------------------------------ 
 ! 
@@ -6672,7 +6676,7 @@ define NRootPRQin [
 | "[=tsitoiki][NRoot][=bean (ES: frijol)]" : {tsitoiki}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsitsi+gndr@n.m.+voc.][NRoot][=firewood (ES: leña)]" : {tsitsi}
+| "[=tsitsi+gndr@n.m.+voc@N.][NRoot][=firewood (ES: leña)]" : {tsitsi} ! @section:noun@ 
 | "[=tsi+poss@ma.+voc.][NRoot][=firewood (ES: leña)]" : {tsi} 
 | "[=tsima][NRoot][=wood (ES: madera)]" : {tsima} 
 # ------------------------------------------------------------------------------
