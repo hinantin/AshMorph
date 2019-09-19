@@ -1,17 +1,17 @@
 # Unlike nouns adjectives cannot be possessed.
 
 define ARootPRQin [
-  "[=antari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antari} ! N@->V
-| "[=antari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antari} ! N@->V
-| "[=anteari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {anteari} ! N@->V
-| "[=antiari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antiari} ! N@->V
-| "[=antyari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antyari} 
+  "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature]" : {antari} ! N@->V
+| "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature]" : {antari} ! N@->V
+| "[=anteari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature]" : {anteari} ! N@->V
+| "[=antiari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature]" : {antiari} ! N@->V
+| "[=antyari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature]" : {antyari} 
 
-| "[=antaro+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antaro} ! N@->V
-| "[=antavo+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antavo} ! N@->V
-| "[=antaro+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antaro} ! N@->V::[=to.be.big] 
-| "[=antearo+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antearo} ! N@->V::[=to.reach.a.climax] 
-| "[=antyaro+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antyaro} ! N@->V
+| "[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antaro} ! N@->V
+| "[=antavo+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antavo} ! N@->V
+| "[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antaro} ! N@->V::[=to.be.big] 
+| "[=antearo+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antearo} ! N@->V::[=to.reach.a.climax] 
+| "[=antyaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antyaro} ! N@->V
 ! 
 | "[=hentari+poss@nposs.adj.][NRoot][= (ES: fino,, delgado)]" : {hentari}
 | "[=hentatsi+poss@nposs.adj.][NRoot][= (ES: fino,, delgado)]" : {hentatsi}
