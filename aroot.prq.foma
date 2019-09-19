@@ -13,11 +13,11 @@ define ARootPRQin [
 | "[=antearo+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antearo} ! N@->V::[=to.reach.a.climax] 
 | "[=antyaro+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antyaro} ! N@->V
 ! 
-| "[=hentari][NRoot][= (ES: fino,, delgado)]" : {hentari}
-| "[=hentatsi][NRoot][= (ES: fino,, delgado)]" : {hentatsi}
-| "[=hintari][NRoot][= (ES: fino,, delgado)]" : {hintari}
+| "[=hentari+poss@nposs.adj.][NRoot][= (ES: fino,, delgado)]" : {hentari}
+| "[=hentatsi+poss@nposs.adj.][NRoot][= (ES: fino,, delgado)]" : {hentatsi}
+| "[=hintari+poss@nposs.adj.][NRoot][= (ES: fino,, delgado)]" : {hintari}
 ! 
-| "[=intsikero][NRoot][=slow (ES: despacio)]" : {intsikero} ! N@->V
+| "[=intsikero+poss@nposs.adj.][NRoot][=slow (ES: despacio)]" : {intsikero} ! N@->V
 # -----------------------------------------------
 # small
 # -----------------------------------------------
