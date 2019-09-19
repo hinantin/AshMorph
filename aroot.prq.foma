@@ -34,8 +34,8 @@ define ARootPRQin [
 | "[=oryani+gndr@n.m.+poss@nposs.adj.][NRoot][=small]" : {oryani}
 | "[=oryaani+gndr@n.m.+poss@nposs.adj.][NRoot][=small]" : {oryaani}
 ! 
-| "[=irihani+gndr@m.][NRoot][=small]" : {irihani}
-| "[=orihani+gndr@n.m.][NRoot][=small]" : {orihani}
+| "[=irihani+gndr@m.+poss@nposs.adj.][NRoot][=small]" : {irihani}
+| "[=orihani+gndr@n.m.+poss@nposs.adj.][NRoot][=small]" : {orihani}
 # -----------------------------------------------
 ! 
 | "[=katsimari][NRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]" : {katsimari}
