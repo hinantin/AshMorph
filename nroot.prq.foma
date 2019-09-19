@@ -1945,6 +1945,8 @@ define NRootPRQin [
 | "[=kainiri+~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 !| "[=kaniria+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}][NRoot][=manioc.beer, masato (ES: bebida.de.yuca, masato)]" : {kaniria} ! @section:noun@ 
 !| "[=kaniriapatsa+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}{CL:/'mass':patsa/}][NRoot][=yucca.mass (ES: masa.de.yuca)]" : {kaniriapatsa} ! @section:noun@ 
+! pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca'
+!| "[=pochariyaniri+~{N:/'sweet':pochari/}{N:/'yucca':kaniri/}][NRoot][=sweet.(manioc|yucca)]" : {pochariyaniri} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=kaniriapashaki+gndr@m.][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
