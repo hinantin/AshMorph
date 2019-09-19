@@ -27,12 +27,12 @@ define ARootPRQin [
 | "[=iyaanini+gndr@m.+poss@nposs.adj.][NRoot][=small]" : {iyaanini}
 | "[=ovaanini+gndr@n.m.+poss@nposs.adj.][NRoot][=small]" : {ovaanini}
 ! 
-| "[=iriani+gndr@m.][NRoot][=small]" : {iriani}
-| "[=iryani+gndr@m.][NRoot][=small]" : {iryani}
-| "[=iryaani+gndr@m.][NRoot][=small]" : {iryaani}
-| "[=oriani+gndr@n.m.][NRoot][=small]" : {oriani}
-| "[=oryani+gndr@n.m.][NRoot][=small]" : {oryani}
-| "[=oryaani+gndr@n.m.][NRoot][=small]" : {oryaani}
+| "[=iriani+gndr@m.+poss@nposs.adj.][NRoot][=small]" : {iriani}
+| "[=iryani+gndr@m.+poss@nposs.adj.][NRoot][=small]" : {iryani}
+| "[=iryaani+gndr@m.+poss@nposs.adj.][NRoot][=small]" : {iryaani}
+| "[=oriani+gndr@n.m.+poss@nposs.adj.][NRoot][=small]" : {oriani}
+| "[=oryani+gndr@n.m.+poss@nposs.adj.][NRoot][=small]" : {oryani}
+| "[=oryaani+gndr@n.m.+poss@nposs.adj.][NRoot][=small]" : {oryaani}
 ! 
 | "[=irihani+gndr@m.][NRoot][=small]" : {irihani}
 | "[=orihani+gndr@n.m.][NRoot][=small]" : {orihani}
