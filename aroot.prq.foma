@@ -1,8 +1,8 @@
 # Unlike nouns adjectives cannot be possessed.
 
 define ARootPRQin [
-  "[=antari+m.][AdjRoot][=big; mature]" : {antari} ! N@->V
-| "[=antari+m.][AdjRoot][=big; mature]" : {antari} ! N@->V
+  "[=antari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antari} ! N@->V
+| "[=antari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antari} ! N@->V
 | "[=anteari+m.][AdjRoot][=big; mature]" : {anteari} ! N@->V
 | "[=antiari+m.][AdjRoot][=big; mature]" : {antiari} ! N@->V
 | "[=antyari+m.][AdjRoot][=big; mature]" : {antyari} 
