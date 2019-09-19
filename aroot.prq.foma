@@ -7,107 +7,107 @@ define ARootPRQin [
 | "[=antiari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antiari} ! N@->V
 | "[=antyari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antyari} 
 
-| "[=antaro+n.m.][AdjRoot][=big; mature]" : {antaro} ! N@->V
-| "[=antavo+n.m.][AdjRoot][=big; mature]" : {antavo} ! N@->V
-| "[=antaro+n.m.][AdjRoot][=big; mature]" : {antaro} ! N@->V::[=to.be.big] 
-| "[=antearo+n.m.][AdjRoot][=big; mature]" : {antearo} ! N@->V::[=to.reach.a.climax] 
-| "[=antyaro+n.m.][AdjRoot][=big; mature]" : {antyaro} ! N@->V
+| "[=antaro+n.m.][NRoot][=big; mature]" : {antaro} ! N@->V
+| "[=antavo+n.m.][NRoot][=big; mature]" : {antavo} ! N@->V
+| "[=antaro+n.m.][NRoot][=big; mature]" : {antaro} ! N@->V::[=to.be.big] 
+| "[=antearo+n.m.][NRoot][=big; mature]" : {antearo} ! N@->V::[=to.reach.a.climax] 
+| "[=antyaro+n.m.][NRoot][=big; mature]" : {antyaro} ! N@->V
 ! 
-| "[=hentari][AdjRoot][= (ES: fino,, delgado)]" : {hentari}
-| "[=hentatsi][AdjRoot][= (ES: fino,, delgado)]" : {hentatsi}
-| "[=hintari][AdjRoot][= (ES: fino,, delgado)]" : {hintari}
+| "[=hentari][NRoot][= (ES: fino,, delgado)]" : {hentari}
+| "[=hentatsi][NRoot][= (ES: fino,, delgado)]" : {hentatsi}
+| "[=hintari][NRoot][= (ES: fino,, delgado)]" : {hintari}
 ! 
-| "[=intsikero][AdjRoot][=slow (ES: despacio)]" : {intsikero} ! N@->V
+| "[=intsikero][NRoot][=slow (ES: despacio)]" : {intsikero} ! N@->V
 # -----------------------------------------------
 # small
 # -----------------------------------------------
 ! 
-| "[=iyani+m.][AdjRoot][=small]" : {iyani}
-| "[=iyaani+m.][AdjRoot][=small]" : {iyaani}
-| "[=iyaanini+m.][AdjRoot][=small]" : {iyaanini}
-| "[=ovaanini+n.m.][AdjRoot][=small]" : {ovaanini}
+| "[=iyani+m.][NRoot][=small]" : {iyani}
+| "[=iyaani+m.][NRoot][=small]" : {iyaani}
+| "[=iyaanini+m.][NRoot][=small]" : {iyaanini}
+| "[=ovaanini+n.m.][NRoot][=small]" : {ovaanini}
 ! 
-| "[=iriani+m.][AdjRoot][=small]" : {iriani}
-| "[=iryani+m.][AdjRoot][=small]" : {iryani}
-| "[=iryaani+m.][AdjRoot][=small]" : {iryaani}
-| "[=oriani+n.m.][AdjRoot][=small]" : {oriani}
-| "[=oryani+n.m.][AdjRoot][=small]" : {oryani}
-| "[=oryaani+n.m.][AdjRoot][=small]" : {oryaani}
+| "[=iriani+m.][NRoot][=small]" : {iriani}
+| "[=iryani+m.][NRoot][=small]" : {iryani}
+| "[=iryaani+m.][NRoot][=small]" : {iryaani}
+| "[=oriani+n.m.][NRoot][=small]" : {oriani}
+| "[=oryani+n.m.][NRoot][=small]" : {oryani}
+| "[=oryaani+n.m.][NRoot][=small]" : {oryaani}
 ! 
-| "[=irihani+m.][AdjRoot][=small]" : {irihani}
-| "[=orihani+n.m.][AdjRoot][=small]" : {orihani}
+| "[=irihani+m.][NRoot][=small]" : {irihani}
+| "[=orihani+n.m.][NRoot][=small]" : {orihani}
 # -----------------------------------------------
 ! 
-| "[=katsimari][AdjRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]" : {katsimari}
+| "[=katsimari][NRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]" : {katsimari}
 ! 
-| "[=kantaperantzi+m.][AdjRoot][=beautiful]" : {kantaperantzi}
-| "[=kantaperanto+n.m.][AdjRoot][=beautiful]" : {kantaperanto}
+| "[=kantaperantzi+m.][NRoot][=beautiful]" : {kantaperantzi}
+| "[=kantaperanto+n.m.][NRoot][=beautiful]" : {kantaperanto}
 ! 
-| "[=kapiche][AdjRoot][=little, small]" : {kapiche}
-| "[=kapichee][AdjRoot][=little, small]" : {kapichee}
-| "[=kapichi][AdjRoot][=little, small]" : {kapichi}
-| "[=kapichii][AdjRoot][=little, small]" : {kapichii}
+| "[=kapiche][NRoot][=little, small]" : {kapiche}
+| "[=kapichee][NRoot][=little, small]" : {kapichee}
+| "[=kapichi][NRoot][=little, small]" : {kapichi}
+| "[=kapichii][NRoot][=little, small]" : {kapichii}
 ! 
-| "[=kapichahi][AdjRoot][=little]" : {kapichahi}
+| "[=kapichahi][NRoot][=little]" : {kapichahi}
 ! 
 | "[=kapichoki][AdvRoot][=a.little (ES: poco)]" : {kapichoki}
 ! 
-| "[=kenkivari+m.][AdjRoot][=old]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
-| "[=kenkevari+m.][AdjRoot][=old]" : {kenkevari} ! N@->V
-| "[=kinkivari+m.][AdjRoot][=old]" : {kinkivari} ! N@->V
-| "[=kenkivaro+n.m.][AdjRoot][=old (ES: chatarra)]" : {kenkivaro} ! N@->V
-| "[=kinkivaro+n.m.][AdjRoot][=old]" : {kinkivaro} ! N@->V
+| "[=kenkivari+m.][NRoot][=old]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
+| "[=kenkevari+m.][NRoot][=old]" : {kenkevari} ! N@->V
+| "[=kinkivari+m.][NRoot][=old]" : {kinkivari} ! N@->V
+| "[=kenkivaro+n.m.][NRoot][=old (ES: chatarra)]" : {kenkivaro} ! N@->V
+| "[=kinkivaro+n.m.][NRoot][=old]" : {kinkivaro} ! N@->V
 ! 
-| "[=kiteri][AdjRoot][=clean (ES: limpio; PT: limpo)]" : {kiteri}
-| "[=kitiri][AdjRoot][=clean (ES: limpio; PT: limpo)]" : {kitiri}
+| "[=kiteri][NRoot][=clean (ES: limpio; PT: limpo)]" : {kiteri}
+| "[=kitiri][NRoot][=clean (ES: limpio; PT: limpo)]" : {kitiri}
 ! 
 # ineakovenkatakari / i- =ne -a -kovenka -t -ak -a =ri / EN: 'he.considered.him.fearful'; ES: 'él.lo.considera.espantoso' 
-| "[=kovenka][AdjRoot][=fearful (ES: horrendo)]" : {kovenka} ! @VCMP ! to be revised 
+| "[=kovenka][NRoot][=fearful (ES: horrendo)]" : {kovenka} ! @VCMP ! to be revised 
 ! 
-| "[=maaro][AdjRoot][=everybody, all]" : {maaro}
-| "[=maaroni][AdjRoot][=everybody, all, entire]" : {maaroni}
-| "[=maroni][AdjRoot][=everybody, all, entire]" : {maroni}
-| "[=maavoeni][AdjRoot][=everybody, all (ES: todos)]" : {maavoeni}
-| "[=maavoini][AdjRoot][=everybody, all (ES: todos)]" : {maavoini}
-| "[=mavoini][AdjRoot][=everybody, all (ES: todos)]" : {mavoini}
-| "[=mavoeni][AdjRoot][=everybody, all (ES: todos)]" : {mavoeni}
-| "[=maavaeni][AdjRoot][=everybody, all (ES: todos)]" : {maavaeni}
+| "[=maaro][NRoot][=everybody, all]" : {maaro}
+| "[=maaroni][NRoot][=everybody, all, entire]" : {maaroni}
+| "[=maroni][NRoot][=everybody, all, entire]" : {maroni}
+| "[=maavoeni][NRoot][=everybody, all (ES: todos)]" : {maavoeni}
+| "[=maavoini][NRoot][=everybody, all (ES: todos)]" : {maavoini}
+| "[=mavoini][NRoot][=everybody, all (ES: todos)]" : {mavoini}
+| "[=mavoeni][NRoot][=everybody, all (ES: todos)]" : {mavoeni}
+| "[=maavaeni][NRoot][=everybody, all (ES: todos)]" : {maavaeni}
 ! 
-| "[=osheki][AdjRoot][=many; much; a.lot]" : {osheki}
-| "[=oshiki][AdjRoot][=many]" : {oshiki}
+| "[=osheki][NRoot][=many; much; a.lot]" : {osheki}
+| "[=oshiki][NRoot][=many]" : {oshiki}
 ! 
-| "[=pashine][AdjRoot][=other, another (ES: otro)]" : {pashine}
-| "[=pashini][AdjRoot][=other, another (ES: otro); few]" : {pashini} ! N@->V::[=to.change (ES: cambiar)] 
-| "[=paashini][AdjRoot][=other, another (ES: otro); few]" : {paashini}
-| "[=pasini][AdjRoot][=other, another (ES: otro)]" : {pasini}
+| "[=pashine][NRoot][=other, another (ES: otro)]" : {pashine}
+| "[=pashini][NRoot][=other, another (ES: otro); few]" : {pashini} ! N@->V::[=to.change (ES: cambiar)] 
+| "[=paashini][NRoot][=other, another (ES: otro); few]" : {paashini}
+| "[=pasini][NRoot][=other, another (ES: otro)]" : {pasini}
 ! 
-| "[=pisari+m.][AdjRoot][=old]" : {pisari} ! N@->V
-| "[=pishari+m.][AdjRoot][=old]" : {pishari} ! N@->V
-| "[=pisaro+n.m.][AdjRoot][=old]" : {pisaro} ! N@->V
-| "[=pisharo+n.m.][AdjRoot][=old]" : {pisharo} ! N@->V
+| "[=pisari+m.][NRoot][=old]" : {pisari} ! N@->V
+| "[=pishari+m.][NRoot][=old]" : {pishari} ! N@->V
+| "[=pisaro+n.m.][NRoot][=old]" : {pisaro} ! N@->V
+| "[=pisharo+n.m.][NRoot][=old]" : {pisharo} ! N@->V
 ! 
-| "[=pochari+poss@te.][AdjRoot][=sweet (ES: dulce)]" : {pochari} ! poss. suffix to be checked! 
-| "[=pochakiri][AdjRoot][=sweet (ES: dulce)]" : {pochakiri}
-| "[=pochaki][AdjRoot][=sweet (ES: dulce)]" : {pochaki}
+| "[=pochari+poss@te.][NRoot][=sweet (ES: dulce)]" : {pochari} ! poss. suffix to be checked! 
+| "[=pochakiri][NRoot][=sweet (ES: dulce)]" : {pochakiri}
+| "[=pochaki][NRoot][=sweet (ES: dulce)]" : {pochaki}
 | "[=pochaaniki+poss@ti.][NRoot][=sweet (ES: dulce)]" : {pochaaniki}
-| "[=pochapaneri][AdjRoot][=sweet (ES: dulce)]" : {pochapaneri}
-| "[=pochaata+poss@ti.][AdjRoot][=sweet (ES: dulce)]" : {pochata}
+| "[=pochapaneri][NRoot][=sweet (ES: dulce)]" : {pochapaneri}
+| "[=pochaata+poss@ti.][NRoot][=sweet (ES: dulce)]" : {pochata}
 ! 
-| "[=shampitsi][AdjRoot][=miser (ES: avaro, mezquino)]" : {shampitsi} ! N@->V
+| "[=shampitsi][NRoot][=miser (ES: avaro, mezquino)]" : {shampitsi} ! N@->V
 ! 
-| "[=tontari][AdjRoot][= (ES: grueso,, espeso)]" : {tontari}
-| "[=tontatatsi][AdjRoot][= (ES: grueso,, espeso)]" : {tontatatsi}
+| "[=tontari][NRoot][= (ES: grueso,, espeso)]" : {tontari}
+| "[=tontatatsi][NRoot][= (ES: grueso,, espeso)]" : {tontatatsi}
 ! 
-| "[=tsaivari][AdjRoot][=liar (ES: mentiroso)]" : {tsaivari}
-| "[=tsaivaari][AdjRoot][=liar (ES: mentiroso)]" : {tsaivaari}
+| "[=tsaivari][NRoot][=liar (ES: mentiroso)]" : {tsaivari}
+| "[=tsaivaari][NRoot][=liar (ES: mentiroso)]" : {tsaivaari}
 ! 
-| "[=tsiteeni][AdjRoot][=dark (ES: oscuro)]" : {tsiteeni}
+| "[=tsiteeni][NRoot][=dark (ES: oscuro)]" : {tsiteeni}
 ! 
-| "[=tsompoina][AdjRoot][=deep (ES: profundo,, fondo)]" : {tsompoina}
+| "[=tsompoina][NRoot][=deep (ES: profundo,, fondo)]" : {tsompoina}
 ! 
 # kemi tashirentsi / =kemi =tashi -re -ntsi / =pumpkin =to.roast.with.coal -nmz -nposs / EN: 'roasted.pumpkin'
 # shima tashirentsi / =shima =tashi -re -ntsi / =fish =to.roast.with.coal -nmz -nposs / EN: 'roasted.fish'
 # kaniri tashirentsi / =kaniri =tashi -re -ntsi / =yucca =to.roast.with.coal -nmz -nposs / EN: 'roasted.manioc'
-| "[=tashire+n./m.+inal.][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashire} 
-| "[=tashiri+n./m.+inal.][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashiri} 
+| "[=tashire+n./m.+inal.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashire} 
+| "[=tashiri+n./m.+inal.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashiri} 
 ];
