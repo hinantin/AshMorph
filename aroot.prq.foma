@@ -22,10 +22,10 @@ define ARootPRQin [
 # small
 # -----------------------------------------------
 ! 
-| "[=iyani+gndr@m.][NRoot][=small]" : {iyani}
-| "[=iyaani+gndr@m.][NRoot][=small]" : {iyaani}
-| "[=iyaanini+gndr@m.][NRoot][=small]" : {iyaanini}
-| "[=ovaanini+gndr@n.m.][NRoot][=small]" : {ovaanini}
+| "[=iyani+gndr@m.+poss@nposs.adj.][NRoot][=small]" : {iyani}
+| "[=iyaani+gndr@m.+poss@nposs.adj.][NRoot][=small]" : {iyaani}
+| "[=iyaanini+gndr@m.+poss@nposs.adj.][NRoot][=small]" : {iyaanini}
+| "[=ovaanini+gndr@n.m.+poss@nposs.adj.][NRoot][=small]" : {ovaanini}
 ! 
 | "[=iriani+gndr@m.][NRoot][=small]" : {iriani}
 | "[=iryani+gndr@m.][NRoot][=small]" : {iryani}
