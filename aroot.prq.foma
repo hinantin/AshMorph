@@ -7,11 +7,11 @@ define ARootPRQin [
 | "[=antiari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antiari} ! N@->V
 | "[=antyari+m.+poss@nposs.adj.][NRoot][=big; mature]" : {antyari} 
 
-| "[=antaro+n.m.][NRoot][=big; mature]" : {antaro} ! N@->V
-| "[=antavo+n.m.][NRoot][=big; mature]" : {antavo} ! N@->V
-| "[=antaro+n.m.][NRoot][=big; mature]" : {antaro} ! N@->V::[=to.be.big] 
-| "[=antearo+n.m.][NRoot][=big; mature]" : {antearo} ! N@->V::[=to.reach.a.climax] 
-| "[=antyaro+n.m.][NRoot][=big; mature]" : {antyaro} ! N@->V
+| "[=antaro+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antaro} ! N@->V
+| "[=antavo+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antavo} ! N@->V
+| "[=antaro+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antaro} ! N@->V::[=to.be.big] 
+| "[=antearo+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antearo} ! N@->V::[=to.reach.a.climax] 
+| "[=antyaro+n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antyaro} ! N@->V
 ! 
 | "[=hentari][NRoot][= (ES: fino,, delgado)]" : {hentari}
 | "[=hentatsi][NRoot][= (ES: fino,, delgado)]" : {hentatsi}
