@@ -5731,6 +5731,8 @@ define NRootPRQin [
 ! 
 | "[=pocharo+gndr@n.m.][NRoot][=tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug; tobacco_syrup.made.from.boiled.tobacco_leaves]" : {pocharo} 
 | "[=pochari][NRoot][=tobacco.syrup (it.is.made.from.boiled.tobacco.leaves); psychoactive.drug]" : {pochari} 
+! pocharikana / =pochari -kana / =sweet -cl:chili-pepper / ES: 'ají.dulce'; EN: 'sweet.pepper'
+!| "[=pocharikana+~{N:/'sweet':pochari/}{CL:/'chili-pepper':kana/}][NRoot][=sweet.pepper (ES: ají.dulce)]" : {pocharikana} ! @section:noun@ 
 # ------------------------------------------------------------
 !
 | "[=shiro+gndr@m.][NRoot][=grey.dove.sp.; white.dove.sp.]" : {shiro}
