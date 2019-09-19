@@ -34,14 +34,14 @@ define ARootPRQin [
 | "[=oryani+gndr@n.m.][NRoot][=small]" : {oryani}
 | "[=oryaani+gndr@n.m.][NRoot][=small]" : {oryaani}
 ! 
-| "[=irihani+m.][NRoot][=small]" : {irihani}
-| "[=orihani+n.m.][NRoot][=small]" : {orihani}
+| "[=irihani+gndr@m.][NRoot][=small]" : {irihani}
+| "[=orihani+gndr@n.m.][NRoot][=small]" : {orihani}
 # -----------------------------------------------
 ! 
 | "[=katsimari][NRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]" : {katsimari}
 ! 
-| "[=kantaperantzi+m.][NRoot][=beautiful]" : {kantaperantzi}
-| "[=kantaperanto+n.m.][NRoot][=beautiful]" : {kantaperanto}
+| "[=kantaperantzi+gndr@m.][NRoot][=beautiful]" : {kantaperantzi}
+| "[=kantaperanto+gndr@n.m.][NRoot][=beautiful]" : {kantaperanto}
 ! 
 | "[=kapiche][NRoot][=little, small]" : {kapiche}
 | "[=kapichee][NRoot][=little, small]" : {kapichee}
@@ -52,11 +52,11 @@ define ARootPRQin [
 ! 
 | "[=kapichoki][AdvRoot][=a.little (ES: poco)]" : {kapichoki}
 ! 
-| "[=kenkivari+m.][NRoot][=old]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
-| "[=kenkevari+m.][NRoot][=old]" : {kenkevari} ! N@->V
-| "[=kinkivari+m.][NRoot][=old]" : {kinkivari} ! N@->V
-| "[=kenkivaro+n.m.][NRoot][=old (ES: chatarra)]" : {kenkivaro} ! N@->V
-| "[=kinkivaro+n.m.][NRoot][=old]" : {kinkivaro} ! N@->V
+| "[=kenkivari+gndr@m.][NRoot][=old]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
+| "[=kenkevari+gndr@m.][NRoot][=old]" : {kenkevari} ! N@->V
+| "[=kinkivari+gndr@m.][NRoot][=old]" : {kinkivari} ! N@->V
+| "[=kenkivaro+gndr@n.m.][NRoot][=old (ES: chatarra)]" : {kenkivaro} ! N@->V
+| "[=kinkivaro+gndr@n.m.][NRoot][=old]" : {kinkivaro} ! N@->V
 ! 
 | "[=kiteri][NRoot][=clean (ES: limpio; PT: limpo)]" : {kiteri}
 | "[=kitiri][NRoot][=clean (ES: limpio; PT: limpo)]" : {kitiri}
@@ -81,10 +81,10 @@ define ARootPRQin [
 | "[=paashini][NRoot][=other, another (ES: otro); few]" : {paashini}
 | "[=pasini][NRoot][=other, another (ES: otro)]" : {pasini}
 ! 
-| "[=pisari+m.][NRoot][=old]" : {pisari} ! N@->V
-| "[=pishari+m.][NRoot][=old]" : {pishari} ! N@->V
-| "[=pisaro+n.m.][NRoot][=old]" : {pisaro} ! N@->V
-| "[=pisharo+n.m.][NRoot][=old]" : {pisharo} ! N@->V
+| "[=pisari+gndr@m.][NRoot][=old]" : {pisari} ! N@->V
+| "[=pishari+gndr@m.][NRoot][=old]" : {pishari} ! N@->V
+| "[=pisaro+gndr@n.m.][NRoot][=old]" : {pisaro} ! N@->V	
+| "[=pisharo+gndr@n.m.][NRoot][=old]" : {pisharo} ! N@->V
 ! 
 | "[=pochari+poss@te.][NRoot][=sweet (ES: dulce)]" : {pochari} ! poss. suffix to be checked! 
 | "[=pochakiri][NRoot][=sweet (ES: dulce)]" : {pochakiri}
@@ -108,6 +108,6 @@ define ARootPRQin [
 # kemi tashirentsi / =kemi =tashi -re -ntsi / =pumpkin =to.roast.with.coal -nmz -nposs / EN: 'roasted.pumpkin'
 # shima tashirentsi / =shima =tashi -re -ntsi / =fish =to.roast.with.coal -nmz -nposs / EN: 'roasted.fish'
 # kaniri tashirentsi / =kaniri =tashi -re -ntsi / =yucca =to.roast.with.coal -nmz -nposs / EN: 'roasted.manioc'
-| "[=tashire+n./m.+inal.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashire} 
-| "[=tashiri+n./m.+inal.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashiri} 
+| "[=tashire+gndr@n./m.+inal@ntsi.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashire} 
+| "[=tashiri+gndr@n./m.+inal@ntsi.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashiri} 
 ];
