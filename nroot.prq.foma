@@ -16,7 +16,7 @@
 #    Information on the morphemes of lexicalized entries.
 # 1: +gndr@m. (masculine), +gndr@n.m. (not-masculine), +gndr@n./m. (masculine or not-masculine) 
 # 2: +inal@ntsi., +inal@tsi., +inal@n/tsi.
-# 3: +poss@ne., +poss@nposs.ADJ.
+# 3: +poss@ne., +poss@nposs.adj.
 # 4: +voc@N., +voc@nposs ?
 #    vocative FLAGS +N (None, main/basic entry that is transformed according to the possessor). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 #    It will be used as follows 1SG:2SG , etc. 
@@ -4395,7 +4395,7 @@ define NRootPRQin [
 | "[=patintoki+gndr@n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patintoki}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pava+gndr@m.+poss@ni.][NRoot][=(solar|benevolent).deity;| god (ES: dios);| creator (PT: Deus.solar,, o.demiurgo.ashaninka);| dad, father]" : {pava}
+| "[=pava+gndr@m.+poss@ni.][NRoot][=(solar|benevolent).deity;| god (ES: dios);| creator (PT: Deus.solar,, o.demiurgo.ashaninka);| dad, father]" : {pava} ! @section:noun@ 
 # ---------------------------------------------------------------------------- 
 ! 
 | "[=pavaeni+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaeni}
