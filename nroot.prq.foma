@@ -1945,6 +1945,7 @@ define NRootPRQin [
 | "[=kainiri+~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 !| "[=kaniria+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}][NRoot][=manioc.beer, masato (ES: bebida.de.yuca, masato)]" : {kaniria} ! @section:noun@ 
 !| "[=kaniriapatsa+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}{CL:/'mass':patsa/}][NRoot][=yucca.mass (ES: masa.de.yuca)]" : {kaniriapatsa} ! @section:noun@ 
+!| "[=kanirimashi+~{N:/'yucca':kaniri/}{CL:/'wide,flat.space':mashi/}][NRoot][=(yucca|manioc).field, manioc.garden (ES: yucal)]" : {kanirimashi} ! @section:noun@ 
 ! pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca'
 !| "[=pochariyaniri+~{N:/'sweet':pochari/}{N:/'yucca':kaniri/}][NRoot][=sweet.(manioc|yucca)]" : {pochariyaniri} ! @section:noun@ 
 # ---------------------------------------------------------------------
@@ -4361,6 +4362,7 @@ define NRootPRQin [
 | "[=paryaantzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryaantzi}
 | "[=paryantzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
 | "[=pareantzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
+!| "[=pariantia+~{N:/'plantain':parianti/}{CL:/'liquid':a/}][NRoot][=(plantain|banana).beer]" : {pariantia} ! @section:noun@ 
 # ----------------------------------------------------------------------------- 
 ! 
 # Winter-season is a flooding period.
@@ -5767,6 +5769,7 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=shinki+gndr@m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]" : {shinki}
+!| "[=shinkia+~{N:/'corn':shinki/}{CL:/'liquid':a/}][NRoot][=corn.beer]" : {shinkia} ! @section:noun@ 
 | "[=zinki+gndr@m.+poss@ne.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]" : {zinki}
 | "[=sinki+gndr@m.+poss@ne.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]" : {sinki}
 # ------------------------------------------------------------
