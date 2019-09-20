@@ -5871,7 +5871,7 @@ define NRootPRQin [
 | "[=shipopori+gndr@m.][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {shipopori}
 # ------------------------------------------------------------
 ! 
-| "[=shirampari+gndr@m.][NRoot][=man; male (ES: hombre)]" : {shirampari} ! N@->V::[=to.transform.into.a.man]
+| "[=shirampari+gndr@m.][NRoot][=man; male (ES: hombre)]" : {shirampari} ! N@->V::[=to.transform.into.a.man] @section:noun@ 
 # ------------------------------------------------------------
 ! 
 | "[=shiravari+gndr@m.][NRoot][=infertile.male (ES: hombre.estéril)]" : {shiravari}
