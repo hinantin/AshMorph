@@ -3252,6 +3252,8 @@ define NRootPRQin [
 | "[=maanki+gndr@m.][NRoot][=snake (ES: sp.de.culebra; PT: cobras.em.geral), serpent]" : {maanki}
 | "[=manki+gndr@m.][NRoot][=snake (ES: serpiente; PT: cobras.em.geral), serpent]" : {manki}
 | "[=maanke+gndr@m.][NRoot][=snake (ES: sp.de.culebra), serpent]" : {maanke}
+!| "[=mankishi+~{N:/'snake':manki/}{CL:/'leaf':shi/}][NRoot][=snakebite.medicinal.plant]" : {mankishi} ! @section:noun@ 
+!| "[=mankeshi+~{N:/'snake':manke/}{CL:/'leaf':shi/}][NRoot][=snakebite.medicinal.plant]" : {mankeshi} ! @section:noun@ 
 | "[=maranke+gndr@m.][NRoot][=snake.sp., serpent]" : {maranke}
 | "[=maranki+gndr@m.][NRoot][=snake.sp.]" : {maranki}
 ! 
@@ -3622,7 +3624,7 @@ define NRootPRQin [
 | "[=motia][NRoot][=stomach, belly]" : {motia}
 # omoti Shakinyi / o- =moti =Shakinyi / 3n.m.poss- =stomach =proper.name / 'Shakinyi's stomach' 
 # imoti eentsi / i- =moti =eentsi / 3m.poss- =stomach =child / 'a male.child's stomach' 
-| "[=moti+inal@tsi.][NRoot][=stomach, belly]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
+| "[=moti+inal@tsi.][NRoot][=stomach, belly]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] ! @section:noun@ 
 # nomotija / nomotiha / no- =motiha / 1sg.poss- =stomach / EN: 'my.stomach'; ES: 'mi.estómago' 
 | "[=motiha][NRoot][=stomach, belly (ES: estómago, abdomen)]" : {motiha}
 ! 
