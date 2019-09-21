@@ -1245,7 +1245,7 @@ define NRootPRQin [
 | "[=inchatonaki+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot][=big.traditional.fishing.boat;| plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {inchatonaki} ! @section:noun@ 
 | "[=intxatonaki+~{N:/'plant':intxa/}{CL:/'tree':to/}{CL:/'round.hollow':naki/}][NRoot:CPB][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]" : {intxatonaki} 
 ! 
-| "[=inchatoshi+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'leaf':shi/}][NRoot][=open.forest (ES: selva/monte/bosque.virgen)]" : {inchatoshi} 
+| "[=inchatoshi+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'leaf':shi/}][NRoot][=open.forest, jungle (ES: (selva|monte|bosque).virgen)]" : {inchatoshi} ! @section:noun@ 
 !| "[=inchatoshisati+~{N:/'plant':incha/}{CL:/'tree':to/}{CL:/'leaf':shi/}{CL:/'provenance':sati/}][NRoot][=amazon.region;| amazon.forest;| amazonian]" : {inchatoshisati} ! @section:noun@ 
 ! 
 ! inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'grass' ES: 'pasto' 
@@ -1945,6 +1945,7 @@ define NRootPRQin [
 | "[=kainiri+~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 !| "[=kaniria+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}][NRoot][=manioc.beer, masato (ES: bebida.de.yuca, masato)]" : {kaniria} ! @section:noun@ 
 !| "[=kaniriapatsa+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}{CL:/'mass':patsa/}][NRoot][=yucca.mass (ES: masa.de.yuca)]" : {kaniriapatsa} ! @section:noun@ 
+! piyanirimashite / pi- =kaniri -mashi -ite / 2poss- =yucca -cl:wide,flat.space -aug / ES: 'tu.yucal' 
 !| "[=kanirimashi+~{N:/'yucca':kaniri/}{CL:/'wide,flat.space':mashi/}][NRoot][=(yucca|manioc).field, manioc.garden (ES: yucal)]" : {kanirimashi} ! @section:noun@ 
 ! pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca'
 !| "[=pochariyaniri+~{N:/'sweet':pochari/}{N:/'yucca':kaniri/}][NRoot][=sweet.(manioc|yucca)]" : {pochariyaniri} ! @section:noun@ 
