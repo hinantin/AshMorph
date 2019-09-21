@@ -1205,7 +1205,7 @@ define NRootPRQin [
 | "[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother; wife]" : {inaa}
 | "[=iina+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother; wife]" : {iina}
 ! 1st, 2nd, 3rd person 
-| "[=niro+gndr@n.m.+kin@fe/male.ego][NRoot][=mother]" : {niro}
+| "[=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother]" : {niro} ! @section:noun@ 
 | "[=nyiiro/ñiiro+gndr@n.m.+kin@fe/male.ego][NRoot][=mother]" : {nyiiro}
 ! 
 ! Vocative form; 1st, 2nd, 3rd person  
@@ -1236,6 +1236,7 @@ define NRootPRQin [
 ! 
 | "[=inchapontso+~{N:/'plant':incha/}{CL:/'sharpless.edge':pontso/}][NRoot][=stake (ES: estaca)]" : {inchapontso} 
 ! 
+! inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol'
 | "[=inchato+~{N:/'plant':incha/}{CL:/'tree':to/}+gndr@n.m.][NRoot][=tree (ES: árbol)]" : {inchato} ! @section:noun@ 
 | "[=iNtxato/ĩtxato+~{N:/'plant':intxa/}{CL:/'tree':to/}+gndr@n.m.][NRoot:CPB][=tree (ES: árbol; PT: árvore)]" : [{ĩtxato}|{itxato}]
 ! 
@@ -1938,11 +1939,11 @@ define NRootPRQin [
 | "[=kanarinke+~{'guan':kanari}{CL:/'snake':nke/}][NRoot][=venomous.viper.sp. (ES: serpiente; sci.nm.: imantodes.cenchoa.cenchoa)]" : {kanarinke}
 # ---------------------------------------------------------------------
 ! 
-
 | "[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP @section:noun@ 
 | "[=kaaniri+~kaanir{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
 | "[=kanire+~kanir{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+! kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato' 
 !| "[=kaniria+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}][NRoot][=manioc.beer, masato (ES: bebida.de.yuca, masato)]" : {kaniria} ! @section:noun@ 
 !| "[=kaniriapatsa+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}{CL:/'mass':patsa/}][NRoot][=yucca.mass (ES: masa.de.yuca)]" : {kaniriapatsa} ! @section:noun@ 
 ! piyanirimashite / pi- =kaniri -mashi -ite / 2poss- =yucca -cl:wide,flat.space -aug / ES: 'tu.yucal' 
@@ -2411,7 +2412,7 @@ define NRootPRQin [
 ! 
 | "[=kiriiki+gndr@m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriiki}
 | "[=kiriki+gndr@m.+poss@te.][NRoot][=money (ES: dinero)]" : {kiriki}
-| "[=kireeki+gndr@m.+poss@te.][NRoot][=money (ES: dinero)]" : {kireeki}
+| "[=kireeki+gndr@m.+poss@te.][NRoot][=money (ES: dinero)]" : {kireeki} ! @section:noun@ 
 | "[=kireki+gndr@m.+poss@te.][NRoot][=money (ES: dinero; QU: qullqi; PT: dinheiro)]" : {kireki} ! @section:noun@ 
 !| "[=kireekipakoro+~{N:/'money':kireeki/}{CL:/'hand':pako/}{NMZ:ro}+gndr@n.m.][NRoot][=wealthy.woman]" : {kireekipakoro} ! @section:noun@ 
 !| "[=kireekipakori+~{N:/'money':kireeki/}{CL:/'hand':pako/}{NMZ:ri}+gndr@m.][NRoot][=wealthy.man]" : {kireekipakori} ! @section:noun@ 
@@ -2574,7 +2575,7 @@ define NRootPRQin [
 | "[=kitsani][NRoot][=kinkajou (ES: kinkajú; sci.nm.: potos.flavus); nocturnal.monkey (ES: mono.nocturno)]" : {kitsani}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kitsapi+gndr@m.+poss@ti.][NRoot][=needle (ES: aguja, alfiler)]" : {kitsapi}
+| "[=kitsapi+gndr@m.+poss@ti.][NRoot][=needle (ES: aguja, alfiler)]" : {kitsapi} ! @section:noun@ 
 # ---------------------------------------------------------------------------
 ! 
 | "[=koachere][NRoot][=blackish.rail (sci.nm.: pardirallus.nigricans)]" : {koachere}
@@ -4315,7 +4316,7 @@ define NRootPRQin [
 | "[=paNkire/pãkire+gndr@m.+inal@ntsi.][NRoot:CPB][=plant (ES: planta)]" : {pãkire}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=panko+gndr@n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]" : {panko} ! @CMP @VCMP 
+| "[=panko+gndr@n.m.+inal@tsi.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
 | "[=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 ! 
 | "[=pankoshi~{'house':panko}{CL:/'leaf':shi/}+gndr@n.m.+inal@ntsi.][NRoot][=hut, hovel, hunter's.blind (ES: choza.(para.cazar.aves.salvajes); PT: cabana)]" : {pankoshi} 
@@ -4533,7 +4534,7 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 # OrdenColeoptera, FamiliaScolytidaeconocidos como escarabajos de ambrosía y los orden Coleoptera, Familia Platypodidae.
-| "[=periki][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {periki}
+| "[=periki+gndr@m.][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {periki} ! @section:noun@ 
 | "[=pereki][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pereki}
 | "[=perikitzi][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {perikitzi}
 | "[=pirikitzi][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pirikitzi}
@@ -6982,7 +6983,7 @@ define NRootPRQin [
 | "[=vairo+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {vairo}
 | "[=vairo/wayro+gndr@n.m.+inal@ntsi.][NRoot:CPB][=name (ES: nombre; PT: nome)]" : {wayro}
 | "[=vaero+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {vaero}
-| "[=vahiro+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {vahiro}
+| "[=vahiro+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {vahiro} ! @section:noun@ 
 | "[=pahiro+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {pahiro}
 | "[=pairo+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {pairo}
 # ------------------------------------------------------------------- 
