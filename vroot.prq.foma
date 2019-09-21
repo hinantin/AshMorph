@@ -1237,7 +1237,7 @@ define VRootPRQin [
 | "[=kityonka+INF@/EP:t/VC.][VRoot][=to.be.red (ES: ser.de.color.rojo)]" : {kityonka}
 ! kityonkari okanta iraajantsi / kityonkari okanta iraahantsi / =kityonka -ri ** o- =kant -a ** =iraa -ha -ntsi 
 ! / =to.be.red -rel ** 3n.m.s- =to.be -real ** =blood -cl:liquid -nposs / EN: '(liquid).blood.is.red'; ES: 'la.sangre.es.de.color.rojo' 
-| "[=iraaha+~{N:/'blood':iraa/}{CL:/'liquid':ha/}+inal@ntsi.][NRoot][=period (ES: menstruación)]" : {iraaha}
+| "[=iraaha+~{N:/'blood':iraa/}{CL:/'liquid':ha/}+inal@ntsi.][NRoot][=period (ES: menstruación)]" : {iraaha} ! @section:noun@ 
 ! 
 # ---------------------------------------------------------
 | "[=kityoh+INF@aantsi.][VRoot][=to.spit (ES: escupir)]" : {kityoh}
