@@ -3131,8 +3131,8 @@ define NRootPRQin [
 | "[=mapichiri][NRoot][=boa (ES: boa); aquatic.snake (ES: serpiente.acuática, anaconda.de.color.marrón-verde.oliva.con.pequeñas.manchas.negras.y.amarillas; sci.nm.: eunectes.murinus)]" : {mapichiri}
 # -----------------------------------------------------------------------
 ! 
-| "[=mapocha+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]" : {mapocha}
-| "[=mapotxa+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya; PT: mamão)]" : {mapotxa}
+| "[=mapocha+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya; ES: papaya; PT: mamão)]" : {mapocha} ! @section:noun@ 
+| "[=mapotxa+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya; ES: papaya; PT: mamão)]" : {mapotxa}
 # -----------------------------------------------------------------------
 ! 
 | "[=mapova+gndr@n.m.][NRoot][=tree.sp. (ES: huimba; sci.nm.: ceiba.integrifolia, bombacaceae)]" : {mapova}
