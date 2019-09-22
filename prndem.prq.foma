@@ -42,6 +42,7 @@ define PrnDemPRQin [
 | "[=hanto+loc@distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded; ES: allá, muy.lejos, allá.lejos)]" : {hanto}
 | "[=hantoo+loc@distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded; ES: allá, muy.lejos, allá.lejos)]" : {hantoo}
 ! 
+! niri ~ hiri 
 | "[=niri+gndr@m.+class@attn.prn.][PrnDem][=there]" : {niri}
 | "[=hiri+gndr@m.+class@attn.prn.][PrnDem][=there; there.he.is]" : {hiri}
 | "[=hirika+gndr@m.+loc@proximal][PrnDem][=here.it.is; this]" : {hirika}
@@ -52,6 +53,7 @@ define PrnDemPRQin [
 | "[=nirinta+gndr@m.+loc@distal][PrnDem][=~]" : {nirinta}
 | "[=hirinto+gndr@m.+loc@distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hirinta}
 ! 
+! niro ~ hiro 
 | "[=niro+gndr@n.m.+class@attn.prn.][PrnDem][=here.it.is]" : {niro}
 | "[=hiro+gndr@n.m.+class@attn.prn.][PrnDem][=here.it.is]" : {hiro}
 | "[=hiroka+gndr@n.m.+loc@proximal][PrnDem][=here.it.is; this]" : {hiroka}
@@ -65,11 +67,13 @@ define PrnDemPRQin [
 | "[=nironta+gndr@n.m.+loc@distal][PrnDem][= (ES: allí.está)]" : {nironta}
 | "[=hironto+gndr@n.m.+loc@distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hironto}
 ! 
+! iri 
 | "[=irika+gndr@m.+loc@proximal][PrnDem][=this (ES: este)]" : {irika}
 | "[=iirika+gndr@m.+loc@proximal][PrnDem][=this (ES: este)]" : {iirika}
 | "[=irira+gndr@m.+loc@medial][PrnDem][=~]" : {irira}
 | "[=irinta+gndr@m.+loc@distal][PrnDem][=~]" : {irinta}
 ! 
+! iro 
 | "[=iro+gndr@n.m.][PrnDem][=this]" : {iro}
 | "[=iroka+gndr@n.m.+loc@proximal.b.][PrnDem][=this (ES: esta)]" : {iroka} ! DEM
 | "[=irora+gndr@n.m.+loc@medial.b.][PrnDem][=that, whachamacallit]" : {irora} ! DEM
