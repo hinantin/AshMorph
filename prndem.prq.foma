@@ -85,11 +85,17 @@ define PrnDemPRQin [
 # demonstrative adjectives, it refers to objects  
 ! iyo… 
 | "[=iyoka+gndr@m.+loc@proximal][PrnDem][=DEM (EN: this, this.one)]" : {iyoka} ! DEM
+| "[=iyoka+gndr@m.+loc@proximal][PrnDem][=DEM (EN: this, this.one; ES: él.aquí, ellos.aquí)]" : {iyoka}
 | "[=iyora+gndr@m.+loc@medial][PrnDem][=that]" : {iyora} ! DEM 
+| "[=iyonta+gndr@m.+loc@distal][PrnDem][=DEM]" : {iyonta}
 ! 
 ! yo… 
+| "[=yoka+gndr@m.+loc@proximal][PrnDem][=this (ES: él.aquí, ellos.aquí)]" : {yoka}
+| "[=yoka+gndr@m.+loc@proximal][PrnDem][=DEM (ES: él.aquí, ellos.aquí)]" : {yoka}
 | "[=yora+gndr@m.+loc@medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yora} ! he 
 | "[=yoora+gndr@m.+loc@medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yoora} ! he 
+| "[=yonta+gndr@m.+loc@distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yonta}
+| "[=yoonta+gndr@m.+loc@distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yoonta}
 ! 
 # demonstrative adjectives, it refers to people  
 | "[=yoranki+~{yora}{CLAR:nki}+gndr@m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yoranki} 
@@ -101,25 +107,17 @@ define PrnDemPRQin [
 | "[=oka+gndr@n.m.+loc@proximal][PrnDem][=DEM. NOM.DEM (EN: this; ES: ello.aquí)]" : {oka}
 | "[=ora+gndr@n.m.+loc@medial][PrnDem][=that (ES: esa)]" : {ora} ! she 
 | "[=oora+gndr@n.m.+loc@medial][PrnDem][=that (ES: esa)]" : {oora} ! she 
+# aakitavakeri, iroorika onta mapi. 
+# / =aaki -t -av -ak -e -ri                 =iroo -rika     =onta+n.m.       =mapi+n.m. 
+# / =to.trip.sb.up -ep -rcp -prf -real -rel =3SG.n.m. -cond =that.over.there =stone 
+# / EN: 'perhaps.you.tripped.up.on.that.stone.over.there', ES: 'tal.vez.le.hizo.tropezar.la.piedra.de.allá'
+| "[=onta+gndr@n.m.+loc@distal][PrnDem][=DEM.NOM: that, that.over.there (ES: esa, aquella)]" : {onta} 
 ! 
 # oranki pivanko / =ora -nki  pi- =panko / =that -rel  2poss- =house / EN: 'it is that, your house I was referring to' 
 | "[=oranki+~ora{CLAR:nki}+gndr@n.m.][PrnDem][=that (ES: esa)]" : {oranki} ! she 
 | "[=orari+gndr@n.m.][PrnDem][=that (ES: esa)]" : {orari} ! she 
 # -------------------------------------------------
 ! 
-| "[=iyoka+gndr@m.+loc@proximal][PrnDem][=DEM (EN: this, this.one; ES: él.aquí, ellos.aquí)]" : {iyoka}
-| "[=yoka+gndr@m.+loc@proximal][PrnDem][=this (ES: él.aquí, ellos.aquí)]" : {yoka}
-| "[=yoka+gndr@m.+loc@proximal][PrnDem][=DEM (ES: él.aquí, ellos.aquí)]" : {yoka}
-! 
-| "[=iyonta+gndr@m.+loc@distal][PrnDem][=DEM]" : {iyonta}
-| "[=yonta+gndr@m.+loc@distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yonta}
-| "[=yoonta+gndr@m.+loc@distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yoonta}
-! 
-# aakitavakeri, iroorika onta mapi. 
-# / =aaki -t -av -ak -e -ri                 =iroo -rika     =onta+n.m.       =mapi+n.m. 
-# / =to.trip.sb.up -ep -rcp -prf -real -rel =3SG.n.m. -cond =that.over.there =stone 
-# / EN: 'perhaps.you.tripped.up.on.that.stone.over.there', ES: 'tal.vez.le.hizo.tropezar.la.piedra.de.allá'
-| "[=onta+gndr@n.m.+loc@distal][PrnDem][=DEM.NOM: that, that.over.there (ES: esa, aquella)]" : {onta} 
 ! Demonstrative identifier 
 | "[=heri+gndr@m.+class@attn.prn.][PrnDem][=DEM.ID.: here.you.are, here.it.is]" : {heri} ! =heri / =attention.pronoun / EN: 'look!' 
 | "[=herika+gndr@m.+loc@proximal][PrnDem][=DEM.ID.: here.it.is (ES: aquí.está)]" : {herika} 
