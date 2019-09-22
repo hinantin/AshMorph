@@ -24,14 +24,18 @@ define PrnDemPRQin [
 | "[=heraka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí, acá)]" : {heraka} ! this is of my elaboration 
 | "[=hiraka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí, acá)]" : {hiraka} ! ??? 
 ! 
+! ara ~ hara 
 | "[=ara+loc@medial.b.][PrnDem][=not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {ara}
 | "[=hara+loc@medial.b.][PrnDem][=not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {hara}
 ! 
+! haa
 | "[=haa][PrnDem][= (ES: ahí)]" : {haa} ! \cite[pag. 24]{minsa:salud:12}
 ! DEM.ADV 
+! anta ~ hanta 
 | "[=anta+loc@distal.b.][PrnDem][=there (ES: allí.(está)), far.from.the.speaker (bounded)]" : {anta}
 | "[=hanta+loc@distal.b.][PrnDem][=there (ES: allí.(está)), far.from.the.speaker (bounded; ES: allá, allí)]" : {hanta}
 ! 
+! anto ~ hanto 
 ! nojatatye antoo antamiki / nohatatye antoo antamiki / no- =ha -t -aty -e  =antoo  =antami -ki / 1sg.s- =to.go -ep -prog -real  =far.from.the.speaker  =forest -loc / EN: 'I.will.go.far_away.to.the_forest' 
 | "[=anto+loc@distal.unb.][PrnDem][=there, over.there, far.from.the.speaker (unbounded)]" : {anto}
 | "[=antoo+loc@distal.unb.][PrnDem][=there, over.there, far.from.the.speaker (unbounded)]" : {antoo}
