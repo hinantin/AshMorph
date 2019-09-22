@@ -17,8 +17,10 @@
 
 define PrnDemPRQin [
 ! Demonstrative adverbs 
+! aka ~ haka 
   "[=aka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker]" : {aka}
 | "[=haka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí)]" : {haka}
+! hiraka 
 | "[=heraka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí, acá)]" : {heraka} ! this is of my elaboration 
 | "[=hiraka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí, acá)]" : {hiraka} ! ??? 
 ! 
@@ -81,7 +83,7 @@ define PrnDemPRQin [
 | "[=yoora+gndr@m.+loc@medial][PrnDem][=DEM (ES: ese, eso, aquel)]" : {yoora} ! he 
 ! 
 # demonstrative adjectives, it refers to people  
-| "[=yoranki+~yora{CLAR:nki}+gndr@m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yoranki} 
+| "[=yoranki+~{yora}{CLAR:nki}+gndr@m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yoranki} 
 | "[=yorari+gndr@m.][PrnDem][=DEM.NOM: that (ES: ese, eso); well.he]" : {yorari} 
 # -------------------------------------------------
 ! 
