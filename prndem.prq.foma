@@ -37,8 +37,7 @@ define PrnDemPRQin [
 | "[=hantoo+loc@distal.unb.][PrnDem][=there, far.from.the.speaker (unbounded; ES: allá, muy.lejos, allá.lejos)]" : {hantoo}
 ! 
 | "[=niri+gndr@m.+class@attn.prn.][PrnDem][=there]" : {niri}
-| "[=hiri+gndr@m.+class@attn.prn.][PrnDem][=there]" : {hiri}
-| "[=hiri+gndr@m.+class@attn.prn.][PrnDem][=there.he.is]" : {hiri}
+| "[=hiri+gndr@m.+class@attn.prn.][PrnDem][=there; there.he.is]" : {hiri}
 | "[=hirika+gndr@m.+loc@proximal][PrnDem][=here.it.is; this]" : {hirika}
 | "[=nirika+gndr@m.+loc@proximal][PrnDem][=here.it.is]" : {nirika}
 | "[=hirira+gndr@m.+loc@medial][PrnDem][=(over).there (close), near]" : {hirira}
