@@ -17,55 +17,27 @@
 
 define PrnDemPRQin [
 ! Demonstrative adverbs 
+! haa
+| "[=haa][PrnDem][=DEM.ADV.: (ES: ahí)]" : {haa} ! \cite[pag. 24]{minsa:salud:12}
+! 
 ! aka ~ haka 
-  "[=aka+loc@proximal.b.][PrnDem][=DEM.ADV: here, close.to.the.speaker]" : {aka}
-| "[=haka+loc@proximal.b.][PrnDem][=DEM.ADV: here, close.to.the.speaker (ES: aquí)]" : {haka}
-! hiraka 
-| "[=heraka+loc@proximal.b.][PrnDem][=DEM.ADV: here, close.to.the.speaker (ES: aquí, acá)]" : {heraka} ! this is of my elaboration 
-| "[=hiraka+loc@proximal.b.][PrnDem][=DEM.ADV: here, close.to.the.speaker (ES: aquí, acá)]" : {hiraka} ! ??? 
+  "[=aka+loc@proximal.b.][PrnDem][=DEM.ADV.: here, close.to.the.speaker]" : {aka}
+| "[=haka+loc@proximal.b.][PrnDem][=DEM.ADV.: here, close.to.the.speaker (ES: aquí)]" : {haka}
 ! 
 ! ara ~ hara 
-| "[=ara+loc@medial.b.][PrnDem][=DEM.ADV: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {ara}
-| "[=hara+loc@medial.b.][PrnDem][=DEM.ADV: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {hara}
-! 
-! haa
-| "[=haa][PrnDem][=DEM.ADV: (ES: ahí)]" : {haa} ! \cite[pag. 24]{minsa:salud:12}
+| "[=ara+loc@medial.b.][PrnDem][=DEM.ADV.: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {ara}
+| "[=hara+loc@medial.b.][PrnDem][=DEM.ADV.: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {hara}
 !  
 ! anta ~ hanta 
-| "[=anta+loc@distal.b.][PrnDem][=DEM.ADV: there (ES: allí.(está)), far.from.the.speaker (bounded)]" : {anta}
-| "[=hanta+loc@distal.b.][PrnDem][=DEM.ADV: there (ES: allí.(está)), far.from.the.speaker (bounded; ES: allá, allí)]" : {hanta}
+| "[=anta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded)]" : {anta}
+| "[=hanta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded; ES: allá, allí)]" : {hanta}
 ! 
 ! anto ~ hanto 
 ! nojatatye antoo antamiki / nohatatye antoo antamiki / no- =ha -t -aty -e  =antoo  =antami -ki / 1sg.s- =to.go -ep -prog -real  =far.from.the.speaker  =forest -loc / EN: 'I.will.go.far_away.to.the_forest' 
-| "[=anto+loc@distal.unb.][PrnDem][=DEM.ADV: there, over.there, far.from.the.speaker (unbounded)]" : {anto}
-| "[=antoo+loc@distal.unb.][PrnDem][=DEM.ADV: there, over.there, far.from.the.speaker (unbounded)]" : {antoo}
-| "[=hanto+loc@distal.unb.][PrnDem][=DEM.ADV: there, far.from.the.speaker (unbounded; ES: allá, muy.lejos, allá.lejos)]" : {hanto}
-| "[=hantoo+loc@distal.unb.][PrnDem][=DEM.ADV: there, far.from.the.speaker (unbounded; ES: allá, muy.lejos, allá.lejos)]" : {hantoo}
-! 
-! niri ~ hiri 
-| "[=niri+gndr@m.+class@attn.prn.][PrnDem][=there]" : {niri}
-| "[=hiri+gndr@m.+class@attn.prn.][PrnDem][=there; there.he.is]" : {hiri}
-| "[=hirika+gndr@m.+loc@proximal][PrnDem][=here.it.is; this]" : {hirika}
-| "[=nirika+gndr@m.+loc@proximal][PrnDem][=here.it.is]" : {nirika}
-| "[=hirira+gndr@m.+loc@medial][PrnDem][=(over).there (close), near]" : {hirira}
-| "[=nirira+gndr@m.+loc@medial][PrnDem][=~]" : {nirira}
-| "[=hirinta+gndr@m.+loc@distal][PrnDem][=(over).there (far), half.distant]" : {hirinta}
-| "[=nirinta+gndr@m.+loc@distal][PrnDem][=~]" : {nirinta}
-| "[=hirinto+gndr@m.+loc@distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hirinta}
-! 
-! niro ~ hiro 
-| "[=niro+gndr@n.m.+class@attn.prn.][PrnDem][=here.it.is]" : {niro}
-| "[=hiro+gndr@n.m.+class@attn.prn.][PrnDem][=here.it.is]" : {hiro}
-| "[=hiroka+gndr@n.m.+loc@proximal][PrnDem][=here.it.is; this]" : {hiroka}
-| "[=niroka+gndr@n.m.+loc@proximal][PrnDem][=~]" : {niroka}
-| "[=hirora+gndr@n.m.+loc@medial][PrnDem][=(over).there (close), near]" : {hirora}
-| "[=hirova+gndr@n.m.+loc@medial][PrnDem][=(over).there.(close) (ES: esta,, ello, eso,, esa)]" : {hirova}
-!| "[=hirova+num@3SG][Prn][=it (animal.or.object; ES: ello, eso,, esta,, esa)]" : {hirova}
-| "[=nirora+gndr@n.m.+loc@medial][PrnDem][=~]" : {nirora}
-| "[=hironta+gndr@n.m.+loc@distal][PrnDem][=(over).there (far), half.distant]" : {hironta}
-| "[=heronta+gndr@n.m.+loc@distal][PrnDem][=(over).there (far; ES: allí.(está)), half.distant]" : {heronta}
-| "[=nironta+gndr@n.m.+loc@distal][PrnDem][= (ES: allí.está)]" : {nironta}
-| "[=hironto+gndr@n.m.+loc@distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hironto}
+| "[=anto+loc@distal.unb.][PrnDem][=DEM.ADV.: there, over.there, far.from.the.speaker (unbounded)]" : {anto}
+| "[=antoo+loc@distal.unb.][PrnDem][=DEM.ADV.: there, over.there, far.from.the.speaker (unbounded)]" : {antoo}
+| "[=hanto+loc@distal.unb.][PrnDem][=DEM.ADV.: there, far.from.the.speaker (unbounded; ES: allá, muy.lejos, allá.lejos)]" : {hanto}
+| "[=hantoo+loc@distal.unb.][PrnDem][=DEM.ADV.: there, far.from.the.speaker (unbounded; ES: allá, muy.lejos, allá.lejos)]" : {hantoo}
 # -------------------------------------------------
 ! 
 ! iri 
@@ -130,5 +102,33 @@ define PrnDemPRQin [
 | "[=heroka+gndr@n.m.+proximal][PrnDem][=DEM.ID.: here.you.are; here.it.is]" : {heroka}
 ! 
 | "[=ainti][PrnDem][=DEM.ID.: there.(it.is) (ES: allá, allá.está)]" : {ainti}
+! hiraka 
+| "[=heraka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí, acá)]" : {heraka} ! this is of my elaboration 
+| "[=hiraka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí, acá)]" : {hiraka} ! ??? 
+! 
+! niri ~ hiri 
+| "[=niri+gndr@m.+class@attn.prn.][PrnDem][=there]" : {niri}
+| "[=hiri+gndr@m.+class@attn.prn.][PrnDem][=there; there.he.is]" : {hiri}
+| "[=hirika+gndr@m.+loc@proximal][PrnDem][=here.it.is; this]" : {hirika}
+| "[=nirika+gndr@m.+loc@proximal][PrnDem][=here.it.is]" : {nirika}
+| "[=hirira+gndr@m.+loc@medial][PrnDem][=(over).there (close), near]" : {hirira}
+| "[=nirira+gndr@m.+loc@medial][PrnDem][=~]" : {nirira}
+| "[=hirinta+gndr@m.+loc@distal][PrnDem][=(over).there (far), half.distant]" : {hirinta}
+| "[=nirinta+gndr@m.+loc@distal][PrnDem][=~]" : {nirinta}
+| "[=hirinto+gndr@m.+loc@distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hirinta}
+! 
+! niro ~ hiro 
+| "[=niro+gndr@n.m.+class@attn.prn.][PrnDem][=here.it.is]" : {niro}
+| "[=hiro+gndr@n.m.+class@attn.prn.][PrnDem][=here.it.is]" : {hiro}
+| "[=hiroka+gndr@n.m.+loc@proximal][PrnDem][=here.it.is; this]" : {hiroka}
+| "[=niroka+gndr@n.m.+loc@proximal][PrnDem][=~]" : {niroka}
+| "[=hirora+gndr@n.m.+loc@medial][PrnDem][=(over).there (close), near]" : {hirora}
+| "[=hirova+gndr@n.m.+loc@medial][PrnDem][=(over).there.(close) (ES: esta,, ello, eso,, esa)]" : {hirova}
+!| "[=hirova+num@3SG][Prn][=it (animal.or.object; ES: ello, eso,, esta,, esa)]" : {hirova}
+| "[=nirora+gndr@n.m.+loc@medial][PrnDem][=~]" : {nirora}
+| "[=hironta+gndr@n.m.+loc@distal][PrnDem][=(over).there (far), half.distant]" : {hironta}
+| "[=heronta+gndr@n.m.+loc@distal][PrnDem][=(over).there (far; ES: allí.(está)), half.distant]" : {heronta}
+| "[=nironta+gndr@n.m.+loc@distal][PrnDem][= (ES: allí.está)]" : {nironta}
+| "[=hironto+gndr@n.m.+loc@distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hironto}
 ];
 
