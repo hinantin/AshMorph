@@ -18,10 +18,10 @@
 define PrnDemPRQin [
 ! Demonstrative adverbs 
 ! haa
-| "[=haa][PrnDem][=DEM.ADV.: (ES: ahí)]" : {haa} ! \cite[pag. 24]{minsa:salud:12}
+  "[=haa][PrnDem][=DEM.ADV.: (ES: ahí)]" : {haa} ! \cite[pag. 24]{minsa:salud:12}
 ! 
 ! aka ~ haka 
-  "[=aka+loc@proximal.b.][PrnDem][=DEM.ADV.: here, close.to.the.speaker]" : {aka}
+| "[=aka+loc@proximal.b.][PrnDem][=DEM.ADV.: here, close.to.the.speaker]" : {aka}
 | "[=haka+loc@proximal.b.][PrnDem][=DEM.ADV.: here, close.to.the.speaker (ES: aquí)]" : {haka}
 ! 
 ! ara ~ hara 
@@ -45,6 +45,9 @@ define PrnDemPRQin [
 | "[=iirika+gndr@m.+loc@proximal][PrnDem][=this (ES: este)]" : {iirika}
 | "[=irira+gndr@m.+loc@medial][PrnDem][=~]" : {irira}
 | "[=irinta+gndr@m.+loc@distal][PrnDem][=~]" : {irinta}
+! 
+| "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
+| "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-nta+distal][Adv][+DEM]" : {irinta}
 # -------------------------------------------------
 ! 
 ! iro… ~ iyo… ~ yo… ~ o…?
@@ -96,7 +99,7 @@ define PrnDemPRQin [
 | "[=herika+gndr@m.+loc@proximal][PrnDem][=DEM.ID.: here.it.is (ES: aquí.está)]" : {herika} 
 | "[=heriyonta+gndr@m.+loc@distal][PrnDem][=DEM.ID.: it.is.over.there (ES: allá.está)]" : {heriyonta} 
 | "[=herionta+gndr@m.+loc@distal][PrnDem][=DEM.ID.: it.is.over.there (ES: allá.está)]" : {herionta} 
-| "[=heriketi+~{DEM.ID.:/ATTN.PRN.m.:heri/}{URGENT:keti}][PrnDem][=]" : {heriketi} 
+| "[=heriketi+~{DEM.ID.:/ATTN.PRN.m.:heri/}{URGENT:keti}][PrnDem][=~]" : {heriketi} 
 ! 
 ! niri ~ hiri 
 | "[=niri+gndr@m.+class@attn.prn.][PrnDem][=there]" : {niri}

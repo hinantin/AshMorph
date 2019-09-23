@@ -16,6 +16,7 @@ define PrnPersPRQin [
 # -------------------------------------------------------------------
 ! ********************
 ! 
+! naka ~ naaka 
   "[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naaka} ! @section:prnpers@ 
 | "[=naka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naka} ! @section:prnpers@ 
 # naro: it is only used in greetings 
@@ -49,9 +50,6 @@ define PrnPersPRQin [
 # iri ~ iriro 
 | "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iri} ! @section:prnpers@ 
 ! 
-| "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
-| "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-nta+distal][Adv][+DEM]" : {irinta}
-! 
 | "[=iriro+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriro} ! @section:prnpers@ 
 | "[=irio+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {irio}
 | "[=iryo+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iryo}
@@ -66,6 +64,7 @@ define PrnPersPRQin [
 | "[=nakapaeni+~{PRN:/'1SG.TOP':naka/}{PL:paeni}][PrnPers][=we (ES: nosotros)]" : {nakapaeni}  
 ! ********************
 ! 
+! aro 
 | "[=aro+num@1PL.INCL.][PrnPers][=we]" : {aro} 
 | "[=arohei+~{PRN:/'1PL.INCL.':aro/}{PL:hei}][PrnPers][=we (ES: nosotros)]" : {arohei} 
 ! 
