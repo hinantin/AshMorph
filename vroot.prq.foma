@@ -78,10 +78,10 @@ define VRootPRQin [
 # ---------------------------------------------------
 ! 
 | "[=amonko+INF@/EP:t/antsi.][VRoot][=to.chew.sth. (i.e.: coca.leaves, lime; ES: chacchar.coca, chacchar.cal; QU: kukata.chaqchay, iskuta.chaqchay)]" : {amonko}
-| "[=amonka+~amonk{DEL:o}{CL:/liquid:a/}+INF@/EP:t/aantsi.][VRoot][=to.chew.sth. (i.e.: coca.leaves, lime; ES: chacchar.coca, chacchar.cal; QU: kukata.chaqchay, iskuta.chaqchay)]" : {amonka}
-| "[=amonkaa+~amonk{DEL:o}{CL:/liquid:aa/}+INF@/EP:t/aantsi.][VRoot][=to.put.liquid/mass.through.the.mouth (ES: meter_por_la_boca/embocar.líquido/masa)]" : {amonkaa}
+| "[=amonka+~{V:/'to.chew':amonko/}{<DEL:o}{CL:/liquid:a/}+INF@/EP:t/aantsi.][VRoot][=to.chew.sth. (i.e.: coca.leaves, lime; ES: chacchar.coca, chacchar.cal; QU: kukata.chaqchay, iskuta.chaqchay)]" : {amonka}
+| "[=amonkaa+~{V:/'to.chew':amonko/}{<DEL:o}{CL:/liquid:aa/}+INF@/EP:t/aantsi.][VRoot][=to.put.liquid/mass.through.the.mouth (ES: meter_por_la_boca/embocar.líquido/masa)]" : {amonkaa}
 ! 
-| "[=amonkoshi+~amonko{CL:/leaf:shi/}+INF@/EP:t/aantsi.][VRoot][=to.put.leaf/leaves.through.the.mouth (ES: meter_por_la_boca/embocar.hoja)]" : {amonkoshi}
+| "[=amonkoshi+~{V:/'to.chew':amonko/}{CL:/leaf:shi/}+INF@/EP:t/aantsi.][VRoot][=to.put.leaf/leaves.through.the.mouth (ES: meter_por_la_boca/embocar.hoja)]" : {amonkoshi}
 # ---------------------------------------------------
 ! 
 | "[=aaki+INF@/EP:t/VC.][VRoot][=to.trip.sb.up, to.make.sb.fall (ES: hacer.tropezar)]" : {aaki}
