@@ -66,7 +66,7 @@ define NRootPRQin [
 # --------------------------------------------------------------------
 ! 
 # ampatentsi / =ampate -ntsi / =left.hand -nposs / EN: 'left.hand'; ES: 'mano.izquierda' 
-| "[=ampate+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampate} 
+| "[=ampate+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampate} ! @section:noun@ 
 | "[=ampati+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]" : {ampati} 
 # --------------------------------------------------------------------
 ! 
