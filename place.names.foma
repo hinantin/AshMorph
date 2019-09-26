@@ -1,9 +1,9 @@
 define NRootPLACESin [
-  "[=apapanani][NRoot][=the.stream.of.liver.parts, PLACE.NAME]" : {apapanani}
+  "[=apapanani+sem@NP.place][NRoot][=the.stream.of.liver.parts, PLACE.NAME]" : {apapanani}
 ! 
-| "[=ashiropanko][NRoot][=the cliff where the temple-forge was located in the past; its inhabitants venerated the sacred fire and made iron tools, PLACE.NAME]" : {ashiropanko}
+| "[=ashiropanko+sem@NP.place][NRoot][=the cliff where the temple-forge was located in the past; its inhabitants venerated the sacred fire and made iron tools, PLACE.NAME]" : {ashiropanko}
 ! 
-| "[=avitaroni][NRoot][=the hill which embraces' (when a human touches one of its big rocks, it kills, because it is inhabited by a supernatural being hostile to humans), PLACE.NAME]" : {avitaroni}
+| "[=avitaroni+sem@NP.place][NRoot][=the hill which embraces' (when a human touches one of its big rocks, it kills, because it is inhabited by a supernatural being hostile to humans), PLACE.NAME]" : {avitaroni}
 ! 
 | "[=chorinkaveni][NRoot][=the.lake.whose.resident-plant-chorina.grows.abundantly.on.its.shores, PLACE.NAME]" : {chorinkaveni}
 | "[=churingaveni][NRoot][=the.lake.whose.resident-plant-chorina.grows.abundantly.on.its.shores, PLACE.NAME]" : {churingaveni}
