@@ -1,12 +1,12 @@
 define NRootPLACESin [
-  "[=apapanani+sem@NP.place][NRoot][=the.stream.of.liver.parts, PLACE.NAME]" : {apapanani}
+  "[=apapanani+sem@NP.place][NRoot][=the.stream.of.liver.parts]" : {apapanani}
 ! 
-| "[=ashiropanko+sem@NP.place][NRoot][=the cliff where the temple-forge was located in the past; its inhabitants venerated the sacred fire and made iron tools, PLACE.NAME]" : {ashiropanko}
+| "[=ashiropanko+sem@NP.place][NRoot][=the cliff where the temple-forge was located in the past; its inhabitants venerated the sacred fire and made iron tools]" : {ashiropanko}
 ! 
-| "[=avitaroni+sem@NP.place][NRoot][=the hill which embraces' (when a human touches one of its big rocks, it kills, because it is inhabited by a supernatural being hostile to humans), PLACE.NAME]" : {avitaroni}
+| "[=avitaroni+sem@NP.place][NRoot][=the hill which embraces' (when a human touches one of its big rocks, it kills, because it is inhabited by a supernatural being hostile to humans)]" : {avitaroni}
 ! 
-| "[=chorinkaveni+sem@NP.place][NRoot][=the.lake.whose.resident-plant-chorina.grows.abundantly.on.its.shores, PLACE.NAME]" : {chorinkaveni}
-| "[=churingaveni+sem@NP.place][NRoot][=the.lake.whose.resident-plant-chorina.grows.abundantly.on.its.shores, PLACE.NAME]" : {churingaveni}
+| "[=chorinkaveni+sem@NP.place][NRoot][=the.lake.whose.resident-plant-chorina.grows.abundantly.on.its.shores]" : {chorinkaveni}
+| "[=churingaveni+sem@NP.place][NRoot][=the.lake.whose.resident-plant-chorina.grows.abundantly.on.its.shores]" : {churingaveni}
 ! 
 | "[=chorinani][NRoot][=the.river.on.whose.banks.the.chorina.plant.grows.abundantly, PLACE.NAME]" : {chorinani}
 | "[=yurinaki][NRoot][=the.river.on.whose.banks.the.chorina.plant.grows.abundantly, PLACE.NAME]" : {yurinaki}
