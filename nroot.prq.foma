@@ -4829,8 +4829,9 @@ define NRootPRQin [
 | "[=pitzitsari+gndr@n.m.][NRoot][=black.clay (ES: greda.negra); black.mud (itris.used.to.dye.yarn/cushmas)]" : {pitzitsari}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=piviro+gndr@m.][NRoot][=toad.sp. (ES: sp.de.rana)]" : {piviro}
-| "[=peviro+gndr@m.][NRoot][=frog.sp. (ES: sp.de.rana)]" : {peviro}
+| "[=piviro+gndr@m.][NRoot][=toad.sp. (ES: sp.de.rana);| aquatic.venomous.toad (ES: rana.venenosa.del.agua)]" : {piviro} ! @section:noun@ 
+| "[=peviro+gndr@m.][NRoot][=frog.sp. (ES: sp.de.rana); aquatic.venomous.toad (ES: rana.venenosa.del.agua)]" : {peviro}
+| "[=hiinto+gndr@m.][NRoot][=big.toad.sp. (ES: sp.de.sapo.grande)]" : {hiinto}
 # ------------------------------------------------------------------------------------------
 ! 
 # novochokine / no- =pochoki -ne / 1sg.poss- =dream -nposs / EN: 'my.dream', ES: 'mi.sueño' 
