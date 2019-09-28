@@ -15,9 +15,9 @@ define NRootPLACESin [
 ! 
 | "[=imoro_naviriri+sem@NP.place][NRoot][=the_Naviriri_Hole.where.Naviriri.fell.to.his.death]" : {imoro_naviriri}
 ! 
-| "[=inchatzinkari][NRoot][=those.who.use.clubs, PLACE.NAME]" : {inchatzinkari}
-| "[=inchatzinkari][NRoot][=those.who.use.clubs, PLACE.NAME]" : {inchatingari}
-| "[=ichatingari][NRoot][=those.who.use.clubs, PLACE.NAME]" : {ichatingari}
+| "[=inchatzinkari+sem@NP.place][NRoot][=those.who.use.clubs, PLACE.NAME]" : {inchatzinkari}
+| "[=inchatzinkari+sem@NP.place][NRoot][=those.who.use.clubs, PLACE.NAME]" : {inchatingari}
+| "[=ichatingari+sem@NP.place][NRoot][=those.who.use.clubs, PLACE.NAME]" : {ichatingari}
 ! 
 | "[=inkaariaro][NRoot][=the.enchanted.lake.which.never.gets.dry (it.is.believed.to.be.inhabited.by.the.lake's.Master.called.kiatsi), PLACE.NAME]" : {inkaariaro}
 | "[=incariado][NRoot][=the.enchanted.lake.which.never.gets.dry (it.is.believed.to.be.inhabited.by.the.lake's.Master.called.kiatsi), PLACE.NAME]" : {incariado}
