@@ -15,13 +15,13 @@ define NRootPLACESin [
 ! 
 | "[=imoro_naviriri+sem@NP.place][NRoot][=the_Naviriri_Hole.where.Naviriri.fell.to.his.death]" : {imoro_naviriri}
 ! 
-| "[=inchatzinkari+sem@NP.place][NRoot][=those.who.use.clubs, PLACE.NAME]" : {inchatzinkari}
-| "[=inchatzinkari+sem@NP.place][NRoot][=those.who.use.clubs, PLACE.NAME]" : {inchatingari}
-| "[=ichatingari+sem@NP.place][NRoot][=those.who.use.clubs, PLACE.NAME]" : {ichatingari}
+| "[=inchatzinkari+sem@NP.place][NRoot][=those.who.use.clubs]" : {inchatzinkari}
+| "[=inchatzinkari+sem@NP.place][NRoot][=those.who.use.clubs]" : {inchatingari}
+| "[=ichatingari+sem@NP.place][NRoot][=those.who.use.clubs]" : {ichatingari}
 ! 
-| "[=inkaariaro][NRoot][=the.enchanted.lake.which.never.gets.dry (it.is.believed.to.be.inhabited.by.the.lake's.Master.called.kiatsi), PLACE.NAME]" : {inkaariaro}
-| "[=incariado][NRoot][=the.enchanted.lake.which.never.gets.dry (it.is.believed.to.be.inhabited.by.the.lake's.Master.called.kiatsi), PLACE.NAME]" : {incariado}
-| "[=intsipashani][NRoot][=the.Perené.River.section.in.whose.vicinity.intsipa/pacay/guaba_tree/inga_brachyptera.grows.abundantly, PLACE.NAME]" : {intsipashani}
+| "[=inkaariaro+sem@NP.place][NRoot][=the.enchanted.lake.which.never.gets.dry (it.is.believed.to.be.inhabited.by.the.lake's.Master.called.kiatsi)]" : {inkaariaro}
+| "[=incariado+sem@NP.place][NRoot][=the.enchanted.lake.which.never.gets.dry (it.is.believed.to.be.inhabited.by.the.lake's.Master.called.kiatsi)]" : {incariado}
+| "[=intsipashani+sem@NP.place][NRoot][=the.Perené.River.section.in.whose.vicinity.intsipa/pacay/guaba_tree/inga_brachyptera.grows.abundantly]" : {intsipashani}
 | "[=olada][NRoot][=the.Perené.River.section.in.whose.vicinity.intsipa/pacay/guaba_tree/inga_brachyptera.grows.abundantly, PLACE.NAME]" : {olada}
 | "[=kinashironi][NRoot][=the.green.river, PLACE.NAME]" : {kinashironi}
 | "[=anashirona][NRoot][=the.green.river, PLACE.NAME]" : {anashirona}
