@@ -8,12 +8,12 @@ define NRootPLACESin [
 | "[=chorinkaveni+sem@NP.place][NRoot][=the.lake.whose.resident-plant-chorina.grows.abundantly.on.its.shores]" : {chorinkaveni}
 | "[=churingaveni+sem@NP.place][NRoot][=the.lake.whose.resident-plant-chorina.grows.abundantly.on.its.shores]" : {churingaveni}
 ! 
-| "[=chorinani][NRoot][=the.river.on.whose.banks.the.chorina.plant.grows.abundantly, PLACE.NAME]" : {chorinani}
-| "[=yurinaki][NRoot][=the.river.on.whose.banks.the.chorina.plant.grows.abundantly, PLACE.NAME]" : {yurinaki}
+| "[=chorinani+sem@NP.place][NRoot][=the.river.on.whose.banks.the.chorina.plant.grows.abundantly]" : {chorinani}
+| "[=yurinaki+sem@NP.place][NRoot][=the.river.on.whose.banks.the.chorina.plant.grows.abundantly]" : {yurinaki}
 ! 
-| "[=jinikinchari][NRoot][=the.stream.teeming.with.jini-microscopic-insects.which.cause.violent.rash.on.the.body;.the.stream.has.a.grassy.bottom, PLACE.NAME]" : {jinikinchari}
+| "[=jinikinchari+sem@NP.place][NRoot][=the.stream.teeming.with.jini-microscopic-insects.which.cause.violent.rash.on.the.body;.the.stream.has.a.grassy.bottom]" : {jinikinchari}
 ! 
-| "[=imoro_naviriri][NRoot][=the_Naviriri_Hole.where.Naviriri.fell.to.his.death, PLACE.NAME]" : {imoro_naviriri}
+| "[=imoro_naviriri+sem@NP.place][NRoot][=the_Naviriri_Hole.where.Naviriri.fell.to.his.death]" : {imoro_naviriri}
 ! 
 | "[=inchatzinkari][NRoot][=those.who.use.clubs, PLACE.NAME]" : {inchatzinkari}
 | "[=inchatzinkari][NRoot][=those.who.use.clubs, PLACE.NAME]" : {inchatingari}
