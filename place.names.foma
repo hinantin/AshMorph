@@ -1,4 +1,5 @@
 define NRootPLACESin [
+
   "[=apapanani+sem@NP.place][NRoot][=the.stream.of.liver.parts]" : {apapanani}
 ! 
 | "[=ashiropanko+sem@NP.place][NRoot][=the cliff where the temple-forge was located in the past; its inhabitants venerated the sacred fire and made iron tools]" : {ashiropanko}
@@ -23,161 +24,161 @@ define NRootPLACESin [
 | "[=incariado+sem@NP.place][NRoot][=the.enchanted.lake.which.never.gets.dry (it.is.believed.to.be.inhabited.by.the.lake's.Master.called.kiatsi)]" : {incariado}
 ! 
 | "[=intsipashani+sem@NP.place][NRoot][=the.Perené.River.section.in.whose.vicinity.intsipa/pacay/guaba_tree/inga_brachyptera.grows.abundantly]" : {intsipashani}
-| "[=olada][NRoot][=the.Perené.River.section.in.whose.vicinity.intsipa/pacay/guaba_tree/inga_brachyptera.grows.abundantly, PLACE.NAME]" : {olada}
-| "[=kinashironi][NRoot][=the.green.river, PLACE.NAME]" : {kinashironi}
-| "[=anashirona][NRoot][=the.green.river, PLACE.NAME]" : {anashirona}
-| "[=kiniritoni][NRoot][=the.hill.with.a.stream.in.whose.heights.numerous.kiniri/howler_monkeys.reside, PLACE.NAME]" : {kiniritoni}
-| "[=kinteropanko][NRoot][=the.rock.where.kintero/an_enormously_big_armadillo.resided.in.the.past, PLACE.NAME]" : {kinteropanko}
-| "[=kishitari][NRoot][=where.the.local.shaman-jaguar.had.disheveled.hair, PLACE.NAME]" : {kishitari}
-| "[=mariscal_caceres][NRoot][=where.the.local.shaman-jaguar.had.disheveled.hair, PLACE.NAME]" : {mariscal_caceres}
-| "[=kivinani][NRoot][=the.river.where.kivina/a_tree_with_beautiful_flowers.grows.in.abundance, PLACE.NAME]" : {kivinani}
-| "[=kivinaki][NRoot][=the.river.where.kivina/a_tree_with_beautiful_flowers.grows.in.abundance, PLACE.NAME]" : {kivinaki}
-| "[=komankomani][NRoot][=the.rocky.hill.whose.protruding.upper.part.resembles.the.lower.jaw.of.the.komairi_fish/zúngaro_negro, PLACE.NAME]" : {komankomani}
-| "[=kovatsironi][NRoot][=the.river.where.kovacheri/grey_necked_wood_rail.is.abundant, PLACE.NAME]" : {kovatsironi}
-| "[=huachiroki][NRoot][=the.river.where.kovacheri/grey_necked_wood_rail.is.abundant, PLACE.NAME]" : {huachiroki}
-| "[=kovirini][NRoot][=the.river.where.koviri/corvina_fish.is.abundant, PLACE.NAME]" : {kovirini}
-| "[=ubirike][NRoot][=the.river.where.koviri/corvina_fish.is.abundant, PLACE.NAME]" : {ubirike}
-| "[=manankanironi][NRoot][=the.hill.which.hides.people.in.its.interior, solitary.hunters.may.disappear.there.forever.if.the.resident.maninkaro/immortal_invisible_women.prevent.them.from.returning.to.their.villages, PLACE.NAME]" : {manankanironi}
-| "[=maniropanko][NRoot][=the.cave.where.the.Master-of-maniro/deer.resided.in.the.past, PLACE.NAME]" : {maniropanko}
-| "[=manitzipanko][NRoot][=the.cave.where.the.predatory.shaman-jaguar.was.shut.away, PLACE.NAME]" : {manitzipanko}
-| "[=manitzito][NRoot][=the.hill.whose.upper.part.is.inhabited.by.a.man-eating.jaguar, PLACE.NAME]" : {manitzito}
-| "[=mapinini][NRoot][=small.rocks (it.is.believed.to.be.created.by.Naviriri.who.converted.Spaniards.into.rocks; it.is.grounded.in.the.past.practice.of.veneration.of.the.stone.divinity.known.under.the.names.of.Paatsiri/Mapinini/Yompiri.in.the.Yurinaki_area), PLACE.NAME]" : {mapinini}
-| "[=marankiari][NRoot][=the.place.where.snakes.are.abundant.with.a.stream, PLACE.NAME (ES: tierra.de.las.serpientes)]" : {marankiari}
-| "[=bajo_marankiari][NRoot][=the.place.where.snakes.are.abundant.with.a.stream, PLACE.NAME]" : {bajo_marankiari}
-| "[=mavonari][NRoot][=the.hill.shaped.like.a.yam, PLACE.NAME]" : {mavonari}
-| "[=meantopanko][NRoot][=the.rock.where.the.Master.of.meanto/hyacinthine_macaw.resides, PLACE.NAME]" : {meantopanko}
-| "[=menkoritoni][NRoot][=the.hill.with.a.stream.where.clouds.regularly.gather.in.its.upper.part, PLACE.NAME]" : {menkoritoni}
-| "[=santo_domingo][NRoot][=the.hill.with.a.stream.where.clouds.regularly.gather.in.its.upper.part, PLACE.NAME]" : {santo_domingo}
-| "[=metararo][NRoot][=a.rounded.flat.area, PLACE.NAME]" : {metararo}
-| "[=metraro][NRoot][=a.rounded.flat.area, PLACE.NAME]" : {metraro}
-| "[=metzicharini][NRoot][=the.hillock.with.a.stream.which.has.a.grassy.bottom, PLACE.NAME]" : {metzicharini}
-| "[=natsitonini][NRoot][=the.stream.of.crushed.skulls (the.skulls.date.back.to.the.19th-century.battles.with.the.Peruvian.military), PLACE.NAME]" : {natsitonini}
-| "[=otsikaroni][NRoot][=the.hill.which.obstructs (its.ruggedness.blocks.passage.from.Gran.Pajonal), PLACE.NAME]" : {otsikaroni}
-| "[=pakitsapanko][NRoot][=the.cliff.in.a.narrow.stretch.of.the.Perené.River.canyon.where.the.monstrous.gavilán/eagle_sp.nested.in.the.past (it.attacked.and.consumed.people.navigating.along.the.river.in.their.canoes.and.rafts), PLACE.NAME]" : {pakitsapanko}
-| "[=pamoroitoni][NRoot][=the.hill.with.a.stream.where.pamoro/dove_sp.live.in.its.upper.part, PLACE.NAME]" : {pamoroitoni}
-| "[=parenini][NRoot][=the.river.of.pareto/small_parrot_sp., PLACE.NAME]" : {parenini}
-| "[=perene][NRoot][=the.river.of.pareto/small_parrot_sp., PLACE.NAME]" : {perene}
-| "[=paretari][NRoot][=the.waterfall.which.feeds.a.stream.in.a.ravine.where.pareto/small.parrot.sp.is.abundant, PLACE.NAME]" : {paretari}
-| "[=paretopanko][NRoot][=the.rock.where.the.Master.of.pareto/small_parrot_sp.resides, PLACE.NAME]" : {paretopanko}
-| "[=patsirini][NRoot][=the.hill.with.a.stream.that.teems.with.patsiri/partridge.sp., PLACE.NAME]" : {patsirini}
-| "[=pichaanani][NRoot][=the.river.where.people.were.annihilated.with.large.rocks, PLACE.NAME]" : {pichaanani}
-| "[=pichanaki][NRoot][=the.river.where.people.were.annihilated.with.large.rocks, PLACE.NAME]" : {pichanaki}
-| "[=piiripanko][NRoot][=the.cave.in.which.the.Master.of.piiri/bat.resides, PLACE.NAME]" : {piiripanko}
-| "[=pomporiani][NRoot][=the.stream.on.whose.banks.pomporo/land_snail.is.found.in.large.quantities, PLACE.NAME]" : {pomporiani}
-| "[=pumpuriani][NRoot][=the.stream.on.whose.banks.pomporo/land_snail.is.found.in.large.quantities, PLACE.NAME]" : {pumpuriani}
-| "[=ponironani][NRoot][=the.river.which.has.a.large.deep.pool.of.water.where.the.poniro/blue_bird_sp.is.found.in.large.quantities, PLACE.NAME]" : {ponironani}
-| "[=porinkishi][NRoot][=the.hill.where.porinkishi/plant_sp.grows.in.abundance, PLACE.NAME]" : {porinkishi}
-| "[=potooshinki][NRoot][=a.turbulent.place.in.the.Perené.River.channel.where.potooki/a_medicinal_tree/Ficus_insipida.grows.on.the.river.bank, PLACE.NAME]" : {potooshinki}
-| "[=potyarini][NRoot][=the.river.which.has.somewhat.salty.somewhat.sweet.taste, PLACE.NAME]" : {potyarini}
-| "[=pucharini][NRoot][=the.river.which.has.somewhat.salty.somewhat.sweet.taste, PLACE.NAME]" : {pucharini}
-| "[=samoterintsi][NRoot][=the.hill.which.hides.sth. (inside.the.hill.there.is.an.armadillo-like.creature, the.hill's.Master-Owner.who.is.hostile.to.humans), PLACE.NAME]" : {samoterintsi}
-| "[=sampityarini][NRoot][=the.river.on.whose.banks.sampera/palm_sp.grows.in.abundance (its.leaves.were.used.in.making.torches.to.light.the.trail.at.night), PLACE.NAME]" : {sampityarini}
-| "[=saniipanko][NRoot][=the.rock.where.the.Master-Owner.of.achontsi/mud_wasp_sp.resided.in.the.past, PLACE.NAME]" : {saniipanko}
-| "[=satinaki][NRoot][=PLACE.NAME]" : {satinaki}
-| "[=shamorokiarini][NRoot][=the.river.whose.rocky.banks.contain.deposits.of.limestone (powdered.lime.was.used.a.sweetening.agent.with.bitter-tasting.coca.leaves,.a.traditional.stimulant), PLACE.NAME]" : {shamorokiarini}
-| "[=shankivironi][NRoot][=the.stream.whose.banks.were.inhabited.by.shankivi/small_bird.sp., PLACE.NAME]" : {shankivironi}
-| "[=sharokishi][NRoot][=grasslands.with.abundant.agoutis (sci.nm.: Dasyprocta.variegata), PLACE.NAME]" : {sharokishi}
-| "[=shimaki][NRoot][=where.the.fish_sp./shima/chupadora.is.abundant, PLACE.NAME]" : {shimaki}
-| "[=shimapanko][NRoot][=the.rock.in.the.Perené_River.where.the.female.Master-Owner.of.fish.resided.in.the.past, PLACE.NAME]" : {shimapanko}
-| "[=shimashironi][NRoot][=the.river.where.shimashiri/Pino_chuncho/tree_sp.is.abundant, PLACE.NAME]" : {shimashironi}
-| "[=san_ramon][NRoot][=the.river.where.shimashiri/Pino_chuncho/tree_sp.is.abundant, PLACE.NAME]" : {san_ramon}
-| "[=shinari][NRoot][=the.place.where.shina/kapok_tree.grows.in.abundance, PLACE.NAME]" : {shinari}
-| "[=bajo_chirani][NRoot][=the.place.where.shina/kapok_tree.grows.in.abundance, PLACE.NAME]" : {bajo_chirani}
-| "[=shintoriato][NRoot][=the.hill.inhabited.by.numerous.shintori/wild_pig.in.its.upper.part.a.stream, PLACE.NAME]" : {shintoriato}
+| "[=olada+sem@NP.place][NRoot][=the.Perené.River.section.in.whose.vicinity.intsipa/pacay/guaba_tree/inga_brachyptera.grows.abundantly]" : {olada}
+| "[=kinashironi+sem@NP.place+sem@NP.place][NRoot][=the.green.river]" : {kinashironi}
+| "[=anashirona+sem@NP.place][NRoot][=the.green.river]" : {anashirona}
+| "[=kiniritoni+sem@NP.place][NRoot][=the.hill.with.a.stream.in.whose.heights.numerous.kiniri/howler_monkeys.reside]" : {kiniritoni}
+| "[=kinteropanko+sem@NP.place][NRoot][=the.rock.where.kintero/an_enormously_big_armadillo.resided.in.the.past]" : {kinteropanko}
+| "[=kishitari+sem@NP.place][NRoot][=where.the.local.shaman-jaguar.had.disheveled.hair]" : {kishitari}
+| "[=mariscal_caceres+sem@NP.place][NRoot][=where.the.local.shaman-jaguar.had.disheveled.hair]" : {mariscal_caceres}
+| "[=kivinani+sem@NP.place][NRoot][=the.river.where.kivina/a_tree_with_beautiful_flowers.grows.in.abundance]" : {kivinani}
+| "[=kivinaki+sem@NP.place][NRoot][=the.river.where.kivina/a_tree_with_beautiful_flowers.grows.in.abundance]" : {kivinaki}
+| "[=komankomani+sem@NP.place][NRoot][=the.rocky.hill.whose.protruding.upper.part.resembles.the.lower.jaw.of.the.komairi_fish/zúngaro_negro]" : {komankomani}
+| "[=kovatsironi+sem@NP.place][NRoot][=the.river.where.kovacheri/grey_necked_wood_rail.is.abundant]" : {kovatsironi}
+| "[=huachiroki+sem@NP.place][NRoot][=the.river.where.kovacheri/grey_necked_wood_rail.is.abundant]" : {huachiroki}
+| "[=kovirini+sem@NP.place][NRoot][=the.river.where.koviri/corvina_fish.is.abundant]" : {kovirini}
+| "[=ubirike+sem@NP.place][NRoot][=the.river.where.koviri/corvina_fish.is.abundant]" : {ubirike}
+| "[=manankanironi+sem@NP.place][NRoot][=the.hill.which.hides.people.in.its.interior, solitary.hunters.may.disappear.there.forever.if.the.resident.maninkaro/immortal_invisible_women.prevent.them.from.returning.to.their.villages]" : {manankanironi}
+| "[=maniropanko+sem@NP.place][NRoot][=the.cave.where.the.Master-of-maniro/deer.resided.in.the.past]" : {maniropanko}
+| "[=manitzipanko+sem@NP.place][NRoot][=the.cave.where.the.predatory.shaman-jaguar.was.shut.away]" : {manitzipanko}
+| "[=manitzito+sem@NP.place][NRoot][=the.hill.whose.upper.part.is.inhabited.by.a.man-eating.jaguar]" : {manitzito}
+| "[=mapinini+sem@NP.place][NRoot][=small.rocks (it.is.believed.to.be.created.by.Naviriri.who.converted.Spaniards.into.rocks; it.is.grounded.in.the.past.practice.of.veneration.of.the.stone.divinity.known.under.the.names.of.Paatsiri/Mapinini/Yompiri.in.the.Yurinaki_area)]" : {mapinini}
+| "[=marankiari+sem@NP.place][NRoot][=the.place.where.snakes.are.abundant.with.a.stream (ES: tierra.de.las.serpientes)]" : {marankiari}
+| "[=bajo_marankiari+sem@NP.place][NRoot][=the.place.where.snakes.are.abundant.with.a.stream]" : {bajo_marankiari}
+| "[=mavonari+sem@NP.place][NRoot][=the.hill.shaped.like.a.yam]" : {mavonari}
+| "[=meantopanko+sem@NP.place][NRoot][=the.rock.where.the.Master.of.meanto/hyacinthine_macaw.resides]" : {meantopanko}
+| "[=menkoritoni+sem@NP.place][NRoot][=the.hill.with.a.stream.where.clouds.regularly.gather.in.its.upper.part]" : {menkoritoni}
+| "[=santo_domingo+sem@NP.place][NRoot][=the.hill.with.a.stream.where.clouds.regularly.gather.in.its.upper.part]" : {santo_domingo}
+| "[=metararo+sem@NP.place][NRoot][=a.rounded.flat.area]" : {metararo}
+| "[=metraro+sem@NP.place][NRoot][=a.rounded.flat.area]" : {metraro}
+| "[=metzicharini+sem@NP.place][NRoot][=the.hillock.with.a.stream.which.has.a.grassy.bottom]" : {metzicharini}
+| "[=natsitonini+sem@NP.place][NRoot][=the.stream.of.crushed.skulls (the.skulls.date.back.to.the.19th-century.battles.with.the.Peruvian.military)]" : {natsitonini}
+| "[=otsikaroni+sem@NP.place][NRoot][=the.hill.which.obstructs (its.ruggedness.blocks.passage.from.Gran.Pajonal)]" : {otsikaroni}
+| "[=pakitsapanko+sem@NP.place][NRoot][=the.cliff.in.a.narrow.stretch.of.the.Perené.River.canyon.where.the.monstrous.gavilán/eagle_sp.nested.in.the.past (it.attacked.and.consumed.people.navigating.along.the.river.in.their.canoes.and.rafts)]" : {pakitsapanko}
+| "[=pamoroitoni+sem@NP.place][NRoot][=the.hill.with.a.stream.where.pamoro/dove_sp.live.in.its.upper.part]" : {pamoroitoni}
+| "[=parenini+sem@NP.place][NRoot][=the.river.of.pareto/small_parrot_sp.]" : {parenini}
+| "[=perene+sem@NP.place][NRoot][=the.river.of.pareto/small_parrot_sp.]" : {perene}
+| "[=paretari+sem@NP.place][NRoot][=the.waterfall.which.feeds.a.stream.in.a.ravine.where.pareto/small.parrot.sp.is.abundant]" : {paretari}
+| "[=paretopanko+sem@NP.place][NRoot][=the.rock.where.the.Master.of.pareto/small_parrot_sp.resides]" : {paretopanko}
+| "[=patsirini+sem@NP.place][NRoot][=the.hill.with.a.stream.that.teems.with.patsiri/partridge.sp.]" : {patsirini}
+| "[=pichaanani+sem@NP.place][NRoot][=the.river.where.people.were.annihilated.with.large.rocks]" : {pichaanani}
+| "[=pichanaki+sem@NP.place][NRoot][=the.river.where.people.were.annihilated.with.large.rocks]" : {pichanaki}
+| "[=piiripanko+sem@NP.place][NRoot][=the.cave.in.which.the.Master.of.piiri/bat.resides]" : {piiripanko}
+| "[=pomporiani+sem@NP.place][NRoot][=the.stream.on.whose.banks.pomporo/land_snail.is.found.in.large.quantities]" : {pomporiani}
+| "[=pumpuriani+sem@NP.place][NRoot][=the.stream.on.whose.banks.pomporo/land_snail.is.found.in.large.quantities]" : {pumpuriani}
+| "[=ponironani+sem@NP.place][NRoot][=the.river.which.has.a.large.deep.pool.of.water.where.the.poniro/blue_bird_sp.is.found.in.large.quantities]" : {ponironani}
+| "[=porinkishi+sem@NP.place][NRoot][=the.hill.where.porinkishi/plant_sp.grows.in.abundance]" : {porinkishi}
+| "[=potooshinki+sem@NP.place][NRoot][=a.turbulent.place.in.the.Perené.River.channel.where.potooki/a_medicinal_tree/Ficus_insipida.grows.on.the.river.bank]" : {potooshinki}
+| "[=potyarini+sem@NP.place][NRoot][=the.river.which.has.somewhat.salty.somewhat.sweet.taste]" : {potyarini}
+| "[=pucharini+sem@NP.place][NRoot][=the.river.which.has.somewhat.salty.somewhat.sweet.taste]" : {pucharini}
+| "[=samoterintsi+sem@NP.place][NRoot][=the.hill.which.hides.sth. (inside.the.hill.there.is.an.armadillo-like.creature, the.hill's.Master-Owner.who.is.hostile.to.humans)]" : {samoterintsi}
+| "[=sampityarini+sem@NP.place][NRoot][=the.river.on.whose.banks.sampera/palm_sp.grows.in.abundance (its.leaves.were.used.in.making.torches.to.light.the.trail.at.night)]" : {sampityarini}
+| "[=saniipanko+sem@NP.place][NRoot][=the.rock.where.the.Master-Owner.of.achontsi/mud_wasp_sp.resided.in.the.past]" : {saniipanko}
+| "[=satinaki+sem@NP.place][NRoot][=PLACE.NAME]" : {satinaki}
+| "[=shamorokiarini+sem@NP.place][NRoot][=the.river.whose.rocky.banks.contain.deposits.of.limestone (powdered.lime.was.used.a.sweetening.agent.with.bitter-tasting.coca.leaves,.a.traditional.stimulant)]" : {shamorokiarini}
+| "[=shankivironi+sem@NP.place][NRoot][=the.stream.whose.banks.were.inhabited.by.shankivi/small_bird.sp.]" : {shankivironi}
+| "[=sharokishi+sem@NP.place][NRoot][=grasslands.with.abundant.agoutis (sci.nm.: Dasyprocta.variegata)]" : {sharokishi}
+| "[=shimaki+sem@NP.place][NRoot][=where.the.fish_sp./shima/chupadora.is.abundant]" : {shimaki}
+| "[=shimapanko+sem@NP.place][NRoot][=the.rock.in.the.Perené_River.where.the.female.Master-Owner.of.fish.resided.in.the.past]" : {shimapanko}
+| "[=shimashironi+sem@NP.place][NRoot][=the.river.where.shimashiri/Pino_chuncho/tree_sp.is.abundant]" : {shimashironi}
+| "[=san_ramon+sem@NP.place][NRoot][=the.river.where.shimashiri/Pino_chuncho/tree_sp.is.abundant]" : {san_ramon}
+| "[=shinari+sem@NP.place][NRoot][=the.place.where.shina/kapok_tree.grows.in.abundance]" : {shinari}
+| "[=bajo_chirani+sem@NP.place][NRoot][=the.place.where.shina/kapok_tree.grows.in.abundance]" : {bajo_chirani}
+| "[=shintoriato+sem@NP.place][NRoot][=the.hill.inhabited.by.numerous.shintori/wild_pig.in.its.upper.part.a.stream]" : {shintoriato}
 ! 
-| "[=shivitsaari][NRoot][=the.stream.whose.banks.are.replete.with.shivitsa/liana (useful.in.house.construction), PLACE.NAME]" : {shivitsaari}
-| "[=shivitsaarini][NRoot][=the.stream.whose.banks.are.replete.with.shivitsa/liana (useful.in.house.construction), PLACE.NAME]" : {shivitsaarini}
+| "[=shivitsaari+sem@NP.place][NRoot][=the.stream.whose.banks.are.replete.with.shivitsa/liana (useful.in.house.construction)]" : {shivitsaari}
+| "[=shivitsaarini+sem@NP.place][NRoot][=the.stream.whose.banks.are.replete.with.shivitsa/liana (useful.in.house.construction)]" : {shivitsaarini}
 ! 
-| "[=sotzini][NRoot][=PLACE.NAME]" : {sotzini}
-| "[=zotziki][NRoot][=PLACE.NAME]" : {zotziki}
+| "[=sotzini+sem@NP.place][NRoot][=PLACE.NAME]" : {sotzini}
+| "[=zotziki+sem@NP.place][NRoot][=PLACE.NAME]" : {zotziki}
 ! 
-| "[=teroritoni][NRoot][=the.hill.with.a.stream.inhabited.by.terori/macaw.in.its.upper.part, PLACE.NAME]" : {teroritoni}
+| "[=teroritoni+sem@NP.place][NRoot][=the.hill.with.a.stream.inhabited.by.terori/macaw.in.its.upper.part]" : {teroritoni}
 ! 
-| "[=tonkitsini][NRoot][=the.rock.with.many.bones (the.place.was.inhabited.by.kamari/bonebreaking_demonic_creature.which.kills.by.dismembering.victims'.bodies), PLACE.NAME]" : {tonkitsini}
+| "[=tonkitsini+sem@NP.place][NRoot][=the.rock.with.many.bones (the.place.was.inhabited.by.kamari/bonebreaking_demonic_creature.which.kills.by.dismembering.victims'.bodies)]" : {tonkitsini}
 ! 
-| "[=toterani][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant, PLACE.NAME]" : {toterani}
-| "[=totzirani][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant, PLACE.NAME]" : {totzirani}
+| "[=toterani+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant]" : {toterani}
+| "[=totzirani+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant]" : {totzirani}
 ! 
-| "[=tsamirimenta][NRoot][=rock.outcroppings.of.conical.shape.where.the.Master-Owner.of.tsamiri/curassows.resided.in.the.past, PLACE.NAME]" : {tsamirimenta}
+| "[=tsamirimenta+sem@NP.place][NRoot][=rock.outcroppings.of.conical.shape.where.the.Master-Owner.of.tsamiri/curassows.resided.in.the.past]" : {tsamirimenta}
 ! 
-| "[=tsipishironi][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant, PLACE.NAME]" : {tsipishironi}
-| "[=pichiroki][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant, PLACE.NAME]" : {pichiroki}
+| "[=tsipishironi+sem@NP.place][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant]" : {tsipishironi}
+| "[=pichiroki+sem@NP.place][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant]" : {pichiroki}
 ! 
-| "[=la_merced][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant, PLACE.NAME]" : {la_merced}
-| "[=tsiirishi][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant, PLACE.NAME (ES: La.Merced)]" : {tsiirishi}
-| "[=tsirishi][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant, PLACE.NAME (ES: La.Merced)]" : {tsirishi}
-| "[=kimiri][NRoot][=PLACE.NAME]" : {kimiri}
+| "[=la_merced+sem@NP.place][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant]" : {la_merced}
+| "[=tsiirishi+sem@NP.place][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant (ES: La.Merced)]" : {tsiirishi}
+| "[=tsirishi+sem@NP.place][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant (ES: La.Merced)]" : {tsirishi}
+| "[=kimiri+sem@NP.place][NRoot][=PLACE.NAME]" : {kimiri}
 ! 
-| "[=tsomontoniki][NRoot][=the.cliff.where.a.big-bellied.man.resides, PLACE.NAME]" : {tsomontoniki}
+| "[=tsomontoniki+sem@NP.place][NRoot][=the.cliff.where.a.big-bellied.man.resides]" : {tsomontoniki}
 ! 
-| "[=tsotani][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones), PLACE.NAME]" : {tsotani}
-| "[=zotani][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones), PLACE.NAME]" : {zotani}
+| "[=tsotani+sem@NP.place][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones)]" : {tsotani}
+| "[=zotani+sem@NP.place][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones)]" : {zotani}
 ! 
-| "[=tzivanarini][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance, PLACE.NAME]" : {tzivanarini}
-| "[=chivanari][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance, PLACE.NAME]" : {chivanari}
+| "[=tzivanarini+sem@NP.place][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance]" : {tzivanarini}
+| "[=chivanari+sem@NP.place][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance]" : {chivanari}
 ! 
-| "[=tziviarini][NRoot][=the.river.with.salt.deposits, PLACE.NAME]" : {tziviarini}
-| "[=paucartambo][NRoot][=the.river.with.salt.deposits, PLACE.NAME]" : {paucartambo}
+| "[=tziviarini+sem@NP.place][NRoot][=the.river.with.salt.deposits]" : {tziviarini}
+| "[=paucartambo+sem@NP.place][NRoot][=the.river.with.salt.deposits]" : {paucartambo}
 ! 
-| "[=alto_huacamayo][NRoot][=Upper.Parrot/river_spirit?/sacred_river (ES: guacamayo.jacinto; sci.nm.: Anodorhynchus.hyacinthinus; QU: waka.mayu), PLACE.NAME]" : {alto_huacamayo}
-| "[=alto_kivinaki][NRoot][=Upper.Kivinaki, PLACE.NAME]" : {alto_kivinaki}
-| "[=alto_pucharini][NRoot][=Upper.Pucharini, PLACE.NAME]" : {alto_pucharini}
-| "[=alto_esperanza][NRoot][=Upper.Hope, PLACE.NAME]" : {alto_esperanza}
-| "[=bajo_aldea][NRoot][=Low.Hamlet, PLACE.NAME]" : {bajo_aldea}
-| "[=bajo_chirani][NRoot][=Low.Chirani, PLACE.NAME]" : {bajo_chirani}
-| "[=bajo_esperanza][NRoot][=Low(er).Hope, PLACE.NAME]" : {bajo_esperanza}
-| "[=bajo_incariado][NRoot][=Low.Incariado, PLACE.NAME]" : {bajo_incariado}
-| "[=bajo_marankiari][NRoot][=Low.Marankiari, PLACE.NAME]" : {bajo_marankiari}
-| "[=campo_verde][NRoot][=Green.Field, PLACE.NAME]" : {campo_verde}
-| "[=centro_pumpuriani][NRoot][=Central.Pumpuriani, PLACE.NAME]" : {centro_pumpuriani}
-| "[=cerro_picaflor][NRoot][=Hummingbird.Hill, PLACE.NAME]" : {cerro_picaflor}
-| "[=cumbre_san_roman][NRoot][=The.Crest.of.Saint.Roman, PLACE.NAME]" : {cumbre_san_roman}
-| "[=huacamayo_parrot][NRoot][=from.guacamayo_jacinto/Quechua_huaca_spirit-and-mayo_river, PLACE.NAME]" : {huacamayo_parrot}
-| "[=mariscal_caceres][NRoot][=Marshal.Cáceres, PLACE.NAME]" : {mariscal_caceres}
-| "[=pampa_michi][NRoot][=Michel's.Pampa, PLACE.NAME]" : {pampa_michi}
-| "[=pampa_silva][NRoot][=Silva's.Pampa, PLACE.NAME]" : {pampa_silva}
-| "[=pampa_whaley][NRoot][=Whaley's.Pampa, PLACE.NAME]" : {pampa_whaley}
-| "[=pachacutec][NRoot][=the_one_who_changes/transformer, he.who.overturns.space-and-time, earth.shaker (QU: pachakutiq), PLACE.NAME]" : {pachacutec}
-| "[=platanillio_shimaki][NRoot][=Heliconia.Shimaki, PLACE.NAME]" : {platanillio_shimaki}
-| "[=santa_ana][NRoot][=Saint.Ana, PLACE.NAME]" : {santa_ana}
-| "[=san_cristobal][NRoot][=Saint.Cristobal, PLACE.NAME]" : {san_cristobal}
-| "[=san_jeronimo_de_yurinaki][NRoot][=Saint.Jeronimo.of.Yurinaki, PLACE.NAME]" : {san_jeronimo_de_yurinaki}
-| "[=san_jose_kuviriani][NRoot][=Saint.Jose.of.Kuviriani, PLACE.NAME]" : {san_jose_kuviriani}
-| "[=san_martin_de_ubiriki][NRoot][=Saint.Martin.of.Ubiriki, PLACE.NAME]" : {san_martin_de_ubiriki}
-| "[=san_miguel_centro_marankiari][NRoot][=Saint.Miguel.of.Central.Marankiari, PLACE.NAME]" : {san_miguel_centro_marankiari}
-| "[=santa_rosa_de_ubirike][NRoot][=Saint.Rosa.of.Ubirike, PLACE.NAME]" : {santa_rosa_de_ubirike}
+| "[=alto_huacamayo+sem@NP.place][NRoot][=Upper.Parrot/river_spirit?/sacred_river (ES: guacamayo.jacinto; sci.nm.: Anodorhynchus.hyacinthinus; QU: waka.mayu)]" : {alto_huacamayo}
+| "[=alto_kivinaki+sem@NP.place][NRoot][=Upper.Kivinaki]" : {alto_kivinaki}
+| "[=alto_pucharini+sem@NP.place][NRoot][=Upper.Pucharini]" : {alto_pucharini}
+| "[=alto_esperanza+sem@NP.place][NRoot][=Upper.Hope]" : {alto_esperanza}
+| "[=bajo_aldea+sem@NP.place][NRoot][=Low.Hamlet]" : {bajo_aldea}
+| "[=bajo_chirani+sem@NP.place][NRoot][=Low.Chirani]" : {bajo_chirani}
+| "[=bajo_esperanza+sem@NP.place][NRoot][=Low(er).Hope]" : {bajo_esperanza}
+| "[=bajo_incariado+sem@NP.place][NRoot][=Low.Incariado]" : {bajo_incariado}
+| "[=bajo_marankiari+sem@NP.place][NRoot][=Low.Marankiari]" : {bajo_marankiari}
+| "[=campo_verde+sem@NP.place][NRoot][=Green.Field]" : {campo_verde}
+| "[=centro_pumpuriani+sem@NP.place][NRoot][=Central.Pumpuriani]" : {centro_pumpuriani}
+| "[=cerro_picaflor+sem@NP.place][NRoot][=Hummingbird.Hill]" : {cerro_picaflor}
+| "[=cumbre_san_roman+sem@NP.place][NRoot][=The.Crest.of.Saint.Roman]" : {cumbre_san_roman}
+| "[=huacamayo_parrot+sem@NP.place][NRoot][=from.guacamayo_jacinto/Quechua_huaca_spirit-and-mayo_river]" : {huacamayo_parrot}
+| "[=mariscal_caceres+sem@NP.place][NRoot][=Marshal.Cáceres]" : {mariscal_caceres}
+| "[=pampa_michi+sem@NP.place][NRoot][=Michel's.Pampa]" : {pampa_michi}
+| "[=pampa_silva+sem@NP.place][NRoot][=Silva's.Pampa]" : {pampa_silva}
+| "[=pampa_whaley+sem@NP.place][NRoot][=Whaley's.Pampa]" : {pampa_whaley}
+| "[=pachacutec+sem@NP.place][NRoot][=the_one_who_changes/transformer, he.who.overturns.space-and-time, earth.shaker (QU: pachakutiq)]" : {pachacutec}
+| "[=platanillio_shimaki+sem@NP.place][NRoot][=Heliconia.Shimaki]" : {platanillio_shimaki}
+| "[=santa_ana+sem@NP.place][NRoot][=Saint.Ana]" : {santa_ana}
+| "[=san_cristobal+sem@NP.place][NRoot][=Saint.Cristobal]" : {san_cristobal}
+| "[=san_jeronimo_de_yurinaki+sem@NP.place][NRoot][=Saint.Jeronimo.of.Yurinaki]" : {san_jeronimo_de_yurinaki}
+| "[=san_jose_kuviriani+sem@NP.place][NRoot][=Saint.Jose.of.Kuviriani]" : {san_jose_kuviriani}
+| "[=san_martin_de_ubiriki+sem@NP.place][NRoot][=Saint.Martin.of.Ubiriki]" : {san_martin_de_ubiriki}
+| "[=san_miguel_centro_marankiari+sem@NP.place][NRoot][=Saint.Miguel.of.Central.Marankiari]" : {san_miguel_centro_marankiari}
+| "[=santa_rosa_de_ubirike+sem@NP.place][NRoot][=Saint.Rosa.of.Ubirike]" : {santa_rosa_de_ubirike}
 ! 
-| "[=tsonkishiroki][NRoot][=PLACE.NAME]" : {tsonkishiroki}
-| "[=kishitariki][NRoot][=PLACE.NAME]" : {kishitariki}
+| "[=tsonkishiroki+sem@NP.place][NRoot][=PLACE.NAME]" : {tsonkishiroki}
+| "[=kishitariki+sem@NP.place][NRoot][=PLACE.NAME]" : {kishitariki}
 ! 
-| "[=kisopanko][NRoot][=PLACE.NAME]" : {kisopanko}
+| "[=kisopanko+sem@NP.place][NRoot][=PLACE.NAME]" : {kisopanko}
 ! 
-| "[=korintoni][NRoot][=PLACE.NAME]" : {korintoni}
-| "[=korintooni][NRoot][=PLACE.NAME]" : {korintooni}
+| "[=korintoni+sem@NP.place][NRoot][=PLACE.NAME]" : {korintoni}
+| "[=korintooni+sem@NP.place][NRoot][=PLACE.NAME]" : {korintooni}
 ! 
-| "[=kemariari][NRoot][=PLACE.NAME]" : {kemariari}
+| "[=kemariari+sem@NP.place][NRoot][=PLACE.NAME]" : {kemariari}
 ! 
-| "[=tsiriari][NRoot][=PLACE.NAME; valley.name (ES: nombre.de.un.valle)]" : {tsiriari}
+| "[=tsiriari+sem@NP.place][NRoot][=PLACE.NAME; valley.name (ES: nombre.de.un.valle)]" : {tsiriari}
 ! 
-| "[=mapitamani][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad.nativa)]" : {mapitamani}
+| "[=mapitamani+sem@NP.place][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad.nativa)]" : {mapitamani}
 ! 
-| "[=poshonari][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad.nativa)]" : {poshonari}
+| "[=poshonari+sem@NP.place][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad.nativa)]" : {poshonari}
 ! 
-| "[=mapiniki][NRoot][=PLACE.NAME (piedras.grandes)]" : {mapiniki}
+| "[=mapiniki+sem@NP.place][NRoot][=PLACE.NAME (piedras.grandes)]" : {mapiniki}
 ! 
-| "[=shira][NRoot][=Cordillera/Reserva.del.Sira]" : {shira}
+| "[=shira+sem@NP.place][NRoot][=Cordillera/Reserva.del.Sira]" : {shira}
 ! 
-| "[=tyooni][NRoot][=PLACE.NAME]" : {tyooni}
+| "[=tyooni+sem@NP.place][NRoot][=PLACE.NAME]" : {tyooni}
 ! 
-| "[=potsoteni][NRoot][=PLACE.NAME (prbly: the.river.where.potsote/annatto.is.abundant)]" : {potsoteni}
+| "[=potsoteni+sem@NP.place][NRoot][=PLACE.NAME (prbly: the.river.where.potsote/annatto.is.abundant)]" : {potsoteni}
 !
-| "[=kempiri][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {kempiri}
+| "[=kempiri+sem@NP.place][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {kempiri}
 ! 
-| "[=Meritari][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {meritari}
-| "[=Miritari][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {miritari}
+| "[=Meritari+sem@NP.place][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {meritari}
+| "[=Miritari+sem@NP.place][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {miritari}
 !
-| "[=palmacocha][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {palmacocha}
+| "[=palmacocha+sem@NP.place][NRoot][=PLACE.NAME (ES: nombre.de.un.centro.poblado)]" : {palmacocha}
 ! 
-| "[=Asopiso/Azupizu][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {azupizu}
-| "[=Asopiso][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {asopiso}
+| "[=Asopiso/Azupizu+sem@NP.place][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {azupizu}
+| "[=Asopiso+sem@NP.place][NRoot][=PLACE.NAME (ES: nombre.de.una.comunidad)]" : {asopiso}
 ];
