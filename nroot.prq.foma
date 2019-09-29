@@ -368,10 +368,10 @@ define NRootPRQin [
 | "[=apinka+sem@NP.person][NRoot][=Apu/Seer.Inca; Inca.person/people]" : {apinka}
 # ------------------------------------------------------------------
 ! 
-| "[=apontsiki][NRoot][=dwarf-like.demonic.divinity; NP, person's.name]" : {apontsiki}
+| "[=apontsiki+sem@NP.person][NRoot][=dwarf-like.demonic.divinity]" : {apontsiki}
 # ------------------------------------------------------------------
 ! 
-| "[=aporivatsa][NRoot][=thigh]" : {aporivatsa}
+| "[=aporivatsa][NRoot][=thigh (ES: muslo)]" : {aporivatsa}
 # ------------------------------------------------------------------
 ! 
 | "[=asana+gndr@m.][NRoot][=fish.sp. ([a.ˈsa.na]; ES: añashua; sci.nm.: crenicichla.sp.)]" : {asana}
@@ -383,8 +383,8 @@ define NRootPRQin [
 | "[=ashonki][NRoot][=ankle]" : {ashonki}
 # ------------------------------------------------------------------
 ! 
-| "[=ashoshi+gndr@m.][NRoot][=armadillo; NP, person's.name]" : {ashoshi}
-| "[=ashooshi+gndr@m.][NRoot][=armadillo]" : {ashooshi}
+| "[=ashoshi+gndr@m.+sem@NP.person][NRoot][=armadillo (ES: armadillo)]" : {ashoshi}
+| "[=ashooshi+gndr@m.+sem@NP.person][NRoot][=armadillo (ES: armadillo)]" : {ashooshi}
 # ------------------------------------------------------------------
 ! 
 | "[=asorina][NRoot][=cheek]" : {asorina}
