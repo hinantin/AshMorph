@@ -101,8 +101,8 @@ define NRootPRQin [
 | "[=haihi+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]" : {haihi}
 # ---------------------------------------------------------------------
 ! 
-| "[=Aroshi][NRoot][=person's.name; legendary.Ashaninka.that.never.died (ES: Ashaninka.legendario.que.nunca.moría)]" : {aroshi}
-| "[=Arooshi][NRoot][=person's.name; legendary.Ashaninka.that.never.died (ES: Ashaninka.legendario.que.nunca.moría)]" : {arooshi}
+| "[=Aroshi+sem@NP.person][NRoot][=legendary.Ashaninka.that.never.died (ES: Ashaninka.legendario.que.nunca.moría)]" : {aroshi}
+| "[=Arooshi+sem@NP.person][NRoot][=legendary.Ashaninka.that.never.died (ES: Ashaninka.legendario.que.nunca.moría)]" : {arooshi}
 # ---------------------------------------------------------------------
 ! 
 | "[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninka} ! N@->V::[=to.become.Ashaninka]
@@ -110,7 +110,7 @@ define NRootPRQin [
 | "[=ashaninkaye+~{'fellow.men':ashaninka}{PL:/'many':ye/}][NRoot][=numerous.indigenous.people.that.live.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]" : {ashaninkaye}
 # ---------------------------------------------------------------------
 ! 
-| "[=ashisho][NRoot][=person's.name; NP]" : {ashisho}
+| "[=ashisho+sem@NP.person][NRoot][=ambitious.person (ES: persona.ambiciosa)]" : {ashisho}
 # ---------------------------------------------------------------------
 ! 
 | "[=ashitaaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaaneyetachari}
