@@ -374,7 +374,7 @@ define NRootPRQin [
 | "[=aporivatsa][NRoot][=thigh (ES: muslo)]" : {aporivatsa}
 # ------------------------------------------------------------------
 ! 
-| "[=asana+gndr@m.][NRoot][=fish.sp. ([a.ˈsa.na]; ES: añashua; sci.nm.: crenicichla.sp.)]" : {asana}
+| "[=asana+gndr@m.][NRoot][=fish.sp. (pronunc.: [a.ˈsa.na]; ES: añashua; sci.nm.: crenicichla.sp.)]" : {asana}
 | "[=ahana+gndr@m.][NRoot][=fish.sp. (ES: añashua; sci.nm.: crenicichla.sp.)]" : {ahana}
 ! 
 | "[=sosana+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: crenicichla.sp.)]" : {sosana}
@@ -1163,9 +1163,9 @@ define NRootPRQin [
 | "[=iinapatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {iinapatsa}
 # ------------------------------------------------------------------
 ! 
-| "[=heto+gndr@m.][NRoot][=spider (ES: araña)]" : {heto}
-| "[=hetoo+gndr@m.][NRoot][=spider (ES: araña)]" : {hetoo}
-| "[=hito+gndr@m.][NRoot][=spider (ES: araña)]" : {hito}
+| "[=heto+gndr@m.][NRoot][=spider (ES: araña; PT: aranha)]" : {heto}
+| "[=hetoo+gndr@m.][NRoot][=spider (ES: araña; PT: aranha)]" : {hetoo}
+| "[=hito+gndr@m.][NRoot][=spider (ES: araña; PT: aranha)]" : {hito}
 # ------------------------------------------------------------------
 ! 
 | "[=hiritzi+gndr@m.][NRoot][=blue-crowned.motmot (sci.nm.: momotus.momota; ES: pájaro.madrugador)]" : {hiritzi}
