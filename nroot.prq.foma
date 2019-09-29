@@ -336,7 +336,7 @@ define NRootPRQin [
 | "[=tomiri][NRoot][=hillock (ES: monte)]" : {tomiri}
 # ------------------------------------------------------------------
 ! 
-| "[=antoko][NRoot][=person's.name]" : {antoko}
+| "[=antoko+sem@NP.person][NRoot][=person's.name]" : {antoko}
 # ------------------------------------------------------------------
 ! 
 | "[=anteashipari+gndr@m.][NRoot][=elderly.man, old.man (ES: anciano); secondhand]" : {anteashipari}
@@ -361,11 +361,11 @@ define NRootPRQin [
 | "[=aparoni][NRoot][=somebody]" : {aparoni}
 # ------------------------------------------------------------------
 ! 
-| "[=apeti][NRoot][=person's.name, NP]" : {apeti}
+| "[=apeti+sem@NP.person][NRoot][=person's.name]" : {apeti}
 # ------------------------------------------------------------------
 ! 
-| "[=apiinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]" : {apiinka}
-| "[=apinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]" : {apinka}
+| "[=apiinka+sem@NP.person][NRoot][=Apu/Seer.Inca; Inca.person/people]" : {apiinka}
+| "[=apinka+sem@NP.person][NRoot][=Apu/Seer.Inca; Inca.person/people]" : {apinka}
 # ------------------------------------------------------------------
 ! 
 | "[=apontsiki][NRoot][=dwarf-like.demonic.divinity; NP, person's.name]" : {apontsiki}
