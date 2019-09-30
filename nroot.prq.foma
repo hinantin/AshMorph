@@ -30,7 +30,7 @@
 #    +sem@proper.name. 
 #    semantic tags for grouping entries 
 
-# LEXICON TRANSLATION-LANGUAGES : pan-Ashanika; EN (ENGLISH default), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
+# LEXICON TRANSLATION-LANGUAGES : pan-Ashanika; EN (ENGLISH default translation), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
 
 define NRootPRQin [
   "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather (ES: abuelo; PT: avô; IT: nonno);| grandson (ES: nieto; PT: neto; IT: nipote)]" : {ani} ! N@->V @VCMP @section:noun@ 
