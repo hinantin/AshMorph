@@ -467,7 +467,14 @@ define N=S=CL [
 ! 
 ! nokatsiyempitake / no- =katsi -yempi -t -ak -e / 1sg.s- =to.feel.pain -cl:ear -ep -prf -irr / EN: 'I.have.an.earache (lit.: I've.been.ear-hurting)' 
 ! quentayempitaantsi / kentayempitaantsi / =kent -a -yempi -t -aantsi / ES: 'dolor.agudo.en.el.oído'
+! matayempiri, mayempiri 
 | "[--][-yempi][+CL:ear][=ear]" : {yempi} ! @CL 
+! matayimpiri
+| "[--][-yimpi][+CL:ear][=ear]" : {yimpi} ! @CL 
+! machakempitari
+| "[--][-kempi][+CL:ear][=ear]" : {kempi} ! @CL 
+! matakimpitari
+| "[--][-kimpi][+CL:ear][=ear]" : {kimpi} ! @CL 
 ! 
 ! Shimaki / =shima -ki / =fish -cl:human.populated / EN: 'place.populated.by.humans.where.shima/chupadora/suckermouth-fish.is.abundant' 
 ! Kowiryaaki / Koviryaaki / =Koviryaa -ki / =Puerto.Bermudez -cl:human.populated / EN: 'ciudad.de.Puerto.Bermudez' 
