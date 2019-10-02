@@ -579,7 +579,7 @@ define VRootPRQin [
 | "[=it+INF@aantsi.][VRoot][=to.start (ES: empezar)]" : {it}
 # ---------------------------------------------------------------------- 
 ! 
-| "[=eshi+INF@/EP:t/aantsi.][VRoot][=to.be.enough (ES: bastar, terminar)]" : {eshi}
+| "[=eshi+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.be.enough (ES: bastar, terminar)]" : {eshi}
 # ---------------------------------------------------------------------- 
 # caused to be well 
 | "[=etsiy][VRoot][=to.be.well]" : {etsiy}
