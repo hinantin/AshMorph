@@ -50,7 +50,7 @@ define NounToVerbPRQin [
 | "[=kainiri+~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][^VBZ]" : {kainiri} ! N@->V @CMP 
 | "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap (ES: savia.lechosa.del.árbol), sap][^VBZ]" : {kashi} ! N@->V
 | "[=keario][NRoot][=factual, truth (ES: cierto, verdad)][^VBZ]" : {keario} ! N@->V
-| "[=kimohantsi][NRoot][=growing, increasing (ES: creciente); summer (ES: verano)][^VBZ]" : {kimohantsi} ! N@->V
+| "[=kimohantsi][NRoot][=growing, increasing (ES: creciente)][^VBZ]" : {kimohantsi} ! N@->V
 | "[=kipishi][NRoot][=bitter]::[=to.be.bitter (ES: ser.amargo)][^VBZ]" : {kipishi} ! N@->V::[=to.be.bitter (ES: ser.amargo)] 
 | "[=kepishi][NRoot][=bitter]::[=to.be.bitter (ES: ser.amargo)][^VBZ]" : {kepishi} ! N@->V::[=to.be.bitter (ES: ser.amargo)] 
 | "[=kitamaro+gndr@n.m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamaro} ! N@->V::[to.be.white]
@@ -83,7 +83,7 @@ define NounToVerbPRQin [
 | "[=oorya+gndr@m.][NRoot][=sun (ES: sol)][^VBZ]" : {oorya} ! N@->V
 | "[=oria+gndr@m.][NRoot][=sun (ES: sol)]::[=to.shine][^VBZ]" : {oria} ! N@->V::[=to.shine]
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)][^VBZ]" : {oventeni} ! N@->V
-| "[=harentsi+gndr@m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]::[=to.be.summer][^VBZ]" : {harentsi} ! N@->V::[=to.be.summer] 
+| "[=harentsi+gndr@m.][NRoot][=year (ES: año);| (dry.season|summer) (ES: verano)]::[=to.be.summer][^VBZ]" : {harentsi} ! N@->V::[=to.be.summer] @section:noun@ 
 | "[=pirontzi+gndr@m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]::[=to.be.firefly (ES: ser.luciernaga)][^VBZ]" : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
 | "[=pironi+gndr@m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove][^VBZ]" : {pironi} ! N@->V
 | "[=piroti+gndr@m.][NRoot][=firefly (ES: luciernaga); quasi-lightning.bug][^VBZ]" : {piroti} ! N@->V

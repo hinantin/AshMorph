@@ -25,6 +25,9 @@ define V=S=CL [
 | "[--][-pompoina][+VERB.CL:ball][=ball-like, spherical]" : "@EP"{pompoina} ! kitamaropompoinataki / =kitamaro-pompoina-t-ak-i / =be.white-CL:ball-ep-prf-real 'It was a white ball' @CL 
 | "[--][-pompoito][+VERB.CL:spherical][=spherical]" : "@EP"{pompoito} ! okantapompoitotaranki / o=kant-a-pompoito-t-a-ranki / 3nm.s=be.this.way-CL:spherical-ep-real=adv.p  'It is like a bump.' @CL 
 | "[--][-yempi][+VERB.CL:ear][=ear]" : "@EP"{yempi} ! @CL 
+| "[--][-yimpi][+VERB.CL:ear][=ear]" : "@EP"{yimpi} ! @CL 
+| "[--][-kempi][+VERB.CL:ear][=ear]" : "@EP"{kempi} ! @CL 
+| "[--][-kimpi][+VERB.CL:ear][=ear]" : "@EP"{kimpi} ! @CL 
 | "[--][-ha][+VERB.CL:liquid][=liquid]" : "@EP"{ha} ! @CL
 | "[--][-aa][+VERB.CL:liquid][=liquid]" : "@EP"{aa} ! @CL 
 | "[--][-a][+VERB.CL:liquid][=liquid]" : "@EP"{a} ! @CL it provokes too many false entries so don't add it to the list of nominalizer clasiffiers.
