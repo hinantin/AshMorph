@@ -626,6 +626,8 @@ define VRootPRQin [
 # eereki / ES: 'fruta.verde' 
 !| "[=eereki+~{V:/'to.sprout':eere/}{CL:/'seed-like':ki/}][NRoot][=unriped.fruit (ES: fruta.verde)]" : {eereki} ! @section:noun@ 
 !| "[=eereshi+~{V:/'to.sprout':eere/}{CL:/'leaf':shi/}][NRoot][=new.leaf (ES: hoja.nueva)]" : {eereshi} ! @section:noun@ 
+!| "[=iirishi+~{V:/'to.sprout':eere/}{CL:/'leaf':shi/}][NRoot][=newly.sprouted.leaf (ES: hoja.nueva)]" : {iirishi} 
+!| "[=eeretsova+~{V:/'to.sprout':eere/}{CL:/'beak-like':tsova/}][NRoot][=newly.sprouted.palm-tree.leaf (ES: tierna.hoja.de.una.palmera)]" : {eeretsova} ! @section:noun@ 
 # ---------------------------------------------------------------------- 
 ! 
 | "[=eetsonki+INF@/EP:t/aantsi.][VRoot][=to.get.to.the.mountaintop (ES: llegar.a.la.cumbre)]" : {eetsonki}
