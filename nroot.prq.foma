@@ -1902,7 +1902,7 @@ define NRootPRQin [
 | "[=kameetsa][NRoot][=well (ES: bien)]" : {kameetsa} ! @VCMP 
 | "[=kametsa][NRoot][=well (ES: bien), good]" : {kametsa} ! @VCMP 
 | "[=kamiitsa][NRoot][=well (ES: bien), good]" : {kamiitsa} 
-!| "[=kaari_kameetsatatsine+~{NEG.COP:/'not.be':kaari/}{BLANK:SPACE}{V:/'to.be.good':kameetsa/}{EP:t}{STAT.IPRF:atsi}{REL:/IRR:ne/}][NRoot][=evil.deed, sin (ES: maldad, pecado)]" : {kaari_kameetsatatsine} ! @section:noun@ 
+!| "[=kaari_kameetsatatsine+~{NEG.COP:/'not.be':kaari/}{BLANK:SPACE}{V:/'to.be.good':kameetsa/}{EP:t}{STAT.IPRF:atsi}{REL:/'IRR':ne/}][NRoot][=evil.deed, sin (ES: maldad, pecado)]" : {kaari_kameetsatatsine} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=kamevira][NRoot][=hummingbird.sp. (ES: colibri.sp.; sci.nm.: florisuga.mellivora)]" : {kamevira}
