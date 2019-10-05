@@ -2877,8 +2877,9 @@ define VRootPRQin [
 | "[=ten][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {ten}
 # ---------------------------------------------------------------- 
 ! 
-| "[=timaarant][VRoot][=to.be.left_over/residual, to.be.in.surplus (ES: sobrar)]" : {timaarant}
-| "[=timarant][VRoot][=to.be.left_over/residual, to.be.in.surplus (ES: sobrar)]" : {timarant}
+| "[=timaarant+INF@VC.][VRoot][=to.be.(left_over|residual), to.be.in.surplus (ES: sobrar)]" : {timaarant}
+| "[=timarant][VRoot][=to.be.(left_over|residual), to.be.in.surplus (ES: sobrar)]" : {timarant}
+!| "[=timaarantatsiri+~{V:/'to.be.left_over':timaarant/}{STAT.IPRF:atsi}{REL:ri}][NRoot][=left.over (ES: sobra)]" : {timaarantatsiri} ! @section:noun@ 
 # ---------------------------------------------------------------- 
 ! 
 | "[=tina+INF@antsi.][VRoot][=to.lift (ES: alzar, levantar); to.get.up]" : {tina}
@@ -3107,7 +3108,7 @@ define VRootPRQin [
 ! 
 | "[=tsivak+INF@VC.][VRoot][=to.put.out, to.extinguish (ES: apagar (luz, cigarrillo, fuego))]" : {tsivak}
 ! tsibakantatsiri / tsivakantatsiri / =tsivak -ant -atsi -ri / =to.put.out -appl.reas -stat -rel / EN: 'fire_fighter'; ES: 'bombero'
-!| "[=tsivakantatsiri+~{V:/'to.put.out':tsivak/}{APPL.REAS:ant}{STAT:atsi}{REL:ri}][NRoot][=fire.fighter (ES: bombero)]" : {tsivakantatsiri} ! @section:noun@ 
+!| "[=tsivakantatsiri+~{V:/'to.put.out':tsivak/}{APPL.REAS:ant}{STAT.IPRF:atsi}{REL:ri}][NRoot][=fire.fighter (ES: bombero)]" : {tsivakantatsiri} ! @section:noun@ 
 # --------------------------------------------------------
 ! 
 | "[=tsiy+INF@aantsi.][VRoot][=to.heat (ES: calentar)]" : {tsiy}
