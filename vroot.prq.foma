@@ -2879,7 +2879,8 @@ define VRootPRQin [
 ! 
 | "[=timaarant+INF@VC.][VRoot][=to.be.(left_over|residual), to.be.in.surplus (ES: sobrar)]" : {timaarant}
 | "[=timarant][VRoot][=to.be.(left_over|residual), to.be.in.surplus (ES: sobrar)]" : {timarant}
-!| "[=timaarantatsiri+~{V:/'to.be.left_over':timaarant/}{STAT.IPRF:atsi}{REL:/'REAL':ri/}][NRoot][=left.over (ES: sobra)]" : {timaarantatsiri} ! @section:noun@ 
+!| "[=timaarantatsiri+~{V:/'to.be.left_over':timaarant/}{STAT.IPRF:atsi}{REL:/'REAL':ri/}+gndr@m.][NRoot][=left.over (ES: sobra)]" : {timaarantatsiri} ! @section:noun@ 
+!| "[=timaarantapaatsiri+~{V:/'to.be.left_over':timaarant/}{DIR:/'goal':ap/}{EP:a}{STAT.IPRF:atsi}{REL:/'REAL':ri/}+gndr@m.][NRoot][=left.over (ES: sobrante)]" : {timaarantapaatsiri} ! @section:noun@ 
 # ---------------------------------------------------------------- 
 ! 
 | "[=tina+INF@antsi.][VRoot][=to.lift (ES: alzar, levantar); to.get.up]" : {tina}
