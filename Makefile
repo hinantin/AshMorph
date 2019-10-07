@@ -195,14 +195,14 @@ analyze.treebank:
 	@rm -f failures.old.sorted
 	@cp -R -u -p failures.sorted failures.old.sorted
 	@perl gettreebank.pl > mycorpus.txt 
-	@cat mycorpus.txt | perl $(TOKENIZERPATH)/tokenize.pl | lookup -f lookup.script -flags cnKv29TT | grep '+?' | gawk '{print $1}' > failures.all 
+	@cat mycorpus.txt | perl tokenize.pl | lookup -flags TT asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
 
 search.treebank:
 	@rm -f failures.old.sorted
 	@cp -R -u -p failures.sorted failures.old.sorted
 	@perl gettreebank.pl > mycorpus.txt 
-	@cat mycorpus.txt | perl $(TOKENIZERPATH)/tokenize.pl | lookup -f lookup.script -flags cnKv29TT | awk '/-taro/' | gawk '{print $1}' > failures.all 
+	@cat mycorpus.txt | perl $(TOKENIZERPATH)/tokenize.pl | flookup asheninka.bin | awk '/-taro/' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
 #analyze.file:
 #	@rm -f mycorpus.txt
