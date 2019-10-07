@@ -128,6 +128,7 @@ define NRootESin [
 | "[=gringo/kirinko][NRootEs][=white.foreigner]" : {kirinko}
 ! 
 | "[=libro/kiriviro][NRootEs][=book (ES: libro)]" : {kiriviro}
+| "[=libro/iriviro][NRootEs][=book (ES: libro)]" : {iriviro}
 ! 
 | "[=coco/koko+NCMS000][NRootEs][=coconut]" : {koko} ! source:IIAP 
 | "[=cocona/kokona+NCFS000][NRootEs][=cocona.shrubby.plant.sp.]" : {kokona} ! source:IIAP
@@ -198,6 +199,8 @@ define NRootESin [
 | "[=pelota/piroota][NRootEs][=ball]" : {piroota}
 | "[=pelota/peroota][NRootEs][=ball]" : {peroota}
 | "[=pelota/perota][NRootEs][=ball]" : {perota}
+! 
+| "[=periódico/perioriko][NRootEs][=newspaper]" : {perioriko}
 ! 
 | "[=plato/pirato+poss@te.][NRootEs][=plate]" : {pirato}
 | "[=plato/perato+poss@te.][NRootEs][=plate]" : {perato}
