@@ -1890,12 +1890,12 @@ define VRootPRQin [
 | "[=ooya][VRoot][=to.expect (ES: aguardar); to.wait (ES: esperar)]" : {ooya}
 # ----------------------------------------------------------------------- 
 ! 
-| "[=osamani+INF@/EP:t/aantsi.][VRoot][=to.delay (ES: demorar)]" : {osamani}
-| "[=osamanii+INF@/EP:t/aantsi.][VRoot][=to.delay (ES: demorar)]" : {osamanii}
+| "[=osamani+~{ADV:/'later.on':osamanii/}+INF@/EP:t/aantsi.][VRoot][=to.delay (ES: demorar)]" : {osamani}
+| "[=osamanii+~{ADV:/'later.on':osamanii/}+INF@/EP:t/aantsi.][VRoot][=to.delay (ES: demorar)]" : {osamanii}
 # --------------------------------------------------------------------
 ! 
 | "[=ov+INF@(a)antsi.][VRoot][=to.eat (ES: comer)]" : {ov}
-| "[=o+~{V:/'to.eat':ov}{<DEL:v}+INF@aantsi.][VRoot][=to.eat (ES: comer)]" : {o} ! oacha, =o-ach-a
+| "[=o+~{V:/'to.eat':ov/}{<DEL:v}+INF@aantsi.][VRoot][=to.eat (ES: comer)]" : {o} ! oacha, =o-ach-a
 | "[=oy][VRoot][=to.eat (ES: comer)]" : {oy}
 ! ivajyari / ivahyari / i- =v -ah -ya -ri / 3m.a- =to.eat -regr -irr -3m.o / ES: 'lo.comen'  
 | "[=v][VRoot][=to.eat (ES: comer)]" : {v} 
