@@ -1516,7 +1516,7 @@ define NRootPRQin [
 | "[=irimashi][NRoot][=Lima, place.name]" : {irimashi} ! lima li -> iri(i) - ma -> ma -> shi -> CL
 # ---------------------------------------------------------------------
 ! 
-| "[=Irima][NRoot][=Lima.city]" : {irima}
+| "[=Lima/Irima][NRoot][=Lima.city]" : {irima}
 # ---------------------------------------------------------------------
 ! 
 | "[=irimaki][NRoot][=lemon (botany.nm.: citrus.lemon/limon; ES: limón)]" : {irimaki}
