@@ -390,7 +390,7 @@ define N=S=CL [
 | "[--][-sato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {sato} 
 | "[--][-hato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {hato} 
 #-----------------------------------------------
-| "[--][-sani][+CL:wasp.sp.][=wasp.sp.]" : {sani} 
+| "[--][-sani][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sani} 
 | "[--][-sanii][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sanii} 
 #-----------------------------------------------
 ! Ashaninkasanori / =ashaninka -sanori / =ashaninka.person -cl:real / EN: 'real.Ashaninka.person' 
