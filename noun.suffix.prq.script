@@ -208,7 +208,8 @@ define N=S=CL [
 | "[--][-na][+CL:large,deep.pool.of.water][=large,deep.pool.of.water; stagnant.water.pool]" : {na} 
 | "[--][-nya][+CL:small.shallow.pool.of.water][=small.shallow.pool.of.water; stagnant.water.pool]" : {nya} 
 ! otyapi-nyaki-ni=ka / EN: 'the area which is a little bit under the cave' 
-| "[--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ki} ! @CL +SHAPE
+! 
+| "[--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like;small.insect-like]" : {ki} ! @CL +SHAPE
 !| "[--][-ke][+CL:S.R.H][=small,round(ed);hard;seed-like]" : {ke} ! sheyaque +SHAPE ! too many missformed entries within nominalized verbs. 
 ! 
 | "[--][-kii][+CL:long,thin.branch][=long,thin.branch; stick-like.(with.a.sharp.pointed.end)]" : {kii} ! @CL +SHAPE

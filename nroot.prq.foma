@@ -6823,9 +6823,10 @@ define NRootPRQin [
 ! 
 | "[=tsonki+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonki}
 | "[=tsonke+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonke}
+!| "[=tsonkeeki+~{N:/'ant.sp.':tsonkee/}{CL:/'small.insect-like':ki/}+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonkeeki}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsonkiriniro][NRoot][=green.honeycreeper (ES: sp.de.ave; sci.nm.: chlorophanes.spiza)]" : {tsonkiriniro}
+| "[=tsonkiriniro+~{N:/'hummingbird.sp.':tsonkiri/}{CL:/'simulative':niro/}+gndr@m.][NRoot][=green.honeycreeper (ES: sp.de.ave; sci.nm.: chlorophanes.spiza)]" : {tsonkiriniro}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsonkitiroki][NRoot][=small.plantain.sp. (ES: moquichi, plátano.(bizcocho), sp.de.plátano.pequeño)]" : {tsonkitiroki}
