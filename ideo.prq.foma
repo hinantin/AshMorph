@@ -163,7 +163,10 @@ define IdeoPRQin [
 ! 
 | "[=tso+s.redup.word][Ideo:PRQ][=action.of.spitting.sth. (e.g.: blood))]" : {tso} 
 ! 
-| "[=koonk][Ideo][=sound.of.whistling (ES: sonido.de.un.silbido))]" : {koonk} 
+| "[=koonk][Ideo][=sound.of.whistling (ES: sonido.de.un.silbido)]" : {koonk} 
+! 
+| "[=eek][Ideo][=action.of.swelling.up]" : {eek} 
+| "[=on][Ideo][=UNK]" : {on} 
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
