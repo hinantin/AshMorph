@@ -6821,6 +6821,10 @@ define NRootPRQin [
 | "[=chonkorina][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.); container (ES: recipiente, porongo)]" : {chonkorina}
 # ------------------------------------------------------------------------------ 
 ! 
+| "[=tsonki+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonki}
+| "[=tsonke+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonke}
+# ------------------------------------------------------------------------------ 
+! 
 | "[=tsonkiriniro][NRoot][=green.honeycreeper (ES: sp.de.ave; sci.nm.: chlorophanes.spiza)]" : {tsonkiriniro}
 # ------------------------------------------------------------------------------ 
 ! 
@@ -6829,14 +6833,14 @@ define NRootPRQin [
 | "[=tsonkitsiroshiki][NRoot][=bizcocho-plantain.leaf (ES: hoja.de.plátano.bizcocho)]" : {tsonkitsiroshiki}
 # ------------------------------------------------------------------------------ 
 ! 
-
+| "[=tsonento+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {tsonento} ! @section:noun@ 
+| "[=tsoninto+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {tsoninto} 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsontsomarati][NRoot][=antshrike.sp. (ES: hormiguero; sci.nm.: taraba.major)]" : {tsontsomarati}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsonento+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {tsonento} ! @section:noun@ 
-| "[=tsoninto+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {tsoninto} 
+| "[=tsovi][NRoot][=bow, forward.part.of.the.hull.of.a.boat]" : {tsovi} ! @section:noun@ 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsovero+gndr@m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa; sci.nm.: ateles.paniscus, lagothrrix.lagothricha)]" : {tsovero}
