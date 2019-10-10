@@ -198,7 +198,7 @@ define NRootPRQin [
 ! 
 # atyo / ES: 'cuñada.(habla.de.mujer)' 
 | "[=atyo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {atyo} 
-| "[=atyoeni+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {atyoeni} 
+| "[=atyoeni+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {atyoeni} 
 | "[=atyoini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {atyoini} 
 | "[=ateo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {ateo} 
 | "[=ayo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law]" : {ayo} 
