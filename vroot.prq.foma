@@ -253,8 +253,9 @@ define VRootPRQin [
 | "[=oyiishi+INF@/EP:t/aantsi.][VRoot][=to.win (ES: ganar, vencer, triunfar)]" : {oyiishi}
 # ---------------------------------------------------
 ! 
-| "[=anankori+INF@/DEL:i/C.][VRoot][=to.cross (ES: cruzar), to.cross.paths.with.a.demonic.spirit]" : {anankori}
-| "[=anankore+INF@/DEL:e/C.][VRoot][=to.cross (ES: cruzar)]" : {anankore}
+! anankorimikari / 
+| "[=anankori+INF@/<DEL:i/VC.][VRoot][=to.cross (ES: cruzar);| to.cross.paths.with.a.demonic.spirit]" : {anankori}
+| "[=anankore+INF@/<DEL:e/VC.][VRoot][=to.cross (ES: cruzar)]" : {anankore}
 # ---------------------------------------------------
 ! 
 | "[=anashi+INF@/EP:t/aantsi.][VRoot][=to.walk.in.some_location (i.e.: the_woods; ES: caminar, andar.por)]" : {anashi}
