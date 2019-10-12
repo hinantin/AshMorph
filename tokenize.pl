@@ -6,7 +6,7 @@ binmode STDOUT, ':utf8';
 
 while (<>)
 {
-@words = split(/([\s+|,|\.|\:|;|\[|\]|\(|\)|\?|\~|\“|\”|\"|\"|\¡|\–|\¿|\!|\/|\%|\'|=|…|—])/);
+@words = split(/([\s+|,|\.|\:|;|\[|\]|\(|\)|\?|\~|\“|\”|\"|\"|\¡|\–|\¿|\!|\/|\%|\'|=|…|—|，|一|\*|•])/);
 foreach (@words) {
     if (m/^\s*$/) { next;}
     elsif (m/^\.*$/) { next; } 
@@ -27,6 +27,10 @@ foreach (@words) {
     elsif (m/^\=*$/) { next; }
     elsif (m/^\…*$/) { next; }
     elsif (m/^\—*$/) { next; }
+	elsif (m/^\一*$/) { next; }
+	elsif (m/^\**$/) { next; }
+	elsif (m/^\•*$/) { next; }
+	elsif (m/^\，*$/) { next; }
     elsif (m/\d{1,2}?/) { next; }
     else {
 =pod
