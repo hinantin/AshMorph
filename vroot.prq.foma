@@ -3101,6 +3101,7 @@ define VRootPRQin [
 ! 
 | "[=tsireni+INF@/EP:t/aantsi.][VRoot][=to.get.dark (ES: atardecer, anochecer); to.be.dark]" : {tsireni} 
 | "[=tsirini+INF@/EP:t/aantsi.][VRoot][=to.get.dark (ES: atardecer, anochecer); to.be.dark]" : {tsirini} 
+!| "[=tsiriniity+~{V:/'to.get.dark':tsireni/}{UNK:ity}+INF@aantsi.][VRoot][=to.get.dark (ES: atardecer, anochecer); to.be.dark]" : {tsiriniity} 
 # --------------------------------------------------------
 ! 
 | "[=tsit][VRoot][=to.be.dark]" : {tsit}
