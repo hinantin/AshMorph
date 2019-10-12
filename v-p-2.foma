@@ -1,9 +1,9 @@
 # preffixes slot 2
 
 # Circumfix (CIRC)
-# (N-) … -e has two parts 
-# N- is placed at the start of a word, but has the peculiarity that behaves like an infix 
-# -e is placed at the end ? 
+# N-) … (-e has two parts 
+# N-) is placed at the start of a word, but has the peculiarity that behaves like an infix 
+# (-e is placed at the end ? 
 
 define P=2=SET1 [
   "[N=][IRR+][--]" : {N}
