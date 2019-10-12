@@ -48,7 +48,7 @@ define ORootPRQin [
 | "[=ari][PostPol][=PP][--][=kea][+EMPH]" : {arikea} 
 | "[=ari][PostPol][=PP][--][=yaata][+ASSUM]" : {ariyaata} 
 | "[=ari][PostPol][=PP][--][=tya][+COMPASSION]::[=precisely]" : {aritya} 
-| "[=aritaki][PostPol][=PP][--][=taima][+DUB]::[=maybe, perhaps]" : {aritakitaima}
+| "[=aritaki+~{PP:ari}{EP:t}{PRF:ak}{REAL:e}][PostPol][=PP][--][=taima][+DUB]::[=maybe, perhaps]" : {aritakitaima}
 | "[=arikiaro+~{PP:ari}{DEGREE:ki}{EP:a}{NMZ:ro}][PostPol][=PP (EN: truly, indeed)]" : {arikiaro} 
 ! 
 # ai / PP 
