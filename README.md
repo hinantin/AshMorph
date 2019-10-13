@@ -23,7 +23,7 @@ and the object.
 
 Reduplication indicates urgency `(1)`, repetition `(3)`, or intensity `(2)`.
 
-1) mama 'to.do' -> ma~ma 'to.do.quickly' 
+1) ma 'to.do' -> ma~ma 'to.do.quickly' 
 
 Our analysis of the collected text corpus, shows that Ashaninka presents both partial reduplication 'bounded copy' `(2)` and total reduplication 'unbounded copy' `(3)` as productive morphological operations.
 
