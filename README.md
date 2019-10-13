@@ -21,6 +21,8 @@ and the object.
 
 #### Reduplication
 
+Reduplication indicates urgency, repetition, or intensity.
+
 Our analysis of the collected text corpus, shows that Ashaninka presents both partial reduplication 'bounded copy' `(1)` and total reduplication 'unbounded copy' `(2)` as productive morphological operations.
 
 ```
