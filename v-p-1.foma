@@ -16,7 +16,7 @@ define P=1 [
 # -ri ~ -r occur only with third person masculine 
 | "[i-][VPers][3m.S/A+][--][ri=][IRR+][--]" : [{iri}]"@VPERS@" # irimatero 
 | "[i-][VPers][3m.S/A+][--][r=][IRR+][--]" : [{ir}]"@VPERS@"
-| "[ira-][VPers][3m.S/A.IRR+][--]" : [{ira}]"@VPERS@" # ira-piapiya-t-e-rika 
+!| "[ira-][VPers][3m.S/A.IRR+][--]" : [{ira}]"@VPERS@" # ira-piapiya-t-e-rika !  to be checked it could be a misannotation 
 | "[Ø-][VPers][3m.S/A+][--][r=][IRR+][--]" : [{r}]"@VPERS@" # r-anii-t-i
 | "[Ø-][VPers][3m.S/A+][--][ri=][IRR+][--]" : [{ri}]"@VPERS@" # ri-wetsik-ak-i
 # 3rd person (female) singular
