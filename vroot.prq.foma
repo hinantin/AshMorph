@@ -2572,7 +2572,7 @@ define VRootPRQin [
 ! 
 # shavitahi / =shavi -t -ah -i / =to.be.afternoon -ep -regr -irr 
 | "[=shavi][VRoot][=to.be.afternoon]" : {shavi}
-!| "[=shaaviitya+INF@VC.][VRoot][=to.be.afternoon]" : {shaaviitya}
+!| "[=shaaviity+~{V:/'to.be.afternoon':shaavi/}{UNK:ity}+INF@VC.][VRoot][=to.be.afternoon]" : {shaaviity} ! @section:verb@ 
 # ---------------------------------------------------------------------------
 ! 
 | "[=shavoki][VRoot][=to.dance (ES: bailar)]" : {shavoki}
