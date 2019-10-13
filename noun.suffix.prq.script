@@ -321,6 +321,7 @@ define N=S=CL [
 # this classifier tends to change the gender to n.m. of the nominal roots to which it is adhered.
 | "[--][-i^venki+n.m.][+CL:magic.plant][=magic.plant,piripiri-plant]" : {venki} 
 
+# collateral relation 
 # pabachori / pavachori / =pava -chori / =dad -cl:distant.kin / EN: 'uncle'; ES: 'tío'  
 | "[--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin, nuclear.kin, cross.relation]" : {tsori} 
 | "[--][-tyori][+CL:distant/surrogate.kin][=distant/surrogate.kin, cross.relation]" : {tyori} 
