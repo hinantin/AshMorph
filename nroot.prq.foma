@@ -4202,12 +4202,12 @@ define NRootPRQin [
 | "[=iya+gndr@m.][NRoot][=poor.thing]" : {iya}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=oye+gndr@m.][NRoot][=rainbow (ES: arcoíris; PT: arco-íris)]" : {oye}
+| "[=oye+gndr@m.][NRoot][=rainbow (ES: arcoíris; PT: arco-íris)]" : {oye} ! @section:noun@ 
 | "[=oyi+gndr@m.][NRoot][=rainbow (ES: arcoíris; PT: arco-íris)]" : {oyi}
 ! 
 ! water demon believed to inhabit water pools whose bottom is covered with dark green grass, slays by burning an unsuspecting person's skin,
 ! once he is in contact with the water contaminated by this kamari type.
-| "[=oyechari+~{'rainbow':oye}{CL:/'grassy.bottom.of.the.river':chari/}+gndr@m.][NRoot][=rainbow-spirit]" : {oyechari}
+| "[=oyechari+~{'rainbow':oye}{CL:/'grassy.bottom.of.the.river':chari/}+gndr@m.][NRoot][=rainbow-spirit]" : {oyechari} ! @section:noun@ 
 | "[=oye+gndr@m.][NRoot][=rainbow-spirit]" : {oye}
 # ----------------------------------------------------------------------------- 
 ! 
