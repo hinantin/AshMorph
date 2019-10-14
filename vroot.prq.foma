@@ -1897,7 +1897,7 @@ define VRootPRQin [
 # ----------------------------------------------------------------------- 
 ! 
 | "[=osamani+~{ADV:/'later.on':osamanii/}+INF@/EP:t/aantsi.][VRoot][=to.delay (ES: demorar)]" : {osamani}
-| "[=osamanii+~{ADV:/'later.on':osamanii/}+INF@/EP:t/aantsi.][VRoot][=to.delay (ES: demorar)]" : {osamanii}
+| "[=osamaniity+~{ADV:/'later.on':osamani/}{UNK:ity}+INF@/EP:t/aantsi.][VRoot][=to.delay (ES: demorar)]" : {osamaniity}
 # --------------------------------------------------------------------
 ! 
 | "[=ov+INF@(a)antsi.][VRoot][=to.eat (ES: comer)]" : {ov}
