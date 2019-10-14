@@ -3105,7 +3105,8 @@ define VRootPRQin [
 ! 
 | "[=tsireni+INF@/EP:t/aantsi.][VRoot][=to.get.dark (ES: atardecer, anochecer); to.be.dark]" : {tsireni} 
 | "[=tsirini+INF@/EP:t/aantsi.][VRoot][=to.get.dark (ES: atardecer, anochecer); to.be.dark]" : {tsirini} 
-!| "[=tsiriniity+~{V:/'to.get.dark':tsireni/}{UNK:ity}+INF@aantsi.][VRoot][=to.imminently.be.about.to.get.dark (ES: estar.por.anochecer.inminentemente); to.be.dark]" : {tsiriniity} 
+!| "[=tsiriniity+~{V:/'to.get.dark':tsirini/}{UNK:ity}+INF@aantsi.][VRoot][=to.imminently.be.about.to.get.dark (ES: estar.por.anochecer.inminentemente); to.be.dark]" : {tsiriniity} 
+!| "[=tsireniity+~{V:/'to.get.dark':tsireni/}{UNK:ity}+INF@aantsi.][VRoot][=to.imminently.be.about.to.get.dark (ES: estar.por.anochecer.inminentemente); to.be.dark]" : {tsireniity} 
 # --------------------------------------------------------
 ! 
 | "[=tsit][VRoot][=to.be.dark]" : {tsit}
