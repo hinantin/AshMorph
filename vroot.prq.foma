@@ -93,7 +93,7 @@ define VRootPRQin [
 | "[=aaki+INF@/EP:t/VC.][VRoot][=to.trip.sb.up, to.make.sb.fall (ES: hacer.tropezar)]" : {aaki}
 # ---------------------------------------------------
 ! 
-| "[=aashi+INF@/EP:t/aantsi.][VRoot][=to.give.a.concoction/potion.to.sb. (ES: pusanguear,, dar.brebaje, ,, embrujar)]" : {aashi}
+| "[=aashi+~{V:/'to.take':aa/}{EP:a}{CL:/'leaf':shi/}+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.give.a.concoction/potion.to.sb. (ES: pusanguear,, dar.brebaje, ,, embrujar)]" : {aashi}
 | "[=antashi+~{V:/'to.make':ant/}{EP:a}{CL:/'leaf':shi/}+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.give.a.concoction/potion.to.sb. (ES: pusanguear,, dar.brebaje, ,, embrujar)]" : {antashi}
 | "[=vosaan+INF@VC.][VRoot][=to.cook.leaves.and.give.a.concoction.to.sb. (ES: cocinar.hojas-y-dárselas.a.un.algn.para.atraer.su.amor)]" : {vosaan}
 | "[=posaan+INF@VC.][VRoot][=to.cook.leaves.and.give.a.concoction.to.sb. (ES: cocinar.hojas-y-dárselas.a.un.algn.para.atraer.su.amor)]" : {posaan}
