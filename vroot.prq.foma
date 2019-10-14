@@ -1125,7 +1125,7 @@ define VRootPRQin [
 | "[=kenkishire][VRoot][=to.believe, to.think]" : {kenkishire}
 # ----------------------------------------------------------------------- 
 ! 
-| "[=kichank+INF@agantsi.][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kichank}
+| "[=kichank+INF@agantsi.][VRoot][=to.scratch (used.with.animals; ES: rascar, rasguñar)]" : {kichank}
 | "[=kisha+INF@antsi.][VRoot][=to.scratch (ES: rascar, rasguñar)]" : {kisha}
 # ----------------------------------------------------------
 ! 
@@ -2227,7 +2227,7 @@ define VRootPRQin [
 | "[=piryaa+~{'to.dry':piry}{CL:/liquid:aa/}+INF@aantsi.][VRoot][=to.be.dry (ES: estar.seco)]" : {piryaa}
 # ------------------------------------------------------
 ! 
-| "[=pirisa][VRoot][=to.ooze.pus (ES: salir.pus)]" : {pirisa}
+| "[=pirisa+INF@VC.][VRoot][=to.ooze.pus (ES: salir.pus)]" : {pirisa}
 | "[=pirisha][VRoot][=to.ooze.pus (ES: salir.pus)]" : {pirisha}
 # ------------------------------------------------------
 ! 
@@ -2374,7 +2374,7 @@ define VRootPRQin [
 | "[=vosaank+INF@VC.+I-Conj@act.v.][VRoot][=to.cook.leaves.&.give.them.to.a.man.to.attact.his.love]" : {vosaank}
 # ---------------------------------------------------------------------
 ! 
-| "[=poshini+INF@/EP:t/antsi.][VRoot][=to.be.tasty (ES: estar.sabroso); to.be.delicious]" : {poshini}
+| "[=poshini+INF@/EP:t/antsi.][VRoot][=to.be.tasty (used.with.meat/manioc/corn.not.with.sweets; ES: estar.sabroso); to.be.delicious]" : {poshini}
 | "[=poshine][VRoot][=to.be.tasty; to.be.delicious]" : {poshine}
 # ---------------------------------------------------------------------
 ! 
