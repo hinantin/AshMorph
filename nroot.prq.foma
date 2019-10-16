@@ -2383,7 +2383,7 @@ define NRootPRQin [
 | "[=oparai+gndr@n.m.][NRoot][=countryside (ES: campo); beach (ES: playa); stretch.of.the.riverbank.that.is.communally.used]" : {oparai}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kipatsiniro~{'dirt':kipatsi}{CL:/'simulative':niro/}+sem@color.][NRoot][=brown]" : {kipatsiniro} ! source:IIAP 
+| "[=kipatsiniro+~{'dirt':kipatsi}{CL:/'simulative':niro/}+sem@color.][NRoot][=brown]" : {kipatsiniro} ! source:IIAP 
 # ---------------------------------------------------------------------------
 ! 
 ! word set:
@@ -4097,7 +4097,7 @@ define NRootPRQin [
 | "[=otzitsi+gndr@m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]" : {otzitsi}
 # ---------------------------------------------------------------------
 ! 
-| "[=otsitiniro][NRoot][=fox; wild.dog, mountain.dog (ES: perro.de.monte.de.pelaje.amarillo-y-cola.corta; sci.nm.: speothos.venaticus)]" : {otsitiniro}
+| "[=otsitiniro+~{N/'dog':otsiti/}{CL:/'simulative':niro/}][NRoot][=fox; wild.dog, mountain.dog (ES: perro.de.monte.de.pelaje.amarillo-y-cola.corta; sci.nm.: speothos.venaticus)]" : {otsitiniro}
 # ---------------------------------------------------------------------
 ! 
 ! otzishi ES: 'cumbre triangulada del cerro'  
