@@ -282,7 +282,7 @@ define ORootPRQin [
 | "[=timatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]" : {timatsi} 
 | "[=tzimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]" : {tzimatsi} 
 ! 
-| "[=timatsikera][VRoot][=CONT.EXIST (ES: todavía.hay)]" : {timatsikera} 
+| "[=timatsikera+~{V:/'EXIST':tsimatsi/}{ADV:/'yet,still':kera/}][VRoot][=CONT.EXIST (ES: todavía.hay)]" : {timatsikera} 
 ! 
 | "[=matsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]" : {matsi} 
 | "[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]" : {maatsi} 
