@@ -4,7 +4,6 @@ define EP [
   "[--][-t][+EP]" : "@EP@"[{t}]
 | "[--][-tz][+EP]" : "@EP@"[{tz}]
 #EP1| "[--][<*-ts][+EP]" : "@EP@"[{ts}] ! disabled for debugging purposes 
-#EP2| "[--][<*-tx][+EP]" : "@EP@"[{tx}] ! only in cpb and followed by status real/irr 
 | "[--][-a][+EP]" : "@EP@"[{a}]
 ];
 
@@ -283,10 +282,13 @@ define V=S=IRRRFL [
 | "[--][-ia~iya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{iya}]
 | "[--][-ia~eya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eya}]
 ];
+
 # NON/FUTURE + REFLEXIVE (RFL)
 define V=S=IRRCPB [
-  "[--][-ʃa~xa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xa}]
-| "[--][-ʃaa~xaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xaa}]
+  "[--][-ya~xa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xa}]
+| "[--][-yaa~xaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xaa}]
+  "[--][-ye~xe+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xe}]
+| "[--][-yee~xee+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xee}]
 ];
 # -------------------------------------------
                    
