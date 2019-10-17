@@ -659,6 +659,7 @@ define N=S=CL [
 | "[--][-tsaranka][+CL:wide,flexible][=wide,flexible]" : {tsaranka} 
 ! 
 ! hiyatxeraki / hĩyatxeraki / =hĩya -txera -ki / PT: 'margem.dos.rios' 
+! ocheraaki nijaki / ES: 'la.orilla.del.río' 
 | "[--][-chera][+CL:shore][=shore (ES: orilla)]" : {chera} 
 | "[--][-txera][+CL:shore][=shore (ES: orilla)]" : {txera} 
 ];
