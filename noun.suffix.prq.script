@@ -657,6 +657,9 @@ define N=S=CL [
 | "[--][-roronteni+n.m@possesor.][+CL:kind,species][=sth.which.is.in.common.with.the.obligatory.order]" : {roronteni}
 ! 
 | "[--][-tsaranka][+CL:wide,flexible][=wide,flexible]" : {tsaranka} 
+! 
+| "[--][-chera][+CL:shore][=shore (ES: orilla)]" : {chera} 
+| "[--][-txera][+CL:shore][=shore (ES: orilla)]" : {txera} 
 ];
                    
 # ****************************************
