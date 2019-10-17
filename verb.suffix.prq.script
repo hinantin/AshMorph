@@ -285,8 +285,10 @@ define V=S=IRRRFL [
 
 # NON/FUTURE + REFLEXIVE (RFL)
 define V=S=IRRCPB [
+! tya ~ txa , tyaa ~ txaa 
   "[--][-ya~xa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xa}]
 | "[--][-yaa~xaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xaa}]
+! tye ~ txe , tyee ~ txee 
 | "[--][-ye~xe+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xe}]
 | "[--][-yee~xee+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xee}]
 ];
