@@ -680,8 +680,8 @@ define VRootPRQin [
 | "[=chori+INF@/EP:t/aantsi.][VRoot][=to.have.a.cramp (ES: tener.calambre)]" : {chori}
 # -----------------------------------------------------------------
 ! 
-| "[=eeni+INF@/EP:t/VC.][VRoot][=to.have (ES: tener)]" : {eeni}
-| "[=eni+INF@/EP:t/VC.][VRoot][=to.have (ES: tener)]" : {eni}
+| "[=eeni+INF@/EP:t/VC.][VRoot][=POSSESS (EN: to.have; ES: tener)]" : {eeni}
+| "[=eni+INF@/EP:t/VC.][VRoot][=POSSESS (EN: to.have; ES: tener)]" : {eni}
 # --------------------------------------------
 ! 
 | "[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)]" : {ha} ! @section:verb@ 

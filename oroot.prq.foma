@@ -272,7 +272,9 @@ define ORootPRQin [
 | "[=ainiro][VRoot][=EXIST: there.is, there.are (ES: hay/haber);| POSSESS;| CONT.EXIST: there.still.be (ES: todavía.hay, haber.todavía)]" : {ainiro} ! @section:verb@
 | "[=aeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.hay/haber)]" : {aeniro} 
 | "[=eeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.ser)]" : {eeniro} 
-
+! 
+| "[=eenitatsi][VRoot][=EXIST (EN: there.is/are; ES: hay/haber)]" : {eenitatsi} 
+| "[=iinitatsi][VRoot][=EXIST (EN: there.is/are; ES: hay/haber)]" : {iinitatsi} 
 ! 
 | "[=tsimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber); POSSESS]" : {tsimatsi} 
 | "[=timatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]" : {timatsi} 
