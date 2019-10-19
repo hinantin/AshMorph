@@ -82,10 +82,6 @@ define NRootPRQin [
 | "[=tonkeronto+gndr@m.][NRoot][=green.~20_cm-long.grasshopper/cricket (ES: saltamonte/grillo; sci.nm.: tropidacris.latreilleri.perty)]" : {tonkeronto} 
 # --------------------------------------------------------------------
 ! 
-! apapana is liver ????
-| "[=apapanani+~{'liver':apapana}{CL:/'watercourse':ni/}][NRoot][=the.brook.of.liver.parts]" : {apapanani} 
-# --------------------------------------------------------------------
-! 
 | "[=apiwtxa][NRoot:CPB][=all.together (PT: todos.juntos); together; NP]" : {apiwtxa} 
 # --------------------------------------------------------------------
 ! 
@@ -144,6 +140,9 @@ define NRootPRQin [
 ! 
 | "[=irapana+gndr@n.m.+inal@n/tsi.][NRoot][=liver (ES: hígado)]" : {irapana}
 | "[=iraapana+gndr@n.m.+inal@n/tsi.][NRoot][=liver (ES: hígado)]" : {iraapana}
+! 
+! apapana is liver ????
+| "[=apapanani+~{'liver':apapana}{CL:/'watercourse':ni/}][NRoot][=the.brook.of.liver.parts]" : {apapanani} 
 # --------------------------------------------------------------- 
 ! 
 | "[=achontsi+gndr@m.][NRoot][=mud-wasp.sp.]" : {achontsi}
