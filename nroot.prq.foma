@@ -1608,9 +1608,10 @@ define NRootPRQin [
 !| "[=overapaka][NRoot][=boundary (ES: límite)]" : {overapaka} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
-| "[=iveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {iveto}
-| "[=ivito][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {ivito}
-| "[=oveto][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {oveto}
+| "[=iveto+gndr@m.][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {iveto}
+| "[=ivito+gndr@m.][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {ivito}
+| "[=oveto+gndr@m.][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {oveto}
+| "[=ipetzi+gndr@m.][NRoot][=capybara (mountain.animal, ES: ronsoco; sci.nm.: hydrochoerus.hydrochaeris)]" : {ipetzi}
 # ---------------------------------------------------------------------
 ! 
 | "[=sarana][NRoot][=wasp.sp. (it.presents.a.blu.reflection; ES: sp.de.avispa)]" : {sarana}
