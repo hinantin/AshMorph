@@ -268,9 +268,9 @@ define NRootPRQin [
 | "[=amimpori+gndr@m.][NRoot][=vulture (ES: buitre); condor; king.vulture (sci.nm.: sarcoramphus.papa)]" : {amimpori}
 # ---------------------------------------------------------------  
 ! 
-| "[=ameeni+gndr@n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]" : {ameeni}
-| "[=amiini+gndr@n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]" : {amiini}
-| "[=amini+gndr@n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]" : {amini}
+| "[=ameeni+gndr@n.m.+poss@ti.+kin@fem.ego][NRoot][=grandmother; granddaughter]" : {ameeni}
+| "[=amiini+gndr@n.m.+poss@ti.+kin@fem.ego][NRoot][=grandmother; granddaughter]" : {amiini}
+| "[=amini+gndr@n.m.+poss@ti.+kin@fem.ego][NRoot][=grandmother; granddaughter]" : {amini}
 # ---------------------------------------------------------------  
 ! 
 | "[=ameti][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.elateridae)]" : {ameti}
