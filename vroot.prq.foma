@@ -74,8 +74,8 @@ define VRootPRQin [
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound;| to.destroy (ES: malograr)]" : {amashi} ! @section:verb@ ee
 # ---------------------------------------------------
 ! 
-| "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashi}
-| "[=amashink+~{V:/'to.climb':amashi/}{DEGREE:nk}+INF@VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashink}
+| "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashi} ! @section:verb@ 
+| "[=amashink+~{V:/'to.climb':amashi/}{DEGREE:nk}+INF@VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashink} ! @section:verb@ 
 | "[=amashinke+~{V:/'to.climb':amashi/}{DEGREE:nke}+INF@/EP:t/VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashinke}
 # ---------------------------------------------------
 ! 
