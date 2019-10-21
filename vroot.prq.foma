@@ -2940,7 +2940,9 @@ define VRootPRQin [
 # ---------------------------------------------------------------- 
 ! 
 # tontaaja / tontaaha / ES: 'espeso' 
-| "[=tonta][VRoot][=to.be.thick (ES: ser.grueso/espeso)]" : {tonta}
+| "[=tonta+INF@CV:/EP:t/VC.][VRoot][=to.be.thick (ES: ser.grueso/espeso)]" : {tonta}
+| "[=tontaa+INF@CV.][VRoot][=to.be.thick (ES: ser.grueso/espeso)]" : {tontaa}
+!| "[=tontaaha+~{V:/'to.be.thick':tontaa/}{CL:/'liquid':ha/}][NRoot][=thick.liquid (ES: líquido.espeso)]" : {tontaaha} 
 # ---------------------------------------------------------------- 
 ! 
 | "[=tot+INF@aantsi.][VRoot][=to.cut (ES: cortar)]" : {tot}
