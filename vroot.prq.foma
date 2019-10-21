@@ -2491,6 +2491,11 @@ define VRootPRQin [
 #@TOTREDUPCLASS01| "[=sankina+tot.redup@unb.copy.][VRoot][=to.write (ES: escribir)]" : {sankina} ! sankinasankina
 | "[=sankena+INF@/EP:t/(a)antsi.+prtl.redup@b.copy.][VRoot][=to.write (ES: escribir)]" : {sasankena}
 #@PRTLREDUPCLASS01| "[=sankena+INF@/EP:t/(a)antsi.+prtl.redup@b.copy.][VRoot][=to.write (ES: escribir)]" : {sankena} ! sasankena 
+! 
+!| "[=sankenare+~{V:/'to.write':sankena/}{NMZ:re}+inal@ntsi.][NRoot][=letter, book (ES: carta, libro)]" : {sankenare} ! @section:noun@ 
+!| "[=hankenare+~{V:/'to.write':hankena/}{NMZ:re}+inal@ntsi.][NRoot][=letter, book (ES: carta, libro)]" : {hankenare} 
+!| "[=osankenari+~{V:/'to.write':osankena/}{NMZ:ri}+inal@ntsi.][NRoot][=letter, book (ES: carta, libro)]" : {osankenari} 
+!| "[=osankenare+~{V:/'to.write':osankena/}{NMZ:re}+inal@ntsi.][NRoot][=letter, book (ES: carta, libro)]" : {osankenare} 
 # ---------------------------------------------------------------------------
 ! 
 | "[=hamorenk][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {hamorenk} 
