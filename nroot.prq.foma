@@ -5621,7 +5621,7 @@ define NRootPRQin [
 | "[=sempa+gndr@n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; PT: ombro)]" : {sempa}
 # ------------------------------------------------------------
 ! 
-| "[=sheno+gndr@n.m.+inal@tsi.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)]" : {sheno}
+| "[=sheno+gndr@n.m.+inal@tsi.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)]" : {sheno} ! N@->V 
 # ------------------------------------------------------------
 ! 
 | "[=shenotsi+gndr@n.m.][NRoot][=goiter (ES: bocio; PT: bócio)]" : {shenotsi}
