@@ -95,8 +95,8 @@ define ARootPRQin [
 ! 
 | "[=shampitsi][NRoot][=miser (ES: avaro, mezquino)]" : {shampitsi} ! N@->V
 ! 
-| "[=tontari+~{V:/'to.be.thick':tont/}{EP:a}{NMZ:ri}][NRoot][=thick (ES: grueso,, espeso)]" : {tontari}
-| "[=tontatatsi][NRoot][=thick (ES: grueso,, espeso)]" : {tontatatsi}
+| "[=tontari+~{V:/'to.be.thick':tonta/}{NMZ:ri}][NRoot][=thick (ES: grueso,, espeso)]" : {tontari}
+| "[=tontatatsi+~{V:/'to.be.thick':tonta/}{EP:t}{STAT.IPRF:atsi}][NRoot][=thick (ES: grueso,, espeso)]" : {tontatatsi}
 ! 
 | "[=tsaivari][NRoot][=liar (ES: mentiroso)]" : {tsaivari}
 | "[=tsaivaari][NRoot][=liar (ES: mentiroso)]" : {tsaivaari}
