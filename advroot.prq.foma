@@ -81,6 +81,7 @@ define AdvRootPRQin [
 ! 
 | "[=okakini][AdvRoot][=near (ES: cerca)]" : {okakini}
 | "[=okaakini][AdvRoot][=near (ES: cerca)]" : {okaakini}
+| "[=kempehi][AdvRoot][=near (ES: cerca)]" : {kempehi}
 ! 
 | "[=okanta][AdvRoot][=CONN]" : {okanta}
 | "[=okanta][AdvRoot][=meanwhile]" : {okanta}
