@@ -115,7 +115,7 @@ define NRootPRQin [
 | "[=ashitaaniyetatsiri][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaaniyetatsiri}
 # ---------------------------------------------------------------------
 ! 
-| "[=ashitarori+gndr@m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places (PT: chefe.)]" : {ashitarori}
+| "[=ashitarori+gndr@m.][NRoot][=owner (ES: dueño);| master-owner.of.(animals|plants|places) (PT: chefe)]" : {ashitarori}
 | "[=ashitariri+gndr@m.][NRoot][=owner (ES: dueño); master-owner.of.animals/plants/places]" : {ashitariri}
 # ---------------------------------------------------------------------
 ! 
