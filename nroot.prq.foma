@@ -168,8 +168,8 @@ define NRootPRQin [
 | "[=aeri+gndr@m.][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {aeri}
 # ---------------------------------------------------------------  
 ! 
-| "[=aiyo+gndr@n.m.+kin@fem.ego][NRoot][=mother.in.law]" : {aiyo}
-| "[=ayiini+gndr@n.m.+voc@N.][NRoot][=mother.in.law (ES: suegra)]" : {ayiini} !  
+| "[=aiyo+gndr@n.m.+kin@fem.ego][NRoot][=mother.in.law (ES: suegra)]" : {aiyo}
+| "[=ayiini+gndr@n.m.+voc@N.+kin@fem.ego][NRoot][=mother.in.law (ES: suegra)]" : {ayiini} !  
 | "[=ayiro+inal@ntsi.+voc@N:1SG.][NRoot][=mother.in.law (ES: suegra)]" : {ayiro} ! +N +1SG 
 ! 
 | "[=aniyo+gndr@n.m.+kin@male.ego][NRoot][=daughter.in.law]" : {aniyo}
@@ -395,6 +395,7 @@ define NRootPRQin [
 | "[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atiri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atsiri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
+!| "[=atzirivenki+~{N:/'person':atziri/}{DEL:i}{N:/'piripiri':ivenki/}+gndr@m.][NRoot][=person, individual, human (ES: gente)]" : {atziri}
 # ------------------------------------------------------------------
 ! 
 | "[=atsityopi][NRoot][=mythical.armadillo/anaconda-like.creature]" : {atsityopi}
