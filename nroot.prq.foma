@@ -404,7 +404,7 @@ define NRootPRQin [
 ! 
 | "[=avanto+gndr@m.][NRoot][=big-size.frog (ES: rana.grande)]" : {avanto}
 ! 
-| "[=avo+gndr@n.m.+inal@tsi.][NRoot][=road, trail]" : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)]
+| "[=avo+gndr@n.m.+inal@tsi.][NRoot][=road, trail]" : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)] ! @section:noun@ 
 | "[=ao+gndr@n.m.+inal@tsi.][NRoot][=road, trail]" : {ao}
 | "[=aa+gndr@n.m.+inal@tsi.][NRoot][=road, trail]" : {aa}
 | "[=avotsi+gndr@n.m.+poss@te:ti.][NRoot][=road (ES: camino, trocha)]" : {avotsi} ! \cite[p\'{a}g. 67]{payne:lecciones:89} 
