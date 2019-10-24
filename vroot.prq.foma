@@ -1108,7 +1108,7 @@ define VRootPRQin [
 #@PRTLREDUPCLASS01| "[=ken+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.walk]" : {ken} ! keken 
 | "[=ken+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.walk]" : {kekena}
 | "[=ken+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]" : {kenaken}
-| "[=ken+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]" : {kenakena}
+| "[=ken+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]::[=to.walk.somewhere.very.frequently (ES: caminar/viajar.por.algún.lugar.todo.el.tiempo)]" : {kenakena}
 # ----------------------------------------------------------------------- 
 ! 
 | "[=kenashi][VRoot][=to.be.green (ES: ser.de.color.verde)]" : {kenashi}
