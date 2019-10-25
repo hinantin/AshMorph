@@ -17,7 +17,7 @@ define NounToVerbPRQin [
 | "[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person][^VBZ]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atiri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person][^VBZ]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atsiri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person][^VBZ]" : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
-| "[=avo+gndr@n.m.+inal@tsi.][NRoot][=road, trail]::[=to.make.a.road (ES: hacer.una.senda)][^VBZ]" : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)]
+| "[=avo+gndr@n.m.+inal@tsi.][NRoot][=road, trail]::[=to.make.a.road (ES: hacer.una.senda)][^VBZ]" : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)] ! @section:noun@ 
 | "[=chee+gndr@m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]::[=to.have.a_horn/horns][^VBZ]" : {chee} ! @VCMP N@->V::[=to.have.a_horn/horns]
 | "[=chakopi+gndr@n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)][^VBZ]" : {chakopi} ! N@->V
 | "[=charine+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent; grandson (ES: nieto)][^VBZ]" : {charine} ! N@->V
