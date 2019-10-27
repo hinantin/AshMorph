@@ -1018,10 +1018,10 @@ define VRootPRQin [
 ! irooperori / ES: 'verdadero' 
 ! irooperotake / ES: 'original' 
 ! iroperotatsi 
-| "[=iropero][VRoot][=to.be.factual, to.be.truth]" : {iropero}
-| "[=iroopero][VRoot][=to.be.factual, to.be.truth]" : {iroopero}
-| "[=iripero][VRoot][=to.be.factual, to.be.truth]" : {iripero}
-| "[=iriipero][VRoot][=to.be.factual, to.be.truth]" : {iriipero}
+| "[=iropero+INF@/EP:t/antsi.][VRoot][=to.be.factual, to.be.truth]" : {iropero}
+| "[=iroopero+INF@/EP:t/antsi.][VRoot][=to.be.factual, to.be.truth]" : {iroopero}
+| "[=iripero+INF@/EP:t/antsi.][VRoot][=to.be.factual, to.be.truth]" : {iripero}
+| "[=iriipero+INF@/EP:t/antsi.][VRoot][=to.be.factual, to.be.truth]" : {iriipero}
 # -------------------------------------------------------------- 
 ! 
 | "[=kemaatsika][VRoot][=to.suffer (ES: sufrir)]" : {kemaatsika}
