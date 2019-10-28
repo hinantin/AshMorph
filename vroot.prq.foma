@@ -2231,6 +2231,9 @@ define VRootPRQin [
 | "[=pira+INF@/EP:t/antsi.][VRoot][=to.win (ES: vencer)]" : {pira}
 # ------------------------------------------------------
 ! 
+| "[=pira][VRoot][=to.domesticate (ES: domesticar)]" : {pira}
+# ------------------------------------------------------
+! 
 | "[=piri][VRoot][=to.be.dry (ES: estar.seco); to.dry (ES: secarse)]" : {piri}
 | "[=piria][VRoot][=to.be.dry (ES: estar.seco)]" : {piria}
 | "[=pirih][VRoot][=to.be.dry (ES: estar.seco)]" : {pirih}
@@ -3068,10 +3071,10 @@ define VRootPRQin [
 | "[=tseenk+INF@aantsi.][VRoot][=to.reduce, to.lessen (ES: rebajar); to.doubt.sth.]" : {tseenk}
 # ----------------------------------------------------------------------- 
 ! 
-| "[=tseri+INF@antsi.][VRoot][=to.tear.fabric (ES: romper.tela)]" : {tseri}
+| "[=tseri+INF@antsi.][VRoot][=to.tear.fabric (ES: romper.tela)]" : {tseri} 
 # ----------------------------------------------------------------------- 
 ! 
-| "[=tsika][VRoot][=to.adopt]" : {tsika} 
+| "[=tsika+INF@/EP:t/VC.][VRoot][=to.adopt.sb. (ES: adoptar.a.algn.)]" : {tsika} 
 | "[=otzika][VRoot][=to.capture (ES: cautivar); to.enslave (ES: esclavizar); to.adopt (ES: adoptar)]" : {otzika} 
 # ----------------------------------------------------------------------- 
 ! 
