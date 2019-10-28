@@ -94,7 +94,7 @@ define S [
 |                                                    (V=S=CL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 #  
 |                                                    (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
-| S=NOUN                                             (V=S=CL) STAT (V=S=REL) (V=S=Q)  ! cameethavoroperotatsiri
+| S=NOUN                                             (AUG=SET1) STAT (V=S=REL) (V=S=Q)  ! cameethavoroperotatsiri
 |                                                    (V=S=CL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
 |                                                    (V=S=CL) (AUG=SET1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
 # nokaratapovetanake 
