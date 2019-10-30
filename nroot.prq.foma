@@ -240,7 +240,7 @@ define NRootPRQin [
 ! 
 | "[=akosampi+gndr@n.m.+inal@ntsi.][NRoot][=arm (ES: brazo)]" : {akosampi}
 ! 
-| "[=akosanori][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akosanori}
+| "[=akosanori+~{N:/'hand':ako/}{CL:/'right':sanori/}][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akosanori}
 | "[=akopero+inal@n/tsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopero}
 | "[=akoperori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akoperori}
 | "[=akopirori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopirori}
