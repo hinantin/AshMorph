@@ -2304,6 +2304,7 @@ define VRootPRQin [
 | "[=piatsa+INF@/EP:t/aantsi.][VRoot][=to.disobey (ES: desobedecer); to.disobey.authority]" : {piatsa}
 | "[=tsaink+INF@VC.][VRoot][=to.disobey (ES: desobedecer)]" : {tsaink}
 !| "[=piyatsatinkari+~{V:/'to.disobey':piyatsa/}{NMZ:tinkari}][NRoot][=disobedient (ES: desobediente)]" : {piyatsatinkari} ! @section:noun@ 
+!| "[=kaari_piyathatachane+~{NEG.COP:/'not.be':kaari/}{BLANK:SPACE}{V:/'to.disobey':piyatsa/}{EP:t}{STAT.IPRF:acha}{REL:ne}][NRoot][=obedient (ES: obediente)]" : {kaari_piyathatachane} ! @section:noun@ 
 # ---------------------------------------------------------------------------------- 
 ! 
 | "[=piyo+INF@/EP:t/aantsi.][VRoot][=to.pile.sth.up (ES: amontonar); to.heap; to.gather.together]" : {piyo}
