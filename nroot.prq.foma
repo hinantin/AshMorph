@@ -233,8 +233,8 @@ define NRootPRQin [
 | "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano; PT: mão)]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
 | "[=vako][NRoot][=hand (ES: mano; PT: mão)]" : {vako} ! @VCMP 
 ! 
-| "[=akoimpeki+~{'hand':ako}{CL:/'branching.from.one.node':impeki/}+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpeki} ! @section:noun@ 
-| "[=akoimpiki+~{'hand':ako}{CL:/'branching.from.one.node':impiki/}+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpiki}
+| "[=akoimpeki+~{N:/'hand':ako/}{CL:/'branching.from.one.node':impeki/}+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpeki} ! @section:noun@ 
+| "[=akoimpiki+~{N:/'hand':ako/}{CL:/'branching.from.one.node':impiki/}+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpiki}
 ! 
 | "[=akopero+~{N:/'hand':ako/}{DEGR:pero}][NRoot][=wrist (ES: mano.derecha)]" : {akopero}
 ! 
