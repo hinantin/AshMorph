@@ -395,13 +395,14 @@ define N=S=CL [
 | "[--][-sani][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sani} 
 | "[--][-sanii][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sanii} 
 #-----------------------------------------------
-! Ashaninkasanori / =ashaninka -sanori / =ashaninka.person -cl:real / EN: 'real.Ashaninka.person' 
+! Ashaninkasanori / =ashaninka -sanori / =ashaninka.person -cl:real / EN: 'real.Ashaninka.person'; ES: 'auténtica.persona' 
 ! antyarosanori / =antyaro -sanori / =big -cl:real / EN: 'inmense'; ES: 'inmenso'  
 ! parentisanori / =parenti -sanori / =plantain -cl:real / EN: 'long.banana'; ES: 'plátano.largo'  
 ! shiramparisanori / =shirampari -sanori / =man -cl:real / EN: 'brave'; ES: 'valiente'  
 ! keariosanori / =keario -sanori / =truth -cl:real / ES: 'realidad'; EN: 'reality'  
 ! akosanori / =ako -sanori / =hand -cl:right / EN: 'right.hand'; ES: 'mano.derecha'  
 ! kamarasanori / =kamara -sanori / =cinnamon.color -cl:real / EN: 'cream.color'; ES: 'color.crema'  
+! impokirosanori / =impokiro -sanori / =star -cl:real / ES: 'la verdadera madre de las estrellas'
 | "[--][-sanori][+CL:true,real,truthful;right][=true,real,genuine,,truthful;right]" : {sanori}  
 #-----------------------------------------------
 | "[--][-shontyoki][+CL:oval,grain-like][=oval, grain-like]" : {shontyoki} 
