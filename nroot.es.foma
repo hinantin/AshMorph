@@ -3,7 +3,7 @@
 # LABEL ORDER : 
 # [=SPANISH.LOAN/ASHANINKALIZED.SPANISH.LOAN][WORDCASS+ISO639]  
 
-define NRoot:ESin [
+define NRootESin [
   "[=acero/ashiro][NRoot:ES][=steel, iron]" : {ashiro}
 | "[=amigo+poss@te][NRoot:ES][=friend]" : {amigo}
 ! 
