@@ -3686,7 +3686,7 @@ define NRootPRQin [
 | "[=nanaini+gndr@n.m.+voc.+poss@te:ti.+kin@fem.ego][NRoot][=aunt]" : {nanaini}
 # ----------------------------------------------------------------- 
 ! 
-| "[=nantatziri][NRoot][=goblin-like.creature, master-owner.of.animals (it.lives.in.rocky.areas)]" : {nantatziri}
+| "[=nantatziri][NRoot][=goblin-like.creature, master-owner.of.animals (it.lives.in.rocky.areas; ES: dueño.del.monte)]" : {nantatziri}
 ! 
 # ---------------------------------------------------------------------
 | "[=nampi+gndr@n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement]" : {nampi} ! N@->V::[= (ES: vivir)] +ADDUPPER@. @ADDLOWER@ 
