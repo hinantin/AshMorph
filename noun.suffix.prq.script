@@ -229,7 +229,9 @@ define N=S=CL [
 | "[--][-santsa][+CL:length][=long (ES: largo);length]" : {santsa} 
 | "[--][-hantsa][+CL:length][=long (ES: largo);length]" : {hantsa} ! alto???
 ! 
+! ashethanthanaataque iithaare / ashetsantsanaatake iitsaare / =ashe -tsantsanaa -t -ak -e ** i- =kitsaare / ES: 'su cushma estaba bien mojada'
 | "[--][-tsantsana][+CL:wide][=wide]" : {tsantsana} ! @CL 
+| "[--][-tsantsanaa][+CL:wide][=wide]" : {tsantsanaa} ! @CL 
 # --------------------------------------------------------------------------------
 ! chakopi / EN: 'arrow' 
 ! irantsipi / [=ira -ntsi -pi]+n.m. / =blood -nposs -cl:rigid,hollow / EN: 'sugar.cane.sp.'; ES: 'sp.de.caña.de.azúcar'
