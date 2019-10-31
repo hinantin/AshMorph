@@ -2937,17 +2937,22 @@ define NRootPRQin [
 ! 
 # la avispa 'kovitsinari' construye panales de barro de forma esférica que semejan pequeñas ollas de barro 
 | "[=kovitsinari][NRoot][=potter.wasp.sp. (ES: sp.de.avispa.alfarera; sci.nm.: familia.sphécide, subfamilia.sceliphronine)]" : {kovitsinari}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koviri+gndr@m.][NRoot][=corvina-fish (ES: corvina,, sábalo; sci.nm.: salminus.sp.,, astianax.sp.)]" : {koviri}
 | "[=tora+gndr@m.][NRoot][=corvina-fish (ES: corvina)]" : {tora}
+# ---------------------------------------------------------------------------
 ! 
 # flor contra el escozor al comer piña 
 | "[=koviriki+gndr@n.m.][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu, botoncillo; sci.nm.: spilanthes.oleracea)]" : {koviriki}
 | "[=koiriki+gndr@n.m.][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu, botoncillo; sci.nm.: spilanthes.oleracea)]" : {koiriki}
+# ---------------------------------------------------------------------------
 ! 
 | "[=koteri][NRoot][=gray-necked.wood.rail (sci.nm.: aramides.jacanca)]" : {koteri}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kotsero+gndr@n.m.+poss@te.][NRoot][=squirrel.sp. (ES: muca, sp.de.ardilla; sci.nm.: caluromys.lanatus)]" : {kotsero}
+# ---------------------------------------------------------------------------
 ! 
 | "[=kotsiro+gndr@n.m.+poss@te.][NRoot][=machete, knife (ES: cuchillo)]" : {kotsiro}
 | "[=kotsiraaniki+gndr@n.m.+poss@te.][NRoot][=machete, knife (ES: cuchillo)]" : {kotsiraaniki}
