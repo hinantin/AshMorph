@@ -3,226 +3,228 @@
 # LABEL ORDER : 
 # [=SPANISH.LOAN/ASHANINKALIZED.SPANISH.LOAN][WORDCASS+ISO639]  
 
-define NRootESin [
-  "[=acero/ashiro][NRootEs][=steel, iron]" : {ashiro}
-| "[=amigo+poss@te][NRootEs][=friend]" : {amigo}
+define NRoot:ESin [
+  "[=acero/ashiro][NRoot:ES][=steel, iron]" : {ashiro}
+| "[=amigo+poss@te][NRoot:ES][=friend]" : {amigo}
 ! 
-| "[=Apurimac][NRootEs][=NP]" : {apurimac}
+| "[=Apurimac][NRoot:ES][=NP]" : {apurimac}
 ! 
-| "[=adam/aran][NRootEs][=NP]" : {aran}
-| "[=anillo/ario+poss@te.][NRootEs][=NP]" : {ario}
+| "[=adam/aran][NRoot:ES][=NP]" : {aran}
+| "[=anillo/ario+poss@te.][NRoot:ES][=NP]" : {ario}
 ! 
-| "[=arrozki/aroosaki][NRootEs][=rice.grain]" : {aroosaki}
-| "[=arroz/aroshi+n.m.][NRootEs][=rice]" : {aroshi}
+| "[=arrozki/aroosaki][NRoot:ES][=rice.grain]" : {aroosaki}
+| "[=arroz/aroshi+n.m.][NRoot:ES][=rice]" : {aroshi}
 ! 
-| "[=hacienda/ashienta][NRootEs][=hacienda]" : {ashienta}
+| "[=hacienda/ashienta][NRoot:ES][=hacienda]" : {ashienta}
 ! 
-| "[=azul/azoriri+color][NRootEs][=blue]" : {azoriri} ! source:IIAP 
-| "[=azul/asori+color][NRootEs][=blue]" : {asori}
+| "[=azul/azoriri+color][NRoot:ES][=blue]" : {azoriri} ! source:IIAP 
+| "[=azul/asori+color][NRoot:ES][=blue]" : {asori}
 ! 
-| "[=burro/boro+NCMS000+poss@te.][NRootEs][=donkey]" : {boro}
+| "[=burro/boro+NCMS000+poss@te.][NRoot:ES][=donkey]" : {boro}
 ! 
-| "[=chapo/chaapo+gndr@m.+poss@te.][NRootEs][=dessert/beverage.recipe.prepared.with.plantains.&.sugar.&.milk.&.cinnamon (ES: jugo.de.chapo)]" : {chaapo}
-| "[=chapo/chapo+gndr@m.+poss@te.][NRootEs][=dessert/beverage.recipe.prepared.with.plantains.&.sugar.&.milk.&.cinnamon (ES: jugo.de.chapo)]" : {chapo}
+| "[=chapo/chaapo+gndr@m.+poss@te.][NRoot:ES][=dessert/beverage.recipe.prepared.with.plantains.&.sugar.&.milk.&.cinnamon (ES: jugo.de.chapo)]" : {chaapo}
+| "[=chapo/chapo+gndr@m.+poss@te.][NRoot:ES][=dessert/beverage.recipe.prepared.with.plantains.&.sugar.&.milk.&.cinnamon (ES: jugo.de.chapo)]" : {chapo}
 ! 
-| "[=botella/voteya][NRootEs][=bottle]" : {voteya}
-| "[=botella/poteya][NRootEs][=bottle]" : {poteya}
+| "[=botella/voteya][NRoot:ES][=bottle]" : {voteya}
+| "[=botella/poteya][NRoot:ES][=bottle]" : {poteya}
 ! 
-| "[=jose][NRootEs][=NP]" : {jose}
+| "[=jose][NRoot:ES][=NP]" : {jose}
 ! 
-| "[=caimito/kaimito][NRootEs][=fruit.sp. (sci.nm.: chrysophyllum.sp.)]" : {kaimito}
+| "[=caimito/kaimito][NRoot:ES][=fruit.sp. (sci.nm.: chrysophyllum.sp.)]" : {kaimito}
 ! 
-| "[=café/kajee][NRootEs][=coffee]" : {kajee}
-| "[=café/kaje][NRootEs][=coffee]" : {kaje}
+| "[=café/kajee][NRoot:ES][=coffee]" : {kajee}
+| "[=café/kaje][NRoot:ES][=coffee]" : {kaje}
 ! 
-| "[=camisa/camiisa+n.m.][NRootEs][=shirt]" : {camiisa}
+| "[=camisa/camiisa+n.m.][NRoot:ES][=shirt]" : {camiisa}
 ! 
-| "[=cabra/caavera][NRootEs][=goat]" : {caavera}
+| "[=cabra/caavera][NRoot:ES][=goat]" : {caavera}
 ! 
-| "[=campana/kampana][NRootEs][=church (ES: campana)]" : {kampana}
+| "[=campana/kampana][NRoot:ES][=church (ES: campana)]" : {kampana}
 ! 
-| "[=calabozo/karaboso][NRootEs][=dungeon (ES: cárcel)]" : {karaboso}
-| "[=calabozo/karavoso][NRootEs][=dungeon (ES: cárcel)]" : {karavoso}
+| "[=calabozo/karaboso][NRoot:ES][=dungeon (ES: cárcel)]" : {karaboso}
+| "[=calabozo/karavoso][NRoot:ES][=dungeon (ES: cárcel)]" : {karavoso}
 ! 
-| "[=calzón/kariso+poss@te.][NRootEs][=(female).drawers]" : {kariso}
+| "[=calzón/kariso+poss@te.][NRoot:ES][=(female).drawers]" : {kariso}
 ! 
-| "[=carro/karo+poss@te.][NRootEs][=car]" : {karo}
-| "[=carro/karoo+poss@te.][NRootEs][=car]" : {kaaro}
+| "[=carro/karo+poss@te.][NRoot:ES][=car]" : {karo}
+| "[=carro/karoo+poss@te.][NRoot:ES][=car]" : {kaaro}
 ! 
-| "[=Carlos/caaroshi][NRootEs][=Carlos]" : {caaroshi}
-| "[=Carlos|Carlo/kaaroshi][NRootEs][=Carlos]" : {kaaroshi}
+| "[=Carlos/caaroshi][NRoot:ES][=Carlos]" : {caaroshi}
+| "[=Carlos|Carlo/kaaroshi][NRoot:ES][=Carlos]" : {kaaroshi}
 ! 
-| "[=castellano][NRootEs][=Spanish]" : {castellano}
+| "[=castellano][NRoot:ES][=Spanish]" : {castellano}
 ! 
-| "[=chancho][NRootEs][=pig]" : {chancho}
-| "[=chancho/chaancho][NRootEs][=pig]" : {chaancho}
+| "[=chancho][NRoot:ES][=pig]" : {chancho}
+| "[=chancho/chaancho][NRoot:ES][=pig]" : {chaancho}
 ! 
-| "[=chocolate/chokorate+NCMS000][NRootEs][=chocolate]" : {chokorate}
+| "[=chocolate/chokorate+NCMS000][NRoot:ES][=chocolate]" : {chokorate}
 ! 
-| "[=cuchara/cochara][NRootEs][=spoon]" : {cochara}
+| "[=cuchara/cochara][NRoot:ES][=spoon]" : {cochara}
 ! 
-| "[=español/ishipanyori][NRootEs][=Spaniard]" : {ishipanyori}
+| "[=español/ishipanyori][NRoot:ES][=Spaniard]" : {ishipanyori}
 ! 
-| "[=carretera/karretera][NRootEs][=highway]" : {karretera}
+| "[=carretera/karretera][NRoot:ES][=highway]" : {karretera}
 ! 
-| "[=comadre/komaatiro][NRootEs][=godmother.of.one's.child]" : {komaatiro}
-| "[=comadre/komaari][NRootEs][=godmother.of.one's.child]" : {komaari}
-| "[=comadre/komatire][NRootEs][=godmother.of.one's.child]" : {komatire}
+| "[=comadre/komaatiro][NRoot:ES][=godmother.of.one's.child]" : {komaatiro}
+| "[=comadre/komaari][NRoot:ES][=godmother.of.one's.child]" : {komaari}
+| "[=comadre/komatire][NRoot:ES][=godmother.of.one's.child]" : {komatire}
 ! 
-| "[=compadre/komaatirori][NRootEs][=godfather.of.one's.child]" : {komaatirori}
+| "[=compadre/komaatirori][NRoot:ES][=godfather.of.one's.child]" : {komaatirori}
 ! 
-| "[=compadre][NRootEs][=godparent; spiritual.father]" : {compadre} ! N@->V 
-| "[=compadre/compaatiri+m.+poss@te.][NRootEs][=godfather; spiritual.father]" : {compaatiri}
-| "[=compadre/compaatziri+m.+poss@te.][NRootEs][=godfather (ES: compadre); spiritual.father]" : {compaatziri}
-| "[=comadre/compaatiro+n.m.][NRootEs][=godmother]" : {compaatiro}
+| "[=compadre][NRoot:ES][=godparent; spiritual.father]" : {compadre} ! N@->V 
+| "[=compadre/compaatiri+m.+poss@te.][NRoot:ES][=godfather; spiritual.father]" : {compaatiri}
+| "[=compadre/compaatziri+m.+poss@te.][NRoot:ES][=godfather (ES: compadre); spiritual.father]" : {compaatziri}
+| "[=comadre/compaatiro+n.m.][NRoot:ES][=godmother]" : {compaatiro}
 ! 
-| "[=compañia][NRootEs][=company]" : {compañia}
-| "[=contrato][NRootEs][=contract]" : {contrato}
+| "[=compañia][NRoot:ES][=company]" : {compañia}
+| "[=contrato][NRoot:ES][=contract]" : {contrato}
 ! 
-| "[=doctor][NRootEs][=doctor]" : {doctor}
+| "[=doctor][NRoot:ES][=doctor]" : {doctor}
 ! 
-| "[=ejercicio][NRootEs][=exercise]" : {ejercicio}
-| "[=escuela][NRootEs][=school]" : {escuela}
-| "[=escuela/eskuera][NRootEs][=school]" : {eskuera}
-| "[=escuela/ishikoira][NRootEs][=school]" : {ishikoira}
-| "[=español][NRootEs][=Spaniard]" : {español}
-| "[=estado][NRootEs][=state]" : {estado}
+| "[=ejercicio][NRoot:ES][=exercise]" : {ejercicio}
+| "[=escuela][NRoot:ES][=school]" : {escuela}
+| "[=escuela/eskuera][NRoot:ES][=school]" : {eskuera}
+| "[=escuela/ishikoira][NRoot:ES][=school]" : {ishikoira}
+| "[=español][NRoot:ES][=Spaniard]" : {español}
+| "[=estado][NRoot:ES][=state]" : {estado}
 ! 
-| "[=hacha/shecha+n.m.][NRootEs][=ax]" : {shecha}
-| "[=hacha/shacha+n.m.+poss@ni.][NRootEs][=ax]" : {shacha}
-| "[=hacha/chacha+n.m.+poss@ne.][NRootEs][=ax]" : {chacha}
-| "[=hacha/acha+n.m.+poss@te.][NRootEs][=ax]" : {acha}
+| "[=hacha/shecha+n.m.][NRoot:ES][=ax]" : {shecha}
+| "[=hacha/shacha+n.m.+poss@ni.][NRoot:ES][=ax]" : {shacha}
+| "[=hacha/chacha+n.m.+poss@ne.][NRoot:ES][=ax]" : {chacha}
+| "[=hacha/acha+n.m.+poss@te.][NRoot:ES][=ax]" : {acha}
 ! 
-| "[=hermana][NRootEs][=sister]" : {hermana}
+| "[=hermana][NRoot:ES][=sister]" : {hermana}
 ! 
-| "[=remedio/irimerio][NRootEs][=remedy]" : {irimerio}
+| "[=remedio/irimerio][NRoot:ES][=remedy]" : {irimerio}
 ! 
-| "[=ingeniero][NRootEs][=engineer]" : {ingeniero}
+| "[=ingeniero][NRoot:ES][=engineer]" : {ingeniero}
 ! 
-| "[=español/ishipañoori][NRootEs][=Spaniard]" : {ishipañoori}
-| "[=español/ishipañori][NRootEs][=Spaniard]" : {ishipañori}
+| "[=español/ishipañoori][NRoot:ES][=Spaniard]" : {ishipañoori}
+| "[=español/ishipañori][NRoot:ES][=Spaniard]" : {ishipañori}
 ! 
-| "[=hilo/iiro][NRootEs][=thread (ES: hilo)]" : {iiro}
-| "[=hilo/iro][NRootEs][=thread (ES: hilo)]" : {iro}
-| "[=hilo/hiro][NRootEs][=thread (ES: hilo)]" : {hiro}
+| "[=hilo/iiro][NRoot:ES][=thread (ES: hilo)]" : {iiro}
+| "[=hilo/iro][NRoot:ES][=thread (ES: hilo)]" : {iro}
+| "[=hilo/hiro][NRoot:ES][=thread (ES: hilo)]" : {hiro}
 ! 
-| "[=Irene/irena][NRootEs][=Irene]" : {irena}
+| "[=Irene/irena][NRoot:ES][=Irene]" : {irena}
 ! 
 | "[=Internet/interene][NRoot][=Internet]" : {interene}
 ! 
-| "[=Ricardo/irokarto][NRootEs][=Richard]" : {irokarto}
+| "[=Ricardo/irokarto][NRoot:ES][=Richard]" : {irokarto}
 ! 
-| "[=jabón/jabo][NRootEs][=soap]" : {jabo}
-| "[=jabón/jaboo][NRootEs][=soap]" : {jaboo}
+| "[=jabón/jabo][NRoot:ES][=soap]" : {jabo}
+| "[=jabón/jaboo][NRoot:ES][=soap]" : {jaboo}
 ! 
-| "[=jebe+gndr@n.m.][NRootEs][= (ES: jebe, tirachina, tirador)]" : {jebe}
-| "[=jebe/jeeve+gndr@n.m.][NRootEs][= (ES: jebe, tirachina, tirador)]" : {jeeve}
+| "[=jebe+gndr@n.m.][NRoot:ES][= (ES: jebe, tirachina, tirador)]" : {jebe}
+| "[=jebe/jeeve+gndr@n.m.][NRoot:ES][= (ES: jebe, tirachina, tirador)]" : {jeeve}
 ! 
-| "[=Jerusalén][NRootEs][=Jerusalem]" : {jerusalén}
+| "[=Jerusalén][NRoot:ES][=Jerusalem]" : {jerusalén}
 ! 
-| "[=juan.santos.atahualpa][NRootEs][=person's.name; Peruvian.cultural.icon]" : {juan.santos.atahualpa}
+| "[=juan.santos.atahualpa][NRoot:ES][=person's.name; Peruvian.cultural.icon]" : {juan.santos.atahualpa}
 ! 
-| "[=judio][NRootEs][=Jewish]" : {judio}
+| "[=judio][NRoot:ES][=Jewish]" : {judio}
 ! 
 | "[=carro/kaaro][NRoot][=car]" : {kaaro}
 ! 
-| "[=gringo/kirinko][NRootEs][=white.foreigner]" : {kirinko}
+| "[=gringo/kirinko][NRoot:ES][=white.foreigner]" : {kirinko}
 ! 
-| "[=libro/kiriviro][NRootEs][=book (ES: libro)]" : {kiriviro}
-| "[=libro/iriviro][NRootEs][=book (ES: libro)]" : {iriviro}
+| "[=libro/kiriviro][NRoot:ES][=book (ES: libro)]" : {kiriviro}
+| "[=libro/iriviro][NRoot:ES][=book (ES: libro)]" : {iriviro}
 ! 
-| "[=coco/koko+NCMS000][NRootEs][=coconut]" : {koko} ! source:IIAP 
-| "[=cocona/kokona+NCFS000][NRootEs][=cocona.shrubby.plant.sp.]" : {kokona} ! source:IIAP
+| "[=coco/koko+NCMS000][NRoot:ES][=coconut]" : {koko} ! source:IIAP 
+| "[=cocona/kokona+NCFS000][NRoot:ES][=cocona.shrubby.plant.sp.]" : {kokona} ! source:IIAP
 | "[=kokonaki][NRoot][=cocona.fruit; tart.applelike.fruit]" : {kokonaki} ! source:IIAP 
 ! 
 ! noyomonirateki / no- =komonira -te -ki / 1sg.poss- =community -aln.poss. -loc / EN: 'in.my.community'
-| "[=comunidad/komonira+poss@te.][NRootEs][=community]" : {komonira}
-| "[=comunero/komoneero+poss@te.][NRootEs][=villager]" : {komoneero}
+| "[=comunidad/komonira+poss@te.][NRoot:ES][=community]" : {komonira}
+| "[=comunero/komoneero+poss@te.][NRoot:ES][=villager]" : {komoneero}
 ! 
-| "[=costal/kostari][NRootEs][=burlap-bag (ES: costal)]" : {kostari}
-| "[=talega/kostari][NRootEs][=burlap-bag (ES: talega)]" : {kostari}
+| "[=costal/kostari][NRoot:ES][=burlap-bag (ES: costal)]" : {kostari}
+| "[=talega/kostari][NRoot:ES][=burlap-bag (ES: talega)]" : {kostari}
 ! 
-| "[=masato][NRootEs][=manioc.beer]" : {masato}
+| "[=marcos/marikoshi][NRoot:ES][=Mark (ES: Marcos)]" : {marikoshi}
 ! 
-| "[=matemática/matematika][NRootEs][=math]" : {matematika}
+| "[=masato][NRoot:ES][=manioc.beer]" : {masato}
 ! 
-| "[=matico/matiko][NRootEs][=spiked.pepper (ES: matico, higuillo.de.hoja.menuda; sci.nm.: piper.aduncum)]" : {matiko}
+| "[=matemática/matematika][NRoot:ES][=math]" : {matematika}
 ! 
-| "[=machete/matsiti][NRootEs][=machete]" : {matsiti}
+| "[=matico/matiko][NRoot:ES][=spiked.pepper (ES: matico, higuillo.de.hoja.menuda; sci.nm.: piper.aduncum)]" : {matiko}
 ! 
-| "[=navidad/mavira][NRootEs][=Christmas]" : {mavira}
+| "[=machete/matsiti][NRoot:ES][=machete]" : {matsiti}
 ! 
-| "[=esmeril/meriri][NRootEs][=emery]" : {meriri}
+| "[=navidad/mavira][NRoot:ES][=Christmas]" : {mavira}
 ! 
-| "[=mesa][NRootEs][=table]" : {mesa}
-| "[=misión][NRootEs][=mission]" : {misión}
-| "[=moto+poss@te.][NRootEs][=autoriksha]" : {moto}
+| "[=esmeril/meriri][NRoot:ES][=emery]" : {meriri}
 ! 
-| "[=mil/miri][NRootEs][=thousand]" : {miri}
+| "[=mesa][NRoot:ES][=table]" : {mesa}
+| "[=misión][NRoot:ES][=mission]" : {misión}
+| "[=moto+poss@te.][NRoot:ES][=autoriksha]" : {moto}
 ! 
-| "[=motor/motoro+n.m.][NRootEs][=boat (ES: bote)]" : {motoro}
+| "[=mil/miri][NRoot:ES][=thousand]" : {miri}
 ! 
-| "[=mula][NRootEs][=mule]" : {mula}
-| "[=mula/mora][NRootEs][=mule]" : {mora}
+| "[=motor/motoro+n.m.][NRoot:ES][=boat (ES: bote)]" : {motoro}
 ! 
-| "[=nylon/nairo][NRootEs][=nylon]" : {nairo}
+| "[=mula][NRoot:ES][=mule]" : {mula}
+| "[=mula/mora][NRoot:ES][=mule]" : {mora}
 ! 
-| "[=número+poss@te.][NRootEs][=number]" : {nomero}
+| "[=nylon/nairo][NRoot:ES][=nylon]" : {nairo}
 ! 
-| "[=olla/oya+NCFS000+poss@te.][NRootEs][=pot]" : {oya}
+| "[=número+poss@te.][NRoot:ES][=number]" : {nomero}
 ! 
-| "[=uva/ova+NCFS000][NRootEs][=grape]" : {ova}
+| "[=olla/oya+NCFS000+poss@te.][NRoot:ES][=pot]" : {oya}
 ! 
-| "[=oveja/ovisha+NCFS000][NRootEs][=sheep]" : {ovisha}
-| "[=oveja/oisha+NCFS000+poss@te.][NRootEs][=sheep]" : {oisha}
+| "[=uva/ova+NCFS000][NRoot:ES][=grape]" : {ova}
 ! 
-| "[=hospital/osipitari][NRootEs][=hospital]" : {osipitari}
-| "[=hospital/oshipitari][NRootEs][=hospital]" : {oshipitari}
+| "[=oveja/ovisha+NCFS000][NRoot:ES][=sheep]" : {ovisha}
+| "[=oveja/oisha+NCFS000+poss@te.][NRoot:ES][=sheep]" : {oisha}
 ! 
-| "[=paiche+NPMS000][NRootEs][=fish.sp., paiche-fish.sp.]" : {paiche}
+| "[=hospital/osipitari][NRoot:ES][=hospital]" : {osipitari}
+| "[=hospital/oshipitari][NRoot:ES][=hospital]" : {oshipitari}
 ! 
-| "[=paño/paanyo+poss@te.][NRootEs][=scarf]" : {paanyo}
-| "[=paño+poss@te.][NRootEs][=scarf]" : {paño}
+| "[=paiche+NPMS000][NRoot:ES][=fish.sp., paiche-fish.sp.]" : {paiche}
 ! 
-| "[=papá/papa+poss@ti.][NRootEs][=dad]" : {papa}
-| "[=papá/paapa+poss@ti.][NRootEs][=dad]" : {paapa}
+| "[=paño/paanyo+poss@te.][NRoot:ES][=scarf]" : {paanyo}
+| "[=paño+poss@te.][NRoot:ES][=scarf]" : {paño}
 ! 
-| "[=papel/paperi+NCMS000][NRootEs][=sheet.of.paper, book]" : {paperi}
-| "[=papel/papeeri+NCMS000][NRootEs][=sheet.of.paper, book]" : {papeeri}
-| "[=papel/papiiri+NCMS000][NRootEs][=sheet.of.paper, book]" : {papiiri}
+| "[=papá/papa+poss@ti.][NRoot:ES][=dad]" : {papa}
+| "[=papá/paapa+poss@ti.][NRoot:ES][=dad]" : {paapa}
 ! 
-| "[=pastor/pashitori][NRootEs][=pastor]" : {pashitori}
+| "[=papel/paperi+NCMS000][NRoot:ES][=sheet.of.paper, book]" : {paperi}
+| "[=papel/papeeri+NCMS000][NRoot:ES][=sheet.of.paper, book]" : {papeeri}
+| "[=papel/papiiri+NCMS000][NRoot:ES][=sheet.of.paper, book]" : {papiiri}
 ! 
-| "[=Pablo/Pavoro][NRootEs][=Paul, person's.name]" : {pavoro}
+| "[=pastor/pashitori][NRoot:ES][=pastor]" : {pashitori}
 ! 
-| "[=pila+NCFS000][NRootEs][=fountain; sink]" : {piira}
+| "[=Pablo/Pavoro][NRoot:ES][=Paul, person's.name]" : {pavoro}
 ! 
-| "[=pelota/piroota][NRootEs][=ball]" : {piroota}
-| "[=pelota/peroota][NRootEs][=ball]" : {peroota}
-| "[=pelota/perota][NRootEs][=ball]" : {perota}
+| "[=pila+NCFS000][NRoot:ES][=fountain; sink]" : {piira}
 ! 
-| "[=periódico/perioriko][NRootEs][=newspaper]" : {perioriko}
+| "[=pelota/piroota][NRoot:ES][=ball]" : {piroota}
+| "[=pelota/peroota][NRoot:ES][=ball]" : {peroota}
+| "[=pelota/perota][NRoot:ES][=ball]" : {perota}
 ! 
-| "[=plato/pirato+poss@te.][NRootEs][=plate]" : {pirato}
-| "[=plato/perato+poss@te.][NRootEs][=plate]" : {perato}
+| "[=periódico/perioriko][NRoot:ES][=newspaper]" : {perioriko}
 ! 
-| "[=pico+n.m.][NRootEs][=pickaxe]" : {piiko}
+| "[=plato/pirato+poss@te.][NRoot:ES][=plate]" : {pirato}
+| "[=plato/perato+poss@te.][NRoot:ES][=plate]" : {perato}
 ! 
-| "[=porotal/porotaari+poss@te.][NRootEs][=piece.of.land.where.poroto-beans.are.grown (ES: porotal; PT: porotal)]" : {porotaari}
+| "[=pico+n.m.][NRoot:ES][=pickaxe]" : {piiko}
 ! 
-| "[=sesión/sision][NRootEs][=meeting]" : {sision}
-| "[=soldado/soraro][NRootEs][=soldier]" : {soraro}
+| "[=porotal/porotaari+poss@te.][NRoot:ES][=piece.of.land.where.poroto-beans.are.grown (ES: porotal; PT: porotal)]" : {porotaari}
 ! 
-| "[=bolsa/volsa][NRootEs][=bag]" : {volsa}
-| "[=bolsa/volsa][NRootEs][=bag]" : {volsa}
+| "[=sesión/sision][NRoot:ES][=meeting]" : {sision}
+| "[=soldado/soraro][NRoot:ES][=soldier]" : {soraro}
 ! 
-| "[=Tambo][NRootEs][=Tambo]" : {Tampo}
+| "[=bolsa/volsa][NRoot:ES][=bag]" : {volsa}
+| "[=bolsa/volsa][NRoot:ES][=bag]" : {volsa}
 ! 
-| "[=tãpo/tambor][NRootEs:CPB][=tambor]" : {tãpo}
+| "[=Tambo][NRoot:ES][=Tambo]" : {Tampo}
 ! 
-| "[=Ene][NRootEs][=Ene]" : {Ene}
-| "[=Apurimac][NRootEs][=Apurimac]" : {Apurimac}
-| "[=vaca][NRootEs][=cow]" : {vaaka}
+| "[=tãpo/tambor][NRoot:ES:CPB][=tambor]" : {tãpo}
+! 
+| "[=Ene][NRoot:ES][=Ene]" : {Ene}
+| "[=Apurimac][NRoot:ES][=Apurimac]" : {Apurimac}
+| "[=vaca][NRoot:ES][=cow]" : {vaaka}
 ! 
 | "[=máquina/maakina][NRoot][=machine]" : {maakina}
 | "[=máquina/makina][NRoot][=machine]" : {makina}
@@ -305,18 +307,18 @@ define NRootESin [
 ! 
 | "[=vacuna+NCMS000+poss@ri.][NRoot][=vaccine]" : {vacona} 
 ! 
-| "[=Babilonia/vavironia][NRootEs][=Babylon]" : {vavironia}
-| "[=Egipto/ejipito][NRootEs][=Egypt]" : {ejipito}
-| "[=Nazaret/nasarete][NRootEs][=Nazareth]" : {nasarete}
-| "[=Galilea/carirea][NRootEs][=Galilea]" : {carirea}
-| "[=Tesalónica/tesaronica][NRootEs][=Thessaloniki]" : {tesaronica}
-| "[=Macedonia/maseronia][NRootEs][=Macedonia]" : {maseronia}
-| "[=Canaán/canana][NRootEs][=Canaan]" : {canana}
-| "[=Caná/cana][NRootEs][=Cana]" : {cana}
-| "[=Roma/oroma][NRootEs][=Rome]" : {oroma}
-| "[=Etiopía/etiopia][NRootEs][=Ethiopia]" : {etiopia}
-| "[=Éfeso/ejeso][NRootEs][=Ephesus]" : {ejeso}
-| "[=Nínive/ninive][NRootEs][=Nineveh]" : {ninive}
+| "[=Babilonia/vavironia][NRoot:ES][=Babylon]" : {vavironia}
+| "[=Egipto/ejipito][NRoot:ES][=Egypt]" : {ejipito}
+| "[=Nazaret/nasarete][NRoot:ES][=Nazareth]" : {nasarete}
+| "[=Galilea/carirea][NRoot:ES][=Galilea]" : {carirea}
+| "[=Tesalónica/tesaronica][NRoot:ES][=Thessaloniki]" : {tesaronica}
+| "[=Macedonia/maseronia][NRoot:ES][=Macedonia]" : {maseronia}
+| "[=Canaán/canana][NRoot:ES][=Canaan]" : {canana}
+| "[=Caná/cana][NRoot:ES][=Cana]" : {cana}
+| "[=Roma/oroma][NRoot:ES][=Rome]" : {oroma}
+| "[=Etiopía/etiopia][NRoot:ES][=Ethiopia]" : {etiopia}
+| "[=Éfeso/ejeso][NRoot:ES][=Ephesus]" : {ejeso}
+| "[=Nínive/ninive][NRoot:ES][=Nineveh]" : {ninive}
 ! 
 | "[=bala/vaara][NRoot][=bullet.cartridge, bullet (ES: bala)]" : {vaara} 
 ! 
