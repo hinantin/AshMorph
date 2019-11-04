@@ -349,8 +349,8 @@ define VRootPRQin [
 | "[=antava+INF@/EP:t/aantsi.]][VRoot][=to.ripen (ES: madurar)]" : {antava}
 # --------------------------------------------------------------------------------  
 ! 
-| "[=antavae+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavae}
-| "[=antavai+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavai} ! @section:verb@ 
+| "[=antavae+~{V:/'to.do':ant/}{EP:a}{DUR:vae}+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavae}
+| "[=antavai+~{V:/'to.do':ant/}{EP:a}{DUR:vai}+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavai} ! @section:verb@ 
 # --------------------------------------------------------------------------------  
 ! 
 | "[=antavak+INF@aantsi.][VRoot][=to.fight (ES: pelearse.(unos.con.otros))]" : {antavak} ! @section:verb@ 
