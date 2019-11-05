@@ -108,7 +108,7 @@ define VRootPRQin [
 | "[=aatonkori+~{V:/'to.take':a/}{N:/'up.river':katonko/}{REV:re}+INF@antsi.][VRoot][=to.undress (ES: desnudar)]" : {aatonkori}
 # ---------------------------------------------------
 ! 
-| "[=aavak+INF@aantsi.][VRoot][=to.receive; to.get.married (ES: casarse); to.take.a.spouse]" : {aavak}
+| "[=aavak+~{V:/'to.take':a/}{RCP:avak}+INF@aantsi.][VRoot][=to.receive; to.get.married (ES: casarse); to.take.a.spouse]" : {aavak}
 # ---------------------------------------------------
 ! 
 | "[=aivent+INF@aantsi.][VRoot][=to.be.unfaithful (ES: adulterar)]" : {aivent} ! @section:verb@ 
