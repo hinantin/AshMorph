@@ -128,7 +128,7 @@ define VRootPRQin [
 | "[=airik+INF@VC.][VRoot][=to.hang; to.snatch.sth., to.grab.sth., to.capture (ES: captar)]" : {airik}
 # --------------------------------------------------------------------- 
 ! 
-| "[=aitsokiri+~{'1PL.poss':a}{'egg':/DEL:k/itsoki}{REV:ri}+INF@antsi.][VRoot][=to.castrate (ES: castrar)]" : {aitsokiri}
+| "[=aitsokiri+~{'1PL.poss':a}{R.DEL:k){N:/'egg':kitsoki/}{REV:ri}+INF@antsi.][VRoot][=to.castrate (ES: castrar)]" : {aitsokiri}
 # ---------------------------------------------------
 ! 
 | "[=ak+INF@aantsi.][VRoot][=to.answer.back (ES: contestar, responder)]" : {ak}
@@ -440,7 +440,7 @@ define VRootPRQin [
 # -------------------------------------------
 !
 # ashitaarantinkari / ES: 'rico, millonario'
-| "[=ashitaar{APPL.REAS:ant}+INF@antsi.][VRoot][=to.possess.wealth (ES: tener.riqueza)]" : {ashitaarant} 
+| "[=ashitaarant+~{UNK:ashitaar}{APPL.REAS:ant}+INF@antsi.][VRoot][=to.possess.wealth (ES: tener.riqueza)]" : {ashitaarant} 
 | "[=ashaar{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {ashaarant}
 | "[=ashaag{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {ashaagant}
 | "[=ashar{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {asharant}
