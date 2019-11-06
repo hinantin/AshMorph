@@ -440,7 +440,7 @@ define VRootPRQin [
 # -------------------------------------------
 !
 # ashitaarantinkari / ES: 'rico, millonario'
-| "[=ashitaarant+~{UNK:ashitaar}{APPL.REAS:ant}+INF@antsi.][VRoot][=to.possess.wealth (ES: tener.riqueza)]" : {ashitaarant} 
+| "[=ashitaarant+~{V:/'to.have':ashit/}{UNK:aar}{APPL.REAS:ant}+INF@antsi.][VRoot][=to.possess.wealth (ES: tener.riqueza)]" : {ashitaarant} 
 | "[=ashaarant+~ashaar{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {ashaarant}
 | "[=ashaagant+~ashaag{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {ashaagant}
 | "[=asharant+~ashar{APPL.REAS:ant}+INF@aantsi.][VRoot][=to.prosper (ES: prosperar)]" : {asharant}
