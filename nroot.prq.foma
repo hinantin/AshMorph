@@ -120,8 +120,8 @@ define NRootPRQin [
 ! 
 ! ashitarori otzishipaye / EN: '[spiritual].owners.of.the.hills'
 ! ashitariri eentsi / EN: 'owners.[parents].of.the.children'
-| "[=ashitarori+gndr@m.][NRoot][=owner (ES: dueño);| master-owner.of.(animals|plants|places) (PT: chefe)]" : {ashitarori}
-| "[=ashitariri+gndr@m.][NRoot][=owner (ES: dueño);| master-owner.of.(animals|plants|places) (PT: chefe)]" : {ashitariri}
+| "[=ashitarori+~{V:/'to.have':ashit/}{EP:a}{NMZ:ro}{NMZ:ri}+gndr@m.][NRoot][=owner (ES: dueño);| master-owner.of.(animals|plants|places) (PT: chefe)]" : {ashitarori}
+| "[=ashitariri+~{V:/'to.have':ashit/}{EP:a}{NMZ:ri}{NMZ:ri}+gndr@m.][NRoot][=owner (ES: dueño);| master-owner.of.(animals|plants|places) (PT: chefe)]" : {ashitariri}
 # ---------------------------------------------------------------------
 ! 
 | "[=ashitavo+~{V:/'to.enclose':ashit/}{EP:a}{NMZ:ro}+gndr@n.m.+inal@ntsi.][NRoot][=door (ES: puerta)]" : {ashitavo}
