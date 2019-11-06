@@ -462,6 +462,8 @@ define VRootPRQin [
 | "[=ashireako+~{V:/'to.enclose':ashi/}{REV:re}{APPL.GEN:ako}+INF@/EP:t/aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashireako}
 | "[=ashitary+~{V:/'to.enclose':ashit/}{EP:a}{REV:ry}+INF@aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashitary}
 ! 
+| "[=ashiriako+~{V:/'to.enclose':ashi/}{REV:ri}{APPL.GEN:ako}+INF@/EP:t/aantsi.][VRoot][=to.undo, to.unbuckle (ES: desabrochar)]" : {ashiriako}
+! 
 | "[=ashimintsa+~{V:/'to.enclose':ashi/}{DLMT:mintsa}][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)?]" : {ashimintsa}
 # -------------------------------------------
 ! 
@@ -482,9 +484,6 @@ define VRootPRQin [
 | "[=ashinonk][VRoot][=to.suffer (ES: sufrir); to.be.poor]" : {ashinonk}
 | "[=ashinonka][VRoot][=to.suffer.from.sth.; to.suffer (ES: sufrir)]" : {ashinonka}
 | "[=ashinonkee][VRoot][=to.suffer.from.sth.; to.suffer (ES: sufrir)]" : {ashinonkee}
-# -------------------------------------------
-! 
-| "[=ashiriako+INF@/EP:t/aantsi.][VRoot][=to.undo, to.unbuckle (ES: desabrochar)]" : {ashiriako}
 # -------------------------------------------
 ! 
 # antaitaantsi / ES: 'trepar' 
