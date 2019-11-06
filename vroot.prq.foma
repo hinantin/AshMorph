@@ -454,7 +454,7 @@ define VRootPRQin [
 # -------------------------------------------
 ! 
 | "[=ashi+INF@/EP:t/aantsi.][VRoot][=to.enclose (ES: cerrar)]" : {ashi}
-| "[=ashitako+INF@/EP:t/antsi.][VRoot][=to.lock.sth./sb.in (ES: encerrar(se))]" : {ashitako}
+| "[=ashitako+~{V:/'to.enclose':ashi/}{EP:t}{APPL.GEN:ako}+INF@/EP:t/antsi.][VRoot][=to.lock.sth./sb.in (ES: encerrar(se))]" : {ashitako}
 # -------------------------------------------
 ! 
 | "[=ashitareako+INF@/EP:t/aantsi.][VRoot][=to.open (ES: abrir, destapar)]" : {ashitareako}
