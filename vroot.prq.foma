@@ -3117,7 +3117,7 @@ define VRootPRQin [
 | "[=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar);| to.be.together (ES: tener.pareja);| to.join (ES: juntarse)]" : {tsipa} ! @section:verb@ 
 | "[=tsipat+INF@aantsi.][VRoot][=to.accompany (ES: acompañar); to.join (ES: juntarse); to.combine (ES: combinar)]" : {tsipat}
 !  tsipacontataca / tsipakontataka 
-!| "[=tsipakontataka+~{V:/'to.join':tsipa/}{N:/'sole.of.foot':konta/}{EP:t}{PRF:ak}{REAL:a}][NRoot][=palmiped]" : {tsipakontataka}
+!| "[=tsipakontataka+~{V:/'to.join':tsipa/}{N:/'sole.of.foot':konta/}{EP:t}{PRF:ak}{REAL:a}][NRoot][=palmiped]" : {tsipakontataka} ! @section:noun@ 
 ! 
 | "[=tsipari+~{'to.join':tsipa}{REV:ri}+INF@antsi.][VRoot][=to.harvest.plantain/banana (ES: cosechar.plátano); to.detach (ES: desprender); (ES: repartir)]" : {tsipari}
 ! 
