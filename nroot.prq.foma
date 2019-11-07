@@ -318,7 +318,7 @@ define NRootPRQin [
 | "[=aNpe/ãpe+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ãpe}
 | "[=ampi+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampi}
 | "[=ampehi+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampehi}
-!| "[=ampeeninki+gndr@n.m.][NRoot][=peanut.sp. (ES: sp.de.maní)]" : {ampeeninki}
+!| "[=ampeeninki+~{N:/'cotton':ampee/}{EP:n}{N:/'peanut':inki/}+gndr@n.m.][NRoot][=peanut.sp. (ES: sp.de.maní)]" : {ampeeninki}
 # ------------------------------------------------------------------
 ! paradigms?
 | "[=amporetsa+inal@OPC:ntsi.][NRoot][=intestine (ES: tripa, intestino); animal.innards/entrails (ES: menudencia)]" : {amporetsa}
