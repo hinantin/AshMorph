@@ -69,9 +69,9 @@ define AdvRootPRQin [
 | "[=ironyaka/irõyaka][AdvRoot:CPB][=now (ES: ahora)]" : {irõyaka}
 | "[=ironyaaka][AdvRoot][=now (ES: ahora)][--][-maha][+CNTR]" : {ironyaakamaha}
 ! 
-| "[=kapichekitaite][AdvRoot][=early.morning]" : {kapichekitaite}
-| "[=kapichekitaiteni][AdvRoot][=early.morning]" : {kapichekitaiteni}
-| "[=kapicheni][AdvRoot][=little (ES: poco)]" : {kapicheni}
+| "[=kapichekitaite+~{N:/'little':kapiche/}{N:/'day':kitaite/}][AdvRoot][=early.morning]" : {kapichekitaite}
+| "[=kapichekitaiteni+~{N:/'little':kapiche/}{N:/'day':kitaite/}{ADV:ni}][AdvRoot][=early.morning]" : {kapichekitaiteni}
+| "[=kapicheni+~{N:/'little':kapiche/}{ADV:ni}][AdvRoot][=little (ES: poco)]" : {kapicheni}
 | "[=echonkini][AdvRoot][=little (ES: poco)]" : {echonkini}
 | "[=eechonkini][AdvRoot][=little (ES: poco)]" : {eechonkini}
 ! 
