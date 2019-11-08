@@ -2581,7 +2581,8 @@ define VRootPRQin [
 | "[=shame][VRoot][=to.be.proud/haughty (ES: estar.orgulloso/altivo)]" : {shame}
 # ---------------------------------------------------------------------------
 ! 
-| "[=shemi][VRoot][=to.pound.sth. (e.g.: a.hard.substance)]" : {shemi} ! ideophone???
+| "[=shemi+INF@VC.][VRoot][=to.pound.sth. (e.g.: a.hard.substance; ES: chancar)]" : {shemi} ! ideophone???
+| "[=shemiataantsi+~{V:/'to.pound.sth.':shemi/}{CL:/'liquid':a/}{EP:t}{INF:aantsi}][NRoot][=to.fish.with.stones (ES: pescar.con.piedras)]" : {shemiataantsi} !  ! V@->N::[=fishing.with.stones (ES: pesca.con.piedras)]  @section:verb@ 
 # ---------------------------------------------------------------------------
 ! 
 | "[=sheni][VRoot][=to.be.of.the.same.group]" : {sheni} ! @section:verb@ 
