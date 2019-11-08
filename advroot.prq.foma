@@ -71,6 +71,10 @@ define AdvRootPRQin [
 ! 
 | "[=kapichekitaite][AdvRoot][=early.morning]" : {kapichekitaite}
 | "[=kapichekitaiteni][AdvRoot][=early.morning]" : {kapichekitaiteni}
+| "[=kapicheni][AdvRoot][=little (ES: poco)]" : {kapicheni}
+| "[=echonkini][AdvRoot][=little (ES: poco)]" : {echonkini}
+| "[=eechonkini][AdvRoot][=little (ES: poco)]" : {eechonkini}
+! 
 | "[=koramani][AdvRoot][=in.the.future; later.on; one.day]" : {koramani}
 ! 
 | "[=koahika][AdvRoot][=some.time.later]" : {koahika}
