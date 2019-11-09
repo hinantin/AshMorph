@@ -51,15 +51,17 @@ define ARootPRQin [
 ! 
 | "[=kantaperantzi+gndr@m.][NRoot][=beautiful]" : {kantaperantzi}
 | "[=kantaperanto+gndr@n.m.][NRoot][=beautiful]" : {kantaperanto}
+! ------------------------------------------------------------------
 ! 
-| "[=kapiche][NRoot][=little, small]" : {kapiche}
-| "[=kapichee][NRoot][=little, small]" : {kapichee}
-| "[=kapichi][NRoot][=little, small]" : {kapichi}
-| "[=kapichii][NRoot][=little, small]" : {kapichii}
+| "[=kapiche][NRoot][=little (ES: poco), small]" : {kapiche}
+| "[=kapichee][NRoot][=little (ES: poco), small]" : {kapichee}
+| "[=kapichi][NRoot][=little (ES: poco), small]" : {kapichi}
+| "[=kapichii][NRoot][=little (ES: poco), small]" : {kapichii}
 ! 
-| "[=kapichahi][NRoot][=little]" : {kapichahi}
+| "[=kapichahi][NRoot][=little (ES: poco)]" : {kapichahi}
 ! 
 | "[=kapichoki][AdvRoot][=a.little (ES: poco)]" : {kapichoki}
+! ------------------------------------------------------------------
 ! 
 | "[=kenkivari+gndr@m.][NRoot][=old]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
 | "[=kenkevari+gndr@m.][NRoot][=old]" : {kenkevari} ! N@->V
