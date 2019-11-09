@@ -48,6 +48,7 @@ define ARootPRQin [
 # -----------------------------------------------
 ! 
 | "[=katsimari][NRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]" : {katsimari}
+! ------------------------------------------------------------------
 ! 
 | "[=kantaperantzi+gndr@m.][NRoot][=beautiful]" : {kantaperantzi}
 | "[=kantaperanto+gndr@n.m.][NRoot][=beautiful]" : {kantaperanto}
@@ -122,6 +123,6 @@ define ARootPRQin [
 # kemi tashirentsi / =kemi =tashi -re -ntsi / =pumpkin =to.roast.with.coal -nmz -nposs / EN: 'roasted.pumpkin'
 # shima tashirentsi / =shima =tashi -re -ntsi / =fish =to.roast.with.coal -nmz -nposs / EN: 'roasted.fish'
 # kaniri tashirentsi / =kaniri =tashi -re -ntsi / =yucca =to.roast.with.coal -nmz -nposs / EN: 'roasted.manioc'
-| "[=tashire+gndr@n./m.+inal@ntsi.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashire} 
-| "[=tashiri+gndr@n./m.+inal@ntsi.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashiri} 
+| "[=tashire+~{V:/'tashi':to.roast.with.coal/}{NMZ:re}+gndr@n./m.+inal@ntsi.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashire} 
+| "[=tashiri+~{V:/'tashi':to.roast.with.coal/}{NMZ:ri}+gndr@n./m.+inal@ntsi.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashiri} 
 ];
