@@ -1503,11 +1503,11 @@ define NRootPRQin [
 ! 
 # iraantsi / =iraa -ntsi / =blood -nposs / EN: 'blood', ES: 'sangre'  
 | "[=iraa+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraa} 
-| "[=iraha~{N:/'blood':ira/}{CL:/'liquid':ha/}+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraha} 
+| "[=iraha~{V:/'to.bleed':ira/}{CL:/'liquid':ha/}+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraha} 
 | "[=ira+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
 # ---------------------------------------------------------------------
 ! 
-| "[=irantsipi+gndr@n.m.][NRoot][=sugar.cane.sp.]" : {irantsipi}
+| "[=irantsipi+~{N:/'blood':ira/}{NPOSS:ntsi}{CL:/'cane':pi/}+gndr@n.m.][NRoot][=sugar.cane.sp. (sci.nm.: saccharum.poaceae)]" : {irantsipi}
 # ---------------------------------------------------------------------
 ! 
 | "[=iraari+gndr@n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {iraari}
