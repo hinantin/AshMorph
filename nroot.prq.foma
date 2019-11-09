@@ -1503,7 +1503,7 @@ define NRootPRQin [
 ! 
 # iraantsi / =iraa -ntsi / =blood -nposs / EN: 'blood', ES: 'sangre'  
 | "[=iraa+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraa} 
-| "[=iraha~ira{CL:/'liquid':ha/}+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraha} 
+| "[=iraha~{N:/'blood':ira/}{CL:/'liquid':ha/}+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {iraha} 
 | "[=ira+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]" : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
 # ---------------------------------------------------------------------
 ! 
