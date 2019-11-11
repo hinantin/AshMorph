@@ -66,8 +66,8 @@ $ foma -f asheninka.script
 
 ```
 
-How to download
-===============
+How to download the source code 
+===============================
 
 * Using `wget`
 ```
