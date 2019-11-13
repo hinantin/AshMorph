@@ -14,9 +14,10 @@
 # Morphological values 
 # 0: +~{..}{..}...{..} 
 #    Information on the morphemes of lexicalized entries.
+#    {L.DEL:...} {R.DEL:...} 
 # 1: +gndr@m. (masculine), +gndr@n.m. (not-masculine), +gndr@n./m. (masculine or not-masculine) 
 # 2: +inal@ntsi., +inal@tsi., +inal@n/tsi., +inal@OPC:ntsi. (OPTIONAL)
-# 3: +poss@ne., +poss@nposs.adj.
+# 3: +poss@ne., +poss@nposs.adj 
 # 4: +voc@N., +voc@nposs ?
 #    vocative FLAGS +N (None, main/basic entry that is transformed according to the possessor). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 #    It will be used as follows 1SG:2SG , etc. 
