@@ -1755,9 +1755,9 @@ define VRootPRQin [
 | "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {neanea} ! noneaneatempi
 # ---------------------------------------------------------------------------- 
 ! 
-| "[=neavintsa+INF@/EP:t/VC;/EP:t/agantsi.][VRoot][=to.fornicate (ES: fornicar); to.copulate (ES: copular)]" : {neavintsa}
-! 
+| "[=neavintsa+~{V:/'to.speak':nea/}{DLMT:vintsa}+INF@/EP:t/VC;/EP:t/agantsi.][VRoot][=to.fornicate (ES: fornicar); to.copulate (ES: copular)]" : {neavintsa}
 # ------------------------------------------------------------- 
+! 
 | "[=nyaama/ñaama+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)]" : {nyaama}
 !  
 | "[=neve+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {neve} 
