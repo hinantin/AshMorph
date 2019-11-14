@@ -1792,7 +1792,7 @@ define VRootPRQin [
 ! 
 | "[=nyaashirink/ñaashirink+INF@VC.][VRoot][=to.annoy (ES: molestar, fastidiar)]" : {nyaashirink}
 | "[=nyashirink/ñashirink+INF@VC.][VRoot][=to.annoy (ES: molestar, fastidiar)]" : {nyashirink}
-| "[=oihamintsat][VRoot][=to.annoy]" : {oihamintsat}
+| "[=oihamintsat+~{V:/'to.follow':oiha/}{DLMT:mintsa}{EP:t}][VRoot][=to.annoy]" : {oihamintsat}
 | "[=antamintsa+~{V:/'to.fight':ant/}{EP:a}{DLMT:mintsa}][VRoot][=to.annoy (prbly.with.jokes; ES: molestar.a.algn.); to.accost.sb.; to.have.sexual.relations.with.sb.]" : {antamintsa}
 | "[=antavintsa+~{V:/'to.fight':ant/}{EP:a}{DLMT:vintsa}][VRoot][=to.annoy (prbly.with.jokes)]" : {antavintsa}
 | "[=antan][VRoot][=to.annoy]" : {antan}
