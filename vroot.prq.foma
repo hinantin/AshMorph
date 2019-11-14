@@ -12,7 +12,7 @@
 #    A 'form' is a dialectal variation that might contain morphological operations such as /EP:.../ /DEL:.../ 
 # 2: +tot.redup@unb.copy., +prtl.redup@b.copy.
 # 3: +poss@(a)ane. (nominalizer for abstract nouns formed using the infinitive suffix: -ane, -aane) 
-#    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.
+#    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.*
 
 # 4: +I-Conj@act.v.  <- +prop@t. 
 #    the subject of the sentence is also the agent of the verb 
@@ -1755,7 +1755,7 @@ define VRootPRQin [
 | "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {neanea} ! noneaneatempi
 # ---------------------------------------------------------------------------- 
 ! 
-| "[=neavintsa+INF@/EP:t/VC.][VRoot][=to.fornicate (ES: fornicar)]" : {neavintsa}
+| "[=neavintsa+INF@/EP:t/VC;/EP:t/agantsi.][VRoot][=to.fornicate (ES: fornicar); to.copulate (ES: copular)]" : {neavintsa}
 ! 
 # ------------------------------------------------------------- 
 | "[=nyaama/ñaama+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)]" : {nyaama}
