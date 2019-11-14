@@ -7,6 +7,7 @@
 # LABEL ORDER : 
 # 0: +~{..}{..}...{..} 
 #    Information on the morphemes of lexicalized entries.
+#    {L.DEL:...} {R.DEL:...} 
 # 1: +INF@form1:form2:...:formN. 
 #    A 'form' is a dialectal variation that might contain morphological operations such as /EP:.../ /DEL:.../ 
 # 2: +tot.redup@unb.copy., +prtl.redup@b.copy.
