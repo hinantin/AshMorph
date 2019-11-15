@@ -98,7 +98,7 @@ Then test it on-line at https://hinant.in/
 Spell-checking
 ================
 
-It will be published soon.
+ Test it on-line: https://hinant.in/ckeditor/samples/api.html
 
 For more information
 ====================
