@@ -426,7 +426,7 @@ define N=S=CL [
 | "[--][-pini][+CL:linden][=linden, tree.sp. (ESP: tilo)]" : {pini} 
 #-----------------------------------------------
 ! shintzipatarokia / shintzipa -taro kia 
-| "[--][-taro][+CL:dual][=dual]" : {taro} 
+| "[--][-taro][+CL:dual][=dual]" : {taro} ! @CL 
 #-----------------------------------------------
 ! ES: 'purma'; EN: 'regenerated rain forest in abandoned/at.rest sown field' 
 ! ES: 'purma'; EN: 'secondary forest' 
