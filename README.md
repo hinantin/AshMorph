@@ -13,6 +13,10 @@ It is spoken by approximately 70,000 people (2002).
 Because it is often possible to find a word that combines several word stems with a very specific 
 semantic meaning (noun-incorporation and verbal classifiers).
 
+```
+y=ovetsik-a-Vanko-t-e 
+```
+
 #### Head-marking 
 
 Ashaninka possesses extensive agreement or cross-refencing. Heads such as verbs and nouns agree with 
