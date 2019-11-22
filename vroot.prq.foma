@@ -295,7 +295,7 @@ define VRootPRQin [
 | "[=anii+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.walk (ES: caminar, andar)]::[=to.walk.for_a_long_time]" : {aniianii}
 # --------------------------------------------------------------------------------  
 ! 
-| "[=aniri+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniri}
+| "[=aniri+~{V:/'to.walk':ani/}{REV:ri}+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniri}
 | "[=aniire+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniire}
 | "[=aniiry+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniiry}
 | "[=anire+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {anire}
