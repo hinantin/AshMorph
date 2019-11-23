@@ -296,9 +296,9 @@ define VRootPRQin [
 # --------------------------------------------------------------------------------  
 ! 
 | "[=aniri+~{V:/'to.walk':ani/}{REV:ri}+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniri}
-| "[=aniire+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniire}
-| "[=aniiry+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniiry}
-| "[=anire+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {anire}
+| "[=aniire+~{V:/'to.walk':anii/}{REV:re}+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniire}
+| "[=aniiry+~{V:/'to.walk':anii/}{REV:ry}+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniiry}
+| "[=anire+~{V:/'to.walk':ani/}{REV:re}+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {anire}
 ! 
 | "[=ayii+INF@/EP:t/aantsi.][VRoot][=to.go.down, to.descend (ES: bajar, descender)]" : {ayii}
 | "[=oyii+INF@/EP:t/aantsi.][VRoot][=to.go.down, to.descend (ES: bajar, descender)]" : {oyii}
