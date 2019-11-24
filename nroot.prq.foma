@@ -3622,7 +3622,8 @@ define NRootPRQin [
 | "[=morinaki][NRoot][=castor-oil.plant.seed (its.leaves.are.used.to.kill.chicken_lice; ES: semilla.de.ricino; sc.nm.: ricinus.communis)]" : {morinaki}
 # ----------------------------------------------------------------- 
 ! 
-| "[=morinashi][NRoot][=leaves.to.evaporate (ES: hojas.para.evaporar)]" : {morinashi}
+| "[=morina][NRoot][=plant.sp (ES: sp.de.planta)]" : {morina}
+| "[=morinashi+~{N:/'plant.sp.':morina/}{CL:/'leaf':shi/}][NRoot][=leaves.to.evaporate (ES: hojas.para.evaporar)]" : {morinashi}
 # ----------------------------------------------------------------- 
 ! 
 ! ikemamorintetakeri  
