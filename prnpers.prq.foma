@@ -170,8 +170,8 @@ define PrnPersPRQin [
 | "[=ainti+pragm.func@CONTR.cnt.assert.TOP.+num@1SG][PrnPers][=I]" : {ainti}
 | "[=avinti+pragm.func@CONTR.cnt.assert.TOP.+num@2SG][PrnPers][=you]" : {avinti}
 | "[=irointi+pragm.func@CONTR.cnt.assert.TOP.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella); she…on.her.own (ES: ella.sola)]" : {irointi}
-| "[=irinti+pragm.func@CONTR.cnt.assert.TOP.+num@3SG+gndr@m.][PrnPers][=he; he…on.his.own (ES: él.solo)]" : {irinti}
-| "[=iriinti+pragm.func@CONTR.cnt.assert.TOP.+num@3SG+gndr@m.][PrnPers][=he]" : {iriinti}
+| "[=irinti+pragm.func@CONTR.cnt.assert.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él); he…on.his.own (ES: él.solo)]" : {irinti}
+| "[=iriinti+pragm.func@CONTR.cnt.assert.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]" : {iriinti}
 | "[=arointi+pragm.func@CONTR.cnt.assert.TOP.+num@1PL][PrnPers][=…]" : {arointi}
 ! 
 | "[=naintsi+pragm.func@CONTR.d.TOP.+num@1SG.EXCL][PrnPers][=][--][=ma][+DUB]" : {naintsima} ! I.C.F.=DUB !@ANALYZED
