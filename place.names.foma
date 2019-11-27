@@ -101,7 +101,7 @@ define NRootPLACESin [
 ! 
 | "[=tsamirimenta+sem@NP.place][NRoot][=rock.outcroppings.of.conical.shape.where.the.Master-Owner.of.tsamiri/curassows.resided.in.the.past]" : {tsamirimenta}
 ! 
-| "[=tsipishironi+sem@NP.place][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant]" : {tsipishironi}
+| "[=tsipishironi+~{N:/'squirrel.monkey':tsipi/}{CL:'leaf':shi}{NMZ:ro}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant]" : {tsipishironi}
 | "[=pichiroki+sem@NP.place][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant]" : {pichiroki}
 ! 
 | "[=la_merced+sem@NP.place][NRoot][=the.place.where.tsiirishi/plant_sp.is.abundant]" : {la_merced}
