@@ -92,7 +92,7 @@ define NRootPLACESin [
 | "[=sotzini+sem@NP.place][NRoot][=PLACE.NAME]" : {sotzini}
 | "[=zotziki+sem@NP.place][NRoot][=PLACE.NAME]" : {zotziki}
 ! 
-| "[=teroritoni+sem@NP.place][NRoot][=the.hill.with.a.stream.inhabited.by.terori/macaw.in.its.upper.part]" : {teroritoni}
+| "[=teroritoni+~{N:/'macaw':terori/}{L.DEL:i}{CL:/'upper.part':ito/}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.hill.with.a.stream.inhabited.by.terori/macaw.in.its.upper.part]" : {teroritoni}
 ! 
 | "[=tonkitsini+~{N:/'bone':tonki/}{NPOSS:tsi}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.rock.with.many.bones (the.place.was.inhabited.by.kamari/bonebreaking_demonic_creature.which.kills.by.dismembering.victims'.bodies)]" : {tonkitsini}
 ! 
