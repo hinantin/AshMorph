@@ -117,7 +117,7 @@ define NRootPLACESin [
 | "[=tzivanarini+sem@NP.place][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance]" : {tzivanarini}
 | "[=chivanari+sem@NP.place][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance]" : {chivanari}
 ! 
-| "[=tziviarini+sem@NP.place][NRoot][=the.river.with.salt.deposits]" : {tziviarini}
+| "[=tziviarini+~{N:/'salt':tzivi/}{CL:/'liquid':a/}{NMZ:ri}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.river.with.salt.deposits]" : {tziviarini}
 | "[=paucartambo+sem@NP.place][NRoot][=the.river.with.salt.deposits]" : {paucartambo}
 ! 
 | "[=alto_huacamayo+sem@NP.place][NRoot][=Upper.Parrot/river_spirit?/sacred_river (ES: guacamayo.jacinto; sci.nm.: Anodorhynchus.hyacinthinus; QU: waka.mayu)]" : {alto_huacamayo}
