@@ -111,8 +111,8 @@ define NRootPLACESin [
 ! 
 | "[=tsomontoniki+sem@NP.place][NRoot][=the.cliff.where.a.big-bellied.man.resides]" : {tsomontoniki}
 ! 
-| "[=tsotani+sem@NP.place][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones)]" : {tsotani}
-| "[=zotani+sem@NP.place][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones)]" : {zotani}
+| "[=tsotani+~{V:/'to.suck':tso/}{EP:t}{CL:/'liquid':a/}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones)]" : {tsotani}
+| "[=tsotani/zotani+~{V:/'to.suck':tso/}{EP:t}{CL:/'liquid':a/}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones)]" : {zotani}
 ! 
 | "[=tzivanarini+sem@NP.place][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance]" : {tzivanarini}
 | "[=chivanari+sem@NP.place][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance]" : {chivanari}
