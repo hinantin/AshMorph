@@ -114,7 +114,7 @@ define NRootPLACESin [
 | "[=tsotani+~{V:/'to.suck':tso/}{EP:t}{CL:/'liquid':a/}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones)]" : {tsotani}
 | "[=tsotani/zotani+~{V:/'to.suck':tso/}{EP:t}{CL:/'liquid':a/}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.river.where.shima/chupadora.is.abundant (the.fish.which.feeds.by.sucking.on.plant.matter.growing.on.the.river.stones)]" : {zotani}
 ! 
-| "[=tzivanarini+sem@NP.place][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance]" : {tzivanarini}
+| "[=tzivanarini+~{N:/'pineapple':tzivana/}{NMZ:ri}{N:/'watercourse':ni/}+sem@NP.place][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance]" : {tzivanarini}
 | "[=chivanari+sem@NP.place][NRoot][=the.stream.on.whose.banks.wild.pineapple.plant.grows.in.abundance]" : {chivanari}
 ! 
 | "[=tziviarini+~{N:/'salt':tzivi/}{CL:/'liquid':a/}{NMZ:ri}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.river.with.salt.deposits]" : {tziviarini}
