@@ -84,7 +84,7 @@ define NRootPLACESin [
 | "[=san_ramon+sem@NP.place][NRoot][=the.river.where.shimashiri/Pino_chuncho/tree_sp.is.abundant]" : {san_ramon}
 | "[=shinari+sem@NP.place][NRoot][=the.place.where.shina/kapok_tree.grows.in.abundance]" : {shinari}
 | "[=bajo_chirani+sem@NP.place][NRoot][=the.place.where.shina/kapok_tree.grows.in.abundance]" : {bajo_chirani}
-| "[=shintoriato+sem@NP.place][NRoot][=the.hill.inhabited.by.numerous.shintori/wild_pig.in.its.upper.part.a.stream]" : {shintoriato}
+| "[=shintoriato+~{N:/'wild.pig':shintori/}{CL:/'liquid':a/}{R.DEL:i}{CL:/'upper.part':ito/}+sem@NP.place][NRoot][=the.hill.inhabited.by.numerous.shintori/wild_pig.in.its.upper.part.a.stream]" : {shintoriato}
 ! 
 | "[=shivitsaari+~{N:/'liana':shivitsa/}{CL:/'liquid':a/}{NMZ:ri}+sem@NP.place][NRoot][=the.stream.whose.banks.are.replete.with.shivitsa/liana (useful.in.house.construction)]" : {shivitsaari}
 | "[=shivitsaarini+~{N:/'liana':shivitsa/}{CL:/'liquid':a/}{NMZ:ri}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.stream.whose.banks.are.replete.with.shivitsa/liana (useful.in.house.construction)]" : {shivitsaarini}
