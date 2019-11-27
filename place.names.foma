@@ -94,7 +94,7 @@ define NRootPLACESin [
 ! 
 | "[=teroritoni+sem@NP.place][NRoot][=the.hill.with.a.stream.inhabited.by.terori/macaw.in.its.upper.part]" : {teroritoni}
 ! 
-| "[=tonkitsini+sem@NP.place][NRoot][=the.rock.with.many.bones (the.place.was.inhabited.by.kamari/bonebreaking_demonic_creature.which.kills.by.dismembering.victims'.bodies)]" : {tonkitsini}
+| "[=tonkitsini+~{N:/'bone':tonki/}{NPOSS:tsi}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.rock.with.many.bones (the.place.was.inhabited.by.kamari/bonebreaking_demonic_creature.which.kills.by.dismembering.victims'.bodies)]" : {tonkitsini}
 ! 
 | "[=toterani+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant]" : {toterani}
 | "[=totzirani+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant]" : {totzirani}
