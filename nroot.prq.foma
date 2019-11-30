@@ -1181,7 +1181,7 @@ define NRootPRQin [
 | "[=iipatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {iipatsa}
 | "[=inapatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {inapatsa}
 | "[=iinapatsa+inal@ntsi.][NRoot][=brain (ES: cerebro); brains (ES: sesos)]" : {iinapatsa}
-!| "[=patsane+inal@ntsi.][NRoot][=brain (ES: cerebro)]" : {patsane}
+!| "[=patsane+~{CL:/'jelly-like.substance':patsa/}{L.DEL:a}{INTNS:a}{POSS:ne}+inal@ntsi.][NRoot][=brain (ES: cerebro)]" : {patsane} ! @section:noun@ 
 # ------------------------------------------------------------------
 ! 
 | "[=heto+gndr@m.][NRoot][=spider (pronunc.: [ˈhɛtʊ]; ES: araña; PT: aranha)]" : {heto}
@@ -6533,8 +6533,8 @@ define NRootPRQin [
 | "[=tsantsana][NRoot][=wide (ES: amplio)]" : {tsantsana} ! @VCMP 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsatane+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsatane}
-| "[=tsatani+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsatani}
+| "[=tsatane+~{V:/'to.tie':tsa/}{INTNS:a}{POSS:ne}+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsatane}
+| "[=tsatani+~{V:/'to.tie':tsa/}{INTNS:a}{POSS:ni}+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsatani}
 | "[=tsataireki+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsataireki}
 # ------------------------------------------------------------------------------ 
 ! 
