@@ -2717,8 +2717,8 @@ define VRootPRQin [
 !| "[=shitzik][VRoot][=to.weave (ES: tejer); to.thatch.a_house/the_walls_of_a_home.with.tree_leaves (ES: tejer.(casa))]" : {shitzik}
 | "[=shirik+INF@VC.][VRoot][=to.sew.sth (ES: tejer; coser), to.thatch.a_house/the_walls_of_a_home.with.tree_leaves (ES: tejer.(casa)); to.tie.sth. (ES: amarrar)]" : {shirik}
 ! 
-| "[=ontya][VRoot][=to.weave (ES: tejer)]" : {ontya}
-| "[=onty][VRoot][=to.weave (ES: tejer)]" : {onty}
+| "[=ontya+INF@/DEL:a/gaantsi.][VRoot][=to.weave (ES: tejer)]" : {ontya}
+| "[=onty+INF@agaantsi.][VRoot][=to.weave (ES: tejer)]" : {onty}
 # ----------------------------------------------------------------------
 ! 
 ! shitowaantsi / shitovaantsi / =shitov -aantsi / =to.leave -inf / EN: 'to.leave' 
