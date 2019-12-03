@@ -2602,7 +2602,7 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 # shavitahi / =shavi -t -ah -i / =to.be.afternoon -ep -regr -irr 
-| "[=shavi][VRoot][=to.be.afternoon]" : {shavi}
+| "[=shavi+INF@/EP:t/VC][VRoot][=to.be.afternoon]" : {shavi}
 # Shaabityaji 
 !| "[=shaavity+~{V:/'to.be.afternoon':shaavi/}{L.DEL:i}{UNK:ity}+INF@VC.][VRoot][=to.be.afternoon]" : {shaaviity} ! @section:verb@ 
 # ---------------------------------------------------------------------------
