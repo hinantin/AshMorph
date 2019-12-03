@@ -2629,11 +2629,11 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=shima+INF@/EP:t/aantsi.][VRoot][=to.fish (ES: pescar); to.catch.fish]" : {shima}
-| "[=shimaa+~shima{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.fish; to.catch.fish]" : {shimaa}
+| "[=shimaa+~{N:/'fish':shima/}{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.fish (ES: pescar); to.catch.fish]" : {shimaa}
 # ---------------------------------------------------------------------------
 ! 
-| "[=shimpi][VRoot][=to.fish.with.a.fish_trap]" : {shimpi}
-| "[=shimpe][VRoot][=to.fish.with.a.fish_trap]" : {shimpe}
+| "[=shimpi+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.fish_trap (ES: atrapar.peces.con.trampa)]" : {shimpi}
+| "[=shimpe+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.fish_trap]" : {shimpe}
 # ---------------------------------------------------------------------------
 ! 
 | "[=shini][VRoot][=to.allow (ES: permitir)]" : {shini}
