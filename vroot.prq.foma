@@ -2655,12 +2655,12 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 ! shintsiri / =shintsi -ri / =to.be.strong -nmz / EN: 'robust, sturdy'; ES: 'robusto' 
-| "[=shintsi][VRoot][=to.be.strong]" : {shintsi}
+| "[=shintsi+INF@/EP:t/aantsi.][VRoot][=to.be.strong]" : {shintsi}
 ! shintsitsaro / =shintsi -tsa -ro+n.m. / =to.be.strong -cl:long.flexible.thin -nmz / EN: 'exclamation.mark'; ES: 'signo.de.admiración'
 !| "[=shintsitsaro+~{V:/'to.be.strong':shintsi/}{CL:/'long.flexible.thin':tsa/}{NMZ:ro}][NRoot][=exclamation.mark (ES: signo.de.admiración)]" : {shintsitsaro} ! @section:noun@ 
 # ---------------------------------------------------------------------------
 ! 
-| "[=shintsi][VRoot][=to.be.quick, to.be.fast]" : {shintsi}
+| "[=shintsi+INF@/EP:t/aantsi.][VRoot][=to.be.quick, to.be.fast]" : {shintsi}
 # ---------------------------------------------------------------------------
 ! 
 | "[=shintsivent][VRoot][=to.compel.sb.to.do.sth.; to.impose.an.obligation.on/upon.sb.]" : {shintsivent}
