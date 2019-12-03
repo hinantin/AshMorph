@@ -2607,16 +2607,16 @@ define VRootPRQin [
 !| "[=shaavity+~{V:/'to.be.afternoon':shaavi/}{L.DEL:i}{UNK:ity}+INF@VC.][VRoot][=to.be.afternoon]" : {shaaviity} ! @section:verb@ 
 # ---------------------------------------------------------------------------
 ! 
-| "[=shavoki][VRoot][=to.dance (ES: bailar)]" : {shavoki}
-| "[=amashee][VRoot][=to.dance (ES: danzar, bailar)]" : {amashee}
-| "[=amashai][VRoot][=to.dance (ES: danzar, bailar)]" : {amashai}
+| "[=shavoki+INF@/EP:t/aantsi.][VRoot][=to.dance (ES: bailar)]" : {shavoki}
+| "[=amashee+INF@/EP:t/aantsi.][VRoot][=to.dance (ES: danzar, bailar)]" : {amashee}
+| "[=amashai+INF@/EP:t/aantsi.][VRoot][=to.dance (ES: danzar, bailar)]" : {amashai}
 # ---------------------------------------------------------------------------
 ! 
-| "[=shenka][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shenka}
-| "[=shinka][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shinka}
+| "[=shenka+INF@aantsi.][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shenka}
+| "[=shinka+INF@aantsi.][VRoot][=to.cry.a.lot; to.sob (ES: sollozar)]" : {shinka}
 # ---------------------------------------------------------------------------
 ! 
-| "[=shent][VRoot][=to.take.care (ES: vigilar)]" : {shent}
+| "[=shent+INF@aantsi.][VRoot][=to.take.care (ES: vigilar)]" : {shent}
 # ---------------------------------------------------------------------------
 ! 
 | "[=shet+INF@aantsi.][VRoot][=to.clean (ES: limpiar), to.wipe (ES: borrar)]" : {shet}
