@@ -2637,7 +2637,7 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=shini][VRoot][=to.allow (ES: permitir)]" : {shini}
-| "[=shine][VRoot][=to.allow (ES: permitir)]" : {shine}
+| "[=shine+INF@/EP:t/VC.][VRoot][=to.allow (ES: permitir)]" : {shine}
 # ---------------------------------------------------------------------------
 ! 
 | "[=shinki+INF@/EP:t/(a)antsi.][VRoot][=to.get.drunk (ES: emborrachar, embriagar(se)); to.intoxicate]" : {shinki}
