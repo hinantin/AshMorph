@@ -161,17 +161,20 @@ define AdvRootPRQ=SET1 [
 define AdvRootPRQ=SET2 [
 # intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
   "[=intsomoe][AdvRoot][=inside (ES: adentro)]" : {intsomoe} 
-| "[=intsomoeki][AdvRoot][=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
+| "[=itsompae][AdvRoot][=inside (ES: adentro)]" : {itsompae} 
+| "[=intsompae][AdvRoot][=inside (ES: adentro)]" : {intsompae} 
+| "[=intsompai][AdvRoot][=inside (ES: adentro)]" : {intsompai} 
+| "[=intsompai][AdvRoot][=inside (ES: adentro)]" : {intsompai} 
+! 
+| "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-ki][Cas][+LOC_LOC.T]::[=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
 | "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomoenta} 
 | "[=intsomoi][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]::[= (profundo,, adentro)]" : {intsomointa} 
 | "[=intsomai][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomainta} 
 | "[=intsomae][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomaenta} 
-| "[=intsompaiki][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsompaikinta} 
-| "[=itsompae][AdvRoot][=inside (ES: adentro)]" : {itsompae} 
+| "[=intsompai][AdvRoot][=inside (ES: adentro)][--][-ki][Cas][+LOC_LOC.T][--][-nta+distal][Adv][+DEM]" : {intsompaikinta} 
+! 
 !| "[=itsompaesato+~{ADV:/'inside':itsompae/}{CL:/'provenance':sato/}][NRoot][=subterranean (ES: subterránea)]" : {itsompaesato} 
 !| "[=itsompaesati+~{ADV:/'inside':itsompae/}{CL:/'provenance':sati/}][NRoot][=subterranean (ES: subterránea)]" : {itsompaesati} 
-| "[=intsompae][AdvRoot][=inside (ES: adentro)]" : {intsompae} 
-| "[=intsompai][AdvRoot][=inside (ES: adentro)]" : {intsompai} 
 ];
 
 define AdvRootPRQin [ [AdvRootPRQ=SET1] | [AdvRootPRQ=SET2] ];
