@@ -33,7 +33,10 @@ define AdvRootPRQin [
 | "[=intsomae][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomaenta} 
 | "[=intsompaiki][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsompaikinta} 
 | "[=itsompae][AdvRoot][=inside (ES: adentro)]" : {itsompae} 
+!| "[=itsompaesato][NRoot][=subterranean (ES: subterránea)]" : {itsompaesato} 
+!| "[=itsompaesati][NRoot][=subterranean (ES: subterránea)]" : {itsompaesati} 
 | "[=intsompae][AdvRoot][=inside (ES: adentro)]" : {intsompae} 
+| "[=intsompai][AdvRoot][=inside (ES: adentro)]" : {intsompai} 
 ! 
 # kitziroini / =kitzi -roini / =first -only / EN: 'first' 
 # The -roini suffix is not productive. 

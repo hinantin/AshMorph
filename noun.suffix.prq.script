@@ -281,8 +281,8 @@ define N=S=CL [
 # kamantsinaro / =kamantsi -naro / =flu -cl:consumer.of.sth. / EN: 'snotty.female'; ES: 'mocosa' 
 # cocanari / kokanari / =kuka -nari / EN: 'coca-leaf.trader, coca-grower/farmer'; ES: 'cocalero'
 
-| "[--][-nari+m.][+CL:consumer.of.sth.][=consumer.of.sth.]" : {nari} 
-| "[--][-naro+n.m.][+CL:consumer.of.sth.][=consumer.of.sth.]" : {naro} 
+| "[--][-nari+gndr@m.][+CL:consumer.of.sth.][=consumer.of.sth.]" : {nari} 
+| "[--][-naro+gndr@n.m.][+CL:consumer.of.sth.][=consumer.of.sth.]" : {naro} 
 ! 
 # ashiromoko / =acero -moko / =steel -cl:spherical,small / EN: 'steel.ladle', ES: 'cucharón.de.fierro' 
 | "[--][-moko][+CL:spherical,small][=spherical,small]" : {moko} 
@@ -321,7 +321,7 @@ define N=S=CL [
 | "[--][-hempeki][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {hempeki} 
 
 # this classifier tends to change the gender to n.m. of the nominal roots to which it is adhered.
-| "[--][-i^venki+n.m.][+CL:magic.plant][=magic.plant,piripiri-plant]" : {venki} 
+| "[--][-/DEL:i/venki+gndr@n.m.][+CL:magic.plant][=magic.plant,piripiri-plant]" : {venki} 
 
 # collateral relation 
 # pabachori / pavachori / =pava -chori / =dad -cl:distant.kin / EN: 'uncle'; ES: 'tío'  
@@ -378,21 +378,21 @@ define N=S=CL [
 ! obenijati / ovenihati / =oveni -hati / =Unini.river -cl:provenance / EN: 'Unini.inhabitant'; ES: 'comunero.de.Unini'
 ! ASHENIKA AMOYSATSI / ASHENĨKA AMÕYASATSI / a- =sheni -nka ** =amõya -satsi / 1pl.poss- =to.be.of.the.same.group -nmz ** =Amonia.river -cl:provenance / PT: 'KAMPA.DO.RIO.AMÔNIA'
 ! Apitantoni-jatzi / apitantonihatzi / =apitantoni -hatzi / =Egypt -cl:provenance  
-| "[--][-sati+m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {sati} 
-| "[--][-satzi+m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {satzi} ! @CL  
-| "[--][-hati+m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hati} 
-| "[--][-hatzi+m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hatzi} 
-| "[--][-hatsi+m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hatsi} 
-| "[--][-satsi+m.][NS:CPB][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {satsi} 
+| "[--][-sati+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {sati} 
+| "[--][-satzi+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {satzi} ! @CL  
+| "[--][-hati+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hati} 
+| "[--][-hatzi+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hatzi} 
+| "[--][-hatsi+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hatsi} 
+| "[--][-satsi+gndr@m.][NS:CPB][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {satsi} 
 ! tsinanepaye saikayitatsiri antamisatoki / =tsinane -paye ** =saik -a -yi -t -atsi -ri ** =antami -sato+n.m. -ki / 
 ! =woman -pl ** =to.be -ep -dist -ep -stat -rel ** =forest -cl:deriving.location.names -loc / EN: 'female.inhabitant.from.the.forest'  
 ! ora ashitari nijasato / ora ashitari nihasato / =ora ** =ashi -t -a -ri ** =niha -sato / =that ** =to.have -ep -real -rel ** =water -cl:deriving.location.names / ES: 'del.recurso.hídrico'; EN: 'of.the.water.resource'
 ! paashinijatopaeni / paashinihatopaeni / =paashini -hato -paeni / =other -cl:provenance -pl / EN: 'from.different.things'; ES: 'de.diferentes' 
 ! inkarisato / =inkari -sato / =lake -cl:provenance / ES: 'zona.marino-costera' 
 ! Apitantoni-jato / apitantonihato / =apitantoni -hato / =Egypt -cl:provenance  
-| "[--][-ato+n.m.][NS][+CL:human.provenance][=deriving.location.names]" : {ato} 
-| "[--][-sato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {sato} 
-| "[--][-hato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {hato} 
+| "[--][-ato++gndr@n.m.][NS][+CL:human.provenance][=deriving.location.names]" : {ato} 
+| "[--][-sato+gndr@n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {sato} 
+| "[--][-hato++gndr@n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {hato} 
 #-----------------------------------------------
 | "[--][-sani][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sani} 
 | "[--][-sanii][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sanii} 
@@ -502,8 +502,8 @@ define N=S=CL [
 ! tsiteniberi / tsiteniveri / =tsiteni -veri / =night -cl:agentive / ES: 'nocturno'  
 ! osarentsiweri / osarentsiveri / =osarentsi -veri / =year -cl:agentive / EN: 'annual'   
 ! shirincaveri / shirinkaveri / =shirinka -veri / =rubber -cl:agentive / ES: 'cauchero'
-| "[--][-veri+m.][+CL:agentive][=agentive;inhabitant,provenance (sb.from.some.place)]" : {veri}
-| "[--][-vero+n.m.][+CL:agentive][=agentive;inhabitant,provenance (sb.from.some.place)]" : {vero}
+| "[--][-veri+gndr@m.][+CL:agentive][=agentive;inhabitant,provenance (sb.from.some.place)]" : {veri}
+| "[--][-vero+gndr@n.m.][+CL:agentive][=agentive;inhabitant,provenance (sb.from.some.place)]" : {vero}
 #-----------------------------------------------
 ! 
 | "[--][-mo][+CL:hole][=hole]" : {mo}
@@ -854,9 +854,9 @@ define N=S=NMZ [
 ! 
 # apakotaro / =apa -kota -ro / =one -cl:piece -nmz / EN: 'one.piece'  
 # parenkawo / parenkavo / =pare -nka -vo / =to.fall -nmz -nmz / EN: 'waterfall'; ES: 'caída.de.agua'  
-| "[--][-ri+m.][NS][+NMZ]" : [{ri}]
-| "[--][-ro+n.m.][NS][+NMZ]" : [{ro}]
-| "[--][-vo+n.m.][NS][+NMZ]" : [{vo}]
+| "[--][-ri+gndr@m.][NS][+NMZ]" : [{ri}]
+| "[--][-ro+gndr@n.m.][NS][+NMZ]" : [{ro}]
+| "[--][-vo+gndr@n.m.][NS][+NMZ]" : [{vo}]
 ];
                    
 # ****************************************
