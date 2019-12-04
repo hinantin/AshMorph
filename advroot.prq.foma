@@ -32,15 +32,6 @@ define AdvRootPRQ=SET1 [
 | "[=ketziroeni][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketziroeni}
 | "[=kitziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {kitziroini}
 ! 
-| "[=intsompoi+loc.][AdvRoot][=inside]" : {intsompoi}
-| "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
-| "[=intsompaikira+loc.][AdvRoot][=inside]" : {intsompaikira}
-| "[=intsompoikinta+loc.][AdvRoot][=inside]" : {intsompoikinta}
-| "[=intsompoiki+loc.][AdvRoot][=inside]" : {intsompoiki}
-! 
-| "[=intakiro][AdvRoot][=inside]" : {intakiro}
-| "[=intsompoi][AdvRoot][=inside]" : {intsompoi}
-! 
 | "[=otapinaki][AdvRoot][=under (ES: debajo.(de))]" : {otapinaki} 
 ! 
 | "[=imponya][AdvRoot][=CONN (EN: then, afterwards)]" : {imponya}
@@ -167,7 +158,15 @@ define AdvRootPRQ=SET2 [
 | "[=itsompae][AdvRoot][=inside (ES: adentro)]" : {itsompae} 
 | "[=intsompae][AdvRoot][=inside (ES: adentro)]" : {intsompae} 
 | "[=intsompai][AdvRoot][=inside (ES: adentro)]" : {intsompai} 
+| "[=intsompoi+loc.][AdvRoot][=inside]" : {intsompoi}
 ! 
+| "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
+!| "[=intsompaikira+loc.][AdvRoot][=inside]" : {intsompaikira}
+!| "[=intsompoikinta+loc.][AdvRoot][=inside]" : {intsompoikinta}
+!| "[=intsompoiki+loc.][AdvRoot][=inside]" : {intsompoiki}
+! 
+| "[=intakiro][AdvRoot][=inside]" : {intakiro}
+!| "[=intsompoi][AdvRoot][=inside]" : {intsompoi}
 !| "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-ki][Cas][+LOC_LOC.T]::[=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
 !| "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomoenta} 
 !| "[=intsomoi][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]::[= (profundo,, adentro)]" : {intsomointa} 
