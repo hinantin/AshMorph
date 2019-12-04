@@ -177,6 +177,11 @@ define AdvRootPRQ=SET2 [
 !| "[=itsompaesati+~{ADV:/'inside':itsompae/}{CL:/'provenance':sati/}][NRoot][=subterranean (ES: subterránea)]" : {itsompaesati} 
 ];
 
+source n-s-loc.foma
+source n-s-dem.foma
+
+
+
 define AdvRootPRQin [ [AdvRootPRQ=SET1] | [AdvRootPRQ=SET2] ];
 
 # ##############################
