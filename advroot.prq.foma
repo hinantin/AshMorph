@@ -1,4 +1,4 @@
-define AdvRootPRQin [
+define AdvRootPRQ=SET1 [
   "[=apaata][AdvRoot][=later]" : {apaata}
 | "[=apaata][AdvRoot][=soon]" : {apaata}
 | "[=apaatatziro][AdvRoot][=later]" : {apaatatziro}
@@ -23,20 +23,6 @@ define AdvRootPRQin [
 | "[=inkaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaranki}
 | "[=inkaaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaaranki}
 | "[=inkaranki][AdvRoot][=some.time.ago; a.short.while.ago, earlier]" : {inkaranki}
-! 
-# intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
-| "[=intsomoe][AdvRoot][=inside (ES: adentro)]" : {intsomoe} 
-| "[=intsomoeki][AdvRoot][=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
-| "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomoenta} 
-| "[=intsomoi][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]::[= (profundo,, adentro)]" : {intsomointa} 
-| "[=intsomai][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomainta} 
-| "[=intsomae][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomaenta} 
-| "[=intsompaiki][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsompaikinta} 
-| "[=itsompae][AdvRoot][=inside (ES: adentro)]" : {itsompae} 
-!| "[=itsompaesato+~{ADV:/'inside':itsompae/}{CL:/'provenance':sato/}][NRoot][=subterranean (ES: subterránea)]" : {itsompaesato} 
-!| "[=itsompaesati+~{ADV:/'inside':itsompae/}{CL:/'provenance':sati/}][NRoot][=subterranean (ES: subterránea)]" : {itsompaesati} 
-| "[=intsompae][AdvRoot][=inside (ES: adentro)]" : {intsompae} 
-| "[=intsompai][AdvRoot][=inside (ES: adentro)]" : {intsompai} 
 ! 
 # kitziroini / =kitzi -roini / =first -only / EN: 'first' 
 # The -roini suffix is not productive. 
@@ -171,6 +157,24 @@ define AdvRootPRQin [
 ! 
 | "[=arinironka][AdvRoot][=more.or.less (ES: más.o.menos); ineffectually]" : {arinironka}
 ];
+
+define AdvRootPRQ=SET2 [
+# intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
+  "[=intsomoe][AdvRoot][=inside (ES: adentro)]" : {intsomoe} 
+| "[=intsomoeki][AdvRoot][=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
+| "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomoenta} 
+| "[=intsomoi][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]::[= (profundo,, adentro)]" : {intsomointa} 
+| "[=intsomai][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomainta} 
+| "[=intsomae][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomaenta} 
+| "[=intsompaiki][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsompaikinta} 
+| "[=itsompae][AdvRoot][=inside (ES: adentro)]" : {itsompae} 
+!| "[=itsompaesato+~{ADV:/'inside':itsompae/}{CL:/'provenance':sato/}][NRoot][=subterranean (ES: subterránea)]" : {itsompaesato} 
+!| "[=itsompaesati+~{ADV:/'inside':itsompae/}{CL:/'provenance':sati/}][NRoot][=subterranean (ES: subterránea)]" : {itsompaesati} 
+| "[=intsompae][AdvRoot][=inside (ES: adentro)]" : {intsompae} 
+| "[=intsompai][AdvRoot][=inside (ES: adentro)]" : {intsompai} 
+];
+
+define AdvRootPRQin [ [AdvRootPRQ=SET1] | [AdvRootPRQ=SET2] ];
 
 # ##############################
 #         Abbreviations         
