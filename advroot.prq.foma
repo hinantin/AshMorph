@@ -151,14 +151,14 @@ define AdvRootPRQ=SET1 [
 
 define AdvRootPRQ=SET2 [
 # intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
-  "[=intsomoe][AdvRoot][=inside (ES: adentro)]" : {intsomoe} 
-| "[=intsomoi][AdvRoot][=inside (ES: adentro)]" : {intsomoi} 
-| "[=intsomae][AdvRoot][=inside (ES: adentro)]" : {intsomae} 
-| "[=intsomai][AdvRoot][=inside (ES: adentro)]" : {intsomai} 
-| "[=itsompae][AdvRoot][=inside (ES: adentro)]" : {itsompae} 
-| "[=intsompae][AdvRoot][=inside (ES: adentro)]" : {intsompae} 
-| "[=intsompai][AdvRoot][=inside (ES: adentro)]" : {intsompai} 
-| "[=intsompoi+loc.][AdvRoot][=inside]" : {intsompoi}
+  "[=intsomoe][AdvRoot][=inside (ES: adentro, dentro)]" : {intsomoe} 
+| "[=intsomoi][AdvRoot][=inside (ES: adentro, dentro)]" : {intsomoi} 
+| "[=intsomae][AdvRoot][=inside (ES: adentro, dentro)]" : {intsomae} 
+| "[=intsomai][AdvRoot][=inside (ES: adentro, dentro)]" : {intsomai} 
+| "[=itsompae][AdvRoot][=inside (ES: adentro, dentro)]" : {itsompae} 
+| "[=intsompae][AdvRoot][=inside (ES: adentro, dentro)]" : {intsompae} 
+| "[=intsompai][AdvRoot][=inside (ES: adentro, dentro)]" : {intsompai} 
+| "[=intsompoi+loc.][AdvRoot][=inside (ES: adentro, dentro)]" : {intsompoi}
 ! 
 | "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
 !| "[=intsompaikira+loc.][AdvRoot][=inside]" : {intsompaikira}
