@@ -101,7 +101,7 @@ define N=S=ABS [
                    
 # ****************************************
                    
-define N=S=CL [
+define N=S=CL=SET1 [
 # -chari~-chaari: grassy bottom of the river; zone.inhabited by the rainbow spirit oye  
   "[--][-chaari][+CL:dark.water][=dark.water; grassy.bottom.of.the.river]" : {chaari} 
 | "[--][-chari][+CL:dark.water][=dark.water; grassy.bottom.of.the.river]" : {chari} 
@@ -348,39 +348,6 @@ define N=S=CL [
 | "[--][-nke][+CL:snake][=snake.sp.]" : {nke} ! @CL 
 ! 
 | "[--][-keni][+CL:worm][=worm.sp.,non-human.worm]" : {keni} 
-#-----------------------------------------------
-#           Provenance / Demonyms 
-#-----------------------------------------------
-! EN: 'one.with, of, from' 
-! katonkosatzi / =katonko -satzi / =up.river -cl:provenance / EN: 'a.dweller.of.the.upriver.area' 
-! katonkosato / =katonko -sato / =up.river -cl:provenance / EN: 'a.female.dweller.from.upriver' 
-! parenisatzi / =pareni -satzi / =Perené.river -cl:provenance / EN: 'Perené_river.people'
-! herosaresati / =herosare -sati / =Jerusalem -cl:provenance / EN: 'Jerusalemite', ES: 'Jerosolimitano' 
-
-! kanohasati / =kanoha -sati / EN: 'those.who.live.high.up.in.the.hills'
-! Boliviahatzi / =Bolivia -hatzi / =Bolivia -cl:provenance / EN: 'Bolivian', ES: 'boliviano'  
-! kishiihatzi / =kishii -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
-! kishihatzi / =kishi -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
-! kishiisatzi / =kishii -satzi / =grassland -cl:provenance / EN: 'Pajonal Campa', ES: 'Pajonalino'  
-! nijasati / nihasati / =niha -sati / =river -cl:provenance / EN: 'riverside'; ES: 'ribereño'
-! obenijati / ovenihati / =oveni -hati / =Unini.river -cl:provenance / EN: 'Unini.inhabitant'; ES: 'comunero.de.Unini'
-! ASHENIKA AMOYSATSI / ASHENĨKA AMÕYASATSI / a- =sheni -nka ** =amõya -satsi / 1pl.poss- =to.be.of.the.same.group -nmz ** =Amonia.river -cl:provenance / PT: 'KAMPA.DO.RIO.AMÔNIA'
-! Apitantoni-jatzi / apitantonihatzi / =apitantoni -hatzi / =Egypt -cl:provenance  
-| "[--][-sati+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {sati} 
-| "[--][-satzi+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {satzi} ! @CL  
-| "[--][-hati+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hati} 
-| "[--][-hatzi+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hatzi} 
-| "[--][-hatsi+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hatsi} 
-| "[--][-satsi+gndr@m.][NS:CPB][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {satsi} 
-! tsinanepaye saikayitatsiri antamisatoki / =tsinane -paye ** =saik -a -yi -t -atsi -ri ** =antami -sato+n.m. -ki / 
-! =woman -pl ** =to.be -ep -dist -ep -stat -rel ** =forest -cl:deriving.location.names -loc / EN: 'female.inhabitant.from.the.forest'  
-! ora ashitari nijasato / ora ashitari nihasato / =ora ** =ashi -t -a -ri ** =niha -sato / =that ** =to.have -ep -real -rel ** =water -cl:deriving.location.names / ES: 'del.recurso.hídrico'; EN: 'of.the.water.resource'
-! paashinijatopaeni / paashinihatopaeni / =paashini -hato -paeni / =other -cl:provenance -pl / EN: 'from.different.things'; ES: 'de.diferentes' 
-! inkarisato / =inkari -sato / =lake -cl:provenance / ES: 'zona.marino-costera' 
-! Apitantoni-jato / apitantonihato / =apitantoni -hato / =Egypt -cl:provenance  
-| "[--][-ato++gndr@n.m.][NS][+CL:human.provenance][=deriving.location.names]" : {ato} 
-| "[--][-sato+gndr@n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {sato} 
-| "[--][-hato++gndr@n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {hato} 
 #-----------------------------------------------
 | "[--][-sani][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sani} 
 | "[--][-sanii][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sanii} 
@@ -657,6 +624,44 @@ define N=S=CL [
 | "[--][-chera][+CL:shore][=shore (ES: orilla)]" : {chera} 
 | "[--][-txera][+CL:shore][=shore (ES: orilla)]" : {txera} 
 ];
+
+define N=S=CL=DEMONYM [
+#-----------------------------------------------
+#           Provenance / Demonyms 
+#-----------------------------------------------
+! EN: 'one.with, of, from' 
+! katonkosatzi / =katonko -satzi / =up.river -cl:provenance / EN: 'a.dweller.of.the.upriver.area' 
+! katonkosato / =katonko -sato / =up.river -cl:provenance / EN: 'a.female.dweller.from.upriver' 
+! parenisatzi / =pareni -satzi / =Perené.river -cl:provenance / EN: 'Perené_river.people'
+! herosaresati / =herosare -sati / =Jerusalem -cl:provenance / EN: 'Jerusalemite', ES: 'Jerosolimitano' 
+
+! kanohasati / =kanoha -sati / EN: 'those.who.live.high.up.in.the.hills'
+! Boliviahatzi / =Bolivia -hatzi / =Bolivia -cl:provenance / EN: 'Bolivian', ES: 'boliviano'  
+! kishiihatzi / =kishii -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
+! kishihatzi / =kishi -hatzi / =grassland -cl:provenance / EN: 'Grasslander, Pajonalino', ES: 'Pajonalino'  
+! kishiisatzi / =kishii -satzi / =grassland -cl:provenance / EN: 'Pajonal Campa', ES: 'Pajonalino'  
+! nijasati / nihasati / =niha -sati / =river -cl:provenance / EN: 'riverside'; ES: 'ribereño'
+! obenijati / ovenihati / =oveni -hati / =Unini.river -cl:provenance / EN: 'Unini.inhabitant'; ES: 'comunero.de.Unini'
+! ASHENIKA AMOYSATSI / ASHENĨKA AMÕYASATSI / a- =sheni -nka ** =amõya -satsi / 1pl.poss- =to.be.of.the.same.group -nmz ** =Amonia.river -cl:provenance / PT: 'KAMPA.DO.RIO.AMÔNIA'
+! Apitantoni-jatzi / apitantonihatzi / =apitantoni -hatzi / =Egypt -cl:provenance  
+  "[--][-sati+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {sati} 
+| "[--][-satzi+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {satzi} ! @CL  
+| "[--][-hati+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hati} 
+| "[--][-hatzi+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hatzi} 
+| "[--][-hatsi+gndr@m.][NS][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {hatsi} 
+| "[--][-satsi+gndr@m.][NS:CPB][+CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : {satsi} 
+! tsinanepaye saikayitatsiri antamisatoki / =tsinane -paye ** =saik -a -yi -t -atsi -ri ** =antami -sato+n.m. -ki / 
+! =woman -pl ** =to.be -ep -dist -ep -stat -rel ** =forest -cl:deriving.location.names -loc / EN: 'female.inhabitant.from.the.forest'  
+! ora ashitari nijasato / ora ashitari nihasato / =ora ** =ashi -t -a -ri ** =niha -sato / =that ** =to.have -ep -real -rel ** =water -cl:deriving.location.names / ES: 'del.recurso.hídrico'; EN: 'of.the.water.resource'
+! paashinijatopaeni / paashinihatopaeni / =paashini -hato -paeni / =other -cl:provenance -pl / EN: 'from.different.things'; ES: 'de.diferentes' 
+! inkarisato / =inkari -sato / =lake -cl:provenance / ES: 'zona.marino-costera' 
+! Apitantoni-jato / apitantonihato / =apitantoni -hato / =Egypt -cl:provenance  
+| "[--][-ato++gndr@n.m.][NS][+CL:human.provenance][=deriving.location.names]" : {ato} 
+| "[--][-sato+gndr@n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {sato} 
+| "[--][-hato++gndr@n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]" : {hato} 
+]; 
+
+define N=S=CL [ [N=S=CL=SET1]| [N=S=CL=DEMONYM] ]; 
                    
 # ****************************************
                    
