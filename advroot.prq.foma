@@ -178,7 +178,7 @@ define AdvRootPRQ=SET2 [
 
 define AdvRootPRQ=SET3 [
   "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
-| "[=intakiro][AdvRoot][=inside]" : {intakiro}
+| "[=intakiro][AdvRoot][=outside]" : {intakiro}
 ];
 
 source n-s-loc.foma
