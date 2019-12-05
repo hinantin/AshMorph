@@ -178,6 +178,8 @@ define AdvRootPRQ=SET2 [
 
 define AdvRootPRQ=SET3 [
   "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
+! intakironta 
+! intakiroini 
 | "[=intakiro][AdvRoot][=outside]" : {intakiro}
 ];
 
