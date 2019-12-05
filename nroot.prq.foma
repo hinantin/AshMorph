@@ -1369,19 +1369,6 @@ define NRootPRQin [
 | "[=areehi+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {areehi}
 | "[=arehi+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]" : {arehi}
 | "[=okaakini+sem@loc.][AdvRoot][=in.close.proximity, closeby]" : {okaakini}
-! 
-| "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
-| "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
-| "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
-! 
-| "[=intakiro][AdvRoot][=outside]" : {intakiro}
-| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside]" : {intakironta}
-#  these are not nouns, consider moving them to adverbs 
-| "[=intakiro][NRoot][=outside]" : {intakiro}
-| "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
-| "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
-| "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
-| "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
 # ---------------------------------------------------------------------
 ! 
 # iskoniki / =isko -ni -ki / =lime -cl:watercourse -cl:human.populated / EN: 'quebrada.donde.abunda.la.cal'; ES: 'ravine.where.lime.is.abundant' 
