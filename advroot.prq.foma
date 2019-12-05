@@ -160,12 +160,10 @@ define AdvRootPRQ=SET2 [
 | "[=intsompai][AdvRoot][=inside (ES: adentro, dentro)]" : {intsompai} 
 | "[=intsompoi+loc.][AdvRoot][=inside (ES: adentro, dentro)]" : {intsompoi}
 ! 
-| "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
 !| "[=intsompaikira+loc.][AdvRoot][=inside]" : {intsompaikira}
 !| "[=intsompoikinta+loc.][AdvRoot][=inside]" : {intsompoikinta}
 !| "[=intsompoiki+loc.][AdvRoot][=inside]" : {intsompoiki}
 ! 
-| "[=intakiro][AdvRoot][=inside]" : {intakiro}
 !| "[=intsompoi][AdvRoot][=inside]" : {intsompoi}
 !| "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-ki][Cas][+LOC_LOC.T]::[=towards.the.inside (ES: hacia.adentro)]" : {intsomoeki} 
 !| "[=intsomoe][AdvRoot][=inside (ES: adentro)][--][-nta+distal][Adv][+DEM]" : {intsomoenta} 
@@ -178,13 +176,18 @@ define AdvRootPRQ=SET2 [
 !| "[=itsompaesati+~{ADV:/'inside':itsompae/}{CL:/'provenance':sati/}][NRoot][=subterranean (ES: subterránea)]" : {itsompaesati} 
 ];
 
+define AdvRootPRQ=SET3 [
+  "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
+| "[=intakiro][AdvRoot][=inside]" : {intakiro}
+];
+
 source n-s-loc.foma
 source n-s-dem.foma
 source n-s-cl.foma
 
 define AdvRootPRQ=SET2=INFLECTION [ [AdvRootPRQ=SET2] [ [(N=S=LOC) (N=S=DEM)] | (N=S=CL=DEMONYM) ] ];
 
-define AdvRootPRQin [ [AdvRootPRQ=SET1] | [AdvRootPRQ=SET2=INFLECTION] ];
+define AdvRootPRQin [ [AdvRootPRQ=SET1] | [AdvRootPRQ=SET2=INFLECTION] | [AdvRootPRQ=SET3] ];
 
 # ##############################
 #         Abbreviations         
