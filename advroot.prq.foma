@@ -203,6 +203,7 @@ source n-s-loc.foma
 source n-s-dem.foma
 source n-s-cl.foma
 
+! intsomoe 
 define AdvRootPRQ=SET2=INFLECTION [ [AdvRootPRQ=SET2] [ [(N=S=LOC) (N=S=DEM)] | (N=S=CL=DEMONYM) ] ];
 
 define AdvRootPRQin [ [AdvRootPRQ=SET1] | [AdvRootPRQ=SET2=INFLECTION] | [AdvRootPRQ=SET3] ];
