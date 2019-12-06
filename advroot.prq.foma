@@ -178,6 +178,8 @@ define AdvRootPRQ=SET2 [
 
 define AdvRootPRQ=SET3 [
   "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
+| "[=intsomoina+loc.][AdvRoot][=inside]" : {intsomoina}
+| "[=intsompoina+loc.][AdvRoot][=inside]" : {intsompoina}
 ! intakironta 
 ! intakiroini 
 ! intakiroki 
@@ -186,6 +188,8 @@ define AdvRootPRQ=SET3 [
 | "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
 | "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
+| "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
+| "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
 ! 
 | "[=intakiro][AdvRoot][=outside]" : {intakiro}
 | "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside]" : {intakironta}
@@ -193,8 +197,6 @@ define AdvRootPRQ=SET3 [
 | "[=intakiro][NRoot][=outside]" : {intakiro}
 | "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
 | "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
-| "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
-| "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
 ];
 
 source n-s-loc.foma
