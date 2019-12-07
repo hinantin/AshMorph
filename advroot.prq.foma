@@ -149,6 +149,11 @@ define AdvRootPRQ=SET1 [
 | "[=arinironka][AdvRoot][=more.or.less (ES: más.o.menos); ineffectually]" : {arinironka}
 ];
 
+source n-s-loc.foma
+source n-s-dem.foma
+source n-s-cl.foma
+
+! intsomoe 
 define AdvRootPRQ=SET2 [
 # intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
   "[=intsomoe][AdvRoot][=inside (ES: adentro, dentro)]" : {intsomoe} 
@@ -176,37 +181,39 @@ define AdvRootPRQ=SET2 [
 !| "[=itsompaesati+~{ADV:/'inside':itsompae/}{CL:/'provenance':sati/}][NRoot][=subterranean (ES: subterránea)]" : {itsompaesati} 
 ];
 
+define AdvRootPRQ=SET2=INFLECTION [ [AdvRootPRQ=SET2] [ [(N=S=LOC) (N=S=DEM)] | (N=S=CL=DEMONYM) ] ];
+
+! intakiro
 define AdvRootPRQ=SET3 [
-  "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
-| "[=intsomoina+loc.][AdvRoot][=inside]" : {intsomoina}
-| "[=intsompoina+loc.][AdvRoot][=inside]" : {intsompoina}
 ! intakironta 
 ! intakiroini 
 ! intakiroki 
-| "[=intakiro][AdvRoot][=outside]" : {intakiro}
+  "[=intakiro][AdvRoot][=outside]" : {intakiro}
+| "[=intakero][AdvRoot][=outside]" : {intakiro}
+! 
+!| "[=intakiro][AdvRoot][=outside]" : {intakiro}
+!| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside]" : {intakironta}
+!#  these are not nouns, consider moving them to adverbs 
+!| "[=intakiro][NRoot][=outside]" : {intakiro}
+!| "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
+!| "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
+];
+
+define AdvRootPRQ=SET3=INFLECTION [ [AdvRootPRQ=SET3] [ [(N=S=DEM)] | [(N=S=LOC)] | (N=S=ADV=SET2) ] ];
+
+define AdvRootPRQ=SET4 [
+  "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
+| "[=intsomoina+loc.][AdvRoot][=inside]" : {intsomoina}
+| "[=intsompoina+loc.][AdvRoot][=inside]" : {intsompoina}
 ! 
 | "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
 | "[=intatzikiroka][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
 | "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
 | "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
-! 
-| "[=intakiro][AdvRoot][=outside]" : {intakiro}
-| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside]" : {intakironta}
-#  these are not nouns, consider moving them to adverbs 
-| "[=intakiro][NRoot][=outside]" : {intakiro}
-| "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
-| "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
 ];
 
-source n-s-loc.foma
-source n-s-dem.foma
-source n-s-cl.foma
-
-! intsomoe 
-define AdvRootPRQ=SET2=INFLECTION [ [AdvRootPRQ=SET2] [ [(N=S=LOC) (N=S=DEM)] | (N=S=CL=DEMONYM) ] ];
-
-define AdvRootPRQin [ [AdvRootPRQ=SET1] | [AdvRootPRQ=SET2=INFLECTION] | [AdvRootPRQ=SET3] ];
+define AdvRootPRQin [ [AdvRootPRQ=SET1] | [AdvRootPRQ=SET2=INFLECTION] | [AdvRootPRQ=SET3=INFLECTION] | [AdvRootPRQ=SET4] ];
 
 # ##############################
 #         Abbreviations         
