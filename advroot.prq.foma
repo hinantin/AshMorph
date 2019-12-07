@@ -27,6 +27,7 @@ define AdvRootPRQ=SET1 [
 # kitziroini / =kitzi -roini / =first -only / EN: 'first' 
 # The -roini suffix is not productive. 
 | "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketsiroini}
+| "[=ketsiroyni][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketsiroyni}
 | "[=ketziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketziroini}
 | "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketsiroeni}
 | "[=ketziroeni][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketziroeni}
@@ -153,6 +154,7 @@ source n-s-loc.foma
 source n-s-dem.foma
 source n-s-cl.foma
 
+# ---------------------------------------------------------------- 
 ! intsomoe 
 define AdvRootPRQ=SET2 [
 # intsomoeki / =intsomoe -ki / =inside -loc / EN: 'towards.the.inside'; ES: 'hacia.adentro' 
@@ -183,6 +185,7 @@ define AdvRootPRQ=SET2 [
 
 define AdvRootPRQ=SET2=INFLECTION [ [AdvRootPRQ=SET2] [ [(N=S=LOC) (N=S=DEM)] | (N=S=CL=DEMONYM) ] ];
 
+# ---------------------------------------------------------------- 
 ! intakiro
 define AdvRootPRQ=SET3 [
 ! intakironta 
@@ -200,6 +203,7 @@ define AdvRootPRQ=SET3 [
 
 define AdvRootPRQ=SET3=INFLECTION [ [AdvRootPRQ=SET3] [ [(N=S=DEM)] | [(N=S=LOC)] | (N=S=ADV=SET2) ] ];
 
+# ---------------------------------------------------------------- 
 ! inkokiro
 define AdvRootPRQ=SET4 [
   "[=inkokiro][NRoot][=outside]" : {inkokiro} ! it does not occur alone 
@@ -220,6 +224,8 @@ define AdvRootPRQ=SET5 [
 | "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
 | "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
 ];
+
+# ---------------------------------------------------------------- 
 
 define AdvRootPRQin [ [AdvRootPRQ=SET1] | [AdvRootPRQ=SET2=INFLECTION] | [AdvRootPRQ=SET3=INFLECTION] | [AdvRootPRQ=SET4] ];
 
