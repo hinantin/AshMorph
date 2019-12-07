@@ -195,13 +195,21 @@ define AdvRootPRQ=SET3 [
 !| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside]" : {intakironta}
 !#  these are not nouns, consider moving them to adverbs 
 !| "[=intakiro][NRoot][=outside]" : {intakiro}
-!| "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
 !| "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
 ];
 
 define AdvRootPRQ=SET3=INFLECTION [ [AdvRootPRQ=SET3] [ [(N=S=DEM)] | [(N=S=LOC)] | (N=S=ADV=SET2) ] ];
 
+! inkokiro
 define AdvRootPRQ=SET4 [
+  "[=inkokiro][NRoot][=outside]" : {inkokiro} ! it does not occur alone 
+!| "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
+!| "[=inkokironta][NRoot][=outside]" : {inkokironta}
+];
+
+define AdvRootPRQ=SET4=INFLECTION [ [AdvRootPRQ=SET4] [ [N=S=DEM] | [N=S=ADV=SET2] ] ];
+
+define AdvRootPRQ=SET5 [
   "[=tsompoina+loc.][AdvRoot][=inside]" : {tsompoina}
 | "[=intsomoina+loc.][AdvRoot][=inside]" : {intsomoina}
 | "[=intsompoina+loc.][AdvRoot][=inside]" : {intsompoina}
