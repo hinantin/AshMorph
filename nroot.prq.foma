@@ -4646,10 +4646,10 @@ define NRootPRQin [
 | "[=pitishi+gndr@n.m.][NRoot][=tree.sp.with.venomous.leaves (its.leaves.are.used.as.barbasco.when.fishing, poison.for.fishing; ES: chirrinchao; sci.nm.: phyllanthus.sp.)]" : {pitishi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitsikentzi+gndr@m.][NRoot][=red-headed.manakin (sci.nm.: pipra.rubrocapilla)]" : {pitsikentzi}
+| "[=pitsikentzi+gndr@m.+sem@bird][NRoot][=red-headed.manakin (sci.nm.: pipra.rubrocapilla)]" : {pitsikentzi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitzintzi+gndr@m.][NRoot][=scarlet-bellied.mountain-tanager (sci.nm.: anisognathus.igniventris)]" : {pitzintzi}
+| "[=pitzintzi+gndr@m.+sem@bird][NRoot][=scarlet-bellied.mountain-tanager (sci.nm.: anisognathus.igniventris)]" : {pitzintzi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=plato/peraato][NRoot][=plate (flat.dish.to.put.food.on)]" : {peraato}
@@ -4662,7 +4662,7 @@ define NRootPRQin [
 | "[=piyari+gndr@m.][NRoot][=ghost; demon; (forest).bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {piyari} ! @CMP 
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=piyori][NRoot][=southern.helmeted.curassow (sci.nm.: pauxi.inicornis)]" : {piyori}
+| "[=piyori+gndr@m.+sem@bird][NRoot][=southern.helmeted.curassow (sci.nm.: pauxi.inicornis)]" : {piyori}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=piyoro+gndr@n.m.][NRoot][=plant.sp., flowering.tree.sp. (ES: ocuera.(blanca))]" : {piyoro}
