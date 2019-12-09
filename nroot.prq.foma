@@ -290,8 +290,8 @@ define NRootPRQin [
 | "[=amantsairi+inal@ntsi.][NRoot][=crown; hat (ES: corona.(de.hombres), sobrero)]" : {amantsairi}
 # ---------------------------------------------------------------  
 !
-| "[=amempori+gndr@m.][NRoot][=vulture (ES: buitre); condor; king.vulture (sci.nm.: sarcoramphus.papa)]" : {amempori}
-| "[=amimpori+gndr@m.][NRoot][=vulture (ES: buitre); condor; king.vulture (sci.nm.: sarcoramphus.papa)]" : {amimpori}
+| "[=amempori+gndr@m.+sem@bird][NRoot][=vulture (ES: buitre); condor; king.vulture (sci.nm.: sarcoramphus.papa)]" : {amempori}
+| "[=amimpori+gndr@m.+sem@bird][NRoot][=vulture (ES: buitre); condor; king.vulture (sci.nm.: sarcoramphus.papa)]" : {amimpori}
 # ---------------------------------------------------------------  
 ! 
 | "[=ameeni+gndr@n.m.+poss@ti.+kin@fem.ego][NRoot][=grandmother (ES: abuela); granddaughter (ES: nieta)]" : {ameeni}
@@ -299,7 +299,7 @@ define NRootPRQin [
 | "[=amini+gndr@n.m.+poss@ti.+kin@fem.ego][NRoot][=grandmother (ES: abuela); granddaughter (ES: nieta)]" : {amini}
 # ---------------------------------------------------------------  
 ! 
-| "[=ameti][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.elateridae)]" : {ameti}
+| "[=ameti+gndr@m.+sem@insect][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.elateridae)]" : {ameti}
 # ---------------------------------------------------------------  
 ! 
 | "[=amimiro][NRoot][=mule-like.devil (ES: diablo.según.los.asháninkas)]" : {amimiro}
@@ -311,7 +311,7 @@ define NRootPRQin [
 | "[=aana+gndr@n.m.+poss@ni.][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {aana}
 # ---------------------------------------------------------------  
 ! 
-| "[=ananta+gndr@n.m.+poss@ti.][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
+| "[=ananta+gndr@n.m.+poss@ti.+sem@plant][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
 # ---------------------------------------------------------------  
 ! 
 | "[=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)]" : {ani}
@@ -326,8 +326,8 @@ define NRootPRQin [
 | "[=ampatsaa+inal@ntsi.+poss@ne.][NRoot][=dance.sing; praise (ES: alabanza)]" : {ampatsaa}
 # ---------------------------------------------------------------  
 ! 
-| "[=aampe+gndr@m.][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {aampe}
-| "[=tsaampe+gndr@m.][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {tsaampe}
+| "[=aampe+gndr@m.+sem@insect][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {aampe}
+| "[=tsaampe+gndr@m.+sem@insect][NRoot][=butterfly.sp. (ES: sp.de.mariposa)]" : {tsaampe}
 # ----------------------- ----------------------------------------  
 ! cotton
 ! Does it come from Quechua 'anpi' or viceversa ?
