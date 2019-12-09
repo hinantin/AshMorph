@@ -36,6 +36,7 @@
 #    wild.animals -> +sem@wild.anim.
 #    birds -> +sem@bird
 #    reptiles -> +sem@reptile
+#    amphibians -> +sem@amphibian (e.g.: frog, )
 #    fish -> +sem@fish
 #    insects -> +sem@insect
 #    benevolent/malevolent.spirits -> +sem@spir.
@@ -422,14 +423,14 @@ define NRootPRQin [
 | "[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atiri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atsiri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
-!| "[=atzirivenki+~{N:/'person':atziri/}{DEL:i}{N:/'piripiri':ivenki/}+gndr@n.m.+sem@plant][NRoot][=person, individual, human (ES: gente)]" : {atzirivenki} ! @section:noun@  
+!| "[=atzirivenki+~{N:/'person':atziri/}{L.DEL:i}{N:/'piripiri':ivenki/}+gndr@n.m.+sem@plant][NRoot][=piripiri-plant.sp. (ES: sp.de.piripiri; sci.m.: cyperaceae)]" : {atzirivenki} ! @section:noun@  
 # ------------------------------------------------------------------
 ! 
 | "[=atsityopi][NRoot][=mythical.armadillo/anaconda-like.creature]" : {atsityopi}
 | "[=atsityopini+gndr@m.][NRoot][=mythical.armadillo/anaconda-like.creature (ES: dueño.del.río)]" : {atsityopini}
 # ------------------------------------------------------------------
 ! 
-| "[=avanto+gndr@m.][NRoot][=big-size.frog (ES: rana.grande)]" : {avanto}
+| "[=avanto+gndr@m.+sem@amphibian][NRoot][=big-size.frog (ES: rana.grande)]" : {avanto}
 # ------------------------------------------------------------------
 ! 
 | "[=avo+gndr@n.m.+inal@tsi.][NRoot][=road, trail]" : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)] ! @section:noun@ 
@@ -438,8 +439,8 @@ define NRootPRQin [
 | "[=avotsi+gndr@n.m.+poss@te:ti.][NRoot][=road (ES: camino, trocha)]" : {avotsi} ! \cite[p\'{a}g. 67]{payne:lecciones:89} 
 # ------------------------------------------------------------------
 ! 
-| "[=avesari+gndr@m.][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña; PT: piranha)]" : {avesari}
-| "[=avisari+gndr@m.][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña; PT: piranha)]" : {avisari}
+| "[=avesari+gndr@m.+sem@fish][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña; PT: piranha)]" : {avesari}
+| "[=avisari+gndr@m.+sem@fish][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña; PT: piranha)]" : {avisari}
 # ------------------------------------------------------------------
 ! 
 | "[=avireri][NRoot][=name.of.a_mythical_hero, person's.name]" : {avireri}
