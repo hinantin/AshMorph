@@ -36,7 +36,8 @@
 #    wild.animals -> +sem@wild.anim.
 #    birds -> +sem@bird
 #    reptiles -> +sem@reptile
-#    amphibians -> +sem@amphibian (e.g.: frog, )
+#    amphibians -> +sem@amphibian (e.g.: frog, toad)
+#    gastropoda -> +sem@gastropoda (e.g.: slug, snail.(with.shell))
 #    fish -> +sem@fish
 #    insects -> +sem@insect
 #    benevolent/malevolent.spirits -> +sem@spir.
@@ -446,23 +447,23 @@ define NRootPRQin [
 | "[=avireri][NRoot][=name.of.a_mythical_hero, person's.name]" : {avireri}
 # ------------------------------------------------------------------
 ! 
-| "[=avo+gndr@m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao, atatao)]" : {avo}
-| "[=aro+gndr@m.][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao, atatao)]" : {aro}
+| "[=avo+gndr@m.+sem@bird][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao, atatao)]" : {avo}
+| "[=aro+gndr@m.+sem@bird][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao, atatao)]" : {aro}
 # ------------------------------------------------------------------
 ! 
 | "[=chaari][NRoot][=dark.water]" : {chaari}
 # ------------------------------------------------------------------
 ! 
-| "[=charo+gndr@m.][NRoot][=cricket.sp. (ES: grillo; sci.nm.: familia.gryllotalpidae)]" : {charo}
+| "[=charo+gndr@m.+sem@insect][NRoot][=cricket.sp. (ES: grillo; sci.nm.: familia.gryllotalpidae)]" : {charo}
 # ------------------------------------------------------------------
 ! 
-| "[=chaari][NRoot][=violaceous.jay (sci.nm.: cyanocorax.violaceus)]" : {chaari}
+| "[=chaari+gndr@m.+sem@bird][NRoot][=violaceous.jay (sci.nm.: cyanocorax.violaceus)]" : {chaari}
 # ------------------------------------------------------------------
 ! 
-| "[=chakaityory+gndr@m.][NRoot][=red-capped.cardinal (sci.nm.: paroaria.gularis)]" : {chakaityory}
+| "[=chakaityory+gndr@m.+sem@bird][NRoot][=red-capped.cardinal (sci.nm.: paroaria.gularis)]" : {chakaityory}
 # ------------------------------------------------------------------
 ! 
-| "[=chamanto+gndr@m.][NRoot][=red-headed.woodpecker.sp. (ES: pájaro.carpintero (cabeza.roja))]" : {chamanto}
+| "[=chamanto+gndr@m.+sem@bird][NRoot][=red-headed.woodpecker.sp. (ES: pájaro.carpintero (cabeza.roja))]" : {chamanto}
 # ------------------------------------------------------------------
 ! 
 | "[=chamiri][NRoot][=NP, person's.name]" : {chamiri}
@@ -471,26 +472,26 @@ define NRootPRQin [
 | "[=chamiro][NRoot][=dried.vine (typ.: chewed.with.coca.in.order.to.sweeten.it; ES: bejuco.seco.que.endulza.la.coca)]" : {chamiro}
 # ------------------------------------------------------------------
 ! 
-| "[=chamiryaatzi+gndr@m.][NRoot][=slate-colored.grosbeack (sci.nm.: pitylus.grossus)]" : {chamiryaatzi}
+| "[=chamiryaatzi+gndr@m.+sem@bird][NRoot][=slate-colored.grosbeack (sci.nm.: pitylus.grossus)]" : {chamiryaatzi}
 # ------------------------------------------------------------------
 ! 
-| "[=chaanari+gndr@m.][NRoot][=red.tiger.sp. (ES: sp.de.tigre.colorado, puma)]" : {chaanari}
-| "[=chanari+gndr@m.][NRoot][=red.tiger.sp. (ES: sp.de.tigre.colorado, puma)]" : {chanari}
+| "[=chaanari+gndr@m.+sem@wild.anim.][NRoot][=red.tiger.sp. (ES: sp.de.tigre.colorado, puma)]" : {chaanari}
+| "[=chanari+gndr@m.+sem@wild.anim.][NRoot][=red.tiger.sp. (ES: sp.de.tigre.colorado, puma)]" : {chanari}
 # ------------------------------------------------------------------
 ! 
-| "[=chakami+gndr@m.][NRoot][=bird.sp., grey-winged.trumpeter.sp. (ES: trompetero, ave.de.monte)]" : {chakami}
+| "[=chakami+gndr@m.+sem@bird][NRoot][=bird.sp., grey-winged.trumpeter.sp. (ES: trompetero, ave.de.monte)]" : {chakami}
 ! 
-| "[=chakampi+gndr@m.][NRoot][=pale-winged.trumpeter (sci.nm.: psophia.leucoptera)]" : {chakampi}
+| "[=chakampi+gndr@m.+sem@bird][NRoot][=pale-winged.trumpeter (sci.nm.: psophia.leucoptera)]" : {chakampi}
 # ------------------------------------------------------------------
 ! 
-| "[=chanchati+gndr@m.][NRoot][=gray.heron.sp. (ES: garza.de.color.cenizo)]" : {chanchati}
+| "[=chanchati+gndr@m.+sem@bird][NRoot][=gray.heron.sp. (ES: garza.de.color.cenizo)]" : {chanchati}
 ! 
-| "[=chanchatzi+gndr@m.][NRoot][=giant.cowbird (sci.nm.: scaphidura.orycivora)]" : {chanchatzi}
+| "[=chanchatzi+gndr@m.+sem@bird][NRoot][=giant.cowbird (sci.nm.: scaphidura.orycivora)]" : {chanchatzi}
 # ------------------------------------------------------------------
 ! 
-| "[=chapitsi+gndr@m.][NRoot][=worm.sp. (ES: especie.de.gusano)]" : {chapitsi}
-| "[=chaapitsi+gndr@m.][NRoot][=worm.sp. (ES: especie.de.gusano)]" : {chaapitsi}
-| "[=chapitzi+gndr@m.][NRoot][=worm.sp. (ES: especie.de.gusano), caterpillar.sp. (ES: bayuca, especie.de.oruga)]" : {chapitzi}
+| "[=chapitsi+gndr@m.+sem@insect][NRoot][=worm.sp. (ES: especie.de.gusano)]" : {chapitsi}
+| "[=chaapitsi+gndr@m.+sem@insect][NRoot][=worm.sp. (ES: especie.de.gusano)]" : {chaapitsi}
+| "[=chapitzi+gndr@m.+sem@insect][NRoot][=worm.sp. (ES: especie.de.gusano), caterpillar.sp. (ES: bayuca, especie.de.oruga)]" : {chapitzi}
 # ------------------------------------------------------------------
 ! 
 # ochao inchato / o- =chao =inchato / 3n.m.poss- =branch =tree EN: 'the.branch.of.a.tree' ES: 'la.rama.de.un.arbol'  
@@ -504,10 +505,10 @@ define NRootPRQin [
 | "[=chavari][NRoot][=person's.name, NP]" : {chavari}
 # ------------------------------------------------------------------  
 ! 
-| "[=chaverenchakiti][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: osteocephalus.leprieurii)]" : {chaverenchakiti}
+| "[=chaverenchakiti+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: osteocephalus.leprieurii)]" : {chaverenchakiti}
 # ------------------------------------------------------------------
 ! 
-| "[=chavo+gndr@m.][NRoot][=bird.sp., crax.sp. (ES: shansho, hoazín)]" : {chavo}
+| "[=chavo+gndr@m.+sem@bird][NRoot][=bird.sp., crax.sp. (ES: shansho, hoazín)]" : {chavo}
 # ------------------------------------------------------------------
 ! 
 | "[=che+gndr@m.+inal@tsi.][NRoot][=horn (ES: cuerno); thorn, spiny.thorn]" : {che}
@@ -520,21 +521,21 @@ define NRootPRQin [
 | "[=tseeki+inal@tsi.][NRoot][=needle/thorn.tip (ES: punta.de.aguja/espina)]" : {tseeki}
 # ------------------------------------------------------------------
 ! 
-| "[=tsekito+gndr@m.][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {tsekito}
-| "[=sekito+gndr@m.][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {sekito}
+| "[=tsekito+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {tsekito}
+| "[=sekito+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.aff.minuta)]" : {sekito}
 # ------------------------------------------------------------------
 ! 
-| "[=tseeri][NRoot][=small.snail.sp. (ES: sp.de.caracol.pequeño)]" : {tseeri}
+| "[=tseeri+gndr@m.+sem@gastropoda][NRoot][=small.snail.sp. (ES: sp.de.caracol.pequeño)]" : {tseeri}
 # ------------------------------------------------------------------
 ! 
-| "[=tsetanti+gndr@m.][NRoot][=bird.sp., crax.sp. (ES: ; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini, género.partamona.sp., grupo.cupira)]" : {tsetanti}
+| "[=tsetanti+gndr@m.+sem@bird][NRoot][=bird.sp., crax.sp. (ES: ; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini, género.partamona.sp., grupo.cupira)]" : {tsetanti}
 # ------------------------------------------------------------------
 ! 
-| "[=tseviro+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: rhamphichtys.rostratus)]" : {tseviro}
+| "[=tseviro+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: rhamphichtys.rostratus)]" : {tseviro}
 # ------------------------------------------------------------------
 ! 
-| "[=cheenkari+gndr@m.][NRoot][=venomous.snake.sp. (ES: jergón, sp.de.culebra.venenosa)]" : {cheenkari}
-| "[=chiinkari+gndr@m.][NRoot][=venomous.snake.sp. (ES: jergón, sp.de.culebra.venenosa)]" : {chiinkari}
+| "[=cheenkari+gndr@m.+sem@reptile][NRoot][=venomous.snake.sp. (ES: jergón, sp.de.culebra.venenosa)]" : {cheenkari}
+| "[=chiinkari+gndr@m.+sem@reptile][NRoot][=venomous.snake.sp. (ES: jergón, sp.de.culebra.venenosa)]" : {chiinkari}
 # ------------------------------------------------------------------
 ! 
 | "[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]" : {cheenkari}
