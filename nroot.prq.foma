@@ -156,8 +156,8 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 # good.invisible.spirit, lighting_bolt-like.spirit; brilliantly_plummed_bird-like.spirit; spirit.with.resplendent_human_corporeality 
-| "[=amachenka][NRoot][=class.of.mythological.savior; good.invisible.spirit]" : {amachenka} 
-| "[=amachenga][NRoot][=class.of.mythological.savior; good.invisible.spirit]" : {amachenga} 
+| "[=amachenka+gndr@m.+sem@spir.][NRoot][=class.of.mythological.savior; good.invisible.spirit]" : {amachenka} 
+| "[=amachenga+gndr@m.+sem@spir.][NRoot][=class.of.mythological.savior; good.invisible.spirit]" : {amachenga} 
 # ---------------------------------------------------------------------
 ! 
 | "[=anatare+inal@ntsi.][NRoot][=liver (ES: hígado; PT: fígado)]" : {anatare}
@@ -172,10 +172,10 @@ define NRootPRQin [
 | "[=ochaa][NRoot][=fornication, lack.of.sexual.restraint (ES: fornicación)]" : {ochaa}
 # --------------------------------------------------------------- 
 ! 
-| "[=achontsi+gndr@m.][NRoot][=mud-wasp.sp. (ES: sp.de.avispa)]" : {achontsi}
-| "[=achontzi+gndr@m.][NRoot][=bee.sp.; (big).wasp.sp. (ES: huairanga, sp.de.avispa.(grande))]" : {achontzi}
+| "[=achontsi+gndr@m.+sem@insect][NRoot][=mud-wasp.sp. (ES: sp.de.avispa)]" : {achontsi}
+| "[=achontzi+gndr@m.+sem@insect][NRoot][=bee.sp.; (big).wasp.sp. (ES: huairanga, sp.de.avispa.(grande))]" : {achontzi}
 ! 
-| "[=ochontzi+gndr@m.][NRoot][=wasp.sp. (ES: huairanga, sp.de.avispa)]" : {ochontzi}
+| "[=ochontzi+gndr@m.+sem@insect][NRoot][=wasp.sp. (ES: huairanga, sp.de.avispa)]" : {ochontzi}
 # --------------------------------------------------------------- 
 ! 
 | "[=aavintaro+~{V:/'to.cure':aavint/}{EP:a}{NMZ:ro}+gndr@n.m.+inal@ntsi.][NRoot][=medicine; natural.medicine (ES: remedio.natural)]" : {aavintaro}
