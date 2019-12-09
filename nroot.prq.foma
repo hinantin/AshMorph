@@ -259,10 +259,10 @@ define NRootPRQin [
 | "[=amara][NRoot][=increase (ES: creciente.de.río)]" : {amara}
 # ---------------------------------------------------------------  
 ! 
-| "[=amaako+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {amaako}
+| "[=amaako+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {amaako}
 # ---------------------------------------------------------------  
 ! anaconda, Quechua loan word 
-| "[=amaru/amaaro][NRoot][=anaconda, snake (ES: anaconda; QU: amaru)]" : {amaaro}
+| "[=amaru/amaaro+sem@reptile][NRoot][=anaconda, snake (ES: anaconda; QU: amaru)]" : {amaaro}
 # ---------------------------------------------------------------  
 ! 
 | "[=amatsaere+gndr@n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsaere}
