@@ -30,6 +30,19 @@
 #    person's.name -> +sem@NP.person 
 #    place.name -> +sem@NP.place 
 #    semantic tags for grouping entries or identifying the gender 
+#    masculine gender
+#    +sem@wild.anim.
+#    +sem@bird
+#    +sem@reptile
+#    +sem@fish
+#    +sem@insect
+#    +sem@spir.
+#    non-masculine gender
+#    +sem@plant
+#    +sem@tool
+#    +sem@pers.belongs.
+#    +sem@spn.enty.
+
 
 # LEXICON TRANSLATION-LANGUAGES : pan-Ashanika; EN (ENGLISH default translation), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
 
