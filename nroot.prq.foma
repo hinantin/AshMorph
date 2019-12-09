@@ -30,17 +30,21 @@
 #    person's.name -> +sem@NP.person 
 #    place.name -> +sem@NP.place 
 #    semantic tags for grouping entries or identifying the gender 
+
 #    masculine gender
-#     -> +sem@wild.anim.
-#     -> +sem@bird
-#     -> +sem@reptile
-#     -> +sem@fish
-#     -> +sem@insect
-#     -> +sem@spir.
+#    ----------------
+#    wild.animals -> +sem@wild.anim.
+#    birds -> +sem@bird
+#    reptiles -> +sem@reptile
+#    fish -> +sem@fish
+#    insects -> +sem@insect
+#    benevolent/malevolent.spirits -> +sem@spir.
+
 #    non-masculine gender
-#     -> +sem@plant
-#     -> +sem@tool
-#     -> +sem@pers.belongs.
+#    --------------------
+#    plant.life-forms -> +sem@plant
+#    tools -> +sem@tool
+#    personal.belongings -> +sem@pers.belongs.
 #    supernatural.entities -> +sem@spn.enty.
 
 
@@ -78,7 +82,7 @@ define NRootPRQin [
 | "[=amaisha][NRoot][=Yanesha (ES: Peruvian-Amazon.ethnic.group), Amuesha]" : {amaisha} 
 # --------------------------------------------------------------------
 ! 
-| "[=amonya/amoña+gndr@n.m.][NRoot][=plant.sp. (ES: sp.de.planta)]" : {amonya} ! @section:noun@ 
+| "[=amonya/amoña+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: sp.de.planta)]" : {amonya} ! @section:noun@ 
 ! 
 | "[=amonya/amõya][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : [{amõya}|{amoya}] 
 | "[=amonea][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : {amonea} 
@@ -92,16 +96,16 @@ define NRootPRQin [
 | "[=Anakayari+sem@NP.place][NRoot][=NP (ES: Anacayali)]" : {anakayari} 
 # --------------------------------------------------------------------
 ! 
-| "[=ankaro+gndr@m.][NRoot][=green.~20_cm-long.grasshopper/cricket (ES: saltamonte/grillo; sci.nm.: tropidacris.latreilleri.perty)]" : {ankaro} 
+| "[=ankaro+gndr@m.+sem@insect][NRoot][=green.~20_cm-long.grasshopper/cricket (ES: saltamonte/grillo; sci.nm.: tropidacris.latreilleri.perty)]" : {ankaro} 
 ! 
-| "[=tonkeronto+gndr@m.][NRoot][=green.~20_cm-long.grasshopper/cricket (ES: saltamonte/grillo; sci.nm.: tropidacris.latreilleri.perty)]" : {tonkeronto} 
+| "[=tonkeronto+gndr@m.+sem@insect][NRoot][=green.~20_cm-long.grasshopper/cricket (ES: saltamonte/grillo; sci.nm.: tropidacris.latreilleri.perty)]" : {tonkeronto} 
 # --------------------------------------------------------------------
 ! 
 | "[=apiwtxa][NRoot:CPB][=all.together (PT: todos.juntos); together; NP]" : {apiwtxa} 
 # --------------------------------------------------------------------
 ! 
 # el mosquito 'aravori' camina sobre el agua formando colonias en aguas con poca corriente en orillas de quebradas.
-| "[=aravori][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {aravori} ! @section:noun@ 
+| "[=aravori+gndr@m.+sem@insect][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {aravori} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! Vocative form
 | "[=aari+gndr@m.+kin@fem.ego+voc@N.][NRoot][=brother (ES: hermano.de.mujer)]" : {aari} 
