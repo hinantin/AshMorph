@@ -331,13 +331,13 @@ define NRootPRQin [
 # ----------------------- ----------------------------------------  
 ! cotton
 ! Does it come from Quechua 'anpi' or viceversa ?
-| "[=ampee+gndr@n.m.+poss@re:ne.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampee}
-| "[=ampii+gndr@n.m.+poss@ri.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampii}
-| "[=ampe+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampe}
-| "[=aNpe/ãpe+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ãpe}
-| "[=ampi+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampi}
-| "[=ampehi+gndr@n.m.][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampehi}
-!| "[=ampeeninki+~{N:/'cotton':ampee/}{EP:n}{N:/'peanut':inki/}+gndr@n.m.][NRoot][=peanut.sp. (ES: sp.de.maní)]" : {ampeeninki} ! @section:noun@
+| "[=ampee+gndr@n.m.+poss@re:ne.+sem@plant][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampee}
+| "[=ampii+gndr@n.m.+poss@ri.+sem@plant][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampii}
+| "[=ampe+gndr@n.m.+sem@plant][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampe}
+| "[=aNpe/ãpe+gndr@n.m.+sem@plant][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ãpe}
+| "[=ampi+gndr@n.m.+sem@plant][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampi}
+| "[=ampehi+gndr@n.m.+sem@plant][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense, gossypium.hirsutum; ES: algodón)]" : {ampehi}
+!| "[=ampeeninki+~{N:/'cotton':ampee/}{EP:n}{N:/'peanut':inki/}+gndr@n.m.+sem@plant][NRoot][=peanut.sp. (ES: sp.de.maní)]" : {ampeeninki} ! @section:noun@
 # ------------------------------------------------------------------
 ! paradigms?
 | "[=amporetsa+inal@OPC:ntsi.][NRoot][=intestine (ES: tripa, intestino); animal.innards/entrails (ES: menudencia)]" : {amporetsa}
@@ -403,17 +403,17 @@ define NRootPRQin [
 | "[=aporivatsa][NRoot][=thigh (ES: muslo)]" : {aporivatsa}
 # ------------------------------------------------------------------
 ! 
-| "[=asana+gndr@m.][NRoot][=fish.sp. (pronunc.: [a.ˈsa.na]; ES: añashua; sci.nm.: crenicichla.sp.)]" : {asana}
-| "[=ahana+gndr@m.][NRoot][=fish.sp. (ES: añashua; sci.nm.: crenicichla.sp.)]" : {ahana}
+| "[=asana+gndr@m.+sem@fish][NRoot][=fish.sp. (pronunc.: [a.ˈsa.na]; ES: añashua; sci.nm.: crenicichla.sp.)]" : {asana}
+| "[=ahana+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: añashua; sci.nm.: crenicichla.sp.)]" : {ahana}
 ! 
-| "[=sosana+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: crenicichla.sp.)]" : {sosana}
+| "[=sosana+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: crenicichla.sp.)]" : {sosana}
 # ------------------------------------------------------------------
 ! 
 | "[=ashonki][NRoot][=ankle]" : {ashonki}
 # ------------------------------------------------------------------
 ! 
-| "[=ashoshi+gndr@m.+sem@NP.person][NRoot][=armadillo (ES: armadillo)]" : {ashoshi}
-| "[=ashooshi+gndr@m.+sem@NP.person][NRoot][=armadillo (ES: armadillo)]" : {ashooshi}
+| "[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: armadillo)]" : {ashoshi}
+| "[=ashooshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: armadillo)]" : {ashooshi}
 # ------------------------------------------------------------------
 ! 
 | "[=asorina][NRoot][=cheek]" : {asorina}
@@ -422,7 +422,7 @@ define NRootPRQin [
 | "[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atiri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atiri} ! @VCMP N@->V::[=to.be.a.person]  
 | "[=atsiri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atsiri} ! @VCMP N@->V::[=to.be.a.person]  
-!| "[=atzirivenki+~{N:/'person':atziri/}{DEL:i}{N:/'piripiri':ivenki/}+gndr@n.m.][NRoot][=person, individual, human (ES: gente)]" : {atzirivenki}
+!| "[=atzirivenki+~{N:/'person':atziri/}{DEL:i}{N:/'piripiri':ivenki/}+gndr@n.m.+sem@plant][NRoot][=person, individual, human (ES: gente)]" : {atzirivenki} ! @section:noun@  
 # ------------------------------------------------------------------
 ! 
 | "[=atsityopi][NRoot][=mythical.armadillo/anaconda-like.creature]" : {atsityopi}
