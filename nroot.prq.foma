@@ -187,15 +187,15 @@ define NRootPRQin [
 | "[=ahi+inal@tsi.][NRoot][=tooth (ES: diente, colmillo)]" : {ahi}
 # --------------------------------------------------------------- 
 ! 
-| "[=airi+gndr@m.+poss@ti.][NRoot][=black.bee.sp. (ES: abeja.negra)]" : {airi} 
-| "[=ãyri+gndr@m.][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {ãyri} 
-| "[=eeri+gndr@m.][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {eeri} 
-| "[=aeri+gndr@m.][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {aeri}
+| "[=airi+gndr@m.+poss@ti.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra)]" : {airi} 
+| "[=ãyri+gndr@m.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {ãyri} 
+| "[=eeri+gndr@m.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {eeri} 
+| "[=aeri+gndr@m.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {aeri}
 # ---------------------------------------------------------------  
 ! 
 | "[=aiyo+gndr@n.m.+kin@fem.ego][NRoot][=mother.in.law (ES: suegra)]" : {aiyo}
 | "[=ayiini+gndr@n.m.+voc@N.+kin@fem.ego][NRoot][=mother.in.law (ES: suegra)]" : {ayiini} !  
-| "[=ayiro+inal@ntsi.+voc@N:1SG.][NRoot][=mother.in.law (ES: suegra)]" : {ayiro} ! +N +1SG 
+| "[=ayiro+gndr@n.m.+inal@ntsi.+voc@N:1SG.][NRoot][=mother.in.law (ES: suegra)]" : {ayiro} ! +N +1SG 
 ! 
 | "[=aniyo+gndr@n.m.+kin@male.ego][NRoot][=daughter.in.law]" : {aniyo}
 # ---------------------------------------------------------------  
@@ -213,13 +213,13 @@ define NRootPRQin [
 | "[=antyaviyari+sem@healer.][NRoot][=shaman (ES: curandero)]" : {antyaviyari}
 # ---------------------------------------------------------------  
 ! 
-| "[=ariti+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudopimelodus.sp.)]" : {ariti} 
+| "[=ariti+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudopimelodus.sp.)]" : {ariti} 
 # ---------------------------------------------------------------  
 ! 
 | "[=arroz/aroso+gndr@n.m.][NRoot:ES][=rice (ES: arroz)]" : {aroso} 
 # ---------------------------------------------------------------  
 ! 
-| "[=aavo+gndr@m.][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: egretta.thula)]" : {aavo} ! @section:noun@ 
+| "[=aavo+gndr@m.+sem@bird][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: egretta.thula)]" : {aavo} ! @section:noun@ 
 # ---------------------------------------------------------------  
 ! 
 # atyo / ES: 'cuñada.(habla.de.mujer)' 
@@ -234,8 +234,8 @@ define NRootPRQin [
 | "[=natoto+gndr@n.m.+voc@1SG:2SG:3SGn.m.:1PL.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {natoto}
 ! ---------------------------------------------------------------  
 ! 
-| "[=ayoori+gndr@m.][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayoori} 
-| "[=ayori+gndr@m.][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayori} 
+| "[=ayoori+gndr@m.+sem@bird][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayoori} 
+| "[=ayori+gndr@m.+sem@bird][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayori} 
 # ---------------------------------------------------------------  
 ! 
 | "[=asankane+gndr@n.m.+inal@ntsi.][NRoot][=heart (ES: corazón)]" : {asankane}
@@ -266,8 +266,8 @@ define NRootPRQin [
 | "[=akopirori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopirori}
 # ---------------------------------------------------------------  
 ! 
-| "[=akori+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akori}
-| "[=akoritsa+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akoritsa}
+| "[=akori+gndr@m.+sem@insect][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akori}
+| "[=akoritsa+gndr@m.+sem@insect][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akoritsa}
 # ---------------------------------------------------------------  
 ! 
 | "[=amarani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amarani}
