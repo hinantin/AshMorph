@@ -41,6 +41,7 @@
 #    fish -> +sem@fish
 #    insects -> +sem@insect
 #    benevolent/malevolent.spirits -> +sem@spir.
+#    Worms -> +sem@worm-shaped
 
 #    non-masculine gender
 #    --------------------
@@ -546,12 +547,12 @@ define NRootPRQin [
 | "[=cheenkavo+sem@color.][NRoot][=black (ES: negra)]" : {cheenkavo}
 # ------------------------------------------------------------------
 ! 
-| "[=cheenti+gndr@m.][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {cheenti}
-| "[=cheentzi+gndr@m.][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {cheentzi}
-| "[=chiintzi+gndr@m.][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {chiintzi}
+| "[=cheenti+gndr@m.+sem@fish][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {cheenti}
+| "[=cheentzi+gndr@m.+sem@fish][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {cheentzi}
+| "[=chiintzi+gndr@m.+sem@fish][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]" : {chiintzi}
 # ------------------------------------------------------------------
 ! 
-| "[=chekito+gndr@m.][NRoot][=frog.sp., small.toad.sp. (ES: rana)]" : {chekito}
+| "[=chekito+gndr@m.+sem@amphibian][NRoot][=frog.sp., small.toad.sp. (ES: rana)]" : {chekito}
 # ------------------------------------------------------------------
 ! 
 | "[=chekopi+gndr@n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha);| small.cane (ES: cañabrava.pequeña);| cane.for.arrows (ES: caña.para.flechas)]" : {chekopi} ! @section:noun@ 
@@ -560,34 +561,34 @@ define NRootPRQin [
 | "[=chakopi+gndr@n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)]" : {chakopi} ! N@->V
 ! 
 # el escarabajo 'chakopitaki' se impulsa a sí mismo dando saltos, y se desarrolla en la palmera tsiyaro.
-| "[=chakopitaki+~{'arrow':chakopi}{CL:/'hard.outer.coverings':taki/}+gndr@m.][NRoot][=greenish.beetle.sp. (ES: sp.de.escarabajo.de.color.verdoso; sci.nm.: género.chalcolepidius))]" : {chakopitaki}
+| "[=chakopitaki+~{'arrow':chakopi}{CL:/'hard.outer.coverings':taki/}+gndr@m.+sem@insect][NRoot][=greenish.beetle.sp. (ES: sp.de.escarabajo.de.color.verdoso; sci.nm.: género.chalcolepidius))]" : {chakopitaki}
 # ------------------------------------------------------------------
 ! 
-| "[=cheero+gndr@m.][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {cheero}
-| "[=tseero+gndr@m.][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {tseero}
+| "[=cheero+gndr@m.+sem@fish][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {cheero}
+| "[=tseero+gndr@m.+sem@fish][NRoot][=red-beaked.black.bird.sp. (typ.: it.lays.its.eggs.on.the.ground)]" : {tseero}
 # ------------------------------------------------------------------
 ! 
-| "[=chivani+gndr@m.][NRoot][=cuckoo.sp. (ES: cuco; sci.nm.: piaya.cayana, piaya.minuta)]" : {chivani}
+| "[=chivani+gndr@m.+sem@fish][NRoot][=cuckoo.sp. (ES: cuco; sci.nm.: piaya.cayana, piaya.minuta)]" : {chivani}
 # ------------------------------------------------------------------
 ! 
-| "[=chivini+gndr@m.][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: tigrisoma.fasciatum)]" : {chivini}
+| "[=chivini+gndr@m.+sem@fish][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: tigrisoma.fasciatum)]" : {chivini}
 # ------------------------------------------------------------------
 ! 
 ! chamairo / =chamairo / =liana/vine.sp. / EN: 'vine' 
 ! liana cuya cascarilla endulza la coca
-| "[=chamairo+gndr@n.m.][NRoot][=liana.sp., chamairo-vine.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca.para.endulzarla)]" : {chamairo} ! @section:noun@ 
-| "[=txaamayro+gndr@n.m.][NRoot:CPB][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca.para.endulzarla)]" : {txaamayro}
-| "[=txamayro+gndr@n.m.][NRoot:CPB][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca.para.endulzarla)]" : {txamayro}
+| "[=chamairo+gndr@n.m.+sem@plant][NRoot][=liana.sp., chamairo-vine.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca.para.endulzarla)]" : {chamairo} ! @section:noun@ 
+| "[=txaamayro+gndr@n.m.+sem@plant][NRoot:CPB][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca.para.endulzarla)]" : {txaamayro}
+| "[=txamayro+gndr@n.m.+sem@plant][NRoot:CPB][=liana.sp. (sci.nm.: mussatia.hyacinthina; ES: la.corteza.de.este.bejuco.seco.que.se.mezcla.con.la.coca.para.endulzarla)]" : {txamayro}
 
 ! chamairotonqui / chamairotonki / [=chamairo+n.m. -tonki]+m. / =liana.sp. -cl:long.tree.segment / EN: 'toad.species'; ES: 'especie.de.sapo'
-!| "[=chamairotonki+~{N:/'liana':chamairo/}{CL:/'long.tree.segment':tonki/}+gndr@m.][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {chamairotonki} ! @section:noun@ 
+!| "[=chamairotonki+~{N:/'liana':chamairo/}{CL:/'long.tree.segment':tonki/}+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {chamairotonki} ! @section:noun@ 
 # ------------------------------------------------------------------
 ! 
 | "[=chapinki][NRoot][=the.other.day; yesterday (ES: ayer)]" : {chapinki}
 # ------------------------------------------------------------------
 ! 
-| "[=chapiti+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca)]" : {chapiti}
-| "[=chapitzi+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca)]" : {chapitzi}
+| "[=chapiti+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca)]" : {chapiti}
+| "[=chapitzi+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca)]" : {chapitzi}
 # ------------------------------------------------------------------
 ! 
 | "[=charava+gndr@m.][NRoot][=fish.sp. (ES: súngaro, pez.saltón); gilded.catfish.sp.; zungaro-fish (ES: súngaro)]" : {charava}
