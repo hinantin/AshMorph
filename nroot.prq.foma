@@ -7263,20 +7263,20 @@ define NRootPRQin [
 | "[=tsirokitsa][NRoot][=renaquilla, parasitic.plant.sp.]" : {tsirokitsa}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mesha+gndr@n.m.][NRoot][=capirona-tree, tree.sp.]" : {mesha}
-| "[=meshaa+gndr@n.m.][NRoot][=capirona-tree, tree.sp.]" : {meshaa}
-| "[=mishaa+gndr@n.m.][NRoot][=capirona-tree, tree.sp.]" : {mishaa}
+| "[=mesha+gndr@n.m.+sem@plant][NRoot][=capirona-tree, tree.sp.]" : {mesha}
+| "[=meshaa+gndr@n.m.+sem@plant][NRoot][=capirona-tree, tree.sp.]" : {meshaa}
+| "[=mishaa+gndr@n.m.+sem@plant][NRoot][=capirona-tree, tree.sp.]" : {mishaa}
 ! 
-| "[=meshia+gndr@n.m.][NRoot][=capirona-tree, tree.sp.]" : {meshia}
-| "[=meshiyanto+gndr@n.m.][NRoot][=capirona-tree, tree.sp.]" : {meshiyanto} ! to be revised !
-| "[=meshinto+gndr@n.m.][NRoot][=capirona-tree, tree.sp.]" : {meshinto}
+| "[=meshia+gndr@n.m.+sem@plant][NRoot][=capirona-tree, tree.sp.]" : {meshia}
+| "[=meshiyanto+gndr@n.m.+sem@plant][NRoot][=capirona-tree, tree.sp.]" : {meshiyanto} ! to be revised !
+| "[=meshinto+gndr@n.m.+sem@plant][NRoot][=capirona-tree, tree.sp.]" : {meshinto}
 # ----------------------------------------------------------------- 
 ! 
-| "[=kove+gndr@n.m.][NRoot][=copaiba-tree, tree.sp.]" : {kove}
+| "[=kove+gndr@n.m.+sem@plant][NRoot][=copaiba-tree, tree.sp.]" : {kove}
 ! 
-| "[=pashavo+gndr@n.m.][NRoot][=punga-tree, tree.sp.]" : {pashavo}
+| "[=pashavo+gndr@n.m.+sem@plant][NRoot][=punga-tree, tree.sp.]" : {pashavo}
 ! 
-| "[=ikoha+gndr@n.m.][NRoot][=tree.sp.]" : {ikoha}
+| "[=ikoha+gndr@n.m.+sem@plant][NRoot][=tree.sp.]" : {ikoha}
 # ----------------------------------------------------------------- 
 ! 
 | "[=poto+gndr@n.m.+sem@plant][NRoot][=ojé, tree.sp., ficus.sp. (ES: sp.de.árbol; sci.nm.: ficus.insipida)]" : {poto}
