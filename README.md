@@ -14,7 +14,7 @@ Because it is often possible to find a word that combines several word stems wit
 semantic meaning (noun-incorporation and verbal classifiers).
 
 ```
-y=ovetsik-a-Vanko-t-e 
+yovetsikavankote / y=ovetsik-a-vanko-t-e 
 ```
 
 #### Head-marking 
