@@ -4893,14 +4893,14 @@ define NRootPRQin [
 | "[=pochoki+poss@ne:ni.][NRoot][=dream (ES: sueño; PT: sonho)]" : {pochoki} 
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pochonyeihi][NRoot][=dove.sp. (ES: sp.de.paloma; sci.nm.: geotrygon.montana, columbidae)]" : {pochonyeihi} 
+| "[=pochonyeihi+gndr@n.m.+sem@plant][NRoot][=dove.sp. (ES: sp.de.paloma; sci.nm.: geotrygon.montana, columbidae)]" : {pochonyeihi} 
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=poe][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus; PT: batata.doce)]" : {poe}
 | "[=poi][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus; PT: batata.doce)]" : {poi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=poiritzi+gndr@m.][NRoot][=blue-crowned.manakin (sci.nm.: pipra.coronata); elusive.small_bird.sp. (ES: sp.de.pajarito.esquivo)]" : {poiritzi} ! Poirkzi ???
+| "[=poiritzi+gndr@m.+sem@bird][NRoot][=blue-crowned.manakin (sci.nm.: pipra.coronata); elusive.small_bird.sp. (ES: sp.de.pajarito.esquivo)]" : {poiritzi} ! Poirkzi ???
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=poitoki][NRoot][=cocona.sp. (sci.nm.: solanum.sessiliflorum); edible.fruit.variety]" : {poitoki}
@@ -4916,10 +4916,10 @@ define NRootPRQin [
 | "[=poiyotzi][NRoot][=gray-headed.child]" : {poiyotzi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pokicho+gndr@m.][NRoot][=bird.sp. (ES: sp.de.pájaro); NP]" : {pokicho}
+| "[=pokicho+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: sp.de.pájaro); NP]" : {pokicho}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=poko+gndr@m.][NRoot][=yellow.and.black.worm.sp. (ES: sp.de.gusano.amarillo-y-negro)]" : {poko}
+| "[=poko+gndr@m.+sem@worm-shaped][NRoot][=yellow.and.black.worm.sp. (ES: sp.de.gusano.amarillo-y-negro)]" : {poko}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pomerentsi][NRoot][=difficulty (ES: dificultad)]" : {pomerentsi} ! N@->V 
@@ -4928,11 +4928,11 @@ define NRootPRQin [
 | "[=pompori][NRoot][=owl.sp.; striated-ant-trush (sci.nm.: chamaeza.nobilis)]" : {pompori}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=poompootzi+gndr@m.][NRoot][=tawny-bellied.owl]" : {poompootzi}
-| "[=pompootzi+gndr@m.][NRoot][=small.owl]" : {pompootzi}
+| "[=poompootzi+gndr@m.+sem@bird][NRoot][=tawny-bellied.owl]" : {poompootzi}
+| "[=pompootzi+gndr@m.+sem@bird][NRoot][=small.owl]" : {pompootzi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=poonkari][NRoot][=crested.oropendola (sci.nm.: psarocolius.decumanus)]" : {poonkari}
+| "[=poonkari+gndr@m.+sem@bird][NRoot][=crested.oropendola (sci.nm.: psarocolius.decumanus)]" : {poonkari}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=poonkito+gndr@n.m.][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: sp.de.ortiga)]" : {poonkito}
@@ -4941,18 +4941,18 @@ define NRootPRQin [
 | "[=poonketo+gndr@n.m.][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: sp.de.ortiga)]" : {poonketo}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=poonya][NRoot][=olive.oropendola (sci.nm.: gymnostinops.yucaraes)]" : {poonya}
+| "[=poonya+gndr@m.+sem@bird][NRoot][=olive.oropendola (sci.nm.: gymnostinops.yucaraes)]" : {poonya}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pooronto+gndr@m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (ES: porotuango, porotohuango, panguana, sp.de.perdiz); rufous-breasted.wood-quail (sci.nm.: odonthophorus.speciosus)]" : {pooronto}
-| "[=poovonto+gndr@m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (ES: porotuango, porotohuango, panguana, sp.de.perdiz); rufous-breasted.wood-quail (sci.nm.: odonthophorus.speciosus)]" : {poovonto}
+| "[=pooronto+gndr@m.+sem@bird][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (ES: porotuango, porotohuango, panguana, sp.de.perdiz); rufous-breasted.wood-quail (sci.nm.: odonthophorus.speciosus)]" : {pooronto}
+| "[=poovonto+gndr@m.+sem@bird][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (ES: porotuango, porotohuango, panguana, sp.de.perdiz); rufous-breasted.wood-quail (sci.nm.: odonthophorus.speciosus)]" : {poovonto}
 # ------------------------------------------------------------------------------------------
 ! 
 # el 'poorotaki' que habita en el árbol lupuna blanca
-| "[=poorotaki][NRoot][=green.beetle.sp. (ES: sp.de.escarabajo.de.color.verde; sci.nm.: familia.cerambycidae, subfamilia.lamiinae, género.acanthoderes)]" : {poorotaki}
+| "[=poorotaki+gndr@m.+sem@insect][NRoot][=green.beetle.sp. (ES: sp.de.escarabajo.de.color.verde; sci.nm.: familia.cerambycidae, subfamilia.lamiinae, género.acanthoderes)]" : {poorotaki}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=ponkaro][NRoot][=bejuco (ES: Fam.del.sapindo; sci.nm.: sapindáceas)]" : {ponkaro}
+| "[=ponkaro][NRoot][=bejuco (ES: fam.del.sapindo; sci.nm.: sapindáceas)]" : {ponkaro}
 | "[=kanirisama][NRoot][=yucca-like.medicinal.plant.sp. (it.has.fattening.properties; ES: Fam.del.sapindo, sacha.yuca; QU: sach'a.rumu; sci.nm.: sapindáceas)]" : {kanirisama}
 # ------------------------------------------------------------------------------------------
 ! 
