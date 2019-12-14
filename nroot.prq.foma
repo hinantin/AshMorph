@@ -7137,7 +7137,7 @@ define NRootPRQin [
 | "[=viyonkari+inal@ntsi.][NRoot][=spleen (ES: bazo)]" : {viyonkari}
 # ----------------------------------------------------------------- 
 ! 
-| "[=viyonkiti][NRoot][=sparrow.sp. (ES: gorrión, sp.de.pajarito)]" : {viyonkiti}
+| "[=viyonkiti+gndr@m.+sem@bird][NRoot][=sparrow.sp. (ES: gorrión, sp.de.pajarito)]" : {viyonkiti}
 # ----------------------------------------------------------------- 
 ! 
 | "[=voempo][NRoot][=collared.plover (sci.nm.: charadrius.collaris)]" : {voempo}
@@ -7160,8 +7160,8 @@ define NRootPRQin [
 | "[=yaani+gndr@n.m.+inal@ntsi.][NRoot][=bow, ballista]" : {yaani}
 # ----------------------------------------------------------------- 
 ! 
-| "[=yarato+gndr@m.+poss@ti.][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yarato}
-| "[=yaarato+gndr@m.+poss@ti.][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yaarato}
+| "[=yarato+gndr@m.+poss@ti.+sem@insect][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yarato}
+| "[=yaarato+gndr@m.+poss@ti.+sem@insect][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yaarato}
 # ----------------------------------------------------------------- 
 ! 
 | "[=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {yari}
@@ -7172,7 +7172,7 @@ define NRootPRQin [
 | "[=yatsinka+gndr@n./m.+inal@ntsi.][NRoot][=poison (ES: dolor.causado.por.veneno/algo_picante)]" : {yatsinka}
 # ----------------------------------------------------------------- 
 ! 
-| "[=yatsinkanti][NRoot][=alligator.sp. (ES: sp.de.lagarto)]" : {yatsinkanti}
+| "[=yatsinkanti+gndr@m.+sem@reptile][NRoot][=alligator.sp. (ES: sp.de.lagarto)]" : {yatsinkanti}
 # ----------------------------------------------------------------- 
 ! 
 | "[=yeeyi+gndr@m.+poss@te.+kin@male.ego][NRoot][=brother, cousin (ES: hermano)]" : {yeeyi}
@@ -7186,14 +7186,14 @@ define NRootPRQin [
 | "[=yiinka+gndr@n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo); body.fat]" : {yiinka}
 # ----------------------------------------------------------------- 
 ! 
-| "[=yentziri+gndr@n.m.][NRoot][=male.garlic (ES: ajo.macho)]" : {yentziri}
+| "[=yentziri+gndr@n.m.+sem@plant][NRoot][=male.garlic (ES: ajo.macho)]" : {yentziri}
 # ----------------------------------------------------------------- 
 ! 
 | "[=yereto+gndr@n.m.+inal@tsi.][NRoot][=knee (ES: rodilla)]" : {yereto} ! @VCMP 
 | "[=yerito+gndr@n.m.+inal@tsi.][NRoot][=knee (ES: rodilla)]" : {yerito} ! @VCMP 
 # ----------------------------------------------------------------- 
 ! 
-| "[=yevetsi+gndr@n.m.][NRoot][=tree.sp. (shimbillo), fruit.tree.sp.]" : {yevetsi}
+| "[=yevetsi+gndr@n.m.+sem@plant][NRoot][=tree.sp. (shimbillo), fruit.tree.sp.]" : {yevetsi}
 # ----------------------------------------------------------------- 
 ! 
 | "[=yonkeva][NRoot][=rail.sp. (ES: sp.de.rállido)]" : {yonkeva}
@@ -7226,10 +7226,10 @@ define NRootPRQin [
 | "[=pachakama][NRoot][=stone.divinity (ES: Dios.de.la.piedra); proper.name]" : {pachakama}
 # ----------------------------------------------------------------- 
 ! 
-| "[=yoosara+gndr@m.][NRoot][=fly.sp. (ES: manta.blanca)]" : {yoosara}
+| "[=yoosara+gndr@m.+sem@insect][NRoot][=fly.sp. (ES: manta.blanca)]" : {yoosara}
 # ----------------------------------------------------------------- 
 ! 
-| "[=yopanka][NRoot][=red-headed.little.bird.sp. (ES: pajarito.de.cabeza.rica); proper.name]" : {yopanka}
+| "[=yopanka+gndr@m.+sem@bird][NRoot][=red-headed.little.bird.sp. (ES: pajarito.de.cabeza.rica); proper.name]" : {yopanka}
 # ----------------------------------------------------------------- 
 ! 
 | "[=yopo+gndr@n.m.+sem@plant][NRoot][=tree.sp., mahogany (ES: caoba, aguano; sci.nm.: swietenia.macrophylla)]" : {yopo}
