@@ -4956,10 +4956,10 @@ define NRootPRQin [
 | "[=kanirisama][NRoot][=yucca-like.medicinal.plant.sp. (it.has.fattening.properties; ES: Fam.del.sapindo, sacha.yuca; QU: sach'a.rumu; sci.nm.: sapindáceas)]" : {kanirisama}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=ponke+gndr@m.][NRoot][=eel.sp.]" : {ponke}
+| "[=ponke+gndr@m.+sem@wild.anim.][NRoot][=eel.sp.]" : {ponke}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=ponke][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: characidae, knodus.sp.)]" : {ponke}
+| "[=ponke+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: characidae, knodus.sp.)]" : {ponke}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=ponkitzi+inal@n/tsi.][NRoot][=ground]" : {ponkitzi}
