@@ -4973,13 +4973,13 @@ define NRootPRQin [
 | "[=ponkiti][NRoot][=edge]" : {ponkiti}
 # ------------------------------------------------------------------------------------------ 
 ! 
-| "[=ponoro+gndr@m.][NRoot][=bird.sp.]" : {ponoro}
+| "[=ponoro+gndr@m.+sem@bird][NRoot][=bird.sp.]" : {ponoro}
 # ------------------------------------------------------------------------------------------ 
 ! 
 | "[=pooki+gndr@n.m.+inal@ntsi.][NRoot][=bagasse (ES: bagazo)]" : {pooki}
 # ------------------------------------------------------------------------------------------ 
 ! 
-| "[=porenti][NRoot][=firefly (ES: luciernaga)]" : {porenti}
+| "[=porenti+gndr@m.+sem@insect][NRoot][=firefly (ES: luciernaga)]" : {porenti}
 # ------------------------------------------------------------------------------------------ 
 ! 
 | "[=pori+gndr@n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
@@ -5012,17 +5012,17 @@ define NRootPRQin [
 | "[=poroniya+gndr@n.m.][NRoot][=banana.sp.]" : {poroniya}
 # ------------------------------------------------------------------------------------------ 
 ! 
-| "[=poroporotzi+gndr@m.][NRoot][=fish.sp. (ES: cunchi)]" : {poroporotzi}
-| "[=poromporotzi+gndr@m.][NRoot][=fish.sp. (ES: cunchi)]" : {poromporotzi}
+| "[=poroporotzi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: cunchi)]" : {poroporotzi}
+| "[=poromporotzi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: cunchi)]" : {poromporotzi}
 # ------------------------------------------------------------------------------------------ 
 ! 
-| "[=porootaki][NRoot][=beetle.sp. (ES: sp.de.escarabajo; sci.nm.: género.acanthoderes)]" : {porootaki}
+| "[=porootaki+gndr@m.+sem@insect][NRoot][=beetle.sp. (ES: sp.de.escarabajo; sci.nm.: género.acanthoderes)]" : {porootaki}
 # ------------------------------------------------------------------------------------------ 
 ! 
 | "[=poshiniri][NRoot][=tasty, delicious (ES: sabroso); (PT: carne.de.caça)]" : {poshiniri}
 # ------------------------------------------------------------------------------------------ 
 ! 
-| "[=potatze][NRoot][=white-tipped.dove (sci.nm.: leptotila.verreauxi)]" : {potatze}
+| "[=potatze+gndr@m.+sem@bird][NRoot][=white-tipped.dove (sci.nm.: leptotila.verreauxi)]" : {potatze}
 # ------------------------------------------------------------------------------------------ 
 ! 
 | "[=potsitari+gndr@m.+sem@color.][NRoot][=black (ES: negro)]" : {potsitari}
