@@ -5029,25 +5029,25 @@ define NRootPRQin [
 | "[=potsitaro+gndr@n.m.+sem@color.][NRoot][=black (ES: negra)]" : {potsitaro}
 # ------------------------------------------------------------------------------------------ 
 ! 
-| "[=potsitapitoki][NRoot][=golden.tanager (sci.nm.: tangara.arthus)]" : {potsitapitoki}
+| "[=potsitapitoki+gndr@m.+sem@bird][NRoot][=golden.tanager (sci.nm.: tangara.arthus)]" : {potsitapitoki}
 # ------------------------------------------------------------------------------------------ 
 ! 
-| "[=potsotzi+gndr@n.m.][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsotzi}
-| "[=potsoti+gndr@n.m.][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsoti}
-| "[=potsote+gndr@n.m.][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsote}
-| "[=potsotsi+gndr@n.m.][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsotsi}
+| "[=potsotzi+gndr@n.m.+sem@plant][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsotzi}
+| "[=potsoti+gndr@n.m.+sem@plant][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsoti}
+| "[=potsote+gndr@n.m.+sem@plant][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsote}
+| "[=potsotsi+gndr@n.m.+sem@plant][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]" : {potsotsi}
 ! pothotsipenki / potsotsipenki / EN: 'achiote.pod'
 !| "[=potsotsipenki+~{N:/'annato':potsotsi/}{CL:/'pod':penki/}][NRoot][=achiote.pod]" : {potsotsipenki} ! @section:noun@ 
 ! 
 | "[=potsotziniro+~{N:/'annato':potsotzi/}{CL:/'simulative':niro/}][NRoot][=annatto.sp. (ES: achiote.caspi; sci.nm.: bixa.platycarpa, bixaceae)]" : {potsotziniro}
 ! 
 | "[=potsotaroki+~{V:/'to.paint':potso/}{CL:/'dual':taro/}{CL:/'seed':ki/}][NRoot][=tree.sp. (the.bark.is.used.to.dye.cloth.brown_reddish/yellowish)]" : {potsotaroki}
-| "[=pochotaroki][NRoot][=tree.sp. (the.bark.is.used.to.dye.cloth.brown_reddish/yellowish)]" : {pochotaroki}
+| "[=pochotaroki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (the.bark.is.used.to.dye.cloth.brown_reddish/yellowish)]" : {pochotaroki}
 # ------------------------------------------------------------------------------------------ 
 ! 
 | "[=potyari][NRoot][=salted; half.salted]" : {potyari}
-! 
 # ------------------------------------------------------------
+! 
 | "[=pyaameni+gndr@n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyaameni}
 | "[=pyaamene+gndr@n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyaamene}
 | "[=pyamine+gndr@n.m.][NRoot][=bow, weapon.for.shooting.arrows (ES: arco, balista)]" : {pyamine}
