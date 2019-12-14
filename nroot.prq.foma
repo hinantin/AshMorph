@@ -7106,10 +7106,10 @@ define NRootPRQin [
 !| "[=vatsatsinari+~{N:/'meat':vatsa/}{NPOSS:tsi}{CL:/'consumer.of.sth.':nari/}+gndr@m.][NRoot][=carnivore (ES: carnívoro)]" : {vatsatsinari} ! @section:noun@ 
 # ----------------------------------------------------------------------------
 ! 
-| "[=vela][NRoot][=person's.name]" : {vela}
+| "[=vela+sem@NP.person][NRoot][=person's.name]" : {vela}
 # ------------------------------------------------------------------- 
 ! 
-| "[=vevito][NRoot][=person's.name]" : {vevito}
+| "[=vevito+sem@NP.person][NRoot][=person's.name]" : {vevito}
 ! 
 # ----------------------------------------------------------------------------
 | "[=virakocha][NRoot][=outsider; white.person, non-ashaninka (ES: gente.blanca, no.ashaninka; PT: branco)]" : {virakocha}
@@ -7118,7 +7118,7 @@ define NRootPRQin [
 | "[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (ES: gente.blanca; PT: branco)]" : {wirakotxa}
 # ----------------------------------------------------------------------------
 ! 
-| "[=virotzi][NRoot][=bright-rumped.attila (sci.nm.: attila.spadiceus)]" : {virotzi}
+| "[=virotzi+gndr@m.+sem@bird][NRoot][=bright-rumped.attila (sci.nm.: attila.spadiceus)]" : {virotzi}
 # ------------------------------------------------------------------- 
 ! 
 | "[=vishiriantsi][NRoot][=song.sung.by.more.than.one.person]" : {vishiriantsi}
