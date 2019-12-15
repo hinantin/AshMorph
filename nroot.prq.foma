@@ -2241,7 +2241,7 @@ define NRootPRQin [
 # kemporikishi / =kempori =kishi / =palm.tree.sp. =mountainous.grassland / EN: 'mountainous.grassland.where.the.kempori-palm_tree.is.abundant'; ES: 'pajonal.donde.abunda.el.kempori' 
 | "[=kempori+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {kempori}
 ! 
-| "[=kemporiki][NRoot][=yellow-fruit.producing.shrub.sp. (ES: guayaba)]" : {kemporiki}
+| "[=kemporiki+~{N:/'palm.tree':kempori/}{CL:/'seed-like':ki/}][NRoot][=yellow-fruit.producing.shrub.sp. (ES: guayaba)]" : {kemporiki}
 # ----------------------------------------------------------
 # kimo
 # ----------------------------------------------------------
