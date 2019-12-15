@@ -2234,7 +2234,7 @@ define NRootPRQin [
 ! 
 | "[=kemito+gndr@n.m.+sem@plant][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kemito}
 | "[=kimito+gndr@n.m.+sem@plant][NRoot][=cacao, cacao.plant (botany.nm.: theobroma.cacao)]" : {kimito}
-| "[=kemitoki][NRoot][=cacao]" : {kemitoki}
+| "[=kemitoki+~{N:/'cacao':kemito/}{CL:/'':ki/}][NRoot][=cacao]" : {kemitoki}
 | "[=kakao][NRoot][=cacao (sci.nm.: theobroma.cacao)]" : {kakao}
 # ------------------------------------------------------------ 
 ! 
