@@ -2304,11 +2304,11 @@ define NRootPRQin [
 | "[=kimashi][NRoot][=plant.sp. (ES: espintana; sci.nm.: anaxagorea.pachypetala, annonaceae)]" : {kimashi}
 # --------------------------------------------------------------------- 
 ! 
-| "[=kiniri+gndr@m.][NRoot][=howler.monkey (ES: mono.coto; sci.nm.: alouata.seniculus)]" : {kiniri}
-| "[=keniri+gndr@m.][NRoot][=howler.monkey (ES: mono.aullador, mono.coto; sci.nm.: alouata.seniculus)]" : {keniri}
-| "[=haniri+gndr@m.][NRoot][=monkey.sp. (ES: mono.coto)]" : {haniri}
-| "[=shenonti+gndr@m.][NRoot][=monkey.sp. (ES: mono.coto)]" : {shenonti}
-| "[=shenontzi+gndr@m.][NRoot][=monkey.sp. (ES: mono.coto)]" : {shenontzi}
+| "[=kiniri+gndr@m.+sem@wild.anim.][NRoot][=howler.monkey (ES: mono.coto; sci.nm.: alouata.seniculus)]" : {kiniri}
+| "[=keniri+gndr@m.+sem@wild.anim.][NRoot][=howler.monkey (ES: mono.aullador, mono.coto; sci.nm.: alouata.seniculus)]" : {keniri}
+| "[=haniri+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: mono.coto)]" : {haniri}
+| "[=shenonti+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: mono.coto)]" : {shenonti}
+| "[=shenontzi+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: mono.coto)]" : {shenontzi}
 # --------------------------------------------------------------------- 
 ! 
 | "[=kentaro+gndr@m.+sem@bird][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa)]" : {kentaro}
