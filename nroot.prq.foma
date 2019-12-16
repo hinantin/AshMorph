@@ -2311,10 +2311,10 @@ define NRootPRQin [
 | "[=shenontzi+gndr@m.][NRoot][=monkey.sp. (ES: mono.coto)]" : {shenontzi}
 # --------------------------------------------------------------------- 
 ! 
-| "[=kentaro+gndr@m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa)]" : {kentaro}
-| "[=kentavo+gndr@m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa); venomous.snake.sp. (ES: shushupi)]" : {kentavo}
-| "[=kintaro+gndr@m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa)]" : {kintaro}
-| "[=kintavo+gndr@m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa); yellow-crowned.parrot (sci.nm.: amazona.ochrocephala)]" : {kintavo}
+| "[=kentaro+gndr@m.+sem@bird][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa)]" : {kentaro}
+| "[=kentavo+gndr@m.+sem@bird][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa); venomous.snake.sp. (ES: shushupi)]" : {kentavo}
+| "[=kintaro+gndr@m.+sem@bird][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa)]" : {kintaro}
+| "[=kintavo+gndr@m.+sem@bird][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa); yellow-crowned.parrot (sci.nm.: amazona.ochrocephala)]" : {kintavo}
 # --------------------------------------------------------------------- 
 ! 
 | "[=kentiyoro+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: sauce.de.la.primavera; sci.nm.: ludwigia)]" : {kentiyoro}
