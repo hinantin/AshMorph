@@ -2328,8 +2328,8 @@ define NRootPRQin [
 | "[=atsityopini][NRoot][=river.master (ES: dueño.del.río)]" : {atsityopini}
 # --------------------------------------------------------------------- 
 ! 
-| "[=kintaronke+gndr@m.][NRoot][=loro-machaco.snake, venomous.pitviper.sp. (sci.nm.: bothriopsis.bilineata)]" : {kintaronke}
-| "[=kintaronki+gndr@m.][NRoot][=two-striped.forest.pitviper (ES: boa.esmeraldade.color.verde.y.manchas.blancas.y.grises; sci.nm.: corallus.caninus)]" : {kintaronki}
+| "[=kintaronke+gndr@m.+sem@reptile][NRoot][=loro-machaco.snake, venomous.pitviper.sp. (sci.nm.: bothriopsis.bilineata)]" : {kintaronke}
+| "[=kintaronki+gndr@m.+sem@reptile][NRoot][=two-striped.forest.pitviper (ES: boa.esmeraldade.color.verde.y.manchas.blancas.y.grises; sci.nm.: corallus.caninus)]" : {kintaronki}
 # --------------------------------------------------------------------- 
 ! 
 | "[=kintero+gndr@m.][NRoot][=big.armadillo.sp. (sci.nm.: priodontes.maximus/giganteus; ES: 'especie.de.armadillo.grande', yangunturo, yungunturo); PT: tatú.canastra]" : {kintero}
