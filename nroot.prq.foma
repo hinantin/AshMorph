@@ -15,8 +15,15 @@
 # 0: +~{..}{..}...{..} 
 #    Information on the morphemes of lexicalized entries.
 #    {L.DEL:...} {R.DEL:...} 
-# 1: +gndr@m. (masculine), +gndr@n.m. (not-masculine), +gndr@n./m. (masculine or not-masculine) 
-# 2: +inal@ntsi., +inal@tsi., +inal@n/tsi., +inal@OPC:ntsi. (OPTIONAL)
+
+# 1: +gndr@m. (masculine), 
+#    +gndr@n.m. (not-masculine), 
+#    +gndr@n./m. (masculine or not-masculine) 
+
+# 2: +inal@ntsi., 
+#    +inal@tsi., 
+#    +inal@n/tsi., +inal@OPC:ntsi. (OPTIONAL)
+
 # 3: +poss@ne., +poss@nposs.adj 
 # 4: +voc@N., +voc@nposs ?
 #    vocative FLAGS +N (None, main/basic entry that is transformed according to the possessor). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
@@ -6172,7 +6179,7 @@ define NRootPRQin [
 # --------------------------------------------------------------------- 
 ! 
 # animal nocturno que vive trepado en el bambú.
-| "[=tarato][NRoot][=Amazon.bamboo.rat (ES: zarigüeya, rata.de.bambú; sci.nm.: dactylomys.dactylinus)]" : {tarato}
+| "[=tarato+sem@wild.anim.][NRoot][=Amazon.bamboo.rat (ES: zarigüeya, rata.de.bambú; sci.nm.: dactylomys.dactylinus)]" : {tarato}
 # --------------------------------------------------------------------- 
 ! 
 | "[=tarampia][NRoot][=big.droopy.lip]" : {tarampia} ! @VCMP
