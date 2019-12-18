@@ -4460,8 +4460,8 @@ define NRootPRQin [
 | "[=paukartambo][NRoot][=river's.name]" : {paukartambo}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=patsiri][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa); little.river-toad.sp. (ES: sp.de.sapito.de.río)]" : {patsiri}
-| "[=pachiri][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa); little.river-toad.sp. (ES: sp.de.sapito.de.río)]" : {pachiri}
+| "[=patsiri+gndr@m.+sem@bird][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa); little.river-toad.sp. (ES: sp.de.sapito.de.río)]" : {patsiri}
+| "[=pachiri+gndr@m.+sem@bird][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa); little.river-toad.sp. (ES: sp.de.sapito.de.río)]" : {pachiri}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=patziintoki+gndr@n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patziintoki}
