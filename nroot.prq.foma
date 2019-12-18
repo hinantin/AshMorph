@@ -4487,11 +4487,11 @@ define NRootPRQin [
 | "[=pampyaavo+gndr@n.m.+inal@ntsi.][NRoot][=bridge (ES: puente)]" : {pampyaavo}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pamoro+gndr@m.][NRoot][=dove.sp.; band-tailed.pigeon (sci.nm.: columba.fasciata)]" : {pamoro}
-| "[=pamoo+gndr@m.][NRoot][=dove.sp.; band-tailed.pigeon (sci.nm.: columba.fasciata)]" : {pamoo}
+| "[=pamoro+gndr@m.+sem@bird][NRoot][=dove.sp.; band-tailed.pigeon (sci.nm.: columba.fasciata)]" : {pamoro}
+| "[=pamoo+gndr@m.+sem@bird][NRoot][=dove.sp.; band-tailed.pigeon (sci.nm.: columba.fasciata)]" : {pamoo}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=papaso+gndr@m.][NRoot][=big.beetle.sp.]" : {papaso}
+| "[=papaso+gndr@m.+sem@insect][NRoot][=big.beetle.sp.]" : {papaso}
 # ----------------------------------------------------------------------------- 
 ! 
 # paretani / =pareta -ni /  
@@ -4570,7 +4570,7 @@ define NRootPRQin [
 | "[=picha+gndr@m.][NRoot][=fish.sp. (palometo)]" : {picha}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitchoyotzi+gndr@m.][NRoot][=yellow-backed.tanager, bird.sp. (ES: sp.de.ave; sci.nm.: hemithraupis.flavicollis)]" : {pitchoyotzi}
+| "[=pitchoyotzi+gndr@m.+sem@bird][NRoot][=yellow-backed.tanager, bird.sp. (ES: sp.de.ave; sci.nm.: hemithraupis.flavicollis)]" : {pitchoyotzi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pini+gndr@n.m.+inal@tsi.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pini}
