@@ -4464,9 +4464,9 @@ define NRootPRQin [
 | "[=pachiri+gndr@m.+sem@bird][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa); little.river-toad.sp. (ES: sp.de.sapito.de.río)]" : {pachiri}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=patziintoki+gndr@n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patziintoki}
-| "[=patzintoki+gndr@n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote.monte; sci.nm.: quararibea.wittii, bombacaceae)]" : {patzintoki}
-| "[=patintoki+gndr@n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patintoki}
+| "[=patziintoki+gndr@n.m.+sem@plant][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patziintoki}
+| "[=patzintoki+gndr@n.m.+sem@plant][NRoot][=zapote-like.tree.sp. (ES: zapote.monte; sci.nm.: quararibea.wittii, bombacaceae)]" : {patzintoki}
+| "[=patintoki+gndr@n.m.+sem@plant][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patintoki}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pava+gndr@m.+poss@ni.][NRoot][=(solar|benevolent).deity;| god (ES: dios);| creator (PT: Deus.solar,, o.demiurgo.ashaninka);| dad, father]" : {pava} ! @section:noun@ 
