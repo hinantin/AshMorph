@@ -25,13 +25,16 @@
 #    +inal@n/tsi., +inal@OPC:ntsi. (OPTIONAL)
 
 # 3: +poss@ne., +poss@nposs.adj 
+
 # 4: +voc@N., +voc@nposs ?
 #    vocative FLAGS +N (None, main/basic entry that is transformed according to the possessor). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL
 #    It will be used as follows 1SG:2SG , etc. 
+
 # 5: +kin@fem.ego (EN: kin.of.a.female; ES: parentela.de.mujer, ….habla.de.mujer; PT: parentes.de.uma.fêmea) 
 #    +kin@male.ego (EN: kin.of.a.male; ES: parentela.de.varón, ….habla.de.varón; PT: parentes.de.um.homem) 
 #    +kin@mother's.side:male.ego (EN: mother's.side: kin.of.a.male, male.ego)
 #    +kin@fe/male.ego (EN: kin.of.a.fe/male) 
+
 # 6: +sem@healer.
 #    proper.name
 #    person's.name -> +sem@NP.person 
