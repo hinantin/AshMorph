@@ -56,6 +56,7 @@
 #    non-masculine gender
 #    --------------------
 #    plant.life-forms -> +sem@plant
+#    fruits -> +sem@ant
 #    tools -> +sem@tool
 #    personal.belongings -> +sem@pers.belongs.
 #    supernatural.entities -> +sem@spn.enty.
@@ -714,20 +715,20 @@ define NRootPRQin [
 | "[=choini+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {choini}
 # ------------------------------------------------------------------
 ! 
-| "[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister]" : {chooki}
+| "[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {chooki}
 # ------------------------------------------------------------------
 ! 
-| "[=tyootyo+gndr@n.m.+poss@te:ti.+voc.+kin@male.ego][NRoot][=sister]" : {tyootyo}
+| "[=tyootyo+gndr@n.m.+poss@te:ti.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {tyootyo}
 # ----------------------------------------------------------------
 ! 
 | "[=chokori][NRoot][=spear-like.instrument (ES: arpón)]" : {chokori}
 # ------------------------------------------------------------------
 ! 
-| "[=chokari+gndr@m.][NRoot][=red.bird.sp.]" : {chokari}
+| "[=chokari+gndr@m.+sem@bird][NRoot][=red.bird.sp.]" : {chokari}
 # ------------------------------------------------------------------
 ! 
 # chukootzi
-| "[=chokootzi+gndr@m.][NRoot][=saphire.quail-dove (ES: sp.de.paloma; sci.nm.: geotrygon.saphirina)]" : {chokootzi}
+| "[=chokootzi+gndr@m.+sem@bird][NRoot][=saphire.quail-dove (ES: sp.de.paloma; sci.nm.: geotrygon.saphirina)]" : {chokootzi}
 # ------------------------------------------------------------------
 ! 
 | "[=chochoki+gndr@n.m.][NRoot][=(wild).sweet.fruit (ES: fruta.dulce)]" : {chochoki}
@@ -3141,10 +3142,10 @@ define NRootPRQin [
 | "[=mango/maanko][NRoot][=mango (botany.nm.: manguira.indica, mangifera.indica)]" : {maanko}
 # -----------------------------------------------------------------------
 ! 
-| "[=mankareto][NRoot][=spider.sp. (ES: sp.de.araña)]" : {mankareto}
+| "[=mankareto+gndr@m.+sem@insect][NRoot][=spider.sp. (ES: sp.de.araña)]" : {mankareto}
 # -----------------------------------------------------------------------
 ! 
-| "[=mankori][NRoot][=scarlet-rumped.cacique (sci.nm.: cacicus.uropygialis)]" : {mankori}
+| "[=mankori+gndr@m.+sem@bird][NRoot][=scarlet-rumped.cacique (sci.nm.: cacicus.uropygialis)]" : {mankori}
 # -----------------------------------------------------------------------
 ! 
 | "[=mare+gndr@n.m.+inal@n/tsi.][NRoot][=wristband (ES: pulsera, brazalete)]" : {mare}
