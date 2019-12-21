@@ -689,18 +689,19 @@ define NRootPRQin [
 | "[=chirompe+gndr@m.+sem@insect;worm-shaped.][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: )]" : {chirompe}
 # ------------------------------------------------------------------
 ! 
-| "[=chiroti][NRoot][=small.yellow-with-black.bird.sp. (ES: paucarcillo; sci.nm.: cacicus.leucoramphus, cacicus.c.cela)]" : {chiroti}
-# ------------------------------------------------------------------
-| "[=chiroti][NRoot][=fish.sp. (ES: pez; sci.nm.: leporinus.arcus)]" : {chiroti}
+| "[=chiroti+gndr@m.+sem@bird][NRoot][=small.yellow-with-black.bird.sp. (ES: paucarcillo; sci.nm.: cacicus.leucoramphus, cacicus.c.cela)]" : {chiroti}
 # ------------------------------------------------------------------
 ! 
-| "[=chioni][NRoot][=guan.sp. (ES: chachalaca; sci.nm.: aburria.aburri)]" : {chioni}
+| "[=chiroti+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: pez; sci.nm.: leporinus.arcus)]" : {chiroti}
 # ------------------------------------------------------------------
 ! 
-| "[=chiovante][NRoot][=mouse.opossum (ES: laucha; sci.nm.: marmosa.murina)]" : {chiovante}
+| "[=chioni+gndr@m.+sem@bird][NRoot][=guan.sp. (ES: chachalaca; sci.nm.: aburria.aburri)]" : {chioni}
 # ------------------------------------------------------------------
 ! 
-| "[=chiovero][NRoot][=tinamou.sp. (sci.nm.: crypturellus.obsoletus)]" : {chiovero}
+| "[=chiovante+gndr@m.+sem@wild.anim.][NRoot][=mouse.opossum (ES: laucha; sci.nm.: marmosa.murina)]" : {chiovante}
+# ------------------------------------------------------------------
+! 
+| "[=chiovero+gndr@m.+sem@bird][NRoot][=tinamou.sp. (sci.nm.: crypturellus.obsoletus)]" : {chiovero}
 # ------------------------------------------------------------------
 ! 
 | "[=chito][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {chito} 
