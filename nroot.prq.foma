@@ -1772,10 +1772,10 @@ define NRootPRQin [
 | "[=ivayetziri][NRoot][=warrior (ES: guerrero)]" : {ivayetziri}
 # ---------------------------------------------------------------------
 ! 
-| "[=iye+gndr@m.+kin@male.ego][NRoot][=brother]" : {iye}
-| "[=iyenti+gndr@m.+kin@male.ego][NRoot][=brother]" : {iyenti}
-| "[=iyeki+gndr@m.+kin@male.ego][NRoot][=brother]" : {iyeki}
-| "[=iyiki+gndr@m.+kin@male.ego][NRoot][=brother]" : {iyiki}
+| "[=iye+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {iye}
+| "[=iyenti+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {iyenti}
+| "[=iyeki+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {iyeki}
+| "[=iyiki+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {iyiki}
 # ---------------------------------------------------------------------
 ! 
 | "[=iyento+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: phrynohyas.venulosa)]" : {iyento}
