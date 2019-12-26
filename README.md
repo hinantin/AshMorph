@@ -74,11 +74,13 @@ How to download the source code
 ===============================
 
 * Using `wget`
+
 ```
 $ wget https://github.com/hinantin/AshaninkaMorph/archive/master.zip 
 ```
 
 * Cloning this repository
+
 ```
 $ git clone https://github.com/hinantin/AshaninkaMorph
 ```
