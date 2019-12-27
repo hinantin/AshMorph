@@ -5547,7 +5547,7 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=santeripana+~+{N:/'UNK':santeri/}{CL:/'wide.green.leaf-like':pana/}+gndr@n.m.][NRoot][=flavoring.leaf (ES: hoja.saborizante.(para.chipado/QU:patarasqa))]" : {santeripana}
-| "[=hanteripana+gndr@n.m.][NRoot][=flavoring.leaf (ES: hoja.saborizante.(para.chipado/QU:patarasqa))]" : {hanteripana}
+| "[=hanteripana+~+{N:/'UNK':santeri/}{CL:/'wide.green.leaf-like':pana/}+gndr@n.m.][NRoot][=flavoring.leaf (ES: hoja.saborizante.(para.chipado/QU:patarasqa))]" : {hanteripana}
 # ------------------------------------------------------------
 ! 
 | "[=santero+gndr@m.+sem@bird][NRoot][=red-bellied.macaw (sci.nm.: ara.manilata, aratinga.weddelli)]" : {santero}
