@@ -2269,8 +2269,8 @@ define VRootPRQin [
 | "[=san][VRoot][=to.drop, to.throw]" : {san}
 # ------------------------------------------------------
 ! 
-| "[=pitasa+INF@/EP:t/V.][VRoot][=to.fish.with.a.small.hook (ES: ansolear)]" : {pitasa}
-| "[=pitasaa+INF@/EP:t/V.][VRoot][=to.fish.with.a.small.hook (ES: ansolear)]" : {pitasaa}
+| "[=pitasa+INF@/EP:t/V.][VRoot][=to.fish.with.a.(small).hook (ES: ansolear)]" : {pitasa}
+| "[=pitasaa+INF@/EP:t/V.][VRoot][=to.fish.with.a.(small).hook (ES: ansolear)]" : {pitasaa}
 | "[=ampitasa+INF@/EP:t/V.][VRoot][=to.fish.with.a.(small).hook (ES: ansolear)]" : {ampitasa}
 # ------------------------------------------------------
 ! 
