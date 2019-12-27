@@ -2265,6 +2265,8 @@ define VRootPRQin [
 | "[=apishonk+INF@aantsi.][VRoot][=to.throw.sth. (ES: tirar, lanzar, botar)]" : {apishonk}
 ! 
 | "[=san+INF@aantsi.][VRoot][=to.throw.sth. (ES: tirar, lanzar)]" : {san}
+! 
+| "[=san][VRoot][=to.drop, to.throw]" : {san}
 # ------------------------------------------------------
 ! 
 | "[=pitasa+INF@/EP:t/V.][VRoot][=to.fish.with.a.small.hook (ES: ansolear)]" : {pitasa}
@@ -2482,9 +2484,6 @@ define VRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=same][VRoot][=to.have.a.bad.taste.in.the.mouth]" : {same}
-# ---------------------------------------------------------------------------
-! 
-| "[=san][VRoot][=to.drop, to.throw]" : {san}
 # ---------------------------------------------------------------------------
 ! 
 | "[=sank+INF@agantsi.+poss@ane.][VRoot][=to.smell (ES: oler)]" : {sank}
