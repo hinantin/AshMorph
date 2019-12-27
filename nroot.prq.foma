@@ -515,7 +515,7 @@ define NRootPRQin [
 | "[=chevo+inal@tsi.][NRoot][=tree's.branch]" : {chevo}  
 # ------------------------------------------------------------------
 ! 
-| "[=chavari][NRoot][=person's.name, NP]" : {chavari}
+| "[=chavari+sem@NP.person][NRoot][=person's.name, NP]" : {chavari}
 # ------------------------------------------------------------------  
 ! 
 | "[=chaverenchakiti+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: osteocephalus.leprieurii)]" : {chaverenchakiti}
