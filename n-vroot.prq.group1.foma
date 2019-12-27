@@ -94,7 +94,7 @@ define NounToVerbPRQin [
 | "[=pitziki][NRoot][=male.genitals][^VBZ]" : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals][^VBZ]" : {pitzik} ! N@->V
 | "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]::[=to.fart (ES: tirarse.un.pedo)][^VBZ]" : {santi} ! N@->V::[=to.fart (ES: tirarse.un.pedo)] 
-| "[=kasanto][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]::[=to.be.an.orchid][^VBZ]" : {kasanto} ! N@->V::[=to.be.an.orchid]  
+| "[=kasanto+gndr@n.m.][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]::[=to.be.an.orchid][^VBZ]" : {kasanto} ! N@->V::[=to.be.an.orchid]  
 | "[=sheno+gndr@n.m.+inal@tsi.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)][^VBZ]" : {sheno} ! N@->V 
 | "[=sheripiari+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]::[=to.be.a.shaman][^VBZ]" : {sheripiari} ! N@->V::[=to.be.a.shaman]  
 | "[=sheripiyari+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]::[=to.act.as.a.shaman][^VBZ]" : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
