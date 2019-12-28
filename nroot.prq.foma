@@ -5097,14 +5097,13 @@ define NRootPRQin [
 ! 
 # --------------------------------------------------------------------------
 ! 
-| "[=renti+gndr@m.+kin@male.ego][NRoot][=brother]" : {renti}
-| "[=reenti+gndr@m.+kin@male.ego][NRoot][=brother]" : {reenti}
-| "[=rentzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {rentzi}
-| "[=rintzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {rintzi}
-| "[=irenti+gndr@m.+kin@male.ego][NRoot][=brother]" : {irenti}
-| "[=irentzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {irentzi}
-| "[=irintzi+gndr@m.+kin@male.ego][NRoot][=brother]" : {irintzi}
-! 
+| "[=renti+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {renti}
+| "[=reenti+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {reenti}
+| "[=rentzi+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {rentzi}
+| "[=rintzi+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {rintzi}
+| "[=irenti+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {irenti}
+| "[=irentzi+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {irentzi}
+| "[=irintzi+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {irintzi}
 # --------------------------------------------------------------------------
 # Vocative form 
 ! 1st person ?
