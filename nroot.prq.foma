@@ -5123,7 +5123,7 @@ define NRootPRQin [
 | "[=reloj/riro+poss@te.][NRoot][=watch (ES: reloj)]" : {riro}
 # --------------------------------------------------------------------------
 ! 
-#| "[=saakirovenki+~{'UNKNOWN':saakiro}{CL:/'magic.plant':(i)venki/}][NRoot][= (ES: sp.de.piripiri; sci.nm.: cyperaceae)]" : {saakirovenki}
+#| "[=saakirovenki+~{'UNKNOWN':saakiro}{R.DEL:i}{CL:/'magic.plant':ivenki/}][NRoot][=piripiri.plant (ES: sp.de.piripiri; sci.nm.: cyperaceae)]" : {saakirovenki}
 # --------------------------------------------------------------------------
 ! 
 | "[=saankotzi+gndr@m.][NRoot][=cinereous.tinamou (ES: perdiz.negra; sci.nm.: crypturellus.cinereus)]" : {saankotzi}
