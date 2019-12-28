@@ -5107,17 +5107,17 @@ define NRootPRQin [
 # --------------------------------------------------------------------------
 # Vocative form 
 ! 1st person ?
-| "[=rento+gndr@n.m.+inal@tsi.+kin@fem.ego][NRoot][=sister]" : {rento}
-| "[=reento+gndr@n.m.+inal@tsi.+kin@fem.ego][NRoot][=sister]" : {reento}
-| "[=irento+gndr@n.m.+kin@fem.ego+voc@1SG:2SG:3SG:1PL.][NRoot][=sister]" : {irento} ! @section:noun@ 
-| "[=ireento+gndr@n.m.+kin@fem.ego][NRoot][=sister]" : {ireento}
-| "[=irinto+gndr@n.m.+kin@fem.ego][NRoot][=sister]" : {irinto}
-| "[=irintyo~irin{E.PAL.:ty}o+gndr@n.m.+kin@fem.ego][NRoot][=little.sister]" : {irintyo}
+| "[=rento+gndr@n.m.+inal@tsi.+kin@fem.ego][NRoot][=sister (ES: hermana)]" : {rento}
+| "[=reento+gndr@n.m.+inal@tsi.+kin@fem.ego][NRoot][=sister (ES: hermana)]" : {reento}
+| "[=irento+gndr@n.m.+kin@fem.ego+voc@1SG:2SG:3SG:1PL.][NRoot][=sister (ES: hermana)]" : {irento} ! @section:noun@ 
+| "[=ireento+gndr@n.m.+kin@fem.ego][NRoot][=sister (ES: hermana)]" : {ireento}
+| "[=irinto+gndr@n.m.+kin@fem.ego][NRoot][=sister (ES: hermana)]" : {irinto}
+| "[=irintyo~irin{E.PAL.:ty}o+gndr@n.m.+kin@fem.ego][NRoot][=little.sister (ES: hermanita)]" : {irintyo}
 ! 
-| "[=entyo+gndr@n.m.+kin@fem.ego+voc@N.][NRoot][=sister;| female.cousin]" : {entyo} ! @section:noun@ 
-| "[=eentyo+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin]" : {eentyo}
-| "[=iintyo+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin]" : {iintyo} ! revise! 
-| "[=eentio+gndr@n.m.+kin@fem.ego][NRoot][=sister; female.cousin (EN: daughter.of.the.mother's.sister)]" : {eentio}
+| "[=entyo+gndr@n.m.+kin@fem.ego+voc@N.][NRoot][=sister (ES: hermana);| female.cousin]" : {entyo} ! @section:noun@ 
+| "[=eentyo+gndr@n.m.+kin@fem.ego][NRoot][=sister (ES: hermana); female.cousin]" : {eentyo}
+| "[=iintyo+gndr@n.m.+kin@fem.ego][NRoot][=sister (ES: hermana); female.cousin]" : {iintyo} ! revise! 
+| "[=eentio+gndr@n.m.+kin@fem.ego][NRoot][=sister (ES: hermana); female.cousin (EN: daughter.of.the.mother's.sister)]" : {eentio}
 # --------------------------------------------------------------------------
 ! 
 | "[=reloj/riro+poss@te.][NRoot][=watch (ES: reloj)]" : {riro}
