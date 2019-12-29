@@ -4610,10 +4610,10 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 # OrdenColeoptera, FamiliaScolytidaeconocidos como escarabajos de ambrosía y los orden Coleoptera, Familia Platypodidae.
-| "[=periki+gndr@m.][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {periki} ! @section:noun@ 
-| "[=pereki+gndr@m.][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pereki}
-| "[=perikitzi+gndr@m.][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {perikitzi}
-| "[=pirikitzi+gndr@m.][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pirikitzi}
+| "[=periki+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {periki} ! @section:noun@ 
+| "[=pereki+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pereki}
+| "[=perikitzi+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {perikitzi}
+| "[=pirikitzi+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pirikitzi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=piryoki][NRoot][=coconut.palm.grub]" : {piryoki}
@@ -4622,7 +4622,7 @@ define NRootPRQin [
 | "[=pentaki+gndr@n.m.+inal@ntsi.][NRoot][=watermelon-like.flat.seed; fish.scale (ES: escama); sth.of.round-shape.with.2.sides.flattened]" : {pentaki}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=peerotyaki+gndr@m.][NRoot][=insect.sp.]" : {peerotyaki}
+| "[=peerotyaki+gndr@m.+sem@insect][NRoot][=insect.sp.]" : {peerotyaki}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pereki+gndr@m.][NRoot][=moth.sp.]" : {pereki}
