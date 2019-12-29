@@ -1508,12 +1508,12 @@ define NRootPRQin [
 | "[=kirinka][NRoot][=down.river, downstream (ES: río.abajo); central.part.of.the.jungle]" : {kirinka}
 # ---------------------------------------------------------------------
 ! 
-| "[=kivinti][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {kivinti}
-| "[=kivintzi][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {kivintzi}
+| "[=kivinti+gndr@m.+sem@insect][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {kivinti}
+| "[=kivintzi+gndr@m.+sem@insect][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {kivintzi}
 ! 
-| "[=saimperi][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {saimperi}
+| "[=saimperi+gndr@m.+sem@insect][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {saimperi}
 ! 
-| "[=hyiimpiro][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {hyiimpiro}
+| "[=hyiimpiro+gndr@m.+sem@insect][NRoot][=yellow.wasp.sp. (ES: avispa.amarilla)]" : {hyiimpiro}
 # ---------------------------------------------------------------------
 ! 
 | "[=kyaari][NRoot][=yellow-ridget.toucan (sci.nm.: ramphastos.culminatus)]" : {kyaari}
