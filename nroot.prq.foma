@@ -4327,10 +4327,11 @@ define NRootPRQin [
 ! 
 | "[=pahone+inal@ntsi.][NRoot][=pumpkin.mate_tea (ES: mate.(hecho.de.calabaza))]" : {pahone}
 | "[=pahoni+inal@ntsi.][NRoot][=pumpkin.mate_tea (ES: mate.(hecho.de.calabaza))]" : {pahoni}
+# ----------------------------------------------------------------------------- 
 ! 
-| "[=paho+gndr@n.m.][NRoot][=recipient/container.type (ES: recipiente, pate); bowl.type]" : {paho}
-| "[=paaho+gndr@n.m.][NRoot][=recipient/container.type (ES: recipiente, pate); bowl.type]" : {paaho}
-| "[=paso+gndr@n.m.][NRoot][=recipient/container.type (ES: recipiente, pate); bowl.type]" : {paso}
+| "[=paho+gndr@n.m.][NRoot][=recipient/container.type (ES: recipiente, tazón, pate); bowl.type]" : {paho}
+| "[=paaho+gndr@n.m.][NRoot][=recipient/container.type (ES: recipiente, tazón, pate); bowl.type]" : {paaho}
+| "[=paso+gndr@n.m.][NRoot][=recipient/container.type (ES: recipiente, tazón, pate); bowl.type]" : {paso}
 ! pitotsina 
 ! inchatona 
 ! piarina 
