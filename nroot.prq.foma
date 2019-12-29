@@ -4439,6 +4439,7 @@ define NRootPRQin [
 | "[=paryantzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {paryantzi}
 | "[=pareantzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {pareantzi}
 !| "[=pariantia+~{N:/'plantain':parianti/}{CL:/'liquid':a/}][NRoot][=(plantain|banana).beer]" : {pariantia} ! @section:noun@ 
+!| "[=paryantzikeni+~{N:/'plantain':paryantzi/}{CL:/'worm':keni/}+gndr@m.+sem@insect][NRoot][=plantain.mite (ES: gorgojo.que.ataca.al.plátano);| plantain.worm (ES: gusano.que.ataca.al.plátano)]" : {pariantia} ! @section:noun@ 
 ! oveshiki parenti / =oveshiki =parenti / =new.sprout =plantain / EN: 'plantain.sprout'; ES: 'brote/mamón.del.plátano'
 !| "[=oveshiki_parenti][NRoot][=plantain.sprout (ES: brote/mamón.del.plátano)]" : {oveshiki_parenti} ! @section:noun@ 
 # ----------------------------------------------------------------------------- 
