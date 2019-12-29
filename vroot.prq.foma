@@ -2099,14 +2099,16 @@ define VRootPRQin [
 # -----------------------------------------------------------------------------------------------
 ! 
 | "[=pas][VRoot][=to.crush]" : {pas}
-| "[=pasa][VRoot][=to.punish; to.hit, to.beat.up]" : {pasa}
+| "[=pasa+INF@/EP:t/aantsi.][VRoot][=to.punish; to.hit, to.beat.up]" : {pasa}
+! 
+| "[=pasavako+~{'to.hit':pasa}{CL:/'hand':vako/}][VRoot][= (ES: golpear/azotar.la.mano.de.otro)]" : {pasavako}
 # ------------------------------------------------------
 ! 
 | "[=pasaka+INF@/EP:t/antsi.][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasaka}
 | "[=pasakaa+INF@/EP:t/antsi.][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasakaa}
 # ------------------------------------------------------
 ! 
-| "[=pasavako+~{'to.hit':pas}{EP:a}{CL:/'hand':vako/}][VRoot][=to.applaud, to.clap (ES: aplaudir)]" : {pasavako}
+| "[=pasavako+~{'to.hit':pasa}{CL:/'hand':vako/}][VRoot][=to.applaud, to.clap (ES: aplaudir)]" : {pasavako}
 ! 
 | "[=chotank+INF@aantsi.][VRoot][=to.applaud, to.clap (ES: aplaudir)]" : {chotank}
 # ------------------------------------------------------
