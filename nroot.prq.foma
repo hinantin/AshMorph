@@ -4614,10 +4614,10 @@ define NRootPRQin [
 | "[=pereki+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pereki}
 | "[=perikitzi+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {perikitzi}
 | "[=pirikitzi+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pirikitzi}
-!| "[=pereki+gndr@m.][NRoot][=moth.sp.]" : {pereki}
-| "[=piriki+gndr@m.][NRoot][=moth.sp.]" : {piriki}
-| "[=perekitzi+gndr@m.][NRoot][=moth.sp.]" : {perekitzi}
-| "[=pirikitzi+gndr@m.][NRoot][=moth.sp.]" : {pirikitzi}
+!| "[=pereki+gndr@m.+sem@insect][NRoot][=moth.sp.]" : {pereki}
+| "[=piriki+gndr@m.+sem@insect][NRoot][=moth.sp.]" : {piriki}
+| "[=perekitzi+gndr@m.+sem@insect][NRoot][=moth.sp.]" : {perekitzi}
+| "[=pirikitzi+gndr@m.+sem@insect][NRoot][=moth.sp.]" : {pirikitzi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=piryoki][NRoot][=coconut.palm.grub]" : {piryoki}
@@ -4640,7 +4640,7 @@ define NRootPRQin [
 | "[=peshi+gndr@n.m.+inal@tsi.][NRoot][=shoot (ES: retoño); stalk.of.a.plant, cluster, the.part.of.the.banana_plant.that.is.planted]" : {peshi} ! @CMP 
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=piichotzi][NRoot][=paradise.tanager (sci.nm.: tangara.chilensis)]" : {piichotzi}
+| "[=piichotzi+gndr@m.+sem@bird][NRoot][=paradise.tanager (sci.nm.: tangara.chilensis)]" : {piichotzi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=piiki][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: sapiumgland.ulosum)]" : {piiki}
