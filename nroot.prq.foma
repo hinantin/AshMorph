@@ -4346,8 +4346,8 @@ define NRootPRQin [
 | "[=painto+gndr@m.+sem@amphibian][NRoot][=small.toad.sp. (sci.nm.: leptodactylus.rhodonotus)]" : {painto}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=paintzi+gndr@m.][NRoot][=blue.color.bird.sp.; blue-gray.tanager (sci.nm.: thraupis.episcopus)]" : {paintzi}
-| "[=paikitzi+gndr@m.][NRoot][=blue.color.bird.sp.; blue-gray.tanager (sci.nm.: thraupis.episcopus)]" : {paikitzi}
+| "[=paintzi+gndr@m.+sem@bird][NRoot][=blue.color.bird.sp.; blue-gray.tanager (sci.nm.: thraupis.episcopus)]" : {paintzi}
+| "[=paikitzi+gndr@m.+sem@bird][NRoot][=blue.color.bird.sp.; blue-gray.tanager (sci.nm.: thraupis.episcopus)]" : {paikitzi}
 # ----------------------------------------------------------------------------- 
 !
 | "[=paiko][NRoot][=wormseed (ES: paico; sci.nm.: chenopodium.ambrosioides.l.)]" : {paiko} 
