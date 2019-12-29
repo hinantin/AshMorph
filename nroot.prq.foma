@@ -4614,6 +4614,10 @@ define NRootPRQin [
 | "[=pereki+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pereki}
 | "[=perikitzi+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {perikitzi}
 | "[=pirikitzi+gndr@m.+sem@insect][NRoot][=moth.sp. (ES: sp.de.polilla)]" : {pirikitzi}
+!| "[=pereki+gndr@m.][NRoot][=moth.sp.]" : {pereki}
+| "[=piriki+gndr@m.][NRoot][=moth.sp.]" : {piriki}
+| "[=perekitzi+gndr@m.][NRoot][=moth.sp.]" : {perekitzi}
+| "[=pirikitzi+gndr@m.][NRoot][=moth.sp.]" : {pirikitzi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=piryoki][NRoot][=coconut.palm.grub]" : {piryoki}
@@ -4623,12 +4627,6 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=peerotyaki+gndr@m.+sem@insect][NRoot][=insect.sp.]" : {peerotyaki}
-# ------------------------------------------------------------------------------------------
-! 
-| "[=pereki+gndr@m.][NRoot][=moth.sp.]" : {pereki}
-| "[=piriki+gndr@m.][NRoot][=moth.sp.]" : {piriki}
-| "[=perekitzi+gndr@m.][NRoot][=moth.sp.]" : {perekitzi}
-| "[=pirikitzi+gndr@m.][NRoot][=moth.sp.]" : {pirikitzi}
 # ------------------------------------------------------------------------------------------
 ! 
 # suri-fish 
