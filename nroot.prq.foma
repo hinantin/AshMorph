@@ -3024,11 +3024,11 @@ define NRootPRQin [
 | "[=maho+gndr@m.+sem@worm-shaped][NRoot][=bamboo.big-and-white.larva/worm.sp. (ES: sp.de.gusano/larva; sci.nm.: orden.coleoptera, familia.scarabaeidae)]" : {maho}
 # -----------------------------------------------------------------------
 ! 
-| "[=mahoti][NRoot][=potoo.sp. (ES: chotacabra; sci.nm.: nyctibius.griseus)]" : {mahoti}
-| "[=narani][NRoot][=potoo.sp. (ES: chotacabra); eagle-like.nocturnal.bird.sp. (ES: ave.nocturna.simlar.al.alguila)]" : {narani}
-| "[=ariti][NRoot][=potoo.sp. (ES: chotacabra); medium-sized.edible.bird (ES: ave.comestible.mediana)]" : {ariti}
-| "[=ariiti][NRoot][=potoo.sp. (ES: chotacabra); medium-sized.edible.bird (ES: ave.comestible.mediana)]" : {ariiti}
-| "[=santani][NRoot][=potoo.sp. (ES: chotacabra); edible.nocturnal.bird (ES: ave.nocturna.comestible)]" : {santani}
+| "[=mahoti+gndr@m.+sem@bird][NRoot][=potoo.sp. (ES: chotacabra; sci.nm.: nyctibius.griseus)]" : {mahoti}
+| "[=narani+gndr@m.+sem@bird][NRoot][=potoo.sp. (ES: chotacabra); eagle-like.nocturnal.bird.sp. (ES: ave.nocturna.simlar.al.alguila)]" : {narani}
+| "[=ariti+gndr@m.+sem@bird][NRoot][=potoo.sp. (ES: chotacabra); medium-sized.edible.bird (ES: ave.comestible.mediana)]" : {ariti}
+| "[=ariiti+gndr@m.+sem@bird][NRoot][=potoo.sp. (ES: chotacabra); medium-sized.edible.bird (ES: ave.comestible.mediana)]" : {ariiti}
+| "[=santani+gndr@m.+sem@bird][NRoot][=potoo.sp. (ES: chotacabra); edible.nocturnal.bird (ES: ave.nocturna.comestible)]" : {santani}
 # -----------------------------------------------------------------------
 ! 
 | "[=mahoki+gndr@m.][NRoot][=tadpole.of.a.toad.sp., toad (ES: sp.de.renacuajo, sapo)]" : {mahoki}
