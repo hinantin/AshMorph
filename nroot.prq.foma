@@ -1047,7 +1047,7 @@ define NRootPRQin [
 | "[=sampovatsa+gndr@n.m.+poss@te.][NRoot][=mud (ES: barro); clay]" : {sampovatsa}
 # ------------------------------------------------------------------
 ! 
-| "[=haipempe+gndr@m.][NRoot][=white-plumed.antbird (sci.nm.: pithys.albifrons)]" : {haipempe}
+| "[=haipempe+gndr@m.+sem@bird][NRoot][=white-plumed.antbird (sci.nm.: pithys.albifrons)]" : {haipempe}
 # ------------------------------------------------------------------
 ! 
 | "[=hananeki][NRoot][=child]" : {hananeki}
@@ -1055,7 +1055,8 @@ define NRootPRQin [
 | "[=hani][NRoot][=little.child]" : {hani} ! @VCMP 
 # ------------------------------------------------------------------
 ! 
-| "[=hananeri][NRoot][=person's.name; river.of.eternal.youth (ES: río.de.la.eterna.juventud)]" : {hananeri}
+| "[=hananeri+sem@NP.person][NRoot][=person's.name]" : {hananeri}
+| "[=hananeri][NRoot][=river.of.eternal.youth (ES: río.de.la.eterna.juventud)]" : {hananeri}
 # ------------------------------------------------------------------
 ! 
 # We are including the -nti/nposs suffix within the root to form a verbal root 
@@ -1070,15 +1071,12 @@ define NRootPRQin [
 | "[=haanari][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]" : {haanari}
 # ------------------------------------------------------------------
 ! 
-| "[=haachotzi+gndr@m.][NRoot][=black-tailed.trogon (ES: sp.de.pájaro.con.pecho.colorado; sci.nm.: trogon.melanurus)]" : {haachotzi}
+| "[=haachotzi+gndr@m.+sem@bird][NRoot][=black-tailed.trogon (ES: sp.de.pájaro.con.pecho.colorado; sci.nm.: trogon.melanurus)]" : {haachotzi}
 # ------------------------------------------------------------------
 ! 
 | "[=haavari+gndr@m.][NRoot][=warm, hot (prbly.liquid)]" : {haavari}
 | "[=saavaari+gndr@m.][NRoot][=warm, hot (prbly.liquid)]" : {saavaari}
 | "[=saavaaro+gndr@n.m.][NRoot][=warm, hot (prbly.liquid)]" : {saavaaro}
-# ------------------------------------------------------------------
-! 
-| "[=haviri][NRoot][=machete (ES: machete)]" : {haviri}
 # ------------------------------------------------------------------
 ! 
 | "[=haye+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga, shirataco)]" : {haye}
@@ -5605,9 +5603,10 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=saviri+gndr@n.m.+poss@te.][NRoot][=machete]" : {saviri}
+| "[=haviri][NRoot][=machete (ES: machete)]" : {haviri}
 # ------------------------------------------------------------
 ! 
-| "[=sechi][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: género.camponotus)]" : {sechi}
+| "[=sechi+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: género.camponotus)]" : {sechi}
 # ------------------------------------------------------------
 ! 
 # la larva 'sechiki' se desarrolla en los tallos podridos de la caña brava al borde de las quebradas. 
