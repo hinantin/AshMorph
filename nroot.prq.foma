@@ -951,8 +951,8 @@ define NRootPRQin [
 | "[=emotake+gndr@m.+sem@insect][NRoot][=beetle.sp. (ES: escarabajo; sci.nm.: rhynchophorus.palmarum)]" : {emotake}
 # ------------------------------------------------------------------
 ! 
-| "[=Eni][NP][=river (Ene.river)]" : {eni}
-| "[=Ene][NP][=river (Ene.river)]" : {ene}
+| "[=Eni+sem@NP.river][NP][=river (Ene.river)]" : {eni}
+| "[=Ene+sem@NP.river][NP][=river (Ene.river)]" : {ene}
 # ------------------------------------------------------------------
 ! 
 | "[=erama+gndr@m.][NRoot][=2-3cm-size.yellow-bellied.black.worm.sp.]" : {erama}
@@ -997,12 +997,12 @@ define NRootPRQin [
 | "[=eteni][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]" : {eteni}
 # ---------------------------------------------------------------------------------------
 ! 
-| "[=etziki+gndr@n.m.][NRoot][=wild.fruit.sp. (ES: sp.de.fruta.silvestre, caimitillo)]" : {etziki}
-| "[=etiki+gndr@n.m.][NRoot][=wild.fruit.sp. (ES: sp.de.fruta.silvestre, caimitillo)]" : {etiki}
-| "[=etsiki][NRoot][=armadillo-fruit, curled_up.armadillo-like.fruit (ES: fruta.de.monte)]" : {etsiki}
-| "[=etsiki+gndr@n.m.][NRoot][=wild.fruit (ES: fruta.de.monte; PT: fruto.silvestre)]" : {etsiki}
-| "[=itsiki+gndr@n.m.][NRoot][=wild.fruit (ES: fruta.de.monte; PT: fruto.silvestre)]" : {itsiki}
-| "[=echiki][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: helycostilis.tormentosa)]" : {echiki}
+| "[=etziki+gndr@n.m.+sem@fruit][NRoot][=wild.fruit.sp. (ES: sp.de.fruta.silvestre, caimitillo)]" : {etziki}
+| "[=etiki+gndr@n.m.+sem@fruit][NRoot][=wild.fruit.sp. (ES: sp.de.fruta.silvestre, caimitillo)]" : {etiki}
+| "[=etsiki+gndr@n.m.+sem@fruit][NRoot][=armadillo-fruit, curled_up.armadillo-like.fruit (ES: fruta.de.monte)]" : {etsiki}
+| "[=etsiki+gndr@n.m.+sem@fruit][NRoot][=wild.fruit (ES: fruta.de.monte; PT: fruto.silvestre)]" : {etsiki}
+| "[=itsiki+gndr@n.m.+sem@fruit][NRoot][=wild.fruit (ES: fruta.de.monte; PT: fruto.silvestre)]" : {itsiki}
+| "[=echiki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: helycostilis.tormentosa)]" : {echiki}
 # ---------------------------------------------------------------------------------------
 ! 
 | "[=etita][NRoot][=guan.sp. (ES: sp.de.chachalaca; sci.nm.: ortalis.guttata)]" : {etita}
