@@ -4299,8 +4299,8 @@ define NRootPRQin [
 | "[=pachaka][NRoot][=person's.name; stone.divinity]" : {pachaka}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pachakitzi+gndr@m.][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachakitzi}
-| "[=pachaketzi+gndr@m.][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachaketzi}
+| "[=pachakitzi+gndr@m.+sem@bird][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachakitzi}
+| "[=pachaketzi+gndr@m.+sem@bird][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachaketzi}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pachoi+gndr@n.m.][NRoot][=cocona-like.fruit.sp. (ES: remo.caspi; sci.nm.: swartzia.brachyrachis, caesalpiniaceae)]" : {pachoi}
