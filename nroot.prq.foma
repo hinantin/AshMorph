@@ -4303,7 +4303,7 @@ define NRootPRQin [
 | "[=pachaketzi+gndr@m.+sem@bird][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachaketzi}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pachoi+gndr@n.m.][NRoot][=cocona-like.fruit.sp. (ES: remo.caspi; sci.nm.: swartzia.brachyrachis, caesalpiniaceae)]" : {pachoi}
+| "[=pachoi+gndr@n.m.+sem@fruit][NRoot][=cocona-like.fruit.sp. (ES: remo.caspi; sci.nm.: swartzia.brachyrachis, caesalpiniaceae)]" : {pachoi}
 # ----------------------------------------------------------------------------- 
 ! 
 ! novaje / novahe / no- =pahe / EN: 'my.gray_hair'; ES: 'mi.cana' 
@@ -4315,8 +4315,8 @@ define NRootPRQin [
 | "[=pahenti+gndr@n.m.][NRoot][=gray-haired, white-haired (ES: canoso)]" : {pahenti}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pahetsi+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {pahetsi}
-| "[=pahechi+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {pahechi}
+| "[=pahetsi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {pahetsi}
+| "[=pahechi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {pahechi}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=paho+poss@ni.][NRoot][=bejuco.sp. (pate); pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete); gourd.sp.]" : {paho}
@@ -4357,16 +4357,16 @@ define NRootPRQin [
 | "[=pama+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza; botany.id.: lagenaria.sp.); tree.sp. (ES: sp.de.árbol)]" : {pama}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pamatyaki+gndr@m.][NRoot][=fork-tailed.paim-swift (ES: golondrinita.del.río, pájaro.negro.que.hace.huecos.en.la.tierra; sci.nm.: reinarda.squamata)]" : {pamatyaki}
+| "[=pamatyaki+gndr@m.+sem@bird][NRoot][=fork-tailed.paim-swift (ES: golondrinita.del.río, pájaro.negro.que.hace.huecos.en.la.tierra; sci.nm.: reinarda.squamata)]" : {pamatyaki}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pamaki][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol); red.fruit (ES: chimiqua, chimicua; sci.nm.: pourouma.minor.benoist)]" : {pamaki}
+| "[=pamaki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol); red.fruit (ES: chimiqua, chimicua; sci.nm.: pourouma.minor.benoist)]" : {pamaki}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pamoko+poss@ti.][NRoot][=bejuco.sp. (pate); gourd (climbing.plant.that.bears.gourds)]" : {pamoko}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=panashinte][NRoot][=sapote-like.tree.sp. (ES: sapote/zapote.silvestre; sci.nm.: matisia.cordata)]" : {panashinte}
+| "[=panashinte+gndr@n.m.+sem@plant][NRoot][=sapote-like.tree.sp. (ES: sapote/zapote.silvestre; sci.nm.: matisia.cordata)]" : {panashinte}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=panaropa][NRoot][=wild.papaya (ES: papaya.silvestre; sci.nm.: jacaratia.digitata)]" : {panaropa}
