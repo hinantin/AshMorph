@@ -4373,7 +4373,7 @@ define NRootPRQin [
 | "[=panaro+gndr@n.m.+sem@plant][NRoot][=a.type.of.tree]" : {panaro}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=panava+gndr@m.][NRoot][=partridge.sp. (ES: sp.de.perdiz, unchala; sci.nm.: crypturellus.atrocallipus)]" : {panava}
+| "[=panava+gndr@m.+sem@bird][NRoot][=partridge.sp. (ES: sp.de.perdiz, unchala; sci.nm.: crypturellus.atrocallipus)]" : {panava}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=panka+gndr@n.m.+inal@tsi.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
@@ -4408,10 +4408,10 @@ define NRootPRQin [
 # ES: 'pato de cuello azulado' EN: 'blue-necked.duck' sci.nm.: mergane aarmata
 # ES: 'pato de cuello rojo' EN: 'red-necked.duck' sci.nm.: anas flavirostris
 # *********************************************
-| "[=pantyoni][NRoot][=brown-and-gray.duck (ES: pato.marrón.con.gris; sci.nm.: oxyura.jamaicensis); blue-necked.duck (ES: pato.de.cuello.azulado; sci.nm.: mergane.aarmata); red-necked.duck (ES: pato.de.cuello.rojo; sci.nm.: anas.flavirostris)]" : {pantyoni}
-| "[=pantioni][NRoot][=brown-and-gray.duck (ES: pato.marrón.con.gris; sci.nm.: oxyura.jamaicensis); blue-necked.duck (ES: pato.de.cuello.azulado; sci.nm.: mergane.aarmata); red-necked.duck (ES: pato.de.cuello.rojo; sci.nm.: anas.flavirostris)]" : {pantioni}
-| "[=pantyo+gndr@m.][NRoot][=wild.duck.sp. (pronunc.: [ˈpɑ̃ⁿt͡ʃɞ]; ES: pato); least.grebe (sci.nm.: podiceps.dominicus)]" : {pantyo}
-| "[=paNtxo/pãtxo][NRoot:CPB][=wild.duck.sp. (pronunc.: [ˈpɑ̃ⁿt͡ʃɞ]; ES: pato)]" : {pãtxo}
+| "[=pantyoni+gndr@m.+sem@bird][NRoot][=brown-and-gray.duck (ES: pato.marrón.con.gris; sci.nm.: oxyura.jamaicensis); blue-necked.duck (ES: pato.de.cuello.azulado; sci.nm.: mergane.aarmata); red-necked.duck (ES: pato.de.cuello.rojo; sci.nm.: anas.flavirostris)]" : {pantyoni}
+| "[=pantioni+gndr@m.+sem@bird][NRoot][=brown-and-gray.duck (ES: pato.marrón.con.gris; sci.nm.: oxyura.jamaicensis); blue-necked.duck (ES: pato.de.cuello.azulado; sci.nm.: mergane.aarmata); red-necked.duck (ES: pato.de.cuello.rojo; sci.nm.: anas.flavirostris)]" : {pantioni}
+| "[=pantyo+gndr@m.+sem@bird][NRoot][=wild.duck.sp. (pronunc.: [ˈpɑ̃ⁿt͡ʃɞ]; ES: pato); least.grebe (sci.nm.: podiceps.dominicus)]" : {pantyo}
+| "[=paNtxo/pãtxo+gndr@m.+sem@bird][NRoot:CPB][=wild.duck.sp. (pronunc.: [ˈpɑ̃ⁿt͡ʃɞ]; ES: pato)]" : {pãtxo}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pantsa+gndr@n.m.+inal@ntsi.+poss@ne:ni.][NRoot][=(shamanic).song (ES: canción, canto); anthem (ES: himno)]" : {pantsa}
