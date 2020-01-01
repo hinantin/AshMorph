@@ -3989,7 +3989,7 @@ define NRootPRQin [
 | "[=onkochapaa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkochapaa}
 # ---------------------------------------------------------------------
 ! 
-| "[=oori][NRoot][=bird.sp. (ES: halcón)]" : {oori}
+| "[=oori+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: halcón)]" : {oori}
 # ---------------------------------------------------------------------
 ! sun 
 | "[=ooryaatsiri][NRoot][=sun]" : {ooryaatsiri} !?
@@ -3998,7 +3998,7 @@ define NRootPRQin [
 | "[=ooriatsiri+gndr@m.][NRoot][=shining.sun, strong.sun; the.sun; solar.divinity]" : {ooriatsiri}
 # ---------------------------------------------------------------------
 ! 
-| "[=oonkama][NRoot][=NP (ES: nombre.de.hombre)]" : {oonkama}
+| "[=oonkama+sem@NP.person][NRoot][=NP (ES: nombre.de.hombre)]" : {oonkama}
 # ---------------------------------------------------------------------
 ! 
 | "[=ooryaa+gndr@m.][NRoot][=sun (ES: sol)]" : {ooryaa}
