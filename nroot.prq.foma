@@ -4061,9 +4061,9 @@ define NRootPRQin [
 | "[=Porokayaari][NRoot][=NP (ES: Apurucayali)]" : {porokayaari}
 # ---------------------------------------------------------------------
 ! 
-| "[=pototi][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.plúmbeo; sci.nm.: columba.plumbea)]" : {pototi}
-| "[=pototi][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.subinacea)]" : {pototi}
-| "[=potooti+gndr@m.][NRoot][=dove.sp., big.dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.speciosa)]" : {potooti} ! @section:noun@ 
+| "[=pototi+gndr@m.+sem@bird][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.plúmbeo; sci.nm.: columba.plumbea)]" : {pototi}
+| "[=pototi+gndr@m.+sem@bird][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.subinacea)]" : {pototi}
+| "[=potooti+gndr@m.+sem@bird][NRoot][=dove.sp., big.dove.sp. (ES: paloma.grande, pichón.rojizo; sci.nm.: columba.speciosa)]" : {potooti} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=opaayaa+gndr@n.m.][NRoot][=beach; stony/rocky.ground]" : {opaayaa}
