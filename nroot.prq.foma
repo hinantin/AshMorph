@@ -4034,6 +4034,7 @@ define NRootPRQin [
 ! 
 | "[=paretsa+gndr@n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paretsa}
 | "[=paritsa+gndr@n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paritsa}
+!| "[=paritsa+gndr@n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paritsa} ! pari-tsa root-stem
 # ---------------------------------------------------------------------
 ! 
 | "[=pekepeke][NRoot][=motor.boat (ES: bote)]" : {pekepeke}
@@ -4100,7 +4101,7 @@ define NRootPRQin [
 | "[=osheto+gndr@m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa; PT: macaco.barrigudo; sci.nm.: ateles.paniscus)]" : {osheto}
 # ---------------------------------------------------------------------
 ! 
-| "[=osheto_tsikoo][NRoot][=spectatled.owl (sci.nm.: pulsatrix.perspicillata)]" : {osheto_tsikoo}
+| "[=osheto_tsikoo+gndr@m.+sem@bird][NRoot][=spectatled.owl (sci.nm.: pulsatrix.perspicillata)]" : {osheto_tsikoo}
 # ---------------------------------------------------------------------
 ! 
 | "[=ota][NRoot][=wick (prbly.candle; ES: mecha)]" : {ota}
@@ -4418,13 +4419,13 @@ define NRootPRQin [
 | "[=pantsaa+gndr@n.m.+inal@ntsi.+poss@ne:ni.][NRoot][=(shamanic).song (ES: canción, canto); anthem (ES: himno)]" : {pantsaa}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=paranta][NRoot][=band-tailed.manakin (sci.nm.: pipra.fascicauda)]" : {paranta}
+| "[=paranta+gndr@m.+sem@bird][NRoot][=band-tailed.manakin (sci.nm.: pipra.fascicauda)]" : {paranta}
 # ----------------------------------------------------------------------------- 
 ! otter, lobo.marino??? 
 | "[=parari+gndr@m.+sem@wild.anim.][NRoot][=otter.sp., big.otter.sp. (ES: nutria; sci.nm.: mustela.africana); river.otter.sp. (ES: nutria)]" : {parari}
 # ----------------------------------------------------------------------------- 
 !
-| "[=pareni][NRoot][=river, Perené.river]" : {pareni}
+| "[=pareni+sem@NP.river][NRoot][=river, Perené.river]" : {pareni}
 # ----------------------------------------------------------------------------- 
 ! banana tree, plantain
 | "[=parenti+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
@@ -4451,9 +4452,6 @@ define NRootPRQin [
 | "[=kiawõtsi+sem@season.][NRoot:CPB][=winter (ES: invierno; PT: inverno); rainy.season (PT: estação.chuvosa, o.tempo.das.águas)]" : {kiawõtsi}
 | "[=kimohaantsi+sem@season.][NRoot][=rainy.season/winter (ES: invierno)]" : {kimohaantsi}
 | "[=pariapaintzi+sem@season.][NRoot][=rainy.season/winter (ES: invierno)]" : {pariapaintzi}
-# ----------------------------------------------------------------------------- 
-! 
-| "[=paritsa+gndr@n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]" : {paritsa} ! pari-tsa root-stem
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=patsa][NRoot][=part]" : {patsa}
