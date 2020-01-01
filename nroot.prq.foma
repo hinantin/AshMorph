@@ -4056,9 +4056,9 @@ define NRootPRQin [
 | "[=poreatsiri][NRoot][=sun (ES: sol)]" : {poreatsiri}
 # ---------------------------------------------------------------------
 ! 
-| "[=Porokayari][NRoot][=NP (ES: Apurucayali)]" : {porokayari}
-| "[=Purukayari][NRoot][=NP (ES: Apurucayali)]" : {purukayari}
-| "[=Porokayaari][NRoot][=NP (ES: Apurucayali)]" : {porokayaari}
+| "[=Porokayari+sem@NP.place][NRoot][=NP (ES: Apurucayali)]" : {porokayari}
+| "[=Purukayari+sem@NP.place][NRoot][=NP (ES: Apurucayali)]" : {purukayari}
+| "[=Porokayaari+sem@NP.place][NRoot][=NP (ES: Apurucayali)]" : {porokayaari}
 # ---------------------------------------------------------------------
 ! 
 | "[=pototi+gndr@m.+sem@bird][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.plúmbeo; sci.nm.: columba.plumbea)]" : {pototi}
@@ -4069,9 +4069,9 @@ define NRootPRQin [
 | "[=opaayaa+gndr@n.m.][NRoot][=beach; stony/rocky.ground]" : {opaayaa}
 # ---------------------------------------------------------------------
 ! 
-| "[=opempe+gndr@m.+poss@ti.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opempe}
-| "[=opimpi+gndr@m.+poss@ti.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opimpi}
-| "[=opempe/opeNpe/opẽpe+gndr@m.+poss@ti.][NRoot:CPB][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opẽpe}
+| "[=opempe+gndr@m.+poss@ti.+sem@bird][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opempe}
+| "[=opimpi+gndr@m.+poss@ti.+sem@bird][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opimpi}
+| "[=opempe/opeNpe/opẽpe+gndr@m.+poss@ti.+sem@bird][NRoot:CPB][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]" : {opẽpe}
 # ---------------------------------------------------------------------
 ! 
 | "[=opiata][NRoot][=whirl (ES: remolino)]" : {opiata}
