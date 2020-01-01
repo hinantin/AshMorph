@@ -4053,7 +4053,7 @@ define NRootPRQin [
 | "[=ponyoiro+gndr@m.][NRoot][=animal.sp.]" : {ponyoiro}
 # ---------------------------------------------------------------------
 ! 
-| "[=poreatsiri][NRoot][=sun (ES: sol)]" : {poreatsiri}
+| "[=poreatsiri+~{V:/'to.shine':porek/}{L.DEL:k}{STAT.IPRF:atsi}{REL:ri}][NRoot][=sun (ES: sol)]" : {poreatsiri}
 # ---------------------------------------------------------------------
 ! 
 | "[=Porokayari+sem@NP.place][NRoot][=NP (ES: Apurucayali)]" : {porokayari}
@@ -4079,12 +4079,12 @@ define NRootPRQin [
 | "[=opiyahata][NRoot][=whirl (ES: remolino)]" : {opiyahata}
 # ---------------------------------------------------------------------
 ! 
-| "[=iyochi][NRoot][=fish.sp. (ES: doncella; sci.nm.: pimelodidae, pseudoplatystoma.fasciatum)]" : {iyochi}
-| "[=iochi][NRoot][=fish.sp. (ES: doncella; sci.nm.: pimelodidae, pseudoplatystoma.fasciatum)]" : {iochi}
+| "[=iyochi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: doncella; sci.nm.: pimelodidae, pseudoplatystoma.fasciatum)]" : {iyochi}
+| "[=iochi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: doncella; sci.nm.: pimelodidae, pseudoplatystoma.fasciatum)]" : {iochi}
 # ---------------------------------------------------------------------
 ! 
-| "[=iyopempe][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopempe}
-| "[=iyopimpi][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopimpi}
+| "[=iyopempe+gndr@m.+sem@bird][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopempe}
+| "[=iyopimpi+gndr@m.+sem@bird][NRoot][=toucan.sp., bird.sp. (ES: pinsha)]" : {iyopimpi}
 # ---------------------------------------------------------------------
 ! 
 # osarenti: O Verão começa em maio e vai até fim de setembro. É a época em que para de chover e começam as friagens, chamadas de katsinkaitere. 
