@@ -4098,7 +4098,7 @@ define NRootPRQin [
 | "[=oshero+gndr@m.][NRoot][=crab.sp. (ES: cangrejo)]" : {oshero}
 # ---------------------------------------------------------------------
 ! monkey species
-| "[=osheto+gndr@m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa; PT: macaco.barrigudo; sci.nm.: ateles.paniscus)]" : {osheto}
+| "[=osheto+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa; PT: macaco.barrigudo; sci.nm.: ateles.paniscus)]" : {osheto}
 # ---------------------------------------------------------------------
 ! 
 | "[=osheto_tsikoo+gndr@m.+sem@bird][NRoot][=spectatled.owl (sci.nm.: pulsatrix.perspicillata)]" : {osheto_tsikoo}
@@ -4126,7 +4126,7 @@ define NRootPRQin [
 | "[=ootametotsi][NRoot][=lighter (ES: mechero), kerosene.lamp, paraffin.lamp]" : {ootametotsi}
 # ---------------------------------------------------------------------
 ! 
-| "[=ooti][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: leptodactylus.pentadactylus)]" : {ooti}
+| "[=ooti+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: leptodactylus.pentadactylus)]" : {ooti}
 # ---------------------------------------------------------------------
 ! 
 | "[=otapiki][NRoot][=cliff (ES: barranco); rugged; foothill, valley.floor]" : {otapiki} ! Adv?
