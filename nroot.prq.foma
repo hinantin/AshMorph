@@ -1575,7 +1575,7 @@ define NRootPRQin [
 | "[=hirinki][NRoot][=hail (ES: granizo)]" : {hiriniki}
 # ---------------------------------------------------------------------
 ! 
-| "[=irishiria][NRoot][=person's.name, NP]" : {irishiria}
+| "[=irishiria+sem@NP.person][NRoot][=person's.name, NP]" : {irishiria}
 # ---------------------------------------------------------------------
 ! 
 | "[=iroamere+gndr@m.][NRoot][=student, disciple, pupil]" : {iroamere}
