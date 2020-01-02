@@ -4211,9 +4211,9 @@ define NRootPRQin [
 | "[=vakashi+gndr@n.m.+sem@plant][NRoot][=vegetable.poison (ES: huaca; PT: oaca; sci.nm.: clibadium.remotiflorum); poison.for.fishing]" : {vakashi}
 # ---------------------------------------------------------------------
 ! 
-| "[=ovae+gndr@m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovae}
-| "[=ovai+gndr@m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovai}
-| "[=yorini][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {yorini}
+| "[=ovae+gndr@m.+sem@bird][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovae}
+| "[=ovai+gndr@m.+sem@bird][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {ovai}
+| "[=yorini+gndr@m.+sem@bird][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]" : {yorini}
 # ---------------------------------------------------------------------
 ! 
 | "[=ovanaro+gndr@n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good; food (ES: comida)]" : {ovanaro}
