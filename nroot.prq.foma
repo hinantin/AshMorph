@@ -1535,7 +1535,7 @@ define NRootPRQin [
 | "[=iraari+gndr@n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {iraari}
 | "[=irari+gndr@n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {irari}
 | "[=irariki+gndr@n.m.][NRoot][=dragon's_blood.seed/fruit (ES: sangre.de.grado; sci.nm.: croton.lechleri)]" : {irariki}
-| "[=irarito][NRoot][=dragon's_blood.tree]" : {irarito}
+| "[=irarito][NRoot][=dragon's_blood.tree (ES: árbol.de.sangre.de.drago)]" : {irarito}
 # ---------------------------------------------------------------------
 ! 
 | "[=iraantsinaki][NRoot][=pale-fegged.hornero (sci.nm.: furnarius.leucopus)]" : {iraantsinaki}
@@ -1554,7 +1554,7 @@ define NRootPRQin [
 | "[=orianeeriki+gndr@n.m.][NRoot][=small (ES: pequeño; PT: menina)]" : {orianeeriki}
 # ---------------------------------------------------------------------
 ! 
-| "[=irimashi][NRoot][=Lima, place.name]" : {irimashi} ! lima li -> iri(i) - ma -> ma -> shi -> CL
+| "[=irimashi+sem@NP.place][NRoot][=Lima, place.name]" : {irimashi} ! lima li -> iri(i) - ma -> ma -> shi -> CL
 # ---------------------------------------------------------------------
 ! 
 | "[=Lima/Irima][NRoot][=Lima.city]" : {irima}
