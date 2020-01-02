@@ -1578,7 +1578,7 @@ define NRootPRQin [
 | "[=irishiria+sem@NP.person][NRoot][=person's.name, NP]" : {irishiria}
 # ---------------------------------------------------------------------
 ! 
-| "[=iroamere+gndr@m.][NRoot][=student, disciple, pupil]" : {iroamere}
+| "[=iroamere+gndr@m.][NRoot][=student, disciple, pupil (ES: alumno)]" : {iroamere}
 # ---------------------------------------------------------------------
 ! 
 | "[=ironyaa][NRoot][=now (ES: ahora)]" : {ironyaa}
