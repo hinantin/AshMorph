@@ -40,9 +40,9 @@
 #    semantic tags for grouping entries or identifying the gender 
 #    healer -> +sem@healer.
 #    proper.name
-#    person's.name -> +sem@NP.person 
-#    place.name -> +sem@NP.place 
-#    river.name -> +sem@NP.river 
+#    person's.name -> +sem@NP.person
+#    place.name -> +sem@NP.place
+#    river.name -> +sem@NP.river
 
 #    masculine gender
 #    ----------------
@@ -1570,9 +1570,9 @@ define NRootPRQin [
 !| "[=iritsiro][NRoot][=his.sister]" : {iritsiro}
 # ---------------------------------------------------------------------
 ! 
-| "[=iriniki][NRoot][=hail]" : {iriniki}
-| "[=hirinki][NRoot][=hail]" : {hirinki}
-| "[=hirinki][NRoot][=hail]" : {hiriniki}
+| "[=iriniki][NRoot][=hail (ES: granizo)]" : {iriniki}
+| "[=hirinki][NRoot][=hail (ES: granizo)]" : {hirinki}
+| "[=hirinki][NRoot][=hail (ES: granizo)]" : {hiriniki}
 # ---------------------------------------------------------------------
 ! 
 | "[=irishiria][NRoot][=person's.name, NP]" : {irishiria}
@@ -1581,8 +1581,8 @@ define NRootPRQin [
 | "[=iroamere+gndr@m.][NRoot][=student, disciple, pupil]" : {iroamere}
 # ---------------------------------------------------------------------
 ! 
-| "[=ironyaa][NRoot][=now]" : {ironyaa}
-| "[=ironya][NRoot][=now]" : {ironya}
+| "[=ironyaa][NRoot][=now (ES: ahora)]" : {ironyaa}
+| "[=ironya][NRoot][=now (ES: ahora)]" : {ironya}
 # ---------------------------------------------------------------------
 ! 
 | "[=iryapa+gndr@n.m.][NRoot][=shotgun (ES: escopeta)]" : {iryapa}
@@ -1598,7 +1598,7 @@ define NRootPRQin [
 | "[=isha+gndr@m.+voc.+kin@fem.ego][NRoot][=grandson (ES: nieto)]" : {isha}
 # ---------------------------------------------------------------------
 ! 
-| "[=ishako][NRoot][=person's.name, NP]" : {ishako}
+| "[=ishako+sem@NP.person][NRoot][=person's.name, NP]" : {ishako}
 # ---------------------------------------------------------------------
 ! 
 | "[=isheni+gndr@n.m.+voc.+kin@male.ego][NRoot][=grandma, grandmother]" : {isheni}
