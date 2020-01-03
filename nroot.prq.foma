@@ -3679,7 +3679,7 @@ define NRootPRQin [
 | "[=moetonka+poss@re.][NRoot][=whirlpool (ES: remolino); wave (ES: ola)]" : {moetonka}
 # ----------------------------------------------------------------- 
 ! 
-| "[=motyokiri][NRoot][=woodpecker.sp. (ES: pájaro.carpintero; sci.nm.: veniliornis.dignus)]" : {motyokiri}
+| "[=motyokiri+gndr@m.+sem@bird][NRoot][=woodpecker.sp. (ES: pájaro.carpintero; sci.nm.: veniliornis.dignus)]" : {motyokiri}
 # ----------------------------------------------------------------- 
 ! 
 # tsinaro motsitsi / =tsinaro =motsi -tsi / =cricket =belly -nposs / EN: 'big_belly/paunchy.cricket', ES/QU: 'grillo.buchesapa'
@@ -3699,9 +3699,9 @@ define NRootPRQin [
 | "[=motinto+gndr@n.m.][NRoot][=pregnant (ES: embarazada)]" : {motinto} ! motinto / =moti -nto / =stomach -adj.m.
 # ----------------------------------------------------------------- 
 ! 
-| "[=nainaintzi+gndr@m.][NRoot][=white-chinned.jacamar, bird.sp. (sci.nm.: galbula.tombacca)]" : {nainaintzi}
-| "[=nainaitzi+gndr@m.][NRoot][=hummingbird-like.bird (ES: sp.de.pájaro)]" : {nainaitzi}
-| "[=naintzi+gndr@m.][NRoot][=hummingbird-like.bird (ES: sp.de.pájaro)]" : {naintzi}
+| "[=nainaintzi+gndr@m.+sem@bird][NRoot][=white-chinned.jacamar, bird.sp. (sci.nm.: galbula.tombacca)]" : {nainaintzi}
+| "[=nainaitzi+gndr@m.+sem@bird][NRoot][=hummingbird-like.bird (ES: sp.de.pájaro)]" : {nainaitzi}
+| "[=naintzi+gndr@m.+sem@bird][NRoot][=hummingbird-like.bird (ES: sp.de.pájaro)]" : {naintzi}
 # ----------------------------------------------------------------- 
 ! 
 | "[=naki][NRoot][=interior.space (ES: espacio.interior, hueco)]" : {naki}
