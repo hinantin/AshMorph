@@ -3543,8 +3543,8 @@ define NRootPRQin [
 | "[=mishi][NRoot][=skin (ES: piel)]" : {mishi}
 | "[=meshi][NRoot][=skin (ES: piel)]" : {meshi}
 ! 
-| "[=meshiki+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {meshiki}
-| "[=mishiki+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {mishiki}
+| "[=meshiki+~{N:/'skin':meshi/}{CL:/'seed-like':ki/}+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {meshiki}
+| "[=mishiki+~{N:/'skin':mishi/}{CL:/'seed-like':ki/}+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {mishiki}
 ! imeshi birakocha / imeshi virakocha / i- =meshi ** =virakocha / 3m.poss- =skin ** =outsider / EN: 'condom; lit.: outsider's.skin'; ES: 'condón'
 !| "[=imeshi_virakocha][NRoot][=condom (ES: condón)]" : {imeshi_virakocha} ! @section:noun@ 
 # ----------------------------------------------------------------- 
