@@ -3782,8 +3782,8 @@ define NRootPRQin [
 | "[=nironto+gndr@m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: ronsapa, sp.de.abeja,, shinguto, shinguito)]" : {nironto}
 # ---------------------------------------------------------------------
 ! 
-| "[=nerontoki+gndr@m.][NRoot][=bee.sp. (ES: sp.de.abeja; sci.nm.: apis.mellifera )]" : {nerontoki}
-| "[=nirontoki+gndr@m.][NRoot][=fly.sp.]" : {nirontoki}
+| "[=nerontoki+gndr@m.+sem@insect][NRoot][=bee.sp. (ES: sp.de.abeja; sci.nm.: apis.mellifera )]" : {nerontoki}
+| "[=nirontoki+gndr@m.+sem@insect][NRoot][=fly.sp.]" : {nirontoki}
 # ---------------------------------------------------------------------
 ! 
 !| "[=nihaa][VRoot][=to.water]" : {nihaa} ! revise?
@@ -3803,7 +3803,7 @@ define NRootPRQin [
 !| "[=nihaavero+~{N:/'water':nihaa/}{CL:/'agentive':vero/}+gndr@n.m.][NRoot][=water.inhabitant]" : {nihaavero} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
-| "[=niivotya][NRoot][=NP; person's.name]" : {niivotya}
+| "[=niivotya+sem@NP.person][NRoot][=NP; person's.name]" : {niivotya}
 # ---------------------------------------------------------------------
 ! 
 | "[=niyankiiteni][NRoot][=midnight, middle.of.the.night (ES: medianoche)]" : {niyankiiteni}
