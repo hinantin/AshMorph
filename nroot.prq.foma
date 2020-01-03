@@ -3741,8 +3741,8 @@ define NRootPRQin [
 | "[=natsitonini][NRoot][=the.stream.of.bones]" : {natsitonini}
 # ---------------------------------------------------------------------
 ! 
-| "[=nato][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio); medicinal.plant.sp. (ES: sp.de.planta.medicinal)]" : {nato}
-| "[=hayapa][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio)]" : {hayapa}
+| "[=nato+gndr@n.m.+sem@plant][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio); medicinal.plant.sp. (ES: sp.de.planta.medicinal)]" : {nato}
+| "[=hayapa+gndr@n.m.+sem@plant][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio)]" : {hayapa}
 # ---------------------------------------------------------------------
 ! 
 | "[=nava+gndr@n.m.+inal@tsi.][NRoot][=freckle, mole (ES: peca)]" : {nava}
