@@ -3568,7 +3568,7 @@ define NRootPRQin [
 | "[=mishiki+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {mishiki}
 # ----------------------------------------------------------------- 
 ! 
-| "[=meshikinti][NRoot][=yellow-dotted.black.ant.sp. (ES: sp.de.hormiga.negra.con.puntos.amarillos; sci.nm: subfamilia.ponerinae)]" : {meshikinti}
+| "[=meshikinti+gndr@m.+sem@insect][NRoot][=yellow-dotted.black.ant.sp. (ES: sp.de.hormiga.negra.con.puntos.amarillos; sci.nm: subfamilia.ponerinae)]" : {meshikinti}
 # ----------------------------------------------------------------- 
 ! 
 | "[=minkori+gndr@n.m.][NRoot][=cloud (ES: nube)]" : {minkori} 
@@ -3585,19 +3585,19 @@ define NRootPRQin [
 | "[=mirito+gndr@n.m.][NRoot][=orphan (ES: huérfana)]" : {mirito}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mishako][NRoot][=person's.name, NP]" : {mishako}
+| "[=mishako+sem@NP.person][NRoot][=person's.name, NP]" : {mishako}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mishari][NRoot][=person's.name, NP]" : {mishari}
+| "[=mishari+sem@NP.person][NRoot][=person's.name, NP]" : {mishari}
 # ----------------------------------------------------------------- 
 ! 
-| "[=meta+gndr@n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {meta}
-| "[=mita+gndr@n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {mita}
-| "[=mitaa+gndr@n.m.][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {mitaa}
+| "[=meta+gndr@n.m.+sem@plant][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {meta}
+| "[=mita+gndr@n.m.+sem@plant][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {mita}
+| "[=mitaa+gndr@n.m.+sem@plant][NRoot][=cinnamon.sp. (ES: tipo.de.canela), tree.sp.]" : {mitaa}
 # ----------------------------------------------------------------- 
 ! 
-| "[=meta+gndr@n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+gndr@n.m.+inal@ntsi.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {metasankari} ! compound 
-| "[=mita+gndr@n.m.][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+gndr@n.m.+inal@ntsi.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {mitasankari} ! compound 
+| "[=meta+gndr@n.m.+sem@plant][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+gndr@n.m.+inal@ntsi.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {metasankari} ! compound 
+| "[=mita+gndr@n.m.+sem@plant][NRoot][=cinnamon.sp., tree.sp.][--][=sankari+gndr@n.m.+inal@ntsi.][NRoot][=smell]::[=camphor (ES: alcanfor)]" : {mitasankari} ! compound 
 # ----------------------------------------------------------------- 
 ! 
 | "[=miti+inal@tsi.][NRoot][=spine (ES: espinazo, columna.vertebral)]" : {miti}
@@ -3612,14 +3612,14 @@ define NRootPRQin [
 | "[=sompoinaro+gndr@n.m.][NRoot][=humpback.person (ES: persona.jorobada)]" : {sompoinaro} 
 # ----------------------------------------------------------------- 
 ! 
-| "[=mitiri+gndr@m.][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {mitiri}
-| "[=miteri+gndr@m.][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {miteri}
+| "[=mitiri+gndr@m.+sem@bird][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {mitiri}
+| "[=miteri+gndr@m.+sem@bird][NRoot][=dusky-headed.parakeet (ES: sp.de.lorito; sci.nm.: aratinga.weddelli)]" : {miteri}
 # ----------------------------------------------------------------- 
 ! 
-| "[=moka+gndr@n.m.][NRoot][=cocoa.sp. (ES: sp.de.árbol, cacao.silvestre)]" : {moka}
+| "[=moka+gndr@n.m.+sem@plant][NRoot][=cocoa.sp. (ES: sp.de.árbol, cacao.silvestre)]" : {moka}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mochori][NRoot][=olingo (ES: chozna, chosna, mamífero.nocturno; sci.nm.: bassaricyon.spp)]" : {mochori}
+| "[=mochori+gndr@m.+sem@wild.anim.][NRoot][=olingo (ES: chozna, chosna, mamífero.nocturno; sci.nm.: bassaricyon.spp)]" : {mochori}
 # ----------------------------------------------------------------- 
 ! 
 | "[=moito+gndr@n.m.+inal@n/tsi.][NRoot][=navel (ES: ombligo); umbilical.cord (ES: cordón.umbilical)]" : {moito}
