@@ -3542,6 +3542,9 @@ define NRootPRQin [
 | "[=mishina][NRoot][=skin (ES: piel)]" : {mishina}
 | "[=mishi][NRoot][=skin (ES: piel)]" : {mishi}
 | "[=meshi][NRoot][=skin (ES: piel)]" : {meshi}
+! 
+| "[=meshiki+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {meshiki}
+| "[=mishiki+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {mishiki}
 ! imeshi birakocha / imeshi virakocha / i- =meshi ** =virakocha / 3m.poss- =skin ** =outsider / EN: 'condom; lit.: outsider's.skin'; ES: 'condón'
 !| "[=imeshi_virakocha][NRoot][=condom (ES: condón)]" : {imeshi_virakocha} ! @section:noun@ 
 # ----------------------------------------------------------------- 
@@ -3562,10 +3565,6 @@ define NRootPRQin [
 # ----------------------------------------------------------------- 
 ! 
 | "[=metsonakiri+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: plecostomus.sp.)]" : {metsonakiri}
-# ----------------------------------------------------------------- 
-! 
-| "[=meshiki+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {meshiki}
-| "[=mishiki+gndr@n.m.+inal@ntsi.][NRoot][=wart, verruca (ES: verruga)]" : {mishiki}
 # ----------------------------------------------------------------- 
 ! 
 | "[=meshikinti+gndr@m.+sem@insect][NRoot][=yellow-dotted.black.ant.sp. (ES: sp.de.hormiga.negra.con.puntos.amarillos; sci.nm: subfamilia.ponerinae)]" : {meshikinti}
