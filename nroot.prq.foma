@@ -3765,17 +3765,17 @@ define NRootPRQin [
 # noni / no- =ni / 1sg.poss- =louse / EN : 'my.louse'  
 # nojeni / noheni /  
 # jenitsi / henitsi /  
-| "[=ne+gndr@m.+inal@tsi.][NRoot][=louse (ES: piojo)]" : {ne}
-| "[=ni+gndr@m.+inal@tsi.][NRoot][=louse (ES: piojo)]" : {ni}
-| "[=heni+inal@tsi.][NRoot][=louse (ES: piojo)]" : {heni}
+| "[=ne+gndr@m.+inal@tsi.+sem@insect][NRoot][=louse (ES: piojo)]" : {ne}
+| "[=ni+gndr@m.+inal@tsi.+sem@insect][NRoot][=louse (ES: piojo)]" : {ni}
+| "[=heni+gndr@m.+inal@tsi.+sem@insect][NRoot][=louse (ES: piojo)]" : {heni}
 # ---------------------------------------------------------------------
 ! 
 | "[=nenke+inal@tsi.][NRoot][=collar (ES: medalla,, collar); (glass).bead (ES: abalorio)]" : {nenke}
 | "[=nenketsiki][NRoot][=collar (ES: collar); NP, person's.name]" : {nenketsiki}
 # ---------------------------------------------------------------------
 ! 
-| "[=nenkitsi+gndr@n.m.][NRoot][=plant.sp. (ES: mullo, mostacía)]" : {nenkitsi}
-| "[=ninkitsi+gndr@n.m.][NRoot][=plant.sp. (ES: mullo)]" : {ninkitsi}
+| "[=nenkitsi+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: mullo, mostacía)]" : {nenkitsi}
+| "[=ninkitsi+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: mullo)]" : {ninkitsi}
 # ---------------------------------------------------------------------
 ! 
 | "[=neronto+gndr@m.+poss@ti.+sem@insect][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: ronsapa, sp.de.abeja,, shinguto, shinguito)]" : {neronto}
