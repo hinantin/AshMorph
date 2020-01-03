@@ -1442,13 +1442,13 @@ define NRootPRQin [
 ! poss -te has to be checked, only 1 ocurrence 
 | "[=katonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} 
 | "[=katonka][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonka} 
-| "[=katyonkohi~ka{E.PAL.:ty}onko{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {katyonkohi} 
-| "[=kationkohi~ka{E.PAL.:ti}onko{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {kationkohi} 
+| "[=katyonkohi+~{ka}{E.PAL.:ty}{onko}{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {katyonkohi} 
+| "[=kationkohi+~{ka}{E.PAL.:ti}{onko}{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {kationkohi} 
 # ---------------------------------------------------------------------
 ! 
-| "[=kapashiro][NRoot][=ginger.sp., herb.sp. (ES: quión, kión, jengibre; sci.nm.: zingiber.officinale)]" : {katsikonaki}
+| "[=kapashiro+gndr@n.m.+sem@plant][NRoot][=ginger.sp., herb.sp. (ES: quión, kión, jengibre; sci.nm.: zingiber.officinale)]" : {katsikonaki}
 ! 
-| "[=katsitonari][NRoot][=ginger.sp., herb.sp. (ES: quión, kión, jengibre; sci.nm.: zingiber.officinale)]" : {katsitonari}
+| "[=katsitonari+gndr@n.m.+sem@plant][NRoot][=ginger.sp., herb.sp. (ES: quión, kión, jengibre; sci.nm.: zingiber.officinale)]" : {katsitonari}
 # ---------------------------------------------------------------------
 ! 
 | "[=katsirinkari][NRoot][=hot, heat (ES: caliente, calor)]" : {katsirinkari} 
@@ -1456,17 +1456,17 @@ define NRootPRQin [
 | "[=katsirinkaiteri][NRoot][=sun (ES: sol)]" : {katsirinkaiteri} 
 # ---------------------------------------------------------------------
 ! 
-| "[=katsikori][NRoot][=edible.ant.sp. (ES: sp.de.hormiga.comestible)]" : {katsikori}
+| "[=katsikori+gndr@m.+sem@insect][NRoot][=edible.ant.sp. (ES: sp.de.hormiga.comestible)]" : {katsikori}
 # ---------------------------------------------------------------------
 ! 
 | "[=katsinka][NRoot][=pain (ES: dolor)]" : {katsinka}
 # ---------------------------------------------------------------------
 ! 
-| "[=katitori+gndr@m.][NRoot][=ant.sp., leaf-cutter.ant (ES: sp.de.hormiga)]" : {katitori}
-| "[=katsitori+gndr@m.][NRoot][=ant.sp., leaf-cutter.ant (ES: sp.de.hormiga)]" : {katsitori}
+| "[=katitori+gndr@m.+sem@insect][NRoot][=ant.sp., leaf-cutter.ant (ES: sp.de.hormiga)]" : {katitori}
+| "[=katsitori+gndr@m.+sem@insect][NRoot][=ant.sp., leaf-cutter.ant (ES: sp.de.hormiga)]" : {katsitori}
 # ---------------------------------------------------------------------
 ! 
-| "[=katzinari][NRoot][=rufous.motmot (sci.nm.: barypthengus.ruficapillus)]" : {katzinari}
+| "[=katzinari+gndr@m.+sem@bird][NRoot][=rufous.motmot (sci.nm.: barypthengus.ruficapillus)]" : {katzinari}
 # ---------------------------------------------------------------------
 ! 
 ! kejitsi / kehitsi / =kehi -tsi / =fat -nposs / EN: 'fat'; ES: 'grasa' 
@@ -1520,6 +1520,7 @@ define NRootPRQin [
 ! 
 | "[=kymaroatzi+gndr@n.m.+sem@bird][NRoot][=red-billed.scythebill (sci.nm.: campylorhampus.trochilirostris)]" : {kymaroatzi}
 # ------------------------------------------------------
+! 
 | "[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimbillo, judía.delem.helado; QU: paqay; botany.nm.: inga.sp., inga.fullei; PT: ingá)]" : [{intsipa}|{itsipa}]
 # ---------------------------------------------------------------------
 ! 
