@@ -13,8 +13,8 @@
 # LABEL ORDER : 
 # Morphological values 
 # 0: +~{..}{..}...{..} 
-#    Information on the morphemes of lexicalized entries.
-#    {L.DEL:...} {R.DEL:...} 
+#    Information on the morphemes of lexicalized   .
+#    {L.DEL:...} {R.DEL:...} {BLANK:SPACE} 
 
 # 1: +gndr@m. (masculine), 
 #    +gndr@n.m. (not-masculine), 
@@ -5291,7 +5291,7 @@ define NRootPRQin [
 | "[=sha+gndr@n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {sha}
 # ----------------------------------------------------------------
 ! 
-| "[=shiyava][NRoot][=NP, person's.name]" : {shiyava}
+| "[=shiyava+sem@NP.person][NRoot][=NP, person's.name]" : {shiyava}
 # ----------------------------------------------------------------
 ! 
 | "[=pishiyava][NRoot][=NP, person's.name]" : {pishiyava}
