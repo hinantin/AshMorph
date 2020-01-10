@@ -5306,9 +5306,9 @@ define NRootPRQin [
 | "[=shiyeri+gndr@m.][NRoot][=monkey.sp. (ES: sp.de.mono; sci.nm.: cabuella.pygmaea)]" : {shiyeri}
 # ----------------------------------------------------------------
 ! 
-| "[=shiyintzi+gndr@m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyintzi}
-| "[=shiyentzi+gndr@m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyentzi}
-| "[=shiyiintzi+gndr@m.][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyiintzi}
+| "[=shiyintzi+gndr@m.+sem@insect][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyintzi}
+| "[=shiyentzi+gndr@m.+sem@insect][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyentzi}
+| "[=shiyiintzi+gndr@m.+sem@insect][NRoot][=dragonfly.sp. (ES: libélula), insect.sp.]" : {shiyiintzi}
 # ----------------------------------------------------------------
 ! 
 | "[=shiva+gndr@m.][NRoot][=anchoveta-fish (ES: anchoveta; sci.nm.: knodus.breviceps), small.fish.sp.]" : {shiva}
