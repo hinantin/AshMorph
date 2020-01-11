@@ -5140,8 +5140,8 @@ define NRootPRQin [
 | "[=saari+gndr@n.m.][NRoot][=tree.sp. (ES: pashaquilla, sp.de.árbol)]" : {saari}
 # --------------------------------------------------------------------------
 ! 
-| "[=saasaatzi+gndr@m.][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus; ES: sp.de.perdiz)]" : {saasaatzi}
-| "[=shaashaatzi+gndr@m.][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus; ES: sp.de.perdiz)]" : {shaashaatzi}
+| "[=saasaatzi+gndr@m.+sem@bird][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus; ES: sp.de.perdiz)]" : {saasaatzi}
+| "[=shaashaatzi+gndr@m.+sem@bird][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus; ES: sp.de.perdiz)]" : {shaashaatzi}
 # --------------------------------------------------------------------------
 ! 
 | "[=sahanti+gndr@m.][NRoot][=heron.sp. (sp.de.garza; sci.nm.: butorides.striatus)]" : {sahanti}
