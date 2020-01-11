@@ -5088,12 +5088,13 @@ define NRootPRQin [
 | "[=piyaare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {piyaare}
 | "[=peare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {peare}
 | "[=nyonyo][NRoot][=manioc.beer (ES: masato)]" : {nyonyo}
+# --------------------------------------------------------------------------
 ! 
 | "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
 | "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
+# --------------------------------------------------------------------------
 ! 
-| "[=rasaro][NRoot][=person's.name]" : {rasaro}
-! 
+| "[=rasaro+sem@NP.person][NRoot][=person's.name]" : {rasaro}
 # --------------------------------------------------------------------------
 ! 
 | "[=renti+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]" : {renti}
@@ -5132,19 +5133,19 @@ define NRootPRQin [
 | "[=Santiago/shantyaako+sem@NP.person][NRoot][=NP]" : {shantyaako}
 # --------------------------------------------------------------------------
 ! 
-| "[=saari+gndr@m.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {saari}
-| "[=sagari][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {sagari}
-| "[=haagari][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {hagaari}
+| "[=saari+gndr@m.+sem@wild.anim.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {saari}
+| "[=sagari+gndr@m.+sem@wild.anim.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {sagari}
+| "[=haagari+gndr@m.+sem@wild.anim.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {hagaari}
 # --------------------------------------------------------------------------
 ! 
-| "[=saari+gndr@n.m.][NRoot][=tree.sp. (ES: pashaquilla, sp.de.árbol)]" : {saari}
+| "[=saari+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: pashaquilla, sp.de.árbol)]" : {saari}
 # --------------------------------------------------------------------------
 ! 
 | "[=saasaatzi+gndr@m.+sem@bird][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus; ES: sp.de.perdiz)]" : {saasaatzi}
 | "[=shaashaatzi+gndr@m.+sem@bird][NRoot][=red-legged.tinamou (sci.nm.: crypturellus.atrocapillus; ES: sp.de.perdiz)]" : {shaashaatzi}
 # --------------------------------------------------------------------------
 ! 
-| "[=sahanti+gndr@m.][NRoot][=heron.sp. (sp.de.garza; sci.nm.: butorides.striatus)]" : {sahanti}
+| "[=sahanti+gndr@m.+sem@bird][NRoot][=heron.sp. (sp.de.garza; sci.nm.: butorides.striatus)]" : {sahanti}
 # --------------------------------------------------------------------------
 ! 
 # nosaimpikiri / no- =saimpiki -ri+alien. / 1sg.poss- =firewood -nposs / EN: 'my.firewood', ES: 'mi.leña' 
