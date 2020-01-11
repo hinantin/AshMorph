@@ -5168,9 +5168,9 @@ define NRootPRQin [
 | "[=sameti+gndr@m.][NRoot][=godfather (ES: padrino)]" : {sameti}
 # --------------------------------------------------------------------------
 ! 
-| "[=samomo+gndr@m.][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca); dove.sp.]" : {samomo}
-| "[=hamomo+gndr@m.][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca); dove.sp.]" : {hamomo}
-| "[=samomotzi][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca); dove.sp.]" : {samomotzi}
+| "[=samomo+gndr@m.+sem@bird][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca); dove.sp.]" : {samomo}
+| "[=hamomo+gndr@m.+sem@bird][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca); dove.sp.]" : {hamomo}
+| "[=samomotzi+gndr@m.+sem@bird][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca); dove.sp.]" : {samomotzi}
 # --------------------------------------------------------------------------
 ! 
 | "[=samoto][NRoot][=rotten.stick (ES: palo.podrido); armored.catfish.sp. (ES: carachama; sci.nm.: hypostomus.sp., ancistrus.sp.)]" : {samoto}
