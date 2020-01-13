@@ -5720,7 +5720,7 @@ define NRootPRQin [
 | "[=shevanto+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevanto}
 # ------------------------------------------------------------
 ! 
-| "[=shevankori][NRoot][=NP, person's.name]" : {shevankori}
+| "[=shevankori+sem@NP.person][NRoot][=NP, person's.name]" : {shevankori}
 # ------------------------------------------------------------
 ! 
 | "[=sevantoki+gndr@n.m.+sem@plant][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {sevantoki}
@@ -5749,10 +5749,10 @@ define NRootPRQin [
 | "[=oshiteki][NRoot][=manioc.beer.paste (ES: bagazo.(del.masato); PT: bagaço.(da.caiçuma))]" : {oshiteki} 
 # ------------------------------------------------------------
 ! 
-| "[=shiira][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking; ES: plátano.de.seda; sci.nm.: musa.musaceae)]" : {shiira}
+| "[=shiira+gndr@n.m.+gndr@n.m.+sem@fruit][NRoot][=plantain.sp. (banana-like.fruit.that.needs.cooking; ES: plátano.de.seda; sci.nm.: musa.musaceae)]" : {shiira}
 # ------------------------------------------------------------
 ! 
-| "[=shima+gndr@m.+poss@ni:te.][NRoot][=fish (ES: pez, pescado; PT: peixe; QU: challwa);| fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]" : {shima} ! @section:noun@ 
+| "[=shima+gndr@m.+poss@ni:te.+sem@fish][NRoot][=fish (ES: pez, pescado; PT: peixe; QU: challwa);| fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]" : {shima} ! @section:noun@ 
 # ------------------------------------------------------------
 ! 
 | "[=shimamiroki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: steindachnerina.guentheri.sp.)]" : {shimamiroki} 
