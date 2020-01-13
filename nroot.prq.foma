@@ -5723,16 +5723,16 @@ define NRootPRQin [
 | "[=shevankori][NRoot][=NP, person's.name]" : {shevankori}
 # ------------------------------------------------------------
 ! 
-| "[=sevantoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {sevantoki}
-| "[=shevantoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantoki}
-| "[=shevantyoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantyoki}
-| "[=hyivantoki+gndr@n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {hyivantoki}
+| "[=sevantoki+gndr@n.m.+sem@plant][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {sevantoki}
+| "[=shevantoki+gndr@n.m.+sem@plant][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantoki}
+| "[=shevantyoki+gndr@n.m.+sem@plant][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {shevantyoki}
+| "[=hyivantoki+gndr@n.m.+sem@plant][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]" : {hyivantoki}
 ! novamashite / n- =ova -mashi -te / 1sg.poss- =grape -cl:vast.space.with.vegetation -anim.PL / EN: 'my.vineyard'; ES: 'mi.viña'   
 ! irovamashite / ir- =ova -mashi -te / 3m.poss- =grape -cl:vast.space.with.vegetation -anim.PL / EN: 'his.vineyard'; ES: 'su.viña'   
 !| "[=ovamashi+~{N:/'grape':ova/}{CL/'vast.space.with.vegetation':mashi/}][NRoot][=vineyard (ES: viña)]" : {ovamashi} ! @section:noun@ 
 # ------------------------------------------------------------
 ! 
-| "[=shevatarotsi][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodidae, sorubim.lima)]" : {shevatarotsi} 
+| "[=shevatarotsi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodidae, sorubim.lima)]" : {shevatarotsi} 
 # ------------------------------------------------------------
 ! 
 # oshi intsipa / o- =shi =intsipa / 3n.m.poss- =leaf =ice-cream.bean.tree ES: 'la.hoja.del.pacae' 
@@ -6469,8 +6469,8 @@ define NRootPRQin [
 | "[=torooko][NRoot][=fish.sp. (ES: sp.de.pez, chio.chio, chiochio; sci.nm.: curimatus.cillata)]" : {torooko}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=toropeeti][NRoot][=person's.name, NP]" : {toropeeti}
-| "[=toropetzi][NRoot][=person's.name, NP]" : {toropetzi}
+| "[=toropeeti+sem@NP.person][NRoot][=person's.name, NP]" : {toropeeti}
+| "[=toropetzi+sem@NP.person][NRoot][=person's.name, NP]" : {toropetzi}
 # ------------------------------------------------------------------------------ 
 ! 
 !| "[=toyuyo+gndr@m.][NRoot][=heron.sp.]" : {toyuyo}
