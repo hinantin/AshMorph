@@ -2182,10 +2182,10 @@ define NRootPRQin [
 | "[=katsirimoti][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: camponotus.mayr)]" : {katsirimoti}
 # --------------------------------------------------------------------- 
 ! 
-| "[=katsaro+gndr@m.][NRoot][=fish.sp.; zungaro-fish (ES: sp.de.súngaro)]" : {katsaro}
+| "[=katsaro+gndr@m.+sem@fish][NRoot][=fish.sp.; zungaro-fish (ES: sp.de.súngaro)]" : {katsaro}
 # --------------------------------------------------------------------- 
 ! 
-| "[=katsimaropa][NRoot][=plantain.sp.]" : {katsimaropa}
+| "[=katsimaropa+gndr@n.m.+sem@fruit][NRoot][=plantain.sp.]" : {katsimaropa}
 # --------------------------------------------------------------------- 
 ! 
 | "[=katsivore][NRoot][=nightlight (ES: lamparilla,, espíritu.del.cerro)]" : {katsivore} 
