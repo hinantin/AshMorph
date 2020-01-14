@@ -2169,8 +2169,10 @@ define NRootPRQin [
 | "[=kataroshi][NRoot][=herb.sp.]" : {kataroshi}
 # --------------------------------------------------------------------- 
 ! 
-| "[=kaatsa+gndr@m.][NRoot][= (ES: sp.de.tigrillo)]" : {kaatsa}
-| "[=kaatsa+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol.su.corteza.sirve.para.amarrar.cosas)]" : {kaatsa}
+| "[=kaatsa+gndr@m.+sem@wild.anim.][NRoot][= (ES: sp.de.tigrillo)]" : {kaatsa}
+# --------------------------------------------------------------------- 
+! 
+| "[=kaatsa+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol.su.corteza.sirve.para.amarrar.cosas)]" : {kaatsa}
 # --------------------------------------------------------------------- 
 ! 
 | "[=katsariki+inal@ntsi.][NRoot][=testicle (ES: testículo; PT: testículo)]" : {katsariki}
@@ -2179,7 +2181,7 @@ define NRootPRQin [
 | "[=katsarekitso+inal@ntsi.][NRoot][=testicle (ES: testículo; PT: testículo); genitals (ES: genitales)]" : {katsarekitso}
 # --------------------------------------------------------------------- 
 ! 
-| "[=katsirimoti][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: camponotus.mayr)]" : {katsirimoti}
+| "[=katsirimoti+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: camponotus.mayr)]" : {katsirimoti}
 # --------------------------------------------------------------------- 
 ! 
 | "[=katsaro+gndr@m.+sem@fish][NRoot][=fish.sp.; zungaro-fish (ES: sp.de.súngaro)]" : {katsaro}
