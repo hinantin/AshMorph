@@ -2185,8 +2185,8 @@ define NRootPRQin [
 | "[=katsaro+gndr@m.+sem@fish][NRoot][=fish.sp.; zungaro-fish (ES: sp.de.súngaro)]" : {katsaro}
 # --------------------------------------------------------------------- 
 ! 
-| "[=katsimaropa+{N:/'bad':katsimaro/}{CL:/'banana,plantain':pa/}+gndr@n.m.+sem@fruit][NRoot][=plantain/banana.sp.]" : {katsimaropa}
-| "[=katzimaropa+gndr@n.m.+sem@fruit][NRoot][=plantain/banana.sp.]" : {katzimaropa}
+| "[=katsimaropa+~{N:/'bad':katsimaro/}{CL:/'banana,plantain':pa/}+gndr@n.m.+sem@fruit][NRoot][=plantain/banana.sp.]" : {katsimaropa}
+| "[=katzimaropa+~{N:/'bad':katzimaro/}{CL:/'banana,plantain':pa/}+gndr@n.m.+sem@fruit][NRoot][=plantain/banana.sp.]" : {katzimaropa}
 # --------------------------------------------------------------------- 
 ! 
 | "[=katsivore][NRoot][=nightlight (ES: lamparilla,, espíritu.del.cerro)]" : {katsivore} 
