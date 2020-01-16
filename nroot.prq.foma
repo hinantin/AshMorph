@@ -5492,9 +5492,9 @@ define NRootPRQin [
 | "[=sampi+poss@ne.][NRoot][=torch (ES: antorcha)]" : {sampi}
 # ------------------------------------------------------------
 ! 
-| "[=sampera+gndr@n.m.][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {sampera}
-| "[=sampira+gndr@n.m.][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {sampira}
-| "[=hampera+gndr@n.m.][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {hampera}
+| "[=sampera+gndr@n.m.+sem@plant][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {sampera}
+| "[=sampira+gndr@n.m.+sem@plant][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {sampira}
+| "[=hampera+gndr@n.m.+sem@plant][NRoot][=fern-leaf.tree, pashaco-tree, tree.sp. (ES: (árbol).pashaco/bolaina; QU: yuraq.k'aspi; sci.nm.: schizolobium.amazonicum)]" : {hampera}
 # ------------------------------------------------------------
 ! 
 | "[=samporo][NRoot][=boa (ES: boa.de.manchas.esféricas.marrón.claro.rodeadas.de.color.marrón.oscuro; sci.nm.: boa.constrictor.constrictor); worm.sp.]" : {samporo}
