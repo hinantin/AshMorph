@@ -460,7 +460,7 @@ define NRootPRQin [
 | "[=avisari+gndr@m.+sem@fish][NRoot][=piranha.sp. (ES: sp.de.piraña, (pez).paña; PT: piranha)]" : {avisari}
 # ------------------------------------------------------------------
 ! 
-| "[=avireri][NRoot][=name.of.a_mythical_hero, person's.name]" : {avireri}
+| "[=avireri+sem@NP.person][NRoot][=name.of.a_mythical_hero, person's.name]" : {avireri}
 # ------------------------------------------------------------------
 ! 
 | "[=avo+gndr@m.+sem@bird][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao, atatao)]" : {avo}
@@ -5481,11 +5481,11 @@ define NRootPRQin [
 | "[=sampa+gndr@n.m.][NRoot][=balsa; tree.sp. (ES: sachahuasca)]" : {sampa}
 # ------------------------------------------------------------
 ! 
-| "[=sampaki][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea)]" : {sampaki}
-| "[=sampakitzi+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakitzi}
-| "[=sampakiti+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakiti}
-| "[=sampakitsi+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.cayennensis; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakitsi} ! @section:noun@ 
-| "[=hampakitzi+gndr@m.][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {hampakitzi}
+| "[=sampaki+gndr@m.+sem@bird][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea)]" : {sampaki}
+| "[=sampakitzi+gndr@m.+sem@bird][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakitzi}
+| "[=sampakiti+gndr@m.+sem@bird][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakiti}
+| "[=sampakitsi+gndr@m.+sem@bird][NRoot][=plumbeous.pigeon (sci.nm.: columba.cayennensis; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {sampakitsi} ! @section:noun@ 
+| "[=hampakitzi+gndr@m.+sem@bird][NRoot][=plumbeous.pigeon (sci.nm.: columba.plumbea; ES: sp.de.paloma, paloma.toro, paloma.cuculí)]" : {hampakitzi}
 # ------------------------------------------------------------
 ! 
 ! nosampine 
