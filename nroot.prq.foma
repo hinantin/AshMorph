@@ -743,8 +743,8 @@ define NRootPRQin [
 | "[=chominta+gndr@m.+sem@fish][NRoot][=freshwater.fish.sp. (ES: palometa; sci.nm.: mylossoma.sp.)]" : {chominta}
 # ------------------------------------------------------------------
 ! 
-| "[=chomiyo][NRoot][=banana.sp. (ES: moquichi, sp.de.plátano)]" : {chomiyo}
-| "[=chomiyoki][NRoot][=banana.sp. (ES: plátano.bizcocho)]" : {chomiyoki}
+| "[=chomiyo+gndr@n.m.+sem@fruit][NRoot][=banana.sp. (ES: moquichi, sp.de.plátano)]" : {chomiyo}
+| "[=chomiyoki+gndr@n.m.+sem@fruit][NRoot][=banana.sp. (ES: plátano.bizcocho)]" : {chomiyoki}
 # ------------------------------------------------------------------
 ! 
 | "[=chomo][NRoot][=clay.jar (ES: tinaja.de.barro)]" : {chomo}
