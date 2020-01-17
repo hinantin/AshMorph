@@ -325,8 +325,8 @@ define NRootPRQin [
 # ---------------------------------------------------------------  
 ! 
 # nanani / n- =ana -ni / 1sg.poss- =black.dye -nposs / EN: 'my.black.dye'  
-| "[=ana+gndr@n.m.+poss@ni.][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {ana}
-| "[=aana+gndr@n.m.+poss@ni.][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {aana}
+| "[=ana+gndr@n.m.+poss@ni.+sem@plant][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {ana}
+| "[=aana+gndr@n.m.+poss@ni.+sem@plant][NRoot][=genipap, huito, jagua (ES: wito; botany.id.: genipa.americana); black.dye, black.colouring.agent]" : {aana}
 # ---------------------------------------------------------------  
 ! 
 | "[=ananta+gndr@n.m.+poss@ti.+sem@plant][NRoot][=orchid.sp. (ES: orquídea)]" : {ananta}
@@ -401,11 +401,11 @@ define NRootPRQin [
 | "[=ariri+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {ariri}
 # ------------------------------------------------------------------
 ! 
-| "[=aparo][NRoot][=one]" : {aparo}
-| "[=apani][NRoot][=one]" : {apani}
-| "[=apaani][NRoot][=one]" : {apaani}
+| "[=aparo][NRoot][=one (ES: un, uno)]" : {aparo}
+| "[=apani][NRoot][=one (ES: un, uno)]" : {apani}
+| "[=apaani][NRoot][=one (ES: un, uno)]" : {apaani}
 ! 
-| "[=aparoni][NRoot][=somebody]" : {aparoni}
+| "[=aparoni][NRoot][=somebody (ES: alguien)]" : {aparoni}
 # ------------------------------------------------------------------
 ! 
 | "[=apeti+sem@NP.person][NRoot][=person's.name]" : {apeti}
@@ -434,7 +434,7 @@ define NRootPRQin [
 | "[=ashooshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: armadillo)]" : {ashooshi}
 # ------------------------------------------------------------------
 ! 
-| "[=asorina][NRoot][=cheek]" : {asorina}
+| "[=asorina][NRoot][=cheek (ES: mejilla)]" : {asorina}
 # ------------------------------------------------------------------
 ! person, individual, human
 | "[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]" : {atziri} ! @VCMP N@->V::[=to.be.a.person]  
