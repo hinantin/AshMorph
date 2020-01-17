@@ -613,7 +613,7 @@ define NRootPRQin [
 | "[=charavapana+gndr@m.+sem@wild.anim.][NRoot][=otter.sp. (ES: nutria; sci.nm.: lontra.longicaudis)]" : {charavapana}
 # ------------------------------------------------------------------
 ! 
-| "[=chareto][NRoot][=NP; person's.name]" : {chareto}
+| "[=chareto+sem@NP.person][NRoot][=NP; person's.name]" : {chareto}
 # ------------------------------------------------------------------
 ! 
 ! grandpa, grandfather, grandparents
@@ -735,12 +735,12 @@ define NRootPRQin [
 | "[=chokootzi+gndr@m.+sem@bird][NRoot][=saphire.quail-dove (ES: sp.de.paloma; sci.nm.: geotrygon.saphirina)]" : {chokootzi}
 # ------------------------------------------------------------------
 ! 
-| "[=chochoki+gndr@n.m.][NRoot][=(wild).sweet.fruit (ES: fruta.dulce)]" : {chochoki}
-| "[=txotxoki+gndr@n.m.][NRoot][=general.name.for.small.fruits; (wild).sweet.fruit (ES: fruta.dulce)]" : {txotxoki}
+| "[=chochoki+gndr@n.m.+sem@fruit][NRoot][=(wild).sweet.fruit (ES: fruta.dulce)]" : {chochoki}
+| "[=txotxoki+gndr@n.m.+sem@fruit][NRoot][=general.name.for.small.fruits; (wild).sweet.fruit (ES: fruta.dulce)]" : {txotxoki}
 # ------------------------------------------------------------------
 ! 
-| "[=chomenta+gndr@m.][NRoot][=freshwater.fish.sp. (ES: palometa; sci.nm.: mylossoma.sp.)]" : {chomenta}
-| "[=chominta+gndr@m.][NRoot][=freshwater.fish.sp. (ES: palometa; sci.nm.: mylossoma.sp.)]" : {chominta}
+| "[=chomenta+gndr@m.+sem@fish][NRoot][=freshwater.fish.sp. (ES: palometa; sci.nm.: mylossoma.sp.)]" : {chomenta}
+| "[=chominta+gndr@m.+sem@fish][NRoot][=freshwater.fish.sp. (ES: palometa; sci.nm.: mylossoma.sp.)]" : {chominta}
 # ------------------------------------------------------------------
 ! 
 | "[=chomiyo][NRoot][=banana.sp. (ES: moquichi, sp.de.plátano)]" : {chomiyo}
