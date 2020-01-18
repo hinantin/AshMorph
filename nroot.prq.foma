@@ -753,15 +753,15 @@ define NRootPRQin [
 | "[=chomoiki+gndr@n.m.+sem@fruit][NRoot][=wild.fruit (ES: fruta.del.monte)]" : {chomoiki}
 # ------------------------------------------------------------------
 ! 
-| "[=chompi+gndr@m.][NRoot][=silver-beacked.tanager (sci.nm.: ramphocelus.carbo); black.small.bird.sp.; red.breasted.bird.sp. (ES: sp.de.pájaro.con.pecho.rojo)]" : {chompi}
-| "[=chompii+gndr@m.][NRoot][=bird.sp. (ES: sp.de.ave)]" : {chompii}
+| "[=chompi+gndr@m.+sem@bird][NRoot][=silver-beacked.tanager (sci.nm.: ramphocelus.carbo); black.small.bird.sp.; red.breasted.bird.sp. (ES: sp.de.pájaro.con.pecho.rojo)]" : {chompi}
+| "[=chompii+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: sp.de.ave)]" : {chompii}
 # ------------------------------------------------------------------
 ! 
-| "[=chompiriniro+gndr@m.][NRoot][=vermilion.tanage (sci.nm.: calochaetes.coccineus)]" : {chompiriniro}
+| "[=chompiriniro+gndr@m.+sem@bird][NRoot][=vermilion.tanage (sci.nm.: calochaetes.coccineus)]" : {chompiriniro}
 # ------------------------------------------------------------------
 ! 
-| "[=chompita+gndr@m.][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {chompita}
-| "[=tsompita+gndr@m.][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {tsompita}
+| "[=chompita+gndr@m.+sem@insect][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {chompita}
+| "[=tsompita+gndr@m.+sem@insect][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {tsompita}
 # ------------------------------------------------------------------
 ! 
 | "[=chompitaki][NRoot][=yellow_fruit.tree.sp. (ES: sp.de.árbol.de.frutos.amarillos); cockroach.sp. (ES: sp.de.cucaracha)]" : {chompitaki}
