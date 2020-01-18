@@ -824,13 +824,13 @@ define NRootPRQin [
 | "[=chokio+gndr@m.+sem@bird][NRoot][=small.parrot.sp. (ES: perico/loro.pequeño, periquito, pihuicho; sci.nm.: forpus.xanthopterygius)]" : {chokio} 
 # ------------------------------------------------------------------
 ! 
-| "[=chopavairotzi+gndr@m.][NRoot][=bird.sp. (ES: apodo.de.la.pava)]" : {chopavairotzi} 
+| "[=chopavairotzi+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: apodo.de.la.pava)]" : {chopavairotzi} 
 # ------------------------------------------------------------------
 ! 
-| "[=chopeta][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: phyllomedusa.tarsius)]" : {chopeta} 
+| "[=chopeta+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: phyllomedusa.tarsius)]" : {chopeta} 
 # ------------------------------------------------------------------
 ! 
-| "[=choopitzi][NRoot][=dwarf.tyrant-manakin (sci.nm.: tyranneutes.stolzmanni)]" : {choopitzi} 
+| "[=choopitzi+gndr@m.+sem@bird][NRoot][=dwarf.tyrant-manakin (sci.nm.: tyranneutes.stolzmanni)]" : {choopitzi} 
 ! 
 # ------------------------------------------------------------------------------- 
 | "[=chopii][NRoot][=natural.pudding.made.with.green.plantain (ES: mazamorra.natural.hecho.con.plátano.verde)]" : {chopii} 
@@ -846,9 +846,9 @@ define NRootPRQin [
 | "[=chopiri+~{'to.make.soup':chopi}{NMZ:ri}+gndr@n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopiri} 
 # ------------------------------------------------------------------------------- 
 ! 
-| "[=chorina+gndr@n.m.][NRoot][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {chorina} 
-| "[=chorena+gndr@n.m.][NRoot][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {chorena} 
-| "[=txorina+gndr@n.m.][NRoot:CPB][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {txorina} 
+| "[=chorina+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {chorina} 
+| "[=chorena+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {chorena} 
+| "[=txorina+gndr@n.m.+sem@plant][NRoot:CPB][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {txorina} 
 # ------------------------------------------------------------------
 ! 
 | "[=choriti+gndr@m.][NRoot][=small.swallow.sp. (ES: gorrión, sp.de.pajarito)]" : {choriti}
