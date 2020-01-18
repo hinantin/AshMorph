@@ -851,17 +851,17 @@ define NRootPRQin [
 | "[=txorina+gndr@n.m.+sem@plant][NRoot:CPB][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {txorina} 
 # ------------------------------------------------------------------
 ! 
-| "[=choriti+gndr@m.][NRoot][=small.swallow.sp. (ES: gorrión, sp.de.pajarito)]" : {choriti}
+| "[=choriti+gndr@m.+sem@bird][NRoot][=small.swallow.sp. (ES: gorrión, sp.de.pajarito)]" : {choriti}
 # ------------------------------------------------------------------
 ! 
-| "[=chorito+gndr@m.][NRoot][=parrot.sp., parakeet.sp., small.macaw.sp.; blue-headed.parrot (sci.nm.: pionus.menstruus)]" : {chorito}
+| "[=chorito+gndr@m.+sem@bird][NRoot][=parrot.sp., parakeet.sp., small.macaw.sp.; blue-headed.parrot (sci.nm.: pionus.menstruus)]" : {chorito}
 ! 
-| "[=choritoniro+gndr@m.][NRoot][=painted.parakeet (sci.nm.: pyrrhura.picta)]" : {choritoniro}
+| "[=choritoniro+gndr@m.+sem@bird][NRoot][=painted.parakeet (sci.nm.: pyrrhura.picta)]" : {choritoniro}
 ! 
-| "[=choritovaro+gndr@m.][NRoot][=parrot.sp. (ES: sp.de.loro)]" : {choritovaro}
+| "[=choritovaro+gndr@m.+sem@bird][NRoot][=parrot.sp. (ES: sp.de.loro)]" : {choritovaro}
 # ------------------------------------------------------------------
 ! 
-| "[=chotari][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: micrastur.ruficollis)]" : {chotari}
+| "[=chotari+gndr@m.+sem@bird][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: micrastur.ruficollis)]" : {chotari}
 # ------------------------------------------------------------------
 ! 
 # chótaro 
