@@ -768,11 +768,11 @@ define NRootPRQin [
 | "[=tsompitaki][NRoot][=yellow_fruit.tree.sp. (ES: sp.de.árbol.de.frutos.amarillos); cockroach.sp. (ES: sp.de.cucaracha)]" : {tsompitaki}
 # ------------------------------------------------------------------
 ! 
-| "[=chooni+gndr@m.][NRoot][=black.turkey.sp. (ES: sp.de.pava.negra); wattled.curassow.sp. (sci.nm.: crax.globulosa)]" : {chooni}
-| "[=tsioni+gndr@m.][NRoot][=black.turkey.sp. (ES: sp.de.pava.negra); wattled.curassow.sp. (sci.nm.: crax.globulosa)]" : {tsioni}
+| "[=chooni+gndr@m.+sem@bird][NRoot][=black.turkey.sp. (ES: sp.de.pava.negra); wattled.curassow.sp. (sci.nm.: crax.globulosa)]" : {chooni}
+| "[=tsioni+gndr@m.+sem@bird][NRoot][=black.turkey.sp. (ES: sp.de.pava.negra); wattled.curassow.sp. (sci.nm.: crax.globulosa)]" : {tsioni}
 # ------------------------------------------------------------------
 ! 
-| "[=chompari][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: casmerodius.albus)]" : {chompari}
+| "[=chompari+gndr@m.+sem@bird][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: casmerodius.albus)]" : {chompari}
 # ------------------------------------------------------------------
 ! 
 | "[=choncho+gndr@n.m.][NRoot][=dull.arrow, unsharpened.arrow (used.to.kill.birds)]" : {choncho}
