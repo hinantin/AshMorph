@@ -3456,9 +3456,9 @@ define NRootPRQin [
 | "[=myaanto+gndr@m.+sem@bird][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myaanto}
 # ----------------------------------------------------------------- 
 ! 
-| "[=meiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {meiri}
-| "[=meyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {meyiri}
-| "[=miyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {miyiri}
+| "[=meiri+poss@te.+sem@wild.anim.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {meiri}
+| "[=meyiri+poss@te.+sem@wild.anim.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {meyiri}
+| "[=miyiri+poss@te.+sem@wild.anim.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {miyiri}
 # ----------------------------------------------------------------- 
 ! 
 | "[=miitsi+gndr@m.][NRoot][=cat (ES: gato)]" : {miitsi} ! @section:noun@ 
@@ -3466,7 +3466,7 @@ define NRootPRQin [
 | "[=miisho+gndr@m.][NRoot][=cat (ES: gato)]" : {miisho}
 | "[=miishito+gndr@m.][NRoot][=cat (ES: gato)]" : {miishito}
 | "[=miichi+gndr@m.][NRoot][=cat (ES: gato)]" : {miichi}
-| "[=miishi][NRoot][=cat (ES: gato)]" : {miishi}
+| "[=miishi+gndr@m.][NRoot][=cat (ES: gato)]" : {miishi}
 # ----------------------------------------------------------------- 
 ! 
 | "[=memeri+gndr@m.][NRoot][=small.green.parrot.sp. (ES: sp.de.lorito.verde; sci.nm.: pyrrhura.picta)]" : {memeri}
