@@ -3469,7 +3469,7 @@ define NRootPRQin [
 | "[=miishi+gndr@m.][NRoot][=cat (ES: gato)]" : {miishi}
 # ----------------------------------------------------------------- 
 ! 
-| "[=memeri+gndr@m.][NRoot][=small.green.parrot.sp. (ES: sp.de.lorito.verde; sci.nm.: pyrrhura.picta)]" : {memeri}
+| "[=memeri+gndr@m.+sem@bird][NRoot][=small.green.parrot.sp. (ES: sp.de.lorito.verde; sci.nm.: pyrrhura.picta)]" : {memeri}
 # ----------------------------------------------------------------- 
 ! 
 | "[=menki+gndr@n.m.+inal@tsi.][NRoot][=partly-burned.stick (ES: tizón)]" : {menki}
@@ -3481,19 +3481,19 @@ define NRootPRQin [
 !| "[=menko+gndr@n.m.+inal@tzi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} 
 # ----------------------------------------------------------------- 
 ! 
-| "[=mentaro+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mentaro}
-| "[=mentavo+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mentavo}
-| "[=mintavo+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mintavo}
+| "[=mentaro+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mentaro}
+| "[=mentavo+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mentavo}
+| "[=mintavo+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mintavo}
 # ----------------------------------------------------------------- 
 ! 
 | "[=mire+inal@tsi.][NRoot][=liquid.for.thirst (ES: líquido.para.la.sed); thirst (ES: sed)]" : {mire}
 # ----------------------------------------------------------------- 
 ! 
-| "[=miri][NRoot][=red-fan.parrot (sci.nm.: deroptyus.accipitrinus)]" : {miri}
+| "[=miri+gndr@m.+sem@bird][NRoot][=red-fan.parrot (sci.nm.: deroptyus.accipitrinus)]" : {miri}
 # ----------------------------------------------------------------- 
 ! 
-| "[=merenari+gndr@m.][NRoot][=fish.sp., mojarra.sp.]" : {merenari}
-| "[=mirinari+gndr@m.][NRoot][=fish.sp., mojarra.sp.]" : {mirinari}
+| "[=merenari+gndr@m.+sem@fish][NRoot][=fish.sp., mojarra.sp.]" : {merenari}
+| "[=mirinari+gndr@m.+sem@fish][NRoot][=fish.sp., mojarra.sp.]" : {mirinari}
 # ----------------------------------------------------------------- 
 ! 
 | "[=merepiri+gndr@n.m.][NRoot][=sharpening.stone, whetstone; filing.rock (ES: piedra.para/de.afilar)]" : {merepiri}
