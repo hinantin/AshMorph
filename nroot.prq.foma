@@ -3508,35 +3508,35 @@ define NRootPRQin [
 | "[=miri][NRoot][=rib (ES: costilla)]" : {miri}
 # ----------------------------------------------------------------- 
 ! 
-| "[=merekiri+gndr@m.][NRoot][=catfish.sp., cunchi/kunchi.sp., fish.sp.]" : {merekiri}
+| "[=merekiri+gndr@m.+sem@fish][NRoot][=catfish.sp., cunchi/kunchi.sp., fish.sp.]" : {merekiri}
 # ----------------------------------------------------------------- 
 ! 
-| "[=Meroka][NRoot][=person's.name]" : {meroka}
+| "[=Meroka+sem@NP.person][NRoot][=person's.name]" : {meroka}
 # ----------------------------------------------------------------- 
 ! 
-| "[=miro][NRoot][=frog.sp. (ES: especie.de.rana)]" : {miro}
+| "[=miro+gndr@m.+sem@amphibian][NRoot][=frog.sp. (ES: especie.de.rana)]" : {miro}
 # ----------------------------------------------------------------- 
 ! 
-| "[=meronki+gndr@n.m.][NRoot][=chimicua-tree.sp. (ES: chimicua)]" : {meronki} ! @section:noun@ 
-| "[=mironki+gndr@n.m.][NRoot][=chimicua-tree.sp. (ES: chimicua)]" : {mironki}
+| "[=meronki+gndr@n.m.+sem@plant][NRoot][=chimicua-tree.sp. (ES: chimicua)]" : {meronki} ! @section:noun@ 
+| "[=mironki+gndr@n.m.+sem@plant][NRoot][=chimicua-tree.sp. (ES: chimicua)]" : {mironki}
 # ----------------------------------------------------------------- 
 ! 
 | "[=mironta][NRoot][=flat (ES: objeto.plano-y-chato)]" : {mironta} ! @VCMP 
 | "[=meronta][NRoot][=flat (ES: objeto.plano-y-chato)]" : {meronta} ! @VCMP 
 # ----------------------------------------------------------------- 
 ! 
-| "[=meronti][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: buteo.albigula)]" : {meronti}
+| "[=meronti+gndr@m.+sem@bird][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: buteo.albigula)]" : {meronti}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mereto+gndr@m.+poss@te.][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]" : {mereto}
-| "[=mirito+gndr@m.+poss@te.][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]" : {mirito}
+| "[=mereto+gndr@m.+poss@te.+sem@fish][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]" : {mereto}
+| "[=mirito+gndr@m.+poss@te.+sem@fish][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]" : {mirito}
 # ----------------------------------------------------------------- 
 ! 
-| "[=meshaa+gndr@n.m.][NRoot][=tree.sp. (capirona)]" : {meshaa}
-| "[=mishaa+gndr@n.m.][NRoot][=tree.sp. (capirona)]" : {mishaa}
+| "[=meshaa+gndr@n.m.+sem@plant][NRoot][=tree.sp. (capirona)]" : {meshaa}
+| "[=mishaa+gndr@n.m.+sem@plant][NRoot][=tree.sp. (capirona)]" : {mishaa}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mesha_oteyaki][NRoot][= (PT: mulateiro; sci.nm.: família.fabaceae)]" : {mesha_oteyaki}
+| "[=mesha_oteyaki+gndr@n.m.+sem@plant][NRoot][= (PT: mulateiro; sci.nm.: família.fabaceae)]" : {mesha_oteyaki}
 # ----------------------------------------------------------------- 
 ! 
 | "[=meshina+gndr@n.m.+inal@n/tsi.][NRoot][=skin, animal.leather (ES: piel, cuero.animal)]" : {meshina}
