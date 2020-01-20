@@ -3434,26 +3434,26 @@ define NRootPRQin [
 | "[=maasheroki+gndr@n.m.][NRoot][=granadilla.sp. (ES: granadilla; sci.nm.: passiflora.ligularis)]" : {maasheroki}
 # ----------------------------------------------------------------- 
 ! 
-| "[=meantarini][NRoot][=name]" : {meantarini}
+| "[=meantarini+sem@NP.place][NRoot][=name]" : {meantarini}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mee+gndr@m.][NRoot][=otter.sp. (ES: nutria)]" : {mee}
-| "[=mii+gndr@m.][NRoot][=otter.sp. (ES: nutria)]" : {mii}
+| "[=mee+gndr@m.+sem@wild.anim.][NRoot][=otter.sp. (ES: nutria)]" : {mee}
+| "[=mii+gndr@m.+sem@wild.anim.][NRoot][=otter.sp. (ES: nutria)]" : {mii}
 # ----------------------------------------------------------------- 
 ! 
-| "[=meero+gndr@m.][NRoot][=gray.hawk (ES: sp.de.gavilán.chico; sci.nm.: buteo.nitidus)]" : {meero}
-| "[=meerotzi+gndr@m.][NRoot][=gray.hawk (ES: sp.de.gavilán.chico; sci.nm.: buteo.nitidus)]" : {meerotzi}
+| "[=meero+gndr@m.+sem@bird][NRoot][=gray.hawk (ES: sp.de.gavilán.chico; sci.nm.: buteo.nitidus)]" : {meero}
+| "[=meerotzi+gndr@m.+sem@bird][NRoot][=gray.hawk (ES: sp.de.gavilán.chico; sci.nm.: buteo.nitidus)]" : {meerotzi}
 # ----------------------------------------------------------------- 
 ! 
 | "[=menta+gndr@n.m.+inal@tsi.][NRoot][=fin.of.tree (ES: aleta.de.árbol); wedge, buttress.root.of.a.tree]" : {menta} 
 | "[=minta+gndr@n.m.+inal@tsi.][NRoot][=fin.of.tree (ES: aleta.de.árbol); wedge, buttress.root.of.a.tree]" : {minta} 
 # ----------------------------------------------------------------- 
 ! 
-| "[=meanto+gndr@m.][NRoot][=macaw, parrot.sp. (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {meanto}
-| "[=meyanto+gndr@m.][NRoot][=macaw, parrot.sp. (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {meyanto}
-| "[=mianto+gndr@m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {mianto}
-| "[=myanto+gndr@m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myanto}
-| "[=myaanto+gndr@m.][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myaanto}
+| "[=meanto+gndr@m.+sem@bird][NRoot][=macaw, parrot.sp. (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {meanto}
+| "[=meyanto+gndr@m.+sem@bird][NRoot][=macaw, parrot.sp. (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {meyanto}
+| "[=mianto+gndr@m.+sem@bird][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {mianto}
+| "[=myanto+gndr@m.+sem@bird][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myanto}
+| "[=myaanto+gndr@m.+sem@bird][NRoot][=military.macaw (sci.nm.: ara.militaris, ES: guacamayo.(verde), QU: wakamayu)]" : {myaanto}
 # ----------------------------------------------------------------- 
 ! 
 | "[=meiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]" : {meiri}
