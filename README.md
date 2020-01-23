@@ -111,6 +111,7 @@ For more information
 
 Richard ALexander Castro-Mamani
 
-E-mail: rcastro@hinant.in
+E-mail: rcastro@hinant.in ; richard.castro.mamani@gmail.com
+
 
 
