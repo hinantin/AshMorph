@@ -5263,9 +5263,9 @@ define NRootPRQin [
 | "[=shavashi+sem@NP.person][NRoot][=person's.name]" : {shavashi}
 # --------------------------------------------------------------------------
 ! 
-| "[=shavori+gndr@m.][NRoot][=barbon-fish.sp. (ES: barbón, bagre; sci.nm.: rhamdia.sp., narrorhamdia.nemacheiri)]" : {shavori}
-| "[=shaori+gndr@m.][NRoot][=barbon-fish.sp., catfish.sp. (ES: barbón, bagre; sci.nm.: rhamdia.sp., narrorhamdia.nemacheiri)]" : {shaori}
-!| "[=shaori][NRoot][=catfish.sp. (barbón)]" : {shaori}
+| "[=shavori+gndr@m.+sem@fish][NRoot][=barbon-fish.sp. (ES: barbón, bagre; sci.nm.: rhamdia.sp., narrorhamdia.nemacheiri)]" : {shavori}
+| "[=shaori+gndr@m.+sem@fish][NRoot][=barbon-fish.sp., catfish.sp. (ES: barbón, bagre; sci.nm.: rhamdia.sp., narrorhamdia.nemacheiri)]" : {shaori}
+!| "[=shaori+gndr@m.+sem@fish][NRoot][=catfish.sp. (barbón)]" : {shaori}
 # --------------------------------------------------------------------------
 ! 
 | "[=shavintoki][NRoot][=psidium, guava (ES: guayaba; botany.nm.: psidium.guajaba)]" : {shavintoki}
