@@ -5300,10 +5300,10 @@ define NRootPRQin [
 | "[=pishiyava+sem@NP.person][NRoot][=NP, person's.name]" : {pishiyava}
 # ----------------------------------------------------------------
 ! 
-| "[=shaaki+gndr@n.m.][NRoot][=unguravi-palm-tree.fruit (ES: fruto.de.ungurague)]" : {shaaki}
+| "[=shaaki+gndr@n.m.+sem@fruit][NRoot][=unguravi-palm-tree.fruit (ES: fruto.de.ungurague)]" : {shaaki}
 # ----------------------------------------------------------------
 ! 
-| "[=shaanke+gndr@n.m.][NRoot][=unguravi-palm-tree.venomous.snake.sp.]" : {shaanke}
+| "[=shaanke+gndr@m.+sem@reptile][NRoot][=unguravi-palm-tree.venomous.snake.sp.]" : {shaanke}
 # ----------------------------------------------------------------
 ! 
 | "[=shiyeri+gndr@m.][NRoot][=monkey.sp. (ES: sp.de.mono; sci.nm.: cabuella.pygmaea)]" : {shiyeri}
