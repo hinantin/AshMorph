@@ -5247,8 +5247,8 @@ define NRootPRQin [
 | "[=Samuel/shamoko+sem@NP.person][NRoot][=Samuel]" : {shamoko}
 # --------------------------------------------------------------------------
 ! 
-| "[=shamoroki+sem@insect][NRoot][=cicada.sp. (ES: sp.de.chicharra)]" : {shamoroki}
-| "[=shemoroki+sem@insect][NRoot][=cicada.sp. (ES: sp.de.chicharra)]" : {shemoroki}
+| "[=shamoroki+gndr@m.+sem@insect][NRoot][=cicada.sp. (ES: sp.de.chicharra)]" : {shamoroki}
+| "[=shemoroki+gndr@m.+sem@insect][NRoot][=cicada.sp. (ES: sp.de.chicharra)]" : {shemoroki}
 # --------------------------------------------------------------------------
 ! 
 | "[=shapopo+sem@NP.person][NRoot][=person's.name]" : {shapopo}
