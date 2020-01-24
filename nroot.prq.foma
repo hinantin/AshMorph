@@ -764,8 +764,11 @@ define NRootPRQin [
 | "[=tsompita+gndr@m.+sem@insect][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {tsompita}
 # ------------------------------------------------------------------
 ! 
-| "[=chompitaki][NRoot][=yellow_fruit.tree.sp. (ES: sp.de.árbol.de.frutos.amarillos); cockroach.sp. (ES: sp.de.cucaracha)]" : {chompitaki}
-| "[=tsompitaki][NRoot][=yellow_fruit.tree.sp. (ES: sp.de.árbol.de.frutos.amarillos); cockroach.sp. (ES: sp.de.cucaracha)]" : {tsompitaki}
+| "[=chompitaki][NRoot][=yellow_fruit.tree.sp. (ES: sp.de.árbol.de.frutos.amarillos)]" : {chompitaki}
+| "[=tsompitaki][NRoot][=yellow_fruit.tree.sp. (ES: sp.de.árbol.de.frutos.amarillos)]" : {tsompitaki}
+! 
+| "[=chompitaki+gndr@m.+sem@insect][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {chompitaki}
+| "[=tsompitaki+gndr@m.+sem@insect][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]" : {tsompitaki}
 # ------------------------------------------------------------------
 ! 
 | "[=chooni+gndr@m.+sem@bird][NRoot][=black.turkey.sp. (ES: sp.de.pava.negra); wattled.curassow.sp. (sci.nm.: crax.globulosa)]" : {chooni}
