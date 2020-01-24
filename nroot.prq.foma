@@ -5297,7 +5297,7 @@ define NRootPRQin [
 | "[=shiyava+sem@NP.person][NRoot][=NP, person's.name]" : {shiyava}
 # ----------------------------------------------------------------
 ! 
-| "[=pishiyava][NRoot][=NP, person's.name]" : {pishiyava}
+| "[=pishiyava+sem@NP.person][NRoot][=NP, person's.name]" : {pishiyava}
 # ----------------------------------------------------------------
 ! 
 | "[=shaaki+gndr@n.m.][NRoot][=unguravi-palm-tree.fruit (ES: fruto.de.ungurague)]" : {shaaki}
