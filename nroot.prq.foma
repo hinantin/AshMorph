@@ -5257,7 +5257,7 @@ define NRootPRQin [
 | "[=sharishi+sem@NP.person][NRoot][=person's.name]" : {sharishi}
 # --------------------------------------------------------------------------
 ! 
-| "[=shatoni+gndr@m.][NRoot][=paca.sp., agouti (ES: aguti, majaz; sci.nm.: myoprocta.pratti)]" : {shatoni}
+| "[=shatoni+gndr@m.+sem@wild.anim.][NRoot][=paca.sp., agouti (ES: aguti, majaz; sci.nm.: myoprocta.pratti)]" : {shatoni}
 # --------------------------------------------------------------------------
 ! 
 | "[=shavashi+sem@NP.person][NRoot][=person's.name]" : {shavashi}
