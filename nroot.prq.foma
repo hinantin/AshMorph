@@ -902,8 +902,8 @@ define NRootPRQin [
 | "[=chovirio+sem@NP.person][NRoot][=NP, person's.name]" : {chovirio}
 # ------------------------------------------------------------------
 ! 
-| "[=chovivinyaki][NRoot][=land/tree.snail.sp. (ES: molusco.terrestre/que_vive_en_los_árboles; sci.nm.: thaumastus.bitaeniatus)]" : {chovivinyaki} ! snail???
-| "[=chovivinaki][NRoot][=land/tree.snail.sp. (ES: molusco.terrestre/que_vive_en_los_árboles; sci.nm.: thaumastus.bitaeniatus)]" : {chovivinaki} ! snail???
+| "[=chovivinyaki+gndr@m.+sem@gastropoda][NRoot][=land/tree.snail.sp. (ES: molusco.terrestre/que_vive_en_los_árboles; sci.nm.: thaumastus.bitaeniatus)]" : {chovivinyaki} ! snail???
+| "[=chovivinaki+gndr@m.+sem@gastropoda][NRoot][=land/tree.snail.sp. (ES: molusco.terrestre/que_vive_en_los_árboles; sci.nm.: thaumastus.bitaeniatus)]" : {chovivinaki} ! snail???
 # ------------------------------------------------------------------
 ! 
 | "[=chooviki][NRoot][=larva.sp. (ES: larva, suri)]" : {chooviki}
