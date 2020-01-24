@@ -5286,12 +5286,12 @@ define NRootPRQin [
 ! 
 # ----------------------------------------------------------------
 ! sheiaki~sheyaki 
-| "[=sheya+gndr@n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheya} ! @CMP 
-| "[=sheia+gndr@n.m.+poss@ni][NRoot:CPB][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheia}
-| "[=shiya+gndr@n.m.+poss@ni][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {shiya} ! @CMP 
+| "[=sheya+gndr@n.m.+poss@ni+sem@plant][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheya} ! @CMP 
+| "[=sheia+gndr@n.m.+poss@ni+sem@plant][NRoot:CPB][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheia}
+| "[=shiya+gndr@n.m.+poss@ni+sem@plant][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {shiya} ! @CMP 
 ! shaki~shaaki
-| "[=shaa+gndr@n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {shaa} ! @CMP 
-| "[=sha+gndr@n.m.][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {sha}
+| "[=shaa+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {shaa} ! @CMP 
+| "[=sha+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {sha}
 # ----------------------------------------------------------------
 ! 
 | "[=shiyava+sem@NP.person][NRoot][=NP, person's.name]" : {shiyava}
