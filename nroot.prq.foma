@@ -3978,16 +3978,16 @@ define NRootPRQin [
 | "[=onkama][NRoot][=controller.of.(pooled_water|river_tide) (ES: controlador.de.agua_empozada/marea_del_río)]" : {onkama} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
-| "[=onkiri+gndr@m.][NRoot][=partridge/bird.sp. (ES: yungururu, perdiz.del.monte; sci.nm.: tinamous.major)]" : {onkiri}
-| "[=yonkiri][NRoot][=partridge/bird.sp. (ES: yungururu, perdiz.del.monte; sci.nm.: tinamous.major)]" : {yonkiri}
+| "[=onkiri+gndr@m.+sem@bird][NRoot][=partridge/bird.sp. (ES: yungururu, perdiz.del.monte; sci.nm.: tinamous.major)]" : {onkiri}
+| "[=yonkiri+gndr@m.+sem@bird][NRoot][=partridge/bird.sp. (ES: yungururu, perdiz.del.monte; sci.nm.: tinamous.major)]" : {yonkiri}
 # ---------------------------------------------------------------------
 ! 
-| "[=oNkiro+gndr@m.][NRoot][=big.mouse (ES: ratón)]" : {onkiro}
+| "[=oNkiro+gndr@m.+sem@wild.anim.][NRoot][=big.mouse (ES: ratón)]" : {onkiro}
 ! 
-| "[=oNkicha+gndr@m.][NRoot][=small.mouse]" : {onkicha}
+| "[=oNkicha+gndr@m.+sem@wild.anim.][NRoot][=small.mouse]" : {onkicha}
 # ---------------------------------------------------------------------
 ! 
-| "[=onko+poss@ni.][NRoot][=cultigen/edible.plant.sp. (malanga, sci.nm.: xanthosoma.sp.)]" : {onko}
+| "[=onko+gndr@n.m.+poss@ni.+sem@plant][NRoot][=cultigen/edible.plant.sp. (malanga, sci.nm.: xanthosoma.sp.)]" : {onko}
 # ---------------------------------------------------------------------
 ! 
 | "[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkona}
