@@ -3990,9 +3990,9 @@ define NRootPRQin [
 | "[=onko+gndr@n.m.+poss@ni.+sem@plant][NRoot][=cultigen/edible.plant.sp. (malanga, sci.nm.: xanthosoma.sp.)]" : {onko}
 # ---------------------------------------------------------------------
 ! 
-| "[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkona}
-| "[=onkochapa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkochapa}
-| "[=onkochapaa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkochapaa}
+| "[=oNkona+gndr@n.m.+sem@plant][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkona}
+| "[=onkochapa+gndr@n.m.+sem@plant][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkochapa}
+| "[=onkochapaa+gndr@n.m.+sem@plant][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]" : {onkochapaa}
 # ---------------------------------------------------------------------
 ! 
 | "[=oori+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: halcón)]" : {oori}
