@@ -4653,9 +4653,9 @@ define NRootPRQin [
 | "[=pirinto+gndr@m.+sem@amphibian][NRoot][=lake.frog, toad (ES: sp.de.sapo, hualo; sci.nm.: leptodactylus.knudseni); mountain.frog]" : {pirinto}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pirimorishi][NRoot][=Puerto.Bermudez]" : {pirimorishi}
-| "[=kovirya][NRoot][=Puerto.Bermudez]" : {kovirya}
-| "[=koviryaa][NRoot][=Puerto.Bermudez]" : {koviryaa}
+| "[=pirimorishi+sem@NP.place][NRoot][=Puerto.Bermudez]" : {pirimorishi}
+| "[=kovirya+sem@NP.place][NRoot][=Puerto.Bermudez]" : {kovirya}
+| "[=koviryaa+sem@NP.place][NRoot][=Puerto.Bermudez]" : {koviryaa}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pirimpiritzi][NRoot][=orange-bellied.euphonia (sci.nm.: euphonia.xantogaster)]" : {pirimpiritzi}
