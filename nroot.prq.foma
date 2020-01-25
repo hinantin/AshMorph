@@ -4658,7 +4658,7 @@ define NRootPRQin [
 | "[=koviryaa+sem@NP.place][NRoot][=Puerto.Bermudez]" : {koviryaa}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pirimpiritzi][NRoot][=orange-bellied.euphonia (sci.nm.: euphonia.xantogaster)]" : {pirimpiritzi}
+| "[=pirimpiritzi+gndr@m.+sem@bird][NRoot][=orange-bellied.euphonia (sci.nm.: euphonia.xantogaster)]" : {pirimpiritzi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pirotsonke+gndr@n.m.][NRoot][=manioc/yucca.sp. (ES: sp.de.yuca)]" : {pirotsonke}
@@ -4667,19 +4667,19 @@ define NRootPRQin [
 | "[=piro+gndr@n.m.+inal@tsi.][NRoot][=scar (ES: cicatriz); stain.in.skin (ES: mancha.de.la.piel)]" : {piro}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pirontzi+gndr@m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
-| "[=pironi+gndr@m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]" : {pironi} ! N@->V
-| "[=piroti+gndr@m.][NRoot][=firefly (ES: luciernaga); quasi-lightning.bug]" : {piroti} ! N@->V
+| "[=pirontzi+gndr@m.+sem@insect][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
+| "[=pironi+gndr@m.+sem@insect][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]" : {pironi} ! N@->V
+| "[=piroti+gndr@m.+sem@insect][NRoot][=firefly (ES: luciernaga); quasi-lightning.bug]" : {piroti} ! N@->V
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pisaapitooki+gndr@m.][NRoot][=bird.sp.]" : {pisaapitooki}
+| "[=pisaapitooki+gndr@m.+sem@bird][NRoot][=bird.sp.]" : {pisaapitooki}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitiri+gndr@m.][NRoot][=large.pink.bird.sp., heron.sp. (ES: sp.de.garza; sci.nm.: florida.caerulea)]" : {pitiri}
-| "[=pitiiri+gndr@m.][NRoot][=large.pink.bird.sp., heron.sp. (ES: sp.de.garza; sci.nm.: florida.caerulea)]" : {pitiiri}
+| "[=pitiri+gndr@m.+sem@bird][NRoot][=large.pink.bird.sp., heron.sp. (ES: sp.de.garza; sci.nm.: florida.caerulea)]" : {pitiri}
+| "[=pitiiri+gndr@m.+sem@bird][NRoot][=large.pink.bird.sp., heron.sp. (ES: sp.de.garza; sci.nm.: florida.caerulea)]" : {pitiiri}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitishi+gndr@n.m.][NRoot][=tree.sp.with.venomous.leaves (its.leaves.are.used.as.barbasco.when.fishing, poison.for.fishing; ES: chirrinchao; sci.nm.: phyllanthus.sp.)]" : {pitishi}
+| "[=pitishi+gndr@n.m.+sem@plant][NRoot][=tree.sp.with.venomous.leaves (its.leaves.are.used.as.barbasco.when.fishing, poison.for.fishing; ES: chirrinchao; sci.nm.: phyllanthus.sp.)]" : {pitishi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pitsikentzi+gndr@m.+sem@bird][NRoot][=red-headed.manakin (sci.nm.: pipra.rubrocapilla)]" : {pitsikentzi}
