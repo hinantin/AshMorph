@@ -26,7 +26,7 @@ define NounToVerbPRQin [
 | "[=chenko+gndr@n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)][^VBZ]" : {chenko} ! N@->V::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)] 
 | "[=tsenko+gndr@n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)][^VBZ]" : {tsenko} ! N@->V::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)] 
 | "[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)][^VBZ]" : {chetaki} ! N@->V::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]
-| "[=chovi+gndr@m.+inal@tsi.][NRoot][=parasitic.worm; intestinal.worm.sp. (ES: gusano); insect.sp.]::[=to.have.worm(s) (ES: tener.gusano(s))][^VBZ]" : {chovi} ! N@->V::[=to.have.worm(s) (ES: tener.gusano(s))] 
+| "[=chovi+gndr@m.+inal@tsi.+sem@worm-shaped][NRoot][=parasitic.worm; intestinal.worm.sp. (ES: gusano); insect.sp.]::[=to.have.worm(s) (ES: tener.gusano(s))][^VBZ]" : {chovi} ! N@->V::[=to.have.worm(s) (ES: tener.gusano(s))] 
 | "[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]::[=to.be.a.child (ES: ser.un.niño)][^VBZ]" : {eentsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] @section:noun@ 
 | "[=iintsi+gndr@n./m.][NRoot][=child (ES: niño)]::[=to.be.a.child (ES: ser.un.niño)][^VBZ]" : {iintsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
 | "[=entsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]::[=to.be.a.child (ES: ser.un.niño)][^VBZ]" : {entsi} ! N@->V::[=to.be.a.child (ES: ser.un.niño)] 
@@ -84,9 +84,9 @@ define NounToVerbPRQin [
 | "[=oria+gndr@m.][NRoot][=sun (ES: sol)]::[=to.shine][^VBZ]" : {oria} ! N@->V::[=to.shine]
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)][^VBZ]" : {oventeni} ! N@->V
 | "[=harentsi+gndr@m.][NRoot][=year (ES: año);| (dry.season|summer) (ES: verano)]::[=to.be.summer][^VBZ]" : {harentsi} ! N@->V::[=to.be.summer] @section:noun@ 
-| "[=pirontzi+gndr@m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]::[=to.be.firefly (ES: ser.luciernaga)][^VBZ]" : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
-| "[=pironi+gndr@m.][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove][^VBZ]" : {pironi} ! N@->V
-| "[=piroti+gndr@m.][NRoot][=firefly (ES: luciernaga); quasi-lightning.bug][^VBZ]" : {piroti} ! N@->V
+| "[=pirontzi+gndr@m.+sem@insect][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]::[=to.be.firefly (ES: ser.luciernaga)][^VBZ]" : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
+| "[=pironi+gndr@m.+sem@insect][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove][^VBZ]" : {pironi} ! N@->V
+| "[=piroti+gndr@m.+sem@insect][NRoot][=firefly (ES: luciernaga); quasi-lightning.bug][^VBZ]" : {piroti} ! N@->V
 | "[=pira+gndr@m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)][^VBZ]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
 | "[=tsipamintsare][NRoot][=friend (ES: amigo)][^VBZ]" : {tsipamintsare} ! N@->V
 | "[=tsipikirontsi+gndr@n.m.][NRoot][= (ES: quincha/tejido/trama.hecha.de.caña_brava/carrizo)]::[= (ES: construir.una.quincha/tejido/trama)][^VBZ]" : {tsipikirontsi} ! N@->V::[= (ES: construir.una.quincha/tejido/trama)] 
