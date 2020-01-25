@@ -961,19 +961,19 @@ define NRootPRQin [
 | "[=erama+gndr@m.+sem@worm-shaped][NRoot][=edible.butterfly.larva.sp. (ES: larva.comestible.de.mariposa; sci.nm.: familia.notodontidae)]" : {erama} 
 # ------------------------------------------------------------------
 ! 
-| "[=ereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {ereki}
-| "[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {eereki}
+| "[=ereki+~{V:/'to.be.tender':ere/}{CL:/'small.insect-like':ki/}][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {ereki}
+| "[=eereki+~{V:/'to.be.tender':eere/}{CL:/'small.insect-like':ki/}][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {eereki}
 | "[=iiriki+poss@ti.][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {iiriki}
 # ------------------------------------------------------------------
 ! 
 | "[=erorentzi+gndr@m.+sem@NP.person][NRoot][=NP]" : {erorentzi}
 # ------------------------------------------------------------------
 ! 
-| "[=eereshi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new/green.leaf (ES: hoja.nueva; PT: folha.nova/verde)]" : {eereshi}
-| "[=iirishi+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new/green.leaf (ES: hoja.nueva; PT: folha.nova/verde)]" : {iirishi}
+| "[=eereshi+~{V:/'to.be.tender':eere/}{CL:/'leaf':shi/}+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new/green.leaf (ES: hoja.nueva; PT: folha.nova/verde)]" : {eereshi}
+| "[=iirishi+~{V:/'to.be.tender':eere/}{CL:/'leaf':shi/}+poss@ti.][NRoot][=tender; new; newly.sprouted.leaves, new/green.leaf (ES: hoja.nueva; PT: folha.nova/verde)]" : {iirishi}
 # ------------------------------------------------------------------
 ! 
-| "[=Eroshi][NRoot][=person's.name]" : {eroshi}
+| "[=Eroshi+sem@NP.person][NRoot][=person's.name]" : {eroshi}
 # ------------------------------------------------------------------
 ! 
 | "[=eroti+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {eroti}
@@ -4634,11 +4634,11 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 # suri-fish 
-| "[=piiryoki+gndr@m.][NRoot][=medium-size.suri-fish.sp.]" : {piiryoki}
-| "[=piiyoki+gndr@m.][NRoot][=medium-size.suri-fish.sp.]" : {piiyoki}
-| "[=tayooki+gndr@m.][NRoot][=small-size.suri-fish.sp.]" : {tayooki}
-| "[=pairi+gndr@m.][NRoot][=very_small-size.suri-fish.sp.]" : {pairi}
-| "[=pairi+gndr@m.][NRoot][=piranha.sp. (Cohengua.community)]" : {pairi}
+| "[=piiryoki+gndr@m.+sem@bird][NRoot][=medium-size.suri-fish.sp.]" : {piiryoki}
+| "[=piiyoki+gndr@m.+sem@bird][NRoot][=medium-size.suri-fish.sp.]" : {piiyoki}
+| "[=tayooki+gndr@m.+sem@bird][NRoot][=small-size.suri-fish.sp.]" : {tayooki}
+| "[=pairi+gndr@m.+sem@bird][NRoot][=very_small-size.suri-fish.sp.]" : {pairi}
+| "[=pairi+gndr@m.+sem@bird][NRoot][=piranha.sp. (Cohengua.community)]" : {pairi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=peshi+gndr@n.m.+inal@tsi.][NRoot][=shoot (ES: retoño); stalk.of.a.plant, cluster, the.part.of.the.banana_plant.that.is.planted]" : {peshi} ! @CMP 
