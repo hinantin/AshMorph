@@ -4969,8 +4969,8 @@ define NRootPRQin [
 | "[=poorotaki+gndr@m.+sem@insect][NRoot][=green.beetle.sp. (ES: sp.de.escarabajo.de.color.verde; sci.nm.: familia.cerambycidae, subfamilia.lamiinae, género.acanthoderes)]" : {poorotaki}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=ponkaro][NRoot][=bejuco (ES: fam.del.sapindo; sci.nm.: sapindáceas)]" : {ponkaro}
-| "[=kanirisama][NRoot][=yucca-like.medicinal.plant.sp. (it.has.fattening.properties; ES: Fam.del.sapindo, sacha.yuca; QU: sach'a.rumu; sci.nm.: sapindáceas)]" : {kanirisama}
+| "[=ponkaro+gndr@n.m.+sem@plant][NRoot][=bejuco (ES: fam.del.sapindo; sci.nm.: sapindáceas)]" : {ponkaro}
+| "[=kanirisama+gndr@n.m.+sem@plant][NRoot][=yucca-like.medicinal.plant.sp. (it.has.fattening.properties; ES: Fam.del.sapindo, sacha.yuca; QU: sach'a.rumu; sci.nm.: sapindáceas)]" : {kanirisama}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=ponke+gndr@m.+sem@wild.anim.][NRoot][=eel.sp.]" : {ponke}
@@ -4986,8 +4986,8 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------ 
 ! 
 # oponkitya / o- =ponkiti -aa / 3n.m.poss- =edge -cl:liquid / EN: 'river.mouth, lit.: its.edge.of.water'  
-| "[=ponkitzi][NRoot][=edge]" : {ponkitzi}
-| "[=ponkiti][NRoot][=edge]" : {ponkiti}
+| "[=ponkitzi][NRoot][=edge (ES: borde)]" : {ponkitzi}
+| "[=ponkiti][NRoot][=edge (ES: borde)]" : {ponkiti}
 # ------------------------------------------------------------------------------------------ 
 ! 
 | "[=ponoro+gndr@m.+sem@bird][NRoot][=bird.sp.]" : {ponoro}
