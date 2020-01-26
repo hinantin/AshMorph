@@ -5022,8 +5022,8 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------  
 ! 
 | "[=poroki][NRoot][=bunch; plant.sp. (ES: achotillo)]" : {poroki}
-| "[=poorooki+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {poorooki}
-| "[=pooroki+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: zancudo.caspi, alcornea.sp.)]" : {pooroki}
+| "[=poorooki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {poorooki}
+| "[=pooroki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: zancudo.caspi, alcornea.sp.)]" : {pooroki}
 # ------------------------------------------------------------------------------------------ 
 ! 
 | "[=poroniya+gndr@n.m.][NRoot][=banana.sp.]" : {poroniya}
