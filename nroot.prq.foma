@@ -906,15 +906,15 @@ define NRootPRQin [
 | "[=chovivinaki+gndr@m.+sem@gastropoda][NRoot][=land/tree.snail.sp. (ES: molusco.terrestre/que_vive_en_los_árboles; sci.nm.: thaumastus.bitaeniatus)]" : {chovivinaki} ! snail???
 # ------------------------------------------------------------------
 ! 
-| "[=chooviki][NRoot][=larva.sp. (ES: larva, suri)]" : {chooviki}
-| "[=choviki][NRoot][=larva.sp. (ES: larva, suri)]" : {choviki}
+| "[=chooviki+gndr@m.+sem@worm-shaped][NRoot][=larva.sp. (ES: larva, suri)]" : {chooviki}
+| "[=choviki+gndr@m.+sem@worm-shaped][NRoot][=larva.sp. (ES: larva, suri)]" : {choviki}
 # ------------------------------------------------------------------
 ! 
 | "[=echonti+gndr@m.+sem@insect][NRoot][=wasp (ES: avispa)]" : {echonti}
 # ------------------------------------------------------------------
 ! 
-| "[=eemeeni+kin@fem.ego][NRoot][=brother.in.law]" : {eemeeni}
-| "[=iimiini+kin@fem.ego][NRoot][=brother.in.law]" : {iimiini}
+| "[=eemeeni+kin@fem.ego][NRoot][=brother.in.law (ES: cuñado)]" : {eemeeni}
+| "[=iimiini+kin@fem.ego][NRoot][=brother.in.law (ES: cuñado)]" : {iimiini}
 # ------------------------------------------------------------------
 ! 
 | "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
