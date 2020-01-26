@@ -3117,33 +3117,33 @@ define NRootPRQin [
 | "[=mampo+gndr@n.m.+inal@tsi.][NRoot][=tenderness (ES: blandura)]" : {mampo}
 # -----------------------------------------------------------------------
 ! 
-| "[=manaasavo+gndr@m.][NRoot][=land.turtle.sp. (ES: motelo, tortuga.terrestre)]" : {manaasavo}
+| "[=manaasavo+gndr@m.+sem@reptile][NRoot][=land.turtle.sp. (ES: motelo, tortuga.terrestre)]" : {manaasavo}
 # -----------------------------------------------------------------------
 ! 
-| "[=manatakiri][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: ancistrus.sp.)]" : {manatakiri}
+| "[=manatakiri+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: ancistrus.sp.)]" : {manatakiri}
 # -----------------------------------------------------------------------
 ! 
-| "[=manihi+gndr@m.][NRoot][=bullet.ant.sp. (big-and-venomous.ant.sp.; ES: isula; sci.nm.: paraponea.clavata)]" : {manihi}
-| "[=manii+gndr@m.][NRoot][=bullet.ant.sp. (big-and-venomous.ant.sp.; ES: isula; sci.nm.: paraponea.clavata)]" : {manii}
-| "[=mani+gndr@m.][NRoot][=bullet.ant.sp. (big-and-venomous.ant.sp.; ES: isula; sci.nm.: paraponea.clavata)]" : {mani}
+| "[=manihi+gndr@m.+sem@insect][NRoot][=bullet.ant.sp. (big-and-venomous.ant.sp.; ES: isula; sci.nm.: paraponea.clavata)]" : {manihi}
+| "[=manii+gndr@m.+sem@insect][NRoot][=bullet.ant.sp. (big-and-venomous.ant.sp.; ES: isula; sci.nm.: paraponea.clavata)]" : {manii}
+| "[=mani+gndr@m.+sem@insect][NRoot][=bullet.ant.sp. (big-and-venomous.ant.sp.; ES: isula; sci.nm.: paraponea.clavata)]" : {mani}
 # -----------------------------------------------------------------------
 ! 
 | "[=maninkari+gndr@m.][NRoot][=inmortal.invisible.person/man.who.live.in.highlands; a.sort.of.ancestral.divinity; master-owner.of.the.local.hills]" : {maninkari}
 | "[=maninkaro+gndr@n.m.][NRoot][=inmortal.invisible.person/woman.who.live.in.highlands; a.sort.of.ancestral.divinity; master-owner.of.the.local.hills]" : {maninkaro}
 # -----------------------------------------------------------------------
 ! 
-| "[=maniro+gndr@m.][NRoot][=deer (pronunc.: [maˈniɾɞ]; ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]" : {maniro}
-| "[=manero+gndr@m.][NRoot][=deer (ES: venado.brocket; sci.nm.: mazama.sp.)]" : {manero}
+| "[=maniro+gndr@m.+sem@wild.anim.][NRoot][=deer (pronunc.: [maˈniɾɞ]; ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]" : {maniro}
+| "[=manero+gndr@m.+sem@wild.anim.][NRoot][=deer (ES: venado.brocket; sci.nm.: mazama.sp.)]" : {manero}
 # -----------------------------------------------------------------------
 ! 
-| "[=manitzi+gndr@m.][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]" : {manitzi}
-| "[=maniti+gndr@m.][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]" : {maniti}
+| "[=manitzi+gndr@m.+sem@wild.anim.][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]" : {manitzi}
+| "[=maniti+gndr@m.+sem@wild.anim.][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]" : {maniti}
 # -----------------------------------------------------------------------
 ! 
-| "[=manityootzi+gndr@m.][NRoot][=fish.sp. (ES: especie.de.cunchi, sp.de.pez)]" : {manityootzi}
+| "[=manityootzi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: especie.de.cunchi, sp.de.pez)]" : {manityootzi}
 # -----------------------------------------------------------------------
 ! 
-| "[=manitoichi][NRoot][=fish.sp. (ES: sp.de.pez, doncella; sci.nm.: pimelodidae, pseudoplatystoma.tigrinum)]" : {manitoichi}
+| "[=manitoichi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez, doncella; sci.nm.: pimelodidae, pseudoplatystoma.tigrinum)]" : {manitoichi}
 # -----------------------------------------------------------------------
 ! 
 | "[=mango/manko][NRoot][=mango (botany.nm.: manguira.indica, mangifera.indica)]" : {manko}
@@ -3162,11 +3162,11 @@ define NRootPRQin [
 | "[=mari+gndr@n.m.+inal@tsi.][NRoot][=wristband (ES: pulsera, brazalete)]" : {mari}
 # -----------------------------------------------------------------------
 ! 
-| "[=mari][NRoot][=black-capped.antshrike (sci.nm.: tamnophilus.aethiops)]" : {mari}
-| "[=marini][NRoot][=antshrike.sp. (ES: hormiguero; sci.nm.: thamnophilus.doliatus)]" : {marini}
+| "[=mari+gndr@m.+sem@bird][NRoot][=black-capped.antshrike (sci.nm.: tamnophilus.aethiops)]" : {mari}
+| "[=marini+gndr@m.+sem@bird][NRoot][=antshrike.sp. (ES: hormiguero; sci.nm.: thamnophilus.doliatus)]" : {marini}
 # -----------------------------------------------------------------------
 ! 
-| "[=mariniro][NRoot][=great.antshrike (sci.nm.: taraba.major)]" : {mariniro}
+| "[=mariniro+gndr@m.+sem@bird][NRoot][=great.antshrike (sci.nm.: taraba.major)]" : {mariniro}
 # -----------------------------------------------------------------------
 ! 
 | "[=marinkama][NRoot][=cultural.hero; person's.name, NP]" : {marinkama}
