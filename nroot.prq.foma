@@ -990,13 +990,13 @@ define NRootPRQin [
 | "[=etsoni+gndr@m.+sem@bird][NRoot][=swallow.sp. (inhabits.the.rocks; ES: golondrina.que.habita.en.las.rocas; sci.nm.: cypseloides.rutilus, atticora.fasciata)]" : {etsoni} 
 # ------------------------------------------------------------------
 ! 
-| "[=etzi+gndr@m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {etzi}
-| "[=itzi+gndr@m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {itzi}
-| "[=eti+gndr@m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {eti}
-| "[=etsi+gndr@m.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus; PT: tatu); small.armadillo]" : {etsi}
+| "[=etzi+gndr@m.+sem@wild.anim.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {etzi}
+| "[=itzi+gndr@m.+sem@wild.anim.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {itzi}
+| "[=eti+gndr@m.+sem@wild.anim.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus); small.armadillo]" : {eti}
+| "[=etsi+gndr@m.+sem@wild.anim.][NRoot][=armadillo.sp. (ES: carachupa; sci.nm.: dasypus.novemcintus; PT: tatu); small.armadillo]" : {etsi}
 ! 
-| "[=etini][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]" : {etini}
-| "[=eteni][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]" : {eteni}
+| "[=etini+gndr@m.+sem@wild.anim.][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]" : {etini}
+| "[=eteni+gndr@m.+sem@wild.anim.][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]" : {eteni}
 # ---------------------------------------------------------------------------------------
 ! 
 | "[=etziki+gndr@n.m.+sem@fruit][NRoot][=wild.fruit.sp. (ES: sp.de.fruta.silvestre, caimitillo)]" : {etziki}
@@ -1042,7 +1042,7 @@ define NRootPRQin [
 !| "[=samaninki+~{N:/'rodent':samani/}{L.DEL:i}{N:/'peanut':inki/}+gndr@n.m.][NRoot][=peanut.sp. (ES: sp.de.maní)]" : {samaninki} ! @section:noun@ 
 # ------------------------------------------------------------------
 ! 
-| "[=samanchero+gndr@m.][NRoot][=termite.sp. (ES: sp.de.comején)]" : {samanchero}
+| "[=samanchero+gndr@m.+sem@insect][NRoot][=termite.sp. (ES: sp.de.comején)]" : {samanchero}
 # ------------------------------------------------------------------
 ! 
 | "[=hampovatsa+gndr@n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like, muddy soil]" : {hampovatsa}
@@ -1081,7 +1081,7 @@ define NRootPRQin [
 | "[=saavaaro+gndr@n.m.][NRoot][=warm, hot (prbly.liquid)]" : {saavaaro}
 # ------------------------------------------------------------------
 ! 
-| "[=haye+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga, shirataco)]" : {haye}
+| "[=haye+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga, shirataco)]" : {haye}
 # -------------------------------------------------------------------- 
 ! 
 | "[=henka+poss@ne.][NRoot][=odor; smell]" : {henka} ! @CMP  
@@ -1099,9 +1099,9 @@ define NRootPRQin [
 # -------------------------------------------------------------------- 
 | "[=henoki][NRoot][=up, top (ES: arriba, alto); sky; (ES: el.padre.sol)]" : {henoki}
 ! jeñoki 
-| "[=henyoki~he{E.PAL.:ny}oki][NRoot][=top (ES: arriba, alto); sky]" : {henyoki}
-| "[=henyokihi~he{E.PAL.:ny}oki{DIM:hi}][NRoot][=a.little.ways.up (ES: ...)]" : {henyokihi}
-| "[=heniokihi~he{E.PAL.:ny}oki{DIM:hi}][NRoot][=a.little.ways.up (ES: ...)]" : {heniokihi}
+| "[=henyoki~{he}{E.PAL.:ny}{oki}][NRoot][=top (ES: arriba, alto); sky]" : {henyoki}
+| "[=henyokihi~{he}{E.PAL.:ny}{oki}{DIM:hi}][NRoot][=a.little.ways.up (ES: ...)]" : {henyokihi}
+| "[=heniokihi~{he}{E.PAL.:ny}{oki}{DIM:hi}][NRoot][=a.little.ways.up (ES: ...)]" : {heniokihi}
 | "[=henokê][NRoot][=top (ES: arriba, alto)]" : {henokê}
 # -------------------------------------------------------------------- 
 ! 
@@ -1109,49 +1109,49 @@ define NRootPRQin [
 | "[=impiki][NRoot][=arm (ES: brazo); limb]" : {impiki}
 # ------------------------------------------------------------------
 ! 
-| "[=Hakoovo/Jacobo+gndr@m.][NRoot][=Jacob]" : {hakoovo}
+| "[=Hakoovo/Jacobo+gndr@m.+sem@NP.person][NRoot][=Jacob]" : {hakoovo}
 # ------------------------------------------------------------------
 ! 
 | "[=hanari][NRoot][=raw (ES: crudo)]" : {hanari}
 # ------------------------------------------------------------------
 ! 
-| "[=Hesokirishito/Jesucristo+gndr@m.][NRoot][=Jesus.Christ]" : {hesokirishito}
+| "[=Hesokirishito/Jesucristo+gndr@m.+sem@NP.person][NRoot][=Jesus.Christ]" : {hesokirishito}
 ! 
-| "[=Kirishito/Cristo+gndr@m.][NRoot][=Christ]" : {kirishito}
+| "[=Kirishito/Cristo+gndr@m.+sem@NP.person][NRoot][=Christ]" : {kirishito}
 ! 
-| "[=Hesoshi/Jesús+gndr@m.][NRoot][=Jesus]" : {hesoshi}
+| "[=Hesoshi/Jesús+gndr@m.+sem@NP.person][NRoot][=Jesus]" : {hesoshi}
 # ------------------------------------------------------------------
 ! 
 | "[=homanka+gndr@m.+sem@bird][NRoot][=black-necked.red.cotinga (sci.nm.: phoenicircus.nigricollis)]" : {homanka}
 # ------------------------------------------------------------------
 ! 
-| "[=homo+gndr@m.][NRoot][=frog.sp. (ES: gualo, sp.de.rana.que.canta.cuando.llueve; PT: anfíbio, jia-do-baixo; sci.nm.: leptodactulus.rhodomystx)]" : {homo}
+| "[=homo+gndr@m.+sem@amphibian][NRoot][=frog.sp. (ES: gualo, sp.de.rana.que.canta.cuando.llueve; PT: anfíbio, jia-do-baixo; sci.nm.: leptodactulus.rhodomystx)]" : {homo}
 ! 
-| "[=karava][NRoot][=frog.sp. (ES: sp.de.rana)]" : {karava}
+| "[=karava+sem@amphibian][NRoot][=frog.sp. (ES: sp.de.rana)]" : {karava}
 ! 
-| "[=vavatzi][NRoot][=frog.sp. (ES: sp.de.rana)]" : {vavatzi}
+| "[=vavatzi+sem@amphibian][NRoot][=frog.sp. (ES: sp.de.rana)]" : {vavatzi}
 # ------------------------------------------------------------------
 ! 
 | "[=honkoki][NRoot][=master-owner.of.white_corn (ES: dueño.del.maíz.blanco)]" : {honkoki}
 # ------------------------------------------------------------------
 ! 
-| "[=hoontzi+gndr@m.][NRoot][=toad.sp. (ES: especie.de.sapo)]" : {hoontzi}
+| "[=hoontzi+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: especie.de.sapo)]" : {hoontzi}
 # ------------------------------------------------------------------
 ! 
 | "[=hoveentsi+poss@te.][NRoot][=baby (ES: bebé)]" : {hoveentsi}
 # ------------------------------------------------------------------
 ! 
-| "[=Hosee/José+gndr@m.][NRoot][=Joseph]" : {hosee}
+| "[=Hosee/José+gndr@m.+sem@NP.person][NRoot][=Joseph]" : {hosee}
 # ------------------------------------------------------------------
 ! 
-| "[=horio/judío+gndr@m.][NRoot][=jewish]" : {horio} ! N@->V
-| "[=horiiyo/judío+gndr@m.][NRoot][=jewish]" : {horiiyo} ! N@->V
+| "[=horio/judío+gndr@m.+sem@NP.person][NRoot][=jewish]" : {horio} ! N@->V
+| "[=horiiyo/judío+gndr@m.+sem@NP.person][NRoot][=jewish]" : {horiiyo} ! N@->V
 # ------------------------------------------------------------------
 ! 
-| "[=horero][NRoot][=NP]" : {horero}
+| "[=horero+sem@NP.person][NRoot][=NP]" : {horero}
 # ------------------------------------------------------------------
 ! 
-| "[=hirivati][NRoot][=plant.sp. (ES: Quinaquina, cascarilla, palo.sangre; sci.nm.: cinchona.pubescens)]" : {hirivati}
+| "[=hirivati+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: Quinaquina, cascarilla, palo.sangre; sci.nm.: cinchona.pubescens)]" : {hirivati}
 # ------------------------------------------------------------------
 ! 
 | "[=herina][NRoot][=nettle.sp.with.big.thorns (ES: ishanga, ortiga.(con.puas.grandes))]" : {herina}
@@ -1161,12 +1161,12 @@ define NRootPRQin [
 | "[=hilo/hiro][NRoot][=yarn (ES: hilo)]" : {hiro} 
 # ------------------------------------------------------------------
 ! 
-| "[=hero][NRoot][=long-and-black-and-gray_tipped-haired.monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus)]" : {hero} 
-| "[=hiro][NRoot][=monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus)]" : {hiro} 
-| "[=heroni][NRoot][=monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus, saguinus.imperator)]" : {heroni} 
+| "[=hero+gndr@m.+sem@wild.anim.][NRoot][=long-and-black-and-gray_tipped-haired.monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus)]" : {hero} 
+| "[=hiro+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus)]" : {hiro} 
+| "[=heroni+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: huapo, sp.de.mono.de.pelo.largo.y.negro.con.puntas.grises; sci.nm.: pithecia.monachus, saguinus.imperator)]" : {heroni} 
 # ------------------------------------------------------------------
 ! 
-| "[=heeroohotzi][NRoot][=great.potoo (sci.nm.: nyctibius.grandis)]" : {heeroohotzi}
+| "[=heeroohotzi+gndr@m.+sem@bird][NRoot][=great.potoo (sci.nm.: nyctibius.grandis)]" : {heeroohotzi}
 # ------------------------------------------------------------------
 ! 
 | "[=Herosare/Jerusalén][NRoot][=Jerusalem]" : {herosare}
