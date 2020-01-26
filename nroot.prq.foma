@@ -3169,25 +3169,25 @@ define NRootPRQin [
 | "[=mariniro+gndr@m.+sem@bird][NRoot][=great.antshrike (sci.nm.: taraba.major)]" : {mariniro}
 # -----------------------------------------------------------------------
 ! 
-| "[=marinkama][NRoot][=cultural.hero; person's.name, NP]" : {marinkama}
+| "[=marinkama+sem@NP.person][NRoot][=cultural.hero; person's.name, NP]" : {marinkama}
 # -----------------------------------------------------------------------
 ! 
 # marisaro: its.stalk.is.harvested,pounded.with.a_stone,and.then.the mushy.mass.is
 # rubbed.onto.the.area.where.the.broken.bone.is,wrapped.with.leaves,and.tightly.tied.with.vines
-| "[=marisaro+gndr@n.m.][NRoot][=plant.sp. (ES: nudo.nudo)]" : {marisaro}
+| "[=marisaro+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: nudo.nudo)]" : {marisaro}
 # -----------------------------------------------------------------------
 ! 
 | "[=mantsaki+inal@ntsi.][NRoot][=cushma (ES: ropa, cushma)]" : {mantsaki}
 # -----------------------------------------------------------------------
 ! 
-| "[=mantsaki+gndr@m.][NRoot][=ant.sp. (ES: sp.de.isula, hormiga)]" : {mantsaki}
+| "[=mantsaki+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.isula, hormiga)]" : {mantsaki}
 # -----------------------------------------------------------------------
 ! 
-| "[=mantana][NRoot][=rodent.sp. (ES: majás, majas, majaz)]" : {mantana}
+| "[=mantana+gndr@m.+sem@wild.anim.][NRoot][=rodent.sp. (ES: majás, majas, majaz)]" : {mantana}
 # -----------------------------------------------------------------------
 ! 
-| "[=mapaa+gndr@n.m.+poss@ni.][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapaa}
-| "[=mapa+gndr@n.m.+poss@ni.][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapa} ! @section:noun@ 
+| "[=mapaa+gndr@n.m.+poss@ni.+sem@plant][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapaa}
+| "[=mapa+gndr@n.m.+poss@ni.+sem@plant][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapa} ! @section:noun@ 
 # -----------------------------------------------------------------------
 ! 
 # nomapikitakero / no- =mapi -ki -t-ak -e -ro / 1sg.a- =stone -cl:small,round -ep -prf -irr -3n.m.o / EN: 'fixing.pebbles/sinker-like_pebbles.in.sth. (i.e.: a.fish_trap)', ES: 'fijar piedrecitas/guijarros en algo (por ejemplo: en la red)'
