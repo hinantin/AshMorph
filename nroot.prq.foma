@@ -1169,7 +1169,7 @@ define NRootPRQin [
 | "[=heeroohotzi+gndr@m.+sem@bird][NRoot][=great.potoo (sci.nm.: nyctibius.grandis)]" : {heeroohotzi}
 # ------------------------------------------------------------------
 ! 
-| "[=Herosare/Jerusalén][NRoot][=Jerusalem]" : {herosare}
+| "[=Herosare/Jerusalén+sem@NP.place][NRoot][=Jerusalem]" : {herosare}
 # ------------------------------------------------------------------
 ! 
 | "[=himee+gndr@m.+inal@n/tsi.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {himee}
@@ -1177,8 +1177,8 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 # these.cause.a.violent.rash.on.the.body 
-| "[=hini][NRoot][=microscopic.insects]" : {hini} 
-| "[=hiniki][NRoot][=louse]" : {hiniki} 
+| "[=hini+gndr@m.+sem@insect][NRoot][=microscopic.insects]" : {hini} 
+| "[=hiniki+gndr@m.+sem@insect][NRoot][=louse]" : {hiniki} 
 # ------------------------------------------------------------------
 ! 
 | "[=hinya+gndr@n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)]" : {hinya}
@@ -1219,23 +1219,23 @@ define NRootPRQin [
 !| "[=patsane+~{CL:/'jelly-like.substance':patsa/}{L.DEL:a}{INTNS:a}{POSS:ne}+inal@ntsi.][NRoot][=brain (ES: cerebro)]" : {patsane} ! @section:noun@ 
 # ------------------------------------------------------------------
 ! 
-| "[=heto+gndr@m.][NRoot][=spider (pronunc.: [ˈhɛtʊ]; ES: araña; PT: aranha)]" : {heto}
-| "[=hetoo+gndr@m.][NRoot][=spider (pronunc.: [ˈhɛtʊ]; ES: araña; PT: aranha)]" : {hetoo}
-| "[=hito+gndr@m.][NRoot][=spider (pronunc.: [ˈhɛtʊ]; ES: araña; PT: aranha)]" : {hito}
+| "[=heto+gndr@m.+sem@insect][NRoot][=spider (pronunc.: [ˈhɛtʊ]; ES: araña; PT: aranha)]" : {heto}
+| "[=hetoo+gndr@m.+sem@insect][NRoot][=spider (pronunc.: [ˈhɛtʊ]; ES: araña; PT: aranha)]" : {hetoo}
+| "[=hito+gndr@m.+sem@insect][NRoot][=spider (pronunc.: [ˈhɛtʊ]; ES: araña; PT: aranha)]" : {hito}
 # ------------------------------------------------------------------
 ! 
-| "[=hiritzi+gndr@m.][NRoot][=blue-crowned.motmot (sci.nm.: momotus.momota; ES: pájaro.madrugador)]" : {hiritzi}
-| "[=hiriti+gndr@m.][NRoot][=blue-crowned.motmot (sci.nm.: momotus.momota, ES: ave.de.monte, pájaro.madrugador)]" : {hiriti}
+| "[=hiritzi+gndr@m.+sem@bird][NRoot][=blue-crowned.motmot (sci.nm.: momotus.momota; ES: pájaro.madrugador)]" : {hiritzi}
+| "[=hiriti+gndr@m.+sem@bird][NRoot][=blue-crowned.motmot (sci.nm.: momotus.momota, ES: ave.de.monte, pájaro.madrugador)]" : {hiriti}
 # ------------------------------------------------------------------
 ! 
-| "[=hirivatziki+gndr@n.m.][NRoot][=hardwood.tree.sp. (ES: estoraque, estoraqui)]" : {hirivatziki} ! @section:noun@ 
+| "[=hirivatziki+gndr@n.m.+sem@plant][NRoot][=hardwood.tree.sp. (ES: estoraque, estoraqui)]" : {hirivatziki} ! @section:noun@ 
 # ------------------------------------------------------------------
 ! 
 # hetari: suckermouth.catfish 
-| "[=hetari+gndr@m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hetari}
-| "[=hitari+gndr@m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hitari}
-!| "[=hevari_kitetakiri+gndr@m.][NRoot][=armored.catfish.sp. (sci.nm.: chaetostoma.sp.,chaetostoma.lineopunctatum)]" : {hevari_kitetakiri} ! @section:noun@
-!| "[=hevari_tsekinti+gndr@m.][NRoot][=armored.catfish.sp. (sci.nm.: ancistrus.sp.)]" : {hevari_tsekinti} ! @section:noun@  
+| "[=hetari+gndr@m.+sem@fish][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hetari}
+| "[=hitari+gndr@m.+sem@fish][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]" : {hitari}
+!| "[=hevari_kitetakiri+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (sci.nm.: chaetostoma.sp.,chaetostoma.lineopunctatum)]" : {hevari_kitetakiri} ! @section:noun@
+!| "[=hevari_tsekinti+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (sci.nm.: ancistrus.sp.)]" : {hevari_tsekinti} ! @section:noun@  
 # ------------------------------------------------------------------
 ! 
 | "[=hevari][NRoot][=local.leader/chief]" : {hevari}
@@ -3110,8 +3110,8 @@ define NRootPRQin [
 | "[=mampetsa+gndr@n.m.+poss@te.][NRoot][=thread; cotton.thread (ES: hilo.de.algodón); distaff (ES: huso, rueca; QU: puchka)]" : {mampetsa}
 # -----------------------------------------------------------------------
 ! 
-| "[=mampiitsi+gndr@m.][NRoot][=insect.sp. (ES: isango, sp.de.insecto)]" : {mampiitsi}
-| "[=mampiritsi+gndr@m.][NRoot][=insect.sp. (ES: isango, sp.de.insecto)]" : {mampiritsi}
+| "[=mampiitsi+gndr@m.+sem@insect][NRoot][=insect.sp. (ES: isango, sp.de.insecto)]" : {mampiitsi}
+| "[=mampiritsi+gndr@m.+sem@insect][NRoot][=insect.sp. (ES: isango, sp.de.insecto)]" : {mampiritsi}
 # -----------------------------------------------------------------------
 ! 
 | "[=mampo+gndr@n.m.+inal@tsi.][NRoot][=tenderness (ES: blandura)]" : {mampo}
