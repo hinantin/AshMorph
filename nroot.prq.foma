@@ -6372,7 +6372,8 @@ define NRootPRQin [
 | "[=tzisoniro+~tziso{CL:/'bad,evil':niro/}][NRoot][=falcon.sp., black.caracara (sci.nm.: daptrius.ater)]" : {tzisoniro}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=tsirishi][NRoot][=person's.name; plant.sp.]" : {tsirishi}
+| "[=tsirishi+sem@NP.person][NRoot][=person's.name]" : {tsirishi}
+| "[=tsirishi+gndr@n.m.+sem@plant][NRoot][=plant.sp.]" : {tsirishi}
 ! 
 | "[=tiya+gndr@n.m.+inal@tsi.][NRoot][=excrement (ES: excremento), feces (ES: heces)]" : {tiya}
 | "[=tziya+gndr@n.m.+inal@tsi.][NRoot][=excrement (ES: excremento), feces (ES: heces)]" : {tziya}
@@ -6384,10 +6385,10 @@ define NRootPRQin [
 | "[=tsimi+gndr@n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, ES: colpa); clean.water.well.where.animals.go.to.drink, water.hole]" : {tsimi} 
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=tsimi+gndr@m.+poss@ti.][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsimi}
-| "[=tsime+gndr@m.+poss@ti.][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsime}
-| "[=tsimii+gndr@m.+poss@ti.][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsimii}
-| "[=tsimeki+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsimeki}
+| "[=tsimi+gndr@m.+poss@ti.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsimi}
+| "[=tsime+gndr@m.+poss@ti.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsime}
+| "[=tsimii+gndr@m.+poss@ti.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsimii}
+| "[=tsimeki+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga, pucacura)]" : {tsimeki}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=tsimiyanti][NRoot][=master-owner.of.the.hills (ES: chullachaqui, dueño.del.monte; QU: ch'ulla.chaki)]" : {tsimiyanti}
