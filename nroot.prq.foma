@@ -6333,16 +6333,16 @@ define NRootPRQin [
 | "[=teparo+gndr@m.+sem@reptile][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {teparo}
 # --------------------------------------------------------------------- 
 ! 
-| "[=tzike][NRoot][=frog.sp. (ES: especie.de.rana)]" : {tzike} 
+| "[=tzike+gndr@m.+sem@amphibian][NRoot][=frog.sp. (ES: especie.de.rana)]" : {tzike} 
 # --------------------------------------------------------------------- 
 ! 
-| "[=timpinare][NRoot][=swallow.sp. (ES: sp.de.golondrina)]" : {timpinare} 
+| "[=timpinare+gndr@m.+sem@bird][NRoot][=swallow.sp. (ES: sp.de.golondrina)]" : {timpinare} 
 # --------------------------------------------------------------------- 
 ! 
 | "[=tzino+gndr@n.m.+inal@tsi][NRoot][=edible.tuber (ES: tubérculo.comestible, sp.de.dale-dale)]" : {tzino} 
 # --------------------------------------------------------------------- 
 ! 
-| "[=tzinyoori/tziñoori+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tzinyoori} 
+| "[=tzinyoori/tziñoori+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tzinyoori} 
 # --------------------------------------------------------------------- 
 ! 
 | "[=tiri+gndr@m.+poss@ni.][NRoot][=tar (ES: brea)]" : {tiri}
@@ -6350,25 +6350,24 @@ define NRootPRQin [
 | "[=tziri+gndr@n.m.][NRoot][=tar-producing.tree.sp.]" : {tziri}
 | "[=tsineri][NRoot][=natural.tar (ES: brea.natural); tar-producing.tree.sp. (ES: árbol.que.produce.resina)]" : {tsineri} ! \cite[p.6]{borios:pesca:05}  
 ! 
-| "[=tiroti+gndr@n.m.][NRoot][=palm.tree.sp.with.black.thorns (ES: huicungo; sci.nm.: astrocaryum.murumuru)]" : {tiroti}
-| "[=tzirootzi+gndr@n.m.][NRoot][=palm.tree.sp. (ES: huicungo; sci.nm.: astrocaryum.murumuru)]" : {tzirootzi}
-! 
+| "[=tiroti+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp.with.black.thorns (ES: huicungo; sci.nm.: astrocaryum.murumuru)]" : {tiroti}
+| "[=tzirootzi+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: huicungo; sci.nm.: astrocaryum.murumuru)]" : {tzirootzi}
 # ------------------------------------------------------------------------------------------
 | "[=tiroki+gndr@n.m.][NRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal; sci.nm.: coussapoa.sp.)]" : {tiroki}
 | "[=tziroki+gndr@n.m.][NRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal; sci.nm.: coussapoa.sp.)]" : {tziroki}
 | "[=tiiroki+gndr@n.m.][NRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal, planta.carnivora; sci.nm.: coussapoa.sp.)]" : {tiiroki}
 | "[=tziiroki+gndr@n.m.][NRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal, planta.carnivora; sci.nm.: coussapoa.sp.)]" : {tziiroki}
 # la corteza 
-| "[=tirokitsa][NRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal; sci.nm.: coussapoa.sp.)]" : {tirokitsa}
-| "[=tzirokitsa][NRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal; sci.nm.: coussapoa.sp.)]" : {tzirokitsa}
-| "[=hopi+gndr@n.m.][NRoot][=plant.sp. (sap.used.as.a.thickener.for.face.paint; ES: renaco, sp.de.planta; sci.nm.: coussapoa.sp.)]" : {hopi}
+| "[=tirokitsa+gndr@n.m.+sem@plant][NRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal; sci.nm.: coussapoa.sp.)]" : {tirokitsa}
+| "[=tzirokitsa+gndr@n.m.+sem@plant][NRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal; sci.nm.: coussapoa.sp.)]" : {tzirokitsa}
+| "[=hopi+gndr@n.m.+sem@plant][NRoot][=plant.sp. (sap.used.as.a.thickener.for.face.paint; ES: renaco, sp.de.planta; sci.nm.: coussapoa.sp.)]" : {hopi}
 # ------------------------------------------------------------------------------------------
-| "[=tziso+gndr@m.][NRoot][=greater.yellow-headed.vulture (ES: gallinazo; sci.nm.: cathartes.melambrotus); common.vulture]" : {tziso}
-| "[=tisoni][NRoot][=black.volture.sp. (ES: gallinazo, ave.rapaz/carroñera; sci.nm.: daptrius.ater)]" : {tisoni}
+| "[=tziso+gndr@m.+sem@bird][NRoot][=greater.yellow-headed.vulture (ES: gallinazo; sci.nm.: cathartes.melambrotus); common.vulture]" : {tziso}
+| "[=tisoni+gndr@m.+sem@bird][NRoot][=black.volture.sp. (ES: gallinazo, ave.rapaz/carroñera; sci.nm.: daptrius.ater)]" : {tisoni}
 # SRC: tsijo 
-| "[=tsiho+gndr@m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tsiho}
-| "[=tziho+gndr@m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tziho}
-| "[=tiho+gndr@m.][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tiho}
+| "[=tsiho+gndr@m.+sem@bird][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tsiho}
+| "[=tziho+gndr@m.+sem@bird][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tziho}
+| "[=tiho+gndr@m.+sem@bird][NRoot][=black.vulture.sp. (ES: gallinazo)]" : {tiho}
 ! 
 | "[=tzisoniro+~tziso{CL:/'bad,evil':niro/}][NRoot][=falcon.sp., black.caracara (sci.nm.: daptrius.ater)]" : {tzisoniro}
 # ------------------------------------------------------------------------------------------
