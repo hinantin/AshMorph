@@ -6418,10 +6418,10 @@ define NRootPRQin [
 | "[=tohasheri][NRoot][=shrub (ES: arbusto); scrub, weed (ES: maleza)]" : {tohasheri}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=tookiti][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña), turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti,, claravis.pretiosa,, claravis.mondetoura)]" : {tookiti}
-| "[=tokiti][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña), turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tokiti}
-| "[=tookitzi][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña), turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tookitzi}
-| "[=chamoti][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña; sci.nm.: columbina.tapalcoti)]" : {chamoti}
+| "[=tookiti+gndr@m.+sem@bird][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña), turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti,, claravis.pretiosa,, claravis.mondetoura)]" : {tookiti}
+| "[=tokiti+gndr@m.+sem@bird][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña), turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tokiti}
+| "[=tookitzi+gndr@m.+sem@bird][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña), turtledove.sp.; ruddy.ground-dove (sci.nm.: columbina.tapalcoti)]" : {tookitzi}
+| "[=chamoti+gndr@m.+sem@bird][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña; sci.nm.: columbina.tapalcoti)]" : {chamoti}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=tokari][NRoot][=armadillo.sp. (ES: tocón; sci.nm.: callicebus.sp.)]" : {tokari}
