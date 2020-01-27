@@ -6253,13 +6253,13 @@ define NRootPRQin [
 | "[=tsota+poss@ne.][NRoot][=spoon-like.utensil; Ashaninka.spoon, (drinking).gourd (ES: cuchara.Asháninka)]" : {tsota}
 # --------------------------------------------------------------------- 
 ! 
-| "[=tsota][NRoot][=pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete)]" : {tsota}
+| "[=tsota+gndr@n.m.+sem@plant][NRoot][=pumpkin.tree (ES: árbol.de.calabaza; sci.nm.: crescentia.cujete)]" : {tsota}
 # --------------------------------------------------------------------- 
 ! 
 | "[=tsota+gndr@m.+sem@insect][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: polistes.versicolor, polistes.major.palisot.de.beauvois)]" : {tsota}
 # --------------------------------------------------------------------- 
 ! 
-| "[=tsotari+gndr@m.][NRoot][=electric.eel.sp. (ES: anguila.eléctrica); armored.catfish.sp. (ES: sp.de.carachama)]" : {tsotari}
+| "[=tsotari+gndr@m.+sem@fish][NRoot][=electric.eel.sp. (ES: anguila.eléctrica); armored.catfish.sp. (ES: sp.de.carachama)]" : {tsotari}
 # --------------------------------------------------------------------- 
 ! 
 | "[=tekatsi][NRoot][=none, empty, zero, null]" : {tekatsi}
@@ -6269,8 +6269,8 @@ define NRootPRQin [
 | "[=teekatsi][NRoot][=none, empty, zero, null]" : {teekatsi}
 # --------------------------------------------------------------------- 
 ! 
-| "[=tempo+gndr@m.][NRoot][=mojarra-fish.sp.]" : {tempo}
-| "[=timpo+gndr@m.][NRoot][=mojarra-fish.sp.]" : {timpo}
+| "[=tempo+gndr@m.+sem@fish][NRoot][=mojarra-fish.sp.]" : {tempo}
+| "[=timpo+gndr@m.+sem@fish][NRoot][=mojarra-fish.sp.]" : {timpo}
 # --------------------------------------------------------------------- 
 ! 
 | "[=tene+gndr@n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]" : {tene}
