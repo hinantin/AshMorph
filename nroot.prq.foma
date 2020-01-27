@@ -6424,11 +6424,11 @@ define NRootPRQin [
 | "[=chamoti+gndr@m.+sem@bird][NRoot][=(small).dove.sp. (ES: paloma/tórtola.pequeña; sci.nm.: columbina.tapalcoti)]" : {chamoti}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=tokari][NRoot][=armadillo.sp. (ES: tocón; sci.nm.: callicebus.sp.)]" : {tokari}
+| "[=tokari+gndr@m.+sem@wild.anim.][NRoot][=armadillo.sp. (ES: tocón; sci.nm.: callicebus.sp.)]" : {tokari}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=tokori+poss@ti.][NRoot][=armadillo.sp.]" : {tokori}
-| "[=tyokori+poss@ti.][NRoot][=armadillo.sp.]" : {tyokori}
+| "[=tokori+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=armadillo.sp.]" : {tokori}
+| "[=tyokori+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=armadillo.sp.]" : {tyokori}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son]" : {tomi} ! N@->V 
