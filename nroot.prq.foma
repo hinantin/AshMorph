@@ -6305,28 +6305,28 @@ define NRootPRQin [
 # omorona / o- =moro -na / EN: 'long,hollow.hole' 
 # ------------------------------------------------
 ! 
-| "[=tioshiki][NRoot][=Job's.tears (ES: lágrima.de.Job; sci.nm.: coix.lacryma-jobi)]" : {tioshiki}
+| "[=tioshiki+gndr@m.+sem@plant][NRoot][=Job's.tears (ES: lágrima.de.Job; sci.nm.: coix.lacryma-jobi)]" : {tioshiki}
 # --------------------------------------------------------------------- 
 ! 
-| "[=terempinti][NRoot][=land.snail.sp. (ES: molusco.terrestre; sci.nm.: aperostoma.peruvianum)]" : {terempinti} ! snail???
+| "[=terempinti+gndr@m.+sem@gastropoda][NRoot][=land.snail.sp. (ES: molusco.terrestre; sci.nm.: aperostoma.peruvianum)]" : {terempinti} ! snail???
 # --------------------------------------------------------------------- 
 ! 
-| "[=terori][NRoot][=red.parrot.sp. (sci.nm.: amazona.mercenaria)]" : {terori}
-| "[=teroori][NRoot][=red.parrot.sp. (sci.nm.: amazona.mercenaria)]" : {teroori}
+| "[=terori+gndr@m.+sem@bird][NRoot][=red.parrot.sp. (sci.nm.: amazona.mercenaria)]" : {terori}
+| "[=teroori+gndr@m.+sem@bird][NRoot][=red.parrot.sp. (sci.nm.: amazona.mercenaria)]" : {teroori}
 # --------------------------------------------------------------------- 
 ! 
-| "[=tete][NRoot][=buttock]" : {tete}
+| "[=tete][NRoot][=buttock (ES: nalga)]" : {tete}
 # --------------------------------------------------------------------- 
 ! 
-| "[=tihatsi][NRoot][=weaver]" : {tihatsi}
+| "[=tihatsi][NRoot][=weaver (ES: tejedor)]" : {tihatsi}
 # --------------------------------------------------------------------- 
 ! 
 | "[=tentereeto+gndr@n.m.][NRoot][=granadilla.sp.]" : {tentereeto}
 | "[=tintiriito+gndr@n.m.][NRoot][=granadilla.sp.]" : {tintiriito}
 # --------------------------------------------------------------------- 
 ! 
-| "[=Temoteeyo][NRoot][=Timothy]" : {temoteeyo}
-| "[=Timoteo][NRoot][=Timothy]" : {timoteo}
+| "[=Temoteeyo+gndr@m.+sem@NP.person][NRoot][=Timothy (ES: Timoteo)]" : {temoteeyo}
+| "[=Timoteo+gndr@m.+sem@NP.person][NRoot][=Timothy (ES: Timoteo)]" : {timoteo}
 # --------------------------------------------------------------------- 
 ! 
 | "[=tiparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {tiparo}
