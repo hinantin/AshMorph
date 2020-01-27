@@ -6431,25 +6431,25 @@ define NRootPRQin [
 | "[=tyokori+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=armadillo.sp.]" : {tyokori}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son]" : {tomi} ! N@->V 
-| "[=toomi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son]" : {toomi}
-| "[=tyomi+~{E.PAL.:ty}omi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son.(with.affection)]" : {tyomi}
-| "[=tiomi+~{E.PAL.:ti}omi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son.(with.affection)]" : {tiomi}
+| "[=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son (ES: hijo)]" : {tomi} ! N@->V 
+| "[=toomi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son (ES: hijo)]" : {toomi}
+| "[=tyomi+~{E.PAL.:ty}omi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son.(with.affection) (ES: hijito)]" : {tyomi}
+| "[=tiomi+~{E.PAL.:ti}omi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son.(with.affection) (ES: hijito)]" : {tiomi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=tyoki+inal@tsi.][NRoot][=buttock (ES: nalga); external.bottom.part (ES: parte.inferior.externa)]" : {tyoki}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=tyominkio][NRoot][=NP, person's.name]" : {tyominkio}
-| "[=tyominkiyo][NRoot][=NP, person's.name]" : {tyominkiyo}
+| "[=tyominkio+sem@NP.person][NRoot][=NP, person's.name]" : {tyominkio}
+| "[=tyominkiyo+sem@NP.person][NRoot][=NP, person's.name]" : {tyominkiyo}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=tyohekiti][NRoot][=woodpecker.sp. (ES: sp.de.pájaro.carpintero; sci.nm.: veniliornis.nigriceps)]" : {tyohekiti}
+| "[=tyohekiti+gndr@m.+sem@bird][NRoot][=woodpecker.sp. (ES: sp.de.pájaro.carpintero; sci.nm.: veniliornis.nigriceps)]" : {tyohekiti}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=tyori+gndr@m.][NRoot][=little.bird.sp. (ES: sp.de.pajarito, sp.de.loro)]" : {tyori}
+| "[=tyori+gndr@m.+sem@bird][NRoot][=little.bird.sp. (ES: sp.de.pajarito, sp.de.loro)]" : {tyori}
 ! 
-| "[=tyorikiti+gndr@m.][NRoot][=small.parrot.sp. (ES: sp.de.loro.chico; sci.nm.: hapalopsittaca.melanotis)]" : {tyorikiti}
+| "[=tyorikiti+gndr@m.+sem@bird][NRoot][=small.parrot.sp. (ES: sp.de.loro.chico; sci.nm.: hapalopsittaca.melanotis)]" : {tyorikiti}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=Tyoviri][NRoot][=proper.name]" : {tyoviri}
