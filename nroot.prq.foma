@@ -6329,8 +6329,8 @@ define NRootPRQin [
 | "[=Timoteo+gndr@m.+sem@NP.person][NRoot][=Timothy (ES: Timoteo)]" : {timoteo}
 # --------------------------------------------------------------------- 
 ! 
-| "[=tiparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {tiparo}
-| "[=teparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {teparo}
+| "[=tiparo+gndr@m.+sem@reptile][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {tiparo}
+| "[=teparo+gndr@m.+sem@reptile][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]" : {teparo}
 # --------------------------------------------------------------------- 
 ! 
 | "[=tzike][NRoot][=frog.sp. (ES: especie.de.rana)]" : {tzike} 
