@@ -5368,7 +5368,7 @@ define NRootPRQin [
 | "[=shirentzi+gndr@m.+sem@bird][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirentzi}
 # ------------------------------------------------------------
 ! 
-| "[=shoopa+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shoopa}
+| "[=shoopa+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shoopa}
 # ------------------------------------------------------------
 ! 
 | "[=shovire+gndr@n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shovire}
@@ -5377,17 +5377,18 @@ define NRootPRQin [
 | "[=shiovire+gndr@n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)]" : {shiovire}
 # ------------------------------------------------------------
 ! 
-| "[=shomoNtsi/shomõtsi][NRoot][=person's.name; small.red.humming-bird]" : {shomontsi} ! shomõtsi
+| "[=shomoNtsi/shomõtsi+gndr@m.+sem@bird][NRoot][=small.red.humming-bird]" : {shomontsi} ! shomõtsi
+| "[=shomoNtsi/shomõtsi+sem@NP.person][NRoot][=person's.name]" : {shomontsi}
 # ------------------------------------------------------------
 ! 
-| "[=shompoti+gndr@m.][NRoot][=fish.sp. (bujurqui-fish)]" : {shompoti}
-| "[=shompotsi+gndr@m.][NRoot][=fish.sp. (bujurqui-fish)]" : {shompotsi}
+| "[=shompoti+gndr@m.+sem@fish][NRoot][=fish.sp. (bujurqui-fish)]" : {shompoti}
+| "[=shompotsi+gndr@m.+sem@fish][NRoot][=fish.sp. (bujurqui-fish)]" : {shompotsi}
 # ------------------------------------------------------------
 ! 
 | "[=shoshokiri+sem@NP.person][NRoot][=NP]" : {shoshokiri} 
 # ------------------------------------------------------------
 ! 
-| "[=siraka][NRoot][=lesser.kisadee (sci.nm.: pitangus.lictor)]" : {siraka}
+| "[=siraka+gndr@m.+sem@bird][NRoot][=lesser.kisadee (sci.nm.: pitangus.lictor)]" : {siraka}
 # ------------------------------------------------------------
 ! 
 | "[=sirikempi][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.cerambycidae)]" : {sirikempi} 
