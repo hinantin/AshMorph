@@ -5363,9 +5363,9 @@ define NRootPRQin [
 | "[=shiriki+gndr@m.][NRoot][=bee.sp. (ES: abeja.hechicera; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini)]" : {shiriki}
 # ------------------------------------------------------------
 ! 
-| "[=shirinti+gndr@m.][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirinti}
-| "[=shirenti+gndr@m.][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirenti}
-| "[=shirentzi+gndr@m.][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirentzi}
+| "[=shirinti+gndr@m.+sem@bird][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirinti}
+| "[=shirenti+gndr@m.+sem@bird][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirenti}
+| "[=shirentzi+gndr@m.+sem@bird][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirentzi}
 # ------------------------------------------------------------
 ! 
 | "[=shoopa+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shoopa}
