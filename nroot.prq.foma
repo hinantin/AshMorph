@@ -5409,11 +5409,11 @@ define NRootPRQin [
 | "[=hanikiti+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodidae, pinirampus.pirinampu)]" : {hanikiti}
 # ------------------------------------------------------------
 ! 
-| "[=sanko+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {sanko}
-| "[=sankoo+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {sankoo}
-| "[=saNko/sãko+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale; PT: cana.de.açúcar)]" : {sãko}
-| "[=hanko+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {hanko}
-| "[=shanko+gndr@n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {shanko}
+| "[=sanko+gndr@n.m.+sem@plant][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {sanko}
+| "[=sankoo+gndr@n.m.+sem@plant][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {sankoo}
+| "[=saNko/sãko+gndr@n.m.+sem@plant][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale; PT: cana.de.açúcar)]" : {sãko}
+| "[=hanko+gndr@n.m.+sem@plant][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {hanko}
+| "[=shanko+gndr@n.m.+sem@plant][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]" : {shanko}
 # ------------------------------------------------------------
 ! 
 | "[=sankonkotzi+gndr@m.+sem@bird][NRoot][=ferruginous.pygmy.owl (sci.nm.: glaucidium.brasilianum)]" : {sankonkotzi}
