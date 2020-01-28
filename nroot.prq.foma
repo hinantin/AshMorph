@@ -5391,16 +5391,16 @@ define NRootPRQin [
 | "[=siraka+gndr@m.+sem@bird][NRoot][=lesser.kisadee (sci.nm.: pitangus.lictor)]" : {siraka}
 # ------------------------------------------------------------
 ! 
-| "[=sirikempi][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.cerambycidae)]" : {sirikempi} 
+| "[=sirikempi+gndr@m.][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.cerambycidae)]" : {sirikempi} 
 # ------------------------------------------------------------
 ! 
-| "[=hani+gndr@m.][NRoot][=wasp (ES: avispa)]" : {hani}
-| "[=sani+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sani} ! @section:noun@ 
-| "[=sane+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sane}
-| "[=sanii+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
+| "[=hani+gndr@m.+sem@worm-shaped][NRoot][=wasp (ES: avispa)]" : {hani}
+| "[=sani+gndr@m.+sem@worm-shaped][NRoot][=wasp (ES: avispa)]" : {sani} ! @section:noun@ 
+| "[=sane+gndr@m.+sem@worm-shaped][NRoot][=wasp (ES: avispa)]" : {sane}
+| "[=sanii+gndr@m.+sem@worm-shaped][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
 # ------------------------------------------------------------
 ! 
-| "[=sanikitatakiri+gndr@m.][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {sanikitatakiri} 
+| "[=sanikitatakiri+gndr@m.+sem@insect][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {sanikitatakiri} 
 # ------------------------------------------------------------
 ! 
 | "[=haniki][NRoot][=child]" : {haniki}
