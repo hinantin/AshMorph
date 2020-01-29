@@ -976,11 +976,11 @@ define NRootPRQin [
 | "[=Eroshi+sem@NP.person][NRoot][=person's.name]" : {eroshi}
 # ------------------------------------------------------------------
 ! 
-| "[=eroti+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {eroti}
-| "[=erooti+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.ochrocephala)]" : {erooti}
-| "[=erotsi+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {erotsi}
-| "[=erotzi+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {erotzi}
-| "[=irotzi+gndr@m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {irotzi}
+| "[=eroti+gndr@m.+sem@bird][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {eroti}
+| "[=erooti+gndr@m.+sem@bird][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.ochrocephala)]" : {erooti}
+| "[=erotsi+gndr@m.+sem@bird][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {erotsi}
+| "[=erotzi+gndr@m.+sem@bird][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {erotzi}
+| "[=irotzi+gndr@m.+sem@bird][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (ES: loro.aurora; sci.nm.: amazona.emazonica)]" : {irotzi}
 # ------------------------------------------------------------------
 ! 
 | "[=eshikempitari+~{V:/'to.be.enough':eshi/}{CL:/'ear':kempi/}{EP:t}{NMZ:ri}][NRoot][=deaf (ES: sordo);| disobedient (ES: desobediente)]" : {eshikempitari} ! @section:noun@ 
