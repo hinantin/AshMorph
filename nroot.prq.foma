@@ -5095,8 +5095,8 @@ define NRootPRQin [
 | "[=nyonyo][NRoot][=manioc.beer (ES: masato)]" : {nyonyo}
 # --------------------------------------------------------------------------
 ! 
-| "[=pitziki][NRoot][=male.genitals]" : {pitziki} ! N@->V @VCMP 
-| "[=pitzik][NRoot][=male.genitals]" : {pitzik} ! N@->V
+| "[=pitziki][NRoot][=male.genitals (ES: genitales.masculinos)]" : {pitziki} ! N@->V @VCMP 
+| "[=pitzik][NRoot][=male.genitals (ES: genitales.masculinos)]" : {pitzik} ! N@->V
 # --------------------------------------------------------------------------
 ! 
 | "[=rasaro+sem@NP.person][NRoot][=person's.name]" : {rasaro}
