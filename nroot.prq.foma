@@ -1356,15 +1356,15 @@ define NRootPRQin [
 | "[=inkiri+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pescado)]" : {inkiri}
 # ---------------------------------------------------------------------
 ! 
-| "[=inkorato+gndr@m.][NRoot][=nocturnal.butterfly.worm/larva.sp. (ES: larva.de.mariposa.comestible; sci.nm.: familia.sphingidae); edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {inkorato}
-| "[=korea+gndr@m.][NRoot][=nocturnal.butterfly.worm.sp.; edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {korea}
+| "[=inkorato+gndr@m.+sem@worm-shaped][NRoot][=nocturnal.butterfly.worm/larva.sp. (ES: larva.de.mariposa.comestible; sci.nm.: familia.sphingidae); edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {inkorato}
+| "[=korea+gndr@m.+sem@worm-shaped][NRoot][=nocturnal.butterfly.worm.sp.; edible.worm.sp. (ES: sp.de.gusano.comestible)]" : {korea}
 # ---------------------------------------------------------------------
 ! 
 | "[=impari+gndr@n.m.+poss@te.][NRoot][=potato.sp. (ES: sp.de.papa, malanga, pituca.blanca; sci.nm.: xanthosoma.sp.)]" : {impari}
 | "[=impaari+gndr@n.m.][NRoot][=potato.sp. (ES: sp.de.papa, malanga, pituca.blanca; sci.nm.: xanthosoma.sp.)]" : {impaari}
 # ---------------------------------------------------------------------
 ! 
-| "[=impita][NRoot][=river-larva.sp., aquatic.larva (ES: sp.de.larva.que.habita.en.los.ríos; sci.nm.: género.corydalus); (ES: langostino.de.río)]" : {impita}
+| "[=impita+gndr@m.+sem@worm-shaped][NRoot][=river-larva.sp., aquatic.larva (ES: sp.de.larva.que.habita.en.los.ríos; sci.nm.: género.corydalus); (ES: langostino.de.río)]" : {impita}
 # ---------------------------------------------------------------------
 ! 
 | "[=impereta][NRoot][=rock, steep.rocky.hillside; face.of.a.steep.rock]" : {impereta}
@@ -1380,16 +1380,16 @@ define NRootPRQin [
 | "[=impokiromai][NRoot][= (PT: estrela.que.tem.mistérios-e-orienta.o.pajé)]" : {impokiromai}
 # ---------------------------------------------------------------------
 ! 
-| "[=imposhito+~imposhi{CL:/'tree':to/}][NRoot][=wild.fruit.sp. (ES: fruta.silvestre)]" : {imposhito}
+| "[=imposhito+~imposhi{CL:/'tree':to/}+gndr@n.m.+sem@fruit][NRoot][=wild.fruit.sp. (ES: fruta.silvestre)]" : {imposhito}
 # ---------------------------------------------------------------------
 ! 
 | "[=inpovaNtoteya/inpowãtoteya][NRoot:CPB][=tree.sp. (PT: mutamba, árvore.de.médio.porte; sci.nm.: guazuma.ulmifolia)]" : {inpowãtoteya}
 # ---------------------------------------------------------------------
 ! 
-| "[=inaapaki][NRoot][=edible.larva.sp. (ES: larva.comestible.de.la.yuca)]" : {inaapaki}
+| "[=inaapaki+gndr@m.+sem@worm-shaped][NRoot][=edible.larva.sp. (ES: larva.comestible.de.la.yuca)]" : {inaapaki}
 # ---------------------------------------------------------------------
 ! 
-| "[=intakantarori][NRoot][=ancestor]" : {intakantarori}
+| "[=intakantarori][NRoot][=ancestor (ES: ancestro)]" : {intakantarori}
 ! 
 # ----------------------------------------------------- 
 # location - spatial adverbs
