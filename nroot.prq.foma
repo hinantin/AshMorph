@@ -5541,9 +5541,10 @@ define NRootPRQin [
 | "[=kasanto+gndr@n.m.+sem@plant][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]" : {kasanto} ! N@->V::[=to.be.an.orchid]  
 # ------------------------------------------------------------
 ! 
-| "[=santoma+gndr@n.m.][NRoot][=rubber.tree]" : {santoma}
-| "[=santonka+gndr@n.m.][NRoot][=rubber.tree (ES: caucho)]" : {santonka}
-| "[=santonka+gndr@m.][NRoot][=rubber.tree; rubber; tatoo.made.with.rubber.charcoal]" : {santonka}
+| "[=santoma+gndr@n.m.+sem@plant][NRoot][=rubber.tree]" : {santoma}
+| "[=santonka+gndr@n.m.+sem@plant][NRoot][=rubber.tree (ES: caucho)]" : {santonka}
+| "[=santonka+gndr@m.+sem@plant][NRoot][=rubber.tree; rubber]" : {santonka}
+| "[=santonka+gndr@m.][NRoot][=tatoo.made.with.rubber.charcoal]" : {santonka}
 | "[=satonkaari+gndr@m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaari}
 | "[=satonkaare+gndr@m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaare}
 | "[=satonkaaro+gndr@n.m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaaro}
