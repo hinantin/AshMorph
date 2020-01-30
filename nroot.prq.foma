@@ -5813,7 +5813,7 @@ define NRootPRQin [
 | "[=shiiri+gndr@m.+sem@bird][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: ictinia.plumbea); barred.forest-falcon (micrastur.ruficollis)]" : {shiiri}
 # ------------------------------------------------------------
 ! 
-| "[=shiirintzi][NRoot][=undulated.tinamou (sci.nm.: crypturellus.undulatus)]" : {shiirintzi}
+| "[=shiirintzi+gndr@m.+sem@bird][NRoot][=undulated.tinamou (sci.nm.: crypturellus.undulatus)]" : {shiirintzi}
 # ------------------------------------------------------------
 ! 
 | "[=shiri+gndr@n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]" : {shiri} ! N@->V
@@ -5829,15 +5829,15 @@ define NRootPRQin [
 | "[=ovatsa_pocharo][NRoot][=tobacco's.meat (ES: carne.del.tabaco)]" : {ovatsa_pocharo} 
 # ------------------------------------------------------------
 !
-| "[=shiro+gndr@m.][NRoot][=grey.dove.sp.; white.dove.sp.]" : {shiro}
+| "[=shiro+gndr@m.+sem@bird][NRoot][=grey.dove.sp.; white.dove.sp.]" : {shiro}
 # ------------------------------------------------------------
 ! 
-| "[=shironi][NRoot][=(wild).dove.sp. (ES: paloma.(silvestre)); gray-fronted.white-beaked.dove.sp. (ES: sp.de.paloma.de.frente.gris.y.pico.blanco)]" : {shironi}
-| "[=heento][NRoot][=gray-fronted.white-beaked.dove.sp. (ES: sp.de.paloma.de.frente.gris.y.pico.blanco)]" : {heento}
+| "[=shironi+gndr@m.+sem@bird][NRoot][=(wild).dove.sp. (ES: paloma.(silvestre)); gray-fronted.white-beaked.dove.sp. (ES: sp.de.paloma.de.frente.gris.y.pico.blanco)]" : {shironi}
+| "[=heento+gndr@m.+sem@bird][NRoot][=gray-fronted.white-beaked.dove.sp. (ES: sp.de.paloma.de.frente.gris.y.pico.blanco)]" : {heento}
 # ------------------------------------------------------------
 ! 
-| "[=shirontzi+gndr@m.][NRoot][=plumbeous.kite(bird) (sci.nm.: ictinea.plumbea); big.sparrowhawk.sp., eagle-like.sp.]" : {shirontzi}
-| "[=shiironti+gndr@m.][NRoot][= (ES: gavilán.grande.que.tiene.un.canto.parecido.al.silbido.humano)]" : {shiironti}
+| "[=shirontzi+gndr@m.+sem@bird][NRoot][=plumbeous.kite(bird) (sci.nm.: ictinea.plumbea); big.sparrowhawk.sp., eagle-like.sp.]" : {shirontzi}
+| "[=shiironti+gndr@m.+sem@bird][NRoot][= (ES: gavilán.grande.que.tiene.un.canto.parecido.al.silbido.humano)]" : {shiironti}
 # ------------------------------------------------------------
 ! 
 | "[=shinkana][NRoot][=bile (ES: hiel)]" : {shinkana}
@@ -5868,14 +5868,14 @@ define NRootPRQin [
 | "[=shinkiririti][NRoot][=whirlwind, wind.swirl (ES: remolino.de.viento)]" : {shinkiririti}
 # ------------------------------------------------------------
 ! 
-| "[=shinkia+gndr@n.m.][NRoot][=alcoholic.drink.made.out.of.corn, corn.beer (ES: chicha.de.maíz; PT: bebida.fermentada.a.base.de.milho)]" : {shinkia} ! @section:noun@ 
+| "[=shinkia+~{N:/'corn':shinki/}{CL:/'liquid':a/}+gndr@n.m.][NRoot][=alcoholic.drink.made.out.of.corn, corn.beer (ES: chicha.de.maíz; PT: bebida.fermentada.a.base.de.milho)]" : {shinkia} ! @section:noun@ 
 # ------------------------------------------------------------
 ! 
 | "[=shinkikaho][NRoot][=corncob.without.kernels (ES: coronta.del.maíz)]" : {shinkikaho}
 | "[=shinkimashi][NRoot][=corncob.without.kernels (ES: coronta.del.maíz)]" : {shinkimashi}
 # ------------------------------------------------------------
 ! 
-| "[=shinkipirotaki][NRoot][=armadillo (sci.nm.: cabassous.unicinctus)]" : {shinkipirotaki}
+| "[=shinkipirotaki+~{N:/'corn':shinki/}{AUG:piro}{CL:/taki:i/}][NRoot][=armadillo (sci.nm.: cabassous.unicinctus)]" : {shinkipirotaki}
 # ------------------------------------------------------------
 ! fish trap, fishing trap
 | "[=shimperi+gndr@n.m.+inal@ntsi.][NRoot][=fish.trap (ES: nasa, sp.de.trampa/cepo.para.los.peces), fishing.trap]" : {shimperi}
