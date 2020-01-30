@@ -5525,20 +5525,20 @@ define NRootPRQin [
 | "[=sankatari+inal@ntsi.][NRoot][=armpit]" : {sankatari}
 # ------------------------------------------------------------
 ! 
-| "[=sankatzi+gndr@m.][NRoot][=red-necked.gallinacean.bird.sp. (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat');| spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {sankatzi} ! @section:noun@ 
-| "[=sankati+gndr@m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu, penélope.montagnii)]" : {sankati}
-| "[=hankati+gndr@m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {hankati}
-| "[=hankatse+gndr@m.][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {hankatse}
+| "[=sankatzi+gndr@m.+sem@bird][NRoot][=red-necked.gallinacean.bird.sp. (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat');| spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {sankatzi} ! @section:noun@ 
+| "[=sankati+gndr@m.+sem@bird][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu, penélope.montagnii)]" : {sankati}
+| "[=hankati+gndr@m.+sem@bird][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {hankati}
+| "[=hankatse+gndr@m.+sem@bird][NRoot][=red-necked.gallinacean.bird.sp., andean.guan (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat'), spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {hankatse}
 # ------------------------------------------------------------
 ! 
-| "[=sankonka][NRoot][= (ES: culantro, cilantro, sacha.cula)]" : {sankonka}
+| "[=sankonka+gndr@m.+sem@plant][NRoot][= (ES: culantro, cilantro, sacha.cula)]" : {sankonka}
 # ------------------------------------------------------------
 ! 
 | "[=santimatiki+gndr@n.m.+sem@plant][NRoot][=timber.tree.sp. (ES: ishpingo, sp.de.árbol.maderable; PT: madeira.de.lei)]" : {santimatiki}
 # ------------------------------------------------------------
 ! 
-| "[=santo+gndr@n.m.][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]" : {santo}
-| "[=kasanto+gndr@n.m.][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]" : {kasanto} ! N@->V::[=to.be.an.orchid]  
+| "[=santo+gndr@n.m.+sem@plant][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]" : {santo}
+| "[=kasanto+gndr@n.m.+sem@plant][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]" : {kasanto} ! N@->V::[=to.be.an.orchid]  
 # ------------------------------------------------------------
 ! 
 | "[=santoma+gndr@n.m.][NRoot][=rubber.tree]" : {santoma}
