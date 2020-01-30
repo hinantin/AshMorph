@@ -5884,33 +5884,33 @@ define NRootPRQin [
 | "[=simpiri+gndr@n.m.+inal@ntsi.][NRoot][=fish.trap (ES: nasa, sp.de.trampa/cepo.para.los.peces), fishing.trap]" : {simpiri}
 # ------------------------------------------------------------
 ! 
-| "[=shimperenkotzi+gndr@m.][NRoot][=falcon]" : {shimperenkotzi}
-| "[=shimpirinkotzi+gndr@m.][NRoot][=falcon]" : {shimpirinkotzi}
-| "[=shimperinkotzi+gndr@m.][NRoot][=falcon]" : {shimperinkotzi}
+| "[=shimperenkotzi+gndr@m.+sem@bird][NRoot][=falcon (ES: halcón)]" : {shimperenkotzi}
+| "[=shimpirinkotzi+gndr@m.+sem@bird][NRoot][=falcon (ES: halcón)]" : {shimpirinkotzi}
+| "[=shimperinkotzi+gndr@m.+sem@bird][NRoot][=falcon (ES: halcón)]" : {shimperinkotzi}
 # ------------------------------------------------------------
 ! 
 | "[=shimpityoki][NRoot][=eyelash (ES: pestaña)]" : {shimpityoki}
 # ------------------------------------------------------------
 ! 
-| "[=shimpoki][NRoot][=horsefly (ES: tábano; PT: mutuca)]" : {shimpoki}
+| "[=shimpoki+gndr@m.+sem@insect][NRoot][=horsefly (ES: tábano; PT: mutuca)]" : {shimpoki}
 # ------------------------------------------------------------
 ! 
 # machacar la raíz, una gota del líquido resultante se echa en el ojo. 
 | "[=shinii][NRoot][=medicinal.plant_root (ES: raíz.de.planta.medicinal)]" : {shinii}
 # ------------------------------------------------------------
 ! 
-| "[=shineiki][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {shineiki} 
+| "[=shineiki+gndr@m.+sem@insect][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {shineiki} 
 # ------------------------------------------------------------
 ! 
-| "[=shineki+gndr@n.m.][NRoot][=liana.sp. (its.resin.used.as.remedy, ES: especie.de.bejuco/enredadera), resinous.vine.sp.]" : {shineki}
-| "[=shineeki+gndr@n.m.][NRoot][=liana.sp. (its.resin.used.as.remedy, ES: especie.de.bejuco/enredadera), resinous.vine.sp.]" : {shineeki}
-| "[=shiniiki+gndr@n.m.][NRoot][=liana.sp. (its.resin.used.as.remedy, ES: especie.de.bejuco/enredadera), resinous.vine.sp.]" : {shiniiki}
+| "[=shineki+gndr@n.m.+sem@plant][NRoot][=liana.sp. (its.resin.used.as.remedy, ES: especie.de.bejuco/enredadera), resinous.vine.sp.]" : {shineki}
+| "[=shineeki+gndr@n.m.+sem@plant][NRoot][=liana.sp. (its.resin.used.as.remedy, ES: especie.de.bejuco/enredadera), resinous.vine.sp.]" : {shineeki}
+| "[=shiniiki+gndr@n.m.+sem@plant][NRoot][=liana.sp. (its.resin.used.as.remedy, ES: especie.de.bejuco/enredadera), resinous.vine.sp.]" : {shiniiki}
 # ------------------------------------------------------------
 ! 
-| "[=shinenkari+gndr@m.][NRoot][=cricket.sp.]" : {shinenkari}
+| "[=shinenkari+gndr@m.+sem@insect][NRoot][=cricket.sp.]" : {shinenkari}
 # ------------------------------------------------------------
 ! 
-| "[=shinoiva+gndr@m.][NRoot][=monkey.sp.]" : {shinoiva}
+| "[=shinoiva+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp.]" : {shinoiva}
 # ------------------------------------------------------------
 ! 
 | "[=shintaki][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintaki}
@@ -5933,15 +5933,15 @@ define NRootPRQin [
 | "[=shintipaa+gndr@n.m.+poss@re.][NRoot][=raft, balsa]" : {shintipaa}
 # ------------------------------------------------------------
 ! 
-| "[=shintipiro][NRoot][=bird.sp. (sci.nm.: tachyphonus.rufus)]" : {shintipiro}
+| "[=shintipiro+gndr@m.+sem@bird][NRoot][=bird.sp. (sci.nm.: tachyphonus.rufus)]" : {shintipiro}
 # ------------------------------------------------------------
 ! 
-| "[=shiketzi][NRoot][=armored.catfish.sp. (carachama), fish.sp.]" : {shiketzi}
-| "[=shiketsi][NRoot][=armored.catfish.sp. (carachama), fish.sp.]" : {shiketsi}
-| "[=shiketi][NRoot][=(small).armored.catfish.sp. (ES: carachama.pequeña), fish.sp.]" : {shiketi}
+| "[=shiketzi+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (carachama), fish.sp.]" : {shiketzi}
+| "[=shiketsi+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (carachama), fish.sp.]" : {shiketsi}
+| "[=shiketi+gndr@m.+sem@fish][NRoot][=(small).armored.catfish.sp. (ES: carachama.pequeña), fish.sp.]" : {shiketi}
 # ------------------------------------------------------------
 ! 
-| "[=shikiri][NRoot][=triangular.wings.fly (ES: sp.de.mosca); mosquito.sp.]" : {shikiri}
+| "[=shikiri+gndr@m.+sem@insect][NRoot][=triangular.wings.fly (ES: sp.de.mosca); mosquito.sp.]" : {shikiri}
 # ------------------------------------------------------------
 ! 
 | "[=shipane+gndr@n.m.+inal@n/tsi.][NRoot][=chest (ES: pecho; PT: peito); breast (PT: seio)]" : {shipane}
@@ -5955,7 +5955,7 @@ define NRootPRQin [
 | "[=shipatyoki+gndr@n.m.+inal@ntsi.][NRoot][=eyelid (ES: párpado; PT: pálpebra)]" : {shipatyoki}
 # ------------------------------------------------------------
 ! 
-| "[=shipinkoki][NRoot][=small.wasp.sp. (ES: sp.de.avispa.pequeña; sci.nm.: stelopolybia.sp.)]" : {shipinkoki}
+| "[=shipinkoki+gndr@m.+sem@insect][NRoot][=small.wasp.sp. (ES: sp.de.avispa.pequeña; sci.nm.: stelopolybia.sp.)]" : {shipinkoki}
 # ------------------------------------------------------------
 ! 
 | "[=shipityao][NRoot][=small.billed.elania (sci.nm.: elaenia.parvirostris)]" : {shipityao}
