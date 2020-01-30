@@ -5689,10 +5689,10 @@ define NRootPRQin [
 | "[=sempiti+gndr@m.+sem@reptile][NRoot][=turtle.sp. (ES: motelo, tortuga.de.tierra; sci.nm.: geochelone.denticulata)]" : {sempiti}
 # ------------------------------------------------------------
 ! 
-| "[=shereentzi+gndr@m.][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {shereentzi}
+| "[=shereentzi+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {shereentzi}
 # ------------------------------------------------------------
 ! 
-| "[=shereki][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: guarea.glabra)]" : {shereki}
+| "[=shereki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol; sci.nm.: guarea.glabra)]" : {shereki}
 # ------------------------------------------------------------
 ! 
 | "[=sheripyari+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]" : {sheripyari}
@@ -5707,7 +5707,7 @@ define NRootPRQin [
 | "[=sheripiavo+gndr@n.m.+sem@healer.][NRoot][=wise.woman (ES: mujer.sabia); shamanness]" : {sheripiavo}
 # ------------------------------------------------------------
 ! 
-| "[=sherivetzi][NRoot][=gree-and-rufous.kingfisher (sci.nm.: chloroceryle.inda)]" : {sherivetzi}
+| "[=sherivetzi+gndr@m.+sem@bird][NRoot][=gree-and-rufous.kingfisher (sci.nm.: chloroceryle.inda)]" : {sherivetzi}
 # ------------------------------------------------------------
 ! 
 | "[=shetaki+gndr@n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]" : {shetaki} ! N@->V
