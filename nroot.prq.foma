@@ -6128,23 +6128,23 @@ define NRootPRQin [
 # ----------------------------------------------------------------
 ! 
 # tapetsatapo / =tapetsa =tapo / =vine.sp. =IDEO:round.object / ES: 'tamshi.en.círculo', EN: 'a.vine.in.a.circle-shape' 
-| "[=tapitsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]" : {tapitsa} ! tamashi???
-| "[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]" : {tapetsa} ! tamashi???
+| "[=tapitsa+gndr@n.m.+sem@plant][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]" : {tapitsa} ! tamashi???
+| "[=tapetsa+gndr@n.m.+sem@plant][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]" : {tapetsa} ! tamashi???
 # ----------------------------------------------------------------
 ! 
 | "[=tapo+gndr@n.m.+inal@tsi.][NRoot][=gums (ES: encia)]" : {tapo} ! @VCMP 
 # ----------------------------------------------------------------
 ! 
-| "[=Tarma/taaroma][NRoot][=Tarma]" : {taaroma}
+| "[=Tarma/taaroma+sem@NP.person][NRoot][=Tarma]" : {taaroma}
 # ----------------------------------------------------------------
 ! 
-| "[=tairi+gndr@n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erithrina.uley?)]" : {tairi}
+| "[=tairi+gndr@n.m.+sem@plant][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erithrina.uley?)]" : {tairi}
 # ----------------------------------------------------------------
 ! 
-| "[=tairipenki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: astyanax.sp., knodus.sp.)]" : {tairipenki}
+| "[=tairipenki+gndr@n.m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: astyanax.sp., knodus.sp.)]" : {tairipenki}
 # ----------------------------------------------------------------
 ! 
-| "[=tairinkari+gndr@m.][NRoot][=curl-crested.aracari (sci.nm.: pteroglossus.beauharnaessi), small.toucan.sp.]" : {tairinkari}
+| "[=tairinkari+gndr@m.+sem@bird][NRoot][=curl-crested.aracari (sci.nm.: pteroglossus.beauharnaessi), small.toucan.sp.]" : {tairinkari}
 # ----------------------------------------------------------------
 ! 
 ! shell, peel, skin
@@ -6152,12 +6152,12 @@ define NRootPRQin [
 | "[=otaki+gndr@n.m.+inal@ntsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin; her.shell]" : {otaki}
 # ----------------------------------------------------------------
 ! 
-| "[=takinte][NRoot][=flying.insect.sp. (ES: sp.de.insecto.volador; sci.nm.: orden.dermaptera)]" : {takinte}
+| "[=takinte+sem@insect+gndr@m.][NRoot][=flying.insect.sp. (ES: sp.de.insecto.volador; sci.nm.: orden.dermaptera)]" : {takinte}
 # ----------------------------------------------------------------
 ! 
 # chakitsini / =chakitsi -ni / =black.trap-jaw.ant.sp. -cl:watercourse / EN: 'lake.where.the.tingotero-ant.is.abundant'; ES: 'laguna.donde.abunda.el.tingotero' 
-| "[=takitsi+gndr@m.][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {takitsi}
-| "[=chakitsi+gndr@m.][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {chakitsi}
+| "[=takitsi+gndr@m.+sem@insect][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {takitsi}
+| "[=chakitsi+gndr@m.+sem@insect][NRoot][=black.trap-jaw.ant.sp. (tingotero, sci.nm.: odontomachus.bauri)]" : {chakitsi}
 # ----------------------------------------------------------------
 ! 
 | "[=takiyo][NRoot][=russet-backed.oropendola (sci.nm.: psarocolius.agustifrons)]" : {takiyo}
