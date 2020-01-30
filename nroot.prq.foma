@@ -43,6 +43,7 @@
 #    person's.name -> +sem@NP.person
 #    place.name -> +sem@NP.place
 #    river.name -> +sem@NP.river
+#    human.body.part -> 
 
 #    masculine gender
 #    ----------------
@@ -7220,7 +7221,7 @@ define NRootPRQin [
 | "[=yevetsi+gndr@n.m.+sem@plant][NRoot][=tree.sp. (shimbillo), fruit.tree.sp.]" : {yevetsi}
 # ----------------------------------------------------------------- 
 ! 
-| "[=yonkeva][NRoot][=rail.sp. (ES: sp.de.rállido)]" : {yonkeva}
+| "[=yonkeva+gndr@m.+sem@bird][NRoot][=rail.sp. (ES: sp.de.rállido)]" : {yonkeva}
 # ----------------------------------------------------------------- 
 ! 
 | "[=yomare+inal@ntsi.][NRoot][=ruler (ES: regla)]" : {yomare}
