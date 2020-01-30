@@ -5627,10 +5627,10 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 # animal que vive en los árboles, posee grandes uñas y cola prensil.
-| "[=sha+poss@ni.][NRoot][=anteater (ES: piampía; PT: tamanduá)]" : {sha}
-| "[=shaa+poss@ni.][NRoot][=anteater (ES: piampía; PT: tamanduá)]" : {shaa}
-| "[=shani+gndr@m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shani}
-| "[=shaani+gndr@m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shaani}
+| "[=sha+poss@ni.+sem@wild.anim.][NRoot][=anteater (ES: piampía; PT: tamanduá)]" : {sha}
+| "[=shaa+poss@ni.+sem@wild.anim.][NRoot][=anteater (ES: piampía; PT: tamanduá)]" : {shaa}
+| "[=shani+gndr@m.+sem@wild.anim.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shani}
+| "[=shaani+gndr@m.+sem@wild.anim.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shaani}
 # ------------------------------------------------------------
 ! 
 !| "[=sheninka][NRoot][=fellow.citizen (ES: paisano)]" : {sheninka} ! @section:noun@ 
