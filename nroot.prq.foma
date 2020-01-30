@@ -5762,13 +5762,13 @@ define NRootPRQin [
 | "[=shima+gndr@m.+poss@ni:te.+sem@fish][NRoot][=fish (ES: pez, pescado; PT: peixe; QU: challwa);| fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]" : {shima} ! @section:noun@ 
 # ------------------------------------------------------------
 ! 
-| "[=shimamiroki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: steindachnerina.guentheri.sp.)]" : {shimamiroki} 
+| "[=shimamiroki+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: steindachnerina.guentheri.sp.)]" : {shimamiroki} 
 # ------------------------------------------------------------
 ! 
 | "[=shimampiki][NRoot][=granadilla.sp. (ES: granadilla; sci.nm.: passiflora.sp.)]" : {shimampiki}
 # ------------------------------------------------------------
 ! 
-| "[=shimashiri+gndr@n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]" : {shimashiri}
+| "[=shimashiri+gndr@n.m.+sem@plant][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]" : {shimashiri}
 # ------------------------------------------------------------
 ! 
 | "[=shimariantzi+gndr@m.][NRoot][=fisherman (ES: pescador)]" : {shimariantzi}
@@ -5782,19 +5782,19 @@ define NRootPRQin [
 | "[=shimiri+inal@nchi.][NRoot][=person.from.ethnic.group.Piro/Yine][--][-nchi][Gen][+nposs]" : {shimirinchi} ! misspelled? it is not misspelled it uses the -nchi dialectal variation for the nposs suffix.
 # ------------------------------------------------------------
 ! 
-| "[=shimoto+gndr@m.][NRoot][=worm.sp. (inhabits.decomposed.tree.trunks; ES: sp.de.gusano), black.locust.sp.]" : {shimoto}
+| "[=shimoto+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (inhabits.decomposed.tree.trunks; ES: sp.de.gusano), black.locust.sp.]" : {shimoto}
 # ------------------------------------------------------------
 ! 
-| "[=shina+gndr@n.m.][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna; PT: madeira.de.lei, açaí; sci.nm.: ceiba.pentandra)]" : {shina}
+| "[=shina+gndr@n.m.+sem@plant][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna; PT: madeira.de.lei, açaí; sci.nm.: ceiba.pentandra)]" : {shina}
 # ------------------------------------------------------------
 ! 
-| "[=shintori+gndr@m.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; PT: queixada; sci.nm.: tayassu.tajacu)]" : {shintori}
+| "[=shintori+gndr@m.+sem@wild.anim.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; PT: queixada; sci.nm.: tayassu.tajacu)]" : {shintori}
 # ------------------------------------------------------------
 ! 
-| "[=shinyotzi][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinyotzi}
+| "[=shinyotzi+gndr@m.+sem@bird][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinyotzi}
 # ------------------------------------------------------------
 ! 
-| "[=shinshierogiro][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinshierogiro}
+| "[=shinshierogiro+gndr@m.+sem@bird][NRoot][=rufous-colored.sparrow (sci.nm.: zonotrichia.capensis)]" : {shinshierogiro}
 # ------------------------------------------------------------
 ! 
 | "[=shiranta+gndr@n.m.][NRoot][=flagstone, flag, flat.stone (ES: laja, roca.plana); boulder (ES: peña.dentro.del.agua)]" : {shiranta} ! N@->V::[= (ES: tarrafear)]
@@ -5810,7 +5810,7 @@ define NRootPRQin [
 | "[=shiri+gndr@n.m.+inal@tsi.][NRoot][=spirit, soul; spirit.of.a.dead.person]" : {shiri} ! @VCMP
 # ------------------------------------------------------------
 ! 
-| "[=shiiri][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: ictinia.plumbea); barred.forest-falcon (micrastur.ruficollis)]" : {shiiri}
+| "[=shiiri+gndr@m.+sem@bird][NRoot][=scavenger.bird.sp., bird.of.prey (ES: ave.rapaz/carroñera; sci.nm.: ictinia.plumbea); barred.forest-falcon (micrastur.ruficollis)]" : {shiiri}
 # ------------------------------------------------------------
 ! 
 | "[=shiirintzi][NRoot][=undulated.tinamou (sci.nm.: crypturellus.undulatus)]" : {shiirintzi}
