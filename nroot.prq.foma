@@ -5958,11 +5958,11 @@ define NRootPRQin [
 | "[=shipinkoki+gndr@m.+sem@insect][NRoot][=small.wasp.sp. (ES: sp.de.avispa.pequeña; sci.nm.: stelopolybia.sp.)]" : {shipinkoki}
 # ------------------------------------------------------------
 ! 
-| "[=shipityao][NRoot][=small.billed.elania (sci.nm.: elaenia.parvirostris)]" : {shipityao}
-| "[=shipitxavo][NRoot][=bird.sp. (PT: bem-te-vi)]" : {shipitxavo}
+| "[=shipityao+gndr@m.+sem@bird][NRoot][=small.billed.elania (sci.nm.: elaenia.parvirostris)]" : {shipityao}
+| "[=shipitxavo+gndr@m.+sem@bird][NRoot][=bird.sp. (PT: bem-te-vi)]" : {shipitxavo}
 # ------------------------------------------------------------
 ! 
-| "[=shipopori+gndr@m.][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {shipopori}
+| "[=shipopori+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {shipopori}
 # ------------------------------------------------------------
 ! 
 | "[=shirampari+gndr@m.][NRoot][=man;| male (ES: hombre)]" : {shirampari} ! N@->V::[=to.transform.into.a.man] @section:noun@ 
@@ -5972,12 +5972,12 @@ define NRootPRQin [
 | "[=shiravaro+gndr@n.m.][NRoot][=infertile.female (ES: mujer.estéril)]" : {shiravaro}
 # ------------------------------------------------------------
 ! 
-| "[=shirontsi][NRoot][=harpy.sp. (ES: ave.rapaz/carroñera; sci.nm.: buteo.magnirostris)]" : {shirontsi}
-| "[=shironti][NRoot][=harpy.sp. (ES: ave.rapaz/carroñera; sci.nm.: buteo.magnirostris)]" : {shironti}
+| "[=shirontsi+gndr@m.+sem@bird][NRoot][=harpy.sp. (ES: ave.rapaz/carroñera; sci.nm.: buteo.magnirostris)]" : {shirontsi}
+| "[=shironti+gndr@m.+sem@bird][NRoot][=harpy.sp. (ES: ave.rapaz/carroñera; sci.nm.: buteo.magnirostris)]" : {shironti}
 # ------------------------------------------------------------
 ! 
-| "[=shiringa][NRoot][=rubber/caucho.tree (sci.nm.: hevea.brasiliensis); rubber (ES: caucho)]" : {shiringa}
-| "[=shirinka][NRoot][=rubber/caucho.tree (sci.nm.: hevea.brasiliensis); rubber (ES: caucho)]" : {shirinka}
+| "[=shiringa+gndr@n.m.+sem@plant][NRoot][=rubber/caucho.tree (sci.nm.: hevea.brasiliensis); rubber (ES: caucho)]" : {shiringa}
+| "[=shirinka+gndr@n.m.+sem@plant][NRoot][=rubber/caucho.tree (sci.nm.: hevea.brasiliensis); rubber (ES: caucho)]" : {shirinka}
 # ------------------------------------------------------------
 ! 
 # shitashintsi / =shitashi -ntsi / =mat -nposs / EN: 'mat'; ES: 'estera' 
@@ -5987,11 +5987,11 @@ define NRootPRQin [
 | "[=shitayeNtsi/shitayẽtsi][NRoot:CPB][=mat (ES: estera; PT: esteira)]" : {shitayẽtsi}
 # ------------------------------------------------------------
 ! 
-| "[=shitashiki+gndr@n.m.][NRoot][=wild.plant; herb.sp. (used.for.washing)]" : {shitashiki}
+| "[=shitashiki+gndr@n.m.+sem@plant][NRoot][=wild.plant; herb.sp. (used.for.washing)]" : {shitashiki}
 # ------------------------------------------------------------
 ! 
-| "[=shitatari+gndr@m.][NRoot][=cockroach (ES: cucaracha; PT: barata (em.geral))]" : {shitatari}
-| "[=shitatare+gndr@m.+inal@ntsi.][NRoot][=cockroach (ES: cucaracha; PT: barata (em.geral))]" : {shitatare}
+| "[=shitatari+gndr@m.+sem@insect][NRoot][=cockroach (ES: cucaracha; PT: barata (em.geral))]" : {shitatari}
+| "[=shitatare+gndr@m.+inal@ntsi.+sem@insect][NRoot][=cockroach (ES: cucaracha; PT: barata (em.geral))]" : {shitatare}
 # ------------------------------------------------------------
 ! 
 # the gender is product of my own work.
@@ -6005,8 +6005,8 @@ define NRootPRQin [
 | "[=shitiki+gndr@n.m.+inal@ntsi.][NRoot][=bagasse, dry.pulpy.residue (ES: bagazo); waste, trash]" : {shitiki}
 # ------------------------------------------------------------
 ! 
-| "[=shito][NRoot][=monkey.sp. (ES: capuchín, capuchino, machín.negro; PT: macaco.prego, macaco.sogo; sci.nm.: cebus.apella)]" : {shito}
-| "[=shitoni][NRoot][=monkey.sp. (ES: capuchín, capuchino, machín.negro; PT: macaco.prego, macaco.sogo; sci.nm.: cebus.apella)]" : {shitoni}
+| "[=shito+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: capuchín, capuchino, machín.negro; PT: macaco.prego, macaco.sogo; sci.nm.: cebus.apella)]" : {shito}
+| "[=shitoni+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: capuchín, capuchino, machín.negro; PT: macaco.prego, macaco.sogo; sci.nm.: cebus.apella)]" : {shitoni}
 # ------------------------------------------------------------
 ! 
 | "[=shitovi+gndr@n.m.+poss@te.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]" : {shitovi}
