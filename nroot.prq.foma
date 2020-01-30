@@ -5669,9 +5669,9 @@ define NRootPRQin [
 | "[=sheito][NRoot][=intestines; gizzard (ES: molleja; PT: moela)]" : {sheito}
 # ------------------------------------------------------------
 ! 
-| "[=sheetsi+gndr@m.][NRoot][=tree-nesting.ant.sp. (ES: sp.de.hormiga.que.anida.en.los.árboles)]" : {sheetsi}
-| "[=sheetzi+gndr@m.][NRoot][=tree-nesting.ant.sp. (ES: sp.de.hormiga.que.anida.en.los.árboles)]" : {sheetzi}
-!| "[=sheetzisani+~{N:/'ant.sp.':sheetzi/}{CL:/'wasp':sani/}+gndr@m.][NRoot][=wasp.sp.living.in.mutualistic.interaction.with.sheetzi-ant (ES: sp.de.avispa)]" : {sheetzisani} ! @section:noun@ 
+| "[=sheetsi+gndr@m.+sem@insect][NRoot][=tree-nesting.ant.sp. (ES: sp.de.hormiga.que.anida.en.los.árboles)]" : {sheetsi}
+| "[=sheetzi+gndr@m.+sem@insect][NRoot][=tree-nesting.ant.sp. (ES: sp.de.hormiga.que.anida.en.los.árboles)]" : {sheetzi}
+!| "[=sheetzisani+~{N:/'ant.sp.':sheetzi/}{CL:/'wasp':sani/}+gndr@m.+sem@insect][NRoot][=wasp.sp.living.in.mutualistic.interaction.with.sheetzi-ant (ES: sp.de.avispa)]" : {sheetzisani} ! @section:noun@ 
 # ------------------------------------------------------------
 ! 
 | "[=shempa+gndr@n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; PT: ombro)]" : {shempa} ! @VCMP 
@@ -5684,9 +5684,9 @@ define NRootPRQin [
 | "[=shenotsi+gndr@n.m.][NRoot][=goiter (ES: bocio; PT: bócio)]" : {shenotsi}
 # ------------------------------------------------------------
 ! 
-| "[=shempiri][NRoot][=charapa.turtle, terrapin.sp. (ES: motelo, tortuga.de.tierra, taricaya)]" : {shempiri}
-| "[=sempiri][NRoot][=yellow-spotted.Amazon.river.turtle (ES: motelo, tortuga.de.tierra, taricaya)]" : {sempiri}
-| "[=sempiti][NRoot][=turtle.sp. (ES: motelo, tortuga.de.tierra; sci.nm.: geochelone.denticulata)]" : {sempiti}
+| "[=shempiri+gndr@m.+sem@reptile][NRoot][=charapa.turtle, terrapin.sp. (ES: motelo, tortuga.de.tierra, taricaya)]" : {shempiri}
+| "[=sempiri+gndr@m.+sem@reptile][NRoot][=yellow-spotted.Amazon.river.turtle (ES: motelo, tortuga.de.tierra, taricaya)]" : {sempiri}
+| "[=sempiti+gndr@m.+sem@reptile][NRoot][=turtle.sp. (ES: motelo, tortuga.de.tierra; sci.nm.: geochelone.denticulata)]" : {sempiti}
 # ------------------------------------------------------------
 ! 
 | "[=shereentzi+gndr@m.][NRoot][=bird.sp. (ES: sp.de.pájaro)]" : {shereentzi}
