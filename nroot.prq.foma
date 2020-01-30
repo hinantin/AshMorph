@@ -5543,7 +5543,7 @@ define NRootPRQin [
 ! 
 | "[=santoma+gndr@n.m.+sem@plant][NRoot][=rubber.tree]" : {santoma}
 | "[=santonka+gndr@n.m.+sem@plant][NRoot][=rubber.tree (ES: caucho)]" : {santonka}
-| "[=santonka+gndr@m.+sem@plant][NRoot][=rubber.tree; rubber]" : {santonka}
+| "[=santonka+gndr@m.][NRoot][=rubber (ES: caucho, jebe)]" : {santonka}
 | "[=santonka+gndr@m.][NRoot][=tatoo.made.with.rubber.charcoal]" : {santonka}
 | "[=satonkaari+gndr@m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaari}
 | "[=satonkaare+gndr@m.+inal@ntsi.][NRoot][=tatoo.made.with.rubber.charcoal (ES: tatuaje)]" : {satonkaare}
@@ -5569,28 +5569,28 @@ define NRootPRQin [
 | "[=savo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter]" : {savo}
 # -------------------------------------------------------------------------------------------------
 ! 
-| "[=saro][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saro}
-| "[=saaro][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saaro}
-| "[=haaapa][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {haaapa}
+| "[=saro+gndr@m.+sem@plant][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saro}
+| "[=saaro+gndr@m.+sem@plant][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saaro}
+| "[=haaapa+gndr@m.+sem@plant][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {haaapa}
 # ------------------------------------------------------------
 ! 
 | "[=sacerdote/saserote][NRoot][=priest]" : {saserote}
 # ------------------------------------------------------------
 ! 
-| "[=satipo][NRoot][=NP, Satipo.province]" : {satipo}
-| "[=hatipo][NRoot][=NP, Satipo.province]" : {hatipo}
+| "[=satipo+sem@NP.place][NRoot][=NP, Satipo.province]" : {satipo}
+| "[=hatipo+sem@NP.place][NRoot][=NP, Satipo.province]" : {hatipo}
 # ------------------------------------------------------------
 ! 
 | "[=satzi][NRoot][=provenance]" : {satzi}
 # ------------------------------------------------------------
 ! 
-| "[=satonotzi][NRoot][=trush-like.antpitta (sci.nm.: myrnothera.campanisona)]" : {satonotzi}
+| "[=satonotzi+gndr@m.+sem@bird][NRoot][=trush-like.antpitta (sci.nm.: myrnothera.campanisona)]" : {satonotzi}
 # ------------------------------------------------------------
 ! 
-| "[=satotori][NRoot][=undulated.antpitta (sci.nm.: grallaria.squamigera)]" : {satotori}
+| "[=satotori+gndr@m.+sem@bird][NRoot][=undulated.antpitta (sci.nm.: grallaria.squamigera)]" : {satotori}
 # ------------------------------------------------------------
 ! 
-| "[=save+gndr@m.][NRoot][=turtle.sp.]" : {save}
+| "[=save+gndr@m.+sem@reptile][NRoot][=turtle.sp.]" : {save}
 # ------------------------------------------------------------
 ! 
 | "[=saveto+gndr@m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {saveto}
