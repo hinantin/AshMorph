@@ -7117,8 +7117,8 @@ define NRootPRQin [
 | "[=vari+poss@te.][NRoot][=food]" : {vari}
 # ------------------------------------------------------------------- 
 ! 
-| "[=varipa+gndr@m.][NRoot][=chicken]" : {varipa}
-| "[=varipa+gndr@m.][NRoot][=rooster]" : {varipa}
+| "[=varipa+gndr@m.+sem@bird][NRoot][=chicken]" : {varipa}
+| "[=varipa+gndr@m.+sem@bird][NRoot][=rooster]" : {varipa}
 ! 
 # ----------------------------------------------------------------------------
 | "[=vatsa+gndr@n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]" : {vatsa} ! @VCMP
