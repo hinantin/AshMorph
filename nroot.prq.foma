@@ -7042,10 +7042,10 @@ define NRootPRQin [
 | "[=tivito+gndr@m.][NRoot][=beetle (ES: escarabajo)]" : {tivito}
 # ---------------------------------------------------------------------------------
 ! 
-| "[=tzina+gndr@n.m.][NRoot][=pifayo]" : {tzina}
-| "[=tzina+gndr@n.m.][NRoot][=palm.sp. (ES: camonilla, palmiche)]" : {tzina}
-| "[=kapashi+gndr@n.m.][NRoot][=palm.sp. (ES: palmiche (hojas.de.palmiche.para.hacer.techos-y-alfombras))]" : {kapashi}
-| "[=kapashe+gndr@n.m.][NRoot][=palm.sp. (ES: palmiche (hojas.de.palmiche.para.hacer.techos-y-alfombras))]" : {kapashe}
+| "[=tzina+gndr@n.m.+sem@plant][NRoot][=pifayo]" : {tzina}
+| "[=tzina+gndr@n.m.+sem@plant][NRoot][=palm.sp. (ES: camonilla, palmiche)]" : {tzina}
+| "[=kapashi+gndr@n.m.+sem@plant][NRoot][=palm.sp. (ES: palmiche (hojas.de.palmiche.para.hacer.techos-y-alfombras))]" : {kapashi}
+| "[=kapashe+gndr@n.m.+sem@plant][NRoot][=palm.sp. (ES: palmiche (hojas.de.palmiche.para.hacer.techos-y-alfombras))]" : {kapashe}
 # ---------------------------------------------------------------------------------
 ! 
 | "[=tzineya+gndr@n.m.][NRoot][=plantain.sp. (ES: sp.de.plátano)]" : {tzineya}
