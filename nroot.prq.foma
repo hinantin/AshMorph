@@ -5593,19 +5593,19 @@ define NRootPRQin [
 | "[=save+gndr@m.+sem@reptile][NRoot][=turtle.sp.]" : {save}
 # ------------------------------------------------------------
 ! 
-| "[=saveto+gndr@m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {saveto}
-| "[=savito+gndr@m.][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {savito}
+| "[=saveto+gndr@m.+sem@bird][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {saveto}
+| "[=savito+gndr@m.+sem@bird][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {savito}
 # ------------------------------------------------------------
 ! 
-| "[=saavintaro+gndr@n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saavintaro}
-| "[=saventaro+gndr@n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventaro}
-| "[=saventavo+gndr@n.m.][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventavo}
+| "[=saavintaro+gndr@n.m.+sem@plant][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saavintaro}
+| "[=saventaro+gndr@n.m.+sem@plant][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventaro}
+| "[=saventavo+gndr@n.m.+sem@plant][NRoot][=cat's.claw (ES: uña.de.gato)]" : {saventavo}
 # ------------------------------------------------------------
 ! 
-| "[=savirentsitaki][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {savirentsitaki}
-| "[=shaatonki][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {shaatonki}
-| "[=parentinato][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {parentinato}
-| "[=metsotonkiri][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {metsotonkiri}
+| "[=savirentsitaki+gndr@m.+sem@fish][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {savirentsitaki}
+| "[=shaatonki+gndr@m.+sem@fish][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {shaatonki}
+| "[=parentinato+gndr@m.+sem@fish][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {parentinato}
+| "[=metsotonkiri+gndr@m.+sem@fish][NRoot][=big-size.fish.sp. (ES: sp.de.pez.de.gran.tamaño)]" : {metsotonkiri}
 # ------------------------------------------------------------
 ! 
 | "[=saviri+gndr@n.m.+poss@te.][NRoot][=machete]" : {saviri}
