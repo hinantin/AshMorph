@@ -6009,8 +6009,8 @@ define NRootPRQin [
 | "[=shitoni+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: capuchín, capuchino, machín.negro; PT: macaco.prego, macaco.sogo; sci.nm.: cebus.apella)]" : {shitoni}
 # ------------------------------------------------------------
 ! 
-| "[=shitovi+gndr@n.m.+poss@te.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]" : {shitovi}
-| "[=shitoovi+gndr@n.m.+poss@te.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]" : {shitoovi}
+| "[=shitovi+gndr@n.m.+poss@te.+sem@plant][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]" : {shitovi}
+| "[=shitoovi+gndr@n.m.+poss@te.+sem@plant][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]" : {shitoovi}
 # ------------------------------------------------------------
 ! 
 | "[=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de.lombriz.de.tierra/instestinal)]" : {shitsa} ! N@->V
@@ -6028,18 +6028,18 @@ define NRootPRQin [
 | "[=shitivari][NRoot][=sth.rotten (ES: algo.que.está.podrido, carne.podrida)]" : {shitivari}
 # ------------------------------------------------------------
 ! 
-| "[=shitzivari+gndr@m.][NRoot][=solitary.black.cacique (ES: sp.de.pájaro, gallinazo; sci.nm.: cacicus.solitarius)]" : {shitzivari}
-| "[=shitsivari+gndr@m.][NRoot][=solitary.black.cacique (ES: sp.de.pájaro, gallinazo; sci.nm.: cacicus.solitarius)]" : {shitsivari}
-| "[=shitivari+gndr@m.][NRoot][=solitary.black.cacique (ES: sp.de.pájaro, gallinazo; sci.nm.: cacicus.solitarius)]" : {shitivari}
+| "[=shitzivari+gndr@m.+sem@bird][NRoot][=solitary.black.cacique (ES: sp.de.pájaro, gallinazo; sci.nm.: cacicus.solitarius)]" : {shitzivari}
+| "[=shitsivari+gndr@m.+sem@bird][NRoot][=solitary.black.cacique (ES: sp.de.pájaro, gallinazo; sci.nm.: cacicus.solitarius)]" : {shitsivari}
+| "[=shitivari+gndr@m.+sem@bird][NRoot][=solitary.black.cacique (ES: sp.de.pájaro, gallinazo; sci.nm.: cacicus.solitarius)]" : {shitivari}
 # ------------------------------------------------------------
 ! 
-| "[=shitziro+gndr@n.m.][NRoot][=tree.sp. (ES: ajo.sacha, sp.de.árbol; QU: ajo.sach'a)]" : {shitziro}
+| "[=shitziro+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: ajo.sacha, sp.de.árbol; QU: ajo.sach'a)]" : {shitziro}
 # ------------------------------------------------------------
 ! 
-| "[=shichari+gndr@m.][NRoot][=worm (ES: lombriz, cuica~k'uyka; QU: k'uyka); ant.sp.]" : {shichari}
+| "[=shichari+gndr@m.+sem@worm-shaped][NRoot][=worm (ES: lombriz, cuica~k'uyka; QU: k'uyka); ant.sp.]" : {shichari}
 # ------------------------------------------------------------
 ! 
-| "[=shivahaniki][NRoot][=small.Peruvian.anchoveta-fish (ES: anchoveta.pequeña; sci.nm.: bryconamericus.sp., knodus.sp., creagrutus.sp.); fish.sp.]" : {shivahaniki}
+| "[=shivahaniki+gndr@m.+sem@fish][NRoot][=small.Peruvian.anchoveta-fish (ES: anchoveta.pequeña; sci.nm.: bryconamericus.sp., knodus.sp., creagrutus.sp.); fish.sp.]" : {shivahaniki}
 # ------------------------------------------------------------
 ! 
 | "[=shivarityoki][NRoot][=wild.passion_fruit.sp. (ES: granadilla.silvestre)]" : {shivarityoki}
@@ -6059,10 +6059,10 @@ define NRootPRQin [
 | "[=shivitsa+gndr@n.m.+poss@te:ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species]" : {shivitsa} ! N@->V::[=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)] 
 # ------------------------------------------------------------
 ! 
-| "[=soapeti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero; sci.nm.: piculus.leucolaemus)]" : {soapeti} 
+| "[=soapeti+gndr@m.+sem@bird][NRoot][=woodpecker.sp. (ES: pájaro.carpintero; sci.nm.: piculus.leucolaemus)]" : {soapeti} 
 # ------------------------------------------------------------
 ! 
-| "[=sona+gndr@m.][NRoot][=oncilla, tigrillo (ES: sp.de.tigrillo; PT: gato-do-mato; sci.nm.: leopardus.tigrinus, felidae)]" : {sona} 
+| "[=sona+gndr@m.+sem@wild.anim.][NRoot][=oncilla, tigrillo (ES: sp.de.tigrillo; PT: gato-do-mato; sci.nm.: leopardus.tigrinus, felidae)]" : {sona} 
 # ------------------------------------------------------------
 ! 
 | "[=sonki+gndr@n.m.+inal@tsi.][NRoot][=kidney(s) (ES: riñón; PT: rim)]" : {sonki}
@@ -6075,24 +6075,25 @@ define NRootPRQin [
 | "[=soldado/soraaro][NRoot][=police (ES: soldado)]" : {soraaro} 
 # ------------------------------------------------------------
 ! 
-| "[=sorintzi][NRoot][=sunbittern (sci.nm.: eurypygia.helias)]" : {sorintzi} 
+| "[=sorintzi+gndr@m.+sem@bird][NRoot][=sunbittern (sci.nm.: eurypygia.helias)]" : {sorintzi} 
 # ------------------------------------------------------------
 ! 
 | "[=shoomaintzi+sem@NP.person][NRoot][=NP]" : {shoomaintzi} 
 # ------------------------------------------------------------
 ! 
-| "[=soorinti][NRoot][=heron.sp. (ES: garza, especie.que.habita.las.orillas.de.los.ríos)]" : {soorinti} 
-| "[=shorinti][NRoot][=heron.sp. (ES: garza, especie.que.habita.las.orillas.de.los.ríos)]" : {shorinti} 
+| "[=soorinti+gndr@m.+sem@bird][NRoot][=heron.sp. (ES: garza, especie.que.habita.las.orillas.de.los.ríos)]" : {soorinti} 
+| "[=shorinti+gndr@m.+sem@bird][NRoot][=heron.sp. (ES: garza, especie.que.habita.las.orillas.de.los.ríos)]" : {shorinti} 
 # ------------------------------------------------------------
 ! 
 | "[=shoronaki][NRoot][=classical.harpoon-tipped.conch-covered.arrow (ES: flecha.kiriki.con.una.caparazón)]" : {shoronaki} 
 # ------------------------------------------------------------
 ! 
-| "[=só+gndr@m.][NRoot:CPB][=sloth.sp. (Spanish.loan.word: zorro; PT: preguiça)]" : {só}
-| "[=soo+gndr@m.][NRoot][=sloth.sp. (Spanish.loan.word: zorro; PT: preguiça)]" : {soo}
-| "[=soro+gndr@m.][NRoot][=sloth.sp. (Spanish.loan.word: zorro; PT: preguiça)]" : {soro}
-| "[=soroni+gndr@m.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni; PT: preguiça)]" : {soroni}
-| "[=sorooni+gndr@m.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni; PT: preguiça)]" : {sorooni}
+| "[=só+gndr@m.+sem@wild.anim.][NRoot:CPB][=sloth.sp. (Spanish.loan.word: zorro; PT: preguiça)]" : {só}
+| "[=soo+gndr@m.+sem@wild.anim.][NRoot][=sloth.sp. (Spanish.loan.word: zorro; PT: preguiça)]" : {soo}
+| "[=soro+gndr@m.+sem@wild.anim.][NRoot][=sloth.sp. (Spanish.loan.word: zorro; PT: preguiça)]" : {soro}
+| "[=soroni+gndr@m.+sem@wild.anim.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni; PT: preguiça)]" : {soroni}
+| "[=sorooni+gndr@m.+sem@wild.anim.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni; PT: preguiça)]" : {sorooni}
+# ------------------------------------------------------------
 ! 
 | "[=sorome+gndr@m.][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {sorome}
 | "[=soromee+gndr@m.][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {soromee}
@@ -6100,10 +6101,13 @@ define NRootPRQin [
 | "[=soomai+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {soomai}
 | "[=somai+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {somai}
 | "[=homai+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {homai}
+# ------------------------------------------------------------
 ! 
 | "[=sota][NRoot][=cheek (ES: mejilla)]" : {sota}
+# ------------------------------------------------------------
 ! 
 | "[=soyoki+inal@ntsi.][NRoot][=furuncle.in.an.eye (ES: ursuelo)]" : {soyoki} ! N@->V::[=to.have.a.furuncle] 
+# ------------------------------------------------------------
 ! 
 | "[=taabato][NRoot][=calf]" : {taabato}
 # ----------------------------------------------------------------
