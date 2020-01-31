@@ -6945,16 +6945,16 @@ define NRootPRQin [
 | "[=champiro+gndr@n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]" : {champiro}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsopinto][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: leptodactylus.griseigularis)]" : {tsopinto}
+| "[=tsopinto+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: leptodactylus.griseigularis)]" : {tsopinto}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsopiro+gndr@m.][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]" : {tsopiro}
-!| "[=tsopiro+gndr@m.][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]" : {tsopiro}
+| "[=tsopiro+gndr@m.+sem@fish][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]" : {tsopiro}
+!| "[=tsopiro+gndr@m.+sem@fish][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]" : {tsopiro}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsorimi+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tsorimi}
-| "[=tsorimpi+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tsorimpi}
-| "[=tsorempi+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tsorempi}
+| "[=tsorimi+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tsorimi}
+| "[=tsorimpi+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tsorimpi}
+| "[=tsorempi+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tsorempi}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=shoipeiri][NRoot][=mythological.super.human.being (ES: un.gran.sheripiari/shaman, superhombre.mitológico)]" : {shoipeiri}
@@ -6990,8 +6990,8 @@ define NRootPRQin [
 | "[=tyavaki][NRoot][= (ES: color.natural.que.tiene.su.uso.prohibido, encanto.natural.el.cual.està.prohibido.tocar)]" : {tyavaki}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tyempoya][NRoot][=NP, person's.name]" : {tyempoya}
-| "[=tyemponya][NRoot][=NP, person's.name]" : {tyemponya}
+| "[=tyempoya+sem@NP.person][NRoot][=NP, person's.name]" : {tyempoya}
+| "[=tyemponya+sem@NP.person][NRoot][=NP, person's.name]" : {tyemponya}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tyiitya+gndr@n.m.+poss@ti.+voc@1SG.][NRoot][=grandmother (male.ego)]" : {tyiitya}
