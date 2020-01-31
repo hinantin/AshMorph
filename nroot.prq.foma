@@ -2775,7 +2775,7 @@ define NRootPRQin [
 | "[=kompiyoshi+sem@NP.person][NRoot][=person's.name, NP]" : {kompiyoshi} 
 # ---------------------------------------------------------------------------
 ! 
-| "[=konori][NRoot][=rubber]" : {konori}
+| "[=konori][NRoot][=rubber (ES: caucho)]" : {konori}
 # ---------------------------------------------------------------------------
 ! 
 | "[=konta+gndr@n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
@@ -2788,7 +2788,7 @@ define NRootPRQin [
 | "[=koNtaki/kõtaki][NRoot:CPB][= (ES: paja.de.palmera.de.coco; PT: (palha.de.palmeira.de).cocão)]" : [{kõtaki}|{kotaki}]
 # ---------------------------------------------------------------------------
 ! 
-| "[=kontona][NRoot][=partridge.sp. (ES: sp.de.perdiz; sci.nm.: odontophorus.gujanensis)]" : {kontona}
+| "[=kontona+gndr@n.m.+sem@bird][NRoot][=partridge.sp. (ES: sp.de.perdiz; sci.nm.: odontophorus.gujanensis)]" : {kontona}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kontonanaki][NRoot][=tree.snail.sp. (ES: molusco.que_vive_en_los_árboles; sci.nm.: sultana.sultana)]" : {kontonanaki} ! snail??? 
