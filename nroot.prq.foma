@@ -2771,8 +2771,8 @@ define NRootPRQin [
 | "[=kompita][NRoot][=riddle]" : {kompita}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kompiyoki][NRoot][=person's.name, NP]" : {kompiyoki} 
-| "[=kompiyoshi][NRoot][=person's.name, NP]" : {kompiyoshi} 
+| "[=kompiyoki+sem@NP.person][NRoot][=person's.name, NP]" : {kompiyoki} 
+| "[=kompiyoshi+sem@NP.person][NRoot][=person's.name, NP]" : {kompiyoshi} 
 # ---------------------------------------------------------------------------
 ! 
 | "[=konori][NRoot][=rubber]" : {konori}
