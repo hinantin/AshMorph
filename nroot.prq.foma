@@ -5442,7 +5442,7 @@ define NRootPRQin [
 | "[=shonaki+gndr@n.m.+sem@plant][NRoot][=edible.plant.sp. (ES: dale-dale, daledale; sci.nm.: calatea.allouia)]" : {shonaki}
 # ------------------------------------------------------------
 ! 
-| "[=soakentzi][NRoot][=chestnut.woodpecker (sci.nm.: celeus.elegans)]" : {soakentzi}
+| "[=soakentzi+gndr@m.+sem@bird][NRoot][=chestnut.woodpecker (sci.nm.: celeus.elegans)]" : {soakentzi}
 # ------------------------------------------------------------
 ! 
 ! flute like instrument, (musical).wind.instrument 
@@ -5455,15 +5455,15 @@ define NRootPRQin [
 | "[=shonkari+gndr@n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]" : {shonkari}
 # ------------------------------------------------------------
 ! 
-| "[=sonkaari+gndr@m.][NRoot][=partridge.sp. (ES: poqueadora, especie.de.perdiz)]" : {sonkaari}
-| "[=sonkaagari+gndr@m.][NRoot][=partridge.sp. (ES: poqueadora, especie.de.perdiz)]" : {sonkaagari}
-| "[=sonkaari+gndr@m.][NRoot][=white-throated.tinamou (sci.nm.: tinamus.guttatus)]" : {sonkaari}
+| "[=sonkaari+gndr@m.+sem@bird][NRoot][=partridge.sp. (ES: poqueadora, especie.de.perdiz)]" : {sonkaari}
+| "[=sonkaagari+gndr@m.+sem@bird][NRoot][=partridge.sp. (ES: poqueadora, especie.de.perdiz)]" : {sonkaagari}
+| "[=sonkaari+gndr@m.+sem@bird][NRoot][=white-throated.tinamou (sci.nm.: tinamus.guttatus)]" : {sonkaari}
 # ------------------------------------------------------------
 ! 
 # Según los ashaninka del Ene, el nombre del sonkarepenki está asociado al del árbol 'sonkare' (sci.nm.: erithrina uley)
 # ya que cuando florece durante la estación seca, el sonkarepenki llega surcando los ríos. 
 # El 'sonkarepenki' tiene una aleta de color rojizo similar al de las flores del árbol 'sonkare'  
-| "[=sonkarepenki+~{'tree.sp.':sonkare}{CL:/'flower':penki/}][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: curimata.laticeps; PT: branquinha)]" : {sonkarepenki}
+| "[=sonkarepenki+~{'tree.sp.':sonkare}{CL:/'flower':penki/}+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: curimata.laticeps; PT: branquinha)]" : {sonkarepenki}
 # ------------------------------------------------------------
 ! 
 | "[=sonkoki+gndr@m.][NRoot][=white.corn.variety]" : {sonkoki}
