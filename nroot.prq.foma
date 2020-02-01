@@ -49,7 +49,7 @@
 #    ----------------
 #    wild.animals -> +sem@wild.anim.
 #    birds -> +sem@bird
-#    reptiles -> +sem@reptile (e.g.: serpent/snake, turtle, crocodile/alligator) 
+#    reptiles ->  (e.g.: serpent/snake, turtle, crocodile/alligator) 
 #    amphibians -> +sem@amphibian (e.g.: frog, toad)
 #    gastropoda -> +sem@gastropoda (e.g.: slug, snail.(with.shell))
 #    fish -> +sem@fish
@@ -1036,9 +1036,9 @@ define NRootPRQin [
 | "[=ivonkiro+gndr@n.m.][NRoot][=medium; small (ES: mediana; pequeña)]" : {ivonkiro}
 # ------------------------------------------------------------------
 ! 
-| "[=samani+gndr@m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño, samaño; sci.nm.: coelogenus.paca, agouti.paca)]" : {samani}
-| "[=hamani+gndr@m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño, samaño; sci.nm.: coelogenus.paca)]" : {hamani}
-| "[=hamaani+gndr@m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño, samaño; sci.nm.: coelogenus.paca)]" : {hamaani}
+| "[=samani+gndr@m.+sem@wild.anim.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño, samaño; sci.nm.: coelogenus.paca, agouti.paca)]" : {samani}
+| "[=hamani+gndr@m.+sem@wild.anim.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño, samaño; sci.nm.: coelogenus.paca)]" : {hamani}
+| "[=hamaani+gndr@m.+sem@wild.anim.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño, samaño; sci.nm.: coelogenus.paca)]" : {hamaani}
 ! samaninki / [=samani+m. =inki+n.m.]+n.m. / =rodent.sp. =peanut / EN: 'peanut.sp.'; ES: 'especie.de.maní' 
 !| "[=samaninki+~{N:/'rodent':samani/}{L.DEL:i}{N:/'peanut':inki/}+gndr@n.m.][NRoot][=peanut.sp. (ES: sp.de.maní)]" : {samaninki} ! @section:noun@ 
 # ------------------------------------------------------------------
@@ -1251,7 +1251,7 @@ define NRootPRQin [
 | "[=iNpeta+gndr@n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel.rocoso); crag; ravine (ES: barranco)]" : {impeta}
 | "[=iNperita+gndr@n.m.][NRoot][=rock (ES: roca); cave; crag]" : {imperita}
 | "[=iNpiita+gndr@n.m.][NRoot][=rock (ES: roca); cave; crag]" : {impiita}
-| "[=iNpita/impita][NRoot][=larva.sp.that.inhabits.rivers (ES: saca, sp.de.larva.que.habita.los.ríos, langostino)]" : {impita}
+| "[=iNpita/impita+gndr@m.][NRoot][=larva.sp.that.inhabits.rivers (ES: saca, sp.de.larva.que.habita.los.ríos, langostino)]" : {impita}
 # -----------------------------------------------
 ! 
 | "[=iNpooto/impooto+gndr@m.+sem@worm-shaped][NRoot][=earthworm.sp. (ES: sp.de.lombriz.de.tierra, cuica~k'uyka/lombriz.grande.del.monte; QU: k'uyka; PT: minhoca; sci.nm.: phylum.nemathelminthas)]" : {impooto}
@@ -5515,8 +5515,8 @@ define NRootPRQin [
 | "[=hantari+gndr@n.m.+sem@plant][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei; sci.nm.: cedrela.odorata)]" : {hantari}
 # ------------------------------------------------------------
 ! 
-| "[=santani+gndr@m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {santani}
-| "[=hantani+gndr@m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {hantani}
+| "[=santani+gndr@m.+sem@bird][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {santani}
+| "[=hantani+gndr@m.+sem@bird][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {hantani}
 # ------------------------------------------------------------
 ! 
 | "[=sankamiro+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankamiro}
@@ -6936,7 +6936,7 @@ define NRootPRQin [
 | "[=tsoori][NRoot][=bird.sp. (ES: pájaro.paucar, oropéndola; QU: pawkar; sci.nm.: psarocolius.decumanus, psarocolius.angustifrons); catfish.sp. (ES: súngaro)]" : {tsoori}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsoorinke][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: drymobius.rhombifer)]" : {tsoorinke}
+| "[=tsoorinke+gndr@m.+sem@reptile][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: drymobius.rhombifer)]" : {tsoorinke}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsoompiro+gndr@n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]" : {tsoompiro}
