@@ -5504,15 +5504,15 @@ define NRootPRQin [
 | "[=samporo+gndr@m.+sem@reptile][NRoot][=boa (ES: boa.de.manchas.esféricas.marrón.claro.rodeadas.de.color.marrón.oscuro; sci.nm.: boa.constrictor.constrictor); worm.sp.]" : {samporo}
 # ------------------------------------------------------------
 ! 
-| "[=sananko+gndr@n.m.][NRoot][=bluebird-tree, royal.purple.brunfelsia (ES: chiri.sanango; sci.nm.: petrea.volubilis)]" : {sananko}
+| "[=sananko+gndr@n.m.+sem@plant][NRoot][=bluebird-tree, royal.purple.brunfelsia (ES: chiri.sanango; sci.nm.: petrea.volubilis)]" : {sananko}
 # ------------------------------------------------------------
 ! 
-| "[=sanantzi][NRoot][=rufescent.tiger-heron (sci.nm.: tigrisoma.lineatum)]" : {sanantzi}
-| "[=sananti][NRoot][=rufescent.tiger-heron (sci.nm.: tigrisoma.lineatum)]" : {sananti}
+| "[=sanantzi+gndr@m.+sem@bird][NRoot][=rufescent.tiger-heron (sci.nm.: tigrisoma.lineatum)]" : {sanantzi}
+| "[=sananti+gndr@m.+sem@bird][NRoot][=rufescent.tiger-heron (sci.nm.: tigrisoma.lineatum)]" : {sananti}
 # ------------------------------------------------------------
 ! 
-| "[=santari+gndr@n.m.][NRoot][=cedar.tree, timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei; sci.nm.: cedrela.odorata)]" : {santari}
-| "[=hantari+gndr@n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei; sci.nm.: cedrela.odorata)]" : {hantari}
+| "[=santari+gndr@n.m.+sem@plant][NRoot][=cedar.tree, timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei; sci.nm.: cedrela.odorata)]" : {santari}
+| "[=hantari+gndr@n.m.+sem@plant][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei; sci.nm.: cedrela.odorata)]" : {hantari}
 # ------------------------------------------------------------
 ! 
 | "[=santani+gndr@m.][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {santani}
