@@ -1376,12 +1376,12 @@ define NRootPRQin [
 | "[=iNpokiro/ĩpokiro+gndr@m.][NRoot:CPB][=star (ES: estrella)]" : {ĩpokiro}
 | "[=ompokiro][NRoot][=star (ES: estrella)]" : {ompokiro}
 ! 
-| "[=impokiroma][NRoot][=star.tiger (ES: tigre.estrella)]" : {impokiroma}
+| "[=impokiroma+gndr@m.+sem@wild.anim.][NRoot][=star.tiger (ES: tigre.estrella)]" : {impokiroma}
 ! 
 | "[=impokiromai][NRoot][= (PT: estrela.que.tem.mistérios-e-orienta.o.pajé)]" : {impokiromai}
 # ---------------------------------------------------------------------
 ! 
-| "[=imposhito+~imposhi{CL:/'tree':to/}+gndr@n.m.+sem@fruit][NRoot][=wild.fruit.sp. (ES: fruta.silvestre)]" : {imposhito}
+| "[=imposhito+~{N:/'UNK':imposhi/}{CL:/'tree':to/}+gndr@n.m.+sem@fruit][NRoot][=wild.fruit.sp. (ES: fruta.silvestre)]" : {imposhito}
 # ---------------------------------------------------------------------
 ! 
 | "[=inpovaNtoteya/inpowãtoteya][NRoot:CPB][=tree.sp. (PT: mutamba, árvore.de.médio.porte; sci.nm.: guazuma.ulmifolia)]" : {inpowãtoteya}
