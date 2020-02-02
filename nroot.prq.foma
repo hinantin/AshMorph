@@ -49,7 +49,7 @@
 #    ----------------
 #    wild.animals -> +sem@wild.anim.
 #    birds -> +sem@bird
-#    reptiles ->  (e.g.: serpent/snake, turtle, crocodile/alligator) 
+#    reptiles -> +sem@reptile (e.g.: serpent/snake, turtle, crocodile/alligator, iguana) 
 #    amphibians -> +sem@amphibian (e.g.: frog, toad)
 #    gastropoda -> +sem@gastropoda (e.g.: slug, snail.(with.shell))
 #    fish -> +sem@fish
@@ -1425,18 +1425,18 @@ define NRootPRQin [
 | "[=kaparari+gndr@m.+sem@fish][NRoot][=sardine.sp. (PT: peixe.de.água.doce)]" : {kaparari}
 # ---------------------------------------------------------------------
 ! 
-| "[=kapararo+gndr@m.][NRoot][=sardine.sp. (ES: sp.de.sardina)]" : {kapararo}
+| "[=kapararo+gndr@m.+sem@fish][NRoot][=sardine.sp. (ES: sp.de.sardina)]" : {kapararo}
 # ---------------------------------------------------------------------
 ! 
-| "[=kaaparinki+gndr@m.][NRoot][=rattler-snake (ES: sp.de.cascavel)]" : {kaaparinki}
+| "[=kaaparinki+gndr@m.+sem@reptile][NRoot][=rattler-snake (ES: sp.de.cascavel)]" : {kaaparinki}
 # ---------------------------------------------------------------------
 ! 
-| "[=kapashi+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {kapashi}
+| "[=kapashi+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {kapashi}
 ! 
-| "[=tako+gndr@n.m.][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tako} ! I assumed the gender is +gndr@n.m. 
+| "[=tako+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {tako} ! I assumed the gender is +gndr@n.m. 
 # ---------------------------------------------------------------------
 ! 
-| "[=kapashiro][NRoot][=iguana.sp.]" : {kapashiro}
+| "[=kapashiro+gndr@m.+sem@reptile][NRoot][=iguana.sp.]" : {kapashiro}
 # ---------------------------------------------------------------------
 ! 
 | "[=katimaropa][NRoot][=banana.sp. (ES: plátano.de.isla)]" : {katimaropa}
@@ -1481,11 +1481,11 @@ define NRootPRQin [
 | "[=keeki+ntsi.][NRoot][=face.pimple (ES: grano.en.la.cara)]" : {keeki}
 # ---------------------------------------------------------------------
 ! 
-| "[=kinashi+gndr@n.m.][NRoot][=pituca-like.herb.sp.]" : {kinashi}
-| "[=kenashi+gndr@n.m.][NRoot][=pituca-like.herb.sp.]" : {kenashi}
+| "[=kinashi+gndr@n.m.+sem@plant][NRoot][=pituca-like.herb.sp.]" : {kinashi}
+| "[=kenashi+gndr@n.m.+sem@plant][NRoot][=pituca-like.herb.sp.]" : {kenashi}
 # ---------------------------------------------------------------------
 ! 
-| "[=kenentoki_oteyaki][NRoot][= (PT: árvore.do.taxi; sci.nm.: triplaris.surinamensis)]" : {kenentoki_oteyaki}
+| "[=kenentoki_oteyaki+gndr@n.m.+sem@plant][NRoot][= (PT: árvore.do.taxi; sci.nm.: triplaris.surinamensis)]" : {kenentoki_oteyaki}
 # ---------------------------------------------------------------------
 ! 
 | "[=kentziraki+gndr@m.+inal@tzi.+poss@te.][NRoot][=flea (ES: pulga)]" : {kentziraki}
@@ -1536,10 +1536,10 @@ define NRootPRQin [
 | "[=irantsipi+~{N:/'blood':ira/}{NPOSS:ntsi}{CL:/'cane':pi/}+gndr@n.m.][NRoot][=sugar.cane.sp. (ES: sp.de.caña.de.azucar; sci.nm.: saccharum.poaceae)]" : {irantsipi}
 # ---------------------------------------------------------------------
 ! 
-| "[=iraari+gndr@n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {iraari}
-| "[=irari+gndr@n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {irari}
-| "[=irariki+gndr@n.m.][NRoot][=dragon's_blood.seed/fruit (ES: sangre.de.grado; sci.nm.: croton.lechleri)]" : {irariki}
-| "[=irarito][NRoot][=dragon's_blood.tree (ES: árbol.de.sangre.de.drago)]" : {irarito}
+| "[=iraari+gndr@n.m.+sem@plant][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {iraari}
+| "[=irari+gndr@n.m.+sem@plant][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago; sci.nm.: croton.lechleri)]" : {irari}
+| "[=irariki+gndr@n.m.+sem@plant][NRoot][=dragon's_blood.seed/fruit (ES: sangre.de.grado; sci.nm.: croton.lechleri)]" : {irariki}
+| "[=irarito+gndr@n.m.+sem@plant][NRoot][=dragon's_blood.tree (ES: árbol.de.sangre.de.drago)]" : {irarito}
 # ---------------------------------------------------------------------
 ! 
 | "[=iraantsinaki+gndr@m.+sem@bird][NRoot][=pale-fegged.hornero (sci.nm.: furnarius.leucopus)]" : {iraantsinaki}
