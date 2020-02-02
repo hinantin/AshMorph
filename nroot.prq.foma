@@ -1762,10 +1762,10 @@ define NRootPRQin [
 !| "[=iitsikonta+~{N:/'foot':iitsi/}{CL:/'underside':konta/}+inal@ntsi.][NRoot][=sole.of.foot (ES: planta.del.pie)]" : {iitsikonta} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
-| "[=iposhi+gndr@m.][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {iposhi}
-| "[=aposhi+gndr@m.][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {aposhi}
+| "[=iposhi+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {iposhi}
+| "[=aposhi+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {aposhi}
 ! [nopositi] / noposhiti / no- =poshi -ti / 1sg.poss- =carachama-fish -aln.poss. / EN: 'my.carachama-fish'   
-| "[=poshi+poss@ti.][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {poshi}
+| "[=poshi+gndr@m.+poss@ti.+sem@fish][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {poshi}
 # ---------------------------------------------------------------------
 ! 
 | "[=ititsapaki][NRoot][=toe]" : {ititsapaki}
