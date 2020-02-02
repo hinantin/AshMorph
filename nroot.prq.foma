@@ -1933,9 +1933,9 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 # serpiente.de.color.verde.oscuro.a.negra 
-| "[=kamatonke+~{'an.insect':kamato}{CL:/'snake':nke/}][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: chironius.scurrulus)]" : {kamatonke}
-| "[=kamatonki+~{'an.insect':kamato}{CL:/'snake':nki/}][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: chironius.scurrulus); rattlesnake.sp. (ES: cascabel)]" : {kamatonki}
-| "[=kamaatonki+~{'an.insect':kamaato}{CL:/'snake':nki/}][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: chironius.scurrulus); rattlesnake.sp. (ES: cascabel)]" : {kamaatonki}
+| "[=kamatonke+~{'an.insect':kamato}{CL:/'snake':nke/}+gndr@m.+sem@reptile][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: chironius.scurrulus)]" : {kamatonke}
+| "[=kamatonki+~{'an.insect':kamato}{CL:/'snake':nki/}+gndr@m.+sem@reptile][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: chironius.scurrulus); rattlesnake.sp. (ES: cascabel)]" : {kamatonki}
+| "[=kamaatonki+~{'an.insect':kamaato}{CL:/'snake':nki/}+gndr@m.+sem@reptile][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: chironius.scurrulus); rattlesnake.sp. (ES: cascabel)]" : {kamaatonki}
 # ---------------------------------------------------------------------
 ! 
 | "[=kamaveni][NRoot][=land.of.mortal.beings]" : {kamaveni}
