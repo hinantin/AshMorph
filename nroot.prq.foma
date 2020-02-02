@@ -1817,18 +1817,18 @@ define NRootPRQin [
 | "[=akachaare+gndr@m.+inal@ntsi.][NRoot][=hooked (ES: anzueleado)]" : {akachaare} # adjective 
 # ---------------------------------------------------------------------
 ! 
-| "[=kachente+gndr@n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachente}
-| "[=kachenti+gndr@n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachenti}
-| "[=kachinti+gndr@n.m.][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachinti}
+| "[=kachente+gndr@n.m.+sem@plant][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachente}
+| "[=kachenti+gndr@n.m.+sem@plant][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachenti}
+| "[=kachinti+gndr@n.m.+sem@plant][NRoot][=plant/tree.sp. (ES: sp.de.planta/árbol)]" : {kachinti}
 # ---------------------------------------------------------------------
 ! 
-| "[=kachompito+gndr@n.m.][NRoot][=medicinal.tree.sp. (ES: sp.de.árbol.medicinal)]" : {kachompito}
+| "[=kachompito+gndr@n.m.+sem@plant][NRoot][=medicinal.tree.sp. (ES: sp.de.árbol.medicinal)]" : {kachompito}
 # ---------------------------------------------------------------------
 ! 
-| "[=kachoncho][NRoot][=heron-like.large-beaked.long-legged.bird.sp., (ES: sp.de.garza, totuyo; sci.nm.: ardea.cocoi)]" : {kachoncho}
+| "[=kachoncho+gndr@m.+sem@bird][NRoot][=heron-like.large-beaked.long-legged.bird.sp., (ES: sp.de.garza, totuyo; sci.nm.: ardea.cocoi)]" : {kachoncho}
 # ---------------------------------------------------------------------
 ! 
-| "[=kachoneriki][NRoot][=flying.insect.sp. (ES: sp.de.insecto.volador)]" : {kachoneriki}
+| "[=kachoneriki+gndr@m.+sem@insect][NRoot][=flying.insect.sp. (ES: sp.de.insecto.volador)]" : {kachoneriki}
 # ---------------------------------------------------------------------
 ! 
 | "[=kachori][NRoot][=sour, acid (ES: agrio)]" : {kachori}
