@@ -6096,12 +6096,12 @@ define NRootPRQin [
 | "[=sorooni+gndr@m.+sem@wild.anim.][NRoot][=sloth.sp. (ES: perezoso; Spanish.loan.word: zorro; sci.nm.: choloepus.hoffmanni; PT: preguiça)]" : {sorooni}
 # ------------------------------------------------------------
 ! 
-| "[=sorome+gndr@m.][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {sorome}
-| "[=soromee+gndr@m.][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {soromee}
-| "[=soromai+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {soromai}
-| "[=soomai+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {soomai}
-| "[=somai+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {somai}
-| "[=homai+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {homai}
+| "[=sorome+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {sorome}
+| "[=soromee+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (kashpairo), red.color.larva.with.black.hair; caterpillar.sp. (ES: oruga, bayuca)]" : {soromee}
+| "[=soromai+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {soromai}
+| "[=soomai+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {soomai}
+| "[=somai+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {somai}
+| "[=homai+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca~balluca?, cashpairo)]" : {homai}
 # ------------------------------------------------------------
 ! 
 | "[=sota][NRoot][=cheek (ES: mejilla)]" : {sota}
@@ -6125,7 +6125,7 @@ define NRootPRQin [
 | "[=otapi][NRoot][=back (body.part; ES: espalda); bottom; lower.side, down]" : {otapi} ! to be checked !!! 
 # ----------------------------------------------------------------
 ! 
-| "[=tanoki+gndr@n.m.][NRoot][=suicide.tree.sp. (sci.nm.: thevetia.peruviana)]" : {tanoki}
+| "[=tanoki+gndr@n.m.+sem@plant][NRoot][=suicide.tree.sp. (sci.nm.: thevetia.peruviana)]" : {tanoki}
 # ----------------------------------------------------------------
 ! 
 # tapetsatapo / =tapetsa =tapo / =vine.sp. =IDEO:round.object / ES: 'tamshi.en.círculo', EN: 'a.vine.in.a.circle-shape' 
