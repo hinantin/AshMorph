@@ -4886,32 +4886,32 @@ define NRootPRQin [
 | "[=pishava][NRoot][=person's.name, NP]" : {pishava}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pishiti+gndr@m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishiti}
-| "[=pishitsi+gndr@m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac); (ES: tanagra)]" : {pishitsi}
-| "[=pishitzi+gndr@m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitzi}
-| "[=pishiro+gndr@m.+poss@ti.][NRoot][=small.toucan.sp. (ES: choquimbo; sci.nm.: pteroglosus.castanotis)]" : {pishiro}
+| "[=pishiti+gndr@m.+sem@bird][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishiti}
+| "[=pishitsi+gndr@m.+sem@bird][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac); (ES: tanagra)]" : {pishitsi}
+| "[=pishitzi+gndr@m.+sem@bird][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]" : {pishitzi}
+| "[=pishiro+gndr@m.+poss@ti.+sem@bird][NRoot][=small.toucan.sp. (ES: choquimbo; sci.nm.: pteroglosus.castanotis)]" : {pishiro}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pishivakintsi][NRoot][=broom (ES: escoba)]" : {pishivakintsi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitsiro+gndr@m.][NRoot][=grasshopper (ES: saltamonte; sci.nm.: familia.locustidae/acrididae); true.locust]" : {pitsiro}
+| "[=pitsiro+gndr@m.+sem@insect][NRoot][=grasshopper (ES: saltamonte; sci.nm.: familia.locustidae/acrididae); true.locust]" : {pitsiro}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pitsitsari+gndr@n.m.][NRoot][=clay; mud (it.is.used.to.dye.yarn)]" : {pitsitsari}
 | "[=pitzitsari+gndr@n.m.][NRoot][=black.clay (ES: greda.negra); black.mud (itris.used.to.dye.yarn/cushmas)]" : {pitzitsari}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=piviro+gndr@m.][NRoot][=toad.sp. (ES: sp.de.rana);| aquatic.venomous.toad (ES: rana.venenosa.del.agua)]" : {piviro} ! @section:noun@ 
-| "[=peviro+gndr@m.][NRoot][=frog.sp. (ES: sp.de.rana); aquatic.venomous.toad (ES: rana.venenosa.del.agua)]" : {peviro}
-| "[=hiinto+gndr@m.][NRoot][=edible.big.toad.sp. (ES: sp.de.sapo.grande.comestible)]" : {hiinto}
+| "[=piviro+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.rana);| aquatic.venomous.toad (ES: rana.venenosa.del.agua)]" : {piviro} ! @section:noun@ 
+| "[=peviro+gndr@m.+sem@amphibian][NRoot][=frog.sp. (ES: sp.de.rana); aquatic.venomous.toad (ES: rana.venenosa.del.agua)]" : {peviro}
+| "[=hiinto+gndr@m.+sem@amphibian][NRoot][=edible.big.toad.sp. (ES: sp.de.sapo.grande.comestible)]" : {hiinto}
 # ------------------------------------------------------------------------------------------
 ! 
 # novochokine / no- =pochoki -ne / 1sg.poss- =dream -nposs / EN: 'my.dream', ES: 'mi.sueño' 
 | "[=pochoki+poss@ne:ni.][NRoot][=dream (ES: sueño; PT: sonho)]" : {pochoki} 
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pochonyeihi+gndr@n.m.+sem@plant][NRoot][=dove.sp. (ES: sp.de.paloma; sci.nm.: geotrygon.montana, columbidae)]" : {pochonyeihi} 
+| "[=pochonyeihi+gndr@m.+sem@bird][NRoot][=dove.sp. (ES: sp.de.paloma; sci.nm.: geotrygon.montana, columbidae)]" : {pochonyeihi} 
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=poe][NRoot][=(edible).tuber.sp., yam-bean.sp., sweet.yam (ES: yacón, judía.ñame, ashipa, sp.de.tubérculo.comestible; botany.id.: pachyrizus.erosus; PT: batata.doce)]" : {poe}
