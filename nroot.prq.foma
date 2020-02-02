@@ -1896,8 +1896,8 @@ define NRootPRQin [
 | "[=kamanetaantsi+~{'to.die':kam}{EP:a}{UNK:ne}{EP:t}{INF:aantsi}][NRoot][=death (ES: muerte)]" : {kamanetaantsi}
 # ---------------------------------------------------------------------
 ! 
-| "[=kamanyari/kamañari][NRoot][=NP, person's.name]" : {kamanyari}
-| "[=kamanyaari/kamañaari][NRoot][=NP, person's.name]" : {kamanyaari}
+| "[=kamanyari/kamañari+sem@NP.person][NRoot][=NP, person's.name]" : {kamanyari}
+| "[=kamanyaari/kamañaari+sem@NP.person][NRoot][=NP, person's.name]" : {kamanyaari}
 # ---------------------------------------------------------------------
 ! 
 | "[=kamara+sem@color.][NRoot][=cinnamon.color]" : {kamara}
