@@ -43,7 +43,7 @@
 #    person's.name -> +sem@NP.person
 #    place.name -> +sem@NP.place
 #    river.name -> +sem@NP.river
-#    human.body.part -> 
+#    human.body.part -> +sem@b.p. 
 
 #    masculine gender
 #    ----------------
@@ -2662,11 +2662,11 @@ define NRootPRQin [
 | "[=koi][NRoot][=barbasco, vegetable.poison]" : {koi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koka+gndr@n.m.+poss@ne:ni.][NRoot][=coca (QUZ: kuka; sci.nm.: erythroxylon.sp., erythroxylon.coca)]" : {koka}
+| "[=koka+gndr@n.m.+poss@ne:ni.+sem@plant][NRoot][=coca (QUZ: kuka; sci.nm.: erythroxylon.sp., erythroxylon.coca)]" : {koka}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kokaki+gndr@n.m.][NRoot][= (ES: chimicua, sp.de.árbol.frutal)]" : {kokaki}
-| "[=kokaniroki+gndr@n.m.][NRoot][=fruit.tree.sp. (ES: chimicua, sp.de.árbol.frutal)]" : {kokaniroki}
+| "[=kokaki+gndr@n.m.+sem@plant][NRoot][= (ES: chimicua, sp.de.árbol.frutal)]" : {kokaki}
+| "[=kokaniroki+gndr@n.m.+sem@plant][NRoot][=fruit.tree.sp. (ES: chimicua, sp.de.árbol.frutal)]" : {kokaniroki}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kokaapi+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {kokaapi}
@@ -2682,7 +2682,7 @@ define NRootPRQin [
 | "[=kokoini+kin@fem.ego][NRoot][=father.in.law.DIM; uncle.DIM]" : {kokoini}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koonkotzi+gndr@m.][NRoot][=ringed.antpipit, bird.sp. (sci.nm.: corythopis.torquata)]" : {koonkotzi}
+| "[=koonkotzi+gndr@m.+sem@bird][NRoot][=ringed.antpipit, bird.sp. (sci.nm.: corythopis.torquata)]" : {koonkotzi}
 # ---------------------------------------------------------------------------
 ! 
 # elbow
