@@ -4693,7 +4693,7 @@ define NRootPRQin [
 | "[=plato/peraato][NRoot][=plate (flat.dish.to.put.food.on)]" : {peraato}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=Perú][NRoot][=NP]" : {perú}
+| "[=Perú+sem@NP.place][NRoot][=NP]" : {perú}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=peyari+gndr@m.][NRoot][=ghost; demon; (forest).bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 
@@ -4703,22 +4703,22 @@ define NRootPRQin [
 | "[=piyori+gndr@m.+sem@bird][NRoot][=southern.helmeted.curassow (sci.nm.: pauxi.inicornis)]" : {piyori}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=piyoro+gndr@n.m.][NRoot][=plant.sp., flowering.tree.sp. (ES: ocuera.(blanca))]" : {piyoro}
-| "[=piyovo+gndr@n.m.][NRoot][=plant.sp., flowering.tree.sp. (ES: ocuera.(blanca))]" : {piyovo}
+| "[=piyoro+gndr@n.m.+sem@plant][NRoot][=plant.sp., flowering.tree.sp. (ES: ocuera.(blanca))]" : {piyoro}
+| "[=piyovo+gndr@n.m.+sem@plant][NRoot][=plant.sp., flowering.tree.sp. (ES: ocuera.(blanca))]" : {piyovo}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=piyompitzi][NRoot][=black-faced.dacnis (sci.nm.: dacnis.lineata)]" : {piyompitzi}
+| "[=piyompitzi+gndr@m.+sem@bird][NRoot][=black-faced.dacnis (sci.nm.: dacnis.lineata)]" : {piyompitzi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pichanaki][NRoot][=Pichanaki]" : {pichanaki}
+| "[=pichanaki+sem@NP.place][NRoot][=Pichanaki]" : {pichanaki}
 # ------------------------------------------------------------------------------------------
 ! 
 # las abejas 'pichi', 'sanirontiki' perforan los troncos secos de árboles muertos y construyen sus nidos en estos. 
 # el macho es de color amarillo dorado y la hembra negra (algunas especies esta se tornasola en verde o morado) 
-| "[=pichi][NRoot][=carpenter.bee.sp. (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, subfamilia.xylocopine)]" : {pichi}
+| "[=pichi+sem@insect][NRoot][=carpenter.bee.sp. (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, subfamilia.xylocopine)]" : {pichi}
 # 'sanirontiki' está ubicada en el límite de la familia de las abejas con la familia de las avispas llamadas 'sani'. 
 # De allí su nombre que podría ser traducido como abeja-avispa. 
-| "[=sanirontiki][NRoot][=carpenter.bee.sp. (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, género.xylocopa, neoxylocopa.sp.)]" : {sanirontiki}
+| "[=sanirontiki+sem@insect][NRoot][=carpenter.bee.sp. (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, género.xylocopa, neoxylocopa.sp.)]" : {sanirontiki}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pinkatsari+gndr@m.+voc.+poss@te.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsari}
@@ -4729,26 +4729,27 @@ define NRootPRQin [
 # koshiripirantsi / =koshiri =pira -ntsi / =monkey.sp. =domestic.animal -nposs / EN: 'intelligent.monkey' 
 | "[=pira+gndr@m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
 | "[=vira+gndr@m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {vira}
-! 
-| "[=piratsi+gndr@m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (ES: huangana, pecarí.de.labios.blancos; PT: queixada; sci.nm.: tayassu.pecari)]" : {piratsi}
-| "[=pirachi+gndr@m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (ES: huangana, pecarí.de.labios.blancos; PT: queixada; sci.nm.: tayassu.pecari)]" : {pirachi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=Pito][NRoot][=person's.name]" : {pito}
+| "[=piratsi+gndr@m.+sem@wild.anim.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (ES: huangana, pecarí.de.labios.blancos; PT: queixada; sci.nm.: tayassu.pecari)]" : {piratsi}
+| "[=pirachi+gndr@m.+sem@wild.anim.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (ES: huangana, pecarí.de.labios.blancos; PT: queixada; sci.nm.: tayassu.pecari)]" : {pirachi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pito+gndr@m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque)]" : {pito}
-| "[=pitoni+gndr@m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas, aotus.sp.)]" : {pitoni}
-| "[=pityoni+gndr@m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas)]" : {pityoni}
-| "[=pitonii+gndr@m.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas)]" : {ipitonii}
-! 
-| "[=marampito][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui)]" : {marampito}
+| "[=Pito+sem@NP.person][NRoot][=person's.name]" : {pito}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pityochichovaki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudotylosurus.microps)]" : {pityochichovaki}
+| "[=pito+gndr@m.+sem@wild.anim.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque)]" : {pito}
+| "[=pitoni+gndr@m.+sem@wild.anim.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas, aotus.sp.)]" : {pitoni}
+| "[=pityoni+gndr@m.+sem@wild.anim.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas)]" : {pityoni}
+| "[=pitonii+gndr@m.+sem@wild.anim.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui/muzmuque; sci.nm.: actus.trivirgatas)]" : {ipitonii}
+! 
+| "[=marampito+gndr@m.+sem@wild.anim.][NRoot][=nocturnal.monkey.sp., lemuridae.sp. (ES: musmuque/musmuqui)]" : {marampito}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pityotsi][NRoot][=proper.name]" : {pityotsi}
+| "[=pityochichovaki+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudotylosurus.microps)]" : {pityochichovaki}
+# ------------------------------------------------------------------------------------------
+! 
+| "[=pityotsi+sem@NP.person][NRoot][=proper.name]" : {pityotsi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pityoki][NRoot][=little.thing]" : {pityoki}
@@ -4757,11 +4758,11 @@ define NRootPRQin [
 | "[=pito+gndr@n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)]" : {pito}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitoka][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta, xanthosoma.sagittifolium.Schott.)]" : {pitoka}
-| "[=pitoso][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta)]" : {pitoso}
+| "[=pitoka+gndr@n.m.+sem@plant][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta, xanthosoma.sagittifolium.Schott.)]" : {pitoka}
+| "[=pitoso+gndr@n.m.+sem@plant][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta)]" : {pitoso}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitonto+gndr@n.m.][NRoot][=liana.sp. (ES: especie.de.bejuco, ojo.de.vaca)]" : {pitonto}
+| "[=pitonto+gndr@n.m.+sem@plant][NRoot][=liana.sp. (ES: especie.de.bejuco, ojo.de.vaca)]" : {pitonto}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pitoro][NRoot][=small.bird.sp.]" : {pitoro}
