@@ -2893,14 +2893,14 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 # cascabel de piel marrón claro con manchas negras y dibujos geométricos en amarillo.
-| "[=koshipirinke][NRoot][=pit.viper.sp. (ES: jergona, víbora.venenosa; sci.nm.: crotalus.durissus), jergón]" : {koshipirinke}
+| "[=koshipirinke+gndr@m.+sem@reptile][NRoot][=pit.viper.sp. (ES: jergona, víbora.venenosa; sci.nm.: crotalus.durissus), jergón]" : {koshipirinke}
 # ---------------------------------------------------------------------------
 ! 
 # serpiente de manchas marrón oscuro a lo largo del cuerpo 
-| "[=karaapariki][NRoot][=venomous.snake.sp. (ES: sp.serpiente.venenosa; sci.nm.: helicops.angulatus)]" : {karaapariki}
+| "[=karaapariki+gndr@m.+sem@reptile][NRoot][=venomous.snake.sp. (ES: sp.serpiente.venenosa; sci.nm.: helicops.angulatus)]" : {karaapariki}
 # ---------------------------------------------------------------------------
 ! 
-| "[=karapariti][NRoot][=venomous.snake.sp., venomous.pitviper.sp. (ES: jergón, sp.culebra.venenosa)]" : {karapariti}
+| "[=karapariti+gndr@m.+sem@reptile][NRoot][=venomous.snake.sp., venomous.pitviper.sp. (ES: jergón, sp.culebra.venenosa)]" : {karapariti}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kaariperori+~{NEG.COP:kaari}{AUG:pero}{NMZ:ri}][NRoot][=bad (ES: malo, mala)]" : {kaariperori}
@@ -2908,27 +2908,27 @@ define NRootPRQin [
 | "[=kaaripirori+~{NEG.COP:kaari}{AUG:pIro}{NMZ:ri}][NRoot][=bad (ES: malo, mala)]" : {kaaripirori}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koshiri+gndr@m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshiri}
-| "[=koshire+gndr@m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshire}
+| "[=koshiri+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshiri}
+| "[=koshire+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]" : {koshire}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koshirihempe][NRoot][=big.venomous.spider (ES: araña.grande-y-venenosa)]" : {koshirihempe}
-| "[=koshireempe][NRoot][=big.venomous.spider (ES: araña.grande-y-venenosa)]" : {koshireempe}
-| "[=koshiriimpi][NRoot][=big.venomous.spider (ES: araña.grande-y-venenosa)]" : {koshiriimpi}
+| "[=koshirihempe+gndr@m.+sem@insect][NRoot][=big.venomous.spider (ES: araña.grande-y-venenosa)]" : {koshirihempe}
+| "[=koshireempe+gndr@m.+sem@insect][NRoot][=big.venomous.spider (ES: araña.grande-y-venenosa)]" : {koshireempe}
+| "[=koshiriimpi+gndr@m.+sem@insect][NRoot][=big.venomous.spider (ES: araña.grande-y-venenosa)]" : {koshiriimpi}
 ! 
-| "[=koshirihempeki][NRoot][=monkey.spider (ES: araña.mono)]" : {koshirihempeki}
+| "[=koshirihempeki+gndr@m.+sem@insect][NRoot][=monkey.spider (ES: araña.mono)]" : {koshirihempeki}
 # ---------------------------------------------------------------------------
 ! 
 | "[=koshoshiko][NRoot][=dolphin.sp. (ES: bufeo,delfin)]" : {koshoshiko}
 | "[=koshoshika][NRoot][=dolphin.sp. (ES: bufeo,delfin)]" : {koshoshika}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koteri][NRoot][=bird.sp. (ES: unchala)]" : {koteri}
-| "[=kotiri][NRoot][=bird.sp. (ES: unchala)]" : {kotiri}
-| "[=koatsere][NRoot][=bird.sp. (ES: unchala, huanchala; sci.nm.: aramides.cajanea)]" : {koatsere}
-| "[=kovatsere][NRoot][=bird.sp. (ES: unchala, huanchala)]" : {kovatsere}
-| "[=kovachere][NRoot][=bird.sp. (ES: unchala, huanchala)]" : {kovachere}
-| "[=kovacheri][NRoot][=gray-necked.wood.rail, bird.sp. (unchala, sci.nm.: aramides.cajanea)]" : {kovacheri}
+| "[=koteri+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: unchala)]" : {koteri}
+| "[=kotiri+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: unchala)]" : {kotiri}
+| "[=koatsere+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: unchala, huanchala; sci.nm.: aramides.cajanea)]" : {koatsere}
+| "[=kovatsere+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: unchala, huanchala)]" : {kovatsere}
+| "[=kovachere+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: unchala, huanchala)]" : {kovachere}
+| "[=kovacheri+gndr@m.+sem@bird][NRoot][=gray-necked.wood.rail, bird.sp. (unchala, sci.nm.: aramides.cajanea)]" : {kovacheri}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kotzi+gndr@n.m.+inal@tsi.][NRoot][=cane, stick (ES: bastón)]" : {kotzi}
