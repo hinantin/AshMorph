@@ -2867,25 +2867,25 @@ define NRootPRQin [
 | "[=korokorotzi+gndr@m.+sem@bird][NRoot][=green.ibis (long-legged.wading.bird.sp.; ES: sp.de.garza, ibis.verde; sci.nm.: mesembrinibis.cayennensis)]" : {korokorotzi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koroviri][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: characidium.sp.)]" : {koroviri}
+| "[=koroviri+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: characidium.sp.)]" : {koroviri}
 # ---------------------------------------------------------------------------
 ! 
 | "[=cruz/koroshi+gndr@n.m.][NRoot][=cross (ES: cruz)]" : {koroshi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kosampi][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {kosampi}
+| "[=kosampi+gndr@m.+sem@insect][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {kosampi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kosaniri+gndr@m.][NRoot][=crocodile, alligator, (white).lizard (ES: lagarto.blanco; PT: jacaré), caiman]" : {kosaniri}
-| "[=kohaniri+gndr@m.][NRoot][=crocodile, alligator, (white).lizard (ES: lagarto.blanco; PT: jacaré)]" : {kohaniri}
-| "[=saniri+gndr@m.][NRoot][=crocodile, alligator, (white).lizard (ES: lagarto.blanco); edible.black.lizard (ES: lagarto.negro.comestible; sci.nm.: melanosuchus.niger)]" : {saniri}
+| "[=kosaniri+gndr@m.+sem@reptile][NRoot][=crocodile, alligator, (white).lizard (ES: lagarto.blanco; PT: jacaré), caiman]" : {kosaniri}
+| "[=kohaniri+gndr@m.+sem@reptile][NRoot][=crocodile, alligator, (white).lizard (ES: lagarto.blanco; PT: jacaré)]" : {kohaniri}
+| "[=saniri+gndr@m.+sem@reptile][NRoot][=crocodile, alligator, (white).lizard (ES: lagarto.blanco); edible.black.lizard (ES: lagarto.negro.comestible; sci.nm.: melanosuchus.niger)]" : {saniri}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koshanti][NRoot][=person's.name, NP]" : {koshanti}
-| "[=koshantzi][NRoot][=person's.name, NP]" : {koshantzi}
+| "[=koshanti+sem@NP.person][NRoot][=person's.name, NP]" : {koshanti}
+| "[=koshantzi+sem@NP.person][NRoot][=person's.name, NP]" : {koshantzi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koshintsi][NRoot][=bird.sp. (it.steals.hair/small_used_fabric_pieces.from.other.bird.species.to.build.its.nest)]" : {koshintsi}
+| "[=koshintsi+gndr@m.+sem@bird][NRoot][=bird.sp. (it.steals.hair/small_used_fabric_pieces.from.other.bird.species.to.build.its.nest)]" : {koshintsi}
 # ---------------------------------------------------------------------------
 ! 
 | "[=koshintsi+gndr@m.][NRoot][=thief, robber (ES: ratero, ladrón)]" : {koshintsi}
