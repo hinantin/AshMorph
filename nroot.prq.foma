@@ -2008,22 +2008,22 @@ define NRootPRQin [
 | "[=kaniriapashaki+gndr@m.+sem@bird][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
 # ---------------------------------------------------------------------
 ! 
-| "[=kaniro+gndr@m.][NRoot][=white-bellied.parrot ([ka.ˈnɪ.ɾə]; ES: lorito.chiricles, papagayo.de.cabeza.negra; sci.nm.: pionites.leucogester)]" : {kaniro}
+| "[=kaniro+gndr@m.+sem@bird][NRoot][=white-bellied.parrot ([ka.ˈnɪ.ɾə]; ES: lorito.chiricles, papagayo.de.cabeza.negra; sci.nm.: pionites.leucogester)]" : {kaniro}
 # ---------------------------------------------------------------------
 ! 
-| "[=kairi+gndr@m.][NRoot][=tree-climbing.animal.sp.similar.in.apperance.to.an.anteater (ES: shivi)]" : {kairi}
+| "[=kairi+gndr@m.+sem@wild.anim.][NRoot][=tree-climbing.animal.sp.similar.in.apperance.to.an.anteater (ES: shivi)]" : {kairi}
 # ---------------------------------------------------------------------
 ! 
-| "[=kairo+gndr@m.+poss@ti.][NRoot][=termite.sp. (ES: comején)]" : {kairo}
-| "[=kaero+gndr@m.+poss@ti.][NRoot][=termite.sp. (ES: comején)]" : {kaero}
-| "[=kahiro+gndr@m.+poss@ti.][NRoot][=termite.sp. (ES: comején)]" : {kahiro}
+| "[=kairo+gndr@m.+poss@ti.+sem@insect][NRoot][=termite.sp. (ES: comején)]" : {kairo}
+| "[=kaero+gndr@m.+poss@ti.+sem@insect][NRoot][=termite.sp. (ES: comején)]" : {kaero}
+| "[=kahiro+gndr@m.+poss@ti.+sem@insect][NRoot][=termite.sp. (ES: comején)]" : {kahiro}
 # ---------------------------------------------------------------------
 ! 
 ! kajemamentotsi / kahemamentotsi / =kahem -a -mento -tsi / EN: 'bell'; ES: 'campana'
 !| "[=kahemamento+~{V:/'to.scream':kahem/}{EP:a}{CONCR:mento}+inal@tsi.][NRoot][=bell (ES: campana)]" : {kahemamento} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
-| "[=kahereti][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: subfamilia.polybiinae, stelopolybia.sp., polibia.sp.)]" : {kahereti}
+| "[=kahereti+gndr@m.+sem@insect][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: subfamilia.polybiinae, stelopolybia.sp., polibia.sp.)]" : {kahereti}
 # ---------------------------------------------------------------------
 ! 
 | "[=kanoha][NRoot][=high.part (ES: altura, parte.alta; PT: parte.alta); high-&-barren.hilltops]" : {kanoha}
@@ -2056,7 +2056,7 @@ define NRootPRQin [
 | "[=kaharashi+gndr@n.m.][NRoot][=trash, garbage (ES: basura)]" : {kaharashi}
 # ---------------------------------------------------------------------
 ! 
-| "[=kapiro][NRoot][=bamboo.sp. (ES: paca, especie.de.bambú)]" : {kapiro}
+| "[=kapiro+gndr@n.m.+sem@plant][NRoot][=bamboo.sp. (ES: paca, especie.de.bambú)]" : {kapiro}
 # ---------------------------------------------------------------------
 ! 
 # ----------------------------------------------
@@ -2088,30 +2088,30 @@ define NRootPRQin [
 | "[=kapironkari][NRoot][=deer-like.demon (ES: peyari.transformado.en.un.venado)]" : {kapironkari}
 # ---------------------------------------------------------------------
 ! 
-| "[=kapeshi+gndr@m.+poss@ti.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci.nm.: nasua.nasua); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapeshi}
-| "[=kapishi+gndr@m.+poss@ti.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci.nm.: nasua.nasua); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapishi}
+| "[=kapeshi+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci.nm.: nasua.nasua); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapeshi}
+| "[=kapishi+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci.nm.: nasua.nasua); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]" : {kapishi}
 # ---------------------------------------------------------------------
 ! 
-| "[=kapotzi+gndr@n.m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {kapotzi}
-| "[=kapoti+gndr@n.m.][NRoot][=large.edible.larva.sp. (ES: sp.de.larva.grande.comestible)]" : {kapoti}
+| "[=kapotzi+gndr@n.m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {kapotzi}
+| "[=kapoti+gndr@n.m.+sem@worm-shaped][NRoot][=large.edible.larva.sp. (ES: sp.de.larva.grande.comestible)]" : {kapoti}
 # ---------------------------------------------------------------------
 ! 
 | "[=kapontso][NRoot][=dull/unsharpened.arrow (ES: flecha.sin.punta)]" : {kapontso}
 # ---------------------------------------------------------------------
 ! 
-| "[=karakaratzi][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {karakaratzi}
+| "[=karakaratzi+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {karakaratzi}
 # ---------------------------------------------------------------------
 ! 
 | "[=karapa+gndr@n.m.][NRoot][=communal.house.for.males (including.shamans/people_committed_to_the_service_of_the_fire_divinity)]" : {karapa}
 | "[=karapa+gndr@n.m.][NRoot][=communal.house (ES: casa.comunal)]" : {karapa}
 # ---------------------------------------------------------------------
 ! 
-| "[=karava+gndr@m.][NRoot][=river.frog.sp. (ES: sp.de.rana.del.río)]" : {karava}
-| "[=kaava+gndr@m.][NRoot][=river.frog.sp. (ES: sp.de.rana.del.río)]" : {kaava}
+| "[=karava+gndr@m.+sem@amphibian][NRoot][=river.frog.sp. (ES: sp.de.rana.del.río)]" : {karava}
+| "[=kaava+gndr@m.+sem@amphibian][NRoot][=river.frog.sp. (ES: sp.de.rana.del.río)]" : {kaava}
 # ---------------------------------------------------------------------
 ! 
 # kainipirotsa: vine.sp.used.in.the.preparation.of.an.anti-inflammatory.medicine; the.cure/medicine.is.made.from.the.bark.peeled.from.the.vine-and-applied.to.the.wound 
-| "[=kainipirotsa+gndr@n.m.][NRoot][=vine.sp. (ES: bejuco.para.las.fracturas, EN: vine)]" : {kainipirotsa}
+| "[=kainipirotsa+gndr@n.m.+sem@plant][NRoot][=vine.sp. (ES: bejuco.para.las.fracturas, EN: vine)]" : {kainipirotsa}
 # ---------------------------------------------------------------------
 ! 
 | "[=kaento][NRoot][=tuber.sp. (it.grows.on.river/stream.banks; ES: sp.de.tubérculo)]" : {kaento}
