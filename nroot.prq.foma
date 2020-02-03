@@ -3903,9 +3903,6 @@ define NRootPRQin [
 | "[=oirontsi+poss@ti.+sem@crustacean][NRoot][=crab.sp. (ES: especie.de.cangrejo)]" : {oirontsi}
 # ---------------------------------------------------------------------
 ! 
-| "[=oisha][NRoot][=lamb, sheep]" : {oisha}
-# ---------------------------------------------------------------------
-! 
 | "[=oitzimpinyari+gndr@m.+sem@bird][NRoot][=white-shouldered.antshrike (sci.nm.: thamnophilus.aethiops)]" : {oitzimpinyari}
 ! 
 | "[=oitzompinyare+gndr@m.+sem@bird][NRoot][=Lawrence's.trush (sci.nm.: Turdus.lawrenencii)]" : {oitzompinyare}
@@ -3962,7 +3959,7 @@ define NRootPRQin [
 | "[=omotya][NRoot][=well, hole.in.the.ground.from.which.a.supply.of.water/sth.is.extracted (ES: pozo)]" : {omotya}
 # ---------------------------------------------------------------------
 ! 
-| "[=ompikiri][NRoot][=green-and-gold.tanager (sci.nm.: tangara.schrankii)]" : {ompikiri}
+| "[=ompikiri+sem@bird][NRoot][=green-and-gold.tanager (sci.nm.: tangara.schrankii)]" : {ompikiri}
 # ---------------------------------------------------------------------
 ! 
 | "[=onampina][NRoot][=side (ES: costado)]" : {onampina}
@@ -4056,7 +4053,7 @@ define NRootPRQin [
 | "[=ponchakirontsi][NRoot][=arrow.with.three-tips (ES: flecha.que.tiene.tres.puntas)]" : {ponchakirontsi}
 # ---------------------------------------------------------------------
 ! 
-| "[=poniro][NRoot][=blue.bird.sp.; spangled.cotinga (sci.nm.: cotinga.cayana)]" : {poniro}
+| "[=poniro+gndr@m.+sem@bird][NRoot][=blue.bird.sp.; spangled.cotinga (sci.nm.: cotinga.cayana)]" : {poniro}
 # ---------------------------------------------------------------------
 ! 
 | "[=ponyoiro+gndr@m.][NRoot][=animal.sp.]" : {ponyoiro}
@@ -4229,26 +4226,28 @@ define NRootPRQin [
 | "[=ovanavo+gndr@n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good; food (ES: comida)]" : {ovanavo}
 # ---------------------------------------------------------------------
 ! 
-| "[=ovanto][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.boans)]" : {ovanto}
+| "[=ovanto+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: hyla.boans)]" : {ovanto}
 # ---------------------------------------------------------------------
 ! 
-| "[=ovaatzi+gndr@m.][NRoot][=weasel-like.animal.sp. (ES: omairo); (ES: lobo.de.monte)]" : {ovaatzi}
-| "[=vaatzi+gndr@m.][NRoot][=weasel-like.animal.sp. (ES: omairo); (ES: lobo.de.monte)]" : {vaatzi}
-| "[=ovati+gndr@m.][NRoot][=weasel-like.animal.sp. (ES: omairo); (ES: lobo.de.monte)]" : {ovati}
+| "[=ovaatzi+gndr@m.+sem@wild.anim.][NRoot][=weasel-like.animal.sp. (ES: omairo); (ES: lobo.de.monte)]" : {ovaatzi}
+| "[=vaatzi+gndr@m.+sem@wild.anim.][NRoot][=weasel-like.animal.sp. (ES: omairo); (ES: lobo.de.monte)]" : {vaatzi}
+| "[=ovati+gndr@m.+sem@wild.anim.][NRoot][=weasel-like.animal.sp. (ES: omairo); (ES: lobo.de.monte)]" : {ovati}
 # ---------------------------------------------------------------------
 ! 
 | "[=ovinteni][NRoot][=flat.extension, plane (QU: pampa); valley]" : {ovinteni}
 # ---------------------------------------------------------------------
 ! 
-| "[=oviyari+gndr@m.][NRoot][=screaming.piha (ES: sp.de.pajarito; sci.nm.: lipaugus.vociferas)]" : {oviyari}
-| "[=oviya+gndr@m.][NRoot][=screaming.piha (ES: sp.de.pajarito; sci.nm.: lipaugus.vociferas)]" : {oviya}
+| "[=oviyari+gndr@m.+sem@bird][NRoot][=screaming.piha (ES: sp.de.pajarito; sci.nm.: lipaugus.vociferas)]" : {oviyari}
+| "[=oviya+gndr@m.+sem@bird][NRoot][=screaming.piha (ES: sp.de.pajarito; sci.nm.: lipaugus.vociferas)]" : {oviya}
 # ---------------------------------------------------------------------
 ! 
 | "[=ovisha+poss@te.][NRoot][=ram (ES: carnero, oveja)]" : {ovisha}
 | "[=oisha+poss@te.][NRoot][=ram (ES: carnero, oveja)]" : {oisha}
+! 
+| "[=oisha][NRoot][=lamb, sheep]" : {oisha}
 # ---------------------------------------------------------------------
 ! 
-| "[=ovityo][NRoot][=person's.name, NP]" : {ovityo}
+| "[=ovityo+sem@NP.person][NRoot][=person's.name, NP]" : {ovityo}
 # ---------------------------------------------------------------------
 ! 
 !| "[=oyari][NRoot][=her.food]" : {oyari} ! to be revised!!!
@@ -4280,10 +4279,10 @@ define NRootPRQin [
 | "[=oyechari][NRoot][=legume.sp. (ES: leguminosa; sci.nm.: fam.de.las.judías)]" : {oyechari}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=papato][NRoot][=frog.sp. (ES: sp.de.rana, sapo.grande)]" : {papato}
-| "[=paapato][NRoot][=frog.sp. (ES: sp.de.rana)]" : {paapato}
-| "[=paapatsi][NRoot][=frog.sp. (ES: sp.de.rana)]" : {paapatsi}
-| "[=paapatzi][NRoot][=frog.sp. (ES: sp.de.rana)]" : {paapatzi}
+| "[=papato+gndr@m.+sem@amphibian][NRoot][=frog.sp. (ES: sp.de.rana, sapo.grande)]" : {papato}
+| "[=paapato+gndr@m.+sem@amphibian][NRoot][=frog.sp. (ES: sp.de.rana)]" : {paapato}
+| "[=paapatsi+gndr@m.+sem@amphibian][NRoot][=frog.sp. (ES: sp.de.rana)]" : {paapatsi}
+| "[=paapatzi+gndr@m.+sem@amphibian][NRoot][=frog.sp. (ES: sp.de.rana)]" : {paapatzi}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pamari+gndr@n.m.][NRoot][=fire (ES: candela, fuego)]" : {pamari}
@@ -4305,8 +4304,8 @@ define NRootPRQin [
 | "[=pachaka+gndr@m.+sem@bird][NRoot][=striated.heron (ES: sp.de.ave.color.blanco; sci.nm.: butorides.striatus)]" : {pachaka}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pachakama][NRoot][=person's.name; stone.divinity]" : {pachakama}
-| "[=pachaka][NRoot][=person's.name; stone.divinity]" : {pachaka}
+| "[=pachakama+sem@NP.person][NRoot][=person's.name; stone.divinity]" : {pachakama}
+| "[=pachaka+sem@NP.person][NRoot][=person's.name; stone.divinity]" : {pachaka}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pachakitzi+gndr@m.+sem@bird][NRoot][=masked.tityra, black-&-white.little.bird (ES: sp.de.pajarito.de.color.blanco-y-negro; sci.nm.: tityra.semifasciata)]" : {pachakitzi}
