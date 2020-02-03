@@ -2117,8 +2117,8 @@ define NRootPRQin [
 | "[=kaento][NRoot][=tuber.sp. (it.grows.on.river/stream.banks; ES: sp.de.tubérculo)]" : {kaento}
 # ---------------------------------------------------------------------
 ! 
-| "[=karento+gndr@n.m.][NRoot][=liana.sp. (ES: bejuco, madreselva)]" : {karento}
-| "[=kainto+gndr@n.m.][NRoot][=liana.sp. (ES: bejuco, madreselva); herb.sp.]" : {kainto}
+| "[=karento+gndr@n.m.+sem@plant][NRoot][=liana.sp. (ES: bejuco, madreselva)]" : {karento}
+| "[=kainto+gndr@n.m.+sem@plant][NRoot][=liana.sp. (ES: bejuco, madreselva); herb.sp.]" : {kainto}
 # ---------------------------------------------------------------------
 ! 
 | "[=karentsare+gndr@m.+inal@ntsi.][NRoot][=phlegm (ES: flema)]" : {karentsare}
@@ -2133,11 +2133,11 @@ define NRootPRQin [
 | "[=kasonki+gndr@m.][NRoot][=tuber.sp. (it.is.used.to.treat.boils/furuncles; ES: tubérculo.contra.el.chupo/furúnculo)]" : {kasonki}
 # ---------------------------------------------------------------------
 ! 
-| "[=kasanto+gndr@n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
+| "[=kasanto+gndr@n.m.+sem@bird][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
 # ---------------------------------------------------------------------
 ! 
-| "[=kashekari+gndr@m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashekari}
-| "[=kashikari+gndr@m.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashikari}
+| "[=kashekari+gndr@m.+sem@wild.anim.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashekari}
+| "[=kashikari+gndr@m.+sem@wild.anim.][NRoot][=jaguar (a.manitzi.that.has.devoured.a.human; ES: jaguar; PT: onça); tiger (ES: tigre)]" : {kashikari}
 # ---------------------------------------------------------------------
 ! 
 | "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap (ES: savia.lechosa.del.árbol), sap]" : {kashi} ! N@->V
@@ -2154,22 +2154,22 @@ define NRootPRQin [
 | "[=kashivari][NRoot][=hairy.person (ES: persona.velluda, peludo)]" : {kashivari} 
 # ---------------------------------------------------------------------
 ! 
-| "[=kosho][NRoot][=cashew.tree.sp. (ES: anacardo, marañon; sci.nm.: anacardium.sp.)]" : {kosho} 
+| "[=kosho+gndr@n.m.+sem@plant][NRoot][=cashew.tree.sp. (ES: anacardo, marañon; sci.nm.: anacardium.sp.)]" : {kosho} 
 # --------------------------------------------------------------------- 
 ! 
 | "[=kasonkati][NRoot][=deer/mule-shaped.devil]" : {kasonkati}
 # --------------------------------------------------------------------- 
 ! 
-| "[=katantori][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: plecostomus.sp.)]" : {katantori}
+| "[=katantori+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: plecostomus.sp.)]" : {katantori}
 # --------------------------------------------------------------------- 
 ! 
-| "[=katari][NRoot][=wild.duck; American.darter (ES: cormorán; sci.nm.: anhinga.anhinga, cairina.moschata; PT: pássaro.mergulhão)]" : {katari}
+| "[=katari+gndr@m.+sem@wild.anim.][NRoot][=wild.duck; American.darter (ES: cormorán; sci.nm.: anhinga.anhinga, cairina.moschata; PT: pássaro.mergulhão)]" : {katari}
 # --------------------------------------------------------------------- 
 ! 
-| "[=katzarimoti][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: género.camponotus)]" : {katzarimoti}
+| "[=katzarimoti+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: género.camponotus)]" : {katzarimoti}
 # --------------------------------------------------------------------- 
 ! 
-| "[=kataroshi][NRoot][=herb.sp.]" : {kataroshi}
+| "[=kataroshi+sem@plant][NRoot][=herb.sp.]" : {kataroshi}
 # --------------------------------------------------------------------- 
 ! 
 | "[=kaatsa+gndr@m.+sem@wild.anim.][NRoot][= (ES: sp.de.tigrillo)]" : {kaatsa}
