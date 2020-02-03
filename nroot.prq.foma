@@ -4557,13 +4557,13 @@ define NRootPRQin [
 | "[=pashitakari+poss@ri.][NRoot][=gift (ES: regalo)]" : {pashitakari}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pashito][NRoot][=tick.sp. (ES: garrapata)]" : {pashito}
-| "[=pashiti][NRoot][=tick.sp. (ES: garrapata)]" : {pashiti}
+| "[=pashito+gndr@m.+sem@insect][NRoot][=tick.sp. (ES: garrapata)]" : {pashito}
+| "[=pashiti+gndr@m.+sem@insect][NRoot][=tick.sp. (ES: garrapata)]" : {pashiti}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pashiitoki][NRoot][=tree.sp. (ES: topa); balsa.stick]" : {pashiitoki}
-| "[=paroto+gndr@n.m.][NRoot][=tree.sp. (ES: topa,, balsa; sci.nm.: ochroma.lagopus)]" : {paroto}
-| "[=paato+gndr@n.m.][NRoot][=tree.sp. (ES: topa; sci.nm.: ochroma.sp., bombacaceae)]" : {paato}
+| "[=pashiitoki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: topa); balsa.stick]" : {pashiitoki}
+| "[=paroto+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: topa,, balsa; sci.nm.: ochroma.lagopus)]" : {paroto}
+| "[=paato+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: topa; sci.nm.: ochroma.sp., bombacaceae)]" : {paato}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pashikaro+gndr@n.m.+inal@ntsi.][NRoot][=thick.woollen_blanket (ES: frazada)]" : {pashikaro}
@@ -4571,17 +4571,17 @@ define NRootPRQin [
 | "[=pashikavo+gndr@n.m.+inal@ntsi.][NRoot][=blanket (ES: colcha, cobija, frazada)]" : {pashikavo}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=payari+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {payari}
+| "[=payari+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {payari}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=peerereti][NRoot][=rail.sp. (ES: sp.de.rállido; sci.nm.: aramides, rallus.nigricans)]" : {peerereti}
+| "[=peerereti+gndr@m.+sem@bird][NRoot][=rail.sp. (ES: sp.de.rállido; sci.nm.: aramides, rallus.nigricans)]" : {peerereti}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=peesatotake][NRoot][=old (ES: viejo, antiguo); without.value, with.no-value (ES: sin.valor, no.vale.nada)]" : {peesatotake}
 | "[=peesatiri][NRoot][=primitive (ES: primitivo)]" : {peesatiri}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=picha+gndr@m.][NRoot][=fish.sp. (palometo)]" : {picha}
+| "[=picha+gndr@m.+sem@fish][NRoot][=fish.sp. (palometo)]" : {picha}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pitchoyotzi+gndr@m.+sem@bird][NRoot][=yellow-backed.tanager, bird.sp. (ES: sp.de.ave; sci.nm.: hemithraupis.flavicollis)]" : {pitchoyotzi}
