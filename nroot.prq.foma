@@ -4601,11 +4601,11 @@ define NRootPRQin [
 | "[=peanire][NRoot][=Amazon.native.bee.sp. (sci.nm.: familia.apidae, género.bombus)]" : {peanire}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=peempe+gndr@m.][NRoot][=butterfly.sp.]" : {peempe}
-| "[=pempe+gndr@m.][NRoot][=butterfly.sp.]" : {pempe}
-| "[=piimpi+gndr@m.][NRoot][=butterfly.sp.]" : {piimpi}
-| "[=pempeetzi][NRoot][=butterfly.sp.]" : {pempeetzi}
-| "[=pempero][NRoot][=butterfly.sp.; 88-number-like.butterfly]" : {pempero}
+| "[=peempe+gndr@m.+sem@insect][NRoot][=butterfly.sp.]" : {peempe}
+| "[=pempe+gndr@m.+sem@insect][NRoot][=butterfly.sp.]" : {pempe}
+| "[=piimpi+gndr@m.+sem@insect][NRoot][=butterfly.sp.]" : {piimpi}
+| "[=pempeetzi+gndr@m.+sem@insect][NRoot][=butterfly.sp.]" : {pempeetzi}
+| "[=pempero+gndr@m.+sem@insect][NRoot][=butterfly.sp.; 88-number-like.butterfly]" : {pempero}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=peranti+gndr@m.][NRoot][=idle, lazy (ES: hombre.ocioso)]" : {peranti}
