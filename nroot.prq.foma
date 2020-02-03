@@ -52,6 +52,7 @@
 #    reptiles -> +sem@reptile (e.g.: serpent/snake, turtle/tortoise, crocodile/alligator, iguana) 
 #    amphibians -> +sem@amphibian (e.g.: frog, toad)
 #    gastropoda -> +sem@gastropoda (e.g.: slug, snail.(with.shell))
+#    crustaceans -> +sem@crustacean (lobster, crabs, shrimp, barnacles)
 #    fish -> +sem@fish
 #    insects -> +sem@insect
 #    benevolent/malevolent.spirits -> +sem@spir.
@@ -3559,10 +3560,10 @@ define NRootPRQin [
 | "[=meta+gndr@n.m.][NRoot][=small.stone (ES: piedrita)]" : {meta}
 # ----------------------------------------------------------------- 
 ! 
-| "[=Metaro][NRoot][=village's.name; flat, rounded.slightly.curved.area (ES: plato.de.barro)]" : {metaro}
-| "[=Metavo][NRoot][=village's.name; flat, rounded.slightly.curved.area (ES: plato.de.barro)]" : {metavo}
-| "[=Metraro][NRoot][=village's.name; rounded.slightly.curved.area (ES: plato.de.barro)]" : {metraro}
-| "[=Metararo][NRoot][=village's.name; rounded.slightly.curved.area (ES: plato.de.barro)]" : {metararo}
+| "[=Metaro+sem@NP.place][NRoot][=village's.name; flat, rounded.slightly.curved.area (ES: plato.de.barro)]" : {metaro}
+| "[=Metavo+sem@NP.place][NRoot][=village's.name; flat, rounded.slightly.curved.area (ES: plato.de.barro)]" : {metavo}
+| "[=Metraro+sem@NP.place][NRoot][=village's.name; rounded.slightly.curved.area (ES: plato.de.barro)]" : {metraro}
+| "[=Metararo+sem@NP.place][NRoot][=village's.name; rounded.slightly.curved.area (ES: plato.de.barro)]" : {metararo}
 # ----------------------------------------------------------------- 
 ! 
 | "[=metso][NRoot][=soft, tender (ES: suave, blando)]" : {metso}
@@ -3675,7 +3676,7 @@ define NRootPRQin [
 | "[=omona][NRoot][=hole (ES: hueco)]" : {omona}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mota][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: perugia.sp.)]" : {mota}
+| "[=mota+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: perugia.sp.)]" : {mota}
 # ----------------------------------------------------------------- 
 ! 
 # antaro omotonkanive / =antaro o- =motonka -ni -ve / 
@@ -3755,8 +3756,8 @@ define NRootPRQin [
 | "[=nava+gndr@n.m.+inal@tsi.][NRoot][=freckle, mole (ES: peca)]" : {nava}
 # ---------------------------------------------------------------------
 ! 
-| "[=navireri][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {navireri}
-| "[=naviriri][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {naviriri}
+| "[=navireri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {navireri}
+| "[=naviriri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {naviriri}
 # ---------------------------------------------------------------------
 ! 
 | "[=nehi+inal@tsi.][NRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
@@ -3849,7 +3850,7 @@ define NRootPRQin [
 | "[=neanea+kin@mother's.side:male.ego][NRoot][=aunt, sister.of.the.mother.of.a.male]" : {neanea}
 # ---------------------------------------------------------------------
 ! 
-| "[=nyamo/ñamo+gndr@n.m.][NRoot][=medicinal.plant.sp. (ES: sp.de.planta.medicinal)]" : {nyamo}
+| "[=nyamo/ñamo+gndr@n.m.+sem@plant][NRoot][=medicinal.plant.sp. (ES: sp.de.planta.medicinal)]" : {nyamo}
 # ---------------------------------------------------------------------
 ! 
 # Vocative form 
@@ -3872,19 +3873,19 @@ define NRootPRQin [
 | "[=tsineri+gndr@m.][NRoot][=daughter's.husband (ES: yerno, esposo.de.la.hija)]" : {tsineri} 
 # ---------------------------------------------------------------------
 ! 
-| "[=niotya][NRoot][=person's.name; NP]" : {niotya}
+| "[=niotya+sem@NP.person][NRoot][=person's.name; NP]" : {niotya}
 # ---------------------------------------------------------------------
 ! 
-| "[=noonki+gndr@m.][NRoot][=boa (ES: boa)]" : {noonki}
-| "[=noonke+gndr@m.][NRoot][=boa (ES: boa)]" : {noonke}
+| "[=noonki+gndr@m.+sem@reptile][NRoot][=boa (ES: boa)]" : {noonki}
+| "[=noonke+gndr@m.+sem@reptile][NRoot][=boa (ES: boa)]" : {noonke}
 # ---------------------------------------------------------------------
 ! 
-| "[=noshikari][NRoot][=crested.owl (ES: sp.de.búho; sci.nm.: lophostrix.cristata)]" : {noshikari}
+| "[=noshikari+gndr@m.+sem@bird][NRoot][=crested.owl (ES: sp.de.búho; sci.nm.: lophostrix.cristata)]" : {noshikari}
 # ---------------------------------------------------------------------
 ! 
-| "[=oati+gndr@m.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, omairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {oati}
-| "[=ovaati+gndr@m.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, omairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaati}
-| "[=ovaatzi+gndr@m.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaatzi}
+| "[=oati+gndr@m.+sem@wild.anim.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, omairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {oati}
+| "[=ovaati+gndr@m.+sem@wild.anim.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, omairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaati}
+| "[=ovaatzi+gndr@m.+sem@wild.anim.][NRoot][=tayra, weasel/mammal.sp. (ES: tayra, humairo, lobo.del.monte; sci.nm.: gallictus.barbara, eira.barbara)]" : {ovaatzi}
 # ---------------------------------------------------------------------
 ! 
 | "[=ochera][NRoot][=shore (ES: orilla)]" : {ochera}
@@ -3899,19 +3900,19 @@ define NRootPRQin [
 | "[=isaviki][NRoot][= (ES: madre.de.la.naturaleza)]" : {isaviki}
 # ---------------------------------------------------------------------
 ! 
-| "[=oirontsi+poss@ti.][NRoot][=crab.sp. (ES: especie.de.cangrejo)]" : {oirontsi}
+| "[=oirontsi+poss@ti.+sem@crustacean][NRoot][=crab.sp. (ES: especie.de.cangrejo)]" : {oirontsi}
 # ---------------------------------------------------------------------
 ! 
 | "[=oisha][NRoot][=lamb, sheep]" : {oisha}
 # ---------------------------------------------------------------------
 ! 
-| "[=oitzimpinyari][NRoot][=white-shouldered.antshrike (sci.nm.: thamnophilus.aethiops)]" : {oitzimpinyari}
+| "[=oitzimpinyari+gndr@m.+sem@bird][NRoot][=white-shouldered.antshrike (sci.nm.: thamnophilus.aethiops)]" : {oitzimpinyari}
 ! 
-| "[=oitzompinyare][NRoot][=Lawrence's.trush (sci.nm.: Turdus.lawrenencii)]" : {oitzompinyare}
+| "[=oitzompinyare+gndr@m.+sem@bird][NRoot][=Lawrence's.trush (sci.nm.: Turdus.lawrenencii)]" : {oitzompinyare}
 # ---------------------------------------------------------------------
 ! 
-| "[=Okayaari][NRoot][=NP (ES: Ucayali)]" : {okayaari}
-| "[=Ucayali/ukayari][NRoot][=NP (ES: Ucayali)]" : {ukayari}
+| "[=Okayaari+sem@NP.place][NRoot][=NP (ES: Ucayali)]" : {okayaari}
+| "[=Ucayali/ukayari+sem@NP.place][NRoot][=NP (ES: Ucayali)]" : {ukayari}
 # ---------------------------------------------------------------------
 ! 
 # oketsi / =oke -tsi / =eye -nposs / EN: 'eye', ES: 'ojo' 
@@ -3946,9 +3947,9 @@ define NRootPRQin [
 | "[=oonkavo][NRoot][=flood (ES: inundación; PT: inundação); downpour (ES: chaparrón; PT: aguaceiro)]" : {oonkavo}
 # ---------------------------------------------------------------------
 ! 
-| "[=omani+gndr@m.][NRoot][=black.catfish (ES: zúngaro, huacava; sci.nm.: brachyplatystoma.filamentosa)]" : {omani}
+| "[=omani+gndr@m.+sem@fish][NRoot][=black.catfish (ES: zúngaro, huacava; sci.nm.: brachyplatystoma.filamentosa)]" : {omani}
 ! 
-| "[=omani_kitamarori][NRoot][=fish.sp. (ES: sp.de.pez, saltón; sci.nm.: piratinga.piraiba)]" : {omani_kitamarori}
+| "[=omani_kitamarori+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez, saltón; sci.nm.: piratinga.piraiba)]" : {omani_kitamarori}
 # ---------------------------------------------------------------------
 ! 
 | "[=omititsa+gndr@n.m.][NRoot][=wavy.summit.of.hill]" : {omititsa}
