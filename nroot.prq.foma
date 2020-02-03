@@ -2938,18 +2938,18 @@ define NRootPRQin [
 | "[=koti][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.)]" : {koti}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kovana+gndr@m.][NRoot][=lisa-fish (ES: lisa; sci.nm.: anostomidae, leporinus.friderici)]" : {kovana}
+| "[=kovana+gndr@m.+sem@fish][NRoot][=lisa-fish (ES: lisa; sci.nm.: anostomidae, leporinus.friderici)]" : {kovana}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kovantsi+gndr@n.m.][NRoot][=tree/plant.sp. (ES: planta.del.pájaro.bobo, bobinsana~bobinzana.grande, sp.de.arbusto)]" : {kovantsi}
-| "[=kovantzi+gndr@n.m.][NRoot][=tree/plant.sp. (ES: planta.del.pájaro.bobo, bobinsana~bobinzana.grande, sp.de.arbusto)]" : {kovantzi}
-| "[=kotzivatse][NRoot][=tree/plant.sp. (ES: bobinsana.chica)]" : {kotzivatse}
+| "[=kovantsi+gndr@n.m.+sem@plant][NRoot][=tree/plant.sp. (ES: planta.del.pájaro.bobo, bobinsana~bobinzana.grande, sp.de.arbusto)]" : {kovantsi}
+| "[=kovantzi+gndr@n.m.+sem@plant][NRoot][=tree/plant.sp. (ES: planta.del.pájaro.bobo, bobinsana~bobinzana.grande, sp.de.arbusto)]" : {kovantzi}
+| "[=kotzivatse+gndr@n.m.+sem@plant][NRoot][=tree/plant.sp. (ES: bobinsana.chica)]" : {kotzivatse}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kovari][NRoot][=white-necked.trush (sci.nm.: turdus.albicollis)]" : {kovari}
+| "[=kovari+gndr@m.+sem@bird][NRoot][=white-necked.trush (sci.nm.: turdus.albicollis)]" : {kovari}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kovashito][NRoot][=person's.name, NP]" : {kovashito}
+| "[=kovashito+sem@NP.person][NRoot][=person's.name, NP]" : {kovashito}
 # ---------------------------------------------------------------------------
 ! 
 | "[=koventsari][NRoot][=hunter (ES: cazador)]" : {koventsari}
@@ -2960,10 +2960,10 @@ define NRootPRQin [
 | "[=komintsanto+gndr@n.m.][NRoot][=huntress (ES: cazadora)]" : {komintsanto}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kovinko][NRoot][=white-necked.puffbird (sci.nm.: notharcus.macrorhinchus)]" : {kovinko}
+| "[=kovinko+gndr@m.+sem@bird][NRoot][=white-necked.puffbird (sci.nm.: notharcus.macrorhinchus)]" : {kovinko}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kovinkotzi][NRoot][=musician.wren (sci.nm.: cyphorhinus.arada)]" : {kovinkotzi}
+| "[=kovinkotzi+gndr@m.+sem@bird][NRoot][=musician.wren (sci.nm.: cyphorhinus.arada)]" : {kovinkotzi}
 # ---------------------------------------------------------------------------
 ! inal?
 | "[=kovitsi+gndr@n.m.+poss@te.][NRoot][=(clay).pot (ES: olla.(de.barro), tinaja)]" : {kovitsi}
@@ -2972,22 +2972,22 @@ define NRootPRQin [
 | "[=kovi+gndr@n.m.+poss@te.][NRoot][=clay.pot]" : {kovi}
 ! 
 # la avispa 'kovitsinari' construye panales de barro de forma esférica que semejan pequeñas ollas de barro 
-| "[=kovitsinari][NRoot][=potter.wasp.sp. (ES: sp.de.avispa.alfarera; sci.nm.: familia.sphécide, subfamilia.sceliphronine)]" : {kovitsinari}
+| "[=kovitsinari+gndr@m.+sem@insect][NRoot][=potter.wasp.sp. (ES: sp.de.avispa.alfarera; sci.nm.: familia.sphécide, subfamilia.sceliphronine)]" : {kovitsinari}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koviri+gndr@m.][NRoot][=corvina-fish (ES: corvina,, sábalo; sci.nm.: salminus.sp.,, astianax.sp.)]" : {koviri}
-| "[=tora+gndr@m.][NRoot][=corvina-fish (ES: corvina)]" : {tora}
+| "[=koviri+gndr@m.+sem@fish][NRoot][=corvina-fish (ES: corvina,, sábalo; sci.nm.: salminus.sp.,, astianax.sp.)]" : {koviri}
+| "[=tora+gndr@m.+sem@fish][NRoot][=corvina-fish (ES: corvina)]" : {tora}
 # ---------------------------------------------------------------------------
 ! 
 # flor contra el escozor al comer piña 
-| "[=koviriki+gndr@n.m.][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu, botoncillo; sci.nm.: spilanthes.oleracea)]" : {koviriki}
-| "[=koiriki+gndr@n.m.][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu, botoncillo; sci.nm.: spilanthes.oleracea)]" : {koiriki}
+| "[=koviriki+gndr@n.m.+sem@plant][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu, botoncillo; sci.nm.: spilanthes.oleracea)]" : {koviriki}
+| "[=koiriki+gndr@n.m.+sem@plant][NRoot][=toothache/eyeball-plant (ES: botón.de.oro, jambuasu, botoncillo; sci.nm.: spilanthes.oleracea)]" : {koiriki}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koteri][NRoot][=gray-necked.wood.rail (sci.nm.: aramides.jacanca)]" : {koteri}
+| "[=koteri+gndr@m.+sem@bird][NRoot][=gray-necked.wood.rail (sci.nm.: aramides.jacanca)]" : {koteri}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kotsero+gndr@n.m.+poss@te.][NRoot][=squirrel.sp. (ES: muca, sp.de.ardilla; sci.nm.: caluromys.lanatus)]" : {kotsero}
+| "[=kotsero+gndr@n.m.+poss@te.+sem@wild.anim.][NRoot][=squirrel.sp. (ES: muca, sp.de.ardilla; sci.nm.: caluromys.lanatus)]" : {kotsero}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kotsiro+gndr@n.m.+poss@te.][NRoot][=machete, knife (ES: cuchillo)]" : {kotsiro}
@@ -2998,25 +2998,25 @@ define NRootPRQin [
 | "[=maa][NRoot][=clothes (e.g.: robe)]" : {maa}
 # ---------------------------------------------------------------------------
 ! 
-| "[=matatsi][NRoot][=leishmaniasis-transmitting.fly/mosquito (ES: mosca.que.transmite.la.uta)]" : {matatsi}
+| "[=matatsi+gndr@m.+sem@insect][NRoot][=leishmaniasis-transmitting.fly/mosquito (ES: mosca.que.transmite.la.uta)]" : {matatsi}
 # ---------------------------------------------------------------------------
 ! 
 | "[=matsa+inal@ntsi.][NRoot][=clothes (ES: ropa)]" : {matsa}
 | "[=matsaa+inal@ntsi.][NRoot][=clothes (ES: ropa)]" : {matsaa}
 # -----------------------------------------------------------------------
 ! 
-| "[=maatzi][NRoot][=medium-size.speckled.chachalaca (ES: manacaraco; sci.nm.: ortalis.guttata)]" : {maatzi}
-| "[=maati][NRoot][=medium-size.speckled.chachalaca (ES: manacaraco; sci.nm.: ortalis.guttata)]" : {maati}
-| "[=maratzi+gndr@m.][NRoot][=medium-size.speckled.chachalaca (ES: manacaraco, manajaraco; sci.nm.: ortalis.guttata)]" : {maratzi}
-| "[=marati+gndr@m.][NRoot][=medium-size.speckled.chachalaca, bird.sp. (ES: manacaraco; sci.nm.: ortalis.guttata, penélope.montagnii); chachalaca.pinta-guan]" : {marati}
+| "[=maatzi+gndr@m.+sem@bird][NRoot][=medium-size.speckled.chachalaca (ES: manacaraco; sci.nm.: ortalis.guttata)]" : {maatzi}
+| "[=maati+gndr@m.+sem@bird][NRoot][=medium-size.speckled.chachalaca (ES: manacaraco; sci.nm.: ortalis.guttata)]" : {maati}
+| "[=maratzi+gndr@m.+sem@bird][NRoot][=medium-size.speckled.chachalaca (ES: manacaraco, manajaraco; sci.nm.: ortalis.guttata)]" : {maratzi}
+| "[=marati+gndr@m.+sem@bird][NRoot][=medium-size.speckled.chachalaca, bird.sp. (ES: manacaraco; sci.nm.: ortalis.guttata, penélope.montagnii); chachalaca.pinta-guan]" : {marati}
 # -----------------------------------------------------------------------
 ! 
-| "[=macha+gndr@n.m.][NRoot][=big-bean.plant.sp. (ES: frejol)]" : {macha}
-| "[=machaa+gndr@n.m.][NRoot][=big-bean.plant.sp. (ES: frejol)]" : {machaa}
-| "[=machaki+gndr@n.m.+poss@te.][NRoot][=big.bean (frijol.grande, botany.id.: canavalia.sp.); proto-bean (ES: frijol, poroto; sci.nm.: phaseolus.vulgaris.l.)]" : {machaki}
-| "[=machai+gndr@n.m.][NRoot][=big-bean.plant.sp. (ES: frejol)]" : {machai}
-| "[=machaaki+gndr@n.m.+poss@te.][NRoot][=big.bean (ES: frijol.grande, botany.id.: canavalia.sp.; PT: feijão.peruano)]" : {machaaki}
-| "[=matxaaki+gndr@n.m.+poss@te.][NRoot:CPB][=big.bean (ES: frijol.grande, botany.id.: canavalia.sp.; PT: feijão.peruano)]" : {matxaaki}
+| "[=macha+gndr@n.m.+sem@plant][NRoot][=big-bean.plant.sp. (ES: frejol)]" : {macha}
+| "[=machaa+gndr@n.m.+sem@plant][NRoot][=big-bean.plant.sp. (ES: frejol)]" : {machaa}
+| "[=machaki+gndr@n.m.+poss@te.+sem@plant][NRoot][=big.bean (frijol.grande, botany.id.: canavalia.sp.); proto-bean (ES: frijol, poroto; sci.nm.: phaseolus.vulgaris.l.)]" : {machaki}
+| "[=machai+gndr@n.m.+sem@plant][NRoot][=big-bean.plant.sp. (ES: frejol)]" : {machai}
+| "[=machaaki+gndr@n.m.+poss@te.+sem@plant][NRoot][=big.bean (ES: frijol.grande, botany.id.: canavalia.sp.; PT: feijão.peruano)]" : {machaaki}
+| "[=matxaaki+gndr@n.m.+poss@te.+sem@plant][NRoot:CPB][=big.bean (ES: frijol.grande, botany.id.: canavalia.sp.; PT: feijão.peruano)]" : {matxaaki}
 # -----------------------------------------------------------------------
 ! 
 | "[=macheroki+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: achotillo.leche)]" : {macheroki}
@@ -3039,9 +3039,9 @@ define NRootPRQin [
 | "[=santani+gndr@m.+sem@bird][NRoot][=potoo.sp. (ES: chotacabra); edible.nocturnal.bird (ES: ave.nocturna.comestible)]" : {santani}
 # -----------------------------------------------------------------------
 ! 
-| "[=mahoki+gndr@m.][NRoot][=tadpole.of.a.toad.sp., toad (ES: sp.de.renacuajo, sapo)]" : {mahoki}
-| "[=masoki+gndr@m.][NRoot][=tadpole.of.a.toad.sp., toad (ES: sp.de.renacuajo, sapo)]" : {masoki}
-| "[=soveroki][NRoot][=tadpole.of.a.toad.sp.]" : {soveroki} ! to be checked 
+| "[=mahoki+gndr@m.+sem@amphibian][NRoot][=tadpole.of.a.toad.sp., toad (ES: sp.de.renacuajo, sapo)]" : {mahoki}
+| "[=masoki+gndr@m.+sem@amphibian][NRoot][=tadpole.of.a.toad.sp., toad (ES: sp.de.renacuajo, sapo)]" : {masoki}
+| "[=soveroki+gndr@m.+sem@amphibian][NRoot][=tadpole.of.a.toad.sp.]" : {soveroki} ! to be checked 
 # -----------------------------------------------------------------------
 ! 
 | "[=mainari+gndr@m.][NRoot][=single.man; old.bachelor (ES: solterón)]" : {mainari}
@@ -3054,58 +3054,58 @@ define NRootPRQin [
 | "[=maenavo+gndr@n.m.][NRoot][=single.woman; spinster (ES: solterona)]" : {maenavo}
 # -----------------------------------------------------------------------
 ! 
-| "[=maini+gndr@m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maini}
-| "[=maeni+gndr@m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maeni}
-| "[=meeni+gndr@m.][NRoot][=bear.sp. (ES: sp.de.oso); spectacled.bear (ES: oso.de.anteojos; QU: ukumari; sci.nm.: tremarctus.ornatus)]" : {meeni}
+| "[=maini+gndr@m.+sem@wild.anim.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maini}
+| "[=maeni+gndr@m.+sem@wild.anim.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]" : {maeni}
+| "[=meeni+gndr@m.+sem@wild.anim.][NRoot][=bear.sp. (ES: sp.de.oso); spectacled.bear (ES: oso.de.anteojos; QU: ukumari; sci.nm.: tremarctus.ornatus)]" : {meeni}
 # -----------------------------------------------------------------------
 ! 
-| "[=mainto+gndr@m.][NRoot][=fish.sp. (big.bujurqui-fish; ES: bujurqui.grande, sp.de.pez)]" : {mainto}
+| "[=mainto+gndr@m.+sem@fish][NRoot][=fish.sp. (big.bujurqui-fish; ES: bujurqui.grande, sp.de.pez)]" : {mainto}
 # -----------------------------------------------------------------------
 ! 
-| "[=maipicho+gndr@m.][NRoot][=bird.sp. (ES: sp.de.perico)]" : {maipicho}
+| "[=maipicho+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: sp.de.perico)]" : {maipicho}
 # -----------------------------------------------------------------------
 ! 
-| "[=makako][NRoot][=macaque]" : {makako}
+| "[=makako+gndr@m.+sem@wild.anim.][NRoot][=macaque]" : {makako}
 # -----------------------------------------------------------------------
 ! 
-| "[=makavari+gndr@m.][NRoot][=bird.sp.; black.eagle.sp.that.feeds.on.snakes (ES: ave.rapaz/carroñera; sci.nm.: leucopternis.albicollis)]" : {makavari}
+| "[=makavari+gndr@m.+sem@bird][NRoot][=bird.sp.; black.eagle.sp.that.feeds.on.snakes (ES: ave.rapaz/carroñera; sci.nm.: leucopternis.albicollis)]" : {makavari}
 # -----------------------------------------------------------------------
 ! 
-| "[=maakavatzi][NRoot][=laughing.falcon (herpetotheres.cachinnans)]" : {maakavatzi}
+| "[=maakavatzi+gndr@m.+sem@bird][NRoot][=laughing.falcon (sci.nm.: herpetotheres.cachinnans)]" : {maakavatzi}
 # -----------------------------------------------------------------------
 ! 
-| "[=maapata+gndr@m.][NRoot][=insect.sp.]" : {maapata}
+| "[=maapata+gndr@m.+sem@insect][NRoot][=insect.sp.]" : {maapata}
 # -----------------------------------------------------------------------
 ! 
-| "[=makota][NRoot][=reptile.sp., lizard.sp., chameleon.sp. (ES: camaleón)]" : {makota}
-| "[=shakota][NRoot][=reptile.sp., lizard.sp., chameleon.sp. (ES: camaleón)]" : {shakota}
+| "[=makota+gndr@m.+sem@reptile][NRoot][=reptile.sp., lizard.sp., chameleon.sp. (ES: camaleón)]" : {makota}
+| "[=shakota+gndr@m.+sem@reptile][NRoot][=reptile.sp., lizard.sp., chameleon.sp. (ES: camaleón)]" : {shakota}
 # -----------------------------------------------------------------------
 ! 
-| "[=makokava][NRoot][=partridge.sp. (ES: panguana, perdiz)]" : {makokava}
-| "[=maakokava][NRoot][=partridge.sp. (ES: panguana, perdiz)]" : {maakokava}
-| "[=maakookava][NRoot][=partridge.sp. (ES: panguana, perdiz)]" : {maakookava}
+| "[=makokava+gndr@m.+sem@bird][NRoot][=partridge.sp. (ES: panguana, perdiz)]" : {makokava}
+| "[=maakokava+gndr@m.+sem@bird][NRoot][=partridge.sp. (ES: panguana, perdiz)]" : {maakokava}
+| "[=maakookava+gndr@m.+sem@bird][NRoot][=partridge.sp. (ES: panguana, perdiz)]" : {maakookava}
 # -----------------------------------------------------------------------
 # aateekotzi: evonkiri.inatzi 
-| "[=aateekotzi][NRoot][=medium-sized.partridge.sp. (ES: panguana, perdiz)]" : {aateekotzi}
-| "[=aatiikotzi][NRoot][=medium-sized.partridge.sp. (ES: panguana, perdiz)]" : {aatiikotzi}
+| "[=aateekotzi+gndr@m.+sem@bird][NRoot][=medium-sized.partridge.sp. (ES: panguana, perdiz)]" : {aateekotzi}
+| "[=aatiikotzi+gndr@m.+sem@bird][NRoot][=medium-sized.partridge.sp. (ES: panguana, perdiz)]" : {aatiikotzi}
 # -----------------------------------------------------------------------
 ! 
-| "[=makoso][NRoot][=chestnut-capped.puffbird (sci.nm.: bucco.macrodactylus)]" : {makoso}
+| "[=makoso+gndr@m.+sem@bird][NRoot][=chestnut-capped.puffbird (sci.nm.: bucco.macrodactylus)]" : {makoso}
 # -----------------------------------------------------------------------
 ! 
 | "[=maaniri+gndr@n.m.][NRoot][=black.cinnamon.sp., medicinal.tree.sp.]" : {maaniri}
 | "[=maaniri][NRoot][=person's.name, NP]" : {maaniri}
 # -----------------------------------------------------------------------
 ! 
-| "[=mamori+gndr@m.][NRoot][=fish.sp., sabalo (ES: sábalo; sci.nm.: brycon.sp.)]" : {mamori}
+| "[=mamori+gndr@m.+sem@fish][NRoot][=fish.sp., sabalo (ES: sábalo; sci.nm.: brycon.sp.)]" : {mamori}
 # -----------------------------------------------------------------------
 ! 
 ! forest.owl.which.murders.by.plucking.out.a.victim's.eyes
-| "[=mamaro+gndr@m.][NRoot][=(forest).owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamaro}
-| "[=mamavo+gndr@m.][NRoot][=(forest).owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamavo}
+| "[=mamaro+gndr@m.+sem@bird][NRoot][=(forest).owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamaro}
+| "[=mamavo+gndr@m.+sem@bird][NRoot][=(forest).owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamavo}
 # -----------------------------------------------------------------------
 ! 
-| "[=mampavo+gndr@m.][NRoot][=cricket.sp. (sp.de.grillo)]" : {mampavo}
+| "[=mampavo+gndr@m.+sem@insect][NRoot][=cricket.sp. (sp.de.grillo)]" : {mampavo}
 # -----------------------------------------------------------------------
 ! 
 | "[=mampitsa+gndr@n.m.+poss@te.][NRoot][=thread;| cotton.thread (ES: hilo.de.algodón);| distaff (ES: huso, rueca; QU: puchka)]" : {mampitsa} ! @section:noun@ 
