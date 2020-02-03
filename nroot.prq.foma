@@ -4765,15 +4765,15 @@ define NRootPRQin [
 | "[=pitonto+gndr@n.m.+sem@plant][NRoot][=liana.sp. (ES: especie.de.bejuco, ojo.de.vaca)]" : {pitonto}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitoro][NRoot][=small.bird.sp.]" : {pitoro}
-| "[=pitovo][NRoot][=small.bird.sp.]" : {pitovo}
+| "[=pitoro+gndr@m.+sem@bird][NRoot][=small.bird.sp.]" : {pitoro}
+| "[=pitovo+gndr@m.+sem@bird][NRoot][=small.bird.sp.]" : {pitovo}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitororo][NRoot][=lemmon-throted.barbet (bird.sp., sci.nm.: eubucco.richardsoni)]" : {pitororo}
-| "[=pitororoti][NRoot][=lemmon-throted.barbet (bird.sp., sci.nm.: eubucco.richardsoni)]" : {pitororoti}
+| "[=pitororo+gndr@m.+sem@bird][NRoot][=lemmon-throted.barbet (bird.sp., sci.nm.: eubucco.richardsoni)]" : {pitororo}
+| "[=pitororoti+gndr@m.+sem@bird][NRoot][=lemmon-throted.barbet (bird.sp., sci.nm.: eubucco.richardsoni)]" : {pitororoti}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitsi+gndr@m.+poss@ne.][NRoot][=beehive; bee.sp.; honey (ES: miel)]" : {pitsi}
+| "[=pitsi+gndr@m.+poss@ne.+sem@insect][NRoot][=beehive; bee.sp.; honey (ES: miel)]" : {pitsi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pitsire+inal@ntsi.][NRoot][=dirtiness (ES: suciedad)]" : {pitsire} ! novitsire / no- =pitsire / 1sg.poss- =dirtiness
