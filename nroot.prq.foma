@@ -3321,27 +3321,27 @@ define NRootPRQin [
 # ----------------------------------------------------------------- 
 ! 
 ! mankiawo / mankiavo / =manki -a -vo / =serpent -cl:liquid -nmz / EN: 'lake.where.serpents.are.abundant'; ES: 'laguna.donde.abundan.las.culebras'  
-| "[=maanki+gndr@m.][NRoot][=snake (ES: sp.de.culebra; PT: cobras.em.geral), serpent]" : {maanki}
-| "[=manki+gndr@m.][NRoot][=snake (ES: serpiente; PT: cobras.em.geral), serpent]" : {manki}
-| "[=maanke+gndr@m.][NRoot][=snake (ES: sp.de.culebra), serpent]" : {maanke}
-!| "[=mankishi+~{N:/'snake':manki/}{CL:/'leaf':shi/}][NRoot][=snakebite.medicinal.plant]" : {mankishi} ! @section:noun@ 
-!| "[=mankeshi+~{N:/'snake':manke/}{CL:/'leaf':shi/}][NRoot][=snakebite.medicinal.plant]" : {mankeshi} ! @section:noun@ 
-| "[=maranke+gndr@m.][NRoot][=snake.sp., serpent]" : {maranke}
-| "[=maranki+gndr@m.][NRoot][=snake.sp.]" : {maranki}
+| "[=maanki+gndr@m.+sem@reptile][NRoot][=snake (ES: sp.de.culebra; PT: cobras.em.geral), serpent]" : {maanki}
+| "[=manki+gndr@m.+sem@reptile][NRoot][=snake (ES: serpiente; PT: cobras.em.geral), serpent]" : {manki}
+| "[=maanke+gndr@m.+sem@reptile][NRoot][=snake (ES: sp.de.culebra), serpent]" : {maanke}
+!| "[=mankishi+~{N:/'snake':manki/}{CL:/'leaf':shi/}+gndr@n.m.+sem@plant][NRoot][=snakebite.medicinal.plant]" : {mankishi} ! @section:noun@ 
+!| "[=mankeshi+~{N:/'snake':manke/}{CL:/'leaf':shi/}+gndr@n.m.+sem@plant][NRoot][=snakebite.medicinal.plant]" : {mankeshi} ! @section:noun@ 
+| "[=maranke+gndr@m.+sem@reptile][NRoot][=snake.sp., serpent]" : {maranke}
+| "[=maranki+gndr@m.+sem@reptile][NRoot][=snake.sp.]" : {maranki}
 ! 
-| "[=marankiaro][NRoot][=name.of.village]" : {marankiaro}
-| "[=marankiari][NRoot][=name.of.village]" : {marankiari}
+| "[=marankiaro+sem@NP.place][NRoot][=name.of.village]" : {marankiaro}
+| "[=marankiari+sem@NP.place][NRoot][=name.of.village]" : {marankiari}
 # ----------------------------------------------------------------- 
 ! 
-| "[=Mariiya+gndr@n.m.][NRoot][=Mary]" : {mariiya}
+| "[=Mariiya+gndr@n.m.+sem@NP.person][NRoot][=Mary]" : {mariiya}
 # ----------------------------------------------------------------- 
 ! 
 | "[=mapooteshi+gndr@n.m.][NRoot][=rooftop (ES: cumbre.del.techo)]" : {mapooteshi}
 | "[=mapoteshi+gndr@n.m.][NRoot][=rooftop (ES: cumbre.del.techo)]" : {mapoteshi}
 # ----------------------------------------------------------------- 
 ! 
-!| "[=masoko+gndr@m.][NRoot][=small.bird.sp.]" : {masoko}
-| "[=masoko+gndr@m.][NRoot][=small.bird.sp. (ES: sp.de.pajarito)]" : {masoko}
+!| "[=masoko+gndr@m.+sem@bird][NRoot][=small.bird.sp.]" : {masoko}
+| "[=masoko+gndr@m.+sem@bird][NRoot][=small.bird.sp. (ES: sp.de.pajarito)]" : {masoko}
 # ----------------------------------------------------------------- 
 ! 
 | "[=masonti+gndr@m.][NRoot][=mute, fool (ES: mudo)]" : {masonti}
@@ -3351,20 +3351,20 @@ define NRootPRQin [
 | "[=mahontzi+gndr@m.][NRoot][=mute, fool (ES: mudo)]" : {mahontzi}
 # ----------------------------------------------------------------- 
 ! 
-| "[=masova+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {masova}
+| "[=masova+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {masova}
 # ----------------------------------------------------------------- 
 ! 
-| "[=Mateeyo+gndr@m.][NRoot][=Matthew]" : {mateeyo}
+| "[=Mateeyo+gndr@m.+sem@NP.person][NRoot][=Matthew]" : {mateeyo}
 # ----------------------------------------------------------------- 
 ! 
-| "[=Moisés/Moishishi+gndr@m.][NRoot][=Moses]" : {moishishi}
+| "[=Moisés/Moishishi+gndr@m.+sem@NP.person][NRoot][=Moses]" : {moishishi}
 # ----------------------------------------------------------------- 
 ! 
 !| "[=maamento+~{V:/'to.sleep':ma/}{EP:a}{CONCR:mento}+inal@tsi.][NRoot][=bed (ES: cama)]" : {maamento} ! @section:noun@ 
 # ----------------------------------------------------------------- 
 ! 
-| "[=maviki][NRoot][=vine.sp. (it.produces.black.hard.shiny.seeds; sci.nm.: cardiospermum.sp.)]" : {maviki}
-| "[=maaviki][NRoot][=vine.sp. (it.produces.black.hard.shiny.seeds; sci.nm.: cardiospermum.sp.)]" : {maaviki}
+| "[=maviki+gndr@n.m.+sem@plant][NRoot][=vine.sp. (it.produces.black.hard.shiny.seeds; sci.nm.: cardiospermum.sp.)]" : {maviki}
+| "[=maaviki+gndr@n.m.+sem@plant][NRoot][=vine.sp. (it.produces.black.hard.shiny.seeds; sci.nm.: cardiospermum.sp.)]" : {maaviki}
 # ----------------------------------------------------------------- 
 ! 
 | "[=mavira+gndr@n.m.][NRoot][=festival.that.marks.the.beginning.of.the.season.of.scarcity (ES: festejo.de.la.planta.chakopi); arrow.flower.festival]" : {mavira}
@@ -3380,11 +3380,11 @@ define NRootPRQin [
 | "[=manao][NRoot][=potato.sp., edible.tuber; yam-vegetable (ES: sachapapa; QU: sach'a.papa; sci.nm.: arachis.hypogaea, dioscorea.sp.)]" : {manao}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mavoro+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudocetopsis.sp.)]" : {mavoro}
+| "[=mavoro+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudocetopsis.sp.)]" : {mavoro}
 # ----------------------------------------------------------------- 
 ! 
-| "[=maontzi+gndr@m.][NRoot][=common.potoo, gray_colored.nocturnal.bird.sp. (ayayaymama(n); sci.nm.: nyctibius.griseus)]" : {maontzi}
-| "[=maonti+gndr@m.][NRoot][=common.potoo, gray_colored.nocturnal.bird.sp. (ayayaymama(n); sci.nm.: nyctibius.griseus)]" : {maonti}
+| "[=maontzi+gndr@m.+sem@bird][NRoot][=common.potoo, gray_colored.nocturnal.bird.sp. (ayayaymama(n); sci.nm.: nyctibius.griseus)]" : {maontzi}
+| "[=maonti+gndr@m.+sem@bird][NRoot][=common.potoo, gray_colored.nocturnal.bird.sp. (ayayaymama(n); sci.nm.: nyctibius.griseus)]" : {maonti}
 # ----------------------------------------------------------------- 
 ! 
 | "[=mayempiri+gndr@m.][NRoot][=womanizer (ES: mujeriego)]" : {mayempiri}
@@ -3399,20 +3399,20 @@ define NRootPRQin [
 | "[=manyoi+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {manyoi}
 # ----------------------------------------------------------------- 
 ! 
-| "[=manyoo+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {manyoo}
-| "[=manyo/maño+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {manyo}
-| "[=maanyo+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {maanyo}
-| "[=maneo+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {maneo}
-| "[=manyo/mãyo+gndr@m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {mãyo}
+| "[=manyoo+gndr@m.+sem@insect][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {manyoo}
+| "[=manyo/maño+gndr@m.+sem@insect][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {manyo}
+| "[=maanyo+gndr@m.+sem@insect][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {maanyo}
+| "[=maneo+gndr@m.+sem@insect][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {maneo}
+| "[=manyo/mãyo+gndr@m.+sem@insect][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]" : {mãyo}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mari+gndr@m.][NRoot][=small.bird.sp. (ES: sp.de.pajarito)]" : {mari}
+| "[=mari+gndr@m.+sem@bird][NRoot][=small.bird.sp. (ES: sp.de.pajarito)]" : {mari}
 # ----------------------------------------------------------------- 
 ! 
-| "[=masa+gndr@m.][NRoot][=heron.sp. (ES: sp.de.garza)]" : {masa}
+| "[=masa+gndr@m.+sem@bird][NRoot][=heron.sp. (ES: sp.de.garza)]" : {masa}
 # ----------------------------------------------------------------- 
 ! 
-| "[=masanta+gndr@m.][NRoot][=fish.sp. (ES: raya, pez)]" : {masanta}
+| "[=masanta+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: raya, pez)]" : {masanta}
 # ----------------------------------------------------------------- 
 ! 
 | "[=masanka][NRoot][=bland (ES: insípido, sin.gusto)]" : {masanka}
@@ -3423,8 +3423,8 @@ define NRootPRQin [
 | "[=masavinka+gndr@n.m.+inal@ntsi.][NRoot][=sweat (ES: sudor; PT: suor)]" : {masavinka}
 # ----------------------------------------------------------------- 
 ! 
-| "[=mavo+gndr@m.][NRoot][=earthworm.sp. (ES: sp.de.gusano.de.tierra); insect (ES: insecto)]" : {mavo}
-| "[=maavo+gndr@m.][NRoot][=earthworm.sp. (ES: sp.de.gusano.de.tierra); insect (ES: insecto)]" : {maavo}
+| "[=mavo+gndr@m.+sem@worm-shaped][NRoot][=earthworm.sp. (ES: sp.de.gusano.de.tierra); insect (ES: insecto)]" : {mavo}
+| "[=maavo+gndr@m.+sem@worm-shaped][NRoot][=earthworm.sp. (ES: sp.de.gusano.de.tierra); insect (ES: insecto)]" : {maavo}
 # ----------------------------------------------------------------- 
 ! 
 | "[=mavopa+gndr@n.m.][NRoot][=plantain.sp. (ES: sp.de.plátano)]" : {mavopa}
