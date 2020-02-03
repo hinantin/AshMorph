@@ -3200,72 +3200,72 @@ define NRootPRQin [
 !| "[=mapiporoki+~{N:/'stone':mapi/}{CL:/'assortment':poroki/}+gndr@n.m.][NRoot][=stone.pile, stony.(ground|area) (ES: pedregal)]" : {mapiporoki} ! @section:noun@ 
 # -----------------------------------------------------------------------
 ! 
-| "[=mapichiri][NRoot][=boa (ES: boa); aquatic.snake (ES: serpiente.acuática, anaconda.de.color.marrón-verde.oliva.con.pequeñas.manchas.negras.y.amarillas; sci.nm.: eunectes.murinus)]" : {mapichiri}
+| "[=mapichiri+gndr@m.+sem@reptile][NRoot][=boa (ES: boa); aquatic.snake (ES: serpiente.acuática, anaconda.de.color.marrón-verde.oliva.con.pequeñas.manchas.negras.y.amarillas; sci.nm.: eunectes.murinus)]" : {mapichiri}
 # -----------------------------------------------------------------------
 ! 
 | "[=mapocha+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya; ES: papaya; PT: mamão)]" : {mapocha} ! @section:noun@ 
 | "[=mapotxa+gndr@n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya; ES: papaya; PT: mamão)]" : {mapotxa}
 # -----------------------------------------------------------------------
 ! 
-| "[=mapova+gndr@n.m.][NRoot][=tree.sp. (ES: huimba; sci.nm.: ceiba.integrifolia, bombacaceae)]" : {mapova}
-| "[=mapovaki+gndr@n.m.][NRoot][=tree.sp. (ES: huimba; sci.nm.: ceiba.integrifolia, bombacaceae)]" : {mapovaki}
+| "[=mapova+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: huimba; sci.nm.: ceiba.integrifolia, bombacaceae)]" : {mapova}
+| "[=mapovaki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: huimba; sci.nm.: ceiba.integrifolia, bombacaceae)]" : {mapovaki}
 # -----------------------------------------------------------------------
 ! 
-| "[=mashashatzi][NRoot][=toad.sp. ZOOL (ES: sp.de.sapo)]" : {mashashatzi} 
+| "[=mashashatzi+gndr@m.+sem@amphibian][NRoot][=toad.sp. ZOOL (ES: sp.de.sapo)]" : {mashashatzi} 
 # -----------------------------------------------------------------------
 ! 
-| "[=masheri][NRoot][=ant.sp. (QU: kuki, ES: coqui, hormiga)]" : {masheri} ! cricket.sp. 
+| "[=masheri+gndr@m.+sem@insect][NRoot][=ant.sp. (QU: kuki, ES: coqui, hormiga)]" : {masheri} ! cricket.sp. 
 # -----------------------------------------------------------------------
 ! 
-| "[=masheri][NRoot][=toad.sp.]" : {masheri}
-| "[=mashero+gndr@m.][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio; sci.nm.: bufo.marinus)]" : {mashero}
-| "[=masero+gndr@m.][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio; sci.nm.: bufo.marinus)]" : {masero}
+| "[=masheri+gndr@m.+sem@amphibian][NRoot][=toad.sp.]" : {masheri}
+| "[=mashero+gndr@m.+sem@amphibian][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio; sci.nm.: bufo.marinus)]" : {mashero}
+| "[=masero+gndr@m.+sem@amphibian][NRoot][=edible.toad.sp. (its.ears.contain.poison; ES: sapo, batracio; sci.nm.: bufo.marinus)]" : {masero}
 # -----------------------------------------------------------------------
 ! 
 # omashi shinki / ES: 'cáscara.de.maíz' 
 | "[=mashi+inal@tsi.][NRoot][=skin (ES: cáscara; piel)]" : {mashi}
 # -----------------------------------------------------------------------
 ! 
-| "[=mashichaiki][NRoot][=Andean.weevil (ES: gorgojo; sci.nm.: premnotrypes.spp.)]" : {mashichaiki}
+| "[=mashichaiki+gndr@m.+sem@insect][NRoot][=Andean.weevil (ES: gorgojo; sci.nm.: premnotrypes.spp.)]" : {mashichaiki}
 # -----------------------------------------------------------------------
 ! 
-| "[=matsontsori+gndr@m.][NRoot][=jaguar (ES: tigrillo; sci.nm.: leopardus.pardalis, Leopardus.wiedii)]" : {matsontsori}
+| "[=matsontsori+gndr@m.+sem@wild.anim.][NRoot][=jaguar (ES: tigrillo; sci.nm.: leopardus.pardalis, Leopardus.wiedii)]" : {matsontsori}
 # -----------------------------------------------------------------------
 ! 
 # Toads 
-| "[=tarairiki][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {tarairiki}
+| "[=tarairiki+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo)]" : {tarairiki}
 # -----------------------------------------------------------------------
 ! 
 # Snails
-| "[=mapoto+gndr@m.][NRoot][=edible.medium-size.land.snail (ES: sp.de.caracol.terrestre.comestible, molusco, congompe; sci.nm.: megalobulimus.popelairianus)]" : {mapoto}
-| "[=sankiro+gndr@m.+poss@ti.][NRoot][=snail; small-size.snail (ES: caracol.chico, molusco; sci.nm.: thaumastus.melancheilus)]" : {sankiro}
-| "[=hankiro+gndr@m.+poss@ti.][NRoot][=snail; small-size.snail (ES: caracol.chico, molusco; sci.nm.: thaumastus.melancheilus)]" : {hankiro}
-| "[=tsoiroki+gndr@m.][NRoot][=edible.small-size.aquatic.snail (ES: molusco, caracol.acuático.comestible; sci.nm.: pomacea.sp.)]" : {tsoiroki}
-| "[=mamporo+gndr@m.][NRoot][=big-size.snail]" : {mamporo}
-| "[=pomporo+gndr@m.][NRoot][=big-size.snail]" : {pomporo}
+| "[=mapoto+gndr@m.+sem@gastropoda][NRoot][=edible.medium-size.land.snail (ES: sp.de.caracol.terrestre.comestible, molusco, congompe; sci.nm.: megalobulimus.popelairianus)]" : {mapoto}
+| "[=sankiro+gndr@m.+poss@ti.+sem@gastropoda][NRoot][=snail; small-size.snail (ES: caracol.chico, molusco; sci.nm.: thaumastus.melancheilus)]" : {sankiro}
+| "[=hankiro+gndr@m.+poss@ti.+sem@gastropoda][NRoot][=snail; small-size.snail (ES: caracol.chico, molusco; sci.nm.: thaumastus.melancheilus)]" : {hankiro}
+| "[=tsoiroki+gndr@m.+sem@gastropoda][NRoot][=edible.small-size.aquatic.snail (ES: molusco, caracol.acuático.comestible; sci.nm.: pomacea.sp.)]" : {tsoiroki}
+| "[=mamporo+gndr@m.+sem@gastropoda][NRoot][=big-size.snail]" : {mamporo}
+| "[=pomporo+gndr@m.+sem@gastropoda][NRoot][=big-size.snail]" : {pomporo}
 ! novompoote / no- =pompoo -te / 1sg.poss- =land.snail -aln.poss. / EN: 'my.land_snail'  
-| "[=pompoo+gndr@m.+poss@te:ti.][NRoot][=land.snail (ES: caracol.de.monte)]" : {pompoo}
-| "[=pompo+gndr@m.+poss@te:ti.][NRoot][=land.snail (ES: caracol.de.monte)]" : {pompo}
+| "[=pompoo+gndr@m.+poss@te:ti.+sem@gastropoda][NRoot][=land.snail (ES: caracol.de.monte)]" : {pompoo}
+| "[=pompo+gndr@m.+poss@te:ti.+sem@gastropoda][NRoot][=land.snail (ES: caracol.de.monte)]" : {pompo}
 ! 
-| "[=tsoiroki+gndr@m.][NRoot][=small-size.snail]" : {tsoiroki}
-| "[=tyontiiki+gndr@m.][NRoot][=river.snail]" : {tyontiiki}
+| "[=tsoiroki+gndr@m.+sem@gastropoda][NRoot][=small-size.snail]" : {tsoiroki}
+| "[=tyontiiki+gndr@m.+sem@gastropoda][NRoot][=river.snail]" : {tyontiiki}
 # -----------------------------------------------------------------------
 ! 
-| "[=mata][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {mata}
+| "[=mata+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {mata}
 # -----------------------------------------------------------------------
 ! 
 # materiawo / materiavo / =materi -a -vo / =high-gorges.catfish.sp. -cl:liquid -nmz / EN: 'ravine.where.materi-catfish.is.abundant'; ES: 'quebrada.donde.abunda.el.bagre'   
-| "[=materi][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre; sci.nm.: astroblepus.sp.)]" : {materi}
-| "[=matiri][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre; sci.nm.: astroblepus.sp.)]" : {matiri}
+| "[=materi+gndr@m.+sem@fish][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre; sci.nm.: astroblepus.sp.)]" : {materi}
+| "[=matiri+gndr@m.+sem@fish][NRoot][=high-gorges.catfish.sp. (ES: sp.carachama.de.las.quebradas.altas, bagre; sci.nm.: astroblepus.sp.)]" : {matiri}
 # -----------------------------------------------------------------------
 ! 
-| "[=materinke+gndr@m.][NRoot][=yellow-colored.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinke}
-| "[=materinki+gndr@m.][NRoot][=yellow-colored.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinki}
-| "[=matirinki+gndr@m.][NRoot][=yellow-colored.water.snake.sp. (ES: nacanaca, sp.de.culebra); brown-banded.water-snake]" : {matirinki}
+| "[=materinke+gndr@m.+sem@reptile][NRoot][=yellow-colored.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinke}
+| "[=materinki+gndr@m.+sem@reptile][NRoot][=yellow-colored.water.snake.sp. (ES: nacanaca, sp.de.culebra)]" : {materinki}
+| "[=matirinki+gndr@m.+sem@reptile][NRoot][=yellow-colored.water.snake.sp. (ES: nacanaca, sp.de.culebra); brown-banded.water-snake]" : {matirinki}
 # -----------------------------------------------------------------------
 ! 
-| "[=mato+gndr@m.][NRoot][=nocturnal.butterfly.sp. (ES: mariposa.nocturna)]" : {mato}
-| "[=matori][NRoot][=nocturnal.butterfly.sp. (ES: mariposa.nocturna, mariposa.gris.nocturna.de.cuerpo.grueso; sci.nm.: orden.homoptera, familia.derbidae)]" : {matori}
+| "[=mato+gndr@m.+sem@insect][NRoot][=nocturnal.butterfly.sp. (ES: mariposa.nocturna)]" : {mato}
+| "[=matori+gndr@m.+sem@insect][NRoot][=nocturnal.butterfly.sp. (ES: mariposa.nocturna, mariposa.gris.nocturna.de.cuerpo.grueso; sci.nm.: orden.homoptera, familia.derbidae)]" : {matori}
 # -----------------------------------------------------------------------
 ! 
 | "[=matsari+gndr@m.][NRoot][=thin, slender]" : {matsari}
@@ -3279,10 +3279,10 @@ define NRootPRQin [
 # mariposa.buho 
 # morpho.deidamia 
 # morpho.melenaus 
-| "[=matzaranchi][NRoot][=twilight.butterfly.sp. (ES: mariposa.crepuscular/que_sale_al_anochecer-y-al_amanecer; sci.nm.: caligo.teucer.phorkys)]" : {matzaranchi}
+| "[=matzaranchi+gndr@m.+sem@insect][NRoot][=twilight.butterfly.sp. (ES: mariposa.crepuscular/que_sale_al_anochecer-y-al_amanecer; sci.nm.: caligo.teucer.phorkys)]" : {matzaranchi}
 # -----------------------------------------------------------------------
 ! 
-| "[=matsi+gndr@n.m.][NRoot][=plant.sp.; edible.tuber.sp. (ES: pituca)]" : {matsi}
+| "[=matsi+gndr@n.m.+sem@plant][NRoot][=plant.sp.; edible.tuber.sp. (ES: pituca)]" : {matsi}
 # -----------------------------------------------------------------------
 ! 
 # matsitaantsi / ES: 'brujería, daño, maldad' 
@@ -3292,17 +3292,17 @@ define NRootPRQin [
 | "[=matsishi+gndr@n.m.][NRoot][=leaf.against.witchcraft]" : {matsishi}
 # -----------------------------------------------------------------------
 ! 
-| "[=matzinkori+gndr@m.][NRoot][=wall-lizard.sp. (ES: sp.de.lagartija)]" : {matzinkori} 
+| "[=matzinkori+gndr@m.+sem@reptile][NRoot][=wall-lizard.sp. (ES: sp.de.lagartija)]" : {matzinkori} 
 # -----------------------------------------------------------------------
 ! 
-| "[=matzinkori][NRoot][=tree.sp.poisonous.to.skin]" : {matzinkori} 
-| "[=matsinkori][NRoot][=tree.sp.poisonous.to.skin]" : {matsinkori} 
+| "[=matzinkori+gndr@n.m.+sem@plant][NRoot][=tree.sp.poisonous.to.skin]" : {matzinkori} 
+| "[=matsinkori+gndr@n.m.+sem@plant][NRoot][=tree.sp.poisonous.to.skin]" : {matsinkori} 
 # -----------------------------------------------------------------------
 ! 
 | "[=matzita+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza)]" : {matzita} 
 # -----------------------------------------------------------------------
 ! 
-| "[=matsi+gndr@m.][NRoot][=insect.sp.]" : {matsi} 
+| "[=matsi+gndr@m.+sem@insect][NRoot][=insect.sp.]" : {matsi} 
 # ----------------------------------------------------------------- 
 ! 
 | "[=matsinti+gndr@m.][NRoot][=male.witch (ES: varón.brujo)]" : {matsinti}
@@ -3316,8 +3316,8 @@ define NRootPRQin [
 | "[=otiyaarentsi][NRoot][=migratory-fishes (ES: mijano, peces.migratorios, multitud.de.peces.que.nadan.juntos; migraciòn.estacional.de.peces)]" : {otiyaarentsi} 
 # ----------------------------------------------------------------- 
 ! 
-| "[=mapitzi+gndr@m.][NRoot][=small.bird.sp. (ES: sp.de.pájaro)]" : {mapitzi}
-| "[=mapiti+gndr@m.][NRoot][=small.bird.sp. (ES: sp.de.pájaro)]" : {mapiti}
+| "[=mapitzi+gndr@m.+sem@bird][NRoot][=small.bird.sp. (ES: sp.de.pájaro)]" : {mapitzi}
+| "[=mapiti+gndr@m.+sem@bird][NRoot][=small.bird.sp. (ES: sp.de.pájaro)]" : {mapiti}
 # ----------------------------------------------------------------- 
 ! 
 ! mankiawo / mankiavo / =manki -a -vo / =serpent -cl:liquid -nmz / EN: 'lake.where.serpents.are.abundant'; ES: 'laguna.donde.abundan.las.culebras'  
