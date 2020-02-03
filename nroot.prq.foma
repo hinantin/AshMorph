@@ -49,7 +49,7 @@
 #    ----------------
 #    wild.animals -> +sem@wild.anim.
 #    birds -> +sem@bird
-#    reptiles -> +sem@reptile (e.g.: serpent/snake, turtle, crocodile/alligator, iguana) 
+#    reptiles -> +sem@reptile (e.g.: serpent/snake, turtle/tortoise, crocodile/alligator, iguana) 
 #    amphibians -> +sem@amphibian (e.g.: frog, toad)
 #    gastropoda -> +sem@gastropoda (e.g.: slug, snail.(with.shell))
 #    fish -> +sem@fish
@@ -2692,21 +2692,21 @@ define NRootPRQin [
 | "[=yenchona][NRoot][=elbow (ES: codo)]" : {yenchona}
 # ---------------------------------------------------------------------------
 ! 
-| "[=konakonatzi+gndr@m.][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konakonatzi}
-| "[=konakonati+gndr@m.][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konakonati}
-| "[=konairi+gndr@m.][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konairi}
+| "[=konakonatzi+gndr@m.+sem@bird][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konakonatzi}
+| "[=konakonati+gndr@m.+sem@bird][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konakonati}
+| "[=konairi+gndr@m.+sem@bird][NRoot][=emerald.toucanet (ES: tucán.chico; sci.nm.: aulacorhynchus.prasinus)]" : {konairi}
 # ---------------------------------------------------------------------------
 ! 
 | "[=konivo+gndr@m.][NRoot][=Shipibo-Konibo, Panoan.people.settled.along.the.meandering.Ucayali/Okayaari_river (ES: shipibo)]" : {konivo}
 # ---------------------------------------------------------------------------
 ! 
 ! iyoñapite 
-| "[=konyapi/koñapi+poss@te.][NRoot][=cubé (Peruvian.term.for.venomous.plant; ES: piscícida); lancepod; barbasco, vegetable.poison.root, fish.poison (sci.nm.: lonchocarpus.nicou; ES: piscícida)]" : {konyapi}
+| "[=konyapi/koñapi+poss@te.+gndr@n.m.+sem@plant][NRoot][=cubé (Peruvian.term.for.venomous.plant; ES: piscícida); lancepod; barbasco, vegetable.poison.root, fish.poison (sci.nm.: lonchocarpus.nicou; ES: piscícida)]" : {konyapi}
 | "[=konyampi/koñampi+~{V:/'to.appear':konya/}{'herb':/DEL:a/mpi}][NRoot][=cubé (Peruvian.term.for.venomous.plant), lancepod; barbasco, vegetable.poison.root (sci.nm.: lonchocarpus.nicou)]" : {konyampi}
 !| "[=konatsapiyare+~{V:/'to.appear':kona/}{CL:/'side.of.river':tsapiya/}{NMZ:re}+inal@ntsi.][NRoot][=activity.of.fishing.with.barbasco.at.the.bank.of.the.river (ES: pesca.nocturna.con.barbasco.a.orillas.del.río)]" : {konatsapiyare} ! @section:noun@ 
 # ---------------------------------------------------------------------------
 ! 
-| "[=konoya+gndr@m.][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]" : {konoya}
+| "[=konoya+gndr@m.+sem@reptile][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]" : {konoya}
 # ---------------------------------------------------------------------------
 ! 
 | "[=komaro+gndr@n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)]" : {komaro}
@@ -2714,32 +2714,32 @@ define NRootPRQin [
 | "[=komavo+gndr@n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)]" : {komavo}
 # ---------------------------------------------------------------------------
 ! 
-| "[=komaro+gndr@n.m.][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)]" : {komaro}
-| "[=komavo+gndr@n.m.][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)]" : {komavo}
+| "[=komaro+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)]" : {komaro}
+| "[=komavo+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)]" : {komavo}
 # ---------------------------------------------------------------------------
 ! 
-| "[=komaro+gndr@n.m.][NRoot][=fish.sp. (ES: paco, piraña; sci.nm.: characidae, serrasalmus.sp.)]" : {komaro}
+| "[=komaro+gndr@n.m.+sem@fish][NRoot][=fish.sp. (ES: paco, piraña; sci.nm.: characidae, serrasalmus.sp.)]" : {komaro}
 # ---------------------------------------------------------------------------
 ! 
-| "[=komairo][NRoot][=olive-backed.foliage-gleaner (sci.nm: automolus.infuscatus)]" : {komairo}
+| "[=komairo+gndr@m.+sem@bird][NRoot][=olive-backed.foliage-gleaner (sci.nm: automolus.infuscatus)]" : {komairo}
 # ---------------------------------------------------------------------------
 ! 
-| "[=komainaro][NRoot][=monkey.sp. (ES: mono.choro; sci.nm: lagothrrix.lagothricha)]" : {komainaro}
+| "[=komainaro+gndr@m.+sem@wild.anim.][NRoot][=monkey.sp. (ES: mono.choro; sci.nm: lagothrrix.lagothricha)]" : {komainaro}
 # ---------------------------------------------------------------------------
 ! 
-| "[=komashi][NRoot][=blue.dye.plant.sp. (ES: mullaca, sp.de.planta.tintórea.que.da.color.azul; sci.nm.: muehlenbeckia.volcánica)]" : {komashi}
+| "[=komashi+gndr@m.+sem@plant][NRoot][=blue.dye.plant.sp. (ES: mullaca, sp.de.planta.tintórea.que.da.color.azul; sci.nm.: muehlenbeckia.volcánica)]" : {komashi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=komayiri+gndr@m.+poss@ti.][NRoot][=fish.sp. (ES: paco,, gamitana; sci.nm.: syzlo, chalceus.opalinus,, cichlidae, astronatus.ocellatus)]" : {komayiri}
-| "[=komairi+gndr@m.+poss@ti.][NRoot][=fish.sp. (ES: paco,, gamitana; sci.nm.: syzlo, chalceus.opalinus,, cichlidae, astronatus.ocellatus)]" : {komairi}
+| "[=komayiri+gndr@m.+poss@ti.+sem@fish][NRoot][=fish.sp. (ES: paco,, gamitana; sci.nm.: syzlo, chalceus.opalinus,, cichlidae, astronatus.ocellatus)]" : {komayiri}
+| "[=komairi+gndr@m.+poss@ti.+sem@fish][NRoot][=fish.sp. (ES: paco,, gamitana; sci.nm.: syzlo, chalceus.opalinus,, cichlidae, astronatus.ocellatus)]" : {komairi}
 # ---------------------------------------------------------------------------
 ! 
 # noyomentsani / no- =komentsa -ni / 1SG.poss- =to.hunt -rel / EN: 'my.prey', ES: 'mi.presa; lit.: lo.que.se.caza.es.mio' 
 | "[=komentsani][NRoot][=prey (ES: presa)]" : {komentsani}
 # ---------------------------------------------------------------------------
 ! 
-| "[=komempe+gndr@n.m.][NRoot][=vine.sp. (ES: sp.de.bejuco, ojo.de.vaca)]" : {komempe}
-| "[=komimpi+gndr@n.m.][NRoot][=vine.sp. (ES: sp.de.bejuco, ojo.de.vaca)]" : {komimpi}
+| "[=komempe+gndr@n.m.+sem@plant][NRoot][=vine.sp. (ES: sp.de.bejuco, ojo.de.vaca)]" : {komempe}
+| "[=komimpi+gndr@n.m.+sem@plant][NRoot][=vine.sp. (ES: sp.de.bejuco, ojo.de.vaca)]" : {komimpi}
 # ---------------------------------------------------------------------------
 ! 
 | "[=komero+gndr@m.+sem@wild.anim.][NRoot][=dog.sp. (ES: pequeño.perro.negro.de.monte.de.pelaje.negro-y-su.cola.de.largos.pelos; sci.nm.: atelocynus.microtis)]" : {komero}
