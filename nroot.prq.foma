@@ -57,6 +57,7 @@
 #    insects -> +sem@insect
 #    benevolent/malevolent.spirits -> +sem@spir.
 #    worms -> +sem@worm-shaped
+#    molluscs -> +sem@mollusc 
 
 #    non-masculine gender
 #    --------------------
@@ -4274,9 +4275,9 @@ define NRootPRQin [
 | "[=oye+gndr@m.][NRoot][=rainbow-spirit]" : {oye}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=oyepari][NRoot][=legume.sp. (ES: leguminosa; sci.nm.: fam.de.las.judías)]" : {oyepari}
-| "[=iyorite][NRoot][=legume.sp. (ES: leguminosa; sci.nm.: fam.de.las.judías)]" : {iyorite}
-| "[=oyechari][NRoot][=legume.sp. (ES: leguminosa; sci.nm.: fam.de.las.judías)]" : {oyechari}
+| "[=oyepari+gndr@n.m.+sem@plant][NRoot][=legume.sp. (ES: leguminosa; sci.nm.: fam.de.las.judías)]" : {oyepari}
+| "[=iyorite+gndr@n.m.+sem@plant][NRoot][=legume.sp. (ES: leguminosa; sci.nm.: fam.de.las.judías)]" : {iyorite}
+| "[=oyechari+gndr@n.m.+sem@plant][NRoot][=legume.sp. (ES: leguminosa; sci.nm.: fam.de.las.judías)]" : {oyechari}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=papato+gndr@m.+sem@amphibian][NRoot][=frog.sp. (ES: sp.de.rana, sapo.grande)]" : {papato}
@@ -5577,7 +5578,7 @@ define NRootPRQin [
 | "[=haaapa+gndr@m.+sem@plant][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {haaapa}
 # ------------------------------------------------------------
 ! 
-| "[=sacerdote/saserote][NRoot][=priest]" : {saserote}
+| "[=sacerdote/saserote][NRoot][=priest (ES: sacerdote)]" : {saserote}
 # ------------------------------------------------------------
 ! 
 | "[=satipo+sem@NP.place][NRoot][=NP, Satipo.province]" : {satipo}
@@ -5593,7 +5594,7 @@ define NRootPRQin [
 | "[=satotori+gndr@m.+sem@bird][NRoot][=undulated.antpitta (sci.nm.: grallaria.squamigera)]" : {satotori}
 # ------------------------------------------------------------
 ! 
-| "[=save+gndr@m.+sem@reptile][NRoot][=turtle.sp.]" : {save}
+| "[=save+gndr@m.+sem@reptile][NRoot][=turtle.sp. (ES: sp.de.tortuga)]" : {save}
 # ------------------------------------------------------------
 ! 
 | "[=saveto+gndr@m.+sem@bird][NRoot][=chestnut-fronted.macaw (maracaná, sci.nm.: ara.severa, aratinga.leucopthalmus)]" : {saveto}
@@ -5626,7 +5627,7 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 # Enesati, Tambosati 
-| "[=sevaitiki][NRoot][=edible.bivalve.sp. (ES: bivalvo, molusco.comestible; sci.nm.: diplodon.sp.)]" : {sevaitiki}
+| "[=sevaitiki+sem@mollusc][NRoot][=edible.bivalve.sp. (ES: bivalvo, molusco.comestible; sci.nm.: diplodon.sp.)]" : {sevaitiki}
 # ------------------------------------------------------------
 ! 
 # animal que vive en los árboles, posee grandes uñas y cola prensil.
