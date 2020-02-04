@@ -5216,10 +5216,10 @@ define NRootPRQin [
 | "[=shantyoshi][NRoot][=the.pure]" : {shantyoshi}
 # --------------------------------------------------------------------------
 ! 
-| "[=shantyoma][NRoot][=NP, person's.name]" : {shantyoma}
+| "[=shantyoma+sem@NP.person][NRoot][=NP, person's.name]" : {shantyoma}
 # --------------------------------------------------------------------------
 ! 
-| "[=shareva][NRoot][=person's.name; NP]" : {shareva}
+| "[=shareva+sem@NP.person][NRoot][=person's.name; NP]" : {shareva}
 # --------------------------------------------------------------------------
 ! 
 | "[=shavo+gndr@m.+sem@wild.anim.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]" : {shavo}
@@ -6922,22 +6922,22 @@ define NRootPRQin [
 | "[=tsoninto+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {tsoninto} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsontsomarati][NRoot][=antshrike.sp. (ES: hormiguero; sci.nm.: taraba.major)]" : {tsontsomarati}
+| "[=tsontsomarati+gndr@m.+sem@wild.anim.][NRoot][=antshrike.sp. (ES: hormiguero; sci.nm.: taraba.major)]" : {tsontsomarati}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsovi][NRoot][=bow, forward.part.of.the.hull.of.a.boat]" : {tsovi} ! @section:noun@ 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsovero+gndr@m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa; sci.nm.: ateles.paniscus, lagothrrix.lagothricha)]" : {tsovero}
-| "[=tsoviro+gndr@m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa; sci.nm.: ateles.paniscus, lagothrrix.lagothricha)]" : {tsoviro}
+| "[=tsovero+gndr@m.+sem@wild.anim.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa; sci.nm.: ateles.paniscus, lagothrrix.lagothricha)]" : {tsovero}
+| "[=tsoviro+gndr@m.+sem@wild.anim.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa; sci.nm.: ateles.paniscus, lagothrrix.lagothricha)]" : {tsoviro}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsovo][NRoot][=owl.sp. (ES: urcututo, lechuza)]" : {tsovo}
-| "[=tsoovo][NRoot][=owl.sp. (ES: urcututo, lechuza)]" : {tsoovo}
-| "[=tsoogo][NRoot][=owl.sp. (ES: urcututo, lechuza)]" : {tsoogo}
+| "[=tsovo+gndr@m.+sem@bird][NRoot][=owl.sp. (ES: urcututo, lechuza)]" : {tsovo}
+| "[=tsoovo+gndr@m.+sem@bird][NRoot][=owl.sp. (ES: urcututo, lechuza)]" : {tsoovo}
+| "[=tsoogo+gndr@m.+sem@bird][NRoot][=owl.sp. (ES: urcututo, lechuza)]" : {tsoogo}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsoori][NRoot][=bird.sp. (ES: pájaro.paucar, oropéndola; QU: pawkar; sci.nm.: psarocolius.decumanus, psarocolius.angustifrons); catfish.sp. (ES: súngaro)]" : {tsoori}
+| "[=tsoori+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: pájaro.paucar, oropéndola; QU: pawkar; sci.nm.: psarocolius.decumanus, psarocolius.angustifrons); catfish.sp. (ES: súngaro)]" : {tsoori}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsoorinke+gndr@m.+sem@reptile][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: drymobius.rhombifer)]" : {tsoorinke}
@@ -7017,18 +7017,18 @@ define NRootPRQin [
 | "[=tyoopiki][NRoot][=chick (ES: pollito)]" : {tyoopiki}
 # ---------------------------------------------------------------------------------
 ! 
-| "[=tiapo][NRoot][=waterfall.name]" : {tiapo}
-| "[=tyapo][NRoot][=waterfall.name]" : {tyapo}
+| "[=tiapo+sem@NP.place][NRoot][=waterfall.name]" : {tiapo}
+| "[=tyapo+sem@NP.place][NRoot][=waterfall.name]" : {tyapo}
 # ---------------------------------------------------------------------------------
 ! 
 | "[=tyomirentsi+gndr@n.m.][NRoot][=roasted.yucca]" : {tyomirentsi}
 | "[=tyomirintsi+gndr@n.m.][NRoot][=roasted.yucca]" : {tyomirintsi}
 # ---------------------------------------------------------------------------------
 ! 
-| "[=tyonkintzi+gndr@m.][NRoot][=bee.sp.]" : {tyonkintzi}
+| "[=tyonkintzi+gndr@m.+sem@insect][NRoot][=bee.sp.]" : {tyonkintzi}
 # ---------------------------------------------------------------------------------
 ! 
-| "[=tyonkishori][NRoot][=person's.name, NP]" : {tyonkishori}
+| "[=tyonkishori+sem@NP.person][NRoot][=person's.name, NP]" : {tyonkishori}
 # ---------------------------------------------------------------------------------
 ! 
 | "[=tyonkitsiki][NRoot][=small.bean.sp.]" : {tyonkitsiki}
