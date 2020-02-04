@@ -5346,7 +5346,7 @@ define NRootPRQin [
 | "[=shimpanateya+~{'tree':shimpana}{CL:/flower:teya/}+gndr@n.m.][NRoot][=shimpana-tree.fruit (ES: fruto.del.árbol.shimpana)]" : {shimpanateya}
 # ----------------------------------------------------------------
 ! 
-| "[=shimpi+gndr@m.][NRoot][=armored.catfish.sp. (ES: sp.de.carachama)]" : {shimpi}
+| "[=shimpi+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: sp.de.carachama)]" : {shimpi}
 # ----------------------------------------------------------------
 ! 
 | "[=shimpiri][NRoot][=cultigen/edible.plant.sp. (ES: taro; sci.nm.: alocasia)]" : {shimpiri}
@@ -5354,7 +5354,7 @@ define NRootPRQin [
 | "[=tsimpiyi][NRoot][=pituca-like.plant.with.purple.peduncles (ES: taro; sci.nm.: alocasia)]" : {tsimpiyi}
 # ----------------------------------------------------------------
 ! 
-| "[=shimpitaki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: astyanax.maximus, ancistrus.sp., ancistrus.tamboensis)]" : {shimpitaki}
+| "[=shimpitaki+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: astyanax.maximus, ancistrus.sp., ancistrus.tamboensis)]" : {shimpitaki}
 # ------------------------------------------------------------
 ! 
 | "[=shiopa][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shiopa}
