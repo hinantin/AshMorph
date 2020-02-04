@@ -7002,19 +7002,19 @@ define NRootPRQin [
 | "[=tyeetya+gndr@n.m.+poss@ti.+voc@1SG.][NRoot][=grandmother (male.ego)]" : {tyeetya}
 # ---------------------------------------------------------------------------------
 ! hen 
-| "[=tyaapa+gndr@n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]" : {tyaapa}
-| "[=tyapa+gndr@n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]" : {tyapa}
-| "[=atyaapa+gndr@n.m.+poss@ti.][NRoot][=hen (ES: gallina)]" : {atyaapa}
-| "[=teapa+gndr@n.m.+poss@te.][NRoot][=hen (ES: gallina)]" : {teapa}
-| "[=txaapa+gndr@n.m.+poss@te.][NRoot:CPB][=hen (ES: gallina; PT: galinha)]" : {txaapa}
+| "[=tyaapa+gndr@n.m.+poss@te.+sem@bird][NRoot][=hen (ES: gallina); chicken]" : {tyaapa}
+| "[=tyapa+gndr@n.m.+poss@te.+sem@bird][NRoot][=hen (ES: gallina); chicken]" : {tyapa}
+| "[=atyaapa+gndr@n.m.+poss@ti.+sem@bird][NRoot][=hen (ES: gallina)]" : {atyaapa}
+| "[=teapa+gndr@n.m.+poss@te.+sem@bird][NRoot][=hen (ES: gallina)]" : {teapa}
+| "[=txaapa+gndr@n.m.+poss@te.+sem@bird][NRoot:CPB][=hen (ES: gallina; PT: galinha)]" : {txaapa}
 ! rooster 
-| "[=tyoopi+gndr@m.+poss@te.][NRoot][=rooster (ES: gallo)]" : {tyoopi}
-| "[=tyopi+gndr@m.+poss@te.][NRoot][=rooster (ES: gallo)]" : {tyopi}
-| "[=tyoopya+gndr@m.][NRoot][=rooster (ES: gallo)]" : {tyoopya}
-| "[=tyoopyaa+gndr@m.][NRoot][=rooster (ES: gallo)]" : {tyoopyaa}
+| "[=tyoopi+gndr@m.+poss@te.+sem@bird][NRoot][=rooster (ES: gallo)]" : {tyoopi}
+| "[=tyopi+gndr@m.+poss@te.+sem@bird][NRoot][=rooster (ES: gallo)]" : {tyopi}
+| "[=tyoopya+gndr@m.+sem@bird][NRoot][=rooster (ES: gallo)]" : {tyoopya}
+| "[=tyoopyaa+gndr@m.+sem@bird][NRoot][=rooster (ES: gallo)]" : {tyoopyaa}
 ! chick
-| "[=tyopiki][NRoot][=chick (ES: pollito)]" : {tyopiki}
-| "[=tyoopiki][NRoot][=chick (ES: pollito)]" : {tyoopiki}
+| "[=tyopiki+sem@bird][NRoot][=chick (ES: pollito)]" : {tyopiki}
+| "[=tyoopiki+sem@bird][NRoot][=chick (ES: pollito)]" : {tyoopiki}
 # ---------------------------------------------------------------------------------
 ! 
 | "[=tiapo+sem@NP.place][NRoot][=waterfall.name]" : {tiapo}
@@ -7040,7 +7040,7 @@ define NRootPRQin [
 | "[=chirianti+poss@te.][NRoot][=pineapple (ES: piña)]" : {chirianti}
 # ---------------------------------------------------------------------------------
 ! 
-| "[=chirikillove][NRoot][=warbling.antbird (sci.nm.: hipocnemis.cantator)]" : {chirikillove} ! revise writing with ll ??
+| "[=chirikillove+gndr@m.+sem@bird][NRoot][=warbling.antbird (sci.nm.: hipocnemis.cantator)]" : {chirikillove} ! revise writing with ll ??
 # ---------------------------------------------------------------------------------
 ! 
 | "[=tziivito+gndr@m.+sem@insect][NRoot][=beetle (ES: escarabajo)]" : {tziivito}
