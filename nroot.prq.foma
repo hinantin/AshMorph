@@ -5341,15 +5341,15 @@ define NRootPRQin [
 | "[=shimori+gndr@n.m.+inal@ntsi.][NRoot][=saliva, spit(tle) (ES: saliva)]" : {shimori}
 # ----------------------------------------------------------------
 ! 
-| "[=shimpana+gndr@n.m.][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {shimpana}
-| "[=shimpanatsa+~{'tree':shimpana}{CL:/'long.flexible.thin':tsa/}+gndr@n.m.][NRoot][=vine.that.grows.in.the.shimpana-tree (ES: bejuco.que.crece.en.el.árbol.shimpana)]" : {shimpanatsa}
+| "[=shimpana+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {shimpana}
+| "[=shimpanatsa+~{'tree':shimpana}{CL:/'long.flexible.thin':tsa/}+gndr@n.m.+sem@plant][NRoot][=vine.that.grows.in.the.shimpana-tree (ES: bejuco.que.crece.en.el.árbol.shimpana)]" : {shimpanatsa}
 | "[=shimpanateya+~{'tree':shimpana}{CL:/flower:teya/}+gndr@n.m.][NRoot][=shimpana-tree.fruit (ES: fruto.del.árbol.shimpana)]" : {shimpanateya}
 # ----------------------------------------------------------------
 ! 
 | "[=shimpi+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: sp.de.carachama)]" : {shimpi}
 # ----------------------------------------------------------------
 ! 
-| "[=shimpiri][NRoot][=cultigen/edible.plant.sp. (ES: taro; sci.nm.: alocasia)]" : {shimpiri}
+| "[=shimpiri+gndr@n.m.+sem@plant][NRoot][=cultigen/edible.plant.sp. (ES: taro; sci.nm.: alocasia)]" : {shimpiri}
 | "[=shimpiyi][NRoot][=pituca-like.plant.with.purple.peduncles (ES: taro; sci.nm.: alocasia)]" : {shimpiyi}
 | "[=tsimpiyi][NRoot][=pituca-like.plant.with.purple.peduncles (ES: taro; sci.nm.: alocasia)]" : {tsimpiyi}
 # ----------------------------------------------------------------
@@ -5357,13 +5357,13 @@ define NRootPRQin [
 | "[=shimpitaki+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: astyanax.maximus, ancistrus.sp., ancistrus.tamboensis)]" : {shimpitaki}
 # ------------------------------------------------------------
 ! 
-| "[=shiopa][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shiopa}
+| "[=shiopa+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shiopa}
 # ----------------------------------------------------------------
 ! 
-| "[=shiopaniro+gndr@m.][NRoot][=butterfly.sp.with.question_mark-design.in.its.wings; larva.sp.]" : {shiopaniro}
+| "[=shiopaniro+gndr@m.+sem@insect][NRoot][=butterfly.sp.with.question_mark-design.in.its.wings; larva.sp.]" : {shiopaniro}
 # ------------------------------------------------------------
 ! 
-| "[=shiriki+gndr@m.][NRoot][=bee.sp. (ES: abeja.hechicera; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini)]" : {shiriki}
+| "[=shiriki+gndr@m.+sem@insect][NRoot][=bee.sp. (ES: abeja.hechicera; sci.nm.: familia.apidae, subfamilia.meliponinae, tribu.trigonini)]" : {shiriki}
 # ------------------------------------------------------------
 ! 
 | "[=shirinti+gndr@m.+sem@bird][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]" : {shirinti}
@@ -5394,7 +5394,7 @@ define NRootPRQin [
 | "[=siraka+gndr@m.+sem@bird][NRoot][=lesser.kisadee (sci.nm.: pitangus.lictor)]" : {siraka}
 # ------------------------------------------------------------
 ! 
-| "[=sirikempi+gndr@m.][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.cerambycidae)]" : {sirikempi} 
+| "[=sirikempi+gndr@m.+sem@worm-shaped][NRoot][=beetle.larva.sp. (ES: larva.de.escarabajo; sci.nm.: familia.cerambycidae)]" : {sirikempi} 
 # ------------------------------------------------------------
 ! 
 | "[=hani+gndr@m.+sem@worm-shaped][NRoot][=wasp (ES: avispa)]" : {hani}
@@ -5422,12 +5422,12 @@ define NRootPRQin [
 | "[=sankonkotzi+gndr@m.+sem@bird][NRoot][=ferruginous.pygmy.owl (sci.nm.: glaucidium.brasilianum)]" : {sankonkotzi}
 # ------------------------------------------------------------
 ! 
-| "[=sankori][NRoot][=(reddish).ant.sp. (ES: curuhuinsi, curuwinsi, curhuince, curuhuinse, curhuinci, coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]" : {sankori}
-| "[=hankori][NRoot][=(reddish).ant.sp. (ES: curuhuinsi, curuwinsi, curhuince, curuhuinse, curhuinci, coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]" : {hankori}
-| "[=koyee][NRoot][=curuwinsi.queen-ant (ES: reina.del.curuhuinsi/curuwinsi/curhuince)]" : {koyee}
+| "[=sankori+gndr@m.+sem@insect][NRoot][=(reddish).ant.sp. (ES: curuhuinsi, curuwinsi, curhuince, curuhuinse, curhuinci, coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]" : {sankori}
+| "[=hankori+gndr@m.+sem@insect][NRoot][=(reddish).ant.sp. (ES: curuhuinsi, curuwinsi, curhuince, curuhuinse, curhuinci, coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]" : {hankori}
+| "[=koyee+gndr@m.+sem@insect][NRoot][=curuwinsi.queen-ant (ES: reina.del.curuhuinsi/curuwinsi/curhuince)]" : {koyee}
 # ------------------------------------------------------------
 ! 
-| "[=shankeonaki][NRoot][=snail.sp. (ES: molusco; sci.nm.: drymaeus.aff.expansus)]" : {shankeonaki} ! snail??? 
+| "[=shankeonaki+gndr@m.+sem@gastropoda][NRoot][=snail.sp. (ES: molusco; sci.nm.: drymaeus.aff.expansus)]" : {shankeonaki} ! snail??? 
 # ------------------------------------------------------------
 ! 
 | "[=shankionkiehi+gndr@m.+sem@reptile][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: dispas.catesbyi)]" : {shankionkiehi}
