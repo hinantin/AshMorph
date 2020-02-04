@@ -4588,8 +4588,8 @@ define NRootPRQin [
 | "[=pitchoyotzi+gndr@m.+sem@bird][NRoot][=yellow-backed.tanager, bird.sp. (ES: sp.de.ave; sci.nm.: hemithraupis.flavicollis)]" : {pitchoyotzi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pini+gndr@n.m.+inal@tsi.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pini}
-| "[=pinii+gndr@n.m.+inal@tsi.][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pinii}
+| "[=pini+gndr@n.m.+inal@tsi.+sem@plant][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pini}
+| "[=pinii+gndr@n.m.+inal@tsi.+sem@plant][NRoot][=medicinal.plant.sp.with.magical.properties, linden (piripiri.var.; sci.nm.: justicia.pectoralis; ES: pusanga); tila.sp. (ES: Pusanga)]" : {pinii}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pihonkare+gndr@n.m.+inal@ntsi.][NRoot][=lung (ES: pulmones)]" : {pihonkare}
@@ -4599,7 +4599,7 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 # la abeja 'peanire' construye sus panales bajo tierra en el bosque primario y como especies no sociales que no producen miel 
-| "[=peanire][NRoot][=Amazon.native.bee.sp. (sci.nm.: familia.apidae, género.bombus)]" : {peanire}
+| "[=peanire+gndr@m.+sem@insect][NRoot][=Amazon.native.bee.sp. (sci.nm.: familia.apidae, género.bombus)]" : {peanire}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=peempe+gndr@m.+sem@insect][NRoot][=butterfly.sp.]" : {peempe}
