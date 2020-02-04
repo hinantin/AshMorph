@@ -2602,9 +2602,9 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 # kitochempiawo / kitochempiavo / =kitochempi -a -vo / =shrimp.sp. -cl:liquid -nmz / EN: 'ravine.where.the_kitochempi-shrimp.is.abundant'; ES: 'quebrada.donde.abunda.el.kitochempi'  
-| "[=kitochempi][NRoot][=shrimp.sp. (ES: sp.de.camarón); shrimp.with.agile.legs (ES: camarón.con.patas.ágiles)]" : {kitochempi}
-| "[=kitocheempe][NRoot][=shrimp.sp. (ES: sp.de.camarón)]" : {kitocheempe}
-| "[=kitochempe][NRoot][=shrimp.sp. (ES: sp.de.camarón)]" : {kitochempe}
+| "[=kitochempi+gndr@m.+sem@crustacean][NRoot][=shrimp.sp. (ES: sp.de.camarón); shrimp.with.agile.legs (ES: camarón.con.patas.ágiles)]" : {kitochempi}
+| "[=kitocheempe+gndr@m.+sem@crustacean][NRoot][=shrimp.sp. (ES: sp.de.camarón)]" : {kitocheempe}
+| "[=kitochempe+gndr@m.+sem@crustacean][NRoot][=shrimp.sp. (ES: sp.de.camarón)]" : {kitochempe}
 ! 
 | "[=kitoche+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitoche}
 | "[=kitochee+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitochee}
