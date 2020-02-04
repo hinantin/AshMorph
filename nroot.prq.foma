@@ -2481,27 +2481,27 @@ define NRootPRQin [
 ! 
 # kirompiawo / kirompiavo / =kirompi -a -vo / =bagre-like.fish.sp. -cl:liquid -nmz / EN: 'ravine.where.the_kirompi-fish.is.abundant'; ES: 'quebrada,donde.abunda.el.kirompi' 
 # pez.de.agua.dulce (siluriforme) que.se.mete.por.los.orificios.genitales/excretores.alojándose.en.estos.para.alimentarse.de.la.sangre.de.su.huesped. 
-| "[=kirompi][NRoot][=bagre-like.fish.sp. (ES: canero, pez.vampiro; sci.nm.: pygidium.sp.; ES: sp.de.pez.parecido.al.bagre)]" : {kirompi}
+| "[=kirompi+gndr@m.+sem@fish][NRoot][=bagre-like.fish.sp. (ES: canero, pez.vampiro; sci.nm.: pygidium.sp.; ES: sp.de.pez.parecido.al.bagre)]" : {kirompi}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kenashiri+sem@color.][NRoot][=green (ES: verde)]" : {kenashiri}
 # ---------------------------------------------------------------------------
 ! 
 # la avispa 'kevinti' anida haciendo un hueco en el suelo, a donde introduce los cuerpos de los insectos que caza.
-| "[=kevinti][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: familia.sphecinae, género.sphex)]" : {kevinti}
+| "[=kevinti+gndr@m.+sem@insect][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: familia.sphecinae, género.sphex)]" : {kevinti}
 # ---------------------------------------------------------------------------
 ! 
-| "[=Grecia/Kireshia][NRoot][=Greece]" : {kireshia}
+| "[=Grecia/Kireshia+sem@NP.place][NRoot][=Greece]" : {kireshia}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kiripata+poss@ri.][NRoot][=ballast (ES: lastre)]" : {kiripata}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kiripenaki][NRoot][=armadillo.sp. (ES: armadillo; sci.nm.: dasypus.novemcinctus)]" : {kiripenaki}
+| "[=kiripenaki+gndr@m.+sem@wild.anim.][NRoot][=armadillo.sp. (ES: armadillo; sci.nm.: dasypus.novemcinctus)]" : {kiripenaki}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kirishipiti][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: loricaria.sp.)]" : {kirishipiti}
-| "[=krishpi][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: loricaria.sp.)]" : {krishpi} ! to be checked !!! 
+| "[=kirishipiti+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: loricaria.sp.)]" : {kirishipiti}
+| "[=krishpi+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: carachama; sci.nm.: loricaria.sp.)]" : {krishpi} ! to be checked !!! 
 # ---------------------------------------------------------------------------
 ! 
 | "[=kisaakiri][NRoot][=black.person]" : {kisaakiri}
@@ -2520,11 +2520,11 @@ define NRootPRQin [
 | "[=kishitari][NRoot][=place.where.shaman-tiger.messed.up.sb's.hair (ES: Mariscal.Cáceres)]" : {kishitari}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kishokiri][NRoot][=NP, person's.name]" : {kishokiri}
+| "[=kishokiri+sem@NP.person][NRoot][=NP, person's.name]" : {kishokiri}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kishityo][NRoot][=NP, person's.name]" : {kishityo}
-| "[=kishokiyo][NRoot][=NP, person's.name]" : {kishokiyo}
+| "[=kishityo+sem@NP.person][NRoot][=NP, person's.name]" : {kishityo}
+| "[=kishokiyo+sem@NP.person][NRoot][=NP, person's.name]" : {kishokiyo}
 # ---------------------------------------------------------------------------
 ! 
 # Sharokishi / =sharo =kishi / =rodent.sp. =mountainous.grassland / EN: 'grasslands.with.abundant.agoutis'  
@@ -2543,19 +2543,19 @@ define NRootPRQin [
 | "[=kishire+gndr@m.][NRoot][=comb (ES: peine)]" : {kishire}
 # ---------------------------------------------------------------------------
 ! 
-| "[=keshito+gndr@m.][NRoot][=cuckoo.sp. (ES: sp.de.cuco; sci.nm.: cyanocorax.yncas)]" : {keshito}
+| "[=keshito+gndr@m.+sem@bird][NRoot][=cuckoo.sp. (ES: sp.de.cuco; sci.nm.: cyanocorax.yncas)]" : {keshito}
 # el escarabajo 'keshito' se desarrolla en la caña brava.
-| "[=keshito][NRoot][=edible.beetle.sp. (ES: sp.de.escarabajo.comestible; sci.nm.: familia.scarabaedae, subfamilia.dynastinae)]" : {keshito}
+| "[=keshito+gndr@m.+sem@insect][NRoot][=edible.beetle.sp. (ES: sp.de.escarabajo.comestible; sci.nm.: familia.scarabaedae, subfamilia.dynastinae)]" : {keshito}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kisoitokiri][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: creagrutus.sp.)]" : {kisoitokiri}
-| "[=chirinti][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: synbranchus.sp.)]" : {chirinti}
-| "[=kehikiriki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kehikiriki}
-| "[=shintyoiroki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiroki}
-| "[=shintyoiriroki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiriroki}
+| "[=kisoitokiri+gndr@n.m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: creagrutus.sp.)]" : {kisoitokiri}
+| "[=chirinti+gndr@n.m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: synbranchus.sp.)]" : {chirinti}
+| "[=kehikiriki+gndr@n.m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kehikiriki}
+| "[=shintyoiroki+gndr@n.m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiroki}
+| "[=shintyoiriroki+gndr@n.m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shintyoiriroki}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kisontainari+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari} ! @CMP @section:noun@ 
+| "[=kisontainari+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari} ! @CMP @section:noun@ 
 # ---------------------------------------------------------------------------
 ! 
 | "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
