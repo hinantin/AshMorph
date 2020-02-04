@@ -5521,11 +5521,11 @@ define NRootPRQin [
 | "[=hantani+gndr@m.+sem@bird][NRoot][=bat-like.bird.sp. (ES: guácharo; sci.nm.: steatornis.caripensis); owl.sp.that.lives.in.hollow-stones]" : {hantani}
 # ------------------------------------------------------------
 ! 
-| "[=sankamiro+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankamiro}
-| "[=sankimiro+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankimiro}
+| "[=sankamiro+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankamiro}
+| "[=sankimiro+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {sankimiro}
 # ------------------------------------------------------------
 ! 
-| "[=sankatari+inal@ntsi.][NRoot][=armpit]" : {sankatari}
+| "[=sankatari+inal@ntsi.][NRoot][=armpit (ES: axila; PT: axila)]" : {sankatari}
 # ------------------------------------------------------------
 ! 
 | "[=sankatzi+gndr@m.+sem@bird][NRoot][=red-necked.gallinacean.bird.sp. (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat');| spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]" : {sankatzi} ! @section:noun@ 
