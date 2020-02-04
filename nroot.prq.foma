@@ -7076,11 +7076,12 @@ define NRootPRQin [
 | "[=tziviriaki][NRoot][=the.salt.place]" : {tziviriaki}
 | "[=tziviriani][NRoot][=the.salt.river]" : {tziviriani}
 | "[=tzivyoriki][NRoot][=the.salt.place]" : {tzivyoriki} ! to be checked !!! 
+# -------------------------------------------------------------------
 ! 
 | "[=tona+gndr@n.m.+inal@tsi.][NRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
 | "[=vontso][NRoot][=snout (ES: hocico)]" : {vontso}
-! 
 # ------------------------------------------------------------------- 
+! 
 | "[=tonche+gndr@m.+sem@bird][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tonche}
 | "[=tonche/tunche+gndr@m.+sem@bird][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunche}
 | "[=tonchi/tunchi+gndr@m.+sem@bird][NRoot][=nocturnal.bird.sp.; ghost, demon]" : {tunchi}
@@ -7191,9 +7192,9 @@ define NRootPRQin [
 | "[=yaarato+gndr@m.+poss@ti.+sem@insect][NRoot][=bee.sp. (ES: abeja); black.bee.sp.]" : {yaarato}
 # ----------------------------------------------------------------- 
 ! 
-| "[=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {yari}
-| "[=yaari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {yaari}
-| "[=iyaari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother]" : {iyaari}
+| "[=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano)]" : {yari}
+| "[=yaari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano)]" : {yaari}
+| "[=iyaari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano)]" : {iyaari}
 # ----------------------------------------------------------------- 
 ! 
 | "[=yatsinka+gndr@n./m.+inal@ntsi.][NRoot][=poison (ES: dolor.causado.por.veneno/algo_picante)]" : {yatsinka}
