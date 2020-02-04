@@ -2558,8 +2558,8 @@ define NRootPRQin [
 | "[=kisontainari+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari} ! @CMP @section:noun@ 
 # ---------------------------------------------------------------------------
 ! 
-| "[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
-| "[=kitaeriki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitaeriki}
+| "[=kitairiki+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitairiki}
+| "[=kitaeriki+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]" : {kitaeriki}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kitaiteri][NRoot][=day (ES: día; PT: dia; QU: p'unchay, p'unchaw)]" : {kitaiteri} ! @CMP @section:noun@ 
@@ -2591,14 +2591,14 @@ define NRootPRQin [
 | "[=kisaari+sem@color.][NRoot][=black (ES: negro)]" : {kisaari}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kitekirishi][NRoot][=rattlesnake.sp.]" : {kitekirishi}
+| "[=kitekirishi+gndr@m.+sem@reptile][NRoot][=rattlesnake.sp.]" : {kitekirishi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kitepari][NRoot][=chestnut-tipped.toucanet (sci.nm.: aulacorhynchus.derbianus, pteroglossus.mariae)]" : {kitepari}
+| "[=kitepari+gndr@m.+sem@bird][NRoot][=chestnut-tipped.toucanet (sci.nm.: aulacorhynchus.derbianus, pteroglossus.mariae)]" : {kitepari}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kito+gndr@m.][NRoot][=shrimp (ES: camarón)]" : {kito}
-| "[=kitoo+gndr@m.][NRoot][=shrimp (ES: camarón)]" : {kitoo}
+| "[=kito+gndr@m.+sem@crustacean][NRoot][=shrimp (ES: camarón)]" : {kito}
+| "[=kitoo+gndr@m.+sem@crustacean][NRoot][=shrimp (ES: camarón)]" : {kitoo}
 # ---------------------------------------------------------------------------
 ! 
 # kitochempiawo / kitochempiavo / =kitochempi -a -vo / =shrimp.sp. -cl:liquid -nmz / EN: 'ravine.where.the_kitochempi-shrimp.is.abundant'; ES: 'quebrada.donde.abunda.el.kitochempi'  
