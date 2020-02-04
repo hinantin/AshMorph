@@ -6768,15 +6768,15 @@ define NRootPRQin [
 | "[=tsirotzi+gndr@m.+sem@bird][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela; ES: sp.de.pájaro, chihuaco)]" : {tsirotzi}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsirotsiki][NRoot][=murmuru-palm.tree.fruit/seed (PT: fruto/semente.da.palmeira.murmuru, murmuru; sci.nm.: astrocaryum.ulei.burret)]" : {tsirotsiki}
-| "[=tsiirotsiiki][NRoot][=murmuru-palm.tree.fruit/seed (PT: fruto/semente.da.palmeira.murmuru, murmuru; sci.nm.: astrocaryum.ulei.burret)]" : {tsiirotsiiki}
+| "[=tsirotsiki+gndr@n.m.+sem@fruit][NRoot][=murmuru-palm.tree.fruit/seed (PT: fruto/semente.da.palmeira.murmuru, murmuru; sci.nm.: astrocaryum.ulei.burret)]" : {tsirotsiki}
+| "[=tsiirotsiiki+gndr@n.m.+sem@fruit][NRoot][=murmuru-palm.tree.fruit/seed (PT: fruto/semente.da.palmeira.murmuru, murmuru; sci.nm.: astrocaryum.ulei.burret)]" : {tsiirotsiiki}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsiroti][NRoot][=striped.fish.sp. (ES: sp.de.pez.rayado)]" : {tsiroti}
-| "[=tsirotzi][NRoot][=striped.fish.sp. (ES: sp.de.pez.rayado)]" : {tsirotzi}
+| "[=tsiroti+gndr@m.+sem@fish][NRoot][=striped.fish.sp. (ES: sp.de.pez.rayado)]" : {tsiroti}
+| "[=tsirotzi+gndr@m.+sem@fish][NRoot][=striped.fish.sp. (ES: sp.de.pez.rayado)]" : {tsirotzi}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsirotisanine][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {tsirotisanine}
+| "[=tsirotisanine+gndr@m.+sem@insect][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.polistes)]" : {tsirotisanine}
 # ------------------------------------------------------------------------------
 ! 
 | "[=tsiteniri][NRoot][=night (ES: noche)]" : {tsiteniri}
@@ -6786,7 +6786,7 @@ define NRootPRQin [
 | "[=tsitene][NRoot][=night (ES: noche)]" : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, anochecer)] 
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsito+gndr@m.][NRoot][=gnat (ES: nosquito)]" : {tsito}
+| "[=tsito+gndr@m.+sem@insect][NRoot][=gnat (ES: nosquito)]" : {tsito}
 # ------------------------------------------------------------------------------
 ! 
 | "[=tsitoiki][NRoot][=bean (ES: frijol)]" : {tsitoiki}
@@ -6797,20 +6797,20 @@ define NRootPRQin [
 | "[=tsima][NRoot][=wood (ES: madera)]" : {tsima} 
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsimanto+gndr@n.m.][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimanto} 
-| "[=tsimantyo+gndr@n.m.][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimantyo} 
-| "[=tsimantoki+gndr@n.m.][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimantoki} 
-| "[=tsimantyoki+gndr@n.m.][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimantyoki} 
+| "[=tsimanto+gndr@n.m.+sem@fruit][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimanto} 
+| "[=tsimantyo+gndr@n.m.+sem@fruit][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimantyo} 
+| "[=tsimantoki+gndr@n.m.+sem@fruit][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimantoki} 
+| "[=tsimantyoki+gndr@n.m.+sem@fruit][NRoot][=fruit.sp. (ES: sp.de.fruto, tumbo, tumbito)]" : {tsimantyoki} 
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsitsimentaki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {tsitsimentaki} 
-| "[=chichita][NRoot][=fish.sp. (ES: sp.de.pez)]" : {chichita} 
-| "[=shipetapari][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shipetapari}
-| "[=chichipentaki][NRoot][=fish.sp. (ES: sp.de.pez)]" : {chichipentaki}
-| "[=ampontsi][NRoot][=fish.sp. (ES: sp.de.pez)]" : {ampontsi}
+| "[=tsitsimentaki+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {tsitsimentaki} 
+| "[=chichita+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {chichita} 
+| "[=shipetapari+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {shipetapari}
+| "[=chichipentaki+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {chichipentaki}
+| "[=ampontsi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {ampontsi}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsitsiri+gndr@m.][NRoot][=cricket (ES: grillo)]" : {tsitsiri}
+| "[=tsitsiri+gndr@m.+sem@insect][NRoot][=cricket (ES: grillo)]" : {tsitsiri}
 # ------------------------------------------------------------------------------
 ! 
 # ají.charapa, ají.charapita ???  
