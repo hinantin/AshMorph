@@ -4373,7 +4373,7 @@ define NRootPRQin [
 | "[=pamaki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol); red.fruit (ES: chimiqua, chimicua; sci.nm.: pourouma.minor.benoist)]" : {pamaki}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pamoko+poss@ti.][NRoot][=bejuco.sp. (pate); gourd (climbing.plant.that.bears.gourds)]" : {pamoko}
+| "[=pamoko+gndr@n.m.+poss@ti.+sem@plant][NRoot][=bejuco.sp. (pate); gourd (climbing.plant.that.bears.gourds)]" : {pamoko}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=panashinte+gndr@n.m.+sem@plant][NRoot][=sapote-like.tree.sp. (ES: sapote/zapote.silvestre; sci.nm.: matisia.cordata)]" : {panashinte}
@@ -4386,8 +4386,8 @@ define NRootPRQin [
 | "[=panava+gndr@m.+sem@bird][NRoot][=partridge.sp. (ES: sp.de.perdiz, unchala; sci.nm.: crypturellus.atrocallipus)]" : {panava}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=panka+gndr@n.m.+inal@tsi.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
-| "[=pankaina+inal@tsi.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
+| "[=panka+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
+| "[=pankaina+inal@tsi.+sem@b.p.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=panki][NRoot][=plank, long.narrow.flat.piece.of.wood]" : {panki}
