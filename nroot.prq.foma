@@ -6748,7 +6748,7 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------ 
 ! 
 # se.arrastra.por.las.rocas.del.río 
-| "[=tsiri+gndr@m.][NRoot][=edible.snake.sp. (ES: culebra.comestible)]" : {tsiri}
+| "[=tsiri+gndr@m.+sem@reptile][NRoot][=edible.snake.sp. (ES: culebra.comestible)]" : {tsiri}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsirikana+gndr@n.m.][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]" : {tsirikana}
@@ -6760,12 +6760,12 @@ define NRootPRQin [
 | "[=tsirikirini][NRoot][=sticky (ES: pegajoso)]" : {tsirikirini} ! to.be.revised  
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsirompi][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, tamishi, especie.de.planta.trepadora.no.maderable); vine.sp. (ES: especie.de.bejuco)]" : {tsirompi}
-| "[=tsirompitsa][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, tamishi, especie.de.planta.trepadora.no.maderable); vine.sp. (ES: especie.de.bejuco)]" : {tsirompitsa}
+| "[=tsirompi+gndr@n.m.+sem@plant][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, tamishi, especie.de.planta.trepadora.no.maderable); vine.sp. (ES: especie.de.bejuco)]" : {tsirompi}
+| "[=tsirompitsa+gndr@n.m.+sem@plant][NRoot][=non-timber.climbing_plant.sp. (ES: tamshi, tamishi, especie.de.planta.trepadora.no.maderable); vine.sp. (ES: especie.de.bejuco)]" : {tsirompitsa}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsiroti][NRoot][=bird.sp. (ES: sp.de.pájaro, chihuaco)]" : {tsiroti}
-| "[=tsirotzi][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela; ES: sp.de.pájaro, chihuaco)]" : {tsirotzi}
+| "[=tsiroti+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: sp.de.pájaro, chihuaco)]" : {tsiroti}
+| "[=tsirotzi+gndr@m.+sem@bird][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela; ES: sp.de.pájaro, chihuaco)]" : {tsirotzi}
 # ------------------------------------------------------------------------------
 ! 
 | "[=tsirotsiki][NRoot][=murmuru-palm.tree.fruit/seed (PT: fruto/semente.da.palmeira.murmuru, murmuru; sci.nm.: astrocaryum.ulei.burret)]" : {tsirotsiki}
