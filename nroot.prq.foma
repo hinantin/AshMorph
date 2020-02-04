@@ -2611,16 +2611,16 @@ define NRootPRQin [
 | "[=kitoochii+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitoochii}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kitoki][NRoot][=person's.name, NP]" : {kitoki}
+| "[=kitoki+sem@NP.person][NRoot][=person's.name, NP]" : {kitoki}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kitokiti][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodus.sp., rhamdiaquelen.pimelodidae)]" : {kitokiti}
+| "[=kitokiti+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodus.sp., rhamdiaquelen.pimelodidae)]" : {kitokiti}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kitoniro+gndr@m.][NRoot][=scorpion (ES: alacrán)]" : {kitoniro}
 # ---------------------------------------------------------------------------
 ! 
-| "[=katsinarite][NRoot][=bird.sp. (PT: sp.de.pássaro/uru; sci.nm.: odontophorus.sp., família.phasianidae)]" : {katsinarite}
+| "[=katsinarite+gndr@m.+sem@bird][NRoot][=bird.sp. (PT: sp.de.pássaro/uru; sci.nm.: odontophorus.sp., família.phasianidae)]" : {katsinarite}
 # ---------------------------------------------------------------------------
 ! 
 ! Women:
@@ -2634,24 +2634,25 @@ define NRootPRQin [
 | "[=ketsare+gndr@m.+inal@ntsi.][NRoot][=dress (ES: vestido), cushma, cloth (ES: tela)]" : {ketsare} ! o-etsa-re-ki 
 # ---------------------------------------------------------------------------
 ! 
-| "[=kitsa+gndr@m.][NRoot][=nocturnal.monkey.sp. (ES: chosna, sp.de.mono.nocturno)]" : {kitsa} 
-| "[=kitsani][NRoot][=kinkajou (ES: kinkajú; sci.nm.: potos.flavus); nocturnal.monkey (ES: mono.nocturno)]" : {kitsani}
+| "[=kitsa+gndr@m.+sem@wild.anim.][NRoot][=nocturnal.monkey.sp. (ES: chosna, sp.de.mono.nocturno)]" : {kitsa} 
+| "[=kitsani+gndr@m.+sem@wild.anim.][NRoot][=kinkajou (ES: kinkajú; sci.nm.: potos.flavus); nocturnal.monkey (ES: mono.nocturno)]" : {kitsani}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kitsapi+gndr@m.+poss@ti.][NRoot][=needle (ES: aguja, alfiler)]" : {kitsapi} ! @section:noun@ 
 # ---------------------------------------------------------------------------
 ! 
-| "[=koachere][NRoot][=blackish.rail (sci.nm.: pardirallus.nigricans)]" : {koachere}
+| "[=koachere+gndr@m.+sem@bird][NRoot][=blackish.rail (sci.nm.: pardirallus.nigricans)]" : {koachere}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koakiti][NRoot][=small.white-necked.sparrow-hawk.sp.; bat.falcon (sci.nm.: falco.rutigularis)]" : {koakiti}
-| "[=koakitzi][NRoot][=small.white-necked.sparrow-hawk.sp.; bat.falcon (sci.nm.: falco.rutigularis)]" : {koakitzi}
+| "[=koakiti+gndr@m.+sem@bird][NRoot][=small.white-necked.sparrow-hawk.sp.; bat.falcon (sci.nm.: falco.rutigularis)]" : {koakiti}
+| "[=koakitzi+gndr@m.+sem@bird][NRoot][=small.white-necked.sparrow-hawk.sp.; bat.falcon (sci.nm.: falco.rutigularis)]" : {koakitzi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koaritotzi][NRoot][=collared.puffbird (sci.nm.: bucco.capensis)]" : {koaritotzi}
+| "[=koaritotzi+gndr@m.+sem@bird][NRoot][=collared.puffbird (sci.nm.: bucco.capensis)]" : {koaritotzi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kocheri][NRoot][=tree.sp.; person's.name, NP]" : {kocheri}
+| "[=kocheri+sem@NP.person][NRoot][=person's.name, NP]" : {kocheri}
+| "[=kocheri+gndr@n.m.+sem@plant][NRoot][=tree.sp.]" : {kocheri}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kochirikotsi+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: unchala, sp.de.ave)]" : {kochirikotsi}
