@@ -6835,15 +6835,15 @@ define NRootPRQin [
 | "[=tsiyanari+gndr@n.m.+inal@ntsi.][NRoot][=woven.semi-cylindrical.Fish_Trap.with.a.funnel-shaped.mouth.]" : {tsiyanari}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsiyaro+gndr@n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; PT: auricuri; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea, scheelea.cephalotes)]" : {tsiyaro}
-| "[=tsiyavo+gndr@n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; PT: auricuri; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea, scheelea.cephalotes)]" : {tsiyavo}
+| "[=tsiyaro+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: shapaja, shebón; PT: auricuri; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea, scheelea.cephalotes)]" : {tsiyaro}
+| "[=tsiyavo+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: shapaja, shebón; PT: auricuri; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea, scheelea.cephalotes)]" : {tsiyavo}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsiyaavo+gndr@m.][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tsiyaavo}
+| "[=tsiyaavo+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {tsiyaavo}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsiyeri+gndr@m.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyeri}
-| "[=tsiyiri+gndr@m.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyiri}
+| "[=tsiyeri+gndr@m.+sem@wild.anim.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyeri}
+| "[=tsiyiri+gndr@m.+sem@wild.anim.][NRoot][=medium-size.monkey.sp. (ES: huasa, frailecillo; PT: macaco.de.cheiro; sci.nm.: saimiri.sp.)]" : {tsiyiri}
 # ------------------------------------------------------------------------------
 ! 
 # tsiyomentotsi / =tsiyo -mento -tsi / =to.give.off.light -concr -nposs / EN: 'burner'; ES: 'mechero'
@@ -6851,12 +6851,12 @@ define NRootPRQin [
 | "[=tsioro+~{V:/'to.give.off.light':tsio/}{NMZ:ro}+gndr@n.m.+inal@ntsi.][NRoot][=candle (ES: vela)]" : {tsioro} ! @section:noun@ 
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsiyontzi+gndr@m.][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiyontzi}
+| "[=tsiyontzi+gndr@m.+sem@bird][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiyontzi}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsiveta+gndr@m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsiveta}
-| "[=tsivita+gndr@m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
-| "[=inaro+gndr@m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya; sci.nm.: potamotrygonidae)]" : {inaro}
+| "[=tsiveta+gndr@m.+sem@fish][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsiveta}
+| "[=tsivita+gndr@m.+sem@fish][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsivita}
+| "[=inaro+gndr@m.+sem@fish][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya; sci.nm.: potamotrygonidae)]" : {inaro}
 # ------------------------------------------------------------------------------
 ! 
 | "[=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]" : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
@@ -6888,9 +6888,9 @@ define NRootPRQin [
 # - Coeligena torquata
 # - Coeligena violifer
 # *****************************************
-| "[=tsonkiri+gndr@m.+poss@ti.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]" : {tsonkiri} ! @VCMP 
-| "[=chonkiri+gndr@m.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (ES: especie.de.picaflor, sci.nm.: doryfera.johannae)]" : {chonkiri}
-| "[=chonkiro+gndr@n.m.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (ES: especie.de.picaflor, sci.nm.: doryfera.johannae)]" : {chonkiro}
+| "[=tsonkiri+gndr@m.+poss@ti.+sem@bird][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]" : {tsonkiri} ! @VCMP 
+| "[=chonkiri+gndr@m.+sem@bird][NRoot][=hummingbird.sp.; blue-fronted.lancebill (ES: especie.de.picaflor, sci.nm.: doryfera.johannae)]" : {chonkiri}
+| "[=chonkiro+gndr@n.m.+sem@bird][NRoot][=hummingbird.sp.; blue-fronted.lancebill (ES: especie.de.picaflor, sci.nm.: doryfera.johannae)]" : {chonkiro}
 # ------------------------------------------------------------------------------ 
 # *****************************************
 # viisanti de pico curvo y que vuela más bajo
@@ -6899,15 +6899,15 @@ define NRootPRQin [
 # - Phaethornis hispidus
 # - Phaethornis stuarti Glaucis hirsuta
 # *****************************************
-| "[=viisanti][NRoot][=hummingbird.sp. (ES: sp.de.colibri)]" : {viisanti}
+| "[=viisanti+gndr@m.+sem@bird][NRoot][=hummingbird.sp. (ES: sp.de.colibri)]" : {viisanti}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=chonkorina][NRoot][=pumpkin.sp. (ES: calabaza; sci.nm.: lagenaria.sp.); container (ES: recipiente, porongo)]" : {chonkorina}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsonki+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonki}
-| "[=tsonke+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonke}
-!| "[=tsonkeeki+~{N:/'ant.sp.':tsonkee/}{CL:/'small.insect-like':ki/}+gndr@m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonkeeki}
+| "[=tsonki+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonki}
+| "[=tsonke+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonke}
+!| "[=tsonkeeki+~{N:/'ant.sp.':tsonkee/}{CL:/'small.insect-like':ki/}+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {tsonkeeki}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsonkiriniro+~{N:/'hummingbird.sp.':tsonkiri/}{CL:/'simulative':niro/}+gndr@m.][NRoot][=green.honeycreeper (ES: sp.de.ave; sci.nm.: chlorophanes.spiza)]" : {tsonkiriniro}
