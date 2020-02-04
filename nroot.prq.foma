@@ -4637,11 +4637,11 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 # suri-fish 
-| "[=piiryoki+gndr@m.+sem@bird][NRoot][=medium-size.suri-fish.sp.]" : {piiryoki}
-| "[=piiyoki+gndr@m.+sem@bird][NRoot][=medium-size.suri-fish.sp.]" : {piiyoki}
-| "[=tayooki+gndr@m.+sem@bird][NRoot][=small-size.suri-fish.sp.]" : {tayooki}
-| "[=pairi+gndr@m.+sem@bird][NRoot][=very_small-size.suri-fish.sp.]" : {pairi}
-| "[=pairi+gndr@m.+sem@bird][NRoot][=piranha.sp. (Cohengua.community)]" : {pairi}
+| "[=piiryoki+gndr@m.+sem@fish][NRoot][=medium-size.suri-fish.sp.]" : {piiryoki}
+| "[=piiyoki+gndr@m.+sem@fish][NRoot][=medium-size.suri-fish.sp.]" : {piiyoki}
+| "[=tayooki+gndr@m.+sem@fish][NRoot][=small-size.suri-fish.sp.]" : {tayooki}
+| "[=pairi+gndr@m.+sem@fish][NRoot][=very_small-size.suri-fish.sp.]" : {pairi}
+| "[=pairi+gndr@m.+sem@fish][NRoot][=piranha.sp. (Cohengua.community)]" : {pairi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=peshi+gndr@n.m.+inal@tsi.][NRoot][=shoot (ES: retoño); stalk.of.a.plant, cluster, the.part.of.the.banana_plant.that.is.planted]" : {peshi} ! @CMP 
