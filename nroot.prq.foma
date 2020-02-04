@@ -4346,9 +4346,9 @@ define NRootPRQin [
 | "[=kahoni+gndr@n.m.][NRoot][=recipient/container.for.fermenting.yucca (ES: recipiente.para.fermentar.yuca)]" : {kahoni} ! cajón??? 
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pahotiki+gndr@n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pahotiki}
-| "[=pasotiki+gndr@n.m.][NRoot][=wild.edible.fruit.sp.(ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotiki}
-| "[=pasotziki+gndr@n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotziki}
+| "[=pahotiki+gndr@n.m.+sem@fruit][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pahotiki}
+| "[=pasotiki+gndr@n.m.+sem@fruit][NRoot][=wild.edible.fruit.sp.(ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotiki}
+| "[=pasotziki+gndr@n.m.+sem@fruit][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pasotziki}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=painto+gndr@m.+sem@amphibian][NRoot][=small.toad.sp. (sci.nm.: leptodactylus.rhodonotus)]" : {painto}
