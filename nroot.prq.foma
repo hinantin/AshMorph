@@ -2228,7 +2228,7 @@ define NRootPRQin [
 | "[=kayetsi][NRoot][=bad.hunter (ES: afasi, que.no.sabe.cazar, mal.cazador); (PT: animal.da.familia.do.tamanduá)]" : {kayetsi}
 # --------------------------------------------------------------------- 
 ! 
-| "[=kayonaro+gndr@m.][NRoot][=cunchi/kunchi.sp., fish.sp.]" : {kayonaro}
+| "[=kayonaro+gndr@m.+sem@fish][NRoot][=cunchi/kunchi.sp., fish.sp.]" : {kayonaro}
 # --------------------------------------------------------------------- 
 ! 
 | "[=keario][NRoot][=factual, truth (ES: cierto, verdad)]" : {keario} ! N@->V
@@ -2303,9 +2303,9 @@ define NRootPRQin [
 | "[=kempityaari][NRoot][=NP; place.name]" : {kempityaari}
 # --------------------------------------------------------------------- 
 ! 
-| "[=kempiti+gndr@m.][NRoot][=armored.catfish (ES: carachama; sci.nm.: plecostomus.sp., hypostomus.sp.), fish.sp.]" : {kempiti}
-| "[=kempitzi+gndr@m.][NRoot][=armored.catfish (ES: carachama; sci.nm.: plecostomus.sp., hypostomus.sp.), fish.sp.]" : {kempitzi}
-| "[=kimpitzi+gndr@m.][NRoot][=armored.catfish (ES: carachama; sci.nm.: plecostomus.sp., hypostomus.sp.), fish.sp.]" : {kimpitzi}
+| "[=kempiti+gndr@m.+sem@fish][NRoot][=armored.catfish (ES: carachama; sci.nm.: plecostomus.sp., hypostomus.sp.), fish.sp.]" : {kempiti}
+| "[=kempitzi+gndr@m.+sem@fish][NRoot][=armored.catfish (ES: carachama; sci.nm.: plecostomus.sp., hypostomus.sp.), fish.sp.]" : {kempitzi}
+| "[=kimpitzi+gndr@m.+sem@fish][NRoot][=armored.catfish (ES: carachama; sci.nm.: plecostomus.sp., hypostomus.sp.), fish.sp.]" : {kimpitzi}
 # --------------------------------------------------------------------- 
 ! 
 # mite: minute arachnid that has four pairs of legs 
