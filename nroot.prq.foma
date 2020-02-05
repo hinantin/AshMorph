@@ -3097,7 +3097,7 @@ define NRootPRQin [
 # -----------------------------------------------------------------------
 ! 
 | "[=maaniri+gndr@n.m.][NRoot][=black.cinnamon.sp., medicinal.tree.sp.]" : {maaniri}
-| "[=maaniri][NRoot][=person's.name, NP]" : {maaniri}
+| "[=maaniri+sem@NP.person][NRoot][=person's.name, NP]" : {maaniri}
 # -----------------------------------------------------------------------
 ! 
 | "[=mamori+gndr@m.+sem@fish][NRoot][=fish.sp., sabalo (ES: sábalo; sci.nm.: brycon.sp.)]" : {mamori}
