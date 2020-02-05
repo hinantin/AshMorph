@@ -5660,11 +5660,11 @@ define NRootPRQin [
 | "[=sashintzi+gndr@m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones; ES: tunchi, tunche); red-billed.ground-cuckoo (sci.nm.: neomorphus.pucheranii)]" : {sashintzi}
 | "[=sashinti+gndr@m.][NRoot][=flying.demon.who.shapeshifts.into.a.human (tunchi, known.for.breaking.bones; ES: tunchi, tunche); red-billed.ground-cuckoo (sci.nm.: neomorphus.pucheranii)]" : {sashinti}
 ! 
-| "[=soisointzi+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon (ES: tunche); purple.gallinule (sci.nm.: porphyrula.martinica)]" : {soisointzi}
-| "[=soisoitzi+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon (ES: tunche); purple.gallinule (sci.nm.: porphyrula.martinica)]" : {soisoitzi}
+| "[=soisointzi+gndr@m.+sem@bird][NRoot][=nocturnal.bird.sp.; ghost, demon (ES: tunche); purple.gallinule (sci.nm.: porphyrula.martinica)]" : {soisointzi}
+| "[=soisoitzi+gndr@m.+sem@bird][NRoot][=nocturnal.bird.sp.; ghost, demon (ES: tunche); purple.gallinule (sci.nm.: porphyrula.martinica)]" : {soisoitzi}
 ! 
-| "[=naashiintsatziri+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon (ES: tunche)]" : {naashiintsatziri}
-| "[=naashiintsatiri+gndr@m.][NRoot][=nocturnal.bird.sp.; ghost, demon (ES: tunche)]" : {naashiintsatiri}
+| "[=naashiintsatziri+gndr@m.+sem@bird][NRoot][=nocturnal.bird.sp.; ghost, demon (ES: tunche)]" : {naashiintsatziri}
+| "[=naashiintsatiri+gndr@m.+sem@bird][NRoot][=nocturnal.bird.sp.; ghost, demon (ES: tunche)]" : {naashiintsatiri}
 # ------------------------------------------------------------
 ! 
 | "[=shaveta+gndr@m.][NRoot][=daytime/diurnal.butterfly.sp., non-edible.butterfly.sp. (ES: mariposa.diurna.no.comestible)]" : {shaveta}
