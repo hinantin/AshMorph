@@ -1721,17 +1721,17 @@ define NRootPRQin [
 | "[=tsipa+gndr@n.m.][NRoot][=wife]" : {tsipa}
 # ---------------------------------------------------------------------
 ! 
-| "[=tsiya+gndr@m.][NRoot][=bird.sp. (ES: chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]" : {tsiya}
-| "[=tsiyaa+gndr@m.][NRoot][=bird.sp. (ES: chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]" : {tsiyaa}
+| "[=tsiya+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]" : {tsiya}
+| "[=tsiyaa+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]" : {tsiyaa}
 # ---------------------------------------------------------------------
 ! 
-| "[=tsityoki+gndr@m.][NRoot][=parakeet.sp. (ES: pihuicho, perico); blue-winged.parakeet (sci.nm.: forpus.xantopterigius)]" : {tsityoki}
+| "[=tsityoki+gndr@m.+sem@bird][NRoot][=parakeet.sp. (ES: pihuicho, perico); blue-winged.parakeet (sci.nm.: forpus.xantopterigius)]" : {tsityoki}
 # ---------------------------------------------------------------------
 ! 
-| "[=tsiva+gndr@m.][NRoot][=tree.sp., copal.tree.sp.]" : {tsiva}
+| "[=tsiva+gndr@m.+sem@plant][NRoot][=tree.sp., copal.tree.sp.]" : {tsiva}
 # ---------------------------------------------------------------------
 ! 
-| "[=tsivankiri+gndr@n.m.][NRoot][=tree.sp., huayruro.tree]" : {tsivankiri}
+| "[=tsivankiri+gndr@n.m.+sem@plant][NRoot][=tree.sp., huayruro.tree]" : {tsivankiri}
 # ---------------------------------------------------------------------
 ! 
 | "[=tsivitaroki+gndr@n.m.][NRoot][=corn.sp.]" : {tsivitaroki}
@@ -1743,7 +1743,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 # usado para producir planchas de triplay 
-| "[=tsivoki][NRoot][=timber.tree.sp. (it.is.used.to.produce.plywood; ES: hubo, ubos, sp.de.árbol.maderable; PT: palheira; sci.nm.: spondias.mombin)]" : {tsivoki}
+| "[=tsivoki+gndr@n.m.+sem@plant][NRoot][=timber.tree.sp. (it.is.used.to.produce.plywood; ES: hubo, ubos, sp.de.árbol.maderable; PT: palheira; sci.nm.: spondias.mombin)]" : {tsivoki}
 # ---------------------------------------------------------------------
 ! 
 ! SRC: thovatsi / 
@@ -1770,7 +1770,7 @@ define NRootPRQin [
 | "[=poshi+gndr@m.+poss@ti.+sem@fish][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {poshi}
 # ---------------------------------------------------------------------
 ! 
-| "[=ititsapaki][NRoot][=toe]" : {ititsapaki}
+| "[=ititsapaki+sem@b.p.][NRoot][=toe]" : {ititsapaki}
 # ---------------------------------------------------------------------
 ! 
 | "[=iraka][NRoot][=ripe (ES: maduro)]" : {iraka}
