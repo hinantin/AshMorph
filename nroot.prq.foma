@@ -6699,18 +6699,18 @@ define NRootPRQin [
 | "[=tsinãni+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl]" : {tsinãni} ! N@->V
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsinaro+gndr@m.][NRoot][=cricket.sp. (ES: sp.de.grillo);| grasshopper.sp.]" : {tsinaro} ! @section:noun@ 
-| "[=tsinavo+gndr@m.][NRoot][=cricket.sp. (ES: sp.de.grillo); grasshopper.sp.]" : {tsinavo} 
+| "[=tsinaro+gndr@m.+sem@insect][NRoot][=cricket.sp. (ES: sp.de.grillo);| grasshopper.sp.]" : {tsinaro} ! @section:noun@ 
+| "[=tsinavo+gndr@m.+sem@insect][NRoot][=cricket.sp. (ES: sp.de.grillo); grasshopper.sp.]" : {tsinavo} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsintakori+gndr@m.][NRoot][=cricket.sp. (ES: sp.de.grillo)]" : {tsintakori} 
+| "[=tsintakori+gndr@m.+sem@insect][NRoot][=cricket.sp. (ES: sp.de.grillo)]" : {tsintakori} 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsinkamento+inal@tsi.][NRoot][=pounding.wooden_stick (ES: machacador); wooden.pestle (ES: machacador); wooden.crusher (ES: machacador)]" : {tsinkamento} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsinki+gndr@m.][NRoot][=eel.sp. (ES: anguila; sci.nm.: sternarchidae, adontosternarchus.sp.)]" : {tsinki} 
-| "[=tsinke+gndr@m.][NRoot][=eel.sp. (ES: anguila; sci.nm.: sternarchidae, adontosternarchus.sp.)]" : {tsinke} 
+| "[=tsinki+gndr@m.+sem@fish][NRoot][=eel.sp. (ES: anguila; sci.nm.: sternarchidae, adontosternarchus.sp.)]" : {tsinki} 
+| "[=tsinke+gndr@m.+sem@fish][NRoot][=eel.sp. (ES: anguila; sci.nm.: sternarchidae, adontosternarchus.sp.)]" : {tsinke} 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsinkoti][NRoot][=cultigen/edible.plant.sp. (maranta, sci.nm.: maranta.arudinaca)]" : {tsinkoti} 
@@ -6719,7 +6719,7 @@ define NRootPRQin [
 | "[=tsintaki][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {tsintaki} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsioni][NRoot][=bearded.guan (ES: guan.barbado; sci.nm.: aburria.aburri)]" : {tsioni} 
+| "[=tsioni+gndr@m.+sem@bird][NRoot][=bearded.guan (ES: guan.barbado; sci.nm.: aburria.aburri)]" : {tsioni} 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsipana+gndr@n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
