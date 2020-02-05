@@ -6685,9 +6685,9 @@ define NRootPRQin [
 | "[=tsimenkito+gndr@m.+poss@te.][NRoot][=carbon (ES: carbón)]" : {tsimenkito} ! the gender is a result from my own analysis.
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsinampari+gndr@m.][NRoot][=ant.sp. (ES: sitarácuy, sp.de.hormiga)]" : {tsinampari} 
-| "[=tsinamparo+gndr@n.m.][NRoot][=ant.sp. (ES: sitarácuy, sp.de.hormiga)]" : {tsinamparo} 
-| "[=tsinampavo+gndr@n.m.][NRoot][=ant.sp. (ES: sitarácuy, sp.de.hormiga)]" : {tsinampavo} 
+| "[=tsinampari+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sitarácuy, sp.de.hormiga)]" : {tsinampari} 
+| "[=tsinamparo+gndr@n.m.+sem@insect][NRoot][=ant.sp. (ES: sitarácuy, sp.de.hormiga)]" : {tsinamparo} 
+| "[=tsinampavo+gndr@n.m.+sem@insect][NRoot][=ant.sp. (ES: sitarácuy, sp.de.hormiga)]" : {tsinampavo} 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsinamparo+gndr@n.m.][NRoot][=lesbian (ES: lesbiana)]" : {tsinamparo} 
