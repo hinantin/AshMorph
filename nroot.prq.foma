@@ -6473,47 +6473,47 @@ define NRootPRQin [
 | "[=komashki][NRoot][=tree.sp. (ES: ayahuma; sci.nm.: coroupita.guianensis)]" : {komashki}
 ! 
 # ------------------------------------------------------------------------------ 
-| "[=tooso][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra; sci.nm.: oxydoras.niger)]" : {tooso}
-| "[=toso][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra; sci.nm.: oxydoras.niger)]" : {toso}
-| "[=toroshoki][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: oxydoras.niger)]" : {toroshoki}
-| "[=toroshoki_toso][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: oxydoras.niger)]" : {toroshoki_toso}
+| "[=tooso+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra; sci.nm.: oxydoras.niger)]" : {tooso}
+| "[=toso+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra; sci.nm.: oxydoras.niger)]" : {toso}
+| "[=toroshoki+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: oxydoras.niger)]" : {toroshoki}
+| "[=toroshoki_toso+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: oxydoras.niger)]" : {toroshoki_toso}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=toronti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero)]" : {toronti}
+| "[=toronti+gndr@m.+sem@bird][NRoot][=woodpecker.sp. (ES: pájaro.carpintero)]" : {toronti}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=torooko][NRoot][=fish.sp. (ES: sp.de.pez, chio.chio, chiochio; sci.nm.: curimatus.cillata)]" : {torooko}
+| "[=torooko+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez, chio.chio, chiochio; sci.nm.: curimatus.cillata)]" : {torooko}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=toropeeti+sem@NP.person][NRoot][=person's.name, NP]" : {toropeeti}
 | "[=toropetzi+sem@NP.person][NRoot][=person's.name, NP]" : {toropetzi}
 # ------------------------------------------------------------------------------ 
 ! 
-!| "[=toyuyo+gndr@m.][NRoot][=heron.sp.]" : {toyuyo}
-| "[=toyoyo+gndr@m.][NRoot][=heron.sp.]" : {toyoyo}
+!| "[=toyuyo+gndr@m.+sem@bird][NRoot][=heron.sp.]" : {toyuyo}
+| "[=toyoyo+gndr@m.+sem@bird][NRoot][=heron.sp.]" : {toyoyo}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsomanto+gndr@n.m.][NRoot][=tree.sp. (ES: cumala, sp.de.árbol)]" : {tsomanto}
+| "[=tsomanto+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: cumala, sp.de.árbol)]" : {tsomanto}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsome+gndr@n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsome} ! @VCMP
 | "[=tsomi+gndr@n.m.+inal@tsi.][NRoot][=plantain/banana.flower (ES: flor.de.plátano)]" : {tsomi} ! @VCMP
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsomiri+gndr@m.][NRoot][=black.boa.sp. (ES: boa.negra); demonic.water.owner, water.sprite]" : {tsomiri}
+| "[=tsomiri+gndr@m.+sem@reptile][NRoot][=black.boa.sp. (ES: boa.negra); demonic.water.owner, water.sprite]" : {tsomiri}
 | "[=tsomiri+gndr@m.][NRoot][=river.master (ES: dueño.del.río)]" : {tsomiri}
 | "[=tsomiriniro+~tsomiri{CL:/'bad/evil':niro/}][NRoot][=aquatic.monster.that.eats.drowned.bodies (ES: monstruo.acuático.que.come.los.cuerpos.ahogados)]" : {tsomiriniro}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsompare+gndr@m.][NRoot][=heron.sp. (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]" : {tsompare}
-| "[=tsompari+gndr@m.][NRoot][=heron.sp., crane (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]" : {tsompari}
+| "[=tsompare+gndr@m.+sem@bird][NRoot][=heron.sp. (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]" : {tsompare}
+| "[=tsompari+gndr@m.+sem@bird][NRoot][=heron.sp., crane (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]" : {tsompari}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=nini+gndr@n.m.+inal@tsi.][NRoot][=tongue (ES: lengua)]" : {nini}
 | "[=nene+gndr@n.m.+inal@tsi.][NRoot][=tongue (ES: lengua)]" : {nene}
 # ------------------------------------------------------------------------------ 
 ! palm species
-| "[=toniro+gndr@n.m.+poss@ti:te.][NRoot][=palm.tree.sp. (ES: aguaje; PT: buriti; sci.nm.: mauritia.flexuosa)]" : {toniro}
+| "[=toniro+gndr@n.m.+poss@ti:te.+sem@plant][NRoot][=palm.tree.sp. (ES: aguaje; PT: buriti; sci.nm.: mauritia.flexuosa)]" : {toniro}
 # ------------------------------------------------------------------------------ 
 !
 | "[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)]" : {tonkari}
