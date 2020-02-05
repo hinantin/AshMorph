@@ -44,6 +44,7 @@
 #    place.name -> +sem@NP.place
 #    river.name -> +sem@NP.river
 #    human.body.part -> +sem@b.p. 
+#    mammals -> +sem@mammal (bat, dolphin) 
 
 #    masculine gender
 #    ----------------
@@ -4880,11 +4881,11 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 # bats 
-| "[=piri][NRoot][=bat.sp. (ES: sp.de.murciélago; PT: morcego; sci.nm.: orden.chiroptera)]" : {piri}
-| "[=piiri][NRoot][=bat.sp. (ES: sp.de.murciélago; PT: morcego; sci.nm.: orden.chiroptera)]" : {piiri}
-| "[=pihiri][NRoot][=bat.sp. (ES: sp.de.murciélago; PT: morcego; sci.nm.: orden.chiroptera)]" : {pihiri}
-| "[=toantoani][NRoot][=big-and-dark.bat.sp.]" : {toantoani}
-| "[=tsompavito][NRoot][=big-and-gray.bat.sp.]" : {tsompavito}
+| "[=piri+sem@mammal][NRoot][=bat.sp. (ES: sp.de.murciélago; PT: morcego; sci.nm.: orden.chiroptera)]" : {piri}
+| "[=piiri+sem@mammal][NRoot][=bat.sp. (ES: sp.de.murciélago; PT: morcego; sci.nm.: orden.chiroptera)]" : {piiri}
+| "[=pihiri+sem@mammal][NRoot][=bat.sp. (ES: sp.de.murciélago; PT: morcego; sci.nm.: orden.chiroptera)]" : {pihiri}
+| "[=toantoani+sem@mammal][NRoot][=big-and-dark.bat.sp.]" : {toantoani}
+| "[=tsompavito+sem@mammal][NRoot][=big-and-gray.bat.sp.]" : {tsompavito}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pishava+sem@NP.person][NRoot][=person's.name, NP]" : {pishava}
