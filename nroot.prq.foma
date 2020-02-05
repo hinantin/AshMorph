@@ -6579,17 +6579,17 @@ define NRootPRQin [
 | "[=tsaante+gndr@n.m.][NRoot][=hanging.storage-container (ES: colgador.de.objetos)]" : {tsaante} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsaati+gndr@m.][NRoot][=bird.sp. (ES: pájaro)]" : {tsaati} 
+| "[=tsaati+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: pájaro)]" : {tsaati} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsavi+inal@tsi.][NRoot][=vagina (ES: vagina)]" : {tsavi}
-| "[=chavi+inal@tsi.][NRoot][=vagina (ES: vagina)]" : {chavi}
+| "[=tsavi+inal@tsi.+sem@b.p.][NRoot][=vagina (ES: vagina)]" : {tsavi}
+| "[=chavi+inal@tsi.+sem@b.p.][NRoot][=vagina (ES: vagina)]" : {chavi}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsaviniri+gndr@m.][NRoot][=termite.sp. (ES: sp.de.comején)]" : {tsaviniri}
+| "[=tsaviniri+gndr@m.+sem@insect][NRoot][=termite.sp. (ES: sp.de.comején)]" : {tsaviniri}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsamiri+gndr@m.][NRoot][=curassow.sp. (ES: paujil); razor-billed.curassow (ES: curaçao.de.pico.filudo; sci.nm.: crax.mitu, mitu.mitu)]" : {tsamiri}
+| "[=tsamiri+gndr@m.+sem@bird][NRoot][=curassow.sp. (ES: paujil); razor-billed.curassow (ES: curaçao.de.pico.filudo; sci.nm.: crax.mitu, mitu.mitu)]" : {tsamiri}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsamirimenta][NRoot][=curassow.crest.stone (historical.landmark)]" : {tsamirimenta}
@@ -6602,7 +6602,7 @@ define NRootPRQin [
 | "[=tampatyika][NRoot][=noon (ES: mediodía)]" : {tampatyika}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsaampi][NRoot][=butterfly.sp. (ES: mariposa)]" : {tsaampi}
+| "[=tsaampi+gndr@m.+sem@insect][NRoot][=butterfly.sp. (ES: mariposa)]" : {tsaampi}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsanaro+gndr@n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca; QU: unkucha; botany.id: colocasia.esculenta)]" : {tsanaro}
@@ -6621,7 +6621,7 @@ define NRootPRQin [
 | "[=tsanoiriki+~{N:/'neck':tsano/}{inanim.dim.PL:iriki}+gndr@n.m.+inal@ntsi.][NRoot][=adornment (ES: adorno.(que.ponen.en.el.cuello))]" : {tsanoiriki} ! @section:noun@ 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsapaki][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
+| "[=tsapaki+sem@b.p.][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsapi+gndr@n.m.+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsapi}
