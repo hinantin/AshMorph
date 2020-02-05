@@ -1617,8 +1617,8 @@ define NRootPRQin [
 | "[=aerontsi+gndr@n.m.+kin@male.ego][NRoot][=mother.in.law (ES: suegra)]" : {aerontsi}
 # ---------------------------------------------------------------------
 ! 
-| "[=iyotsi+gndr@m.][NRoot][=catfish.sp. (ES: súngaro, doncella); fish.sp., barred.shovelnose (ES: súngaro.(negro)]" : {iyotsi}
-| "[=iotsi+gndr@m.][NRoot][=catfish.sp. (ES: súngaro, doncella); fish.sp., barred.shovelnose (ES: súngaro.(negro)]" : {iotsi}
+| "[=iyotsi+gndr@m.+sem@bird][NRoot][=catfish.sp. (ES: súngaro, doncella); fish.sp., barred.shovelnose (ES: súngaro.(negro)]" : {iyotsi}
+| "[=iotsi+gndr@m.+sem@bird][NRoot][=catfish.sp. (ES: súngaro, doncella); fish.sp., barred.shovelnose (ES: súngaro.(negro)]" : {iotsi}
 # ---------------------------------------------------------------------
 ! 
 # ivenki: plant only handle by males 
@@ -1702,7 +1702,7 @@ define NRootPRQin [
 | "[=tipo+gndr@n.m.+inal@tsi.][NRoot][=hoop, ring (ES: aro)]" : {tipo}
 # -------------------------------------------------------------------------------------------------
 ! 
-| "[=titiro][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodus.ornatus,, pimelodidae, rhamdia.sp.)]" : {titiro}
+| "[=titiro+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodus.ornatus,, pimelodidae, rhamdia.sp.)]" : {titiro}
 # -------------------------------------------------------------------------------------------------
 ! 
 | "[=tevaa+gndr@n.m.+inal@ntsi.][NRoot][=branch (ES: rama)]" : {tevaa}
