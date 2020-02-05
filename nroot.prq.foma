@@ -6647,17 +6647,17 @@ define NRootPRQin [
 | "[=tsaronka][NRoot][=fear]" : {tsaronka} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsavi][NRoot][=vagina]" : {tsavi} 
+| "[=tsavi+sem@b.p.][NRoot][=vagina]" : {tsavi} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsiirishi][NRoot][=La.Merced]" : {tsiirishi} 
+| "[=tsiirishi+sem@NP.place][NRoot][=La.Merced]" : {tsiirishi} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsiito+gndr@m.][NRoot][=mosquito.sp. (ES: sp.de.mosquito, manta.blanca)]" : {tsiito} 
-| "[=itsito][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {itsito} 
+| "[=tsiito+gndr@m.+sem@insect][NRoot][=mosquito.sp. (ES: sp.de.mosquito, manta.blanca)]" : {tsiito} 
+| "[=itsito+gndr@m.+sem@insect][NRoot][=mosquito.sp. (ES: sp.de.mosquito)]" : {itsito} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsiki+gndr@n.m.][NRoot][=palm-tree.sp. (ES: sp.de.palmera, chonta)]" : {tsiki} 
+| "[=tsiki+gndr@n.m.+sem@plant][NRoot][=palm-tree.sp. (ES: sp.de.palmera, chonta)]" : {tsiki} 
 # ------------------------------------------------------------------------------ 
 ! 
 ! tsikontochee / =tsiko -nto -chee / =to.become.stuck -nmz -cl:thorn  
@@ -6666,9 +6666,9 @@ define NRootPRQin [
 | "[=tsikontochee+~{V:/'to.become.stuck':tsiko/}{ADJ.PARTIC:nto}{CL:/'spine':chee/}][NRoot][=cat's.claw (ES: uña.de.gato; sci.nm.: uncaria.rubiaceae)]" : {tsikontochee} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsikontzi][NRoot][=buff-throated.woodcreeper (sci.nm.: xiphorhynchus.guttatus)]" : {tsikontzi} 
-| "[=tsikonti][NRoot][=woodpecker.sp. (ES: pájaro.carpintero); red-headed.black.woodpecker.sp. (ES: pájaro.carpintero.negro.con.cabeza.negra)]" : {tsikonti} 
-| "[=tsikonte][NRoot][=woodpecker.sp. (sci.nm.: phloeoceastes.melanoleucus)]" : {tsikonte} 
+| "[=tsikontzi+gndr@m.+sem@bird][NRoot][=buff-throated.woodcreeper (sci.nm.: xiphorhynchus.guttatus)]" : {tsikontzi} 
+| "[=tsikonti+gndr@m.+sem@bird][NRoot][=woodpecker.sp. (ES: pájaro.carpintero); red-headed.black.woodpecker.sp. (ES: pájaro.carpintero.negro.con.cabeza.negra)]" : {tsikonti} 
+| "[=tsikonte+gndr@m.+sem@bird][NRoot][=woodpecker.sp. (sci.nm.: phloeoceastes.melanoleucus)]" : {tsikonte} 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsikoro+gndr@n.m.][NRoot][=hook (ES: gancho)]" : {tsikoro}
@@ -6716,7 +6716,7 @@ define NRootPRQin [
 | "[=tsinkoti][NRoot][=cultigen/edible.plant.sp. (maranta, sci.nm.: maranta.arudinaca)]" : {tsinkoti} 
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsintaki][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {tsintaki} 
+| "[=tsintaki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {tsintaki} 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsioni+gndr@m.+sem@bird][NRoot][=bearded.guan (ES: guan.barbado; sci.nm.: aburria.aburri)]" : {tsioni} 
