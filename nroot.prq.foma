@@ -6061,7 +6061,7 @@ define NRootPRQin [
 | "[=paNki][NRoot][=feather (ES: pluma)]" : {panki} 
 # ------------------------------------------------------------
 ! 
-| "[=shivi+gndr@n.m.+inal@tsi.][NRoot][=penis (ES: pene; PT: pênis)]" : {shivi}
+| "[=shivi+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=penis (ES: pene; PT: pênis)]" : {shivi}
 # ------------------------------------------------------------
 ! 
 | "[=shivitsa+gndr@n.m.+poss@te:ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species]" : {shivitsa} ! N@->V::[=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)] 
@@ -6615,11 +6615,11 @@ define NRootPRQin [
 | "[=tanao+gndr@n.m.][NRoot][=edible.corm.sp., root.vegetable.sp., edible.tuber (ES: taro, pituca; QU: unkucha; botany.id: colocasia.esculenta)]" : {tanao}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsano+inal@tsi.][NRoot][=neck (ES: cuello)]" : {tsano}
+| "[=tsano+inal@tsi.+sem@b.p.][NRoot][=neck (ES: cuello)]" : {tsano}
 ! 
-| "[=niyamento+gndr@n.m.+inal@tsi.][NRoot][=throat (ES: garganta, faringe)]" : {niyamento}
-| "[=niamento+gndr@n.m.+inal@tsi.][NRoot][=throat (ES: garganta, faringe)]" : {niamento}
-| "[=niyaminto+gndr@n.m.+inal@tsi.][NRoot][=throat (ES: garganta, faringe)]" : {niyaminto}
+| "[=niyamento+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=throat (ES: garganta, faringe)]" : {niyamento}
+| "[=niamento+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=throat (ES: garganta, faringe)]" : {niamento}
+| "[=niyaminto+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=throat (ES: garganta, faringe)]" : {niyaminto}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsanoiriki+~{N:/'neck':tsano/}{inanim.dim.PL:iriki}+gndr@n.m.+inal@ntsi.][NRoot][=adornment (ES: adorno.(que.ponen.en.el.cuello))]" : {tsanoiriki} ! @section:noun@ 
