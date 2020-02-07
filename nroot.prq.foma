@@ -819,8 +819,8 @@ define NRootPRQin [
 | "[=chorikiti+gndr@m.+sem@bird][NRoot][=blue-and-white.swallow (sp.de.golondrina; sci.nm.: notiochelydon.cyanoleuca, neochelidon.tibialis.griseiventris)]" : {chorikiti}
 # ------------------------------------------------------------------
 ! 
-| "[=choketa+gndr@n.m.+inal@ntsi.][NRoot][=shoulder (ES: hombre), shoulder.blade (ES: omóplato)]" : {choketa} 
-| "[=chokita+gndr@n.m.+inal@ntsi.][NRoot][=shoulder (ES: hombre), shoulder.blade (ES: omóplato)]" : {chokita} 
+| "[=choketa+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=shoulder (ES: hombre), shoulder.blade (ES: omóplato)]" : {choketa} 
+| "[=chokita+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=shoulder (ES: hombre), shoulder.blade (ES: omóplato)]" : {chokita} 
 # ------------------------------------------------------------------
 ! 
 | "[=chookiro+gndr@m.+sem@insect][NRoot][=tree.ant.sp. (black.colored.ant; ES: hormiga.negra)]" : {chookiro} 
@@ -5681,8 +5681,8 @@ define NRootPRQin [
 !| "[=sheetzisani+~{N:/'ant.sp.':sheetzi/}{CL:/'wasp':sani/}+gndr@m.+sem@insect][NRoot][=wasp.sp.living.in.mutualistic.interaction.with.sheetzi-ant (ES: sp.de.avispa)]" : {sheetzisani} ! @section:noun@ 
 # ------------------------------------------------------------
 ! 
-| "[=shempa+gndr@n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; PT: ombro)]" : {shempa} ! @VCMP 
-| "[=sempa+gndr@n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro; PT: ombro)]" : {sempa}
+| "[=shempa+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=shoulder (ES: hombro; PT: ombro)]" : {shempa} ! @VCMP 
+| "[=sempa+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=shoulder (ES: hombro; PT: ombro)]" : {sempa}
 # ------------------------------------------------------------
 ! 
 | "[=sheno+gndr@n.m.+inal@tsi.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)]" : {sheno} ! N@->V 
