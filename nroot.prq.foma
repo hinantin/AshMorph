@@ -6744,7 +6744,7 @@ define NRootPRQin [
 | "[=tsirapa+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol, banderilla)]" : {tsirapa}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsirarato+sem@bird+gndr@m.][NRoot][=mountain.wren (ES: pájaro.shicapa; sci.nm.: troglodytes.solstitialis)]" : {tsirarato}
+| "[=tsirarato+gndr@m.+sem@bird][NRoot][=mountain.wren (ES: pájaro.shicapa; sci.nm.: troglodytes.solstitialis)]" : {tsirarato}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsiri][NRoot][=clay-like.substance]" : {tsiri}
@@ -6755,10 +6755,10 @@ define NRootPRQin [
 | "[=tsiri+gndr@m.+sem@reptile][NRoot][=edible.snake.sp. (ES: culebra.comestible)]" : {tsiri}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=tsirikana+gndr@n.m.][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]" : {tsirikana}
-| "[=tsirigana+gndr@n.m.][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]" : {tsirigana}
-| "[=tsirikanaa+gndr@n.m.][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]" : {tsirikanaa}
-| "[=tsitikana+gndr@n.m.][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]" : {tsitikana}
+| "[=tsirikana+gndr@n.m.+sem@fruit][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]" : {tsirikana}
+| "[=tsirigana+gndr@n.m.+sem@fruit][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]" : {tsirigana}
+| "[=tsirikanaa+gndr@n.m.+sem@fruit][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]" : {tsirikanaa}
+| "[=tsitikana+gndr@n.m.+sem@fruit][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]" : {tsitikana}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsirikirini][NRoot][=sticky (ES: pegajoso)]" : {tsirikirini} ! to.be.revised  
