@@ -271,25 +271,25 @@ define NRootPRQin [
 | "[=akipare+gndr@m.+inal@ntsi.][NRoot][=traditional.ashaninka.dish.prepared.with.shitovi_mushroom-and-tsipana_leaf-and-santeripana_leaf (ES: plato.típico.ashaninka.preparado.con...);| leaf.wrapped.food (ES: comida.envuelta.en.hojas)]" : {akipare} ! @section:noun@ 
 # ---------------------------------------------------------------  
 ! 
-!| "[=ako+gndr@n.m.+inal@tsi.][NRoot][=arm]" : {ako}
-| "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano; PT: mão)]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
-| "[=vako][NRoot][=hand (ES: mano; PT: mão)]" : {vako} ! @VCMP 
+!| "[=ako+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=arm]" : {ako}
+| "[=ako+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=hand (ES: mano; PT: mão)]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
+| "[=vako+sem@b.p.][NRoot][=hand (ES: mano; PT: mão)]" : {vako} ! @VCMP 
 ! 
-| "[=akoimpeki+~{N:/'hand':ako/}{CL:/'branching.from.one.node':impeki/}+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpeki} ! @section:noun@ 
-| "[=akoimpiki+~{N:/'hand':ako/}{CL:/'branching.from.one.node':impiki/}+gndr@n.m.+inal@ntsi.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpiki}
+| "[=akoimpeki+~{N:/'hand':ako/}{CL:/'branching.from.one.node':impeki/}+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpeki} ! @section:noun@ 
+| "[=akoimpiki+~{N:/'hand':ako/}{CL:/'branching.from.one.node':impiki/}+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpiki}
 ! 
-| "[=akopero+~{N:/'hand':ako/}{DEGR:pero}][NRoot][=wrist (ES: mano.derecha)]" : {akopero}
+| "[=akopero+~{N:/'hand':ako/}{DEGR:pero}+sem@b.p.][NRoot][=wrist (ES: mano.derecha)]" : {akopero}
 ! 
-| "[=akosampi+gndr@n.m.+inal@ntsi.][NRoot][=arm (ES: brazo)]" : {akosampi}
+| "[=akosampi+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=arm (ES: brazo)]" : {akosampi}
 ! 
-| "[=akosanori+~{N:/'hand':ako/}{CL:/'right':sanori/}][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akosanori}
-| "[=akopero+inal@n/tsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopero}
-| "[=akoperori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akoperori}
-| "[=akopirori+inal@ntsi.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopirori}
+| "[=akosanori+~{N:/'hand':ako/}{CL:/'right':sanori/}+sem@b.p.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akosanori}
+| "[=akopero+inal@n/tsi.+sem@b.p.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopero}
+| "[=akoperori+inal@ntsi.+sem@b.p.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akoperori}
+| "[=akopirori+inal@ntsi.+sem@b.p.][NRoot][=right.hand (ES: mano.derecha); right.side (ES: lado.derecho)]" : {akopirori}
 # ---------------------------------------------------------------  
 ! 
-| "[=akori+gndr@m.+sem@insect][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akori}
-| "[=akoritsa+gndr@m.+sem@insect][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akoritsa}
+| "[=akori+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akori}
+| "[=akoritsa+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akoritsa}
 # ---------------------------------------------------------------  
 ! 
 | "[=amarani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amarani}
