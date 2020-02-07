@@ -106,7 +106,7 @@ Spell-checking
 
  Test it on-line: https://hinant.in/ckeditor/samples/api.html
 
-For more information
+For more information contact
 ====================
 
 Richard ALexander Castro-Mamani
