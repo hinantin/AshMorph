@@ -398,11 +398,11 @@ define NRootPRQin [
 | "[=antyashipavo+gndr@n.m.][NRoot][=elderly.woman, old.woman]" : {antyashipavo}
 # ------------------------------------------------------------------
 ! 
-| "[=apa+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {apa}
-| "[=paa+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {paa}
-| "[=paapa+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {paapa}
+| "[=apa+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: padre)]" : {apa}
+| "[=paa+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: padre)]" : {paa}
+| "[=paapa+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: padre)]" : {paapa}
 ! 
-| "[=ariri+gndr@m.+kin@fe/male.ego][NRoot][=father]" : {ariri}
+| "[=ariri+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: padre)]" : {ariri}
 # ------------------------------------------------------------------
 ! 
 | "[=aparo][NRoot][=one (ES: un, uno)]" : {aparo}
