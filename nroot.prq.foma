@@ -43,7 +43,7 @@
 #    person's.name -> +sem@NP.person
 #    place.name -> +sem@NP.place
 #    river.name -> +sem@NP.river
-#    human.body.part -> +sem@b.p. 
+#    human.body.part -> +sem@b.p.
 #    mammals -> +sem@mammal (bat, dolphin) 
 
 #    masculine gender
@@ -1753,16 +1753,16 @@ define NRootPRQin [
 | "[=tsovaki][NRoot][=thin-and-elongated (ES: delgado-y-alargado); snout (ES: hocico)]" : {tsovaki} ! @VCMP 
 # ---------------------------------------------------------------------
 ! 
-| "[=itzi+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {itzi}
-| "[=itsi+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {itsi}
-| "[=iitzi+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {iitzi}
-| "[=eetzi+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {eetzi}
-| "[=iiti+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {iiti}
-| "[=iitsi+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {iitsi}
-| "[=iti+gndr@n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]" : {iti}
-| "[=kitzi+gndr@n.m.+inal@tsi.][NRoot][=leg; foot (ES: pie)]" : {kitzi}
-| "[=kitsi+gndr@n.m.+inal@tsi.][NRoot][=leg; foot (ES: pie)]" : {kitsi}
-!| "[=iitsikonta+~{N:/'foot':iitsi/}{CL:/'underside':konta/}+inal@ntsi.][NRoot][=sole.of.foot (ES: planta.del.pie)]" : {iitsikonta} ! @section:noun@ 
+| "[=itzi+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {itzi}
+| "[=itsi+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {itsi}
+| "[=iitzi+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iitzi}
+| "[=eetzi+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {eetzi}
+| "[=iiti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iiti}
+| "[=iitsi+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iitsi}
+| "[=iti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iti}
+| "[=kitzi+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=leg; foot (ES: pie)]" : {kitzi}
+| "[=kitsi+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=leg; foot (ES: pie)]" : {kitsi}
+!| "[=iitsikonta+~{N:/'foot':iitsi/}{CL:/'underside':konta/}+inal@ntsi.+sem@b.p.][NRoot][=sole.of.foot (ES: planta.del.pie)]" : {iitsikonta} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=iposhi+gndr@m.+sem@fish][NRoot][=armored.catfish.sp. (ES: especie.carachama)]" : {iposhi}
