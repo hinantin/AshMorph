@@ -967,7 +967,7 @@ define NRootPRQin [
 ! 
 | "[=ereki+~{V:/'to.be.tender':ere/}{CL:/'small.insect-like':ki/}][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {ereki}
 | "[=eereki+~{V:/'to.be.tender':eere/}{CL:/'small.insect-like':ki/}][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {eereki}
-| "[=iiriki+poss@ti.][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {iiriki}
+| "[=iiriki+~{V:/'to.be.tender':iiri/}{CL:/'small.insect-like':ki/}+poss@ti.][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]" : {iiriki}
 # ------------------------------------------------------------------
 ! 
 | "[=erorentzi+gndr@m.+sem@NP.person][NRoot][=NP]" : {erorentzi}
