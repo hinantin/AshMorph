@@ -1201,8 +1201,8 @@ define NRootPRQin [
 | "[=hevare+gndr@m.+inal@ntsi.][NRoot][=fan (ES: abanico; PT: fã)]" : {hevare}
 # ------------------------------------------------------------------
 ! 
-| "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
-| "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
+| "[=sompo+inal@tsi.][NRoot][=tumor (ES: tumor); boil (ES: chupo)]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
+| "[=hompo+inal@tsi.][NRoot][=tumor (ES: tumor); boil (ES: chupo)]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 # ------------------------------------------------------------------
 ! 
 | "[=ime+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {ime}
