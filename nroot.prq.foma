@@ -2294,14 +2294,14 @@ define NRootPRQin [
 | "[=kimpiro+gndr@m.][NRoot][=venomous.snake.sp., bushmaster (ES: shushupe, anaconda.color.marrón.claro.y.figuras.geométricas.romboides.en.negro.y.marrón; sci.nm.: lachesis.muta.muta)]" : {kimpiro}
 # --------------------------------------------------------------------- 
 ! 
-| "[=kempita+gndr@n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
-| "[=kimpita+gndr@n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kimpita}
-| "[=yempita+gndr@n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {yempita}
-| "[=yempitaa+gndr@n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {yempitaa}
+| "[=kempita+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
+| "[=kimpita+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=ear (ES: oreja, oído)]" : {kimpita}
+| "[=yempita+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=ear (ES: oreja, oído)]" : {yempita}
+| "[=yempitaa+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=ear (ES: oreja, oído)]" : {yempitaa}
 # --------------------------------------------------------------------- 
 ! 
-| "[=kempityari][NRoot][=NP; place.name]" : {kempityari}
-| "[=kempityaari][NRoot][=NP; place.name]" : {kempityaari}
+| "[=kempityari+sem@NP.place][NRoot][=NP; place.name]" : {kempityari}
+| "[=kempityaari+sem@NP.place][NRoot][=NP; place.name]" : {kempityaari}
 # --------------------------------------------------------------------- 
 ! 
 | "[=kempiti+gndr@m.+sem@fish][NRoot][=armored.catfish (ES: carachama; sci.nm.: plecostomus.sp., hypostomus.sp.), fish.sp.]" : {kempiti}
