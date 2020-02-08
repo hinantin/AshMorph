@@ -38,6 +38,7 @@ define VRootPRQin [
 ! 
 | "[=ay][VRoot][=to.take]" : {ay}
 | "[=ay][VRoot][=to.get]" : {ay}
+| "[=ag+INF@VC.][VRoot][=to.take; to.get (ES: traer)]" : {ag}
 # ---------------------------------------------------
 ! 
 | "[=a][VRoot][=to.choose]" : {a}
