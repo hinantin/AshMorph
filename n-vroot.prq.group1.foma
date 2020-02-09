@@ -8,7 +8,7 @@ define NounToVerbPRQin [
 | "[=aapi+gndr@m.+poss@ti.+kin@fem.ego][NRoot][=elder, grandfather (ES: abuelo; PT: avô; IT: nonno)][^VBZ]" : {aapi} ! N@->V 
 | "[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]::[=to.become.Ashaninka][^VBZ]" : {ashaninka} ! N@->V::[=to.become.Ashaninka]
 | "[=aarontsi][NRoot][=(dry.season|summer) (ES: verano)]::[=to.be.summer (ES: haber.verano)][^VBZ]" : {aarontsi} ! N@->V::[=to.be.summer (ES: haber.verano)] ! @section:noun@ 
-| "[=ako+gndr@n.m.+inal@tsi.][NRoot][=hand (ES: mano; PT: mão)]::[=to.hand.sth. (ES: dar.con.la.mano, entregar)][^VBZ]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
+| "[=ako+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=hand (ES: mano; PT: mão)]::[=to.hand.sth. (ES: dar.con.la.mano, entregar)][^VBZ]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
 | "[=amaani+gndr@n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)][^VBZ]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=amani+gndr@n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)][^VBZ]" : {amani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=antami+gndr@n.m.][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][^VBZ]" : {antami} ! N@->V
@@ -34,10 +34,10 @@ define NounToVerbPRQin [
 | "[=evonkiri+gndr@m.][NRoot][=medium; small (ES: mediano; pequeño)][^VBZ]" : {evonkiri} ! N@->V 
 | "[=hankenavaerenti+~{'to.write':hankena}{DUR:vae}{NMZ:re}{NMZ:nti}][NRoot][=writer (ES: escritor)]::[=to.be.a.writer (ES: ser.escritor)][^VBZ]" : {hankenavaerenti} ! N@->V::[=to.be.a.writer (ES: ser.escritor)] 
 | "[=hempeki][NRoot][=arm (ES: brazo); limb]::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)][^VBZ]" : {hempeki} ! N@->V::[=to.take.branches/firewood (ES: coger.ramas/leña); to.reach.one's.arms.up (ES: alcanzar.arriba.con.los.brazos)]
-| "[=horio/judío+gndr@m.][NRoot][=jewish][^VBZ]" : {horio} ! N@->V
-| "[=horiiyo/judío+gndr@m.][NRoot][=jewish][^VBZ]" : {horiiyo} ! N@->V
-| "[=sompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]::[=to.have.a.tumor (ES: tener.un.tumor)][^VBZ]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
-| "[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]::[=to.have.a.tumor (ES: tener.un.tumor)][^VBZ]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
+| "[=horio/judío+gndr@m.+sem@NP.person][NRoot][=jewish][^VBZ]" : {horio} ! N@->V
+| "[=horiiyo/judío+gndr@m.+sem@NP.person][NRoot][=jewish][^VBZ]" : {horiiyo} ! N@->V
+| "[=sompo+inal@tsi.][NRoot][=tumor (ES: tumor); boil (ES: chupo)]::[=to.have.a.tumor (ES: tener.un.tumor)][^VBZ]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
+| "[=hompo+inal@tsi.][NRoot][=tumor (ES: tumor); boil (ES: chupo)]::[=to.have.a.tumor (ES: tener.un.tumor)][^VBZ]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 | "[=intaina+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {intaina} ! N@->V ! revise if it belongs to this file 
 | "[=intaena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {intaena} ! N@->V ! revise if it belongs to this file 
 | "[=inteena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {inteena} ! N@->V ! revise if it belongs to this file 
@@ -73,8 +73,8 @@ define NounToVerbPRQin [
 | "[=minko+gndr@n.m.+inal@tsi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)][^VBZ]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=menkori+gndr@n.m.][NRoot][=cloud (ES: nube)]::[=to.be.cloudy/foggy/misty (ES: estar.brumoso)][^VBZ]" : {menkori} ! N@->V::[=to.be.cloudy/foggy/misty (ES: estar.brumoso)]
 | "[=moro+gndr@n.m.+inal@n/tsi.][NRoot][=hole (ES: hueco)][^VBZ]" : {moro} ! N@->V @CMP @VCMP 
-| "[=motya][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ]" : {motya} ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
-| "[=moti+inal@tsi.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] ! @section:noun@ 
+| "[=motya+sem@b.p.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ]" : {motya} ! N@->V::[=to.get.pregnant (ES: embarazarse)] 
+| "[=moti+inal@tsi.+sem@b.p.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ]" : {moti} ! N@->V ! N@->V::[=to.get.pregnant (ES: embarazarse)] ! @section:noun@ 
 | "[=nampi+gndr@n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement]::[= (ES: vivir)][^VBZ]" : {nampi} ! N@->V::[= (ES: vivir)] +ADDUPPER@. @ADDLOWER@ 
 | "[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: rio)]::[=to.water][^VBZ]" : {nihaa} ! @CMP ! N@->V::[=to.water] @section:noun@ 
 | "[=mampira][NRoot][=aurora (ES: aurora)][^VBZ]" : {mampira} ! N@->V 
@@ -91,11 +91,11 @@ define NounToVerbPRQin [
 | "[=tsipamintsare][NRoot][=friend (ES: amigo)][^VBZ]" : {tsipamintsare} ! N@->V
 | "[=tsipikirontsi+gndr@n.m.][NRoot][= (ES: quincha/tejido/trama.hecha.de.caña_brava/carrizo)]::[= (ES: construir.una.quincha/tejido/trama)][^VBZ]" : {tsipikirontsi} ! N@->V::[= (ES: construir.una.quincha/tejido/trama)] 
 | "[=pomerentsi][NRoot][=difficulty (ES: dificultad)][^VBZ]" : {pomerentsi} ! N@->V 
-| "[=pitziki][NRoot][=male.genitals][^VBZ]" : {pitziki} ! N@->V @VCMP 
-| "[=pitzik][NRoot][=male.genitals][^VBZ]" : {pitzik} ! N@->V
+| "[=pitziki][NRoot][=male.genitalia (ES: genitales.masculinos)][^VBZ]" : {pitziki} ! N@->V @VCMP 
+| "[=pitzik][NRoot][=male.genitalia (ES: genitales.masculinos)][^VBZ]" : {pitzik} ! N@->V
 | "[=santi+inal@tsi.][NRoot][=fart (ES: pedo)]::[=to.fart (ES: tirarse.un.pedo)][^VBZ]" : {santi} ! N@->V::[=to.fart (ES: tirarse.un.pedo)] 
-| "[=kasanto+gndr@n.m.][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]::[=to.be.an.orchid][^VBZ]" : {kasanto} ! N@->V::[=to.be.an.orchid]  
-| "[=sheno+gndr@n.m.+inal@tsi.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta); whooping.cough (es: tos.ferina)][^VBZ]" : {sheno} ! N@->V 
+| "[=kasanto+gndr@n.m.+sem@plant][NRoot][=orchid.flower.sp. (ES: sp.de.flor.orquídea)]::[=to.be.an.orchid][^VBZ]" : {kasanto} ! N@->V::[=to.be.an.orchid]  
+| "[=sheno+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=pharynx (ES: faringe); Adam's.apple (ES: nuez.de.la.garganta)][^VBZ]" : {sheno} ! N@->V 
 | "[=sheripiari+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]::[=to.be.a.shaman][^VBZ]" : {sheripiari} ! N@->V::[=to.be.a.shaman]  
 | "[=sheripiyari+gndr@m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]::[=to.act.as.a.shaman][^VBZ]" : {sheripiyari} ! N@->V::[=to.act.as.a.shaman]  
 | "[=shetaki+gndr@n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)][^VBZ]" : {shetaki} ! N@->V
@@ -114,7 +114,7 @@ define NounToVerbPRQin [
 | "[=taki+gndr@n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin][^VBZ]" : {taki} ! N@->V 
 | "[=tampia+gndr@n.m.][NRoot][=wind (ES: viento)]::[=to.be.windy, there.be.wind (ES: hacer.viento)][^VBZ]" : {tampia} ! N@->V::[=to.be.windy, there.be.wind (ES: hacer.viento)]
 | "[=shincha+gndr@n.m.][NRoot][=(river).current (ES: corriente.(del.río))]::[= (ES: haber.una.corriente.fuerte)][^VBZ]" : {shincha} ! N@->V::[= (ES: haber.una.corriente.fuerte)] 
-| "[=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son][^VBZ]" : {tomi} ! N@->V 
+| "[=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son (ES: hijo)][^VBZ]" : {tomi} ! N@->V 
 | "[=tsantsa][NRoot][=long (in.length; ES: largo); big][^VBZ]" : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length; ES: largo)][^VBZ]" : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length; ES: largo)][^VBZ]" : {hantsa} ! N@->V @CMP
@@ -124,9 +124,9 @@ define NounToVerbPRQin [
 | "[=tzinani+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl][^VBZ]" : {tzinani} ! N@->V
 | "[=tsinãni+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl][^VBZ]" : {tsinãni} ! N@->V
 | "[=tsitene][NRoot][=night (ES: noche)]::[=to.get.dark (ES: oscurecer, anochecer)][^VBZ]" : {tsitene} ! N@->V::[=to.get.dark (ES: oscurecer, anochecer)] 
-| "[=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)][^VBZ]" : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
-| "[=tsome+inal@tsi.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)][^VBZ]" : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
-| "[=tsomonte][NRoot][=belly (ES: abdomen, barriga)]::[=to.be.pregnant (ES: estar.embarazada)][^VBZ]" : {tsomonte} ! N@->V::[=to.be.pregnant (ES: estar.embarazada)] 
+| "[=tsomi+inal@tsi.+sem@b.p.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)][^VBZ]" : {tsomi} ! N@->V::[=to.breastfeed (ES: mamar)]  
+| "[=tsome+inal@tsi.+sem@b.p.][NRoot][=breast, bosom (ES: teta, busto)]::[=to.breastfeed (ES: mamar)][^VBZ]" : {tsome} ! N@->V::[=to.breastfeed (ES: mamar)]  
+| "[=tsomonte+sem@b.p.][NRoot][=belly (ES: abdomen, barriga)]::[=to.be.pregnant (ES: estar.embarazada)][^VBZ]" : {tsomonte} ! N@->V::[=to.be.pregnant (ES: estar.embarazada)] 
 | "[=viti+gndr@n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma)][^VBZ]" : {viti} ! N@->V
 | "[=vitzi+gndr@n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma); skin]::[VIRVRoot+INF@/EP:t/V.][=to.grow.hair][^VBZ]" : {vitzi} ! N@->V::[VIRVRoot+INF@/EP:t/V.][=to.grow.hair]
 | "[=ayompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo); short-distance.bartering.made.by.males (ES: trueque.de.corta.distancia; PT: sistema.de.trocas.tradicional)]::[=to.barter.sth. (ES: hacer.trueque)][^VBZ]" : {ayompari} ! N@->V::[=to.barter.sth. (ES: hacer.trueque)] ! the verb form is an assumption of mine

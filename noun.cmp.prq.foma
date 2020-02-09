@@ -13,10 +13,10 @@ define NRootCmpPRQin [
 | "[--][=kaaniri+~kaanir{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
 | "[--][=kanire+~kanir{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[--][=kainiri+~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
-| "[--][=kasanto+gndr@n.m.][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
-| "[--][=kempita+gndr@n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
+| "[--][=kasanto+gndr@n.m.+sem@bird][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
+| "[--][=kempita+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
 | "[--][=kishi][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {kishi} ! @CMP 
-| "[--][=kisontainari+gndr@m.][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari} ! @CMP @section:noun@ 
+| "[--][=kisontainari+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari} ! @CMP @section:noun@ 
 | "[--][=kitaiteri][NRoot][=day (ES: día; PT: dia; QU: p'unchay, p'unchaw)]" : {kitaiteri} ! @CMP @section:noun@ 
 | "[--][=konta+gndr@n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
 | "[--][=kontya+gndr@n.m.+inal@tsi.][NRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {kontya} ! @CMP 
@@ -26,8 +26,8 @@ define NRootCmpPRQin [
 | "[--][=niha+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]" : {niha} ! @CMP 
 | "[--][=chera][NRoot][=shore (ES: orilla)]" : {chera} ! @CMP 
 | "[--][=noma+gndr@n.m.+inal@tsi.][NRoot][=jaw (ES: mandíbula, quijada)]" : {noma} ! @CMP
-| "[--][=panka+gndr@n.m.+inal@tsi.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
-| "[--][=pankaina+inal@tsi.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
+| "[--][=panka+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
+| "[--][=pankaina+inal@tsi.+sem@b.p.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
 | "[--][=panko+gndr@n.m.+inal@tsi.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
 | "[--][=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 | "[--][=peshi+gndr@n.m.+inal@tsi.][NRoot][=shoot (ES: retoño); stalk.of.a.plant, cluster, the.part.of.the.banana_plant.that.is.planted]" : {peshi} ! @CMP 
@@ -42,17 +42,17 @@ define NRootCmpPRQin [
 | "[--][=sheya+gndr@n.m.+poss@ni+sem@plant][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {sheya} ! @CMP 
 | "[--][=shiya+gndr@n.m.+poss@ni+sem@plant][NRoot][=palm.tree.sp. (ES: ungurahui, ungurague, unguravi, ungurabe; PT: patoá)]" : {shiya} ! @CMP 
 | "[--][=shaa+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)]" : {shaa} ! @CMP 
-| "[--][=sanii+gndr@m.][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
+| "[--][=sanii+gndr@m.+sem@worm-shaped][NRoot][=wasp (ES: avispa)]" : {sanii} ! @CMP 
 | "[--][=vaNki][NRoot][=feather (ES: pluma); wing_feather]" : {vanki} ! @CMP N@->V::[=to.have.wings (ES: tener.alas)] 
-| "[--][=taapi+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {taapi} ! @CMP
-| "[--][=tapi+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {tapi} ! @CMP
-| "[--][=tapii+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {tapii} ! @CMP
-| "[--][=taapii+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {taapii} ! @CMP
+| "[--][=taapi+inal@ntsi.+sem@b.p.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {taapi} ! @CMP
+| "[--][=tapi+inal@ntsi.+sem@b.p.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {tapi} ! @CMP
+| "[--][=tapii+inal@ntsi.+sem@b.p.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {tapii} ! @CMP
+| "[--][=taapii+inal@ntsi.+sem@b.p.][NRoot][=back (body.part; ES: espalda); bottom; lower.side]" : {taapii} ! @CMP
 | "[--][=tsantsa][NRoot][=long (in.length; ES: largo); big]" : {tsantsa} ! N@->V @CMP
 | "[--][=santsa][NRoot][=long (in.length; ES: largo)]" : {santsa} ! N@->V @CMP
 | "[--][=hantsa][NRoot][=long (in.length; ES: largo)]" : {hantsa} ! N@->V @CMP
-| "[--][=tsapaki][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
-| "[--][=tsipana+gndr@n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
+| "[--][=tsapaki+sem@b.p.][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
+| "[--][=tsipana+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
 # @CMP			noun composition 
 | "[--][=tapo+s.redup.word@2X.][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
 | "[--][=pani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {pani} ! @CMP 
