@@ -3459,6 +3459,7 @@ define VRootPRQin [
 | "[=aa][VRoot][=to.take][--][=shinto+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=daughter]::[=to.marry.sb's.daughter]" : {aashinto}
 ! ishintotsorintakaro / EN: 'he.took.her.as.his.niece'
 | "[=shinto+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=daughter][--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin][--][-nt][VS][+POSS.REL]::[=to.take.sb.as.niece]" : {shintotsorint}
+| "[=saro+gndr@n.m.+kin@fe/male.ego][NRoot][=grandmother][--][-nt][VS][+POSS.REL]::[=...]" : {saront}
 # --------------------------------------------------------------------------- 
 ! copula of capacity COP.CAP
 | "[=kara+INF@/EP:t/aantsi.][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)]" : {kara} ! CAP.C ~ COP.CAP ~ COP.C 
