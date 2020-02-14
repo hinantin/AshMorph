@@ -84,9 +84,11 @@ define NumeralPRQin [
 ! 
 # 40 
 | "[=apitetaniri][Numeral:PRQ][=40 ~ forty (ES: cuarenta)]" : {apitetaniri}
+| "[=otsipatzita_apitevakaya][Numeral:PRQ][=40 ~ forty (ES: cuarenta)]" : {otsipatzita_apitevakaya}
 ! 
 # 50 
 | "[=apapokoronini][Numeral:PRQ][=50 ~ fifty (ES: cincuenta)]" : {apapokoronini}
+| "[=apapakoronipakote][Numeral:PRQ][=50 ~ fifty (ES: cincuenta)]" : {apapakoronipakote}
 ! 
 # 60 
 | "[=oihatzironiri][Numeral:PRQ][=60 ~ sixty (ES: sesenta)]" : {oihatzironiri}
