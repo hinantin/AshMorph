@@ -92,9 +92,11 @@ define NumeralPRQin [
 ! 
 # 60 
 | "[=oihatzironiri][Numeral:PRQ][=60 ~ sixty (ES: sesenta)]" : {oihatzironiri}
+| "[=oyaatziroripakote][Numeral:PRQ][=60 ~ sixty (ES: sesenta)]" : {oyaatziroripakote}
 ! 
 # 70 
 | "[=yantsiniri][Numeral:PRQ][=70 ~ seventy (ES: setenta)]" : {yantsiniri}
+| "[=otsipatapakote][Numeral:PRQ][=70 ~ seventy (ES: setenta)]" : {otsipatapakote}
 ! 
 # 80 
 | "[=ochoniri][Numeral:PRQ][=80 ~ eighty (ES: ochenta)]" : {ochoniri}
