@@ -6,11 +6,11 @@ define NumeralPRQin [
 | "[=apani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {apani} 
 | "[=pani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {pani} ! @CMP 
 ! 
-# 2 
+# 2 apité  
 | "[=apite][Numeral:PRQ][=2 ~ two (ES: dos)]" : {apite} ! N@->V
 | "[=pite][Numeral:PRQ][=2 ~ two (ES: dos)]" : {pite} ! @CMP 
 ! 
-# 3 
+# 3 mavá 
 | "[=mava][Numeral:PRQ][=3 ~ three (ES: tres)]" : {mava} ! N@->V  @CMP 
 | "[=maava][Numeral:PRQ][=3 ~ three (ES: tres)]" : {maava}
 ! 
@@ -22,6 +22,7 @@ define NumeralPRQin [
 | "[=otsi][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {otsi} ! @CMP 
 | "[=oyatanakerori][Numeral:PRQ][=4 ~ four (ES: cuatro)]" : {oyatanakerori} ! source:IIAP 
 | "[=otsipatapaka][Numeral][=4 ~ four (ES: cuatro)]" : {otsipatapaka}
+| "[=otsipatzita][Numeral][=4 ~ four (ES: cuatro)]" : {otsipatzita}
 ! 
 # 5 
 | "[=cinco][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {cinco}
