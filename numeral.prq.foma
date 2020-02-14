@@ -46,7 +46,7 @@ define NumeralPRQin [
 | "[=shirinkapaichari][Numeral:PRQ][=7 ~ seven (ES: siete)]" : {shirinkapaichari}
 | "[=tson][Numeral:PRQ][=7 ~ seven (ES: siete)]" : {tson} ! @CMP 
 | "[=tsipataenchari][Numeral][=7 ~ seven (ES: siete)]" : {tsipataenchari}
-| "[=otsipatapaacaro][Numeral][=7 ~ seven (ES: siete)]" : {otsipatapaacaro}
+| "[=otsipatapaakaro][Numeral][=7 ~ seven (ES: siete)]" : {otsipatapaakaro}
 ! 
 # 8 
 | "[=ocho][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {ocho}
@@ -54,18 +54,21 @@ define NumeralPRQin [
 | "[=tsoti][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {tsoti}
 | "[=soti][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {soti} ! @CMP 
 | "[=tsipanto][Numeral][=8 ~ eight (ES: ocho)]" : {tsipanto}
+| "[=apintapaaka][Numeral][=8 ~ eight (ES: ocho)]" : {apintapaaka}
 ! 
 # 9 
 | "[=pashini][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {pashini}
 | "[=yaatapakirori][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {yaatapakirori}
 | "[=tin][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {tin} ! @CMP 
 | "[=shirinkatsiri][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {shirinkatsiri}
+| "[=shirinkatsiri][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {shirinkapainchari}
 ! 
 # 10 
 | "[=apitevakaye][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {apitevakaye}
 | "[=oshikiri][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {oshikiri}
 | "[=tsa][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {tsa} ! @CMP 
 | "[=apipako][Numeral][=10 ~ ten (ES: diez)]" : {apipako}
+| "[=apipakote][Numeral][=10 ~ ten (ES: diez)]" : {apipakote}
 ! 
 # 18 
 | "[=dieciocho][Numeral:PRQ][=18 ~ eighteen]" : {dieciocho}
@@ -99,8 +102,10 @@ define NumeralPRQin [
 | "[=osheki][Numeral:PRQ][=100 ~ a.hundred (ES: cien)]" : {osheki}
 | "[=sheki][Numeral:PRQ][=100 ~ a.hundred (ES: cien)]" : {sheki}
 | "[=oshikiriri_oshikini][Numeral:PRQ][=100 ~ a.hundred (ES: cien)]" : {oshikiriri_oshikini}
+! 
 # 1000 
 | "[=irinka][Numeral:PRQ][=1000 ~ a.thousand (ES: mil)]" : {irinka}
+| "[=osheki_osheki][Numeral:PRQ][=1000 ~ a.thousand (ES: mil)]" : {osheki_osheki}
 ];
 
 # ---------------------------------------
