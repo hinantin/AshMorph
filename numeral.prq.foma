@@ -100,9 +100,11 @@ define NumeralPRQin [
 ! 
 # 80 
 | "[=ochoniri][Numeral:PRQ][=80 ~ eighty (ES: ochenta)]" : {ochoniri}
+| "[=apintapakote][Numeral:PRQ][=80 ~ eighty (ES: ochenta)]" : {apintapakote}
 ! 
 # 90 
 | "[=pashiniri][Numeral:PRQ][=90 ~ ninety (ES: noventa)]" : {pashiniri}
+| "[=shirinkapainpakote][Numeral:PRQ][=90 ~ ninety (ES: noventa)]" : {shirinkapainpakote}
 ! 
 # 100 
 | "[=osheki][Numeral:PRQ][=100 ~ a.hundred (ES: cien)]" : {osheki}
