@@ -14,7 +14,7 @@ Because it is often possible to find a word that combines several word stems wit
 semantic meaning (noun-incorporation and verbal classifiers).
 
 ```
-Noun incorporation
+Noun incorporation: tsapya 'river.bank'
 
 apaani asheninka isaikatsapyaatziro inkaare
 =apaani *** =asheninka *** i- =saik -a =tsapya -atz -i =ro *** =inkaare 
