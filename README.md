@@ -15,7 +15,8 @@ semantic meaning (noun-incorporation and verbal classifiers).
 
 ```
 apaani asheninka isaikatsapyaatziro inkaare
-=apaani *** =asheninka *** i- =saik -a =tsapya -atz -i =ro
+=apaani *** =asheninka *** i- =saik -a =tsapya -atz -i =ro *** =inkaare 
+=one *** =man *** 3m.A- =to.live -EP =river.bank -PROG -REAL =3n.m.O *** =lake 
 EN: 'a man who lives near a lake' /
 ES: 'un hombre que vivía cerca de una cocha' 
 ```
