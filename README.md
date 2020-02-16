@@ -18,8 +18,8 @@ Noun incorporation: tsapya 'river.bank'
 
 apaani asheninka isaikatsapyaatziro inkaare
 =apaani *** =asheninka *** i- =saik -a =tsapya -atz -i =ro *** =inkaare 
-=one *** =man *** 3m.A- =to.live -EP =river.bank -PROG -REAL =3n.m.O *** =lake 
-EN: 'a man who lived near a lake' 
+=one *** =man *** 3m.A- =to.live -EP =river.bank -PROG -IRR =3n.m.O *** =lake 
+EN: 'a man who lived near a lake'; Lit.: 'one man who lived in the lake bank'
 ES: 'un hombre que vivía cerca de una cocha' 
 ```
 
