@@ -1,7 +1,7 @@
 Ashaninka-Morph
 ===============
 
-This is a morphological analyzer for pan-Ashaninka written using Xerox finite state technology with a multilingual lexicon (Ashaninka, English, Spanish and Portuguese) entries in Quechua and Italian are provided in a lesser quantity.
+This is a morphological analyzer for pan-Ashaninka THAT IS written using Xerox finite state technology with a multilingual lexicon (Ashaninka, English, Spanish and Portuguese) entries in Quechua and Italian are provided in a lesser quantity.
 
 Pan-Ashaninka is the general term used to refer to a cluster of Arawak-dialects spoken in Peru and Acre-Brazil, the aforementioned cluster specifically comprises Ashéninka Pichis (Pi), Alto Perené (Pe), Ashéninka Pajonal (Paj), Ucayali-Yurua Ashéninka (U-Y), Ajyininka (or Ashéninka) Apucurayali (Apu), Ashaninka (Asha).
 
