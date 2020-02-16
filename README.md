@@ -14,7 +14,10 @@ Because it is often possible to find a word that combines several word stems wit
 semantic meaning (noun-incorporation and verbal classifiers).
 
 ```
-yovetsikavankote / y=ovetsik-a-vanko-t-e 
+apaani asheninka isaikatsapyaatziro inkaare
+=apaani *** =asheninka *** i- =saik -a =tsapya -atz -i =ro
+EN: 'a man who lives near a lake' /
+ES: 'un hombre que vivía cerca de una cocha' 
 ```
 
 #### Head-marking 
