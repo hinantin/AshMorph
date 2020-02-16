@@ -23,6 +23,17 @@ EN: 'a man who lived near a lake'; Lit.: 'one man who lived in the lake bank'
 ES: 'un hombre que vivía cerca de una cocha' 
 ```
 
+
+```
+Verbal classifier: ha 'liquid'
+
+katsinkajari / katsinkahari
+=katsinka -ha -ri 
+=to.be.cold -cl:liquid -rel 
+EN: 'cold.water; lit.: liquid.that.is.cold'
+ES: 'agua.fría; lit.: líquido.que.está.frio' 
+```
+
 #### Head-marking 
 
 Ashaninka possesses extensive agreement or cross-refencing. Heads such as verbs and nouns agree with 
