@@ -3431,7 +3431,7 @@ define VRootPRQin [
 ! 
 | "[=yo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)]" : {yo}
 | "[=yot+INF@(a)antsi:agaantsi.][VRoot][=to.know (ES: conocer, saber)]" : {yot}
-| "[=yotani+INF@/EP:t/aantsi.][VRoot][=to.know (ES: conocer, saber)]" : {yotani}
+| "[=yotani+INF@/EP:t/aantsi.][VRoot][=to.know (ES: conocer, saber)]" : {yotani} ! V@->N::[=knowledge (ES: conocimiento)] 
 | "[=yotane+INF@/EP:t/aantsi.][VRoot][=to.know (ES: conocer, saber)]" : {yotane}
 | "[=iyot+INF@aantsi:agaantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iyot}
 | "[=iyo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.know (ES: saber); to.learn (ES: aprender)]" : {iyo}
