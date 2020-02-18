@@ -56,11 +56,12 @@ Our analysis of the collected text corpus, shows that Ashaninka presents both pa
 3) koniha 'to.appear' -> koniha~koniha 'to.appear.again-and-again'
 ```
 
-Normalized writing sytem
-========================
+Normalized alphabet
+===================
 
 In order to give this project a certain amount of robustness, we have used a normalized version of the alphabet 
-developed by Elena Mihas to write every lexicon entry and affix. This means that every letter in an entry is mapped to
+developed by Elena Mihas to write every lexicon entry and all the affixes. 
+In addition to this, normalization rules have been implemented, this means that every letter in an input entry is mapped to
 its equivalent in the normalized alphabet before being fully analyzed. 
 
 Compiling with XFST or FOMA
