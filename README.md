@@ -59,7 +59,7 @@ Our analysis of the collected text corpus, shows that Ashaninka presents both pa
 Normalized alphabet
 ===================
 
-In order to give this project a certain amount of robustness, we have used a normalized version of the alphabet 
+In order to give this project a certain amount of robustness, we used a normalized version of the alphabet 
 developed by Elena Mihas to write every lexicon entry and all the affixes. 
 In addition to this, normalization rules have been implemented, this means that every letter in an input entry is mapped to
 its equivalent in the normalized alphabet before being fully analyzed. 
