@@ -51,7 +51,7 @@ define S [
 | (PRF) STATUS 
 | (APPL) STATUS (PRNO) 
 # -----------------------------------------------------------------------------
-# NOUN INCORPORATION 
+# NOUN INCORPORATION AND VERBAL CLASSIFIERS 
 # -----------------------------------------------------------------------------
 #| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (NMZ) # end-state? revise!!! nominalization???
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) ! noun root: noun, noun+noun 
