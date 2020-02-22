@@ -2582,8 +2582,9 @@ define VRootPRQin [
 | "[=shaik][VRoot][=to.be.at]" : {shaik}
 # ---------------------------------------------------------------------------
 ! 
-| "[=shamokotzi][VRoot][=to.fill.mouth.with.food]" : {shamokotzi}
-| "[=shamokotsi][VRoot][=to.fill.mouth.with.food]" : {shamokotsi}
+| "[=shamokotzi][VRoot][=to.fill.mouth.with.food (ES: llenar.la.boca.con.comida)]" : {shamokotzi}
+| "[=shamokotsi][VRoot][=to.fill.mouth.with.food (ES: llenar.la.boca.con.comida)]" : {shamokotsi}
+| "[=shamoko+INF@/EP:t/VC.][VRoot][=to.fill.mouth.with.food (ES: llenar.la.boca.con.comida)]" : {shamoko}
 # ---------------------------------------------------------------------------
 ! 
 | "[=sheki][VRoot][=to.be.much]" : {sheki}
@@ -2648,7 +2649,7 @@ define VRootPRQin [
 | "[=shimpe+INF@/EP:t/antsi.][VRoot][=to.fish.with.a.fish_trap]" : {shimpe}
 # ---------------------------------------------------------------------------
 ! 
-| "[=shini][VRoot][=to.allow (ES: permitir)]" : {shini}
+| "[=shini+INF@/EP:t/VC.][VRoot][=to.allow (ES: permitir)]" : {shini}
 | "[=shine+INF@/EP:t/VC.][VRoot][=to.allow (ES: permitir)]" : {shine}
 # ---------------------------------------------------------------------------
 ! 
@@ -2702,7 +2703,7 @@ define VRootPRQin [
 | "[=shirinka+~shirink{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.contract.in.size, to.shrink (i.e.: river; ES: mermar/estiar.(el.río))]" : {shirinka}
 # ---------------------------------------------------------------------------
 ! 
-| "[=shirinka][VRoot][=to.grow]" : {shirinka}8
+| "[=shirinka][VRoot][=to.grow]" : {shirinka}
 # ---------------------------------------------------------------------------
 ! 
 | "[=shironts][VRoot][=to.laugh.at.sb.]" : {shironts}
