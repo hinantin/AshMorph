@@ -376,7 +376,7 @@ define NRootPRQin [
 | "[=aNtami/ãtami+gndr@n.m.][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {ãtami}
 | "[=antame+gndr@n.m.][NRoot][=woods, forest (ES: selva, PT: floresta); dense.tropical.forest]" : {antame} 
 ! 
-| "[=antamishi][NRoot][=impenetratable.tropical.forest.with.a_lot_of.vines]" : {antamishi}
+| "[=antamishi+~{N/'forest':antami/}{CL:/'leaf':shi/}][NRoot][=impenetratable.tropical.forest.with.a_lot_of.vines]" : {antamishi}
 ! 
 | "[=tomiri][NRoot][=hillock (ES: monte)]" : {tomiri}
 ! tomirishi / ES: 'monte' 
