@@ -6771,8 +6771,9 @@ define NRootPRQin [
 | "[=tsirotzi+gndr@m.+sem@bird][NRoot][=yellow-rumped.cacique (sci.nm.: cacicus.cela; ES: sp.de.pájaro, chihuaco)]" : {tsirotzi}
 # ------------------------------------------------------------------------------
 ! 
-| "[=tsirotsiki+gndr@n.m.+sem@fruit][NRoot][=murmuru-palm.tree.fruit/seed (PT: fruto/semente.da.palmeira.murmuru, murmuru; sci.nm.: astrocaryum.ulei.burret)]" : {tsirotsiki}
-| "[=tsiirotsiiki+gndr@n.m.+sem@fruit][NRoot][=murmuru-palm.tree.fruit/seed (PT: fruto/semente.da.palmeira.murmuru, murmuru; sci.nm.: astrocaryum.ulei.burret)]" : {tsiirotsiiki}
+| "[=tsiirotsii+gndr@n.m.+sem@plant][NRoot:CPB][=murmuru-palm.tree (PT: palmeira.murmuru)]" : {tsiirotsii}
+| "[=tsirotsiki+gndr@n.m.+sem@fruit][NRoot:CPB][=murmuru-palm.tree.fruit/seed (PT: fruto/semente.da.palmeira.murmuru, murmuru; sci.nm.: astrocaryum.ulei.burret)]" : {tsirotsiki}
+| "[=tsiirotsiiki+gndr@n.m.+sem@fruit][NRoot:CPB][=murmuru-palm.tree.fruit/seed (PT: fruto/semente.da.palmeira.murmuru, murmuru; sci.nm.: astrocaryum.ulei.burret)]" : {tsiirotsiiki}
 # ------------------------------------------------------------------------------
 ! 
 | "[=tsiroti+gndr@m.+sem@fish][NRoot][=striped.fish.sp. (ES: sp.de.pez.rayado)]" : {tsiroti}
