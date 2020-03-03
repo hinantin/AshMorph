@@ -129,7 +129,7 @@ Then test it on-line at https://hinant.in/
 Spell-checking
 ================
 
- Test it on-line: https://hinant.in/ckeditor/samples/api.html
+ Test the spell-checker on-line: https://hinant.in/ckeditor/samples/api.html
 
 For more information contact
 ====================
