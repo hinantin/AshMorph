@@ -124,7 +124,7 @@ Software on-line testing
 
 Don't know how or want to install it?
 
-Then test it on-line at https://hinant.in/
+Then test the morphological analyzer on-line, go to https://hinant.in/
 
 Spell-checking
 ================
