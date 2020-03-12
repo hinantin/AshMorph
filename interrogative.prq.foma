@@ -158,6 +158,6 @@ define WhPRQin [
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
 | "[=aparopaye][IndfSpecif][=each]" : {aparopaye}
 ! 
-| "[=ari][PostPol][=PP][--][-rika~ka][+COND]::[=when; if]" : {arika}
+| "[=arika+~{PP:ari}{COND:/rika:ka/}][PostPol][=when; if]" : {arika}
 | "[=ari][PostPol][=PP][--][-rika][+COND]::[=when; if]" : {aririka}
 ];
