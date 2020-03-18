@@ -40,9 +40,9 @@ Ashaninka possesses extensive agreement or cross-refencing. Heads such as verbs 
 the properties of their arguments, for instance, gender markers on the verb indicate properties, such as masculine (+m.) or not-masculine (+n.m.), of both the subject 
 and the object.
 
-#### Reduplication
+#### Verbal reduplication
 
-Reduplication indicates urgency `(1)`, repetition `(3)`, or intensity `(2)`.
+Verbal reduplication indicates urgency `(1)`, repetition `(3)`, or intensity `(2)`.
 
 ```
 1) ma 'to.do' -> ma~ma 'to.do.quickly' 
