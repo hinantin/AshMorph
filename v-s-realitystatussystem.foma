@@ -1,4 +1,3 @@
-                   
 # -------------------------------------------
 # THE REALITY STATUS SYSTEM or REALIS/IRREALIS MOOD SYSTEM 
 # (STATUS) 
@@ -10,6 +9,7 @@
 # -------------------------------------------
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
+
 define V=S=REAL [
   "[--][-i~e+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL][=after.-ak/-ah]" : "@EP"[{e}]
 | "[--][-i~ee+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL][=after.-ak/-ah]" : "@EP"[{ee}]

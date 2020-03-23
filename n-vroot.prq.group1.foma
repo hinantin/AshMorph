@@ -7,7 +7,7 @@ define NounToVerbPRQin [
 | "[=aane+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto; PT: neto; IT: nipote)][^VBZ]" : {aane} ! N@->V @VCMP 
 | "[=aapi+gndr@m.+poss@ti.+kin@fem.ego][NRoot][=elder, grandfather (ES: abuelo; PT: avô; IT: nonno)][^VBZ]" : {aapi} ! N@->V 
 | "[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]::[=to.become.Ashaninka][^VBZ]" : {ashaninka} ! N@->V::[=to.become.Ashaninka]
-| "[=aarontsi][NRoot][=(dry.season|summer) (ES: verano)]::[=to.be.summer (ES: haber.verano)][^VBZ]" : {aarontsi} ! N@->V::[=to.be.summer (ES: haber.verano)] ! @section:noun@ 
+| "[=aarontsi+sem@season.][NRoot][=(dry.season|summer) (ES: verano)]::[=to.be.summer (ES: haber.verano)][^VBZ]" : {aarontsi} ! N@->V::[=to.be.summer (ES: haber.verano)] ! @section:noun@ 
 | "[=ako+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=hand (ES: mano; PT: mão)]::[=to.hand.sth. (ES: dar.con.la.mano, entregar)][^VBZ]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
 | "[=amaani+gndr@n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)][^VBZ]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
 | "[=amani+gndr@n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)][^VBZ]" : {amani} ! N@->V::[=to.increase (ES: crecer)]
