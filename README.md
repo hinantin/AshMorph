@@ -56,6 +56,8 @@ Our analysis of the collected text corpus, shows that Ashaninka presents both pa
 3) koniha 'to.appear' -> koniha~koniha 'to.appear.again-and-again'
 ```
 
+There are particular cases where verbal roots with prefixes are reduplicated in both partial and total modes. 
+
 Normalized alphabet
 ===================
 
