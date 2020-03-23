@@ -1,5 +1,6 @@
-# -------------------------------------------
-# THE REALITY STATUS SYSTEM or REALIS/IRREALIS MOOD SYSTEM 
+# -------------------------------------------------------------
+# "THE REALITY STATUS SYSTEM" or "REALIS/IRREALIS MOOD SYSTEM" 
+# -------------------------------------------------------------
 # (STATUS) 
 # Reality Status is an obligatory inflectional category in Ashaninka
 # the broader category is “modality” (reflect[ing] a range of speaker attitudes towards a given event) 
@@ -25,9 +26,11 @@ define V=S=REAL [
 !| "[--][-ia~yaa+tns@n.fut.][MODALITY][+REAL]" : "@EP"[{yaa}] ! to be checked 
 ];
 
+
 # 1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
 # ES: acción.no.empezada, estado/acción.incompletos \cite[pag. 465]{kindberg:diccionario:80} 
 # EN: it describes "unrealized" situations 
+
 define V=S=IRR [
   "[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
 | "[--][-e~ee+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ee}]
@@ -73,12 +76,16 @@ define V=S=IRR [
 | "[--][-ia~ea+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17} \cite[pag. 465]{kindberg:diccionario:80}
 ];
 
+
 # NON/FUTURE + REFLEXIVE (RFL)
+
 define V=S=REALRFL [
   "[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]" : "@EP"[{a}]
 ];
+
       
 # FUTURE + REFLEXIVE (RFL)
+
 define V=S=IRRRFL [
   "[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
@@ -86,7 +93,9 @@ define V=S=IRRRFL [
 | "[--][-ia~eya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eya}]
 ];
 
+
 # NON/FUTURE + REFLEXIVE (RFL)
+
 define V=S=IRRCPB [
 ! tya ~ txa , tyaa ~ txaa 
   "[--][-ya~xa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xa}]
@@ -106,5 +115,3 @@ define STATUS [
 | [EP V=S=PRNO=SET2]|[V=S=PRNO=SET2]
 | [EP V=S=IRRCPB] [V=S=IRRCPB]
 ];
-                  
-				  
