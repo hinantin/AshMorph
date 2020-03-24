@@ -328,7 +328,7 @@ define V=S=REL [
   "[--][=ri+REAL][NS][+REL]" : [{ri}]
 # -----------------------------------------------
 | "[--][=ni+IRR][NS][+REL]" : [{ni}]
-| "[--][=ne+IRR][NS][+REL]" : [{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
+| "[--][=ni~ne+IRR][NS][+REL]" : [{ne}] ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
 ];
                    
 # ****************************************
