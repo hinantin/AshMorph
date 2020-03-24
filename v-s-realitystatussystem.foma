@@ -45,6 +45,10 @@ define V=S=REALRFL [
 # LBL1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
 # ES: acción.no.empezada, estado/acción.incompletos \cite[pag. 465]{kindberg:diccionario:80} 
 # EN: it describes "unrealized" situations 
+# -------------------------------------------
+# LBL2. 
+# i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
+# a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 
 define V=S=IRR [
   "[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
