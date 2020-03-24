@@ -29,7 +29,9 @@ define V=S=REAL [
 !| "[--][-ia~yaa+tns@n.fut.][MODALITY][+REAL]" : "@EP"[{yaa}] ! to be checked 
 ];
 
-
+# -------------------------------------------
+# "IRREALIS" 
+# -------------------------------------------
 # 1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
 # ES: acción.no.empezada, estado/acción.incompletos \cite[pag. 465]{kindberg:diccionario:80} 
 # EN: it describes "unrealized" situations 
@@ -79,14 +81,18 @@ define V=S=IRR [
 | "[--][-ia~ea+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17} \cite[pag. 465]{kindberg:diccionario:80}
 ];
 
-
+# -------------------------------------------
+# "REALIS REFLEXIVE" 
+# -------------------------------------------
 # NON/FUTURE + REFLEXIVE (RFL)
 
 define V=S=REALRFL [
   "[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]" : "@EP"[{a}]
 ];
 
-      
+# -------------------------------------------
+# "IRREALIS REFLEXIVE" 
+# -------------------------------------------
 # FUTURE + REFLEXIVE (RFL)
 
 define V=S=IRRRFL [
@@ -96,7 +102,9 @@ define V=S=IRRRFL [
 | "[--][-ia~eya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eya}]
 ];
 
-
+# -------------------------------------------
+# "IRREALIS CPB" 
+# -------------------------------------------
 # NON/FUTURE + REFLEXIVE (RFL)
 
 define V=S=IRRCPB [
