@@ -16,9 +16,12 @@
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 # -------------------------------------------
 # LBL3. 
-#       0. POLARITY: POSITIVE +/P
+#       0. POLARITY: 
+#                    POSITIVE +/P
 #                    NONE     0
-#       1. HYPOTHETICALITY: ACTUAL A
+# 
+#       1. HYPOTHETICALITY: 
+#                           ACTUAL A
 #                           NONE   0
 
 define V=S=REAL [
