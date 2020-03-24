@@ -8,9 +8,10 @@
 # -------------------------------------------
 # "REALIS" 
 # -------------------------------------------
-# 1. TEMPORAL REFERENCE: NON/FUTURE (+N.FUT.) + NONREFLEXIVE 
+# LBL1. TEMPORAL REFERENCE: NON/FUTURE (+N.FUT.) + NONREFLEXIVE 
 # it describes "realized" situations 
 # -------------------------------------------
+# LBL2. 
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 
@@ -30,9 +31,18 @@ define V=S=REAL [
 ];
 
 # -------------------------------------------
+# "REALIS REFLEXIVE" 
+# -------------------------------------------
+# NON/FUTURE + REFLEXIVE (RFL)
+
+define V=S=REALRFL [
+  "[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]" : "@EP"[{a}]
+];
+
+# -------------------------------------------
 # "IRREALIS" 
 # -------------------------------------------
-# 1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
+# LBL1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
 # ES: acción.no.empezada, estado/acción.incompletos \cite[pag. 465]{kindberg:diccionario:80} 
 # EN: it describes "unrealized" situations 
 
@@ -79,15 +89,6 @@ define V=S=IRR [
 | "[--][-ia~ya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ya}]
 | "[--][-ia~yaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yaa}]
 | "[--][-ia~ea+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17} \cite[pag. 465]{kindberg:diccionario:80}
-];
-
-# -------------------------------------------
-# "REALIS REFLEXIVE" 
-# -------------------------------------------
-# NON/FUTURE + REFLEXIVE (RFL)
-
-define V=S=REALRFL [
-  "[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]" : "@EP"[{a}]
 ];
 
 # -------------------------------------------
