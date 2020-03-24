@@ -57,12 +57,16 @@ define V=S=REALRFL [
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 # -------------------------------------------
 # LBL3. 
-#       0. POLARITY: NEGATIVE -/N
+#       0. POLARITY: 
+#                    NEGATIVE -/N
 #                    NONE     0
-#       1. HYPOTHETICALITY: HYPOTHETICAL    H
+# 
+#       1. HYPOTHETICALITY: 
+#                           HYPOTHETICAL    H
 #                           CONDITIONAL     C
 #                           COUNTERFACTUAL  O
 #                           NONE            0
+# 
 #       2. SPEAKER-ORIENTED.MODALITY: 
 #                                     IMPERATIVE                      I
 #                                     POLITE DIRECTIVE (DIRECTIVES)   D
