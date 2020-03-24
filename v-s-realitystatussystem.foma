@@ -57,7 +57,19 @@ define V=S=REALRFL [
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 # -------------------------------------------
 # LBL3. 
-# 
+#       0. POLARITY: NEGATIVE -/N
+#                    NONE     0
+#       1. HYPOTHETICALITY: HYPOTHETICAL    H
+#                           CONDITIONAL     C
+#                           COUNTERFACTUAL  O
+#                           NONE            0
+#       2. SPEAKER-ORIENTED.MODALITY: 
+#                                     IMPERATIVE                      I
+#                                     POLITE DIRECTIVE (DIRECTIVES)   D
+#                                     POLITE EXHORTATIVE              E
+#                                     NONE                            0
+#                                     PERMISIVES?
+#                                     HORTATIVES?
 
 define V=S=IRR [
   "[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
