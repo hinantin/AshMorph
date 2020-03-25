@@ -10,8 +10,8 @@
 # noisaneentane / no- =kis -neent -ane / EN: 'my.enemy'; ES: 'mi.enemigo' 
 # antaantsi / ES: 'actos' -> yantane / y- =ant -ane / EN: 'his.act'; ES: 'su.acto' 
 # kisaantsi -> noisane / no- =kis -ane / ES: 'my.anger' 
-# kovintsataantsi -> iovintsane / i- =kovintsa -ane / ES: 'caza' 
-# neantsi -> noneane / no- =ne -ane 
+# kovintsataantsi -> iovintsane / i- =kovintsa -ane / ES: '(su).caza'  
+# neantsi -> noneane / no- =ne -ane / EN: 'my.language'; ES: 'mi.idioma'
 # kashiantsi -> noashiane / no- =kashi -ane / ES: 'mi.pariente' 
 # panquiantsi / pankiantsi / ES: 'lugar.desbrozado.para.hacer.chacra' -> novanqueane / novankeane / no- =panke -ane 
 # nintaantsi / ES: 'amor' -> nonintani / no- =nint -ani / EN: 'my.lover'
@@ -21,7 +21,7 @@
 # osankane / o- =sank -ane / ES: 'su.aroma' 
 # kenkishiriantsi / ES: 'idea' -> ayenkeshiriane / a- =kenkeshiri -ane / ES: 'mente' 
 # noyajemane / noyahemane / no- =kahem -ane / ES: 'grito' 
-# tyantsi -> notyanipaye / no- =ty -ani -paye / EN: 'my.woven.fabric'; ES: 'mis.tejidos' 
+# tyantsi -> notyanipaye / no- =ty -ani -paye / EN: 'my.woven.fabric(s)'; ES: 'mis.tejidos' 
 
 define V=S=POSSIND [
   "[--][-ane~{INTNS:a}{aln.poss.:ne}][NS][+POSS.IND]" : "@EP"[{ane}]
