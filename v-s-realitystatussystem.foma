@@ -94,6 +94,7 @@ define V=S=REALRFL [
 #                           PURPOSIVE                  P
 #                           PROSPECTIVE-COMPLEMENT     C
 #                           NONE                       0
+#     +RSS@00000 (e.g.: +RSS@NHIOP) 
 
 define V=S=IRR [
   "[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
