@@ -64,10 +64,10 @@ define V=S=REALRFL [
 #                    NEGATIVE -/N
 #                    NONE     0
 # 
-#       1. HYPOTHETICALITY: a clause that expresses a hypothetical state of affairs.
-#                           HYPOTHETICAL    H
-#                           CONDITIONAL     C
-#                           COUNTERFACTUAL  O
+#       1. HYPOTHETICALITY: 
+#                           HYPOTHETICAL    H    a clause that expresses a hypothetical state of affairs.
+#                           CONDITIONAL     C    
+#                           COUNTERFACTUAL  O    a construction expresses a conditional relationship between two events that failed to be realized in the past.
 #                           NONE            0
 # 
 #       2. SPEAKER-ORIENTED.MODALITY: 
