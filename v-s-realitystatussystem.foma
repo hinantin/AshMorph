@@ -15,14 +15,14 @@
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 # -------------------------------------------
-# LBL3. 
+# LBL3. RSS 
 #       0. POLARITY: 
 #                    POSITIVE +/P
 #                    NONE     0
 # 
 #       1. HYPOTHETICALITY: 
-#                           ACTUAL A
-#                           NONE   0
+#                           ACTUAL (NON-HYPOTHETICAL)  A
+#                           NONE                       0
 
 define V=S=REAL [
   "[--][-i~e+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL][=after.-ak/-ah]" : "@EP"[{e}]
@@ -59,7 +59,7 @@ define V=S=REALRFL [
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
 # a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 # -------------------------------------------
-# LBL3. 
+# LBL3. RSS 
 #       0. POLARITY: 
 #                    NEGATIVE -/N
 #                    NONE     0
