@@ -10,6 +10,7 @@
 # -------------------------------------------
 # LBL1. TEMPORAL REFERENCE: NON/FUTURE (+N.FUT.) + NONREFLEXIVE 
 # it describes "realized" situations 
+# +tns@n.fut. 
 # -------------------------------------------
 # LBL2. 
 # i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
@@ -54,10 +55,13 @@ define V=S=REALRFL [
 # LBL1. TEMPORAL REFERENCE: FUTURE (+FUT.) 
 # ES: acción.no.empezada, estado/acción.incompletos \cite[pag. 465]{kindberg:diccionario:80} 
 # EN: it describes "unrealized" situations 
+#     +tns@fut. 
 # -------------------------------------------
 # LBL2. 
-# i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
-# a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
+# i-class verbs - “irreflexive” verbs - ACTIVE VOICE 
+#     +C.I@act.v. 
+# a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE 
+#     +C.A@mid.v. 
 # -------------------------------------------
 # LBL3. RSS 
 #       0. POLARITY: 
