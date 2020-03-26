@@ -70,15 +70,11 @@ define REGR [ [EP V=S=REGR]|[V=S=REGR] ];
                    
 # ****************************************
                    
-# Counterfactual 
-define V=S=CNTF [
-  "[--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]" : [{mi}]
-| "[--][=me][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]" : [{me}]
-];
+source v-s-cntf.foma 
                    
 # ****************************************
 
-source v-s-realitystatussystem.foma
+source v-s-realitystatussystem.foma 
 
 # ****************************************
                    
