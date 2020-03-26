@@ -1,4 +1,4 @@
-Ashaninka-Morph
+﻿Ashaninka-Morph
 ===============
 
 This is a morphological analyzer for pan-Ashaninka that is written using Xerox finite state technology with a multilingual lexicon (Ashaninka, English, Spanish and Portuguese), some entries in Quechua and Italian are provided in a lesser quantity.
@@ -58,7 +58,7 @@ Our analysis of the collected text corpus, shows that Ashaninka presents both pa
 
 There are particular cases where verbal roots with prefixes are reduplicated in both partial and total modes. 
 
-Normalized alphabet
+Normalization 
 ===================
 
 In order to give this project a certain amount of robustness, we used a normalized version of the alphabet 
