@@ -65,3 +65,16 @@ define STAT [ [EP V=S=STAT=SET1]|[V=S=STAT=SET1] ];
 define V=S=STATT [ # revise!
   "[--][-aintsi][+STAT.T]" : "@EP"[{aintsi}]
 ];
+                   
+# ****************************************
+                   
+define V=S=STATIPRF [ # revise!
+  "[--][-aintsi][+STAT.IPRF]" : "@EP"[{aintsi}]
+| "[--][-atsi][+STAT.IPRF]" : "@EP"[{atsi}]
+];
+                   
+# ****************************************
+                   
+define V=S=STATPRF [ # revise!
+  "[--][-aintsi][+STAT.PRF]" : "@EP"[{aintsi}]
+];

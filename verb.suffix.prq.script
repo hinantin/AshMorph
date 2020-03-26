@@ -9,21 +9,7 @@ define EP [
 
 # ****************************************
                    
-define V=S=PROG=SET1 [
-  "[--][-atzi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]" : "@EP"[{atzi}] 
-| "[--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]" : "@EP"[{atsi}] 
-| "[--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]" : "@EP"[{ati}]
-];
-
-define V=S=PROG=SET2 [
-  "[--][-atz][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]" : "@EP"[{atz}] 
-| "[--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]" : "@EP"[{aty}]
-| "[--][-atiy][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]" : "@EP"[{atiy}]
-];
-                   
-define PROG [ [EP V=S=PROG=SET1]|[V=S=PROG=SET1]|[EP V=S=PROG=SET2]|[V=S=PROG=SET2] ];
-                   
-define PROG=SET1 [ [EP V=S=PROG=SET1]|[V=S=PROG=SET1] ];
+source v-s-prog.foma 
                    
 # ****************************************
                    
@@ -436,19 +422,6 @@ define V=S=EXCL [
 # ****************************************
                    
 source v-s-stat.foma 
-                   
-# ****************************************
-                   
-define V=S=STATIPRF [ # revise!
-  "[--][-aintsi][+STAT.IPRF]" : "@EP"[{aintsi}]
-| "[--][-atsi][+STAT.IPRF]" : "@EP"[{atsi}]
-];
-                   
-# ****************************************
-                   
-define V=S=STATPRF [ # revise!
-  "[--][-aintsi][+STAT.PRF]" : "@EP"[{aintsi}]
-];
                    
 # ****************************************
                    
