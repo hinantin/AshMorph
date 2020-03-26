@@ -425,18 +425,6 @@ define V=S=small [ # revise!
                    
 # ****************************************
                    
-!define V=S=1SGposs [
-!  "[--][+1SG.poss]" : "@EP"[{no}|{n}]
-!];
-                   
-# ****************************************
-                   
-!      define V=S=3SGmIRR [
-!       "[--][+3SG.m.IRR]" : "@EP"[{ir}|{iri}]
-!      ];
-                   
-# ****************************************
-                   
 ! It signals the beginning phase of an activity/situation. 
 ! counterexpectational ‘but’
 define V=S=INCH [
