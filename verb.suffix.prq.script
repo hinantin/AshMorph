@@ -58,31 +58,7 @@ source v-s-dir.foma
                    
 # ****************************************
                    
-# ASPECT -> PERFECT 
-define V=S=PRF [
-# -------------------------------------------
-# STATIVE:
-# ampitsataka / =ampitsa -t -ak -a / ES: 'está.arrugado' 
-# bankaka / vankaka / =vank -ak -a / ES: 'está.en.lo.alto' 
-# bashiretaka / vashiretaka / =vashire -t -ak -a / ES: 'él/ella.está.triste' 
-# obashiretaka / ovashiretaka / o- =vashire -t -ak -a / ES: '(ella).está.con.pena' 
-# jokiitaka / hokiitaka / =hokii -t -ak -a / ES: 'él/ella.está.enfermo' 
-# abikaka / avikaka / =abik -ak -a / ES: 'trabado' 
-# kisashiretaka / =kis -a =shire -t -ak -a / ES: 'está.resentido' 
-# kisaka / =kis -ak -a / ES: 'está.renegado' 
-# potsotaka / =potso -t -ak -a / ES: '(está).pintado' 
-# saraaka / =sara -ak -a / ES: '(está).pelado' 
-# piotaka / =pio -t -ak -a / ES: 'está.amontonado' 
-# banketaka / vanketaka / =vanke -t -ak -a / ES: 'está.montado' 
-# tononkaka / =tononk -ak -a / ES: '(está).molido' 
-# tsimaaka / =tsima -ak -a / ES: '(está).molesto' 
-# iraka payanti / =irak -ak -a *** payanti / ES: 'plátano.maduro'; EN: 'ripe.plantain' 
-# obashireenkataka jamomo / ovashireenkataka hamomo / =ovashire =enka -t -ak -a *** =hamomo / 
-  "[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{ak}] 
-| "[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]" : "@EP"[{aak}] 
-];
-                   
-define PRF [ [EP V=S=PRF]|[V=S=PRF] ];
+source v-s-prf.foma 
                    
 # ****************************************
                    
