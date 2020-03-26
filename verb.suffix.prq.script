@@ -151,38 +151,7 @@ source v-s-frus.foma
                    
 # ****************************************
                    
-# instrumental applicative 
-# derivational morpheme (VDeriv) 
-# indicate a justification (JUSTIF): 
-# infinitives of purpose (to explain why we do sth.) I went home to eat. / I made this video for you to learn.
-# * the reason that 
-# * for a reason 
-# * for some reason 
-# -ant .. =ri / EN: "that.with.which.sb.does.sth.; sb's.tool" 
-# obantari / ovantari / EN: 'that.with.which.sb.eats.sth.'; ES: 'recipiente' 
-# oantari / EN: 'that.with.which.sb.eats.sth.'; ES: 'receptáculo,recipiente' 
-# noquenqueshireantari / nokenkeshireantari / no- =kenkeshire -ant -a =ri / ES: 'mi.idea' 
-# noshiriaatantari / no- =shiriaa -t -ant -a =ri / ES: 'mi.canasta.para.pescar' 
-# naneencantari / naneenkantari / n- =aneenk -ant -a =ri / ES: 'mi.aliento' 
-# ocajantari / ocahantari / o- =cah -ant -a =ri / ES: 'recipiente.para.líquidos'
-# nonantari / no- =n -ant -a =ri / ES: 'mi.casa' 
-# akooyatantari / a- =kooya -t -ant -a =ri / EN: 'female.parts, female.genitalia' 
-# ashiramparitantari / a- =shirampari -t -ant -a =ri / EN: 'male.parts, male.genitalia' 
-# amatsatantyari / a- =matsa -t -ant -ya =ri / ES: 'adelgazante' 
-# isankenatantyari / i- =sankena -t -ant -ya =ri / ES: 'lapicero' 
-# akijantyari / akihantyari / a- =kiha -/DEL:a/nt -ya =ri / ES: 'cargador' 
-# abantyari / a =/DEL:o/v -ant -ya =ri / ES: 'mesa.para.comer' 
-# ipinayeetantari / i- =pina -yee -t -ant -a =ri / ES: 'recibo' 
-# itimantari Jesoshi / i- =tim -ant -a =ri =Jesoshi / ES: 'su.nacimiento.de.Jesús, navidad' 
-# inkiantyari / i- N= =ki -ant -ya =ri / ES: 'hueco.que.deja.entrar.el.agua.y.los.peces' 
-# itsivacantari oorya / itsivakantari oorya / i- =tsivak -ant -a =ri *** =oorya / ES: 'cuando.el.sol.se.oscurecio; lit.: su.apagón.del.sol' 
-define V=S=APPLREAS [
-# Characteristic (CHAR) 
-  "[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]" : "@EP"[{ant}]
-| "[--][-anta][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]" : "@EP"[{anta}]
-];
-                   
-define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
+source v-s-applreas.foma 
                    
 # ****************************************
                    
