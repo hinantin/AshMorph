@@ -479,29 +479,7 @@ define POSN [ [EP V=S=POSN]|[V=S=POSN] ];
                    
 # ****************************************
                    
-! kisaneentantatsiri / =kis -a -neent -ant -atsi -ri / =to.be.angry -ep -s -ep -appl.reas -stat -rel / EN: 'resentful'; ES: 'rencoroso' 
-! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
-! kitsonkaneentatsiri / kityonkaneentatsiri / =kityonka -neent -atsi =ri / ES: 'que tiene un poco de color rojo' 
-! EN: 'sensory, sensorial'; ES: 'sensorial' 
-define V=S=SENSORY [
-  "[--][-nint][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{nint}] 
-| "[--][-nent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{nent}] 
-| "[--][-neent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{neent}] 
-];
-                   
-define SENSORY [ [EP V=S=SENSORY]|[V=S=SENSORY] ];
-                   
-!define V=S=DIMDEGR [
-!  "[--][-nint][+DIM.DEGR][=almost,a.little.bit]" : "@EP"[{nint}]
-!];
-                   
-!define DIMDEGR [ [EP V=S=DIMDEGR]|[V=S=DIMDEGR] ];
-                   
-!define V=S=DIM [ # revise!
-!  "[--][-nint][ADV][+DIM.DEGR][=almost,a.little.bit (degree)]" : "@EP"[{nint}]
-!| "[--][-ni][+DIM]" : "@EP"[{ni}] # they come from nominalized verb roots
-!| "[--][-ini][+DIM]" : "@EP"[{ini}] # they come from nominalized verb roots
-!];
+source v-s-sensory.foma 
                    
 # ****************************************
                    
