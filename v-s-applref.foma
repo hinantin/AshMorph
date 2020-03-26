@@ -1,0 +1,7 @@
+! referencial applicative 
+define V=S=APPLREF [
+  "[--][-imen][+APPL.REF][=concerning, relative.to, because.of]" : "@EP"[{imen}] 
+| "[--][-iment][+APPL.REF][=concerning, relative.to, because.of]" : "@EP"[{iment}] 
+];
+                   
+define APPLREF [ [EP V=S=APPLREF]|[V=S=APPLREF] ];
