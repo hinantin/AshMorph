@@ -183,12 +183,6 @@ define DUR [ [EP V=S=DUR]|[V=S=DUR] ];
                    
 # ****************************************
                    
-!      define V=S=3O [
-!       "[--][+3O]" : "@EP"[{ni}]
-!      ];
-                   
-# ****************************************
-                   
 !define V=S=BEN [
 !  "[--][-vint][+BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
 !| "[--][-vent][+BEN][=action.done.for.sb.else]" : "@EP"[{vent}]
