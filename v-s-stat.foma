@@ -1,0 +1,67 @@
+# ------------------ 
+# STATIVITY MARKERS 
+# ------------------
+
+define V=S=STAT=SET1 [
+# -------- STATIVITY IMPERFECTIVE -------------
+# They describe an ongoing and non-evolving state 
+! koiteatsiri / =koite -atsi -ri / =to.be.in.need -stat -rel / EN: 'poor'; ES: 'pobre' 
+! betsikayetatsiri / vetsikayetatsiri / =vetsik -a -ye -t -atsi -ri / =to.create -ep -dist -ep -stat -rel / EN: 'invention (thing/idea.that.has.been.invented)'; ES: 'invento'  
+  "[--][-atsi][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{atsi}]
+! okisaaneentatzi / ES: 'morena' 
+| "[--][-atzi][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{atzi}]
+! taachari / =ta -acha -ri / =to.burn -stat -rel / EN: 'the.burned.one', ES: 'quemado'
+! nashitachari / =nashi -t -acha -ri / =to.separate -ep -stat -rel / EN: 'different.one'; ES: 'diferente' 
+! ashinonkaachari / =ashinonk -aacha -ri / =to.suffer -stat -rel / EN: 'poor'; ES: 'pobre' 
+! shirontakaantachari / =shiron -t -aka -ant -acha -ri / =to.laugh.at.sb. -ep -caus.soc -appl.inst -stat -rel / EN: 'funny, joker'; ES: 'chistoso'
+! kantakotashitantachari / =kant -ako -t -ashi -t -ant -acha -ri / =to.say -appl -ep -appl.int -appl.inst -stat -rel / EN: 'accuser, traitor'; ES: 'acusador, traidor'; 
+! oyaakotachari / =oya -ako -t -acha -ri / =to.follow -appl -ep -stat -rel / EN: 'dependent'; ES: 'dependiente'
+! katikachari / =katik -acha -ri / =to.hang -stat -rel / EN: 'hanged'; ES: 'ahorcado'  
+! pahitachari Pityotsi / =pahi -t -acha -ri =Pityotsi / =to.be.called -ep -stat -rel =proper.name / ES: 'who.is.called.Pityotsi'  
+| "[--][-acha][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{acha}] 
+| "[--][-aacha][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{aacha}] 
+| "[--][-acha/atxa][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{atxa}] 
+| "[--][-aacha/aatxa][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{aatxa}] 
+# -------- TEMPORAL STATIVITY MARKERS ------
+# -------- STATIVE PERFECTIVE  -------------
+! kenanaintsiri / =ken -an -aintsi -ri / =to.walk -dir+leaving -stat -rel / EN: 'that.walks.past.sb.'; ES: 'que.va.caminando' 
+! jibataintsiri / =hivataintsiri / =hivat -aintsi -ri / =to.get.ahead -stat -rel / EN: 'first.one, the.one.that.has_gotten_ahead/starts'; ES: 'primero, el.que.está.adelante' 
+! impoitaintsiri / =impoi -t -aintsi -ri / =to.follow.behind -ep -stat -rel / EN: 'the.one.that.follows.behind, last.one' ; ES: 'lo.que.viene.atrás, último' 
+! abisaintsiri / avisaintsiri / =avis -aintsi -ri / =to.pass -stat -rel / EN: 'what.has.happened'; ES: 'lo.que.ha.ocurrido' 
+! sabikaintsiri / savikaintsiri / =savik -aintsi -ri / =to.sit -stat -rel / EN: 'sitted'; ES: 'sentado' 
+! abisaintsiri peerani / avisaintsiri peerani / =avis -aintsi -ri =peerani / =to.pass -stat -rel =long.ago / EN: 'history'; ES: 'historia; lo.que.sucedió.hace.mucho.tiempo'  
+| "[--][-aintsi][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aintsi}] 
+| "[--][-aentsi][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aentsi}] 
+# 
+| "[--][-ahantsi][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{ahantsi}] 
+# --------
+! inchato tainchari / =incha -to =ta -incha -ri / =plant -cl:tree =to.burn -stat -rel / ES: 'árbol.quemado'; EN: 'burned.tree' 
+! kaniri pichainchari / =kaniri =picha -incha -ri / =yucca =to.crush.sth. -stat -rel / ES: 'yuca.(masa.cocinada)'; EN: 'cooked.yucca.mass' 
+! apatotainchari / =apato -t -aincha -ri / =to.meet -ep -stat -rel / ES: 'grupo.de.gente, reunión'; EN: 'meeting' 
+! vakoshi tononkainchari / =vako -shi =tononk -aincha -ri / =venomous.plant.sp. -cl:leaf =to.grind.sth. -stat -rel / ES: 'el.veneno.huaco.de.las.hojas.molidas'; EN: 'ground.leaf.from.a.venomous.plant' 
+! aparoni tsatainchari / =aparoni =tsat -aincha -ri / =one =to.tear.into.two.parts -stat -rel / ES: 'uno.colgado'; EN: 'one.torn.into.two.parts' 
+! noetsaare kityonkari oobaenchari / no- =ketsaa -re =kityonka -ri =oob -aencha -ri / 1sg.poss- =dress -nmz =to.be.red -adj =to.put.sth.out.in.the.sun -stat -rel / ES: 'el.vestido.rojo.que.está.soleado'; EN: 'the.red.dress.that.was.put.out.in.the.sun' 
+! Bankanainchari / vankanainchari / =vank -an -aincha -ri / =to.lift.sth.up -dir+departing -stat -rel / EN: 'that.has.been.lifted.up.(departing)'; ES: 'que.ha.subido' 
+| "[--][-incha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{incha}]
+| "[--][-aincha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aincha}]
+| "[--][-aencha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aencha}]
+];
+
+define V=S=STAT=SET2 [
+# -------- STATIVITY MARKERS -------------
+# -------- STATIVITY IMPERFECTIVE -------------
+  "[--][-ach][Asp][+STAT.IPRF]" : "@EP"[{ach}] 
+# -------- TEMPORAL STATIVITY MARKERS ------
+# -------- STATIVE PERFECTIVE  -------------
+| "[--][-aints][Asp][+STAT.PRF]" : "@EP"[{aints}] 
+| "[--][-aits][Asp][+STAT.PRF]" : "@EP"[{aits}] 
+];
+
+                   
+define STAT [ [EP V=S=STAT=SET1]|[V=S=STAT=SET1] ];
+                   
+# ****************************************
+                   
+define V=S=STATT [ # revise!
+  "[--][-aintsi][+STAT.T]" : "@EP"[{aintsi}]
+];
