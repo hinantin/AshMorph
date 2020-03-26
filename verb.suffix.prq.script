@@ -55,18 +55,7 @@ source v-s-pl.foma
                    
 # ****************************************
                    
-! I am taking Aspect instead of Cas as it is an analysis made specifically for Ashaninka.
-! It specifies an event as a whole, that may be: 
-! resolved.(event): finality-and-closure, once-and-for.all 
-! regressive.(event): being.back 
-define V=S=REGR [
-# eiro aneahiritsi / =eiro ** a- =ne -ah -i -ri -tsi / =NEG.IRR ** 1pl.a- =to.see -term[finality-and-closure] -real -3m.o -neg / ; EN: 'we.won't.see.him.again'; ES: 'No.lo.veremos.otra.vez' 
-  "[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{a}]
-| "[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{ah}]
-| "[--][-aha][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{aha}]
-];
-                   
-define REGR [ [EP V=S=REGR]|[V=S=REGR] ];
+source v-s-regr.foma 
                    
 # ****************************************
                    
