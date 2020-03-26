@@ -1,0 +1,14 @@
+! It signals the beginning phase of an activity/situation. 
+! counterexpectational ‘but’
+define V=S=INCH [
+# --------------------------------------------------------------------------
+# Inceptive (INCP) 
+  "[--][-ima][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{ima}]
+# --------------------------------------------------------------------------
+| "[--][-imai][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{imai}]
+| "[--][-imain][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{imain}]
+| "[--][-imaint][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{imaint}]
+| "[--][-amaint][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]" : "@EP"[{amaint}]
+];
+                   
+define INCH [ [EP V=S=INCH]|[V=S=INCH] ];
