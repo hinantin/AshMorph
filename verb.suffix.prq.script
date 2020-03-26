@@ -216,14 +216,7 @@ define V=S=Q [
                    
 # ****************************************
                    
-# generalized applicative (GEN.APPL): with verbs of perception, cognition, or emotion, the indirective indicates that the subject perceives, thinks or has feelings about the applied object. , but that the applied object is not the direct object of the perception, thought, or feeling expressed by the verb root.
-# indirective applicative (INDR.APPL):  action of the verb affects the applied object in an indirect manner
-# derivational morpheme (VDeriv) 
-define V=S=APPL [
-  "[--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]" : "@EP"[{ako}]
-];
-                   
-define APPL [ [EP V=S=APPL]|[V=S=APPL] ];
+source v-s-applgen.foma 
                    
 # ****************************************
                    
@@ -286,16 +279,6 @@ define CAUSSOC [ [EP V=S=CAUSSOC=SET1]|[V=S=CAUSSOC=SET1] ];
 !  "[--][-ak][+CAUS]" : "@EP"[{ak}]
 !| "[--][-aka][+CAUS]" : "@EP"[{aka}]
 !];
-                   
-# ****************************************
-                   
-# derivational morpheme (VDeriv) 
-# instrumental applicative 
-define V=S=APPLINST [
-  "[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]" : "@EP"[{ant}]
-];
-                   
-define APPLINST [ [EP V=S=APPLINST]|[V=S=APPLINST] ];
                    
 # ****************************************
                    

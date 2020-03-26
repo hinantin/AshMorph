@@ -30,3 +30,13 @@ define V=S=APPLREAS [
 ];
                    
 define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
+                   
+# ****************************************
+                   
+# derivational morpheme (VDeriv) 
+# instrumental applicative 
+define V=S=APPLINST [
+  "[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]" : "@EP"[{ant}]
+];
+                   
+define APPLINST [ [EP V=S=APPLINST]|[V=S=APPLINST] ];
