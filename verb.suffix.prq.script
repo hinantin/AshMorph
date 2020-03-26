@@ -541,25 +541,12 @@ define V=S=ABS [
                    
 # ****************************************
                    
-!define V=S=noun [
-!  "[--][-ani][+noun][=child]" : "@EP"[{ani}]
-!| "[--][-miront][+noun][=flat]" : "@EP"[{miront}]
-!];
-                   
-# ****************************************
-                   
 define V=S=COND [
   "[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]" : [{rika}] ! +evidential 
 # This suffix indicates, for good/bad, an action or idea wasn't fulfilled.
 # Also abbreviated CNT.EXP 'counter-expectational' 
 | "[--][=me][MODAL][+SUBJ][=not.to.achieve/realize.an.action/idea (ES: para.bien/mal.las.acciones/ideas.expresadas.no.se.realizaron)]" : [{me}] 
 ];
-                   
-# ****************************************
-                   
-!define V=S=disheveledhead [
-!  "[--][+disheveled.head]" : "@EP"[{menkotzi}] ! menkoti, menkotsi
-!];
                    
 # ****************************************
                    
@@ -654,7 +641,6 @@ define ADJ [
   [EP V=S=ADJ=SET1]|[V=S=ADJ=SET1]
 | [V=S=ADJ=SET2]
 ];
-
                    
 # ****************************************
                    
