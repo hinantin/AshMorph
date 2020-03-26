@@ -3352,8 +3352,8 @@ define VRootPRQin [
 | "[=oatsina+INF@VC.][VRoot][= (ES: magullar)]" : {oatsina}
 # --------------------------------------------------------------------------- 
 ! 
-| "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
-| "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
+| "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad (ES: estar.triste)]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
+| "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad (ES: estar.triste)]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
 # --------------------------------------------------------------------------- 
 ! 
 | "[=vatsa+INF@/EP:t/aantsi.][VRoot][=to.get.fat, to.gain.weight (ES: engordar)]" : {vatsa}
