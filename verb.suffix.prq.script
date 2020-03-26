@@ -481,14 +481,7 @@ source v-s-mir.foma
                    
 # ****************************************
                    
-# simulative suffix 
-# Indicates feigned/simulated action.
-define V=S=SIM [
-  "[--][-amampe][+SIM]" : "@EP"[{amampe}] 
-| "[--][-amampi][+SIM]" : "@EP"[{amampi}] 
-];
-                   
-define SIM [ [EP V=S=SIM]|[V=S=SIM] ];
+source v-s-sim.foma 
                    
 # ****************************************
                    

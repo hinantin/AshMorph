@@ -1,0 +1,8 @@
+# simulative suffix 
+# Indicates feigned/simulated action.
+define V=S=SIM [
+  "[--][-amampe][+SIM]" : "@EP"[{amampe}] 
+| "[--][-amampi][+SIM]" : "@EP"[{amampi}] 
+];
+                   
+define SIM [ [EP V=S=SIM]|[V=S=SIM] ];
