@@ -51,14 +51,7 @@ source v-s-opt.foma
                    
 # ****************************************
                    
-
-                   
-# ****************************************
-                   
-define V=S=PLcircumfixing [
-  "[--][-ni+circumfixing][+PL]" : [{ni}]
-| "[--][-ne+circumfixing][+PL]" : [{ne}]
-];
+source v-s-pl.foma 
                    
 # ****************************************
                    
