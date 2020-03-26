@@ -139,15 +139,7 @@ define V=S=O [
                    
 # ****************************************
                    
-! -kari EN: 'in.order.to.prevent.sth.from.happening'; ES: 'para.que.no; no.sea.(que); sino' 
-! -kari EN: 'used.to.introduce.the.reason.for.the.particular.emotion.mentioned'; ES: 'con.el.fin.de' 
-define V=S=APPR [
-# omitsitsiyimikari / o- =mitsitsiy -i -mi -kari / 3n.m.s- = / ES: 'para.que.no.te.hundas'  
-# *) pintzinai, anankorimikari shenotsi / pi- N- =tzin -a -i *** =anankori -mi -kari *** =shenotsi / 2s- irr- =to.rise -term -irr *** =to.cross -2sg.o -appr *** =goiter  
-#    EN: 'get up! lest you cross the goiter'; ES: 'levántate, sino te va a cruzar la mamá del bocio' 
-# *) Pipiakari / pi- =pi -a -kari / 2s- =to.lose -irr -appr / ES: '¡cuidado!, te.vas.a.perder'
-  "[--][-kari][MODAL][+APPR][=lest (in.order.to.prevent; ES: ¡cuidado!)]" : [{kari}]
-];
+source v-s-appr.foma 
                    
 # ****************************************
                    
