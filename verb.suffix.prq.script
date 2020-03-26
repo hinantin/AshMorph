@@ -51,33 +51,7 @@ source v-s-opt.foma
                    
 # ****************************************
                    
-define V=S=PL=SET1 [
-  "[--][-he][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]" : "@EP"[{he}] 
-| "[--][-hei][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]" : "@EP"[{hei}] 
-| "[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]" : "@EP"[{hee}] 
-# -ite only appears in nominalized verb structures 
-# ---------------------------------------
-];
 
-define PL=SET1 [ [EP V=S=PL=SET1]|[V=S=PL=SET1] ];
-
-define V=S=PL=SET2=1 [
-# ichiki / i- =chik -i / 3m.s- =to.cut -real / EN: 'he cut'
-# ichikaiyini / i- =chik -aiy -i -ni / 3m.s- =to.cut -pl -real -pl+circumfixing / EN: 'they cut'
-  "[--][-aiy][+PL]" : "@EP"[{aiy}] 
-| "[--][-aey][+PL]" : "@EP"[{aey}] 
-| "[--][-ayi][+PL]" : "@EP"[{ayi}] ! asheninka 
-];
-
-# According to the sample text corpus, this set doesn't use the epenthetic rules but contraction rules VOWEL+ey/+iy 
-define V=S=PL=SET2=2 [
-# Contraction process * more rules need to be added 
-# tsirenitakoiyanakini / =tsireni -t -ako -iy -an -ak -i -ni /  
-  "[--][-iy][+PL]" : [{iy}] 
-| "[--][-ey][+PL]" : [{ey}] 
-];
-                   
-define PL [ [EP V=S=PL=SET1]|[V=S=PL=SET1]|[EP V=S=PL=SET2=1]|[V=S=PL=SET2=1]|[V=S=PL=SET2=2] ];
                    
 # ****************************************
                    
@@ -143,19 +117,6 @@ define DEGR [ [EP V=S=DEGR]|[V=S=DEGR] ];
 # ****************************************
                    
 source v-s-dur.foma 
-                   
-# ****************************************
-                   
-!define V=S=BEN [
-!  "[--][-vint][+BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
-!| "[--][-vent][+BEN][=action.done.for.sb.else]" : "@EP"[{vent}]
-!];
-                   
-# ****************************************
-                   
-!      define V=S=ADVP [
-!       "[--][+ADV.P]" : "@EP"[{ranki}]
-!      ];
                    
 # ****************************************
                    
