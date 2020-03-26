@@ -550,42 +550,7 @@ define V=S=COND [
                    
 # ****************************************
                    
-define V=S=NMZ=SET1 [ # revise!
-# ----------------------------------
-# followed by -ntsi 
-  "[--][-ro+n.m.][NS][+NMZ]" : "@EP"[{ro}]"@NMZ@" 
-| "[--][-vo+n.m.][NS][+NMZ]" : "@EP"[{vo}]"@NMZ@" 
-| "[--][-ri+m.][NS][+NMZ]" : "@EP"[{ri}]"@NMZ@" 
-| "[--][-re+m.][NS][+NMZ]" : "@EP"[{re}]"@NMZ@" 
-#| "[--][-re+m.][NS][+NMZ]" : "@EP"[{re}]"@NMZ@" 
-# ----------------------------------
-#| "[--][-ri+m.][NS][+NMZ]" : "@EP"[{ri}] 
-! 
-# followed by none 
-# QLTY quality 
-#| "[--][-nk][NS][+NMZ.QLTY]" : "@EP"[{nk}] 
-| "[--][-nka][NS][+NMZ.QLTY]" : "@EP"[{nka}] 
-| "[--][-enkaa][NS][+NMZ.QLTY]" : "@EP"[{enkaa}] 
-| "[--][-enka][NS][+NMZ.QLTY]" : "@EP"[{enka}] 
-| "[--][-inka][NS][+NMZ.QLTY]" : "@EP"[{inka}] 
-! 
-#| "[--][-ntsi][NS][+NMZ]" : "@EP"[{ntsi}] # this is not a nominalizing suffix 
-# followed by -tsi 
-| "[--][-mento+n.m.][NS][+NMZ.CONCR]" : "@EP"[{mento}]"@NMZ@"
-| "[--][-minto+n.m.][NS][+NMZ.CONCR]" : "@EP"[{minto}]"@NMZ@"
-];
-
-define V=S=NMZ=SET2 [
-# ----------------------------------
-  "[--][-aantsi][NS][+NMZ.INF]" : "@EP"[{aantsi}] 
-| "[--][-antsi][NS][+NMZ.INF]" : "@EP"[{antsi}] 
-| "[--][-agantsi][NS][+NMZ.INF]" : "@EP"[{agantsi}] 
-];
-                   
-define NMZ [
-  [EP V=S=NMZ=SET1]|[V=S=NMZ=SET1]
-| [EP V=S=NMZ=SET2]|[V=S=NMZ=SET2]
-];
+source v-s-nmz.foma 
                    
 # ****************************************
                    
