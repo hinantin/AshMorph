@@ -14,3 +14,13 @@ define V=S=REGR [
 ];
                    
 define REGR [ [EP V=S=REGR]|[V=S=REGR] ];
+                   
+# ****************************************
+                   
+define V=S=REP [
+  "[--][-a][+REP][=again.and.again]" : "@EP"[{a}]
+| "[--][-aa][+REP][=again.and.again]" : "@EP"[{aa}]
+];
+                   
+define REP [ [EP V=S=REP]|[V=S=REP] ];
+                   

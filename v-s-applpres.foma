@@ -1,0 +1,7 @@
+# presencial applicative 
+# derivational morpheme (VDeriv) 
+define V=S=APPLPRES [
+  "[--][-imo+company][VS][+APPL.PRES][=with.other.person, presence]" : "@EP"[{imo}]
+];
+                   
+define APPLPRES [ [EP V=S=APPLPRES]|[V=S=APPLPRES] ];

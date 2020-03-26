@@ -245,40 +245,7 @@ source v-s-adj.foma
                    
 # ****************************************
                    
-# --------Sociative-Causative ----------
-# Sociative causation is a particular type of causation, where the causer not only
-# makes the causee do an action, but also participates in it. \cite{guillaume:sociative:10}
-define V=S=CAUSSOC=SET1 [
-  "[--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{ak}]
-!| "[--][-ag][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{ag}] ! to be revised 
-| "[--][-aka][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{aka}]
-| "[--][-akaa][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{akaa}]
-];
-
-define V=S=CAUSSOC=SET2 [
-  "[--][-akag][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{akag}] ! to be revised 
-];
-                   
-define CAUSSOC [ [EP V=S=CAUSSOC=SET1]|[V=S=CAUSSOC=SET1] ];
-                   
-# ****************************************
-                   
-!define V=S=APPLSOC [
-!  "[--][-ak][+APPL.SOC]" : "@EP"[{ak}]
-!];
-                   
-# ****************************************
-                   
-!define V=S=CAUSCOM [
-!  "[--][-aka][+CAUS.COM]" : "@EP"[{aka}]
-!];
-                   
-# ****************************************
-                   
-!define V=S=CAUS [
-!  "[--][-ak][+CAUS]" : "@EP"[{ak}]
-!| "[--][-aka][+CAUS]" : "@EP"[{aka}]
-!];
+source v-s-applcaussoc.foma 
                    
 # ****************************************
                    
@@ -286,25 +253,7 @@ source v-s-semel.foma
                    
 # ****************************************
                    
-define V=S=REP [
-  "[--][-a][+REP][=again.and.again]" : "@EP"[{a}]
-| "[--][-aa][+REP][=again.and.again]" : "@EP"[{aa}]
-];
-                   
-define REP [ [EP V=S=REP]|[V=S=REP] ];
-                   
-# ****************************************
-# -----------------------------------------------------
-      
-# to indicate intent 
-# exclusive with reflexive -a/-aa 
-# purpusive: action.done.with.some.purpose.in.view 
-define V=S=APPLINT [
-  "[--][-ashi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{ashi}]
-| "[--][-shi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{shi}]
-];
-                   
-define APPLINT [ [EP V=S=APPLINT]|[V=S=APPLINT] ];
+source v-s-applint.foma 
                    
 # ****************************************
                    
@@ -326,12 +275,6 @@ define V=S=OFOC [
 | "[--][=kia][MODAL][+O.FOC]" : [{kia}] 
 | "[--][=kea][MODAL][+O.FOC]" : [{kea}] 
 ];
-                   
-# ****************************************
-                         
-!define V=S=poss [
-!  "[--][+poss]" : "@EP"[{ni}|{te}]
-!];
                    
 # ****************************************
                          
@@ -358,47 +301,16 @@ define V=S=EMPH [
 ];
                    
 # ****************************************
-                         
-!define V=S=MCAUS [
-!  "[--][-mi][+M.CAUS]" : "@EP"[{mi}]
-!];
-                   
-# ****************************************
-                         
-!      define V=S=CAUSAGT [
-!       "[--][+CAUS.AGT]" : "@EP"[{v}]
-!      ];
-                   
-# ****************************************
                                
-define V=S=APPLBEN [
-# okimoshirebentakero oshinto / okimoshireventakero oshinto / o- =kimoshire -vent -ak -e =ro *** o- =shinto / ES: 'está.muy.orgullosa.por.su.hija' 
-  "[--][-vint][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
-| "[--][-vent][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vent}]
-];
-                               
-define APPLBEN [ [EP V=S=APPLBEN]|[V=S=APPLBEN] ];
+source v-s-applben.foma 
                                
 # ****************************************
                                
-# presencial applicative 
-# derivational morpheme (VDeriv) 
-define V=S=APPLPRES [
-  "[--][-imo+company][VS][+APPL.PRES][=with.other.person, presence]" : "@EP"[{imo}]
-];
-                   
-define APPLPRES [ [EP V=S=APPLPRES]|[V=S=APPLPRES] ];
+source v-s-applpres.foma 
                    
 # ****************************************
                    
-# derivational morpheme (VDeriv) 
-# referential (RFR) 
-define V=S=APPLSEP [
-  "[--][-pitsa][VS][+APPL.SEP][=separative; RFR: actn.done.with.reference_to/around.sb.else]" : "@EP"[{pitsa}]
-| "[--][-apitsa][VS][+APPL.SEP][=separative; RFR: actn.done.with.reference_to/around.sb.else]" : "@EP"[{apitsa}]
-];
-                   
-define APPLSEP [ [EP V=S=APPLSEP]|[V=S=APPLSEP] ];
+source v-s-applsep.foma 
                    
 # ****************************************
                    

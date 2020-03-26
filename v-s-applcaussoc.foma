@@ -1,0 +1,34 @@
+# --------Sociative-Causative ----------
+# Sociative causation is a particular type of causation, where the causer not only
+# makes the causee do an action, but also participates in it. \cite{guillaume:sociative:10}
+define V=S=CAUSSOC=SET1 [
+  "[--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{ak}]
+!| "[--][-ag][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{ag}] ! to be revised 
+| "[--][-aka][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{aka}]
+| "[--][-akaa][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{akaa}]
+];
+
+define V=S=CAUSSOC=SET2 [
+  "[--][-akag][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{akag}] ! to be revised 
+];
+                   
+define CAUSSOC [ [EP V=S=CAUSSOC=SET1]|[V=S=CAUSSOC=SET1] ];
+                   
+# ****************************************
+                   
+!define V=S=APPLSOC [
+!  "[--][-ak][+APPL.SOC]" : "@EP"[{ak}]
+!];
+                   
+# ****************************************
+                   
+!define V=S=CAUSCOM [
+!  "[--][-aka][+CAUS.COM]" : "@EP"[{aka}]
+!];
+                   
+# ****************************************
+                   
+!define V=S=CAUS [
+!  "[--][-ak][+CAUS]" : "@EP"[{ak}]
+!| "[--][-aka][+CAUS]" : "@EP"[{aka}]
+!];
