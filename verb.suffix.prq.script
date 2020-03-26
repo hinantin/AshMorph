@@ -379,16 +379,8 @@ source v-s-cmpl.foma
                    
 # ****************************************
                    
-# incompletive/circumstantial 
-define V=S=ICPL [
-  "[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{it}]
-| "[--][-itz][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{itz}]
-| "[--][-it~et][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{et}]
-];
+source v-s-icpl.foma 
                    
-define ICPL [ [EP V=S=ICPL]|[V=S=ICPL] ];
-                   
-# -----------------------------------------------
 # ****************************************
                    
 define V=S=TEMPORAL [

@@ -38,8 +38,8 @@ define VerbToNounPRQin [
 | "[=tsionk+INF@aantsi.][VRoot][=to.generate.steam.for.curing.an.illness (ES: producir.vapor.para_curaciones/accidentalmente)]::[=sauna (ES: sauna)][^NMZ]" : {tsionk} ! V@->N::[=sauna (ES: sauna)] 
 | "[=tsarov+INF@aantsi.][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)]::[=scare (ES: susto)][^NMZ]" : {tsarov} ! V@->N::[=scare (ES: susto)]
 | "[=tyoonk+INF@(a)antsi.][VRoot][=to.bathe.in.steam]::[=treatment (ES: evaporación)][^NMZ]" : {tyoonk} ! V@->N::[=treatment (ES: evaporación)] 
-| "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
-| "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad]::[=sadness (ES: tristeza)][^NMZ]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
+| "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad (ES: estar.triste)]::[=sadness (ES: tristeza)][^NMZ]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
+| "[=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad (ES: estar.triste)]::[=sadness (ES: tristeza)][^NMZ]" : {vashiri} ! V@->N::[=sadness (ES: tristeza)]  
 | "[=vishiri+INF@antsi.][VRoot][=to.sing-and-dance.together/collectively (ES: cantar-y-bailar.juntos)]::[=collective.singing.combined.with.dancing][^NMZ]" : {vishiri} ! V@->N::[=collective.singing.combined.with.dancing]  
 | "[=yotani+INF@/EP:t/aantsi.][VRoot][=to.know (ES: conocer, saber)]::[=knowledge (ES: conocimiento)][^NMZ]" : {yotani} ! V@->N::[=knowledge (ES: conocimiento)] 
 ];
