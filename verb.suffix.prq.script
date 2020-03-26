@@ -35,22 +35,7 @@ define PRNO [ [V=S=PRNO=SET1] ];
                    
 # ****************************************
                    
-define V=S=DIST=SET1 [
-  "[--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]" : "@EP"[{ye}]
-| "[--][-yee][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]" : "@EP"[{yee}]
-| "[--][-yi][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]" : "@EP"[{yi}]
-];
-                   
-define DIST=SET1 [ [EP V=S=DIST=SET1]|[V=S=DIST=SET1] ];
-                   
-define V=S=DIST=SET2 [
-  "[--][-itsi][MODAL][+DIST][=segmented.actn.in.addition.to.a.previous.instance.of.the.same.actn.]" : "@EP"[{itsi}]
-| "[--][-tsi][MODAL][+DIST][=segmented.actn.in.addition.to.a.previous.instance.of.the.same.actn.]" : "@EP"[{tsi}]
-];
-                   
-define DIST=SET2 [ [EP V=S=DIST=SET2]|[V=S=DIST=SET2] ];
-                   
-define DIST [ [EP V=S=DIST=SET1]|[V=S=DIST=SET1] ];
+source v-s-dist.foma 
                    
 # ****************************************
                    
