@@ -1,0 +1,11 @@
+# reversative
+! opposite, reverse REV/CNTRST ; revocation?
+define V=S=REV [
+# otevaryaanaque / otevaryaanake / =oteva -ry -a -an -ak -e / ES: 'él.rompió.la.rama' 
+  "[--][-ry][+REV][=reversal/undoing.of.an.action/state]" : "@EP"[{ry}] 
+| "[--][-ri][+REV][=reversal/undoing.of.an.action/state]" : "@EP"[{ri}] 
+| "[--][-re][+REV][=reversal/undoing.of.an.action/state]" : "@EP"[{re}] 
+| "[--][-ree][+REV][=reversal/undoing.of.an.action/state]" : "@EP"[{ree}] 
+];
+                   
+define REV [ [EP V=S=REV]|[V=S=REV] ];

@@ -1,0 +1,8 @@
+define V=S=DUB [
+  "[--][=ma][MODAL][+DUB][=maybe; sb.might.do.sth.]" : [{ma}] ! +evidential 
+| "[--][=mpa][MODAL][+DUB][=maybe; sb.might.do.sth.]" : [{mpa}] ! +evidential 
+| "[--][=npa][MODAL][+DUB][=maybe; sb.might.do.sth.]" : [{npa}] ! +evidential 
+# irirotaima iriri / =iriro -taima ir- =iri / =he -dub 3m.poss- =father / ES: 'tal vez puede ser el rey/padre [de los loros]' 
+# aisatzitaima / =aisatzi -taima / =also -dub / EN: '' 
+| "[--][=taima][MODAL][+DUB][=maybe]" : [{taima}] 
+];
