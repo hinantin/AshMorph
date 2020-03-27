@@ -1,0 +1,5 @@
+define V=S=URGENT [
+# pireketi piarentsi / p- =ir -e =keti *** piarentsi / ES: 'apresúrate, toma el masato' 
+  "[--][=keti][+URGENT][=urgency.of.an.actn.]" : [{keti}]
+| "[--][=kete][+URGENT][=urgency.of.an.actn.]" : [{kete}]
+];
