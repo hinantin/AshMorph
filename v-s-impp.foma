@@ -1,0 +1,25 @@
+# --------------------------------------
+#           Impersonal Passive 
+# --------------------------------------
+# DISTN: distance  ???
+define V=S=IMPP [
+# ichikaitakiro / i- =chik -ai -t -ak -i -ro / 3m.a- =to.cut -imp.p -ep -prf -real -3n.m.o / EN: 'someone.cut.it; it.was.cut'  
+# hiitaitziri / h- =ii -t -ai -tz -i -ri / 3m.a- =to.be.called -ep -imp.p -ep -real -3m.o / EN: 'that.which.is.named'  
+# impishitaitiro / i- N- =pishi -t -ai -t -i -ro / 3m.a- irr- =to.sweep -ep -imp.p -ep -real -3n.m.o / EN: 'someone.swept.it; it.was.swept'  
+# ikitsataitakina / i- =kitsa -t -ai -t -ak -i -na / 3m.a- =to.dress -ep -imp.p -ep -prf -real -1sg.o / EN: 'they.dressed.me; I.was.dressed' 
+# ishinkitaitakiri / i- =shinki -t -ai -t -ak -i -ri / 3m.a- =to.get.drunk -ep -imp.p -ep -prf -real -3m.o / EN: 'they.made.him.drunk', es: 'le.hicieron.emborrachar'  
+# Only with 3rd person ???  
+  "[--][-ai][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ai}] 
+| "[--][-ae][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ae}] ! yet to be tested 
+# yanteetakena / y- =ant -ee -t -ak -e =na / EN: 'I.was.beaten.by.them'; ES: 'me.han.pegado' 
+# yanteetakeri  / y- =ant -ee -t -ak -e =ri / ES: 'he.was.beaten.by.them'; ES: 'le.han.pegado'
+# yanteetakero  / y- =ant -ee -t -ak -e =ro / ES: 'she.was.beaten.by.them'; ES: 'le.han.pegado'
+# yanteetapinintiri / y- =ant -ee -t -apinin -t -i =ri / EN: 'he.is.always.beaten.by.them'; ES: 'siempre.le.pegan'
+# yoyeetari / y- =oy -ee -t -a =ri / 3m.s- =to.eat -imp.p -ep -irr =rel / EN: edible , lit.: 'that.is.eaten.by.him/them'; ES: 'comestible' 
+# ijokeetakeri / ihokeetakeri / i- =hok -ee -t -ak -e =ri / EN: 'he.was.abandoned.by.them'; ES: 'le.han.abandonado-él' 
+# ijokeetakero / ihokeetakero / i- =hok -ee -t -ak -e =ro / EN: 'she.was.kicked.out.of.a.job.by.him/them'; ES: 'le.han.botado.de.un.trabajo-ella' 
+# imaninteetakeri / EN: 'he.was.scorned.by.them'; ES: 'le.han.despreciado-él' 
+| "[--][-ee][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]" : "@EP"[{ee}] 
+];
+                   
+define IMPP [ [EP V=S=IMPP]|[V=S=IMPP] ];
