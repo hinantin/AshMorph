@@ -163,14 +163,7 @@ source v-s-impp.foma
                    
 # ****************************************
                    
-# *) -pameneribe jipajitari yora? / -pamenerive hipahitari yora? / p- =amen -e -ri -ve *** hi- =pahi -t -a -ri *** =yora+m.+medial
-#     2a- =to.look -real -3m.o =excl[exclaiming] *** 3m.a- =to.be.called -ep -irr -3m.o *** =that / EN: "look, what's that?"  
-# *) – Opaamakitaki mapira, katsirinivee! / o- =paamaki -t -ak -i *** =mapi -ra *** =kats -i =ri =ni =vee / EN: "– The stone is hot, it hurts!"
-define V=S=EXCL [
-  "[--][=ve][MODAL][+EXCL][=exclaiming,announcing]" : [{ve}]
-| "[--][=vee][MODAL][+EXCL][=exclaiming,announcing]" : [{vee}]
-| "[--][=vi][MODAL][+EXCL][=exclaiming,announcing]" : [{vi}]
-];
+source v-s-excl.foma 
                    
 # ****************************************
                    
