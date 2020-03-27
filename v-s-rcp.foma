@@ -1,0 +1,13 @@
+# -------------------------------------
+# RECIPROCAL 
+# -------------------------------------
+
+# Wise (1990:596) splits the reciprocal marker into -av ‘reciprocal’ + -aka ‘causative’ in the gloss of an Asheninka example.
+
+define V=S=RCP [
+# ikaimavakaaka / i- =kaim -av -ak -aak -a / 3m.s- =to.call -rcp -caus.soc -prf -real / EN: 'they.called.to.each.other'  
+  "[--][-av][+RCP]" : "@EP"[{av}]
+];
+                   
+define RCP [ [EP V=S=RCP]|[V=S=RCP] ];
+                   
