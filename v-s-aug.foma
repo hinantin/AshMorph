@@ -1,0 +1,24 @@
+define V=S=AUG=SET1 [
+# Intensifier 
+  "[--][-piro][DEGR][+AUG][=VERITY:indeed, truly]" : "@EP"[{piro}]
+| "[--][-pero][DEGR][+AUG][=VERITY:indeed, truly]" : "@EP"[{pero}]
+| "[--][-pira][DEGR][+AUG][=VERITY:indeed, truly]" : "@EP"[{pira}]
+];
+                   
+define AUG=SET1 [V=S=AUG=SET1]; # -pero with no epenthesis 
+                   
+define V=S=AUG=SET2 [
+  "[--][-ni][DEGR][+AUG][=truly]" : [{ni}]
+];
+                   
+define AUG [ [EP V=S=AUG=SET1]|[V=S=AUG=SET1] ]; # -pero with epenthesis 
+                   
+define AUG=SET2 [V=S=AUG=SET2]; # -ni with no epenthesis 
+                   
+# -------------------------------------------
+define V=S=DEGR [
+  "[--][-piro][+DEGR][=indeed, truly, verity]" : "@EP"[{piro}]
+| "[--][-pero][+DEGR][=indeed, truly, verity]" : "@EP"[{pero}]
+];
+                   
+define DEGR [ [EP V=S=DEGR]|[V=S=DEGR] ]; 
