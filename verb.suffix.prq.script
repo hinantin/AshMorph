@@ -426,9 +426,7 @@ define S=NOUN [ [EP V=S=noun]|[V=S=noun] ];
                    
 # ****************************************
                    
-define V=S=DEGREE [
-  "[--][=ki][+DEGREE][=excessive.degree]" : "@EP"[{ki}]
-];
+source v-s-degree.foma 
                    
 # ****************************************
  
