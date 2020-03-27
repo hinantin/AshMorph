@@ -1,3 +1,7 @@
+# --------------
+# SENSORY
+# --------------
+
 ! kisaneentantatsiri / =kis -a -neent -ant -atsi -ri / =to.be.angry -ep -s -ep -appl.reas -stat -rel / EN: 'resentful'; ES: 'rencoroso' 
 ! kisaneentantatsiro / =kis -a -neent -ant -atsi -ro / =to.be.angry -ep -s -ep -appl.reas -stat -3n.m.o / EN: 'resentful'; ES: 'rencorosa' 
 ! kitsonkaneentatsiri / kityonkaneentatsiri / =kityonka -neent -atsi =ri / ES: 'que tiene un poco de color rojo' 
@@ -5,7 +9,7 @@
 define V=S=SENSORY [
   "[--][-nint][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{nint}] 
 | "[--][-nent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{nent}] 
-| "[--][-neent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{neent}] 
+| "[--][-neent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit (ES: medio, más.o.menos)]" : "@EP"[{neent}] 
 ];
                    
 define SENSORY [ [EP V=S=SENSORY]|[V=S=SENSORY] ];
