@@ -16,9 +16,9 @@ define AUG [ [EP V=S=AUG=SET1]|[V=S=AUG=SET1] ]; # -pero with epenthesis
 define AUG=SET2 [V=S=AUG=SET2]; # -ni with no epenthesis 
                    
 # -------------------------------------------
-define V=S=DEGR [
-  "[--][-piro][+DEGR][=indeed, truly, verity]" : "@EP"[{piro}]
-| "[--][-pero][+DEGR][=indeed, truly, verity]" : "@EP"[{pero}]
-];
+!define V=S=DEGR [
+!  "[--][-piro][+DEGR][=indeed, truly, verity]" : "@EP"[{piro}]
+!| "[--][-pero][+DEGR][=indeed, truly, verity]" : "@EP"[{pero}]
+!];
                    
-define DEGR [ [EP V=S=DEGR]|[V=S=DEGR] ]; 
+!define DEGR [ [EP V=S=DEGR]|[V=S=DEGR] ]; 
