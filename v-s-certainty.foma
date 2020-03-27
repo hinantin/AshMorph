@@ -1,0 +1,5 @@
+define V=S=CERTAINTY [
+  "[--][=te][+CERTAINTY][=negative.affectivity]" : [{te}]
+| "[--][=teme][+CERTAINTY][==negative.affectivity]" : [{teme}]
+| "[--][=teeme][+CERTAINTY][==negative.affectivity]" : [{teeme}]
+];
