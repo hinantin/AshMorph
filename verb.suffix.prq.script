@@ -155,14 +155,7 @@ source v-s-applreas.foma
                    
 # ****************************************
                    
-define V=S=HAB [
-  "[--][-apin][Asp][+HAB_CUST][=always]" : "@EP"[{apin}] 
-| "[--][-apiin][Asp][+HAB_CUST][=always]" : "@EP"[{apiin}] 
-| "[--][-apinin][Asp][+HAB_CUST][=always]" : "@EP"[{apinin}] 
-| "[--][-apini][Asp][+HAB_CUST][=always]" : "@EP"[{apini}]
-];
-                   
-define HAB [ [EP V=S=HAB]|[V=S=HAB] ];
+source v-s-hab.foma 
                    
 # ****************************************
                    
