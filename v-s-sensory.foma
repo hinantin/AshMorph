@@ -7,8 +7,8 @@
 ! kitsonkaneentatsiri / kityonkaneentatsiri / =kityonka -neent -atsi =ri / ES: 'que tiene un poco de color rojo' 
 ! EN: 'sensory, sensorial'; ES: 'sensorial' 
 define V=S=SENSORY [
-  "[--][-nint][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{nint}] 
-| "[--][-nent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]" : "@EP"[{nent}] 
+  "[--][-nint][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit (ES: medio, más.o.menos)]" : "@EP"[{nint}] 
+| "[--][-nent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit (ES: medio, más.o.menos)]" : "@EP"[{nent}] 
 | "[--][-neent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit (ES: medio, más.o.menos)]" : "@EP"[{neent}] 
 ];
                    
