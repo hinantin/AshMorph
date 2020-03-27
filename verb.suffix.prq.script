@@ -268,13 +268,7 @@ source v-s-ant1.foma
                    
 # ****************************************
                    
-# TIME.MODAL 
-define V=S=EARLY [ 
-  "[--][-aman][ADV][+TIME.MODAL][=early]" : "@EP"[{aman}]
-| "[--][-/DEL:a/man][ADV][+TIME.MODAL][=early]" : "@EP"[{man}] 
-];
-                   
-define EARLY [ [EP V=S=EARLY]|[V=S=EARLY] ];
+source v-s-early.foma 
                    
 # ****************************************
                    
