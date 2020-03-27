@@ -171,10 +171,7 @@ source v-s-stat.foma
                    
 # ****************************************
                    
-define V=S=Q [
-# ampokaika / a- N- =pok -ai -ka / 1pl.s- irr- =to.come -real -q / EN: 'we will come back (when)?'  
-  "[--][=ka][+Q]" : [{ka}]
-];
+source v-s-question.foma 
                    
 # ****************************************
                    
