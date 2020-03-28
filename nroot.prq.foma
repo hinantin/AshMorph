@@ -4491,8 +4491,8 @@ define NRootPRQin [
 | "[=pava+gndr@m.+poss@ni.][NRoot][=(solar|benevolent).deity;| god (ES: dios);| creator (PT: Deus.solar,, o.demiurgo.ashaninka);| dad, father]" : {pava} ! @section:noun@ 
 # ---------------------------------------------------------------------------- 
 ! 
-| "[=pavaeni+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaeni}
-| "[=pavaini+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaini}
+| "[=pavaeni+~{N:/'father':pava/}{CL:/'distant.kin':eni/}+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaeni}
+| "[=pavaini+~{N:/'father':pava/}{CL:/'distant.kin':ini/}+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaini}
 | "[=pavaahi+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaahi}
 ! 
 | "[=pavachori+~{N:/'father':pava/}{CL:/'distant.kin':chori/}+gndr@m.+poss@ti.+kin@male.ego][NRoot][=uncle (ES: tío)]" : {pavachori} ! @section:noun@ 
