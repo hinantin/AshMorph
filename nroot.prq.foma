@@ -4485,7 +4485,7 @@ define NRootPRQin [
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=patziito][NRoot][=head.shape (ES: en.su.cabeza, forma.de.cabeza)]" : {patziito} ! @VCMP 
-| "[=patiito][NRoot][=head.shape (ES: en.su.cabeza, forma.de.cabeza)]" : {patiito}
+| "[=patiito][NRoot][=head.shape (ES: en.su.cabeza, forma.de.cabeza)]" : {patiito} ! @VCMP 
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pava+gndr@m.+poss@ni.][NRoot][=(solar|benevolent).deity;| god (ES: dios);| creator (PT: Deus.solar,, o.demiurgo.ashaninka);| dad, father]" : {pava} ! @section:noun@ 
