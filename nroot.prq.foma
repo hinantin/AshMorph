@@ -4484,8 +4484,8 @@ define NRootPRQin [
 | "[=patintoki+gndr@n.m.+sem@plant][NRoot][=zapote-like.tree.sp. (ES: zapote)]" : {patintoki}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=patziito][NRoot][= (ES: en.su.cabeza, forma.de.cabeza)]" : {patziito} ! @VCMP 
-| "[=patiito][NRoot][= (ES: en.su.cabeza)]" : {patiito}
+| "[=patziito][NRoot][=head.shape (ES: en.su.cabeza, forma.de.cabeza)]" : {patziito} ! @VCMP 
+| "[=patiito][NRoot][=head.shape (ES: en.su.cabeza, forma.de.cabeza)]" : {patiito}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pava+gndr@m.+poss@ni.][NRoot][=(solar|benevolent).deity;| god (ES: dios);| creator (PT: Deus.solar,, o.demiurgo.ashaninka);| dad, father]" : {pava} ! @section:noun@ 
