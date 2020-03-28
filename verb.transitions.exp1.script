@@ -4,6 +4,19 @@ define SLOT=2 [ [AUG]|[APPL]|[APPLSEP]|[DUR]|[EARLY]|[HAB]|[APPLREAS]|[APPLINT]|
 
 define SLOT=3 [ [DIR=SET3]|[DIR=SET2] ];
 
-define SLOT=4 [ [REGR]|[DIR=SET2] ];
+define SLOT=4 [ [PRF]|[REGR]|[PROG]|[STAT] ];
 
-define SLOT=5 [ [REGR]|[DIR=SET2] ];
+define SLOT=5 [ [STATUS] ];
+
+define SLOT=6 [ [V=S=O] ];
+
+define SLOT=7 [ [V=S=PRNO=SET1] ];
+
+define SLOT=8 [ [V=S=PLcircumfixing] ];
+
+define SLOT=9 [ [V=S=REL] ];
+
+define SLOT=10 [ [V=S=SUB] ];
+
+define SLOT=11 [ [V=S=Q]|[V=S=APPR] ];
+
