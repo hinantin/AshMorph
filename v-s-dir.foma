@@ -7,7 +7,7 @@ define V=S=DIR=SET1 [
   "[--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]" : "@EP"[{av}] 
 | "[--][-aav+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]" : "@EP"[{aav}] 
 ];
-
+                   
 define V=S=DIR=SET2 [
 # ablative case
 # 1) inchoative (INCH): beginning of a new state.
@@ -16,7 +16,9 @@ define V=S=DIR=SET2 [
 # 3) continuing action in a series of the actor's activities.
   "[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]" : "@EP"[{an}] 
 ];
-
+                   
+define DIR=SET2 [ [EP V=S=DIR=SET2]|[V=S=DIR=SET2] ];
+                   
 define V=S=DIR=SET3 [
 # allative 'adlativo' case
 # 1) indicates the final phase of an action/state.
@@ -24,5 +26,7 @@ define V=S=DIR=SET3 [
   "[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{ap}]
 | "[--][-apa+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]" : "@EP"[{apa}]
 ];
+                   
+define DIR=SET3 [ [EP V=S=DIR=SET3]|[V=S=DIR=SET3] ];
                    
 define DIR [ [EP V=S=DIR=SET1]|[V=S=DIR=SET1]|[EP V=S=DIR=SET2]|[V=S=DIR=SET2]|[EP V=S=DIR=SET3]|[V=S=DIR=SET3] ];

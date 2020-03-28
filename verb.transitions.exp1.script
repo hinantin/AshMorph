@@ -1,3 +1,9 @@
 define SLOT=1 [ [SENSORY] ];
 
 define SLOT=2 [ [AUG]|[APPL]|[APPLSEP]|[DUR]|[EARLY]|[HAB]|[APPLREAS]|[APPLINT]|[FRUS]|[INCH]|[APPLPRES]|[PL=SET2]|[DIST=SET1] ];
+
+define SLOT=3 [ [DIR=SET3]|[DIR=SET2] ];
+
+define SLOT=4 [ [REGR]|[DIR=SET2] ];
+
+define SLOT=5 [ [REGR]|[DIR=SET2] ];
