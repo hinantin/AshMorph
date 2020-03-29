@@ -204,7 +204,8 @@ define N=S=CL=SET1 [
 | "[--][-impeki][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {impeki} 
 | "[--][-impiki][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {impiki} 
 | "[--][-hempeki][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {hempeki} 
-| "[--][-hempi][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {hempi} 
+# inchajempi / inchahempi / ES: 'leña, tronco' 
+| "[--][-hempi][+CL:branch][=branch]" : {hempi} 
 
 # this classifier tends to change the gender to n.m. of the nominal roots to which it is adhered.
 | "[--][-/DEL:i/venki+gndr@n.m.][+CL:magic.plant][=magic.plant,piripiri-plant]" : {venki} 
