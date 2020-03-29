@@ -186,8 +186,8 @@ define ORootPRQin [
 | "[=kantzimaitacha][ConnRoot][=but (ES: pero); nevertheless (ES: no.obstante, sin.embargo)]" : {kantzimaitacha}
 # ---------------------------------------------- 
 ! 
-| "[=ironyaaka][OtherRoot][=CONN]" : {ironyaaka}
-| "[=ironyaaka][OtherRoot][=then]" : {ironyaaka}
+| "[=ironyaaka][ConnRoot][=CONN (EN: then)]" : {ironyaaka}
+!| "[=ironyaaka][ConnRoot][=CONN (EN: then)]" : {ironyaaka}
 ! 
 | "[=maroheini][OtherRoot][=all (ES: todos, todas)]" : {maroheini}
 | "[=maaroheini][OtherRoot][=all (ES: todos, todas)]" : {maaroheini}
@@ -197,7 +197,6 @@ define ORootPRQin [
 | "[=inkamane][AdvRoot][=early (ES: temprano)]" : {inkamane} 
 | "[=inkaamane][AdvRoot][=early (ES: temprano)]" : {inkaamane} 
 ! 
-| "[=koye][OtherRoot][=ant]" : {koye}
 | "[=o][OtherRoot][=or]" : {o}
 !| "[=okaakini][OtherRoot][=close.by]" : {okaakini}
 ! 
