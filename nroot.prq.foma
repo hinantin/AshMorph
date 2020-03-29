@@ -75,6 +75,7 @@
 # "ROOT STRUCTURE"
 # LEXICON TRANSLATION-LANGUAGES : pan-Ashanika; EN (ENGLISH default translation), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
 # [=CONN (EN:... ; ES:... )]
+# [=COP.CAP (EN:... ; ES:... )]
 
 define NRootPRQin [
   "[=ani+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather (ES: abuelo; PT: avô; IT: nonno);| grandson (ES: nieto; PT: neto; IT: nipote)]" : {ani} ! N@->V @VCMP @section:noun@ 
