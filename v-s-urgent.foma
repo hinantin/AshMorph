@@ -4,7 +4,7 @@
 # ES: 'CLÍTICO.INMEDIATO' INM
 
 define V=S=URGENT [
-# pireketi piarentsi / p- =ir -e =keti *** piarentsi / ES: 'apresúrate, toma el masato' 
-  "[--][=keti][+URGENT][=urgency.of.an.actn.]" : [{keti}]
-| "[--][=kete][+URGENT][=urgency.of.an.actn.]" : [{kete}]
+# pireketi piarentsi / p- =ir -e =keti *** piarentsi / EN: 'drink.the.manioc-beer.right.away'; ES: 'toma.el.masato.de.inmediato' 
+  "[--][=keti][+URGENT][=urgency.of.an.actn.; right.away, immediately (ES: de.inmediato, inmediatamente)]" : [{keti}]
+| "[--][=kete][+URGENT][=urgency.of.an.actn.; right.away, immediately (ES: de.inmediato, inmediatamente)]" : [{kete}]
 ];
