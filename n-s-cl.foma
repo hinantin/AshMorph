@@ -194,18 +194,21 @@ define N=S=CL=SET1 [
 | "[--][-kona][+CL:curved][=curved; gnarled,knotty,lumpy]" : {kona} ! @CL  (ES: curvado) 
 | "[--][-konaki][+CL:curved][=curved; gnarled,knotty,lumpy]" : {konaki} ! (ES: curvado) 
 
-# shito shimaempeki / =shito =shima -empeki / =monkey =fish -cl:small.branch / EN: 'fisher.black.monkey', ES: 'el.mono.negro.pescador' 
+# shito shimaempeki / =shito *** =shima -empeki / =monkey *** =fish -cl:small.branch / EN: 'fisher.black.monkey', ES: 'el.mono.negro.pescador' 
 # akoimpekintsi / =ako -impeki -ntsi / =hand -cl:small.branch -nposs / EN: 'finger', ES: 'dedo' 
 # akoempikintsi / =ako -empiki -ntsi / =hand -cl:small.branch -nposs / EN: 'finger', ES: 'dedo' 
 # akoimpikintsi / =ako -impiki -ntsi / =hand -cl:small.branch -nposs / EN: 'finger', ES: 'dedo' 
 # inchajempeki / inchahempeki / =incha -hempeki / =plant -cl:small.branch / EN: 'firewood'; ES: 'leña' 
 | "[--][-empeki][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {empeki} 
+| "[--][-empekii][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {empekii} 
 | "[--][-empiki][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {empiki} 
 | "[--][-impeki][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {impeki} 
 | "[--][-impiki][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {impiki} 
 | "[--][-hempeki][+CL:small.branch][=small.branch;branching.from.one.node/source (e.g.: a.limb); pointed]" : {hempeki} 
 # inchajempi / inchahempi / ES: 'leña, tronco' 
+# inchajempe / inchahempe / ES: 'leña, tronco' 
 | "[--][-hempi][+CL:branch][=branch]" : {hempi} 
+| "[--][-hempe][+CL:branch][=branch]" : {hempe} 
 
 # this classifier tends to change the gender to n.m. of the nominal roots to which it is adhered.
 | "[--][-/DEL:i/venki+gndr@n.m.][+CL:magic.plant][=magic.plant,piripiri-plant]" : {venki} 
