@@ -209,7 +209,8 @@ define V=S=NCFOC [
                          
 # FOCUS 
 # ‘emphatic enclitic’ 
-# O(bject) focus marker?
+# O focus marker?
+# focused object (O.FOC) 
 define V=S=OFOC [
   "[--][=kya][MODAL][+O.FOC]" : [{kya}] 
 | "[--][=kia][MODAL][+O.FOC]" : [{kia}] 
