@@ -168,10 +168,13 @@ define ORootPRQin [
 | "[=intatsikironta][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikironta}
 # ---------------------------------------------- 
 ! 
+# ----------------------------
+# ADVERSATIVE COORDINATOR
+# ----------------------------
 # iro kantaincha 'but' 
 | "[=iro][ConnRoot][=but (ES: pero)]" : {iro}
-| "[=iroma][OtherRoot][=in.contrast, but]" : {iroma}
-| "[=irokya][OtherRoot][=in.contrast, but]" : {irokya}
+| "[=iroma+~{CONN:iro}{DUB:ma}][ConnRoot][=in.contrast, but]" : {iroma}
+| "[=irokya+~{CONN:iro}{O.FOC:kya}][ConnRoot][=in.contrast, but]" : {irokya}
 ! 
 | "[=kantaincha][ConnRoot][=but (ES: pero)]" : {kantaincha}
 | "[=kantaencha][ConnRoot][=but (ES: pero)]" : {kantaencha}
