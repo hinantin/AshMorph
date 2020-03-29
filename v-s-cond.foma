@@ -1,0 +1,7 @@
+# ---------------------------
+# CONDITIONAL  
+# ---------------------------
+
+define V=S=COND [
+  "[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]" : [{rika}] ! +evidential 
+];
