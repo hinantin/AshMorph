@@ -238,7 +238,11 @@ define V=S=EMPH [
 | "[--][=kia][MODAL][+EMPH]" : [{kia}]
 | "[--][=kea][MODAL][+EMPH]" : [{kea}]
 ! 
-| "[--][=poo][+EMPH]" : "@EP"[{poo}]
+# -------------------------- 
+# FURY 
+# -------------------------- 
+| "[--][=poo][+EMPH][=extreme.emotional.state]" : "@EP"[{poo}]
+| "[--][=po][+EMPH][=extreme.emotional.state]" : "@EP"[{po}]
 ! 
 | "[--][=ha][+EMPH][=contradictory.emphasis]" : "@EP"[{ha}]
 ! 
