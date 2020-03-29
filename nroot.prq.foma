@@ -14,9 +14,10 @@
 # 0: +~{..}{..}...{..} 
 #    Information on the morphemes of lexicalized entries.
 #    {L.DEL:...} {R.DEL:...} {BLANK:SPACE} 
-#    {N:/'hand':ako/} 
-#    {CL:/'branching.from.one.node':impeki/}
-#    {DEGR:pero}
+#    {N:/'TRANSLATION':NRoot/} 
+#    {V:/'TRANSLATION':VRoot/} 
+#    {CL:/'TRANSLATION':CLSuffix/}
+#    {LABEL:suffix}
 
 # 1: +gndr@m. (masculine), 
 #    +gndr@n.m. (not-masculine), 
