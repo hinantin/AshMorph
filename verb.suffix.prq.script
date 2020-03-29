@@ -204,31 +204,7 @@ source v-s-ofoc.foma
                    
 # ****************************************
                          
-define V=S=EMPH [
-# tya: urgency, impatience, surprise, exasperation 
-# aritya / =ari -tya / =PP -EMPH /  
-  "[--][=tya][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
-| "[--][=tyaa][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tyaa}]
-| "[--][=tea][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tea}]
-! 
-# Assertive 
-| "[--][=kya][MODAL][+EMPH]" : [{kya}]
-| "[--][=kia][MODAL][+EMPH]" : [{kia}]
-| "[--][=kea][MODAL][+EMPH]" : [{kea}]
-! 
-# -------------------------- 
-# FURY 
-# -------------------------- 
-| "[--][=poo][+EMPH][=extreme.emotional.state]" : "@EP"[{poo}]
-| "[--][=po][+EMPH][=extreme.emotional.state]" : "@EP"[{po}]
-! 
-| "[--][=ha][+EMPH][=contradictory.emphasis]" : "@EP"[{ha}]
-! 
-| "[--][=tzi][+EMPH]" : "@EP"[{tzi}]
-! 
-! ñ-ak-e-ro=sa / EN: 'you will see it' 
-| "[--][=sa][+EMPH]" : "@EP"[{sa}]
-];
+source v-s-emph.foma 
                    
 # ****************************************
                                
