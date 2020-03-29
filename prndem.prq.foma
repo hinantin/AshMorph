@@ -116,7 +116,8 @@ define PrnDemPRQin [
 ! hero 
 | "[=hero+gndr@n.m.+class@attn.prn.][PrnDem][=DEM.ID.: here.you.are]" : {hero}
 | "[=heroka+gndr@n.m.+proximal][PrnDem][=DEM.ID.: here.you.are; here.it.is]" : {heroka}
-| "[=hero+gndr@n.m.+class@attn.prn.][PrnDem][=DEM.ID.: here.you.are][--][=keti][+URGENT]" : {heroketi}
+!| "[=hero+gndr@n.m.+class@attn.prn.][PrnDem][=DEM.ID.: here.you.are][--][=keti][+URGENT]" : {heroketi}
+| "[=heroketi+~{DEM.ID.:/ATTN.PRN.n.m.:hero/}{URGENT:/'first':keti/}][PrnDem][=here.it.is.first (ES: aquí.está.primero)]" : {heroketi}
 ! 
 ! niro ~ hiro 
 | "[=niro+gndr@n.m.+class@attn.prn.][PrnDem][=here.it.is]" : {niro}
