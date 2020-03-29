@@ -170,6 +170,9 @@ define ORootPRQin [
 ! 
 # iro kantaincha 'but' 
 | "[=iro][ConnRoot][=but (ES: pero)]" : {iro}
+| "[=iroma][OtherRoot][=in.contrast, but]" : {iroma}
+| "[=irokya][OtherRoot][=in.contrast, but]" : {irokya}
+! 
 | "[=kantaincha][ConnRoot][=but (ES: pero)]" : {kantaincha}
 | "[=kantaencha][ConnRoot][=but (ES: pero)]" : {kantaencha}
 | "[=kantaenchari][ConnRoot][=but (ES: pero)]" : {kantaenchari}
@@ -180,7 +183,6 @@ define ORootPRQin [
 | "[=kantzimaitacha][ConnRoot][=but (ES: pero); nevertheless (ES: no.obstante, sin.embargo)]" : {kantzimaitacha}
 # ---------------------------------------------- 
 ! 
-| "[=iroma][OtherRoot][=in.contrast]" : {iroma}
 | "[=ironyaaka][OtherRoot][=CONN]" : {ironyaaka}
 | "[=ironyaaka][OtherRoot][=then]" : {ironyaaka}
 ! 
