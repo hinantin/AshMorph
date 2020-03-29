@@ -196,17 +196,7 @@ define V=S=LOC [
                    
 # ****************************************
                   
-# -------------------
-# AFFECT 
-# -------------------
-# NON-CONTRADICTORY FOCUS
-! =OPT=N.C.FOC=O.FOC / =ta=tya=kya 
-! =N.C.FOC=CNT.F / =tya=mi 
-define V=S=NCFOC [
-  "[--][=tea][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tea}]
-| "[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
-| "[--][=tyaa][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tyaa}]
-];
+source v-s-ncfoc.foma 
                    
 # ****************************************
                          
