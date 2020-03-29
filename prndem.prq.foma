@@ -99,7 +99,7 @@ define PrnDemPRQin [
 | "[=herika+gndr@m.+loc@proximal][PrnDem][=DEM.ID.: here.it.is (ES: aquí.está)]" : {herika} 
 | "[=heriyonta+gndr@m.+loc@distal][PrnDem][=DEM.ID.: it.is.over.there (ES: allá.está)]" : {heriyonta} 
 | "[=herionta+gndr@m.+loc@distal][PrnDem][=DEM.ID.: it.is.over.there (ES: allá.está)]" : {herionta} 
-| "[=heriketi+~{DEM.ID.:/ATTN.PRN.m.:heri/}{URGENT:keti}][PrnDem][=~]" : {heriketi} 
+| "[=heriketi+~{DEM.ID.:/ATTN.PRN.m.:heri/}{URGENT:/'first':keti/}][PrnDem][=~]" : {heriketi} 
 ! 
 ! niri ~ hiri 
 | "[=niri+gndr@m.+class@attn.prn.][PrnDem][=there]" : {niri}
