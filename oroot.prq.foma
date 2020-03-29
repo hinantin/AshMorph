@@ -189,8 +189,8 @@ define ORootPRQin [
 | "[=ironyaaka][ConnRoot][=CONN (EN: then)]" : {ironyaaka}
 !| "[=ironyaaka][ConnRoot][=CONN (EN: then)]" : {ironyaaka}
 ! 
-| "[=maroheini+~{N:/'all':maro/}{PL:hei}{ADV:/DEL:i/ni}][AdvRoot][=all (ES: todos, todas)]" : {maroheini}
-| "[=maaroheini+~{N:/'all':maaro/}{PL:hei}{ADV:/DEL:i/ni}][AdvRoot][=all (ES: todos, todas)]" : {maaroheini}
+| "[=maroheini+~{N:/'all':maro/}{PL:hei}{L.DEL:i}{ADV:ini}][AdvRoot][=all (ES: todos, todas)]" : {maroheini}
+| "[=maaroheini+~{N:/'all':maaro/}{PL:hei}{L.DEL:i}{ADV:ini}][AdvRoot][=all (ES: todos, todas)]" : {maaroheini}
 ! 
 | "[=kapichikitaite][OtherRoot][=early]" : {kapichikitaite} 
 | "[=kapichi][NRoot][=small][--][=kitaite][VRoot][=to.be.morning]::[=early]" : {kapichikitaite} 
