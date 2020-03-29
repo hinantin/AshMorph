@@ -196,6 +196,9 @@ define V=S=LOC [
                    
 # ****************************************
                   
+# -------------------
+# AFFECT 
+# -------------------
 # NON-CONTRADICTORY FOCUS
 ! =OPT=N.C.FOC=O.FOC / =ta=tya=kya 
 ! =N.C.FOC=CNT.F / =tya=mi 
@@ -207,10 +210,14 @@ define V=S=NCFOC [
                    
 # ****************************************
                          
+# -------------------
+# ASSERTIVE 
+# -------------------
+# LABEL: ASSERT 
 # FOCUS 
 # ‘emphatic enclitic’ 
 # O focus marker?
-# focused object (O.FOC) 
+# FOCUSED OBJECT (O.FOC) 
 define V=S=OFOC [
   "[--][=kya][MODAL][+O.FOC]" : [{kya}] 
 | "[--][=kia][MODAL][+O.FOC]" : [{kia}] 
