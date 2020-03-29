@@ -200,19 +200,7 @@ source v-s-ncfoc.foma
                    
 # ****************************************
                          
-# -------------------
-# ASSERTIVE 
-# -------------------
-# LABEL: ASSERT 
-# FOCUS 
-# ‘emphatic enclitic’ 
-# O focus marker?
-# FOCUSED OBJECT (O.FOC) 
-define V=S=OFOC [
-  "[--][=kya][MODAL][+O.FOC]" : [{kya}] 
-| "[--][=kia][MODAL][+O.FOC]" : [{kia}] 
-| "[--][=kea][MODAL][+O.FOC]" : [{kea}] 
-];
+source v-s-ofoc.foma 
                    
 # ****************************************
                          
