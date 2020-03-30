@@ -108,12 +108,12 @@ define ADV=SET2 [ [EP V=S=ADV=SET2]|[V=S=ADV=SET2] ];
 # O : transitive-verb object 
 # P : patient-like argument 
 define V=S=O [
-  "[--][=na][+1SG.O/P]" : [{na}] 
+  "[--][=na][+1SG.O/P][=me (ES: me)]" : [{na}] 
 | "[--][=mi][+2SG.O/P]" : [{mi}] 
 | "[--][=mpi][+2SG.O/P]" : [{mpi}] 
 | "[--][=mpi~npi][+2SG.O/P]" : [{npi}] 
-| "[--][=ni][+3SG.O/P]" : [{ni}] 
-| "[--][=ni~ne][+3SG.O/P]" : [{ne}] 
+| "[--][=ni][+3SG.O/P][=him/her (ES: lo/la)]" : [{ni}] 
+| "[--][=ni~ne][+3SG.O/P][=him/her (ES: lo/la)]" : [{ne}] 
 ];
                    
 # ****************************************
