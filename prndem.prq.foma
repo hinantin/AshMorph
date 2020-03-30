@@ -99,7 +99,7 @@ define PrnDemPRQin [
 | "[=herika+gndr@m.+loc@proximal][PrnDem][=DEM.ID.: here.it.is (ES: aquí.está)]" : {herika} 
 | "[=heriyonta+gndr@m.+loc@distal][PrnDem][=DEM.ID.: it.is.over.there (ES: allá.está)]" : {heriyonta} 
 | "[=herionta+gndr@m.+loc@distal][PrnDem][=DEM.ID.: it.is.over.there (ES: allá.está)]" : {herionta} 
-| "[=heriketi+~{DEM.ID.:/ATTN.PRN.m.:heri/}{URGENT:/'first':keti/}][PrnDem][=here.he.is.first (ES: aquí.está.él.primero)]" : {heriketi} 
+| "[=heriketi+~{DEM.ID.:/ATTN.PRN.m.:heri/}{URGENT:/'first':keti/}][PrnDem][=first…here.he.is (ES: primero…aquí.está.él)]" : {heriketi} 
 ! 
 ! niri ~ hiri 
 | "[=niri+gndr@m.+class@attn.prn.][PrnDem][=there]" : {niri}
@@ -117,7 +117,7 @@ define PrnDemPRQin [
 | "[=hero+gndr@n.m.+class@attn.prn.][PrnDem][=DEM.ID.: here.you.are]" : {hero}
 | "[=heroka+gndr@n.m.+proximal][PrnDem][=DEM.ID.: here.you.are; here.it.is]" : {heroka}
 !| "[=hero+gndr@n.m.+class@attn.prn.][PrnDem][=DEM.ID.: here.you.are][--][=keti][+URGENT][=first]" : {heroketi}
-| "[=heroketi+~{DEM.ID.:/ATTN.PRN.n.m.:hero/}{URGENT:/'first':keti/}][PrnDem][=here.she.is.first (ES: aquí.está.ella.primero)]" : {heroketi}
+| "[=heroketi+~{DEM.ID.:/ATTN.PRN.n.m.:hero/}{URGENT:/'first':keti/}][PrnDem][=first…here.she.is (ES: primero…aquí.está.ella)]" : {heroketi}
 ! 
 ! niro ~ hiro 
 | "[=niro+gndr@n.m.+class@attn.prn.][PrnDem][=here.it.is]" : {niro}
