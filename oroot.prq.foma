@@ -208,14 +208,14 @@ define ORootPRQin [
 | "[=kaate+prop@standalone.][VRoot][=COME (ES: ven)]" : {kaate}
 | "[=kate+prop@standalone.][VRoot][=COME (ES: ven)]" : {kate}
 | "[=kaa+prop@standalone.][VRoot][=COME (ES: ven)]" : {kaa}
-| "[=kaate+prop@standalone.][VRoot][=COME (ES: ven)][--][=keti][+URGENT]" : {kaateketi}
+| "[=kaate+prop@standalone.][VRoot][=COME (ES: ven)][--][=keti][+URGENT]::[=come.at_once/right_away]" : {kaateketi}
 ! 
 # tsamitya / =tsami -tya / =come.on -emph / EN: 'let's go now' 
 | "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]" : {tsame} ! Interj. 
 | "[=tsami+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]" : {tsami} ! Interj. 
 | "[=tsami+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)][--][-tya][+EMPH]" : {tsamitya}
 | "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)][--][-tya][+EMPH]" : {tsametya}
-| "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)][--][=keti][+URGENT]" : {tsameketi}
+| "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)][--][=keti][+URGENT]::[=let's.go.at_once/right_away]" : {tsameketi}
 # omapero
 | "[=omapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omapero}
 | "[=omaapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omaapero}
