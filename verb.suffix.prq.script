@@ -17,8 +17,8 @@ source v-s-prog.foma
 # P : patient-like argument 
 define V=S=PRNO=SET1 [
   "[--][=ri][+3m.O/P]" : [{ri}] 
-| "[--][=re][+3m.O/P]" : [{re}] 
-| "[--][=rii][+3m.O/P]" : [{rii}] 
+| "[--][=ri~re][+3m.O/P]" : [{re}] 
+| "[--][=ri~rii][+3m.O/P]" : [{rii}] 
 | "[--][=ro][+3n.m.O/P]" : [{ro}] 
 | "[--][=vo][+3n.m.O/P]" : [{vo}] 
 ];
