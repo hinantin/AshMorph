@@ -494,7 +494,10 @@ define VRootPRQin [
 | "[=ashinonkee][VRoot][=to.suffer.from.sth.; to.suffer (ES: sufrir)]" : {ashinonkee}
 # -------------------------------------------
 ! 
-| "[=ashitak+INF@VC.][VRoot][=to.impregnate, to.make.pregnant (ES: preñar)]" : {ashitak}
+! ¡Jeriketi ashitakakerori noshinto! / ES: '¡Aquí está el que ha preñado a mi hija!' 
+! ninka iroñaaka ashitakakamiri / ES: 'entonces quién es el que te ha preñado' 
+! Aashitakari choeni shirampari kayetsi. / ES: 'el que preñó a mi hermana es un hombre afasi' 
+| "[=ashitak+~{V:/'to.have':ashi/}{EP:t}{APPL.CAUS.SOC:ak}+INF@VC.][VRoot][=to.impregnate, to.make.pregnant (ES: preñar)]" : {ashitak}
 # -------------------------------------------
 ! 
 # antaitaantsi / ES: 'trepar' 
