@@ -97,15 +97,15 @@ define ADV [V=S=ADV=SET1];
 # ****************************************
                    
 define V=S=ADV=SET2 [
-  "[--][-paite][+ADV][=during, at.the.time.of.sth., period]" : "@EP"[{paite}] 
-| "[--][-paiti][+ADV][=during, at.the.time.of.sth., period]" : "@EP"[{paiti}] 
+  "[--][-paite][+ADV][=during.an.event, at.the.time.of.sth., period.of.time]" : "@EP"[{paite}] 
+| "[--][-paiti][+ADV][=during.an.event, at.the.time.of.sth., period.of.time]" : "@EP"[{paiti}] 
 ];
                    
 define ADV=SET2 [ [EP V=S=ADV=SET2]|[V=S=ADV=SET2] ];
                    
 # ****************************************
                    
-# O : transitive verbs 
+# O : transitive verbs object 
 # P : patient-like argument 
 define V=S=O [
   "[--][=na][+1SG.O/P]" : [{na}] 
