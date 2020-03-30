@@ -112,8 +112,8 @@ define V=S=O [
 | "[--][=mi][+2SG.O/P][=you (ES: te)]" : [{mi}] 
 | "[--][=mpi][+2SG.O/P][=you (ES: te)]" : [{mpi}] 
 | "[--][=mpi~npi][+2SG.O/P][=you (ES: te)]" : [{npi}] 
-| "[--][=ni][+3SG.O/P][=him/her (ES: lo/la)]" : [{ni}] 
-| "[--][=ni~ne][+3SG.O/P][=him/her (ES: lo/la)]" : [{ne}] 
+| "[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ni}] 
+| "[--][=ni~ne][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ne}] 
 ];
                    
 # ****************************************
