@@ -72,6 +72,12 @@
 #    personal.belongings -> +sem@pers.belongs.
 #    supernatural.entities -> +sem@spn.enty.
 
+# 7: morphophonemics m.phon@LEN:^p→^v. [^...$] start and the end of a lexicon entry 
+#    lenition LEN
+#    epenthesis EP
+#    deletion DEL 
+#    sibilant neutralization 
+
 # "ROOT STRUCTURE"
 # LEXICON TRANSLATION-LANGUAGES : pan-Ashanika; EN (ENGLISH default translation), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
 # [=CONN (EN:... ; ES:... )]
@@ -4412,7 +4418,7 @@ define NRootPRQin [
 # ----------------------------------------------------------------------------- 
 ! 
 # obaante / ovaante / o- paante / 3n.m.poss- =mouth / EN: 'her.mouth'; ES: 'su.boca (de.ella)' 
-| "[=pante+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
+| "[=pante+gndr@n.m.+inal@ntsi.+sem@b.p.+m.phon@vante.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
 | "[=paante+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {paante}
 | "[=panti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {panti}
 | "[=paanti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {paanti}
