@@ -2430,7 +2430,7 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------------
 # kipatsi: country, earth, soil, ground, land, dirt, dust 
-| "[=kipatsi+gndr@n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa);| mud;| land]" : {kipatsi} ! @section:noun@ 
+| "[=kipatsi+gndr@n.m.+poss@te:ti.+m.phon@LEN:^k→^Ø.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa);| mud;| land]" : {kipatsi} ! @section:noun@ 
 | "[=kipatsiki][NRoot][=world (ES: mundo)]" : {kipatsiki}
 | "[=kipatsini][NRoot][=ground (ES: suelo)]" : {kipatsini}
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
@@ -3945,7 +3945,7 @@ define NRootPRQin [
 | "[=okitsoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitsoki}
 | "[=okitoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitoki}
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
-| "[=kitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
+| "[=kitsoki+gndr@m.+inal@ntsi.+m.phon@LEN:^k→^Ø.][NRoot][=seed (ES: semilla; PT: semente)]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
 | "[=oitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {oitsoki} 
 | "[=iitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {iitsoki}
 # ---------------------------------------------------------------------
