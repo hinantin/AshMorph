@@ -1971,7 +1971,7 @@ define NRootPRQin [
 | "[=kamevira+gndr@m.+sem@bird][NRoot][=hummingbird.sp. (ES: colibri.sp.; sci.nm.: florisuga.mellivora)]" : {kamevira}
 # ---------------------------------------------------------------------
 ! 
-| "[=kami+poss@ni.][NRoot][=rotten.leaf (ES: hoja.podrida)]" : {kami}
+| "[=kami+poss@ni.+m.phon@LEN:^k→^y.][NRoot][=rotten.leaf (ES: hoja.podrida)]" : {kami}
 # ---------------------------------------------------------------------
 ! 
 | "[=kaminirio+sem@NP.person][NRoot][=person's.name, NP]" : {kaminirio}
@@ -2677,7 +2677,7 @@ define NRootPRQin [
 | "[=koi+gndr@n.m.+sem@plant][NRoot][=barbasco, vegetable.poison]" : {koi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koka+gndr@n.m.+poss@ne:ni.+sem@plant][NRoot][=coca (QUZ: kuka; sci.nm.: erythroxylon.sp., erythroxylon.coca)]" : {koka}
+| "[=koka+gndr@n.m.+poss@ne:ni.+sem@plant+m.phon@LEN:^k→^y.][NRoot][=coca (QUZ: kuka; sci.nm.: erythroxylon.sp., erythroxylon.coca)]" : {koka}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kokaki+gndr@n.m.+sem@plant][NRoot][= (ES: chimicua, sp.de.árbol.frutal)]" : {kokaki}
