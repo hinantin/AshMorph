@@ -72,7 +72,7 @@
 #    personal.belongings -> +sem@pers.belongs.
 #    supernatural.entities -> +sem@spn.enty.
 
-# 7: morphophonemics m.phon@LEN:^p→^v. [^...$] start and the end of a lexicon entry 
+# 7: morphophonemics +m.phon@LEN:^p→^v. [^...$] start and the end of a lexicon entry 
 #    lenition LEN
 #    epenthesis EP
 #    deletion DEL 
@@ -4411,14 +4411,14 @@ define NRootPRQin [
 | "[=paNkire/pãkire+gndr@m.+inal@ntsi.][NRoot:CPB][=plant (ES: planta)]" : {pãkire}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=panko+gndr@n.m.+inal@tsi.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
+| "[=panko+gndr@n.m.+inal@tsi.+m.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
 | "[=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 ! 
 | "[=pankoshi~{'house':panko}{CL:/'leaf':shi/}+gndr@n.m.+inal@ntsi.][NRoot][=hut, hovel, hunter's.blind (ES: choza.(para.cazar.aves.salvajes); PT: cabana)]" : {pankoshi} 
 # ----------------------------------------------------------------------------- 
 ! 
 # obaante / ovaante / o- paante / 3n.m.poss- =mouth / EN: 'her.mouth'; ES: 'su.boca (de.ella)' 
-| "[=pante+gndr@n.m.+inal@ntsi.+sem@b.p.+m.phon@vante.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
+| "[=pante+gndr@n.m.+inal@ntsi.+sem@b.p.+m.phon@LEN:^p→^v.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
 | "[=paante+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {paante}
 | "[=panti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {panti}
 | "[=paanti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {paanti}
