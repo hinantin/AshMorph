@@ -2008,9 +2008,9 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+m.phon@LEN:^k→^y.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP @section:noun@ 
-| "[=kaaniri+~kaanir{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
-| "[=kanire+~kanir{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
-| "[=kainiri+~kainir{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
+| "[=kaaniri+~{N:/'yucca':kaanir/}{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
+| "[=kanire+~{N:/'yucca':kanir/}{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
+| "[=kainiri+~{N:/'yucca':kainir/}{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 ! kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato' 
 !| "[=kaniria+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}][NRoot][=manioc.beer, masato (ES: bebida.de.yuca, masato)]" : {kaniria} ! @section:noun@ 
 !| "[=kaniriapatsa+~{N:/'yucca':kaniri/}{CL:/'liquid':a/}{CL:/'mass':patsa/}][NRoot][=yucca.mass (ES: masa.de.yuca)]" : {kaniriapatsa} ! @section:noun@ 
@@ -2640,8 +2640,8 @@ define NRootPRQin [
 ! Tunics with horizontal lines, Industrialized U-Neck Clothing, representing animals.
 ! Men:
 ! Tunics with vertical lines, V-neck cotton clothing, representing animals.
-| "[=kitsari+gndr@m.+inal@ntsi.+m.phon@LEN:^k→^Ø.][NRoot][=dress, cushma, cloth]" : {kitsari} ! kitsa-ri to.dress-nmz
-| "[=kitsare+gndr@m.+inal@ntsi.+m.phon@LEN:^k→^Ø.][NRoot][=dress, cushma, cloth]" : {kitsare}
+| "[=kitsari+~{N:/'cushma':kitsar/}{nposs:i}+gndr@m.+inal@ntsi.+m.phon@LEN:^k→^Ø.][NRoot][=dress, cushma, cloth]" : {kitsari} ! kitsa-ri to.dress-nmz
+| "[=kitsare+~{N:/'cushma':kitsar/}{poss:e}+gndr@m.+inal@ntsi.+m.phon@LEN:^k→^Ø.][NRoot][=dress, cushma, cloth]" : {kitsare}
 | "[=kitsaare+gndr@m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsaare} 
 | "[=kitsaari+gndr@m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsaari} 
 | "[=ketsare+gndr@m.+inal@ntsi.][NRoot][=dress (ES: vestido), cushma, cloth (ES: tela)]" : {ketsare} ! o-etsa-re-ki 
