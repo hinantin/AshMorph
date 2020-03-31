@@ -2620,8 +2620,8 @@ define NRootPRQin [
 | "[=kitochempe+gndr@m.+sem@crustacean][NRoot][=shrimp.sp. (ES: sp.de.camarón)]" : {kitochempe}
 ! 
 | "[=kitoche+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitoche}
-| "[=kitochee+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitochee}
-| "[=kitoochii+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitoochii}
+| "[=kitochee+gndr@n.m.+m.phon@LEN:^k→^Ø.][NRoot][=thorn (ES: espina)]" : {kitochee}
+| "[=kitoochii+gndr@n.m.+m.phon@LEN:^k→^Ø.][NRoot][=thorn (ES: espina)]" : {kitoochii}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kitoki+sem@NP.person][NRoot][=person's.name, NP]" : {kitoki}
