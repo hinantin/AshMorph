@@ -1772,7 +1772,7 @@ define NRootPRQin [
 | "[=iiti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iiti}
 | "[=iitsi+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iitsi}
 | "[=iti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iti}
-| "[=kitzi+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=leg; foot (ES: pie)]" : {kitzi}
+| "[=kitzi+gndr@n.m.+inal@tsi.+sem@b.p.+m.phon@LEN:^k→^Ø.][NRoot][=leg; foot (ES: pie)]" : {kitzi}
 | "[=kitsi+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=leg; foot (ES: pie)]" : {kitsi}
 !| "[=iitsikonta+~{N:/'foot':iitsi/}{CL:/'underside':konta/}+inal@ntsi.+sem@b.p.][NRoot][=sole.of.foot (ES: planta.del.pie)]" : {iitsikonta} ! @section:noun@ 
 # ---------------------------------------------------------------------
