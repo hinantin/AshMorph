@@ -72,8 +72,8 @@
 #    personal.belongings -> +sem@pers.belongs.
 #    supernatural.entities -> +sem@spn.enty.
 
-# 7: morphophonemics +m.phon@LEN:^p→^v. [^...$] start and the end of a lexicon entry 
-#                    +m.phon@LEN:^k→^Ø. 
+# 7: morphophonemics +mrph.phon@LEN:^p→^v. [^...$] start and the end of a lexicon entry 
+#                    +mrph.phon@LEN:^k→^Ø. 
 #    lenition LEN
 #    epenthesis EP
 #    deletion DEL 
@@ -1706,7 +1706,7 @@ define NRootPRQin [
 # -------------------------------------------------------------------------------------------------
 ! 
 | "[=ito+gndr@n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)]" : {ito}
-| "[=iito+gndr@n.m.+inal@ntsi.+m.phon@DEL:^ii→^i.][NRoot][=head (ES: cabeza)]" : {iito}
+| "[=iito+gndr@n.m.+inal@ntsi.+mrph.phon@DEL:^ii→^i.][NRoot][=head (ES: cabeza)]" : {iito}
 | "[=kito+inal@tsi.][NRoot][=head (ES: cabeza)]" : {kito}
 | "[=hito+inal@tsi.][NRoot][=head (ES: cabeza)]" : {hito}
 # -------------------------------------------------------------------------------------------------
@@ -1772,7 +1772,7 @@ define NRootPRQin [
 | "[=iiti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iiti}
 | "[=iitsi+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iitsi}
 | "[=iti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=foot (ES: pie)]" : {iti}
-| "[=kitzi+gndr@n.m.+inal@tsi.+sem@b.p.+m.phon@LEN:^k→^Ø.][NRoot][=leg; foot (ES: pie)]" : {kitzi}
+| "[=kitzi+gndr@n.m.+inal@tsi.+sem@b.p.+mrph.phon@LEN:^k→^Ø.][NRoot][=leg; foot (ES: pie)]" : {kitzi}
 | "[=kitsi+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=leg; foot (ES: pie)]" : {kitsi}
 !| "[=iitsikonta+~{N:/'foot':iitsi/}{CL:/'underside':konta/}+inal@ntsi.+sem@b.p.][NRoot][=sole.of.foot (ES: planta.del.pie)]" : {iitsikonta} ! @section:noun@ 
 # ---------------------------------------------------------------------
@@ -1972,7 +1972,7 @@ define NRootPRQin [
 | "[=kamevira+gndr@m.+sem@bird][NRoot][=hummingbird.sp. (ES: colibri.sp.; sci.nm.: florisuga.mellivora)]" : {kamevira}
 # ---------------------------------------------------------------------
 ! 
-| "[=kami+poss@ni.+m.phon@LEN:^k→^y.][NRoot][=rotten.leaf (ES: hoja.podrida)]" : {kami}
+| "[=kami+poss@ni.+mrph.phon@LEN:^k→^y.][NRoot][=rotten.leaf (ES: hoja.podrida)]" : {kami}
 # ---------------------------------------------------------------------
 ! 
 | "[=kaminirio+sem@NP.person][NRoot][=person's.name, NP]" : {kaminirio}
@@ -2007,7 +2007,7 @@ define NRootPRQin [
 | "[=kanarinke+~{'guan':kanari}{CL:/'snake':nke/}+gndr@m.+sem@reptile][NRoot][=venomous.viper.sp. (ES: serpiente; sci.nm.: imantodes.cenchoa.cenchoa)]" : {kanarinke}
 # ---------------------------------------------------------------------
 ! 
-| "[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+m.phon@LEN:^k→^y.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP @section:noun@ 
+| "[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP @section:noun@ 
 | "[=kaaniri+~{N:/'yucca':kaanir/}{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
 | "[=kanire+~{N:/'yucca':kanir/}{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+~{N:/'yucca':kainir/}{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
@@ -2430,7 +2430,7 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------------
 # kipatsi: country, earth, soil, ground, land, dirt, dust 
-| "[=kipatsi+gndr@n.m.+poss@te:ti.+m.phon@LEN:^k→^Ø.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa);| mud;| land]" : {kipatsi} ! @section:noun@ 
+| "[=kipatsi+gndr@n.m.+poss@te:ti.+mrph.phon@LEN:^k→^Ø.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa);| mud;| land]" : {kipatsi} ! @section:noun@ 
 | "[=kipatsiki][NRoot][=world (ES: mundo)]" : {kipatsiki}
 | "[=kipatsini][NRoot][=ground (ES: suelo)]" : {kipatsini}
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
@@ -2523,8 +2523,8 @@ define NRootPRQin [
 | "[=kishanyavo][NRoot][=black.yucca/manioc (ES: yuca.negra)]" : {kishanyavo}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kishi+gndr@n.m.+inal@tsi.+m.phon@LEN:^k→^Ø.][NRoot][=hair (ES: cabello, pelo; PT: pelo; QU: chukcha)]" : {kishi} ! @section:noun@ 
-| "[=iishi+gndr@n.m.+inal@ntsi.+m.phon@DEL:^ii→^i.][NRoot][=hair (ES: cabello, pelo)]" : {iishi}
+| "[=kishi+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^k→^Ø.][NRoot][=hair (ES: cabello, pelo; PT: pelo; QU: chukcha)]" : {kishi} ! @section:noun@ 
+| "[=iishi+gndr@n.m.+inal@ntsi.+mrph.phon@DEL:^ii→^i.][NRoot][=hair (ES: cabello, pelo)]" : {iishi}
 | "[=eeshi+gndr@n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {eeshi}
 !| "[=iishi+gndr@n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {iishi}
 | "[=ishi+gndr@n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {ishi}
@@ -2621,7 +2621,7 @@ define NRootPRQin [
 ! 
 | "[=kitoche+gndr@n.m.][NRoot][=thorn (ES: espina)]" : {kitoche}
 | "[=kitochee+gndr@n.m.+poss@re.+mrph.phon@LEN:^k→^Ø.][NRoot][=thorn (ES: espina)]" : {kitochee}
-| "[=kitoochii+gndr@n.m.+poss@ri.+m.phon@LEN:^k→^Ø.][NRoot][=thorn (ES: espina)]" : {kitoochii}
+| "[=kitoochii+gndr@n.m.+poss@ri.+mrph.phon@LEN:^k→^Ø.][NRoot][=thorn (ES: espina)]" : {kitoochii}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kitoki+sem@NP.person][NRoot][=person's.name, NP]" : {kitoki}
@@ -2640,8 +2640,8 @@ define NRootPRQin [
 ! Tunics with horizontal lines, Industrialized U-Neck Clothing, representing animals.
 ! Men:
 ! Tunics with vertical lines, V-neck cotton clothing, representing animals.
-| "[=kitsari+~{N:/'cushma':kitsar/}{nposs:i}+gndr@m.+inal@ntsi.+m.phon@LEN:^k→^Ø.][NRoot][=dress, cushma, cloth]" : {kitsari} ! kitsa-ri to.dress-nmz
-| "[=kitsare+~{N:/'cushma':kitsar/}{poss:e}+gndr@m.+inal@ntsi.+m.phon@LEN:^k→^Ø.][NRoot][=dress, cushma, cloth]" : {kitsare}
+| "[=kitsari+~{N:/'cushma':kitsar/}{nposs:i}+gndr@m.+inal@ntsi.+mrph.phon@LEN:^k→^Ø.][NRoot][=dress, cushma, cloth]" : {kitsari} ! kitsa-ri to.dress-nmz
+| "[=kitsare+~{N:/'cushma':kitsar/}{poss:e}+gndr@m.+inal@ntsi.+mrph.phon@LEN:^k→^Ø.][NRoot][=dress, cushma, cloth]" : {kitsare}
 | "[=kitsaare+gndr@m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsaare} 
 | "[=kitsaari+gndr@m.+inal@ntsi.][NRoot][=dress, cushma, cloth]" : {kitsaari} 
 | "[=ketsare+gndr@m.+inal@ntsi.][NRoot][=dress (ES: vestido), cushma, cloth (ES: tela)]" : {ketsare} ! o-etsa-re-ki 
@@ -2678,7 +2678,7 @@ define NRootPRQin [
 | "[=koi+gndr@n.m.+sem@plant][NRoot][=barbasco, vegetable.poison]" : {koi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=koka+gndr@n.m.+poss@ne:ni.+sem@plant+m.phon@LEN:^k→^y.][NRoot][=coca (QUZ: kuka; sci.nm.: erythroxylon.sp., erythroxylon.coca)]" : {koka}
+| "[=koka+gndr@n.m.+poss@ne:ni.+sem@plant+mrph.phon@LEN:^k→^y.][NRoot][=coca (QUZ: kuka; sci.nm.: erythroxylon.sp., erythroxylon.coca)]" : {koka}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kokaki+gndr@n.m.+sem@plant][NRoot][= (ES: chimicua, sp.de.árbol.frutal)]" : {kokaki}
@@ -3945,7 +3945,7 @@ define NRootPRQin [
 | "[=okitsoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitsoki}
 | "[=okitoki][NRoot][=seed (ES: semilla; PT: semente)]" : {okitoki}
 | "[=kitsoi][NRoot][=round.thing]" : {kitsoi}
-| "[=kitsoki+gndr@m.+inal@OPC:ntsi.+m.phon@LEN:^k→^Ø.][NRoot][=seed (ES: semilla; PT: semente)]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
+| "[=kitsoki+gndr@m.+inal@OPC:ntsi.+mrph.phon@LEN:^k→^Ø.][NRoot][=seed (ES: semilla; PT: semente)]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
 | "[=oitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {oitsoki} 
 | "[=iitsoki+inal@ntsi.][NRoot][=seed (ES: semilla; PT: semente)]" : {iitsoki}
 # ---------------------------------------------------------------------
@@ -4412,7 +4412,7 @@ define NRootPRQin [
 | "[=paNkire/pãkire+gndr@m.+inal@ntsi.][NRoot:CPB][=plant (ES: planta)]" : {pãkire}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=panko+gndr@n.m.+inal@tsi.+m.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
+| "[=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
 | "[=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 ! 
 | "[=pankoshi~{'house':panko}{CL:/'leaf':shi/}+gndr@n.m.+inal@ntsi.][NRoot][=hut, hovel, hunter's.blind (ES: choza.(para.cazar.aves.salvajes); PT: cabana)]" : {pankoshi} 
@@ -4420,7 +4420,7 @@ define NRootPRQin [
 ! 
 # obaante / ovaante / o- paante / 3n.m.poss- =mouth / EN: 'her.mouth'; ES: 'su.boca (de.ella)' 
 # osokijanteari awanteki tampeajenka 
-| "[=pante+gndr@n.m.+inal@ntsi.+sem@b.p.+m.phon@LEN:^p→^v.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
+| "[=pante+gndr@n.m.+inal@ntsi.+sem@b.p.+mrph.phon@LEN:^p→^v.][NRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
 | "[=paante+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {paante}
 | "[=panti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {panti}
 | "[=paanti+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=mouth (ES: boca)]" : {paanti}
@@ -4503,7 +4503,7 @@ define NRootPRQin [
 | "[=patiito][NRoot][=head.shape (ES: en.su.cabeza, forma.de.cabeza)]" : {patiito} ! @VCMP 
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pava+gndr@m.+poss@ni.+m.phon@LEN:^p→^v.][NRoot][=(solar|benevolent).deity;| god (ES: dios);| creator (PT: Deus.solar,, o.demiurgo.ashaninka);| dad, father]" : {pava} ! @section:noun@ 
+| "[=pava+gndr@m.+poss@ni.+mrph.phon@LEN:^p→^v.][NRoot][=(solar|benevolent).deity;| god (ES: dios);| creator (PT: Deus.solar,, o.demiurgo.ashaninka);| dad, father]" : {pava} ! @section:noun@ 
 # ---------------------------------------------------------------------------- 
 ! 
 | "[=pavaeni+~{N:/'father':pava/}{CL:/'distant.kin':eni/}+gndr@m.+kin@fem.ego][NRoot][=uncle (ES: tío.(de.mujer))]" : {pavaeni}
@@ -4775,7 +4775,7 @@ define NRootPRQin [
 | "[=pityoki][NRoot][=little.thing]" : {pityoki}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pito+gndr@n.m.+inal@tsi.+poss@ni.+m.phon@LEN:^p→^v.][NRoot][=canoe (ES: canoa)]" : {pito}
+| "[=pito+gndr@n.m.+inal@tsi.+poss@ni.+mrph.phon@LEN:^p→^v.][NRoot][=canoe (ES: canoa)]" : {pito}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pitoka+gndr@n.m.+sem@plant][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta, xanthosoma.sagittifolium.Schott.)]" : {pitoka}
