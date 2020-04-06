@@ -1,10 +1,15 @@
-# instrumental applicative 
-# derivational morpheme (VDeriv) 
+# Morphological category: characteristic 'CHAR'
+# Maorphological values:
+# 1: reason 'REAS'/'JUSTIF' is annotated as: +CHAR@REAS.   
 # indicate a justification (JUSTIF): 
 # infinitives of purpose (to explain why we do sth.) I went home to eat. / I made this video for you to learn.
 # * the reason that 
 # * for a reason 
 # * for some reason 
+ 
+# 2: instrumentality 'INST' is annotated as:  +CHAR@INST.   
+# instrumental applicative 
+# derivational morpheme (VDeriv) 
 # -ant .. =ri / EN: "that.with.which.sb.does.sth.; sb's.tool" 
 # obantari / ovantari / EN: 'that.with.which.sb.eats.sth.'; ES: 'recipiente' 
 # oantari / EN: 'that.with.which.sb.eats.sth.'; ES: 'receptáculo,recipiente' 
@@ -22,15 +27,13 @@
 # ipinayeetantari / i- =pina -yee -t -ant -a =ri / ES: 'recibo' 
 # itimantari Jesoshi / i- =tim -ant -a =ri =Jesoshi / ES: 'su.nacimiento.de.Jesús, navidad' 
 # inkiantyari / i- N= =ki -ant -ya =ri / ES: 'hueco.que.deja.entrar.el.agua.y.los.peces' 
-# itsivacantari oorya / itsivakantari oorya / i- =tsivak -ant -a =ri *** =oorya / ES: 'cuando.el.sol.se.oscurecio; lit.: su.apagón.del.sol' 
-define V=S=APPLREAS [
-# Morphological category: characteristic 'CHAR'
-# Maorphological values:
-# 1: reason 'REAS' is annotated as: +CHAR@REAS.    
-# 2: instrumentality 'INST' is annotated as:  +CHAR@INST.   
+# itsivacantari oorya / itsivakantari oorya / i- =tsivak -ant -a =ri *** =oorya / ES: 'eclipse/cuando.el.sol.se.oscurecio; lit.: su.apagón.del.sol' 
+
 # In case more than one is needed: +CHAR@REAS;INST.
-  "[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST]" : "@EP"[{ant}]
-| "[--][-anta][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST]" : "@EP"[{anta}]
+
+define V=S=APPLREAS [
+  "[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]" : "@EP"[{ant}]
+| "[--][-anta][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]" : "@EP"[{anta}]
 ];
                    
 define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
