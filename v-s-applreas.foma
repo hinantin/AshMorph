@@ -24,9 +24,12 @@
 # inkiantyari / i- N= =ki -ant -ya =ri / ES: 'hueco.que.deja.entrar.el.agua.y.los.peces' 
 # itsivacantari oorya / itsivakantari oorya / i- =tsivak -ant -a =ri *** =oorya / ES: 'cuando.el.sol.se.oscurecio; lit.: su.apagón.del.sol' 
 define V=S=APPLREAS [
-# Characteristic (CHAR) 
-  "[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]" : "@EP"[{ant}]
-| "[--][-anta][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]" : "@EP"[{anta}]
+# Morphological category: characteristic 'CHAR'
+# Maorphological values:
+# - reason 'REAS' is annotated as: +CHAR@INST.    
+# - instrumentality 'INST' is annotated as:  +CHAR@INST.   
+  "[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST]" : "@EP"[{ant}]
+| "[--][-anta][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST]" : "@EP"[{anta}]
 ];
                    
 define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
