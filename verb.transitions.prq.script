@@ -75,7 +75,7 @@ define S [
 |                                                    (V=S=CL) (CAUSSOC) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 # o-kant-a-pontso-t-ap-ak-a 
 |                                                    (V=S=CL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
-|                                                    (V=S=CL) (APPLINST) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                    (V=S=CL) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | S=NOUN                                                      (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | S=NOUN                                                      (RCP) (CAUSSOC) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) 
 |                                                    (V=S=CL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
@@ -122,7 +122,7 @@ define S [
 | (CAUSSOC) (DIR) (PRF) STATUS (PRNO) 
 | (CAUSSOC) (APPLINT) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (DUR) (FRUS) (PRF) STATUS (PRNO) 
-| (CAUSSOC) (APPLINST) (SEMEL) STATUS (PRNO) 
+| (CAUSSOC) (APPLREAS) (SEMEL) STATUS (PRNO) 
 | (PRF) STATUS (PRNO) 
 | (APPLINT) (PRF) STATUS (PRNO) 
 | (PL) (PRF) STATUS 
@@ -162,7 +162,7 @@ define S [
 # opomerentsitimotaquena 
 | (APPLPRES) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLSEP) (PROG) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (APPLINST) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (HAB) STATUS 
 | (RCP) (PRF) (PROG) STATUS 
 | (PRF) STATUS  
@@ -194,7 +194,7 @@ define S [
 | (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (DIR) (REGR) STATUS (PRNO) 
 #| (AUG)  # end-state? 
-| (APPLINST) STATUS (PRNO) 
+| (APPLREAS) STATUS (PRNO) 
 | (DIR) (PRF) (PL) STATUS (V=S=PLcircumfixing) 
 # antaroperotatzi 
 | (AUG) PROG=SET1 
@@ -245,7 +245,7 @@ define S [
 | (INCH) (ICPL) (DIR) (REGR) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (FRUS) (PRF) STATUS 
 | (IMPP) STATUS (PRNO) (V=S=Q) 
-| (IMPP) (APPLINST) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! i=shinko-t-ai-t-ant-a-ri-ri 
+| (IMPP) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! i=shinko-t-ai-t-ant-a-ri-ri 
 | (APPLREAS) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (PROG) STATUS 
 | (PRF) STATUS 
@@ -261,7 +261,7 @@ define S [
 | (DIR) (PRF) STATUS (ADV) 
 | (APPL) (ICPL) STATUS (V=S=REL) (V=S=Q) 
 | (DIR) (PRF) STATUS (PRNO) (V=S=OPT) 
-| (REP) (APPLINST) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (REP) (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (HAB) (DUR) STATUS 
 #| (V=S=REL) (V=S=Q) # nominalization  # end-state? revise!!! 
 | (PRF) STATUS (V=S=O) (V=S=REL) (V=S=Q) 
@@ -293,7 +293,7 @@ define S [
 | (DIR) (PROG) STATUS (PRNO) 
 | (DIST) (PRF) STATUS 
 | (APPLINT) (REGR) STATUS (PRNO) 
-| (APPLINST) (REGR) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLREAS) (REGR) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (DIR) (FRUS) STATUS (PRNO) 
 | STATUS 
 | (PL) STATUS (PRNO) 
@@ -411,7 +411,7 @@ define S [
 | (IMPP) (PRF) STATUS (PRNO) 
 | (APPLREAS) (DIR) (PRF) STATUS (V=S=REL) (V=S=Q) 
 | STATUS (V=S=REL) (V=S=Q) 
-| (APPLINST) STATUS (PRNO) 
+| (APPLREAS) STATUS (PRNO) 
 | (DIR) (REGR) STATUS (V=S=OPT) 
 | (APPLREAS) (REGR) STATUS (V=S=REL) (V=S=Q) 
 | (CAUSSOC) (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
@@ -448,7 +448,7 @@ define S [
 ! 
 | STATUS (ADV) 
 | (HAB) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (HAB) (APPLINST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (HAB) (APPLREAS) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLREAS) (DIR) (ICPL) STATUS (V=S=REL) (V=S=Q) 
 | (CAUSSOC) (PL) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (DIR) STATUS 
@@ -478,7 +478,7 @@ define S [
 | STATUS (V=S=O) 
 | (ICPL) STATUS (ADV) 
 | (REP) (ICPL) STATUS 
-| (APPLINST) STATUS (PRNO) 
+| (APPLREAS) STATUS (PRNO) 
 | (REGR) STATUS (V=S=REL) (V=S=Q) 
 | (APPL) (DIR) (PRF) STATUS 
 | (APPL) STATUS (PRNO) 
@@ -589,7 +589,7 @@ define S [
 | (REV) (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
 | (REP) (SENSORY) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL)  
-| (SENSORY) (APPLINST) STAT (V=S=REL)  
+| (SENSORY) (APPLREAS) STAT (V=S=REL)  
 # amatakonentanajana / EN: 'I.have.overcome.the.ailment'  
 | (SENSORY) (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL)  
 # okisaaneentatzi / ES: 'moreno' 
@@ -612,8 +612,8 @@ define S [
 | (HAB) (PRF) STATUS (V=S=O) (PRNO) (V=S=DUB)  
 
 | (RCP) (CAUSSOC) (REGR) STAT (V=S=REL) 
-| (APPL) (APPLINST) STAT (V=S=REL) 
-| (APPLINST) (DIST) STAT (V=S=REL) ! ovametantayetatsiri 
+| (APPL) (APPLREAS) STAT (V=S=REL) 
+| (APPLREAS) (DIST) STAT (V=S=REL) ! ovametantayetatsiri 
  
 | (RCP) (CAUSSOC) (REGR) (DUR) STATUS (V=S=RPST)  
 | (RCP) (CAUSSOC) (PL) (REGR) STATUS 
