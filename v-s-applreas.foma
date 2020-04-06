@@ -26,8 +26,9 @@
 define V=S=APPLREAS [
 # Morphological category: characteristic 'CHAR'
 # Maorphological values:
-# - reason 'REAS' is annotated as: +CHAR@INST.    
-# - instrumentality 'INST' is annotated as:  +CHAR@INST.   
+# 1: reason 'REAS' is annotated as: +CHAR@REAS.    
+# 2: instrumentality 'INST' is annotated as:  +CHAR@INST.   
+# In case more than one is needed: +CHAR@REAS;INST.
   "[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST]" : "@EP"[{ant}]
 | "[--][-anta][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST]" : "@EP"[{anta}]
 ];
