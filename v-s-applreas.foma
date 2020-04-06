@@ -33,6 +33,7 @@ define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
                    
 # ****************************************
                    
+# deprecated 
 # derivational morpheme (VDeriv) 
 # instrumental applicative 
 define V=S=APPLINST [
