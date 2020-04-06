@@ -29,7 +29,7 @@
 # inkiantyari / i- N= =ki -ant -ya =ri / ES: 'hueco.que.deja.entrar.el.agua.y.los.peces' 
 # itsivacantari oorya / itsivakantari oorya / i- =tsivak -ant -a =ri *** =oorya / ES: 'eclipse/cuando.el.sol.se.oscurecio; lit.: su.apagón.del.sol' 
 
-# In case more than one is needed: +CHAR@REAS;INST.
+# 3: In case more than one is needed: -ant+CHAR@REAS;INST.
 
 define V=S=APPLREAS [
   "[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]" : "@EP"[{ant}]
