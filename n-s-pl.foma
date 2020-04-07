@@ -1,23 +1,23 @@
 # Morphological category: characteristic 'CHAR'
 # Morphological values:
 # 1: PL
-# tsitenirikipaye =tsiteniri -ki -paye / =night -loc -dist / ES: 'durante.la.noche', EN: 'during.the.night' ! dist or pl???
+#    tsitenirikipaye =tsiteniri -ki -paye / =night -loc -dist / ES: 'durante.la.noche', EN: 'during.the.night' ! dist or pl???
 # 2: DIST
-# kitaiteripee / =kitaiteri -pee / =day -dist / = ES: 'semana, todos.los.días', EN: 'week, everyday' 
-# vatsatsipaye / =vatsa -tsi -paye / =meat -nposs -dist / ES: 'todo.tipo.de.carne', EN: 'all.kinds.of.meat' 
-# kitaiterikipaye / =kitaiteri -ki -paye / =day -loc -pl_dist / ES: '(durante).todos.los.días', EN: 'everyday, during.(all).days; over.the.many.days; over.days'
-# kashirikipaye =kashiri -ki -paye / =month -loc -pl / ES: 'durante.meses', EN: 'over.months'
-# shimaanakipaye =shimaana -ki -paye / =week -loc -pl / ES: 'durante.semanas', EN: 'over.weeks'
+#    kitaiteripee / =kitaiteri -pee / =day -dist / = ES: 'semana, todos.los.días', EN: 'week, everyday' 
+#    vatsatsipaye / =vatsa -tsi -paye / =meat -nposs -dist / ES: 'todo.tipo.de.carne', EN: 'all.kinds.of.meat' 
+#    kitaiterikipaye / =kitaiteri -ki -paye / =day -loc -pl_dist / ES: '(durante).todos.los.días', EN: 'everyday, during.(all).days; over.the.many.days; over.days'
+#    kashirikipaye =kashiri -ki -paye / =month -loc -pl / ES: 'durante.meses', EN: 'over.months'
+#    shimaanakipaye =shimaana -ki -paye / =week -loc -pl / ES: 'durante.semanas', EN: 'over.weeks'
 
 define N=S=PL [
   "[--][-paye][Num][+PL][=PL; DIST]" : {paye} 
-| "[--][-payi][Num][+PL]" : {payi} 
-| "[--][-payeni][Num][+PL]" : {payeni} 
-| "[--][-payeeni][Num][+PL]" : {payeeni} 
-| "[--][-payiini][Num][+PL]" : {payiini} 
-| "[--][-paene][Num][+PL]" : {paene} 
-| "[--][-paeni][Num][+PL]" : {paeni} 
-| "[--][-paini][Num][+PL]" : {paini} 
-| "[--][-pe][Num][+PL]" : {pe} 
+| "[--][-payi][Num][+PL][=PL; DIST]" : {payi} 
+| "[--][-payeni][Num][+PL][=PL; DIST]" : {payeni} 
+| "[--][-payeeni][Num][+PL][=PL; DIST]" : {payeeni} 
+| "[--][-payiini][Num][+PL][=PL; DIST]" : {payiini} 
+| "[--][-paene][Num][+PL][=PL; DIST]" : {paene} 
+| "[--][-paeni][Num][+PL][=PL; DIST]" : {paeni} 
+| "[--][-paini][Num][+PL][=PL; DIST]" : {paini} 
+| "[--][-pe][Num][+PL][=PL; DIST]" : {pe} 
 | "[--][-pee][Num][+PL][=PL; DIST]" : {pee} 
 ];
