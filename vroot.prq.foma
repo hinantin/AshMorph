@@ -297,7 +297,7 @@ define VRootPRQin [
 ! 
 | "[=anii+INF@/EP:t/aantsi.][VRoot][=to.go; to.walk (ES: caminar, andar); to.go.down]" : {anii}
 | "[=ani+INF@/EP:t/aantsi.][VRoot][=to.go; to.walk (ES: caminar); to.go.down]" : {ani}
-| "[=anii+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.walk (ES: caminar, andar)]::[=to.walk.for_a_long_time]" : {aniianii}
+| "[=anii+~{V:/'to.walk':anii/}{V:/'to.walk':anii/}+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.walk (ES: caminar, andar)]::[=to.walk.for_a_long_time]" : {aniianii}
 # --------------------------------------------------------------------------------  
 ! 
 | "[=aniri+~{V:/'to.walk':ani/}{REV:ri}+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniri}
