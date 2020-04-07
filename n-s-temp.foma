@@ -8,7 +8,6 @@
 # (5*) +rcg.: recognitional, discourse-new-but-hearer-old object  
 # (6*) +nmz.: nominalizer 
 
-define N=S=ADVP [
 # savadoranki / =savado -ranki+tp.prec. / =Saturday -ADV / EN: 'last.Saturday', ES: 'el.último.sábado' 
 # tsiteniranki / =tsiteni -ranki+tp.prec. / =night -ADV / EN: 'last.night', ES: 'anoche' 
 # sheeteniranki / =sheeteni -ranki+tp.prec. / =day -ADV / EN: 'yesterday; time.prior.to.today' 
@@ -21,5 +20,7 @@ define N=S=ADVP [
 # 
 # pankotsiranki / =panko -tsi -ranki+chg.st. / =house -nposs -ADV / EN: 'abandoned.house'  
 # - the house deserted after an adult person died in it and was buried inside in a shallow grave. (now corpses are buried in a nearby cemetery) 
+
+define N=S=ADVP [
   "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}] 
 ];
