@@ -5,6 +5,7 @@
 # 2: indirective applicative (INDR.APPL): +CHAR@INDR.
 #    action of the verb affects the applied object in an indirect manner
 #    derivational morpheme (VDeriv) 
+
 define V=S=APPL [
   "[--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]" : "@EP"[{ako}]
 ];
