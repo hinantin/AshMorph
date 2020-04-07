@@ -20,7 +20,21 @@
 # 
 # pankotsiranki / =panko -tsi -ranki+chg.st. / =house -nposs -ADV / EN: 'abandoned.house'  
 # - the house deserted after an adult person died in it and was buried inside in a shallow grave. (now corpses are buried in a nearby cemetery) 
+# ADVP
 
-define N=S=ADVP [
+define N=S=TEMP [
   "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}] 
 ];
+                     
+# ****************************************
+                   
+# RCG: recognitional 
+define N=S=RCG [
+  "[--][=ranki][+RCG][=discourse-new-but-hearer-old.object]" : [{ranki}]
+];
+                   
+# ****************************************
+                   
+!      define N=S=ADVT [
+!       "[--][+ADV.T]" : [{ranki}]
+!      ];

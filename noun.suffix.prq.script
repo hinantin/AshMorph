@@ -82,19 +82,6 @@ define N=S=EXCL [
 # ****************************************
                      
 source n-s-temp.foma 
-                     
-# ****************************************
-                   
-# RCG: recognitional 
-define N=S=RCG [
-  "[--][=ranki][+RCG][=discourse-new-but-hearer-old.object]" : [{ranki}]
-];
-                   
-# ****************************************
-                   
-!      define N=S=ADVT [
-!       "[--][+ADV.T]" : [{ranki}]
-!      ];
                    
 # ****************************************
                    
