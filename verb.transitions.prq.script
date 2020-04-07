@@ -49,7 +49,7 @@ define S [
 | STATUS (V=S=REL) (V=S=Q) 
 | STAT (V=S=REL) (V=S=Q) # end-state? 
 | (PRF) STATUS 
-| (APPL) STATUS (PRNO) 
+| (APPLGEN) STATUS (PRNO) 
 # -----------------------------------------------------------------------------
 # NOUN INCORPORATION AND VERBAL CLASSIFIERS 
 # -----------------------------------------------------------------------------
@@ -151,10 +151,10 @@ define S [
 | STATUS (V=S=EMPH) (V=S=Q)  
 #| (V=S=MCAUS) STATUS (PRNO) 
 | (PRF) STATUS (PRNO) 
-| (APPL) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLGEN) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 
 # ramenakoventantyaavori 
-| (APPL) (APPLBEN) (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLGEN) (APPLBEN) (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 
 | (DIR) (PRF) STATUS (PRNO) 
 | (DUR) (CAUSSOC) (PRF) STATUS (PRNO) 
@@ -183,13 +183,13 @@ define S [
 #| (V=S=DUB)  # end-state? REVISE!!! 
 | (ANT1) STATUS 
 | STATUS (V=S=REL) (V=S=Q) 
-| (APPL) (PROG) STATUS (V=S=O) (PRNO) 
+| (APPLGEN) (PROG) STATUS (V=S=O) (PRNO) 
 | STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (PRF) STATUS (V=S=O) (PRNO) 
 | STATUS (ADV) 
 | STAT (V=S=Q) # end-state? 
 | (CAUSSOC) (FRUS) (IMPP) STATUS (PRNO) (ADV) 
-| (APPL) (PRF) STATUS (PRNO) 
+| (APPLGEN) (PRF) STATUS (PRNO) 
 | (APPLREAS) (PRF) STATUS (PRNO) 
 | (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (DIR) (REGR) STATUS (PRNO) 
@@ -200,7 +200,7 @@ define S [
 | (AUG) PROG=SET1 
 | (AUG) PROG=SET1 
 | (SEMEL) STATUS (PRNO) 
-| (REV) (APPL) (PRF) STATUS 
+| (REV) (APPLGEN) (PRF) STATUS 
 #| (ADV)  # end-state? 
 | (APPLINT) (PL) (DIR) (REGR) STATUS 
 | (DIR) (PRF) STATUS (V=S=REL) (V=S=Q) 
@@ -217,7 +217,7 @@ define S [
 | (APPLREAS) STATUS (V=S=REL) (V=S=Q) 
 | (RCP) (PRF) (APPLREAS) (HAB) STATUS (V=S=REL) (V=S=Q) 
 | (IMPP) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (APPL) STATUS (V=S=REL) (V=S=Q) 
+| (APPLGEN) STATUS (V=S=REL) (V=S=Q) 
 | STAT (V=S=REL) (V=S=Q) # end-state? 
 | (PROG) STATUS 
 | STATUS (V=S=CNTF) 
@@ -259,7 +259,7 @@ define S [
 | (REP) (DIST) (REGR) STATUS (PRNO) 
 | (ICPL) STATUS (V=S=REL) (V=S=Q) 
 | (DIR) (PRF) STATUS (ADV) 
-| (APPL) (ICPL) STATUS (V=S=REL) (V=S=Q) 
+| (APPLGEN) (ICPL) STATUS (V=S=REL) (V=S=Q) 
 | (DIR) (PRF) STATUS (PRNO) (V=S=OPT) 
 | (REP) (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (HAB) (DUR) STATUS 
@@ -271,7 +271,7 @@ define S [
 #| (CAUSSOC) (REGR) (PRNO) (V=S=REL) (V=S=Q) # end-state? revise!!!
 | (CAUSSOC) STATUS (V=S=O) (V=S=REL) (V=S=Q) 
 | (APPLBEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (APPL) STATUS (PRNO) 
+| (APPLGEN) STATUS (PRNO) 
 | STAT (V=S=REL) (ADV)  # end-state? 
 
 | (PL) (PROG) STATUS (PRNO) 
@@ -279,14 +279,14 @@ define S [
 
 | (SENSORY) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (DUR) (REP) (DIST) STAT (V=S=REL) (V=S=Q)  # end-state? 
-#| (CAUSSOC) (APPL) (REGR) (PRNO) (V=S=REL) (V=S=Q)  # end-state? revise!!!
+#| (CAUSSOC) (APPLGEN) (REGR) (PRNO) (V=S=REL) (V=S=Q)  # end-state? revise!!!
 ! a-n-kaa-ki-tz-imaint-ia-ro
 | (DUR) STATUS (PRNO) 
 | (APPLREAS) (DUR) STATUS (PRNO) 
 | (PRF) STATUS (V=S=REL) (V=S=Q) 
 | (PRF) (REGR) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | STATUS (V=S=O) 
-| (APPL) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLGEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 #| (DIR) (REGR) (PRNO) (V=S=REL) (V=S=Q)  # end-state? revise!!! 
 | (IMPP) (DIR) (PRF) STATUS (PRNO) 
 | (FRUS) (PRF) STATUS (PRNO) 
@@ -303,7 +303,7 @@ define S [
 | (APPLREAS) (HAB) STATUS (V=S=REL) (V=S=Q) 
 #| (APPLREAS) (HAB) STATUS (V=S=REL) (V=S=PLcircumfixing) ! ??? to be revised
 | (PRF) (REGR) STATUS (PRNO) 
-| (APPL) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLGEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (AUG) STATUS (PRNO) 
 | STATUS (V=S=EMPH) 
 | (REP) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
@@ -314,7 +314,7 @@ define S [
 | (AUG) STATUS 
 | (FRUS) STATUS (AUG=SET2) 
 #| STAT (PRNO)  # end-state?  revise!!!
-| (APPL) (PRF) STATUS (PRNO) 
+| (APPLGEN) (PRF) STATUS (PRNO) 
 | (REGR) (APPLREAS) STATUS 
 | (FRUS) STATUS (V=S=OPT) 
 | (APPLSEP) (PRF) STATUS (V=S=O) (PRNO) (V=S=CNTF) ! y=a-apitsa-t-ak-i-ni-ri 'he took her away from him' 
@@ -323,9 +323,9 @@ define S [
 | (APPLSEP) (APPLREAS) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)
 
 | (DIR) (REGR) STATUS (V=S=CNTF) 
-| (APPL) (REP) (PL) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLGEN) (REP) (PL) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (REP) (HAB) STAT (V=S=REL) ! sokij-aa-t-apini-t-atsi-ri
-| (APPL) (APPLREAS) STAT (V=S=REL) ! amen-ako-t-ant-atsi-ri
+| (APPLGEN) (APPLREAS) STAT (V=S=REL) ! amen-ako-t-ant-atsi-ri
 | (FRUS) STAT (V=S=REL) ! saikavitaincha / saik-a-vi-t-aincha 
 | (DIR) (PRF) STATUS (V=S=COND) 
 | (DIR) (PRF) STATUS 
@@ -334,11 +334,11 @@ define S [
 | (DIR) (REGR) STATUS (PRNO) 
 | (SENSORY) (PROG) STATUS 
 | (IMPP) (PROG) STATUS (PRNO) 
-| (APPL) STATUS (PRNO) 
+| (APPLGEN) STATUS (PRNO) 
 | (PRF) STATUS (V=S=O) 
 | (APPLINT) STATUS 
 | (REGR) (APPLREAS) STATUS (PRNO) (V=S=OPT)
-| (APPL) STATUS (PRNO) (V=S=OPT) 
+| (APPLGEN) STATUS (PRNO) (V=S=OPT) 
 | STATUS (PRF) (PRNO) 
 | (APPLREAS) STATUS (V=S=REL) (V=S=Q) 
 | (APPLREAS) (SEMEL) STATUS 
@@ -355,7 +355,7 @@ define S [
 | (DUR) (DIR) (REGR) STATUS 
 | (APPLREAS) (DIR) (PRF) STATUS 
 | (CAUSSOC) (INCH) STATUS (PRNO) 
-| (CAUSSOC) (APPL) (REGR) STATUS (PRNO) 
+| (CAUSSOC) (APPLGEN) (REGR) STATUS (PRNO) 
 | (CAUSSOC) (PRF) STATUS (PRNO) 
 | (FRUS) (REGR) STATUS (PRNO) 
 | (AUG) (AUG=SET2) STATUS # REVISE!!! 
@@ -365,7 +365,7 @@ define S [
 | (PRF) STATUS (ADV) 
 | (DUR) (APPLINT) STATUS (PRNO) 
 | STATUS (V=S=O) (PRNO) 
-| (APPL) (PRF) STATUS 
+| (APPLGEN) (PRF) STATUS 
 | (REP) (PROG) STATUS (PRNO) 
 | (APPLREAS) (REGR) STATUS 
 | (APPLREAS) (REGR) STATUS 
@@ -389,8 +389,8 @@ define S [
 | (APPLPRES) STATUS (V=S=O) (PRNO) (V=S=OPT) 
 | (APPLINT) (DIR) (PRF) STATUS (PRNO) 
 | (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (APPL) (DIR) (PRF) STATUS (PRNO) 
-| (APPL) (DIR) (PRF) STATUS (PRNO) 
+| (APPLGEN) (DIR) (PRF) STATUS (PRNO) 
+| (APPLGEN) (DIR) (PRF) STATUS (PRNO) 
 | (DIR) (PRF) STATUS (PRNO) 
 #| (PRNO)  # end-state? revise!!!
 | (REGR) STATUS (V=S=COND) 
@@ -398,7 +398,7 @@ define S [
 # pintziriitzimaityaro / pi- n- =tziri -itz -imai -t -ya -ro / 2a- irr- =to.rub -icpl -inch -irr -3n.m.o / EN: 'you.rub.it' 
 | (ICPL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 # ---------------------------------------------------------
-| (APPL) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLGEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLREAS) STATUS 
 | (REGR) STATUS (V=S=CNTF) 
 | (IMPP) STATUS (PRNO) (V=S=CNTF) 
@@ -421,7 +421,7 @@ define S [
 | STATUS (EMPH) 
 !  
 | (APPLINT) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (APPL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLGEN) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 !  
 | (APPLINT) STATUS (PRNO) 
 | (SEMEL) STATUS (PRNO) 
@@ -433,7 +433,7 @@ define S [
 | (REP) STATUS (PRNO) 
 | (RCP) (PRF) (APPLREAS) (HAB) STATUS (V=S=REL) (V=S=Q) 
 | STATUS (V=S=APPR) 
-| (APPL) STATUS (PRNO) (V=S=APPR) 
+| (APPLGEN) STATUS (PRNO) (V=S=APPR) 
 | (REGR) STATUS (V=S=APPR) 
 | STATUS (V=S=APPR) 
 | (DIR) (PRF) STATUS (V=S=O) (PRNO) 
@@ -474,14 +474,14 @@ define S [
 | (REGR) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (ICPL) (ANT1) (DIR) (PRF) STATUS (PRNO) 
 | STATUS (PRNO) (ADV) 
-| (APPL) (REGR) STATUS (PRNO) 
+| (APPLGEN) (REGR) STATUS (PRNO) 
 | STATUS (V=S=O) 
 | (ICPL) STATUS (ADV) 
 | (REP) (ICPL) STATUS 
 | (APPLREAS) STATUS (PRNO) 
 | (REGR) STATUS (V=S=REL) (V=S=Q) 
-| (APPL) (DIR) (PRF) STATUS 
-| (APPL) STATUS (PRNO) 
+| (APPLGEN) (DIR) (PRF) STATUS 
+| (APPLGEN) STATUS (PRNO) 
 | (CAUSSOC) STATUS (PRNO) 
 | (CAUSSOC) (APPLREAS) (ICPL) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! ikantakaantaitane / i=kant-aka-ant-a-it-a-ne ???
 | (IMPP) STATUS (V=S=O) (PRNO) 
@@ -489,10 +489,10 @@ define S [
 | (RCP) (PRF) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (RCP) (CAUSSOC) (APPLREAS) (HAB) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (REGR) (ICPL) STATUS (V=S=EMPH) (V=S=CNTF) 
-| (APPL) (DIR) STATUS 
+| (APPLGEN) (DIR) STATUS 
 | (PRF) STATUS (V=S=COND) 
-| (APPL) (DIR) STATUS (V=S=REL) (V=S=COND) 
-| (APPL) (DIR) (REGR) STATUS (PRNO) 
+| (APPLGEN) (DIR) STATUS (V=S=REL) (V=S=COND) 
+| (APPLGEN) (DIR) (REGR) STATUS (PRNO) 
 | (REGR) (ICPL) STATUS (PRNO) 
 | (SEMEL) STATUS 
 | STATUS (V=S=O) (V=S=REL) (V=S=Q) 
@@ -539,9 +539,9 @@ define S [
 | (PRF) STATUS (V=S=O) (PRNO) 
 | (IMPP) STATUS 
 | (DIST) STATUS (PRNO) 
-| (APPL) STATUS 
-| (APPL) STATUS 
-| (APPL) (DIST) (DIR) (PL) (REGR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! to be revised 
+| (APPLGEN) STATUS 
+| (APPLGEN) STATUS 
+| (APPLGEN) (DIST) (DIR) (PL) (REGR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! to be revised 
 | (PRF) STATUS (V=S=O) (V=S=COND) 
 | (APPLREAS) (DIR) (REGR) STATUS (V=S=REL) (V=S=Q) 
 | (DUR) (APPLINT) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
@@ -549,7 +549,7 @@ define S [
 # ICPL 
 | (REGR) (ICPL) (PRF) STATUS (V=S=O) (PRNO) (V=S=EMPH) (V=S=CNTF) 
 | (REP) (ICPL) (PRF) STATUS (V=S=O) (PRNO) (ADV) 
-| (REV) (APPL) (ICPL) (REGR) STATUS (V=S=O) (PRNO) 
+| (REV) (APPLGEN) (ICPL) (REGR) STATUS (V=S=O) (PRNO) 
 | (ICPL) (PRF) STATUS (V=S=O) (PRNO) (V=S=OPT) ! a-m-pishe-i-t-e-ri=ta 
 ! 
 | (DIR) (CAUSSOC) (DIR) (PRF) STATUS 
@@ -575,7 +575,7 @@ define S [
 | (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
 # cameetsatasanotatsiri 
 | (DEXT) STAT (V=S=REL) (V=S=Q)  # end-state?  revise!!!
-#| (DEXT) (APPL) (PRNO) (V=S=REL) (V=S=Q)  # end-state?  revise!!!
+#| (DEXT) (APPLGEN) (PRNO) (V=S=REL) (V=S=Q)  # end-state?  revise!!!
 # n-antsik-a-sano-ite-t-e-ri
 | (DEXT) (CMPL) STATUS (V=S=O) (PRNO) (V=S=REL)
 
@@ -583,8 +583,8 @@ define S [
 | (REV) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (POSN) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 #| (REV) (STAT) (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  # end-state?  revise!!!
-| (REV) (APPL) (APPLBEN) (PL) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| (REV) (APPL) (APPLBEN) (DEXT) (FRUS) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (REV) (APPLGEN) (APPLBEN) (PL) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (REV) (APPLGEN) (APPLBEN) (DEXT) (FRUS) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLREF) (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (REV) (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
@@ -612,7 +612,7 @@ define S [
 | (HAB) (PRF) STATUS (V=S=O) (PRNO) (V=S=DUB)  
 
 | (RCP) (CAUSSOC) (REGR) STAT (V=S=REL) 
-| (APPL) (APPLREAS) STAT (V=S=REL) 
+| (APPLGEN) (APPLREAS) STAT (V=S=REL) 
 | (APPLREAS) (DIST) STAT (V=S=REL) ! ovametantayetatsiri 
  
 | (RCP) (CAUSSOC) (REGR) (DUR) STATUS (V=S=RPST)  
@@ -643,7 +643,7 @@ define S [
 | (IMPP) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 
 # impaikakotaitajiri / i-m-paik-ako-t-ai-t-aj-i-ri 
-| (APPL) (IMPP) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+| (APPLGEN) (IMPP) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
 
 # ompoh-ak-i-na-vi 
 | (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
