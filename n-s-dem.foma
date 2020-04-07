@@ -1,6 +1,9 @@
-! DEM.NOM: Nominal demonstrative
+# --------------------------------
+# NOMINAL DEMONSTRATIVE  
+# --------------------------------
+# DEM.NOM
 define N=S=DEM [
-  "[--][=ka+proximal.b.][Adv][+DEM][=here, close.to.the.speaker]" : {ka} ! this
-| "[--][=ra+medial.b.][Adv][+DEM][=not.here, there, not.in.the.speaker's.interactional.space]" : {ra} 
-| "[--][=nta+distal.b.][Adv][+DEM][=there, far.from.the.speaker (bounded)]" : {nta} 
+  "[--][=ka+mrph.cath@proximal.b.][Adv][+DEM.NOM][=DEM (EN: here, close.to.the.speaker)]" : {ka} ! this
+| "[--][=ra+mrph.cath@medial.b.][Adv][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]" : {ra} 
+| "[--][=nta+mrph.cath@distal.b.][Adv][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]" : {nta} 
 ];
