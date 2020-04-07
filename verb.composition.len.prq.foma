@@ -38,8 +38,8 @@ define V=S=LEN=noun [
 | "[--][=moro+gndr@n.m.+inal@n/tsi.][IncNRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
 | "[--][=nehi+inal@tsi.+sem@b.p.][IncNRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
 | "[--][=pane+poss@tsi.][IncNRoot][=dust (ES: polvo); sand (ES: arena)]" : {pane} ! @VCMP 
-| "[--][=panko+gndr@n.m.+inal@tsi.][IncNRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
-| "[--][=pante+gndr@n.m.+inal@ntsi.+sem@b.p.][IncNRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
+| "[--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][IncNRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
+| "[--][=pante+gndr@n.m.+inal@ntsi.+sem@b.p.+mrph.phon@LEN:^p→^v.][IncNRoot][=mouth (ES: boca)]" : {pante} ! @VCMP 
 | "[--][=patziito][IncNRoot][=head.shape (ES: en.su.cabeza, forma.de.cabeza)]" : {patziito} ! @VCMP 
 | "[--][=patiito][IncNRoot][=head.shape (ES: en.su.cabeza, forma.de.cabeza)]" : {patiito} ! @VCMP 
 | "[--][=pori+gndr@n.m.+inal@tsi.][IncNRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
