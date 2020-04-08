@@ -1,5 +1,5 @@
 # ---------------------------------------
-#           ranki
+# NOMINAL TEMPORAL
 # ---------------------------------------
 # (1) +tp.prec.: temporal.precedence (in.a.past.context) --> +precedence
 # (2) +chg.st.: change.of.state (in.a.past.context) --> +state.chg.
@@ -20,7 +20,8 @@
 # 
 # pankotsiranki / =panko -tsi -ranki+chg.st. / =house -nposs -ADV / EN: 'abandoned.house'  
 # - the house deserted after an adult person died in it and was buried inside in a shallow grave. (now corpses are buried in a nearby cemetery) 
-# ADVP
+# ADV.P adverbial past
+# adv.t. * adverbio de tiempo o duración: adverb of time or duration:
 
 define N=S=TEMP [
   "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}] 
