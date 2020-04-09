@@ -24,7 +24,7 @@
 # adv.t. * adverbio de tiempo o duración: adverb of time or duration:
 
 define N=S=TEMP [
-  "[--][-ranki+fused.t.][Adv][+ADV.P_T]" : [{ranki}] 
+  "[--][-ranki+fused.t.][Adv][+TEMP]" : [{ranki}] 
 ];
                      
 # ****************************************
