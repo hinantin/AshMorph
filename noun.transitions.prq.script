@@ -91,7 +91,6 @@ define N [
 | (N=S=CL) (N=S=CL) (N=S=poss) (N=S=LOC) (N=S=DEM) (N=S=EMPH) 
 | (N=S=AUG) (N=S=NMZ) 
 | (N=S=AUG) (N=S=TEMPORALEXIST) 
-# | (N=S=PROG) (N=S=REAL) # to.be.revised 
 | (N=S=TEMP) 
 | (N=S=DIM) (N=S=DEM) 
 | (N=S=poss) (N=S=PL) (N=S=DEM) 

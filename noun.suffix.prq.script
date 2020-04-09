@@ -118,13 +118,7 @@ define N=S=TEMPORALR [
                    
 # ****************************************
                    
-define N=S=leaf [
-  "[--][+leaf]" : {tsipana}
-];
-                   
-# ****************************************
-                   
-# to assert: to state clearly and firmly that something is true
+# to assert: to state clearly and firmly that sth. is true
 define N=S=EMPH [
   "[--][-kia][+EMPH_ASSERT]" : [{kia}] 
 | "[--][-kya][+EMPH_ASSERT]" : [{kya}] 
@@ -168,24 +162,6 @@ define N=S=NMZ [
 | "[--][-ri+gndr@m.][NS][+NMZ]" : [{ri}]
 | "[--][-ro+gndr@n.m.][NS][+NMZ]" : [{ro}]
 | "[--][-vo+gndr@n.m.][NS][+NMZ]" : [{vo}]
-];
-                   
-# ****************************************
-                   
-define N=S=PROG [
-  "[--][-atz][+PROG]" : [{atz}]
-];
-                   
-# ****************************************
-                   
-define N=S=REAL [
-  "[--][-i][+REAL]" : [{i}]
-];
-                   
-# ****************************************
-                   
-define N=S=IRR [
-  "[--][-ya][+IRR]" : [{ya}]
 ];
                    
 # ****************************************
