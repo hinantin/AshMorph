@@ -32,7 +32,7 @@
 # fused = joined together to form a single thing.  
 
 define N=S=TEMP [
-  "[--][-ranki][Adv][+TEMP][=TP.PREC; CHG.ST; ABSNT; RCG]" : [{ranki}] 
+  "[--][-ranki][Adv][+TEMP][=TP.PREC; CHG.ST; ABSNT; RCG.DEM; RCG.REL]" : [{ranki}] 
 ];
                      
 # ****************************************
