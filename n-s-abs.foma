@@ -1,12 +1,12 @@
 define N=S=ABS [
-  "[--][-tsi+alien.+syl@mono;di.][Gen][+nposs]" : "@NPOSS"[{tsi}] 
-| "[--][-tzi+alien.+syl@mono;di.][Gen][+nposs]" : "@NPOSS"[{tzi}] 
+  "[--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]" : "@NPOSS"[{tsi}] 
+| "[--][-tzi+poss@alien.+syl@mono;di.][Gen][+nposs]" : "@NPOSS"[{tzi}] 
 ! 
-| "[--][-ntsi+alien.+syl@>poly.][Gen][+nposs]" : "@NPOSS"[{ntsi}] 
-| "[--][-ntzi+alien.+syl@>poly.][Gen][+nposs]" : "@NPOSS"[{ntzi}] 
-| "[--][-nti+alien.+syl@>poly.][Gen][+nposs]" : "@NPOSS"[{nti}] 
+| "[--][-ntsi+poss@alien.+syl@>poly.][Gen][+nposs]" : "@NPOSS"[{ntsi}] 
+| "[--][-ntzi+poss@alien.+syl@>poly.][Gen][+nposs]" : "@NPOSS"[{ntzi}] 
+| "[--][-nti+poss@alien.+syl@>poly.][Gen][+nposs]" : "@NPOSS"[{nti}] 
 ! 
-| "[--][<*-nchi+alien.+syl@>poly.][Gen][+nposs]" : "@NPOSS"[{nchi}] 
+| "[--][<*-nchi+poss@alien.+syl@>poly.][Gen][+nposs]" : "@NPOSS"[{nchi}] 
 ];
 
 #  "[--][-rentsi][Gen][+nposs]" : "@NPOSS"[{rentsi}] 
