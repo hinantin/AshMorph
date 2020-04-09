@@ -1,0 +1,5 @@
+define N=S=DUB [
+  "[--][-ma][+DUB]" : [{ma}] 
+| "[--][-mpa][+DUB]" : [{mpa}] 
+| "[--][-taima][+DUB]" : [{taima}] 
+];
