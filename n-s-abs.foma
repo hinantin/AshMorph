@@ -1,9 +1,4 @@
 define N=S=ABS [
-#  "[--][-rentsi][Gen][+nposs]" : "@NPOSS"[{rentsi}] 
-#| "[--][-rintsi][Gen][+nposs]" : "@NPOSS"[{rintsi}] 
-#| "[--][-rontsi][Gen][+nposs]" : "@NPOSS"[{rontsi}] 
-#| "[--][-vontsi][Gen][+nposs]" : "@NPOSS"[{vontsi}] 
-! 
   "[--][-tsi+alien.+mono/di.syl.][Gen][+nposs]" : "@NPOSS"[{tsi}] 
 | "[--][-tzi+alien.+mono/di.syl.][Gen][+nposs]" : "@NPOSS"[{tzi}] 
 ! 
@@ -13,3 +8,9 @@ define N=S=ABS [
 ! 
 | "[--][<*-nchi+alien.+>polysyl.][Gen][+nposs]" : "@NPOSS"[{nchi}] 
 ];
+
+#  "[--][-rentsi][Gen][+nposs]" : "@NPOSS"[{rentsi}] 
+#| "[--][-rintsi][Gen][+nposs]" : "@NPOSS"[{rintsi}] 
+#| "[--][-rontsi][Gen][+nposs]" : "@NPOSS"[{rontsi}] 
+#| "[--][-vontsi][Gen][+nposs]" : "@NPOSS"[{vontsi}] 
+! 
