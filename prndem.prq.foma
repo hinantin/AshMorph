@@ -18,11 +18,11 @@
 define PrnDemPRQin [
 ! Demonstrative adverbs 
 ! haa
-  "[=haa][PrnDem][=DEM.ADV.: (ES: ahí)]" : {haa} ! \cite[pag. 24]{minsa:salud:12}
+  "[=haa][PrnDem][=DEM.ADV. (ES: ahí)]" : {haa} ! \cite[pag. 24]{minsa:salud:12}
 ! 
 ! aka ~ haka 
-| "[=aka+loc@proximal.b.][PrnDem][=DEM.ADV.: here, close.to.the.speaker]" : {aka}
-| "[=haka+loc@proximal.b.][PrnDem][=DEM.ADV.: here, close.to.the.speaker (ES: aquí)]" : {haka}
+| "[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]" : {aka}
+| "[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]" : {haka}
 ! 
 ! ara ~ hara 
 | "[=ara+loc@medial.b.][PrnDem][=DEM.ADV.: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {ara}
