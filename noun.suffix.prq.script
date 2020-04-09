@@ -118,16 +118,7 @@ define N=S=TEMPORALR [
                    
 # ****************************************
                    
-# to assert: to state clearly and firmly that sth. is true
-define N=S=EMPH [
-  "[--][-kia][+EMPH_ASSERT]" : [{kia}] 
-| "[--][-kya][+EMPH_ASSERT]" : [{kya}] 
-| "[--][-kea][+EMPH_ASSERT]" : [{kea}] 
-| "[--][-ka][+EMPH_ASSERT]" : [{ka}] 
-| "[--][-ha][+EMPH_ASSERT]" : [{ha}] 
-! 
-| "[--][-tya][+EMPH]" : [{tya}]
-];
+source n-s.emph.foma 
                    
 # ****************************************
                    
