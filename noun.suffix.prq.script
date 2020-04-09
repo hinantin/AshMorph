@@ -158,13 +158,9 @@ define N=S=Q [
 source n-s-dub.foma 
                     
 # ****************************************
-                   
-define N=S=CNTR [
-  "[--][-ha][+CNTR]" : [{ha}]
-# irokamaha / =iroka -maha / =this -cntr / EN: 'instead.this', ES: 'en.cambio.esto'  
-| "[--][-maha][+CNTR][=instead; in.contrast]" : [{maha}]
-];
-                   
+                     
+source n-s-cntr.foma 
+                     
 # ****************************************
                    
 !define N=S=wide [
