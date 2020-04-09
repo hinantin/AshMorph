@@ -1,24 +1,6 @@
-! alienable possession?
-define N=S=poss [
-# animate / animado 
-# Added to trisyllabic roots or larger 
-  "[--][-te+syl@>tri.][Gen][+aln.poss.]" : "@ALNPOSS@"{te} 
-| "[--][-ti+syl@>tri.][Gen][+aln.poss.]" : "@ALNPOSS@"{ti} 
-! 
-# inanimate / inanimado 
-# Added to mono and disyllabic roots 
-| "[--][-ni+syl@di.][Gen][+aln.poss.]" : "@ALNPOSS@"{ni} 
-| "[--][-ne+syl@di.][Gen][+aln.poss.]" : "@ALNPOSS@"{ne} 
-! 
-# Added to artifacts, plant parts, and kin terms
-| "[--][-ri][Gen][+aln.poss.]" : "@ALNPOSS@"{ri} 
-| "[--][-re][Gen][+aln.poss.]" : "@ALNPOSS@"{re} 
-! 
-# unique possess indicator 
-# tsitsi / =tsitsi / =firewood / EN: 'firewood', ES: 'leña'
-# otsima / =tsi -ma / =firewood -aln.poss. / EN: 'her.firewood', ES: 'su.leña'
-| "[--][-ma+freq@<*.][Gen][+aln.poss.]" : "@ALNPOSS@"{ma}
-];
+# ****************************************
+                   
+source n-s-poss.foma 
                    
 # ****************************************
                     
