@@ -1,7 +1,9 @@
 # ---------------------------------------
 # NOMINAL TEMPORAL
 # ---------------------------------------
-# 1: +TP.PREC.: temporal.precedence (in.a.past.context) --> +precedence (also known as ADV.P adverbial past)
+# 1: +TP.PREC.: temporal.precedence (in.a.past.context) --> +precedence 
+#    also known as ADV.P adverbial past
+#    also known as ADV.T adverbio.de.tiempo/duración EN: adverb.of.time/duration
 #    savadoranki / =savado -ranki+tp.prec. / =Saturday -ADV / EN: 'last.Saturday', ES: 'el.último.sábado' 
 #    tsiteniranki / =tsiteni -ranki+tp.prec. / =night -ADV / EN: 'last.night', ES: 'anoche' 
 #    sheeteniranki / =sheeteni -ranki+tp.prec. / =day -ADV / EN: 'yesterday; time.prior.to.today' 
@@ -17,16 +19,16 @@
 #    notomiranki / no- =tomi -ranki+absnt. / 1sg.poss- =son -ADV / EN: 'my.son.who.is.absent.at.the.present.moment' 
 
 # (4*) +INVIS.: invisible 
-# (5*) +RCG.: recognitional, discourse-new-but-hearer-old.object  
+# 5: +RCG.: recognitional, discourse-new-but-hearer-old.object  
 # (6*) +NMZ.: nominalizer 
 # +fused.t. 
 
-# adv.t. * adverbio de tiempo o duración: adverb of time or duration:
+# 
 # =raNki *** fused time adverbial/past *** past tense marker on nouns
 # fused = joined together to form a single thing.  
 
 define N=S=TEMP [
-  "[--][-ranki][Adv][+TEMP]" : [{ranki}] 
+  "[--][-ranki][Adv][+TEMP][=TP.PREC; CHG.ST; ABSNT; RCG]" : [{ranki}] 
 ];
                      
 # ****************************************
