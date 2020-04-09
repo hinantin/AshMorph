@@ -118,7 +118,7 @@ define N=S=TEMPORALR [
                    
 # ****************************************
                    
-source n-s.emph.foma 
+source n-s-emph.foma 
                    
 # ****************************************
                    
@@ -159,6 +159,7 @@ define N=S=NMZ [
                    
 define N=S=UNK1 [
   "[--][-rinte][+UNK1]" : [{rinte}]
+| "[--][-ronte][+UNK1]" : [{ronte}]
 ];
                    
 # ****************************************
