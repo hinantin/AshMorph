@@ -7,6 +7,7 @@
 # (4*) +INVIS.: invisible 
 # (5*) +RCG.: recognitional, discourse-new-but-hearer-old object  
 # (6*) +NMZ.: nominalizer 
+# +fused.t. 
 
 # savadoranki / =savado -ranki+tp.prec. / =Saturday -ADV / EN: 'last.Saturday', ES: 'el.último.sábado' 
 # tsiteniranki / =tsiteni -ranki+tp.prec. / =night -ADV / EN: 'last.night', ES: 'anoche' 
@@ -22,9 +23,10 @@
 # - the house deserted after an adult person died in it and was buried inside in a shallow grave. (now corpses are buried in a nearby cemetery) 
 # ADV.P adverbial past
 # adv.t. * adverbio de tiempo o duración: adverb of time or duration:
+# =raNki *** fused time adverbial/past *** past tense marker on nouns
 
 define N=S=TEMP [
-  "[--][-ranki+fused.t.][Adv][+TEMP]" : [{ranki}] 
+  "[--][-ranki][Adv][+TEMP]" : [{ranki}] 
 ];
                      
 # ****************************************
