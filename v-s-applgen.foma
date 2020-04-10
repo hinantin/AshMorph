@@ -10,4 +10,4 @@ define V=S=APPLGEN [
   "[--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]" : "@EP"[{ako}]
 ];
                    
-define APPL [ [EP V=S=APPLGEN]|[V=S=APPLGEN] ];
+define APPLGEN [ [EP V=S=APPLGEN]|[V=S=APPLGEN] ];
