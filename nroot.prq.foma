@@ -1068,7 +1068,7 @@ define NRootPRQin [
 | "[=haipempe+gndr@m.+sem@bird][NRoot][=white-plumed.antbird (sci.nm.: pithys.albifrons)]" : {haipempe}
 # ------------------------------------------------------------------
 ! 
-| "[=hananeki][NRoot][=child]" : {hananeki}
+| "[=hananeki+poss@te.][NRoot][=child]" : {hananeki}
 | "[=hananiki+poss@te.][NRoot][=little.child]" : {hananiki}
 | "[=hani][NRoot][=little.child]" : {hani} ! @VCMP 
 # ------------------------------------------------------------------
@@ -4741,7 +4741,7 @@ define NRootPRQin [
 | "[=sanirontiki+sem@insect][NRoot][=carpenter.bee.sp. (ES: abeja.carpintera.solitaria; sci.nm.: familia.anthophoridae, género.xylocopa, neoxylocopa.sp.)]" : {sanirontiki}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pinkatsari+gndr@m.+voc.+poss@te.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsari}
+| "[=pinkatsari+gndr@m.+voc.+poss@te.+mrph.phon@LEN:^p→^v.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsari}
 | "[=pinkatsare+gndr@m.+voc.+poss@te.][NRoot][=chief (ES: jefe; PT: chefe, aquele.que.é.temido); regional.leader]" : {pinkatsare}
 | "[=pinkatsaro+gndr@n.m.+voc.+poss@te.][NRoot][=female.chief (ES: jefa; PT: chefa, aquela.que.é.temida)]" : {pinkatsaro}
 # ------------------------------------------------------------------------------------------
