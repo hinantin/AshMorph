@@ -2056,7 +2056,7 @@ define VRootPRQin [
 ! 
 | "[=oih][VRoot][=to.follow; to.follow.sb.; to.accompany.sb.]" : {oih}
 | "[=oiha][VRoot][=to.follow; to.follow.sb.; to.accompany.sb.]" : {oiha}
-| "[=oihampoiri+~oih{CL:/footprint:ampoiri/}+INF@antsi.][VRoot][=to.follow.the.tracks (ES: seguir.las.huellas)]" : {oihampoiri}
+| "[=oihampoiri+~{V:/'to.follow':oih/}{CL:/footprint:ampoiri/}+INF@antsi.][VRoot][=to.follow.the.tracks (ES: seguir.las.huellas)]" : {oihampoiri}
 # --------------------------------------------------------------------------------- 
 ! 
 | "[=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p}
