@@ -1,8 +1,8 @@
 define V=S=NEG [
 # ero paminavaitzitzi / =ero *** p- =amin -a -vai -tz -i -tzi / =neg.irr *** 2a- =to.look -ep -dur -ep -real -neg / EN: "don't.look" 
-  "[--][=tsi+future][+NEG]" : [{tsi}] 
-| "[--][=tzi+future][+NEG]" : [{tzi}] 
+  "[--][=tsi+tns@fut.][+NEG]" : [{tsi}] 
+| "[--][=tzi+tns@fut.][+NEG]" : [{tzi}] 
 # te inkantaje / te inkantahe / =te *** i- N- =kant -a -he / =neg.real *** 3m.s- =neg.real 3m.s- irr- =to.say -real -neg  / EN: 'invalid'; ES: 'inválido' 
-| "[--][=he+past][+NEG]" : [{he}] 
-| "[--][=hi+past][+NEG]" : [{hi}] 
+| "[--][=he+tns@n.fut.][+NEG]" : [{he}] ! past
+| "[--][=hi+tns@n.fut.][+NEG]" : [{hi}] ! past 
 ];
