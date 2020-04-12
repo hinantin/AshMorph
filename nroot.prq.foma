@@ -2437,10 +2437,10 @@ define NRootPRQin [
 | "[=kipatsite][NRoot][=territory (ES: territorio)]" : {kipatsite}
 ! 
 # la avispa 'kipatsinari' hace su nido excavando en el suelo.
-| "[=kipatsinari][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.ammophilinae)]" : {kipatsinari}
+| "[=kipatsinari+~{N:/'earth':kipatsi/}{CL:/'consumer.of.sth.':nari/}][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.ammophilinae)]" : {kipatsinari}
 ! 
-| "[=kipatsisatzi+gndr@m.][NRoot][=underground.dweller]" : {kipatsisatzi}
-| "[=kipatsisato+gndr@n.m.][NRoot][=underground.dweller]" : {kipatsisato}
+| "[=kipatsisatzi+~{N:/'earth':kipatsi/}{CL:/'provenance':satzi/}+gndr@m.][NRoot][=(male).underground.dweller]" : {kipatsisatzi}
+| "[=kipatsisato+~{N:/'earth':kipatsi/}{CL:/'provenance':satzi/}+gndr@n.m.][NRoot][=(female).underground.dweller]" : {kipatsisato}
 # ---------------------------------------------------------------------------
 ! 
 | "[=oparai+gndr@n.m.][NRoot][=countryside (ES: campo); beach (ES: playa); stretch.of.the.riverbank.that.is.communally.used]" : {oparai}
