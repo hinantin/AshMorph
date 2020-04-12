@@ -11,36 +11,9 @@ source n-s-dem.foma
 source n-s-pl.foma 
                    
 # ****************************************
-                   
-define N=S=DIM [
-# hetaripatsaini / =hetari -patsa -ini / =armored.catfish -small.part -dim / EN: 'small.armored_catfishes', ES: 'carachamitas' 
-# shivapatsaini / =shiva -patsa -ini / =anchoveta-fish -small.part -dim / EN: 'small.anchoveta-fishes', ES: 'anchovetitas' 
-# antavairintsipatsaini / =ant a -vai -rintsi -patsa -ini / =to.do -ep -dur -abs -small.part -dim / EN: 'small.jobs', ES: 'trabajos.pequeños, trabajitos' 
-  "[--][-patsa][=small.part][--][-ini][+DIM]" : {patsaini} 
-! nyaantsipeta / =nyaa -ntsi -peta / =language -nposs -dim / EN: 'dictionary' lit.: 'small.language', ES: 'diccionario' lit.: 'pequeño.lenguaje' 
-| "[--][-peta][+DIM]" : {peta} 
-| "[--][-ini][+DIM]" : {ini} 
-# mapinini / =mapi -ni -ni / =stone -dim -cl:watercourse / EN: 'watercourse.with.little.stones', ES: 'corriente_de_agua.con.piedritas' 
-| "[--][-ni][+DIM]" : {ni} 
-# ----------------------------------------
-# kotsiraaniki / =kotsiro -aniki / =machete -dim / EN: 'knife', ES: 'cuchillo' 
-| "[--][-aniki][+DIM]" : {aniki} 
-| "[--][-aaniki][+DIM]" : {aaniki} 
-# tyaapaniki / =tyaapa -niki / =chicken -dim / EN: 'chick', ES: 'pollito' 
-| "[--][-niki][+DIM]" : {niki} 
-# ----------------------------------------
-# iritsirohaniki / iri- =tsiro -haniki / 3m.poss- =sister.of.a.male -dim / EN: 'his.little_sister.of.a.male', ES: 'su.hermanita (de.él)'  
-# ishintohaniki / =ishinto -haniki / =daughter -dim / EN: 'small.daughter', ES: 'hijita' 
-# osherohaniki / =oshero -haniki / =crab -dim / EN: 'small.crab', ES: 'cangrejito' 
-| "[--][-haniki][+DIM]" : {haniki} 
-# ----------------------------------------
-# hitoiriki / =hito -iriki / =spider -dim / EN: 'small.spider', ES: 'arañita' 
-# mapiiriki / =mapi -iriki / =rock -dim / EN: 'small.rock', ES: 'roquita' 
-# masheroiriki / =mashero -iriki / =edible_toad.sp. -dim / EN: 'small.edible_toad', ES: 'sapito.comestible'
-| "[--][-iriki][+DIM]" : {iriki} 
-| "[--][-iriki][+DIM]" : "@IDIM@"{riki} 
-];
-                   
+                    
+source n-s-dim.foma 
+                    
 # ****************************************
                    
 source n-s-loc.foma 
