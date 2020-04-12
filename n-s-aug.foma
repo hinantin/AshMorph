@@ -1,0 +1,32 @@
+# INTNS: intensifier 
+define N=S=AUG [
+# tenarini / =tena -ri+m. -ni / =to.weigh -adj -aug / ES: 'too.heavy', ES: 'demasiado.pesado' 
+# kasankarini / =kasanka -ri+m. -ni / ES: 'es.muy.perfumada'
+  "[--][-ni][DEGR][+AUG_INTNS]" : [{ni}] 
+# ------------------------------------------------
+# Limited affixation to nouns which are natural objects 
+# impanekiite / =impaneki -ite / =fine_sand -aug / EN: 'sandy.area', ES: 'arenal'  
+# keshiisatziite / =keshii -satzi-ite / =mountainous_grassland -cl:provenance -aug / EN: 'big.mountainous_grasslander', ES: 'pajonalino'  
+# antearoite / =antearo -ite / =big -aug / EN: 'very.big', ES: 'muy.grande'  
+# impokiroite / =impokiro -iterative / EN: 'the.many.stars' 
+| "[--][-ite][DEGR][+AUG][=many; expansive ()]" : [{ite}] 
+| "[--][-/DEL:i/te][DEGR][+AUG][=many; expansive]" : "@I@"{te} 
+# ------------------------------------------------
+# ishaninkaperori / i- =shani -nka -pero -ri / 3m.poss- =to.be.of.the.same.group -nmz -aug -rel / EN: 'his.true.mate', ES: 'su.verdadero.amigo'  
+# is pero more a verbal augmentive suffix ??? 
+| "[--][-pero][DEGR][+AUG]" : [{pero}]
+! 
+# keshiimashi / =keshii -mashi / =mountainous_grassland -aug / EN: 'big.mountainous_grassland', ES: 'el.gran.pajonal'  
+| "[--][-mashi][DEGR][+AUG]" : [{mashi}] 
+! 
+# moratsantsa / =mora -tsantsa / =mule -aug / EN: 'camel, elongated.mule' lit.: 'long.mule', ES: 'camello, mula.larga'  
+# antyaritsantsa / =antyari+m. -tsantsa / =big -aug / EN: 'tall', ES: 'alto'  
+# antyarotsantsa / =antyaro+n.m. -tsantsa / =big -aug / EN: 'elongated', ES: 'alargado'  
+| "[--][-tsantsa][DEGR][+AUG]" : [{tsantsa}] 
+| "[--][-santsa][DEGR][+AUG]" : [{santsa}] 
+! 
+# antarosaNte / =antaro -sante / =big -aug / EN: 'wide'; ES: 'ancho'  
+# antearosante eni / =antearo -sante =eni / =big -aug =Ene.river / EN: 'The.Ene.river.is.wide', ES: 'el.río.Ene.es.ancho'  
+# abotsisanteki / avotsisanteki / =avo -tsi -sante -ki / =trail -nposs -aug -loc / EN: 'in.the.path'; ES: 'en.el.sendero'  
+| "[--][-sante][DEGR][+AUG]" : [{sante}]
+];
