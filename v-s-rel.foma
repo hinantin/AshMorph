@@ -3,9 +3,9 @@
 # --------------------------------------
 
 define V=S=REL [
-  "[--][=ri+tns@n.fut.][NS][+REL][=REAL]" : [{ri}]
+  "[--][=ri+tns@n.fut.][NS][+REL][=REAL]" : [{ri}] 
 # -----------------------------------------------
 ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
-| "[--][=ni+tns@fut.][NS][+REL][=IRR]" : [{ni}]
+| "[--][=ni+tns@fut.][NS][+REL][=IRR]" : [{ni}] 
 | "[--][=ni~ne+tns@fut.][NS][+REL][=IRR]" : [{ne}] 
 ];
