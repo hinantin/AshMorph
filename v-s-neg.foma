@@ -4,9 +4,9 @@
 
 define V=S=NEG [
 # ero paminavaitzitzi / =ero *** p- =amin -a -vai -tz -i -tzi / =neg.irr *** 2a- =to.look -ep -dur -ep -real -neg / EN: "don't.look" 
-  "[--][=tsi+tns@fut.][+NEG.IRR]" : [{tsi}] 
-| "[--][=tzi+tns@fut.][+NEG.IRR]" : [{tzi}] 
+  "[--][=tsi+tns@fut.][+NEG][=IRR]" : [{tsi}] 
+| "[--][=tzi+tns@fut.][+NEG][=IRR]" : [{tzi}] 
 # te inkantaje / te inkantahe / =te *** i- N- =kant -a -he / =neg.real *** 3m.s- =neg.real 3m.s- irr- =to.say -real -neg  / EN: 'invalid'; ES: 'inválido' 
-| "[--][=he+tns@n.fut.][+NEG.REAL]" : [{he}] ! past
-| "[--][=hi+tns@n.fut.][+NEG.REAL]" : [{hi}] ! past 
+| "[--][=he+tns@n.fut.][+NEG][=REAL]" : [{he}] ! past
+| "[--][=hi+tns@n.fut.][+NEG][=REAL]" : [{hi}] ! past 
 ];
