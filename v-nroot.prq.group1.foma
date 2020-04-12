@@ -7,7 +7,7 @@ define VerbToNounPRQin [
 | "[=antiva+INF@/EP:t/aantsi.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]::[=stumbling.block (ES: tropiezo)][^NMZ]" : {antiva} ! V@->N::[=stumbling.block (ES: tropiezo)] 
 | "[=tsitink+INF@aantsi.][VRoot][=to.trip.(over.sth.) (ES: tropezar)]::[=stumbling.block (ES: tropiezo)][^NMZ]" : {tsitink} ! V@->N::[=stumbling.block (ES: tropiezo)] 
 | "[=apato+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar), to.meet, to.get.together]::[=meeting (ES: reunión)][^NMZ]" : {apato} ! V@->N::[=meeting (ES: reunión)]
-| "[=tohe][VRoot][=to.cough (ES: toser)]::[=cough (ES: tos)][^NMZ]" : {tohe} ! V@->N::[=cough (ES: tos)] 
+| "[=tohe+INF@/EP:t/VC.][VRoot][=to.cough (ES: toser)]::[=cough (ES: tos)][^NMZ]" : {tohe} ! V@->N::[=cough (ES: tos)] 
 | "[=atsikaneent+~atsik{EP:a}{DIM:neent}+INF@aantsi.][VRoot][=to.have.a.stomachache/biting_pain_in_the_stomach (ES: tener.dolor.de.estómago, tener.cólico); to.be.in.labour (ES: estar.de.parto)]::[=stomachache (ES: dolor.de.estómago)][^NMZ]" : {atsikaneent} ! V@->N::[=stomachache (ES: dolor.de.estómago)] 
 | "[=kamant+INF@aantsi.][VRoot][=to.inform;| to.advise]::[=sermon (ES: sermón); advice (ES: recomendación)][^NMZ]" : {kamant} ! V@->N::[=sermon (ES: sermón); advice (ES: recomendación)] @section:verb@ 
 | "[=kamarank+INF@aantsi.][VRoot][=to.vomit (ES: vomitar; PT: vomitar; IT: vomitare)]::[=vomit (ES: vómito)][^NMZ]" : {kamarank} ! V@->N::[=vomit (ES: vómito)] @section:verb@ 
