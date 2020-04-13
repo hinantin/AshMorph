@@ -1,0 +1,5 @@
+define N=S=EXCL [
+  "[--][=ve][+EXCL][=exclaiming,announcing]" : {ve}
+# kanirivi / =kaniri -vi / =yucca -excl / EN: 'manioc (announcing)'
+| "[--][=vi][+EXCL][=exclaiming,announcing]" : {vi}
+];
