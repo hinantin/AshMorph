@@ -1482,6 +1482,9 @@ define VRootPRQin [
 | "[=pamiha+~{V:/'to.touch':pami/}{CL:/'liquid':ha/}+INF@/EP:t/VC.][VRoot][=to.catch.fish.with.the.hands (ES: pescar.con.las.manos)]" : {pamiha}
 # --------------------------------------------------------- 
 ! 
+| "[=pampa+INF@VC.][VRoot:QU][=to.level.off/out (ES: nivelarse; QU: pampay)]" : {pampa}
+# --------------------------------------------------------- 
+! 
 | "[=pampoy+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoy} ! V@->N::[=song (ES: canción)] 
 | "[=pampoye+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoye}
 ! 
