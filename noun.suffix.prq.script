@@ -44,16 +44,7 @@ source n-s-aug.foma
                    
 # ****************************************
                    
-define N=S=TEMPORALEXIST [
-# ishireni / i- =shire -ni / 3m.poss- =soul -temporal[ceased.exist.] / EN: 'his.former.soul'; ES: 'lo.que.ha.sido.su.alma' 
-  "[--][-ni][TENSE][+TMP][=CEASED.EXIST. (EN: former+NRoot); DECEASED (EN: late+NRoot)]" : [{ni}]
-];
-                   
-# ****************************************
-                   
-define N=S=TEMPORALR [
-  "[--][-nta][TENSE][+TMP][=CEASED.R. (EN: ceased.relation.with.a.human.referent)]" : [{nta}]
-];
+source n-s-tmp.foma 
                    
 # ****************************************
                    
