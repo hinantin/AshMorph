@@ -874,8 +874,8 @@ define VRootPRQin [
 # -------------------------------------------------------------- 
 ! 
 | "[=kamarank+INF@aantsi.][VRoot][=to.vomit (ES: vomitar; PT: vomitar; IT: vomitare)]" : {kamarank} ! V@->N::[=vomit (ES: vómito)] @section:verb@ 
-| "[=kamaank][VRoot][=to.vomit (ES: vomitar)]" : {kamaank}
-| "[=kamank][VRoot][=to.vomit (ES: vomitar)]" : {kamank}
+| "[=kamaank+INF@VC.][VRoot][=to.vomit (ES: vomitar)]" : {kamaank}
+| "[=kamank+INF@antsi.][VRoot][=to.vomit (ES: vomitar)]" : {kamank}
 # -------------------------------------------------------------- 
 ! 
 | "[=kamatsa+INF@/EP:t/aantsi.][VRoot][=to.crawl (ES: gatear; PT: engatinhar; QU: lluqay)]" : {kamatsa} ! @section:verb@ 
