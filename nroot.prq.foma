@@ -7296,8 +7296,9 @@ define NRootPRQin [
 # Yorowa / Yorova / 
 | "[=Yorova][NRoot][=NP (ES: Yurúa)]" : {yorova}
 # ----------------------------------------------------------------- 
-! word set:
-| "[=niyanki+sem@loc.+poss@ti][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {niyanki}
+! word set: 
+! not an adverb but an adverbial relation within a clause  
+| "[=niyanki+sem@loc.+poss@ti][NRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {niyanki}
 !| "[=niyankiity+~{ADV:/'in.the.middle':niyanki/}{UNK:ity}+INF@VC.][VRoot][=to.get.cloudy (ES: nublarse)]" : {niyankiity}
 # nonianquijataque / noniankihatake / no- =nianki -ha -t -ak -e / 1sg.s- =to.go.through.the.middle.of.sth. -cl:liquid -ep -prf -irr / ES: 'Yo.voy.por.el.centro.del.río,no.por.las.orillas'  
 | "[=nianki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]" : {nianki} ! N@->V::[=to.go.through.the.center/middle.of.sth. (ES: ir.por.el.centro)] 
