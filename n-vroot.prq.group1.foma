@@ -41,6 +41,7 @@ define NounToVerbPRQin [
 | "[=intaina+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {intaina} ! N@->V ! revise if it belongs to this file 
 | "[=intaena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {intaena} ! N@->V ! revise if it belongs to this file 
 | "[=inteena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {inteena} ! N@->V ! revise if it belongs to this file 
+| "[=kirinka][NRoot][=down.river, downstream (ES: río.abajo); central.part.of.the.jungle][^VBZ]" : {kirinka} ! N@->V 
 | "[=ira+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]::[=to.bleed (ES: sangrar)][^VBZ]" : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
 | "[=isha+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]::[=to.be.an.old.woman][^VBZ]" : {isha} ! N@->V::[=to.be.an.old.woman] 
 | "[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)][^VBZ]" : {oteva} ! N@->V 

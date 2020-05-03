@@ -51,7 +51,7 @@ define NRootCmpPRQin [
 | "[--][=tsantsa][NRoot][=long (in.length; ES: largo); big]" : {tsantsa} ! N@->V @CMP
 | "[--][=santsa][NRoot][=long (in.length; ES: largo)]" : {santsa} ! N@->V @CMP
 | "[--][=hantsa][NRoot][=long (in.length; ES: largo)]" : {hantsa} ! N@->V @CMP
-| "[--][=tsapaki+sem@b.p.][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
+| "[--][=tsapaki+inal@ntsi.+sem@b.p.][NRoot][=finger (ES: dedo)]" : {tsapaki} ! @CMP 
 | "[--][=tsipana+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]" : {tsipana} ! @VCMP @CMP 
 # @CMP			noun composition 
 | "[--][=tapo+s.redup.word@2X.][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object]" : {tapo} ! N@->V @CMP 
