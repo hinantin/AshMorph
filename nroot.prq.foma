@@ -2727,7 +2727,7 @@ define NRootPRQin [
 | "[=konoya+gndr@m.+sem@reptile][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]" : {konoya}
 # ---------------------------------------------------------------------------
 ! 
-| "[=komaro+gndr@n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)]" : {komaro}
+| "[=komaro+gndr@n.m.+inal@ntsi.+mrph.phon@LEN:^k→^y.][NRoot][=paddle, oar (ES: remo)]" : {komaro}
 | "[=komaaro+gndr@n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)]" : {komaaro}
 | "[=komavo+gndr@n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)]" : {komavo}
 # ---------------------------------------------------------------------------
@@ -5114,7 +5114,7 @@ define NRootPRQin [
 | "[=pyaare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyaare} 
 | "[=pyari+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyari} ! @CMP 
 | "[=piyaari+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {piyaari}
-| "[=piyare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte, bebida.fermentada.de.mandioca)]" : {piyare}
+| "[=piyare+gndr@n.m.+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte, bebida.fermentada.de.mandioca)]" : {piyare}
 | "[=piyaare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {piyaare}
 | "[=peare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {peare}
 | "[=nyonyo][NRoot][=manioc.beer (ES: masato)]" : {nyonyo}
@@ -7106,6 +7106,7 @@ define NRootPRQin [
 # -------------------------------------------------------------------
 ! 
 | "[=tona+gndr@n.m.+inal@tsi.][NRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
+| "[=tonaa+gndr@n.m.+inal@tsi.][NRoot][=snout (ES: hocico)]" : {tonaa} ! @VCMP 
 | "[=vontso][NRoot][=snout (ES: hocico)]" : {vontso}
 # ------------------------------------------------------------------- 
 ! 
