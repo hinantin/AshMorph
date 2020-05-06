@@ -74,6 +74,7 @@
 
 # 7: morphophonemics +mrph.phon@LEN:^p→^v. [^...$] start and the end of a lexicon entry 
 #                    +mrph.phon@LEN:^k→^Ø. 
+#                    +mrph.phon@LEN:^k→^y. 
 #    lenition LEN
 #    epenthesis EP
 #    deletion DEL 
@@ -1901,7 +1902,7 @@ define NRootPRQin [
 ! 
 # aaquena camaantsi / aakena kamaantsi / =a -ak -e -na *** =kamaantsi / =to.take -prf -real -1sg.o *** =flu / EN: 'the.flu.takes.me'; ES: 'me.dió.gripe; lit.: me.agarra.el.resfrío'
 | "[=kamantsi+gndr@n./m.+poss@te.][NRoot][=flu, cold (ES: gripe, constipado); snot (ES: moco); having.a.cold; phlegm]" : {kamantsi} ! +gndr@n.m. +gndr@m. both genders?
-| "[=kamaantsi+gndr@n./m.+poss@te.][NRoot][=flu, cold (ES: gripe, constipado); snot (ES: moco); having.a.cold; phlegm]" : {kamaantsi}
+| "[=kamaantsi+gndr@n./m.+poss@te.+mrph.phon@LEN:^k→^y.][NRoot][=flu, cold (ES: gripe, constipado); snot (ES: moco); having.a.cold; phlegm]" : {kamaantsi}
 # ---------------------------------------------------------------------
 ! 
 | "[=kamantzi+gndr@m.+sem@bird][NRoot][=black-streaked.puffbird (sci.nm.: malacoptila.fuivogularis)]" : {kamantzi}
