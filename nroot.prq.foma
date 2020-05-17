@@ -75,6 +75,12 @@
 # 7: morphophonemics +mrph.phon@LEN:^p→^v. [^...$] start and the end of a lexicon entry 
 #                    +mrph.phon@LEN:^k→^Ø. 
 #                    +mrph.phon@LEN:^k→^y. 
+#                    
+#                    +mrph.phon@DEL:^i→^Ø. 
+#                    +mrph.phon@DEL:^o→^Ø. 
+#                    +mrph.phon@DEL:^a→^Ø. 
+#                    
+#                    +mrph.phon@LOSS:$o→$Ø. 
 #    lenition LEN
 #    epenthesis EP
 #    deletion DEL 
