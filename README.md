@@ -133,12 +133,5 @@ Spell-checking
 
  Test the spell-checker on-line: https://hinant.in/ckeditor/samples/api.html
 
-For more information contact
-====================
-
-Richard ALexander Castro-Mamani
-
-E-mail: rcastro@hinant.in ; richard.castro.mamani@gmail.com
-
 
 
