@@ -80,7 +80,8 @@
 #                    +mrph.phon@DEL:^o→^Ø. 
 #                    +mrph.phon@DEL:^a→^Ø. 
 #                    
-#                    +mrph.phon@LOSS:$o→$Ø. 
+#                    +mrph.phon@LOSS:^no→^n.
+#                    +mrph.phon@LOSS:^pi→^p. 
 #    lenition LEN
 #    epenthesis EP
 #    deletion DEL 
