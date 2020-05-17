@@ -82,6 +82,9 @@
 #                    
 #                    +mrph.phon@LOSS:^no→^n.
 #                    +mrph.phon@LOSS:^pi→^p. 
+#                    +mrph.phon@SHORTENING:^ii→^i.
+#                    +mrph.phon@LOSS:^ak→^∅k.
+#                    +mrph.phon@LOSS:^ik→^∅k.
 #    lenition LEN
 #    epenthesis EP
 #    deletion DEL 
