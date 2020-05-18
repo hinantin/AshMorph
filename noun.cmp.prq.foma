@@ -14,7 +14,7 @@ define NRootCmpPRQin [
 | "[--][=kanire+~{N:/'yucca':kanir/}{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[--][=kainiri+~{N:/'yucca':kainir/}{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
 | "[--][=kasanto+gndr@n.m.+sem@bird][NRoot][=blue-and-yellow.macaw (phon.tat.: [ka.ˈsaN.tə]; sci.nm.: ara.ararauna, ara.caninde; ES: guacamayo.verde; PT: tucano); yellow.chested.macaw]" : {kasanto} ! @CMP 
-| "[--][=kempita+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
+| "[--][=kempita+gndr@n.m.+inal@ntsi.+sem@b.p.+mrph.phon@LEN:^k→^y.][NRoot][=ear (ES: oreja, oído)]" : {kempita} ! @CMP
 | "[--][=kishi][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name]" : {kishi} ! @CMP 
 | "[--][=kisontainari+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {kisontainari} ! @CMP @section:noun@ 
 | "[--][=kitaiteri][NRoot][=day (ES: día; PT: dia; QU: p'unchay, p'unchaw)]" : {kitaiteri} ! @CMP @section:noun@ 

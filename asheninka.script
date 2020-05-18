@@ -5,7 +5,7 @@
        define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"]];
        define Cleanup [Cleanup2];
 
-      source ortography.foma 
+      source orthography.foma 
 
       ##########################
       #                        #
