@@ -315,10 +315,16 @@ define NRootESin [
 | "[=teatro+poss@te.][NRoot][=theater]" : {teatro}
 ! 
 | "[=teléfono/terejono][NRoot][=telephone]" : {terejono}
+# -------------------------------------------
 ! 
 | "[=Ucayali][NRoot][=NP]" : {ucayali}
+# -------------------------------------------
 ! 
 | "[=vaca+NCFS000][NRoot][=cow]" : {vaca} 
+# -------------------------------------------
+! 
+| "[=varaki+~{N:/'bala':vara/}{CL:/'small,round(ed)':ki/}+poss@te.][NRoot][=cartridge, bullet (ES: bala)]" : {varaki} 
+# -------------------------------------------
 ! 
 | "[=vacuna+NCMS000+poss@ri.][NRoot][=vaccine]" : {vacona} 
 ! 
