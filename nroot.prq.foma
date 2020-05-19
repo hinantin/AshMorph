@@ -2070,7 +2070,7 @@ define NRootPRQin [
 ! 
 | "[=kantiri+gndr@n.m.][NRoot][=basket (ES: canasta)]" : {kantiri}
 | "[=kantire+gndr@n.m.][NRoot][=basket (ES: canasta)]" : {kantire} ! noyantire / no- =kantire / 1sg.poss- =basket / EN: 'my.basket', ES: 'mi.canasta' +voc.???
-| "[=kantziri+gndr@n.m.][NRoot][=basket (ES: canasta)]" : {kantziri}
+| "[=kantziri+gndr@n.m.+mrph.phon@LEN:^k→^y.][NRoot][=basket (ES: canasta)]" : {kantziri}
 | "[=kantzire+gndr@n.m.][NRoot][=basket (ES: canasta)]" : {kantzire}
 # ---------------------------------------------------------------------
 ! 
