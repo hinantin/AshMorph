@@ -4466,7 +4466,7 @@ define NRootPRQin [
 # ----------------------------------------------------------------------------- 
 ! banana tree, plantain
 | "[=parenti+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
-| "[=parentzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parentzi}
+| "[=parentzi+gndr@n.m.+poss@te:ti.+mrph.phon@LEN:^p→^v.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parentzi}
 | "[=payanti+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payanti}
 | "[=payantzi+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {payantzi}
 | "[=parianti+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parianti}
