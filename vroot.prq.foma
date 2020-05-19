@@ -2385,7 +2385,7 @@ define VRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=pona+INF@/EP:t/aantsi.][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)]" : {pona}
-| "[=ponaa+INF@/EP:t/aantsi.][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear, hacerse.renegrido)]" : {ponaa}
+| "[=ponaa+INF@/EP:t/aantsi.+mrph.phon@LEN:^p→^v.][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear, hacerse.renegrido)]" : {ponaa}
 ! 
 | "[=ponaha+INF@/EP:t/VC.][VRoot][=to.be.dark-skinned, to.be.olive-skinned (ES: ser.de.piel.oscura); to.be.bruised; to.have.purple.bruises]" : {ponaha}
 # ---------------------------------------------------------------------
