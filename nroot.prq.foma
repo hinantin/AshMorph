@@ -4345,7 +4345,7 @@ define NRootPRQin [
 ! 
 ! novaje / novahe / no- =pahe / EN: 'my.gray_hair'; ES: 'mi.cana' 
 ! ivaje / ivahe / i- =pahe / EN: 'his.gray_hair'; ES: 'su.cana' 
-| "[=pahe+inal@tsi.][NRoot][=gray/grey.hair (ES: cana)]" : {pahe}
+| "[=pahe+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=gray/grey.hair (ES: cana)]" : {pahe}
 | "[=pai+gndr@n.m.+inal@tsi.][NRoot][=gray/grey.hair, white.hair (ES: cana)]" : {pai}
 # ----------------------------------------------------------------------------- 
 ! 
@@ -5119,7 +5119,7 @@ define NRootPRQin [
 ! 
 ! noviari / no- =piari / 1sg.poss- =manioc.beer / EN: 'my.manioc_beer' 
 ! oviari / o- =piari / 3n.m.poss- =manioc.beer / EN: 'my.manioc_beer' 
-| "[=piari+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {piari}
+| "[=piari+gndr@n.m.+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {piari}
 | "[=piare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {piare}
 | "[=pyare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyare} ! @CMP 
 | "[=pyaare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyaare} 
@@ -7137,7 +7137,7 @@ define NRootPRQin [
 | "[=vairo/wayro+gndr@n.m.+inal@ntsi.][NRoot:CPB][=name (ES: nombre; PT: nome)]" : {wayro}
 | "[=vaero+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {vaero}
 | "[=vahiro+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {vahiro} ! @section:noun@ 
-| "[=pahiro+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]" : {pahiro}
+| "[=pahiro+gndr@n.m.+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=name (ES: nombre)]" : {pahiro}
 | "[=pairo+gndr@n.m.+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=name (ES: nombre)]" : {pairo}
 # ------------------------------------------------------------------- 
 ! 
