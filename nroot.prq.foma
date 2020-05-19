@@ -2865,7 +2865,7 @@ define NRootPRQin [
 | "[=koriti+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koriti} ! ?
 | "[=koritzi+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritzi}
 | "[=koritsi+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritsi}
-| "[=kori+gndr@n.m.+inal@tsi.+poss@te.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {kori} ! noyorite 'my sweet potato'
+| "[=kori+gndr@n.m.+inal@tsi.+poss@te.+mrph.phon@LEN:^k→^y.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {kori} ! noyorite 'my sweet potato'
 | "[=koricha+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koricha}
 | "[=koritya+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritya}
 # ---------------------------------------------------------------------------
