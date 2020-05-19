@@ -4316,7 +4316,7 @@ define NRootPRQin [
 | "[=pamari+gndr@n.m.][NRoot][=fire (ES: candela, fuego)]" : {pamari}
 | "[=paamari+gndr@n.m.][NRoot][=fire (ES: candela, fuego)]" : {paamari}
 | "[=paamare+gndr@n.m.][NRoot][=fire (ES: candela, fuego)]" : {paamare}
-| "[=paampari+gndr@n.m.+poss@te.][NRoot][=fire (ES: candela, fuego)]" : {paampari}
+| "[=paampari+gndr@n.m.+poss@te.+mrph.phon@LEN:^p→^v.][NRoot][=fire (ES: candela, fuego)]" : {paampari}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=paamanto+gndr@n.m.][NRoot][=burned.wood; burning (ES: leña.ardiente)]" : {paamanto}
@@ -4791,7 +4791,7 @@ define NRootPRQin [
 | "[=pito+gndr@n.m.+inal@tsi.+poss@ni.+mrph.phon@LEN:^p→^v.][NRoot][=canoe (ES: canoa)]" : {pito}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pitoka+gndr@n.m.+sem@plant][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta, xanthosoma.sagittifolium.Schott.)]" : {pitoka}
+| "[=pitoka+gndr@n.m.+sem@plant+mrph.phon@LEN:^p→^v.][NRoot][=cultigen/edible.plant.sp. (ES: taro, pituca; sci.nm.: colocasia.esculenta, xanthosoma.sagittifolium.Schott.)]" : {pitoka}
 | "[=pitoso+gndr@n.m.+sem@plant][NRoot][=cultigen/edible.plant.sp. (ES: taro, sci.nm.: colocasia.esculenta)]" : {pitoso}
 # ------------------------------------------------------------------------------------------
 ! 
