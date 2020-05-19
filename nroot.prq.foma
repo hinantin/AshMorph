@@ -2840,6 +2840,7 @@ define NRootPRQin [
 ! 
 # kontzishini / =kontzi -shi -ni / =pona-tree -cl:leafy.substance -cl:watercourse / EN: 'ravine.where.the.pona-tree.leafy.substance.is.abundant'; ES: 'quebrada'   
 | "[=kontzi+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: pona)]" : {kontzi}
+| "[=kontzikota+gndr@n.m.+poss@ri:re.+mrph.phon@LEN:^k→^y.][NRoot][=pona-wood.plank (ES: tablón.hecho.de.madera.de.pona)]" : {kontzikota}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)]" : {kooya} ! N@->V
