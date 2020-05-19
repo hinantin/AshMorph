@@ -2410,8 +2410,8 @@ define VRootPRQin [
 | "[=poronk][VRoot][=to.whip.sb.with.ishanga-nettle (ES: castigar.con.hortiga); to.prick.sb./sth.causing.a_lot_of.pain (ES: picar.fuerte)]" : {poronk}
 # ------------------------------------------------------
 ! 
-| "[=pos+INF@aantsi.][VRoot][=to.hit, to.beat, to.crash]" : {pos}
-| "[=posh][VRoot][=to.hit]" : {posh}
+| "[=pos+INF@aantsi.+mrph.phon@SIBL.NEUT:s$→^sh$.][VRoot][=to.hit, to.beat, to.crash]" : {pos}
+| "[=posh+INF@aantsi.][VRoot][=to.hit]" : {posh}
 | "[=poh+INF@aantsi.+I-Conj@act.v.][VRoot][=to.hit (ES: golpear)]" : {poh}
 | "[=ompoh+INF@aantsi:VC.][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompoh}
 | "[=ompos+INF@aantsi.][VRoot][=to.bump.sth. (ES: golpearse.con.algo)]" : {ompos}
