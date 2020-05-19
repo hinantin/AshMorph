@@ -215,7 +215,7 @@ define NRootESin [
 ! 
 | "[=periódico/perioriko][NRoot:ES][=newspaper]" : {perioriko}
 ! 
-| "[=plato/pirato+poss@te.][NRoot:ES][=plate]" : {pirato}
+| "[=plato/pirato+poss@te.+mrph.phon@LEN:^p→^v.][NRoot:ES][=plate]" : {pirato}
 | "[=plato/perato+poss@te.][NRoot:ES][=plate]" : {perato}
 ! 
 | "[=pico+n.m.][NRoot:ES][=pickaxe]" : {piiko}
