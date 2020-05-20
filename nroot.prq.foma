@@ -4292,8 +4292,8 @@ define NRootPRQin [
 ! oyati kaniri 
 | "[=yati][NRoot][=yucca.stem (ES: tallo.de.yuca)]" : {yati}
 | "[=yatzi][NRoot][=stem/cutting.for.planting]" : {yatzi}
-| "[=kaniyatzi+gndr@n.m.][NRoot][=manioc.stem.ready.to.plant (ES: tallo.de.yuca)]" : {kaniyatzi}
-| "[=kaniyatzii+gndr@n.m.][NRoot][=manioc.stem.ready.to.plant (ES: tallo.de.yuca)]" : {kaniyatzii}
+| "[=kaniyatzi+~{N:/'yucca':kaniri/}{L.DEL:ri}{N:/'stem':yatzi/}+gndr@n.m.][NRoot][=manioc.stem.ready.to.plant (ES: tallo.de.yuca)]" : {kaniyatzi}
+| "[=kaniyatzii+~{N:/'yucca':kaniri/}{L.DEL:ri}{N:/'stem':yatzii/}+gndr@n.m.][NRoot][=manioc.stem.ready.to.plant (ES: tallo.de.yuca)]" : {kaniyatzii}
 | "[=vatzi+gndr@n.m.+inal@tsi.][NRoot][=yucca.stem, stem/cutting_of_manioc (ES: estaca/tallo.de.yuca)]" : {vatzi}
 # ----------------------------------------------------------------------------- 
 ! 
