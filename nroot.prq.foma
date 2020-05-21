@@ -2043,10 +2043,6 @@ define NRootPRQin [
 !| "[=ovekaaniri+~{N:/'rainbow':oye/}{N:/'yucca':kaaniri/}+gndr@n.m.][NRoot][=yellow.(manioc|yucca) (ES: sp.de.yuca.amarilla)]" : {ovekaaniri} ! @section:noun@ 
 !| "[=kaavovaniri+~{N:/'sugar-cane':kaaro/}{R.LEN:^k→^v}{N:/'yucca':kaaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {kaavovaniri} ! @section:noun@ 
 !| "[=kamatoyaniri+~{N:/'insect.sp.':kamato/}{R.LEN:^k→^y}{N:/'yucca':kaaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {kamatoyaniri} ! @section:noun@ 
-! kavo / ES: 'coronta'; EN: 'corncob'; QU: 'qurunta'
-! kaho / ES: 'coronta'; EN: 'corncob'; QU: 'qurunta'
-! okajo / okaho / ES: 'coronta'; EN: 'corncob'; QU: 'qurunta'
-! shinkikajo / shinkikaho / ES: 'coronta'; EN: 'corncob'; QU: 'qurunta'
 !| "[=kavovaniri+~{N:/'corncob':kavo/}{R.LEN:^k→^v}{N:/'yucca':kaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {kavovaniri} ! @section:noun@ 
 !| "[=koviriyaniri+~{N:/'corvina-fish':koviri/}{R.LEN:^k→^y}{N:/'yucca':kaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {koviriyaniri} ! @section:noun@ 
 # ---------------------------------------------------------------------
@@ -2258,7 +2254,12 @@ define NRootPRQin [
 | "[=kavi][NRoot][=bunch (ES: racimo); leg.muscle]" : {kavi} ! @VCMP
 # --------------------------------------------------------------------- 
 ! 
+! kavo / ES: 'coronta'; EN: 'corncob'; QU: 'qurunta'
+! kaho / ES: 'coronta'; EN: 'corncob'; QU: 'qurunta'
+! okajo / okaho / ES: 'coronta'; EN: 'corncob'; QU: 'qurunta'
+! shinkikajo / shinkikaho / ES: 'coronta'; EN: 'corncob'; QU: 'qurunta'
 | "[=kavo+gndr@n.m.+inal@tsi.][NRoot][=corn.cob/maize (ES: coronta); tool.handle/shank]" : {kavo}
+| "[=kaho+gndr@n.m.+inal@tsi.][NRoot][=corn.cob/maize (ES: coronta); tool.handle/shank]" : {kaho}
 # --------------------------------------------------------------------- 
 ! 
 | "[=kavoito][NRoot][=white.hawk (sci.nm.: leucopternis.albicollis)]" : {kavoito}
