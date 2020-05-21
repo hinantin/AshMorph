@@ -78,6 +78,7 @@
 # 7: morphophonemics +mrph.phon@LEN:^p→^v. [^...$] start and the end of a lexicon entry 
 #                    +mrph.phon@LEN:^k→^Ø. 
 #                    +mrph.phon@LEN:^k→^y. 
+#                    +mrph.phon@LEN:^k→^v. 
 #                    
 #                    +mrph.phon@DEL:^i→^Ø. 
 #                    +mrph.phon@DEL:^o→^Ø. 
@@ -2027,7 +2028,7 @@ define NRootPRQin [
 | "[=kanarinke+~{'guan':kanari}{CL:/'snake':nke/}+gndr@m.+sem@reptile][NRoot][=venomous.viper.sp. (ES: serpiente; sci.nm.: imantodes.cenchoa.cenchoa)]" : {kanarinke}
 # ---------------------------------------------------------------------
 ! 
-| "[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP @section:noun@ 
+| "[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y;LEN:^k→^v.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaniri} ! N@->V @CMP @section:noun@ 
 | "[=kaaniri+~{N:/'yucca':kaanir/}{nposs:i}+gndr@n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kaaniri} ! @CMP 
 | "[=kanire+~{N:/'yucca':kanir/}{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+~{N:/'yucca':kainir/}{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]" : {kainiri} ! N@->V @CMP 
@@ -2042,6 +2043,7 @@ define NRootPRQin [
 !| "[=ovekaaniri+~{N:/'rainbow':oye/}{N:/'yucca':kaaniri/}+gndr@n.m.][NRoot][=yellow.(manioc|yucca) (ES: sp.de.yuca.amarilla)]" : {ovekaaniri} ! @section:noun@ 
 !| "[=kaavovaniri+~{N:/'sugar-cane':kaaro/}{R.LEN:^k→^v}{N:/'yucca':kaaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {kaavovaniri} ! @section:noun@ 
 !| "[=kamatoyaniri+~{N:/'insect.sp.':kamato/}{R.LEN:^k→^y}{N:/'yucca':kaaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {kamatoyaniri} ! @section:noun@ 
+!| "[=kavovaniri+~{N:/'corncob':kavo/}{R.LEN:^k→^v}{N:/'yucca':kaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {kavovaniri} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=kaniriapashaki+gndr@m.+sem@bird][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
