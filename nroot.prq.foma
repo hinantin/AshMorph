@@ -2047,6 +2047,8 @@ define NRootPRQin [
 !| "[=koviriyaniri+~{N:/'corvina-fish':koviri/}{R.LEN:^k→^y}{N:/'yucca':kaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {koviriyaniri} ! @section:noun@ 
 !| "[=inkiyaniri+~{N:/'peanut':inki/}{R.LEN:^k→^y}{N:/'yucca':kaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {inkiyaniri} ! @section:noun@ 
 !| "[=memeriyaniri+~{N:/'small.green.parrot':memeri/}{R.LEN:^k→^y}{N:/'yucca':kaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {memeriyaniri} ! @section:noun@ 
+!| "[=pamokoyaniri+~{N:/'bejuco':pamoko/}{R.LEN:^k→^y}{N:/'yucca':kaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {pamokoyaniri} ! @section:noun@ 
+!| "[=paryantziyaniri+~{N:/'plantain':paryantzi/}{R.LEN:^k→^y}{N:/'yucca':kaniri/}+gndr@n.m.][NRoot][=(manioc|yucca) (ES: sp.de.yuca)]" : {paryantziyaniri} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=kaniriapashaki+gndr@m.+sem@bird][NRoot][=scale-crested.pygmy-tyrant (sci.nm.: lophotriccus.pileatus)]" : {kaniriapashaki}
@@ -4422,7 +4424,7 @@ define NRootPRQin [
 | "[=pamaki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol); red.fruit (ES: chimiqua, chimicua; sci.nm.: pourouma.minor.benoist)]" : {pamaki}
 # ----------------------------------------------------------------------------- 
 ! 
-| "[=pamoko+gndr@n.m.+poss@ti.+sem@plant][NRoot][=bejuco.sp. (pate); gourd (climbing.plant.that.bears.gourds)]" : {pamoko}
+| "[=pamoko+gndr@n.m.+poss@ti.+sem@plant][NRoot][=bejuco.sp. (ES: pate); gourd (climbing.plant.that.bears.gourds)]" : {pamoko}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=panashinte+gndr@n.m.+sem@plant][NRoot][=sapote-like.tree.sp. (ES: sapote/zapote.silvestre; sci.nm.: matisia.cordata)]" : {panashinte}
