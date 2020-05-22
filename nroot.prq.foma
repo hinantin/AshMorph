@@ -2038,7 +2038,9 @@ define NRootPRQin [
 ! piyanirimashite / pi- =kaniri -mashi -ite / 2poss- =yucca -cl:wide,flat.space -aug / ES: 'tu.yucal' 
 !| "[=kanirimashi+~{N:/'yucca':kaniri/}{CL:/'wide,flat.space':mashi/}][NRoot][=(yucca|manioc).field, manioc.garden (ES: yucal)]" : {kanirimashi} ! @section:noun@ 
 ! pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca'
-! k becomes y when preceded by i, g when preceded by a and v when preceded by o (with one or two exceptions)
+! k becomes y when preceded by i, 
+! k becomes g when preceded by a, 
+! k becomes v when preceded by o (with one or two exceptions)
 !| "[=pochariyaniri+~{N:/'sweet':pochari/}{R.LEN:^k→^y}{N:/'yucca':kaniri/}+gndr@n.m.][NRoot][=sweet.(manioc|yucca)]" : {pochariyaniri} ! @section:noun@ 
 !| "[=oyekaaniri+~{N:/'rainbow':oye/}{N:/'yucca':kaaniri/}+gndr@n.m.][NRoot][=yellow.(manioc|yucca) (ES: sp.de.yuca.amarilla)]" : {oyekaaniri} ! @section:noun@ 
 !| "[=ovekaaniri+~{N:/'rainbow':oye/}{N:/'yucca':kaaniri/}+gndr@n.m.][NRoot][=yellow.(manioc|yucca) (ES: sp.de.yuca.amarilla)]" : {ovekaaniri} ! @section:noun@ 

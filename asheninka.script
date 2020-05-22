@@ -330,8 +330,9 @@ TZEpenthesisRule8
       define PWLenitionRuleCmpNoun1 [ "@PHONPROCCMPNOUN@"p (->) "@PHONPROCCMPNOUN@"v || [{a}] _ [{a}|{i}|{o}] ]; 
       define KWLenitionRuleCmpNoun2 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"v || [{o}] _ [{a}] ]; 
       define KYLenitionRuleCmpNoun3 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"y || [{o}|{i}] _ [{a}] ]; 
+      define KGLenitionRuleCmpNoun4 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"g || [{a}] _ [{a}] ]; 
       
-      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 ];  
+      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 .o. KGLenitionRuleCmpNoun4 ];  
 
       ############################
       #      Noun transducer     #
@@ -361,6 +362,7 @@ TZEpenthesisRule8
 # | V=S=ADJ # nominalization 
 # | V=S=ADJ (PL) # nominalization 
 # | V=S=ADJ (ADV) # nominalization
+
       define PWLenitionRuleIncNoun1 [ "@EP"p (->) "@PHONPROCINCNOUN@"v || [{a}] _ [{a}|{o}] ]; 
       define LenitionIncNoun [ PWLenitionRuleIncNoun1 ];  
 
