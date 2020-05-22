@@ -46,7 +46,7 @@ define NounToVerbPRQin [
 | "[=isha+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]::[=to.be.an.old.woman][^VBZ]" : {isha} ! N@->V::[=to.be.an.old.woman] 
 | "[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)][^VBZ]" : {oteva} ! N@->V 
 | "[=kamari+gndr@m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]::[=to.be.an.evil.spirit][^VBZ]" : {kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
-| "[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][^VBZ]" : {kaniri} ! N@->V @CMP @section:noun@ 
+| "[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y;LEN:^k→^v.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][^VBZ]" : {kaniri} ! N@->V @CMP @section:noun@ 
 | "[=kanire+~{N:/'yucca':kanir/}{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][^VBZ]" : {kanire} ! N@->V @CMP 
 | "[=kainiri+~{N:/'yucca':kainir/}{nposs:i}+gndr@n.m.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][^VBZ]" : {kainiri} ! N@->V @CMP 
 | "[=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap (ES: savia.lechosa.del.árbol), sap][^VBZ]" : {kashi} ! N@->V
