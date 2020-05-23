@@ -329,7 +329,7 @@ TZEpenthesisRule8
       # carapavanco / '' 
       define PWLenitionRuleCmpNoun1 [ "@PHONPROCCMPNOUN@"p (->) "@PHONPROCCMPNOUN@"v || [{a}] _ [{a}|{i}|{o}] ]; 
       define KWLenitionRuleCmpNoun2 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"v || [{o}] _ [{a}] ]; 
-      define KYLenitionRuleCmpNoun3 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"y || [{o}|{i}] _ [{a}] ]; 
+      define KYLenitionRuleCmpNoun3 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"y || [{e}|{i}|{o}] _ [{a}] ]; 
       define KGLenitionRuleCmpNoun4 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"g || [{a}] _ [{a}] ]; 
       
       define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 .o. KGLenitionRuleCmpNoun4 ];  
