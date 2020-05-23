@@ -239,7 +239,7 @@ define NRootESin [
 | "[=Apurimac][NRoot:ES][=Apurimac]" : {Apurimac}
 | "[=vaca][NRoot:ES][=cow]" : {vaaka}
 ! 
-| "[=máquina/maakina][NRoot][=machine]" : {maakina}
+| "[=máquina/maakina][NRoot][=machine]" : {maakina} ! @section:noun@ 
 | "[=máquina/makina][NRoot][=machine]" : {makina}
 ! 
 | "[=naranja/naranka][NRoot][=orange (botany.nm.: citrus.sp.)]" : {naranka}
