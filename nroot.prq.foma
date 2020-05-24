@@ -2485,7 +2485,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 # kipatsi: country, earth, soil, ground, land, dirt, dust 
 | "[=kipatsi+gndr@n.m.+poss@te:ti.+mrph.phon@LEN:^k→^Ø.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa);| mud;| land]" : {kipatsi} ! @section:noun@ 
-| "[=kipatsiki][NRoot][=world (ES: mundo)]" : {kipatsiki}
+| "[=kipatsiki][NRoot][=world (ES: mundo)]" : {kipatsiki} ! @section:noun@ 
 | "[=kipatsini][NRoot][=ground (ES: suelo)]" : {kipatsini}
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
 | "[=kipatsite][NRoot][=territory (ES: territorio)]" : {kipatsite}
@@ -2493,8 +2493,8 @@ define NRootPRQin [
 # la avispa 'kipatsinari' hace su nido excavando en el suelo.
 | "[=kipatsinari+~{N:/'earth':kipatsi/}{CL:/'consumer.of.sth.':nari/}][NRoot][=wasp.sp. (ES: sp.de.avispa; sci.nm.: género.ammophilinae)]" : {kipatsinari}
 ! 
-| "[=kipatsisatzi+~{N:/'earth':kipatsi/}{CL:/'provenance':satzi/}+gndr@m.][NRoot][=(male).underground.dweller]" : {kipatsisatzi}
-| "[=kipatsisato+~{N:/'earth':kipatsi/}{CL:/'provenance':satzi/}+gndr@n.m.][NRoot][=(female).underground.dweller]" : {kipatsisato}
+| "[=kipatsisatzi+~{N:/'earth':kipatsi/}{CL:/'provenance':satzi/}+gndr@m.][NRoot][=(male).underground.dweller]" : {kipatsisatzi} ! @section:noun@ 
+| "[=kipatsisato+~{N:/'earth':kipatsi/}{CL:/'provenance':satzi/}+gndr@n.m.][NRoot][=(female).underground.dweller]" : {kipatsisato} ! @section:noun@ 
 # ---------------------------------------------------------------------------
 ! 
 | "[=oparai+gndr@n.m.][NRoot][=countryside (ES: campo); beach (ES: playa); stretch.of.the.riverbank.that.is.communally.used]" : {oparai}
