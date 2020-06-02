@@ -49,6 +49,7 @@
 #    person's.name -> +sem@NP.person
 #    place.name -> +sem@NP.place
 #    river.name -> +sem@NP.river
+#    ethnic.group -> +sem@NP.ethnic.group
 #    human.body.part -> +sem@b.p.
 #    mammals -> +sem@mammal (bat, dolphin) 
 
@@ -132,7 +133,7 @@ define NRootPRQin [
 | "[=amae+gndr@n.m.+sem@plant][NRoot][=plant.sp., drug (ES: sp.de.planta, droga)]" : {amae} 
 # --------------------------------------------------------------------
 ! 
-| "[=amaisha+sem@NP.person][NRoot][=Yanesha (ES: Peruvian-Amazon.ethnic.group), Amuesha]" : {amaisha} 
+| "[=amaisha+sem@NP.ethnic.group][NRoot][=Yanesha (ES: Peruvian-Amazon.ethnic.group), Amuesha]" : {amaisha} 
 # --------------------------------------------------------------------
 ! 
 | "[=amonya/amoña+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: sp.de.planta)]" : {amonya} ! @section:noun@ 
