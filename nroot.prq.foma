@@ -137,8 +137,8 @@ define NRootPRQin [
 ! 
 | "[=amonya/amoña+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: sp.de.planta)]" : {amonya} ! @section:noun@ 
 ! 
-| "[=amonya/amõya][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : [{amõya}|{amoya}] 
-| "[=amonea][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : {amonea} 
+| "[=amonya/amõya+sem@NP.river][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : [{amõya}|{amoya}] 
+| "[=amonea+sem@NP.river][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : {amonea} 
 # --------------------------------------------------------------------
 ! 
 # ampatentsi / =ampate -ntsi / =left.hand -nposs / EN: 'left.hand'; ES: 'mano.izquierda' 
