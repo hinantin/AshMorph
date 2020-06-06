@@ -47,8 +47,8 @@ while(<STDIN>){
 	{	
 		my ($form, $analysis) = split(/\t/);
 		# determining word class
-		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|Part|VRoot|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
-		print STDERR "$analysis\n";
+		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|VRoot|PostPol|Part|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
+		#print STDERR "$analysis\n";
 		# loan word 
 		my $isNP = 0;
 		if($root eq 'NP'){
@@ -89,24 +89,29 @@ while(<STDIN>){
 		my $isprefix = 1;
 		my $allsuffixes='';
 		my $lem ='';
-		my @prefixtags = ();
-		my @suffixtags = ();
+		my @prefixmorphtags = ();
+		my @suffixmorphtags = ();
 		foreach my $segment (@segments){
-			if ($segment =~ $root) {
+			if ($segment =~ m/$root/) {
 				# extract lemma 
-				$lem = ($segment =~ m/\[([A-Za-zñéóúíáüÑ']+?)/);
+				my ($lemwithtags) = ($segment =~ m/\[=(.+?)\]\[$root/ );
+				if ($lemwithtags =~ m/\+/) { ($lem) = ($lemwithtags =~ m/(.+?)\+/); }
+				else { $lem = $lemwithtags }
+				#print "$lem\n";
 				$isprefix = 0;
 			}
 			elsif ($isprefix) {
 				# extract prefix
-				my $morph =  $segment =~ m/\[(\+.+?)\]/;
-				push @prefixtags, $morph;
+				my ($morph) = ($segment =~ m/.*\[(.+?\+)\]/);
+				#print "$morph***\n";
+				push @prefixmorphtags, $morph;
 				$allprefixes = $allprefixes.$morph;
 			}
 			else {
 				# extract suffix
-				my $morph =  $segment =~ m/(\+.+?)\]/;
-				push @suffixtags, $morph;
+				my ($morph) = ($segment =~ m/\[(\+.+?)\]/);
+				#print "***$morph\n";
+				push @suffixmorphtags, $morph;
 				$allsuffixes = $allsuffixes.$morph;
 			}
 		}
@@ -114,7 +119,7 @@ while(<STDIN>){
 			#$lem = $form;
 			$lem = 'ZZZ';
 		}
-		
+		#print "$allsuffixes\n";
 		##my ($lem) = ($_ =~ m/([A-Za-zñéóúíáüÑ']+?)\[/ ); # extracting the lemma 
 		##$lem = lc($lem); # lower case 
 		##if($lem eq ''){
@@ -144,8 +149,8 @@ while(<STDIN>){
 		#print "$form: $root morphs: @morphtags\n";
 		my %hashAnalysis;
 		$hashAnalysis{'pos'} = $root;
-		$hashAnalysis{'morph'} = \@morphtags;
-		$hashAnalysis{'allmorphs'} = $allmorphs;
+		$hashAnalysis{'morph'} = \@suffixmorphtags;
+		$hashAnalysis{'allmorphs'} = $allsuffixes;
 		$hashAnalysis{'lem'} = $lem;
 		$hashAnalysis{'isNP'} = $isNP;
 		$hashAnalysis{'string'} = $analysis;
