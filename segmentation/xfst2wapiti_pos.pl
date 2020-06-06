@@ -84,7 +84,7 @@ while(<STDIN>){
 		
 		# getting data from analysis 
 		my @segments = split(/\[--\]/);
-		print join(", ", @segments);
+		#print join(", ", @segments);
 		my $allprefixes='';
 		my $isprefix = 1;
 		my $allsuffixes='';
