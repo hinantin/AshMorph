@@ -31,14 +31,15 @@ unless($mode eq '-test' or $mode eq '-train' or !$mode){
 }
 
 my @words;
-my $newWord=1;
+my $newWord=1; # flag indicating a new word 
 my $index=0;
 #my $hasPAS =0;
 my $hasMdirect =0;
 
+# STDIN processes single tokens 
 while(<STDIN>){
 	
-	if (/^$/)
+	if (/^$/) # no token detected 
 	{
 		$newWord=1;
 	}
@@ -47,7 +48,8 @@ while(<STDIN>){
 		my ($form, $analysis) = split(/\t/);
 	
 		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|Part|VRoot|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
-		
+		print STDERR "$analysis\n";
+		# loan word 
 		my $isNP = 0;
 		if($root eq 'NP'){
 			$root = 'NRoot';
@@ -59,10 +61,12 @@ while(<STDIN>){
 #			$hasPAS =1;
 #			#print STDERR "has pas\n";
 #		}
+		# specifically for Quechua  
 		if($analysis =~ /\@mMI/){
 			$hasMdirect =1;
 		}
 		
+		# loan word 
 		if($root =~ /AdvES|PrepES|ConjES/){
 			$root = 'SP';
 			$isNP =1;
@@ -78,8 +82,8 @@ while(<STDIN>){
 			}
 		}
 		
-		my ($lem) = ($_ =~ m/([A-Za-zñéóúíáüÑ']+?)\[/ );
-		$lem = lc($lem);
+		my ($lem) = ($_ =~ m/([A-Za-zñéóúíáüÑ']+?)\[/ ); # extracting the lemma 
+		$lem = lc($lem); # lower case 
 		if($lem eq ''){
 			#$lem = $form;
 			$lem = 'ZZZ';
@@ -159,6 +163,7 @@ if($mode eq '-train'){
   my %xfstwordsPos = %$xfstWordsRefPos;
 }
 
+# specifically for Quechua 
 # check dialectal variations: 
 # -if direct evidential suffix occurs as -m -> delete all analyses of -n as DirE (can only be 3.Sg.Poss or 3.Sg.Subj)
 # -if additive suffix ocurrs as -pas -> delete all analyses of -pis as additive (must be Loc + IndE in this case)
@@ -196,6 +201,7 @@ if($hasMdirect)
 		}
 	}
 }
+
 
 foreach my $word (@words){
 	my $analyses = @$word[1];
@@ -385,7 +391,7 @@ foreach my $word (@words){
 
 print STDERR "forms with ambiguos root pos: $ambigPos\n";
 print STDERR "forms with more than one analysis: $ambigForms\n";
-	store \$ambigForms, 'tmp/totalAmbigForms';
+	store \$ambigForms, '/tmp/totalAmbigForms';
 
 sub isContainedInAllAnalyses{
 	my $analyses = $_[0];
