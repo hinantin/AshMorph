@@ -46,7 +46,7 @@ while(<STDIN>){
 	else
 	{	
 		my ($form, $analysis) = split(/\t/);
-	
+		# determining word class
 		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|Part|VRoot|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
 		print STDERR "$analysis\n";
 		# loan word 
@@ -82,16 +82,49 @@ while(<STDIN>){
 			}
 		}
 		
-		my ($lem) = ($_ =~ m/([A-Za-zñéóúíáüÑ']+?)\[/ ); # extracting the lemma 
-		$lem = lc($lem); # lower case 
+		# getting data from analysis 
+		my @segments = split(/\[--\]/);
+		print join(", ", @segments);
+		my $allprefixes='';
+		my $isprefix = 1;
+		my $allsuffixes='';
+		my $lem ='';
+		my @prefixtags = ();
+		my @suffixtags = ();
+		foreach my $segment (@segments){
+			if ($segment =~ $root) {
+				# extract lemma 
+				$lem = ($segment =~ m/\[([A-Za-zñéóúíáüÑ']+?)/);
+				$isprefix = 0;
+			}
+			elsif ($isprefix) {
+				# extract prefix
+				my $morph =  $segment =~ m/\[(\+.+?)\]/;
+				push @prefixtags, $morph;
+				$allprefixes = $allprefixes.$morph;
+			}
+			else {
+				# extract suffix
+				my $morph =  $segment =~ m/(\+.+?)\]/;
+				push @suffixtags, $morph;
+				$allsuffixes = $allsuffixes.$morph;
+			}
+		}
 		if($lem eq ''){
 			#$lem = $form;
 			$lem = 'ZZZ';
 		}
 		
+		##my ($lem) = ($_ =~ m/([A-Za-zñéóúíáüÑ']+?)\[/ ); # extracting the lemma 
+		##$lem = lc($lem); # lower case 
+		##if($lem eq ''){
+		##	#$lem = $form;
+		##	$lem = 'ZZZ';
+		##}
+		
 		#print STDERR "$lem\n";
 		
-		my @morphtags =  $analysis =~ m/(\+.+?)\]/g ;
+		##my @morphtags =  $analysis =~ m/(\+.+?)\]/g ;
 		# simplify tags
 #		for (my $i=0;$i<scalar(@morphtags);$i++){
 #			my $tag = @morphtags[$i];
@@ -103,11 +136,11 @@ while(<STDIN>){
 #			}
 #		}
 		
-		my $allmorphs='';
-		foreach my $morph (@morphtags){
-			$allmorphs = $allmorphs.$morph;
-		}
-	
+		##my $allmorphs='';
+		##foreach my $morph (@morphtags){
+		##	$allmorphs = $allmorphs.$morph;
+		##}
+		
 		#print "$form: $root morphs: @morphtags\n";
 		my %hashAnalysis;
 		$hashAnalysis{'pos'} = $root;
