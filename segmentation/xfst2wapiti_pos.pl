@@ -38,7 +38,11 @@ my $hasMdirect =0;
 
 # STDIN processes single tokens 
 while(<STDIN>){
-	
+	if (/\?\?\?/)
+	{
+		# move on to the next loop element
+		next;
+	}
 	if (/^$/) # no token detected 
 	{
 		$newWord=1;
@@ -193,11 +197,11 @@ my $xfstWordsRefPos;
 my %xfstwordsPos;
 
 if($mode eq '-train'){
-  my $xfstWordsRefLem = retrieve($path.'/../PossibleLemmasForTrain');
+  my $xfstWordsRefLem = retrieve($path.'/PossibleLemmasForTrain');
   my %xfstwordsLem = %$xfstWordsRefLem;
-  my $xfstWordsRefMorph = retrieve($path.'/../PossibleMorphsForTrain');
+  my $xfstWordsRefMorph = retrieve($path.'/PossibleMorphsForTrain');
   my %xfstwordsMorph = %$xfstWordsRefMorph;
-  my $xfstWordsRefPos = retrieve($path.'/../PossibleRootsForTrain');
+  my $xfstWordsRefPos = retrieve($path.'/PossibleRootsForTrain');
   my %xfstwordsPos = %$xfstWordsRefPos;
 }
 
