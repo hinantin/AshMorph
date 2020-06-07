@@ -9,7 +9,7 @@ set -x
 export ASHANINKAMORPH_DIR=/home/hinantin/ashaninka/AshaninkaMorph
 
 #export WAPITI=/home/richard/Downloads/01_Instaladores/wapiti/wapiti-1.5.0/wapiti
-export WAPITI=/home/hinantin/ashaninka/Wapiti
+export WAPITI=/home/hinantin/ashaninka/Wapiti/wapiti
 export WAPITI_DIR=/home/hinantin/ashaninka/Wapiti
 export TMP_DIR=/tmp
 export SEGMENTER=/home/hinantin/ashaninka/AshaninkaMorph/segmentation
