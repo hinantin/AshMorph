@@ -48,7 +48,7 @@ while(<STDIN>){
 		$newWord=1;
 	}
 	else
-	{	
+	{
 		my ($form, $analysis) = split(/\t/);
 		# determining word class
 		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|VRoot|PostPol|Part|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
@@ -119,6 +119,7 @@ while(<STDIN>){
 				$allsuffixes = $allsuffixes.$morph;
 			}
 		}
+		$lem = lc($lem);
 		if($lem eq ''){
 			#$lem = $form;
 			$lem = 'ZZZ';

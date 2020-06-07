@@ -72,17 +72,39 @@ if($mode eq '-1')
 				}
 			}
 			
-			my @morphtags =  $analysis =~ m/(\+.+?)\]/g ;
-			
-			my $allmorphs='';
-			foreach my $morph (@morphtags){
-				$allmorphs = $allmorphs.$morph;
+		# getting data from analysis 
+		my @segments = split(/\[--\]/);
+		#print join(", ", @segments);
+		my $allprefixes='';
+		my $isprefix = 1;
+		my $allsuffixes='';
+		my $lem ='';
+		my @prefixmorphtags = ();
+		my @suffixmorphtags = ();
+		foreach my $segment (@segments){
+			if ($segment =~ m/$root/) {
+				# extract lemma 
+				my ($lemwithtags) = ($segment =~ m/\[=(.+?)\]\[$root/ );
+				if ($lemwithtags =~ m/\+/) { ($lem) = ($lemwithtags =~ m/(.+?)\+/); }
+				else { $lem = $lemwithtags }
+				#print "$lem\n";
+				$isprefix = 0;
 			}
-		
-			#print "allmorphs: $allmorphs\n";
-			#print "morphs: @morphtags\n\n";
-			
-			my ($lem) = ($_ =~ m/([A-Za-zñéóúíáüÑ']+?)\[/ );
+			elsif ($isprefix) {
+				# extract prefix
+				my ($morph) = ($segment =~ m/.*\[(.+?\+)\]/);
+				#print "$morph***\n";
+				push @prefixmorphtags, $morph;
+				$allprefixes = $allprefixes.$morph;
+			}
+			else {
+				# extract suffix
+				my ($morph) = ($segment =~ m/\[(\+.+?)\]/);
+				#print "***$morph\n";
+				push @suffixmorphtags, $morph;
+				$allsuffixes = $allsuffixes.$morph;
+			}
+		}
 			$lem = lc($lem);
 			if($lem eq ''){
 				#$lem = $form;
@@ -92,10 +114,10 @@ if($mode eq '-1')
 			#print "$form: $root morphs: @morphtags\n";
 			my %hashAnalysis;
 			$hashAnalysis{'pos'} = $pos;
-			$hashAnalysis{'morph'} = \@morphtags;
+			$hashAnalysis{'morph'} = \@suffixmorphtags;
 			$hashAnalysis{'string'} = $_;
 			$hashAnalysis{'root'} = $root;
-	    	$hashAnalysis{'allmorphs'} = $allmorphs;
+	    	$hashAnalysis{'allmorphs'} = $allsuffixes;
 	    	$hashAnalysis{'lem'} = $lem;
 	    
 			if($newWord)
@@ -113,7 +135,6 @@ if($mode eq '-1')
 			}
 			$newWord=0;	
 	 }
-		
 	}
 	close XFST;
 	my $disambiguatedForms=0;
@@ -220,7 +241,7 @@ if($mode eq '-1')
 		}
 	}
 	#print "prev: $disambiguatedForms\n";
-	store \$disambiguatedForms, '/home/richard/Documents/squoia/parsing/tmp/prevdisambMorph1';
+	store \$disambiguatedForms, '/tmp/prevdisambMorph1';
 
 	# @word: 0: form, 1:@analyses, 2:@possibleClasses, 3:correctClass, 4: amb
 	# get NS / VS ambiguities
@@ -345,7 +366,7 @@ if($mode eq '-1')
 		
 	}
 	# store @words to disk
-	store \@words, '/home/richard/Documents/squoia/parsing/tmp/words1';
+	store \@words, '/tmp/words1';
 #	store \@ambWords, 'ambWords';
 	printCrf(\@words);
 	
@@ -355,7 +376,7 @@ if($mode eq '-2')
 {
 	# @word: 0: form, 1:@analyses, 2:@possibleClasses, 3: amb
 	#retrieve words from disk
-	my $wordsref = retrieve('/home/richard/Documents/squoia/parsing/tmp/words1');
+	my $wordsref = retrieve('/tmp/words1');
 	@words = @$wordsref;
 	
 	# disambiguate with crf file
@@ -862,7 +883,7 @@ sub disambMorph1{
 	}
 
 	# retrieve number of previously disambiguated forms ('rule' based, e.g +Dist/+Term, chiqan/chiqa etc.)
-	my $prevdisamb = retrieve('/home/richard/Documents/squoia/parsing/tmp/prevdisambMorph1');
+	my $prevdisamb = retrieve('/tmp/prevdisambMorph1');
 	#print "prev $$prevdisamb\n";
 	
 	# for testing: print xfst to STDERR
@@ -1038,7 +1059,7 @@ sub disambMorph2{
 		}
 	}
 	# retrieve number of previously disambiguated forms ('rule' based, e.g +Dist/+Term, chiqan/chiqa etc.)
-	my $prevdisamb = retrieve('/home/richard/Documents/squoia/parsing/tmp/prevdisambMorph1');
+	my $prevdisamb = retrieve('/tmp/prevdisambMorph1');
 	#print "prev $$prevdisamb\n";
 	
 	# for testing: print xfst to STDERR
@@ -1195,7 +1216,7 @@ sub disambMorph3{
 		}
 	}
 	# retrieve number of previously disambiguated forms ('rule' based, e.g +Dist/+Term, chiqan/chiqa etc.)
-	my $prevdisamb = retrieve('/home/richard/Documents/squoia/parsing/tmp/prevdisambMorph1');
+	my $prevdisamb = retrieve('/tmp/prevdisambMorph1');
 	#print "prev $$prevdisamb\n";	
 	#print xfst to STDOUT
 	#&printXFST(\@words);
