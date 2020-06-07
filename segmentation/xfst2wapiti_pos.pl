@@ -53,6 +53,7 @@ while(<STDIN>){
 		# determining word class
 		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|VRoot|PostPol|Part|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
 		#print STDERR "$analysis\n";
+		$root =~ s/\?/\\?/ig;
 		# loan word 
 		my $isNP = 0;
 		if($root eq 'NP'){
