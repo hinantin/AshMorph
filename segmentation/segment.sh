@@ -15,7 +15,7 @@ export TMP_DIR=/tmp
 export SEGMENTER=/home/hinantin/ashaninka/AshaninkaMorph/segmentation
 
 ## Models to disambiguate words
-MORPH1_MODEL=$SEGMENTER/models/morph1.model
+MORPH1_MODEL=$SEGMENTER/models/pan-ashaninka.model
 MORPH2_MODEL=$SEGMENTER/models/morph2.model
 MORPH3_MODEL=$SEGMENTER/models/morph3.model
 MORPH4_MODEL=$SEGMENTER/models/morph4.model
@@ -35,9 +35,9 @@ cat $TMP_DIR/$RAW_FILE.tok | /usr/bin/perl $ASHANINKAMORPH_DIR/tokenize.pl | /us
 # (2) CRF before|after
 ###cat $TMP_DIR/$filename_no_ext.test.xfst | perl $SEGMENTER/cleanGuessedRoots.pl -$EVID -$PISPAS > $TMP_DIR/$TMPFILENAME.test_clean.xfst
 #cat $TMP_DIR/$TMPFILENAME.test_clean.xfst | perl $SEGMENTER/xfst2wapiti_pos.pl -test > $TMP_DIR/$TMPFILENAME.pos.test
-cat $TMP_DIR/$filename_no_ext.test.xfst | /usr/bin/perl $SEGMENTER/xfst2wapiti_pos.pl -test #> $TMP_DIR/$TMPFILENAME.pos.test
+cat $TMP_DIR/$filename_no_ext.test.xfst | /usr/bin/perl $SEGMENTER/xfst2wapiti_pos.pl -test > $TMP_DIR/$TMPFILENAME.pos.test
 
-###$WAPITI label -m $MORPH1_MODEL $TMP_DIR/$TMPFILENAME.pos.test > $TMP_DIR/$TMPFILENAME.morph1.result
+$WAPITI label -m $MORPH1_MODEL $TMP_DIR/$TMPFILENAME.pos.test #> $TMP_DIR/$TMPFILENAME.morph1.result
 
 ###perl $PARSER/disambiguateRoots.pl $TMP_DIR/$TMPFILENAME.morph1.result $TMP_DIR/$TMPFILENAME.test_clean.xfst > $TMP_DIR/$TMPFILENAME.morph1.disamb
 
