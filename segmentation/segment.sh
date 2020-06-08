@@ -6,13 +6,13 @@ set -x
 ########################################################
 
 # path to the compiled xfst analyzers, either from the git repository, or the package AshaninkaMorph from https://github.com/hinantin/AshaninkaMorph
-export ASHANINKAMORPH_DIR=/home/hinantin/ashaninka/AshaninkaMorph
+export ASHANINKAMORPH_DIR=/home/ubuntu/hinantin/AshaninkaMorph
 
 #export WAPITI=/home/richard/Downloads/01_Instaladores/wapiti/wapiti-1.5.0/wapiti
-export WAPITI=/home/hinantin/ashaninka/Wapiti/wapiti
-export WAPITI_DIR=/home/hinantin/ashaninka/Wapiti
+export WAPITI=/home/ubuntu/hinantin/Wapiti/wapiti
+export LOOKUP_DIR=/home/ubuntu/hinantin/bin
 export TMP_DIR=/tmp
-export SEGMENTER=/home/hinantin/ashaninka/AshaninkaMorph/segmentation
+export SEGMENTER=/home/ubuntu/hinantin/AshaninkaMorph/segmentation
 
 ## Models to disambiguate words
 MORPH1_MODEL=$SEGMENTER/models/pan-ashaninka.model
@@ -30,7 +30,7 @@ TMPFILENAME=TMPNM$filename_no_ext
 
 # (1) XFST 
 /usr/bin/perl /home/hinantin/ashaninka/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en < $RAW_FILE > $TMP_DIR/$RAW_FILE.tok
-cat $TMP_DIR/$RAW_FILE.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | /usr/bin/lookup /usr/share/hinantin/asheninka.xfst.bin -flags cKv29TT > $TMP_DIR/$filename_no_ext.test.xfst
+cat $TMP_DIR/$RAW_FILE.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/lookup $ASHANINKAMORPH_DIR/asheninka.bin -flags cKv29TT > $TMP_DIR/$filename_no_ext.test.xfst
 
 # (2) CRF before|after
 ###cat $TMP_DIR/$filename_no_ext.test.xfst | perl $SEGMENTER/cleanGuessedRoots.pl -$EVID -$PISPAS > $TMP_DIR/$TMPFILENAME.test_clean.xfst
