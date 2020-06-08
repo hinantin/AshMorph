@@ -101,9 +101,10 @@ while(<STDIN>){
 				push @allsegments, lc($morph);
 			}
 		}
-		my $segmentedword = join '@@', @allsegments;
-	}
-	if ($newWord) {
-		print "$segmentedword\n";
+		$segmentedword = join '@@', @allsegments;
+		if ($newWord) {
+			print "$segmentedword ";
+			$newWord = 0;
+		}
 	}
 }
