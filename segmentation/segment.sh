@@ -13,7 +13,7 @@ export WAPITI=/home/ubuntu/hinantin/Wapiti/wapiti
 export LOOKUP_DIR=/home/ubuntu/hinantin/bin
 export TMP_DIR=/tmp
 export SEGMENTER=/home/ubuntu/hinantin/AshaninkaMorph/segmentation
-
+export MOSES=/home/ubuntu/hinantin/mosesdecoder
 ## Models to disambiguate words
 MORPH1_MODEL=$SEGMENTER/models/pan-ashaninka.model
 MORPH2_MODEL=$SEGMENTER/models/pan-ashaninka.model2
@@ -29,7 +29,7 @@ TMPFILENAME=TMPNM$filename_no_ext
 #echo "filename is $filename_no_ext"
 
 # (1) XFST 
-/usr/bin/perl /home/hinantin/ashaninka/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en < $RAW_FILE > $TMP_DIR/$RAW_FILE.tok
+/usr/bin/perl $MOSES/scripts/tokenizer/tokenizer.perl -l en < $RAW_FILE > $TMP_DIR/$RAW_FILE.tok
 cat $TMP_DIR/$RAW_FILE.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/lookup $ASHANINKAMORPH_DIR/asheninka.bin -flags cKv29TT > $TMP_DIR/$filename_no_ext.test.xfst
 
 # (2) CRF before|after
