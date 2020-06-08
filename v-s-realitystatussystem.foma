@@ -126,15 +126,15 @@ define V=S=IRR [
 # antibatatiyempa / ES: '(ella).se.va.a.tropezar'
 # notsitinkatiyempa / ES: 'me.voy.a.tropezar'
 # nantibatatiyempa / ES: 'me.voy.a.tropezar'
-| "[--][-eNpa~yempa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yempa}]
-| "[--][-eNpa~yema+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yema}] ! shortened form ?
-| "[--][-eNpa~yea+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yea}] ! shortened form ? \cite[pag. 13]{mihas:rflx:rzpr:17}
+| "[--][-yempa+allomorph@eNpa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yempa}]
+| "[--][-yema+allomorph@eNpa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yema}] ! shortened form ?
+| "[--][-yea+allomorph@eNpa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yea}] ! shortened form ? \cite[pag. 13]{mihas:rflx:rzpr:17}
 # -------------------------------------------
 !| "[--][-a+tns@fut.][MODALITY][+IRR]" : "@EP"[{a}]
-!| "[--][-a~aa+tns@fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
+!| "[--][-aa+allomorph@a.+tns@fut.][MODALITY][+IRR]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
-| "[--][-e~i+tns@fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{i}]
-| "[--][-e~ii+tns@fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
+| "[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{i}]
+| "[--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
 # -------------------------------------------
 | "[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
 | "[--][-ia~ya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ya}]
