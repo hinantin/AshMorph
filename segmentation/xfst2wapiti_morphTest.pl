@@ -464,7 +464,7 @@ if($mode eq '-2')
 		
 	}
 	# store @words to disk
-	store \@words, '/home/richard/Documents/squoia/parsing/tmp/words2';
+	store \@words, '/tmp/words2';
 	&printCrf(\@words);
 	#&printXFST(\@words);
 }
@@ -473,7 +473,7 @@ if($mode eq '-3')
 {	
 	# @word: 0: form, 1:@analyses, 2:@possibleClasses, 3:correctClass, 4: amb 5: hasEvidential, 6: previousHasGenitive
 	#retrieve words from disk
-	my $wordsref = retrieve('/home/richard/Documents/squoia/parsing/tmp/words2');
+	my $wordsref = retrieve('/tmp/words2');
 	@words = @$wordsref;
 	
 	# disambiguate with crf file
@@ -569,7 +569,7 @@ if($mode eq '-3')
 #		}
 	}
 	# store @words to disk
-	store \@words, '/home/richard/Documents/squoia/parsing/tmp/words3';
+	store \@words, '/tmp/words3';
 	printCrf(\@words);
 	#&printXFST(\@words);
 	
@@ -579,7 +579,7 @@ if($mode eq '-4')
 {	
 	# @word: 0: form, 1:@analyses, 2:@possibleClasses, 3:correctClass, 4: amb
 	#retrieve words from disk
-	my $wordsref = retrieve('/home/richard/Documents/squoia/parsing/tmp/words3');
+	my $wordsref = retrieve('/tmp/words3');
 	@words = @$wordsref;
 	
 	# disambiguate with crf file
