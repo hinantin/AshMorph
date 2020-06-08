@@ -106,9 +106,9 @@ define V=S=IRR [
 # -mpaa: estado/acción.imcompletos \cite[pag. 465]{kindberg:diccionario:80}
 # onkentantapempariri 
 # nonijaapempari. / nonihaapempari. / n- =oniha -ap -empa =ri / ES: 'Voy.a.mostrarte.'
-| "[--][-eNpa~empa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empa}]
-| "[--][-eNpa~empaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empaa}]
-| "[--][-eNpa~eempa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eempa}]
+| "[--][-empa+allomorph@eNpa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empa}]
+| "[--][-empaa+allomorph@eNpa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{empaa}]
+| "[--][-eempa+allomorph@eNpa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eempa}]
 # naabakaatiyempa / ES: 'me.voy.a.casar'
 # naabakaatiyema / ES: 'me.voy.a.casar'
 # nokibanaajitatiyempa / ES: 'voy.a.lavarme.los.dientes'
