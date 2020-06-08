@@ -20,4 +20,11 @@ $ cd AshaninkaMorph/segmentation/
 $ vi segment.sh
 % CHANGE THE PATHS ACCORDINGLY 
 % /home/ubuntu/hinantin/AshaninkaMorph/
+% For example 
+export ASHANINKAMORPH_DIR=/home/ubuntu/hinantin/AshaninkaMorph
+export WAPITI=/home/ubuntu/hinantin/Wapiti/wapiti
+export WAPITI_DIR=/home/ubuntu/hinantin/Wapiti
+export TMP_DIR=/tmp
+export SEGMENTER=/home/ubuntu/hinantin/AshaninkaMorph/segmentation
+
 ```
