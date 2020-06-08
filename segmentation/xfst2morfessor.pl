@@ -16,7 +16,7 @@ my $newWord=1; # flag indicating a new word
 my $index=0;
 #my $hasPAS =0;
 my $hasMdirect =0;
-
+my $segmentedword = "";
 # STDIN processes single tokens 
 while(<STDIN>){
 	if (/\?\?\?/)
@@ -101,7 +101,9 @@ while(<STDIN>){
 				push @allsegments, lc($morph);
 			}
 		}
-		my $str = join '@@', @allsegments;
-		print "$str\n";
+		my $segmentedword = join '@@', @allsegments;
+	}
+	if ($newWord) {
+		print "$segmentedword\n";
 	}
 }
