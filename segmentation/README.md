@@ -23,7 +23,7 @@ $ vi segment.sh
 % For example 
 export ASHANINKAMORPH_DIR=/home/ubuntu/hinantin/AshaninkaMorph
 export WAPITI=/home/ubuntu/hinantin/Wapiti/wapiti
-export WAPITI_DIR=/home/ubuntu/hinantin/Wapiti
+export LOOKUP_DIR=/home/ubuntu/hinantin/bin
 export TMP_DIR=/tmp
 export SEGMENTER=/home/ubuntu/hinantin/AshaninkaMorph/segmentation
 
