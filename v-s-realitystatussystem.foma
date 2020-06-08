@@ -137,9 +137,9 @@ define V=S=IRR [
 | "[--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ii}] ! to be checked 
 # -------------------------------------------
 | "[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
-| "[--][-ia~ya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ya}]
-| "[--][-ia~yaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yaa}]
-| "[--][-ia~ea+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17} \cite[pag. 465]{kindberg:diccionario:80}
+| "[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ya}]
+| "[--][-yaa+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yaa}]
+| "[--][-ea+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ea}] ! \cite[pag. 3]{mihas:rflx:rzpr:17} \cite[pag. 465]{kindberg:diccionario:80}
 ];
 
 # -------------------------------------------
@@ -150,8 +150,8 @@ define V=S=IRR [
 define V=S=IRRRFL [
   "[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
-| "[--][-ia~iya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{iya}]
-| "[--][-ia~eya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eya}]
+| "[--][-iya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{iya}]
+| "[--][-eya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eya}]
 ];
 
 # -------------------------------------------
@@ -161,11 +161,11 @@ define V=S=IRRRFL [
 
 define V=S=IRRCPB [
 ! tya ~ txa , tyaa ~ txaa 
-  "[--][-ya~xa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xa}]
-| "[--][-yaa~xaa+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xaa}]
+  "[--][-xa+allomorph@ya.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xa}]
+| "[--][-xaa+allomorph@yaa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xaa}]
 ! tye ~ txe , tyee ~ txee 
-| "[--][-ye~xe+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xe}]
-| "[--][-yee~xee+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xee}]
+| "[--][-xe+allomorph@ye.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xe}]
+| "[--][-xee+allomorph@yee.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : [{xee}]
 ];
 # -------------------------------------------
                    
