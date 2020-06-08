@@ -39,8 +39,8 @@ define V=S=REAL [
 | "[--][-aa+allomorph@a.+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]" : "@EP"[{aa}] ! not preceded by -a 
 # -------------------------------------------
 !| "[--][-ia+tns@n.fut.][MODALITY][+REAL]" : "@EP"[{ia}] ! to be checked 
-!| "[--][-ia~ya+tns@n.fut.][MODALITY][+REAL]" : "@EP"[{ya}] ! to be checked 
-!| "[--][-ia~yaa+tns@n.fut.][MODALITY][+REAL]" : "@EP"[{yaa}] ! to be checked 
+!| "[--][-ya+allomorph@ia.+tns@n.fut.][MODALITY][+REAL]" : "@EP"[{ya}] ! to be checked 
+!| "[--][-yaa+allomorph@ia.+tns@n.fut.][MODALITY][+REAL]" : "@EP"[{yaa}] ! to be checked 
 ];
 
 # -------------------------------------------
