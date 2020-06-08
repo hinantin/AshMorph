@@ -27,4 +27,6 @@ export WAPITI_DIR=/home/ubuntu/hinantin/Wapiti
 export TMP_DIR=/tmp
 export SEGMENTER=/home/ubuntu/hinantin/AshaninkaMorph/segmentation
 
+% TESTING 
+$ bash segment.sh input-file 
 ```
