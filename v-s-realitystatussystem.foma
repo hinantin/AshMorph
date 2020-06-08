@@ -99,9 +99,9 @@ define V=S=REALRFL [
 
 define V=S=IRR [
   "[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{e}]
-| "[--][-e~ee+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ee}]
-| "[--][-e~ye+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ye}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
-| "[--][-e~yi+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yi}]
+| "[--][-ee+allomorph@e.+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ee}]
+| "[--][-ye+allomorph@e.+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ye}] ! \cite[pag. 3]{mihas:rflx:rzpr:17}
+| "[--][-yi+allomorph@e.+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{yi}]
 # -------------------------------------------
 # -mpaa: estado/acción.imcompletos \cite[pag. 465]{kindberg:diccionario:80}
 # onkentantapempariri 
