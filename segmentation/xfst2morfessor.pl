@@ -32,7 +32,7 @@ while(<STDIN>){
 	{
 		my ($form, $analysis) = split(/\t/);
 		# determining word class
-		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|VRoot|PostPol|Part|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
+		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|VRoot|PostPol|\$|Part|PrnDem|PrnInterr|PrnPers|SP|AdvES|PrepES|ConjES)/ ;
 		#print STDERR "$analysis\n";
 		$root =~ s/\?/\\?/ig;
 		# loan word 
@@ -69,7 +69,7 @@ while(<STDIN>){
 		}
 		
 		# getting data from analysis 
-		my @segments = split(/\[--\]/);
+		my @segments = split(/\[--\]/, $analysis);
 		#print join(", ", @segments);
 		my $allprefixes='';
 		my $isprefix = 1;
@@ -103,8 +103,10 @@ while(<STDIN>){
 		}
 		$segmentedword = join '@@', @allsegments;
 		if ($newWord) {
-			print "$segmentedword ";
+			if (scalar(@segments) gt 1) { print "$segmentedword "; }
+			else { print "$form "; }
 			$newWord = 0;
+			#print $form."\n";
 		}
 	}
 }

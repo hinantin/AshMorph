@@ -30,7 +30,7 @@ TMPFILENAME=TMPNM$filename_no_ext
 
 # (1) XFST 
 /usr/bin/perl /home/hinantin/ashaninka/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en < $RAW_FILE > $TMP_DIR/$RAW_FILE.tok
-cat $TMP_DIR/$RAW_FILE.tok | /usr/bin/perl $ASHANINKAMORPH_DIR/tokenize.pl | /usr/bin/lookup /usr/share/hinantin/asheninka.xfst.bin -flags cKv29TT > $TMP_DIR/$filename_no_ext.test.xfst
+cat $TMP_DIR/$RAW_FILE.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | /usr/bin/lookup /usr/share/hinantin/asheninka.xfst.bin -flags cKv29TT > $TMP_DIR/$filename_no_ext.test.xfst
 
 # (2) CRF before|after
 ###cat $TMP_DIR/$filename_no_ext.test.xfst | perl $SEGMENTER/cleanGuessedRoots.pl -$EVID -$PISPAS > $TMP_DIR/$TMPFILENAME.test_clean.xfst
