@@ -58,5 +58,5 @@ $WAPITI label -m $MORPH4_MODEL $TMP_DIR/$TMPFILENAME.morph4.test > $TMP_DIR/$TMP
 
 # (3) Morfessor before|after
 # convert xfst to morfessor
-cat $TMP_DIR/$filename_no_ext.disamb.xfst | perl $SEGMENTER/xfst2morfessor.pl ##> $TMP_DIR/$filename_no_ext.morfessor
+cat $TMP_DIR/$filename_no_ext.disamb.xfst | /usr/bin/perl $SEGMENTER/xfst2morfessor.pl ##> $TMP_DIR/$filename_no_ext.morfessor
 
