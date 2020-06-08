@@ -7,8 +7,6 @@ set -x
 
 # path to the compiled xfst analyzers, either from the git repository, or the package AshaninkaMorph from https://github.com/hinantin/AshaninkaMorph
 export ASHANINKAMORPH_DIR=/home/ubuntu/hinantin/AshaninkaMorph
-
-#export WAPITI=/home/richard/Downloads/01_Instaladores/wapiti/wapiti-1.5.0/wapiti
 export WAPITI=/home/ubuntu/hinantin/Wapiti/wapiti
 export LOOKUP_DIR=/home/ubuntu/hinantin/bin
 export TMP_DIR=/tmp
