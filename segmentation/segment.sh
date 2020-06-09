@@ -6,12 +6,12 @@ set -x
 ########################################################
 
 # path to the compiled xfst analyzers, either from the git repository, or the package AshaninkaMorph from https://github.com/hinantin/AshaninkaMorph
-export ASHANINKAMORPH_DIR=/home/ubuntu/hinantin/AshaninkaMorph
-export WAPITI=/home/ubuntu/hinantin/Wapiti/wapiti
-export LOOKUP_DIR=/home/ubuntu/hinantin/bin
+export ASHANINKAMORPH_DIR=/home/hinantin/ashaninka/AshaninkaMorph
+export WAPITI=/home/hinantin/ashaninka/Wapiti/wapiti
+export LOOKUP_DIR=/usr/bin
 export TMP_DIR=/tmp
-export SEGMENTER=/home/ubuntu/hinantin/AshaninkaMorph/segmentation
-export MOSES=/home/ubuntu/hinantin/mosesdecoder
+export SEGMENTER=/home/hinantin/ashaninka/AshaninkaMorph/segmentation
+export MOSES=/home/hinantin/ashaninka/mosesdecoder
 ## Models to disambiguate words
 MORPH1_MODEL=$SEGMENTER/models/pan-ashaninka.model
 MORPH2_MODEL=$SEGMENTER/models/pan-ashaninka.model2
