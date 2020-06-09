@@ -5,13 +5,13 @@
 define V=S=NMZ=SET1 [ # revise!
 # ----------------------------------
 # followed by -ntsi 
-  "[--][-ro+n.m.][NS][+NMZ]" : "@EP"[{ro}]"@NMZ@" 
-| "[--][-vo+n.m.][NS][+NMZ]" : "@EP"[{vo}]"@NMZ@" 
-| "[--][-ri+m.][NS][+NMZ]" : "@EP"[{ri}]"@NMZ@" 
-| "[--][-re+m.][NS][+NMZ]" : "@EP"[{re}]"@NMZ@" 
-#| "[--][-re+m.][NS][+NMZ]" : "@EP"[{re}]"@NMZ@" 
+  "[--][-ro+gndr@n.m.][NS][+NMZ]" : "@EP"[{ro}]"@NMZ@" 
+| "[--][-vo+gndr@n.m.][NS][+NMZ]" : "@EP"[{vo}]"@NMZ@" 
+| "[--][-ri+gndr@m.][NS][+NMZ]" : "@EP"[{ri}]"@NMZ@" 
+| "[--][-re+gndr@m.][NS][+NMZ]" : "@EP"[{re}]"@NMZ@" 
+#| "[--][-re+gndr@m.][NS][+NMZ]" : "@EP"[{re}]"@NMZ@" 
 # ----------------------------------
-#| "[--][-ri+m.][NS][+NMZ]" : "@EP"[{ri}] 
+#| "[--][-ri+gndr@m.][NS][+NMZ]" : "@EP"[{ri}] 
 ! 
 # followed by none 
 # QLTY quality 
@@ -23,8 +23,8 @@ define V=S=NMZ=SET1 [ # revise!
 ! 
 #| "[--][-ntsi][NS][+NMZ]" : "@EP"[{ntsi}] # this is not a nominalizing suffix 
 # followed by -tsi 
-| "[--][-mento+n.m.][NS][+NMZ.CONCR]" : "@EP"[{mento}]"@NMZ@"
-| "[--][-minto+n.m.][NS][+NMZ.CONCR]" : "@EP"[{minto}]"@NMZ@"
+| "[--][-mento+gndr@n.m.][NS][+NMZ.CONCR]" : "@EP"[{mento}]"@NMZ@"
+| "[--][-minto+gndr@n.m.][NS][+NMZ.CONCR]" : "@EP"[{minto}]"@NMZ@"
 ];
 
 # -------------------------------------
