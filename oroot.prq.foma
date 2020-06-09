@@ -94,14 +94,14 @@ define ORootPRQin [
 # 
 # [..] ora nampitsipe amazónicos jeri sharakasatipe [..] / ora nampitsipe amazónicos heri sharakasatipe / =ora =nampi+n.m. -tsi -pe =amazónico+AQ0MP00 =heri+m. =sharaka -sati+m. -pe / =that =country -nposs -pl =Amazonian =det =snow -cl:provenance -pl / EN: 'Amazonian.and.Andean.people'; ES: 'los.pueblos.amazónicos.y.andinos'  
 # [..] nampitsipe Amazónica, jero sharakasatope [..] / nampitsipe Amazónica, hero sharakasatope / =nampi+n.m. -tsi -pe =amazónico+AQ0FS00 =hero+n.m. =sharaka -sato+n.m. -pe / =country -nposs -pl =Amazonian =det =snow -cl:provenance -pl / EN: 'Amazonian.and.Andean.people'; ES: 'los.pueblos.amazónicos.y.andinos'   
-| "[=hero+n.m.][DetRoot][=DEM.ID][=here.you.are]" : {hero} 
-| "[=hero+n.m.][DetRoot][=DEM.ID][=here.you.are][--][-ka+proximal][Adv][+DEM]" : {heroka} 
-| "[=hero+n.m.][DetRoot][=DEM.ID][=here.you.are][--][-ra+medial][Adv][+DEM]" : {herora} 
-| "[=hero+n.m.][DetRoot][=DEM.ID][=here.you.are][--][-nta+distal][Adv][+DEM]" : {heronta} 
-| "[=heri+m.][DetRoot][=DEM.ID][=here.you.are]" : {heri} 
-| "[=heri+m.][DetRoot][=DEM.ID][=here.you.are][--][-ka+proximal][Adv][+DEM]" : {herika} 
-| "[=heri+m.][DetRoot][=DEM.ID][=here.you.are][--][-ra+medial][Adv][+DEM]" : {herira} 
-| "[=heri+m.][DetRoot][=DEM.ID][=here.you.are][--][-nta+distal][Adv][+DEM]" : {herinta} 
+| "[=hero+gndr@n.m.][DetRoot][=DEM.ID][=here.you.are]" : {hero} 
+| "[=hero+gndr@n.m.][DetRoot][=DEM.ID][=here.you.are][--][-ka+proximal][Adv][+DEM]" : {heroka} 
+| "[=hero+gndr@n.m.][DetRoot][=DEM.ID][=here.you.are][--][-ra+medial][Adv][+DEM]" : {herora} 
+| "[=hero+gndr@n.m.][DetRoot][=DEM.ID][=here.you.are][--][-nta+distal][Adv][+DEM]" : {heronta} 
+| "[=heri+gndr@m.][DetRoot][=DEM.ID][=here.you.are]" : {heri} 
+| "[=heri+gndr@m.][DetRoot][=DEM.ID][=here.you.are][--][-ka+proximal][Adv][+DEM]" : {herika} 
+| "[=heri+gndr@m.][DetRoot][=DEM.ID][=here.you.are][--][-ra+medial][Adv][+DEM]" : {herira} 
+| "[=heri+gndr@m.][DetRoot][=DEM.ID][=here.you.are][--][-nta+distal][Adv][+DEM]" : {herinta} 
 # -----------------------------------------
 ! 
 | "[=impoihi][ConnRoot][=after, later, afterwards]" : {impoihi}
