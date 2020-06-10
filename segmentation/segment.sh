@@ -28,7 +28,8 @@ TMPFILENAME=TMPNM$filename_no_ext
 
 # (1) XFST 
 /usr/bin/perl $MOSES/scripts/tokenizer/tokenizer.perl -l en < $RAW_FILE > $TMP_DIR/$RAW_FILE.tok
-cat $TMP_DIR/$RAW_FILE.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/lookup $ASHANINKAMORPH_DIR/asheninka.bin -flags cKv29TT > $TMP_DIR/$filename_no_ext.test.xfst
+/bin/sed 's/.*/& #EOS/' $TMP_DIR/$RAW_FILE.tok > $TMP_DIR/$RAW_FILE.EOS.tok
+cat $TMP_DIR/$RAW_FILE.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/lookup $ASHANINKAMORPH_DIR/asheninka.bin -flags cKv29TT > $TMP_DIR/$filename_no_ext.test.xfst
 
 # (2) CRF before|after
 ###cat $TMP_DIR/$filename_no_ext.test.xfst | perl $SEGMENTER/cleanGuessedRoots.pl -$EVID -$PISPAS > $TMP_DIR/$TMPFILENAME.test_clean.xfst

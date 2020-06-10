@@ -60,11 +60,9 @@ while(<STDIN>){
 		}
 		
 		elsif($root eq ''){
-			if($form eq '#EOS'){
-				$root = '#EOS';
-			}
-			else{
-				$root = "ZZZ";
+			if($form eq '#eos'){
+				print "\n";
+				next;
 			}
 		}
 		
