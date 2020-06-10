@@ -32,8 +32,6 @@ TMPFILENAME=TMPNM$filename_no_ext
 cat $TMP_DIR/$RAW_FILE.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/lookup $ASHANINKAMORPH_DIR/asheninka.bin -flags cKv29TT > $TMP_DIR/$filename_no_ext.test.xfst
 
 # (2) CRF before|after
-###cat $TMP_DIR/$filename_no_ext.test.xfst | perl $SEGMENTER/cleanGuessedRoots.pl -$EVID -$PISPAS > $TMP_DIR/$TMPFILENAME.test_clean.xfst
-#cat $TMP_DIR/$TMPFILENAME.test_clean.xfst | perl $SEGMENTER/xfst2wapiti_pos.pl -test > $TMP_DIR/$TMPFILENAME.pos.test
 cp $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst
 cat $TMP_DIR/$filename_no_ext.test.xfst | /usr/bin/perl $SEGMENTER/xfst2wapiti_pos.pl -test > $TMP_DIR/$TMPFILENAME.pos.test
 
