@@ -77,29 +77,15 @@ while(<STDIN>){
 		my $lem ='';
 		my @allsegments = ();
 		foreach my $segment (@segments){
-			if ($segment =~ m/$root/) {
-				# extract lemma 
-				my ($lemwithtags) = ($segment =~ m/\[=(.+?)\]\[$root/ );
-				if ($lemwithtags =~ m/\+/) { ($lem) = ($lemwithtags =~ m/(.+?)\+/); }
-				else { $lem = $lemwithtags }
-				#print "$lem\n";
-				push @allsegments, lc($lem);
-				$isprefix = 0;
-			}
-			elsif ($isprefix) {
-				# extract prefix
-				my ($morph) = ($segment =~ m/.*\[(.+?)[-|=]\]/);
-				#print "$morph***\n";
-				push @allsegments, lc($morph);
-			}
-			else {
-				# extract suffix
-				my $morph = "";
-				if ($segment =~ m/\+.*@/) { ($morph) = ($segment =~ m/\[[-|=](.+?)\+/); }
-				else { ($morph) = ($segment =~ m/\[[-|=](.+?)\]/); }
-				#print "***$morph\n";
-				push @allsegments, lc($morph);
-			}
+            my @letters = split(//, $segment);
+            my $morph = "";
+            foreach my $letter (@letters) {
+                last if ($letter =~ /\]|\+/);
+                if ($letter =~ /\[/) { }
+                else { $morph = $morph.$letter}
+            }
+            $morph = $morph =~ s/=|-//r;
+            push @allsegments, lc($morph);
 		}
 		$segmentedword = join '@@', @allsegments;
 		if ($newWord) {
