@@ -83,6 +83,7 @@ while(<STDIN>){
                 else { $morph = $morph.$letter}
             }
             $morph = $morph =~ s/=|-//r;
+			if ($morph =~ m/\//) { ($morph) = $morph =~ m/\/(.+)/; }
             push @allsegments, lc($morph);
 		}
 		$segmentedword = join '@@', @allsegments;
