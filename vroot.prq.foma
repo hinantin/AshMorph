@@ -1763,17 +1763,17 @@ define VRootPRQin [
 | "[=noshik+INF@V.+I-Conj@act.v.][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)]" : {noshik}
 # ---------------------------------------------------------------------------- 
 ! 
-| "[=ny/ñ+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
+| "[=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny}
 | "[=ne+INF@aantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ne}
 | "[=ni][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ni}
 ! 
-| "[=ny/ñ+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyaanyaa}
-| "[=ny/ñ+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyanya}
+| "[=ny+allomorph@ñ.+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyaanyaa}
+| "[=ny+allomorph@ñ.+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {nyanya}
 #@TOTREDUPCLASS02| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny} ! nyaanyaa nyanya
 # ---------------------------------------------------------------------------- 
 ! 
-| "[=onyaak/oñaak+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ak}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaak}
-| "[=onyaag/oñaag+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ag}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaag}
+| "[=onyaak+allomorph@oñaak.+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ak}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaak}
+| "[=onyaag+allomorph@oñaag.+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ag}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaag}
 # ---------------------------------------------------------------------------- 
 ! 
 | "[=nya+allomorph@ña.+INF@antsi.][VRoot][=to.speak (ES: hablar)]" : {nya}
@@ -1817,14 +1817,15 @@ define VRootPRQin [
 | "[=neapinkatsa+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {neapinkatsa}
 # --------------------------------------------------------------------
 ! 
-| "[=nyaashirink/ñaashirink+INF@VC.][VRoot][=to.annoy (ES: molestar, fastidiar)]" : {nyaashirink}
-| "[=nyashirink/ñashirink+INF@VC.][VRoot][=to.annoy (ES: molestar, fastidiar)]" : {nyashirink}
+| "[=nyaashirink+allomorph@ñaashirink.+INF@VC.][VRoot][=to.annoy (ES: molestar, fastidiar)]" : {nyaashirink}
+| "[=nyashirink+allomorph@ñashirink.+INF@VC.][VRoot][=to.annoy (ES: molestar, fastidiar)]" : {nyashirink}
 | "[=oihamintsat+~{V:/'to.follow':oiha/}{DLMT:mintsa}{EP:t}][VRoot][=to.annoy]" : {oihamintsat}
 | "[=antamintsa+~{V:/'to.fight':ant/}{EP:a}{DLMT:mintsa}][VRoot][=to.annoy (prbly.with.jokes; ES: molestar.a.algn.); to.accost.sb.; to.have.sexual.relations.with.sb.]" : {antamintsa}
 | "[=antavintsa+~{V:/'to.fight':ant/}{EP:a}{DLMT:vintsa}][VRoot][=to.annoy (prbly.with.jokes)]" : {antavintsa}
 | "[=antan][VRoot][=to.annoy]" : {antan}
 # --------------------------------------------------------------------
-| "[=nyashintsi/ñashintsi+INF@/EP:t/VC.][VRoot][=to.compete.with/against.sb. (ES: competir.con.algn.)]" : {nyashintsi} 
+! 
+| "[=nyashintsi+allomorph@ñashintsi.+INF@/EP:t/VC.][VRoot][=to.compete.with/against.sb. (ES: competir.con.algn.)]" : {nyashintsi} 
 # --------------------------------------------------------------------
 ! 
 | "[=oiminki+~{AGT.CAUS:oimin}{'to.enter':ki}+INF@antsi.][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter, insertar)]" : {oiminki} 
