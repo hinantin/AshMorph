@@ -1776,8 +1776,8 @@ define VRootPRQin [
 | "[=onyaag/oñaag+~{AGT.CAUS:o}{'to.see':ny}{EP:a}{APPL.CAUS.SOC:ag}+INF@aantsi.][VRoot][=to.show (ES: mostrar)]" : {onyaag}
 # ---------------------------------------------------------------------------- 
 ! 
-| "[=nya/ña+INF@antsi.][VRoot][=to.speak (ES: hablar)]" : {nya}
-| "[=nyaa/ñaa+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nyaa}
+| "[=nya+allomorph@ña.+INF@antsi.][VRoot][=to.speak (ES: hablar)]" : {nya}
+| "[=nyaa+allomorph@ñaa.+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nyaa}
 | "[=nea+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nea}
 | "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {neanea} ! noneaneatempi
 # ---------------------------------------------------------------------------- 
@@ -1785,19 +1785,19 @@ define VRootPRQin [
 | "[=neavintsa+~{V:/'to.speak':nea/}{DLMT:vintsa}+INF@/EP:t/VC;/EP:t/agantsi.][VRoot][=to.fornicate (ES: fornicar); to.copulate (ES: copular)]" : {neavintsa}
 # ------------------------------------------------------------- 
 ! 
-| "[=nyaama/ñaama+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)]" : {nyaama}
+| "[=nyaama+allomorph@ñaama.+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)]" : {nyaama}
 !  
 | "[=neve+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {neve} 
 | "[=nevi+INF@/EP:t/aantsi.][VRoot][=to.covet.sth. (ES: codiciar), to.like.sth. (ES: gustar)]" : {nevi} 
 | "[=nive+INF@/EP:t/aantsi.][VRoot][=to.like (ES: gustar)]" : {nive} 
 # ------------------------------------------------------------- 
-| "[=nyaana/ñaana+INF@/EP:t/aantsi.][VRoot][=to.study (ES: estudiar)]" : {nyaana}
-| "[=nyaana/ñaana+INF@/EP:t/aantsi.][VRoot][=to.read (ES: leer)]" : {nyaana}
+| "[=nyaana+allomorph@ñaana.+INF@/EP:t/aantsi.][VRoot][=to.study (ES: estudiar)]" : {nyaana}
+| "[=nyaana+allomorph@ñaana.+INF@/EP:t/aantsi.][VRoot][=to.read (ES: leer)]" : {nyaana}
 | "[=neana+INF@/EP:t/aantsi.][VRoot][=to.read (ES: leer)]" : {neana}
 # ------------------------------------------------------------- 
 ! 
 # nyaperori / =nyapero -ri / =to.defy.authority -adj / EN: 'brave', ES: 'valiente' 
-| "[=nyapero/ñapero+INF@/EP:t/antsi.][VRoot][=to.defy.authority.with.intensity-and-fearlessness; to.be.brave (ES: ser.valiente)]" : {nyapero}
+| "[=nyapero+allomorph@ñapero.+INF@/EP:t/antsi.][VRoot][=to.defy.authority.with.intensity-and-fearlessness; to.be.brave (ES: ser.valiente)]" : {nyapero}
 # --------------------------------------------------------------------
 ! 
 | "[=nyaatsa/ñaatsa+INF@/EP:t/aantsi.][VRoot][=to.play (ES: jugar); to.have.sex (euphemism)]" : {nyaatsa}
