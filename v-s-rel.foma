@@ -7,5 +7,5 @@ define V=S=REL [
 # -----------------------------------------------
 ! =kaari =kemisan-t-atsi-ne ESP: 'terco', EN: 'stubborn' 
 | "[--][=ni+tns@fut.][NS][+REL][=IRR]" : [{ni}] 
-| "[--][=ni~ne+tns@fut.][NS][+REL][=IRR]" : [{ne}] 
+| "[--][=ne+allomorph@ni.+tns@fut.][NS][+REL][=IRR]" : [{ne}] 
 ];
