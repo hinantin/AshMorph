@@ -2,7 +2,7 @@
 define V=S=ICPL [
   "[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{it}]
 | "[--][-itz][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{itz}]
-| "[--][-it~et][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{et}]
+| "[--][-et+allomorph@it.][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{et}]
 ];
                    
 define ICPL [ [EP V=S=ICPL]|[V=S=ICPL] ];
