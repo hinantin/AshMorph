@@ -1812,8 +1812,8 @@ define VRootPRQin [
 | "[=neana+INF@/EP:t/aantsi.][VRoot][=to.speak (ES: hablar);| to.read (ES: leer)]" : {neana}
 # --------------------------------------------------------------------
 ! 
-| "[=nyapinkatsa/ñapinkatsa+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {nyapinkatsa}
-| "[=nyaapinkatsa/ñaapinkatsa+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {nyaapinkatsa}
+| "[=nyapinkatsa+allomorph@ñapinkatsa.+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {nyapinkatsa}
+| "[=nyaapinkatsa+allomorph@ñaapinkatsa.+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {nyaapinkatsa}
 | "[=neapinkatsa+INF@/EP:t/V.][VRoot][=to.honor (ES: honrar); to.defer.to.authority]" : {neapinkatsa}
 # --------------------------------------------------------------------
 ! 
