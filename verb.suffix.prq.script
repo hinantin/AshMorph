@@ -255,13 +255,13 @@ define V=S=TEMPORAL [
 # ****************************************
                    
 define V=S=smallpart [ # revise!
-  "[--][-patsa+small.part]" : "@EP"[{patsa}]
+  "[--][-patsa+sem@small.part]" : "@EP"[{patsa}]
 ];
                    
 # ****************************************
                    
 define V=S=small [ # revise!
-  "[--][-kapichi+small]" : "@EP"[{kapichi}]
+  "[--][-kapichi+sem@small]" : "@EP"[{kapichi}]
 ];
                    
 # ****************************************
@@ -271,7 +271,7 @@ source v-s-inch.foma
 # ****************************************
                    
 define V=S=almost [ # revise! 
-  "[--][-tya+almost]" : "@EP"[{tya}]
+  "[--][-tya+sem@almost]" : "@EP"[{tya}]
 ];
                    
 # ****************************************
