@@ -20,8 +20,8 @@ define V=S=STAT=SET1 [
 ! pahitachari Pityotsi / =pahi -t -acha -ri =Pityotsi / =to.be.called -ep -stat -rel =proper.name / ES: 'who.is.called.Pityotsi'  
 | "[--][-acha][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{acha}] 
 | "[--][-aacha][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{aacha}] 
-| "[--][-acha/atxa][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{atxa}] 
-| "[--][-aacha/aatxa][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{aatxa}] 
+| "[--][-atxa+allomorph@acha.][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{atxa}] 
+| "[--][-aatxa+allomorph@aacha.][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]" : "@EP"[{aatxa}] 
 # -------- TEMPORAL STATIVITY MARKERS ------
 # -------- STATIVE PERFECTIVE  -------------
 ! kenanaintsiri / =ken -an -aintsi -ri / =to.walk -dir+leaving -stat -rel / EN: 'that.walks.past.sb.'; ES: 'que.va.caminando' 
