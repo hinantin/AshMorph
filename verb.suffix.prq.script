@@ -159,9 +159,9 @@ source v-s-applgen.foma
 # ****************************************
                    
 define V=S=ABS [ 
-  "[--][-tsi+alien.][Gen][+nposs]" : [{tsi}] 
-| "[--][-ntsi+alien.][Gen][+nposs]" : [{ntsi}] 
-| "[--][-tzi+alien.][Gen][+nposs]" : [{tzi}] 
+  "[--][-tsi+poss@alien.][Gen][+nposs]" : [{tsi}] 
+| "[--][-ntsi+poss@alien.][Gen][+nposs]" : [{ntsi}] 
+| "[--][-tzi+poss@alien.][Gen][+nposs]" : [{tzi}] 
 ];
                    
 # ****************************************
