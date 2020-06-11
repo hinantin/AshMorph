@@ -4,7 +4,7 @@
 
 define V=S=EARLY [ 
   "[--][-aman][ADV][+TIME.MODAL][=early]" : "@EP"[{aman}]
-| "[--][-/DEL:a/man][ADV][+TIME.MODAL][=early]" : "@EP"[{man}] 
+| "[--][-man+~{R.DEL:a}{ADV:/'early':aman/}][ADV][+TIME.MODAL][=early]" : "@EP"[{man}] 
 ];
                    
 define EARLY [ [EP V=S=EARLY]|[V=S=EARLY] ];
