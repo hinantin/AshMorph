@@ -6,19 +6,19 @@
 # Or if the deletion process will be likely to take place /DEL:a/ when it is followed by a suffix like -ant.
 
 # "LABEL ORDER" : 
-#-1: +allomorph@ky.
-# 0: +~{..}{..}...{..} 
+# 0: +allomorph@ky.
+# 1: +~{..}{..}...{..} 
 #    Information on the morphemes of lexicalized entries.
 #    {L.DEL:...} {R.DEL:...} 
-# 1: +INF@form1:form2:...:formN. 
+# 2: +INF@form1:form2:...:formN. 
 #    A 'form' is a dialectal variation that might contain morphological operations such as /EP:.../ /DEL:.../ 
-# 2: +tot.redup@unb.copy., +prtl.redup@b.copy.
-# 3: +poss@(a)ane. (nominalizer for abstract nouns formed using the infinitive suffix: -ane, -aane) 
+# 3: +tot.redup@unb.copy., +prtl.redup@b.copy.
+# 4: +poss@(a)ane. (nominalizer for abstract nouns formed using the infinitive suffix: -ane, -aane) 
 #    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.*
 
 # A = A-class verb
 # I = I-class verb
-# 4: +I-Conj@act.v.  <- +prop@t. 
+# 5: +I-Conj@act.v.  <- +prop@t. 
 #    the subject of the sentence is also the agent of the verb 
 #    i-class verbs - “irreflexive” verbs - ACTIVE VOICE +C.I@act.v. 
 
@@ -26,7 +26,7 @@
 #    the subject acts as both performs and receives the action expressed by the verb. 
 #    a-class verbs - “reflexive” verbs (RFL) - MIDDLE VOICE +C.A@mid.v. 
 
-# 5: +sem@f.tech. 
+# 6: +sem@f.tech. 
 #         f.tech.	fishing technique 
 #    there are more semantic labels 
 
