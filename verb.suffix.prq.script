@@ -17,8 +17,8 @@ source v-s-prog.foma
 # P : patient-like argument 
 define V=S=PRNO=SET1 [
   "[--][=ri][+3m.O/P]" : [{ri}] 
-| "[--][=ri~re][+3m.O/P]" : [{re}] 
-| "[--][=ri~rii][+3m.O/P]" : [{rii}] 
+| "[--][=re+allomorph@ri.][+3m.O/P]" : [{re}] 
+| "[--][=rii+allomorph@ri.][+3m.O/P]" : [{rii}] 
 | "[--][=ro][+3n.m.O/P]" : [{ro}] 
 | "[--][=vo][+3n.m.O/P]" : [{vo}] 
 ];
@@ -27,7 +27,7 @@ define V=S=PRNO=SET1 [
 define V=S=PRNO=SET2 [
 # ----------------------------------
   "[--][=ai][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ai}] 
-| "[--][=ai~ae][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ae}] ! \cite[pag. 465]{kindberg:diccionario:80} 
+| "[--][=ae+allomorph@ai.][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ae}] ! \cite[pag. 465]{kindberg:diccionario:80} 
 | "[--][=ee][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ee}] ! \cite[pag. 465]{kindberg:diccionario:80} 
 ];
                    
@@ -81,11 +81,11 @@ source v-s-dur.foma
 # indicates that the subordinate clause has an "adverbial" or interpropositional relation to the main clause, indicating
 # purpose, condition, time, and location. (SIL) 
 define V=S=ADV=SET1 [
-  "[--][-ka+proximal.loc.][+ADV]" : "@EP"[{ka}] 
-| "[--][-ra+medial.loc.][+ADV]" : "@EP"[{ra}] 
-| "[--][-nta+distal.loc.][+ADV]" : "@EP"[{nta}] 
+  "[--][-ka+loc@proximal.][+ADV]" : "@EP"[{ka}] 
+| "[--][-ra+loc@medial.][+ADV]" : "@EP"[{ra}] 
+| "[--][-nta+loc@distal.][+ADV]" : "@EP"[{nta}] 
 # ---------------------------------------------------------------
-| "[--][-ranki+fused.t.][Asp][+ADV.P][=past.situation]" : "@EP"[{ranki}] 
+| "[--][-ranki+tense@fused.t.][Asp][+ADV.P][=past.situation]" : "@EP"[{ranki}] 
 # ---------------------------------------------------------------
 | "[--][-ni][AS][+ADV]" : "@EP"[{ni}] 
 | "[--][-ini][AS][+ADV]" : "@EP"[{ini}] 
@@ -111,7 +111,7 @@ define V=S=O [
   "[--][=na][+1SG.O/P][=me (ES: me)]" : [{na}] 
 | "[--][=mi][+2SG.O/P][=you (ES: te)]" : [{mi}] 
 | "[--][=mpi][+2SG.O/P][=you (ES: te)]" : [{mpi}] 
-| "[--][=mpi~npi][+2SG.O/P][=you (ES: te)]" : [{npi}] 
+| "[--][=npi+allomorph@mpi.][+2SG.O/P][=you (ES: te)]" : [{npi}] 
 | "[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ni}] 
 | "[--][=ni~ne][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ne}] 
 ];
