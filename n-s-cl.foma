@@ -211,7 +211,7 @@ define N=S=CL=SET1 [
 | "[--][-hempe][+CL:branch][=branch]" : {hempe} 
 
 # this classifier tends to change the gender to n.m. of the nominal roots to which it is adhered.
-| "[--][-/DEL:i/venki+gndr@n.m.][+CL:magic.plant][=magic.plant,piripiri-plant]" : {venki} 
+| "[--][-venki+~{R.DEL:i}{N:/'magic.plant':ivenki/}+gndr@n.m.][+CL:magic.plant][=magic.plant,piripiri-plant]" : {venki} 
 
 # collateral relation 
 # pabachori / pavachori / =pava -chori / =dad -cl:distant.kin / EN: 'uncle'; ES: 'tío'  
@@ -328,7 +328,7 @@ define N=S=CL=SET1 [
 ! Ashivantzitoni / =ashivantzi -ito -ni / =swallow.sp. -cl:heights.of.sth. -cl:watercourse / EN: 'the.swallow.hill.with.a.waterstream'  
 ! Kiniritoni / =kiniri -ito -ni / =howler.monkey -cl:heights.of.sth. -cl:watercourse / ES: 'cerro.con.un.riachuelo.donde.habitan.muchos.kiniri' 
 | "[--][-ito][+CL:head][=head,the.heights.of.sth.; upper.part,inhabited.by.a.supernatural.entity; sacred.habitat.area.in.the.uplands]" : {ito}
-| "[--][-/DEL:i/to][+CL:head][=head,the.heights.of.sth.; upper.part,inhabited.by.a.supernatural.entity]" : "@I@"{to}
+| "[--][-to+~{R.DEL:i}{N:/'head':ito/}][+CL:head][=head,the.heights.of.sth.; upper.part,inhabited.by.a.supernatural.entity]" : "@I@"{to}
 ! 
 ! nokatsiyempitake / no- =katsi -yempi -t -ak -e / 1sg.s- =to.feel.pain -cl:ear -ep -prf -irr / EN: 'I.have.an.earache (lit.: I've.been.ear-hurting)' 
 ! quentayempitaantsi / kentayempitaantsi / =kent -a -yempi -t -aantsi / ES: 'dolor.agudo.en.el.oído'
