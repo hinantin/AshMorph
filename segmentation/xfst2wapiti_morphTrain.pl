@@ -564,7 +564,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 		}
 		
 		#--------------
-		# feature 5
+		# feature 5: lemma 
 		#--------------
 		#possible morph tags: take ALL morph tags into account 
 		my $printedmorphs='';
@@ -592,7 +592,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 			}
 		}
 		#--------------
-		# feature 6
+		# feature 6-15: morph-tags
 		#--------------
 		# add other possible morphs for ambiguous forms (need xfst analysis for this!)
 		# TODO: only for -1/-3? with -3, there shouldn't be other ambiguities...(?)
@@ -649,7 +649,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 			$nbrOfMorph++;
 		}
 		#--------------
-		# feature 7
+		# feature 16-17: lemma
 		#--------------
 		# for morph3: add info about evidential and genitive suffixes 
 		if($mode eq '-3'){
@@ -668,6 +668,9 @@ for (my $i=0;$i<scalar(@words);$i++){
 			
 		}
 		
+		#--------------
+		# feature 18: class
+		#--------------
 		if(scalar(@$possibleClasses)>1 && $correctClass ne ''  && $correctClass ne 'none')
 		{
 			my $nbrOfClasses =0;
