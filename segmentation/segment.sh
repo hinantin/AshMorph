@@ -57,3 +57,4 @@ $WAPITI label -m $MORPH4_MODEL $TMP_DIR/$TMPFILENAME.morph4.test > $TMP_DIR/$TMP
 # convert xfst to morfessor
 cat $TMP_DIR/$filename_no_ext.disamb.xfst | /usr/bin/perl $SEGMENTER/xfst2morfessor.pl ##> $TMP_DIR/$filename_no_ext.morfessor
 
+rm -f $TMP_DIR/$filename_no_ext.tok $TMP_DIR/$filename_no_ext.EOS.tok $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst $TMP_DIR/$TMPFILENAME.pos.test $TMP_DIR/$TMPFILENAME.morph1.result $TMP_DIR/$TMPFILENAME.morph2.test $TMP_DIR/$TMPFILENAME.morph2.result $TMP_DIR/$TMPFILENAME.morph3.test $TMP_DIR/$TMPFILENAME.morph3.result $TMP_DIR/$TMPFILENAME.morph4.test $TMP_DIR/$TMPFILENAME.morph4.result $TMP_DIR/$filename_no_ext.disamb.xfst   
