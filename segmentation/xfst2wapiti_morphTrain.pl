@@ -497,9 +497,15 @@ for (my $i=0;$i<scalar(@words);$i++){
 	}
 	else
 	{
+		#--------------
+		# feature 0: lowercased word
+		#--------------
 		#print "$form\t";
 		print lc($form)."\t";
 		
+		#--------------
+		# feature 1: n, case (lc/uc)
+		#--------------
 		$lastlineEmpty =0;
 		# uppercase/lowercase?
 		#punctuation (punctuation has never more than one analysis, so we can just take @$analyses[0])
@@ -514,12 +520,17 @@ for (my $i=0;$i<scalar(@words);$i++){
 			print "lc\t";
 		}
 		
-		
+		#--------------
+		# feature 2: lemma
+		#--------------
 		my $pos = @$analyses[0]->{'pos'};
 		#if($pos =~ /ConjES|AdvES|PrepES/){$pos = 'SP';}
 		if($pos eq 'NP'){$pos = 'NRoot';}
 		print $pos."\t";
 
+		#--------------
+		# feature 3: lemma
+		#--------------
 		# print lemma(s)
 		my $printedlems='#';
 		my $nbrOfLems =0;
@@ -532,6 +543,9 @@ for (my $i=0;$i<scalar(@words);$i++){
 			}
 		}
 		
+		#--------------
+		# feature 4: lemma
+		#--------------
 		# get possible lemmas from stored hash (need xfst analysis to get those!)
 		if($mode eq '-train'){
 			my $possibleLemmasRef = $xfstwordsLem{$form};
@@ -549,7 +563,9 @@ for (my $i=0;$i<scalar(@words);$i++){
 			$nbrOfLems++;
 		}
 		
-
+		#--------------
+		# feature 5
+		#--------------
 		#possible morph tags: take ALL morph tags into account 
 		my $printedmorphs='';
 		my $nbrOfMorph =0;
@@ -575,6 +591,9 @@ for (my $i=0;$i<scalar(@words);$i++){
 				}
 			}
 		}
+		#--------------
+		# feature 6
+		#--------------
 		# add other possible morphs for ambiguous forms (need xfst analysis for this!)
 		# TODO: only for -1/-3? with -3, there shouldn't be other ambiguities...(?)
 		# get possible morphs from stored hash (need xfst analysis to get those!)
@@ -596,40 +615,42 @@ for (my $i=0;$i<scalar(@words);$i++){
 		# +Loc+IndE for Add and vice versa
 		elsif($mode eq '-3'){
 			if($correctClass eq 'DirE'){
-				print "+3.Sg.Poss\t";
+				print "+3.Sg.Poss\t"; # plus 1 feature
 				$nbrOfMorph++;
 			}
 			elsif($correctClass eq 'Poss'){
-				print "+DirE\t";
+				print "+DirE\t"; # plus 1 feature
 				$nbrOfMorph++;
 			}
 			elsif($correctClass eq 'DirEs'){
-				print "+Aff\t+3.Sg.Subj\t";
+				print "+Aff\t+3.Sg.Subj\t"; # plus 2 features
 				$nbrOfMorph+=2;
 			}
 			elsif($correctClass eq 'Subj'){
-				print "+1.Pl.Excl.Subj\t+DirE\t";
+				print "+1.Pl.Excl.Subj\t+DirE\t"; # plus 2 features
 				$nbrOfMorph+=2;
 			}
 			elsif($correctClass eq 'Loc_IndE'){
-				print "+Add\t";
+				print "+Add\t"; # plus 1 feature
 				$nbrOfMorph++;
 			}
 			elsif($correctClass eq 'Add'){
-				print "+Loc\t+IndE\t";
+				print "+Loc\t+IndE\t"; # plus 2 features
 				$nbrOfMorph +=2;
 			}
 			elsif($correctClass eq 'Pl'){
-				print "+IndE\t";
+				print "+IndE\t"; # plus 1 feature
 				$nbrOfMorph++;
 			}
 		}
 		
 		while($nbrOfMorph<10){
-			print "ZZZ\t";
+			print "ZZZ\t"; # adding missing features ZZZ 
 			$nbrOfMorph++;
 		}
-		
+		#--------------
+		# feature 7
+		#--------------
 		# for morph3: add info about evidential and genitive suffixes 
 		if($mode eq '-3'){
 			if(@$word[4] eq ''){
