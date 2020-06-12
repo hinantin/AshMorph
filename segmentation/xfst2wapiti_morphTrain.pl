@@ -536,6 +536,9 @@ for (my $i=0;$i<scalar(@words);$i++){
 		my $nbrOfLems =0;
 		foreach my $analysis (@$analyses){
 			my $lem = $analysis->{'lem'};
+			# unless = if not 
+			# what's between \Q and \E is treated as normal characters, not regexp characters
+			# search a string for a match 
 			unless($printedlems =~ /\Q#$lem#\E/ or $nbrOfLems >= 2){
 				print "$lem\t";
 				$printedlems = $printedlems.'#'.$lem."#";
@@ -564,7 +567,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 		}
 		
 		#--------------
-		# feature 5: lemma 
+		# feature 5: morph-tags 
 		#--------------
 		#possible morph tags: take ALL morph tags into account 
 		my $printedmorphs='';
@@ -592,7 +595,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 			}
 		}
 		#--------------
-		# feature 6-15: morph-tags
+		# feature 6-14: morph-tags
 		#--------------
 		# add other possible morphs for ambiguous forms (need xfst analysis for this!)
 		# TODO: only for -1/-3? with -3, there shouldn't be other ambiguities...(?)
@@ -649,7 +652,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 			$nbrOfMorph++;
 		}
 		#--------------
-		# feature 16-17: lemma
+		# feature 15: lemma
 		#--------------
 		# for morph3: add info about evidential and genitive suffixes 
 		if($mode eq '-3'){
@@ -669,7 +672,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 		}
 		
 		#--------------
-		# feature 18: class
+		# feature 16: class
 		#--------------
 		if(scalar(@$possibleClasses)>1 && $correctClass ne ''  && $correctClass ne 'none')
 		{
