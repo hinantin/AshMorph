@@ -521,7 +521,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 		}
 		
 		#--------------
-		# feature 2: lemma
+		# feature 2: root-pos
 		#--------------
 		my $pos = @$analyses[0]->{'pos'};
 		#if($pos =~ /ConjES|AdvES|PrepES/){$pos = 'SP';}
@@ -529,7 +529,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 		print $pos."\t";
 
 		#--------------
-		# feature 3: lemma
+		# feature 3: root-pos
 		#--------------
 		# print lemma(s)
 		my $printedlems='#';
@@ -544,7 +544,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 		}
 		
 		#--------------
-		# feature 4: lemma
+		# feature 4: root-pos
 		#--------------
 		# get possible lemmas from stored hash (need xfst analysis to get those!)
 		if($mode eq '-train'){
