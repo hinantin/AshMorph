@@ -84,7 +84,7 @@ while(<STDIN>){
                 else { $morph = $morph.$letter}
             }
             $morph = $morph =~ s/=|-//r; # deleting signs from a- -> a 
-			if ($morph =~ m/\//) { ($morph) = $morph =~ m/\/(.+)/; } # Spanish loan words:  tambor/tampoo -> tampoo 
+			if ($morph =~ m/\//) { ($morph) = $morph =~ m/\/(.+)/; } # Spanish loan words: tambor/tampoo -> tampoo 
             push @allsegments, lc($morph);
 		}
 		$segmentedword = join '@@', @allsegments;
