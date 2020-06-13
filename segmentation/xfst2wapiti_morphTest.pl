@@ -594,8 +594,11 @@ my $lastlineEmpty=0;
 sub printCrf{
 	my $wordsref = $_[0];
 	my @words = @$wordsref;
-	
-	for (my $i=0;$i<scalar(@words);$i++)
+
+# -----------
+# offsets
+# -----------
+	for (my $i=0;$i<scalar(@words);$i++) # iterating through CRFs offsets
 	{	# @word: 0: form, 1:@analyses, 2:@possibleClasses, 3:correctClass, 4: amb
 		my $word = @words[$i];
 		my $analyses = @$word[1];

@@ -480,7 +480,10 @@ my $lastlineEmpty=0;
 
 # print all instances and assign the ones that will not be disambiguated with the current model a dummy label (or their pos?) TODO: test
 
-for (my $i=0;$i<scalar(@words);$i++){
+# -----------
+# offsets
+# -----------
+for (my $i=0;$i<scalar(@words);$i++){  # iterating through CRFs offsets 
 	my $word = @words[$i];
 	my $analyses = @$word[1];
 	my $form = @$word[0];
