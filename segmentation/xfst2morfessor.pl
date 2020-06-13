@@ -83,7 +83,7 @@ while(<STDIN>){
                 if ($letter =~ /\[/) { }
                 else { $morph = $morph.$letter}
             }
-            $morph = $morph =~ s/=|-//r; # deleting signs from a- -> a 
+            $morph = $morph =~ s/=|-//r; # deleting signs from a- -> a ; N= -> N
 			if ($morph =~ m/\//) { ($morph) = $morph =~ m/\/(.+)/; } # Spanish loan words: tambor/tampoo -> tampoo 
             push @allsegments, lc($morph);
 		}
