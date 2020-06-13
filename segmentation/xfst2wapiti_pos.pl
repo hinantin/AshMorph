@@ -53,7 +53,7 @@ while(<STDIN>){
 		# determining word class
 		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|VRoot|PostPol|Part|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
 		#print STDERR "$analysis\n";
-		$root =~ s/\?/\\?/ig;
+		#$root =~ s/\?/\\?/ig;
 		# loan word 
 		my $isNP = 0;
 		if($root eq 'NP'){
@@ -97,9 +97,9 @@ while(<STDIN>){
 		my @prefixmorphtags = ();
 		my @suffixmorphtags = ();
 		foreach my $segment (@segments){
-			if ($segment =~ m/$root/) {
+			if ($segment =~ m/\Q$root\E/) {
 				# extract lemma 
-				my ($lemwithtags) = ($segment =~ m/\[=(.+?)\]\[$root/ );
+				my ($lemwithtags) = ($segment =~ m/\[=(.+?)\]\[\Q$root\E/ );
 				if ($lemwithtags =~ m/\+/) { ($lem) = ($lemwithtags =~ m/(.+?)\+/); }
 				else { $lem = $lemwithtags }
 				#print "$lem\n";
