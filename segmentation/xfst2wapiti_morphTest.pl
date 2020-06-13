@@ -37,7 +37,7 @@ elsif($mode == '-2' or $mode == '-3' or $mode == '-4'){
 }
 
 
-my @words;
+my @words; # general variable where each word and its corresponding analysis are stored
 my $newWord=1;
 my $index=0;
 
@@ -108,7 +108,7 @@ if($mode eq '-1')
 			}
 		}
 			$lem = lc($lem);
-			if($lem eq ''){
+			if($lem eq '') {
 				#$lem = $form;
 				$lem = 'ZZZ';
 			}
@@ -125,13 +125,16 @@ if($mode eq '-1')
 	    
 			if($newWord)
 			{
+				# creating a group of analyses 
 				my @analyses = ( \%hashAnalysis ) ;
+				# adding a new new analysis 
 				my @word = ($form, \@analyses);
 				push(@words,\@word);
 				$index++;
 			}
 			else
 			{
+				# adding a new new analysis to an existing group of analyses
 				my $thisword = @words[-1];
 				my $analyses = @$thisword[1];
 				push(@$analyses, \%hashAnalysis);
