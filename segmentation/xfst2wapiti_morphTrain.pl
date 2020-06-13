@@ -673,6 +673,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 		
 		#--------------
 		# feature 15-18: class
+		# feature 19: correct-class, none  
 		#--------------
 		if(scalar(@$possibleClasses)>1 && $correctClass ne ''  && $correctClass ne 'none')
 		{

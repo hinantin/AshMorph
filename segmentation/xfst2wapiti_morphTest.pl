@@ -734,7 +734,7 @@ sub printCrf{
 		}
 		
 		#--------------
-		# feature 19: possible class 
+		# feature 19: possible-class, none  
 		#--------------
 		unless(scalar(@$possibleClasses)>1){
 			#print "@$analyses[0]->{'pos'}";
