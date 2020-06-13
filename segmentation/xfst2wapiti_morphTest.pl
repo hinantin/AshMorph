@@ -646,7 +646,7 @@ sub printCrf{
 		print $pos."\t";
 
 		#--------------
-		# feature 3: root-pos
+		# feature 3-4: root-pos
 		#--------------
 		# print lemma(s)
 		my $printedlems='#';
@@ -665,7 +665,9 @@ sub printCrf{
 			$nbrOfLems++;
 		}
 		
-		
+		#--------------
+		# feature 5-14: morph-tags 
+		#--------------
 		#possible morph tags: take ALL morph tags into account 
 		my $printedmorphs='';
 		my $nbrOfMorph =0;
@@ -697,6 +699,9 @@ sub printCrf{
 			$nbrOfMorph++;
 		}
 		
+		#--------------
+		# feature 15: only on mode 3
+		#--------------
 		# for morph3: add info about evidential and genitive suffixes 
 			if($mode eq '-3'){
 				if(@$word[5] eq ''){
@@ -713,6 +718,9 @@ sub printCrf{
 				}
 			}
 			
+		#--------------
+		# feature 15-18: class 
+		#--------------
 		my $nbrOfClasses =0;
 		# possible classes
 		foreach my $class (@$possibleClasses){
@@ -725,6 +733,9 @@ sub printCrf{
 			$nbrOfClasses++;
 		}
 		
+		#--------------
+		# feature 19: possible class 
+		#--------------
 		unless(scalar(@$possibleClasses)>1){
 			#print "@$analyses[0]->{'pos'}";
 			print "none";

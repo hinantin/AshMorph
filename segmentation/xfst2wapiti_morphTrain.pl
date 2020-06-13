@@ -652,7 +652,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 			$nbrOfMorph++;
 		}
 		#--------------
-		# feature 15: lemma
+		# feature 15: lemma (only on mode 3)
 		#--------------
 		# for morph3: add info about evidential and genitive suffixes 
 		if($mode eq '-3'){
@@ -672,7 +672,7 @@ for (my $i=0;$i<scalar(@words);$i++){
 		}
 		
 		#--------------
-		# feature 16: class
+		# feature 15-18: class
 		#--------------
 		if(scalar(@$possibleClasses)>1 && $correctClass ne ''  && $correctClass ne 'none')
 		{
