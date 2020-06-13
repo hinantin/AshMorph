@@ -757,7 +757,7 @@ sub printCrf{
 	}
 }		
 		
-# if string1 and string2 are not contained in the allmorphs of each analysis return 1 
+# if string1 and string2 are contained in the allmorphs of each analysis return 1 
 sub containedInOtherMorphs{
 	my $analyses = $_[0];
 	my $string1 = $_[1];
@@ -830,6 +830,8 @@ sub printXFST{
 	
 }
 
+# process crf results stage 2
+# print statistics of disambiguation stage 1
 sub disambMorph1{
 	my $wordsref = $_[0];
 	my @words = @$wordsref;
@@ -850,14 +852,14 @@ sub disambMorph1{
 		my $crfline = @crfLines[$i];
 		my $word = @words[$i];
 			
-			my @crfRows = split('\t', $crfline);
+			my @crfRows = split('\t', $crfline);# split by \t tabs 
 			if( (lc(@$word[0]) eq @crfRows[0]) or (@$word[0] eq '#EOS' and $crfline =~ /^\s*$/ ) )
 			{
 				# check if marked as ambiguous
 				if(@$word[3] eq 'amb'){
 					$ambigForms++;
 					#print STDERR "xfst: @$word[0]  crf: @crfRows[0]\n";
-					my $correctMorph = @crfRows[-1];
+					my $correctMorph = @crfRows[-1]; # -1 obtains the alternative from proposed by CRFs model 
 					my $analyses = @$word[1];
 					#print STDERR "$correctMorph\n"; #----- ".@$word[0]."\n";
 					for(my $j=0;$j<scalar(@$analyses);$j++)
@@ -946,7 +948,8 @@ sub disambMorph1{
 	close CFG;
 }
 
-
+# process crf results stage 2
+# print statistics of disambiguation stage 2
 sub disambMorph2{
 	my $wordsref = $_[0];
 	my @words = @$wordsref;
@@ -1119,7 +1122,8 @@ sub disambMorph2{
 	close CFG;
 }
 
-
+# process crf results stage 3
+# print statistics of disambiguation stage 3
 sub disambMorph3{
 	my $wordsref = $_[0];
 	my @words = @$wordsref;
@@ -1287,6 +1291,7 @@ sub disambMorph3{
 	close CFG;
 }
 
+# has evidential 
 sub sentenceHasEvid{
 	my $wordsref = $_[0];
 	my @words = @$wordsref;
