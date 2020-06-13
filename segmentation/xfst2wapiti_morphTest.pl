@@ -757,7 +757,7 @@ sub printCrf{
 	}
 }		
 		
-
+# if string1 and string2 are not contained in the allmorphs of each analysis return 1 
 sub containedInOtherMorphs{
 	my $analyses = $_[0];
 	my $string1 = $_[1];
@@ -777,7 +777,7 @@ sub containedInOtherMorphs{
 				my $postmorphs = $analysis2->{'allmorphs'};
 				#print "next: $postmorphs\n";
 				if($postmorphs =~ /$string2/ )
-				{		
+				{
 					#print "2 found $allmorphs\n";
 					#print "2compared with $postmorphs\n";
 					return 1;
@@ -801,6 +801,7 @@ sub containedInOtherMorphs{
 	return 0;
 }
 
+# if string is not contained in the allmorphs of each analysis return 1 
 sub notContainedInMorphs{
 	my $analyses = $_[0];
 	my $string = $_[1];
