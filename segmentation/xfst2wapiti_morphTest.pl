@@ -45,7 +45,9 @@ if($mode eq '-1')
 {
 	while(<XFST>)
 	{
-		
+		# -----------------------------
+		# TOKENIZE XFST INTO VARIABLES FOR CRF 
+		# -----------------------------
 		if (/^$/)
 		{
 			$newWord=1;
@@ -136,10 +138,13 @@ if($mode eq '-1')
 			$newWord=0;	
 	 }
 	}
+	
 	close XFST;
 	my $disambiguatedForms=0;
+	# -------------------------------------------------------------------------------------------------------
 	# if a word has more than one analysis that differ only in length of the root by 1, and last letter is -q/-y/-n 
 	# delete the one with the shorter root (e.g. millay -> milla -y/millay, qapaq-> qapa-q/qapaq, allin -> alli -n/ allin)
+	# -------------------------------------------------------------------------------------------------------
 	foreach my $word (@words)
 	{
 		
