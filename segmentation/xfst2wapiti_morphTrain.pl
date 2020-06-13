@@ -87,7 +87,7 @@ while(<STDIN>){
 			
 			my ($root) = $analysis =~ m/^([^\[]+?)\[/ ;
 			#print "$root\n";
-			$root =~ s/\?/\\?/ig;
+			#$root =~ s/\?/\\?/ig;
 			if($pos eq ''){
 				if($form eq '#EOS'){
 					$pos = '#EOS';
@@ -107,9 +107,9 @@ while(<STDIN>){
 		my @prefixmorphtags = ();
 		my @suffixmorphtags = ();
 		foreach my $segment (@segments){
-			if ($segment =~ m/$root/) {
+			if ($segment =~ m/\Q$root\E/) {
 				# extract lemma 
-				my ($lemwithtags) = ($segment =~ m/\[=(.+?)\]\[$root/ );
+				my ($lemwithtags) = ($segment =~ m/\[=(.+?)\]\[\Q$root\E/ );
 				if ($lemwithtags =~ m/\+/) { ($lem) = ($lemwithtags =~ m/(.+?)\+/); }
 				else { $lem = $lemwithtags }
 				#print "$lem\n";
