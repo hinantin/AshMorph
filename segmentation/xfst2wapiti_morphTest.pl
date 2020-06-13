@@ -613,9 +613,16 @@ sub printCrf{
 		}
 		else
 		{
+
+		#--------------
+		# feature 0: lowercased word
+		#--------------
 			#print "$form\t";
 			print lc($form)."\t";
 			
+		#--------------
+		# feature 1: n, case (lc/uc)
+		#--------------
 			$lastlineEmpty =0;
 			# uppercase/lowercase?
 			#punctuation (punctuation has never more than one analysis, so we can just take @$analyses[0])
@@ -630,12 +637,17 @@ sub printCrf{
 				print "lc\t";
 			}
 			
-				
+		#--------------
+		# feature 2: root-pos
+		#--------------
 		my $pos = @$analyses[0]->{'pos'};
 		#if($pos =~ /ConjES|AdvES|PrepES/){$pos = 'SP';}
 		if($pos eq 'NP'){$pos = 'NRoot';}
 		print $pos."\t";
 
+		#--------------
+		# feature 3: root-pos
+		#--------------
 		# print lemma(s)
 		my $printedlems='#';
 		my $nbrOfLems =0;
