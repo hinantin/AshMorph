@@ -114,6 +114,7 @@ if($mode eq '-1')
 			}
 		
 			#print "$form: $root morphs: @morphtags\n";
+			# %hashAnalysis = ('pos', $pos, 'morph', \@suffixmorphtags, 'string', $_, 'root', $root, 'allmorphs', $allsuffixes, 'lem', $lem);
 			my %hashAnalysis;
 			$hashAnalysis{'pos'} = $pos;
 			$hashAnalysis{'morph'} = \@suffixmorphtags;
