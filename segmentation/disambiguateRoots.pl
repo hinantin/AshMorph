@@ -61,9 +61,9 @@ while(<XFST>){
 		my @prefixmorphtags = ();
 		my @suffixmorphtags = ();
 		foreach my $segment (@segments){
-			if ($segment =~ m/$root/) {
+			if ($segment =~ m/\Q$root\E/) {
 				# extract lemma 
-				my ($lemwithtags) = ($segment =~ m/\[=(.+?)\]\[$root/ );
+				my ($lemwithtags) = ($segment =~ m/\[=(.+?)\]\[\Q$root\E/ );
 				if ($lemwithtags =~ m/\+/) { ($lem) = ($lemwithtags =~ m/(.+?)\+/); }
 				else { $lem = $lemwithtags }
 				#print "$lem\n";
