@@ -77,13 +77,14 @@ while(<STDIN>){
 		foreach my $segment (@segments){
             my @letters = split(//, $segment);
             my $morph = "";
+			# obtaining suffix 
             foreach my $letter (@letters) {
                 last if ($letter =~ /\]|\+/);
                 if ($letter =~ /\[/) { }
                 else { $morph = $morph.$letter}
             }
-            $morph = $morph =~ s/=|-//r;
-			if ($morph =~ m/\//) { ($morph) = $morph =~ m/\/(.+)/; }
+            $morph = $morph =~ s/=|-//r; # deleting signs 
+			if ($morph =~ m/\//) { ($morph) = $morph =~ m/\/(.+)/; } # Spanish loan words:  tambor/tampoo -> tampoo 
             push @allsegments, lc($morph);
 		}
 		$segmentedword = join '@@', @allsegments;
