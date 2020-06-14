@@ -5,57 +5,57 @@ define InterjPRQin [
 | "[=afuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {afuu} 
 | "[=fuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {fuu} 
 ! 
-| "[=pasonki][InterjPRQ][=thanks (ES: gracias)]" : {pasonki}
-| "[=paasonki][InterjPRQ][=thanks (ES: gracias)]" : {paasonki}
-| "[=paasoonki][InterjPRQ][=thanks (ES: gracias)]" : {paasoonki}
-| "[=paasoonke][InterjPRQ][=thanks (ES: gracias)]" : {paasoonke}
+| "[=pasonki][Interj:PRQ][=thanks (ES: gracias)]" : {pasonki}
+| "[=paasonki][Interj:PRQ][=thanks (ES: gracias)]" : {paasonki}
+| "[=paasoonki][Interj:PRQ][=thanks (ES: gracias)]" : {paasoonki}
+| "[=paasoonke][Interj:PRQ][=thanks (ES: gracias)]" : {paasoonke}
 ! 
 | "[=pahonki][Interj][=thanks (ES: gracias)]" : {pahonki}
 | "[=paahonki][Interj][=thanks (ES: gracias)]" : {paahonki}
 ! 
 # source: aj 
-| "[=ak/aj][InterjPRQ][=INTJ (phon.tat.: [aχ]; ES: affirmative.reaction.to.addressee's.statement)]" : {ak}
+| "[=ak/aj][Interj:PRQ][=INTJ (phon.tat.: [aχ]; ES: affirmative.reaction.to.addressee's.statement)]" : {ak}
 ! 
-| "[=ataama][InterjPRQ][=thanks (ES: gracias)]" : {ataama}
-| "[=atãma][InterjPRQ][=thanks (ES: gracias)]" : {atãma}
+| "[=ataama][Interj:PRQ][=thanks (ES: gracias)]" : {ataama}
+| "[=atãma][Interj:PRQ][=thanks (ES: gracias)]" : {atãma}
 ! 
-| "[=ehe][InterjPRQ][=INTJ (EN: exclamation.of.surprise)]" : {ehe}
+| "[=ehe][Interj:PRQ][=INTJ (EN: exclamation.of.surprise)]" : {ehe}
 ! 
-| "[=eehoo][InterjPRQ][=INTJ (EN: ¡Ay!)]" : {eehoo}
+| "[=eehoo][Interj:PRQ][=INTJ (EN: ¡Ay!)]" : {eehoo}
 ! 
-| "[=ve][InterjPRQ][=EXCL]" : {ve}
+| "[=ve][Interj:PRQ][=EXCL]" : {ve}
 ! 
-| "[=aasem][InterjPRQ][=INTJ]" : {aasem}
+| "[=aasem][Interj:PRQ][=INTJ]" : {aasem}
 ! 
-| "[=hantikoeni][InterjPRQ][=shut.up!, be.quiet!, keep.quiet!, hush! (ES: ¡cállate!)]" : {hantikoeni}
+| "[=hantikoeni][Interj:PRQ][=shut.up!, be.quiet!, keep.quiet!, hush! (ES: ¡cállate!)]" : {hantikoeni}
 ! 
-| "[=intsi][InterjPRQ][=INTJ]" : {intsi}
-| "[=intsi][InterjPRQ][=INTJ][--][-tyami+expectational][+PLEA]" : {intsityami}
+| "[=intsi][Interj:PRQ][=INTJ]" : {intsi}
+| "[=intsi][Interj:PRQ][=INTJ][--][-tyami+expectational][+PLEA]" : {intsityami}
 ! 
-| "[=taanitya][InterjPRQ][=no.clue, I.don't.know]" : {taanitya}
+| "[=taanitya][Interj:PRQ][=no.clue, I.don't.know]" : {taanitya}
 ! 
-| "[=oh][InterjPRQ][=INTJ]" : {oh}
+| "[=oh][Interj:PRQ][=INTJ]" : {oh}
 ! 
-| "[=incha][InterjPRQ][=go.away, let's.see? (ES: vete, ¿a.ver?)]" : {incha}
+| "[=incha][Interj:PRQ][=go.away, let's.see? (ES: vete, ¿a.ver?)]" : {incha}
 ! 
-| "[=iyamakiave][InterjPRQ][=INTJ (EN: expression.of.surprise)]" : {iyamakiave}
+| "[=iyamakiave][Interj:PRQ][=INTJ (EN: expression.of.surprise)]" : {iyamakiave}
 ! 
-| "[=hataana][InterjPRQ][=good.bye (ES: adiós, chau, me.voy)]" : {hataana}
-| "[=hatahana][InterjPRQ][=good.bye (ES: adiós, chau, me.voy)]" : {hatahana}
+| "[=hataana][Interj:PRQ][=good.bye (ES: adiós, chau, me.voy)]" : {hataana}
+| "[=hatahana][Interj:PRQ][=good.bye (ES: adiós, chau, me.voy)]" : {hatahana}
 ! 
 | "[=akaya][Interj][=INTJ (EN: ouch; ES: ¡ay!)]" : {akaya}
 | "[=akaya][Interj][=INTJ (EN: ouch; ES: ¡ay!)][--][-ve][+EMPH]" : {akayave}
 ! 
-| "[=ha][InterjPRQ][=INTJ (EN: aha)]" : {ha}
-| "[=aa][InterjPRQ][=INTJ (EN: humph)]" : {aa}
-| "[=oo][InterjPRQ][=INTJ (EN: ohh.dear)]" : {oo}
+| "[=ha][Interj:PRQ][=INTJ (EN: aha)]" : {ha}
+| "[=aa][Interj:PRQ][=INTJ (EN: humph)]" : {aa}
+| "[=oo][Interj:PRQ][=INTJ (EN: ohh.dear)]" : {oo}
 ! 
-| "[=shei][InterjPRQ][=INTJ (EN: expression.of.compassion)]" : {shei}
+| "[=shei][Interj:PRQ][=INTJ (EN: expression.of.compassion)]" : {shei}
 ! 
-| "[=mataka][InterjPRQ][=INTJ (ES: ya.está)]" : {mataka}
-| "[=matak][InterjPRQ][=INTJ (ES: ya.está)]" : {matak}
+| "[=mataka][Interj:PRQ][=INTJ (ES: ya.está)]" : {mataka}
+| "[=matak][Interj:PRQ][=INTJ (ES: ya.está)]" : {matak}
 ! 
-| "[=amaaka][InterjPRQ][=be.certain]" : {amaaka}
+| "[=amaaka][Interj:PRQ][=be.certain]" : {amaaka}
 ! 
 | "[=haa][Interj][=INTJ (ES: expresión.de.sorpresa)]" : {haa} ! \cite[pag. 70]{payne:diccionario:80} 
 ];
