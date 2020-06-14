@@ -9,7 +9,7 @@ define WhPRQin [
 ! 3.- SPECIF: specific 
 ! 
 # ----------------------------------------------------------------
-  "[=tsika+periphrasis.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]" : {tsika}
+  "[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]" : {tsika}
 | "[=tsika][WhPrn][=WH][--][=paita][WhPrn][=WH]::[=WH (EN: how,, why,, what); tsika_opaita~tsikapaita (EN: what.is.it.called.that,, what)]" : {tsikapaita}
 | "[=tsipaita][Prn][=INDF (EN: whatever, something); tsika_opaita~tsipaita (EN: what.is.it.called.that,, what)]" : {tsipaita}
 # tsikarika / =tsika -rika / =wh -cond / EN: 'what if (i.e. whatever)' 
@@ -37,7 +37,7 @@ define WhPRQin [
 # oeta nantiri / ES: 'cómo.hago'
 # oetaka / =oeta =ka / =WH =q / ES: 'qué.quieres' 
 # ¿oeta namitakotemiri? / =oeta *** n- =amitako -t -e =mi =ri / ES: '¿en.qué.te.puedo.servir?' 
-| "[=oeta+periphrasis.][WhPrn][=WH (EN: ,, lit.: it.is.called; ES: ,, lit.: ella.es)]" : {oeta}
+| "[=oeta+periphrasis@=ant;=amitako.][WhPrn][=WH (EN: ,, lit.: it.is.called; ES: ,, lit.: ella.es)]" : {oeta}
 | "[=oita][WhPrn][=WH (EN: ,, lit.: it.is.called; ES: ,, lit.: ella.es)]" : {oita}
 | "[=oeta][WhPrn][=WH (EN: ,, lit.: it.is.called)][--][=ka][+Q][--][=kia][+EMPH]" : {oetakakia}
 # oitarika / o- =ii -t -a+n.fut.+C.A@mid.v. =rika / 3n.m.s- =to.name -ep -real =rika / 'what.is.it.about' 
@@ -134,7 +134,7 @@ define WhPRQin [
 # 
 # --------------------------------------------
 ! 
-| "[=haoka+periphrasis@=kara:=pahit:=hi(t).][WhPrn][=WH (EN: which, when; ES: ¿dónde?, ¿cuándo?)]" : {haoka}
+| "[=haoka+periphrasis@=kara;=pahit;=hi(t).][WhPrn][=WH (EN: which, when; ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND][--][-pe][Num][+PL]" : {haokarikape}
 | "[=haoka][WhPrn][=WH][--][=kia][+EMPH]" : {haokakia}
@@ -148,7 +148,7 @@ define WhPRQin [
 | "[=hoaka][WhPrn][=WH]" : {hoaka}
 # --------------------------------------------
 ! 
-| "[=hempe+periphrasis.][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hempe}
+| "[=hempe+periphrasis@=saik.][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {hempe}
 | "[=hiNpe/hĩpe+periphrasis@=seyk.][WhPrn:CPB][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : [{hĩpe}|{hipe}]
 | "[=himpe+periphrasis.][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]" : {himpe}
 ! 
