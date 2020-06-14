@@ -5,7 +5,7 @@ define VRootESin [
 | "[=mete][VRoot:Es][=to.put.sth. (ES: meter)]" : {mete} 
 | "[=juega][VRoot:Es][=to.play (ES: jugar)]" : {juega} 
 | "[=malogra][VRoot:Es][=to.waste (ES: malograr)]" : {malogra} ! to.waste ???
-| "[=jabo][VRootEs][=to.soap.sth (ES: enjabonar, jabonar)]" : {jabo}
+| "[=jabo][VRoot:Es][=to.soap.sth (ES: enjabonar, jabonar)]" : {jabo}
 | "[=cura/kora][VRoot:Es][=to.cure (ES: curar)]" : {kora}
 | "[=cosecha/kosecha][VRoot:Es][=to.harvest (ES: cosechar)]" : {kosecha}
 ];
