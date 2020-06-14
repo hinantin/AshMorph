@@ -1,11 +1,11 @@
 define VRootESin [
-  "[=tej][VRootEs][=to.weave (ES: tejer)]" : {tih} 
-| "[=tej][VRootEs][=to.weave (ES: tejer)]" : {tij} 
-| "[=maneja][VRootEs][=to.drive (ES: manejar)]" : {manija} 
-| "[=mete][VRootEs][=to.put.sth. (ES: meter)]" : {mete} 
-| "[=juega][VRootEs][=to.play (ES: jugar)]" : {juega} 
-| "[=malogra][VRootEs][=to.waste (ES: malograr)]" : {malogra} ! to.waste ???
+  "[=tej][VRoot:Es][=to.weave (ES: tejer)]" : {tih} 
+| "[=tej][VRoot:Es][=to.weave (ES: tejer)]" : {tij} 
+| "[=maneja][VRoot:Es][=to.drive (ES: manejar)]" : {manija} 
+| "[=mete][VRoot:Es][=to.put.sth. (ES: meter)]" : {mete} 
+| "[=juega][VRoot:Es][=to.play (ES: jugar)]" : {juega} 
+| "[=malogra][VRoot:Es][=to.waste (ES: malograr)]" : {malogra} ! to.waste ???
 | "[=jabo][VRootEs][=to.soap.sth (ES: enjabonar, jabonar)]" : {jabo}
-| "[=cura/kora][VRootEs][=to.cure (ES: curar)]" : {kora}
-| "[=cosecha/kosecha][VRootEs][=to.harvest (ES: cosechar)]" : {kosecha}
+| "[=cura/kora][VRoot:Es][=to.cure (ES: curar)]" : {kora}
+| "[=cosecha/kosecha][VRoot:Es][=to.harvest (ES: cosechar)]" : {kosecha}
 ];
