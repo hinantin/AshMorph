@@ -8,6 +8,9 @@ binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 use Storable;
 
+# --------------------------------
+# Task specific prediction 
+# --------------------------------
 # check if paramenter was given, either:
 # -train (disambiguated input, add class in last row)
 # -test (input to be disambiguated, leave last row empty)
