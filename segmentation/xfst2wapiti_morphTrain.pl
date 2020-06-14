@@ -481,7 +481,7 @@ my $lastlineEmpty=0;
 # print all instances and assign the ones that will not be disambiguated with the current model a dummy label (or their pos?) TODO: test
 
 # -----------
-# offsets
+# offsets (rows)
 # -----------
 for (my $i=0;$i<scalar(@words);$i++){  # iterating through CRFs offsets 
 	my $word = @words[$i];
