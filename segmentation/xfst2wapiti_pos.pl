@@ -9,6 +9,8 @@ use strict;
 use Storable;
 use File::Spec::Functions qw(rel2abs);
 use File::Basename;
+use Config::IniFiles;
+
 my $path = dirname(rel2abs($0));
 
 
@@ -51,7 +53,12 @@ while(<STDIN>){
 	{
 		my ($form, $analysis) = split(/\t/);
 		# determining word class
-		my ($root) = $analysis =~ m/(ALFS|CARD|NP|NRoot|VRoot|PostPol|Part|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
+		my $CONFIG =
+		Config::IniFiles->new( -file =>
+		  $path."/pos.ini"
+		);
+		my $partofspeechtags = $CONFIG->val( 'PART_OF_SPEECH', 'POS' );
+		my ($root) = $analysis =~ m/($partofspeechtags)/ ;
 		#print STDERR "$analysis\n";
 		#$root =~ s/\?/\\?/ig;
 		# loan word 
