@@ -41,12 +41,14 @@ unless($trainOrGold eq '-train' or $trainOrGold eq '-gold' or !$trainOrGold){
 
 
 
-my @words;
+my @words; # general variable where each word and its corresponding analysis are stored
 
 # my %hashAnalysis = ('pos', $root, 'morph', \@suffixmorphtags, 'allmorphs', $allsuffixes, 'lem', $lem, 'isNP', $isNP, 'string', $analysis);
 # my @analyses = ( \%hashAnalysis ) ; # @analyses contains more than 1 %hashAnalysis 
 # push(@$analyses, \%hashAnalysis);
 # my @word = ($form, \@analyses); # pseudo hash ?
+#		push(@word, \@possibleClasses);
+#		push(@word, $actualClass);
 # push(@words,\@word);
 
 my $newWord=1;
