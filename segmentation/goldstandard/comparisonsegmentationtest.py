@@ -58,6 +58,18 @@ with open('human_annotation/rand.out.2') as f:
             if ("@@" in val):
                 numberofoptions = numberofoptions + 1
                 # compare indexes
+"""
+          1111111
+01234567890123456
+m@@ap@@ip@@aye@@eni
+
+0123456789
+mapipayeeni
+ @@             0-1    1  1-1
+   @@           2-3    5  5-3            
+     @@         5-6    9  9-4
+        @@      7-8    14 14-7
+"""
                 # getting indexes from human annotation
                 indexeswordhumanannotation = findindexes(val, "@")
                 # getting indexes from software
