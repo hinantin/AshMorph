@@ -1,4 +1,5 @@
 # 0:lowercased word	 1:case(lc/uc)		2-4:root-pos	5-14:morph-tags		15:lemma	16:class
+# root-pos
 U00:%x[0,3]
 U00:%x[0,4]
 U01:%x[-1,3]
@@ -9,9 +10,13 @@ U03:%x[1,3]
 U03:%x[1,4]
 U04:%x[2,3]
 U04:%x[2,4]
+
+# class
 U05:%x[0,15]
 U05:%x[0,16]
 U05:%x[0,17]
+
+# morph-tags 
 U25:%x[0,5]
 U25:%x[0,6]
 U25:%x[0,7]
@@ -42,10 +47,17 @@ U27:%x[-1,11]
 U27:%x[-1,12]
 U27:%x[-1,13]
 U27:%x[-1,14]
+
+# n, case (lc/uc)
 U48:%x[0,1]
+# previous.case/current.case
 U49:%x[-1,1]/%x[0,1]
+# next.case/current.case
 U50:%x[0,1]/%x[1,1]
+
+# previous.root-pos/current.root-pos
 U56:%x[-1,3]/%x[0,3]
+# next.root-pos/current.root-pos
 U57:%x[0,3]/%x[1,3]
 
 B
