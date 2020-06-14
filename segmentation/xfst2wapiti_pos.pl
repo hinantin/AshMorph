@@ -33,7 +33,11 @@ unless($mode eq '-test' or $mode eq '-train' or !$mode){
 }
 
 my @words;
-# %data = ('John Paul', 45, 'Lisa', 30, 'Kumar', 40);
+
+# my %hashAnalysis = ('pos', $root, 'morph', \@suffixmorphtags, 'allmorphs', $allsuffixes, 'lem', $lem, 'isNP', $isNP, 'string', $analysis);
+# my @analyses = ( \%hashAnalysis ) ; # @analyses contains more than 1 %hashAnalysis 
+# my @word = ($form, \@analyses);
+# push(@words,\@word);
 
 my $newWord=1; # flag indicating a new word 
 my $index=0;
