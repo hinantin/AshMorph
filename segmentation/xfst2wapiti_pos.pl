@@ -55,7 +55,7 @@ while(<STDIN>){
 		# determining word class
 		my $CONFIG =
 		Config::IniFiles->new( -file =>
-		  $path."/pos.ini"
+			$path."/pos.ini"
 		);
 		my $partofspeechtags = $CONFIG->val( 'PART_OF_SPEECH', 'POS' );
 		my ($root) = $analysis =~ m/($partofspeechtags)/ ;
