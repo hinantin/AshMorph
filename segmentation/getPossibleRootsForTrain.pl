@@ -11,10 +11,15 @@ use Config::IniFiles;
 # get possible roots from xfst and store hash with this info to disk
 
 my @words;
-my $newWord=1;
-my $index=0;
 
-my @words;
+# my %hashAnalysis = ('pos', $root, 'morph', \@suffixmorphtags, 'allmorphs', $allsuffixes, 'lem', $lem, 'isNP', $isNP, 'string', $analysis);
+# my @analyses = ( \%hashAnalysis ) ; # @analyses contains more than 1 %hashAnalysis 
+# push(@$analyses, \%hashAnalysis);
+# my @word = ($form, \@analyses); # pseudo hash ?
+#		push(@word, \@possibleClasses);
+#		push(@word, $actualClass);
+# push(@words,\@word);
+
 my $newWord=1;
 my $index=0;
 
