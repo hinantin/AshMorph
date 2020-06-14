@@ -1,7 +1,7 @@
 # 0::lowercased word	 1:case(lc/uc)		2-5:root-pos	6-15:morph-tags		16-17:lemma	18:class
-# THE PARTS OF THE CRF MATRIX THAT WILL BE USED TO PRODUCE A PREDICTION  
+# THE PARTS.OF.THE.CRF.MATRIX / CONTEXT.WINDOW / SET.OF.INPUTS THAT WILL BE USED TO PRODUCE A PREDICTION  
 # Unigram
-# possible root pos
+# possible root pos up to the previous 4 and up to the next 4
 U00:%x[-4,17]
 U00:%x[-4,16]
 U01:%x[-3,17]
