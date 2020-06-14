@@ -1,32 +1,25 @@
 # 0::lowercased word	 1:case(lc/uc)		2-5:root-pos	6-15:morph-tags		16-17:lemma	18:class
+# THE PARTS OF THE CRF MATRIX THAT WILL BE USED TO PRODUCE A PREDICTION  
 # Unigram
+# possible root pos
 U00:%x[-4,17]
 U00:%x[-4,16]
-#U00:%x[-4,0]
 U01:%x[-3,17]
 U01:%x[-3,16]
-#U01:%x[-3,0]
 U02:%x[-2,17]
 U02:%x[-2,16]
-#U02:%x[-2,0]
 U03:%x[-1,17]
 U03:%x[-1,16]
-#U03:%x[-1,0]
 U04:%x[0,17]
 U04:%x[0,16]
-#U04:%x[0,0]
 U05:%x[1,17]
 U05:%x[1,16]
-#U05:%x[1,0]
 U06:%x[2,17]
 U06:%x[2,16]
-#U06:%x[2,0]
 U07:%x[3,17]
 U07:%x[3,16]
-#U07:%x[3,0]
 U08:%x[4,17]
 U08:%x[4,16]
-#U08:%x[4,0]
 
 # root pos
 U24:%x[0,2]
