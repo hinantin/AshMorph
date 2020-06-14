@@ -36,6 +36,7 @@ my @words;
 
 # my %hashAnalysis = ('pos', $root, 'morph', \@suffixmorphtags, 'allmorphs', $allsuffixes, 'lem', $lem, 'isNP', $isNP, 'string', $analysis);
 # my @analyses = ( \%hashAnalysis ) ; # @analyses contains more than 1 %hashAnalysis 
+# push(@$analyses, \%hashAnalysis);
 # my @word = ($form, \@analyses); # pseudo hash ?
 # push(@words,\@word);
 
