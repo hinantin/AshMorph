@@ -170,7 +170,11 @@ while(<STDIN>){
 }
 if($mode eq '-1')
 {
+	# ----------------------------
 	# get NS/ VS ambiguities
+	# ----------------------------
+	# We will assign possible-classes according to the XFST analyses.
+	# correct-class will be the output when the model is used 
 	foreach my $word (@words)
 	{
 		my $analyses = @$word[1];
@@ -187,11 +191,13 @@ if($mode eq '-1')
 			# -sqayki
 			if(&containedInOtherMorphs($xfstAnalyses,"+Perf","+1.Sg.Subj_2.Sg.Obj.Fut"))
 			{
+				# possible-classes
 				push(@possibleClasses, "Perf");
 				push(@possibleClasses, "Fut");
 				if(&containedInOtherMorphs($xfstAnalyses,"+Perf","+IPst+1.Sg.Subj_2.Sg.Obj")){
 					push(@possibleClasses, "IPst");
 				}
+				# actual-class
 				if($allmorphs =~ /Perf/){$actualClass = "Perf";}
 				elsif($allmorphs =~  /Fut/){$actualClass = "Fut";}
 				elsif($allmorphs =~ /IPst/ ){$actualClass = "IPst";}
@@ -199,11 +205,13 @@ if($mode eq '-1')
 			# -sqaykichik
 			elsif(&containedInOtherMorphs($xfstAnalyses,"+Perf","+1.Sg.Subj_2.Pl.Obj.Fut"))
 			{
+				# possible-classes
 				push(@possibleClasses, "Perf");
 				push(@possibleClasses, "Fut");
 				if(&containedInOtherMorphs($xfstAnalyses,"+Perf","+IPst+1.Sg.Subj_2.Pl.Obj")){
 					push(@possibleClasses, "IPst");
 				}
+				# actual-class
 				if($allmorphs =~ /Perf/){$actualClass = "Perf";}
 				elsif($allmorphs =~  /Fut/){$actualClass = "Fut";}
 				elsif($allmorphs =~ /IPst/ ){$actualClass = "IPst";}
@@ -211,8 +219,10 @@ if($mode eq '-1')
 			# -sqa
 			elsif(&containedInOtherMorphs($xfstAnalyses,"+Perf","+IPst") || &containedInOtherMorphs($xfstAnalyses,"+Perf","+3.Sg.Subj.IPst") )
 			{
+				# possible-classes
 				push(@possibleClasses, "IPst");
 				push(@possibleClasses, "Perf");
+				# actual-class
 				if($allmorphs =~ /IPst/  ){$actualClass = "IPst";}
 				if($allmorphs =~ /Perf/  ){$actualClass = "Perf";}
 				#print "@$word[0]\n";
@@ -220,8 +230,10 @@ if($mode eq '-1')
 			# -y
 			elsif(&containedInOtherMorphs($xfstAnalyses,"+2.Sg.Subj.Imp","+Inf"))
 			{
+				# possible-classes
 				push(@possibleClasses, "Imp");
 				push(@possibleClasses, "Inf");
+				# actual-class
 				if($allmorphs =~  /Imp/){$actualClass = "Imp";}
 				elsif($allmorphs =~ /Inf/ ){$actualClass = "Inf";}
 				#print STDERR "actual class: $actualClass\n allmorph: $allmorphs\n";
@@ -230,8 +242,10 @@ if($mode eq '-1')
 			# -yman
 			elsif(&containedInOtherMorphs($xfstAnalyses,"+1.Sg.Subj.Pot","+Inf+Dat_Ill"))
 			{
+				# possible-classes
 				push(@possibleClasses, "Pot");
 				push(@possibleClasses, "Inf");
+				# actual-class
 				if($allmorphs =~ /Inf/  ){$actualClass = "Inf";}
 				elsif($allmorphs =~ /Pot/  ){$actualClass = "Pot";}
 				#print "@$word[0]\n";
@@ -239,8 +253,10 @@ if($mode eq '-1')
 			# -ykuna
 			elsif(&containedInOtherMorphs($xfstAnalyses,"+Inf+Pl","+Aff+Obl"))
 			{
+				# possible-classes
 				push(@possibleClasses, "Inf");
 				push(@possibleClasses, "Aff_Obl");
+				# actual-class
 				if($allmorphs =~ /\Q+Inf+Pl\E/ ){$actualClass = "Inf";}
 				elsif($allmorphs =~ /Aff\+Obl/  ){$actualClass = "Aff_Obl";}
 				#print "@$word[0]\n";
@@ -248,8 +264,10 @@ if($mode eq '-1')
 			# -kuna
 			elsif(&containedInOtherMorphs($xfstAnalyses,"+Pl","+Rflx_Int+Obl"))
 			{
+				# possible-classes
 				push(@possibleClasses, "Pl");
 				push(@possibleClasses, "Rflx_Obl");
+				# actual-class
 				if($allmorphs =~ /\Q+Pl\E/  ){$actualClass = "Pl";}
 				elsif($allmorphs =~ /\Q+Rflx_Int+Obl\E/ ){$actualClass = "Rflx_Obl";}
 				#print "@$word[0]\n";
@@ -257,12 +275,14 @@ if($mode eq '-1')
 			# -cha
 			elsif(&containedInOtherMorphs($xfstAnalyses,"+Fact","+Dim"))
 			{
+				# possible-classes
 				push(@possibleClasses, "Fact");
 				push(@possibleClasses, "Dim");
 				# should not be a verb, but you never know..
 				if(&containedInOtherMorphs($xfstAnalyses,"+Dim","+Vdim+Rflx_Int+Obl") or &containedInOtherMorphs($xfstAnalyses,"+Fact","+Vdim") ){
 					push(@possibleClasses, "Vdim");
 				}
+				# actual-class
 				if($allmorphs =~  /\Q+Fact\E/){$actualClass = "Fact";}
 				elsif($allmorphs =~ /\Q+Dim\E/){$actualClass = "Dim";}
 				elsif($allmorphs =~ /\Q+Vdim\E/){$actualClass = "Vdim";}
@@ -271,8 +291,10 @@ if($mode eq '-1')
 			# -waq 2.Sg.Pot vs. -wa -q (Ag) NOTE: could not evaluate performance on this ambiguity, occurs in none of the four test texts
 			elsif(&containedInOtherMorphs($xfstAnalyses,"+1.Obj+Ag","+2.Sg.Subj.Pot" ) or &containedInOtherMorphs($xfstAnalyses,"+1.Obj+Ag+3.Subj_1.Pl.Incl.Obj","+1.Pl.Incl.Subj.Pot" ))
 			{
+				# possible-classes
 				push(@possibleClasses, "12Pot");
 				push(@possibleClasses, "Ag");
+				# actual-class
 				if($allmorphs =~  /\+2\.Sg\.Subj\.Pot/){$actualClass = "12Pot";}
 				elsif($allmorphs =~ /\+1\.Obj.*\+Ag/ ){$actualClass = "Ag";}
 			}
@@ -280,8 +302,10 @@ if($mode eq '-1')
 		# else: other ambiguities, leave
 		else
 		{
+				# possible-classes
 				push(@possibleClasses, "ZZZ");
 				# TODO test what's better...
+				# actual-class
 				$actualClass = "none";
 				#$actualClass = @$analyses[0]->{'pos'};
 		}

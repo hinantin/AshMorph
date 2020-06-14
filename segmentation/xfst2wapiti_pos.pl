@@ -246,8 +246,10 @@ if($hasMdirect)
 	}
 }
 
-
-foreach my $word (@words){
+# -----------
+# offsets (rows)
+# -----------
+foreach my $word (@words){  # iterating through CRFs offsets 
 	my $analyses = @$word[1];
 	my $form = @$word[0];
 	
@@ -265,9 +267,15 @@ foreach my $word (@words){
 	}
 	else
 	{
+		#--------------
+		# feature 0: lowercased word
+		#--------------
 		#print "$form\t";
 		print lc($form)."\t";
 		
+		#--------------
+		# feature 1: n, case (lc/uc)
+		#--------------
 		$lastlineEmpty =0;
 		# uppercase/lowercase?
 		#punctuation (punctuation has never more than one analysis, so we can just take @$analyses[0])
@@ -281,7 +289,10 @@ foreach my $word (@words){
 		else{
 			print "lc\t";
 		}
-	
+
+		#--------------
+		# feature 2-5: root-pos
+		#--------------
 		# possible root pos
 		my $printedroots='';
 		my $nbrOfPos =0;
@@ -290,7 +301,7 @@ foreach my $word (@words){
 		foreach my $analysis (@$analyses){
 			my $pos = $analysis->{'pos'};
 			$isNP = $analysis->{'isNP'};
-			unless($printedroots =~ /\Q$pos\E/){
+			unless($printedroots =~ /\Q$pos\E/){ # do not print repeated root types 
 				print "$pos\t";
 				$printedroots = $printedroots.$pos;
 				$nbrOfPos++;
