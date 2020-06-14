@@ -60,7 +60,7 @@ while(<STDIN>){
 		}
 		
 		elsif($root eq ''){
-			if($form eq '#eos'){
+			if($form =~ /#eos|#EOS/){
 				print "\n";
 				next;
 			}
