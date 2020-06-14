@@ -33,6 +33,8 @@ unless($mode eq '-test' or $mode eq '-train' or !$mode){
 }
 
 my @words;
+# %data = ('John Paul', 45, 'Lisa', 30, 'Kumar', 40);
+
 my $newWord=1; # flag indicating a new word 
 my $index=0;
 #my $hasPAS =0;
