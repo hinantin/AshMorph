@@ -6,6 +6,7 @@ binmode STDIN, ':utf8';
 binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 use Storable;
+use Config::IniFiles;
 
 # get possible roots from xfst and store hash with this info to disk
 
@@ -34,8 +35,14 @@ while(<STDIN>){
 		{	
 			unless(/RootG/){
 				my ($form, $analysis) = split(/\t/);
-			
-				my ($pos) = $analysis =~ m/(ALFS|CARD|NP|NRoot|VRoot|Neg|WhPrn|Part|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
+				# determining word class
+				my $CONFIG =
+				Config::IniFiles->new( -file =>
+					$path."/pos.ini"
+				);
+				my $partofspeechtags = $CONFIG->val( 'PART_OF_SPEECH', 'POS' );
+				my ($pos) = $analysis =~ m/($partofspeechtags)/ ;
+				#my ($pos) = $analysis =~ m/(ALFS|CARD|NP|NRoot|VRoot|Neg|WhPrn|Part|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
 				#print STDERR "$analysis\n";
 				my ($root) = $analysis =~ m/^([^\[]+?)\[/ ;
 				#print "$root\n";
@@ -112,7 +119,7 @@ while(<STDIN>){
 				}
 				$newWord=0;	
 		 }
-	}		
+	}
 }
 
 # store @words as hash to disk
