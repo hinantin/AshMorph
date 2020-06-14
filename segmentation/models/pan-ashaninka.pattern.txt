@@ -1,4 +1,4 @@
-# 0:lowercased word	 1:case(lc/uc)		2-4:root-pos	5-14:morph-tags		15:lemma	16:class
+# 0::lowercased word	 1:case(lc/uc)		2-5:root-pos	6-15:morph-tags		16-17:lemma	18:class
 # Unigram
 U00:%x[-4,17]
 U00:%x[-4,16]

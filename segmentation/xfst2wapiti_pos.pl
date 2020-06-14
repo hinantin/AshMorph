@@ -332,6 +332,9 @@ foreach my $word (@words){  # iterating through CRFs offsets
 			$nbrOfPos++;
 		}
 	
+		#--------------
+		# feature 6-15: morph-tags 
+		#--------------
 		#possible morph tags, variant 1: take only those morph tags into account that are present in ALL analyses
 		my $printedmorphs='';
 		my $nbrOfMorph =0;
@@ -392,6 +395,9 @@ foreach my $word (@words){  # iterating through CRFs offsets
 			$nbrOfMorph++;
 		}
 		
+		#--------------
+		# feature 16-17: lemma 
+		#--------------
 		#print possible lemmas 
 		# possible root pos
 		my $printedlems='#';
@@ -427,7 +433,9 @@ foreach my $word (@words){  # iterating through CRFs offsets
 			$nbrOfLems++;
 		}
 		
-	
+		#--------------
+		# feature 18: pos 
+		#--------------
 		# only one analysis, take pos from @$analyses[0]
 		if($mode eq '-train')
 		{

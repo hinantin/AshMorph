@@ -1,3 +1,4 @@
+# 0:lowercased word	 1:case(lc/uc)		2-4:root-pos	5-14:morph-tags		15:lemma	16:class
 U00:%x[0,3]
 U00:%x[0,4]
 U01:%x[-1,3]
