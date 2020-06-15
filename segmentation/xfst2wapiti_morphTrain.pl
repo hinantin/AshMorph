@@ -236,15 +236,15 @@ if($mode eq '-1')
 				if($allmorphs =~ /Perf/  ){$actualClass = "Perf";}
 				#print "@$word[0]\n";
 			}
-			# -y
-			elsif(&containedInOtherMorphs($xfstAnalyses,"+2.Sg.Subj.Imp","+Inf"))
+			# -aantsi
+			elsif(&containedInOtherMorphs($xfstAnalyses,"+ADJ.PARTIC","+NMZ.INF"))
 			{
 				# possible-classes
-				push(@possibleClasses, "Imp");
-				push(@possibleClasses, "Inf");
+				push(@possibleClasses, "ADJ.PARTIC");
+				push(@possibleClasses, "NMZ.INF");
 				# actual-class
-				if($allmorphs =~  /Imp/){$actualClass = "Imp";}
-				elsif($allmorphs =~ /Inf/ ){$actualClass = "Inf";}
+				if($allmorphs =~  /\QADJ.PARTIC\E/){$actualClass = "ADJ.PARTIC";}
+				elsif($allmorphs =~ /\QNMZ.INF\E/ ){$actualClass = "NMZ.INF";}
 				#print STDERR "actual class: $actualClass\n allmorph: $allmorphs\n";
 				#print STDERR "@$word[0]\n\n";
 			}
@@ -691,16 +691,18 @@ for (my $i=0;$i<scalar(@words);$i++){  # iterating through CRFs offsets
 			$nbrOfMorph++;
 		}
 		#--------------
-		# feature 15: lemma (only on mode 3)
+		# feature 15-16: lemma (only on mode 3)
 		#--------------
 		# for morph3: add info about evidential and genitive suffixes 
 		if($mode eq '-3'){
+			# feature 15 
 			if(@$word[4] eq ''){
 				print "ZZZ\t";
 			}
 			else{
 				print "@$word[4]\t";
 			}
+			# feature 16 
 			if(@$word[5] eq ''){
 				print "ZZZ\t";
 			}
@@ -711,8 +713,8 @@ for (my $i=0;$i<scalar(@words);$i++){  # iterating through CRFs offsets
 		}
 		
 		#--------------
-		# feature 15-18: class
-		# feature 19: correct-class, none  
+		# feature 15-18: 4 possible classes
+		# feature 19: 1 correct-class or none  
 		#--------------
 		if(scalar(@$possibleClasses)>1 && $correctClass ne ''  && $correctClass ne 'none')
 		{
