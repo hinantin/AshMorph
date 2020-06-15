@@ -7,6 +7,8 @@ binmode STDIN, ':utf8';
 binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 use Storable;
+use File::Spec::Functions qw(rel2abs);
+use File::Basename;
 use Config::IniFiles;
 
 my $path = dirname(rel2abs($0));
