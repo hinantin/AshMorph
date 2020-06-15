@@ -28,6 +28,13 @@ open CRF, "< $crfFile" or die "Can't open $crfFile : $!";
 
 
 my @words;
+
+# my %hashAnalysis = ('pos', $root, 'morph', \@suffixmorphtags, 'allmorphs', $allsuffixes, 'allprefixes', $allprefixes, 'lem', $lem, 'isNP', $isNP, 'string', $analysis);
+# my @analyses = ( \%hashAnalysis ) ; # @analyses contains more than 1 %hashAnalysis 
+# push(@$analyses, \%hashAnalysis);
+# my @word = ($form, \@analyses); # pseudo hash ?
+# push(@words,\@word);
+
 my $newWord=1;
 my $index=0;
 
