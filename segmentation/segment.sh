@@ -44,6 +44,7 @@ $WAPITI label -m $MORPH1_MODEL $TMP_DIR/$TMPFILENAME.pos.test > $TMP_DIR/$TMPFIL
 # INPUT XFST -> OUTPUT CRF MATRIX 
 /usr/bin/perl $SEGMENTER/xfst2wapiti_morphTest.pl -1 $TMP_DIR/$TMPFILENAME.morph1.disamb > $TMP_DIR/$TMPFILENAME.morph2.test
 
+# INPUT CRF MATRIX -> OUTPUT CRF MATRIX
 $WAPITI label -m $MORPH2_MODEL $TMP_DIR/$TMPFILENAME.morph2.test > $TMP_DIR/$TMPFILENAME.morph2.result
 
 /usr/bin/perl $SEGMENTER/xfst2wapiti_morphTest.pl -2 $TMP_DIR/$TMPFILENAME.morph2.result > $TMP_DIR/$TMPFILENAME.morph3.test

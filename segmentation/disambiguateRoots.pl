@@ -129,6 +129,7 @@ while(<XFST>){
 	
 }
 
+# PROCESS CRF MATRIX FILE 
 chomp(my @crfLines = <CRF>);
 
 # remove empty lines at the end of crf file, then compare length to xfst (must be the same!)
@@ -140,7 +141,7 @@ while(@crfLines[$i] =~ /^$/){
 # find differences in files
 for(my $i=0;$i<scalar(@words);$i++){
 	my $line = @crfLines[$i];
-	my ($crfform, $rest) = split('\t',$line);
+	my ($crfform, $rest) = split('\t',$line); # GETTING FEATURES 
 	
 	my $word = @words[$i];
 	my $analyses = @$word[1];
@@ -153,7 +154,6 @@ for(my $i=0;$i<scalar(@words);$i++){
 		}
 	}
 	#print "same word in line ".($i+1).": xfst:$form, crf:$crfform\n";
-	
 }
 
 #my $last = @words[-1];
@@ -188,14 +188,13 @@ for(my $i=0;$i<scalar(@words);$i++){
 		print @$analyses[0]->{'string'}."\n";
 		$unambigForms++;
 	}
-	
 	else
 	{	
 		$ambigForms++;
 		# get valid pos from crf file (same index!)
 		my $crfline = @crfLines[$i];
-		my (@rows) = split('\t',$crfline);
-		my $correctPos = @rows[-1];
+		my (@rows) = split('\t',$crfline); # GETTING FEATURES 
+		my $correctPos = @rows[-1]; # GETTING OUTPUT FEATURE  
 		
 		# possible root pos
 		for(my $j=0;$j<scalar(@$analyses);$j++) {
@@ -220,7 +219,7 @@ for(my $i=0;$i<scalar(@words);$i++){
 #				for(my $j=0;$j<scalar(@$analyses);$j++) {
 #				my $analysis = @$analyses[$j];
 #				print @$analyses[$j]->{'string'};
-#			}
+#				}
 	}
 		
 		print "\n";
