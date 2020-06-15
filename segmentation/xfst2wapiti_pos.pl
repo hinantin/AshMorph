@@ -34,7 +34,7 @@ unless($mode eq '-test' or $mode eq '-train' or !$mode){
 
 my @words;
 
-# my %hashAnalysis = ('pos', $root, 'morph', \@suffixmorphtags, 'allmorphs', $allsuffixes, 'lem', $lem, 'isNP', $isNP, 'string', $analysis);
+# my %hashAnalysis = ('pos', $root, 'morph', \@suffixmorphtags, 'allmorphs', $allsuffixes, 'allprefixes', $allprefixes, 'lem', $lem, 'isNP', $isNP, 'string', $analysis);
 # my @analyses = ( \%hashAnalysis ) ; # @analyses contains more than 1 %hashAnalysis 
 # push(@$analyses, \%hashAnalysis);
 # my @word = ($form, \@analyses); # pseudo hash ?
@@ -171,6 +171,7 @@ while(<STDIN>){
 		$hashAnalysis{'pos'} = $root;
 		$hashAnalysis{'morph'} = \@suffixmorphtags;
 		$hashAnalysis{'allmorphs'} = $allsuffixes;
+		$hashAnalysis{'allprefixes'} = $allprefixes;
 		$hashAnalysis{'lem'} = $lem;
 		$hashAnalysis{'isNP'} = $isNP;
 		$hashAnalysis{'string'} = $analysis;
