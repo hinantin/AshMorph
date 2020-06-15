@@ -38,6 +38,7 @@ my @words;
 my $newWord=1;
 my $index=0;
 
+# PROCESS XFST FILE 
 while(<XFST>){
 	
 	if (/^$/)
