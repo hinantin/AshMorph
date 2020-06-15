@@ -9,6 +9,8 @@ binmode STDOUT, ':utf8';
 use Storable;
 use Config::IniFiles;
 
+my $path = dirname(rel2abs($0));
+
 # --------------------------------
 # Task specific prediction 
 # --------------------------------
