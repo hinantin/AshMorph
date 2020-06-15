@@ -41,7 +41,7 @@ $WAPITI label -m $MORPH1_MODEL $TMP_DIR/$TMPFILENAME.pos.test > $TMP_DIR/$TMPFIL
 # INPUT CRF MATRIX + ORIGINAL XFST -> CRF MATRIX 
 /usr/bin/perl $SEGMENTER/disambiguateRoots.pl $TMP_DIR/$TMPFILENAME.morph1.result $TMP_DIR/$TMPFILENAME.test_clean.xfst > $TMP_DIR/$TMPFILENAME.morph1.disamb
 
-# INPUT XFST -> OUTPUT CRF MATRIX 
+# INPUT XFST -> OUTPUT CRF MATRIX + DATA-STRUCTURE @words in /tmp/prevdisambMorph1 and /tmp/words1 
 /usr/bin/perl $SEGMENTER/xfst2wapiti_morphTest.pl -1 $TMP_DIR/$TMPFILENAME.morph1.disamb > $TMP_DIR/$TMPFILENAME.morph2.test
 
 # INPUT CRF MATRIX -> OUTPUT CRF MATRIX
