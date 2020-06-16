@@ -509,6 +509,7 @@ if($mode eq '-3')
 			# yku-n
 			if(&containedInOtherMorphs($analyses,"+REAL","+IRR") )
 			{
+				print STDERR "$analyses";
 				push(@possibleClasses, "REAL");
 				push(@possibleClasses, "IRR");
 				@$word[3] = "amb3";
