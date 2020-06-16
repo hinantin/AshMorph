@@ -520,55 +520,55 @@ if($mode eq '-3')
 				#print STDERR "-ykun \n";
 			}
 			# -n
-			elsif(&containedInOtherMorphs($analyses,"\Q+DirE\E","\Q+3.Sg.Poss\E") )
-			{
-				push(@possibleClasses, "DirE");
-				push(@possibleClasses, "Poss");
-				@$word[3] = "amb3";
-				# check if sentence already contains an evidential suffix
-				@$word[5] = &sentenceHasEvid(\@words, $i);
+			##elsif(&containedInOtherMorphs($analyses,"\Q+DirE\E","\Q+3.Sg.Poss\E") )
+			##{
+			##	push(@possibleClasses, "DirE");
+			##	push(@possibleClasses, "Poss");
+			##	@$word[3] = "amb3";
+			##	# check if sentence already contains an evidential suffix
+			##	@$word[5] = &sentenceHasEvid(\@words, $i);
 				#print "@$word[0], has evid: ".&sentenceHasEvid(\@words, $i)."\n";
 				# check if preceding word has a genitive suffix
-				unless($i==0){
-					my $preword = @words[$i-1];
-					my $preanalyses =  @$preword[1];
-					if(@$preanalyses[0]->{'allmorphs'} =~ /\+Gen/){
-						@$word[6] = 1;
-					}
-					else{
-						@$word[6] = 0;
-					}
-				}
-				#print STDERR "-n \n";
-				#print STDERR "@$word[0]: evid @$word[4], gen: @$word[5] \n";
-			}
+			##	unless($i==0){
+			##		my $preword = @words[$i-1];
+			##		my $preanalyses =  @$preword[1];
+			##		if(@$preanalyses[0]->{'allmorphs'} =~ /\+Gen/){
+			##			@$word[6] = 1;
+			##		}
+			##		else{
+			##			@$word[6] = 0;
+			##		}
+			##	}
+			##	#print STDERR "-n \n";
+			##	#print STDERR "@$word[0]: evid @$word[4], gen: @$word[5] \n";
+			##}
 			# -pis
-			elsif(&containedInOtherMorphs($analyses,"\Q+Loc+IndE\E","Add"))
-			{
-				push(@possibleClasses, "Loc_IndE");
-				push(@possibleClasses, "Add");
-				@$word[3] = "amb3";
-				@$word[5] = &sentenceHasEvid(\@words, $i);
-				#print STDERR "-pis \n";
-			}
+			##elsif(&containedInOtherMorphs($analyses,"\Q+Loc+IndE\E","Add"))
+			##{
+			##	push(@possibleClasses, "Loc_IndE");
+			##	push(@possibleClasses, "Add");
+			##	@$word[3] = "amb3";
+			##	@$word[5] = &sentenceHasEvid(\@words, $i);
+			##	#print STDERR "-pis \n";
+			##}
 	
 			# -s with Spanish roots: Plural or IndE (e.g. derechus)
-			elsif(!&notContainedInMorphs($analyses, "+IndE"))
-			{
-				foreach my $analisis(@$analyses)
-				{
-					my $string = $analisis->{'string'};
-					#if($string =~ /s\[NRootES/  )
-					if($string =~ /\QNRootES][--]s[Num\E/ )
-					{
-						push(@possibleClasses, "Pl");
-						push(@possibleClasses, "IndE");
-						@$word[3] = "amb3";
-						@$word[5] = &sentenceHasEvid(\@words, $i);
-					}
-				}
-				#print STDERR "-s \n";
-			}
+			##elsif(!&notContainedInMorphs($analyses, "+IndE"))
+			##{
+			##	foreach my $analisis(@$analyses)
+			##	{
+			##		my $string = $analisis->{'string'};
+			##		#if($string =~ /s\[NRootES/  )
+			##		if($string =~ /\QNRootES][--]s[Num\E/ )
+			##		{
+			##			push(@possibleClasses, "Pl");
+			##			push(@possibleClasses, "IndE");
+			##			@$word[3] = "amb3";
+			##			@$word[5] = &sentenceHasEvid(\@words, $i);
+			##		}
+			##	}
+			##	#print STDERR "-s \n";
+			##}
 			# else: lexical ambiguities, leave
 			else
 			{
