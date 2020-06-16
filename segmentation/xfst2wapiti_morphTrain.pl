@@ -437,72 +437,73 @@ if($mode eq '-3')
 	#	if(exists($xfstWords{$form}) && scalar(@$xfstAnalyses)>1)
 		if(exists($xfstWords{$form}) )
 		{
+			# REALIS OR IRREALIS
 			# TODO: missing in training material: rqakun -> rqa -ku -n/ -rqaku -m
 			# yku-n
-			if(&containedInOtherMorphs($xfstAnalyses,"+1.Pl.Excl.Subj+DirE","+Aff+3.Sg.Subj") )
+			if(&containedInOtherMorphs($xfstAnalyses,"\Q+REAL\E","\Q+IRR\E") )
 			{
-				push(@possibleClasses, "DirEs");
-				push(@possibleClasses, "Subj");
-				if($allmorphs =~  /DirE/){$actualClass = "DirE";}
-				elsif($allmorphs =~ /\Q+3.Sg.Subj\E/ ){$actualClass = "Subj";}
+				push(@possibleClasses, "REAL");
+				push(@possibleClasses, "IRR");
+				if($allmorphs =~  /\Q+REAL\E/) {$actualClass = "REAL";}
+				elsif($allmorphs =~ /\Q+IRR\E/) {$actualClass = "IRR";}
 				# check if sentence already contains an evidential suffix
-				@$word[4] = &sentenceHasEvid(\@words, $i);
+				##@$word[4] = &sentenceHasEvid(\@words, $i);
 				#print "@$word[0], has evid: ".&sentenceHasEvid(\@words, $i)."\n";
 				
 				#print "@$word[0]: evid @$word[4], gen: @$word[5] \n";
 			}
 			# -n
-			elsif(&containedInOtherMorphs($xfstAnalyses,"+DirE","+3.Sg.Poss") )
-			{ 
-				push(@possibleClasses, "DirE");
-				push(@possibleClasses, "Poss");
-				if($allmorphs =~ /DirE/){$actualClass = "DirE";}
-				elsif($allmorphs =~ /Poss/ ){$actualClass = "Poss";}
-				# check if sentence already contains an evidential suffix
-				@$word[4] = &sentenceHasEvid(\@words, $i);
-				#print "@$word[0], has evid: ".&sentenceHasEvid(\@words, $i)."\n";
-				# check if preceding word has a genitive suffix
-				unless($i==0){
-					my $preword = @words[$i-1];
-					my $preanalyses =  @$preword[1];
-					if(@$preanalyses[0]->{'allmorphs'} =~ /\+Gen/){
-						@$word[5] = 1;
-					}
-					else{
-						@$word[5] = 0;
-					}
-				}
-				#print "@$word[0]: evid @$word[4], gen: @$word[5] \n";
-				#print "$form class $actualClass\n";
-			}
-			# -pis
-			# get also the ones with -pas for training, otherwise we have only Loc_IndE in training (additive ocurrs only as -pas in trainig texts!)
-			elsif($allmorphs =~ /\Q+Loc+IndE\E/ || ($allmorphs =~ /\Q+Add\E/ && $string !~ /Add.*(IndE|DirE|Asmp)/) )
-			{
-				push(@possibleClasses, "Loc_IndE");
-				push(@possibleClasses, "Add");
-				if($allmorphs =~ /\Q+Loc+IndE\E/){$actualClass = "Loc_IndE";}
-				elsif($allmorphs =~ /Add/ ){$actualClass = "Add";}
-				@$word[4] =  &sentenceHasEvid(\@words, $i);
-			}
+			##elsif(&containedInOtherMorphs($xfstAnalyses,"+DirE","+3.Sg.Poss") )
+			##{ 
+			##	push(@possibleClasses, "DirE");
+			##	push(@possibleClasses, "Poss");
+			##	if($allmorphs =~ /DirE/){$actualClass = "DirE";}
+			##	elsif($allmorphs =~ /Poss/ ){$actualClass = "Poss";}
+			##	# check if sentence already contains an evidential suffix
+			##	@$word[4] = &sentenceHasEvid(\@words, $i);
+			##	#print "@$word[0], has evid: ".&sentenceHasEvid(\@words, $i)."\n";
+			##	# check if preceding word has a genitive suffix
+			##	unless($i==0){
+			##		my $preword = @words[$i-1];
+			##		my $preanalyses =  @$preword[1];
+			##		if(@$preanalyses[0]->{'allmorphs'} =~ /\+Gen/){
+			##			@$word[5] = 1;
+			##		}
+			##		else{
+			##			@$word[5] = 0;
+			##		}
+			##	}
+			##	#print "@$word[0]: evid @$word[4], gen: @$word[5] \n";
+			##	#print "$form class $actualClass\n";
+			##}
+			### -pis
+			### get also the ones with -pas for training, otherwise we have only Loc_IndE in training (additive ocurrs only as -pas in trainig texts!)
+			##elsif($allmorphs =~ /\Q+Loc+IndE\E/ || ($allmorphs =~ /\Q+Add\E/ && $string !~ /Add.*(IndE|DirE|Asmp)/) )
+			##{
+			##	push(@possibleClasses, "Loc_IndE");
+			##	push(@possibleClasses, "Add");
+			##	if($allmorphs =~ /\Q+Loc+IndE\E/){$actualClass = "Loc_IndE";}
+			##	elsif($allmorphs =~ /Add/ ){$actualClass = "Add";}
+			##	@$word[4] =  &sentenceHasEvid(\@words, $i);
+			##}
 	
 			# -s with Spanish roots: Plural or IndE (e.g. derechus)
-			elsif(!&notContainedInMorphs($xfstAnalyses, "+IndE"))
-			{
-				foreach my $analisis(@$xfstAnalyses)
-				{
-					my $string = $analisis->{'string'};
-					if($string =~ /s\[NRootES/ or $string =~ /\QNRootES][--]s[Num\E/  )
-					{
-						push(@possibleClasses, "Pl");
-						push(@possibleClasses, "IndE");
-						@$word[4] = &sentenceHasEvid(\@words, $i);
-						if($allmorphs =~ /\Q+IndE\E/){$actualClass = "IndE";}
-						else{$actualClass = "Pl";}
-					}
-				}
+			##elsif(!&notContainedInMorphs($xfstAnalyses, "+IndE"))
+			##{
+			##	foreach my $analisis(@$xfstAnalyses)
+			##	{
+			##		my $string = $analisis->{'string'};
+			##		if($string =~ /s\[NRootES/ or $string =~ /\QNRootES][--]s[Num\E/  )
+			##		{
+			##			push(@possibleClasses, "Pl");
+			##			push(@possibleClasses, "IndE");
+			##			@$word[4] = &sentenceHasEvid(\@words, $i);
+			##			if($allmorphs =~ /\Q+IndE\E/){$actualClass = "IndE";}
+			##			else{$actualClass = "Pl";}
+			##		}
+			##	}
 				
-			}
+			##}
 			# else: lexical ambiguities, leave
 			else
 			{

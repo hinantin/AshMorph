@@ -507,13 +507,13 @@ if($mode eq '-3')
 		{
 			# REALIS OR IRREALIS
 			# yku-n
-			if(&containedInOtherMorphs($analyses,"\Q+1.Pl.Excl.Subj+DirE\Q","\Q+Aff+3.Sg.Subj\E") )
+			if(&containedInOtherMorphs($analyses,"\Q+REAL\E","\Q+IRR\E") )
 			{
-				push(@possibleClasses, "DirEs");
-				push(@possibleClasses, "Subj");
+				push(@possibleClasses, "REAL");
+				push(@possibleClasses, "IRR");
 				@$word[3] = "amb3";
 				# check if sentence already contains an evidential suffix
-				@$word[5] = &sentenceHasEvid(\@words, $i);
+				##@$word[5] = &sentenceHasEvid(\@words, $i);
 				#print STDERR "@$word[0], has evid: ".&sentenceHasEvid(\@words, $i)."\n";
 				
 				#print "@$word[0]: evid @$word[4], gen: @$word[5] \n";
