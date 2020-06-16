@@ -440,7 +440,7 @@ if($mode eq '-3')
 			# REALIS OR IRREALIS
 			# TODO: missing in training material: rqakun -> rqa -ku -n/ -rqaku -m
 			# yku-n
-			if(&containedInOtherMorphs($xfstAnalyses,"\Q+REAL\E","\Q+IRR\E") )
+			if(&containedInOtherMorphs($xfstAnalyses,"+REAL","+IRR") )
 			{
 				push(@possibleClasses, "REAL");
 				push(@possibleClasses, "IRR");
