@@ -505,6 +505,7 @@ if($mode eq '-3')
 		
 		if(scalar(@$analyses)>1)
 		{
+			# REALIS OR IRREALIS
 			# yku-n
 			if(&containedInOtherMorphs($analyses,"\Q+1.Pl.Excl.Subj+DirE\Q","\Q+Aff+3.Sg.Subj\E") )
 			{
