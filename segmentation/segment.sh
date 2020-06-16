@@ -35,6 +35,9 @@ cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $
 cp $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst
 cat $TMP_DIR/$filename_no_ext.test.xfst | /usr/bin/perl $SEGMENTER/xfst2wapiti_pos.pl -test > $TMP_DIR/$TMPFILENAME.pos.test
 
+# -------------
+#      POS
+# -------------
 # INPUT CRF MATRIX -> OUTPUT CRF MATRIX
 $WAPITI label -m $MORPH1_MODEL $TMP_DIR/$TMPFILENAME.pos.test > $TMP_DIR/$TMPFILENAME.morph1.result
 
@@ -44,15 +47,24 @@ $WAPITI label -m $MORPH1_MODEL $TMP_DIR/$TMPFILENAME.pos.test > $TMP_DIR/$TMPFIL
 # INPUT XFST -> OUTPUT CRF MATRIX + DATA-STRUCTURE @words in /tmp/prevdisambMorph1 and /tmp/words1 
 /usr/bin/perl $SEGMENTER/xfst2wapiti_morphTest.pl -1 $TMP_DIR/$TMPFILENAME.morph1.disamb > $TMP_DIR/$TMPFILENAME.morph2.test
 
+# -------------
+#      1
+# -------------
 # INPUT CRF MATRIX -> OUTPUT CRF MATRIX
 $WAPITI label -m $MORPH2_MODEL $TMP_DIR/$TMPFILENAME.morph2.test > $TMP_DIR/$TMPFILENAME.morph2.result
 
 /usr/bin/perl $SEGMENTER/xfst2wapiti_morphTest.pl -2 $TMP_DIR/$TMPFILENAME.morph2.result > $TMP_DIR/$TMPFILENAME.morph3.test
 
+# -------------
+#      2
+# -------------
 $WAPITI label -m $MORPH3_MODEL $TMP_DIR/$TMPFILENAME.morph3.test > $TMP_DIR/$TMPFILENAME.morph3.result
 
 /usr/bin/perl $SEGMENTER/xfst2wapiti_morphTest.pl -3 $TMP_DIR/$TMPFILENAME.morph3.result > $TMP_DIR/$TMPFILENAME.morph4.test
 
+# -------------
+#      3
+# -------------
 $WAPITI label -m $MORPH4_MODEL $TMP_DIR/$TMPFILENAME.morph4.test > $TMP_DIR/$TMPFILENAME.morph4.result
 
 /usr/bin/perl $SEGMENTER/xfst2wapiti_morphTest.pl -4 $TMP_DIR/$TMPFILENAME.morph4.result > $TMP_DIR/$filename_no_ext.disamb.xfst
@@ -61,4 +73,5 @@ $WAPITI label -m $MORPH4_MODEL $TMP_DIR/$TMPFILENAME.morph4.test > $TMP_DIR/$TMP
 # convert xfst to morfessor
 cat $TMP_DIR/$filename_no_ext.disamb.xfst | /usr/bin/perl $SEGMENTER/xfst2morfessor.pl ##> $TMP_DIR/$filename_no_ext.morfessor
 
+# Deleting temporary files 
 rm -f $TMP_DIR/$filename_no_ext.tok $TMP_DIR/$filename_no_ext.EOS.tok $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst $TMP_DIR/$TMPFILENAME.pos.test $TMP_DIR/$TMPFILENAME.morph1.result $TMP_DIR/$TMPFILENAME.morph2.test $TMP_DIR/$TMPFILENAME.morph2.result $TMP_DIR/$TMPFILENAME.morph3.test $TMP_DIR/$TMPFILENAME.morph3.result $TMP_DIR/$TMPFILENAME.morph4.test $TMP_DIR/$TMPFILENAME.morph4.result $TMP_DIR/$filename_no_ext.disamb.xfst /tmp/words1 /tmp/words2 /tmp/words3 /tmp/prevdisambMorph1 /tmp/totalAmbigForms 
