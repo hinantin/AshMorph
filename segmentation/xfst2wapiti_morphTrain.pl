@@ -203,6 +203,7 @@ if($mode eq '-1')
 		my @possibleClasses = ();
 		my $actualClass;
 		my $allmorphs = @$analyses[0]->{'allmorphs'};
+		my $pos = @$analyses[0]->{'pos'};
 		my $string = @$analyses[0]->{'string'};
 		my $form = @$word[0];
 		my $xfstAnalyses =  $xfstWords{$form};
@@ -210,19 +211,22 @@ if($mode eq '-1')
 		if(exists($xfstWords{$form}) && scalar(@$xfstAnalyses)>1)
 		{
 			# VERBAL morphology
-			# -sqayki
-			if(&containedInOtherMorphs($xfstAnalyses,"+Perf","+1.Sg.Subj_2.Sg.Obj.Fut"))
+			# Do they have preffixes?
+			my $nominalpossession = "1SG.poss+|2poss+|3m.poss+|3n.m.poss+|1PL.poss+";
+			my $verbalprefixes = "1SG.S/A+|1SG.S+|1SG.A+|2S/A+|2S+|2A+|3m.S/A+|3m.S+|3m.A+|3n.m.S/A+|3n.m.S+|3n.m.A+|1PL.S/A+|1PL.S+|1PL.A+|IRR+|M.CAUS+|AGT.CAUS+";
+			if($pos eq "NRoot" && &containedInOtherMorphs($xfstAnalyses, $nominalpossession)) # determining if there is ambiguity 
 			{
 				# possible-classes
-				push(@possibleClasses, "Perf");
-				push(@possibleClasses, "Fut");
-				if(&containedInOtherMorphs($xfstAnalyses,"+Perf","+IPst+1.Sg.Subj_2.Sg.Obj")){
-					push(@possibleClasses, "IPst");
-				}
-				# actual-class
-				if($allmorphs =~ /Perf/){$actualClass = "Perf";}
-				elsif($allmorphs =~  /Fut/){$actualClass = "Fut";}
-				elsif($allmorphs =~ /IPst/ ){$actualClass = "IPst";}
+				push(@possibleClasses, "Prefix");
+				push(@possibleClasses, "NoPrefix");
+				$actualClass = "Prefix";
+			}
+			elsif($pos eq "VRoot" && &containedInOtherMorphs($xfstAnalyses, $verbalprefixes)) # determining if there is ambiguity 
+			{
+				# possible-classes
+				push(@possibleClasses, "Prefix");
+				push(@possibleClasses, "NoPrefix");
+				$actualClass = "Prefix";
 			}
 			### -sqaykichik
 			##elsif(&containedInOtherMorphs($xfstAnalyses,"+Perf","+1.Sg.Subj_2.Pl.Obj.Fut"))
