@@ -136,12 +136,13 @@ if($mode eq '-1')
 		
 			#print "$form: $root morphs: @morphtags\n";
 			# %hashAnalysis = ('pos', $pos, 'morph', \@suffixmorphtags, 'string', $_, 'root', $root, 'allmorphs', $allsuffixes, 'lem', $lem);
+			push(@prefixmorphtags, @suffixmorphtags);
 			my %hashAnalysis;
 			$hashAnalysis{'pos'} = $pos;
-			$hashAnalysis{'morph'} = \@suffixmorphtags;
+			$hashAnalysis{'morph'} = \@prefixmorphtags;
 			$hashAnalysis{'string'} = $_;
 			$hashAnalysis{'root'} = $root;
-	    	$hashAnalysis{'allmorphs'} = $allsuffixes;
+	    	$hashAnalysis{'allmorphs'} = $allprefixes.$allsuffixes;
 	    	$hashAnalysis{'lem'} = $lem;
 	    
 			if($newWord)
