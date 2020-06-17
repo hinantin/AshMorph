@@ -70,7 +70,14 @@ if($mode eq '-1')
 		{	
 			my ($form, $analysis) = split(/\t/);
 		
-			my ($pos) = $analysis =~ m/(ALFS|CARD|NP|NRoot|Part|VRoot|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
+			# determining word class
+			my $CONFIG =
+			Config::IniFiles->new( -file =>
+				$path."/pos.ini"
+			);
+			my $partofspeechtags = $CONFIG->val( 'PART_OF_SPEECH', 'POS' );
+			my ($pos) = $analysis =~ m/($partofspeechtags)/ ;
+			#my ($pos) = $analysis =~ m/(ALFS|CARD|NP|NRoot|Part|VRoot|PrnDem|PrnInterr|PrnPers|SP|\$|AdvES|PrepES|ConjES)/ ;
 			
 			if($pos eq 'NP'){
 					$pos = 'NRoot';
