@@ -1212,7 +1212,7 @@ sub disambMorph3{
 							$correctMorph =~ s/\n//g;
 							if($correctMorph eq 'REAL')
 							{
-								if($string !~ /\Q+REAL\E/ && scalar(@$analyses) > 1){
+								if($string !~ /\Q[+REAL\E/ && scalar(@$analyses) > 1){
 									splice (@{$analyses},$j,1);	
 									$disambiguatedForms++;
 									$j--;
@@ -1220,7 +1220,7 @@ sub disambMorph3{
 							}
 							elsif($correctMorph eq 'IRR')
 							{
-								if($string !~ /\Q+IRR\E/ && scalar(@$analyses) > 1){
+								if($string !~ /\Q[+IRR\E/ && scalar(@$analyses) > 1){
 									splice (@{$analyses},$j,1);	
 									$disambiguatedForms++;
 									$j--;
