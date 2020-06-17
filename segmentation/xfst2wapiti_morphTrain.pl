@@ -440,19 +440,31 @@ if($mode eq '-3')
 			# REALIS OR IRREALIS
 			# TODO: missing in training material: rqakun -> rqa -ku -n/ -rqaku -m
 			# yku-n
-			if(&containedInOtherMorphs($xfstAnalyses,"+REAL","+IRR"))
+			if(&containedInOtherMorphs($xfstAnalyses,"+REAL"))
 			{
-				print STDERR "$xfstAnalyses";
+				#print STDERR "$xfstAnalyses";
 				push(@possibleClasses, "REAL");
 				push(@possibleClasses, "IRR");
-				if($allmorphs =~  /\Q+REAL\E/) {$actualClass = "REAL";}
-				elsif($allmorphs =~ /\Q+IRR\E/) {$actualClass = "IRR";}
+				$actualClass = "REAL";
 				# check if sentence already contains an evidential suffix
 				##@$word[4] = &sentenceHasEvid(\@words, $i);
 				#print "@$word[0], has evid: ".&sentenceHasEvid(\@words, $i)."\n";
 				
 				#print "@$word[0]: evid @$word[4], gen: @$word[5] \n";
 			}
+			elsif(&containedInOtherMorphs($xfstAnalyses,"+IRR"))
+			{
+				#print STDERR "$xfstAnalyses";
+				push(@possibleClasses, "REAL");
+				push(@possibleClasses, "IRR");
+				$actualClass = "IRR";
+				# check if sentence already contains an evidential suffix
+				##@$word[4] = &sentenceHasEvid(\@words, $i);
+				#print "@$word[0], has evid: ".&sentenceHasEvid(\@words, $i)."\n";
+				
+				#print "@$word[0]: evid @$word[4], gen: @$word[5] \n";
+			}
+
 			# -n
 			##elsif(&containedInOtherMorphs($xfstAnalyses,"+DirE","+3.Sg.Poss") )
 			##{ 
