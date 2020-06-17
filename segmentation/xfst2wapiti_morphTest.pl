@@ -770,42 +770,61 @@ sub printCrf{
 		
 # if string1 and string2 are contained in the allmorphs of each analysis return 1 
 sub containedInOtherMorphs{
-	my $analyses = $_[0];
-	my $string1 = $_[1];
-	my $string2 = $_[2];
-	
-	for(my $j=0;$j<scalar(@$analyses);$j++) 
-	{
-		my $analysis = @$analyses[$j];
-		my $allmorphs = $analysis->{'allmorphs'};
-		#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string: $string1 $string2\n";
-		if($allmorphs =~ /\Q$string1\E/)
-		{	
-			# check if later analysis has +Term
-			for(my $k=$j+1;$j<$k;$k--) 
-			{
-				my $analysis2 = @$analyses[$k];
-				my $postmorphs = $analysis2->{'allmorphs'};
-				#print "next: $postmorphs\n";
-				if($postmorphs =~ /\Q$string2\E/ )
+	my ($analyses, @strings) = (@_);
+	if (scalar(@strings)>1) {
+		my $string1 = @strings[0];
+		my $string2 = @strings[1];
+		for(my $j=0;$j<scalar(@$analyses);$j++) 
+		{
+			my $analysis = @$analyses[$j];
+			my $allmorphs = $analysis->{'allmorphs'};
+			$allmorphs =~ s/#//g;
+			#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
+			if($allmorphs =~ /\Q$string1\E/)
+			{	
+				#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
+				# check if later analysis has +Term
+				for(my $k=$j+1;$j<$k;$k--) 
 				{
-					#print "2 found $allmorphs\n";
-					#print "2compared with $postmorphs\n";
-					return 1;
+					my $analysis2 = @$analyses[$k];
+					my $postmorphs = $analysis2->{'allmorphs'};
+					$postmorphs =~ s/#//g;
+					#print "  next: $postmorphs\n";
+					if($postmorphs =~ /\Q$string2\E/ )
+					{		
+						#print "2 found $allmorphs\n";
+						#print "2compared with $postmorphs\n";
+						return 1;
+					}
+				}
+				# check if previuous analysis has +Term
+				for(my $k=0;$k<$j;$k++) 
+				{
+					my $analysis3 = @$analyses[$k];
+					my $premorphs = $analysis3->{'allmorphs'};
+					$premorphs =~ s/#//g;
+					#print "   prev: $premorphs\n";
+					if($premorphs =~ /\Q$string2\E/)
+					{
+						#print "      3 found $allmorphs\n";
+						#print "      3 compared with $premorphs\n";
+						return 1;
+					}
 				}
 			}
-			# check if previuous analysis has +Term
-			for(my $k=0;$k<$j;$k++) 
-			{
-				my $analysis3 = @$analyses[$k];
-				my $premorphs = $analysis3->{'allmorphs'};
-				#print "prev: $premorphs\n";
-				if($premorphs =~ /\Q$string2\E/)
-				{
-					#print "3 found $allmorphs\n";
-					#print "3 compared with $premorphs\n";
-					return 1;
-				}
+		}
+	}
+	else {
+		my $string1 = @strings[0];
+		for(my $j=0;$j<scalar(@$analyses);$j++) 
+		{
+			my $analysis = @$analyses[$j];
+			my $allmorphs = $analysis->{'allmorphs'};
+			$allmorphs =~ s/#//g;
+			#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
+			if($allmorphs =~ /\Q$string1\E/)
+			{	
+				return 1;
 			}
 		}
 	}
