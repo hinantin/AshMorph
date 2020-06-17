@@ -49,7 +49,7 @@ define V=S=REAL [
 # NON/FUTURE + REFLEXIVE (RFL)
 
 define V=S=REALRFL [
-  "[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]" : "@EP"[{a}]
+  "[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]" : "@EP"[{a}]
 ];
 
 # -------------------------------------------
@@ -148,10 +148,10 @@ define V=S=IRR [
 # FUTURE + REFLEXIVE (RFL)
 
 define V=S=IRRRFL [
-  "[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{ia}]
+  "[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR.RFL]" : "@EP"[{ia}]
 # nontaiya / no- N- =ta -iya / 1sg.s- irr- =to.burn -irr.refl / ES: 'yo.me.quemaré' 
-| "[--][-iya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{iya}]
-| "[--][-eya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : "@EP"[{eya}]
+| "[--][-iya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR.RFL]" : "@EP"[{iya}]
+| "[--][-eya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR.RFL]" : "@EP"[{eya}]
 ];
 
 # -------------------------------------------
