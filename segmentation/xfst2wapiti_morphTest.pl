@@ -1158,7 +1158,6 @@ sub disambMorph3{
 	my $wordsref = $_[0];
 	my @words = @$wordsref;
 	
-	
 	my $unambigForms = 0;
 	my $ambigForms = 0;
 	my $stillambigForms =0;
@@ -1199,72 +1198,71 @@ sub disambMorph3{
 							# -pis: Loc_IndE, Add
 							# -s: IndE, Pl
 							$correctMorph =~ s/\n//g;
-							if($correctMorph eq 'DirE')
+							if($correctMorph eq 'REAL')
 							{
-								if($string !~ /\Qn[Amb][+DirE]\E/ && scalar(@$analyses) > 1){
+								if($string !~ /\Q[+REAL\E/ && scalar(@$analyses) > 1){
 									splice (@{$analyses},$j,1);	
 									$disambiguatedForms++;
 									$j--;
 								}
 							}
-							elsif($correctMorph eq 'Poss'  )
+							elsif($correctMorph eq 'IRR')
 							{
-								if($string !~ /\Qn[NPers][+3.Sg.Poss]\E/ && scalar(@$analyses) > 1){
+								if($string !~ /\Q[+IRR\E/ && scalar(@$analyses) > 1){
 									splice (@{$analyses},$j,1);	
 									$disambiguatedForms++;
 									$j--;
 								}
 							}
-							if($correctMorph eq 'DirEs')
-							{
-								if($string !~ /\Qn[Amb][+DirE]\E/ && scalar(@$analyses) > 1){
-									splice (@{$analyses},$j,1);	
-									$disambiguatedForms++;
-									$j--;
-								}
-							}
-							elsif($correctMorph eq 'Subj'  )
-							{
-								if($string !~ /\Q+Aff][^DB][--]n[VPers][+3.Sg.Subj\E/ && scalar(@$analyses) > 1){
-									splice (@{$analyses},$j,1);	
-									$disambiguatedForms++;
-									$j--;
-								}
-							}
-							elsif($correctMorph eq 'Loc_IndE' )
-							{
-								if($string !~ /\Qpi[Cas][+Loc][^DB][--]s[Amb][+IndE]\E/ && scalar(@$analyses) > 1){
-									splice (@{$analyses},$j,1);	
-									$disambiguatedForms++;
-									$j--;
-								}
-							}
-							elsif($correctMorph eq 'Add' )
-							{
-								if($string !~ /p[ai]\Qs[Amb][+Add]\E/ && scalar(@$analyses) > 1){
-									#print "delete: ".$string;
-									splice (@{$analyses},$j,1);	
-									$disambiguatedForms++;
-									$j--;
-								}
-							}
-							elsif($correctMorph eq 'IndE' )
-							{
-								if($string !~ /\QNRootES][^DB][--]s[Amb][+IndE]\E/ && scalar(@$analyses) > 1){
-									splice (@{$analyses},$j,1);	
-									$disambiguatedForms++;
-									$j--;
-								}
-							}
-							elsif($correctMorph eq 'Pl' )
-							{
-								if($string !~ /\Qs[NRootES]\E/ && scalar(@$analyses) > 1){
-									splice (@{$analyses},$j,1);	
-									$disambiguatedForms++;
-									$j--;
-								}
-							}
-							
+							##if($correctMorph eq 'DirEs')
+							##{
+							##	if($string !~ /\Qn[Amb][+DirE]\E/ && scalar(@$analyses) > 1){
+							##		splice (@{$analyses},$j,1);	
+							##		$disambiguatedForms++;
+							##		$j--;
+							##	}
+							##}
+							##elsif($correctMorph eq 'Subj'  )
+							##{
+							##	if($string !~ /\Q+Aff][^DB][--]n[VPers][+3.Sg.Subj\E/ && scalar(@$analyses) > 1){
+							##		splice (@{$analyses},$j,1);	
+							##		$disambiguatedForms++;
+							##		$j--;
+							##	}
+							##}
+							##elsif($correctMorph eq 'Loc_IndE' )
+							##{
+							##	if($string !~ /\Qpi[Cas][+Loc][^DB][--]s[Amb][+IndE]\E/ && scalar(@$analyses) > 1){
+							##		splice (@{$analyses},$j,1);	
+							##		$disambiguatedForms++;
+							##		$j--;
+							##	}
+							##}
+							##elsif($correctMorph eq 'Add' )
+							##{
+							##	if($string !~ /p[ai]\Qs[Amb][+Add]\E/ && scalar(@$analyses) > 1){
+							##		#print "delete: ".$string;
+							##		splice (@{$analyses},$j,1);	
+							##		$disambiguatedForms++;
+							##		$j--;
+							##	}
+							##}
+							##elsif($correctMorph eq 'IndE' )
+							##{
+							##	if($string !~ /\QNRootES][^DB][--]s[Amb][+IndE]\E/ && scalar(@$analyses) > 1){
+							##		splice (@{$analyses},$j,1);	
+							##		$disambiguatedForms++;
+							##		$j--;
+							##	}
+							##}
+							##elsif($correctMorph eq 'Pl' )
+							##{
+							##	if($string !~ /\Qs[NRootES]\E/ && scalar(@$analyses) > 1){
+							##		splice (@{$analyses},$j,1);	
+							##		$disambiguatedForms++;
+							##		$j--;
+							##	}
+							##}
 						}
 					# for debugging: print only forms that are still ambiguous
 					if(scalar(@$analyses) > 1){
