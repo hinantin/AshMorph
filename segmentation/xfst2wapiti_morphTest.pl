@@ -608,7 +608,6 @@ if($mode eq '-4')
 	
 }
 
-
 my $lastlineEmpty=0;
 
 sub printCrf{
