@@ -216,7 +216,14 @@ if($mode eq '-1')
 			# print STDERR "Do they have preffixes?\n";
 			my $nominalpossession = "\Q1SG.poss+\E|\Q2poss+\E|\Q3m.poss+\E|\Q3n.m.poss+\E|\Q1PL.poss+\E";
 			my $verbalprefixes = "\Q1SG.S/A+\E|\Q1SG.S+\E|\Q1SG.A+\E|\Q2S/A+\E|\Q2S+\E|\Q2A+\E|\Q3m.S/A+\E|\Q3m.S+\E|\Q3m.A+\E|\Q3n.m.S/A+\E|\Q3n.m.S+\E|\Q3n.m.A+\E|\Q1PL.S/A+\E|\Q1PL.S+\E|\Q1PL.A+\E|\QIRR+\E|\QM.CAUS+\E|\QAGT.CAUS+\E";
-			if(&containedInOtherMorphs($xfstAnalyses, $nominalpossession, "DISABLEQE") or &containedInOtherMorphs($xfstAnalyses, $verbalprefixes, "DISABLEQE")) # determining if there is ambiguity 
+			if(&containedInOtherMorphs($xfstAnalyses, $nominalpossession, "DISABLEQE")) # determining if there is ambiguity 
+			{
+				# possible-classes
+				push(@possibleClasses, "Prefix");
+				push(@possibleClasses, "NoPrefix");
+				$actualClass = "Prefix";
+			}
+			elsif(&containedInOtherMorphs($xfstAnalyses, $verbalprefixes, "DISABLEQE"))
 			{
 				# possible-classes
 				push(@possibleClasses, "Prefix");
