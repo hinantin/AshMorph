@@ -197,7 +197,7 @@ if($mode eq '-1')
 	# ----------------------------
 	# We will assign possible-classes according to the XFST analyses.
 	# correct-class will be the output when the model is used 
-	print STDERR "Do they have preffixes?\n";
+	# print STDERR "Do they have preffixes?\n";
 	foreach my $word (@words)
 	{
 		my $analyses = @$word[1];
@@ -208,22 +208,15 @@ if($mode eq '-1')
 		my $string = @$analyses[0]->{'string'};
 		my $form = @$word[0];
 		my $xfstAnalyses =  $xfstWords{$form};
-		print STDERR "pos: $pos\n";
+		# print STDERR "pos: $pos\n";
 		if(exists($xfstWords{$form}))
 		{
 			# VERBAL morphology
 			# Do they have preffixes?
-			print STDERR "Do they have preffixes?\n";
-			my $nominalpossession = "1SG.poss+|2poss+|3m.poss+|3n.m.poss+|1PL.poss+";
-			my $verbalprefixes = "1SG.S/A+|1SG.S+|1SG.A+|2S/A+|2S+|2A+|3m.S/A+|3m.S+|3m.A+|3n.m.S/A+|3n.m.S+|3n.m.A+|1PL.S/A+|1PL.S+|1PL.A+|IRR+|M.CAUS+|AGT.CAUS+";
-			if(&containedInOtherMorphs($xfstAnalyses, $nominalpossession, "DISABLEQE")) # determining if there is ambiguity 
-			{
-				# possible-classes
-				push(@possibleClasses, "Prefix");
-				push(@possibleClasses, "NoPrefix");
-				$actualClass = "Prefix";
-			}
-			elsif(&containedInOtherMorphs($xfstAnalyses, $verbalprefixes, "DISABLEQE")) # determining if there is ambiguity 
+			# print STDERR "Do they have preffixes?\n";
+			my $nominalpossession = "\Q1SG.poss+\E|\Q2poss+\E|\Q3m.poss+\E|\Q3n.m.poss+\E|\Q1PL.poss+\E";
+			my $verbalprefixes = "\Q1SG.S/A+\E|\Q1SG.S+\E|\Q1SG.A+\E|\Q2S/A+\E|\Q2S+\E|\Q2A+\E|\Q3m.S/A+\E|\Q3m.S+\E|\Q3m.A+\E|\Q3n.m.S/A+\E|\Q3n.m.S+\E|\Q3n.m.A+\E|\Q1PL.S/A+\E|\Q1PL.S+\E|\Q1PL.A+\E|\QIRR+\E|\QM.CAUS+\E|\QAGT.CAUS+\E";
+			if(&containedInOtherMorphs($xfstAnalyses, $nominalpossession, "DISABLEQE") or &containedInOtherMorphs($xfstAnalyses, $verbalprefixes, "DISABLEQE")) # determining if there is ambiguity 
 			{
 				# possible-classes
 				push(@possibleClasses, "Prefix");
