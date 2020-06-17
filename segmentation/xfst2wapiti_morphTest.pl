@@ -1181,7 +1181,7 @@ sub disambMorph3{
 				if(@$word[3] eq 'amb3')
 				{
 					$ambigForms++;
-					print STDERR "xfst: @$word[0]  crf: @crfRows[0]\n";
+					#print STDERR "xfst: @$word[0]  crf: @crfRows[0]\n";
 					my $correctMorph = @crfRows[-1];
 					my $analyses = @$word[1];
 					#print STDERR "$correctMorph\n"; #----- ".@$word[0]."\n";
@@ -1200,7 +1200,7 @@ sub disambMorph3{
 							$correctMorph =~ s/\n//g;
 							if($correctMorph eq 'REAL')
 							{
-								if($string !~ /\Q[+REAL\E/ && scalar(@$analyses) > 1){
+								if($string !~ /\Q+REAL\E/ && scalar(@$analyses) > 1){
 									splice (@{$analyses},$j,1);	
 									$disambiguatedForms++;
 									$j--;
@@ -1208,7 +1208,7 @@ sub disambMorph3{
 							}
 							elsif($correctMorph eq 'IRR')
 							{
-								if($string !~ /\Q[+IRR\E/ && scalar(@$analyses) > 1){
+								if($string !~ /\Q+IRR\E/ && scalar(@$analyses) > 1){
 									splice (@{$analyses},$j,1);	
 									$disambiguatedForms++;
 									$j--;
