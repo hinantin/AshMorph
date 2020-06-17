@@ -161,7 +161,7 @@ if($mode eq '-1')
 				push(@$analyses, \%hashAnalysis);
 			}
 			$newWord=0;	
-	 }
+		}
 	}
 	
 	close XFST;
