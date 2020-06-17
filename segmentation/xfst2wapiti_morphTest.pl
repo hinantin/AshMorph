@@ -507,7 +507,7 @@ if($mode eq '-3')
 		{
 			# REALIS OR IRREALIS
 			# yku-n
-			if(&containedInOtherMorphs($analyses,"+REAL","+IRR") )
+			if(&containedInOtherMorphs($analyses,"+REAL") && &containedInOtherMorphs($analyses,"+IRR"))
 			{
 				print STDERR "$analyses";
 				push(@possibleClasses, "REAL");
