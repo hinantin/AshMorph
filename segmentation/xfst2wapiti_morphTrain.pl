@@ -197,6 +197,7 @@ if($mode eq '-1')
 	# ----------------------------
 	# We will assign possible-classes according to the XFST analyses.
 	# correct-class will be the output when the model is used 
+	print STDERR "Do they have preffixes?\n";
 	foreach my $word (@words)
 	{
 		my $analyses = @$word[1];
@@ -207,21 +208,22 @@ if($mode eq '-1')
 		my $string = @$analyses[0]->{'string'};
 		my $form = @$word[0];
 		my $xfstAnalyses =  $xfstWords{$form};
-		#print STDERR "pos: $pos";
+		print STDERR "pos: $pos\n";
 		if(exists($xfstWords{$form}))
 		{
 			# VERBAL morphology
 			# Do they have preffixes?
+			print STDERR "Do they have preffixes?\n";
 			my $nominalpossession = "1SG.poss+|2poss+|3m.poss+|3n.m.poss+|1PL.poss+";
 			my $verbalprefixes = "1SG.S/A+|1SG.S+|1SG.A+|2S/A+|2S+|2A+|3m.S/A+|3m.S+|3m.A+|3n.m.S/A+|3n.m.S+|3n.m.A+|1PL.S/A+|1PL.S+|1PL.A+|IRR+|M.CAUS+|AGT.CAUS+";
-			if(&containedInOtherMorphs($xfstAnalyses, $nominalpossession)) # determining if there is ambiguity 
+			if(&containedInOtherMorphs($xfstAnalyses, $nominalpossession, "DISABLEQE")) # determining if there is ambiguity 
 			{
 				# possible-classes
 				push(@possibleClasses, "Prefix");
 				push(@possibleClasses, "NoPrefix");
 				$actualClass = "Prefix";
 			}
-			elsif(&containedInOtherMorphs($xfstAnalyses, $verbalprefixes)) # determining if there is ambiguity 
+			elsif(&containedInOtherMorphs($xfstAnalyses, $verbalprefixes, "DISABLEQE")) # determining if there is ambiguity 
 			{
 				# possible-classes
 				push(@possibleClasses, "Prefix");
@@ -822,16 +824,24 @@ sub sentenceHasEvid{
 
 sub containedInOtherMorphs{
 	my ($analyses, @strings) = (@_);
+	my $disableqe = 0;
+	my $string1 = "";
+	my $string2 = "";
+	if (@strings[-1] =~ /DISABLEQE/) {
+		$disableqe = 1;
+		pop(@strings);
+	}
 	if (scalar(@strings)>1) {
-		my $string1 = @strings[0];
-		my $string2 = @strings[1];
+		$string1 = @strings[0];
+		$string2 = @strings[1];
+		unless ($disableqe) { $string1 = "\Q$string1\E"; $string2 = "\Q$string2\E"; }
 		for(my $j=0;$j<scalar(@$analyses);$j++) 
 		{
 			my $analysis = @$analyses[$j];
 			my $allmorphs = $analysis->{'allmorphs'};
 			$allmorphs =~ s/#//g;
 			#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
-			if($allmorphs =~ /\Q$string1\E/)
+			if($allmorphs =~ /$string1/)
 			{	
 				#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
 				# check if later analysis has +Term
@@ -841,7 +851,7 @@ sub containedInOtherMorphs{
 					my $postmorphs = $analysis2->{'allmorphs'};
 					$postmorphs =~ s/#//g;
 					#print "  next: $postmorphs\n";
-					if($postmorphs =~ /\Q$string2\E/ )
+					if($postmorphs =~ /$string2/ )
 					{		
 						#print "2 found $allmorphs\n";
 						#print "2compared with $postmorphs\n";
@@ -855,7 +865,7 @@ sub containedInOtherMorphs{
 					my $premorphs = $analysis3->{'allmorphs'};
 					$premorphs =~ s/#//g;
 					#print "   prev: $premorphs\n";
-					if($premorphs =~ /\Q$string2\E/)
+					if($premorphs =~ /$string2/)
 					{
 						#print "      3 found $allmorphs\n";
 						#print "      3 compared with $premorphs\n";
@@ -866,14 +876,15 @@ sub containedInOtherMorphs{
 		}
 	}
 	else {
-		my $string1 = @strings[0];
+		$string1 = @strings[0];
+		unless ($disableqe) { $string1 = "\Q$string1\E"; }
 		for(my $j=0;$j<scalar(@$analyses);$j++) 
 		{
 			my $analysis = @$analyses[$j];
 			my $allmorphs = $analysis->{'allmorphs'};
 			$allmorphs =~ s/#//g;
 			#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
-			if($allmorphs =~ /\Q$string1\E/)
+			if($allmorphs =~ /$string1/)
 			{	
 				return 1;
 			}
