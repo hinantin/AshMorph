@@ -779,7 +779,7 @@ sub containedInOtherMorphs{
 		my $analysis = @$analyses[$j];
 		my $allmorphs = $analysis->{'allmorphs'};
 		#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string: $string1 $string2\n";
-		if($allmorphs =~ /$string1/)
+		if($allmorphs =~ /\Q$string1\E/)
 		{	
 			# check if later analysis has +Term
 			for(my $k=$j+1;$j<$k;$k--) 
@@ -787,7 +787,7 @@ sub containedInOtherMorphs{
 				my $analysis2 = @$analyses[$k];
 				my $postmorphs = $analysis2->{'allmorphs'};
 				#print "next: $postmorphs\n";
-				if($postmorphs =~ /$string2/ )
+				if($postmorphs =~ /\Q$string2\E/ )
 				{
 					#print "2 found $allmorphs\n";
 					#print "2compared with $postmorphs\n";
@@ -800,7 +800,7 @@ sub containedInOtherMorphs{
 				my $analysis3 = @$analyses[$k];
 				my $premorphs = $analysis3->{'allmorphs'};
 				#print "prev: $premorphs\n";
-				if($premorphs =~ /$string2/)
+				if($premorphs =~ /\Q$string2\E/)
 				{
 					#print "3 found $allmorphs\n";
 					#print "3 compared with $premorphs\n";
