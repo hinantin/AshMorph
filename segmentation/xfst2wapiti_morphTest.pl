@@ -288,6 +288,7 @@ if($mode eq '-1')
 			my $verbalprefixes = "\Q1SG.S/A+\E|\Q1SG.S+\E|\Q1SG.A+\E|\Q2S/A+\E|\Q2S+\E|\Q2A+\E|\Q3m.S/A+\E|\Q3m.S+\E|\Q3m.A+\E|\Q3n.m.S/A+\E|\Q3n.m.S+\E|\Q3n.m.A+\E|\Q1PL.S/A+\E|\Q1PL.S+\E|\Q1PL.A+\E|\QIRR+\E|\QM.CAUS+\E|\QAGT.CAUS+\E";
 			if(&containedInOtherMorphs($analyses,$nominalpossession) || &containedInOtherMorphs($analyses,$verbalprefixes))
 			{
+				# print STDERR "VERBAL morphology\n";
 				push(@possibleClasses, "Prefix");
 				push(@possibleClasses, "NoPrefix");
 				@$word[3] = "amb";
@@ -831,10 +832,27 @@ sub containedInOtherMorphs{
 			my $allmorphs = $analysis->{'allmorphs'};
 			$allmorphs =~ s/#//g;
 			#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
-			if($allmorphs =~ /\Q$string1\E/)
-			{	
+			if($allmorphs =~ /$string1/)
+			{
 				return 1;
 			}
+		}
+	}
+	return 0;
+}
+
+sub containedInOtherAnalyses{
+	my ($analyses, @strings) = (@_);
+	my $string1 = @strings[0];
+	for(my $j=0;$j<scalar(@$analyses);$j++) 
+	{
+		my $analysis = @$analyses[$j];
+		my $string = $analysis->{'string'};
+		$string =~ s/#//g;
+		#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
+		if($string =~ /$string1/)
+		{
+			return 1;
 		}
 	}
 	return 0;
@@ -1317,7 +1335,7 @@ sub disambMorph3{
 	my $prevdisamb = retrieve('/tmp/prevdisambMorph1');
 	#print "prev $$prevdisamb\n";	
 	#print xfst to STDOUT
-	#&printXFST(\@words);
+	&printXFST(\@words);
 	foreach my $word (@words){
 		my $analyses = @$word[1];
 		foreach my $analysis (@$analyses){
