@@ -367,14 +367,14 @@ if($mode eq '-2')
 		
 		# -npuni: -n -puni or -m -pu -ni (cannot use morph analysis, because n-pu is normalized to -mpu in training)
 		# note: ONLY 2 instances in training material!! :(
-		if($allmorphs =~ /\Q+3.Sg.Subj+Def\E/ || $allmorphs =~ /\Q+Cis_Trs+Rgr_Iprs+1.Sg.Subj\E/ ){
-				push(@possibleClasses, "1Sg");
-				push(@possibleClasses, "3Sg");
-				if($allmorphs =~  /\Q+1.Sg.Subj\E/){$actualClass = "1Sg";}
-				elsif($allmorphs =~ /\Q+3.Sg.Subj\E/ ){$actualClass = "3Sg";}
-		}	
-		if(exists($xfstWords{$form}) && scalar(@$xfstAnalyses)>1)
-		{ 
+		##if($allmorphs =~ /\Q+3.Sg.Subj+Def\E/ || $allmorphs =~ /\Q+Cis_Trs+Rgr_Iprs+1.Sg.Subj\E/ ){
+		##		push(@possibleClasses, "1Sg");
+		##		push(@possibleClasses, "3Sg");
+		##		if($allmorphs =~  /\Q+1.Sg.Subj\E/){$actualClass = "1Sg";}
+		##		elsif($allmorphs =~ /\Q+3.Sg.Subj\E/ ){$actualClass = "3Sg";}
+		##}	
+		if(exists($xfstWords{$form}))
+		{
 			# VERBAL morphology
 			# -aantsi
 			if(&containedInOtherMorphs($xfstAnalyses,"\Q+ADJ.PARTIC\E") && &containedInOtherMorphs($xfstAnalyses,"\Q+NMZ.INF\E"))
