@@ -1335,7 +1335,8 @@ sub disambMorph3{
 	my $prevdisamb = retrieve('/tmp/prevdisambMorph1');
 	#print "prev $$prevdisamb\n";	
 	#print xfst to STDOUT
-	&printXFST(\@words);
+	#&printXFST(\@words);
+	
 	foreach my $word (@words){
 		my $analyses = @$word[1];
 		foreach my $analysis (@$analyses){
