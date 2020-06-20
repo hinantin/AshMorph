@@ -376,47 +376,47 @@ if($mode eq '-2')
 		if(exists($xfstWords{$form}) && scalar(@$xfstAnalyses)>1)
 		{ 
 			# VERBAL morphology
-			# -sun
-			if(&containedInOtherMorphs($xfstAnalyses,"+1.Pl.Incl.Subj.Imp","+1.Pl.Incl.Subj.Fut"))
+			# -aantsi
+			if(&containedInOtherMorphs($xfstAnalyses,"\Q+ADJ.PARTIC\E") && &containedInOtherMorphs($xfstAnalyses,"\Q+NMZ.INF\E"))
 			{
-				push(@possibleClasses, "Imp");
-				push(@possibleClasses, "Fut");
-				if($allmorphs =~  /Imp/){$actualClass = "Imp";}
-				elsif($allmorphs =~ /Fut/ ){$actualClass = "Fut";}
+				push(@possibleClasses, "ADJ.PARTIC");
+				push(@possibleClasses, "NMZ.INF");
+				if($allmorphs =~  /\Q+ADJ.PARTIC\E/){$actualClass = "ADJ.PARTIC";}
+				elsif($allmorphs =~ /\+QNMZ.INF\E/ ){$actualClass = "NMZ.INF";}
 			}
-			# -nqa
-			elsif(&containedInOtherMorphs($xfstAnalyses,"+3.Sg.Subj+Top","+3.Sg.Subj.Fut"))
-			{
-				push(@possibleClasses, "Top");
-				push(@possibleClasses, "Fut");
-				if($allmorphs =~  /Top/){$actualClass = "Top";}
-				elsif($allmorphs =~ /Fut/ ){$actualClass = "Fut";}
-			}
-			# -sqaykiku
-			elsif(&containedInOtherMorphs($xfstAnalyses,"+IPst+1.Pl.Excl.Subj_2.Sg.Obj","+1.Pl.Excl.Subj_2.Sg.Obj.Fut"))
-			{
-				push(@possibleClasses, "IPst");
-				push(@possibleClasses, "Fut");
-				if($allmorphs =~ /Fut/ ){$actualClass = "Fut";}
-				elsif($allmorphs =~ /IPst/  ){$actualClass = "IPst";}
-			} 
-			# -wanku 
-			elsif(&containedInOtherMorphs($xfstAnalyses,"+1.Obj+3.Pl.Subj","+3.Subj_1.Pl.Excl.Obj" ) or &containedInOtherMorphs($xfstAnalyses,"+1.Obj+NPst+3.Pl.Subj","+3.Subj_1.Pl.Excl.Obj" ) or &containedInOtherMorphs($analyses,"+1.Obj+IPst+3.Pl.Subj","+3.Subj_1.Pl.Excl.Obj" ) &containedInOtherMorphs($analyses,"+1.Obj+Prog+3.Pl.Subj","+3.Subj_1.Pl.Excl.Obj" ) )
-			{ 
-				push(@possibleClasses, "1Sg");
-				push(@possibleClasses, "1Pl");
-				if($allmorphs =~  /Excl/){$actualClass = "1Pl";}
-				elsif($allmorphs =~ /\+1\.Obj.*\+3\.Pl\.Subj/ ){$actualClass = "1Sg";}
-				
-			}
-			# -wanqaku 3.Subj_1.Pl.Excl.Obj 
-			elsif(&containedInOtherMorphs($xfstAnalyses,"+1.Obj+3.Pl.Subj.Fut","+3.Subj_1.Pl.Excl.Obj.Fut" ) or &containedInOtherMorphs($xfstAnalyses,"+1.Obj+Prog+3.Pl.Subj.Fut","+3.Subj_1.Pl.Excl.Obj.Fut" )  )
-			{
-				push(@possibleClasses, "1Sg");
-				push(@possibleClasses, "1Pl");
-				if($allmorphs =~  /Excl/){$actualClass = "1Pl";}
-				elsif($allmorphs =~ /\+1\.Obj.*\+3\.Pl\.Subj\.Fut/ ){$actualClass = "1Sg";}
-			}
+			### -nqa
+			##elsif(&containedInOtherMorphs($xfstAnalyses,"+3.Sg.Subj+Top","+3.Sg.Subj.Fut"))
+			##{
+			##	push(@possibleClasses, "Top");
+			##	push(@possibleClasses, "Fut");
+			##	if($allmorphs =~  /Top/){$actualClass = "Top";}
+			##	elsif($allmorphs =~ /Fut/ ){$actualClass = "Fut";}
+			##}
+			### -sqaykiku
+			##elsif(&containedInOtherMorphs($xfstAnalyses,"+IPst+1.Pl.Excl.Subj_2.Sg.Obj","+1.Pl.Excl.Subj_2.Sg.Obj.Fut"))
+			##{
+			##	push(@possibleClasses, "IPst");
+			##	push(@possibleClasses, "Fut");
+			##	if($allmorphs =~ /Fut/ ){$actualClass = "Fut";}
+			##	elsif($allmorphs =~ /IPst/  ){$actualClass = "IPst";}
+			##} 
+			### -wanku 
+			##elsif(&containedInOtherMorphs($xfstAnalyses,"+1.Obj+3.Pl.Subj","+3.Subj_1.Pl.Excl.Obj" ) or &containedInOtherMorphs($xfstAnalyses,"+1.Obj+NPst+3.Pl.Subj","+3.Subj_1.Pl.Excl.Obj" ) or &containedInOtherMorphs($analyses,"+1.Obj+IPst+3.Pl.Subj","+3.Subj_1.Pl.Excl.Obj" ) &containedInOtherMorphs($analyses,"+1.Obj+Prog+3.Pl.Subj","+3.Subj_1.Pl.Excl.Obj" ) )
+			##{ 
+			##	push(@possibleClasses, "1Sg");
+			##	push(@possibleClasses, "1Pl");
+			##	if($allmorphs =~  /Excl/){$actualClass = "1Pl";}
+			##	elsif($allmorphs =~ /\+1\.Obj.*\+3\.Pl\.Subj/ ){$actualClass = "1Sg";}
+			##	
+			##}
+			### -wanqaku 3.Subj_1.Pl.Excl.Obj 
+			##elsif(&containedInOtherMorphs($xfstAnalyses,"+1.Obj+3.Pl.Subj.Fut","+3.Subj_1.Pl.Excl.Obj.Fut" ) or &containedInOtherMorphs($xfstAnalyses,"+1.Obj+Prog+3.Pl.Subj.Fut","+3.Subj_1.Pl.Excl.Obj.Fut" )  )
+			##{
+			##	push(@possibleClasses, "1Sg");
+			##	push(@possibleClasses, "1Pl");
+			##	if($allmorphs =~  /Excl/){$actualClass = "1Pl";}
+			##	elsif($allmorphs =~ /\+1\.Obj.*\+3\.Pl\.Subj\.Fut/ ){$actualClass = "1Sg";}
+			##}
 			# else: other ambiguities, leave
 			else
 			{
