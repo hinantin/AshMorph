@@ -377,7 +377,7 @@ if($mode eq '-2')
 		{
 			# VERBAL morphology
 			# -aantsi
-			if(&containedInOtherMorphs($xfstAnalyses,"\Q+ADJ.PARTIC\E") && &containedInOtherMorphs($xfstAnalyses,"\Q+NMZ.INF\E"))
+			if(($string =~ /\Q+ADJ.PARTIC\E/) || ($string =~ /\Q+NMZ.INF\E/))
 			{
 				push(@possibleClasses, "ADJ.PARTIC");
 				push(@possibleClasses, "NMZ.INF");

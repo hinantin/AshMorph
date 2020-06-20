@@ -426,23 +426,23 @@ if($mode eq '-2')
 				push(@possibleClasses, "Fut");
 				@$word[3] = "amb2";
 			}
-			# -nqa
-			elsif(&containedInOtherMorphs($analyses,"\Q+3.Sg.Subj+Top\E","\Q+3.Sg.Subj.Fut\E"))
-			{
-				push(@possibleClasses, "Top");
-				push(@possibleClasses, "Fut");
-				@$word[3] = "amb2";
-			}
-			# -sqaykiku
-			elsif(&containedInOtherMorphs($analyses,"\Q+IPst+1.Pl.Excl.Subj_2.Sg.Obj\E","\Q+1.Pl.Excl.Subj_2.Sg.Obj.Fut\E"))
-			{
-				push(@possibleClasses, "IPst");
-				push(@possibleClasses, "Fut");
-				@$word[3] = "amb2";
-			}
-			# NOMINAL morphology
-#			# -nkuna
-#			elsif(&containedInOtherMorphs($analyses,"+3.Pl.Poss+Pl","+3.Sg.Poss+Pl"))
+			### -nqa
+			##elsif(&containedInOtherMorphs($analyses,"\Q+3.Sg.Subj+Top\E","\Q+3.Sg.Subj.Fut\E"))
+			##{
+			##	push(@possibleClasses, "Top");
+			##	push(@possibleClasses, "Fut");
+			##	@$word[3] = "amb2";
+			##}
+			### -sqaykiku
+			##elsif(&containedInOtherMorphs($analyses,"\Q+IPst+1.Pl.Excl.Subj_2.Sg.Obj\E","\Q+1.Pl.Excl.Subj_2.Sg.Obj.Fut\E"))
+			##{
+			##	push(@possibleClasses, "IPst");
+			##	push(@possibleClasses, "Fut");
+			##	@$word[3] = "amb2";
+			##}
+			### NOMINAL morphology
+			###			# -nkuna
+			###			elsif(&containedInOtherMorphs($analyses,"+3.Pl.Poss+Pl","+3.Sg.Poss+Pl"))
 #			{
 #				push(@possibleClasses, "Sg");
 #				push(@possibleClasses, "Pl");
@@ -455,26 +455,26 @@ if($mode eq '-2')
 #				push(@possibleClasses, "Pl");
 #				@$word[3] = "amb2";
 #			}
-			# -wanku 
-			elsif(&containedInOtherMorphs($analyses,"\Q+1.Obj\E.*\Q+3.Pl.Subj\E","\Q+3.Subj_1.Pl.Excl.Obj\E" )  )
-			{
-				push(@possibleClasses, "1Sg");
-				push(@possibleClasses, "1Pl");
-				@$word[3] = "amb2";
-			}
-			# -wanqaku 
-			elsif(&containedInOtherMorphs($analyses,"\Q+1.Obj+3.Pl.Subj.Fut\E","\Q+3.Subj_1.Pl.Excl.Obj.Fut\E" ) or &containedInOtherMorphs($analyses,"\Q+1.Obj+Prog+3.Pl.Subj.Fut\E","\Q+3.Subj_1.Pl.Excl.Obj.Fut\E" )  )
-			{
-				push(@possibleClasses, "1Sg");
-				push(@possibleClasses, "1Pl");
-				@$word[3] = "amb2";
-			}
-			# -npuni: -n -puni or -m -pu -ni (problem: occurs onyl as -n -puni in training material!)
-			elsif(&containedInOtherMorphs($analyses,"\Q+3.Sg.Subj+Def\E","\Q+Cis_Trs+Rgr_Iprs+1.Sg.Subj\E" )){
-				push(@possibleClasses, "1Sg");
-				push(@possibleClasses, "3Sg");
-				@$word[3] = "amb2";
-			}
+			### -wanku 
+			##elsif(&containedInOtherMorphs($analyses,"\Q+1.Obj\E.*\Q+3.Pl.Subj\E","\Q+3.Subj_1.Pl.Excl.Obj\E" )  )
+			##{
+			##	push(@possibleClasses, "1Sg");
+			##	push(@possibleClasses, "1Pl");
+			##	@$word[3] = "amb2";
+			##}
+			### -wanqaku 
+			##elsif(&containedInOtherMorphs($analyses,"\Q+1.Obj+3.Pl.Subj.Fut\E","\Q+3.Subj_1.Pl.Excl.Obj.Fut\E" ) or &containedInOtherMorphs($analyses,"\Q+1.Obj+Prog+3.Pl.Subj.Fut\E","\Q+3.Subj_1.Pl.Excl.Obj.Fut\E" )  )
+			##{
+			##	push(@possibleClasses, "1Sg");
+			##	push(@possibleClasses, "1Pl");
+			##	@$word[3] = "amb2";
+			##}
+			### -npuni: -n -puni or -m -pu -ni (problem: occurs onyl as -n -puni in training material!)
+			##elsif(&containedInOtherMorphs($analyses,"\Q+3.Sg.Subj+Def\E","\Q+Cis_Trs+Rgr_Iprs+1.Sg.Subj\E" )){
+			##	push(@possibleClasses, "1Sg");
+			##	push(@possibleClasses, "3Sg");
+			##	@$word[3] = "amb2";
+			##}
 			# else: other ambiguities, leave
 			else
 			{
@@ -1053,16 +1053,16 @@ sub disambMorph2{
 		my $analyses = @$word[1];
 		
 		# not a real ambiguitiy: rqari vs. rqa-ri -> keep -rqari
-		if(&containedInOtherMorphs($analyses,"\Q+Multi\Q","\Q+Rptn+Inch\E") ){
-			for(my $j=0;$j<scalar(@$analyses);$j++) {
-				my $analysis = @$analyses[$j];
-				if($analysis->{'allmorphs'} =~ /\+Rptn\+Inch/){
-					splice (@{$analyses},$j,1);	
-					$disambiguatedForms++;
-					$j--;
-				}
-			}
-		}
+		##if(&containedInOtherMorphs($analyses,"\Q+Multi\Q","\Q+Rptn+Inch\E") ){
+		##	for(my $j=0;$j<scalar(@$analyses);$j++) {
+		##		my $analysis = @$analyses[$j];
+		##		if($analysis->{'allmorphs'} =~ /\+Rptn\+Inch/){
+		##			splice (@{$analyses},$j,1);	
+		##			$disambiguatedForms++;
+		##			$j--;
+		##		}
+		##	}
+		##}
 			
 		my @crfRows = split('\t', $crfline);
 		if( (lc(@$word[0]) eq @crfRows[0]) or (@$word[0] eq '#EOS' and $crfline =~ /^\s*$/ ))
@@ -1086,58 +1086,55 @@ sub disambMorph2{
 						# -wanku: 1Sg, 1Pl
 						# -wanqaku: 1Sg, 1Pl
 						# -npuni: 1Sg, 3Sg
-						if($correctMorph eq '1Pl'  && $form =~ /wa.*nqaku/)
+						if($correctMorph eq 'ADJ.PARTIC')
 						{
-							if($allmorphs !~ /\Q1.Pl.Excl\E/ && scalar(@$analyses) > 1){
-								splice (@{$analyses},$j,1);	
-								$disambiguatedForms++;
-								$j--;
-							}					
-						}
-						elsif($correctMorph eq '1Sg'  && $form =~ /wa.*nqaku/)
-						{
-							if($allmorphs !~ /\Q3.Pl.Subj\E/ && scalar(@$analyses) > 1){
+							if($allmorphs !~ /\Q+ADJ.PARTIC\E/ && scalar(@$analyses) > 1){
 								splice (@{$analyses},$j,1);	
 								$disambiguatedForms++;
 								$j--;
 							}
-							
 						}
-						elsif($correctMorph eq '1Pl'  && $form =~ /wa.*nku/)
+						elsif($correctMorph eq 'NMZ.INF'  && $form =~ /wa.*nqaku/)
 						{
-							if($allmorphs !~ /\Q1.Pl.Excl\E/ && scalar(@$analyses) > 1){
-								splice (@{$analyses},$j,1);	
-								$disambiguatedForms++;
-								$j--;
-							}					
-						}
-						elsif($correctMorph eq '1Sg'  && $form =~ /wa.*nku/)
-						{
-							if($allmorphs !~ /\Q3.Pl.Subj\E/ && scalar(@$analyses) > 1){
+							if($allmorphs !~ /\Q+NMZ.INF\E/ && scalar(@$analyses) > 1){
 								splice (@{$analyses},$j,1);	
 								$disambiguatedForms++;
 								$j--;
 							}
-							
 						}
-						elsif($correctMorph eq '1Sg'  && $form =~ /[nm]puni/)
-						{
-							if($allmorphs !~ /\Q1.Sg.Subj\E/ && scalar(@$analyses) > 1){
-								splice (@{$analyses},$j,1);	
-								$disambiguatedForms++;
-								$j--;
-							}
-							
-						}
-						elsif($correctMorph eq '3Sg'  && $form =~ /[nm]puni/)
-						{
-							if($allmorphs !~ /\Q3.Sg.Subj\E/ && scalar(@$analyses) > 1){
-								splice (@{$analyses},$j,1);	
-								$disambiguatedForms++;
-								$j--;
-							}
-							
-						}
+						##elsif($correctMorph eq '1Pl'  && $form =~ /wa.*nku/)
+						##{
+						##	if($allmorphs !~ /\Q1.Pl.Excl\E/ && scalar(@$analyses) > 1){
+						##		splice (@{$analyses},$j,1);	
+						##		$disambiguatedForms++;
+						##		$j--;
+						##	}					
+						##}
+						##elsif($correctMorph eq '1Sg'  && $form =~ /wa.*nku/)
+						##{
+						##	if($allmorphs !~ /\Q3.Pl.Subj\E/ && scalar(@$analyses) > 1){
+						##		splice (@{$analyses},$j,1);	
+						##		$disambiguatedForms++;
+						##		$j--;
+						##	}
+						##}
+						##elsif($correctMorph eq '1Sg'  && $form =~ /[nm]puni/)
+						##{
+						##	if($allmorphs !~ /\Q1.Sg.Subj\E/ && scalar(@$analyses) > 1){
+						##		splice (@{$analyses},$j,1);	
+						##		$disambiguatedForms++;
+						##		$j--;
+						##	}
+						##}
+						##elsif($correctMorph eq '3Sg'  && $form =~ /[nm]puni/)
+						##{
+						##	if($allmorphs !~ /\Q3.Sg.Subj\E/ && scalar(@$analyses) > 1){
+						##		splice (@{$analyses},$j,1);	
+						##		$disambiguatedForms++;
+						##		$j--;
+						##	}
+						##	
+						##}
 						# no confusion with other tags, just check whether allmorphs contains them
 						else
 						{
@@ -1149,7 +1146,6 @@ sub disambMorph2{
 								$j--;		
 							}
 						}
-						
 					}
 					# for debugging: print disambiguated forms
 			#		for(my $j=0;$j<scalar(@$analyses);$j++) {
