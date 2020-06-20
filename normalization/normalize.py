@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
 
+import sys, getopt
+
 from foma import FST
 
 fst = FST.load('orthography.bin')
