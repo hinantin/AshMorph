@@ -172,7 +172,7 @@ while(<STDIN>){
 			$hashAnalysis{'root'} = $root;
 	    	$hashAnalysis{'allmorphs'} = $allprefixes.$allsuffixes;
 	    	$hashAnalysis{'lem'} = $lem;
-	    
+			
 			if($newWord)
 			{
 				my @analyses = ( \%hashAnalysis ) ;
@@ -197,7 +197,7 @@ if($mode eq '-1')
 	# ----------------------------
 	# We will assign possible-classes according to the XFST analyses.
 	# correct-class will be the output when the model is used 
-	# print STDERR "Do they have preffixes?\n";
+	# print STDERR "Do they have prefixes?\n";
 	foreach my $word (@words)
 	{
 		my $analyses = @$word[1];
@@ -212,23 +212,30 @@ if($mode eq '-1')
 		if(exists($xfstWords{$form}))
 		{
 			# VERBAL morphology
-			# Do they have preffixes?
-			# print STDERR "Do they have preffixes?\n";
+			# Do they have prefixes?
+			# print STDERR "$string\n";
 			my $nominalpossession = "\Q1SG.poss+\E|\Q2poss+\E|\Q3m.poss+\E|\Q3n.m.poss+\E|\Q1PL.poss+\E";
 			my $verbalprefixes = "\Q1SG.S/A+\E|\Q1SG.S+\E|\Q1SG.A+\E|\Q2S/A+\E|\Q2S+\E|\Q2A+\E|\Q3m.S/A+\E|\Q3m.S+\E|\Q3m.A+\E|\Q3n.m.S/A+\E|\Q3n.m.S+\E|\Q3n.m.A+\E|\Q1PL.S/A+\E|\Q1PL.S+\E|\Q1PL.A+\E|\QIRR+\E|\QM.CAUS+\E|\QAGT.CAUS+\E";
-			if(&containedInOtherMorphs($xfstAnalyses, $nominalpossession)) # determining if there is ambiguity 
+			if($string =~ m/($nominalpossession)/) # determining if there is ambiguity 
+			{
+				# print STDERR "Do they have prefixes?\n";
+				# possible-classes
+				push(@possibleClasses, "Prefix");
+				push(@possibleClasses, "NoPrefix");
+				$actualClass = "Prefix";
+			}
+			elsif($string =~ m/($verbalprefixes)/)
 			{
 				# possible-classes
 				push(@possibleClasses, "Prefix");
 				push(@possibleClasses, "NoPrefix");
 				$actualClass = "Prefix";
 			}
-			elsif(&containedInOtherMorphs($xfstAnalyses, $verbalprefixes, "DISABLEQE"))
+			elsif ($pos =~ m/(VRoot|NRoot)/)
 			{
-				# possible-classes
 				push(@possibleClasses, "Prefix");
 				push(@possibleClasses, "NoPrefix");
-				$actualClass = "Prefix";
+				$actualClass = "NoPrefix";
 			}
 			### -sqaykichik
 			##elsif(&containedInOtherMorphs($xfstAnalyses,"+Perf","+1.Sg.Subj_2.Pl.Obj.Fut"))
@@ -824,24 +831,16 @@ sub sentenceHasEvid{
 
 sub containedInOtherMorphs{
 	my ($analyses, @strings) = (@_);
-	my $disableqe = 0;
-	my $string1 = "";
-	my $string2 = "";
-	if (@strings[-1] =~ /DISABLEQE/) {
-		$disableqe = 1;
-		pop(@strings);
-	}
 	if (scalar(@strings)>1) {
-		$string1 = @strings[0];
-		$string2 = @strings[1];
-		unless ($disableqe) { $string1 = "\Q$string1\E"; $string2 = "\Q$string2\E"; }
+		my $string1 = @strings[0];
+		my $string2 = @strings[1];
 		for(my $j=0;$j<scalar(@$analyses);$j++) 
 		{
 			my $analysis = @$analyses[$j];
 			my $allmorphs = $analysis->{'allmorphs'};
 			$allmorphs =~ s/#//g;
 			#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
-			if($allmorphs =~ /$string1/)
+			if($allmorphs =~ /\Q$string1\E/)
 			{	
 				#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
 				# check if later analysis has +Term
@@ -851,7 +850,7 @@ sub containedInOtherMorphs{
 					my $postmorphs = $analysis2->{'allmorphs'};
 					$postmorphs =~ s/#//g;
 					#print "  next: $postmorphs\n";
-					if($postmorphs =~ /$string2/ )
+					if($postmorphs =~ /\Q$string2\E/ )
 					{		
 						#print "2 found $allmorphs\n";
 						#print "2compared with $postmorphs\n";
@@ -865,7 +864,7 @@ sub containedInOtherMorphs{
 					my $premorphs = $analysis3->{'allmorphs'};
 					$premorphs =~ s/#//g;
 					#print "   prev: $premorphs\n";
-					if($premorphs =~ /$string2/)
+					if($premorphs =~ /\Q$string2\E/)
 					{
 						#print "      3 found $allmorphs\n";
 						#print "      3 compared with $premorphs\n";
@@ -876,15 +875,14 @@ sub containedInOtherMorphs{
 		}
 	}
 	else {
-		$string1 = @strings[0];
-		unless ($disableqe) { $string1 = "\Q$string1\E"; }
+		my $string1 = @strings[0];
 		for(my $j=0;$j<scalar(@$analyses);$j++) 
 		{
 			my $analysis = @$analyses[$j];
 			my $allmorphs = $analysis->{'allmorphs'};
 			$allmorphs =~ s/#//g;
 			#print STDERR @$analyses[$j]->{'lem'}." morphs: $allmorphs  string1: $string1  string2: $string2\n";
-			if($allmorphs =~ /$string1/)
+			if($allmorphs =~ /\Q$string1\E/)
 			{	
 				return 1;
 			}

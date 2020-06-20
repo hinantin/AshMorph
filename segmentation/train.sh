@@ -1,6 +1,6 @@
 #rm -f PossibleLemmasForTrain PossibleMorphsForTrain PossibleRootsForTrain
 /usr/bin/perl /home/hinantin/ashaninka/AshaninkaMorph/segmentation/search_xfst.pl > /home/hinantin/ashaninka/AshaninkaMorph/segmentation/sentences.pan-ashaninka.xfst
-###cat models/sentences.pan-ashaninka.xfst | /usr/bin/perl /home/hinantin/ashaninka/AshaninkaMorph/segmentation/getPossibleRootsForTrain.pl
+###cat /home/hinantin/ashaninka/AshaninkaMorph/segmentation/models/sentences.pan-ashaninka.xfst | /usr/bin/perl /home/hinantin/ashaninka/AshaninkaMorph/segmentation/getPossibleRootsForTrain.pl
 # POS 
 ###cat sentences.pan-ashaninka.xfst | /usr/bin/perl /home/hinantin/ashaninka/AshaninkaMorph/segmentation/xfst2wapiti_pos.pl -train > /home/hinantin/ashaninka/Wapiti/dat/pan-ashaninka.train.txt
 ###cd /home/hinantin/ashaninka/Wapiti && /home/hinantin/ashaninka/Wapiti/wapiti train -p model/pan-ashaninka.pattern.txt -1 5 model/pan-ashaninka.train.txt /home/hinantin/ashaninka/AshaninkaMorph/segmentation/models/pan-ashaninka.model

@@ -7,6 +7,11 @@ binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 use Storable;
 use Config::IniFiles;
+use File::Spec::Functions qw(rel2abs);
+use File::Basename;
+use Config::IniFiles;
+
+my $path = dirname(rel2abs($0));
 
 # get possible roots from xfst and store hash with this info to disk
 
@@ -96,7 +101,7 @@ while(<STDIN>){
 		if($lem eq ''){
 			#$lem = $form;
 			$lem = 'ZZZ';
-		}			
+		}
 				#print "allmorphs: $allmorphs\n";
 				#print "morphs: @morphtags\n\n";
 			
