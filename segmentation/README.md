@@ -31,3 +31,13 @@ $ vi segment.sh
 % TESTING 
 $ bash segment.sh input-file 
 ```
+
+#### GOLD STANDARD
+
+| FILE                                              | AVERAGE SCORE |
+|---------------------------------------------------|---------------|
+| sentences.pan-ashaninka.test.bpe.subword-nmt      | 16.3 %        |
+| sentences.pan-ashaninka.test.morfessor            | 38.82 %       |
+| sentences.pan-ashaninka.test.result.sentencepiece | 37.32 %       |
+| sentences.pan-ashaninka.test.ashaninkamorph       | 74.49 %       |
+

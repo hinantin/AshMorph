@@ -26,7 +26,7 @@ def intersection(lst1, lst2):
 
 # Open a file with human annotation
 npArraytesthumanaanotation = np.array([])
-with open("human_annotation/sentences_pan-ashaninka_Jaime.txt.result", "rw+") as ftesthumanaanotation:
+with open("sentences_pan-ashaninka_Jaime.txt.result", "rw+") as ftesthumanaanotation:
     linestesthumanaanotation = ftesthumanaanotation.readlines()
     for line in linestesthumanaanotation:
         npArraytesthumanaanotation = np.append(npArraytesthumanaanotation, line)
@@ -37,7 +37,7 @@ with open("sentences.pan-ashaninka.test.ashaninkamorph", "rw+") as ftestpanashan
     for line in linestestpanashaninka:
         npArraytestpanashaninka = np.append(npArraytestpanashaninka, line)
 
-with open('human_annotation/rand.out.2') as f:
+with open('rand.out.2') as f:
     lines=f.readlines()
     index = 0
     finalscore = 0
@@ -58,18 +58,18 @@ with open('human_annotation/rand.out.2') as f:
             if ("@@" in val):
                 numberofoptions = numberofoptions + 1
                 # compare indexes
-"""
-          1111111
-01234567890123456
-m@@ap@@ip@@aye@@eni
-
-0123456789
-mapipayeeni
- @@             0-1    1  1-1
-   @@           2-3    5  5-3            
-     @@         5-6    9  9-4
-        @@      7-8    14 14-7
-"""
+                """
+                          1111111
+                01234567890123456
+                m@@ap@@ip@@aye@@eni
+                
+                0123456789
+                mapipayeeni
+                 @@             0-1    1  1-1
+                   @@           2-3    5  5-3            
+                     @@         5-6    9  9-4
+                        @@      7-8    14 14-7
+                """
                 # getting indexes from human annotation
                 indexeswordhumanannotation = findindexes(val, "@")
                 # getting indexes from software

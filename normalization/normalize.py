@@ -2,17 +2,36 @@
 # -*- coding: UTF-8 -*-
 
 import sys, getopt
-
 from foma import FST
 
-fst = FST.load('orthography.bin')
-word = 'ejAti'
-word = word.lower()
-numberresults = 0
-Results = []
-Results.append(word) 
-for result in fst.apply_up(word):
-    if result not in Results or numberresults < 1:
-        print result
-        numberresults += 1
+def main(argv):
+   inputfile = ''
+   outputfile = ''
+   try:
+      opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofile="])
+   except getopt.GetoptError:
+      print 'normalize.py -i <inputfile> -o <outputfile>'
+      sys.exit(2)
+   for opt, arg in opts:
+      if opt == '-h':
+         print 'normalize.py -i <inputfile> -o <outputfile>'
+         sys.exit()
+      elif opt in ("-i", "--ifile"):
+         inputfile = arg
+      elif opt in ("-o", "--ofile"):
+         outputfile = arg
+   print 'Input file is "', inputfile
+   print 'Output file is "', outputfile
+   fst = FST.load('orthography.bin')
+   word = 'ejAti'
+   word = word.lower()
+   numberresults = 0
+   Results = []
+   Results.append(word) 
+   for result in fst.apply_up(word):
+       if result not in Results or numberresults < 1:
+           print result
+           numberresults += 1
 
+if __name__ == "__main__":
+   main(sys.argv[1:])
