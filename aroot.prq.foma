@@ -4,11 +4,11 @@
 # Unlike nouns adjectives cannot be possessed.
 
 define ARootPRQin [
-  "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature]" : {antari} ! N@->V
-| "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature]" : {antari} ! N@->V
-| "[=anteari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature]" : {anteari} ! N@->V
-| "[=antiari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature]" : {antiari} ! N@->V
-| "[=antyari+gndr@m.+0@nposs.adj.][NRoot][=big; mature]" : {antyari} 
+  "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature]" : {antari} ! N@->V
+| "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature]" : {antari} ! N@->V
+| "[=anteari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature]" : {anteari} ! N@->V
+| "[=antiari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature]" : {antiari} ! N@->V
+| "[=antyari+gndr@m.+0@nposs.adj.][NRoot][=big (ES: grande); mature]" : {antyari} 
 
 | "[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antaro} ! N@->V
 | "[=antavo+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]" : {antavo} ! N@->V
