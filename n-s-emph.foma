@@ -1,10 +1,14 @@
+# -------------------------------------------
+# EMPHASIZER
+# -------------------------------------------
 # to assert: to state clearly and firmly that sth. is true
+
 define N=S=EMPH [
-  "[--][-kia][+EMPH_ASSERT]" : [{kia}] 
-| "[--][-kya][+EMPH_ASSERT]" : [{kya}] 
-| "[--][-kea][+EMPH_ASSERT]" : [{kea}] 
-| "[--][-ka][+EMPH_ASSERT]" : [{ka}] 
-| "[--][-ha][+EMPH_ASSERT]" : [{ha}] 
+  "[--][-kia][+EMPH][=EMPH; ASSERT (EN: state.clearly-&-firmly.that.sth.is.true)]" : [{kia}] 
+| "[--][-kya][+EMPH][=EMPH; ASSERT (EN: state.clearly-&-firmly.that.sth.is.true)]" : [{kya}] 
+| "[--][-kea][+EMPH][=EMPH; ASSERT (EN: state.clearly-&-firmly.that.sth.is.true)]" : [{kea}] 
+| "[--][-ka][+EMPH][=EMPH; ASSERT (EN: state.clearly-&-firmly.that.sth.is.true)]" : [{ka}] 
+| "[--][-ha][+EMPH][=EMPH; ASSERT (EN: state.clearly-&-firmly.that.sth.is.true)]" : [{ha}] 
 ! 
 | "[--][-tya][+EMPH]" : [{tya}]
 ];
