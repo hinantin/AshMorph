@@ -1,4 +1,6 @@
 # ---------------------------------------
+# ADVERB
+# ---------------------------------------
 
 define N=S=ADV=SET1 [
 # shimashiripaite / =shimashiri -paite / =flowering.tree.sp. -adv|-during / EN: 'cannibalistic.feast.held.in.June'  
@@ -11,7 +13,7 @@ define N=S=ADV=SET2 [
 | "[--][-ini][AS][+ADV]" : [{ini}]
 # ------------------------------
 # kapicheni / =kapiche -ni / =little -adv / EN: 'a.little', ES: 'un.poco'
-| "[--][-ni][AS][+ADV]" : [{ni}]
+| "[--][-ni+~{R.DEL:e}{ADV:eni}][AS][+ADV]" : [{ni}]
 ];
 
 define N=S=ADV [ N=S=ADV=SET1 | N=S=ADV=SET2 ];
