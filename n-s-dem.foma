@@ -2,8 +2,10 @@
 # NOMINAL DEMONSTRATIVE  
 # --------------------------------
 # DEM.NOM
+# AS: adverbializer suffix  
+
 define N=S=DEM [
-  "[--][=ka+mrph.cath@proximal.b.][Adv][+DEM.NOM][=DEM (EN: here, close.to.the.speaker)]" : {ka} ! this
-| "[--][=ra+mrph.cath@medial.b.][Adv][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]" : {ra} 
-| "[--][=nta+mrph.cath@distal.b.][Adv][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]" : {nta} 
+  "[--][=ka+mrph.cath@proximal.b.][AS][+DEM.NOM][=DEM (EN: here, close.to.the.speaker)]" : {ka} ! this
+| "[--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]" : {ra} 
+| "[--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]" : {nta} 
 ];
