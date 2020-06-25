@@ -1,5 +1,9 @@
+# -----------------------------------
+# CONTRASTIVE 
+# -----------------------------------
+
 define N=S=CNTR [
   "[--][-ha][+CNTR]" : [{ha}]
 # irokamaha / =iroka -maha / =this -cntr / EN: 'instead.this', ES: 'en.cambio.esto'  
-| "[--][-maha][+CNTR][=instead; in.contrast]" : [{maha}]
+| "[--][-maha][+CNTR][=instead (ES: en.cambio); in.contrast]" : [{maha}]
 ];
