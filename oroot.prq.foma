@@ -319,6 +319,8 @@ define ConnRootPRQ01in [
 ! satzi 
 | "[=aisatzi][ConnRoot][=also]" : {aisatzi}
 | "[=irosatzi][ConnRoot][=CONN (ES: also; until)]" : {irosatzi}
+! hatsi
+| "[=ihatsi][ConnRoot][=also (ES: también)]" : {ihatsi}
 # ------------------------------------------------------------------
 | "[=roomache][ConnRoot][=but; instead]" : {roomache}
 ! 

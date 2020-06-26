@@ -141,10 +141,10 @@ define NounToVerbPRQin [
 | "[=tambor+m.][NRoot][=drum]::[=to.drum (ES: tocar.el.tambor)][^VBZ]" : {tamporo} ! N@->V::[=to.drum (ES: tocar.el.tambor)]
 | "[=tambor+m.][NRoot][=drum]::[=to.drum (ES: tocar.el.tambor)][^VBZ]" : {tampoo} ! N@->V::[=to.drum (ES: tocar.el.tambor)]
 | "[=trusa+NCFS000][NRoot][=underpants, underwear; shorts][^VBZ]" : {trusa} ! N@->V
-| "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ]" : {antari} ! N@->V
-| "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ]" : {antari} ! N@->V
-| "[=anteari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ]" : {anteari} ! N@->V
-| "[=antiari+gndr@m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ]" : {antiari} ! N@->V
+| "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][^VBZ]" : {antari} ! N@->V
+| "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][^VBZ]" : {antari} ! N@->V
+| "[=anteari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][^VBZ]" : {anteari} ! N@->V
+| "[=antiari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][^VBZ]" : {antiari} ! N@->V
 | "[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ]" : {antaro} ! N@->V
 | "[=antavo+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ]" : {antavo} ! N@->V
 | "[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]::[=to.be.big][^VBZ]" : {antaro} ! N@->V::[=to.be.big] 

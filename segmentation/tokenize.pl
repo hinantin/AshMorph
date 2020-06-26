@@ -6,7 +6,7 @@ binmode STDOUT, ':utf8';
 
 while (<>)
 {
-@words = split(/([\s+|,|\.|\:|;|\[|\]|\(|\)|\?|\~|\“|\”|\"|\"|\¡|\–|\¿|\!|\/|\%|\'|=|…|—|，|一|\*|•])/);
+@words = split(/([\s+])/);
 foreach (@words) {
     if (m/^\s*$/) { next;}
     #elsif (m/^\.*$/) { next; } 

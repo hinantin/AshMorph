@@ -26,13 +26,13 @@ def intersection(lst1, lst2):
 
 # Open a file with human annotation
 npArraytesthumanaanotation = np.array([])
-with open("sentences_pan-ashaninka_Jaime.txt.result", "rw+") as ftesthumanaanotation:
+with open("cni.txt.rand.txt.Jaime.tok", "rw+") as ftesthumanaanotation:
     linestesthumanaanotation = ftesthumanaanotation.readlines()
     for line in linestesthumanaanotation:
         npArraytesthumanaanotation = np.append(npArraytesthumanaanotation, line)
 # segmentation made by a software        
 npArraytestpanashaninka = np.array([])
-with open("sentences.pan-ashaninka.test.ashaninkamorph", "rw+") as ftestpanashaninka:
+with open("cni.txt.rand.ashaninkamorph", "rw+") as ftestpanashaninka:
     linestestpanashaninka = ftestpanashaninka.readlines()
     for line in linestestpanashaninka:
         npArraytestpanashaninka = np.append(npArraytestpanashaninka, line)
@@ -43,8 +43,8 @@ with open('rand.out.2') as f:
     finalscore = 0
     for line in lines:
         outputhumanaanotation = npArraytesthumanaanotation[index]
-        outputsoftware = npArraytestpanashaninka[int(line)]
-        print("Machine segmentation: "+ npArraytestpanashaninka[int(line)]+"\nHuman segmentation: "+npArraytesthumanaanotation[index]+"\n")
+        outputsoftware = npArraytestpanashaninka[index]
+        print("Machine segmentation: "+ npArraytestpanashaninka[index]+"\nHuman segmentation: "+npArraytesthumanaanotation[index]+"\n")
         outputhumanaanotationlist = re.split('\s+', outputhumanaanotation)
         # split software output 
         outputsoftwarelist = re.split('\s+', outputsoftware)
