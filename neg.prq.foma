@@ -66,9 +66,9 @@ define NegPRQin [
 # ---------------------------------------- 
 # realis negative particle 
 # ---------------------------------------- 
-| "[=ti+future.neg.][Neg][=NEG.REAL]" : {ti}
-| "[=te+future.neg.][Neg][=NEG.REAL]" : {te}
-| "[=tee+future.neg.][Neg][=NEG.REAL]" : {tee}
+| "[=ti+tense@future.neg.][Neg][=NEG.REAL]" : {ti}
+| "[=te+tense@future.neg.][Neg][=NEG.REAL]" : {te}
+| "[=tee+tense@future.neg.][Neg][=NEG.REAL]" : {tee}
 # conditional negative realis
 | "[=te][Neg][=NEG.REAL][--][=rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {terika}
 | "[=tee][Neg][=NEG.REAL][--][=rika][+COND]::[=if.not (negates.a.realis.condition.clause); or (marker.of.clausal.disjunction)]" : {teerika}
