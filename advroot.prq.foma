@@ -34,11 +34,27 @@ define AdvRootPRQ=SET1 [
 | "[=kitziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {kitziroini}
 ! 
 | "[=otapinaki][AdvRoot][=under (ES: debajo.(de))]" : {otapinaki} 
+# -------------------------------------------------------------------------- 
 ! 
 | "[=imponya][AdvRoot][=CONN (EN: then, afterwards)]" : {imponya}
-| "[=imponyashitakya][AdvRoot][=afterwards]" : {imponyashitakya}
-| "[=iponya+m.][AdvRoot][=afterwards]" : {iponya}
-| "[=iponyashitanaka][AdvRoot][=afterwards]" : {iponyashitanaka}
+| "[=imponyashitakya][AdvRoot][=CONN (EN: afterwards)]" : {imponyashitakya}
+| "[=iponya+gndr@m.][AdvRoot][=CONN (EN: afterwards)]" : {iponya}
+| "[=iponyashitanaka][AdvRoot][=CONN (EN: afterwards)]" : {iponyashitanaka}
+! 
+| "[=ponya][AdvRoot][=CONN (EN: then, later)]" : {ponya}
+| "[=ponyaa][AdvRoot][=CONN (EN: then, later)]" : {ponyaa}
+| "[=ponyaka][AdvRoot][=CONN (EN: afterwards)]" : {ponyaka}
+| "[=ponyashita][AdvRoot][=CONN (EN: afterwards)]" : {ponyashita}
+| "[=ponyashitaka][AdvRoot][=CONN (EN: afterwards)]" : {ponyashitaka}
+| "[=ponyashitaka][AdvRoot][=CONN (EN: then)]" : {ponyashitaka}
+! 
+| "[=ponyaashita][ConnRoot][=CONJ (EN: afterwards)]" : {ponyaashita}
+! 
+| "[=oponya][AdvRoot][=then]" : {oponya}
+| "[=oponya][AdvRoot][=meanwhile]" : {oponya}
+| "[=oponya][AdvRoot][=afterwards]" : {oponya}
+| "[=oponyaa][AdvRoot][=then]" : {oponyaa}
+# -------------------------------------------------------------------------- 
 ! 
 | "[=irohatsi][AdvRoot][=until (ES: hasta), when]" : {irohatsi}
 | "[=irohatzi][AdvRoot][=until, when]" : {irohatzi}
@@ -73,13 +89,12 @@ define AdvRootPRQ=SET1 [
 | "[=okakini][AdvRoot][=near (ES: cerca)]" : {okakini}
 | "[=okaakini][AdvRoot][=near (ES: cerca)]" : {okaakini}
 | "[=kempehi][AdvRoot][=near (ES: cerca)]" : {kempehi}
+# ---------------------------------------------------------------------------
 ! 
 | "[=okanta][AdvRoot][=CONN]" : {okanta}
 | "[=okanta][AdvRoot][=meanwhile]" : {okanta}
-| "[=oponya][AdvRoot][=then]" : {oponya}
-| "[=oponya][AdvRoot][=meanwhile]" : {oponya}
-| "[=oponya][AdvRoot][=afterwards]" : {oponya}
-| "[=oponya][AdvRoot][=then]" : {oponyaa}
+# ---------------------------------------------------------------------------
+! 
 | "[=osaikera][AdvRoot][=tomorrow]" : {osaikera}
 | "[=osaitekera][AdvRoot][=tomorrow]" : {osaitekera}
 ! 
@@ -112,15 +127,6 @@ define AdvRootPRQ=SET1 [
 | "[=paerani][AdvRoot][=since; before; long.ago]" : {paerani}
 | "[=peerani][AdvRoot][=since; before; long.ago (ES: antes, hace.tiempo)]" : {peerani}
 | "[=perani][AdvRoot][=since; before; long.ago (ES: antes, hace.tiempo)]" : {perani}
-! 
-| "[=ponya][AdvRoot][=then]" : {ponya}
-| "[=ponya][AdvRoot][=later]" : {ponya}
-| "[=ponyaka][AdvRoot][=afterwards]" : {ponyaka}
-| "[=ponyashita][AdvRoot][=afterwards]" : {ponyashita}
-| "[=ponyashitaka][AdvRoot][=afterwards]" : {ponyashitaka}
-| "[=ponyashitaka][AdvRoot][=then]" : {ponyashitaka}
-! 
-| "[=ponyaashita][ConnRoot][CONJ][=afterwards]" : {ponyaashita}
 ! 
 | "[=sheteni][AdvRoot][=in.the.afternoon]" : {sheteni}
 | "[=sheeteni][AdvRoot][=in.the.afternoon]" : {sheeteni}
