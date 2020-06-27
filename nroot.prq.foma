@@ -1285,6 +1285,7 @@ define NRootPRQin [
 | "[=iNpeeta/impeeta+gndr@n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel.rocoso); crag; ravine (ES: barranco)]" : {impeeta}
 | "[=iNpeta/impeta+gndr@n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel.rocoso); crag; ravine (ES: barranco)]" : {impeta}
 | "[=iNperita/imperita+gndr@n.m.][NRoot][=rock (ES: roca); cave; crag]" : {imperita}
+| "[=iNpirita/impirita+gndr@n.m.][NRoot][=rock (ES: roca); cave; crag]" : {impirita}
 | "[=iNpiita/impiita+gndr@n.m.][NRoot][=rock (ES: roca); cave; crag]" : {impiita}
 | "[=iNpita/impita+gndr@m.][NRoot][=larva.sp.that.inhabits.rivers (ES: saca, sp.de.larva.que.habita.los.ríos, langostino.del.río)]" : {impita}
 # -----------------------------------------------
@@ -4473,7 +4474,7 @@ define NRootPRQin [
 | "[=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
 | "[=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 ! 
-| "[=pankoshi~{'house':panko}{CL:/'leaf':shi/}+gndr@n.m.+inal@ntsi.][NRoot][=hut, hovel, hunter's.blind (ES: choza.(para.cazar.aves.salvajes); PT: cabana)]" : {pankoshi} 
+| "[=pankoshi~{'house':panko}{CL:/'leaf':shi/}+gndr@n.m.+inal@ntsi.][NRoot][=hut, hovel, hunter's.blind (ES: choza.(para.cazar.aves.salvajes); PT: cabana)]" : {pankoshi} ! N@->V::[=to.make.a.hut (ES: preparar.la.choza)] 
 # ----------------------------------------------------------------------------- 
 ! 
 # obaante / ovaante / o- paante / 3n.m.poss- =mouth / EN: 'her.mouth'; ES: 'su.boca (de.ella)' 
