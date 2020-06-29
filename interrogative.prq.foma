@@ -158,5 +158,5 @@ define WhPRQin [
 ! 
 | "[=maaroni][IndfPrn][=all, everyone]" : {maaroni}
 | "[=aparoni][IndfPrn][=somebody]" : {aparoni}
-| "[=aparopaye+~{N/'one':aparo/}{DIST:paye}][IndfSpecif][=each]" : {aparopaye}
+| "[=aparopaye+~{N/'one':aparo/}{DIST:paye}][IndfSpecif][=each.(one) (ES: cada.uno)]" : {aparopaye}
 ];
