@@ -28,7 +28,7 @@ define ORootPRQin [
 ! 
 | "[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]" : {ari}
 | "[=ario][PostPol][=PP]" : {ario}
-| "[=ari][PostPol][=PP][--][=ka+shortened][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]" : {arika} ! ari-rika / PP-COND
+| "[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]" : {arika} ! ari-rika / PP-COND
 | "[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]" : {aririka} ! ari-rika / PP-COND : if 
 | "[=ario][PostPol][=PP][--][=rika][+COND]::[=maybe, perhaps (ES: quizás); when, if]" : {ariorika} ! ario-rika / PP-COND
 | "[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case.(that) (ES: así.es.que)]" : {aritaki} ! ari-t-ak-i / PP-EP-PRF-REAL
