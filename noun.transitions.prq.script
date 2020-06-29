@@ -85,6 +85,7 @@ define N [
 | (N=S=NMZ) (N=S=NMZ) (N=S=PL) 
 | (N=S=poss) (N=S=LOC) (N=S=DEM) 
 | (N=S=LOC) (N=S=TEMP) 
+| (N=S=CL) (N=S=CL) (N=S=TEMP) 
 | (N=S=LOC) (N=S=DEM) (N=S=EMPH) 
 | (N=S=PL) (N=S=DEM) 
 | (N=S=DUB) (N=S=EMPH) 
