@@ -84,8 +84,11 @@ with open('rand.out.2') as f:
         index = index + 1
         # printing score for a single sentence 
         score = round(sumwordscores / float(numberofoptions), 4) 
+        # Un TP es: cuando morph ha marcado una @@ igual al humano
         truepositives = 0
+        # Un FP es: cuando morph ha marcado una @@ que no se ha marcado el humano
         falsepositives = 0
+        # Un FN es: cuando morph no ha marcado una @@ pero el human la ha marcado
         falsenegative = 0
         print("N° True positives (TP): " + str(truepositives) +" \n")
         print("N° False positives (FP): " + str(falsepositives) +" \n")
