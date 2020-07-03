@@ -48,6 +48,9 @@ with open('rand.out.2') as f:
         outputhumanaanotationlist = re.split('\s+', outputhumanaanotation)
         # split software output 
         outputsoftwarelist = re.split('\s+', outputsoftware)
+        if len(outputhumanaanotationlist) != len(outputsoftwarelist):
+            print("#############################################\nWARNING: the numbers of tokens to be compared are not equal\n#############################################\n")
+            continue 
         npArrayoutputsoftware = np.array([])
         for line in outputsoftwarelist:
             npArrayoutputsoftware = np.append(npArrayoutputsoftware, line)
