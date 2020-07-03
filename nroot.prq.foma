@@ -1298,16 +1298,16 @@ define NRootPRQin [
 ! 
 # ---------------------------------------------------------------------
 # Vocative form 
-| "[=ina+gndr@n.m.+inal@tsi.+voc.+kin@fe/male.ego][NRoot][=mother; wife]" : {ina} ! non-possesive form?
-| "[=ena+gndr@n.m.+inal@tsi.+voc.+kin@fe/male.ego][NRoot][=mother; wife]" : {ena}
-| "[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother; wife]" : {inaa}
-| "[=iina+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother; wife]" : {iina}
+| "[=ina+gndr@n.m.+inal@tsi.+voc.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]" : {ina} ! non-possesive form?
+| "[=ena+gndr@n.m.+inal@tsi.+voc.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]" : {ena}
+| "[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]" : {inaa}
+| "[=iina+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]" : {iina}
 ! 1st, 2nd, 3rd person 
-| "[=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother]" : {niro} ! @section:noun@ 
-| "[=nyiiro/ñiiro+gndr@n.m.+kin@fe/male.ego][NRoot][=mother]" : {nyiiro}
+| "[=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)]" : {niro} ! @section:noun@ 
+| "[=nyiiro/ñiiro+gndr@n.m.+kin@fe/male.ego][NRoot][=mother (ES: mamá)]" : {nyiiro}
 ! 
 ! Vocative form; 1st, 2nd, 3rd person  
-| "[=hina+gndr@n.m.+inal@n/tsi.+kin@fe/male.ego][NRoot][=mother; wife]" : {hina}
+| "[=hina+gndr@n.m.+inal@n/tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]" : {hina}
 # ---------------------------------------------------------------------
 ! 
 # kaarainari / =kaara =ina -ri / =empty =sphere -nmz / EN: 'bald'; ES: 'calvo' 
