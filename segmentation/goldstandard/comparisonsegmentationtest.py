@@ -54,6 +54,12 @@ with open('rand.out.2') as f:
         # comparing with human annotation 
         numberofoptions = 0
         sumwordscores = 0
+        # Un TP es: cuando morph ha marcado una @@ igual al humano
+        truepositives = 0
+        # Un FP es: cuando morph ha marcado una @@ que no se ha marcado el humano
+        falsepositives = 0
+        # Un FN es: cuando morph no ha marcado una @@ pero el human la ha marcado
+        falsenegative = 0
         for idx, val in enumerate(outputhumanaanotationlist):
             if ("@@" in val):
                 numberofoptions = numberofoptions + 1
@@ -81,18 +87,13 @@ with open('rand.out.2') as f:
                 # calculating the score for a single word 
                 wordscore = round(ncorrect / float(ntotal), 4) * 100
                 sumwordscores = sumwordscores + wordscore
+                truepositives = truepositives + ncorrect
         index = index + 1
         # printing score for a single sentence 
         score = round(sumwordscores / float(numberofoptions), 4) 
-        # Un TP es: cuando morph ha marcado una @@ igual al humano
-        truepositives = 0
-        # Un FP es: cuando morph ha marcado una @@ que no se ha marcado el humano
-        falsepositives = 0
-        # Un FN es: cuando morph no ha marcado una @@ pero el human la ha marcado
-        falsenegative = 0
-        print("N° True positives (TP): " + str(truepositives) +" \n")
-        print("N° False positives (FP): " + str(falsepositives) +" \n")
-        print("N° False negatives (FP): " + str(falsenegative) +" \n")
+        print("Number of true positives (TP): " + str(truepositives) +" \n")
+        print("Number of false positives (FP): " + str(falsepositives) +" \n")
+        print("Number of false negatives (FN): " + str(falsenegative) +" \n")
         print("Score: " + str(score) +" % \n#------------------------------------------------------------")
         finalscore = finalscore + score 
     print("Average score: " + str(round(finalscore / float(index), 2)) + " % \n")
