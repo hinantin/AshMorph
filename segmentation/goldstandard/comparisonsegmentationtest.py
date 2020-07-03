@@ -58,7 +58,7 @@ with open('rand.out.2') as f:
         truepositives = 0
         # Un FP es: cuando morph ha marcado una @@ que no se ha marcado el humano
         falsepositives = 0
-        # Un FN es: cuando morph no ha marcado una @@ pero el human la ha marcado
+        # Un FN es: cuando morph no ha marcado una @@ pero el humano la ha marcado
         falsenegative = 0
         for idx, val in enumerate(outputhumanaanotationlist):
             if ("@@" in val):
@@ -87,10 +87,12 @@ with open('rand.out.2') as f:
                 # calculating the score for a single word 
                 wordscore = round(ncorrect / float(ntotal), 4) * 100
                 sumwordscores = sumwordscores + wordscore
-                # 
-                falsepositives = falsepositives + (len(indexeswordoutputsoftware) - ncorrect)
-                # 
+                # getting true positives
                 truepositives = truepositives + ncorrect
+                # getting false positives
+                falsepositives = falsepositives + (len(indexeswordoutputsoftware) - ncorrect)
+                # getting false negatives 
+                falsenegative = falsenegative + (len(indexeswordhumanannotation) - ncorrect)
         index = index + 1
         # printing score for a single sentence 
         score = round(sumwordscores / float(numberofoptions), 4) 
