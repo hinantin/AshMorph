@@ -87,6 +87,9 @@ with open('rand.out.2') as f:
                 # calculating the score for a single word 
                 wordscore = round(ncorrect / float(ntotal), 4) * 100
                 sumwordscores = sumwordscores + wordscore
+                # 
+                falsepositives = falsepositives + (len(indexeswordoutputsoftware) - ncorrect)
+                # 
                 truepositives = truepositives + ncorrect
         index = index + 1
         # printing score for a single sentence 
