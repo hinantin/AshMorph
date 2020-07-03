@@ -84,6 +84,12 @@ with open('rand.out.2') as f:
         index = index + 1
         # printing score for a single sentence 
         score = round(sumwordscores / float(numberofoptions), 4) 
+        truepositives = 0
+        falsepositives = 0
+        falsenegative = 0
+        print("N° True positives (TP): " + str(truepositives) +" \n")
+        print("N° False positives (FP): " + str(falsepositives) +" \n")
+        print("N° False negatives (FP): " + str(falsenegative) +" \n")
         print("Score: " + str(score) +" % \n#------------------------------------------------------------")
         finalscore = finalscore + score 
     print("Average score: " + str(round(finalscore / float(index), 2)) + " % \n")
