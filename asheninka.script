@@ -51,27 +51,14 @@ TZEpenthesisRule8
       #                        #
       ##########################
       define PersPrnPI2Rule1 [ [{pi}]"@VPERS@" (->) "@2@" ];
-#       define TransSubj1 [ "[1SG.A+]" <- "[1SG.S+]" || _ ?* "[+1SG.O]"];
-#       define TransSubj2 [ "[2SG.A+]" <- "[2SG.S+]" || _ ?* "[+2SG.O]"];
-#       define TransSubj3 [ "[3SGm.A+]" <- "[3SGm.S+]" || _ ?* "[+3SGm.O]"];
-#       define TransSubj4 [ "[3SGnm.A+]" <- "[3SGnm.S+]" || _ ?* "[+3SGnm.O]"];
-#       define TransSubj5 [ "[1PL.A+]" <- "[1PL.S+]" || _ ?* "[+1PL.O]"];
       define PersPrnRules [ PersPrnPI2Rule1 ] ; 
 
-#      source v-s-1.foma
-#      source v-s-2.foma
-#      source v-s-3.foma
-#      source v-s-4.foma
-#      source v-s-5.foma
-#      source v-s-6.foma
-#      source v-s-7.foma
       source verb.classifier.prq.foma
       source verb.composition.prq.foma
       source verb.composition.len.prq.foma
       source verb.suffix.prq.script
       source verb.transitions.prq.script
 
-#      define S [ (V=S=1) (V=S=2) (V=S=3) (V=S=4) ]; #(V=S=3) (S=4) (S=5) (S=6) (S=7)] ;
       define Suff [S] ;
 
       ####################################
@@ -80,22 +67,6 @@ TZEpenthesisRule8
       #     Restricctions                #
       #                                  #
       ####################################
-      # S .. is accepted
-      
-      # not accepting the incorrect combinations S .. O deprecated 
-      #define TransSubjRestr1 [~$["@1SG.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-      #define TransSubjRestr2 [~$["@2S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-      #define TransSubjRestr3 [~$["@3m.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-      #define TransSubjRestr4 [~$["@3n.m.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-      #define TransSubjRestr5 [~$["@1PL.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-     #define MINSUFFIX  [~$[ ?*"--"?* ] ]; 
-      #define PrnSubject ["@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"];
-      #define PrnAgent ["@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"];
-      #define PrnObject ["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"];
-      #define TransAgentWithoutObject ~[[PrnAgent ?*] & [?* PrnObject]];
-      #define TransSubjectWithObject ~[[PrnSubject ?*] & [?* PrnObject]];
-     #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5] ;
-      #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. TransAgentWithoutObject .o. TransSubjectWithObject] ;
 
       define MPRestr1 [ ["@MP@"] => {m} _ {p} ]; # IRREALIS PREFIX
       define NVowelRestr1 [ ["@NVowel@"] => {n} _ [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}] ]; ! n, p should be omitted ? # IRREALIS PREFIX
@@ -115,8 +86,6 @@ TZEpenthesisRule8
       source n-vroot.prq.group1.foma 
         define VRootPRQ [VRootPRQin|VRootESin|NounToVerbPRQin];
 
-#      define Verb VerbFeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
-
       ##########################
       #                        #
       #          Nouns         #
@@ -125,9 +94,6 @@ TZEpenthesisRule8
       source n-p-1.foma
       define NPref [(N=P=1)] ;
 
-#      source n-s-1.foma
-#      source n-s-2.foma
-#      source n-s-3.foma
       source noun.suffix.prq.script
       source noun.transitions.prq.script
 
@@ -194,13 +160,10 @@ TZEpenthesisRule8
       #########################################
       #          Vowel Deletion Rules         #
       #########################################
-      # noirani (in our lexicon) -> no@PHONPROC@irani -> n@PHONPROC@irani -> nirani 
-#      define VowelLossRule1 [ o"@PHONPROC@" -> "@PHONPROC@" || n _ [{i}|{o}|{a}] ]; 
-#      define VowelLossRule2 [ i"@PHONPROC@" -> "@PHONPROC@" || p _ [{i}|{o}|{a}] ]; 
+
       define VowelLossRule3 [ i"@PHONPROC@" (->) "@PHONPROC@" || _ [{i}] ]; 
       define VowelLossRule4 [ o"@PHONPROC@" (->) "@PHONPROC@" || _ [{o}] ]; 
       
-#      define VowelLoss [ VowelLossRule1 .o. VowelLossRule2 ];
       define VowelLoss [ VowelLossRule3 .o. VowelLossRule4 ];
       
       ####################################
@@ -290,19 +253,6 @@ TZEpenthesisRule8
       define NPOSSRestr2 [ ["@NPOSS"[{tsi}|{tzi}]] => ["@EP"[{mento}|{minto}]"@NMZ@"] _ ];
 
       define NominalizedVerbFeatRestr [ NPOSSRestr1 .o. NPOSSRestr2 ];
-
-# | V=S=ADJ # nominalization 
-# | (SENSORY) NMZ # nominalization 
-# | STAT NMZ (ADV) # nominalization revise!!!
-# | V=S=ADJ (AUG) # nominalization 
-# | (APPLREAS) V=S=ADJ # nominalization 
-# | NMZ # nominalization 
-# | V=S=ADJ (V=S=LOC) # nominalization
-# | V=S=ADJ (V=S=smallpart) (V=S=DIM) # nominalization 
-# | (REGR) (STAT) (V=S=ADJ) (V=S=TEMPORAL) # nominalization revise?
-# | V=S=ADJ # nominalization 
-# | V=S=ADJ (PL) # nominalization 
-# | V=S=ADJ (ADV) # nominalization
 
       define PWLenitionRuleIncNoun1 [ "@EP"p (->) "@PHONPROCINCNOUN@"v || [{a}] _ [{a}|{o}] ]; 
       define LenitionIncNoun [ PWLenitionRuleIncNoun1 ];  
