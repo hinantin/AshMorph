@@ -22,7 +22,7 @@ def main(argv):
          outputfile = arg
    print 'Input file is "', inputfile
    print 'Output file is "', outputfile
-   fst = FST.load('orthography.bin')
+   fst = FST.load('orthography.fst')
    word = 'ejAti'
    word = word.lower()
    numberresults = 0
