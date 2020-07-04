@@ -27,7 +27,7 @@
       define TZEpenthesisRule4 [ t"@EP" (->) {tz}"@EP" || n _ i ]; # kant@EPi -> ocantzi
       define TZEpenthesisRule6 [ t"@EP" (->) {tz}"@EP" || i _ i ]; # p^atziri(tz)-imo(t)~an-ac—e-ri
       define TZEpenthesisRule8 [ t"@EP" (->) {tz}"@EP" || o _ i ]; # i-tsink-ako-tz-imaint-a-ro
-#      define TSEpenthesisRule1 [ ["@EP@"{ts}"@EP"] => i _ i ];  # ts allophone to tz
+#EP1      define TSEpenthesisRule1 [ t"@EP" (->) {ts}"@EP" || n _ i ];  # ts allophone to tz
                                                                  # n-amatawits-i-mi
       
        define Epenthesis [ 
