@@ -327,6 +327,7 @@ define ConnRootPRQ01in [
 ! satsi 
 | "[=aisatsi][ConnRoot][=CONN (EN: also)]" : {aisatsi}
 # ------------------------------------------------------------------
+! 
 | "[=roomache][ConnRoot][=but; instead]" : {roomache}
 ! 
 | "[=kantzimaitacha][ConnRoot][=nevertheless]" : {kantzimaitacha}
@@ -334,6 +335,7 @@ define ConnRootPRQ01in [
 | "[=omaanta][ConnRoot][=but; instead]" : {omaanta}
 ! 
 | "[=rooma][ConnRoot][=but]" : {rooma}
+# ------------------------------------------------------------------
 ! 
 | "[=onkantya][ConnRoot][=in.order]" : {onkantya}
 | "[=onkantya][ConnRoot][=so.that]" : {onkantya}
@@ -341,8 +343,10 @@ define ConnRootPRQ01in [
 ! 
 | "[=okanta][ConnRoot][=in.the.meantime]" : {okanta}
 | "[=ikanta][ConnRoot][=in.the.meantime]" : {ikanta}
+# ------------------------------------------------------------------
 ! 
 | "[=tekira][ConnRoot][=before]" : {tekira}
+# ------------------------------------------------------------------
 ! 
 | "[=ovakera][ConnRoot][=CONN (EN: when)]" : {ovakera}
 | "[=ovakira][ConnRoot][=CONN (EN: when)]" : {ovakira}
@@ -350,9 +354,10 @@ define ConnRootPRQ01in [
 | "[=ovakira][ConnRoot][=CONN (EN: when)][--][-ini][AS][+ADV]::[=recently]" : {ovakiraini}
 | "[=ovakera][ConnRoot][=CONN (EN: when)][--][-ini][AS][+ADV]::[=recently]" : {ovakeraini}
 | "[=ovakera][ConnRoot][=CONN (EN: when)][--][-ni][DEGR][+AUG][=truly][--][= (ES: antes; hace.un.momento)]" : {ovakerani}
-| "[=ovakerari][NRoot][=new, recent]" : {ovakerari} 
-| "[=oakerari][NRoot][=new, recent]" : {oakerari} 
-| "[=ovakeratatsiri][NRoot][=new]" : {ovakeratatsiri}
+! 
+| "[=ovakerari][NRoot][=new, recent (ES: nuevo)]" : {ovakerari} 
+| "[=oakerari][NRoot][=new, recent (ES: nuevo)]" : {oakerari} 
+| "[=ovakeratatsiri][NRoot][=new (ES: nuevo)]" : {ovakeratatsiri}
 | "[=ovakerate][NRoot][=new (ES: nuevo)]" : {ovakerate}
 
 ];
