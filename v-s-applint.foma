@@ -7,7 +7,7 @@
 # purpusive: action.done.with.some.purpose.in.view 
 define V=S=APPLINT [
   "[--][-ashi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{ashi}]
-| "[--][-shi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{shi}]
+| "[--][-shi+~{L.DEL:a}{APPL.INT:ashi}][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{shi}]
 ];
                    
 define APPLINT [ [EP V=S=APPLINT]|[V=S=APPLINT] ];
