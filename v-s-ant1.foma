@@ -1,6 +1,7 @@
 # -----------------------------------------------
 # ADVERBIAL SUFFIXES OF TIME
 # -----------------------------------------------
+
 define V=S=ANT1 [ # revise!
 # Ant1 ; past/non-past.action
   "[--][-it][Asp][+ANT][=past/non-past.action (EN: before)]" : "@EP"[{it}]
