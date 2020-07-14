@@ -5,7 +5,7 @@ import sentencepiece as spm
 sp = spm.SentencePieceProcessor()
 sp.Load('spm.model')
 
-f=open("../sentences.pan-ashaninka.test", "r")
+f=open("../cni.txt.rand.tok", "r")
 Lines = f.readlines() 
 
 for line in Lines: 

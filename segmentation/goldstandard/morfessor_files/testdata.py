@@ -4,7 +4,7 @@ io = morfessor.MorfessorIO()
 
 model = io.read_binary_model_file('model.bin')
 
-f=open("../sentences.pan-ashaninka.test", "r")
+f=open("../cni.txt.rand.tok", "r")
 Lines = f.readlines() 
 
 for line in Lines: 
@@ -12,5 +12,5 @@ for line in Lines:
   words = txt.split(" ")
   for word in words:
     pieces = model.viterbi_segment(word)[0]
-    print('@@'.join(pieces))
-  print("\n")
+    print('@@'.join(pieces)),
+  print("\n"),

@@ -4,6 +4,9 @@
 # NON-CONTRADICTORY FOCUS
 ! =OPT=N.C.FOC=O.FOC / =ta=tya=kya 
 ! =N.C.FOC=CNT.F / =tya=mi 
+# 1: N.C.FOC
+# 2: 
+
 define V=S=NCFOC [
   "[--][=tea][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tea}]
 | "[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]

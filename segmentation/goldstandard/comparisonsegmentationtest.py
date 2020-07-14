@@ -41,6 +41,9 @@ with open('rand.out.2') as f:
     lines=f.readlines()
     index = 0
     finalscore = 0
+    totaltruepositives = 0
+    totalfalsepositives = 0
+    totalfalsenegative = 0
     for line in lines:
         outputhumanaanotation = npArraytesthumanaanotation[index]
         outputsoftware = npArraytestpanashaninka[index]
@@ -100,8 +103,14 @@ with open('rand.out.2') as f:
         # printing score for a single sentence 
         score = round(sumwordscores / float(numberofoptions), 4) 
         print("Number of true positives (TP): " + str(truepositives) +" \n")
+        totaltruepositives = totaltruepositives + truepositives
         print("Number of false positives (FP): " + str(falsepositives) +" \n")
+        totalfalsepositives = totalfalsepositives + falsepositives
         print("Number of false negatives (FN): " + str(falsenegative) +" \n")
+        totalfalsenegative = totalfalsenegative + falsenegative 
         print("Score: " + str(score) +" % \n#------------------------------------------------------------")
         finalscore = finalscore + score 
+    print("Number of true positives on average (TP): " + str(round(totaltruepositives / float(index), 2)) +" \n")
+    print("Number of false positives on average (FP): " + str(round(totalfalsepositives / float(index), 2)) +" \n")
+    print("Number of false negatives on average (FN): " + str(round(totalfalsenegative / float(index), 2)) +" \n")
     print("Average score: " + str(round(finalscore / float(index), 2)) + " % \n")
