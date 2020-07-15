@@ -26,13 +26,13 @@ def intersection(lst1, lst2):
 
 # Open a file with human annotation
 npArraytesthumanaanotation = np.array([])
-with open("cni.txt.rand.txt.Jaime.tok", "rw+") as ftesthumanaanotation:
+with open("sentences_pan-ashaninka_Jaime.txt.result", "rw+") as ftesthumanaanotation:
     linestesthumanaanotation = ftesthumanaanotation.readlines()
     for line in linestesthumanaanotation:
         npArraytesthumanaanotation = np.append(npArraytesthumanaanotation, line)
 # segmentation made by a software        
 npArraytestpanashaninka = np.array([])
-with open("cni.txt.rand.ashaninkamorph", "rw+") as ftestpanashaninka:
+with open("sentences.pan-ashaninka.test.bpe.subword-nmt.extract", "rw+") as ftestpanashaninka:
     linestestpanashaninka = ftestpanashaninka.readlines()
     for line in linestestpanashaninka:
         npArraytestpanashaninka = np.append(npArraytestpanashaninka, line)
@@ -51,9 +51,9 @@ with open('rand.out.2') as f:
         outputhumanaanotationlist = re.split('\s+', outputhumanaanotation)
         # split software output 
         outputsoftwarelist = re.split('\s+', outputsoftware)
-        if len(outputhumanaanotationlist) != len(outputsoftwarelist):
-            print("#############################################\nWARNING: the numbers of tokens to be compared are not equal. Skipping sentence.\n#############################################\n")
-            continue 
+        #if len(outputhumanaanotationlist) != len(outputsoftwarelist):
+        #    print("#############################################\nWARNING: the numbers of tokens to be compared are not equal. Skipping sentence.\n#############################################\n")
+        #    continue 
         npArrayoutputsoftware = np.array([])
         for line in outputsoftwarelist:
             npArrayoutputsoftware = np.append(npArrayoutputsoftware, line)

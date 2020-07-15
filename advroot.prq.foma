@@ -67,6 +67,7 @@ define AdvRootPRQ=SET1 [
 | "[=ironyaka][AdvRoot][=now (ES: ahora)]" : {ironyaka}
 | "[=ironyaka/irõyaka][AdvRoot:CPB][=now (ES: ahora)]" : {irõyaka}
 | "[=ironyaaka][AdvRoot][=now (ES: ahora)][--][-maha][+CNTR]" : {ironyaakamaha}
+| "[=ironyaaka][AdvRoot][=now (ES: ahora)][--][-taima][+DUB]" : {ironyaakataima}
 ! 
 | "[=kapichekitaite+~{N:/'little':kapiche/}{N:/'day':kitaite/}][AdvRoot][=early.morning]" : {kapichekitaite}
 | "[=kapichekitaiteni+~{N:/'little':kapiche/}{N:/'day':kitaite/}{ADV:ni}][AdvRoot][=early.morning]" : {kapichekitaiteni}
