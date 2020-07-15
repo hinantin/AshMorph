@@ -32,6 +32,7 @@ define NumeralPRQin [
 | "[=apavakoro+~{'one':apa}{'hand':vako}{NMZ:ro}][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apavakoro} ! source:IIAP
 | "[=apapokoroni+~{'one':apa}{'hand?':poko}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapokoroni}
 | "[=apapakoroni+~{'one':apa}{'hand':pako}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apapakoroni}
+| "[=apavakorone+~{'one':apa}{'hand':vako}{NMZ:ro}{ADV:ne}][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {apavakorone}
 | "[=koni][Numeral:PRQ][=5 ~ five (ES: cinco)]" : {koni} ! @CMP 
 | "[=apapako+~{'one':apa}{'hand':pako}][Numeral][=5 ~ five (ES: cinco)]" : {apapako}
 ! 
