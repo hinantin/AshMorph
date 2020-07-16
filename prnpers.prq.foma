@@ -17,6 +17,7 @@ define PrnPersPRQin [
 ! ********************
 ! 
 ! naka ~ naaka 
+! ABBREV.: {PRN:/'1SG.EXCL.TOP':naaka/}
   "[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naaka} ! @section:prnpers@ 
 | "[=naka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naka} ! @section:prnpers@ 
 # naro: it is only used in greetings 
@@ -82,6 +83,7 @@ define PrnPersPRQin [
 ! 
 | "[=iriroite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@m.][PrnPers][=they.(all)]" : {iriroite}
 | "[=iririroite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@m.][PrnPers]" : {iririroite}
+| "[=irirorite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@m.][PrnPers][=they.(all)]" : {irirorite}
 ! 
 | "[=iroite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {iroite}
 | "[=irooite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@n.m.][PrnPers][=they.(all)]" : {irooite}
