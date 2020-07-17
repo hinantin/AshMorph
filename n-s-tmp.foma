@@ -12,6 +12,7 @@ define N=S=TEMPORALEXIST [
 # --------------------------------
 # TEMPORAL RELATION 
 # --------------------------------
+# More verbalized nominal roots are at the end of verbal roots lexicon file.
 
 define N=S=TEMPORALR [
   "[--][-nta][TENSE][+TMP][=CEASED.R. (EN: ceased.relation.with.a.human.referent)]" : [{nta}]
