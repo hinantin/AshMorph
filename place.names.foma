@@ -91,15 +91,21 @@ define NRootPLACESin [
 ! 
 | "[=sotzini+sem@NP.place][NRoot][=PLACE.NAME]" : {sotzini}
 | "[=zotziki+sem@NP.place][NRoot][=PLACE.NAME]" : {zotziki}
+# ----------------------------------------------------------------------------------- 
 ! 
 | "[=teroritoni+~{N:/'macaw':terori/}{L.DEL:i}{CL:/'upper.part':ito/}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.hill.with.a.stream.inhabited.by.terori/macaw.in.its.upper.part]" : {teroritoni}
+# ----------------------------------------------------------------------------------- 
 ! 
 | "[=tonkitsini+~{N:/'bone':tonki/}{NPOSS:tsi}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.rock.with.many.bones (the.place.was.inhabited.by.kamari/bonebreaking_demonic_creature.which.kills.by.dismembering.victims'.bodies)]" : {tonkitsini}
+# ----------------------------------------------------------------------------------- 
 ! 
 | "[=toterani+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant]" : {toterani}
 | "[=totzirani+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant]" : {totzirani}
+| "[=totsirani+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant]" : {totsirani}
+# ----------------------------------------------------------------------------------- 
 ! 
 | "[=tsamirimenta+sem@NP.place][NRoot][=rock.outcroppings.of.conical.shape.where.the.Master-Owner.of.tsamiri/curassows.resided.in.the.past]" : {tsamirimenta}
+# ----------------------------------------------------------------------------------- 
 ! 
 | "[=tsipishironi+~{N:/'squirrel.monkey':tsipi/}{CL:'leaf':shi}{NMZ:ro}{CL:/'watercourse':ni/}+sem@NP.place][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant]" : {tsipishironi}
 | "[=pichiroki+sem@NP.place][NRoot][=the.river.where.tsipi/squirrel_monkey.are.abundant]" : {pichiroki}
