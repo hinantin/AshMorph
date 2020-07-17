@@ -5656,11 +5656,12 @@ define NRootPRQin [
 | "[=santira][NRoot][=watermelon (PT: melancia; botany.sp.: citrullus.sp.)]" : {santira}
 # ------------------------------------------------------------
 ! 
-| "[=saro+gndr@n.m.+kin@fe/male.ego][NRoot][=grandmother]" : {saro}
+| "[=saro+gndr@n.m.+kin@fe/male.ego][NRoot][=grandmother (ES: abuela)]" : {saro}
 ! 
-| "[=saro+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter]" : {saro}
-| "[=shavo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter]" : {shavo}
-| "[=savo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter]" : {savo}
+| "[=saro+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter (ES: nieta)]" : {saro}
+| "[=shavo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter (ES: nieta)]" : {shavo}
+| "[=savo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter (ES: nieta)]" : {savo}
+| "[=shayo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter (ES: nieta)]" : {shayo} ! to be revised 
 # -------------------------------------------------------------------------------------------------
 ! 
 | "[=saro+gndr@m.+sem@plant][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {saro}
@@ -5668,14 +5669,14 @@ define NRootPRQin [
 | "[=haaapa+gndr@m.+sem@plant][NRoot][=datura.sp. (ES: datura.sp.; sci.nm.: datura.sp.); psychoactive.drug]" : {haaapa}
 # ------------------------------------------------------------
 ! 
-| "[=sacerdote/saserote][NRoot][=priest (ES: sacerdote)]" : {saserote}
+| "[=saserote+allomorph@sacerdote.][NRoot][=priest (ES: sacerdote)]" : {saserote}
 # ------------------------------------------------------------
 ! 
 | "[=satipo+sem@NP.place][NRoot][=NP, Satipo.province]" : {satipo}
 | "[=hatipo+sem@NP.place][NRoot][=NP, Satipo.province]" : {hatipo}
 # ------------------------------------------------------------
 ! 
-| "[=satzi][NRoot][=provenance]" : {satzi}
+| "[=satzi][NRoot][=provenance]" : {satzi} ! to be revised 
 # ------------------------------------------------------------
 ! 
 | "[=satonotzi+gndr@m.+sem@bird][NRoot][=trush-like.antpitta (sci.nm.: myrnothera.campanisona)]" : {satonotzi}
