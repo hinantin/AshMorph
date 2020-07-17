@@ -16,4 +16,5 @@ define N=S=TEMPORALEXIST [
 
 define N=S=TEMPORALR [
   "[--][-nta][TENSE][+TMP][=CEASED.R. (EN: ceased.relation.with.a.human.referent)]" : [{nta}]
+| "[--][-nt][TENSE][+TMP][=CEASED.R. (EN: ceased.relation.with.a.human.referent)]" : [{nt}]
 ];
