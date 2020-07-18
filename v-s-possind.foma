@@ -24,6 +24,7 @@
 # noyajemane / noyahemane / no- =kahem -ane / ES: 'grito' 
 # tyantsi -> notyanipaye / no- =ty -ani -paye / EN: 'my.woven.fabric(s)'; ES: 'mis.tejidos' 
 
+# INTNS or EP ?
 define V=S=POSSIND [
   "[--][-ane~{INTNS:a}{aln.poss.:ne}][NS][+POSS.IND]" : "@EP"[{ane}] 
 | "[--][-ani~{INTNS:a}{aln.poss.:ni}][NS][+POSS.IND]" : "@EP"[{ani}] 
