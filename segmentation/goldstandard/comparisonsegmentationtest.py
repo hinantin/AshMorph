@@ -26,13 +26,13 @@ def intersection(lst1, lst2):
 
 # Open a file with human annotation
 npArraytesthumanaanotation = np.array([])
-with open("sentences_pan-ashaninka_Jaime.txt.result", "rw+") as ftesthumanaanotation:
+with open("cni.txt.rand.txt.Jaime.tok", "rw+") as ftesthumanaanotation:
     linestesthumanaanotation = ftesthumanaanotation.readlines()
     for line in linestesthumanaanotation:
         npArraytesthumanaanotation = np.append(npArraytesthumanaanotation, line)
 # segmentation made by a software        
 npArraytestpanashaninka = np.array([])
-with open("sentences.pan-ashaninka.test.bpe.subword-nmt.extract", "rw+") as ftestpanashaninka:
+with open("cni.txt.rand.ashaninkamorph", "rw+") as ftestpanashaninka:
     linestestpanashaninka = ftestpanashaninka.readlines()
     for line in linestestpanashaninka:
         npArraytestpanashaninka = np.append(npArraytestpanashaninka, line)
@@ -110,7 +110,7 @@ with open('rand.out.2') as f:
         totalfalsenegative = totalfalsenegative + falsenegative 
         print("Score: " + str(score) +" % \n#------------------------------------------------------------")
         finalscore = finalscore + score 
-    print("Number of true positives on average (TP): " + str(round(totaltruepositives / float(index), 2)) +" \n")
-    print("Number of false positives on average (FP): " + str(round(totalfalsepositives / float(index), 2)) +" \n")
-    print("Number of false negatives on average (FN): " + str(round(totalfalsenegative / float(index), 2)) +" \n")
+    print("Number of true positives (TP): " + str(totaltruepositives) +" \n")
+    print("Number of false positives (FP): " + str(totalfalsepositives) +" \n")
+    print("Number of false negatives (FN): " + str(totalfalsenegative) +" \n")
     print("Average score: " + str(round(finalscore / float(index), 2)) + " % \n")
