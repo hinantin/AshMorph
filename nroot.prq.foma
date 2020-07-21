@@ -136,9 +136,10 @@ define NRootPRQin [
 | "[=amaisha+sem@NP.ethnic.grp.][NRoot][=Yanesha (ES: Peruvian-Amazon.ethnic.group), Amuesha]" : {amaisha} 
 # --------------------------------------------------------------------
 ! 
-| "[=amonya/amoña+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: sp.de.planta)]" : {amonya} ! @section:noun@ 
+| "[=amonya+allomorph@amoña.+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: sp.de.planta)]" : {amonya} ! @section:noun@ 
 ! 
-| "[=amonya/amõya+sem@NP.river][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : [{amõya}|{amoya}] 
+| "[=amõya+allomorph@amonya.+sem@NP.river][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : {amõya} 
+| "[=amõya+sem@NP.river][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : {amoya} 
 | "[=amonea+sem@NP.river][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia, amônea)]" : {amonea} 
 # --------------------------------------------------------------------
 ! 
