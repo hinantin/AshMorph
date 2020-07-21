@@ -247,7 +247,7 @@ define NRootPRQin [
 | "[=airi+gndr@m.+poss@ti.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra)]" : {airi} 
 | "[=ãyri+gndr@m.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {ãyri} 
 | "[=eeri+gndr@m.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {eeri} 
-| "[=aeri+gndr@m.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {aeri}
+| "[=aeri+gndr@m.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {aeri} 
 # ---------------------------------------------------------------  
 ! 
 | "[=aiyo+gndr@n.m.+kin@fem.ego][NRoot][=mother.in.law (ES: suegra)]" : {aiyo}
@@ -336,7 +336,7 @@ define NRootPRQin [
 | "[=amaako+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {amaako}
 # ---------------------------------------------------------------  
 ! anaconda, Quechua loan word 
-| "[=amaru/amaaro+gndr@m.+sem@reptile][NRoot][=anaconda, snake (ES: anaconda; QU: amaru)]" : {amaaro}
+| "[=amaaro+allomorph@amaru.+gndr@m.+sem@reptile][NRoot][=anaconda, snake (ES: anaconda; QU: amaru)]" : {amaaro}
 # ---------------------------------------------------------------  
 ! 
 | "[=amatsaere+gndr@n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)]" : {amatsaere}
