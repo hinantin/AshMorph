@@ -147,6 +147,7 @@ define PrnPersPRQin [
 | "[=irotake+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she, she.is.the.one.(who), it.is.the.one.(that)]" : {irotake} ! FOC "that's.why" , "she"
 | "[=irootake+~{PRN:/'3SG.n.m.TOP':iroo/}{EP:t}{PRF:ak}{REAL:e}+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {irootake} 
 | "[=rootake+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why, she; she.is (ES: ella.es)]" : {rootake} 
+| "[=irotaki][PrnPers][+3SG.n.m.][--][=taima][+DUB]::[=is.that.right?]" : {irotakitaima}
 
 #| "[=rootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {rootake}
 #| "[=irootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {irootake}

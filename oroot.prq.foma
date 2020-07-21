@@ -24,7 +24,7 @@ define ORootPRQin [
 # ---------------------------------------------- 
 ! 
 # a / PP 
-| "[=a][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {atake} 
+| "[=a][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {atake}
 ! 
 | "[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]" : {ari}
 | "[=ario][PostPol][=PP]" : {ario}
@@ -135,9 +135,6 @@ define ORootPRQin [
 ! 
 | "[=ha][OtherRoot][=aha]" : {ha}
 | "[=aha][OtherRoot][=aha (affirmative.reaction.to.the.interlocutor's.statement)]" : {aha}
-# ---------------------------------------------- 
-! 
-| "[=irotaki][PrnPers][+3SG.n.m.][--][=taima][+DUB]::[=is.that.right?]" : {irotakitaima}
 # ---------------------------------------------- 
 ! 
 | "[=omaperotatya][OtherRoot][=SUPERLATIVE (EN: ris.that.true?, it.is.true)]" : {omaperotatya}
