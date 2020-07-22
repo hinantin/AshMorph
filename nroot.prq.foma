@@ -4515,6 +4515,7 @@ define NRootPRQin [
 # ----------------------------------------------------------------------------- 
 !
 | "[=pareni+sem@NP.river][NRoot][=river, Perené.river]" : {pareni}
+| "[=parini+sem@NP.river][NRoot][=river, Perené.river]" : {parini}
 # ----------------------------------------------------------------------------- 
 ! banana tree, plantain
 | "[=parenti+gndr@n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]" : {parenti}
