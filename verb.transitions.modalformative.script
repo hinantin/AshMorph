@@ -2,7 +2,7 @@
 # the speakers’ degree of certainty about the stated proposition and their level of assurance (assertability), but they are not correlated with the scale of remoteness of a given event.
 # \cite{mihas2012spatial[p. 14]
 
-define VERB=MODAL=FORMATIVE [
+define MODAL=FORMATIVE [
   (PRNO) 
 | (V=S=OPT) 
 | (V=S=CNTF) 
