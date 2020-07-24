@@ -130,6 +130,8 @@ TZEpenthesisRule8
       source verb.composition.prq.foma
       source verb.composition.len.prq.foma
       source verb.suffix.prq.script
+	  
+	  source verb.transitions.modalformative.script
       source verb.transitions.prq.script
 
 #      define S [ (V=S=1) (V=S=2) (V=S=3) (V=S=4) ]; #(V=S=3) (S=4) (S=5) (S=6) (S=7)] ;
