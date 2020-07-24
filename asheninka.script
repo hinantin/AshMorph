@@ -57,6 +57,8 @@ TZEpenthesisRule8
       source verb.composition.prq.foma
       source verb.composition.len.prq.foma
       source verb.suffix.prq.script
+	  
+      source verb.transitions.modalformative.script
       source verb.transitions.prq.script
 
       define Suff [S] ;
