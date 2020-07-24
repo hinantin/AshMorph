@@ -15,4 +15,6 @@ define MODAL=FORMATIVE [
 | (ADV) 
 | (V=S=O) (PRNO) (V=S=APPR) 
 | (PRNO) (V=S=REL) (V=S=CNTF) 
+| (AUG=SET2) 
+| (V=S=REL) (V=S=Q) 
 ];
