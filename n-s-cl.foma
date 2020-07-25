@@ -513,7 +513,7 @@ define N=S=CL=SET1 [
 ! 
 ! inchapetoki plástico / EN: 'pieces.of.plastic' 
 | "[--][-petoki][+CL:grain-like,small.piece][=grain-like, small.piece]" : {petoki} 
-| "[--][-petyoki~pe{E.PAL.:ty}oki][+CL:little.piece][=small.piece]" : {petyoki} 
+| "[--][-petyoki+~pe{E.PAL.:ty}oki][+CL:little.piece][=small.piece]" : {petyoki} 
 ! kisaateroinatakemi / =kisaa -teroina -t -ak -e =mi / EN: 'your.head.is.black' 
 ! kipatsiteroina / =kipatsi -teroina
 | "[--][-teroina][+CL:spherical,solid][=spherical, solid (ES: forma.de.bola)]" : {teroina} ! @CL 
