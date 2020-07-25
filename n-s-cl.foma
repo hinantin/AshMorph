@@ -2,6 +2,8 @@
 # CLASSIFIER
 # -------------------------------------
 # LABEL STRUCTURE:
+# gender 
+# semantic 
 # +CL:meaning.of.the.classifier;another.meaning.of.the.classifier
 
 define N=S=CL=SET1 [
