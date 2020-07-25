@@ -8,6 +8,66 @@ define WhPRQin [
 ! 2.- INDF: indefinite 
 ! 3.- SPECIF: specific 
 ! 
+# --------------------------------------------
+# PERIPHRASTIC STRATEGIES TO PRODUCE INTERROGATIVE CONSTRUCTIONS 
+# BY USING VARIOUS LIGHT VERBS AND VERBAL AFFIXES 
+# --------------------------------------------
+# PLACE:  
+# =tsika ... =NOUN : 'where ... be?'  
+# =tsika ... =VERB : 'where ... do.sth.?'  
+# --------------------------------------------
+# PLACE:  
+# tsika isaikika? / EN: 'where.does.she/he/it.live?'; ES: '¿dónde vive?'  
+# =tsika ... =saik ... =ka : 'where ... live?'  
+# --------------------------------------------
+# PLACE:  
+# =tsika ... =iyaat ... =ka : 'where ... go?'  ! with =ka ???
+# =tsika ... =ha ... (=ka) : 'where ... go?' 
+# =tsika ... =kin ... =ka : 'where ... go?' 
+# =tsika ... =pony ... : 'where ... come from?' 
+# --------------------------------------------
+# PLACE:  
+# =tsika ... =a ... =ka : 'where ... take from?'  ! with =ka ???
+# --------------------------------------------
+# PLACE:  
+# =tsika ... =iyaat ... =ka : 'where ... go?'  
+# PLACE:  
+# =tsika ... =ken ... =ka : 'where ... go?'  
+# =tsika ... =ken ... =ka : 'where ... be?'  
+# MANNER: 
+# =tsika ... N- =ken ... =ka : 'how.could ... do.sth.?; how.will ... do.sth.?' 
+# --------------------------------------------
+# QUANTITY: it is formed using the copula of capacity (COP.CAP) =kara 
+# =tsika ... =kara ... =NOUN : 'how.much/many?'  
+# =tsika ... N- =kara ... oorya : 'at.which.hour/day?' 
+# HĨPE IKAATSIKA PAAKARI SHIMA? / =hĩpe ** i- =ka(r)a -ts -i =ka ** p- =a -ak -a =ri ** =shima / EN: 'how_many.fishes.did.you.get?'; PT: 'quantos.peixes.você.pescou?'
+# =ka(ra) ... =ka *** =osamani ... : EN: 'since.when/what_time, how.long.ago ... ?' ; ES: 'desde.qué.hora'
+# --------------------------------------------
+# PERSON: 
+# =tsika ... =tzim ... =ka : 'who.be ...?' 
+# =tsika ... =tzim ... =ka =VERB ... -ri : 'which.of.them ... ?' 
+# --------------------------------------------
+# MANNER: 
+# =tsika ... (N-) =kant ... =ka : 'what ... say?; what ... do?; what ... happened?' 
+# =tsika ... =kant ... (=ka) =VERB ... -ri : 'how ... ?'  
+# =tsika ... =kant ... =ka =VERB ... -ri : 'why ... ?'  
+# =tsika ... =kant -ako ... =NOUN : 'about =NOUN'  
+# --------------------------------------------
+# VERB ARGUMENT: 
+# (=tsika) ... =pait ... =ka : 'how ... call ...?; who.be ...?; what ... do?' 
+# =tsika ... =pait ... =ka ... =VERB ... -ri: 'who ...?; what/which ...?; why ...?; how ...?' 
+# --------------------------------------------
+# =pait ... =ka ... =VERB ... -ri: 'which ... =NOUN? ' 
+# =pait ... =ka ... =VERB ... -ri: 'who ...?; what ...?; why ...?; how ...?; how could ...?' 
+# ipaitaka / i- =pai -t -a =ka / 3m.s- =to.call -ep -real =q / EN: 'what's.up?; how.are.you?' 
+# REASON: 
+# =tsika ... =pait ... =ka ... =VERB ... -ri: 'why ... do.sth.?'  
+# --------------------------------------------
+# POSSESOR:
+# =ninka ... =ashi ... -ri: 'whose ... =NOUN? '  
+# 
+# --------------------------------------------
+! 
 # ----------------------------------------------------------------
 ! 
   "[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]" : {tsika}
@@ -76,66 +136,6 @@ define WhPRQin [
 | "[=haanika][WhPrn][=who.(be), whom (ES: ¿quién?)]" : {haanika}
 | "[=hanika][WhPrn][=who.(be), whom][--][-mpa][+DUB]" : {hanikampa}
 | "[=hanika][WhPrn][=who.(be), whom (ES: ¿quién?)][--][-tya][+EMPH]" : {hanikatya}
-! 
-# --------------------------------------------
-# PERIPHRASTIC STRATEGIES TO PRODUCE INTERROGATIVE CONSTRUCTIONS 
-# BY USING VARIOUS LIGHT VERBS AND VERBAL AFFIXES 
-# --------------------------------------------
-# PLACE:  
-# =tsika ... =NOUN : 'where ... be?'  
-# =tsika ... =VERB : 'where ... do.sth.?'  
-# --------------------------------------------
-# PLACE:  
-# tsika isaikika? / EN: 'where.does.she/he/it.live?'; ES: '¿dónde vive?'  
-# =tsika ... =saik ... =ka : 'where ... live?'  
-# --------------------------------------------
-# PLACE:  
-# =tsika ... =iyaat ... =ka : 'where ... go?'  ! with =ka ???
-# =tsika ... =ha ... (=ka) : 'where ... go?' 
-# =tsika ... =kin ... =ka : 'where ... go?' 
-# =tsika ... =pony ... : 'where ... come from?' 
-# --------------------------------------------
-# PLACE:  
-# =tsika ... =a ... =ka : 'where ... take from?'  ! with =ka ???
-# --------------------------------------------
-# PLACE:  
-# =tsika ... =iyaat ... =ka : 'where ... go?'  
-# PLACE:  
-# =tsika ... =ken ... =ka : 'where ... go?'  
-# =tsika ... =ken ... =ka : 'where ... be?'  
-# MANNER: 
-# =tsika ... N- =ken ... =ka : 'how.could ... do.sth.?; how.will ... do.sth.?' 
-# --------------------------------------------
-# QUANTITY: it is formed using the copula of capacity (COP.CAP) =kara 
-# =tsika ... =kara ... =NOUN : 'how.much/many?'  
-# =tsika ... N- =kara ... oorya : 'at.which.hour/day?' 
-# HĨPE IKAATSIKA PAAKARI SHIMA? / =hĩpe ** i- =ka(r)a -ts -i =ka ** p- =a -ak -a =ri ** =shima / EN: 'how_many.fishes.did.you.get?'; PT: 'quantos.peixes.você.pescou?'
-# =ka(ra) ... =ka *** =osamani ... : EN: 'since.when/what_time, how.long.ago ... ?' ; ES: 'desde.qué.hora'
-# --------------------------------------------
-# PERSON: 
-# =tsika ... =tzim ... =ka : 'who.be ...?' 
-# =tsika ... =tzim ... =ka =VERB ... -ri : 'which.of.them ... ?' 
-# --------------------------------------------
-# MANNER: 
-# =tsika ... (N-) =kant ... =ka : 'what ... say?; what ... do?; what ... happened?' 
-# =tsika ... =kant ... (=ka) =VERB ... -ri : 'how ... ?'  
-# =tsika ... =kant ... =ka =VERB ... -ri : 'why ... ?'  
-# =tsika ... =kant -ako ... =NOUN : 'about =NOUN'  
-# --------------------------------------------
-# VERB ARGUMENT: 
-# (=tsika) ... =pait ... =ka : 'how ... call ...?; who.be ...?; what ... do?' 
-# =tsika ... =pait ... =ka ... =VERB ... -ri: 'who ...?; what/which ...?; why ...?; how ...?' 
-# --------------------------------------------
-# =pait ... =ka ... =VERB ... -ri: 'which ... =NOUN? ' 
-# =pait ... =ka ... =VERB ... -ri: 'who ...?; what ...?; why ...?; how ...?; how could ...?' 
-# ipaitaka / i- =pai -t -a =ka / 3m.s- =to.call -ep -real =q / EN: 'what's.up?; how.are.you?' 
-# REASON: 
-# =tsika ... =pait ... =ka ... =VERB ... -ri: 'why ... do.sth.?'  
-# --------------------------------------------
-# POSSESOR:
-# =ninka ... =ashi ... -ri: 'whose ... =NOUN? '  
-# 
-# --------------------------------------------
 ! 
 | "[=haoka+periphrasis@=kara;=pahit;=hi(t).][WhPrn][=WH (EN: which, when; ES: ¿dónde?, ¿cuándo?)]" : {haoka}
 | "[=haoka][WhPrn][=WH][--][-rika][+COND]::[=wherever (ES: dondequiera)]" : {haokarika}
