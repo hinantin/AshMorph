@@ -528,8 +528,8 @@ define N=S=CL=SET1 [
 ! otsinaneronteni / o- =tsinane -ronteni / ES: 'se.refiere.sólo.a.las.mujeres, todas.las.mujeres'
 ! otsinaneroronteni / o- =tsinane -roronteni / ES: 'se.refiere.sólo.a.las.mujeres, todas.las.mujeres' 
 ! piyemisantaririnteni / pi- =kemisanta -ririnteni 
-| "[--][-ririnteni+m@possesor.][+CL:kind,species][=sth.which.is.in.common.with.the.obligatory.order]" : {ririnteni}
-| "[--][-roronteni+n.m@possesor.][+CL:kind,species][=sth.which.is.in.common.with.the.obligatory.order]" : {roronteni}
+| "[--][-ririnteni+gndr@m.possesor.][+CL:kind,species][=sth.which.is.in.common.with.the.obligatory.order]" : {ririnteni}
+| "[--][-roronteni+gndr@n.m.possesor.][+CL:kind,species][=sth.which.is.in.common.with.the.obligatory.order]" : {roronteni}
 ! 
 | "[--][-tsaranka][+CL:wide,flexible][=wide,flexible]" : {tsaranka} 
 ! 
