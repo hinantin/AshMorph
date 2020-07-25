@@ -24,6 +24,7 @@ def main(argv):
    print 'Output file is :', outputfile
    fst = FST.load('orthography.fst')
    word = 'ejAti'
+   lines = ''
    # reading input file 
    finput = open(inputfile)
    try:
@@ -32,6 +33,7 @@ def main(argv):
    finally:
       finput.close()
    # processing words 
+   word = ''.join(lines)
    word = word.lower()
    numberresults = 0
    Results = []
