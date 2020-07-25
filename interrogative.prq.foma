@@ -9,6 +9,7 @@ define WhPRQin [
 ! 3.- SPECIF: specific 
 ! 
 # ----------------------------------------------------------------
+! 
   "[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]" : {tsika}
 | "[=tsika][WhPrn][=WH][--][=paita][WhPrn][=WH]::[=WH (EN: how,, why,, what); tsika_opaita~tsikapaita (EN: what.is.it.called.that,, what)]" : {tsikapaita}
 | "[=tsipaita][Prn][=INDF (EN: whatever, something); tsika_opaita~tsipaita (EN: what.is.it.called.that,, what)]" : {tsipaita}
@@ -92,6 +93,7 @@ define WhPRQin [
 # =tsika ... =iyaat ... =ka : 'where ... go?'  ! with =ka ???
 # =tsika ... =ha ... =ka : 'where ... go?' 
 # =tsika ... =kin ... =ka : 'where ... go?' 
+# =tsika ... =pony ... : 'where ... come from?' 
 # --------------------------------------------
 # PLACE:  
 # =tsika ... =a ... =ka : 'where ... take from?'  ! with =ka ???
