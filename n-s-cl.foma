@@ -330,7 +330,7 @@ define N=S=CL=SET1 [
 ! -ni 'watercourse', a truncated version of nija 'water'
 ! kovirini / =koviri -ni / =corvina.fish -cl:watercourse / EN: 'river.where.corvina_fish.is.abundant'  
 ! pakithani / pakitsani / =pakitsa -ni / =hawk.sp. -cl:watercourse / EN: 'hawk.ravine'; ES: 'quebrada.del.gavilán'  
-| "[--][-ni+place][+CL:watercourse][=watercourse, running.water.feature]" : {ni}
+| "[--][-ni+sem@place.][+CL:watercourse][=watercourse, running.water.feature]" : {ni}
 !  -ito~-to 'head, the.heights.of.sth.', source is iitontsi =iito-ntsi =head-nposs
 ! Manitzito / =manitzi -to / =tiger -cl:heights.of.sth. / EN: 'hill.whose.upper-part.is.inhabited.by.a.man-eating.jaguar' 
 ! Pamoroitoni / =pamoro -ito -ni / =dove.sp. -cl:heights.of.sth. -cl:watercourse  / EN: 'hill.with.a.stream.where.the.pamoro-dove.sp.lives.in.its.upper.part' 
