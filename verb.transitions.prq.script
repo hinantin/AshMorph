@@ -91,7 +91,7 @@ define S [
 | S=NOUN                                                      (DIR) (PRF) STATUS (ADV) 
 |                                                    (V=S=CL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
 |                                                    (V=S=CL) STATUS (ADV) 
-|                                                    (V=S=CL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                    (V=S=CL) (INCH) STATUS (MODAL=FORMATIVE) 
 #  
 |                                                    (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
 | S=NOUN                                             (AUG=SET1) STAT (V=S=REL) (V=S=Q)  ! cameethavoroperotatsiri
@@ -133,7 +133,7 @@ define S [
 | STATUS (PRNO) (V=S=OPT) 
 | (PL) STATUS (V=S=REL) (V=S=Q) 
 | (IMPP) STATUS (PRNO) (ADV) 
-| (DIR) (PRF) STATUS (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
+| (INCH) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 | (PL) STATUS (V=S=PLcircumfixing) 
 | (PL) (REGR) STATUS (V=S=PLcircumfixing) 
 | STATUS (PRNO) 
