@@ -20,10 +20,18 @@ def main(argv):
          inputfile = arg
       elif opt in ("-o", "--ofile"):
          outputfile = arg
-   print 'Input file is "', inputfile
-   print 'Output file is "', outputfile
+   print 'Input file is :', inputfile
+   print 'Output file is :', outputfile
    fst = FST.load('orthography.fst')
    word = 'ejAti'
+   # reading input file 
+   finput = open(inputfile)
+   try:
+      finput.seek(0) # always add 
+      lines = finput.readlines()
+   finally:
+      finput.close()
+   # processing words 
    word = word.lower()
    numberresults = 0
    Results = []
