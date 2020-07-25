@@ -1,6 +1,10 @@
 DROPBOXPATH=/home/richard/Descargas/RCastroq/dropbox/Dropbox/05_Ashaninca/05_Morfologia/Ashaninka_Morph/xml
 TOKENIZERPATH=/home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions
 
+updateservicexfst:
+	@xfst -f asheninka.script
+	@cp asheninka.bin /usr/share/hinantin/asheninka.xfst.bin
+
 updateservice:
 	@foma -f asheninka.script
 	@cp asheninka.bin /usr/share/hinantin/
