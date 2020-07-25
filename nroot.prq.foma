@@ -3048,7 +3048,7 @@ define NRootPRQin [
 | "[=kovinkotzi+gndr@m.+sem@bird][NRoot][=musician.wren (sci.nm.: cyphorhinus.arada)]" : {kovinkotzi}
 # ---------------------------------------------------------------------------
 ! inal?
-| "[=kovitsi+gndr@n.m.+poss@te.][NRoot][=(clay).pot (ES: olla.(de.barro), tinaja)]" : {kovitsi}
+| "[=kovitsi+gndr@n.m.+poss@te.+mrph.phon@LEN:^k→^y.][NRoot][=(clay).pot (ES: olla.(de.barro), tinaja)]" : {kovitsi}
 | "[=koviti+gndr@n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {koviti}
 | "[=kovitzi+gndr@n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]" : {kovitzi} ! @section:noun@ 
 | "[=kovi+gndr@n.m.+poss@te.][NRoot][=clay.pot]" : {kovi}
