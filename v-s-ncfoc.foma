@@ -3,14 +3,6 @@
 # -------------------
 # NON-CONTRADICTORY FOCUS
 ! =OPT=N.C.FOC=O.FOC / =ta=tya=kya 
-
-! the bipartite unit: =tyami
-! EXPECT
-! Expectational ‘probably’, presumably’, ‘as far as I know’ 
-! define V=S=EXPECT [
-!   "[--][=tyami+~{N.C.FOC:tya}{CNT.F:mi}][+EXPECT][=EXPECT (EN: probably, presumably, as.far.as.I.know)]" : [{tyami}]
-! ];
-
 ! =N.C.FOC=CNT.F / =tya=mi 
 # 1: N.C.FOC
 # 2: 
@@ -20,3 +12,12 @@ define V=S=NCFOC [
 | "[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
 | "[--][=tyaa][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tyaa}]
 ];
+
+
+! the bipartite unit: =tyami
+! EXPECT
+! Expectational ‘probably’, presumably’, ‘as far as I know’ 
+define V=S=EXPECT [
+  "[--][=tyami+~{N.C.FOC:tya}{CNT.F:mi}][+EXPECT][=EXPECT (EN: probably, presumably, as.far.as.I.know)]" : [{tyami}]
+| "[--][=tyaami+~{N.C.FOC:tyaa}{CNT.F:mi}][+EXPECT][=EXPECT (EN: probably, presumably, as.far.as.I.know)]" : [{tyaami}]
+]; 
