@@ -7,7 +7,9 @@
 ! the bipartite unit: =tyami
 ! EXPECT
 ! Expectational ‘probably’, presumably’, ‘as far as I know’ 
-!  "[--][=tyami+~{N.C.FOC:tya}{CNT.F:mi}][+EXPECT][=EXPECT (EN: probably, presumably, as.far.as.I.know)]" : [{tyami}]
+! define V=S=EXPECT [
+!   "[--][=tyami+~{N.C.FOC:tya}{CNT.F:mi}][+EXPECT][=EXPECT (EN: probably, presumably, as.far.as.I.know)]" : [{tyami}]
+! ];
 
 ! =N.C.FOC=CNT.F / =tya=mi 
 # 1: N.C.FOC
