@@ -13,7 +13,6 @@ define NegPRQin [
 | "[=iiro+past.neg.][Neg][=NEG.IRR]" : {iiro}
 # conditional negative irrealis 
 | "[=airo][Neg][=NEG.IRR][--][=rika][+COND]::[=if.not, when.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {airorika}
-!| "[=airorika][OtherRoot][=or]" : {airorika}
 | "[=eero][Neg][=NEG.IRR][--][=rika][+COND]" : {eerorika}
 | "[=eiro][Neg][=NEG.IRR][--][=rika][+COND]::[=if.not (negates.an.irrealis.condition.clause); or (marker.of.clausal.disjunction)]" : {eirorika}
 | "[=iiro][Neg][=NEG.IRR][--][=rika][+COND]" : {iirorika}
@@ -89,6 +88,7 @@ define NegPRQin [
 ! 
 | "[=te_aneerohi][VRoot][=NEG.EXIST: there.be.not]" : {te_aneerohi} ! @section:verb@
 | "[=te_anyeerohi][VRoot][=NEG.EXIST: there.be.not]" : {te_anyeerohi} ! @section:verb@
+# --------------------------------------------------------------
 ! 
 | "[=tekira][Neg][=yet; not.yet; before]" : {tekira}
 | "[=tekera][Neg][=yet; not.yet (ES: todavía); before]" : {tekera}
@@ -96,6 +96,8 @@ define NegPRQin [
 | "[=tekira][Neg][=yet; not.yet (ES: todavía.no); before][--][-ta][+OPT]" : {tekirata}
 | "[=tekeraa][Neg][=yet; not.yet (ES: todavía.no); before][--][-ta][+OPT]" : {tekeraata}
 | "[=tekera][Neg][=yet; not.yet; before][--][-mintsa][+DLMT]" : {tekeramintsa}
+| "[=tekera][Neg][=yet; not.yet; before][--][-tya][+EMPH]" : {tekeratya}
+# --------------------------------------------------------------
 ! 
 | "[=te][Neg][=NEG.REAL][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (no-futuro, realis))]" : {tera}
 | "[=eero][Neg][=NEG.IRR][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (futuro, irrealis))" : {eerora}
