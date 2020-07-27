@@ -102,12 +102,12 @@ define AdvRootPRQ=SET1 [
 | "[=kempehi][AdvRoot][=near (ES: cerca)]" : {kempehi}
 # ---------------------------------------------------------------------------
 ! 
-| "[=okanta][AdvRoot][=CONN]" : {okanta}
-| "[=okanta][AdvRoot][=meanwhile]" : {okanta}
+| "[=okanta][AdvRoot][=CONN (EN: meanwhile)]" : {okanta}
 # ---------------------------------------------------------------------------
 ! 
 | "[=osaikera][AdvRoot][=tomorrow]" : {osaikera}
 | "[=osaitekera][AdvRoot][=tomorrow]" : {osaitekera}
+# -------------------------------------------------------- 
 ! 
 | "[=osamani][AdvRoot][=some.time.later; later.on, after.a.while]" : {osamani}
 | "[=osamani][AdvRoot][=late]" : {osamani}
@@ -115,11 +115,13 @@ define AdvRootPRQ=SET1 [
 | "[=osamani][AdvRoot][=a.while.ago]" : {osamani}
 ! 
 | "[=osamani][AdvRoot][=far.away (ES: lejos)]" : {osamani}
+# -------------------------------------------------------- 
 ! 
 | "[=ovakera][AdvRoot][=recently]" : {ovakera}
 | "[=ovakera][AdvRoot][=ago]" : {ovakera}
 | "[=ovakerari][AdvRoot][=new, recent]" : {ovakerari}
 | "[=ovakerani][AdvRoot][=recently]" : {ovakerani}
+# -------------------------------------------------------- 
 ! 
 | "[=shintsini][AdvRoot][=quickly; strongly (ES: con.fuerza)]" : {shintsini}
 | "[=intsipaete][AdvRoot][=quickly (ES: rápido)]" : {intsipaete}
@@ -127,28 +129,34 @@ define AdvRootPRQ=SET1 [
 | "[=intsipaite][AdvRoot][=quickly (ES: rápido); urgently, with.urgency (ES: urgente)]" : {intsipaite}
 | "[=intsipaeni][AdvRoot][=quickly (ES: rápido); urgently, with.urgency (ES: urgente)]" : {intsipaeni}
 | "[=intsipaiteni][AdvRoot][=urgently, with.urgency (ES: urgente)]" : {intsipaiteni}
+# -------------------------------------------------------- 
 ! 
 # kitziroini / =kitzi -roini / =first -only / EN: 'first' 
 | "[=kitziroini][AdvRoot][=first]" : {kitziroini}
+# -------------------------------------------------------- 
 ! 
 | "[=echonkiini][AdvRoot][=a.little (ES: poco)]" : {echonkiini}
+# -------------------------------------------------------- 
 ! 
 # peeraniniri / =peerani -ni -ri / =long.ago -temporal -rel / EN: 'ancestor'; ES: 'antepasado'  
 | "[=pairani][AdvRoot][=since; before; long.ago]" : {pairani}
 | "[=paerani][AdvRoot][=since; before; long.ago]" : {paerani}
 | "[=peerani][AdvRoot][=since; before; long.ago (ES: antes, hace.tiempo)]" : {peerani}
 | "[=perani][AdvRoot][=since; before; long.ago (ES: antes, hace.tiempo)]" : {perani}
+# -------------------------------------------------------- 
 ! 
 | "[=sheteni][AdvRoot][=in.the.afternoon]" : {sheteni}
 | "[=sheeteni][AdvRoot][=in.the.afternoon]" : {sheeteni}
 | "[=sheteniranki][AdvRoot][=yesterday]" : {sheteniranki}
+# -------------------------------------------------------- 
 ! 
 | "[=tampatika][AdvRoot][=at.midday]" : {tampatika}
+# -------------------------------------------------------- 
 ! 
 | "[=tsiteni][AdvRoot][=at.night, in.the.nightime]" : {tsiteni}
 | "[=tsiteniranki][AdvRoot][=last.night]" : {tsiteniranki}
+# -------------------------------------------------------- 
 ! 
-# ----------------------------------------------------------------------
 | "[=shavinihi][AdvRoot][=in.the.afternoon]" : {shavinihi}
 | "[=shaavinihi][AdvRoot][=afternoon (ES: tarde)]" : {shaavinihi}
 | "[=ishaaviini][AdvRoot][=afternoon (ES: tarde)]" : {ishaaviini}
@@ -162,7 +170,9 @@ define AdvRootPRQ=SET1 [
 | "[=shetyaki][AdvRoot][=in.the.afternoon]" : {shetyaki}
 | "[=shetyaake][AdvRoot][=in.the.afternoon (ES: está.atardeciendo)]" : {shetyaake}
 # ----------------------------------------------------------------------
+! 
 | "[=shavinihi][AdvRoot][=quietly, silently (ES: calladamente, silenciosamente)]" : {maireni}
+# -------------------------------------------------------- 
 ! 
 | "[=arinironka][AdvRoot][=more.or.less (ES: más.o.menos); ineffectually]" : {arinironka}
 ];
