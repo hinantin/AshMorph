@@ -1407,7 +1407,8 @@ define VRootPRQin [
 !| "[=koveenkari][NRoot][=danger]" : {koveenkari} ! @section:noun@ 
 # --------------------------------------------------------- 
 ! 
-| "[=kovintsa+INF@/EP:t/aantsi.+poss@/DEL:a/ne.][VRoot][=to.hunt (ES: cazar)]" : {kovintsa}
+| "[=kovintsa+INF@/EP:t/aantsi.+poss@/DEL:a/ne;/DEL:a/ni.][VRoot][=to.hunt (ES: cazar)]" : {kovintsa}
+!| "[=kovintsa+~{V:/'to.hunt':kovintsa/}{L.DEL:a}+poss@ne;ni.][NRoot][=prey (ES: caza, presa)]" : {kovintsa}
 | "[=koventsa][VRoot][=to.hunt (ES: cazar)]" : {koventsa}
 | "[=kovinsa][VRoot][=to.hunt (ES: cazar)]" : {kovinsa} ! ???
 | "[=komintsa+INF@/EP:t/aantsi.][VRoot][=to.hunt (ES: cazar)]" : {komintsa}
