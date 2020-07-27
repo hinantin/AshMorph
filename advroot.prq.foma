@@ -48,11 +48,11 @@ define AdvRootPRQ=SET1 [
 | "[=ponyashitaka][AdvRoot][=CONN (EN: afterwards)]" : {ponyashitaka}
 | "[=ponyashitaka][AdvRoot][=CONN (EN: then)]" : {ponyashitaka}
 ! 
-| "[=ponyaashita][ConnRoot][=CONJ (EN: afterwards)]" : {ponyaashita}
+| "[=ponyaashita][ConnRoot][=CONN (EN: afterwards)]" : {ponyaashita}
 ! 
 | "[=oponya][AdvRoot][=CONN (EN: then)]" : {oponya}
-| "[=oponya][AdvRoot][=meanwhile]" : {oponya}
-| "[=oponya][AdvRoot][=afterwards]" : {oponya}
+| "[=oponya][AdvRoot][=CONN (EN: meanwhile)]" : {oponya}
+| "[=oponya][AdvRoot][=CONN (EN: afterwards)]" : {oponya}
 | "[=oponyaa][AdvRoot][=CONN (EN: then)]" : {oponyaa}
 # -------------------------------------------------------------------------- 
 ! 
