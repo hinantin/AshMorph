@@ -198,13 +198,13 @@ define AdvRootPRQ=SET3 [
 ! intakironta 
 ! intakiroini 
 ! intakiroki 
-  "[=intakiro][AdvRoot][=outside]" : {intakiro}
-| "[=intakero][AdvRoot][=outside]" : {intakero}
+  "[=intakiro][AdvRoot][=outside (ES: afuera)]" : {intakiro}
+| "[=intakero][AdvRoot][=outside (ES: afuera)]" : {intakero}
 ! 
-!| "[=intakiro][AdvRoot][=outside]" : {intakiro}
-!| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside]" : {intakironta}
+!| "[=intakiro][AdvRoot][=outside (ES: afuera)]" : {intakiro}
+!| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside (ES: afuera)]" : {intakironta}
 !#  these are not nouns, consider moving them to adverbs 
-!| "[=intakiro][NRoot][=outside]" : {intakiro}
+!| "[=intakiro][NRoot][=outside (ES: afuera)]" : {intakiro}
 !| "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
 ];
 
@@ -213,9 +213,9 @@ define AdvRootPRQ=SET3=INFLECTION [ [AdvRootPRQ=SET3] [ [(N=S=DEM)] | [(N=S=LOC)
 # ---------------------------------------------------------------- 
 ! inkokiro
 define AdvRootPRQ=SET4 [
-  "[=inkokiro][NRoot][=outside]" : {inkokiro} ! it does not occur alone 
-!| "[=inkokiroeni][NRoot][=outside]" : {inkokiroeni}
-!| "[=inkokironta][NRoot][=outside]" : {inkokironta}
+  "[=inkokiro][NRoot][=outside (ES: afuera)]" : {inkokiro} ! it does not occur alone 
+!| "[=inkokiroeni][NRoot][=outside (ES: afuera)]" : {inkokiroeni}
+!| "[=inkokironta][NRoot][=outside (ES: afuera)]" : {inkokironta}
 ];
 
 define AdvRootPRQ=SET4=INFLECTION [ [AdvRootPRQ=SET4] [ [N=S=DEM] | [N=S=ADV=SET2] ] ];
