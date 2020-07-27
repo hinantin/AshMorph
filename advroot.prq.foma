@@ -4,10 +4,12 @@ define AdvRootPRQ=SET1 [
 | "[=apaatatziro][AdvRoot][=later]" : {apaatatziro}
 | "[=aparohatzini][AdvRoot][=once]" : {aparohatzini}
 | "[=aparohatzini][AdvRoot][=one.day]" : {aparohatzini}
+# -------------------------------------------------------- 
 ! 
 | "[=chapinki][AdvRoot][=the.other.day, yesterday; long.ago, before; a.short.while.ago, recently, recent.time]" : {chapinki}
 | "[=chapinkiranki][AdvRoot][=the.other.day]" : {chapinkiranki}
 | "[=chapinihi][AdvRoot][=yesterday (ES: ayer)]" : {chapinihi}
+# -------------------------------------------------------- 
 ! 
 | "[=entsikero][AdvRoot][=slow (ES: despacio)]" : {entsikero}
 | "[=entsikeroeni][AdvRoot][=slowly (ES: lentamente)]" : {entsikeroeni}
@@ -15,6 +17,7 @@ define AdvRootPRQ=SET1 [
 | "[=ineetsikiroeni][AdvRoot][=slowly (ES: lentamente)]" : {ineetsikiroeni}
 ! inetsikiaji ?
 ! onoshikaja ?
+# -------------------------------------------------------- 
 ! 
 !| "[=ikanta][AdvRoot][=CONN]" : {ikanta}
 | "[=ikanta][AdvRoot][=CONN (EN: meanwhile)]" : {ikanta}
@@ -23,6 +26,7 @@ define AdvRootPRQ=SET1 [
 | "[=inkaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaranki}
 | "[=inkaaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaaranki}
 | "[=inkaranki][AdvRoot][=some.time.ago; a.short.while.ago, earlier]" : {inkaranki}
+# -------------------------------------------------------------------------- 
 ! 
 # kitziroini / =kitzi -roini / =first -only / EN: 'first' 
 # The -roini suffix is not productive. 
@@ -32,6 +36,7 @@ define AdvRootPRQ=SET1 [
 | "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketsiroeni}
 | "[=ketziroeni][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketziroeni}
 | "[=kitziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {kitziroini}
+# -------------------------------------------------------------------------- 
 ! 
 | "[=otapinaki][AdvRoot][=under (ES: debajo.(de))]" : {otapinaki} 
 # -------------------------------------------------------------------------- 
