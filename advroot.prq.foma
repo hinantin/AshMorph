@@ -36,6 +36,9 @@ define AdvRootPRQ=SET1 [
 | "[=ketsiroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketsiroeni}
 | "[=ketziroeni][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {ketziroeni}
 | "[=kitziroini][AdvRoot][=sth.from.the.beginning, first(ly) (ES: primario, originario,, primeramente); far-off (ES: lejano)]" : {kitziroini}
+! 
+# kitziroini / =kitzi -roini / =first -only / EN: 'first' 
+| "[=kitziroini][AdvRoot][=first]" : {kitziroini}
 # -------------------------------------------------------------------------- 
 ! 
 | "[=otapinaki][AdvRoot][=under (ES: debajo.(de))]" : {otapinaki} 
@@ -129,10 +132,6 @@ define AdvRootPRQ=SET1 [
 | "[=intsipaite][AdvRoot][=quickly (ES: rápido); urgently, with.urgency (ES: urgente)]" : {intsipaite}
 | "[=intsipaeni][AdvRoot][=quickly (ES: rápido); urgently, with.urgency (ES: urgente)]" : {intsipaeni}
 | "[=intsipaiteni][AdvRoot][=urgently, with.urgency (ES: urgente)]" : {intsipaiteni}
-# -------------------------------------------------------- 
-! 
-# kitziroini / =kitzi -roini / =first -only / EN: 'first' 
-| "[=kitziroini][AdvRoot][=first]" : {kitziroini}
 # -------------------------------------------------------- 
 ! 
 | "[=echonkiini][AdvRoot][=a.little (ES: poco)]" : {echonkiini}
