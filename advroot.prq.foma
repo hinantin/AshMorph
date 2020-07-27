@@ -16,9 +16,9 @@ define AdvRootPRQ=SET1 [
 ! inetsikiaji ?
 ! onoshikaja ?
 ! 
-| "[=ikanta][AdvRoot][=CONN]" : {ikanta}
-| "[=ikanta][AdvRoot][=meanwhile]" : {ikanta}
-| "[=ikanta][AdvRoot][=meanwhile]" : {ikantya}
+!| "[=ikanta][AdvRoot][=CONN]" : {ikanta}
+| "[=ikanta][AdvRoot][=CONN (EN: meanwhile)]" : {ikanta}
+| "[=ikanta][AdvRoot][=CONN (EN: meanwhile)]" : {ikantya}
 ! 
 | "[=inkaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaranki}
 | "[=inkaaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaaranki}
@@ -57,7 +57,7 @@ define AdvRootPRQ=SET1 [
 # -------------------------------------------------------------------------- 
 ! 
 | "[=irohatsi][AdvRoot][=until (ES: hasta), when]" : {irohatsi}
-| "[=irohatzi][AdvRoot][=until, when]" : {irohatzi}
+| "[=irohatzi][AdvRoot][=until (ES: hasta), when]" : {irohatzi}
 | "[=irohati][AdvRoot][=until (ES: hasta.que), when]" : {irohati}
 ! 
 | "[=ironya][AdvRoot][=now (ES: ahora)]" : {ironya}
