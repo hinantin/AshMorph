@@ -69,7 +69,7 @@ its equivalent in the normalized alphabet before being fully analyzed.
 Compiling with XFST or FOMA
 ===============================
 
-```
+```bash
 # XFST 
 $ xfst -f asheninka.script 
 $ echo "ashaninka" | lookup asheninka.bin -flags cnKv29TT
@@ -102,13 +102,13 @@ How to download the source code
 
 * Using `wget`
 
-```
+```bash
 $ wget https://github.com/hinantin/AshaninkaMorph/archive/master.zip 
 ```
 
 * Cloning this repository
 
-```
+```bash
 $ git clone https://github.com/hinantin/AshaninkaMorph
 ```
 
