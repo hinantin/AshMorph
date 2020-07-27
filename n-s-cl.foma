@@ -317,7 +317,7 @@ define N=S=CL=SET1 [
 | "[--][-teni][+CL:longitudinal.depression][=longitudinal.depression (curved.inwards); convexity]" : {teni}
 | "[--][-tenka][+CL:longitudinal.depression][=longitudinal.depression (curved.inwards); convexity]" : {tenka} ! @CL  
 #-----------------------------------------------
-| "[--][-ina][+CL:ball-like][=ball-like, spherical]" : {ina}
+| "[--][-ina][+CL:ball-like][=ball-like, spherical]" : {ina} ! @CL  
 #-----------------------------------------------
 | "[--][-tsomonte][+CL:bulge][=bulge]" : {tsomonte}
 #-----------------------------------------------
