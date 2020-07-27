@@ -53,7 +53,7 @@ define AdvRootPRQ=SET1 [
 | "[=oponya][AdvRoot][=then]" : {oponya}
 | "[=oponya][AdvRoot][=meanwhile]" : {oponya}
 | "[=oponya][AdvRoot][=afterwards]" : {oponya}
-| "[=oponyaa][AdvRoot][=then]" : {oponyaa}
+| "[=oponyaa][AdvRoot][=CONN (EN: then)]" : {oponyaa}
 # -------------------------------------------------------------------------- 
 ! 
 | "[=irohatsi][AdvRoot][=until (ES: hasta), when]" : {irohatsi}
