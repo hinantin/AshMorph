@@ -19,9 +19,9 @@ define AdvRootPRQ=SET1 [
 ! onoshikaja ?
 # -------------------------------------------------------- 
 ! 
-!| "[=ikanta][AdvRoot][=CONN]" : {ikanta}
 | "[=ikanta][AdvRoot][=CONN (EN: meanwhile)]" : {ikanta}
 | "[=ikanta][AdvRoot][=CONN (EN: meanwhile)]" : {ikantya}
+# -------------------------------------------------------- 
 ! 
 | "[=inkaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaranki}
 | "[=inkaaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaaranki}
@@ -73,6 +73,7 @@ define AdvRootPRQ=SET1 [
 | "[=ironyaka/irõyaka][AdvRoot:CPB][=now (ES: ahora)]" : {irõyaka}
 | "[=ironyaaka][AdvRoot][=now (ES: ahora)][--][-maha][+CNTR]" : {ironyaakamaha}
 | "[=ironyaaka][AdvRoot][=now (ES: ahora)][--][-taima][+DUB]" : {ironyaakataima}
+# -------------------------------------------------------- 
 ! 
 | "[=kapichekitaite+~{N:/'little':kapiche/}{N:/'day':kitaite/}][AdvRoot][=early.morning]" : {kapichekitaite}
 | "[=kapichekitaiteni+~{N:/'little':kapiche/}{N:/'day':kitaite/}{ADV:ni}][AdvRoot][=early.morning]" : {kapichekitaiteni}
@@ -83,14 +84,18 @@ define AdvRootPRQ=SET1 [
 | "[=kapichahe][AdvRoot][=little (ES: poco)]" : {kapichahe}
 | "[=echonkini][AdvRoot][=little (ES: poco)]" : {echonkini}
 | "[=eechonkini][AdvRoot][=little (ES: poco)]" : {eechonkini}
+# -------------------------------------------------------- 
 ! 
 | "[=koramani][AdvRoot][=in.the.future; later.on; one.day]" : {koramani}
+# -------------------------------------------------------- 
 ! 
 | "[=koahika][AdvRoot][=some.time.later]" : {koahika}
+# -------------------------------------------------------- 
 ! 
 | "[=meeka][AdvRoot][=now; already]" : {meeka}
 | "[=meka][AdvRoot][=now]" : {meka}
 | "[=meeka][AdvRoot][=now; already][--][-kea][+EMPH]" : {meekakea}
+# -------------------------------------------------------- 
 ! 
 | "[=okakini][AdvRoot][=near (ES: cerca)]" : {okakini}
 | "[=okaakini][AdvRoot][=near (ES: cerca)]" : {okaakini}
