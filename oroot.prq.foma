@@ -205,13 +205,16 @@ define ORootPRQin [
 | "[=tekatsi][VRoot][=NEG.EXIST: there.be.not, there.will.be.nothing;| NEG.POSSESS: do.not.have.sb./sth.]" : {tekatsi} ! @section:verb@ 
 | "[=teekatsi][VRoot][=NEG.EXIST; NEG.POSSESS: do.not.have.sb./sth.]" : {teekatsi}
 | "[=tekatsi][VRoot][=NEG.EXIST; NEG.POSSESS: do.not.have.sb./sth.][--][-ra][+ADV]" : {tekatsira}
+# ---------------------------------------------- 
 ! 
 | "[=aati+prop@standalone.][VRoot][=we.go (ES: nosotros.vamos)]" : {aati}
+# ---------------------------------------------- 
 ! 
 | "[=kaate+prop@standalone.][VRoot][=COME (ES: ven)]" : {kaate}
 | "[=kate+prop@standalone.][VRoot][=COME (ES: ven)]" : {kate}
 | "[=kaa+prop@standalone.][VRoot][=COME (ES: ven)]" : {kaa}
 | "[=kaate+prop@standalone.][VRoot][=COME (ES: ven)][--][=keti][+URGENT]::[=come.at_once/right_away]" : {kaateketi}
+# ---------------------------------------------- 
 ! 
 # tsamitya / =tsami -tya / =come.on -emph / EN: 'let's go now' 
 | "[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]" : {tsame} ! Interj. 
