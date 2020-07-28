@@ -227,13 +227,16 @@ define ORootPRQin [
 | "[=omapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omapero}
 | "[=omaapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omaapero}
 | "[=maapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {maapero} ! N@->V   
+# ---------------------------------------------- 
 # kyaroa
 | "[=kyaroa+prop@standalone.][VRoot][=WATCH.OUT, BEWARE (ES: ¡cuidado!)]" : {kyaroa} 
+# ---------------------------------------------- 
 ! 
 # -agaantsi / INF / 
 | "[=ma][VRoot][=to.sleep (ES: dormir)][--][-agantsi][NS][+NMZ.INF]" : {magaantsi}
 | "[=a][VRoot][=to.take (ES: agarrar)][--][-agantsi][NS][+NMZ.INF]" : {agaantsi}
 | "[=ta][VRoot][=to.burn (ES: quemar)][--][-agantsi][NS][+NMZ.INF]" : {tagaantsi}
+# ---------------------------------------------- 
 # Copula P5C
 # Negative copula 
 | "[=kaari][VRoot][=NEG.COP (EN: not.be; ES: no.es, no)]" : {kaari}
