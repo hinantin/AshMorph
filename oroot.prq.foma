@@ -196,9 +196,11 @@ define ORootPRQin [
 | "[=kapichi][NRoot][=small][--][=kitaite][VRoot][=to.be.morning]::[=early]" : {kapichikitaite} 
 | "[=inkamane+~inka{EARLY:man}e][AdvRoot][=early (ES: temprano)]" : {inkamane} 
 | "[=inkaamane+~inka{EARLY:aman}e][AdvRoot][=early (ES: temprano)]" : {inkaamane} 
+# ---------------------------------------------- 
 ! 
 | "[=o][OtherRoot][=or]" : {o}
 !| "[=okaakini][OtherRoot][=close.by]" : {okaakini}
+# ---------------------------------------------- 
 ! 
 | "[=tekatsi][VRoot][=NEG.EXIST: there.be.not, there.will.be.nothing;| NEG.POSSESS: do.not.have.sb./sth.]" : {tekatsi} ! @section:verb@ 
 | "[=teekatsi][VRoot][=NEG.EXIST; NEG.POSSESS: do.not.have.sb./sth.]" : {teekatsi}
