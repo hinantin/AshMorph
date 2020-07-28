@@ -258,16 +258,18 @@ define ORootPRQin [
 | "[=terika][ConnRoot][=DISJUNCTION (EN: if.not, or; maybe)]" : {terika}
 # ---------------------------------------------- 
 ! 
-| "[=ya][OtherRoot][=eat]" : {ya}
+| "[=ya][VRoot][=eat]" : {ya}
+# ---------------------------------------------- 
 # kaari perori / =kaari *** =perori / =NEG.COP =good / EN: 'false'; ES: 'falso'  
 # kaariperori / =kaari *** =perori / =NEG.COP =good / EN: 'knockoff'; ES: 'bamba'  
 # kariperori / =kari *** =perori / =NEG.COP =good / EN: 'sin'; ES: 'pecado'  
 # hanikianiki perori / =haniki -aniki *** =perori / =child -dim *** =good / EN: 'really.small.child'; ES: 'bien.chiquitito' 
 | "[=perori+poss@nposs.adj.][NRoot][=good.quality; nice]" : {perori}
+# ---------------------------------------------- 
 ! 
-| "[=kiso][OtherRoot][=together]" : {kiso}
-! 
+| "[=kiso][OtherRoot][=together]" : {kiso} ! to be revised 
 # ------------------------------------------------------------------
+! 
 # Existential-possessive verbs
 # *) Chora nireento okarati osarentsite tsa otsi 
 #    =chora *** n- =ireento *** o- =kara -t -i *** o- =sarentsi -te *** =tsa *** =otsi 
@@ -279,28 +281,35 @@ define ORootPRQin [
 | "[=chora][VRoot][=EXIST (ES: haber~hay); to.have (ES: tener), POSSESS (ES: tener~tiene)]" : {chora} 
 | "[=choora][VRoot][=EXIST (ES: haber~hay); to.have (ES: tener), POSSESS (ES: tener~tiene)]" : {choora} 
 | "[=choratatsi][VRoot][=EXIST (ES: haber~hay); to.have (ES: tener), POSSESS (ES: tener~tiene)]" : {choratatsi} 
+# ------------------------------------------------------------------
 ! 
 | "[=eniro][VRoot][=EXIST (ES: hay); POSSESS]" : {eniro} 
 | "[=enitatsi][VRoot][=EXIST (ES: hay); POSSESS; CONT.POSS (ES: aún.tiene)]" : {enitatsi} 
+# ------------------------------------------------------------------
 ! 
 # CONT.EXIST: continue.to.exist 
 | "[=ainiro][VRoot][=EXIST: (EN: there.is, there.are; ES: hay/haber);| POSSESS;| CONT.EXIST: there.still.be (ES: todavía.hay, haber.todavía)]" : {ainiro} 
 | "[=ainirotatsi][VRoot][=EXIST: (EN: there.is, there.are; ES: hay/haber)]" : {ainirotatsi}
 | "[=aeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.hay/haber)]" : {aeniro} 
 | "[=eeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.ser)]" : {eeniro} 
+# ------------------------------------------------------------------
 ! 
 | "[=enitatsi][VRoot][=EXIST (EN: there.is/are; ES: hay/haber)]" : {enitatsi} 
 | "[=eenitatsi][VRoot][=EXIST (EN: there.is/are; ES: hay/haber)]" : {eenitatsi} 
 | "[=iinitatsi][VRoot][=EXIST (EN: there.is/are; ES: hay/haber)]" : {iinitatsi} 
+# ------------------------------------------------------------------
 ! 
 | "[=tsimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber); POSSESS]" : {tsimatsi} 
 | "[=timatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]" : {timatsi} 
 | "[=tzimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]" : {tzimatsi} 
+# ------------------------------------------------------------------
 ! 
 | "[=timatsikera+~{V:/'EXIST':tsimatsi/}{ADV:/'yet,still':kera/}][VRoot][=CONT.EXIST (ES: todavía.hay)]" : {timatsikera} 
+# ------------------------------------------------------------------
 ! 
 | "[=matsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]" : {matsi} 
 | "[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]" : {maatsi} 
+# ------------------------------------------------------------------
 ! 
 | "[=okaratzi][VRoot][=COP.CAP (EN: all.the.amount; ES: todo)]" : {okaratzi} 
 | "[=okarati][VRoot][=COP.CAP (EN: that's.all,, lit.: it.cuts.off; ES: tanto)]" : {okarati} 
