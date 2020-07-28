@@ -240,6 +240,7 @@ define ORootPRQin [
 # Copula P5C
 # Negative copula 
 | "[=kaari][VRoot][=NEG.COP (EN: not.be; ES: no.es, no)]" : {kaari}
+# ---------------------------------------------- 
 ! 
 | "[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tema}
 | "[=tempa][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tempa}
@@ -248,11 +249,14 @@ define ORootPRQin [
 | "[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)][--][=kia][+EMPH]" : {temakia}
 ! 
 | "[=temaita][OtherRoot][=BUT…NOT (ES: PERO…NO)]" : {temaita}
+# ---------------------------------------------- 
 ! 
 | "[=tema_ari][OtherRoot][=Q.TAG (EN: isn't.it.true?)]" : {tema_ari}
+# ---------------------------------------------- 
 ! 
 # terika pashini mantsiyarentsipaye / =terika *** =pashini *** =mantsiya -re -ntsi -paye / =or *** =other *** =to.be.sick -nmz -nposs -pl / EN: 'or.other.diseases'; ES: 'u.otras.enfermedades'  
 | "[=terika][ConnRoot][=DISJUNCTION (EN: if.not, or; maybe)]" : {terika}
+# ---------------------------------------------- 
 ! 
 | "[=ya][OtherRoot][=eat]" : {ya}
 # kaari perori / =kaari *** =perori / =NEG.COP =good / EN: 'false'; ES: 'falso'  
