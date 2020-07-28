@@ -169,6 +169,7 @@ define ORootPRQin [
 # ----------------------------
 # ADVERSATIVE COORDINATOR
 # ----------------------------
+# This should be identified as a multiword entry 
 # iro kantaincha 'but' 
 | "[=iro][ConnRoot][=but (ES: pero)]" : {iro}
 | "[=iroma+~{CONN:iro}{DUB:ma}][ConnRoot][=in.contrast, but]" : {iroma}
@@ -185,9 +186,11 @@ define ORootPRQin [
 # ---------------------------------------------- 
 ! 
 | "[=ironyaaka][ConnRoot][=CONN (EN: then)]" : {ironyaaka}
+# ---------------------------------------------- 
 ! 
 | "[=maroheini+~{N:/'all':maro/}{PL:hei}{L.DEL:i}{ADV:ini}][AdvRoot][=all (ES: todos, todas)]" : {maroheini}
 | "[=maaroheini+~{N:/'all':maaro/}{PL:hei}{L.DEL:i}{ADV:ini}][AdvRoot][=all (ES: todos, todas)]" : {maaroheini}
+# ---------------------------------------------- 
 ! 
 | "[=kapichikitaite][OtherRoot][=early]" : {kapichikitaite} 
 | "[=kapichi][NRoot][=small][--][=kitaite][VRoot][=to.be.morning]::[=early]" : {kapichikitaite} 
