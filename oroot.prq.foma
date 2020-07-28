@@ -260,6 +260,7 @@ define ORootPRQin [
 ! 
 ! IRREGULAR VERB 
 !| "[=ya][VRoot][=eat]" : {ya}
+| "[no-][VPers][1SG.S/A+][--][=Ø][VRoot][=to.eat (ES: comer)][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR][--][=ri][+3m.O/P]" : {noyari}
 | "[a-][VPers][1PL.S/A+][--][=Ø][VRoot][=to.eat (ES: comer)][--][-yaa+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR][--][=ri][+3m.O/P]" : {ayaari}
 | "[y-][VPers][3m.S/A+][--][=o][VRoot][=to.eat (ES: comer)][--][-yaa+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : {yoyaa}
 # ---------------------------------------------- 
