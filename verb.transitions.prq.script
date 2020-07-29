@@ -87,10 +87,10 @@ define S [
 |                                                    (V=S=CL) (DUR) (PROG) STATUS (MODAL=FORMATIVE)  
 # oshijatatiyempa 
 |                                                    (V=S=CL) (DUR) (PROG) STATUS (MODAL=FORMATIVE) 
-|                                                    (V=S=CL) (DIR) (REGR) STATUS (V=S=NEG) 
-| S=NOUN                                                      (DIR) (PRF) STATUS (ADV) 
-|                                                    (V=S=CL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
-|                                                    (V=S=CL) STATUS (ADV) 
+|                                                    (V=S=CL) (DIR) (REGR) STATUS (MODAL=FORMATIVE) 
+| S=NOUN                                                      (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
+|                                                    (V=S=CL) (PRF) STATUS (MODAL=FORMATIVE) 
+|                                                    (V=S=CL) STATUS (MODAL=FORMATIVE) 
 |                                                    (V=S=CL) (INCH) STATUS (MODAL=FORMATIVE) 
 #  
 |                                                    (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
