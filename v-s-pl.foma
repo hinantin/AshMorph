@@ -31,6 +31,6 @@ define PL [ [EP V=S=PL=SET1]|[V=S=PL=SET1]|[EP V=S=PL=SET2=1]|[V=S=PL=SET2=1]|[V
 # ****************************************
                    
 define V=S=PLcircumfixing [
-  "[--][-ni+circumfix@aiy;iy.][+PL]" : [{ni}]
-| "[--][-ne+circumfix@aiy;iy.][+PL]" : [{ne}]
+  "[--][-ni+circumfix@/PL:aiy/;/PL:iy/.][+PL]" : [{ni}]
+| "[--][-ne+circumfix@/PL:aiy/;/PL:iy/.][+PL]" : [{ne}]
 ];
