@@ -65,7 +65,7 @@ define S [
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (MODAL=FORMATIVE)  
-| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (V=S=COND) 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (MODAL=FORMATIVE) 
 #  
 | S=NOUN                                             (V=S=CL) (DIR) (REGR) STATUS (MODAL=FORMATIVE)  
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun)                    (DIR) (REGR) STATUS (MODAL=FORMATIVE) 
@@ -95,27 +95,27 @@ define S [
 #  
 |                                                    (V=S=CL) STAT (V=S=REL) (V=S=Q)  # end-state? 
 | S=NOUN                                             (AUG=SET1) STAT (V=S=REL) (V=S=Q)  ! cameethavoroperotatsiri
-|                                                    (V=S=CL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
-|                                                    (V=S=CL) (AUG=SET1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
+|                                                    (V=S=CL) (PRF) STATUS (MODAL=FORMATIVE) 
+|                                                    (V=S=CL) (AUG=SET1) (PRF) STATUS (MODAL=FORMATIVE) 
 # nokaratapovetanake 
-| S=NOUN                                                      (FRUS) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
+| S=NOUN                                                      (FRUS) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 # iitamatsivaitaitero 
-| S=NOUN                                                      (DUR) (IMPP) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
-| S=NOUN                                                      (DIST=SET1) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
+| S=NOUN                                                      (DUR) (IMPP) STATUS (MODAL=FORMATIVE) 
+| S=NOUN                                                      (DIST=SET1) (APPLREAS) STATUS (MODAL=FORMATIVE) 
 # -----------------------------------------------------------------------------
 # V=S=noun (POSSREL) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) | 
 # (POSSREL) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) | 
 # kamahimentaaro / =kam -a -hime -nt -aa -ro / =to.die -ep -husband -poss.rel -real -nmz / ES: 'viuda', EN: 'widow' 
 # kamahimentaari / =kam -a -hime -nt -aa -ri / =to.die -ep -husband -poss.rel -real -nmz / ES: 'viudo', EN: 'widow' 
 # -----------------------------------------------------------------------------
-| (FRUS) STATUS (V=S=OPT) 
+| (FRUS) STATUS (MODAL=FORMATIVE) 
 | (DIST) STATUS 
-| (PRF) STATUS (V=S=COND) 
-| (REGR) STATUS (PRNO) 
-| (IMPP) (PRF) STATUS (PRNO) 
-| (CAUSSOC) (SENSORY) STATUS (PRNO) 
-| STATUS (V=S=OPT) 
-| (REGR) (PROG) STATUS (ADV) 
+| (PRF) STATUS (MODAL=FORMATIVE) 
+| (REGR) STATUS (MODAL=FORMATIVE) 
+| (IMPP) (PRF) STATUS (MODAL=FORMATIVE) 
+| (CAUSSOC) (SENSORY) STATUS (MODAL=FORMATIVE) 
+| STATUS (MODAL=FORMATIVE) 
+| (REGR) (PROG) STATUS (MODAL=FORMATIVE) 
 | (REP) (PL) (DIR) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (CAUSSOC) (DIR) (PRF) STATUS (PRNO) 
 | (CAUSSOC) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
