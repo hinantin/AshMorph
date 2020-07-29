@@ -75,18 +75,18 @@ define S [
 |                                                    (V=S=CL) (CAUSSOC) (DIST) (PRF) STATUS (MODAL=FORMATIVE) 
 # o-kant-a-pontso-t-ap-ak-a 
 |                                                    (V=S=CL) (DIR) (PRF) STATUS (MODAL=FORMATIVE)  
-|                                                    (V=S=CL) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| S=NOUN                                                      (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| S=NOUN                                                      (RCP) (CAUSSOC) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) 
-|                                                    (V=S=CL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
-| S=NOUN                                                      (APPLINT) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
-| S=NOUN                                                      (PROG) STATUS (V=S=O) (PRNO) (V=S=NEG) 
-| S=NOUN                                                      (CMPL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                    (V=S=CL) (APPLREAS) STATUS (MODAL=FORMATIVE) 
+| S=NOUN                                                      (DIR) (PRF) STATUS (MODAL=FORMATIVE)  
+| S=NOUN                                                      (RCP) (CAUSSOC) (REGR) STATUS (MODAL=FORMATIVE)  
+|                                                    (V=S=CL) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
+| S=NOUN                                                      (APPLINT) STATUS (MODAL=FORMATIVE) 
+| S=NOUN                                                      (PROG) STATUS (MODAL=FORMATIVE) 
+| S=NOUN                                                      (CMPL) (DIR) (PRF) STATUS (MODAL=FORMATIVE)  
 |                                                    (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 # noshijabeetatiya 
-|                                                    (V=S=CL) (DUR) (PROG) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                    (V=S=CL) (DUR) (PROG) STATUS (MODAL=FORMATIVE)  
 # oshijatatiyempa 
-|                                                    (V=S=CL) (DUR) (PROG) STATUS (V=S=O) (PRNO) (V=S=DUB) 
+|                                                    (V=S=CL) (DUR) (PROG) STATUS (MODAL=FORMATIVE) 
 |                                                    (V=S=CL) (DIR) (REGR) STATUS (V=S=NEG) 
 | S=NOUN                                                      (DIR) (PRF) STATUS (ADV) 
 |                                                    (V=S=CL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
