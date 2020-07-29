@@ -43,38 +43,38 @@ define S [
 | (IMPP) STATUS (MODAL=FORMATIVE) 
 # Yanteetapinintiri
 | (IMPP) (HAB) STATUS (MODAL=FORMATIVE) 
-| (PL=SET1) STATUS (V=S=O) (PRNO) (V=S=NEG) 
+| (PL=SET1) STATUS (MODAL=FORMATIVE) 
 #| (ADV) (V=S=EXCL) # end state? revise!!!
-| (CAUSSOC) (PRF) STATUS (PRNO) 
-| STATUS (V=S=REL) (V=S=Q) 
+| (CAUSSOC) (PRF) STATUS (MODAL=FORMATIVE) 
+| STATUS (MODAL=FORMATIVE) 
 | STAT (V=S=REL) (V=S=Q) # end-state? 
 | (PRF) STATUS 
-| (APPLGEN) STATUS (PRNO) 
+| (APPLGEN) STATUS (MODAL=FORMATIVE) 
 # -----------------------------------------------------------------------------
 # NOUN INCORPORATION AND VERBAL CLASSIFIERS 
 # -----------------------------------------------------------------------------
 #| V=S=noun ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (NMZ) # end-state? revise!!! nominalization???
-| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) ! noun root: noun, noun+noun 
-| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIR) (REGR) STATUS (MODAL=FORMATIVE) ! noun root: noun, noun+noun 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (DIST) (PRF) STATUS (MODAL=FORMATIVE)   
 # o=nint-a-Voro-t-ab-ak-e-ri 
 # y=ovetsik-a-Vanko-t-e 
-| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (RCP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)
-|        ("@PHONPROCINCNOUN@"V=S=LEN=noun)                    (RCP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) (RCP) (PRF) STATUS (MODAL=FORMATIVE) 
+|        ("@PHONPROCINCNOUN@"V=S=LEN=noun)                    (RCP) (PRF) STATUS (MODAL=FORMATIVE) 
 # 
-| S=NOUN                                                      (PL=SET1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+| S=NOUN                                                      (PL=SET1) (PRF) STATUS (MODAL=FORMATIVE)  
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STAT (V=S=REL) (V=S=Q) # end-state? 
-| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (V=S=O) (PRNO) (V=S=REL) 
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (MODAL=FORMATIVE)  
 | S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun) (V=S=ABS) (V=S=CL) STATUS (V=S=COND) 
 #  
-| S=NOUN                                             (V=S=CL) (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) 
-| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun)                    (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) 
+| S=NOUN                                             (V=S=CL) (DIR) (REGR) STATUS (MODAL=FORMATIVE)  
+| S=NOUN ("@PHONPROCCMPNOUN@"V=S=LEN=noun)                    (DIR) (REGR) STATUS (MODAL=FORMATIVE) 
 |        ("@PHONPROCINCNOUN@"V=S=LEN=noun)                    STATUS
 # o-kant-a-pankaina-aty-a 
 |                                                    (V=S=CL) (PROG) STATUS 
-|                                                    (V=S=CL) (CAUSSOC) (DIST) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+|                                                    (V=S=CL) (CAUSSOC) (DIST) (PRF) STATUS (MODAL=FORMATIVE) 
 # o-kant-a-pontso-t-ap-ak-a 
-|                                                    (V=S=CL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) 
+|                                                    (V=S=CL) (DIR) (PRF) STATUS (MODAL=FORMATIVE)  
 |                                                    (V=S=CL) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | S=NOUN                                                      (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | S=NOUN                                                      (RCP) (CAUSSOC) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) 
