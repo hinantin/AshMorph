@@ -196,6 +196,7 @@ define S [
 #| (AUG)  # end-state? 
 | (APPLREAS) STATUS (PRNO) 
 | (DIR) (PRF) (PL) STATUS (V=S=PLcircumfixing) 
+| (PL=SET2) (DIR) (REGR) STATUS (V=S=PLcircumfixing) 
 # antaroperotatzi 
 | (AUG) PROG=SET1 
 | (AUG) PROG=SET1 
