@@ -321,10 +321,10 @@ define ORootPRQin [
 # ------------------------------------------------------------------
 # Obligation
 # ontzimatye / o- N- =tzim -aty -e / 3n.m.S- -irr =to.have -prog -irr / EN: 'it's.necessary' 
-| "[=ontzimatye][VRoot][=to.be.necessary (to.express.obligation)]" : {ontzimatye}
-| "[=ontzimatyi][VRoot][=to.be.necessary (to.express.obligation)]" : {ontzimatyi}
-| "[=ontsimatye][VRoot][=to.be.necessary (to.express.obligation)]" : {ontsimatye}
-| "[=ontimatiye][VRoot][=to.be.necessary (to.express.obligation)]" : {ontimatiye}
+| "[=ontzimatye][VRoot][=OBLIGATION (EN: to.be.necessary)]" : {ontzimatye}
+| "[=ontzimatyi][VRoot][=OBLIGATION (EN: to.be.necessary)]" : {ontzimatyi}
+| "[=ontsimatye][VRoot][=OBLIGATION (EN: to.be.necessary)]" : {ontsimatye}
+| "[=ontimatiye][VRoot][=OBLIGATION (EN: to.be.necessary)]" : {ontimatiye}
 # ------------------------------------------------------------------
 ];
 
