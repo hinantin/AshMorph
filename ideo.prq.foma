@@ -545,6 +545,8 @@ define IdeoPRQin [
 ! 
 | "[=kontarek][Ideo:PRQ][=sound/action.of.a.breaking.in.half]" : {kontarek}
 | "[=kontareek][Ideo:PRQ][=sound/action.of.a.breaking.in.half]" : {kontareek}
+! 
+| "[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]" : {sherori}
 # ---------------------------------------------------------------
 | "[=terempiri+s.redup.word@2X.][Ideo:PRQ][=moving.in.a.curved.trajectory (snake, a_river); curved.object; movement.in.a.curved.trajectory]" : {terempiri}
 | "[=terempiro+s.redup.word][Ideo:PRQ][=curved.object]" : {terempiro}
@@ -567,7 +569,7 @@ define IdeoPRQin [
 ! 
 | "[=ooo+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]" : {ooo}
 | "[=oooh+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]" : {oooh}
-| "[=hoo+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]" : {hoo}
+| "[=hoo+s.redup.word@3X.][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]" : {hoo}
 | "[=hoooh+s.redup.word][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]" : {hoooh}
 ! 
 | "[=hoo+s.redup.word][Ideo:PRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]" : {hoo}
