@@ -331,7 +331,7 @@ define ORootPRQin [
 define ConnRootPRQ01in [
 # ------------------------------------------------------------------
 ! hatzi 
-  "[=aihatzi][ConnRoot][=also]" : {aihatzi}
+  "[=aihatzi][ConnRoot][=CONN (EN: also)]" : {aihatzi}
 | "[=ahatzi][ConnRoot][=also]" : {ahatzi}
 | "[=aahatzi][ConnRoot][=also (ES: también)]" : {aahatzi}
 | "[=eehatzi][ConnRoot][=also, and]" : {eehatzi}
