@@ -338,7 +338,7 @@ define ConnRootPRQ01in [
 | "[=eehatsi][ConnRoot][=CONN (EN: also,, and; PT: e)]" : {eehatsi}
 | "[=iihatzi][ConnRoot][=CONN (EN: also)]" : {iihatzi}
 | "[=roohatzi][ConnRoot][=CONN (EN: also; ES: también)]" : {roohatzi}
-| "[=roohati][ConnRoot][=also (ES: también)]" : {roohati}
+| "[=roohati][ConnRoot][=CONN (EN: also; ES: también)]" : {roohati}
 ! hati 
 | "[=ehati][ConnRoot][=also (ES: también); and (ES: y)]" : {ehati}
 | "[=eehati][ConnRoot][=also (ES: también); and (ES: y)]" : {eehati}
