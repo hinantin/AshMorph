@@ -333,7 +333,7 @@ define ConnRootPRQ01in [
 ! hatzi 
   "[=aihatzi][ConnRoot][=CONN (EN: also)]" : {aihatzi}
 | "[=ahatzi][ConnRoot][=CONN (EN: also)]" : {ahatzi}
-| "[=aahatzi][ConnRoot][=also (ES: también)]" : {aahatzi}
+| "[=aahatzi][ConnRoot][=CONN (EN: also; ES: también)]" : {aahatzi}
 | "[=eehatzi][ConnRoot][=also, and]" : {eehatzi}
 | "[=eehatsi][ConnRoot][=also; and (PT: e)]" : {eehatsi}
 | "[=iihatzi][ConnRoot][=also]" : {iihatzi}
