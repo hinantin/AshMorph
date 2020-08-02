@@ -3060,8 +3060,8 @@ define VRootPRQin [
 # ------------------------------------------------------------------
 ! 
 ! tsamaitaantsi: ES: 'limpiar.la_chacra/el_terreno_de_cultivo.con.la.lampa; lampear/palear.el_terreno'
-| "[=tsamai+INF@/EP:t/aantsi.][VRoot][=to.cut.grass, to.clean.a.sown_field/road.with.a.shovel]" : {tsamai}
-| "[=tsamae][VRoot][=to.cut.grass, to.clean.a.sown_field/road.with.a.shovel]" : {tsamae}
+| "[=tsamai+INF@/EP:t/aantsi.][VRoot][=to.cut.grass, to.clean.a.sown_field/road.with.a.shovel (ES: lampear/palear.el_terreno)]" : {tsamai}
+| "[=tsamae][VRoot][=to.cut.grass, to.clean.a.sown_field/road.with.a.shovel (ES: lampear/palear.el_terreno)]" : {tsamae}
 | "[=tsamee][VRoot][=to.cultivate (ES: cultivar), to.clear.a.sown_field/road; to.clear.a.garden]" : {tsamee}
 ! ¿Paita otsametakotantari kametsa kaniri? 
 | "[=tsame][VRoot][=to.cultivate (ES: cultivar), to.clear.a.sown.field; to.clear.a.garden]" : {tsame}
