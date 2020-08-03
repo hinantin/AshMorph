@@ -5100,7 +5100,7 @@ define NRootPRQin [
 | "[=porenti+gndr@m.+sem@insect][NRoot][=firefly (ES: luciernaga)]" : {porenti}
 # ------------------------------------------------------------------------------------------ 
 ! 
-| "[=porero+inal@ntsi.][NRoot][=bone-made.transverse_flute (ES: flauta.de.hueso; PT: flauta.transversal)]" : {porero}
+| "[=porero+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=bone-made.transverse_flute (ES: flauta.de.hueso; PT: flauta.transversal)]" : {porero}
 # ------------------------------------------------------------------------------------------ 
 ! 
 | "[=pori+gndr@n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
