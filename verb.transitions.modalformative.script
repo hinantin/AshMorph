@@ -8,6 +8,7 @@ define MODAL=FORMATIVE [
   (PRNO) 
 | (V=S=OPT) 
 | (V=S=CNTF) 
+| (PRNO) (V=S=CNTF) 
 | (V=S=O) (PRNO) (V=S=OPT)  
 | (V=S=O) (PRNO) (V=S=DUB) 
 | (V=S=O) (PRNO) 
