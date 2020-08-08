@@ -117,13 +117,13 @@ define ORootPRQin [
 #    hatanake anta irotaintsi areetearo otsapiki ontsonkanteari 
 #    =ha -t -an -ak -e *** =anta+distal.b. *** =irotaintsi *** =aree -t -ea -ro *** o- =tsapi -ki *** o- N- =tsonk -ant -ea -ri  
 #    =to.go -ep -dir[leaving] -prf -irr *** =there *** =still.far *** =to.arrive -ep -irr -3n.m.o *** 3n.m.poss- =edge -loc *** 3n.m.s- irr- =to.finish -appl.reas -irr -rel   
-| "[=irotaintsi][ConnRoot][=CONN: (EN: almost.(still.far); ES: casi.(lejos.todavía))]" : {irotaintsi}
-| "[=irotaintsi][ConnRoot][=CONN: (EN: almost.(still.far); ES: casi.(lejos.todavía))][--][-mi][+SUBJ]" : {irotaintsimi}
-| "[=irotaintsi][ConnRoot][=CONN: (EN: almost.(still.far); ES: casi.(lejos.todavía))][--][-ve][+EXCL]" : {irotaintsive}
-| "[=irotaintsi][ConnRoot][=CONN: (EN: almost.(still.far); ES: casi.(lejos.todavía))][--][=rika][+COND]" : {irotaintsirika}
-| "[=irootaintsi][ConnRoot][=CONN: (EN: almost.(still.far); ES: casi.(lejos.todavía),, casi.está.por, pronto.estará, cerca.está)]" : {irootaintsi}
-| "[=irotaentsi][ConnRoot][=CONN: (EN: almost.(still.far); ES: casi.(lejos.todavía))]" : {irotaentsi}
-| "[=iroovetaincha][ConnRoot][=CONN: (ES: casi.(muy.cerca))]" : {iroovetaincha}
+| "[=irotaintsi][ConnRoot][=CONN (EN: almost.(still.far); ES: casi.(lejos.todavía))]" : {irotaintsi}
+| "[=irotaintsi][ConnRoot][=CONN (EN: almost.(still.far); ES: casi.(lejos.todavía))][--][-mi][+SUBJ]" : {irotaintsimi}
+| "[=irotaintsi][ConnRoot][=CONN (EN: almost.(still.far); ES: casi.(lejos.todavía))][--][-ve][+EXCL]" : {irotaintsive}
+| "[=irotaintsi][ConnRoot][=CONN (EN: almost.(still.far); ES: casi.(lejos.todavía))][--][=rika][+COND]" : {irotaintsirika}
+| "[=irootaintsi][ConnRoot][=CONN (EN: almost.(still.far); ES: casi.(lejos.todavía),, casi.está.por, pronto.estará, cerca.está)]" : {irootaintsi}
+| "[=irotaentsi][ConnRoot][=CONN (EN: almost.(still.far); ES: casi.(lejos.todavía))]" : {irotaentsi}
+| "[=iroovetaincha][ConnRoot][=CONN (ES: casi.(muy.cerca))]" : {iroovetaincha}
 # -----------------------------------------
 ! 
 | "[=irompa][ConnRoot][=although, though (ES: aunque)]" : {irompa}
