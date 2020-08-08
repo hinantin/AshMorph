@@ -245,14 +245,14 @@ define ORootPRQin [
 # Negative copula 
 | "[=kaari][VRoot][=NEG.COP (EN: not.be; ES: no.es, no)]" : {kaari}
 # ---------------------------------------------- 
+! CONJUNCTION 
+| "[=tema][ConjRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tema}
+| "[=tempa][ConjRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tempa}
+| "[=tima][ConjRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tima}
+| "[=kama][ConjRoot][=because (ES: porque)]" : {kama}
+| "[=tema][ConjRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)][--][=kia][+EMPH]" : {temakia}
 ! 
-| "[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tema}
-| "[=tempa][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tempa}
-| "[=tima][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]" : {tima}
-| "[=kama][OtherRoot][=because (ES: porque)]" : {kama}
-| "[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)][--][=kia][+EMPH]" : {temakia}
-! 
-| "[=temaita][OtherRoot][=BUT…NOT (ES: PERO…NO)]" : {temaita}
+| "[=temaita][ConjRoot][=BUT…NOT (ES: PERO…NO)]" : {temaita}
 # ---------------------------------------------- 
 ! 
 | "[=tema_ari][OtherRoot][=Q.TAG (EN: isn't.it.true?)]" : {tema_ari}
