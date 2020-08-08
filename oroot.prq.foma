@@ -44,7 +44,7 @@ define ORootPRQin [
 | "[=ari][PostPol][=PP][--][=taima][+DUB]::[=perhaps]" : {aritaima} 
 | "[=ario][PostPol][=PP][--][=mpa][+DUB]" : {ariompa} ! ario-mpa / PP-DUB
 | "[=ario][PostPol][=PP][--][=rika][+COND][--][-me][+SUBJ]" : {ariorikame} ! ario-rika-me / PP-COND-SUBJ
-| "[=ario][PostPol][=PP][--][=rika][+COND][--][-mpa][+SUBJ]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
+| "[=ario][PostPol][=PP][--][=rika][+COND][--][-mpa][+DUB]" : {ariorikampa} ! ario-rika-mpa / PP-COND-DUB
 | "[=ario][PostPol][=PP][--][=rika][+COND][--][-kea][+EMPH]" : {ariorikakea} ! ario-rika-kea / PP-COND-EMPH
 | "[=ari][PostPol][=PP][--][=kea][+EMPH]" : {arikea} 
 | "[=ari][PostPol][=PP][--][=yaata][+ASSUM]" : {ariyaata} 
@@ -119,7 +119,7 @@ define ORootPRQin [
 #    =to.go -ep -dir[leaving] -prf -irr *** =there *** =still.far *** =to.arrive -ep -irr -3n.m.o *** 3n.m.poss- =edge -loc *** 3n.m.s- irr- =to.finish -appl.reas -irr -rel   
 | "[=irotaintsi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía))]" : {irotaintsi}
 | "[=irotaintsimi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía))]" : {irotaintsimi}
-| "[=irotaintsi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía))][--][-rika][+COND]" : {irotaintsirika}
+| "[=irotaintsi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía))][--][=rika][+COND]" : {irotaintsirika}
 | "[=irootaintsi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía),, casi.está.por, pronto.estará, cerca.está)]" : {irootaintsi}
 | "[=irotaentsi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía))]" : {irotaentsi}
 | "[=iroovetaincha][ConnRoot][=CONN: (ES: casi.(muy.cerca))]" : {iroovetaincha}
