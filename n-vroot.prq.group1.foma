@@ -120,7 +120,7 @@ define NounToVerbPRQin [
 | "[=tsantsa][NRoot][=long (in.length; ES: largo); big][^VBZ]" : {tsantsa} ! N@->V @CMP
 | "[=santsa][NRoot][=long (in.length; ES: largo)][^VBZ]" : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length; ES: largo)][^VBZ]" : {hantsa} ! N@->V @CMP
-| "[=tampatika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)][^VBZ]" : {tampatika} ! N@->V 
+| "[=tampatika+poss@te.][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)][^VBZ]" : {tampatika} ! N@->V 
 | "[=tsinani+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl][^VBZ]" : {tsinani} ! N@->V
 | "[=tsinane+gndr@n.m.][NRoot][=female, woman (ES: mujer);| young.girl][^VBZ]" : {tsinane} ! N@->V @section:noun@ 
 | "[=tzinani+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl][^VBZ]" : {tzinani} ! N@->V
