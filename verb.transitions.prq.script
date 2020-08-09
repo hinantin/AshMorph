@@ -311,12 +311,12 @@ define S [
 | (REP) (PL) (PRF) STATUS (MODAL=FORMATIVE) 
 | (DUR) (PL) STAT (V=S=REL) (V=S=Q)  # end-state? 
 | (PL) (PL) STATUS (V=S=PLcircumfixing) # to be revised !!!  
-| (PRF) STATUS (V=S=EMPH) 
-| (ICPL) (PROG) STATUS (AUG=SET2) 
+| (PRF) STATUS (MODAL=FORMATIVE) 
+| (ICPL) (PROG) STATUS (MODAL=FORMATIVE) 
 | (AUG) STATUS 
-| (FRUS) STATUS (AUG=SET2) 
+| (FRUS) STATUS (MODAL=FORMATIVE) 
 #| STAT (PRNO)  # end-state?  revise!!!
-| (APPLGEN) (PRF) STATUS (PRNO) 
+| (APPLGEN) (PRF) STATUS (MODAL=FORMATIVE) 
 | (REGR) (APPLREAS) STATUS 
 | (FRUS) STATUS (V=S=OPT) 
 | (APPLSEP) (PRF) STATUS (V=S=O) (PRNO) (V=S=CNTF) ! y=a-apitsa-t-ak-i-ni-ri 'he took her away from him' 
