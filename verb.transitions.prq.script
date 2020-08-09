@@ -229,7 +229,7 @@ define S [
 | STATUS 
 | (REGR) STATUS 
 | (APPLREAS) (REGR) STATUS (MODAL=FORMATIVE) 
-| STATUS (V=S=Q) 
+| STATUS (MODAL=FORMATIVE) 
 | STATUS (V=S=O) (PRNO) 
 #| (PRF) (PRNO) # end-state? revise!!!
 | (PL) STATUS (ADV) 
