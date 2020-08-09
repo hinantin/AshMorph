@@ -318,7 +318,7 @@ define S [
 #| STAT (PRNO)  # end-state?  revise!!!
 | (APPLGEN) (PRF) STATUS (MODAL=FORMATIVE) 
 | (REGR) (APPLREAS) STATUS 
-| (FRUS) STATUS (V=S=OPT) 
+| (FRUS) STATUS (MODAL=FORMATIVE) 
 | (APPLSEP) (PRF) STATUS (V=S=O) (PRNO) (V=S=CNTF) ! y=a-apitsa-t-ak-i-ni-ri 'he took her away from him' 
 | (APPLSEP) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! =a-pitsa-t-ak-i-ri-ri / EN: 'the.one.that.took.it.away'; ES: 'el.que.le.quitó' 
 # noshiyapithatantanacariri / noshiyapitsatantanakariri / 
