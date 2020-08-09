@@ -322,7 +322,7 @@ define S [
 | (APPLSEP) (PRF) STATUS (MODAL=FORMATIVE) ! y=a-apitsa-t-ak-i-ni-ri 'he took her away from him' 
 | (APPLSEP) (PRF) STATUS (MODAL=FORMATIVE) ! =a-pitsa-t-ak-i-ri-ri / EN: 'the.one.that.took.it.away'; ES: 'el.que.le.quitó' 
 # noshiyapithatantanacariri / noshiyapitsatantanakariri / 
-| (APPLSEP) (APPLREAS) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)
+| (APPLSEP) (APPLREAS) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 
 | (DIR) (REGR) STATUS (V=S=CNTF) 
 | (APPLGEN) (REP) (PL) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
