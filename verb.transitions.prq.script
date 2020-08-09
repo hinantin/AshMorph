@@ -247,7 +247,7 @@ define S [
 | (INCH) (ICPL) (DIR) (REGR) STATUS (MODAL=FORMATIVE) 
 | (FRUS) (PRF) STATUS 
 | (IMPP) STATUS (MODAL=FORMATIVE) 
-| (IMPP) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! i=shinko-t-ai-t-ant-a-ri-ri 
+| (IMPP) (APPLREAS) STATUS (MODAL=FORMATIVE) ! i=shinko-t-ai-t-ant-a-ri-ri 
 | (APPLREAS) (STAT) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (PROG) STATUS 
 | (PRF) STATUS 
