@@ -33,4 +33,5 @@ define MODAL=FORMATIVE [
 | (V=S=EMPH) 
 | (V=S=O) (V=S=OPT) 
 | (V=S=Q) 
+| (PRNO) (V=S=COND) 
 ];
