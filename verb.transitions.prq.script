@@ -271,7 +271,7 @@ define S [
 | (REGR) STATUS (MODAL=FORMATIVE) 
 | (INCH) STATUS (MODAL=FORMATIVE) 
 #| (CAUSSOC) (REGR) (PRNO) (V=S=REL) (V=S=Q) # end-state? revise!!!
-| (CAUSSOC) STATUS (V=S=O) (V=S=REL) (V=S=Q) 
+| (CAUSSOC) STATUS (MODAL=FORMATIVE) 
 | (APPLBEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (APPLGEN) STATUS (PRNO) 
 | STAT (V=S=REL) (ADV)  # end-state? 
