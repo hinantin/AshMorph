@@ -268,8 +268,8 @@ define S [
 #| (V=S=REL) (V=S=Q) # nominalization  # end-state? revise!!! 
 | (PRF) STATUS (MODAL=FORMATIVE) 
 | (CAUSSOC) (DIR) (REGR) STATUS (MODAL=FORMATIVE) 
-| (REGR) STATUS (V=S=REL) (V=S=Q) 
-| (INCH) STATUS (PRNO) 
+| (REGR) STATUS (MODAL=FORMATIVE) 
+| (INCH) STATUS (MODAL=FORMATIVE) 
 #| (CAUSSOC) (REGR) (PRNO) (V=S=REL) (V=S=Q) # end-state? revise!!!
 | (CAUSSOC) STATUS (V=S=O) (V=S=REL) (V=S=Q) 
 | (APPLBEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
