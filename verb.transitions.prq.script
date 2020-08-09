@@ -262,7 +262,7 @@ define S [
 | (ICPL) STATUS (MODAL=FORMATIVE) 
 | (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 | (APPLGEN) (ICPL) STATUS (MODAL=FORMATIVE) 
-| (DIR) (PRF) STATUS (PRNO) (V=S=OPT) 
+| (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 | (REP) (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
 | (HAB) (DUR) STATUS 
 #| (V=S=REL) (V=S=Q) # nominalization  # end-state? revise!!! 
