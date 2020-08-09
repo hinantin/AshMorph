@@ -279,11 +279,11 @@ define S [
 | (PL) (PROG) STATUS (MODAL=FORMATIVE) 
 | (PL) (PROG) STATUS (PRNO) (V=S=REL) (V=S=PLcircumfixing)
 
-| (SENSORY) (PRF) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (SENSORY) (PRF) STATUS (MODAL=FORMATIVE) 
 | (DUR) (REP) (DIST) STAT (V=S=REL) (V=S=Q)  # end-state? 
 #| (CAUSSOC) (APPLGEN) (REGR) (PRNO) (V=S=REL) (V=S=Q)  # end-state? revise!!!
 ! a-n-kaa-ki-tz-imaint-ia-ro
-| (DUR) STATUS (PRNO) 
+| (DUR) STATUS (MODAL=FORMATIVE) 
 | (APPLREAS) (DUR) STATUS (PRNO) 
 | (PRF) STATUS (V=S=REL) (V=S=Q) 
 | (PRF) (REGR) STATUS (PRNO) (V=S=REL) (V=S=Q) 
