@@ -6031,10 +6031,10 @@ define NRootPRQin [
 | "[=shintake][NRoot][=fish.mouth (ES: boca.del.pez)]" : {shintake}
 # ------------------------------------------------------------
 ! 
-| "[=shinto+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=daughter]" : {shinto}
-| "[=shintyo+~shin{E.PAL.:ty}o+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=daughter.(with.affection)]" : {shintyo}
+| "[=shinto+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=daughter (ES: hija)]" : {shinto}
+| "[=shintyo+~shin{E.PAL.:ty}o+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=daughter.(with.affection) (ES: hijita)]" : {shintyo}
 | "[=ishinto+gndr@n.m.+kin@fe/male.ego][NRoot][=daughter]" : {ishinto} # nishinto, revise inal.??
-| "[=ishintyo+~ishin{E.PAL.:ty}o+gndr@n.m.+kin@fe/male.ego][NRoot][=daughter.(with.affection)]" : {ishintyo} # nishintyo, revise inal.??
+| "[=ishintyo+~ishin{E.PAL.:ty}o+gndr@n.m.+kin@fe/male.ego][NRoot][=daughter.(with.affection) (ES: hijita)]" : {ishintyo} # nishintyo, revise inal.??
 # ------------------------------------------------------------
 ! 
 | "[=shinti][NRoot][=topa-like.tree.sp. (ES: árbol.parecido.a.la.topa)]" : {shinti} 
