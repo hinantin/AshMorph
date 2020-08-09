@@ -307,10 +307,10 @@ define S [
 | (PRF) (REGR) STATUS (MODAL=FORMATIVE) 
 | (APPLGEN) STATUS (MODAL=FORMATIVE) 
 | (AUG) STATUS (MODAL=FORMATIVE) 
-| STATUS (V=S=EMPH) 
-| (REP) (PL) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| STATUS (MODAL=FORMATIVE) 
+| (REP) (PL) (PRF) STATUS (MODAL=FORMATIVE) 
 | (DUR) (PL) STAT (V=S=REL) (V=S=Q)  # end-state? 
-| (PL) (PL) STATUS (V=S=PLcircumfixing) 
+| (PL) (PL) STATUS (V=S=PLcircumfixing) # to be revised !!!  
 | (PRF) STATUS (V=S=EMPH) 
 | (ICPL) (PROG) STATUS (AUG=SET2) 
 | (AUG) STATUS 
