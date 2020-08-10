@@ -617,20 +617,20 @@ define S [
 | (APPLGEN) (APPLREAS) STAT (V=S=REL) 
 | (APPLREAS) (DIST) STAT (V=S=REL) ! ovametantayetatsiri 
  
-| (RCP) (CAUSSOC) (REGR) (DUR) STATUS (V=S=RPST)  
+| (RCP) (CAUSSOC) (REGR) (DUR) STATUS (MODAL=FORMATIVE) 
 | (RCP) (CAUSSOC) (PL) (REGR) STATUS 
 # Cameetsa iquempeavacaaquea. / kameetsa ikempeavakaakea. 
 # --Je, payero tema pinintavacaaquityaara. / --He, payero tema pinintavakaakityaara. 
 # nantavacaaca / nantavakaaka 
 # nojocavacaaca nojina./ nohokavakaaka nohina. 
 # Iquisavacaaca. / ikisavakaaka / ES: 'Se enojaron el uno con el otro.'
-| (RCP) (CAUSSOC) (PRF) STATUS (V=S=O) (PRNO) (V=S=EMPH) (V=S=SUB) 
+| (RCP) (CAUSSOC) (PRF) STATUS (MODAL=FORMATIVE) 
 # itsinampabakajeita 
-| (RCP) (CAUSSOC) (PL=SET1) STATUS (V=S=O) (PRNO) (V=S=EMPH) (V=S=SUB) 
+| (RCP) (CAUSSOC) (PL=SET1) STATUS (MODAL=FORMATIVE) 
 
-| (ADV=SET2) (DIR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
-| (ADV=SET2) (HAB) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
-| (REP) (ADV=SET2) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+| (ADV=SET2) (DIR) STATUS (MODAL=FORMATIVE) 
+| (ADV=SET2) (HAB) STATUS (MODAL=FORMATIVE)  
+| (REP) (ADV=SET2) (PRF) STATUS (MODAL=FORMATIVE)  
 
 # eiro aneahiritsi / ES: 'No lo veremos otra vez' 
 | (REGR) STATUS (V=S=O) (PRNO) (V=S=NEG)  
