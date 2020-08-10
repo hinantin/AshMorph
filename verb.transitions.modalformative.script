@@ -29,6 +29,7 @@ define MODAL=FORMATIVE [
 | (PRNO) (V=S=OPT) 
 | (PRNO) (ADV) 
 | (V=S=O) (V=S=APPR) 
+| (V=S=APPR) 
 | (V=S=EMPH) (V=S=Q) 
 | (V=S=EMPH) 
 | (V=S=O) (V=S=OPT) 
