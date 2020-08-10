@@ -46,4 +46,5 @@ define MODAL=FORMATIVE [
 | (V=S=REL) (V=S=COND) 
 | (V=S=O) (V=S=COND) 
 | (PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
+| (V=S=O) (PRNO) (V=S=EMPH) (V=S=CNTF) 
 ];
