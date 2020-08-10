@@ -590,20 +590,20 @@ define S [
 | (APPLREF) (DEXT) (PL) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 | (REV) (DIR) (REGR) STATUS (MODAL=FORMATIVE) 
 
-| (REP) (SENSORY) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL)  
+| (REP) (SENSORY) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 | (SENSORY) (APPLREAS) STAT (V=S=REL)  
 # amatakonentanajana / EN: 'I.have.overcome.the.ailment'  
-| (SENSORY) (DIR) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL)  
+| (SENSORY) (DIR) (REGR) STATUS (MODAL=FORMATIVE)  
 # okisaaneentatzi / ES: 'moreno' 
 # iraakanintaintsiri / ES: 'que.no.está.madura; lit.: que.está.un.poco.maduro' 
 | (SENSORY) STAT (V=S=REL) 
 
-| (UNK1) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (UNK1) (PRF) STATUS (MODAL=FORMATIVE) 
 
 # oriavintsaiteta /  
 | (DLMT) (CMPL) STATUS 
 # 
-| (DLMT) (ICPL) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (DLMT) (ICPL) STATUS (MODAL=FORMATIVE) 
 
 | (REGR) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 
