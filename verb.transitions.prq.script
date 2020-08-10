@@ -683,9 +683,9 @@ define S [
 # inkiyakavaitaiteri 
 | (CAUSSOC) (DUR) (IMPP) STATUS (MODAL=FORMATIVE) 
 # iquisaneentavaitaitziri / ikisaneentavaitaitziri  
-| (SENSORY) (DUR) (IMPP) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
+| (SENSORY) (DUR) (IMPP) STATUS (MODAL=FORMATIVE) 
 # antaronintayetanake.
-| (SENSORY) (DIST) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
+| (SENSORY) (DIST) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 
 # ishirikashitantyaabori / ishirikashitantyaavori / i- =shirik -ashi -t -ant -yaa =vo =ri 
 | (APPLINT) (APPLREAS) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=EXCL) 
