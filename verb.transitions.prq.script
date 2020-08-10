@@ -573,7 +573,7 @@ define S [
 | STATUS (MODAL=FORMATIVE) 
 #| STATUS (CAUSSOC) (PRF) (PRNO) ! revise!!!
 | (PL) STAT (V=S=REL) (V=S=Q) 
-| (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (DEXT) (PL) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 | (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
 # cameetsatasanotatsiri 
 | (DEXT) STAT (V=S=REL) (V=S=Q)  # end-state?  revise!!!
