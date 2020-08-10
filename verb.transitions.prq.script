@@ -499,7 +499,7 @@ define S [
 | (SEMEL) STATUS 
 | STATUS (MODAL=FORMATIVE) 
 | (AUG) STATUS (MODAL=FORMATIVE) 
-| (PROG) STATUS (PRNO) 
+| (PROG) STATUS (MODAL=FORMATIVE) 
 | (RCP) (PRF) STATUS 
 | (PROG) STATUS 
 | STATUS 
@@ -507,7 +507,7 @@ define S [
 
 | (EARLY) (ICPL) STATUS 
 # okitaitamani ! it was misanalyzed 
-| (EARLY) STATUS (PRNO) 
+| (EARLY) STATUS (MODAL=FORMATIVE) 
 # antsiyantamaniari 
 | (APPLREAS) (EARLY) STATUS (V=S=O) (PRNO) (V=S=REL) 
 # Omencoriteatamanaque 
