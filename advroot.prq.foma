@@ -52,7 +52,7 @@ define AdvRootPRQ=SET1 [
 | "[=ponya][AdvRoot][=CONN (EN: then, later)]" : {ponya}
 | "[=ponyaa][AdvRoot][=CONN (EN: then, later)]" : {ponyaa}
 | "[=ponyaka+~{V:/'to.come.from':pony/}{PRF:ak}{REAL:a}][AdvRoot][=CONN (EN: afterwards)]" : {ponyaka}
-| "[=ponyaaka][AdvRoot][=CONN (EN: afterwards)]" : {ponyaaka}
+| "[=ponyaaka+~{V:/'to.come.from':pony/}{PRF:aak}{REAL:a}][AdvRoot][=CONN (EN: afterwards)]" : {ponyaaka}
 | "[=ponyashita][AdvRoot][=CONN (EN: afterwards)]" : {ponyashita}
 | "[=ponyashitaka][AdvRoot][=CONN (EN: afterwards)]" : {ponyashitaka}
 | "[=ponyashitaka][AdvRoot][=CONN (EN: then)]" : {ponyashitaka}
