@@ -533,7 +533,7 @@ define S [
 | (PRF) STATUS 
 | (PROG) STATUS 
 | (DIR) (REGR) STATUS (MODAL=FORMATIVE) 
-| STATUS (PRNO) (V=S=DUB) 
+| STATUS (MODAL=FORMATIVE) 
 #| (V=S=almost) (APPLREAS) (REGR) STATUS # revise
 | (CAUSSOC) (PROG) STATUS 
 | (REV) PROG ! otakiriati
