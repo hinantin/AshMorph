@@ -377,7 +377,7 @@ define S [
 | (PL) STATUS (MODAL=FORMATIVE) 
 | STATUS (MODAL=FORMATIVE) 
 | (DIR) (REGR) STATUS (MODAL=FORMATIVE) 
-| (REGR) STATUS (V=S=OPT) 
+| (REGR) STATUS (MODAL=FORMATIVE) 
 # | (PROG) (PRNO)  # end-state? revise!!!
 # nokenkibaritati / nokenkivaritati / no- =kenkivari -t -ati / ES: 'estoy.envejeciendo'
 # namanantati / n- =amanan -t -ati / ES: 'estoy.comprando'
@@ -387,7 +387,7 @@ define S [
 # Itaayetatiro / 
 | (DIST) PROG=SET1 (V=S=O) (PRNO)
 
-| (DIR) (PRF) STATUS (V=S=OPT) 
+| (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 | (APPLPRES) STATUS (V=S=O) (PRNO) (V=S=OPT) 
 | (APPLINT) (DIR) (PRF) STATUS (PRNO) 
 | (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
