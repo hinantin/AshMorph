@@ -538,9 +538,9 @@ define S [
 | (CAUSSOC) (PROG) STATUS 
 | (REV) PROG ! otakiriati
 #| (DUR) (NMZ) (APPLREAS) STATUS (V=S=REL) (V=S=Q) # revise 
-| (PRF) STATUS (V=S=O) (PRNO) 
+| (PRF) STATUS (MODAL=FORMATIVE) 
 | (IMPP) STATUS 
-| (DIST) STATUS (PRNO) 
+| (DIST) STATUS (MODAL=FORMATIVE) 
 | (APPLGEN) STATUS 
 | (APPLGEN) STATUS 
 | (APPLGEN) (DIST) (DIR) (PL) (REGR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) ! to be revised 
