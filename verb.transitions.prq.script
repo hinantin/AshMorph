@@ -574,12 +574,12 @@ define S [
 #| STATUS (CAUSSOC) (PRF) (PRNO) ! revise!!!
 | (PL) STAT (V=S=REL) (V=S=Q) 
 | (DEXT) (PL) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
-| (DEXT) (PL) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=OPT) (V=S=NCFOC) (V=S=OFOC) 
+| (DEXT) (PL) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 # cameetsatasanotatsiri 
 | (DEXT) STAT (V=S=REL) (V=S=Q)  # end-state?  revise!!!
 #| (DEXT) (APPLGEN) (PRNO) (V=S=REL) (V=S=Q)  # end-state?  revise!!!
 # n-antsik-a-sano-ite-t-e-ri
-| (DEXT) (CMPL) STATUS (V=S=O) (PRNO) (V=S=REL)
+| (DEXT) (CMPL) STATUS (MODAL=FORMATIVE) 
 
 | (DIST) STATUS (V=S=O) (PRNO) (V=S=NEG) (ADV) 
 | (REV) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
