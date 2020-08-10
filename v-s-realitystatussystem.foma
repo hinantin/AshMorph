@@ -170,10 +170,10 @@ define V=S=IRRCPB [
 # -------------------------------------------
                    
 define STATUS [
-  [EP V=S=REAL]|[V=S=REAL]
-| [EP V=S=IRR]|[V=S=IRR]
-| [EP V=S=REALRFL]|[V=S=REALRFL]
-| [EP V=S=IRRRFL]|[V=S=IRRRFL]
+  [EP V=S=REAL] | [EP=TS V=S=REAL] | [V=S=REAL]
+| [EP V=S=IRR] | [EP=TS V=S=IRR] | [V=S=IRR]
+| [EP V=S=REALRFL] | [EP=TS V=S=REALRFL] | [V=S=REALRFL]
+| [EP V=S=IRRRFL] | [EP=TS V=S=IRRRFL] | [V=S=IRRRFL]
 # ------------------------------------------
 | [EP V=S=PRNO=SET2]|[V=S=PRNO=SET2]
 | [EP V=S=IRRCPB] [V=S=IRRCPB]
