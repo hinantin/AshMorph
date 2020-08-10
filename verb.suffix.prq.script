@@ -7,6 +7,10 @@ define EP [
 | "[--][-a][+EP]" : "@EP@"[{a}]
 ];
 
+define EP=TS [
+  "[--][-ts+freq@<*.][+EP]" : "@EP@"[{ts}] ! disabled for debugging purposes 
+];
+
 # ****************************************
                    
 source v-s-prog.foma 
