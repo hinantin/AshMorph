@@ -20,9 +20,9 @@ define NounToVerbPRQin [
 | "[=avo+gndr@n.m.+inal@tsi.][NRoot][=road, trail]::[=to.make.a.road (ES: hacer.una.senda)][^VBZ]" : {avo} ! N@->V::[=to.make.a.road (ES: hacer.una.senda)] ! @section:noun@ 
 | "[=chee+gndr@m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]::[=to.have.a_horn/horns][^VBZ]" : {chee} ! @VCMP N@->V::[=to.have.a_horn/horns]
 | "[=chakopi+gndr@n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)][^VBZ]" : {chakopi} ! N@->V
-| "[=charine+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent; grandson (ES: nieto)][^VBZ]" : {charine} ! N@->V
-| "[=chaine+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent][^VBZ]" : {chaine} ! N@->V
-| "[=charini+gndr@m.+poss@te.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent][^VBZ]" : {charini} ! N@->V ! is te as a possessive correct ????
+| "[=charine+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent; grandson (ES: nieto)][^VBZ]" : {charine} ! N@->V 
+| "[=chaine+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent; grandson (ES: nieto)][^VBZ]" : {chaine} ! N@->V 
+| "[=charini+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent; grandson (ES: nieto)][^VBZ]" : {charini} ! N@->V 
 | "[=chenko+gndr@n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)][^VBZ]" : {chenko} ! N@->V::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)] 
 | "[=tsenko+gndr@n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)][^VBZ]" : {tsenko} ! N@->V::[=to.wear.pants, to.put.on.pants (ES: ponerse.pantalones)] 
 | "[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)][^VBZ]" : {chetaki} ! N@->V::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]
@@ -121,6 +121,7 @@ define NounToVerbPRQin [
 | "[=santsa][NRoot][=long (in.length; ES: largo)][^VBZ]" : {santsa} ! N@->V @CMP
 | "[=hantsa][NRoot][=long (in.length; ES: largo)][^VBZ]" : {hantsa} ! N@->V @CMP
 | "[=tampatika+poss@te.][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)][^VBZ]" : {tampatika} ! N@->V 
+| "[=tsimiri+gndr@m.+poss@ti.+sem@bird][NRoot][=bird, little.bird (ES: ave, pájaro)][^VBZ]" : {tsimiri} ! N@->V 
 | "[=tsinani+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl][^VBZ]" : {tsinani} ! N@->V
 | "[=tsinane+gndr@n.m.][NRoot][=female, woman (ES: mujer);| young.girl][^VBZ]" : {tsinane} ! N@->V @section:noun@ 
 | "[=tzinani+gndr@n.m.][NRoot][=female, woman (ES: mujer); young.girl][^VBZ]" : {tzinani} ! N@->V

@@ -6786,7 +6786,7 @@ define NRootPRQin [
 # bird, little bird 
 # categoría/grupo de aves pequeñas generalmente de colores brillantes 
 # tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' 
-| "[=tsimiri+gndr@m.+poss@ti.+sem@bird][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimiri}
+| "[=tsimiri+gndr@m.+poss@ti.+sem@bird][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimiri} ! N@->V 
 | "[=tsimeri+gndr@m.+poss@ti.+sem@bird][NRoot][=bird, little.bird (ES: ave, pájaro)]" : {tsimeri} ! @section:noun@ 
 ! tsimerityonki / =tsimeri -tyonki / =bird -cl:long.tree.segment / EN: 'chili_pepper'; ES: 'espcie_de_ají'
 !| "[=tsimerityonki+~{N:/'bird':tsimeri/}{CL:/'long.tree.segment':tyonki/}][NRoot][=chili.pepper (ES: sp.de.ají)]" : {tsimerityonki} ! @section:noun@ 
