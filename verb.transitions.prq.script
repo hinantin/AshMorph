@@ -552,13 +552,13 @@ define S [
 | (REGR) (ICPL) (PRF) STATUS (MODAL=FORMATIVE) 
 | (REP) (ICPL) (PRF) STATUS (MODAL=FORMATIVE) 
 | (REV) (APPLGEN) (ICPL) (REGR) STATUS (MODAL=FORMATIVE) 
-| (ICPL) (PRF) STATUS (V=S=O) (PRNO) (V=S=OPT) ! a-m-pishe-i-t-e-ri=ta 
+| (ICPL) (PRF) STATUS (MODAL=FORMATIVE) ! a-m-pishe-i-t-e-ri=ta 
 ! 
 | (DIR) (CAUSSOC) (DIR) (PRF) STATUS 
-| (REV) (PRF) STATUS (PRNO) 
+| (REV) (PRF) STATUS (MODAL=FORMATIVE) 
 | (DUR) STAT 
 | STAT (V=S=REL) (V=S=Q) 
-| STATUS (PRNO) (V=S=RPST) 
+| STATUS (MODAL=FORMATIVE) 
 #| (PRNO) (NMZ) # end-state? revise!!! 
 | STATUS (PRNO) 
 | STAT (V=S=REL) (ADV) 
