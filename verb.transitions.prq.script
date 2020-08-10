@@ -633,16 +633,16 @@ define S [
 | (REP) (ADV=SET2) (PRF) STATUS (MODAL=FORMATIVE)  
 
 # eiro aneahiritsi / ES: 'No lo veremos otra vez' 
-| (REGR) STATUS (V=S=O) (PRNO) (V=S=NEG)  
+| (REGR) STATUS (MODAL=FORMATIVE)  
 
 # kant-imai-t-ach-a
 | (INCH) (STAT) STATUS
 
 # i-ny-amampe-ak-a-ro
-| (SIM) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+| (SIM) (PRF) STATUS (MODAL=FORMATIVE)  
 
 # inkitsataitajeri / i-n-kitsa-t-ai-t-aj-e-ri 
-| (IMPP) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
+| (IMPP) (REGR) STATUS (MODAL=FORMATIVE)  
 
 # impaikakotaitajiri / i-m-paik-ako-t-ai-t-aj-i-ri 
 | (APPLGEN) (IMPP) (REGR) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  
