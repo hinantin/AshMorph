@@ -690,8 +690,8 @@ define S [
 # ishirikashitantyaabori / ishirikashitantyaavori / i- =shirik -ashi -t -ant -yaa =vo =ri 
 | (APPLINT) (APPLREAS) STATUS (MODAL=FORMATIVE) 
 
-| (TERMFOC) STATUS (V=S=O) (PRNO) (V=S=OPT)
-| (TERMFOC) STATUS (V=S=CNTF)
+| (TERMFOC) STATUS (MODAL=FORMATIVE) 
+| (TERMFOC) STATUS (V=S=CNTF) 
 
 | (DIST=SET2) (DIR) (PRF) STATUS (V=S=O) (PRNO) 
 
