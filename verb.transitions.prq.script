@@ -402,9 +402,9 @@ define S [
 # ---------------------------------------------------------
 | (APPLGEN) STATUS (MODAL=FORMATIVE) 
 | (APPLREAS) STATUS 
-| (REGR) STATUS (V=S=CNTF) 
+| (REGR) STATUS (MODAL=FORMATIVE) 
 | (IMPP) STATUS (MODAL=FORMATIVE) 
-| STATUS (V=S=CNTF) 
+| STATUS (MODAL=FORMATIVE) 
 | (IMPP) STATUS (V=S=CNTF) 
 | (PL) (PRF) STATUS (V=S=CNTF) 
 #| (V=S=EMPH) (V=S=CNTF)  # end-state? revise!!!
