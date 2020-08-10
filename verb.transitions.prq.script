@@ -390,17 +390,17 @@ define S [
 | (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 | (APPLPRES) STATUS (MODAL=FORMATIVE) 
 | (APPLINT) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
-| (APPLREAS) STATUS (PRNO) (V=S=REL) (V=S=Q) 
-| (APPLGEN) (DIR) (PRF) STATUS (PRNO) 
-| (APPLGEN) (DIR) (PRF) STATUS (PRNO) 
-| (DIR) (PRF) STATUS (PRNO) 
+| (APPLREAS) STATUS (MODAL=FORMATIVE) 
+| (APPLGEN) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
+| (APPLGEN) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
+| (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 #| (PRNO)  # end-state? revise!!!
-| (REGR) STATUS (V=S=COND) 
+| (REGR) STATUS (MODAL=FORMATIVE) 
 # --------------------------------------------------------- 
 # pintziriitzimaityaro / pi- n- =tziri -itz -imai -t -ya -ro / 2a- irr- =to.rub -icpl -inch -irr -3n.m.o / EN: 'you.rub.it' 
-| (ICPL) (INCH) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
+| (ICPL) (INCH) STATUS (MODAL=FORMATIVE) 
 # ---------------------------------------------------------
-| (APPLGEN) STATUS (PRNO) (V=S=REL) (V=S=Q) 
+| (APPLGEN) STATUS (MODAL=FORMATIVE) 
 | (APPLREAS) STATUS 
 | (REGR) STATUS (V=S=CNTF) 
 | (IMPP) STATUS (MODAL=FORMATIVE) 
