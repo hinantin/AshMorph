@@ -375,8 +375,8 @@ define S [
 | (APPLREAS) (DIR) (PRF) STATUS (MODAL=FORMATIVE) 
 | (APPLREAS) (PRF) STATUS 
 | (PL) STATUS (MODAL=FORMATIVE) 
-| STATUS (PRNO) (V=S=OPT) 
-| (DIR) (REGR) STATUS (PRNO) (V=S=OPT) 
+| STATUS (MODAL=FORMATIVE) 
+| (DIR) (REGR) STATUS (MODAL=FORMATIVE) 
 | (REGR) STATUS (V=S=OPT) 
 # | (PROG) (PRNO)  # end-state? revise!!!
 # nokenkibaritati / nokenkivaritati / no- =kenkivari -t -ati / ES: 'estoy.envejeciendo'
