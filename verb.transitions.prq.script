@@ -581,7 +581,7 @@ define S [
 # n-antsik-a-sano-ite-t-e-ri
 | (DEXT) (CMPL) STATUS (MODAL=FORMATIVE) 
 
-| (DIST) STATUS (V=S=O) (PRNO) (V=S=NEG) (ADV) 
+| (DIST) STATUS (MODAL=FORMATIVE) 
 | (REV) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 | (POSN) (DIR) (PRF) STATUS (V=S=O) (PRNO) (V=S=REL) (V=S=Q) 
 #| (REV) (STAT) (V=S=O) (PRNO) (V=S=REL) (V=S=Q)  # end-state?  revise!!!
