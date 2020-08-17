@@ -56,7 +56,7 @@ define AdvRootPRQ=SET1 [
 | "[=ponyashita][AdvRoot][=CONN (EN: afterwards)]" : {ponyashita}
 | "[=ponyashitaka][AdvRoot][=CONN (EN: afterwards)]" : {ponyashitaka}
 | "[=ponyashitaka][AdvRoot][=CONN (EN: then)]" : {ponyashitaka}
-| "[=iponyashitanaka][AdvRoot][=CONN (EN: afterwards)]" : {iponyashitanaka}
+| "[=iponyashitanaka+~{:i}{V:/'to.come.from':pony/}{APPL.INT:ashi}{EP:t}{DIR:an}{PRF:ak}{REAL:a}][AdvRoot][=CONN (EN: afterwards)]" : {iponyashitanaka}
 ! 
 | "[=ponyaashita][ConnRoot][=CONN (EN: afterwards)]" : {ponyaashita}
 ! 
