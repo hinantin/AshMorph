@@ -315,9 +315,6 @@ define VRootPRQin [
 | "[=anonk+INF@aantsi.][VRoot][=to.get.overflowed, to.overflow (ES: rebalsarse)]" : {anonk}
 # --------------------------------------------------------------------------------  
 ! 
-| "[=ampats+INF@aantsi.][VRoot][=to.sing (ES: cantar)]" : {ampats} ! to be revised!!
-# --------------------------------------------------------------------------------  
-! 
 | "[N=][IRR+][--][=api][VRoot][=to.repeat (ES: repetir)]" : {ampi}
 !| "[=anpi][VRoot][=to.repeat (ES: repetir)]" : {anpi}
 | "[=apii+INF@/EP:t/aantsi.][VRoot][=to.repeat (ES: repetir)]" : {apii}
@@ -1492,6 +1489,8 @@ define VRootPRQin [
 | "[=pampoye+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {pampoye}
 ! 
 | "[=pampits][VRoot][=to.sing (ES: cantar)]" : {pampits}
+! 
+| "[=ampats+INF@(a)antsi.][VRoot][=to.sing (ES: cantar)]" : {ampats} 
 ! 
 | "[=pants+INF@agaantsi:(a)antsi.][VRoot][=to.sing.(a.shamanic.song.individually) (ES: cantar)]" : {pants} ! V@->N::[=(individual).singing] 
 | "[=pantsa+INF@/DEL:a/ntsi:antsi.][VRoot][=to.sing.(a.shamanic.song.individually) (ES: cantar); to.sing.individually]" : {pantsa}
