@@ -200,7 +200,7 @@ define NRootPRQin [
 | "[=ashitariri+~{V:/'to.have':ashit/}{EP:a}{NMZ:ri}{NMZ:ri}+gndr@m.+sem@spir.][NRoot][=owner (ES: dueño);| master-owner.of.(animals|plants|places) (PT: chefe)]" : {ashitariri}
 # ---------------------------------------------------------------------
 ! 
-| "[=ashitavo+~{V:/'to.enclose':ashit/}{EP:a}{NMZ:ro}+gndr@n.m.+inal@ntsi.][NRoot][=door (ES: puerta)]" : {ashitavo}
+| "[=ashitavo+~{V:/'to.enclose':ashit/}{EP:a}{NMZ:ro}+gndr@n.m.+inal@ntsi.][NRoot][=door (ES: puerta; PT: porta)]" : {ashitavo}
 # ---------------------------------------------------------------------
 ! 
 | "[=ashivantzi+gndr@m.+sem@bird][NRoot][=swallow.sp. (ES: golondrina; sci.nm.: chaetura.sp., panyptila.cayennensis)]" : {ashivantzi}
@@ -273,7 +273,7 @@ define NRootPRQin [
 | "[=ariti+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pseudopimelodus.sp.)]" : {ariti} 
 # ---------------------------------------------------------------  
 ! 
-| "[=aroso+allomorph@arroz.+gndr@n.m.][NRoot:ES][=rice (ES: arroz)]" : {aroso} 
+| "[=aroso+allomorph@arroz.+gndr@n.m.][NRoot:ES][=rice (ES: arroz; PT: arroz)]" : {aroso} 
 # ---------------------------------------------------------------  
 ! 
 | "[=aavo+gndr@m.+sem@bird][NRoot][=heron.sp. (ES: sp.de.garza; sci.nm.: egretta.thula)]" : {aavo} ! @section:noun@ 
