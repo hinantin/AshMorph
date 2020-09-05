@@ -1919,7 +1919,7 @@ define NRootPRQin [
 | "[=kamaiteri+sem@NP.person][NRoot][=person's.name, NP]" : {kamaiteri}
 # ---------------------------------------------------------------------
 ! 
-| "[=kamaari+gndr@m.+poss@te.+mrph.phon@LEN:^k→^y;LEN:^k→^Ø.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamaari}
+| "[=kamaari+gndr@m.+poss@te.+mrph.phon@LEN:^k→^y;LEN:^k→^Ø.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamaari} ! N@->V 
 | "[=kamari+gndr@m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
 | "[=kaamari+gndr@m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : {kaamari}
 | "[=kamaaro][NRoot][=devil]" : {kamaaro}

@@ -45,6 +45,7 @@ define NounToVerbPRQin [
 | "[=ira+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]::[=to.bleed (ES: sangrar)][^VBZ]" : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
 | "[=isha+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]::[=to.be.an.old.woman][^VBZ]" : {isha} ! N@->V::[=to.be.an.old.woman] 
 | "[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)][^VBZ]" : {oteva} ! N@->V 
+| "[=kamaari+gndr@m.+poss@te.+mrph.phon@LEN:^k→^y;LEN:^k→^Ø.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman][^VBZ]" : {kamaari} ! N@->V 
 | "[=kamari+gndr@m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]::[=to.be.an.evil.spirit][^VBZ]" : {kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
 | "[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y;LEN:^k→^v.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][^VBZ]" : {kaniri} ! N@->V @CMP @section:noun@ 
 | "[=kanire+~{N:/'yucca':kanir/}{poss:e}+gndr@n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][^VBZ]" : {kanire} ! N@->V @CMP 
