@@ -1686,8 +1686,8 @@ define VRootPRQin [
 | "[=amorek+INF@aantsi.][VRoot][=to.burn (ES: arder)]" : {amorek}
 | "[=morik+INF@aantsi.][VRoot][=to.burn (ES: arder)]" : {morik}
 ! 
-| "[=moron][VRoot][=to.make.a.hole]" : {moron} ! O=moron-t-ak-i-na 'me hice un hueco'
-| "[=moronta][VRoot][=to.make.a.hole]" : {moronta} ! i=moronta-ye-t-ak-i-ro 'se hace huecos'
+| "[=moron+INF@/EP:t/VC.][VRoot][=to.make.a.hole]" : {moron} ! O=moron-t-ak-i-na 'me hice un hueco'
+| "[=moronta+INF@VC.][VRoot][=to.make.a.hole]" : {moronta} ! i=moronta-ye-t-ak-i-ro 'se hace huecos'
 ! 
 | "[=motonk][VRoot][=to.form.a.whirlpool (ES: arremolinarse.en.el.agua)]" : {motonk} 
 ! 
