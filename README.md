@@ -48,7 +48,7 @@ Verbal reduplication indicates urgency `(1)`, repetition `(3)`, or intensity `(2
 1) ma 'to.do' -> ma~ma 'to.do.quickly' 
 ```
 
-Our analysis of the collected text corpus, shows that Ashaninka presents both partial reduplication 'bounded copy' `(2)` and total reduplication 'unbounded copy' `(1, 3)` as productive morphological operations.
+Our analysis of the collected text corpus, shows that pan-Ashaninka presents both partial reduplication 'bounded copy' `(2)` and total reduplication 'unbounded copy' `(1, 3)` as productive morphological operations.
 
 ```
 2) kov 'to.want' -> ko~kov 'to.prefer.strongly' 
