@@ -33,7 +33,7 @@ define InterjPRQin [
 ! 
 | "[=intsi][Interj:PRQ][=INTJ]" : {intsi}
 | "[=intsi][Interj:PRQ][=INTJ][--][-tyami+expectational][+PLEA]" : {intsityami}
-| "[=intsitya][Interj][=well]" : {intsitya}
+| "[=intsitya][Interj][=well (ES: vamos.a.ver)]" : {intsitya}
 # ---------------------------------------------- 
 ! 
 | "[=taanitya][Interj:PRQ][=no.clue, I.don't.know]" : {taanitya}
