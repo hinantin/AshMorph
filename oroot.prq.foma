@@ -357,6 +357,7 @@ define ConnRootPRQ01in [
 | "[=irosatzi][ConnRoot][=CONN (ES: also; until)]" : {irosatzi}
 ! hatsi
 | "[=ihatsi][ConnRoot][=also (ES: también)]" : {ihatsi}
+| "[=aihatsi][ConnRoot][=also (ES: también)]" : {aihatsi}
 | "[=irohatsi][ConnRoot][=also (ES: también)]" : {irohatsi}
 ! satsi 
 | "[=aisatsi][ConnRoot][=CONN (EN: also)]" : {aisatsi}
