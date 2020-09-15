@@ -1,9 +1,13 @@
 define InterjPRQin [
   "[=aa][Interj][=humph]" : {aa}
+# ---------------------------------------------- 
+! 
 | "[=akaya][Interj][=ouch]" : {akaya}
+# ---------------------------------------------- 
 ! 
 | "[=afuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {afuu} 
 | "[=fuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]" : {fuu} 
+# ---------------------------------------------- 
 ! 
 | "[=pasonki][Interj:PRQ][=thanks (ES: gracias)]" : {pasonki}
 | "[=paasonki][Interj:PRQ][=thanks (ES: gracias)]" : {paasonki}
@@ -12,6 +16,7 @@ define InterjPRQin [
 ! 
 | "[=pahonki][Interj][=thanks (ES: gracias)]" : {pahonki}
 | "[=paahonki][Interj][=thanks (ES: gracias)]" : {paahonki}
+# ---------------------------------------------- 
 ! 
 # source: aj 
 | "[=ak/aj][Interj:PRQ][=INTJ (phon.tat.: [aχ]; ES: affirmative.reaction.to.addressee's.statement)]" : {ak}
@@ -27,13 +32,16 @@ define InterjPRQin [
 | "[=vee][Interj:PRQ][=EXCL]" : {vee}
 ! 
 | "[=aasem][Interj:PRQ][=INTJ]" : {aasem}
+# ---------------------------------------------- 
 ! 
 | "[=hantikoeni][Interj:PRQ][=shut.up!, be.quiet!, keep.quiet!, hush! (ES: ¡cállate!)]" : {hantikoeni}
+| "[=santikoini+~{V:/'to.be.silent':santiko/}{ADV:ini}][Interj][=shut.up!, be.quiet!, keep.quiet!, hush! (ES: ¡cállate!)]" : {santikoini}
 # ---------------------------------------------- 
 ! 
 | "[=intsi][Interj:PRQ][=INTJ]" : {intsi}
-| "[=intsi][Interj:PRQ][=INTJ][--][-tyami+expectational][+PLEA]" : {intsityami}
-| "[=intsitya][Interj][=well (ES: vamos.a.ver)]" : {intsitya}
+| "[=intsi][Interj:PRQ][=INTJ][--][-tyami][+PLEA][=expectational]::[=let's.see (ES: vamos.a.ver, a.ver)]" : {intsityami}
+| "[=intsitya][Interj][=well; let's.see (ES: vamos.a.ver, a.ver)]" : {intsitya}
+| "[=intsityaa][Interj][=well; let's.see (ES: vamos.a.ver, a.ver)]" : {intsityaa}
 # ---------------------------------------------- 
 ! 
 | "[=taanitya][Interj:PRQ][=no.clue, I.don't.know]" : {taanitya}
