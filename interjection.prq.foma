@@ -32,8 +32,10 @@ define InterjPRQin [
 | "[=vee][Interj:PRQ][=EXCL]" : {vee}
 ! 
 | "[=aasem][Interj:PRQ][=INTJ]" : {aasem}
+# ---------------------------------------------- 
 ! 
 | "[=hantikoeni][Interj:PRQ][=shut.up!, be.quiet!, keep.quiet!, hush! (ES: ¡cállate!)]" : {hantikoeni}
+| "[=santikoini+~{V:/'to.be.silent':santiko/}{ADV:ini}][Interj][=shut.up!, be.quiet!, keep.quiet!, hush! (ES: ¡cállate!)]" : {santikoini}
 # ---------------------------------------------- 
 ! 
 | "[=intsi][Interj:PRQ][=INTJ]" : {intsi}
