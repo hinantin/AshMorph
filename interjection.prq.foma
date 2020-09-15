@@ -32,8 +32,8 @@ define InterjPRQin [
 # ---------------------------------------------- 
 ! 
 | "[=intsi][Interj:PRQ][=INTJ]" : {intsi}
-| "[=intsi][Interj:PRQ][=INTJ][--][-tyami][+PLEA][=expectational]::[=let's.see (ES: vamos.a.ver)]" : {intsityami}
-| "[=intsitya][Interj][=well; let's.see (ES: vamos.a.ver)]" : {intsitya}
+| "[=intsi][Interj:PRQ][=INTJ][--][-tyami][+PLEA][=expectational]::[=let's.see (ES: vamos.a.ver, a.ver)]" : {intsityami}
+| "[=intsitya][Interj][=well; let's.see (ES: vamos.a.ver, a.ver)]" : {intsitya}
 # ---------------------------------------------- 
 ! 
 | "[=taanitya][Interj:PRQ][=no.clue, I.don't.know]" : {taanitya}
