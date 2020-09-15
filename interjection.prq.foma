@@ -32,7 +32,7 @@ define InterjPRQin [
 # ---------------------------------------------- 
 ! 
 | "[=intsi][Interj:PRQ][=INTJ]" : {intsi}
-| "[=intsi][Interj:PRQ][=INTJ][--][-tyami+expectational][+PLEA]::[=let's.see (ES: vamos.a.ver)]" : {intsityami}
+| "[=intsi][Interj:PRQ][=INTJ][--][-tyami][+PLEA][=expectational]::[=let's.see (ES: vamos.a.ver)]" : {intsityami}
 | "[=intsitya][Interj][=well; let's.see (ES: vamos.a.ver)]" : {intsitya}
 # ---------------------------------------------- 
 ! 
