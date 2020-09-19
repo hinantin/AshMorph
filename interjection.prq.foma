@@ -20,13 +20,19 @@ define InterjPRQin [
 ! 
 # source: aj 
 | "[=ak/aj][Interj:PRQ][=INTJ (phon.tat.: [aχ]; ES: affirmative.reaction.to.addressee's.statement)]" : {ak}
+# ---------------------------------------------- 
 ! 
 | "[=ataama][Interj:PRQ][=thanks (ES: gracias)]" : {ataama}
 | "[=atãma][Interj:PRQ][=thanks (ES: gracias)]" : {atãma}
+| "[=atyama][Interj][=expression.of.compassion]" : {atyama}
+| "[=iyama][Interj][=expression.of.compassion]" : {iyama}
+# ---------------------------------------------- 
 ! 
 | "[=ehe][Interj:PRQ][=INTJ (EN: exclamation.of.surprise)]" : {ehe}
+# ---------------------------------------------- 
 ! 
 | "[=eehoo][Interj:PRQ][=INTJ (EN: ¡Ay!)]" : {eehoo}
+# ---------------------------------------------- 
 ! 
 | "[=ve][Interj:PRQ][=EXCL]" : {ve}
 | "[=vee][Interj:PRQ][=EXCL]" : {vee}

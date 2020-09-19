@@ -147,13 +147,14 @@ define ORootPRQin [
 | "[=katsini][VRoot][=SUPERLATIVE (EN: proper; ES: verdadero)]" : {katsini} 
 # ---------------------------------------------- 
 ! 
-| "[=iye][OtherRoot][=expression.of.surprise]" : {iye}
-| "[=iyo][OtherRoot][=expression.of.surprise]" : {iyo}
+| "[=iye][Interj][=expression.of.surprise]" : {iye}
+| "[=iyo][Interj][=expression.of.surprise]" : {iyo}
 # ---------------------------------------------- 
 ! 
-| "[=atyama][OtherRoot][=expression.of.compassion]" : {atyama}
-| "[=iyama][OtherRoot][=expression.of.compassion]" : {iyama}
-| "[=nyaamisa][OtherRoot][=expression.of.compassion]" : {nyaamisa}
+| "[=atyama][Interj][=expression.of.compassion]" : {atyama}
+| "[=iyama][Interj][=expression.of.compassion]" : {iyama}
+| "[=nyaamisa][Interj][=expression.of.compassion]" : {nyaamisa}
+| "[=nyaamitsa][Interj][=expression.of.compassion (ES: ¡que.barbaridad!)]" : {nyaamitsa}
 # ---------------------------------------------- 
 ! 
 | "[=intaani][OtherRoot][=only; solely]" : {intaani}
