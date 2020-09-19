@@ -1745,7 +1745,7 @@ define NRootPRQin [
 ! 
 | "[=ito+gndr@n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)]" : {ito}
 | "[=iito+gndr@n.m.+inal@ntsi.+mrph.phon@DEL:^ii→^i.][NRoot][=head (ES: cabeza)]" : {iito}
-| "[=kito+inal@tsi.][NRoot][=head (ES: cabeza)]" : {kito}
+| "[=kito+inal@tsi.+mrph.phon@LEN:^k→^Ø.][NRoot][=head (ES: cabeza)]" : {kito}
 | "[=hito+inal@tsi.][NRoot][=head (ES: cabeza)]" : {hito}
 # -------------------------------------------------------------------------------------------------
 ! 
