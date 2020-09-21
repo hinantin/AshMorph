@@ -27,7 +27,7 @@ define PrnDemPRQin [
 ! ara ~ hara 
 | "[=ara+loc@medial.b.][PrnDem][=DEM.ADV.: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {ara}
 | "[=hara+loc@medial.b.][PrnDem][=DEM.ADV.: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {hara}
-| "[=haranki+~hara{CLAR:nki}][PrnDem][= (ES: por.allá)]" : {haranki}
+| "[=haranki+~{DEM.ADV.:hara}{CLAR:nki}][PrnDem][= (ES: por.allá)]" : {haranki}
 !  
 ! anta ~ hanta 
 | "[=anta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded)]" : {anta}
@@ -74,7 +74,7 @@ define PrnDemPRQin [
 | "[=yoonta+gndr@m.+loc@distal][PrnDem][=that, that.over.there (ES: aquel, aquello)]" : {yoonta}
 ! 
 # demonstrative adjectives, it refers to people  
-| "[=yoranki+~{yora}{CLAR:nki}+gndr@m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yoranki} 
+| "[=yoranki+~{DEM:yora}{CLAR:nki}+gndr@m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yoranki} 
 | "[=yorari+gndr@m.][PrnDem][=DEM.NOM: that (ES: ese, eso); well.he]" : {yorari} 
 # -------------------------------------------------
 ! 
@@ -90,7 +90,7 @@ define PrnDemPRQin [
 | "[=onta+gndr@n.m.+loc@distal][PrnDem][=DEM.NOM: that, that.over.there (ES: esa, aquella)]" : {onta} 
 ! 
 # oranki pivanko / =ora -nki  pi- =panko / =that -rel  2poss- =house / EN: 'it is that, your house I was referring to' 
-| "[=oranki+~ora{CLAR:nki}+gndr@n.m.][PrnDem][=that (ES: esa)]" : {oranki} ! she 
+| "[=oranki+~{DEM:ora}{CLAR:nki}+gndr@n.m.][PrnDem][=that (ES: esa)]" : {oranki} ! she 
 | "[=orari+gndr@n.m.][PrnDem][=that (ES: esa)]" : {orari} ! she 
 # -------------------------------------------------
 ! 
