@@ -1675,6 +1675,7 @@ define VRootPRQin [
 ! 
 | "[=monts+INF@VC.][VRoot][=to.find, to.meet (ES: reencontrarse)]" : {monts} 
 # crossing a river 
+# bandearse: arreglárselas.solo.para.evitar.problemas 
 | "[=monty+INF@aantsi.][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear, cruzar.el.río.por.bote/canoa/puente)]" : {monty}
 | "[=monte+INF@aantsi.][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear, cruzar.el.río.por.bote/canoa/puente)]" : {monte}
 | "[=pampia][VRoot][=to.cross.river (by.boat/canoe/a_bridge)]" : {pampia}
