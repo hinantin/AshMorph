@@ -27,6 +27,7 @@ define PrnDemPRQin [
 ! ara ~ hara 
 | "[=ara+loc@medial.b.][PrnDem][=DEM.ADV.: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {ara}
 | "[=hara+loc@medial.b.][PrnDem][=DEM.ADV.: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {hara}
+| "[=haranki+~hara{CLAR:nki}][PrnDem][= (ES: por.allá)]" : {haranki}
 !  
 ! anta ~ hanta 
 | "[=anta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded)]" : {anta}
