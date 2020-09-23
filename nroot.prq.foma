@@ -3848,7 +3848,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=navireri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {navireri}
-| "[=naviriri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {naviriri}
+| "[=naviriri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]" : {naviriri} ! N@->V
 # ---------------------------------------------------------------------
 ! 
 | "[=nehi+inal@tsi.+sem@b.p.][NRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
