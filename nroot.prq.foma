@@ -3631,6 +3631,7 @@ define NRootPRQin [
 ! 
 | "[=meshaa+gndr@n.m.+sem@plant][NRoot][=tree.sp. (capirona)]" : {meshaa}
 | "[=mishaa+gndr@n.m.+sem@plant][NRoot][=tree.sp. (capirona)]" : {mishaa}
+| "[=misha+gndr@n.m.+sem@plant][NRoot][=tree.sp. (capirona)]" : {misha}
 # ----------------------------------------------------------------- 
 ! 
 | "[=mesha_oteyaki+gndr@n.m.+sem@plant][NRoot][= (PT: mulateiro; sci.nm.: família.fabaceae)]" : {mesha_oteyaki}
@@ -4465,6 +4466,7 @@ define NRootPRQin [
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pamaki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol); red.fruit (ES: chimiqua, chimicua; sci.nm.: pourouma.minor.benoist)]" : {pamaki}
+| "[=pamaaki+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol); red.fruit (ES: chimiqua, chimicua; sci.nm.: pourouma.minor.benoist)]" : {pamaaki}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pamoko+gndr@n.m.+poss@ti.+sem@plant][NRoot][=bejuco.sp. (ES: pate); gourd (climbing.plant.that.bears.gourds)]" : {pamoko}
@@ -5035,7 +5037,8 @@ define NRootPRQin [
 | "[=tocona][NRoot][=cocona.sp. (sci.nm.: solanum.sessiliflorum)]" : {tokona}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=poiyotzi][NRoot][=gray-headed.child]" : {poiyotzi}
+| "[=poiyotzi][NRoot][=gray-headed.child (ES: persona.de.cabeza.blanca)]" : {poiyotzi}
+| "[=poiyotsi][NRoot][=gray-headed.child (ES: persona.de.cabeza.blanca)]" : {poiyotsi}
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pokicho+gndr@m.+sem@bird][NRoot][=bird.sp. (ES: sp.de.pájaro); NP]" : {pokicho}
