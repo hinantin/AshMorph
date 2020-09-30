@@ -19,10 +19,6 @@ define AdvRootPRQ=SET1 [
 ! onoshikaja ?
 # -------------------------------------------------------- 
 ! 
-| "[=ikanta][AdvRoot][=CONN (EN: meanwhile)]" : {ikanta}
-| "[=ikanta][AdvRoot][=CONN (EN: meanwhile)]" : {ikantya}
-# -------------------------------------------------------- 
-! 
 | "[=inkaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaranki}
 | "[=inkaaranki][AdvRoot][=recently (ES: hace.un.momento/rato, denantes?)]" : {inkaaranki}
 | "[=inkaranki][AdvRoot][=some.time.ago; a.short.while.ago, earlier]" : {inkaranki}

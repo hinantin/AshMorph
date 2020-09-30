@@ -374,12 +374,14 @@ define ConnRootPRQ01in [
 | "[=rooma][ConnRoot][=but]" : {rooma}
 # ------------------------------------------------------------------
 ! 
-| "[=onkantya][ConnRoot][=in.order]" : {onkantya}
-| "[=onkantya][ConnRoot][=so.that]" : {onkantya}
-| "[=okanta][ConnRoot][=so.that]" : {okanta}
+| "[=onkantya][ConnRoot][=CONN (EN: in.order)]" : {onkantya}
+| "[=onkantya][ConnRoot][=CONN (EN: so.that)]" : {onkantya}
+| "[=okanta][ConnRoot][=CONN (EN: so.that)]" : {okanta}
 ! 
-| "[=okanta][ConnRoot][=in.the.meantime]" : {okanta}
-| "[=ikanta][ConnRoot][=in.the.meantime]" : {ikanta}
+| "[=okanta][ConnRoot][=CONN (EN: in.the.meantime)]" : {okanta}
+! 
+| "[=ikanta][ConnRoot][=CONN (EN: meanwhile, in.the.meantime)]" : {ikanta}
+| "[=ikanta][ConnRoot][=CONN (EN: meanwhile)]" : {ikantya}
 # ------------------------------------------------------------------
 ! 
 | "[=tekira][ConnRoot][=before]" : {tekira}
