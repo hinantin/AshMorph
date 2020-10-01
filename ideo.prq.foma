@@ -168,8 +168,11 @@ define IdeoPRQin [
 ! 
 | "[=koonk][Ideo][=sound.of.whistling (ES: sonido.de.un.silbido)]" : {koonk} 
 ! 
-| "[=eek][Ideo][=action.of.swelling.up (ES: acción.de.hincharse)]" : {eek} 
+| "[=eek][Ideo][=action.of.swelling.up (ES: acción.de.hincharse)]" : {eek}
+! 
 | "[=on][Ideo][=sound.of.human.singing?]" : {on} 
+! 
+| "[=guaii+s.redup.word@3X.][Ideo][=sound.of.human.crying]" : {guaii} 
 # ---------------------------------------
 #       DISYLLABIC IDEOPHONES            
 # ---------------------------------------
