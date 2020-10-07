@@ -175,6 +175,6 @@ define STATUS [
 | [EP V=S=REALRFL] | [EP=TS V=S=REALRFL] | [V=S=REALRFL]
 | [EP V=S=IRRRFL] | [EP=TS V=S=IRRRFL] | [V=S=IRRRFL]
 # ------------------------------------------
-| [EP V=S=PRNO=SET2]|[V=S=PRNO=SET2]
-| [EP V=S=IRRCPB] [V=S=IRRCPB]
+| [EP V=S=PRNO=SET2] | [V=S=PRNO=SET2]
+| [EP V=S=IRRCPB] | [V=S=IRRCPB]
 ];
