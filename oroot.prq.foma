@@ -142,11 +142,11 @@ define ORootPRQin [
 | "[=katsini][VRoot][=SUPERLATIVE (EN: proper; ES: verdadero)]" : {katsini} 
 # ---------------------------------------------- 
 ! 
-| "[=aponyaaka][VRoot][=we.continued (ES: nosotros.proseguimos; PT: nós.continuamos)]" : {aponyaaka} 
-| "[=aponyaanaka][VRoot][=we.walked.away (ES: nosotros.nos.alejamos; PT: nós.afastamos)]" : {aponyaanaka} 
+| "[=aponyaaka][VRoot][=WE.CONTINUED (ES: nosotros.proseguimos; PT: nós.continuamos)]" : {aponyaaka} 
+| "[=aponyaanaka][VRoot][=WE.WALKED.AWAY (ES: nosotros.nos.alejamos; PT: nós.afastamos)]" : {aponyaanaka} 
 # ---------------------------------------------- 
 ! 
-| "[=aatai][VRoot][=we.will.go.back (ES: nosotros.volveremos; PT: nós.vamos.voltar)]" : {aatai}
+| "[=aatai][VRoot][=WE.WILL.GO.BACK (ES: nosotros.volveremos; PT: nós.vamos.voltar)]" : {aatai}
 # ---------------------------------------------- 
 ! 
 | "[=iye][Interj][=expression.of.surprise]" : {iye}
