@@ -146,7 +146,7 @@ define ORootPRQin [
 | "[=aponyaanaka][VRoot][=WE.WALKED.AWAY (ES: nosotros.nos.alejamos; PT: nós.afastamos)]" : {aponyaanaka} 
 # ---------------------------------------------- 
 ! 
-| "[=aatai][VRoot][=WE.WILL.GO.BACK (ES: nosotros.volveremos; PT: nós.vamos.voltar)]" : {aatai}
+| "[=aatai+~{1PL.S:a}{V:/'to.go':aa/}{EP:t}{PRF:ag}{IRR:i}][VRoot][=WE.WILL.GO.BACK (ES: nosotros.volveremos; PT: nós.vamos.voltar)]" : {aatai}
 # ---------------------------------------------- 
 ! 
 | "[=iye][Interj][=expression.of.surprise]" : {iye}
