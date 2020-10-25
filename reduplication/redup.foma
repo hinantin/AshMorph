@@ -1,6 +1,7 @@
 # ------------------------------- 
 # Total reduplication 
 # ------------------------------- 
+# Not incorporated into the analyzer
 
 define Vow [a|e|i|o];
 define Cons [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}];
