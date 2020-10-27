@@ -6200,8 +6200,8 @@ define NRootPRQin [
 | "[=sontoki][NRoot][=wide.open.eye]" : {sontoki}
 # ------------------------------------------------------------
 ! 
-| "[=soldado/soraro][NRoot][=police (ES: soldado)]" : {soraro} !?
-| "[=soldado/soraaro][NRoot][=police (ES: soldado)]" : {soraaro} 
+| "[=soldado/soraro][NRoot][=soldier (ES: soldado)]" : {soraro} ! mistranslation not police -> soldier 
+| "[=soldado/soraaro][NRoot][=soldier (ES: soldado)]" : {soraaro} 
 # ------------------------------------------------------------
 ! 
 | "[=sorintzi+gndr@m.+sem@bird][NRoot][=sunbittern (sci.nm.: eurypygia.helias)]" : {sorintzi} 
