@@ -6363,7 +6363,7 @@ define NRootPRQin [
 # --------------------------------------------------------------------- 
 ! 
 | "[=tasorinka+~{N:/'god':tasori/}{NMZ:nka}][NRoot][=power (ES: poder)]" : {tasorinka}
-| "[=tasorinka][NRoot][=blessing (ES: bendición)]" : {tasorinka}
+| "[=tasorinka+~{N:/'god':tasori/}{NMZ:nka}][NRoot][=blessing (ES: bendición)]" : {tasorinka}
 # --------------------------------------------------------------------- 
 ! 
 | "[=tavakore+gndr@n.m.+inal@ntsi.][NRoot][=roasted.yucca.with.peel (ES: yuca.sin.pelar.asada)]" : {tavakore} 
