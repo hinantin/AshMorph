@@ -250,11 +250,11 @@ define NRootPRQin [
 | "[=aeri+gndr@m.+sem@insect][NRoot][=black.bee.sp. (ES: abeja.negra; PT: abelha)]" : {aeri} 
 # ---------------------------------------------------------------  
 ! 
-| "[=aiyo+gndr@n.m.+kin@fem.ego][NRoot][=mother.in.law (ES: suegra)]" : {aiyo}
-| "[=ayiini+gndr@n.m.+voc@N.+kin@fem.ego][NRoot][=mother.in.law (ES: suegra)]" : {ayiini} !  
-| "[=ayiro+gndr@n.m.+inal@ntsi.+voc@N:1SG.][NRoot][=mother.in.law (ES: suegra)]" : {ayiro} ! +N +1SG 
+| "[=aiyo+gndr@n.m.+kin@fem.ego][NRoot][=mother.in.law (ES: suegra; PT: sogra)]" : {aiyo}
+| "[=ayiini+gndr@n.m.+voc@N.+kin@fem.ego][NRoot][=mother.in.law (ES: suegra; PT: sogra)]" : {ayiini} !  
+| "[=ayiro+gndr@n.m.+inal@ntsi.+voc@N:1SG.][NRoot][=mother.in.law (ES: suegra; PT: sogra)]" : {ayiro} ! +N +1SG 
 ! 
-| "[=aniyo+gndr@n.m.+kin@male.ego][NRoot][=daughter.in.law (ES: nuera)]" : {aniyo}
+| "[=aniyo+gndr@n.m.+kin@male.ego][NRoot][=daughter.in.law (ES: nuera; PT: nora)]" : {aniyo}
 # ---------------------------------------------------------------  
 ! 
 | "[=anatzirori][NRoot][=raw (ES: crudo)]" : {anatzirori}
