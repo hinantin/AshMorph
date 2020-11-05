@@ -187,12 +187,12 @@ define NRootPRQin [
 | "[=ashisho+sem@NP.person][NRoot][=ambitious.person (ES: persona.ambiciosa)]" : {ashisho} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
-| "[=ashitaaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaaneyetachari}
-| "[=ashitaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaneyetachari}
-| "[=ashitaniyetachari][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaniyetachari}
-| "[=ashitaaniyetatsiri][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaaniyetatsiri}
-| "[=ashitaniyetatsiri][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaniyetatsiri}
-| "[=ashitaneyetatsiri][NRoot][=parent, householder (ES: padre.de.familia)]" : {ashitaneyetatsiri}
+| "[=ashitaaneyetachari][NRoot][=parent, householder (ES: padre.de.familia; PT: chefe.de.família)]" : {ashitaaneyetachari}
+| "[=ashitaneyetachari][NRoot][=parent, householder (ES: padre.de.familia; PT: chefe.de.família)]" : {ashitaneyetachari}
+| "[=ashitaniyetachari][NRoot][=parent, householder (ES: padre.de.familia; PT: chefe.de.família)]" : {ashitaniyetachari}
+| "[=ashitaaniyetatsiri][NRoot][=parent, householder (ES: padre.de.familia; PT: chefe.de.família)]" : {ashitaaniyetatsiri}
+| "[=ashitaniyetatsiri][NRoot][=parent, householder (ES: padre.de.familia; PT: chefe.de.família)]" : {ashitaniyetatsiri}
+| "[=ashitaneyetatsiri][NRoot][=parent, householder (ES: padre.de.familia; PT: chefe.de.família)]" : {ashitaneyetatsiri}
 ! 
 ! ashitarori otzishipaye / EN: '[spiritual].owners.of.the.hills'
 ! ashitariri eentsi / EN: 'owners.[parents].of.the.children'
