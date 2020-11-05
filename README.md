@@ -1,4 +1,4 @@
-Ashaninka-Morph
+Ashaninka-Morph (AshMorph for short)
 ===============
 
 This is a morphological analyzer for pan-Ashaninka that is written using Xerox finite state technology with a multilingual lexicon (Ashaninka, English, Spanish and Portuguese), some entries in Quechua and Italian are provided in a lesser quantity.
