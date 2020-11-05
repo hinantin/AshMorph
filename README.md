@@ -1,4 +1,4 @@
-Ashaninka-Morph
+Ashaninka-Morph (AshMorph for short)
 ===============
 
 This is a morphological analyzer for pan-Ashaninka that is written using Xerox finite state technology with a multilingual lexicon (Ashaninka, English, Spanish and Portuguese), some entries in Quechua and Italian are provided in a lesser quantity.
@@ -103,13 +103,13 @@ How to download the source code
 * Using `wget`
 
 ```bash
-$ wget https://github.com/hinantin/AshaninkaMorph/archive/master.zip 
+$ wget https://github.com/hinantin/AshMorph/archive/master.zip 
 ```
 
 * Cloning this repository
 
 ```bash
-$ git clone https://github.com/hinantin/AshaninkaMorph
+$ git clone https://github.com/hinantin/AshMorph
 ```
 
 Software prerequisites
@@ -127,11 +127,3 @@ Software on-line testing
 Don't know how or want to install it?
 
 Then test the morphological analyzer on-line, go to https://hinant.in/
-
-Spell-checking
-================
-
- Test the spell-checker on-line: https://hinant.in/ckeditor/samples/api.html
-
-
-
