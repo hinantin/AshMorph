@@ -166,12 +166,12 @@ define NRootPRQin [
 | "[=aari+gndr@m.+kin@fem.ego+voc@N.][NRoot][=brother (ES: hermano.de.mujer; PT: irmão)]" : {aari} 
 | "[=ari+gndr@m.+kin@fem.ego+voc@N.][NRoot][=brother (ES: hermano.de.mujer; PT: irmão)]" : {ari} 
 ! 1st, 2nd, 3rd person
-| "[=hari+gndr@m.+poss@ri+kin@fem.ego+voc@1SG:2SG:3SG.][NRoot][=brother (ES: hermano.de.mujer)]" : {hari}
+| "[=hari+gndr@m.+poss@ri+kin@fem.ego+voc@1SG:2SG:3SG.][NRoot][=brother (ES: hermano.de.mujer; PT: irmão)]" : {hari}
 ! 
-| "[=yaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]" : {yaya}
-| "[=yaaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]" : {yaaya}
-| "[=yayaa+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]" : {yayaa}
-| "[=haihi+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]" : {haihi}
+| "[=yaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer; PT: irmão)]" : {yaya}
+| "[=yaaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer; PT: irmão)]" : {yaaya}
+| "[=yayaa+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer; PT: irmão)]" : {yayaa}
+| "[=haihi+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer; PT: irmão)]" : {haihi}
 # ---------------------------------------------------------------------
 ! 
 | "[=Aroshi+sem@NP.person][NRoot][=legendary.Ashaninka.that.never.died (ES: Ashaninka.legendario.que.nunca.moría)]" : {aroshi}
