@@ -50,6 +50,7 @@
 #    place.name -> +sem@NP.place
 #    river.name -> +sem@NP.river
 #    ethnic.group -> +sem@NP.ethnic.grp.
+#    master-owner -> +sem@master-owner.
 #    human.body.part -> +sem@b.p.
 #    mammals -> +sem@mammal (bat, dolphin) 
 
@@ -327,10 +328,10 @@ define NRootPRQin [
 | "[=akoritsa+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {akoritsa}
 # ---------------------------------------------------------------  
 ! 
-| "[=amarani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amarani}
-| "[=amaani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
-| "[=amani+gndr@n.m.][NRoot][=increase (ES: creciente)]" : {amani} ! N@->V::[=to.increase (ES: crecer)]
-| "[=amara][NRoot][=increase (ES: creciente.de.río)]" : {amara}
+| "[=amarani+gndr@n.m.][NRoot][=increase (ES: creciente.(de.río); PT: crescente.do.rio)]" : {amarani}
+| "[=amaani+gndr@n.m.][NRoot][=increase (ES: creciente.(de.río); PT: crescente.do.rio)]" : {amaani} ! N@->V::[=to.increase (ES: crecer)]
+| "[=amani+gndr@n.m.][NRoot][=increase (ES: creciente.(de.río); PT: crescente.do.rio)]" : {amani} ! N@->V::[=to.increase (ES: crecer)]
+| "[=amara][NRoot][=increase (ES: creciente.de.río; PT: crescente.do.rio)]" : {amara}
 # ---------------------------------------------------------------  
 ! 
 | "[=amaako+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez)]" : {amaako}
