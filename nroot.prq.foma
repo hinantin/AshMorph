@@ -1981,7 +1981,7 @@ define NRootPRQin [
 | "[=kananerotsa][NRoot][=ayahuasca (sci.nm.: banisteriopsis.caapi; QU: aya.waskha; PT: cipó); (powerful).hallucinogenic.drug.taken.by.shamans.to.contact.spirits; psychoactive.drug]" : {kananerotsa}
 # ---------------------------------------------------------------------
 ! 
-| "[=kamarasanori][NRoot][=cream.color]" : {kamarasanori}
+| "[=kamarasanori+~{'to.vomit':kamara}{DEXT:sano}{NMZ:ri}][NRoot][=cream.color]" : {kamarasanori}
 # ---------------------------------------------------------------------
 ! 
 | "[=kamasamari+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga)]" : {kamasamari}
