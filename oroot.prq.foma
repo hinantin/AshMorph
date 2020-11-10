@@ -23,6 +23,9 @@ define ORootPRQin [
 | "[=apaniro][NRoot][=on.one's.own][--][-ini][+ADV]::[=solely]" : {apaniroini}
 # ---------------------------------------------- 
 ! 
+| "[=aparohatzini+~{N:/'one':aparo/}{RFLX.INTSF:hatzi}{R.DEL:i}{ADV:ini}][AdvRoot][=once (ES: una.vez); one.day]" : {aparohatzini}
+# ---------------------------------------------- 
+! 
 # a / PP 
 | "[=a][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-e][+REAL]" : {atake}
 ! 
