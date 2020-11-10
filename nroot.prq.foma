@@ -5596,9 +5596,6 @@ define NRootPRQin [
 | "[=sonkoki+gndr@m.][NRoot][=white.corn.variety]" : {sonkoki}
 # ------------------------------------------------------------
 ! 
-| "[=sontookinti+gndr@m.+sem@reptile][NRoot][=cotera.snake]" : {sontookinti}
-# ------------------------------------------------------------
-! 
 | "[=sovaito+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: ischnocnema.quixensis)]" : {sovaito}
 # ------------------------------------------------------------
 ! 
@@ -6202,6 +6199,11 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=sontoki][NRoot][=wide.open.eye]" : {sontoki}
+| "[=sontookinti][NRoot][=wide.open.eye.of.a.male (ES: ojo.grande.(varón))]" : {sontookinti}
+| "[=sontookinto][NRoot][=wide.open.eye.of.a.female (ES: ojo.grande.(mujer))]" : {sontookinto}
+# ------------------------------------------------------------
+! 
+| "[=sontookinti+gndr@m.+sem@reptile][NRoot][=cotera.snake]" : {sontookinti}
 # ------------------------------------------------------------
 ! 
 | "[=soldado/soraro][NRoot][=soldier (ES: soldado)]" : {soraro} ! mistranslation not police -> soldier 
