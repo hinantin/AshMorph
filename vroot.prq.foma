@@ -1729,6 +1729,7 @@ define VRootPRQin [
 | "[=nary][VRoot][=to.lie.prostrate]" : {nary}
 ! 
 | "[=nari+tot.redup@unb.copy.][VRoot][=to.lie.(on.the.ground)]" : {narianaria}
+! naria ??? 
 # ---------------------------------------------------------------------------- 
 ! 
 | "[=nesank+INF@VC.][VRoot][=to.peep.at.sb/sth. (ES: asomarse, mirar.a.hurtadillas, atisbar)]" : {nesank}
@@ -2687,8 +2688,8 @@ define VRootPRQin [
 ! 
 | "[=sheva+INF@/EP:t/aantsi.][VRoot][=to.move (ES: mover)]" : {sheva}
 ! 
-| "[=sheva+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving]" : {shevasheva}
-#@TOTREDUPCLASS01| "[=sheva+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving]" : {sheva}
+| "[=sheva+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving; to.move.body]" : {shevasheva}
+#@TOTREDUPCLASS01| "[=sheva+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving; to.move.body]" : {sheva}
 # ---------------------------------------------------------------------------
 ! 
 | "[=shima+INF@/EP:t/aantsi.][VRoot][=to.fish (ES: pescar); to.catch.fish]" : {shima}
