@@ -42,7 +42,7 @@ and the object.
 
 #### Verbal reduplication
 
-Verbal reduplication indicates urgency `(1)`, repetition `(3)`, or intensity `(2)`.
+Verbal reduplication indicates urgency `(1)`, repetition/countinued-action `(3)`, intensity `(2)`, or plurality of paticipants `(4)`.
 
 ```
 1) ma 'to.do' -> ma~ma 'to.do.quickly' 
