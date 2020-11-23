@@ -16,7 +16,7 @@
 # 2: +INF@form1:form2:...:formN. 
 #    A 'form' is a dialectal variation that might contain morphological operations such as /EP:.../ /DEL:.../ 
 # 3: +tot.redup@unb.copy., +prtl.redup@b.copy.
-#    partial reduplication can be modeled with 1-way FSTs 
+#    partial reduplication can be modeled with 1-way FSTs (e.g.: ame~mena)
 #    totsl reduplication is inadequately modeled with 1-way FSTs  
 # 4: +poss@(a)ane. (nominalizer for abstract nouns formed using the infinitive suffix: -ane, -aane) 
 #    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.*
