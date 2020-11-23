@@ -1,5 +1,6 @@
 # -----------------
 # VERBAL PARTIAL REDUPLICATION CLASS 1 
+# Partial reduplication can be modeled by with 1-way FSTs
 # -----------------
 define VRootPrtlRedupClass01in [ 
   "[=amen+prtl.redup@b.copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]" : {amen} ! amemena
