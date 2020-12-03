@@ -17,6 +17,7 @@
 #    A 'form' is a dialectal variation that might contain morphological operations such as /EP:.../ /DEL:.../ 
 
 # finite-state approximations to reduplication 
+# finite-state approximations are designed to lessen the burden for the developer in designing reduplication rules.
 # 3: +tot.redup@unb.copy., +prtl.redup@b.copy.
 #    partial reduplication can be modeled with 1-way FSTs (e.g.: amin -> ame~mena)
 #    totsl reduplication is inadequately modeled with 1-way FSTs (e.g.: amin -> amin~amina)
