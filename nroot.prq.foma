@@ -292,14 +292,14 @@ define NRootPRQin [
 | "[=ayini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {ayini} 
 | "[=ayiini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {ayiini} 
 ! 
-| "[=natoto+gndr@n.m.+voc@1SG:2SG:3SGn.m.:1PL.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {natoto}
+| "[=natoto+gndr@n.m.+voc@1SG:2SG:3SGn.m.:1PL.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {natoto} 
 ! ---------------------------------------------------------------  
 ! 
 | "[=ayoori+gndr@m.+sem@bird][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayoori} 
 | "[=ayori+gndr@m.+sem@bird][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayori} 
 # ---------------------------------------------------------------  
 ! 
-| "[=asankane+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=heart (ES: corazón)]" : {asankane}
+| "[=asankane+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=heart (ES: corazón)]" : {asankane} 
 | "[=asankani+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=heart (ES: corazón)]" : {asankani} 
 | "[=ahankane+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=heart (ES: corazón)]" : {ahankane} 
 # ---------------------------------------------------------------  
@@ -313,6 +313,7 @@ define NRootPRQin [
 !| "[=ako+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=arm]" : {ako}
 | "[=ako+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=hand (ES: mano; PT: mão)]" : {ako} ! N@->V::[=to.hand.sth. (ES: dar.con.la.mano, entregar)]
 | "[=vako+sem@b.p.][NRoot][=hand (ES: mano; PT: mão)]" : {vako} ! @VCMP 
+| "[=pako+sem@b.p.][NRoot][=hand (ES: mano; PT: mão)]" : {pako} 
 ! 
 | "[=akoimpeki+~{N:/'hand':ako/}{CL:/'branching.from.one.node':impeki/}+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpeki} ! @section:noun@ 
 | "[=akoimpiki+~{N:/'hand':ako/}{CL:/'branching.from.one.node':impiki/}+gndr@n.m.+inal@ntsi.+sem@b.p.][NRoot][=finger (ES: dedo; PT: dedo)]" : {akoimpiki}
