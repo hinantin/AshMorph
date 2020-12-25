@@ -284,15 +284,15 @@ define NRootPRQin [
 # ---------------------------------------------------------------  
 ! 
 # atyo / ES: 'cuñada.(habla.de.mujer)' 
-| "[=atyo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada); female.cousin (ES: prima)]" : {atyo} 
-| "[=atyoeni+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada); female.cousin (ES: prima)]" : {atyoeni} 
-| "[=atyoini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada); female.cousin (ES: prima)]" : {atyoini} 
-| "[=ateo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada); female.cousin (ES: prima)]" : {ateo} 
-| "[=aiyo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {aiyo} 
-| "[=ayini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {ayini} 
-| "[=ayiini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {ayiini} 
+| "[=atyo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada; PT: cunhada); female.cousin (ES: prima)]" : {atyo} 
+| "[=atyoeni+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada; PT: cunhada); female.cousin (ES: prima)]" : {atyoeni} 
+| "[=atyoini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada; PT: cunhada); female.cousin (ES: prima)]" : {atyoini} 
+| "[=ateo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada; PT: cunhada); female.cousin (ES: prima)]" : {ateo} 
+| "[=aiyo+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada; PT: cunhada)]" : {aiyo} 
+| "[=ayini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada; PT: cunhada)]" : {ayini} 
+| "[=ayiini+gndr@n.m.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada; PT: cunhada)]" : {ayiini} 
 ! 
-| "[=natoto+gndr@n.m.+voc@1SG:2SG:3SGn.m.:1PL.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]" : {natoto} 
+| "[=natoto+gndr@n.m.+voc@1SG:2SG:3SGn.m.:1PL.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada; PT: cunhada)]" : {natoto} 
 ! ---------------------------------------------------------------  
 ! 
 | "[=ayoori+gndr@m.+sem@bird][NRoot][=casqued.oropendola (ES: oropéndola.de.casquete, sp.de.paucarcillo/ave/golondrina; sci.nm.: clypicterus.oseryi)]" : {ayoori} 
