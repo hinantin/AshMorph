@@ -211,19 +211,22 @@ define AdvRootPRQ=SET2=INFLECTION [ [AdvRootPRQ=SET2] [ [(N=S=LOC) (N=S=DEM)] | 
 
 # ---------------------------------------------------------------- 
 ! intakiro
-define AdvRootPRQ=SET3 [
+define AdvRootPRQ=SET3 [ 
 ! intakironta 
 ! intakiroini 
 ! intakiroki 
-  "[=intakiro][AdvRoot][=outside (ES: afuera)]" : {intakiro}
-| "[=intakero][AdvRoot][=outside (ES: afuera)]" : {intakero}
+  "[=intakiro][AdvRoot][=outside (ES: afuera)]" : {intakiro} 
+| "[=intakero][AdvRoot][=outside (ES: afuera)]" : {intakero} 
 ! 
-!| "[=intakiro][AdvRoot][=outside (ES: afuera)]" : {intakiro}
-!| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside (ES: afuera)]" : {intakironta}
+!| "[=intakiro][AdvRoot][=outside (ES: afuera)]" : {intakiro} 
+!| "[=intakironta+~{'outside':intakiro}{DEM:/'distal.b.':nta/}][AdvRoot][=outside (ES: afuera)]" : {intakironta} 
 !#  these are not nouns, consider moving them to adverbs 
-!| "[=intakiro][NRoot][=outside (ES: afuera)]" : {intakiro}
-!| "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta}
-];
+!| "[=intakiro][NRoot][=outside (ES: afuera)]" : {intakiro} 
+!| "[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]" : {intakeronta} 
+! antakiro 
+! antakiroki 
+| "[=antakiro][AdvRoot][=outside (ES: afuera, fuera)]" : {antakiro} 
+]; 
 
 define AdvRootPRQ=SET3=INFLECTION [ [AdvRootPRQ=SET3] [ [(N=S=DEM)] | [(N=S=LOC)] | (N=S=ADV=SET2) ] ];
 
