@@ -4867,7 +4867,8 @@ define NRootPRQin [
 | "[=pityotsi+sem@NP.person][NRoot][=proper.name]" : {pityotsi}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pityoki][NRoot][=little.thing]" : {pityoki}
+! itzivini pityokini / EN: 'a piece of salt' 
+| "[=pityoki][NRoot][=little.thing]" : {pityoki} 
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pito+gndr@n.m.+inal@tsi.+poss@ni.+mrph.phon@LEN:^p→^v.][NRoot][=canoe (ES: canoa)]" : {pito}
