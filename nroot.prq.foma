@@ -4868,8 +4868,8 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------------------
 ! 
 ! itzivini pityokini / EN: 'a.piece.of.salt' 
-! opityokianiki / EN: 'her.clitoris' 
-| "[=pityoki][NRoot][=little.thing]" : {pityoki} 
+! opityokianiki / EN: 'her.clitoris'; ES: 'su.cosita' 
+| "[=pityoki][NRoot][=little.thing (ES: cosita)]" : {pityoki} 
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pito+gndr@n.m.+inal@tsi.+poss@ni.+mrph.phon@LEN:^p→^v.][NRoot][=canoe (ES: canoa)]" : {pito}
