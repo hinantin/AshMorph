@@ -93,8 +93,8 @@
 #                    +mrph.phon@SHORTENING:^ii→^i.
 #                    +mrph.phon@LOSS:^ak→^∅k.
 #                    +mrph.phon@LOSS:^ik→^∅k.
-#    lenition LEN
-#    epenthesis EP
+#    lenition LEN 
+#    epenthesis EP 
 #    deletion DEL 
 #    sibilant neutralization SIBL NEUT
 #                    +mrph.phon@SIBL.NEUT:s$→sh$.
