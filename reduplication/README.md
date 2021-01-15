@@ -17,5 +17,10 @@ Our analysis of the collected text corpus, shows that pan-Ashaninka presents bot
 3) koniha 'to.appear' -> koniha~koniha 'to.appear.again-and-again'
 ```
 
-pan-Ashaninka possesses partial and total reduplication of its verbal roots on their own or accompanied by epenthetic prefixes/suffixes as well as subject prefixes and a irrealis infix.
+pan-Ashaninka possesses partial and total reduplication of its verbal roots on their own or accompanied by epenthetic prefixes/suffixes as well as subject prefixes and a irrealis infix `(5)`.
+
+```
+5) noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again-and-again' 
+```
+
 
