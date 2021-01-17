@@ -20,12 +20,13 @@ Our analysis of the collected text corpus, shows that pan-Ashaninka presents bot
 pan-Ashaninka possesses partial and total reduplication of its verbal roots on their own or accompanied by epenthetic prefixes/suffixes `(5)` as well as subject prefixes `(6)` and a irrealis infix `(7)`.
 
 ```
-5) 
+5) naka / n- =ak -a / 1SG- =to.answer.back -EP / EN: 'I.answer.back' 
+   naka -> naka~naka 
 
-6) noirink / n- =oirink / 1SG- =lower / EN: 'I.descend.from.a.summit' 
+6) noirink / n- =oirink / 1SG- =to.lower / EN: 'I.descend.from.a.summit' 
    noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again-and-again' 
 
-7) nontso / no- N= =tso / 1SG- IRR= =to.kiss / EN: 'I.wiil.kiss' 
+7) nontso / no- N= =tso / 1SG- IRR= =to.kiss / EN: 'I.will.kiss' 
    nontso 'I.wiil.kiss' -> nontso~nontso 'I.kiss.again-and-again' 
 ```
 
