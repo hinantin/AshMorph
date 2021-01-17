@@ -23,7 +23,7 @@ pan-Ashaninka possesses partial and total reduplication of its verbal roots on t
 5) 
 
 6) noirink / n- =oirink / 1SG- =lower / EN: 'I.descend.from.a.summit' 
-   noirink'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again-and-again' 
+   noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again-and-again' 
 
 7) nontso / no- N= =tso / 1SG- IRR= =to.kiss / EN: 'I.wiil.kiss' 
    nontso 'I.wiil.kiss' -> nontso~nontso 'I.kiss.again-and-again' 
