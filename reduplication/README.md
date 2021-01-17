@@ -21,7 +21,7 @@ pan-Ashaninka possesses partial and total reduplication of its verbal roots on t
 
 ```
 5) naka / n- =ak -a / 1SG- =to.answer.back -EP / EN: 'I.answer.back' 
-   naka -> naka~naka 
+   naka 'I.repond' -> naka~naka 'I.repond.constantly' 
 
 6) noirink / n- =oirink / 1SG- =to.lower / EN: 'I.descend.from.a.summit' 
    noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again-and-again' 
