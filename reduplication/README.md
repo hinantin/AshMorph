@@ -34,6 +34,11 @@ pan-Ashaninka possesses partial and total reduplication of its verbal roots on t
 
 ###### Class 1 
 
+```
+kyakya
+komakoma
+```
+
 ###### Class 2 
 
 ```
