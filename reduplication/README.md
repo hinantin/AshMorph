@@ -35,16 +35,25 @@ pan-Ashaninka possesses partial and total reduplication of its verbal roots on t
 ###### Class 1 
 
 ```
-koma -> koma~koma
-kya -> kya~kya
-ma -> pima~matero / EN:  'do.it.quickly'
-sankina -> sankina~sankina
-sheva -> osheva~shevatanakityeya
+koma 'to.row' -> koma~koma 'to.row.a_lot'
+kya 'to.carry.load' -> kya~kya
+ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
+sankina 'to.write' -> sankina~sankina
+sheva 'to.move' -> osheva~shevatanakityeya 'to.move.body'
+tasonka 'to.fan' -> tasonkatasonka 'to.fan.repeatedly' 
 ```
 
 ###### Class 2 
 
 ```
+mi 'to.jump.up-and-down' -> miamia 
+my 'to.jump.up-and-down' -> myaamyaa
+
+ny 'to.see' -> nyanya 
+ny 'to.see' -> nyaanyaa 
+
+p 'to.feed' -> paapaa
+
 miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
 
 imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
