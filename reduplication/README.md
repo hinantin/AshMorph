@@ -30,4 +30,10 @@ pan-Ashaninka possesses partial and total reduplication of its verbal roots on t
    nontso 'I.wiil.kiss' -> nontso~nontso 'I.kiss.again-and-again' 
 ```
 
+##### Total reduplication
 
+###### Class 1 
+
+###### Class 2 
+
+###### Class 3 
