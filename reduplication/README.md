@@ -60,3 +60,17 @@ imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep 
 ```
 
 ###### Class 3 
+
+```
+aa 'to.take' -> naanaa
+
+aashi 'to.make.a.group_reunion/meeting' -> naashinaashi
+
+ak 'to.answer.back' -> nakanaka 
+                       pakapaka 
+                       yakayaka 
+                       akaaka
+
+am 'to.bring' -> yamayama 
+
+```
