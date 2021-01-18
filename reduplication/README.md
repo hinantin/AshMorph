@@ -73,4 +73,24 @@ ak 'to.answer.back' -> nakanaka
 
 am 'to.bring' -> yamayama 
 
+ag 'to.collect' -> agaagaa
+
+apii 'to.repeat' -> napiinapii
+
+atai 'to.go.up' -> natainatai
+
+tso 'to.kiss' -> nontsonontso 
+                 notsonotso 
+                 pitsopitso 
+                 itsoitso 
+                 otsootso
+                 
+naa 'to.chew' -> nonaanonaa
+
+ook 'to.abandon' -> nookanooka
+
+p 'to.give' -> ipaipa
+
+to 'to.cut' -> otooto 
+
 ```
