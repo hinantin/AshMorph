@@ -3,7 +3,7 @@ Reduplication Phenomena in pan-Ashaninka
 
 #### Verbal reduplication
 
-Verbal reduplication indicates urgency `(1)`, repetition/countinued-action `(3)`, intensity `(2)`, or plurality of paticipants `(4)`.
+Verbal reduplication indicates urgency `(1)`, repetition/countinued-action `(3)`, intensity `(2)`, or plurality of participants `(4)`.
 
 ```
 1) ma 'to.do' -> ma~ma 'to.do.quickly' 
