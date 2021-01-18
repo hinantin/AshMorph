@@ -94,3 +94,8 @@ p 'to.give' -> ipaipa
 to 'to.cut' -> otooto 
 
 ```
+
+##### Partial reduplication
+
+###### Class 1
+
