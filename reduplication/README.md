@@ -36,4 +36,10 @@ pan-Ashaninka possesses partial and total reduplication of its verbal roots on t
 
 ###### Class 2 
 
+```
+miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
+
+imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
+```
+
 ###### Class 3 
