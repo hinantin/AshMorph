@@ -17,22 +17,15 @@ Our analysis of the collected text corpus, shows that pan-Ashaninka presents bot
 3) koniha 'to.appear' -> koniha~koniha 'to.appear.again-and-again'
 ```
 
-pan-Ashaninka possesses partial and total reduplication of its verbal roots on their own or accompanied by epenthetic prefixes/suffixes `(5)` as well as subject prefixes `(6)` and a irrealis infix `(7)`.
-
-```
-5) naka / n- =ak -a / 1SG- =to.answer.back -EP / EN: 'I.answer.back' 
-   naka 'I.repond' -> naka~naka 'I.repond.constantly' 
-
-6) noirink / n- =oirink / 1SG- =to.lower / EN: 'I.descend.from.a.summit' 
-   noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again-and-again' 
-
-7) nontso / no- N= =tso / 1SG- IRR= =to.kiss / EN: 'I.will.kiss' 
-   nontso 'I.wiil.kiss' -> nontso~nontso 'I.kiss.again-and-again' 
-```
+pan-Ashaninka possesses partial and total reduplication of its verbal roots:
 
 ##### Total reduplication
 
+In order to developed a model, we separated the lexicon entries into three classes:
+
 ###### Class 1 
+
+When the verbal root is reduplicated unboundedly on its own.
 
 ```
 koma 'to.row' -> koma~koma 'to.row.a_lot'
@@ -51,6 +44,8 @@ tasonka 'to.fan' -> tasonka~tasonka 'to.fan.repeatedly'
 
 ###### Class 2 
 
+When the verbal root is reduplicated unboundedly in conjunction with epenthetic prefixes/suffixes.
+
 ```
 mi 'to.jump.up-and-down' -> mia~mia 
 my 'to.jump.up-and-down' -> myaa~myaa
@@ -67,6 +62,8 @@ imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep 
 
 ###### Class 3 
 
+When the verbal root is reduplicated unboundedly in conjunction with subject prefixes and/or a irrealis infix.
+
 ```
 aa 'to.take' -> naa~naa
 
@@ -76,6 +73,9 @@ ak 'to.answer.back' -> naka~naka
                        paka~paka 
                        yaka~yaka 
                        aka~aka
+
+5) naka / n- =ak -a / 1SG- =to.answer.back -EP / EN: 'I.answer.back' 
+   naka 'I.repond' -> naka~naka 'I.repond.constantly' 
 
 am 'to.bring' -> yama~yama 
 
@@ -90,7 +90,10 @@ tso 'to.kiss' -> nontso~nontso
                  pitso~pitso 
                  itso~itso 
                  otso~otso
-                 
+
+7) nontso / no- N= =tso / 1SG- IRR= =to.kiss / EN: 'I.will.kiss' 
+   nontso 'I.wiil.kiss' -> nontso~nontso 'I.kiss.again-and-again' 
+
 naa 'to.chew' -> nonaa~nonaa
 
 ook 'to.abandon' -> nooka~nooka
@@ -104,6 +107,8 @@ to 'to.cut' -> oto~oto
 ##### Partial reduplication
 
 ###### Class 1
+
+When the verbal root is reduplicated boundedly on its own.
 
 ```
 amen 'to.look' -> ame~mena 'to.look.at.sth.frequently'
@@ -150,11 +155,16 @@ tsaanki 'to.hurry' -> tsaa~tsaanki
 
 ###### Class 3
 
+When the verbal root is reduplicated boundedly in conjunction with subject prefixes and/or a irrealis infix.
+
 ```
 oirink 'to.lower' -> noi~noirinka
                      poi~poirinka
                      yoi~yoirinka
                      oi~oirinka
-          
+
+6) noirink / n- =oirink / 1SG- =to.lower / EN: 'I.descend.from.a.summit' 
+   noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again-and-again' 
+
 ```
 
