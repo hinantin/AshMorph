@@ -45,20 +45,20 @@ sankina 'to.write' -> sankina~sankina
 
 sheva 'to.move' -> osheva~shevatanakityeya 'to.move.body'
 
-tasonka 'to.fan' -> tasonkatasonka 'to.fan.repeatedly' 
+tasonka 'to.fan' -> tasonka~tasonka 'to.fan.repeatedly' 
 
 ```
 
 ###### Class 2 
 
 ```
-mi 'to.jump.up-and-down' -> miamia 
-my 'to.jump.up-and-down' -> myaamyaa
+mi 'to.jump.up-and-down' -> mia~mia 
+my 'to.jump.up-and-down' -> myaa~myaa
 
-ny 'to.see' -> nyanya 
-ny 'to.see' -> nyaanyaa 
+ny 'to.see' -> nya~nya 
+ny 'to.see' -> nyaa~nyaa 
 
-p 'to.feed' -> paapaa
+p 'to.feed' -> paa~paa
 
 miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
 
@@ -68,36 +68,36 @@ imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep 
 ###### Class 3 
 
 ```
-aa 'to.take' -> naanaa
+aa 'to.take' -> naa~naa
 
-aashi 'to.make.a.group_reunion/meeting' -> naashinaashi
+aashi 'to.make.a.group_reunion/meeting' -> naashi~naashi
 
-ak 'to.answer.back' -> nakanaka 
-                       pakapaka 
-                       yakayaka 
-                       akaaka
+ak 'to.answer.back' -> naka~naka 
+                       paka~paka 
+                       yaka~yaka 
+                       aka~aka
 
-am 'to.bring' -> yamayama 
+am 'to.bring' -> yama~yama 
 
-ag 'to.collect' -> agaagaa
+ag 'to.collect' -> aga~agaa
 
-apii 'to.repeat' -> napiinapii
+apii 'to.repeat' -> napii~napii
 
-atai 'to.go.up' -> natainatai
+atai 'to.go.up' -> natai~natai
 
-tso 'to.kiss' -> nontsonontso 
-                 notsonotso 
-                 pitsopitso 
-                 itsoitso 
-                 otsootso
+tso 'to.kiss' -> nontso~nontso 
+                 notso~notso 
+                 pitso~pitso 
+                 itso~itso 
+                 otso~otso
                  
-naa 'to.chew' -> nonaanonaa
+naa 'to.chew' -> nonaa~nonaa
 
-ook 'to.abandon' -> nookanooka
+ook 'to.abandon' -> nooka~nooka
 
-p 'to.give' -> ipaipa
+p 'to.give' -> ipa~ipa
 
-to 'to.cut' -> otooto 
+to 'to.cut' -> oto~oto 
 
 ```
 
