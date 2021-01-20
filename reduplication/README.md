@@ -36,11 +36,17 @@ pan-Ashaninka possesses partial and total reduplication of its verbal roots on t
 
 ```
 koma 'to.row' -> koma~koma 'to.row.a_lot'
+
 kya 'to.carry.load' -> kya~kya
+
 ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
+
 sankina 'to.write' -> sankina~sankina
+
 sheva 'to.move' -> osheva~shevatanakityeya 'to.move.body'
+
 tasonka 'to.fan' -> tasonkatasonka 'to.fan.repeatedly' 
+
 ```
 
 ###### Class 2 
@@ -120,31 +126,31 @@ kinkitsa 'to.tell' -> ki~kinkitsa
 
 kis 'to.be.angry/furious,' -> ki~kis
 
-koma 'to.row' -> kokoma 'to.row.lots.of.times'
+koma 'to.row' -> ko~koma 'to.row.lots.of.times'
 
-kov 'to.want' -> kokov 'to.prefer.strongly' 
+kov 'to.want' -> ko~kov 'to.prefer.strongly' 
 
-mairi 'to.be.silent' -> maimairi
+mairi 'to.be.silent' -> mai~mairi
 
-pety 'to.blink' -> pepetya 
+pety 'to.blink' -> pe~petya 
 
-saik 'to.be' -> saisaika
+saik 'to.be' -> sai~saika
 
-sankena 'to.write' -> sasankena
+sankena 'to.write' -> sa~sankena
 
-sampi 'to.ask.(about.sth.)' -> sasampi 'to.ask.(about.sth.).often.times'
+sampi 'to.ask.(about.sth.)' -> sa~sampi 'to.ask.(about.sth.).often.times'
 
-pityarank 'to.bend.over' -> pipityarank 
+pityarank 'to.bend.over' -> pi~pityarank 
 
-tasonk 'to.fan' -> tatasonk
+tasonk 'to.fan' -> ta~tasonk
 
-tsaanki 'to.hurry' -> tsaatsaanki
+tsaanki 'to.hurry' -> tsaa~tsaanki
 
 ```
 
 ###### Class 2
 
 ```
-oirink -> oioirinka
+oirink -> oi~oirinka
 ```
 
