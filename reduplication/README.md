@@ -120,6 +120,26 @@ kinkitsa 'to.tell' -> ki~kinkitsa
 
 kis 'to.be.angry/furious,' -> ki~kis
 
+koma 'to.row' -> kokoma 'to.row.lots.of.times'
+
+kov 'to.want' -> kokov 'to.prefer.strongly' 
+
+mairi 'to.be.silent' -> maimairi
+
+pety 'to.blink' -> pepetya 
+
+saik 'to.be' -> saisaika
+
+sankena 'to.write' -> sasankena
+
+sampi 'to.ask.(about.sth.)' -> sasampi 'to.ask.(about.sth.).often.times'
+
+pityarank 'to.bend.over' -> pipityarank 
+
+tasonk 'to.fan' -> tatasonk
+
+tsaanki 'to.hurry' -> tsaatsaanki
+
 ```
 
 ###### Class 2
