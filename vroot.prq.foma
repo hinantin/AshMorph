@@ -1036,6 +1036,7 @@ define VRootPRQin [
 | "[=kavoshi+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)]" : {kavoshi}
 | "[=kaavoshi][VRoot][=to.bathe (ES: bañar)]" : {kaavoshi}
 | "[=kavoshi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.bathe (ES: bañar)]" : {kavoshikavoshi}
+#@TOTREDUPCLASS01| "[=kavoshi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.bathe (ES: bañar)]" : {kavoshi}
 # -------------------------------------------------------------- 
 ! 
 | "[=kay][VRoot][=to.thresh]" : {kay}
@@ -2486,7 +2487,7 @@ define VRootPRQin [
 | "[=pity][VRoot][=to.blink (ES: parpadear)]" : {pity}
 ! 
 | "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pepetya}
-#@PRTLREDUPCLASS01| "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pety}
+#@PRTLREDUPCLASS01| "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pety} ! pepetya 
 # ---------------------------------------------------------------------
 ! 
 | "[=piriin+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.lift.sth., to.pick.sth.up (ES: levantar)]" : {piriin}
@@ -2919,7 +2920,7 @@ define VRootPRQin [
 | "[=pityarank+INF@/EP:t/VC.][VRoot][=to.bend.over (ES: agacharse)]" : {pityarank}
 ! 
 | "[=pityarank+INF@/EP:t/VC.+prtl.redup@b.copy.][VRoot][=to.bend.over (ES: agacharse)]" : {pipityarank}
-#@PRTLREDUPCLASS01| "[=pityarank+INF@/EP:t/VC.+prtl.redup@b.copy.][VRoot][=to.bend.over (ES: agacharse)]" : {pityarank}
+#@PRTLREDUPCLASS01| "[=pityarank+INF@/EP:t/VC.+prtl.redup@b.copy.][VRoot][=to.bend.over (ES: agacharse)]" : {pityarank} ! pipityarank 
 # ----------------------------------------------------------------------
 ! 
 | "[=tapo][VRoot][=to.be.round]" : {tapo}
