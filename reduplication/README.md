@@ -99,3 +99,13 @@ to 'to.cut' -> otooto
 
 ###### Class 1
 
+```
+
+```
+
+###### Class 1
+
+```
+oirink -> oioirinka
+```
+
