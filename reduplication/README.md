@@ -44,7 +44,7 @@ tasonka 'to.fan' -> tasonka~tasonka 'to.fan.repeatedly'
 
 ###### Class 2 
 
-When the verbal root is reduplicated unboundedly in conjunction with epenthetic suffixes.
+When the verbal root is reduplicated unboundedly in conjunction with an epenthetic suffix `-a~-aa`.
 
 ```
 mi 'to.jump.up-and-down' -> mia~mia 
