@@ -100,14 +100,25 @@ to 'to.cut' -> otooto
 ###### Class 1
 
 ```
-amen 'to.look' -> amemena 'to.look.at.sth.frequently'
+amen 'to.look' -> ame~mena 'to.look.at.sth.frequently'
 
-apii 'to.repeat' -> apiipii
+apii 'to.repeat' -> apii~pii
 
-ashi 'to.own' -> ashishita 'to.own.sth.a.lot.of.times'
+ashi 'to.own' -> ashi~shita 'to.own.sth.a.lot.of.times'
 
+atsik 'to.bite' -> atsi~tsika 
 
+chek 'to.cut' -> che~chek 'to.cut.sth.often'
 
+kaim 'to.scream' -> kai~kaim 
+
+kimota 'to.grow.in.size/volume' -> ki~kimota 
+
+ken 'to.walk' -> ke~ken
+
+kinkitsa 'to.tell' -> ki~kinkitsa
+
+kis 'to.be.angry/furious,' -> ki~kis
 
 ```
 
