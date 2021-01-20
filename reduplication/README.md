@@ -100,10 +100,18 @@ to 'to.cut' -> otooto
 ###### Class 1
 
 ```
+amen 'to.look' -> amemena 'to.look.at.sth.frequently'
+
+apii 'to.repeat' -> apiipii
+
+ashi 'to.own' -> ashishita 'to.own.sth.a.lot.of.times'
+
+
+
 
 ```
 
-###### Class 1
+###### Class 2
 
 ```
 oirink -> oioirinka
