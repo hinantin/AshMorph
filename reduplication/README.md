@@ -28,6 +28,8 @@ In order to developed a model, we separated the lexicon entries into three class
 When the verbal root is reduplicated unboundedly on its own.
 
 ```
+kavoshi 'to.bathe' -> kavoshi~kavoshi 'to.bathe.a_lot'
+
 koma 'to.row' -> koma~koma 'to.row.a_lot'
 
 kya 'to.carry.load' -> kya~kya
