@@ -148,9 +148,13 @@ tsaanki 'to.hurry' -> tsaa~tsaanki
 
 ```
 
-###### Class 2
+###### Class 3
 
 ```
-oirink -> oi~oirinka
+oirink 'to.lower' -> noi~noirinka
+                     poi~poirinka
+                     yoi~yoirinka
+                     oi~oirinka
+          
 ```
 
