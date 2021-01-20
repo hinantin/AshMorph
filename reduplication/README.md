@@ -110,7 +110,7 @@ to 'to.cut' -> oto~oto
 
 ###### Class 1
 
-When the verbal root is reduplicated boundedly on its own.
+When the verbal root with a intial syllable structure (V)CVC(V) is reduplicated boundedly on its own.
 
 ```
 amen 'to.look' -> ame~mena 'to.look.at.sth.frequently'
