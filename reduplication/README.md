@@ -36,6 +36,8 @@ kya 'to.carry.load' -> kya~kya
 
 ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
 
+piy 'to.return' -> piya~piya 'to.keep.returning' 
+
 sampi 'to.ask.(about.sth.)' -> sampi~sampi  
 
 sankina 'to.write' -> sankina~sankina
