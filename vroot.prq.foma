@@ -2133,7 +2133,8 @@ define VRootPRQin [
 ! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
 | "[=pariy][VRoot][=to.fall (ES: caer)]" : {pariy}
 | "[=pare][VRoot][=to.fall (ES: caer)]" : {pare}
-| "[=pariy+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {paryaaparyaa}
+| "[=pary+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {paryaaparyaa}
+#@TOTREDUPCLASS02| "[=pary+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {pary} ! paryaaparyaa 
 ! oparipariiteanaji / oparipariiteanahi /  (o- refers to niha/water+n.m. or inkani/rain+n.m. )
 | "[=pari+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times (e.g. rain.drops)]" : {paripari}
 #@TOTREDUPCLASS01| "[=pari+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times (e.g. rain.drops)]" : {pari} ! paripari 
