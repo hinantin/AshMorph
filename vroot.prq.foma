@@ -2882,7 +2882,8 @@ define VRootPRQin [
 | "[=tay][VRoot][=to.burn (ES: quemar)]" : {tay}
 | "[=tag][VRoot][=to.burn (ES: quemar)]" : {tag}
 ! 
-| "[=ta+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taataa}
+| "[=taa+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taataa}
+#@TOTREDUPCLASS01| "[=taa+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taa} ! taataa 
 # ----------------------------------------------------------------------
 ! 
 | "[=tahako][VRoot][=to.hatch (ES: eclosionar; reventar, hacer.pedazos)]" : {tahako}
