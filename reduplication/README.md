@@ -57,7 +57,7 @@ ny 'to.see' -> nyaa~nyaa
 
 p 'to.feed' -> paa~paa
 
-tsonk 'to.finish' -> tsonkatsonka 'to.finish.quickly'
+tsonk 'to.finish' -> tsonka~tsonka 'to.finish.quickly'
 
 
 miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
