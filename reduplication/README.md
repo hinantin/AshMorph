@@ -66,6 +66,8 @@ ny 'to.see' -> nyaa~nyaa
 
 p 'to.feed' -> paa~paa
 
+pary 'to.fall' -> paryaa~paryaa 'to.fall.multiple.times' 
+
 piy 'to.return' -> piya~piya 'to.keep.returning' 
 
 shitov 'to.leave' -> shitova~shitova 'to.come-and-go.constantly' 
