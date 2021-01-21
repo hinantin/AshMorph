@@ -3268,6 +3268,7 @@ define VRootPRQin [
 | "[=tsonk+INF@antsi.][VRoot][=to.finish.(off) (ES: terminar)]" : {tsonk}
 | "[=tsonk+tot.redup@unb.copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonk}
 | "[=tsonk+tot.redup@unb.copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonkatsonka}
+#@TOTREDUPCLASS02| "[=tsonk+tot.redup@unb.copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonk}
 | "[=tsonk][VRoot][=to.kill]" : {tsonk}
 ! 
 | "[=tsonka+INF@/EP:t/antsi.][VRoot][=to.finish.(off) (ES: terminar)]" : {tsonka}
