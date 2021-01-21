@@ -36,9 +36,12 @@ kya 'to.carry.load' -> kya~kya
 
 ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
 
+sampi 'to.ask.(about.sth.)' -> sampi~sampi  
+
 sankina 'to.write' -> sankina~sankina
 
-sheva 'to.move' -> osheva~shevatanakityeya 'to.move.body'
+sheva 'to.move' -> sheva~sheva 'to.move.body' 
+osheva~shevatanakityeya
 
 shitov 'to.leave' -> shitova~shitova 'to.come-and-go.constantly' 
 
