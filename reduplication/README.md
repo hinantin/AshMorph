@@ -42,6 +42,8 @@ sheva 'to.move' -> osheva~shevatanakityeya 'to.move.body'
 
 tasonka 'to.fan' -> tasonka~tasonka 'to.fan.repeatedly' 
 
+tsaanki 'to.hurry' -> tsaanki~tsaanki 
+
 ```
 
 ###### Class 2 
