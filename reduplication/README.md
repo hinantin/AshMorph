@@ -40,6 +40,8 @@ sankina 'to.write' -> sankina~sankina
 
 sheva 'to.move' -> osheva~shevatanakityeya 'to.move.body'
 
+shitov 'to.leave' -> shitova~shitova 'to.come-and-go.constantly' 
+
 taa 'to.burn' -> taa~taa 
 
 tasonka 'to.fan' -> tasonka~tasonka 'to.fan.repeatedly' 
