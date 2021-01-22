@@ -2036,8 +2036,8 @@ define VRootPRQin [
 # --------------------------------------------------------------------------------- 
 ! 
 ! EN: 'blinking.light' / ES: 'luz.parpadeante'  
-| "[=oriavintsa+~oria{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsaoriavintsa}
-#@TOTREDUPCLASS01| "[=oriavintsa+oria{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsa} ! oriavintsaoriavintsa 
+| "[=oriavintsa+~{N:/'sun':oria/}{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsaoriavintsa}
+#@TOTREDUPCLASS01| "[=oriavintsa+{N:/'sun':oria/}{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsa} ! oriavintsaoriavintsa 
 # --------------------------------------------------------------------------------- 
 ! 
 | "[=oshoonk][VRoot][=to.inhale, to.breathe.in; to.evaporate]" : {oshoonk}
