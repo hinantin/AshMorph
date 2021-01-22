@@ -2035,7 +2035,9 @@ define VRootPRQin [
 | "[=ore+INF@aantsi.+poss@ane.][VRoot][=to.put.food.for.an.animal.in.the.feeding_trough (ES: dar/echar.la.comida.de.animales.en.un.comedero)]" : {ore}
 # --------------------------------------------------------------------------------- 
 ! 
+! EN: 'blinking.light' / ES: 'luz.parpadeante'  
 | "[=oria{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsaoriavintsa}
+#@TOTREDUPCLASS01| "[=oria{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsaoriavintsa} ! oriavintsaoriavintsa 
 # --------------------------------------------------------------------------------- 
 ! 
 | "[=oshoonk][VRoot][=to.inhale, to.breathe.in; to.evaporate]" : {oshoonk}
