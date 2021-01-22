@@ -36,6 +36,8 @@ kya 'to.carry.load' -> kya~kya
 
 ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
 
+pai 'to.be.called' -> paipai 
+
 pari 'to.fall' -> paripari 'to.fall.multiple.times (rain.drops)' 
 
 sampi 'to.ask.(about.sth.)' -> sampi~sampi  
