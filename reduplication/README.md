@@ -36,6 +36,8 @@ kya 'to.carry.load' -> kya~kya
 
 ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
 
+pai 'to.be.called' -> paipai 
+
 pari 'to.fall' -> paripari 'to.fall.multiple.times (rain.drops)' 
 
 sampi 'to.ask.(about.sth.)' -> sampi~sampi  
@@ -60,6 +62,8 @@ When the verbal root is reduplicated unboundedly in conjunction with an epenthet
 ```
 mi 'to.jump.up-and-down' -> mia~mia 
 my 'to.jump.up-and-down' -> myaa~myaa
+
+nari 'to.lie.(on.the.ground' -> naria~naria 
 
 ny 'to.see' -> nya~nya 
 ny 'to.see' -> nyaa~nyaa 
