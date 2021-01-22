@@ -38,16 +38,12 @@ ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
 
 pari 'to.fall' -> paripari 'to.fall.multiple.times (rain.drops)' 
 
-piy 'to.return' -> piya~piya 'to.keep.returning' 
-
 sampi 'to.ask.(about.sth.)' -> sampi~sampi  
 
 sankina 'to.write' -> sankina~sankina
 
 sheva 'to.move' -> sheva~sheva 'to.move.body' 
 osheva~shevatanakityeya
-
-shitov 'to.leave' -> shitova~shitova 'to.come-and-go.constantly' 
 
 taa 'to.burn' -> taa~taa 
 
@@ -69,6 +65,12 @@ ny 'to.see' -> nya~nya
 ny 'to.see' -> nyaa~nyaa 
 
 p 'to.feed' -> paa~paa
+
+pary 'to.fall' -> paryaa~paryaa 'to.fall.multiple.times' 
+
+piy 'to.return' -> piya~piya 'to.keep.returning' 
+
+shitov 'to.leave' -> shitova~shitova 'to.come-and-go.constantly' 
 
 tsonk 'to.finish' -> tsonka~tsonka 'to.finish.quickly'
 
