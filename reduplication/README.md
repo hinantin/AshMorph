@@ -36,9 +36,20 @@ kya 'to.carry.load' -> kya~kya
 
 ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
 
+oriavintsa 'to.shine.for_a_short_time' -> oriavintsa~oriavintsa 'to.shine.like.a.blinking.light' 
+
+pai 'to.be.called' -> paipai 
+
+pari 'to.fall' -> paripari 'to.fall.multiple.times (rain.drops)' 
+
+sampi 'to.ask.(about.sth.)' -> sampi~sampi  
+
 sankina 'to.write' -> sankina~sankina
 
-sheva 'to.move' -> osheva~shevatanakityeya 'to.move.body'
+sheva 'to.move' -> sheva~sheva 'to.move.body' 
+osheva~shevatanakityeya
+
+taa 'to.burn' -> taa~taa 
 
 tasonka 'to.fan' -> tasonka~tasonka 'to.fan.repeatedly' 
 
@@ -54,10 +65,18 @@ When the verbal root is reduplicated unboundedly in conjunction with an epenthet
 mi 'to.jump.up-and-down' -> mia~mia 
 my 'to.jump.up-and-down' -> myaa~myaa
 
+nari 'to.lie.(on.the.ground' -> naria~naria 
+
 ny 'to.see' -> nya~nya 
 ny 'to.see' -> nyaa~nyaa 
 
 p 'to.feed' -> paa~paa
+
+pary 'to.fall' -> paryaa~paryaa 'to.fall.multiple.times' 
+
+piy 'to.return' -> piya~piya 'to.keep.returning' 
+
+shitov 'to.leave' -> shitova~shitova 'to.come-and-go.constantly' 
 
 tsonk 'to.finish' -> tsonka~tsonka 'to.finish.quickly'
 

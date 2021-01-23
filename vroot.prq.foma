@@ -1738,6 +1738,7 @@ define VRootPRQin [
 | "[=nary][VRoot][=to.lie.prostrate]" : {nary}
 ! 
 | "[=nari+tot.redup@unb.copy.][VRoot][=to.lie.(on.the.ground)]" : {narianaria}
+#@TOTREDUPCLASS02| "[=nari+tot.redup@unb.copy.][VRoot][=to.lie.(on.the.ground)]" : {nari} ! narianaria 
 ! naria ??? 
 # ---------------------------------------------------------------------------- 
 ! 
@@ -2034,7 +2035,9 @@ define VRootPRQin [
 | "[=ore+INF@aantsi.+poss@ane.][VRoot][=to.put.food.for.an.animal.in.the.feeding_trough (ES: dar/echar.la.comida.de.animales.en.un.comedero)]" : {ore}
 # --------------------------------------------------------------------------------- 
 ! 
-| "[=oria{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsaoriavintsa}
+! EN: 'blinking.light' / ES: 'luz.parpadeante'  
+| "[=oriavintsa+~{N:/'sun':oria/}{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsaoriavintsa}
+#@TOTREDUPCLASS01| "[=oriavintsa+{N:/'sun':oria/}{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsa} ! oriavintsaoriavintsa 
 # --------------------------------------------------------------------------------- 
 ! 
 | "[=oshoonk][VRoot][=to.inhale, to.breathe.in; to.evaporate]" : {oshoonk}
@@ -2101,6 +2104,7 @@ define VRootPRQin [
 | "[=pae][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair]" : {pae}
 | "[=pahi][VRoot][=to.be.called; to.call, to.name (ES: nombrar)]" : {pahi}
 | "[=pai+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.be.called; to.call, to.name (ES: nombrar)]" : {paipai}
+#@TOTREDUPCLASS01| "[=pai+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.be.called; to.call, to.name (ES: nombrar)]" : {pai} ! paipai 
 # --------------------------------------------------------------------------------- 
 ! 
 | "[=paik+INF@aantsi.][VRoot][=to.nail (ES: clavar), to.get.hit.with.an.object]" : {paik}
@@ -2133,9 +2137,11 @@ define VRootPRQin [
 ! pariyaantsi / =pariy -aantsi / =to.fall -inf / EN: 'to.fall' ES: 'descender'
 | "[=pariy][VRoot][=to.fall (ES: caer)]" : {pariy}
 | "[=pare][VRoot][=to.fall (ES: caer)]" : {pare}
-| "[=pariy+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {paryaaparyaa}
+| "[=pary+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {paryaaparyaa}
+#@TOTREDUPCLASS02| "[=pary+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {pary} ! paryaaparyaa 
 ! oparipariiteanaji / oparipariiteanahi /  (o- refers to niha/water+n.m. or inkani/rain+n.m. )
 | "[=pari+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times (e.g. rain.drops)]" : {paripari}
+#@TOTREDUPCLASS01| "[=pari+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times (e.g. rain.drops)]" : {pari} ! paripari 
 ! parija / pariha / =pari -ha / =to.fall -cl:liquid / EN: 'waterfall'; ES: 'caída.de.agua, cascada'
 ! ovarijare / ovarihare / o- =pari -ha -re / 3n.m.poss- =to.fall -cl:liquid -aln.poss. / ES: 'su.cascada'  
 !| "[=pariha+~{V:/'to.fall':pari/}{CL:/'liquid':ha/}][NRoot][=waterfall (ES: caída.de.agua, cascada)]" : {pariha} ! @section:noun@ 
@@ -2347,6 +2353,7 @@ define VRootPRQin [
 | "[=piy+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]" : {pipiya}
 | "[=piy+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piyapiya}
 | "[=piy+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piapiya}
+#@TOTREDUPCLASS02| "[=piy+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piy} ! piyapiya
 # ------------------------------------------------------
 ! 
 | "[=piyaa][VRoot][=to.empty, to.pour (ES: vaciar)]" : {piyaa}
@@ -2582,6 +2589,7 @@ define VRootPRQin [
 | "[=ohampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {ohampi}
 ! 
 | "[=sampi+tot.redup@unb.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampisampi} ! \cite{payne:axininca:81}[pag. 144]
+#@TOTREDUPCLASS01| "[=sampi+tot.redup@unb.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi} ! sampisampi 
 | "[=sampi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[= (ES: preguntar.a_cada_rato)]" : {sasampi}
 #@PRTLREDUPCLASS01| "[=sampi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[= (ES: preguntar.a_cada_rato)]" : {sampi} ! sasampi 
 # ---------------------------------------------------------------------------
