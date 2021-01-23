@@ -2684,6 +2684,9 @@ define NRootPRQin [
 | "[=kitamapetari][NRoot][=notebook (ES: cuaderno)]" : {kitamapetari}
 # ---------------------------------------------------------------------------
 ! 
+| "[=kitani][NRoot][= (ES: dueño.de.los.animales-y-aves)]" : {kitani}
+# ---------------------------------------------------------------------------
+! 
 # colors
 | "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo)]" : {kiteri} ! N@->V::[to.be.yellow (ES: ponerse.amarillento)] 
 | "[=kiteriri+sem@color.][NRoot][=yellow (ES: amarillo)]" : {kiteriri}
