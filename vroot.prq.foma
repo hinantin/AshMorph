@@ -803,6 +803,7 @@ define VRootPRQin [
 | "[=irah][VRoot][=to.cry (ES: llorar)]" : {irah}
 | "[2S/A+][p-][--][=ira+tot.redup@unb.copy.][VRoot][=to.cry (ES: llorar)]" : {pirapira}
 | "[=ira+tot.redup@unb.copy.][VRoot][=to.cry (ES: llorar)]" : {iraira}
+#@TOTREDUPCLASS01| "[=ira+tot.redup@unb.copy.][VRoot][=to.cry (ES: llorar)]" : {ira} ! iraira  
 # --------------------------------------------
 !
 | "[=ireevi+INF@/EP:t/aantsi.][VRoot][=to.be.in.debt (ES: tener.deuda)]" : {ireevi}
@@ -922,7 +923,8 @@ define VRootPRQin [
 | "[=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able]" : {kant} ! @section:verb@ 
 | "[=kãt][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]" : {kãt}
 # cantacaantantatsiri / kantakaantantatsiri / ES: 'curaca' ; QU: 'kuraka' ; CNI: 'coraca'
-| "[=kant+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[= (ES: ser.ley/dicho)]" : {kantakant}
+| "[=kant+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[=to.be.law (ES: ser.ley/dicho)]" : {kantakant}
+#@TOTREDUPCLASS02| "[=kant+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[=to.be.law (ES: ser.ley/dicho)]" : {kant} ! kantakant 
 | "[=kant+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[= (ES: ser.ley/dicho)]" : {kantakaant}
 # -------------------------------------------------------------- 
 ! 
@@ -1141,7 +1143,9 @@ define VRootPRQin [
 | "[=ken+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.walk]" : {kekena}
 | "[=ken+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]" : {kenaken}
 | "[=ken+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]::[=to.walk.somewhere.very.frequently (ES: caminar/viajar.por.algún.lugar.todo.el.tiempo)]" : {kenakena}
+#@TOTREDUPCLASS01| "[=ken+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]::[=to.walk.somewhere.very.frequently (ES: caminar/viajar.por.algún.lugar.todo.el.tiempo)]" : {ken} ! kenakena 
 | "[=kin/kinakina+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]::[=to.walk.around.somewhere.very.frequently (ES: caminar/viajar.por.algún.lugar.todo.el.tiempo)]" : {kinakina}
+#@TOTREDUPCLASS01| "[=kin+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]::[=to.walk.around.somewhere.very.frequently (ES: caminar/viajar.por.algún.lugar.todo.el.tiempo)]" : {kin} ! kinakina 
 # ----------------------------------------------------------------------- 
 ! 
 | "[=kenashi][VRoot][=to.be.green (ES: ser.de.color.verde)]" : {kenashi}
