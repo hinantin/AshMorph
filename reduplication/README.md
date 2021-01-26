@@ -120,6 +120,9 @@ apii 'to.repeat' -> napii~napii
 
 atai 'to.go.up' -> natai~natai
 
+ira 'to.cry' -> pira~pira
+                ira~ira
+
 tso 'to.kiss' -> nontso~nontso 
                  notso~notso 
                  pitso~pitso 
