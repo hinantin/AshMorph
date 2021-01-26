@@ -62,6 +62,9 @@ tsaanki 'to.hurry' -> tsaanki~tsaanki
 When the verbal root is reduplicated unboundedly in conjunction with an epenthetic suffix `-a~-aa`.
 
 ```
+ken 'to.walk' -> kenakena 'to.walk.around.somewhere.very.frequently'
+kin 'to.walk' -> kinakina 'to.walk.around.somewhere.very.frequently'
+
 kiv 'to.wash' -> kiva~kiva 'to.wash.a.lot' 
 
 mi 'to.jump.up-and-down' -> mia~mia 
