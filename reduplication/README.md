@@ -62,10 +62,14 @@ tsaanki 'to.hurry' -> tsaanki~tsaanki
 When the verbal root is reduplicated unboundedly in conjunction with an epenthetic suffix `-a~-aa`.
 
 ```
+kiv 'to.wash' -> kiva~kiva 'to.wash.a.lot' 
+
 mi 'to.jump.up-and-down' -> mia~mia 
 my 'to.jump.up-and-down' -> myaa~myaa
 
 nari 'to.lie.(on.the.ground' -> naria~naria 
+
+ne 'to.speak' -> nea~nea 'to.speak.a.lot' 
 
 ny 'to.see' -> nya~nya 
 ny 'to.see' -> nyaa~nyaa 
