@@ -67,6 +67,8 @@ my 'to.jump.up-and-down' -> myaa~myaa
 
 nari 'to.lie.(on.the.ground' -> naria~naria 
 
+ne 'to.speak' -> nea~nea 'to.speak.a.lot' 
+
 ny 'to.see' -> nya~nya 
 ny 'to.see' -> nyaa~nyaa 
 
