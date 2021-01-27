@@ -604,6 +604,7 @@ define VRootPRQin [
 | "[=chik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.cut (ES: cortar)]" : {chik}
 ! 
 | "[=chik+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]" : {chikachika} ! \cite{payne:axininca:81}[pag. 144]
+#@TOTREDUPCLASS02| "[=chik+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]" : {chik} ! chikachika
 | "[=chek+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {chechek}
 #@PRTLREDUPCLASS01| "[=chek+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.cut (ES: cortar)]::[=to.cut.sth.often (ES: cortar.a_cada_rato)]" : {chek} ! chechek 
 # ---------------------------------------------------------------------------
@@ -755,7 +756,9 @@ define VRootPRQin [
 # --------------------------------------------
 ! 
 | "[=hinki+INF@/EP:tz/V.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]" : {hinki}
-| "[=hinki+INF@/EP:tz/V.+tot.redup@unb.copy.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[= (ES: rodear.algo.varias.veces)]" : {hinkihinki}
+| "[=hinki+INF@/EP:tz/V.+tot.redup@unb.copy.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[=to.surround.sth.lots.of.times (ES: rodear.algo.varias.veces)]" : {hinkihinki}
+#@TOTREDUPCLASS01| "[=hinki+INF@/EP:tz/V.+tot.redup@unb.copy.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[=to.surround.sth.lots.of.times (ES: rodear.algo.varias.veces)]" : {hinki} ! hinkihinki 
+
 # --------------------------------------------
 ! 
 !| "[=hinoki][VRoot][=up]" : {hinoki}
