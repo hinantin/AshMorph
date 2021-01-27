@@ -104,6 +104,8 @@ imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep 
 When the verbal root is reduplicated unboundedly in conjunction with subject prefixes and/or a irrealis infix.
 
 ```
+atai 'to.go.up' -> natai~natai 
+
 aa 'to.take' -> naa~naa
 
 aashi 'to.make.a.group_reunion/meeting' -> naashi~naashi
