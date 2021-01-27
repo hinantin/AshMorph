@@ -80,6 +80,8 @@ my 'to.jump.up-and-down' -> myaa~myaa
 
 nari 'to.lie.(on.the.ground' -> naria~naria 
 
+nat 'to.carry.over.the.shoulder' -> natanata 'to.continue.to.carry.more-and-more' 
+
 ne 'to.speak' -> nea~nea 'to.speak.a.lot' 
 
 ny 'to.see' -> nya~nya 
@@ -144,6 +146,8 @@ tso 'to.kiss' -> nontso~nontso
    nontso 'I.wiil.kiss' -> nontso~nontso 'I.kiss.again-and-again' 
 
 naa 'to.chew' -> nonaa~nonaa
+
+na 'to.carry.over.the.shoulder' -> nona~nona 'to.continue.to.carry.more-and-more' 
 
 ook 'to.abandon' -> nooka~nooka
 
