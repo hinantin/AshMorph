@@ -28,6 +28,8 @@ In order to developed a model, we separated the lexicon entries into three class
 When the verbal root is reduplicated unboundedly on its own.
 
 ```
+hinki 'to.go.(a)round.sth.' -> hinki~hinki 'to.surround.sth.lots.of.times'
+
 kavoshi 'to.bathe' -> kavoshi~kavoshi 'to.bathe.a_lot'
 
 koma 'to.row' -> koma~koma 'to.row.a_lot'
