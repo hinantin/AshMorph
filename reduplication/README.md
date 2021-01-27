@@ -28,6 +28,8 @@ In order to developed a model, we separated the lexicon entries into three class
 When the verbal root is reduplicated unboundedly on its own.
 
 ```
+anii 'to.walk' -> aniianii 'to.walk.for_a_long_time'
+
 hinki 'to.go.(a)round.sth.' -> hinki~hinki 'to.surround.sth.lots.of.times'
 
 kavoshi 'to.bathe' -> kavoshi~kavoshi 'to.bathe.a_lot'
@@ -104,6 +106,11 @@ imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep 
 When the verbal root is reduplicated unboundedly in conjunction with subject prefixes and/or a irrealis infix.
 
 ```
+
+apii 'to.repeat' -> napii~napii 
+
+atai 'to.go.up' -> natai~natai 
+
 aa 'to.take' -> naa~naa
 
 aashi 'to.make.a.group_reunion/meeting' -> naashi~naashi
