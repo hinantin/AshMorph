@@ -263,7 +263,9 @@ define VRootPRQin [
 | "[=nat+INF@aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {nat}
 ! 
 | "[=nat+~{V:/'to.carry…':nat/}{EP:a}{V:/'to.carry…':nat/}{EP:a}+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {natanata} ! \cite{payne:axininca:81}[pag. 144]
+#@TOTREDUPCLASS02| "[=nat+~{V:/'to.carry…':nat/}{EP:a}{V:/'to.carry…':nat/}{EP:a}+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {nat} ! natanata 
 !###| "[no-][VPers][1SG.S/A+][--][=na+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {nonanona} ! @REDUP 
+#@TOTREDUPCLASS03| "[=na+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {na} ! nonanona 
 # ---------------------------------------------------
 ! 
 | "[=anaako+INF@/EP:t/aantsi.][VRoot][=to.win, to.gain (ES: ganar); (ES: adelantar, predecir)]" : {anaako}
@@ -308,6 +310,7 @@ define VRootPRQin [
 | "[=anii+INF@/EP:t/aantsi.][VRoot][=to.go; to.walk (ES: caminar, andar); to.go.down]" : {anii}
 | "[=ani+INF@/EP:t/aantsi.][VRoot][=to.go; to.walk (ES: caminar); to.go.down]" : {ani}
 | "[=anii+~{V:/'to.walk':anii/}{V:/'to.walk':anii/}+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.walk (ES: caminar, andar)]::[=to.walk.for_a_long_time]" : {aniianii}
+#@TOTREDUPCLASS01| "[=anii+~{V:/'to.walk':anii/}{V:/'to.walk':anii/}+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.walk (ES: caminar, andar)]::[=to.walk.for_a_long_time]" : {anii} ! aniianii 
 # --------------------------------------------------------------------------------  
 ! 
 | "[=aniri+~{V:/'to.walk':ani/}{REV:ri}+INF@aantsi.][VRoot][=to.go.down (ES: bajar, descender)]" : {aniri}
