@@ -28,6 +28,8 @@ In order to developed a model, we separated the lexicon entries into three class
 When the verbal root is reduplicated unboundedly on its own.
 
 ```
+hinki 'to.go.(a)round.sth.' -> hinki~hinki 'to.surround.sth.lots.of.times'
+
 kavoshi 'to.bathe' -> kavoshi~kavoshi 'to.bathe.a_lot'
 
 koma 'to.row' -> koma~koma 'to.row.a_lot'
@@ -62,10 +64,12 @@ tsaanki 'to.hurry' -> tsaanki~tsaanki
 When the verbal root is reduplicated unboundedly in conjunction with an epenthetic suffix `-a~-aa`.
 
 ```
-kant 'to.say' -> kantakant 'to.be.law' 
+chik 'to.cut' -> chika~chika 
 
-ken 'to.walk' -> kenakena 'to.walk.around.somewhere.very.frequently'
-kin 'to.walk' -> kinakina 'to.walk.around.somewhere.very.frequently'
+kant 'to.say' -> kanta~kant 'to.be.law' 
+
+ken 'to.walk' -> kena~kena 'to.walk.around.somewhere.very.frequently'
+kin 'to.walk' -> kina~kina 'to.walk.around.somewhere.very.frequently'
 
 kiv 'to.wash' -> kiva~kiva 'to.wash.a.lot' 
 
