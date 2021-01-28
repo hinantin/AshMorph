@@ -30,7 +30,7 @@ When the verbal root is reduplicated unboundedly on its own.
 ```
 amin 'to.see' -> amin~amina 'to.keep.on.looking.for.sth./sb.'
 
-anii 'to.walk' -> aniianii 'to.walk.for_a_long_time'
+anii 'to.walk' -> anii~anii 'to.walk.for_a_long_time'
 
 hinki 'to.go.(a)round.sth.' -> hinki~hinki 'to.surround.sth.lots.of.times'
 
@@ -44,9 +44,9 @@ ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
 
 oriavintsa 'to.shine.for_a_short_time' -> oriavintsa~oriavintsa 'to.shine.like.a.blinking.light' 
 
-pai 'to.be.called' -> paipai 
+pai 'to.be.called' -> pai~pai 
 
-pari 'to.fall' -> paripari 'to.fall.multiple.times (rain.drops)' 
+pari 'to.fall' -> pari~pari 'to.fall.multiple.times (rain.drops)' 
 
 sampi 'to.ask.(about.sth.)' -> sampi~sampi  
 
@@ -79,10 +79,12 @@ kiv 'to.wash' -> kiva~kiva 'to.wash.a.lot'
 
 mi 'to.jump.up-and-down' -> mia~mia 
 my 'to.jump.up-and-down' -> myaa~myaa
+miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
+imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
 
 nari 'to.lie.(on.the.ground' -> naria~naria 
 
-nat 'to.carry.over.the.shoulder' -> natanata 'to.continue.to.carry.more-and-more' 
+nat 'to.carry.over.the.shoulder' -> nata~nata 'to.continue.to.carry.more-and-more' 
 
 ne 'to.speak' -> nea~nea 'to.speak.a.lot' 
 
@@ -99,10 +101,6 @@ shitov 'to.leave' -> shitova~shitova 'to.come-and-go.constantly'
 
 tsonk 'to.finish' -> tsonka~tsonka 'to.finish.quickly'
 
-
-miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
-
-imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
 ```
 
 ###### Class 3 
@@ -143,9 +141,8 @@ tso 'to.kiss' -> nontso~nontso
                  pitso~pitso 
                  itso~itso 
                  otso~otso
-
-7) nontso / no- N= =tso / 1SG- IRR= =to.kiss / EN: 'I.will.kiss' 
-   nontso 'I.wiil.kiss' -> nontso~nontso 'I.kiss.again-and-again' 
+nontso / no- N= =tso / 1SG- IRR= =to.kiss / EN: 'I.will.kiss' 
+nontso 'I.wiil.kiss' -> nontso~nontso 'I.kiss.again-and-again' 
 
 naa 'to.chew' -> nonaa~nonaa
 
