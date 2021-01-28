@@ -122,9 +122,8 @@ ak 'to.answer.back' -> naka~naka
                        paka~paka 
                        yaka~yaka 
                        aka~aka
-
-5) naka / n- =ak -a / 1SG- =to.answer.back -EP / EN: 'I.answer.back' 
-   naka 'I.repond' -> naka~naka 'I.repond.constantly' 
+naka / n- =ak -a / 1SG- =to.answer.back -EP / EN: 'I.answer.back' 
+naka 'I.repond' -> naka~naka 'I.repond.constantly' 
 
 am 'to.bring' -> yama~yama 
 
@@ -215,9 +214,8 @@ oirink 'to.lower' -> noi~noirinka
                      poi~poirinka
                      yoi~yoirinka
                      oi~oirinka
-
-6) noirink / n- =oirink / 1SG- =to.lower / EN: 'I.descend.from.a.summit' 
-   noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again-and-again' 
+noirink / n- =oirink / 1SG- =to.lower / EN: 'I.descend.from.a.summit' 
+noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again-and-again' 
 
 ```
 
