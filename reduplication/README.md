@@ -40,7 +40,8 @@ koma 'to.row' -> koma~koma 'to.row.a_lot'
 
 kya 'to.carry.load' -> kya~kya
 
-ma 'to.do.sth.' -> pima~matero / EN:  'do.it.quickly'
+ma 'to.do.sth.' -> ma~ma
+pimamatero / EN:  'you.do.it.quickly (an order)' 
 
 oriavintsa 'to.shine.for_a_short_time' -> oriavintsa~oriavintsa 'to.shine.like.a.blinking.light' 
 
