@@ -28,6 +28,8 @@ In order to developed a model, we separated the lexicon entries into three class
 When the verbal root is reduplicated unboundedly on its own.
 
 ```
+amin 'to.see' -> amin~amina 'to.keep.on.looking.for.sth./sb.'
+
 anii 'to.walk' -> aniianii 'to.walk.for_a_long_time'
 
 hinki 'to.go.(a)round.sth.' -> hinki~hinki 'to.surround.sth.lots.of.times'
