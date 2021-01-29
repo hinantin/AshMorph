@@ -219,3 +219,10 @@ noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again
 
 ```
 
+#### Ideophone Reduplication
+
+##### Syllable reduplication
+
+##### Syntactic word reduplication
+
+
