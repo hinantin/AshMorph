@@ -3383,6 +3383,8 @@ define VRootPRQin [
 # --------------------------------------------------------------------------- 
 ! 
 # Modal verb (check) 
+# iri timakeriri jorge / ES: 'a.él.lo.engendró.Jorge, lit.: a.él.lo.trajo.a.existencia.Jorge'
+# timake otsomonte / ES: 'ella.ha.concebido.y.tiene.el.vientre.hinchado' lit.: ella.ha.traido.a.existencia.y.tiene.el.vientre.hinchado'
 | "[=tzim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)]" : {tzim}
 | "[=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth]" : {tim}
 | "[=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)]" : {tsim}
