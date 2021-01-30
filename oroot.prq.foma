@@ -412,8 +412,8 @@ define ConnRootPRQ01in [
 | "[=ovakeratatsiri][NRoot][=new (ES: nuevo)]" : {ovakeratatsiri}
 | "[=ovakerate][NRoot][=new (ES: nuevo)]" : {ovakerate}
 ! 
-| "[=yoiro][VRoot][=PERMANENT.CHARACTER.TRAIT.OF.A.BEING (ES: RASGO.PERMANENTE.DEL.CARÁCTER.DE.UN.SER)]" : {yoiro}
-| "[=noiro][VRoot][=PERMANENT.CHARACTER.TRAIT.OF.A.BEING (ES: RASGO.PERMANENTE.DEL.CARÁCTER.DE.UN.SER)]" : {noiro}
+| "[=yoiro+num@3SG][VRoot][=PERMANENT.CHARACTER.TRAIT.OF.A.BEING (ES: RASGO.PERMANENTE.DEL.CARÁCTER.DE.UN.SER)]" : {yoiro}
+| "[=noiro+num@1SG][VRoot][=PERMANENT.CHARACTER.TRAIT.OF.A.BEING (ES: RASGO.PERMANENTE.DEL.CARÁCTER.DE.UN.SER)]" : {noiro}
 ];
 
 ! As verbal/nominal suffixes 
