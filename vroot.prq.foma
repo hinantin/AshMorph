@@ -1909,7 +1909,7 @@ define VRootPRQin [
 # --------------------------------------------------------------------
 ! 
 | "[=oitsok][VRoot][=to.lay.eggs]" : {oitsok} 
-| "[=itsok][VRoot][=to.lay.eggs]" : {itsok} 
+| "[=itsok+INF@VC.][VRoot][=to.lay.eggs (ES: poner.huevos)]" : {itsok} ! insectos 
 | "[=oeyoy][VRoot][=to.lay.eggs]" : {oeyoy} 
 # --------------------------------------------------------------------
 ! 
