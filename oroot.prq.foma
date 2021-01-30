@@ -411,7 +411,9 @@ define ConnRootPRQ01in [
 | "[=oakerari][NRoot][=new, recent (ES: nuevo)]" : {oakerari} 
 | "[=ovakeratatsiri][NRoot][=new (ES: nuevo)]" : {ovakeratatsiri}
 | "[=ovakerate][NRoot][=new (ES: nuevo)]" : {ovakerate}
-
+! 
+| "[=yoiro][VRoot][=PERMANENT.CHARACTER.TRAIT.OF.A.BEING (ES: RASGO.PERMANENTE.DEL.CARÁCTER.DE.UN.SER)]" : {yoiro}
+| "[=noiro][VRoot][=PERMANENT.CHARACTER.TRAIT.OF.A.BEING (ES: RASGO.PERMANENTE.DEL.CARÁCTER.DE.UN.SER)]" : {noiro}
 ];
 
 ! As verbal/nominal suffixes 
