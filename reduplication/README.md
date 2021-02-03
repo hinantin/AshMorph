@@ -223,6 +223,12 @@ noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again
 
 ##### Syllable reduplication
 
+The syllable repetition/reduplication indicates a continuous action. 
+
+Commonly reduplicated syllables: ri, ro, ra, pi, po, mi, vi, ni 
+
+The amount of ideophones that show this characteristic is yet to be determined.
+
 ##### Syntactic word reduplication
 
 
