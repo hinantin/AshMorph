@@ -221,8 +221,9 @@ noirink 'I.descend.from.a.summit' -> noi~noirinka 'I.descend.from.a.summit.again
 
 #### Ideophones
 
-Otherwise known as whistled language. 
-Sound action words are inflected forms which portray an action, these are the only pan-Ashaninka words which may end in consonants.  
+pan-Ashaninka ideophones are otherwise known as whistled language.
+
+Ideophones are sound-action words which are inflected forms that portray an action, these are the only pan-Ashaninka words which may end in consonants.  
 
 #### Ideophone Reduplication
 
