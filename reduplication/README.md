@@ -237,4 +237,5 @@ The amount of ideophones that show this characteristic is yet to be determined.
 
 ##### Syntactic word reduplication
 
+Ideophones are reduplicated in an unbounded form not as part of the same root but separated.
 
