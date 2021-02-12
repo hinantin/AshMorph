@@ -20,7 +20,7 @@
 # finite-state approximations are designed to lessen the burden for the developer in designing reduplication rules.
 # 3: +tot.redup@unb.copy., +prtl.redup@b.copy.
 #    partial reduplication can be modeled with 1-way FSTs (e.g.: amin -> ame~mena)
-#    totsl reduplication is inadequately modeled with 1-way FSTs (e.g.: amin -> amin~amina)
+#    total reduplication is inadequately modeled with 1-way FSTs (e.g.: amin -> amin~amina)
 
 # 4: +poss@(a)ane. (nominalizer for abstract nouns formed using the infinitive suffix: -ane, -aane) 
 #    The possessed form of a nominalized verb with the infinitive suffix -(a)(g)antsi.*
