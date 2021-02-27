@@ -235,6 +235,10 @@ Commonly reduplicated syllables: ri, ro, ra, pi, po, mi, vi, ni
 
 The amount of ideophones that show this characteristic is yet to be determined.
 
+```
+sapipipi: it.describes.the.condition.of.sth.that.is.stinking   
+```
+
 ##### Syntactic word reduplication
 
 Ideophones are reduplicated in an unbounded form not as part of the same root but separated.
