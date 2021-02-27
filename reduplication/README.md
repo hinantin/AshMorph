@@ -239,3 +239,12 @@ The amount of ideophones that show this characteristic is yet to be determined.
 
 Ideophones are reduplicated in an unbounded form not as part of the same root but separated.
 
+
+```
+
+tok tok tok
+
+| "[=tok+s.redup.word@3X.][Ideo:PRQ][=running.briskly; action.of.hitting.(a.solid.substance)]" : {tok}
+
+
+```
