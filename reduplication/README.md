@@ -83,7 +83,7 @@ my 'to.jump.up-and-down' -> myaa~myaa
 miamiataantsi / =mi+tot.redup@unb.copy. -t -aantsi / =to.jump -ep -inf  \cite[p.17]{cushimariano:prel:08} 
 imiamiataeyeni / i- =mi+tot.redup@unb.copy. -t -aey -e -ni / 3m.s- =to.jump -ep -pl -real -adv / ES: 'ellos.brincan' \cite[p.17]{cushimariano:prel:08} 
 
-nari 'to.lie.(on.the.ground' -> naria~naria 
+nari 'to.lie.(on.the.ground)' -> naria~naria 
 
 nat 'to.carry.over.the.shoulder' -> nata~nata 'to.continue.to.carry.more-and-more' 
 
