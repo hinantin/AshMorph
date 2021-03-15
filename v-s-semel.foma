@@ -12,7 +12,7 @@
 # SEMEL.F 'Semelfactive'
 
 define V=S=SEMEL [
-# 3 DISAMBIGUATION VALUES: 
+# 3 DISAMBIGUATION OPTIONS: 
 # 0: SEMEL.F 
 # 1: PUNCTUAL
 # 2: RAPID 
@@ -20,7 +20,7 @@ define V=S=SEMEL [
 | "[--][-apaent][Asp][+SEMEL.F][=PUNCTUAL:once;RAPID:for.a.while,short-term]" : "@EP"[{apaent}]
 # -----------------------------------------------------
 # semeliterative (SEMEL.IT): single repetition of event/action (semel: one.time) 
-# 0 DISAMBIGUATION VALUES: 
+# 0 DISAMBIGUATION OPTIONS: 
 # 0: SEMEL.IT 
 | "[--][-apanant][Asp][+SEMEL.IT][=one.more.time,once.more]" : "@EP"[{apanant}]
 | "[--][-apan][Asp][+SEMEL.IT][=one.more.time,once.more]" : "@EP"[{apan}]
