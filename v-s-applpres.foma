@@ -1,5 +1,9 @@
 # presencial applicative 
 # derivational morpheme (VDeriv) 
+
+# ABBREVIATIONS
+# APPL.PRES presencial applicative 
+
 define V=S=APPLPRES [
   "[--][-imo+sem@company][VS][+APPL.PRES][=with.other.person, presence]" : "@EP"[{imo}]
 ];
