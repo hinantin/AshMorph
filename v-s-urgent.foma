@@ -5,7 +5,7 @@
 
 define V=S=URGENT [
 # pireketi piarentsi / p- =ir -e =keti *** piarentsi / EN: 'drink.the.manioc-beer.right.away'; ES: 'toma.el.masato.de.inmediato' 
-# 0 disambiguation OPTIONS 
+# 0 DISAMBIGUATION OPTIONS 
 # 0: URGENT 
   "[--][=keti][+URGENT][=urgency.of.an.actn. (EN: right.away, immediately; ES: de.inmediato, inmediatamente)]" : [{keti}]
 | "[--][=kete][+URGENT][=urgency.of.an.actn. (EN: right.away, immediately; ES: de.inmediato, inmediatamente)]" : [{kete}]
