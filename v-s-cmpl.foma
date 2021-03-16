@@ -5,11 +5,20 @@
 !define ADVMANNER [ [EP V=S=ADVMANNER]|[V=S=ADVMANNER] ];
                    
 # ****************************************
-                   
+
+# ABBREVIATIONS
+# ASP aspect 
+# CMPL completive 
+
 # It needs to be fixed. 
 # CMPL completive aspect (on verbs)
-# 1. it focuses on the thorough completion of an event.
-# 2. It denotes complete affectedness of the patientive argument.
+
+# MORPHOLOGICAL CATEGORY: +ASP 
+
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: it focuses on the thorough completion of an event.
+# 1: It denotes complete affectedness of the patientive argument.
+
 define V=S=CMPL [
   "[--][-ite][Asp][+CMPL][=completion.of.an.event]" : "@EP"[{ite}]
 ];
