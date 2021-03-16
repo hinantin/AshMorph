@@ -6,11 +6,12 @@
 # DEGR degree
 # DEXT desirable extremal 
 
+# MORPHOLOGICAL CATEGORY: DEGR 
 
-# 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: desirable 
+# 1: loudable 
 
-# 1) desirable 
-# 2) loudable 
 define V=S=DEXT [
   "[--][-asano][DEGR][+DEXT][=action/state.realized.to.a.very.high.degr. (EN: really)]" : "@EP"[{asano}]
 | "[--][-sano][DEGR][+DEXT][=action/state.realized.to.a.very.high.degr. (EN: really)]" : "@EP"[{sano}]
