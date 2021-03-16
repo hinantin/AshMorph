@@ -2,6 +2,14 @@
 ! mirativity MIR 
 ! bewilderment =ratya (a feeling of being perplexed and confused)
 ! Assumptive ASSUM (EN: probably, I.suppose) / "marcador de asunción"
+
+# ABBREVIATIONS
+# ASSUM assumptive
+
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: MIR 
+# 1: ASSUM 
+
 define V=S=ASSUM [
   "[=ratya+~{DEM:/'medial.b.':ra/}{EMPH:tya}][+ASSUM][=MIR (EN: bewilderment); ASSUM (EN: probably, I.suppose)]" : [{ratya}]
 ];
