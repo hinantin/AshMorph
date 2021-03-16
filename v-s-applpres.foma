@@ -4,6 +4,9 @@
 # ABBREVIATIONS
 # APPL.PRES presencial applicative 
 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: APPL.PRES 
+
 define V=S=APPLPRES [
   "[--][-imo+sem@company][VS][+APPL.PRES][=with.other.person, presence]" : "@EP"[{imo}]
 ];
