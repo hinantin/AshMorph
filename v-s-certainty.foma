@@ -2,6 +2,11 @@
 # CERTAINTY 
 # ----------------------------------------- 
 
+# ABBREVIATIONS
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: CERTAINTY 
+
 define V=S=CERTAINTY [
   "[--][=te][+CERTAINTY][=negative.affectivity]" : [{te}]
 | "[--][=teme][+CERTAINTY][=negative.affectivity]" : [{teme}]
