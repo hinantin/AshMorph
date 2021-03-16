@@ -1,13 +1,13 @@
 # Morphological category: characteristic 'CHAR'
-# Morphological values:
-# 1: reason 'REAS'/'JUSTIF' is annotated as: +CHAR@REAS.   
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: reason 'REAS'/'JUSTIF' is annotated as: +CHAR@REAS.   
 #    indicate a justification (JUSTIF): 
 #    infinitives of purpose (to explain why we do sth.) I went home to eat. / I made this video for you to learn.
 #    * the reason that 
 #    * for a reason 
 #    * for some reason 
  
-# 2: instrumentality 'INST' is annotated as:  +CHAR@INST.   
+# 1: instrumentality 'INST' is annotated as:  +CHAR@INST.   
 #    instrumental applicative 
 #    derivational morpheme (VDeriv) 
 #    -ant .. =ri / EN: "that.with.which.sb.does.sth.; sb's.tool" 
@@ -29,7 +29,7 @@
 #    inkiantyari / i- N= =ki -ant -ya =ri / ES: 'hueco.que.deja.entrar.el.agua.y.los.peces' 
 #    itsivacantari oorya / itsivakantari oorya / i- =tsivak -ant -a =ri *** =oorya / ES: 'eclipse/cuando.el.sol.se.oscurecio; lit.: su.apagón.del.sol' 
 
-# 3: In case more than one is needed: -ant+CHAR@REAS;INST.
+# 0-1: In case more than one is needed: -ant+CHAR@REAS;INST.
 
 define V=S=APPLREAS [
   "[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]" : "@EP"[{ant}]
