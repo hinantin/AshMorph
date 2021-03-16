@@ -5,6 +5,8 @@
 # to indicate intent 
 # exclusive with reflexive -a/-aa 
 # purpusive: action.done.with.some.purpose.in.view 
+# 0 DISAMBIGUATION OPTIONS 
+# 0: APPL.INT 
 define V=S=APPLINT [
   "[--][-ashi][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{ashi}]
 | "[--][-shi+~{L.DEL:a}{APPL.INT:ashi}][+APPL.INT][=purpose,(with.the).intent]" : "@EP"[{shi}]
