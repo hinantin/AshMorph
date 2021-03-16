@@ -1,4 +1,7 @@
 ! referencial applicative 
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+
 define V=S=APPLREF [
   "[--][-imen][+APPL.REF][=concerning, relative.to, because.of]" : "@EP"[{imen}] 
 | "[--][-iment][+APPL.REF][=concerning, relative.to, because.of]" : "@EP"[{iment}] 
