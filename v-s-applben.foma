@@ -2,6 +2,12 @@
 # BENEFACTIVE APPLICATIVE 
 # ------------------------------------
 
+# ABBREVIATIONS 
+# APPL.INT benefactive applicative 
+
+# 0 DISAMBIGUATION OPTIONS 
+# 0: APPL.BEN 
+
 define V=S=APPLBEN [
 # okimoshirebentakero oshinto / okimoshireventakero oshinto / o- =kimoshire -vent -ak -e =ro *** o- =shinto / ES: 'está.muy.orgullosa.por.su.hija' 
   "[--][-vint][+APPL.BEN][=action.done.for.sb.else]" : "@EP"[{vint}]
