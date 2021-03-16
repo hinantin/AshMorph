@@ -5,6 +5,10 @@
 # to indicate intent 
 # exclusive with reflexive -a/-aa 
 # purpusive: action.done.with.some.purpose.in.view 
+
+# ABBREVIATIONS 
+# APPL.INT applicative of intent
+
 # 0 DISAMBIGUATION OPTIONS 
 # 0: APPL.INT 
 define V=S=APPLINT [
