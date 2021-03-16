@@ -1,3 +1,13 @@
+# ABBREVIATIONS
+# DEGR degree
+# AUG augmentative 
+
+# MORPHOLOGICAL CATEGORY: +DEGR
+
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: AUG 
+# 1: VERITY 
+
 define V=S=AUG=SET1 [
 # Intensifier 
   "[--][-piro][DEGR][+AUG][=VERITY:indeed, truly]" : "@EP"[{piro}]
