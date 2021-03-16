@@ -9,7 +9,7 @@
 # ABBREVIATIONS 
 # APPL.INT applicative of intent
 
-# 0 DISAMBIGUATION OPTIONS 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
 # 0: APPL.INT 
 define V=S=APPLINT [
   "[--][-ashi][+APPL.INT][=action.done.with.the/some.intent/purpose.in.view]" : "@EP"[{ashi}]
