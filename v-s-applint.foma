@@ -12,8 +12,8 @@
 # 0 DISAMBIGUATION OPTIONS 
 # 0: APPL.INT 
 define V=S=APPLINT [
-  "[--][-ashi][+APPL.INT][=action.done.(with.the).intent/purpose.in.view]" : "@EP"[{ashi}]
-| "[--][-shi+~{L.DEL:a}{APPL.INT:ashi}][+APPL.INT][=action.done.(with.the).intent/purpose.in.view]" : "@EP"[{shi}]
+  "[--][-ashi][+APPL.INT][=action.done.with.the/some.intent/purpose.in.view]" : "@EP"[{ashi}]
+| "[--][-shi+~{L.DEL:a}{APPL.INT:ashi}][+APPL.INT][=action.done.with.the/some.intent/purpose.in.view]" : "@EP"[{shi}]
 ];
                    
 define APPLINT [ [EP V=S=APPLINT]|[V=S=APPLINT] ];
