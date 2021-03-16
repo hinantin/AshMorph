@@ -1,3 +1,6 @@
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: DEGREE
+
 define V=S=DEGREE [
   "[--][=ki][+DEGREE][=excessive.degree]" : "@EP"[{ki}]
 ];
