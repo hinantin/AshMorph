@@ -9,8 +9,8 @@
 # MORPHOLOGICAL CATEGORY: DEGR 
 
 # 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
-# 0: desirable 
-# 1: loudable 
+# 0: DESIRABLE 
+# 1: LOUDABLE 
 
 define V=S=DEXT [
   "[--][-asano][DEGR][+DEXT][=action/state.realized.to.a.very.high.degr. (EN: really)]" : "@EP"[{asano}]
