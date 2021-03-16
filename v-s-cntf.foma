@@ -8,6 +8,10 @@
 # CNT.F counter factual 
 # SUBJ subjunctive 
 
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: CNT.F 
+# 1: SUBJ 
+
 define V=S=CNTF [
   "[--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]" : [{mi}]
 | "[--][=me][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]" : [{me}]
