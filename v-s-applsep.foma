@@ -1,5 +1,10 @@
 # derivational morpheme (VDeriv) 
 # referential (RFR) 
+
+# ABBREVIATIONS
+# RFR referential
+# APPL.SEP separative applicative 
+
 define V=S=APPLSEP [
   "[--][-pitsa][VS][+APPL.SEP][=separative; RFR: actn.done.with.reference_to/around.sb.else]" : "@EP"[{pitsa}]
 | "[--][-apitsa][VS][+APPL.SEP][=separative; RFR: actn.done.with.reference_to/around.sb.else]" : "@EP"[{apitsa}]
