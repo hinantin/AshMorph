@@ -18,13 +18,19 @@ define V=S=DIR=SET1 [
   "[--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]" : "@EP"[{av}] 
 | "[--][-aav+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]" : "@EP"[{aav}] 
 ];
-                   
+
+# ABBREVIATIONS
+# INCH inchoative 
+# INCEP inceptive
+
 define V=S=DIR=SET2 [
-# ablative case
-# 1) inchoative (INCH): beginning of a new state.
+# ablative case 
+# 4 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: DIR 
+# 1: inchoative (INCH): beginning of a new state.
 # Pintsatero parenti irakanaketa. / pi- N= =tsa -t -e =ro ** =parenti ** =irak -an -ak -e =ta / ** =plantain ** =to.ripen -dir[inch] -prf -irr -opt / EN: 'hang.the.bananas.so.that.they.ripen'; ES: 'Cuelga los plátanos para que maduren' 
-# 2) inceptive (INCEP): beginning of a new action.
-# 3) continuing action in a series of the actor's activities.
+# 2: inceptive (INCEP): beginning of a new action.
+# 3: continuing action in a series of the actor's activities.
   "[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]" : "@EP"[{an}] 
 ];
                    
