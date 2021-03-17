@@ -5,6 +5,9 @@
 # ABBREVIATIONS
 # DIST distributive 
 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: DIST 
+
 define V=S=DIST=SET1 [
   "[--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]" : "@EP"[{ye}]
 | "[--][-yee][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]" : "@EP"[{yee}]
