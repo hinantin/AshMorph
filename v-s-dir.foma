@@ -6,6 +6,8 @@
 
 # ABBREVIATIONS
 # RCVG receiving 
+# OPP opposite
+# DIR directional
 
 define V=S=DIR=SET1 [
 # receiving (RCVG) 
@@ -13,7 +15,6 @@ define V=S=DIR=SET1 [
 # 0: DIR
 # 1: OPP
 # 2: RCVG
-
   "[--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]" : "@EP"[{av}] 
 | "[--][-aav+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]" : "@EP"[{aav}] 
 ];
