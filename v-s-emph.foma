@@ -1,16 +1,17 @@
 # MORPHOLOGICAL CATEGORY: MODAL
 
-# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
-# 0: EMPH
-# 1: 
-
 define V=S=EMPH [
 # tya: urgency, impatience, surprise, exasperation 
 # aritya / =ari -tya / =PP -EMPH /  
-  "[--][=tya][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: EMPH
+# 1: 
+"[--][=tya][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tya}]
 | "[--][=tyaa][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tyaa}]
 | "[--][=tea][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]" : [{tea}]
 ! 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: EMPH
 # Assertive 
 | "[--][=kya][MODAL][+EMPH]" : [{kya}]
 | "[--][=kia][MODAL][+EMPH]" : [{kia}]
@@ -19,13 +20,21 @@ define V=S=EMPH [
 # -------------------------- 
 # FURY 
 # -------------------------- 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: EMPH
 | "[--][=poo][+EMPH][=extreme.emotional.state]" : "@EP"[{poo}]
 | "[--][=po][+EMPH][=extreme.emotional.state]" : "@EP"[{po}]
 ! 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: EMPH
 | "[--][=ha][+EMPH][=contradictory.emphasis]" : "@EP"[{ha}]
 ! 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: EMPH
 | "[--][=tzi][+EMPH]" : "@EP"[{tzi}]
 ! 
 ! ñ-ak-e-ro=sa / EN: 'you will see it' 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: EMPH
 | "[--][=sa][+EMPH]" : "@EP"[{sa}]
 ];
