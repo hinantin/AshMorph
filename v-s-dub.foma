@@ -1,3 +1,8 @@
+# MORPHOLOGICAL CATEGORY: MODAL
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: DUB
+
 define V=S=DUB [
   "[--][=ma][MODAL][+DUB][=maybe; sb.might.do.sth.]" : [{ma}] ! +evidential 
 | "[--][=mpa][MODAL][+DUB][=maybe; sb.might.do.sth.]" : [{mpa}] ! +evidential 
