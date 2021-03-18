@@ -9,11 +9,11 @@
 !/ EN: "I'm.going.to.hunt"; ES: 'yo.voy.a.cazar'  
 ! 
 
-# MORPHOLOGICAL CATEGORY: DUR
+# MORPHOLOGICAL CATEGORY: ASP
 
 # 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
-# 0: 
-# 1: 
+# 0: DUR-0 
+# 1: DUR-1 
 
 define V=S=DUR [
   "[--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]" : "@EP"[{vai}] 
