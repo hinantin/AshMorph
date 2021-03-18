@@ -22,7 +22,7 @@ define V=S=DUR [
 | "[--][-vei][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]" : "@EP"[{vei}] 
 ! Rio Envira, Rio Breu e Rio Amônea
 ! Owashiriwayta / Ovashirivayta / 
-#| "[--][-vai~vay][ASP][+DUR][=action/state..endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]" : "@EP"[{vay}] 
+#| "[--][-vai+allomorph@vay.][ASP][+DUR][=action/state..endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]" : "@EP"[{vay}] 
 ];
                    
 define DUR [ [EP V=S=DUR]|[V=S=DUR] ];
