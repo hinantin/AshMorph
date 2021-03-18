@@ -1,3 +1,9 @@
+# MORPHOLOGICAL CATEGORY: ASP 
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: HAB
+# 1: CUST
+
 define V=S=HAB [
   "[--][-apin][Asp][+HAB_CUST][=always]" : "@EP"[{apin}] 
 | "[--][-apiin][Asp][+HAB_CUST][=always]" : "@EP"[{apiin}] 
