@@ -2,6 +2,11 @@
 # TIME.MODAL 
 # ------------------
 
+# MORPHOLOGICAL CATEGORY: ADV
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: TIME.MODAL 
+
 define V=S=EARLY [ 
   "[--][-aman][ADV][+TIME.MODAL][=early]" : "@EP"[{aman}]
 | "[--][-man+~{R.DEL:a}{ADV:/'early':aman/}][ADV][+TIME.MODAL][=early]" : "@EP"[{man}] 
