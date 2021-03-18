@@ -8,8 +8,8 @@
 # Manner suffix 
 # *action/state* that was in some respect unsuccessful/interrupted, 
 # the expected sequel to the *action* failed to obtain.
-# 1. with no response 
-# 2. without finishing 
+# 0: with no response 
+# 1: without finishing 
 define V=S=FRUS [
   "[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]" : "@EP"[{ve}]
 | "[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]" : "@EP"[{vi}]
