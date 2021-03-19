@@ -1,3 +1,8 @@
+# MORPHOLOGICAL CATEGORY: 
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: ICPL
+
 # incompletive/circumstantial 
 define V=S=ICPL [
   "[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]" : "@EP"[{it}]
