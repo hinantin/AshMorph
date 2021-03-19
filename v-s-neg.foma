@@ -2,6 +2,13 @@
 # NEGATIVE 
 # -------------------------
 
+# ABBREVIATIONS
+# tns tense 
+# fut future 
+# NEG negative
+# IRR irrealis
+# REAL realis
+
 define V=S=NEG [
 # ero paminavaitzitzi / =ero *** p- =amin -a -vai -tz -i -tzi / =neg.irr *** 2a- =to.look -ep -dur -ep -real -neg / EN: "don't.look" 
   "[--][=tsi+tns@fut.][+NEG][=IRR]" : [{tsi}] 
