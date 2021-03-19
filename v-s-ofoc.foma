@@ -5,7 +5,10 @@
 # FOCUS 
 # ‘emphatic enclitic’ 
 # O focus marker?
-# FOCUSED OBJECT (O.FOC) 
+
+# ABBREVIATIONS
+# O.FOC FOCUSED OBJECT
+
 define V=S=OFOC [
   "[--][=kya][MODAL][+O.FOC]" : [{kya}] 
 | "[--][=kia][MODAL][+O.FOC]" : [{kia}] 
