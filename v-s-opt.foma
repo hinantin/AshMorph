@@ -8,6 +8,10 @@
 # CONTG.ACTN contingent action 
 # HYPOTH.ACTN hypothetical action 
 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: CONTG.ACTN 
+# 1: HYPOTH.ACTN 
+
 # subjunctive clausal enclitic 
 # SUBJUNCT, SUBJ  
 # contingent action: contingent (on/upon something) (formal) depending on something that may or may not happen
