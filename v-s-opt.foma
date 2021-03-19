@@ -15,6 +15,6 @@
 # ES: 'urgente, inminente' 
 # apaata(tsita) / EN: 'wait!' 
 define V=S=OPT [
-  "[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&.imagined.rather.than.real.&.true]" : [{ta}]
-| "[--][=tsita][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&.imagined.rather.than.real.&.true]" : [{tsita}]
+  "[--][=ta][MODAL][+OPT_SUBJ][CONTG.ACTN: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH.ACTN: actn.that.is.possible.&.imagined.rather.than.real.&.true]" : [{ta}]
+| "[--][=tsita][MODAL][+OPT_SUBJ][CONTG.ACTN: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH.ACTN: actn.that.is.possible.&.imagined.rather.than.real.&.true]" : [{tsita}]
 ];
