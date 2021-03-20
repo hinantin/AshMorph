@@ -4,6 +4,11 @@
 # INTR intransitive 
 # TR transitive
 
+# 3 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0:
+# 1: 
+# 2: 
+
 define V=S=PL=SET1 [
   "[--][-he][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]" : "@EP"[{he}] 
 | "[--][-hei][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]" : "@EP"[{hei}] 
