@@ -19,6 +19,9 @@ define V=S=PL=SET1 [
 
 define PL=SET1 [ [EP V=S=PL=SET1]|[V=S=PL=SET1] ];
 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: PL
+
 define V=S=PL=SET2=1 [
 # ichiki / i- =chik -i / 3m.s- =to.cut -real / EN: 'he cut'
 # ichikaiyini / i- =chik -aiy -i -ni / 3m.s- =to.cut -pl -real -pl+circumfixing / EN: 'they cut'
@@ -28,6 +31,10 @@ define V=S=PL=SET2=1 [
 ];
 
 # According to the sample text corpus, this set doesn't use the epenthetic rules but contraction rules VOWEL+ey/+iy 
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: PL
+
 define V=S=PL=SET2=2 [
 # Contraction process * more rules need to be added 
 # tsirenitakoiyanakini / =tsireni -t -ako -iy -an -ak -i -ni /  
