@@ -25,6 +25,10 @@
 # tyantsi -> notyanipaye / no- =ty -ani -paye / EN: 'my.woven.fabric(s)'; ES: 'mis.tejidos' 
 
 # INTNS or EP ?
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: POSS.IND 
+
 define V=S=POSSIND [
   "[--][-ane~{INTNS:a}{aln.poss.:ne}][NS][+POSS.IND]" : "@EP"[{ane}] 
 | "[--][-ani~{INTNS:a}{aln.poss.:ni}][NS][+POSS.IND]" : "@EP"[{ani}] 
