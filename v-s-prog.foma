@@ -2,6 +2,15 @@
 # PROGRESSIVE  
 # ------------------
 
+# ABBREVIATIONS
+# PROG progressive
+# FUT future progressive
+
+# MORPHOLOGICAL CATEGORY: characteristic 'ASP'
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: PROG 
+# 1: FUT 
+
 define V=S=PROG=SET1 [
   "[--][-atzi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]" : "@EP"[{atzi}] 
 | "[--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]" : "@EP"[{atsi}] 

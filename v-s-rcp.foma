@@ -4,6 +4,12 @@
 # TAGS: RECIP, RCP 
 # Wise (1990:596) splits the reciprocal marker into -av ‘reciprocal’ + -aka ‘causative’ in the gloss of an Asheninka example.
 
+# ABBREVIATIONS
+# RECIP reciprocal 
+# RCP reciprocal 
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+
 define V=S=RCP [
 # ikaimavakaaka / i- =kaim -av -ak -aak -a / 3m.s- =to.call -rcp -caus.soc -prf -real / EN: 'they.called.to.each.other'  
   "[--][-av][+RCP]" : "@EP"[{av}]
