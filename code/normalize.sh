@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+#set -x
 
 ########################################################
 ## ADAPT THESE PATH DECLARATIONS TO YOUR INSTALLATION ##
@@ -12,12 +12,12 @@ set -x
 #export TMP_DIR=/tmp
 #export SEGMENTER=/home/hinantin/ashaninka/AshaninkaMorph/segmentation
 #export MOSES=/home/hinantin/ashaninka/mosesdecoder
-export ASHANINKAMORPH_DIR=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/AshaninkaMorph
-export WAPITI=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/normalizertools/Wapiti/wapiti
-export LOOKUP_DIR=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/bin
-export TMP_DIR=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/normalizertools/tmp
-export SEGMENTER=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/AshaninkaMorph/code
-export MOSES=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/normalizertools/mosesdecoder
+export ASHANINKAMORPH_DIR=/home/richard/Downloads/AshMorph
+export WAPITI=/home/richard/Downloads/Wapiti/wapiti
+export LOOKUP_DIR=/home/richard/Downloads/bin
+export TMP_DIR=/tmp
+export SEGMENTER=/home/richard/Downloads/AshMorph/code
+export MOSES=/home/richard/Downloads/mosesdecoder
 ## Models to disambiguate words
 MORPH1_MODEL=$SEGMENTER/models/pan-ashaninka.model
 MORPH2_MODEL=$SEGMENTER/models/pan-ashaninka.model2
