@@ -6,12 +6,18 @@ set -x
 ########################################################
 
 # path to the compiled xfst analyzers, either from the git repository, or the package AshaninkaMorph from https://github.com/hinantin/AshaninkaMorph
-export ASHANINKAMORPH_DIR=/home/hinantin/ashaninka/AshaninkaMorph
-export WAPITI=/home/hinantin/ashaninka/Wapiti/wapiti
-export LOOKUP_DIR=/usr/bin
-export TMP_DIR=/tmp
-export SEGMENTER=/home/hinantin/ashaninka/AshaninkaMorph/segmentation
-export MOSES=/home/hinantin/ashaninka/mosesdecoder
+#export ASHANINKAMORPH_DIR=/home/hinantin/ashaninka/AshaninkaMorph
+#export WAPITI=/home/hinantin/ashaninka/Wapiti/wapiti
+#export LOOKUP_DIR=/usr/bin
+#export TMP_DIR=/tmp
+#export SEGMENTER=/home/hinantin/ashaninka/AshaninkaMorph/segmentation
+#export MOSES=/home/hinantin/ashaninka/mosesdecoder
+export ASHANINKAMORPH_DIR=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/AshaninkaMorph
+export WAPITI=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/normalizertools/Wapiti/wapiti
+export LOOKUP_DIR=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/bin
+export TMP_DIR=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/normalizertools/tmp
+export SEGMENTER=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/AshaninkaMorph/code
+export MOSES=/cygdrive/c/Users/rcastro/Documents/RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/normalizertools/mosesdecoder
 ## Models to disambiguate words
 MORPH1_MODEL=$SEGMENTER/models/pan-ashaninka.model
 MORPH2_MODEL=$SEGMENTER/models/pan-ashaninka.model2
@@ -69,9 +75,9 @@ $WAPITI label -m $MORPH4_MODEL $TMP_DIR/$TMPFILENAME.morph4.test > $TMP_DIR/$TMP
 
 /usr/bin/perl $SEGMENTER/xfst2wapiti_morphTest.pl -4 $TMP_DIR/$TMPFILENAME.morph4.result > $TMP_DIR/$filename_no_ext.disamb.xfst
 
-# (3) Morfessor before|after
-# convert xfst to morfessor
-cat $TMP_DIR/$filename_no_ext.disamb.xfst | /usr/bin/perl $SEGMENTER/xfst2morfessor.pl ##> $TMP_DIR/$filename_no_ext.morfessor
+# (3) Plain text before|after
+# convert xfst to plain text
+cat $TMP_DIR/$filename_no_ext.disamb.xfst | /usr/bin/perl $SEGMENTER/xfst2plaintext.pl ##> $TMP_DIR/$filename_no_ext.morfessor
 
 # Deleting temporary files 
 rm -f $TMP_DIR/$filename_no_ext.tok $TMP_DIR/$filename_no_ext.EOS.tok $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst $TMP_DIR/$TMPFILENAME.pos.test $TMP_DIR/$TMPFILENAME.morph1.result $TMP_DIR/$TMPFILENAME.morph2.test $TMP_DIR/$TMPFILENAME.morph2.result $TMP_DIR/$TMPFILENAME.morph3.test $TMP_DIR/$TMPFILENAME.morph3.result $TMP_DIR/$TMPFILENAME.morph4.test $TMP_DIR/$TMPFILENAME.morph4.result $TMP_DIR/$filename_no_ext.disamb.xfst /tmp/words1 /tmp/words2 /tmp/words3 /tmp/prevdisambMorph1 /tmp/totalAmbigForms 
