@@ -30,7 +30,7 @@ if ((not defined $stdin) and (not defined $file)) {
 }
 
 my $text;
-my $buffsize = 16384;
+my $buffsize = 300000;
 
 if (defined $stdin) {
   while(<>){
