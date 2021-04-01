@@ -1,7 +1,0 @@
-source ../orthography.foma
-
-read regex Orthography;
-
-save stack orthography.fst
-
-
