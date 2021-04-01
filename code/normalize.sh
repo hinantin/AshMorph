@@ -14,7 +14,7 @@
 #export MOSES=/home/hinantin/ashaninka/mosesdecoder
 export ASHANINKAMORPH_DIR=/home/richard/Downloads/AshMorph
 export WAPITI=/home/richard/Downloads/Wapiti/wapiti
-export LOOKUP_DIR=/home/richard/Downloads/bin
+export LOOKUP_DIR=/home/richard/Downloads/foma/foma
 export TMP_DIR=/tmp
 export SEGMENTER=/home/richard/Downloads/AshMorph/code
 export MOSES=/home/richard/Downloads/mosesdecoder
@@ -35,7 +35,7 @@ TMPFILENAME=TMPNM$filename_no_ext
 # (1) XFST 
 /usr/bin/perl $MOSES/scripts/tokenizer/tokenizer.perl -l en < $RAW_FILE > $TMP_DIR/$filename_no_ext.tok
 /bin/sed 's/.*/& #EOS/' $TMP_DIR/$filename_no_ext.tok > $TMP_DIR/$filename_no_ext.EOS.tok
-cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/lookup $ASHANINKAMORPH_DIR/asheninka.bin -flags cKv29TT > $TMP_DIR/$filename_no_ext.test.xfst
+cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/flookup $ASHANINKAMORPH_DIR/asheninka.bin > $TMP_DIR/$filename_no_ext.test.xfst
 
 # (2) CRF before|after
 cp $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst
