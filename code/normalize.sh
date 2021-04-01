@@ -35,8 +35,9 @@ TMPFILENAME=TMPNM$filename_no_ext
 # (1) XFST 
 /usr/bin/perl $MOSES/scripts/tokenizer/tokenizer.perl -l en < $RAW_FILE > $TMP_DIR/$filename_no_ext.tok
 /bin/sed 's/.*/& #EOS/' $TMP_DIR/$filename_no_ext.tok > $TMP_DIR/$filename_no_ext.EOS.tok
-cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/flookup $ASHANINKAMORPH_DIR/asheninka.bin > $TMP_DIR/$filename_no_ext.test.xfst
-
+#cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/flookup $ASHANINKAMORPH_DIR/asheninka.bin > $TMP_DIR/$filename_no_ext.test.xfst
+cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | perl $SEGMENTER/fomaClient.pl -P 8981 -H localhost --stdin > $TMP_DIR/$filename_no_ext.test.xfst 
+cat $TMP_DIR/$filename_no_ext.test.xfst 
 # (2) CRF before|after
 cp $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst
 cat $TMP_DIR/$filename_no_ext.test.xfst | /usr/bin/perl $SEGMENTER/xfst2wapiti_pos.pl -test > $TMP_DIR/$TMPFILENAME.pos.test
