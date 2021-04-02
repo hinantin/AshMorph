@@ -63,11 +63,11 @@ $response =~ s/(@@)//;
 if (defined $outputfile) {
   # appending response to file 
   open(my $fh, '>>', $outputfile) or die "Could not open file '$outputfile' $!";
-  say $fh "$response";
+  say $fh "$response\n";
   close $fh;
 }
 else {
-  print STDOUT "$response";
+  print STDOUT "$response\n";
 }
 
 $socket->close();
