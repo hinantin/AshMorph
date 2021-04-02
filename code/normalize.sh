@@ -37,7 +37,7 @@ TMPFILENAME=TMPNM$filename_no_ext
 /bin/sed 's/.*/& #EOS/' $TMP_DIR/$filename_no_ext.tok > $TMP_DIR/$filename_no_ext.EOS.tok
 #cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/flookup $ASHANINKAMORPH_DIR/asheninka.bin > $TMP_DIR/$filename_no_ext.test.xfst
 cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | perl $SEGMENTER/fomaClient.pl -P 8981 -H localhost --stdin > $TMP_DIR/$filename_no_ext.test.xfst 
-tail $TMP_DIR/$filename_no_ext.test.xfst 
+#tail $TMP_DIR/$filename_no_ext.test.xfst 
 # (2) CRF before|after
 cp $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst
 cat $TMP_DIR/$filename_no_ext.test.xfst | /usr/bin/perl $SEGMENTER/xfst2wapiti_pos.pl -test > $TMP_DIR/$TMPFILENAME.pos.test
@@ -79,6 +79,6 @@ $WAPITI label -m $MORPH4_MODEL $TMP_DIR/$TMPFILENAME.morph4.test > $TMP_DIR/$TMP
 # (3) Plain text before|after
 # convert xfst to plain text
 cat $TMP_DIR/$filename_no_ext.disamb.xfst | /usr/bin/perl $SEGMENTER/xfst2plaintext.pl ##> $TMP_DIR/$filename_no_ext.morfessor
-
+tail $TMP_DIR/$filename_no_ext.disamb.xfst 
 # Deleting temporary files 
 rm -f $TMP_DIR/$filename_no_ext.tok $TMP_DIR/$filename_no_ext.EOS.tok $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst $TMP_DIR/$TMPFILENAME.pos.test $TMP_DIR/$TMPFILENAME.morph1.result $TMP_DIR/$TMPFILENAME.morph2.test $TMP_DIR/$TMPFILENAME.morph2.result $TMP_DIR/$TMPFILENAME.morph3.test $TMP_DIR/$TMPFILENAME.morph3.result $TMP_DIR/$TMPFILENAME.morph4.test $TMP_DIR/$TMPFILENAME.morph4.result $TMP_DIR/$filename_no_ext.disamb.xfst /tmp/words1 /tmp/words2 /tmp/words3 /tmp/prevdisambMorph1 /tmp/totalAmbigForms 
