@@ -58,7 +58,8 @@ shutdown($socket, 1);
 # receive a response of up to 1024 characters from server
 my $response = "";
 $socket->recv($response, $buffsize);
-
+$response =~ s/(PHONPROC)//;
+$response =~ s/(@@)//;
 if (defined $outputfile) {
   # appending response to file 
   open(my $fh, '>>', $outputfile) or die "Could not open file '$outputfile' $!";
