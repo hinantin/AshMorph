@@ -1,11 +1,13 @@
 ### INSTALLATION
 
 ```
+$ sudo cpan install Config::IniFiles
+
 $ wget https://web.stanford.edu/~laurik/.book2software/fsmbook-software/linux64/bin.tar.gz
 $ tar -zxvf bin.tar.gz
 
-$ git clone https://github.com/hinantin/AshaninkaMorph
-$ cd AshaninkaMorph/
+$ git clone https://github.com/hinantin/AshMorph
+$ cd AshMorph/
 $ ../bin/xfst -f asheninka.script
 $ cd ..
 
