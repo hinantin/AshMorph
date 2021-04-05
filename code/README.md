@@ -2,6 +2,8 @@
 
 ```
 $ sudo cpan install Config::IniFiles
+# change the max file descriptors number
+$ ulimit -n 120000
 
 $ wget https://web.stanford.edu/~laurik/.book2software/fsmbook-software/linux64/bin.tar.gz
 $ tar -zxvf bin.tar.gz
