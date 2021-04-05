@@ -47,7 +47,10 @@ define PL=SET2 [ [EP V=S=PL=SET2=1]|[V=S=PL=SET2=1]|[V=S=PL=SET2=2] ];
 define PL [ [EP V=S=PL=SET1]|[V=S=PL=SET1]|[EP V=S=PL=SET2=1]|[V=S=PL=SET2=1]|[V=S=PL=SET2=2] ];
                    
 # ****************************************
-                   
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: PL
+
 define V=S=PLcircumfixing [
   "[--][-ni+circumfix@/PL:aiy/;/PL:iy/.][+PL]" : [{ni}]
 | "[--][-ne+circumfix@/PL:aiy/;/PL:iy/.][+PL]" : [{ne}]
