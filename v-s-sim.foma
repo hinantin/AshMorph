@@ -1,8 +1,11 @@
 # simulative suffix 
 # Indicates feigned/simulated action.
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+
 define V=S=SIM [
-  "[--][-amampe][+SIM]" : "@EP"[{amampe}] 
-| "[--][-amampi][+SIM]" : "@EP"[{amampi}] 
+  "[--][-amampe][+SIM][=feigned/simulated.action]" : "@EP"[{amampe}] 
+| "[--][-amampi][+SIM][=feigned/simulated.action]" : "@EP"[{amampi}] 
 ];
                    
 define SIM [ [EP V=S=SIM]|[V=S=SIM] ];
