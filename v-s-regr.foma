@@ -2,6 +2,10 @@
 # REGRESSIVE   
 # --------------------------------
 
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: REGR 
+# 1: TERM
+
 ! I am taking Aspect instead of Cas as it is an analysis made specifically for Ashaninka.
 ! It specifies an event as a whole, that may be: 
 ! resolved.(event): finality-and-closure, once-and-for.all 
