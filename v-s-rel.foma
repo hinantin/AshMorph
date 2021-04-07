@@ -2,6 +2,9 @@
 # NOMINALIZATION/RELATIVIZATION MARKERS
 # --------------------------------------
 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 
+
 define V=S=REL [
   "[--][=ri+tns@n.fut.][NS][+REL][=REAL]" : [{ri}] 
 # -----------------------------------------------
