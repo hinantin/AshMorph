@@ -1,3 +1,5 @@
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+
 define N=S=ABS [
   "[--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]" : "@NPOSS"[{tsi}] 
 | "[--][-tzi+poss@alien.+syl@mono;di.][Gen][+nposs]" : "@NPOSS"[{tzi}] 
