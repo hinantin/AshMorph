@@ -1,6 +1,11 @@
 # --------------------------------
 # LOCATIVE 
 # --------------------------------
+
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: LOC
+# 1: LOC.T
+
 define N=S=LOC [
 # case-marking 
 # LOC (spatial): in, at, on, to, by, and with 
