@@ -1,8 +1,9 @@
 # ---------------------------------------
 # NOMINAL TEMPORAL
 # ---------------------------------------
+
 # GENERIC ANTERIOR / RECENT PAST 
-# 1: +TP.PREC.: temporal.precedence (in.a.past.context) --> +precedence 
+# 0: +TP.PREC.: temporal.precedence (in.a.past.context) --> +precedence 
 #    also known as ADV.P adverbial past
 #    also known as ADV.T adverbio.de.tiempo/duración EN: adverb.of.time/duration
 #    savadoranki / =savado -ranki+tp.prec. / =Saturday -ADV / EN: 'last.Saturday', ES: 'el.último.sábado' 
@@ -10,17 +11,17 @@
 #    sheeteniranki / =sheeteni -ranki+tp.prec. / =day -ADV / EN: 'yesterday; time.prior.to.today' 
 #    oonkaranki / =oonka -ranki+tp.prec. / =flood -ADV / EN: 'flood.which.took.place.prior.to.a.certain.moment.in.the.past' 
 
-# 2: +CHG.ST.: change.of.state (in.a.past.context) --> +state.chg.
+# 1: +CHG.ST.: change.of.state (in.a.past.context) --> +state.chg.
 #    kampanaranki / =kampana -ranki+chg.st. / =church -ADV / EN: 'abandoned.church'; ES: 'iglesia.abandonada' 
 #    avaniranki / a- =va -ni -ranki+chg.st. / 1pl.poss- =sown.plot.of.land -aln.poss. -adv.p_t / EN: 'our.land.that.has.not.been.in.use/has.not.been.cultivated'; ES: 'nuestra.chacra.abandonada'  
 #    pankotsiranki / =panko -tsi -ranki+chg.st. / =house -nposs -ADV / EN: 'abandoned.house'  
 #    - the house deserted after an adult person died in it and was buried inside in a shallow grave. (now corpses are buried in a nearby cemetery) 
 
-# 3: +ABSNT.: absent.in.the.speaker's.environment.at.the.present (in.a.non-past.context) / +s-t.: spatial-temporal.sense  --> +absent
+# 2: +ABSNT.: absent.in.the.speaker's.environment.at.the.present (in.a.non-past.context) / +s-t.: spatial-temporal.sense  --> +absent
 #    notomiranki / no- =tomi -ranki+absnt. / 1sg.poss- =son -ADV / EN: 'my.son.who.is.absent.at.the.present.moment' 
 
-# (4*) +INVIS.: invisible 
-# 5: +RCG.: recognitional
+# 3*: +INVIS.: invisible 
+# 4: +RCG.: recognitional
 #    +RCG.DEM. demonstrative - discourse-new-but-hearer-old.object  
 #    shiy 'be.like' / kimi 'be like, seem' ... =ranki 
 #    +RCG.REL.: relativizer DEM 
