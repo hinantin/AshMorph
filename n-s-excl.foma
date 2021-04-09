@@ -1,4 +1,5 @@
 # 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: EXCL
 
 define N=S=EXCL [
   "[--][=ve][+EXCL][=exclaiming,announcing]" : {ve}
