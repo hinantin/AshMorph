@@ -2,6 +2,8 @@
 # DUBITATIVE 
 # ----------------------------------
 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+
 define N=S=DUB [
   "[--][-ma][+DUB]" : [{ma}] 
 | "[--][-mpa][+DUB]" : [{mpa}] 
