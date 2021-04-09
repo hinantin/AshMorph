@@ -2,6 +2,10 @@
 # TEMPORAL EXISTENCIAL 
 # --------------------------------
 
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: CEASED.EXIST.
+# 1: DECEASED
+
 define N=S=TEMPORALEXIST [
 # ishireni / i- =shire -ni / 3m.poss- =soul -temporal[ceased.exist.] / EN: 'his.former.soul'; ES: 'lo.que.ha.sido.su.alma' 
   "[--][-ni][TENSE][+TMP][=CEASED.EXIST. (EN: former+NRoot); DECEASED (EN: late+NRoot)]" : [{ni}]
@@ -13,6 +17,9 @@ define N=S=TEMPORALEXIST [
 # TEMPORAL RELATION 
 # --------------------------------
 # More verbalized nominal roots are at the end of verbal roots lexicon file.
+
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: CEASED.R.
 
 define N=S=TEMPORALR [
   "[--][-nta][TENSE][+TMP][=CEASED.R. (EN: ceased.relation.with.a.human.referent)]" : [{nta}]
