@@ -4,6 +4,8 @@
 # DEM.NOM
 # AS: adverbializer suffix  
 
+# 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+
 define N=S=DEM [
   "[--][=ka+mrph.cath@proximal.b.][AS][+DEM.NOM][=DEM (EN: here, close.to.the.speaker)]" : {ka} ! this
 | "[--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]" : {ra} 
