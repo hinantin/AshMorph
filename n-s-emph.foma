@@ -3,6 +3,10 @@
 # -------------------------------------------
 # to assert: to state clearly and firmly that sth. is true
 
+# 2 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 0: EMPH
+# 1: ASSERT
+
 define N=S=EMPH [
   "[--][-kia][+EMPH][=EMPH; ASSERT (EN: state.clearly-&-firmly.that.sth.is.true)]" : [{kia}] 
 | "[--][-kya][+EMPH][=EMPH; ASSERT (EN: state.clearly-&-firmly.that.sth.is.true)]" : [{kya}] 
