@@ -7,6 +7,7 @@ binmode STDIN, ':utf8';
 binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 use Getopt::Long qw(GetOptions);
+use IO::CaptureOutput qw/capture/;
 
 # --- Options
 my $options = "[--port|-P <INT>] [--host|-H <STRING>] [--stdin] [--inputfile|-i <DOCUMENT>] [--outputfile|-o <DOCUMENT>]";
@@ -58,6 +59,19 @@ shutdown($socket, 1);
 # receive a response of up to 1024 characters from server
 my $response = "";
 $socket->recv($response, $buffsize);
+
+# the guesser should only be used when no analysis was found, #eos should be an exception as it is a keyword  
+if ("$response" =~ /\+\?/ && $response !~ /#eos/i) {
+  print STDERR "$response\n";
+
+  my ($stdout, $stderr);
+  capture sub {
+    system("export LANG=en_US.utf8; echo \"$text\" | /home/richard/Downloads/foma/foma/flookup /home/richard/Downloads/AshMorph/asheninka.guesser.bin");
+  } => \$stdout, \$stderr;
+
+$response = $stdout;
+}
+
 if (defined $outputfile) {
   # appending response to file 
   open(my $fh, '>>', $outputfile) or die "Could not open file '$outputfile' $!";
