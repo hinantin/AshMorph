@@ -66,7 +66,7 @@ if ("$response" =~ /\+\?/ && $response !~ /#eos/i) {
 
   my ($stdout, $stderr);
   capture sub {
-    system("export LANG=en_US.utf8; echo \"$text\" | /home/richard/Downloads/foma/foma/flookup /home/richard/Downloads/AshMorph/asheninka.guesser.bin");
+    system("export LANG=en_US.utf8; echo \"$text\" | /home/richard/Descargas/foma/foma/flookup /home/richard/Descargas/AshMorph/asheninka.guesser.bin");
   } => \$stdout, \$stderr;
 
 $response = $stdout;
