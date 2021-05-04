@@ -70,10 +70,10 @@
       define TYOnset1 [ {tey} -> {ty}, {tey} -> {tey} || _ [a|á] ]; ! tyaaki 'flower' -> teyaaki 
       define TYOnset2 [ {tiy} -> {ty}, {tiy} -> {tiy} || _ [a|á] ]; ! tyaaki 'flower' -> tiyaaki 
       define PYOnset [ {piy} -> {py}, {piy} -> {piy} || _ [a|á] ]; ! pyari 'masato [manioc beer]' -> piyari 
-      define SYOnset [ {siy} (->) {sy} || _ [a|á] ]; ! syatatsi 'claw, fingernail' -> siyatatsi 
-      define TSYOnset [ {tsiy} (->) {tsy} || _ [a|á] ]; ! tsyairi 'paucar sp.' -> tsiyairi 
-      define NYOnset [ {niy} (->) {ny} || _ [a|á] ]; ! kanyari 'green' -> kaniyari 
-      define KYOnset [ {kiy} (->) {ky} || _ [a|á] ]; ! chochokyari -> chochokiyari 
+      define SYOnset [ {siy} -> {sy}, {siy} -> {siy} || _ [a|á] ]; ! syatatsi 'claw, fingernail' -> siyatatsi 
+      define TSYOnset [ {tsiy} -> {tsy}, {tsiy} -> {tsiy} || _ [a|á] ]; ! tsyairi 'paucar sp.' -> tsiyairi 
+      define NYOnset [ {niy} -> {ny}, {niy} -> {niy} || _ [a|á] ]; ! kanyari 'green' -> kaniyari 
+      define KYOnset [ {kiy} -> {ky}, {kiy} -> {kiy} || _ [a|á] ]; ! chochokyari -> chochokiyari 
 
       # ------------------------------------------
       # Seen in Ashanĩka do Rio Amônia
