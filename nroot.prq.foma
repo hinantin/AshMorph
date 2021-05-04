@@ -1495,6 +1495,9 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=kaaparinki+gndr@m.+sem@reptile][NRoot][=rattler-snake (ES: sp.de.cascavel)]" : {kaaparinki}
+! serpiente de manchas marrón oscuro a lo largo del cuerpo 
+| "[=karaapariki+gndr@m.+sem@reptile][NRoot][=venomous.snake.sp. (ES: sp.serpiente.venenosa; sci.nm.: helicops.angulatus)]" : {karaapariki}
+| "[=kaaparitzi+gndr@m.+sem@reptile][NRoot][=snake.sp. (ES: sp.de.serpiente)]" : {kaaparitzi}
 # ---------------------------------------------------------------------
 ! 
 | "[=kapashi+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (ES: sp.de.palmera)]" : {kapashi}
@@ -3005,10 +3008,6 @@ define NRootPRQin [
 ! 
 # cascabel de piel marrón claro con manchas negras y dibujos geométricos en amarillo.
 | "[=koshipirinke+gndr@m.+sem@reptile][NRoot][=pit.viper.sp. (ES: jergona, víbora.venenosa; sci.nm.: crotalus.durissus), jergón]" : {koshipirinke}
-# ---------------------------------------------------------------------------
-! 
-# serpiente de manchas marrón oscuro a lo largo del cuerpo 
-| "[=karaapariki+gndr@m.+sem@reptile][NRoot][=venomous.snake.sp. (ES: sp.serpiente.venenosa; sci.nm.: helicops.angulatus)]" : {karaapariki}
 # ---------------------------------------------------------------------------
 ! 
 | "[=karapariti+gndr@m.+sem@reptile][NRoot][=venomous.snake.sp., venomous.pitviper.sp. (ES: jergón, sp.culebra.venenosa)]" : {karapariti}
