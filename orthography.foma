@@ -110,7 +110,7 @@
       define ATildeReplacement2 [ {am} (->) {ã} || _ [p] ];
       define ETildeReplacement1 [ {en} (->) {ẽ} || _ [k|t] ];
       define ETildeReplacement2 [ {em} (->) {ẽ} || _ [p] ];
-      define ITildeReplacement1 [ {in} (->) {ĩ} || _ [k|t] ];
+      define ITildeReplacement1 [ {in} -> {ĩ}, {in} -> {in} || _ [k|t] ];
       define ITildeReplacement2 [ {im} (->) {ĩ} || _ [p] ];
       define OTildeReplacement1 [ {on} (->) {õ} || _ [k|t] ];
       define OTildeReplacement2 [ {om} (->) {õ} || _ [p] ];
