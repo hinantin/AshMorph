@@ -48,7 +48,7 @@
       define KIReplacement [ {ky} (->) {ki} || _ [a|á] ,, {ky} (->) {qy} || _ [a|á] ]; 
       define RIReplacement [ {ry} (->) {ri} || _ [a|á] ];
 
-      define TIReplacement [ {ty} (->) {ti} || _ [e|é] ];
+      define TIReplacement [ {ty} -> {ti}, {ty} -> {ty} || _ [e|é] ];
 
       # define THReplacement [ {ts} (->) {th} || _ [a|e|i|o|á|é|í|ó] ]; # xfst only ! thamiri -> tsamiri 
       define THReplacement [ {ts} -> {th}, {ts} -> {ts} || _ [a|e|i|o|á|é|í|ó] ];
