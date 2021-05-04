@@ -67,9 +67,9 @@
       define TSYReplacement [ {i} (->) {y} || [{ts}] _ .#. ]; # -tsy -> -tsi 
       
       # onset before vowel a 
-      define TYOnset1 [ {tey} (->) {ty} || _ [a|á] ]; ! tyaaki 'flower' -> teyaaki 
-      define TYOnset2 [ {tiy} (->) {ty} || _ [a|á] ]; ! tyaaki 'flower' -> tiyaaki 
-      define PYOnset [ {piy} (->) {py} || _ [a|á] ]; ! pyari 'masato [manioc beer]' -> piyari 
+      define TYOnset1 [ {tey} -> {ty}, {tey} -> {tey} || _ [a|á] ]; ! tyaaki 'flower' -> teyaaki 
+      define TYOnset2 [ {tiy} -> {ty}, {tiy} -> {tiy} || _ [a|á] ]; ! tyaaki 'flower' -> tiyaaki 
+      define PYOnset [ {piy} -> {py}, {piy} -> {piy} || _ [a|á] ]; ! pyari 'masato [manioc beer]' -> piyari 
       define SYOnset [ {siy} (->) {sy} || _ [a|á] ]; ! syatatsi 'claw, fingernail' -> siyatatsi 
       define TSYOnset [ {tsiy} (->) {tsy} || _ [a|á] ]; ! tsyairi 'paucar sp.' -> tsiyairi 
       define NYOnset [ {niy} (->) {ny} || _ [a|á] ]; ! kanyari 'green' -> kaniyari 
