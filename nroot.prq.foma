@@ -214,6 +214,7 @@ define NRootPRQin [
 | "[=ashivantzi+gndr@m.+sem@bird][NRoot][=swallow.sp. (ES: golondrina; sci.nm.: chaetura.sp., panyptila.cayennensis)]" : {ashivantzi}
 | "[=ashivanti+gndr@m.+sem@bird][NRoot][=swallow.sp. (ES: golondrina; sci.nm.: chaetura.sp., panyptila.cayennensis)]" : {ashivanti}
 | "[=ashivante+gndr@m.+sem@bird][NRoot][=swallow.sp. (ES: golondrina; sci.nm.: chaetura.sp., panyptila.cayennensis)]" : {ashivante}
+| "[=ashivantsini+gndr@m.+sem@bird][NRoot][=swallow.sp. (ES: golondrina; sci.nm.: chaetura.sp., panyptila.cayennensis)]" : {ashivantsini}
 # ---------------------------------------------------------------------
 ! 
 # aarontsipaiteki / =aarontsi -paite -ki / =summer -at.the.time.of.sth. -loc / ES: 'durante.el.tiempo.de.verano'    
@@ -5295,7 +5296,8 @@ define NRootPRQin [
 ! 
 | "[=saari+gndr@m.+sem@wild.anim.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {saari}
 | "[=sagari+gndr@m.+sem@wild.anim.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {sagari}
-| "[=haagari+gndr@m.+sem@wild.anim.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {hagaari}
+| "[=hagaari+gndr@m.+sem@wild.anim.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {hagaari}
+| "[=hagari+gndr@m.+sem@wild.anim.][NRoot][=opossum, possum (ES: zarigüeya; PT: gambá)]" : {hagari}
 # --------------------------------------------------------------------------
 ! 
 | "[=saari+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: pashaquilla, sp.de.árbol)]" : {saari}
