@@ -3913,6 +3913,7 @@ define NRootPRQin [
 ! 
 | "[=neronto+gndr@m.+poss@ti.+sem@insect][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: ronsapa, sp.de.abeja,, shinguto, shinguito)]" : {neronto}
 | "[=nironto+gndr@m.+poss@ti.+sem@insect][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: ronsapa, sp.de.abeja,, shinguto, shinguito)]" : {nironto}
+| "[=niroonto+gndr@m.+poss@ti.+sem@insect][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: ronsapa, sp.de.abeja,, shinguto, shinguito)]" : {niroonto}
 # ---------------------------------------------------------------------
 ! 
 | "[=nerontoki+gndr@m.+sem@insect][NRoot][=bee.sp. (ES: sp.de.abeja; sci.nm.: apis.mellifera )]" : {nerontoki}
@@ -7247,6 +7248,9 @@ define NRootPRQin [
 | "[=tziviriaki][NRoot][=the.salt.place]" : {tziviriaki}
 | "[=tziviriani][NRoot][=the.salt.river]" : {tziviriani}
 | "[=tzivyoriki][NRoot][=the.salt.place]" : {tzivyoriki} ! to be checked !!! 
+# -------------------------------------------------------------------
+! 
+| "[=tziviito+gndr@m.+sem@insect][NRoot][=beetle.sp. (ES: sp.de.escarabajo)]" : {tziviito}
 # -------------------------------------------------------------------
 ! 
 | "[=tona+gndr@n.m.+inal@tsi.][NRoot][=snout (ES: hocico)]" : {tona} ! @VCMP 
