@@ -93,6 +93,9 @@ define VRootPRQin [
 | "[=amashink+~{V:/'to.climb':amashi/}{DEGREE:nk}+INF@VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashink} ! @section:verb@ 
 | "[=amashinke+~{V:/'to.climb':amashi/}{DEGREE:nke}+INF@/EP:t/VC.][VRoot][=to.climb.tree.branches (ES: treparse.en.las.ramas.de.los.árboles)]" : {amashinke}
 # ---------------------------------------------------
+!  
+| "[=amaity+INF@VC.][VRoot][=to.become.silent-and-cloudy]" : {amaity} 
+# ---------------------------------------------------
 ! 
 | "[=amok][VRoot][=to.be/get.cloudy (ES: estar/ponerse.nublado; nublarse)]" : {amok} 
 | "[=aamok][VRoot][=to.be/get.cloudy (ES: estar/ponerse.nublado; nublarse)]" : {aamok} 
