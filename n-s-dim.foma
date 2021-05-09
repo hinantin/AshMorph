@@ -32,6 +32,8 @@ define N=S=DIM [
 # hitoiriki / =hito -iriki / =spider -dim / EN: 'small.spider', ES: 'arañita' 
 # mapiiriki / =mapi -iriki / =rock -dim / EN: 'small.rock', ES: 'roquita' 
 # masheroiriki / =mashero -iriki / =edible_toad.sp. -dim / EN: 'small.edible_toad', ES: 'sapito.comestible'
+# shimaeriki / =shima -eriki / =fish -dim 
+| "[--][-eriki][+DIM]" : {eriki} 
 | "[--][-iriki][+DIM]" : {iriki} 
 | "[--][-riki+~{R.DEL:i}{DIM:iriki}][+DIM]" : "@IDIM@"{riki} 
 ];
