@@ -201,6 +201,8 @@ define NRootESin [
 | "[=papá/papa+poss@ti.][NRoot:ES][=dad]" : {papa}
 | "[=papá/paapa+poss@ti.][NRoot:ES][=dad]" : {paapa}
 ! 
+| "[=papa/paapa+poss@ti.][NRoot:ES][=potato]" : {paapa}
+! 
 | "[=papel/paperi+NCMS000+mrph.phon@LEN:^p→^v.][NRoot:ES][=sheet.of.paper, book]" : {paperi}
 | "[=papel/papeeri+NCMS000][NRoot:ES][=sheet.of.paper, book]" : {papeeri}
 | "[=papel/papiiri+NCMS000][NRoot:ES][=sheet.of.paper, book]" : {papiiri}
