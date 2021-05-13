@@ -33,7 +33,7 @@ define NRootCmpPRQin [
 | "[--][=peshi+gndr@n.m.+inal@tsi.][NRoot][=shoot (ES: retoño); stalk.of.a.plant, cluster, the.part.of.the.banana_plant.that.is.planted]" : {peshi} ! @CMP 
 | "[--][=peyari+gndr@m.][NRoot][=ghost; demon; (forest).bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {peyari} ! @CMP 
 | "[--][=piyari+gndr@m.][NRoot][=ghost; demon; (forest).bone.spirit; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]" : {piyari} ! @CMP 
-| "[--][=pira+gndr@m.+inal@ntsi.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
+| "[--][=pira+gndr@m.+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
 | "[--][=pori+gndr@n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]" : {pori} ! @VCMP @CMP 
 | "[--][=poro+gndr@n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)]" : {poro} ! @CMP @VCMP 
 | "[--][=pyare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)]" : {pyare} ! @CMP 

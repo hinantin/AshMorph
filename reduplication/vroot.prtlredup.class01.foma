@@ -1,6 +1,5 @@
 # -----------------
 # VERBAL PARTIAL REDUPLICATION CLASS 1 
-# Partial reduplication can be modeled by with 1-way FSTs
 # -----------------
 define VRootPrtlRedupClass01in [ 
   "[=amen+prtl.redup@b.copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]" : {amen} ! amemena
@@ -16,11 +15,11 @@ define VRootPrtlRedupClass01in [
 | "[=koma+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[= (ES: remar.a_cada_rato)]" : {koma} ! kokoma 
 | "[=kov+prtl.redup@b.copy.][VRoot][=to.want (ES: querer)]::[=to.prefer.strongly]" : {kov} ! kokov 
 | "[=mairi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.be.serious/solemn; to.be.silent (ES: callar, no.contestar/responder)]" : {mairi} ! maimairi 
-| "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pety}
+| "[=pety+prtl.redup@b.copy.][VRoot][=to.blink (ES: parpadear)]" : {pety} ! pepetya 
 | "[=saik+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live]" : {saik} ! saisaika 
 | "[=sankena+INF@/EP:t/(a)antsi.+prtl.redup@b.copy.][VRoot][=to.write (ES: escribir)]" : {sankena} ! sasankena 
 | "[=sampi+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]::[= (ES: preguntar.a_cada_rato)]" : {sampi} ! sasampi 
-| "[=pityarank+INF@/EP:t/VC.+prtl.redup@b.copy.][VRoot][=to.bend.over (ES: agacharse)]" : {pityarank}
+| "[=pityarank+INF@/EP:t/VC.+prtl.redup@b.copy.][VRoot][=to.bend.over (ES: agacharse)]" : {pityarank} ! pipityarank 
 | "[=tasonk+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.blow (ES: soplar); to.fan]::[= (ES: soplar.a_cada_rato)]" : {tasonk} ! tatasonk
 | "[=tsaanki+INF@/EP:t/aantsi.+prtl.redup@b.copy.][VRoot][=to.hurry (ES: apurarse)]" : {tsaanki} ! tsaatsaanki 
 ];

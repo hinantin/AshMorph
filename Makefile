@@ -44,10 +44,10 @@ compile:
 	@rm -f reduplication/vroot.totredup.class01.foma | perl extractEntries.pl --file vroot.prq.foma --outputfilename "reduplication/vroot.totredup.class01.foma" --label "@TOTREDUPCLASS01" --title "VERBAL TOTAL REDUPLICATION CLASS 1" --header "VRootTotRedupClass01in" --replace2 1 --source2 "#@TOTREDUPCLASS01" --target2 ""
 	@rm -f reduplication/vroot.totredup.class02.foma | perl extractEntries.pl --file vroot.prq.foma --outputfilename "reduplication/vroot.totredup.class02.foma" --label "@TOTREDUPCLASS02" --title "VERBAL TOTAL REDUPLICATION CLASS 2" --header "VRootTotRedupClass02in" --replace2 1 --source2 "#@TOTREDUPCLASS02" --target2 ""
 	@rm -f reduplication/vroot.totredup.class03.foma | perl extractEntries.pl --file vroot.prq.foma --outputfilename "reduplication/vroot.totredup.class03.foma" --label "@TOTREDUPCLASS03" --title "VERBAL TOTAL REDUPLICATION CLASS 3" --header "VRootTotRedupClass03in" --replace2 1 --source2 "#@TOTREDUPCLASS03" --target2 ""
-	@rm -f ideo.adbl.foma | bash ashaninkamorph.sh -q "test" 
-	@rm -f asheninka.bin asheninka.guesser.bin *.tar.bz2
-	@xfst -f asheninka.script 
-	@xfst -f asheninka.guesser.script 
+#	@rm -f ideo.adbl.foma | bash ashaninkamorph.sh -q "test" 
+#	@rm -f asheninka.bin asheninka.guesser.bin *.tar.bz2
+#	@xfst -f asheninka.script 
+#	@xfst -f asheninka.guesser.script 
 #	@tar -jcvf ashaninkamorph$$(date +%Y%m%d%H%M%S).tar.bz2 asheninka.bin asheninka.guesser.bin 
 #	@cp *.tar.bz2 /media/sf_RCastroq/CloudStorage/DropBox00001/Dropbox/Ashaninka/ashaninkamorph
 #	@xfst -f ideoredupsyl.prq.foma 

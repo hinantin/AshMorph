@@ -2,8 +2,17 @@
 # VERBAL TOTAL REDUPLICATION CLASS 2 
 # -----------------
 define VRootTotRedupClass02in [ 
-  "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {mi} ! miamia 
+  "[=nat+~{V:/'to.carry…':nat/}{EP:a}{V:/'to.carry…':nat/}{EP:a}+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]::[=to.continue.to.carry.more-and-more]" : {nat} ! natanata 
+| "[=chik+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.cut (ES: cortar)]" : {chik} ! chikachika
+| "[=kant+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able]::[=to.be.law (ES: ser.ley/dicho)]" : {kant} ! kantakant 
+| "[=mi+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {mi} ! miamia 
 | "[=my+tot.redup@unb.copy.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down]" : {my} ! myaamyaa 
-| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for; to.visit]" : {ny} ! nyaanyaa nyanya
+| "[=nari+tot.redup@unb.copy.][VRoot][=to.lie.(on.the.ground)]" : {nari} ! narianaria 
+| "[=ny+INF@aantsi:agaantsi.+tot.redup@unb.copy.][VRoot][=to.see (ES: ver), to.look.for (ES: buscar); to.visit]" : {ny} ! nyaanyaa nyanya
+| "[=ne+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {ne} ! neanea noneaneatempi 
 | "[=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p} ! paapaa 
+| "[=pary+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times]" : {pary} ! paryaaparyaa 
+| "[=piy+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.return, to.come.back (ES: volver, regresar)]::[=to.keep.returning (ES: regresar.a.cada.rato)]" : {piy} ! piyapiya
+| "[=shitov+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.leave (ES: salir)]::[=to.come-and-go.constantly (ES: salir.cada.rato)]" : {shitov} ! shitovashitova 
+| "[=tsonk+tot.redup@unb.copy.][VRoot][=to.finish]::[=to.finish.quickly]" : {tsonk}
 ];

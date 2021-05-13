@@ -2,10 +2,24 @@
 # VERBAL TOTAL REDUPLICATION CLASS 1 
 # -----------------
 define VRootTotRedupClass01in [ 
-  "[=koma+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[=to.row.a_lot (ES: remar.a_cada_rato)]" : {koma} ! komakoma 
+  "[=amin+~{V:/'to.see':amin/}{EP:a}{V:/'to.see':amin/}{EP:a}+tot.redup@unb.copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[=to.keep.on.looking.for.sth./sb.]" : {amin} ! aminamina 
+| "[=anii+~{V:/'to.walk':anii/}{V:/'to.walk':anii/}+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.walk (ES: caminar, andar)]::[=to.walk.for_a_long_time]" : {anii} ! aniianii 
+| "[=hinki+INF@/EP:tz/V.+tot.redup@unb.copy.][VRoot][=to.go.(a)round.sth. (ES: rodear.algo)]::[=to.surround.sth.lots.of.times (ES: rodear.algo.varias.veces)]" : {hinki} ! hinkihinki 
+| "[=kavoshi+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.bathe (ES: bañar)]" : {kavoshi}
+| "[=ken+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]::[=to.walk.somewhere.very.frequently (ES: caminar/viajar.por.algún.lugar.todo.el.tiempo)]" : {ken} ! kenakena 
+| "[=kin+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.walk]::[=to.walk.around.somewhere.very.frequently (ES: caminar/viajar.por.algún.lugar.todo.el.tiempo)]" : {kin} ! kinakina 
+| "[=kiv+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.wash (ES: lavar)]::[=to.wash.a.lot]" : {kiv} ! kivakiva 
+| "[=koniha+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {koniha} ! konihakoniha 
+| "[=koma+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.row; to.paddle (ES: remar)]::[=to.row.a_lot (ES: remar.a_cada_rato)]" : {koma} ! komakoma 
 | "[=kya+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)]" : {kya} ! kyakya
 | "[=ma+INF@/EP:t/VC.+tot.redup@unb.copy.][VRoot][=to.do.sth. (ES: hacer.algo)]" : {ma} ! pimamatero / EN:  'do.it.quickly' 
+| "[=oriavintsa+{N:/'sun':oria/}{DLMT:vintsa}+tot.redup@unb.copy.][VRoot][=to.shine.for_a_short_time]" : {oriavintsa} ! oriavintsaoriavintsa 
+| "[=pai+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.be.called; to.call, to.name (ES: nombrar)]" : {pai} ! paipai 
+| "[=pari+tot.redup@unb.copy.][VRoot][=to.fall (ES: caer)]::[=to.fall.multiple.times (e.g. rain.drops)]" : {pari} ! paripari 
 | "[=sankina+tot.redup@unb.copy.][VRoot][=to.write (ES: escribir)]" : {sankina} ! sankinasankina
-| "[=sheva+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving]" : {sheva}
+| "[=sampi+tot.redup@unb.copy.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi} ! sampisampi 
+| "[=sheva+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.move (ES: mover)]::[=moving; to.move.body]" : {sheva}
+| "[=taa+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taa} ! taataa 
 | "[=tasonka+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.blow (ES: soplar); to.fan]" : {tasonka}
+| "[=tsaanki+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.hurry (ES: apurarse)]" : {tsaanki} ! tsaankitsaanki 
 ];
