@@ -15,6 +15,7 @@ define V=S=ADJ=SET2 [
 ! nyaatsatinkaro perota / =nyaatsa -tinkaro =pelota / =to.play -adj =ball / EN: 'female.soccer.player', ES: 'jugadora.de.fútbol' 
 ! aretzincari ocatsincaitetzi / aretzinkari okatsinkaitetzi / =are -tzinkari ** o- =katsinka -ite -tz -i / =to.arrive -adj.nmz ** ... / ES: 'migrante.andino' 
 ! shirontzinkari / =shiron -tzinkari / =to.laugh.at.sb. -adj.nmz / EN : 'risible.person' ; ES: 'reilón, reilona'
+! chopitzinkari 
   "[--][-tsinkari+gndr@m.][NS][+ADJ.NMZ]" : "@EP"[{tsinkari}] 
 | "[--][-tzinkari+gndr@m.][NS][+ADJ.NMZ]" : "@EP"[{tzinkari}] 
 | "[--][-tinkari+gndr@m.][NS][+ADJ.NMZ]" : "@EP"[{tinkari}] 
