@@ -6823,7 +6823,7 @@ define NRootPRQin [
 | "[=tsaapi+gndr@n.m.+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsaapi}
 | "[=tsapya][NRoot][=river.bank, side.of.river (ES: orilla)]" : {tsapya} ! @VCMP 
 | "[=tsapyaa][NRoot][=river.bank, side.of.river (ES: orilla)]" : {tsapyaa}
-| "[=tsapiaa][NRoot][=river.bank, side.of.river (ES: orilla)]" : {tsapiaa} ! @VCMP 
+| "[=tsapiaa+~{N:/'edge':tsapi/}{CL:/'water':aa/}][NRoot][=river.bank, side.of.river (ES: orilla)]" : {tsapiaa} ! @VCMP 
 | "[=otsapyaa][NRoot][=river.bank, side.of.river (ES: orilla)]" : {otsapyaa}
 | "[=tsapiki+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsapiki}
 | "[=tsapiyaaki+inal@ntsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)]" : {tsapiyaaki}
