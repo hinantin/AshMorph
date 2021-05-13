@@ -136,6 +136,7 @@ define NRootESin [
 | "[=libro/iriviro][NRoot:ES][=book (ES: libro)]" : {iriviro}
 ! 
 | "[=coco/koko+NCMS000][NRoot:ES][=coconut]" : {koko} ! source:IIAP 
+| "[=coco/kooko+NCMS000][NRoot:ES][=coconut]" : {kooko}
 | "[=cocona/kokona+NCFS000][NRoot:ES][=cocona.shrubby.plant.sp.]" : {kokona} ! source:IIAP
 | "[=kokonaki][NRoot][=cocona.fruit; tart.applelike.fruit]" : {kokonaki} ! source:IIAP 
 ! 
