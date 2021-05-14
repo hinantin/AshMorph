@@ -254,6 +254,8 @@ define VRootPRQin [
 #@TOTREDUPCLASS01| "[=amin+~{V:/'to.see':amin/}{EP:a}{V:/'to.see':amin/}{EP:a}+tot.redup@unb.copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[=to.keep.on.looking.for.sth./sb.]" : {amin} ! aminamina 
 | "[=amen+~{V:/'to.see':amen/}{L.DEL:n}{V:/'to.see':amen/}{EP:a}+prtl.redup@b.copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]" : {amemena}
 #@PRTLREDUPCLASS01| "[=amen+prtl.redup@b.copy.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of]::[= (ES: mirar.a_cada_rato)]" : {amen} ! amemena
+! 
+!| "[=aminantyaariri_oorya][NRoot][=clock (ES: reloj)]" : {aminantyaariri_oorya} ! @section:noun@ 
 # ---------------------------------------------------
 ! 
 | "[=amintsa+INF@/EP:t/aantsi.][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo,, trenzar, entrelazar.soga)]" : {amintsa}
@@ -1111,6 +1113,7 @@ define VRootPRQin [
 | "[=kemihan][VRoot][=to.pay.attention; to.believe; to.obey]" : {kemihan}
 | "[=kemehan][VRoot][=to.pay.attention; to.believe; to.obey]" : {kemehan}
 | "[=kemishan][VRoot][=to.pay.attention; to.believe; to.obey]" : {kemishan}
+!| "[=akemihanantyaari_nyaavaetatsiri][NRoot][=radio (ES: radio)]" : {akemihanantyaari_nyaavaetatsiri} ! @section:noun@ 
 # ----------------------------------------------------------
 ! kimo
 ! ----------------------------------------------------------
