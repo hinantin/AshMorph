@@ -5824,8 +5824,8 @@ define NRootPRQin [
 | "[=shaani+gndr@m.+sem@wild.anim.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)]" : {shaani}
 # ------------------------------------------------------------
 ! 
-!| "[=sheninka][NRoot][=fellow.citizen (ES: paisano)]" : {sheninka} ! @section:noun@ 
-!| "[=shaninka][NRoot][=fellow.citizen (ES: paisano)]" : {shaninka} ! @section:noun@ 
+!| "[=sheninka+~{V:/'to.be.of.the.same.group':sheni/}{NMZ:nka}][NRoot][=fellow.citizen, fellowman (ES: paisano)]" : {sheninka} ! @section:noun@ 
+!| "[=shaninka+~{V:/'to.be.of.the.same.group':shani/}{NMZ:nka}][NRoot][=fellow.citizen, fellowman (ES: paisano)]" : {shaninka} ! @section:noun@ 
 # ------------------------------------------------------------
 ! 
 | "[=sharaka][NRoot][=snow (ES: nieve); hail (ES: granizo)]" : {sharaka}
