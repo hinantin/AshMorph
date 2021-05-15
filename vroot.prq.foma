@@ -1823,6 +1823,8 @@ define VRootPRQin [
 | "[=nea+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nea}
 | "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {neanea} ! noneaneatempi
 #@TOTREDUPCLASS02| "[=ne+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {ne} ! neanea noneaneatempi 
+! 
+!| "[=onyaatzi+allomorph@oñaatzi.][NRoot][=thunder (ES: trueno)]" : {onyaatzi} ! @section:noun@ 
 # ---------------------------------------------------------------------------- 
 ! 
 | "[=neavintsa+~{V:/'to.speak':nea/}{DLMT:vintsa}+INF@/EP:t/VC;/EP:t/agantsi.][VRoot][=to.fornicate (ES: fornicar); to.copulate (ES: copular)]" : {neavintsa}
