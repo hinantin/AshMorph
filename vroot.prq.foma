@@ -1355,6 +1355,7 @@ define VRootPRQin [
 | "[=koniha+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
 #@TOTREDUPCLASS01| "[=koniha+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {koniha} ! konihakoniha 
 !| "[=kaari_konihatatsi+~{NEG.COP:/'not.be':kaari/}{BLANK:SPACE}{V:/'to.appear':koniha/}{EP:t}{STAT.IPRF:atsi}][NRoot][=invisible (ES: invisible)]" : {kaari_konihatatsi} ! @section:noun@ 
+!| "[=kaari_ineeti+~{NEG.COP:/'not.be':kaari/}{BLANK:SPACE}{3m.S:i}{V:/'to.see':ne/}{ICPL:et}{IRR:i}][NRoot][=invisible (ES: invisible)]" : {kaari_ineeti} ! @section:noun@ 
 # ---------------------------------------------------------
 ! 
 | "[=koma+INF@/EP:t/aantsi.][VRoot][=to.row; to.paddle (ES: remar)]" : {koma} 
