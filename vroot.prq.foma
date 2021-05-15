@@ -3047,6 +3047,8 @@ define VRootPRQin [
 | "[=tena+INF@/EP:t/aantsi.][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {tena}
 | "[=tina+INF@/EP:t/aantsi.][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {tina}
 | "[=ten][VRoot][=to.weigh (ES: pesar); to.be.heavy]" : {ten}
+! 
+!| "[=tenari+~{V:/'to.weigh':tena/}{NMZ:ri}][NRoot][=heavy]" : {tenari} ! @section:noun@ 
 # ---------------------------------------------------------------- 
 ! 
 | "[=timaarant+INF@VC.][VRoot][=to.be.(left_over|residual), to.be.in.surplus (ES: sobrar)]" : {timaarant}
