@@ -1447,7 +1447,7 @@ define NRootPRQin [
 | "[=impokiro+gndr@m.][NRoot][=star (ES: estrella)]" : {impokiro}
 | "[=impookiro+gndr@m.][NRoot][=star (ES: estrella)]" : {impookiro}
 | "[=iNpokiro/ĩpokiro+gndr@m.][NRoot:CPB][=star (ES: estrella)]" : {ĩpokiro}
-| "[=ompokiro][NRoot][=star (ES: estrella)]" : {ompokiro}
+| "[=ompokiro][NRoot][=star (ES: estrella)]" : {ompokiro} ! @section:noun@ 
 !| "[=ompokirotatzi][NRoot][=star (ES: estrella)]" : {ompokirotatzi} ! @section:noun@ 
 ! 
 | "[=impokiroma+gndr@m.+sem@wild.anim.][NRoot][=star.tiger (ES: tigre.estrella)]" : {impokiroma}
