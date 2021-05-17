@@ -2537,6 +2537,8 @@ define VRootPRQin [
 ! 
 | "[=poyee+INF@/EP:t/aantsi.][VRoot][=to.replace (ES: reemplazar)]" : {poyee}
 | "[=poyaa+INF@/EP:t/aantsi.][VRoot][=to.replace (ES: reemplazar)]" : {poyaa}
+! 
+!| "[=poyaatsatachari][NRoot][=pronoun (ES: pronombre)]" : {poyaatsatachari} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=py+INF@aantsi.][VRoot][=to.convert, to.transform]" : {py}
