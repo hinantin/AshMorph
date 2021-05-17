@@ -1520,7 +1520,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 ! poss -te has to be checked, only 1 ocurrence 
-| "[=katonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} 
+| "[=katonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonko} ! @section:noun@  
 | "[=katyonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]" : {katyonko} 
 | "[=katonka][NRoot][=up.river, upstream (ES: río.arriba)]" : {katonka} 
 | "[=katyonkohi+~{ka}{E.PAL.:ty}{onko}{DIM:hi}][NRoot][=a.little.ways.up.river (ES: río.cercano)]" : {katyonkohi} 
