@@ -283,6 +283,8 @@ define VRootPRQin [
 | "[=anaatsiko+INF@/EP:t/VC.][VRoot][=to.win, to.gain (ES: ganar)]" : {anaatsiko}
 | "[=anatsiko+INF@/EP:t/VC.][VRoot][=to.win, to.gain (ES: ganar)]" : {anatsiko}
 | "[=oyiishi+INF@/EP:t/aantsi.][VRoot][=to.win (ES: ganar, vencer, triunfar)]" : {oyiishi}
+! 
+!| "[=anaakotantatsiri+~{V:/'to.win':anaako/}{EP:t}{APPLINST:ant}{STAT.IPRF:atsi}{REL:ri}][NRoot][=winner (ES: campeón)]" : {anaakotantatsiri} ! @section:noun@ 
 # ---------------------------------------------------
 ! 
 ! anankorimikari / anankori -i -mi =kari / =run.into -REAL -2O =APPR 
