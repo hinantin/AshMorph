@@ -3075,6 +3075,7 @@ define NRootPRQin [
 ! 
 | "[=koventsari][NRoot][=hunter (ES: cazador)]" : {koventsari}
 | "[=kovintsari][NRoot][=hunter (ES: cazador)]" : {kovintsari}
+| "[=komintsare+~{V:/'to.hunt':komintsa/}{ADJ:re}][NRoot][=hunter (ES: cazador)]" : {komintsare} ! @section:noun@ 
 | "[=kovintsantzi+gndr@m.][NRoot][=hunter (ES: cazador)]" : {kovintsantzi}
 | "[=komintsantzi+gndr@m.][NRoot][=hunter (ES: cazador)]" : {komintsantzi}
 | "[=kovinsanto+gndr@n.m.][NRoot][=huntress (ES: cazadora)]" : {kovinsanto}
