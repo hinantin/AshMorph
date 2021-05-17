@@ -141,6 +141,8 @@ define VRootPRQin [
 ! EN: 'herbalist.who.uses.steambathing_techniques/herbal_treatments.to.cure.patients' 
 !| "[=aavintantzinkaro+~{V:/'to.cure':aavint/}{APPL.INST:ant}{ADJ:tzinkaro}+gndr@n.m.][NRoot][=female.healer]" : {aavintantzinkaro} ! @section:noun@ 
 !| "[=aavintantzinkari+~{V:/'to.cure':aavint/}{APPL.INST:ant}{ADJ:tzinkari}+gndr@m.][NRoot][=male.healer]" : {aavintantzinkari} ! @section:noun@ 
+!| "[=avintantsi_panko][NRoot][=hospital]" : {avintantsi_panko} ! @section:noun@ 
+!| "[=aavintantsipanko][NRoot][=hospital]" : {aavintantsipanko} ! @section:noun@ 
 # --------------------------------------------------------------------- 
 ! 
 | "[=ahirik+INF@aantsi.][VRoot][=to.grab;| to.catch, to.trap (ES: atrapar)]" : {ahirik} ! @section:verb@ 
