@@ -3873,6 +3873,7 @@ define NRootPRQin [
 | "[=saikantsi][NRoot][=region (ES: región)]" : {saikantsi} ! region (territory) 
 ! 
 !| "[=pashinisato_nampitsi+~{N:/'other':pashini/}{CL:/'human.provenance':sato/}{BLANK:SPACE}{N:/'village':nampi/}{NPOSS:tsi}][NRoot][=international (ES: internacional)]" : {pashinisato_nampitsi} ! @section:noun@ 
+!| "[=anampisato+~{1PL.poss:a}{N:/'village':nampi/}{CL:/'human.provenance':sato/}+gndr@n.m.][NRoot][=national (ES: nacional)]" : {anampisato} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=nampi][NRoot][=big.quantity]" : {nampi}
