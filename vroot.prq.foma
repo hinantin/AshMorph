@@ -357,6 +357,9 @@ define VRootPRQin [
 # --------------------------------------------------------------------------------  
 ! 
 | "[=ampitsa+INF@/EP:t/VC.][VRoot][=to.be.wrinkled (ES: estar.arrugado)]" : {ampitsa}
+! 
+!| "[=ampitsaro+~{V:/'to.be.wrinkled':ampitsa/}{NMZ:ro}+gndr@n.m.][NRoot][=wrinkled (ES: arrugada)]" : {ampitsaro} ! @section:noun@ 
+!| "[=ampitsari+~{V:/'to.be.wrinkled':ampitsa/}{NMZ:ri}+gndr@m.][NRoot][=wrinkled (ES: arrugado)]" : {ampitsari} ! @section:noun@ 
 # -------------------------------------------------------- 
 ! 
 | "[=ampitsa][VRoot][=to.twist (ES: torcer)]" : {ampitsa}
