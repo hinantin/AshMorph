@@ -214,7 +214,7 @@ define ORootPRQin [
 !| "[=okaakini][OtherRoot][=close.by]" : {okaakini}
 # ---------------------------------------------- 
 ! 
-| "[=tekatsi][VRoot][=NEG.EXIST: there.be.not, there.will.be.nothing;| NEG.POSSESS: do.not.have.sb./sth.]" : {tekatsi} ! @section:verb@ 
+| "[=tekatsi][VRoot][=NEG.EXIST: there.be.not, there.will.be.nothing;| NEG.POSSESS: do.not.have.(sb.|sth.)]" : {tekatsi} ! @section:verb@ 
 | "[=teekatsi][VRoot][=NEG.EXIST; NEG.POSSESS: do.not.have.sb./sth.]" : {teekatsi}
 | "[=tekatsi][VRoot][=NEG.EXIST; NEG.POSSESS: do.not.have.sb./sth.][--][-ra][+ADV]" : {tekatsira}
 # ---------------------------------------------- 
