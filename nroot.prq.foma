@@ -7450,8 +7450,9 @@ define NRootPRQin [
 | "[=yonkeva+gndr@m.+sem@bird][NRoot][=rail.sp. (ES: sp.de.rállido)]" : {yonkeva}
 # ----------------------------------------------------------------- 
 ! 
-| "[=yomare+inal@ntsi.][NRoot][=ruler (ES: regla)]" : {yomare}
+| "[=yomare+inal@ntsi.][NRoot][=ruler (ES: regla)]" : {yomare} ! @section:noun@ 
 | "[=yomaare+inal@ntsi.][NRoot][=ruler (ES: regla)]" : {yomaare}
+!| "[=monkaramento+inal@tsi.][NRoot][=ruler (ES: regla)]" : {monkaramento} ! @section:noun@ 
 # ----------------------------------------------------------------- 
 ! 
 ! yomparintsi / =friend -nposs / EN: 'friend' \cite[p\'{a}g. 280]{payne:axininca:81} 
