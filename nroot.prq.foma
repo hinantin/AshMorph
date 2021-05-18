@@ -4612,8 +4612,8 @@ define NRootPRQin [
 !| "[=paryantzikeni+~{N:/'plantain':paryantzi/}{CL:/'worm':keni/}+gndr@m.+sem@insect][NRoot][=plantain.mite (ES: gorgojo.que.ataca.al.plátano);| plantain.worm (ES: gusano.que.ataca.al.plátano)]" : {pariantia} ! @section:noun@ 
 ! oveshiki parenti / =oveshiki =parenti / =new.sprout =plantain / EN: 'plantain.sprout'; ES: 'brote/mamón.del.plátano'
 !| "[=oveshiki_parenti][NRoot][=plantain.sprout (ES: brote/mamón.del.plátano)]" : {oveshiki_parenti} ! @section:noun@ 
-!| "[=mamaropa+gndr@n.m.][NRoot][=plantain (ES: sp.de.plátano)]" : {mamaropa} ! @section:noun@ 
-!| "[=chenteropa+gndr@n.m.][NRoot][=plantain (ES: sp.de.plátano)]" : {chenteropa} ! @section:noun@ 
+!| "[=mamaropa+~{N:/'owl':mamaro/}{CL:/'plantain':pa/}+gndr@n.m.][NRoot][=plantain (ES: sp.de.plátano)]" : {mamaropa} ! @section:noun@ 
+!| "[=chenteropa+~{N:/'palm.tree.sp.':chentero/}{CL:/'plantain':pa/}+gndr@n.m.][NRoot][=plantain (ES: sp.de.plátano)]" : {chenteropa} ! @section:noun@ 
 # ----------------------------------------------------------------------------- 
 ! 
 # Winter-season is a flooding period.
