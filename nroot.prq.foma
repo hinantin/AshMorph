@@ -2693,12 +2693,12 @@ define NRootPRQin [
 | "[=kitaite+gndr@n.m.][NRoot][=day (ES: día)]" : {kitaite}
 # ---------------------------------------------------------------------------
 ! 
-| "[=kitamaro+gndr@n.m.+sem@color.][NRoot][=white]" : {kitamaro} ! N@->V::[to.be.white]
-| "[=kitamaaro+gndr@n.m.+sem@color.][NRoot][=white]" : {kitamaaro} ! N@->V::[to.be.white]
-| "[=kitamaavo+gndr@n.m.+sem@color.][NRoot][=white]" : {kitamaavo} ! N@->V::[to.be.white]
-| "[=kitamari+gndr@m.+sem@color.][NRoot][=white]" : {kitamari} ! N@->V::[to.be.white]
-| "[=kitamaari+gndr@m.+sem@color.][NRoot][=white]" : {kitamaari} ! N@->V::[to.be.white]
-| "[=kitamarori+sem@color.][NRoot][=white]" : {kitamarori}
+| "[=kitamaro+gndr@n.m.+sem@color.][NRoot][=white (ES: blanco)]" : {kitamaro} ! N@->V::[to.be.white]
+| "[=kitamaaro+gndr@n.m.+sem@color.][NRoot][=white (ES: blanco)]" : {kitamaaro} ! N@->V::[to.be.white]
+| "[=kitamaavo+gndr@n.m.+sem@color.][NRoot][=white (ES: blanco)]" : {kitamaavo} ! N@->V::[to.be.white]
+| "[=kitamari+gndr@m.+sem@color.][NRoot][=white (ES: blanco)]" : {kitamari} ! N@->V::[to.be.white]
+| "[=kitamaari+gndr@m.+sem@color.][NRoot][=white (ES: blanco)]" : {kitamaari} ! N@->V::[to.be.white]
+| "[=kitamarori+sem@color.][NRoot][=white (ES: blanco)]" : {kitamarori}
 ! 
 | "[=kitamari][NRoot][=white_donkey-like.spirit]" : {kitamari}
 # ---------------------------------------------------------------------------
