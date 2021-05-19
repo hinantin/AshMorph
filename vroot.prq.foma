@@ -2435,7 +2435,7 @@ define VRootPRQin [
 # piotaka / =pio -t -ak -a / ES: 'está.amontonado'  
 | "[=pio+INF@/EP:t/VC.][VRoot][=to.pile.sth.up (ES: amontonar); to.heap; to.gather.together]" : {pio}
 ! 
-!| "[=piyotaantsipanko][NRoot][=town.hall (ES: salón.comunal)]" : {piyotaantsipanko} ! @section:noun@ 
+!| "[=piyotaantsipanko][NRoot][=(town|community).hall (ES: salón.comunal)]" : {piyotaantsipanko} ! @section:noun@ 
 # ---------------------------------------------------------------------------------- 
 ! 
 | "[=pionk+INF@antsi.][VRoot][=to.shudder (ES: estar.con.escalofrío, temblar.con.escalofríos)]" : {pionk} ! V@->N::[=shudder (ES: escalofrío)] 
