@@ -1399,6 +1399,8 @@ define NRootPRQin [
 !| "[=inchapooki+~{N:/'plant':incha/}{CL:/'bunch,group':pooki/}][NRoot][=fenced.enclosure (ES: palizada)]" : {inchapooki} ! @section:noun@ 
 ! inchahempeki / =incha -hempeki / =plant -cl:small.branch / ES: 'leña'; EN: 'firewood'
 !| "[=inchahempeki+~{N:/'plant':incha/}{CL:/'small.branch':hempeki/}][NRoot][=firewood (ES: leña)]" : {inchahempeki} ! @section:noun@ 
+! 
+!| "[=inchatona+~{N:/'plant':incha/}{CL:/'hollow.thin.rigid':to/}{CL:/'long.hollow':na/}][NRoot][=wooden.fermenting.manioc-beer.recipient/container (ES: recipiente.de.fermentación.de.madera.de.la.cerveza.de.yuca)]" : {inchatona} ! @section:noun@ 
 # ---------------------------------------------------------------------
 ! 
 | "[=kosho][NRoot][=recipient/container.type; wood.tub]" : {kosho} 
