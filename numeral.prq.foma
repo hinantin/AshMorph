@@ -6,11 +6,13 @@ define NumeralPRQin [
 | "[=aparo+~{'one':apa}{NMZ:ro}][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparo}
 | "[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)]" : {aparoni} ! N@->V
 | "[=apani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {apani} 
+| "[=apaani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {apaani} 
 | "[=pani][Numeral:PRQ][=1 ~ one (ES: uno)]" : {pani} ! @CMP 
 ! 
 # 2 apité  
 | "[=apite][Numeral:PRQ][=2 ~ two (ES: dos)]" : {apite} ! N@->V
 | "[=pite][Numeral:PRQ][=2 ~ two (ES: dos)]" : {pite} ! @CMP 
+| "[=apiti][Numeral:PRQ][=2 ~ two (ES: dos)]" : {apiti} 
 ! 
 # 3 mavá 
 | "[=mava][Numeral:PRQ][=3 ~ three (ES: tres)]" : {mava} ! N@->V  @CMP 
@@ -42,6 +44,7 @@ define NumeralPRQin [
 | "[=shintapakerori][Numeral:PRQ][=6 ~ six (ES: seis)]" : {shintapakerori}
 | "[=iko][Numeral:PRQ][=6 ~ six (ES: seis)]" : {iko} ! @CMP 
 | "[=shirinkapaenchari][Numeral][=6 ~ six (ES: seis)]" : {shirinkapaenchari}
+| "[=montyaaka][Numeral:PRQ][=6 ~ six (ES: seis)]" : {montyaaka}
 ! 
 # 7 
 | "[=siete][Numeral:PRQ][=7 ~ seven (ES: siete)]" : {siete}
@@ -50,6 +53,7 @@ define NumeralPRQin [
 | "[=tson][Numeral:PRQ][=7 ~ seven (ES: siete)]" : {tson} ! @CMP 
 | "[=tsipataenchari][Numeral][=7 ~ seven (ES: siete)]" : {tsipataenchari}
 | "[=otsipatapaakaro][Numeral][=7 ~ seven (ES: siete)]" : {otsipatapaakaro}
+| "[=oyaatzirori][Numeral][=7 ~ seven (ES: siete)]" : {oyaatzirori}
 ! 
 # 8 
 | "[=ocho][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {ocho}
@@ -58,13 +62,15 @@ define NumeralPRQin [
 | "[=soti][Numeral:PRQ][=8 ~ eight (ES: ocho)]" : {soti} ! @CMP 
 | "[=tsipanto][Numeral][=8 ~ eight (ES: ocho)]" : {tsipanto}
 | "[=apintapaaka][Numeral][=8 ~ eight (ES: ocho)]" : {apintapaaka}
+| "[=shirinkapaaka][Numeral][=8 ~ eight (ES: ocho)]" : {shirinkapaaka}
 ! 
 # 9 
 | "[=pashini][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {pashini}
 | "[=yaatapakirori][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {yaatapakirori}
 | "[=tin][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {tin} ! @CMP 
 | "[=shirinkatsiri][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {shirinkatsiri}
-| "[=shirinkatsiri][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {shirinkapainchari}
+| "[=shirinkapainchari][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {shirinkapainchari}
+| "[=apintapaaka][Numeral:PRQ][=9 ~ nine (ES: nueve)]" : {apintapaaka}
 ! 
 # 10 
 | "[=apitevakaye][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {apitevakaye}
@@ -72,6 +78,7 @@ define NumeralPRQin [
 | "[=tsa][Numeral:PRQ][=10 ~ ten (ES: diez)]" : {tsa} ! @CMP 
 | "[=apipako][Numeral][=10 ~ ten (ES: diez)]" : {apipako}
 | "[=apipakote][Numeral][=10 ~ ten (ES: diez)]" : {apipakote}
+| "[=apaaniteka][Numeral][=10 ~ ten (ES: diez)]" : {apaaniteka}
 ! 
 # 18 
 | "[=dieciocho][Numeral:PRQ][=18 ~ eighteen]" : {dieciocho}
