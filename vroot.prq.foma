@@ -3666,6 +3666,9 @@ define VRootPRQin [
 ! 
 | "[=kara+INF@/EP:t/aantsi.][VRoot][=to.contain, to.finish]" : {kara} ! contain - abarcar, sumar?
 | "[=kaa+allomorph@kara.+INF@/EP:t/aantsi.][VRoot][=to.contain, to.finish]" : {kaa}
+! 
+!| "[=okaayitzi+~{UNK:o}{V:/'COP.CAP':kaa/}{UNK:yitzi}][NRoot][=number (ES: número)]" : {okaayitzi} ! @section:noun@ 
+!| "[=nyaakaaro+inal@ntsi.][NRoot][=number (ES: número)]" : {nyaakaaro} ! @section:noun@ 
 # ---------------------------------------------------------------------------  
 ];
 
