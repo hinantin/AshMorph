@@ -4213,7 +4213,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=pane+poss@tsi.][NRoot][=dust (ES: polvo); sand (ES: arena)]" : {pane} ! @VCMP 
-| "[=paneki+gndr@n.m.+poss@ntsi.][NRoot][=dust (ES: polvo); sawdust-like (ES: aserrín)]" : {paneki}
+| "[=paneki+gndr@n.m.+poss@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=dust (ES: polvo);| sawdust-like (ES: aserrín)]" : {paneki}
 | "[=paniki+gndr@n.m.+poss@ntsi.][NRoot][=dust (ES: polvo); sawdust-like (ES: aserrín)]" : {paniki}
 # ---------------------------------------------------------------------
 ! 
