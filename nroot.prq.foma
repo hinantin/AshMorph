@@ -1997,6 +1997,7 @@ define NRootPRQin [
 ! 
 | "[=kamara+sem@color.][NRoot][=cinnamon.color]" : {kamara}
 | "[=kamarari+sem@color.][NRoot][=brown (ES: marrón);| beige]" : {kamarari}
+| "[=ponaari+sem@color.][NRoot][=brown (ES: marrón)]" : {ponaari}
 # ---------------------------------------------------------------------
 ! 
 # kamarankaantsi / =kamarankaa -ntsi / =vomit -nposs / EN: 'vomit', ES: 'vómito'  
@@ -2613,6 +2614,9 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=kenashiri+sem@color.][NRoot][=green (ES: verde)]" : {kenashiri}
+| "[=eeriki+sem@color.][NRoot][=green (ES: verde)]" : {eeriki}
+| "[=eerikineentatsiri+sem@color.][NRoot][=light.green (ES: verde.claro)]" : {eerikineentatsiri}
+| "[=patsitaakiri+sem@color.][NRoot][=orange (ES: anaranjado)]" : {patsitaakiri}
 # ---------------------------------------------------------------------------
 ! 
 # la avispa 'kevinti' anida haciendo un hueco en el suelo, a donde introduce los cuerpos de los insectos que caza.
@@ -2720,6 +2724,8 @@ define NRootPRQin [
 | "[=kityonkari+sem@color.][NRoot][=red (ES: rojo)]" : {kityonkari}
 | "[=kiraari+sem@color.][NRoot][=red (ES: rojo)]" : {kiraari}
 | "[=kisaari+sem@color.][NRoot][=black (ES: negro)]" : {kisaari}
+! 
+| "[=kityonkaeronkari+sem@color.][NRoot][=pink (ES: rosado)]" : {kityonkaeronkari}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kitekirishi+gndr@m.+sem@reptile][NRoot][=rattlesnake.sp.]" : {kitekirishi}
@@ -2972,6 +2978,7 @@ define NRootPRQin [
 | "[=koritya+gndr@n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]" : {koritya}
 ! 
 | "[=koricha+sem@color.][NRoot][=purple (ES: púrpura, morado)]" : {koricha}
+| "[=kishaanyavo+allomorph@kishaañavo.+sem@color.][NRoot][=purple (ES: púrpura, morado)]" : {kishaanyavo}
 # ---------------------------------------------------------------------------
 ! 
 # korintona / =korinto -na / =mythological.animal -cl:large,deep.pool.of.water / ES: 'la.quebrada.de.Korinto'; EN: "Korinto's.ravine"  
@@ -5371,6 +5378,7 @@ define NRootPRQin [
 | "[=hamampo+gndr@n.m.][NRoot][=ash (ES: ceniza); grey, ashen, having.colour.of.smoke/ashes]" : {hamampo}
 ! 
 | "[=samampori+sem@color.][NRoot][=grey (ES: gris, plomo)]" : {samampori} 
+| "[=hamponari+sem@color.][NRoot][=grey (ES: gris, plomo)]" : {hamponari} 
 # --------------------------------------------------------------------------
 ! 
 | "[=samanto][NRoot][=UNKNOWN.WORD]" : {samanto} 
