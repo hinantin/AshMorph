@@ -4516,7 +4516,10 @@ define NRootPRQin [
 ! pitotsina 
 ! inchatona 
 ! piarina 
+! kahoni: recipiente de fermentación también de madera constituido por un tronco vaceado suspendido a 50 cm del suelo por dos horquetas. 
 | "[=kahoni+gndr@n.m.][NRoot][=recipient/container.for.fermenting.yucca (ES: recipiente.para.fermentar.yuca)]" : {kahoni} ! cajón??? 
+!| "[=piarina+~{N:/'manioc.beer':piari/}{CL:/'long.hollow':na/}][NRoot][=recipient/container.for.fermenting.yucca (ES: recipiente.para.fermentar.yuca)]" : {piarina} ! @section:noun@ 
+!| "[=pitotsina+~{N:/'canoe':pito/}{NPOSS:tsi}{CL:/'long.hollow':na/}][NRoot][=recipient/container.for.fermenting.yucca (ES: recipiente.para.fermentar.yuca)]" : {pitotsina} ! @section:noun@ 
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pahotiki+gndr@n.m.+sem@fruit][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]" : {pahotiki}
