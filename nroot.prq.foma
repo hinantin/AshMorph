@@ -7612,6 +7612,10 @@ define NRootPRQin [
 | "[=konisato][NRoot][=Friday (ES: viernes; PT: sexta-feira)]" : {konisato}
 | "[=kivantisato][NRoot][=Saturday (ES: sábado; PT: sábado)]" : {kivantisato}
 | "[=nyaatsasato][NRoot][=Sunday (ES: domingo; PT: domingo)]" : {nyaatsasato}
+# ############################
+# Geometrical shapes / Kantayitachari
+# ############################
+| "[=tapohontookiro+~{IDEO:/'round.oject':tapo/}{UNK:hontookiro}][NRoot][=circle (ES: círculo)]" : {tapohontookiro} ! @section:noun@ 
 ];
 
 # ##############################
