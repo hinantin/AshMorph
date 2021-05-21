@@ -7616,7 +7616,8 @@ define NRootPRQin [
 # Geometrical shapes / Kantayitachari
 # ############################
 | "[=tapohontookiro+~{IDEO:/'round.oject':tapo/}{UNK:hontookiro}][NRoot][=circle (ES: círculo)]" : {tapohontookiro} ! @section:noun@ 
-| "[=kantakontaraahantsari+~{UNK:kanta}{N:/'sole':konta/}{UNK:ra}{N:/'long':hantsa/}{NMZ:ri}][NRoot][=rectangle (ES: rectángulo)]" : {kantakontaraahantsari} ! @section:noun@ 
+| "[=kantakontaraahantsari+~{UNK:kanta}{N:/'sole':konta/}{UNK:raa}{N:/'long':hantsa/}{NMZ:ri}][NRoot][=rectangle (ES: rectángulo)]" : {kantakontaraahantsari} ! @section:noun@ 
+| "[=kantakontaraahantsari+~{UNK:kanta}{N:/'sole':konta/}{UNK:raa}{NMZ:ri}][NRoot][=square (ES: cuadrado)]" : {kantakontaraari} ! @section:noun@ 
 ];
 
 # ##############################
