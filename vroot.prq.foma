@@ -1991,6 +1991,8 @@ define VRootPRQin [
 | "[=ooso][VRoot][=to.tie (ES: atar);| to.tie.sth.up (ES: amarrar)]" : {ooso}
 !| "[=oosa][VRoot][=to.tie (ES: atar);| to.tie.sth.up (ES: amarrar)]" : {oosa}
 | "[=oiso+INF@/EP:t/aantsi.][VRoot][=to.tie (ES: atar);| to.tie.sth.up (ES: amarrar)]" : {oiso}
+! 
+| "[=oisori+~{V:/'to.tie':oiso/}{REV:ri}+INF@antsi.][VRoot][=to.untie (ES: soltar)]" : {oisori} 
 # --------------------------------------------------------------------
 ! 
 | "[=oonk][VRoot][=to.flood (ES: inundar(se))]" : {oonk} 
