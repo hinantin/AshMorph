@@ -2324,7 +2324,8 @@ define VRootPRQin [
 ! 
 | "[=pina][VRoot][=to.pay, to.pay.off (a_debt), to.be.free.of.debt; to.cost (ES: costar, valer); to.give]" : {pina}
 ! 
-!| "[=pinaro+~{V:/'to.pay':pina/}{NMZ:ro}+inal@ntsi.][NRoot][=price (ES: precio)]" : {pinaro} ! @section:noun@ 
+! Obinaro / ES: 'precio' 
+!| "[=pinaro+~{V:/'to.pay':pina/}{NMZ:ro}+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=price (ES: precio)]" : {pinaro} ! @section:noun@ 
 # ------------------------------------------------------
 ! 
 | "[=pink][VRoot][=to.refrain.from.doing.sth.; to.float; to.drown]" : {pink}
@@ -3510,7 +3511,9 @@ define VRootPRQin [
 ! 
 | "[=vank+INF@aantsi.][VRoot][=to.lift.sth.up (ES: alzar)]" : {vank}
 | "[=ovank+INF@aantsi.][VRoot][=to.lift.sth.(up) (ES: alzar)]" : {ovank}
-!| "[=ovank][VRoot][=to.lift.sth.(up)]" : {ovank}
+!
+!| "[=ovankaare][NRoot][=wave (ES: ola)]" : {ovankaare} ! @section:noun@ 
+!| "[=oankare][NRoot][=wave (ES: ola)]" : {oankare} ! @section:noun@ 
 # --------------------------------------------------------------------------- 
 ! 
 | "[=ovanke+INF@taantsi][VRoot][=to.ride (ES: montar)]" : {ovanke}
