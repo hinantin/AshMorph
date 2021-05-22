@@ -1152,8 +1152,8 @@ define VRootPRQin [
 | "[=kimoshire+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)]" : {kimoshire}
 | "[=kimoshere+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)]" : {kimoshere}
 ! 
-| "[=oimoshirink+~{AGT.CAUS:o}{'to.be.happy':/DEL:k/imoshiri}{EP:n}{DEGREE:k}+INF@aantsi.][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirink}
-| "[=oimoshirenk+~{AGT.CAUS:o}{'to.be.happy':/DEL:k/imoshire}{EP:n}{DEGREE:k}+INF@aantsi.][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirenk}
+| "[=oimoshirink+~{AGT.CAUS:o}{R.DEL:k}{'to.be.happy':kimoshiri}{EP:n}{DEGREE:k}+INF@aantsi.][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy)]" : {oimoshirink} 
+| "[=oimoshirenk+~{AGT.CAUS:o}{R.DEL:k}{'to.be.happy':kimoshire}{EP:n}{DEGREE:k}+INF@aantsi.][VRoot][=to.rejoice, to.celebrate (lit.: to.make.happy);| to.cheer (ES: alentar)]" : {oimoshirenk} 
 # ----------------------------------------------------------
 ! 
 | "[=kempoy+INF@antsi.][VRoot][=to.save (ES: guardar); to.watch (ES: vigilar, observar)]" : {kempoy}
@@ -2148,8 +2148,9 @@ define VRootPRQin [
 # --------------------------------------------------------------------------------- 
 ! 
 | "[=oih][VRoot][=to.follow; to.follow.sb.; to.accompany.sb.]" : {oih}
-| "[=oiha+INF@/EP:t/VC.][VRoot][=to.follow; to.follow.sb. (ES: seguir.a.algn.); to.accompany.sb.]" : {oiha}
+| "[=oiha+INF@/EP:t/VC.][VRoot][=to.follow; to.follow.sb. (ES: seguir.a.algn.);| to.accompany.sb. (ES: acompañar)]" : {oiha}
 | "[=oihampoiri+~{V:/'to.follow':oiha/}{L.DEL:a}{CL:/footprint:ampoiri/}+INF@antsi.][VRoot][=to.follow.the.tracks (ES: seguir.las.huellas)]" : {oihampoiri}
+| "[=oihana+INF@/EP:t/aantsi.][VRoot][=to.chase.sth./sb. (ES: perseguir)]" : {oihana}
 # --------------------------------------------------------------------------------- 
 ! 
 | "[=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)]" : {p}
