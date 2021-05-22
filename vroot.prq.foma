@@ -2020,6 +2020,10 @@ define VRootPRQin [
 | "[=oy][VRoot][=to.eat (ES: comer)]" : {oy}
 ! ivajyari / ivahyari / i- =v -ah -ya -ri / 3m.a- =to.eat -regr -irr -3m.o / ES: 'lo.comen'  
 | "[=v][VRoot][=to.eat (ES: comer)]" : {v} 
+! 
+! oantamentontsi / =o -ant -a -mento -ntsi / =to.eat -appl.reas -real -concr -nposs / ES: 'plato'; ES: 'plate'
+!| "[=oantamento+~{V:/'to.eat':o/}{APPL.REAS:ant}{EP:a}{CONCR:mento}+inal@ntsi.][NRoot][=plate (ES: plato)]" : {oantamento} ! @section:noun@ 
+!| "[=ovantamento+~{V:/'to.eat':ov/}{APPL.REAS:ant}{EP:a}{CONCR:mento}+inal@ntsi.][NRoot][=plate (ES: plato)]" : {ovantamento} ! @section:noun@ 
 # --------------------------------------------------------------------
 ! 
 | "[=ovayeri+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: guerrear, combatir)]" : {ovayeri} ! V@->N::[=combat (ES: guerra)] 
