@@ -41,9 +41,11 @@ TZEpenthesisRule8
 
       
       # abaemantero / avaemantero /  
-      define VCausativeAgentiveRule1 [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{o}] _ [{a}] ]; 
-      define VCausativeAgentiveRule2 [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{a}|{i}]"@VPERS@" _ [{a}] ]; 
-      define CausativeAgentive [VCausativeAgentiveRule1 .o. VCausativeAgentiveRule2 ]; 
+      define VCausativeAgentiveRule1 [ v"@AGTCAUS@"k -> v"@AGTCAUS@", v"@AGTCAUS@"k -> v"@AGTCAUS@"k || [{o}] _ [{a}] ]; 
+      define VCausativeAgentiveRule2 [ v"@AGTCAUS@"k -> v"@AGTCAUS@", v"@AGTCAUS@"k -> v"@AGTCAUS@"k || [{a}|{i}]"@VPERS@" _ [{a}] ]; 
+	  # obionkaka / ovionkaka / acumular 
+      define VCausativeAgentiveRule3 [ v"@AGTCAUS@"p -> v"@AGTCAUS@", v"@AGTCAUS@"p -> v"@AGTCAUS@"p || [{o}] _ [{i}] ]; 
+      define CausativeAgentive [ VCausativeAgentiveRule1 .o. VCausativeAgentiveRule2 .o. VCausativeAgentiveRule3 ]; 
       
       define IrrealisMidVoiceEmpaRule1 [ e"@EP" (->) "@EP" || [{r}] _ [{empa}] ];  
       
@@ -419,7 +421,7 @@ TZEpenthesisRule8
       ##########################
       source punctuation.foma
         define PunctuationMarks Punctuation;
-      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|IdeoRedupSyl|NominalizedVerb|NominalizedVerbPoss|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 
+      define Ashaninka Cleanup2 .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|IdeoRedupSyl|NominalizedVerb|NominalizedVerbPoss|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 
 .o. Orthography .o. UpperCase #NORMAL #DISABLE FOR SPELL-CHECKING DETECTION 
 ;
       #NORMAL
