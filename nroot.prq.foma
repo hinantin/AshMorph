@@ -1,13 +1,16 @@
 # -----------------------------------------------
 # "NOMINAL ROOTS":  
 # -----------------------------------------------
-# Nouns are transnumeral, i.e., (grammar) ambiguous as to whether it refers to one thing (singular) or more than one (dual or plural). 
+# Nouns are trans-numeral (TRN), i.e., (grammar) ambiguous as to whether it refers to one thing (singular) or more than one (dual or plural). 
 # Although the language possesses a plural nominal suffix (-paye) a nominal root without it, could still be referring to more than one entity. 
 # a. >=1 one or more entities (e.g.: koya) 
 # b. =1 or =N°.one/N°.entity (e.g.: aparoni koya) 
 # c. >1  more than one entity (e.g.: koyapaye) 
-# The nominal roots provided here are in singular form.
+# The nominal roots provided here are in singular form. 
+# +TRN@ola(s). ???
+# 
 # Spanish translations are in their singular form and tend to be written in masculine gender unless the entry is specifically not masculine.
+# 
 # NOTE: 
 # The letter 'g' is not included in the alphabet but it is often found within some textbooks, it is often a loan from Matsigenka.  
 # Ng + Vowel -> Nk + Vowel 
@@ -4367,6 +4370,9 @@ define NRootPRQin [
 | "[=ovaratanta+gndr@m.+sem@amphibian][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {ovaratanta}
 | "[=oaratanta+gndr@m.+sem@amphibian][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {oaratanta}
 | "[=aratanta+gndr@m.+sem@amphibian][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]" : {aratanta}
+# ---------------------------------------------------------------------
+! 
+| "[=ovararo+inal@ntsi.][NRoot][=merchandise (ES: mercadería)]" : {ovararo}
 # ---------------------------------------------------------------------
 ! 
 | "[=ovayeri+gndr@m.][NRoot][=guerrilla;| warrior (ES: guerrero; PT: guerreiro);| murderer]" : {ovayeri} ! @section:noun@ 

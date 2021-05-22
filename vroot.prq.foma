@@ -3532,8 +3532,8 @@ define VRootPRQin [
 | "[=oapatank+INF@V.][VRoot][=to.patch (ES: parchar)]" : {oapatank}
 # --------------------------------------------------------------------------- 
 ! 
-| "[=ovatsina+INF@antsi.][VRoot][= (ES: magullar)]" : {ovatsina}
-| "[=oatsina+INF@VC.][VRoot][= (ES: magullar)]" : {oatsina}
+| "[=ovatsina+INF@antsi.][VRoot][=to.bruise (ES: magullar)]" : {ovatsina}
+| "[=oatsina+INF@VC.][VRoot][=to.bruise (ES: magullar)]" : {oatsina}
 # --------------------------------------------------------------------------- 
 ! 
 | "[=vashire+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad (ES: estar.triste)]" : {vashire} ! V@->N::[=sadness (ES: tristeza)]  
