@@ -1931,8 +1931,8 @@ define VRootPRQin [
 | "[=ontso][VRoot][=to.start.fire, to.make.fire; to.poke.fire  (ES: atizar)]" : {ontso}
 # --------------------------------------------------------------------
 ! 
-| "[=oivo][VRoot][=to.bend, to.crouch]" : {oivo} 
-| "[=oiyo][VRoot][=to.bend, to.crouch]" : {oiyo} 
+| "[=oivo+INF@/EP:t/aantsi.][VRoot][=to.bend (ES: agachar);| to.crouch]" : {oivo} 
+| "[=oiyo][VRoot][=to.bend, to.crouch (ES: agachar)]" : {oiyo} 
 # --------------------------------------------------------------------
 ! 
 | "[=oit+INF@aantsi.][VRoot][=to.make.sb.drink (ES: hacer.tomar, dar.bebida.en.pate)]" : {oit} 
