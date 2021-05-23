@@ -115,7 +115,7 @@ $ git clone https://github.com/hinantin/AshMorph
 Software prerequisites
 ======================
 
-In order to run AshaninkaMorph (this finite state transducer), you will need either Foma or XFST, the download links for these are provided below:
+In order to run AshMorph (this finite state transducer), you will need either Foma or XFST, the download links for these are provided below:
 
 * Foma: https://github.com/mhulden/foma (In order to run Foma on a Linux OS you will need to install the following packages first: zlib1g-dev, flex, bison, libreadline-dev, termcap).
 
