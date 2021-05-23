@@ -119,4 +119,11 @@ In order to run AshaninkaMorph (this finite state transducer), you will need eit
 
 * Foma: https://github.com/mhulden/foma (In order to run Foma on a Linux OS you will need to install the following packages first: zlib1g-dev, flex, bison, libreadline-dev, termcap).
 
+```bash
+$ sudo apt install make
+$ sudo apt install build-essential
+$ sudo apt-get install zlib1g-dev flex bison libreadline-dev
+$ git https://github.com/mhulden/foma
+```
+
 * XFST: http://www.stanford.edu/~laurik/.book2software/
