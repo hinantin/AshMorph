@@ -2166,11 +2166,11 @@ define VRootPRQin [
 #@TOTREDUPCLASS03| "[=p+INF@aantsi.+tot.redup@unb.copy.][VRoot][=to.give (ES: dar)]" : {p} ! ipaipa 
 # --------------------------------------------------------------------------------- 
 ! 
-| "[=pai+INF@/EP:t/aantsi.][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair, to.have.gray.hair]" : {pai}
-| "[=pae][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair]" : {pae}
-| "[=pahi][VRoot][=to.be.called; to.call, to.name (ES: nombrar)]" : {pahi}
-| "[=pai+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.be.called; to.call, to.name (ES: nombrar)]" : {paipai}
-#@TOTREDUPCLASS01| "[=pai+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.be.called; to.call, to.name (ES: nombrar)]" : {pai} ! paipai 
+| "[=pai+INF@/EP:t/aantsi.][VRoot][=to.be.called (ES: llamarse);| to.call, to.name (ES: nombrar);| to.get.white.hair, to.have.gray.hair]" : {pai}
+| "[=pae][VRoot][=to.be.called (ES: llamarse);| to.call, to.name (ES: nombrar);| to.get.white.hair]" : {pae}
+| "[=pahi][VRoot][=to.be.called (ES: llamarse);| to.call, to.name (ES: nombrar)]" : {pahi}
+| "[=pai+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.be.called (ES: llamarse);| to.call, to.name (ES: nombrar)]" : {paipai}
+#@TOTREDUPCLASS01| "[=pai+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.be.called (ES: llamarse); to.call, to.name (ES: nombrar)]" : {pai} ! paipai 
 # --------------------------------------------------------------------------------- 
 ! 
 | "[=paik+INF@aantsi.][VRoot][=to.nail (ES: clavar), to.get.hit.with.an.object]" : {paik}
