@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"|"@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"|"@3n.m.O"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"]];
        define Cleanup [Cleanup2];
 
        define VowelRoot [a|e|i|o|á|é|í|ó|A|E|I|O|Á|É|Í|Ó];
@@ -27,83 +27,28 @@
       #                        #
       ##########################
 
-#      define AEpenthesisRule1 [ ["@EP@"{a}"@EP"] => t _ v ]; # kentavaetantsi / =kent -a -vae -t -antsi 
-#      define AEpenthesisRule2 [ ["@EP@"{a}"@EP"] => r _ y ]; 
-
-#      define AEpenthesisRule3 [ ["@EP@"{a}"@EP"] => s _ [r|v|k] ]; # pinkatsari ??? , i-kis-a-kamari-t-an-ak-a
-#      define AEpenthesisRule4 [ ["@EP@"{a}"@EP"] => k _ m ]; # notoncamento
-#      define AEpenthesisRule5 [ ["@EP@"{a}"@EP"] => t _ m ]; # itotamento
-#      define AEpenthesisRule6 [ ["@EP@"{a}"@EP"] => k _ n ]; # notyoonkantsi
-#      define AEpenthesisRule7 [ ["@EP@"{a}"@EP"] => k _ v ]; # pokabaetantsi
-#      define AEpenthesisRule8 [ ["@EP@"{a}"@EP"] => p _ v ]; # Pabaetantsi
-#      define AEpenthesisRule9 [ ["@EP@"{a}"@EP"] => v _ [v|h|{ch}|{ts}] ]; # Ob-a-bae-t-antsi, i-=tiyerov-a-hei-t-ati-ya 
-#      define AEpenthesisRule10 [ ["@EP@"{a}"@EP"] => r _ [v|p] ]; # irabaetantsi, n-=ir-a-piro-t-i-ro 
-#      define AEpenthesisRule11 [ ["@EP@"{a}"@EP"] => m _ [v|n] ]; # timabaetantsi, quem-a-nen-t-aantsi
-#      define AEpenthesisRule12 [ ["@EP@"{a}"@EP"] => k _ [h|y|r|p|t|a] ]; # i-vitsik-a-jee-tz-i-ri, betsik-a-ye-t-atsi-ri, o-tsimank-a-re, no-shitik-a-pero-t-ati-i-ro, ajirik-a-tsomi-t-ak-i-mpi-ri? , n=aabak-a-ati-ye-mpa  
-#      define AEpenthesisRule13 [ ["@EP@"{a}"@EP"] => p _ [a|y|h] ]; # i-kant-ap-a-ak-e, i-tsop-a-ye-t-ak-e 
-#      define AEpenthesisRule14 [ ["@EP@"{a}"@EP"] => t _ [h|m|p|k|y] ]; # y-ant-a-jeí-t-ak-e, kant-a-mironta-ki-t-acha-ri, o-kant-a-pankaina-aty-a, o-kant-a-kintsi-t-ap-ak-a, o-=mat-a-yi-tz-i-ri-ni 
-#      define AEpenthesisRule15 [ ["@EP@"{a}"@EP"] => m _ [h|a|e|y] ]; # tim-a-jeí-atsi-ri, o-bam-a-ak-e, am-a-enka-ri, p-am-a-ye-t-ak-e-ro 
-#      define AEpenthesisRule16 [ ["@EP@"{a}"@EP"] => y _ [a|y|v|m] ]; # i-vary-a-ant-tz-i, a-ny-a-ye-tz-i-ri, katziy-a-vint-a-ri-ri, i-piy-a-macheve-t-an-ah-a 
-#      define AEpenthesisRule17 [ ["@EP@"{a}"@EP"] => n _ [v|a|t] ]; # i-kin-a-bae-t-i,  I-kemisan-t-a-jei-t-i-ri
-                                                                       # kenakenatinkari / =kenaken -a -tinkari+m. / [=ken -a =ken] -a -tinkari+m. / [=to.walk -ep =to.walk] -ep -adj / ES: 'callejero' 
-                                                                       # kenakenatinkaro / =kenaken -a -tinkaro+n.m. / [=ken -a =ken] -a -tinkari+n.m. / [=to.walk -ep =to.walk] -ep -adj / ES: 'callejera' 
-#      define AEpenthesisRule18 [ ["@EP@"{a}"@EP"] => h _ [t|m] ]; # no-m-pirih-a-tsempeki-t-ak-e, sokih-a-mento-tsi 
-
-#      define TEpenthesisRule1 [ ["@EP@"{t}"@EP"] => i _ i ]; 
-#      define TEpenthesisRule2 [ ["@EP@"{t}"@EP"] => a _ a ]; 
-#      define TEpenthesisRule3 [ ["@EP@"{t}"@EP"] => e _ a ]; 
-#      define TEpenthesisRule4 [ ["@EP@"{t}"@EP"] => a _ e ]; 
-#      define TEpenthesisRule5 [ ["@EP@"{t}"@EP"] => o _ a ]; # Amitakotaantsi
-#      define TEpenthesisRule6 [ ["@EP@"{t}"@EP"] => i _ [a|e|y] ]; # Antabaitantsi, i-ñ-a-ashi-t-ya-ro-kia
-#      define TEpenthesisRule7 [ ["@EP@"{t}"@EP"] => e _ i ]; # Raniwaeti
-#      define TEpenthesisRule8 [ ["@EP@"{t}"@EP"] => o _ e ]; # aminakotero
-#      define TEpenthesisRule9 [ ["@EP@"{t}"@EP"] => a _ i ]; # o-kametsa-t-i
-#      define TEpenthesisRule10 [ ["@EP@"{t}"@EP"] => e _ [y|e] ]; # no-ñatsa-bae-t-ya, i-ñaashirink-a-jee-t-e-ri-ne
-#      define TEpenthesisRule11 [ ["@EP@"{t}"@EP"] => n _ [a|e|i|o|y] ]; # quemisan-t-atsi-ri, pi-n-quemisan-t-e-na-ji, i=shiron-t-yaa-ma  
-#      define TEpenthesisRule12 [ ["@EP@"{t}] => o _ ["@EP"[i|y]] ]; # i=cameetsa-t-asano-t-i, i-n=kis-ako-t-ya-ro 
-      #define TEpenthesisRule12 [ ~[ [~[?* o] "@EP@t@EP" ?*] | [?* "@EP@t@EP" ~[ [i|y] ?*]] ] ];
-#      define TEpenthesisRule13 [ ["@EP@"{t}"@EP"] => y _ [a|e] ]; # i=mantsiy-t-apaent-e
-									# This rule is not working for this entry: Ikinkishiriaka 
-									# but for Ikinkishiritaka, for this reason we apply an optional rule
-
-#      define TZEpenthesisRule1 [ ["@EP@"{tz}"@EP"] => e _ i ]; # ^EP IRREALIS ; 
-#      define TZEpenthesisRule2 [ ["@EP@"{tz}"@EP"] => a _ i ]; 
-#      define TZEpenthesisRule3 [ ["@EP@"{tz}"@EP"] => n _ i ]; 
-
-      define TZEpenthesisRule4 [ t"@EP" (->) {tz}"@EP" || n _ i ]; # kant@EPi -> ocantzi
-#      define TZEpenthesisRule5 [ ["@EP@"{tz}"@EP"] => i _ i ]; 
-      define TZEpenthesisRule6 [ t"@EP" (->) {tz}"@EP" || i _ i ]; # p^atziri(tz)-imo(t)~an-ac—e-ri
-#      define TZEpenthesisRule7 [ ["@EP@"{tz}"@EP"] => o _ i ]; 
-      define TZEpenthesisRule8 [ t"@EP" (->) {tz}"@EP" || o _ i ]; # i-tsink-ako-tz-imaint-a-ro
-#      define TSEpenthesisRule1 [ ["@EP@"{ts}"@EP"] => i _ i ];  # ts allophone to tz
+      define TSEpenthesisRule1 [ t"@EP" (->) {ts}"@EP" || n _ i ];  # ts allophone to tz
                                                                  # n-amatawits-i-mi
-#      define TSEpenthesisRule2 [ ["@EP@"{ts}"@EP"] => o _ [a|i] ];  # potso-ts-aantsi, ir=apato-ts-imai-t-ya-ri
-
+      define TSEpenthesisRule2 [ t"@EP" (->) {ts}"@EP" || a _ i ];
+	  
+      define TZEpenthesisRule4 [ t"@EP" -> {tz}"@EP" , t"@EP" -> t"@EP" || n _ i ]; # kant@EPi -> ocantzi
+      define TZEpenthesisRule6 [ t"@EP" (->) {tz}"@EP" || i _ i ]; # p^atziri(tz)-imo(t)~an-ac—e-ri
+      define TZEpenthesisRule8 [ t"@EP" (->) {tz}"@EP" || o _ i ]; # i-tsink-ako-tz-imaint-a-ro
       
-#      define CleanUpEpenthesisRule6 [ "" (->) "@EP" || i _ {antsi} ]; # kinkishiriantsi
-      
-#      define EpEpRestr1 [ ["@EP@"[{a}|{ts}{tz}]] => ~["@EP@"[{a}|{ts}{tz}]] _ ];
-      
-       define Epenthesis [ 
-#AEpenthesisRule1 .o. 
-#AEpenthesisRule2 .o. 
-#AEpenthesisRule3 .o. 
+      define Epenthesis [ 
+TSEpenthesisRule1 .o. TSEpenthesisRule2 .o. 
 TZEpenthesisRule4 .o. 
 TZEpenthesisRule6 .o. 
 TZEpenthesisRule8 
 ];
-#      define Epenthesis [ AEpenthesisRule1 .o. AEpenthesisRule2 .o. AEpenthesisRule3 .o. AEpenthesisRule4 .o. AEpenthesisRule5 .o. AEpenthesisRule6 
-#.o. AEpenthesisRule7 .o. AEpenthesisRule8 .o. AEpenthesisRule9 .o. AEpenthesisRule10 .o. AEpenthesisRule11 .o. AEpenthesisRule12 .o. AEpenthesisRule13 .o. AEpenthesisRule14 .o. AEpenthesisRule15 .o. AEpenthesisRule16 
-#.o. AEpenthesisRule17 .o. AEpenthesisRule18 
-#.o. TEpenthesisRule1 .o. TEpenthesisRule2 .o. TEpenthesisRule3 .o. TEpenthesisRule4 .o. TEpenthesisRule5 .o. TEpenthesisRule6 .o. TEpenthesisRule7 .o. TEpenthesisRule8 .o. TEpenthesisRule9 .o. TEpenthesisRule10 .o. TEpenthesisRule11 .o. TEpenthesisRule12 .o. TEpenthesisRule13 
-#.o. TZEpenthesisRule1 .o. TZEpenthesisRule2 .o. TZEpenthesisRule3 .o. TZEpenthesisRule4 .o. TZEpenthesisRule5 .o. TZEpenthesisRule6 .o. TZEpenthesisRule7 .o. TZEpenthesisRule8 
-#.o. TSEpenthesisRule1 .o. TSEpenthesisRule2 
-#.o. CleanUpEpenthesisRule6 ];
+
       
       # abaemantero / avaemantero /  
-      define VCausativeAgentiveRule1 [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{o}] _ [{a}] ]; 
-      define VCausativeAgentiveRule2 [ v"@AGTCAUS@"k (->) v"@AGTCAUS@" || [{a}|{i}]"@VPERS@" _ [{a}] ]; 
-      define CausativeAgentive [VCausativeAgentiveRule1 .o. VCausativeAgentiveRule2 ]; 
+      define VCausativeAgentiveRule1 [ v"@AGTCAUS@"k -> v"@AGTCAUS@", v"@AGTCAUS@"k -> v"@AGTCAUS@"k || [{o}] _ [{a}] ]; 
+      define VCausativeAgentiveRule2 [ v"@AGTCAUS@"k -> v"@AGTCAUS@", v"@AGTCAUS@"k -> v"@AGTCAUS@"k || [{a}|{i}]"@VPERS@" _ [{a}] ]; 
+	  # obionkaka / ovionkaka / acumular 
+      define VCausativeAgentiveRule3 [ v"@AGTCAUS@"p -> v"@AGTCAUS@", v"@AGTCAUS@"p -> v"@AGTCAUS@"p || [{o}] _ [{i}] ]; 
+      define CausativeAgentive [ VCausativeAgentiveRule1 .o. VCausativeAgentiveRule2 .o. VCausativeAgentiveRule3 ]; 
       
       define IrrealisMidVoiceEmpaRule1 [ e"@EP" (->) "@EP" || [{r}] _ [{empa}] ];  
       
@@ -112,29 +57,17 @@ TZEpenthesisRule8
       #        Transitive      #
       #                        #
       ##########################
-#       define TransSubj1 [ "[1SG.A+]" <- "[1SG.S+]" || _ ?* "[+1SG.O]"];
-#       define TransSubj2 [ "[2SG.A+]" <- "[2SG.S+]" || _ ?* "[+2SG.O]"];
-#       define TransSubj3 [ "[3SGm.A+]" <- "[3SGm.S+]" || _ ?* "[+3SGm.O]"];
-#       define TransSubj4 [ "[3SGnm.A+]" <- "[3SGnm.S+]" || _ ?* "[+3SGnm.O]"];
-#       define TransSubj5 [ "[1PL.A+]" <- "[1PL.S+]" || _ ?* "[+1PL.O]"];
-#      define VerbRules TransSubj1 .o. TransSubj2 .o. TransSubj3 .o. TransSubj4 .o. TransSubj5 ;
+      define PersPrnPI2Rule1 [ [{pi}]"@VPERS@" (->) "@2@" ];
+      define PersPrnRules [ PersPrnPI2Rule1 ] ; 
 
-#      source v-s-1.foma
-#      source v-s-2.foma
-#      source v-s-3.foma
-#      source v-s-4.foma
-#      source v-s-5.foma
-#      source v-s-6.foma
-#      source v-s-7.foma
       source verb.classifier.prq.foma
       source verb.composition.prq.foma
       source verb.composition.len.prq.foma
       source verb.suffix.prq.script
 	  
-	  source verb.transitions.modalformative.script
+      source verb.transitions.modalformative.script
       source verb.transitions.prq.script
 
-#      define S [ (V=S=1) (V=S=2) (V=S=3) (V=S=4) ]; #(V=S=3) (S=4) (S=5) (S=6) (S=7)] ;
       define Suff [S] ;
 
       ####################################
@@ -143,38 +76,25 @@ TZEpenthesisRule8
       #     Restricctions                #
       #                                  #
       ####################################
-      # S .. is accepted
-      
-      # not accepting the incorrect combinations S .. O deprecated 
-      #define TransSubjRestr1 [~$["@1SG.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-      #define TransSubjRestr2 [~$["@2S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-      #define TransSubjRestr3 [~$["@3m.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-      #define TransSubjRestr4 [~$["@3n.m.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-      #define TransSubjRestr5 [~$["@1PL.S"?*["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"]]];
-     #define MINSUFFIX  [~$[ ?*"--"?* ] ]; 
-      #define PrnSubject ["@1SG.S"|"@2S"|"@3m.S"|"@3n.m.S"|"@1PL.S"];
-      #define PrnAgent ["@1SG.A"|"@2A"|"@3m.A"|"@3n.m.A"|"@1PL.A"];
-      #define PrnObject ["@1SG.O"|"@2SG.O"|"@3m.O"|"@3n.m.O"|"@1PL.O"];
-      #define TransAgentWithoutObject ~[[PrnAgent ?*] & [?* PrnObject]];
-      #define TransSubjectWithObject ~[[PrnSubject ?*] & [?* PrnObject]];
-     #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5] ;
-      #define VerbFeatRestr [TransSubjRestr1 .o. TransSubjRestr2 .o. TransSubjRestr3 .o. TransSubjRestr4 .o. TransSubjRestr5 .o. TransAgentWithoutObject .o. TransSubjectWithObject] ;
 
       define MPRestr1 [ ["@MP@"] => {m} _ {p} ]; # IRREALIS PREFIX
       define NVowelRestr1 [ ["@NVowel@"] => {n} _ [{p}|{py}|{t}|{ty}|{k}|{ky}|{s}|{sh}|{ch}|{ts}|{tz}|{h}|{m}|{n}|{ny}|{r}|{ry}|{v}|{y}] ]; ! n, p should be omitted ? # IRREALIS PREFIX
       define PersPrefixRestr1 [ Cons => .#. ~[[{h}|{n}|{p}|{r}]"@VPERS@"] _ ];
       define PersPrefixRestr2 [ [{o}] => .#. ~[[{pi}]"@VPERS@"] _ ]; 
       define AgentiveCausativeRestr1 [ [{o}]"@AGTCAUS@" => .#. ~[[{n}]"@VPERS@"] _ ]; # no examples available, but it causes a lot of overgeneration that's why it should be regulated  
+      # Epenthesis rules 
+      define EpenthesisRestr1 ~[ ?* [{t}|{v}]"@EP@"[{t}] ?* ];
+      define EpenthesisRestr2 ~[ ?* "@EP@"[{a}]"@EP"[{aa}] ?* ];
       
-      define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 .o. PersPrefixRestr2 .o. AgentiveCausativeRestr1 ] ; 
+      define VerbFeatRestr [ MPRestr1 .o. NVowelRestr1 .o. PersPrefixRestr1 .o. PersPrefixRestr2 .o. AgentiveCausativeRestr1 .o. 
+ EpenthesisRestr1 .o. EpenthesisRestr2 ] ; 
 
       #source vroot.prq.foma
+      #source vroot.redup.foma
       #source vroot.es.foma
       #source n-vroot.prq.group1.foma 
       define vsyllable ConsRoot* VowelRoot^{1,2} ConsRoot*;
         define VRootPRQ [ ["[="] :0 ] [ vsyllable+ ] [ ["+GUESS][VRoot]"] :0 ] ;
-
-#      define Verb VerbFeatRestr .o. VerbRules .o. [ (Pref) [VRootPRQ] (Suff) ] .o. Epenthesis;
 
       ##########################
       #                        #
@@ -184,9 +104,6 @@ TZEpenthesisRule8
       source n-p-1.foma
       define NPref [(N=P=1)] ;
 
-#      source n-s-1.foma
-#      source n-s-2.foma
-#      source n-s-3.foma
       source noun.suffix.prq.script
       source noun.transitions.prq.script
 
@@ -212,6 +129,9 @@ TZEpenthesisRule8
       
       define PWLenitionRule5 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{pi}] _ [{i}] ]; 
       
+      define PYLenitionRule1 [ "@PHONPROC@"k (->) "@PHONPROC@"y || [{pi}] _ [{a}] ]; 
+                                                                            # piyatsarekitsoki
+      
       define PLenitionRule1 [ "@PHONPROC@"p (->) "@PHONPROC@" || [{no}] _ [{a}] ]; 
                                                                             # noajoni 
       define PLenitionRule2 [ "@PHONPROC@"p (->) "@PHONPROC@" || .#. [{o}] _ [{a}] ]; 
@@ -227,15 +147,17 @@ TZEpenthesisRule8
                                                                             # nokonta (in our lexicon) -> no@PHONPROC@onta -> no@PHONPROC@onta -> noonta 
                                                                             # okomaro (in our lexicon) -> o@PHONPROC@omaro -> o@PHONPROC@omaro -> oomaro-janiqui
                                                                             # oketsa (in our lexicon) -> o@PHONPROC@etsa -> o@PHONPROC@etsa -> o-etsa-re-ki
-      define KLenitionRule3 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{i}] _ [{i}] ]; ! not working.. why??? 
+      define KLenitionRule3 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{i}] _ [{i}|{o}] ]; ! not working.. why??? 
                                                                             # ikishi (in our lexicon) -> i@PHONPROC@kishi -> i@PHONPROC@ishi -> iishi 
                                                                             # ikitsoki (in our lexicon) -> i@PHONPROC@kitsoki -> i@PHONPROC@itsoki -> iitsoki 
+                                                                            # iovintsaane 
       define KLenitionRule4 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{p}] _ [{i}] ]; 
                                                                             # pkitsare (in our lexicon) -> p@PHONPROC@kitsare -> p@PHONPROC@itsare -> pitsare 
       define KLenitionRule5 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{o}] _ [{i}] ]; ! oitsoki -> o=kitsoki 
       define KLenitionRule6 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{a}] _ [{i}] ]; ! aitsoki -> a=kitsoki 
 
       define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 .o. PWLenitionRule4 
+ .o. PYLenitionRule1 
  .o. PLenitionRule1 .o.  PLenitionRule2  
  .o. KJLenitionRule1 .o. KJLenitionRule2 
  .o. KLenitionRule2 
@@ -248,13 +170,10 @@ TZEpenthesisRule8
       #########################################
       #          Vowel Deletion Rules         #
       #########################################
-      # noirani (in our lexicon) -> no@PHONPROC@irani -> n@PHONPROC@irani -> nirani 
-#      define VowelLossRule1 [ o"@PHONPROC@" -> "@PHONPROC@" || n _ [{i}|{o}|{a}] ]; 
-#      define VowelLossRule2 [ i"@PHONPROC@" -> "@PHONPROC@" || p _ [{i}|{o}|{a}] ]; 
+
       define VowelLossRule3 [ i"@PHONPROC@" (->) "@PHONPROC@" || _ [{i}] ]; 
       define VowelLossRule4 [ o"@PHONPROC@" (->) "@PHONPROC@" || _ [{o}] ]; 
       
-#      define VowelLoss [ VowelLossRule1 .o. VowelLossRule2 ];
       define VowelLoss [ VowelLossRule3 .o. VowelLossRule4 ];
       
       ####################################
@@ -273,17 +192,22 @@ TZEpenthesisRule8
       define PossessiveRestr4 [ [{o}] => .#. ~[{pi}"@PHONPROC@"] _  ]; ! pio 
       
       define IRestr1 [ ["@I@"] => {i} _ ]; 
-      define IRestr2 [ ["@IDIM@"] => {i} _ ]; 
+      define IRestr2 [ ["@IDIM@"] => {i} _ , {e} _ ]; ! eẽtxeriki FROM CPB 
       define NIRestr1 [ ["@NI@"] => {ni} _ ]; 
+      
+      define NominalizerRestr1 ~[ ?* [{k}]"@EP"[{ri}] ?* ];
       
       define NounFeatRestr [ PossPlusInalRestr1 .o. PossessiveRestr1 .o. PossessiveRestr2 .o. PossessiveRestr4 
 .o. IRestr1 .o. IRestr2 
-.o. NIRestr1 .o. PossPlusAlnPossRestr1 ];
+.o. NIRestr1 .o. PossPlusAlnPossRestr1 
+.o. NominalizerRestr1 ];
       
       #source nroot.prq.foma
       #source aroot.prq.foma
       # Spanish loan words
       #source nroot.es.foma
+      # English loan words
+      #source nroot.en.foma
       # Quechua loan words 
       #source nroot.qu.foma
       # Portuguese loan words
@@ -292,7 +216,7 @@ TZEpenthesisRule8
 
       # Compound nouns
       #source noun.cmp.prq.foma
-      #define NRootCmpPRQ NRootCmpPRQin;
+      define NRootCmpPRQ NRootCmpPRQin;
 
 #      source nroot.es.freeling.00.foma
 #      define NRootESFreeling00 NRootESFreelingin00 .o. UpperCase; 
@@ -305,9 +229,11 @@ TZEpenthesisRule8
       
       #source place.names.foma 
 
-      #define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
+#      define NRootFreeling [NRootESFreeling00|NRootESFreeling01|NRootESFreeling02|NRootESFreeling03];
+      
       define nsyllable ConsRoot* VowelRoot^{1,2} ConsRoot*;
       define NRootPRQ [ ["[="] :0 ] [ vsyllable+ ] [ ["+GUESS][NRoot]"] :0 ] ;
+
       ####################################
       #     Compound nouns               #
       ####################################
@@ -316,11 +242,13 @@ TZEpenthesisRule8
       # caavovaniri~kaavovaniri / 'kaavo-kaniri' / ES: 'caña-yuca', EN: 'sugar.cane-yucca' 
       # camatoyaniri / '' 
       # tsireentsiyaniri / '' 
-      define PWLenitionRuleCmpNoun1 [ "@PHONPROCCMPNOUN@"p (->) "@PHONPROCCMPNOUN@"v || [{a}] _ [{i}|{o}] ]; 
-      define KWLenitionRuleCmpNoun2 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"v || [{o}] _ [{a}] ]; 
-      define KYLenitionRuleCmpNoun3 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"y || [{o}|{i}] _ [{a}] ]; 
+      # carapavanco / '' 
+      define PWLenitionRuleCmpNoun1 [ "@PHONPROCCMPNOUN@"p (->) "@PHONPROCCMPNOUN@"v || [{a}] _ [{a}|{i}|{o}] ]; 
+      define KWLenitionRuleCmpNoun2 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"v || [{a}|{o}] _ [{a}] ]; 
+      define KYLenitionRuleCmpNoun3 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"y || [{e}|{i}|{o}] _ [{a}] ]; 
+      define KGLenitionRuleCmpNoun4 [ "@PHONPROCCMPNOUN@"k (->) "@PHONPROCCMPNOUN@"g || [{a}] _ [{a}] ]; 
       
-      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 ];  
+      define LenitionCmpNoun [ PWLenitionRuleCmpNoun1 .o. KWLenitionRuleCmpNoun2 .o. KYLenitionRuleCmpNoun3 .o. KGLenitionRuleCmpNoun4 ];  
 
       ############################
       #      Noun transducer     #
@@ -338,6 +266,9 @@ TZEpenthesisRule8
 
       define NominalizedVerbFeatRestr [ NPOSSRestr1 .o. NPOSSRestr2 ];
 
+      define PWLenitionRuleIncNoun1 [ "@EP"p (->) "@PHONPROCINCNOUN@"v || [{a}] _ [{a}|{o}] ]; 
+      define LenitionIncNoun [ PWLenitionRuleIncNoun1 ];  
+
       define NominalizedVerb [ (NPref) [VRootPRQ] ( [
                                                      [APPLINT DUR] 
                                                    | [APPLGEN] # tseeyakotaantsi / =tsee -ako -t -aantsi / =to.lie -applgen -ep -ing / ES: 'difamar'; EN: 'to.defame; to.slander'  
@@ -352,31 +283,26 @@ TZEpenthesisRule8
                                                    | [SENSORY] # kisanintantzinkari / =kis -a -nint -antzinkari 
                                                    | [APPLREAS] # añaantarentsi 
                                                    | [DUR] # ñaabaementotsiki  
+                                                   | [APPLPRES] # shiyakaimotantsi, abishimotantsi, timimotantsi, onimotantsi? 
                                                   ] )
                                                   # konatsapiyarentsi / =kona -tsapiya -re -ntsi / =to.fish.with.barbasco -cl:side.of.river -nmz -nposs / EN: 'activity.of.fishing.with.barbasco.at.the.bank.of.the.river', ES: 'pesca.nocturna.con.barbasco.a.orillas.del.río'  
-                                                  [ CL|[CL [NMZ|ADJ]]|[NMZ|ADJ] ] (NRootCmpPRQ) 
-                                                  (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ; # .o. VowelLoss ;
+                                                  # CL: these are verbal classifiers !!
+                                                  [ [ 
+                                                    CL 
+                                                  | [ "@PHONPROCINCNOUN@"[V=S=LEN=noun] [NMZ|ADJ] ] # sankenabankori 
+                                                  | [ CL [NMZ|ADJ] ] 
+                                                  | [ NMZ|ADJ ] 
+                                                                    ] (NRootCmpPRQ) ] # yotaantsipanko 
+                                                  (NSuff) ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis .o. LenitionIncNoun ; # .o. VowelLoss ;
       
-
-# | V=S=ADJ # nominalization 
-# | (SENSORY) NMZ # nominalization 
-# | STAT NMZ (ADV) # nominalization revise!!!
-# | V=S=ADJ (AUG) # nominalization 
-# | (APPLREAS) V=S=ADJ # nominalization 
-# | NMZ # nominalization 
-# | V=S=ADJ (V=S=LOC) # nominalization
-# | V=S=ADJ (V=S=smallpart) (V=S=DIM) # nominalization 
-# | (REGR) (STAT) (V=S=ADJ) (V=S=TEMPORAL) # nominalization revise?
-# | V=S=ADJ # nominalization 
-# | V=S=ADJ (PL) # nominalization 
-# | V=S=ADJ (ADV) # nominalization
+      define NominalizedVerbPoss [ NPref [VRootPRQ] (SENSORY) POSSIND ] .o. Lenition .o. NounFeatRestr .o. NominalizedVerbFeatRestr .o. Epenthesis ;
 
       define CompositeVerbRoot [ (V=S=noun) ("@PHONPROCCMPNOUN@"V=S=LEN=noun) [[(N=S=CL)]|[(N=S=ABS)]] ] ;
       
       ############################
       #      Verb transducer     #
       ############################
-      define Verb [ (Pref) [VRootPRQ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. Lenition .o. VerbFeatRestr;
+      define Verb [ [ [ (Pref) [VRootPRQ] ] | [VRootREDUPin] ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. LenitionIncNoun .o. VerbFeatRestr;
       #define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Lenition .o. VerbFeatRestr;
       
       ##########################
@@ -480,6 +406,20 @@ TZEpenthesisRule8
         define IdeoADBL IdeoADBLin;
       define Ideophone [ [IdeoPRQ|IdeoADBL] ];
 
+      source ideoredupsyl.prq.foma
+
+      define IdeoRedupSyl [ [ 
+                     IdeoRedupSylin=RI RedupSyl=RI 
+                   | IdeoRedupSylin=RE RedupSyl=RE 
+                   | IdeoRedupSylin=PO RedupSyl=PO 
+                   | IdeoRedupSylin=MI RedupSyl=MI 
+                   | IdeoRedupSylin=PI RedupSyl=PI 
+                   | IdeoRedupSylin=RA RedupSyl=RA 
+                   | IdeoRedupSylin=VI RedupSyl=VI 
+                   | IdeoRedupSylin=RO RedupSyl=RO 
+                   | IdeoRedupSylin=NI RedupSyl=NI 
+                   ] (IDEO=S=PUNCTUALACTN) ] ; 
+
       ##########################
       #                        #
       #       Punctuation      #
@@ -487,8 +427,18 @@ TZEpenthesisRule8
       ##########################
       source punctuation.foma
         define PunctuationMarks Punctuation;
-      define Ashaninka Cleanup .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|NominalizedVerb|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 .o. Orthography .o. UpperCase;
-      read regex Ashaninka;
+      define Ashaninka Cleanup2 .o. [ [Other|Adverb|Noun|Verb|Negator|Interrogative|Personal|Possessive|Demonstrative|Interjection|Ideophone|IdeoRedupSyl|NominalizedVerb|NominalizedVerbPoss|ConnRootPRQ01|PunctuationMarks] ] .o. Cleanup1 
+.o. Orthography .o. UpperCase #NORMAL #DISABLE FOR SPELL-CHECKING DETECTION 
+;
+      #NORMAL
+      read regex Ashaninka; 
+      #NORMAL
+      save stack asheninka.bin 
 
-      save stack asheninka.guesser.bin
-
+# SPELLING SUGGESTION 
+#read regex Ashaninka .l; # Projection 
+#write att spellcheck.att 
+#clear 
+#read att spellcheck.att 
+#read cmatrix typo.matrix 
+#save stack error_correction.fst 
