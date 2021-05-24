@@ -433,7 +433,7 @@ TZEpenthesisRule8
       #NORMAL
       read regex Ashaninka; 
       #NORMAL
-      save stack asheninka.bin 
+      save stack asheninka.guesser.bin 
 
 # SPELLING SUGGESTION 
 #read regex Ashaninka .l; # Projection 
