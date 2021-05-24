@@ -4425,7 +4425,8 @@ define NRootPRQin [
 | "[=ovati+gndr@m.+sem@wild.anim.][NRoot][=weasel-like.animal.sp. (ES: omairo); (ES: lobo.de.monte)]" : {ovati}
 # ---------------------------------------------------------------------
 ! 
-| "[=ovinteni][NRoot][=flat.extension, plane (QU: pampa); valley]" : {ovinteni}
+| "[=ovinteni][NRoot][=flat.extension, plane (ES: llano; QU: pampa);| valley]" : {ovinteni}
+| "[=ovintini][NRoot][=flat.extension, plane (ES: llano; QU: pampa)]" : {ovintini}
 # ---------------------------------------------------------------------
 ! 
 | "[=oviyari+gndr@m.+sem@bird][NRoot][=screaming.piha (ES: sp.de.pajarito; sci.nm.: lipaugus.vociferas)]" : {oviyari}
