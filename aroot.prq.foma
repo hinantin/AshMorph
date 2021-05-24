@@ -130,4 +130,7 @@ define ARootPRQin [
 # kaniri tashirentsi / =kaniri =tashi -re -ntsi / =yucca =to.roast.with.coal -nmz -nposs / EN: 'roasted.manioc'
 | "[=tashire+~{V:/'tashi':to.roast.with.coal/}{NMZ:re}+gndr@n./m.+inal@ntsi.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashire} 
 | "[=tashiri+~{V:/'tashi':to.roast.with.coal/}{NMZ:ri}+gndr@n./m.+inal@ntsi.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)]" : {tashiri} 
+!
+| "[=pihonkari+gndr@n./m.+poss@nposs.adj.][NRoot][=lightweight (ES: liviano)]" : {pihonkari}
+| "[=piyonkari+gndr@n./m.+poss@nposs.adj.][NRoot][=lightweight (ES: liviano)]" : {piyonkari}
 ];
