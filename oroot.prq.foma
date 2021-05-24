@@ -239,7 +239,8 @@ define ORootPRQin [
 | "[=omapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omapero}
 | "[=omapiro+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omapiro}
 | "[=omaapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {omaapero}
-| "[=maapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {maapero} ! N@->V # ---------------------------------------------- 
+| "[=maapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]" : {maapero} ! N@->V 
+# ---------------------------------------------- 
 ! 
 | "[=omaperotatya][OtherRoot][=SUPERLATIVE (EN: ris.that.true?, it.is.true)]" : {omaperotatya}
 ! 
