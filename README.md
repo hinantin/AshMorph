@@ -95,6 +95,15 @@ speed:		1 word/sec
 # FOMA
 $ foma -f asheninka.script 
 
+$ echo "ashaninka" | flookup asheninka.bin
+ashaninka       [=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]
+ashaninka       [a-][NPers][1PL.poss+][--][=sha+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)][--][-ni+sem@place.][+CL:watercourse][=watercourse, running.water.feature][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
+ashaninka       [a-][NPers][1PL.poss+][--][=sha+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (it.has.black.fruits.&.its.leaves.are.used.to.make.baskets/mats; ES: ungurahui, unguravi, ungurabe, ungurague; PT: patoá)][--][-ni][DEGR][+AUG][=AUG (EN: too; ES: demasiado); INTNS][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
+ashaninka       [a-][NPers][1PL.poss+][--][=sha+poss@ni.+sem@wild.anim.][NRoot][=anteater (ES: piampía; PT: tamanduá)][--][-ni+sem@place.][+CL:watercourse][=watercourse, running.water.feature][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
+ashaninka       [a-][NPers][1PL.poss+][--][=sha+poss@ni.+sem@wild.anim.][NRoot][=anteater (ES: piampía; PT: tamanduá)][--][-ni][DEGR][+AUG][=AUG (EN: too; ES: demasiado); INTNS][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
+ashaninka       [a-][NPers][1PL.poss+][--][=shani+gndr@m.+sem@wild.anim.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
+ashaninka       [a-][NPers][1PL.poss+][--][=shani][VRoot][=to.be.of.the.same.group][--][-nka][NS][+NMZ.QLTY]nka
+
 ```
 
 How to download the source code 
