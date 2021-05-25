@@ -3250,8 +3250,8 @@ define NRootPRQin [
 # -----------------------------------------------------------------------
 ! 
 ! forest.owl.which.murders.by.plucking.out.a.victim's.eyes
-| "[=mamaro+gndr@m.+sem@bird][NRoot][=(forest).owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamaro}
-| "[=mamavo+gndr@m.+sem@bird][NRoot][=(forest).owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]" : {mamavo}
+| "[=mamaro+gndr@m.+sem@bird][NRoot][=(forest).owl, demonic.bird;| great.horned.owl (ES: lechuza.grande; sci.nm.: bubo.virginianus)]" : {mamaro}
+| "[=mamavo+gndr@m.+sem@bird][NRoot][=(forest).owl, demonic.bird;| great.horned.owl (ES: lechuza.grande; sci.nm.: bubo.virginianus)]" : {mamavo}
 # -----------------------------------------------------------------------
 ! 
 | "[=mampavo+gndr@m.+sem@insect][NRoot][=cricket.sp. (sp.de.grillo)]" : {mampavo}
