@@ -1411,10 +1411,10 @@ define VRootPRQin [
 | "[=asaki][VRoot][=to.wake.up (ES: despertar)]" : {asaki} ! only one occurrence, yet to be tested 
 # ---------------------------------------------------------
 ! 
-| "[=kaheni][VRoot][=to.be.itchy (ES: dar.comezón/escozor/picazón, picar, escocer)]" : {kaheni}
-| "[=kaeni][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor/picazón, picar, escocer)]" : {kaeni}
-| "[=kaini][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor/picazón, picar, escocer)]" : {kaini}
-| "[=kahen][VRoot][=to.itch (ES: dar.comezón/escozor/picazón)]" : {kahen}
+| "[=kaheni+INF@/EP:t/aantsi.][VRoot][=to.be.itchy (ES: dar.comezón/escozor/picazón, picar, escocer)]" : {kaheni}
+| "[=kaeni+INF@/EP:t/aantsi.][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor/picazón, picar, escocer)]" : {kaeni}
+| "[=kaini+INF@/EP:t/aantsi.][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor/picazón, picar, escocer)]" : {kaini}
+| "[=kahen+INF@VC.][VRoot][=to.itch (ES: dar.comezón/escozor/picazón)]" : {kahen}
 # --------------------------------------------------------- 
 ! 
 # katyokantsi / ES: 'charqui'; QU: "ch'arki" 
