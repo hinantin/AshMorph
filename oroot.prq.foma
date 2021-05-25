@@ -416,6 +416,11 @@ define ConnRootPRQ01in [
 ! 
 | "[=yoiro+num@3SG][VRoot][=PERMANENT.CHARACTER.TRAIT.OF.A.BEING (ES: RASGO.PERMANENTE.DEL.CARÁCTER.DE.UN.SER)]" : {yoiro}
 | "[=noiro+num@1SG][VRoot][=PERMANENT.CHARACTER.TRAIT.OF.A.BEING (ES: RASGO.PERMANENTE.DEL.CARÁCTER.DE.UN.SER)]" : {noiro}
+! 
+##########################
+# CLASSIFIERS 
+##########################
+| "[o-][NPers][3n.m.poss+][--][-ha][+CL:liquid][=liquid (ES: líquido)]" : {oha}
 ];
 
 ! As verbal/nominal suffixes 
