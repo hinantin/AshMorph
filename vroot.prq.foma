@@ -1405,8 +1405,8 @@ define VRootPRQin [
 # ---------------------------------------------------------
 ! 
 ! saquitatsiri / sakitatsiri / =saki -t -atsi =rel / EN: 'sleepless'; ES: 'insomne' 
-| "[=kaki][VRoot][=to.wake.up (ES: despertar)]" : {kaki}
-| "[=saaki][VRoot][=to.wake.up (ES: despertar)]" : {saaki}
+| "[=kaki+INF@/EP:t/aantsi.][VRoot][=to.wake.up (ES: despertar)]" : {kaki}
+| "[=saaki+INF@/EP:t/aantsi.][VRoot][=to.wake.up (ES: despertar)]" : {saaki}
 | "[=saki][VRoot][=to.wake.up (ES: despertar)]" : {saki}
 | "[=asaki][VRoot][=to.wake.up (ES: despertar)]" : {asaki} ! only one occurrence, yet to be tested 
 # ---------------------------------------------------------
