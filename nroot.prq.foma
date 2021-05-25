@@ -918,6 +918,10 @@ define NRootPRQin [
 ! antantsi chopi / ES: 'hacer.sopa'
 | "[=chopire+~{'to.make.soup':chopi}{NMZ:re}+gndr@n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopire} 
 | "[=chopiri+~{'to.make.soup':chopi}{NMZ:ri}+gndr@n.m.+inal@ntsi.][NRoot][=mixed.soup, soup (ES: sopa)]" : {chopiri} 
+! 
+!| "[=chopitzinkari_shima][NRoot][=fish.soup (ES: caldo.de.pescado)]" : {chopitzinkari_shima} ! @section:noun@ 
+!| "[=chopirintsi_parentzi][NRoot][=plantain.soup (ES: sopa.de.plátano)]" : {chopirintsi_parentzi} ! @section:noun@ 
+!| "[=chopirintsi_shima][NRoot][=fish.soup (ES: caldo.de.pescado)]" : {chopirintsi_shima} ! @section:noun@ 
 # ------------------------------------------------------------------------------- 
 ! 
 | "[=chorina+gndr@n.m.+sem@plant][NRoot][=palm.tree.sp. (PT: bacaba; sci.nm.: oenocarpus.mapora)]" : {chorina} 
@@ -7012,7 +7016,7 @@ define NRootPRQin [
 ! 
 | "[=tsiri][NRoot][=clay-like.substance]" : {tsiri}
 | "[=tsire][NRoot][=clay-like.substance]" : {tsire}
-! 
+! plátano o yuca sancochada y machucada medio pegajosa
 !| "[=payantzi_tsireri][NRoot][=sticky.plantain (ES: plátano.pegajoso)]" : {payantzi_tsireri} ! @section:noun@ 
 # ------------------------------------------------------------------------------ 
 ! 
