@@ -1407,7 +1407,7 @@ define VRootPRQin [
 ! saquitatsiri / sakitatsiri / =saki -t -atsi =rel / EN: 'sleepless'; ES: 'insomne' 
 | "[=kaki+INF@/EP:t/aantsi.][VRoot][=to.wake.up (ES: despertar)]" : {kaki}
 | "[=saaki+INF@/EP:t/aantsi.][VRoot][=to.wake.up (ES: despertar)]" : {saaki}
-| "[=saki][VRoot][=to.wake.up (ES: despertar)]" : {saki}
+| "[=saki+INF@/EP:t/aantsi.][VRoot][=to.wake.up (ES: despertar)]" : {saki}
 | "[=asaki][VRoot][=to.wake.up (ES: despertar)]" : {asaki} ! only one occurrence, yet to be tested 
 # ---------------------------------------------------------
 ! 
@@ -3439,7 +3439,13 @@ define VRootPRQin [
 | "[=tyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tyerov}
 | "[=tyeerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tyeerov}
 | "[=tiyerov][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tiyerov}
-| "[=tiyero][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tiyero}
+| "[=tiyero+INF@aantsi.][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tiyero}
+| "[=tyiirov+INF@aantsi.][VRoot][=to.kneel.down (ES: arrodillarse)]" : {tyiirov}
+| "[=otyiirov+INF@aantsi.][VRoot][=to.kneel.down (ES: arrodillarse)]" : {otyiirov}
+| "[=otyeerov+INF@aantsi.][VRoot][=to.kneel.down (ES: arrodillarse)]" : {otyeerov}
+| "[=otziverov+INF@aantsi.][VRoot][=to.kneel.down (ES: arrodillarse)]" : {otziverov}
+| "[=otziverok+INF@aantsi.][VRoot][=to.kneel.down (ES: arrodillarse)]" : {otziverok}
+| "[=otziirov+INF@aantsi.][VRoot][=to.kneel.down (ES: arrodillarse)]" : {otziirov}
 # --------------------------------------------------------------------------- 
 ! 
 | "[=tyoo+INF@/EP:t/aantsi.][VRoot][=to.honk (ES: bocinar)]" : {tyoo}
