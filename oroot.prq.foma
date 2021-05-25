@@ -421,6 +421,7 @@ define ConnRootPRQ01in [
 # CLASSIFIERS 
 ##########################
 | "[o-][NPers][3n.m.poss+][--][-ha][+CL:liquid][=liquid (ES: líquido)]" : {oha}
+| "[o-][NPers][3n.m.poss+][--][-hempeki][+CL:small.branch][=small.branch (ES: rama); branching.from.one.node/source (e.g.: a.limb); pointed]" : {ohempeki}
 ];
 
 ! As verbal/nominal suffixes 
