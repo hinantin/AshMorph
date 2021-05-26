@@ -1283,6 +1283,8 @@ define NRootPRQin [
 ! 
 | "[=sompo+inal@tsi.][NRoot][=tumor (ES: tumor); boil (ES: chupo)]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 | "[=hompo+inal@tsi.][NRoot][=tumor (ES: tumor); boil (ES: chupo)]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
+| "[=pompo][NRoot][=protuberancia (ES: bulge)]" : {pompo} ! @VCMP  
+| "[=Pompo+sem@NP.person][NRoot][=NP]" : {pompo}
 # ------------------------------------------------------------------
 ! 
 | "[=ime+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]" : {ime}
@@ -3410,7 +3412,7 @@ define NRootPRQin [
 | "[=pomporo+gndr@m.+sem@gastropoda][NRoot][=big-size.snail]" : {pomporo}
 ! novompoote / no- =pompoo -te / 1sg.poss- =land.snail -aln.poss. / EN: 'my.land_snail'  
 | "[=pompoo+gndr@m.+poss@te:ti.+sem@gastropoda][NRoot][=land.snail (ES: caracol.de.monte)]" : {pompoo}
-| "[=pompo+gndr@m.+poss@te:ti.+sem@gastropoda][NRoot][=land.snail (ES: caracol.de.monte)]" : {pompo} ! @VCMP  
+| "[=pompo+gndr@m.+poss@te:ti.+sem@gastropoda][NRoot][=land.snail (ES: caracol.de.monte)]" : {pompo}
 ! 
 | "[=tsoiroki+gndr@m.+sem@gastropoda][NRoot][=small-size.snail]" : {tsoiroki}
 | "[=tyontiiki+gndr@m.+sem@gastropoda][NRoot][=river.snail]" : {tyontiiki}
