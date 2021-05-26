@@ -41,7 +41,7 @@ define NounToVerbPRQin [
 | "[=intaina+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {intaina} ! N@->V ! revise if it belongs to this file 
 | "[=intaena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {intaena} ! N@->V ! revise if it belongs to this file 
 | "[=inteena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)][^VBZ]" : {inteena} ! N@->V ! revise if it belongs to this file 
-| "[=kirinka][NRoot][=down.river, downstream (ES: río.abajo); central.part.of.the.jungle][^VBZ]" : {kirinka} ! N@->V 
+| "[=kirinka][NRoot][=(down.river|downstream) (ES: río.abajo);| central.part.of.the.jungle][^VBZ]" : {kirinka} ! N@->V  @section:noun@  
 | "[=ira+gndr@n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]::[=to.bleed (ES: sangrar)][^VBZ]" : {ira} ! N@->V::[=to.bleed (ES: sangrar)] 
 | "[=isha+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]::[=to.be.an.old.woman][^VBZ]" : {isha} ! N@->V::[=to.be.an.old.woman] 
 | "[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)][^VBZ]" : {oteva} ! N@->V 
@@ -55,15 +55,15 @@ define NounToVerbPRQin [
 | "[=kimohantsi][NRoot][=growing, increasing (ES: creciente)][^VBZ]" : {kimohantsi} ! N@->V
 | "[=kipishi][NRoot][=bitter]::[=to.be.bitter (ES: ser.amargo)][^VBZ]" : {kipishi} ! N@->V::[=to.be.bitter (ES: ser.amargo)] 
 | "[=kepishi][NRoot][=bitter]::[=to.be.bitter (ES: ser.amargo)][^VBZ]" : {kepishi} ! N@->V::[=to.be.bitter (ES: ser.amargo)] 
-| "[=kitamaro+gndr@n.m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamaro} ! N@->V::[to.be.white]
-| "[=kitamaaro+gndr@n.m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamaaro} ! N@->V::[to.be.white]
-| "[=kitamaavo+gndr@n.m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamaavo} ! N@->V::[to.be.white]
-| "[=kitamari+gndr@m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamari} ! N@->V::[to.be.white]
-| "[=kitamaari+gndr@m.+sem@color.][NRoot][=white]::[to.be.white][^VBZ]" : {kitamaari} ! N@->V::[to.be.white]
-| "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo)]::[to.be.yellow (ES: ponerse.amarillento)][^VBZ]" : {kiteri} ! N@->V::[to.be.yellow (ES: ponerse.amarillento)] 
+| "[=kitamaro+gndr@n.m.+sem@color.][NRoot][=white (ES: blanco)]::[to.be.white][^VBZ]" : {kitamaro} ! N@->V::[to.be.white]
+| "[=kitamaaro+gndr@n.m.+sem@color.][NRoot][=white (ES: blanco)]::[to.be.white][^VBZ]" : {kitamaaro} ! N@->V::[to.be.white]
+| "[=kitamaavo+gndr@n.m.+sem@color.][NRoot][=white (ES: blanco)]::[to.be.white][^VBZ]" : {kitamaavo} ! N@->V::[to.be.white]
+| "[=kitamari+gndr@m.+sem@color.][NRoot][=white (ES: blanco)]::[to.be.white][^VBZ]" : {kitamari} ! N@->V::[to.be.white]
+| "[=kitamaari+gndr@m.+sem@color.][NRoot][=white (ES: blanco)]::[to.be.white][^VBZ]" : {kitamaari} ! N@->V::[to.be.white]
+| "[=kiteri+sem@color.][NRoot][=yellow (ES: amarillo);| healthy.skin.color.for.arawak.people (ES: color.de.la.piel.sana.del.poblador.arawak)]::[to.be.yellow (ES: ponerse.amarillento)][^VBZ]" : {kiteri} ! N@->V::[to.be.yellow (ES: ponerse.amarillento)] 
 | "[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][^VBZ]" : {kooya} ! N@->V
 | "[=koya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][^VBZ]" : {koya} ! N@->V ! @section:noun@ 
-| "[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone; rock]::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)][^VBZ]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] @section:noun@ 
+| "[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone;| rock]::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)][^VBZ]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] @section:noun@ 
 | "[=matsi+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[VIRVRoot+INF@/EP:t/aantsi.][=to.be.a.witch][^VBZ]" : {matsi} ! @VCMP N@->V::[VIRVRoot+INF@/EP:t/aantsi.][=to.be.a.witch] 
 | "[=matzi+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[=to.be.a.witch][^VBZ]" : {matzi} ! N@->V::[=to.be.a.witch]  
 | "[=mati+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[=to.be.a.witch; to.practice.witchcraft.on.sb. (ES: brujear)][^VBZ]" : {mati} ! N@->V::[=to.be.a.witch; to.practice.witchcraft.on.sb. (ES: brujear)]  
@@ -175,5 +175,5 @@ define NounToVerbPRQin [
 | "[=mava][Numeral:PRQ][=3 ~ three (ES: tres)][^VBZ]" : {mava} ! N@->V  @CMP 
 | "[=ch'arki/chariki][NRoot:QU][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)][^VBZ]" : {chariki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
 | "[=ch'arki/chariiki][NRoot:QU][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)][^VBZ]" : {chariiki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
-| "[=maapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)][^VBZ]" : {maapero} ! N@->V # ---------------------------------------------- 
+| "[=maapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)][^VBZ]" : {maapero} ! N@->V 
 ];
