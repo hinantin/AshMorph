@@ -13,6 +13,7 @@ define V=S=LEN=noun [
 | "[--][=hani][IncNRoot][=little.child]" : {hani} ! @VCMP 
 | "[--][=henka][IncNRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {henka} ! @VCMP 
 | "[--][=enka][IncNRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : {enka} ! @VCMP 
+| "[--][=pompo][IncNRoot][=protuberancia (ES: bulge)]" : {pompo} ! @VCMP  
 | "[--][=tsempeki][IncNRoot][=body; outer.frame; skeleton.(like)]" : {tsempeki} ! @VCMP @CMP 
 | "[--][=tseempeki][IncNRoot][=body; outer.frame; skeleton.(like)]" : {tseempeki} ! @VCMP @CMP 
 | "[--][=tsova+gndr@n.m.+inal@tsi.][IncNRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : {tsova} ! @CMP @VCMP  
@@ -27,7 +28,6 @@ define V=S=LEN=noun [
 | "[--][=kirii][IncNRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]" : {kirii} ! @VCMP 
 | "[--][=kirina+gndr@n.m.+inal@tsi.+sem@b.p.+mrph.phon@LEN:^k→^Ø.][IncNRoot][=nose (ES: nariz)]" : {kirina} ! @VCMP
 | "[--][=konta+gndr@n.m.+inal@tsi.][IncNRoot][=sole.of.foot, bottom.surface.of.foot (ES: planta.del.pie)]" : {konta} ! @CMP @VCMP 
-| "[--][=pompo+gndr@m.+poss@te:ti.+sem@gastropoda][IncNRoot][=land.snail (ES: caracol.de.monte)]" : {pompo} ! @VCMP  
 | "[--][=matsi+gndr@m.][IncNRoot][=(human).witch (ES: brujo); sorcerer]" : {matsi} ! @VCMP N@->V::[VIRVRoot+INF@/EP:t/aantsi.][=to.be.a.witch] 
 | "[--][=menko+gndr@n.m.+inal@tsi:tzi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[--][=minko+gndr@n.m.+inal@tsi.][IncNRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
