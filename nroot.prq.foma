@@ -1283,7 +1283,7 @@ define NRootPRQin [
 ! 
 | "[=sompo+inal@tsi.][NRoot][=tumor (ES: tumor); boil (ES: chupo)]" : {sompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
 | "[=hompo+inal@tsi.][NRoot][=tumor (ES: tumor); boil (ES: chupo)]" : {hompo} ! N@->V::[=to.have.a.tumor (ES: tener.un.tumor)]
-| "[=pompo][NRoot][=protuberancia (ES: bulge)]" : {pompo} ! @VCMP  
+| "[=pompo][NRoot][=protuberancia (ES: bulge)]" : {pompo} ! @VCMP  ! to be revised 
 | "[=Pompo+sem@NP.person][NRoot][=NP]" : {pompo}
 # ------------------------------------------------------------------
 ! 
