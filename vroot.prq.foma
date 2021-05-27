@@ -2205,6 +2205,8 @@ define VRootPRQin [
 | "[=panki+INF@/EP:t/aantsi.][VRoot][=to.plant, to.sow.(seeds) (ES: sembrar)]" : {panki}
 | "[=panke+INF@/EP:t/aantsi.+poss@/INTNS:a/ne.][VRoot][=to.plant, to.sow (ES: sembrar)]" : {panke} ! to be checked
 | "[=otsak+INF@aantsi.][VRoot][=to.sow.seeds.with.a_dibble_stick (ES: sembrar)]" : {otsak}
+! 
+!| "[=pankire+inal@ntsi.][NRoot][=seedling (ES: plántula);| crop (ES: cultivo)]" : {pankire} ! @section:noun@ 
 # ------------------------------------------------------
 ! 
 | "[=pankoshi+INF@/EP:t/aantsi.][VRoot][=to.build.a.tampu (ES: construir.un.tampu/tambo)]" : {pankoshi}
