@@ -3211,7 +3211,7 @@ define VRootPRQin [
 | "[=tsat][VRoot][=to.tear.into.two.parts]" : {tsat}
 ! 
 ! tsatamentotsi / =tsat -a -mento -tsi / =to.tear.into.two.parts -ep -concr -nposs / ES: 'flecha.para.la.pesca.con.punta.larga (no.necesita.de.un.arco.propulsor) '
-!| "[=tsatamento+inal@tsi.][NRoot][=bowless.long.pointed.fishing-arrow (ES: flecha.para.la.pesca.con.punta.larga)]" : {tsatamento} ! @section:noun@ 
+!| "[=tsatamento+~{V:/'to.tear.into.two.parts':tsat/}{EP:t}{CONCR:mento}+inal@tsi.][NRoot][=bowless.long.pointed.fishing-arrow (ES: flecha.para.la.pesca.con.punta.larga)]" : {tsatamento} ! @section:noun@ 
 # ---------------------------------------------------------------- 
 ! 
 | "[=tsatzink][VRoot][=to.graze.trees-and-clear.bushes.in.a.field (ES: rozar, talar.los.árboles.con.hacha-y-limpiar.la.vegetación.con.machete)]" : {tsatzink} ! \cite[pag. 186]{hvalkof:asheninka:05}
