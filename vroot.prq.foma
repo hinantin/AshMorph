@@ -3500,7 +3500,9 @@ define VRootPRQin [
 | "[=tzimashi+INF@/EP:t/aantsi.][VRoot][= (ES: aguaitar, acechar, espiar)]" : {tzimashi} 
 # --------------------------------------------------------------------------- 
 !
-| "[=tsimank][VRoot][=to.cast.a.shadow (ES: ensombrecer)]" : {tsimank}
+| "[=tsimank][VRoot][=to.cast.a.shadow (ES: ensombrecer);| to.shade (ES: dar.sombra)]" : {tsimank}
+! 
+!| "[=tsimankare+inal@ntsi.][NRoot][=shadow (ES: sombra)]" : {tsimankare} ! @section:noun@ 
 # --------------------------------------------------------------------------- 
 ! 
 | "[=tsimiy+INF@(a)antsi.][VRoot][=to.suck (ES: chupar)]" : {tsimiy}
