@@ -6847,9 +6847,12 @@ define NRootPRQin [
 | "[=tsataireki+inal@ntsi.][NRoot][= (ES: sonajero, adorno)]" : {tsataireki}
 # ------------------------------------------------------------------------------ 
 ! 
-| "[=santsari+gndr@n./m.][NRoot][=long (in.length) (ES: largo);| tall]" : {santsari} 
+| "[=santsari+gndr@n./m.][NRoot][=long (in.length) (ES: largo);| tall]" : {santsari} ! @section:noun@  
 | "[=tsantsari+gndr@n./m.][NRoot][=long (in.length) (ES: largo)]" : {tsantsari} 
 | "[=hantsari+gndr@n./m.][NRoot][=long (in.length) (ES: largo)]" : {hantsari} 
+! 
+! tsantsakirentsi / =tsantsa -ki -re -ntsi / =long -cl:s.r.h -nmz -nposs / EN: 'long-pointed.fishing.arrow'; ES: 'flecha.para.la.pesca.con.punta.larga'
+!| "[=tsantsakire+~{N:/'long':tsantsa/}{CL::ki}{:re}{:ntsi}+inal@ntsi.][NRoot][=long-pointed.fishing.arrow (ES: flecha.para.la.pesca.con.punta.larga)]" : {tsantsakire} ! @section:noun@ 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsaante+gndr@n.m.][NRoot][=hanging.storage-container (ES: colgador.de.objetos)]" : {tsaante} 
