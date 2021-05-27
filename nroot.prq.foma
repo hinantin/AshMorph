@@ -4898,9 +4898,9 @@ define NRootPRQin [
 | "[=piro+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=scar (ES: cicatriz); stain.in.skin (ES: mancha.de.la.piel)]" : {piro}
 # ------------------------------------------------------------------------------------------
 ! 
-| "[=pirontzi+gndr@m.+sem@insect][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]" : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
-| "[=pironi+gndr@m.+sem@insect][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]" : {pironi} ! N@->V
-| "[=piroti+gndr@m.+sem@insect][NRoot][=firefly (ES: luciernaga); quasi-lightning.bug]" : {piroti} ! N@->V
+| "[=pirontzi+gndr@m.+sem@insect][NRoot][=worm;| firefly (ES: luciernaga);| quasi-lightning.bug;| <:dove]" : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
+| "[=pironi+gndr@m.+sem@insect][NRoot][=worm;| firefly (ES: luciernaga);| quasi-lightning.bug;| <:dove]" : {pironi} ! N@->V
+| "[=piroti+gndr@m.+sem@insect][NRoot][=firefly (ES: luciernaga);| quasi-lightning.bug]" : {piroti} ! N@->V
 # ------------------------------------------------------------------------------------------
 ! 
 | "[=pisaapitooki+gndr@m.+sem@bird][NRoot][=bird.sp.]" : {pisaapitooki}

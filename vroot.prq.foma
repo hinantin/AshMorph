@@ -2387,7 +2387,7 @@ define VRootPRQin [
 # ------------------------------------------------------
 ! 
 | "[=pirisa+INF@VC.][VRoot][=to.ooze.pus (ES: salir.pus)]" : {pirisa}
-| "[=pirisha][VRoot][=to.ooze.pus (ES: salir.pus)]" : {pirisha}
+| "[=pirisha+INF@VC.][VRoot][=to.ooze.pus (ES: salir.pus)]" : {pirisha}
 # ------------------------------------------------------
 ! 
 | "[=pisha+INF@/EP:t/VC.][VRoot][=to.get.old, to.be.old (ES: estar.viejo)]" : {pisha}
@@ -2882,6 +2882,8 @@ define VRootPRQin [
 | "[=shiron+INF@/EP:t/(a)antsi.][VRoot][=to.laugh.at.sb. (ES: reír)]" : {shiron}
 ! oshirovantari 
 | "[=shirov][VRoot][=to.laugh.at.sb.]" : {shirov}
+! 
+!| "[=kaari_shirontaneentacha][NRoot][=serious (ES: serio)]" : {kaari_shirontaneentacha} ! @section:noun@ 
 # ----------------------------------------------------------------------
 ! 
 | "[=shi+INF@/EP:t/aantsi.][VRoot][=to.defecate.on.sth. (ES: defecar)]" : {shi}
