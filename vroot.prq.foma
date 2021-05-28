@@ -384,6 +384,8 @@ define VRootPRQin [
 ! 
 | "[=antavae+~{V:/'to.do':ant/}{EP:a}{DUR:vae}+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavae}
 | "[=antavai+~{V:/'to.do':ant/}{EP:a}{DUR:vai}+INF@/EP:t/aantsi.][VRoot][=to.work (ES: trabajar)]" : {antavai} ! @section:verb@ 
+! 
+!| "[=antavairi+inal@ntsi.][NRoot][=labor, manual.work.of.any.sort (ES: trabajo)]" : {antavairi} ! @section:noun@ 
 # --------------------------------------------------------------------------------  
 ! 
 ! RCP -av -ak 
@@ -2693,7 +2695,7 @@ define VRootPRQin [
 | "[=samorink][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {samorink} 
 # ---------------------------------------------------------------------------
 ! 
-| "[=samote+INF@/EP:t/VC.][VRoot][=to.hide.in.its.interior]" : {samote} 
+| "[=samote+INF@/EP:t/VC.][VRoot][=to.hide.sth.in.its.interior]" : {samote} 
 # ---------------------------------------------------------------------------
 ! 
 | "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi} ! V@->N::[=inquiry (ES: pregunta, investigación)] 
