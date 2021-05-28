@@ -12,6 +12,7 @@
 # 
 # INFIXATION 
 # E.PAL.		expressive palatazation -ny 
+#                  -i has a diminutive sense 
 # 
 # Spanish translations are in their singular form and tend to be written in masculine gender unless the entry is specifically not masculine.
 # 
@@ -3665,7 +3666,7 @@ define NRootPRQin [
 | "[=menko+gndr@n.m.+inal@tsi:tzi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {menko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 | "[=minko+gndr@n.m.+inal@tsi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface]" : {minko} ! @VCMP N@->V::[=to.cover.with.floor.boards (ES: hacer.piso.de.pona, hacer.tarima, hacer.parrilla/plataforma.para.asar)] 
 ! 
-!| "[=menkoiri+inal@ntsi.][NRoot][=medium-size.grate (it.is.used.for.grilling, which.is.placed.on.four.posts.made.from.the.freshly.cut.wood)]" : {menkoiri} ! @section:noun@ 
+!| "[=menkoiri+~{V:/'to.construct.a.platform.supported.on.four.legs':menko/}{E.PAL.:i}{NMZ:ri}+inal@ntsi.][NRoot][=medium-size.grate (it.is.used.for.grilling, which.is.placed.on.four.posts.made.from.the.freshly.cut.wood)]" : {menkoiri} ! @section:noun@ 
 # ----------------------------------------------------------------- 
 ! 
 | "[=mentaro+gndr@n.m.+sem@plant][NRoot][=tree.sp. (ES: sp.de.árbol)]" : {mentaro}
@@ -4578,7 +4579,7 @@ define NRootPRQin [
 | "[=paiko+gndr@n.m.+sem@plant][NRoot][=wormseed (ES: paico; sci.nm.: chenopodium.ambrosioides.l.)]" : {paiko} 
 # ----------------------------------------------------------------------------- 
 !
-| "[=paisatzi~{'to.have.gray.hair':pai}{CL:/provenance:satzi/}+poss@te.][NRoot][=ancient]" : {paisatzi}
+| "[=paisatzi~{'to.have.gray.hair':pai}{CL:/provenance:satzi/}+poss@te.+mrph.phon@LEN:^p→^v.][NRoot][=ancient]" : {paisatzi}
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=pama+gndr@n.m.][NRoot][=pumpkin.sp. (ES: sp.de.calabaza; botany.id.: lagenaria.sp.); tree.sp. (ES: sp.de.árbol)]" : {pama}
