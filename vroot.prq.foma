@@ -3579,8 +3579,8 @@ define VRootPRQin [
 | "[=vank+INF@aantsi.][VRoot][=to.lift.sth.up (ES: alzar)]" : {vank}
 | "[=ovank+INF@aantsi.][VRoot][=to.lift.sth.(up) (ES: alzar)]" : {ovank}
 !
-!| "[=ovankaare][NRoot][=wave (ES: ola)]" : {ovankaare} ! @section:noun@ 
-!| "[=oankare][NRoot][=wave (ES: ola)]" : {oankare} ! @section:noun@ 
+!| "[=ovankaare+TRN@ES:ola(s).][NRoot][=wave (ES: ola)]" : {ovankaare} ! @section:noun@ 
+!| "[=oankare+TRN@ES:ola(s).][NRoot][=wave (ES: ola)]" : {oankare} ! @section:noun@ 
 # --------------------------------------------------------------------------- 
 ! 
 | "[=ovanke+INF@taantsi][VRoot][=to.ride (ES: montar)]" : {ovanke}
