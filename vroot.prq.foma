@@ -2693,6 +2693,9 @@ define VRootPRQin [
 | "[=samorink][VRoot][=to.have.blisters (ES: tener/salir.ampollas)]" : {samorink} 
 # ---------------------------------------------------------------------------
 ! 
+| "[=samote+INF@/EP:t/VC.][VRoot][=to.hide.in.its.interior]" : {samote} 
+# ---------------------------------------------------------------------------
+! 
 | "[=sampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {sampi} ! V@->N::[=inquiry (ES: pregunta, investigación)] 
 | "[=osampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {osampi}
 | "[=hampi+INF@/EP:t/aantsi.][VRoot][=to.ask.(about.sth.) (ES: preguntar)]" : {hampi}
