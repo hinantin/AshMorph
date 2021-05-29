@@ -277,8 +277,9 @@ define NRootPRQin [
 | "[=aniiyo+gndr@n.m.+kin@male.ego][NRoot][=daughter.in.law (ES: nuera; PT: nora)]" : {aniiyo}
 # ---------------------------------------------------------------  
 ! 
-| "[=anatzirori][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatzirori}
-| "[=anatirori][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatirori}
+| "[=anatzirori+gndr@m.][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatzirori}
+| "[=anatirori+gndr@m.][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatirori}
+| "[=anatziroro+gndr@m.][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatziroro} ! to be checked 
 ! 
 | "[=hanari][NRoot][=raw (ES: crudo)]" : {hanari}
 # ---------------------------------------------------------------  
