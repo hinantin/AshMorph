@@ -279,7 +279,7 @@ define NRootPRQin [
 ! 
 | "[=anatzirori+gndr@m.][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatzirori}
 | "[=anatirori+gndr@m.][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatirori}
-| "[=anatziroro+gndr@m.][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatziroro} ! to be checked 
+| "[=anatziro+gndr@m.][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatziro} ! to be checked 
 ! 
 | "[=hanari][NRoot][=raw (ES: crudo)]" : {hanari}
 # ---------------------------------------------------------------  
@@ -2192,6 +2192,10 @@ define NRootPRQin [
 ! 
 | "[=kaara][NRoot][=empty (ES: vacio)]" : {kaara}
 | "[=kahara][NRoot][=empty (ES: vacio)]" : {kahara}
+! 
+! kaarakompiri
+| "[=kaarakompiri][NRoot][=hairless-tailed (ES: de.cola.pelada)]" : {kaarakompiri} ! @section:noun@ 
+| "[=karakompiri][NRoot][=hairless-tailed (ES: de.cola.pelada)]" : {karakompiri}
 # ---------------------------------------------------------------------
 ! 
 | "[=kaagashi+gndr@n.m.][NRoot][=trash, garbage (ES: basura); fallen/dead.leaves (ES: hojarasca)]" : {kaagashi}
