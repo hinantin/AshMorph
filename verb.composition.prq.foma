@@ -13,7 +13,7 @@ define V=S=noun [
 | "[--][=hani][IncNRoot][=little.child]" : "@EP"{hani} ! @VCMP 
 | "[--][=henka][IncNRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{henka} ! @VCMP 
 | "[--][=enka][IncNRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]" : "@EP"{enka} ! @VCMP 
-| "[--][=pompo][IncNRoot][=protuberancia (ES: bulge)]" : "@EP"{pompo} ! @VCMP  
+| "[--][=pompo][IncNRoot][=protuberancia (ES: bulge)]" : "@EP"{pompo} ! @VCMP  ! to be revised 
 | "[--][=tsempeki][IncNRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tsempeki} ! @VCMP @CMP 
 | "[--][=tseempeki][IncNRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tseempeki} ! @VCMP @CMP 
 | "[--][=tsova+gndr@n.m.+inal@tsi.][IncNRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : "@EP"{tsova} ! @CMP @VCMP  
@@ -39,6 +39,7 @@ define V=S=noun [
 | "[--][=moro+gndr@n.m.+inal@n/tsi.][IncNRoot][=hole (ES: hueco)]" : "@EP"{moro} ! N@->V @CMP @VCMP 
 | "[--][=nehi+inal@tsi.+sem@b.p.][IncNRoot][=chest (ES: pecho)]" : "@EP"{nehi} ! @VCMP 
 | "[--][=pane+poss@tsi.][IncNRoot][=dust (ES: polvo); sand (ES: arena)]" : "@EP"{pane} ! @VCMP 
+| "[--][=pankaina+inal@tsi.+sem@b.p.+mrph.phon@LEN:^p→^v.][IncNRoot][=forehead (ES: frente)]" : "@EP"{pankaina} ! @CMP @VCMP 
 | "[--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][IncNRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : "@EP"{panko} ! @CMP @VCMP @section:noun@ 
 | "[--][=pante+gndr@n.m.+inal@ntsi.+sem@b.p.+mrph.phon@LEN:^p→^v.][IncNRoot][=mouth (ES: boca)]" : "@EP"{pante} ! @VCMP 
 | "[--][=patziito][IncNRoot][=head.shape (ES: en.su.cabeza, forma.de.cabeza)]" : "@EP"{patziito} ! @VCMP 

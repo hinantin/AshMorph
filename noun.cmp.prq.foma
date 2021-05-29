@@ -27,7 +27,7 @@ define NRootCmpPRQin [
 | "[--][=chera][NRoot][=shore (ES: orilla)]" : {chera} ! @CMP 
 | "[--][=noma+gndr@n.m.+inal@tsi.][NRoot][=jaw (ES: mandíbula, quijada)]" : {noma} ! @CMP
 | "[--][=panka+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
-| "[--][=pankaina+inal@tsi.+sem@b.p.+mrph.phon@LEN:^p→^v.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP 
+| "[--][=pankaina+inal@tsi.+sem@b.p.+mrph.phon@LEN:^p→^v.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP @VCMP 
 | "[--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]" : {panko} ! @CMP @VCMP @section:noun@ 
 | "[--][=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)]" : {pãko} ! @CMP
 | "[--][=peshi+gndr@n.m.+inal@tsi.][NRoot][=shoot (ES: retoño); stalk.of.a.plant, cluster, the.part.of.the.banana_plant.that.is.planted]" : {peshi} ! @CMP 

@@ -82,15 +82,15 @@ define NounToVerbPRQin [
 | "[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: rio)]::[=to.water][^VBZ]" : {nihaa} ! @CMP ! N@->V::[=to.water] @section:noun@ 
 | "[=mampira][NRoot][=aurora (ES: aurora)][^VBZ]" : {mampira} ! N@->V 
 | "[=kitsoki+gndr@m.+inal@OPC:ntsi.+mrph.phon@LEN:^k→^Ø.][NRoot][=seed (ES: semilla; PT: semente)]::[=to.sow (ES: sembrar)][^VBZ]" : {kitsoki} ! N@->V::[=to.sow (ES: sembrar)]
-| "[=ookatsa][NRoot][=lightning.strike (ES: rayo)]::[=to.rain.with.lightning_strikes (ES: llover.con.relámpagos); to.strike.about.lightning (ES: caer.rayos)][^VBZ]" : {ookatsa} ! N@->V::[=to.rain.with.lightning_strikes (ES: llover.con.relámpagos); to.strike.about.lightning (ES: caer.rayos)] 
+| "[=ookatsa][NRoot][=lightning.strike (ES: rayo)]::[=to.rain.with.lightning_strikes (ES: llover.con.relámpagos);| to.strike.about.lightning (ES: caer.rayos)][^VBZ]" : {ookatsa} ! N@->V::[=to.rain.with.lightning_strikes (ES: llover.con.relámpagos);| to.strike.about.lightning (ES: caer.rayos)] 
 | "[=oorya+gndr@m.][NRoot][=sun (ES: sol)][^VBZ]" : {oorya} ! N@->V
 | "[=oria+gndr@m.][NRoot][=sun (ES: sol)]::[=to.shine][^VBZ]" : {oria} ! N@->V::[=to.shine]
 | "[=oventeni][NRoot][=flat.area.with.dense.grass-and-shrub.vegetation, flatland (QU: pampa)][^VBZ]" : {oventeni} ! N@->V
 | "[=harentsi+gndr@m.][NRoot][=year (ES: año);| (dry.season|summer) (ES: verano)]::[=to.be.summer][^VBZ]" : {harentsi} ! N@->V::[=to.be.summer] @section:noun@ 
 | "[=pankoshi~{'house':panko}{CL:/'leaf':shi/}+gndr@n.m.+inal@ntsi.][NRoot][=hut, hovel, hunter's.blind (ES: choza.(para.cazar.aves.salvajes); PT: cabana)]::[=to.make.a.hut (ES: preparar.la.choza)][^VBZ]" : {pankoshi} ! N@->V::[=to.make.a.hut (ES: preparar.la.choza)] 
-| "[=pirontzi+gndr@m.+sem@insect][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove]::[=to.be.firefly (ES: ser.luciernaga)][^VBZ]" : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
-| "[=pironi+gndr@m.+sem@insect][NRoot][=worm; firefly (ES: luciernaga); quasi-lightning.bug; <:dove][^VBZ]" : {pironi} ! N@->V
-| "[=piroti+gndr@m.+sem@insect][NRoot][=firefly (ES: luciernaga); quasi-lightning.bug][^VBZ]" : {piroti} ! N@->V
+| "[=pirontzi+gndr@m.+sem@insect][NRoot][=worm;| firefly (ES: luciernaga);| quasi-lightning.bug;| <:dove]::[=to.be.firefly (ES: ser.luciernaga)][^VBZ]" : {pirontzi} ! N@->V::[=to.be.firefly (ES: ser.luciernaga)]
+| "[=pironi+gndr@m.+sem@insect][NRoot][=worm;| firefly (ES: luciernaga);| quasi-lightning.bug;| <:dove][^VBZ]" : {pironi} ! N@->V
+| "[=piroti+gndr@m.+sem@insect][NRoot][=firefly (ES: luciernaga);| quasi-lightning.bug][^VBZ]" : {piroti} ! N@->V
 | "[=pira+gndr@m.+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=animal; domestic.animal (ES: animal.que.el.ser_humano.cría, domesticado)]::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)][^VBZ]" : {pira} ! @CMP N@->V::[=to.become.sb's/a.pet (PT: criar.em.cativeiro)]
 | "[=tsipamintsare][NRoot][=friend (ES: amigo)][^VBZ]" : {tsipamintsare} ! N@->V
 | "[=tsipikirontsi+gndr@n.m.][NRoot][= (ES: quincha/tejido/trama.hecha.de.caña_brava/carrizo)]::[= (ES: construir.una.quincha/tejido/trama)][^VBZ]" : {tsipikirontsi} ! N@->V::[= (ES: construir.una.quincha/tejido/trama)] 
