@@ -4613,6 +4613,8 @@ define NRootPRQin [
 ! 
 | "[=panka+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)]" : {panka} ! @CMP 
 | "[=pankaina+inal@tsi.+sem@b.p.+mrph.phon@LEN:^p→^v.][NRoot][=forehead (ES: frente)]" : {pankaina} ! @CMP @VCMP 
+| "[=mokoina][NRoot][=round (ES: redondo)]" : {mokoina} ! @VCMP 
+| "[=montseina][NRoot][=round (ES: redondo)]" : {montseina} 
 # ----------------------------------------------------------------------------- 
 ! 
 | "[=panki][NRoot][=plank, long.narrow.flat.piece.of.wood]" : {panki}
