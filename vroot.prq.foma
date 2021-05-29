@@ -1390,6 +1390,8 @@ define VRootPRQin [
 # ---------------------------------------------------------
 ! 
 | "[=konyaa+INF@/EP:t/aantsi.][VRoot][=to.appear (ES: aparecer)]" : {konyaa}
+| "[=konya+INF@/EP:t/aantsi.][VRoot][=to.appear (ES: aparecer)]" : {konya}
+! 
 | "[=koniha+INF@/EP:t/aantsi.][VRoot][=to.appear (ES: aparecer)]" : {koniha}
 | "[=koniha+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {konihakoniha}
 #@TOTREDUPCLASS01| "[=koniha+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.appear (ES: aparecer)]::[=to.appear.again-and-again]" : {koniha} ! konihakoniha 
