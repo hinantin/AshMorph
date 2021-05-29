@@ -278,6 +278,9 @@ define NRootPRQin [
 # ---------------------------------------------------------------  
 ! 
 | "[=anatzirori][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatzirori}
+| "[=anatirori][NRoot][=raw (ES: crudo; PT: cru; IT: crudo)]" : {anatirori}
+! 
+| "[=hanari][NRoot][=raw (ES: crudo)]" : {hanari}
 # ---------------------------------------------------------------  
 ! 
 | "[=anona+gndr@n.m.+sem@fruit][NRoot][=sugar-apple (botany.nm.: annona.squamosa; PT: beribá);| fruit.tree (Spanish.loan)]" : {anona} ! @section:noun@ 
@@ -1194,9 +1197,6 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 | "[=Hakoovo/Jacobo+gndr@m.+sem@NP.person][NRoot][=Jacob]" : {hakoovo}
-# ------------------------------------------------------------------
-! 
-| "[=hanari][NRoot][=raw (ES: crudo)]" : {hanari}
 # ------------------------------------------------------------------
 ! 
 | "[=Hesokirishito/Jesucristo+gndr@m.+sem@NP.person][NRoot][=Jesus.Christ]" : {hesokirishito}
