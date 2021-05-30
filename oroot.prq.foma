@@ -330,6 +330,10 @@ define ORootPRQin [
 | "[=eenitatsi][VRoot][=EXIST (EN: there.is/are; ES: hay/haber)]" : {eenitatsi} 
 | "[=iinitatsi][VRoot][=EXIST (EN: there.is/are; ES: hay/haber)]" : {iinitatsi} 
 # ------------------------------------------------------------------
+! ser, estar, ¿está? 
+| "[=saikatsi][VRoot][=EXIST (EN: there.is/are; ES: hay/haber)]" : {saikatsi} 
+| "[=hekatsi][VRoot][=EXIST (EN: there.is/are; ES: hay/haber)]" : {hekatsi} 
+# ------------------------------------------------------------------
 ! 
 | "[=tsimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber); POSSESS]" : {tsimatsi} 
 | "[=timatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]" : {timatsi} 
