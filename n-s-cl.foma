@@ -9,6 +9,7 @@
 # ABBREVIATIONS
 # anim.   animate 
 # inanim.   inanimate 
+# hum.   human 
 
 # "LABEL ORDER" : 
 
@@ -28,6 +29,7 @@
 
 # 3: +class.term@anim.
 #     +class.term@inanim.
+#     +class.term@hum.
 
 define N=S=CL=SET1 [
 # -chari~-chaari: grassy bottom of the river; zone.inhabited by the rainbow spirit oye  
