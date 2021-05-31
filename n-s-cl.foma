@@ -66,12 +66,12 @@ define N=S=CL=SET1 [
 # inchapanki / =incha -panki / =plant -cl:plank / EN: 'plank'; ES: 'palo' 
 # inchapankee / =incha -pankee / =plant -cl:plank / EN: 'plank'; ES: 'palo' 
 # omirikipanki / o- =miriki -panki / 3n.m.poss- =rib -cl:plank / EN: 'its.roof.lattice' 
-| "[--][-panki][+CL:plank][=plank;to.grow;pole]" : {panki} 
+| "[--][-panki+class.term@inanim.][+CL:plank][=plank;to.grow;pole]" : {panki} 
 | "[--][-panke][+CL:plank][=plank;to.grow;pole]" : {panke} 
 | "[--][-pankee][+CL:plank][=plank;to.grow;pole]" : {pankee} 
 # --------------------------------------------------
 ! inchateaki / =incha -teaki / =plant -cl:flower / ES: 'flor.de.árbol' 
-| "[--][-tyaki][+CL:flower][=flower]" : {tyaki}  
+| "[--][-tyaki+class.term@inanim.][+CL:flower][=flower]" : {tyaki}  
 | "[--][-teyaki][+CL:flower][=flower]" : {teyaki} 
 | "[--][-teaki][+CL:flower][=flower]" : {teaki} 
 | "[--][-tyaaki][+CL:flower][=flower]" : {tyaaki} 
@@ -93,7 +93,7 @@ define N=S=CL=SET1 [
 # kitsapitonki / =kitsapi -tonki / =needle -cl:long.tree.segment / ES: 'aguja.de.madera.del.pifayo.utilizada.para.atar.hojas.de.palmeras'   
 # tsirentsitonki / =tsire -ntsi -tonki / =palm.tree.sp. -nposs -cl:long.tree.segment / EN: 'noodles'; ES: 'fideos' 
 # inchatyonqui / inchatyonki / =incha -tyonki / =tree -cl:long.tree.segment / EN: 'very.thin.branch'; ES: 'rama.delgadita' 
-| "[--][-tonki][+CL:long.tree.segment][=long.tree.segment; thin (ES: delgado)]" : {tonki} 
+| "[--][-tonki+class.term@inanim.][+CL:long.tree.segment][=long.tree.segment; thin (ES: delgado)]" : {tonki} 
 | "[--][-tyonki][+CL:long.tree.segment][=long.tree.segment; thin (ES: delgado)]" : {tyonki} 
 
 # opaere intami / 
