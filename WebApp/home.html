@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hinantin Software</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" >
+<meta name="description" content="Hinantin Software is a software development initiative, which dedicates itself to develop software and other computer tractable resources for Peruvian indigenous languages.">
+<meta name="author" content="Richard A. Castro Mamani">
+<meta name="keywords" content="quechua,ashaninka,aymara,NLP,natural,language,processing,indigenous,languages">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:image" content="img/hinantinlogo.png"/>
+<script src="jquery-3.1.1.min.js"></script>
+<style type="text/css">
+body {
+  /*background: linear-gradient(90deg, white, gray);*/
+  background-color: #eee;
+}
+
+body, h1, p {
+  font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.container {
+  margin-left:  auto;
+  margin-right:  auto;
+  margin-top: 70px;
+  max-width: 1170px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.row:before, .row:after {
+  display: table;
+  content: " ";
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 300;
+  margin: 0 0 20px 0;
+}
+
+.lead {
+  font-size: 21px;
+  font-weight: 200;
+  margin-bottom: 20px;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+a {
+  color: #3282e6;
+  text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+<div class="container text-center" id="error">
+<h1>Hinantin Software</h1> 
+<!--<h1><img src="img/hinantinlogo.png" alt="Hinantin" height="50">Hinantin Software</h1>  -->
+<a href="https://www.fb.com/hinantinrg" target="_blank">
+<img src="img/facebook.png" alt="Facebook Hinantin" height="40">
+</a>
+<a href="https://www.youtube.com/c/hinantinrg" target="_blank">
+<img src="img/youtube.png" alt="Youtube Hinantin" height="40">
+</a>
+<a href="https://twitter.com/hinantinrg" target="_blank">
+<img src="img/twitter.png" alt="Twitter Hinantin" height="40">
+</a>
+<a href="https://www.soundcloud.com/hinantin" target="_blank">
+<img src="img/soundcloud.png" alt="SoundCloud Hinantin" height="40">
+</a>
+<a href="https://itunes.apple.com/pe/podcast/hinantin-software-podcast/id1337981325" target="_blank">
+<img src="img/itunes_logo.png" alt="iTunes Hinantin" height="40">
+</a>
+<a href="https://www.instagram.com/hinantinrg" target="_blank">
+<img src="img/instagram.png" alt="Instagram Hinantin" height="40">
+</a>
+<!--<a href="https://plus.google.com/+HinantinRG" target="_blank">
+<img src="img/googleplus.png" alt="Google Plus Hinantin" height="40">
+</a>-->
+<a href="https://es.scribd.com/user/293222251/Hinantin" target="_blank">
+<img src="img/scribd_logo.png" alt="Scribd Hinantin" height="40">
+</a>
+<a id="academia-button" href="https://unsaac.academia.edu/RichardAlexanderCastroMamani">Follow me on Academia.edu</a><script src="//a.academia-assets.com/javascripts/social.js"></script>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/hinantin" target="_blank">
+<img src="img/github.png" alt="GitHub Hinantin" height="30">
+</a>
+<a href="https://bitbucket.org/hinantin" target="_blank">
+<img src="img/bitbucket_logo.png" alt="BitBucket Hinantin" height="30">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="tel:+51957231591">
+<img src="img/whatsapp.png" alt="WhatsApp Hinantin +51 957231591" height="35"><strong><font size="6">+51&nbsp;957231591</font></strong>
+</a>
+<!--
+  <svg height="100" width="100">
+    <circle cx="50" cy="50" r="31" stroke="#679b08" stroke-width="9.5" fill="none" />
+    <circle cx="50" cy="50" r="6" stroke="#679b08" stroke-width="1" fill="#679b08" />
+    <line x1="50" y1="50" x2="35" y2="50" style="stroke:#679b08;stroke-width:6" />
+    <line x1="65" y1="35" x2="50" y2="50" style="stroke:#679b08;stroke-width:6" />
+    <path d="M59 65 L83 65 L75 87 Z" fill="#679b08" />
+    <rect width="20" height="9" x="70" y="56" style="fill:#eee;stroke-width:0;" />
+  </svg>-->
+  <div class="row">
+    <div class="col-md-12">
+      <div class="main-icon text-success"><span class="uxicon uxicon-clock-refresh"></span></div>
+      <br/>
+<!--      <strong><font size="5"><a href="https://hinant.in/tts.html" target="_blank">TEXT-TO-SPEECH</a>&nbsp;&vert;&nbsp;</font></strong>-->
+      <strong><font size="5"><a href="http://hinant.in/ckeditor/samples/api.html" target="_blank">Allin Qillqay!</a>&nbsp;&vert;&nbsp;</font></strong>
+<!--      <strong><font size="5"><a href="http://hinant.in/solr/" target="_blank">HINANTIN TEXT CORPUS</a>&nbsp;&vert;&nbsp;</font></strong> -->
+      <strong><font size="5"><a href="http://hinant.in/media.php" target="_blank">MEDIA FILES</a>&nbsp;&vert;&nbsp;</font></strong>
+      <strong><font size="5"><a href="http://hinant.in/MT_es_quz/" target="_blank">MACHINE TRANSLATION</a></font></strong>
+
+      <br/><br/><h1>AshaninkaMorph</h1>
+      <p class="lead"><strong>AshaninkaMorph</strong> is a morphological analyzer for the Ashaninka language, for more information write to <a href="mailto:rcastro@hinant.in?subject=AshaninkaMorph">rcastro@hinant.in</a>.<br/>
+      Last update: 17/05/2020<br/>
+      <table>
+	  
+	  <tr>
+	  <td rowspan="2" style="border: 1px solid black; border-collapse: collapse;">
+      <label for="txtWord">WORD:</label>
+      <input id="txtWord" type="text"/>
+	  </td>
+	  <td>
+	  <input type="button" value="ANALYZE" onclick="fnAnalyze()"/>
+      <!--XFST OR FOMA -->
+      <input type="radio" name="finitestatetool" value="xfst" checked="checked">XFST
+      <input type="radio" name="finitestatetool" value="foma">FOMA 
+	  </td>
+      </tr>
+	  <tr>
+	  
+	  <td>
+	    <input type="button" value="SEGMENT" onclick="fnSegment()"/>
+        <input type="radio" name="segmentationtool" value="morfessor" checked="checked">MORFESSOR 
+		<input type="radio" name="segmentationtool" value="sentencepiece">SENTENCE PIECE
+		<input type="radio" name="segmentationtool" value="subword-nmt">SUBWORD-NMT
+		<br/>
+		The number of wordforms for the segmentation models is 1546.
+	  </td>
+	  </tr>
+	  <tr>
+	  <td colspan="2">
+      <label for="txtRegex">Filter results using 'regex':</label>
+      <input id="txtRegex" type="text" />
+	  </td>
+	  </tr>
+	  <table/>
+      <textarea id="txaResult" cols="150" rows="30"></textarea>
+      <p>
+<table border="2" style="border-collapse: collapse;">
+<tr><td>
+<strong>Sample Text</strong><br/><br/>
+
+<strong>Ashanĩka do Rio Amônia</strong><br/><br/>
+
+KATSIANAKA APANI ASHENĨKA TÕKARIKI. OTETAPAKA IPITOKI, OTEAPAKIRO ITXEKOPITE IKẼTAKIRI APANI SHIMA. PIYANAKA ARETAPAKA IPÃKOKI IPAKAKIRO ISHIMANI INA. ÕKOTSITAKIRI INA POSATAKI SHIMA OKÃYMAKERI ÕEMI:<br/>
+- POYA, NÕEMI, POSATAKI SHIMA.<br/>
+HOWATXA ITSIPATARI ÕEMI. OKÃTAPAKI ÕEMI:<br/>
+- ATÃMA, NAAKA.<br/>
+OTEYAPAKIRI ITÕKI IPAKIRO ROTSITSITE.<br/>
+IWAYRO ASHENĨKA, HORERO.<br/><br/>
+
+<strong>Portuguese</strong><br/><br/>
+
+Um Ashaninka estava no barranco. Ele embarcou na canoa, pegou a flecha e flechou um curimatá. Voltou para casa, chegou, deu o peixe para a mulher. Ela pegou e cozinhou. Ficou cozido o curimatá, ai chamou o marido:<br/>
+- Vem comer, meu marido, o curimata está cozido.<br/>
+Comeu mais o marido. Aí o marido disse:<br/>
+- Obrigado.<br/>
+Ele pegou os ossos e deu para o cachorro.<br/>
+O nome desse homem é Horero.<br/><br/>
+
+<strong>English</strong><br/><br/>
+
+An Ashaninka was in the ravine. He got into the canoe, picked up the arrow, and shot a fish. He returned home, arrived, gave the fish to the woman. She picked it up and cooked it. The fish was cooked, then she called her husband:<br/>
+- Come eat, my husband, the fish is cooked.<br/>
+The husband ate as well. Then the husband said:<br/>
+- Thank you.<br/>
+He took the bones and gave them to the dog.<br/>
+This man's name is Horero.<br/><br/>
+
+<strong>Spanish</strong><br/><br/>
+
+Un ashaninka estaba en el monte. Embarcó en la canoa, agarró la flecha y flechó un pez. Regresó a casa, llegó, dio el pez a su esposa. Ella lo tomó y lo cocinó. El pez quedó cocido, luego llamó a su marido<br/>
+- Ven a comer mi esposo, el pez está cocinado.<br/>
+El marido también comió. Luego el esposo dijo:<br/>
+- Gracias.<br/>
+Él tomó los huesos y se los dió al perro.<br/> 
+El nombre de este hombre es Horero<br/><br/>
+
+<strong>Output from our morphological analyzer:</strong>
+<font color="#0000FF">
+<pre><code>
+
+katsianaka	[=katsi][VRootCPB][=to.be (PT: ser,, estar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-a][+IRR]a
+
+apani	[=apani][NRoot][=one]
+
+ashenĩka	[a-][NPers][1PL.poss+][--][=sheni][VRoot][=to.be.of.the.same.group][--][-nka][NS][+NMZ.QLTY]nka
+
+tõkariki	[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+otetapaka	[o-][VPers][3n.m.S/A+][--][=te][VRoot][=to.take.sth.; to.insert; to.board][--][-t][+EP]t[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+ipitoki	[i-][NPers][3m.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-ki][Cas][+LOC_LOC.T]
+
+,	,[$.]
+
+oteapakiro	[=ote][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board][--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+itxekopite	[i-][NPers][3m.poss+][--][=txekopi+n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)][--][-te][Gen][+aln.poss.]te
+
+ikẽtakiri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ri][+3m.O]
+
+apani	[=apani][NRoot][=one]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+.	.[$.]
+
+piyanaka	[=piy][VRoot][=to.return, to.come.back (ES: volver, regresar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+aretapaka	[=are][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF]ak[--][-a][+REAL.RFL]a
+
+ipãkoki	[i-][NPers][3m.poss+][--][=pãko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+ipakakiro	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+ishimani	[i-][NPers][3m.poss+][--][=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)][--][-ni][Gen][+aln.poss.]ni
+
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+.	.[$.]
+
+õkotsitakiri	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kotsi][VRoot][=to.cook (ES: cocinar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ri][+3m.O]
+
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+posataki	[=posa][VRoot][=to.cook; to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+okãymakeri	[o-][VPers][3n.m.S/A+][--][=kãym][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+õemi	[õ-][NPers][3n.m.poss+][--][=emi+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]
+
+:	:[$.]
+
+-	-[$.]
+
+poya	[p-][VPers][2S/A+][--][=oy][VRoot][=to.eat (ES: comer)][--][-a][+IRR]a
+
+,	,[$.]
+
+nõemi	[nõ-][NPers][1SG.poss+][--][=emi+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]
+
+,	,[$.]
+
+posataki	[=posa][VRoot][=to.cook; to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+.	.[$.]
+
+howatxa	[h-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-atxa][Asp][+STAT.IPRF]atxa
+
+itsipatari	[i-][VPers][3m.S/A+][--][=tsipat][VRoot][=to.accompany; to.join; to.combine (ES: combinar)][--][-a][+REAL]a[--][=ri][+3m.O]
+
+õemi	[õ-][NPers][3n.m.poss+][--][=emi+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]
+
+.	.[$.]
+
+okãtapaki	[o-][VPers][3n.m.S/A+][--][=kãt][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF]ak[--][-i][+IRR]i
+
+õemi	[õ-][NPers][3n.m.poss+][--][=emi+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]
+
+.	.[$.]
+
+-	-[$.]
+
+atãma	[=atãma][InterjPRQ][=thanks (ES: gracias)]
+
+,	,[$.]
+
+naaka	[=naaka+cont.d.top.][PrnPers][+1SG.EXCL.][=I (ES: yo)]
+
+.	.[$.]
+
+oteyapakiri	[=otey][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)][--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ri][+3m.O]
+
+itõki	[i-][NPers][3m.poss+][--][=tõki+n.m.+inal@tsi.][NRoot][=bone (ES: hueso)]
+
+ipakiro	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+PRF]ak[--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+rotsitsite	[r-][NPers][3m.poss+][--][=otsitsi+m.+poss@te.][NRoot][=dog (ES: perro)][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+iwayro	[i-][NPers][3m.poss+][--][=vayro+n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]
+
+ashenĩka	[a-][NPers][1PL.poss+][--][=sheni][VRoot][=to.be.of.the.same.group][--][-nka][NS][+NMZ.QLTY]nka
+
+,	,[$.]
+
+horero	[=horero][NRoot][=NP]
+
+.	.[$.]
+</code></pre>
+</font>
+
+<strong>Source</strong><br/>
+Author: Wilmar da Rocha D'angelis<br/>
+Title: CONQUISTAR OU CONSTRUIR A ESCRITA? A definição de uma ortografía no Ashaninka do Rio Amônia<br/>
+Journal: Revista Semestral da Associação de Leitura do Brasil<br/>
+Year: 1994<br/>
+
+</td></tr>
+</table>
+
+      </p>
+        <script>
+var result = undefined;
+// Filtering results
+$( "#txtRegex" ).keyup(function() {
+  if ($("#txtRegex").val()==="") { $( "#txaResult" ).empty().html( result ); } 
+  else {
+  var regex1 = new RegExp($("#txtRegex").val());
+  if (result) {
+    var lines = result.split("\n");
+    var filteredLines = "";
+    for (var i = 0; i < lines.length; i++) {
+        if (regex1.test(lines[i])) { filteredLines = filteredLines + "\n" + lines[i]; }
+    }
+    $( "#txaResult" ).empty().html( filteredLines );
+  }
+  }
+});
+
+            function fnAnalyze() {
+            $("#txtRegex").val("");
+            var ovalorte_nyaantsi = $("#txtWord").val();
+            var ofinitestatetoolte_nyaantsi = $("input[name='finitestatetool']:checked").val();
+            $( "#txaResult" ).empty().html( "Naminatyiro..." );
+            var content = { nyaantsi: ovalorte_nyaantsi, finitestatetool: ofinitestatetoolte_nyaantsi };
+            // alert(rimay_chanin);
+            //var sourcehostname = '35.164.233.113'; // $(location).attr('hostname')
+            //var queryurl = "http://" + sourcehostname + "/cgi-bin/ashaninka/aminaantsi.cgi";
+            var queryurl = "http://192.168.1.181/cgi-bin/ashaninka/aminaantsi.cgi";
+$.ajax({
+  url: queryurl,
+  dataType: 'jsonp',  //use jsonp data type in order to perform cross domain ajax
+  //crossDomain: true,
+  data: content,
+  success: function (responseData, textStatus, jqXHR) {
+    result = responseData;
+    $( "#txaResult" ).empty().html( responseData );
+    
+  },
+  error: function (responseData, textStatus, errorThrown) {
+    $( "#txaResult" ).empty().html( responseData );
+  }
+});
+            }
+			
+            function fnSegment() {
+            $("#txtRegex").val("");
+            var ovalorte_nyaantsi = $("#txtWord").val();
+            var osegmentationte_nyaantsi = $("input[name='segmentationtool']:checked").val();
+            $( "#txaResult" ).empty().html( "Nochikatyiro pinyani..." );
+            var content = { nyaantsi: ovalorte_nyaantsi, segmentationtool: osegmentationte_nyaantsi };
+            // alert(rimay_chanin);
+            //var sourcehostname = '35.164.233.113'; // $(location).attr('hostname')
+            //var queryurl = "http://" + sourcehostname + "/cgi-bin/ashaninka/aminaantsi.cgi";
+            var queryurl = "https://hinantin.software/cgi-bin/ashaninka/segmentation.cgi";
+$.ajax({
+  url: queryurl,
+  dataType: 'jsonp',  //use jsonp data type in order to perform cross domain ajax
+  //crossDomain: true,
+  data: content,
+  success: function (responseData, textStatus, jqXHR) {
+    result = responseData;
+    $( "#txaResult" ).empty().html( responseData );
+    
+  },
+  error: function (responseData, textStatus, errorThrown) {
+    $( "#txaResult" ).empty().html( responseData );
+  }
+});
+            }
+        </script>
+      </p>
+      <p class="lead">
+      <h2>Source Code</h2>
+      The source code for this project is available within a GitHub repository.<br/>
+      <a href="https://github.com/hinantin/AshaninkaMorph">https://github.com/hinantin/AshaninkaMorph</a><br/><br/>
+      <strong><font size="5"><a href="https://github.com/hinantin/AshaninkaMorph/compare/master@%7B1490199401%7D...master" target="_blank">BROWSE RECENT CHANGES</a></font></strong>
+      <h2>Help us continue with our work</h2>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SMZHMLP3KEZ6L">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+      </p>
+
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
