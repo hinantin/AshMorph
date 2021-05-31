@@ -10,6 +10,20 @@
 # anim.   animate 
 # inanim.   inanimate 
 
+# "LABEL ORDER" : 
+
+# 0: +~{..}{..}...{..} 
+#    Information on the morphemes of lexicalized entries.
+#    {L.DEL:...} {R.DEL:...} {BLANK:SPACE} 
+#    {N:/'TRANSLATION':NRoot/} 
+#    {V:/'TRANSLATION':VRoot/} 
+#    {CL:/'TRANSLATION':CLSuffix/}
+#    {LABEL:suffix}
+
+# 1: +gndr@m. (masculine), 
+#    +gndr@n.m. (not-masculine), 
+#    +gndr@n./m. (masculine or not-masculine) 
+
 define N=S=CL=SET1 [
 # -chari~-chaari: grassy bottom of the river; zone.inhabited by the rainbow spirit oye  
 ! oyecharishi / =oye -chari -shi / EN: 'rainbow.herb' 
