@@ -287,13 +287,13 @@ define N=S=CL=SET1 [
 | "[--][-patsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {patsa} ! @CL 
 | "[--][-pitsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {pitsa} 
 ! .. 
-| "[--][-nki][+CL:snake][=snake.sp.]" : {nki} ! @CL 
-| "[--][-nke][+CL:snake][=snake.sp.]" : {nke} ! @CL 
+| "[--][-nki+class.term@anim.][+CL:snake][=snake.sp.]" : {nki} ! @CL 
+| "[--][-nke+class.term@anim.][+CL:snake][=snake.sp.]" : {nke} ! @CL 
 ! 
 | "[--][-keni][+CL:worm][=worm.sp.,non-human.worm]" : {keni} 
 #-----------------------------------------------
-| "[--][-sani][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sani} 
-| "[--][-sanii][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sanii} 
+| "[--][-sani+class.term@anim.][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sani} 
+| "[--][-sanii+class.term@anim.][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sanii} 
 #-----------------------------------------------
 ! Ashaninkasanori / =ashaninka -sanori / =ashaninka.person -cl:real / EN: 'real.Ashaninka.person'; ES: 'auténtica.persona' 
 ! antyarosanori / =antyaro -sanori / =big -cl:real / EN: 'inmense'; ES: 'inmenso'  
