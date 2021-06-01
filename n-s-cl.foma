@@ -290,7 +290,7 @@ define N=S=CL=SET1 [
 | "[--][-nki+class.term@anim.][+CL:snake][=snake.sp.]" : {nki} ! @CL 
 | "[--][-nke+class.term@anim.][+CL:snake][=snake.sp.]" : {nke} ! @CL 
 ! 
-| "[--][-keni][+CL:worm][=worm.sp.,non-human.worm]" : {keni} 
+| "[--][-keni+class.term@anim.][+CL:worm][=worm.sp.,non-human.worm]" : {keni} 
 #-----------------------------------------------
 | "[--][-sani+class.term@anim.][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sani} 
 | "[--][-sanii+class.term@anim.][+CL:wasp.sp.][=wasp.sp. (ES: avispa)]" : {sanii} 
