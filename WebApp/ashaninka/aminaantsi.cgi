@@ -33,7 +33,7 @@ if ($finitestatetool eq "foma") {
     $fh->close;
 
     # create a connecting socket
-    my $socket = new IO::Socket::INET (PeerHost => 'localhost', PeerPort => '8899', Proto => 'tcp',);
+    my $socket = new IO::Socket::INET (PeerHost => 'localhost', PeerPort => '8981', Proto => 'tcp',);
     die "cannot connect to the server $!\n" unless $socket;
     print STDERR "connected to the server\n";
     # binmode($socket,":utf8");
