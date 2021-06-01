@@ -249,7 +249,7 @@ define N=S=CL=SET1 [
 | "[--][-hempe][+CL:branch][=branch]" : {hempe} 
 
 # this classifier tends to change the gender to n.m. of the nominal roots to which it is adhered.
-| "[--][-venki+~{R.DEL:i}{N:/'magic.plant':ivenki/}+gndr@n.m.][+CL:magic.plant][=magic.plant,piripiri-plant]" : {venki} 
+| "[--][-venki+~{R.DEL:i}{N:/'magic.plant':ivenki/}+gndr@n.m.+class.term@inanim.][+CL:magic.plant][=magic.plant,piripiri-plant]" : {venki} 
 
 # collateral relation 
 # pabachori / pavachori / =pava -chori / =dad -cl:distant.kin / EN: 'uncle'; ES: 'tío'  
@@ -283,7 +283,7 @@ define N=S=CL=SET1 [
 # kiteripatsari
 # kisaapatsari
 # kijopatsari / kihopatsari / =to.be.hard -cl:jelly-like.soil -nmz / EN: 'hard.soil'  
-| "[--][-vatsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {vatsa} 
+| "[--][-vatsa+class.term@inanim.][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {vatsa} 
 | "[--][-patsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {patsa} ! @CL 
 | "[--][-pitsa][+CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : {pitsa} 
 ! .. 
