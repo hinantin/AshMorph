@@ -76,5 +76,10 @@ define InterjPRQin [
 | "[=amaaka][Interj:PRQ][=be.certain]" : {amaaka}
 ! 
 | "[=haa][Interj][=INTJ (ES: expresión.de.sorpresa)]" : {haa} ! \cite[pag. 70]{payne:diccionario:80} 
+# ----------------------------------------
+! 
+# Validation response 
+| "[=he][Interj][=yes (ES: sí)]" : {he}
+| "[=hee][Interj][=yes (ES: sí)]" : {hee}
 ];
 
