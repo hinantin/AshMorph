@@ -172,6 +172,9 @@ define AdvRootPRQ=SET1 [
 # -------------------------------------------------------- 
 ! 
 | "[=arinironka][AdvRoot][=more.or.less (ES: más.o.menos); ineffectually]" : {arinironka}
+# -------------------------------------------------------- 
+! 
+| "[=kemperi][AdvRoot][=for.example (ES: por.ejemplo)]" : {kemperi}
 ];
 
 source n-s-loc.foma
