@@ -196,15 +196,11 @@ analyze.file:
 #	@gedit failures.sorted
 
 analyze.treebank:
-	@rm -f failures.old.sorted
-	@cp -R -u -p failures.sorted failures.old.sorted
 	@perl gettreebank.pl > mycorpus.txt 
-	@cat mycorpus.txt | perl tokenize.pl | lookup -flags TT asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
+	@cat mycorpus.txt | perl tokenize.pl | ~/Descargas/foma/foma/flookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
 
 search.treebank:
-	@rm -f failures.old.sorted
-	@cp -R -u -p failures.sorted failures.old.sorted
 	@perl gettreebank.pl > mycorpus.txt 
 	@cat mycorpus.txt | perl $(TOKENIZERPATH)/tokenize.pl | flookup asheninka.bin | awk '/-taro/' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
@@ -215,8 +211,11 @@ search.treebank:
 #	@cat mycorpus.txt | perl $(TOKENIZERPATH)tokenize.pl | lookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 #	@rm -f mycorpus.txt
 
-
-
+#	@rm -f failures.old.sorted
+#	@cp -R -u -p failures.sorted failures.old.sorted
+#	@perl gettreebank.pl > mycorpus.txt 
+#	@cat mycorpus.txt | perl tokenize.pl | ~/Descargas/foma/foma/flookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
+#	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
 
 
 

@@ -592,6 +592,9 @@ define NRootPRQin [
 # ------------------------------------------------------------------
 ! 
 | "[=chavari+sem@NP.person][NRoot][=person's.name, NP]" : {chavari}
+! 
+| "[=chavari][NRoot][=maguey (ES: sp.de.maguey, cañamo, cabuya, penca)]" : {chavari}
+| "[=chavaari][NRoot][=maguey (ES: sp.de.maguey, cañamo, cabuya, penca)]" : {chavaari}
 # ------------------------------------------------------------------  
 ! 
 | "[=chaverenchakiti+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: osteocephalus.leprieurii)]" : {chaverenchakiti}
@@ -799,6 +802,7 @@ define NRootPRQin [
 ! 
 | "[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {chooki}
 | "[=choki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {choki}
+| "[=tsiyo+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {tsiyo}
 # ------------------------------------------------------------------
 ! 
 | "[=tyootyo+gndr@n.m.+poss@te:ti.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {tyootyo}
