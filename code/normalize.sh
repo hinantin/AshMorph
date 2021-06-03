@@ -12,12 +12,12 @@
 #export TMP_DIR=/tmp
 #export SEGMENTER=/home/hinantin/ashaninka/AshaninkaMorph/segmentation
 #export MOSES=/home/hinantin/ashaninka/mosesdecoder
-export ASHANINKAMORPH_DIR=/home/AshMorph
-export WAPITI=/home/Wapiti/wapiti
-export LOOKUP_DIR=/home/foma/foma
+export ASHANINKAMORPH_DIR=/home/ubuntu/AshMorph
+export WAPITI=/home/ubuntu/Wapiti/wapiti
+export LOOKUP_DIR=/home/ubuntu/foma/foma
 export TMP_DIR=/tmp
-export SEGMENTER=/home/AshMorph/code
-export MOSES=/home/mosesdecoder
+export SEGMENTER=/home/ubuntu/AshMorph/code
+export MOSES=/home/ubuntu/mosesdecoder
 ## Models to disambiguate words
 MORPH1_MODEL=$SEGMENTER/models/pan-ashaninka.model
 MORPH2_MODEL=$SEGMENTER/models/pan-ashaninka.model2
