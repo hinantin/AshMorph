@@ -46,6 +46,7 @@
 
       define PIReplacement [ {py} (->) {pi} || _ [a|á] ];
       define KIReplacement [ {ky} (->) {ki} || _ [a|á] ,, {ky} (->) {qy} || _ [a|á] ]; 
+      define KIReplacement2 [ {ky} -> {ki}, {ky} -> {ky} || _ [e|é] ]; 
       define RIReplacement [ {ry} (->) {ri} || _ [a|á] ];
 
       define TIReplacement [ {ty} -> {ti}, {ty} -> {ty} || _ [e|é] ];
@@ -129,7 +130,7 @@
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
-.o. PIReplacement .o. KIReplacement .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
+.o. PIReplacement .o. KIReplacement .o. KIReplacement2 .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
 .o. NYTildeReplacement1 .o. NYTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 .o. UReplacement3 .o. UReplacement4  
