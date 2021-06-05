@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-
-use IO::Socket::INET;
+use IO::Socket qw(AF_INET AF_UNIX SOCK_DGRAM SHUT_WR);
 use IO::File;
 use utf8; # Source code is UTF-8
 binmode STDIN, ':utf8';
@@ -41,7 +40,13 @@ if (defined $stdin) {
 $| = 1;
 
 # create a connecting socket
-my $socket = new IO::Socket::INET (PeerHost => $host, PeerPort => $port, Proto => 'tcp',);
+my $socket = IO::Socket->new (
+    Domain => AF_INET,
+    Type => SOCK_DGRAM,
+    PeerHost => $host, 
+    PeerPort => $port, 
+    proto => 'tcp',
+) || die "Can't open socket: $IO::Socket::errstr";
 #print STDERR "Host: $host, Port: $port File: $file\n$text";
 #binmode($socket, ":utf8");
 my $message = "";
