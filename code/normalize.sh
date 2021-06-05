@@ -12,12 +12,12 @@
 #export TMP_DIR=/tmp
 #export SEGMENTER=/home/hinantin/ashaninka/AshaninkaMorph/segmentation
 #export MOSES=/home/hinantin/ashaninka/mosesdecoder
-export ASHANINKAMORPH_DIR=/home/ubuntu/AshMorph
-export WAPITI=/home/ubuntu/Wapiti/wapiti
-export LOOKUP_DIR=/home/ubuntu/foma/foma
+export ASHANINKAMORPH_DIR=/home/richard/Descargas/AshMorph
+export WAPITI=/home/richard/Descargas/Wapiti/wapiti
+export LOOKUP_DIR=/home/richard/Descargas/foma/foma
 export TMP_DIR=/tmp
-export SEGMENTER=/home/ubuntu/AshMorph/code
-export MOSES=/home/ubuntu/mosesdecoder
+export SEGMENTER=/home/richard/Descargas/AshMorph/code
+export MOSES=/home/richard/Descargas/mosesdecoder
 ## Models to disambiguate words
 MORPH1_MODEL=$SEGMENTER/models/pan-ashaninka.model
 MORPH2_MODEL=$SEGMENTER/models/pan-ashaninka.model2
@@ -36,7 +36,7 @@ TMPFILENAME=TMPNM$filename_no_ext
 /usr/bin/perl $MOSES/scripts/tokenizer/tokenizer.perl -l en < $RAW_FILE > $TMP_DIR/$filename_no_ext.tok
 /bin/sed 's/.*/& #EOS/' $TMP_DIR/$filename_no_ext.tok > $TMP_DIR/$filename_no_ext.EOS.tok
 #cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | $LOOKUP_DIR/flookup $ASHANINKAMORPH_DIR/asheninka.bin > $TMP_DIR/$filename_no_ext.test.xfst
-cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | perl $SEGMENTER/fomaClient.pl -P 8981 -H localhost --stdin > $TMP_DIR/$filename_no_ext.test.xfst 
+cat $TMP_DIR/$filename_no_ext.EOS.tok | /usr/bin/perl $SEGMENTER/tokenize.pl | perl $SEGMENTER/fomaClient.pl  --port 8981 --host localhost --stdin > $TMP_DIR/$filename_no_ext.test.xfst 
 
 # (2) CRF before|after
 cp $TMP_DIR/$filename_no_ext.test.xfst $TMP_DIR/$TMPFILENAME.test_clean.xfst

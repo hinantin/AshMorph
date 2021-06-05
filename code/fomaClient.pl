@@ -43,7 +43,7 @@ $| = 1;
 # create a connecting socket
 my $socket = new IO::Socket::INET (PeerHost => $host, PeerPort => $port, Proto => 'tcp',);
 #print STDERR "Host: $host, Port: $port File: $file\n$text";
-#binmode($socket, ":utf8");
+binmode($socket, ":utf8");
 my $message = "";
 die "cannot connect to the server $!\n" unless $socket;
 $message = "connected to the server";
@@ -66,7 +66,7 @@ if ("$response" =~ /\+\?/ && $response !~ /#eos/i) {
 
   my ($stdout, $stderr);
   capture sub {
-    system("export LANG=en_US.utf8; echo \"$text\" | /home/ubuntu/foma/foma/flookup /home/ubuntu/AshMorph/asheninka.guesser.bin");
+    system("export LANG=en_US.utf8; echo \"$text\" | /home/richard/Descargas/foma/foma/flookup /home/richard/Descargas/AshMorph/asheninka.guesser.bin");
   } => \$stdout, \$stderr;
 
 $response = $stdout;
