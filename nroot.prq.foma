@@ -4289,7 +4289,7 @@ define NRootPRQin [
 | "[=Porokayari+sem@NP.place][NRoot][=NP (ES: Apurucayali)]" : {porokayari}
 | "[=Purukayari+sem@NP.place][NRoot][=NP (ES: Apurucayali)]" : {purukayari}
 | "[=Porokayaari+sem@NP.place][NRoot][=NP (ES: Apurucayali)]" : {porokayaari}
-| "[=Apurucayali+sem@NP.place][NRoot][=NP (ES: Apurucayali)]" : {apurucayali}
+| "[=Apurucayali+sem@NP.place][NRoot][=NP]" : {apurucayali}
 # ---------------------------------------------------------------------
 ! 
 | "[=pototi+gndr@m.+sem@bird][NRoot][=(big).dove.sp. (ES: paloma.grande, pichón.plúmbeo; sci.nm.: columba.plumbea)]" : {pototi}
