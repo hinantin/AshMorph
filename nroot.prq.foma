@@ -1848,10 +1848,6 @@ define NRootPRQin [
 | "[=tsivankiri+gndr@n.m.+sem@plant][NRoot][=tree.sp., huayruro.tree]" : {tsivankiri}
 # ---------------------------------------------------------------------
 ! 
-| "[=tsivitaroki+gndr@n.m.][NRoot][=corn.sp.]" : {tsivitaroki}
-| "[=tsivitaaki+gndr@n.m.][NRoot][=corn.sp.]" : {tsivitaaki}
-# ---------------------------------------------------------------------
-! 
 | "[=tsivo+gndr@n.m.][NRoot][=box.made.out.of.split_cane, cane.box (ES: maleta, caja.hecha.de.caña.brava)]" : {tsivo}
 | "[=tsivoo+gndr@n.m.][NRoot][=box.made.out.of.split_cane, cane.box (ES: maleta, caja.hecha.de.caña.brava)]" : {tsivoo}
 # ---------------------------------------------------------------------
@@ -5751,6 +5747,11 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=sonkoki+gndr@m.][NRoot][=white.corn.variety]" : {sonkoki}
+! 
+| "[=tsivitaroki+gndr@n.m.][NRoot][=corn.sp.]" : {tsivitaroki}
+| "[=tsivitaaki+gndr@n.m.][NRoot][=corn.sp.]" : {tsivitaaki}
+! 
+| "[=tonkairiki+gndr@n.m.][NRoot][=corn.sp.]" : {tonkairiki}
 # ------------------------------------------------------------
 ! 
 | "[=sovaito+gndr@m.+sem@amphibian][NRoot][=toad.sp. (ES: sp.de.sapo; sci.nm.: ischnocnema.quixensis)]" : {sovaito}
