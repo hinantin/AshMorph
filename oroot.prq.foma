@@ -412,7 +412,7 @@ define ConnRootPRQ01in [
 | "[=tekira][ConnRoot][=before]" : {tekira}
 # ------------------------------------------------------------------
 ! 
-| "[=kempeni][ConnRoot][=CONN (EN: as, like; ES: como)]" : {kempeni}
+| "[=kempeni+~{V:/'to.be.similar.to.sb/sth':kempe/}{ADV:ni}][ConnRoot][=CONN (EN: as, like; ES: como)]" : {kempeni}
 # ------------------------------------------------------------------
 ! 
 | "[=ovakera][ConnRoot][=CONN (EN: when)]" : {ovakera}
