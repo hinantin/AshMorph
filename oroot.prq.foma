@@ -168,11 +168,13 @@ define ORootPRQin [
 ! 
 | "[=intatsikero][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikero}
 | "[=intatikero][NRoot][=other.side (ES: otro.lado, otra.banda, otro.lado.del.río); end.of.a.side (ES: extremo.de.un.lado)]" : {intatikero}
-| "[=intatzikero][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatzikero}
+| "[=intatikya][NRoot][=other.side (ES: al.otro.lado.de.un.pequeño.arroyo/quebrada)]" : {intatikya}
+| "[=intatzikero][NRoot][=other.side.of.a.small.brook (ES: otro.lado, otra.banda)]" : {intatzikero}
 | "[=intatsikeronta+~{N:/'other.side':intatsikero/}{DEM:nta}][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikeronta}
 | "[=intatzikeronta+~{N:/'other.side':intatzikero/}{DEM:nta}][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatzikeronta}
-| "[=intatsikironta][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikironta}
+| "[=intatsikironta+~{N:/'other.side':intatsikiro/}{DEM:nta}][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikironta}
 | "[=antakeronta][NRoot][=end.of.a.side (ES: extremo.de.un.lado)]" : {antakeronta}
+| "[=akakeroka][NRoot][=here.at.the.other.side (ES: aquí.al.otro.lado)]" : {akakeroka}
 # ---------------------------------------------- 
 ! 
 # ----------------------------
