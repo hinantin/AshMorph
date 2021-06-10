@@ -167,12 +167,12 @@ define ORootPRQin [
 # ---------------------------------------------- 
 ! 
 | "[=intatsikero][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikero}
-| "[=intatikero][NRoot][=other.side (ES: otro.lado, otra.banda, otro.lado.del.río)]" : {intatikero}
+| "[=intatikero][NRoot][=other.side (ES: otro.lado, otra.banda, otro.lado.del.río); end.of.a.side (ES: extremo.de.un.lado)]" : {intatikero}
 | "[=intatzikero][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatzikero}
 | "[=intatsikeronta][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikeronta}
 | "[=intatzikeronta][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatzikeronta}
 | "[=intatsikironta][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikironta}
-| "[=antakeronta][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {antakeronta}
+| "[=antakeronta][NRoot][=end.of.a.side (ES: extremo.de.un.lado)]" : {antakeronta}
 # ---------------------------------------------- 
 ! 
 # ----------------------------
