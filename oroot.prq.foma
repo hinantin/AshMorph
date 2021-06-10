@@ -174,7 +174,8 @@ define ORootPRQin [
 | "[=intatzikeronta+~{N:/'other.side':intatzikero/}{DEM:nta}][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatzikeronta}
 | "[=intatsikironta+~{N:/'other.side':intatsikiro/}{DEM:nta}][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikironta}
 | "[=antakeronta][NRoot][=end.of.a.side (ES: extremo.de.un.lado)]" : {antakeronta}
-| "[=akakeroka][NRoot][=here.at.the.other.side (ES: aquí.al.otro.lado)]" : {akakeroka}
+| "[=akakeroka][NRoot][=over.there.at.the.other.side (ES: allí.al.otro.lado)]" : {akakeroka}
+| "[=arakeroka][NRoot][=here.at.the.other.side (ES: aquí.al.otro.lado)]" : {arakeroka}
 # ---------------------------------------------- 
 ! 
 # ----------------------------
