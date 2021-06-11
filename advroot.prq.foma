@@ -107,8 +107,8 @@ define AdvRootPRQ=SET1 [
 | "[=okanta][AdvRoot][=CONN (EN: meanwhile)]" : {okanta}
 # ---------------------------------------------------------------------------
 ! 
-| "[=osaikera][AdvRoot][=tomorrow]" : {osaikera}
-| "[=osaitekera][AdvRoot][=tomorrow]" : {osaitekera}
+| "[=osaikera][AdvRoot][=tomorrow (ES: mañana)]" : {osaikera}
+| "[=osaitekera][AdvRoot][=tomorrow (ES: mañana)]" : {osaitekera}
 # -------------------------------------------------------- 
 ! 
 | "[=osamani][AdvRoot][=some.time.later; later.on, after.a.while]" : {osamani}
