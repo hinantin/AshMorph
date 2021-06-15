@@ -3,25 +3,25 @@
 # -----------------
 define V=S=CL [ 
   "[--][-tsapiya][+VERB.CL:side.of.river][=bank, side.of.river]" : "@EP"{tsapiya} ! @CL 
-| "[--][-shi][+VERB.CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]" : "@EP"{shi} ! @CL 
+| "[--][-shi+class.term@inanim.][+VERB.CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]" : "@EP"{shi} ! @CL 
 | "[--][-pankaina][+VERB.CL:bare,flat][=bare, flat]" : "@EP"{pankaina} ! @CL  
 | "[--][-poroki][+VERB.CL:quantity][=bunch,group;group.of.tiny.objects]" : "@EP"{poroki} ! @CL 
 | "[--][-pooki][+VERB.CL:quantity][=bunch,group;group.of.tiny.objects]" : "@EP"{pooki} ! @CL 
 | "[--][-poroki][+VERB.CL:assortment][=crumbs,particles]" : "@EP"{poroki} ! @CL 
 | "[--][-to][+VERB.CL:hollow.thin.rigid][=hollow.thin.rigid]" : "@EP"{to} ! @CL 
-| "[--][-ki][+VERB.CL:S.R.H][=small,round(ed);hard;seed-like;small.insect-like]" : "@EP"{ki} ! @CL +SHAPE
-| "[--][-kii][+VERB.CL:long,thin.branch][=long,thin.branch; stick-like.(with.a.sharp.pointed.end)]" : "@EP"{kii} ! @CL +SHAPE
+| "[--][-ki+class.term@inanim.][+VERB.CL:S.R.H][=small,round(ed);hard;seed-like]" : "@EP"{ki} ! @CL +SHAPE
+| "[--][-kii+class.term@inanim.][+VERB.CL:long,thin.branch][=long,thin.branch; stick-like.(with.a.sharp.pointed.end)]" : "@EP"{kii} ! @CL +SHAPE
 | "[--][-tsa][+VERB.CL:long.flexible.thin][=long,flexible,thin; long,stringy; liana.(like); tree_bark; curvilinear]" : "@EP"{tsa} ! @CL +SHAPE  
 | "[--][-tsantsa][+VERB.CL:length][=long (ES: largo);length]" : "@EP"{tsantsa} ! @CL 
 | "[--][-tsantsana][+VERB.CL:wide][=wide]" : "@EP"{tsantsana} ! @CL 
 | "[--][-tsantsanaa][+VERB.CL:wide][=wide]" : "@EP"{tsantsanaa} ! @CL 
-| "[--][-pa][+VERB.CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : "@EP"{pa} ! @CL  
-| "[--][-nari][+VERB.CL:animal][=animal, simulative.M]" : "@EP"{nari} ! @CL 
+| "[--][-pa+class.term@inanim.][+VERB.CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain]" : "@EP"{pa} ! @CL  
+| "[--][-nari+class.term@anim.][+VERB.CL:animal][=animal, simulative.M]" : "@EP"{nari} ! @CL 
 | "[--][-pontso][+VERB.CL:with.a.blunt.end][=with.a.blunt.end, without.a.sharp.edge/point, sharpless.edge/point]" : "@EP"{pontso} ! @CL  
 | "[--][-kona][+VERB.CL:curved][=curved; gnarled,knotty,lumpy]" : "@EP"{kona} ! @CL  (ES: curvado) 
 | "[--][-patsa][+VERB.CL:mass][=mass; jelly-like.(soil); semi-solid.substance]" : "@EP"{patsa} ! @CL 
-| "[--][-nki][+VERB.CL:snake][=snake.sp.]" : "@EP"{nki} ! @CL 
-| "[--][-nke][+VERB.CL:snake][=snake.sp.]" : "@EP"{nke} ! @CL 
+| "[--][-nki+class.term@anim.][+VERB.CL:snake][=snake.sp.]" : "@EP"{nki} ! @CL 
+| "[--][-nke+class.term@anim.][+VERB.CL:snake][=snake.sp.]" : "@EP"{nke} ! @CL 
 | "[--][-taro][+VERB.CL:dual][=dual]" : "@EP"{taro} ! @CL 
 | "[--][-tenka][+VERB.CL:longitudinal.depression][=longitudinal.depression (curved.inwards); convexity]" : "@EP"{tenka} ! @CL  
 | "[--][-ina][+VERB.CL:ball-like][=ball-like, spherical]" : "@EP"{ina} ! @CL  

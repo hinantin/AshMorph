@@ -33,7 +33,7 @@ updatespellchecker:
 	@ /etc/init.d/tcpServerErrorCorrection restart
 
 compile:
-	@rm -f n-vroot.prq.group1.foma | perl extractEntries.pl --file nroot.prq.foma --file nroot.es.foma --file aroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --file nroot.qu.foma --file oroot.prq.foma --outputfilename "n-vroot.prq.group1.foma" --label "N@->V" --title "Verbalized entries" --header "NounToVerbPRQin" --replace2 1 --source2 "\" : {" --target2 "[^VBZ]\" : {"
+	@rm -f n-vroot.prq.group1.foma | perl extractEntries.pl --file nroot.prq.foma --file nroot.es.foma --file aroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --file nroot.qu.foma --file oroot.prq.foma --file advroot.prq.foma --outputfilename "n-vroot.prq.group1.foma" --label "N@->V" --title "Verbalized entries" --header "NounToVerbPRQin" --replace2 1 --source2 "\" : {" --target2 "[^VBZ]\" : {"
 	@rm -f v-nroot.prq.group1.foma | perl extractEntries.pl --file vroot.prq.foma --outputfilename "v-nroot.prq.group1.foma" --label "V@->N" --title "Nominalized entries" --header "VerbToNounPRQin" --replace2 1 --source2 "\" : {" --target2 "[^NMZ]\" : {"
 	@rm -f noun.cmp.prq.foma | perl extractEntries.pl --file nroot.prq.foma --file ideo.prq.foma --file numeral.prq.foma --outputfilename "noun.cmp.prq.foma" --label "@CMP" --title "Compound nouns" --header "NRootCmpPRQin" --separator 1
 	@rm -f verb.composition.prq.foma | perl extractEntries.pl --file nroot.prq.foma --file aroot.prq.foma --outputfilename "verb.composition.prq.foma" --label "@VCMP" --title "NOUN INCORPORATION (Verb-noun composition)" --header "V=S=noun" --separator 1 --replace1 1 --replace3 1 --source3 "NRoot" --target3 "IncNRoot"

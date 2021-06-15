@@ -176,4 +176,5 @@ define NounToVerbPRQin [
 | "[=ch'arki/chariki][NRoot:QU][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)][^VBZ]" : {chariki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
 | "[=ch'arki/chariiki][NRoot:QU][=salted.dried.meat (ES: charqui, cecina, chalona; QU: ch'arki)]::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)][^VBZ]" : {chariiki} ! N@->V::[=to.make.dried.salted.meat (ES: hacer.charqui; QU: ch'arkiy)]
 | "[=maapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)][^VBZ]" : {maapero} ! N@->V 
+| "[=kempehi][AdvRoot][=near (ES: cerca)]::[=to.get.near (ES: acercarse)][^VBZ]" : {kempehi} ! N@->V::[=to.get.near (ES: acercarse)] 
 ];
