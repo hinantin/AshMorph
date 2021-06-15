@@ -151,6 +151,7 @@ define AdvRootPRQ=SET1 [
 # -------------------------------------------------------- 
 ! 
 | "[=tampatika][AdvRoot][=at.midday]" : {tampatika}
+| "[=tampatzika][AdvRoot][=at.midday]" : {tampatzika}
 # -------------------------------------------------------- 
 ! 
 | "[=tsiteni][AdvRoot][=at.night, in.the.nightime]" : {tsiteni}
@@ -247,12 +248,12 @@ define AdvRootPRQ=SET4 [
 define AdvRootPRQ=SET4=INFLECTION [ [AdvRootPRQ=SET4] [ [N=S=DEM] | [N=S=ADV=SET2] ] ];
 
 define AdvRootPRQ=SET5 [
-  "[=tsompoina+loc.][AdvRoot][=inside (ES: adentro)]" : {tsompoina}
+  "[=tsompo ina+loc.][AdvRoot][=inside (ES: adentro)]" : {tsompoina}
 | "[=intsomoina+loc.][AdvRoot][=inside (ES: adentro)]" : {intsomoina}
 | "[=intsompoina+loc.][AdvRoot][=inside (ES: adentro)]" : {intsompoina}
 ! 
 | "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
-| "[=intatzikiroka+~{N:/'other.side':intatzikero/}{DEM:ka}][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
+| "[=intatzikiroka+~{N:/'other.side':intatzikero/}{DEM:/'here':ka/}][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
 | "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
 | "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
