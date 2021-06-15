@@ -101,7 +101,7 @@ define AdvRootPRQ=SET1 [
 ! 
 | "[=okakini][AdvRoot][=near (ES: cerca)]" : {okakini}
 | "[=okaakini][AdvRoot][=near (ES: cerca)]" : {okaakini}
-| "[=kempehi][AdvRoot][=near (ES: cerca)]" : {kempehi}
+| "[=kempehi][AdvRoot][=near (ES: cerca)]" : {kempehi} ! N@->V::[=to.get.near (ES: acercarse)] 
 # ---------------------------------------------------------------------------
 ! 
 | "[=okanta][AdvRoot][=CONN (EN: meanwhile)]" : {okanta}
