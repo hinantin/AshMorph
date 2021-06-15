@@ -150,10 +150,6 @@ define AdvRootPRQ=SET1 [
 | "[=sheteniranki][AdvRoot][=yesterday]" : {sheteniranki}
 # -------------------------------------------------------- 
 ! 
-| "[=tampatika][AdvRoot][=at.midday]" : {tampatika}
-| "[=tampatzika][AdvRoot][=at.midday]" : {tampatzika}
-# -------------------------------------------------------- 
-! 
 | "[=tsiteni][AdvRoot][=at.night, in.the.nightime]" : {tsiteni}
 | "[=tsiteniranki][AdvRoot][=last.night]" : {tsiteniranki}
 # -------------------------------------------------------- 

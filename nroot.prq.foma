@@ -6926,6 +6926,10 @@ define NRootPRQin [
 | "[=tampatika+poss@te.][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatika} ! N@->V 
 | "[=tampatzika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]" : {tampatzika}
 | "[=tampatyika][NRoot][=noon (ES: mediodía)]" : {tampatyika}
+! 
+!| "[=tampatika][AdvRoot][=at.midday]" : {tampatika}
+!| "[=tampatzika][AdvRoot][=at.midday]" : {tampatzika}
+!| "[=tampatsika][AdvRoot][=at.midday]" : {tampatsika}
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsaampi+gndr@m.+sem@insect][NRoot][=butterfly.sp. (ES: mariposa)]" : {tsaampi}
