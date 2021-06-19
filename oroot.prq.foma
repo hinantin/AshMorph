@@ -163,8 +163,10 @@ define ORootPRQin [
 | "[=nyaamitsa][Interj][=expression.of.compassion (ES: ¡que.barbaridad!)]" : {nyaamitsa}
 # ---------------------------------------------- 
 ! 
-| "[=intaani][AdvRoot][=only; solely]" : {intaani}
-| "[=intani][AdvRoot][=only; solely]" : {intani}
+| "[=intaani][AdvRoot][=only; solely (ES: solamente)]" : {intaani}
+| "[=intani][AdvRoot][=only; solely (ES: solamente)]" : {intani}
+| "[=inta][AdvRoot][=only; solely (ES: solamente)]" : {inta}
+| "[=tani][AdvRoot][=only; solely (ES: solamente)]" : {tani}
 # ---------------------------------------------- 
 ! 
 | "[=intatsikero][NRoot][=other.side (ES: otro.lado, otra.banda)]" : {intatsikero}
