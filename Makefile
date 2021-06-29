@@ -197,7 +197,7 @@ analyze.file:
 
 analyze.treebank:
 	@perl gettreebank.pl > mycorpus.txt 
-	@cat mycorpus.txt | perl tokenize.pl | ~/Descargas/foma/foma/flookup asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
+	@cat mycorpus.txt | perl tokenize.pl | ../foma/foma/flookup.exe asheninka.bin | grep '+?' | gawk '{print $1}' > failures.all 
 	@cat failures.all | sort | uniq -c | sort -rnb > failures.sorted
 
 search.treebank:

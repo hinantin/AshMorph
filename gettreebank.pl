@@ -1,37 +1,30 @@
-#!/usr/bin/perl
+use XML::Parser;
+require LWP::UserAgent;
 
-use RPC::XML;
-use RPC::XML::Client;
-use Config::IniFiles;
-binmode(STDOUT, ":utf8");
-
-my $configfile = 'ConfigFile.ini';
-my $CONFIG = Config::IniFiles->new( -file => $configfile );
-my $user = $CONFIG->val( 'XMLDATABASEHINANTIN', 'USER' );
-my $password = $CONFIG->val( 'XMLDATABASEHINANTIN', 'PASSWORD' );
-my $host = $CONFIG->val( 'XMLDATABASEHINANTIN', 'HOST' );
-my $port = $CONFIG->val( 'XMLDATABASEHINANTIN', 'PORT' );
-my $database = $CONFIG->val( 'XMLDATABASEHINANTIN', 'DATABASE' );
-
-$query = <<END;
-xquery version "3.0";
-for \$doc in doc("/db/HNTE-Learning/Lessons/$doc") return <xml>{\$doc}</xml>
+$URL = 'http://localhost:8080/exist/rest/db/';
+$QUERY = <<END;
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns="http://exist.sourceforge.net/NS/exist"
+    start="1" max="20">
+    <text><![CDATA[
+        let \$document := '/db/Ashaninka/DependencyTreebanks/texts_20210608_premiopnc13.xml'
+        let \$result := doc(\$document)//parallel//text//sentence[fn:equals(\@lang, 'prq') or fn:equals(\@lang, 'cpb')]/text()
+        return <response> {string-join(\$result, ' ')} </response>
+    ]]></text>
+    <properties>
+        <property name="indent" value="yes"/>
+    </properties>
+</query>
 END
-$URL = "http://$user:$password\@$host:$port$database/ParallelCorpus/query/gettreebank.xq";
-# connecting to $URL...
-$client = RPC::XML::Client->new($URL);
-# Output options
-my @options = ({
-    'indent' => 'yes', 
-    'encoding' => 'UTF-8',
-    'highlight-matches' => 'none'});
-$req = RPC::XML::request->new();
-$response = $client->send_request('system.listMethods');
 
-if ($callback ne "" and defined($callback)) {
-  my $result = $response->value;
-  print "$result";
-}
-else {
-  print $response->value;
+$ua = LWP::UserAgent->new();
+$req = HTTP::Request->new(POST => $URL);
+$req->content_type('application/xml');
+$req->content($QUERY);
+
+$res = $ua->request($req);
+if($res->is_success) {
+    print $res->content . "\n";
+} else {
+    print "Error:\n\n" . $res->status_line . "\n";
 }
