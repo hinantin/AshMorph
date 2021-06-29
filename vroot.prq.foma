@@ -1747,6 +1747,7 @@ define VRootPRQin [
 ! 
 # ------------------------------------------------------------------- 
 | "[=monkaa+INF@/EP:t/aantsi.][VRoot][=to.measure (ES: medir); to.fulfill]" : {monkaa}
+| "[=monka+INF@/EP:t/antsi.][VRoot][=to.measure (ES: medir); to.fulfill]" : {monka}
 | "[=monkara+INF@/EP:t/aantsi.][VRoot][=to.measure (ES: medir); to.fulfill]" : {monkara}
 ! yomarentsi / ES: 'regla' 
 | "[=yoma][VRoot][=to.measure (ES: medir)]" : {yoma}
@@ -3759,6 +3760,8 @@ define VRootPRQin [
 ! 
 !| "[=okaayitzi+~{UNK:o}{V:/'COP.CAP':kaa/}{UNK:yitzi}][NRoot][=number (ES: número)]" : {okaayitzi} ! @section:noun@ 
 !| "[=nyaakaaro+inal@ntsi.+allomorph@ñaakaaro.][NRoot][=number (ES: número)]" : {nyaakaaro} ! @section:noun@ 
+!
+| "[=nyaka][VRoot][=to.enumerate (ES: enumerar)]" : {nyaka} ! 
 # ---------------------------------------------------------------------------  
 ];
 
