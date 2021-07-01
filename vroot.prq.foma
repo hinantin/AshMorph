@@ -3455,10 +3455,10 @@ define VRootPRQin [
 | "[=tsoin+INF@/EP:t/UNK.][VRoot][=to.sit.down (ES: sentar)]" : {tsoin}
 # --------------------------------------------------------------------------- 
 ! 
-| "[=tsompi+INF@/EP;t/aantsi.][VRoot][=to.carry.in.the.arms (ES: cargar.bebé)]" : {tsompi}
-| "[=tsoompi+INF@/EP;t/aantsi.][VRoot][=to.carry.in.the.arms (ES: cargar.bebé)]" : {tsoompi}
-| "[=tsoma][VRoot][=to.carry.in.the.arms (ES: llevar/alzar.en.los.brazos/garras)]" : {tsoma}
-| "[=tsom][VRoot][=to.carry.in.the.arms (ES: llevar/alzar.en.los.brazos/garras); to.carry.a.baby]" : {tsom}
+| "[=tsompi+INF@/EP;t/aantsi.][VRoot][=to.carry.sth.in.the.arms (ES: cargar.bebé)]" : {tsompi}
+| "[=tsoompi+INF@/EP;t/aantsi.][VRoot][=to.carry.sth.in.the.arms (ES: cargar.bebé)]" : {tsoompi}
+| "[=tsoma+INF@/R.DEL:a/gaantsi.][VRoot][=to.carry.sth.in.the.arms (ES: llevar/alzar.en.los.brazos/garras)]" : {tsoma}
+| "[=tsom+INF@agaantsi.][VRoot][=to.carry.sth.in.the.arms (ES: llevar/alzar.en.los.brazos/garras); to.carry.a.baby (ES: cargar.bebé)]" : {tsom}
 # --------------------------------------------------------------------------- 
 ! 
 | "[=tsop+INF@antsi.][VRoot][=to.pull.sth.out (ES: sacar.(de.un.lugar.estrecho)); to.detach (ES: desprender(se)); to.be.loose]" : {tsop}
