@@ -3436,8 +3436,8 @@ define VRootPRQin [
 | "[=tsoka][VRoot][=to.strain.sth. (e.g.: manioc.mass)]" : {tsoka}
 # --------------------------------------------------------
 ! 
-| "[=tsokih][VRoot][=to.have.hiccups, to.hiccough (ES: tener.hipo)]" : {tsokih}
-| "[=tsokis][VRoot][=to.have.hiccups, to.hiccough (ES: tener.hipo)]" : {tsokis}
+| "[=tsokih+INF@aantsi.][VRoot][=to.have.hiccups, to.hiccough (ES: tener.hipo, hipar)]" : {tsokih}
+| "[=tsokis+INF@aantsi.][VRoot][=to.have.hiccups, to.hiccough (ES: tener.hipo, hipar)]" : {tsokis}
 # --------------------------------------------------------
 ! 
 | "[=tsonk+INF@antsi.][VRoot][=to.finish.(off) (ES: terminar)]" : {tsonk}
