@@ -69,6 +69,7 @@
 #    a mythical-being who controls an element, and give this element supernatural powers.
 #    master-owner -> +sem@master-owner.
 #    human.body.part -> +sem@b.p.
+#    animal.body.part -> +sem@animal.b.p.
 #    mammals -> +sem@mammal (bat, dolphin) 
 
 #    masculine gender
@@ -1634,6 +1635,10 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=kymaroatzi+gndr@n.m.+sem@bird][NRoot][=red-billed.scythebill (sci.nm.: campylorhampus.trochilirostris)]" : {kymaroatzi}
+# ------------------------------------------------------
+! 
+| "[=ichomeki+sem@animal.b.p.][NRoot][=bird.rump (ES: rabadilla.de.las.aves)]" : {ichomeki}
+| "[=ichometiiki+sem@animal.b.p.][NRoot][=bird.rump (ES: rabadilla.de.las.aves)]" : {ichometiiki}
 # ------------------------------------------------------
 ! 
 | "[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimbillo, judía.delem.helado; QU: paqay; botany.nm.: inga.sp., inga.fullei; PT: ingá)]" : [{intsipa}|{itsipa}]
