@@ -129,6 +129,7 @@ In order to run AshMorph finite state transducer, you will need either Foma or X
 * Foma: https://github.com/mhulden/foma (In order to run Foma on a Linux OS you will need to install the following packages first: zlib1g-dev, flex, bison, libreadline-dev, termcap).
 
 ```bash
+$ sudo apt-get update
 $ sudo apt install make
 $ sudo apt install build-essential
 $ sudo apt-get install zlib1g-dev flex bison libreadline-dev
