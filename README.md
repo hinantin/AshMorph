@@ -135,5 +135,6 @@ $ sudo apt install build-essential
 $ sudo apt-get install zlib1g-dev flex bison libreadline-dev
 $ git clone https://github.com/mhulden/foma
 ```
+Note: Foma compilations have some issues.
 
 * XFST: http://www.stanford.edu/~laurik/.book2software/
