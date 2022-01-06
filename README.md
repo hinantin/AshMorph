@@ -58,8 +58,8 @@ Our analysis of the collected text corpus, shows that pan-Ashaninka presents bot
 
 There are particular cases where verbal roots with prefixes are reduplicated in both partial and total modes. 
 
-Normalization process
-===================
+Normalization process 'NMZ'
+=====================
 
 In order to give this project a certain amount of robustness, we used a normalized version of the alphabet 
 developed by Elena Mihas to write every lexicon entry and all the affixes. 
