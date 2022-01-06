@@ -27,7 +27,7 @@ ES: 'un hombre que vivía cerca de una cocha'
 ```
 Verbal classifier: ha 'liquid'
 
-katsinkajari / katsinkahari
+katsinkajari /NMZ> katsinkahari
 =katsinka -ha -ri 
 =to.be.cold -cl:liquid -rel 
 EN: 'cold.water; lit.: liquid.that.is.cold'
