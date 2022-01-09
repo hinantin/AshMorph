@@ -301,7 +301,7 @@ define VRootPRQin [
 ! nanei / n- =ane -i / ES: 'yo.vivo' 
 | "[=ane+INF@aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {ane}
 | "[=any+INF@(a)antsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {any} ! @section:verb@ 
-! añitantsi / anyitantsi / =anyi -t -antsi / =to.live -ep -inf / ES: 'vivir'
+! añitantsi /NMZ> anyitantsi / =anyi -t -antsi / =to.live -ep -inf / ES: 'vivir'
 | "[=anyi/añi+INF@/EP:t/aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {anyi} ! @section:verb@ 
 | "[=anye/añe+INF@/EP:t/aantsi.][VRoot][=to.live, to.be.alive (ES: vivir)]" : {anye} 
 # -------------------------------------------------------------------------------- 
@@ -437,7 +437,7 @@ define VRootPRQin [
 | "[=apotoi+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar)]" : {apotoi}
 | "[N=][IRR+][--][=apotoi+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar)]" : {ampotoi}
 | "[=apato+INF@/EP:t/aantsi.][VRoot][=to.gather (ES: juntar), to.meet, to.get.together]" : {apato} ! V@->N::[=meeting (ES: reunión)]
-! te yampototanajya / te yampototanahya / =te *** y- N- =apoto -t -an -ah -ya / =NEG.REAL *** 3m.s- N- =to.meet -ep -inch -term -irr / EN: 'they.did.not.meet.anymore'; ES: 'ya.no.se.reunieron.más'
+! te yampototanajya /NMZ> te yampototanahya / =te *** y- N- =apoto -t -an -ah -ya / =NEG.REAL *** 3m.s- N- =to.meet -ep -inch -term -irr / EN: 'they.did.not.meet.anymore'; ES: 'ya.no.se.reunieron.más'
 | "[N=][IRR+][--][=apoto+INF@/EP:t/aantsi.][VRoot][=to.gather, to.meet, to.get.together]" : {ampoto}
 | "[N=][IRR+][--][=apato+INF@/EP:t/aantsi.][VRoot][=to.gather, to.meet, to.get.together]" : {ampato}
 ! apatotantsipanko / =apato -t -antsi =panko / =to.meet -ep -inf =house / EN: 'community.hall'; ES: 'salón.comunal'
@@ -534,8 +534,8 @@ define VRootPRQin [
 | "[=ashinonkee][VRoot][=to.suffer.from.sth.; to.suffer (ES: sufrir)]" : {ashinonkee}
 # -------------------------------------------
 ! 
-! ¡Jeriketi ashitakakerori noshinto! / ES: '¡Aquí está el que ha preñado a mi hija!' 
-! ninka iroñaaka ashitakakamiri / ES: 'entonces quién es el que te ha preñado' 
+! ¡Jeriketi ashitakakerori noshinto! /NMZ> ¡Heriketi ashitakakerori noshinto! / ES: '¡Aquí está el que ha preñado a mi hija!' 
+! ninka iroñaaka ashitakakamiri /NMZ> ninka ironyaaka ashitakakamiri / ES: 'entonces quién es el que te ha preñado' 
 ! Aashitakari choeni shirampari kayetsi. / ES: 'el que preñó a mi hermana es un hombre afasi' 
 ! “Ninka ashitakakamiri iroñaaka pimotyatakirira?” / ES: '“¿Quién es el padre para que tengas tu bebé?”' 
 | "[=ashitak+~{V:/'to.have':ashi/}{EP:t}{APPL.CAUS.SOC:ak}+INF@VC.][VRoot][=to.impregnate, to.make.pregnant (ES: preñar)]" : {ashitak}
