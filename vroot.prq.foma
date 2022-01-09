@@ -268,7 +268,7 @@ define VRootPRQin [
 | "[=ampintsa+INF@/EP:t/aantsi.][VRoot][=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo,, trenzar, entrelazar.soga)]" : {ampintsa}
 # ---------------------------------------------------
 ! 
-| "[=amitako+INF@/EP:t/aantsi.][VRoot][=to.help (ES: ayudar)]" : {amitako}
+| "[=amitako+INF@/EP:t/aantsi.][VRoot][=to.help (ES: ayudar; PT: ajudar)]" : {amitako}
 # ---------------------------------------------------
 ! 
 | "[=ana+INF@/EP:t/aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)]" : {ana}
@@ -611,7 +611,7 @@ define VRootPRQin [
 #@TOTREDUPCLASS03| "[=tso+INF@/EP:t/aantsi.+tot.redup@unb.copy.][VRoot][=to.kiss (ES: besar)]" : {tso} ! nontsonontso notsonotso pitsopitso itsoitso otsootso 
 # ------------------------------------------- 
 ! 
-# abiitaantsi / aviitaantsi / ES: 'coger' 
+# abiitaantsi /NMZ> aviitaantsi / ES: 'coger' 
 | "[=avii+INF@/EP:t/aantsi.][VRoot][=to.harvest.sth. (apart.from.yucca; ES: cosechar, hacer.la.cosecha)]" : {avii}
 | "[=avi+INF@/EP:t/aantsi.][VRoot][=to.harvest.sth. (apart.from.yucca; ES: cosechar, hacer.la.cosecha); to.have.power]" : {avi}
 | "[=vii][VRoot][=to.pick/harvest.sth. (apart.from.yucca; ES: cosechar, hacer.la.cosecha)]" : {vii}
