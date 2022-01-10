@@ -816,7 +816,8 @@ define VRootPRQin [
 | "[=hoho+INF@/EP:t/antsi.][VRoot][=to.cough.convulsively (ES: toser.convulsivamente)]" : {hoho}
 # --------------------------------------------
 ! 
-| "[=hokii][VRoot][=to.be.sick (ES: estar.enfermo)]" : {hokii}
+| "[=hokii+INF@/EP:t/VC.][VRoot][=to.be.sick (ES: estar.enfermo)]" : {hokii}
+| "[=hoki+INF@/EP:t/VC.][VRoot][=to.be.sick (ES: estar.enfermo)]" : {hoki}
 # --------------------------------------------
 ! 
 | "[=impoit+INF@aantsi.][VRoot][=to.follow.behind (ES: seguir.atrás)]" : {impoit}
