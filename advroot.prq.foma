@@ -1,3 +1,5 @@
+# Observation: It seems adverbs should be conjugated in order to agree with the sentence main verb or they as adverbs provide when they are conjugated information on the tense of action verb. # need proofreading 
+
 define AdvRootPRQ=SET1 [
   "[=apaata][AdvRoot][=later]" : {apaata}
 | "[=apaata][AdvRoot][=soon]" : {apaata}
