@@ -2364,8 +2364,8 @@ define VRootPRQin [
 | "[=pichak+INF@antsi.][VRoot][=to.patch.sth. (ES: parchar.algo)]" : {pichak}
 # ------------------------------------------------------
 ! 
-| "[=pimant][VRoot][=to.sell (ES: vender)]" : {pimant}
-| "[=pimanta][VRoot][=to.sell (ES: vender)]" : {pimanta}
+| "[=pimant+INF@(a)antsi.][VRoot][=to.sell (ES: vender)]" : {pimant}
+| "[=pimanta+INF@antsi.][VRoot][=to.sell (ES: vender)]" : {pimanta}
 ! 
 # tsinane pimantirori ovatsa / =tsinane  =pimant -i -ro -ri  o- =vatsa / EN: 'sex.worker, lit.: woman.who.sells.her.flesh'; ES: 'trabajadora.sexual'
 !| "[=tsinane_pimantirori_ovatsa+gndr@n.m.][NRoot][=sex.worker (ES: trabajadora.sexual)]" : {tsinane_pimantirori_ovatsa} ! @section:noun@ 
