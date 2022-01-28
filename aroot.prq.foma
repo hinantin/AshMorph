@@ -133,4 +133,6 @@ define ARootPRQin [
 !
 | "[=pihonkari+gndr@n./m.+poss@nposs.adj.][NRoot][=lightweight (ES: liviano)]" : {pihonkari}
 | "[=piyonkari+gndr@n./m.+poss@nposs.adj.][NRoot][=lightweight (ES: liviano)]" : {piyonkari}
+! 
+| "[=poshini][NRoot][=tasty, delicious (ES: sabroso)]" : {poshini} ! N@->V::[=to.be.tasty] 
 ];
