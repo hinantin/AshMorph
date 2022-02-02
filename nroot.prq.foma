@@ -1149,8 +1149,10 @@ define NRootPRQin [
 | "[=haipempe+gndr@m.+sem@bird][NRoot][=white-plumed.antbird (sci.nm.: pithys.albifrons)]" : {haipempe}
 # ------------------------------------------------------------------
 ! 
-| "[=hananeki+poss@te.][NRoot][=child (ES: niño)]" : {hananeki}
-| "[=hananiki+poss@te.][NRoot][=little.child]" : {hananiki}
+! Jananeki mayenpiro /NMZ> hananeki mayempiro / ES: 'niña traviesa'
+! Jananeki mayenpiri /NMZ> hananeki mayempiri / ES: 'niño travieso'
+| "[=hananeki+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]" : {hananeki}
+| "[=hananiki+gndr@n./m.+poss@te.][NRoot][=little.child]" : {hananiki}
 | "[=hani][NRoot][=little.child]" : {hani} ! @VCMP 
 # ------------------------------------------------------------------
 ! 
