@@ -917,7 +917,7 @@ define VRootPRQin [
 ! 
 | "[=kam+INF@aantsi.+A-Conj@mid.v.][VRoot][=to.die (ES: morir)]" : {kam}
 | "[=kaam+INF@VC.][VRoot][=to.die (ES: morir)]" : {kaam}
-| "[=vam+INF@aantsi.][VRoot][=to.cause.death, to.make.sb/sth.die (ES: hacer.morir)]" : {vam}
+| "[=vam+~{AGT.CAUS:v}{R.DEL:k}{V:/'to.die':kam/}+INF@aantsi.][VRoot][=to.cause.death, to.make.sb/sth.die (ES: hacer.morir)]" : {vam}
 ! 
 !| "[=kamaiventsinkari+gndr@m.][NRoot][=widowed (ES: viudo)]" : {kamaiventsinkari} ! @section:noun@ 
 !| "[=kamaiventsinkaro+gndr@n.m.][NRoot][=widowed (ES: viuda)]" : {kamaiventsinkaro} ! @section:noun@ 
