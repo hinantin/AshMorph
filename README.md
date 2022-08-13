@@ -134,6 +134,16 @@ $ sudo apt install make
 $ sudo apt install build-essential
 $ sudo apt-get install zlib1g-dev flex bison libreadline-dev
 $ git clone https://github.com/mhulden/foma
+$ cd foma/foma
+$ sudo apt install cmake
+$ sudo apt install build-essential cmake libboost-system-dev libboost-thread-dev libboost-program-options-dev libboost-test-dev libeigen3-dev zlib1g-dev libbz2-dev liblzma-dev
+$ cmake . 
+$ cmake --build . 
+$ cd .. 
+$ cd AshMorph/
+$ ../foma/foma/foma -f asheninka.script
+$ echo "mapi" | ../foma/foma/flookup asheninka.bin
+
 ```
 Note: Foma compilations have some issues.
 
