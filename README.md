@@ -136,6 +136,7 @@ $ sudo apt-get install zlib1g-dev flex bison libreadline-dev
 $ git clone https://github.com/mhulden/foma
 $ cd foma/foma
 $ sudo apt install cmake
+$ sudo apt-get install libboost-all-dev
 $ sudo apt install build-essential cmake libboost-system-dev libboost-thread-dev libboost-program-options-dev libboost-test-dev libeigen3-dev zlib1g-dev libbz2-dev liblzma-dev
 $ cmake . 
 $ cmake --build . 
