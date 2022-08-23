@@ -5,6 +5,9 @@
 # Consider adding an example 
 
 define ARootPRQin [
+# -----------------------------------------------
+# big / grande 
+# -----------------------------------------------
   "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature]" : {antari} ! N@->V
 | "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature]" : {antari} ! N@->V
 | "[=anteari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature]" : {anteari} ! N@->V
