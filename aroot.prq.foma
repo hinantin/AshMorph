@@ -2,6 +2,7 @@
 # "NOMINAL ROOTS": ADJECTIVES 
 # -----------------------------------------------
 # Unlike nouns adjectives cannot be possessed.
+# Consider adding an example 
 
 define ARootPRQin [
   "[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature]" : {antari} ! N@->V
