@@ -133,6 +133,7 @@ $ sudo apt-get update
 $ sudo apt install make
 $ sudo apt install build-essential
 $ sudo apt-get install zlib1g-dev flex bison libreadline-dev
+$ cd ..
 $ git clone https://github.com/mhulden/foma
 $ cd foma/foma
 $ sudo apt install cmake
