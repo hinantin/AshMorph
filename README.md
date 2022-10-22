@@ -141,7 +141,7 @@ $ sudo apt-get install libboost-all-dev
 $ sudo apt install build-essential cmake libboost-system-dev libboost-thread-dev libboost-program-options-dev libboost-test-dev libeigen3-dev zlib1g-dev libbz2-dev liblzma-dev
 $ cmake . 
 $ cmake --build . 
-$ cd .. 
+$ cd ../.. 
 $ cd AshMorph/
 $ ../foma/foma/foma -f asheninka.script
 $ echo "mapi" | ../foma/foma/flookup asheninka.bin
