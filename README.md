@@ -147,6 +147,7 @@ $ ../foma/foma/foma -f asheninka.script
 $ echo "mapi" | ../foma/foma/flookup asheninka.bin
 
 ```
-Note: Foma compilations have some issues.
-
+Note: 
+* Foma compilations have some issues.
 * XFST: http://www.stanford.edu/~laurik/.book2software/
+* Further improvements need to be made, concerning new vocabulary.
