@@ -151,3 +151,7 @@ Note:
 * Foma compilations have some issues.
 * XFST: http://www.stanford.edu/~laurik/.book2software/
 * Further improvements need to be made, concerning new vocabulary.
+
+Contact info:
+Richard A. Castro-Mamani rcastro AT hinantin.com
+
