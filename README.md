@@ -66,7 +66,7 @@ developed by Elena Mihas to write every lexicon entry and all the affixes.
 In addition to this, normalization rules have been implemented, this means that every letter in an input entry is mapped to
 its equivalent in the normalized alphabet before being fully analyzed. 
 
-Compiling with XFST or FOMA
+Compiling with XFST
 ===============================
 
 ```bash
@@ -92,7 +92,9 @@ speed:		1 word/sec
 
   *****  END OF LEXICON LOOK-UP  *****
 
-# FOMA
+Compiling with FOMA
+===============================
+
 $ foma -f asheninka.script 
 
 $ echo "ashaninka" | flookup asheninka.bin
