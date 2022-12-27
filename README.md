@@ -91,10 +91,12 @@ execution time:	0 sec
 speed:		1 word/sec
 
   *****  END OF LEXICON LOOK-UP  *****
+```
 
 Compiling with FOMA
 ===============================
 
+```bash
 $ foma -f asheninka.script 
 
 $ echo "ashaninka" | flookup asheninka.bin
@@ -105,7 +107,6 @@ ashaninka       [a-][NPers][1PL.poss+][--][=sha+poss@ni.+sem@wild.anim.][NRoot][
 ashaninka       [a-][NPers][1PL.poss+][--][=sha+poss@ni.+sem@wild.anim.][NRoot][=anteater (ES: piampía; PT: tamanduá)][--][-ni][DEGR][+AUG][=AUG (EN: too; ES: demasiado); INTNS][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
 ashaninka       [a-][NPers][1PL.poss+][--][=shani+gndr@m.+sem@wild.anim.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla; PT: tamanduá)][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
 ashaninka       [a-][NPers][1PL.poss+][--][=shani][VRoot][=to.be.of.the.same.group][--][-nka][NS][+NMZ.QLTY]nka
-
 ```
 
 How to download the source code 
