@@ -70,7 +70,6 @@ Compiling with XFST
 ===============================
 
 ```bash
-# XFST 
 $ xfst -f asheninka.script 
 $ echo "ashaninka" | lookup asheninka.bin -flags cnKv29TT
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
