@@ -66,6 +66,10 @@ developed by Elena Mihas to write every lexicon entry and all the affixes.
 In addition to this, normalization rules have been implemented, this means that every letter in an input entry is mapped to
 its equivalent in the normalized alphabet before being fully analyzed. 
 
+Generative capacity of Ashaninka Grammar
+=========================
+We define "generative capacity of current Ashaninka grammar" as a model which indicates what kind of patterns it can or cannot model.
+
 Compiling with XFST
 ===============================
 
