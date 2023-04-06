@@ -68,6 +68,7 @@ its equivalent in the normalized alphabet before being fully analyzed.
 
 Generative capacity of Ashaninka Grammar
 =========================
+
 First, we define the "generative capacity of Ashaninka grammar" as a model which indicates what kind of patterns it can or cannot model.
 So far we have played loose with the rules which determine the patterns that our current model should and should not generate, because of the initial state of our text corpus and the wide variety of writing systems these texts were written with.
 
@@ -84,7 +85,6 @@ $ echo "ashaninka" | lookup asheninka.bin -flags cnKv29TT
 ashaninka	[a-][NPers][1PL.poss+][--][=shani][VRoot][=to.be.of.the.same.group][--][-nka][NS][+NMZ.QLTY]nka
 ashaninka	[a-][NPers][1PL.poss+][--][=shani+m.][NRoot][=anteater (ES: oso.hormiguero; sci.nm.: myrmecophaga.tridactyla)][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
 ashaninka	[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]
-
 
 LOOKUP STATISTICS (success with different strategies):
 strategy 0:	1 times 	(100.00 %)
@@ -155,6 +155,7 @@ $ echo "mapi" | ../foma/foma/flookup asheninka.bin
 
 ```
 Note: 
+=====
 * Foma compilations have some issues.
 * XFST: http://www.stanford.edu/~laurik/.book2software/
 * Further improvements need to be made, concerning new vocabulary.
