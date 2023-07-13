@@ -3,6 +3,8 @@
 # ----------------------------------
 
 # 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# The DUBITATIVE suffix indicates that the action is performed only partially, not quite up to the standards. 
+# It expresses the speaker's evaluative stance of the action's progress. 
 
 define N=S=DUB [
   "[--][-ma][+DUB]" : [{ma}] 
