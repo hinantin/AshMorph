@@ -2,6 +2,9 @@
 
 # 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
 # 0: DUB
+# The ma suffix is a Dubitative suffix which expresses the speaker's evaluative stance of the action's progress. 
+# It is commonly used in both realis and irrealis situations, and it expresses that the action is being 
+# performed without proper care, flippantly, or in a perfunctory way.
 
 define V=S=DUB [
   "[--][=ma][MODAL][+DUB][=maybe; sb.might.do.sth.]" : [{ma}] ! +evidential 
