@@ -6058,7 +6058,9 @@ define NRootPRQin [
 !| "[=ovamashi+~{N:/'grape':ova/}{CL/'vast.space.with.vegetation':mashi/}][NRoot][=vineyard (ES: viña)]" : {ovamashi} ! @section:noun@ 
 # ------------------------------------------------------------
 ! 
-| "[=shevatarotsi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez; sci.nm.: pimelodidae, sorubim.lima)]" : {shevatarotsi} 
+| "[=shevatarotsi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez, bagre.sp.; sci.nm.: pimelodidae, sorubim.lima)]" : {shevatarotsi} 
+| "[=shevatarontsi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez, bagre.sp.; sci.nm.: pimelodidae, sorubim.lima)]" : {shevatarontsi} 
+| "[=sevatarontsi+gndr@m.+sem@fish][NRoot][=fish.sp. (ES: sp.de.pez, bagre.sp.; sci.nm.: pimelodidae, sorubim.lima)]" : {sevatarontsi} 
 # ------------------------------------------------------------
 ! 
 # oshi intsipa / o- =shi =intsipa / 3n.m.poss- =leaf =ice-cream.bean.tree ES: 'la.hoja.del.pacae' 
