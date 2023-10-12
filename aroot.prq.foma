@@ -147,4 +147,10 @@ define ARootPRQin [
 | "[=kachori][NRoot][=sour, acid (ES: agrio, ácido)]" : {kachori}
 ! katsijare /NMZ> katsihare 
 | "[=katsihare][NRoot][=sour (ES: agrio)]" : {katsihare}
+! 
+! -ri is acting as the reversive suffix 
+| "[=katsirinkari][NRoot][=hot, heat (ES: caliente, calor)]" : {katsirinkari} 
+| "[=katsirinkaiteri][NRoot][=hot (ES: caliente)]" : {katsirinkaiteri} 
+! 
+| "[=katsinkaiteri][NRoot][=cold (ES: frío)]" : {katsinkaiteri} 
 ];

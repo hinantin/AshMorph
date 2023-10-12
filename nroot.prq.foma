@@ -1570,7 +1570,6 @@ define NRootPRQin [
 | "[=katsitonari+gndr@n.m.+sem@plant][NRoot][=ginger.sp., herb.sp. (ES: quión, kión, jengibre; sci.nm.: zingiber.officinale)]" : {katsitonari}
 # ---------------------------------------------------------------------
 ! 
-| "[=katsirinkari][NRoot][=hot, heat (ES: caliente, calor)]" : {katsirinkari} 
 | "[=katsirinkaite][NRoot][=heat (ES: calor)]" : {katsirinkaite} 
 | "[=katsirinkaiteri][NRoot][=sun (ES: sol)]" : {katsirinkaiteri} 
 # ---------------------------------------------------------------------
@@ -1989,6 +1988,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------------
 ! 
 | "[=asoriri+sem@color.][NRoot][=blue (ES: azul)]" : {asoriri}
+| "[=asoori+sem@color.][NRoot][=blue (ES: azul)]" : {asoori}
 | "[=kamachonkari+sem@color.][NRoot][=blue (ES: azul)]" : {kamachonkari}
 # ---------------------------------------------------------------------
 ! 
