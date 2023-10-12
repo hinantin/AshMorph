@@ -138,5 +138,13 @@ define ARootPRQin [
 | "[=pihonkari+gndr@n./m.+poss@nposs.adj.][NRoot][=lightweight (ES: liviano)]" : {pihonkari}
 | "[=piyonkari+gndr@n./m.+poss@nposs.adj.][NRoot][=lightweight (ES: liviano)]" : {piyonkari}
 ! 
-| "[=poshini][NRoot][=tasty, delicious (ES: sabroso)]" : {poshini} ! N@->V::[=to.be.tasty] 
+| "[=poshini][NRoot][=tasty, delicious (ES: sabroso, rico)]" : {poshini} ! N@->V::[=to.be.tasty] 
+! 
+! katyojari /NMZ> katyohari 
+| "[=katyohari][NRoot][=salty (ES: salado)]" : {katyohari}
+# ---------------------------------------------------------------------
+! 
+| "[=kachori][NRoot][=sour, acid (ES: agrio, ácido)]" : {kachori}
+! katsijare /NMZ> katsihare 
+| "[=katsihare][NRoot][=sour (ES: agrio)]" : {katsihare}
 ];
