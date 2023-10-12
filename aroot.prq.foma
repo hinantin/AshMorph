@@ -73,11 +73,11 @@ define ARootPRQin [
 | "[=kapichoki][AdvRoot][=a.little (ES: poco)]" : {kapichoki}
 ! ------------------------------------------------------------------
 ! 
-| "[=kenkivari+gndr@m.][NRoot][=old]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
-| "[=kenkevari+gndr@m.][NRoot][=old]" : {kenkevari} ! N@->V
-| "[=kinkivari+gndr@m.][NRoot][=old]" : {kinkivari} ! N@->V
-| "[=kenkivaro+gndr@n.m.][NRoot][=old (ES: chatarra)]" : {kenkivaro} ! N@->V
-| "[=kinkivaro+gndr@n.m.][NRoot][=old]" : {kinkivaro} ! N@->V
+| "[=kenkivari+gndr@m.][NRoot][=old (ES: viejo)]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
+| "[=kenkevari+gndr@m.][NRoot][=old (ES: viejo)]" : {kenkevari} ! N@->V
+| "[=kinkivari+gndr@m.][NRoot][=old (ES: viejo)]" : {kinkivari} ! N@->V
+| "[=kenkivaro+gndr@n.m.][NRoot][=old (ES: chatarra, vieja)]" : {kenkivaro} ! N@->V
+| "[=kinkivaro+gndr@n.m.][NRoot][=old (ES: vieja)]" : {kinkivaro} ! N@->V
 ! 
 | "[=kiteri][NRoot][=clean (ES: limpio; PT: limpo)]" : {kiteri}
 | "[=kitiri][NRoot][=clean (ES: limpio; PT: limpo)]" : {kitiri}
