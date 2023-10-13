@@ -60,6 +60,7 @@ define NegPRQin [
 | "[=kari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué.no?,, ¿no.es?)]" : {kari}
 # negative polarity 
 | "[=kaari][Neg][=NEG.P]" : {kaari}
+| "[=kaarina][Neg][=NEG.P]" : {kaarina}
 ! 
 | "[=taan][Neg][=NEG.W]" : {taan}
 | "[=tan][Neg][=NEG.W (ES: no.sé)]" : {tan}
