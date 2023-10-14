@@ -547,6 +547,9 @@ define NRootPRQin [
 | "[=charo+gndr@m.+sem@insect][NRoot][=cricket.sp. (ES: grillo; sci.nm.: familia.gryllotalpidae)]" : {charo}
 # ------------------------------------------------------------------
 ! 
+| "[=charo+sem@worm-shaped][NRoot][=worm.sp. (ES: especie.de.gusano)]" : {charo}
+# ------------------------------------------------------
+! 
 | "[=chaari+gndr@m.+sem@bird][NRoot][=violaceous.jay (sci.nm.: cyanocorax.violaceus)]" : {chaari}
 # ------------------------------------------------------------------
 ! 
@@ -1642,7 +1645,7 @@ define NRootPRQin [
 | "[=kymaroatzi+gndr@n.m.+sem@bird][NRoot][=red-billed.scythebill (sci.nm.: campylorhampus.trochilirostris)]" : {kymaroatzi}
 # ------------------------------------------------------
 ! 
-| "[=kota+sem@worm-shaped][NRoot][=worm.sp. (ES: especie.de.gusano)]" : {kota}
+| "[=kota+sem@worm-shaped][NRoot][=(edible).worm.sp. (ES: especie.de.gusano.comestible)]" : {kota}
 # ------------------------------------------------------
 ! 
 | "[=ichomeki+sem@animal.b.p.][NRoot][=bird.rump (ES: rabadilla.de.las.aves)]" : {ichomeki}
@@ -6259,6 +6262,7 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=shinti][NRoot][=topa-like.tree.sp. (ES: árbol.parecido.a.la.topa)]" : {shinti} 
+| "[=shintikeni+sem@worm-shaped][NRoot][=worm.sp. (ES: especie.de.gusano)]" : {shintikeni}
 # ------------------------------------------------------------
 ! 
 | "[=shintsipaa+gndr@n.m.+poss@re.][NRoot][=raft, balsa]" : {shintsipaa}
