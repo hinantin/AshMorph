@@ -76,6 +76,7 @@ define PrnDemPRQin [
 ! tsiyo… ~ tsio… 
 | "[=tsioka+gndr@m.+loc@proximal][PrnDem][=DEM (ES: aquí.está)]" : {tsioka}
 | "[=tsiora+gndr@m.+loc@medial][PrnDem][=DEM (ES: hay, aquí.está)]" : {tsiora} ! DEM 
+| "[=tsionta+gndr@m.+loc@distal][PrnDem][=DEM (ES: allá.está)]" : {tsionta} 
 ! 
 # demonstrative adjectives, it refers to people  
 | "[=yoranki+~{DEM:yora}{CLAR:nki}+gndr@m.][PrnDem][=DEM.NOM: that (ES: ese, eso)]" : {yoranki} 
