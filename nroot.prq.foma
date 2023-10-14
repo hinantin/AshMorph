@@ -1503,7 +1503,7 @@ define NRootPRQin [
 | "[=imposhito+~{N:/'UNK':imposhi/}{CL:/'tree':to/}+gndr@n.m.+sem@fruit][NRoot][=wild.fruit.sp. (ES: fruta.silvestre)]" : {imposhito}
 # ------------------------------------------------------------
 ! 
-| "[=imposhito+sem@worm-shaped][NRoot][=edible.worm.sp. (ES: sp.de.gusano; PT: espécies.de.verme; IT: specie.di.worm)]" : {imposhito}
+| "[=imposhito+gndr@m.+sem@worm-shaped][NRoot][=edible.worm.sp. (ES: sp.de.gusano; PT: espécies.de.verme; IT: specie.di.worm)]" : {imposhito}
 # ---------------------------------------------------------------------
 ! 
 | "[=inpovaNtoteya/inpowãtoteya][NRoot:CPB][=tree.sp. (PT: mutamba, árvore.de.médio.porte; sci.nm.: guazuma.ulmifolia)]" : {inpowãtoteya}
@@ -1651,7 +1651,7 @@ define NRootPRQin [
 | "[=kymaroatzi+gndr@n.m.+sem@bird][NRoot][=red-billed.scythebill (sci.nm.: campylorhampus.trochilirostris)]" : {kymaroatzi}
 # ------------------------------------------------------
 ! 
-| "[=kota+sem@worm-shaped][NRoot][=(edible).worm.sp. (ES: especie.de.gusano.comestible)]" : {kota}
+| "[=kota+gndr@m.+sem@worm-shaped][NRoot][=(edible).worm.sp. (ES: especie.de.gusano.comestible)]" : {kota}
 # ------------------------------------------------------
 ! 
 | "[=ichomeki+sem@animal.b.p.][NRoot][=bird.rump (ES: rabadilla.de.las.aves)]" : {ichomeki}
@@ -5666,7 +5666,7 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=shiopa+gndr@m.+sem@worm-shaped][NRoot][=worm.sp. (ES: sp.de.gusano)]" : {shiopa}
-| "[=shiyopa+sem@worm-shaped][NRoot][=edible.worm.sp. (ES: sp.de.gusano; PT: espécies.de.verme; IT: specie.di.worm)]" : {shiyopa}
+| "[=shiyopa+gndr@m.+sem@worm-shaped][NRoot][=edible.worm.sp. (ES: sp.de.gusano; PT: espécies.de.verme; IT: specie.di.worm)]" : {shiyopa}
 # ----------------------------------------------------------------
 ! 
 | "[=shiopaniro+gndr@m.+sem@insect][NRoot][=butterfly.sp.with.question_mark-design.in.its.wings; larva.sp.]" : {shiopaniro}
@@ -6269,7 +6269,7 @@ define NRootPRQin [
 # ------------------------------------------------------------
 ! 
 | "[=shinti][NRoot][=topa-like.tree.sp. (ES: árbol.parecido.a.la.topa)]" : {shinti} 
-| "[=shintikeni+sem@worm-shaped][NRoot][=(edible).worm.sp. (ES: especie.de.gusano.comestible)]" : {shintikeni}
+| "[=shintikeni+gndr@m.+sem@worm-shaped][NRoot][=(edible).worm.sp. (ES: especie.de.gusano.comestible)]" : {shintikeni}
 # ------------------------------------------------------------
 ! 
 | "[=shintsipaa+gndr@n.m.+poss@re.][NRoot][=raft, balsa]" : {shintsipaa}
