@@ -813,6 +813,7 @@ define NRootPRQin [
 | "[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {chooki}
 | "[=choki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {choki}
 | "[=tsiyo+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {tsiyo}
+| "[=tsio+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {tsio}
 # ------------------------------------------------------------------
 ! 
 | "[=tyootyo+gndr@n.m.+poss@te:ti.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]" : {tyootyo}
@@ -7217,6 +7218,7 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------
 ! 
 | "[=tsiyontzi+gndr@m.+sem@bird][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiyontzi}
+| "[=tsiontsi+gndr@m.+sem@bird][NRoot][=bird.sp., small.woodpecker.sp.; wegde-billed.woodcreeper (sci.nm.: glyphorhynchus.spiurus)]" : {tsiontsi}
 # ------------------------------------------------------------------------------
 ! 
 | "[=tsiveta+gndr@m.+sem@fish][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]" : {tsiveta}
