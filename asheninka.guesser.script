@@ -384,7 +384,7 @@ TZEpenthesisRule8
       # yokame / =yoka+m.+proximal -me / =this -cnt.f 
       source prndem.prq.foma
         define PrnDemPRQ PrnDemPRQin;
-      define Demonstrative [ [PrnDemPRQ] ([N=S=PL|V=S=EXCL|N=S=CNTR|V=S=CNTF]) ];
+      define Demonstrative [ [PrnDemPRQ] ([N=S=PL|V=S=EXCL|N=S=CNTR|V=S=CNTF|N=S=SUPERL]) ];
 
       ##########################
       #                        #
