@@ -37,7 +37,7 @@
 define V=S=APPLREAS [
   "[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]" : "@EP"[{ant}]
 | "[--][-anta][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]" : "@EP"[{anta}]
-| "[--][-anant][Asp][+APPL.REAS][=RES]" : "@EP"[{anant}] ! the action is the result/justification of another action  
+| "[--][-anant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que)]" : "@EP"[{anant}] ! the action is the result/justification of another action  
 ];
                    
 define APPLREAS [ [EP V=S=APPLREAS]|[V=S=APPLREAS] ];
