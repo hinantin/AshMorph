@@ -61,7 +61,7 @@ There are particular cases where verbal roots with prefixes are reduplicated in 
 Normalization process 'NMZ'
 =====================
 
-In order to give this project a certain amount of robustness, we used a normalized version of the alphabet 
+In order to give this project a certain amount of robustness, we used a normalized version of the alphabet, which is based on the alphabet 
 developed by Elena Mihas to write every lexicon entry and all the affixes. 
 In addition to this, normalization rules have been implemented, this means that every letter in an input entry is mapped to
 its equivalent in the normalized alphabet before being fully analyzed. 
