@@ -3,6 +3,8 @@
 
 define N=S=EXCL [
   "[--][=ve][+EXCL][=exclaiming,announcing]" : {ve}
+# Allí estáwée 
+| "[--][=vee][+EXCL][=exclaiming,announcing]" : {vee}
 # kanirivi / =kaniri -vi / =yucca -excl / EN: 'manioc (announcing)'
 | "[--][=vi][+EXCL][=exclaiming,announcing]" : {vi}
 ];
