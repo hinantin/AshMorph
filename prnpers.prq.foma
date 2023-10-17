@@ -195,8 +195,13 @@ define PrnPersPRQin [
 | "[=irohatzi+pragm.func@RFLX.INTSF.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohatzi} ! irojatzi / irohatzi / =iroori -hatzi / =she -too / ES: 'esa.misma, lit.: ella.también'  
 ! irojati noshiyapithatantanacariri, / irohati noshiyapitsatantanakariri / =irohati no- =shiy -apitsa -t -ant -an -ak -a =ri =ri / ES: 'así.es.que.tuve.que.escaparme.de.él.' 
 | "[=irohati+pragm.func@RFLX.INTSF.+num@3SG+gndr@n.m.][PrnPers][=she.too/also; herself (ES: esa.misma)]" : {irohati} 
-# 
+# -------------------------------------------------------------------
+! 
+! ABSENTIAL  
 | "[=iro+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-ranki][TEMP]::[=she…who.is.absent.at.the.present.moment]" : {iroranki} 
-| "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=he…who.is.absent.at.the.present.moment]" : {iroranki} 
+| "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=he…who.is.absent.at.the.present.moment]" : {iriranki} 
+! 
+| "[=ri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=he…who.is.absent.at.the.present.moment]" : {iriranki} 
+| "[=ro+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-vanki][TEMP]::[=she…who.is.absent.at.the.present.moment]" : {irovanki} 
 ];
 
