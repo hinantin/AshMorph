@@ -149,6 +149,10 @@ define PrnDemPRQin [
 | "[=hiraka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí, acá)]" : {hiraka} ! ??? 
 # -------------------------------------------------------------------
 ! 
+| "[=rovaga+~{R.DEL:i){PRN:iro}{PROXIMAL:ra}{LOC.SUB:ga}+gndr@n.m.+loc@cataphoric][PrnDem][=CAT.DEM]" : {rovaga}
+| "[=riraga+~{R.DEL:i){PRN:iri}{PROXIMAL:ra}{LOC.SUB:ga}+gndr@m.+loc@cataphoric][PrnDem][=CAT.DEM]" : {riraga}
+# -------------------------------------------------------------------
+! 
 ! ABSENTIAL  
 | "[=iro+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-ranki][TEMP]::[=iroranki+gndr@n.m.+loc@absential][=she…who.is.absent.at.the.present.moment]" : {iroranki} 
 | "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=iriranki+gndr@m.+loc@absential][=he…who.is.absent.at.the.present.moment]" : {iriranki} 
