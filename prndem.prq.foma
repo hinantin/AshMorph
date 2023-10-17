@@ -150,10 +150,10 @@ define PrnDemPRQin [
 # -------------------------------------------------------------------
 ! 
 ! ABSENTIAL  
-| "[=iro+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-ranki][TEMP]::[=she…who.is.absent.at.the.present.moment]" : {iroranki} 
-| "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=he…who.is.absent.at.the.present.moment]" : {iriranki} 
+| "[=iro+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-ranki][TEMP]::[=iroranki+loc@absential][=she…who.is.absent.at.the.present.moment]" : {iroranki} 
+| "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=iriranki+loc@absential][=he…who.is.absent.at.the.present.moment]" : {iriranki} 
 ! 
-| "[=ri+~{R.DEL:i){PRN:iri}+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=he…who.is.absent.at.the.present.moment]" : {riranki} 
+| "[=ri+~{R.DEL:i){PRN:iri}+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=riranki+loc@absential][=he…who.is.absent.at.the.present.moment]" : {riranki} 
 | "[=ro+~{R.DEL:i){PRN:iro}+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-vanki][TEMP]::[=she…who.is.absent.at.the.present.moment]" : {rovanki} 
 ];
 
