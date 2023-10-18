@@ -56,7 +56,6 @@ define PrnDemPRQin [
 | "[=irora+gndr@n.m.+loc@medial.b.][PrnDem][=that, whachamacallit]" : {irora} ! DEM
 | "[=rova+~{R.DEL:i){DEM:i}{n.m.:ro}{LEN:oɾa→owa}{PROXIMAL:ra}+gndr@n.m.+loc@medial.b.][PrnDem][=FILLER (EN: um…, (pause)…, whatchamacallit…)]" : {rova}
 | "[=ironta+gndr@n.m.+loc@distal.b.][PrnDem][=that.(over.there)]" : {ironta} ! DEM 
-| "[=ironto+gndr@n.m.+loc@distal.unb.][PrnDem][=that]" : {ironto}
 ! 
 # demonstrative adjectives, it refers to objects  
 ! iyo… 
@@ -138,6 +137,7 @@ define PrnDemPRQin [
 | "[=heronta+gndr@n.m.+loc@distal][PrnDem][=(over).there (far; ES: allí.(está)), half.distant]" : {heronta}
 | "[=nironta+gndr@n.m.+loc@distal][PrnDem][= (ES: allí.está)]" : {nironta}
 | "[=hironto+gndr@n.m.+loc@distal.unb.][PrnDem][=(over).there (far.away), very.distant]" : {hironto}
+| "[=ironto+gndr@n.m.+loc@distal.unb.][PrnDem][=that]" : {ironto}
 # -------------------------------------------------
 ! 
 ! ainti 
