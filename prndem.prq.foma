@@ -45,6 +45,7 @@ define PrnDemPRQin [
 | "[=irika+gndr@m.+loc@proximal][PrnDem][=this (ES: este)]" : {irika}
 | "[=iirika+gndr@m.+loc@proximal][PrnDem][=this (ES: este)]" : {iirika}
 | "[=irira+gndr@m.+loc@medial][PrnDem][=~]" : {irira}
+| "[=rira+~{R.DEL:i){DEM:i){n.m.:ri}{PROXIMAL:ra}+gndr@m.+loc@medial][PrnDem][=~]" : {rira}
 | "[=irinta+gndr@m.+loc@distal][PrnDem][=~]" : {irinta}
 ! 
 | "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
@@ -149,15 +150,15 @@ define PrnDemPRQin [
 | "[=hiraka+loc@proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí, acá)]" : {hiraka} ! ??? 
 # -------------------------------------------------------------------
 ! 
-| "[=rovaga+~{R.DEL:i){PRN:iro}{PROXIMAL:ra}{LOC.SUB:ga}+gndr@n.m.+loc@cataphoric][PrnDem][=CAT.DEM]" : {rovaga}
-| "[=riraga+~{R.DEL:i){PRN:iri}{PROXIMAL:ra}{LOC.SUB:ga}+gndr@m.+loc@cataphoric][PrnDem][=CAT.DEM]" : {riraga}
+| "[=rovaga+~{R.DEL:i){DEM:i){m.:ro}{PROXIMAL:va}{LOC.SUB:ga}+gndr@n.m.+loc@cataphoric][PrnDem][=CAT.DEM]" : {rovaga}
+| "[=riraga+~{R.DEL:i){DEM:i){n.m.:ri}{PROXIMAL:ra}{LOC.SUB:ga}+gndr@m.+loc@cataphoric][PrnDem][=CAT.DEM]" : {riraga}
 # -------------------------------------------------------------------
 ! 
 ! ABSENTIAL  
 | "[=iro+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-ranki][TEMP]::[=iroranki+gndr@n.m.+loc@absential][=she…who.is.absent.at.the.present.moment]" : {iroranki} 
 | "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=iriranki+gndr@m.+loc@absential][=he…who.is.absent.at.the.present.moment]" : {iriranki} 
 ! 
-| "[=ri+~{R.DEL:i){PRN:iri}+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=riranki+gndr@m.+loc@absential][=he…who.is.absent.at.the.present.moment]" : {riranki} 
-| "[=ro+~{R.DEL:i){PRN:iro}+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-vanki][TEMP]::[=rovanki+gndr@n.m.+loc@absential][=she…who.is.absent.at.the.present.moment]" : {rovanki} 
+| "[=ri+~{R.DEL:i){DEM:i){m.:ri}+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=riranki+gndr@m.+loc@absential][=he…who.is.absent.at.the.present.moment]" : {riranki} 
+| "[=ro+~{R.DEL:i){DEM:i){n.m.:ro}+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-vanki][TEMP]::[=rovanki+gndr@n.m.+loc@absential][=she…who.is.absent.at.the.present.moment]" : {rovanki} 
 ];
 
