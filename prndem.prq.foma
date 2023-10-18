@@ -45,7 +45,7 @@ define PrnDemPRQin [
 | "[=irika+gndr@m.+loc@proximal][PrnDem][=this (ES: este)]" : {irika}
 | "[=iirika+gndr@m.+loc@proximal][PrnDem][=this (ES: este)]" : {iirika}
 | "[=irira+gndr@m.+loc@medial][PrnDem][=~]" : {irira}
-| "[=rira+~{R.DEL:i){DEM:i){m.:ri}{PROXIMAL:ra}+gndr@m.+loc@medial][PrnDem][=FILLER (EN: um…, (pause)…, whatchamacallit…)]" : {rira}
+| "[=rira+~{R.DEL:i){DEM:i}{m.:ri}{PROXIMAL:ra}+gndr@m.+loc@medial][PrnDem][=FILLER (EN: um…, (pause)…, whatchamacallit…)]" : {rira}
 | "[=irinta+gndr@m.+loc@distal][PrnDem][=~]" : {irinta}
 ! 
 | "[=iri+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ka+proximal][Adv][+DEM]" : {irika}
@@ -56,7 +56,7 @@ define PrnDemPRQin [
 | "[=iro+gndr@n.m.][PrnDem][=this]" : {iro}
 | "[=iroka+gndr@n.m.+loc@proximal.b.][PrnDem][=this (ES: esta)]" : {iroka} ! DEM
 | "[=irora+gndr@n.m.+loc@medial.b.][PrnDem][=that, whachamacallit]" : {irora} ! DEM
-| "[=rova+~{R.DEL:i){DEM:i){n.m.:ro}{PROXIMAL:ra}+gndr@n.m.+loc@medial.b.][PrnDem][=FILLER (EN: um…, (pause)…, whatchamacallit…)]" : {rova}
+| "[=rova+~{R.DEL:i){DEM:i}{LEN:^r→^v.}{n.m.:ro}{PROXIMAL:ra}+gndr@n.m.+loc@medial.b.][PrnDem][=FILLER (EN: um…, (pause)…, whatchamacallit…)]" : {rova}
 | "[=ironta+gndr@n.m.+loc@distal.b.][PrnDem][=that.(over.there)]" : {ironta} ! DEM 
 | "[=ironto+gndr@n.m.+loc@distal.unb.][PrnDem][=that]" : {ironto}
 ! 
