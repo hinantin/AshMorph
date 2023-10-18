@@ -258,11 +258,15 @@ define AdvRootPRQ=SET5 [
 | "[=intsomoina+loc.][AdvRoot][=inside (ES: adentro)]" : {intsomoina}
 | "[=intsompoina+loc.][AdvRoot][=inside (ES: adentro)]" : {intsompoina}
 ! 
+| "[=intatzikiro][AdvRoot][=other.side]" : {intatzikiro}
 | "[=intatzikero][AdvRoot][=other.side]" : {intatzikero}
 | "[=intatzikiroka+~{N:/'other.side':intatzikero/}{DEM:/'here':ka/}][AdvRoot][=this.side.of.the.river]" : {intatzikiroka}
 | "[=intatzikironta][AdvRoot][=the.other.side.of.the.river]" : {intatzikironta}
 | "[=intatzikironta][NRoot][=this.side.of.the.river, the.far.bank.of.the.river]" : {intatzikironta}
 | "[=intatzikeronta][NRoot][=outside (ES: afuera)]" : {intatzikeronta}
+! 
+| "[=inchatsi][AdvRoot][= (ES: más.allá)]" : {inchatsi}
+| "[=inchatsiininta][AdvRoot][= (ES: más.allacito)]" : {inchatsiininta}
 ];
 
 # ---------------------------------------------------------------- 

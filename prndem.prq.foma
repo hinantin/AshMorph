@@ -5,7 +5,6 @@
 # bounded locations (b.) are "comprehensible to the eye in a single glance"
 # unbounded locations (unb.) are those "whose entire extent is not comprehensible in a single glance"
 
-# The CLAR: -nki suffix is used "to define or clarify that which is spoken of"; it is possible that it is a shortened version of the suffix -ranki 
 # +class@attn.prn.: attention pronoun (neri~niri, nero~niro, heri~hiri, hero~hiro)
 
 # LABEL ORDER : 
@@ -27,7 +26,6 @@ define PrnDemPRQin [
 ! ara ~ hara 
 | "[=ara+loc@medial.b.][PrnDem][=DEM.ADV.: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {ara}
 | "[=hara+loc@medial.b.][PrnDem][=DEM.ADV.: not.here, there (ES: allí.(está)), not.in.the.speaker's.interactional.space]" : {hara}
-| "[=haranki+~{DEM.ADV.:hara}{CLAR:nki}][PrnDem][= (ES: por.allá)]" : {haranki}
 !  
 ! anta ~ hanta 
 | "[=anta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded)]" : {anta}
@@ -161,5 +159,8 @@ define PrnDemPRQin [
 ! 
 | "[=ri+~{R.DEL:i){DEM:i){m.:ri}+pragm.func@cont.d.TOP.+num@3SG+gndr@m.][PrnPers][=he (ES: él)][--][-ranki][TEMP]::[=riranki+gndr@m.+loc@absential][=he…who.is.absent.at.the.present.moment]" : {riranki} 
 | "[=ro+~{R.DEL:i){DEM:i){n.m.:ro}+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)][--][-vanki][TEMP]::[=rovanki+gndr@n.m.+loc@absential][=she…who.is.absent.at.the.present.moment]" : {rovanki} 
+! 
+# The CLAR: -nki suffix is used "to define or clarify that which is spoken of"; it is possible that it is a shortened version of the suffix -ranki 
+| "[=haranki+~{DEM.ADV.:hara}{CLAR:nki}][PrnDem][= (ES: por.allá)]" : {haranki}
 ];
 
