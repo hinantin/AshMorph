@@ -156,17 +156,18 @@ define NounToVerbPRQin [
 | "[=antearo+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]::[=to.reach.a.climax][^VBZ]" : {antearo} ! N@->V::[=to.reach.a.climax] 
 | "[=antyaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ]" : {antyaro} ! N@->V
 | "[=intsikero+poss@nposs.adj.][NRoot][=slow (ES: despacio)][^VBZ]" : {intsikero} ! N@->V
-| "[=kenkivari+gndr@m.][NRoot][=old]::[=to.get.old (male.ego; ES: envejecer)][^VBZ]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
-| "[=kenkevari+gndr@m.][NRoot][=old][^VBZ]" : {kenkevari} ! N@->V
-| "[=kinkivari+gndr@m.][NRoot][=old][^VBZ]" : {kinkivari} ! N@->V
-| "[=kenkivaro+gndr@n.m.][NRoot][=old (ES: chatarra)][^VBZ]" : {kenkivaro} ! N@->V
-| "[=kinkivaro+gndr@n.m.][NRoot][=old][^VBZ]" : {kinkivaro} ! N@->V
+| "[=kenkivari+gndr@m.][NRoot][=old (ES: viejo)]::[=to.get.old (male.ego; ES: envejecer)][^VBZ]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
+| "[=kenkevari+gndr@m.][NRoot][=old (ES: viejo)][^VBZ]" : {kenkevari} ! N@->V
+| "[=kinkivari+gndr@m.][NRoot][=old (ES: viejo)][^VBZ]" : {kinkivari} ! N@->V
+| "[=kenkivaro+gndr@n.m.][NRoot][=old (ES: chatarra, vieja)][^VBZ]" : {kenkivaro} ! N@->V
+| "[=kinkivaro+gndr@n.m.][NRoot][=old (ES: vieja)][^VBZ]" : {kinkivaro} ! N@->V
 | "[=pashini][NRoot][=other, another (ES: otro); few]::[=to.change (ES: cambiar)][^VBZ]" : {pashini} ! N@->V::[=to.change (ES: cambiar)] 
 | "[=pisari+gndr@m.][NRoot][=old][^VBZ]" : {pisari} ! N@->V
 | "[=pishari+gndr@m.][NRoot][=old][^VBZ]" : {pishari} ! N@->V
 | "[=pisaro+gndr@n.m.][NRoot][=old][^VBZ]" : {pisaro} ! N@->V	
 | "[=pisharo+gndr@n.m.][NRoot][=old][^VBZ]" : {pisharo} ! N@->V
 | "[=shampitsi][NRoot][=miser (ES: avaro, mezquino)][^VBZ]" : {shampitsi} ! N@->V
+| "[=poshini][NRoot][=tasty, delicious (ES: sabroso, rico)]::[=to.be.tasty][^VBZ]" : {poshini} ! N@->V::[=to.be.tasty] 
 | "[=tapo+s.redup.word@2X.][Ideo:PRQ][=physical.appearance.of.rounded.and.curved.objects; round.object][^VBZ]" : {tapo} ! N@->V @CMP 
 | "[=pitsopitso][Ideo:PRQ][=woman.walking.with.gyrating.hips]::[= (ES: girar); to.dance (ES: bailar)][^VBZ]" : {pitsopitso} ! N@->V::[= (ES: girar); to.dance (ES: bailar)]
 | "[=haran][Ideo:PRQ][=sound/action.made.by.a.falling/breaking.branch/tree; thud!.(of.a.fallen.tree)][^VBZ]" : {haran} ! N@->V

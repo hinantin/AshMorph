@@ -1,7 +1,3 @@
-# A verbal classifier is a form that is characterized by an obscure semantic origin or reduced phonological substance and that is used to modify a verbal phrase, 
-# it refers anaphorically to a noun mentioned in previous discourse, or agree with a noun head when the referent's physical properties are specified. 
-# They cannot be used predicatively or occur on their own in discourse.
-# Need more example sentences.
 # -----------------
 # VERBAL CLASSIFIERS (VERB.CL) 
 # -----------------
@@ -47,4 +43,5 @@ define V=S=CL [
 | "[--][-teroina][+VERB.CL:spherical,solid][=spherical, solid (ES: forma.de.bola)]" : "@EP"{teroina} ! @CL 
 | "[--][-ampoiri][+VERB.CL:footprint][=footprint,tracks]" : "@EP"{ampoiri} ! @CL 
 | "[--][-satzi+gndr@m.][NS][+VERB.CL:provenance][=human.provenance; inhabitant.of.swh., one.who.dwells.swh.]" : "@EP"{satzi} ! @CL  
+| "[--][-hontookiro][NS][+VERB.CL:pale][=pale.person,yellow.lemon]" : "@EP"{hontookiro} ! @CL   
 ];

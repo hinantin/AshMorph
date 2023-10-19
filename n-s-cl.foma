@@ -620,7 +620,7 @@ define N=S=CL=DEMONYM [
 ! 
 | "[--][-sontokiro][NS][+CL:pale][=pale.person,yellow.lemon]" : {sontokiro} 
 | "[--][-hontokiro][NS][+CL:pale][=pale.person,yellow.lemon]" : {hontokiro} 
-| "[--][-hontookiro][NS][+CL:pale][=pale.person,yellow.lemon]" : {hontookiro} 
+| "[--][-hontookiro][NS][+CL:pale][=pale.person,yellow.lemon]" : {hontookiro} ! @CL   
 ]; 
 
 define N=S=CL [ [N=S=CL=SET1]| [N=S=CL=DEMONYM] ]; 
