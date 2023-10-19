@@ -54,7 +54,7 @@ define PrnDemPRQin [
 | "[=iro+gndr@n.m.][PrnDem][=this]" : {iro}
 | "[=iroka+gndr@n.m.+loc@proximal.b.][PrnDem][=this (ES: esta)]" : {iroka} ! DEM
 | "[=irora+gndr@n.m.+loc@medial.b.][PrnDem][=that, whachamacallit]" : {irora} ! DEM
-| "[=irova+gndr@n.m.+loc@medial.b.][PrnDem][=that, whachamacallit]" : {irova} ! DEM
+| "[=irova+gndr@n.m.+loc@medial.b.][PrnDem][=that, whachamacallit…]" : {irova} ! DEM
 | "[=rova+~{R.DEL:i){DEM:i}{n.m.:ro}{LEN:oɾa→owa}{PROXIMAL:ra}+gndr@n.m.+loc@medial.b.][PrnDem][=FILLER (EN: um…, (pause)…, whatchamacallit…)]" : {rova}
 | "[=ironta+gndr@n.m.+loc@distal.b.][PrnDem][=that.(over.there)]" : {ironta} ! DEM 
 ! 
