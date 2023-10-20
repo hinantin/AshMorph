@@ -719,6 +719,10 @@ define VRootPRQin [
 | "[=charink+INF@aantsi.][VRoot][=to.sign (ES: firmar)]" : {charink}
 # ---------------------------------------------------------------------- 
 ! 
+| "[=cheenka+INF@/EP:t/VC.][VRoot][=to.be.black]" : {cheenka}
+| "[=chenka+INF@/EP:t/VC.][VRoot][=to.be.black]" : {chenka}
+# ---------------------------------------------------------------------- 
+! 
 | "[=cheraako+INF@/EP:t/aantsi.][VRoot][=to.shout (ES: gritar); to.speak.with.anger (ES: hablar.con.enojo)]" : {cheraako}
 # -----------------------------------------------------------------
 ! 
@@ -1255,6 +1259,7 @@ define VRootPRQin [
 # ----------------------------------------------------------
 ! 
 | "[=kipatsi][VRoot][=to.get.soiled (ES: estar.sucio)]" : {kipatsi}
+| "[=kepatsi][VRoot][=to.get.soiled (ES: estar.sucio)]" : {kepatsi}
 # ----------------------------------------------------------
 ! 
 | "[=kira][VRoot][=to.be.red]" : {kira}
