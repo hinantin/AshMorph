@@ -103,6 +103,8 @@ define ARootPRQin [
 | "[=pasini][NRoot][=other, another (ES: otro)]" : {pasini}
 !| "[=pashini_atiri][NRoot][=foreigner (ES: gente.foránea)]" : {pashini_atiri} ! @section:noun@ 
 ! 
+| "[=petyani][NRoot][=table-like]" : {petyani} ! @VCMP 
+! 
 | "[=pisari+gndr@m.][NRoot][=old]" : {pisari} ! N@->V
 | "[=pishari+gndr@m.][NRoot][=old]" : {pishari} ! N@->V
 | "[=pisaro+gndr@n.m.][NRoot][=old]" : {pisaro} ! N@->V	
