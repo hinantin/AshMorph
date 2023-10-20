@@ -109,6 +109,8 @@ define N=S=CL=SET1 [
 | "[--][-pari][+CL:root][=root]" : {pari} 
 | "[--][-paere][+CL:root][=root]" : {paere} 
 
+| "[--][-ponchaki][+CL:roots][=roots]" : {ponchaki} 
+
 # kirikota / =kiri -kota / =chonta-tree -cl:piece / EN: 'piece.of.chonta'; ES: 'pedazo.de.chonta'  
 | "[--][-kota][+CL:piece][=piece; split.plank-like; small,flat,thin]" : {kota} 
        ! .. 

@@ -55,7 +55,7 @@
       define THReplacement [ {ts} -> {th}, {ts} -> {ts} || _ [a|e|i|o|á|é|í|ó] ];
 
       define NYReplacement [ {ny} (->) {ñ} || _ Vowels ];
-      define VowelsWithAccent [ {a} (->) {á}, {a} (->) {à}, {e} (->) {é}, {e} (->) {è}, {i} (->) {í},{o} (->) {ó}, {u} (->) {ú}];
+      define VowelsWithAccent [ {a} (->) {á}, {a} (->) {à}, {e} (->) {é}, {e} (->) {è}, {i} (->) {í},{o} (->) {ó},{o} (->) {ò}, {u} (->) {ú}];
 
       define UReplacement1 [ {o} (->) {u} || [Cons] _ [Cons] ]; # ayumpari, kubantsi
       define UReplacement2 [ {o} (->) {u} || [Cons] _ [a|e] ]; # kuakitzi, wuempo , kuaritotzi 

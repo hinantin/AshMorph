@@ -36,6 +36,7 @@ define V=S=LEN=noun [
 | "[--][=mironta][IncNRoot][=flat (ES: objeto.plano-y-chato)]" : {mironta} ! @VCMP 
 | "[--][=meronta][IncNRoot][=flat (ES: objeto.plano-y-chato)]" : {meronta} ! @VCMP 
 | "[--][=mitziki][IncNRoot][=humpback.person (ES: persona.jorobada)]" : {mitziki} ! @VCMP 
+| "[--][=moityo+gndr@n.m.+inal@n/tsi.][IncNRoot][=navel (ES: ombligo); umbilical.cord (ES: cordón.umbilical)]" : {moityo} ! @VCMP 
 | "[--][=morinte][IncNRoot][=oval-shaped.convexity; a.hanging.nest (ES: nido.colgante)]" : {morinte} ! @VCMP 
 | "[--][=moro+gndr@n.m.+inal@n/tsi.][IncNRoot][=hole (ES: hueco)]" : {moro} ! N@->V @CMP @VCMP 
 | "[--][=nehi+inal@tsi.+sem@b.p.][IncNRoot][=chest (ES: pecho)]" : {nehi} ! @VCMP 
