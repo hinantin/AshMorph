@@ -1315,7 +1315,7 @@ define VRootPRQin [
 # ----------------------------------------------------------
 ! 
 | "[=kit+INF@aantsi.][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(líquido/comida))]" : {kit}
-| "[=yii t][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yiit} ! to be checked
+| "[=yiit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yiit} ! to be checked
 | "[=yet][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))]" : {yet} 
 # ----------------------------------------------------------
 ! 
