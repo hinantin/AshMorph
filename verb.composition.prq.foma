@@ -18,6 +18,7 @@ define V=S=noun [
 | "[--][=tseempeki][IncNRoot][=body; outer.frame; skeleton.(like)]" : "@EP"{tseempeki} ! @VCMP @CMP 
 | "[--][=tsova+gndr@n.m.+inal@tsi.][IncNRoot][=bird's.beak (ES: pico.de.ave),, (ES: trompa); palm.tip (ES: punta.de.palmera)]" : "@EP"{tsova} ! @CMP @VCMP  
 | "[--][=tsovaki][IncNRoot][=thin-and-elongated (ES: delgado-y-alargado); snout (ES: hocico)]" : "@EP"{tsovaki} ! @VCMP 
+| "[--][=itzi+gndr@n.m.+inal@ntsi.+sem@b.p.][IncNRoot][=foot (ES: pie)]" : "@EP"{itzi} ! @VCMP 
 | "[--][=kamari+gndr@m.+poss@te.][IncNRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]" : "@EP"{kamari} ! @VCMP N@->V::[=to.be.an.evil.spirit]
 | "[--][=kameetsa][IncNRoot][=well (ES: bien)]" : "@EP"{kameetsa} ! @VCMP 
 | "[--][=kametsa][IncNRoot][=well (ES: bien), good]" : "@EP"{kametsa} ! @VCMP 
