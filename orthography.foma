@@ -75,6 +75,8 @@
       define TSYOnset [ {tsiy} -> {tsy}, {tsiy} -> {tsiy} || _ [a|á] ]; ! tsyairi 'paucar sp.' -> tsiyairi 
       define NYOnset [ {niy} -> {ny}, {niy} -> {niy} || _ [a|á] ]; ! kanyari 'green' -> kaniyari 
       define KYOnset [ {kiy} -> {ky}, {kiy} -> {kiy} || _ [a|á] ]; ! chochokyari -> chochokiyari 
+	  define VYOnset1 [ {vi} -> {vy} || _ [a|á] ]; ! áawianèro -> áawyanèro 
+	  define VYOnset2 [ {wi} -> {wy} || _ [a|á] ]; 
 
       # ------------------------------------------
       # Seen in Ashanĩka do Rio Amônia
@@ -135,7 +137,7 @@
 .o. NYTildeReplacement1 .o. NYTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 .o. UReplacement3 .o. UReplacement4  
 .o. NPReplacement .o. RYReplacement .o. TSYReplacement 
-.o. TYOnset1 .o. TYOnset2 .o. PYOnset .o. KYOnset 
+.o. TYOnset1 .o. TYOnset2 .o. PYOnset .o. KYOnset .o. VYOnset1 .o. VYOnset2 
 ]; 
 
 
