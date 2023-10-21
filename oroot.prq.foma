@@ -425,7 +425,7 @@ define ConnRootPRQ01in [
 # ------------------------------------------------------------------
 ! 
 | "[=ovakera][ConnRoot][=CONN (EN: when)]" : {ovakera}
-| "[=ovakira][ConnRoot][=CONN (EN: when)]" : {ovakira}
+| "[=ovakira][ConnRoot][=CONN (EN: when)]" : {ovakira} ! N@->V::[=to.be.new] 
 | "[=ovakera][ConnRoot][=CONN (EN: when)][--][=kia][MODAL][+EMPH]" : {ovakerakia}
 | "[=ovakira][ConnRoot][=CONN (EN: when)][--][-ini][AS][+ADV]::[=recently]" : {ovakiraini}
 | "[=ovakera][ConnRoot][=CONN (EN: when)][--][-ini][AS][+ADV]::[=recently]" : {ovakeraini}

@@ -152,6 +152,9 @@ TZEpenthesisRule8
       define KLenitionRule5 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{o}] _ [{i}] ]; ! oitsoki -> o=kitsoki 
       define KLenitionRule6 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{a}] _ [{i}] ]; ! aitsoki -> a=kitsoki 
 
+      define KLenitionRule7 [ "@PHONPROC@"k (->) "@PHONPROC@" || [{y}] _ [{a}] ]; 
+                                                                            # ykatsarekitso (in our lexicon) -> y@PHONPROC@katsarekitso  -> y@PHONPROC@atsarekitso -> yatsarekitso 
+
       define Lenition [ PWLenitionRule1 .o. PWLenitionRule2 .o. PWLenitionRule3 .o. PWLenitionRule4 
  .o. PYLenitionRule1 
  .o. PLenitionRule1 .o.  PLenitionRule2  
@@ -161,6 +164,7 @@ TZEpenthesisRule8
  .o. KLenitionRule4 
  .o. KLenitionRule5 
  .o. KLenitionRule6 
+ .o. KLenitionRule7 
 ];
 
       #########################################
