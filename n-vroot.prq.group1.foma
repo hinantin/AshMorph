@@ -67,6 +67,7 @@ define NounToVerbPRQin [
 | "[=matsi+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[VIRVRoot+INF@/EP:t/aantsi.][=to.be.a.witch][^VBZ]" : {matsi} ! @VCMP N@->V::[VIRVRoot+INF@/EP:t/aantsi.][=to.be.a.witch] 
 | "[=matzi+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[=to.be.a.witch][^VBZ]" : {matzi} ! N@->V::[=to.be.a.witch]  
 | "[=mati+gndr@m.][NRoot][=(human).witch (ES: brujo); sorcerer]::[=to.be.a.witch; to.practice.witchcraft.on.sb. (ES: brujear)][^VBZ]" : {mati} ! N@->V::[=to.be.a.witch; to.practice.witchcraft.on.sb. (ES: brujear)]  
+| "[=mahonti+gndr@m.][NRoot][=mute, fool (ES: mudo)]::[=to.be.dumb][^VBZ]" : {mahonti} ! N@->V::[=to.be.dumb]  
 | "[=mavoshi+gndr@n.m.+inal@ntsi.][NRoot][=nest; grassy.nest]::[=to.build/construct.a.nest (ES: construir.nido)][^VBZ]" : {mavoshi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=maashi+gndr@n.m.+inal@ntsi.][NRoot][=nest]::[=to.build/construct.a.nest (ES: construir.nido)][^VBZ]" : {maashi} ! N@->V::[=to.build/construct.a.nest (ES: construir.nido)]
 | "[=menkoshi+gndr@n.m.+inal@n/tsi.][NRoot][=bird.nest (ES: nido.de.pájaros)][^VBZ]" : {menkoshi} ! N@->V
@@ -156,6 +157,7 @@ define NounToVerbPRQin [
 | "[=antearo+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]::[=to.reach.a.climax][^VBZ]" : {antearo} ! N@->V::[=to.reach.a.climax] 
 | "[=antyaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ]" : {antyaro} ! N@->V
 | "[=intsikero+poss@nposs.adj.][NRoot][=slow (ES: despacio)][^VBZ]" : {intsikero} ! N@->V
+| "[=eentsikiro][NRoot][=slow (ES: despacio)][^VBZ]" : {eentsikiro} ! N@->V
 | "[=kenkivari+gndr@m.][NRoot][=old (ES: viejo)]::[=to.get.old (male.ego; ES: envejecer)][^VBZ]" : {kenkivari} ! N@->V::[=to.get.old (male.ego; ES: envejecer)]
 | "[=kenkevari+gndr@m.][NRoot][=old (ES: viejo)][^VBZ]" : {kenkevari} ! N@->V
 | "[=kinkivari+gndr@m.][NRoot][=old (ES: viejo)][^VBZ]" : {kinkivari} ! N@->V

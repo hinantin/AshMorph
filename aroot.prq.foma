@@ -4,6 +4,7 @@
 # Unlike nouns adjectives cannot be possessed.
 # Consider adding an example 
 
+
 define ARootPRQin [
 # -----------------------------------------------
 # big / grande 
@@ -27,6 +28,7 @@ define ARootPRQin [
 | "[=hintari+poss@nposs.adj.][NRoot][= (ES: fino,, delgado)]" : {hintari}
 ! 
 | "[=intsikero+poss@nposs.adj.][NRoot][=slow (ES: despacio)]" : {intsikero} ! N@->V
+| "[=eentsikiro][NRoot][=slow (ES: despacio)]" : {eentsikiro} ! N@->V
 # -----------------------------------------------
 # small / pequeño 
 # -----------------------------------------------
@@ -145,6 +147,9 @@ define ARootPRQin [
 ! 
 ! katyojari /NMZ> katyohari 
 | "[=katyohari][NRoot][=salty (ES: salado)]" : {katyohari}
+! 
+| "[=iyoneenta][NRoot][=less (ES: menos)]" : {iyoneenta}
+| "[=iyonenta][NRoot][=less (ES: menos)]" : {iyonenta}
 # ---------------------------------------------------------------------
 ! 
 | "[=kachori][NRoot][=sour, acid (ES: agrio, ácido)]" : {kachori}
