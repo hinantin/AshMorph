@@ -113,6 +113,9 @@ define ARootPRQin [
 | "[=pisaro+gndr@n.m.][NRoot][=old]" : {pisaro} ! N@->V	
 | "[=pisharo+gndr@n.m.][NRoot][=old]" : {pisharo} ! N@->V
 ! 
+| "[=mantsiyari+gndr@m.][NRoot][=ill]" : {mantsiyari} 
+| "[=mantsiyavo+gndr@n.m.][NRoot][=ill]" : {mantsiyavo} 
+! 
 | "[=pochari+poss@te.+mrph.phon@LEN:^p→^v.][NRoot][=sweet (ES: dulce)]" : {pochari} ! poss. suffix to be checked! 
 | "[=pochakiri][NRoot][=sweet (ES: dulce)]" : {pochakiri}
 | "[=pochaki][NRoot][=sweet (ES: dulce)]" : {pochaki}
