@@ -70,6 +70,7 @@
       # onset before vowel a 
       define TYOnset1 [ {tey} -> {ty}, {tey} -> {tey} || _ [a|á] ]; ! tyaaki 'flower' -> teyaaki 
       define TYOnset2 [ {tiy} -> {ty}, {tiy} -> {tiy} || _ [a|á] ]; ! tyaaki 'flower' -> tiyaaki 
+	  define TYOnset3 [ {ti} -> {ty} || {n} _ [a|á] ]; ! ròmahontiáantakariri -> ròmahontyáantakariri
       define PYOnset [ {piy} -> {py}, {piy} -> {piy} || _ [a|á] ]; ! pyari 'masato [manioc beer]' -> piyari 
       define SYOnset [ {siy} -> {sy}, {siy} -> {siy} || _ [a|á] ]; ! syatatsi 'claw, fingernail' -> siyatatsi 
       define TSYOnset [ {tsiy} -> {tsy}, {tsiy} -> {tsiy} || _ [a|á] ]; ! tsyairi 'paucar sp.' -> tsiyairi 
@@ -137,7 +138,7 @@
 .o. NYTildeReplacement1 .o. NYTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 .o. UReplacement3 .o. UReplacement4  
 .o. NPReplacement .o. RYReplacement .o. TSYReplacement 
-.o. TYOnset1 .o. TYOnset2 .o. PYOnset .o. KYOnset .o. VYOnset1 .o. VYOnset2 
+.o. TYOnset1 .o. TYOnset2 .o. TYOnset3 .o. PYOnset .o. KYOnset .o. VYOnset1 .o. VYOnset2 
 ]; 
 
 
