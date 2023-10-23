@@ -19,8 +19,8 @@ define NRootESin [
 ! 
 | "[=hacienda/ashienta][NRoot:ES][=hacienda]" : {ashienta}
 ! 
-| "[=azul/azoriri+color][NRoot:ES][=blue]" : {azoriri} ! source:IIAP 
-| "[=azul/asori+color][NRoot:ES][=blue]" : {asori}
+| "[=azul/azoriri+sem@color][NRoot:ES][=blue]" : {azoriri} ! source:IIAP 
+| "[=azul/asori+sem@color][NRoot:ES][=blue]" : {asori}
 ! 
 | "[=burro/boro+NCMS000+poss@te.][NRoot:ES][=donkey]" : {boro}
 ! 
