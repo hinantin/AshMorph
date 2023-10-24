@@ -10,14 +10,14 @@
 define V=S=PRF [
 # -------------------------------------------
 # STATIVE:
-# ampitsataka / =ampitsa -t -ak -a / ES: 'está.arrugado' 
+# ampitsataka / =ampitsa -t -ak -a / ES: 'está.arrugado' WSD:2
 # bankaka / vankaka / =vank -ak -a / ES: 'está.en.lo.alto' 
-# bashiretaka / vashiretaka / =vashire -t -ak -a / ES: 'él/ella.está.triste' 
-# obashiretaka / ovashiretaka / o- =vashire -t -ak -a / ES: '(ella).está.con.pena' 
-# jokiitaka / hokiitaka / =hokii -t -ak -a / ES: 'él/ella.está.enfermo' 
-# abikaka / avikaka / =abik -ak -a / ES: 'trabado' 
+# bashiretaka / vashiretaka / =vashire -t -ak -a / ES: 'él/ella.está.triste' WSD:2
+# obashiretaka / ovashiretaka / o- =vashire -t -ak -a / ES: '(ella).está.con.pena' WSD:2 
+# jokiitaka / hokiitaka / =hokii -t -ak -a / ES: 'él/ella.está.enfermo' WSD:2
+# abikaka / avikaka / =abik -ak -a / ES: 'trabado' WSD:2
 # kisashiretaka / =kis -a =shire -t -ak -a / ES: 'está.resentido' 
-# kisaka / =kis -ak -a / ES: 'está.renegado' 
+# kisaka / =kis -ak -a / ES: 'está.renegado' WSD:2
 # potsotaka / =potso -t -ak -a / ES: '(está).pintado' 
 # saraaka / =sara -ak -a / ES: '(está).pelado' 
 # piotaka / =pio -t -ak -a / ES: 'está.amontonado' 
@@ -29,7 +29,7 @@ define V=S=PRF [
 
 # MORPHOLOGICAL CATEGORY: +ASP 
 
-# 3 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# 3 MORPHOLOGICAL VALUES FOR DISAMBIGUATION (MVD):
 # 0: PRF
 # 1: FUT 
 # 2: STATIVE (the stative funtion of the perfectivie suffix -ak always derives a noun) 
