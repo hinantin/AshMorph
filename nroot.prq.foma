@@ -1016,9 +1016,9 @@ define NRootPRQin [
 | "[=iimiini+kin@fem.ego][NRoot][=brother.in.law (ES: cuñado)]" : {iimiini}
 # ------------------------------------------------------------------
 ! 
-| "[=eenchaaneki][NRoot][=child]" : {eenchaaniki}
-| "[=eenchaniki][NRoot][=little.child]" : {eenchaniki}
-| "[=enchaniki][NRoot][=child (ES: bebé)]" : {enchaniki}
+| "[=eenchaaneki+gndr@m.][NRoot][=child]" : {eenchaaniki}
+| "[=eenchaniki+gndr@m.][NRoot][=little.child]" : {eenchaniki}
+| "[=enchaniki+gndr@m.][NRoot][=child (ES: bebé)]" : {enchaniki}
 # ------------------------------------------------------------------
 ! 
 | "[=eeni+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.hormiga; sci.nm.: eciton.rapax)]" : {eeni}
