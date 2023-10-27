@@ -12,5 +12,5 @@ define V=S=REV [
 | "[--][-re][VDeriv][+REV][=reversal/undoing.of.an.action/state]" : "@EP"[{re}] 
 | "[--][-ree][VDeriv][+REV][=reversal/undoing.of.an.action/state]" : "@EP"[{ree}] 
 ];
-                   
+
 define REV [ [EP V=S=REV]|[V=S=REV] ];
