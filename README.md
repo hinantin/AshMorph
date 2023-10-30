@@ -11,7 +11,7 @@ It is spoken by approximately 70,000 people (2002).
 #### Polysynthetic  
 
 Because it is often possible to find a word that combines several word stems with a very specific 
-semantic meaning (noun-incorporation and verbal classifiers).
+semantic meaning (noun-incorporation and verbal classifiers incorporation).
 
 ```
 Noun incorporation: tsapya 'river.bank'
