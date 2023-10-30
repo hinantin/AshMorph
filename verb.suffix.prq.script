@@ -117,7 +117,7 @@ define V=S=O [
 | "[--][=mpi][+2SG.O/P][=you (ES: te)]" : [{mpi}] 
 | "[--][=npi+allomorph@mpi.][+2SG.O/P][=you (ES: te)]" : [{npi}] 
 | "[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ni}] 
-| "[--][=ni~ne][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ne}] 
+| "[--][=ni+allomorph@ne.][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ne}] 
 ];
                    
 # ****************************************
