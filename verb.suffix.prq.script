@@ -20,11 +20,11 @@ source v-s-prog.foma
 # O : transitive-verb object 
 # P : patient-like argument 
 define V=S=PRNO=SET1 [
-  "[--][=ri][+3m.O/P]" : [{ri}] 
-| "[--][=re+allomorph@ri.][+3m.O/P]" : [{re}] 
-| "[--][=rii+allomorph@ri.][+3m.O/P]" : [{rii}] 
-| "[--][=ro+allomorph@vo.][+3n.m.O/P]" : [{ro}] 
-| "[--][=vo][+3n.m.O/P]" : [{vo}] 
+  "[--][=ri+synt.rel@obj.][+3m.O/P]" : [{ri}] 
+| "[--][=re+allomorph@ri.+synt.rel@obj.][+3m.O/P]" : [{re}] 
+| "[--][=rii+allomorph@ri.+synt.rel@obj.][+3m.O/P]" : [{rii}] 
+| "[--][=ro+allomorph@vo.+synt.rel@obj.][+3n.m.O/P]" : [{ro}] 
+| "[--][=vo+synt.rel@obj.][+3n.m.O/P]" : [{vo}] 
 ];
 
 # primera.persona, plural.inclusivo, objeto e
