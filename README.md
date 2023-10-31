@@ -39,7 +39,7 @@ ES: 'agua.fría; lit.: líquido.que.está.frio'
 Ashaninka possesses extensive agreement or cross-refencing. Heads such as verbs and nouns agree with 
 the properties of their arguments, for instance, gender markers on the verb indicate properties, such as masculine (+m.) or not-masculine (+n.m.), of both the subject 
 and the object.
-This characteristic is also used to mark coordination between main clauses 'MC' and complement clauses 'CC' within sentences.
+This characteristic, is also known as 'hypotaxis', is used to mark coordination between main clauses 'MC' and complement clauses 'CC' within sentences.
 
 #### Verbal reduplication
 
