@@ -19,20 +19,28 @@ source v-s-prog.foma
                    
 # O : transitive-verb object 
 # P : patient-like argument 
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓….  
+#                        +synt.rel@VROOT↓obj. 
+# ---------------------------------------- 
 define V=S=PRNO=SET1 [
-  "[--][=ri+synt.rel@V↓obj.][+3m.O/P]" : [{ri}] 
-| "[--][=re+allomorph@ri.+synt.rel@V↓obj.][+3m.O/P]" : [{re}] 
-| "[--][=rii+allomorph@ri.+synt.rel@V↓obj.][+3m.O/P]" : [{rii}] 
-| "[--][=ro+allomorph@vo.+synt.rel@V↓obj.][+3n.m.O/P]" : [{ro}] 
-| "[--][=vo+synt.rel@V↓obj.][+3n.m.O/P]" : [{vo}] 
+  "[--][=ri+synt.rel@VROOT↓obj.][+3m.O/P]" : [{ri}] 
+| "[--][=re+allomorph@ri.+synt.rel@VROOT↓obj.][+3m.O/P]" : [{re}] 
+| "[--][=rii+allomorph@ri.+synt.rel@VROOT↓obj.][+3m.O/P]" : [{rii}] 
+| "[--][=ro+allomorph@vo.+synt.rel@VROOT↓obj.][+3n.m.O/P]" : [{ro}] 
+| "[--][=vo+synt.rel@VROOT↓obj.][+3n.m.O/P]" : [{vo}] 
 ];
 
 # primera.persona, plural.inclusivo, objeto e
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓….  
+#                        +synt.rel@VROOT↓s.obj. 
+# ---------------------------------------- 
 define V=S=PRNO=SET2 [
 # ----------------------------------
-  "[--][=ai+synt.rel@V↓s.obj.][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ai}] 
-| "[--][=ae+allomorph@ai.+synt.rel@V↓s.obj.][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ae}] ! \cite[pag. 465]{kindberg:diccionario:80} 
-| "[--][=ee+synt.rel@V↓s.obj.][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ee}] ! \cite[pag. 465]{kindberg:diccionario:80} 
+  "[--][=ai+synt.rel@VROOT↓s.obj.][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ai}] 
+| "[--][=ae+allomorph@ai.+synt.rel@VROOT↓s.obj.][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ae}] ! \cite[pag. 465]{kindberg:diccionario:80} 
+| "[--][=ee+synt.rel@VROOT↓s.obj.][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]" : "@EP"[{ee}] ! \cite[pag. 465]{kindberg:diccionario:80} 
 ];
                    
 define PRNO [ [V=S=PRNO=SET1] ];
