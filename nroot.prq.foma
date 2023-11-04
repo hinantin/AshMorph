@@ -120,11 +120,13 @@
 #                    +mrph.phon@SIBL.NEUT:s$→j$.
 #                    +mrph.phon@SIBL.NEUT:s$→h$.
 
+# ---------------------------------------- 
 # 8: syntactic relation  +synt.rel@…↓….  
-#                        +synt.rel@V↓pred. 
+#                        +synt.rel@VROOT↓pred. 
 #                        +synt.rel@{DUMMY:/'to.be':natantsi/}↓pred. (only for sentences where the verb inati onati 'to be' is implied)
 #                        +synt.rel@{DUMMY:/'to.be':natantsi/}↓subj.
-#                        +synt.rel@V↓subj. 
+#                        +synt.rel@VROOT↓subj. 
+# ---------------------------------------- 
 
 # "ROOT STRUCTURE"
 # LEXICON TRANSLATION-LANGUAGES : pan-Ashanika; EN (ENGLISH default translation), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)

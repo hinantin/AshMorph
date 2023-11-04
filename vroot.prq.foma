@@ -39,9 +39,11 @@
 #         f.tech.	fishing technique 
 #    there are more semantic labels 
 
+# ---------------------------------------- 
 # 7: syntactic relation  +synt.rel@…↓….  
 #                        +synt.rel@VROOT↓sent.c. 
 #                        +synt.rel@VROOT↓sent.c. 
+# ---------------------------------------- 
 
 define VRootPRQin [
 ! 

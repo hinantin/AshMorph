@@ -1,7 +1,9 @@
   # person pronouns
 
+# ---------------------------------------- 
 # 0: syntactic relation  +synt.rel@…↓….  
 #                        +synt.rel@VROOT↓subj. 
+# ---------------------------------------- 
 
 define PrnPersPRQin [
 ! Pragmatic functions +pragm.func 
