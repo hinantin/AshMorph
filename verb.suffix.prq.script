@@ -119,13 +119,17 @@ define ADV=SET2 [ [EP V=S=ADV=SET2]|[V=S=ADV=SET2] ];
                    
 # O : transitive-verb object 
 # P : patient-like argument 
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓….  
+#                        +synt.rel@VROOT↓s.obj. 
+# ---------------------------------------- 
 define V=S=O [
-  "[--][=na+synt.rel@s.obj.][+1SG.O/P][=me (ES: me)]" : [{na}] 
-| "[--][=mi+synt.rel@s.obj.][+2SG.O/P][=you (ES: te)]" : [{mi}] 
-| "[--][=mpi+synt.rel@s.obj.][+2SG.O/P][=you (ES: te)]" : [{mpi}] 
-| "[--][=npi+allomorph@mpi.+synt.rel@s.obj.][+2SG.O/P][=you (ES: te)]" : [{npi}] 
-| "[--][=ni+synt.rel@s.obj.][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ni}] 
-| "[--][=ni+allomorph@ne.+synt.rel@s.obj.][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ne}] 
+  "[--][=na+synt.rel@VROOT↓s.obj.][+1SG.O/P][=me (ES: me)]" : [{na}] 
+| "[--][=mi+synt.rel@VROOT↓s.obj.][+2SG.O/P][=you (ES: te)]" : [{mi}] 
+| "[--][=mpi+synt.rel@VROOT↓s.obj.][+2SG.O/P][=you (ES: te)]" : [{mpi}] 
+| "[--][=npi+allomorph@mpi.+synt.rel@VROOT↓s.obj.][+2SG.O/P][=you (ES: te)]" : [{npi}] 
+| "[--][=ni+synt.rel@VROOT↓s.obj.][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ni}] 
+| "[--][=ni+allomorph@ne.+synt.rel@VROOT↓s.obj.][+3SG.O/P][=it/him/her (ES: le/lo/la)]" : [{ne}] 
 ];
                    
 # ****************************************

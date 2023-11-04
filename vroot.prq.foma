@@ -1611,6 +1611,9 @@ define VRootPRQin [
 | "[=tsiti+INF@/EP:t/aantsi.][VRoot][=to.hide (ES: ocultar)]" : {tsiti}
 # --------------------------------------------------------- 
 ! 
+| "[=maka+INF@/EP:t/agantsi.][VRoot][=to.be.(brittle|breakable) (ES: ser.(quebradizo|rompible))]" : {maka}
+# --------------------------------------------------------- 
+! 
 | "[=mana+INF@/EP:t/(a)antsi.][VRoot][=to.fight (ES: luchar)]" : {mana} ! V@->N::[=fighting (ES: lucha, enfrentamiento)] 
 # --------------------------------------------------------- 
 ! 
