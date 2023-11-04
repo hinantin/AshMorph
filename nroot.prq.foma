@@ -122,8 +122,8 @@
 
 # 8: syntactic relation  +synt.rel@…↓….  
 #                        +synt.rel@V↓pred. 
-#                        +synt.rel@DUMMY/natantsi:to.be/↓pred. 
-#                        +synt.rel@V↓pred. 
+#                        +synt.rel@{DUMMY:/'to.be':natantsi/}↓pred. (only for sentences where the verb inati onati 'to be' is implied)
+#                        +synt.rel@{DUMMY:/'to.be':natantsi/}↓subj.
 
 # "ROOT STRUCTURE"
 # LEXICON TRANSLATION-LANGUAGES : pan-Ashanika; EN (ENGLISH default translation), ES (ESPAÑOL/SPANISH), PT (PORTUGUÊS/PORTUGUESE), IT (ITALIANO/ITALIAN)
@@ -449,7 +449,7 @@ define NRootPRQin [
 | "[=aNtami/ãtami+gndr@n.m.][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest]" : {ãtami}
 | "[=antame+gndr@n.m.][NRoot][=woods, forest (ES: selva, PT: floresta); dense.tropical.forest]" : {antame} 
 ! 
-| "[=antamishi+~{N/'forest':antami/}{CL:/'leaf':shi/}][NRoot][=impenetratable.tropical.forest.with.a_lot_of.vines]" : {antamishi}
+| "[=antamishi+~{N:/'forest':antami/}{CL:/'leaf':shi/}][NRoot][=impenetratable.tropical.forest.with.a_lot_of.vines]" : {antamishi}
 ! 
 | "[=tomiri][NRoot][=hillock (ES: monte)]" : {tomiri}
 ! tomirishi / ES: 'monte' 
