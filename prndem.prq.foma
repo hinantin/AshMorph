@@ -13,6 +13,8 @@
 # 2: +class@attn.prn. (attention pronoun) 
 # 3: locations 
 #    +loc@proximal, +loc@medial, +loc@distal, +loc@proximal.b., +loc@medial.b., +loc@distal.b., +loc@distal.unb. 
+# 4: syntactic relation  +synt.rel@…↓….  
+#                        +synt.rel@VROOT↓linker. 
 
 define PrnDemPRQin [
 ! Demonstrative adverbs 
