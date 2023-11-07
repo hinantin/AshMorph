@@ -75,6 +75,7 @@ So far we have played loose with the rules which determine the patterns that our
 
 Syntactic relations
 =========================
+All syntactic relations that could contain within a single word is a fundamental characteristic of a morphologically rich language / polysynthetic language 
 
 
 Compiling with XFST
