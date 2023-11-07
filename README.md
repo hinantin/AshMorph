@@ -75,7 +75,8 @@ So far we have played loose with the rules which determine the patterns that our
 
 Syntactic relations
 =========================
-All syntactic relations that could stem from a token (nominal root, veerbal root, affix, suffix, etc.) will be listed for each one of the tokens, we are doing this because 'syntactic relations' are fundamental characteristics of a morphologically-rich / polysynthetic languages like pan-Ashaninka.
+
+For each token in a morphologically-rich or polysynthetic language like Pan-Ashaninka, i.e., nominal roots, verbal roots, affixes, suffixes, etc. We will list all possible syntactic relations that the token could have. We are doing this because syntactic relations are fundamental characteristics of these languages.
 
 Compiling with XFST
 ===============================
