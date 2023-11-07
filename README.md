@@ -73,6 +73,10 @@ Generative capacity of Ashaninka Grammar
 First, we define the "generative capacity of Ashaninka grammar" as a model which indicates what kind of patterns it can or cannot model.
 So far we have played loose with the rules which determine the patterns that our current model should and should not generate, because of the initial state of our text corpus and the wide variety of writing systems these texts were written with.
 
+Syntactic relations
+=========================
+
+
 Compiling with XFST
 ===============================
 
