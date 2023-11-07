@@ -1,5 +1,10 @@
 # preffixes slot 1
 
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓….  
+#                        +synt.rel@s.subj↓VROOT. 
+# ---------------------------------------- 
+
 define P=1 [
 # 1st person singular 
   "[no-][VPers][1SG.S/A+][--]" : [{no}]"@VPERS@"
