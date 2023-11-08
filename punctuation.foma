@@ -1,5 +1,10 @@
 # punctuation
 
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓….  
+#                        +synt.rel@VIRTUALROOT↓punct.  
+# ---------------------------------------- 
+
 define Punctuation [
   ",[$.]" : {,}
 | ".[$.]" : {.}

@@ -3,6 +3,11 @@
 # 0: +periphrasis. 
 # Note: Periphrasis is the use of multiple words to express a single concept or idea, instead of using a single word. (See entries marked with +periphrasis. tag for more information)
 
+# ---------------------------------------- 
+# 1: syntactic relation  +synt.rel@…↓….  
+#                        +synt.rel@VROOT↓s.arg. 
+# ---------------------------------------- 
+
 define WhPRQin [
 # Functions: 
 ! 1.- WH: interrogative 
