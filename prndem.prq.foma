@@ -16,8 +16,9 @@
 
 # ---------------------------------------- 
 # 4: syntactic relation  +synt.rel@…↓…. 
-#                        +synt.rel@VROOT↓linker. 
-#                        +synt.rel@VROOT↓det. 
+#                        +synt.rel@NROOT↓det. determiner 
+#                        +synt.rel@VROOT↓linker. linker ................ linker = filler?
+#                        +synt.rel@NROOT↓flr. filler 
 # ---------------------------------------- 
 
 define PrnDemPRQin [
