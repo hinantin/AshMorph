@@ -8,8 +8,9 @@
 # 
 
 # ---------------------------------------- 
-# 4: syntactic relation  +synt.rel@…↓…. 
-#                        +synt.rel@VROOT↓asp. 
+# 4: syntactic relation  +synt.rel@…↲↳…. 
+#                        +synt.rel@…↶↷…. 
+#                        +synt.rel@VROOT↳asp. 
 # ---------------------------------------- 
 
 define V=S=PRF [
