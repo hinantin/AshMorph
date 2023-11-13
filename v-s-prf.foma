@@ -8,10 +8,11 @@
 # 
 
 # ---------------------------------------- 
-# 4: syntactic relation  +synt.rel@…↓….  
+# 0: syntactic relation  +synt.rel@…↓…. 
 #                        +synt.rel@…↶↷…. 
 #                        +synt.rel@…↲↳…. 
 #                        +synt.rel@VROOT↳asp. 
+# - Stative suffixes have no syntactic relations because they become nouns when followed by fossilized forms (-i, -a) of the reality status suffix. 
 # ---------------------------------------- 
 
 define V=S=PRF [
