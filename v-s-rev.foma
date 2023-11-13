@@ -5,6 +5,9 @@
 # reversative
 # verbal derivational suffix 'VDeriv' 
 ! opposite, reverse REV/CNTRST ; revocation?
+
+# 0: This derivational suffix has no syntactic relations. 
+
 define V=S=REV [
 # otevaryaanaque /NMZ> otevaryaanake / =oteva -ry -a -an -ak -e / ES: 'él.rompió.la.rama' 
   "[--][-ry][VDeriv][+REV][=reversal/undoing.of.an.action/state]" : "@EP"[{ry}] 
