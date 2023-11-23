@@ -11,6 +11,12 @@
 # ABRREVIATIONS
 # SEMEL.F 'Semelfactive'
 
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓…. 
+#                        +synt.rel@…↶↷…. 
+#                        +synt.rel@…↲↳…. 
+# ---------------------------------------- 
+
 define V=S=SEMEL [
 # 3 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
 # 0: SEMEL.F 
