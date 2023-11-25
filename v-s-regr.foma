@@ -14,6 +14,13 @@
 ! It specifies an event as a whole, that may be: 
 ! resolved.(event): finality-and-closure, once-and-for.all 
 ! regressive.(event): being.back 
+
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓…. 
+#                        +synt.rel@…↶↷…. 
+#                        +synt.rel@…↲↳…. 
+# ---------------------------------------- 
+
 define V=S=REGR [
 # eiro aneahiritsi / =eiro ** a- =ne -ah -i -ri -tsi / =NEG.IRR ** 1pl.a- =to.see -term[finality-and-closure] -real -3m.o -neg / ; EN: 'we.won't.see.him.again'; ES: 'No.lo.veremos.otra.vez' 
   "[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]" : "@EP"[{a}]
