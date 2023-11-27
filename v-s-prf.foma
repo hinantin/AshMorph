@@ -13,7 +13,9 @@
 #                        +synt.rel@…↲↳…. 
 #                        +synt.rel@asp↲VROOT.  
 #                        +synt.rel@asp↶VROOT.  
+# ConLL:  n°	-sqa	_	Tns_VPers	Tns_VPers	Tns_VPers=+3.Sg.Subj.IPst	n°	s.subj	_	_
 # - Stative suffixes have no syntactic relations because they become nouns when followed by fossilized forms (-i, -a) of the reality status suffix. 
+# ConLL:  n°	-sqa	_	NS	NS	NS=+Perf	n°	ns	_	_
 # ---------------------------------------- 
 
 define V=S=PRF [
