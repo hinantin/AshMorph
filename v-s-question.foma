@@ -3,6 +3,15 @@
 
 # 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
 
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓…. 
+#                        +synt.rel@…↶↷…. 
+#                        +synt.rel@…↲↳…. 
+#                        +synt.rel@intr↲VROOT.  
+#                        +synt.rel@intr↶VROOT.  
+# ConLL:  n°      =ka    _       Amb     Amb     Amb=+Intr   n°      intr    _       _
+# ---------------------------------------- 
+ 
 define V=S=Q [
 # ampokaika / a- N- =pok -ai -ka / 1pl.s- irr- =to.come -real -q / EN: 'we will come back (when)?'  
   "[--][=ka][+Q]" : [{ka}]
