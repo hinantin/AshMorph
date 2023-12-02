@@ -4,6 +4,15 @@
 # 0: HAB
 # 1: CUST
 
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓…. 
+#                        +synt.rel@…↶↷…. 
+#                        +synt.rel@…↲↳…. 
+#                        +synt.rel@asp↲VROOT.  
+#                        +synt.rel@asp↶VROOT.  
+# ConLL:  n°	-ak	_	Asp	Asp	Asp=+PRF	n°	asp	_	_
+# ---------------------------------------- 
+
 define V=S=HAB [
   "[--][-apin][Asp][+HAB_CUST][=always]" : "@EP"[{apin}] 
 | "[--][-apiin][Asp][+HAB_CUST][=always]" : "@EP"[{apiin}] 
