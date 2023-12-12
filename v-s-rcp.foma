@@ -9,6 +9,15 @@
 # RCP reciprocal 
 
 # 0 MORPHOLOGICAL VALUES FOR DISAMBIGUATION:
+# ---------------------------------------- 
+# 0: syntactic relation  +synt.rel@…↓…. 
+#                        +synt.rel@…↶↷…. 
+#                        +synt.rel@…↲↳…. 
+#                        +synt.rel@mod↲VROOT.  
+#                        +synt.rel@mod↶VROOT.  
+# ConLL:  n°	-ak	_	Asp	Asp	Asp=+PRF	n°	asp	_	_
+# ---------------------------------------- 
+
 
 define V=S=RCP [
 # ikaimavakaaka / i- =kaim -av -ak -aak -a / 3m.s- =to.call -rcp -caus.soc -prf -real / EN: 'they.called.to.each.other'  
