@@ -8,6 +8,17 @@ La interfaz de Foma es similar a la interfaz del XFST de Xerox, y es compatible 
 
 La librería contiene implementaciones eficientes de todos los algoritmos clásicos de autómatas/transductores: determinización, minimización extracción de épsilon, composición, operaciones booleanas. Además, los métodos de construcción más avanzadas están disponibles: restricción según el contexto, cocientes, lógica de primer orden regular, transductores de reglas de sustitución, etc.
 
+AshMorph
+
+This is a morphological analyzer for pan-Ashaninka that is written using Finite State technology with a multilingual lexicon (Ashaninka, English, Spanish and Portuguese), some entries in Quechua and Italian are provided in a lesser quantity.
+
+Pan-Ashaninka
+
+Pan-Ashaninka is the general term used to refer to a 'cluster of Arawak-dialects', this cluster is also known as 'the Ashé-Ashá dialect continuum' and is spoken in Peru and Acre-Brazil, the aforementioned cluster specifically comprises Ashéninka Pichis (Pi / CPU), Alto Perené (Pe / PRQ), Ashéninka Pajonal (Paj / CJO), Ucayali-Yurua Ashéninka (U-Y / CPB), Ajyininka (or Ashéninka) Apucurayali (Apu / CPC), Ashaninka (Asha / CNI).
+
+Pan-Ashaninka is a polysynthetic and head-marking language spoken in the central adjoining Amazonian regions between Peru and Brazil (Acre State). It is spoken by approximately 70,000 people (2002).
+
+
 
 
 Regular expression operators
