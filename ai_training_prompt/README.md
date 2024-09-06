@@ -12,3 +12,4 @@ In the context of artificial intelligence, a prompt is a piece of text or input 
 Persona Pattern
 ================
 
+Act as a computer scientist specialized in Natural Language Processing for Peruvian indigenous languages.
