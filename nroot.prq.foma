@@ -3409,7 +3409,7 @@ define NRootPRQin [
 # -----------------------------------------------------------------------
 ! 
 # nomapikitakero / no- =mapi -ki -t-ak -e -ro / 1sg.a- =stone -cl:small,round -ep -prf -irr -3n.m.o / EN: 'fixing.pebbles/sinker-like_pebbles.in.sth. (i.e.: a.fish_trap)', ES: 'fijar piedrecitas/guijarros en algo (por ejemplo: en la red)'
-| "[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone;| rock]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] @section:noun@ 
+| "[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone (ES: piedra);| rock]" : {mapi} ! N@->V::[=to.fix.stones.in.sth. (ES: fijar.piedras.en.algo)] @section:noun@ 
 | "[=mapiki+gndr@n.m.][NRoot][=pebble (ES: piedra.chica; PT: seixo)]" : {mapiki} 
 !| "[=mapipooki+~{N:/'stone':mapi/}{CL:/'group.of.tiny.objects':pooki/}+gndr@n.m.][NRoot][=stony.ground, gravel.pit (ES: pedregal, cascajal)]" : {mapipooki} ! @section:noun@ 
 ! mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stony_ground, stony_area'; ES: 'pedregal' 
