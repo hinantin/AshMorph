@@ -1,7 +1,25 @@
 Vamos a trabajar juntos. Voy a ir dandote información la cual usarás como referencia al momento que me des tus respuestas. No necesito que me des una respuesta estructurada ahora, solo respondeme con un ok, ya lo he procesado para saber que ya lo procesaste y tomarás en cuenta la información que te proporcioné.
 
+Foma
 
-foma
+Foma es un compilador, lenguaje de programación, y librería escrita en C para la construcción de autómatas y transductores de estados finitos para diversos usos. Tiene soporte específico para muchas aplicaciones de procesamiento de lenguaje natural, tales como la producción de analizadores morfológicos. Aunque las aplicaciones en el PLN son probablemente el principal uso que se le da a Foma, aunque es lo suficientemente genérico para ser  utilizado para un gran número de propósitos.
+
+La interfaz de Foma es similar a la interfaz del XFST de Xerox, y es compatible con la mayoría de los comandos y la sintaxis de expresiones regulares en XFST. Muchos gramáticas escritas para XFST se compilan sin muchos cambios usando Foma.
+
+La librería contiene implementaciones eficientes de todos los algoritmos clásicos de autómatas/transductores: determinización, minimización extracción de épsilon, composición, operaciones booleanas. Además, los métodos de construcción más avanzadas están disponibles: restricción según el contexto, cocientes, lógica de primer orden regular, transductores de reglas de sustitución, etc.
+
+AshMorph
+
+This is a morphological analyzer for pan-Ashaninka that is written using Finite State technology with a multilingual lexicon (Ashaninka, English, Spanish and Portuguese), some entries in Quechua and Italian are provided in a lesser quantity.
+
+Pan-Ashaninka
+
+Pan-Ashaninka is the general term used to refer to a 'cluster of Arawak-dialects', this cluster is also known as 'the Ashé-Ashá dialect continuum' and is spoken in Peru and Acre-Brazil, the aforementioned cluster specifically comprises Ashéninka Pichis (Pi / CPU), Alto Perené (Pe / PRQ), Ashéninka Pajonal (Paj / CJO), Ucayali-Yurua Ashéninka (U-Y / CPB), Ajyininka (or Ashéninka) Apucurayali (Apu / CPC), Ashaninka (Asha / CNI).
+
+Pan-Ashaninka is a polysynthetic and head-marking language spoken in the central adjoining Amazonian regions between Peru and Brazil (Acre State). It is spoken by approximately 70,000 people (2002).
+
+
+
 
 Regular expression operators
 Concatenation (X Y)
