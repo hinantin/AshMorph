@@ -107,10 +107,15 @@ define V=S=ADV=SET1 [
 define ADV [V=S=ADV=SET1];
                    
 # ****************************************
-                   
+
+# --------------------------------
+# DURATIVE   
+# --------------------------------
+
 define V=S=ADV=SET2 [
   "[--][-paite][+ADV][=during.an.event, at.the.time.of.sth., period.of.time]" : "@EP"[{paite}] 
 | "[--][-paiti][+ADV][=during.an.event, at.the.time.of.sth., period.of.time]" : "@EP"[{paiti}] 
+| "[--][-paeti][+ADV][=during.an.event, at.the.time.of.sth., period.of.time]" : "@EP"[{paeti}] 
 ];
                    
 define ADV=SET2 [ [EP V=S=ADV=SET2]|[V=S=ADV=SET2] ];
