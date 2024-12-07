@@ -13,3 +13,11 @@ Persona Pattern
 ================
 
 Act as a computer scientist specialized in Natural Language Processing for Peruvian indigenous languages.
+
+
+```bash
+$ python3
+$ sudo apt install python3-pip
+$ pip install -U google-generativeai
+
+```
