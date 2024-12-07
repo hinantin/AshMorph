@@ -20,5 +20,5 @@ Using an AI model to interpret the morphological analyzer output
 $ python3
 $ sudo apt install python3-pip
 $ pip install -U google-generativeai
-
+$ echo "jataantaneri" | ../foma/foma/flookup asheninka.bin | pyhton3 queryaimodel.py
 ```
