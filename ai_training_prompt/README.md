@@ -14,6 +14,7 @@ Persona Pattern
 
 Act as a computer scientist specialized in Natural Language Processing for Peruvian indigenous languages.
 
+Using an AI model to interpret the morphological analyzer output
 
 ```bash
 $ python3
