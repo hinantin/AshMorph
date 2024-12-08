@@ -23,7 +23,14 @@ define V=S=CAUSSOC=SET2 [
 ];
                    
 define CAUSSOC [ [EP V=S=CAUSSOC=SET1]|[V=S=CAUSSOC=SET1] ];
-                   
+
+# --------------------------------
+# INDIRECT-CAUSATIVE APPLICATIVE 
+# --------------------------------
+define V=S=APPLCAUSIND [
+  "[--][-akant][+APPL.CAUS.IND]" : "@EP"[{akant}]
+];
+
 # ****************************************
                    
 !define V=S=APPLSOC [
