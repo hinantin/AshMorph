@@ -13,7 +13,7 @@
 # 1: +~{..}{..}...{..} 
 #    Information on the morphemes of lexicalized entries.
 #    {L.DEL:...} {R.DEL:...} 
-# 2: +INF@form1:form2:...:formN. 
+# 2: +INF@formN°1:formN°2:...:formN°n. 
 #    A 'form' is a dialectal variation that might contain morphological operations such as /EP:.../ /DEL:.../ 
 
 # finite-state approximations to reduplication 
