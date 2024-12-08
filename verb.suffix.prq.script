@@ -112,6 +112,7 @@ define ADV [V=S=ADV=SET1];
 # DURATIVE 2   
 # --------------------------------
 
+# EN: during 
 define V=S=ADV=SET2 [
   "[--][-paite][+ADV][=during.an.event, at.the.time.of.sth., period.of.time]" : "@EP"[{paite}] 
 | "[--][-paiti][+ADV][=during.an.event, at.the.time.of.sth., period.of.time]" : "@EP"[{paiti}] 

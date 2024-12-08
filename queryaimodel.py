@@ -3,8 +3,8 @@ import os
 
 genai.configure(api_key=os.environ["API_KEY"])
 
-model = genai.GenerativeModel('gemini-1.5-flash-8b')
+model = genai.GenerativeModel('gemini-1.5-pro')
 
 input1 = input()
-response = model.generate_content("from this huge list of meanings, can you get the most likely for each suffix "+input1)
+response = model.generate_content("from this huge list of meaning, can any of this be interpreted as \"doctor or to cure\""+input1)
 print(response.text) 

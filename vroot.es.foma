@@ -8,4 +8,6 @@ define VRootESin [
 | "[=jabo][VRoot:Es][=to.soap.sth (ES: enjabonar, jabonar)]" : {jabo}
 | "[=cura/kora][VRoot:Es][=to.cure (ES: curar)]" : {kora}
 | "[=cosecha/kosecha][VRoot:Es][=to.harvest (ES: cosechar)]" : {kosecha}
+# abitatakena / ES: "me ajusta demasiado"
+| "[=apreta/avita+INF@/EP:t/aantsi.][VRoot:Es][=to.tighten (ES: apretar)]" : {avita}
 ];
