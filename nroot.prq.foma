@@ -6997,6 +6997,9 @@ define NRootPRQin [
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsanoiriki+~{N:/'neck':tsano/}{inanim.dim.PL:iriki}+gndr@n.m.+inal@ntsi.][NRoot][=adornment (ES: adorno.(que.ponen.en.el.cuello))]" : {tsanoiriki} ! @section:noun@ 
+| "[=tsanoireki+~{N:/'neck':tsano/}{inanim.dim.PL:iriki}+gndr@n.m.+inal@ntsi.][NRoot][=adornment (ES: adorno.(que.ponen.en.el.cuello))]" : {tsanoireki} ! @section:noun@ 
+| "[=tsanoeriki+~{N:/'neck':tsano/}{inanim.dim.PL:iriki}+gndr@n.m.+inal@ntsi.][NRoot][=adornment (ES: adorno.(que.ponen.en.el.cuello))]" : {tsanoeriki} ! @section:noun@ 
+| "[=tsanoere+gndr@n.m.+inal@ntsi.][NRoot][=adornment (ES: adorno.(que.ponen.en.el.cuello))]" : {tsanoere} 
 # ------------------------------------------------------------------------------ 
 ! 
 | "[=tsapaki+inal@ntsi.+sem@b.p.][NRoot][=finger (ES: dedo; PT: dedo; IT: dito)]" : {tsapaki} ! @CMP 
@@ -7409,6 +7412,9 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------------
 ! 
 | "[=tyonkintzi+gndr@m.+sem@insect][NRoot][=bee.sp.]" : {tyonkintzi}
+# --------------------------------------------------------------------- 
+! 
+| "[=tyonkiro][NRoot][=person's.name; NP]" : {tyonkiro}
 # ---------------------------------------------------------------------------------
 ! 
 | "[=tyonkishori+sem@NP.person][NRoot][=person's.name, NP]" : {tyonkishori}

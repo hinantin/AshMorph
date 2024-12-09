@@ -57,6 +57,7 @@ define V=S=STAT=SET2 [
 # -------- STATIVE PERFECTIVE  -------------
 | "[--][-aints][Asp][+STAT.PRF]" : "@EP"[{aints}] 
 | "[--][-aits][Asp][+STAT.PRF]" : "@EP"[{aits}] 
+| "[--][-aet][Asp][+STAT.PRF]" : "@EP"[{aet}] 
 ];
 
                    

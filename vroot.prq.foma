@@ -9,6 +9,7 @@
 # The irrealis suffix -N (archiphoneme) is added like an infix within verbal roots  
 
 # "LABEL ORDER" : 
+# This characteristic has been documented poorly in the referenced grammars
 # 0: +allomorph@ky.
 # 1: +~{..}{..}...{..} 
 #    Information on the morphemes of lexicalized entries.
@@ -40,6 +41,9 @@
 #    there are more semantic labels 
 
 # ---------------------------------------- 
+# "SYNTACTIC RELATIONS" : 
+# ----------------------------------------
+# pan-Ashaninka possesses extensive agreement or cross-refencing, signaling the syntactic relation as a morphologcal characteristic, will facilitate the syntactic analysis.
 # 7: syntactic relation  +synt.rel@…↓….  
 #                        +synt.rel@…↶↷…. 
 #                        +synt.rel@…↲↳…. 
@@ -52,7 +56,7 @@ define VRootPRQin [
 # ---------------------------------------------------
   "[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)]" : {a} ! @section:verb@ 
 ! aaquena camaantsi / aakena kamaantsi / ES: 'resfriarse, lit. me.agarra.el.resfrio' 
-| "[=aa+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)]" : {aa}
+| "[=aa+INF@/DEL:a/gaantsi.+I-Conj@0.v.][VRoot][=to.take (ES: agarrar)]" : {aa}
 | "[=a][VRoot][=to.get]" : {a}
 ! 
 !###| "[n-][VPers][1SG.S/A+][--][=aa+INF@/DEL:a/gaantsi.+tot.redup@unb.copy.][VRoot][=to.take (ES: agarrar)]" : {naanaa} ! @REDUP 
@@ -917,6 +921,8 @@ define VRootPRQin [
 ! 
 | "[=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)]" : {kaem}
 | "[=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaim}
+| "[=kaimakant+INF@aantsi.][VRoot][=to.call.on.phone (ES: llamar.por.teléfono)]" : {kaimakant}
+| "[=kaemakant+INF@aantsi.][VRoot][=to.call.on.phone (ES: llamar.por.teléfono)]" : {kaemakant}
 ! 
 | "[=kaim+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaikaim}
 #@PRTLREDUPCLASS01| "[=kaim+INF@aantsi.+prtl.redup@b.copy.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)]" : {kaim} ! kaikaim
@@ -1377,8 +1383,8 @@ define VRootPRQin [
 | "[=kita][VRoot][=to.dress (ES: ponerse.ropa)]" : {kita}
 # ---------------------------------------------------------
 ! 
-| "[=kitsa][VRoot][=to.catch.fish.with.a.net]" : {kitsa}
-| "[=kitsaa+~kitsa{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.catch_fish.with.a.net]" : {kitsaa}
+| "[=kitsa][VRoot][=to.catch.fish.with.a.net (ES: tarrafear)]" : {kitsa}
+| "[=kitsaa+~kitsa{CL:/liquid:a/}+INF@/EP:t/antsi.][VRoot][=to.catch_fish.with.a.net (ES: tarrafear)]" : {kitsaa}
 # ---------------------------------------------------------
 ! 
 | "[=kitso][VRoot][=to.have.an.oval-shape]" : {kitso}
@@ -3403,8 +3409,9 @@ define VRootPRQin [
 !| "[=tsikomento+~{V:/'to.hook':tsiko/}{CONCR:mento}{NPOSS:tsi}+inal@tsi.][NRoot][=hook (ES: gancho)]" : {tsikomento} ! @section:noun@ 
 # ----------------------------------------------------------------------- 
 ! 
-| "[=tsink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca);| to.pound.sth. (ES: machacar)]" : {tsink} ! @section:verb@ 
+| "[=tsink+INF@antsi.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca);| to.pound.sth. (ES: machacar)]" : {tsink} ! @section:verb@ 
 | "[=tzink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tzink}
+| "[=tink+INF@antsi.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca); to.pound.sth. (ES: machacar)]" : {tink}
 # ----------------------------------------------------------------------- 
 ! 
 | "[=tsint+INF@(a)antsi.][VRoot][=to.urinate (ES: orinar)]" : {tsint}

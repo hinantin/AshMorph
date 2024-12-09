@@ -21,15 +21,20 @@ define V=S=CAUSSOC=SET1 [
 define V=S=CAUSSOC=SET2 [
   "[--][-akag][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]" : "@EP"[{akag}] ! to be revised 
 ];
-                   
-define CAUSSOC [ [EP V=S=CAUSSOC=SET1]|[V=S=CAUSSOC=SET1] ];
 
 # --------------------------------
 # INDIRECT-CAUSATIVE APPLICATIVE 
 # --------------------------------
+# the indirect causative suffix -akant attached to the root heva 'to.lead' in the social term jeva-t-akant-tz-i-ro-ri EN: 'authorities', lit. 'the.ones.who.lead.by.indirectly.causing.it'
+# it is often used to create abstract concepts or titles.
+# tsibakantatsiri / tsivakantatsiri / =tsivak -ant -atsi -ri / =to.put.out -appl.reas -stat -rel / EN: 'fire_fighter'; ES: 'bombero'
+# kantakantantsi EN: law; ES: ley
 define V=S=APPLCAUSIND [
   "[--][-akant][+APPL.CAUS.IND]" : "@EP"[{akant}]
 ];
+
+define CAUSSOC [ [EP V=S=CAUSSOC=SET1]|[V=S=CAUSSOC=SET1]|[EP V=S=APPLCAUSIND]|[V=S=APPLCAUSIND] ];
+
 
 # ****************************************
                    
