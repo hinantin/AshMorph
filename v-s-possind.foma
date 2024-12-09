@@ -30,8 +30,8 @@
 # 0: POSS.IND 
 
 define V=S=POSSIND [
-  "[--][-ane~{INTNS:a}{aln.poss.:ne}][NS][+POSS.IND]" : "@EP"[{ane}] 
-| "[--][-ani~{INTNS:a}{aln.poss.:ni}][NS][+POSS.IND]" : "@EP"[{ani}] 
+  "[--][-ane~{INTNS:a}{aln.poss.:ne}][NS][+NMZ.POSS.IND]" : "@EP"[{ane}] 
+| "[--][-ani~{INTNS:a}{aln.poss.:ni}][NS][+NMZ.POSS.IND]" : "@EP"[{ani}] 
 ];
 
 define POSSIND [ [EP V=S=POSSIND]|[V=S=POSSIND] ];

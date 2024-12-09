@@ -98,6 +98,9 @@ define VRootPRQin [
 | "[=patikiy+INF@aantsi.][VRoot][=to.join (ES: unirse)]" : {patikiy} 
 # ---------------------------------------------------
 ! 
+| "[=patima+INF@/EP:t/antsi.][VRoot][=to.chase (ES: perseguir)]" : {patima} 
+# ---------------------------------------------------
+! 
 | "[=amashi+INF@/EP:t/aantsi.][VRoot][=to.wound;| to.destroy (ES: malograr)]" : {amashi} ! @section:verb@ 
 # ---------------------------------------------------
 ! 
@@ -2301,6 +2304,7 @@ define VRootPRQin [
 ! 
 | "[=pasaka+INF@/EP:t/antsi.][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasaka}
 | "[=pasakaa+INF@/EP:t/antsi.][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pasakaa}
+| "[=pahakaa+INF@/EP:t/antsi.][VRoot][=to.fish.with.hands (mainly.carachama-fish; ES: pescar/sacar.(carachamas).con.las.manos)]" : {pahakaa}
 # ------------------------------------------------------
 ! 
 | "[=pasavako+~{'to.hit':pasa}{CL:/'hand':vako/}][VRoot][=to.applaud, to.clap (ES: aplaudir)]" : {pasavako}
