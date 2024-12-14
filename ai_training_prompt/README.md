@@ -21,5 +21,5 @@ $ python3
 $ sudo apt install python3-pip
 $ pip install -U google-generativeai
 $ export API_KEY=whatever
-$ echo "jataantaneri" | ../foma/foma/flookup asheninka.bin | pyhton3 queryaimodel.py
+$ echo "jataantaneri" | ../foma/foma/flookup asheninka.bin | python3 queryaimodel.py
 ```
