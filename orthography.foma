@@ -70,14 +70,15 @@
       # onset before vowel a 
       define TYOnset1 [ {tey} -> {ty}, {tey} -> {tey} || _ [a|á] ]; ! tyaaki 'flower' -> teyaaki 
       define TYOnset2 [ {tiy} -> {ty}, {tiy} -> {tiy} || _ [a|á] ]; ! tyaaki 'flower' -> tiyaaki 
-	  define TYOnset3 [ {ti} -> {ty} || {n} _ [a|á] ]; ! ròmahontiáantakariri -> ròmahontyáantakariri
+	define TYOnset3 [ {ti} -> {ty} || {n} _ [a|á] ]; ! ròmahontiáantakariri -> ròmahontyáantakariri
       define PYOnset [ {piy} -> {py}, {piy} -> {piy} || _ [a|á] ]; ! pyari 'masato [manioc beer]' -> piyari 
       define SYOnset [ {siy} -> {sy}, {siy} -> {siy} || _ [a|á] ]; ! syatatsi 'claw, fingernail' -> siyatatsi 
       define TSYOnset [ {tsiy} -> {tsy}, {tsiy} -> {tsiy} || _ [a|á] ]; ! tsyairi 'paucar sp.' -> tsiyairi 
       define NYOnset [ {niy} -> {ny}, {niy} -> {niy} || _ [a|á] ]; ! kanyari 'green' -> kaniyari 
       define KYOnset [ {kiy} -> {ky}, {kiy} -> {kiy} || _ [a|á] ]; ! chochokyari -> chochokiyari 
-	  define VYOnset1 [ {vi} -> {vy} || _ [a|á] ]; ! áawianèro -> áawyanèro 
-	  define VYOnset2 [ {wi} -> {wy} || _ [a|á] ]; 
+	define VYOnset1 [ {vi} -> {vy} || _ [a|á] ]; ! áawianèro -> áawyanèro 
+	define VYOnset2 [ {wi} -> {wy} || _ [a|á] ];
+      define MYOnset1 [ {mi} -> {my} || _ [a|á] ]; ! ishèmiakotáshitawo -> ishèmyakotáshitawo
 
       # ------------------------------------------
       # Seen in Ashanĩka do Rio Amônia
@@ -109,6 +110,7 @@
       # Nokoy 
       define OYDiphthong5 [ {oi} (->) {oy} || [k] _ [Cons] ]; 
       define OYDiphthong6 [ {oi} (->) {oy} || [k] _ .#. ]; 
+      # Brazilian variant 
       # tilde (1) : ~ 
       define ATildeReplacement1 [ {an} -> {ã}, {an} -> {an} || _ [k|t] ];
       define ATildeReplacement2 [ {am} -> {ã}, {am} -> {am} || _ [p] ];
@@ -138,7 +140,7 @@
 .o. NYTildeReplacement1 .o. NYTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 .o. UReplacement3 .o. UReplacement4  
 .o. NPReplacement .o. RYReplacement .o. TSYReplacement 
-.o. TYOnset1 .o. TYOnset2 .o. TYOnset3 .o. PYOnset .o. KYOnset .o. VYOnset1 .o. VYOnset2 
+.o. TYOnset1 .o. TYOnset2 .o. TYOnset3 .o. PYOnset .o. KYOnset .o. VYOnset1 .o. VYOnset2 .o. MYOnset1 
 ]; 
 
 

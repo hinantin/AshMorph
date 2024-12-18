@@ -1236,6 +1236,7 @@ define NRootPRQin [
 | "[=Hesokirishito/Jesucristo+gndr@m.+sem@NP.person][NRoot][=Jesus.Christ]" : {hesokirishito}
 ! 
 | "[=Kirishito/Cristo+gndr@m.+sem@NP.person][NRoot][=Christ]" : {kirishito}
+| "[=konyori/koñori+gndr@m.+sem@NP.person][NRoot][=Koñori]" : {konyori}
 ! 
 | "[=Hesoshi/Jesús+gndr@m.+sem@NP.person][NRoot][=Jesus]" : {hesoshi}
 # ------------------------------------------------------------------
@@ -4271,6 +4272,10 @@ define NRootPRQin [
 ! 
 | "[=oretsi+gndr@m.+sem@crustacean][NRoot][=lobster.sp. (ES: sp.de.langosta), crustacean.sp. (ES: sp.de.crustáceo)]" : {oretsi}
 | "[=oritsi+gndr@m.+sem@crustacean][NRoot][=lobster.sp. (ES: sp.de.langosta), crustacean.sp. (ES: sp.de.crustáceo)]" : {oritsi}
+# ---------------------------------------------------------------------
+! 
+| "[=oreta+inal@ntsi.+poss@ne:ni.][NRoot][=serving.of.chopped.cassava (ES: comedero.de.yuca.picada)]" : {oreta}
+| "[=oretaa+inal@ntsi.+poss@ne:ni.][NRoot][=serving.of.chopped.cassava (ES: comedero.de.yuca.picada)]" : {oretaa}
 # ---------------------------------------------------------------------
 ! 
 | "[=oshinke][NRoot][=river.wave, turbulence.of.the.river (ES: olada, ola.de.río)]" : {oshinke}
