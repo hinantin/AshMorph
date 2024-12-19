@@ -44,7 +44,8 @@ TZEpenthesisRule8
       define VCausativeAgentiveRule1 [ v"@AGTCAUS@"k -> v"@AGTCAUS@", v"@AGTCAUS@"k -> v"@AGTCAUS@"k || [{o}] _ [{a}] ]; 
       define VCausativeAgentiveRule2 [ v"@AGTCAUS@"k -> v"@AGTCAUS@", v"@AGTCAUS@"k -> v"@AGTCAUS@"k || [{a}|{i}]"@VPERS@" _ [{a}] ]; 
 	  # obionkaka / ovionkaka / acumular 
-      define VCausativeAgentiveRule3 [ v"@AGTCAUS@"p -> v"@AGTCAUS@", v"@AGTCAUS@"p -> v"@AGTCAUS@"p || [{o}] _ [{i}] ]; 
+    # Rowáriyàkiro 
+      define VCausativeAgentiveRule3 [ v"@AGTCAUS@"p -> v"@AGTCAUS@", v"@AGTCAUS@"p -> v"@AGTCAUS@"p || [{o}] _ [{i}|{a}] ]; 
       define CausativeAgentive [ VCausativeAgentiveRule1 .o. VCausativeAgentiveRule2 .o. VCausativeAgentiveRule3 ]; 
       
       define IrrealisMidVoiceEmpaRule1 [ e"@EP" (->) "@EP" || [{r}] _ [{empa}] ];  
@@ -109,9 +110,10 @@ TZEpenthesisRule8
       #          Lenition Rules         #
       ###################################
 
-      define PWLenitionRule1 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{o}] _ [{i}|{a}|{o}] ]; 
+      define PWLenitionRule1 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{o}] _ [{i}|{y}|{a}|{o}] ]; 
                                                                             # nopito (in our lexicon) -> no@PHONPROC@pito -> no@PHONPROC@vito -> novito 
                                                                             # nopochokine (in our lexicon) -> no@PHONPROC@pochokine -> no@PHONPROC@bochokine -> nobochokine 
+                                                                            # opyaare (in our lexicon) -> o@PHONPROC@vyaare  -> o@PHONPROC@wyaare  -> owyaare 
       define PWLenitionRule2 [ "@PHONPROC@"p (->) "@PHONPROC@"v || [{i}] _ [{e}|{i}|{a}|{o}] ]; 
                                                                             # ipentaki (in our lexicon) -> i@PHONPROC@pentaki -> i@PHONPROC@ventaki -> iventaki 
                                                                             # ipanko (in our lexicon) -> i@PHONPROC@panko -> i@PHONPROC@vanko -> ivanko 

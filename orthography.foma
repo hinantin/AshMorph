@@ -5,9 +5,9 @@
       # allow upper/lower case letters #
       #--------------------------------#
 
-      define Lowercase [A (->) a, B (->) b, C (->) c,D (->) d,E (->) e,F (->) f,G (->) g,H (->) h,I (->) i,J (->) j,K (->) k,L (->) l,M (->) m,N (->) n,O (->) o,P (->) p,Q (->) q,R (->) r,S (->) s,T (->) t,U (->) u,V (->) v,W (->) w,X (->) x,Y (->) y,Z (->) z,Ñ (->) ñ,Ã (->) ã,Ĩ (->) ĩ,Õ (->) õ,Ẽ (->) ẽ,Ê (->) ê,Î (->) î,Ô (->) ô];
+      define Lowercase [A (->) a, B (->) b, C (->) c,D (->) d,E (->) e,F (->) f,G (->) g,H (->) h,I (->) i,J (->) j,K (->) k,L (->) l,M (->) m,N (->) n,O (->) o,P (->) p,Q (->) q,R (->) r,S (->) s,T (->) t,U (->) u,V (->) v,W (->) w,X (->) x,Y (->) y,Z (->) z,Ñ (->) ñ,Ã (->) ã,Ĩ (->) ĩ,Õ (->) õ,Ẽ (->) ẽ,Ê (->) ê,Î (->) î,Ô (->) ô,À (->) à];
 
-      define UpperCase [ a (->) A,b (->) B,c (->) C,d (->) D,e (->) E,f (->) F,g (->) G,h (->) H,i (->) I,j (->) J,k (->) K,l (->) L,m (->) M,n (->) N,o (->) O,p (->) P,q (->) Q,r (->) R,s (->) S,t (->) T,u (->) U,v (->) V,w (->) W,x (->) X,y (->) Y,z (->) Z,ñ (->) Ñ,ã (->) Ã,ĩ (->) Ĩ,õ (->) Õ,ẽ (->) Ẽ,ê (->) Ê,î (->) Î,ô (->) Ô];
+      define UpperCase [ a (->) A,b (->) B,c (->) C,d (->) D,e (->) E,f (->) F,g (->) G,h (->) H,i (->) I,j (->) J,k (->) K,l (->) L,m (->) M,n (->) N,o (->) O,p (->) P,q (->) Q,r (->) R,s (->) S,t (->) T,u (->) U,v (->) V,w (->) W,x (->) X,y (->) Y,z (->) Z,ñ (->) Ñ,ã (->) Ã,ĩ (->) Ĩ,õ (->) Õ,ẽ (->) Ẽ,ê (->) Ê,î (->) Î,ô (->) Ô,à (->) À];
 
       ##########################
       #        Ortography      #
@@ -41,7 +41,7 @@
 
       define BReplacement1 [ {v} (->) {b} || _ Vowels ];
       define BReplacement2 [ {nv} (->) {mb} || _ Vowels ];
-      define WReplacement [ {v} (->) {w} || _ Vowels ];
+      define WReplacement [ {v} (->) {w} || _ [Vowels|y] ]; ! owyaare 
       define HUReplacement [ {v} (->) {hu} || _ [i|o] ]; ! kuhuinco -> kuvinco, shihuonso -> shivonso
 
       define PIReplacement [ {py} (->) {pi} || _ [a|á] ];
@@ -55,7 +55,11 @@
       define THReplacement [ {ts} -> {th}, {ts} -> {ts} || _ [a|e|i|o|á|é|í|ó] ];
 
       define NYReplacement [ {ny} (->) {ñ} || _ Vowels ];
-      define VowelsWithAccent [ {a} (->) {á}, {a} (->) {à}, {e} (->) {é}, {e} (->) {è}, {i} (->) {í}, {i} (->) {ì},{o} (->) {ó},{o} (->) {ò}, {u} (->) {ú}];
+
+      # GRAVE ACCENT
+      # À à
+      define VowelsWithGraveAccent [ {a} (->) {à} ];      
+      define VowelsWithAccent [ {a} (->) {á}, {e} (->) {é}, {e} (->) {è}, {i} (->) {í}, {i} (->) {ì},{o} (->) {ó},{o} (->) {ò}, {u} (->) {ú}];
 
       define UReplacement1 [ {o} (->) {u} || [Cons] _ [Cons] ]; # ayumpari, kubantsi
       define UReplacement2 [ {o} (->) {u} || [Cons] _ [a|e] ]; # kuakitzi, wuempo , kuaritotzi 
@@ -79,7 +83,7 @@
 	define VYOnset1 [ {vi} -> {vy} || _ [a|á] ]; ! áawianèro -> áawyanèro 
 	define VYOnset2 [ {wi} -> {wy} || _ [a|á] ];
       define MYOnset1 [ {mi} -> {my} || _ [a|á] ]; ! ishèmiakotáshitawo -> ishèmyakotáshitawo
-
+      
       # ------------------------------------------
       # Seen in Ashanĩka do Rio Amônia
       # ------------------------------------------
@@ -135,7 +139,7 @@
 .o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
 .o. ZReplacement1 
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
-.o. PIReplacement .o. KIReplacement .o. KIReplacement2 .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent 
+.o. PIReplacement .o. KIReplacement .o. KIReplacement2 .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent .o. VowelsWithGraveAccent 
 .o. ATildeReplacement1 .o. ATildeReplacement2 .o. ETildeReplacement1 .o. ETildeReplacement2 .o. ITildeReplacement1 .o. ITildeReplacement2 .o. OTildeReplacement1 .o. OTildeReplacement2 
 .o. NYTildeReplacement1 .o. NYTildeReplacement2 
 .o. UReplacement1 .o. UReplacement2 .o. UReplacement3 .o. UReplacement4  
