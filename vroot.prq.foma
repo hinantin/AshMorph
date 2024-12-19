@@ -42,6 +42,7 @@
 
 # Alternations depending on reality status (→ CHANGE REFLECTED IN THE UPPER SIDE)
 # 7: morphophonemics +mrph.phon@RS-Altern:y$→IRR→g$. [^...$] start and the end of a lexicon entry 
+#                    +mrph.phon@RS-Altern:y$→IRR→v$.
 # RS-Altern: Alternations Based on Reality Status 
 
 # ---------------------------------------- 
@@ -2095,7 +2096,7 @@ define VRootPRQin [
 !| "[=ohamanineentane+~{'to.delay':ohamani}{SENSORY:neent}{INTNS:a}{POSS:ne}+inal@ntsi.][NRoot][=...]" : {ohamanineentane} ! @section:noun@ 
 # --------------------------------------------------------------------
 ! 
-| "[=ov+INF@(a)antsi.][VRoot][=to.eat (ES: comer)]" : {ov}
+| "[=ov+INF@(a)antsi.+mrph.phon@RS-Altern:y$→IRR→v$.][VRoot][=to.eat (ES: comer)]" : {ov}
 | "[=o+~{V:/'to.eat':ov/}{L.DEL:v}+INF@aantsi.][VRoot][=to.eat (ES: comer)]" : {o} ! oacha, =o-ach-a
 | "[=oy][VRoot][=to.eat (ES: comer)]" : {oy}
 ! ivajyari / ivahyari / i- =v -ah -ya -ri / 3m.a- =to.eat -regr -irr -3m.o / ES: 'lo.comen'  
