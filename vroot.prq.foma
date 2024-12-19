@@ -3080,7 +3080,7 @@ define VRootPRQin [
 | "[=ta+INF@antsi.][VRoot][=to.burn (ES: quemar)]" : {ta}
 | "[=taa][VRoot][=to.burn (ES: quemar)]" : {taa}
 | "[=tay][VRoot][=to.burn (ES: quemar)]" : {tay}
-| "[=tag+INF@antsi.+mrph.phon@LEN:y$→g$.][VRoot][=to.burn (ES: quemar)]" : {tag}
+| "[=tag+INF@antsi.+mrph.phon@RS-Altern:y$→IRR→g$.][VRoot][=to.burn (ES: quemar)]" : {tag}
 ! 
 | "[=taa+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taataa}
 #@TOTREDUPCLASS01| "[=taa+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taa} ! taataa 
