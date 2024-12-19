@@ -143,7 +143,11 @@ define NRootESin [
 ! 
 ! noyomonirateki / no- =komonira -te -ki / 1sg.poss- =community -aln.poss. -loc / EN: 'in.my.community'
 | "[=comunidad/komonira+poss@te.][NRoot:ES][=community]" : {komonira}
+| "[=comunidad/komunidaa+poss@te.][NRoot:ES][=community]" : {komunidaa}
+! 
 | "[=comunero/komoneero+poss@te.+mrph.phon@LEN:^k→^y.][NRoot:ES][=villager]" : {komoneero}
+! 
+| "[=cocina/koshina+poss@te.+mrph.phon@LEN:^k→^y.][NRoot:ES][=kitchen]" : {koshina}
 ! 
 | "[=costal/kostari][NRoot:ES][=burlap-bag (ES: costal)]" : {kostari}
 | "[=talega/kostari][NRoot:ES][=burlap-bag (ES: talega)]" : {kostari}

@@ -40,11 +40,15 @@
 #         f.tech.	fishing technique 
 #    there are more semantic labels 
 
+# Alternations depending on reality status (→ CHANGE REFLECTED IN THE UPPER SIDE)
+# 7: morphophonemics +mrph.phon@RS-Altern:y$→IRR→g$. [^...$] start and the end of a lexicon entry 
+# RS-Altern: Alternations Based on Reality Status 
+
 # ---------------------------------------- 
 # "SYNTACTIC RELATIONS" : 
 # ----------------------------------------
 # pan-Ashaninka possesses extensive agreement or cross-refencing, signaling the syntactic relation as a morphologcal characteristic, will facilitate the syntactic analysis.
-# 7: syntactic relation  +synt.rel@…↓….  
+# 8: syntactic relation  +synt.rel@…↓….  
 #                        +synt.rel@…↶↷…. 
 #                        +synt.rel@…↲↳…. 
 #                        +synt.rel@VROOT↓snt.c. 
@@ -870,9 +874,9 @@ define VRootPRQin [
 # --------------------------------------------
 ! 
 | "[=ir+INF@aantsi.][VRoot][=to.cry (ES: llorar)]" : {ir}
-| "[=ira][VRoot][=to.cry (ES: llorar)]" : {ira}
-| "[=irag][VRoot][=to.cry (ES: llorar)]" : {irag}
-| "[=irah][VRoot][=to.cry (ES: llorar)]" : {irah}
+| "[=ira+INF@antsi.][VRoot][=to.cry (ES: llorar)]" : {ira}
+| "[=irag+INF@aantsi.][VRoot][=to.cry (ES: llorar)]" : {irag}
+!| "[=irah][VRoot][=to.cry (ES: llorar)]" : {irah}
 ! 
 | "[2S/A+][p-][--][=ira+tot.redup@unb.copy.][VRoot][=to.cry (ES: llorar)]" : {pirapira}
 | "[=ira+tot.redup@unb.copy.][VRoot][=to.cry (ES: llorar)]" : {iraira}
@@ -1326,6 +1330,7 @@ define VRootPRQin [
 # ----------------------------------------------------------
 ! 
 | "[=kishi+INF@/EP:t/aantsi.][VRoot][=to.comb.sth., to.pull.comb.through.sb's.hair (ES: peinar)]" : {kishi}
+| "[=keshi+INF@/EP:t/aantsi.][VRoot][=to.comb.sth., to.pull.comb.through.sb's.hair (ES: peinar)]" : {keshi}
 # ----------------------------------------------------------
 ! 
 | "[=kiso+INF@/EP:t/VC.][VRoot][=to.be.hard (ES: estar.duro); to.join.tightly-and-rigidly]" : {kiso} 
@@ -3075,7 +3080,7 @@ define VRootPRQin [
 | "[=ta+INF@antsi.][VRoot][=to.burn (ES: quemar)]" : {ta}
 | "[=taa][VRoot][=to.burn (ES: quemar)]" : {taa}
 | "[=tay][VRoot][=to.burn (ES: quemar)]" : {tay}
-| "[=tag][VRoot][=to.burn (ES: quemar)]" : {tag}
+| "[=tag+INF@antsi.+mrph.phon@LEN:y$→g$.][VRoot][=to.burn (ES: quemar)]" : {tag}
 ! 
 | "[=taa+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taataa}
 #@TOTREDUPCLASS01| "[=taa+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taa} ! taataa 

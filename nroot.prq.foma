@@ -2612,6 +2612,7 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 # kipatsi: country, earth, soil, ground, land, dirt, dust 
 | "[=kipatsi+gndr@n.m.+poss@te:ti.+mrph.phon@LEN:^k→^Ø.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa);| mud;| land]" : {kipatsi} ! @section:noun@ 
+| "[=kepatsi+gndr@n.m.+poss@te:ti.+mrph.phon@LEN:^k→^Ø.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa);| mud;| land]" : {kepatsi} ! @section:noun@ 
 | "[=kipatsiki][NRoot][=world (ES: mundo)]" : {kipatsiki} ! @section:noun@ 
 | "[=kipatsini][NRoot][=ground (ES: suelo)]" : {kipatsini}
 | "[=kipatsira][NRoot][=land (ES: terreno)]" : {kipatsira}
@@ -2711,10 +2712,15 @@ define NRootPRQin [
 # ---------------------------------------------------------------------------
 ! 
 | "[=kishi+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^k→^Ø.][NRoot][=hair (ES: cabello, pelo; PT: pelo; QU: chukcha)]" : {kishi} ! @section:noun@ 
+| "[=keshi+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^k→^Ø.][NRoot][=hair (ES: cabello, pelo; PT: pelo; QU: chukcha)]" : {keshi}
 | "[=iishi+gndr@n.m.+inal@ntsi.+mrph.phon@DEL:^ii→^i.][NRoot][=hair (ES: cabello, pelo)]" : {iishi}
 | "[=eeshi+gndr@n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {eeshi}
 !| "[=iishi+gndr@n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {iishi}
 | "[=ishi+gndr@n.m.+inal@ntsi.][NRoot][=hair (ES: cabello, pelo)]" : {ishi}
+# ---------------------------------------------------------------------------
+! 
+| "[=keshiri+mrph.phon@LEN:^k→^Ø.][NRoot][=comb (ES: peine)]" : {keshiri}
+| "[=kishiri+mrph.phon@LEN:^k→^Ø.][NRoot][=comb (ES: peine)]" : {kishiri}
 # ---------------------------------------------------------------------------
 ! 
 | "[=kishitari][NRoot][=place.where.shaman-tiger.messed.up.sb's.hair (ES: Mariscal.Cáceres)]" : {kishitari}

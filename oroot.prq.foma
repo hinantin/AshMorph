@@ -285,8 +285,9 @@ define ORootPRQin [
 | "[=terika][ConnRoot][=DISJUNCTION (EN: if.not, or; maybe)]" : {terika}
 # ---------------------------------------------- 
 ! 
-! IRREGULAR VERB 
-! to.eat 
+! IRREGULAR VERBS 
+! TO.EAT  
+! IRREALIS 
 !| "[=ya][VRoot][=eat]" : {ya}
 | "[no-][VPers][1SG.S/A+][--][=Ø][VRoot][=to.eat (ES: comer)][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : {noya}
 | "[no-][VPers][1SG.S/A+][--][=Ø][VRoot][=to.eat (ES: comer)][--][-yaa+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : {noyaa}
@@ -295,6 +296,9 @@ define ORootPRQin [
 | "[a-][VPers][1PL.S/A+][--][=Ø][VRoot][=to.eat (ES: comer)][--][-yaa+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR][--][=ri][+3m.O/P]" : {ayaari}
 | "[y-][VPers][3m.S/A+][--][=o][VRoot][=to.eat (ES: comer)][--][-yaa+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : {yoyaa}
 | "[a-][VPers][1PL.S/A+][--][=Ø][VRoot][=to.eat (ES: comer)][--][-yea+allomorph@eNpa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]" : {ayea}
+! 
+! REALIS
+| "[n-][VPers][1SG.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]" : {nova}
 ! 
 ! to.dry.in.the.sun 
 ! noroyero / n- =orov -ye =ro / 
