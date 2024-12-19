@@ -42,7 +42,9 @@
 
 # Alternations depending on reality status (→ CHANGE REFLECTED IN THE UPPER SIDE)
 # 7: morphophonemics +mrph.phon@RS-Altern:y$→IRR→g$. [^...$] start and the end of a lexicon entry 
+#                    +mrph.phon@RS-Altern:Ø$→REAL→g$.
 #                    +mrph.phon@RS-Altern:y$→IRR→v$.
+#                    +mrph.phon@RS-Altern:i$→IRR→g$.
 # RS-Altern: Alternations Based on Reality Status 
 
 # ---------------------------------------- 
@@ -876,7 +878,7 @@ define VRootPRQin [
 ! 
 | "[=ir+INF@aantsi.][VRoot][=to.cry (ES: llorar)]" : {ir}
 | "[=ira+INF@antsi.][VRoot][=to.cry (ES: llorar)]" : {ira}
-| "[=irag+INF@aantsi.][VRoot][=to.cry (ES: llorar)]" : {irag}
+| "[=irag+INF@aantsi.+mrph.phon@RS-Altern:{y$→IRR:Ø$→REAL}→g$.][VRoot][=to.cry (ES: llorar)]" : {irag}
 !| "[=irah][VRoot][=to.cry (ES: llorar)]" : {irah}
 ! 
 | "[2S/A+][p-][--][=ira+tot.redup@unb.copy.][VRoot][=to.cry (ES: llorar)]" : {pirapira}
@@ -1506,7 +1508,7 @@ define VRootPRQin [
 | "[=kotzi][VRoot][=to.walk.with.a.cane]" : {kotzi}
 # --------------------------------------------------------- 
 ! 
-| "[=kov+INF@antsi.][VRoot][=to.want (ES: querer)]" : {kov} ! @section:verb@ 
+| "[=kov+INF@antsi.+mrph.phon@RS-Altern:y$→IRR→v$.][VRoot][=to.want (ES: querer)]" : {kov} ! @section:verb@ 
 | "[=ko+INF@antsi.][VRoot][=to.want (ES: querer)]" : {ko} 
 ! 
 | "[=kov+prtl.redup@b.copy.][VRoot][=to.want (ES: querer)]::[=to.prefer.strongly]" : {kokov} 
