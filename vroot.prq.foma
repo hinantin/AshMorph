@@ -96,7 +96,8 @@ define VRootPRQin [
 ! 
 | "[=am][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {am}
 | "[=aam][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aam}
-| "[=aam+INF@agaantsi.][VRoot][=to.be.suspicious.of.sb. (ES: estar.receloso.de.algn.)]" : {aam}
+| "[=aamag+INF@aantsi.][VRoot][=to.be.suspicious.of.sb. (ES: estar.receloso.de.algn.)]" : {aamag}"@RSAltern@"
+| "[=aamaag+INF@aantsi.][VRoot][=to.be.suspicious.of.sb. (ES: estar.receloso.de.algn.)]" : {aamaag}"@RSAltern@" ! to be checked 
 ! 
 | "[=aamavent+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido, prevenir); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavent}
 | "[=aamavint+INF@aantsi.][VRoot][=to.watch.out.for.sth/sb. (ES: estar.prevenido, prevenir); to.beware.of.sth/sb. (ES: tener.cuidado.de.algo/algn.)]" : {aamavint}
@@ -880,7 +881,7 @@ define VRootPRQin [
 ! 
 | "[=ir+INF@aantsi.][VRoot][=to.cry (ES: llorar)]" : {ir}
 | "[=ira+INF@antsi.][VRoot][=to.cry (ES: llorar)]" : {ira}
-| "[=irag+INF@aantsi.+mrph.phon@RS-Altern:{y$→IRR:Ø$→REAL}→g$.][VRoot][=to.cry (ES: llorar)]" : {irag}
+| "[=irag+INF@aantsi.+mrph.phon@RS-Altern:{y$→IRR:Ø$→REAL}→g$.][VRoot][=to.cry (ES: llorar)]" : [{irag}]"@RSAltern@"
 !| "[=irah][VRoot][=to.cry (ES: llorar)]" : {irah}
 ! 
 | "[2S/A+][p-][--][=ira+tot.redup@unb.copy.][VRoot][=to.cry (ES: llorar)]" : {pirapira}
@@ -1623,7 +1624,7 @@ define VRootPRQin [
 ! 
 | "[=pants+INF@agaantsi:(a)antsi.][VRoot][=to.sing.(a.shamanic.song.individually) (ES: cantar)]" : {pants} ! V@->N::[=(individual).singing] 
 | "[=pantsa+INF@/DEL:a/ntsi:antsi.][VRoot][=to.sing.(a.shamanic.song.individually) (ES: cantar); to.sing.individually]" : {pantsa}
-| "[=pantsag+INF@aantsi.][VRoot][=to.sing (ES: cantar)]" : {pantsag}
+| "[=pantsag+INF@aantsi.][VRoot][=to.sing (ES: cantar)]" : {pantsag}"@RSAltern@"
 # --------------------------------------------------------- 
 ! 
 | "[=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar)]" : {man}
@@ -2100,9 +2101,9 @@ define VRootPRQin [
 !| "[=ohamanineentane+~{'to.delay':ohamani}{SENSORY:neent}{INTNS:a}{POSS:ne}+inal@ntsi.][NRoot][=...]" : {ohamanineentane} ! @section:noun@ 
 # --------------------------------------------------------------------
 ! 
-| "[=ov+INF@(a)antsi.+mrph.phon@RS-Altern:y$→IRR→v$.][VRoot][=to.eat (ES: comer)]" : {ov}
+| "[=ov+INF@(a)antsi.+mrph.phon@RS-Altern:y$→IRR→v$.][VRoot][=to.eat (ES: comer)]" : [{ov}]"@RSAltern@"
 | "[=o+~{V:/'to.eat':ov/}{L.DEL:v}+INF@aantsi.][VRoot][=to.eat (ES: comer)]" : {o} ! oacha, =o-ach-a
-| "[=oy][VRoot][=to.eat (ES: comer)]" : {oy}
+!| "[=oy][VRoot][=to.eat (ES: comer)]" : {oy}
 ! ivajyari / ivahyari / i- =v -ah -ya -ri / 3m.a- =to.eat -regr -irr -3m.o / ES: 'lo.comen'  
 | "[=v][VRoot][=to.eat (ES: comer)]" : {v} 
 ! 
@@ -3084,8 +3085,8 @@ define VRootPRQin [
 ! 
 | "[=ta+INF@antsi.][VRoot][=to.burn (ES: quemar)]" : {ta}
 | "[=taa][VRoot][=to.burn (ES: quemar)]" : {taa}
-| "[=tay][VRoot][=to.burn (ES: quemar)]" : {tay}
-| "[=tag+INF@antsi.+mrph.phon@RS-Altern:y$→IRR→g$.][VRoot][=to.burn (ES: quemar)]" : {tag}
+!| "[=tay][VRoot][=to.burn (ES: quemar)]" : {tay}
+| "[=tag+INF@antsi.+mrph.phon@RS-Altern:y$→IRR→g$.][VRoot][=to.burn (ES: quemar)]" : {tag}"@RSAltern@"
 ! 
 | "[=taa+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taataa}
 #@TOTREDUPCLASS01| "[=taa+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.burn (ES: quemar)]" : {taa} ! taataa 
@@ -3768,17 +3769,18 @@ define VRootPRQin [
 | "[=ovami+INF@/EP:t/aantsi.][VRoot][=to.teach (ES: enseñar)]" : {ovami}
 | "[=oame+INF@/EP:t/aantsi.][VRoot][=to.teach (ES: enseñar)]" : {oame} ! oame-t-ant-atsi-ri 
 ! 
-| "[=yo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)]" : {yo}
+| "[=yo+INF@/EP:t/aantsi.][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)]" : {yo}
 | "[=yot+INF@(a)antsi:agaantsi.][VRoot][=to.know (ES: conocer, saber)]" : {yot}
 | "[=yotani+INF@/EP:t/aantsi.][VRoot][=to.know (ES: conocer, saber)]" : {yotani} ! V@->N::[=knowledge (ES: conocimiento)] 
 | "[=yotane+INF@/EP:t/aantsi.][VRoot][=to.know (ES: conocer, saber)]" : {yotane}
-| "[=iyot+INF@aantsi:agaantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iyot}
-| "[=iyo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.know (ES: saber); to.learn (ES: aprender)]" : {iyo}
+| "[=iyot+INF@aantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iyot}
+| "[=iyo+INF@/EP:t/aantsi.][VRoot][=to.know (ES: saber); to.learn (ES: aprender)]" : {iyo}
 # niotantari / n- =iot -ant -a -ri / ES: 'entendimiento'  
 | "[=iot+INF@aantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)]" : {iot}
 ! 
-| "[=iyotak][VRoot][=to.teach (ES: enseñar)]" : {iyotak} ! this a compound 
-| "[=iyotag+INF@aantsi.][VRoot][=to.teach (ES: enseñar)]" : {iyotag}
+!| "[=iyotak][VRoot][=to.teach (ES: enseñar)]" : {iyotak} ! this a compound + ako 
+| "[=iyotag+INF@aantsi.][VRoot][=to.teach (ES: enseñar)]" : [{iyotag}]"@RSAltern@"
+| "[=yotag+INF@aantsi.][VRoot][=to.teach (ES: enseñar)]" : [{yotag}]"@RSAltern@"
 # --------------------------------------------------------------------------- 
 ! 
 | "[=iyokitzii+INF@/EP:t/aantsi][VRoot][=to.be.amazed/astonished (ES: asombrarse)]" : {iyokitzii}

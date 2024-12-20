@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"|"@RSAltern@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"|"@RSAltern@"]];
        define Cleanup [Cleanup2];
 
       source orthography.foma 
@@ -50,6 +50,21 @@ TZEpenthesisRule8
       
       define IrrealisMidVoiceEmpaRule1 [ e"@EP" (->) "@EP" || [{r}] _ [{empa}] ];  
       
+      ##########################
+      #                        #
+      #   Reality Status       #
+      #   Alternations         #
+      #                        #
+      ##########################
+      define VRSAlternRule1 [ v"@RSAltern@" (->) y"@RSAltern@" || [{o}] _ "@EP"[{a}] ];
+      define GRSAlternRule1 [ g"@RSAltern@" (->) y"@RSAltern@" || _ "@EP"[a|e|i] ];
+      define GRSAlternRule2 [ g"@RSAltern@" (->) i"@RSAltern@" || _ "@EP@"[t] ];
+      define GRSAlternRule3 [ g"@RSAltern@" (->) [{ye}|{yi}]"@RSAltern@" || _ "@EP@"[t] ];
+      define GRSAlternRule4 [ g"@RSAltern@" (->) "@RSAltern@" || [a] _ "@EP@"[a] ]; # piráanaka… 
+      define RSAltern [ 
+VRSAlternRule1 .o. 
+GRSAlternRule1 .o. GRSAlternRule2 .o. GRSAlternRule3 .o. GRSAlternRule4 
+];
       ##########################
       #                        #
       #        Transitive      #
@@ -302,7 +317,7 @@ TZEpenthesisRule8
       ############################
       #      Verb transducer     #
       ############################
-      define Verb [ [ [ (Pref) [VRootPRQ] ] | [VRootREDUPin] ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. LenitionIncNoun .o. VerbFeatRestr;
+      define Verb [ [ [ (Pref) [VRootPRQ] ] | [VRootREDUPin] ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. RSAltern .o. LenitionIncNoun .o. VerbFeatRestr;
       #define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Lenition .o. VerbFeatRestr;
       
       ##########################
