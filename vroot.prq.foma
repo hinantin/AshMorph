@@ -447,7 +447,8 @@ define VRootPRQin [
 | "[=antsire][VRoot][=to.untie.sth. (ES: desatar)]" : {antsire}
 | "[=ashire+INF@antsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {ashire}
 | "[=ashiry+INF@aantsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {ashiry}
-| "[=shiry+INF@agaantsi.][VRoot][=to.untie.sth. (ES: desatar)]" : {shiry}
+| "[=shiry+INF@VC.][VRoot][=to.untie.sth. (ES: desatar)]" : {shiry} ! validity to be checked 
+| "[=shiryag+INF@aantsi.+mrph.phon@RS-Altern:Ø$→REAL→g$.][VRoot][=to.untie.sth. (ES: desatar)]" : {shiryag}"@RSAltern@" ! rishiryaantaawori 
 # --------------------------------------------------------------------------------  
 ! 
 | "[=ateh+INF@aantsi.][VRoot][=to.fake (ES: fingir)]" : {ateh}
@@ -1921,6 +1922,7 @@ define VRootPRQin [
 ! 
 | "[=nya+allomorph@ña.+INF@antsi.][VRoot][=to.speak (ES: hablar)]" : {nya}
 | "[=nyaa+allomorph@ñaa.+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nyaa}
+| "[=nyaag+allomorph@ñaa.+INF@(a)antsi.][VRoot][=to.speak (ES: hablar)]" : {nyaag}"@RSAltern@"
 | "[=nea+INF@/DEL:a/ntsi.][VRoot][=to.speak (ES: hablar)]" : {nea}
 | "[=nea+INF@/DEL:a/ntsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {neanea} ! noneaneatempi
 #@TOTREDUPCLASS02| "[=ne+INF@antsi.+tot.redup@unb.copy.][VRoot][=to.speak (ES: hablar)]::[= (ES: hablar.mucho.sobre.algo)]" : {ne} ! neanea noneaneatempi 
@@ -2056,7 +2058,8 @@ define VRootPRQin [
 ! 
 | "[=okire+INF@aantsi.][VRoot][=to.amaze (ES: asombrar)]" : {okire}
 | "[=okirea][VRoot][=to.amaze (ES: asombrar)]" : {okirea}
-| "[=okiry+INF@aantsi:agaantsi.][VRoot][=to.amaze (ES: asombrar)]" : {okiry}
+| "[=okiry+INF@aantsi.][VRoot][=to.amaze (ES: asombrar)]" : {okiry}
+| "[=okiryag+INF@aantsi.+mrph.phon@RS-Altern:Ø$→REAL→g$.][VRoot][=to.amaze (ES: asombrar); to.open.one's.eyes (ES: abrir.los.ojos)]" : {okiry}"@RSAltern@" # nokirynanai
 ! 
 !| "[=okireatsataa+inal@ntsi.][NRoot][=interjection]" : {okireatsataa} ! @section:noun@ 
 # --------------------------------------------------------------------
