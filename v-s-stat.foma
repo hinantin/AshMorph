@@ -45,6 +45,7 @@ define V=S=STAT=SET1 [
 ! noetsaare kityonkari oobaenchari / no- =ketsaa -re ** =kityonka -ri ** =oob -aencha -ri / 1sg.poss- =dress -nmz ** =to.be.red -adj ** =to.put.sth.out.in.the.sun -stat -rel / ES: 'el.vestido.rojo.que.está.soleado'; EN: 'the.red.dress.that.was.put.out.in.the.sun' 
 ! Bankanainchari /NMZ> vankanainchari / =vank -an -aincha -ri / =to.lift.sth.up -dir+departing -stat -rel / EN: 'that.has.been.lifted.up.(departing)'; ES: 'que.ha.subido' 
 | "[--][-incha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{incha}]
+| "[--][-eencha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{eencha}]
 | "[--][-aincha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aincha}]
 | "[--][-aencha][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]" : "@EP"[{aencha}]
 ];
