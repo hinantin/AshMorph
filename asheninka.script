@@ -1,8 +1,8 @@
        #--------------------------------------------------------#
        # delete all tags and special chars in surface forms     #
        #--------------------------------------------------------#
-       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"|"@RSAltern@"] -> ""];
-       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"|"@RSAltern@"]];
+       define Cleanup1  [["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"|"@RSAltern@"|"@SubRAAltern@"] -> ""];
+       define Cleanup2 ["" <- ["@EP"|"@EP@"|"@PHONPROC@"|"@PHONPROCCMPNOUN@"|"@PHONPROCINCNOUN@"|"@1SG@"|"@2@"|"@3m.@"|"@3n.m.@"|"@1PL@"|"@NPOSS"|"@AGTCAUS@"|"@MP@"|"@I@"|"@NI@"|"@NVowel@"|"@VPERS@"|"@NMZ@"|"@ALNPOSS@"|"@IDIM@"|"@RSAltern@"|"@SubRAAltern@"]];
        define Cleanup [Cleanup2];
 
       source orthography.foma 
@@ -52,9 +52,11 @@ TZEpenthesisRule8
       
       ##########################
       #                        #
-      #   Reality Status       #
       #   Alternations         #
       #                        #
+      ##########################
+      ##########################
+      #   Reality Status       #
       ##########################
       define VRSAlternRule1 [ v"@RSAltern@" (->) y"@RSAltern@" || [{o}] _ "@EP"[{a}] ];
       define GRSAlternRule1 [ g"@RSAltern@" (->) y"@RSAltern@" || _ "@EP"[a|e|i] ];
@@ -62,10 +64,19 @@ TZEpenthesisRule8
       define GRSAlternRule3 [ g"@RSAltern@" (->) [{ye}|{yi}]"@RSAltern@" || _ "@EP@"[t] ];
       define GRSAlternRule4 [ g"@RSAltern@" (->) "@RSAltern@" || [a] _ "@EP"[a] ]; # piráanaka… 
       define GRSAlternRule5 [ [{ag}]"@RSAltern@" (->) "@RSAltern@" || [{ts}] _ "@EP"[a] ]; # opantsag akotziri - opantsakotziri
-      define RSAltern [ 
+      ##########################
+      #   Subordinative        #
+      ##########################
+      define SubRAAlternRule1 [ [{ra}]"@SubRAAltern@" (->) [{wa}]"@SubRAAltern@" || [{a}] _  ];
+      define SubRAAlternRule2 [ [{ra}]"@SubRAAltern@" (->) [{ga}]"@SubRAAltern@" || [{a}] _  ];
+
+      define Altern [ 
 VRSAlternRule1 .o. 
-GRSAlternRule1 .o. GRSAlternRule2 .o. GRSAlternRule3 .o. GRSAlternRule4  .o. GRSAlternRule5 
+GRSAlternRule1 .o. GRSAlternRule2 .o. GRSAlternRule3 .o. GRSAlternRule4  .o. GRSAlternRule5 .o. 
+SubRAAlternRule1 .o. SubRAAlternRule2 
 ];
+
+
       ##########################
       #                        #
       #        Transitive      #
@@ -318,7 +329,7 @@ GRSAlternRule1 .o. GRSAlternRule2 .o. GRSAlternRule3 .o. GRSAlternRule4  .o. GRS
       ############################
       #      Verb transducer     #
       ############################
-      define Verb [ [ [ (Pref) [VRootPRQ] ] | [VRootREDUPin] ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. RSAltern .o. LenitionIncNoun .o. VerbFeatRestr;
+      define Verb [ [ [ (Pref) [VRootPRQ] ] | [VRootREDUPin] ] Suff ] .o. IrrealisMidVoiceEmpaRule1 .o. CausativeAgentive .o. Epenthesis .o. Altern .o. LenitionIncNoun .o. VerbFeatRestr;
       #define Verb [ (Pref) [VRootPRQ] (Suff) ] .o. CausativeAgentive .o. Lenition .o. VerbFeatRestr;
       
       ##########################
