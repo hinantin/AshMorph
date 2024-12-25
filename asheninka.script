@@ -200,10 +200,11 @@ SubRAAlternRule1 .o. SubRAAlternRule2
       #          Vowel Deletion Rules         #
       #########################################
 
-      define VowelLossRule3 [ i"@PHONPROC@" (->) "@PHONPROC@" || _ [{i}] ]; 
-      define VowelLossRule4 [ o"@PHONPROC@" (->) "@PHONPROC@" || _ [{o}] ]; 
+      define VowelLossRule1 [ i"@PHONPROC@" (->) "@PHONPROC@" || _ [{i}] ]; 
+      define VowelLossRule2 [ o"@PHONPROC@" (->) "@PHONPROC@" || _ [{o}] ]; 
+      define VowelLossRule3 [ "@PHONPROC@"i (->) "@PHONPROC@" || [{a}] _ [{n}|{y}|{h}] ];       
       
-      define VowelLoss [ VowelLossRule3 .o. VowelLossRule4 ];
+      define VowelLoss [ VowelLossRule1 .o. VowelLossRule2 .o. VowelLossRule3 ];
       
       ####################################
       #                                  #
