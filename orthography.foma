@@ -36,6 +36,7 @@
       define JReplacement2 [ {h} (->) {j} || .#. _ Vowels ]; # changing ja -> ha at the beginning of a word
       define JReplacement3 [ {h} (->) {j} || _ Vowels ]; # changing jemimimi -> jemimimi at the beginning of a word
       define JReplacement4 [ {h} (->) {j} || _ [{ya}|{yi}] ]; # iraanajya -> iraanahya ; aajyitataantsi -> aahyitataantsi
+      define JReplacement5 [ {h} (->) {j} || [{o}] _ [{ya}] ]; # Ojyakaawintachari
 
       define ZReplacement1 [ {s} (->) {z} || .#. _ Vowels ];
 
@@ -136,7 +137,7 @@
 .o. AYDiphthong1 .o. AYDiphthong2 .o. AYDiphthong3 .o. AYDiphthong4 .o. AYDiphthong5 .o. AYDiphthong6 .o. AYDiphthong7 .o. AYDiphthong8 .o. AYDiphthong9 .o. AYDiphthong10 
 .o. EYDiphthong1 
 .o. OYDiphthong1 .o. OYDiphthong2 .o. OYDiphthong3 .o. OYDiphthong4 .o. OYDiphthong5 .o. OYDiphthong6 
-.o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4 
+.o. JReplacement1 .o. JReplacement2 .o. JReplacement3 .o. JReplacement4  .o. JReplacement5 
 .o. ZReplacement1 
 .o. BReplacement1 .o. BReplacement2 .o. WReplacement .o. HUReplacement  
 .o. PIReplacement .o. KIReplacement .o. KIReplacement2 .o. RIReplacement .o. TIReplacement .o. THReplacement .o. NYReplacement .o. VowelsWithAccent .o. VowelsWithGraveAccent 
