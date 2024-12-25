@@ -291,8 +291,9 @@ SubRAAlternRule1 .o. SubRAAlternRule2
       # Nominalized verbs 
       define NPOSSRestr1 [ ["@NPOSS"[{ntsi}|{ntzi}|{nti}|{nchi}]] => ["@EP"[{ro}|{vo}|{re}|{ri}]"@NMZ@"] _ ]; 
       define NPOSSRestr2 [ ["@NPOSS"[{tsi}|{tzi}]] => ["@EP"[{mento}|{minto}]"@NMZ@"] _ ];
+      define NPOSSRestr3 [ ["@NPOSS"[{ntsi}|{ntzi}|{nti}|{nchi}]] => ["@EP"[{akaro}|{akavo}|{akaaro}|{akaavo}]"@NMZ@"] _ ]; 
 
-      define NominalizedVerbFeatRestr [ NPOSSRestr1 .o. NPOSSRestr2 ];
+      define NominalizedVerbFeatRestr [ NPOSSRestr1 .o. NPOSSRestr2 .o. NPOSSRestr3 ];
 
       define PWLenitionRuleIncNoun1 [ "@EP"p (->) "@PHONPROCINCNOUN@"v || [{a}] _ [{a}|{o}] ]; 
       define LenitionIncNoun [ PWLenitionRuleIncNoun1 ];  

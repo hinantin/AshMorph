@@ -12,6 +12,12 @@ define V=S=NMZ=SET1 [ # revise!
 #| "[--][-re+gndr@m.][NS][+NMZ]" : "@EP"[{re}]"@NMZ@" 
 # ----------------------------------
 #| "[--][-ri+gndr@m.][NS][+NMZ]" : "@EP"[{ri}] 
+# ----------------------------------
+| "[--][-ak][ASP][+PRF][--][-a][+EP][--][-ro+gndr@n.m.][NS][+NMZ]" : "@EP"[{akaro}]"@NMZ@" 
+| "[--][-ak][ASP][+PRF][--][-a][+EP][--][-vo+gndr@n.m.][NS][+NMZ]" : "@EP"[{akavo}]"@NMZ@" 
+| "[--][-aka][ASP][+PRF][--][-a][+EP][--][-ro+gndr@n.m.][NS][+NMZ]" : "@EP"[{akaaro}]"@NMZ@" 
+| "[--][-aka][ASP][+PRF][--][-a][+EP][--][-vo+gndr@n.m.][NS][+NMZ]" : "@EP"[{akaavo}]"@NMZ@" ! ojyakaawontsi
+# ----------------------------------
 ! 
 # followed by none 
 # QLTY quality 
@@ -21,7 +27,6 @@ define V=S=NMZ=SET1 [ # revise!
 | "[--][-enka][NS][+NMZ.QLTY]" : "@EP"[{enka}] 
 | "[--][-inka][NS][+NMZ.QLTY]" : "@EP"[{inka}] 
 ! 
-#| "[--][-ntsi][NS][+NMZ]" : "@EP"[{ntsi}] # this is not a nominalizing suffix 
 # followed by -tsi 
 | "[--][-mento+gndr@n.m.][NS][+NMZ.CONCR]" : "@EP"[{mento}]"@NMZ@"
 | "[--][-minto+gndr@n.m.][NS][+NMZ.CONCR]" : "@EP"[{minto}]"@NMZ@"

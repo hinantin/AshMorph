@@ -97,7 +97,7 @@ define V=S=ADV=SET1 [
 | "[--][-ra+loc@medial.][+ADV]" : "@EP"[{ra}] 
 | "[--][-nta+loc@distal.][+ADV]" : "@EP"[{nta}] 
 # ---------------------------------------------------------------
-| "[--][-ranki+tense@fused.t.][Asp][+ADV.P][=past.situation]" : "@EP"[{ranki}] 
+| "[--][-ranki+tense@fused.t.][Asp][+ADV.P][=past.situation]" : "@EP"[{ranki}]"@SubRAAltern@" 
 # ---------------------------------------------------------------
 | "[--][-ni][AS][+ADV]" : "@EP"[{ni}] 
 | "[--][-ini][AS][+ADV]" : "@EP"[{ini}] 

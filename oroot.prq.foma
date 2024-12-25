@@ -215,6 +215,9 @@ define ORootPRQin [
 | "[=kapichi][NRoot][=small][--][=kitaite][VRoot][=to.be.morning]::[=early]" : {kapichikitaite} 
 | "[=inkamane+~inka{EARLY:man}e][AdvRoot][=early (ES: temprano)]" : {inkamane} 
 | "[=inkaamane+~inka{EARLY:aman}e][AdvRoot][=early (ES: temprano)]" : {inkaamane} 
+| "[=inkaaganki+~inka{EP:a}{PAST.SITUATION:ranki}][AdvRoot][=before (ES: antes)]" : {inkaaganki} 
+| "[=inkaganki+~inka{PAST.SITUATION:ranki}][AdvRoot][=before (ES: antes)]" : {inkaganki} 
+| "[=inkaranki+~inka{PAST.SITUATION:ranki}][AdvRoot][=as.we.said.before (ES: como.dijimos.antes)]" : {inkaranki} 
 # ---------------------------------------------- 
 ! 
 | "[=o][ConnRoot][=CONN (EN: or)]" : {o}

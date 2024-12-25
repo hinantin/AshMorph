@@ -36,7 +36,7 @@
       define JReplacement2 [ {h} (->) {j} || .#. _ Vowels ]; # changing ja -> ha at the beginning of a word
       define JReplacement3 [ {h} (->) {j} || _ Vowels ]; # changing jemimimi -> jemimimi at the beginning of a word
       define JReplacement4 [ {h} (->) {j} || _ [{ya}|{yi}] ]; # iraanajya -> iraanahya ; aajyitataantsi -> aahyitataantsi
-      define JReplacement5 [ {h} (->) {j} || [{o}] _ [{ya}] ]; # Ojyakaawintachari
+      define JReplacement5 [ {h} (->) {j} || [{o}] _ [{y}] ]; # Ojyakaawintachari
 
       define ZReplacement1 [ {s} (->) {z} || .#. _ Vowels ];
 
