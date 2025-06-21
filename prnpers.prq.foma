@@ -6,20 +6,31 @@
 # ---------------------------------------- 
 
 define PrnPersPRQin [
-! Pragmatic functions +pragm.func 
-! SET 1: +cont.d.TOP. (continuous discourse topic)
-!         TOP 
-! SET 2: +cntr.add.l.FOC. (-ri: contrastive additive listing, +FOCUS) !  to be checked: these pronouns are used as reflexive forms with the meaning 'own'
-!         FOC 
-! SET 3: +cntr.EXH.l.FOC. (-taki~-take: contrastive exhaustive listing, +FOCUS)
-!         EXH.FOC 
-! SET 4: +CONTR.d.TOP. (-intsi: contrastive discourse TOPIC; extant.pronouns; meaning 'but X')
-!        +CONTR.cnt.assert.TOP. (-inti: contrastive counter-assertive TOPIC)
-!         CONTR.TOP 
-!        Example:
-!        Te nomayehi noponkantakari shiakomentotsiki irointikia noniro omake. / ES: 'Yo no dormí durante el viaje en carro, pero mi mamá si se durmió.'; EN: 'I did not sleep during the car trip, but my mom did.'
-! SET 5: +rflx.intsf. (-sati,-hatzi: reflexing intensifying; EN: 'too'; ES: 'también') 
-!         RFLX.INTSF 
+! Pragmatic Functions [+pragm.func]
+
+! SET 1: [+cont.d.TOP] — Continuous Discourse Topic
+!         Label: TOP
+
+! SET 2: [+cntr.add.l.FOC] — Contrastive Additive Listing Focus
+!         Label: FOC
+!         Note: These pronouns are used as reflexive forms with the meaning 'own'. (To be verified)
+
+! SET 3: [+cntr.EXH.l.FOC] — Contrastive Exhaustive Listing Focus (e.g., *-taki*, *-take*)
+!         Label: EXH.FOC
+
+! SET 4: 
+!   [+CONTR.d.TOP] — Contrastive Discourse Topic (*-intsi*; extant pronouns; meaning 'but X')
+!   [+CONTR.cnt.assert.TOP] — Contrastive Counter-Assertive Topic (*-inti*)
+!         Label: CONTR.TOP
+!         Example:
+!         Te nomayehi noponkantakari shiakomentotsiki irointikia noniro omake.
+!         ES: 'Yo no dormí durante el viaje en carro, pero mi mamá sí se durmió.'
+!         EN: 'I did not sleep during the car trip, but my mom did.'
+
+! SET 5: [+rflx.intsf] — Reflexive Intensifying (*-sati*, *-hatzi*)
+!         Meaning: 'too' (EN), 'también' (ES)
+!         Label: RFLX.INTSF
+
 # -------------------------------------------------------------------
 ! ********************
 ! 
