@@ -25,8 +25,8 @@ define PrnPersPRQin [
 ! 
 ! naka ~ naaka 
 ! ABBREV.: {PRN:/'1SG.EXCL.TOP':naaka/}
-  "[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naaka} ! @section:prnpers@ 
-| "[=naka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]" : {naka} ! @section:prnpers@ 
+  "[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa; CN: 我/wǒ)]" : {naaka} ! @section:prnpers@ 
+| "[=naka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa; CN: 我/wǒ)]" : {naka} ! @section:prnpers@ 
 # naro: it is only used in greetings 
 | "[=naro+pragm.func@cont.d.TOP.+num@1SG][PrnPers][=I (ES: yo)]" : {naro} ! @section:prnpers@ 
 ! ********************
