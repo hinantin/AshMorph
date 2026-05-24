@@ -379,6 +379,7 @@ define NRootESin [
 ! 
 | "[=jabon+allomorph@jabón.+gndr@n.m.+sem@tool][NRoot][=soap (ES: jabón)]" : {jabon} 
 | "[=terejono+allomorph@teléfono.+gndr@n.m.][NRoot:ES][=telephone (ES: teléfono)]" : {terejono} 
+| "[=segonto+allomorph@segundo.+gndr@n.m.][NRoot:ES][=second (time) (ES: segundo)]" : {segonto}
 ];
 
 # 
