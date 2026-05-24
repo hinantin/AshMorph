@@ -376,6 +376,9 @@ define NRootESin [
 | "[=tijera/tzishira+gndr@n.m.][NRoot][=scissors (ES: tijera)]" : {tzishira} 
 
 | "[=tijera/tishira+gndr@n.m.][NRoot][=scissors (ES: tijera)]" : {tishira} 
+! 
+| "[=jabon+allomorph@jabón.+gndr@n.m.+sem@tool][NRoot][=soap (ES: jabón)]" : {jabon} 
+| "[=terejono+allomorph@teléfono.+gndr@n.m.][NRoot:ES][=telephone (ES: teléfono)]" : {terejono} 
 ];
 
 # 
