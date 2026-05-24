@@ -3402,6 +3402,9 @@ define NRootPRQin [
 | "[=mantsaki+inal@ntsi.][NRoot][=cushma (ES: ropa, cushma)]" : {mantsaki}
 # -----------------------------------------------------------------------
 ! 
+| "[=mantsaki+inal@ntsi.][NRoot][=cushma (ES: ropa, cushma)]" : {mantsaki}
+# --------------------------------------------------------------------- 
+! 
 | "[=mantsaki+gndr@m.+sem@insect][NRoot][=ant.sp. (ES: sp.de.isula, hormiga)]" : {mantsaki}
 # -----------------------------------------------------------------------
 ! 
@@ -3409,6 +3412,13 @@ define NRootPRQin [
 # -----------------------------------------------------------------------
 ! 
 | "[=mantona+gndr@m.+sem@reptile][NRoot][=boa (ES: boa)]" : {mantona}
+# -----------------------------------------------------------------------
+! 
+| "[=mantsiyare+~{V:/'to.be.sick':mantsiya/}{NMZ:re}+gndr@n.m.+inal@ntsi.][NRoot][=illness, symptom (ES: síntoma, enfermedad)]" : {mantsiyare} 
+| "[=mantsiyarentsi+gndr@n.m.+poss@te.][NRoot][=illness, symptom (ES: síntoma, enfermedad)]" : {mantsiyarentsi} 
+# --------------------------------------------------------------------- 
+! 
+| "[=terejono+allomorph@teléfono.+gndr@n.m.][NRoot:ES][=telephone (ES: teléfono)]" : {terejono} 
 # -----------------------------------------------------------------------
 ! 
 | "[=mapaa+gndr@n.m.+poss@ni.+sem@plant][NRoot][=tree.sp. (ES: zapote, sp.de.árbol)]" : {mapaa}
